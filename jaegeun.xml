@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Person xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:noNamespaceSchemaLocation="jaegeun.xsd" >
+
+        <name>  ha   </name>
+        <lastname> jaegeun </lastname>
+        <firstname> ha </firstname>
+        <age> 25 </age>
+        <address post="111-222"> Bahia street  </address>
+</person>
