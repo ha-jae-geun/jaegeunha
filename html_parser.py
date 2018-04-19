@@ -3,7 +3,7 @@ import bs4 as bs
 import urllib.request
 
 sauce = urllib.request.urlopen('https://google.com').read()
-soup = bs.BeautifulSoup(sauce, 'lxml')
+soup = bs.BeautifulSoup(sauce, 'html')
 
 print(soup.title.text)
 
