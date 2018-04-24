@@ -172,7 +172,7 @@ print(type(variable))
 *for item in (0..10) do  <statement>  end
 ```
 
-##ÆÄÀÌ½ã #function
+##ÆÄÀÌ½ã #function = function
 ```python
 *def <function name>():
 *def <function name>(): return; // after return function, function is over immediately
