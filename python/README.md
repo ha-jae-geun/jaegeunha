@@ -1,6 +1,12 @@
+Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
+[Pycharm](https://www.jetbrains.com/pycharm/)
+[Ruby](https://www.jetbrains.com/ruby)
+[python common mistake](http://hamait.tistory.com/851?category=79136)
 
 ---
-[TOC]
+ 
+  [TOC]
+
 ---
 
 #Development Environment
