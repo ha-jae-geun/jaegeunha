@@ -5,7 +5,7 @@ Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
 
 ---
  
-  [TOC]
+[TOC]
 
 ---
 

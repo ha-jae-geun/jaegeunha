@@ -1,17 +1,18 @@
 #Programming
 #C:\Users\jaegeun\AppData\Local\Programs\Python\Python36-32
 ---
-  [TOC]
-  [python, ruby](./python/README.md)
+
+[TOC]
+[python, ruby](./python/README.md)
 
 ---
 
- ###UML 
+###UML 
   Grady Booch, James Rumbaugh,  Ivar Jacobson
 
 ---
   
- ###Linux User
+###Linux User
   1. Elementary OS
   2. Linux Mint
   3. Arch Linux 
