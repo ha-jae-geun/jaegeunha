@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="Person">
+        <xs:complexType>
+            <xs:choice>
+                  <xs:element name="name" use="required" type="xs:string"></xs:element>
+                  <xs:element name="age" use="optional" type="xs:integer"></xs:element>
+                  <xs:element name="address"  type= "xs:string"></xs:element>
+            </xs:choice>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

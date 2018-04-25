@@ -3,14 +3,15 @@
 ---
 
 [TOC]
-[python, ruby](./python/README.md)
+  
+  [python, ruby](./python/README.md)
+  [Linux](./Linux/README.md)
 
----
 
 ###UML 
   Grady Booch, James Rumbaugh,  Ivar Jacobson
 
----
+
   
 ###Linux User
   1. Elementary OS
