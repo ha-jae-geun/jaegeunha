@@ -2,11 +2,11 @@
 #C:\Users\jaegeun\AppData\Local\Programs\Python\Python36-32
 ---
 
-Reference: [»ýÈ° ÄÚµù](https://opentutorials.org/course/1750/9689)
+Reference: [Â»Ã½ÃˆÂ° Ã„ÃšÂµÃ¹](https://opentutorials.org/course/1750/9689)
 ---
 
-[ÆÄÀÌ½ã](https://www.jetbrains.com/pycharm/)
-[·çºñ](https://www.jetbrains.com/ruby)
+[Pycharm](https://www.jetbrains.com/pycharm/)
+[Ruby](https://www.jetbrains.com/ruby)
 [python common mistake](http://hamait.tistory.com/851?category=79136)
 [Enlgish](/english/README.md)
 
@@ -14,3 +14,13 @@ Reference: [»ýÈ° ÄÚµù](https://opentutorials.org/course/1750/9689)
 [python, ruby](./python/README.md)
 
 ---
+UML 
+  Grady Booch, James Rumbaugh,  Ivar Jacobson
+---
+Linux User
+  1. Elementary OS
+  2. Linux Mint
+  3. Arch Linux 
+  4. Ubuntu
+  5. Tails
+  6. CentOS
