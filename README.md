@@ -1,15 +1,17 @@
 #Programming
-#C:\Users\jaegeun\AppData\Local\Programs\Python\Python36-32
+
+  *git rm -f filename
+  *git branch [branch](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
+
 ---
 
 [TOC]
   
-  [python, ruby](./python/README.md)
-  [Linux](./Linux/README.md)
+  [python, ruby](./PL/python/README.md)
+  [Linux](./OS/Linux/README.md)
+  [Software](./SW/README.md)
 
 
-###UML 
-  Grady Booch, James Rumbaugh,  Ivar Jacobson
 
 
   

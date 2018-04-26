@@ -11,13 +11,13 @@ import urllib.request
 import requests
 
 
-url= "https://www.google.com/search?ei=C_7fWomPD86WsAXB-oXADA&q=%EB%8F%99%EB%9E%98%EB%A1%AF%EB%8D%B0%EC%8B%9C%EB%84%A4%EB%A7%88+&oq=%EB%8F%99%EB%9E%98%EB%A1%AF%EB%8D%B0%EC%8B%9C%EB%84%A4%EB%A7%88+&gs_l=psy-ab.3..0j0i30k1l2j0i5i30k1l2.6042.6042.0.6316.1.1.0.0.0.0.104.104.0j1.1.0.foo%2Csueb%3D1%2Ccfro%3D1...0...1.1.64.psy-ab..0.1.102....0.1vzfyTCf_OQ"
+url= "https://www.google.com/search?ei=jhbhWv6EFdCAtgWvs4O4Bw&q=%EB%8F%99%EB%9E%98%EB%A1%AF%EB%8D%B0%EC%8B%9C%EB%84%A4%EB%A7%88&oq=%EB%8F%99%EB%9E%98&gs_l=psy-ab.3.1.35i39k1l2j0l8.1833.2495.0.4082.5.5.0.0.0.0.141.619.0j5.5.0.foo%2Csueb%3D1%2Ccfro%3D1...0...1.1j4.64.psy-ab..0.5.617....0.WSR_5tQm4GU"
 html=requests.get(url).text
 soup= BeautifulSoup(html,'html.parser')
 
-
-for div in soup.find_all("div"):
-	print(div) 
+#동래
+for div in soup.find_all("div",{"class":"ovxuVd"}):
+	print(div.get_text())
 
 #li = soup.find_all("body > div > div.sect-showtimes > ul > li:nth-child(1) > div > div:nth-child(2) > div.info-timetable > ul > li:nth-child(1) > a")
 #li = soup.find_all(".item -> li > div > a")

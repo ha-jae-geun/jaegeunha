@@ -1,27 +1,28 @@
+#https://www.w3.org/TR/html4/sgml/dtd.html
+#http://cossmos.tistory.com/37
+#https://movie.naver.com/movie/point/af/list.nhn?st=mcode&sword=136315&target=after
+#https://movie.naver.com/movie/bi/mi/photoView.nhn?code=142739&imageNid=6600089
+#https://movie.naver.com/movie/bi/mi/basic.nhn?code=136315
+#https://movie.naver.com/movie/bi/mi/basic.nhn?code=84 import BeautifulSoup
 import urllib.request
-import datetime
-import time
 import requests
 from bs4 import BeautifulSoup
 
-url = "http://www.cgv.co.kr/movies/?ft=0"
-html = urllib.request.urlopen(url).read() #url 불러들여 html 변수에 저장
-soup = BeautifulSoup(html,"html.parser")
+
+url= "http://m.cgv.co.kr/Schedule/?tc=0001&t=T&ymd=20180426&src="
+html=urllib.request.urlopen(url).read()
+soup= BeautifulSoup(html,'html.parser')
 
 
-#li2= soup.select("#body > div > div.sect-showtimes > ul > li:nth-child(1) > div > div:nth-child(2) > div.info-timetable > ul > li:nth-child(2) > a > em")
-li=soup.find_all("div",{"class":"info-timetable"})
-print(li)
-print(soup)
+for div in soup:
+	li = soup.select('div','class')
+	print(li)
+	#li2= BeautifulSoup(str(li),'html.parser')
+	#li2 = BeautifulSoup(str(li), 'html.parser')
+	 
+	
+#동래
+#for div in soup.select('section > div > div'):
+#	print(div.select(''))
+    #span = div.select("ul > li > a > span")
 
-for name in li:
-   print(name.get_text())
-
-
-   #div = soup.find_all("div")
-
-#li = soup.find_all("strong",{"class:":"title"})
-
-#body > div > div.sect-showtimes > ul > li:nth-child(1) > div > div:nth-child(2) > div.info-timetable > ul > li:nth-child(2) > a > em
-
-#li = soup.find_all("em")
