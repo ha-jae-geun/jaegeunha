@@ -10,17 +10,18 @@ from bs4 import BeautifulSoup
 import urllib.request
 import requests
 import datetime
+from selenium import webdriver
 
 
-url= "https://www.google.com/search?ei=fX_iWvSBJqHYjwSD3IG4CQ&q=%EB%8F%99%EB%9E%98+%EB%A1%AF%EB%8D%B0+%EC%8B%9C%EB%84%A4%EB%A7%88&oq=%EB%8F%99%EB%9E%98+%EB%A1%AF%EB%8D%B0+%EC%8B%9C%EB%84%A4%EB%A7%88&gs_l=psy-ab.3..0j0i20i263k1j0i30k1l6j0i8i30k1l2.71704.73887.0.73985.22.12.1.0.0.0.190.1114.0j8.9.0.foo%2Csueb%3D1%2Ccfro%3D1...0...1.1j4.64.psy-ab..14.8.952.6..35i39k1j0i10k1.101.4ZWrLg5W9uQ"
-url2= "http://www.megabox.co.kr/?cinema=6001&menuId=theater-detail"
-url3= "http://www.cgv.co.kr/common/showtimes/iframeTheater.aspx?areacode=207&theatercode=0128&date=20180427&screencodes=&screenratingcode=&regioncode="
-html=requests.get(url).text
-html2=requests.get(url2).text
-html3=requests.get(url3).text
-soup= BeautifulSoup(html,'html.parser')
-soup2=BeautifulSoup(html2,'html.parser')
-soup3=BeautifulSoup(html3,'html.parser')
+url= "http://www.megabox.co.kr/?cinema=6001&menuId=theater-detail"
+driver = webdriver.Chrome('/Users/beomi/Downloads/chromedriver')
+driver.implicitly_wait(3)
+driver.get(url)
+# html = driver.page_source
+# soup= BeautifulSoup(html,'html.parser')
+
+li = soup.find_all("div")
+print(li)
 
 # for div in soup3.find_all("div"):
 	# print(div)

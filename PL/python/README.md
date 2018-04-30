@@ -7,6 +7,18 @@ Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
  
 [TOC]
 
+#strength(Guido van Rossum)
+  *simple syntax
+  *have a lot of libraries
+  *dynamic typing = type 
+  *can access to object's member whenever i want
+  *slower than c, c++(make native binary file)
+  *it can operate fast
+  *have garbage collector and support unicode
+
+
+---
+
 ---
 
 #Development Environment
@@ -33,7 +45,7 @@ print(¡°\\¡±)
 ```
 
 ```ruby
-·çºñ ¹®ÀÚ¿­
+·python ¹®ÀÚ¿­
  ^^ ¡®¡¯´Â; //doesn¡¯t work escape
 
  puts(¡®Hello ¡® +  :world¡¯)
@@ -56,7 +68,7 @@ print(¡°\\¡±)
 *print(¡°¾È³çÇÏ¼¼¿ä¡± +name+¡°´Ô¡±)
 ```
 
-##·çºñ #Variable
+##·python #Variable
 ```ruby
 *print(x+y)
 *title=¡±python & ruby¡± // string variable
@@ -70,7 +82,7 @@ print(¡°\\¡±)
 *print(True) // first letter end capital
 ```
 
-###·çºñ #boolean
+###·python #boolean
 ```ruby
 *print(true) // small letter, lower case
 ```
@@ -81,7 +93,7 @@ print(¡°\\¡±)
 *if condition:  / elif condition: / else: / end
 ```
 
-##·çºñ #Á¶°Ç¹®  ##statement
+##·python #Á¶°Ç¹®  ##statement
 ```ruby
 *if  condition  end  // if the conditon is true, setence until end will be executed
 *if condition  / elsif condition / else / end
@@ -94,7 +106,7 @@ print(¡°\\¡±)
 ```
 
 
-##·çºñ #input
+##·python #input
 ```ruby
 *in_str = gets.chomp() | puts(in_str + ¡°World!¡±)
 ```
@@ -104,14 +116,14 @@ print(¡°\\¡±)
 if and/or/not
 ```
 
-##·çºñ #logical operation // and, or, not
+##·python #logical operation // and, or, not
 ```ruby
 *if and/or/not
 ```
 
 
 ##ÆÄÀÌ½ã #Cheat Sheet  https://opentutorials.org/course/1750/9689
-##·çºñ #Cheat Sheet
+##·python #Cheat Sheet
 ---------------------
 
 ##ÆÄÀÌ½ã annotation
@@ -119,7 +131,7 @@ if and/or/not
 *¡¯¡¯¡¯ ¡®¡¯¡¯  // Until next ¡®¡¯¡¯, it is string type. But if we don¡¯t store values, we can use it as annotation
 ```
 
-##·çºñ #annotation
+##·python #annotation
 ```
 *#
 *=begin =end // It¡¯s not formal annotation. 2. Toggle Comments in atom
@@ -136,29 +148,49 @@ if and/or/not
 *del(al[0])
 ```
 
-##·çºñ #Array
 
 
-##ÆÄÀÌ½ã #type
+
+##def
+
+```python
+  *def__init__(self, variable): // variable is local bariable
+    #self.v1 = v1 // self means instance
+```
+  *In python, we can approach instance directly
+  *Reason why we use object
+
+  ###getValue(self)
+    *return self.value
+
+###Array
+  *push
+  *join
+
+###type
 print(type(variable))
 
-##·çºñ #class
-*put(variable.class)
+## #class
+  *put(variable.class)
+  *isinstance  // check out if its internal class
+    #if isinstance(v1, int):
+##object
+  *add
+  *subtract
 
-
-##ÆÄÀÌ½ã #documentation
+## #documentation
 ```python
 *python homepage -> documentation: Tutorial / Library Rreference / Language Reference
 ```
 
-##·çºñ #documentation
+##·python #documentation
 ```ruby
 *ruby homepage ->
 *puts(arr[1..4])
  ```
 
 
-##ÆÄÀÌ½ã #iteration
+## #iteration
 ```python
 *while condition:
 *break
@@ -169,7 +201,7 @@ print(type(variable))
 *for item in range (5, 9): // 5 to 9
 ```
 
-##·çºñ #iteration
+##·python #iteration
 ```ruby
 *while <condition> do   end
 *break
@@ -185,7 +217,7 @@ print(type(variable))
 *def <function name>(parameter):  print(parameter)
 ```
 
-##·çºñ #function
+##·python #function
 ```ruby
 *def <function name>()  end
 ```
@@ -195,7 +227,7 @@ print(type(variable))
 
 ---
 
-##·çºñ #pacakge manager;  #rubygems.org
+##·python #pacakge manager;  #rubygems.org
 * type gem in cmd
 
 ---
