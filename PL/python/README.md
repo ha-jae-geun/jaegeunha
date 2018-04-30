@@ -151,46 +151,48 @@ if and/or/not
 
 
 
-##def
+  ##def
 
 ```python
   *def__init__(self, variable): // variable is local bariable
     #self.v1 = v1 // self means instance
 ```
+
   *In python, we can approach instance directly
   *Reason why we use object
 
   ###getValue(self)
     *return self.value
 
-###Array
+  ###Array
   *push
   *join
 
-###type
-print(type(variable))
+  ###type
+  print(type(variable))
 
-## #class
+  ## #class
   *put(variable.class)
   *isinstance  // check out if its internal class
     #if isinstance(v1, int):
-##object
+  
+  ##object
   *add
   *subtract
 
-## #documentation
+  ## #documentation
 ```python
 *python homepage -> documentation: Tutorial / Library Rreference / Language Reference
 ```
 
-##·python #documentation
+  ##·python #documentation
 ```ruby
 *ruby homepage ->
 *puts(arr[1..4])
  ```
 
 
-## #iteration
+  ## #iteration
 ```python
 *while condition:
 *break
@@ -201,7 +203,7 @@ print(type(variable))
 *for item in range (5, 9): // 5 to 9
 ```
 
-##·python #iteration
+  ##·python #iteration
 ```ruby
 *while <condition> do   end
 *break
@@ -210,29 +212,29 @@ print(type(variable))
 *for item in (0..10) do  <statement>  end
 ```
 
-##ÆÄÀÌ½ã #function = function
+  ##ÆÄÀÌ½ã #function = function
 ```python
 *def <function name>():
 *def <function name>(): return; // after return function, function is over immediately
 *def <function name>(parameter):  print(parameter)
 ```
 
-##·python #function
+  ##·python #function
 ```ruby
 *def <function name>()  end
 ```
 
 
-##ÆÄÀÌ½ã #package manager; #pypi.python.org
+  ##ÆÄÀÌ½ã #package manager; #pypi.python.org
 
 ---
 
-##·python #pacakge manager;  #rubygems.org
+  ##·python #pacakge manager;  #rubygems.org
 * type gem in cmd
 
 ---
 
-##¸ðµâ- python -> documentation -> Library Reference
+  ##¸ðµâ- python -> documentation -> Library Reference
 ```python
   $Grouping functions linked to each other
 python
@@ -240,22 +242,22 @@ python
 *from egoing import a as z-> print(z())  // In this case, you don¡¯t have to write egoing
 ```
 
-##Ruby module
+  ##Ruby module
 ```ruby
 *// you don¡¯t have to declare import, because it contains it
 ```
----
+  ---
 
-##Mixin
-###python
+  ##Mixin
+  ###python
 
 
-####Ruby
+  ####Ruby
 * It doesn¡¯t offer #multi inheritance, but ruby supports mixin
 * include module // you can¡¯t include class, just module
 
 ---
-##OOP
+  ##OOP
 * string class
   - name1 = String.new('jaegeun')
   - Correspondence: function-logic, variable-data
@@ -263,7 +265,7 @@ python
 
 ---
 
-##memory
+  ##memory
   python
 * Tips for memory
   + avoid string concatenation -> use map function
@@ -275,7 +277,7 @@ python
   2. is operation can't use override function
 
 
-**copy**
+  ##copy
 copy.copy()
 * same function as [:], .copy()
 copy.deepcopy()
@@ -286,7 +288,7 @@ String interning
 * store string once in memory
 
 
-**Empty memory**
+  ##Empty memory
 * del_keyword
   + remove the variables  
 * Reference count
