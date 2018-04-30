@@ -5,18 +5,18 @@ Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
 
  
 [목차]
-* 1. [Development](#Development)
-* 2. [Grammar](#Grammar)
+* 1. [Development](##Development)
+* 2. [Grammar](##Grammar)
 
 
 # strength(Guido van Rossum)
-  *simple syntax
-  *have a lot of libraries
-  *dynamic typing = type 
-  *can access to object's member whenever i want
-  *slower than c, c++(make native binary file)
-  *it can operate fast
-  *have garbage collector and support unicode
+* simple syntax
+* have a lot of libraries
+* dynamic typing = type 
+* can access to object's member whenever i want
+* slower than c, c++(make native binary file)
+* git can operate fast
+* have garbage collector and support unicode
 
 
 ---
