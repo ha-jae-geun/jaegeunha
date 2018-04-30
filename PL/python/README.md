@@ -1,11 +1,13 @@
 Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
-[Pycharm](https://www.jetbrains.com/pycharm/)
-[Ruby](https://www.jetbrains.com/ruby)
-[python common mistake](http://hamait.tistory.com/851?category=79136)
+  [Pycharm](https://www.jetbrains.com/pycharm/)
+  [Ruby](https://www.jetbrains.com/ruby)
+  [python common mistake](http://hamait.tistory.com/851?category=79136)
 
----
  
-[TOC]
+[ëª©ì°¨]
+* 1. [Development](#Development)
+* 2. [Grammar](#Grammar)
+
 
 # strength(Guido van Rossum)
   *simple syntax
@@ -22,7 +24,7 @@ Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
 ---
 
 # Development Environment
-* window: python, Mac¤ýUbuntu: python3
+* window: python, MacÂ¤Ã½Ubuntu: python3
 * install python -> PC properties -> System settings -> system variable -> edit path -> ;path -> C:\Python34\ -> cmd -> python path
 ---
 
@@ -30,32 +32,30 @@ Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
 
 ## Grammar
 
-## ÆÄÀÌ½ã ##¹®ÀÚ¿­ ##string
+## string
 ```python
- print(¡®Hello ¡® +  :world¡¯)
- print(¡®Hello ¡® *3)
- print(¡®Hello ¡® [0])
- print(¡®Hello ¡®.capitalize())
- print( len(¡®hello world¡¯))
+ print(Â¡Â®Hello Â¡Â® +  :worldÂ¡Â¯)
+ print(Â¡Â®Hello Â¡Â® *3)
+ print(Â¡Â®Hello Â¡Â® [0])
+ print(Â¡Â®Hello Â¡Â®.capitalize())
+ print( len(Â¡Â®hello worldÂ¡Â¯))
 replace
 upcase
-\¡±¹®ÀÚ¿­¡±\
-print(¡°\\¡±)
+
 *str(number) // when you convert the number to string
 ```
 
 ```ruby
-·python ¹®ÀÚ¿­
- ^^ ¡®¡¯´Â; //doesn¡¯t work escape
+Â·python 
+   //doesnÂ¡Â¯t work escape
 
- puts(¡®Hello ¡® +  :world¡¯)
- puts(¡®Hello ¡® *3)
- print(¡®Hello ¡®.capitalize())
- print(¡®Hello ¡®.length()): ¹®ÀÚ¿­ÀÇ °³¼ö
+ puts(Â¡Â®Hello Â¡Â® +  :worldÂ¡Â¯)
+ puts(Â¡Â®Hello Â¡Â® *3)
+ print(Â¡Â®Hello Â¡Â®.capitalize())
+ print(Â¡Â®Hello Â¡Â®.length()): 
  sub
  upcase
-\¡±¹®ÀÚ¿­¡±\
-print(¡°\\¡±)
+print()
 *number.to_s()  // when you convert the number to string
 ```
 
@@ -64,15 +64,14 @@ print(¡°\\¡±)
 ## #Variable
 ```python
 *print(x+y)
-*title=¡±python & ruby¡± // string variable
-*print(¡°¾È³çÇÏ¼¼¿ä¡± +name+¡°´Ô¡±)
+*title=Â¡Â±python & rubyÂ¡Â± // string variable
+*print()
 ```
 
 ## python #Variable
 ```ruby
 *print(x+y)
-*title=¡±python & ruby¡± // string variable
-*print(¡°¾È³çÇÏ¼¼¿ä¡± +name+¡°´Ô¡±)
+*title=Â¡Â±python & rubyÂ¡Â± // string variable
 
 ## boolean
 ```
@@ -89,11 +88,11 @@ print(¡°\\¡±)
 
 ## ##statement
 ```python
-*if condition: / else:  // python doesn¡¯t need end operation. Indent will  distinguish the group
+*if condition: / else:  // python doesnÂ¡Â¯t need end operation. Indent will  distinguish the group
 *if condition:  / elif condition: / else: / end
 ```
 
-## python #Á¶°Ç¹®  ##statement
+## python  ##statement
 ```ruby
 *if  condition  end  // if the conditon is true, setence until end will be executed
 *if condition  / elsif condition / else / end
@@ -101,14 +100,14 @@ print(¡°\\¡±)
 
 ## #input
 ```python
-*variable = input(¡°asdf.¡±) // input is command, it¡¯s string
-*variable = input(variable.upper() + ¡°asdf.¡±) // input is command
+*variable = input() // input is command, itÂ¡Â¯s string
+*variable = input(variable.upper() + Â¡Â°asdf.Â¡Â±) // input is command
 ```
 
 
 ## python #input
 ```ruby
-*in_str = gets.chomp() | puts(in_str + ¡°World!¡±)
+*in_str = gets.chomp() | puts(in_str + Â¡Â°World!Â¡Â±)
 ```
 
 ## #logical operation // and, or, not
@@ -128,22 +127,21 @@ if and/or/not
 
 ## annotation
 ```
-*¡¯¡¯¡¯ ¡®¡¯¡¯  // Until next ¡®¡¯¡¯, it is string type. But if we don¡¯t store values, we can use it as annotation
+*Â¡Â¯Â¡Â¯Â¡Â¯ Â¡Â®Â¡Â¯Â¡Â¯  // Until next Â¡Â®Â¡Â¯Â¡Â¯, it is string type. But if we donÂ¡Â¯t store values, we can use it as annotation
 ```
 
 ## python #annotation
 ```
 *#
-*=begin =end // It¡¯s not formal annotation. 2. Toggle Comments in atom
+*=begin =end // It 8=is not formal annotation. 2. Toggle Comments in atom
 ```
 
 ### container
 ```python
-* [¡®egoing¡¯, ¡®leezche¡¯] // Those strings belong to a list
-*variable = [¡®¡®egoing¡¯, ¡®leezche¡¯] -> print(variable) / print(variable[number]
-*egoing[1]= ¡®busan¡¯ // we can change the value
+* [Â¡Â®egoingÂ¡Â¯, Â¡Â®leezcheÂ¡Â¯] // Those strings belong to a list
+*variable = [Â¡Â®Â¡Â®egoingÂ¡Â¯, Â¡Â®leezcheÂ¡Â¯] -> print(variable) / print(variable[number]
+*egoing[1]= Â¡Â®busanÂ¡Â¯ // we can change the value
 *// we call element that belongs to container and they have their own index
-*¡¯A¡¯ in names
 *variable.append
 *del(al[0])
 ```
@@ -234,17 +232,17 @@ if and/or/not
 
 ---
 
-## ðµâ- python -> documentation -> Library Reference
+## python -> documentation -> Library Reference
 ```python
   $Grouping functions linked to each other
 python
 *math; import math
-*from egoing import a as z-> print(z())  // In this case, you don¡¯t have to write egoing
+*from egoing import a as z-> print(z())  // In this case, you donÂ¡Â¯t have to write egoing
 ```
 
 ## Ruby module
 ```ruby
-*// you don¡¯t have to declare import, because it contains it
+*// you donÂ¡Â¯t have to declare import, because it contains it
 ```
   ---
 
@@ -253,8 +251,8 @@ python
 
 
 ### Ruby
-* It doesn¡¯t offer #multi inheritance, but ruby supports mixin
-* include module // you can¡¯t include class, just module
+* It doesnÂ¡Â¯t offer #multi inheritance, but ruby supports mixin
+* include module // you canÂ¡Â¯t include class, just module
 
 ---
 ## OOP

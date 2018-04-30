@@ -1,17 +1,14 @@
 # Programming
 
-  *git rm -f filename
-  *git branch [branch](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
+* git rm -f filename
+* git branch [branch](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
+
 
 ---
-
-  [TOC]
-  
----
-
-   [python, ruby](./PL/python/README.md)
-   [Linux](./OS/Linux/README.md)
-   [Software](./SW/README.md)
+#Link
+ * [python, ruby](./PL/python/README.md)
+ * [Linux](./OS/Linux/README.md)
+ * [Software](./SW/README.md)
 
 ---
 
@@ -25,7 +22,7 @@
 ### Grady Booch 
 
 ### Gordon Earle Moore
-  *[1](https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%93%A0_%EB%AC%B4%EC%96%B4)
+* [1](https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%93%A0_%EB%AC%B4%EC%96%B4)
 
 ### Guido van Rossum
 * python
