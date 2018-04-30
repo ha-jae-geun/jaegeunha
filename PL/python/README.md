@@ -7,7 +7,7 @@ Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
  
 [TOC]
 
-#strength(Guido van Rossum)
+# strength(Guido van Rossum)
   *simple syntax
   *have a lot of libraries
   *dynamic typing = type 
@@ -21,16 +21,16 @@ Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
 
 ---
 
-#Development Environment
+# Development Environment
 * window: python, Mac¤ýUbuntu: python3
 * install python -> PC properties -> System settings -> system variable -> edit path -> ;path -> C:\Python34\ -> cmd -> python path
 ---
 
-#python, Ruby
+# python, Ruby
 
-##Grammar
+## Grammar
 
-##ÆÄÀÌ½ã ##¹®ÀÚ¿­ ##string
+## ÆÄÀÌ½ã ##¹®ÀÚ¿­ ##string
 ```python
  print(¡®Hello ¡® +  :world¡¯)
  print(¡®Hello ¡® *3)
@@ -61,83 +61,83 @@ print(¡°\\¡±)
 
 ---
 
-##ÆÄÀÌ½ã #Variable
+## #Variable
 ```python
 *print(x+y)
 *title=¡±python & ruby¡± // string variable
 *print(¡°¾È³çÇÏ¼¼¿ä¡± +name+¡°´Ô¡±)
 ```
 
-##·python #Variable
+## python #Variable
 ```ruby
 *print(x+y)
 *title=¡±python & ruby¡± // string variable
 *print(¡°¾È³çÇÏ¼¼¿ä¡± +name+¡°´Ô¡±)
 
-##boolean
+## boolean
 ```
 
-###ÆÄÀÌ½ã #boolean
+###  #boolean
 ```python
 *print(True) // first letter end capital
 ```
 
-###·python #boolean
+### python #boolean
 ```ruby
 *print(true) // small letter, lower case
 ```
 
-##ÆÄÀÌ½ã #Á¶°Ç¹® ##statement
+## ##statement
 ```python
 *if condition: / else:  // python doesn¡¯t need end operation. Indent will  distinguish the group
 *if condition:  / elif condition: / else: / end
 ```
 
-##·python #Á¶°Ç¹®  ##statement
+## python #Á¶°Ç¹®  ##statement
 ```ruby
 *if  condition  end  // if the conditon is true, setence until end will be executed
 *if condition  / elsif condition / else / end
 ```
 
-##ÆÄÀÌ½ã #input
+## #input
 ```python
 *variable = input(¡°asdf.¡±) // input is command, it¡¯s string
 *variable = input(variable.upper() + ¡°asdf.¡±) // input is command
 ```
 
 
-##·python #input
+## python #input
 ```ruby
 *in_str = gets.chomp() | puts(in_str + ¡°World!¡±)
 ```
 
-##ÆÄÀÌ½ã #logical operation // and, or, not
+## #logical operation // and, or, not
 ```python
 if and/or/not
 ```
 
-##·python #logical operation // and, or, not
+## python #logical operation // and, or, not
 ```ruby
 *if and/or/not
 ```
 
 
-##ÆÄÀÌ½ã #Cheat Sheet  https://opentutorials.org/course/1750/9689
-##·python #Cheat Sheet
+### Cheat Sheet  https://opentutorials.org/course/1750/9689
+## python #Cheat Sheet
 ---------------------
 
-##ÆÄÀÌ½ã annotation
+## annotation
 ```
 *¡¯¡¯¡¯ ¡®¡¯¡¯  // Until next ¡®¡¯¡¯, it is string type. But if we don¡¯t store values, we can use it as annotation
 ```
 
-##·python #annotation
+## python #annotation
 ```
 *#
 *=begin =end // It¡¯s not formal annotation. 2. Toggle Comments in atom
 ```
 
-##ÆÄÀÌ½ã #container
+### container
 ```python
 * [¡®egoing¡¯, ¡®leezche¡¯] // Those strings belong to a list
 *variable = [¡®¡®egoing¡¯, ¡®leezche¡¯] -> print(variable) / print(variable[number]
@@ -151,48 +151,48 @@ if and/or/not
 
 
 
-  ##def
+## def
 
 ```python
   *def__init__(self, variable): // variable is local bariable
     #self.v1 = v1 // self means instance
 ```
 
-  *In python, we can approach instance directly
-  *Reason why we use object
+* In python, we can approach instance directly
+* Reason why we use object
 
-  ###getValue(self)
+### getValue(self)
     *return self.value
 
-  ###Array
-  *push
-  *join
+### Array
+* push
+* join
 
-  ###type
+### type
   print(type(variable))
 
-  ## #class
-  *put(variable.class)
-  *isinstance  // check out if its internal class
+### class
+* put(variable.class)
+* isinstance  // check out if its internal class
     #if isinstance(v1, int):
   
-  ##object
-  *add
-  *subtract
+## object
+* add
+* subtract
 
-  ## #documentation
+### documentation
 ```python
 *python homepage -> documentation: Tutorial / Library Rreference / Language Reference
 ```
 
-  ##·python #documentation
+## python #documentation
 ```ruby
 *ruby homepage ->
 *puts(arr[1..4])
  ```
 
 
-  ## #iteration
+### iteration
 ```python
 *while condition:
 *break
@@ -203,7 +203,7 @@ if and/or/not
 *for item in range (5, 9): // 5 to 9
 ```
 
-  ##·python #iteration
+## python #iteration
 ```ruby
 *while <condition> do   end
 *break
@@ -212,29 +212,29 @@ if and/or/not
 *for item in (0..10) do  <statement>  end
 ```
 
-  ##ÆÄÀÌ½ã #function = function
+## #function = function
 ```python
 *def <function name>():
 *def <function name>(): return; // after return function, function is over immediately
 *def <function name>(parameter):  print(parameter)
 ```
 
-  ##·python #function
+## python #function
 ```ruby
 *def <function name>()  end
 ```
 
 
-  ##ÆÄÀÌ½ã #package manager; #pypi.python.org
+## #package manager; #pypi.python.org
 
 ---
 
-  ##·python #pacakge manager;  #rubygems.org
+## python #pacakge manager;  #rubygems.org
 * type gem in cmd
 
 ---
 
-  ##¸ðµâ- python -> documentation -> Library Reference
+## ðµâ- python -> documentation -> Library Reference
 ```python
   $Grouping functions linked to each other
 python
@@ -242,22 +242,22 @@ python
 *from egoing import a as z-> print(z())  // In this case, you don¡¯t have to write egoing
 ```
 
-  ##Ruby module
+## Ruby module
 ```ruby
 *// you don¡¯t have to declare import, because it contains it
 ```
   ---
 
-  ##Mixin
-  ###python
+## Mixin
+### python
 
 
-  ####Ruby
+### Ruby
 * It doesn¡¯t offer #multi inheritance, but ruby supports mixin
 * include module // you can¡¯t include class, just module
 
 ---
-  ##OOP
+## OOP
 * string class
   - name1 = String.new('jaegeun')
   - Correspondence: function-logic, variable-data
@@ -265,7 +265,7 @@ python
 
 ---
 
-  ##memory
+## memory
   python
 * Tips for memory
   + avoid string concatenation -> use map function
@@ -277,7 +277,7 @@ python
   2. is operation can't use override function
 
 
-  ##copy
+## copy
 copy.copy()
 * same function as [:], .copy()
 copy.deepcopy()
