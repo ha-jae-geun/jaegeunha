@@ -5,8 +5,8 @@
 
 
 ---
-#Link
- * [python, ruby](./PL/python/README.md)
+# Link
+ * [python, ruby](./PL/python/README.md)ㅉ
  * [Linux](./OS/Linux/README.md)
  * [Software](./SW/README.md)
 
