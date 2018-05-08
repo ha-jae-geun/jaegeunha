@@ -9,27 +9,58 @@ import requests
 from bs4 import BeautifulSoup
 
 
-url= "https://www.google.com/search?ei=HzrpWsjKJuTYjwTe95jIBw&q=%EB%A1%AF%EB%8D%B0%EC%8B%9C%EB%84%A4%EB%A7%88+%EB%8F%99%EB%9E%98+%EC%96%B4%EB%B2%A4%EC%A0%B8%EC%8A%A4&oq=%EB%A1%AF%EB%8D%B0%EC%8B%9C%EB%84%A4%EB%A7%88+%EB%8F%99%EB%9E%98+%EC%96%B4%EB%B2%A4%EC%A0%B8%EC%8A%A4&gs_l=psy-ab.3..35i39k1l2.204194.204441.0.204700.3.3.0.0.0.0.167.374.0j3.3.0....0...1.1j4.64.psy-ab..1.1.166....0.EsxfJWRgXvI"
+url= "https://www.google.com/search?source=hp&ei=QBPxWrHyKMukjwTX67m4BA&q=%EB%A9%94%EA%B0%80%EB%B0%95%EC%8A%A4+%EA%B3%B5%EC%A3%BC&oq=&gs_l=psy-ab.1.0.35i39k1l6.0.0.0.3535.3.1.0.0.0.0.0.0..1.0....0...1..64.psy-ab..2.1.106.6...106.nDwSMUe9d5Q"
 headers = {'User-Agent' : 'test'}
 r = requests.get(url, headers=headers)
 soup= BeautifulSoup(r.text,'html.parser')
 
 
-showtime_kind = soup.find_all("div",{"class":"DOGJyf"})
-showtime_19 = 
+
+
+
+# #롯데시네마
+# for div in soup.find_all("div",{"class":"ovxuVd"}):
+# 	show_time = div.get_text()
+# 	print(show_time)
+# show_start = show_time.find('어벤져스')
+# print(show_time)
+
+
+#메가박스
+# for div in soup.find_all("div",{"class":"JLxn7"}):
+# 	print(div.get_text())
+# for div in soup.find_all("div",{"class":"ovxuVd"}):
+# 	print(div)
+
+
+
+
+#메가박스
+# for div in soup.find_all("div",{"class":"SW9Xgc"}):
+# 	show_time = div.get_text()
+# show_start = show_time.find('어벤져스')
+# show_end = show_time.find('어벤져스')
+# print(show_time[47:])
+
+
+
+# # show_kind = BeautifulSoup(str(show_time), 'html.parser')
+# show_time = soup.find_all("div",{"class":"DOGJyf"})
+# for div in soup.find_all("div",{"class":"DOGJyf"}):
+# 	show_time = div.get_text()
+# show_start = show_time.find('어벤져스')
+# show_end = show_time.find('어벤져스')
+# print(show_time[47:])
+# show_kind = BeautifulSoup(str(show_time), 'html.parser')
+
+
+
+showtime_kind = soup.select('div.e3wEkd:nth-of-type > div.ovxuVd')
+showtime_kind = soup.select('*:nth-of-type(1) > div > div.ovxuVd')
+showtime_kind = soup.select('span')
+showtime_kind = soup.select('td > div. > div.ovxuVd')
 print(showtime_kind)
-# print(showtime_kind.find('14'))
 
-
-# showtime_kind = soup.select('div.search')
-# showtime_kind = soup.select('td:nth-of-type(1) > div.e3wEkd:nth-of-type(1) > div.ovxuVd')
-# #showtime_kind = soup.select('td > div:nth-of-type(1) > div.ovxuVd')
-# #showtime_kind = soup.select('div.e3wEkd:nth-type(0) > div.ovxuVd')
-# print(showtime_kind)
-# # li1 = soup.get_text()
-
-# li2 = li1.find("div")
-# print(li2)
 
 
 # for div in soup.find_all("div"):

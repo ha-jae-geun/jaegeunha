@@ -1,20 +1,42 @@
 import urllib.request
+from datetime import datetime,date
 import requests
+import os
+import sys
 from bs4 import BeautifulSoup
+import ast
+from selenium import webdriver
 
-
-url= "https://www.google.com/search?ei=HzrpWsjKJuTYjwTe95jIBw&q=%EB%A1%AF%EB%8D%B0%EC%8B%9C%EB%84%A4%EB%A7%88+%EB%8F%99%EB%9E%98+%EC%96%B4%EB%B2%A4%EC%A0%B8%EC%8A%A4&oq=%EB%A1%AF%EB%8D%B0%EC%8B%9C%EB%84%A4%EB%A7%88+%EB%8F%99%EB%9E%98+%EC%96%B4%EB%B2%A4%EC%A0%B8%EC%8A%A4&gs_l=psy-ab.3..35i39k1l2.204194.204441.0.204700.3.3.0.0.0.0.167.374.0j3.3.0....0...1.1j4.64.psy-ab..1.1.166....0.EsxfJWRgXvI"
+title = urllib.parse.quote_plus('롯데시네마 동래')
+google_base ="https://www.google.com/search?ei=I8LrWqrgMsS3jwSv2pPwDQ&q="
+google_url=  google_base + title
 headers = {'User-Agent' : 'test'}
-r = requests.get(url, headers=headers)
-soup= BeautifulSoup(r.text,'html.parser')
+google_request = requests.get(google_url, headers=headers)
+google_soup= BeautifulSoup(google_request.text,'html.parser')
+
+google_li0=google_soup.find_all("div",{"class":"DOGJyf"})
 
 
-li3=soup.find_all("div",{"class":"DOGJyf"})
-#print(li3)
-for i in li3 :
-   li4=i.get_text()
-li5 = li4.find("Standard")
-#print(li5)
-title="어벤져스: 인피니티 워"
-li6=li4.find(title)
-li10=li4[li6+len(title):len(li4)]
+
+
+
+for i in google_li0:
+   google_li1=i.get_text()
+
+google_index = google_li1.find('어벤져스')
+print(google_index)
+google_index = google_li1.find('Standard',100)
+print(google_index)
+google_index1 = google_li1.find('Standard',google_index)
+print(google_li1[73:245])
+google_index1 = google_li1.rfind('pm',73,248)
+print(google_index1)
+
+# soup= BeautifulSoup(str(google_li1[73:100]),'html.parser')
+# print(soup)
+# google_index = google_li1.find('Standard')
+# print(google_index)
+# google_li10 = soup.find_all("div",{"class":"DOGJyf"})
+# for i in google_li10 :
+#    google_li11=i.get_text()
+#    print(i)
