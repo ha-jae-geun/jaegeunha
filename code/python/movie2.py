@@ -8,12 +8,11 @@ import urllib.request
 import requests
 from bs4 import BeautifulSoup
 
-
-url= "https://www.google.com/search?source=hp&ei=QBPxWrHyKMukjwTX67m4BA&q=%EB%A9%94%EA%B0%80%EB%B0%95%EC%8A%A4+%EA%B3%B5%EC%A3%BC&oq=&gs_l=psy-ab.1.0.35i39k1l6.0.0.0.3535.3.1.0.0.0.0.0.0..1.0....0...1..64.psy-ab..2.1.106.6...106.nDwSMUe9d5Q"
+position = urllib.parse.quote_plus("수원역/부산역")
+url= "https://www.google.com/maps/dir/수원역/부산역"
 headers = {'User-Agent' : 'test'}
 r = requests.get(url, headers=headers)
 soup= BeautifulSoup(r.text,'html.parser')
-
 
 
 
@@ -55,11 +54,11 @@ soup= BeautifulSoup(r.text,'html.parser')
 
 
 
-showtime_kind = soup.select('div.e3wEkd:nth-of-type > div.ovxuVd')
-showtime_kind = soup.select('*:nth-of-type(1) > div > div.ovxuVd')
-showtime_kind = soup.select('span')
-showtime_kind = soup.select('td > div. > div.ovxuVd')
-print(showtime_kind)
+# showtime_kind = soup.select('div.e3wEkd:nth-of-type > div.ovxuVd')
+# showtime_kind = soup.select('*:nth-of-type(1) > div > div.ovxuVd')
+# showtime_kind = soup.select('span')
+# showtime_kind = soup.select('td > div. > div.ovxuVd')
+# print(showtime_kind)
 
 
 
