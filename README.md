@@ -9,10 +9,12 @@
  * [Network](./network/README.md)
  * [Programing Language](./PL/README.md)
  * [python, ruby](./PL/python/README.md)
- * [Linux](./OS/Linux/README.md)
  * [Software](./SW/README.md)
  * [Virtual](./virtual/README.md)
-
+ * [Computer Architecture](./Architecture/README.md)
+ * [OS](./OS/README.md)
+   # [Linux](./OS/Linux/README.md)
+   # [Android](./OS/Android/README.md)
 
 ---
 
