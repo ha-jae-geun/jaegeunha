@@ -11,7 +11,7 @@
  * [python, ruby](./PL/python/README.md)
  * [Software](./SW/README.md)
  * [Virtual](./virtual/README.md)
- * [Computer Architecture](./Architecture/README.md)
+ * [Computer Architecture](./ComputerArchitecture/README.md)
  * [OS](./OS/README.md)
    # [Linux](./OS/Linux/README.md)
    # [Android](./OS/Android/README.md)

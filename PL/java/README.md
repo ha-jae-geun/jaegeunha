@@ -1,9 +1,4 @@
- * [java](./java/README.md)
  * [python, ruby](./python/README.md)
-
-## compiler language
-* focus on making errors while compiling
-
 
 ## java 
 * appliance -> support all OS
@@ -12,5 +7,6 @@
 * don't support multi inheritance
 * no pointer
 
-##c++
-*
+
+### class member, instance member
+* instance member is stored in heap, and class member is stored at compiler

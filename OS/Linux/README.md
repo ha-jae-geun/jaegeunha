@@ -14,6 +14,13 @@
   6. CentOS
 
 
+## SSh <> Telnet <> VNC
+  1. apt-get install openssh-server 
+  2. systemctl restart ssh / sysstemctl enable ssh / systemctl status ssh
+  3. ufw allow 22/tcp   // 22 is ssh's port
+  4. ssh 사용자명@서버ip
+
+
 ## network
   * cat /etc/network/interfaces
   * vi /etc/sysconfig/network/ifcfg-eth0  // IPADDR, NETMASK
@@ -23,6 +30,7 @@
   * systemctl start/stop/restart/status networking = /etc/init.d/network restart
   
   ## #DNS
+  * url -> search /etc/host.conf -> /etc/hosts > get ipaddress / access .etc.resolv.conf
   * nslookup // check out the DNS server's operation
   * /etc/resolv.conf   /etc/network/interfaces
   * /etc/hosts  // hostname and FQDN
