@@ -12,9 +12,11 @@
  * [Software](./SW/README.md)
  * [Virtual](./virtual/README.md)
  * [Computer Architecture](./ComputerArchitecture/README.md)
+ * [Algorithm](./Algorithm/README.md)
+ * [Architect](./Architect/README.md)
  * [OS](./OS/README.md)
-   # [Linux](./OS/Linux/README.md)
-   # [Android](./OS/Android/README.md)
+   + [Linux](./OS/Linux/README.md)
+   + [Android](./OS/Android/README.md)
 
 ---
 
