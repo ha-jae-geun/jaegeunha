@@ -25,22 +25,41 @@
 * Code, Stack, Heap, Data
 * Stack:  
 
+## Multi Process
+
+##Thread
+* it shares code, data and heap area. It has own stack area.
+
+## Multi Thread
+* If one thread breaks data space, it could affect the rest of threads
+  - Critical Section
+    + if threads more than two are excuted at the same time, it could affect statiic variable.
+      * Mutual Exclusion; synchronized
+      * Progress
+      * Bounded Waiting
+
 ## Memory structure
-* Data; initialized
+1. Data; initialized
   - static variable, global variable
   - it is called first and remain until programs terminate 
   - -> it's fixed
-* Stack(function): local variable, parameter, pointer variable
+  - BSS (Block Stated Symbol); uninitialized
+2. Stack(function): local variable, parameter, return, pointer variable
+  - ALl programs have stacks. It helps to go back
+  - from bottom to top
   - when the funcion is called, it starts to be stacked. (recursive)
   - when memory is allocated, stack area has to be extended(compile time)
-  - At compie time, stack size has to be decided
+  - At compile time, stack size has to be decided
   - if the function is terminated, stack is also deleted
   - -> it's static
   - Array's length has to be a constant
-* Heap; dynamic(malloc, free)
+  - stack size is fixed
+3. Heap; dynamic(malloc, free)  C++: new()
+  - from top to bottom
   - <> stack; running time 
-* BSS; uninitialized
-* Text(Code); assembly code
+4. Text(Code); assembly code about function; function, statement, constant
+* SMA(Static Memory Allocation): data, stack   | DMA(Dynamic Memory Allocation): Heap Area
+* Stack and heap are in inverse proportion
 
 ## Thread
 * Parallel
