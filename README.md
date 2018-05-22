@@ -8,7 +8,6 @@
 # Link
  * [Network](./network/README.md)
  * [Programing Language](./PL/README.md)
- * [python, ruby](./PL/python/README.md)
  * [Software](./SW/README.md)
  * [Virtual](./virtual/README.md)
  * [Computer Architecture](./ComputerArchitecture/README.md)
@@ -21,7 +20,7 @@
 ---
 
 
-###Alan Turing
+### Alan Turing
 * virtual machine
 
 ### Bjarne Stroustrup

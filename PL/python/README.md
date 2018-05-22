@@ -4,11 +4,6 @@ Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
   [python common mistake](http://hamait.tistory.com/851?category=79136)
 
  
-[목차]
-* 1. [Development](##Development)
-* 2. [Grammar](##Grammar)
-
-
 # strength(Guido van Rossum)
 * simple syntax
 * have a lot of libraries

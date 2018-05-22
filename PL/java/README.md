@@ -1,5 +1,3 @@
- * [python, ruby](./python/README.md)
-
 ## java 
 * appliance -> support all OS
 * oop + 
