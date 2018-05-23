@@ -10,41 +10,51 @@
 * SSD is 5times faster than HDD
 * Reading and writing have a limit in SSD
 * SSD: Flash memory(Like USB) + Controller
-  # Reading is faster than writing
-  # Cell(Memory Storation way) SLC(single) > MLC(Multi) > TLC(triple)  //Usually we use MLC
-    - The number of cell decides SSD's price
-    - SLC: 1 bit will be stored in one room
-    - SLC: It makes a controller complicated and it makes it unstable
+  - Reading is faster than writing
+  - Cell(Memory Storation way) SLC(single) > MLC(Multi) > TLC(triple)  //Usually we use MLC
+    + The number of cell decides SSD's price
+    + SLC: 1 bit will be stored in one room
+    + SLC: It makes a controller complicated and it makes it unstable
 
 
 ## Clipboard
 * It
 
 ## Process
+* basuc unit of running program
 * Concurrent
 * Code, Stack, Heap, Data
 * Stack:  
 
 ## Multi Process
+* time sharing
+* 1. copy process(fork function -> exec function) 2. create process
+* cons: it's hard to exchange information among processes
 
 ##Thread
 * it shares code, data and heap area. It has own stack area.
+* If the number of cpu's core is not much, there is a limit to make threads
+  - java thread
+    + 1. interface runnable 2. thread
+    + start method
 
 ## Multi Thread
+* Contact and switching context cost is cheap
 * If one thread breaks data space, it could affect the rest of threads
-  - Critical Section
-    + if threads more than two are excuted at the same time, it could affect statiic variable.
-      * Mutual Exclusion; synchronized
-      * Progress
-      * Bounded Waiting
+   + Synchronized 
+    - Critical Section
+      + if threads more than two are excuted at the same time, it could affect static variable.
+        * Mutual Exclusion; synchronized
+        * Progress
+        * Bounded Waiting
 
 ## Memory structure
-1. Data; initialized
+* Data; initialized
   - static variable, global variable
   - it is called first and remain until programs terminate 
   - -> it's fixed
   - BSS (Block Stated Symbol); uninitialized
-2. Stack(function): local variable, parameter, return, pointer variable
+* Stack(function): local variable, parameter, return, pointer variable
   - ALl programs have stacks. It helps to go back
   - from bottom to top
   - when the funcion is called, it starts to be stacked. (recursive)
@@ -54,10 +64,10 @@
   - -> it's static
   - Array's length has to be a constant
   - stack size is fixed
-3. Heap; dynamic(malloc, free)  C++: new()
+* Heap; dynamic(malloc, free)  C++: new()
   - from top to bottom
   - <> stack; running time 
-4. Text(Code); assembly code about function; function, statement, constant
+* Text(Code); assembly code about function; function, statement, constant
 * SMA(Static Memory Allocation): data, stack   | DMA(Dynamic Memory Allocation): Heap Area
 * Stack and heap are in inverse proportion
 

@@ -22,3 +22,23 @@
 ## Netbios
 * Computer properties -> change name -> detail
 * Only in Window OS
+
+
+##Socket
+* Internet Connect
+
+### IP
+
+### TCP/IP
+*  TCP is on IP
+* It provides communication function between processes
+* Threeway handshake, based on flow
+* cons: low performance, hard to stay data continuity -> reliability is more important
+* segment
+
+### UDP
+* continuity is more important than reliability -> fast(ex: starcraft)
+  - don't care about loss
+* High performance
+* socket() -> connect() -> sentto()/recvfrom () -> close()
+  - connect function can't clarify server. It doesn't perform connect phase
