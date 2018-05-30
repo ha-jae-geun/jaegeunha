@@ -20,10 +20,13 @@
 
 
 ### Alan Turing
+* 최초의 컴퓨터 기반
 * virtual machine
 
 ### Bjarne Stroustrup
 * c++
+
+### John von Neumann
 
 ### Grady Booch 
 

@@ -28,9 +28,23 @@
 * Internet Connect
 
 ### IP
+* to stay the network structure
+* Give ip address > set route to node that i want
+* unreliability and connectionlessness
 
 ### TCP/IP
+[TCP]('https://www.youtube.com/watch?v=8Ql1l048MD8&list=PLVsNizTWUw7GZy4UA9pntGRC9IIXIYiHm&index=3')
 *  TCP is on IP
+* physical -> internet -> transport -> application
+* Ethernet Protocol <> IP Protocol <> TCp Protocol <> HTTP Protocol
+* Socket is on the transport
+  - Kernel - driver - network card - network card - kernel
+  - BSD socket 
+  - connect softwares
+  - Create socket -> give port > connect ip/port
+  - Socket server: socket() > bind > listen > accept > send > recv
+  - Socket client: socket() >                connect > recv > send > close
+* ethernet ->     ip   ->    TCP    ->    Web server
 * It provides communication function between processes
 * Threeway handshake, based on flow
 * cons: low performance, hard to stay data continuity -> reliability is more important
