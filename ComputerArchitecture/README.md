@@ -8,7 +8,7 @@
 * CPU, 그래픽 카드
 
 ## bus
-* CPU와 메인 메모리 사이에 데이터를 저장하기 위한 터미널이다.
+* CPU와 메인 메모리 사이에 데이터를 저장하기 위한 터미널이다.  
     bus is terminal between CPU and Main memory to save data
 * Address bus, Data bus, Control bus
 * [Bus link](http://ssoonidev.tistory.com/14)
