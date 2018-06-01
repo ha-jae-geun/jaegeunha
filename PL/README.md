@@ -4,7 +4,7 @@
 
 ## compiler language
 * 컴파일 될 때 오휴를 내는 것에 집중했다.  
-    focus on making errors while compiling
+    ^focus on making errors while compiling
 
 
 ## java 
@@ -12,7 +12,7 @@
 * oop + 
 * JVM
 * C++과 다르게 다중 상속을 지원하지 않는다.  
-    don't support multi inheritance
+    ^don't support multi inheritance
 * no pointer
 
 ##c++

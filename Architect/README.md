@@ -12,7 +12,7 @@
 ## OOP
 * [OOP]('http://woowabros.github.io/study/2016/07/07/think_object_oriented.html')
 * 메세지가 객체를 정한다.
-  messages decide to create object // message first
+  ^messages decide to create object // message first
 
 ## OOP 설계 원칙(SOLID)
 
