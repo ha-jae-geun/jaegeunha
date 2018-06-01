@@ -29,7 +29,7 @@
   * ifcfg ens32
   * systemctl start/stop/restart/status networking = /etc/init.d/network restart
   
-  ## #DNS
+## DNS
   * url -> search /etc/host.conf -> /etc/hosts > get ipaddress / access .etc.resolv.conf
   * nslookup // check out the DNS server's operation
   * /etc/resolv.conf   /etc/network/interfaces
@@ -94,94 +94,94 @@
   
 
 
-## Command 
+# Command 
  
-  ## #man: 1~7
+## #man: 1~7
 
-  ## #vi
+## #vi
    * copy: yy
    * paste: p / P
    * find: /__ + enter
 
-  ## #mv 
+## #mv 
    * move file
    * change the name
 
-  ## #mkdir
+## #mkdir
     * mkdir -p  // if there is no parent directory, create it
 
-  ## #head
+## #head
 
-  ## #tail
+## #tail
 
-*  tail /etc/password  or /etc/shadow
+* tail /etc/password  or /etc/shadow
 
-  ## #more
+## #more
 
-  ## #less
+## #less
 
-  ## #file
+## #file
 
-  ## #adduser, userdel, change
+## #adduser, userdel, change
 
-  ## #passwd
+## #passwd
 
-  ## #usermod
+## #usermod
 
-  ## #groups, groupadd, groupmod, groupdel, gpasswd
+## #groups, groupadd, groupmod, groupdel, gpasswd
 
-  ## #chown 
-     *  chow root test//change owner   
-     *  chown root.root test
+## #chown 
+* chow root test//change owner   
+* chown root.root test
 
-  ## #whoami
+## #whoami
 
-  ## #ln
-    *  ln linkfile filename // hard link
-    *  ln -s linkfile filename // soft link
-      #if original file is gone, it doensn't work
-      #different inode value
-    *  ls -il // print inode 
+## #ln
+* ln linkfile filename // hard link
+* ln -s linkfile filename // soft link
+  if original file is gone, it doensn't work
+  different inode value
+*  ls -il // print inode 
 
 ## directory
-  ## #etc
-    *  /etc/passwd //account information
-    *  /etc/shadow // password
-    *  /etc/grooup // groupname:password:groupid:subgroupuser
+## #etc
+* /etc/passwd //account information
+* /etc/shadow // password
+* /etc/grooup // groupname:password:groupid:subgroupuser
 
 
-  ## #dpkg
-    *  dpkg has a dependency problem
-    *  dpkg -i / -r package_name
+## #dpkg
+* dpkg has a dependency problem
+* dpkg -i / -r package_name
 
-  ## #apt-get
-    *  /etc/apt/source.list // apt-get update -> install > upgrade // this directory get s the address/source.listaz
-    *  it installs all of packages that include dependency
-    *  apt-get remove package_name
-    *  apg-get purge package_name //
+## #apt-get
+* /etc/apt/source.list // apt-get update -> install > upgrade // this directory get s the address/source.listaz
+* it installs all of packages that include dependency
+* apt-get remove package_name
+* apg-get purge package_name //
 
-  ## #find  whereis  which locate
-    *  find /home -name "* .swp" -exec rm P {}  // 'exec' informs the end of command
+## #find  whereis  which locate
+* find /home -name "* .swp" -exec rm P {}  // 'exec' informs the end of command
   
 
-  ## #cron
-     * reserve periodic/cyclic work
-     * gedic /etc/crontab
-     * systemcel restart cron
+## #cron
+* reserve periodic/cyclic work
+* gedic /etc/crontab
+* systemcel restart cron
 
-  ## #at
-     *  Tempoary work
+## #at
+* Tempoary work
 
-  ## #pipe 
-    *  ls -l /etc | less
+## #pipe 
+* ls -l /etc | less
 
-  ## #filter
-     *  grep, tail, wc, sort, awk, sed
-     *  ps -ef | grep bash
+## #filter
+* grep, tail, wc, sort, awk, sed
+* ps -ef | grep bash
 
-  ## #redirection
-     * ls -l > list.txt
-     * ls -l >> list.txt
-     * sort < list.txt
-     * sort < list.txt > out.txt
+## #redirection
+* ls -l > list.txt
+* ls -l >> list.txt
+* sort < list.txt
+* sort < list.txt > out.txt
 

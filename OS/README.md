@@ -3,9 +3,12 @@
 
 
 ## Log
-* Window: Event viewer(systemlog > application program)
-* Linux: 1. /var/log  2. History
-* In terms of software, they can leave log on system log but if they are not related to system, they leave logs on files
+* 이벤트 뷰어
+  Window: Event viewer(systemlog > application program)
+* 파일 형식으로 되어 있음
+  Linux: 1. /var/log  2. History
+* 소프트웨어 측면에서는 시스템 로그에 로그를 남길 수 있지만 시스템과 관련이없는 경우 파일에 로그를 남깁니다.
+  In terms of software, they can leave log on system log but if they are not related to system, they leave logs on files
 
 ## Linux, WIndow
 
