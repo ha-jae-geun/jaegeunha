@@ -73,7 +73,8 @@
 ## UDP
 * 연속성이 신뢰성보다 중요함; 스타크래프트 UDP 서버  
   continuity is more important than reliability -> fast(ex: starcraft)
-  - don't care about loss
+  - 손실에 신경쓰지 않는다.  
+    don't care about loss
 * 높은 성능  
     High performance
 * socket() -> connect() -> sentto()/recvfrom () -> close()
