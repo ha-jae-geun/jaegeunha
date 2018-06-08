@@ -1,47 +1,117 @@
-import java.io.*;
-import java.net.InetAddress;
-import java.net.InetSocketAddress;
-import java.net.ServerSocket;
-import java.net.Socket;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
+import! java.net.*;
+import! java.io.*;
+import! java.util.*;
 
+public class Server {
+    ServerSocket ss;
+    Vector<Guest> v = new Vector<Guest>();
+    HashMap<String, Vector> map = new HashMap<String, Vector>();
 
-public class SERVER {
-    public static void main(String[] args) {
-        ServerSocket serverSocket;
-        Socket socket;
-
-        System.out.println("-SERVER 시작");
+    public Server(){
         try {
-                serverSocket = new ServerSocket(7777);
-                System.out.println("대기중");
-                socket = serverSocket.accept();
-                System.out.println(socket.getInetAddress() + "이 연결되었습니다.");
-
-                System.out.println("중간");
-
-            while (true) {
-                InputStream inputStream = socket.getInputStream();
-                byte[] byteArray = new byte[256];
-                int size = inputStream.read(byteArray);
-                String sendMessage = new String(byteArray, 0, size, "UTF-8");
-                System.out.println(sendMessage);
-                OutputStream outputStream = socket.getOutputStream();
-                outputStream.write(byteArray);
+            ss = new ServerSocket(9999);
+            while(true){
+                Socket s = ss.accept();
+                Guest g = new Guest(s, this);
+                addGuest(g);
+                g.setDaemon(true);
+                g.start();
             }
-
-        } catch (Exception e) {}
-
-        System.out.println("-SERVER 종료");
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
-}//
+    // 대기실 사용자 추가
+    public void addGuest(Guest g){
+        v.add(g);
+    }
+    // 대기실 사용자 제거
+    public void removeGuest(Guest g){
+        v.remove(g);
+    }
+    // 방 추가
+    public void addRoom(String roomtitle){
+        Vector<Guest> rv = new Vector<Guest>();
+        map.put(roomtitle, rv);
+    }
+    // 방 제거
+    public void removeRoom(String roomtitle){
+        map.remove(roomtitle);
+    }
+    // 방 사용자 추가
+    public void addRoomGuest(Guest g){
+        Vector<Guest> rv = map.get(g.roomtitle);
+        rv.add(g);
+    }
+    // 방 사용자 제거
+    public void removeRoomGuest(Guest g){
+        Vector<Guest> rv = map.get(g.roomtitle);
+        rv.remove(g);
+        if(rv.size()==0){
+            removeRoom(g.roomtitle);
+            broadcast("removeroom/");
+        }
+    }
+    // 대기실 모두에게
+    public void broadcast(String msg){
+        for(Guest g : v){
+            g.sendMsg(msg);
+        }
+    }
+    // 방 사용자 모두에게
+    public void broadcastRoom(String roomtitle, String msg){
+        if(map.get(roomtitle)!=null){
+            Vector<Guest> rv = map.get(roomtitle);
+            for(Guest g : rv){
+                g.sendMsg(msg);
+            }
+        }
+    }
+    // 귓속말
+    void whisper(String roomtitle, String receiveName, String sendName, String msg){
+        Vector<Guest> rv = map.get(roomtitle);
+        for( Guest g : rv){
+            if(g.id.equals(receiveName))
+                g.sendMsg("whisper/"+sendName+"/"+msg);
+        }
+    }
+    // 방 목록
+    public void broadcastRoomList(){
+        String roomlist="roomlist/";
+        Set<String> set = map.keySet();
+        for(String roomtitle : set){
+            String name=roomtitle;
+            roomlist+=roomtitle+"/";
+            for(int i=0; i<map.size(); i++){
+                Vector<Guest> rv = map.get(name);
+                roomlist+=rv.size()+"/";
+            }
+        }
+        broadcast(roomlist);
+    }
+    // 대기실 사용자 목록
+    public void broadcastGuestList(){
+        String guestlist="guestlist/";
+        for(Guest g : v){
+            guestlist+=g.id+"/";
+        }
+        broadcast(guestlist);
+    }
+    // 방 사용자 목록
+    public void broadcastRoomGuestList(String roomtitle){
+        String roomguestlist="roomguestlist/";
+        if(map.get(roomtitle)!=null){
+            Vector<Guest> rv = map.get(roomtitle);
+            if(rv.size()>0){
+                for(Guest g : rv){
+                    roomguestlist+=g.id+"/";
+                }
+                broadcastRoom(roomtitle, roomguestlist);
+            }
+        }
+    }
 
-
-//파일의 내용을 읽거나, 네트워크를 통해 받은 데이터는 보통 byte[] 배열이므로 이것을 문자열로 변환하기 위해 사용됩니다.
-//int read() : 한 바이트씩 읽는다 (리턴형 int 는 데이터다..).. 느리지.. 느려..
-//int read(byte[] b) : 한번에 왕창 읽는다 (데이터가 byte[] 배열에 저장. 리턴형 int 는 카운터다..)
-
-
-
+    public static void main(String args[]){
+        Server server = new Server();
+    }
+}

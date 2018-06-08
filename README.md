@@ -17,7 +17,7 @@
    + [Android](./OS/Android/README.md)
 
 ---
-
+* 애플 wwdc, 마이크로소프트, 구글 io, 네이버
 
 ### Alan Turing
 * 최초의 컴퓨터 기반
