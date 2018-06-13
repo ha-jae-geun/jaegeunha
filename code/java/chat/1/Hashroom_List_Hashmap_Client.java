@@ -16,7 +16,7 @@ public class TcpIpMultiChattingClient {
         int join;
         int roomNumber;
 
-        public ClientSender(Socket socket) {
+        public ClientSender(Socket socket, String name) {
             this.socket = socket;
             this.name = name;
             this.join = join;
@@ -65,7 +65,7 @@ public class TcpIpMultiChattingClient {
         }
     }
     public static void main(String[] args) {
-        int select;
+        String name;
         int join;
         int roomNumber;
         try {
@@ -76,9 +76,9 @@ public class TcpIpMultiChattingClient {
 
             Scanner input = new Scanner(System.in);
             System.out.println("이름을 입력하세요.");
-            select = input.nextInt();
+            name = input.nextLine();
 
-            ClientSender sender = new ClientSender(socket);
+            ClientSender sender = new ClientSender(socket, name);
             ClientReceiver receiver = new ClientReceiver(socket);
             sender.start();
             receiver.start();

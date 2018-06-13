@@ -11,6 +11,15 @@
 * 인스턴스 맴버는 힙에 저장되고 클래스 맴버는 컴파일러에 저장된다.  
   ^instance member is stored in heap, and class member is stored at compiler
 
+### get, set
+*        public int getCmd () {  
+            return cmd;  
+        }
+*       public void setCmd ( int cmd){  
+            this.cmd = cmd;  
+        }
+
+
 
 ## 스트림
 * ArrayList<Socket> roomNumber = new ArrayList<Socket>();
