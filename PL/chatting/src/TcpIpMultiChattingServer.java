@@ -44,6 +44,8 @@ public class TcpIpMultiChattingServer {
         Socket socket;
         DataInputStream in;
         Map<Socket, String> roomNumber = Collections.synchronizedMap(new HashMap<Socket, String>());
+        int select;
+        ByteArrayOutputStream byteOut;
 
         public ServerReceiver(Socket socket, Map<Socket, String> roomNumber) {
             this.socket = socket;
@@ -54,9 +56,14 @@ public class TcpIpMultiChattingServer {
             }
         }
         public void run() {
-            String name = "";
             try {
-                name = in.readUTF();
+                select = in.readInt();
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+            ClientProtocol cp = new ClientProtocol(select);
+            cp.transferClient();
+            try {
                 while (in!=null) {
                     sendToAll(roomNumber, socket, in.readUTF());
                 }
@@ -71,7 +78,7 @@ public class TcpIpMultiChattingServer {
 //                socketList.remove(socket);
                 System.out.println(socket);
 //                sendToAll(socketList,"#" + name + "님이 퇴장했습니다.");
-                System.out.println(name + "유저 [" + socket.getInetAddress() + ":" + socket.getPort() + "]" + "에서 접속을 종료하였습니다.");
+//                System.out.println(name + "유저 [" + socket.getInetAddress() + ":" + socket.getPort() + "]" + "에서 접속을 종료하였습니다.");
 //                System.out.println("현재 서버접속자 수는 " + socketList.size() + "입니다.");
             } // finally
         } // run

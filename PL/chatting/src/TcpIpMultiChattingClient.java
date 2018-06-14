@@ -13,14 +13,17 @@ public class TcpIpMultiChattingClient {
         Socket socket;
         DataOutputStream out;
         String name;
+        int protocol;
+        String roomName;
+        String msg;
         int join;
         int roomNumber;
 
         public ClientSender(Socket socket) {
             this.socket = socket;
-            this.name = name;
-            this.join = join;
-            this.roomNumber= roomNumber;
+            this.protocol = protocol;
+            this.roomName = roomName;
+            this.msg = msg;
             try {
                 out = new DataOutputStream(socket.getOutputStream());
             } catch (Exception e) {
@@ -31,9 +34,9 @@ public class TcpIpMultiChattingClient {
             Scanner scanner = new Scanner(System.in);
             try {
                 if (out != null) {
-                    out.writeUTF(name);
-                    out.writeInt(join);
-                    out.writeInt(roomNumber);
+                    out.writeInt(protocol);
+                    out.writeUTF(roomName);
+                    out.writeUTF(msg);
                 }
 
                 while (out != null) {
@@ -77,11 +80,15 @@ public class TcpIpMultiChattingClient {
             Scanner input = new Scanner(System.in);
             System.out.println("이름을 입력하세요.");
             select = input.nextInt();
+            ClientProtocol cp = new ClientProtocol(select);
+            cp.transferClient();
 
-            ClientSender sender = new ClientSender(socket);
-            ClientReceiver receiver = new ClientReceiver(socket);
-            sender.start();
-            receiver.start();
+            if(cp.protocolName == 4) {
+                ClientSender sender = new ClientSender(socket);
+                ClientReceiver receiver = new ClientReceiver(socket);
+                sender.start();
+                receiver.start();
+            }
         }
         catch (ConnectException ce) {
             ce.printStackTrace();

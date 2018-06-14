@@ -1,6 +1,7 @@
 import java.io.*;
+import java.util.Scanner;
 
-public class ServerProtocol {
+public class ClientProtocol {
     int protocolName;
     int size;
     String name;
@@ -8,81 +9,94 @@ public class ServerProtocol {
     String roomName;
     int msgSize;
     String msgName;
+    Scanner input = new Scanner(System.in);
 
-    public ServerProtocol(int protocolName, int size, String name) {
-        this.protocolName = protocolName;
-        this.size = size;
-        this.name = name;
-    }
-    public ServerProtocol(int protocolName, int roomSize, String roomName, int msgSize, String msgName) {
-        this.protocolName = protocolName;
-        this.roomSize = roomSize;
-        this.roomName = roomName;
-        this.msgSize = msgSize;
-        this.msgName = msgName;
-    }
-    public void run() {
+//    public ClientProtocol(int protocolName, int size, String name) {
+//        this.protocolName = protocolName;
+//        this.size = size;
+//        this.name = name;
+//    }
+//    public ClientProtocol(int protocolName, int roomSize, String roomName, int msgSize, String msgName) {
+//        this.protocolName = protocolName;
+//        this.roomSize = roomSize;
+//        this.roomName = roomName;
+//        this.msgSize = msgSize;
+//        this.msgName = msgName;
+//    }
+    public void  deserialization() {
         switch (protocolName) {
             case 1:
-                    ServerProtocol nameProtocol = new ServerProtocol(protocolName, size, name);
-                    FileOutputStream nameFileout = null;
-                    ObjectOutputStream nameObjectout = null;
-                    try{
-                        nameFileout = new FileOutputStream("nameProtocol.ser");
-                        nameObjectout = new ObjectOutputStream(nameFileout);
-                        nameObjectout.writeObject(nameProtocol);
-                    }catch(Exception e){
+                    FileInputStream nameFileinput= null;
+                    ObjectInputStream nameObjectinput = null;
+                    try {
+                        nameFileinput = new FileInputStream("nameProtocol.ser");
+                        nameObjectinput = new ObjectInputStream(nameFileinput);
+
+                        // 스트림으로 부터 객체를 읽어온다
+                        // 이때 리턴 값은 Object 이므로 형변환을 통해 필요한 객체로 캐스팅 해준다
+                        ClientProtocol nameProtocol = (ClientProtocol)nameObjectinput.readObject();
+                        System.out.println(nameProtocol.toString());
+                    } catch (Exception e) {
                         e.printStackTrace();
                     }finally{
-                        if(nameFileout != null) try{nameFileout.close();}catch(IOException e){e.printStackTrace();}
-                        if(nameFileout != null) try{nameFileout.close();}catch(IOException e){e.printStackTrace();}
+                        if(nameFileinput != null) try{nameFileinput.close();}catch(IOException e){e.printStackTrace();}
+                        if(nameObjectinput != null) try{nameObjectinput.close();}catch(IOException e){e.printStackTrace();}
                     }
-                    break;
+                break;
             case 2:
-                    ServerProtocol roomProtocol = new ServerProtocol(protocolName, size, name);
-                    FileOutputStream roomFileout = null;
-                    ObjectOutputStream roomObjectout = null;
-                    try{
-                        roomFileout = new FileOutputStream("roomProtocol.ser");
-                        roomObjectout = new ObjectOutputStream(roomFileout);
-                        roomObjectout.writeObject(roomProtocol);
-                    }catch(Exception e){
+                    FileInputStream roomFileinput= null;
+                    ObjectInputStream roomObjectinput = null;
+                    try {
+                        roomFileinput = new FileInputStream("roomProtocol.ser");
+                        roomObjectinput = new ObjectInputStream(roomFileinput);
+
+                        // 스트림으로 부터 객체를 읽어온다
+                        // 이때 리턴 값은 Object 이므로 형변환을 통해 필요한 객체로 캐스팅 해준다
+                        ClientProtocol roomProtocol = (ClientProtocol)roomObjectinput.readObject();
+                        System.out.println(roomProtocol.toString());
+                    } catch (Exception e) {
                         e.printStackTrace();
                     }finally{
-                        if(roomFileout != null) try{roomFileout.close();}catch(IOException e){e.printStackTrace();}
-                        if(roomFileout != null) try{roomFileout.close();}catch(IOException e){e.printStackTrace();}
+                        if(roomFileinput != null) try{roomFileinput.close();}catch(IOException e){e.printStackTrace();}
+                        if(roomObjectinput != null) try{roomObjectinput.close();}catch(IOException e){e.printStackTrace();}
                     }
-                    break;
+                break;
             case 3:
-                    ServerProtocol exitProtocol = new ServerProtocol(protocolName, size, name);
-                    FileOutputStream exitFileout = null;
-                    ObjectOutputStream exitObjectout = null;
-                    try{
-                        exitFileout = new FileOutputStream("exitProtocol.ser");
-                        exitObjectout = new ObjectOutputStream(exitFileout);
-                        exitObjectout.writeObject(exitProtocol);
-                    }catch(Exception e){
+                    FileInputStream exitFileinput= null;
+                    ObjectInputStream exitObjectinput = null;
+                    try {
+                        exitFileinput = new FileInputStream("exitProtocol.ser");
+                        exitObjectinput = new ObjectInputStream(exitFileinput);
+
+                        // 스트림으로 부터 객체를 읽어온다
+                        // 이때 리턴 값은 Object 이므로 형변환을 통해 필요한 객체로 캐스팅 해준다
+                        ClientProtocol exitProtocol = (ClientProtocol)exitObjectinput.readObject();
+                        System.out.println(exitProtocol.toString());
+                    } catch (Exception e) {
                         e.printStackTrace();
                     }finally{
-                        if(exitFileout != null) try{exitFileout.close();}catch(IOException e){e.printStackTrace();}
-                        if(exitFileout != null) try{exitFileout.close();}catch(IOException e){e.printStackTrace();}
+                        if(exitFileinput != null) try{exitFileinput.close();}catch(IOException e){e.printStackTrace();}
+                        if(exitObjectinput != null) try{exitObjectinput.close();}catch(IOException e){e.printStackTrace();}
                     }
-                    break;
+                break;
             case 4:
-                    ServerProtocol msgProtocol = new ServerProtocol(protocolName, roomSize, roomName, msgSize, msgName);
-                    FileOutputStream msgFileout = null;
-                    ObjectOutputStream msgObjectout = null;
-                    try{
-                        msgFileout = new FileOutputStream("msgProtocol.ser");
-                        msgObjectout = new ObjectOutputStream(msgFileout);
-                        msgObjectout.writeObject(msgProtocol);
-                    }catch(Exception e){
+                    FileInputStream msgFileinput= null;
+                    ObjectInputStream msgObjectinput = null;
+                    try {
+                        msgFileinput = new FileInputStream("msgProtocol.ser");
+                        msgObjectinput = new ObjectInputStream(msgFileinput);
+
+                        // 스트림으로 부터 객체를 읽어온다
+                        // 이때 리턴 값은 Object 이므로 형변환을 통해 필요한 객체로 캐스팅 해준다
+                        ClientProtocol msgProtocol = (ClientProtocol)msgObjectinput.readObject();
+                        System.out.println(msgProtocol.toString());
+                    } catch (Exception e) {
                         e.printStackTrace();
                     }finally{
-                        if(msgFileout != null) try{msgFileout.close();}catch(IOException e){e.printStackTrace();}
-                        if(msgFileout != null) try{msgFileout.close();}catch(IOException e){e.printStackTrace();}
+                        if(msgFileinput != null) try{msgFileinput.close();}catch(IOException e){e.printStackTrace();}
+                        if(msgObjectinput != null) try{msgObjectinput.close();}catch(IOException e){e.printStackTrace();}
                     }
-                    break;
+                break;
             default:
 
         } // switch
