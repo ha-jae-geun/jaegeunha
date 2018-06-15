@@ -11,11 +11,14 @@ public class ClientProtocol{
     int msgSize;
     String msgName;
     Scanner input = new Scanner(System.in);
-    byte[] byteArr;
+    byte[] nameBuffer;;
 
 
     public ClientProtocol(int protocolName) {
         this.protocolName = protocolName;
+    }
+    public ClientProtocol(byte[] nameBuffer) {
+        this.nameBuffer = nameBuffer;
     }
     public ClientProtocol(int protocolName, int size, String name) {
         this.protocolName = protocolName;
@@ -56,13 +59,13 @@ public class ClientProtocol{
                 (((int)bytes[3] & 0xff)));
     }
 
-    public String byteToString(byte bytes[]) throws UnsupportedEncodingException {
-        String byteToString = new String(bytes, "UTF-8");
-        return byteToString;
+    public boolean byteArrayToBoolean(byte bytes[]){
+        byte[] vIn = new byte[] { 1, 1, 0 };
+        boolean vOut = vIn[0]!=0; //convert first Byte
+        return vOut;
     }
 
     public void transferClient() {
-        byte[] nameBuffer;
         if(protocolName == 1) {
             System.out.println("유저 이름을 입력하세요.");
             name = input.nextLine();
@@ -77,7 +80,6 @@ public class ClientProtocol{
             System.arraycopy(nameValue, 0, nameBuffer, nameSize.length + protocol.length, nameValue.length);
 
             System.out.println(nameBuffer);
-            receiveServer(nameBuffer);
         }
         else if(protocolName == 2) {
             System.out.println("방의 이름을 입력하세요.");
@@ -93,58 +95,89 @@ public class ClientProtocol{
             System.arraycopy(roomValue, 0, nameBuffer, roomSize.length + protocol.length, roomValue.length);
 
             System.out.println(nameBuffer);
-            receiveServer(nameBuffer);
         }
-    } // run
+        else if(protocolName == 3) {
+            System.out.println("나갈 방의 이름을 입력하세요");
+            name = input.nextLine();
+            size = name.length();
+            byte[] protocol = intToByteArray(protocolName);
+            byte[] roomSize = intToByteArray(size);
+            byte[] roomValue = stringToByteArray(name);
+            nameBuffer = new byte[protocol.length + roomSize.length + roomValue.length];
 
-    public void  receiveServer(byte[] byteArr) {
-        if(protocolName == 1) {
-            byte protocol[] = new byte[4];
-            byte size[] = new byte[4];
+            System.arraycopy(protocol, 0, nameBuffer, 0, protocol.length);
+            System.arraycopy(roomSize, 0, nameBuffer, protocol.length, roomSize.length);
+            System.arraycopy(roomValue, 0, nameBuffer, roomSize.length + protocol.length, roomValue.length);
 
+            System.out.println(nameBuffer);
+        }
+        else if(protocolName == 4) {
+            System.out.println("메세지를 보낼 방의 이름을 입력하세요.");
+            name = input.nextLine();
+            size = name.length();
+            System.out.println("메세지를 입력하세요.");
+            msgName = input.nextLine();
+            msgSize = msgName.length();
+
+            byte[] protocol = intToByteArray(protocolName);
+            byte[] roomSize = intToByteArray(size);
+            byte[] roomValue = stringToByteArray(name);
+            byte[] msgSizeArray = intToByteArray(msgSize);
+            byte[] msgValue = stringToByteArray(msgName);
+
+            nameBuffer = new byte[protocol.length + roomSize.length + roomValue.length + msgSizeArray.length + msgValue.length];
+
+            System.arraycopy(protocol, 0, nameBuffer, 0, protocol.length);
+            System.arraycopy(roomSize, 0, nameBuffer, protocol.length, roomSize.length);
+            System.arraycopy(roomValue, 0, nameBuffer, roomSize.length + protocol.length, roomValue.length);
+            System.arraycopy(msgSizeArray, 0, nameBuffer, roomSize.length + protocol.length + roomValue.length, msgSizeArray.length);
+            System.arraycopy(msgValue, 0, nameBuffer, roomSize.length + protocol.length + roomValue.length + msgSizeArray.length, msgValue.length);
+
+            System.out.println(nameBuffer);
+        }
+    } // transfer
+    public int  receiveServer(byte[] byteArr) {
+        byte protocol[] = new byte[4];
+        for (int i = 0; i < 4; i = i + 1)
+            protocol[i] = byteArr[i];
+        int protocolInt = byteArrayToInt(protocol);
+
+        if(protocolInt == 1) {
+            byte result[] = new byte[4];
             for (int i = 0; i < 4; i = i + 1)
-                protocol[i] = byteArr[i];
-            int protocolInt = byteArrayToInt(protocol);
+                result[i] = byteArr[i+4];
+            boolean resultToBoolean = byteArrayToBoolean(result);
 
-            for (int i = 0; i < 4; i = i + 1)
-                size[i] = byteArr[i + 4];
-            int sizeInt = byteArrayToInt(size);
-
-            byte name[] = new byte[sizeInt];
-            for (int i = 0; i < sizeInt; i = i + 1)
-                name[i] = byteArr[8 + i];
-            try {
-                String strName = byteToString(name);
-                System.out.println(strName);
-            } catch (UnsupportedEncodingException e) {
-                e.printStackTrace();
-            }
             System.out.println(protocolInt);
-            System.out.println(sizeInt);
+            System.out.println(resultToBoolean);
         }
-        else if(protocolName == 2){
-            byte protocol[] = new byte[4];
-            byte size[] = new byte[4];
-
+        else if(protocolInt == 2){
+            byte result[] = new byte[4];
             for (int i = 0; i < 4; i = i + 1)
-                protocol[i] = byteArr[i];
-            int protocolInt = byteArrayToInt(protocol);
+                result[i] = byteArr[i+4];
+            boolean resultToBoolean = byteArrayToBoolean(result);
 
-            for (int i = 0; i < 4; i = i + 1)
-                size[i] = byteArr[i + 4];
-            int sizeInt = byteArrayToInt(size);
-
-            byte name[] = new byte[sizeInt];
-            for (int i = 0; i < sizeInt; i = i + 1)
-                name[i] = byteArr[8 + i];
-            try {
-                String strName = byteToString(name);
-                System.out.println(strName);
-            } catch (UnsupportedEncodingException e) {
-                e.printStackTrace();
-            }
             System.out.println(protocolInt);
-            System.out.println(sizeInt);
+            System.out.println(resultToBoolean);
         }
-    } // run
-}
+        else if(protocolInt == 3) {
+            byte result[] = new byte[4];
+            for (int i = 0; i < 4; i = i + 1)
+                result[i] = byteArr[i+4];
+            int resultToInt = byteArrayToInt(result);
+
+            System.out.println(protocolInt);
+            System.out.println(resultToInt);
+        }
+        else if(protocolInt == 4) {
+            byte result[] = new byte[4];
+            for (int i = 0; i < 4; i = i + 1)
+                result[i] = byteArr[i+4];
+            boolean resultToBoolean = byteArrayToBoolean(result);
+
+            System.out.println(protocolInt);
+            System.out.println(resultToBoolean);
+        }
+        return protocolInt;
+    } // receive
+} // clientProtocol

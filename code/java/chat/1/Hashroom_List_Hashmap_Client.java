@@ -9,18 +9,35 @@ import java.net.InetSocketAddress;
 
 
 public class TcpIpMultiChattingClient {
+    static int protocolName;
+    static int size;
+    static String name;
+    static int roomSize;
+    static String roomName;
+    static int msgSize;
+    static String msgName;
+    static byte[] byteArr;
+
+    public TcpIpMultiChattingClient(int protocolName, int size, String name){
+        this.protocolName = protocolName;
+        this.size = size;
+        this.name = name;
+    }
+
+    public TcpIpMultiChattingClient(int protocolName, int roomSize, String roomName, int msgSize, String msgName){
+        this.protocolName = protocolName;
+        this.roomSize = roomSize;
+        this.roomName = roomName;
+        this.msgSize = msgSize;
+        this.msgName = msgName;
+    }
+
     static class ClientSender extends Thread {
         Socket socket;
         DataOutputStream out;
-        String name;
-        int join;
-        int roomNumber;
 
-        public ClientSender(Socket socket, String name) {
+        public ClientSender(Socket socket, byte[] byteArr) {
             this.socket = socket;
-            this.name = name;
-            this.join = join;
-            this.roomNumber= roomNumber;
             try {
                 out = new DataOutputStream(socket.getOutputStream());
             } catch (Exception e) {
@@ -30,14 +47,8 @@ public class TcpIpMultiChattingClient {
         public void run() {
             Scanner scanner = new Scanner(System.in);
             try {
-                if (out != null) {
-                    out.writeUTF(name);
-                    out.writeInt(join);
-                    out.writeInt(roomNumber);
-                }
-
                 while (out != null) {
-                    out.writeUTF("[" + name + "]: " + scanner.nextLine());
+                    out.write(byteArr, 0, byteArr.length);
                 }
             } catch (IOException e) {
             }
@@ -65,7 +76,7 @@ public class TcpIpMultiChattingClient {
         }
     }
     public static void main(String[] args) {
-        String name;
+        int select;
         int join;
         int roomNumber;
         try {
@@ -76,9 +87,9 @@ public class TcpIpMultiChattingClient {
 
             Scanner input = new Scanner(System.in);
             System.out.println("이름을 입력하세요.");
-            name = input.nextLine();
-
-            ClientSender sender = new ClientSender(socket, name);
+            select = input.nextInt();
+            ClientProtocol cp = new ClientProtocol(select);
+            ClientSender sender = new ClientSender(socket, cp.transferClient());
             ClientReceiver receiver = new ClientReceiver(socket);
             sender.start();
             receiver.start();
