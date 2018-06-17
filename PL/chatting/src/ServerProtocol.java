@@ -141,12 +141,12 @@ public class ServerProtocol{
         }
         return protocolInt;
     } // receive
-    public byte[] transferClient(int protocolName) {
+    public byte[] transferServer(int protocolName, boolean trueFalse, int roomState) {
         if(protocolName == 1) {
             System.out.println("유저 이름을 입력하세요.");
 
             byte[] protocol = intToByteArray(protocolName);
-            byte[] result = booleanToByteArray();
+            byte[] result = booleanToByteArray(trueFalse);
             resultBuffer = new byte[protocol.length + result.length];
 
             System.arraycopy(protocol, 0, resultBuffer, 0, protocol.length);
@@ -156,7 +156,7 @@ public class ServerProtocol{
         }
         else if(protocolName == 2) {
             byte[] protocol = intToByteArray(protocolName);
-            byte[] result = intToByteArray();
+            byte[] result = intToByteArray(roomState);
             resultBuffer = new byte[protocol.length + result.length];
 
             System.arraycopy(protocol, 0, resultBuffer, 0, protocol.length);
@@ -166,7 +166,7 @@ public class ServerProtocol{
         }
         else if(protocolName == 3) {
             byte[] protocol = intToByteArray(protocolName);
-            byte[] result = booleanToByteArray();
+            byte[] result = booleanToByteArray(trueFalse);
             resultBuffer = new byte[protocol.length + result.length];
 
             System.arraycopy(protocol, 0, resultBuffer, 0, protocol.length);
@@ -176,7 +176,7 @@ public class ServerProtocol{
         }
         else if(protocolName == 4) {
             byte[] protocol = intToByteArray(protocolName);
-            byte[] result = booleanToByteArray();
+            byte[] result = booleanToByteArray(trueFalse);
             resultBuffer = new byte[protocol.length + result.length];
 
             System.arraycopy(protocol, 0, resultBuffer, 0, protocol.length);

@@ -17,6 +17,11 @@ public class TcpIpMultiChattingClient {
     static int msgSize;
     static String msgName;
     static byte[] byteArr;
+    static byte[] nameBuffer;
+
+    public TcpIpMultiChattingClient(byte[] nameBuffer){
+        this.nameBuffer = nameBuffer;
+    }
 
     public TcpIpMultiChattingClient(int protocolName, int size, String name){
         this.protocolName = protocolName;
@@ -35,9 +40,11 @@ public class TcpIpMultiChattingClient {
     static class ClientSender extends Thread {
         Socket socket;
         DataOutputStream out;
+        byte[] byteArr;
 
         public ClientSender(Socket socket, byte[] byteArr) {
             this.socket = socket;
+            this.byteArr = byteArr;
             try {
                 out = new DataOutputStream(socket.getOutputStream());
             } catch (Exception e) {
@@ -45,7 +52,6 @@ public class TcpIpMultiChattingClient {
         }
 
         public void run() {
-            Scanner scanner = new Scanner(System.in);
             try {
                 while (out != null) {
                     out.write(byteArr, 0, byteArr.length);
@@ -70,6 +76,8 @@ public class TcpIpMultiChattingClient {
             while (in != null) {
                 try {
                     System.out.println(in.readUTF());
+                    ClientProtocol tcpClient = new ClientProtocol();
+                    tcpClient.receiveClient(in.readAllBytes());
                 } catch (IOException ie) {
                 }
             }
@@ -85,11 +93,11 @@ public class TcpIpMultiChattingClient {
             socket.connect(new InetSocketAddress(InetAddress.getLocalHost(), 9898));
             System.out.println("서버에 연결되었습니다.");
 
-            Scanner input = new Scanner(System.in);
-            System.out.println("이름을 입력하세요.");
-            select = input.nextInt();
-            ClientProtocol cp = new ClientProtocol(select);
-            ClientSender sender = new ClientSender(socket, cp.transferClient());
+//            Scanner input = new Scanner(System.in);
+//            System.out.println("이름을 입력하세요.");
+//            select = input.nextInt();
+            ClientProtocol cp = new ClientProtocol();
+            ClientSender sender = new ClientSender(socket, cp.transferClient(1));
             ClientReceiver receiver = new ClientReceiver(socket);
             sender.start();
             receiver.start();

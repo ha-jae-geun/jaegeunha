@@ -14,6 +14,19 @@ public class TcpIpMultiChattingServer {
     static String roomName;
     static int msgSize;
     static String msgName;
+    static boolean trueFalse;
+    static int roomState;
+    static byte[] resultArray;
+
+    public TcpIpMultiChattingServer(){}
+
+    public TcpIpMultiChattingServer(boolean trueFalse){
+        this.trueFalse = trueFalse;
+    }
+
+    public TcpIpMultiChattingServer(int roomState){
+        this.roomState = roomState;
+    }
 
     public TcpIpMultiChattingServer(int protocolName, int size, String name){
         this.protocolName = protocolName;
@@ -39,7 +52,6 @@ public class TcpIpMultiChattingServer {
             while (true) {
                 socket = serverSocket.accept();
                 System.out.println("[" + socket.getInetAddress() + ":" + socket.getPort() + "]" + "에서 접속하였습니다.");
-                roomNumber.put(socket, "감자");
                 ServerReceiver thread = new ServerReceiver(socket, roomNumber);
                 thread.start();
             }
@@ -47,31 +59,21 @@ public class TcpIpMultiChattingServer {
             e.printStackTrace();
         }
     }
-    void sendToAll(Map<Socket, String> roomNumber, Socket socket, String msg) {
-        DataOutputStream out;
-        try {
-            for (Socket key : roomNumber.keySet()) {
-                if (roomNumber.get(socket) == roomNumber.get(key))
-                {
-                    out = new DataOutputStream(key.getOutputStream());
-                    out.writeUTF(msg);
-                }
-            }
-        }
-        catch (Exception e) { }
 
-    }
+
     class ServerReceiver extends Thread {
         Socket socket;
-        DataInputStream in;
         Map<Socket, String> roomNumber = Collections.synchronizedMap(new HashMap<Socket, String>());
         String name;
+        DataInputStream in;
+        DataOutputStream out;
 
         public ServerReceiver(Socket socket, Map<Socket, String> roomNumber) {
             this.socket = socket;
             this.roomNumber = roomNumber;
             try {
                 in = new DataInputStream(socket.getInputStream());
+                out = new DataOutputStream(socket.getOutputStream());
             } catch (IOException ie) {
             }
         }
@@ -79,11 +81,12 @@ public class TcpIpMultiChattingServer {
             try {
                 ServerProtocol sp = new ServerProtocol();
                 sp.receiveServer(in.readAllBytes());
-                sp.transferClient(protocolName);
-
-                while (in!=null) {
-                    sendToAll(roomNumber, socket, in.readUTF());
-                }
+                RoomManager roomManagers = new RoomManager(socket, protocolName, name, roomName, msgName);
+                resultArray = sp.transferServer(protocolName, trueFalse, roomState);
+                out.write(resultArray, 0, resultArray.length);
+//                while (in!=null) {
+//                    sendToAll(roomNumber, socket, msgName);
+//                }
             }
             catch (IOException ie) {
             }

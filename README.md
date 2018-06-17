@@ -15,6 +15,7 @@
  * [OS](./OS/README.md)
    + [Linux](./OS/Linux/README.md)
    + [Android](./OS/Android/README.md)
+* [English](./English/README.md)
 
 ---
 * 애플 wwdc, 마이크로소프트, 구글 io, 네이버
