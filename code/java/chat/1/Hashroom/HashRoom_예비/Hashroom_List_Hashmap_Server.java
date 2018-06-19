@@ -36,7 +36,6 @@ public class TcpIpMultiChattingServer {
             while ( keys.hasNext() ) {
                 Socket key = keys.next();
                 if (roomName.equals(roomNumber.get(key))) {
-                    System.out.println("sentAll");
                     out = new DataOutputStream(key.getOutputStream());
                     out.writeUTF(msg);
                 }
@@ -81,12 +80,6 @@ public class TcpIpMultiChattingServer {
             } catch (IOException ie) {
             }
         }
-//        public String getNames () {
-//            return name;
-//        }
-//        public void setNames(String name){
-//            this.name = name;
-//        }
 
         public void run() {
             String name = null;
@@ -150,7 +143,18 @@ public class TcpIpMultiChattingServer {
                         out.writeInt(byteArray2.length);
                         out.write(byteArray2);
                         while(in!=null) {
-                            sendToAll(roomNumber, roomName, socket, "[" + name + "]" + in.readUTF());
+                            String chat = in.readUTF();
+                            if(chat.equals("out")){
+                                sendToAll(roomNumber, roomName, socket, "#" + name + "님이 퇴장했습니다.");
+                                roomNumber.remove(socket, roomName);
+                                byteArray2 = sp.transferServer(roomNumber, roomName, socket, 3);
+                                out.writeInt(byteArray2.length);
+                                out.write(byteArray2);
+                                break;
+                            }
+                            else{
+                                sendToAll(roomNumber, roomName, socket, "[" + name + "]" + chat);
+                            }
                         }
                     }//if문
                 } // while문

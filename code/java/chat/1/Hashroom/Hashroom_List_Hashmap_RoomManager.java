@@ -4,6 +4,7 @@ import java.io.IOException;
 import java.net.Socket;
 import java.util.Collections;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.Map;
 
 public class RoomManager{
@@ -55,20 +56,23 @@ public class RoomManager{
 
     int createRoom(HashMap<Socket, String> roomNumber, String roomName, Socket socket){
             int roomState = -1;
+
+        Iterator<Socket> keys = roomNumber.keySet().iterator();
         try {
-            for (Socket key : roomNumber.keySet()) {
-                if (roomName != roomNumber.get(key) && key == socket) {
+            while ( keys.hasNext() ) {
+                Socket key = keys.next();
+                if (roomName.equals(roomNumber.get(key)) && key.equals(socket)) {
                     roomState = 0;
                 }
-                else if(roomName != roomNumber.get(key)){
+                else if(!roomName.equals(roomNumber.get(key))){
                     roomState = 0;
                 }
-                else if(roomName == roomNumber.get(key) && key != socket){
+                else if(roomName.equals(roomNumber.get(key)) && !key.equals(socket)){
                     roomState = 1;
                     break;
                 }
             }
-        }
+        } //try문
         catch(NullPointerException e){
             roomState = 2;
         }

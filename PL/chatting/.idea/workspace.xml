@@ -11,16 +11,16 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/chatting$TcpIpMultiChattingClient.ic" NAME="TcpIpMultiChattingClient Coverage Results" MODIFIED="1529301405353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/chatting$TcpIpMultiChattingServer.ic" NAME="TcpIpMultiChattingServer Coverage Results" MODIFIED="1529356482699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/chatting$TcpIpMultiChattingClient.ic" NAME="TcpIpMultiChattingClient Coverage Results" MODIFIED="1529381727056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/chatting$TcpIpMultiChattingServer.ic" NAME="TcpIpMultiChattingServer Coverage Results" MODIFIED="1529373896296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="TcpIpMultiChattingClient.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TcpIpMultiChattingClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="151" column="25" selection-start-line="151" selection-start-column="25" selection-end-line="151" selection-end-column="25" />
+            <state relative-caret-position="19">
+              <caret line="94" selection-start-line="94" selection-end-line="94" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -28,19 +28,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TcpIpMultiChattingServer.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TcpIpMultiChattingServer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TcpIpMultiChattingServer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="39" column="50" lean-forward="true" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
+            <state relative-caret-position="-1048">
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#248#264#0" expanded="true" />
-                <element signature="e#505#506#0" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-                <element signature="e#570#571#0" expanded="true" />
-                <element signature="e#600#601#0" expanded="true" />
                 <element signature="e#2165#2181#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RoomManager.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/RoomManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1178">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#504#520#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -49,8 +58,8 @@
       <file leaf-file-name="ServerProtocol.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ServerProtocol.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3629">
-              <caret line="193" column="63" selection-start-line="193" selection-start-column="63" selection-end-line="193" selection-end-column="63" />
+            <state relative-caret-position="358">
+              <caret line="187" selection-start-line="187" selection-end-line="187" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,25 +70,10 @@
       <file leaf-file-name="ClientProtocol.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ClientProtocol.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+            <state relative-caret-position="600">
+              <caret line="188" lean-forward="true" selection-start-line="188" selection-end-line="188" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#348#349#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RoomManager.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RoomManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#504#520#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,13 +99,16 @@
       <find>scanner</find>
       <find>send</find>
       <find>client</find>
-      <find />
+      <find>client rece</find>
       <find>r</find>
       <find>createRoom</find>
       <find>create</find>
       <find>h</find>
       <find>map</find>
       <find>exit</find>
+      <find>sentall</find>
+      <find>sentAll</find>
+      <find>sendTo</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -124,13 +121,13 @@
         <option value="$USER_HOME$/Downloads/Protocol.java" />
         <option value="$PROJECT_DIR$/src/NameProtocol.java" />
         <option value="$PROJECT_DIR$/src/ServerSerial.java" />
-        <option value="$PROJECT_DIR$/src/Client.java" />
         <option value="$PROJECT_DIR$/src/ChatRoom.java" />
-        <option value="$PROJECT_DIR$/src/ClientProtocol.java" />
-        <option value="$PROJECT_DIR$/src/TcpIpMultiChattingClient.java" />
+        <option value="$PROJECT_DIR$/src/Client.java" />
         <option value="$PROJECT_DIR$/src/ServerProtocol.java" />
-        <option value="$PROJECT_DIR$/src/RoomManager.java" />
+        <option value="$PROJECT_DIR$/src/ClientProtocol.java" />
         <option value="$PROJECT_DIR$/src/TcpIpMultiChattingServer.java" />
+        <option value="$PROJECT_DIR$/src/TcpIpMultiChattingClient.java" />
+        <option value="$PROJECT_DIR$/src/RoomManager.java" />
       </list>
     </option>
   </component>
@@ -250,8 +247,8 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.25185972" />
-      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.3294271" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24867162" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" weight="0.32916668" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -303,10 +300,18 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TcpIpMultiChattingClient.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="58" />
+      <option name="time" value="63" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -327,10 +332,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#248#264#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
             <element signature="e#2165#2181#0" expanded="true" />
           </folding>
         </state>
@@ -349,8 +350,6 @@
           <caret line="93" column="50" lean-forward="true" selection-start-line="93" selection-start-column="50" selection-end-line="93" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -379,10 +378,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#248#264#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
             <element signature="e#2165#2181#0" expanded="true" />
           </folding>
         </state>
@@ -405,10 +400,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#248#264#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
             <element signature="e#2165#2181#0" expanded="true" />
           </folding>
         </state>
@@ -431,10 +422,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#248#264#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
             <element signature="e#2165#2181#0" expanded="true" />
           </folding>
         </state>
@@ -457,10 +444,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#248#264#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
             <element signature="e#2165#2181#0" expanded="true" />
           </folding>
         </state>
@@ -483,10 +466,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#248#264#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
             <element signature="e#2165#2181#0" expanded="true" />
           </folding>
         </state>
@@ -509,10 +488,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#248#264#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
             <element signature="e#2165#2181#0" expanded="true" />
           </folding>
         </state>
@@ -535,10 +510,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#248#264#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
             <element signature="e#2165#2181#0" expanded="true" />
           </folding>
         </state>
@@ -561,10 +532,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#248#264#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
             <element signature="e#2165#2181#0" expanded="true" />
           </folding>
         </state>
@@ -587,10 +554,6 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#248#264#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
             <element signature="e#2165#2181#0" expanded="true" />
           </folding>
         </state>
@@ -686,16 +649,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ChatRoom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -713,49 +666,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TcpIpMultiChattingClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="151" column="25" selection-start-line="151" selection-start-column="25" selection-end-line="151" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RoomManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#504#520#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ClientProtocol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ServerProtocol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3629">
-          <caret line="193" column="63" selection-start-line="193" selection-start-column="63" selection-end-line="193" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk-10.0.1/lib/src.zip!/java.base/java/net/SocketInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
@@ -770,18 +680,62 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="28" column="7" lean-forward="true" selection-start-column="2" selection-end-line="115" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClientProtocol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="188" lean-forward="true" selection-start-line="188" selection-end-line="188" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ServerProtocol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="187" selection-start-line="187" selection-end-line="187" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TcpIpMultiChattingClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="94" selection-start-line="94" selection-end-line="94" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TcpIpMultiChattingServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="39" column="50" lean-forward="true" selection-start-line="39" selection-start-column="50" selection-end-line="39" selection-end-column="50" />
+        <state relative-caret-position="-1048">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#248#264#0" expanded="true" />
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#570#571#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
             <element signature="e#2165#2181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RoomManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1178">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#504#520#0" expanded="true" />
           </folding>
         </state>
       </provider>

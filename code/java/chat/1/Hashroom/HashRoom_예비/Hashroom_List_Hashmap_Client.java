@@ -1,3 +1,4 @@
+import java.io.ByteArrayOutputStream;
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
@@ -80,18 +81,21 @@ public class TcpIpMultiChattingClient {
                     if(protocol == 1){
                         int sizes = in.readInt();
                         byte[] byteArray = new byte[sizes];
+                        byte[] byteArray2 = null;
                         in.readFully(byteArray, 0, sizes);
                         tcpClient.receiveClient(byteArray);
                     }
                     else if(protocol == 2){
                         int sizes = in.readInt();
                         byte[] byteArray = new byte[sizes];
+                        byte[] byteArray2 = null;
                         in.readFully(byteArray, 0, sizes);
                         tcpClient.receiveClient(byteArray);
                     }
                     else if(protocol == 3){
                         int sizes = in.readInt();
                         byte[] byteArray = new byte[sizes];
+                        byte[] byteArray2 = null;
                         in.readFully(byteArray, 0, sizes);
                         tcpClient.receiveClient(byteArray);
                     }
