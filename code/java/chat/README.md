@@ -1,0 +1,2 @@
+DataOutputStream -> ByteArrayoutputstream
+Datainputstream -> ByteArrayinputstream

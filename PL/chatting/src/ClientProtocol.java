@@ -79,7 +79,7 @@ public class ClientProtocol{
             System.arraycopy(nameSize, 0, nameBuffer, protocol.length, nameSize.length);
             System.arraycopy(nameValue, 0, nameBuffer, nameSize.length + protocol.length, nameValue.length);
 
-            System.out.println(nameBuffer);
+            System.out.println("transfer client 바이트 값" + nameBuffer);
         }
 
         else if(protocolName == 2) {
@@ -95,7 +95,7 @@ public class ClientProtocol{
             System.arraycopy(roomSize, 0, nameBuffer, protocol.length, roomSize.length);
             System.arraycopy(roomValue, 0, nameBuffer, roomSize.length + protocol.length, roomValue.length);
 
-            System.out.println(nameBuffer);
+            System.out.println("transfer client 바이트 값" + nameBuffer);
         }
         else if(protocolName == 3) {
             System.out.println("나갈 방의 이름을 입력하세요");
@@ -110,7 +110,7 @@ public class ClientProtocol{
             System.arraycopy(roomSize, 0, nameBuffer, protocol.length, roomSize.length);
             System.arraycopy(roomValue, 0, nameBuffer, roomSize.length + protocol.length, roomValue.length);
 
-            System.out.println(nameBuffer);
+            System.out.println("transfer client 바이트 값" + nameBuffer);
         }
         else if(protocolName == 4) {
             System.out.println("메세지를 보낼 방의 이름을 입력하세요.");
@@ -134,11 +134,11 @@ public class ClientProtocol{
             System.arraycopy(msgSizeArray, 0, nameBuffer, roomSize.length + protocol.length + roomValue.length, msgSizeArray.length);
             System.arraycopy(msgValue, 0, nameBuffer, roomSize.length + protocol.length + roomValue.length + msgSizeArray.length, msgValue.length);
 
-            System.out.println(nameBuffer);
+            System.out.println("transfer client 바이트 값" + nameBuffer);
         }
         return nameBuffer;
     } // transfer
-    public int  receiveClient(byte[] byteArr) {
+    public void  receiveClient(byte[] byteArr) {
         byte protocol[] = new byte[4];
         for (int i = 0; i < 4; i = i + 1)
             protocol[i] = byteArr[i];
@@ -146,7 +146,7 @@ public class ClientProtocol{
 
         if(protocolInt == 1) {
             byte result[] = new byte[4];
-            for (int i = 0; i < 4; i = i + 1)
+            for (int i = 0; i < 1; i = i + 1)
                 result[i] = byteArr[i+4];
             boolean resultToBoolean = byteArrayToBoolean(result);
 
@@ -156,8 +156,7 @@ public class ClientProtocol{
             else{
                 System.out.println("이름이 등록에 실패하였습니다.");
             }
-            System.out.println(protocolInt);
-            System.out.println(resultToBoolean);
+            System.out.println("생성 상태  " + resultToBoolean);
         }
         else if(protocolInt == 2){
             byte result[] = new byte[4];
@@ -165,22 +164,21 @@ public class ClientProtocol{
                 result[i] = byteArr[i+4];
             int resultToInt = byteArrayToInt(result);
 
-            System.out.println(protocolInt);
-            System.out.println(resultToInt);
 
             if(resultToInt == 0) {
-                System.out.println("방에서 나왔습니다.");
+                System.out.println("방을 생성했습니다..");
             }
             else if(resultToInt == 1){
-                System.out.println("방에 입장하였습니다.");
+                System.out.println("이미 존재하는 방입니다. 방에 입장하였습니다.");
             }
             else{
                 System.out.println("방 생성에 실패했습니다..");
             }
+            System.out.println("생성 상태  " + resultToInt);
         }
         else if(protocolInt == 3) {
             byte result[] = new byte[4];
-            for (int i = 0; i < 4; i = i + 1)
+            for (int i = 0; i < 1; i = i + 1)
                 result[i] = byteArr[i+4];
             boolean resultToBoolean = byteArrayToBoolean(result);
 
@@ -190,17 +188,13 @@ public class ClientProtocol{
             else{
                 System.out.println("방에서 나오기를 실패했습니다.");
             }
-            System.out.println(protocolInt);
-            System.out.println(resultToBoolean);
+            System.out.println("참 거짓  " + resultToBoolean);
         }
         else if(protocolInt == 4) {
             byte result[] = new byte[4];
-            for (int i = 0; i < 4; i = i + 1)
+            for (int i = 0; i < 1; i = i + 1)
                 result[i] = byteArr[i+4];
             boolean resultToBoolean = byteArrayToBoolean(result);
-
-            System.out.println(protocolInt);
-            System.out.println(resultToBoolean);
 
             if(resultToBoolean) {
                 System.out.println("메세지를 보냇습니다.");
@@ -208,7 +202,7 @@ public class ClientProtocol{
             else{
                 System.out.println("메세지를 보내기를 실패했습니다.");
             }
+            System.out.println("참 거짓  " + resultToBoolean);
         }
-        return protocolInt;
     } // receive
 } // clientProtocol
