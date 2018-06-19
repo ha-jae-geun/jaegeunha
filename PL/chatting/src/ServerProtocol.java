@@ -175,13 +175,13 @@ public class ServerProtocol{
             System.out.println("transfer server 바이트 값" + resultBuffer);
         }
         else if(protocolName == 4) {
-            byte[] protocol = intToByteArray(protocolName);
+            //byte[] protocol = intToByteArray(protocolName);
             RoomManager rm = new RoomManager();
             byte[] result = booleanToByteArray(rm.sendMessage(roomNumber, roomName, socket));
-            resultBuffer = new byte[protocol.length + result.length];
+            resultBuffer = new byte[result.length];
 
-            System.arraycopy(protocol, 0, resultBuffer, 0, protocol.length);
-            System.arraycopy(result, 0, resultBuffer, protocol.length, result.length);
+            //System.arraycopy(protocol, 0, resultBuffer, 0, protocol.length);
+            System.arraycopy(result, 0, resultBuffer, 0, result.length);
 
             System.out.println("transfer server 바이트 값" + resultBuffer);
         }

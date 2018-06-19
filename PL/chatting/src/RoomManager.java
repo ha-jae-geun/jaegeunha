@@ -5,10 +5,6 @@ import java.util.Iterator;
 
 public class RoomManager{
 
-    static String msgName;
-    static Socket socket;
-    HashMap<Socket, String> roomNumber = new HashMap<Socket, String>();
-
     public RoomManager(){}
 
     void sendToAll(HashMap<Socket, String> roomNumber, Socket socket, String msg) {
@@ -75,10 +71,9 @@ public class RoomManager{
 
     boolean sendMessage(HashMap<Socket, String> roomNumber, String roomName, Socket socket){
         boolean trueFalse = false;
-        ServerProtocol sp = new ServerProtocol();
         try {
             trueFalse = true;
-            sendToAll(roomNumber, socket, msgName);
+//            sendToAll(roomNumber, socket, msgName);
         }
         catch(NullPointerException e){
             trueFalse = false;

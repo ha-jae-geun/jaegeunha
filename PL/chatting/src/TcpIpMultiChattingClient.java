@@ -76,7 +76,9 @@ public class TcpIpMultiChattingClient {
             int protocol = 0;
             try {
                 while(in!=null){
+                    System.out.println("프로토콜 입력전");
                     protocol = in.readInt();
+                    System.out.println("프로토콜 입력후");
                     if(protocol == 1){
                         int sizes = in.readInt();
                         byte[] byteArray = new byte[sizes];

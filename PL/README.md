@@ -31,3 +31,10 @@
 
 ## HTML
 * Document에 문법 정의 되어 있음.
+
+## OOP
+* 재사용성
+* SIP, manager
+
+## While
+* break, 1개 이하

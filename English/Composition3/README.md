@@ -1,4 +1,84 @@
- 
+* 그는 결연하게 아니라고 대답했다.  He put his foot down and said no. 
+* 매우 많다; #butt-loads of fun
+* #경박; a #facetious comment/remark 
+* #외국어 용어; #Lingo; don’t use that lingo
+* 악화되다, 내리막길; it may have gone #downhill
+* #나아가다, 끼어들다; I will thank you to edge yourself from my affair alone. 
+내 일에 네가 끼어들지 않았으면 좋겠다. #edge into
+* 쉬다; #Kick back and enjoy
+* #학자인척 하지마; don’t be #pedantic
+* #짖굳다; se’d be #catty
+* #무시하다; When she started talking about her job, he just tuned out.  #tune out
+* #꾸준히 일하다; #pound away at work
+* #애지중지하다; #Pamper yourself with our new range of beauty treatments. 
+* 마음껏 즐기ㅏㄷ; feel free to #rock on
+* #무기력하게 만들다;  You people have any idea how #emasculating that is? 
+* #점성; #viscocity
+* #속이다; I played it off as allergies; #play off
+* #발가락을 부딪치다; when I #stubbed my toe
+* #사진 기억; [aidétik]  #eidetic memory
+* the #rhetoric of political slogans  정치 슬로건의 미사여구
+* ‘#정신차려                              snap out of it, #get a grip on yourself, Get with the program
+         	#get a grip                             	 똑바로 생각해(think clearly), 진정해(calm dow)
+* 눈을 가늘게 뜨고 #찡그리고 보다           	 squint 미국·영국 [skwɪnt] ; #squint one's eyes
+* 꿈깨 you wish
+* #컵받침을 써; use a #coaster
+* 그는 귀를 기울였다; he #starined his ears
+* 그거 #구둣주걱이야 it’s a #shoehorn
+* 그들은 서로를 노려보았다; they looked daggers at each other
+* 자동차 유리창을 내리지 마세요; don’t roll down the window
+* 입이 귀에 걸리다; #grin from ear to ear
+* 나 중독됐어; I got the bug
+* 그는 #목청을 가다듬었다; he #clear his throat
+* 그 #타령좀 그만해; DON’T #HARP ON THE SAME STRING
+* 그 정도면 대략 충분해; #close enough
+* 얼마나 됐어? How far along are you?
+* 왕짜증; #bummer
+* 곧바로 실행하겠습니다; #consider it done
+* #안심해; #rest assured
+* #pass the bar; 1. To survive 2. To " make the cut" 3. To pass the bar exam for becoming a lawyer 4. You get the idea
+* #피해를 주다; The tornado #take a toll on the villag
+* 땅에 납작 #엎드리다; #ht the deck
+* 혼나다; you seem #ticked off #scolded
+* #한계를 초월하다; push the envelope
+* #책임이 없는; Nick is #off the chain
+* 이런 바지좀 봐                                                                  	#Oh snap, check your pants
+* 토해내; #cough it up
+* #제대로 살다 #get on with my life; I could get on with my life
+* #멀미 약 먹어; take some #dramamine(상표)
+* 잠시 쉬었다 가자; #take five
+* #급성 맹장염; you have #acute appendicitis
+* 정곡을 찔렀군; #touche; 투세; 팬싱
+* 볼장 다 봤어; the #jig is up
+* 네 입만 아프다; #save your breath; #breath
+* 스스로 단단히 대비해; #brace yourself
+* #비위를 맞추다; #humor me
+* #새빨간 거짓말; this was a #downright lie
+* #만사 형통; bob is your uncle(총리 Robert Bob Cercil 비서실장)
+* #정정당당하게 해; you won #fair and square
+* #집세 밀리지 마 ; I don’t want to get behind on your rent
+* 고수 빼주세요; Does my order have cilantro in it?
+* 예전부터 알고 있다. Knew way back then
+* ~를 알아보는 눈이 있다;  have an eye for talent
+* #모독스럽게도              	                                   	 [blǽsfǝmi] by some #blasphemy
+* #철분이 많이 들어간 음식; And in London we might have meals that are high in iron
+* 지금도 좋은데; it’s great now
+* 몰라서 그래; you don’t understand
+* #1등; #top something = it takes the priz
+* Be kind of on the heavy side = got kind of big  = #chubby
+* #재기하다 get back on one's feet; I'm trying to get back on my feet
+* #top row(#키보드) #middle row #back row | Top shelf, second shelf bottom shelf
+* One to the left, another to the left, two more maybe, the on the far left
+* 가다: go -> I’m coming
+* 행운; keep one’s finger crossed / out of luck
+* 외모가 어때? #how do you look like?
+* I’m going to pass out #at this rate. #이러다가
+* 확실히; #once and for all
+* #내 말은; Look, #all I’m saying is
+* 다시 자                                                                           Go back to sleep (sleep again xx)
+* 대충 이해했어; I got the #gist of it
+* 뜬금없이         	                                               	 Suddenly, Out of the blue/nowhere.
+* 고#광견병 주사; I had to get #rabies shots 
 * 한 #눈금 낮춰라(기꼐0; let’s take it down a notch -> 진정하라
 * #cream buff; 계집 같은 사내
 * #머저리 #coconuts; no coconuts = #jerk; #진상 = #dork

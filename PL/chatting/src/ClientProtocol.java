@@ -171,7 +171,7 @@ public class ClientProtocol{
             System.out.println("참 거짓  " + resultToBoolean);
         }
         else if(protocolInt == 4) {
-            byte result[] = new byte[4];
+            byte result[] = new byte[1];
             for (int i = 0; i < 1; i = i + 1)
                 result[i] = byteArr[i+4];
             boolean resultToBoolean = byteArrayToBoolean(result);

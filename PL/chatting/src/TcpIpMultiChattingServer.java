@@ -108,7 +108,7 @@ public class TcpIpMultiChattingServer {
                         byte[] byteArray2 = null;
                         in.readFully(byteArray, 0, size);
                         roomName = sp.receiveServer(byteArray, roomNumber, socket);
-                        roomNumber.remove(socket, roomName);
+                        roomNumber.remove(socket);
                         byteArray2 = sp.transferServer(roomNumber, roomName, socket, protocol);
                         out.writeInt(protocol);
                         out.writeInt(byteArray2.length);
@@ -128,10 +128,10 @@ public class TcpIpMultiChattingServer {
                             String chat = in.readUTF();
                             if(chat.equals("out")){
                                 sendToAll(roomNumber, roomName, socket, "#" + name + "님이 퇴장했습니다.");
-                                roomNumber.remove(socket, roomName);
                                 byteArray2 = sp.transferServer(roomNumber, roomName, socket, 3);
                                 out.writeInt(byteArray2.length);
                                 out.write(byteArray2);
+                                roomNumber.remove(socket);
                                 break;
                             }
                             else{
@@ -144,7 +144,7 @@ public class TcpIpMultiChattingServer {
             catch (IOException ie) {
             }
             finally {
-                roomNumber.remove(socket, roomName);
+                roomNumber.remove(socket);
                 sendToAll(roomNumber, roomName, socket, "#" + name + "님이 퇴장했습니다.");
                 System.out.println(name + "유저 [" + socket.getInetAddress() + ":" + socket.getPort() + "]" + "에서 접속을 종료하였습니다.");
                 System.out.println("현재 서버접속자 수는 " + (roomNumber.size() -1) + "입니다.");

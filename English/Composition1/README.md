@@ -1,3 +1,59 @@
+* ‘#정신차려                               	snap out of it, #get a grip on yourself, Get with the program
+*          	#get a grip                             	 똑바로 생각해(think clearly), 진정해(calm dow)
+#pull yourself, get one's head on straight= get a #hold of yourself
+* 끼어들지 말아요  Don’t interrupt ; why didn't you step in: 끼어들다?
+* 그리고 말하는데 끼어들지 마                   	Also, stop #jump in = cutting me off while I'm talking
+* ‘이야기 중 끼어 들어서 죄송합니다                                               	 Pardon me for cutting in
+* 끼어들어도 될까 Can I #interject something?.
+* 이게 네가 할 수 있는 최선이야? Is that the best you can do?
+* #두고 보자                                              	 Just you wait and see. Wait and see! We'll see!!
+* 내숭 떤다 #coy; be/act coy = #prim = prudish
+* 내숭 떨지마 don’t play innocent
+* Bibia Be Ye Ye 모든 것들이 잘 될거야
+* #습득하다; #pick up a new hobby
+* #말은 #그만하고 계약서 씁시다 ədú #Without further ado, let's sign the contract. = without any delay
+* #drop the subject; 그 얘기 그만하자
+* #Ten in ten episode
+* #사탕발린 말은 하지 마세요                                                                        	 Don't sugarcoat it.
+* #slouch 1. 모을 #구부정하다 ; #똑바로 #앉아; don't slouch 2. #무능한사람;; he's no sloutch
+* 나한테 이런일이 일어날지 몰랐다; Personalyy i've never had this happen to me
+* 시치미 뗴지마                                                      	Don’t play dumb with me. = don't you try to lie
+* #기본이 안됐네 it was wrong form the beginning
+* 뒤로 #호박씨 깐다; he does something in people's back
+* 배에 살이 좀 있네.. #똥배; #big pot belly = has a big belly
+* 아직 #안죽었어; i've still got it
+* #삭막한, #냉혹한, #냉철한 #냉혈한; #stark; the environment here is #hostile/heavy
+* 꺼져 #take a hike,(#hike) get off my back, #stay clear Boys, #off you go, #off you pop(#pop)
+* 일리가 있는 말인것 같아.                                                  	I think you have a point, you‘ve got a point
+* 내가 자초한 일이야 I brought this on myself
+* 그 넘은 화를 자초했군; he #asked for it
+* 슬프다; #bummed out; be bummed out
+* ~로 배우고 성장하다; #grow from something; we grew from those experiences
+* 너 많이 컸다!; you've come a long way
+* 난 그냥 의견을 말하는거라구!!                	 That's just my two cents. I'm just putting in my cents?
+* ~하기만 하면 된다; all you gotta do is
+* 제대로 된 n이ᄃᆞ; #a hell of n; this is a hell of dedication
+* ~는 #존중합니다만; #with all due respect, ~ is better; #due #respect
+* 해결 되지 않는 문제, #오리무중                                                                   	 It's #up in the air.
+* 인생의 상당 부분을 써서 V하다 V; one's #life away; he's just busy acting his life away
+* 이런말 하기 싫지만; I hate to tell
+* 매일                                                       	 every single day, #day in and day out #on a daily basis
+* #직후에; #In the wake of; trump's election,
+* 홧김에; #in the heat of the #moment; 발끈해서, 흥분해서; I was in the heat of the moment
+* 홧김에 베프랑 절교했어                                    	 I cut off with my best friend in a fit of anger
+* #flip out; 벌컥 화내다
+* #throw a fit(#fit); #성질부리다, #졸도할 지경이 되다
+* 존경을 표하다; give props = proper respect/ proper recognition
+* #triute to someone
+* 눈치 보다 #read between the line(#line)
+* #walk on eggshell
+* 눈치 그만 봐, 그게 더 짜증나             	 stop walking on eggshells around me! It’s more annoying
+* 낮은 가능성, #무리수                                                                   	 #long shot = #fat/#slim chance
+* 우승할 가능성                                                                                          	 #The championship window
+* #희박한 가능성 ; 퍽도 그렇겠다!”                                                             	 #Fat chance of that!'
+* 가능성이 줄어든다; there is less chance 절
+* 승산이 없다                                                                   	 승산이 없는 상황: #no win situation
+* put one's finger on ~; 문제의 이유를 꼬집어내다; I can't put my finger on what went wrong
 * #흐려지다; The mirrors had #tarnished with age. #tarnish one's reputation
 * #화제가 돼; #newsworthy 
 * #확신에 찬 #표정; they #gleam with conviction. 
