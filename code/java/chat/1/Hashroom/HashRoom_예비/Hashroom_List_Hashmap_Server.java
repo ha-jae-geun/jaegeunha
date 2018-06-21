@@ -6,36 +6,17 @@ import java.util.*;
 
 public class TcpIpMultiChattingServer {
     final static int SERVER_PORT = 9898;
-    HashMap<Socket, String> roomNumber = new HashMap<Socket, String>();
-
+    HashMap<Socket, String> roomHash = new HashMap<Socket, String>();
 
     public TcpIpMultiChattingServer(){}
 
-    public Map<Socket, String> getRoomnumber () {
-        return roomNumber;
-    }
-
-    public void setRoomnumber (HashMap<Socket, String> roomNumber){
-        this.roomNumber = roomNumber;
-    }
-
-
-    public byte[] intToByteArray(int value) {
-        byte[] byteArray = new byte[4];
-        byteArray[0] = (byte)(value >> 24);
-        byteArray[1] = (byte)(value >> 16);
-        byteArray[2] = (byte)(value >> 8);
-        byteArray[3] = (byte)(value);
-        return byteArray;
-    }
-
-    void sendToAll(HashMap<Socket, String> roomNumber, String roomName, Socket socket, String msg) {
+    void sendToAll(HashMap<Socket, String> roomHash, String roomName, Socket socket, String msg) {
         DataOutputStream out;
-        Iterator<Socket> keys = roomNumber.keySet().iterator();
+        Iterator<Socket> keys = roomHash.keySet().iterator();
         try {
             while ( keys.hasNext() ) {
                 Socket key = keys.next();
-                if (roomName.equals(roomNumber.get(key))) {
+                if (roomName.equals(roomHash.get(key))) {
                     out = new DataOutputStream(key.getOutputStream());
                     out.writeUTF(msg);
                 }
@@ -44,17 +25,17 @@ public class TcpIpMultiChattingServer {
         catch (Exception e) { }
     }
 
+
     public void start() {
         ServerSocket serverSocket = null;
         Socket socket = null;
-        Socket socket2;
         try {
             serverSocket = new ServerSocket(SERVER_PORT);
             System.out.println("서버가 시작되었습니다.");
             while (true) {
                 socket = serverSocket.accept();
                 System.out.println("[" + socket.getInetAddress() + ":" + socket.getPort() + "]" + "에서 접속하였습니다.");
-                ServerReceiver thread = new ServerReceiver(socket, roomNumber);
+                ServerReceiver thread = new ServerReceiver(socket, roomHash);
                 thread.start();
             }
         } catch (Exception e) {
@@ -65,15 +46,14 @@ public class TcpIpMultiChattingServer {
 
     class ServerReceiver extends Thread {
         Socket socket;
-        HashMap<Socket, String> roomNumber =new HashMap<Socket, String>();
         DataInputStream in;
         DataOutputStream out;
-        ServerProtocol sp = new ServerProtocol();
-        String roomName;
+        ServerProtocol serverProtocol = new ServerProtocol();
+        HashMap<Socket, String> roomHash = new HashMap<Socket, String>();
 
-        public ServerReceiver(Socket socket, HashMap<Socket, String> roomNumber) {
+        public ServerReceiver(Socket socket, HashMap<Socket, String> roomHash) {
             this.socket = socket;
-            this.roomNumber = roomNumber;
+            this.roomHash = roomHash;
             try {
                 in = new DataInputStream(socket.getInputStream());
                 out = new DataOutputStream(socket.getOutputStream());
@@ -82,79 +62,97 @@ public class TcpIpMultiChattingServer {
         }
 
         public void run() {
+            String roomName = null;
             String name = null;
+            RoomManager roomManager = new RoomManager(socket, roomHash);
+
             try {
-                roomNumber.put(null, null);
-                int sizes = in.readInt();
+                int sizes = in.read();
                 byte[] byteArrays = new byte[sizes];
                 byte[] byteArrays2 = null;
+                Boolean resultBoolean;
+                int resultInt;
+                int byteLength = 0;
+
+                roomHash.put(null, null);
                 in.readFully(byteArrays, 0, sizes);
-                name = sp.receiveServer(byteArrays, roomNumber, socket);
-                byteArrays2 = sp.transferServer(roomNumber, roomName, socket, 1);
-                out.writeInt(1);
-                out.writeInt(byteArrays2.length);
+                name = serverProtocol.receiveServer(byteArrays, roomHash, socket, sizes, 0, 1);
+                resultBoolean = roomManager.createName(roomHash, roomName, socket);
+                byteArrays2 = serverProtocol.transferServer(roomHash, name, socket, resultBoolean, 0, 1);
                 out.write(byteArrays2);
                 while (in!=null) {
-                    int protocol = in.readInt();
+                    int protocol = in.read();
                     if(protocol == 1){
-                        int size = in.readInt();
+                        int size = in.read();
+                        int msgSize = in.read();
                         byte[] byteArray = new byte[size];
                         byte[] byteArray2 = null;
+                        resultBoolean = roomManager.createName(roomHash, roomName, socket);
+
                         in.readFully(byteArray, 0, size);
-                        name = sp.receiveServer(byteArray, roomNumber, socket);
-                        byteArray2 = sp.transferServer(roomNumber, roomName, socket, protocol);
-                        out.writeInt(protocol);
-                        out.writeInt(byteArray2.length);
+                        name = serverProtocol.receiveServer(byteArray, roomHash, socket, size, 0, protocol);
+                        byteArray2 = serverProtocol.transferServer(roomHash, name, socket, resultBoolean, 0, protocol);
+                        out.write(1);
                         out.write(byteArray2);
                     }
                     System.out.println("name: " + name);
                     if(protocol == 2){
-                        int size = in.readInt();
+                        int size = in.read();
+                        int msgSize = in.read();
                         byte[] byteArray = new byte[size];
                         byte[] byteArray2 = null;
+
                         in.readFully(byteArray, 0, size);
-                        roomName = sp.receiveServer(byteArray, roomNumber, socket);
-                        roomNumber.put(socket, roomName);
-                        byteArray2 = sp.transferServer(roomNumber, roomName, socket, protocol);
-                        out.writeInt(protocol);
-                        out.writeInt(byteArray2.length);
+                        roomName = serverProtocol.receiveServer(byteArray, roomHash, socket, size, 0, protocol);
+                        roomHash.put(socket, roomName);
+                        resultInt = roomManager.createRoom(roomHash, roomName, socket);
+                        byteArray2 = serverProtocol.transferServer(roomHash, roomName, socket, false, resultInt, protocol);
+                        out.write(2);
                         out.write(byteArray2);
                     }
                     if(protocol == 3){
                         int size = in.readInt();
                         byte[] byteArray = new byte[size];
                         byte[] byteArray2 = null;
+                        resultBoolean = roomManager.exitRoom(roomHash, roomName, socket);
+
                         in.readFully(byteArray, 0, size);
-                        roomName = sp.receiveServer(byteArray, roomNumber, socket);
-                        roomNumber.remove(socket, roomName);
-                        byteArray2 = sp.transferServer(roomNumber, roomName, socket, protocol);
-                        out.writeInt(protocol);
-                        out.writeInt(byteArray2.length);
+                        roomName = serverProtocol.receiveServer(byteArray, roomHash, socket, size, 0, protocol);
+                        byteArray2 = serverProtocol.transferServer(roomHash, roomName, socket, resultBoolean, 0, protocol);
+                        out.writeInt(3);
                         out.write(byteArray2);
+                        roomHash.remove(socket);
                     }
                     if(protocol == 4){
-                        int size = in.readInt();
-                        byte[] byteArray = new byte[size];
+                        int nameSize = in.read();
+                        int msgSize = in.read();
+                        byte[] byteArray = new byte[nameSize + msgSize];
                         byte[] byteArray2 = null;
-                        in.readFully(byteArray, 0, size);
-                        roomName = sp.receiveServer(byteArray, roomNumber, socket);
-                        byteArray2 = sp.transferServer(roomNumber, roomName, socket, protocol);
-                        out.writeInt(protocol);
-                        out.writeInt(byteArray2.length);
+
+                        in.readFully(byteArray, 0, nameSize + msgSize);
+                        roomName = serverProtocol.receiveServer(byteArray, roomHash, socket, nameSize, msgSize, protocol);
+                        out.write(4);
+                        resultBoolean = roomManager.sendMessage(roomHash, roomName, socket, "test");
+                        byteArray2 = serverProtocol.transferServer(roomHash, roomName, socket, resultBoolean, 0, protocol);
                         out.write(byteArray2);
                         while(in!=null) {
                             String chat = in.readUTF();
                             if(chat.equals("out")){
-                                sendToAll(roomNumber, roomName, socket, "#" + name + "님이 퇴장했습니다.");
-                                roomNumber.remove(socket, roomName);
-                                byteArray2 = sp.transferServer(roomNumber, roomName, socket, 3);
-                                out.writeInt(byteArray2.length);
+                                resultBoolean = roomManager.exitRoom(roomHash, roomName, socket);
+
+                                sendToAll(roomHash, roomName, socket, "#" + name + "님이 퇴장했습니다.");
+                                byteArray2 = serverProtocol.transferServer(roomHash, roomName, socket, resultBoolean, 0, 3);
+                                byteLength = roomName.length();
+                                out.write(byteLength);
                                 out.write(byteArray2);
+                                roomHash.remove(socket);
                                 break;
                             }
-                            else{
-                                sendToAll(roomNumber, roomName, socket, "[" + name + "]" + chat);
+                            for(Socket key : roomHash.keySet()) {
+                                String value = roomHash.get(key);
+                                System.out.println(key + " : " + value);
                             }
+                                sendToAll(roomHash, roomName, socket, "[" + name + "]" + chat);
                         }
                     }//if문
                 } // while문
@@ -162,10 +160,10 @@ public class TcpIpMultiChattingServer {
             catch (IOException ie) {
             }
             finally {
-                roomNumber.remove(socket, roomName);
-                sendToAll(roomNumber, roomName, socket, "#" + name + "님이 퇴장했습니다.");
+                roomHash.remove(socket);
+                sendToAll(roomHash, roomName, socket, "#" + name + "님이 퇴장했습니다.");
                 System.out.println(name + "유저 [" + socket.getInetAddress() + ":" + socket.getPort() + "]" + "에서 접속을 종료하였습니다.");
-                System.out.println("현재 서버접속자 수는 " + (roomNumber.size() -1) + "입니다.");
+                System.out.println("현재 서버접속자 수는 " + (roomHash.size() -1) + "입니다.");
             } // finally
         } // run
     }

@@ -1,4 +1,3 @@
-import java.io.ByteArrayOutputStream;
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
@@ -27,31 +26,63 @@ public class TcpIpMultiChattingClient {
         public void run() {
             try {
                 Scanner input = new Scanner(System.in);
-                if (out != null) {
-                    byte[] byteArr;
-                    byteArr = cp.transferClient(1);
-                    out.writeInt(byteArr.length);
-                    out.write(byteArr);
-                }
+                byte[] byteArr = null;
+                int byteLength = 0;
+
+                System.out.println("유저 이름을 입력하세요.");
+                String name = input.nextLine();
+                byteArr = cp.transferClient(1, name, "");
+                out.write(name.length());
+                out.write(byteArr);
+
                 while (out !=null) {
                     System.out.println("2. 방생성 3. 나가기 4. 채팅.");
-                    byte[] byteArr;
-                    int protocol = input.nextInt();
-                    byteArr = cp.transferClient(protocol);
-                    out.writeInt(protocol);
-                    out.writeInt(byteArr.length);
-                    out.write(byteArr);
-                    if(protocol == 4){
-                        Scanner scanner = new Scanner(System.in);
+                    String protocol = input.nextLine();
+
+                    if(protocol.equals("1")){
+                        System.out.println("유저 이름을 입력하세요.");
+                        String userName = input.nextLine();
+                        byte[] byteArr2 = cp.transferClient(1, userName, "");
+                        out.writeInt(1);
+                        out.writeInt(name.length());
+                        out.write(0);
+                        out.write(byteArr2);
+                    }
+                    if(protocol.equals("2")){
+                        System.out.println("방 이름을 입력하세요.");
+                        String roomName = input.nextLine();
+                        byte[] byteArr2 = cp.transferClient(2, roomName, "");
+                        out.write(2);
+                        out.write(roomName.length());
+                        out.write(0);
+                        out.write(byteArr2);
+                    }
+                    if(protocol.equals("3")){
+                        System.out.println("나갈 방 이름을 입력하세요.");
+                        String roomName = input.nextLine();
+                        byte[] byteArr2 = cp.transferClient(3, roomName, "");
+                        out.writeInt(3);
+                        out.writeInt(roomName.length());
+                        out.write(0);
+                        out.write(byteArr2);
+                    }
+                    if(protocol.equals("4")){
+                        System.out.println("채팅할 방의 이름을 입력하세요.");
+                        String roomName = input.nextLine();
+                        byte[] byteArr2 = cp.transferClient(4, roomName, "test");
+                        out.write(4);
+                        System.out.println("프로토콜 번호 4.");
+                        out.write(roomName.length());
+                        out.write(4);
+                        out.write(byteArr2);
                         while(out!=null){
-                            String chat = scanner.nextLine();
+                            String chat = input.nextLine();
                             if(chat.equals("out")){
                                 out.writeUTF(chat);
                                 break;
                             }
-                            else{
-                                out.writeUTF(chat);
-                            }
+                            out.writeUTF(chat);
+                            System.out.println("채팅을 보냈습니다.");
                         }
                     }
                 }
@@ -73,48 +104,41 @@ public class TcpIpMultiChattingClient {
             }
         }
         public void run() {
-            int size = 0;
-            int protocol = 0;
             try {
+                byte[] byteArray = new byte[1];
+                in.readFully(byteArray, 0, 1);
+                tcpClient.receiveClient(byteArray, 1);
+
                 while(in!=null){
-                    protocol = in.readInt();
+                    int protocol = in.read();
                     if(protocol == 1){
-                        int sizes = in.readInt();
-                        byte[] byteArray = new byte[sizes];
-                        byte[] byteArray2 = null;
-                        in.readFully(byteArray, 0, sizes);
-                        tcpClient.receiveClient(byteArray);
+                        byte[] byteArray2 = new byte[1];
+                        in.readFully(byteArray2, 0, 1);
+                        tcpClient.receiveClient(byteArray2, protocol);
                     }
                     else if(protocol == 2){
-                        int sizes = in.readInt();
-                        byte[] byteArray = new byte[sizes];
-                        byte[] byteArray2 = null;
-                        in.readFully(byteArray, 0, sizes);
-                        tcpClient.receiveClient(byteArray);
+                        byte[] byteArray2 = new byte[4];
+                        in.readFully(byteArray2, 0, 4);
+                        tcpClient.receiveClient(byteArray2, protocol);
                     }
                     else if(protocol == 3){
-                        int sizes = in.readInt();
-                        byte[] byteArray = new byte[sizes];
-                        byte[] byteArray2 = null;
-                        in.readFully(byteArray, 0, sizes);
-                        tcpClient.receiveClient(byteArray);
+                        byte[] byteArray2 = new byte[1];
+                        in.readFully(byteArray2, 0, 1);
+                        tcpClient.receiveClient(byteArray2, protocol);
                     }
                     else if(protocol == 4){
-                        int sizes = in.readInt();
-                        byte[] byteArray = new byte[sizes];
-                        in.readFully(byteArray, 0, sizes);
-                        tcpClient.receiveClient(byteArray);
+                        byte[] byteArray2 = new byte[1];
+                        String test = in.readUTF();
+                        in.readFully(byteArray2, 0, 1);
+                        tcpClient.receiveClient(byteArray2, protocol);
                         while(in!=null){
                             String chat = in.readUTF();
+                            System.out.println(chat);
                             if(chat.equals("out")){
-                                int roomSize = in.readInt();
-                                byte[] byteArray2 = new byte[roomSize];
-                                in.readFully(byteArray2, 0, roomSize);
-                                tcpClient.receiveClient(byteArray2);
+                                byte[] byteArray3 = new byte[1];
+                                in.readFully(byteArray3, 0, 1);
+                                tcpClient.receiveClient(byteArray3, protocol);
                                 break;
-                            }
-                            else{
-                                System.out.println(chat);
                             }
                         }
                     }
