@@ -16,7 +16,7 @@ public class TcpIpMultiChattingServer {
         try {
             while ( keys.hasNext() ) {
                 Socket key = keys.next();
-                if (roomName.equals(roomHash.get(key))) {
+                if (roomName.equals(roomHash.get(key)) && socket != key) {
                     out = new DataOutputStream(key.getOutputStream());
                     out.writeUTF(msg);
                 }
@@ -138,14 +138,11 @@ public class TcpIpMultiChattingServer {
                         while(in!=null) {
                             String chat = in.readUTF();
                             if(chat.equals("out")){
-                                resultBoolean = roomManager.exitRoom(roomHash, roomName, socket);
-
-                                sendToAll(roomHash, roomName, socket, "#" + name + "님이 퇴장했습니다.");
-                                byteArray2 = serverProtocol.transferServer(roomHash, roomName, socket, resultBoolean, 0, 3);
-                                byteLength = roomName.length();
-                                out.write(byteLength);
-                                out.write(byteArray2);
+                                out.writeUTF(chat);
                                 roomHash.remove(socket);
+                                resultBoolean = roomManager.exitRoom(roomHash, roomName, socket);
+                                byteArray2 = serverProtocol.transferServer(roomHash, roomName, socket, resultBoolean, 0, 3);
+                                out.write(byteArray2);
                                 break;
                             }
                             for(Socket key : roomHash.keySet()) {

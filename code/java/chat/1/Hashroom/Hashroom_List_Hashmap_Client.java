@@ -1,4 +1,3 @@
-import java.io.ByteArrayOutputStream;
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
@@ -10,32 +9,6 @@ import java.net.InetSocketAddress;
 
 
 public class TcpIpMultiChattingClient {
-    static int protocolName;
-    static int size;
-    static String name;
-    static int roomSize;
-    static String roomName;
-    static int msgSize;
-    static String msgName;
-    static byte[] nameBuffer;
-
-    public TcpIpMultiChattingClient(byte[] nameBuffer){
-        this.nameBuffer = nameBuffer;
-    }
-
-    public TcpIpMultiChattingClient(int protocolName, int size, String name){
-        this.protocolName = protocolName;
-        this.size = size;
-        this.name = name;
-    }
-
-    public TcpIpMultiChattingClient(int protocolName, int roomSize, String roomName, int msgSize, String msgName){
-        this.protocolName = protocolName;
-        this.roomSize = roomSize;
-        this.roomName = roomName;
-        this.msgSize = msgSize;
-        this.msgName = msgName;
-    }
 
     static class ClientSender extends Thread {
         Socket socket;
@@ -52,107 +25,131 @@ public class TcpIpMultiChattingClient {
 
         public void run() {
             try {
-                Scanner input = new Scanner(System.in);
-                if (out != null) {
-                    byte[] byteArr;
-                    byteArr = cp.transferClient(1);
-                    out.writeInt(byteArr.length);
-                    out.write(byteArr);
-                }
                 while (out !=null) {
-                    System.out.println("2. 방생성 3. 나가기 4. 채팅.");
-                    byte[] byteArr;
-                    int protocol = input.nextInt();
-                    byteArr = cp.transferClient(protocol);
-                    out.writeInt(protocol);
-                    out.writeInt(byteArr.length);
-                    out.write(byteArr);
-                    if(protocol == 4){
-                        Scanner scanner = new Scanner(System.in);
-                        while(out!=null){
-                            out.writeUTF(scanner.nextLine());
-                        }
+                    getSendProtocol(out);
                     }
-                }
             } catch (IOException e) {
             }
         }//run
 
+        public String getSendProtocol(DataOutputStream out) throws IOException {
+            Scanner getProtocol= new Scanner(System.in);
+            System.out.println("1. 이름 생성 2. 방생성 3. 나가기 4. 채팅.");
+            String protocol = getProtocol.nextLine();
+
+            Scanner input = new Scanner(System.in);
+            String result = null;
+            if (protocol.equals("1")) {
+                System.out.println("유저 이름을 입력하세요.");
+                result = input.nextLine();
+                byte[] byteArr2 = cp.transferClient(1, result, "");
+                out.writeUTF("1");
+                out.writeInt(result.length());
+                out.writeInt(0);
+                out.write(byteArr2);
+            }
+            if (protocol.equals("2")) {
+                System.out.println("방 이름을 입력하세요.");
+                result = input.nextLine();
+                byte[] byteArr2 = cp.transferClient(2, result, "");
+                out.writeUTF("2");
+                out.writeInt(result.length());
+                out.writeInt(0);
+                out.write(byteArr2);
+            }
+            if (protocol.equals("3")) {
+                System.out.println("나갈 방 이름을 입력하세요.");
+                result = input.nextLine();
+                byte[] byteArr2 = cp.transferClient(3, result, "");
+                out.writeUTF("3");
+                out.writeInt(result.length());
+                out.writeInt(0);
+                out.write(byteArr2);
+            }
+            if (protocol.equals("4")) {
+                System.out.println("채팅할 방의 이름을 입력하세요.");
+                result = input.nextLine();
+                byte[] byteArr2 = cp.transferClient(4, result, "test");
+                out.writeUTF("4");
+                System.out.println("프로토콜 번호 4.");
+                out.writeInt(result.length());
+                out.writeInt(4);
+                out.write(byteArr2);
+                while (out != null) {
+                    String chat = input.nextLine();
+                    if (chat.equals("out")) {
+                        out.writeUTF(chat);
+                        break;
+                    }
+                    out.writeUTF(chat);
+                }
+            }
+            return result;
+        } // getSendProtocol
     }
     static class ClientReceiver extends Thread {
         Socket socket;
         DataInputStream in;
-        ClientProtocol tcpClient = new ClientProtocol();
 
         public ClientReceiver(Socket socket) {
             this.socket = socket;
-            try {
-                in = new DataInputStream(socket.getInputStream());
-            } catch (IOException io) {
-            }
+
         }
+
         public void run() {
-            int size = 0;
-            int protocol = 0;
             try {
-                while(in!=null){
-                    protocol = in.readInt();
-                    if(protocol == 1){
-                        int sizes = in.readInt();
-                        byte[] byteArray = new byte[sizes];
-                        byte[] byteArray2 = null;
-                        in.readFully(byteArray, 0, sizes);
-                        tcpClient.receiveClient(byteArray);
-                    }
-                    else if(protocol == 2){
-                        int sizes = in.readInt();
-                        byte[] byteArray = new byte[sizes];
-                        byte[] byteArray2 = null;
-                        in.readFully(byteArray, 0, sizes);
-                        tcpClient.receiveClient(byteArray);
-                    }
-                    else if(protocol == 3){
-                        int sizes = in.readInt();
-                        byte[] byteArray = new byte[sizes];
-                        byte[] byteArray2 = null;
-                        in.readFully(byteArray, 0, sizes);
-                        tcpClient.receiveClient(byteArray);
-                    }
-                    else if(protocol == 4){
-                        while(in!=null) {
-                            int sizes = in.readInt();
-                            byte[] byteArray = new byte[sizes];
-                            byte[] byteArray2 = null;
-                            in.readFully(byteArray, 0, sizes);
-                            tcpClient.receiveClient(byteArray);
-                            while(in!=null){
-                                System.out.println(in.readUTF());
-                            }
-                        }
-                    }
-                }
+                ClientProtocol clientProtocol = new ClientProtocol();
+                getReceiveProtocol(socket, clientProtocol);
             } catch (IOException e) {
                 e.printStackTrace();
             }
         }//run
-    }
-    static class Selection extends Thread{
-        int protocolName;
 
-        public Selection(int protocolName){
-            this.protocolName = protocolName;
+        public void getReceiveProtocol(Socket socket, ClientProtocol clientProtocol) throws IOException {
+            try {
+                in = new DataInputStream(socket.getInputStream());
+            } catch (IOException io) {
+            }
+
+            while(in!=null){
+                int protocol = in.read();
+                if(protocol == 1){
+                    byte[] byteArray2 = new byte[1];
+                    in.readFully(byteArray2, 0, 1);
+                    clientProtocol.receiveClient(byteArray2, protocol);
+                }
+                else if(protocol == 2){
+                    byte[] byteArray2 = new byte[4];
+                    in.readFully(byteArray2, 0, 4);
+                    clientProtocol.receiveClient(byteArray2, protocol);
+                }
+                else if(protocol == 3){
+                    byte[] byteArray2 = new byte[1];
+                    in.readFully(byteArray2, 0, 1);
+                    clientProtocol.receiveClient(byteArray2, protocol);
+                }
+                else if(protocol == 4){
+                    byte[] byteArray2 = new byte[1];
+                    String test = in.readUTF();
+                    in.readFully(byteArray2, 0, 1);
+                    clientProtocol.receiveClient(byteArray2, protocol);
+                    while(in!=null){
+                        String chat = in.readUTF();
+                        if(chat.equals("out")){
+                            byte[] byteArray3 = new byte[1];
+                            in.readFully(byteArray3, 0, 1);
+                            clientProtocol.receiveClient(byteArray3, 3);
+                            break;
+                        }
+                        System.out.println(chat);
+                    }
+                }
+            }//while문
         }
 
-        public void run(){
-            Scanner sc = new Scanner(System.in);
-            int select = sc.nextInt();
-        }
-
     }
+
     public static void main(String[] args) {
-        int select;
-        int join;
-        int roomNumber;
         try {
             Socket socket = null;
             socket = new Socket();

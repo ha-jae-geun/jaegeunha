@@ -1,3 +1,4 @@
+* TcpMultichatServer - getReceiveProtocol 메소드 - 4번 - sentTOALl
 *   
 	- Collections.synchronizedMap(clientMap); //해쉬맵 동기화 설정.
     - //HashTable은 데이터 변경 메서드가 모두 동기화(Synchronized) 메서드로 선언되어 있습니다. 좀 더 설명을 하자면 메서드 호출 전에 쓰레드간 동기화 락(Lock)을 걸기 때문에 멀티 쓰레드(Multi-Thread) 환경에서도 데이터의 무결성을 보장합니다.

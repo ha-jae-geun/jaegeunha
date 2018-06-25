@@ -82,7 +82,6 @@ public class TcpIpMultiChattingClient {
                                 break;
                             }
                             out.writeUTF(chat);
-                            System.out.println("채팅을 보냈습니다.");
                         }
                     }
                 }
@@ -133,13 +132,13 @@ public class TcpIpMultiChattingClient {
                         tcpClient.receiveClient(byteArray2, protocol);
                         while(in!=null){
                             String chat = in.readUTF();
-                            System.out.println(chat);
                             if(chat.equals("out")){
                                 byte[] byteArray3 = new byte[1];
                                 in.readFully(byteArray3, 0, 1);
-                                tcpClient.receiveClient(byteArray3, protocol);
+                                tcpClient.receiveClient(byteArray3, 3);
                                 break;
                             }
+                            System.out.println(chat);
                         }
                     }
                 }

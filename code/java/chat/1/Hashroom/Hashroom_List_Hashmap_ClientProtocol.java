@@ -3,33 +3,11 @@ import java.net.Socket;
 import java.util.Scanner;
 
 public class ClientProtocol{
-    int protocolName;
-    int size;
-    String name;
-    int roomSize;
-    String roomName;
-    int msgSize;
-    String msgName;
+    String name = null;
+    String msgName = null;
     Scanner input = new Scanner(System.in);
 
     public ClientProtocol(){ }
-
-    public ClientProtocol(int protocolName) {
-        this.protocolName = protocolName;
-    }
-
-    public ClientProtocol(int protocolName, int size, String name) {
-        this.protocolName = protocolName;
-        this.size = size;
-        this.name = name;
-    }
-    public ClientProtocol(int protocolName, int roomSize, String roomName, int msgSize, String msgName) {
-        this.protocolName = protocolName;
-        this.roomSize = roomSize;
-        this.roomName = roomName;
-        this.msgSize = msgSize;
-        this.msgName = msgName;
-    }
 
     public static byte[] intToByteArray(int value) {
         byte[] byteArray = new byte[4];
@@ -63,91 +41,51 @@ public class ClientProtocol{
         return vOut;
     }
 
-    public byte[] transferClient(int protocolName) {
+    public byte[] transferClient(int protocolName, String name, String msgName) {
         byte[] nameBuffer = null;
 
         if(protocolName == 1) {
-            System.out.println("유저 이름을 입력하세요.");
-            name = input.nextLine();
-            size = name.length();
-            byte[] protocol = intToByteArray(protocolName);
-            byte[] nameSize = intToByteArray(size);
             byte[] nameValue = stringToByteArray(name);
-            nameBuffer = new byte[protocol.length + nameSize.length + nameValue.length];
+            nameBuffer = new byte[name.length()];
 
-            System.arraycopy(protocol, 0, nameBuffer, 0, protocol.length);
-            System.arraycopy(nameSize, 0, nameBuffer, protocol.length, nameSize.length);
-            System.arraycopy(nameValue, 0, nameBuffer, nameSize.length + protocol.length, nameValue.length);
-
+            System.arraycopy(nameValue, 0, nameBuffer, 0, name.length());
             System.out.println("transfer client 바이트 값" + nameBuffer);
         }
 
         else if(protocolName == 2) {
-            System.out.println("방의 이름을 입력하세요.");
-            name = input.nextLine();
-            size = name.length();
-            byte[] protocol = intToByteArray(protocolName);
-            byte[] roomSize = intToByteArray(size);
             byte[] roomValue = stringToByteArray(name);
-            nameBuffer = new byte[protocol.length + roomSize.length + roomValue.length];
+            System.out.println("namer값 " + name);
+            nameBuffer = new byte[name.length()];
 
-            System.arraycopy(protocol, 0, nameBuffer, 0, protocol.length);
-            System.arraycopy(roomSize, 0, nameBuffer, protocol.length, roomSize.length);
-            System.arraycopy(roomValue, 0, nameBuffer, roomSize.length + protocol.length, roomValue.length);
-
+            System.arraycopy(roomValue, 0, nameBuffer, 0, name.length());
             System.out.println("transfer client 바이트 값" + nameBuffer);
         }
         else if(protocolName == 3) {
-            System.out.println("나갈 방의 이름을 입력하세요");
-            name = input.nextLine();
-            size = name.length();
-            byte[] protocol = intToByteArray(protocolName);
-            byte[] roomSize = intToByteArray(size);
             byte[] roomValue = stringToByteArray(name);
-            nameBuffer = new byte[protocol.length + roomSize.length + roomValue.length];
+            nameBuffer = new byte[name.length()];
 
-            System.arraycopy(protocol, 0, nameBuffer, 0, protocol.length);
-            System.arraycopy(roomSize, 0, nameBuffer, protocol.length, roomSize.length);
-            System.arraycopy(roomValue, 0, nameBuffer, roomSize.length + protocol.length, roomValue.length);
-
+            System.arraycopy(roomValue, 0, nameBuffer, 0, name.length());
             System.out.println("transfer client 바이트 값" + nameBuffer);
         }
         else if(protocolName == 4) {
-            System.out.println("메세지를 보낼 방의 이름을 입력하세요.");
-            name = input.nextLine();
-            size = name.length();
-            System.out.println("메세지를 입력하세요.");
-            msgName = input.nextLine();
-            msgSize = msgName.length();
-
-            byte[] protocol = intToByteArray(protocolName);
-            byte[] roomSize = intToByteArray(size);
             byte[] roomValue = stringToByteArray(name);
-            byte[] msgSizeArray = intToByteArray(msgSize);
-            byte[] msgValue = stringToByteArray(msgName);
+            byte[] msgValue = stringToByteArray("test");
 
-            nameBuffer = new byte[protocol.length + roomSize.length + roomValue.length + msgSizeArray.length + msgValue.length];
+            nameBuffer = new byte[name.length() + 4];
 
-            System.arraycopy(protocol, 0, nameBuffer, 0, protocol.length);
-            System.arraycopy(roomSize, 0, nameBuffer, protocol.length, roomSize.length);
-            System.arraycopy(roomValue, 0, nameBuffer, roomSize.length + protocol.length, roomValue.length);
-            System.arraycopy(msgSizeArray, 0, nameBuffer, roomSize.length + protocol.length + roomValue.length, msgSizeArray.length);
-            System.arraycopy(msgValue, 0, nameBuffer, roomSize.length + protocol.length + roomValue.length + msgSizeArray.length, msgValue.length);
+            System.arraycopy(roomValue, 0, nameBuffer, 0, name.length());
+            System.arraycopy(msgValue, 0, nameBuffer, name.length(), 4);
 
             System.out.println("transfer client 바이트 값" + nameBuffer);
         }
         return nameBuffer;
     } // transfer
-    public void  receiveClient(byte[] byteArr) {
-        byte protocol[] = new byte[4];
-        for (int i = 0; i < 4; i = i + 1)
-            protocol[i] = byteArr[i];
-        int protocolInt = byteArrayToInt(protocol);
+    public void  receiveClient(byte[] byteArr, int protocolInt) {
 
         if(protocolInt == 1) {
-            byte result[] = new byte[4];
+            byte result[] = new byte[1];
             for (int i = 0; i < 1; i = i + 1)
-                result[i] = byteArr[i+4];
+                result[i] = byteArr[i];
             boolean resultToBoolean = byteArrayToBoolean(result);
 
             if(resultToBoolean) {
@@ -161,7 +99,7 @@ public class ClientProtocol{
         else if(protocolInt == 2){
             byte result[] = new byte[4];
             for (int i = 0; i < 4; i = i + 1)
-                result[i] = byteArr[i+4];
+                result[i] = byteArr[i];
             int resultToInt = byteArrayToInt(result);
 
 
@@ -177,9 +115,9 @@ public class ClientProtocol{
             System.out.println("생성 상태  " + resultToInt);
         }
         else if(protocolInt == 3) {
-            byte result[] = new byte[4];
+            byte result[] = new byte[1];
             for (int i = 0; i < 1; i = i + 1)
-                result[i] = byteArr[i+4];
+                result[i] = byteArr[i];
             boolean resultToBoolean = byteArrayToBoolean(result);
 
             if(resultToBoolean) {
@@ -191,9 +129,9 @@ public class ClientProtocol{
             System.out.println("참 거짓  " + resultToBoolean);
         }
         else if(protocolInt == 4) {
-            byte result[] = new byte[4];
+            byte result[] = new byte[1];
             for (int i = 0; i < 1; i = i + 1)
-                result[i] = byteArr[i+4];
+                result[i] = byteArr[i];
             boolean resultToBoolean = byteArrayToBoolean(result);
 
             if(resultToBoolean) {
