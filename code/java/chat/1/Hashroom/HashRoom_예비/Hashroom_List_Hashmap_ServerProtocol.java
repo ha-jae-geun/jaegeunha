@@ -1,12 +1,6 @@
 import java.io.*;
-import java.net.Socket;
-import java.util.HashMap;
-import java.util.Map;
 
 public class ServerProtocol{
-
-    byte[] resultBuffer;
-
     public ServerProtocol(){}
 
     public byte[] intToByteArray(int value) {
@@ -19,16 +13,8 @@ public class ServerProtocol{
     }
 
     public byte[] booleanToByteArray(boolean boo){
-        boolean vIn = true;
-        byte [] vOut = new byte[]{(byte) (vIn?1:0)};
+        byte [] vOut = new byte[]{(byte) (boo?1:0)};
         return vOut;
-    }
-
-    public int byteArrayToInt(byte bytes[]) {
-        return ((((int)bytes[0] & 0xff) << 24) |
-                (((int)bytes[1] & 0xff) << 16) |
-                (((int)bytes[2] & 0xff) << 8) |
-                (((int)bytes[3] & 0xff)));
     }
 
     public String byteToString(byte bytes[]) throws UnsupportedEncodingException {
@@ -36,9 +22,7 @@ public class ServerProtocol{
         return byteToString;
     }
 
-    public String receiveServer(byte[] byteArr, HashMap<Socket, String> roomHash, Socket socket, int nameSize, int msgSize, int protocolInt) {
-        byte resultArray [] = null;
-        byte protocol[] = new byte[4];
+    public String receiveServer(byte[] byteArr, int nameSize, int msgSize, int protocolInt) {
         String returnString = null;
 
         if(protocolInt == 1) {
@@ -47,7 +31,7 @@ public class ServerProtocol{
                 name[i] = byteArr[i];
             try {
                 returnString = byteToString(name);
-                System.out.println("receive server 프로토콜" + protocolInt);
+                System.out.println("1번 프로토콜 receive server " + protocolInt);
                 System.out.println("receive server 유저 이름" + returnString);
             } catch (UnsupportedEncodingException e) {
                 e.printStackTrace();
@@ -62,7 +46,7 @@ public class ServerProtocol{
             } catch (UnsupportedEncodingException e) {
                 e.printStackTrace();
             }
-            System.out.println("receive server 프로토콜 " + protocolInt);
+            System.out.println("2번 프로토콜 receive server" + protocolInt);
             System.out.println("receive server 방 이름 " + returnString);
         }
         else if(protocolInt == 3) {
@@ -75,7 +59,7 @@ public class ServerProtocol{
             } catch (UnsupportedEncodingException e) {
                 e.printStackTrace();
             }
-            System.out.println("receive server 프로토콜" +protocolInt);
+            System.out.println("3번 프로토콜receive server" +protocolInt);
             System.out.println("receive server 나가는 방 이름" +returnString);
         }
         else if(protocolInt == 4) {
@@ -88,7 +72,7 @@ public class ServerProtocol{
                 msgName[i] = byteArr[nameSize + i];
 
             try {
-                System.out.println("receive server 프로토콜" + protocolInt);
+                System.out.println("4번 프로토콜 receive server" + protocolInt);
                 System.out.println("receive server 방 이름 크기" +nameSize);
                 System.out.println("receive server 메세제 이름 크기" + msgSize);
                 returnString= byteToString(roomName);
@@ -102,36 +86,38 @@ public class ServerProtocol{
         System.out.println("return 값 " + returnString);
         return returnString;
     } // receive
-    public byte[] transferServer(HashMap<Socket, String> roomHash, String roomName, Socket socket, Boolean resultBoolean, int resultInt, int protocolName) {
+    public byte[] transferServer(Boolean resultBoolean, int resultInt, int protocolName) {
+        byte[] resultBuffer = null;
+
         if(protocolName == 1) {
 
             byte[] result = booleanToByteArray(resultBoolean);
             resultBuffer = new byte[1];
 
             System.arraycopy(result, 0, resultBuffer, 0, 1);
-            System.out.println("transfer server 바이트 값" +resultBuffer);
+            System.out.println("1번 transfer server 바이트 값" +resultBuffer);
         }
         else if(protocolName == 2) {
             byte[] result = intToByteArray(resultInt);
             resultBuffer = new byte[4];
 
             System.arraycopy(result, 0, resultBuffer, 0, 4);
-            System.out.println("transfer server 바이트 값" +resultBuffer);
+            System.out.println("2번 transfer server 바이트 값" +resultBuffer);
         }
         else if(protocolName == 3) {
             byte[] result = booleanToByteArray(resultBoolean);
             resultBuffer = new byte[1];
 
             System.arraycopy(result, 0, resultBuffer, 0, 1);
-            System.out.println("프로토콜 3: transfer server 바이트 값" + resultBuffer);
+            System.out.println("3번 transfer server 바이트 값" + resultBuffer);
         }
         else if(protocolName == 4) {
             byte[] result = booleanToByteArray(resultBoolean);
             resultBuffer = new byte[1];
 
             System.arraycopy(result, 0, resultBuffer, 0, 1);
-            System.out.println("transfer server 바이트 값" + resultBuffer);
+            System.out.println("4번 transfer server 바이트 값" + resultBuffer);
         }
         return resultBuffer;
     } // transfer
-}
+}//Server Protocol

@@ -1,22 +1,8 @@
 import java.io.*;
-import java.net.Socket;
-import java.util.Scanner;
 
 public class ClientProtocol{
-    String name = null;
-    String msgName = null;
-    Scanner input = new Scanner(System.in);
 
     public ClientProtocol(){ }
-
-    public static byte[] intToByteArray(int value) {
-        byte[] byteArray = new byte[4];
-        byteArray[0] = (byte)(value >> 24);
-        byteArray[1] = (byte)(value >> 16);
-        byteArray[2] = (byte)(value >> 8);
-        byteArray[3] = (byte)(value);
-        return byteArray;
-    }
 
     public static byte[] stringToByteArray(String name) {
         byte[] byteArr = new byte[0];
@@ -36,9 +22,7 @@ public class ClientProtocol{
     }
 
     public static boolean byteArrayToBoolean(byte bytes[]){
-        byte[] vIn = new byte[] { 1, 1, 0 };
-        boolean vOut = vIn[0]!=0; //convert first Byte
-        return vOut;
+        return bytes[0] > 0 ? true : false;
     }
 
     public byte[] transferClient(int protocolName, String name, String msgName) {
@@ -135,10 +119,10 @@ public class ClientProtocol{
             boolean resultToBoolean = byteArrayToBoolean(result);
 
             if(resultToBoolean) {
-                System.out.println("메세지를 보냇습니다.");
+                System.out.println("채팅방에 접속했습니다..");
             }
             else{
-                System.out.println("메세지를 보내기를 실패했습니다.");
+                System.out.println("채팅방에 접속을 실패했습니다.");
             }
             System.out.println("참 거짓  " + resultToBoolean);
         }

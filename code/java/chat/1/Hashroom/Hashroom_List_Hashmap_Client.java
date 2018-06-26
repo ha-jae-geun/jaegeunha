@@ -34,7 +34,7 @@ public class TcpIpMultiChattingClient {
 
         public String getSendProtocol(DataOutputStream out) throws IOException {
             Scanner getProtocol= new Scanner(System.in);
-            System.out.println("1. 이름 생성 2. 방생성 3. 나가기 4. 채팅.");
+            System.out.println("1. 이름 생성 2. 방생성 3. 나가기 4. 채팅. 5. 방 목록");
             String protocol = getProtocol.nextLine();
 
             Scanner input = new Scanner(System.in);
@@ -84,6 +84,9 @@ public class TcpIpMultiChattingClient {
                     out.writeUTF(chat);
                 }
             }
+            if (protocol.equals("5")) {
+                out.writeUTF("5");
+            }
             return result;
         } // getSendProtocol
     }
@@ -110,6 +113,7 @@ public class TcpIpMultiChattingClient {
                 in = new DataInputStream(socket.getInputStream());
             } catch (IOException io) {
             }
+
 
             while(in!=null){
                 int protocol = in.read();
@@ -144,6 +148,12 @@ public class TcpIpMultiChattingClient {
                         System.out.println(chat);
                     }
                 }
+                else if(protocol == 5){
+                    int hashSize = in.readInt();
+                    for(int size = 0 ; size< hashSize; ++size){
+                        System.out.println(in.readUTF());
+                    }
+                }
             }//while문
         }
 
@@ -166,6 +176,6 @@ public class TcpIpMultiChattingClient {
         }
         catch (Exception e) { }
     }
-}
+} // Client
 
 

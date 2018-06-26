@@ -33,8 +33,9 @@ public class TcpIpMultiChattingClient {
         }//run
 
         public String getSendProtocol(DataOutputStream out) throws IOException {
+            UserManager userManager  = new UserManager(socket);
             Scanner getProtocol= new Scanner(System.in);
-            System.out.println("1. 이름 생성 2. 방생성 3. 나가기 4. 채팅.");
+            System.out.println("1. 이름 생성 2. 방생성 3. 나가기 4. 채팅. 5. 방 목록");
             String protocol = getProtocol.nextLine();
 
             Scanner input = new Scanner(System.in);
@@ -51,15 +52,21 @@ public class TcpIpMultiChattingClient {
             if (protocol.equals("2")) {
                 System.out.println("방 이름을 입력하세요.");
                 result = input.nextLine();
-                byte[] byteArr2 = cp.transferClient(2, result, "");
-                out.writeUTF("2");
-                out.writeInt(result.length());
-                out.writeInt(0);
-                out.write(byteArr2);
+                if(!userManager.createRoom(result, socket)){
+                    System.out.println("이미 참여한 방입니다.");
+                }
+                else {
+                    byte[] byteArr2 = cp.transferClient(2, result, "");
+                    out.writeUTF("2");
+                    out.writeInt(result.length());
+                    out.writeInt(0);
+                    out.write(byteArr2);
+                }
             }
             if (protocol.equals("3")) {
                 System.out.println("나갈 방 이름을 입력하세요.");
                 result = input.nextLine();
+                userManager.exitRoom(result, socket);
                 byte[] byteArr2 = cp.transferClient(3, result, "");
                 out.writeUTF("3");
                 out.writeInt(result.length());
@@ -69,20 +76,28 @@ public class TcpIpMultiChattingClient {
             if (protocol.equals("4")) {
                 System.out.println("채팅할 방의 이름을 입력하세요.");
                 result = input.nextLine();
-                byte[] byteArr2 = cp.transferClient(4, result, "test");
-                out.writeUTF("4");
-                System.out.println("프로토콜 번호 4.");
-                out.writeInt(result.length());
-                out.writeInt(4);
-                out.write(byteArr2);
-                while (out != null) {
-                    String chat = input.nextLine();
-                    if (chat.equals("out")) {
-                        out.writeUTF(chat);
-                        break;
-                    }
-                    out.writeUTF(chat);
+                if(!userManager.sendMessage(result, socket)) {
+                  System.out.println("해당 채팅방에 먼저 입장하여야 합니다.");
                 }
+                else {
+                    byte[] byteArr2 = cp.transferClient(4, result, "test");
+                    out.writeUTF("4");
+                    System.out.println("프로토콜 번호 4.");
+                    out.writeInt(result.length());
+                    out.writeInt(4);
+                    out.write(byteArr2);
+                    while (out != null) {
+                        String chat = input.nextLine();
+                        if (chat.equals("out")) {
+                            out.writeUTF(chat);
+                            break;
+                        }
+                        out.writeUTF(chat);
+                    }//while
+                } // else
+            } // if문
+            if (protocol.equals("5")) {
+                out.writeUTF("5");
             }
             return result;
         } // getSendProtocol
@@ -108,16 +123,9 @@ public class TcpIpMultiChattingClient {
         public void getReceiveProtocol(Socket socket, ClientProtocol clientProtocol) throws IOException {
             try {
                 in = new DataInputStream(socket.getInputStream());
-            } catch (IOException io) {
             }
-
-
+            catch (IOException io) { }
             while(in!=null){
-//                int hashSize = in.readInt();
-//                for(int size = 0 ; size< hashSize; ++size){
-//                    System.out.println(in.readUTF());
-//                }
-
                 int protocol = in.read();
                 if(protocol == 1){
                     byte[] byteArray2 = new byte[1];
@@ -139,15 +147,21 @@ public class TcpIpMultiChattingClient {
                     String test = in.readUTF();
                     in.readFully(byteArray2, 0, 1);
                     clientProtocol.receiveClient(byteArray2, protocol);
-                    while(in!=null){
+                    while (in != null) {
                         String chat = in.readUTF();
-                        if(chat.equals("out")){
+                        if (chat.equals("out")) {
                             byte[] byteArray3 = new byte[1];
                             in.readFully(byteArray3, 0, 1);
                             clientProtocol.receiveClient(byteArray3, 3);
                             break;
-                        }
-                        System.out.println(chat);
+                        } // if
+                         System.out.println(chat);
+                    } // while
+                } // else if
+                else if(protocol == 5){
+                    int hashSize = in.readInt();
+                    for(int size = 0 ; size< hashSize; ++size){
+                        System.out.println(in.readUTF());
                     }
                 }
             }//while문
@@ -172,6 +186,6 @@ public class TcpIpMultiChattingClient {
         }
         catch (Exception e) { }
     }
-}
+} // Client
 
 

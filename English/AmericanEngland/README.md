@@ -1,3 +1,4 @@
+* #이면지; sCRAP PAPER(영국) = #SCRATCH PAPER(미국)
 * 화제가 돼; #newsworthy
 * 확신에 찬 #표정; they #gleam with conviction.
 * 전화하다; could you #ring me on 전화번호?

@@ -138,3 +138,8 @@ it을 붙여줘야 한다.
 * how often does it come?
 * #how often
 
+# As
+* As you all have heard,
+* As you may have already heard
+* As you already know
+* As most of you may know

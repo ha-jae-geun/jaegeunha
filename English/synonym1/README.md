@@ -25,3 +25,5 @@
 * 오글거리다; #cheesy = corny = cocky = tacky
 * #blow up at someone / blow up
 * be familiar with 사물/ to: 사람
+* Office supplies; 큰 사무용품(프린터, 전자제품) <> Stationeries
+* 소프트 커피: 디저털 형태의 PDF, 엑셀, 한글

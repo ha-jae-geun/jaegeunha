@@ -1,12 +1,6 @@
 import java.io.*;
-import java.net.Socket;
-import java.util.HashMap;
-import java.util.Map;
 
 public class ServerProtocol{
-
-    byte[] resultBuffer;
-
     public ServerProtocol(){}
 
     public byte[] intToByteArray(int value) {
@@ -19,16 +13,8 @@ public class ServerProtocol{
     }
 
     public byte[] booleanToByteArray(boolean boo){
-        boolean vIn = true;
-        byte [] vOut = new byte[]{(byte) (vIn?1:0)};
+        byte [] vOut = new byte[]{(byte) (boo?1:0)};
         return vOut;
-    }
-
-    public int byteArrayToInt(byte bytes[]) {
-        return ((((int)bytes[0] & 0xff) << 24) |
-                (((int)bytes[1] & 0xff) << 16) |
-                (((int)bytes[2] & 0xff) << 8) |
-                (((int)bytes[3] & 0xff)));
     }
 
     public String byteToString(byte bytes[]) throws UnsupportedEncodingException {
@@ -36,9 +22,7 @@ public class ServerProtocol{
         return byteToString;
     }
 
-    public String receiveServer(byte[] byteArr, HashMap<Socket, String> roomHash, Socket socket, int nameSize, int msgSize, int protocolInt) {
-        byte resultArray [] = null;
-        byte protocol[] = new byte[4];
+    public String receiveServer(byte[] byteArr, int nameSize, int msgSize, int protocolInt) {
         String returnString = null;
 
         if(protocolInt == 1) {
@@ -102,7 +86,9 @@ public class ServerProtocol{
         System.out.println("return 값 " + returnString);
         return returnString;
     } // receive
-    public byte[] transferServer(HashMap<Socket, String> roomHash, String roomName, Socket socket, Boolean resultBoolean, int resultInt, int protocolName) {
+    public byte[] transferServer(Boolean resultBoolean, int resultInt, int protocolName) {
+        byte[] resultBuffer = null;
+
         if(protocolName == 1) {
 
             byte[] result = booleanToByteArray(resultBoolean);
@@ -134,4 +120,4 @@ public class ServerProtocol{
         }
         return resultBuffer;
     } // transfer
-}
+}//Server Protocol

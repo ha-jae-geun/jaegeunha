@@ -6,18 +6,20 @@ import java.util.Iterator;
 
 public class RoomManager{
     static HashMap<Socket, String> roomHash = new HashMap<Socket, String>();
+    static HashMap<Socket, String> nameHash = new HashMap<Socket, String>();
     static Socket socket;
 
-    public RoomManager(Socket socket, HashMap<Socket, String> roomHash){
+    static
+    {
+        roomHash = new HashMap<Socket, String>();
+        roomHash.put(null, "접속 할 수 있는 방 목록");
+    }
+
+    public RoomManager(Socket socket){
         this.socket = socket;
-        this.roomHash = roomHash;
     }
 
-    public void setHash(HashMap<Socket, String> roomHash){
-        this.roomHash = roomHash;
-    }
-
-    public HashMap<Socket, String> getHash(){
+    public HashMap<Socket, String> getRoomHash(){
         return roomHash;
     }
 
@@ -36,20 +38,30 @@ public class RoomManager{
         }
     }//sent
 
-    boolean createName(HashMap<Socket, String> roomHash, String roomName, Socket socket){
-        boolean trueFalse = false;
-        try {
-            trueFalse = true;
+    void setName(Socket socket, String name) {
+        nameHash.put(socket, name);
+    }
+
+    String getName(Socket sockets){
+        return nameHash.get(sockets);
+    }
+
+    boolean createName(String name){
+        boolean isValid = false;
+
+        if(nameHash.containsValue(name)){
+            isValid = true;
         }
-        catch(NullPointerException e){
-            trueFalse = false;
+        else{
+            isValid = false;
         }
-        return trueFalse;
+        return isValid;
     }//createname
 
-    int createRoom(HashMap<Socket, String> roomHash, String roomName, Socket socket){
+    int createRoom(String roomName, Socket socket){
         int roomState = -1;
         try {
+            roomHash.put(socket, roomName);
             Iterator<Socket> keys = roomHash.keySet().iterator();
             while ( keys.hasNext() ) {
                 Socket key = keys.next();
@@ -66,30 +78,61 @@ public class RoomManager{
         return roomState;
     }  //createroom
 
-    boolean exitRoom(HashMap<Socket, String> roomHash, String roomName, Socket socket){
-        boolean trueFalse = false;
+    boolean exitRoom(Socket socket){
+        boolean isValid = false;
+        roomHash.remove(socket);
 
         if(roomHash.containsKey(socket)){
-            trueFalse = false;
+            isValid = false;
         }
         else{
-            trueFalse = true;
+            isValid = true;
         }
-        return trueFalse;
+        return isValid;
     } //exitroom
 
-    boolean sendMessage(HashMap<Socket, String> roomHash, String roomName, Socket socket, String msg){
-        boolean trueFalse = false;
+    boolean sendMessage(Socket socket, String msg){
+        boolean isValid = false;
         try {
-            trueFalse = true;
+            isValid = true;
             sendToAll(roomHash, socket, msg);
         }
         catch(NullPointerException e){
-            trueFalse = false;
+            isValid = false;
         }
-        return trueFalse;
+        return isValid;
     } // sendMessage
+
+    void roomList(DataOutputStream out){
+        try {
+            HashMap<Socket, String> listHash = new HashMap<Socket, String>();
+            int roomSize = roomHash.size();
+
+            listHash.put(null, null);
+            for(Socket key : roomHash.keySet()) {
+                int count = 0;
+                listHash.put(key, roomHash.get(key));
+                for(Socket keys : listHash.keySet()) {
+                    if(roomHash.get(key).equals(listHash.get(keys))){
+                        count = count + 1;
+                    }
+                    if(roomHash.get(key).equals(listHash.get(key)) && count == 2){
+                        listHash.remove(keys);
+                    }
+                }
+            }
+            listHash.remove(null);
+            out.writeInt(listHash.size());
+            for(Socket key : listHash.keySet()) {
+                String value = listHash.get(key);
+                System.out.println(key + " : " + value);
+                out.writeUTF(" 방 목록: " + value);
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
 
     public static void main(String[] args) {
     }
-} // public class
+} // RoomManager

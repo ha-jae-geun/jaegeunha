@@ -1,24 +1,10 @@
 import java.io.*;
-import java.net.Socket;
-import java.util.Scanner;
 
 public class ClientProtocol{
-    String name = null;
-    String msgName = null;
-    Scanner input = new Scanner(System.in);
 
     public ClientProtocol(){ }
 
-    public static byte[] intToByteArray(int value) {
-        byte[] byteArray = new byte[4];
-        byteArray[0] = (byte)(value >> 24);
-        byteArray[1] = (byte)(value >> 16);
-        byteArray[2] = (byte)(value >> 8);
-        byteArray[3] = (byte)(value);
-        return byteArray;
-    }
-
-    public static byte[] stringToByteArray(String name) {
+    public byte[] stringToByteArray(String name) {
         byte[] byteArr = new byte[0];
         try {
             byteArr = name.getBytes("UTF-8");
@@ -28,17 +14,17 @@ public class ClientProtocol{
         return byteArr;
     }
 
-    public static int byteArrayToInt(byte bytes[]) {
+    public int byteArrayToInt(byte bytes[]) {
         return ((((int)bytes[0] & 0xff) << 24) |
                 (((int)bytes[1] & 0xff) << 16) |
                 (((int)bytes[2] & 0xff) << 8) |
                 (((int)bytes[3] & 0xff)));
     }
 
-    public static boolean byteArrayToBoolean(byte bytes[]){
-        byte[] vIn = new byte[] { 1, 1, 0 };
-        boolean vOut = vIn[0]!=0; //convert first Byte
-        return vOut;
+    public boolean byteArrayToBoolean(byte bytes[]){
+//        return bytes[0] > 0 ? true : false;
+//        return bytes[0]!= (byte) 0;
+          return bytes[0]!=0;
     }
 
     public byte[] transferClient(int protocolName, String name, String msgName) {
@@ -80,13 +66,13 @@ public class ClientProtocol{
         }
         return nameBuffer;
     } // transfer
-    public void  receiveClient(byte[] byteArr, int protocolInt) {
-
+    public boolean  receiveClient(byte[] byteArr, int protocolInt) {
+        boolean resultToBoolean = true;
         if(protocolInt == 1) {
             byte result[] = new byte[1];
             for (int i = 0; i < 1; i = i + 1)
                 result[i] = byteArr[i];
-            boolean resultToBoolean = byteArrayToBoolean(result);
+            resultToBoolean = byteArrayToBoolean(result);
 
             if(resultToBoolean) {
                 System.out.println("이름이 등록되었습니다.");
@@ -118,7 +104,7 @@ public class ClientProtocol{
             byte result[] = new byte[1];
             for (int i = 0; i < 1; i = i + 1)
                 result[i] = byteArr[i];
-            boolean resultToBoolean = byteArrayToBoolean(result);
+            resultToBoolean = byteArrayToBoolean(result);
 
             if(resultToBoolean) {
                 System.out.println("방에서 나왔습니다..");
@@ -132,15 +118,16 @@ public class ClientProtocol{
             byte result[] = new byte[1];
             for (int i = 0; i < 1; i = i + 1)
                 result[i] = byteArr[i];
-            boolean resultToBoolean = byteArrayToBoolean(result);
+            resultToBoolean = byteArrayToBoolean(result);
 
             if(resultToBoolean) {
-                System.out.println("메세지를 보냇습니다.");
+                System.out.println("채팅방에 접속했습니다..");
             }
             else{
-                System.out.println("메세지를 보내기를 실패했습니다.");
+                System.out.println("채팅방에 접속을 실패했습니다.");
             }
             System.out.println("참 거짓  " + resultToBoolean);
         }
+        return resultToBoolean;
     } // receive
 } // clientProtocol
