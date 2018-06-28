@@ -25,6 +25,12 @@
 * as your earliest convenience
 * right away
 
+# 내용
+* I Sent Him An Email / Text / Message with a Picture
+* I Got / from / With
+* He Sent me / With An attachment / A document / Attached Document
+* Saying (that) / Telling Someone (that) / Ask / Ask if / Letting Someone V / Reminding ( Not to Forget )
+
 # 끝맺음
 * your sincerely, respectfully, respectfully yours(매우 격식)
 * 격식: Thank you, Sincerely yours, Sincerely

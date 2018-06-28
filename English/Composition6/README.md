@@ -7,8 +7,6 @@
 * #전경; #bird's eye view
 * 믿을 만한 소식통으로부터, 본인의 입으로부터 #straight from the horse's mouth; This comes straight from the horse's mouth, so it has to be believed.
 * 네가 9시까지 거기에 가기는 힘들 것 같다. You'll #have your work cut out to get there by nine o'clock. 
-* [속담] 한 번 혼나면 두 번째는 겁낸다, 자라 보고 놀란 가슴 소댕 보고 놀란다. Once bitten twice shy. 
-* 잠자고 있는 개는 건드리지 말라(문제를 야기할 만한 주제나 과거 일은 들먹이지 말라는 뜻)let sleeping dogs lie (←let sleeping dogs lie) 미국식  영국식   단어장추가
 * 그녀는 언론을 다루는 데 #노련한 사람이다. She's an old hand at dealing with the press. 
 * #cloud cuckoo land 미국식  영국식   단어장추가[명사] (비격식 못마땅함) 몽상의 세계
 * #태평스러운 태도 a happy-go-lucky attitude 
@@ -32,14 +30,10 @@
 * (다른 사람이 말을 너무 많이 하여) 말을 꺼낼 기회를 (못) 잡다; When Mary starts talking, no one else can #get a word in edgeways. 
 * [명사](곤충의) #유충; grub 미국·영국 [grʌb]  영국식   단어장추가  중요
 * 마음껏 즐겨라; #fill your boots 미국식  영국식 
-* 좋은[쓸모 있는, 유용한, 가치 있는] 충고.; good[practical, right, sage, sensible, sound, useful, valuable] advice 미국식  영국식   단어장추가
 * 제 생각은 좀 다릅니다(누가 방금 한 말에 대해 정중히 반대의 뜻을 밝힐 때); I beg to differ 미국식  영국식   단어장추가
-* 크리스마스 무렵 음식과 술[마실 것]; [|ju:ltaɪd]; Yuletide food and drink 
-* [명사] 민스파이(mincemeat을 넣어 작게 만든 동그란 파이. 특히 영국에서 전통적으로 크리스마스 때 먹는 음식); #mince pie 미국식  영국식   단어장추가
 * 그녀는 그들이 한 말을 정확히 글자 그대로 나에게 전했다.; She repeated their conversation word for word to me. 
 * #시외, #변두리; #on[at] the outskirts 미국식  영국식   단어장추가
 시외에
-* 고급 식당; an #upmarket restaurant 
 * 이용자 참여  그 실행팀은 #고민해야할 많은 문제를 확실히 가자고 있다; The action group certainly has plenty of issues to #chew over. 
 * 그녀는 ‘사랑하는 자넷으로부터’라고 편지를 #끝맺었다.; She signed off with ‘Yours, Janet'. 
 * 나 간다; i am leaving now
@@ -57,7 +51,6 @@
 * #정교한 공예술; [ɪk|skwɪzɪt;|ekskwɪzɪt]; exquisite craftsmanship 
 * 선장은 예측대로 육지를 발견했다.; The captain made a good landfall. 
 * 내전으로 #피폐해진 나라; |rӕvɪdƷ]; a country ravaged by civil war 
-* 그는 내 시선을 외면했다He avoided my eyes; look away (from), turn away (from), look the other way, turn one's back (on); (피하다) avoid
 * 나는 몹시 흥분해서 텔레비전에 대고 고함을 지르기 시작했다.; I #got carried away and started shouting at the television. 
 * 그 회사가 주요 경쟁사들로부터 그 계약을 가로챘다.; The company #poached the contract from their main rivals. 
 * I am giving you #heads up; 미리 말씀을 드리겠습니다.
@@ -68,7 +61,6 @@
 * #눈물이 흘러내리다; when tears welled up in his eyes 
 * To upholster again; to replace the attached fabric covering on furniture.
 * #잠수 타다; #go off the grid 
-* 정해진 것, 새겨져 있다; be written in stone = be set in stone
 * 한국 그룹이 이 차트에 오른 것은 처음이었다.; It was the first time that a Korean group had debuted #on the chart. 듣기 출처:능률교육
 * 잠시만요; could you hold on a second please;
 * 바쁘다; 다시 연락 주다; i'm extremely involved now. let me call you back in a few minutes
@@ -93,9 +85,111 @@
 * 화나게 하다; #tick sb off;
 * 나 대학교 3학년이야; i am in my 3rd year of Uni
 * 차례; it's my turn to v; we take turns -ing
-* #분만하다; someone deliver someone; 연설; deliver a keynote speech
 * 종이를 찢으며; #tearing off the paper with anger
 * 티켓; get a ticket for making u-turn
+* #실력을 늘리다; #reinforce my ability #stregthen your 00
+* #유행; #all the rage
+* #유행을 의식하는; be #fashion conscious
+* 너무 멀리가지마; now #ease up
+* 정신 차려, 힘내라; #Get ahold of yourself! 미국식  영국식   단어장추가
+* 글로리아를 우리 엄마처럼 대하다; you're turning Gloria into mom
+* 편들어주다; you got all defensive of her
+* #고자질; #tattle on; you tattled on me to her 
+* #전제 조건; #prerequisite 미국·영국 [|pri:|rekwəzɪt] 
+* #길고양이; lets go feed that #alley cat = #stray cat
+* 수고 스럽지 않다; it was no trouble at all;
+* 안전벨트; wear your seatbelt
+* #초보인것 같애요; i would #consider myself a beginner in Spanish
+* 손이 잘 만져지지 않는; a little bit less #tangible
+* #소속감; feel a #sense of belonging
+* #speak out (against something) 미국식  영국식   단어장추가
+(~에 반대하는 뜻을) 공개적으로 말하다[밝히다]
+* 그냥 울리게 놔둬; let it ring
+* 어떤 출구가 시청으로 연결되나요? which exit connects to the city hall?
+* 확실하진 않아; i can't say for sure
+* 너네집 가도돼? is it okay to come over your place?
+* 술고래다; he drinks like a fish
+* 같이 가자; i'll keep you company
+* 오래 걸리다; he took ages to finish the job
+* 양심에 찔려 살 수가 없다; i could never live with myself
+* 존은 길 건너편 불과 얼마 떨어지지 않은 곳에 메리가 있는 것을 보았다. John saw Mary across the street, just a #stone's throw away. 
+* 남한텐 사소하지만 나에겐 짜증나는것; my #pet peeve
+* 이제 정부가 교육 계획에 대해 실토를 하고 나서야 할 때가 아닌가요?; Isn't it time the government came clean about their plans for education? 
+* #어리광 피워서 미안해; sorry for being a big baby
+* 이를 악물다; #bite the bullet
+* 욕심부리다; bite off more that you can chew
+* #보험 들다; get / #buy insurance
+* 의료 관련 조언과 함께 구급대의 도움을 받을 수가 있었다.; The emergency services were on hand with medical advice. 
+* 자연스럽게 멀어지다; we just #drift apart
+* #솔로; #stay single
+* #새학용품; buy new #school supplies
+* 옷 잘입고 와; #dress to impress
+* 짧고 굵게 살자; live fast die young
+* 움직여라 일해라; move your ass;
+* #절뚝; he walks with a limp
+* 안됐다; its a pity/shame/unfortunate that
+* 감금하다; hold in captivityl 감금되어 살다; live in captivity 미국식  영국식   단어장추가
+* to be very surprised or impressed by somebody/something; marvel at something 미국식  영국식   단어장추가
+* #조간신문; the morning papers 미국식  영국식   단어장추가
+* #초상화를 그리다; do portraits
+* when there is a yellow light on a traffic light, and you know its going to turn read and you are approaching it, you speed up so you are not stuck at the red light. -> #gun it Urban Dictionary 미국식  영국식 
+* 나는 일 때문에 함께 여행을 하는 동안 존과 친구가 되었다.;  …에 다가가다; …와 친해지다' I was cozy up to John while we were on a business trip together. 
+* (사회) #Flexible Benefit Plan; 선택적 복지제도 
+* 단체 보험; #group insurance
+* #멀티탭: #cord, extension cord
+* 파쇄기; Paper shredder
+* 설명해줘서 고마워; Thanks for the clarifiation; Thanks for your specific information
+* 송별회; #farewell party
+* 동의하다; we are on the same page
+* #소액 현금: #petty cash
+* #연락; DO you want me to #ping her?
+* 개인 비용은 얼마에요? What's the rate per person
+* #우물 안 개구리; A big fish in a small pond
+* 세상 사가 다 그런거야; That's the way the cookie crumbles 
+* 엎어지면 코야; my house is a stone's throw from here
+* 잘 팔리다; they are going to fly off the shelves
+* 긴장돼다; get ants in my pants
+* #집들이; #housewarming party
+* 좌절의 몸짓; #facepalm
+* 힘든 시기; #go through a rough patch
+* 책짐지고 있는; #at the helm = #In control
+* 화를 내다; #bend out of shape
+* 싹을 자르다; going to #nip in the bud
+* 새발의 피다; a drop in the ocean
+* 불화를 야기하다; #rock the boat
+* ~에 침착하게 대처하다[~을 수월하게 받아들이다]; take something in your stride 미국식  영국식   단어장추가
+* 정말 보기 좋은 것[보기만 해도 즐거운 것]; a sight for sore eyes 미국식  영국식   단어장추가
+* 이용자 참여  나는 숨을 쉴 수 가 없어. 나 너무 긴장 했어.; "My stomach is in knots. 듣기
+* 죽다; kick the bucket 미국식  영국식   단어장추가
+* 남에게 악영향을 미치는 사람[것], 암적인 존재; Don't make friends with a bad apple. 
+* 철창 속에 갇힌[철창신세인]; 그 살인자는 이제 철창신세이다.; The murderer is now safely behind bars. 
+* #기꺼이; 이용자 참여  오분만에 당장 그리로 가겠습니다;  I'll be over in five minutes with bells on. 듣기
+* [명사] (美속어) 풋내기의 (무모한) 강도짓.; #cowboy job 미국식  영국식   단어장추가
+* [the ~] 마지막 기회, 최후의 순간, 막판, 마감이 임박한 시간; eleventh hour 미국식  영국식   단어장추가
+* 다른 속셈이 있다; have an axe to grind 미국식  영국식   단어장추가
+* (idiomatic) To have a narrow escape; to avoid injury, disaster, or some other undesirable situation.; dodge a bullet Wiktionary 미국식  영국식 
+* 미친; 멍청한; off your trolley 미국식  영국식   단어장추가
+* 1.To fall or violently collide with any object 2.to make a rash decision , usually on a whim.; bin it Urban Dictionary 미국식  영국식 
+* 즉흥적으로, 충동적으로; #on a whim 미국식  영국식   단어장추가
+* (영·구어) 바보 짓, 쓸데없는 헛일; #mug's game 미국식  영국식   단어장추가
+* (너무나 많아서) 돈이 남아돌다[썩어 나다]; have money to burn 미국식  영국식   단어장추가
+* 돈이 말을 한다[힘을 쓴다/권력이다]; money talks 미국식  영국식   단어장추가
+* (이야기 등이) 갑자기 옆길로 새다; fly/go off at a tangent  [|tӕndƷənt]
+* 만반의 준비를 갖추다; 체계가 잘 잡혀 있다; get/have (all) your ducks in a row 미국식  
+* (책임지고 있는 일을) 실수로 망치다; drop the ball 미국식  영국식   단어장추가; 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

@@ -31,13 +31,10 @@
 * ~로 배우고 성장하다; #grow from something; we grew from those experiences
 * 너 많이 컸다!; you've come a long way
 * 난 그냥 의견을 말하는거라구!!                	 That's just my two cents. I'm just putting in my cents?
-* ~하기만 하면 된다; all you gotta do is
 * 제대로 된 n이ᄃᆞ; #a hell of n; this is a hell of dedication
 * ~는 #존중합니다만; #with all due respect, ~ is better; #due #respect
 * 해결 되지 않는 문제, #오리무중                                                                   	 It's #up in the air.
 * 인생의 상당 부분을 써서 V하다 V; one's #life away; he's just busy acting his life away
-* 이런말 하기 싫지만; I hate to tell
-* 매일                                                       	 every single day, #day in and day out #on a daily basis
 * #직후에; #In the wake of; trump's election,
 * 홧김에; #in the heat of the #moment; 발끈해서, 흥분해서; I was in the heat of the moment
 * 홧김에 베프랑 절교했어                                    	 I cut off with my best friend in a fit of anger
@@ -47,7 +44,6 @@
 * #triute to someone
 * 눈치 보다 #read between the line(#line)
 * #walk on eggshell
-* 눈치 그만 봐, 그게 더 짜증나             	 stop walking on eggshells around me! It’s more annoying
 * 낮은 가능성, #무리수                                                                   	 #long shot = #fat/#slim chance
 * 우승할 가능성                                                                                          	 #The championship window
 * #희박한 가능성 ; 퍽도 그렇겠다!”                                                             	 #Fat chance of that!'

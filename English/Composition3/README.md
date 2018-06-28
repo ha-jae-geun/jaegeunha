@@ -18,8 +18,6 @@
 * #발가락을 부딪치다; when I #stubbed my toe
 * #사진 기억; [aidétik]  #eidetic memory
 * the #rhetoric of political slogans  정치 슬로건의 미사여구
-* ‘#정신차려                              snap out of it, #get a grip on yourself, Get with the program
-         	#get a grip                             	 똑바로 생각해(think clearly), 진정해(calm dow)
 * 눈을 가늘게 뜨고 #찡그리고 보다           	 squint 미국·영국 [skwɪnt] ; #squint one's eyes
 * 꿈깨 you wish
 * #컵받침을 써; use a #coaster
@@ -31,13 +29,10 @@
 * 나 중독됐어; I got the bug
 * 그는 #목청을 가다듬었다; he #clear his throat
 * 그 #타령좀 그만해; DON’T #HARP ON THE SAME STRING
-* 그 정도면 대략 충분해; #close enough
 * 얼마나 됐어? How far along are you?
 * 왕짜증; #bummer
 * 곧바로 실행하겠습니다; #consider it done
 * #안심해; #rest assured
-* #pass the bar; 1. To survive 2. To " make the cut" 3. To pass the bar exam for becoming a lawyer 4. You get the idea
-* #피해를 주다; The tornado #take a toll on the villag
 * 땅에 납작 #엎드리다; #ht the deck
 * 혼나다; you seem #ticked off #scolded
 * #한계를 초월하다; push the envelope
@@ -45,7 +40,6 @@
 * 이런 바지좀 봐                                                                  	#Oh snap, check your pants
 * 토해내; #cough it up
 * #제대로 살다 #get on with my life; I could get on with my life
-* #멀미 약 먹어; take some #dramamine(상표)
 * 잠시 쉬었다 가자; #take five
 * #급성 맹장염; you have #acute appendicitis
 * 정곡을 찔렀군; #touche; 투세; 팬싱
@@ -61,19 +55,14 @@
 * 예전부터 알고 있다. Knew way back then
 * ~를 알아보는 눈이 있다;  have an eye for talent
 * #모독스럽게도              	                                   	 [blǽsfǝmi] by some #blasphemy
-* #철분이 많이 들어간 음식; And in London we might have meals that are high in iron
 * 지금도 좋은데; it’s great now
 * 몰라서 그래; you don’t understand
 * #1등; #top something = it takes the priz
 * Be kind of on the heavy side = got kind of big  = #chubby
 * #재기하다 get back on one's feet; I'm trying to get back on my feet
-* #top row(#키보드) #middle row #back row | Top shelf, second shelf bottom shelf
-* One to the left, another to the left, two more maybe, the on the far left
 * 가다: go -> I’m coming
 * 행운; keep one’s finger crossed / out of luck
-* 외모가 어때? #how do you look like?
 * I’m going to pass out #at this rate. #이러다가
-* 확실히; #once and for all
 * #내 말은; Look, #all I’m saying is
 * 다시 자                                                                           Go back to sleep (sleep again xx)
 * 대충 이해했어; I got the #gist of it
@@ -86,7 +75,6 @@
 * #암살자;  Prosecutors said Atkins was the #riggerman. 
 * #정찰; [rɪ|kɑ:nɪsns]   econnaissance aircraft / mission / satellite = #recon#
 * #집단 오디션; #cattle call
-* #에워싸다; The police fanned out to surround the house.  찰이 흩어져 그 집을 에워쌌다.
 * #목장 주인; #rancher’s daughter
 * 정확하게 9시 45분에 데리러와 pick me up at 9:45 #sharp
 * #배가 나왔다; she’s #paunchy
@@ -184,7 +172,6 @@
 * #내 기억으로는; if I rember correctly = as I recall = if memory serves
 * 이번 주는 닫는다고 하지 않았어? Didn’t they say they were closing this week
 * 자? Are you asleep?
-* 가벼운 접촉사고; it’s a #fender bender
 * #오토바이 군단들; a group of motorcyclists
 * #엔진을 시끄럽게 부릉거리다; motorcyclist was reviving his engine
 * 한글자 한글자씩 얘기해주길 바래; want to #spell it out for you
@@ -209,7 +196,6 @@
 * 책을 쌓아두다; two tall stacks of books on his left
 * #칠판; #chalkboard; #blackboard with the daily specials written on it #easel 미국·영국 [|i:zl]
 * 카메라를 등지다; she is facing away from the camera
-* #청진기; stethoscope; put / apply / examine with / has a
 * #젖병; #sippy cup
 * 나머지; seven divided by 3 equals 2 with a remainder of 1
 * 그들의 발은 부두에 걸려있었다; their feet are #hanging off the edge of the dock
@@ -227,7 +213,6 @@
 * 아직은 끝난게 아니야; it ain’t over till the fat lady sings
 * eowjqqqkerlf 원하는 대로 대접하라; do unto others as you would have them do unto you
 * 계획없이 일하다 do something at the drop of a hat
-* 지극히 쉬운 일이다; it’s not rocket science
 * #OTW# on the way
 * #왕따; #black sheep
 * #의견; my #two cents
@@ -235,7 +220,6 @@
 * #몇대 몇이야; what’s the score
 * 남은 음식 싸갈 박스를 주세요; can I please have a box for the #leftovers
 * 지도에 어디쯤에 있나요; where am I on this map
-* 사돈 남말하네; look who’s talking
 * 눈이 너무 높아; your standards are too high
 * #유비무환이잖아; #better safe than sorry
 * 나랑 잘 안맞아; we butt heads a lot
@@ -252,13 +236,11 @@
 * #진정 좀 해야겠어; I need time to #collect myself
 * 주관적인 판단에 의한 의사결정; that would be a #judgement call
 * #임신했어; I’m a #duplex
-* ^^#accept; 적극적으로 호의를 가지고 <. #receive; 수동적으로 받아들여짐(카톡, 메일)
 * 어떻게 되가고 있는거야? What’s going on with you?
 * 어떻게 지내고 있어? How’re you holding up
 * 말이 그렇다고; that’s an expression
 * 나한테 나쁜 영향을 주잖아; his bad mood is rubbing off on me
 * 다리에 쥐났어; my leg fell asleep
-* ^^#winddown; 스트레스 마음을 쉬게 해줄 때 사용 <> rest: 몸을 쉬게 해주는 것
 * 그들은 정말 천양지차로 다르다. They really are #apples and oranges. 
 * 관심을 가로채다; steal your thunder
 * 마음을 추스리다; I have to collect myself
@@ -267,7 +249,6 @@
 * ~에 푹 빠져 집중하다; get lost in
 * 닫힘 버튼을 두번 눌렀다; I double tapped the close button
 * 내 마음 가는대로 하다; follow my heart
-* #남성 향수; #spray wear #cologne cologne 미국식 [kə|loʊn] 
 * #백인; Caucasian [kɔ:|keɪziən;kɔ:|keɪƷn]
 * #낳아줘서 감사해요; thank you for bring me into the world  giving me life
 * #애슐리 가자; let’s eat #Ashley’s
@@ -276,7 +257,6 @@
 * 그 대기업들이 이 소규모 국가들 몇 개 국의 돈을 다 쥐어짜 가고 있다. #bleed dry
 * #bleed dry The big corporations are bleeding some of these small countries dry. 
 * #의료기록; I;m calling to inquire about my #medical records
-* ^^#require; 무엇이 꼭 필요하다는 느낌 #request; 필요한 무엇을 묻는 것 만이 아닌 실제로 받아야 하는 * 느낌, #inquire; 무엇에 대해 더 알아보려고 더 자세히 묻는 느낌 = #ask for something
 * 계약은 타결되었다; the deal was struck
 * 그는 사업 #특혜를 주는 대가로 한 건설업체로부터 천만 원을 받았다He received ten million won in bribes from a construction company in exchange for business favors. 
 * 독실한 기독교도/이슬람교도  a #devout Christian / Muslim 
@@ -285,25 +265,19 @@
 * #가운을 주다; throw me my robe
 * 멍때리다, 지루함을 뜻하다; #brain fade
 * #humble brag; 겸손 + 자랑
-* #실수하다; #slip up = #geek out = #whip up
 * 영화에만 존재할 것 같은 사람; #larger than life
 * 너무 배불러요; I’ve had plenty
-* ^^#think about; 고려하다  #think of
 * 현실과 동떨어져 살다; live in a ivory tower
 * 다음 경기를 위해서 진용을 재정비했다; reorganized his lineup
 * #악감정은 없다; #bear you no ill will
 * #운전면허 시험; #driver’s license test course
 * #의심의 #여지 없어; there is no doubt
-* #예매율; the number in ticket sales
 * #오해를 풀고 싶다; I want to #clear up the misundersatnding
 * #전면주차해주세요; park yhour car #front-in please
 * 눈이 따끔거려요; my eyes are stinging
 * 차가 밀리는 시간대를 피해가; it’s outside of rush hour
 * 5번 도로 탈게; I’ll take ~
-* #견적 주세요; can you just give me a ballpark figure /#estimate
 * 앞에 #본네트에서 이상한 소리가 났어; I hear some weird sounds coming from under the hood
-* 20불 충젛내주세요; can you put 20 bucks on this?
-* 잔고 확인해주세요; can you check this balance = can you tell me how much is on this card
 * #계산해 주세요; #ring this up together please
 * #발렛파킹 하나요? Do you #valet
 * #지급 유예 기간; a #grace period
@@ -314,8 +288,6 @@
 * #발작 증세가 있어요; he is having a #seizure
 * 눈이 뒤로 돌아갔어요; her eyes #roll back in the head
 * 제 발 사이즈 좀 재어 주실래요? Can you #measure my foot?
-* 영화 상영 안해요? Aren’t you showing pets?
-* 영화 예약 Can I get two adults and two kids for 7:30 showing of Trolls?
 * #boa# bofa라고 읽음
 * 계속 인종차별하면, 엘프에 후기 나쁘게 남길겁니다; if yhou discriminate, I’m gonna post * a bad review on
 * 소비자 보호원에 불만 신고하겠어요; I’mgonna file a complaint with the Better Business Bureau
@@ -324,11 +296,9 @@
 * #봉사료; #gratutiy
 * #crab I have #crabs; 성병
 * #머리카락; two #strands of hair
-* Yes, no에 대한 대답 -> right/correct
 * #stirrer
 * 중간 굵기로 주세요; can you gimme a medium grind
 * 굵게 갈아주세요; can you grind it finely
-* #1#인분; how many people does a jug serve / is is enough to ~
 * #주전자; coffe #jug
 * #손잡이 달린 #캐리어; a carrier with a handle
 * 새로 나오는 거 기다릴게요; I’ll wait for a new #batch
@@ -336,7 +306,6 @@
 * #발레파킹; can you park it again?
 * #눈꺼풀이 자꾸 떨려요; my #eyelid is #twiching
 * 속이 안좋아; it bothers my stomach, it upsets my stomache
-* 유제품을 자제하려 해; I’m cutting down on dairy |deri]
 * 머리가 멍해; my brain is #mush
 * 피곤해; I feel #groggy
 * #핏발이 선 눈; #bloodshot eyes
@@ -345,15 +314,9 @@
 * #croissant; 크러싼ㅌ
 * 옆으로 댕겨 앉을래; can you #scoot over
 * Can you mop it on  sweep over
-* 무료 주차하다; #validate for an hour
 * #계산하다; #ring up
-* 직접 가져다 먹을 수 있어; you can serve yourself
-* 노른자 살짝만 익혀주세요; I want it over easy
-* #노른자 터뜨리지 말아ㅜㅈ세요; I want it sunny side up
 * 내야 할 돈이 하루 지났어요; my payment was one day #overdue
 * #부스러기 주워; pick up the #crumbs
-* #살코기 주세요; can you give me a #lean cut
-* #지방은 싹 떼어주세요; can you trim the fat off
 * 돈 안빠져 나가게 해주실래요? Can you put the payment on hold?
 * 어떻게 보상해주실거에요? How will you reimburse?
 * 체온이 오르ㄹ락 내리가해요; her temperature has been going up and down
@@ -364,21 +327,14 @@
 * 내가 제일 좋아하는거야; that’s my #go# to flavor
 * #도청; prevent (wire)#tapping of cellphones 
 * #다리가 도로를 가로지른다; a bridge crosses over a road
-* #19금 캐릭터; #r-rated character
 * 인생이 #파란만장하다 I’ve lived mental years
 * 비시누의 여러 생애 가운데 하나  one of the #incarnations of Vishnu 
 * 8세 이상의 어린이들; children over 8 years or older
-* #ones#앞에서 언급한 그 종류 전부  #all#; 앞에서 얘기한 그것들 전부
-* #according to; + 사람, 연구, 서류/정책
-* Be hoveful that = hope that
-* 증가, 감소와 같이 쓰이는 부사; dramatically, significantly, sharply, substantially, considerably
-* #2형식 동사; be come, remain, prove
 * #compile with,  #proceed to/with, #respond to
 * 집안의 #부양자; my mother was the #breadwinner in our household
 * 손잡이 왼쪽으로 돌려; turn the #Knob to the left
 * 구워지다; cheese can’t be #browned on top
 * #이단자; all #heretics do say  [|herətɪk
-* ~할까 하는데; I’m thinking of going out for some lunch
 * #효녀; #devoted daughter
 * 내 기준에; in my standard
 * 어느 정도의 수익을 예상하세요?  What level of profit do you #envisage? 
@@ -388,50 +344,31 @@ The middle decades of the 19th century marked a #watershed in Russia's history.
 * #도리가 없다; there is no way that
 * #딱지 뗴다; got a ticket
 * #단추가 없어; one of the buttons is missing
-* 내 발 밟았어; you #stepped on my foot
 * #통과의례; a #rite of passage
 * #일등석; to fly first class
 * 문제와 상관없는 내용 쓰기; no –off topic
 * #샘플 외우기; memorize #template
 * 잠시 후에; #shortly after
-* #opinion, view, stance, information, report, news, influence, emphasize, research, discussion on
 * 시간에 쫒기고 있어요; I’m kind of pressed for time
 * 둘째 가라면 서러워요; it’s second to none
 * 게시글; #bulletin board message
 * #공정함; #fairness in, in fairness to
 * 살 뺐어요; I have lost weight
-* 20일에 떠나요; one the 20th of jly = july 20th
-* 7시에 #예약했어요; I made a reservation for seven o’clock
 * 입이 짧아요; ~ is a #small eater
 * #s라인이야; she’s got a #curvy body
-* 눈이 높아; she is too picky/choosy/fussy
-* 썰렁해; are so #lame / #corny / #boring / terrible
-* #in my opinion , ~would be
-* 가깝다; #close to
-* 어떻게 생각해? What do you think about = how do you feel about = what are your thoughts on
-* 헤어질 때; it was nice meeting
-* 공을 #던지다; throw the ball at; 맞추려고 ; to 수신자
-* Here it is; 여깄다; here you go: 건네줄 때
-* 차 가지고 왔어요; I drove to 목적지
-* 화장실; where is the bathroom = #powder room
 * #ask for nothing
 * 결혼; be married to, marry someone, get married, got married to  get #hitched
 * 그녀의 눈을 솜으로 덮었다; he put hit hands over eyes
 * 하루만에 유명해졌다; get famous overnight
 * 한숨 자다; get some shut-eye
 * #주말에; #Over the weekend
-* 나쁜 #습관을 버리다; #quit / #kick a bad habit
-* 욕하다; don’t #cuss /#curse at me
 * 약속을 #펑크내다; #flake out / on somebody
 * 내 편을 들다; stand up for me
 * 관심이 없어지다; I’m over something
 * 깡마르다; #scrawny; 부정적인 단어
 * 자연 모발 색깔; #natural hair color
 * 걸려 넘어지다; #trip and fall
-* #껴안다; #cuddle = #spoon
 * 연락할게; hit sb up
-* 배터리 다나갔따; my batter died / is dead
-* #영하; minus / negative / 10degrees below
 * 어느 도시에 살아; what #pard of town
 * 똑같애; same old same old
 * 빨리해; I need to get a move on
@@ -449,6 +386,5 @@ The middle decades of the 19th century marked a #watershed in Russia's history.
 * #여진; there wre many #aftershocks
 * #페이스북해요? Are you #on Facebook?
 * #인내하다; #have patience with
-* 예상을 깨고 흥행한 영화; #sleeper hit
 * 손에 땀을 쥐는 상황; #cliff hanger
 * 여러 개의 그룹으로 나눠지다; #break up into two groups

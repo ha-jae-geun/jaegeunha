@@ -115,12 +115,12 @@ public class TcpIpMultiChattingServer {
             in.readFully(byteArray, 0, nameSize + msgSize);
             roomName = serverProtocol.receiveServer(byteArray, nameSize, msgSize, 4);
             out.write(4);
-            resultBoolean = roomManager.sendMessage(socket, "test");
+            resultBoolean = roomManager.sendMessage(roomName, socket, "test");
             byteArray2 = serverProtocol.transferServer(resultBoolean, 0, 4);
             out.write(byteArray2);
-            while(in!=null) {
+            while (in != null) {
                 String chat = in.readUTF();
-                if(chat.equals("out")){
+                if (chat.equals("out")) {
                     out.writeUTF(chat);
                     sendToAll(roomHash, roomName, socket, "#" + name + "님이 퇴장했습니다.");
                     resultBoolean = roomManager.exitRoom(socket);
@@ -129,7 +129,7 @@ public class TcpIpMultiChattingServer {
                     break;
                 }
                 sendToAll(roomHash, roomName, socket, "[" + roomManager.getName(socket) + "]" + chat);
-            }
+            }//while문
         }//if문
             if(protocol.equals("5")){
                 out.writeInt(5);
@@ -143,7 +143,6 @@ public class TcpIpMultiChattingServer {
             String roomName = null;
 
             try {
-                name = getReceiverProtocol("", "", socket, roomManager);
                 while (in!=null) {
                     roomName = getReceiverProtocol(name, roomName, socket, roomManager);
                 } // while문
@@ -152,7 +151,7 @@ public class TcpIpMultiChattingServer {
             }
             finally {
                 roomHash.remove(socket);
-                sendToAll(roomHash, roomName, socket, "#" + name + "님이 퇴장했습니다.");
+                sendToAll(roomHash, roomName, socket, "#" + roomManager.getName(socket) + "님이 퇴장했습니다.");
                 System.out.println(name + "유저 [" + socket.getInetAddress() + ":" + socket.getPort() + "]" + "에서 접속을 종료하였습니다.");
                 System.out.println("현재 서버접속자 수는 " + (roomHash.size() -1) + "입니다.");
             } // finally

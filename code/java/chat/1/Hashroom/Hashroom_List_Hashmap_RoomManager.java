@@ -11,7 +11,6 @@ public class RoomManager{
 
     static
     {
-        roomHash = new HashMap<Socket, String>();
         roomHash.put(null, "접속 할 수 있는 방 목록");
     }
 
@@ -79,29 +78,20 @@ public class RoomManager{
     }  //createroom
 
     boolean exitRoom(Socket socket){
-        boolean isValid = false;
-        roomHash.remove(socket);
+        if(roomHash.remove(socket) != null) {
+            return true;
+        }
+        return false;
+    }
 
-        if(roomHash.containsKey(socket)){
-            isValid = false;
+    boolean sendMessage(String roomName, Socket socket, String msg) {
+        if(!roomName.equals(roomHash.get(socket))) {
+            return false;
         }
-        else{
-            isValid = true;
-        }
-        return isValid;
-    } //exitroom
 
-    boolean sendMessage(Socket socket, String msg){
-        boolean isValid = false;
-        try {
-            isValid = true;
-            sendToAll(roomHash, socket, msg);
-        }
-        catch(NullPointerException e){
-            isValid = false;
-        }
-        return isValid;
-    } // sendMessage
+        sendToAll(roomHash, socket, msg);
+        return true;
+    }
 
     void roomList(DataOutputStream out){
         try {

@@ -12,15 +12,12 @@
 * [형용사] (英 비격식) 평범한, 흔한; #bog-standard 미국식  영국식   단어장추가
 * 그 과정의 첫 해는 그야말로 식은 죽 먹기였다.; The first year of the course was an absolute #doddle.; [|dɑ:dl] 
 * (무엇의 결과로 돈을) 딴[얻은]/잃은; That one mistake left him thousands of pounds out of pocket. 
-* 어서 금요일이 되면 좋겠어!; Roll on Friday! 듣기 출처:옥스퍼드
 * 더 나은 미래나 발전을 위해 무언가를 시도해보다; #plant a seed 미국식  영국식 
 * (과거의 행운에 기대) 자기 운을 너무 믿다[자만하다]  동의어 push it/things; You didn't get caught last time, but don't push your luck! 
-* #tough cookie 미국식  영국식   단어장추가 (미·속어) 자신만만하고 늠름한 사람
 * mind your P's and Q's 미국식  영국식   단어장추가; be careful how you behave; remember to be polite; Sally's got very strict ideas about how her children should behave, so mind your P's and Q's. 
 * #red flag 미국식  영국식   단어장추가 [명사] (위험 신호를 나타내는) 붉은 기[적기]
 * 컨디션이 매우 좋아, 건강하여(=very healthy).; as fit as a fiddle 미국식  영국식   단어장추가
 * (나쁜 일을 겪고 있는 사람과) 같은 신세가 되다; So you didn't get a job either? Join the club! ; 그러니까 당신도 취직을 못 했다는 거죠? 같은 신세군요!
-* 기분이 언짢아지다; Fans #get the hump when the team loses.  팬들은 (자기가) 응원하는 팀이 지면 기분이 언짢아진다.
 * #cloak-and-dagger 미국식  영국식   단어장추가 [형용사] (명사 앞에만 씀) 비밀과 의문에 가득찬, 첩보 영화 같은; a cloak-and-dagger operation 미국식  영국식   단어장추가
 스파이 작전
 * (윗사람 등이) 시키는 대로 하다; 당의 방침을 따르다[당에서 시키는 대로 하다]; to toe the party line 
@@ -30,7 +27,6 @@
 * [명사] 복싱 데이(영국 등에서 크리스마스 뒤에 오는 첫 평일을 공휴일로 지정한 것); Boxing Day 미국식  영국식   단어장추가
 * (필요 이상일 정도로) 많은 것들; everything but the kitchen sink 미국식  영국식   단어장추가
 * 그런 일은 있을 수 없어; Pigs may fly. or There isn't a snowball's chance in hell. 
-* 즉시, 당장; in a jiffy 미국식  영국식   단어장추가
 * 당신이 바로 곁에서 나를 감시하면 나는 일을 못한다구요.;  I can't work with you breathing down my neck all the time. 듣기 출처:YBM
 * 예민하고 흥분을 잘 하는 아이; a sensitive and highly-strung child 
 * 우리는 이것을 최종적으로 결정지어야 한다.; We need to settle this once and for all. 
@@ -73,12 +69,27 @@ used to tell somebody to stop smiling, etc. because it is annoying or not approp
 * 우리는 서로에게 맞지 않아; we're not right for each other
 * 제 약점은 자만심입니다; my weakness is my cockiness
 * a phrase meaning yellah, you couch potato, it's time to get a move on and do something productive; spring has sprung Urban Dictionary 미국식  영국식 
-* 스포일러 주의; #spoiler alert
-* #발기한 거시기; #erect penis
 * 스릴 즐기는 사람; #thrill seeker
 * 제대로 알아보지는 않았어요; i haven't looked into it
 * 총각파티; michael's bachelor party
 * #탈색; #bleach one's hair
+* #깨닫다; i started to open my eyes about being a parent
+* 물이 바닥에 스미면 떨어질 수 있어; when the water soaks into the floorboards, they can get detached
+* 페인트에 공기방울이 생기기 시작했어; the paint on the wall starts to have air bubbles
+* 힘을 아끼고 있어; i'm saving my strength
+* 섣불리 판단하지마; don't #pigeonhole us
+* 오늘 네가 글로리아랑 친하게 지내는 걸보고; i think maybe seeing you get all #buddy-buddy today
+* 휴식 시간 몇분이에요? how long is the #intermission
+* 무대 뒤로 가볼 수 있어요? Can i go into the backstage?
+* 제일 인기 있는 페스트푸드 간식입니다; This is the city's popular fast-food snack
+* 추모식당이야; we are at a wake
+* 채널 그만 돌려; stop flipping channels
+* 전 한잔도 못마셔요; i have no tolerance for alchol
+* 여기는 출입 금지 구역이에요; this area is off limits.
+* [미·속어] 노후선; [호주·속어] 녹슨 차; rust bucket 미국식  영국식   단어장추가
+* 한번 해봐; then gamble on yourself
+* 1부터 10까지; on a scale of 1 to 10
+
 
 
 

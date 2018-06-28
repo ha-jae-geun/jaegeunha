@@ -1,7 +1,13 @@
+* 즉시, 당장; in a jiffy 미국식  영국식   단어장추가
+
+
 # 시간
 * PST(Pacific Standard Time); 서머타임 후: PDT(Pacific Daylight Time)
 * MST, MDT, CST, CDT, EST, EDT
 * 12 midnight; 12 noon
+
+# 요일
+* 어서 금요일이 되면 좋겠어!; Roll on Friday! 듣기 출처:옥스퍼드
 
 # 기념일
 * 설날: New Years Day by the lunar;

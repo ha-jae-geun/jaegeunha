@@ -58,6 +58,8 @@
 * 프로그렘의 흐름
 * 코드, 데이터, 힙을 공유하고 자기만의 스택 영역이 있다.  
     ^it shares code, data and heap area. It has own stack area.
+* 스택을 공유하지 않기 때문에 여러개의 스레드가 붙으면 오류가 날 수 있다.
+* Context Switching이 (프로세스는 필요 없음) 이루어져야 하기 때문에 오류가 난다.
 * CPU의 코어가 많지 않으면 스레드를 만드는 개수에 한계가 있다.  
     ^If the number of cpu's core is not much, there is a limit to make threads
   - java thread

@@ -5,7 +5,6 @@
 * #어뢰; #torpedo (←torpedoed) 미국식 [tɔ:r|pi:doʊ] 
 * #십자인대;  cruciate ligaments of knee
 * Told someone / said + would
-* 원래부터 저랬어; they’ve always been like that
 * 얘기하지 않기로 약속했어; she promised that she wouldn’t talk about
 * ##could; !을 할 수도 있다
 * #possibility; 가능성; #ability; 능력; #permission; #허락
@@ -14,8 +13,6 @@
 * 진짜 대박; the real #mothershisp
 * #놀이기구 타다; #gon on roller coaster
 * #이틀에 한번; #once every two days
-* ~할 거야; it’s likely that
-* 그냥 ~더라고; it’s just that
 * #의외로; people asked #surprisingly
 * #자신감 풍기다; She #exuded confidence.
 * 근육 풀어주다; #flex muscles
@@ -29,11 +26,9 @@
 * 울다; cry your eyes oout
 * #명예 박사 학위; #honorary doctorate degree
 * 돈을 #펑펑 쓰다; #splurge on a new car
-* 도무지 ~할 수가 없다; I just can’t seem to concentrate
 * #긴장감을 다스리다; #handle the suspense
 * ~가는 비행기입니다, 선원; is bound for ~,  #cabin
 * 그들의 결혼식은 대단히 절제된 행사였다. Their wedding was a very low-key affair. 
-* 내 상황이면; if you were in my shoes/position, if you were me
 * #턱을 송네 괴다; rest one’s chin on one’s hand
 * 이번 #분기 끝내줬어; you killed this #quarter
 * #동종 인종; #homogenerous race
@@ -53,7 +48,6 @@
 * 너르 ㄹ위해 총알이라도 맞겠다; take a bullet for someone
 * #대실패; #epic fail
 * 돈이 최고다; #money talks
-* 한잔 더 #마셨어; I took another drink of my coke
 * #다크서클; you have #dark bags under your eyes
 * #열풍을 일으키다;  #spark craze
 * #거절; #hard pass
@@ -91,21 +85,9 @@
 * #천둥이 우르릉하는 소리; #rumble
 * 그가 화를 내며 탁자를 내리쳤다. He #thumped the table angrily. 
 * 그 어린 여자 애는 구슬피 흐느끼고 있었다.  The little girl was #wailing miserably. 
-* #갑자기 #나타났따; #all of a sudden, someone #pop up behind me
-* 뒤에서 앉다; #grabbed me from behind(잡다); #wrap his arms around me; 감싸다
-* #미끄러지다; #slide down/ #slide off
-* #인치;  #feet inches tall = was about 5.9 (e인치 안붙인다면 숫자만)
-* #아운스; how many ounces in one glass
-* #단맛이 없는, #단맛; #dry, #sweet
-* #도수가 낮다; which one has #less alchol
-* ^^#신맛이 덜 나는; #less fruity  less #citrusy   와인에는 sour xxx
 * #부담; #burden; 실제 내 책임이나 의무가 아닌데 내가 해야할 일
 * 버릴건 버리고 남길건 남겼다; I #sorted through
-* ^^#제안; #suggest; 제안 #offer; 실체가 있는걸 주다 #provide; 상대가 필요해서 주는 느낌
-* #생맥주; draft / ~ #on top
 * 맥주를 #얼음잔에 줘; they server beer in a #frosted glass
-* #차량 조회; run a #tag / #license plate
-* #신상 조회; #profiled = do a profile on sb
 * 화면이 멈췄어; it’s #frozen
 * #모자이크; it’s #pixelated
 * 끊긴다; I can hear static; it keeps cutting out
@@ -113,18 +95,11 @@
 비행기 자리가 오버부킹됐어; I got bumped
 * 1등석으로 자리 옮겨줄 수 있나요? Can you #bump me up to first class?
 * 6#바늘 꿰매야해; she had to get six #stiches
-* #트라우마; had bad experience with = I’m still traumatized = be #paranoid
-* 걸어갈 수 있어? Is it within #walking distance?
 * #끼워팔다; try to #upsell me more products
-* #dip around; #캐고 다니다; #snoop around; 훔쳐보며 두런두런; #sniff around; 킁킁
-*   #poke around; 뭘 찾아 내려고 묻고 다니다
 * 노력하지 않고 쉽게 돈 버는; #get on the #gravy trains(부패 정치인)
 * #예산; have a $ budget for something
-* #대각선으로 가세요; you can cross diagnoally = #catty corner from here
 * #음성 메시지; #voice text
 * 얼떨결에 젛놔가 눌리다; must have butt dialed me
-* 3파운드면 얼마나 먹을 수있어용; how many people can be served with 3 pounds of shrimp
-* 3파운드면 몇 명이 먹을 수 있어요? How many servings are in 3 pounds
 * 내 딸이라 할 수 엇ㅂ어; I don’t claim her as my daughter
 * 커피는 나랑 맞앋; coffee doesn’t agree with me
 * 몇 #모금만 마셔도; with a few #sips of beer
@@ -135,25 +110,18 @@
 * #후유증; the #fallout of all your good intensions
 * #정면돌파; I #go through it
 * #배신하다; #disavow, #cast him aside, #betrayed
-* #초과비용; how much extra do you charge for data #overages
-* 1Gb 넘겨쓰면; how much extra do you charge if I exceed 1 GB(총 1GB)  if I exceed by 1 GB(초과)
-1기가만큼 더쓰면; if I #go over by 1GB
 * 국제 통화 요금; what is the rate for #overseas calls
 * 서비스 #해지; stop the service
-* 괜찮은 #약정 있나요? Are there any good plans for 2 weeks
 * #허기를 채우는 스낵 아님; #nibble on something
 * #깨작 거리지마; stop picking at your food
-* ^^#take a bit; 한입 뺏어,  hava a bite; 간편이 먹는
 * #비열한 짓; too sneaky; #backstabber
 * #날로 먹으려 해; #freeloader
 * 모두 자기 얘기로 끝나; he makes everything about him
 * 늦게 연락해 미안해; I’m sorry for getting back to you late/ responding late
-* 5파운드면 랍스타 몇 개에요? How many lobsters are in a pound
 * 너무 #아기 다루듯 해; keeps #babying leah
 * 기억할게; I’ll #pencil it in
 * 음식이 식다; be already cold
 * #세세하게 관리; #micromanages me
-* ##appreciate; for xxx
 * 모서리가 #뾰족하다; everything we own is #Pointy
 * 5#학년이 되다; we are going into the fiftth grade
 * #부서지다; liquid metal #embrittlement
@@ -178,14 +146,9 @@
 * 광견병 주사 맞았는지 확인하세요; has been #vaccinated
 * #월급 못받았어; I haven’t gotten paid
 * 많은 일이 있었어; all kinds of stuff
-* #check in on; 어떻게 지내는지 확인하는 그림, #check in with; 결정을 내리기 전 확인
 * 무서웠다; I was #dreading coming to work
-* 다음 상영이 몇 시에요? What time is the nex showing
-* 할인 시간대 가격은 얼마에요; what’s the #matinee price; do you have a matinee
 * 이 자리가 제 자리라고해요; my ticket says this is my seat
-* 물건이 더 있는지 봐주실래요? Can you check if you have it in the #inventory
 * 공개적으로 표현하다; make a statement
-* #소매치기; #purse snatching = #Pick pocketing
 * 막말이나 욕설을 퍼부어 괴롭히는 그림; #verbal abuse
 * 금요일이 빨리왔어; Friday came back quickly
 * 여성들이 좋아하는 #색깔; #feminine colors
@@ -195,19 +158,14 @@
 * #자동전화; #robocall
 * #반으로 잘라주세요; can you #cut it in half
 * 3등분으로 잘라주세요; cut it into thirds
-* #지각; 늦장부려 늦는 그림; #tardiness; consider it tardiness / consider it as tardy
 * 몸이 안좋다; feel #unwell
 * 한 #다발이 얼마에요; how much is a #bounquet of roses
 * #안개꽃; baby’s breath
 * #줄기 쳐주세요; can you cut the #stems off
 * #반만 읽다 말았어요; read #halfway through
 * 영화 반까지 보지 않았어; didn’t we leave halfway throughthis
-* 중간지점에서; #at the halfway point
-* 가는길 쪽 반에 있어; I’m halfway there
 * 밀고 나가다; #push through
-* #고집; #tenacity; #tenacious = be #resilient = #loyal to
 * 쌓여있다; in the second stack from the left
-* ^^#kids; 구어체; #children 격식체
 * #실밥이 풀렸어요; the #seam was unreveled
 * #매듭; #ravel
 * #색깔이 빠졌어요; the color #faded
@@ -226,11 +184,7 @@
 * #그네타러 가자; let’s go on the swing
 * #기울이고; #lean backyard
 * #발로 차고; try to kick your legs out
-* #털다; 손가락을 터느 ㄴ느낌 #brush off; #Kick off; 발로 차다
 * Don’t make #sand angels; #에인쥴
-* #익살부리다; #clown around = #musk around = #mess around = #monkey around / * #goofy
-* #동의 하지 않아; 1. You are way off there 2. ~ #get to me 3. #detest 4. I’m not keen on 5. #bother me 5. ~ is not my thing
-* #if only 1. If only I hadn’t left my keys 2. If only I understood maths 3. If only he would
 * #통보 1. #Notify 2. Let someone know
 * #희생양; She felt she had been made a scapegoat for her boss's incompetence. 
 * #cover a lot of ground  1. Travel a great distance; can ~ in one day 2. Deal with or talk about
@@ -240,12 +194,6 @@
 * #운도 없구나; #tough luck
 * #기본, #핵심이다; #meat and potatoes
 * #컷 통과를 했다; #make the cut as expected
-* #파스를 붙이다; I #wear the patches; #patch
-* #떙기면서 아프다; I’ve also started to feel a #pulling sensation
-* #절뚝거리다; I found myself #Limping when I walk
-* #옆구리;  I have had a tingling and burning sensation in my ankle and the pain goes up to the right side of my #torso
-* #억소리나게 느껴지는 통증; I feel a sharp pain
-* 두통/치통시 욱신거리듯 아플 때; I feel a #throbbing pain
 * 많은 일에 #얽히다; I’vebeen so #caught up in my job
 * #팔뚝에 약한 #찰과상; you have a slight #epidermal abrasion on your #forearm
 * #왕 위에 앉다; #sit on the throne
@@ -276,7 +224,6 @@
 * 항상 #준비됐어; #born ready
 * 앞 좌석으로 주세요; get me a front seat
 * 한 #단계 위; This mission takes the level of complexity #up a notch
-* #설명서에 나와있는 대로 해; I did what it says in the manual /according to the *#manual/#instruction = I did what it says in the manual = #follow the manual
 * #백지 #새로운 시작; 깨끗한 경력; #clean slate = #clean sheet
 * #순 겁쟁이; #scaredy-cat
 * #이기다; somebody got the better of us
@@ -286,7 +233,6 @@
 * #위험한 짓을 하다; #Play with firesst
 * #주저 없이 하다; President #stop at nothing to develop economy. 
 * #독립하다; #stand on its own bottom 
-* #진술 #변호하다; #defend = #make one’s case; He made his case that ghosts really exist.
 * #이상하다; #sound screwy
 * #그룹 분위기를 망치다; #party foul
 * #시한폭탄; #Install a #time bomb
@@ -304,14 +250,12 @@
 * #환상이 있다; have a #vision
 * #선택을 못하다; #lost their ways
 * #규칙을 만들다; write one’s own rules
-* #실패로 돌아가다; reach #hit rock bottom = #sink into complete failure
 * 기력을 회복하기 위한 #낮잠; #power nap
 * #부패 경찰; #crooked cops
 * #범죄를 숨기다; #go undercover
 * #반품하다; get something back; take something back
 * 경쟁을 #공정하게하다; #ven the playing field
 * #구하다, #찾다; #fish around for information
-* #바로잡다; #set things right
 * #할 시간이다; #Let’s roll
 * #모의 실험, #실험 #연습; #practice run
 * #가격을 올리다; #jack up one’s price
@@ -324,7 +268,6 @@
 * #방영; reality show that #premiered on tvN
 * #놀래키다; see the drones that #wowed all audiences
 * #놓고가다; the purse that she just #left on the shelf
-* ^^#avenue 세로 street: 가로;  캐나다 반대
 * #이름을 대다; I can name more that ~
 * #부비부비; #grind-ground
 * #다시는 없을겁니다; I promise never happen again
@@ -334,7 +277,6 @@
 * #고기 #질기다; #tough <> #tender
 * #맛이 어때; how does it taste
 * #세월호 #인양하다;  |sӕlvɪdƷ]  he explained how they #salvaged sewol ferry
-* #강조하다; #emphasize = #Play up = #stress
 * #휴지; 화장실 휴지:  #kleenax #tissue #toilet paper #kitchen paper
 * #전광판; we got on the #Jumbotron
 * #회전문; #revolving wall
@@ -352,7 +294,6 @@
 * 남의 떡이 더 커보이다 the grass is always greener on the other side of fence
 * #불편을 끼쳐서 죄송합니다; sorry about the inconveinece
 * #월급날은 정말 부자가 된 것 같지 않나요; don’t you feel rich on pay day?
-* && #Me too = #so do I  #Me neither = #Neither do i
 * #전력을 다하다; #work #fire on all cylinders; #cylinders
 * #바깥 출입을 못하는 사람; #shut-in
 * #물러나다; #bow out 맬 all the fluff RSVPS
@@ -388,21 +329,18 @@
 * #박 씨; #gourd seed
 * 발 #디딜 틈도 없었어; there was #No place to put my feet
 * #봉제 인형들하고 I bought some super cute #plush dolls
-* #화나다; be mad at = be angry at / with = be upset with someone
 * #말실수; it’s something you said; could it be something you said = you tend to be a little careless with your words = say something one shouldn’t have
 * #격에 떨어지지만 한다는듯이 굴다; She just grunted, not #deigning to look up from the page
 * #오버 #연극의; a #theatrical hand gesture; agent 공연 대행사
 * #고소해하다; She was still #gloating over her rival's disappointment. 
 * #봄옷; #spring clothes
 * #축소; #scale back
-* #통역이 필요해요; I need a #translation
 * #회의 #중단이에요; meeting is #adjourned
 * #파괴 공작원; #Saboteurs blew up a small section of the track. 
 * #고립되어 보이고; she looks #closed off
 * 파란색 #덧문; with blue shutters
 * 너에게 #달려있따; it #come down to you
 * #이래저래 하다; one thing led to another
-* #티나다; is it #obvious?
 * 말이 씨가 되지요; be careful what you wish
 * #열과 성을 다하다; you put your heart and soul into it
 * 시간이 없다; we’re running out of time
@@ -415,12 +353,8 @@
 * 숟가락 바꿔주세요; can you get me another spoon?
 * #회의록 작성해주세요; please take the #Minutes of the meeting
 * #칼에 ㅉ띨린듯; it hits you like a thousand #Kinvesstabbing you
-* 어쨌든; #with all due respect
 * #뱀 헤어밴드; #Python headband
-* 섭섭하게 말하다; say something that upset someone; I accidentally told her about that / mention
-*  Make the mistake of telling / saying 그렇게 말하려는거 아니였어; that didn’t come out right
-* I said something that I shouldn’t have = I didn’t mean for that to sound like it did
+* 어쨌든; #with all due respect
 * #경험적으로; #empirical evidence/knowledge/research
 * #수집품; football / Beatles #memorabilia
-* ^^#PROduce; 농작물 ;proDuce; 만들다; ADDress; 주소 addRESS 연설하다; Desert; 사막; #deSERT; * * #탈영하다; #PROject; 프로젝트; proJECT; #영사하다, 투영하다; #Object; 목적 obJECT; 반박하다
 * 잘 해결 되지 않다; it doesn’t turn out well

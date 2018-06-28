@@ -32,6 +32,9 @@
 * 4.29   	쏘피 http://blog.naver.com/sofa1015/220909474533
 * 4.29 콜앤톡 http://blog.naver.com/esolution24 재미진 미드
 * 4.29  	블루링크 http://m.post.naver.com/my.nhn?memberNo=566&navigationType=push
+* 테드 https://www.ted.com/
+* 빌보드 https://www.billboard.com/charts/hot-100#/charts/hot-100
+
 * 4.20 데이브 http://blog.naver.com/koreanstyl3
 * 하루하루 이루다 https://blog.naver.com/puretearing?Redirect=Log&logNo=220818687784
 * 출판사 프렉티쿠스 | 소미영어 | English 일산 영어쌤 | 케이크 신개념 무료 영어학습 앱
@@ -39,17 +42,11 @@
 엔구 화상영어 | 쌤코치의 영어습관 | 아미고톡
 한국번역연구소 | dave den
 -----------------------------------------------------------------------------
-* 빌보드 https://www.billboard.com/charts/hot-100#/charts/hot-100
-* 테드 https://www.ted.com/
 * 해커스, 파고다
 * 네이버 톡톡 http://talkie.naver.com/english/room-list.dict?mode=mobile
 * 네이버 퀴즈 http://wquiz.naver.com/main.dict
-----------------------
 
 ## 영어
-구독
-구독
-
 The Ringer
 
 POMI POMPOM

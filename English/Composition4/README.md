@@ -1,72 +1,19 @@
-* ~한 사람을 처음본다(this is XXX)
-* A:우와, 말도 안돼, 나 저렇게 고집센 사람 처음봐. Wow, no way. I've never seen such a stubborn person. / I've never seen anyone so stubborn + @ (about this topic).
-* B: 어, 나도 저런 사람 처음 보는거 같아. Yeah, I've never seen anyone like that. --> I don't think I've ever seen anyone like that. (추측의 어조) --여기서 that 대신 him 이나 her 일경우 칭찬의 의미가 될수도 있음.
-* A: 누구랑 얘기만 하는데도 이렇게 힘든건 또 처음이야. I've never had such a hard time just talking to someone.
-* B:누구랑 대화만 하는데 이렇게 받는건 처음인거 같아. Me too. I don't think I've ever been under so much stress just having a conversation with someone.
--i've never had ~ before = this is/has to be / must be / has got to be the best pasta i've had in years
--i don't think i've ever
-* 1. be stressed.
-* 2. get stressed.
-* 2. be under stress. I'm under a lot of stress these days. I'm very stressed these days.﻿
-* Be on the phone
-* I am / Was on The Phone Right Now
-* I Think She is on the phone right Now
-* Keep / Stay / be in Touch
-* We Still keep / Stay in touch
-* We've been (keeping / Staying) in touch
-* even After I Came Back
-* Do you (Still) Keep / Stay in Touch With her?
-* 연락 끊기다: Lose Touch
-* We were Very colse But We lost Touch After We Graduated
-* With +
-* I Sent Him An Email / Text / Message with a Picture
-* I Got / from / With
-* He Sent me / With An attachment / A document / Attached Document
-* Saying (that) / Telling Someone (that) / Ask / Ask if / Letting Someone V / Reminding ( Not to Forget )
-* 양념장에 재워두다                                                            	 marinate 미국·영국 [‘mӕrɪneɪt]
-* #양념 flavouring: all of the flavoring just went up my nose
-* #seasoned a lot
-* #치킨; #chicken <> #chook; #양념치킨; #glazed chicken
 * #뒤척거리다; #toss and turn
 * #clam up; 말문이 막히다
-* 조개를 캐다; #dig out the clams
-* ☆가리비는 scallop; collop, 맛조개는 razor clam, 바지락은 Manila clam, 꼬막은 cockle이라고 합니다.
-* #진주는 pearl이라고 하는데요. 이 진주가 나는 조개는 영어로 Pinctada fucata GOULD
 * #접전 #박빙 ding-dong battle[struggle], #close game
 * #여론조사 결과 두 후보가 #막상막하의 #접전을 벌이고 있는 것으로 나타납니다.
 ‘kӕndɪdət Opinion polls show that the two candidates are running #neck and neck.
 this is #toss up
-* #unit #platoon #divison #army of soldiers
-* ☆소대: platoon, 중대: #company #battalion: 대대 #division: #사단 #여단; #brigade
-* #야전군; #field army
-* #DMZ; demilitarized zone 미국·영국 [di:mílətəràizd-]
-* #fire team; #공격대
-* #squadron; #분대
 * ☆저는 이번에 #학자금대출을 다 갚았어요."                                   	 I recently paid off all my student loans.
 * #국기; #fly the #flag #at half-staff
 * #국가 대표; be selected to/for #member of the national team
 * #귀화; 그는 한국인으로 귀화했다 He was #naturalized as a Korean citizen.
 * #희생양; #scapegoat; She felt she had been made a scapegoat for her boss's incompetence.
-* #5second rule #safety game 누군가 방구 끼면 방구낀 사람 이외의 사람이 doorknob * 외치면 문고리 잡기 전까지 맞는다. 그러니 그전에 safety라고 방구끼기 전에 외쳐야 한다.
 * 계속 트림하고 방구 나와                                                                 	 I keep burping and farting
 * ##belch; He wiped his hand across his mouth, then belched loudly. belch out smoke[fire]
 * #토트림                                                                                                                 	 mini sick 미션; #사명; #on a mission도입; #start - #introduce - #launch - #kick off - #initiate
   Worked hard wit a #sense of duty
 * #impose
-* put ~ out there; 세상에 내놓다; I'm finally putting it out there
-* 방금 출시되었다 Just come in(out)
-* 출시 일 앞당기다; Bring the product release forward
-* it's not available
-* #시사회: premiere
-* 주어 + come in + 치수/색상/모양
-* ㆍrelease = debut = introduce = launch[lɔ:ntʃ] = available for purchase = will be available
-* = #delivery = #roll out
-* The new model is to be rolled out in July. 그 신모델은 7월에 출시될 예정이다.
-* *#힘을 합치다                                                                   	 if we pull together, we can do it
-* #화합 #긴밀하게 #cohesively; they are cohesively in a good direction
-#in sync
-* #함께 in #tandem with something = #hand in hand; work hand in hand
-* #stick with; 함께 하다
 * 진행되는 일에 #합류했하는 상황                                                    	 He jumped on the band wagon
 I'll join you later.
 * 나 #열심히 일했어        	 I am breaking my back I worked my ass off. I worked like crazy.
@@ -78,15 +25,6 @@ I'll join you later.
 * #만찬; he's having a #gala dinner next week
 * #office dinner; work related dinner; socializing
 * #개막전; #opening day
-* 「잠」 ###잠# go off to bed = #slumber = #catch so me Z's #잠자기; a #slumber party
-                       	#crash on the couch = #conk out = #sack out = #hay out #Hit the sack/#hay
-* #sleep over; #stay over at my uncle's place
-* be fully slept
-* 잠들다, 골아 떨어지다 fall asleep, zonk/flake out, crashed, went out like a light, i'll get a crash
-* #병과; a branch of the (military) service
-* #행정병; #administrative clerk (enlisted)
-* #취사병; #kitchen police (KP)
-* #운전병; 운전병을 배치하다 웹수집 웹수집 도움말 단어장추가 arrange #driver
 * #구성이 탄탄하다 it is ##tightly plotted
 * ^^##tight #tightly hold tight/tightly 뭘 쓰든 상관 없음
 * #체계적으로 조직되어있다; #well-organized
@@ -100,34 +38,17 @@ I'll join you later.
 * #balloon network
 * 인맥 만들기; #make connections; it's all about making connections
 * 보험 들었어? Did you #insure it?
-* #buy/get #insurance
-* #의료 보험증 주세요; would you give me your #health insurance card
-* #의료보험; do you have #medical insurance?
-* A Reply / a Call
-* I Got a Message From My friend With A Pucture of A girl Asking me if I Knew Who She was
-* I Got a text from Work With a Link to an Article Saying me That I Should Read it﻿
-* ##back and forth; #move/#go/#sway/#swing/#swish back and forth
-* #bounce back and forth; #검토하다 #bat back and forth; #숙고하다
 * He's had a lot of problems, but he always seems to #bounce back pretty quickly.
 * 그는 많은 어려움들을 겪어 왔는데 언제나 상당히 빨리 회복되는 것 같다
-* #sit down, have(take)/#grab a seat on the floor / please be seated(교회, 기내)
-* #sleep/#sit tight
-* 의자좀 똑바로 해주실래요? Could you put your seat up, please?
-* 와서 앉아 #pull up a chair
-* 공부 잘한다; has good grades = does really well in school
 * [명사] (두 명이 앞뒤로 탈 수 있는) 2인용 자전거                          	 tandem bicycle
 * ~만 하다; it it #worth it?
 * #무덤 #grave, #tomb
 * 무덤을 팠네; #ask for; he #asked for it
 * 자기 무덤을 파다; #shoot youself in your foot
-* #화제 전환; 1. speaking of ~ 2. reminds me of 3. 상대방의 말을 반복
-* #자위; #rub out; #rubbed one out = #handsome = #jerking
-* #touch myself
 * ##though 1. 놀라움; it's good though 2. 의문; is that good though?
 * 성적을 높이다; #push high up; #high up
 * #뽀뽀 #kiss #키스; #make out
-* #오늘의 #메뉴 today’s special' / what's the #speciality(#main menu) / the #signature menu is
-* ##menu; #메뉴판 -> dishes/these                                                                                      #메뉴; #make/plan/design a menu
+                                                                                    #메뉴; #make/plan/design a menu
 * #둘다 괜찮은 것 같애 #same same #퉁                                                                   	#fair enough
 * 서울 내 #손바닥 안이야                                                    	 I know Seoul #like the back of my hand.
 * #손바닥 안이다; 벗어나다; get off; nobody gets off the rock =

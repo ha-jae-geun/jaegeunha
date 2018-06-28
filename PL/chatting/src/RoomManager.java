@@ -1,42 +1,66 @@
 import java.io.DataOutputStream;
 import java.io.IOException;
 import java.net.Socket;
-import java.util.HashMap;
-import java.util.Iterator;
+import java.util.*;
+
+class RoomList{
+    Socket socket;
+    String roomName;
+
+    public RoomList(Socket socket, String roomName){
+        this.socket = socket;
+        this.roomName = roomName;
+    }
+    public Socket getSocket(){
+        return socket;
+    }
+
+    public String getRoomName(){
+        return roomName;
+    }
+}
 
 public class RoomManager{
-    static HashMap<Socket, String> roomHash = new HashMap<Socket, String>();
+    static Hashtable<Integer, RoomList> roomHash = new Hashtable<Integer, RoomList>();
     static HashMap<Socket, String> nameHash = new HashMap<Socket, String>();
-    static Socket socket;
+    static ArrayList<RoomList> roomList = new ArrayList<RoomList>();
+    static int countHash = 0;
 
     static
     {
-        roomHash = new HashMap<Socket, String>();
-        roomHash.put(null, "접속 할 수 있는 방 목록");
+        roomList.add(new RoomList(null, "방이름을 입력하세요"));
+        roomHash.put(0, new RoomList(null, null));
     }
 
-    public RoomManager(Socket socket){
-        this.socket = socket;
+//    public RoomManager(Socket socket){
+//        this.socket = socket;
+//    }
+    public RoomManager(){
     }
 
-    public HashMap<Socket, String> getRoomHash(){
+    public Hashtable<Integer, RoomList> getRoomHash(){
         return roomHash;
     }
+    public ArrayList<RoomList> getRoomlist(){
+        return roomList;
+    }
 
-    void sendToAll(HashMap<Socket, String> roomHash, Socket socket, String msg) {
+    boolean sendToAll(String roomName, Socket socket, String msg) {
         DataOutputStream out;
         try {
-            for (Socket key : roomHash.keySet()) {
-                if (roomHash.get(socket) == roomHash.get(key))
-                {
-                    out = new DataOutputStream(key.getOutputStream());
+            for(int i=1; i<roomList.size(); i++){
+                if(roomName.equals(roomList.get(i).getRoomName()) && (socket != roomList.get(i).getSocket())){
+                    out = new DataOutputStream(roomList.get(i).getSocket().getOutputStream());
                     out.writeUTF(msg);
+                    return true;
                 }
             }
         }
         catch (Exception e) {
+            return false;
         }
-    }//sent
+        return true;
+    }
 
     void setName(Socket socket, String name) {
         nameHash.put(socket, name);
@@ -58,80 +82,95 @@ public class RoomManager{
         return isValid;
     }//createname
 
-    int createRoom(String roomName, Socket socket){
-        int roomState = -1;
+    int createRoom(String roomName, Socket socket) {
+        int roomState = 1;
+        int countList = 0;
         try {
-            roomHash.put(socket, roomName);
-            Iterator<Socket> keys = roomHash.keySet().iterator();
-            while ( keys.hasNext() ) {
-                Socket key = keys.next();
-                if(roomName.equals(roomHash.get(key)) && !key.equals(socket)){
-                    roomState = 1;
+            roomList.add(new RoomList(socket, roomName));
+            for (int i = 1; i < roomList.size(); i++) {
+                if ((roomList.get(i).getSocket().equals(socket)) && (roomList.get(i).getRoomName().equals(roomName)))
+                    countList = i;
+                break;
+            }
+            Enumeration keys = roomHash.keys();
+            int key = 0;
+            while (keys.hasMoreElements()) {
+                if(roomHash.size() == 1){
+                    countHash = countHash + 1;
+                    roomHash.put(countHash, roomList.get(countList));
+                    roomState = 0;
                     break;
                 }
-                roomState = 0;
+                if(key != 0 && !roomHash.get(key).getRoomName().equals(roomName)){
+                    countHash = countHash + 1;
+                    roomHash.put(countHash, roomList.get(countList));
+                    roomState = 0;
+                    break;
+                }
+                key = (int) keys.nextElement();
             }
         } //try문
         catch(NullPointerException e){
             roomState = 2;
         }
         return roomState;
-    }  //createroom
+    }
 
-    boolean exitRoom(Socket socket){
-        boolean isValid = false;
-        roomHash.remove(socket);
-
-        if(roomHash.containsKey(socket)){
-            isValid = false;
-        }
-        else{
-            isValid = true;
-        }
-        return isValid;
-    } //exitroom
-
-    boolean sendMessage(String roomName, Socket socket, String msg){
-        boolean isValid = false;
-        try {
-            if(!roomName.equals(roomHash.get(socket)))
-                isValid = false;
-            else {
-                isValid = true;
-                sendToAll(roomHash, socket, msg);
+    boolean exitRoom(String roomName, Socket socket){
+        int countList = 0;
+        for (int i = 1; i < roomList.size(); i++) {
+            if ((roomList.get(i).getSocket().equals(socket)) && (roomList.get(i).getRoomName().equals(roomName))) {
+                countList = i;
+                break;
             }
         }
-        catch(NullPointerException e){
-            isValid = false;
+        roomList.remove(countList);
+        removeRoom(roomName, socket);
+        for (int i = 1; i < roomList.size(); i++) {
+            if (roomList.get(i).getRoomName().equals(roomName))
+            return true;
         }
-        return isValid;
-    } // sendMessage
+        return false;
+    }
+
+    void removeRoom(String roomName, Socket socket){
+        boolean isValid = false;
+        for (int i = 0; i < roomList.size(); i++) {
+            if ((roomList.get(i).getRoomName().equals(roomName))){
+                isValid = true;
+                break;
+            }
+        }
+        if(!isValid){
+            Enumeration keys = roomHash.keys();
+            int key = 0;
+            while (keys.hasMoreElements()) {
+                if(key != 0 &&roomHash.get(key).getRoomName().equals(roomName)){
+                    roomHash.remove(key);
+                }
+                key = (int) keys.nextElement();
+            }
+        }
+    }
+
+    boolean sendMessage(String roomName, Socket socket, String msg) {
+        if(!sendToAll(roomName, socket, msg)){
+            return false;
+        }
+        return true;
+    }
 
     void roomList(DataOutputStream out){
         try {
-            HashMap<Socket, String> listHash = new HashMap<Socket, String>();
-            int roomSize = roomHash.size();
-
-            listHash.put(null, null);
-            for(Socket key : roomHash.keySet()) {
-                int count = 0;
-                listHash.put(key, roomHash.get(key));
-                for(Socket keys : listHash.keySet()) {
-                    if(roomHash.get(key).equals(listHash.get(keys))){
-                        count = count + 1;
-                    }
-                    if(roomHash.get(key).equals(listHash.get(key)) && count == 2){
-                        listHash.remove(keys);
-                    }
+            out.writeInt(roomHash.size()-1);
+            Enumeration<RoomList> enumerationValue = roomHash.elements();
+            while (enumerationValue.hasMoreElements()) {
+                RoomList roomList = (RoomList) enumerationValue.nextElement();
+                if(roomList.getRoomName() !=null) {
+                    out.writeUTF(roomList.getRoomName());
                 }
             }
-            listHash.remove(null);
-            out.writeInt(listHash.size());
-            for(Socket key : listHash.keySet()) {
-                String value = listHash.get(key);
-                System.out.println(key + " : " + value);
-                out.writeUTF(" 방 목록: " + value);
-            }
+
         } catch (IOException e) {
             e.printStackTrace();
         }
