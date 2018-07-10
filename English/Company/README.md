@@ -2,6 +2,9 @@
 * WFH; Work From Home; 집에서 근무; I'll be WFH
 * WFO; Work From office
 
+# 미팅
+* ~할 안건이 있습니다; we have ~ items to
+
 # 단어
 * 연말 정산; Year-End tax
 * 자진 퇴사; Voluntary Termiation; 강제 퇴사: Involutary termination = fired = Laid off

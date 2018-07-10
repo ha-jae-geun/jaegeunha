@@ -11,3 +11,8 @@
 * it's not available
 * #시사회: premiere
 * 스포일러 주의; #spoiler alert
+* 스토리의 구성이 좋았다; it's well-structured
+* 쌩뚱맞은 신이 몇개 있었다; there were a few scenes that didn't make a lot of sense
+
+# Television
+* 채널 고정; #Stick around, Stay tunned, don't go anywhere

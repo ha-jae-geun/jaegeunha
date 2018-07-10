@@ -1,8 +1,18 @@
 import java.io.*;
+import java.net.Socket;
 
 public class ClientProtocol{
 
     public ClientProtocol(){ }
+
+    public byte[] intToByteArray(int value) {
+        byte[] byteArray = new byte[4];
+        byteArray[0] = (byte)(value >> 24);
+        byteArray[1] = (byte)(value >> 16);
+        byteArray[2] = (byte)(value >> 8);
+        byteArray[3] = (byte)(value);
+        return byteArray;
+    }
 
     public byte[] stringToByteArray(String name) {
         byte[] byteArr = new byte[0];
@@ -27,43 +37,58 @@ public class ClientProtocol{
           return bytes[0]!=0;
     }
 
-    public byte[] transferClient(int protocolName, String name, String msgName) {
+    public byte[] transferChat(String userName, String chat) {
         byte[] nameBuffer = null;
+        byte[] usernameValue = stringToByteArray(userName);
+        byte[] chatValue = stringToByteArray(chat);
 
-        if(protocolName == 1) {
-            byte[] nameValue = stringToByteArray(name);
-            nameBuffer = new byte[name.length()];
+        nameBuffer = new byte[ userName.length() + chat.length()];
+        System.arraycopy(usernameValue, 0, nameBuffer, 0, userName.length());
+        System.arraycopy(chatValue, 0, nameBuffer, userName.length(), chat.length());
+        System.out.println("transfer client 바이트 값" + nameBuffer);
 
-            System.arraycopy(nameValue, 0, nameBuffer, 0, name.length());
-            System.out.println("transfer client 바이트 값" + nameBuffer);
-        }
+        return nameBuffer;
+    }
 
-        else if(protocolName == 2) {
-            byte[] roomValue = stringToByteArray(name);
-            System.out.println("namer값 " + name);
-            nameBuffer = new byte[name.length()];
+    public byte[] transferClient(int protocolName, int size, String name) {
+        byte[] nameBuffer = null;
+        byte[] protocolValue = intToByteArray(protocolName);
+        byte[] sizeValue = intToByteArray(size);
+        byte[] nameValue = stringToByteArray(name);
 
-            System.arraycopy(roomValue, 0, nameBuffer, 0, name.length());
-            System.out.println("transfer client 바이트 값" + nameBuffer);
-        }
-        else if(protocolName == 3) {
-            byte[] roomValue = stringToByteArray(name);
-            nameBuffer = new byte[name.length()];
+        nameBuffer = new byte[8 + name.length()];
+        System.arraycopy(protocolValue, 0, nameBuffer, 0, 4);
+        System.arraycopy(sizeValue, 0, nameBuffer, 4, 4);
+        System.arraycopy(nameValue, 0, nameBuffer, 8, name.length());
+        System.out.println("transfer client 바이트 값" + nameBuffer);
 
-            System.arraycopy(roomValue, 0, nameBuffer, 0, name.length());
-            System.out.println("transfer client 바이트 값" + nameBuffer);
-        }
-        else if(protocolName == 4) {
-            byte[] roomValue = stringToByteArray(name);
-            byte[] msgValue = stringToByteArray("test");
 
-            nameBuffer = new byte[name.length() + 4];
-
-            System.arraycopy(roomValue, 0, nameBuffer, 0, name.length());
-            System.arraycopy(msgValue, 0, nameBuffer, name.length(), 4);
-
-            System.out.println("transfer client 바이트 값" + nameBuffer);
-        }
+//        else if(protocolName == 2) {
+//            byte[] roomValue = stringToByteArray(name);
+//            System.out.println("namer값 " + name);
+//            nameBuffer = new byte[name.length()];
+//
+//            System.arraycopy(roomValue, 0, nameBuffer, 0, name.length());
+//            System.out.println("transfer client 바이트 값" + nameBuffer);
+//        }
+//        else if(protocolName == 3) {
+//            byte[] roomValue = stringToByteArray(name);
+//            nameBuffer = new byte[name.length()];
+//
+//            System.arraycopy(roomValue, 0, nameBuffer, 0, name.length());
+//            System.out.println("transfer client 바이트 값" + nameBuffer);
+//        }
+//        else if(protocolName == 4) {
+//            byte[] roomValue = stringToByteArray(name);
+//            byte[] msgValue = stringToByteArray("test");
+//
+//            nameBuffer = new byte[name.length() + 4];
+//
+//            System.arraycopy(roomValue, 0, nameBuffer, 0, name.length());
+//            System.arraycopy(msgValue, 0, nameBuffer, name.length(), 4);
+//
+//            System.out.println("transfer client 바이트 값" + nameBuffer);
+//        }
         return nameBuffer;
     } // transfer
     public boolean  receiveClient(byte[] byteArr, int protocolInt) {
@@ -130,4 +155,25 @@ public class ClientProtocol{
         }
         return resultToBoolean;
     } // receive
+    class TransferClass{
+        int protocolName = 0;
+        int nameSize = 0;
+        String userName = null;
+
+        public TransferClass(int protocolName, int nameSize, String userName){
+            this.protocolName = protocolName;
+            this.nameSize = nameSize;
+            this.userName = userName;
+
+        }
+        public int getProtocolname(){
+            return protocolName;
+        }
+        public int getNamesize(){
+            return nameSize;
+        }
+        public String getUsername(){
+            return userName;
+        }
+    }
 } // clientProtocol

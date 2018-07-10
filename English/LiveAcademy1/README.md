@@ -1,3 +1,5 @@
+* 기대한것 만큼은 아니었어; it wasn't as good as i had hoped
+* 봐주다; don't go easy on me!, 
 * 옷 거꾸로 입었어; you've got your shirt on inside out
 * 도무지 ~할 수가 없다; I just can’t seem to concentrate
 * 내 상황이면; if you were in my shoes/position, if you were me

@@ -1,0 +1,1 @@
+* 위기의식 危機意識  단어장추가 (철학) consciousness of crisis

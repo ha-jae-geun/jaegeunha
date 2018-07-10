@@ -1,0 +1,1 @@
+* 왕따;; #outcast;  i was bullied at school

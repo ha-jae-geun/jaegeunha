@@ -1,3 +1,6 @@
+# Kitchen
+* #앞접시; please give me a #small plate
+
 # Ingredient
 * #노른자 터뜨리지 말아ㅜㅈ세요; I want it sunny side up
 * #살코기 주세요; can you give me a #lean cut
@@ -19,6 +22,8 @@
 * #tear jerker
 * < #fiery #눈물나는 맛
 * 매운거 잘 먹는다 I have a very high tolerance for spice
+* 아무맛도 안나; it's #tasteless
+* 새콤달콤하다; it's sweet and sour
 
 # Cooking
 * #오늘의 #메뉴 today’s special' / what's the #speciality(#main menu) / the #signature menu is
@@ -31,3 +36,6 @@
 
 # Restaurant
 * 고급 식당; an #upmarket restaurant 
+
+# Party
+* #Potluck party

@@ -1,6 +1,4 @@
-import java.io.DataInputStream;
-import java.io.DataOutputStream;
-import java.io.IOException;
+import java.io.*;
 import java.net.ConnectException;
 import java.net.Socket;
 import java.util.Scanner;
@@ -12,13 +10,13 @@ public class TcpIpMultiChattingClient {
 
     static class ClientSender extends Thread {
         Socket socket;
-        DataOutputStream out;
-        ClientProtocol cp = new ClientProtocol();
+        BufferedOutputStream out;
+        String userName;
 
         public ClientSender(Socket socket) {
             this.socket = socket;
             try {
-                out = new DataOutputStream(socket.getOutputStream());
+                out = new BufferedOutputStream(socket.getOutputStream());
             } catch (Exception e) {
             }
         }
@@ -32,84 +30,59 @@ public class TcpIpMultiChattingClient {
             }
         }//run
 
-        public String getSendProtocol(DataOutputStream out) throws IOException {
+        public String getSendProtocol(BufferedOutputStream out) throws IOException {
+            ClientProtocol clientProtocol = new ClientProtocol();
             UserManager userManager  = new UserManager(socket);
-            Scanner getProtocol= new Scanner(System.in);
-            System.out.println("1. 이름 생성 2. 방생성 3. 나가기 4. 채팅. 5. 방 목록");
-            String protocol = getProtocol.nextLine();
-
             Scanner input = new Scanner(System.in);
+            System.out.println("유저 이름을 입력하세요");
+            userName = input.nextLine();
+            System.out.println("1. 방생성 2. 방 접속 3. 방 나가기. 4. 방 옮기기 5. 방 리스트");
+            int protocol = input.nextInt();
+
             String result = null;
-            if (protocol.equals("1")) {
+            if (protocol == 3 | protocol == 4) {
                 System.out.println("유저 이름을 입력하세요.");
                 result = input.nextLine();
-                byte[] byteArr2 = cp.transferClient(1, result, "");
-                out.writeUTF("1");
-                out.writeInt(result.length());
-                out.writeInt(0);
-                out.write(byteArr2);
+                out.write(clientProtocol.transferClient(protocol, result.length(), result));
             }
-            if (protocol.equals("2")) {
+            if (protocol == 1) {
                 System.out.println("방 이름을 입력하세요.");
                 result = input.nextLine();
                 if(!userManager.createRoom(result, socket)){
                     System.out.println("이미 참여한 방입니다.");
                 }
                 else {
-                    byte[] byteArr2 = cp.transferClient(2, result, "");
-                    out.writeUTF("2");
-                    out.writeInt(result.length());
-                    out.writeInt(0);
-                    out.write(byteArr2);
+                    out.write(clientProtocol.transferClient(protocol, result.length(), result));
                 }
             }
-
-            if (protocol.equals("3")) {
-                System.out.println("나갈 방 이름을 입력하세요.");
-                result = input.nextLine();
-                userManager.exitRoom(result, socket);
-                byte[] byteArr2 = cp.transferClient(3, result, "");
-                out.writeUTF("3");
-                out.writeInt(result.length());
-                out.writeInt(0);
-                out.write(byteArr2);
-            }
-
-            if (protocol.equals("4")) {
+            if (protocol == 2) {
                 System.out.println("채팅할 방의 이름을 입력하세요.");
                 result = input.nextLine();
 
                 if(!userManager.sendMessage(result, socket)) {
                   System.out.println("해당 채팅방에 먼저 입장하여야 합니다.");
                 } else {
-                    byte[] byteArr2 = cp.transferClient(4, result, "test");
-                    out.writeUTF("4");
-                    System.out.println("프로토콜 번호 4.");
-                    out.writeInt(result.length());
-                    out.writeInt(4);
-                    out.write(byteArr2);
-
+                    out.write(clientProtocol.transferClient(protocol, result.length(), result));
                     while (true) {
                         String chat = input.nextLine();
-                        if (chat.equals("out")) {
-                            out.writeUTF(chat);
+                        if (chat.equals("exit")) {
+                            out.write(clientProtocol.transferChat('[' + userName + ']', chat));
                             userManager.exitRoom(result, socket);
                             break;
                         }
-                        out.writeUTF(chat);
+                        out.write(clientProtocol.transferChat(userName, chat));
                     }//while
-
                 } // else
             } // if문
-            if (protocol.equals("5")) {
-                out.writeUTF("5");
+            if (protocol == 5 ) {
+                out.write(clientProtocol.intToByteArray(6));
             }
             return result;
         } // getSendProtocol
     }
     static class ClientReceiver extends Thread {
         Socket socket;
-        DataInputStream in;
+        ObjectInputStream in;
 
         public ClientReceiver(Socket socket) {
             this.socket = socket;
@@ -127,7 +100,7 @@ public class TcpIpMultiChattingClient {
 
         public void getReceiveProtocol(Socket socket, ClientProtocol clientProtocol) throws IOException {
             try {
-                in = new DataInputStream(socket.getInputStream());
+                in = new ObjectInputStream(socket.getInputStream());
             }
             catch (IOException io) {
             }
@@ -156,7 +129,7 @@ public class TcpIpMultiChattingClient {
                     clientProtocol.receiveClient(byteArray2, protocol);
                     while (true) {
                         String chat = in.readUTF();
-                        if (chat.equals("out")) {
+                        if (chat.equals("exit")) {
                             byte[] byteArray3 = new byte[1];
                             in.readFully(byteArray3, 0, 1);
                             clientProtocol.receiveClient(byteArray3, 3);

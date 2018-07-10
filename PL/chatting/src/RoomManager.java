@@ -82,8 +82,8 @@ public class RoomManager{
         return isValid;
     }//createname
 
-    int createRoom(String roomName, Socket socket) {
-        int roomState = 1;
+    boolean createRoom(String roomName, Socket socket) {
+        boolean isTrue = false;
         int countList = 0;
         try {
             roomList.add(new RoomList(socket, roomName));
@@ -98,22 +98,22 @@ public class RoomManager{
                 if(roomHash.size() == 1){
                     countHash = countHash + 1;
                     roomHash.put(countHash, roomList.get(countList));
-                    roomState = 0;
+                    isTrue = true;
                     break;
                 }
                 if(key != 0 && !roomHash.get(key).getRoomName().equals(roomName)){
                     countHash = countHash + 1;
                     roomHash.put(countHash, roomList.get(countList));
-                    roomState = 0;
+                    isTrue = true;
                     break;
                 }
                 key = (int) keys.nextElement();
             }
         } //try문
         catch(NullPointerException e){
-            roomState = 2;
+            isTrue = false;
         }
-        return roomState;
+        return isTrue;
     }
 
     boolean exitRoom(String roomName, Socket socket){

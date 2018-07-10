@@ -1,5 +1,5 @@
 * 즉시, 당장; in a jiffy 미국식  영국식   단어장추가
-
+* 그때부터; we've been friends #since then = #ever since = #from then on
 
 # 시간
 * PST(Pacific Standard Time); 서머타임 후: PDT(Pacific Daylight Time)

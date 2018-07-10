@@ -1,1 +1,2 @@
 * 기분이 언짢아지다; Fans #get the hump when the team loses.  팬들은 (자기가) 응원하는 팀이 지면 기분이 언짢아진다.
+* #승부욕; 승부욕을 갖다; have a desire to win
