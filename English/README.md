@@ -2,7 +2,8 @@
 
 
 ##영어
-
+* 인적성
+-------------
 * 4.29   	MLB http://post.naver.com/my/series/detail.nhn?seriesNo=46475&memberNo=449115
 * 4.29   	김형제 http://m.post.naver.com/my.nhn?memberNo=11764317
 * 4.29   	하루 10분http://post.naver.com/my.nhn?memberNo=904209&navigationType=push
@@ -47,6 +48,8 @@
 * 네이버 퀴즈 http://wquiz.naver.com/main.dict
 
 ## 영어
+* 썰설최
+------------
 The Ringer
 
 POMI POMPOM

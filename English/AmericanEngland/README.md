@@ -1,3 +1,4 @@
+* #목재; 1. #lumber #timber(영국); 나무꾼; #lumberjack
 * #이면지; sCRAP PAPER(영국) = #SCRATCH PAPER(미국)
 * 화제가 돼; #newsworthy
 * 확신에 찬 #표정; they #gleam with conviction.

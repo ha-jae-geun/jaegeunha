@@ -5,7 +5,7 @@ I have a big crush on you / I have a thing for you, i'm into you
 * ☆#짝사랑                                               	 one-sided crush on ~ / have a crush on ~
 * 함께할 운명이야; we were meant to be each other.
 * 우리는 서로를 위해 태어났어; we were made for each other
-* 
+* 우리 소원해졌어; we have grown apart
 
 # Marriage
 * ☆잡혀 살다 you have the ball and chain

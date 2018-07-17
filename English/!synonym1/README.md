@@ -1,3 +1,12 @@
+* #get out of here: 1. 나가라 2. 말도 안돼
+* #crunchy; 바삭한; #crunky; 그저 과자 이름
+* 옷걸이; #hanger 2. 코딱지; 강아지 응가처럼 덜렁거리는 것들: hanger
+* 털 복숭아; #peaches <> 천도 복숭아; #nectarines; [|nektəri:n]
+* #muffler; 1. 목도리(미국: #scarf) 2. 차 배기통
+* 복권: #tickets(편의점, 복권방); win the #lottery; 벌금 딱지; #ticket; get a ticket 4. 영화 티켓
+* #subject; 그는 고문의 대상이 되었다; he was subjected to torture
+* #garbage: 음식물 쓰레기; #rubbish; 일반적인 쓰레기 전체(영국); 쓰레기를 버리다; #throw away,  #take out
+* 영어 연습은 practice, 연극이나 음악 연습은 rehearsal; they didn't have time for a rehearsal
 * in case: possible future situations; if: conditions which might apply
 * #메뉴판; a #menu <> #음식; #menus; All the menus?
 * 가끔: from time to tome / once in  while / every now and then  always, usually, often, sometimes, rarely, never

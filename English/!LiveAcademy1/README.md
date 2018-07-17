@@ -1,3 +1,5 @@
+* 한계는 없어; the sky's the limit
+* 이것을 말하려고 한 건 아니었는데; i wasn't gonna tell you this
 * 기대한것 만큼은 아니었어; it wasn't as good as i had hoped
 * 봐주다; don't go easy on me!, 
 * 옷 거꾸로 입었어; you've got your shirt on inside out

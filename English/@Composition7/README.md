@@ -1,3 +1,15 @@
+* 그는 재능이 있어; he's got the gift
+* 그건 너무 비싸; thats' too steep
+* 모든 것이 들통나 버렸어; everything is all abroad
+* 그 차는 실속 있어; the car is good value for money
+* 할부로 살 수 있을까요? can i buy it on installment
+* 도움이 되어라; make yourself useful
+* 휴게소; #service area
+* 그는 고집이 세요; he is hard headed
+* 속도 위반하다; #shotgun marriage
+* 걔 실물이 더 낫니? does he look much better in person?
+* 넌 내 손바닥 ㅏㄴ이야; i know you like the back of my hand
+* 그녀에게 미련이 남아; i am not over her
 * 끝까지 가보자; let's go all the way
 * 누가 내 이야기를 하나봐; my ears are burning
 * 그들은 사귀어; they are an item;
@@ -145,3 +157,27 @@ used to tell somebody to stop smiling, etc. because it is annoying or not approp
 * 세부에는 신경쓰지 않고 만들어 보다; slap something together
 * 깔끔한; spick-and-span
 * 전도가 유망한; up-and coming
+* 함부로 말해서 미안해; #pardon my french
+* 비밀 꼭 지킬게; i will keep it to the grave
+* 잘 ~ 한다; nice going
+* 기분 풀어; #Lighten up
+* 나 아직 안죽었어; i have still got it
+* 나는 한물 갔어; i am over the hill
+* 나 뱃살을 뺴야해; i need to lose belly fat
+* 나는 3달동안 그녀를 만나지 못했어; i haven't met ther for the past three months
+* 그녀는 침대에 옷을 던졌다; she tossed his clothes on the bed
+* 환불 정책이 어떻게 되죠? what's your refund policy?
+* 저쪽에거 먹고 있는 것은 뭔가요? what are they having over there?
+* 일일 관광이 있나요? are there any one-day tours?
+* 업그레이드를 요청해도 될까요? May i request an upgrade?
+* 추가 침구를 구할 수 있을까요? May i have extra bedding, please?
+* 저는 연결 항공편을 타야 해요. i need to catch my connecting flight
+* 좌석을 어떻게 눕히나요? how do i recline my seat?
+* 안전벨트가 걸려서 빠지지 않아요; my seatbelt is struck
+* 1박에 숙박비가 얼마인가요? whats' the rate for one night?
+* 성급한 행동을 타이르다.; deprecate hasty action 미국식  영국식   단어장추가
+* 밖에서 부터 써요; just start from the outside
+* 대표 메뉴; #signature dish
+* #elevator speech; 30초~60초 내외의 짧은 시간에 끝나는 상사를 설득 시킬수 있는 스피치
+* #정어리; sardine 미국식 [|sɑ:r|di:n]
+* #tangy; 시큼한 맛

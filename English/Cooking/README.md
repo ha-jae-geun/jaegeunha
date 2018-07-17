@@ -33,6 +33,7 @@
 * #양념 flavouring: all of the flavoring just went up my nose
 * #seasoned a lot
 * #치킨; #chicken <> #chook; #양념치킨; #glazed chicken
+* 설탕 조금만 넣어주세요; Easy on sugar please
 
 # Restaurant
 * 고급 식당; an #upmarket restaurant 
