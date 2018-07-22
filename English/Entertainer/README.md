@@ -1,5 +1,83 @@
+# Entertainment
+* #감식가: #connoisseur[|kɑ:nə|s3:r;-|sʊr] 
+* #박람회; #fair; book fair
+* 걸려있다; should be #hanged
+* #출품작; #submission #entry
+* #걸작; #masterpiece, angel's #best
+* #typography: 타이핑과 관련(모양을 만들거나 아트를 만드는 것)
+
+* #calligraphy; 아름답게 글자 쓰는 것(필체, 글씨체)
+* ##자필로 쓴거? in his #handwriting?
+* #plaque #명판(名板: 사람・사건 등을 기려 이름과 날짜를 적어 벽에 붙여 놓은 물건)
+* 흉상	bust1 미국·영국 [bʌ́st] 
+* #석고	plaster
+* *	#취한 상태 	 tipsy<buzz<drunk라고도 하고, intoxicated < krunk, wasted, hammered, plastered
+* 네, 이걸 참고 하세요. 	Yes. You can look at these for information. 
+* 한 시간 후에 시작합니다. 	It will begin in an hour. 
+* 그럼, R석으로 두 장 주세요. 	Then, I'll take the two seats in row R
+* 두 시 표 있어요? 	Can I buy tickets for two o'clock? 
+* 오늘 밤 프로그램은 뭐예요? 	What's the program for tonight? 
+* 무료 안내 책자가 있어요? 	Do you have free programs? 
+* 가운데 줄로 주세요. 	I'd like a seat in the middle row. 
+* 누가 제 자리에 앉아 있어요. 	Someone is sitting in my seat. 
+* 먹을 것 좀 사 올게요. 뭐 먹을래요? 	I'm going to buy some food. Do you want anything? 
+* 중간에 쉬는 시간이에요. 	It's intermission time. 
+* 무대 인사를 할 거예요. 	They're coming out for the curtain call. 
+* 요즘 이 사람이 자주 나오네요. 	That guy is everywhere these days. 
+* 예전만 못하다고들 해요. 	People say he's not as good as he used to be. 
+* 작년에 상을 받았어요. 	He won an award last year. 
+* 보고 싶은 게 있어요? 	What movie do you want to see? 
+* 요즘 재미있는 영화 본 거 있어요? 	Have you seen any interesting movies lately? 
+* 심야 영화로 봐요. 	Let's see a late-night movie. 
+* 주연 배우가 누구예요? 	Who's the leading actor? 
+* 더빙이에요? 자막이에요? 	Is it dubbed or subtitled?
+* 영화 어땠어요? 	How did you like the movie?
+* 미안해요. 중간에 잤어요. 	I'm sorry. I fell asleep during the movie. 
+* 네, 저는 수채화를 좋아해요. Yes. I like watercolor painting.
+* #물감 #색조
+* 엷은 색조; wash
+* #칠하다 #lay on washes of colors 
+* slap something on; ~에 (물감, 페인트, 화장품 등을 쳐발르다)
+* #페인트; like watching paint dry;
+* #painted; 진하게 화장한, 얼굴에 #먹칠한
+* my new bag got ruined by the splashing paint; 더러워지다
+* 그럼 이번 주말에 우리 화랑 갈까요? 	Then how about going to the gallery this weekend? 
+* 이번 주에 제가 좋아하는 작가의 전시회가 있어요. 	There's an exhibition of my favorite artist this week.
+* 안내 책자는 어디서 받아요? 	Where can I get a brochure? 
+* 이건 누구의 작품이에요? 	Who is this by? 
+* 다빈치의 작품은 언제부터 전시돼요? 	When does the Leonardo da Vinci exhibition begin? 
+* 기념품 가게는 어디에 있어요? Where is the souvenir shop? 
+* #keep as[for] a souvenir
+* souvenir hunter; 기념품 #수집가 / 기념물 #도둑
+* 체험관은 어디에 있어요? 	Where is the experience center? 
+* 그럼, 우리 중앙공원에 놀러 가요. 	Let's go to a picnic at the central park. 
+* 식수대는 어디에 있어요? 	Where is the water fountain? 
+* 여기서 불을 피워도 돼요? 	Can I make a fire here? 
+* 어떤 것을 타고 싶어요? 	What do you want to ride? 
+* 저기 돌아가고 있는 것을 타고 싶어요. 	I want to ride that spinning thing. 
+* 제 키가 4.5피트인데, 탈 수 있을까요? 	I'm 4.5 feet tall. Can I ride it? 
+* 내일 점심은 이 앞 공원에서 먹어요. 	Let's have lunch at the nearby park tomorrow. 
+* 여기에 자리 잡읍시다. 	Let's sit down here.
+* 잠깐만요. 저쪽 그늘이 더 좋겠어요. 	Wait. A shady place over there would be better. 
+* 야영장은 어디에 있어요? 	Where are the camping grounds?
+* #야영지	#encampment
+* 쓰레기를 주워 가야죠. 	We should pick up our rubbish before we leave. 
+* 저는 빠질게요. 	I'm out. 
+* 행운을 빌어 주세요. 	Please wish me luck. 
+* 환전소는 어디 있어요? 	Where is the exchange booth? 
+* 백 달러를 칩으로 바꾸고 싶어요. 	I want to exchange 100 dollars for chips. 
+* 저 기계가 제 돈을 먹었어요. 	That machine ate my money.
+* 한 번 가 봤는데 게임은 안 했어요. 	I have once, but I didn't play anything. 
+* 스코어지와 볼펜을 주세요. 	Please give me a score sheet and a pen. 
+* 빈 게임 테이블이 별로 없네요. 	There aren't many gaming tables available
+* 저는 죽었어요. 	I'm dead. 
+* 잭팟이 터지길 빌게요. 	I hope you hit the jackpot. 
+* 돈이 다 떨어졌네요. 	I'm out of money.
+* 카드가 나온 뒤에는 베팅할 수 없어요. 	You can't bet after the cards are dealt. 
+* 칩을 현금으로 바꿔 주세요. 	I'd like to cash these chips. 
 
 # Movie
+
 * #예매율; the number in ticket sales
 * 영화 상영 안해요? Aren’t you showing pets?
 * 영화 예약 Can I get two adults and two kids for 7:30 showing of Trolls?

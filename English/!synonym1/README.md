@@ -1,3 +1,14 @@
+* Bad apple: 타인에게 폐를 끼치는 사람; to compare apples to oranges: 비교할 수 없는 것; the big apple: 뉴욕; apple of someone's eye; top banana: 중요한 인물
+* What's the temperature like today / i'm going to take your temperature
+* Scenery; 한 지역의 전체 풍경; 한 눈에 바라볼 수 있는 풍경: Landscape; 풍경화: #Landscape lapinting; 도시 경관: cityscape/townscape; 아름다운 전망: #sight
+* 얼음 없이 꽉찬 술; Vodka, straight up, please;  얼음이 없는 술로 주로 상온의 술을 병에서 직접 따라줄때: Scotch, neat please; 올리브 많이: #dirty
+  무알콜 음료; #virgin / moctail; can i get a virgin Bloody Mary; 물을 탄 위슼; Whiskey with water
+* 비행기; #lavatory; vacant <> occupied
+* Look for; 찾느 ㄴ과정에 집중; find: 찾는 결과에 집중; search; 특정 장소를 뒤진다는 의미
+* #petsonal; 개인의; #personnel; 조직의 직원, 인원
+* #trunk 1. 줄기 2. 코끼리 코 3. 대형 여행 가방; stem: 줄기; 줄기세포: #stem cell
+* #가지: #bough, #twig, 일반: #branch
+* #shoot: 1. 쏘다 2. #새싹; eat shoots and leaves
 * #get out of here: 1. 나가라 2. 말도 안돼
 * #crunchy; 바삭한; #crunky; 그저 과자 이름
 * 옷걸이; #hanger 2. 코딱지; 강아지 응가처럼 덜렁거리는 것들: hanger

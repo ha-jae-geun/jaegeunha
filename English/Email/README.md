@@ -1,3 +1,138 @@
+# Writing
+
+* ##writing 
+* 1. 주제 첫줄
+* 2. 말을 최대한 짧게 줄여서; 10자
+
+* 대제목
+* #서론
+	* we'll take it from here to talk about it
+* 	It is often said that
+* 	Many people believe that
+* 	a lot of ~ / a great number of
+* 	everyday, 
+* 	in this age of globalization
+* 	These days
+* 	It seems obvious that ~
+* 
+* #독특 서론
+* 	Have you ever wondered?
+
+* 번호판; #첫째
+* #to start/begin with, for starters
+* #primo; #첫째
+* ! #이유
+* 이러한 이유들 때문에 나는 ~라고 생각한다. For all these reasons, I think that 주어+동사
+* It seems clear that 주어 + 동사 for several reasons
+
+* @ #가정
+* #if I were to ~, I would/should/could/might
+* #assuming that = #providing that = #provided that = #if
+* 만일 ~라면 ~할 것이다 주어 + would + 동사원형 + #providing that 주어 + 동사
+* 나는 ~라고 생각한다 I #suppose 주어 + 동사
+* 나는 ~라고 가정/추측한다. I #assume that 주어 + 동사
+* ~라고 가정해보라 suppose 주어 + 동사의 과거형
+* ~라고 가정해보자 Let’s assume that 주어 + 동사
+* 만일 그것이 나에게 달려 있다면, 나는 ~할 것이다, if it were up to me, I would 동사원형
+* 만일 나에게 ~할 기회가 주어진다면, ~를 하고 싶다. if I had an opportunity to v, I would want tov
+* 만일 나에게 ~을 하라고 한다면, 나는 ~할 것이다. I I were asked to 동사원형, I would 동사 원형
+* 만일 ~가 없다면 ~할 것이다. if it were not for 명사, 주어 + would 동사원형
+* 만약 ~라면 어떨까? What if 주어 + 동사
+* 나는 ~라면 좋겟다 I wish 주어 + 동사의 과거형
+* 아마도 ~일 것이다 #Presumably 주어 _ 동사
+
+* 가정-2: #추측
+* 십중팔구 ~일 것이다: in all likelihood, 주어 + would/will + 동사원형
+
+* %문제; #확신 #명백 #의심
+* #명백하다 it is #evident that 주어 + 동사, ~는 확실하다: It is #clear that 주어 + 동사
+* ~에는 의심의 여지가 없다 There is no question that 주어 + 동사
+* #합리적 의심; #reasonalbe doubt
+* #합리적; #rational #reasonable #logical
+
+* #원인
+
+* #해결 #방법 
+* ~하는 좋은 방법은 ~이다. A good way to 부정사 is to V
+
+
+* #공통점; #찬성
+* 	I agree/disagree that
+* 	I question whether
+* 	I strongly support the idea of
+* 	In my opinion
+* 	My view on this issue is that
+* 	From my point of view
+* #관점; #Point of view
+
+* #차이점; #반대
+* however, on the contrary, on the other hand , in contrast
+* #contrary to the common beliefs
+* even though, 
+* #그렇긴 하지만; #that said 
+
+
+* ^^#장점 #이점
+* ~하는 것의 이점은 ~이다. One advantage of ~-ing is that 주어 + 동사
+
+* * #예시
+* #case in point; #유례; 좋은 예; is ~
+* that shows = that #reflects
+* For example, For instance, To illustrate
+* in particular, 주어 + 동사
+* ~을 설명하기 위해 ~하다: to illustrate, 주어 + 동사
+* 구체적으로 ~하다: In particular, 주어+동사
+* 나의 경험에 따르면 ~이다: From my experience, 주어 + 동사
+* In another case, 주어 + 동사
+* 무엇보다도 ~이다: on top of that, 주어 + 동사
+* 이해를 돕기위해 ~하다: to give you an idea, 주어 + 동사
+* I can see that 주어 + 동사 in these instances
+* There are two examples to show how 주어 + 동사
+* Not only that, but 주어 + 동사
+* Moreover / in addition, 주어 + 동사
+
+* 예시-2: #인용
+* 적절한 인용 an apt quotation 예문 발음듣기
+* 	판례를 인용하다 refer to a case 예문 발음듣기
+* 	판례를 인용하다 cite a case 예문 발음듣기
+* 	그는 종종 성경 구절을 인용한다 He often quotes passages from the Bible. 예문 발음듣기
+* 	이 구절은 그의 시에서 인용했다 This phrase is quoted[a quotation] from his poem. 예문 발음듣기
+* Studies have indicated that 주어 + 동사
+* Experts have vertified that 주어 + 동사
+* some people presume that 주어 + 동사
+* Generally speaking, 주어 + 동사
+* As we have seen, 주어 + 동사
+* The #researchers found that | A recent study discovered that
+* Through the experiment
+* According to; according to our finding
+
+* ,; #강조
+* Furthermore, In fact, actually
+* 사실은; in fact, in #reality, the fact reamins, theh fact of matter is
+* moreover
+* #게다가 #besides(초점 바꿔 보면) #in addition, #additionally
+* 더군다나 #what’s more, #above al
+
+* -> #결론 #요약
+* Therefore, SO
+* ~을 고려하면 In #view of ~, 주어 + 동사
+* ALl things considered, 주어 + 동사
+* As I have mentioned, 주어 + 동사
+* In conclusion
+* 모든 것을 고려해 볼 때 All things considered
+* Overall, 주어 + 동사
+* #대체적으로 For the most part, 주어 + 동사
+* 대체로 ~이다 #on the whole(#whole), 주어 + 동사
+* #대체로 #All in all, #across the board
+* ~외에도, 또한 ~한다 in addition to ~, 주어 + also + 동사
+* 마지막으로 중요한 것은 ~이다, Last but not least, 주어 + 동사
+* In conclusion
+* #In short/ #In belief = #in a word = #in a nutshell = #briefly speaking = to put I briefly
+* ☆#요약: #To sum up/ In summary = #for short = #for brevity's sake(#sake)
+* To summarize/#conclude, 주어 + 동사
+* #전반적으로 #On the whole
+* #As I have shown(#shown) = As mentioned above
+
 * #글머리; #bullet point
 * Adding XYZ / +Jaegeun
 * 인원수: Head count
@@ -37,3 +172,68 @@
 * 비격식: Best regards, Regards, Best wishes, Kindest regards
 * EOM: End of message; 
 * Invoice + End of month
+-----------
+* 1. 성만 쓰기 1. Dear Dr. Smith/Mr. Park 2. Hello ~ 3. Hi ~ 
+* 수신자 잘 모를 때: 4. To whom it may concern 5. Dear Sir/Madam
+
+* 2. 수신자에게 감사 인사
+* 1. Thank you for contacting ~
+* 2. Thank you for your prompt reply
+* 3. Thanks for getting back to me
+* 4. Thank you for your email of Feb 29 regarding/concerning ~
+
+* 3. 안부 인사
+* 1. I hope this email finds you well
+* 2. I hope all is well
+* 3. we hope you are enjoying the season
+* 4. I hope you are well/fineㅌ`
+
+* 4. 목적
+* 0. I am writing to express
+* 1. I am writing to enquire about
+* 2. I am writing in reference to
+* 3. I wanted to ask you if
+* 4. I was wondering if you
+* 5. I am glad to inform you that 
+* 6. i'm concerned about
+* 7. I need to bring something to your attention
+* 8. there's one more thing i'd like to discuss with you
+
+* 5. #첨부파일
+* He Sent me / With An attachment / A document / Attached Document 
+* 1. I am attaching ~ for your reference/information/consideration
+* 2. I am sending you ~ as an attachment
+* 3. please see the ~ attached
+* 4. please find attached the file you requested
+* 5. I am afraid I cannot open the file you have sent me
+* 6. Could you send it again in ~ format
+* 7. #요청한 파일 첨부 I attached the file you asked for (#requested) 
+* #동봉 #enclosed is the document you requested
+* = #included; #attached #sent with
+
+* 6. 끝맽음
+* 1. Thank you for your patience and cooperation
+* 2. Thank you for your consideration
+* 3. If you have any questions or concerns, don't hesitate to let me know = feel free to contacte me at 전화번호 / 이메일
+* 4. pleade do let me know if I can be of further assistance
+* 5. I look forward to hearing from you
+
+* 드림
+* Best regards, #Sincerely yours, Your sincerely, Sincerely, Kind regards, regards + 
+* 이름
+* 비격식: Cheers/Thanks/Take care 이름, 
+
+* 1. ! 사용 안하기(명령조 느낌, 신뢰 하락), 2. till 대신 until 사용 3.like 대신 such as 4. stuff 사용 X
+* #MSG; #message
+* #NRN; no reply necessary; 답신이 필요하지 앟ㅇ늠
+* ### #hash
+* bluewater_33-#@naver.com 			 bluewater underscore 33 hyphen or dash at
+* 답장이 꼬리 문 것: #email thread(#thread)
+* 이메일 확인해주세요 please #confirm that you rceived the email
+* respond to us immediately/promptly
+* please reply in us by return
+* #답장 Please confirm by replying to this email / 
+* #reply, #answer
+* #보충해서 답장 Could you #follow up on this
+* #답; get quick answers
+* #이메일

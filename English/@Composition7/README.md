@@ -181,3 +181,18 @@ used to tell somebody to stop smiling, etc. because it is annoying or not approp
 * #elevator speech; 30초~60초 내외의 짧은 시간에 끝나는 상사를 설득 시킬수 있는 스피치
 * #정어리; sardine 미국식 [|sɑ:r|di:n]
 * #tangy; 시큼한 맛
+* 누구 마음대로? with whose permission?
+* 전자레인지에서 사용 가능한; #microwave safe
+* 5명이에요; we are a party of five
+* 부재중이다; he is out of office = he is away
+* 자리 맡아줄래? Can you save me a seat at the library tomorrow?
+* 다이어트 하고잇니? Have you been dieting?
+* 영화 감독이 누구에요? Who directed the movie?
+* 그 영화 #특수효과가 멋지더군요; that movie had terrific special effects
+* 오늘 TV에서 모해? What's on TV tonight?
+* 양수: #positive number <> #negative mumber; 거듭 제곱; #power / #square; #지수: #exponent
+* 벽걸이형; #wall mounted; <> #standing
+* 공기 청정기 흡입; #Intake <> #discharge
+* 숨기고 싶은 비밀; a skeleton in one's closet
+* 흡연은 모든 곳에서 금지; smoking is off limits everywhere\
+* 배고파 죽겠따; i'm famished

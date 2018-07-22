@@ -1,3 +1,5 @@
+* ~하려는 찰라에; on the point of
+* ~ 하는걸 들었어; i heard him -ing
 * 한계는 없어; the sky's the limit
 * 이것을 말하려고 한 건 아니었는데; i wasn't gonna tell you this
 * 기대한것 만큼은 아니었어; it wasn't as good as i had hoped

@@ -21,3 +21,319 @@
 * 개천절: National Foundation day
 * 한글날; Hangeul Proclamation Day
 * 국회의원 선거; Election of National Assemblyment
+------
+* ☆1 hour and 30 minutes = 1 and a half hour = an houar and a half
+* ☆
+* -in/from now : -후에, 뒤에
+* *later (X) -> in / from now (O)
+* a week from now = in a week
+* a year from now = in a year 
+* 1. 아까
+* *영어에는 '아까'라는 말X
+* -ago
+* -#earlier + @ ( this morning/ this afternoon / this evening)
+* "I spoke with him on the phone earlier + today"
+* 
+* 2. 얼마전에 <- a little while age
+* *earlier this week/ this month/ this year/ this quarter
+* -----------------------------------------------------------
+* 3. 이따가
+* *in several hours
+* *several hours #from now
+* *an hour from now
+* *in 2 hours
+* *#later today/ this morning/ this afternoon/ this evening/ tonighgt
+
+* 4. 나중에 
+* *later this week / this month / this year
+* later this year : 나중이긴 나중인데 올해를 벗어나진 x
+* *some time later (나중에 언젠가는)
+* ------
+* September 30th september the thirtieth = the thirtieth of september
+* 1902; nineteen oh two, 1900; nineteen hundred, 2001; two thousand and one
+* 2010; two thousand and ten = twenty ten
+* 1981; eighty-one 2001: oh-one 1999: ninety-nine
+* ------
+* 시간 앞에는 at, 날짜 및 요일 앞에는 on; on July 24th, 연도 및 월 앞에는 in
+* 영업시간이 어떻게 되나요?	What hours are you open
+* ##달: 제‘뉴어리, 페’부에리, 말취, 에‘이프럴, 메이, 주’운, 주‘울라이, 어’거스트, 셉템‘벌, 악토우벌, 노벰’벌, 디셈‘벌
+* 
+* ~할 시간이야 						 It's time for 명사, It's time to V
+* 몇시가 좋아? 						 What time would be good for you?
+* 시간이 #약이다 Time heals all wounds, Time will take care of everything
+* 시간에 쫒기다, 시간을 다투다 be pressed for time, fight/against the clock
+* 시간을 ##때우다 I don’t know hot to #kill time ; it's fun to #pass the time
+* 시간을 내다; #squeeze; if you could squeeze me into your busy schedule
+* #연대기 순으로 #in chronological order = in the #annals of human history
+* #chronicle; #연대기
+* 시간 없어 							 ain't nobody got time for that
+* 시간 엄수 #punctuality
+* Time is of the #essence
+* 시간을 잘 지키는 							 punctual person
+* be #punctual
+* 시간 전에 맞추다; #beat the clock; #clock
+* 정확히 시간 맞춰서 				 on the #dot; be there at 8 on the dot
+* 날짜를 ##정하자 								Let’s set a date
+* 시간 언제 괜찮아; when is the good time for you?
+* 시간아 빨리가라 						I hope time goes by by fast
+* 시간 잘못봤어 I got the time wrong
+* 걱정 마 딱 여덟 시 정각 맞춰서 도착했어 Don't worry I arrived at eight on the dot
+* #며칠 전; #the other day; I had dinner
+* *in: 미래  #later: 과거 이야기; later I returned
+* 그날 #이후; #from that day forward; #forward
+* 그땐까진									 until then
+* 시간이 안가 		Time is really dragging! = time is #crawling = hot time drags
+* 1시간; #in an hour
+* at the weekend, at night, at christmas, (at the moment, at present): 현재, at the same time, at the end of January, at first at
+* 월요병: Monday blues 수요일: hump day(가장 힘든 날, 혹은 일주일 중 중간 이 두 의미를 )
+* 오늘 아침에 커피마셨어 						 I had coffee this morning
+* #다음날; #the following day #tomorrow #the next day
+* #모래; #in two days #the day after tommorw
+* #보름마다; #every two weeks = #every other week = #twice a month
+* #일주일 내내; #all week; 이번주 일주일 내내 all week this week = all this week
+* 이번주에; this week -> #last week
+* #평일에; #on weekdays
+* 평상시 #주말에; #On weekend
+* 주의 초반; #earlier in the week #mondday #tuesday
+* 주의 #중반; #middle of the week = #wednesday
+* 주의 후반: #later in the week = thrusday and Friday
+* #주말; weekend
+* whid did you do on the weekend
+* how was your weekend
+* #주 5일; week days; #five days a week # Monday through Friday
+* 몇 개월: many months 보다 months를 늘어뜨려서 말함으로써 강조
+* #달 ##month: 그달의 직원 employee of the month
+* 작년 8월 July of #last month
+* 몇 달 전에 a couple (of) months ago
+* #연휴 										 long weekend
+* it’s a three day holiday
+* #수년동안; #over the years; #over the past few/숫자 years; 지난 몇 년에 걸쳐
+* #10년도 넘었으니까 				 In over a #decade I dropped an album
+* #10년; a #decade = #ten years
+* #20년; #scroe #twenty
+* #for one #additional year
+* #매년마다; #annually #every year #once a year
+* 1년 넘게 									for over a year
+* 1년 내내 #throughout the year
+* #2년에 한번; #biennial; #biannual
+* #centennial; #100년의
+* #100; #hunnid;(랩퍼들 사이에 #hundred) bands; #백달러 지폐
+* #연간 생산량 #annual output
+* #세기; #centuries old
+* #천년 주기 #millennium; around the #turn of the millenium
+* 2달; the month after next
+* ##주
+* 격주 								a fortnight's holiday예문 발음듣기
+* #every other month/week/day/year/time(2번에 한번)/hour; 2시간/second/2초/international students(하나 걸러 하나)
+* 주에 3번 								 three times a week
+* 2주에 한번 									every other week
+* 2주뒤; the week after next
+* 2주간은; for the first two weeks / couple days / #ten days
+* 6주간 								 Another 6 weeks
+* 다음주:										 Next week, 
+* 다음주 목요일
+* This Thursday: 오늘부터 7일 전까지 그 사이의 목요일
+* Next Thursday 'θ3:rzdeɪ영어에서 Next Thursday는 7~14일 뒤의 목요일
+* 같은 요일 입장에서는 this ~는 오늘을 의미하는 거고 다음주가 next ~가 다음주를 의미하는 것 
+* #이틀동안 						for a couple of days, every other day
+* #모래; the day after tomorrow
+* #그저께; the day before yesterday
+* 2박 예약할 수 있어요? ##박			 Can I make a reservation for two nights?
+* 몇 박 며칠 가는데? For how long? ; 5qkr 6dlf i'm going for five nights
+* 하루 걸러 									every other day
+* #조금 전에요 #좀전에요	Just before, a few minutes ago
+* #이따가 							in a few minutes, in a little while
+* #겨울이 성큼 #다가왔다. 							 The winter is upon us.
+* #곧 크리스마스야.							Christmas is coming up. 
+* 곧 #생일이야 						 My birthday is just #around corner.
+* 늦었지만 생일축하해; happy #belated birthday
+* ‘생일 일찍 축하해							 ‘Happy early birthday!
+* 나 2주 뒤에 여행가 				 I’m going on a trip in 2 weeks. ~안에: within
+* 시간에 쫒기다 we be pressed for time, 시간 제약: time constraints, 시간을 다투다> fight for the clock
+* 추수감사절이 일주일 남았어 						Thanksgiving’s a week away
+* #다가오다 #come #남다
+* #impending; impending doom; impending disasater, 임박한 종말
+* no sense of #impending doom
+* be edge/verge of; -> get around it
+* #imminent; death
+* ##임박
+* 처음 30분/10초 								 first 30 minutes/seconds
+* #30분: one half hour
+* 5분동안 ~밖에 안하고 있어						 for last five minutes
+* 3분 안에 ~ 만들었어 				 We made this in under/within three minutes
+* ~할 시간이 없다 							 I can't find time to v
+* 시간이 얼마 남지 않았다. one's days are #numbered
+* 시간 있으세요? do you have time? Can I see you? Can I talk to you for a minute? Do you have a minute?, I would really like to have a moment of your time | Can you spare some time for me?
+* Can we talk?, Can I talk to you?
+* 시작한지 30초밖에 안됐는데 					 We're only thirty seconds in
+* #표준시간대; select the #timezone of the Start Date
+* *#as time goes by, its ‘going to get better
+* ##분 ##초 ##시간
+* #ish; anyway, 7ish; 정각 아무 때나 좋다
+* ##정각
+* ■ [minutes] 복습
+* ○ Oh, that bus comes only once every 20 minutes (아, 그 버스는 20분마다 겨우 한 번 오는데요)
+* ○ Uh huh, it comes every 6 to 8 minutes (네, 6분에서 8분마다 오거든요)
+* ■ [minutes] 예전 문장 복습
+* ○ The airport shuttle bus is the best way. It runs every 15 minutes (공항 셔틀버스가 제일 나아요. 15분마다 운행되거든요) 
+* ○ Can I turn it off in 10 minutes? (10분 후에 꺼도 될까요?)
+* ○ I let him off his leash a couple of minutes age (몇 분 전에 목줄을 풀어줬어요)
+* ○ It took me 10 minutes to reheat the leftovers (남은 음식 데우는데 10분 걸렸어요)
+* ##minute
+* ● How late do those subway trains run? 거기 지하철이 몇시까지 운행이 되나요?
+* ● How late is the shop open? 몇시까지 가게 여세요?
+* ● How late do you work every day? 몇 시까지 일하세요?
+* ● How late do you study English every day? 하루 몇 시까지 영어공부 하세요?
+* ##몇 시
+* 세 시간, 길어야 네 시간입니다. 						 Three, four hour tops
+* #길어야
+* ☆스케줄이라는 말 잘 안씀; ☆i have a lot of things to do on my schedule
+* 스케줄이 꽉차다; my plate is full; i've got a full #plate
+* I can adjust my schdule to accommodate you; I can #arrage my schedule around yours
+* what time works best for you? / Just let me know when and where and i'll be there
+* 미국에서 스케줄은 바쁘든 안바쁘든 하루 일과를 물어보는 것임(뒹구는 것 같이)
+* -> 진짜 스케줄 확인 						 how's your schedule today?
+* What's your schedule like tomorrow,What's your schedule look like next week
+* do you have a busy schedule on Friday?
+* 귀하의 시간이 허락되신다면; if your #schedule permits
+* 스케줄 대답 			 I have a hectic/busy/light(바쁘지만 여유)/open(여유) schedule
+* #날짜를 바꾸고 싶다; I would like to change the date of ~
+* 스케줄을 넣다; #i'll put you in our calender for ~
+* 스케줄 당기다; #move up; I should move up the meeting
+* ##스케줄이 밀렸어! 							 I'm behind schedule.
+* 시간을 내다; #squeeze; if you could squeeze me into your busy schedule
+* 스케줄일 빡빡하다 						 run tight on schedule
+* on a tight schedule; we've got a killer schedule
+* #벅찬 스케줄; #busy #demanding schedule
+* 그날 안될 것 같아; I can't make it that day/time
+* 내가 스케줄보다 앞서 있는거랍니다				 .I'm ahead of schedule.
+* 그리고 스케줄에 딱 맞추어서 진행이 되기도 합니다.			I'm on schedule. 
+* 일이 많이 밀리다 					 I'm lagging behind all my work
+* #behind on my #bills; i’m just a little behind on my bills
+* #밀린일; #backlog
+* 밀린 이야기; we did a lot of #catching up
+* #밀리다
+* on and off = off and on
+* #때때로
+* As the years #passed
+* 이 또한 지나가리라							 This too shall pass
+* #지나간 일이다; 알아요. 하지만 이젠 돌이킬 수 없어요. 	I know. But #what's done is done. 
+* a #bygone age/era 
+* #시간이 빨리 지나가다:					 ‘ӕroʊ #Time flies like an arrow
+* Time has #flown, Life is #fleeting, Time #marches on
+* I didn't realize it was so late
+* #시위행진; he marched on washington
+* #march on 1. 빨리 지나가다[움직이다]
+* 2. (시위·공격하기 위해) …로 행진하다
+* 지나던 길이었잖아 							 we're driving past
+* 유통기한 지났어								this is past the due date
+* #지나가다
+* 우리 예정대로 잘 진행되고 있는거 같아요. 			 I think we're still on schedule.
+* ~이 될 예정인, ~할 #공산이 있는; #In line for = likely to get = #destined for
+* #예정
+* 당분간 				#for the moment/#present, #"for now", at least, for the being
+* #for the time being #당분간
+* 당분간, #일단 						 #"for now", at least, for the being
+* 지금은 상처를 물에 닿지 않게 하렴 		 Keep the wound away from water for now 
+* #for now
+* 첫 인상에 두 번째 기회는 없어요 	You never get a second chance to make a first impression
+* 주말 다 망쳤네 혹은 주말 다 갔네. 또 주말 다 날아갔네 			 There goes my weekend!!
+* #주말
+* 연휴에 뭐해요? 				 What are you doing over the holidays / holiday seasons.
+* #연휴
+* when to V
+* 언제부터 그를 알았는데? #since when do you know him?
+* ##always: 
+* 1. 주어 + always + do 동사 2. 주어 + be동사 + always 3. 주어 + have + always + 과거분사
+* always, every time, invariably - 항상, 변함없이 <-> seldom - 드물게, 좀처럼 ~않는
+* 모든 순간 					 every moment, the whole time, all occasions
+* #변함없이; #Through thick and thin
+* 그 가게는 #항상 열려있다				 	 The store is open 24/7. (twenty four seven)
+* 매번 								 all the time / every single time
+* 매일 					 every single day, #day in and day out
+* #on a daily basis
+* 버스는 항상 #만원이야 						 The bus is full all the time
+* 항상 잘되라는 법은 없어 							 You can't win them all.
+* 좋을 때나 안 좋을 때나[어떤 고난이 있어도				 through thick and thin
+* 언제라도 돌아올 것이다 	 Your father should be back from his interview any minute now
+* 언제부터 ~하는데? 						 since when do you exercise?
+* how long has this been going on?; #언제부터 이랬어
+* #언제까지; #by that time should I check in
+* 언제 #밥 한번 먹자 let's hang out #sometime
+* ###일상적으로 일어나는 일이에요 it's a #daily occurrence.(#occurrence)
+* #늘 일어나는 일이네; #all in a day's work
+* #매일; #day after day
+* #시종일관; #Thick and thin
+* #all the way through; I read part of it allt he way through
+* #항상 #매번 #매일 #언제라도 | #시종일관
+* just then: 자체 아까, back there
+* 아까 누구랑 얘기한거야? 					 Who are you talking to back there?
+* #아까
+* lunar calendar 음력 solar calendar
+* #음력 #양력
+* Days of the week
+* Mon. Tue./Tues Wed./Weds; #hump day Thur. / Thurs Fri Sat. Sun.
+* 다시 월요일이야, 나 월요병 생겼어 			 It's Monday again, i'm having Monday blues again,
+* 월요일 아침에 30분 시간 돼. 		 I’m (free for, available) for half an hour on Monday morning. 
+* 금요일은 on 생략 Friday morning I have half an hour free on Monday morning. 
+* #불금; last Friday was fire
+* #월요병 #요일
+* ##between 2개; #among 3개 이상
+* in the middle of 명사/동명사
+* #midst; in the midst of ~
+* 일하고 있는 중이야						 .I'm in the ##middle of working.
+* 과거의 일을 다시 체험하다 					 reliev the past/those moments
+* #중간급의 #mid-range
+* 식사 중간에 뭐 먹지 마라 					 Stop eating between meals
+* 우리는 #중간정도 했어요 					 1hӕf2weɪ We're halfway through.
+* #중간형; 중간형 (semi-detached) 프로젝트
+* #오늘 중으로 끝내세요. 						Finsih them by the end of the day
+* #중개자 	 [|ɪntər|mi:dieri] Financial institutions act as intermediaries between lenders and borrowers.
+* #중개인 #broker
+* #중개업; brokerage 미국식 [|broʊkərɪdƷ] 미국식 발음듣기 영국식 [|brəʊkərɪdƷ] 영국식 발음듣기 단어장추가
+* [명사] 중개업 a #brokerage firm/house 중개 회사/중개소
+* brokerage (commission); (증권·금융) 거래수수료(중개수수료).
+* #도중에; #en route - (어디로 가는) 도중에
+* #구간; #기간; #stretch; #time frame
+* ##중 #중간 #사이
+* #사전에 beforehand
+* #현상태 #status quo
+*  #현상; #Phenomenon -> #phenomena; 복수; 여러가지 현상
+* present 			 형용사 [|preznt] 형용사 명사 [|preznt] 명사 동사 [prɪ|zent]
+* #전에; previous, former, old, prior, before, once
+* [prilímǝnèri/-nǝri] #preliminary interview
+* 옛날에는 어떻게 살았는지 몰라				 How did they live back in the days? 
+* 너 정말 #구식이야						 You're a stick in the mud. 
+* 구식의; #behind the time
+* 문제없다면 저는 양복 차림이 편해요. #옛날 스타일이시네요. 
+* I'm comfortable in a suit if it's okay. Old school. 
+* *구식 We're outmoded, 'Old fashioned, Out dated'
+* ‘옛날에 									 back in the day
+* ‘옛날 옛적이잖아 							 That is ancient history
+* ‘옛날 생각 나네							 Feels like old times
+* 걔는 이미 지난일이야.							 He is history to me.
+* 옛날이 좋았지! 그때가 좋았지! 						 Those were the days!!!
+* #파란만장한 과거; #checkered past; despite your checkered past
+* 우리 사이 일은 다 지나간 일이에요.		 It's #water under the bridge between us.
+* 과거를 들추지 말라.. 						 Don't bring up the past!
+* #과거; the past is in the past; past is just past
+* #끄집어 내다 ##bring out the worst in someone; 나쁜 면을 보여주다
+* 올 한해 마무리 잘해~!						End this year on a good note!
+* I hope you finish the year stron,g I hope you enjoy the rest of the year
+* 10년 후에는 어떻게 세상이 변할지 궁금해 I'm wondering what the future will hold in 10 years for us
+* 미래가 #캄캄하다 I have a #bleak future
+* 미래가 어ᄄᅠᆯ지 궁금해 I wonder the future #holds
+* 앞으로 어떤 일이 일어날지 모른다. 		 You never know what might happen down the road
+* 바로 앞에 있잖아 							It's right under your nose.
+* #장래에 #down the road(#road); drive down this road(운전); that's down the road(나중에)
+* 미래 #앞으로
+* #현재 #지난 #과거# ##전# #구식 #옛날 스타일 #옛날 #미래 #올해 | #들추다
+* 형용사: #prior, #previous #former
+* 전치사구; #prior to, #previous to, #ahead of #before #earlier than #in advance of
+* 부사: in advance, #ahead, #formerly, #previously
+* #이전에
+* #전진; (move) #Onward; #Move onward
+* 앞으로 어떤 일이 일어날지 모른다. 			 You never know what might happen down the road
+* #장차 어떻게 될지는 생각하지 않다; #take it one day at a time; we're just taking it one day
+* #bright future
+* #미래 #앞으로

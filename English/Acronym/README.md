@@ -99,6 +99,8 @@ One O one- point nine FM
 * #IOW; in other words
 * #IRL 									 In real life ; 현실에서는
 * #IMA #IMMA 									 I'm going to
+* #L4L; Like for like; 좋아요
+* #LYMYMI; Love you, Miss you, Mean it; 럽스타그램
 * #MSG; #message
 * #NRN; no reply necessary; 답신이 필요하지 앟ㅇ늠
 * #inc 								 incorporated ɪn ' kɔ:rpəreɪtɪd 
@@ -124,6 +126,7 @@ One O one- point nine FM
 * #merc = #mercenary = #용병
 * #MILF: 						 Mom I like to fuck: 나이 많은 * 사람 좋아하는 것
 * #McMorning; 믹모닝
+* merc 미국·영국 [mə́:rk,mə́:rs]; 용병;  mercenary
 * #MIA missing in action; #실종, #연락두절, He's usually mIA
 * #N/A 								 Not Applicable; 해당사항 없음
 * #NAS National sercurity Agency; 국가 안전 보장국
