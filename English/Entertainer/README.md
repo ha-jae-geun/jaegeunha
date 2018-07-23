@@ -266,3 +266,57 @@
 * #표정 연기; I don't want to miss the #facial expression
 * *#열연을 펼치다 give a passionate performance
 * 다양한 #캐릭터를 연기하다 play many different character types
+----------------
+
+
+# 공원 (park, resort area) #놀이공원	
+
+* #pavilion pə‘vɪliən: 공원 안의 쉼터・공연장
+* #대관람차; #ferris wheel
+* #바이킹; #pirate ship
+* #범퍼카; #ice go-carts
+  * My front bumper is damaged
+* #유령의 집; #haunted house
+* #유령 apparition 미국·영국 [|ӕpə|rɪʃn]; #투명; disapparition
+* #반투명; #translucent 미국·영국 [trӕns|lu:snt;trӕnz|lu:snt] 
+* 놀이기구 타자.	Let's go for a ride.
+* 걸어가다	cross,walking, wtrolling, approaching, heading
+* 길이 놓여있다.	lead path / run + path: 
+* 시소	seesaw
+* 식수대	water fountain
+* 소풍가다	go on a picnic
+* 세발 #자전거									 ‘traɪsɪkl tricycle
+* 접이식 자전거; #foldaway bike
+* #넘어지다 I fell off my bike
+* [명사] (두 명이 앞뒤로 탈 수 있는) 2인용 자전거 			 tandem bicycle
+* 자전거에서 균형을 잡다. 						 balance on the bike | 
+* 균형잡다, 브레이크, 손잡이 				 find the balance, brake, handlebars
+* 자전거 타고 통과한다 					 He's biking through thailand
+* 앉은 상태에서 발끝이 땅에 닿을 정도가 적당합니다. 
+* You should touch the ground with the tip of your toes while seated
+* #자전거
+* 1984년 #스포츠 바이크 								 GSXR시리즈
+* ##오토바이
+* 네가 술래야 Tag, you’re it ; Let’s play tag
+* Eeny, Meeny, miny, moe; 이니, 미니, 마이니, 모 catch a tiger by the toe
+* if he #hollers let him go Eeny, Meeny, miny, moe;
+* #숨박꼭질 #hide and seek
+* #얼음땡; play #freeze tag
+* #술래
+* 장애물을 오르다	climb on the bars
+* 축구장	soccer field
+* 자전거 전용 도로	bike path
+* 줄넘기	jump rope
+* 놀이 기구	ride
+* 롤러코스터를 타다	ride a roller coaster
+* 수레를 끌다	pull the wagon 'wӕgən
+* 자전거 타는 사람	cyclist 'saɪklɪst
+* #회전 목마를 타다.	ride a merry go round carousel [|kӕrə|sel]
+* #get off a ~
+* #돗자리	(grass/rush/straw/wicker) mat
+* #도시락; 내가 도시락 싸갈게	I'll pack a picnic
+* Get #packed lunch
+
+
+
+

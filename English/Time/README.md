@@ -22,6 +22,131 @@
 * 한글날; Hangeul Proclamation Day
 * 국회의원 선거; Election of National Assemblyment
 ------
+* #기념일 #국경일 기념일: #red-letter day; #national holiday
+* #centenary [sen|tenəri]
+* #wedding anniversary, #school anniversary, 100days, #1주년; #first anniversary
+* Celebrate #anniversary yearly
+* #이벤트; planned a #surprise event
+* #발렌타인 데이 #Valentine's Day
+* ㆍwill you be my #valentine? 초콜릿 주고 받자
+* ♣#St. Patric Day♣
+* 오늘은 '녹색'으로 대표되는/상징인 St. Patric Day입니다. St. Patric은 AD (385~461)년에 활동한 천주교/기독교의 수호성인인데요. 제가 이런 내용을 올리는 이유는 요맘때가 서양에서 Feast 축제의 시간 + 민족별/종교별/가족별 결속의 기간이라는걸 말씀드리고 싶어서 입니다. 그런 문화를 아는 것도 중요하거든요. '맥주의 날'로도 알려진/약간은 변질(?)된 아일리쉬의 St. Patric 데이와 다음주로 이어지는 Easter부활절까지, 서양문화의 흐름과 소비패턴을 아시는 것도 영어공부에 굉장히 중요할것 같단 생각입니다. 서양의 문화나 기념일을 알기위해 반드시 알아야할 상식이 있어요. '그레고리력' 이라 불리는 AD와 기원전으로 불리는 BC입니다. 이 구분 기점에 Christ의 탄생이 있죠. 그래서 [B.C = 기원전 = Before Christ = 예수의 탄생 전]으로 이해하시면 됩니다. 
+
+* #썸머타임 #세이빙 타임 Spring Forward and Fall Back”
+* 외국에는 썸머타임(Summer Time)이 있어서 시간을 앞당기기도 하고 뒤로 미룬다는 이야기를 들어보셨죠? 썸머타임 외에도 데이라이트 세이빙 타임(Daylight Saving Time)이 있는데 이 둘의 같은 점과 다른 점이 무엇인지 설명해 드릴게요. 
+썸머타임과 데이라이트 세이빙은 기본적으로 같은 표현입니다. 해가 늦게까지 떠있는 계절 동안 아침 한 시간을 일찍 시작하고 저녁 한 시간을 늦게 마감한다는 의미의 단어입니다. 
+썸머타임(Summer Time)은 유럽에서 쓰이는 표현이고, 데이라이트 세이빙 타임(Daylight Saving Time)은 미국에서 쓰이는 표현입니다. 
+미국인들은 데이라이트 세이빙 타임이라고 길게 사용하기 보다는 데이라이트 세이빙이라고 표현하거나 Daylight Saving Time의 약자를 사용해 DTS라고 사용합니다. 
+이러한 시간제도를 사용하는 이유는 하루를 일찍 시작함으로 저녁시간에 사용되는 전기를 절약할 수 있기 때문입니다. 반대입장에서는 오히려 낮시간에 에어컨 등에 사용되는 전기의 소모량도 적지 않다고 주장합니다. 
+유럽의 썸머타임은 3월의 마지막 일요일 새벽 1시를 새벽 2시로 한 시간을 앞당기면서 시작되고 10월의 마지막 일요일에 새벽 1시를 자정으로 1시간을 뒤로 늦추며 끝납니다. 
+(유럽의 지역에 따른 시간차이가 있습니다.) 
+미국의 데이라이트 세이빙 타임은 3월의 두 번째 일요일에 새벽 2시를 새벽 3시로 한 시간 일찍 조정하면서 시작되고 11월의 첫 번째 일요일 새벽 2시를 새벽 1시로 조정하면서 끝이 납니다. 봄에는 한 시간 일찍 앞으로, 가을에는 한 시간 뒤로 조정한다고 하여 영어로는 “Spring Forward and Fall Back”이라고 표현합니다. 
+일년에 두 번씩 시차 적응을 해야 하는 탓에 썸머타임과 데이라이트 세이빙 타임이 시작될 때는 깨어있기 위해 커피를 평소보다 많이 마시는 사람들도 있습니다. 
+그리고 이 기간에는 교통사고에 특히 유의해야 한다고 합니다. 
+여행을 가지 않아도 시차적응을 해야하는 유럽과 미국의 썸머타임과 데이라이트 세이빙 타임 기억해 주세요. 
+
+* #미국 
+* ☆#부활; #rise from the ashes
+* #부활절 (easter)
+* 영국에는 부활절에 부활절 egg 먹음(초콜릿으로 된)
+
+* #성촉절; 주의 봉헌 촉일 #Groundhog day; 겨울잠에서 깨어난 groundhog이 자기 그림자를 보고 놀라 다시 동명산태로 들어가 봄이 늦어진다고 함
+
+* 아기 100일, 돌, 성년의 날 
+* the one hundredth day, one’s first birthday, coming-of-age celebration
+* 16세, 19세, 성인식 		 sweet sixteen party, legal drinking age, rite of passage
+* 칠순 잔치 영어로는 						 one’s seventieth birthday
+* #세계인의 날 									 Together Day
+* #식목일; #arbor day
+* #광복절; #liberation day
+* #스승의 날 					 Teacher's Day Teacher appreciation week
+* ##설날 Lunar new year's day; is one of the biggest holidays in korean
+* #윷놀이; toss in the air
+* *어른들게 세배해 						 We bow to the elders
+* #세배; #new year's bow
+* #세뱃돈; new year's allowance/pocket money/cash gifts
+* #중국 설날; #spring festival
+* #신년을 맞이하다; #ring in the new year!
+* 여러분의 #새해 각오는 무엇인가요? 			 What are your new year’s resolutions?
+* #craft a new year's resolution
+* Are you #sticking to your New Year's resolution? Are you abiding by your word = are you keeping your oath
+* *Happy new year, Merry christmas and All the best in a New Year(크리스마스와 새해 인사 같이하기도 함)
+* #성년의 날 								 Coming-of-Age Day
+* *#성인식 coming of age ceremony
+* #근로자의 날 								 Labor Day(근로자의 날)
+* #어린이날 									 Children's Day
+* #어버이날 									 Parents' Day
+* 5월 둘째 일요일 어머니의 날 							 Mother’s Day
+* 6월 3번째 일요일 아버지의 날							 Father’s Day
+* #석가탄신일 							 ‘bʊdə Buddha's Birthday
+* ##현충일 Memorial Day 현충일 the National Cemetery 국립묘지
+* #만우절 									April Fool's Day
+* #overcommit; = #overpromise 필요 이상으로 #공언하다
+* be full of it; 누군가가 틀렸거나 진실을 말하지 않다
+* #연막 작전 #blow smoke(smoke)
+* #blow smoke up someone's arse/ass; #빈 말을 하다, #영혼 없는 칭찬을 하다
+* 거짓말; #falsehood
+* 새빨간 거짓마;ㄹ #lie through one's teeth
+* #뻔뻔한 거짓말; barefaced liar; #barefaced cheek; #뻔뻔한 짓; barefaced #impudence; #철면피
+* obvious lie; 뻔한 거짓말; 
+* 거짓말하다 #talk big, #exaggerate
+* 거짓말에 속는 사람 					 푸아송 다브릴 [pwasɔ̃] (Poisson d'avril)
+* #허풍쟁이야 							 loud mouth; he is loud mouth
+* #talk through your hat(#hat)
+* 허풍 중 하나 another one of his #whoppers
+* #고자질쟁이 								 tattletale(수다쟁이)
+* 고자질하다; #snitch(명사도 됨) = #tattle (on)
+* #팔아먹다; sold someone out; #sold out
+* 난 정말 #거짓말은 못해. 				 ‘hoʊpləs I’m pretty hopeless at lying.
+* #hoax
+* #crying wolf; 거짓으로 소동을 부리다; you've been crying wolf
+* 머리에 침바르고 거짓말해라; #Lick your lips before you lie
+* 밥먹듯이 거짓말하네								 lies like a rug
+* 상습적인 거짓말쟁이 #compulsive liar
+* 가끔 헛소리를 지껄여								 talks bullshit
+* #뻥까고 자빠졌네. 							 You're full of shit
+* 너 # 허풍치는거지. 						 You're bluffing. He's a big talker.
+* (뻥치지마 								 stop pulling my leg
+* 거짓말 하는 것을 잡아내다; catch someone in a lie <> got caught in a lie
+* #사기꾼이네 							 He's a #hustler = #charlatan
+* #trickster
+* #협잡꾼; #모리배; racketeer 미국식 [|rӕkə|tɪr] [명사] (못마땅함) (부정한 방법으로 돈을 버는) 
+* #fraudulent advertising [형용사] 사기를 치는[치기 위한]
+* #typosquatting; 유명한 웹사이트의 스펠링만 다르게 하여 하는 사기
+* ‘사기 			#deceit, fraud, swindle, confidence game[trick], (informal) con, (informal) scam
+* #감언이설로 꾀다; #snow job; it's just a snow job
+* #부정행위 #짓궂은 장난, #속임수 						Monkey business
+* #saucy; #성적으로 #짖궃은; do something saucy
+* 우스꽝스럽거나 정직하지 못한 속임수 Shenanigans(슈내니건스)
+* #기만 #부정직한 #deceitful 미국·영국 [dɪ|si:tfl] ; ##deceit (←deceitful) 미국·영국 [dɪ|si:t]
+* 기만적인; #treacherous
+* ‘부정한 #거래가 있었다						 there was some #funny business 
+* ‘부정행위 하다 걸렸어요 								 He got busted
+* 나는 어떠한 속임수가 있다는 것을 알아차렸다. I knew there was going to be some monkey business
+* 우리가 싸울 때 그는 계속해서 반박했다(핑계를 댔다)
+* ‘kɑ:ntrə2dɪkt He kept contradicting himself when we were arguing 
+* 무슨 핑계를 댈건데?						 What's your excuse? 
+* 핑계대지마 								 No buts about it
+* #put on; don't puu it(that) on me
+* #핑계
+* #할로윈 
+* 현관에 불이 켜져있으면 장난을 쳐도 된다는 뜻
+* 호박 조명 									 jack-0'lanten
+* 사탕 주면 괴롭히지 않겠다. 							 Trick or treat.
+* Trick or trea. Smeel my ffeet. Give me something good to eat
+* 무슨 #분장할 거야? 				What costume have you decided to wear for it?
+* #좀비 분장할거야 					 I’ll dress up as zombie for halloween
+* #소품, 방퀴 쿠션 						 wu:p props, whoopee cushion
+
+* #thanksgiving day <> #friends giving 항상 11월 4째주 목요일
+* ㆍ#가족 모임 #family get-together; #family gathering
+* ㆍ칠면조를 많이 먹음, mash potatoes, green bean 캐서롤, salad, sweet potatoes, 호박, 피칸파이
+* ㆍ가족들끼리 모여서 게임하고
+* ㆍ크리스마스도 아닌데 크리스마스 장싞도 많고 
+* ㆍ풋볼시즌이라 풋볼 경기도 많이 봄
+* ㆍ이날 기념 세일도 많이 해서 몇 시간 전부터 기다림
+* ㆍ#cyber Monday, cyber week 그 다음주 월요일날 할인 엄청함
+------
 * ☆1 hour and 30 minutes = 1 and a half hour = an houar and a half
 * ☆
 * -in/from now : -후에, 뒤에

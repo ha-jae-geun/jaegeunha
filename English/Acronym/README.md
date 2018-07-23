@@ -189,3 +189,62 @@ One O one- point nine FM
 * #YOLO 								 한번 해봐 You only live once!!
 -> #seize the day = #carpe diem
 * #YTML						 나한테 고맙다고 할걸 You'll thank me later!!
+------------
+
+# 채팅 용어#
+
+* #IDK #404
+* I don't know
+* #TMR 
+* tomorrow 
+* #TNXS 
+* thanks 
+* #CU
+* see you 
+* #HAND 
+* Have A Nice Day.
+* #TTYL 
+* Talk To You Later
+* #B2W
+* Back to Work.
+* “일하러 가야 돼
+* #FML!
+* 주머니에서 펜을 꺼냈는데 잉크가 옷에 튄 상황. 누굴 탓할 수 없을 때 외치는 한 마디입니다.
+* Fuck MY Life!의 줄임말이에요. 욕을 한다기 보다는 짜증 섞인 감정을 표현하는 말이죠.
+
+* #YOLO!
+* You Only Live Once
+* 너는 오직 한 번 산다.”라는 뜻으로
+* “현재를 즐겨라.”와 일맥상통하는 말입니다.
+* #BRB
+* Be Right Back! 
+* “기다려 곧 올게!”라는 이라는 의미로 채팅에서 유용하게 쓰이는 표현입니다.
+* 잠깐 자리를 비울 때 사용하기 좋은 말이죠~
+
+* #A/S/L!
+* 이건 인터넷 채팅에서 처음 만난 사람에게 쓰는 표현입니다.
+* Age/Sex/Location 즉 “나이, 성별, 지역을 밝혀.”라는 메시지입니다.
+* loʊ‘keɪʃn
+* #LOL
+* Laugh out loud. ‘크게 웃다, 박장대소하다’라는 의미죠. Loooool o를 많이 붙이는게 ㅋ 역할
+* 더 정확히 말하자면 ㅋㅋㅋ 세 번 말고 ㅋㅋㅋㅋㅋㅋㅋㅋ 이 정도로 웃길 때 쓰는 말입니다
+* lɑ:f laʊd
+* 혹은 HAHAHAHAHAHAHAHAHAHA
+* #əm 
+* 엠(비격식) 동의어 them 
+* #PIMP
+* 바지에 오줌 쌌어--> 걱정이야 ex) Don't pee in your pants. 걱정마 (Pee In My Pants)
+
+* #KKK Okay, okay, okay 이런 뜻, 혹은 ku klus klan; 남북 전쟁후 미국에 생겨난 백인우월주의적 극우비밀조직
+* #^^ :) smile표현 외국은 입모양을 강조
+* #tbh
+* To be honest
+* #aka
+* also known as: ~라고도 알려진
+* Antonio , aka 'Big Tony' 빅토니라고도 알려진 안토니오
+* #XD
+* 사람이 웃는 모양
+* #STFU
+* Shut the Fuck up 닥쳐
+* 나는 조금도 개의치 않는다[전혀 상관없다]. 						 IDGAF
+* (I Don't Give A F*ck (also seen as I Do Give A F*ck)) 

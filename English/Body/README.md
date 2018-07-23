@@ -1,3 +1,137 @@
+# 머리
+* #머리 : 길이 > 스타일 > 색깔: has
+* #바리캉 						 Hair clippers, electric hair clippers
+* #헝클; #뒤얽힌; #snarly
+* 번 머리; she has dark brown hair that is pulled up into a #bun
+* 포니테일; she has brown hair that is in a #ponytail
+* 등의 가운데로 내려오다; go down to the middle of her back
+* ##이 louse[laus], lice[lise]
+* #두개골 #cranial index (인류) 두개[두골] 지수
+* 머리아파 				 머리가 지끈거려 I have a (throbbing) headache.
+* My head is pounding(욱신),I have a migraine(편두통)máigrein, I'm dizzy
+* 머리가 #쭈뼛쭈뼛						 That new horror movie is hair-raising. 
+* #두통 I have a throbbing headache, my head is pounding, I have a migraine, I have a severe headache
+* #spliiting; 머리가 빠개지는 듯한
+* #머리가 핑핑 도네.	 I feel dizzy. My head is spinning right now. The whole world is spinning.
+* 머리 아파 죽겠어 						 My head is killing me.
+* #어지럽다; feel #light-headed
+* #잔머리 굴리지 말라고! 							 Don't cut corners.
+* #get smart with; #잔머리 굴리다; don’t get smart with me
+* 잔머리 돌리지마; don't try to take the easy way out
+* 두피가 너무 가려워 						 [skælp] My scalp is too itchy
+* 그리고 #비듬도 너무 많고 머리도 자꾸 빠지고 And too much dandruff and hair is falling off my head
+* #숱; hair > hairs;  a lot of hairs
+* #머리카락○ clumps of hair loss (머리카락 한 웅큼 손실) = clumps of hair falling out 
+* #잡아뜯다; #pluck; pluck out
+* ○ clumps of hair in the shower (샤워실에 머리카락 한 웅큼)
+* #고데기 #매직기 #straightener
+* #머리 끄댕이 잡다 #grab her hair
+* 머리가 #눌리다; you were concerned with #hat head
+* #빨간머리; #red
+* #hair-raising; 머리카락이 #쭈뼛해지는 모험
+* #hair follicle; #모낭
+* #잡지에서 나오는 머리; can I pick a style from a style book?
+* #머리 | #두피 #머리카락 
+* 모발이 가늘어지는 단계: thinning -> 경계선 뒤로: Recede -> 대머리: balding
+* 머리 빠지는거 때문에 걱정이야. 	 I'm worried because I'm losing my hair / My hair is falling out.
+* ##숱이 적은 머리/몇 줄기 구름 					 [|wɪspi]wispy hair / clouds
+* #모발 이식; #hair plugs; you got #plugs
+* #탈모
+* 털 #곤두서게 하다 					 That sound makes my hair stand on end
+* 왜 이렇게 털이 많아 why are you so hairy
+* #겨드랑이 털 #armpit hair
+* the armpit of something; 가장 지저분한 곳
+* #속눈썹 #눈썹 연장했어 I got #eyelash extensions
+* fill in the brows, 속눈썹: false lashes, fake eyelashes
+* 나 눈썹 #문신했어 I got my eyebrows tattooed
+* he has a tatto on his arm <> he had a tattoo removed; got it tatted on me
+* are we getting a #tattoo?
+* #tramp stamp 미국식 영국식 단어장추가
+* [명사] (신조어) 여성이 등 아래에 한 문신 (짧은 상의와 밑위가 짧은 바지를 입으면 보임)
+* 나 영구 #제모했어 I got permanent hair removal
+* #솜털의 솜털이 보송보송한 작은 새끼 고양이 a little fluffy kitten
+* 털이 복슬복슬한 #fuzzy 미국·영국 [|fʌzi]
+* #억센 털이많은 #bristly
+* ##털
+* #가르마 5:5	part; middle part hair
+* #part my hair in the middle
+* Give me a right part
+* #다듬다	I would like to #trim
+* #숯 치다;	I would like to #thin out
+* #듬성듬성 머리	scattered hair
+* 나 머리 기를거야					I'll grow my hair.
+* 나는 머리카락이 얇아 				My hair is too fine.
+* 구리빛 피부	tanned tone
+* 앞머리, 옆머리, 뒤머리	back hair / forelock이나 bangs(미), fringe(영) / side hair [‘fɔ:rlɑ:k] frɪndƷ
+* 앞머리 새로 자랐어요	My fringe is new
+* 머리 경계선	hair line 
+* #층 내다	I would like to have #layers
+* 가르마	part, parting
+* 가마	hair whorl w3:rl
+* 짧고 곱슬거리는 갈색 머리	short curly brown hair = #frizzy(가늘고)
+* 짧은 머리	short hair
+* 중간 길이	shoulder-length hair
+* 긴머리	long hair
+* #단발머리	#hair-bobbed; #bobbed hair
+* #bob cut
+* #숏커트; #pixie cut
+* 대머리	bald bɔ:ld 
+* 머리 밀다	shave one's head.
+* #삭발	shaved head나 tonsure tάnʃǝr
+* 적은 머맅술 넘기는 스타일	comb over
+* 정말 짧게 자른 머리	buzz cut
+* 군인 머리	crew cut은 군인crew
+* flattop은 옆머리는 바짝 치고 윗머리를 짧고 평평하게 남긴 머리를 말해요. 사진은 flattop
+* #가발	wig, 부분 가발: toupee[tuːpéi] = hairpiece
+* #부분 가발	#hairpiece
+* 붙임 머리	hair weave
+* 영국 의원 머리	periwig périwìg
+* 모발 이식	hair transplant surgery
+* 곧은 머리	straight
+* 물결	wavy
+* 곱슬	curly
+* 금발	blond, golden hair 금발 여자: blonde blɑ:nd
+* I totally had a blonde moment back there
+* 금발의 	#blonde, #fair-haired, #golden-haired 
+* 흑발의	#raven-haired - 
+* 갈색	흑갈색 머리의 #백인 여성 brunette bru:‘net
+* 적갈색	auburn hair ‘ɔ:bərn
+* 적색	red hair
+* 회색 머리	white hair나 silver hair, gray hair
+* 염색하다	dye daɪ
+* 부분 염색 	highlight, purple highlights
+* 탈색	bleach
+* 굉장히 곱슬거리는 머리	frízi Frizzy hair
+* 뻣뻣해서 다루기 힘든 머리	ʌn‘ru:li unruly hair.
+* #수염	#sparse #whisker ; #드문
+* 콧수염	a mustache mʌ́stæʃ
+* 턱수염	a beard bɪrd
+* 구레나룻	sideburns bə́:rnz
+* 말총머리(한갈래)	ponytail
+* she has a ponytail
+* she is wearing her hair in a pony tail=
+* she is the girl with a ponytail
+* 양갈래	pig tails
+* 다듬다	trim
+* 층 낸 스타일	layered cut(style) layer my hear
+* 머리 묶기	put one's hair up
+* 머리 풀기	put one's hair down.
+* 둥글게 말아올린 머리	bun, put her hair into a burn
+* 땋은 머리	braid, look good in braids., cornrows; braids
+* 양갈래 땋은머리	Braided pigtails
+* #레개 머리	dreadlocks
+* #바가지	#bowl-cut
+* 내 머리가 말을 안 듣네. 	My hair won't behave.(결국 말을 듣게 될 것) My hair doesn't behave.(변함X)
+* #똥머리	bun, 이 번을 위로 올린 머리: updo
+* #폭탄 머리	Afro
+* #파마	perm; permanent; permanent wave
+* Get a tight curly perm
+* #웨이브	#curly, #wavy, #curled - 웨이브가 있는 
+* #straight perm;
+* #볼륨 매직; #magic straight perm
+* #digi-perm; 뜨거운 열을 이용한 파마
+* korean setting perm
+* #down perm
 * 그다음에 이어서 통뼈! - 통뼈 집안. - 하나, 둘, 셋.; Now the "#strong bones". - Strong bones. - One, two, three. 
 
 # 멋있다

@@ -32,3 +32,23 @@
 * 해바라기 								 sunflower [|sʌnflaʊə(r)]
 * 튤립 								 		 tulip [|tu:lɪp]
 * 민들레 								 	 dandelion [‘dӕndɪlaɪən]
+
+
+## 자연 = ##green
+
+* #천재지변 #불가항력; #act of god; #god
+* 자연 보호 구역 						 a designated nature reserve 
+* #자연의 순리(#순리); screw with the #laws of nature
+* #나무 #목재 #lumber; lumber delivery
+* #나무결; #wood grain
+* #관목; #shrub
+* #나무꾼; #lumberjack
+* #소나무; #pine; 마디가 많은 소나무; #knotty pine
+* #가지 치기; ( prune+[목]+[부] ) #prune away the ragged edges of the bush 
+* #trim to the same height
+* it would look better to take them out?
+* 관목의 삐쭉삐쭉 나온 가지 끝을 치다
+* 나는 죽은 나뭇가지들을 잘라 냈다. I #hacked the dead #branches off. 
+* 해안 					 coast,[koʊst] (sea)shore,[ʃɔ:(r)] seaside, seaboard 
+* 새싹									 sprout [spraʊt], [bʌd]
+* [명사] (식물) (높은 산·극지의) 수목 한계선 #timberline

@@ -945,3 +945,90 @@ firm
 * #상황판단하다	#read the room/table #room; #table
 * 그냥 방 잡아	#get a room
 * 대량 구매를 하시면 10퍼센트 할인해 드립니다. 	We provide a 10% discount for bulk purchases. 
+
+
+---
+# 차트
+##차트
+
+* 차트의 움직임에 관한 표현
+* #상승 Increase, Go up, Rise, Improve(ment) 
+* #폭등 Surge, Jump, Sharp rise, boom　
+* 판매 상승세를 보이다. – an increase in sales
+* …의 상승세를 보였다. – an increase of (about/approximately/roughly) …%
+* …의 판매에서 폭등을 기록했다. – a strong surge in the sale of …
+* 판매가 #최고치를 기록했다. – sales reached (record levels/a peak in month)
+* 2012년엔 6%의 상승을 기록했다. – Enrollment increased by 6% in 2012.
+* 판매에서 16%의 상승이 있었다. – There was a 16% rise in sales.
+* 이 수치는 2012년에 150,000으로 급등했다. – The figure surged to 150,000 in 2012.
+* #하락 Decrease, Go down, Fall, Declined
+* Oil prices took a #nosedive in the crisis. 그 위기 속에서 유가가 급락했다.
+* #폭락 Plummet, Slump, Break, Crash
+* 판매 #하락세를 보이다. – a decrease in sales
+* #기대치보다 못하다 – just under our target/ way below our expectations
+* 지속적인 하락세를 보인다. – the number has continued to fall
+* 판매에서 점진적인 하락세가 있었다. – Sales declined gradully.
+* #진취적인; progressiveness, enterprise, 진취하다 (be) progressive, pushing, enterprising
+* 수익이 2천달러에서 1천달러로 떨어졌다 – Profits slumped from $20 million to $10 million.
+* 2009년엔 $8백달러의 손실이 있었다. – There was a loss of $8 million in 2009
+* 결과에 관한 표현
+* 이것은 …를 나타낸다. – It is noted that…/ It is noticed that…/ It is clearly shown that…
+* 결론은 …하다. – The (result/outcome) will be…/ We can conclude that…/ In conclusion, …
+* …해야한다. – We must focus our attention on…/ There is a necessity for…/ We need more…
+* 어젯밤에 우리가 논의했던 사업 계획서를 작성해서 보내 드립니다.
+* I have drawn up and am sending the business plan we discussed last night.
+* 오늘 회의 결과에 대한 보고서를 작성해서 보내 드립니다.
+* I have drawn up and am sending the report on the results of today’s meeting.
+* 회의록 작성을 방금 완료했습니다. 확인해 주십시오.
+* I have just finished writing the meeting minutes. Please check them. (✽meeting minutes 회의록)
+* 판매 현황 보고서 작성을 방금 완료했습니다. 참조해 주십시오.
+* I have just finished writing the sales status report. Please refer to it.
+* (✽sales status report 판매 현황 보고서)
+* 계약서 초안 작성을 방금 완료했습니다. 확인해 주십시오.
+* I have just finished preparing the first draft of the contract. Please check it.
+* 지난번 회의의 회의록을 보내 드립니다.
+* Let me give you a copy of the minutes from our last meeting.
+* 오늘 회의의 수정된 회의록을 모두에게 보내 드리겠습니다.
+* Let me distribute the amended minutes from today’s meeting to everyone.
+* 예산 보고서를 작성하고 있습니다. I am working on the budget report.
+* 아래 자금 조성 계획에 대한 의견을 주시면 감사하겠습니다.
+* Your feedback is appreciated on the following funding plan.
+* 요청하신 환경 문제 관련 보고서를 보냅니다.
+* Here is the report you requested concerning environmental issues.
+* 자료를 수집해 주세요. Please compile the data.
+* 원하시는 어떠한 추가 정보든 제공해 드리겠습니다.
+* I will provide you with any additional information you want.
+* 재무팀에서 ‘예산 및 경제 동향’ 보고서를 준비하고 있습니다.
+* The Finance Department is preparing a “Budget and Economics Outlook” report.
+* 보고서를 제출할 준비가 되었습니다. We are ready to present the report.
+* 현황 보고서를 제출할 준비가 거의 다 되었습니다. We are almost ready to present the status report.
+* 연차 보고서 제출 이전에 4사분기 보고서를 먼저 제출하셔야 합니다.
+* You must submit the 4th quarter report prior to submitting the annual report.
+* 다음 주 월요일까지 3사분기 보고서를 제출하십시오.
+* Please submit the 3rd quarter report by next Monday.
+* 보고서를 완료하면 상관에게 직접 제출하십시오.
+* When you finish your report, send it directly to your supervisor.
+* 부정적인 결과로 다음과 같은 것을 예상할 수 있습니다.
+* The following would be the negative consequences.
+* 우리는 현 지출 수준을 검토해야 합니다.
+* We need to review our current expenditures. (✽expenditure 비용, 지출, 경비)
+* 사실, 신속한 해결 방안이 필요합니다. Indeed, we need an immediate solution 
+* 사실, 우리 회사는 시장에서 아주 뒤처지고 있습니다. In fact, we are way behind in the market.
+* (✽way (부사·전치사를 강조하여) 휠씬, 아주)
+* 사실, 저희 회사 상품의 모조품이 판을 치고 있습니다.
+* As a matter of fact, copy-cats of our products are rampant. (✽rampant 만연하는, 횡행하는)
+* 저희 매출 규모가 꾸준히 늘고 있습니다. Our sales volumes are increasing steadily.
+* 수출 판매 수익이 급상승했습니다. Exports sales revenues soared significantly.
+* (✽sales revenue 매출 금액, 판매 수입)
+* 저희의 가죽 상품은 특히 유럽의 패션 리더들 사이에서 인기가 있습니다.
+* Our leather goods are popular, especially among trend setters in Europe. (✽trend setter 패션 리더)
+* 중국 투자자들이 특히 저희의 AI 기술에 관해 관심을 갖고 있습니다.
+* Our Chinese investors are particularly interested in our AI technology.
+* 특히, 국내 마케팅 전략에 관여할 것입니다.
+* In particular, we will be involved in domestic marketing strategies.
+* 이 보고서는 프로젝트에 관한 기본 정보를 제공할 것입니다.
+* This report will provide you with the basic information on the project.
+* 회계 연도 2006년부터 2015년까지 해당되는 보고서입니다.
+* The report covers fiscal years 2006 to 2015. (✽fiscal year 회계연도)
+
+
