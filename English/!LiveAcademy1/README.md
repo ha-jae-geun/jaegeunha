@@ -1,3 +1,13 @@
+* 이제 반했어; i'm halfway though
+* 밤새 뒤척이다; i have been tossing and turning all night
+* 후식배는 남겼지; i saved room for dessert
+* 들어본 적도 없다; this is unheard of
+* 중도 하차하다; she fell by the #wayside
+* very essential thing -> #be all and end all
+* 그 아빠에 그 아들이다; the apple doesn't fall far from the tree
+* 미고스; my bitch is bad and bourjee; #섹시
+* #old money; 상속받은 돈; new money: 번 돈 / 굴러들어온 돈
+* #Bourjee - #bourgeois; 부르주아 #bourgeoisie;의 준말; 볼쥬아지
 * ~하려는 찰라에; on the point of
 * ~ 하는걸 들었어; i heard him -ing
 * 한계는 없어; the sky's the limit

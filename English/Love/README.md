@@ -1,3 +1,11 @@
+# Word
+* Bridesmaids, Groomsmen, Flower girl(부케), Page boy; 드레스, 반지, #Ring bearer, 들러리: #best man
+  신부쪽의 들러리(결혼 x): maid of honor
+* #give away; 신로에게 인도하다
+* 신부의 행진; Walk down the aisle
+* #합환주; #Welcome drinks
+* 혼인 신고; they signed the register
+------
 * ☆당신에게 완전 반했습니다. / 관심이 있습니다.
 I have a big crush on you / I have a thing for you, i'm into you
 * 마음에 들다; Man, y'all are #in for a treat; 기분이 좋다

@@ -6,7 +6,7 @@
 -------------
 * 4.29   	MLB http://post.naver.com/my/series/detail.nhn?seriesNo=46475&memberNo=449115
 * 4.29   	김형제 http://m.post.naver.com/my.nhn?memberNo=11764317
-* 4.29   	하루 10분http://post.naver.com/my.nhn?memberNo=904209&navigationType=push
+* 4.29   	하루 10분 http://post.naver.com/my.nhn?memberNo=904209&navigationType=push
 * 4.29   	고딸 http://post.naver.com/my.nhn?memberNo=1061586&navigationType=push
 * 4.29	겁 없이 잉글리쉬 http://post.naver.com/my.nhn?memberNo=837891&navigationType=push
 * 4.29   	매일 3분 생활영어 `http://m.post.naver.com/my.nhn?memberNo=25246384
@@ -22,7 +22,7 @@
 -----------------------------------------------------------------------------
 * 4.29   	파고다 오늘의 회화 http://post.naver.com/my.nhn?memberNo=4550737&navigationType=push
 * 4.29 #skybel http://blog.naver.com/skybels/221137138009
-* 4.29영단:http://m.post.naver.com/my.nhn?memberNo=25662548&navigationType=push
+* 4.29 영단:http://m.post.naver.com/my.nhn?memberNo=25662548&navigationType=push
 * 4.29 오석태 http://m.post.naver.com/my.nhn?memberNo=2798983
 -------------------------------------------------------------------
 * 4.29 영어 카드 http://blog.naver.com/milgarussem
@@ -31,19 +31,28 @@
 * 4.29   	해커스 http://m.post.naver.com/my.nhn?memberNo=11456415
 -----------------------------------------------------------------------------
 * 4.29   	쏘피 http://blog.naver.com/sofa1015/220909474533
-* 4.29 콜앤톡 http://blog.naver.com/esolution24 재미진 미드
+* 4.29 콜앤톡 http://blog.naver.com/esolution24 
 * 4.29  	블루링크 http://m.post.naver.com/my.nhn?memberNo=566&navigationType=push
-* 테드 https://www.ted.com/
-* 빌보드 https://www.billboard.com/charts/hot-100#/charts/hot-100
+  https://blog.naver.com/bluewater_33/221291032449
 
 * 4.20 데이브 http://blog.naver.com/koreanstyl3
 * 하루하루 이루다 https://blog.naver.com/puretearing?Redirect=Log&logNo=220818687784
-* 출판사 프렉티쿠스 | 소미영어 | English 일산 영어쌤 | 케이크 신개념 무료 영어학습 앱
-영어랑 커피 한잔 | 해피제이드 해피라이프J | 쎄듀와 함께 쎄쎄쎄 | 뇌순’s 영어극복
-엔구 화상영어 | 쌤코치의 영어습관 | 아미고톡
-한국번역연구소 | dave den | 야나두
+* 출판사 프렉티쿠스  https://blog.naver.com/knowhereman
+* 소미영어 https://blog.naver.com/somienglish 
+* 케이크 신개념 무료 영어학습 앱
+* 영어랑 커피 한잔 https://post.naver.com/my.nhn?memberNo=576800
+* 해피제이드 해피라이프J https://blog.naver.com/jadekim925?proxyReferer=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fsm%3Dtab_hty.top%26where%3Dnexearch%26query%3D%25ED%2595%25B4%25ED%2594%25BC%25EC%25A0%259C%25EC%259D%25B4%25EB%2593%259C%2B%25ED%2595%25B4%25ED%2594%25BC%25EB%259D%25BC%25EC%259D%25B4%25ED%2594%2584%26oquery%3D%25ED%2595%25B4%25ED%2594%25BC%25EC%25A0%259C%25EC%259D%25B4%25EB%2593%259C%2B%25ED%2595%25B4%25ED%2594%25BC%25EB%259D%25BC%25EC%259D%25B4%25ED%2594%2584J%26tqi%3DT1SonlpVuEdssvAYXWRssssstlV-350845
+* 쎄듀와 함께 쎄쎄쎄 https://blog.naver.com/cedubook?proxyReferer=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fsm%3Dtab_hty.top%26where%3Dnexearch%26query%3D%25EC%258E%2584%25EB%2593%2580%25EC%2599%2580%2B%25ED%2595%25A8%25EA%25BB%2598%2B%25EC%258E%2584%25EC%258E%2584%25EC%258E%2584%2B%26oquery%3D%25ED%2595%25B4%25ED%2594%25BC%25EC%25A0%259C%25EC%259D%25B4%25EB%2593%259C%2B%25ED%2595%25B4%25ED%2594%25BC%25EB%259D%25BC%25EC%259D%25B4%25ED%2594%2584%26tqi%3DT1SodlpVuElsst8wGY8ssssstwo-497213
+* 뇌순’s 영어극복 https://blog.naver.com/rmeoqhek38/221011569917
+* 엔구 화상영어 https://blog.naver.com/dmm_korea/221267185883
+* 쌤코치의 영어습관 https://blog.naver.com/georage/221320149267
+* 아미고톡 http://blog.amigotalk.com/
+* dave den https://blog.naver.com/daveenglish 
+* 야나두 https://blog.naver.com/yanadooblog/221323042575
+* 한국번역연구소 https://blog.naver.com/ktri8888?proxyReferer=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fsm%3Dtab_hty.top%26where%3Dnexearch%26query%3D%25ED%2595%259C%25EA%25B5%25AD%25EB%25B2%2588%25EC%2597%25AD%25EC%2597%25B0%25EA%25B5%25AC%25EC%2586%258C%26oquery%3D%25EC%2595%25BC%25EB%2582%2598%25EB%2591%2590%26tqi%3DT1SptwpVuFZsscDhiUsssssssWd-342395
 -----------------------------------------------------------------------------
-* 해커스, 파고다
+* 테드 https://www.ted.com/
+* 빌보드 https://www.billboard.com/charts/hot-100#/charts/hot-100
 * 네이버 톡톡 http://talkie.naver.com/english/room-list.dict?mode=mobile
 * 네이버 퀴즈 http://wquiz.naver.com/main.dict
 

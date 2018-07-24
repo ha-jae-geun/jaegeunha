@@ -1,4 +1,24 @@
 * #패턴 3# 
+ * 화를 참을 수 없다; i couldn't hold back my anger
+ * 생각할 것 없이; #in a heartbeat
+ * 상냥한 마음씨 갖다; have a heart of gold
+ * 임신한; a #bun in the oven
+ * 정상은 힘들다; #tough at the top
+ * 결단을 내리다; decide to #take the plunge
+ * 놀지않고 일함; all work and no play makes
+ * 이 어플은 과정을 간편하게하다; this app streamlines the process	
+ * #희망사항; it's just my #wishful thinking
+ * ~에 대해 적대감을 갖다; have a down on someone
+ * 결과를 받아들이다; #face the music
+ * 발생할 것 같은; has been #on the cards
+ * 진지하게 바라보다; look someone in the eyes and said he loved me
+ * #어찌 되었건; #in any event; i would like to meet her #in any event
+ * 잡담은 그만; #enough chit-chat
+ * 정신나가다; howard's losingit
+ * 맥빠지게하다, 깎아내리다; don't let yourself be dragged down to her level
+ * 쓸모없는 사람;; #good for nothing
+ * 연체료; #late fee
+ * 힐링음식: comfort food; this food has a therapeutic effect
  * #궁하다 									 How needy
  * 그것은 부드럽게 다뤄져야 해. 			 『 It needs to be... 』 그것은 …이 되어야 해 
  * It needs to be handled gently. 

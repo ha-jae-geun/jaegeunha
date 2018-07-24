@@ -1,4 +1,8 @@
-
+* 위험: 사람 다치게 / 물건 손상: #dangerous, risky: 안좋은일 일어날 가능성; #unsafe; 돌려 말하는 dangerous; #deadly; #critical: 재앙 될수 있음; suffered critical injuries; #harmful to the human body
+* get a life; 인생을 즐기다; <> i have no life; 시간, 인생을 즐길 시간이 없음
+* #pull over; 세우다; #pull into: 주차; pulled into the empty parking lot; #pull through after the surgerys; #pull yourself together: 진정시키다; #pull an all night; #pull a muscle; pull a ligament
+* 애매하다: #tricky; iffy; 음식이 상한것 같기도; smells iffy
+* 아주 쉬운 일; cake walk, icing on the cake: 화룡점정
 * #연결어 단어
 * #Turn down (거절하다) 
 * How could you turn down such a great opportunity? 

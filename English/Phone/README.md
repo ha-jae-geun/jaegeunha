@@ -1,3 +1,119 @@
+# 사진
+ * * #tbt, #love, #nofilter: 무보정, #blackandwhite: 흑백사진
+ * #foodporn #insafood #instaasm
+ * ~의 사진을 찍다; Get a picure of someone or something | get a picture with someone
+ * can you #grab some pictures for me?; can you take a picture on us(사진 찍어주다)
+ * #사진 촬영 (photo) shoot; it's a #photoshoot
+ * ##CCTV: #security camera
+ * 얼굴샷 #mugshot
+ * #클로즈업; let's have a close-up 
+ * #상반신 노출 씬; i'm supposed to be tarining at the moment for a #topless shot
+ * #노출; #exposed;  = #flash a lot
+ * #캡처; #snipping tool. ##snip; #자르다
+ * #합성 사진; #composite; [kəm|pɑ:zət]; #합성; a composite picture
+ * #셀카봉 #selfie stick
+ * #slofie; 나무늘보(#sloth)와 셀카(#selfie)의 합성어로, 나무늘보와 함께 찍는 셀카를 뜻하는 신조어다.
+ * #time-lapse; #저속촬영
+ * #full of pictures; her instagram is full of pictures of herself
+ * get a shot(주사), take a shot/picture(photo는 전문적인 느낌)
+ * 나무 앞에 서서 사진 찍자 We'll #pop a #shot off
+ * 카메라 앞에서 부끄러움을 탄다 				camera shy; she was just so camera shy
+ * 사진광이에요 								He’s a real shutterbug
+ * #포즈 취하다: 								 make/#strike a pose,
+ * 초점을 맞추다								 focus the lense
+ * 김치 하세요 									 say cheese
+ * 사진좀 찍어주실래요? 					 Could you take a picture on us?
+ * 사진좀 찍어주실래요? 				 	 Could you take a photo/picture of us?
+ * 셀카 찍자					 Let's take/get a selfie. Let's take/get a photo.
+ * 저는 종종 셀카를 찍어서 그 자리에서 게시하는 것을 좋아합니다.
+ * I like to take selfies off and on,and post them up on the spot.
+ * 사진이 실물보다 낫네!						 This picture flatters you.
+ * ☆그는 실물이 낫다. 		 ‘pɪktʃə(r) ’dƷʌstɪs His picture doesn't do him any justice
+ * you look better in person
+ * ~가 사진 망쳤어 photobomb, has been photobombed by ~, 누구 get/was photobomed by
+ * 사진 잘나왔다								 it came out nice
+ * 나는 #사진발이 잘 받는데 오늘 화장일 잘 안받네 I am #photogenic but having a bad makeup day today.
+ * 모이세요 Get closer together
+ * #몰래카메라 #hidden camera
+ * #포토샵; it #airbrushes you
+ * #필름; 필름이 몇장 남았는지 확인; how many #exposures are left 
+ * 필름이 몇장입니까? how many #rolls of film did we take?
+ * a roll of film - 필름 한 통
+ * #증명사진; #id picture; #identification picture
+ * #스캔; #적외선 스캔; 적외선 경보 시스템. #iris scanning; added iris scanning
+ * #사진 #실물 #셀카 #카메라
+ * shoots photo in ~k
+ * #해상도
+ * 너 페이스북해? 								 Are you on FaceBook?
+ * #페북 친구 추가해줘. 							 Add me on Facebook.
+ * #상태 메시지; make #status updates on social media
+ * 저는 사진을 많이 찍고 그 자리에서 인스타그램에 사진을 올립니다. 
+ * I take a lot of pictures and post them up on the Instagram on the spot
+ * 저는 종종 셀카를 찍어서 그 자리에서 게시하는 것을 좋아합니다.
+ * I like to take selfies off and on,and post them up on the spot.
+ * 나 사진 올렸어, 좋아요 눌러줘 					 I uploaded a photo, press 'Like'
+ * 나 이거 공유하려고 							 I'm oing to share this
+ * 포토샵 했어? 							 Did you photoshop that picture?
+ * 좋아요 											 #upvote
+ * #팔로우 했어 									 I followed him
+ * #맞팔했어 								 We followed each other
+ * 친구추가 감사해요 Thanks for accepting my friend request. 2. Thanks for friending me.
+ * 3. Thanks for the add.
+ * 나 너 #차단할거야 								I’m blocking you
+ * #덧글 안다는 사람 너무 싫어 							 I have lurkers
+ * #leave comments
+ * #붙이다: put up	post. #stick them on the wall
+ * #attach, #affix, #stick - 붙이다 
+ * 벽에 테이프로 붕텨	#tape it on the wall
+ * #페이스북 #인스타 #SNS | #올리다 #게시하다 #제개 #포스트 | #붙이다
+ * 페이스북 가입할거야 				 I'll sign up ( for )Facebook soon.
+ * 자동차 보험 가입했어? did you take out a car insurance?
+ * #가입
+ * 도서관 회원 카드가 없어요. 만들고 싶어요. 	I don't have a library card. I'd like to apply for one. 
+ * 회원가입하다; #become a member; the acceptance of member
+ * 무료 회원가입 free membership
+ * 회원가입 안내 guide to joining
+ * 회원 가입 버튼 join button
+ * 회원 가입 코드 member registration code
+ * 회원 가입 메서드 member joining method
+ * 회원가입하다 sign up for a membership
+ * #약관; (조약·계약 등의 조항) #clause, #provision, #terms 
+ * 계약 약관에 따라 보험금이 지급된다 Insurance money is paid according to the policy terms. 
+ * 회원 가입을 하려면 이용약관에 동의하셔야 합니다
+ * In order to become a member, you have to agree to the terms and conditions for use. 
+ * ##회원가입
+ * look something up = #search up/for = #google
+ * #the internet
+ * 인터넷에 퍼졌어; it's all over the internet
+ * #포스팅이 널리 #퍼졌어요; post just went #viral,
+ * #조회수; I got more than ~ views in a week
+ * 그건 인터넷에서 찾아봐.						 Do it on the internet.
+ * 핸드폰으로 검색해 look it up on your phone
+ * 인터넷으로 찾아봤어요 					 I looked it up on the Internet
+ * 인터넷 와이파이 뭐에요? 					What is the password for wi-fi?
+ * 사이버 폭력 									 Cyber bullying
+ * #악플; #internet troll; #troll
+ * #mean comments; I'm going to write mean comments
+ * 데이터베이스에서 정보를 검색하다				 to retrieve information from the database
+ * #통신 #communication track(#track) / #line; communication line facilities
+ * communication, #correspondence
+ * #붕괴 the telecoms market had the temerity to #collapse/#suffered #disruption
+ * used to get access to Internet
+ * #무선 인터넷, #무선 통신 #mobile internet, wireless communication
+ * 무선 전화기; #cordless phone was interfering
+ * 와이파이 되나요? Is there #wifi
+ * wifi #reception here is really bad
+ * #공유기; #router
+ * #명시적 콘텐츠; #콘텐츠 #explicit content
+ * #네트워크; #network #go down
+ * #사이버 #인터넷 #검색 #와이파이
+ * #Myspace; 대중문화 덕후 커뮤니티
+ * #outreach program
+ * #커뮤니티 #사이트
+
+
+#전화
+
 * Be on the phone
 * I am / Was on The Phone Right Now
 * I Think She is on the phone right Now
