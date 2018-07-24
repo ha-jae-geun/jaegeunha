@@ -131,8 +131,9 @@ would be the last person to 동사원형; ~할 사람이 절대 아니다
 #yes man; 긍정 맨
 
 ## 남자
+* 운동 많이 하는 남자; jock 미국식 [dƷɑ:k] 
 * 여자 밝히는 남자: #thirsty
-* 기집애 같은 남자 겁쟁이, #소심한 남자 #wuss #wussies = #wussy
+* 기집애 같은 남자 겁쟁이, #소심한 남자 [wʊs] #wuss #wussies = #wussy
 * #wuss out; #빼다; why are you wussing out?
 * #아들 #slugger(강타자, 장사) = #sweetpea = #sweetheart= #honey #kiddo
 * 당당하게; unashameedly = #unapologetically

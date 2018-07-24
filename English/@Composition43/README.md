@@ -1,4 +1,5 @@
 * #패턴 3# 
+ * 대담한 몸짓/이색적인 스타일/대담한 성격; a flamboyant gesture/style/personality  [flӕm|bɔɪənt]
  * 화를 참을 수 없다; i couldn't hold back my anger
  * 생각할 것 없이; #in a heartbeat
  * 상냥한 마음씨 갖다; have a heart of gold

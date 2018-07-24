@@ -1,5 +1,6 @@
 [Composition 1](./Composition1/README.md)
 
+7.24
 
 ##영어
 * 인적성
@@ -51,6 +52,8 @@
 * 야나두 https://blog.naver.com/yanadooblog/221323042575
 * 한국번역연구소 https://blog.naver.com/ktri8888?proxyReferer=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fsm%3Dtab_hty.top%26where%3Dnexearch%26query%3D%25ED%2595%259C%25EA%25B5%25AD%25EB%25B2%2588%25EC%2597%25AD%25EC%2597%25B0%25EA%25B5%25AC%25EC%2586%258C%26oquery%3D%25EC%2595%25BC%25EB%2582%2598%25EB%2591%2590%26tqi%3DT1SptwpVuFZsscDhiUsssssssWd-342395
 -----------------------------------------------------------------------------
+* 당므채널
+* 스포츠 뉴스 (네이버, 다음)
 * 테드 https://www.ted.com/
 * 빌보드 https://www.billboard.com/charts/hot-100#/charts/hot-100
 * 네이버 톡톡 http://talkie.naver.com/english/room-list.dict?mode=mobile

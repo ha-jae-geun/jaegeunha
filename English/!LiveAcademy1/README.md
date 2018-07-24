@@ -1,3 +1,20 @@
+* #replacement; 대체 수단; where is the replacement bus stop
+* 이러다가는; #at this rate, i'll not make it
+* 점점 좋아진다; i'm starting to like it =  the music has been growing on me
+* 스케줄 설정할 수 있어 알아서 청소해; i can set up a schedule and it'll opreate by itself
+* 대부분 사람들은 귀찮아서 준비하지 않겠지만; most people don't bother with them
+* 발을 헛디뎌 넘어지다; one little boy stumbled and fell
+* 나쁠 건 없지; it wouldn't hurt to give it a try
+* 타이어를 비닐 랩으로 감다; do cling film on the tires
+* 마찰을 줄이자; we'll reduce the tire friction / get rid of that grip
+* 관광하러 왔어요; i'm here on sightseeing
+* 괴롭힘 당하다; get picked on
+* 망토; wear a cape [keɪp]
+* 겪어봐서 알아; i've been down this road before
+* 큰일 날 뻔하다; we dodge a bullet on this
+* 장난치지마; don't give me that
+* 욕하다; give someone the bird
+* 매미: #cicada; sɪ|keɪdə]; song/chirrs; [tʃə́:r]
 * 이제 반했어; i'm halfway though
 * 밤새 뒤척이다; i have been tossing and turning all night
 * 후식배는 남겼지; i saved room for dessert

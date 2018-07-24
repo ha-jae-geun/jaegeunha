@@ -1,5 +1,6 @@
 ## 경제
 
+* 연료 소비량을 줄일 수 있을까; how can we improve the car's fuel efficiency
 * #근원물가; #core inflatioon; 물가 변동이 심한 품목을 제외한 장기적인 물가
 * 물가 오르면 근원물가에 집중 
 * #금리 상승; 일시적 요인으로 인한 경기 침체는 그 상품만 consider #stabilization policy

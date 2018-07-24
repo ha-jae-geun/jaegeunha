@@ -116,6 +116,7 @@ sli:p ‘wi:kend I'm going to catch up on sleep this weekend. .
 * #도난 #경보기; #burglar alarm
 * #알람이 안울렸어 							The alarm didn't go off
 * 알람 울리네 							 there's an alarm going on
+* 알람 듣고도 계속 잤어; i slept through my alarm clock
 * #잠귀가 밝네. 								 You are a light sleeper.
 * 난 잠깐 #자야겠어 						 I'd better catch some #Z's
 * #녹초가 되었군요, 							You look pretty wiped out.

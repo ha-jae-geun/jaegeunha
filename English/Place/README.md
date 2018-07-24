@@ -168,6 +168,7 @@
 * 대출 예약을 하고 싶어요. 	Can you put me on the waiting list? 
 
 # 바다 #바다 #해변
+* #river, #creek: 작은 만, #stream: 개울
 * * 부산은 #coastal city
 * #염분; #desalination
 * #해안; #ashore, #on land, #on the beach - 해안에, 물가에 
