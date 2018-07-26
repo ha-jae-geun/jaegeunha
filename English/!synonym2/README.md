@@ -3,6 +3,7 @@
 * #pull over; 세우다; #pull into: 주차; pulled into the empty parking lot; #pull through after the surgerys; #pull yourself together: 진정시키다; #pull an all night; #pull a muscle; pull a ligament
 * 애매하다: #tricky; iffy; 음식이 상한것 같기도; smells iffy
 * 아주 쉬운 일; cake walk, icing on the cake: 화룡점정
+* we need to talk xx -> can i talk to you for a sec / gotta sec? i need to talk to you something
 * #연결어 단어
 * #Turn down (거절하다) 
 * How could you turn down such a great opportunity? 

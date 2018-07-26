@@ -1,3 +1,14 @@
+* 이미 끝났다; have done > have finished
+* boo'd up: 연인 사이가 되다;;
+* 너 보라고 한자 한자 써주리? Want me to spell it out for you
+* 긴장 풀고 발 뻗어; kick yoour pretty feet up = put your feet up = kick your shoes off
+* 아슬아슬하게 때를 맞추어; in the nick of time 미국식  영국식   단어장추가
+* ~하면 어떤 기분일까? i wonder what it's like to see a real ghost(일반적)
+  what it would be like(개인적) / what it would have been like?(가정; 어땠을까)
+  what it's going to be like <> what happen / would happen / would've happened /
+  is going to happen
+* 적극적으로 개입하고 주도하고; lean through it, push through it; keep leaning in to life
+* 나중에; to have more decisions later on
 * #replacement; 대체 수단; where is the replacement bus stop
 * 이러다가는; #at this rate, i'll not make it
 * 점점 좋아진다; i'm starting to like it =  the music has been growing on me

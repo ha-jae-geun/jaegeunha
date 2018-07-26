@@ -2,6 +2,7 @@
 
 # 여름
 * The crops are withering in the scorching heat. ; heat wave, sweltering heat, scorching heat 폭염으로 농작물이 시들어 가고 있다
+* 습기가 많아 답답; it's so stifling
 ---------
 * #일기예보는 어때요? What does the forecast look like for tomorrow?
 * #weatherwise; 일기를 잘 맞추는

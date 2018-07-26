@@ -93,6 +93,29 @@
 -------
 # 팝송
 * https://www.youtube.com/watch?v=WNM64Z-wHKw 
+------------
+* FRIENDS - Marshmello, Anne-Marie - 앤마리 
+* Finesse (Remix) (Feat. Cardi B) - Bruno Mars
+* Meant to Be - Bebe Rexha, Florida Georgia Line - 
+* Havana - Camila Cabello - 카밀라 카베요
+* The Chainsmokers - Closer (Feat. Halsey)  
+* How Long - Charlie Puth
+* Attention - Charlie Puth
+* Shape of You - Ed Sheeran
+* Worth It (Feat. Kid Ink) - Fifth Harmony
+* Fitz and the Tantrums - HandClap -  피츠 앤드 더 탠트럼스 
+* Oops (Feat. Charlie Puth) - Little Mix - 리틀 믹스
+* Despacito (Remix) - Luis Fonsi, Justin Bieber, Daddy Yankee
+* Ray Charles - Hit The Road Jack(1961) - 레이 찰스
+* Look What You Made Me Do - Taylor Swift
+* The Middle - Zedd, Grey, Maren Morris - 제드, 매런 모리스, 그레이
+* Faded - Alan Walker -
+------------
+* Demi Lovato - Sorry not sorry - 데미 로바토 
+* Nothing's gonna change - Glenn Medeiros - 
+* Stay - Zedd, Alessia Cara  -  제드, 알레시아 카라 
+* Last Chance - M.Y.M.P
+
 
 * <1955~1970>
 * 0:00 Little Richard - Tutti Frutti(1955)
