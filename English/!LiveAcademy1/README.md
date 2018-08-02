@@ -1,3 +1,32 @@
+* 대부분 똑같은 반응이었어요; i get the same reaction
+* ~하는 것을 주저하다; be hesitant to R = be reluctant to R
+* 일기예보가 ~라고 했어; the newscaster said this morning / the weather reporter said that / on the weather report
+* 체감 온도는; actual temperature is ~ but it feels like 36
+* 상아탑 속에서 살아가는 학자들; academics living in ivory towers 
+* 총알받이 역할을 하다; serve as cannon fodder 미국식  영국식   단어장추가
+* 1년 내내; all year round
+* 세균은 어떻게 해? What about bacteria
+* 오늘 밤은 여기서 지낸다; we will nest here for the night
+* 업신여기다; hold somebody in contempt 미국식  영국식   단어장추가
+* 이번에는; this time around
+* ~에 있어서는; as far as ... goes; choreography goes
+* 덜 야하게; a little bit les risque 미국식 [rɪ|skeɪ] 
+* 지지를 얻다; win me over
+* 카드, 현금 동시 결제; can i pay by card and in cash together
+* 너무 심했나? i was too hard on him
+* 그가 안좋게 받아들인 것 같아; i don't think he took it very well
+* 너 겁먹은것 같은데; you look spooked
+* 이렇게 들려서 미않; sorry to drop in like this
+* 담당 의사에요; i'm on call today
+* 머릴 부딪히고 나서 구토를 하진 않았나요? have you noticed any vomiting since the head bump?
+* 네가 가진것 중 보물이 머야? what's the most treasured thing that you own
+* 문열고 떨어져서 굴렀다; i just opened the door and did a drop and roll
+* 호밀방; rye bread; 라이
+* 오랜만에 1. i hung out for the first time in a long time( want to xx) / for the first time in days/weeks/months/years 
+ 2. i haven't done that in such a long time/in a while 3. it's been such a long time
+ * 응원의 박수 보내주세요; give it up for sonamoo
+* 화장실 간다; i gotta go to bath room -> i gotta powder my nose
+* 오다가 일이 생겼어; it's just that i got a little bit sidetracked
 * 이미 끝났다; have done > have finished
 * boo'd up: 연인 사이가 되다;;
 * 너 보라고 한자 한자 써주리? Want me to spell it out for you

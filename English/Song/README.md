@@ -106,10 +106,13 @@
 * Fitz and the Tantrums - HandClap -  피츠 앤드 더 탠트럼스 
 * Oops (Feat. Charlie Puth) - Little Mix - 리틀 믹스
 * Despacito (Remix) - Luis Fonsi, Justin Bieber, Daddy Yankee
+* Psycho ft. Ty Dolla $ign - Post Malone - 
 * Ray Charles - Hit The Road Jack(1961) - 레이 찰스
+* Shake up Christmas - Trains
 * Look What You Made Me Do - Taylor Swift
 * The Middle - Zedd, Grey, Maren Morris - 제드, 매런 모리스, 그레이
 * Faded - Alan Walker -
+* 
 ------------
 * Demi Lovato - Sorry not sorry - 데미 로바토 
 * Nothing's gonna change - Glenn Medeiros - 

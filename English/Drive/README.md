@@ -1,3 +1,11 @@
+# 렌트
+
+* 국제 면허증; International driving permit; IDP; 1년마다 만료
+* 연습 면허; a lerner's perit
+* 색깔: Can i choose the color / Do you guys have a blue one available
+* 주유; you need to refill it before returning the car /  fill up the tank
+* #waiver; 보험사와 나눔
+------------
 * 「주유소」	
 * 미국 운전
 또한 한국에선 많은 운전자들이 자신의 핸드폰 번호를 운전석 근처에 남겨두는 반면 미국에선 절대 자신의 핸드폰 번호를 노출하지 않습니다. 초보운전, 아기가 타고 있다는 점, 핸드폰 번호를 노출하는 점 등 모두 개인의 신상과 연결이 될 수도 있기 때문입니다. 

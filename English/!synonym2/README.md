@@ -1,3 +1,23 @@
+* alone 혼자 xx -> 단둘이; i want to be alone with you tonight
+* believe in: 1. 존재한다는 것에 대한 믿음 2. 능력이 있다, ~가 맞다는 것에 자신이 있다; believe in God
+* i love you; 3개 강조 할 수 있음
+* 문 밖에 사람이 있어요; human xxx(외계인 느낌: alien) - there is a person / people at the door
+*  버스나 비행기에서 “의자좀 너무 많이 눕히지 말아주시겠어요?” 라고 공손히 얘기할 때는 동사 move를 쓰고요, 등받이 의자는 seat back을 씁니다. 
+- Could you please move your seat back up just a little bit?
+(의자 등받이를 살짝만 이동해 주시겠습니까?)
+그렇기 하지 말라는 식으로 얘기할때는 동사 recline(기대다/눕히다)를 쓰면 돼요.
+- Could you please not recline like that? (그렇게 안 눕히면 안되겠습니까?)
+1-1. 여기서 동사 move를 쓰는게 일반적이긴 한데요. 원위치로 당겨야 할 경우엔 push back을 쓰시면 됩니다.
+- Could you push your seat back please? (등받이 의자좀 원 위치로 해주시겠어요?)
+* Do you mind if 구문은 참 많이 쓰이는데요.. 줄여서 Mind if가 훨씬 더 많이 쓰입니다.
+대답은 (꺼리지 않을 경우) 반대로 해 주시면 돼요. 
+외국인을 만나다 보면 그 사람의 출신지가 궁금할 경우가 왕왕 있는데요. 그거 물어보는건 딱히 실례는 아닙니다.
+- Do you mind if I ask your ethnic background? (당신 어디 인종적 배경을 갖고 있는지 물어봐도 될까요? ==> 어머니나 할아버지 등등이 어느나라 출신인지 등)
+* 사람이 낼수 있는 다양한 신체변화를 알 필요가 있는데요.
+쭈구려 앉는걸 squatting 혹은 crouching 이라고 해요.
+누워있는건 lying, 무릎꿇는건 kneeling 이라고 하구요. 
+한편 다리를 꼬는건 cross legs 라고 합니다.
+Don’t cross your legs bc when you put one knee over the other, it sends blood from the legs up to the chest, resulting in a larger quantity of blood being pumped out of the heart, which in turn increases your blood pressure.
 * 위험: 사람 다치게 / 물건 손상: #dangerous, risky: 안좋은일 일어날 가능성; #unsafe; 돌려 말하는 dangerous; #deadly; #critical: 재앙 될수 있음; suffered critical injuries; #harmful to the human body
 * get a life; 인생을 즐기다; <> i have no life; 시간, 인생을 즐길 시간이 없음
 * #pull over; 세우다; #pull into: 주차; pulled into the empty parking lot; #pull through after the surgerys; #pull yourself together: 진정시키다; #pull an all night; #pull a muscle; pull a ligament
