@@ -1,3 +1,4 @@
+* 매우 덥다; it's sizzling hot = the room is like an oven; it's roasting
 * 두더지; Searching for #gosphers
 * 나는 숨을 죽이고 있다.; I'm holding my breath. 
 * 목욕 가운, 치약, 칫솔, 기본적인 것들; can i have a bathrobe, razor(shave), toothpaste and tooth brush; basic things
@@ -11,6 +12,13 @@
 * 바람 피는 거야? are you cheating on me?
 * 경제면을 읽고 있다; read the business section
 * 참고로; on/as a side note,  / just so you know / just so everybody knows
+* 앞으로를 위한 참고 사항; for the future reference / Just so you know
+  as a reminder / don't forget / keep in mind
+* 특정 사람을 위한 참고 사항; for those of you who ~
+* 표지판이; the sign says
+* 설명서에는 뭐라고 쓰여있어? What do the instructions say?
+* ~하시겠어요? Would you care for 명사?
+* 주목 시키기 위한 표현; take note, / take note of ~ / take note that
 * FYI; (당신에게 도움이 될수도 있으니 참고해라)
 * 거의 10시야; it's about to be 10 / almost
 * 상상초월이야; this is so beyond
