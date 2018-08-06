@@ -1,3 +1,23 @@
+* 두더지; Searching for #gosphers
+* 나는 숨을 죽이고 있다.; I'm holding my breath. 
+* 목욕 가운, 치약, 칫솔, 기본적인 것들; can i have a bathrobe, razor(shave), toothpaste and tooth brush; basic things
+* 도대체; What on earth is that
+* 19금 영화; atch an r-rated movie
+* 발표하다; do a presentation
+* 알고보니 바람둥이야; he turned out to be a two-timer
+* 알고 보니까; that reminds me
+* 그나저나; by the way
+* 회의 때문에 급히 나가야 했다; i had to rush out for a meeting
+* 바람 피는 거야? are you cheating on me?
+* 경제면을 읽고 있다; read the business section
+* 참고로; on/as a side note,  / just so you know / just so everybody knows
+* FYI; (당신에게 도움이 될수도 있으니 참고해라)
+* 거의 10시야; it's about to be 10 / almost
+* 상상초월이야; this is so beyond
+* 내장이야; it's called innards / this is the insides of the lobster
+* 입가심해; wash it down
+* 찌르니까 꿈틀거렸어; that's wriggled when i poked it
+* 살 꽉찬거 봐; look how meaty that is ; hot much meat there is
 * 대부분 똑같은 반응이었어요; i get the same reaction
 * ~하는 것을 주저하다; be hesitant to R = be reluctant to R
 * 일기예보가 ~라고 했어; the newscaster said this morning / the weather reporter said that / on the weather report

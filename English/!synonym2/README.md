@@ -1,4 +1,5 @@
 * alone 혼자 xx -> 단둘이; i want to be alone with you tonight
+* envy: 상대방이 갖고 있는 것을 부러워하다 <> jealous; 잃을 것을 두려워하다
 * believe in: 1. 존재한다는 것에 대한 믿음 2. 능력이 있다, ~가 맞다는 것에 자신이 있다; believe in God
 * i love you; 3개 강조 할 수 있음
 * 문 밖에 사람이 있어요; human xxx(외계인 느낌: alien) - there is a person / people at the door
