@@ -1,3 +1,19 @@
+* 개구리: Ribbit
+* 핸드폰 너무 많이 쓰면 중독 될수 있어; if you overuse your cell phone, it could lead to celphone addiction
+* 편집하는데 손목을 너무 많이 써서 맛이 갔어; i overused my wrists editing videos
+* ~ 할 수 있어? Is that okay to? / Can we meet?
+* 그러지마; don't be that way
+* 잘 견디고 있어? how are you holding up?
+* 완전 최악이에요; she's a total nightmare
+* 여기 참가하게 속인거에요; we tricked you into doing our projects
+* 전 세계 유도 챔피언입니다; ~ is a #former world judo champion
+* 성화봉승; #lit the cauldron at the Olympics; ˈkɔːldrən]
+* 소름끼쳐; it's gruesome
+* 주전부리야; it's just finger food
+* 튀김 옷이 두껍지 않아; it's so lightly battered
+* 그녀는 언제나 더없이 깔끔해 보인다.; She always looks immaculate. 
+* 조건도 하나였잖아; it was like one stipulatoin in that
+* 진주에 사족을 못쓰잖아; you're a sucker for pearls
 * 매우 덥다; it's sizzling hot = the room is like an oven; it's roasting
 * 두더지; Searching for #gosphers
 * 나는 숨을 죽이고 있다.; I'm holding my breath. 
