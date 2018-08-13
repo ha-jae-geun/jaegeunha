@@ -1,3 +1,28 @@
+* 심술 부리는; [ˈpetjulənt]; His critics say he's just being silly and petulant. 
+* 산호세 숙박; (많은 사람·장비가 동원되는 복잡한 작업의) 실행 계획; the logistics of moving the company to a new building ;  
+  홑이불과 베갯잇; bed linen 미국식  영국식   단어장추가\  
+   pl. -os 파티오(보통 집 뒤쪽에 만드는 테라스); 점심을 파티오에서 먹자.; Let’s have lunch out on the patio. 
+*  난 이 모든 것을 멈추는 것을 생각하고 있어요.; ɪmˈprɒmptjuː];; I'm thinking of shutting this whole thing down. 듣기
+* (사전 준비 없이) 즉흥적으로[즉석에서] 한  동의어 improvised; an impromptu speech ; 
+* 대박; get out of here / shut up;
+* 예약 취소가 있지 않는 한 제일 빠른게  월요일이에요;; as long as there are no cancellations before then, Monday is the bvest we can do
+* 무리한 부탁인거 아는데, 다른 분 예약을 변경할 수는 ㅇ벗을까요? i know it's a lot to ask, but can't you reschedule one of the others?
+* 죄송하지만 제가 진짜 곤란해질 수 있어요; 할 수 있는건 해보겠지만 장담은 ㄴ몫해요; Sorry but i could get into a lot of trouble for that. i'll try i can do but i can't make any promises
+* 환영사를 할거에요; you'll be giving th welcoming address
+* 그가 보호에 대해 기조 연설을 할 거에요; he'll be giving the keynote speech on conservation
+* ~는 있을 수 없어; ~ is not a option
+* 임의의 먹구름들이 몰려왔고 엄청난 폭우가 올 것 같습니다; these arbitrary dark clouds have gathered
+* 정말로요; i'm about to go to bed, no joke
+* 기저귀를 갈다; change one's diaper with one hand
+* 아기 모서리 보호대; you baby-proofed the entire house
+* 입양 서류도 준비하다; you took care of all the adoption paperwork\
+* 내부자가 있었어; i had an inside man
+* 함대; a fleet of airplanes
+* 아래만 가리는 고대에 입었던 옷;  man in a loincloth
+* 오늘 늦어? Are you going to be late tonight?
+* 진실을 왜곡하다; twist the fact
+* 나는 그 끔찍한 냄새에 구역질이 났다.; I was repulsed by the horrible smell. 
+* 안전벨트하다; buckle your seatbelt <> unbuckle
 * 개구리: Ribbit
 * 핸드폰 너무 많이 쓰면 중독 될수 있어; if you overuse your cell phone, it could lead to celphone addiction
 * 편집하는데 손목을 너무 많이 써서 맛이 갔어; i overused my wrists editing videos

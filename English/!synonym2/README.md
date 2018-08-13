@@ -1,6 +1,12 @@
 * alone 혼자 xx -> 단둘이; i want to be alone with you tonight
 * envy: 상대방이 갖고 있는 것을 부러워하다 <> jealous; 잃을 것을 두려워하다
-* believe in: 1. 존재한다는 것에 대한 믿음 2. 능력이 있다, ~가 맞다는 것에 자신이 있다; believe in God
+* 아토비: has atopic dermatitis(족저 근막염) -> have a skin condtion; it is a condition from birth(the birth xx)
+  기저귀 발진하고 비슷해요; it's similar to diaper rash all over body  
+  어떤 제품을 쓰냐에 따라 피부가 민감하다; their skin is super sensitive to what product i use/put on; products가 아닌 cosmetics라고 하면 색조 화장의 의미가 됨
+  내 스킨 문제가 오일 성분이 있는 스킨을 쓰면 더 나빠진다; my skin condition is worsened by oily toner
+  뒤집힌다; my skin condition is exacerbated by oily products
+* believe + 누구/무엇
+  believe in: 1. 존재한다는 것에 대한 믿음 2. 능력이 있다, ~가 맞다는 것에 자신이 있다; believe in God
 * i love you; 3개 강조 할 수 있음
 * 문 밖에 사람이 있어요; human xxx(외계인 느낌: alien) - there is a person / people at the door
 *  버스나 비행기에서 “의자좀 너무 많이 눕히지 말아주시겠어요?” 라고 공손히 얘기할 때는 동사 move를 쓰고요, 등받이 의자는 seat back을 씁니다. 

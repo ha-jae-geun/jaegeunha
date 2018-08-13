@@ -55,6 +55,15 @@
 * 3. 각 의문사별 정답 패턴들 외워두기
 * 4. why만이 가지는 정답패턴인 because와 to부정사
 * 5. 의문사가 나오면 yes나 no로 답할 수 없음.
+----------------------------------------------
+* 5형식; make find, leave, consider, keep, deep + 목적어 + 형용사
+* Provided that = if
+* unless otherwised mentioned / indicated
+* 논의한대로: as discussed / mentioned / indicated / stated
+* ~하는 사람들; those who / -ing / p.p / with | anyone who -ing / p.p / with
+* By the time 현재, S + will have p.p | 과거, 과거 + had p.p
+* S+V, therebyh/thus -ing
+
 * --------------------------------------------------------------------------------
 * #Part 1
 * 
