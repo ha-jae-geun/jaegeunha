@@ -1,3 +1,18 @@
+* 그냥 차액만 지불하면 돼; you just have to pay the difference
+* 중계자야; i'm like a match maker
+* 광고가 ~래; the advertisement said that ~
+* ~가 동나버렸다; ~ was/were gone
+* 연필 대란이 일어났다; it is about chaos that happend in IKEA surrounding free pencils
+* 공짜 싫어하는 사람 없다; there is no one who doesn't like freebies
+* 스크롤을 내리다; i will be scrolling through
+* 어떻게 ~할수 있었어? how did it manage to ~
+* 맨 위에 위치하다; sits atop
+* 부고란에 싣지 않을거에요; i won't put in an obituary
+* 이어주기; there was a meeting at work in the morning, which lasted more than 2 hours
+* ~라고 하는거야; i'm saying i'm sorry
+* 팬케이크를 시럽으로 추축하게 적시는 것을 좋아해요; i like to smother my pancakes
+* 팬케이크에 어떤 시럽 뿌리고 싶어요; What kind of syrup would you like on your pancakes?
+* 베이컨 쫄깃하게 해드릴까요? Would you like your bacon chewy?
 * 심술 부리는; [ˈpetjulənt]; His critics say he's just being silly and petulant. 
 * 산호세 숙박; (많은 사람·장비가 동원되는 복잡한 작업의) 실행 계획; the logistics of moving the company to a new building ;  
   홑이불과 베갯잇; bed linen 미국식  영국식   단어장추가\  
