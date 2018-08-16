@@ -1,3 +1,22 @@
+* 눈이 높다; my parents set the bar too high for my husband
+* 우리가 그가 그 아이디어들에 대한  피드백 해주기를 기다리고 있어.; "We’re waiting for him to feedback on the ideas."; They feedbacked me a lot more 
+* 1. 그거 하실 수 있으세요?; "Can you action that?"
+*  요청하신 건은 처리될 거에요.; "Your request will be actioned."
+* 목재 안에 있는 수액에 곰팡이가 필 거에요; the sap in the timer will be food for fungi/fungus; [fʌ́ndƷai; fʌŋɡəs]
+* 투지가 넘치는; 'driven'
+* (고위 간부); 'senior executive [ig-zek-yuh-tiv]'; (이사); 'director'; (이사회) ; 'board of directors ' (이사/ 임원) ; 'board member' 
+* 시험 결과 보고 현타 왔어.; The test result gave me a reality check.; give' 'offer' 'provide
+* 조수석 탔어; he called shotgun
+* 탄산수; sparkling 
+* 물 still water
+* 컨트롤광이에요; i'm kind of a control freak
+* 하나도 안까도뤄; i'm super low-maintenance <> high-maintenance
+* 오늘 후텁지근해요; it's muggy today;
+* 에어컨좀 틀까? Could we get the AC going?
+* 머리가 정리가 안돼 i cannot think straight
+* 머리좀 식히러 가야지; i need to go clear my head
+* 머리가 터질 섯 같애; my brain is about to explode
+* 부전 자전; Like father, like son!
 * 그냥 차액만 지불하면 돼; you just have to pay the difference
 * 중계자야; i'm like a match maker
 * 광고가 ~래; the advertisement said that ~

@@ -5,19 +5,19 @@
 ##영어
 * 인적성
 -------------
-* 4.29   	MLB http://post.naver.com/my/series/detail.nhn?seriesNo=46475&memberNo=449115
-* 4.29   	김형제 http://m.post.naver.com/my.nhn?memberNo=11764317
-* 4.29   	하루 10분 http://post.naver.com/my.nhn?memberNo=904209&navigationType=push
-* 4.29   	고딸 http://post.naver.com/my.nhn?memberNo=1061586&navigationType=push
-* 4.29	겁 없이 잉글리쉬 http://post.naver.com/my.nhn?memberNo=837891&navigationType=push
-* 4.29   	매일 3분 생활영어 `http://m.post.naver.com/my.nhn?memberNo=25246384
-* 4.29 러브굿    	http://hi007.tistory.com/
-* 4.29 텔라 http://blog.naver.com/PostList.nhn?blogId=tellakor&categoryNo=0&from=postList
+* 8.15   	MLB http://post.naver.com/my/series/detail.nhn?seriesNo=46475&memberNo=449115
+* 8.15   	김형제 http://m.post.naver.com/my.nhn?memberNo=11764317
+* 8.15   	하루 10분 http://post.naver.com/my.nhn?memberNo=904209&navigationType=push
+* 8.15   	고딸 http://post.naver.com/my.nhn?memberNo=1061586&navigationType=push
+* 8.15	겁 없이 잉글리쉬 http://post.naver.com/my.nhn?memberNo=837891&navigationType=push
+* 8.15   	매일 3분 생활영어 `http://m.post.naver.com/my.nhn?memberNo=25246384
+* 8.15 러브굿    	http://hi007.tistory.com/
+* 8.15 텔라 http://blog.naver.com/PostList.nhn?blogId=tellakor&categoryNo=0&from=postList
 -----------------------------------------------------------------------------
-* 4.29   	이상민 영어 http://blog.naver.com/minga2015
-* 4.29   	ECIK http://blog.naver.com/eckedu
-* 4.29 미드 표현 http://blog.naver.com/pjc425/220983107635
-* 4.29 영어는 빈둥대는 거야 ㄹhttp://m.daum.net/channel/superEnglish
+* 8.15   	이상민 영어 http://blog.naver.com/minga2015
+* 8.15   	ECIK http://blog.naver.com/eckedu
+* 8.15  미드 표현 http://blog.naver.com/pjc425/220983107635
+* 8.15 영어는 빈둥대는 거야 http://m.daum.net/channel/superEnglish
 * 4.29  영어 주유소 http://blog.naver.com/tnwlwldu
 * 4.29   	체니 http://m.post.naver.com/my.nhn?memberNo=2562700
 -----------------------------------------------------------------------------

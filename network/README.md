@@ -1,3 +1,7 @@
+## 외부에서 내부 라우터로 접근
+* 1. 포트 포워드 - VPN으로 테스트(프록시 자동)
+* 2. TeamViewer
+
 ## DNS
 * DNS 값을 IP로 변환 -> Socket(IP, Port) -> IP가 맥주소로 변환 
 
