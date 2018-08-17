@@ -1,3 +1,38 @@
+* 귀찮다; 1. i can't be bothered to 2. i feel lazy to 2. later
+* 그게 날 살렸다; that gets me off the hook
+* 대박 계약 체결했어; we signed a juicy contract
+* 너 감당 못해; you're in over your head
+* 그냥 따라오던데; she just tagged along with us
+* 3부류로 나눌수있어; we can break this problem down to three different parts
+* 그랬다가 안그랬다가 한; i've had toothahce on and off for months
+* 화장실 가야해; Nature calls; call
+* 말실수야; i think i slipped up
+* 대형 마켓 가자; Visit a full-sized korean supermarket
+* 업그레이드해서; Let's take it up a notch
+* 망설이게돼; i'm getting boggled
+* 무조건; hands down
+* 도시와 판자집을 비교하는 거지; it's like a shack compared to your city
+* 불화를 야기하지마; don't rock the boat
+* 순진하긴 진실을 봐; don't be naive
+* 아빠가 나 혼낼거야; my dad's gonna have my ass
+* 운에 맡겨보겠어; i'll take my chances
+* 잠깐 주목; do i have your attention
+* 내가 대신 자리를 돌볼게; i'll hold down the fort
+* 잘 생각해봐; do the math
+* 네가 잘하는지 확인하고 싶었어; i wanted to check on you
+* 잠깐 기다려; Hang tight
+* 그는 구제 불능이야; he's hopeless
+* 그게 인생이지; Guess that's life
+* 그가 날 구해줬어; he saved my butt
+* 네가 자초한거야; you asked for it
+* 강요하는건 아니야(심각한 상황); i'm not trying to twist your arm
+* 제발; oh for god's sake
+* 잠깐 얘기좀 할까? A word?
+* 왜이리 꾸물돼? Whats' the hold off; slack off, procrastinate
+* 5분 늦었다고 엄청 ㅜ머라했어; she jumped on me for being only 5 mins late
+* 죽여주는 계획에 관련해서 앞으로 어떻게 진행할래? How do you wanna proceed in light of that kick-ass plan
+* 하필 왜 오늘이야; Why does it have to be raining today #of all days
+* 점점 한시간으로 늘려가; work up to an hour; work up from an entry level to become an expert
 * 눈이 높다; my parents set the bar too high for my husband
 * 우리가 그가 그 아이디어들에 대한  피드백 해주기를 기다리고 있어.; "We’re waiting for him to feedback on the ideas."; They feedbacked me a lot more 
 * 1. 그거 하실 수 있으세요?; "Can you action that?"

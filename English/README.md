@@ -18,10 +18,10 @@
 * 8.15   	ECIK http://blog.naver.com/eckedu
 * 8.15  미드 표현 http://blog.naver.com/pjc425/220983107635
 * 8.15 영어는 빈둥대는 거야 http://m.daum.net/channel/superEnglish
-* 4.29  영어 주유소 http://blog.naver.com/tnwlwldu
-* 4.29   	체니 http://m.post.naver.com/my.nhn?memberNo=2562700
+* 8.15   	체니 http://m.post.naver.com/my.nhn?memberNo=2562700
 -----------------------------------------------------------------------------
-* 4.29   	파고다 오늘의 회화 http://post.naver.com/my.nhn?memberNo=4550737&navigationType=push
+* 8.15  영어 주유소 http://blog.naver.com/tnwlwldu
+* 8.15   	파고다 오늘의 회화 http://post.naver.com/my.nhn?memberNo=4550737&navigationType=push
 * 4.29 #skybel http://blog.naver.com/skybels/221137138009
 * 4.29 영단:http://m.post.naver.com/my.nhn?memberNo=25662548&navigationType=push
 * 4.29 오석태 http://m.post.naver.com/my.nhn?memberNo=2798983
