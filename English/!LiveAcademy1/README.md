@@ -1,3 +1,71 @@
+* 그는 입국 허가를 기다리고 ; He is waiting for entry clearance
+* 억지로 귀를 기울이게 하다; i have to bend your ear
+* 기가 막히게 작동하다; go/work like a dream
+* 돈은 문제가 안된다; money is no object
+* cat calling: 휘바람 불면서; street harassment
+* 세상의 쓴맛 단맛을 다 안다; he knows all the angles
+* 여자를 유혹하지 마라; stop tomcatting around her
+* 춤 같이 출까요? How about cutting a rug
+* 무슨 생각 해? A penny for your thought?
+* 어중이 떠중이들의 파티; tom, dick and harry's party
+* 꾀부리지 마라; none of your tricks
+* 여자라면 사족을 못써; he is spoony on a woman
+* 술맛 좋군; enough to make a cat speak;
+* 한잔 먹자; down the hatch
+* 누군지 전혀 모른다; i don't know him from a crow
+* 당신은 내가 빠기제 만들었어요; you blew me away
+* 별로 안된다; only so many/much; i got only so many seconds
+* ~를 좋아하다; fuck with 
+* 개놀람: shook 
+* 주변에 무슨일이 있는지 안다; i'm so woke
+* 재미있느 ㄴ소문 있어? you got some tea to spill
+* 미쳤다; he's total bananas / he went bananas
+* 중요하다; be all and end all
+* 해고됐어; he got the chop; gave it the chop
+* 매ㅇ 느리게 움직이다; move at a snail pace
+* 뜻밖의 횡재; have a lottery windfall
+* 부자다; be rolling in it
+* 드라이브하러가다; go for a spin
+* 입소문; hear about it by word of mouth
+* 쫒아내다; i will have to show you the door
+* 최고 한도 금액; pay top dollar
+* 무리한 요구; be a tall order
+* 일심동체다; they've been joined at the hip
+* 연금으로 살아간다; living on annuity
+* 당신과 논의할 게 있어요; i have a nut to crack with you
+* 그는 뇌물 먹을 염려가 없다; he is proof against bribery
+* 미끼야; it's stool pigeon
+* 스타킹 기스가 나다; i got a run in my stockings
+* 전학가다; was it easy to have your son transffered?
+* 무슨 꿍꿍이야? What's the catch
+* 식곤증에 빠지다; i'm slipping into food foma
+* 의자를 뒬로 젖혀도 되나요? Can i move my 
+* 룸 서비스 시클 수 있나요? Can i order a room service?
+* 1박 숙박비 얼마에요? What's the rate for one night?
+* 뜯는곳; tear here
+* 같은 걸로 다른 캐릭터 있나요? Do you have this in other character
+* 아몬드 1인분은 160 칼로리이다; a serving of almonds has 160 calories
+* 일취월장하고있어; he's growing in/by leaps and bounds
+* 최선의 방책은; your best bet is
+* 약간 번잡하네; it's a bit of hustle and bustle
+* 어찌해야할지; i'm in a quandary
+* 그는 땡전 한푼도 없다; he hasn't a penny to his name
+* 마음은 콩밭에가 있네; here in body, but not in spirit
+* 바로 그 자세야; that's the spirit;
+* 그건 무용지물이야; it's a white elephant
+* 갇혀있었따; i've been trapped in
+* 그 이야기는 논란을 불러 일으킬 것이다; the story will stir up controversy
+* 포커; i'll follow your suit; 똑같은 카드를 내다
+* 움직일수 없는 증거; smoking gun
+* 술을 진탕 마시고있어; he's been boozing all weekent
+* 애정 상태 어때요? What's his relationship status?
+* 이상한 애에요; he is odd dock
+* 침대가 정돈이 안되어 있어요; My bed is not made.  
+* 체크인 일찍해도 돼요? Can I have an early check-in?
+* 이 버 스 공항 가요? DOes this bus go to the airport?
+* 무슨말인지 모르겠어; i, um, i don't follow
+* 말도 안돼; that's preposterous; [prɪˈpɒstərəs] 
+* 일하러 가는데 태워줘; i need a ride to work
 * 귀찮다; 1. i can't be bothered to 2. i feel lazy to 2. later
 * 그게 날 살렸다; that gets me off the hook
 * 대박 계약 체결했어; we signed a juicy contract
@@ -7,6 +75,7 @@
 * 그랬다가 안그랬다가 한; i've had toothahce on and off for months
 * 화장실 가야해; Nature calls; call
 * 말실수야; i think i slipped up
+* 커피 어떻게 마셔? How do you take your coffee?
 * 대형 마켓 가자; Visit a full-sized korean supermarket
 * 업그레이드해서; Let's take it up a notch
 * 망설이게돼; i'm getting boggled

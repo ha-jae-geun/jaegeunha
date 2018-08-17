@@ -1,3 +1,17 @@
+* 수업을 듣다; take (O) listen, attend (X)
+* stupid 좋지 않은 단어 -> silly
+* straight: 이성애자; straighten out: 바로잡다; straighten up your back: 정돈하다 
+* 흉칙하게 생겼어; they are hideous to look at; 끔찍한 스케줄이야; i got a hideous schedule;  [ˈhɪdiəs]
+* 누가 적임자야? Who among you is worthy?
+* 정체기 들통났어; i blew all my covers = i gave away all my secrets
+* convince: 믿게 설득하다; convince him that santa exists; persuade: 무엇을 하도록 설득하다; to join our voluteering
+* dont' ask me; 1. 나한테 묻지마 2. 내 잘못 아니야
+* 졸업하다;  graduate from + N
+* 이 공간은 비즈니스 행사용으로 50명의 인원을 수용할 수 있다; his hall seats 50 people for business functions
+* 이 물건값은 비싸다; The price of the article is expensive; 조항
+* 또 시작이네; Here we go again
+* 스케줄을 비우다; clear up your schedule
+* look forward + N"가 "~하길 고대하다"라는 숙어예요. 따라서, to 뒤에 명사형이 아닌 동사 원형
 * alone 혼자 xx -> 단둘이; i want to be alone with you tonight
 * envy: 상대방이 갖고 있는 것을 부러워하다 <> jealous; 잃을 것을 두려워하다
 * 아토비: has atopic dermatitis(족저 근막염) -> have a skin condtion; it is a condition from birth(the birth xx)
