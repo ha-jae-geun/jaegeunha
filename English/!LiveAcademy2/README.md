@@ -186,3 +186,4 @@
 * 기말고사 끝; i'm done with my finals
 * 제가 의자 뺴 드릴게요; let me pull out the chair for you
 * 맘껏 쓰세요; it's all yours
+* 불법적으로; under the counter

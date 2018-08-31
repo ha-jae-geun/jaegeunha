@@ -39,7 +39,6 @@
 * 8.15 하루하루 이루다 https://blog.naver.com/puretearing?Redirect=Log&logNo=220818687784
 * 8.15 출판사 프렉티쿠스  https://blog.naver.com/knowhereman
 * 8.15 소미영어 https://blog.naver.com/somienglish 
-* 8.15 케이크 신개념 무료 영어학습 앱
 * 8.15 영어랑 커피 한잔 https://post.naver.com/my.nhn?memberNo=576800
 * 8.15 해피제이드 해피라이프J https://blog.naver.com/jadekim925?proxyReferer=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fsm%3Dtab_hty.top%26where%3Dnexearch%26query%3D%25ED%2595%25B4%25ED%2594%25BC%25EC%25A0%259C%25EC%259D%25B4%25EB%2593%259C%2B%25ED%2595%25B4%25ED%2594%25BC%25EB%259D%25BC%25EC%259D%25B4%25ED%2594%2584%26oquery%3D%25ED%2595%25B4%25ED%2594%25BC%25EC%25A0%259C%25EC%259D%25B4%25EB%2593%259C%2B%25ED%2595%25B4%25ED%2594%25BC%25EB%259D%25BC%25EC%259D%25B4%25ED%2594%2584J%26tqi%3DT1SonlpVuEdssvAYXWRssssstlV-350845
 * 8.15 쎄듀와 함께 쎄쎄쎄 https://blog.naver.com/cedubook?proxyReferer=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fsm%3Dtab_hty.top%26where%3Dnexearch%26query%3D%25EC%258E%2584%25EB%2593%2580%25EC%2599%2580%2B%25ED%2595%25A8%25EA%25BB%2598%2B%25EC%258E%2584%25EC%258E%2584%25EC%258E%2584%2B%26oquery%3D%25ED%2595%25B4%25ED%2594%25BC%25EC%25A0%259C%25EC%259D%25B4%25EB%2593%259C%2B%25ED%2595%25B4%25ED%2594%25BC%25EB%259D%25BC%25EC%259D%25B4%25ED%2594%2584%26tqi%3DT1SodlpVuElsst8wGY8ssssstwo-497213
@@ -49,7 +48,15 @@
 * 8.15 아미고톡 http://blog.amigotalk.com/
 * 8.15 야나두 https://blog.naver.com/yanadooblog/221323042575
 * dave den https://blog.naver.com/daveenglish 
+* 파이널리스피크 https://blog.naver.com/finallyspeak
+* 사람 in 출판사 https://post.naver.com/my.nhn?memberNo=4760630
+* 데인; https://blog.naver.com/danelee
+* ebse https://m.post.naver.com/my.nhn?memberNo=42107228
+* 캠퍼스잡앤조이; https://m.post.naver.com/my.nhn?memberNo=12244919
+* 바니의 공부방 https://blog.naver.com/iove4080
+* EWHA 외국어교육 커뮤니티센터 https://blog.naver.com/ewha201809
 * 한국번역연구소 https://blog.naver.com/ktri8888?proxyReferer=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fsm%3Dtab_hty.top%26where%3Dnexearch%26query%3D%25ED%2595%259C%25EA%25B5%25AD%25EB%25B2%2588%25EC%2597%25AD%25EC%2597%25B0%25EA%25B5%25AC%25EC%2586%258C%26oquery%3D%25EC%2595%25BC%25EB%2582%2598%25EB%2591%2590%26tqi%3DT1SptwpVuFZsscDhiUsssssssWd-342395
+* 케이크
 -----------------------------------------------------------------------------
 * 당므채널
 * 스포츠 뉴스 (네이버, 다음)
@@ -57,7 +64,7 @@
 * 빌보드 https://www.billboard.com/charts/hot-100#/charts/hot-100
 * 네이버 톡톡 http://talkie.naver.com/english/room-list.dict?mode=mobile
 * 네이버 퀴즈 http://wquiz.naver.com/main.dict
-
+* 데인 https://blog.naver.com/danelee
 ## 영어
 * 썰설최
 * 드림텔러
