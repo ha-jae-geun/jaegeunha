@@ -1,3 +1,10 @@
+* DOA; Dead on arrival; 도착시 이미 사망
+* Jone Doe / Jane Doe; 신원 미상의 시신
+* TOD: Time of Death
+* ME; Medical Examinaers; 부검의
+* Defensive wounds; 방어흔
+* Sign of struggle; 싸우거나 방어한 주변 흔적
+------------
 * #죽음 die pass away: 존칭, #flatline(심전도의 그래프가 수평선)
 * 시작으로부터의 죽음 Doomed from the start
 * #악령; #vengeful spirit

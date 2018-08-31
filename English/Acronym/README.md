@@ -77,6 +77,7 @@ One O one- point nine FM
 * #Ext.14: 					 extension fourteen ɪk ' stenʃn ‘fɔ:r ’‘ ti:n
 * Ext: 호텔에서의 구내전화 내선번호를 뜻함
 * #EZ easy
+* #FM; field manual
 * #F4F 						 Follow for follow; 누가 나 좀 팔로우 해주세요
 * #Flight 301								flight three o one flaɪt
 * #Flight 745		 flight seven-four-five / flight seven forty five flaɪt ‘fɔ:ti ’‘fáiv
@@ -165,6 +166,7 @@ One O one- point nine FM
 * #SorG: 							Straight or gay?(무지개 색 게이 상징 옷)
 * #SRY										 Sorry. 미안
 * ##tarp; tarpaulin; 방수포
+* T/O; table of organization
 * #TBA 							 to be announced; 	추후 공고 예정
 * #TBD to be decided; 미정
 * #TDTM: 								 Talk dirty to me.

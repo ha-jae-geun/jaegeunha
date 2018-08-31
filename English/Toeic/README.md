@@ -56,6 +56,8 @@
 * 4. why만이 가지는 정답패턴인 because와 to부정사
 * 5. 의문사가 나오면 yes나 no로 답할 수 없음.
 ----------------------------------------------
+
+#최신 
 * 5형식; make find, leave, consider, keep, deep + 목적어 + 형용사
 * Provided that = if
 * unless otherwised mentioned / indicated
@@ -63,6 +65,15 @@
 * ~하는 사람들; those who / -ing / p.p / with | anyone who -ing / p.p / with
 * By the time 현재, S + will have p.p | 과거, 과거 + had p.p
 * S+V, therebyh/thus -ing
+* inform A of B(3형식), inform A about;(3형식) 3. inform A that S+V(4형식)
+* grant permission to him / grant him permission
+* rather than ~를 대신해서 = instead of; 전치사
+* in case: ~의 경우를 대비해서; 접속사 <> in case of; 전치사
+* 1형식; travel, act, decline, emerge, occur, reside, work, speak/talk, comply
+* 자동사, 타동사 모두 가능: expand, return, increase, improve, drive
+* 걸려있다; be haning on the wall / have been hung next to the mirror
+* definitely + 최상급: 틀림없이 최고 2. definitive resource; 중요한 자원
+* disruptive: 방해를 주는; disrupted; 방해 받은
 
 * --------------------------------------------------------------------------------
 * #Part 1

@@ -1,6 +1,6 @@
 [Composition 1](./Composition1/README.md)
 
-7.24
+8.30
 
 ##영어
 * 인적성

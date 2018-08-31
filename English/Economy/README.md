@@ -1,5 +1,10 @@
 ## 경제
-
+* 세율; tax rate
+* 증여세; gift tax <> inheritance tax
+* 군대 면제당하다; avoid national service; be exempt from ~
+* 소득 하위; in the bottom/top 70 percent income
+* 범을 시행하다; put a law into effect/force/operation
+---------
 * 연료 소비량을 줄일 수 있을까; how can we improve the car's fuel efficiency
 * #근원물가; #core inflatioon; 물가 변동이 심한 품목을 제외한 장기적인 물가
 * 물가 오르면 근원물가에 집중 

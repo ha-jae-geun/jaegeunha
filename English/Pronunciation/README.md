@@ -1,3 +1,8 @@
+* rural [ˈrʊrəl] 
+* colonel 미국식 [ˈkɜːrnl]; 대령
+* [명사] 지협(地峽); isthmus 미국식 [ˈɪsməs]  영국식   단어장추
+* choir 미국·영국 [ˈkwaɪə(r)]
+-----------
 * #발음 기본 enunciation 미국·영국 [inʌ̀nsiéiʃən,-ʃi-]; #말투
 * #음성; the International #Phonetic Alphabet 
 * #발성; #diction is #deplorable

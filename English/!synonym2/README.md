@@ -1,5 +1,42 @@
+* For: 아직 닿지 않은 미래, 과거와 미래의 상관 관계, 대신에, 목적, 누군가를 지지하고 누군가를 위해서 희망 about; 구체적이지 않은 ~에 대하여; 
+  on: 구체적인 ~에 대하여
+* Deposit: 보증금 / 계약을 해지하고 반환받는 돈
+* Damage / Damages: 손해 배상금
+* 마스크팩: mask pack > facial mask
+* 핀셋: Pincette > Tweezer
+* 매니큐어; Manicure > Nail polish
+* 물 꿀 > aqua, mel > Water, Honey
+* ~어땠어; ~어때? How was / How is
+* 선진국; advanced country, developed country <> developing country
+* 솔직히 말할게; ill level with you / honest / come clean
+* 잼을 바르다; spread jam on her bread; spread the map on the table; spread its wings
+* the teacher mixed up our names
+* Cool story, bro. 비꼬는 말
+* How come; why의 비격식적
+* There you go; 1. 잘하네 2. 여기 
+* 나 스포츠카 매니아야; i'm a sports car maniac(mania xx)
+* 나 크루 맴버야; i'm a crew member(crew x)
+* fiance: 약혼남; fiancee; 약혼녀; 피안쎼이 발음 같음
+* 스피커폰이야? Am i on speaker phone?
+* beat(up); 두들겨 패다; i;ll beat up you
+* 걸리다; caught doing something; be busted;
+* clap: 박수치는 동작에 중독; give it up for someone 
+* cold/ache 는 a/an을 추가
+* 새벽; at dawn은 시간과 섞어쓰지 않음; 4 in the morning
+* 스태프; staff: 스태프 단체; staff member
+* 맞지 않다; it doesn't fit me; (fit to xx)
+* i'm a police officer; police: 경찰 단체
+* i'm wet; 젖은; moist 촉촉
+* date someone
+* be known for; 업적 행위 사건으로 알려져있다; be known as; 명칭
+* 정시에; i'll pick you up at 7 sharp
+* 살이 찌다; gain weight(get weight xx)
+* 며칠만 on; 나머지는 in 1990/ may
+* 칭찬, 존경, 인정합니다; kudos to you / kudos
+  Prop, Props to you
 * 수업을 듣다; take (O) listen, attend (X)
 * stupid 좋지 않은 단어 -> silly
+* 일사병: Heat exhaustion; 열사병: Heat stroke
 * straight: 이성애자; straighten out: 바로잡다; straighten up your back: 정돈하다 
 * 흉칙하게 생겼어; they are hideous to look at; 끔찍한 스케줄이야; i got a hideous schedule;  [ˈhɪdiəs]
 * 누가 적임자야? Who among you is worthy?
