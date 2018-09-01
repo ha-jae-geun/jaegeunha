@@ -166,6 +166,9 @@
 * He Sent me / With An attachment / A document / Attached Document
 * Saying (that) / Telling Someone (that) / Ask / Ask if / Letting Someone V / Reminding ( Not to Forget )
 
+# 첨부
+* 첨부하다; 1. i have attached my presentation file to this email 2. Please find the attached images you requested 3. I am attaching the file
+
 # 끝맺음
 * your sincerely, respectfully, respectfully yours(매우 격식)
 * 격식: Thank you, Sincerely yours, Sincerely

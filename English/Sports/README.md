@@ -176,7 +176,11 @@
 * #들판; #field; in a field
 * #초목; #vegetation
 * #전반전; first half (of the game); win in #overtime
+* 침대 축구를 했다; He took a dive; that was a flop
+* 동점을 만들었어; They tied the match
+* 동점골을 넣엇어; scored an equalizer
 * ##축구
+
 * #야구장
 * 3회초 3회말이다; it’s the #bottom / #top of the third
 * 주자가 1루에 있다; the runner’s on first;  #만루; the bases are loaded

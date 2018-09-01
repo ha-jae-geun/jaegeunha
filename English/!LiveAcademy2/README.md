@@ -187,3 +187,95 @@
 * 제가 의자 뺴 드릴게요; let me pull out the chair for you
 * 맘껏 쓰세요; it's all yours
 * 불법적으로; under the counter
+* 화/스트레스를 풀다; blow off steam = let off steam + by -ing
+* 면세 허용치는 어떻게 되나요? What's the duty-free allowance
+* 꿍꿍이속이 있다; have an axe to grind with 대상
+* 금속 탐지기를 지나가 주세요; Walk through the metal detector
+* 나느 눈치를 챘다 그녀가 불편한걸; i picked up on her discomfort
+* the party was for college kids only; 대학생 어린이들; kids these days: 젊은이들
+* 콜; Are you down; i'm down, Are you in?; I'm in
+* 눈치를 보다; pay attention to social cues = walk on eggshells
+* 이 가방을 부치고 싶어요; i want to check this bag
+* 저울 위에 올려주세요; put them on the scale
+* 관심을 가져가다 ; you really stole the show yesterday
+* 갑질을하다; my boss sometimes goes on a power trip
+* 항공 체크인 카우터; where's the check-in counter
+* 나 먹는거 좋아해; i'm a foodie
+* 나 근육 뭉쳤어; i have a knot in my shoulder
+* 수하물 허용치는 어떻게 되나요? What's the baggage allowance
+* 무게 초과금은 어떻게 되나요? what's the excess baggage fee?
+* 고자질쟁이 되지 마; Don't be a tattletale
+* A에서 B로 가는 항공편을 예약하고 싶어요; i want to reserve a flight from A to B
+* 너 오버한다; you're being way over the top
+* Magic words; 1. 주문 2, 애기들에게 이쁜말 하는 것
+* 연차를 쓰다; take annual leave
+* 뱃멀미하다; i et seasick a lot / airsick / motion sickness
+* 자책골; score an own goal
+* 손 들어보세요; show of hands
+* 회사 설립 이후 최고의 실적을 보여줘; show me the best numbers this place has ever seen
+* 정리하자; clear out
+* ~라 약속해; Promise me (that)절
+* 참아; suck it up
+* 지금부터; From here on out
+* 제 웃음코드가 아니에요; Not my sense of humor
+* 나한테 모르는 척 하지마; DOn't play dumb with me
+* 1분당 100회 속도로 압박해야 합니다; we need to pump at a pace of 100 beats per minute
+* 장기 기증 카드가 있나본대; Check for an organ donor card
+* 그 건은 아직 성사시키지 못했어; I didn't close that one yet
+* 가만히 있어요; Stay still
+* ~하는데 재주가 있다; have a knack for
+* 물러서요! 차량 털이범 총에 맞았어; Stay back! Carjacker. He's been shot
+* 경찰차 3대가 추적중이다; We got three cars in pursuit
+* 네 코가 온통 보라색으로 변했어; Your whole nose has gone purple
+* 덤벼봐!; Bring it on!
+* 그녀는 밤새 그와 춤추어서 그를 힘들게 했다.; She danced him whole night off his legs. 
+* 아니요, 매일매일이 저에겐 쉽지 않았습니 No, every day is not a walk in the park with me. 
+* 산 넘어 산이다; One thing after another
+* 저 재미있는 ㅏ람이에요; i'm a ball
+* 화해한것 같아요; make one's peace with someone
+* 나는 약속은 꼭 지키니까; i am a man of my word
+* 얼마 안 가서 멀미도 안 하고 배를 잘 탈 수 있게 될 것이다.; It won’t take you long to find your sea legs. ; 
+* 적재적소의 것; a rond pegs in a square hole
+* 병신이야 아니면 그냥 덜떨어진거야? Are you retarded or just plain stupid
+* 피임도구를 썼어야지; shoud have considered using protection
+* 그거 책임 회피야; that is a cop-out
+* 엄청 공감하셨겠어요; it must resonate with you [ˈrezəneɪt] 
+* 관심 뺏고 싶지 않아; i don't want to take the attention away from you
+* 아슬아슬했어; it was touch-and-go
+* 싹을 잘라버려야해; you've gotta nip this in the bud
+* 공소시효가 지났다고; The-the statute of limitations has run out
+* 그 여자애는 심지가 강하구나.; That girl has an iron backbone. 듣기
+* 예의를 갖추세요; Behave yourself
+* 너무 성급하게 굴지 말아요; Easy does it
+* 편히 쉬고 계세요; Hang loose
+* 제가 시간이 없어요; i haven't got all day
+* 그것에 동감입니다; i will drink to that
+* 그건 유행이 아니에요; it is out of style
+* 대단히 감사합ㄴ다; Many thanks
+* 크게 말하세요; Speak out
+* 아직 극복하지 못했어요; i haven't been able to get past it
+* 연습이었다고 생각해요; 훈련소 같은거요; Let's look at karl as a starter marriage; you know, boot camp
+* 연기는 그만해; Drop the act
+* 누가 일렁써: Who cracked
+* 상담을 받고있다; ! and ~ are in counseling
+* 결국 렉스가 폭발했고; the bottomline is he stormed outs
+* 조종사와 연결이 끊겼습니다!; we've lost all ontact with the pod
+* 2단계 멀린컷; he got a two-take mullet; 영국남자
+* 후퇴해야지 후퇴; Back out; 영국남자
+* 머리에 복수해 놓은것 같아; he took revenge on your hair' 영국남자
+* 0mm짜리 이발기를 드시더니; he gets a size 0 razor 영국남자
+* 짝짝이 일수는 없으니까; you can't be lopsided 영국남자 
+* 이미 비대칭인대; my face is already asymmetrical  영국남자
+* 어떻게 숙이는 지는 모르겠느데; i don't know hot to crouch but  [kraʊtʃ]
+* 안돼, 천만에; no dice
+* 저건 정말 비겁했어!; That was distinctly below the belt! 
+* 그 맥주는 체코 공화국에서 양조된 것이다.; [VN] The beer is brewed in the Czech Republic. 
+* 모두 손을 모아 돕다[도와야 한다] all hands on deck; There are 30 people coming to dinner tonight, so it's all hands on deck. 
+* ~의 자신감/용기/사기를 북돋우다; to bolster sb’s confidence/courage/morale ; 
+* 그는 유명 음악인과 함께 작업할 수 있는 기회를 오랫동안 갈망하던 참이었다.; [VN] He had long coveted the chance to work with a famous musician. 
+* 좋으시곘어요; Lucky you
+* ~인지 아는거야? DO you have any idea ~
+* ~는 어떤 기분이야? what is it like ~
+* 됐어; Save it Richard
+* 수면 부족이야; i'm sleep-deprived
+* 절대로 안해요; Not a chance

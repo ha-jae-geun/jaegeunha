@@ -1,3 +1,7 @@
+* travel; 상대적으로 개념적이고 긴 여행; trip: 구체적이고 목적성있는 ㅇ행; going on a business trip
+* nonstop flight / direct flight(1. layover; 24시간 미만 2. stopover)
+* holiday; 다 함꼐 쉬는 vacation: 혼자 쉬는
+* celebrate + 행사, 이벤트, congratulate + 사람
 * For: 아직 닿지 않은 미래, 과거와 미래의 상관 관계, 대신에, 목적, 누군가를 지지하고 누군가를 위해서 희망 about; 구체적이지 않은 ~에 대하여; 
   on: 구체적인 ~에 대하여
 * Deposit: 보증금 / 계약을 해지하고 반환받는 돈
