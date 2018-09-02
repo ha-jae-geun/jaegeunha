@@ -179,7 +179,7 @@ Don’t cross your legs bc when you put one knee over the other, it sends blood 
 * *open book: 1. 마음, 생각 따위를 쉽게 들키는 사람 2. 사생활이 전부 알려져있는 사람
 * #book smart 책 따위로 얻은 지식은 많지만 눈치, 상식 등의 실생활, 경험적인 지식이 부족한 사람
 * 중국으로 가는 비행기 예약했어 						I booked a flight to China.
-* 겉으로만으로 사람을 판단하지 말라				 Don't judge a book by its cover.
+* 겉으로만으로 사람을 판단하지s 말라				 Don't judge a book by its cover.
 * 그 여자는 모든일을 에프엠대로 해요!! 		#정석, #FM	 She does everything by the book.
 * 내 생각으로는 메이슨은 멋진 녀석이야. 				 Mason is nice in my book.
 * 파이러츠는 6대1로 졌다			공식 기록에 남다. 지다 the Pirates' 6-1 loss was in the books
@@ -196,3 +196,5 @@ Don’t cross your legs bc when you put one knee over the other, it sends blood 
 * 머리는 좋으나 세상물정을 모르는; 꺼벙	 				 nerdy, book-smart
 * 온 몸이 #욱신욱신해. 				 Every part of my body is sore. , It‘s #smarting
 * ##smart
+* 내 말이: Exactly; Tell me about it
+* fare: 교퉁수단; motorway tolls: 도로, 다리 이용

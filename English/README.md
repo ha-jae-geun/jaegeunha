@@ -56,6 +56,9 @@
 * 바니의 공부방 https://blog.naver.com/iove4080
 * EWHA 외국어교육 커뮤니티센터 https://blog.naver.com/ewha201809
 * 한국번역연구소 https://blog.naver.com/ktri8888?proxyReferer=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fsm%3Dtab_hty.top%26where%3Dnexearch%26query%3D%25ED%2595%259C%25EA%25B5%25AD%25EB%25B2%2588%25EC%2597%25AD%25EC%2597%25B0%25EA%25B5%25AC%25EC%2586%258C%26oquery%3D%25EC%2595%25BC%25EB%2582%2598%25EB%2591%2590%26tqi%3DT1SptwpVuFZsscDhiUsssssssWd-342395
+* Cage-free https://blog.naver.com/yp2k
+* 해커스어학원꿀팁 https://blog.naver.com/hacademia
+* 잉글리쉬 에듀몰 https://tomasuper.blog.me/
 * 케이크
 -----------------------------------------------------------------------------
 * 당므채널

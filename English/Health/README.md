@@ -1,6 +1,6 @@
 * 담당 의사에요; i'm on call today
 * 별 다른 상처는 없네요; there doesn't seem to be any mark
-* 
+* 어금니: molar; 
 --------------
 * #건강검진; have a #medical checkup
 * #B형 간혐; #type BV Flue; Influenza A viruses

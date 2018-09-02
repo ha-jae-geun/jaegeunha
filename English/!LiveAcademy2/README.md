@@ -279,3 +279,103 @@
 * 됐어; Save it Richard
 * 수면 부족이야; i'm sleep-deprived
 * 절대로 안해요; Not a chance
+* 주먹을 휘두르기 시작했다; He started to throw punches at me
+* 전과자인데, 9번 유죄 판결을 받았고; an ex-convict with nine criminal convictions on his record
+* 소식을 접한 아이의 부모는; After the kid's paretnes were told about what happened to their son
+* 손 위로 올려; Put your hands in the air
+* 줄리와 마크, (나이는) 각각 17세와 19세; Julie and Mark, aged 17 and 19 respectively 
+* weaning food; [명사] 이유;  [wiːn]
+* (바구니같이 생긴) 아기 침대; bassinet 미국식 [ˌbæsɪˈnet]
+* 아이가 자꾸 울어서 그러는데 통로에서 아이를 달래도 될까요? Can i soothe my baby in the aisle passage?
+* 지퍼 열렸어; YOur flies are undone / open
+* 수다를 ㄸㄹ다; i usually shoot the breeze at the 
+* 학교 어때? How's your study going?( school: 학교 짓는 것)
+* 망고기 익었다; still green <> ripe
+* ~에 면역이 되다; [ɪˈmjuːn]; be immune to; be immune from
+* 오지랖퍼; he is such a busybody
+* trandsetter = trand leader / follwer <> trend stealer
+* 사래걸리다; went down the wrong pipe
+* 생리; menstruation; [ˌmenstruˈeɪʃn]; 생리하다; have one's period; 생리주기: menstrual cycle; 통: cramp
+* 동상걸리다; if you don't want to get frostbite
+* 원시인: caveman
+* 사무실을 비우다; everyone was out of the office
+* 무찌르다; clean one's clock
+* 어려운 일 아니야; it's not brain surgery
+* 겁쟁이; afraid of your own shadow
+* 난 망했어; i'm a goner
+* 빈둥거리다; bum around with
+* 서투른 목수가 연장탓한다; Bad workman blames his tools
+* 구관이 명관이다; Better the Devil you know
+* 찬물을 끼얹다; Rain on your parade
+* 죽음의 문턱에서; One foot in the Grave,
+* 최신 정보를 알리다; bring up to date
+* 순전 운이야; that's blind luck
+* 배가 찢어질 정도로 웃다; bust a gut
+* 가격이 치솟다; Through the roof
+* 서로 완전히 다른것; Chalk and Cheese
+* 환상을 깨다; Burt your bubble
+* 너는 의지가 되는 사람이야; YOu're my rock
+* 들어줄 수 없는 요구; A pound of flesh
+* 현실을 외면하다; Bury your head in the sand
+* 법 위에 있다; Above the law
+* 모욕하다, 경멸하다; thumb your nose
+* 자신의 능력 밖에 처해있다; Beyond your depth
+* 같은 취미를 가지다; biten by the same bug
+* 주의를 기울이다; Keep your ear to the ground
+* 태생적으로 타고나다; it's in my bones and blood
+* 금방 쏜살같이, 바로; in a jiffy
+* 너무 초조해; i am jumpy
+* 해외직구하다; cross-border shopping
+* 사기다; be full of fraud
+* 무기징역; be sentenced to life imprisonment for fraud
+* 백마탄 왕자; knight in shining armor
+* 무단침입중이야; breaking and entering
+* 실물로; in the flesh
+* 나 왕따야? Dont' i count?
+* 좀 봐줘; Cut me some slack
+* 인정해; own up all you know about it
+* 권태기가 오다; 신선하지 않다; go stale
+* 소름 돋다; i have chills
+* 단번에 끊다; go cold turkey
+* 가짜야, 믿을수가 없ㅅ네; it's bogus
+* 생각할 거리; it gave me a lot of food for thought
+* 너 질투해? Are you jelly?
+* 익숙하게 들리다; that desecription doesn't ring any bells with me
+* 난감한 문제; be a bot potato
+* 나 ㄴ의견이 달라; i beg to differ
+* 응원하는 말; pep talk
+* 판에 박히다; be in a rut
+* 똑바로 해; get your act together
+* 한 숨도 못잤어; i couldn't sleep a wink
+* 핵심을 찌르다; hit the nail on the head
+* 변명하자면; in my defense
+* ~하려는 참이다; on the edge of
+* 잠시 쉬었다가 가자; let's make a pit stop
+* 전액 장학금으로 들어갔어요; he got a full-ride scholarship to college
+* 사는게 그렇죠 뭐; that's thee way the cookie crumbles
+* 대타 뛰어주다; cover one's shift
+* 아무 조건없이; No strings attached,
+* 소문났어; the word is out
+* 그런 수는 통하지 않아; that cock won't fight
+* 배웅하다; see someone out
+* 몰아보다; binge watch
+* 요령을 알다; know the ropes
+* 기운내; lighten up
+* 고자질하다; promise not to tell on me
+* 일벌레; eager-beavers
+* 주도권을 쥐다; wear the pants
+* 잭하다; get back on my feet
+* 금수저로 태어나다; born with a sliver spoon n one's mouth
+* 새발의 피; a drop in the bucket
+* 벼락부자가 돼다; from rags to riches
+* 원점으로 돌아가다; back to square one
+* 손재주가 없다; all thumbs
+* 불난집에 부채질; add fuel to the fire
+* 바로 그거야; bob's your unclee
+* 밤새 공부하다; burn the midnight
+* 욕심부리다; bite off more than you can chew
+* 믿기 어려운; hard to swallow
+* 잘못 짚다; barking up the wrong tree
+* 한군데 몽땅 걸지마라; don't put all youor eggs in one basket
+* 가끔; once in a blue moon
+* 엄청 화제가 됐었어요; this photo went viral in korea
