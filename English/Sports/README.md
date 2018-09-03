@@ -11,6 +11,13 @@
 
 # Swimming
 * #오리발; rent some #flippers
+* 자유형; freestyle swimming / front crawl stroke
+* 배형: backstroke
+* 평영: breaststroke
+* 개구리 킥; frog kick / whip kick
+* 접영; butterfly stroke
+* 횡영; sidestroke
+* 개해엄; dog paddle
 
 # Gym
 * 홈트레이닝: at-home workouts / home exercises / home workouts

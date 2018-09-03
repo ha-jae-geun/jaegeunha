@@ -1,4 +1,15 @@
-* #방언
+* 애프터 서비스; warranty service = maintenance
+* 사인펜; felt tip pen
+* 코팅: laminating
+* 핸들: steering wheel
+* 커트라인; cut-off line
+* 스카치 테이프; sticky tape
+* 매니큐어; nail polish;
+* 카스ㅔㄹ라; sponge cake
+* 린스: conditioner
+* 본드; adhesive, glue [ədˈhiːsɪv;-ˈhiːz-
+* 츄리닝; sweat suit
+* SNS; social media
 * #hunnit (eye dialect of, hundred)
 * #콩글리쉬# = #korean style broken english
 * #선팅; #sunting -> #window tinting

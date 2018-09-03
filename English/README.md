@@ -3,7 +3,8 @@
 8.30
 
 ##영어
-* 인적성
+
+* 테드 https://www.ted.com/
 -------------
 * 8.15   	MLB http://post.naver.com/my/series/detail.nhn?seriesNo=46475&memberNo=449115
 * 8.15   	김형제 http://m.post.naver.com/my.nhn?memberNo=11764317
@@ -63,7 +64,6 @@
 -----------------------------------------------------------------------------
 * 당므채널
 * 스포츠 뉴스 (네이버, 다음)
-* 테드 https://www.ted.com/
 * 빌보드 https://www.billboard.com/charts/hot-100#/charts/hot-100
 * 네이버 톡톡 http://talkie.naver.com/english/room-list.dict?mode=mobile
 * 네이버 퀴즈 http://wquiz.naver.com/main.dict

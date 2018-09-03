@@ -1,3 +1,9 @@
+* know: 일반적인 지식; be aware that; know보다 좁은 개념; find out; 몰랐던 상태에서 알게 되는 상태
+  notify; 누군가에게 ~를 알려 주는것; be familiar with; know에 비해 단순한 지식이 아니라 그것과 보낸 시간, 경험이 있어서 알고 있음; get acquainted: 적응하다
+* notice: 달라진 부분을 묘사, tell: 무슨 상황인지 판단이 잘 안섰다; figure: 주어진 상화으 조건을 가지고 나름의 결론을 내린 과정; realize: 정보와 미리 알고있는 것이 만나 새로운 깨달음이 발생; notice: 외부와의 접촉에서 일어나는 어떤 발견의 순간; realize: 새로운 정보가 만들어 지는 것; recognize: 뭔가를 보고 그게 무엇인지 아는 것
+* 이상한 느낌: weird; 낯선 느낌: strange; 불균형한 느낌; odd
+* hangar 미국식 [ˈhæŋə(r);ˈhæŋɡə(r)]; 격납고
+* attend: 1회 참석; join, enter: 그 자리에 꾸준히 참석; enter university
 * travel; 상대적으로 개념적이고 긴 여행; trip: 구체적이고 목적성있는 ㅇ행; going on a business trip
 * nonstop flight / direct flight(1. layover; 24시간 미만 2. stopover)
 * holiday; 다 함꼐 쉬는 vacation: 혼자 쉬는
@@ -198,3 +204,12 @@ Don’t cross your legs bc when you put one knee over the other, it sends blood 
 * ##smart
 * 내 말이: Exactly; Tell me about it
 * fare: 교퉁수단; motorway tolls: 도로, 다리 이용
+* boy(young boy xx)
+* hawaiian: 원주민; <> Hawaii resident
+* syndrome: 안좋은 의미;
+* blaze: big fire
+* compose: 부분은 전체 구성; fifty states compose the USA; THe USA is composed of fifty states;
+  be comprised of xxx
+* 그의 변호사들이 그 계약서의 작은 글자들을 세세히 읽고 있다.; His lawyers are poring over the small print in the contract.  <> pour over
+* founder: 무너지다; 침수하다; flounder: 바둥거리다
+*

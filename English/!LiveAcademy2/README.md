@@ -379,3 +379,83 @@
 * 한군데 몽땅 걸지마라; don't put all youor eggs in one basket
 * 가끔; once in a blue moon
 * 엄청 화제가 됐었어요; this photo went viral in korea
+* 내가 착각했어; i got mixed up
+* 술 아끼지 말고 많이 넣어주세요; don't be stingy with the alchol
+* 야외 좌석 있나요? Do you have outdoor seating?
+* 남은 음식 싸주세요; i'd like to take this to go
+* 전망 좋은 방 주세요; we would like a room with a view
+* 편의 시설이 무너가요? what amenities come with the room?
+* ~까지 어떻게 가요? How do you get to the 장소
+* 더 중요한[재미있는] 일이 있다; have bigger/other fish to fry 미국식  영국식   단어장추가
+* 소중하게 생각하는 사람; apple of one's eye
+* 풋내기; he has milk on his chin
+* 다른 할 일 있습니다; have other fish to fry
+* 음성 문자; Phonetic code
+* 자영업을 하고 있습니다; my husband has self-employed business
+* 파티에서 가장 아름다운 여성; Belle of the ball
+* 섣불리 행동하다; #Jump the gun
+* 최후의 순간까지; down to the wire
+* [명사] (이미 일이 있고 난 후에) 뒤늦게 따따부따하는 사람; Monday morning quarterback 미국식  영국식   단어장추가
+* 그 사람 정신줄 놓고 다닌다; he is absent-minded
+* 외모보다 내면이 중요하다; handsome is as handsome does
+* 뭐 힘든 일ㅇ ㅣㅆ어? What's eating you
+* 그는 속이기 쉬워; he is an easy mark
+* 본성이 나오기 시작하네; you're coming out
+* 이제와서 꽁무니 뺴지마; don't chicken out
+* 예쁜 아가씨네; she is a chicken
+* 그 사람 참 활발한 칙ㄴ구지; he is a cherry party
+* 형식적인 절차는 생략합시다; let's cut the red tape
+* 너무 뻔뻔해; he has cool cheek
+* 말은 쉽지; talk is cheap
+* 양치기 소년이네; you've cried wolf too many times
+* 허위 맹세[위증] 교사죄; subornation of perjury 
+* 그녀는 아이들에게 너무 참을성이 없었던 것을 자책했다.; She chided herself for being so impatient with the children. 
+* 진지한 표정으로 하는 유머; deadpan;  humour 
+* 대선 토론; presidential debate
+* 치장하다; deck out; they dectked out 
+* 멋지다; he cut a dash
+* 야위다; you are all skin and bone
+* 젊게 보이려고 애를 쓰는 여자; mutton dressed as lamb
+* 머리가 훌렁 벗겨진; he started going  bald as an egg
+* 키가 작은; be vertically challenged
+* 저녁 무렵 거뭇 자란 수염; have five o'clock shadow
+* 몹시 추하게 생긴; she's as ugly as sin
+* 꼴이 가관이다; you do look a sight!
+* 누추하다; he has become very down t heel
+* 동안이다; he bears his age wonderfully well
+* 회사를 나오다; leave / resign from a company
+* 퇴직금; severance pay 미국식  영국식   단어장추가
+* 소속감으 느끼다; feel a sense of belonging
+* 무인; automatic; no man's
+* 채용ㄱ 공고를 내다; post a job opening; recruit; employ, take on
+* 대기업; major/large company
+* 석사 과정; study for a master's degree / got, received ; MBA; master of businesss administration: 경영학
+* 2차 면접; they want me to come back for a second interview
+* 병가내다; call in sick
+* 흙냄새; earthy; 젤리 같은; a gelatinous substance dʒəˈlætɪnəs]; 끈적 거리는: gooey 미국식 [ˈɡuːi] 
+* 최고중 ㅊ ㅚ고; to be the cream of the crop
+* 똑같이 닮다; he and his fathter look like two peas in a pod
+* ㅇ미신하다;  have a bun in the oven
+* 오기다; that's just sour grapes
+* 대단히 침착하다; be as cool as a cucumber
+* 경재의 승자: top dog
+* 모방하는 사람; copy cat
+* 흠집이 있습니까? do you see any dents>
+* 비용을 공제받다; receive deductions
+* 하루에 사과 하나면 병원에 가지 않아도 된다; an apple a day keeps the doctor away
+* 언제 터질지 모르는 폭탄 또는 그처럼 예측할 수 없는 사람을 지칭; loose canon 미국식  영국식 
+* 무인도; desert island
+* ~기준에 대한 규정; regulations on the standards of
+* 동업계약서 ; partnership agreement
+* 잠재력을 발휘가기 위해 노력하다; strive to reach their full potential
+* 늘 최선을 하다; be commited to doing
+* 그게 가장 중요해; it counts the most
+* 팀을 짜다; form / build a new tiam
+* 항상 틀림없는 조언; infallible advice 
+* [동사] (전문 용어) (계기 등에) 눈금을 매기다calibrate 미국식 [ˈkælɪbreɪt]  영국식   단어장추가
+* 우리는 모두 제안을 하며 거들었다.We all weighed in with our suggestions. 
+* 몸을 회춘시키다.; rejuvenate the body 미국식  영국식   단어장추가
+* [형용사] 분자의, 분자로 된, 분자에 의한; molecular 미국·영국 [məlékjulər]  영국식   단어장추가  중요
+* [명사] (신체 부위의) 염증; inflammation 미국식 [ˌɪnfləˈmeɪʃn]  영국식   단어장추가
+* 그녀가 적에게 국가 비밀을 누설했다.; She gave away state secrets to the enemy. 
+* 그들은 사람이 동물의 형태로 환생한다고 믿는다. [also V]; They believe humans are reincarnated in animal form. 

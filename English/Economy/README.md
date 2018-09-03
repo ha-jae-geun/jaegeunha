@@ -1,4 +1,7 @@
 ## 경제
+* 최대 기록을 달성하다; has reached a new high of ~ million bar
+* 증가한 원유 생산량; the increased production
+* 기대보다 났따; lower-than-expected consumption
 * 세율; tax rate
 * 증여세; gift tax <> inheritance tax
 * 군대 면제당하다; avoid national service; be exempt from ~

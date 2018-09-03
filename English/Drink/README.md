@@ -1,3 +1,4 @@
+* 주량이 얼마야; what's your capacity; 5 glasses are my limit
 * 음주운전으로 체포: he was arrested for DUI
 * 건배사; #toast; toastmaster; 능숙하게; acted as toastmaster
 * 얼음 없이 꽉찬 술; Vodka, straight up, please;  얼음이 없는 술로 주로 상온의 술을 병에서 직접 따라줄때: Scotch, neat please; 올리브 많이: #dirty

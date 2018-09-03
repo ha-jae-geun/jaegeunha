@@ -1,6 +1,11 @@
 * 담당 의사에요; i'm on call today
 * 별 다른 상처는 없네요; there doesn't seem to be any mark
 * 어금니: molar; 
+* 내과; internal medicine department;
+* 방광염; bladder infection, cystitis; inflammation of the bladdder
+* 당뇨;  [ˌdaɪəˈbiːtiːz]
+* 혈당: blood sugar; 혈액 검사; hematologic test / blood test
+* 초음파 검사; get[have] an ultrasound 
 --------------
 * #건강검진; have a #medical checkup
 * #B형 간혐; #type BV Flue; Influenza A viruses

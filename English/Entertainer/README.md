@@ -77,7 +77,9 @@
 * 칩을 현금으로 바꿔 주세요. 	I'd like to cash these chips. 
 
 # Movie
-
+* Chick Flick: 감석엊ㄱ인 여성용 영화
+* Romcom: Romantic Comedy
+* Timeless classic: 오랜 시간이 지나도 사랑받는 영화
 * #예매율; the number in ticket sales
 * 영화 상영 안해요? Aren’t you showing pets?
 * 영화 예약 Can I get two adults and two kids for 7:30 showing of Trolls?

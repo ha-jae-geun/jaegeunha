@@ -1,6 +1,7 @@
 
 ## Election
 * win the election
+* 미결정 투표자; undecided voter -> swing voter / floating voter; 경합주: swing states
 * i vote
 ------
 * ##정치	
