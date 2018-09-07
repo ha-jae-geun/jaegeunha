@@ -3,6 +3,10 @@
 * ##격식체 #formal style
 * #명언; #words to live by; 인생 살면서 귀감으로 삼을 명언들
 * #숙어 1#
+* 수중의 한 마리 새가 숲속의 두 마리보다 낫다; bird in the band is worth two in the bush
+* 사진 한 장이 1000개의 단어보다 낫다; a picture is worth a thousand words
+* 로마는 하루아침에 이룽지지 않았다; Rome wasn't builit in a day
+* 중요한것을 위해서는 다른 것을 포기해야 한다; You can't make an omelet without breaking some eggs
 * * 뜻이 있는 곳에 길이 있따; Where there's a will, there's a way 
 * 그정도는 #약과지; #easy peasy lemon squeeze = like stealing candy from a baby
 * 최선을 희망하되 최악에 대비하라; Hope for the best, plan for the worst

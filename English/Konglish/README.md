@@ -1,3 +1,5 @@
+* 벤츠; Mercedes Benz
+* Chevrolet  = Chevy
 * 애프터 서비스; warranty service = maintenance
 * 사인펜; felt tip pen
 * 코팅: laminating

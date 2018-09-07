@@ -212,4 +212,5 @@ Don’t cross your legs bc when you put one knee over the other, it sends blood 
   be comprised of xxx
 * 그의 변호사들이 그 계약서의 작은 글자들을 세세히 읽고 있다.; His lawyers are poring over the small print in the contract.  <> pour over
 * founder: 무너지다; 침수하다; flounder: 바둥거리다
-*
+* i know it would rain; 알고 있었는데 왔따; i thought it would rain; 올줄 알았는데 안왔다. -> Have you ever heard of
+* notify/inform; 무언가/어떤 사실을 알려주는 그림;
