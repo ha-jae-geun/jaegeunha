@@ -138,6 +138,97 @@
 * 더 이상 어린애이지 ㅇ낳앗어; i was no longer a child	
 * 해장술이지; Hair og the dog
 * 호락호락하지 않아요; i'm not a pushover
+* 대리 주차 필요하세요? Did you want valet parking?
+* 즐거운 시간 보내; have a blast
+* 발품팔다; i did a whole lot of legwork for this
+* 입소문이 눈덩이 처럼 불어가다; the word of mouth starts snowballing into more and more prospects
+* 안좋은 일은 계속 일어난다; When it rains, it pours
+* 묘한 매력이 있다; he has that uncanny charm that makes him unforgettable
+* 대단하다; How neat is that?
+* 외모 때문에 오해받은 적이 있나요? Have you ever been betrayed by your looks?
+* 합판이나 박스테이프를 붙여 창문을 보강한다.; Protect windows with plywood boards or packing tapes.
+* 실내에 있는다; Stay indoors.
+* 1. put first (top) priority on ~: ~에 최우선 순위를 두다; prioritize: 1) ~의 우선순위를 정하다  2) ~를 최우선시 하다;  A come before B: A가 B보다 우선이다/ 먼저다
+Put A before B: A를 B보다 우선시하다;  put A on the front burner: A를 최우선시 하다
+* 문득 이런 생각이 들다 (It occurred to me that....)
+* (장점이 단점을 가리다) Strengths overshadow weaknesses. 
+* 거리에 나앉기 한 달 전이야! I'm a month away from sleeping in my car.
+* 오지랖이 넓다; He is so observant!;  obtrusive; əbˈtruːsɪv]
+* 1) 권력 투쟁을 벌이다 "compete for authority"
+* 권력이 교체되다"Power changes hands" 
+* 파벌: Faction; 파벌주의: Factionalism; 파벌싸움 (갈등): Factional fight (Conflict)
+* 세계 신기록을 경신하다; : Lee broke the 5000m speed skating world record!
+* unpretentious 가식 없는;  [ˌʌnprɪˈtenʃəs]
+* 불안하다'는 영어로? (I had my misgivings)
+* 오해를 풀다 (set things straight)
+* (걔는 너무 계산적이야); He is too calculating.”
+* “편애”를 영어로? (play favorites)
+* 잘 적응하고 있어요 (be adapting well)
+* 현실로 돌아올 때야.; It’s time to come down to earth.
+* (귀가 멍멍해); My ears are muffled
+* 옵션을 두고 고민하다 (weigh one’s options)
+* 자세히 설명드리겠습니다 (I will break it down for you)
+* (저는 매운 한국음식을 먹으며 자랐어요.); I was raised on spicy Korean food.
+* (김 부장님께 이 일을 보고 해야 해).; "I need to escalate it to Mr. Kim."
+* 속 안좋아; “I have the runs.”= I have diarrhea.
+* 휴게소; How far is the next service (rest) area?
+* 대리운전; You'd better call a paid designated driver.
+* 네 영어실력은 취직하는 데 큰 도움이 될 거야. ; Your English skill will go a long way towards getting a job.
+* 중앙차선 침범 (cross the center lane)
+* 나 가사 너무 많이 절었어.; I stumbled on (over) a lot of words (lyrics).
+* "lay the ground work (기초를 다지다)"
+*  get ugly의 의미는 1) 취하다  혹은 2) 찐~하게 놀아보자는 뜻입니다. 
+* 그거 아는데... 갑자기 기억이 안나. (off the top of my head)
+* 분위기 깨는 쟤 누가 불렀어? (Who invited the fun police?)
+* 누진세는 영어로 뭐라고할까요? "Progressive Billing system"
+* 도로 갖다놔; "Put it back where it was! (=Return it where it was)"
+* 혼잣말한거야; "I'm just thinking out loud."
+* (수단과 방법을 가리지 말고 느릿느릿 움직여. 내가 그거 얼마나 좋아하는 지 알지?); "By all means, move at a glacial pace. You know how that thrills me.”
+* He's trying to pin it on me. (그는 네 탓으로 돌리려 해); = He's trying to put the blame on me.
+* 입만 살았어; He's all talk and no action
+* 찜했어; “I have dibs on ~”
+* "무죄추정의 원칙"을 영어로? ▶ presumption of innocence
+* "역대급"을 영어로?▶ an epic scale
+* "리모콘에 다리가 달렸나?"를 영어로?▶ grow legs
+* "뭣이 중헌디?"를 영어로? ▶ What's the name of the game?
+* "나이를 거꾸로 먹는 피부"를 영어로?▶ age-defying skin
+* "너도 고생 좀 해봐"를 영어로?▶knock oneself out 
+* "책임 전가"▶ pass the buck
+* "거짓말을 밥 먹듯 한다"를 영어로?▶ Lying is like breathing for someone
+* "칭찬 같지 않은 칭찬"을 영어로?▶ backhanded compliment
+* "롤렉스가 경매에 나왔어"를 영어로?▶ be up for auction
+* "가성비"를 영어로?▶ bang for the buck
+* "도주 우려"를 영어로?▶ flight risk
+* "몸에 칼을 대다"를 영어로? ▶ go under the knife
+* "주상복합 아파트"를 영어로? ▶ a mixed-use apartment building
+* "철창신세를 지다"를 영어로? ▶ behind bars
+*  "총기를 난사하다"를 영어로? ▶ spray bullets2
+* "실연당하고"를 영어로? ▶ on the rebound
+* "가슴이 푹 파인 드레스"를 영어로? ▶ plunging dress 
+* 2017.09.29.  242 읽음
+시리즈 알파고 구글 번역기가 깨지 못한 핵심 영어 표현
+"들러리 서다"를 영어로? ▶ play second fiddle 
+* "품질은 무엇과도 바꿀 수 없다"를 영어로? ▶ There is no substitute for quality.
+* "방귀를 참다"를 영어로? ▶ hold in a fart
+* "피임 중이다"를 영어로?▶ on the pill
+* "덜컥 임신하다"를 영어로?▶ fall pregnant
+* "몸을 녹이다"를 영어로? 번역일: 2017.9.15 ▶ toast one's body 
+* "우리 와이프는 천상 여자다."를 영어로? ▶ an everywoman"everywoman
+* 성욕이 떨어지다; lost one's sex drive
+* "결재하다"를 영어로? ▶ sign off on (something)
+* "평소 너답지 않다"를 영어로?▶ out of character
+* "핑크빛 관계"를 영어로?▶ peachy relationship
+* "삐져나온 머리카락"을 영어로?▶stray hair
+* "짝없는 양말"을 영어로?▶ stray sock
+* "옛정을 생각해서"를 영어로?▶ for old time's sake"for old time's sake"
+* "외람된 말씀이지만"을 영어로?▶ with all due respect
+* 꿈이 있다; I have a dream that 
+* 어떻게 뉴질랜드(NZ) 납세자들이 헐리우드가 이곳(뉴질랜드)에서 영화를 촬영할 수 있도록 마지못해 5억7500만불을 쓰게 되었나 ; How NZ taxpayers forked out $575 million for Hollywood to film here
+= Melania Trump makes Daily Mail cough up $3 million in damages
+* 나는 뼈 빠지도록 일했다.; I worked my butt off.    ("엉덩이가 떨어져 나가도록 일했다") ; 
+* 그녀는 눈알이 빠지도록 펑펑 울었다. She cried her eyes out.  ("눈이 빠지게  울었다")
+* 우리는 배꼽이 빠지도록 웃었다. ;  We laughed our heads off.  ("머리가 떨어져 나가도록 웃었다.")
+* 귀가 떨어져 나갈 만큼 큰소리로 말하지 않아도 돼요.ㅣ You don't have to talk my ear(s) off.  ("귀가 떨어져 나가도록 큰소리로 말할 필요가 없어요.")
 
 # 필수
 * get to; get(a chance) to do something; i got to look around and take pictures
@@ -147,10 +238,13 @@
 * 이번 한국방문 일정은 매우 바쁜 스케줄입니다; my visit to korea is set in a tight schedule
 * 모르겠어; et me check on that, i'll get back to you on that, Let me find out for you
 * 거수로 하자; 이거 할 사람? Show of hands. Who's up for this?
-* 대리 주차 필요하세요? Did you want valet parking?
-* 즐거운 시간 보내; have a blast
-* 발품팔다; i did a whole lot of legwork for this
-* 입소문이 눈덩이 처럼 불어가다; the word of mouth starts snowballing into more and more prospects
-* 안좋은 일은 계속 일어난다; When it rains, it pours
-* 묘한 매력이 있다; he has that uncanny charm that makes him unforgettable
-* 대단하다; How neat is that?
+* 시럽 조금만요; easy on the syrup please.
+* 사레 들렸어는 영어로,; "It went down the wrong pi; pe"
+* "아니나 다를까"를 영어로? ▶ sure enough"sure enough
+* 나는 서울을 우리집처럼 상세히 알고 있어요.; I know Seoul like the back of my hand.  
+
+
+
+
+
+

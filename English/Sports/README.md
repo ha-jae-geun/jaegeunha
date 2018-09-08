@@ -217,7 +217,23 @@
 * 3년 동안 했던 일들이 다 물거품이 됐어	 #go down 3 years' worth of work went down the drain
 * #전열을 가다듬다 Give this team some time to find its bearings before you completely write
 * them off 	based on a microscopic sample size.
+* 1) 류현진 선수가 약 2년 만에 마운드에 복귀했습니다! Ryu has returned to the mound after a two-year absence.
+* 2) 샌디에이고를 상대로 선발 등판 했는데요; He started against the San Diego Padres.
+* 3) 류현진 여태껏 샌디에이고에 상당히 강했습니다.; He has been pretty strong against the Padres
+* 4) 하지만 오늘은 4.2이닝 6실점하면서 다소 부진한 모습을 보였습니다..; But, today he underperformed, allowing six earned runs in 4.2 innings.
 
+ 
+
+* earned run(ER): 자책점, 투수가 책임져야 하는 점수 
+
+ 
+
+ 
+
+5) 다음 등판 때는 더 나아진 모습을 보여주길 기대합니다.
+
+Hopefully, he will pitch better in the next game.
+[출처] 류현진 선수 복귀전 관련 영어표현! <복귀, 선발, 부진, 자책점 등등> |작성자 Mr쭈
 * #헛수고 #헛 | #물거품
 * ##야구
 * 농구 한판 하자; let's shoot some hoops; #hoop

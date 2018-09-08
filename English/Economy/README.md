@@ -1,4 +1,27 @@
 ## 경제
+* 1. (수치들을 말하기 전에) 2018년 1분기 시장 상황을 살펴봅시다 Here's the way the market looks as of the first quarter of 2018.; Let's take a look at where the market stands as of ~
+* 2. 기록을 달성하다 Hit (reach) a record; ex) Samsung's profit hit a new record this year.
+* 3. 올해만 영업이익 최고기록을 3번이나 달성하다; Samsung’s operating profits hit three new highs in this year.
+* 4. 모바일 부문의 선전이 전반적인 이익상승을 이끌었다 <-> 반대는 pull down The successful mobile unit (division) pulls up the whole corporate profit
+* 5. 영업이익이13분기 만에 500억 달러 선을 돌파했다(회복했다); Samsung's profits surpassed (recovered to) the 50 billion won mark for the first time in 13 quarters
+* 6. 마케팅에서 절약한 비용이 이익 증가에 기여했다 (bottom line<-> top line'총 매출') Savings in marketing costs helped towards improving the bottom line
+* 7. 시장(전문가들의)의 예상을 뛰어넘다; beat estimates (the street consensus)
+* 8. 원달러 환율은 1,000원이다 The won-dollar exchange rate is 1,000 won. The Korean won is trading at 1,000 won to the US dollar
+* 9. 원화 가치가 상승해 원달러 환율은 900을 기록했다. The won strengthened to 900 against the dollar
+* 10. 원화 가치가 하락해 원달러 환율은 1,100달러를 기록했다. The won weakened to 1,100 against the dollar
+* 11. 외환시장에서 원달러 환율은 (0원 하락해) 990원에 마감했다. The won-dollar exchange rate closed (10 won lower at) 990 won.
+* 12. 외국인 노동자 유입 증가는 두뇌유출을 상쇄한다. (균형을 맞춘다) An increased inflow of foreign workers to Korea balances out (evens out) the brain drain.
+* 13. 세계 증시가 상승세/하락세/ 보합세를 보이다 The global stock markets were up / down / flat
+* 14. ~별로(에 따른) 자세한 수치들에 대해 살펴봅시다 Let's break down the numbers by categories (types) of ~ ex) Let's break down the numbers by types of employment
+* 15. A, B, C를 동등한 조건으로 보았을 때,,,(A,B,C는 변하지 않는다고 했을 때) Keeping A, B, C as constant, With other factors like A, B, C fixed, ex) With other factors like gender and education level fixed, the income gap ~
+* 16. 현재가치를 계산하다 calculate the present value of ~; convert ~ into present value ; ex) To convert the ticket price into present value, it amounts to ~
+-----------------------
+* Our revenue increased. = We saw an increase in revenue.= We saw a rise in revenue.= There was a rise in revenue.
+* Our revenue decreased= We saw a decrease in revenue.= We saw a drop in revenue.
+= There was a drop in revenue. 
+* : 일간 액티브 사용자는 14억 7,000만 명에 도달했습니다. 작년과 비교해 11% 증가한 것이며, 인도, 인도네시아, 필리핀에서의 성장이 주요했습니다.; Daily active users on Facebook reached 1.47 billion, up 11% compared to last year, led by growth in India, Indonesia, and the Philippines. 
+* : 이 수치는 Q2 월간 액티브 사용자 수 22억 3,000만 명의 약 66%에 해당합니다.; This number represents approximately 66% of the 2.23 billion monthly active users in Q2
+* 보유세를 내다  웹수집  웹수집 도움말  단어장추가; pay possession tax; reduce
 * 최대 기록을 달성하다; has reached a new high of ~ million bar
 * 증가한 원유 생산량; the increased production
 * 기대보다 났따; lower-than-expected consumption

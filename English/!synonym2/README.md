@@ -216,4 +216,9 @@ Don’t cross your legs bc when you put one knee over the other, it sends blood 
 * notify/inform; 무언가/어떤 사실을 알려주는 그림;
 * 끝나다; 'finish (or end)...'; (~에 끝날 예정입니다.); 'start (or resume)...' (~에 시작할 (재개할) 예정입니다.); 'postpone (or adjourn)...'; (~에 연기될 (휴회할) 예정입니다.); The meeting is due to finish at 2.30 pm sharp.
 * exercise는 말 그대로 ‘운동하다’가 맞고요. work out은 체육관에서 운동할 때 부위별로 몇 세트씩 
-
+* Search는 일차원적으로 팩트나 정보를 찾아보는 것을 말합니다. 가격이 얼마인지, 할인이 있는지, 스펙은 어떠한지 등등.; 반면, research는 그런 팩트나 정보를 기반으로 살만한 제품인지를 분석하고, 연구해 보는 것입니다.; "I searched the Airpods""I researched the Airpods"
+* (그 일은 원래 아주 힘들어); he job is very challenging by definition.” <> originally; 최초에
+* 나아지다’라는 뜻입니다. 헷갈릴 요소가 없죠?; Ex2) I need to improve my health / English.;  We are planning to improve on the last model.; (우리는 기존 모델의 개선품을 만들 계획이다).; improve on은; 기존의 있던 것을 바탕으로 보다 더 나은 것을 만들다”
+* institute; 연구소, 협회, 교육ㄱ관; 법률 제도를 시행하다; instituted a new procedure; institution; 2. 노인 보호시설; 3. 제도 관습; the institution of marriage; 법률의 시행; the institution of a new procedure
+* ex) 나 지하철 안 이야. 내려서 다시 전화할게~;  Hey, I'm on the subway. I'll call you back when I get off. ex) 지하철 역 안에 있는 화장실 이용하세요. : Use the toilet in the subway.
+* 나는 미국인입니다; 아닙니다. I'm an American이라는 표현도 맞고 I'm American

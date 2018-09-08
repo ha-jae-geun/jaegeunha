@@ -1,6 +1,6 @@
 [Composition 1](./Composition1/README.md)
 
-8.30
+9.7
 
 ##영어
 
@@ -60,6 +60,10 @@
 * Cage-free https://blog.naver.com/yp2k
 * 해커스어학원꿀팁 https://blog.naver.com/hacademia
 * 잉글리쉬 에듀몰 https://tomasuper.blog.me/
+* 넥서스 공시미; https://blog.naver.com/0simiii
+* 한국에서 영어잘하기 https://blog.naver.com/joohs86
+* Biggie; https://post.naver.com/my.nhn?memberNo=23132643
+* 약장수 버스터; https://blog.naver.com/pcmi4easy_english
 * 케이크
 -----------------------------------------------------------------------------
 * 당므채널
