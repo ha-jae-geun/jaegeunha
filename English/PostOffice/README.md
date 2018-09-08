@@ -1,5 +1,5 @@
 # 우체국	
-
+* 제 시간에 배달이 안됐어요; it didn't get deliverered in time\
 * express mail 특급편지, regular mail 일반편지, overnight mail 익일 배달 편지, package/parcel 소포,
 * courier service 택배서비스, postage 우편요금, stamp 우표
 * #육상운송; #surface mail #빠른우편; #express mail #기본 배달; #standard delivery
@@ -10,7 +10,7 @@
 * 우편 요금이 얼마에요? 	how much #postage does it need
 * 우편번호	zip code, (Brit) postcode, postal code 
 * 어느 분께서 #비자 등록을 담당하세요? Do you know who's in charge of visa certification? 
-* *비자를 발급하고 싶어서요 i’d like to get a #visa
+* 비자를 발급하고 싶어서요 i’d like to get a #visa
 * I want to #extend my visa
 * how long does it take to get a visa
 * #apply for a visa

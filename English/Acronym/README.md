@@ -42,6 +42,7 @@ One O one- point nine FM
 * #BAE Before Anyone Else, 즉 '누구보다도 우선인 사람'의 축약어라는 말
 * #BBB bed, bath & Beyond
 * #bc #B/C 										Because
+* #BH; Bank holiday
 * #BF 										 Boy Friend
 * #BFF 									 Best frineds forever
 * #btw					 BTW 영국식 (채팅 약어) 그건 그렇구 (By The Way) 
@@ -53,7 +54,8 @@ One O one- point nine FM
 * #Congrats congratulations
 * #COO; chief operating officer
 * #Corp								 Corporation 'kɔ:rpə '' reɪʃn 
-* #CTN 									 can't talk now
+* CBD; close of the day; 업무 안에 주다*
+ #CTN 									 can't talk now
 * #DADT; Don't ask Don't tell ; 성 소수자의 군복무 폐지
 * ##DD#; #designated driver; 술 안마신느 친구; who's going to DD
 * #DIY Do it yourself. 스스로 하세요. 
@@ -64,6 +66,7 @@ One O one- point nine FM
 * #DuI			 driving under the influence (of alcohol[drugs]) 음주[약물 복용] 운전 
 * ☆#Dunno #do you know = #iono
 * #DWI 							 ɪn'tɑ:ksɪkeɪtɪd driving while intoxicated 
+* #DO; duty officer; 교대근무
 * #DUM: 									 Do you masturbate?
 * #Dec.12: 					 December twelfth dɪ'sembə(r)] tw'élfθ 
 * #DGAF; don't give a fuck; 신경안써; #무감정
@@ -143,6 +146,7 @@ One O one- point nine FM
 * #OOTD 								Outfit of the day ; 데일리룩
 * #OT#; 주제 바꾸는 것; #off topic; OT, but tomorrow there is a party
 * #OTP on the phone; 전화 중이야
+* #P&L; Profit and loss
 * ##PA personal assistant; 개인 비서
 * ##pass passage; passenger; passim; passive; make that passes ready
 * #PC 차별적인 언어를 사용하지 않는 것: Politically correct
@@ -152,6 +156,7 @@ One O one- point nine FM
 * #PTO; Paid time off; 유급 휴가(#연차, #연가); I used all of my PTO this year
 * #prenup; Prenupitial agreement; 혼전 계약					
 * #prop; 1. 재산 2. #연극 소품 | propeller, proposition(#제)
+* Rev.0 초안; Rev.1; 변경안; Rev.F; 최종안ㄴ
 * #R&D 연구와 개발 #research and development
 * ##RE 				 regarding/referring to; ~와 관련해서' RE: Reimbursement
 * ##Rep #representative; sales representative

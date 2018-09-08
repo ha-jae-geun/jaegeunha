@@ -182,7 +182,7 @@ Don’t cross your legs bc when you put one knee over the other, it sends blood 
 * I can't go out tonight. I need to hit the books.
 * 그 여자 책벌레나요							 Is she a bookworm?
 * 하면 난 너 마음을 제대로 읽을 수 있죠. 			 I can read your feeling like a book.
-* *open book: 1. 마음, 생각 따위를 쉽게 들키는 사람 2. 사생활이 전부 알려져있는 사람
+* open book: 1. 마음, 생각 따위를 쉽게 들키는 사람 2. 사생활이 전부 알려져있는 사람
 * #book smart 책 따위로 얻은 지식은 많지만 눈치, 상식 등의 실생활, 경험적인 지식이 부족한 사람
 * 중국으로 가는 비행기 예약했어 						I booked a flight to China.
 * 겉으로만으로 사람을 판단하지s 말라				 Don't judge a book by its cover.
@@ -214,3 +214,6 @@ Don’t cross your legs bc when you put one knee over the other, it sends blood 
 * founder: 무너지다; 침수하다; flounder: 바둥거리다
 * i know it would rain; 알고 있었는데 왔따; i thought it would rain; 올줄 알았는데 안왔다. -> Have you ever heard of
 * notify/inform; 무언가/어떤 사실을 알려주는 그림;
+* 끝나다; 'finish (or end)...'; (~에 끝날 예정입니다.); 'start (or resume)...' (~에 시작할 (재개할) 예정입니다.); 'postpone (or adjourn)...'; (~에 연기될 (휴회할) 예정입니다.); The meeting is due to finish at 2.30 pm sharp.
+* exercise는 말 그대로 ‘운동하다’가 맞고요. work out은 체육관에서 운동할 때 부위별로 몇 세트씩 
+

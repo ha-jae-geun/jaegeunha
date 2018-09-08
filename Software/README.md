@@ -51,6 +51,7 @@ http://teleport.land/
 --------------------
 
 ## PPT
-ppt -> pdi small pdf https://smallpdf.com/
-이지지에프 http://software.naver.com/software/summary.nhn?softwareId=GWS_001463
+* 파워포인트 공유; http://pptbizcam.co.kr/
+* ppt -> pdi small pdf https://smallpdf.com/
+* 이지지에프 http://software.naver.com/software/summary.nhn?softwareId=GWS_001463
 www.adobecolor.com

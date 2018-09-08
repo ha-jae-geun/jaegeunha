@@ -1,3 +1,6 @@
+* 발색이 좋아; it is a super pigmented
+* 몇 개 발색해볼게요; Let's swatch some
+* 번지게 할거에요; i'm gonna smudege it
 * #corrector, #concealor, #highlighter, #blusher, #eyelash(#속눈썹) curler(#뷰러)
 * 속눈썹: false lashes, fake eyelashes
 * #apply, #put on(화장품 바르다), make sure sour makeup is well #blended
