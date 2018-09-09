@@ -233,3 +233,10 @@ Don’t cross your legs bc when you put one knee over the other, it sends blood 
 * 복수; revenged his father(개인적 원한); avenged his father's death on the murder(정의의 실현); retaliate; 보복하다; retaliate aginast/for; their neighbors for the insult by playing loud music
 * fee; 무언가를 지불하는 돈(가입비, 입장료, 의사에게 지불하는 돈); price; 물건을 살 떄 내는 돈; charge: 서비스를 받고 지불하는 돈
 * appointment: plan: appointment보다 가벼운 의미의 시간 약속; promise; 무언가를 하겠다는 의지의 표현 즉 다짐; 약속 취소됐어; my plans got cancelled = fell through; cancelled on me; bailed on me
+* 영향을 주다; 
+간접적 영향; 내가 보기에는, 네 폭력적인 행동은 마블 같은 폭력적인 영화의 영향을 받은 것 같아. The way i see it, I think your violent behavior was influenced by violent movie such as Marvel.; 수동태로 많이 씀; Other musicians have (a lot of) influence on her music
+직접적 영향; 너는 너와 같이 일하고 있는 모두에게 영향을 미치고 있어. You are affecting everyone who are working with you.it affected her a lot; everyone is affected by; being affected
+만약 네가 너의 행동을 고치려고 노력하고, 우리에게 좋은 영향을 끼치려고 노력한다면, 우리는 너와 더 잘 지낼 수 있어. If you try to change your behavior and have a positve effect on us, we will get along better with you.; have a positive/negative effect on
+영향이 클때; impact something; be impacted by; have an impact on
+* nasty; 1. 더럽다 2. 맛이 없다 3. 형편없다; nasty watch 4. 악취; nasty smell
+*

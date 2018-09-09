@@ -328,3 +328,36 @@ Put A before B: A를 B보다 우선시하다;  put A on the front burner: A를 �
 * 속물; snob
 * 허세; pretentious nonsese; pose pretentiously; has a tendency towards pretentiousness
 * 건방지다; i apologize if i sound presumputous
+* 이용자 참여  그는 이해할수없을정도로 단순하고 평점하다 ; He was out of depth, plain and simple. 듣기
+* …에 대처하다(=confront).; get to grips with something 미국식  영국식   단어장추가
+* 그는 경력 초반에 해외 근무를 했다.; He did a stint abroad early in his career. 
+* (논의·계획·준비 등이) 한창 진행 중인[곧 모습을 드러낼 단계에 있는]; in the pipeline 미국식  영국식   단어장추가
+* 해야돼; gotta get-get
+* 넌 나의 새로운것이 될 수있어; YOu could be my new thang(=thing)
+* 실증내지 않을거야; i will never get enough
+* 울타리처럼 날 안아줘; arms around me like a border
+* 나의 등대가 되어줘; YOu can be my guding light
+* 옷장은 텅 비어고 나는 어리둥절; the bcabinets are bare and i'm unaware
+* 작은 소년이 소원을 빌고있엉; a little boy made a wish that day
+* 타임머신을 타고 가고싶어; i would take a time machine
+* 우린 호흡이 잘 맞았어; we had a good run
+* 불이 꺼진 클럽에서; in the club with the lights off
+* 그렇게 경계하려는 건 아니야; i don't mean to be so uptight
+* 내 문앞에 나타나네; turnning up at my door
+* 기운이 없을떄마다; everytime i'm low
+* 넌 날 기도하게 만들어; you've got me praying
+* 우리가 헤어진 이후로; sinsce the day we parted
+* 그들은 날 꼬시지 못해; but they can't turn me on
+* 소방서를 불러야했어요; you had to call the fire department
+* 그사람 변명해주려고 하지마; don't try to cover it up for him
+* 걔 완전히 잠수중이야; she's totally off the grid
+* 꼭 뭐라고 집어서 말할 수 없어; i can't put my finger on it; 보스베이비
+* 어떤 모험이 기다릴까? What great adventure lies in wait for you today?; 보스베이비
+* 부모님은 항상 내 상상력이 조금 과하다고 말씀하셨지; my parents always said that i had an overactive imagination; 보스베이비
+* 사무실을 차렸고; he set up his office; 보스베이비
+* 한 가운데;  You're right smack dab; 보스베이비
+* 주로 책으로 공부해요; i study mainly with bookds
+* 어쩌다가, 거의 매일; once in a while, almost every day
+* 환승을 2번해요; i transfer 2 times
+* 다 제탓이에요; you can blame me for that
+* 기다리게 해서 죄송해요; Sorry for keeping you waiting

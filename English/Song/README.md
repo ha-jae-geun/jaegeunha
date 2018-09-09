@@ -113,13 +113,15 @@
 * Look What You Made Me Do - Taylor Swift
 * The Middle - Zedd, Grey, Maren Morris - 제드, 매런 모리스, 그레이
 * Faded - Alan Walker -
-* 
+* Britney Spears - 3
+* RedFoo - New Thang
+* Mike Ferry - The ocean
 ------------
 * Demi Lovato - Sorry not sorry - 데미 로바토 
 * Nothing's gonna change - Glenn Medeiros - 
 * Stay - Zedd, Alessia Cara  -  제드, 알레시아 카라 
 * Last Chance - M.Y.M.P
-
+-------------
 
 * <1955~1970>
 * 0:00 Little Richard - Tutti Frutti(1955)
