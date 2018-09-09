@@ -222,3 +222,14 @@ Don’t cross your legs bc when you put one knee over the other, it sends blood 
 * institute; 연구소, 협회, 교육ㄱ관; 법률 제도를 시행하다; instituted a new procedure; institution; 2. 노인 보호시설; 3. 제도 관습; the institution of marriage; 법률의 시행; the institution of a new procedure
 * ex) 나 지하철 안 이야. 내려서 다시 전화할게~;  Hey, I'm on the subway. I'll call you back when I get off. ex) 지하철 역 안에 있는 화장실 이용하세요. : Use the toilet in the subway.
 * 나는 미국인입니다; 아닙니다. I'm an American이라는 표현도 맞고 I'm American
+* 사실 모양은 비슷하지만 머핀(muffin)은 주로 아침 식사용으로 먹는 빵이고, 컵케이크(cupcake)는 디저트나 간식용으로 먹는 mini cake입니다.; 또 맛에도 차이점이 있을 수 있어요. 머핀(muffin)은 재료에 따라 단 것도 있고 별맛 없이 밍밍한(bland) 것도 있지만, 컵케이크(cupcake)는 위에 frosting(icing)이라는 설탕 옷을 입히기 때문에 언제나~ 달아요.; S또한 반죽(batter)에도 차이가 있어서 컵케이크(cupcake)가 머핀(muffin)보다 질감이 더 부드럽고 촉촉하다고 합니다.
+* first: 명사(첫 사람), 부사: 처음으로(무언가를 처음한다);  when did you first meet her at fisrt: 처음에는; for the first time(평생 처음으로); first 부사(동사 앞에 위치)<> for the first time
+* meet; 만나다; meet with = discuss; the president will meet with the prime minister next week; meet up = get together; 놀다는 뉘앙스; met up with my friends
+* 졸업하다; graduated high school; 요새 graduate from 잘 안씀
+* -의 쓰임; state-of-the-art; twenty-three; 100-meter sprint; 2-hour movie; s 생략; 4/10: four-tenth
+* --; Em dash , (), :의 역할; 부가적 설명/결과 <> -; en dash
+* 병원으로 가다; go to the hospital; see a doctor; 진료를받다
+* 가구: furniture; 조립식 가구; DIY furniture(Do it yourself)
+* 복수; revenged his father(개인적 원한); avenged his father's death on the murder(정의의 실현); retaliate; 보복하다; retaliate aginast/for; their neighbors for the insult by playing loud music
+* fee; 무언가를 지불하는 돈(가입비, 입장료, 의사에게 지불하는 돈); price; 물건을 살 떄 내는 돈; charge: 서비스를 받고 지불하는 돈
+* appointment: plan: appointment보다 가벼운 의미의 시간 약속; promise; 무언가를 하겠다는 의지의 표현 즉 다짐; 약속 취소됐어; my plans got cancelled = fell through; cancelled on me; bailed on me

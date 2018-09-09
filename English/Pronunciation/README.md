@@ -1,3 +1,32 @@
+# heteronym
+* heteronym 미국·영국 [ˈhetərənɪm]; 동철 이음 이의어(철자는 같으나 음과 뜻이 다른 단어). 예를 들어 ‘찢다’는 뜻의 tear와 ‘눈물’이라는 뜻의 tear
+
+## z발음
+* use; z 발음: 동사; 
+* close
+* excuse
+* abuse
+* house
+
+## 강세 앞에 명사
+* increase; 강세
+* decrease
+* present; 선물(프레전트), 증정하다(프리젠트)
+* record; 레'코드; 리코'드 
+* content; 칸텐트; 컨텐'트; 만족
+* contest: '칸테스트; 컨'테스트
+* object; 압직트; 어브'젝트; 목적, 반데
+* permit; 인가서, 허락하다
+* desert; 데절트; 사막, 디절트; 버리다, 포기하다
+
+## 모음 소리의 변화
+* gradutae; 그레줘엇; 졸업생
+* bow; 보우: 활; 바우: 인사하다
+* lead: 리드; 인도하다; 레드: 납
+* resume; 리줌; 재개하다; 레져메이
+* wind; 우아인드: 감다, 구부러지다
+* wound; 우아운드; 감았다; 구부러지다; 운드: 상처
+ ----------
 * rural [ˈrʊrəl] 
 * colonel 미국식 [ˈkɜːrnl]; 대령
 * [명사] 지협(地峽); isthmus 미국식 [ˈɪsməs]  영국식   단어장추

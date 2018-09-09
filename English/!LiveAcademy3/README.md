@@ -315,3 +315,16 @@ Put A before B: A를 B보다 우선시하다;  put A on the front burner: A를 �
 * ~라고 생각하고 있었어요. I was under the impression that he was single.
 * ~할 방법이 없어요, ~일 리 없어요  There is no way that... 
 * 분명히 ~가 있을 거예요 There must be... 
+* 점을 빼다; I had some beauty marks removed last year as well like you.  Have a good day !!!﻿; mole: 사마귀; birth mark; spots: 
+* 하늘이 맑다; the sky is clear(clean xx)
+* 5달러로 살수 있는 것에는 한계가 있다; there is only so much you can buy with 5 dollars
+* 꽃샘추위; cold snap
+* ~에 진저리가 나; i've had it with
+* 엉뚱한; whimsical person; ˈwɪmzɪkl]
+* 농담을 하다; throw a joke
+* ~로 유명하다; be renowned for; ; was a conductor of some renown
+* 재수없다; he gets obnoxious; nothing more obnoxious than a guy
+* 믿다; count on / upon
+* 속물; snob
+* 허세; pretentious nonsese; pose pretentiously; has a tendency towards pretentiousness
+* 건방지다; i apologize if i sound presumputous
