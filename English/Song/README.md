@@ -3,6 +3,7 @@
 * 구호를 외치다; #shout your chant
 * #응원가를 부르다; do the chants
 * 어느것을 고를까요; Eeny, meeny, miny moe
+* ) He sings falsetto. 그는 가성으로 노래 부릅니다.; He sings real voice. 그는 진성으로 노래 부릅니다.
 
 * #Rastar
 * #레게; Rastafarian; 자메이카의 종교 ‘라스타파리아교’의 신도. 이들은 마리화나를 피우고 

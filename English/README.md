@@ -64,6 +64,7 @@
 * 한국에서 영어잘하기 https://blog.naver.com/joohs86
 * Biggie; https://post.naver.com/my.nhn?memberNo=23132643
 * 약장수 버스터; https://blog.naver.com/pcmi4easy_english
+* 길벗이지톡; https://post.naver.com/my.nhn?memberNo=33159364
 * 케이크
 -----------------------------------------------------------------------------
 * 당므채널

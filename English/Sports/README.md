@@ -188,7 +188,8 @@
 * 동점골을 넣엇어; scored an equalizer
 * ##축구
 
-* #야구장
+# 야구
+* twoseam drops to 4 direcon; two seam is faster than sinker; sinker fall in 5 clock direction(); shoot: 3'o clock
 * 3회초 3회말이다; it’s the #bottom / #top of the third
 * 주자가 1루에 있다; the runner’s on first;  #만루; the bases are loaded
 * #송진; #resin#
@@ -221,27 +222,18 @@
 * 2) 샌디에이고를 상대로 선발 등판 했는데요; He started against the San Diego Padres.
 * 3) 류현진 여태껏 샌디에이고에 상당히 강했습니다.; He has been pretty strong against the Padres
 * 4) 하지만 오늘은 4.2이닝 6실점하면서 다소 부진한 모습을 보였습니다..; But, today he underperformed, allowing six earned runs in 4.2 innings.
-
- 
-
 * earned run(ER): 자책점, 투수가 책임져야 하는 점수 
+* 5) 다음 등판 때는 더 나아진 모습을 보여주길 기대합니다. Hopefully, he will pitch better in the next game.
+* 빠른공은 높게; 슬라이더는 낮게; Fast ball is slow and slide ball is low
 
- 
-
- 
-
-5) 다음 등판 때는 더 나아진 모습을 보여주길 기대합니다.
-
-Hopefully, he will pitch better in the next game.
-[출처] 류현진 선수 복귀전 관련 영어표현! <복귀, 선발, 부진, 자책점 등등> |작성자 Mr쭈
-* #헛수고 #헛 | #물거품
-* ##야구
+# 농구 
 * 농구 한판 하자; let's shoot some hoops; #hoop
 * get the hoops
 * #몸 풀기; 몸푸는 중이야; i'm warming up <> i'm cooling down
 * #vinsanity; The riots and chaos that ensues following Vince Carter posterizing someone
 * #코비 브라이언트; #81; 코비브라이언트가 토론토 랩터스와의 경기에서 득점
-* ##농구
+
+# 기타 
 * 강타를 가하다. 								 throw a haymaker 
 * #스파링; #spar over
 * #권투

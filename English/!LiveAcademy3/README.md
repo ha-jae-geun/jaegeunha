@@ -229,8 +229,39 @@ Put A before B: A를 B보다 우선시하다;  put A on the front burner: A를 �
 * 그녀는 눈알이 빠지도록 펑펑 울었다. She cried her eyes out.  ("눈이 빠지게  울었다")
 * 우리는 배꼽이 빠지도록 웃었다. ;  We laughed our heads off.  ("머리가 떨어져 나가도록 웃었다.")
 * 귀가 떨어져 나갈 만큼 큰소리로 말하지 않아도 돼요.ㅣ You don't have to talk my ear(s) off.  ("귀가 떨어져 나가도록 큰소리로 말할 필요가 없어요.")
+* 교환해주세요; Can i get an exchange?
+* 동정표네; Out of pity; we don't need a coin
+* 그럼 이제 할게; Here goes
+* 저 고기는 뭔가 이상한 냄새가 난다.; That meat smells a bit iffy to me. 
+* 한국에 없는 거에요; the job didn't exist in Korea
+* 정부가 개입해요; the government would step in
+* 부모의 양육권이 박탈되었고; hey have their parents' rights terminated
+* 피터파커 있어요? Gotta Parker Peter?
+* 15세에게 좋ㅇ느 차네; A sweet ride for a 15-year-old kid
+* 계속해; Carry on
+* 추월해; et's pass someone = Let's go around = let's overtake
+* 뭐라했어? What'd say
+* 운전대; the wheel = steering wheel is too much for you kids nowdays
+* 합격 커트라인에 아슬아슬하다; it's gonna be close
+* 깜빡이 안키면; ifyou don't use a signal
+* 점수 깔게; i gotta take a point off for that too.
+* [명사] (구식) 13개(짜리 묶음); baker's dozen 미국식  영국식   단어장추가
+* 출동 시간이군; It's go time
+* 난 그 폭풍우 소리를 못 들었다. 그때쯤에는 내가 잠이 들었던 모양이다.; I didn't hear the storm. I must have drifted off(to sleep) by then 
+* 그렉  포포비치는 어떻게 동기부여햰싸; How Popovich inspire the San Antonio Spurs
+* 피부과 전문의; dermatologist 미국식 [ˌdɜːrməˈtɑːl-]
+* 굿이나 보고 떡이나 먹어. (참견하지 말고 쉬고 있어.) → Sit back and enjoy the ride.
+* 내가 요즘 체력/기력이 딸려 ; → I'm out of juice these days. (↔)full of
+* ㅍ나 내 여자친구한테(그녀한테) 잡혀 살아.; I'm wrapped around her finger. 
+* (너의 지인에게) 말 좀 잘해줄래?  → Can you put in a good word for me?
+* 쪽잠을 자다 (take a) catnap
+* 그만 좀 해!,집어쳐! ; Quit it! / Knock it off!
+* 딱이네! 그거야!; Spot on!/That's it!
+* 우리 한 번 폭식해보자/거덜내보자/제대로 먹어보자! Let's pig out! 
+* 솔깃한데요; it sounds tempting
 
 # 필수
+* 신경도 안썼어; Never gave an eff
 * get to; get(a chance) to do something; i got to look around and take pictures
   got to = have to; 비형석직인 의미 
 * 자기가 다 아는것 처럼 말하고 잘난척 할게 뻔해; she can be al judgemental and condescending
@@ -242,9 +273,45 @@ Put A before B: A를 B보다 우선시하다;  put A on the front burner: A를 �
 * 사레 들렸어는 영어로,; "It went down the wrong pi; pe"
 * "아니나 다를까"를 영어로? ▶ sure enough"sure enough
 * 나는 서울을 우리집처럼 상세히 알고 있어요.; I know Seoul like the back of my hand.  
-
-
-
-
-
-
+* [형용사] 곰팡이가 핀, 곰팡내 나는; 케케묵은; moudly/ moldy 미국·영국 [móuldi]  영국식   단어장추가
+* 지역의 흥미로운 장소들을 소개한 전단; a leaflet on local places of interest; 대도서관 게임
+* 클린턴 전 대통령이 곤란한 문제를 해결했습니다!; Mr. Clinton solved the thorny problem! 듣기 
+* 천상계; have achieved at a celestial level 
+* 그녀가 정치인들을 매도하는 장광설에 들어갔다.; She launched into a tirade of abuse against politicians.;  [ˈtaɪreɪd] 
+* 머리가 듬성하고 곱슬; his hair was spare and frizzy
+* 강도를 당했어요.I was mugged.
+* 도난 신고를 하고 싶은데요.; I'd like to report a theft.
+* 여기서 계산하나요? 아니면 프론트에서 하나요?; Do I pay here or at the front?
+* 돌아가시오; Detour; 우측통행; Keep Right
+* 학교앞 횡단보도; School Xing
+* 방을 정돈해주세요; Please service room
+* 수영복 착용 필수; Swim suits Required
+* 수건걸이에 걸어놓으면 다시 사용하겠습니다; A wtowel on the rack/floor means "i will use it again"
+* 리더기에 교통카드를 대세요; Place your card on the Reader
+* 노약자 자리; Priority seat
+* ~하는거 잊지마; Don't forget to ~
+* 근데 진짜 맵다. ; It's really spicy, though. 
+* 생색내지마. → Don't hold it over my head! 
+* ~해서 나쁠 건 없어. It wouldn't hurt you to~
+* . ~인 것 같아. It looks as if~; - It looks as if you are my old friend
+* (통화할 때) 멀리서 들려. ; → You sound distant.  I can't hear you. The connection is bad.  → I'm losing you.
+* What’s your opinion on ~?  ~에 대한 당신의 의견은요? 
+* ~하는 것 외에는 다른 대안이 없습니다.; We see no alternative but to ~. 
+* ~에 대해 설명 좀 해 주시겠어요? ; Can you give me a rundown on ~? 
+* 그것은 ~와 관련이 있어요. ; It is related to ~. 
+* ~을 해결해야 합니다. ; We should resolve ~. 
+* 저희 제품의 특징은 ~입니다.; A distinctive aspect of our product is ~. 
+* ~은 재고가 동이 났습니다. ; ~ is[are] out of stock. 
+* ~에 대한 견적을 내 주시겠습니까?; Could you give me an estimate on ~?
+* (~로/~까지) 결제하시겠습니까?; Can you make payment (by/in ~)? 
+*  ~을 요약해 드리겠습니다. Let me sum up my main points again. 
+* ~라고 알고 있습니다.  I was informed that we can dress down at work. 
+* 제 생각에는; In my view, you are wrong. 
+* 라니 운이 좋아. ~라니 다행이야. You’re lucky to be here.
+* 이 모든 걸작품을 한 방에서 보니까 압도되네요. => It’s overwhelming to see all these masterpieces  in one room.
+* ~와 연락해야 해요.; I need to get a hold of the babysitter.
+* ~을 모르겠어요[이해 못 하겠어요].I fail to see what the big deal is.
+* 가장 거슬리는 건 ~예요. What bothers me most is that no one else seems to care.
+* ~라고 생각하고 있었어요. I was under the impression that he was single.
+* ~할 방법이 없어요, ~일 리 없어요  There is no way that... 
+* 분명히 ~가 있을 거예요 There must be... 
