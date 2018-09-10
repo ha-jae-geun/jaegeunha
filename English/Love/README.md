@@ -14,6 +14,17 @@ I have a big crush on you / I have a thing for you, i'm into you
 * 함께할 운명이야; we were meant to be each other.
 * 우리는 서로를 위해 태어났어; we were made for each other
 * 우리 소원해졌어; we have grown apart
+* 헤어지다; break up; we're not seeing each other anymore; we're not an item/a couple anymore
+* 헤어졌다 사구이ㅓㅆ다 반복; on and off couple
+* 화해하다; make up sex; a lot of couples breakup just because they want to have make up sex; 미국농담
+* 차다; i dumped him; i was/got dumped
+* 점점 멀어지다; we've grown apart; we grew apart
+* 바람피다; cheat on someone
+* 남자는 많아; there are lots/plenty of fish in the sea/ocean
+* 잊다; finally over somebody
+* 설레다; i have butterflies in my stomach; she makes me feel alivve
+* 나 푹 빠졌어; i'm crazy about/for someone = i'm walking on clouds; i'm on cloud nine
+* 몽상에 젖음; daydream; 몽상에서 깨다; i catch myself daydreaming about her/him
 
 # Marriage
 * ☆잡혀 살다 you have the ball and chain

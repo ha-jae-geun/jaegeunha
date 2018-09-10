@@ -1,5 +1,7 @@
 # Writing
-
+# 처음 보낼 때
+*  please get back to us at your earliest convenience /  I hope your prompt attention on this
+-----------
 * ##writing 
 * 1. 주제 첫줄
 * 2. 말을 최대한 짧게 줄여서; 10자

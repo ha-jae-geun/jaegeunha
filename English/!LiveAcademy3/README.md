@@ -361,3 +361,44 @@ Put A before B: A를 B보다 우선시하다;  put A on the front burner: A를 �
 * 환승을 2번해요; i transfer 2 times
 * 다 제탓이에요; you can blame me for that
 * 기다리게 해서 죄송해요; Sorry for keeping you waiting
+* 다듬기만 할ㄹ래요; i like my style, so i just want a trim
+* 가뭄에 콩나듯; well; once in a blue moon; Summer in Brooklyn썸머썸머
+  happen only once in a blue moon
+* 펫을 키워도 될지 모르겠다; i was wondering if you allow pets in this building
+* 아파트 같이 살아도 돼요? Can i share my apartment with someone?
+* 불편함에 죄송합니ㅏㄷ; i apologize for any inconveinence this may cause / this may/might have caused
+* 두서없이 말하다; Sorry, i am rambling / i get carried away
+* bro, guy, man, dude; 친한 친구끼리만 쓰는것; 어색함
+* 나도 죽갔다(나도 힘들어). 같이하자. 딴데 알아봐라. 잔소리 하지마.; I'm also suffering.﻿
+* 싱숭생숭해; I feel melancholy; 맬런캘리
+* 내 얼굴에 뭐 묻었어?; Is there something on my face? 
+* 늦을것 같애; I am running late
+* 약속 못지켜서 미안해; I am  sorry  for  breaking  my  promise.﻿
+* 생각할 시간을 줘; Give me some time to consider.
+* 그럴줄 알았어; I figured that...﻿
+* 크게 말해줄래? Could you speak louder?
+* 내 경험상; Based on my experience~
+* 계단 조심해; Watch out for the stairs.
+* 안전운전해; Drive safely.
+* 누가 그래? Who told you that?
+* 니 이거밖에 안돼?(꼭 이렇게 해야돼?); Do you have to do this?﻿
+* 이게 누구야; Look who's here!
+* 내가 먹어본 것 중에 제일 맛있어; It's the best out of what I have tasted. 
+* 모 아니면 도야; All  or nothing﻿
+* 오늘만 날이 아니잖아; Today is not the only day.
+* 인생은 타이밍이야; Life is about timing.﻿
+* 보험회사 전화해; Call the insurance company.
+* 전화하면 나와래이....﻿; Come out when I call...
+* 창피한 줄 알아.﻿; Shame on you.
+* 너가 최고야; You rock!
+* 공유해줘; Share it~ ^-^
+* 언제든 상관없어; Anytime is fine.
+* 왜이리 우울해 보여? Why the long face?
+* 돌아오는 수요일 어때? What about this upcoming Wednesday?
+* 요즘 정신 없어; It's been hectic.
+* 홀린 것 같애; I feel possessed.
+* 사정이 있었어; I have an excuse.
+* 나이는 숫자에 불과해; age is just a number﻿
+* 다른건 없어요?; Anything else?😒﻿
+* 언제가 편해? When does it work?
+* 이걸로 할게요; I'll take this. 

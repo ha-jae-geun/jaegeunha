@@ -239,4 +239,5 @@ Don’t cross your legs bc when you put one knee over the other, it sends blood 
 만약 네가 너의 행동을 고치려고 노력하고, 우리에게 좋은 영향을 끼치려고 노력한다면, 우리는 너와 더 잘 지낼 수 있어. If you try to change your behavior and have a positve effect on us, we will get along better with you.; have a positive/negative effect on
 영향이 클때; impact something; be impacted by; have an impact on
 * nasty; 1. 더럽다 2. 맛이 없다 3. 형편없다; nasty watch 4. 악취; nasty smell
-*
+* 코딱지; Booger, 콧물, 물딱지: snot; 코 점액: mucus; you got a bat in the cave
+* NBD; no big deal; 1. 별일 아니야. 2. 비꼬기 -> it was not a problem at all. I'm glad i could be of assistance

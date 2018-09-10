@@ -33,6 +33,8 @@ One O one- point nine FM
 * #ACCT# 						 	Account number; 게좌/계정 번호
 * #ACK 										 acknowledge
 * #ADIOS 									 GOOD BYE 
+* #ATM; At the moment; 바로 지금
+* ATTN: attention; 주목
 * #AS 									 after-sales service.
 * #AWOL(특히 군인의) 무단이탈(absent without leave) He's gone AWOL from his base.
 * #ASAP 									 as soon as possible
