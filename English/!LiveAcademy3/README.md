@@ -402,3 +402,14 @@ Put A before B: A를 B보다 우선시하다;  put A on the front burner: A를 �
 * 다른건 없어요?; Anything else?😒﻿
 * 언제가 편해? When does it work?
 * 이걸로 할게요; I'll take this. 
+* 소문으로 들었엉; we heard the news through the grappevine that ~
+* 빨래통에 있었어; he was in your hamper
+* 딴 생각하고있어; Did i lose you?
+* 한마디로; in a nutshell; can you tell me what happened in a nutshell
+* 내 몸에 자신있거든; i'm self-conscious about my body
+* 따돌렸어; we lost him- 라이온킹
+* 멍청하다; wo you aclling oopid-stay
+* 실망시켜드려 죄송하지만; oh, sorry to burt your bubble
+* 일으켜줘; let me up- 라이온킹
+* 으스스하다; it's really creepy- 라이온킹
+* 앞잡이구나; 비서관이요; you're a stooge; king's majordomo = 라이온킹
