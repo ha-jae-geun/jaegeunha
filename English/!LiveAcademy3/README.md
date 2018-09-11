@@ -413,3 +413,44 @@ Put A before B: A를 B보다 우선시하다;  put A on the front burner: A를 �
 * 일으켜줘; let me up- 라이온킹
 * 으스스하다; it's really creepy- 라이온킹
 * 앞잡이구나; 비서관이요; you're a stooge; king's majordomo = 라이온킹
+* 폭염으로 전기요금 올라; Amid heatwave, Korea's electricity bills up only slightly
+* 한바탕 성질을 부리다; to have/throw a tantrum 
+* 해단식; holds disbanding ceremony
+* 관세를 물다; to impose tariffs on Samsung
+* 굳은살이 박히다; Callus has formed on my palm
+* 유인물 하나 받으실 거에요; There's a handout that will come at the end
+* 슬라이드 몇 장을 보도록 하죠; let's take a look at some slides
+* 짧게 소개해드리도록 할게ㅛ; we'll go over a very quick overview of how 
+* 요약하자면; Just to summarize
+* 발표를 마치겠습니다; That's the end of our presentation
+* 그러니까; Basically
+* 종이 벗기는거 잊지 마세요; don't forget to take the paper off
+* 상태 되게 좋아; i'm in like a really good place
+* 너무 오래 걸린다; this is taking forever
+* 천장에 움푹 들어간 부분이 있어; the ceiling has a dip
+* 가스 누출 사건도 있었어요; we have the infamous gas leak incident
+* 인터넷이 안돼요; Internet is down
+* 와이파이가 더 잘잡혀요; My wifi works better here
+* 인터넷이 정말 느리네요; my internet's lame
+* 여기 위쪽이 인터넷 연결이 더 좋아; Internet connection is better up here
+* 모여봐; so pile on
+* 아니야; Nah~
+* 귀엽거나 달달; 가슴 아플 때; Aw~
+* 당연한거잖아; Duh
+* 크리스마스 분위기에 제대로  빠졋어요; he really got into the Christmas spirit
+* 어머 실수; Ooopsy
+* 너 세균 덩어리잔ㅇ하; you have your cooties
+* 돼지 갈비; Porkchop
+* 저한텐 간식이 있어요; i have treats
+* 끊임없이 일어나는 일이에요; it's a constant
+* 가식도 떨어야하고; la-di-da
+* 강아지 쓰다듬어도 돼요? Can i pet your dog?
+* 사람 좋아하나요? Is he friendly?
+* 몸매 정말 좋으세요; You have very good physique
+* 태닝을 마치고; i just got done tanning
+* ~에게 ~라고 가르킬거에요; ~ is instructing someone to V
+* 엄마랑 같이 올라가서 자기로 했어요; ~ is going to sleep up by mom
+* 풍선더미에 있어요; ~ is in the balloon pit
+* 다 준비해야 하고; i just have to prep everything
+* 전혀 준비되지 않은 상태여서; i am nowhere near ready
+* 평오세 어떻게 다니세요? How do you get around?
