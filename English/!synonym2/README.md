@@ -40,6 +40,9 @@
 * date someone
 * be known for; 업적 행위 사건으로 알려져있다; be known as; 명칭
 * 정시에; i'll pick you up at 7 sharp
+* beach: 바다나 호숫가에 모래와 같은 돌멩이들이 있는 곳; 일광욜 즐기러 가는 곳; seaside; 사람들이 휴가 때 해수욕이나 피서를 목적으로 찾는 바다 옆의 동네와 지역을 말해요.
+  shore; 바다뿐만 아니라 강과 호수로 바로 이어지는, 주로 모래로 된 지역 뜻합니다; coast: 바다를 끼고 있는 럽은 지역
+* 호텔: half board: 조식과 석식이 객실 가격에 포함; full board; 하루 세끼 포함; all inclusive: 세끼 식사 + 미니바의 술 
 * 살이 찌다; gain weight(get weight xx)
 * 며칠만 on; 나머지는 in 1990/ may
 * 칭찬, 존경, 인정합니다; kudos to you / kudos

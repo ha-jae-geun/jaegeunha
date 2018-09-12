@@ -462,5 +462,38 @@ Put A before B: A를 B보다 우선시하다;  put A on the front burner: A를 �
 * ly 안붙는 부사; fast, always, soon, down, seldom, home, far, hard
 * 이름 헷갈렸어요; mixed up our names
 * 오래도니 친구에요; he's my long-time friendly
-* 멀티탭 사야겠어; i have to get a power strip
-* 사인하다; sign my signature
+* 멀티탭 사야겠어; i have to get a power strip  동양철학으로의 초대
+* 사인하다; sign my signature  동양철학으로의 초대
+* 종일 집안에만 있는 것은 좋지 않아; It isn't good for you to be cooped up in the house all day  동양철학으로의 초대
+* no reception; 핸드폰이 전혀 안 터지는 것; moving to another part of the office might give you better reception  동양철학으로의 초대
+* 면접 잘 볼수 있는 팁을 알려줄게; Let me give you some pointers; on improving your skills as an interviewee
+* 다른 말로 표현해주시겠어요? Could you say it in other words  동양철학으로의 초대
+* 뇌사 상태에 빠지다; have brain death 동양철학으로의 초대
+* 설화; tale; (우화) fable  동양철학으로의 초대
+* 인간은 이성적인 동물이다; Man is a rational animal; reasonable  동양철학으로의 초대
+* 시행착오를 겪다; undergo trial and error  동양철학으로의 초대
+* (~와 함께 하다) [동사] accompany, go (in company) with, be accompanied by       동양철학으로의 초대
+* 여지; 의심의 여지가 없다; leave no room[place] for doubt; 비난의 여지가 없다; be above[beyond] reproach;  Is there any room left for further negotiation?  동양철학으로의 초대	
+* 냉정하다; 냉정을 유지하다; keep[remain; stay] cool; a cold-hearted[an unfeeling] person  동양철학으로의 초대
+* 대세를 따르다; go with the flow; go against the general trend 동양철학으로의 초대
+* 크게 벗어나다;  far from; way off from 동양철학으로의 초대
+* 해소하다;  This reorganization helps us do that; There are many ways to relieve stress. 동양철학으로의 초대
+* 사후세계; an afterlife; the other side; the world after death 동양철학으로의 초대
+* 중시하다; lay[put] stress on, put[place] emphasis on, regard[consider, look upon] sth as important; be more concerned with the process than the result 동양철학으로의 초대
+* 본격적으로; he work on the house will begin in earnest on Monday.; Begin for real?; Officially. 동양철학으로의 초대
+* 공감하다; sympathy, [동사] sympathize (with), identify (with); She can relate to. / agree /  Shared! 동양철학으로의 초대
+* 기체, 고체; Air is composed of various gases; change from a liquid (in)to a solid (state) 동양철학으로의 초대
+* 들판을 걷다;  walking in the huge field of Teotihuacan; he walked around the fields of Barbizon for inspiration; walking these fields; walked on the field 동양철학으로의 초대
+* 유교, 불교, 도교가 그것들이다. They are Confucianism, Buddhism, and Taoism. [kənˈfjuːʃən];  [ˈbʊdɪzəm]; [ˈdaʊɪzəm;ˈtaʊ-] 	동양철학으로의 초대
+* 씨를 뿌리다; sow seeds in a field 동양철학으로의 초대
+* 옆모습; a profile, a face in profile, a side face; a face in profile  동양철학으로의 초대
+* 멘붕; but also overwhelmed; MTBD;  My mind is just completely blown;  I don't want him causing a panic;  I hear you had a meltdown today. 동양철학으로의 초대
+* 신생아; newborn baby, newborn infant 동양철학으로의 초대
+* 폐해; harmful effect, harmful consequences; prevent harmful effect from taking place 동양철학으로의 초대
+* 공존; peaceful coexistence;  Are peace and freedom able to coexist in the modern world? 동양철학으로의 초대
+* 속박; be subject to restraint  동양철학으로의 초대
+* 반성하다;  self-reflection, self-examination, introspection, [동사] reflect (on);  Reflect on yourself about your mistake. 동양철학으로의 초대
+* 거미줄; web, cobweb, (Am) spiderweb, (Brit) spider's web; 거미줄을 치다; spin a web 동양철학으로의 초대
+* 세계관; a view of the world; My world is getting smaller and smaller. 동양철학으로의 초대
+* 정체성; 정체성의 혼란을 겪다; suffer an identity crisis; be confused about one's identity; sense of identity 동양철학으로의 초대
+* 말하자면; so to speak, as it were; as it were; in other words - 동양철학으로의 초대
