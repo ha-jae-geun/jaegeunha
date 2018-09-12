@@ -454,3 +454,13 @@ Put A before B: A를 B보다 우선시하다;  put A on the front burner: A를 �
 * 다 준비해야 하고; i just have to prep everything
 * 전혀 준비되지 않은 상태여서; i am nowhere near ready
 * 평오세 어떻게 다니세요? How do you get around?
+* 모든걸 다해 사랑하게 될거야; You are gonna love him with all of your heart
+* 두꺼운 스테이크 좋아해요? Do you guys like fat, juicy steaks?
+* 2명은 얼마나 기다려야해요? How long is the wait for a table of two?
+* 이 메시지는 기밀사항이며 반복되지 않습니다; = 인크레더블; As this message is classifiedd and will not be repeated 
+* 이 일을 8년쨰 하고있어요; i'm in my 8th year of doing this
+* ly 안붙는 부사; fast, always, soon, down, seldom, home, far, hard
+* 이름 헷갈렸어요; mixed up our names
+* 오래도니 친구에요; he's my long-time friendly
+* 멀티탭 사야겠어; i have to get a power strip
+* 사인하다; sign my signature

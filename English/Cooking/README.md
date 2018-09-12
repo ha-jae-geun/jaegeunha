@@ -1,3 +1,7 @@
+# 고기
+* 안심; filet mignon; filet mignon
+* 꽃등심; bone-in Ribeye
+
 # Kitchen
 * #앞접시; please give me a #small plate
 

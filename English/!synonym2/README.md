@@ -241,3 +241,4 @@ Don’t cross your legs bc when you put one knee over the other, it sends blood 
 * nasty; 1. 더럽다 2. 맛이 없다 3. 형편없다; nasty watch 4. 악취; nasty smell
 * 코딱지; Booger, 콧물, 물딱지: snot; 코 점액: mucus; you got a bat in the cave
 * NBD; no big deal; 1. 별일 아니야. 2. 비꼬기 -> it was not a problem at all. I'm glad i could be of assistance
+* sure을 부사로 쓸 수 있따; surely는 아주 드물게 쓴다.; i sure can
