@@ -1,3 +1,4 @@
+* 속성 다이어트해얒; i should go on a crash diet
 * 담당 의사에요; i'm on call today
 * 별 다른 상처는 없네요; there doesn't seem to be any mark
 * 어금니: molar; 

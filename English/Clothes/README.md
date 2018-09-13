@@ -1,3 +1,5 @@
+* 다림질이 필요없는 셔츠; you should wear a wash-and-wear shirt 
+
 ## 신발
 * 남성: 240: 6, 250: 7, 260: 8
 * 여성: 220: 5, 230: 6
