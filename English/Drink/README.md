@@ -1,3 +1,5 @@
+* ~를 위하여; Here's to your health
+* 한잔 따라줄게요; Let me pour you a drink
 * 주량이 얼마야; what's your capacity; 5 glasses are my limit
 * 음주운전으로 체포: he was arrested for DUI
 * 건배사; #toast; toastmaster; 능숙하게; acted as toastmaster

@@ -50,3 +50,69 @@ sticky situation.
 * 회사에서 소외감을 느끼는 것 같아; i think i'm feeling a little left out at work
 * 시간이 해결할거야; Time heals all wounds
 * 회의 떄 맞장구좀 쳐줘; Will you back me up when i talk in the meeting
+* 우주인이랑 F1 경주자들; Astronauts and nascar drivers
+* 보조바퀴없이 자전거 못탄다;; can't ride a bike without training wheels
+* 자극하지마; don't tempts me
+* 카메라 조정중; adjisting the camera
+* 8열 16번; Seat number 16, 8th row
+* 엄청 오래걸린다; it usually takes a really long time
+* 거의 ~한다; Most of time, i'm just web  browsing / In most cases
+* 스마트폰에서 눈을 못 뗀다; i just have a hard time stying away from my phone
+* 어떨때는, ~할때도 있다; In some cases, i might be ~
+* 과제, 출석, 퀴즈가 60퍼센트, 중간고사 기말고사가 20퍼센트씩; Homework, attendance, and quizzes are sixty percent; the mid-term and final are worth twenty percent each
+* 선택지가 없네요; Pretty much out of option; 다니엘 래드클리프
+* 이거 알아요? Does that mean anything to you?
+* 계획이 물거품이 됐어; the plan fell through; 일빵빵
+* 살짝 알ㄹ드리고 싶어요; we also wanted to give you guys a bit of heads-up about upcoming stuff on the channel; 영국남자
+* ~라는 요청을 받았어; i was asked to
+* 절충해드릴게요; i'll meet you halfway
+* 임근 인상 계획이 추진중이다; a raise in wages is in the works
+* 전화를 끊었따; They've hung up on me
+* 올해는 추석이 주말과 겹쳐서 수요일이 공식 대체휴일이에요.; "Chuseok falls on a weekend this year, so Wednesday is an official substitute holiday.
+* 호구는 어디에나 있지; a sucker is born every minute
+* : 그리고 난 시차 적응이 안돼서 힘들다고요.; And I do not handle jet lag well.
+* 걘 뭔가 신기한 지리 능력을 갖고 있어 ㅋㅋ; He has an uncanny sense of direction
+* 난 다른 사람들한테 휘둘리지 않아; I'm not swayed by others
+* 우린 거의 입소문 추천으로 통해서 돈 벌어.; We make most of our profits through word of mouth recommendations.
+* 오심; that was a bad call
+* 해명할 필요 없는데; you don't owe me an explanation
+* 나중에 알려줘; Get back to me on that
+* 지금 바로 할게; i will get right on it
+* 안 까칠해; i am not crabby
+* 밤 늦게 일 또는 공부하다; burn the midnight oil
+* 대세야; be all the rage
+* 스레기 막 버리는 사람; litterbug
+* 최고, 최악; take the cake; this burger takes this cake among all the street food that i've tried - 날라리데이베ㅡ
+* 입소문이 커지다; the word of mouth start snowballing into more and more prospects
+* 국위선양; raising Korea’s reputation on a global stage 
+* 유전적인 요인뿐 아니라; on top of genetic factors 
+* 세계를 단번에 사로 잡았다; they have taken the world by storm
+* 어리둥절 할 거야; you might be scratching your head
+* 그거 다 지어낸 이야기다; it's a cooked-up story
+* 그것을 저버리지 마; don't turn your back on it
+* 그의 이름이 거론되고 있따; his name is bbeing bandied aboout
+* 앞치마를 두르다; put an apron on; ˈeɪprən]
+* 그냥뭐; 아무거나; Not really;
+* 원래 집순이에요; i used to be a homebody
+* 과일이 잘 익엇네; ~ is ripe [raɪp] 
+* 네가 시키는대로 할거라는 것을 아는것 같아; you've really got her eating out of your hand
+* 봐줘; Let me off the hook
+* 마이클 : 애사심 때문이죠. Out of loyalty to this company.
+* 지점장님을 처음 째려본 사람. The first person to give him a dirty look.
+* 동부와 서부가 충돌했던 것 처럼; All like east coast west coast; 모던 패밀리
+* 새로운 일을 위해 도모에 합류한걸 환영한디ㅏ; Welcome to the kitchen!
+* 갑자기 생각나다; spring to one's mind
+* 자신의 행동에 비난받다; face the music
+* 반백의 머리카락; pepper and salt
+* 윗사람의 신임; Brownie pointss
+* 나도 할래; I'm game
+* ~의 단계까지 완료했습니다; we've completed the phase ofs
+* 제대로 들었어; YOu heard right
+* 약 잘못먹은거 아니야? i think you need your prescription checked
+* 스트레스에 잘 대처한다; Cope with stress
+* 동의해; totally with you = i totally agree with you
+* 그지같네; that's crappy
+* 를 보셨습니다; you've all seen our proposal
+* 로션; emulsion 미국·영국 [ɪˈmʌlʃn]
+* 신발을 길들이다; 억지로 집어넣다; 쓸리다 i need to break them in more; it didn't fit, i tried to crush one's foot in the shoe; my piggies chafed; 췌이프; [tʃæf]
+* 쩍벌하지마; stop the Spread, please; close your legs; man-spreading

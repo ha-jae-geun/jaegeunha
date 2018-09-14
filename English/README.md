@@ -6,48 +6,48 @@
 
 * 테드 https://www.ted.com/
 -------------
-* 8.15   	MLB http://post.naver.com/my/series/detail.nhn?seriesNo=46475&memberNo=449115
-* 8.15   	김형제 http://m.post.naver.com/my.nhn?memberNo=11764317
-* 8.15   	하루 10분 http://post.naver.com/my.nhn?memberNo=904209&navigationType=push
-* 8.15   	고딸 http://post.naver.com/my.nhn?memberNo=1061586&navigationType=push
-* 8.15	겁 없이 잉글리쉬 http://post.naver.com/my.nhn?memberNo=837891&navigationType=push
-* 8.15   	매일 3분 생활영어 `http://m.post.naver.com/my.nhn?memberNo=25246384
-* 8.15 러브굿    	http://hi007.tistory.com/
-* 8.15 텔라 http://blog.naver.com/PostList.nhn?blogId=tellakor&categoryNo=0&from=postList
+*    	MLB http://post.naver.com/my/series/detail.nhn?seriesNo=46475&memberNo=449115
+*    	김형제 http://m.post.naver.com/my.nhn?memberNo=11764317
+*    	하루 10분 http://post.naver.com/my.nhn?memberNo=904209&navigationType=push
+*    	고딸 http://post.naver.com/my.nhn?memberNo=1061586&navigationType=push
+* 	겁 없이 잉글리쉬 http://post.naver.com/my.nhn?memberNo=837891&navigationType=push
+*    	매일 3분 생활영어 `http://m.post.naver.com/my.nhn?memberNo=25246384
+*  러브굿    	http://hi007.tistory.com/
+*  텔라 http://blog.naver.com/PostList.nhn?blogId=tellakor&categoryNo=0&from=postList
 -----------------------------------------------------------------------------
-* 8.15   	이상민 영어 http://blog.naver.com/minga2015
-* 8.15   	ECIK http://blog.naver.com/eckedu
-* 8.15  미드 표현 http://blog.naver.com/pjc425/220983107635
-* 8.15 영어는 빈둥대는 거야 http://m.daum.net/channel/superEnglish
-* 8.15   	체니 http://m.post.naver.com/my.nhn?memberNo=2562700
+*    	이상민 영어 http://blog.naver.com/minga2015
+*    	ECIK http://blog.naver.com/eckedu
+*   미드 표현 http://blog.naver.com/pjc425/220983107635
+*  영어는 빈둥대는 거야 http://m.daum.net/channel/superEnglish
+*    	체니 http://m.post.naver.com/my.nhn?memberNo=2562700
 -----------------------------------------------------------------------------
-* 8.15  영어 주유소 http://blog.naver.com/tnwlwldu
-* 8.15   	파고다 오늘의 회화 http://post.naver.com/my.nhn?memberNo=4550737&navigationType=push
-* 8.15 #skybel http://blog.naver.com/skybels/221137138009
-* 8.15 영단:http://m.post.naver.com/my.nhn?memberNo=25662548&navigationType=push
-* 8.15 오석태 http://m.post.naver.com/my.nhn?memberNo=2798983
+*   영어 주유소 http://blog.naver.com/tnwlwldu
+*    	파고다 오늘의 회화 http://post.naver.com/my.nhn?memberNo=4550737&navigationType=push
+*  #skybel http://blog.naver.com/skybels/221137138009
+*  영단:http://m.post.naver.com/my.nhn?memberNo=25662548&navigationType=push
+*  오석태 http://m.post.naver.com/my.nhn?memberNo=2798983
 -------------------------------------------------------------------
-* 8.15 영어 카드 http://blog.naver.com/milgarussem
-* 8.15  	미드 빅뱅 이론 http://blog.naver.com/yjjy0308/221057882496
-* 8.15   	다락원 http://post.naver.com/my.nhn?memberNo=4753342&navigationType=push
-* 8.15   	해커스 http://m.post.naver.com/my.nhn?memberNo=11456415
+*  영어 카드 http://blog.naver.com/milgarussem
+*   	미드 빅뱅 이론 http://blog.naver.com/yjjy0308/221057882496
+*    	다락원 http://post.naver.com/my.nhn?memberNo=4753342&navigationType=push
+*    	해커스 http://m.post.naver.com/my.nhn?memberNo=11456415
 -----------------------------------------------------------------------------
-* 8.15   	쏘피 http://blog.naver.com/sofa1015/220909474533
-* 8.15 콜앤톡 http://blog.naver.com/esolution24 
-* 8.15  	블루링크 http://m.post.naver.com/my.nhn?memberNo=566&navigationType=push
+*    	쏘피 http://blog.naver.com/sofa1015/220909474533
+*  콜앤톡 http://blog.naver.com/esolution24 
+*   	블루링크 http://m.post.naver.com/my.nhn?memberNo=566&navigationType=push
   https://blog.naver.com/bluewater_33/221291032449
-* 8.15 데이브 http://blog.naver.com/koreanstyl3
-* 8.15 하루하루 이루다 https://blog.naver.com/puretearing?Redirect=Log&logNo=220818687784
-* 8.15 출판사 프렉티쿠스  https://blog.naver.com/knowhereman
-* 8.15 소미영어 https://blog.naver.com/somienglish 
-* 8.15 영어랑 커피 한잔 https://post.naver.com/my.nhn?memberNo=576800
-* 8.15 해피제이드 해피라이프J https://blog.naver.com/jadekim925?proxyReferer=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fsm%3Dtab_hty.top%26where%3Dnexearch%26query%3D%25ED%2595%25B4%25ED%2594%25BC%25EC%25A0%259C%25EC%259D%25B4%25EB%2593%259C%2B%25ED%2595%25B4%25ED%2594%25BC%25EB%259D%25BC%25EC%259D%25B4%25ED%2594%2584%26oquery%3D%25ED%2595%25B4%25ED%2594%25BC%25EC%25A0%259C%25EC%259D%25B4%25EB%2593%259C%2B%25ED%2595%25B4%25ED%2594%25BC%25EB%259D%25BC%25EC%259D%25B4%25ED%2594%2584J%26tqi%3DT1SonlpVuEdssvAYXWRssssstlV-350845
-* 8.15 쎄듀와 함께 쎄쎄쎄 https://blog.naver.com/cedubook?proxyReferer=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fsm%3Dtab_hty.top%26where%3Dnexearch%26query%3D%25EC%258E%2584%25EB%2593%2580%25EC%2599%2580%2B%25ED%2595%25A8%25EA%25BB%2598%2B%25EC%258E%2584%25EC%258E%2584%25EC%258E%2584%2B%26oquery%3D%25ED%2595%25B4%25ED%2594%25BC%25EC%25A0%259C%25EC%259D%25B4%25EB%2593%259C%2B%25ED%2595%25B4%25ED%2594%25BC%25EB%259D%25BC%25EC%259D%25B4%25ED%2594%2584%26tqi%3DT1SodlpVuElsst8wGY8ssssstwo-497213
-* 8.15 뇌순’s 영어극복 https://blog.naver.com/rmeoqhek38/221011569917
-* 8.15 엔구 화상영어 https://blog.naver.com/dmm_korea/221267185883
-* 8.15 쌤코치의 영어습관 https://blog.naver.com/georage/221320149267
-* 8.15 아미고톡 http://blog.amigotalk.com/
-* 8.15 야나두 https://blog.naver.com/yanadooblog/221323042575
+*  데이브 http://blog.naver.com/koreanstyl3
+*  하루하루 이루다 https://blog.naver.com/puretearing?Redirect=Log&logNo=220818687784
+*  출판사 프렉티쿠스  https://blog.naver.com/knowhereman
+*  소미영어 https://blog.naver.com/somienglish 
+*  영어랑 커피 한잔 https://post.naver.com/my.nhn?memberNo=576800
+*  해피제이드 해피라이프J https://blog.naver.com/jadekim925?proxyReferer=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fsm%3Dtab_hty.top%26where%3Dnexearch%26query%3D%25ED%2595%25B4%25ED%2594%25BC%25EC%25A0%259C%25EC%259D%25B4%25EB%2593%259C%2B%25ED%2595%25B4%25ED%2594%25BC%25EB%259D%25BC%25EC%259D%25B4%25ED%2594%2584%26oquery%3D%25ED%2595%25B4%25ED%2594%25BC%25EC%25A0%259C%25EC%259D%25B4%25EB%2593%259C%2B%25ED%2595%25B4%25ED%2594%25BC%25EB%259D%25BC%25EC%259D%25B4%25ED%2594%2584J%26tqi%3DT1SonlpVuEdssvAYXWRssssstlV-350845
+*  쎄듀와 함께 쎄쎄쎄 https://blog.naver.com/cedubook?proxyReferer=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fsm%3Dtab_hty.top%26where%3Dnexearch%26query%3D%25EC%258E%2584%25EB%2593%2580%25EC%2599%2580%2B%25ED%2595%25A8%25EA%25BB%2598%2B%25EC%258E%2584%25EC%258E%2584%25EC%258E%2584%2B%26oquery%3D%25ED%2595%25B4%25ED%2594%25BC%25EC%25A0%259C%25EC%259D%25B4%25EB%2593%259C%2B%25ED%2595%25B4%25ED%2594%25BC%25EB%259D%25BC%25EC%259D%25B4%25ED%2594%2584%26tqi%3DT1SodlpVuElsst8wGY8ssssstwo-497213
+*  뇌순’s 영어극복 https://blog.naver.com/rmeoqhek38/221011569917
+*  엔구 화상영어 https://blog.naver.com/dmm_korea/221267185883
+*  쌤코치의 영어습관 https://blog.naver.com/georage/221320149267
+*  아미고톡 http://blog.amigotalk.com/
+*  야나두 https://blog.naver.com/yanadooblog/221323042575
 * dave den https://blog.naver.com/daveenglish 
 * 파이널리스피크 https://blog.naver.com/finallyspeak
 * 사람 in 출판사 https://post.naver.com/my.nhn?memberNo=4760630
@@ -65,6 +65,8 @@
 * Biggie; https://post.naver.com/my.nhn?memberNo=23132643
 * 약장수 버스터; https://blog.naver.com/pcmi4easy_english
 * 길벗이지톡; https://post.naver.com/my.nhn?memberNo=33159364
+* 소다영어 https://blog.naver.com/hyeonahmo/221208654665
+* 윤선생; https://m.post.naver.com/my.nhn?memberNo=2134697
 * 케이크
 -----------------------------------------------------------------------------
 * 당므채널
