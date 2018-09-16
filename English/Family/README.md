@@ -1,3 +1,6 @@
+# 청소년 #아이
+* 사춘기 이전; prepubescent 미국·영국 [prì:pju:bésnt];  Jimmy had a prepubescent daughter,
+-------------
 * 30대 중반처럼 보여; i thought you're in your mid 30's
 * 나 40에 가까워지고있어; i'm pushing 40
 * #첫 만남 #만남 #초면

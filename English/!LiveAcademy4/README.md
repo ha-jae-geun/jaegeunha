@@ -116,3 +116,115 @@ sticky situation.
 * 로션; emulsion 미국·영국 [ɪˈmʌlʃn]
 * 신발을 길들이다; 억지로 집어넣다; 쓸리다 i need to break them in more; it didn't fit, i tried to crush one's foot in the shoe; my piggies chafed; 췌이프; [tʃæf]
 * 쩍벌하지마; stop the Spread, please; close your legs; man-spreading
+* 기업들은 최근에 수동기계를 제거하는 경향이 있다.; Companies nowadays tend to eliminate hands on machines. 
+* ~가 저희 최고 전략입니다; Elasgirl is our best play
+* 제가 ~의 작품을 처음 접했을때; i first encountered ~'s work
+* 얼굴이 창백해; you look ghastly
+* 그녀는 선구자에요; she's a visionary
+* 거물이시죠; a giant
+* 키가 제 무릎밖에 안오니까요; she comes up to my knees
+* 모히칸 머리도했었어; i had a mohawk
+* 잘못들은게 아니야; you didn't miss anything
+* 누가 그런걸 기억해두더? Who keeps track of that?
+* 그와 통하는것 같앳어; i feel like we connect with him from the beginning
+* 미루기 대장이야; because we're procrastinators
+* 지각이어도 신경 안쓰거든요; i don't really mind if it's tardy
+* 아싸 했죠; i was like "Score
+* 시험 잘볼거에요; i'm gonna ace this test
+* 빌딩 내 정기 점검이 이루어집니다; we will be performing scheduled maintenacnce from ~ to ~
+* 피클이 입안에서 톡톡 터지네; pickle has exploded in my mouth
+* 기대 이상이었어요; it's been beyond what we've all expected
+* 예비 전화는 없어요; there's no precall
+* 어린시절 망토에서 확실히 나아졌네요; this is definitely an upgrade from my childhood cape  [keɪp]
+* 예상과 다르게 즐기고있어요; Unexpectedly enjoying
+* 맞아 잘 어울려; okay it mixes well
+* 좋았던 적도 있고 나빴던 적도 있어요; i've had my ups and downs
+* 한 문제 틀렸어요; i got one wrong
+* 이사는 잡동사니들을 처리할 수 있는 좋은 기회이다.; Moving is a good opportunity to declutter. 
+* 처음부터 끝까지 몰입해서 봤어; we were on the edge of our seats the whole time
+* 아드레날린이 계속 솟구치는 것 같았어; I feel like it's constant adrenaline rush
+* 촬영이랑 연출이 진짜 인상깊었어; i was super impressed by like the filming, the cinematography
+* 그 사람 환생할 때; Like he becomes reincarnated [ˌriːɪnˈkɑːneɪt] 
+* 손에 땀을 쥐는 상호아을 남겨놨어; They leave enough of a cliffhanger
+* 조카들을 위한 선물을 찾고 있었는데요, i was looking for a gift for my nieces
+* 답변이 늦어져서 죄송합니다; Sorryfor the delayed response
+* 차 좀 얻어 타도될까요? Could i catch a ride with you?
+* 쉴 떄 보기 좋아하는 프로그램이 뭔지 알고싶어요; i'd like to know what your cosy program is
+* 참고로 말하자면; We'd like to inform you that
+* 영주권을 신청하는 편이 더 나을 거에요; You'll want to apply for a permanenet residency
+* 내 생각에는 From my standpoint/perspective
+* 이거에 빠져있었어요; i was obsessed with them
+* 소울 메이트였어요; ~ and i have been soulsies
+* 바로 지금; ATM; At the moment
+* 소작농들; peasant farmers;[ˈpeznt] 천민
+* 배송이 오래걸릴거에요; it probably will add time to your shipping
+* 배송에 관한 질문이 있으시면 편하게 연락주세요; Feel free to reach out toe someone if you have any questions regarding shipping
+* 면세점 쇼핑ㅇ을 좀했어요; i did some duty free shopping 
+* 우린 끝났어; We're through
+* 이겨내야 해; you've got to pull through
+* 서로 합의하에 헤어졌어; it was a mutual break up
+* 머가 웃겨? What's the joke?
+* 잠시 별거했잖아요; i know you had a little separation
+* 재정적인 것도 서로 공유했고요; We shared joint finances
+* 감정이 격앙되어; Shew as very emotionally charged
+* 미치도록 사랑에 빠지다; fall head over heels
+* 인정이 많은 사람이었다; he was compassionate
+* 불꽃이 ㅟ어오르고 난 홀딱 바졌죠; Sparks were flying and i was smitten
+* 뒷맛이 아예 없어; it doesn't have any aftertaste
+* 적당한 양의 정보를 주는 것 같아요; it gives out a good amount of information
+* 내가 본 것 중 단연 상위권에 속해; This ranks definitely near the top for me
+* 확실히 잘 만들었고; Well crafted for sure
+* 이 사람이 나의 흥미를 잘 끌었어; this is who i'm most intrigued by in this movie
+* 그 글을 한번 열어볼게; i'll pull up the article real quick
+* 실화 기반이야; It's based on true events
+* 매운 홍합; Spicy mussels
+* 눈에는 눈이야; An eye for an eye
+* 땅콩을 찾아 먹진 않지만; i don't go out of my way to eat peanuts
+* 얼굴에 코딱지 묻었어; YOu got a bat in the cave
+* 코 그만파; Stop picking your nose
+* 내 인생에 평생 상처를 주신 것 같아요; You are gonna scar me for life
+* 마약 거래가 벌어지고 있잖아; there's a drug deal going down
+* 사이렌 키고 얼른 가자; Let's put this 70's siren on your car
+* 차 지붕에다 코딱지 묻현싸? did you just wipe a booger on my roof?
+* ~ 방향으로 3 정거장 더가요; it goes three more stops to ~
+* 눈동자 없는 아저씨; Man with no pupil
+* 많이 뜨겁게 해주세요ㅣ; Extra hot please
+* 물 대신 두유 넣어주실 수 있나요? Can you put soy milk instead of water
+* 기본적인 것부터 시작할 거에요; I'd start off with the essentials
+* 덩치만 큰 멍청아; just a big dumb stupid doofy idiot
+* 람보르기니같이 빠르게; Fast like a Lambo
+* 하이파이브하지; Give me high five
+* 무릎 꿀어; Get on your knees
+* 좋기도 슬프기도 한 기억들; bittersweet 미국·영국 [bitərswí:t,bítərswì:t] memories
+* 여러 사람들 사이에서도 눈에 띄지; YOu stick out of the crowd
+* 물론이지; Off top
+* 더 있다가도 되고; Maybe post up
+* 안녕; What's good
+* 난 거물이었지; i've been a boss my whole career
+* 기대 이상이엇어; Exceeded every expectation
+* 경쾌한데요; it's upbeat
+* 사랑하지만 미워하는 지경까지 같지; it's to the point where i love and i hate you
+* 말이야 쉽지; Easier said than done
+* 클로버가 전쟁의 무기라는 걸 알아; i know that the clubs are weapons of war
+* 너의 이미지가 더럽혀지는 순간; But once your picture becomes tainted	
+* 피해자만 잇을 뿐이지; Just casualties
+* 무서워서 몸이 굳어버렸어요; She was scared stiff
+* 그런 표정 짓지마; Stop that look
+* 내기를 걸어 봤어요; put a wager on this one
+* 아파트에 몰래 들어가서; he is gonna sneak in to our apartment
+* 별로 경계하지 않을 것 같아요; i think she's gonna have guard down
+* 교살하다; to strangle sb to death 
+* 제자리에, 준비 땅; On your mark Get set Go!
+* 머리 띵해져; You're gonna get a brain freeze
+* 앞니가 너무 시려; My front teeth are so sensitive; are cold  ; sensitive teeth to cold
+* 식도가 얼었어; esophagus 미국식 [isɑ́fəɡəs]is frozen
+* 입에 감각이 없어; my mouth is so numb
+* 대역 돌려보내세요; Send the replacement home
+* 이번 학년 성적 대박치게; i can literally ace this year
+* 3인분 시켰어요; He ordered 3 servings; Let's order one more portion
+* 한강에서 치맥 먹어본 적 있으세요; Have you ever tried chicken and beer on the Han River?
+* 실컷 노래 부르고 싶어; Sing my heart out
+* 사람들은 서로 앞을 더 잘 보려고 마구 밀치고 야단이었다.; The crowd was pushing and shoving to get a better view. 
+* 해변에서 즐겁게 뛰노는 아이들; children frolicking on the beach [ˈfrɑːl-]
+* 직접 먹어보지 않고는; Without trying it firsthand
+* 구급상자 같은거야? it's like a first-aid kit

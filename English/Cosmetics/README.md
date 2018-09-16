@@ -1,3 +1,4 @@
+* 눈썹을 채워볼게요; Fill in my eyebrows
 * 발색이 좋아; it is a super pigmented
 * 몇 개 발색해볼게요; Let's swatch some
 * 번지게 할거에요; i'm gonna smudege it
