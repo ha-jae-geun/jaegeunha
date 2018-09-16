@@ -228,3 +228,18 @@ sticky situation.
 * 해변에서 즐겁게 뛰노는 아이들; children frolicking on the beach [ˈfrɑːl-]
 * 직접 먹어보지 않고는; Without trying it firsthand
 * 구급상자 같은거야? it's like a first-aid kit
+* 마약을 공급하는 사람; Plug
+* 어지럼증 느끼다; i had vertigo 미국식 [ˈvɜːrtɪɡoʊ]
+* 흥행하고 있어; be on the road
+* 직감으로는; MY gut tells me
+* 구속받는거 싫어; i don't need no leash
+* 그런 돈에는 조건이 따라와요; That kind of money comes with strings
+* 안차려입었어요; he's a little underdressed
+* 엄청 충격받았어; His family is absolutely devastated
+* TV에 나가? is this televised?
+* 옆으로 당겨 앉아주세요; Scoot over please
+* 꿈이 있다면 좆으세요; if you have a dream, you must go after it
+* 잠시 기다려 줄래? Can you hang on one second?
+* 그가 나 고자짏 할거야; he's going to rat me out
+* 나 비난하는거 아니야; i'm not judging
+* 좋은 감정을 갖다; who has a good emotion and feeling(S xx)

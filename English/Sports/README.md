@@ -24,12 +24,9 @@
 * PT; i've been training at home with a personal trainer
 * 배에 힘주다; #tight your belly, #squeeze your abs
 * #복근; #abdominal muscles
+* burn calories
 
-# Kid
-* 사방놀이: #hopscotch
-* 수건돌리기; #duck, Duck, GOose
-* 무궁화 꽃이 피었습니다; #green light! Red light!
-* 술래: IT
+
 ---------
 * 「스포츠」 	#스포츠
 * #선수; 구기: #player, 스키 선수: #athlete / #skater

@@ -1,5 +1,18 @@
 # 청소년 #아이
 * 사춘기 이전; prepubescent 미국·영국 [prì:pju:bésnt];  Jimmy had a prepubescent daughter,
+* Criss-cross: 틱택토;  hopscotch; 바닥에 사각형 그려놓기 게임
+* 사방놀이: #hopscotch
+* 수건돌리기; #duck, Duck, GOose
+* 무궁화 꽃이 피었습니다; #green light! Red light!
+* 술래: IT
+* #adolescence, #teens, #youth - 청소년기
+* emo; 질풍노도 시기에 있는 민감한 아이를 이르는 말
+* 구금되어 있는 청소년 							 the youths in detention
+* #사춘기 왔다 I #hit ##puberty [pjúːbǝrti]
+* ##소년 ##chico(스페인어)
+* 십대가 되다: reach/enter one’s teens
+* 매력적인 10대 초반 애들을 봤어; I noticed some lovely #tweens down by the kid's club
+* #emo# 질풍 노도의 시기
 -------------
 * 30대 중반처럼 보여; i thought you're in your mid 30's
 * 나 40에 가까워지고있어; i'm pushing 40

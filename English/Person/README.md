@@ -1,13 +1,3 @@
-# 청소년
-
-* #adolescence, #teens, #youth - 청소년기
-* emo; 질풍노도 시기에 있는 민감한 아이를 이르는 말
-* 구금되어 있는 청소년 							 the youths in detention
-* #사춘기 왔다 I #hit ##puberty [pjúːbǝrti]
-* ##소년 ##chico(스페인어)
-* 십대가 되다: reach/enter one’s teens
-* 매력적인 10대 초반 애들을 봤어; I noticed some lovely #tweens down by the kid's club
-* #emo# 질풍 노도의 시기
 
 # 나이
 * Do you mind if I ask your age?
@@ -128,7 +118,8 @@ would be the last person to 동사원형; ~할 사람이 절대 아니다
 * #whistleblower; #내부 고발자; #고발자 - #informer #snitch
 * #잘난척; #know-it-all
 * #진짜 친한 친구; #partner in crime
-#yes man; 긍정 맨
+* #yes man; 긍정 맨
+* 사람이 많을 때 더 즐겁게 하는 사람; life of the party
 
 ## 남자
 * 운동 많이 하는 남자; jock 미국식 [dƷɑ:k] 
