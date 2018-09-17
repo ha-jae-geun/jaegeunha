@@ -41,6 +41,7 @@
 * #seasoned a lot
 * #치킨; #chicken <> #chook; #양념치킨; #glazed chicken
 * 설탕 조금만 넣어주세요; Easy on sugar please
+* 그리고 저는 기름을 한 방울 넣을건데; i'm going to add a splash of oil
 
 # Restaurant
 * 고급 식당; an #upmarket restaurant 

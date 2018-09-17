@@ -243,3 +243,110 @@ sticky situation.
 * 그가 나 고자짏 할거야; he's going to rat me out
 * 나 비난하는거 아니야; i'm not judging
 * 좋은 감정을 갖다; who has a good emotion and feeling(S xx)
+* 마이크를 저에게 주시네요; he passed the microphone to me
+* 보복이 기다리고 있을거야; there's gonna be cutbacks
+* 공연을 시작하자; let's put on a show
+* 우리의 숙적을 보아라; Behold our mortal enemy
+* [명사] (미국 폭격기의) 폭격수; bombardier 미국식 [ˌbɑːmbərˈdɪr]  영국식 [ˌbɒmbəˈdɪə(r)]   단어장추가
+* Autonomous Sensory Meridian Response  웹수집  웹수집 도움말 미국식  영국식   단어장추가
+* [타동사] 본위 화폐로서의 자격을 잃게 하다; <화폐·우표 등의> 통용을 폐지하다; demonetize 미국식 [di:mɑ́nətàiz]  영국식 [-mʌ́n-]   단어장추가
+* 유통구조; imrpove the distribution sturecture/system
+* 정수기; water purifier; replace the filter in[of] the water purifier
+* #거미줄; web, cobweb, (Am) spiderweb, (Brit) spider's web; 거미줄을 치다; spin a web 
+* #통신사; telecommunication advertisement
+* 음울한 상황/환경/날씨; dismal conditions / surroundings / weather; [ˈdɪzməl]
+* 익살스러운 생각; wacky ideas 
+* 사람들이 그의 사임을 소리 높여 요구하기 시작했다.; eople began to clamour for his resignation. 
+* 한 무리의 시끌벅적한 관광객들/(어린) 학생들; a gaggle of tourists/schoolchildren 
+* 그녀는 단순한 이야기를 복잡한 주제와 정서로 가득하게 만든다.She makes a simple story resonate with complex themes and emotions.; 어떠한 감정이 청중에게 어떻게 상기되나; resonate with audiences 미국식  영국식 
+* 그녀의 목소리에는 보통 때와 다른 진지함이 가득 담겨 있었다.; Her voice was imbued with an unusual seriousness. 
+* 고개를 숙여 기도했어요; i bowed my head and i prayed
+* 오랜만에 털 빗겨줬ㅇ요; i brushed her fur for the first time in a long time yesterday
+* 비행기 레이오버 한거야; i have a layover
+* 저도요!;  Likewise!
+* 일로 던져줘; toss it over here!
+* 바람과 비가 점점 강해지고 있어요; the wind and the rain are really picking up
+* 시운전중이야; ! is out on a test drive with a customer
+* 너한테 잘어울린다; it looks good on you
+* 그러면 드디어 다른 사람들과 어울릴 수 있겠네; i would finally fit in
+* 지금 기분 안좋아? Are you grumpy?
+* 곧 갈게; i'll be there in a second
+* 임신한 이후로; SInce ~ has become pregnant
+* 초고를 타이핑하고있어요; be typing up the first draft of his book
+* 이야기의 틀을 잡아보고 있어요; ~ and ~ are working on the outlinfe for her story
+* 마차가 기다리고 있습니다; Your carriage awaits; [ˈkærɪdʒ] 
+* 나 왔어; i'm here
+* 오래전에 연락 끊긴 친구야; my long-lost facebook friend
+* 내 고향 친구; my homie
+* 세상에 그런 게 어딨어요; What in the world
+* 어이가 없네; that's absurd
+* 월세 올린거야; the rent just went up
+* 너나 조용히해; you shush
+* 자긴 부정하고 있어; you're in denial
+* 교대할거에요; we're gonna change shifts
+* 닥쳐; SHut your trap
+* ~를 상징하는 앞에 있습니다; i am in front of the iconic ~
+* 전형적인 도시인이거든요; i am definitely pretty much a city slicker
+* 여유로운 오후였어요; Very mellow evvening
+* 폭파 전문가야; i am a demolitions expert; [dèməlíʃən,dì:-]
+* 짜증나; i'm ticked off
+* 여기로 와주세요; Come on over
+* 감동이야; it's overwhelming
+* 잘먹겠습니다; Bon appetit
+* 왜 가글냄새가 나는거야; Then why do you smemll like mouthwash?
+* 너 만나러 갈 준비 중이야; i'm getting ready to meet you
+* 둘이 DM을 주고받았고; Two DMs back and forth
+* 말썽꾸러기야; you stinker
+* 티가 안나; 분명한겆; i can't tell; you're adamant; [ˈædəmənt] 
+* 티나? Can yoou tell?
+* 하얀색으로 빼입으니까 근사해보이죠; we're looking fly in all white
+* 부티나세요; you look like a million bucks
+* 새로운 얼굴들이 많이 보이네요; A lot of new faces i see
+* 새로운 사람 만나는것 기대하고 있어요; i am looking to meet someone new
+* 안전벨트 착용 표시등에 따라주셔야합니다; i'm gonna need you to oberseve the 'fasten seat bell' sign
+* 화장실 가야 해서요; 금방 올게요; i'm gonna run to the bathroom real quick. i'll be right back
+* 이제는 은은해졌어요; we're more subdued now
+* 화려한 색들에 대해서는 어떻게 생각하세요? What do you think of the loud cloors of the 80's
+* 냄새가 역하네요; that's a whiff
+* 내 목사님; my pastor
+* 이 지저분한 자식; you turd
+* 덱에 갈퀴가 있을거야; there's a rake on the deck
+* 엄청 고마워; thanks a bunch
+* 살짝 불안해 하고있어요; be feeling a little uneasy
+* 네가 너무 필요해; i need you so bad
+* 그냥 수갑만 제공했어; i provided handcuffs
+* 빛나는거야; that's radiant 미국·영국 [ˈreɪdiənt] 
+* 갑작스러웠어; it was sprung on me; [sprʌŋ]
+* 이 끔찍한 대사를 전달해보라고 했어요; deliver this really horrendous dialogue
+* 존경받는 동료입니다; i am her esteemed colleague
+* 내과 전문의; internist, someone
+* 옆 가르마로 일어났어요; i woke up with a major side part
+* 흉측한; hideous 미국식 [ˈhɪdiəs]; commit a hideous crime 
+* 속을 만들어봅시다; lets make our fillings
+* 날씬한 체격이라서; i have a slim build
+* 변기 뚜껑을 들 수도 있지만; i could life the toilet seat up
+* 내려가면서; 수축시키세요; slide it, contract
+* 속도 자주 쓰리고; i have a lot of heartburn
+* 넓은 천 면적이 생기면서; create this hug swath of fabric; swɑ́θ,swɔ́:θ] 
+* 다리르 길어보이게 한다; can elongate the legs
+* 임신한 배를 보이다; show off the bump
+* 75파운드 뺏어요; shed almost 75 pounds
+* 머리를 길게 기르고; grow out her hair
+* 그녀는 살이 빠지고; she slimmed down
+* 아이 낳지 않을거면; if you're not gonna procreate
+* 편두통이 있었어요; i had a migraine headache
+* 과잉; plethora of energy; [ˈpleθərə]
+* 성공하다; do the trick
+* 뜬구름을 잡고있어요; my head is in the clouds
+* 신통력[예지력] 있는 사람에게 물어 보다; to consult a clairvoyant [klεərvɔ́iənt]
+* 항상 외톨이였어요; i've always been a loner
+* 잘 적응하고 있어요; is she adjusting?
+* 정신 빠진것같아; my head is in the clouds
+* 서로 오랫동안 알고 지내써요 ; ~ and i go back a long way
+* 내가 리더야; i'm kind of the top dog here
+* 낳나테 물어봐; please direct them to me
+* 나 엄청 아파; i'm sick as a dog
+* 내 맘이거든; becuase i can
+* 고물상이야; i'm just a junker
+* 놀라지마; don't panic
+* 아기 나을거야? would you procreate with me?

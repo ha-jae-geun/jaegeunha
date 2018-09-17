@@ -1,6 +1,9 @@
 # Word
+* 진지하게 만나볼래? wanna go steady with me?
+* 그녀와 사랑에 빠졌죠; i was instantly in love with this chick; 젊은 여자
 * Bridesmaids, Groomsmen, Flower girl(부케), Page boy; 드레스, 반지, #Ring bearer, 들러리: #best man
   신부쪽의 들러리(결혼 x): maid of honor
+* 이런 감정 처음이야; i've never felt this way
 * #give away; 신로에게 인도하다
 * 신부의 행진; Walk down the aisle
 * #합환주; #Welcome drinks
