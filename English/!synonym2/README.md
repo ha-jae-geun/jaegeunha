@@ -1,3 +1,5 @@
+* i don't mind: 수용의 의미이 개의치 않아; i don't care;; 관심없언
+* 시리얼 만들어줄게; i'll fix you some cereal; 음ㅅㄱ을 준비하다
 * know: 일반적인 지식; be aware that; know보다 좁은 개념; find out; 몰랐던 상태에서 알게 되는 상태
   notify; 누군가에게 ~를 알려 주는것; be familiar with; know에 비해 단순한 지식이 아니라 그것과 보낸 시간, 경험이 있어서 알고 있음; get acquainted: 적응하다
 * notice: 달라진 부분을 묘사, tell: 무슨 상황인지 판단이 잘 안섰다; figure: 주어진 상화으 조건을 가지고 나름의 결론을 내린 과정; realize: 정보와 미리 알고있는 것이 만나 새로운 깨달음이 발생; notice: 외부와의 접촉에서 일어나는 어떤 발견의 순간; realize: 새로운 정보가 만들어 지는 것; recognize: 뭔가를 보고 그게 무엇인지 아는 것
@@ -45,7 +47,12 @@
 * 호텔: half board: 조식과 석식이 객실 가격에 포함; full board; 하루 세끼 포함; all inclusive: 세끼 식사 + 미니바의 술
 * i was sea; 1. 항해중인 2. 어쩔 줄 모른다;
 * 저도요; You too
-* 남자 어른: sir; 여자: mam 
+* 남자 어른: sir; 여자: mam
+* Actually; 사실은, 놀랍게도, 오히려 이런말; 시간 끄는말 xx; actually i am korean xx
+  i am actually a naturalized korean citizen; 귀화
+  * 허락맡아야 하지 앟ㄴ나? SHouldn't we ask for permission first?
+  * 파란불로 바꼈어; the light has turned green
+  * 빨래 쌓였어; the laundry has piled up 
 * 살이 찌다; gain weight(get weight xx)
 * 며칠만 on; 나머지는 in 1990/ may
 * 칭찬, 존경, 인정합니다; kudos to you / kudos

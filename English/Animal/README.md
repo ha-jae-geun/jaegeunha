@@ -28,3 +28,6 @@
 * -----------
 * #기타
 * #야생 야생 고양이, 살쾡이					a feral cat; dangerous[feral] animal
+
+# 개
+* 믹스견이고요; she is a mutt

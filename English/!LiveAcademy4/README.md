@@ -350,3 +350,151 @@ sticky situation.
 * 고물상이야; i'm just a junker
 * 놀라지마; don't panic
 * 아기 나을거야? would you procreate with me?
+* 쓰러뜨려; take him down; 테이크다운
+* 자기에게 잘못한 사람에게 그 잘못을 되갚아 준다고 상황이 나아지는 것은 아니다[악을 악으로 갚아 봐야 좋을 게 없다].; two wrongs don't make a right 
+* ~야 잘봐둬; Behold someone
+* 석궁, 장전; Crossbows! At the ready
+* 퇴근시간이다; quitting time
+* 누구 계시나요? Anybody home/here?
+* 내 눈을 속일 수 없어; you can't pull the wools over my eyes
+* 솔직히 말할게; i'll level with you
+* 자신감을주거든; it gives me confidence
+* 내가 좌초한거야; i had it coming
+* 너무 낙관적이라 생각하지않아? don't you think you are being overly optimistic
+* 이제 돌아올 수 없는 지점을 지났어; we're past the point of no return
+* 주먹 샌드위치 맞을 준비해; prepare for a knuckle sandwich
+* [명사] (둘 이상의 정당으로 구성된) 연립 정부, 연정; to form a coalition 
+*  ~ (in/of sth) (특히 사업의) 축소[쇠퇴]; a rundown of transport services  운송 서비스 부문의 쇠퇴
+* 이슈화하다; make it an issue
+* 우리는 합의했고; we agreed on it
+* 집단으로 행동하다; go around in group
+* 제도적; institutional, policy
+* 공론화하다; making publicized
+*  (세력 있는 위치·성공의 가능성 등을) 굳히다[강화하다]; [VN] With this new movie he has consolidated his position as the country’s leading director. 
+* 배송기간이 일이다; if you know you have five-day delivery window
+* 다리 하나가 흔들거리는 의자; a chair with a wobbly leg 
+* 비상 브레이ㅡ는 어때? How's the e-brake?
+* 물속에 빠뜨리다; submerged in water
+* 바로 계산하실래요? DO you want to take care of this
+* 회사 캠퍼스의 편의 시설 중 하나는 무료 식사인데; on campus some of our amenities are free food
+* 여기 너무 지저분해; this place is pigsty; [ˈpɪɡstaɪ]
+* 우리 대비책이 필요하다; we need a backup plan
+* 분명히 하자; Let's get things straight
+* 우리 그거 빨리 하자; Let's do that real quick
+* 내방에서 뭐좀 가져가애 돼요 i gotta grab something from my room
+* 오늘 시간 진짜 안간다; today is dragging
+* 너 자신에게 솔직하길 바래;; i just want you to be true to yourself
+* 프랜드존 당했어요; you got friend zoned
+* 우리 사이 이상해 지는거 아니에요? the relationship doesn't always go sour
+* 너한테 마음있어; i have feelings for somebody
+* 우리 관계 마시고싶지 않아; i don't want to ruin our friendship
+* 하루 정도는 차이가 날지 모르겠지만 아마 3주쯤 걸릴 거예요.; It'll take about three weeks, give or take a day or so. 
+* 무슨 일이 있었냐면; what happend was
+* 가속페달을 밟아씁니다; i stepped on the gas pedal
+* 나느 기어를 바꿨습니다; i shifted the gears
+* 사이드미러를 봤어요; i checked my side mirros
+* 백미러를 고정햬습니다; i fixed the rearview mirror
+* 당분간은; for a while, in the mean time, for the time being
+* 바닐라 농축액도 넣어도 돼요; you can add vanilla extract
+* 확성기에 대고 소리칠거에요; we're gonna yell on a megaphone
+* 얘네 꼬리가 얾나 ㅏ빨리 왔다 갔다 거리는지; how their tail can quickly whip around
+* 게임할 떄의 전율을 그대로 느리게해주거든; feel the electricity of playing for keeps
+* 오타가 있었다;  Unfortunately, their version had a misprint.
+* 대박; how about that
+* 모르겠다; SCrew it
+* 멋있는데; that's pretty ballsy
+* 전화 끊어도 돼; i'll let you go
+* 주파수 맞춰 놓고 계세요; Just tune into frequency 144
+* 통화 그만해야겠따; i gotta hang up now -> i gotta get off the phone; 
+* 결국 가장 중요한건; At the end of the day
+* 철컥 철컥 거리면서; And sit there, clanking around
+* 보통 잘 잊어버리잖아; You forget things
+* 사람들은 절 독고주의자로 생각하는 경향이 있어요; a lot of people tend to think of me as a revivalist
+* 바이올린 연주하다; play fiddle
+* 머릿속이 좀 지저분하네요; you have a dirty mind
+* 머릿속이 하수구에 있나봐; YOur mind is in the gutter
+* 눈에 끈적끈적한게 있어요; her eye's all gloopy
+* 고나광을 위한 몇 가지 작은 조취들이 취해졋지만; small measures have been takien to provide for tourism
+* 목욕해줬어; i gave her a bath
+* 길고양이; alley cats; stray cat
+* 벌써 침대에 이불 덮고 누웠어요; kids are already tucked into bed
+* 2층 침대 다 설치했고; bunk bed set up
+* 최악은 확실하게 찬비가 내린다느 ㄴ거에요; worst case scenario through, we've gonna get cold rain for sure
+* 겁나 썰렁하자; that's so lame
+* 정상에 도착했어요; we made it to Summit Peak
+* 인정해주자; to give her credit
+* 건져내; YOu could fish it out
+* 맨 뒤에서부터 줄이 시작돼요; the line starts all the way back there
+* 여기가 전부 다 물속에서 잠겨있었어요; All this used to be underwater
+* 저기 위에 있어ㅛ; it's way up there
+* 근데 비즈니스가 아닐까? isn't it though?
+* 경찰이 우연히 거대한 마약 조직을 적발했다.; Police have stumbled across a huge drugs ring. 
+* 아직 안자? Are you still up?; You asleep?
+* ~에대한 목록이 있어요; I HAVE A LIST FOR ~
+* 주먹 하이파이브 해줘; Pound it
+* 촉감이 별로다; the texture's not fun
+* 아프겠따; that's not fun
+* 당신 나름대로의 방식으로 변화를 만들 수 있어요; you can make a difference in your own way
+* 쿠폰 부자; rich in stamps
+* 아빠 나름대로 우겨; my dad is funny in his own way
+* 소독제; antiseptic 미국·영국 [ˌæntiˈseptɪk] 
+* 피를 맑게해요; this does thin the blood
+* 그말 들으니 기뻐요; i'm thrilled to hear that
+* 열렬한 환호; a rousing cheer 
+* 재정난에 빠져있어요; ~ is tight on money
+* 소송 서둘러 진행하시죠; hurry with your suit
+* 손가락 장난하고 있었어; just twiddling my thumbs
+* 아주 불쾌한 행동; obnoxious behaviour 
+* 이거 주근깨에요? is that a freckle?
+* 머리카락을 쓸어내리고; i want to run my fingers through your hair
+* 재결합이잖아요; ~ and ~ back together again
+* 전율 돋게해; send shivers down my spine
+* 털을 곤두서게해; my hair stand on end
+* 보시다시피 제 눈썹이 얘보다 아치형이에요; apparently my eyebrows are more arched than hers
+* 걔 아직 회복중이래; he is still healing
+* 베레ㅗ를 쓰게 했어요; i threw on a beret
+* 따뜻한 황갈색인걸로요; in this nice warm tanned color
+* 우리손으로 해결해야해; we have to take that into our own hands
+* 비밀로 덮어주자; let's sweep it under the rug
+* 아주 큰 대가를 치르게 될거야; these little setbacks can cost you dearly
+* 특별한 유대관계를 갖고 있어요; have a really special bond
+* 살얼음판을 걷듯이 조심스럽게 있어요; we've all been walking on eggshells
+* 아주 쟤네들로 들끊네; this place is infested
+* 강누데인게 맞겠죠? it's halfway between right?
+* 그녀가 치마에 생긴 주름을 폈다.; She smoothed the creases out of her skirt. 
+* 몇 개 발색해볼까요? should we swatch some?
+* 발색이 엄ㅊ어난 보라색; it's a super pigmented bright purple glitter
+* 면봉을 이용하고 있어요; i'm just using a cotton swab
+* 이제 번지게 할거에요; i'm gonna smudege it
+* 사춘기 시절에 좀 많이 곤란해졌지; i got really awkward in puberty age
+* 되게 부드러워; they've very fuzzy
+* 머리가 터질것 같애; my brain is about to explode
+* ~와 ~사이에서 고민하고 있었는데; i was debating between ~ or ~
+* 머리 식히러 가야겠어; i need to go clear my head
+* 세탁물 아홉 더미를 처리하력고 해요; i'm trying to tackle nine loads of laundry
+* 머리속이 정리가 안되네요; i cannot think straight
+* 그냥 그런 모든 것의 계획 말이죠; just all the logistics of everything
+* 생각이 많아요; i have a lot on my mind
+* 에의 주시해 주세요; keep a lookout in your inbox
+* 제 시간에 배송되지 않아서; it didn't get delivered in time
+* 오늘 저한테 이 소포가 와써요; this package arrived for me today
+* 새 식구; new additions
+* 대리 운전할 사람 뽑을 시간이ㅑㅇ;  [déziɡnèitid]; time to pick a designated driver
+* 해장술이지; Hair of the dog
+* ~를 위하여; Cheers to ~
+* 날 만만하게 보면 안되지; you can't just push me around
+* 당신을 공격할거에요; i'm gonna come at you
+* 눈을 멍들게하다; give someone a black eye
+* 날 뭘로 보는거야; what do you take me for?
+* 연필 깍이 돌려줘 햪ㄷ 솓 놈게둗ㄱ ㅠㅁ차
+* 그런 행위가 형사상 범죄가 되는가?; 동사] (진행형으로는 쓰이지 않음) …이 되는 것으로 여겨지다, …이 되다; Does such an activity constitute a criminal offence? 
+* 4번은 약간 스토킹이에요; ~ is low-key stalking
+* 재수도 없고; Condescending
+* 타이어에 펑그가 나서; i blew a tire on the way here
+* 징징되는거 들어줄 시간 없어; i don't hav time for your sob story
+* 나 견인차 불러야돼; i have to call a tow truck
+* 우리는 우리 초기 목표를 성취했다.; We have made through with our initial goals. 
+* 문짝이 찌르거졌어요; her door is bent
+* 폐차 수준으로 박살 났어요; their car was totaled
+* 저 방금 교통사고가 났어요; i just got in a car accident
+

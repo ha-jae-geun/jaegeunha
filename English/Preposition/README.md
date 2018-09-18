@@ -1,3 +1,10 @@
+# for
+* 그녀를 대신해서 말하고있엉; i am speaking for her right now
+* 찬성해? are you for or against it?
+* 응이라는 뜻으로 눈을 한번 깜빡이세요; blink once for yes
+* 늦어서 짜증나; i'm so annoyed at myself for being late
+* 무단 결석한 이유가 머지; what's the reason for your truancy 미국식 [ˈtruːənsi] 
+
 * ^^접속사 ⟺전치사
 * 
 * While ⟺during

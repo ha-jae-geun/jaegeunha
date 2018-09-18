@@ -13,6 +13,7 @@
 * 십대가 되다: reach/enter one’s teens
 * 매력적인 10대 초반 애들을 봤어; I noticed some lovely #tweens down by the kid's club
 * #emo# 질풍 노도의 시기
+* 옥수수밭으로 만든 거대한 미로찾기 놀이; corn maze
 -------------
 * 30대 중반처럼 보여; i thought you're in your mid 30's
 * 나 40에 가까워지고있어; i'm pushing 40
