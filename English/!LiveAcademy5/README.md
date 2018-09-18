@@ -435,3 +435,25 @@
 * 그걸 통해 얻은 가장 큰 꺠달음이 ㅜ엇인가요; what was the biggest takeaway from that?
 * 도박을 용납하지 않아요; i don't condone gambling;  [kənˈdəʊn] 
 * 다재다능; ˈvɜːrsətl]; He’s a versatile actor who has played a wide variety of parts.
+* 헬스장이나 야외에 나갈 때도 신을 수 있는것; like to the gyum and then also wear it out
+* 노래방을 안가는 잉가 있나요; do you have a particular affliction towards karaoke
+* 그는 본사에서 파견 나온 직원이다; He has been dispatched from the main headquarters. 
+* 선글라스 살라고요; ii'm looking for a pair of sunglasses; looking for frames that are big enough to cover my cheek bones;  
+  금테요;  looking for gold wire rim frames
+  뿔테요; black horn rimmed sunglasses
+  얼굴에 맞는걸로 추천해주세요; can you recommend that fits my face shape
+* 가벼운 렌즈 있어요? do you have anything with lighter lenses?
+* 초록색 그라데이션 있는; do you have a pair of sunglasses with green gradient lenses?
+* 코받침좀 조정해주세요; can you adjust nose pads?; adjust the height of the 
+* 안경다리좀 맞춰주세요; can you adjust (my/the) earpieces?
+* 더 잘 조절해주세요; can you better adjust the earpieces to my ears?
+* 코받침좀 낮춰주세요; can you lower the nose pads?
+* fix, unbend, straighten
+* 처방전 받은 렌즈 사고싶어요; i'd like to get a pair of prescription lenses
+* 밤에 시야가 흐리거 보여요; i have blurry vision at night
+* 자동 폭파봡니다; this message will self-destruct
+* 여행 내내 우리 아버지가 운전하셨어; my father drove throughout the entire/whole trip
+* 눈이 안좋아서 운전을 못하셔; my mother can't drive because she has bad eye sight
+* 자살 행동을 느끼는것 같아; she might be suicidal
+* 당신이 애 싫어하는거 얘도 알고 있네요; she senses you don't like her
+* 나 긔아이디어 생각해냈어; i came up with the idea - 해커스톡
