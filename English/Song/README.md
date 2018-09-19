@@ -121,6 +121,9 @@
 * Nothing's gonna change - Glenn Medeiros - 
 * Stay - Zedd, Alessia Cara  -  제드, 알레시아 카라 
 * Last Chance - M.Y.M.P
+* Run to you - Whitney Houston
+* Pillowtalk-Tayler Buono
+* bye bye i finally - chicken
 -------------
 
 * <1955~1970>

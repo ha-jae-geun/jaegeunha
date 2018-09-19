@@ -431,6 +431,18 @@
 * 엄청 화제가 됐어요; went viral in korea
 * 멋진 스타일들을 소화해내시잖아요; you pull off amazing looks with bold colors
 * 여신을 의미하는거에요; means like goddess
+* 당연하지; all that jazz
+* 자주 찾는곳; my go-to places
+* ~는 제껴두고; ~ aside
+* 친목, 미팅, 술자리 갖는 친목 자리; communal area
+* 시간에 쫒겼따; i was always pressed for time
+* 사과 받을게; apology accepted
+* 어렸을때 허락받지 못했어요; was now allowed to ~ grwoing up
+* 언제부터; since when did you start smoking?
+* 그리울거야; i'll be missing 
+* 화잘이 왜 안좋아요; why does it look so pixelateed
+* ~는 생각도하지마; don't even think about it
+* 좋은 뜻이었어; i had a goood intention
 * 개척자들로부터 영화가 시작된다; started with the pioneers of cinemal  [ˌpaɪəˈnɪə(r)]
 * 그걸 통해 얻은 가장 큰 꺠달음이 ㅜ엇인가요; what was the biggest takeaway from that?
 * 도박을 용납하지 않아요; i don't condone gambling;  [kənˈdəʊn] 
@@ -457,3 +469,23 @@
 * 자살 행동을 느끼는것 같아; she might be suicidal
 * 당신이 애 싫어하는거 얘도 알고 있네요; she senses you don't like her
 * 나 긔아이디어 생각해냈어; i came up with the idea - 해커스톡
+* 선택권을 주다; put something in the hands of someone
+* 아직 해결 안도ㅒㅆ다; have yet to be resolved
+* ~에 대한 벌은; the only punishment for thes crimes
+* 그들은 마약 소지죄로 투옥되었다.; They were imprisoned for possession of drugs. 
+* 강하게 말하다; strongly stated that
+* 넌 끝났어; you're toast; 보스베이비
+* 테이프 넘겨; hand over the tape; 보스베이비
+* 자기만의 방법이 있는데요; tey've all got their patented methods
+* 신진대사도 느려요; very slow metabolism
+* 초능력이 있다; ~ have a special power
+* 내 얼굴이 씰룩거려; i think my face is twitching
+* 이미 저희 추월했어요; she's already overtaken us
+* 저와 같은 상황이에요; ~ and me are on my same page here
+* 감옥 탈출용 펜이잖아; this is a prision breakout pan
+* ~가 더 낫지; ~ takes the biscuit
+* 뒤로 누워서 누군가가 부채질해준ㄴ다고 상상해봐; lay back and just imagine someone's just wafting you
+* 최악이야; Easily the worst
+* 그냥 안락의잔데; it's just a reclining chair
+* 중력이 분산되는거지; the gravity is dispersed over your body
+* 혈액순환이 이렇게 잘된적 엇ㅂ서; my circulation has never been better
