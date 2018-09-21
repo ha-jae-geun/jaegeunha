@@ -1,5 +1,6 @@
-#나라
-#섬#; ~ is #composed of 3000 islands
+# 나라
+* 섬#; ~ is #composed of 3000 islands
+* Haitian [héiʃən,-tiən]; 아이티인
 
 #캐나다 (영어+프랑스어)
 

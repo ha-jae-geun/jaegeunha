@@ -6,6 +6,10 @@
 * 주유; you need to refill it before returning the car /  fill up the tank
 * #waiver; 보험사와 나눔
 ------------
+# 일상
+* 차가 뺴곡하더라구요; the traffic is chock-a-block
+* 엔진이 고장났다고 말했잖아; i told you my engine seized up
+
 * 「주유소」	
 * 미국 운전
 또한 한국에선 많은 운전자들이 자신의 핸드폰 번호를 운전석 근처에 남겨두는 반면 미국에선 절대 자신의 핸드폰 번호를 노출하지 않습니다. 초보운전, 아기가 타고 있다는 점, 핸드폰 번호를 노출하는 점 등 모두 개인의 신상과 연결이 될 수도 있기 때문입니다. 

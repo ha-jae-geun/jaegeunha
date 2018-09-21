@@ -1,3 +1,6 @@
+# to
+* 어개까지 내려오는 금발머리; she'g got the blond haircut down to her shoulders
+
 # for
 * 그녀를 대신해서 말하고있엉; i am speaking for her right now
 * 찬성해? are you for or against it?

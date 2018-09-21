@@ -2,12 +2,21 @@
 * 속성 다이어트해얒; i should go on a crash diet
 * 담당 의사에요; i'm on call today
 * 별 다른 상처는 없네요; there doesn't seem to be any mark
-* 어금니: molar; 
 * 내과; internal medicine department;
 * 방광염; bladder infection, cystitis; inflammation of the bladdder
 * 당뇨;  [ˌdaɪəˈbiːtiːz]
 * 혈당: blood sugar; 혈액 검사; hematologic test / blood test
 * 초음파 검사; get[have] an ultrasound 
+* 가벼운 뇌진탕ㅇ;야; you appear to have mild concussion 미국식 [kənˈkʌʃn] 
+
+# 치과 
+* 어금니: molar; 
+* 신경치료를 받야 될 것 가요; i think i'm gonna to need a root canal
+* 제 치아상태는 어떤가요? So what was the verdict with my teeth?
+* 충치가 없고 잇몸도 건강합니다; No cavities and your gums are great
+* 6개월에 한 번씩 저희는 아이들 다 데리고 치과검진을 받으러가요; We take all the kids to the dentist for a checkup
+* 잇몸이 약간 부었어요; her gums are a little bit pufffy
+* 충치 때문에 이를 때우고 와야 했어요; had to have a tooth filled because she had a cavity
 --------------
 * #건강검진; have a #medical checkup
 * #B형 간혐; #type BV Flue; Influenza A viruses

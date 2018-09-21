@@ -25,6 +25,7 @@
 * 배에 힘주다; #tight your belly, #squeeze your abs
 * #복근; #abdominal muscles
 * burn calories
+* 유산소, 가슴, 등, 삼두, 전신 다해요; Cardio, do some chest, back, tri's the whole body
 
 
 ---------

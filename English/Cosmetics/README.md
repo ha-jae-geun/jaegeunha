@@ -1,3 +1,7 @@
+# 피부 
+* 엄청 큰 여드름이 나겠지; i'm gonna have a huge zit
+* 피부 트러블이 나기 시작했어요; i started breaking out a little bit
+
 * 미끄러지듯 발리네; it glides; it slides on
 * 눈썹을 채워볼게요; Fill in my eyebrows
 * 발색이 좋아; it is a super pigmented

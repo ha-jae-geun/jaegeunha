@@ -30,6 +30,7 @@ I have a big crush on you / I have a thing for you, i'm into you
 * 몽상에 젖음; daydream; 몽상에서 깨다; i catch myself daydreaming about her/him
 
 # Marriage
+* 부부를 선언합니다; i now pronounce you husband and swife
 * ☆잡혀 살다 you have the ball and chain
 * #권태기인 것 같아요.   I think we're in a rut.
 * *#결혼 #matrimony(격식)

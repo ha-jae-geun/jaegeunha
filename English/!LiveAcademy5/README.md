@@ -489,3 +489,12 @@
 * 그냥 안락의잔데; it's just a reclining chair
 * 중력이 분산되는거지; the gravity is dispersed over your body
 * 혈액순환이 이렇게 잘된적 엇ㅂ서; my circulation has never been better
+* 아이디어를 훔치다; poach ideas 
+* 그가 들으면 미친 듯이 화를 낼 거야!; He’ll go loopy when he hears! 
+* 손지샇다; talk in signs; He gestured for me to come closer. 일기
+* 버스 전용차선; bus-only lane; make bus-only lanes; violate bus-only lanes; designate bus-only lanes
+* 양보하다; make way for an ambulance; He gave up his seat for an old man; Each of them wouldn't yield[give], not even an inch. Each of you take one step back.
+* 출석; attendance; (법정에) appearance, attend, appear (in court), be present (at); call[take] roll 
+* 자아정체성; ego identity; suffer an identity crisis 
+* 대중 문화; pop(ular) culture; cope with mass culture; open mass culture
+* 업ㅇ서지다; ) disappear, be missing, be gone, be lost; has disappeared.; the scar dies away

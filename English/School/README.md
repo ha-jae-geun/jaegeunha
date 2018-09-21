@@ -1,4 +1,11 @@
+* 휴학 하고싶어; he wanted a gap year
 * 왕따;; #outcast;  i was bullied at school
+* 수업 끝; Class dismissd
+* 잠시 
+* 선택과목이야; this course is an elective
+* 상대평가에요; I'M GRADING ON A CURVE
+* 학점은 GPA
+* 여름방학이 시작됐어;요; school is already out for the summer
 ----
 # 학교
 

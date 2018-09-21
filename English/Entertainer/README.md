@@ -1,3 +1,9 @@
+# 연예인
+* 레이디가가; Mother monster - 팬들: Little monsters
+
+# 영화
+* 개봉일이에요; it's the premiere for ~
+
 # Entertainment
 * #감식가: #connoisseur[|kɑ:nə|s3:r;-|sʊr] 
 * #박람회; #fair; book fair

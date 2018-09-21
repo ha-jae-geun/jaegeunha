@@ -1,3 +1,4 @@
+* 벌써  취한것같애; i'm already wasted/hammered
 * 술마시면 얼굴 빨게짐; i'm getting that Asian glow
 * ~를 위하여; Here's to your health
 * 한잔 따라줄게요; Let me pour you a drink
