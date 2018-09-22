@@ -244,3 +244,52 @@
 * 큰 성공이엇습니다; be a great success
 * 회사의 매출은 떨어지지 않았습니다; the company's sales didn't go down
 * ~에게 더 관심을 주다; showed more attention to ~
+* 기대에 부응하다; He tries hard to live up to his parents' expectations.; I should like to meet your expectations as far as possible.
+* 완전... 젊음과 낭만의 거리.; Street full of youth and charm
+* 비행기에선 환기가 잘된다; Ventilation is good on airplanes.
+* 고기압인 배에서 저기압인 비행기로 가스가 방출된다.; he gas is discharged from a ship with a high pressure to a low pressure airplane.
+* 악순환; 고리를 끊다; break out of a vicious circle; 빠지다; be caught[locked; trapped] in a vicious circle
+* 무한대는 과정이다; infinity is process
+* 수질 오염;  water pollution is so serious;  suffer from water pollution?
+* 돌기둥; a stone pillar
+* 나는 이 집에 전세를 살고 있다; I have a lease on this house I live in.
+* 로마에 아치 건축물이 유명하다.; Arch architecture is famous in Rome.
+* 이전의 경험으로 알다; know from past[previous] experience 
+* 세계관; an outlook on the world, a view of the world, a world view
+* (선대의 인류가 남긴 물건) relic,[ˈrelɪk] antiquity[ænˈtɪkwəti], artifact; 석기시대의 유물; relics from the Stone Age
+* 전쟁의 신이 두명인 이유; Why are there two gods of war
+* 해 떨어지기 전에 돌아와라; Come back before sundown[sunset]
+* 자아도취에 빠지다; fall[slip; sink] into narcissism; [ˈnɑːsɪsɪzəm]
+* 문명의 혜택을 받다; receive[enjoy] the benefits of civilization; the birthplace[cradle] of ancient civilization; ˈkreɪdl]
+* 신을 모시다; The orishas also serve one powerful god called Oludumare; s dedicated to the god Abu.; worshiped gods
+* 아름다운 경치가 눈앞에 펼쳐졌다; Beautiful scenery unfolded[spread out] before my eyes.; There was a lovely view of the lake from the bedroom window
+* 수호신; patron saint; meet guardian
+* 정신적으로; be mentally tired[fatigued]
+* 전령을 보내다; send a messenge
+* 필요한 교육 정도와 교양 수준을 형성하는 데는 수십 년이 걸릴 것이다.; It would take many decades to build up the level of education and sophistication required. 
+* 신전; temple, shrine; 고대 그리스의 신전들; the ancient Greek temples; [ʃraɪn]
+* 양친은 그가 자랑이었다; He was the pride[boast] of his parents. 듣기 출처:동아 출
+* 처음부터 끝까지  단어장추가; from beginning to end; read a book from cover to cover
+* 착시 현상을 일으키다; cause an optical illusion
+* 중요시하다ㅏ; lay[put] stress on, put[place] emphasis on, regard[consider, look upon] sth as important; highly regard one's individuality 
+* 뒤집다; turn sth inside out, turn sth wrong side out
+* 혼란; fall into confusion[disorder]; onfusion, chaos, mess; (소란) commotion; (무질서) disorder, [형용사] confused, chaotic, mixed up; be in a state of confusion
+* 갑자기 엄습하는[병적인] 불안; (a) sudden[morbid] fear; be seized by fear; The cold weather took the people by surprise
+* 관광 상품; tourism product
+* 이 극장은 3천 명의 관객을 수용할 수 있다; This theater can accommodate 3,000 people;  연극: play, drama, theater
+* 본방사수; Don't miss it!!
+* 대화에 끼어들다; cut[butt in] one's conversation
+* 독재자; dictator, autocrat; 축출하다: oust a dictator; [aʊst]; remove[oust] a dictator from power; The army deposed the dictator.
+* 무력화; incapacitation, neutralization; 무력화하다; incapacitate; ˌɪnkəˈpæsɪteɪt]
+* 자연의 법칙에 따르다; follow the laws of nature 
+* 우리 회사는 남녀 차별이 없다; There is no sexism[sex discrimination] in my company.; forbid sexual discrimination; experience sexual discrimination; overcome sexual discrimination; prohibit 
+* 논거를 제시하다; present the reasons[grounds] for an argument; 논거 지적; indication of argument; 부실하다; His arguments are hollow.
+* 뚜렷한 물증을 확보하다; obtain clear physical evidence; (physical/material) evidence, proof
+* 진리를 깨닫다; realize the truth
+* 기둥을 받치다; support 《a wall》 with a post
+* genuine[original, authentic] article; 그는 그 그림을 고흐의 진품으로 감정했다; He appraised the painting as a genuine Van Gogh.; ˈdʒenjuɪn]
+*  공간적 통찰; spatial insight
+* 무기력 상태에 빠지다; become lethargic; [ləθɑ́:rdƷik(əl)]
+* 영토의 반환; the retrocession[restitution] of a territory [rètrəséʃən]점령지를 반환하다 ; recede conquered territory
+* 본따 만들다; is a direct copy of; was named "tennis" after
+* 사회 운동가; a person engaged in a social movement

@@ -1,3 +1,10 @@
+# 정책
+* imperialism; 제국주의자 an imperialist;  in on imperialism
+* capitalism; 자본주의는 이윤 추구를 목표로 한다; Capitalism aims at[focuses on] making profits.
+* 공산주의; communism, collectivism
+* 민주주의; parliamentary democracy 
+* 폭정에 시달리다; suffer from tyranny ; [ˈtɪrəni; despotism, tyrannical[despotic, oppressive] rule; tyrannize over a country
+* #공포정맃; #reign of terror; [reɪn]
 
 ## Election
 * win the election
@@ -5,8 +12,8 @@
 * i vote for
 
 ------
-* ##정치	
-* #공포정맃; #reign of terror
+## 정치
+* 문화부 장관; minister of the Ministry of Culture	
 * #깨어있는 사람; are you #woke?
 * #영부인 #first lady
 * #대통령 #백악관; #white house, #백악관 서관: #Westwing
