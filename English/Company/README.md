@@ -31,6 +31,8 @@
 # 문장
 * 내일 팀과 팔로우업하겠습니다; i will follow up with the team tomorrow
 * 업무량을 감당하다; take up my workload
+* 프로젝트 마감일을 맞추기 위해서 제 휴가를 반납하기로 했어요.; I'm giving up my holidays to meet the deadline for the project.
+* 제 교대 근무가 공휴일에 있어요.; My shifts fall on a public holiday.
 ----------------------------------------------------
 
 # 「회사」 #회사 #기업 #복합 기업, #대기업; #conglomerates

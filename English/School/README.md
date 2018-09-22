@@ -1,3 +1,6 @@
+# 대학
+* ~과; Department of korean language/philosophy
+* 그녀는 세무학을 전공했어.;  She majored in Taxation.
 * 휴학 하고싶어; he wanted a gap year
 * 왕따;; #outcast;  i was bullied at school
 * 수업 끝; Class dismissd

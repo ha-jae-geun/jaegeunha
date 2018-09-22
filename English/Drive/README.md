@@ -6,9 +6,12 @@
 * 주유; you need to refill it before returning the car /  fill up the tank
 * #waiver; 보험사와 나눔
 ------------
+
 # 일상
 * 차가 뺴곡하더라구요; the traffic is chock-a-block
 * 엔진이 고장났다고 말했잖아; i told you my engine seized up
+* 살짝 우회전; turn slight right
+* 도로의 사방이 정체ㅗ디어있어ㅛ; this traffic is just girdlocked everywhere
 
 * 「주유소」	
 * 미국 운전

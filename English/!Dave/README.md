@@ -1,3 +1,8 @@
+* 닥치고 ~하기; Keep calm and ~
+* 최악이다; take the cake/biscuit
+* 열심히 살아가다; Hustle and grind = grind
+* ~가 최고다; take the cake
+* 발품 많이 팔아야돼; you gotta put in the legwork to get there
 * 넌 종준하는데; With all due respect
 * 경솔해 보이려는ㅇ ㅢ도는 아니야; i don't mean to come across as rude
 * 빈곤 완화 조치; action to mitigate poverty 

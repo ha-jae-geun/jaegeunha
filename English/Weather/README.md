@@ -1,5 +1,11 @@
 * 나쁜 날씨: #inclement weather
 
+# 비 
+* 소나기를 만나다; i was caught in a shower on the way here
+* 보슬비가 내리기 시작했다; A light drizzle began to fall
+* 장댓비; Heavy rain is expected this afternoon
+* 가랑비; there was a fine rain in the morning
+
 # 여름
 * The crops are withering in the scorching heat. ; heat wave, sweltering heat, scorching heat 폭염으로 농작물이 시들어 가고 있다
 * 습기가 많아 답답; it's so stifling

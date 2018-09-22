@@ -31,3 +31,12 @@
 
 # 개
 * 믹스견이고요; she is a mutt
+
+# 속담
+* '재주는 곰이 부리고 돈은 되놈이 가져간다; do the donkey work이란 우리 말의 
+* 자신의 의무와 책임을 다하다, 사실들을 명확히 하다 /사물이나 생각을 잘 정리하다 ; get/have/keep one's ducks in a row ("오리들을 일렬로 정렬하다다") - 
+* 튀겨야 할 다른/더 큰 물고기가 있다") '해야할 더 중요한 게 있다'는 뜻; have other/bigger fish to fry
+*  잠깐만요. Wait a moment와 같은 말.  hold your horses ("네 말을 멈춰라") -
+* 발디딜 틈 없이 꽉찰 만큼 복잡한; packed like sardines (통조림 속의"정어리처럼 채워진") - 
+* '어렵거나 힘들거나 불편한 상황을 막딱뜨리다'는 뜻. 가령,   take the bull by the horns ("황소의 뿔을 잡다") - 
+* 충분한 정보를 얻을 때까지 결정을 미루다.; wait for the cat to jump ("고양이가 점프하기를 기다리다") - 

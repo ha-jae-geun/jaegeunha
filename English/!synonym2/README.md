@@ -1,3 +1,4 @@
+* 약을 먹다; take / on medication
 * i don't mind: 수용의 의미이 개의치 않아; i don't care;; 관심없언
 * 시리얼 만들어줄게; i'll fix you some cereal; 음ㅅㄱ을 준비하다
 * 사고싶은 ㅊㄱ이 있어요; there's this book that i want to buy

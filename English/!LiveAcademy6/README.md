@@ -293,3 +293,85 @@
 * 영토의 반환; the retrocession[restitution] of a territory [rètrəséʃən]점령지를 반환하다 ; recede conquered territory
 * 본따 만들다; is a direct copy of; was named "tennis" after
 * 사회 운동가; a person engaged in a social movement
+* 교통량이 최고조에 달할 예정입니다; The volume of traffic will likely peak today
+* 출퇴근 시간도 아니잔ㅇ하; It's not even rush hour
+* 스트레스 완화용으로? Like de-stressing?
+* 종이접기? Oirgami?
+* 방금 끼어들었어; she just cut me off
+* 명절 후유증을 겪고 있나요?; Are you experiencing post-vacation blues?; Teach me how to beat 
+holiday blues.
+* 그 나라에 내전이 일어났다; A civil war broke out in the country. 
+* 결정하는 것은 관객의 몫이다; It is the audience's responsibility to decide; It's up to the audience to decide.
+* 암흑기다; 그 시절은 독재 정권으로 인한 정치적 암흑기였다.; Those were the political dark ages due to a dictatorship. 
+* 관객들하고의 수 싸움에서 다음 장면이 예상이 되니까 영화 자체의 긴장감이 떨어졌죠.; The audience could tell about the next scene which gave the less tension to the movie
+* 희극은 평균보다 못난 사람에 대해 쓰는거고, 비극은 상대적으로 잘난 사람에 대해 쓰는 것이다.; Comedy is about people who are less than average, and tragedy is about people who are relatively good.
+* 웅변학원; speech academy
+* 회의에 앞서 각자 의견을 정리해 주세요; Before the start of the meeting, please have your comments prepared; organize[sort out] one's thoughts 
+* 범위를 벗어나다; This is out of my price range.; You must not go outside the evidence
+* 최근 무역 이슈에 대해 설명(업데이트) 해 드릴게요.; Let me get caught up with some trade issues. 
+* 이 부분에선 우리 통하네 ㅋㅋ; We have a chemistry here. 
+* 난 누구한테도 잡혀 살지 않아.; I never get whipped by anyone.
+* 내 옷 거의 다 유행 지났어.; Most of my clothes went out of fashion. 
+* 오우 이 방 아늑하고 좋네; Oh this room is cosy and inviting
+* 이 직장은 잡아야하나 뭔가 이상해 (묘해); I'm feeling uncanny about taking this job
+* 해명할 필요 없어; YOu don't owe me an explanation
+* 오해하는거야; YOu got that wrong
+* 그 산업 전반에 걸쳐 더 많은 투자가 필요하다.; The industry needs more investment across the board. "
+* 지금 이 순간에도 누군가는 강해지고 있다.; " Someone is growing stronger as we speak. "
+* 어쨌든 꼭 돌아오겠다.; " I will come back at any rate. "
+* 변화가 필요해; i need a change of scenery
+* 더 안좋은것도 많이 봤어; i've seen worse
+* 지금 바로하다; get right on it
+* 까칠한사람; be crabbly
+* 지난번엔 제가 지나쳤어요; i was off  base last time
+* ~을 아주 좋아하다; I think the world of ~
+* 설마 그럴수가; That will be the day
+* 생각해보니; Come to think of it,
+*  아마존은 최상위 포식자에 비유되곤 한다; Amazon is often compared to an apex predator [ˈeɪpeks]
+* 찬반 논쟁을 잘 알고 있어서;  Keenly aware of the controversies 
+* ~에 동의하다; I agree with you in that ~
+* 짜고 치는 고스톱이야; it's a stacked deck
+* 그녀가 눈치챈게 분명해; she must have picked up on it
+* 많은 사람들이 고속도로에 몰릴것으로 예상된다; people are expected to hit the highways in droves
+* 휴식이 필요해; i need a bit of R&R(Rest and relaxation)
+* 떠나야해; i got to pull up stakes
+* 사진광이다; he's a real shutterbug
+* 그들은 세계를 단번에 사로 잡았다; they have tken the world by storm
+* 어리둥절할거야; you might be scratching your head
+* 다 지어낸 이야기야; it's a cooked-up sotry
+* 그것을 저버리지마; don't turn your back on it
+* 이번 겨울을 준비하자; Let's gear up for this winter
+* 너무 충동적이 ㄴ일이었어; it was a spur-of-the-moment-thing
+* 처음부터 다시 시작해야해; i have to start all over from scratch
+* 기운 내; Lighten up
+* (시간, 돈이) 빠듯하다; that's cutting it a little fine
+* 성급한사람; hothead
+* 뜨거운 감자다; be a hot potato
+* 잘 지냈어요; i've been well
+* 자신감 있어보이네; You look more focused and confident
+* 나 화났어; you're really getting on my nerves; you're ticking me off; i've had it up to here with you; you make me furious
+* 체면을 세워주다; save face
+* 볼드모트는 톰보다 늦게 나타난 인물이라고.; Voldemort was after your time.
+* 빨리 잡아, 한데 모아야 해. Get them now, round them up.
+* 해리 포터 : 네 손 땀투성이야.; Your hand’s all sweaty.
+* 지금 무단침입하시는 거예요!; You are breaking and entering!
+*  입 닥쳐. Dry up.
+*  : 네가 반란을 일으키려고 한다는 걸 나보고 믿으라는 건가? You expect me to believe that you’re starting a rebellion?  [rɪˈbeljən]
+* 하지만 기억해놓을게요. But, I have noted it.
+*  강력한 무기 규제를 도입하겠습니다.; I am gonna institute a strict no firearms policy.
+*  해결책은 떠나는 거였어. My solution was to move away.
+*  우리 진척이 있는 것 같아. I think we’re making progress.
+* 초과, 미만, 이상, 이하; above, over, exceeding, in excess of, greater than | 5 0r more, less than, 5 or and above | under, below, less than, in short of | 5 or less; not more than 5, not exceeding 5
+* 이런 속담이 있어; there's a saying
+* 호수가 보이는 방인가요? does it have a view of the lake
+* 소개팅해줘; Can you get me a blind date; fix me up; hook me up if there's a
+* 돈을 갚다; pay back
+* 사람들은 서로서로 감기를 옮겨; people pass a cold back and forth
+* 그만좀 해; Bag it
+* 싸게 잘 사다; get a good deal on
+* 성급한 판단을 하다; jump to the conclusion
+* 어떻게 해야 할지 모르겠어; 이해 안돼; i'm lost
+* 주말 나들이; need a weekend gateway
+* 단풍; fall foliage'  [ˈfəʊliɪdʒ]  또는 'autumn colors
+* 주말에 뭐할거야; Do you have any plans for this weekend?; Where are you going to go this weekend?
+
