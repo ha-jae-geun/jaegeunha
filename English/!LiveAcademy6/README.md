@@ -205,3 +205,42 @@
 * 할수있는게 없어; my hands are tied
 * 다음 기회에 some other time
 * 미루다; i don't put off till tomorrow / procrastinate; had to postpone the briefing / take a rain check / put off for the future / delayed the tour
+* 어디 한번 쳐봐ㅣ not come get some
+* 큰 수치지; you vig disgrace
+* 제가 해야 할 일은 다 해써요; i've paid my dues
+* 죗값을 치렀어요; i've done my sentence
+* 세상은 뒤죽박죽이야; and the world is turning inside out
+* 중력을 거스르는 호랑이처럼; Like a tiger defying the laws of gravity
+* 아주 즐겁게 놀고 있어; i'm having a ball
+* 다음은 ~입니다; Up next is
+* 꽤나 닮았구나; it's quite a likeness
+* 밀빵 토스트요; Wheat toast
+* 두꺼운 감자칩이랑 같이 나오는 플레인 오믈렛이요; A plain omelette comes with cottage fries amd roll
+*  이길을 계속가야하는지 모르겠어; 2014년도에; Back in 2014
+* 피곤하다; gassed, gassed out 입니
+* 엉큼하죠; So sneaky
+* 말을 전해주고, 안내 메일을 보내고, 전화를 바꿔주고; pass on a massage; email someone some information; transfer someone to another person
+* 저도 처음이에요; i'm a stranger too; i'm new here too
+* ~척 하지마; Stop fronting
+* 잠깐 만날 수 있을까요/ Could i see you for a moment
+* 차라리 할래요; i would rather
+* 조언 하나 해줄까? do ou want a piece of advice?
+* 협조해주셔서 감사합니다; Appreciate your cooperation here
+* 알아서 해결할게; i'll just figure it out
+* 혼자 있게 좀 나가줄래? Do you mind if i have some privacy
+* 핵심만 말해줘; Give me the bullet points
+* 몇 가지 짚고 넘어갈 게 있어; Just got to go over a couple of things
+* 바닥에 엎드려; Get down on the ground
+* 머리 위에 손올려; Put your hands in the air
+* 속이 요동치네요; It's been running through me ever since
+* 내 힘으론 역부족이야; It's too big of a job for me
+* 정치적으로 순진해 빠졌다[모자라다]; to be politically naive; [naɪˈiːv] 
+* 내 경험상; From my experience
+* 예상밖이네요; that's random
+* 감금; the lock-up
+* 모든 사람은 버틸 수 있는 한계가 있따; every man has his breaking point
+* 작은 친구야; ittle halfling
+* 야식 먹다; eat late night snack
+* 큰 성공이엇습니다; be a great success
+* 회사의 매출은 떨어지지 않았습니다; the company's sales didn't go down
+* ~에게 더 관심을 주다; showed more attention to ~

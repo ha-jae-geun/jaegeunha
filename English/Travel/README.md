@@ -57,6 +57,8 @@
  
 
 # 공항 #jet/ #G6 비행: flight, aviation èiviéiʃən,
+* I want to fly business one day. I alwayd fly coach.﻿
+* still water or sparkling
 * 기내식을 채식으로 요청하려고요; i wanna request a vegetarian meal
 * 환승 승객인데요; i'm a transit passenger
 * #transit: 중간 경유지에서 내린 후 다시 같은 여객기에 다시 탐; 수하물 챙겨 대기

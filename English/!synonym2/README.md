@@ -2,6 +2,8 @@
 * 시리얼 만들어줄게; i'll fix you some cereal; 음ㅅㄱ을 준비하다
 * 사고싶은 ㅊㄱ이 있어요; there's this book that i want to buy
 * 먼저; i better go home; you're the one who wanted to do this
+* 취미는 ~에요; my hobby is -> i like/love 
+* 과거형 - fact만 전달. 현재완료형 - Fact + 기준이 현재상태. 과거완료형 - Fact + 기준이 과거상태
 * know: 일반적인 지식; be aware that; know보다 좁은 개념; find out; 몰랐던 상태에서 알게 되는 상태
   notify; 누군가에게 ~를 알려 주는것; be familiar with; know에 비해 단순한 지식이 아니라 그것과 보낸 시간, 경험이 있어서 알고 있음; get acquainted: 적응하다
 * notice: 달라진 부분을 묘사, tell: 무슨 상황인지 판단이 잘 안섰다; figure: 주어진 상화으 조건을 가지고 나름의 결론을 내린 과정; realize: 정보와 미리 알고있는 것이 만나 새로운 깨달음이 발생; notice: 외부와의 접촉에서 일어나는 어떤 발견의 순간; realize: 새로운 정보가 만들어 지는 것; recognize: 뭔가를 보고 그게 무엇인지 아는 것
