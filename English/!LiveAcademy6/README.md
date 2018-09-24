@@ -374,4 +374,4 @@ holiday blues.
 * 주말 나들이; need a weekend gateway
 * 단풍; fall foliage'  [ˈfəʊliɪdʒ]  또는 'autumn colors
 * 주말에 뭐할거야; Do you have any plans for this weekend?; Where are you going to go this weekend?
-
+* 이용자 참여  저를 집까지 걸어서 데려다줘서 고마워요. ; Thank you for walking me home. 듣기

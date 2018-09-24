@@ -1,3 +1,9 @@
+* i don't really like Avengers; 부정 조동사 뒤에 넣으면 별로/그닥/좀
+* 높은 사람에게 꾸지람; scold; my mom scolds me for 친구나 동급; tell off; ia was told of by
+* grow up: 사람이 자라다, grow: 다른것이 자라다
+* 멀쩡히 행동하고 집에와서 필름 끈ㅎ김; got blackout drunk; 보통 기절: pass out
+* 이과; natural science, 문과: liberal arts
+* 선택할 초이스 조차 없엇다; cannot help but; 선택권은 있었지만 어쩔수 없없다; have no (other) choice but to V
 * 약을 먹다; take / on medication
 * i don't mind: 수용의 의미이 개의치 않아; i don't care;; 관심없언
 * 시리얼 만들어줄게; i'll fix you some cereal; 음ㅅㄱ을 준비하다
