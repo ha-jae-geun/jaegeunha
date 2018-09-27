@@ -1,3 +1,4 @@
+* 잘가; Alright then / i gotta go now /  see you - > see ya
 * i don't really like Avengers; 부정 조동사 뒤에 넣으면 별로/그닥/좀
 * 높은 사람에게 꾸지람; scold; my mom scolds me for 친구나 동급; tell off; ia was told of by
 * grow up: 사람이 자라다, grow: 다른것이 자라다

@@ -8,6 +8,9 @@
 * abuse
 * house
 
+## O
+* 오우; 우로 끝남
+
 ## 강세 앞에 명사
 * increase; 강세
 * decrease

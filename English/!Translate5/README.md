@@ -319,3 +319,12 @@ couldn’t get up ealry yesterday. 나 어제 일찍 못일어났어.
 * I’m glad you are here.
 * It’s a good thing I said something about that.
 * It’s a good thing I didn’t go there.﻿
+
+## 완료시제 연습 - [ 연습가이드 #32 ] - 과거완료, 현재 완료 + 진행 [ 영어회화 ]
+* 스마트폰을 중고로 샀어요; i bought this smartphone used
+* 이게 30만원 정도에 거래가 된다는거에요; But i found out that they usually went for around 300 thouhsand
+* 그걸 알았을 때는 이미 지불한 상태여서 호나불할 방법은 없었고요; But by the time i found out, i had already made the pruchasee and there was no way to return it
+* 그래서 그 일이 있고 나서 중고로 물건을 사는것에 많이 신중해졌어요; Ever since that happened, i've gotten much more careful about buying second hand products
+* 가능하면 중고로 물건을 사지 않으려고 하고 있어요; I've been trying to avoid buying -- whenever possible
+* 촬영장비 세탕호기었용; are setting up these filminng equipments
+*

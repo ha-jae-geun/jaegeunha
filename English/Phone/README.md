@@ -113,7 +113,7 @@
 
 
 #전화
-
+* 퉁화 끝났는데; i jsut got off the phone with someone
 * Be on the phone
 * I am / Was on The Phone Right Now
 * I Think She is on the phone right Now

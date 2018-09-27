@@ -375,3 +375,96 @@ holiday blues.
 * 단풍; fall foliage'  [ˈfəʊliɪdʒ]  또는 'autumn colors
 * 주말에 뭐할거야; Do you have any plans for this weekend?; Where are you going to go this weekend?
 * 이용자 참여  저를 집까지 걸어서 데려다줘서 고마워요. ; Thank you for walking me home. 듣기
+* 네가 조각조각 부서질 때 난 널 잃었어; i lost her when she was falling into pieces; bye bye i finally - chicken
+* 쓰레기를 소각하다; incinerate 미국식 [ɪnˈsɪnəreɪt] the trash;  bye bye i finally - chicken
+* 오늘밤은 아래로 내려갈 거야, 네 친구들에게 그렇게 전해; Cause tonight it’s goin’ down, tell your boys it’s goin’ down; 1. 오럴 2. 말하다
+* 창문을 내리면 너의 머리카락은 자유롭게 휘날리지; Windows down, your hair just blowing free.; rince Royce - Extraordinary (Cover Audio)
+* 일반도로; City street
+* 정체; (교통이) (Am) tie-up, be congested, be tied up  
+  정체 구간을 피하다; avoid congested areas 
+  고속도로가 극심한 정체를 빚고 있다; Traffic on the expressway is at a standstill.
+  The market has entered a phase of stagnation; Exports are showing signs of stagnation or even decline.
+* 시속; tear away at sixty miles an hour; drive at 100 km/h; How fast does this go? It doesn't go past 40km/h.
+* 그 약의 혜택과 부작용 위험 사이에 균형이 있다; There is a trade-off between the benefits of the drug and the risk of side effects. 
+* 저한테 너무 고급져요 THis is like too boujee for me
+* 여기 놓여져 있어요; It's just chilling right here
+* 어디야; Where you at
+* 신기하지 않아요? Isn't that trippy?
+* 부모님께서 비행ㅇ기타고 오셨고; My parents flew in
+* 그녀가 갑자기 그 사내애를 후려갈기려 들었다.; She suddenly lashed out at the boy. 
+* 무반동총; a recoilless rifle  [ri:kɔ́illis,rí:kɔ́il-]
+* 호주 스타일 고명; We're having some Australian garnishes
+* 추석 당일은 사실 10월 4일이에요; Chuseok really falls on October 4th
+* 교통 정체를 야기시키다.; cause gridlock
+* 잔소리 그만해; WIll you just get off my back?
+* 프로필 사진; Profile photo
+* 과몰입 현상; indulgence phenomenon; am too into this
+* 모든 음절을 말하잖아요; you say every single syllable
+* 어떻게 잊을까? How do i get past the situation
+* 멈추지 마세요. Carry on, everyone.
+* 게임이 없어졌어요. 도와주세요.; Game unplugged. Please help!
+* 기다리세요. 불심검문이 있겠습니다.; Step aside, sir. Random security check.
+* 건의하실 사항이라도 있나요?; Anything to declare? 
+* 어, 알겠어. 조심해. 흘리잖아.; Okay. All right, I get you. Watch out. It's dripping.
+* 옷을 좀 꿰매줘요.; I just need a patch job.
+* 메가메쉬 군. 낡긴 했어도 질기지.; Hmm. This is megamesh. Outmoded, but very sturdy.
+* 드디어 하게 됐어요; i finally got around to it; @
+* 거의 놓칠 뻔했어요; almost missed
+* 말할 뻔했어요; spilled the beans <> don't let the cat out of the bag
+* 길이 얼었어요. 넘어질 뻔햿어요; the street was really icy. i almst fell down
+* 자존감을 높이는 방법 (Bridge TV - How to Boost Self-esteem)
+* 잠시 진지해집시다; Let's get real for a sec
+* 아들 혼좀 내야겠따; i've got to teach my son a lesson
+* [명사] 부질없는 시도[추구], 헛된 노력; wild goose chase 미국식  영국식   단어장추가
+* 또 거짓말한다; you are lying through your teeth
+* 째는 왜저래; What's the deal with him?
+* 널 위해 기도할게; i'll pray for you
+* 난 시키는대로 했을 뿐이야; i did what i was asked
+* 국물을 졸여서 나온다; the broth is reduced down
+* 이거면 충분해; this should do
+* 자격 미달이야; i have zero qualifications for that
+* 몸이 나른해요; i feel sluggish
+* 모기에 물렸어요; i got bit by mosquitoes
+* 퀴즈 공부해; i will study for quizzes
+* 보청기; have/wear a hearing aid
+* 자격증; certificate/license
+* 눈치워; told me shovel the snow
+* 해가 지기 전엔 돌아와야해; you have to be home by sunset
+* 아직 하교 안했어; i wasn't out of school
+* 포트폴리오 준비하고있었느데; i was putting my portfoli
+* 나뭇잎에는 단풍이 들죠; the leaves are changing colors
+* 재방송; drama reruns one every
+* 수도승이 되려고 알레스카가서 수도우너 차릴거야; i'm also moving to Alaska to become a monk and start my own monastery
+* 조종석에서 비행 계획서를 봤는데요; i saw your flight plan in the cockpit
+* 파리에서 평화 조약 성사될 예적; Peace treaty to be signed in Paris
+* 그냥요; Just because
+* 백과사전; encyclop(a)edia 미국·영국 [insàikləpí:diə,en-]
+* 요구르트 아직 다 못먹었따; i'm not finished with the yogurt
+* 널 사랑하지만 미워하는 지경까지 갔지; it's to the point where i love an i hate you
+* 말이야 쉽다; Easier said than done
+* 다 내 상상이란거 알아; i know it's all in my head
+* 임회금도 엄청냈어; I paid a huge entrance fee
+* 내가 ㄱ쟤들보다 더 오래 갈거라 했잖아; i told you i'd outlast them
+* 우릴 속이려 생각하다니 믿을 수 없어; i can't believe you thought you were gonna put one over on us
+* 목아파; i have a sore throat
+* 전구가 나갔어요; the bulb was burned out;  [bʌlb]
+* 안녕 펠릭스! 그냥 뭣 좀 확인하러 온건데.Hey, Felix. Just wanted to check on you.
+* 괜찮아요! 괜찮아요! 난 멀쩡해요.; 'm okay. I'm okay. Fit as a fiddle.
+* 갑자기 깨달아어요; it suddenly occurered to me; it dawned on me
+* 생활화하다; i should make a habit of it; i should incorporate it into my daily life
+* 진짜 화난거 티나요; she's really angry and it shows; don't let it show
+* 쿨한척하다; to play it cool
+* 시치미 뗴다; to play dumb
+* 우리는 족히 한밤중까지 일을 했다.We worked well into the small hours. 
+* 장남입니다; ~ is my eldest son
+* ~는 없엉서; no other korean celebrity has ever gotten a chance to be speaking in UN
+* 성과를 원하는거야; she's demanding actual results
+* 나 우연히 네 사진 봤어; i happen to see your picture
+* 신발끈 너무 타이트하다; my shoelaces are too tight
+* 3년동안 여기서 일하고 나니 몹시 질린다; i'm so jaded after working here for three year
+* 파트타임에서 풀타임으로 바꿀거야; i'll switch to full time from part time
+* 바보처럼 행동한다; he's acting goofy
+* 내가 잘 살펴볼게; i'll keep my eyes peeled
+* 내 신발을 길들여야 해; i need to break in my shoes
+* 너 지금 간당간당해; you re on thin ice
+* ~나 할까 생각했어; i was thinking about going back

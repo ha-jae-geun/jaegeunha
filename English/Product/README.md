@@ -1,5 +1,6 @@
 * Kool-Aid나 Root Beer; 뻔한 음료수
 * Dickies 브랜드: CEO 이름에서 따옴
+* Glade; 방향제
 -------
 「쇼핑」 #쇼핑 #백화점 #슈퍼 #시장(shopping center, mall, 'su:pərmɑ:rkət supermarket)
 * #홈쇼핑; I bought them on #home shopping channel

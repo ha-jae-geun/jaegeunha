@@ -9,6 +9,11 @@
 * 초음파 검사; get[have] an ultrasound 
 * 가벼운 뇌진탕ㅇ;야; you appear to have mild concussion 미국식 [kənˈkʌʃn] 
 
+# 다이어트
+* 마음 놓고 먹는 날; Cheat day
+* 폭식; binge, go on a binge, overeat
+* 내일부터 다이어트 할거야; i will be on a diet starting tomorrow
+
 # 치과 
 * 어금니: molar; 
 * 신경치료를 받야 될 것 가요; i think i'm gonna to need a root canal

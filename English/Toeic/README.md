@@ -1,4 +1,19 @@
+# 시험에 자주 나오는 과거분사
+* revised, detailed, proposed, attached, enclosed, updated; the proposed plan
+
+# 5형식 to부정사
+* urge, ask, require, encourage, allow, enable, cause, expect
+
+# 전치사 to
+* be subject to, commited, devoted, dedicated to, accustomed, addition, look forward + to -ing
+
+# 토익에 잘나오는 궁합
+* after/follwing ~ finally/ eventually
+* even though / although / in spite of ~~ still
+* all / every / nobody / no one  ~ except
+
 #최신 
+* excel at
 * 5형식; make find, leave, consider, keep, deep + 목적어 + 형용사
 * Provided that = if
 * unless otherwised mentioned / indicated

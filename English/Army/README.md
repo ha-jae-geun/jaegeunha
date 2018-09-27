@@ -1,3 +1,4 @@
+* 현역 복무중이다; ~ is on the active list
 * 군대 면제당하면; even if BTS were to be exempted
 * #unit #platoon #divison #army of soldiers
 * ☆소대: platoon, 중대: #company #battalion: 대대 #division: #사단 #여단; #brigade

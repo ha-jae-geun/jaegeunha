@@ -46,6 +46,9 @@
 # Restaurant
 * 고급 식당; an #upmarket restaurant 
 
+# Ingredient
+* 밤 앙금, 팥 앙금; Chestnut paste and red bean paste
+
 # Party
 * #Potluck party
 --------------------
