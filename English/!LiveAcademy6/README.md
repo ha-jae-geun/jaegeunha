@@ -468,3 +468,10 @@ holiday blues.
 * 내 신발을 길들여야 해; i need to break in my shoes
 * 너 지금 간당간당해; you re on thin ice
 * ~나 할까 생각했어; i was thinking about going back
+* 조심해; Heads up!
+* 내가 주의를 돌릴게. ; I'll distract him. 
+* 여러분의 협조를 부탁 드리며; the theater demands your utmost respect
+* 제가 더 기쁜걸요; the pleasure is all mine
+* &: ampersand
+* 모범생; best student
+* ~하는 편이 낫다; may se well
