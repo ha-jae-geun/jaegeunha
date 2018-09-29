@@ -475,3 +475,24 @@ holiday blues.
 * &: ampersand
 * 모범생; best student
 * ~하는 편이 낫다; may se well
+* 이를거야; i will tell your teacher on you
+* 오디션 끝내고 가는 길이야; Just coming from an audition
+* 어떤 이유에서든지 엄청 극찬받고; it gets raves for some reason
+* 유모는 쉬운게 아니야; being a nanny is not supposed to be fun
+* 곤경에 빠진; in deep water(s)
+* 대기명단에 있잔ㅇ하; you're just wait-listed
+* 한류: korean wave
+* 소위 말하는; So to speaks
+* 억지로 먹지마; you don't need to eat them all
+* 내 기분은 신경도 안쓰지; you have no concern for my feelings
+* 정신없다; i'm feeling overwhelmed right now
+* 그녀는 그를 완전 야단쳤따; she totally schooled him
+* 진짜 힘들어; the struggle is real
+* 있는게 좋을거야; you better
+* 고깃결좀 봐; Look at that strand of meat
+* 널 체포해야 할 것 같은데; i'm kinda gonna have to take you in
+* 그래 좋아; Back at you
+* 역대급으로; We've ever done
+* non-disclosure agreement, 기밀 유지 협약
+* 도마; chopping board; 고무장갑; Rubber gloves 국자; ladle 국자: spatula(뒤집개도 주걱)
+* 점; mole

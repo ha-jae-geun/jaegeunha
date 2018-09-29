@@ -1,3 +1,8 @@
+# tool
+* 체; sieve; 과일 채소 물빼는 체; colander; 집개; tongs
+* 1회용 장갑; dispoable gloves
+* 냄비 받침; Trivet
+
 # 고기
 * 안심; filet mignon; filet mignon
 * 꽃등심; bone-in Ribeye

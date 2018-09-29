@@ -1,5 +1,6 @@
 # 은행	
-
+* 대출 받고 싶습니다; i'd like to take out a loan
+* 적금이 만기가 되었어요;  Your savings account has matured
 * 중앙은행; #central bank
 * #통화 정책; #monetary policy
 * #통화 기름; monetary fund; #international monetary fund

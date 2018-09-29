@@ -29,6 +29,12 @@ I have a big crush on you / I have a thing for you, i'm into you
 * 나 푹 빠졌어; i'm crazy about/for someone = i'm walking on clouds; i'm on cloud nine
 * 몽상에 젖음; daydream; 몽상에서 깨다; i catch myself daydreaming about her/him
 
+# 바람
+* 네 아빠 바람났어; your father's having an affair
+* 충동적으로 그런거 아니야; it's not just an impulse
+* 저 여자가 세컨드야; she's the side chick
+* 바람 피웠다고 말했어요; he'd been unfaithful to mee our entire marriage
+
 # Marriage
 * 부부를 선언합니다; i now pronounce you husband and swife
 * ☆잡혀 살다 you have the ball and chain

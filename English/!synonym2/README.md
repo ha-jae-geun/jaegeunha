@@ -1,3 +1,11 @@
+* 아프다: sick -> hurt; 편도염, 감기; 그냥 막연히 아플 때 sick <> 특정한 문제라면 hurt
+* Rubber: 영국에서 지우개; 미국에서 콘돔
+* 친구 만나; 1. 친구한테 친구 말할 때 i will meet up a friend / some friends(my xx) 2. 친구 소개; This is my friend Oliver
+* 그러니까, 종속절의 조건적 내용이 좀더 한정적이어야(~할 때면 ...하곤 했다) would가 자연스러운 것이군요 ^^ 
+그리고  used to는 (현재는 아니지만) 과거에 (늘상, 툭하면) 그랬다는 거구요. 고맙습니다﻿
+  i used to be slim when i was in my 20's
+  would는 시간이 나중에; we would always; we always used to; we would often
+* technically; 1. 기술적으로: be technically brilliant 2. technically challenged; 기계치 3. 엄밀히 말하면 = to be exact = to be specific
 * 잘가; Alright then / i gotta go now /  see you - > see ya
 * i don't really like Avengers; 부정 조동사 뒤에 넣으면 별로/그닥/좀
 * 높은 사람에게 꾸지람; scold; my mom scolds me for 친구나 동급; tell off; ia was told of by

@@ -514,6 +514,7 @@ His sudden smile made her go #weak at the knees. ; 2. 약한
 * #pain the butt/neck; 귀찮은 일
 * #양털같은; #fleecy; fleecy sweater
 * ##부드러운
+* 옆구리: flank
 * #허벅지	thigh θaɪ
 * #말벅지	my legs are huge
 * #꿀벅지	#thunder thigh

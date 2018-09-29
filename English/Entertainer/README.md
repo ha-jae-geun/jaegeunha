@@ -3,6 +3,7 @@
 
 # 영화
 * 개봉일이에요; it's the premiere for ~
+* 장편 영화; feature film
 
 # Entertainment
 * #감식가: #connoisseur[|kɑ:nə|s3:r;-|sʊr] 

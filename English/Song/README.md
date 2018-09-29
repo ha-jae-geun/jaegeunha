@@ -21,8 +21,9 @@
 * Britney Spears - 3
 * RedFoo - New Thang
 * Mike Ferry - The ocean
+* Dua Lipa - One kiss
 ------------
-* -
+* Jeff Bernat - Changes
 * Demi Lovato - Sorry not sorry - 데미 로바토 
 * Nothing's gonna change - Glenn Medeiros - 
 * Stay - Zedd, Alessia Cara  -  제드, 알레시아 카라 
@@ -41,6 +42,7 @@
 * #응원가를 부르다; do the chants
 * 어느것을 고를까요; Eeny, meeny, miny moe
 * ) He sings falsetto. 그는 가성으로 노래 부릅니다.; He sings real voice. 그는 진성으로 노래 부릅니다.
+* 음치에요; i can't carry a tune
 
 * #Rastar
 * #레게; Rastafarian; 자메이카의 종교 ‘라스타파리아교’의 신도. 이들은 마리화나를 피우고 
