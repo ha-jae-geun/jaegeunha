@@ -28,8 +28,16 @@
 * has the least amount of ~: 최소한의 ~을 먹다
 * 상당한 것이 되다 #amount to much
 * ##amount ##number
---------------------------------------------------------------------------------------------------------------------
-* ##단위 unit, measure a 단위 or two; I've got an hour or two
+----------------------------------------------------------------------------------------------------
+
+## 기호
+* 'open parenthesis' / Lee / 'close parenthesis' = right parenthesis'
+* 늒ㅁ표; (exclamation mark/point)
+* _ underscore
+* 'dollar sign', 'percent sign' 
+----------------
+
+## 단위 unit, measure a 단위 or two; I've got an hour or two
 *  #lb: 0.45(파운드)  F: 32(0), 100(37.9), 212(섭씨100)  
 * mile inch: 2.54 fl.oz: 29.6ml
 

@@ -1,3 +1,4 @@
+* Pig는 보통 가축화된 '집돼지'를 가리키는 말이고 boar는 야생에서 보는 '맷돼지'나 거세되지 않은 돼지를 가리키는 말이다. Hog는 보통 식용으로 기르기 위해 거세된 120 파운드 (약 54kg) 이상 나가는 '큰 돼지'를 가리키는 말이다. 이 모든 돼지는 전부 swine이라 불리울 수 있다. Swine은 단복수가 같아, one swine, two swine, many swine이라고 한다.
 * 아프다: sick -> hurt; 편도염, 감기; 그냥 막연히 아플 때 sick <> 특정한 문제라면 hurt
 * Rubber: 영국에서 지우개; 미국에서 콘돔
 * 친구 만나; 1. 친구한테 친구 말할 때 i will meet up a friend / some friends(my xx) 2. 친구 소개; This is my friend Oliver

@@ -1,4 +1,5 @@
 ## 경제
+* 서울은 아파트, 특히 모던한 새 아파트의 공급 부족을 겪는다; Seoul experiences a lack of supply of apartments, especially newer and modern ones 
 * 1. (수치들을 말하기 전에) 2018년 1분기 시장 상황을 살펴봅시다 Here's the way the market looks as of the first quarter of 2018.; Let's take a look at where the market stands as of ~
 * 2. 기록을 달성하다 Hit (reach) a record; ex) Samsung's profit hit a new record this year.
 * 3. 올해만 영업이익 최고기록을 3번이나 달성하다; Samsung’s operating profits hit three new highs in this year.

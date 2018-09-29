@@ -496,3 +496,4 @@ holiday blues.
 * non-disclosure agreement, 기밀 유지 협약
 * 도마; chopping board; 고무장갑; Rubber gloves 국자; ladle 국자: spatula(뒤집개도 주걱)
 * 점; mole
+* ~를 부활시킨다; and restore the ~; 게임 광고
