@@ -27,3 +27,9 @@
   모두 꼬마 조가 처음으로 서서 걷게 되는걸 지켜보았다. Everyone was watching little Joe finding his feet for the first time. 
 * 세련되어 보이네; look sharp
 * (무명에서) 갑자기 입신하다[유명해지다]; come from[out of] nowhere (←come out of nowhere) 
+* 옷을 걸어두세요; Hang your clothes up
+* 번개가 쳐요; It's lightening outside
+* 예상 못했어; i never saw it coming
+* 서머타임; daylight saving time
+* 축복이자 저주에요; it's a gift and a curse
+* 돼지를 터뜨리지 않는 거야; the game is not to pop the pig

@@ -1,4 +1,5 @@
 # 대학
+* 남녀 공항; coed, co-educational
 * ~과; Department of korean language/philosophy
 * 그녀는 세무학을 전공했어.;  She majored in Taxation.
 * 휴학 하고싶어; he wanted a gap year

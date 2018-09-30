@@ -1,4 +1,5 @@
 ## 동물
+* 조류/야생 동물 보호구역; a bird/wildlife sanctuary; sanctuary 미국식 [-ueri]  영국식 [ˈsæŋktʃuəri
 * #수의사; #veteran; #veterinarian; #vet#; #동물병원
 * #짐승; #animal, #creature, #beast - 짐승, 동물 
 * #애완 동물 키우세요? Do you have any pets? ##종이 뭐에요? what is the breed?

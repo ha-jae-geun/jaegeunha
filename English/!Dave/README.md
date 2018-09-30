@@ -1,3 +1,6 @@
+* 나라면 ~라 하겠어; i'd say ~
+* 큰 역할을 할거야; this is gonna do a whole lot of job for ~
+* 장비 리스트에 들어야; That should be on your list <> off your list
 * 둘 사이의 로맨틱한 관계를 옹호하다; i ship them
 * 약올리다; get a rise out of someone
 * 항상 이상의 것을 추구하다; i go above and beyond

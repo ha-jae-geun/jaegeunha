@@ -1,4 +1,5 @@
 * 다림질이 필요없는 셔츠; you should wear a wash-and-wear shirt 
+* 겨드랑이 쪽에 착색이 있어도 괜찮다면; if you're okay with the armpit sain stuff
 
 ## 신발
 * 남성: 240: 6, 250: 7, 260: 8
