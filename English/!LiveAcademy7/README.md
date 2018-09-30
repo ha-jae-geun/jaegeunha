@@ -23,3 +23,7 @@
 * 저울에 달아 봐; please weight your baggage
 * 흠잡을 데 없어; ~ is beyond challenge
 * 물러사지 않겠어; i'm not goig to back down
+* (아기가) 서서 걷게 되다; 자립하다[하게 되다]; 익숙해지다; 새로운 상황이나 경험에 익숙해지다; 
+  모두 꼬마 조가 처음으로 서서 걷게 되는걸 지켜보았다. Everyone was watching little Joe finding his feet for the first time. 
+* 세련되어 보이네; look sharp
+* (무명에서) 갑자기 입신하다[유명해지다]; come from[out of] nowhere (←come out of nowhere) 
