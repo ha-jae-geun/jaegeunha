@@ -1,3 +1,8 @@
+# 사전
+* https://www.urbandictionary.com/
+* 어원; https://www.etymonline.com/
+* 예문; http://youglish.com/
+
 [Composition 1](./Composition1/README.md)
 
 9.21

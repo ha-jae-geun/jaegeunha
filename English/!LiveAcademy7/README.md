@@ -33,3 +33,15 @@
 * 서머타임; daylight saving time
 * 축복이자 저주에요; it's a gift and a curse
 * 돼지를 터뜨리지 않는 거야; the game is not to pop the pig
+* 물속으로 끌려들어갔어요; got pulled underwater
+* 위조 지폐로 가득차다; full of forged currency; [fɔːrdʒ] 
+* 질투; get jealous a lot
+* 10점 만점에? - 10점! Out of 10? -
+* [명사] 조합 깨부수기; union-busting 미국식  영국식   단어장추가
+* [형용사] 끔찍한, 참혹한; harrowing 미국식 [-roʊ-]  영국식 [ˈhærəʊɪŋ]   단어장추가
+* 가장 최근에 있은 교육 제도상의 대변동 the latest upheavals in the education system; [ʌpˈhiːvl]
+* 자격을 제대로 갖춘; full fledged 미국식  영국식   단어장추가
+* 그는 한 무리의 기자들에게 완전히 둘러싸여 있었다; He was engulfed by a crowd of reporters. 
+* 반복학습이 중요합니다; Repitition is important
+* 무슨 소란이니; What's are the racket
+* 간지러운곳 있짢아; everyone has a tickle spot

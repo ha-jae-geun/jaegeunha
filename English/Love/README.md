@@ -7,6 +7,7 @@
 * #give away; 신로에게 인도하다
 * 신부의 행진; Walk down the aisle
 * #합환주; #Welcome drinks
+* 이상형; What is your ideal girlfiend? Is there a celebrity like your ideal girlfriend
 * 혼인 신고; they signed the register
 ------
 * ☆당신에게 완전 반했습니다. / 관심이 있습니다.

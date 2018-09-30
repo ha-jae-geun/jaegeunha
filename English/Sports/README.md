@@ -187,9 +187,12 @@
 * ##축구
 
 # 야구
+* 커브를 주무기로 하는 투수들은 릴리스 포인트가 높다; Pitchers who use curve as their primary weapon have a high release point
 * DL에 올라갔으면 트레이드가 안된다; If you go up to the DL list, the trade will not work.
 * Otani gained weight to 100 kg
 * 릴리스 포인트가 높으면 타자들의 스윙은 더 위로 올려쳐야 하며 볼을 보는 자세에서도 고개를 더 들어야 한다.; If the release point is high, the swing of the batter should be raised, and the head should be lifted even in the position of watching the ball.
+* 슬라이더를 잘 던지는 투수들은 공을 최대한 앞으로 끌고 나온다; The pitchers who throw the slider well throw out the ball as far as possible.
+* 세로와 가로의 움직임이 잘 조화된 류현진은 커브와 슬라이더 모두 강하다 Ryu Hyun-jin is well-coordinated with both vertical and horizontal movements, and both curves and sliders are strong
 * twoseam drops to 4 direcon; two seam is faster than sinker; sinker fall in 5 clock direction(); shoot: 3'o clock
 * 3회초 3회말이다; it’s the #bottom / #top of the third
 * 주자가 1루에 있다; the runner’s on first;  #만루; the bases are loaded
