@@ -1,3 +1,4 @@
+* 전쟁 중에; through/in/during a war.
 * 현역 복무중이다; ~ is on the active list
 * 군대 면제당하면; even if BTS were to be exempted
 * #unit #platoon #divison #army of soldiers

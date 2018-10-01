@@ -1,5 +1,9 @@
 * 다림질이 필요없는 셔츠; you should wear a wash-and-wear shirt 
-* 겨드랑이 쪽에 착색이 있어도 괜찮다면; if you're okay with the armpit sain stuff
+* 겨드랑이 쪽에 착색이 있어도 괜찮다면; if you're okay with the armpit stain stuff
+* 바지 수선했어요; i tailored these pants
+* 안으로 접어서 수선했어요; i just folded them inwards and sewed them [soʊ]
+* 양말 뒤집어졌어; YOur socks are inside out
+* 양말 짝짝이; Mismatched
 
 ## 신발
 * 남성: 240: 6, 250: 7, 260: 8
