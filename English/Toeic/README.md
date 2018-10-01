@@ -13,6 +13,7 @@
 * all / every / nobody / no one  ~ except
 
 #최신 
+* over a month ago; 과거를 넘어서; past xxx
 * excel at
 * 5형식; make find, leave, consider, keep, deep + 목적어 + 형용사
 * Provided that = if

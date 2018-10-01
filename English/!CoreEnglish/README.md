@@ -1,3 +1,4 @@
+* hardly; 할리
 * What is that; 와리잿; 와리즈잿 What does daat; 와리잿; 왓드잿
 * up with; 업뿟; k up with; 깝뿟
 * said she; 쌔치; 쌔취; she said she

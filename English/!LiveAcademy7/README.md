@@ -45,3 +45,16 @@
 * 반복학습이 중요합니다; Repitition is important
 * 무슨 소란이니; What's are the racket
 * 간지러운곳 있짢아; everyone has a tickle spot
+* ~을 깜작 놀라게 하다[크게 감동시키다];blow/knock somebody's socks off 미국식  영국식   단어장추가~을 깜작 놀라게 하다[크게 감동시키다];
+* ~로 마음이 정해진 것 같애요; i think i've settled on ~
+* ~한 상황이라; With the house damaged; with her book re-written
+* 언제부터 ~할수 있을까요? SIncce when can i move into the house?
+* 동전 덩짖기로 결정하자; Let's toss up
+* 이제 어쩔거야; What are you going to do now?
+* 이거 쉽지 않다; ~ is quite a task
+* 딱 맞게 오셨네요; You are right on time
+* 모르는게 약이에요; Ignorance is bliss
+* 정원 관리하는걸 좋아해요; i love gardening
+* 너무 무리하지마; DOn't overextend yourself
+* 빈손으로 돌아갈 수는 없어; I cannot go home empty-handed
+* 내가 제일 원하지 않느거야; That is the last thing i want to do

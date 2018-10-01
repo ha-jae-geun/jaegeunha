@@ -1,4 +1,19 @@
 ## 경제
+* 주민세; pay one's residence tax; collect residence tax; charge resident tax
+* 무역보복; encounter trade retaliation; cause trade retaliation; endure trade retaliation
+  accept trade retaliation
+* 확대해석하다; 확대 해석하다; stretch the meaning of; bend the rules;  can be misunderstood
+* 수입; 수입관세를 폐지하다; abolish import duties[tariff] 
+  주류 수입을 금지하다; prohibit[ban] the import[importation] of alcohol 
+  소비재의 수입을 규제하다; restrict imports of consumer goods 
+  긴급 수입제한 조치를 발동하다; institute emergency safeguard measures to limit imports 
+  중동에서 석유를 전량 수입하다; import all the oil from the Middle East 
+* 관세; 관세를 올리다; raise the customs duty[tariff] 관세를 낮추다; lower[slash] a tariff (on) 
+  수입품에 관세를 부과하다; impose[levy] tariffs[duties] on imports 관세 장벽을 제거하다; remove [lift] a tariff wall[tariff barrier; customs barrier] 
+  수입 위스키의 관세가 인상되었다; The duty on imported whisky has been raised. 
+  높은 관세는 자유무역의 큰 걸림돌이다' High tariffs are the chief obstacles to free trade. 
+  정부는 수입 농산물에 대한 관세율을 인상하기로 했다; The government has decided to raise customs duties on agricultural imports
+* 담합을 통해 가격을 정하다 fix the price in collusion 
 * 서울은 아파트, 특히 모던한 새 아파트의 공급 부족을 겪는다; Seoul experiences a lack of supply of apartments, especially newer and modern ones 
 * 1. (수치들을 말하기 전에) 2018년 1분기 시장 상황을 살펴봅시다 Here's the way the market looks as of the first quarter of 2018.; Let's take a look at where the market stands as of ~
 * 2. 기록을 달성하다 Hit (reach) a record; ex) Samsung's profit hit a new record this year.
