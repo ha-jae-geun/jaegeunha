@@ -12,7 +12,11 @@
 * even though / although / in spite of ~~ still
 * all / every / nobody / no one  ~ except
 
+# 시제
+* 미래 완료: by next, by the end of, by the time과 같이쓰임
+
 #최신 
+* 요청하다; ask for <> request
 * over a month ago; 과거를 넘어서; past xxx
 * excel at
 * 5형식; make find, leave, consider, keep, deep + 목적어 + 형용사
@@ -43,6 +47,23 @@
 * put up, set up = install
 * defective / free - is not working properly / broken / out of order / malfunctioning
 * --------------------------------------------------------------------------------
+
+# 듣기
+## 파트 1
+* 잡다; holding, grasping, grabbing, gripping
+* 사람 없음: 2. 사람 명사 제거 2. be being p.p 3. being p.p의 예외(1. 사람의 동작; 2. display 3. cast the shadow 3. grow; 식물이 자라다)
+* rug: 깔게; has been rolled up against the wall
+
+## 파트 2
+* baord; i'l write it up on the board; 게시판; members of the board; 이사회
+* issue; it's not an issue for us 2. the story continues in our next issue; 호
+
+## 파트 3
+* 첫 문제 뚫어져라 보면서 단어 보고 넘어가기
+* Offer -> i will / i can / Let me
+* remind -> don't forget / remember
+* once: ~하자마자
+-------
 * #토스
 * 
 * 1.전체묘사)This picture seems to be taken at an office.

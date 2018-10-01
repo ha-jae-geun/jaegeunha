@@ -32,6 +32,9 @@
 * 예상 못했어; i never saw it coming
 * 서머타임; daylight saving time
 * 축복이자 저주에요; it's a gift and a curse
+* 왠지 모르게 전기가 나갔어요; the power is out in my neighborhood for some reason
+* 에너지 소비하는 것들 다 뺴요; Kill energy vampires
+* 멀티탭을 사용하세요; Use a power strip
 * 돼지를 터뜨리지 않는 거야; the game is not to pop the pig
 * 물속으로 끌려들어갔어요; got pulled underwater
 * 위조 지폐로 가득차다; full of forged currency; [fɔːrdʒ] 
@@ -58,3 +61,8 @@
 * 너무 무리하지마; DOn't overextend yourself
 * 빈손으로 돌아갈 수는 없어; I cannot go home empty-handed
 * 내가 제일 원하지 않느거야; That is the last thing i want to do
+* 편집 영상; we're gonna watch try not to laugh compliation of videos
+* What if = ~하면 어떄
+* 근처에 갈게; i'm going to go in your neighborhood later
+* 그룹 할인할 수 있어; we can get a group rate
+* 미팅 요약 초안; draft a meeting summary
