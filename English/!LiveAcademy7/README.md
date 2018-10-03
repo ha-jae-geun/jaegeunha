@@ -66,3 +66,21 @@
 * 근처에 갈게; i'm going to go in your neighborhood later
 * 그룹 할인할 수 있어; we can get a group rate
 * 미팅 요약 초안; draft a meeting summary
+* 경찰이 그 용의자들을 계속 감시하고 있다.; The police are keeping the suspects under constant surveillance. 
+* 우세; preponderance 미국식 [-ˈpɑːn-]  영국식 [prɪˈpɒndərəns]; show a preponderance; have the preponderance over 
+* 신분 상승; rise in status
+* 계급 사회; hate/form/destory a hierarchical[class] society; [ˌhaɪəˈrɑːkɪkl]
+* 경찰은 방화의 증거를 찾아냈다; Police found evidence of arson.; 방화범: arsonist arrest; chase arsonist
+* 영양소 섭취; nutrient intake 
+* 영양제; Supplements
+* 희생; 희생을 치르다
+  make sacrifices (for); 자신을 희생하다; sacrifice oneself (for); 희생정신을 발휘하다; show an attitude of self-sacrifice; 희생번트를 대다 (야구); hit a sacrifice bunt; 희생플라이로 타점을 올리다 (야구)
+score with a sacrifice fly; 그에게 희생을 강요하지 마라; Don't force[push] him to sacrifice himself. 
+수많은 젊은이들이 전쟁터에서 희생되었다; So many young lives were sacrificed in the war. 
+너를 위해서라면 어떤 희생도 감수할 수 있다; I can make any kind of sacrifice (if it's) for you. 
+* 놓치면 안되는 사람 만났네; you have yourself a keeper
+* 왜 목에다 "당신도요" 말하지 말라고 걸고있지;  Why does that guy have a sign on him that says "Don't say you too"?
+* 너생각해; Just thinking about u
+* 더 이상 기다리면 많은 사람들이 죽을거야; if i wait any longer
+* ~랑 약속이있어; i made super solid plans with someone
+* 우리랑 놀자; make merry with us 

@@ -327,4 +327,4 @@ couldn’t get up ealry yesterday. 나 어제 일찍 못일어났어.
 * 그래서 그 일이 있고 나서 중고로 물건을 사는것에 많이 신중해졌어요; Ever since that happened, i've gotten much more careful about buying second hand products
 * 가능하면 중고로 물건을 사지 않으려고 하고 있어요; I've been trying to avoid buying -- whenever possible
 * 촬영장비 세탕호기었용; are setting up these filminng equipments
-*
+* 나도 그러고 싶은데 안돼; i'd love to/i wish i could/i'd really like to but i have plans already

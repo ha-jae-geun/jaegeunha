@@ -9,6 +9,16 @@
 * 초음파 검사; get[have] an ultrasound 
 * 가벼운 뇌진탕ㅇ;야; you appear to have mild concussion 미국식 [kənˈkʌʃn] 
 
+# 생리통
+* 월경 돌려말한느 말; Auto flo/flow has come to town
+* 생리통 있어; i have sever cramps during his period; menstrual pain; period pain; [ˈmenstruəl] 
+* 그날이야? Is that time of the month?
+* 생리를 한번했엉; i had only like one cycle
+* 불규칙적이었어; they've been irregular
+* 생리 안헀어요; i missed my period
+* 생리혈을 봤어요; i noticed a little bit of period
+* 다른분들은 첫생리떄 어떻게 반응했을지 궁금해요; i don't know how most people reacted when they first got their period
+
 # 다이어트
 * 마음 놓고 먹는 날; Cheat day
 * 폭식; binge, go on a binge, overeat

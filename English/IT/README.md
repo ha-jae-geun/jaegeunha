@@ -1,3 +1,6 @@
+## 컴퓨터
+* 확장자; filename extension
+
 ## 통계 ##데이터
 * 데이터 #집중; #data concentration
 * #statistics, #stats, #statistically, in the statistics; 통계를 내다; #compile statistics

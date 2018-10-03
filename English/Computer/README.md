@@ -23,3 +23,6 @@
 * 수리 기사를 보내겠습니다. 	I'll send a technician to fix it. 
 * #제로섬	#zero-sum game; 한쪽이 얻으면 다른쪽이 잃는
 * #win-win #lose-lose; 모두 손해 #no-lose; 손해볼 것 없는
+
+# 핸드폰
+* 터치감; Why is the touch screen so good?
