@@ -23,6 +23,10 @@
 # 전치사
 * 전치사는 방향성이 있따
 
+## to, for
+* to: 주어의 실체가(몸이)도착하는 지점; i just went to your building
+* for: 주어의 몸 이외의 것이 도착하는 지점, 방향; ARe we waiting for ~
+
 ## at, in
 * at: 장소나 지점을 뭉뚱그려 콕 찝는 느낌
 * i'm studying at school: 학교를 구체적으로 찍는 느낌은 아님; 내가 공부하는 장소는 학교입니다ㅣ i'm studying in school: 학교 건물 내부에서 하고 있다.; 나는 학교에서 공부합니다.

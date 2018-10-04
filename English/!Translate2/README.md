@@ -7,22 +7,32 @@ I sometimes write them a little(small) card, but even that is only on special oc
 Most of the time, we go to a nice place to eat and spend (some) time together.
 * 선물을 꼭 챙겨 드려야겠다 싶으면, 사실 돈을 그냥 드리는 경우가 많아요.
 When I feel like I should (actually) get them something, I just give them money more often than anything else.
+* 안하는것보다 하는 게 더 낫다기 떄문에; When i travel alone, more often than not, i get lost; 이럴 때 쓰이는 표현
 
 ## 💪 영어회화 | 표현 | "시키는 대로 하다", "계획대로 하다", "늘 하던 대로 하다" - (PART 2 of 2)
+* 시키는 대로 하다
 * I did what he said(told me to)
 * I did what you said.
 * I did what you told me to.
 * I did exactly what you told me to.
+* 그냥 설명서에 나와있는 대로만 했어
 * I follow her instructions.
 * I followed the instructions that you gave me.
 * I did id according to what you said.
+* I did it according to the manual / according to the instructions in the manual
 * I did everything according to what you said.
+* 표지에 뭐라고 되어있어; WHat does it say on the cover; it says ~
+* 배운대로 하다
 * Just remmber what you learned.
 * Just remember what I thought you.
-* I did what I've always done. 
+* 늘 하던대로 했어
+* I did what I've always done.; 더 많이 쓰임
 * I did what I'd always done.
+* 늘 하는대로 하다; i did what i always do
+* 지난 2주동ㅇ안 해왔떤 대로 할게;
 * I'll just do what I've done for the past 2 weeks.
 * I'll just do what I've been doing for the past 2 weeks. 
+* 그냥 원래대로 하자
 * Let's just do what we were  planning to do.
 * Let's just stick to our plan.
 * Let's just stick to our original plan.
@@ -51,8 +61,7 @@ I think she is still mad at me. but I don't know what I did wrong.
 = 잘못을 하다 / 잘못을 저지르다
 * 너가 무슨 말을 잘못한 거 아니야? Maybe it's something you said. 
 Could it be something you said?
-* 뭐 그럴 수도 있지.
-It could be
+* 뭐 그럴 수도 있지.; It could be
 * 맞아 너가 말조심을 좀 안 하는 편이잖아.
 You know, you tend to be a little careless( <-> careful) with your words.
 * 너가 또 무슨 말실수를 했나보지
@@ -86,8 +95,8 @@ While you're at it(While you're on the phone), ask them if we can reserve a tabl
 * 제가 이 폰을 올해 1월에 샀으니까 이제 4개월 쯤 된거죠?
     * I bought this phone in January this year. so it has been about 4 months now.; 월-년도
 * 전반적으로는 (꽤) 마음에 들어요.
-    * For the most part, I’m pretty happy with it.
-    * For the most part, I’ve been pretty happy with it.
+    * For the most part, I’m pretty happy with it.; 현재에 만족한다
+    * For the most part, I’ve been pretty happy with it.; 현재 뿐만 아니라 지금까지 ㅅ사용해 오면서
     * ~를 만족스러워하다.
         * be happy with
 * 배터리가 더 오래 갔으면 물론 더 좋았겠지만
@@ -107,7 +116,7 @@ Dude, what's wrong with your puppy, man?
 Every time they're together, they keep fighting over really stupid things.
 Every time they're together, they keep fighting over nothing.
 Every time they're together, they keep fighting over really small things.
-* fight over + @ 
+* ~을 가지고 싸우다; fight over + @ 
 * keep V---ing
 * 이거 원래(부터) 이랬어. / 늘 이랬어. / 늘 이래왔어.
 This has always been like this.
@@ -121,7 +130,7 @@ It's (That's) supposed to be like that.  ※ 이 뉘앙스의 차이는 나중�
 * 걔는 항상(늘/원래부터) 그랬어. / 그래왔어.
 He's always been like that.
 * --- 을/를 하는 척하다.
-pretend + like
+pretend + like(pretended xx)
 act + like
 * 그래서 지금은 그냥 신경 안 쓰려고 해.
 1. So now I just try to ignore it.
@@ -189,7 +198,7 @@ ok then find someone who really wants to watch that movie.﻿
 * 일일이 다 알려줘야 하는 사람
 * someone who you have to explain every little thing to 
 * He is the kind of person who you have to explain every little(single) thing to.
-* ** He surely doesn't seem like --- 같지는 않은 것 보여.--- 같지는 않더라.
+* ** He surely doesn't seem like --- 같지는 않은 것 보여.--- 같지는 않더라.; is not을 고급스럽게 표현
 * ** I don't think you should --- 안하는 것이 좋을 것 같아.
 * ** I think you should --- 하는게 좋을 것 같아.
 * ** I feel like I want to V --- 하고 싶은 마음이 있어.
@@ -214,10 +223,11 @@ Lets go to Burger king today, there is on across thr street
 * ~할거면 뭐하러 여기까지 뭐헸어
 Whats the point of ~ing all the way here
 Hey whats the pointof coming all the way here if you going to go to Burgerking?
+all the way: 여기까지
 * 갈꺼면... 미래시제
 * 왜 이렇다고 헤서 므ㅓ 하면 안 돼?
 * Just because~ it does not mean ~(cant eat what i like?
-* Why jusy because I am traveling I cant eat what I like? ( 끝에 올려서 느낌 살리기. 흥분 반박)
+* Why jusy because I am traveling, I cant eat what I like? ( 끝에 올려서 느낌 살리기. 흥분 반박)
 It doest not mean I cant rat what i like.(조금 차분한 어조. 차분 반박)
 * 아니 내말은...(무례하지 않게 요점 말하기) Look, all I am saying is
 Look all I am saying is you can go to burgerking any time you want.
@@ -227,7 +237,7 @@ Look all I am saying is you can go to burgerking any time you want.
 * 긍정적 표현
 1. its better than nothing (없는 것보다 낫지)
 Its not exactly what I was looking for but its better than nothing. 정확히 내가 찾던건 아닌데...
-* 2. Better late than never.
+* 2. Better late than never.; 문장형식으로 쓸 수 없다; it's ~ xx
 안 하는 것보다 늦는게 낫다.
 * 3. Better safe than sorry.
 유감스러운: sorry.
@@ -251,6 +261,7 @@ It could've been a lot worse.
 * -as soon as possible(최대한 빨리)
 * -the smaller the better (작을수록 좋아)
 * -The smaller it is the cheaper it is(gets)작을수록 가격이 더 싸 (저렴해져)
+  the smaller, the cheaper는 안쓰임
 * -The more functions it has(there are)the more convenient it is. 기능이 많을수록 좋아
 * -작을수록 들고 다니기가 더 편해진다.
 The smaller it is the more convenient it is to carry (around.)
@@ -321,7 +332,7 @@ Its becoming...
  
 ## 누가 무엇을 담당할지 정하자." -- 문장 속에 의문형 내용 포함시키기 연습
 * 자, 우리 누가 무엇을 담당할지 정하자.
-    *  Let’s decide who is going to be in charge of what.
+    *  (First)Let’s (First)decide who is going to be in charge of what.
     *  Let’s decide who will be in charge of what.
     * 나는 누가 뭐라고 했는지는 신경 안써.
         * I don’t care who said what.
@@ -369,15 +380,23 @@ First, let's find out + if there was a mistake on our part...and if so ( if ther
 * One at * a time: 한번에 하나씩 
 * One person at a time : 한번에 한사람씩, 
 * one student at a time: 한번에 한 학생씩. 
+* The applicants were interviewed three at a time / several/a few/a couple at a time
 * 동시에 :at the same time, simultaneously
 * 하기 마련이다.: be bound to 
 * 이렇게만 하면된다: Just have to do it. 
+* 한번에; (all)at the same time / (all) at once(타이밍)
+  Everything happend all at the same time
+* 순서대로 하다; do something in the right/correct/wrong order
+  put it in the right order; it is in the right order
+* 순서만 맞으면 돼; It just has to be in the right order; DId you check if it's in the right order
+* 인터뷰보다; The interviews were carried out / conducted / done a few applicants at a time
 * 1. 너는 이번이 처음이니까 무리하지 말고 한번에 한 가지씩에만 집중해. 
 * 2. 동시에 여러개를 하려고 하면 (괜히) 실수만 하니까 ...
 * 3. (그러니까) 완전히 익숙해질 때까지는 일일이 다 따로따로 하는거야, 알았지? 
 * 4. 순서대로만 하면 문제가 없을거니까 
 * 5. 서두르지 말고 천천히 해.
 * 1. This is your first time so don’t over do it and just focus on one thing at a time. 
+  focus on - thing이랑 묶임
 * 2. If you try to do many things at the same time, you’re just going to make mistakes ...
 (= you’re bound to make mistakes...)
 * 3. So, until you get completely used to it, you’re going to do everything separately, one by one. Ok?/ Alright?
@@ -433,7 +452,7 @@ If you have some things to buy, you might as well +just come with me.(come along
     * It’s hard to say exactly what it is.. but there’s something about this that I just can’t get used to.﻿
 
 ## #04 (PART 1 OF 2) | "저런 사람 처음 봐." / "저렇게 고집 센 사람은 처음봐" 
-* A:우와, 말도 안돼, 나 저렇게 고집센 사람 처음봐. Wow, no way. I've never seen such a stubborn person. / I've never seen anyone so stubborn + @ (about this topic). 
+* A:우와, 말도 안돼, 나 저렇게 고집센 사람 처음봐. Wow, no way. I've never seen such a stubborn person. / I've never seen anyone so stubborn + @ (about this topic).; 확장이 가능해서 유연한 표현
 * B: 어, 나도 저런 사람 처음 보는거 같아. Yeah, I've never seen anyone like that. --> I don't think I've ever seen anyone like that. (추측의 어조) --여기서 that 대신 him 이나 her 일경우 칭찬의 의미가 될수도 있음. 
 * A: 누구랑 얘기만 하는데도 이렇게 힘든건 또 처음이야. I've never had such a hard time just talking to someone. 
 * B:누구랑 대화만 하는데 이렇게 받는건 처음인거 같아. Me too. I don't think I've ever been under so much stress just having a conversation with someone. 
@@ -469,7 +488,8 @@ It's ok. Go ahead, Answer it / get it .
 Hello? Could you hold on (for) a second? / for a minute?
   * Could you hold please? 형식, 격식적인 표현
 * 미안한데, 전화 좀 받고 올게. (통화 좀 하고 올게)
-* I'm sorry but I really need to take this. 
+* I'm sorry but I really need to take this.; 전화가 걸려온 상황
+* 내가 전화하다; i need to make a phone call
   * I have to / got to take this call 이 표현도 많이 씀. 
   * I need to make a phone call 나 전화 좀 걸고 올게.
 * 어, 하고 와.

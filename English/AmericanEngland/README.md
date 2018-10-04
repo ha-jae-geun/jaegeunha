@@ -1,3 +1,5 @@
+* 냄비; camping pot; boiling pot; 호주: billy
+* 운동화; runner; trainer
 * #목재; 1. #lumber #timber(영국); 나무꾼; #lumberjack
 * #이면지; sCRAP PAPER(영국) = #SCRATCH PAPER(미국)
 * 화제가 돼; #newsworthy
@@ -6,24 +8,30 @@
 * 과자; #cookie #biscuit
 * 배고프다; #hungry #peckish
 * 호박 ;#zucchini #courgette
+* 영화관; theater/movie theater; cinema(theater는 연극하는 곳); 호주: movies
+* 오이지; pickles(복수로); Gherkins
+* 다진 소고기; Ground beef; mincemeat(Mince하면 소고기로 인식); 호주: mincemeat
+* 멜빵; Suspenders(braces는 교정기; brace는 깁스); Braces
 * 가지 #eggplant #aubergine;  [|oʊbərƷi:n]
 * 공중전화; #phone booth #phoe box
 * 자동차 본넷; #hood #bonnet
 * 창문; #windshield #windscreen
 * 깜빡이; #blinker #indicator
-* takeout #takeaway
-* schedule #timetable
+* 포장; takeout #takeaway
+* 시간표; schedule #timetable
 * 지우개 #eraser #rubber
-* truck #lorry
-* diaper #nappy
-* flashlight #torch
-* counterclockwise #anticlockwise
-* clothespin #clothes peg
+* 아파트; apartment; flat/block of flat
+* 쇼핑카트; Shopping cart/cart; Trolley/Shopping trolley
+* 트럭; truck(semi: 아주긴 트럭) #lorry
+* 기저귀; diaper #nappy
+* 손전등; flashlight #torch
+* 시게 counterclockwise #anticlockwise
+* 옷핀; clothespin #clothes peg
 * 무승부; #tie #draw
 * 유니폼; #uniform #kit
 * highway #motorway
-* sidewalk #pavement
-* crosswalk #zebra crossing
+* 인도; sidewalk #pavement
+* 횡단보도; crosswalk #zebra crossing
 * 온점; #period #full stop
 * 고가도로; #overpass #flyover
 * 우회로; #detour #diversion

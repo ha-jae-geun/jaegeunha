@@ -1,4 +1,5 @@
 # 청소년 #아이
+* 아이들의 말투; 작은; teeny-tiny / teeny-weeny
 * 사춘기 이전; prepubescent 미국·영국 [prì:pju:bésnt];  Jimmy had a prepubescent daughter,
 * Criss-cross: 틱택토;  hopscotch; 바닥에 사각형 그려놓기 게임
 * 사방놀이: #hopscotch
@@ -169,7 +170,6 @@
 * #quality time; 가족과 보내는 귀중한 시간
 * there are 숫자 in my family
 * #family-style; 여럿이서 음식 나눠먹는 것; do/eat family-style
-* **
 * i've got a big family back in Edinburg
 * 가족 계획 									 family planning
 * #가족 모임(#모임) #family get-together/gathering/reunion = have/go to a family get-together

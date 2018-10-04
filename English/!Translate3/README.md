@@ -171,6 +171,7 @@ How much did it cost?
 I paid 10 dollars. 
 * 돈을 많이 냈어.
 I paid a lot. 
+* 요금을 지불하다; pay the bill
 * 생각보다 돈을 훨씬 많이 내야 했었어.
 I had to pay a lot more than I thought. 
 * 돈을 너가 냈니?
@@ -182,7 +183,7 @@ I paid a lot for this.
 * 너 그거 얼마주고 샀어? 
 How much did you pay for that? 
 * 너 그거 돈 주고 산거야? 
-Did you pay for that? 
+Did you pay for that?; 과정 강조
 * 너 그거 산거야?
 Did you buy that?
 * 비행기표를 사려면 이 돈 아껴야 돼I have to save this money if I want to pay for the flight ticket. 
@@ -197,7 +198,7 @@ I can't afford this.
 They are both Fantasy movies.
 * 각각: Each/Each of them/They each 
 * 각각 독특한 스토리가 있어요.
-But they each have their own unique stories.
+But they each have their own unique stories.; Each have처럼 예외가 있다
 * 둘 다 ~ 아니다: Neither/
 Neither of them
 * 한국에서는 둘 다 흥행을 별로 못했어요.
@@ -216,6 +217,12 @@ They each have different personalities.
 They all have different personalities.﻿
 
 ## 누구에게 알리다/알려주다 | 비난하다, 탓하다, 잘못하다
+* Notice(알아차리다, 발견하다; 잘못 쓰는것 유의) / notify(formal)
+* Let someone Knoe Something
+/ I Needed to Let Her Know About the Situation At the Time 
+* Tell Or Report Someone 
+/ We Have to Tell Her about it  
+
 * commit a crime: 범죄를 저지르다.
 - make a mistake / is my mistake: 실수하다.
 ┗ This was my mistake.
@@ -260,7 +267,7 @@ Eventually, it's up to you. It's your decision.
  
 ## 이번이 특히 좋았던 것은 ~"
 * 며칠전에 친구들이랑 인도레스토랑을 갔는데 너~~무 괜찮았어요. 
-The other day, Some friends and I went to an Indian restaurant  and it was really good./great/excellent/fantastic/wonderful/amazing.
+The other day, Some friends and I went to an Indian restaurant  and it was really good./great/excellent/fantastic/wonderful/amazing; 친구들이랑 간 것을 강조했기 떄문에 주어로 뺌
 * 아니, 전에도 인도식당은 꽤 많이 가봤는데,
 i mean, I've been to quite a lot(few) Indian restaurants before,
 * 근데 이번에 갔던 곳이 특히 좋았던것은...
@@ -317,24 +324,30 @@ You need more confidence.
 You need to have more confidence. I don't feel confident. I don't have confidence.﻿
 
 ## ~이(가) 다양하게 있다" / "다양한 ~이(가) 있다"를 영어로 더욱 자연스럽게 표현하기
-* 1. Many differnet 
+* many/ a llot of / several / few
+* kinds/sorts/types
+* 1. Many differnet; 메뉴의 개수 
     many different kinds of
 - there are many different colors
 - there are many differnet menus
-* 2. All kinds(sorts) of﻿
+* 2. All kinds(sorts) of﻿; 
+* 3. many different kinds of; 메뉴의 종류가 많다인가
+* 온갖것들; There were all kinds of stuff
+* There was a wide/vast variety of 보다는 many different의 표현을 더 많이 쓴다.
 
 ## 더 자연스러운 영어를 구사를 위한 3가지 교정
-*대부분
+* 대부분 <> 거의 다
+* 대부분
 * Most of my friends
 * Most people
 * Most of my coworkers
-*거의다
+* 거의다
 * almost ll people 사람들이 거의다 
 * almost all of my friends. 친구들이 거의다
 * ~ 을 계속(해서) 하다. 
 * Continue to/ continue ~ ing
 * I'm going to continue to live here. 
-* Keep ~ing: 계속해서 ~ 을하다/자꾸 ~을 하다
+* Keep ~ing: 계속해서 ~ 을하다/자꾸 ~을 하다; 2. 자꾸 ~를 하다. 부정적인 느낌 
 * He keeps asking me strange questions. 
 * Continuously: 지속적으로.
 * (누구의 )행동--> (누가 )한것이라고 해야함 what he did.
@@ -350,6 +363,7 @@ You need to have more confidence. I don't feel confident. I don't have confidenc
 
 ## 대화와 문맥 속에서 배우는 영어 문법과 표현
 * A: 야 너 영화 절반쯤 지나고 들어온거 같던데? It looked like you came in halfway through the movie. 
+* 절반쯤 지나다; halyway through
 * It's already halfway through /(into) the month. 
 * B: 어 맞아 늦어서 미안해
 * Yes. I'm sorry I was late.
@@ -358,9 +372,11 @@ You need to have more confidence. I don't feel confident. I don't have confidenc
 * 차가 그렇게 많이 막혔어?
 * Was the traffic that bad?
 * The traffic was bad/ terrible. 
-* There was a lot of traffic. 
+* There was a lot of traffic.; 빈도 높다
+* Traffic jam은 상대 빈도가 낮다
 * A: 어 근데, 그래서 늦은건 아니고...
 * Yes, but that's not why I was late. / that's not the reason why I was late.
+  굳이 reason과 why를 붙일 필요는 없음
 * 출발은 2시전에 했는데 오는길에 갑자기 들러야 될곳이 생겨서.
 * I left before 2 oclock but on my way (here) I suddenly had somewhere to stop by/ I suddenly had to stop by somewhere. 
 
@@ -374,11 +390,12 @@ You need to have more confidence. I don't feel confident. I don't have confidenc
 * A: 시간이 얼마 정도 걸릴거 같아?
 * How long do you think (it's going to take? )/ it'll take? 
 * B:보통은 30분에서 45분 정도 걸리는데, Normally, it takes about 30 to 45 minutes. 
+  half an hour 쓸 수 있지만 범위를 지정하는 거기 떄문에 45분과 맞춰주기 위해서
 * 근데 몇시에 출발하느냐에 따라서 길게는 1시간에서 1시간 반 걸릴수도 있어. But depending on what time we leave it can take as long as an hour to an hour and a half. 
 * 출발하다: start, depart는 정해진 시간의 운송수단의경우 사용 이 경우는 안맞음. 버스 비행기 기차
 * it can take: 평소에도 실제로도 그런일이 자주 일어나는것 . 경험으로 알고 있음. 
  * It might take:지금 처한 상황에서 앞으로 그럴수도 있음. 
-
+ * 시간; it takes; 돈: it costs
  * As long as: 길게는, ~하는한
   (Up to: 길게는-그게 최대치일 경우 )
 * 한시간 반(표현):
@@ -437,20 +454,26 @@ My phone battery doesn't last as long as it did when I first got/(bought) it..
 * I don't have as many friends as she does/ as her. 
 * 그들은 우리만큼 경험이 많지 않아요. They don't have as much experience as we do/ as us.
 * 나는 걔만큼 실수를 많이 하지 않았어. I didn't make as many mistakes as she did/as her. 
+* i don't have time as much as you; 틀린 문장
+* I don't have as much time as you; time이 비교 대상으로 나와야함
+* She can't make/earn as much money as we do
+* I don't havve as many friends as she does
 * 횟수에 대한 비교.
 * 나는 너만큼 거기에 많이 않가봤어.
 * 양적비교I haven't been there as much as you . ---> 횟수비교. I haven't been there as many times as you (have). 
 * 나는 너만큼 걔를 많이 안만나봤어. 
-* I haven't met her as much as you have. --->I haven't met her as many times as you (have).﻿
+* I haven't met her as much as you have. --->I haven't met her as many times as you (have).﻿; 횟수의 강조
 * 1.B is not as big(형용사)as A 
 Be 동사 사용. 단순한 특징이나 성질비교 
 * 2. Action verb 사용, as 부사 as누군가가 뭘하는 정도의 차이 
-* 3. 무엇의 양을 비교. 
+* 3. 무엇의 양을 비교.  
 * 저는 다른 사람들만큼 빨리 못먹어요.I can't eat as quickly as others.
 * 저는 제 친구들만큼 공부를 열심히 하지 않아요. I don't study as hard as my friends.
 * 저는 그녀만큼 운동을 자주 하지 않아요.I don't work out as often as her. 
 * 저는 부모님만큼 일찍 않일어나요.
 * I don't get up as early as my parents. 
+
+### 앞에 문장이 목적어까지 나왔으면 뒤에도 절로 끝낸다
 * 그녀는 저만큼 여행하는걸 좋아하지 않아요.
 * She doesn't enjoy(like) traveling as much as I do. 
 * She doesnt like traveling as much as me. -->그녀는 나를 좋아하는거 만큼 여행을 좋아하지 않는다. 
@@ -459,7 +482,53 @@ Be 동사 사용. 단순한 특징이나 성질비교
 * My brother doesn't visit our parents as much as I do.
 * 걔는 이거에 대해서 나만큼 걱정이 않돼는 모양이야.
 * She doesn't seem to be worried  about this as much as I am.﻿
+* 4. 같은 것이 다른시점에서, 다른 상황에서 어떻게 다른지 묘사하기. 
+* 내가 학생이었을때는 지금만큼 (성격이) 외향적이지 않았어요. 
+* When I was in school, I wasn' t as outgoing as (I am) now. 
+* 제 핸드폰이 처음 샀을때만큼 빠르지 않아요. My phone isn't as fast as (it was ) when I first got(bought) it. 
 
+* 20년 전에는 지금만큼 취직하는게어렵지 않았어. About 20years ago, it wasn't as hard to get a job as it is now./
+* , getting a job wasn't as hard as it is now/ these days/today.
+* 
+* 걔는 그녀를 처음 만났을때만큼 그녀에게 잘해주지 않아. 
+* He is not good to her. He's very good to me. 
+* Be good to ( ) 누구누구에세 달해주다. 
+* He doesn't treat her as well as he did/used to when they first met. 
+* 
+* 요즘은 일을 하기 전만큼 극장에 자주 않가. I don't go to the movies as often as I used to/(did) before I started working. 
+* 
+* 내 핸드폰 배터리가 처음 샀을때만큼 오래가지 않아. 
+* My phone battery doesn't last as long as it did when I first got/(bought) it.. 
+* 
+* 내가 생각했던 것만큼 어렵지 않았어요. It wasn't as hard as I thought. 
+* It wasn't as hard as I thought it would be. 
+* It wasn't as hard as I thought it was going to be. 
+* 
+* 내가 생각했던것보다 쉬웠다. 
+* It was easier than I thought.
+* It wasn't as hard as I thought it would be/ it was going to be.
+* 
+* 내가 생각했던 것만큼 멀게 느껴지지 않았어. It didn't feel as far /as I thought/ as I thought it would/as I thought it was going to.--동사가 feel 이므로 be 는 x
+* 
+* 학생이었을 때만큼 시간이 많지 않아요. I dont have as much time as I did(used to) when I was a student. 
+* 
+* 처음 이사했을때는 지금 만큼 가구가 많지 않았어요. When I first moved, I didn't have as much furniture as I do now. 
+* 
+* 생각처럼 사람이 많지 않았어요.There weren't as many people as I thought/ 
+* (as I thought there would be)/ 
+* (as I thought there was going to be)
+* 
+* 저희가 생각했던 것만큼 관광을 할 기회가 없었어요. We didn't get as many chances( opportunities) to go sightseeing as we thought. 
+* 
+* * 꼭 완성형문장에서 as ~ as 가 쓰이지는 않는다. 
+* 
+* 나는 예전만큼 피자를 좋아하지 않는다.나는 피자를 좋아하기는 하는데 예전만큼은 아니야. 둘러 나뉘어진 구성
+*  I like pizza , but not as much as I used to. 
+* I go to the movies from time to time, but not as often as I used to. 
+* When I first moved, I had some furniture but not as much as I do now. 
+* 
+* A:Hey, do you enjoy(like) drinking?  
+* B:Uh..Not as much as I used to. 
 
 ## 오랜시간 
 * 오랜시간: a long time
@@ -481,8 +550,8 @@ Be 동사 사용. 단순한 특징이나 성질비교
 ## 잘못 사용하고 있는
 * 고민하다
 * Think abo s
-* Think a lot about
-* Think hard about
+* Think a lot about; 고민하다
+* Think hard about; 고민하다 보다는 잘 생각해보다라는 말이 더 잘 어울림
 * Put a lot of thought into ( something)
 * I thought a lot about this.
 * I think hard about this.

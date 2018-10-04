@@ -8,7 +8,7 @@
     * Contact 는 공식적인 절차를 통해 연락을 하는 것
         * Ex) Contact police, contact hospital
     * 친구들이랑 연락한다는 get in touch
-* We only have 20 minutes left. There is only 20 minutes left.
+* We only have 20 minutes left.(개인일떄 많이 쓰임) There is only 20 minutes left.(2명 혹은 다수)
     * Left 는 have 의 부사로 사용됨
 * No, I’ve been calling her/I’ve been trying to call her/I’v been trying to get her on the phone all morning. She’s not answering.
 * And the weird thing is,
@@ -32,6 +32,10 @@
 * No way!/That’s impossible!/Don’t be ridiculous!﻿
 
 ## not as ~ as
+* i don't have time as much as you; 틀린 문장
+* I don't have as much time as you; time이 비교 대상으로 나와야함
+* She can't make/earn as much money as we do
+* I don't havve as many friends as she does
 * A는 B보다 커요. / B는 A만큼 크지 않아요.
 * B is not as big as A. (B is smaller than A---보다 작다.)
 * 내 친구가 나보다 키가 크다.
@@ -65,13 +69,13 @@ I understand that it can be inconvenient in many ways.
 There is no such thing as a perfect car. 
 * ~라는것은 없다. There is no such thing
 * 뭘로하든간에 whatever, 
-* 어느걸로하든간에whichever one
+* 어느걸로하든간에 whichever one
 * 감수하다 타협하다.make compromises 
 * 어는정도 On some levels
 * -뭘로하든간에 어느정도의 단점은 감수해야 될꺼야.
 * Whatever I go with/whatever I choose/ whatever I decide, I'm going to have to make compromises on some level(s)
 * 해야한다의 미래야going to have to
-* 게다가besides
+* 게다가 besides(앞서 했떤 내용들을 제쳐놓고; 초점을 바꾸는 것) = Plus
 * 어떻게보면 in some ways
 * 게다가 지금은 돈도 생각해야되서 어떻게 보면 그게 가장 현명한 선택이야.
 * Besides, I have to think about money at the moment.
@@ -100,7 +104,7 @@ So, in some ways, that's the smartest option.﻿
 * * desperate 간절히 바라는
 * * urgent situation 급한 상황
 * * emergency 비상사태
-* * come up ---일이 생기다, 발생하다.
+* * come up ---일이 생기다, 발생하다; 생기고 안새기고 여부에 관련해서만 쓰는게 좋음; 가정문이랑 같이쓰면 좋음
 * 
 * if 그렇게 될지 안될지 모르는 중간 상태에서 혹시...
 * as long as 기대와 예상을 하면서 빚나가지만 않는다면...
@@ -167,7 +171,7 @@ So, in some ways, that's the smartest option.﻿
 * But for some reason, it kept causing problems. 
 * 
 * It kept acting up. 오작동하다. 
-* 
+* keep -ing; 부정적 문장일떄 사용
 * I decided ~했다 /됐다 싶었다. 판단을 내렸다. 
 * 
 * So I decided (that) it was time to get a new one. 
@@ -189,6 +193,13 @@ So, in some ways, that's the smartest option.﻿
     * 이맘때쯤이면 모임이 많아지구요. 말일로 갈 수록 훨씬 더 심해져요.
         * There are a lot of gatherings around this time of the year and it gets even worse towards the end of the month.
 * (특정 날)에 가까워질 수록: as (특정날) comes(gets) closer, as we get closer to (특정날)﻿
+
+## can, can't
+* i can finish this; 너무 '큰'으로 발음하려 하지 않고, 빨리 동사로 가서 finish를 강조하는 느낌; 최대한 빨리 말하려고 하니 큰으로 발음이 되는 것
+* i can't finish this
+* It's hard for me to(더 이상적) <> I can't speak in front of many people
+* i'm having a hard time deciding which one to buy = i can't decide which one to buy
+* It's not eafy for me to, I'm struggling; can't 보다는 노력한다는 이미지가 들어있음
 
 ## 하루에 한번, 2~3일에 한번, 어쩌다가 한번씩, 때때로
 * Once a day, twice a week, three times a month.
@@ -228,6 +239,27 @@ So, in some ways, that's the smartest option.﻿
 * 괜찮아 천천히해
 * She told me / said I didn't need to hurry.﻿
  
+## 영어회화 | 연습가이드 #10 | 일상적으로 사용하는 문맥으로 영어 말하기 훈련
+
+* 어떻게 됐어; How did it go? How's it going?
+* 학교에서는 ㅇ녀락 왔어? DId you hear anything from the school? / Have you heard from
+* 아니 지원서를 아직 작성중이야; No, i'm stiill working on my application; 지원서 작성: work on
+* 어떻게 된거야? 벌써(지금쯤이면) 제출했을 줄 알았는데; What happened? I thought you would've submitted by now
+* I thought you would  :   네가 ~할거라고 생각했어 (~할 줄로 알았어)
+* I thought you would've : 네가 ~했으리라 생각했어 (~했을 줄 알았어)
+* ex) I thought she would've gotten married by now.
+*       i thought you would've quit the job by now.
+*       i thought it would've (been) finished/ended by now.
+*      I thought I would've become(gotten)  really good at it by now.
+
+* 오타 있을까봐 밤새 검토헸어
+* ※ be worried (afraid) + might ( ~할까봐)
+* I was afraid  there might be some typos.
+* ※ be up all night  ~ ing
+* i was up all night double-checking it.﻿
+* 부주의해 보이면 안되잖아; I don't want to look/seem careless
+* 책임감이 부족하다는 인상을 주고싶지 않아; i don't want them to think that i lack responsibility
+
 ## 일상적으로 사용하는 문맥으로 영어 말하기 훈련
 * thought you would  :   네가 ~할거라고 생각했어 (~할 줄로 알았어)
 * I thought you would've : 네가 ~했으리라 생각했어 (~했을 줄 알았어)
@@ -242,21 +274,39 @@ So, in some ways, that's the smartest option.﻿
 * i was up all night double-checking it.﻿
  
 ## 아직"을 영어로 표현하는 여러가지 유형
+* 연휴에 무슨 계획 있어요?
 * Do you Have any Plans During the Holidays The day after tomorrow 
 * Are you Up to anything During the Chu Seok Holidays Next Month 
+* 여자친구와 같이 놀러갈게요
 * Yap I May be Hanging out With My girl Friend  
+* 아직 확실한건 아니에요
 * But It's not for sure yet but it is Still Up in the air 
+* 일정에 대한 이야기이기 때문에 i'm 보다는 It's
+* 아직까지는 뭘 먹을지만 정했어요; 1. 아직까지는 ~만 된 상태다
 * So far We have only decided What to Eat  
+* 아직 정확한 날짜도 못정했어요; 2. 아직 까지 ~도 못했다
 * We Haven't Even decided On a Specific date yet You Know 
+* 게다가 그 주에 근무 일정이 어떤지 확인해봐야돼요 3. 아직 ~ 해야된다
+* i still have to check with my boss what my work schedule is going to be(look: 시간표를 시각적으로 확인) like
+(What is it going to be like; 한번도 경험 못해본)
 * In addition ,, PLus I Still Have To Talk to With My friend About What My HomeWork will Look Like durung That Month﻿
+* How was it: 어떘니; What was it like: 어떘니(한번도 경험 못해본 것)
 
 ## 일상적으로 이루어지는 대화로 배우는 영어회화
+* 저 지금 점심 먹으로 나갈 까 하는데
 * I'm thinking of going out for some lunch right now.
-* Do you wanna come along?
-* Sure. That sounds great. 
+* 잠깐 나갔따 오다; step out/outside
+* 같이 갈래?
+* Do you wanna come along? DO you want to come with me? joine me/us?
+* 좋아
+* Sure. That sounds great.(대통령과 말할 떄도 문제가 되지 않는다) / I'd love to
+* 나 뭐 하고 있는데 
 * But I'm in the middle of something right now.
+* 근데 조금만 기달려줄래
 * Could you wait for me a little bit?
-* Like 5 minutes?
+* 5분만 기다려줘
+* Like 5 minutes? = It will take only about 5 minutes; It won't take more than 5 minutes
+* 그래 아래층에 가 있을게
 * Okay. I'll be downstairs. 
 * I'll be there as soon as I can.
 * No, that's all right. Take your time.﻿
@@ -276,23 +326,32 @@ So, in some ways, that's the smartest option.﻿
 * # concern
 *  격식을 갖춘말
 * This doesn't conceren you. 이건 당신한테 해당되지 않는다. 
+* It has a lot to do with: 영향이 크고 많을 떄
 * #It's because of 
 * It's because of the weather/ 
 * It's because of the worsening economy. =It has something to do with the economy(고급스러운 표현)
 * Why does this happen? It has something to do with the economy. 
-* #be related to 
+* #be related to; 본래의 가지고 있는 '연관성'에 초점
 * The two incidents were related to each other.﻿
 
 ## 자연스러운 영어 구사를 위한 훈련가이드 NUMBER 08
+* 최근에 세탁기를 사서 어제 도착했어요; I bought a new laundry machine and it arrived yesterday
 * 막상(알고)보니~ : turn out 
+* 막상보니 생각보다 너무 큰거야
 ex) It <turned out> to be much bigger than I thought. 
+    As it turned(turns) out = It turned out that
+* 화장실에 두려고 했는데 안들어가는 거야
 * ~하려고 그랬는데 : be going to 
-ex) I <was gonna> put it in my bathroom.
+ex) I <was gonna> put it in my bathroom, but i didn't fit
 * 어쩔 수 없었죠. 
 ex) There wasn't anything I could do.
+* 그냥 반품시켰죠; I had to send it back
+* 그렇다고 그걸 침실에 놓을 순 없잖아
 * 그렇다고 ~할 수는 없잖아? 
 ex) <It's not like> I could keep it in my bedroom, right? 
-* ~하는게 너무 귀찮아서 
+* 근데요, 다른 모델을 찾아보고 배송일정도 다시 잡고 이런게 다 너무 귀찮아서 그냥 환불 처리하고 원래 쓰던거 그냥 계속 쓰기로 했어요
+* 1. 누군가 성가시게 한다; I can't be bothered
+* 2. ~하는게 너무 귀찮아서 
 : It is(feels like) too much trouble -ing 
 ex) <It just felt like too much trouble> looking for a different model and scheduling another delivery. 
 * 환불 
@@ -312,13 +371,47 @@ ex) <It just felt like too much trouble> looking for a different model and sched
 * 몇달은 못 씻은것처럼 보였어. 
 * It looked like it hadn't washed (taken a bath) in several months. It looked like 는 과거 못씻은것은 더 과거 그래서 it hadn't washed 로 과거완료로 사용됨.
 * 보나마나 주인도 없는 개였는데,
-*  It was pretty clear (that) it didn't have an owner. 
+*  It was pretty clear/obvious (that) it didn't have an owner. Obviously
 * 가장 최악이었던것은 애가 너무 마른거야. 
 * The worst thing(part) was that the dog was so thin(skinny). 
 * 가죽이랑 뼈밖에 안남은것처럼 보였다니깐요.
-* It almost looked like( as if ) it had nothing left but its skin and bones. 
+* It almost looked like/as if it had nothing left but its skin and bones. 
 * 대충 크기나 그런걸로봐서는, 꽤 어렸던 것 같아요. 
 * Roughly(대충) judging by (~로 봐서는) its size and everything, I think it was pretty young.﻿
+
+## 🥊 영어회화 | must have, might have, couldn't have | 했나보다, 했을 수도 있다, 했을리가 없다
+* 제 친구중에 하나가요최근에 일을 그만두었어요
+* One of my friends recently quit her job.
+* Must have 
+* 1. ~했나봐
+* 너 되게 배고팠나봐.
+* You must have been (really)hungry, (dude)
+* 2. 을 했던 모양이야. 
+* 3. ~했겠다. 
+* 너 정말 짜증났겠다.
+* You must have been really frustrated. You are frustrated +must have
+* You must've been really excited.
+* 글쎄요 뭐 상사랑 문제가 좀 있었나보죠? 
+* I don't know, (I'm guessing) she must've  had some problems with her boss.
+* 그게 아니라면, 갑자기 몸이 않좋아졌던거일수도 있고요 
+* Either that or, she might've had some health problems. (She might've just gotten sick. )
+* might have
+* ~했을수도 있다. ~했던 것일수도 있다.
+* 어쨋튼 (어느쪽이든간에)그 일이 질려서 그랬던거일리가 없어요. Either way, it couldn't have been because * she was(got) sick and tired of her job. 
+* It's because I'm tired.
+  * It's because its hot. 
+* Couldn't have been because ~했었을리가 없다.﻿
+
+## 🥊 영어회화 | 연습가이드 #05 | 일상적으로 사용하는 문맥으로 영어 말하기 훈련
+* 어제 백화점에 갔어
+* 거기에 마음에 드는 콭가 있엉써
+* 점원은 그게 마지막거라고 했어
+* 그래서 그냥 그걸 바로 살 수 있었어
+* 근데 더 좋은게 있는지 확인해보고 싶었어
+* 근데 더 좋은게 없었어
+* 근데, 그 첫번째 가게로 다시 돌아갔을 떄에는 이미 누가 그 코트를 사간 후였어
+* 살 수 있엉쓸 떄 그걸 샀었어야 했어
+* Yesterday, I went to the department store. There was a coat that I really liked. The clerk said that it was the last one. So, I could've just bought/purchased it right away. But I wanted to see if there was anything/something better. But I couldn't find anything better. But by the time I went back to that first place/store, someone had already bought/purchased that coat. I should've bought/purchased it when I had the chance.﻿
 
 ## for -ing 에 대한 오해와 올바른 사용 
  * for ~ing 은 ‘~을 위해’ 라는 의미가 아니다. 용도! 를 위미, 존재의 목적 (~용)
@@ -332,7 +425,7 @@ ex) <It just felt like too much trouble> looking for a different model and sched
         * In my wallet, there is a small pocket for carrying coins.
     * 나는 영어 공부하려고 매일 여기에 와. (용도 X) (의도)
         * I come here to study English.
-    * 나는 사람들이 그들의 영어실력을 올리는 것을 돕기 위해 이 비디오들을 만들어. (용도 X) (의도)
+    * 나는 사람들이 그들의 영어실력을 올리는 것을 돕기 위해 이 비디오들을 만들어. (용도 X) (영상을 만드는 의도)
         * I make these videos to help people improve their english.
 * 딴: some other ~
     * 딴걸로: something else
@@ -356,8 +449,24 @@ ex) <It just felt like too much trouble> looking for a different model and sched
     * someway else (불가능, 없는 단어)
 * 딴때: some other time
     * sometime else (불가능, 없는 단어)﻿
+* 부정문과 의문문일때는 some이 any로 바뀜
+
+## 🛠 영어회화 | 시급한 교정 | by 와 until 에 대해서 올바르게 이해하고 사용하기 (1/2)
+* i'm going to study until 10 o'clock; 반복, 지속성이 들어잇음
+* i have to finish this until 2 o'clock; 2시까지 계속 끝낸다는 어색한 문장
+* And if shes not here until then, we can just leave without her
+* i have to finish this by 2 o'clock; 기한, 완료가 되야 한다; 그리고 그 전에 끝내는게 좋다
+* I have to submit this by Wednesday
+* by the end of the day today
+* I have to be/get to in Jongro by 2 o'clock
+
 
 ## 막 - 하고나서 ➡ 막 - 하려던 순간에 | 관거완료 시제
+* 아침을 다 먹고 딱 나오려고 하고있는데; I had just eaten breakfast Just as i was about to leave
+* 화장실이 급했어; i had to go to the bathroom really bad
+* 어제 밤에, 막 퇴근을 하고 나서 사무실 건물 밖에서 딱 버스를 타려고 하고 있는데 지갑을 안가지고 온거야
+* Last night, i had just gotten off work. I was in front of my office building. And just as i was about to take the bus. I noticed (that) i didn't have my wallet with it(notice: 변화나 특이사항 눈치)
+* 화장실을 가려고 딱 걸어가고 있는데; And just as i was walking over to the bathroom
 * get off work : 퇴근하다
 * go to work : 출근하다
 * just as I was about to : ~하려던 참에(시작)
@@ -393,6 +502,7 @@ ex) <It just felt like too much trouble> looking for a different model and sched
 * I have to go home.
 * leave home 집에서 나오다/출발하다
 * go home, get back home, go back home 집에 돌아가다
+  What time are you getting back home today?
 * 3, diet
 * 앞으로 다이어트를 할 거다.
 * go on a diet 
@@ -425,6 +535,7 @@ ex) <It just felt like too much trouble> looking for a different model and sched
 * - 마침 어제 먹다 남은 피자가 냉장고에 있어.
 * I happened  to have some left over pizza from yesterday in my refrigerator.
 * -  It just so happens(happened)that ~ 으로도 표현 ->  It just so happens that I have some cash on me.
+* There happened to be
 * It just so happens that I have a really good idea.
 * -혹시 (happen to)(by any chance)현금 좀 있니?
 * Do you (happen to= by any chance) have some cash on you right now?
@@ -435,6 +546,8 @@ ex) <It just felt like too much trouble> looking for a different model and sched
 * - I happen to have really  good idea.
 * 혹시 외국에 갈 사람 아니?
 * -Do you happen to know someone who is planning to go abroad ?﻿
+* 1. Do you by any chance have something to eat right now? 동사의 앞
+* 2. Do you have cash by any chance; 문장의 끝
 
 ## 아까", "이따가", "얼마전에", "나중에
 * -in/from now : -후에, 뒤에
@@ -445,7 +558,7 @@ ex) <It just felt like too much trouble> looking for a different model and sched
 * 1. 아까
 * 영어에는 '아까'라는 말X
 * -ago
-* -earlier + @ ( this morning/ this afternoon / this evening)
+* -earlier + @ ( this morning/ this afternoon / this evening); 오전에도 쓸 수 있음; 비교급이기 떄문에
 * "I spoke with him on the phone earlier + today"
 * 2. 얼마전에 <- a little while age
 * *earlier this week/ this month/ this year/ this quarter
@@ -459,16 +572,20 @@ ex) <It just felt like too much trouble> looking for a different model and sched
 * later this week / this month / this year
 * later this year : 나중이긴 나중인데 올해를 벗어나진 x
 * some time later (나중에 언젠가는)﻿
+* a while later, some time later
 
 ## "내가 알기로는", "내가 듣기로는", "내가 보기에는
+* 내가 알기로는
 * As far as i know
 * Based on what i know
 * According to what i know
+* 내가 듣기에는
 * From what i hear
 * From what i 've heard
+* 내가 보기에는
 * The way i see it
 * As far as i can tell﻿
-*  
+* I was told (that)
 
 ## comfortable 와 convenient 그리고 "편하다" - 알고보면 다른 말들\
 * (육체적으로)편해요->편안하다.
@@ -503,5 +620,5 @@ This app is really convenient.
 * You must not /can't/shouldn't expect your parents to do everything for you. 
 * I was expecting everyone to be/come on time. 
 * I  don't really expect everyone to agree with me.﻿
- 
+* 임신: i'm expecting
 

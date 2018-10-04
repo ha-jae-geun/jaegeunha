@@ -1,4 +1,5 @@
 # 정책
+* 역할을 맞다; You took on a role/task
 * imperialism; 제국주의자 an imperialist;  in on imperialism
 * capitalism; 자본주의는 이윤 추구를 목표로 한다; Capitalism aims at[focuses on] making profits.
 * 공산주의; communism, collectivism
@@ -13,6 +14,9 @@
 
 ------
 ## 정치
+* [명사] [보통 E~] 각하 ((장관·대사 등에 대한 존칭)); excellency 미국식 [éksələnsi]
+* 귀빈; Distinguished guests
+* 국왕, 왕자; Your Majesty, Your highness
 * 문화부 장관; minister of the Ministry of Culture	
 * #깨어있는 사람; are you #woke?
 * #영부인 #first lady

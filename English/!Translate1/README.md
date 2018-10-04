@@ -3,18 +3,24 @@
 * someday: 미래만 가능; 언젠가 될지 모르지만의 강조, oneday: 과거도 가능
 * 언젠가 무엇이던간에 내가 영어로 말하는것을 기대하고 있지만, 금방 그렇게 할 수 있을것 같지 않아. Sometime I'm looking forward to speaking in English whatever I want to, but it doesn't look like it's going to be able to do it anytime soon.
 * 캐나다에서 살기 위해서 내가 언젠가는 영어를 해야만 해.I have to speak English one of these days to live in Canada.
-*  조만간 다음달에 만나서 Iceland 여행 갔던 얘기 좀 해줘.
+*  조만간 다음달에 만나서 Iceland 여행 갔던 얘기 좀 해줘.  sometime soon
 Let's meet up together sometime in the next month and tell me about your trip you've been to Iceland.﻿
+* Let's meet up sometime soon / sometime this week; 실질적인 시간을 넣음
+* 금방 해결될것 같진 않아; it doesn't look like it's going to be taken care of anytime soon
+  it's not going to be released anytime soon
 
 ## 당분간은
-* 출산하다; deliver -> have a baby 
+* 출산하다; deliver, give birth-> 애가 있다; have a baby 
 * 당분간은; In the meantime, meanwhile, for the time being
-* 나 방금 이사와서 한동안은 집이 좀 어지러울거야. 당분간 참아줄 수 있어?﻿; hey, I just moved to this place, so things are going to be messy for a while. Can you be a little patient for me in the meantime?
+* 우리 둘이서 해야돼; It's just the two of us = It's going to be just the two of us
+* be bound to = tend to
+* 나 방금 이사와서 한동안은 집이 좀 어지러울거야. 당분간 참아줄 수 있어?﻿; hey, I just moved to this place, so things are going to be messy for a while/Something is bound to be a little messy. Can you be a little patient for me in the meantime?
 * 야, 너무 그러지 마; Come on
+* 봐주다; go easy on~, cut some slack, let ~ off the hook, be patient/be cool
 
 ## 대부분의 경우
 * 근데 거의 스마트폰 때문이에요 - 잠들기 직전까지 스마트폰을 보고 있는 경우가 많거든요. 
-But It's mostly because of my smartphone - I mean, a lot of the time, I'm looking at my smartphone right up until I fall asleep.
+But It's mostly because of my smartphone - I mean, a lot of the time/in many cases, I'm looking at my smartphone right up until I fall asleep.
 * 대단한걸 하는 것도 아니에요 - 거의 인터넷 서핑 하는 거죠. (And) I'm not doing anything important - Most of the time, I'm just web browsing.
 * 물론, 어떨때는, 여행 계획하고 있다거나 그러면 온라인으로 정보를 찾고 그럴 때도 있는데 
 Of course, in some cases, if I'm planning for a trip or something, I might be looking for some information online.
@@ -22,13 +28,17 @@ Of course, in some cases, if I'm planning for a trip or something, I might be lo
   But in most cases, I just have a hard time staying away form my phone.﻿
 
 ## 영향을 받다 / 주다 / 끼치다”를 영어로 표현하기 - influence/affect/effect/impact
+* 간접적; have influence on, was infulence by, had a lot of influence on
 * 걔가 좋아하던 가수에 영향을 받아서 지금 화장품회사에서 일하고있어.; She was influenced by her favorite singer, by which she works at cosmetic academy; 간접적 영향
 * 그녀는 많은 사람들에게 영향을 끼치고 있어.; She has had influence on a lot of people.
 * 내 직장동료인 성실한 짐에게 영향을 많이 받았었지. I was influenced a lot by my coworker, Jim, who is a man of principle.
+* 직접적; is affecting someone, Everyone be being affected by the worsening economy
+  it affected her a lot, She was heavily affected by that
 * Air-conditioner has an negative effect on Earth.
 * Youtube has affected a lot of children.; 직접적 영향
 * Youtube has both positive and negative effect on children.
 * 그 프로그램은 정말 나에게 큰 영향을 줬어. 그 프로그램에 참여함으로써 나는 가수가 될 수 있었어.﻿; That program had an impact on me. By participating it, I could become a singer.
+  영향의 정도가 매우 클떄(간접, 직접 상관 X)
 
 ## "도움이 되다"를 영어로 표현하기 - help / helpful / support / supportive
 *  it's really helpful = it helps (a lot); is it helpful?; does it help?; it helped a litte/a lot
@@ -37,6 +47,7 @@ Of course, in some cases, if I'm planning for a trip or something, I might be lo
 * gave me a lot of support / extra attention
 
 ## 흔히 있는 기회가 아니야." , "흔치 않은 기회야" , "그럴 기회가 없었어" 
+* it's an opportunity of a life time
 * get to 를 그냥 쓰기만 했지 get (a chance) to에서 a chance가 생략된 표현이라고 짐작도 못했네요.; I got to understand the expressions exactly, most of which I already used.
 * 그런데 got to가 비형식적인 have to의 의미로 쓰일 때도 있습니다.; I got to go. = I have to go. 
 * it's a rare opportunity(chance) = it's not an everyday opportunity = we don't get a chance like this every day = we don't often get a chance like this = i didn't get a chance to 
@@ -45,6 +56,12 @@ Of course, in some cases, if I'm planning for a trip or something, I might be lo
 * (1) be aware
 - 이 문장에서는 ‘공식적인 정보가 나에게 없었다(그래서 몰랐다)’라는 어감으로, 그 정보가 나한테 전달이 되지 않았다는 의미를 내포하여 표현할 수 있음
 * <know vs. be aware>
+- #2
+- I'm aware of my surroundings
+내가 우리동내를 단편적으로안다. 이사온지 얼마안됐거나 오랜시간 살지않았지만 단편적으로 알고있다. 동내를 잘 이해하지 못해기때문에 조금 조심하는 과정일수도있고, 조금씩 알아가는 과정중에 있는 상황임. 내동내를 모르지는 않지만 그렇다고 잘 알지는 못하기때문에 aware이라고 단편적으만 알고있다고 말하는것임. 동네에 대해서 더 잘아는사람이 와서 동네를 알려줘도 되는상황
+- I know my surroundings
+내가 이동내에서 오랫동안 살아왔고 그래서 시간을 두고 내환경을 지켜보고있었다. 그래서 "잘"안다. 동내토박이라고 생각할 수 있고 aware하는 사람에게 동내를 알려줄 수 있는 입장.
+- 한마디로 aware은 사실만을 인지하고있고 know는 "잘"안다 라고이해할 수 있음
 - know : 일반적인 지식, 가장 포괄적으로 무엇을 알고 모르고
 - be aware : ~에 대해 인식(인지)을 하는 상태, know와 비교했을 때 훨씬 더 좁은 개념
 - I wasn’t aware 대신 I didn’t know를 써도 충분히 의미 전달이 되고 어감도 비슷한데 아주 미묘한 차이가 있음(어떤 상황, 어떤 문맥, 어떤 대화에서 어떻게 사용하느냐에 따라 그 차이가 크게 느껴질 수도 있고 지금 예문처럼 거의 차이가 없을 수도 있음)
@@ -93,22 +110,41 @@ Of course, in some cases, if I'm planning for a trip or something, I might be lo
 - 뭔가를 보고 그게 무엇인지 아는 것, 누구를 보고 그게 누구인지 아는 것, 어떤 상황을 보고 그게 무슨 상황인지 아는(파악하는) 것
 - 그녀가 누구였는지 애초부터 몰랐다는 이야기가 아님
 - 그녀를 보고 누구인지 파악이 안됐다는 것﻿
+* 며칠전에 서점에 갔는데 어떤 여자가 사람들한테 막 둘러쌓여있는거야
+* The other day, I was at the bookstore and I noticed (there was) a woman surrounded by a large crowd.
+* 무슨 상황이었는지 잘 몰라서 처음에는 그냥 직원 하나가 무료로 뭐 나눠주고있구나라고 생각해쓴데
+* It was hard to tell what was going on.
+* So, at first, I figured it was an employee handing out free stuff. 우리말과 매칭하는 말 없음
+* 거기가 서점이었으니까 어떤 유명한 작가가 팬들을위해서 채가인을 해주고 있구나 싶었지
+* But when I got a little closer. I realized that it could be a famous writer.
+* Who was it?
+* 몰라 난 못알아보겠떤데;
+* I don’t know. I didn’t recognize her. I don’t think she was any writer that I know.
+
 
 ##  keep track of / keep up with / catch up on 
 * 회의가 꽤 빨리 진행되거든요; the meetings are fairly fast-paced
 * 모든 내용을 일일이 다 기억할  필요는 없구요; don't worry too much about keeping track of every little detail << you don't have to의 완화된 표현
+* 뉴스, 화제거리; 최신 소식을 가지고 있다; be(stay) current on
+  keep track of; 작은 단위
+* catch up on 콘텐츠: 일단 놓친게 있고 그걸 만회하는 것, 따라잡은 과정; catch up with someone
+  keep up with; 진행되는 페이스에 따라 그대로 유지
 * 전체적인 흐름만 따라간다고 생각하세요; Just try to keep up with the overall flow
 * 회의 전체가 녹음되니까 놓친 내용이 있으면 끝나고 확인할 수 있어요; ANd the meetings are entirely recorded so you can catch up on anything you might've missed, afterwards
+  you might've missed: 가정법
 
 ## [ ~하는 수 밖에 없어 ] 영어로 표현하기 | 영어회화
 * It's too bad = That's too bad
 * There's nothing we can do about it; nothing -> not much 하면 표현이 부드러워짐
-  nothing more/else; ther'e nothing we can do now/at this point
-* At that point, there was nothing we can do; was-that
-* 기다리는 수밖에 없어; There's nothing we can do but just wait / except wait / besides / other than
+  nothing more/else; 
+* 이제는 어쩔수 없어ther'e nothing we can do now/at this point
+* 과거형 어쩔수 없어 At that point, there was nothing we could do; was-that
+* 한정적인걸 강조; just; 기다리는 수밖에 없어; There's nothing we can do but just wait / except wait / besides / other than
+  - except는 just와 같이 사용하지 않음
 
 ## "내가 생각했던거랑은 좀 달라" , "난 좀 더 ____ 한걸 생각하고 있었거든
 * It's not exactly/quite what i had in mind / What i was expecting/looking for; 
+  - quite는 조금 부드러운 표현
 * 난 좀더 모던한거 생각하고 있었어; i was thinking of(expecting) something a little more modern; 문장전체 암기
 * 왜, 디자인 완전 심플한 거 있잖아; You know, something with a really simple design
 * 근데 이거 보면볼수록 좋아져; But you know what? It is growing on me; THis is really growing on me
@@ -132,21 +168,22 @@ Of course, in some cases, if I'm planning for a trip or something, I might be lo
 ## sdf 
 *  while I was there, I saved half of what I earned. it was actually a lot easier than I thought.
 ⇝ while I was there, I saved half of what I earned, which was actually a lot easier than I thought.
-* I wasn`t sre what I wanted to do. that was in fact the main reason that I wanted to take some time off school.
+* 사실은; I wasn`t sre what I wanted to do. that was in fact the main reason that I wanted to take some time off school.
 ⇝ I wasn`t sure what I wanted to do, which was in fact the main reason that I wanted to take some time off school.
-* I don`t think I can go to her wedding. oh, and by the way, it has nothing to do with the fact that we used to date
+* 오해 방지; I don`t think I can go to her wedding. oh, and by the way, it has nothing to do with the fact that we used to date
 ⇝ I don`t think I can go to her wedding, which by the way, it has nothing to do with the fact that we used to date
-* we ended up spending a lot more than we had planned. I think it could`ve  been avoided had I been in charge.
+* 이어서 말하기ㅣ; we ended up spending a lot more than we had planned. I think it could`ve  been avoided had I been in charge.
 ⇝ we ended up spending much more than we had planned, which I think could`ve been avoided had I been in charge.
-* I started taking driving lessons. I`ve been meaning to do it for a while.
+* it이 which; I started taking driving lessons. I`ve been meaning to do it for a while.
 ⇝ I started taking driving lessons, which I`ve been meaning to do for a while.
+  which i've been; v 발음 생략 가능
 * we discussed several things during the meeting. most of them were related to the upcoming event next week.
 ⇝ we discussed several things during the meeting, most of which were related to the upcoming event next week.
 * as far ad I can tell, we have 3 options. (and) none of them are very good.
 ⇝ as far as I can tell, we have 3 options, none of which are very good.﻿
  
 ## which( which절로 만들면 보충 설명의 느낌이됨)
-* I got up around 7 o'clock this morning. It was a little earlier than usual. --> 
+* I got up around 7 o'clock this morning. It was a little earlier than usual. --> it이 which로
 I got up around 7o'clock this morning, which was a little earlier than usual. 
 * And thenI had breakfast. I don't do that very often unless I'm very hungry. -->
 And then I had brekfast, which I don't do very often unless I'm very hungry. 
@@ -167,27 +204,29 @@ Is there any way I can see him this week?
 * B: 그 전에 예약취소가 있지 않는한 제일 빠른게 월요일이에요. 
 As long as thee are no cancellations before then, Monday is the best we can do. 
 * A: 무리한 부탁인건 아는데 다른분 예약을 변경할수는 없을까요?
-I know it's a lot to ask( I hate to ask), but can't you reschedule one of the others? 
+I know it's a lot to ask(캐쥬얼한 표현; 부정적인 어감이 아님; I hate to ask), but can't you reschedule one of the others? 
 * B: 죄송하지만 그렇게 하면 제가 진짜 곤란해질수도 있어서요. 일단 할 수 있는건 해보겠는데요, 장담을 못해드려요.  
 Sorry, but I could get into a lot of trouble for that, I'll try/ I'll see what I can do / I'll do whatever I can + but I can't make any promises./ but I can't promise anything.﻿
  
 ## 참고로 - 그나저나 - 그러고보니 - [ 참고로 Part 1 of 3 ] [ 영어회화 ]
+* For future referencee; 보통 formal한 표현
+* 앞으로를 위한 참고사항; For future reference; Just so you're prepared; Just so there's no confusion(misunderstanding)
+* In case this happends again next time
 * 화요일까지는 없을거에요; Just so (that) you know, i won't be back until Tuesday; 화요일에 돌아옴
 * 모두 참고로; Just everybody knows
+* Just so you know; 좀더 일반적으로 잘 쓰임ㄴ
 * 핵심 내용과 더불어 알고 있어야 하는 느낌(좀더 형식); On a side note,
 * keep in mind that ~
 * 한가지 더 말하자면; One other thing
 * 그나저나 트레이시와 최근에 연락한사람 있어?; By the way, has anyone been in touch with Tracey
 * 누구 얘기 나와서 말인데; Speaking of ~
 * 아 맞자 그러고 보니까; Oh that reminds me
-* (당신에게 도움이 될 수 있으니 참고해라; 완전 딱딱하고 직설적인 표현)For your information; This is just for your information(중화시킨 표현
-* 앞으로를 위한 참고사항; For future reference; Just so you're prepared; Just so there's no confusion
-* In case this happends again next time
+* (당신에게 도움이 될 수 있으니 참고해라; 완전 딱딱하고 직설적인 표현)For your information; 
+* 유하게 표현; 할말  + This is just for your information(중화시킨 표현
 * 상대방을 주목시키기 위한 표현 (Please) take note, Take note of, Take note that; Please take note of the changes, they might be related to/concern you
-* I'd like to point out (that) = i want to point out (that
-* Notice ~
-* As a reminder
-* Don't forget
+* 캐쥬얼한 표현; I'd like to point out (that) = i want to point out (that = Notice ~
+* As a reminder; 상기 시켜주는 의도; formal
+* Don't forget = keep in mind
 * 여러명에게 동시에 전달(이메일) For those of you who
 * 그러고보니; Come to think of it / Not that i think of it
 * 생각해보니; It just occured to me / I just realized
@@ -246,24 +285,49 @@ Sorry, but I could get into a lot of trouble for that, I'll try/ I'll see what I
 * 오랜만에; for the first time in a long time/days/months/years
 * 오랜만에; i haven't done that in such a long time
   We haven't done that in a while
+* ~한지 오래됐따; It has been such a long time since i went to see a movie
+  다른 의미
+* in a while(한동안, 길지 않은 느낌; 더 자주 씀) <> in a such a long time(좀 오래된 느낌)
 
 ## "~하면 어떨까?/어떤 기분일까" (Part 2 of 2) | "~ 했으면 어땠을까?" / "~당시에는 어땠을까?"
-* I wonder what it's would be like / what it's like / what it would; 다른 사람의 관점
-* I wonder what it would have been like
-* i wonder what it's going to be like / what it happend 
+* i wonder what it feels like to; 감각적인 부분에 더 집중
+* / what it's like; 다른 사람의 관점; 일반적인 관점
+* I wonder what it's would be like; 나의 관점
+* I wonder what it would have been like; 과거의 일이 다르게 일어났따면 어땠을까
+* i wonder what it's going to be like / what it happend; 실제로 확정된 상황에 대해 예상해 보는것
+* i wonder what it was like; 과거에 겪었다면 어떤 기분일까?
+* I wonder what it would've been like if i had studied harder
+* 거기 가면 어떨까? i wonder what it's going to be like there / when we get there
+* i wonder what happens? 어떻게 될까
+* i wonder what would happen
+* i wonder what would've happeed?
+* i wonder what happened?
+* i wonder what is going to happen?
 
 ## [ 영어 연습가이드 #28 ] | can을 상황에 따라 다양한 형태로 표현하는걸 배워보자 [ 영어회화 ]
 * 스케줄을 설정할 수 있어서 그때그때 혼자서 청소해주고; i can set up a schedule and it'll operate by itself
 
 ## 영어로 "가다"와 "오다"를 be동사로 표현해야 하는 경우 [ 영어회화 ]
+* 도착 예정시간: be; 
+* 도착: arrive, get (to)
 * 몇 시 까지 올것 같애? What time do you think you'll be here?
 * 2시 반까지 갈 수 있을 것 같애; i think i can be there by two-thirty
+* 얘 늦어도 2시에는 출발해야 된다니까, 그떄까지 안오면 못만날수 있어; He says he has to leave by 2. So if youo're not here until then, you might miss him
+
+## 💪 영어회화 | 더 자연스러운 영어를 위한 표현방식을 하나 익히자
+* will be able to; 할 수 있을거야 = be going to be able to
+* can; 할수 있어
+* 해야돼; have to; will have to
+* 하지 않아도 돼; won't have to
 
 ## 💡영어회화 | Review Series 002 | 조건절 / 가정법 문장 구성하기 복습 !
-* 그랬으면 진짜 좋았겠따; if that were true
+* 가능한 미래; It's going to be a really tough week
+* 현재의 사실에 대한 가정; 그랬으면 진짜 좋았겠따; if that were true
 * ~였으면 좋겠다; i wish there were a policy where
+* 과거의 사실에 대한 가정이 현재에 줬을 볗놔; if you had fixed the ~ earlier, we wouldn't need to go through this now
 * 그런게 있엉쓰면 좋겠따; if they had something like that
 * 당연히 진작에 고쳤겠죠; we would've fixed it earlier
+* 과거의 사실이 과거에 옇양; if we had known there was a problem with air-conditioner, of course we would've fixed it earlier
 
 ## 💬 영어회화 | 대화가이드 #09 | would + have + p.p / should + have + p.p / could + have +p.p
 * 이거 좀 먹어봐요. 맛있어요
@@ -272,6 +336,7 @@ Try this, it's good.
 No, I'm good. Actually, I don't really eat seafood.
 * 진짜요? 왜 아무말도 안했어요?
 Really? Why didn't you say anything?
+* 다른거 시켰을 텐데; WE would've gotten something; 가정절 생략
 * 아니에요. 진짜 괜찮아요. 다른거 다 잘먹고 있어요
 No.It's really O.K. I'm really enjoying everything else.
 * 그래도 말씀하시지, 이거 말고도 시킬거 많았는데.
@@ -280,12 +345,13 @@ Still.You should've told us.There were tons of other things we could've orderd.
 I know what you mean, but honestly. I'd really prefer it if everyone just got what they want. I'm really O.K/I really don't mind./It's really not a problem.﻿
 
 ## 🔍 영어회화 | 연습가이드#27 - Part 2 | because / since / as / in order to / so that
+* ~니까; since we wear the same size -> because(이유)
 * in order to ~ 하기 위해서 /
  in order 부분을 생략하고 to 만 사용하면서 좀 더 자연스럽게 사용하는 경우가 많음.
 ex)이 메일을 확인하기 위해서 컴퓨터를 켰어.
 I turned on my computer (in order) to check my email.
 * - 주어를 넣어서 사용하기도 함.
-in order for(someone)to~
+in order for(someone)to~; in order for me to help you
 ex) -내가 너를 돕기위해서 너는 나에게 모든 정보를  주어야해.
 You need to give me all the information for me to help you.
 -You need to give me all the information if you want me to help you.
@@ -330,6 +396,7 @@ be going to 는 이미 계획되어있는 것에 사용함
 ## 💬 영어회화 | 대화가이드 #08 | "나도 딱 그 생각 하고 있었어." , "나도 딱 그 말 하려고 했어." , "어쩐지 낯이 익더라"
 * 그는 해리포터를 닮았어. He reminds me of Harry Potter.
 * 걔 해리포터 좀 닮지 않았어? Doesn't he +kind of+ remind you of Harry Pottter.
+  #좀
 * 어! 나도 딱 그 생각 하고 있었어.
 * I know! 
 * Yeah! (I kinow!) I was just thinking the same thing.
@@ -360,15 +427,16 @@ be going to 는 이미 계획되어있는 것에 사용함
 “Hurt yourself with the truth.  Don’t try to comfort yourself with a lie.”﻿
 
 ## 🛠영어회화 | 시급한 영어 교정 #08 | 색깔, 사람의 성격, 장소의 분위기에 대해서 말할 때
+* spend time -ing, waste time -ing
 * red color, white color-X <> red, black-O <> 
 * “걔는 성격이 좋아.” “His personality is nice.”-X “He’s nice/kind.”-O
-* “와 여기 분기 좋다.” “Wow, the atmosphere is really nice here.”-부자연스러움 “Wow, it’s really nice here.”
+* “와 여기 분위기 좋다.” “Wow, the atmosphere is really nice here.”-부자연스러움 “Wow, it’s really nice here.”
 * “자신이 못해낼 것만 같고 포기하고 싶다는 생각은 실제 한계의 40%에 도달했을 때 뇌에서 보호 본능으로 일으키는 반응일 뿐이다. 당신은 생각보다 훨씬 강하다.”
 “Doubting yourself and the thought of giving up is nothing but your brain reaching to survival instincts when you have reached 40% of your actual limits. You are much stronger than you think.”﻿
  
 ## 🥊영어회화 | 연습가이드 #26 | 절차에 대한 설명
 * 일단~~부터/먼저 해야된다. The first thing you need to do is
-*그러고 나면 바로... As soon as you do that,// As soon as that is done,
+* 그러고 나면 바로... As soon as you do that,// As soon as that is done,
 * 그 이메일에 답장을 하고나면...(충족된조건->결과) Once + 완료시제:; Once you have replied to that email, (Once you've done that)
 * 일단 웹사이트로 가서 취소 요청을 먼저 해야해요. The first thing you need to do is go to the website and request a cancellation. 
 * 그러고나면 바로 이메일이 하나 갈거에요... As soon as you do that, you're going to get an email
@@ -376,7 +444,7 @@ be going to 는 이미 계획되어있는 것에 사용함
 * 그 이메일에 답장을 하고나면 2-3일 내로 취소를 확인시켜주는 메일이와요
 Once you have replied to that email, you will receive(get) another email within 2 or 3 days confirming your cancellation.
 * 내가 똑똑해서가 아니다. 문제에 대해서 더 오래 고민하는 것 뿐이다.  I am not smart. I just stay with problems longer.﻿
-
+* Once + 현재완료; 충족된 조건 -> 결과
 
 ## 💡영어회화 | Review Series #001 | "지금쯤이면 뭔가 소식이 있을 줄 알았는데.."
 * 1. 이상하다. 지금쯤이면 킴한테서 (뭔가) 소식이 있을 줄 알았는데.
@@ -396,8 +464,8 @@ I thought people would've forgotten about it by now.
 I thought people would've forgotten all about it by now. 
 * 3. 난 너가 지금쯤이면 적응을 할 줄 알았어. 
 I thought you would be used to it by now.
-be used to (...) 지금 익숙한 상태 / *get used to (...) ~에 익숙해지다(동작)
-* 3.-a 난 너가 지금쯤이면 익숙해졌을(적응했을) 줄 알았어. 
+be used to (...) 지금 익숙한 상태 / get used to (...) ~에 익숙해지다(동작)
+* 3.-a 난 너가 지금쯤이면 익숙해졌을(적응했을) 줄 알았어.; get used to: 완료
 I thought you would've gotten used to it by now. 
 * 3-b I thought you would've adapted by now.﻿
 
@@ -457,6 +525,7 @@ No.Really. It's O.K. I'm not in a hurry or anything.   You go ahead.
 Are you sure? Thank you.   ^^﻿
 
 ## 💪 이 3가지의 표현으로 영어를 좀 더 자연스럽게 하기 - definitely, obvious(ly), noticeably
+* noticeable/noticeably  눈에 뛰게 . 차이가 확 나게..﻿
 * 이게 확실히 더 좋네요
 ((확실히)definitely/clearly/certainly)
 This is definitely better.
@@ -471,13 +540,14 @@ Yes, it looks pretty obvious to me.
 The material and the overall construction is noticeably better(different).
 * 뻔한거 아니야?
 Isn't it obvious?
+* obviously; 뻔하게, 당연하게
 
 ## 🔍영어회화 | TV를 켜다 / 켜놓다 / 켜두다
 * TV를 켜다
 Turn on the TV.
 Turn the TV on.
 * TV를 켜놓다
-Keep the TV on.
+Keep the TV on. keep the TV (turn) on
 * TV를 켜두다.
 Leave the TV on.
 * 1.어떤 행동을 해둔 채로 자리를 비우는 상황에서는 leave 
@@ -489,6 +559,7 @@ A: Hey, should I leave the TV on?
 * 3. 현재 상태유지 (leave) or 상태변화 후 유지
 * A: Should I close the door? 문 닫을까요?
 * B: No, just leave the door open.
+* leave는 그냥 그 상태로 두라는 말이고, Keep은 의도나 목적을 가지고 변화나 혹은 (노력이 수반되는)유지를 하고 그것을 지속하라는 말이군요.
 
 ## 🥊 영어회화 | 연습가이드 #24 (Part 2 of 2) | (영화에 대해서) 아쉬웠던 점 설명하기
 * 괜찮았는데 기대만큼은 아니었어
@@ -496,9 +567,10 @@ It was OK/alright, but it wasn't as good as I'd hoped.
 * 스토리의 구성이 좀 별로였던것 같아요.
 I feel like the story wasn't very well-structured.
 * 생뚱맞은 장면들이 몇 개 있었는데, 그거 때문에 헷갈렸어.
-I mean there were a few scenes that didn't make a lot of sense.
-* 그거때문에 혯갈렸어.
-They made it very confusing.
+I mean there were a few scenes that didn't make a lot of sense/make any sense/make sense/make much sense.
+* 생뚱맞은; random, out of the blue
+* 그거때문에 혯갈렸어. They made it very confusing.
+  it was confusing because of that은 이유가 중요한게 아니므로 별로
 * 결말도 좀 아쉬웠어요.
 I wish the ending was a little better.
 * 글쎄요, 저는 별로 공감이 안갔어요.

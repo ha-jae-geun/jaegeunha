@@ -83,4 +83,16 @@ score with a sacrifice fly; 그에게 희생을 강요하지 마라; Don't force
 * 너생각해; Just thinking about u
 * 더 이상 기다리면 많은 사람들이 죽을거야; if i wait any longer
 * ~랑 약속이있어; i made super solid plans with someone
-* 우리랑 놀자; make merry with us 
+* 우리랑 놀자; make merry with us
+* ~의 눈으로 본; ~ seen through the lens of someone
+* ~에 순응하다; conform to/with; conform to social norms
+* 희망이 없다고 했따; we are hopeless
+* 우여곡절이 많닸다; 	There have been bumps in the road = It wasn't a smooth sailing = There have been rocky moments 
+* 진정한 모습을 숨기지 마세요; i urge you to speak yourself
+* 주차장에서 습격당했어; i got jumped in a parking lot
+* 나한테 손 흔들고 있었어; he was waving at me
+* 물을 틀었습니다; i turned on the water
+* ~조건으로 해줘써요; 치아 교정 유지 장치를 끼웡야한다; got them for me on the condition that i had to wear my plate afterwards
+* 언제까지 ~해; Until when does the restaurant delive chicken?
+* 일생일대의 ~야; ~ is an N of a lifetime
+* 슬슬 배고픈데; i'm starting to feel hungry

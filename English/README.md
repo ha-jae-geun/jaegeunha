@@ -7,6 +7,12 @@
 * 그녀가 고삐를 부드럽게 당겼다.; She pulled gently on the reins.  [reɪn]
 * 그가 나를 쿡 찌르며 속삭였다. “방금 누가 들어 왔는지 봐.”; He nudged me and whispered, ‘Look who’s just come in.’ 
 * have a good/poor handwriting; 
+* 우리랑 놀자; make merry with us
+* ~의 눈으로 본; ~ seen through the lens of someone
+* ~에 순응하다; conform to/with; conform to social norms
+* 희망이 없다고 했따; we are hopeless
+* 우여곡절이 많닸다; 	There have been bumps in the road = It wasn't a smooth sailing = There have been rocky moments
+* 나한테 손 흔들고 있었어; he was waving at me
 
 # 사전
 * https://www.urbandictionary.com/

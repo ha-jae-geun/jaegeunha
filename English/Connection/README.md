@@ -1,12 +1,28 @@
-* #연결어
+## 연결어
+* 처음이에요; This is the first time for me(xx) / the first i'm coming(xx) / THis is the first time i've been downtown(현재완료 씀); This is the first time here; 그떄 처음이었다; He's saying that that was the first time i had ever been to downtown
 * So last night I was really hungry. You know (what I mean?) I ate umm. What was that? Oh yeah fried chicken. Let me tell you. It's actually
+* 언제까지 ~해; Until when does the restaurant delive chicken?
+* ~한적 있어? Did you ever ~
+* 알았을 떄는 이미 ~한상태다; By the time i found out, i had already made
+* 그 일이 있고 나서는; Ever since that happened, i've gotten much more careful
+* ~하지 않으려고 하고있어요; i've been trying to
+* 어떨떄는; 대부분은, In some cases; in most cases/mostly
+회의 전체가 녹음되니까 놓친 내용이 있으면 끝나고 확인할 수 있어요; ANd the meetings are entirely recorded so you can catch up on anything you might've missed, afterwards
+* 난 좀더 모던한거 생각하고 있었어; i was thinking of(expecting) something a little more modern; 
+* 그렇긴한데,저는 진짜 더들 그냥 원하는거 먹었으면 좋겠어요; #I'd really prefer# it if everyone just got what they want.
+* 선물을 꼭 챙겨 드려야겠다 싶으면, 사실 돈을 그냥 드리는 경우가 많아요.
+When I feel like I should (actually) get them something, I just give them money more often than anything else.
+* 뭐 그럴 수도 있지.; It could be
+* 경향이 있으니; (= you’re bound to make mistakes...); tend to
 
-* 의문사 | 접속사 | 주어 | Let me | It is 
+## 의문사 | 접속사 | 주어 | Let me | It is 
 * --------------------------------------------------------------------------------
 * ~를 ~adj하게 느끼다 								find someone adj
 * ~를 ~하게 만들다							 get/make someone adj
 * *##see to it: 확실하게 하다, see to: ~게 (처리)하다); you saw to that when you made me!
 * #고작 이러려고 ~ 하다 	 A just/only to B; I paid my good 30 dollars just/only to get lost
+* ~배로; makes twice as much money as as i do = makes two times more money than i do / as me(구어체 / than me); about tiwce as big as yours
+* ~하는게 나아; you'd better 
 * --------------------------------------------------------------------------------
 * ~좀 해주실래요? #would you?(너무 공손), can you?, please __, do you mind v-ing, would you be kind enough to ~~
 * ~할거지? 								 You're gonna ~ right?

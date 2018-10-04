@@ -32,6 +32,12 @@
 * 6개월에 한 번씩 저희는 아이들 다 데리고 치과검진을 받으러가요; We take all the kids to the dentist for a checkup
 * 잇몸이 약간 부었어요; her gums are a little bit pufffy
 * 충치 때문에 이를 때우고 와야 했어요; had to have a tooth filled because she had a cavity
+* 교정기 한적 있어; Did you ever have to wear braces?
+* 모든 철사들이 치아를 잡아당기다; All these wires pulling on your teeth
+* 재채기하면 이가 부서질갓같앳어요; my teeth felt like they were going to shatter
+* ~조건으로 해줘써요; 치아 교정 유지 장치를 끼웡야한다; got them for me on the condition that i had to wear my plate afterwards
+* 교정하다; had her teeth starightened in the past
+* 비뚤어지다; went all crooked again
 --------------
 * #건강검진; have a #medical checkup
 * #B형 간혐; #type BV Flue; Influenza A viruses

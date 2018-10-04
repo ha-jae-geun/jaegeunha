@@ -1,4 +1,5 @@
 ## 경제
+* 성장을 경험하다; That company has been experiencing exponentially = has grwon exponentially
 * 주민세; pay one's residence tax; collect residence tax; charge resident tax
 * 무역보복; encounter trade retaliation; cause trade retaliation; endure trade retaliation
   accept trade retaliation

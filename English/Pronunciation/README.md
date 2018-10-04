@@ -60,6 +60,10 @@
 * Via   [ˈvaɪə;ˈviːə]
 * Bon Voyage [ˌbɑːn vɔɪˈɑːʒ] 여행 잘 다녀오세요 (여행을 떠나는 사람에게 하는 인사말)(거리개념)﻿
 
+## 장모음, 단모음
+* i: ee; sleep; ea: heat; ie: piecee, ei: receive; 길게 가로로 발음
+* i: hit, y: gym, ui: build; 입의 움직임이 적음, 이와 에의 중간소리; 입모양은 에 발음은 이
+
 ## z발음
 * use; z 발음: 동사; 
 * close
