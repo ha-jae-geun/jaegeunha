@@ -33,6 +33,12 @@
 * i'm at the car: 자동차 근처(앞 같은 곳) i'm in the car: 차 안에 있다
 * i will be there at 3 o'clock
 
+## in front of, ahead
+* in front of: 바로 앞에 있는
+* ahead 앞으로 향해 있는; 
+  성공하다; Peter got ahead by staying positive at work
+  앞서서; had left 5 minutes ahead of time
+
 ## as
 * 동등함의 그림 <> like
 * i am a teacher as student

@@ -67,6 +67,9 @@
 --------------
 
 # 병원
+* 잠복기간이 길다; That disease has a long incubation(latent) period
+* 퇴원하다; i was discharged from hospitals
+* 검역소; put in quarantine agency
 * #질병	#ailment, #illness, #disease - 질병 #malady
 * #질병관리센터	#CDC; #Center for Disease control
 * 미국에서는 예약 없이 병원 못감

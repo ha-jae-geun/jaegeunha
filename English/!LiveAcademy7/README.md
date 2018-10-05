@@ -7,7 +7,30 @@
 * 브리더스의 허락을 기다리는 거로군요? YOu're watiting for Warner Brothers to greenlight at this point?
 * 이렇게 수치스러운 적은 없다; I've never been so humiliated in all my life
 * 입구가 어디에요? Where is the entrance
+* : 이용당하는 느낌이세요? Do you feel exploited?
+* 크리스가 그녀를 떠날 것이라는 마음 한편의 생각이 항상 그녀를 지배했다.; The thought that Chris might leave was always at the back of her mind. 
+* 경고하다; try to wrn you off = wany away
 * 믿음을 갖고 도전해보세요; Take a leap of faith
+* 그 차 사고는 그의 부주의 때문이었다.; The car accident was due to his negligence."; negligence 미국식 [ˈneɡlɪdʒəns
+* 걱정하지마; Don't sweat it
+* 어려운 일이야; That's a tall order
+* 손 뗴다; i wash my hands of it
+* 그것은 우리에게 큰 피해를 끼쳤다; It took a heavy toll on us
+* 돈이 썩어나가니? i'm made of money?
+* 적응하다; find one's feet
+* 땡기는거 없어; I don't have a preference either
+* 말리지 마; DOn't hold me back; 뭘 망설여? What's holding you back?
+* 온갖 노력을 하다; Pull out all the stops
+* 매드아이 무디 교수 : 문제는 이거야. Here is the rub.
+* 속다; 1. fall for one's tricks; i fall for it every time 2. buy <> 속이다; we play a trik on a teacher
+* 폭풍흡입: i pigged out on something; binge on something
+* 기대에 어긋나지 않을거에요; It won't backfire
+* 수상해; Something fishy is going on
+* 과장 아니야; i was very shocked, to say the least
+* 법대로 해; Do it by th book; 원칙: play by the book
+* 무리했어; i think i'm burning the candle at both ends
+* 그들은 벽 여기저기 부딪혀 튕기면서 내려갔다.; They pinballed off the walls on the way down.
+* 말포이 : 소문 내면 안돼, 알았지? Not a word to anyone! Understood?
 * 현지 음식도 한번 시도해보세요; Take a chance on the local food
 * 할 수 있으면 해봐; I dare you
 * 알람이 다시 울리면 일어나야지; I'm gonna get up when the snooze goes off

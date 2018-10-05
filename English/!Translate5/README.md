@@ -1,3 +1,6 @@
+## ~계의 ~다
+* A is to B what C is to D; It is to TVs what the Porsche was to cars
+
 ## 성공하다
 * I got it, I did it, Finally
 * 대단한 일 성공: I succeed it

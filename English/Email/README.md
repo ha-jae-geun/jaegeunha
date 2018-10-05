@@ -1,3 +1,23 @@
+# 기호
+* ~$1,500 에서 처럼 사용하는 '물결표시'는 사실 'tilde' [til-duh 틸더]  라는
+* señor (남자) 의 'ñ' 등을 표현할 때 처럼 '글자 위에 써는 물결'을 'combining tilde'
+  꼬리를 흔든다'는 의미의 "wiggle" 이라고 불리기도 해요.
+* "." (점, 마침표) 는 영국에서는 한국말 의미와 비슷하게 'full stop' 이라고 하고 미국에서는 '기간'이라는 의미도 가지고 있는'period' 를 쓴답니다.
+* 콜론' 이라고 불리우는 (:) 이 아이의 이름은 영어로 "colon" [koh-luh n - 콜런] 한답니다.
+* "-" 이 '짧은 작대기'의 이름은 "hyphen" [hahy-fuh n] 이랍니다. 문장과 문장 사이를 잇거나 콜론 대신 목록을 나열할 때 쓰곤 하는 '긴 작대기' "―" 이 아이는 "dash" 라고 한답니다! :)
+* > "double-greater than"
+* >>>> "triple greater than"
+* >= "greater than sign plus the equals sign"
+* ≥ "greater than or equal to"
+* ≤ "less than or equal to"
+* -> "hyphen-minus"
+* 'open parenthesis' / Lee / 'close parenthesis'
+* !: 'exclamation' 과 'mark' 혹은 'point' 와 함께 사용하면 느낌표 (exclamation mark)
+* _ 밑줄'이여서 'underline' 이라고  불러야 할 것 같이 생긴 '_' 이 아이는 사실 'underscore' 라고 부른답니다!
+* /: 요즘은 한국에서도 '슬래쉬' 라고 많이들 하시는 '나누기 표시' 영어로 'slash' 라고 한답니다.
+* 달러 표시' 와 '퍼센트 표시'는 '표시' 대신에 'sign' 을 사용하셔서각 각 'dollar sign', 'percent sign' 이라고 하시면 되셔요! :)
+
+
 # Writing
 # 처음 보낼 때
 *  please get back to us at your earliest convenience /  I hope your prompt attention on this

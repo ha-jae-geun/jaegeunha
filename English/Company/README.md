@@ -4,6 +4,7 @@
 
 # 미팅
 * ~할 안건이 있습니다; we have ~ items to
+* ~로 넘어가자; Let's turn to the next topic on the agenda, move on to
 
 # 단어
 * 연말 정산; Year-End tax
@@ -29,6 +30,10 @@
 * 연차: Annual leave; 반차: Half day leave; 병가: sick leave
 
 # 문장
+* 우리는 사업을 다시 정상궤도에 올려 놓기 위해 노력 중이야.;We are trying to get the businessup and running again.; 정상궤도
+* 프린터를 작동시키는 몇 분 걸리지 않았다. It only took me a few minutes to get the printer up and running. 
+* ~와의 거래를 성사시키다; clinch the deal with a company
+* 난 너가 이 실망(좌절)감에서 다시 일어설거라고 믿어 의심치 않아.; no doubt you will bounce back from this disappointment.
 * 우리는 모든 부서에서 사람들을 해고하게 될거야; We're going to be laying off people in every department
 * 나한테도 설명해줘; Fill me in
 * 아직 명백한건 없지만; Nothing hard yet, but we'll get there

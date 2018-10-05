@@ -1,3 +1,5 @@
+# 기타
+* 그는 독보적이다; He's a one of a kind
 
 # 나이
 * Do you mind if I ask your age?

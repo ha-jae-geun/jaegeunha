@@ -1,10 +1,26 @@
 # 경제
 
+## 공통
+* 전문가들은 ~을 두고 의견이 엇갈린다 Experts are split over ~ 
+* 실제 거주자들이 소득으로 대출을 받아 살 수 없는 수준에까지 이르렀다 
+  the price has reached a level where the income of actual residents cannot afford the mortgage payments 
+* 일련의 대책을 내놓았다 has released a string of counter measures 
+
+## 최저임금
+** 정부는 최저임금 인상 법안을 70%의 찬성표를 보이며 통과시켰다. The government passed a hike in the national minimum wage, with 70% of the vote. 
+
+## 금리
+* 경제학자들은 금리인상을 전망하고 있다.; Economists are predicting a hikein interest rates. 
+
 ## 유가
 * 국제 유가가 치솟으면서 증시가 약세로 돌아섰다;  As the price of crude oil shot up, the market turned bearish. 듣기 출처:능률교육
 * 국제 유가의 고공 행진이 계속되고 있다; International oil prices continue to skyrocket. 듣기 출처:능률교육
 
 ## 부동산 양극화
+* 근본적인 문제를 지적하는 회의적인 사람들도 많다 But there are many skeptics who point out fundamental problems 
+* 새로운 주거시설의 공급이 심각하게 부족하다 the supply of new housing is seriously lacking 
+* 가격의 하락 또는 적어도 가격의 안정을 가져오다 results in a drop or at least a levelling off of the prices 
+* 가격에 거품이 있다고 믿었던 40대와 50대는 자기만 뒤처졌다고 느낀다; Those in their 40s and 50s who believed that there was a bubble feel left behind 
 * 서울은 아파트, 특히 모던한 새 아파트의 공급 부족을 겪는다; Seoul experiences a lack of supply of apartments, especially newer and modern ones 
 * 임대주택시장 분석연구; An Analysis of the Rental Housing Market 
 

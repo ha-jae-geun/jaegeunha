@@ -26,3 +26,7 @@
 
 # 핸드폰
 * 터치감; Why is the touch screen so good?
+
+## 소셜 미디어
+* 페이스북 앱을 삭제하는 사람보다 새로 가입하는 사람 수가 더 많다 the newcomers outnumber the people deleting the app 
+* 인사트그램에 올릴만하다; ~ is Instagrammable

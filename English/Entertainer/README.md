@@ -1,5 +1,7 @@
 # 연예인
 * 레이디가가; Mother monster - 팬들: Little monsters
+* 믿고보는 배우다; he's a go-to actor
+* 가성비; offer a bang for one's buck
 
 # 영화
 * 개봉일이에요; it's the premiere for ~
