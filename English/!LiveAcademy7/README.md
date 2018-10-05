@@ -1,3 +1,20 @@
+* 웃음참기 챌린지를 실패했나요? DId she fail the "tr not to laugh challenge"?
+* 하단의 덧글로 알려주세요; Let us know in the comments down below
+* 더 분발해야 해요; YOu need to up your game
+* 변함없이 찾기 힘든 에릭은 어디에서도 보이지 않았다.; Eric, as elusive as ever, was nowhere to be found. ; 
+* 그는 옷을 발가벗기운 채 감방에 남겨졌다.; He was stripped naked and left in a cell. 듣기 출처:옥스퍼드
+* 아가미야 나와라; Grow gills man!
+* 브리더스의 허락을 기다리는 거로군요? YOu're watiting for Warner Brothers to greenlight at this point?
+* 이렇게 수치스러운 적은 없다; I've never been so humiliated in all my life
+* 입구가 어디에요? Where is the entrance
+* 믿음을 갖고 도전해보세요; Take a leap of faith
+* 현지 음식도 한번 시도해보세요; Take a chance on the local food
+* 할 수 있으면 해봐; I dare you
+* 알람이 다시 울리면 일어나야지; I'm gonna get up when the snooze goes off
+* 저리 가; So scram
+* 대박인데; It's epic
+* 마지막에 닥쳐서 그냥 대충하면 안돼; YOu can't just slap something together at the last minute
+* 망토가 제트기 엔진에 꼈어.; Cape caught in a jet turbine.
 * 즐거운 여행 되세요.; Bon voyage.
 * 이용당하는 느낌이세요? Do you feel exploited?이용당하는 느낌이세요? 
 * 우리는 사업을 다시 정상궤도에 돌아가다; We are trying to get the business up and running again. 

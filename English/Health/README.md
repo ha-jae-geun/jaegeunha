@@ -1,3 +1,29 @@
+## 기타
+* #건강검진; have a #medical checkup
+* #B형 간혐; #type BV Flue; Influenza A viruses
+* 생각했던 것 기대했던 것이 어긋날 때 #funny; it tastes funny 
+* 일반적인 이상한; #weird
+* 낯설은 이상함; #strange
+* 달라서 이상한; #Odd, #bizzare
+* √ You look like out of shape. Right, I'm feeling under the weather (너 몸이 안 좋은 것 같은데.. 맞아 몸이 영 별루야)
+* √ I'm in good shape (나 건강해)
+* √ You look like you are in great shape (너 몸 아주 좋아 보여서)
+* √ 반면, You should get in shape ----> 몸을 좀 가꾸는게 좋겠네요 라는 의미 (살을 좀 빼는게 좋겠네요 라는 의미로도 쓰임)
+* √ buff 복습 --> He was spotted on the beach looking extremely buff (그는 끝내주는 몸매를 보여 그 해변에서 단연 눈에 띄었다)
+* √ Speaking of healthy habits, you should start getting up at 6 from tomorrow (건강습관 얘기 나온김에 낼부터 아침 6시에 일어나봐)
+* 몸에 좋다 			 it's good for you it's healthy, it's good for 설명(circulation)
+* 멀쩡한; ##intact(2. 고장나지 않은)
+* #athletic, #fit, #healthy - 건강한, 탄탄한 <-> feeble - 연약한
+* 그는 멀쩡했다 			 none the worse for wear" He was no worse for wear 
+* be right as rain(#right, #rain)
+* #건강이 좋아 보이세요. 	 세심한 관리와 유지가 필요한 You seem to be as fit as a fiddle.
+* #이상무 We’re all clear
+* #fiddle; fit as a fiddle; #fiddle: 바이올린
+* 온전한; #intact; truck seems intact
+* 건강을 되찾다; #back on one's feet; #feet; my friend is back on his feet
+* 걔는 건강에 너무 집착해. 						 He’s a #health nut.(#nut)
+* 건강 조심해 #don't be going #downhill
+* #병맛; #Borderline Insanity(#Insanity) 
 * 검안사; 안과의사 optometrist; eye doctor; opthalmologist
 * 속성 다이어트해얒; i should go on a crash diet
 * 담당 의사에요; i'm on call today
@@ -39,31 +65,6 @@
 * 교정하다; had her teeth starightened in the past
 * 비뚤어지다; went all crooked again
 --------------
-* #건강검진; have a #medical checkup
-* #B형 간혐; #type BV Flue; Influenza A viruses
-* 생각했던 것 기대했던 것이 어긋날 때 #funny; it tastes funny 
-* 일반적인 이상한; #weird
-* 낯설은 이상함; #strange
-* 달라서 이상한; #Odd, #bizzare
-* √ You look like out of shape. Right, I'm feeling under the weather (너 몸이 안 좋은 것 같은데.. 맞아 몸이 영 별루야)
-* √ I'm in good shape (나 건강해)
-* √ You look like you are in great shape (너 몸 아주 좋아 보여서)
-* √ 반면, You should get in shape ----> 몸을 좀 가꾸는게 좋겠네요 라는 의미 (살을 좀 빼는게 좋겠네요 라는 의미로도 쓰임)
-* √ buff 복습 --> He was spotted on the beach looking extremely buff (그는 끝내주는 몸매를 보여 그 해변에서 단연 눈에 띄었다)
-* √ Speaking of healthy habits, you should start getting up at 6 from tomorrow (건강습관 얘기 나온김에 낼부터 아침 6시에 일어나봐)
-* 몸에 좋다 			 it's good for you it's healthy, it's good for 설명(circulation)
-* 멀쩡한; ##intact(2. 고장나지 않은)
-* #athletic, #fit, #healthy - 건강한, 탄탄한 <-> feeble - 연약한
-* 그는 멀쩡했다 			 none the worse for wear" He was no worse for wear 
-* be right as rain(#right, #rain)
-* #건강이 좋아 보이세요. 	 세심한 관리와 유지가 필요한 You seem to be as fit as a fiddle.
-* #이상무 We’re all clear
-* #fiddle; fit as a fiddle; #fiddle: 바이올린
-* 온전한; #intact; truck seems intact
-* 건강을 되찾다; #back on one's feet; #feet; my friend is back on his feet
-* 걔는 건강에 너무 집착해. 						 He’s a #health nut.(#nut)
-* 건강 조심해 #don't be going #downhill
-* #병맛; #Borderline Insanity(#Insanity) 
 
 # 병원
 * #질병	#ailment, #illness, #disease - 질병 #malady
@@ -187,6 +188,10 @@
 * 진료 받으러 왔어요 						 I;ve come to receive treatment
 * 콜레스테롤 체크했어? 					Did you have your cholesterrol checked?
 * #cholesterol-high
+
+
+## 병명
+* 난독증 장애인들을 위한 쓰기 과정' Writing courses for dyslexics. 
 * #경련 #발작; the muscle is in #spasm
 * #천신발작; #asthma attack(#attack)
 * #spasm; there's spasming; [spǽzəm]

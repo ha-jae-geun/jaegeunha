@@ -7,3 +7,7 @@
 * we're - were 발음
 
 # 슈와발음 schwa; 강세를 받지 못한 발음
+
+## 문장
+- 스티븐이 회으를 소집했는데, 뭔가 큰게 터진거 같아; Stevens called a meeting, and I think something big might be up. 
+* Stevens 공기 많이; called: 공기가 탁 트이듣이 + 입안 깁숙한 '어' 발음, and i thing something: 호흡 끊기, big: 입술 빡, might be up: 소리 자르기(숨 참긴)

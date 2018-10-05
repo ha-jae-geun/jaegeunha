@@ -1,9 +1,40 @@
-## 경제
-* 성장을 경험하다; That company has been experiencing exponentially = has grwon exponentially
-* 주민세; pay one's residence tax; collect residence tax; charge resident tax
+# 경제
+
+## 유가
+* 국제 유가가 치솟으면서 증시가 약세로 돌아섰다;  As the price of crude oil shot up, the market turned bearish. 듣기 출처:능률교육
+* 국제 유가의 고공 행진이 계속되고 있다; International oil prices continue to skyrocket. 듣기 출처:능률교육
+
+## 부동산 양극화
+* 서울은 아파트, 특히 모던한 새 아파트의 공급 부족을 겪는다; Seoul experiences a lack of supply of apartments, especially newer and modern ones 
+* 임대주택시장 분석연구; An Analysis of the Rental Housing Market 
+
+## 무역전쟁
 * 무역보복; encounter trade retaliation; cause trade retaliation; endure trade retaliation
   accept trade retaliation
 * 확대해석하다; 확대 해석하다; stretch the meaning of; bend the rules;  can be misunderstood
+* 미국이 금리를 올리고 달러화가 매일 강세를 보이는 동안 중국과 EU 등은 통화가치를 조작하고 금리를 낮췄다
+While the US raised interest rates and the dollar strengthened daily, China and the EU manipulated currency values and lowered interest rates
+* 중국의 시가 총액이 일본보다 작아졌다; China's market capitalization is smaller than Japan's.
+* 미국의 대중국 1위 수출품인 대두의 가격이 올라 중국이 브라질의 콩을 수입하게 되는데 이로 인해 콩의 가격이 매우 올라갔다 The price of soybeans, the No. 1 export item in the US, has risen, and China imports Brazilian beans, which has led to a very high price of beans
+- 무역전쟁으로 인한 중국의 손해
+1. 앵겔지수의 상승으로 서민들이 힘들어졌다; The increase in the index of the Angels made the people harder.
+2. 무역전쟁은 중국의 대내적 빈부격차 심화와 경제 발전 전략 차질을 일으켰다; 
+  Trade wars caused China's inward and widened disparity and economic development struggles
+3. 위안화의 가치가 떨어지면서 기초 통화가 될 확률도 떨어지고 전세계적으로 패권도 떨어졌다
+  As the value of the yuan declines, the probability of becoming a base currency has fallen and the hegemony has fallen globally.
+- 중국이 타격이 크지 않은 이유
+1. 미국의 수출은 중국의 GDP에서 3.6%의 지분밖에 갖지 않는다. The share of GDP is only 3.6%.
+   오히려 중국이 외부의 적으로 내부의 단합을 이루었다; Rather, China has become an internal unity of external enemies
+2. 철강 산업은 고용 창출에 도움이 안된다; The steel industry does not help job creation 
+3. 중국 관세가 소비자에게 부담이 된다; Chinese customs burden on US consumers
+4. 경제 호황과 정부 정책으로  물가 상승이 발생했다; The economy boomed and government policy caused inflation to rise.
+* 한국도 아세안등 여러 지역으로 수출 다변화를 이뤄냈기 때문에 무역전쟁에 크게 타격을 입지 않았다.
+  Korea has diversified its exports to various regions such as ASEAN, so it has not been hit hard by the trade war.
+* 미국 경제가 나빠지지 않는 한 무역 전쟁은 계속될 것이다.; Trade wars will continue unless the US economy gets worse.
+
+## 기타
+* 외환 위기 이후 부의 양극화 현상이 심화되고 있다; Since the financial crisis, the polarization of wealth has become more serious.; alleviate regional polarization
+* 담합을 통해 가격을 정하다 fix the price in collusion 
 * 수입; 수입관세를 폐지하다; abolish import duties[tariff] 
   주류 수입을 금지하다; prohibit[ban] the import[importation] of alcohol 
   소비재의 수입을 규제하다; restrict imports of consumer goods 
@@ -14,8 +45,9 @@
   수입 위스키의 관세가 인상되었다; The duty on imported whisky has been raised. 
   높은 관세는 자유무역의 큰 걸림돌이다' High tariffs are the chief obstacles to free trade. 
   정부는 수입 농산물에 대한 관세율을 인상하기로 했다; The government has decided to raise customs duties on agricultural imports
-* 담합을 통해 가격을 정하다 fix the price in collusion 
-* 서울은 아파트, 특히 모던한 새 아파트의 공급 부족을 겪는다; Seoul experiences a lack of supply of apartments, especially newer and modern ones 
+* 일부다처제를 실행하다. practice polygamy 미국식  영국식   단어장추가
+* 성장을 경험하다; That company has been experiencing exponentially = has grwon exponentially
+* 주민세; pay one's residence tax; collect residence tax; charge resident tax
 * 1. (수치들을 말하기 전에) 2018년 1분기 시장 상황을 살펴봅시다 Here's the way the market looks as of the first quarter of 2018.; Let's take a look at where the market stands as of ~
 * 2. 기록을 달성하다 Hit (reach) a record; ex) Samsung's profit hit a new record this year.
 * 3. 올해만 영업이익 최고기록을 3번이나 달성하다; Samsung’s operating profits hit three new highs in this year.

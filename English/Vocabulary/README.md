@@ -138,6 +138,13 @@
 * the day broke when i woke up; 밤이 꺠지고 낮으로 변한다
 * breaking news
 
+## charge
+* 짐을 올리는 라틴어 어원 -> 짐을 채우고, 그게 임무/책임를 다하는 느낌; 맞서 싸워라 돌격하라
+* YOu must pay the fine;
+* Could you please charge that fine to my mom?
+* Do you have IPhone charger?
+* Are you gonna charge extra
+
 ## contain
 * 억눌러 담아두는 느낌; contain excitement; contain a blaze; contain protest; contain the violence
 

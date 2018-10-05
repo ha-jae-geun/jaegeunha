@@ -1,3 +1,12 @@
+## 성공하다
+* I got it, I did it, Finally
+* 대단한 일 성공: I succeed it
+
+## [ LESSON #15 ] 영어회화 - 기초 문장 구성 - "무엇을 하기 + 어떻다"
+* It's hard/difficult/easy/convenient/comfortable to 동사
+* 잊어버리기 쉬워요; It's easy to forget; to가 '르'로 발음 되는 느낌
+* 일주일에 적어도 한두번은 운동을 하는 것이 중요하다; It's important to exercise at least once or twice a week
+
 ## 📚 영어회화 | talk, speak, say, tell 구분하기
 * 1. Say 호 : 콘서트같은데서. (다른말말고)호 라고 말해. 말하는 내용에 포커스.
 * 2. Tell me tell me  나를사랑한다고 날기다려왔다고 : 원더걸스노래죠. (딴사람말고)나한테 사랑한다고해줘. 청자에게 포커스.

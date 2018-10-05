@@ -13,6 +13,28 @@
 * 희망이 없다고 했따; we are hopeless
 * 우여곡절이 많닸다; 	There have been bumps in the road = It wasn't a smooth sailing = There have been rocky moments
 * 나한테 손 흔들고 있었어; he was waving at me
+------------
+## 무역전쟁
+* 무역보복; encounter trade retaliation; cause trade retaliation; endure trade retaliation
+  accept trade retaliation
+* 확대해석하다; 확대 해석하다; stretch the meaning of; bend the rules;  can be misunderstood
+* 미국이 금리를 올리고 달러화가 매일 강세를 보이는 동안 중국과 EU 등은 통화가치를 조작하고 금리를 낮췄다
+While the US raised interest rates and the dollar strengthened daily, China and the EU manipulated currency values and lowered interest rates
+* 중국의 시가 총액이 일본보다 작아졌다; China's market capitalization is smaller than Japan's.
+* 미국의 대중국 1위 수출품인 대두의 가격이 올라 중국이 브라질의 콩을 수입하게 되는데 이로 인해 콩의 가격이 매우 올라갔다 The price of soybeans, the No. 1 export item in the US, has risen, and China imports Brazilian beans, which has led to a very high price of beans
+- 무역전쟁으로 인한 중국의 손해
+1. 앵겔지수의 상승으로 서민들이 힘들어졌다; The increase in the index of the Angels made the people harder.
+2. 무역전쟁은 중국의 대내적 빈부격차 심화와 경제 발전 전략 차질을 일으켰다; 
+  Trade wars caused China's inward and widened disparity and economic development struggles
+3. 위안화의 가치가 떨어지면서 기초 통화가 될 확률도 떨어지고 전세계적으로 패권도 떨어졌다
+  As the value of the yuan declines, the probability of becoming a base currency has fallen and the hegemony has fallen globally.
+- 중국이 타격이 크지 않은 이유
+1. 미국의 수출은 중국의 GDP에서 3.6%의 지분밖에 갖지 않는다. The share of GDP is only 3.6%.
+   오히려 중국이 외부의 적으로 내부의 단합을 이루었다; Rather, China has become an internal unity of external enemies
+2. 철강 산업은 고용 창출에 도움이 안된다; The steel industry does not help job creation 
+3. 중국 관세가 소비자에게 부담이 된다; Chinese customs burden on US consumers
+4. 경제 호황과 정부 정책으로  물가 상승이 발생했다; The economy boomed and government policy caused inflation to rise.
+------------------------
 
 # 사전
 * https://www.urbandictionary.com/

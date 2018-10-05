@@ -29,6 +29,13 @@
 * 연차: Annual leave; 반차: Half day leave; 병가: sick leave
 
 # 문장
+* 우리는 모든 부서에서 사람들을 해고하게 될거야; We're going to be laying off people in every department
+* 나한테도 설명해줘; Fill me in
+* 아직 명백한건 없지만; Nothing hard yet, but we'll get there
+* 한번 찍히면 끝이야; One strike and you're out
+* 어림도 없어; No dice
+* 저에게 지겹도록 말했어요; Start droning on and on to me
+* 새로운 신입 사우너들이에요; These are the new recruits
 * 내일 팀과 팔로우업하겠습니다; i will follow up with the team tomorrow
 * 업무량을 감당하다; take up my workload
 * 프로젝트 마감일을 맞추기 위해서 제 휴가를 반납하기로 했어요.; I'm giving up my holidays to meet the deadline for the project.

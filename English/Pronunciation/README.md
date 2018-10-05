@@ -1,64 +1,17 @@
+## 강세
+* mistake; 뒤 강세
+* campaign; 뒤 강세
+
 # heteronym
 * heteronym 미국·영국 [ˈhetərənɪm]; 동철 이음 이의어(철자는 같으나 음과 뜻이 다른 단어). 예를 들어 ‘찢다’는 뜻의 tear와 ‘눈물’이라는 뜻의 tear
 
-## Sophie ban
-* ARIA
-* AMBASSADOR
-* CAESARS
-* MARRIOTT
-* the MGM 
-*  * 관사 the는 처음 철자의 모음 발음에 따라 /더/가 아닌 /디/로 발음이 됩니다.
-* 영어철자 A,E,I,O,U에 따라 관사 “an”을 쓰거나 “the”가 /디/로 발음되는게 아니에요.
-* RENAISSANCE 
-* RITZ CARLTON (=THE RITZ)
-* MONTE CARLO
-* VENETIAN
-* WHYNN
-* 모든 호텔 이름 앞에는 관사 “THE”를 꼭 붙여야해요. 하지만 예외적으로 호텔 “CAESARS”는 예외적으로 붙이지 않습니다.
-* CAESARS 앞에 THE를 붙이지 않는 이유는 원래 호텔이름이 CAESARS‘S PALACE라고 CAESARS‘S (사람이름의) 소유격이기 때문이예요.
-* 만약 말씀하시고 싶으시면 “the palace”라고는 할 수 있어요. PALACE라고 불리는 어떤 호텔이든간에 “the palace”라고 말할 수 있지만, 여전히 “the CAESARS”라고는 말하지 않는 답니다. 
-* 또 다른 한 가지는 사람들이 잘 모르는 유명한 호텔이 아닐 경우에는 호텔 이름 앞에 관사 “THE”를 붙이지 않아요. 왜냐하면 이 호텔 이름들은 사람들이 당연히 알고 있을꺼라고 여기는 곳들이거든요. 예를 들어 “부티끄(BOUTIQUE)”호텔이라고 사람들이 잘 모르는 작은 호텔 이름을 말할 때는 THE를 붙이지 않게 된답니다. 유명한 호텔 앞에만 붙이는 것임.
-* 
-* 4.-1. 외래어를 그대로 영어로 쓸 경우 어색하게 들리는 단어들
-*    2. 쉬운 단어들이지만 의외로 틀리게 발음하는 단어들
-*    3. 프랑스에서 유래된 외래어
-* 
-* Alarm
-* Alcohol
-* Asphalt  [ˈæsfɔːlt] 아스팔트
-* Basic  [ˈbeɪsɪk] 
-* Business / Camera / Family / Opera   ☞  묵음 
-* Cocoa  [ˈkoʊkoʊ]
-* Coke(=Coka Cola)  / Coke(=Cocaine)
-* 문맥에 따라서 Coke가 콜라를 뜻할 수도, 마약류인 코카인을 뜻할 수 있습니다.
-* Cashier  [kæˈʃɪr]
-* Effort(노력)
-* → 두 번째 “O”가 first할 때 IR부분의 발음처럼 되어야합니다.
-* Monitor   [ˈmɑːnɪtə(r)] 명/동사
-* Off / of 
-* Vinyl [ˈvaɪnl]
-* Wall
-* Want / Won’t 
-* 
-* 5.프랑스에서 유래된 외래어
-* Baguette  [bæˈɡet]
-* Buffet   [bəˈfeɪ]
-* Cafe  [kæˈfeɪ]
-* Cafeteria  [ˌkæfəˈtɪriə]  
-* Chandelier  [ˌʃændəˈlɪə(r)]
-* Colongue  * perfume은 영어지만 colongue과의 용례비교
-* ※ perfume와 colongue의 차이 : perfume은 “향수”라는 의미로 많은 분들이 알고 계시지만 
-* 사실 분명한 용례의 차이가 있답니다. 가장 큰 차이점은 남자분들이 쓰는 “향수”를 말씀하실 때는 “colongue”이라고 해야 한답니다. perfume이라고 할때는 여자분들 향수를 말할 때 써요, 때로는 여자분들이 쓰는 향수를 말할 때도 colongue이라고 할 때도 있어요. 하지만 남자분들이 쓰는 향수를 말할 때는 절대로 perfume이라고 하지 않는 답니다.
-* Garage  [ɡəˈrɑːʒ;-ˈrɑːdʒ] 
-* Genre [ˈʒɑːnrə]
-* Guinness 기네스북/ 맥주이름
-* Gourmet  [ˈˈɡʊrmeɪ] → foodie 도 같은 의미로 쓰일 수 있어요. 미식가 / 고급요리 
-* Resume  [rɪˈzuːm]동  [ˈrezəmeɪ] 명→ 
-* 동사와 명사 철자가 같고, 두 가지로 모두 쓸 수 있지만, 동사로 쓰일 때와 명사로 쓰일 때 
-* 발음과 액센트가 달라요.      이력서  / 다시시작하다 
-* Nuance [ˈ [ˈnuː-ɑːns]
-* Via   [ˈvaɪə;ˈviːə]
-* Bon Voyage [ˌbɑːn vɔɪˈɑːʒ] 여행 잘 다녀오세요 (여행을 떠나는 사람에게 하는 인사말)(거리개념)﻿
+## st
+* 츠츠
+* Distinguished guests, Ghosts; BTS 연설 발음
+
+## ed
+* 과거형 동사발음; launch; 동사 발음을 정확하게 하고 뒤에 ed를 넣는 느낌
+
 
 ## 장모음, 단모음
 * i: ee; sleep; ea: heat; ie: piecee, ei: receive; 길게 가로로 발음
@@ -525,8 +478,7 @@ shep/herd, hap/hazard, peep/hole 처럼 p와 h 사이에 발음을 갈라 f 사�
 * 'fɔ:rti ''fɔ́:r 뒤 숫자에 더 강세
 
 
-
-* #비슷한 단어
+# 비슷한 단어
 
 * #mementary; #순간적인; thrill, hesitation
 * mouméntǝs] #momentous; #중요한; decision
@@ -693,7 +645,7 @@ shep/herd, hap/hazard, peep/hole 처럼 p와 h 사이에 발음을 갈라 f 사�
 * #헷갈리는 발음
 * #alright -> #aight
 
-* #기능어
+# 기능어
 * ##at#; 소리의 높낮이라던가 길이의 차이; 사실상 소리 거의 안냄
 * #for#
 * #my#
@@ -705,7 +657,7 @@ shep/herd, hap/hazard, peep/hole 처럼 p와 h 사이에 발음을 갈라 f 사�
 * ⦁sheet: [ʃi:t] shit [ʃɪt]
 * ⦁##cock(콕)(<>##coke 코크),
 
-* 변화
+# 변화
 * ⦁#present 앞강세: 1.현재의(프레전트) 2. 선물(프레전트) 3. 뒤 강세: 수여하다(프리젠트)
 * ⦁#close: 형용사 s, 동사 z
 * ⦁##use 사용: s, 동사: z
@@ -718,7 +670,7 @@ shep/herd, hap/hazard, peep/hole 처럼 p와 h 사이에 발음을 갈라 f 사�
 * ⦁#contract [noun, adjective, verb 15–17, 21, 22 kon-trakt; verb kuh n-trakt] ; 강세 위치
 * ⦁#extract 명사: 엑스 동사: 익스
 
-* 같은 발음
+# 같은 발음
 * ⦁ascent- 올라감, 상승 assent- 찬성
 * ⦁#discreet: 신중한;[dɪ|skriːt] #discrete: 별개의 [dɪ|skriːt]
 * ⦁#serial: 연속극, #cereal: 곡물 [|sɪriəl] 
@@ -755,7 +707,7 @@ shep/herd, hap/hazard, peep/hole 처럼 p와 h 사이에 발음을 갈라 f 사�
 * ⦁#currant- (케이크 등에 넣는 알이 잔)건포도 #current- 현재의 [|kɜːrənt]
 
 
-* 다른 발음
+# 다른 발음
 * ⦁#complacent- [kəm|pleɪsnt] 현실에 안주하는 #complaisant- 선뜻 남의 말을 듣는 [kəm|pleɪzənt]
 * ⦁#flout- (법 등을 공공연히) 어기다 [flaʊt] #flaunt- 과시하다 [flɔːnt
 * ⦁#mitigate- 완화시키다 [|mɪtɪgeɪt] #militate- 작용하다 [mílətèit]
@@ -864,7 +816,7 @@ shep/herd, hap/hazard, peep/hole 처럼 p와 h 사이에 발음을 갈라 f 사�
 * ⦁#fashion #passion
 * ⦁##chef(세프) ##chief(대장)
 
-* #끝 단어
+# 끝 단어
 * ⦁##ght #right away #thought about #bought about; 바트 ght발음이 없어지거 자연스래 연음
 * ⦁##oa #load(로우드; 끌어주기) #road(로드)
 * ⦁##pet ##ket ##let ##net 잇/읻으로 끝남; #jacket, #market, #pocket, #ticket, #bucket, #budget
@@ -880,7 +832,7 @@ shep/herd, hap/hazard, peep/hole 처럼 p와 h 사이에 발음을 갈라 f 사�
 * ⦁#aw #claw #saw #law; 러 [klɔ:]
 * ⦁#eel #feel #wheel #meal #peel #steal
 
-* #기타
+# 기타
 * Salmon; 새먼; l 묵음
 * almond; l 묵음
 * mature; 머추럴; a가 어 사운드
@@ -1017,3 +969,62 @@ shep/herd, hap/hazard, peep/hole 처럼 p와 h 사이에 발음을 갈라 f 사�
 * ⦁#commision , kə‘mɪʃn, 위원회 : 1음절 강세가 아니라 2음절 강세이다. 혼동이 많은 단어다.
 * ⦁#charged , tʃ'ɑ́:rdƷd : 1음절 강세는 잘하나 d3에서 입술을 제대로 모으고 d도 약하게라도 발음
 * ⦁#rebel: 동사 re'bel 명사: rɪ'bel
+
+## Sophie ban
+* ARIA
+* AMBASSADOR
+* CAESARS
+* MARRIOTT
+* the MGM 
+*  * 관사 the는 처음 철자의 모음 발음에 따라 /더/가 아닌 /디/로 발음이 됩니다.
+* 영어철자 A,E,I,O,U에 따라 관사 “an”을 쓰거나 “the”가 /디/로 발음되는게 아니에요.
+* RENAISSANCE 
+* RITZ CARLTON (=THE RITZ)
+* MONTE CARLO
+* VENETIAN
+* WHYNN
+* 모든 호텔 이름 앞에는 관사 “THE”를 꼭 붙여야해요. 하지만 예외적으로 호텔 “CAESARS”는 예외적으로 붙이지 않습니다.
+* CAESARS 앞에 THE를 붙이지 않는 이유는 원래 호텔이름이 CAESARS‘S PALACE라고 CAESARS‘S (사람이름의) 소유격이기 때문이예요.
+* 만약 말씀하시고 싶으시면 “the palace”라고는 할 수 있어요. PALACE라고 불리는 어떤 호텔이든간에 “the palace”라고 말할 수 있지만, 여전히 “the CAESARS”라고는 말하지 않는 답니다. 
+* 또 다른 한 가지는 사람들이 잘 모르는 유명한 호텔이 아닐 경우에는 호텔 이름 앞에 관사 “THE”를 붙이지 않아요. 왜냐하면 이 호텔 이름들은 사람들이 당연히 알고 있을꺼라고 여기는 곳들이거든요. 예를 들어 “부티끄(BOUTIQUE)”호텔이라고 사람들이 잘 모르는 작은 호텔 이름을 말할 때는 THE를 붙이지 않게 된답니다. 유명한 호텔 앞에만 붙이는 것임.
+* 
+* 4.-1. 외래어를 그대로 영어로 쓸 경우 어색하게 들리는 단어들
+*    2. 쉬운 단어들이지만 의외로 틀리게 발음하는 단어들
+*    3. 프랑스에서 유래된 외래어
+* 
+* Alarm
+* Alcohol
+* Asphalt  [ˈæsfɔːlt] 아스팔트
+* Basic  [ˈbeɪsɪk] 
+* Business / Camera / Family / Opera   ☞  묵음 
+* Cocoa  [ˈkoʊkoʊ]
+* Coke(=Coka Cola)  / Coke(=Cocaine)
+* 문맥에 따라서 Coke가 콜라를 뜻할 수도, 마약류인 코카인을 뜻할 수 있습니다.
+* Cashier  [kæˈʃɪr]
+* Effort(노력)
+* → 두 번째 “O”가 first할 때 IR부분의 발음처럼 되어야합니다.
+* Monitor   [ˈmɑːnɪtə(r)] 명/동사
+* Off / of 
+* Vinyl [ˈvaɪnl]
+* Wall
+* Want / Won’t 
+* 
+* 5.프랑스에서 유래된 외래어
+* Baguette  [bæˈɡet]
+* Buffet   [bəˈfeɪ]
+* Cafe  [kæˈfeɪ]
+* Cafeteria  [ˌkæfəˈtɪriə]  
+* Chandelier  [ˌʃændəˈlɪə(r)]
+* Colongue  * perfume은 영어지만 colongue과의 용례비교
+* ※ perfume와 colongue의 차이 : perfume은 “향수”라는 의미로 많은 분들이 알고 계시지만 
+* 사실 분명한 용례의 차이가 있답니다. 가장 큰 차이점은 남자분들이 쓰는 “향수”를 말씀하실 때는 “colongue”이라고 해야 한답니다. perfume이라고 할때는 여자분들 향수를 말할 때 써요, 때로는 여자분들이 쓰는 향수를 말할 때도 colongue이라고 할 때도 있어요. 하지만 남자분들이 쓰는 향수를 말할 때는 절대로 perfume이라고 하지 않는 답니다.
+* Garage  [ɡəˈrɑːʒ;-ˈrɑːdʒ] 
+* Genre [ˈʒɑːnrə]
+* Guinness 기네스북/ 맥주이름
+* Gourmet  [ˈˈɡʊrmeɪ] → foodie 도 같은 의미로 쓰일 수 있어요. 미식가 / 고급요리 
+* Resume  [rɪˈzuːm]동  [ˈrezəmeɪ] 명→ 
+* 동사와 명사 철자가 같고, 두 가지로 모두 쓸 수 있지만, 동사로 쓰일 때와 명사로 쓰일 때 
+* 발음과 액센트가 달라요.      이력서  / 다시시작하다 
+* Nuance [ˈ [ˈnuː-ɑːns]
+* Via   [ˈvaɪə;ˈviːə]
+* Bon Voyage [ˌbɑːn vɔɪˈɑːʒ] 여행 잘 다녀오세요 (여행을 떠나는 사람에게 하는 인사말)(거리개념)﻿
