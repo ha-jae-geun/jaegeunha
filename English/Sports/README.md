@@ -1,3 +1,11 @@
+# Oylmpics
+## 1988
+* 호돌이, 굴렁쇠, 손기정
+* 여자 핸드볼에서 구기 종목 최초의 금메달을 땄다  won the gold medal in the women's handball. 
+* 양영자, 현정화가 만리장성을 뛰어넘은 여자 탁구 복식을 우승했다. the women's table tennis doubles which surpassed the Great Wall.
+* 1987년부터 서머타임으로 서울 올림픽 해외중계 등의 이유로 한 시간씩 시간을 당겨 생활했다 Since 1987, I have been living in summer time for one hour, due to the overseas broadcasting of the Seoul Olympics.
+* 1988 올림픽은 가장 많은 국가인 160개국이 참가한 행사였다. The 1988 Olympics was the event where 160 nations, the most numerous, participated.
+
 * 유력 일간지의 기자 a reporter[journalist] at an influential daily (paper)
 * 패배 직전에서 승리하다; we #snatch victory from the jawsof defeat
 * 상황이 역전되다; the shoe is on other foot, #역전 시키다; #Turn the tables

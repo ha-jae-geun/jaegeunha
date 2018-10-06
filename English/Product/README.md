@@ -1,3 +1,8 @@
+## 유명 브랜드
+* 에르메스 Hermes
+* 샤넬
+
+## 외국 브랜드
 * Kool-Aid나 Root Beer; 뻔한 음료수
 * Dickies 브랜드: CEO 이름에서 따옴
 * Glade; 방향제

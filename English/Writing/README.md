@@ -1,3 +1,7 @@
+# 소설
+## 사랑 받는 주인공의 3가지 조건;  Three conditions of the heroine being loved;
+* 충분한 고통, 분명한 목표, 적어도 한 번의 성공할 기회가 있어야 한다. There must be sufficient suffering, clear goals, and at least one chance to succeed.
+
 # 글 구조
 ## 문서 구조 
 * Frontmatter – Bodymatter – Backmatter [전문 – 본문 – (책의) 권말의 부속물]

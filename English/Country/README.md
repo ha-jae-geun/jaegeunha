@@ -347,3 +347,25 @@
 
 # 프랑스어
 * 잘먹겠습니다 							 #Bon appetit(프랑스어)
+
+
+# 이탈리아
+## 문화
+* 어릴때부터 옷을 직접 고르게 한다. 조건은 상의, 하의의 색깔이 달라야 한다는 것이다.
+  Italian children have their own clothes to choose from when they are young. The condition is that the colors of the top and bottom should be different.
+
+## 손 제스처
+* 대화에 손 제스처가 아주 많이 쓰인다. Hand gestures are very common in conversations.
+
+## Florence
+* 피렌체는 갈릴레오 갈릴레이가 지동설을 주장한 도시이다. Florence is a city where Galileo Galilei insisted on a parable.
+
+### Renaissance
+* 르네상스 시기 각종 길드가 성장한 사회적 배경이 있다 There are social backgrounds where various guilds grow.
+* 또 상거래가 활발하였다 Commerce is active.
+* 르네상스는 강력하고 영향력 있는 메디치 가문에 의해 이끌어졌습니다. The Renaissance was led by the powerful and influential Medici family. 
+* 메디치가는 금융업을 하였다 Medici was in financial business.
+
+### 두오모 성당 Milan Cathedral
+* 두오모 성당은 지붕을 두개 지어 무게를 줄였다. The Duomo Cathedral has two roofs to reduce weight. [kəˈθiːdrəl]
+* 또 벽돌로 비계를 만들어 나무를 낭비하지 않았다 did not waste trees by making scaffolding with bricks.

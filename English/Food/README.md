@@ -1,0 +1,48 @@
+# 이탈리아
+* Antipasta: 안티 파스토; 전채요리로 주로 찬 음식이다
+* Primo Piatto: 프리모 피아토: 전채 후 나오는 첫번째 요리로 주로 밀가루를 이용한 따뜻한 음식을 먹는다.
+* Second Piatto: 세컨드 피아토: 두 번쨰 요리이자 메인 요리; 소고기 등의 육류나 연어 등 생선 요리가 나온다.
+* Dolce: 후식
+* 티본 스테이크: 소의 안심과 등심 사이 T자 모양의 뼈부분 부위를 구워 만든 스테이크로 피렌체의 대표 음식
+* 이탈리아인들에게 피자는 저녁 요리이다. 이탈리아 사람들은 사람이 없는 점심에 본격적으로 장작으로 화덕을 데우지 않기 때문이다. The Italians do not warm up the firewood with firewood in earnest for lunch without a person.
+
+# 한국
+## 전라도 음식
+* 유홍즌 박사님의 '나의 문화유산답사기' 덕이 크다.
+* 1960년대 산업화가 진행되면서, 농업을 유지해야 되는 지역을 전라도 지역으로 정했다. As industrialization progressed in the 1960s, Jeolla province decided to maintain agriculture.
+* 오리엔탈리즘과 같은 맥락이다. It is in the same context as orientalism.
+* 전주에는 쌀이 나는 김제 평야가 있고, 임실, 진안등의 산지도 있고, 서쪽으로 군산 바다가 위치해 있다.
+  In Jeonju, there is Kimje plains where rice grows, and there are mountains such as Imsil and Jinan, and the Gunsan sea is located to the west.
+
+## 냉면
+* 평양냉면은 메밀면으로 하고 함흥냉면은 감자전분으로 만든다. Pyongyang noodles are made of buckwheat noodles and Hamheung noodles are made of potatoes.
+* 원래는 나무국수틀로 면을 내려야 해서 메밀면으로만 냉면을 만들었지만 쇠로 만든 냉면 기계가 만들어진 후, 감자 전분으로 냉면을 만들 수 있게 되었다. Originally, I had to turn down the side with a wooden noodle so I made cold noodles only with buckwheat noodles, but after making a cold noodle machine, I could make cold noodles with potato starch. [ˈbʌkwiːt] [stɑːrtʃ]
+* 1920년대 일본이 개마고원에 대규모 감자밭을 조성한다. In the 1920s, Japan created a large potato field on the Kama Plateau. 그래서 함흥면에서 감자 전분으로 국수를 만들었다. 북한에서는 농마국수라고 부른다(녹말)
+
+## 빈대떡
+* 빈대라는 말은 녹두의 순한국말이다. The word "빈대" is pure Korean of mung bean "녹두".
+
+## 국밥
+* 국밥은 싸게 많이 팔 수 있는 음식이다. 국밥 is a food that can be sold cheaply.
+* 힘든 시기에, 없는 반찬에 따뜻한 밥을 먹기 위해서 국밥을 많이 먹었다. At a difficult time, we ate a lot of 국밥 to eat hot rice without side dish. - 세계대전 당시 히틀러가 권장한 아인토프(Eintopf; Ein: 한 topf: 냄비)
+
+## 삼겹살
+* 대규모 양돈산업은 일본에 수출하기 위해서 만들어진 것이다. The large-scale swine industry was created to export to Japan.
+* 1970, 1980년대 일본은 기록적인 경제 호황기를 맞으면서 고기 소비가 급속도로 늘었다. In the 1970s and 1980s, Japan experienced a record economic boom and rapidly increased its meat consumption.
+* 양돈산업의 문제점은 배설물 처리이다. The issue of the swine industry is fecal treatment.
+* 일본에 수출 후 한국에 남은 것이 삼겹살, 머리, 족발, 내장이다. What remains in Korea after exporting to Japan is pork belly, head, paws, and viscera.
+* 삼겹살은 기름이 많아 햄과 소시지에 부적합하여 자연스레 구이용으로 보급되기 시작했을 것으로 추측된다.
+  It is presumed that the pork belly was not suitable for ham and sausage due to the large amount of oil and it was started to be popularly used for grilling.
+
+## 장어
+* 장어 중에는 민물장어가 제일 비싸다 Among the eels, freshwater eel is the most expensive.
+* 뱀장어는 양식이 안된다; We can't grow the freshwater eels
+* 뱀장어는 연어와 반대로 알을 낳을 때 바다로 간다 Eels go to the sea when laying eggs as opposed to salmon
+* 실뱀장어는 작은 몸으로 아무것도 먹지 않고 6개월을 헤엄쳐 온다. Eel eel is a small body that swims for six months without eating anything.
+* 산란지가 심해에 있다는 것 외에 나머지는 아무도 모른다. No one knows the rest except that the spawning ground is in the deep sea.
+
+# 독일
+## 아인토프
+* 세계대전 당시 히틀러가 권장한 아인토프(Eintopf; Ein: 한 topf: 냄비)
+* 전날 저녁의 남는 재료로 만든 음식이다. It is a food made with the remaining ingredients of the evening before.
+* 음식 중 싼 메뉴이다; It is the cheapest menus in Germany

@@ -1,3 +1,5 @@
+* 체계적으로 정리하다; organize the resources systematically
+* 수수료를 받다; receive a 20-percent commision on one's sale; How much do you charge for
 * 웃음참기 챌린지를 실패했나요? DId she fail the "tr not to laugh challenge"?
 * 하단의 덧글로 알려주세요; Let us know in the comments down below
 * 더 분발해야 해요; YOu need to up your game
