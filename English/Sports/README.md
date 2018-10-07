@@ -194,56 +194,6 @@
 * 동점골을 넣엇어; scored an equalizer
 * ##축구
 
-# 야구
-* 커브를 주무기로 하는 투수들은 릴리스 포인트가 높다; Pitchers who use curve as their primary weapon have a high release point
-* DL에 올라갔으면 트레이드가 안된다; If you go up to the DL list, the trade will not work.
-* Otani gained weight to 100 kg
-* 릴리스 포인트가 높으면 타자들의 스윙은 더 위로 올려쳐야 하며 볼을 보는 자세에서도 고개를 더 들어야 한다.; If the release point is high, the swing of the batter should be raised, and the head should be lifted even in the position of watching the ball.
-* 슬라이더를 잘 던지는 투수들은 공을 최대한 앞으로 끌고 나온다; The pitchers who throw the slider well throw out the ball as far as possible.
-* 세로와 가로의 움직임이 잘 조화된 류현진은 커브와 슬라이더 모두 강하다 Ryu Hyun-jin is well-coordinated with both vertical and horizontal movements, and both curves and sliders are strong
-* twoseam drops to 4 direcon; two seam is faster than sinker; sinker fall in 5 clock direction(); shoot: 3'o clock
-* 3회초 3회말이다; it’s the #bottom / #top of the third
-* 주자가 1루에 있다; the runner’s on first;  #만루; the bases are loaded
-* #송진; #resin#
-* #대기 타석 #waiting cycle = on deck circle(#deck)
-* #복불복 it's #hit or miss
-* #선구안 좋은데? 									 good eye
-* 좋아 잘하고 있어 							 good swing, nice cut 
-* #넘어간다 #홈런 								going, going home run!
-* 4#타수 3#안타를 쳤다; he went three for four
-* 2타석 2연타; #two for two
-* 홈런 기록을 늘리다; #streches home run #streak to 5 games; #연속
-* 1.15 #방어율 기록; have #posted a 1.17 ERA
-* #play the ball; 다루다; I know how to play the ball; play baseball; 모두에게 익숙
-* #touch base; #접촉하다, #연락하다
-* one-base hit 미국·영국 [-bèis-] (야구) 싱글 히트, 단타
-* extra-base hit 미국·영국 [ékstrəbéis-] (야구) 장타 ((2루타 이상의 안타))
-* 타석에서의 절제력						 [dísǝplin] plate discipline
-* 그(하퍼)는 전력을 다하는 선수로 부상이 잦은 것으로 유명하다.
-* |dɪŋ He's a pedal-to-the-metal player who has been known to get dinged up
-* 클리블랜드 인디언스가 에드윈 엔카나시온 영입에 전력을 다하다
-* Cleveland Indians double down with Edwin Encarnacion...“
-* 다 헛수고야 				 	 I did it all in vain. | steve is on a fool’s errand 
-* what a waste of time
-* 헛수고하는거야							 You’re beating a dead horse
-* #snipe hunt; devote resources to another snipe hunt
-* 3년 동안 했던 일들이 다 물거품이 됐어	 #go down 3 years' worth of work went down the drain
-* #전열을 가다듬다 Give this team some time to find its bearings before you completely write
-* them off 	based on a microscopic sample size.
-* 1) 류현진 선수가 약 2년 만에 마운드에 복귀했습니다! Ryu has returned to the mound after a two-year absence.
-* 2) 샌디에이고를 상대로 선발 등판 했는데요; He started against the San Diego Padres.
-* 3) 류현진 여태껏 샌디에이고에 상당히 강했습니다.; He has been pretty strong against the Padres
-* 4) 하지만 오늘은 4.2이닝 6실점하면서 다소 부진한 모습을 보였습니다..; But, today he underperformed, allowing six earned runs in 4.2 innings.
-* earned run(ER): 자책점, 투수가 책임져야 하는 점수 
-* 5) 다음 등판 때는 더 나아진 모습을 보여주길 기대합니다. Hopefully, he will pitch better in the next game.
-* 빠른공은 높게; 슬라이더는 낮게; Fast ball is slow and slide ball is low
-
-# 농구 
-* 농구 한판 하자; let's shoot some hoops; #hoop
-* get the hoops
-* #몸 풀기; 몸푸는 중이야; i'm warming up <> i'm cooling down
-* #vinsanity; The riots and chaos that ensues following Vince Carter posterizing someone
-* #코비 브라이언트; #81; 코비브라이언트가 토론토 랩터스와의 경기에서 득점
 
 # 기타 
 * 강타를 가하다. 								 throw a haymaker 
@@ -330,12 +280,10 @@
 * 코비에게 뺏을 수 있어요, 컴온! 수비를 해 봅시다!	You can strip him, Come on! Play defense!
 * strɪp: (옷, 과일 껍질) 벗기다.
 * 그 슛을 성공 시킵니다	and you knock that shot down 
-
 * 그가 슛을 쏜 뒤에 슛 자세 그대로 자리에 멈춰 서있을 때,	Well, when he stood there and just held the gooseneck 팔로우 스루
 * 소동, 화려한 장면, 교란 #작전 	Razzle and Dazzle 
 * 작전 계획	#game plan
 * 오! 커리가 슛을 성공 시킵니다!	Oh! He puts it in!
-	
 * 커리가 수비수를 제치고 비하인드 백 드리블을 합니다!	Curry splits the defense, behind the back!
 * 실력 발휘 좀 해봐	heat it up
 * 조지가 파울을 유도해봅니다. 그래도 득점에는 성공합니다.	George looking for the contact, made the bucket anyway. 
