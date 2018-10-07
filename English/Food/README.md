@@ -7,6 +7,25 @@
 * 이탈리아인들에게 피자는 저녁 요리이다. 이탈리아 사람들은 사람이 없는 점심에 본격적으로 장작으로 화덕을 데우지 않기 때문이다. The Italians do not warm up the firewood with firewood in earnest for lunch without a person.
 
 # 한국
+## 수박
+* 타원형보다는 동그라미에 가까운 수박이 더 맛있다.
+* A watermelon that is closer to the circle than the oval is more delicious.
+* 평균 정도의 크기에 같은 크기여도 더 무거운 것
+* The average size is the same size, but the heaviest
+* 수박 바닥: 노란색이 진하거나 주황색을 띄는 것이 당도 높은 수박
+* Watermelon Bottom: Yellow or dark orange with high sugar content
+* 수박 바닥 부분에 있는 갈색 선이 많을수록 수박이 달다는 것을 의미(벌이 꽃을 수분시킨 횟수)
+* The more brown lines on the bottom of the watermelon means the watermelon is sweet (the number of times the bee has pollinated the flower)
+* 꼭지가 건조하고 곡선 형태로 둥글게 말려있는 것.
+* The tip is dry, curled and rounded.
+
+
+## 유제품
+* 유제품 고르는 법 How to Choose Dairy Products
+ㆍ우유는 국산 100% 유제품은 국내산 원유이고 전체 원료중 50%이상이 우유여야 받을 수 있는 K밀크
+  Milk is domestic 100% milk is domestic milk and more than 50% of total raw milk is milk.
+* 수입산 원유는 분말의 형태나 농축된 형태로 들어와야 하는데 이렇게 하게 되면 우유에 들어있는 단백질이나 유지방의 성분이 변화 될 수가 있다. Imported crude oil should come in powder form or concentrated form, which can change the protein in milk or the components of milk fat.
+
 ## 전라도 음식
 * 유홍즌 박사님의 '나의 문화유산답사기' 덕이 크다.
 * 1960년대 산업화가 진행되면서, 농업을 유지해야 되는 지역을 전라도 지역으로 정했다. As industrialization progressed in the 1960s, Jeolla province decided to maintain agriculture.

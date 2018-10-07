@@ -1,3 +1,7 @@
+# 핸드폰
+* 핸드폰이 초기화도기 전까지 시간이 모자라; We're running out of time before the phone gets wiped
+* 접근 거부; Access denied
+
 # 사진
  * * #tbt, #love, #nofilter: 무보정, #blackandwhite: 흑백사진
  * #foodporn #insafood #instaasm

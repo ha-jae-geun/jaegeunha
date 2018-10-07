@@ -1,3 +1,22 @@
+# 정치 그룹
+## 피그스 [ Portugal, Italy, Ireland, Greece, Spain ] 
+* 2008년 세계 금융위기 이후 심각한 재정위기를 겪고 있는 포르투갈, 이탈리아, 아일랜드, 그리스, 스페인의 첫 글자를 따서 만든 조어
+* * Created after the first letters of Portugal, Italy, Ireland, Greece and Spain suffering from severe financial crises since the global financial crisis in 2008
+
+## 믹트 
+* 멕시코(Mexico), 인도네시아(Indonesia), 한국(Korea), 터키(Turkey) 등 4개국의 영문 첫 글자를 따서 만든 신조어. 골드만삭스자산운용 회장인 짐 오닐이 넥스트 일레븐 국가 중 2011년 경제 성장 가능성이 높은 성장국가로 이들 4개국을 꼽으면서 유명해진 말이다. 믹트는 2011년 경제 성장세에 힘입어 전 세계 국내총생산(GDP)의 1% 이상을 차지할 것으로 예상된다.
+* Mexico, Mexico, Indonesia, Korea, Turkey, and other countries. Goldman Sachs Asset Management Chairman Jim O'Neill is one of the next-eleven nations to be named as one of the four growing economies that are likely to grow in 2011. Mix is expected to account for more than 1% of the world's gross domestic product (GDP), driven by economic growth in 2011.
+
+## 브릭스 [ BRICS ] 
+* 2000년대를 전후해 빠른 경제성장을 거듭하고 있는브라질·러시아·인도·중국·남아프리카공화국의 신흥경제 5국을 일컫는 경제용어.
+* An economic term referring to the emerging economies of Brazil, Russia, India, China, and South Africa, which have been experiencing rapid economic growth since the early 2000s.
+
+## 넥스트 일레븐
+* 브릭스에 이어 성장 잠재력과 투자 전망이 좋은 나라로 평가되는 11개의 신흥 경제국을 가리키는 말이다. 브릭스(BRICs; 브라질·러시아·인도·중국 등 신흥경제 4국)의 뒤를 이어 세계경제를 이끌어갈 11개의 국가들이라는 뜻에서 넥스트 일레븐(Next Eleven)이라는 명칭이 붙었다. N-11이라고도 표기한다.
+* It refers to 11 emerging economies that are ranked as a country with good growth potential and investment prospects following Briggs. Next Eleven is the name of 11 countries that will lead the global economy following BRICs (BRICs: Brazil, Russia, India, China, and 4 emerging economies). It is also referred to as N-11.
+
+
+
 # 나라
 * 섬#; ~ is #composed of 3000 islands
 * Haitian [héiʃən,-tiən]; 아이티인
@@ -16,6 +35,27 @@
 # 지리 
 * 위쪽 #지방 #upstate; she's scheduled to be moved to a facility upstate
 * #지역 #지방; #Province; gangwon province
+
+# 룩셈부르크
+* 아이폰 앱 결제 회사 룩셈부르크에 있음 이유: 세금 낮고 금융업 발달
+* 룩셈부르크의 생존 원인
+* ㆍ대형 서비스 위주의 금융 산업 (종합 금융 센터, 로컬 금융 센터)
+* ㆍ압도적인 대외순자산 기반의 신뢰도 (서비스 산업에 일찍 뛰어 들었기 때문에 고객이 많음)
+* IPhone app payment company in Luxembourg Reason: tax low and financial development
+* The cause of survival in Luxembourg
+* ㆍ Large-scale service focused financial industry (comprehensive financial center, local financial center)
+* ㆍ Reliability based on overwhelming foreign net assets (large number of customers due to early entry into the service industry)
+
+# 케냐
+## 케냐 마라톤 잘하는 이유 Kenya marathon good reasons
+* 배경
+* ㆍ상당히 먼 거리의 등ㆍ하굣길을 뛰어다닌 경험이 있다. ※맨발로 뛰어다니기 때문에 자연스레 아품을 줄이기 위해 뛰꿈치보다 발끝이 먼저 땅에 닿게 되는데 이것으로 가벼운 발걸음을 하고 부상이 적다.
+* There is an experience of running through the back and forth of a fairly long distance. ※ Because it runs with barefoot, the toe first touches the ground more than the leaping dream in order to reduce the natura naturally, and it is light foot and less injury.
+
+## 칼라진족
+* ㆍ칼레진 부족의 근육이 일반인들보다 젖산을 느리게 생간하기 때문에 10% 더 달림 다리는 길되 종아리가 가늘어 80%의 산소 소비량 절약 가능
+* 10% more because the muscles of the tribe are slower than lactose
+Legs are long but calf is thin, saving 80% of oxygen consumption
 
 # 캐나다 (영어+프랑스어)
 
