@@ -69,6 +69,7 @@
 * 머핀 만들 때 #황금비율 어떻게 돼요?			 What's the golden ratio to bake muffins?
 * 한달 치 기름양을 다 먹었어 					I’ve had my month’ supply of oil
 * #별미 지역의 별미들						 local delicacies예문 발음듣기
+* 유당 분해가 안됐어; It turns out i was lactose intolerant
 * 미리 #조리가 다 되어 나온 	 #ready-made food = #ready meal = #ready cooked meals
 --------------------------------------------------------------------------------------------------------------------
 * 「과일」 #과일 #과즙 fruit juice #juiciness

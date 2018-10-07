@@ -1,6 +1,9 @@
 ## 유명 브랜드
 * 에르메스 Hermes
 * 샤넬
+* Supreme; 수'프림
+* Costco; t 묵음; 
+* Diesel; 디즐
 
 ## 외국 브랜드
 * Kool-Aid나 Root Beer; 뻔한 음료수

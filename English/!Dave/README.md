@@ -1,3 +1,12 @@
+* 그 여자 완전 쩔어, 만점이야; She's a dime(10원짜리
+* 없어요; Nada; nothing
+* 승부욕이 강해요; She's so competitive
+* 넥타이하고 있어; I'm tying my tie
+* 연기를 너무 많이 마셨어; He got smoke inhalation
+* 훨씬 이전에; Way earlier = a lot earlier
+* 물건을 잘 떨어뜨려요; i'm a butterfingers
+* 그 사람 입장이 되어봐; Put yourself in somebody's shoes/place
+* 낚시에 당했지; I was a sucker for the clickbait
 * 나라면 ~라 하겠어; i'd say ~
 * 큰 역할을 할거야; this is gonna do a whole lot of job for ~
 * 장비 리스트에 들어야; That should be on your list <> off your list

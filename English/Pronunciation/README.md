@@ -867,6 +867,7 @@ shep/herd, hap/hazard, peep/hole 처럼 p와 h 사이에 발음을 갈라 f 사�
 * ⦁#and it was 애닏워
 * ⦁#towel 타올
 * ⦁#alright 어울롸잇
+* missile 미국식 [ˈmɪsl]  영국식 [ˈmɪsaɪl] 
 * ⦁#completely (커엄플릳()리)
 * ⦁#behind 바하인드
 * ⦁data 데에라

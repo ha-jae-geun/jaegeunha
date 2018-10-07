@@ -1,4 +1,12 @@
+* 무신경하게 군거 아니야; i don't mean to be insensitive
+* 어떻게 안 무너지고 있는거야; How is she not cracking up there?
+* 또 회의가 있대. 갑작스럽긴 하지만 어쩔 수 없잖아. Another conference. Short notice, but, you know, duty calls. 의무의 부름에 응하다. answer the call of duty 미국식  영국식   단어장추가
 * 체계적으로 정리하다; organize the resources systematically
+* 마스크팩하다; he uses a facial mask everynight
+* nostalgic memories; nostalgic 미국식  영국식   단어장추가  [nəˈs-;nɑːˈs-]  영국식 [nɒˈstældʒə]
+* 먼 곳에서 익숙한 얼굴을 봤습니다; From a far distance, i saw a familiar face.
+* 거대한 조각상' a colossal statue; [kəˈlɑːsl
+* 눈 좀 붙여요; get some rest
 * 수수료를 받다; receive a 20-percent commision on one's sale; How much do you charge for
 * 웃음참기 챌린지를 실패했나요? DId she fail the "tr not to laugh challenge"?
 * 하단의 덧글로 알려주세요; Let us know in the comments down below

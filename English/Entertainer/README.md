@@ -6,6 +6,7 @@
 # 영화
 * 개봉일이에요; it's the premiere for ~
 * 장편 영화; feature film
+* 좋은 영화에요; Such a good movie
 
 # Entertainment
 * #감식가: #connoisseur[|kɑ:nə|s3:r;-|sʊr] 

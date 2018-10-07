@@ -1,4 +1,5 @@
 # 대학
+* 학점이 다가 아니야; Grades are not everything(grade: 학점, 점수)
 * 4~5교시 사이; it was middle of forth and fifth period
 * 남녀 공항; coed, co-educational
 * ~과; Department of korean language/philosophy

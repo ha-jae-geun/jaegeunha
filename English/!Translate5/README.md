@@ -1,3 +1,14 @@
+## "원점으로 돌아가다", "처음부터 다 다시 하다", "전체 과정을 다시 거치다" - 영어회화 [ 유용한 영어표현 ]
+* 다시 원점으로 돌아왔어; i'm (right) back where i started
+* 다시 원점으로 돌아가고 싶지 않아; i don't want to be back where i started
+  i dont want to go back to where i started; 돌아간다는 느낌 살리면 be->go
+* 처음부터 다시 하고 싶지 않아; I don't want to do this all over again
+* 잘못하면, 전체 과정을 다시 거쳐야해; If we're not careful/If something goes wrong, we might have to go through the whole thing/entire process again
+
+## [ LESSON #16 ] something / somewhere / someone - 영어회화 기초 [라이브아카데미 토들러]
+* 나 어디 좀 가야돼; I have to go somewhere
+* 나 어디 좀 조용한 데 가고싶어; I want to go somewhere quiet
+
 ## ~계의 ~다
 * A is to B what C is to D; It is to TVs what the Porsche was to cars
 
