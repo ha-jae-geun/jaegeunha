@@ -42,6 +42,8 @@
 * 새콤달콤하다; it's sweet and sour
 
 # Cooking
+* 달걀을 1분간 휘저으세요; Beat the eggs/cream until fluffy
+* 반죽을 치대세요; Knead the dough until smooth; 10 times  [niːd]  [doʊ]
 * 요리계의 두 거장이 정면으로 맞섭니다; Two culinary juggernauts go head to head juggernaut 미국식 [-ɡərn-]  영국식 [ˈdʒʌɡənɔːt]
 * #오늘의 #메뉴 today’s special' / what's the #speciality(#main menu) / the #signature menu is
 * ##menu; #메뉴판 -> dishes/these  

@@ -1,4 +1,6 @@
 # 우체국	
+* 모든 상품을 받았으나 A가 오지 않았습니다; i have received everything but A
+* 택배를 시키다; i ordered ~ online / on the internet
 * 제 시간에 배달이 안됐어요; it didn't get deliverered in time\
 * express mail 특급편지, regular mail 일반편지, overnight mail 익일 배달 편지, package/parcel 소포,
 * courier service 택배서비스, postage 우편요금, stamp 우표

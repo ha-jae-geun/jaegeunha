@@ -26,6 +26,8 @@
 * ---------------------------------------------------------------------------------------------------
 
 # 가족
+* '증조부모', '3대조부모' 는 'great' 를 앞에 써서"great-grandparents" 라고 하시면 된답니다. 동일한 방법으로'증조할머니'는 "great-grandmother"'증조할아버지'는 "great-grandfather" 가 되겠죠? :) 참고로 중간에 '작대기'라고 부르는 "하이픈(hyphen)" 을 넣는 것, 잊지 마세요!
+* '증손주'는 "great-grandchildren" '증손녀'는 "great-granddaughter" '증손자'는 "great-grandson"
 * 이 분은 제 처남입니다.; This is my brother-in-law.
 * 처가, 시댁;"my in-laws"
 ----------------

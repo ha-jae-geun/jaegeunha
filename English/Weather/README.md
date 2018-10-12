@@ -172,6 +172,7 @@
 * #rake up; rake it up; | 돈을 긁어 모으다 = #rake in | 
 * 나 #가을탄다. 					 1sentɪ2mentl I got sentimental in the fall.
 * 나 #가을타니까 건드리지 마 				 I'm so sensitive that don't provoke me.
+  i think i get sentimental in fall
 * #가을 #단풍
 --------------------------------------------------------------------------------------------------------------------
 * #흐린, #탁한; #murky; = #dismal = #dark = #cloudy

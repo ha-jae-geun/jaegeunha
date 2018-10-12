@@ -15,7 +15,10 @@
 * !: 'exclamation' 과 'mark' 혹은 'point' 와 함께 사용하면 느낌표 (exclamation mark)
 * _ 밑줄'이여서 'underline' 이라고  불러야 할 것 같이 생긴 '_' 이 아이는 사실 'underscore' 라고 부른답니다!
 * /: 요즘은 한국에서도 '슬래쉬' 라고 많이들 하시는 '나누기 표시' 영어로 'slash' 라고 한답니다.
-* 달러 표시' 와 '퍼센트 표시'는 '표시' 대신에 'sign' 을 사용하셔서각 각 'dollar sign', 'percent sign' 이라고 하시면 되셔요! :)
+* 달러 표시' 와 '퍼센트 표시'는 '표시' 대신에 'sign' 을 사용하셔서각 각 'dollar sign', 'percent sign' 이라고 하시면 되셔요! :) 
+* ^: "caret" [kaer-it], 'hôtel' (hostel) 같이 자음이 빠졌거나 강세를 나타내기 위해 사용하는 등 (이렇게 쓰일 때는 "caret" 대신 "circumflex" 모자' 같이 보여서 "hat" '위로 가는 화살표'처럼 보여서 "up arrow" 단축키 표현시 '컨트롤' 나타낼 때 쓰여서 "control" 이라고도 한다는 거
+* []: "square bracket" 이라고도 한답니다! [ 는 "left bracket" ] 는 "right bracket"
+* '" 작은따옴표'  '  이 아이의 이름은 "apostrophe" [uh-pos-truh-fee]", single quote"
 
 
 # Writing

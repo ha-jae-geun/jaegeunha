@@ -1,4 +1,5 @@
 ## 기타
+* 약 먹었어? Did you take pills?
 * #건강검진; have a #medical checkup
 * #B형 간혐; #type BV Flue; Influenza A viruses
 * 생각했던 것 기대했던 것이 어긋날 때 #funny; it tastes funny 

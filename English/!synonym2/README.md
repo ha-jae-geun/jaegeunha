@@ -1,3 +1,7 @@
+* 그 곡의 수입굼; Proceeds from that tune
+* 중요한 사건, 상황의 변화: end; World war 2 ended in ~, Their marriage finally ended last year
+  I have to finish my assignment
+* await: 격식, 타동사; wait for; 자동사
 * catch up; 1. I'd like to catch up; 오랜만에 이야기하다 
   2. 밀린(일, 잠, 독서, 기부, 회포); i have some work to catch up on
   3. 따라잡다; We have to catch up; Waiting for me to catch up?

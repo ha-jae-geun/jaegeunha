@@ -1,3 +1,20 @@
+* 당신이 딱이다; You fit the bill
+* 그들은 막상막하였다; They were neck and neck
+* 사회적 공감대가 필요하다; It needs social consensus
+* 너 참 날 혼란스럽게해; You really threw me a curveball
+* 말을 삼가는것이 좋다; it was just better to bite my lip
+* 방금 나온 따끈따끈한 소식; it's hot off the press
+* 안전하다; The coast is clear
+* 놀랄만하게 하다; make someone's jaw drop
+* 간댕이가 부었구나; What a nerve
+* 어꺠너머로 배웠어; I just caught on by observing
+* 마음대로 해; Suit yourself
+* 역효과가 날 수 있어요; This plan can backfire
+* 보스가 나 대답하라고 (곤혹스럽게) 하는데 준비가 안됐었어. I really wasn't prepared to answer when my boss put me on the spot.
+* 최근 주식시장 동향에 대해 알려줘 볼게. I’ll get you updated with recent stock market trends.
+* 회사 매출이 예상실적과 정확히 맞아 떨어지게 나왔어. The company profit came out to be 
+right in line with the estimate. 
+* (대화) 그만!; Period
 * 멀티탭: Power strip
 * 기대 만발인데요; High hopes!
 * 많을수록 좋지; The more the merrier

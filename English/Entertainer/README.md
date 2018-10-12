@@ -1,3 +1,10 @@
+# 가수
+* 칼 근무; Synchronization 혹은 synchronized dance moves
+  Their dance moves were like... so in sync."
+
+# 노래
+* 그 곡의 수입굼; Proceeds from that tune
+
 # Radio
 * 라디오 날씨 최신 정보를 듣고 계십니다; YOu are listening to Radio weather update
 * 더 많은 정보 위해 채널 고정하세요 Stay tuned for more information later
@@ -13,6 +20,7 @@
 * 개봉일이에요; it's the premiere for ~
 * 장편 영화; feature film
 * 좋은 영화에요; Such a good movie
+* 믿고 거르는 영화; worth a skip
 
 # Entertainment
 * #감식가: #connoisseur[|kɑ:nə|s3:r;-|sʊr] 
