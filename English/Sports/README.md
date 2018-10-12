@@ -34,10 +34,13 @@
 * #복근; #abdominal muscles
 * burn calories
 * 유산소, 가슴, 등, 삼두, 전신 다해요; Cardio, do some chest, back, tri's the whole body
+* 팔근육 다시 키워야지; Gotta reload those guns
 
 
 ---------
 * 「스포츠」 	#스포츠
+* 그는 올해 1군 선수가 될거야; He's going to be first string this year
+* 정정당당한 대결만을 원합니다; i want nothing but a fair, square fight
 * #선수; 구기: #player, 스키 선수: #athlete / #skater
 * i've always been really #sporty
 * I enjoy some sports though i'm not a fanatic

@@ -1,4 +1,5 @@
 #경찰서 #법원	#형사 police(2번째 강세)
+* 너희의 수사를 담당하게 될거야; i'm going to be your liaison 미국식 [liˈeɪzɑːn;ˈliəzɑːn] on the Red Hood investigation
 * the five-oh
 * police men = cops 미국 경찰: ##Johnny law
 * #detective

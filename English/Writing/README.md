@@ -1,3 +1,6 @@
+# 기타
+* 글 길이 막힌 상태로 직장에 갔따; went to work with writer's block
+
 # 소설
 ## 사랑 받는 주인공의 3가지 조건;  Three conditions of the heroine being loved;
 * 충분한 고통, 분명한 목표, 적어도 한 번의 성공할 기회가 있어야 한다. There must be sufficient suffering, clear goals, and at least one chance to succeed.

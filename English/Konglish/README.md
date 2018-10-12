@@ -1,3 +1,5 @@
+* 멀티탭: Power strip
+* 선팅; tinting; Window tinting
 * 벤츠; Mercedes Benz
 * Chevrolet  = Chevy
 * 애프터 서비스; warranty service = maintenance

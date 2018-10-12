@@ -10,6 +10,7 @@
 * get the hoops
 * #몸 풀기; 몸푸는 중이야; i'm warming up <> i'm cooling down
 * #vinsanity; The riots and chaos that ensues following Vince Carter posterizing someone
+* 역대 최고의 농구선수; some of the best hoopers of all time
 
 # 역사
 * #코비 브라이언트; #81; 코비브라이언트가 토론토 랩터스와의 경기에서 득점

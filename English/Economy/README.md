@@ -1,5 +1,31 @@
 # 경제
 
+## 미국 금리 인상에 따른 한국 금리인상
+### 2018.10.8 2018 최진기의 생존경제 - [40] 한국 금리인상! 꼭 필요한가?
+* 경상수지 흑자; a current account surplus[deficit]
+* 금리 역전은 0.25%차이마다 15조의 유출이 일어난다. The reversal of interest rate yields 15 trillion leaks every 0.25% difference.
+* BP: Base Point: 1bp = 0.01%
+* 미국이 금리를 올리면 우리도 덩달아 금리를 올려야 하는건 아니다. If the US raises interest rates, we do not have to raise interest rates as well. 실제로는 0.25퍼센트당 6조정도의 피해
+* COFIX; Cost of funds index; 개별 은행의 조달 금리를 취합하여 산출하는 비용지수
+* 코스픽 금리는 주택담보대출금리의 기준이 된다. 코스픽 is the basis for the mortgage loan rate.
+* 기준 금리 - 시중 금리 - 조달 금리: Base Rate - Market Rate - Procurement Rate
+* 조달금리: 은행에서 자금을 조달할때 든 금리 Interest rates when banks raise funds
+* 기준 금리: 한국은행이 시중에 돈을 공급할 때 이자율로 정하는 금리; In Britain, the base rate is the rate of interest that banks use as a basis when they are calculating the rates that they charge on loans.
+* 시중금리: 일반적으로 기업/개인이 접하는 권리
+- 한국은행이 금리인상에 신중한 이유
+* 근원물가가 1% 성장에 그쳤다; 외부 충격에 민감한 농산물 및 에너지 관련 물가를 제외한 물가지수  
+  Base prices only grew by 1%; Excluding agricultural products and energy-related prices sensitive to external shocks, the price index; 1퍼센트도 안올랐다
+* 늘어만 가는 가계 대출; 더 심각한 문제: 자영업자 대출  
+  Increasing household loans; More serious problem: self-employed loan; 6개월동안 10%가 올랐다
+* 경상수지 흑자, 많은 외환보유고로 인해 금리가 낮아도 버틸 수 있다  
+  The current account surplus and the high foreign exchange reserves can keep the interest rate low
+- 물가와 금리의 관계
+* 고물가: 금리 인상으로 시중 화폐량 감소; 저물가: 금리 인하로 시중 화폐량 증가
+
+## 조선산업
+* 조선 산업체들은 해양플랜트와 조선사업 두가지를 한다.  
+  Shipbuilding companies do two things: offshore plants and shipbuilding.  [ˌɔːf-;ˌɑːf-]  영국식 [ˌɒfˈʃɔː(r)] 
+
 ## 공통
 * 전문가들은 ~을 두고 의견이 엇갈린다 Experts are split over ~ 
 * 실제 거주자들이 소득으로 대출을 받아 살 수 없는 수준에까지 이르렀다 

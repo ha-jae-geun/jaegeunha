@@ -1,3 +1,9 @@
+# Radio
+* 라디오 날씨 최신 정보를 듣고 계십니다; YOu are listening to Radio weather update
+* 더 많은 정보 위해 채널 고정하세요 Stay tuned for more information later
+* 교통정보는 ~엣 전해드립니다; The traffic report is brought to you by News 51
+* 덴버 시내의 최신 정보를 알려드리겠습니다; We now bring you the latest update in downtown Denver
+
 # 연예인
 * 레이디가가; Mother monster - 팬들: Little monsters
 * 믿고보는 배우다; he's a go-to actor

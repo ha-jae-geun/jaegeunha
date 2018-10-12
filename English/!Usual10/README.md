@@ -1,3 +1,9 @@
+## 쓸만한 영어 - 먼저 가도 될까요? - 순서를 양보 받을때 쓸만한 영어표현/영어공부/영어회화
+* 먼저 하세요; You can go ahead. You can go first(전혀 무례하지 않고 캐쥬얼), After you
+* 먼저 가도 돼요? Can i go ahead? Mind if i go ahead? Would you mind if i go ahead?(Do you mind if i go ahead: 내가 가장 먼저란 의미가 있어 어색함)
+* 화장실 먼저 써도 될까요; I'm sorry but i really need to go the bathroom (badly)
+* I'm in a hurry, i am in a rush는 다음 목적지가 있을 때 알맞음
+
 ## 쓸만한 영어 - 동사를 살려주세요 [ 징크스?? / 초치다?? ] 이디엄 활용편
 * Jinx 1. 찌찌뽕 
 * 동사: 2. 재수없는 일을 일으키는 그림; 초치다; It jinxes me; 초치지마; Don't jinx me 초치지마; don't jinx them

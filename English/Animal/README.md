@@ -32,6 +32,7 @@
 
 # 개
 * 믹스견이고요; she is a mutt
+* 개가 어떤 사람의 원반을 훔치는걸 봤다; watched him steal some guy's   [ˈfrɪzbi]
 
 # 속담
 * '재주는 곰이 부리고 돈은 되놈이 가져간다; do the donkey work이란 우리 말의 

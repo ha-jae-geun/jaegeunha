@@ -1,4 +1,5 @@
-* 「인터넷」 #게임	
+# 게임
+* * 그냥 하늘에 떠 있을 뿐이야; It's just a little airborne
 * #궁	ult [|ʌltɪmət]; you got ult
 * 작전 #계획 #game plan
 * #고안; #design, #plan, #outline - 고안하다 
@@ -8,10 +9,12 @@
 * be on a roll = #on ones game = on fire = in the groove
 * #강퇴; votekick; gets votekicked
 * #최대 동시 #접속자수; #max connections under
-* ##game
+* 넌 렉 없어?	lӕg Don't you have any lag?
+
+
+# 인터넷
 * .com 닷 컴 .gov 닷 거브 .org 'ɔ́:rɡ 닷 올그 co.kr co닷kr	
 * 나 지금 게임에 렉이 있어.	I have some lag in my game.
-* 넌 렉 없어?	lӕg Don't you have any lag?
 * 그는 소셜 미디어에서 활동적이다.	He is very active on social media.
 * 소셜 미디어에 올렸다. 		I posted that on social media.
 * 시스템 장애입니다. 	Sounds like a system failure.

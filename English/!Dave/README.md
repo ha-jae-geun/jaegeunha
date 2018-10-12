@@ -1,3 +1,7 @@
+* 멀티탭: Power strip
+* 기대 만발인데요; High hopes!
+* 많을수록 좋지; The more the merrier
+* 우리가 부족한 것은; But what we're lacking a lot of in our society today are
 * 그 여자 완전 쩔어, 만점이야; She's a dime(10원짜리
 * 없어요; Nada; nothing
 * 승부욕이 강해요; She's so competitive

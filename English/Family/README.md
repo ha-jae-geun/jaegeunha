@@ -15,6 +15,9 @@
 * 매력적인 10대 초반 애들을 봤어; I noticed some lovely #tweens down by the kid's club
 * #emo# 질풍 노도의 시기
 * 옥수수밭으로 만든 거대한 미로찾기 놀이; corn maze
+* 봉제 인형을 제일 좋아했어요; i was all about stuffed animals
+* 재미있어 할 것 같애요; You'll probably get a kick out of it
+* 롤러장 및 오락실에서의 저녁 데이트를? Roller Rink and Arcade?
 -------------
 * 30대 중반처럼 보여; i thought you're in your mid 30's
 * 나 40에 가까워지고있어; i'm pushing 40

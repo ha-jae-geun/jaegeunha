@@ -1,3 +1,13 @@
+* 아무렇지도 않게 내 부서에 들어오게 해줄 것 같애? You think i'm gonna just let you waltz into my precinct?
+* 장난 쳐 볼까 합니다; I'll be pulling a little prank on the Korean fans
+* 너무 과장되게 말씀드려 죄송하지만; Sorry to be so dramatic
+* 내 인내심이 메말라간다 My patience is wearing thin.
+* 할 말이 없다  There's no words. 
+* 중간에 어딘가에서 실수를 했어요; Somewhere along the line, i made a mistake
+* 새빨간 거짓말이야; It's a total lie
+* 시끄럽게 해서 미안해; i'm sorry for being noisy
+* 무슨 일이 있어도 가야돼; I need to go no matter what
+* 영감이 떠오르길 바랐다; Hoped for inspiration to strike
 * 무신경하게 군거 아니야; i don't mean to be insensitive
 * 어떻게 안 무너지고 있는거야; How is she not cracking up there?
 * 또 회의가 있대. 갑작스럽긴 하지만 어쩔 수 없잖아. Another conference. Short notice, but, you know, duty calls. 의무의 부름에 응하다. answer the call of duty 미국식  영국식   단어장추가

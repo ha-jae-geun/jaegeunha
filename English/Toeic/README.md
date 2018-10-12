@@ -15,6 +15,9 @@
 # 시제
 * 미래 완료: by next, by the end of, by the time과 같이쓰임
 
+# 전치사 + ed + that
+* be convinced/delighted/fritened/annoyed that
+
 #최신 
 * 요청하다; ask for <> request
 * over a month ago; 과거를 넘어서; past xxx

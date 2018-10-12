@@ -1,3 +1,18 @@
+## "중요하게 생각하다", "신경을 쓰다", "하지 않도록 주의하다", "꼭 ~ 하도록 하다" -- [ 연습가이드 #33 / 영어회화 / 표현 ]
+* 그 분은 규책대로 하는 것을 좀 주요하게 생각해; 
+  SHe's pretty strict/serious about doing things by the rules
+* 그것을 조금만 신경써; SO i would pay a little attention to that; 나라면 이렇게 하겠다
+  2. You should pay attention to 3. i suggest that you pay 4. be mindful of ~
+* 뭐가 됐든, 혼자 짐작으로 하지 말고 꼭 확인을 먼저 받아; Whatever it is, be careful not to do anything based on yoour own assumptions
+* 꼭 확인을 받아; Just make sure to check wit her before you do anything
+* ~할 시간이야; It's time for 명사; It's time to v; It's time for someone to 
+  Every time 절, The last time 절; This is the first time i've ever come here; 현재완료
+＊ to do/verb anything/something based on your own assumption  : 혼자만의 짐작대로 ~하다.
+* be mindful of ~ : 신경을 쓰다.
+* check (something) with (someone) : ~에 대해 누구의 확인을 받다.
+* be strict/serious about~ : ~에 대해 엄격하다.
+* I suggest that you ~ : ~하도록 해﻿
+
 ## "원점으로 돌아가다", "처음부터 다 다시 하다", "전체 과정을 다시 거치다" - 영어회화 [ 유용한 영어표현 ]
 * 다시 원점으로 돌아왔어; i'm (right) back where i started
 * 다시 원점으로 돌아가고 싶지 않아; i don't want to be back where i started

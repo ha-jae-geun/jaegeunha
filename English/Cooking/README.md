@@ -20,9 +20,13 @@
 * 조개를 캐다; #dig out the clams
 * ☆가리비는 scallop; collop, 맛조개는 razor clam, 바지락은 Manila clam, 꼬막은 cockle이라고 합니다.
 * #진주는 pearl이라고 하는데요. 이 진주가 나는 조개는 영어로 Pinctada fucata GOULD
+* 찹살가루; Glutinous rice powder
 
 # Egg
 * 노른자 살짝만 익혀주세요; I want it over easy
+
+# Nutrition
+* 산균이에요. It's the lactic acid.
 
 # taste
 * ☆#순한맛 #gentle flavor
@@ -38,6 +42,7 @@
 * 새콤달콤하다; it's sweet and sour
 
 # Cooking
+* 요리계의 두 거장이 정면으로 맞섭니다; Two culinary juggernauts go head to head juggernaut 미국식 [-ɡərn-]  영국식 [ˈdʒʌɡənɔːt]
 * #오늘의 #메뉴 today’s special' / what's the #speciality(#main menu) / the #signature menu is
 * ##menu; #메뉴판 -> dishes/these  
 * 직접 가져다 먹을 수 있어; you can serve yourself

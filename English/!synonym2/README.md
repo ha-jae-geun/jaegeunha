@@ -1,3 +1,9 @@
+* catch up; 1. I'd like to catch up; 오랜만에 이야기하다 
+  2. 밀린(일, 잠, 독서, 기부, 회포); i have some work to catch up on
+  3. 따라잡다; We have to catch up; Waiting for me to catch up?
+  4. 따라가다; i'll catch up in a minute
+  5. 좀 이따 보자; I'll catch up with you later
+  6. 발목잡다; The past will find a way to catch up to us
 * Salt; salary: 예전에 귀했던 salt에서 온 말; 
   제 역할을 한다; worth one's salt; worth his salt
   돈을 알뜰힘 ㅗ으다; has been able to saly away quite a lot of money
