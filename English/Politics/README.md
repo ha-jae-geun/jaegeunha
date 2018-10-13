@@ -1,3 +1,7 @@
+# 기타
+* 정치학의 최고 베스트 셀러 고전은 마키아벨리의 군주론이다. 
+The best-selling classic of politics is Machiavelli's monarchy.
+
 # 정책
 * 역할을 맞다; You took on a role/task
 * imperialism; 제국주의자 an imperialist;  in on imperialism
