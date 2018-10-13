@@ -1,3 +1,5 @@
+* weigh on somebody/something ~을 (정신적으로) 짓누르다 weigh on 압박하다, 괴롭히다.
+* 입모양으로 말하고 잇네요; Somebody is mouthing out
 * 아무렇지도 않게 내 부서에 들어오게 해줄 것 같애? You think i'm gonna just let you waltz into my precinct?
 * 장난 쳐 볼까 합니다; I'll be pulling a little prank on the Korean fans
 * 너무 과장되게 말씀드려 죄송하지만; Sorry to be so dramatic

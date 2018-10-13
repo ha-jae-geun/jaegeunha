@@ -1,3 +1,4 @@
+* 술이 좀 약해요; I'm kind of a lightweight now
 * 벌써  취한것같애; i'm already wasted/hammered
 * 술마시면 얼굴 빨게짐; i'm getting that Asian glow
 * ~를 위하여; Here's to your health

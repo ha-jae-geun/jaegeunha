@@ -1,6 +1,5 @@
 # Programming
-
-* git rm -f filename
+* git rm -f filename add origin <원격주소>  -> * git remote -v 로 확인 -> git pull origin master로 받아오기
 * git branch [branch](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
 
 

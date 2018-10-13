@@ -3,6 +3,7 @@
 # 가수
 * 칼 근무; Synchronization 혹은 synchronized dance moves
   Their dance moves were like... so in sync."
+* 팝핀댄서였어요; I used to b a pop-locker
 
 # 노래
 * 그 곡의 수입굼; Proceeds from that tune

@@ -29,6 +29,7 @@
 * 산균이에요. It's the lactic acid.
 
 # taste
+* 달콤하다고 묘사하지마; Don't describe anything as juicy
 * ☆#순한맛 #gentle flavor
 * 걸쭉해요; It's thick
 * 맵다 #spicy, #hot, my mouth is on fire, it burns

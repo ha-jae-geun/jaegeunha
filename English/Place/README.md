@@ -168,6 +168,7 @@
 * 대출 예약을 하고 싶어요. 	Can you put me on the waiting list? 
 
 # 바다 #바다 #해변
+* 배가 부두에 도착하면; When the ship docks
 * #river, #creek: 작은 만, #stream: 개울
 * * 부산은 #coastal city
 * #염분; #desalination
