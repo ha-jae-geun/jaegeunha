@@ -30,6 +30,7 @@
 
 # taste
 * ☆#순한맛 #gentle flavor
+* 걸쭉해요; It's thick
 * 맵다 #spicy, #hot, my mouth is on fire, it burns
 * 오리를 #매콤한 양념에 볶은 것입니다.
 * It's duck with spicy seasonings. ‘si:zənɪŋ
@@ -40,6 +41,7 @@
 * 매운거 잘 먹는다 I have a very high tolerance for spice
 * 아무맛도 안나; it's #tasteless
 * 새콤달콤하다; it's sweet and sour
+* 양념이 잘 밴게 정말 마음에 들어; I like the way they soak up your sauce
 
 # Cooking
 * 달걀을 1분간 휘저으세요; Beat the eggs/cream until fluffy

@@ -247,6 +247,7 @@
 * vile (비격식) 극도로 불쾌한[나쁜]: There was a vile smell coming from the room.
 * 이것은 맛이 역겹다. foul (비격식 특히 英) (성격ㆍ맛 등이) 더러운[역겨운], 아주 안 좋은: This tastes foul.
 * 비위를 건드리다 					 의도 X (get) rubbed the wrong way
+* 위선자처럼 느껴져; And i feel like i'm a hypocrite 미국식 [ˈhɪpəkrɪt]
 * 의도 O 불쾌 get under someone's skin"이나"get on somone's nerves ruffle someone's feathers: 
 * 불쾌지수 								discomfort index
 * #obnoxious; behavior 매우 불쾌한

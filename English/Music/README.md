@@ -1,41 +1,60 @@
 * 대중 음악에서 후렴부를 복잡하게 쓰면 사람들은 싫어한다. People complain about complicated refrain/Chorus in popular music.
 
+# 가수
+* 칼 근무; Synchronization 혹은 synchronized dance moves
+  Their dance moves were like... so in sync."
+
+# 노래
+* 그 곡의 수입굼; Proceeds from that tune
+
 ------------
-* +
 * FRIENDS - Marshmello, Anne-Marie - 앤마리 
+* Faded - Alan Walker - 알렌 워커
 * Finesse (Remix) (Feat. Cardi B) - Bruno Mars
+* Britney Spears - 3
+* Altogether Alone - Be the voice
 * Meant to Be - Bebe Rexha, Florida Georgia Line - 
-* Havana - Camila Cabello - 카밀라 카베요
-* The Chainsmokers - Closer (Feat. Halsey)  
-* How Long - Charlie Puth
+* Havana - Camila Cabello - 카밀라 - 카베요
+* The Chainsmokers - Closer (Feat. Halsey)  - 체인스모커스 (The Chainsmokers)
+* How Long - Charlie Puth 찰리 - 푸스
 * Attention - Charlie Puth
-* Shape of You - Ed Sheeran
+* Oops (Feat. Charlie Puth) - Little Mix - 리틀 믹스
+* Demi Lovato - Sorry not sorry - 데미 로바토 
+* Dua Lipa - One kiss - 두아 리파
+* Shape of You - Ed Sheeran - 에드 시어런
 * Worth It (Feat. Kid Ink) - Fifth Harmony
 * Fitz and the Tantrums - HandClap -  피츠 앤드 더 탠트럼스 
-* Oops (Feat. Charlie Puth) - Little Mix - 리틀 믹스
 * Despacito (Remix) - Luis Fonsi, Justin Bieber, Daddy Yankee
-* Psycho ft. Ty Dolla $ign - Post Malone - 
+* Psycho ft. Ty Dolla $ign - Post Malone - 포스트 말론
+* Happy - Pharrel williams - 퍼렐 윌리엄스
+* Lucky strike - Maroon 5 - 마룬 5
+* Maps - Marron5
+* Sirancha - Marteen - 마틴
+* Friends - Marshmello - 마시 멜로우
+* Happy Ending - Mika
+* Mike Ferry - The ocean - 마이크 페리
+* Love never felt so Good - Michael Jackson - 마이클 젝슨
 * Ray Charles - Hit The Road Jack(1961) - 레이 찰스
+* RedFoo - New Thang - 레드푸
 * Shake up Christmas - Trains
 * Look What You Made Me Do - Taylor Swift
 * The Middle - Zedd, Grey, Maren Morris - 제드, 매런 모리스, 그레이
-* Faded - Alan Walker -
-* Britney Spears - 3
-* RedFoo - New Thang
-* Mike Ferry - The ocean
-* Dua Lipa - One kiss
 ------------
-* Jeff Bernat - Changes
-* Demi Lovato - Sorry not sorry - 데미 로바토 
-* Nothing's gonna change - Glenn Medeiros - 
-* Stay - Zedd, Alessia Cara  -  제드, 알레시아 카라 
-* Last Chance - M.Y.M.P
-* Run to you - Whitney Houston
-* Pillowtalk-Tayler Buono
+* Almost is never enough - Ariana Grande - 아리아나 그란데
+* Santa tell me - Ariana Grande
 * bye bye i finally - chicken
-* Ciara - Body Party
-* Prince Royce - Extraordinary (Cover Audio)
-
+* Ciara - Body Party - 시애라
+* Bad day - Daniel Powter - 다니엘 파우터
+* Nothing's gonna change - Glenn Medeiros - 글렌 메데이로스
+* Jeff Bernat - Changes - 제프 버넷
+* Paris in the rain - Lauv - 라우브
+* Last Chance - M.Y.M.P
+* Say you love me - M.Y.M.P
+* Prince Royce - Extraordinary (Cover Audio) - 프린스 로이스
+* Pillowtalk-Tayler Buono - 테일러 브루노
+* Officially Missing you - Tamia - 타미아
+* Run to you - Whitney Houston - 휘트니 휴스턴
+* Stay - Zedd, Alessia Cara  -  제드, 알레시아 카라 
 -------------
 
 # 노래방 	#구호, #연호하다; #chant; chant their hero's name

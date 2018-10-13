@@ -1,0 +1,1 @@
+* 멀리서 보고 있었어요; I was watching you from a distance; you are atching from far away

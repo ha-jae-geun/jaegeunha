@@ -41,7 +41,7 @@
 * 
 
 ## 집	#집돌이; I've become quite the home body. 
-
+* 문 꼭닫아; I bolt the door real tight
 * i've become quite the #homebody
 * drop by my #flat/#place = wanna #come over?
 * go home, stay home, leave home

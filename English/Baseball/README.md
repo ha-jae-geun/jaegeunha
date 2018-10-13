@@ -1,3 +1,7 @@
+# 문장
+* 2회 초/말이야; It's top/bottom of the 2nd inning
+* 오 잡았다, 아웃기켰어; He got him; he got him out
+
 # 팁
 * 커브를 주무기로 하는 투수들은 릴리스 포인트가 높다; Pitchers who use curve as their primary weapon have a high release point
 * DL에 올라갔으면 트레이드가 안된다; If you go up to the DL list, the trade will not work.

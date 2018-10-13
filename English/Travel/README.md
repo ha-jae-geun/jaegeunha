@@ -57,6 +57,7 @@
  
 
 # 공항 #jet/ #G6 비행: flight, aviation èiviéiʃən,
+* 마일리지를 사용하고 싶어요; I would ike to use my frequent flyer miles
 * I want to fly business one day. I alwayd fly coach.﻿
 * still water or sparkling
 * 기내식을 채식으로 요청하려고요; i wanna request a vegetarian meal

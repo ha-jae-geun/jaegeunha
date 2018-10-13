@@ -1,9 +1,4 @@
-# 가수
-* 칼 근무; Synchronization 혹은 synchronized dance moves
-  Their dance moves were like... so in sync."
 
-# 노래
-* 그 곡의 수입굼; Proceeds from that tune
 
 # Radio
 * 라디오 날씨 최신 정보를 듣고 계십니다; YOu are listening to Radio weather update

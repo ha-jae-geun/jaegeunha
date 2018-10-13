@@ -210,6 +210,7 @@ be #on a mission; #꼬시다
 나는 야한 옷 싫어. 	I dislike loud clohes. / #revealing top / reavling for my age
 makes quite #raunchy songs
 #포르노; racial #pornography
+* 처녀막; Hymen
 #야한
 자동차, 술을 여자라고 많이 지칭함
 깨가 쏟아지는 커플이야 They are a storybook couple

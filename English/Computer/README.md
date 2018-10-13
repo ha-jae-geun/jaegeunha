@@ -10,7 +10,7 @@
 * #강퇴; votekick; gets votekicked
 * #최대 동시 #접속자수; #max connections under
 * 넌 렉 없어?	lӕg Don't you have any lag?
-
+* 나 숙난이동 할 수 있어; Do you have a teleport?
 
 # 인터넷
 * .com 닷 컴 .gov 닷 거브 .org 'ɔ́:rɡ 닷 올그 co.kr co닷kr	

@@ -1,3 +1,4 @@
+* 경쟁상대를 이긴다; beat; win one's heart; 누군가의 마음을 얻다
 * 그 곡의 수입굼; Proceeds from that tune
 * 중요한 사건, 상황의 변화: end; World war 2 ended in ~, Their marriage finally ended last year
   I have to finish my assignment

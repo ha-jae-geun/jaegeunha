@@ -1,3 +1,4 @@
+* 츄리닝: tracksuit / sweatsuit
 * 멀티탭: Power strip
 * 선팅; tinting; Window tinting
 * 벤츠; Mercedes Benz

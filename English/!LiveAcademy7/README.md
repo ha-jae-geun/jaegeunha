@@ -7,6 +7,11 @@
 * 새빨간 거짓말이야; It's a total lie
 * 시끄럽게 해서 미안해; i'm sorry for being noisy
 * 무슨 일이 있어도 가야돼; I need to go no matter what
+* 두려워하지 마세요; 슈퍼맨이 왔어요; Never fear, SUperman is here
+* 목이 늘어난 것 같애; i feel like i elongated my neck elongate 미국식 [ɪˈlɔːŋ-]  영국식 [ˈiːlɒŋɡeɪt] 
+* 너에게 강한 보호본능을 느껴; i feel very protective of you
+* 아래는 환기가 잘 안돼요; It's not very well ventilated down there
+* 우리 영상에서 라이언을 갈구는건 어때? What if we roasted Ryan for our video?
 * 영감이 떠오르길 바랐다; Hoped for inspiration to strike
 * 무신경하게 군거 아니야; i don't mean to be insensitive
 * 어떻게 안 무너지고 있는거야; How is she not cracking up there?
