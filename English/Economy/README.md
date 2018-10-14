@@ -19,6 +19,9 @@
   Increasing household loans; More serious problem: self-employed loan; 6개월동안 10%가 올랐다
 * 경상수지 흑자, 많은 외환보유고로 인해 금리가 낮아도 버틸 수 있다  
   The current account surplus and the high foreign exchange reserves can keep the interest rate low
+* 금리 인상은 경기하락을 일으킬 수 있꼬 금리동결은 외화유출을 일으킬 수 있다. A rate hike can cause a decline in the economy. Freezing interest rates can cause foreign currency outflows
+* 국내에 들어와있는 외국자본은 금리가 아닌 원화가치에 투자하는 돈이 대부분이다. 이자 수익을 노린다면 금리가 60%인 아르헨티나에 투자하는 것이 맞다. 그러나 금리가 높은 나라는 시장의 불안정성도 높다. 
+  Most of the foreign capital that comes into the country invests in the won rather than the interest rate. If you are looking for interest income, you should invest in Argentina, which is 60% interest rate. However, countries with high interest rates have high market instability.
 - 물가와 금리의 관계
 * 고물가: 금리 인상으로 시중 화폐량 감소; 저물가: 금리 인하로 시중 화폐량 증가
 

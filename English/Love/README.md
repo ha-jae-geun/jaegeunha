@@ -189,16 +189,24 @@ Spornosexual
 으아, 너 진짜 닭살. ‘lʌvi ‘’dʌvi Aw, look at you, all lovey-dovey | goose pumps/bump: 소름
 it gave me goosbumps
 #닭살 #꽁냥 
+# 야한
 그 여자 목적 있어서 만나는거야.					 She is a gold digger.
 쟤 #킹카래 							 He is #all that, such a stud
 저 여자좀 봐~~ 죽이는군~~ 		 	 Look at that girl!! She's really dressed to kill.
 #집적대다 								 #Hit on someone
+
+
+# 작업 말투
+* 어디서 널 만난 것 같은데? Do i know you from somewhere?
+* 여기 자리 있어요? Is this free?
+
 #꼬시는 말, #잘 꼬시는 남자 #(pickup) #line, #pickup artist = #mack daddy
 #lay(put) some #sweet lines on; 달콤한 말을 거다, #부추기다
 #mack upon; #해치우다, #이기다;
 #꼬시다; hit on somebody, flirt somebody, put the move on somebody | #talk intof
 #smooth; #솜씨가 좋다; 특히 상대방을 잘꼬시면 하는 말
 be #on a mission; #꼬시다
+
 #꼬시고 있어 					 someone is putting the moves on ~
 성관게 유혹하는 #밀회 I thought it was a #booty call 단어장추가
 #밀당하다 							 She's playing hard to get.
@@ -211,7 +219,6 @@ be #on a mission; #꼬시다
 makes quite #raunchy songs
 #포르노; racial #pornography
 * 처녀막; Hymen
-#야한
 자동차, 술을 여자라고 많이 지칭함
 깨가 쏟아지는 커플이야 They are a storybook couple
 #금실이 좋다 They are like two little love #birds

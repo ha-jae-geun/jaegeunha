@@ -26,6 +26,7 @@
 * Worth It (Feat. Kid Ink) - Fifth Harmony
 * Fitz and the Tantrums - HandClap -  피츠 앤드 더 탠트럼스 
 * Despacito (Remix) - Luis Fonsi, Justin Bieber, Daddy Yankee
+* The show- Lenka - 렌카
 * Psycho ft. Ty Dolla $ign - Post Malone - 포스트 말론
 * Happy - Pharrel williams - 퍼렐 윌리엄스
 * Lucky strike - Maroon 5 - 마룬 5
@@ -51,6 +52,7 @@
 * Paris in the rain - Lauv - 라우브
 * Last Chance - M.Y.M.P
 * Say you love me - M.Y.M.P
+* Someday - Nina
 * Prince Royce - Extraordinary (Cover Audio) - 프린스 로이스
 * Pillowtalk-Tayler Buono - 테일러 브루노
 * Officially Missing you - Tamia - 타미아
