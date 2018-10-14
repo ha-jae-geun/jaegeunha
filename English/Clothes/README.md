@@ -5,6 +5,14 @@
 * 양말 뒤집어졌어; YOur socks are inside out
 * 양말 짝짝이; Mismatched
 
+# 재료
+* Silk
+* Wool
+* cotton [ˈkɑːtn]  영국식 [ˈkɒtn] 
+* denim
+* leather
+* velour; [vəˈlʊr]  영국식 [vəˈlʊə(r)]   단어장추가 [명사] 벨루어(실크나 면직물을 벨벳처럼 만든 것)
+
 ## 신발
 * 남성: 240: 6, 250: 7, 260: 8
 * 여성: 220: 5, 230: 6

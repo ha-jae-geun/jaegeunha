@@ -1,3 +1,22 @@
+## "내 잘못도 있어." , "날씨 때문인 것도 있었어." - [ partly ] , [ part of it 
+* 내 탓도 있어; It's your fault, it's also my fault(별로)
+  It's partly my fault	= Part of it is my fault
+* 이유; 날씨 때문이엇어; It was because of weather
+  - 날씨 때문인것도 있었어; It was partly because of the weather
+    Part of it was because of the weather 
+
+## [ LESSON #17 - PART 1 ] "시간이 걸리다", "돈이 들다" 
+* 걸리는 시간- take; It takes 5 minutes
+  It takes really long; It took a lot of time; It takes really long
+  It's going to take a lot of time / a long time / long
+  It doesn't cost very much
+  It didn't cost very much
+* 드는 돈; cost; It costs 5000won; 코씉쓰; st발음은 모음만 뺀 발음이 ㅏ야한다
+  It costs a lot of money
+  It's going to cost a lot of money
+  It doesn't take a lot of time/long/very long(제일 자연스럽다)
+  It's not going to take very long
+
 ## "중요하게 생각하다", "신경을 쓰다", "하지 않도록 주의하다", "꼭 ~ 하도록 하다" -- [ 연습가이드 #33 / 영어회화 / 표현 ]
 * 그 분은 규책대로 하는 것을 좀 주요하게 생각해; 
   SHe's pretty strict/serious about doing things by the rules

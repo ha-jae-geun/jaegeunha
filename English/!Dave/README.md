@@ -1,3 +1,7 @@
+* 내가 ~할게; I'll / Let me
+* 나 바빴어; I've been busy/hectic = Things have been hectic 
+* 좋은 생각같은데; SOunds like a plan = Good plan
+* 얼마나 걸랴요? How far are we? 공손: How long does it take?
 * 당신이 딱이다; You fit the bill
 * 그들은 막상막하였다; They were neck and neck
 * 사회적 공감대가 필요하다; It needs social consensus

@@ -37,6 +37,7 @@ I have a big crush on you / I have a thing for you, i'm into you
 * 바람 피웠다고 말했어요; he'd been unfaithful to mee our entire marriage
 
 # Marriage
+* 약혼; betrothed 미국식 [-ˈtroʊ-]  영국식 [bɪˈtrəʊðd]
 * 부부를 선언합니다; i now pronounce you husband and swife
 * ☆잡혀 살다 you have the ball and chain
 * #권태기인 것 같아요.   I think we're in a rut.

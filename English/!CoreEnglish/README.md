@@ -7,6 +7,11 @@
 * 뭐 하나만 물어보자; Hey hey; Let me ask you a question; Hey, hey: 호흡; let; question; 호흡; ask: 호흡 많이
 * we're - were 발음
 
+# won't, want, weren't
+* won't + R
+* want + N / to R / N to R
+* weren't + n / -ing / @ / -ed / 전+N; 명사일때만 겹침; 워:r언
+
 # 슈와발음 schwa; 강세를 받지 못한 발음
 
 ## 문장
@@ -27,6 +32,7 @@
 * Distinguished guests, Ghosts; BTS 연설 발음
 ## ed
 * 과거형 동사발음; launch; 동사 발음을 정확하게 하고 뒤에 ed를 넣는 느낌
+* 드는 돈; cost; It costs 5000won; 코씉쓰; st발음은 모음만 뺀 발음이 ㅏ야한다
 
 
 ## 장모음, 단모음

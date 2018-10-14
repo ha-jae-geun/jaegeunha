@@ -1,3 +1,193 @@
+## 쓸만한 영어 - 생활속 통역_12 [아빠와 딸의 특별한 데이트]한국어자막 영어 번역/영어회화/영어식 사고/영어공부
+* ※ PSA : Public Service Announcement (상업적 느낌 < 회사에 대한 좋은 이미지) 
+*          공익광고처럼 수익보다는 사회문제에 대한 인식을 
+         고취시키거나 태도/행동의 변화를 불러일으키는 광고
+
+* - 우리 한국적 정서가 담긴 비유적 표현을 내용을 흐트리지 않고
+  영어로 전달하는 연습을 해봅니다.
+         
+* - 6월 14일 토요일(에)
+ *   On the 14th of June, Saturday
+ *   [주의] On Saturday, On the 14th of June,
+ *      ☞ On Saturday, the 14th of June
+ *      ☞ Saturday, the 14th of June (전치사를 붙이지 않음)
+
+- “소원 풀었어요.”
+ *   My dream came true.
+ *   My wish came true.
+
+* ▶ 소리로 듣고 푸는 정보 전달과 눈으로 보고 전달할 때의 공통점/차이를 느껴보기 위해서 하는 연습입니다. 
+* 100% 완전한 문장이 되지 않아도 정말 괜찮으니 편하게 해보세요!
+* 문자로 본 내용도 기억하려고 해보세요. 
+
+- 이들에게 무슨 일이 있었던 걸까? 
+ *   What happened to them?
+ *   What happened to them?  [묶어서 발음]
+ *   What happened to them? 무슨 일이 있어서 지금 이럴까?
+ *   What is going on? 지금 무슨 일이 벌어지고 있는 걸까?
+                     뭐가 어떻게 돌아가고 있는거지?
+
+- 페이스북을 통해서 물었습니다. “당신이 가장 존경하는 사람은 누구입니까?” 
+  통해서 = through??
+ *   페이스북에 실어서/올려서 
+ *   → We asked a question on Facebook.
+ *   ‘우와, 대단하다/나도 저렇게 되고 싶다’ 우러러보는 그림의 동사는? ☞ admire
+ *     Who do you admire the most?
+ *   = Who is the one you admire the most? 
+ *    ※ admire (동사) :  [ədˈmaɪə(r)]
+ *       admirable (형용사) [애ㄷ머뤄블] [ˈædmərəbl]
+
+* 1.이 많은 댓글  중
+ = 우리가 받은 댓글 중
+ Among the many answers we received(“the”를 넣어주세요)
+* 2. 우리가 주목한 것은
+ = 다른 대답중에서 유난히 튄 대답
+ there is an answer that stood out.  [* stand out : 백미 / 뛰어나다/ 두드러지다]
+* 3. 대답으로 우리 주의(관심)가 끌림
+ *  there is an answer that drew our attention???  
+ * ☞ there is an answer that drew more of our attention.
+ * 전치사 of를 쓰는 이유
+  of는 어떤 것의 일부분의 그림이 있음. our라는 소유격의 또 다른 일부분이 되기 때문
+ *  예) 그거 시간이 더 걸려. It takes more time.
+ *  더 자연스럽다; 그거 내 시간이 더 걸려.(뺐겨) It takes more of my time.
+
+- 아빠와 딸의 특별한 데이트는 이렇게 시작되었습니다.
+ *   Dads’ and daughters’ special date
+ * → That’s the way dads’ and daughters’ special date started.
+ * → That’s how dads’ and daughters’ special date started.
+ *  * 아직 어떤 아빠들/딸인지 화자/청자가 서로 아는 정보가 아니기 때문에 
+ *    정관사 the를 붙이면 안됨.
+
+* ▶ 글이나 말로 다 기억할 수 없는 내용을 상징적인 그림을 떠올려 기억해보세요.
+ * - 단, 아빠가 모르는 한 가지를 숨긴 채!
+ *   단,= 그래도/그런데..
+ *   But, there was one thing (we needed) to hide from the dads.
+ *   숨긴 채 -> 이 행사를 비밀로 지켜야한다.
+ *   But, we had to keep this event secret from the dads.
+   * Keep: 어떤 상태가 ~ 하지 못하게/~않도록 막는 (지키는) 그림도 같이 있음.
+ *  ☞ But, we needed to keep this event secret from the dads.
+ * - “아빠 토요일에 시간 좀 내주세요”
+
+ *    Dad, can you make time (for me) on Saturday?
+ *    Dad, can you make time this coming on Saturday?
+   * 문맥이 아빠와 데이트를 하는 거니깐 “Do you want to go on a date?”라고 하면
+     문맥은 맞지만 비밀은 탄로 남..^^;
+   * make time  vs  Are you available?의 차이? 
+     available -> 프리한 상태 / make time 바쁜 스케줄에도 시간을 만드는 느낌
+
+ * - 「2014. 06. 14 드디어 데이트 당일」
+ *   The day of the date.
+
+ * - 「식사로 끝? 이제부터 시작!」
+ *   Are you done? Are you finished? 식사 끝났어요? 
+  * 이 뜻 아닌 느낌 팍 오지요? ~ ~   
+ *   - 식사로 끝? = 이게 다 일까요?
+ *    Is this all? / That’s it? 
+ *   - 이제부터 시작!
+ *     Now is time to start?!?!
+ *   ☞ This is just the beginning! 
+
+- 이 자리가 어떻게 마련됐는지 궁금하시죠?
+ *   ->(아빠의 입장에서) 오늘 이 자리에 어떻게해서 오게 됐는지 궁금하죠?
+ *   ->(딸 입장에서 아빠한테) 
+ *     “Dad, I know you are wondering why you are here now?
+ *  ☞ You are wondering how this happened and why you were invited to this event. 
+ *     You are wondering why you are here.
+    * are : 지금 이 자리에 있기 때문 
+
+- 많은 대답이 나왔습니다. 그리고, 그 알만한 이름들 사이로 몇몇 분은 이렇게 답했습니다.
+ *   ‘아빠’
+ *   We received a lot of responses and among all of them
+ *   (/among all of the familiar names) 
+ *   (there were) a few people answered “My dad.”(/Dad)
+
+- 한 나라의 지도자,
+ *   UN사무총장,
+ *   수백억 연봉의 선수보다도,
+ *   세계에서 가장 영향력 있는 그 누구보다도 
+ *   행복하게 존경받는 당신...
+ *   The leader of a country,
+ *   the UN Secretary-General   * secretary [ˈsekrəteri]  
+ *   수백억 -> 정말 많은 돈을 버는 
+ *   → sb. who makes six figures  $1,000,000 백만단위이상 여튼 많이 버는 그림 ㅎㅎㅎ
+ *    an athlete who makes six figures a year,
+ *     any other influential person in the world   
+
+ *    그 누구보다도 ( 문장에 주어를 애당초 정리하기)
+ *    ☞ You are better than The leader of a country, the UN Secretary-General, 
+ *       an athlete who makes six figures a year, and any other influential person
+ *       in the world.
+
+ * - 행복하게 존경받는 당신...
+ *   You are happily respected by your daughter??? 
+ *   문법/어휘 다 맞아도 뜻이 통하지 않는 말이 됩니다.
+ * 
+ *   영어를 쓰는 원어민들에게 우리 뜻이 최대한 전달되어야해요.
+ *  →  내가 아빠 딸이여서 아빠가 내 아빠여서 행복하고, 자랑스럽다는 뜻 
+ *   I’m so happy because it’s you.
+ *   I’m so happy because you are my dad. 
+ *   I’m proud of you because you are my dad.
+ *   I’m so proud of you because you are my dad.
+ *   I’m so proud to be your daughter.
+
+ *  ▶ 글자와 소리 그대로를 옮기는 것 보다 상황/문맥/행간을 먼저 파악하고 
+ *    쉬운 말로 풀어 설명하는 습관이 중요한 이유이기도 합니다.
+
+ * - 자신의 딸로부터 누구보다 존경받는 아버지 
+1. The dads who are most respected by their daughters. [동사이용 수동태]
+2. The dads who are more respected by their daughters than any other person 
+   in the world. (비교급) [동사이용 수동태]
+3. The dads who are most respectable (/admirable) by their daughters. [형용사]
+ * 한국어 번역 뜻은 별 차이가 없어 보이지만
+   동사를 활용한 수동태(내가 respect하는 행위를 아빠가 직접 받음) 
+   단순한 형용사(누가봐도 respectable할 수 있는 상태임) by other people
+   두 가지는 의미와 뉘앙스 차이를 갖게 됨.
+ * ☞ The dads who are more respected by their daughters than any other person 
+   in the world.
+
+ * - 오늘 이 자리에서 당신의 딸이 고백합니다.
+  Your daughter is making a shy(/belated) confession.(to you.)
+ * make a confession : 좀 더 구체적 상태를 살려주기 위해 
+                        make과  confession 사이에 shy/belated를 넣음
+ * shy 부끄럽고 / belated 뒤늦은 
+- 아빠와 딸의 각별한 이야기는 함께 본 영화에서도 이어졌습니다.
+  계속하다 = (무조건) keep going on ??
+ *   The special story between the dads and the daughters 
+ *   keeps going on the movie??? 
+→ 드라마에서 ‘다음 편에 계속“?  : To be continued.
+  * continue : 스토리/사건 전개가 계속 이어지는 그림
+☞ The special story between the dads and the daughters continues with a movie.
+
+ * 「그렇게 아빠와 딸은 처음일지도 모르는 데이트를 했습니다.」 
+ *  ※ 귀찮고 잘 모르겠는데 확 그냥 줄이고 빼서 ‘첫 데이트“로 해버릴까? NO!!!
+ *   Their date, which might be the first
+ * → That’s the way their date which might be the first started.
+ * 저는 이 이벤트를 통해서 첫 데이트를 한 내용으로 접근했지만, 다른 문장도 가능합니다.
+
+ * “처음이자 마지막‘일지도 모르는 (어떤 것)
+ *  sht. might be the first and the last in one’s life.
+
+ * - 어색해서, 왠지 쑥스러워서 한 번도 표현하지 못했을 뿐
+ *  rarely : 거의 ~을(를) 안하는 (없는) 그림
+ * We rarely said to our dads because we have felt awkward 
+ * or have been too shy to say. (even though we have wanted to)
+
+ * - 오늘 하루는 아빠를 존경한다고 말해보면 어떨까요?
+ * Why don’t you say, ‘I respect you, dad“
+ * 오늘 하루 만큼만은 = only for today??
+ * only ;(오직/단지) ~만 -> 딱 그것만 -> 나머지는 아님.
+ *    not 없이도 부정의미 내포하기 때문에 문두에 나올 경우 문장이 도치됨.
+ * 오늘 하루 만큼만은  -> 최소한 오늘은 
+ *  at least for today (rather) than saying, “I love you.” or “I like you.”
+
+ * - 아빠 , 당신의 인생을 존경합니다.
+ * Dad, I respect the way you lead your life.
+ * Dad, I respect the way you live your life.
+
+▶ 글자와 소리 그대로를 옮기는 것 보다 상황/문맥/행간을 먼저 파악하고 
+   쉬운 말로 풀어 설명하는 습관이 중요한 이유이기도 합니다.﻿
+
+
 ## 쓸만한 영어 - 먼저 가도 될까요? - 순서를 양보 받을때 쓸만한 영어표현/영어공부/영어회화
 * 먼저 하세요; You can go ahead. You can go first(전혀 무례하지 않고 캐쥬얼), After you
 * 먼저 가도 돼요? Can i go ahead? Mind if i go ahead? Would you mind if i go ahead?(Do you mind if i go ahead: 내가 가장 먼저란 의미가 있어 어색함)
