@@ -13,6 +13,7 @@
 * 나 숙난이동 할 수 있어; Do you have a teleport?
 
 # 인터넷
+* 유튜브에 찾아봐; You should look it up on Youtube
 * .com 닷 컴 .gov 닷 거브 .org 'ɔ́:rɡ 닷 올그 co.kr co닷kr	
 * 나 지금 게임에 렉이 있어.	I have some lag in my game.
 * 그는 소셜 미디어에서 활동적이다.	He is very active on social media.

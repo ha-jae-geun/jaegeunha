@@ -7,10 +7,13 @@
 
 # 노래
 * 그 곡의 수입굼; Proceeds from that tune
+* 일주일이라도 저 목소리만 반복재생으로 들을 수 있을것 같애; i could have that voice playing on repeat
+* 한 소절; The first verse.; 1절: Verse 1, 랩까지? Rap verse?
 
 ------------
 * FRIENDS - Marshmello, Anne-Marie - 앤마리 
 * Faded - Alan Walker - 알렌 워커
+* Honeymoon Avenue - Arian Grande
 * Finesse (Remix) (Feat. Cardi B) - Bruno Mars
 * Britney Spears - 3
 * Altogether Alone - Be the voice
@@ -25,8 +28,10 @@
 * Shape of You - Ed Sheeran - 에드 시어런
 * Worth It (Feat. Kid Ink) - Fifth Harmony
 * Fitz and the Tantrums - HandClap -  피츠 앤드 더 탠트럼스 
+* Kasabian - Fire
 * Despacito (Remix) - Luis Fonsi, Justin Bieber, Daddy Yankee
 * The show- Lenka - 렌카
+* Love never felt so good - Michael Jackson
 * Psycho ft. Ty Dolla $ign - Post Malone - 포스트 말론
 * Happy - Pharrel williams - 퍼렐 윌리엄스
 * Lucky strike - Maroon 5 - 마룬 5
@@ -43,14 +48,17 @@
 * The Middle - Zedd, Grey, Maren Morris - 제드, 매런 모리스, 그레이
 ------------
 * Almost is never enough - Ariana Grande - 아리아나 그란데
+* My Everything - Ariana
 * Santa tell me - Ariana Grande
 * bye bye i finally - chicken
 * Ciara - Body Party - 시애라
 * Bad day - Daniel Powter - 다니엘 파우터
 * Nothing's gonna change - Glenn Medeiros - 글렌 메데이로스
 * Jeff Bernat - Changes - 제프 버넷
+* Jessi J- Casualty of Love
 * Paris in the rain - Lauv - 라우브
 * Last Chance - M.Y.M.P
+* Pretty Boy - M2M
 * Say you love me - M.Y.M.P
 * Someday - Nina
 * Prince Royce - Extraordinary (Cover Audio) - 프린스 로이스

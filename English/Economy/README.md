@@ -22,7 +22,8 @@
 * 금리 인상은 경기하락을 일으킬 수 있꼬 금리동결은 외화유출을 일으킬 수 있다. A rate hike can cause a decline in the economy. Freezing interest rates can cause foreign currency outflows
 * 국내에 들어와있는 외국자본은 금리가 아닌 원화가치에 투자하는 돈이 대부분이다. 이자 수익을 노린다면 금리가 60%인 아르헨티나에 투자하는 것이 맞다. 그러나 금리가 높은 나라는 시장의 불안정성도 높다. 
   Most of the foreign capital that comes into the country invests in the won rather than the interest rate. If you are looking for interest income, you should invest in Argentina, which is 60% interest rate. However, countries with high interest rates have high market instability.
-- 물가와 금리의 관계
+* 한국은행이 기준금리를 안 올린다고 시중 금리가 안올라가는건 아니다. 한은이 기준금리를 올릴 것이란 기대가 이미 코픽스 상승으로 반영되었다.
+- 물가와 금리의 관계; The BOK does not raise the benchmark interest rate. The BOK expects the BOK to raise the benchmark interest rate, which is already reflected in COPIX.
 * 고물가: 금리 인상으로 시중 화폐량 감소; 저물가: 금리 인하로 시중 화폐량 증가
 
 ## 조선산업

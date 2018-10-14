@@ -12,6 +12,8 @@
 * #사냥감 #GAME; #fresh game
 * #수렵 #채집; #hunter-gatherer 
 * #목장; a cattle/sheep #ranch 
+* 못 도망가게 잡아놓고 똥 싸기 직전인 코뿔소 바로 뒤에 놓아야 돼; WE shouldtape him down right behind a rhinoceros who's about to poop rhinoceros 미국식 [-ˈnɑːs-]  영국식 [raɪˈnɒsərəs] 
+* 밀렵꾼이 코뿔소를 죽이려다 잡히면;; Next time a poacher is caught trying to kill one of these things
 * ---------------
 * #양서 동물(amphi; 물과 뭍 양쪽 모두에서 살 수 있는)
 * #연체 mollusk 중 가장 대표적인 것은 오징어 squid와 문어 octopus. 낙지 long-legged octopus

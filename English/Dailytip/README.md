@@ -16,6 +16,10 @@
 * 코팅된 광고지의 경우, 재활용이 되지 않아 종이류가 아닌 일반쓰레기로 분리하여 버리기!!!
   In the case of coated handbags, it is not recyclable, so please separate it into ordinary garbage instead of paper!
 
+## food wasteGarbage
+* 첫 번쨰는 가축의 사료가 될 수 있어야 된다. 두 번째는 완전 분쇄가 가능하여 기계 작동에 방해가 되지 말아야 한다.
+  The first should be able to feed the livestock. The second is that it is completely crushable and should not interfere with machine operation.
+
 ## Plastic
 플라스틱 용기  1, 2, 4, 5는 열에 강해 유해물질로부터 안전해 전자레인지 사용 가능
 		3, 6, 7는 열에 약해 전자레인지 사용을 하면 환경호르몬에 노출이 된다.

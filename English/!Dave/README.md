@@ -1,3 +1,4 @@
+* 재수없는 짓좀 그만해; STop being so full of yourself; you're so full of yourself
 * 내가 ~할게; I'll / Let me
 * 나 바빴어; I've been busy/hectic = Things have been hectic 
 * 좋은 생각같은데; SOunds like a plan = Good plan

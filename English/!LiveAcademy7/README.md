@@ -5,3 +5,6 @@
 * 무리한 부탁일 수도 있어요. This is very indulgent of me
 * 트위터에서 한 투표결과를 봤는데; I saw a poll on Twitter the other daay
 * 좀 뜬금없는 거 물어봐도 돼? Can i ask you somethhing off topic?
+* (크리스마스 때 장식으로 걸어 놓은) 겨우살이 나무줄기 아래서 키스를 하는 전통 the tradition of kissing under the mistletoe 
+* 2분마다 한 여성이 성폭행을 당한다는 사실을 알았을 때, A woman in sexually assaulted in this country
+* 빨랫줄에 빨래를 말리면 햇살 냄새가 배거든; Hanging clothes on the line makes the smell like sunshine
