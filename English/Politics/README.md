@@ -18,8 +18,10 @@ The best-selling classic of politics is Machiavelli's monarchy.
 
 ------
 ## 정치
+* 영사관; consulate 미국식 [ˈkɑːnsəl-]  영국식 [ˈkɒnsjələt] 
 * [명사] [보통 E~] 각하 ((장관·대사 등에 대한 존칭)); excellency 미국식 [éksələnsi]
 * 귀빈; Distinguished guests
+* 국빈; state[national] guest, guest of the state 국빈 대우를 하다 accord sb the treatment of a national guest 
 * 국왕, 왕자; Your Majesty, Your highness
 * 문화부 장관; minister of the Ministry of Culture	
 * #깨어있는 사람; are you #woke?

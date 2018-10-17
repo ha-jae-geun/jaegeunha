@@ -1,4 +1,5 @@
 # 피부 
+* 모공관리; How to tighten pores
 * 엄청 큰 여드름이 나겠지; i'm gonna have a huge zit
 * 피부 트러블이 나기 시작했어요; i started breaking out a little bit
 * 커버력 좋은거 찾고 있어요; i'm looking for the best coverage foundation

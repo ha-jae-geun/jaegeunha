@@ -1,3 +1,6 @@
+* 완전한/대규모 점검 a complete/major overhaul 
+* 똑바로 앉아. 구부정하게 하지 말고. Sit up straight. Don’t slouch.  [slaʊtʃ]
+* 폭탄이 있다는[폭탄을 설치했다는] 거짓말 a bomb hoax 
 * 금기를 깨다; break a taboo
 * 많은 외국인 노동자들이 우리 사회에서 홀대를 받고 있다 Lots of foreign workers are being neglected in our society.   [nɪˈɡlekt]
 * 그게 날 실망시킨다; It's bringing me down

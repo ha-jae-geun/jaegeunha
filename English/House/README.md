@@ -41,6 +41,7 @@
 * 
 
 ## 집	#집돌이; I've become quite the home body. 
+* 어떻게 먼지 터는지 알려줘야 했어요; I had to show him how to dust
 * 문 꼭닫아; I bolt the door real tight
 * i've become quite the #homebody
 * drop by my #flat/#place = wanna #come over?

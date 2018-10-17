@@ -6,3 +6,4 @@ If you do not obey the rules when drawing religious painting, it is blasphemy.
   Prior to the introduction of the perspective, it made a big picture of what was important.
 * 피렌체에서 종교화에서 원근법을 도입하였다. 
 In Florence, a perspective was introduced in religiosity.
+* [명사] (특히 성경의 십계명(the Ten Commandments) 중 한) 계명 commandment 미국식 [-ˈmæn-]  영국식 [kəˈmɑːndmənt]   단어장추가  중요

@@ -18,6 +18,7 @@
 
 
 # 나라
+* 망명을 원하다/신청하다/허락받다 o seek/apply for/be granted asylum 
 * 섬#; ~ is #composed of 3000 islands
 * Haitian [héiʃən,-tiən]; 아이티인
 * #산유국 #oil producer#
