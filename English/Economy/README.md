@@ -1,6 +1,118 @@
 # 경제
 
+# 나라
+## 베네수엘라
+### 2018 최진기의 생존경제 - [35] 베네수엘라 경제위기, 그리고 포퓰리즘
+* 석유 매장량 1위
+* 베네수엘라, 러시아는 전체 경제에서 석유가 차지하는 비중이 크다.
+  Venezuela and Russia have a large share of oil in the overall economy.
+* 국제 유가가 치솟으면서 증시가 약세로 돌아섰다;  As the price of crude oil shot up, the market turned bearish. 듣기 출처:능률교육
+* 국제 유가의 고공 행진이 계속되고 있다; International oil prices continue to skyrocket. 듣기 출처:능률교육
+* 정제기술의 미발달로 품질이 떨어진다. Quality is poor because refining techniques are not developed.
+
+# 빈부격차
+## 2018 최진기의 생존경제 - [37] 세계 최고 한국 통계, 불가피한 한계
+* 핵가족화가 빈부격차를 심화시킨다. Nuclear familyization deepens the gap between the rich and the poor.
+
+# 산업
+## [9] 기업하기 좋은 '진짜' 나라
+* 기업하기 좋은 나라는 법인세가 낮고 규제가 없고, 노동유연성(고용, 해고 쉬운 것)이 높아야 한다. Countries that are good for business should have low corporate tax, no regulations, and high flexibility of labor.
+* 실제로는 노동유연성이 높고, 부패가 없는 나라가 좋다. In practice, countries with high flexibility and good corruption are good.
+
+## 월드컵
+### 2018 최진기의 생존경제 - [24] 돈은 누가 벌지? 월드컵의 경제학!
+
+## 올림픽
+* 평창 올림픽의 14조 수입 중 12조에 해당하는 국비, 지방비 주 수입원은 세금이다. 
+  Among the 14 trillion won of the PyeongChang Olympic Games, 12 trillion national and local expenses are the main income sources.
+* 국제 스포츠는 알짜 수익을 IOC와 FIFA가 가져가는 구조다.
+  International sports are the structure in which the IOC and FIFA take the best profit.
+* 국제 스포츠는 중립국이 수익을 가져간다. * International sports take profit from neutral countries.(스위스; IOC: 로잔, FIFA: 취리히)
+* TV 판매량 증가로 삼성과 LG가 이득을 본다. 전세계 40%에 해당한다.
+  Samsung and LG are benefiting from increased TV sales volume. It accounts for 40% of the world.
+* 매년 월드컵을 후원하는 현대도 이득을 얻고 있다. Hyundai, which sponsors the World Cup every year, is also benefiting.
+  * 축구의 스피디한 이미지를 자동차에 적용했다. I applied the speedy image of football to my car.
+* 브라질월드컵 인프라 구축은 중국이 담당했따. China was responsible for building the Brazilian World Cup infrastructure.
+
+# 고용률
+## 2018 최진기의 생존경제 - [34] 2018 고용쇼크? 그 진실은!
+* 취업자 증가 수 = 신규 취업자수 - 퇴직자수(퇴직자 수가 늘어서 그렇다)
+* IMF의 경제 위기 문제와 인구 구조 문제를 동일선에 놓으면 안된다.
+  * Do not put the problems of the IMF's economic crisis and the population structure on the same line.
+
+## 반도체
+* 반도체는 휴대폰에만 들어가는게 아니라 무인차, 자동차에 반도체 관련 온갖 설비가 늘어나고, 중국의 생산량보다 소비량이 더 빨리 증가하고 있으므로 반도체는 위기가 아니다.
+  Semiconductors are not just a mobile phone. Semiconductors are not a crisis because unmanned cars, automobiles, and all kinds of semiconductor-related equipment are increasing and consumption is growing faster than China's production.
+
+### 2018 최진기의 생존경제 - [33] 한국 반도체 산업, 위기인가?
+* 메모리 가격이 떨어지고 있고, 점유율이 하락하고 있고 공급 과잉이 전망된다.
+  Memory prices are dropping, shares are falling and oversupply is expected.
+* 고정가는 상승하고 있고, 인공지능 등 다양한 곳에 쓰이고 있다.(빅데이터) Fixed prices are rising and are used in various places such as artificial intelligence.
+* 아직 격의 차이가 있고 설비 투자가 계속 되고 있다. There is still a gap and facility investment continues.
+
+
+
+## GM
+## 2018 최진기의 생존경제 - [12] GM사태, 제대로 바라보자! : 1부
+* GM은 무인차 시장에서 실행력과 전략에서 매우 우수하다.
+  GM is excellent in execution power and strategy in the unmanned car market.(리프트에 5억달러 투자)
+
+
+## 한국 산업
+* 2017년 3분기, 정부투자와 건축 중심 산업에서 설비 산업으로 변화하였고, 8대 신 산업의 수출이 증가하였다.  
+  In the third quarter of 2017, the construction-oriented industry changed to the facility industry, and the exports of the eight major new industries increased.
+
+## 4차 산업혁명
+### ## 2018 최진기의 생존경제 - [11] 기본 소득제, 미래의 대안인가
+* 러다이트 운동
+* 산업사회는 노동시간 단축, 실업의 권리화, 서비스업의 탄생으로 해결했다. Industrial society was solved by shortening working hours, privatization of unemployment, and birth of service industry.
+
+
+### 2018 최진기의 생존경제 - [3] 4차 산업혁..
+* 4차 산업혁명은 간단히 다품종 소량생산이다. The Fourth Industrial Revolution is simply a small quantity of small quantity production.
+* 기존의 컨베이어 벨트 생산에서 정보통신기반의 스마트공장 생산으로 바뀌었다. It has changed from the production of conventional conveyor belts to the smart factory production based on information communication.
+
+## 튤립거품과 가상화폐
+* 1636년 최전성기 네덜란드에서 식물원, 동인도회사, 알프스로 인해서 튤립버블이 터졌다.
+  In 1636, the Netherlands, the Tulip bubble burst due to the botanical garden, the East India Company, and the Alps.
+* 튤립거래는 술집에서 현금, 구금 없이 계약서와 경미한 중도금으로 선물거래로 거래되었다.  
+  The tulip transaction was traded in a bargain with no cash, no custody, and a futures transaction with a slight mid-term.
+* 거품 이후 네덜란드는 노동관의 붕괴, 자본주의 경제활동을 비판하였다.
+  After the bubble, the Netherlands criticized the collapse of the labor union and capitalist economic activity.
+* 가상화폐는 상장제도, 공시제도가 필요하다 Virtual currency requires a listing system and a disclosure system.
+* 블록체인은 정보의 비대칭성이 사라져 탈 중앙화된 화폐체제가 완성될 것이다.
+  The block chain will complete the decentralized monetary system by eliminating the asymmetry of information.
+
+
+# 경제위기
+## 경제위기가 되기 어려운 이유
+* 경제 위기의 대전제는 특정국의 부도와 연쇄적인 국가 부도의 발생이다.  
+  The anticorruption of the economic crisis is the occurrence of bankruptcy of certain countries and chain of state defaults.
+* 한국은 과거와 달리 외채 비중은 감소하고 투자 비중이 늘었다.(차관에서 주식 투자로 변화)  
+  Unlike in the past, Korea's foreign debt portion has decreased and its portion of investment has increased.
+* 차관 비중보다 증권투자와 직접투자 비율이 크다. Securities investment and direct investment ratio are larger than loans.
+* 98년 아시아 경제 위기 이후 고정환율에서 변동환율제도로 바뀌었다. Since the Asian economic crisis in 1998, it has changed from the fixed exchange rate to the floating exchange rate system.
+* 그리스 경제위기는 고정환율제로 인해 유럽에 연쇄 피해 가능성이 있었다. The Greek economic crisis was likely to be linked to Europe due to fixed exchange rates.
+* 하지만, 남아공, 파키스탄, 이집트 ,아르헨티나 등 현제 경제 위기 국가들은 모두 고립되어 다른 나라에 영향을 주지 않는다.  
+  However, current crisis countries such as South Africa, Pakistan, Egypt, and Argentina are all isolated and do not affect other countries.
+* 또 신흥국들은 외환보유고, 즉 저축액이 많고 그리스와 달리 정부 부채 비율도 높지 않다.
+  In addition, emerging economies have large foreign reserves, that is, savings, and unlike Greece, government debt ratios are low.
+
 ## 미국 금리 인상에 따른 한국 금리인상
+### 2018 최진기의 생존경제 - [8] 미국 신 성장의 그늘
+2018 최진기의 생존경제 - [7-1] 미국 금리, 왜 오를까? 1부
+* 금리는 경기가 좋을 때 올린다. Interest rates are raised when the economy is good.
+* 실업률이 높을때는 노동자의 임금이 오르지 않고, 유효수효가 늘지 않는다. When the unemployment rate is high, the wages of the workers do not rise and the effective number does not increase.
+* 4%까지 떨어진 미국 실업률을 보면, 완전 고용상태에 가깝다. 
+  Looking at the US unemployment rate, which is down to 4%, it is close to full employment.
+* 결론은 신용이 좋지 않은 사람도 신용을 회복 했고, 상업용 부동산에 투자가 증가했고, 미국 실업률이 완전 고용 상태에 가까워졌다.  
+  The bottom line is that even those with bad credit have recovered their credit, invested in commercial real estate, and the US unemployment rate is nearing full employment.
+
+### 2018 최진기의 생존경제 - [8] 미국 신 성장의 그늘
+* 도농 격차, 즉 교육 격차가 소득 양극화를 일으켰다.
+  The disparity between education and population, or education gap, has led to income polarization.
+
+
 ### 2018.10.8 2018 최진기의 생존경제 - [40] 한국 금리인상! 꼭 필요한가?
 * 경상수지 흑자; a current account surplus[deficit]
 * 금리 역전은 0.25%차이마다 15조의 유출이 일어난다. The reversal of interest rate yields 15 trillion leaks every 0.25% difference.
@@ -10,7 +122,7 @@
 * 코스픽 금리는 주택담보대출금리의 기준이 된다. 코스픽 is the basis for the mortgage loan rate.
 * 기준 금리 - 시중 금리 - 조달 금리: Base Rate - Market Rate - Procurement Rate
 * 조달금리: 은행에서 자금을 조달할때 든 금리 Interest rates when banks raise funds
-* 기준 금리: 한국은행이 시중에 돈을 공급할 때 이자율로 정하는 금리; In Britain, the base rate is the rate of interest that banks use as a basis when they are calculating the rates that they charge on loans.
+* 기준 금리: 한국은행이 시중에 돈을공급할 때 이자율로 정하는 금리; In Britain, the base rate is the rate of interest that banks use as a basis when they are calculating the rates that t hey charge on loans.
 * 시중금리: 일반적으로 기업/개인이 접하는 권리
 - 한국은행이 금리인상에 신중한 이유
 * 근원물가가 1% 성장에 그쳤다; 외부 충격에 민감한 농산물 및 에너지 관련 물가를 제외한 물가지수  
@@ -36,17 +148,76 @@
   the price has reached a level where the income of actual residents cannot afford the mortgage payments 
 * 일련의 대책을 내놓았다 has released a string of counter measures 
 
-## 최저임금
-** 정부는 최저임금 인상 법안을 70%의 찬성표를 보이며 통과시켰다. The government passed a hike in the national minimum wage, with 70% of the vote. 
+# 최저임금
+## 2018 최진기의 생존경제 - [10] 최저임금 논란없는 나라를 위하여
+* 최저임금은 나라에 따라 선순환이 될 수도 있고, 악순환이 될 수도 있다.
+  The minimum wage may be either a virtuous cycle or a vicious circle depending on the country.
+* 최저임금은 가계소득을 올려 최저 임금을 신경쓰지 않게 만드는 것이 좋다.
+  It is good to make the minimum wage not to worry about the minimum wage by raising the household income.
+* 정부는 최저임금 인상 법안을 70%의 찬성표를 보이며 통과시켰다. The government passed a hike in the national minimum wage, with 70% of the vote. 
 
-## 금리
+## 2018 최진기의 생존경제 - [30] 최저임금! 그 논란의 본질을 꿰뚫다
+
+# 금리
 * 경제학자들은 금리인상을 전망하고 있다.; Economists are predicting a hikein interest rates. 
 
-## 유가
+# 유가
+* 반미(공화국): 이란, 시리아 이라크, 친미(왕조): 사우디, 쿠웨이트, 아랍에미리트
+* 15-16년도 오바마는 신재생 에너지 산업으로의 전환을 목표로 저유가를 유지했다. In the 15th and 16th, Obama maintained low oil prices with the aim of shifting to the renewable energy industry.
+* 베네수엘라, 러시아는 전체 경제에서 석유가 차지하는 비중이 크다.
+  Venezuela and Russia have a large share of oil in the overall economy.
 * 국제 유가가 치솟으면서 증시가 약세로 돌아섰다;  As the price of crude oil shot up, the market turned bearish. 듣기 출처:능률교육
 * 국제 유가의 고공 행진이 계속되고 있다; International oil prices continue to skyrocket. 듣기 출처:능률교육
 
+## 3차 유가 전쟁
+* 3차 유가 전쟁에서 사우디는 원유 가격이 떨어졌지만 점유율도 미국에 비해 떨어져서 치킨게임에서 진 것이다.
+  In the third oil price war, the price of crude oil dropped in Saudi Arabia, but the market share of the Saudi crude was lower than that of the United States.
+* 트럼프 정권 이후 유가를 다시 50불로 합의했다. After the Trump regime, oil prices were again agreed at $ 50.
+
+
+# 증권
+## 2018 최진기의 생존경제 - [16] 삼성증권 사태, 그 전말은? 공매도
+* 공매도는 빌려온 주식을 매도하는것이다. Short selling is to sell borrowed stocks.
+* 공매도와 무차입 공매도는 다르다; 공매도는 허용, 무차입 공매동은 불법이다.
+
+## 2018 최진기의 생존경제 - [25] 완벽정리! 삼성바이오로직스 사태
+* 콜옵션
+
+## 2018 최진기의 생존경제 - [17] 삼성증권 사태와 공매도 논란 종결
+* 삼성 증권은 미래 에셋과 경쟁하고 있다. Samsung Securities is competing with future assets.(다른 분야에선 1등)
+* 강한 조건을 가진 공매도는 필요하다 Short sale with strong conditions is necessary.
+
+
+# 세금
+## 법인세
+* 현재 우리나라는 법인세를 실효세율로 거두고 있는데 명목세율로 거두면 더 많은 세수효과를 얻을 수 있다.
+  Currently, Korea has an effective tax rate of corporate taxes, which can be more taxable if it is collected at a nominal rate.
+
+## 전기세
+### 2018 최진기의 생존경제 - [32] 전기료 누진세 논쟁 총정리!
+* 부자와 빈곤층의 전기세 차이가 1.5배밖에 나지 않는다.
+  There is only a 1.5-fold difference in electricity taxes between rich and poor.
+
+
+
+## 2018 최진기의 생존경제 - [27] 조세개혁! 어떻게 이뤄야 할까?
+* 모든 조세제도는 현실 적합한 제도인가가 제일 중요하다. All taxation systems are the most important.
+
+* 담뱃세가 토지세보다 크다. Cigarette tax is bigger than land tax.
+
+
+## ## 2018 최진기의 생존경제 - [26] 이 보다 쉬울 순 없다! 종부세 개편안 완전분석
+
+
+# 주식
+
+# 부동산
+## 2018 최진기의 생존경제 - [26] 이 보다 쉬울 순 없다! 종부세 개편안 완전분석
+
 ## 부동산 양극화
+### 2018 최진기의 생존경제 - [38] 긴급진단! 9.13 부동산 대책
+
+### 2018 최진기의 생존경제 - [22] 부동산 폭락이 서민에게 나쁜 이유?
 * 근본적인 문제를 지적하는 회의적인 사람들도 많다 But there are many skeptics who point out fundamental problems 
 * 새로운 주거시설의 공급이 심각하게 부족하다 the supply of new housing is seriously lacking 
 * 가격의 하락 또는 적어도 가격의 안정을 가져오다 results in a drop or at least a levelling off of the prices 
@@ -54,7 +225,17 @@
 * 서울은 아파트, 특히 모던한 새 아파트의 공급 부족을 겪는다; Seoul experiences a lack of supply of apartments, especially newer and modern ones 
 * 임대주택시장 분석연구; An Analysis of the Rental Housing Market 
 
-## 무역전쟁
+# 휴가
+## 2018 최진기의 생존경제 - [31] 신나는 휴가에도 경제학이 숨어있다?
+
+# 무역전쟁
+## 2018 최진기의 생존경제 - [14] 트럼프는 왜 무역전쟁을 택했나?
+* 중간선거에서 지지층을 결집시키기 위해 주적을 선정했다.
+  In the midterm elections, elected candidates to mobilize support.
+* 애국과 안보에 경제, 부호 무역을 결부시켰다. The economy and the code trade were attached to patriotism and security.
+* 지적 재산권, 앤드루 카네기 이후 1980년 이후 접은 철강산업부터 무역전쟁을 시작했다. Intellectual property rights, since Andrew Carnegie since 1980, have started a trade war from the steel industry.
+
+## 2018 최진기의 생존경제 - [28] 미중 무역전쟁, 재앙의 시작인가?
 * 무역보복; encounter trade retaliation; cause trade retaliation; endure trade retaliation
   accept trade retaliation
 * 확대해석하다; 확대 해석하다; stretch the meaning of; bend the rules;  can be misunderstood

@@ -1,5 +1,5 @@
 * 입장을 밝히세요; Take a stand
-* 흑인 사장이라, 퍽도 그렇게ㄸㅆ사; A lolored mayor, that'll be the day
+* 흑인 사장이라, 퍽도 그렇게ㄸㅆ사; A colored mayor, that'll be the day
 * 난쟁아; [명사] (금기어, 모욕적) 난쟁이; midget
 * 재수없는 짓좀 그만해; STop being so full of yourself; you're so full of yourself
 * 내가 ~할게; I'll / Let me
