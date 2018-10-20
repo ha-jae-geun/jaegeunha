@@ -1,3 +1,9 @@
+* 주주총회를 개최하다 hold[have; open] a general meeting of stockholders 
+* 대상으로; a student-oriented magazine 
+  * a dictionary (intended) for[aimed at] highschool students
+  * conduct a survey of 30 middle-aged menㅅ
+* 세금 면제 tax exemption
+* 상속세 inheritance tax
 * 멀리서 보고 있었어요; I was watching you from a distance; you are atching from far away
 * 평화를 유지하다; keep the peace wih the country
 * 영화 제목도 틀렸어; You even got that film's name wrong

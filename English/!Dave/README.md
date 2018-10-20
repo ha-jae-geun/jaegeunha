@@ -1,4 +1,18 @@
+* 참고 견뎌얒; you got to take it on the chin
+* 우리의 기대를 넘어섰어; He's exceeding our expectation
+* 저희는 태어날 때 부터 단짞이었어요; We've been besties since the day we were born
+* 입숭를 더 오므려봐; Purse your lips more.
+* 다들 바짝 붙어; Everyon squish  [skwɪʃ]
+* 가볒게 좌우로 흔들어주셔도 돼요? You mighr rock a little gently side-to-side
+* 가도 돼; YOu're off the hook
+* 나무꾼이요? Lumberjack?
+* 이 책이 그 시기에 대한 완전한 역사서라고 칭하는 것은 아니다. The book does not purport to be a complete history of the period. 
+* 인터넷은 TV 산업에도 중요한 역할을 한다. Internet plays a pivotal role, even in the TV industry.
 * 입장을 밝히세요; Take a stand
+* 뿌린대로 거둘거야; you're going to rep what you sow
+* (누군가가) 그 승용차에 휘발유를 잔뜩 부어 불을 질렀다. The car was doused in petrol and set alight. 
+* 갑자기 폭발했어요; Something in me just snapped
+* 여유 있게 따라오는건 어때? How about a loose follow?
 * 흑인 사장이라, 퍽도 그렇게ㄸㅆ사; A colored mayor, that'll be the day
 * 난쟁아; [명사] (금기어, 모욕적) 난쟁이; midget
 * 재수없는 짓좀 그만해; STop being so full of yourself; you're so full of yourself

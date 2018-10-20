@@ -15,6 +15,7 @@
 * Faded - Alan Walker - 알렌 워커
 * Honeymoon Avenue - Arian Grande
 * Finesse (Remix) (Feat. Cardi B) - Bruno Mars
+* Love on top - Beyonce
 * Britney Spears - 3
 * Altogether Alone - Be the voice
 * Meant to Be - Bebe Rexha, Florida Georgia Line - 
@@ -25,20 +26,25 @@
 * Oops (Feat. Charlie Puth) - Little Mix - 리틀 믹스
 * Demi Lovato - Sorry not sorry - 데미 로바토 
 * Dua Lipa - One kiss - 두아 리파
+* Love me like you do - Ellie Goulding
 * Shape of You - Ed Sheeran - 에드 시어런
 * Worth It (Feat. Kid Ink) - Fifth Harmony
 * Fitz and the Tantrums - HandClap -  피츠 앤드 더 탠트럼스 
 * Kasabian - Fire
 * Despacito (Remix) - Luis Fonsi, Justin Bieber, Daddy Yankee
 * The show- Lenka - 렌카
+* Sorry for party rocking - LMFAO
 * Love never felt so good - Michael Jackson
 * Psycho ft. Ty Dolla $ign - Post Malone - 포스트 말론
 * Happy - Pharrel williams - 퍼렐 윌리엄스
 * Lucky strike - Maroon 5 - 마룬 5
+* Nothing Lasts forever - Maroon5
 * Maps - Marron5
 * Sirancha - Marteen - 마틴
 * Friends - Marshmello - 마시 멜로우
 * Happy Ending - Mika
+* Bangarang - skrillex - 스크릴렉스
+* Mi Mi Mi - Serebro - 세레브로
 * Mike Ferry - The ocean - 마이크 페리
 * Love never felt so Good - Michael Jackson - 마이클 젝슨
 * Ray Charles - Hit The Road Jack(1961) - 레이 찰스
@@ -50,14 +56,20 @@
 * Almost is never enough - Ariana Grande - 아리아나 그란데
 * My Everything - Ariana
 * Santa tell me - Ariana Grande
+* If i Ain't got you - ALicia Keys - 앨리샤 키스
+* On bended knee - Boyz ll Men - 보이즈 투 멘
 * bye bye i finally - chicken
+* Beautiful - Christina Aguilera
 * Ciara - Body Party - 시애라
 * Bad day - Daniel Powter - 다니엘 파우터
+* Still with you - Eric Benet - 에릭 베네이
 * Nothing's gonna change - Glenn Medeiros - 글렌 메데이로스
 * Jeff Bernat - Changes - 제프 버넷
 * Jessi J- Casualty of Love
+* Slow Motion - Karina
 * Paris in the rain - Lauv - 라우브
 * Last Chance - M.Y.M.P
+* How am i supposed to live without you - Michael Bolton
 * Pretty Boy - M2M
 * Say you love me - M.Y.M.P
 * Someday - Nina
