@@ -18,6 +18,9 @@
 # Eric Benet - Still with you
 * 외로움의 눈물이 당신의 얼굴을 따라 흘러내리는 게 느껴질 때 When you feel those lonely teardrops Rolling down your face
 
+* 사랑으로 인도하는 등대였죠; Love was a lighthouse guiding the way
+* 그림자를 따르는건 우릴 나쁜길로 이끌었고; Following shadows that led us astray; [əstréi]
+* 우리는 빛에 이끌린 두 마리 반딧불이었어요; we were two fireflies drawn to the glow
 
 
 

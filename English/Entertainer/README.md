@@ -6,6 +6,7 @@
 * 교통정보는 ~엣 전해드립니다; The traffic report is brought to you by News 51
 * 덴버 시내의 최신 정보를 알려드리겠습니다; We now bring you the latest update in downtown Denver
 
+
 # 연예인
 * 레이디가가; Mother monster - 팬들: Little monsters
 * 믿고보는 배우다; he's a go-to actor
@@ -16,6 +17,8 @@
 * 장편 영화; feature film
 * 좋은 영화에요; Such a good movie
 * 믿고 거르는 영화; worth a skip
+* 영화배우가 될 운명이야; She's destined for the screen
+* 하나 더 완성했다; 영화촬영 완료; Another one in the can
 
 # Entertainment
 * #감식가: #connoisseur[|kɑ:nə|s3:r;-|sʊr] 

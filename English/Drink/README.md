@@ -1,3 +1,10 @@
+# 와인
+* 프랑스보다 이탈리아 와인이 원조다. 이탈리아는 기원전 100년ㄴ경부터 티베르강에서 아프리카까지 이르는 대제국 건설. 프랑스는 프랑크족에 의해 13세기부터 발전.
+  Italian wine is more than France. Italy is a great empire from the Tiber River to Africa from 100 BC. France has been developed by the Frank since the 13th century.
+* 보르도사람은 여러 리스트가 있어서 다른 모험을 할 필요가 없어  보르도와인만 먹는다.
+ Bordeaux people have different lists so they do not have to take another adventure and only eat Bordeaux wine.
+
+# 기타
 * 술이 좀 약해요; I'm kind of a lightweight now
 * 벌써  취한것같애; i'm already wasted/hammered
 * 술마시면 얼굴 빨게짐; i'm getting that Asian glow

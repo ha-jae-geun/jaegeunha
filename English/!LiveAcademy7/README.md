@@ -12,3 +12,11 @@
 * 2분마다 한 여성이 성폭행을 당한다는 사실을 알았을 때, A woman in sexually assaulted in this country
 * 빨랫줄에 빨래를 말리면 햇살 냄새가 배거든; Hanging clothes on the line makes the smell like sunshine
 * 사람들은 음식과 기름을 사재기 시작했다. People have begun to hoard food and gasoline. 
+* 그녀의 오빠[남동생]들은 두 사람 다 기골이 장대한 40대였다.
+  Her brothers were both hefty men in their forties. 
+* 복사기 어디 고장났나 봐. I think the copier has a glitch in it somewhere. 
+* 그게 날 들어올려서; That's when it scooped me up
+* 헛소리 말고 사실대로 말해; Recant this ridiculous story and tell the truch [rɪˈkænt]
+* 설인이야; It's a yeti
+* 그렇게 떨어져가; They come unstuck
+* 내가 항상 네 소매를 잡아당기니까; I'm always tugging at your sleeve

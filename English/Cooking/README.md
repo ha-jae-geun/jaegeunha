@@ -256,6 +256,7 @@
 * #굵은 소금에다가 새우를 놓아		 prɔːn You put prawns on top of coarse salt like this
 * ##반죽 #dough ##속 #filling; you got the fillling; 속도 먹었어?
 * #반죽이 적었어 							there was to litter batter
+* 반죽을 피다; Spread dough in pan
 * #반죽 치대기. 일명 꾹꾹이 #kneading, #dough / making #biscuits
 * #밀가루 반죽 			 [doʊ] Knead the dough on a floured surface.
 * 반죽이 불어오르다 wait for a dough to rise

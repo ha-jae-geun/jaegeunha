@@ -410,3 +410,9 @@ Legs are long but calf is thin, saving 80% of oxygen consumption
 ### 두오모 성당 Milan Cathedral
 * 두오모 성당은 지붕을 두개 지어 무게를 줄였다. The Duomo Cathedral has two roofs to reduce weight. [kəˈθiːdrəl]
 * 또 벽돌로 비계를 만들어 나무를 낭비하지 않았다 did not waste trees by making scaffolding with bricks.
+
+# 독일
+* 말 한건 꼭 지켜야한다
+* 트림을 하면 안된다.
+* 주어진 규범 내에서 벗어나면 안된다.
+* 무질서와 불의중 하나를 선택해야 할 떄 기꺼이 불의를 선택한다

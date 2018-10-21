@@ -1,3 +1,14 @@
+* 여름방학; Summer break; 집에서 휴가; enjoy stayvacation
+* 발목에 추적 시스템이라도 달아놔야 할까봐; I need like an ankle tracking system on her
+* 어떻게 이렇게나 잘못 예측했을까? How did i read the stars so wrong
+* 천국에서 추락하고있네; Falling from cloud 9
+* 뛰엉들지 않았을텐데, 굴복하지 않았을텐데; Dive in, wouldn't bow down
+* 정말 웃기다고 생각해; think it's pretty hysterical
+* 방심한 상태를 잡아낸거죠; Cattching a regular family off guard
+* 유모가 아니라 아내에요; wife not his nanny
+* 연출된 것도 아니에요; It wasn't stage either
+* 저희 휴대폰을 ㄲ야 하는 지경에 이르렀어요; Got to the point where we had to turn off our phones
+* 벽을 치는 것 같이 느끼셨다면; If it seemed like stonewalling(연락, 질문 등을 방해하다.)
 * 참고 견뎌얒; you got to take it on the chin
 * 우리의 기대를 넘어섰어; He's exceeding our expectation
 * 저희는 태어날 때 부터 단짞이었어요; We've been besties since the day we were born
