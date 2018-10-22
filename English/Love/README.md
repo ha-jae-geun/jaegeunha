@@ -342,6 +342,9 @@ erogenous 미국식 [irɑ́dƷənəs] ; zone
 #전희 #foreplay; lack of foreplay
 ##벌리다 bust it (open) (2. 총을 쏘다)
 #오럴
+* 성적 절정에 이른다; earth moving
+* 게이; 수염을 기른 게이 남성; bear
+* 창녀; hooker
 #빨보 해주다 			 give me head and man ; gave me the best head last night
 #give me brain; #brain
 				 = go down on me , went down on me

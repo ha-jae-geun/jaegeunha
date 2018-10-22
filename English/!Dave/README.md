@@ -9,6 +9,11 @@
 * 연출된 것도 아니에요; It wasn't stage either
 * 저희 휴대폰을 ㄲ야 하는 지경에 이르렀어요; Got to the point where we had to turn off our phones
 * 벽을 치는 것 같이 느끼셨다면; If it seemed like stonewalling(연락, 질문 등을 방해하다.)
+* 무관심해지고 버릇없어지죠; You become callous, you become crude ˈkæləs] 
+* 화려한 입담을 자랑하기 시작했어요; He starts with his sort of like razzle-dazzle
+  * 야단법석 떨지마; Stop going on the razzle-dazzle
+* 사무실에 앉혀놨죠; Plop them into the Cambridge office
+  * Can you plop the ice in at the end
 * 참고 견뎌얒; you got to take it on the chin
 * 우리의 기대를 넘어섰어; He's exceeding our expectation
 * 저희는 태어날 때 부터 단짞이었어요; We've been besties since the day we were born

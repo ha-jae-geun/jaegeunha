@@ -220,9 +220,11 @@
 * *How many months have you been pregnant
 * #baby fever; An urgent desire to have a baby or grandchild.
 * #진통중에 내가 한 말이네; that's what I told you; when you were #in labor
+* 제가 집에서 진통 중일 때, when i was laboring at home
 * 임신 3개월 #trimester, the first/second/third trimester
 * 제왕절개 수술을 두번이라 해서 충분히 힘들었어; But i've had two C-sections and i have suffered enough
 * 높은 음이 날 임신시켰어 The high notes in this song got me pregnant
+* 사생아; the king was troubled by his number of illegitimate children
 * ‘상상 임신 					 false pregnancy나 phantom pregnancy
 * 4개월 됐어 i'm four months pregnant / she is four months #along in her pregnancy
 * ##입덧이 심해 I have bad #morning sickness

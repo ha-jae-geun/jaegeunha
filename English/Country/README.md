@@ -16,6 +16,13 @@
 * It refers to 11 emerging economies that are ranked as a country with good growth potential and investment prospects following Briggs. Next Eleven is the name of 11 countries that will lead the global economy following BRICs (BRICs: Brazil, Russia, India, China, and 4 emerging economies). It is also referred to as N-11.
 
 
+# 러시아
+* 키예프 루시
+* 몽골의 지배
+* 모스크바 공국
+* 재정러시아
+* 소비에트 러시아
+* ㄹ시아/러시아 연방
 
 # 나라
 * 망명을 원하다/신청하다/허락받다 o seek/apply for/be granted asylum 

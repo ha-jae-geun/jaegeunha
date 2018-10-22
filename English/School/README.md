@@ -1,3 +1,7 @@
+# 학용품
+* 그냥 다섯 개의 섹션으로 나누어진 공책 한권; i just get a five-subject notebook
+* 다섯 개의 공책; i can't do five separate notebooks
+
 # 대학
 * 학점이 다가 아니야; Grades are not everything(grade: 학점, 점수)
 * 4~5교시 사이; it was middle of forth and fifth period
