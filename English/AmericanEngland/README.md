@@ -1,3 +1,4 @@
+* 밴드: band-aid / plaster
 * 냄비; camping pot; boiling pot; 호주: billy
 * 운동화; runner; trainer
 * #목재; 1. #lumber #timber(영국); 나무꾼; #lumberjack

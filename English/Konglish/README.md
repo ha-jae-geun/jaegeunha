@@ -1,4 +1,6 @@
 * 츄리닝: tracksuit / sweatsuit
+* 콘센트; Power socket
+* 화이팅: Let's go; You got this!
 * 멀티탭: Power strip
 * 선팅; tinting; Window tinting
 * 벤츠; Mercedes Benz

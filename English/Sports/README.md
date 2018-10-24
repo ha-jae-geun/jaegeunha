@@ -39,6 +39,7 @@
 
 ---------
 * 「스포츠」 	#스포츠
+* 판정승까지 갈 줄 알앙써; i expected them to go the distance
 * 그는 올해 1군 선수가 될거야; He's going to be first string this year
 * 정정당당한 대결만을 원합니다; i want nothing but a fair, square fight
 * #선수; 구기: #player, 스키 선수: #athlete / #skater

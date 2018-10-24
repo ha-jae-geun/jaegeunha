@@ -395,6 +395,7 @@ If we don’t get to work soon, we won’t finish it on time.
 * 그는 남들이 꺼려하는 어려운 일을 하기를 원했다 		 The CEO wanted to #get his hands dirty 
 * 일이 이렇게 된 것은 그의 책임이다; he is to blame for this #state of affairs; state of affairs: #현상황
 * 그 일 당장 처리해. 						 Attend to it immediately. 
+* 8시에 출근 도장 찍음; i punched in at 8:00 
 * 그는 업무 속도를 따라가지 못했었기 때문에, 콜센터 근무를 그만뒀다.
 He decided to quit his job at the call center because he couldn't stand the pace.
 * 크리스마스에 이틀을 쉰 뒤, #일터로 돌아가야 한다! 				 #go back to salt mines

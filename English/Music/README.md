@@ -1,4 +1,5 @@
 * 대중 음악에서 후렴부를 복잡하게 쓰면 사람들은 싫어한다. People complain about complicated refrain/Chorus in popular music.
+* 노래방 18번이다; karaoke staple
 
 # 가수
 * 칼 근무; Synchronization 혹은 synchronized dance moves

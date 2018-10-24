@@ -281,6 +281,10 @@ Legs are long but calf is thin, saving 80% of oxygen consumption
 * Divorce is illegal
 
 # 일본
+* 밥먹을 때 식기 들고 먹는게 예의
+* 택시 문이 자동으로 열려서 문 잡으면 안된다.
+* 지하철에서 통화하면 매너 아니다.
+* 술을 따뜻하게 데워먹는 문화가 있다.
 * ㆍ#haikus; 일본시; 운율을 맞추기 위해 글자수 제한이 있음
 * Don't speak in these weird haikus
 
@@ -384,7 +388,15 @@ Legs are long but calf is thin, saving 80% of oxygen consumption
 스킨스쿠버(Skin Scuba) 또한 강습하는 곳도 많고, 즐기는 사람들도 많이 있답니다.
 
 
-# 스페인어
+# 스페인
+* 10시에 저녁먹는다. 간단한거.
+* 9시 아침, 11시 브런치, 점심 2시, 5~6시 간단한거
+* 점심먹고 낮잠; 20~1시간
+  * 2시~5시 바, 레스토랑 제외 문 다 닫는다.
+
+
+## 스페인어
+* 언어가 4가지있다; 카탈루냐; 바스크; 발렌시아; 갈리시아어;키스티야어
 * 부에노: good
 * #abuela; 스페인어
 * 그라시아스: 땡큐

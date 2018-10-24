@@ -66,7 +66,6 @@
 * 교정하다; had her teeth starightened in the past
 * 비뚤어지다; went all crooked again
 --------------
-
 # 병원
 * 잠복기간이 길다; That disease has a long incubation(latent) period
 * 퇴원하다; i was discharged from hospitals
@@ -74,6 +73,11 @@
 * #질병	#ailment, #illness, #disease - 질병 #malady
 * #질병관리센터	#CDC; #Center for Disease control
 * 미국에서는 예약 없이 병원 못감
+* 피부과의사: dermatologist, 안과: ophthalmologist [ˌɑːfθælˈmɑːl-]
+  정형외과: orthopedic surgeon; 부인과; gynecologist/gynie  [ˌɡaɪnəˈkɒlədʒi] 
+  성형외과: plastic/cosmeti surgeon; 마취의: anesthesiologist 미국식 [-ˈɑːlə-]  영국식 [ˌænəsˌθiːziˈɒlədʒɪst]
+  방사선의 radiologist, 정신과 의사: shrink(psychologist: 심리학자와 구별 위함)
+  수의사: veterinarian  [vètərənέəriən] = vet; 외과의사: surgeon
 * physician 의사, doctor 의사, surgeon 외과의, dentist 치과의사, patient 환자, medication 약물, fill the prescription 처방전을 발행하다, take medicine 약을 먹다, symptom 증상, signs 징후, * shot 주사, injection 주사, surgery 수술 #간호사 ##RN register nurse #RN; #right now
 * #밤샘 간호; #vigil
 * #건강검진 ; it’s good to get a #checkup #메스(수술용): scalpel [skǽlpəl]

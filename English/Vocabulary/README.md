@@ -181,6 +181,7 @@
 * 길이, 크기, 부피 전체가 다 커지는 그림
 * outgrow: ~하기엔 너무 큼
 
+
 ## get
 * 움직여서 상태가 변화는 느낌
 * Let's get moving
@@ -219,3 +220,9 @@
 ## take
 * 정말 강한 소유욕 <> have
 * 어떻게든 내것으로 가져오는 느낌
+
+## travel, trip
+* travel: 움직이고 이동하는 그림
+  * the ball travels at 160km/h
+  * How do you travel to school? 학교 어떻게 다녀?
+* business trip

@@ -99,7 +99,8 @@
   In addition, emerging economies have large foreign reserves, that is, savings, and unlike Greece, government debt ratios are low.
 
 ## 미국 금리 인상에 따른 한국 금리인상
-### 2018 최진기의 생존경제 - [8] 미국 신 성장의 그늘
+### 2018 최진기의 생존경제 - [8] 미국 신 성장의 그늘
+
 2018 최진기의 생존경제 - [7-1] 미국 금리, 왜 오를까? 1부
 * 금리는 경기가 좋을 때 올린다. Interest rates are raised when the economy is good.
 * 실업률이 높을때는 노동자의 임금이 오르지 않고, 유효수효가 늘지 않는다. When the unemployment rate is high, the wages of the workers do not rise and the effective number does not increase.
@@ -168,6 +169,32 @@
   Venezuela and Russia have a large share of oil in the overall economy.
 * 국제 유가가 치솟으면서 증시가 약세로 돌아섰다;  As the price of crude oil shot up, the market turned bearish. 듣기 출처:능률교육
 * 국제 유가의 고공 행진이 계속되고 있다; International oil prices continue to skyrocket. 듣기 출처:능률교육
+* 유가가 증가하면 물가도 올라가고 금리가 인상한다 As oil prices rise, prices rise and interest rates rise.
+* 유가와 달러는 반비례한다. Oil and dollar are inversely proportional.
+
+## 2014년 유가 폭락의 이유 
+* 중국 경제 둔화 + 셰일 가스 생산 증가 + OPEC 감산 실패 
+  China's economic slowdown + shale gas production growth + OPEC production cutback
+
+## 최진기의 생존경제 - [42] 하늘을 치솟는 유가! 왜 오를까?
+* 기름은 브랜트 유, 두바이 유, 서부텍사스원유 3가지로 나뉜다.
+  Oil is divided into three types: crude oil, Dubai oil, and West Texas crude oil.
+* 정치적으로는 미중 무역전쟁과 이란 무역제재가 원인이다.
+  Politically, it is caused by the US-China trade war and Iran's trade sanctions.
+* 유가 가격변동의 원리는 시장 불균형 상태에서 정치적 사건으로 인해 큰 가격 변동이 발생한다.
+  The principle of oil prices fluctuates due to political events in the market imbalance.
+* 최근 유가 급등의 원인은 수요가 꾸준히 많은 상태에서 정치적 사건이 발생한 것이다.
+  The recent surge in oil prices has been caused by political events with steady demand.
+* 수요가 좋은 이유는 세계경제가 호황이기 때문이다. Demand is good because the global economy is booming.
+* 공급이 미진한 이유는 미국 셰일가스 견제로 인한 OPEC과 러시아의 석유 감산이다.
+  The reason for the lack of supply is OPEC and Russian oil cutbacks due to US shale gas containment.
+* 공급이 부족한 이유 두 번쨰는 베네수엘라 경제 위기로 인한 석유 생산량 감소이다.
+  Reasons for lack of supply The second is the decline in oil production due to the Venezuelan economic crisis.
+* 유가증가와 같이 증가하는 셰일가스 리그수 The number of shale gas leagues increases as oil prices increase
+* 유가와 달러가 상승하는 예외상황이 발생했다. There was an exception that oil and dollar rises.
+* 환율상승과 금리인상과 물가상승이 소비감소를 일으켰다. F / X rates, interest rate hikes and inflation led to a decline in consumption.
+* 한국은 원유 수입국이기에 유가 상승은 좋지 않다. Since Korea is a crude oil importing country, rising oil prices are not good.
+
 
 ## 3차 유가 전쟁
 * 3차 유가 전쟁에서 사우디는 원유 가격이 떨어졌지만 점유율도 미국에 비해 떨어져서 치킨게임에서 진 것이다.

@@ -1,4 +1,11 @@
 ## 동물
+* 부질 없는 짓이야; This is a wild goose chase
+* 이상적인 사람; Mr.right
+* 알몸; WE used to swim in our birthday suits
+* 감지덕지해야죠; WE should count our blessings
+* 선택의 여지가 없다; Pretty out of option
+* 한물간 퇴물; , I thought he's just an #over-the-hill rapper
+* 노래방 18번이다; karaoke staple
 * 조류/야생 동물 보호구역; a bird/wildlife sanctuary; sanctuary 미국식 [-ueri]  영국식 [ˈsæŋktʃuəri
 * #수의사; #veteran; #veterinarian; #vet#; #동물병원
 * #짐승; #animal, #creature, #beast - 짐승, 동물 

@@ -232,3 +232,12 @@ are you afraid of heights? your zipper is
 * 꽃무늬의	'flɔ:rəl floral
 * 페이즐리 	'peɪzli paisley
 * 무늬가 있는	print
+
+
+# 세탁
+ * 물 세탁 - washable
+ * 손빨래 - hand wash
+ * 물 세탁하지 마세요 - do not wash
+ * 드라이클리닝 - can be dry cleaned
+ * 낮은 온도에서 다릴 것 - cool iron
+ * 다림질하지 마세요 - do not iron
