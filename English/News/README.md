@@ -5,6 +5,7 @@
 * 구호활동도 열심이시잖아요; Humanitarian work is well known
  [-ˈter-]  영국식 [hjuːˌmænɪˈteəriən]
 * 팔레스타인 난민을 봅다; i visited Palestinian refugees
+* 안락사 반대 단체들이 그들을 막기 위해 집결하며; an euthanasia opposition groups mobilized to stop them [ˈmoʊ-]  영국식 [ˈməʊbəlaɪz]
 
 # 세계
 * 해외 속보입니다; Breaking news overseas
@@ -14,3 +15,6 @@
 * 한국 대통령이 새롭게 취임하면서; With a newly-elected SOuth korean leader
 * 트럼프에게 핵 교착상태의 종식의 공을 돌리다; Many have credited Rtump with ending this nuclear standoff
 * 북한에 억류되었습니다; be detained in North Korea
+* …를 업신여기다[무시하다] to treat sb with disdain  [dɪsˈdeɪn]
+* 그의 부모는 서로 악다구니를 퍼부으며 이혼했다. His parents went through an acrimonious divorce. 
+* 그 사건의 피해 당사자[피해자] the aggrieved party 미국식  영국식   단어장추가

@@ -1,3 +1,4 @@
+* admirable 미국식 [ˈædmərəbl]
 * bathroom: ba에서 숨 참고 th까지 발음하면서 숨을 뱉고 멈추며 바람을 불듯 room 발음
 * get some; get과 someone 띄어서 bit someone; Don't hit so hard; I got sick
 * hardly; 할리

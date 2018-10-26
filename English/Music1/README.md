@@ -1,3 +1,6 @@
+# 2 Days - Marteen,  We Cool - Marteen - 마틴
+* 경외감이 들지; i'm in awe [ɔː] 
+
 # casualty of love
 * 끝까지 갈거야; i will go down to the last round
 * 힘이 되 줄거야; i will be your strength

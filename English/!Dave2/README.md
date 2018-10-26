@@ -1,3 +1,29 @@
+* 죽여주는 ~; killer ~; he has a killer voice0
+* 다 같이 섞어주세요; Just whisk it all together
+* 전 신진대사가 정말 활발해요; i have a very extremely fast metabolism
+* 야생에서 오줌 싸니까 기분이 짜릿한데; There's something thrilling about peeing in the wilderness
+* 글루틴ㄴ이 포함되지 ㅇ낳았고, gluten free
+* 구역질 반사가 심각하게 예민해요; i have a seriously sensitive gag reflex
+* 너야말로 끝났어; You're going down
+* 그녀에게서는 자신감이 줄줄 흘렀다.[also V] [VN] She exuded confidence. 
+* 날 이상하게 보지마; Don't judge me
+* 마법사에겐 가장 기본적인 것 같은거야; It's sort of a wizard's bread-and-butter
+* 와관잡아; Grab a tiara
+* 심리학자들은 또라이라고 부릅니다; Psychologists call a "cuckoo bird".
+* 명확한 답변을 원해; i want a straight answer
+* ~라고 말해도 무리는 아니다; It's safe to say that~
+* 유행에 뒤떨어지다; They were going out of style
+* 한국인일거라는 생각에 좀 더 기울이고 있었어요; I was leaning more towwards Korean
+* 추위엔 젬병이에요; i'm a huge wuss if it's cold  [wʊs]
+* 배부른 걱정이죠; First world problems; 선진국들 중에서도 부유한 선진국 의미
+* 누가 알려줬어? Who tipped you off?
+* 내가 뭘하든 성공하겠단 걸 넌지시 비추더니까; She was majorly hinting that i could go places; go place: 성공하다
+* 속을 털어놓다; get it off one's chest
+* 침실로 직행하더라고요; im #make a beeline to his bedroom
+* 저건 내 음악 커리어의 정점이라고 할 수 있지; That's the culmination of my entire music career
+* 맞아 그거야; THat's the tone
+* 그건 잘됐네요; That's a plus
+* 완전 귀여워; Totes adorbs = Totally adorable
 * 그는 눈을 동그랗게 뜨고 그녀를 지켜 보았어요. He kept a beady eye on her.
 * 그녀는 제 눈을 똑바로 보지 못했어요. She couldn't look me straight in the eye.
 * 갑작스런 움직임이 제 눈길을 끌었어요. A sudden movement caught my eye

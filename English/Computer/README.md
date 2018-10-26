@@ -30,7 +30,10 @@
 
 # 핸드폰
 * 터치감; Why is the touch screen so good?
+* 저장 공간이 부족하대; i've run out of space on my phone
 
 ## 소셜 미디어
 * 페이스북 앱을 삭제하는 사람보다 새로 가입하는 사람 수가 더 많다 the newcomers outnumber the people deleting the app 
 * 인사트그램에 올릴만하다; ~ is Instagrammable
+* 사진 찍어서 인스타에 올렸어; i just snapped a photo, put it up on Instagram
+  * put it up / post it on instagram

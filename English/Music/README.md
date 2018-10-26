@@ -42,6 +42,8 @@
 * Nothing Lasts forever - Maroon5
 * Maps - Marron5
 * Sirancha - Marteen - 마틴
+* 2 Days - Marteen - 마틴
+* We Cool - Marteen - 마틴
 * Friends - Marshmello - 마시 멜로우
 * Happy Ending - Mika
 * Bangarang - skrillex - 스크릴렉스
