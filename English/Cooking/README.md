@@ -1,4 +1,5 @@
 # tool
+* 후라이펜을 중불에 예열해라; preheat nice big skillet on medium high [skílit] 
 * 체; sieve; 과일 채소 물빼는 체; colander; 집개; tongs
 * 1회용 장갑; dispoable gloves
 * 냄비 받침; Trivet
@@ -21,6 +22,7 @@
 * ☆가리비는 scallop; collop, 맛조개는 razor clam, 바지락은 Manila clam, 꼬막은 cockle이라고 합니다.
 * #진주는 pearl이라고 하는데요. 이 진주가 나는 조개는 영어로 Pinctada fucata GOULD
 * 찹살가루; Glutinous rice powder
+* 반죽; batter; 가루+물; 주로 펜케이크, 케이크용 반죽, 튀김옷 같은 묽은 반죽; 베터 <> 빵, 피자, 면 등 밀가루 반죽: dough
 
 # Egg
 * 노른자 살짝만 익혀주세요; I want it over easy
@@ -46,6 +48,7 @@
 
 # Cooking
 * 달걀을 1분간 휘저으세요; Beat the eggs/cream until fluffy
+* 1대 2 비율로 섞어요; mix this in a 1:2 ratio; 1 to 2
 * 반죽을 치대세요; Knead the dough until smooth; 10 times  [niːd]  [doʊ]
 * 요리계의 두 거장이 정면으로 맞섭니다; Two culinary juggernauts go head to head juggernaut 미국식 [-ɡərn-]  영국식 [ˈdʒʌɡənɔːt]
 * #오늘의 #메뉴 today’s special' / what's the #speciality(#main menu) / the #signature menu is

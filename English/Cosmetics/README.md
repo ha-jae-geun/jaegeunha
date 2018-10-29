@@ -1,4 +1,6 @@
 # 피부 
+* 촉촉하게 하다; moisten; moisturize; 로션, 토너에 한정되서 쓴다
+  * 눈물 글썽이다. His eyes were moist with tears
 * 이 메니큐어 엄청 럅게 발린다; This nail polish is really sheer
 * 한 네겹 바르면 되나; Maybe if i do like four coats
 * 모공관리; How to tighten pores

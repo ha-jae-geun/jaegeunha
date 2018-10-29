@@ -4,6 +4,7 @@
 -----
 
 # 「식물」 #식물
+* 꿀을 만들기 위해서는 물에 함유된 소금기가 필요하기 때문에 분수나 강이 근처에 있다. A lake or a river is nearby because it needs salty water to make honey.
 * #green fingers 미국식 영국식 단어장추가[명사] 화초를 잘 기르는 손
 * #정원사, #조경사; #landscaper; we're getting a real #gardner
 * #fix up the #yard
@@ -35,6 +36,7 @@
 
 
 ## 자연 = ##green
+* 지구온난화로 인해서 사과는 산에서 재배하기 시작하고 평지에서는 포도, 복숭아를 기르기 시작했다; Due to global warming, apples began to grow in the mountains and in the plains began to grow grapes and peaches;
 
 * #천재지변 #불가항력; #act of god; #god
 * 자연 보호 구역 						 a designated nature reserve 

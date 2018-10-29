@@ -105,6 +105,7 @@ One O one- point nine FM
 * #ILY 										 I love you
 * #IOW; in other words
 * #IRL 									 In real life ; 현실에서는
+* IKR; i know right; 나도 알아(맞장구)
 * #IMA #IMMA 									 I'm going to
 * #L4L; Like for like; 좋아요
 * #LYMYMI; Love you, Miss you, Mean it; 럽스타그램

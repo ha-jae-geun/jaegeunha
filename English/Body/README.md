@@ -226,6 +226,10 @@ in the face of something; 직면하여
 * #정색; #straight face; I couldn't keep a straight face; #웃다; #무표정; He kept a straight face 
 * 너 왜 얼굴 #찌푸리고 있냐? 					 Why are you making a face?
 * ##frown at, frown on/upon somebody/something
+* 동공은 밝은곳에선 작아지로 어두운 곳에선 커져; pupils contract in bright light and dilate in darkness [daɪˈleɪt]
+* 각막, 동공, 홍채, 망막  cornea[ˈkɔːrniə], pupil, iris, retina  [ˈretənə] 
+  * 각막에 상처; scarring on the cornea
+* 눈물 글썽이다. His eyes were moist with tears 
 * 눈을 가늘게 뜨고 #찡그리고 보다		 squint 미국·영국 [skwɪnt] ; #squint one's eyes
 * #사팔눈의 squint-eyed 미국·영국 [skwíntàid] 
 * #make a face = #frown = #grimace

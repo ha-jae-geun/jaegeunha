@@ -2,6 +2,8 @@
 * 현재 상황을 고려할 때; Given what's unfolding in Syria; Give n the fact that
 
 # 사회
+* 안전한 곳으로 피난하다; run to safety
+* 대피하다; take shelter
 * 구호활동도 열심이시잖아요; Humanitarian work is well known
  [-ˈter-]  영국식 [hjuːˌmænɪˈteəriən]
 * 팔레스타인 난민을 봅다; i visited Palestinian refugees

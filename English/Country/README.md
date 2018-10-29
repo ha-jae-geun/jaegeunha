@@ -435,3 +435,6 @@ Legs are long but calf is thin, saving 80% of oxygen consumption
 * 트림을 하면 안된다.
 * 주어진 규범 내에서 벗어나면 안된다.
 * 무질서와 불의중 하나를 선택해야 할 떄 기꺼이 불의를 선택한다
+
+# 터키
+* 1차 세계대전 이후 같은 편으로 싸웠던 터키 이민자들이 독일로 다수 유입되었다. After the First World War, a large number of Turkish immigrants fought on the same side and came to Germany.

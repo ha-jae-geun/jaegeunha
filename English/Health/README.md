@@ -1,4 +1,6 @@
 ## 기타
+* 회진을 하면서 자신이 소아과에서 일하고 싶다는 것을 알게 된 건가요? Did you discover that you wanted to do pediatrics through those rounds?
+  * 회진을 한다; Dr.Lee is out making rounds; make+round
 * 약 먹었어? Did you take pills?
 * #건강검진; have a #medical checkup
 * #B형 간혐; #type BV Flue; Influenza A viruses
@@ -73,8 +75,12 @@
 * #질병	#ailment, #illness, #disease - 질병 #malady
 * #질병관리센터	#CDC; #Center for Disease control
 * 미국에서는 예약 없이 병원 못감
+* doctor: 대학/대학원/인턴/레지던트/의사 자격증 시험까지 다 통과한 사람
+* 주치의; attending
+* 레지던트; resident / registar
 * 피부과의사: dermatologist, 안과: ophthalmologist [ˌɑːfθælˈmɑːl-]
   정형외과: orthopedic surgeon; 부인과; gynecologist/gynie  [ˌɡaɪnəˈkɒlədʒi] 
+  소아과 의사 [pì:diətríʃən,pèd-] 
   성형외과: plastic/cosmeti surgeon; 마취의: anesthesiologist 미국식 [-ˈɑːlə-]  영국식 [ˌænəsˌθiːziˈɒlədʒɪst]
   방사선의 radiologist, 정신과 의사: shrink(psychologist: 심리학자와 구별 위함)
   수의사: veterinarian  [vètərənέəriən] = vet; 외과의사: surgeon

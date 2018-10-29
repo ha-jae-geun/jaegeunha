@@ -1,3 +1,4 @@
+
 * 완전한/대규모 점검 a complete/major overhaul 
 * 똑바로 앉아. 구부정하게 하지 말고. Sit up straight. Don’t slouch.  [slaʊtʃ]
 * 폭탄이 있다는[폭탄을 설치했다는] 거짓말 a bomb hoax 

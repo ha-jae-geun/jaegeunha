@@ -1,3 +1,24 @@
+* 그녀의 집안에서는 어떤 것이든 감정을 나타내는 표현은 못마땅하게 생각했다. In her family, any expression of feeling was frowned upon.  [fraʊn]
+* 있는 그대로를 받아들여; i embrace you just the way you are; embrace yourself
+* 돌아보면; Looking back, that was not your fault
+* 조금, 약간;ㅏ a tiny bit <> tiny(작은)
+* 무슨 희생을 해서라도; at all costs
+* 잘 나가는 기술자들; high-powered techies
+* 다시 연락하다; get back to 사람; i'm bad at getting back to someone
+* 시간을 쓰게끔 끌어들이다; It's about sucking you in to take your time
+* 달력에 표시하다; put a reminder in calender; Why don't you put a reminder on the calender
+* 욱해서 싸우다; Fighting in fits
+* 열쇠고리로 쓸 수 있겠네; you can use it as your key chain
+* 진심으로 믿다; truly believe S+V
+* 릴리라면 대수롭지 않게 생각할 거다; Lily would just shrug it off
+* freak someone out: 미치게 하다; freak out; 충격 주거나 화나게 하는 무언가에 놀라 굉장히 화나다, 굉장히 강하게 반응하다
+* 쏟아붇다; shower A with B; they showered him with love
+* 반반이다; ~ is toss-up
+* 실망스럽다; underwhelming; overwhelming; 감정에 휩싸여 어쩔 줄 모르다
+* 거의 토할것 같다; gag; ㄱretch; heave; 토하다: vomit puke, throw up
+* 1+1 세일 중이었용; they were doing a buy one get one free sale
+* 그녀는 몸의 균형을 잃고 100피트 아래로 거꾸러져 사망했다. She lost her balance and plunged 100 feet to her death. 
+* 뗄 수 없느 사이었어요; was like peas and carrots
 * 죽여주는 ~; killer ~; he has a killer voice0
 * 다 같이 섞어주세요; Just whisk it all together
 * 전 신진대사가 정말 활발해요; i have a very extremely fast metabolism
@@ -11,6 +32,41 @@
 * 와관잡아; Grab a tiara
 * 심리학자들은 또라이라고 부릅니다; Psychologists call a "cuckoo bird".
 * 명확한 답변을 원해; i want a straight answer
+* 반짝 세일을 할 거에요; We're going to be having a flash sale
+* 몸은 가만히 있기보다 움직이도록 만들어졌습니다; bodies are built for motion, not for stillness
+  * be built for; ~하기위해 만들어졌다
+* ~에 대해 죄책감을 느끼다; feel guity about -ing
+* 제 힘이 닿는대로 최선을 다하겠습니다; do everything in one's power
+* 스스로에게 격려의 말을 하다; give yourself a pep talk
+* 눈팅만 하다가 처음 글 올려봐요; Long time lurker, first time poster; people tend to lurk around/in the chat room
+* 그녀를 향한 부정적 시선이 부당할까요? But is the dislike unwarranted; ufair/groundless/notjustified/unreasonable
+* ~에 주요한 영향을 미쳤다; bbe instrumental in 과정/사건
+* 안전한 곳으로 피난하다; run to safety
+* 대피하다; take shelter
+* IKR; i know right; 나도 알아(맞장구)
+* 신발을 신을 수 있을지도 모르겠어요; i might could fit in them
+  * 문법책과 달리 조동사 2개를 겹쳐쓰는 경우: modal stacking; 남부지방에서 볼 수 있음
+* 얼굴이 빨개지다; go beetroot(채소의 일종); blush
+* 이상하게도 집착을 했어요; i had a weird obsession with something
+* 비발디의 음악은 모두가 즐길 수 있는 즐길거리였ㅅ습니다; Vivali's music served as diversion for all
+  * 가볍게 일상 전환: for a change; YOu wanna grab some beer for a change
+* 겨울 협주곡은 추위 때문에 이가 덜덜 떨리는 소리로 시작합니다; The winter Concerto begins with teeth chattering in the cold
+ [-ˈtʃɜːrtoʊ]  영국식 [kənˈtʃɜːtəʊ] 
+* 부분적으로 귀를 즐겁게 해주기 때문입니다; in part because they are delight to the ear
+  * 한가지 이유만 있는 것이 아니라 부붅ㄱ인 이유가 있을 때 이렇게 in part를 붙여준다.
+* 곧 네 친구들에게 가서 인사할게; i'll come say hello to your friends in a bit; soon은 생각보다 긴 시간 이후를 의미하는 경우가 있고 in a bit은 조금 짧은의미다
+* 우연히 마주치다; bump into 사람; come across 사람/삼ㄹ
+* 포기하다; give up: 하던 일이 성공적이지 못해서 포기하는 상황; give in: 본인이 하기 싫어하는 일에 저항하거나 싸우는것을 포기하는 상황
+* 물론 많은 시간과 노력이 드는 과정이지만; it's definitely a long haul process; 
+  * haul: 1. 거리/길 2. 여정: it's a long haul
+* 진룧면서 일에 대해 좀 배우게 되죠; learn on the job as we go
+  * OJT; on-the-job-training
+* 어떻게 그들을 지지해 줄수 있게 되는지 배운다; learn how to advcate them; 
+  * 명사로 쓸 때; advocate for; 동사: advocate + 목적어
+* 회진을 하면서 자신이 소아과에서 일하고 싶다는 것을 알게 된 건가요? Did you discover that you wanted to do pediatrics through those rounds?
+  * 회진을 한다; Dr.Lee is out making rounds; make+round
+* 좀 더 섬세힌 이 조직들은 타격ㅇ르 입습니다; these more delicate tissues really feel the brunt; 
+  * take/bar the brunt: 집중적으로 ㅌ격을 받다 
 * ~라고 말해도 무리는 아니다; It's safe to say that~
 * 유행에 뒤떨어지다; They were going out of style
 * 한국인일거라는 생각에 좀 더 기울이고 있었어요; I was leaning more towwards Korean

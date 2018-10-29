@@ -304,6 +304,7 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #hit 속어: 성관계하다
  * #panky; #hanky-panky
  * 술먹으면서 마리화나 피우며 떡; #sippy on the panky
+ * 부부생활 할 떄 침실로 들어와여; SHe only comes to the bedroom when it's time to be intimate
  * 비행기 떡; #mile high club
  * ㄸ세게 치다								 I get banged so hard
  * 잠들다, 골아 떨어지다									 crash

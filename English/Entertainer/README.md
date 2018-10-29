@@ -8,6 +8,7 @@
 
 
 # 연예인
+* 파리에서 런웨이에 오르신다면요; so you're walking in the runway in Paris?
 * 레이디가가; Mother monster - 팬들: Little monsters
 * 믿고보는 배우다; he's a go-to actor
 * 가성비; offer a bang for one's buck

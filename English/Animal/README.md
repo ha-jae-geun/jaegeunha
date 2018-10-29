@@ -41,6 +41,7 @@
 
 # 개
 * 믹스견이고요; she is a mutt
+* 개들은 냄새를 맡으면 행복해한다; Dogs are happy when they smell;
 * 개가 어떤 사람의 원반을 훔치는걸 봤다; watched him steal some guy's   [ˈfrɪzbi]
 
 # 속담

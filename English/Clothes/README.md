@@ -1,3 +1,10 @@
+* 옷의 기장 맘에 들어요; i quite like the length of this
+* 항공재킷에 빠지다; i am so into bomber jacktts right now
+* 세번째이자 마지막인 옷장 필수템은; for my third and last closet essential
+* 꽃무늬 옷 안좋아해요; i don't really like floral prints
+* 오렌지 체크무늬 수트야; it's that orange plaid suit
+* 호피무늬 제깅스 봤어: did you see those leopard print jeggins?
+* 얌전한 원피스가 없어요; i don't have church dresses
 * 다림질이 필요없는 셔츠; you should wear a wash-and-wear shirt 
 * 겨드랑이 쪽에 착색이 있어도 괜찮다면; if you're okay with the armpit stain stuff
 * 바지 수선했어요; i tailored these pants

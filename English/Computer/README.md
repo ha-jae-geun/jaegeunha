@@ -13,6 +13,7 @@
 * 나 숙난이동 할 수 있어; Do you have a teleport?
 
 # 인터넷
+* 눈팅만 하다가 처음 글 올려봐요; Long time lurker, first time poster; people tend to lurk around/in the chat room
 * 유튜브에 찾아봐; You should look it up on Youtube
 * .com 닷 컴 .gov 닷 거브 .org 'ɔ́:rɡ 닷 올그 co.kr co닷kr	
 * 나 지금 게임에 렉이 있어.	I have some lag in my game.
