@@ -117,6 +117,9 @@
 
 
 #전화
+* 음성사서함으로 넘어갑니다; you have reached the voicemail box of; Your call has been forwarded to an automatic voice message system
+* 누구 번호 맞나요? Is there an Amy at this number?
+* 삐소리 이후에 통화 내용이 기록됩니다; At the tone, please record your message
 * 퉁화 끝났는데; i jsut got off the phone with someone
 * Be on the phone
 * I am / Was on The Phone Right Now

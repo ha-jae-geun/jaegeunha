@@ -1,3 +1,38 @@
+* 제가 거만했죠; high horse; get on high horse; 거만한 자세를 멈추다; get off high horse
+* 높은 콜레스테롤 수치는 초기당뇨병을 알리는 적색신호다; High level of cholestrol is a red flag for pre-diabetes
+* 이건 예상 못했는데; I hadn't known this was on the table
+* ㄷ담한 선택을 하기 시작했어요; You started to make some quite bold choices
+* 매수하다; bribery; 뇌물행위; A가 B를 하도록 매수하다; bribe A into B; 부정부패: corruption
+  * YOu can't bribe me with this chocolate cake
+* 정신나간게 ;아니라; not as #out there and insane
+* 현실적인 연기를 바랐어요; i hopedf for a much more grounded performance
+* 거짓도 마법의 가루가 되는 곳; Where they spin lies into fairy dus; spin A into B; A를 B로 만들다
+* 기온이 급강하는것 같ㅇ았고; when the temperatures eemed to plummet
+* 낚싯줄에 연결되어 있어요; It's attached to fishing string
+* 집에 돌아가는 길을 찾지 못해; I can't find my way back home
+* …를 교살하다 to strangle sb to death 
+* 상상을 구겨 버리자; crumple it up
+* 막다른길; dead end; 어쩔 수 없이 하는 밑바닥일, 하찮은 일; dead end job
+* 핵심; the point is; 본론으로 가다; get to the point; 요지, 주장을 알겠따; see one's point; 요점을 파악 못하다; miss one's point
+* 돈은 말하것도 없고; not to mention money
+* 가성비 효ㅛ과를 얻다; bang for your/the buck; this model will provide more bang for the buck/cost effective
+* 풋내기, 젊은이; spring chicken
+* 인생의 한 걸음 한걸음이 제가 있는 곳으로 데려왔고; every step along my life has brought me to where i am; where: 물리적인 장소 뿐만ㅇ 아니라 사회적 위치나 상황
+* 햔동안; in a while: 이어지지 않고 끊겼을 때, for a while; 지속적으로 쭉 이어질 때;
+* 올림, 내림; ceiling, floor
+* 네 몸매를 탓해; blame it on your measurements
+* 너무 센 간지; Drip too hard
+* 그늘에서; under the shade/in the shade
+* 설상가상으로; A if all that weren't enough
+* 스트레스 받을 때 찾는 고탄수화물, 고칼로리, 단음식; comfort food
+* 너무 자세히 말하진 않겠지만; i don't wanna go into too much detail here; go into: 무언가를 다 말할 수 없을 때나 말하고 싶지 않을 때
+* 아보카도는 해충이나 질병에 취약하다; be susceptible to ~
+* 우연은 허영되지 않죠; nothing is left to chance; leave it to chance
+* 수익성이 굉장히 좋고 돈을 많이 만질 수 있는걸 의미; lucrative; 수익성이 나기만 하면 쓸 수 있음profitable
+* 귀신의 집인가요; Is it the haunted houses?
+* 나 모태솔로야; i'm forever alone
+* 음성사서함으로 넘어갑니다; you have reached the voicemail box of
+* 바보같이 씩 웃음 a goofy grin 
 * 그녀의 집안에서는 어떤 것이든 감정을 나타내는 표현은 못마땅하게 생각했다. In her family, any expression of feeling was frowned upon.  [fraʊn]
 * 있는 그대로를 받아들여; i embrace you just the way you are; embrace yourself
 * 돌아보면; Looking back, that was not your fault

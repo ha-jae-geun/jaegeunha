@@ -1,3 +1,10 @@
+# 친척
+* 빅토리아 여왕, 찰스다윈, 알버트 아인슈타인의 공통점은 친척과 결혼했다는 것이다.
+* 사촌: first cousin / cousin
+  * 사촌의 자녀; fist cousin remoed
+* 육촌; second cousin
+* 팔촌: third cousin
+
 # 청소년 #아이
 * 아이들의 말투; 작은; teeny-tiny / teeny-weeny
 * 사춘기 이전; prepubescent 미국·영국 [prì:pju:bésnt];  Jimmy had a prepubescent daughter,

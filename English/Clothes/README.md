@@ -1,3 +1,4 @@
+* 더 잘어울리기 때문에; because you can pull it off
 * 옷의 기장 맘에 들어요; i quite like the length of this
 * 항공재킷에 빠지다; i am so into bomber jacktts right now
 * 세번째이자 마지막인 옷장 필수템은; for my third and last closet essential

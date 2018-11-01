@@ -1,4 +1,6 @@
 ## 기타
+* 대신 ㅅ위 말하는 보균자일 뿐이다; You are what's called a carrier = He's carrying 병명.
+  * My father is a Hep-B carrier
 * 회진을 하면서 자신이 소아과에서 일하고 싶다는 것을 알게 된 건가요? Did you discover that you wanted to do pediatrics through those rounds?
   * 회진을 한다; Dr.Lee is out making rounds; make+round
 * 약 먹었어? Did you take pills?

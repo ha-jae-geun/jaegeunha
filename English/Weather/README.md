@@ -23,7 +23,10 @@
 * 계절에 안 맞게 추운 날씨야; it's #unseasonably cold day
 * 계절을 #타다; winter #affects me a lot
 * #unseaonably; #계절에 맞지 않게
-* ##계절
+
+
+# 겨울
+* 기온이 급강하는것 같ㅇ았고; when the temperatures seemed to plummet
 * #arctic, #freezing, #chilly - 추운 
 * 춥다 속어							 piercing/biting cold, brick
 * *너무 춥다 속어 				 It's freaking cold so my ass/ears/nose is about to fall off

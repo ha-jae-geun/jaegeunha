@@ -8,6 +8,7 @@
 * 그녀가 고삐를 부드럽게 당겼다.; She pulled gently on the reins.  [reɪn]
 * 그가 나를 쿡 찌르며 속삭였다. “방금 누가 들어 왔는지 봐.”; He nudged me and whispered, ‘Look who’s just come in.’ 
 * have a good/poor handwriting; 
+* 버스가 지나갈 때마다 창문들이 덜거덕거렸다 Every time a bus went past, the windows rattled. 
 
 ## 에너지
 * 태양열 전지판에 투자ㅏ하는 것도 방법이죠; invest in solar panels

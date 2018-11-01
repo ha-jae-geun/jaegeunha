@@ -1,4 +1,5 @@
-
+# 프로그램
+* 광고 보시고 잠시후에 돌아오곘습니다; We'll be right back after a few words from our sponsors
 
 # Radio
 * 라디오 날씨 최신 정보를 듣고 계십니다; YOu are listening to Radio weather update
@@ -14,6 +15,7 @@
 * 가성비; offer a bang for one's buck
 
 # 영화
+* 현실적인 연기를 바랐어요; i hopedf for a much more grounded performance
 * 개봉일이에요; it's the premiere for ~
 * 장편 영화; feature film
 * 좋은 영화에요; Such a good movie

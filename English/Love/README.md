@@ -9,6 +9,7 @@
 * #합환주; #Welcome drinks
 * 이상형; What is your ideal girlfiend? Is there a celebrity like your ideal girlfriend
 * 혼인 신고; they signed the register
+* 결혼여부: 미혼, 결혼, 별거, 이혼, 사별로 혼자가 됨; marital[ˈmærɪtl]  status; single, married, separated, divorced, widowed
 ------
 * ☆당신에게 완전 반했습니다. / 관심이 있습니다.
 I have a big crush on you / I have a thing for you, i'm into you

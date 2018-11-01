@@ -65,6 +65,7 @@
 * Beautiful - Christina Aguilera
 * Ciara - Body Party - 시애라
 * Bad day - Daniel Powter - 다니엘 파우터
+* Stone Cold - Demi Lovato
 * Still with you - Eric Benet - 에릭 베네이
 * Nothing's gonna change - Glenn Medeiros - 글렌 메데이로스
 * Jeff Bernat - Changes - 제프 버넷
