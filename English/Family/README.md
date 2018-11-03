@@ -38,6 +38,7 @@
 * 이 분은 제 처남입니다.; This is my brother-in-law.
 * 처가, 시댁;"my in-laws"
 ----------------
+* 전 태어났을 때부터 쌍꺼풀이 있었어요. I was born with double eyelids.
 * What's your religion -> 							 Do you have a religion?
 * 직업 질문 							 What do you do for a living?
 * 나이 질문 								 May I ask your age?

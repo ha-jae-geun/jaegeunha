@@ -65,3 +65,12 @@
 * 세계대전 당시 히틀러가 권장한 아인토프(Eintopf; Ein: 한 topf: 냄비)
 * 전날 저녁의 남는 재료로 만든 음식이다. It is a food made with the remaining ingredients of the evening before.
 * 음식 중 싼 메뉴이다; It is the cheapest menus in Germany
+
+# 과일
+* Lemon market; 판매자가 구매자보다 더 유리한 위치에 있어 상품의 질이 하락할 수 있는 경기
+* PEach market; 판매자와 구매자 사이 균등한 정보가 제공되는 공정한 시장 구조
+* Kimchi bond; 한국 기업이 자금 조달을 위해 우리나라에서 달러나 유로화 등 원화 이외에 통화로 채권을 뜻함
+* Poison pill
+* Sushi index; 소비되는 생선의 종류ㅗ 일본 경제 예측
+* nut cracker
+* cherry picker

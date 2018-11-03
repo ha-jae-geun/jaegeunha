@@ -2,6 +2,10 @@
 * WFH; Work From Home; 집에서 근무; I'll be WFH
 * WFO; Work From office
 
+# 단어
+* 직업병; 습관: occupation hazard; 진짜 병: occupational disease
+* 워크숍; how to plan a college retreat
+
 # 미팅
 * ~할 안건이 있습니다; we have ~ items to
 * ~로 넘어가자; Let's turn to the next topic on the agenda, move on to

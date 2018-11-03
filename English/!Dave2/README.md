@@ -1,4 +1,50 @@
+* 뭐라 말하겠어요? What can i say? 칭찬 받을 때 즉시 놀리는 투로
 * 우리를 이끌어주는 모든 빛은 눈을 멀게 해; All the lights that lead us there are blinding
+* 그사람은 마술사들의 속임수를 폭로하고 다니는 사람입니다. He debunks magicians.
+* 자 애들아 (여러분) 걔 생일선물 위해 다들 돈 좀 냅시다! everybody chip in for his birthday gift!
+* 끝, 기정사실, 거래성립; a done deal
+* 완전 헷갈리네; Color me confused
+* 하고싶은 대로 해; Have it your way
+* 대각선으로 가세요; It's catty coner (from here)
+* 너가 자초한 일이지; You asked for it
+* 관문을 통과했다; i Passed the barriers
+* 자만하지 말아요; Don't get cocky
+* 다시 생각해볼게; i'm having second thoughts
+* 벌레에 물리다; I get a bug bite
+* 그녀를 엄청 창피하게 했어; someone put someone on the spot
+* 지금까지 좋아; So far so good
+* 집중해; Stay focused
+* 그럴리가 없다; That'll be the day
+* 준비 다 됐어요? Are we all set?
+* 행복했다; i was on cloud nine / over the moon
+* 엄마한테 혼났다; I was told off by my mom
+  * scold는 tell off 나 criticize에 비해 약하다.
+* 난 걔네가 경기 끝까지 갈 줄 알았어; i expected them to go the distance
+* 그가 초안을 작성할거야; He will draw up the first draft
+* 과감하게 행동하라; Throw caution to the wind
+* 두말하면 잔소리다; It's preaching to the choir [ˈkwaɪə(r)]]
+* 이 정책은 시행될 것이다; This policy will be put into effect
+* 관계에 새 장을 열 것이다; will open up a new chapter in relations
+* 해야할 일이 산더미다; have a laundry list of things to do
+* 그는 혐의로 돈을 토해내야 하는가? Should he cough up money on suspicion?
+* 동감이야; ditto
+* 소란피우다; cause a scene/fuss/ruckus
+* 시간이 지나면 알게될거야; TIme will tell
+* 한귀로 듣고 한귀로 흘리다; In one ear and out the other
+* 그냥 조금만요; Just a tad
+* 그녀가 시치미를 떼지만; She may be playing dumb
+* 수습하기 위해 남았다; i'm left to pick up the pieces
+* 금상첨화다; it was the cherry on top
+* 이 일과 넌 무관해;  You're off the hook
+* 너 이름 지어낸거잖아; YOu threw in a name; throw in: 덧붙이다;
+* 아무도 모를것이다; No one the wiser
+* 이래라 저래라 하지마; DOn't boss me around
+* 동의해; I'm on board with her idea
+* 특기가 있다; have a forte for = Speciality = Strength
+* 너떄문에 순간적으로 벙쪘어; YOu made me blank out for a second
+* 그에게 신경질 냈따; SHe snapped angrily at him
+* 아니에요, 친구가 했죠. 전 알지도 못했다고요. No, he did. I ain't even in on it.
+  * be in on sth ~에 대해 알다, ~에 관여되다
 * 소문, 떠도는 말, 항간의 이야기; word on the street
 * 열정: fire in heart; is not easy to put out
 * 고통스러운 경험을 완화시키다; to take the edge off painful experiences

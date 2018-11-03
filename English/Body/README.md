@@ -287,7 +287,7 @@ how dare you say such a thing #to my face
 man sits with his legs #wide apart(#apart) on public transportation
 
 # 얼굴
-* 쌍커풀	double eyelid 
+* 쌍커풀	double eyelid; single eyelids / monolids
 * 속눈썹	eyelash ['aɪlӕʃ]
 * 눈곱	sleep/sand/gunk
 * 눈곱 떼	Take out your eye booger.
@@ -302,7 +302,7 @@ man sits with his legs #wide apart(#apart) on public transportation
 * 그녀는 #콧날이 오똑하다 	She has a sharp nose.
 * 코딱지	booger, boogie
 * 코를 후비다	pick one's nose 
-* #보조개	dimple [‘dɪmpl]
+* #보조개	dimple [‘dɪmpl]; have nice dimple
 * 팔자주름	smile lines, i've got smile lines
 * 두꺼운 #입술 ##입 fuller lips full lips
 * 입술에 물집 I got blisters on my lip

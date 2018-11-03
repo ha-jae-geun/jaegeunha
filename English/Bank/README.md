@@ -1,4 +1,7 @@
 # 은행	
+* 당좌 예금 계좌요? 저축 계좌요? Checking or savings?
+* (기초 잔고) . Initial deposit
+* (어머니의 결혼 전 성이 무엇이죠?)" "What is your mother's maiden name? 
 * 대출 받고 싶습니다; i'd like to take out a loan
 * 적금이 만기가 되었어요;  Your savings account has matured
 * 중앙은행; #central bank

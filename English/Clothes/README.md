@@ -243,6 +243,8 @@ are you afraid of heights? your zipper is
 
 
 # 세탁
+ * 엉덩이랑 허리라인에 맞게 맞춰주세요; Can you alter the waistline and hips to fit?
+ * 바지폭좀 줄여주세요; Can you tailor the width of the pants for me?
  * 물 세탁 - washable
  * 손빨래 - hand wash
  * 물 세탁하지 마세요 - do not wash

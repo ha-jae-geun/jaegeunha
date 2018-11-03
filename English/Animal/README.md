@@ -40,6 +40,10 @@
 * #야생 야생 고양이, 살쾡이					a feral cat; dangerous[feral] animal
 
 # 개
+* 새벽판 신문; Bulldog edition
+* 엉망진창; be a dog's breakfast / dog's dinner
+* 겁이많고 비굴하면서 쓰레기같은/보수 성격의; Yellow dog / Blue dog
+* 처량한, 쭈뼛거리는; Hangdog
 * 믹스견이고요; she is a mutt
 * 개들은 냄새를 맡으면 행복해한다; Dogs are happy when they smell;
 * 개가 어떤 사람의 원반을 훔치는걸 봤다; watched him steal some guy's   [ˈfrɪzbi]

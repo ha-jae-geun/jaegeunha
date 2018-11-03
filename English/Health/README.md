@@ -69,6 +69,7 @@
 * 내일부터 다이어트 할거야; i will be on a diet starting tomorrow
 
 # 치과 
+* 치과 치료중이다; i had dental work done
 * 어금니: molar; 
 * 신경치료를 받야 될 것 가요; i think i'm gonna to need a root canal
 * 제 치아상태는 어떤가요? So what was the verdict with my teeth?

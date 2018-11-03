@@ -12,7 +12,16 @@
 * 넌 렉 없어?	lӕg Don't you have any lag?
 * 나 숙난이동 할 수 있어; Do you have a teleport?
 
+# 유튜브
+* haul; 구매한 제품 후기
+* GRWM; Get ready with me; 외출 전 준비 동영상
+* WIMB; Watch in my back; 가방 구경
+* 홈트; Home training
+* ASMR; Autonomous Sensory Meridian response
+
 # 인터넷
+* 낚시성 콘텐츠: click-bait
+* 관종; attention whore/seeker
 * 눈팅만 하다가 처음 글 올려봐요; Long time lurker, first time poster; people tend to lurk around/in the chat room
 * 유튜브에 찾아봐; You should look it up on Youtube
 * .com 닷 컴 .gov 닷 거브 .org 'ɔ́:rɡ 닷 올그 co.kr co닷kr	

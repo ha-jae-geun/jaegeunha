@@ -1,37 +1,5 @@
-* #크리스마스
-* #eggnog shakes; 연유+날계란
-* #christmas truce
-* #on christmas; 크리스마스 당일 #at christmas; 크리스마스 행사 기간
-* #candy cane; #지팡이 사탕, #화환; #garland=#wrath, #솔방울; #Pinecone
-* #지팡이; old man with the #cane
-* 다리를 #절다; did she have a #limp and a cane
-* #트리를 장식하다; #trim the tree
-* 양말에 담긴 크리스마스 선물; #stocking stuffer
-* *Happy new year, Merry christmas and All the best in a New Year(크리스마스와 새해 인사 같이하기도 함)
-* ㆍ#칠면조 구이가 메인이다.
-* #터더큰 #Turducken 칠면조 + 오리 + 치킨
-* ㆍ선물은 1. 양말 christmas #stockings(#양말) 2. 화로 위에 걸어놈; hang up along the #fire place
-* ㆍ모든 가게가 문을 닫고, 24시간 여는 곳도 크리스마스 이브에도 문을 일찍 닫음, 중국집 빼고
-* 의사, 간호사 빼고
-* ㆍ#스웨터 파티; 할머니꺼 빌려오거나 구제로 사거나, ugly sweater contest
+* 분위기 느끼는거 어때? Would you get in the spirit of things?
 
-* On the twelfth day of Christmas my true love 
-* 크리스마스 이벤트나 프로모션을 12 days of gifting, 12 days of deals 등의 제목을 붙여 진행하는 브랜드들이 많습니다. 왜 하필 12일 동안일까요?
-* 바로 '12 Days of Christmas'과 관련 있습니다. 성탄절인 12월 25일부터 주현절인 1월 5일까지, 12일 동안 계속되는 축제 기간을 가리킵니다. 캐롤 'The Twelve Days of Christmas'도 바로 이 12일 동안 받은 선물목록에 대한 노래입니다.
-* 겨우살이 아래에서 계속 기다리겠다.; [|mɪsltoʊ] 겨우살이(흔히 그 줄기를 크리스마스 장식에 쓰는 
-* And I'm just gonna keep on waiting underneath the mistletoe.
-* 크리스마스 때 겨우살이 아래서 연인과 입맞춘다는 것은 오래된 풍습입니다. 
-* 한겨울에도 잘 자란다는 특성 때문인지, 고대에는 겨우살이를 신비한 식물로 여겨 악을 쫓으려 매달아두거나 사랑의 상징으로 삼기도 했습니다. 영국에서는 크리스마스에 겨우살이 장식 아래 있는 여성에게는 키스 할 수 있다는 풍습이 생기기도 했습니다. 이것이 계속 전해져 캐롤에 나오는 겨우살이 아래서 만나자는 이야기가 된 것이랍니다.
-‘이 세상에 #평화를~’ 							 ‘Peace on Earth’ 
-* #build peace
-
-* #Boxing day 12월 26일 크리스마스 다음날
-* 중세 영국에서 크리스마스 다음 날 교회에서 가난한 사람들 위해 박스 열어 나눠줬다는 유래
-* 캐나다, 영국은 공휴일로 지정
-* 소매점들의 대규모 할인
-* ##행사 = #fete; a national fete; #국경일; #fete day; #축일
-* *무료 #체험 행사를 열다 						 hold a free trial event
-* #공식 행사; #formal event
 
 * #축제
 * ##축제 #페스티벌

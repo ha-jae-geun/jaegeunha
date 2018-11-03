@@ -1,3 +1,16 @@
+# back
+ *  He backed out of the deal at the last moment.
+ *    마지막 순간에 그는 그 거래에서 뒤로 물러나왔다. 즉 "거래를 취소했다"는 뜻
+ * Back off! 
+   뒤로 떨어져! (추상적 의미로 쓰일 때는 '손대지 마' '건들지 마' 정도의 의미를 갖는다)
+ *    Please back away from the cougar slowly!
+ *    쿠거로부터 천천히 뒷걸음질쳐 물러나세요! 
+ * 
+ *    I always back my car into the garage.
+ *    난 늘 차를 차고에 거꾸로 넣는다.
+
+
+
 * Bad apple: 타인에게 폐를 끼치는 사람; to compare apples to oranges: 비교할 수 없는 것; the big apple: 뉴욕; apple of someone's eye; top banana: 중요한 인물
 * What's the temperature like today / i'm going to take your temperature
 * Scenery; 한 지역의 전체 풍경; 한 눈에 바라볼 수 있는 풍경: Landscape; 풍경화: #Landscape lapinting; 도시 경관: cityscape/townscape; 아름다운 전망: #sight

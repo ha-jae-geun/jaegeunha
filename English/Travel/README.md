@@ -57,6 +57,9 @@
  
 
 # 공항 #jet/ #G6 비행: flight, aviation èiviéiʃən,
+* 실례지만 지나가도 될까요?  Excuse me. May I go through? 
+* 좌석을 뒤로 눕혀도 될까요?  May I recline my seat? 
+* 기내식은 언제 나오나요?  When is the in-flight meal served? 
 * [명사] (기차의) 승무원실caboose 미국식 [kəˈbuːs]  
 * 마일리지를 사용하고 싶어요; I would ike to use my frequent flyer miles
 * I want to fly business one day. I alwayd fly coach.﻿
@@ -364,3 +367,10 @@ expenditure(지출 어떻게 할거니) 							 cash, credit card
 * #배낭여행	I was #backpacking across 
 * 배낭을 메면 손이 편하잖아	A backpack is easier on my hands = My hands are free when I wear a backpack 
 * 여행전 난 스페인에 대한 정보를 머릿속에 쑤셔넣었어	Before the trip I crammed my head with information about Spain
+
+
+
+# 화장실
+* Lavatory 화장실 
+* Vacant 비어있음
+* Occupied 사용중 

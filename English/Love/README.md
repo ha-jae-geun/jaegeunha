@@ -1,4 +1,5 @@
 # Word
+* 옛 연인 중 한명 봤어; i met one of your old flames
 * 진지하게 만나볼래? wanna go steady with me?
 * 그녀와 사랑에 빠졌죠; i was instantly in love with this chick; 젊은 여자
 * Bridesmaids, Groomsmen, Flower girl(부케), Page boy; 드레스, 반지, #Ring bearer, 들러리: #best man

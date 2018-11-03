@@ -5,6 +5,8 @@
  Bordeaux people have different lists so they do not have to take another adventure and only eat Bordeaux wine.
 
 # 기타
+* 주량이 얼마나 되세요? How much can you drink?
+* 컨디션 좋을 때 세병까지 마셔요; If i am in a good condition, then up to three bottles
 * 술이 좀 약해요; I'm kind of a lightweight now
 * 벌써  취한것같애; i'm already wasted/hammered
 * 술마시면 얼굴 빨게짐; i'm getting that Asian glow

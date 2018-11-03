@@ -1,3 +1,41 @@
+* working day / Calender day / Banking day
+
+# 크리스마스
+* #eggnog shakes; 연유+날계란
+* #christmas truce
+* #on christmas; 크리스마스 당일 #at christmas; 크리스마스 행사 기간
+* #candy cane; #지팡이 사탕, #화환; #garland=#wrath, #솔방울; #Pinecone
+* #지팡이; old man with the #cane
+* 다리를 #절다; did she have a #limp and a cane
+* #트리를 장식하다; #trim the tree
+* 양말에 담긴 크리스마스 선물; #stocking stuffer
+* *Happy new year, Merry christmas and All the best in a New Year(크리스마스와 새해 인사 같이하기도 함)
+* ㆍ#칠면조 구이가 메인이다.
+* #터더큰 #Turducken 칠면조 + 오리 + 치킨
+* ㆍ선물은 1. 양말 christmas #stockings(#양말) 2. 화로 위에 걸어놈; hang up along the #fire place
+* ㆍ모든 가게가 문을 닫고, 24시간 여는 곳도 크리스마스 이브에도 문을 일찍 닫음, 중국집 빼고
+* 의사, 간호사 빼고
+* ㆍ#스웨터 파티; 할머니꺼 빌려오거나 구제로 사거나, ugly sweater contest
+
+* On the twelfth day of Christmas my true love 
+* 크리스마스 이벤트나 프로모션을 12 days of gifting, 12 days of deals 등의 제목을 붙여 진행하는 브랜드들이 많습니다. 왜 하필 12일 동안일까요?
+* 바로 '12 Days of Christmas'과 관련 있습니다. 성탄절인 12월 25일부터 주현절인 1월 5일까지, 12일 동안 계속되는 축제 기간을 가리킵니다. 캐롤 'The Twelve Days of Christmas'도 바로 이 12일 동안 받은 선물목록에 대한 노래입니다.
+* 겨우살이 아래에서 계속 기다리겠다.; [|mɪsltoʊ] 겨우살이(흔히 그 줄기를 크리스마스 장식에 쓰는 
+* And I'm just gonna keep on waiting underneath the mistletoe.
+* 크리스마스 때 겨우살이 아래서 연인과 입맞춘다는 것은 오래된 풍습입니다. 
+* 한겨울에도 잘 자란다는 특성 때문인지, 고대에는 겨우살이를 신비한 식물로 여겨 악을 쫓으려 매달아두거나 사랑의 상징으로 삼기도 했습니다. 영국에서는 크리스마스에 겨우살이 장식 아래 있는 여성에게는 키스 할 수 있다는 풍습이 생기기도 했습니다. 이것이 계속 전해져 캐롤에 나오는 겨우살이 아래서 만나자는 이야기가 된 것이랍니다.
+‘이 세상에 #평화를~’ 							 ‘Peace on Earth’ 
+* #build peace
+
+* #Boxing day 12월 26일 크리스마스 다음날
+* 중세 영국에서 크리스마스 다음 날 교회에서 가난한 사람들 위해 박스 열어 나눠줬다는 유래
+* 캐나다, 영국은 공휴일로 지정
+* 소매점들의 대규모 할인
+* ##행사 = #fete; a national fete; #국경일; #fete day; #축일
+* *무료 #체험 행사를 열다 						 hold a free trial event
+* #공식 행사; #formal event
+
+
 # g한국
 * 설날: New Years Day by the lunar;
 * 삼일절: Independence movement day
@@ -51,6 +89,9 @@
 * #이벤트; planned a #surprise event
 * #발렌타인 데이 #Valentine's Day
 * ㆍwill you be my #valentine? 초콜릿 주고 받자
+
+## 할로윈
+* 무슨 옷 입을꺼야? what costume have you decided to wear for it
 
 ## St. Patric Day♣
 * 오늘은 '녹색'으로 대표되는/상징인 St. Patric Day입니다. St. Patric은 AD (385~461)년에 활동한 천주교/기독교의 수호성인인데요. 제가 이런 내용을 올리는 이유는 요맘때가 서양에서 Feast 축제의 시간 + 민족별/종교별/가족별 결속의 기간이라는걸 말씀드리고 싶어서 입니다. 그런 문화를 아는 것도 중요하거든요. '맥주의 날'로도 알려진/약간은 변질(?)된 아일리쉬의 St. Patric 데이와 다음주로 이어지는 Easter부활절까지, 서양문화의 흐름과 소비패턴을 아시는 것도 영어공부에 굉장히 중요할것 같단 생각입니다. 서양의 문화나 기념일을 알기위해 반드시 알아야할 상식이 있어요. '그레고리력' 이라 불리는 AD와 기원전으로 불리는 BC입니다. 이 구분 기점에 Christ의 탄생이 있죠. 그래서 [B.C = 기원전 = Before Christ = 예수의 탄생 전]으로 이해하시면 됩니다. 
