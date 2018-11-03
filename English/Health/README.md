@@ -1,4 +1,17 @@
 ## 기타
+* 통증이 그의 팔을 타고 전해졌따; A sharp pain suddenly shot along his arm
+* 위아래로 퍼지는 찌릿찌릿 마비된 느낌; numbing sensation of pins and needles which shoots up and down
+* 척골 후려치기; it's called whacking your funny bone
+* 어제 난리였어; i was a hot mess
+* 이제 회복중인거죠? Now you're in remission right?
+* 항암치료 시작했어요; i immediately started chemo  [ˈkiːməʊ]
+* 이온음료도 챙겨 마셔요; Drinking a lot of electrolytes [ɪˈlektrəlaɪt]
+* 나트륨 부족이에요; i'm low on sodium
+* 그 사람이 작업을 걸다; He starts hitting on me
+  * flirt with: 가볍게 말 걸고 간단한 작업 중립적, hit on: 환영받지 못하는 경우에 작업
+* 그러는 동안에; 과거, 현재, 미래: along the way; 미래: down the road
+* 한국어 실력이 6살 수준에 머물러있다; It was frozen in time
+* 우유를 소화 못해서 유당소화제 샀어요; i'm lactose intolerant so i just got lactaid [-toʊs;-toʊz]  영국식 [ˈlæktəʊs;-təʊz]
 * 대신 ㅅ위 말하는 보균자일 뿐이다; You are what's called a carrier = He's carrying 병명.
   * My father is a Hep-B carrier
 * 회진을 하면서 자신이 소아과에서 일하고 싶다는 것을 알게 된 건가요? Did you discover that you wanted to do pediatrics through those rounds?

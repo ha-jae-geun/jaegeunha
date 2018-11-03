@@ -1,3 +1,23 @@
+* 우리를 이끌어주는 모든 빛은 눈을 멀게 해; All the lights that lead us there are blinding
+* 소문, 떠도는 말, 항간의 이야기; word on the street
+* 열정: fire in heart; is not easy to put out
+* 고통스러운 경험을 완화시키다; to take the edge off painful experiences
+* 발이 저릴 때도 같은 증상이 나타나죠; The same phenomenon happenes when your foot falls asleep/numb
+* 곁눈질로 너를 봐; Lookig at you sideways
+* 나는 만신창이네; i'm a wreck
+* 쓰레기 같은 소설 a crappy novel 
+* 싸구려 잡화점; The five-and-dime stores
+* 사업을 인수하다, 건내주다; take over; 
+  * 육체적, 신체적 특성을 물려받다; inherit
+  * 상속자; heir; 이어
+* 그는 최근 논란의 여지가 많은 거래를 하였다; he 's also recently struck a controversial deal; strike a deal/bargain
+* 깊은 곳으로 갈 거예요; i'm off the deep end
+* 무모하게 덤비다; go/jump off the deep end
+* 공허함을 채우다; fill the void; i feel empty inside
+* 같은 부류의 사람들; birds of a feather; Birds of the same feather flock together
+* 엄청난 충격을 받다; be shoced to the cord = be shaken to the core
+* 통과하다; make the cut
+* 무턱대고 여러 조합을 시도하는 것은 끝이 없을 거다; Blindly tring different combinations would take forever
 * 제가 거만했죠; high horse; get on high horse; 거만한 자세를 멈추다; get off high horse
 * 높은 콜레스테롤 수치는 초기당뇨병을 알리는 적색신호다; High level of cholestrol is a red flag for pre-diabetes
 * 이건 예상 못했는데; I hadn't known this was on the table

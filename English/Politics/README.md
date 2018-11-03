@@ -72,6 +72,7 @@ The best-selling classic of politics is Machiavelli's monarchy.
 * 문화부 장관; minister of the Ministry of Culture	
 * #깨어있는 사람; are you #woke?
 * #영부인 #first lady
+* 영부인, 퍼스트 젠틀맨; Fist lady/gentleman
 * #대통령 #백악관; #white house, #백악관 서관: #Westwing
 * #대권에 도전하다; #run for presidency
 * #president-elect: 당선이 되었지만 취임 전 대통령

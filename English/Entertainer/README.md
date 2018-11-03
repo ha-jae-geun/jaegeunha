@@ -15,6 +15,8 @@
 * 가성비; offer a bang for one's buck
 
 # 영화
+* 영화사에서 진행하는 행사; 호텔같이 큰 곳을 빌려서 자기 영화를 홍보하기 위해 영화 기자나, 영화 평곤라 초청해서 시사회 열고 배우와 감독들을 인터뷰하게 하는 행사이다; junket
+  * 보통 일반 국민의 세금으로 출장을 빙자해 비싸고 불필요한 여행을 간다거나, 가족들을 데리고 갈 때 그 비용을 전부 돈으로 쓴다거나 할 때 하는 말
 * 현실적인 연기를 바랐어요; i hopedf for a much more grounded performance
 * 개봉일이에요; it's the premiere for ~
 * 장편 영화; feature film

@@ -1,3 +1,7 @@
+# 외국
+* 외국인 등록증 있으십니까? Do you have your alien registration card?
+* 나는 여기서 외국인이죠; i'm a legal alien here
+
 # 정치 그룹
 ## 피그스 [ Portugal, Italy, Ireland, Greece, Spain ] 
 * 2008년 세계 금융위기 이후 심각한 재정위기를 겪고 있는 포르투갈, 이탈리아, 아일랜드, 그리스, 스페인의 첫 글자를 따서 만든 조어

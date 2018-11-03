@@ -78,6 +78,7 @@
 * #극악무도한 #마귀
 * #bitter, #resentful, #sullen - 억울해하는, 속상한 
 * 억울 								depression, oppression, dejection
+* 억울함을 느끼다; feel cheated
 * this is #unfair = I didn't do anything to deserve this
 * ##억울
 * 자애로운 미소/태도 				 [bə|nevələnt] a benevolent smile / attitude
@@ -1095,6 +1096,10 @@
 * #긴장 완화; #완화; #defuse tension on the Korean Peninsula
 * #cliffhanger 미국·영국 [|klɪfhӕŋə(r)]; 손에 땀을 쥐게 하는 상황
 * #어색 #쫄다 #떨다 #긴장
+
+
+# 우울
+* 눈물이 나다; i got teary-eyed
 * ☆i'm no happy, i'm #bummed out(또래, 아래 사람), i'm #gloomy
 * #depressed, #blue, #dejected - 우울한, 암울한 
 * #weep; weep-wept-wept
