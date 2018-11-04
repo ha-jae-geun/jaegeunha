@@ -1,3 +1,20 @@
+* ~하는데 돈을 쓰다; i usually spend my mone on ~
+* 나한테 잘못을 돌리지 마세요; DOn't lay the blame on me
+* 껌을 밟았어; I stepped on gum
+* 일기에 적을 역사적인 순간이군; This is a "Dear Diary" moment
+* 덜 알려진; off the beaten path
+* 적어도 몇시간 전에는 알려줘야지; YOu could've at leatst tole me a fewhours beforehand
+  * At a minimum = At the very least
+* 모두 꼬마 조가 처음으로 서서 걷게 되는걸 지켜보았다. Everyone was watching little Joe finding his feet for the first time. 
+* 너가 루이스겠구나; YOu're Louis i presume
+* 전력을 다 하는, 안간힘을 쓰는 working/firing on all cylinders 미국식  영국식   단어장추가
+* 왠지 그가 딱했어; i felt sympathy for him somehow
+* ~라고 말하면 궁색할까? Is it lame to say that?
+* 그냥 최선을 다해; Just give it your all
+* 제 사정 봐주지 마세요; DOn't pull punches with me
+* 그 선거에 관심 없어요; i couldn't care less about the election
+* ~에 간다; i'm off to 
+* ~로 할게요; i'll go for credit card; go with
 * 사무실이 지저분해서 죄송해요; Sorry about the clutter in the office
 * 변명을 하자면; In my defense
 * 다시 생각해 보니; On second thought

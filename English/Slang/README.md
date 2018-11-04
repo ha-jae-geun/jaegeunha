@@ -1,4 +1,5 @@
 ##숙어# #숙어 #slang #idiom
+* 자기에게 잘못한 사람에게 그 잘못을 되갚아 준다고 상황이 나아지는 것은 아니다[악을 악으로 갚아 봐야 좋을 게 없다]. two wrongs don't make a right 미국식  영국식   단어장추가
 * ##구어체 [kə|loʊkwiəl] a colloquial[a spoken, a conversational, an oral] style,
 * ##격식체 #formal style
 * #명언; #words to live by; 인생 살면서 귀감으로 삼을 명언들

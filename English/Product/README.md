@@ -1,4 +1,9 @@
 ## 유명 브랜드
+* DD; Dunkin donuts
+* 맥도날드; Mickey D's
+* Chevrolet; chevy
+* BMW; Bimmer / beamer / beemer
+* 타겟; Tar-zhay; et보다는 불어 느낌 나게 
 * 에르메스 Hermes
 * 샤넬
 * Supreme; 수'프림

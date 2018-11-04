@@ -1,5 +1,9 @@
-* I(it, if)T(there, that's) 접속사
-주어 선택
+# 무례하지 않은 부탁
+## 친구 
+* Hey, let me +V
+* 비즈니스: Would you please + V / I would be grateful if yoou could +
+  * I would like to request / Do you think you would be able to V
+
 -----------
 * #간접화법
 * she said she was on her way to lunch

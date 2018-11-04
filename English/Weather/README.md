@@ -96,6 +96,7 @@
 * #소용돌이; #vortex pattern
 * #허리케인; 바다에서 생긴 폭풍우 #토네이도; #육지에서 생김
 * #공기 #바람 air, wind, breeze - 공기, 바람 <-> breathe - 입김, 숨
+* 내 입김을 볼 수 있어요; i could already see my breath
 * a #pneumatic tyre 공기가 가득한 타이어
 * #대기권; #atmosphere, #air, #aerosphere - 공중, 대기권 
 * #통풍이 잘되는 #외풍이 잘되는; #drafty; this room is too drafty

@@ -1,3 +1,250 @@
+# 영어에서 사역 문장은 언제 어떻게 쓰는걸까? - Part 1
+* 저는 내일까지 이걸 처리해야되요; I need to take care of this by tomorrow
+* 이거 내일까지 되야해; i need to have this taken care of by tomorrow
+* 사진 찍고싶어; i want to take my picture; i want to get my picture taken
+
+# 영어에서 사역 문장은 언제 어떻게 쓰는걸까? - Part 2
+* 드라이클린했어; i had it dry-cleaned a couple days ago
+* 내 컴퓨터에 문제가 있으리가 없어, 얼마전에 점검받았어; 
+  * THere can't be a problem with my computer. I just had it serviced
+* 집을 살 때는 누군가의 동무을 받아서 집 전체를 꼼꼼하게 검사를 받는것이 좋다  
+  When you're trying to buy a house, it's a good idea to have the entire house examined by someone
+* 나는 그걸 반품시켰따; i had it sent back
+
+# 사역 형식의 문장은 언제 어떻게 쓰는걸까? - PART 3
+* 사역 + something done by은 공식적인 절차여야 한다.
+* 어렸을 떄 어머니가 머리를 빗겨주셨어요; When i was a little girl, my mother used to brush my hair; had my hair brushed by my mother
+  * 사역은 어색한게 내가 원해서 시켜서 했다 이런 느낌이라서 어색하다
+* 내가 고등학교를 다녔을 때는 우리 어머니가 나를 깨워주셨다
+  when i was in high schol, i used to have my mother wake me up every morning
+  * ask someone to do something; 부탁하는 것까지 /  have something do: 결과까지 내포
+* 내가 우리 형보고 보라고 할게; I'll have my brother stop by and take a look at it
+
+# 영어에서 사역 형식은 언제 어떻게 쓰는걸까? - Part 4(1-3정리)
+* 사역이라고 해서 사역철머 해석하면 어색하다
+* 사역을 쓸 때는 이미 다 지난 일일때 쓰는게 좋다
+* make는 강제성이 있고; let은 편의를 봐뒀다; have는 중립적
+* have p.p 과정에 집중; <> get p.p; i got my phone fixed(결과에 집중)
+  * 해야하는 것들; i got it delivered, i got my hair cur, she got her nails done; They got their car washed
+  * 예상치 못했거나 대처하는 것들; I have my house checked
+* 내 레포트를 적어도 3번은 검토했어; i proof-read my report at least 3 times
+  = i had my report proof-read at least 3 times
+* 걔가 거기 길을 잘 몰라서 그냥 거기서 기다리라고 했어
+  She didn't seem to very familiar with the area, i told her to wait here = i had her  wait there
+
+# 연습가이드 #13 - 사역 PART 5
+* 주문한 물건 방금 배송받았는데 잘못 온것 같아요
+  * i just got my order delivered / i just reveived my order. I think there has been a mistake. It's not what i ordered
+* 아 다른 주문이랑 뒤바뀐 모양이에요. It must have gotten mxed up with something else.
+* 주문을 확인하고 바로 사람을 보내서 제품을 전달해주세요; i'll check your order and have someone bring your product to you right away = i;ll send someone right away with your product
+  * 사역을 사용하면 상대방이 본인 입장에서 말하는 느낌
+* 내일 오전 괜찮으세요? Is tomorrow morning oK?
+* 네 좋아요 Tomorrow mroning is nine
+* 오시는 분에게 도착하면 저에게 전화를 해달라고 해주실래요?
+  Could you have your guy call me when he arrives?
+
+# 쓸만한영어 - 파티 초대에 회답할떄 쓸 수 있는 영어표현/invitation/RSVP /영어공부/영어회화
+ * ♠ RSVP 
+ *   초대에 대한 회답 (명사)
+ *   초대에 회답을 주다 (동사)
+ * 
+ * 1. RSVP
+ *  : 초대해줘서 고마워. 갈게!
+ *   * evite(인터넷으로) → You’re invited..
+ * ☞
+ *  - Yes, I’ll attend. 응, 갈게.
+ *  - Yes, I’ll attend. Thank you for inviting us.
+ *    응, 갈게.        (우리)초대해줘서 고마워.
+ *  - Yes, I’ll attend. Thank you for inviting me. 
+ *    초대해줘서 고마워.
+ *    
+ *   ▶ Thank you for inviting us.
+ *      Thank you for inviting me. 
+ *    ☞ Thank you for inviting + 해당 사람 이름
+ *       (~을/를) 초대해줘서 고마워.
+ * 
+ * - I’ll be there. 꼭 갈게
+ * = I will be there.
+ *   * will을 따로 떼어 써도 무방하지만 의지가 더 강하고 세게 느껴지긴 해요.
+ *   - We’ll be there.
+ * 
+ * 2. a plus one 
+ *   : ~도 같이 데려가도 돼?
+ * 
+ *  ※ 한국 마트에서 파는 1+1(one plus on)은 영어로?
+ *    ☞ Buy One Get One free
+ * 
+ *  - 미국에서 plus one
+ *   : 초대받지 않은 손님이지만 한 명 더 데려갈 수 있는 것
+ * 
+ * <예시상황 1> 지난 금요일에 RSVP를 줬는데 (누구)도 같이 간다고 하는 걸 잊었어.
+ *               걔도 같이 데려가도 돼?
+ *   
+ *  - Can I bring (해당 사람) as one plus one ???
+ *     (해당 사람)도 같이 데리고 가도 돼?
+ *  
+ * → 지난 금요일에 RSVP를 하긴 했어.
+ *    I RSVPed past Friday. 
+ *    I RSVPed last Friday.
+ * → 그런데 아리언니를 (RSVP에) 더 쓴다는 것을 깜빡했어.
+ *    But I forgot to add Ari’s sister on the RSVP. 
+ * 
+ * ☞ I RSVPed last Friday.
+ *    지난 금요일에 RSVP를 하긴 했는데..
+ *    But I forgot to add Ari’s sister on the RSVP. 
+ *    그런데 아리언니를 (RSVP에) 더 쓴다는 것을 깜빡했어.
+ * - 걔도 같이 데리고 가도 돼?
+ *  Can I bring her as a plus one?
+ *  직역: 초대받은 사람에 한명 더해서 가도 돼?
+ *  의미: 걔도 같이 데리고 가도 돼? 
+ * 
+ * ▶ 여러분의 가장 친한 친구 이름을 넣어 연습해보세요.
+ *    Can I bring (sb.)as a plus one?
+ *    걔도 같이 데리고 가도 돼?
+ * 
+ * <예시상황2> (꼭 한 명만 더 데려가는 게 아니라) 
+ *             다른 애들도(/친구들도) 더 데려가도 돼?
+ *  → Can I bring sb. as plus two??? (X)
+ *  ⤷ Can I bring other kids, too?
+ *     다른 애들도 더 데려가도 돼?
+ *  ⤷ Can I bring other friends, too?
+ *     다른 친구들도 더 데려가도 돼?
+ * 
+ * ※ 어떤 표현을 쓰기에 불확실해서 주저하게 될 때
+ *  1. 일부러 틀려보며 배우려는 적극적인 실수를 하거나
+ *  : 원어민의 반응에 충격이 남지만 확실한 학습효과가 있음^^
+ *  2. 이미 내가 알고 있는 쉽고 간단하지만 정확한 표현을 쓰세요.
+ *  : 쉽고 간단할수록 포인트 전달이 잘 될 때도 많다는 것을 알게 됨.
+ * 
+ *  
+ * 3. 참석하지 못할 때 : 선약이 있어.
+ *  - I’m sorry but I can’t make it. 미안한데 못 가..
+ * 
+ * <예시상황3>
+ *  ♠ Somebody can’t make it.
+ *   (누군가) 어떤 목적/목표를 해내지 못하는 그림.
+ * - 오늘 학교를 못 갈 때
+ *   I can’t make it today.
+ * - 오늘 밤 파티를 못 갈 때
+ *   I can’t make it tonight
+ * 
+ * 선약 = previous plans???
+ * ☞ I have plans.
+ *    직역: 나 계획들이 있어??
+ *    의미: 할 게 있어. (/선약있어)
+ * 
+ * ⟹ I’d love to, but I have plans.
+ *  정말 가고는 싶은데, 할 게 있어.(/선약이 있어)
+ * 
+ * 4. 갑자기 일이 생겨 못갈 때
+ *  : (누구만) 데려다 줄게.
+ * 
+ * - “갑자기 일이 생겼어..”
+ *   ⤷ sth. came up
+ *     무언가 (일어나서) 나한테 가까이 온 그림
+ *   ※ Something came up.(to me) (X)
+ *     갑자기 일이 생겼어.
+ *     ⤷ “나한테”라고 해서 (to me)를 붙이지 않음.
+ * 
+ * - Sorry..  Something came up.
+ *   미안해.. 감자기 일이 생겼어..
+ * 
+ * - (누구만) 데려가 주고 갈게. / (누구만) 보낼게.
+ *   ▶ drop sb. off
+ *     * sb.는 항상 가운데
+ *    예) drop Ari off (O)
+ *        drop off Ari (X)
+ *     직역: (누구를) 떨어뜨리다.
+ *     의미: (누구를) 어디에(서) 내려주다/데려다 주다.
+ * 
+ *  ☞ Can I just drop Ari off?
+ *     아리만 데려가 주고 갈게..
+ * 
+ *  ⟹ I’m sorry, but something came up.
+ *     Can I just drop Ari off?
+ *     미안한데, 갑자기 일이 생겨서...
+ *     아리만 데려가 주고 갈게.﻿
+
+# 쓸만한 영어 - [Small Talk] 시간 참 빠르다. 벌써 주말이야?/영어표현/영어회화/영어공부/스몰톡
+ * 1. 시간이 빨라도 너무 빨라.
+ *  - Time goes by quickly. 시간이 참 빨라.
+ *  - Time flies by. 시간이 쏜살같이 가.
+ *  - Time goes by super quickly. 시간이 정말 너무 빨리가.
+ * 
+ * 2.  시간이 갈수록 더 빨리 가.
+ *   * faster and faster 점점 더 빨라..
+ *   - Time goes by faster and faster. 시간이 갈수록 더 빨리가.
+ * 
+ * 3. 벌써 일주일의 반이야. (벌써 수요일이야.)
+ *   - It’s already Wednesday! 벌써 수요일이야!
+ *   
+ *   ♠ “일주일의 반이 지났어.”
+ *     * halfway through를 써서 문장을 만들어 보세요.
+ *     * halfway through : 목적지를 향해 가는 길의 반을 뚫고 온(/간) 그림.
+ *   ☞ HANG IN THERE!!! 조금만 버텨!!!
+ *      일주일의 반이 지났어!(이제 곧 주말이야^^) 
+ *   ☞ HALFWAY THROUGH THE WEEK!
+ * 
+ *   - It’s the middle of the week (already)! 
+ *     직역: 한 주의 중간이야.
+ *    의미: (벌써) 수요일이야.
+ * 
+ * 4. 그러면 또 금방 토요일이야.
+ *  - Then Saturday is coming soon.
+ *    그러면 금방 토요일이야.
+ * 
+ * 5. 한 주가 시작되면 벌써 그 한 주도 다 간 것 같아.
+ *   * I feel like ~
+ *    직역: (~인 것 같은/처럼) 생각이 들어..
+ *   * 하자 마자 곧 
+ *    → as soon as 
+ *   - a new week starts 새로운 한 주가 시작하면 (바로)
+ *  ⟹ I feel like as soon as a new week starts
+ *   - 벌써 그게 다 지나가버린 것 같아. 
+ *  ⟹ I feel like as soon as a new week starts it already passes???
+ *    (새로운) 한 주가 시작하면 벌써 그게 다 지나가버린 것 같아.
+ *    한국어: 지나가버림 <영어의 구체적 그림: 넘어가서 끝나버린 그림>
+ *  ☞ I feel like as soon as a new week starts it is already over.
+ *  ☞ It feels like as soon as a new week starts it is already over.
+ *      * it feels like~ 도 괜찮습니다.
+ *     
+ *  6. 새해가 엊그제 같은데..(곧 연말이야)
+ *    * it seems like ~
+ *      직역: 마치 ~인 것 같아
+ * 
+ *      it seems like + 현실 가능한 이야기???
+ *      it seems as if + 현실 불가능한 이야기???
+ * 
+ *    (100프로 확신은 없지만 주관적인 생각으로)
+ *   “ ~가 느끼기에 (어떠어떠)해보여/ ~인 것 같아.”의미 
+ *   * 문법적인 구조와 현실 가능성의 유무차이를 따지기보다는
+ *     실제생활에서는 “sth. seems like”을 더 많이 사용함.
+ * 
+ *   - It seems like it was just New Year’s day.
+ *     새해가 (바로) 얼마전 이었던 것 같은 데..
+ * 
+ *   - It seems like just New Year???  (X)
+ *     새해가 (바로) 얼마전 이었던 같은데.. 
+ *     ⤷ It seems like it was just New Year’s day. (O)
+ * 
+ *   - It seems like it was just yesterday.
+ *    (그게) 바로 엊그제 같은데..
+ * 
+ *  -  It seems like it was just the day before yesterday. △
+ *     (그게) 바로 엊그제 같은데..
+ *    * 엊그제 = the day before yesterday 라고 해도 되지만 
+ *      이 문장의 한국어 “엊그제”는 가까운 시기를 나타내는 비유적 표현
+ * 
+ * <QUIZ> “올해 시작한 게 어제 같은데 곧 있으면 연말이야.” 올바른 표현은?
+ * 1. It seems like it was just New Year’s day but it’s the end of the year soon.
+ * 2. It seems like it was just New Year’s day but it’s almost the end of the year.
+ * 
+ * - 벌써 일주일의 반이야. 그럼 또 금방 토요일이야. 
+ *    It’s the middle of the week (already)! Then Saturday is coming soon.
+ * 
+ * - 새해가 엊그제 같은데 ...
+ *    It seems like it was just New Year’s day.﻿
+
 # 대화가이드 #02 - 초보자를 위한 영어회화 가이드 
 * 근처에 우체국 있어요? Is there a post officce near here? nearby
 * 지하철역 근처에 하나 있어요; There is one near the subway station

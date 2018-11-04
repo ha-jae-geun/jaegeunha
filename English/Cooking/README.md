@@ -45,6 +45,7 @@
 * 아무맛도 안나; it's #tasteless
 * 새콤달콤하다; it's sweet and sour
 * 양념이 잘 밴게 정말 마음에 들어; I like the way they soak up your sauce
+* 조합이 아주 좋다; ~ is winning combination
 
 # Cooking
 * 달걀을 1분간 휘저으세요; Beat the eggs/cream until fluffy

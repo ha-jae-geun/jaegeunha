@@ -1,3 +1,5 @@
+* 즐거운 우리 집; home sweet home
+
 # 주방	it has a; #gourmet kitchen; 프로급 주방
 
 * 미국 주방
@@ -100,6 +102,7 @@
 * had a mold infestation
 * #미세먼지 								 fine dust = 미세 먼지 #dust bunnies; 뭉치 = #dust kitten, #dust kitty, #dust mouse
 * #황사 Yellow dust = Asian dust
+* 여름에 곰팡이 생길것 같아; i think it's going to get moldy in the summer
 * #청소부; #charwomen
 * #대청소: #spring cleaning day
 * #방청소; can you do the room?, can you make up the room?

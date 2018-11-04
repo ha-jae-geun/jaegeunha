@@ -1,4 +1,6 @@
 # Word
+* 사랑에 있어서도 그녀는 잘 해낼 것이다. She’ll likely do just fine, even in matters of the heart. 듣기 출처:YBM
+* 무슨 수를 써서라도 우리가 이 게임을 이겨야 한다는 거 너도 알지? You know we must win this game by hook or crook. 
 * flirt 1. 꼬시다 2. 바람둥이 3. 잘 꼬시는 사람ㅉ
 * 터무니 없이 잘생기다; laughably handsome
 * 옛 연인 중 한명 봤어; i met one of your old flames

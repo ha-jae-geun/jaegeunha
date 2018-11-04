@@ -3,7 +3,15 @@
 * 그냥 다섯 개의 섹션으로 나누어진 공책 한권; i just get a five-subject notebook
 * 다섯 개의 공책; i can't do five separate notebooks
 
+# 등록금
+* 자신이 사는 주의 대학에 진학하면 in-state tuition
+  * <> out of tuition
+
 # 대학
+* 파트너는 같이 앉은사람이 될 거에요; Your partner will be your tablemate
+* 공립, 국립: public/private school
+* 무리, 집단; clique; cliquey: 끼리끼리 노는
+* 기숙사; residence hall = dorm
 * 학점이 다가 아니야; Grades are not everything(grade: 학점, 점수)
 * 4~5교시 사이; it was middle of forth and fifth period
 * 남녀 공항; coed, co-educational

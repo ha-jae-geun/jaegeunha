@@ -1,4 +1,7 @@
 # 문장
+* 심층질문 하나 물어볼게요; i'm gonna ask you one of our more telling questions for all of our interns
+* 10년후의 모습은 어떤것 같나요; Where do you see yourself in 10 years?
+* 이 직무에서  요구하는 것이상의 자격을 갖추셨어요; You're clearly more than qualified for this job 
 * #candidate- #external candidate #interna candidate
 * #면접관 #interviewer #면접 받는 사람: #interviewee
 * #개별 면접을 열다; #hold individual interviews

@@ -1,3 +1,4 @@
+* I just wanted to say hello; 워닛
 * 긍정문 끝에 오는 at all: 이왕, 어쨌든;
   * If you decide to lose weight at all
   * 의문문; 조금이라도; Do you know him at all? 조금이라도 알아?

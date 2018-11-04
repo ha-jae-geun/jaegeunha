@@ -1660,3 +1660,8 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * 해를 끼치려던 건 아니었어. 						 I meant no harm. 
 * 파티에 갈지 잘 모르겠어. 				 	I’m not sure I’ll be at the party. 
 * 그 사람의 자질이 의심스러워. 			 daʊt I have doubts about his qualifications. 
+
+
+
+## 운
+* 우리가 운이 없어; We're not having the best of luck
