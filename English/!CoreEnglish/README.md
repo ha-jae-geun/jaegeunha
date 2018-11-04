@@ -1,3 +1,8 @@
+* 긍정문 끝에 오는 at all: 이왕, 어쨌든;
+  * If you decide to lose weight at all
+  * 의문문; 조금이라도; Do you know him at all? 조금이라도 알아?
+* You are uptight with this kind of thing; 카이너 띠잉(여운)
+* 맨하튼; 맨햍(혀천장붙이기 + 호흡 끊기)은(콧소리) = button
 * 신발을 신을 수 있을지도 모르겠어요; i might could fit in them
   * 문법책과 달리 조동사 2개를 겹쳐쓰는 경우: modal stacking; 남부지방에서 볼 수 있음
 * admirable 미국식 [ˈædmərəbl]

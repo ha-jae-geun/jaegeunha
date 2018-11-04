@@ -71,6 +71,7 @@
 * #Potluck party
 --------------------
 * 「음식」 ##음식 #dish; what's your #favorite dish
+* 각공식품은 금지됐따; Processed food was always forbidden
 * #food porn; 음식 사진
 * #양식 #한식 western food, korean
 * #저지방, #고지방, #고열량 a healthy/high-fat/high calorie diet; 고지방: high in fat and calories

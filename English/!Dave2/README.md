@@ -1,4 +1,6 @@
 * 사무실이 지저분해서 죄송해요; Sorry about the clutter in the office
+* 변명을 하자면; In my defense
+* 다시 생각해 보니; On second thought
 * 세상에 충격을 선사하라; put a dent in the universe; #put a dent in
 * 우리의 현재 체계는 낡아가고 있음을 알 수 있습니다; start to show its age
 * 현재 체계의 뿌리가 깊게 박혀있기 떄문입니다; the roots of our current system run deep

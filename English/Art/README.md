@@ -9,3 +9,4 @@ Michelangelo is a piece of Lewis Sans who shows talent in sculpture, sculpture, 
 
 # 그림
 * 수채화로 그렸다; I painted with watercolor
+* 낙서에 약하다; i'm very terrible at doodlingㅈ

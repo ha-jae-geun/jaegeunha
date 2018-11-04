@@ -1,3 +1,4 @@
+* 맞춤형의; custom; custom-tailored;custom made;made-to-order
 * 더 잘어울리기 때문에; because you can pull it off
 * 옷의 기장 맘에 들어요; i quite like the length of this
 * 항공재킷에 빠지다; i am so into bomber jacktts right now
