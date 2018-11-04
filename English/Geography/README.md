@@ -1,5 +1,8 @@
 # Korea
 
+## 경상도
+* 과거 경상도의 이름은 경주, 상주, 진주도
+
 ## 광화문
 * 광화문 광장의 세종대왕과 이순신 장군, 어떤 의미일까? What does King Sejong and General Yi Sun-shin of Gwanghwamun Square mean?
 * 이순신 장군, 세종대왕, 경복궁, 청와대가 일렬로 위치해있다. In Gwanghwamun, there are a row of Yi Sun-sin, King Sejong, Gyeongbok Palace, and Cheong Wa Dae.

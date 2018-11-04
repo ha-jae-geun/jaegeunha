@@ -1,4 +1,5 @@
 #경찰서 #법원	#형사 police(2번째 강세)
+* con 1. 사기치다; 2. covict 3. cons: 단점
 * 고소하다; accusation[ˌækjuˈzeɪʃn] ; 무고죄: false accusation
   * 아동, 성적 핟개; child/sexual abuse
 

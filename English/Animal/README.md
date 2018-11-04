@@ -1,4 +1,14 @@
+# 공룡
+* 7층 높이의 브라키오 사우르스; 15세까지  크고 안크는데 30t까지
+크기위해서는 매일 5kg씩 찌워야한다. 엄청난 배설물, 방귀
+* 인류세의 지표는 닭
+* 공룡에 대한 가장 정확한 과학적 비유는 거대한 닭
+* 시노사우롭테릭스; 깃털의 흔적이 남아있는 작은 육식공룡
+* 알껍데기 두꼐의 한계: 구멍들의 길이가 너무 길면 공기가 안통한다.
+* 목긴 공룡들은 워낙 덩치가 커서 성체가 되면 천적이 없다.
+
 ## 동물
+* 토끼가 탈출한 적도 있니? SO Tammy, have any of your rabbits ever gotten loose?
 * 부질 없는 짓이야; This is a wild goose chase
 * 이상적인 사람; Mr.right
 * 알몸; WE used to swim in our birthday suits

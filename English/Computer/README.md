@@ -20,6 +20,7 @@
 * ASMR; Autonomous Sensory Meridian response
 
 # 인터넷
+* 사용자의 의견, 공유, 그리고 좋아요는 온라인 콘텐츠 참여율을 보여주는 척도이다. User’s comments, shares and likes are the measures that show #engagement rate; 온라인 콘텐츠 참여율
 * 낚시성 콘텐츠: click-bait
 * 관종; attention whore/seeker
 * 눈팅만 하다가 처음 글 올려봐요; Long time lurker, first time poster; people tend to lurk around/in the chat room

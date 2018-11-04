@@ -80,6 +80,7 @@
 * #스텔스 ᅟᅩᆨ격기 #stealth bomber
 * #비행중인; #airborne, #flying, #inflight - 비행 중인 
 * 비행기 종류; superjumbo 미국·영국 [|su:pə|dʒʌmbəʊ] 
+  * 기체; fuselage 미국식 [ˈfjuːs-]  영국식 [ˈfjuːzəlɑːʒ] 
 * #비행장; airfield 미국식 [|erfi:ld]; jeju airfield
 * #fly in; 비행기로 도착하다
 * #korea라고 하면 절대 안됨; ROK(Republic of Korea) / South Korea Democratic XXX

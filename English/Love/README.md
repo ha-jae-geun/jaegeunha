@@ -1,4 +1,6 @@
 # Word
+* flirt 1. 꼬시다 2. 바람둥이 3. 잘 꼬시는 사람ㅉ
+* 터무니 없이 잘생기다; laughably handsome
 * 옛 연인 중 한명 봤어; i met one of your old flames
 * 진지하게 만나볼래? wanna go steady with me?
 * 그녀와 사랑에 빠졌죠; i was instantly in love with this chick; 젊은 여자

@@ -1,5 +1,6 @@
 * 대중 음악에서 후렴부를 복잡하게 쓰면 사람들은 싫어한다. People complain about complicated refrain/Chorus in popular music.
 * 노래방 18번이다; karaoke staple
+* 네 노래가 발랄하다고 말하는 사람에게 어떻게 반응할 것 같애? How would you respond to a person who says your songs are too cheerful
 
 # 가수
 * 칼 근무; Synchronization 혹은 synchronized dance moves
@@ -68,6 +69,7 @@
 * Bad day - Daniel Powter - 다니엘 파우터
 * Stone Cold - Demi Lovato
 * Still with you - Eric Benet - 에릭 베네이
+* Without me - Halsey - 홀지
 * Nothing's gonna change - Glenn Medeiros - 글렌 메데이로스
 * Jeff Bernat - Changes - 제프 버넷
 * Jessi J- Casualty of Love

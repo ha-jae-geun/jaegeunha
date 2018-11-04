@@ -1,3 +1,13 @@
+* 사무실이 지저분해서 죄송해요; Sorry about the clutter in the office
+* 세상에 충격을 선사하라; put a dent in the universe; #put a dent in
+* 우리의 현재 체계는 낡아가고 있음을 알 수 있습니다; start to show its age
+* 현재 체계의 뿌리가 깊게 박혀있기 떄문입니다; the roots of our current system run deep
+* 질보다 양을 중요시합니다; IT values quantit over quality
+* 달라붙는걸 멈추지 않았어요; that didn't stop the clinginess
+* 소파 위에 앉아 제 뒤로 와서 절 안았어요; He'd get behind me on the couch and start spooning me
+*  해 준건 고맙죠; IT was the gesture
+* 사람들과 어울리기 좋아하는 사람; social butterfly
+* ~라고 믿게하다; buy into (idea/plan)
 * 뭐라 말하겠어요? What can i say? 칭찬 받을 때 즉시 놀리는 투로
 * 우리를 이끌어주는 모든 빛은 눈을 멀게 해; All the lights that lead us there are blinding
 * 그사람은 마술사들의 속임수를 폭로하고 다니는 사람입니다. He debunks magicians.
@@ -45,6 +55,15 @@
 * 그에게 신경질 냈따; SHe snapped angrily at him
 * 아니에요, 친구가 했죠. 전 알지도 못했다고요. No, he did. I ain't even in on it.
   * be in on sth ~에 대해 알다, ~에 관여되다
+* 어머님께서 제 목에 있는  키스마크를 발견했어요; My mom found like a hickey on my neck
+* 될대로 도라는 식의 그태도! Devil-may-care attitude
+* 이 무슨 낭패람! What a fiasco!   [fiˈæskoʊ]
+* 내 말은 잘 바스러진다는 거였어; i mean like crumbly
+* 마음도 평화의 경지에 놓이게 돼요 you also get your mind in to that sort of zen zone
+* 난 규칙을 철저히 따랐다; i #followed the rules to the letter
+  * 수행하다; carry out; 복종하다; obey
+* 명성이란 순식간에 사라지는 것이다; Fame is fleeting [ˈfliːtɪŋ]
+* 선동적인 발언 inflammatory remarks 
 * 소문, 떠도는 말, 항간의 이야기; word on the street
 * 열정: fire in heart; is not easy to put out
 * 고통스러운 경험을 완화시키다; to take the edge off painful experiences
