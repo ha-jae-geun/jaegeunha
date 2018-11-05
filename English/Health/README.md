@@ -629,3 +629,7 @@
 * 심장병은 집안 내력이다		dɪ‘zi:z ’fӕməli Heart disease runs in the family.
 * 심장 정지의 위험성	he's crashing: 의식을 잃고 있어요
 
+
+# 약
+* 물 없이 그냥 삼키다; dry shallow 
+* 피임약; birth control pill = morning after pill

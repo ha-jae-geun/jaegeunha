@@ -1,4 +1,5 @@
 #경찰서 #법원	#형사 police(2번째 강세)
+* 제보자가 있을 줄은 몰랐어요; He didn't know that i had receipts(증거)
 * con 1. 사기치다; 2. covict 3. cons: 단점
 * 고소하다; accusation[ˌækjuˈzeɪʃn] ; 무고죄: false accusation
   * 아동, 성적 핟개; child/sexual abuse

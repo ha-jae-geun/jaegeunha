@@ -1,3 +1,7 @@
+# 기타
+* 엉터리 영어가 가끔 부끄럽다; i am ashamed of my famil's broen english
+
+
 * 츄리닝: tracksuit / sweatsuit
 * 콘센트; Power socket
 * 화이팅: Let's go; You got this!

@@ -16,6 +16,9 @@
 * Glade; 방향제
 -------
 「쇼핑」 #쇼핑 #백화점 #슈퍼 #시장(shopping center, mall, 'su:pərmɑ:rkət supermarket)
+* 사이즈/색상/스타일이 다양하게 나오다; come in style/color/size
+* 본인 소개해주세요; introduce yourself
+* 본인 부담금으로 25$에요; Specialist copay 25?
 * 쇼핑 카트 밀다; push a shopping cart
 * #홈쇼핑; I bought them on #home shopping channel
 * Can I take a look at / can ou show me that / can you take this out for me

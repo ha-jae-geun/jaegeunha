@@ -1,3 +1,11 @@
+* 쥐죽은듯이 조용한; be dead silent = silent as the dead
+* 억지 해석하다, 기적을 바라다; grasp at straws
+* 의독적으로 접촉하다; contact / make contact <> 우연히 접촉하다; come in contact with
+* ~을 떠오르게 하다; be reminiscent of ~
+* 공인 카운셀러; accredited counselors [əˈkredɪtɪd]
+* 감정적으로 무너져내리다; i just broke down
+* 엉터리 영어가 가끔 부끄럽다; i am ashamed of my famil's broen english
+* 오랫동안 모아와거든요; i have been collecting these bags for a minute
 * ~하는데 돈을 쓰다; i usually spend my mone on ~
 * 나한테 잘못을 돌리지 마세요; DOn't lay the blame on me
 * 껌을 밟았어; I stepped on gum
