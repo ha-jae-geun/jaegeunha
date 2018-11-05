@@ -1,3 +1,9 @@
+# 퓰리처상 [ Pulitzer Prize ] 
+ * 미국에서 가장 권위 있는 보도•문학•음악상.
+
+
+
+# 기타
 * 대중 음악에서 후렴부를 복잡하게 쓰면 사람들은 싫어한다. People complain about complicated refrain/Chorus in popular music.
 * 노래방 18번이다; karaoke staple
 * 네 노래가 발랄하다고 말하는 사람에게 어떻게 반응할 것 같애? How would you respond to a person who says your songs are too cheerful
