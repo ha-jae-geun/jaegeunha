@@ -284,13 +284,6 @@ Legs are long but calf is thin, saving 80% of oxygen consumption
 * ㆍ필리핀 여자 Filipina
 * Divorce is illegal
 
-# 일본
-* 밥먹을 때 식기 들고 먹는게 예의
-* 택시 문이 자동으로 열려서 문 잡으면 안된다.
-* 지하철에서 통화하면 매너 아니다.
-* 술을 따뜻하게 데워먹는 문화가 있다.
-* ㆍ#haikus; 일본시; 운율을 맞추기 위해 글자수 제한이 있음
-* Don't speak in these weird haikus
 
 # 중국
 * ㆍ#cantonese; #광동어
