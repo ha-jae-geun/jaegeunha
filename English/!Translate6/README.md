@@ -1,3 +1,8 @@
+# 스케줄 맞춰주다;
+* 언제가 ㅈ호은데; What time works best for you?
+* 당신 스케줄에 맞출 수 있습니다; I can work around your schedule
+* 당신의 스케줄에 제 스케줄 맞출 수 있어요; i can arrange my schedule around yours
+
 # 영어에서 사역 문장은 언제 어떻게 쓰는걸까? - Part 1
 * 저는 내일까지 이걸 처리해야되요; I need to take care of this by tomorrow
 * 이거 내일까지 되야해; i need to have this taken care of by tomorrow

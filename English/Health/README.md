@@ -419,6 +419,8 @@
 * 주사 맞은 부위가 아파요	I have pain around the injection area
 * 숨을 쉬지 않아요. 누가 심폐 소생술을 하실 줄 아는 분이 없으세요? 	He's not breathing! Can anyone do CPR?
 * 응급 상자를 가져오세요. 	Please bring a first aid kit.
+* 응급실, 소아과, 가정의학과, 혹은 내과에서 근무할 수 있어요; 
+  They can work at urgent care, pediatrics, family practices, or internal medicne
 * If you are trained in first aid 
 * 머리를 받쳐 주세요. 	Please support his head. 
 * 지혈해야 해요. 	We have to stop the bleeding.
@@ -613,6 +615,7 @@
 * 몸이 안좋다	‘weðə(r) I am under the weather
 * 콧물도 나고요? 		‘rʌni Do you have a runny nose?
 * 코막힌다. 	I am all stuffed up. I have a stuffy nose.
+* 지금 코가 조금 막혔어요; i am a little congested
 * 답답한 방에 산다. 	I live in a stuffy little apartment.
 * 병원에 가봐야 할까요?		‘dɑ:ktə(r) Should I go see a doctor? the doctor은 담당 주치의
 * 묽은 변 	runny poo ‘rʌni

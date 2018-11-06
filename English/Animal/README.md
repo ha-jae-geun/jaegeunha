@@ -8,6 +8,8 @@
 * 목긴 공룡들은 워낙 덩치가 커서 성체가 되면 천적이 없다.
 
 ## 동물
+* 육식성의; carnivore 미국식 [ˈkɑːrn-]  영국식 [ˈkɑːnɪvɔː(r)]; carnivorous
+* 초식성의; herbivorous 미국식 [hə:rbívərəs] 
 * 토끼가 탈출한 적도 있니? SO Tammy, have any of your rabbits ever gotten loose?
 * 부질 없는 짓이야; This is a wild goose chase
 * 이상적인 사람; Mr.right

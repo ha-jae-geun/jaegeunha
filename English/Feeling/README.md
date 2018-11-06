@@ -1654,6 +1654,7 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * 좀 피곤하네. 							 난 좀 ~해 I’m kind of tired. 
 * 이건 완전히 생각지도 못한 거야. 		 이건 완전히 ~야 This is totally unexpected. 
 * 우리가 져서 실망했어. 						 I’m disappointed that we lost. 
+* 꽤나 실망하죠; She is pretty gutted
 * 새로운 언어를 배우는 것은 정말 답답해. 		 It’s so frustrating to learn a new language. 
 * 늦어서 미안해. 								 I’m sorry I’m late. 
 * 방해해서 미안해. 							 I’m sorry to interrupt. 

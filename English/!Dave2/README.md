@@ -1,3 +1,26 @@
+* 너는 주말 내내 나한테 화만냈었지; You spent the weekend getting even; 
+  * get even with: ~에게 앙갚음을 하다
+* 시간을 되돌릴 수 없습니다; we aren't able to turn back the time
+* 그 떄 알았더라면; Had i known = If i had known
+* 어려운 질문이네요; It's a hard one
+* 무엇이냐에 따라 달라지겟ㅈ지만; Depends on what context 
+* 남자들이 왜 이거에 민감한지 모르겠어요; i don't know why guys are so, like, freaked out about that
+* 그 회사는 안전 규정 소홀로 공개적인 질책을 받았다. The company was publicly rebuked for having neglected safety procedures. 
+* 투박한 가죽신 clunky leather shoes 
+* 실수를 즐기세요; They are to be savored
+* 최상의 경지에 이르다; reached the highest level of perfection
+* 정전과 통신 차단; power and communication outages
+* 태조는 조선을 1392년부터 1398년까지 통치하였따; ~ reigned over the ~ dynasty
+  [ˈdaɪ-]  영국식 [ˈdɪnəsti]
+* 여테까지는; heretofore 미국식 [ˌhɪrt-]  영국식 [ˌhɪətuˈfɔː(r)] 
+  * before this time / up to now / previously
+* ~의 시작; at the onset of her illness
+* 해가 갑자기 사라진다면 어떻게 될까요? What would happen if our sun suddenly went out
+* 너 속도에 맞추다; YOu keep up the pace
+* 불 꺼진 상태로; with the lights off
+* 꽉 잡아; YOu might wanna starp in
+* 여지껏 들은 것 중 최악의 격려였어; That was the worst pep talk ever
+* 다시한번 말씀드리고 싶어요; want to reiterate the fact
 * 쥐죽은듯이 조용한; be dead silent = silent as the dead
 * 억지 해석하다, 기적을 바라다; grasp at straws
 * 의독적으로 접촉하다; contact / make contact <> 우연히 접촉하다; come in contact with
