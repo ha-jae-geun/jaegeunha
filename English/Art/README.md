@@ -14,3 +14,9 @@ Michelangelo is a piece of Lewis Sans who shows talent in sculpture, sculpture, 
 # 단색화
  * 단색화의 특징은?
  * 서양 미니멀리즘과의 공통점과 차이점은?
+
+# 기타
+* 저는 똥손이에요; i'm not crafty
+  * I'm so bad with things done with hands
+  * I'm all thumbs
+  * Not good at things done with hands

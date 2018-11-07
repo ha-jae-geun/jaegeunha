@@ -30,6 +30,7 @@
 * 양말 짝짝이; Mismatched
 
 # 재료
+* 이 털실이면 될까? will this yarn work?
 * Silk
 * Wool
 * cotton [ˈkɑːtn]  영국식 [ˈkɒtn] 
@@ -96,6 +97,7 @@
 * #bra extender
 * 옷차림이 왜그래요?	What’s with the getup?
 * #멜빵바지	#overalls
+* 멜빵; Suspenders
 * #천박한 옷, #촌스러운 	You should get rid of tacky clothes.
 * 천박한 옷들은 갖다버려.
 * #kitschy (←#kitschiest) 미국·영국 [kítʃi]

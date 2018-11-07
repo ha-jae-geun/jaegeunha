@@ -35,7 +35,7 @@
 * burn calories
 * 유산소, 가슴, 등, 삼두, 전신 다해요; Cardio, do some chest, back, tri's the whole body
 * 팔근육 다시 키워야지; Gotta reload those guns
-
+* 심장이 빨리뛰네요; my heart's racing
 
 ---------
 * 「스포츠」 	#스포츠

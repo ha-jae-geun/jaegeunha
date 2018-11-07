@@ -40,6 +40,9 @@
 * #먹물; #squid ink
 * #설치류 #rodent
 
+
+# 곤충
+* 벌에 쏘이는 것보다는 괜찮았어요; Not as bad as a bee sting
 * #쇠똥구리 									 dung beetle 
 * 빈대 								 bed bug 발진 bed bug rash
 * 벼룩 											fli: flea

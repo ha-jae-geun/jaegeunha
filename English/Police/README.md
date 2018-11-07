@@ -20,6 +20,12 @@
 * 	 bring a prosecution (against), charge (sb with sth)
 * #charge, #accuse, #arraign - 기소하다 
 * 제외: #decriminalize[di:|krɪmɪnəlaɪz]; There are moves to decriminalize some soft drugs
+* 실종되다; go missing; 실종 신고를 하다; report a missing person
+* 저는 따님 사건에 배정된 형사에요; i'm the detective assigned to your daughter's case
+  * 누가 실종된거죠? Who is this regarding?
+  * 미아; missing child
+  * 병사가 전시 행방불명(missing in action); MIA
+  * 잠수타다; go MIA
 * #법률의 #시행 #enforcement
 * will #take effect(#effect)
 * #enforce a law; #put a law into effect/force/operation
@@ -342,3 +348,6 @@
 * impersonation 미국·영국 [impə́:rsənéiʃən] ; #인격화 #의인화
 * #가장
 * * 
+
+# 총
+* 총 맞는다; get poled

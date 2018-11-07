@@ -6,6 +6,7 @@
 * Sign of struggle; 싸우거나 방어한 주변 흔적
 ------------
 * #죽음 die pass away: 존칭, #flatline(심전도의 그래프가 수평선)
+* 제사 지내다; memorial rite / ancestral rites  [ænséstrəl] 
 * 시작으로부터의 죽음 Doomed from the start
 * #악령; #vengeful spirit
 * #drop off; 졸다; drop off the hooks; #황천객이 되다; drop/#slip off the hooks #죽다

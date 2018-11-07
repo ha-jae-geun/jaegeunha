@@ -1,3 +1,7 @@
+# 전쟁
+* 군대는 비생산적인 집단이고, 군대에 나가면 무기와 군량을 사야 되기 때문에 세금이 올라간다.
+
+# 기타
 * 모든 사람을 자네 손으로 지휘하곤했었는데, you were running everything and everyone
 * 전쟁을 선포하다; declare a war
 * 전쟁 중에; through/in/during a war.

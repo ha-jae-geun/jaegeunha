@@ -589,6 +589,9 @@ While the US raised interest rates and the dollar strengthened daily, China and 
   * 전세수급지수 추이가 과거에 비해 충분해졌다.(지방은 높고 수도권은 낮다.)
 
 
+# 3대 생산요소
+* 노동, 토지, 자본
+
 # 기타
 * 외환 위기 이후 부의 양극화 현상이 심화되고 있다; Since the financial crisis, the polarization of wealth has become more serious.; alleviate regional polarization
 * 담합을 통해 가격을 정하다 fix the price in collusion 

@@ -551,6 +551,7 @@
 * 아이의 귀에 염증이 생겼어요. 	My child has an earinfection.
 * 아이에게 땀띠가 났어요. 	My child has heat rash. 
 * 아이에게 젖을 먹이고 있어요. 	I'm breastfeeding my child. 
+* [동사] (전문 용어) 충혈시키다, 울혈이 생기게 하다 engorge 미국식 [ɪnˈɡɔːrdʒ]  영국식 [ɪnˈɡɔːdʒ]   단어장추가
 * #눈곱이 끼고 눈물이 나요.	My eyes are gummed up and watery.
 * #eye booger
 * 손으로 자주 문질렀어요? 	Did you rub your eyes with your hands frequently? 
@@ -636,3 +637,4 @@
 # 약
 * 물 없이 그냥 삼키다; dry shallow 
 * 피임약; birth control pill = morning after pill
+* 과해지면 안되는데; Don't overdose

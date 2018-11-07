@@ -1,5 +1,7 @@
 * 기분이 언짢아지다; Fans #get the hump when the team loses.  팬들은 (자기가) 응원하는 팀이 지면 기분이 언짢아진다.
 * #승부욕; 승부욕을 갖다; have a desire to win
+* 그 감정을 명확하게 드러내 보세요; Emote that
+* 잠시 틈을 두고 그 불이 사그라드게 두세요; let that fire die down, through a pause
 --------------
 * #감정
 * ☆~의 감정이 병존하는 #ambivalent; i'm so ambivalent about this; 못 정하겟다
@@ -1178,6 +1180,7 @@
 * ##sulk; sulky, sulky over/about; ~에 대해 #뚱해 있다. pout[sulk] almost in tears
 * #sulking to the masses; #별 것도 아닌 걸로 #난리치다
 * #passive-aggressive(#aggressive; 표현도 안하면서 방어적으로 뾰루퉁해있는
+* 섭섭하게 생각마; no hard feelings
 * ##섭섭 #서운
 * 극도로 화나게 만들다: #infuriate; Her silence infuriated him even more
 * #bent out of shape; get bent out of shape 

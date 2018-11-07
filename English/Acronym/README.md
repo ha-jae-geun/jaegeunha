@@ -168,6 +168,7 @@ One O one- point nine FM
 * #RUH: 								 Are you #Horny?: 흥분했니?
 * #ROFL								 (=rolling on the floor laughing)
 * #RSVP 답변 부탁드립니다. 초대에 응하다; Please RSVP on our website
+* #R&D research and development(연구 개발).
 * #PIR 									 parent In my room
 * #satphone = #satellite phone
 * #S.M.H; #shake my head; #쯧#

@@ -51,6 +51,7 @@
 * defective / free - is not working properly / broken / out of order / malfunctioning
 * --------------------------------------------------------------------------------
 
+
 # 듣기
 ## 파트 1
 * 잡다; holding, grasping, grabbing, gripping
@@ -58,6 +59,11 @@
 * rug: 깔게; has been rolled up against the wall
 
 ## 파트 2
+* 유사 발음 오답; review view
+* 연상 어휘 오답; airport, travel
+* 주어 불일치 오답; you, they
+* 시제 불일치 오답; did, well
+* 의문사 의문문에 Yes/No/Sure/Of course 오답
 * baord; i'l write it up on the board; 게시판; members of the board; 이사회
 * issue; it's not an issue for us 2. the story continues in our next issue; 호
 
@@ -734,6 +740,9 @@
 
 * 20. 2형식 자동사+주격보어
 *  be, become, remain일 때 뒤에 형용사 명사 둘다 가능
+
+# 2형식 동사
+* be, become, remain, prove, seem, appear + 형용사
 
 * 2. 1,2위 고컴펄런(스) 염
 * 3. 오감각적 어시

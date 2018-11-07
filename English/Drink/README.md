@@ -19,6 +19,7 @@
   무알콜 음료; #virgin / moctail; can i get a virgin Bloody Mary; 물을 탄 위슼; Whiskey with water
   ---------
   * 「술집」 ##술집 liquor(독한 증류주) líkǝr
+* 보드카; with ciroc on tap
 * #rum #		#술자리 drinking occasion이나 drinking party
 * #dry bar; 술이 없는 바	#hard lemonade; 술이 들어간 레모네이드
 * 미국 술 매너

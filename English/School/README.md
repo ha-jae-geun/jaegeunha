@@ -31,6 +31,7 @@
 * #영국학교
 * Nursery/reception – infant school – junior / primary school – high school/secondary – college - university
 * ----
+* 지각; tardy; consider it tardiness
 * '#Pupil' 에는 우리 눈동자 속의 '동공' 이라는 뜻도 있지만 , 초, 중 생 같은 어린 학생을
 * 나타내는 뜻(대학생 같이 큰 학생은 Pupil 이라고 하지 않습니다.) 과, 어느 대가의 문하생, 제자 라는 뜻이 있습니다. 여기에 'Star' 라는 수식어가 붙어서, '수제자', '최고의 능력을 가진 제자'라는 뜻으로 쓰입니다.
 * I keep trying to be your star pupil. : 반장님의 수제자가 되려고 계속해서 노력하고 있습니다.

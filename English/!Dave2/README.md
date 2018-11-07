@@ -1,3 +1,16 @@
+* 우린 막 나가지, 지붕 끄트머리에 달려있으면서; we don't got no manners hanging of the rafters
+* 등지다; The men are facing away from 
+* 추후 통보까지; until further notice
+* 소름 돋아요; i'm getting the shivers
+* 허풍에 맞서야 해; you've been calling my bluff on all my usual tricks
+* 루머로 인해 곤경에 빠졌어; i'm knee-deep in rumors
+* 이 친구들이 겉을노 침착해보입니다; you know that they are cool on the surface
+* 이제 변화를 줘보자; Let's spice things up now
+* 다 아는구나, 굳이 뭐하러? Why bother?
+* 곡예하듯이 힘들게 하다; How is she gonna juggle work?
+* 종료, 멈추다; stop: 종료, pause: 잠시 멈추다
+* ~하기 직전인; A planet on the brink of collapse
+* 인간은 일회용이야; Human beings are disposable
 * 너는 주말 내내 나한테 화만냈었지; You spent the weekend getting even; 
   * get even with: ~에게 앙갚음을 하다
 * 시간을 되돌릴 수 없습니다; we aren't able to turn back the time

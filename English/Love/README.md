@@ -1,4 +1,5 @@
 # Word
+* 사랑하는 사람; loved one
 * 사랑에 있어서도 그녀는 잘 해낼 것이다. She’ll likely do just fine, even in matters of the heart. 듣기 출처:YBM
 * 무슨 수를 써서라도 우리가 이 게임을 이겨야 한다는 거 너도 알지? You know we must win this game by hook or crook. 
 * flirt 1. 꼬시다 2. 바람둥이 3. 잘 꼬시는 사람ㅉ
@@ -756,6 +757,7 @@ I have a big crush on you / I have a thing for you, i'm into you
  * 태동을 느낄 수 있었지만; the kicks in her belly, i could feel them from the outside
  * 어쩌다 보니 엄마가 되었어요; Motherhood is something that just happened
  * 임신해서 회사를 그만두었어요. 				 I quit my job because I got pregnant.
+ * 임신 시키다; knocked-up 속어; i didn't knock someone up
  * 육아 휴직 기간입니다. 							 I'm on maternity leave. 
  * 아내는 가정적이에요? 						 Is your wife helpful at home? 
  * 아내는 퇴근 후 바로 집으로 와요. 		 My wife comes straight home after work. 

@@ -31,6 +31,8 @@
 * 산균이에요. It's the lactic acid.
 
 # taste
+* 입들의 조합에 뭐가 있는것 같애; I think there's something about this leaf combination
+* 존맛탱; so bomb
 * 달콤하다고 묘사하지마; Don't describe anything as juicy
 * ☆#순한맛 #gentle flavor
 * 걸쭉해요; It's thick

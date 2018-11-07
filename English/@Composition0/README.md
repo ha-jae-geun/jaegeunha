@@ -5,6 +5,7 @@
   * I would like to request / Do you think you would be able to V
 
 -----------
+* 내가 보기에; THe way i see it
 * #간접화법
 * she said she was on her way to lunch
 * she asked me if I wanted to come with her
@@ -12,6 +13,11 @@
 * told 누구 / said + would; she said shoe wuld be downstairss
 * I said I would be ther as soon as I could
 
+* 신발을 신을 수 있을지도 모르겠어요; i might could fit in them
+  * 문법책과 달리 조동사 2개를 겹쳐쓰는 경우: modal stacking; 남부지방에서 볼 수 있음
+  * 긍정문 끝에 오는 at all: 이왕, 어쨌든;
+  * If you decide to lose weight at all
+  * 의문문; 조금이라도; Do you know him at all? 조금이라도 알아?
 * ##Here it is 히어뤼리-ㅈ
 * ^^Here you go.는 보통 우리가 잘 알고 있는 여기 있어요. 라고 물건을 건네줄 때 사용을 할 수 있어요. 그런데 이런 여기 있어요를 There you go. 로도 할 수가 있고요.Here you are. 많이 아실거에요.아무튼 여기 있어요. 라는 말이에요.
 * ##there you go; 맞았어, 여기있어, 다됐따

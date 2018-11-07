@@ -1,5 +1,6 @@
 # 종교
 * 템플스테이 같은 명상 수련회; I went on a week-long silent #meditation retreat
+* 무당; shaman ˈʃeɪmən;ˈʃɑːmən;ˈʃæmən]
 * 세계를 죄악으로부터 구함 the redemption of the world from sin 
 * 신이시여; god almighty
 * 종교화를 그릴 때 규칙을 지키지 않으면 신성모독이다. 

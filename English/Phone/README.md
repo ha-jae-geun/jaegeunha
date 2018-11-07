@@ -2,6 +2,7 @@
 * LG U+에서 바꾸고 싶어; i want to switch from LG U+
 * 핸드폰이 초기화도기 전까지 시간이 모자라; We're running out of time before the phone gets wiped
 * 접근 거부; Access denied
+* 전화 한통이면 돼; i'm one call away wheneer  you need me
 
 # 사진
  * * #tbt, #love, #nofilter: 무보정, #blackandwhite: 흑백사진
