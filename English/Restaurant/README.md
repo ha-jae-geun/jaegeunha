@@ -1,4 +1,6 @@
 * 「식당」 #식당 (1kӕfə2tɪriə cafeteria, restaurant) #dining room 식당식당 
+* 저는 안먹어요; None for me
+* 바로 다시 준비해드릴게요; i'm gonna get this fixed for you right away
 * #exotic restaurant
 * here or to go/ take out/ take away
 * the food at that restaurant was not delicious(#restaurant 바로 붙이기 x); 유치해 보임

@@ -310,6 +310,9 @@ Below Average  25.0% : Poor  27.5% : Awful
 * 도루를 당할 가능성이 큽니다.
 
 
+# 지표
+* 배럴; Barrel; 발사각(Launch Angle) 26~30도와 #타구속도(Exit velocity)이 98마일 이상 되는 타구
+
 
 # 스텟
 ## FIP

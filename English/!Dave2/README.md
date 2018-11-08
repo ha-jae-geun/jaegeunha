@@ -1,5 +1,18 @@
+* 화를 내지 않고 이 갈등을 해결할 수는 없나요? Can't we resolve this conflict without anger?
+* 저는 늘 제 자신이 성에 안차요; i'm never the man in my eyes
+* 제가 뭘 계획하고 있을까요? Who knows what i have in my bag?
+* 징조;  a good sign/omen[ˈoʊ-]  영국식 [ˈəʊmən] 
+* 오실 떄가 됐다 했는데; About time
 * 우린 막 나가지, 지붕 끄트머리에 달려있으면서; we don't got no manners hanging of the rafters
 * 등지다; The men are facing away from 
+* 실패하다; make a killing
+* 희망을 현실로 만들어라; fulfill the prophecy  [ˈprɑːf-]
+* 특별함을 가지고 인쓰 사람에게는 힘겨운 싸움이다; It's uphill for oddities ˈɑːd-] 
+* 너무 오래 머물렀나봐; We've outstayed our welcome
+* 도저히 냄새 못 참겠다; The smell is just ugh; I can't stand it
+* 좀 뜬금없긴 한데; this is totall random 
+* 평범한 강아지들이 아닙니다; these aren't your standard run-of-themill puppies
+  * run: 제품, 생산품; mill: 방앗간
 * 추후 통보까지; until further notice
 * 소름 돋아요; i'm getting the shivers
 * 허풍에 맞서야 해; you've been calling my bluff on all my usual tricks

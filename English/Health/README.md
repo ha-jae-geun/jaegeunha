@@ -1,4 +1,6 @@
 ## 기타
+* 조직검사를 하다; take/get a biopsy 미국식 [-ɑːpsi]
+* 샘플은 소독 후 작은 조각으로 잘라집니다; the sample is sterilized and cut into small pieces  [ˈsterəlaɪz] <> sterile 미국식 [ˈsterəl]
 * 통증이 그의 팔을 타고 전해졌따; A sharp pain suddenly shot along his arm
 * 위아래로 퍼지는 찌릿찌릿 마비된 느낌; numbing sensation of pins and needles which shoots up and down
 * 척골 후려치기; it's called whacking your funny bone

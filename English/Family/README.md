@@ -166,7 +166,6 @@
 * 아버지를 닮아서 화를 많이 내 					 He gets his temper from his dad
 * 그 친구들 정말 닮았더라고! 		 완두콩 pɑ:d: 꼬투리 They look like two peas in a pod. 
 * 걱정하지마									 Don't sweat it
-* 엄마인 상태									 mother·hood
 * 너 아빠 닮았구나 						 You take after your father.
 * ‘아빠, #아저씨 									pops, #mister
 * #sugar daddy; 그렇고 그런목적으로 스폰하는 아재/할배들
@@ -210,6 +209,8 @@
 * #친아빠 #친부 Biological father
 * #가장; #man of this house
 * #엄마 
+* 엄마인 상태									 mother·hood
+* 대리모; surrogate mother; 입양된 경우 친어머니ㅣ biological mother, birth mother
 * #모성; #maternity
 * #funny uncle; 조카를 성적으로 건드리는 삼촌
 * #mommytrack ((육아 등을 위해 출퇴근 시간을 조절할 수 있되 승진·승급의 기회는 적음

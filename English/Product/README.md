@@ -1,3 +1,7 @@
+# 상품
+* 평범한 강아지들이 아닙니다; these aren't your standard run-of-themill puppies
+  * run: 제품, 생산품; mill: 방앗간
+
 ## 유명 브랜드
 * DD; Dunkin donuts
 * 맥도날드; Mickey D's

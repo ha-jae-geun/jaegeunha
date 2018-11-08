@@ -1,7 +1,8 @@
 # 퓰리처상 [ Pulitzer Prize ] 
  * 미국에서 가장 권위 있는 보도•문학•음악상.
 
-
+# 악기
+* 아일랜드 밴드에서 바이올린을 연주하ㅏㄷ; She played the fiddle in an Irish band
 
 # 기타
 * 대중 음악에서 후렴부를 복잡하게 쓰면 사람들은 싫어한다. People complain about complicated refrain/Chorus in popular music.

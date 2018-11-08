@@ -8,6 +8,7 @@
   * <> out of tuition
 
 # 대학
+* 네가 고등학교 때 좀 못되게 했었나봐; You were a little mean to him
 * 파트너는 같이 앉은사람이 될 거에요; Your partner will be your tablemate
 * 공립, 국립: public/private school
 * 무리, 집단; clique; cliquey: 끼리끼리 노는

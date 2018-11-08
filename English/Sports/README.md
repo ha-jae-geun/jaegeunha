@@ -28,6 +28,11 @@
 * 개해엄; dog paddle
 
 # Gym
+* 크런치하다; do crunches; do sit-ups;; i only do crunches for my abs
+* 물론 이런 운동은 근육을 탄탄하게 만드는 데는 효과가 있어요; Doing these exercies will certainly help you tone the muscles
+* 팔벌려 높이뛰기; jumping jacks(영국: starjump)
+* 러닝머신하다; run on a treadmill
+* 군살 없이 사는 방법을 가르쳐 드릴 전문가이다; i specialize in teaching you ladies how to live lean
 * 홈트레이닝: at-home workouts / home exercises / home workouts
 * PT; i've been training at home with a personal trainer
 * 배에 힘주다; #tight your belly, #squeeze your abs

@@ -3,7 +3,7 @@
 * Hey, let me +V
 * 비즈니스: Would you please + V / I would be grateful if yoou could +
   * I would like to request / Do you think you would be able to V
-
+* 저는 안먹어요; None for me
 -----------
 * 내가 보기에; THe way i see it
 * #간접화법
@@ -12,7 +12,8 @@
 * I asked him if she wanted t
 * told 누구 / said + would; she said shoe wuld be downstairss
 * I said I would be ther as soon as I could
-
+-------
+* ~했으면 좋겠다; i could V = need/want
 * 신발을 신을 수 있을지도 모르겠어요; i might could fit in them
   * 문법책과 달리 조동사 2개를 겹쳐쓰는 경우: modal stacking; 남부지방에서 볼 수 있음
   * 긍정문 끝에 오는 at all: 이왕, 어쨌든;

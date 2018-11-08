@@ -1,3 +1,9 @@
+# 단어
+* 그녀의 최신 저서는 눈을 떼지 못하고 읽게 만든다. Her latest book makes compelling reading. 
+
+ 접속사
+* or: 그렇지 않으면(명령문 아니여도)
+
 # 시험에 자주 나오는 과거분사
 * revised, detailed, proposed, attached, enclosed, updated; the proposed plan
 
@@ -438,6 +444,7 @@
 * #토익# 「상황」
 * 
 * #부사
+* ~ enough; 부사로 쓰일 떄는 무조건 후치수식;ㄹ
 * ##highly 
 * #recommended
 * #regarded
@@ -1090,6 +1097,7 @@ save write design
 *  the 원급+est ~ of 복수명사 / in 단수명사 / among 명사 3개 이상 / 관계사절 / to 부정사
 *  the/소유격 + 최상급 표현 + (명사 생략 가능)
 *  최상급 강조 부사: yet, ever, until now: 지금까지
+  * available, possible
 
 * 최상급의 쓰임
 * 최상급+possible 가능한 ~한

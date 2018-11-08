@@ -1,16 +1,24 @@
+# 뇌물
+* 한국은 압수하면 국고로 들어간다.
+
 #경찰서 #법원	#형사 police(2번째 강세)
+* the five-oh
+* police men = cops 미국 경찰: ##Johnny law
+* #detective
+* 경찰학교; #police academy	
+* 하지만 한가지 경고를 추가하고 싶습니다.  I should like to add one caveat, however. 예문 발음듣기
+* #FBI; 미국 국내의 문제 #CIA; 미국 국가 안보와 관련하여 대외적인 문제
+* fbi: 주에 관련 없이 다른 주의 관할권을 갖는 수사관; 여러주에 걸친 범죄, 유괴범, 테러
+------
 * 제보자가 있을 줄은 몰랐어요; He didn't know that i had receipts(증거)
 * con 1. 사기치다; 2. covict 3. cons: 단점
 * 고소하다; accusation[ˌækjuˈzeɪʃn] ; 무고죄: false accusation
   * 아동, 성적 핟개; child/sexual abuse
 
+* 법적 구속력이 있지; A에게 B의 의무를 지우다; bind A to B; It's binding
+  * 영원히 유효한 조약도 아니고; It's not like it was binding forever
 * 너희의 수사를 담당하게 될거야; i'm going to be your liaison 미국식 [liˈeɪzɑːn;ˈliəzɑːn] on the Red Hood investigation
-* the five-oh
-* police men = cops 미국 경찰: ##Johnny law
-* #detective
-* 경찰학교; #police academy	
-* #FBI; 미국 국내의 문제 #CIA; 미국 국가 안보와 관련하여 대외적인 문제
-* fbi: 주에 관련 없이 다른 주의 관할권을 갖는 수사관; 여러주에 걸친 범죄, 유괴범, 테러
+* 세 번쨰는 읷을 확고히 하는 겁니다; The third thing is sealing it
 * #법대로 하자; let's go by the book = let's stick to the law = let's #follow/#abide the principle
 * #입법부; #개정안 #legislature; the legislature pass the reform bill
 * #policymaking; make a policy; review a policy; make a policy; form a policy
