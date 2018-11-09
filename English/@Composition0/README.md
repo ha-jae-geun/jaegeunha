@@ -1,3 +1,10 @@
+# 대답
+* 당연하지; THat's given
+* 저는 말고요; None for me
+
+# 말투
+* 저는 항상 막판에 닥쳐서 해요; i'm always last minute with everything that i do
+
 # 무례하지 않은 부탁
 ## 친구 
 * Hey, let me +V
@@ -13,7 +20,10 @@
 * told 누구 / said + would; she said shoe wuld be downstairss
 * I said I would be ther as soon as I could
 -------
+* 그리고 그것이 ~하는 이유이겠죠; which is why 절
+* 이렇게 부르는 거 맞지? That's how it goes
 * ~했으면 좋겠다; i could V = need/want
+* ~인것 같다; It seems that + 문장
 * 신발을 신을 수 있을지도 모르겠어요; i might could fit in them
   * 문법책과 달리 조동사 2개를 겹쳐쓰는 경우: modal stacking; 남부지방에서 볼 수 있음
   * 긍정문 끝에 오는 at all: 이왕, 어쨌든;

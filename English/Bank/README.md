@@ -1,3 +1,6 @@
+# 돈
+* 돈뭉치 40개를 벌었어;  i made 40 bands by 4pm
+
 # 은행	
 * 당좌 예금 계좌요? 저축 계좌요? Checking or savings?
 * (기초 잔고) . Initial deposit

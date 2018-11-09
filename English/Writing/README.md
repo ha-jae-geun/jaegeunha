@@ -4,6 +4,7 @@
 
 # 소설
 ## 사랑 받는 주인공의 3가지 조건;  Three conditions of the heroine being loved;
+* 독일의 무명 시인 an obscure German poet 
 * 충분한 고통, 분명한 목표, 적어도 한 번의 성공할 기회가 있어야 한다. There must be sufficient suffering, clear goals, and at least one chance to succeed.
 
 # 글 구조

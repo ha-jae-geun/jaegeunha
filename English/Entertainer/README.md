@@ -9,12 +9,15 @@
 
 
 # 연예인
+* 공연장은 이렇게 생겼어요; this is what the venue looks like
+* 소녀팬이 된 기분이야; i'm like fangirling
 * 파리에서 런웨이에 오르신다면요; so you're walking in the runway in Paris?
 * 레이디가가; Mother monster - 팬들: Little monsters
 * 믿고보는 배우다; he's a go-to actor
 * 가성비; offer a bang for one's buck
 
 # 영화
+* 영화의 진행, 영화의 흐름; chronology of the film
 * 영화사에서 진행하는 행사; 호텔같이 큰 곳을 빌려서 자기 영화를 홍보하기 위해 영화 기자나, 영화 평곤라 초청해서 시사회 열고 배우와 감독들을 인터뷰하게 하는 행사이다; junket
   * 보통 일반 국민의 세금으로 출장을 빙자해 비싸고 불필요한 여행을 간다거나, 가족들을 데리고 갈 때 그 비용을 전부 돈으로 쓴다거나 할 때 하는 말
 * 현실적인 연기를 바랐어요; i hopedf for a much more grounded performance

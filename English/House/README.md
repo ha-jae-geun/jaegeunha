@@ -1,4 +1,6 @@
 * 즐거운 우리 집; home sweet home
+* 계약금 없이; with no money down
+  * 계약금을 걸다; make/put a down payment; with some money down
 
 # 주방	it has a; #gourmet kitchen; 프로급 주방
 

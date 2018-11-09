@@ -28,6 +28,7 @@
 * 개해엄; dog paddle
 
 # Gym
+* 뛰다 ㅓㄹ사 마렵지만 않앗으면; i don't want to get runner's diarrhea
 * 크런치하다; do crunches; do sit-ups;; i only do crunches for my abs
 * 물론 이런 운동은 근육을 탄탄하게 만드는 데는 효과가 있어요; Doing these exercies will certainly help you tone the muscles
 * 팔벌려 높이뛰기; jumping jacks(영국: starjump)
@@ -44,6 +45,7 @@
 
 ---------
 * 「스포츠」 	#스포츠
+* 맨 앞 좌석을 구했어요; We've got front row seats
 * 판정승까지 갈 줄 알앙써; i expected them to go the distance
 * 그는 올해 1군 선수가 될거야; He's going to be first string this year
 * 정정당당한 대결만을 원합니다; i want nothing but a fair, square fight

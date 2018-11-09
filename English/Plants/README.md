@@ -1,5 +1,5 @@
 * #trunk 1. 줄기 2. 코끼리 코 3. 대형 여행 가방; stem: 줄기; 줄기세포: #stem cell
-* #가지: #bough, #twig, 일반: #branch
+* #가지: #bough, #twig, 일반: #branch / trees | shrub
 * #shoot: 1. 쏘다 2. #새싹; eat shoots and leaves
 -----
 

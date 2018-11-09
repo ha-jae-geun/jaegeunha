@@ -3,6 +3,18 @@
 * 제가 뭘 계획하고 있을까요? Who knows what i have in my bag?
 * 징조;  a good sign/omen[ˈoʊ-]  영국식 [ˈəʊmən] 
 * 오실 떄가 됐다 했는데; About time
+* 그는 어떻게든 경쟁 상대들보다 항상 한 수 앞선다. 
+  Somehow he always manages to outwit his opponents; 재치가 이상인
+* 논란이 되는 고정관념ㅇ르 지속시키려는 의도는 없었지만; while not intending to perpetuate problematic stereotypes  [ˌprɒbləˈmætɪk] [pərˈp-]  영국식 [pəˈpetʃueɪt]
+* 이 장면은 완전히 다른 것을 의미하다; this entire scene takes on a completely different meaning; take on: 특징, 모습 띠다
+* 그가 털어놓는것 보다 더 많이 알고 있어; He knows more than he lets on
+* 나만의 시간이 필요한 것 같아; i just need some space, maybe
+* 우리가 진정 누구인가는ㄱ ㅡ렇게 피상적이지 않아요; who we truly are is not skin deep
+* 더 헷갈리게 만들었어; You've lost me
+* 답은 언제나 스포닞밥으로 기정사실 되어있어요; SpongeBob is pretty much a given
+* 세 번쨰가 에피소드에 무게감을 보태는 것입니다; the third is what adds the meat to the episode
+* 그는 선택할 수 있는 일자리 제의를 두 군데서 받은 부러운 처지에 있다.
+  He is in the enviable position of having two job offers to choose from. 
 * 우린 막 나가지, 지붕 끄트머리에 달려있으면서; we don't got no manners hanging of the rafters
 * 등지다; The men are facing away from 
 * 실패하다; make a killing

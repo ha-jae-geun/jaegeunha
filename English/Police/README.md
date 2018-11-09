@@ -1,6 +1,14 @@
 # 뇌물
 * 한국은 압수하면 국고로 들어간다.
 
+# 나쁜짓
+* 그들은 합의를 이끌어 내도록 강요받았다. [also VN to  inf.] [VN] They were coerced into negotiating a settlement. 
+* 미디어의 과장된 선동과 여론의 두렴을을 이용하다; The media's tendency to sensationalize and play upon the public's fear; play upon
+* 유권자들을 조종하다; manipulate voters
+* 우리는 더 이상 이상황을 어버무리고 넘어갈 수 없어; we can no longer gloss over this situation
+* 어제 그 도시에서 청소년 무리들이 광란을 벌였다.
+  Gangs of youths went on the rampage in the city yesterday. 
+
 #경찰서 #법원	#형사 police(2번째 강세)
 * the five-oh
 * police men = cops 미국 경찰: ##Johnny law
@@ -9,6 +17,8 @@
 * 하지만 한가지 경고를 추가하고 싶습니다.  I should like to add one caveat, however. 예문 발음듣기
 * #FBI; 미국 국내의 문제 #CIA; 미국 국가 안보와 관련하여 대외적인 문제
 * fbi: 주에 관련 없이 다른 주의 관할권을 갖는 수사관; 여러주에 걸친 범죄, 유괴범, 테러
+* 처음으로 돌아가 꺠끗하게 다시 시작하려고 노력하다; start with a clean slate
+  * wipe the slate clean
 ------
 * 제보자가 있을 줄은 몰랐어요; He didn't know that i had receipts(증거)
 * con 1. 사기치다; 2. covict 3. cons: 단점
