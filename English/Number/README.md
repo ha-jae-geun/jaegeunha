@@ -1,3 +1,6 @@
+# 번
+* once -> twice -> three times
+
 * 수식: #number sentence
 * #숫자 #계산 ##0: zero / o
 * #one -> #some  #another -> #others  #the other -> the others

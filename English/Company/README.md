@@ -5,8 +5,13 @@
 # 단어
 * 직업병; 습관: occupation hazard; 진짜 병: occupational disease
 * 워크숍; how to plan a college retreat
+* 나보다 서열이 높다; She has seniority
+  * 신입을 챙겨주다; take someeone under one's wing
+  * 어떻게 돌아가는지 알려주다; show someone the ropes
 
 # 미팅
+* 누가 회의를 주쟂합니까? Who is presiding over the meeting?
+* 복사해주세요; i need a copy of this
 * ~할 안건이 있습니다; we have ~ items to
 * ~로 넘어가자; Let's turn to the next topic on the agenda, move on to
 

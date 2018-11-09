@@ -1,3 +1,7 @@
+* where, what, which, when은 w 사운드; who는 h사운드
+* t로 끝나는 great, sweet, heart는 숨을 막아줘야함
+  Have a great day sweet-heart
+* Listen to this craziness; 리슨 투드's; cra강세
 * I just wanted to say hello; 워닛
 * You are uptight with this kind of thing; 카이너 띠잉(여운)
 * 맨하튼; 맨햍(혀천장붙이기 + 호흡 끊기)은(콧소리) = button

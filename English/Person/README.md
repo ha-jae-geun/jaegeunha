@@ -2,6 +2,7 @@
 * 그는 독보적이다; He's a one of a kind
 * 혼혈 ; mixed-blood, (offensive) half-breed, (offensive) half-caste
 * 남편, 상대, 아내, 여자친구; significant other
+* 만성형의 사람; late bloomer
 
 # 나이
 * Do you mind if I ask your age?

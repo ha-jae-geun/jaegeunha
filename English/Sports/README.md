@@ -42,7 +42,7 @@
 * 유산소, 가슴, 등, 삼두, 전신 다해요; Cardio, do some chest, back, tri's the whole body
 * 팔근육 다시 키워야지; Gotta reload those guns
 * 심장이 빨리뛰네요; my heart's racing
-
+* 시험자는 체력장에서 허리 힘을 검사 받는다.An applicant is tested for back strength at a physical examination(체력장) as others wait for their turn
 ---------
 * 「스포츠」 	#스포츠
 * 맨 앞 좌석을 구했어요; We've got front row seats
@@ -192,6 +192,9 @@
 * #수비대; #garrison; one garrison in a compound of three
 * #튕기다 		 gets deflected | #bounce off the wall(#wall), bounce the ball against the wall
 * #노익장 과시하는 사람 								 golden oldie
+
+
+##축구
 * #잔디 깎는 기계							lawnmower 미국식 [|lɔ:nmoʊə(r)]
 * 잔디 깎아 드릴까요? Can I #mow your #lawn?
 * #풀# 뜯어먹다; #graze
@@ -203,8 +206,8 @@
 * 침대 축구를 했다; He took a dive; that was a flop
 * 동점을 만들었어; They tied the match
 * 동점골을 넣엇어; scored an equalizer
-* ##축구
-
+* 푸욜은 상대편에 의해 그라운드에 넘어졌다
+  * He falls to the ground after he was pushed by a opposing player
 
 # 기타 
 * 강타를 가하다. 								 throw a haymaker 

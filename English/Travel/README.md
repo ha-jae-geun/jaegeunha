@@ -1,3 +1,8 @@
+# 여행
+* 유럽 여행; i want to travel around Europe
+  * 세계; all over the world
+  * I wanna travel to ~
+
 # 관광	#toruist industry(#industry)
 * #Sustainable tourism; 지속 가능한 관광
 * #구경시켜주다 show some around; Showing you guys around

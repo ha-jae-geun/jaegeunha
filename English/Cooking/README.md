@@ -10,6 +10,7 @@
 * sheep; 양고기; Mutton 어린양; Lamb 어린 양고기: Lamb(1년이내), Hogget(2년); 호겟
 * 염소; Goaat; 염소고기; Chevon; 체빈; 어린염소: Kid; 고기: cabrito; 카부리토
 * 사슴; Deer 사슴고기: Vension
+* 곱창; entrails -> beef/pork intestines
 
 # Kitchen
 * #앞접시; please give me a #small plate

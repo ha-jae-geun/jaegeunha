@@ -1,3 +1,33 @@
+# 학습가이드 #05 - 영어표현이 와닿지 않는다고 피하지 마세요
+* 아무 버튼을 누르지 않고서 바로 시간을 확인할 수 있다는게 편리해요
+  (Being able to / The fact that) i can immediately check the time without pressing any buttons is convenient
+
+# "제발 ~ 하나만 있어라." , "설마 ~ 해야 되는거야?" - [ 연습가이드#34 ] - 영어회화
+* 제발 자리 하나만 있어봐; please let there be a spot
+* 설마 기다려야 되는거 아니야? DOn't tell me i have/got to/gotta wait
+* 야 그냥 장애인 자리에 되면 안되겠지? Hey, you don't think/suppose i could just park in the handicap spot(s) do you? 
+* 그러다가 벌금 내야 될 수도 있어; You coould be/get fined for that
+* 빨리 주차자리 못찾으면 나 배고파서 죽을지도 몰라;
+* we better find a spot soon or i'm going to starve to death
+
+# [ 연습가이드 #001 ] 자연스러운 문맥, 말의 흐름 연습하기 [ 주로 - / 할 때도 있다 - / 보통 ] - 영어회화
+* 일 끝나고 뭐해? What do you do after work? 평소
+  * 오늘 끝나고 뭐해? What are you doing after work? 
+* 보통은 집에 가요; i usually just go home
+* 친구랑 한 두시간 정도 만날 때도 있어요; i sometimes hang out with a friend for a few hours
+  * meet up with my friend
+* 근데 보통은 일 끝나고 너무 피곤해서 집에 가서 일찍 자요;
+  * Normoally, i'm really/so tired after work; So, i try to go to bed early
+
+# [ 연습가이드 #002 ] "원래 ~ 하려고 했는데", "그냥 ~ 하기로 했어." - 자연스러운 말의 흐름, 문맥 연습하기 | 기초 영어회화
+* 그냥 집에 있을거야; i'm just going to stay home; just t 묵음
+* 원래는 강아지들을 공원에 데리고 나가려고 했는데;
+  (원래: I was going to) take my dogs out to the park
+* 미세먼지가 심하다는 얘기를 들어서 
+  * i heard the smog is going to be really bad today
+* 그냥 집에 있기로 했어; So, i'm jusgt oing to stay home  
+  * SO i just decided to stay home
+
 # 스케줄 맞춰주다;
 * 언제가 ㅈ호은데; What time works best for you?
 * 당신 스케줄에 맞출 수 있습니다; I can work around your schedule

@@ -1,3 +1,102 @@
+# 쓸만한영어 - 외우지 않고 그림으로 이해하는 영어 단어! [ Haul ] 하울??
+ * 마지막 꺼 먹고싶지 않아요;  i don't want to have the last one
+ * 새거 나오면 먹을게요; i'll wait for a batch
+ * 조금밖에 안남았어요; there is only a little bit left
+ * 치워드릴까요? Can i mop/sweep it up?
+ * 이것들 좀 치워드릴까요? can i take it/them away?
+ * 남 일에 오지랖좀 떨지마; stop poing around in other people's business
+   = Stop being nosey about other people's life
+ 
+ * ♠ haul
+ * 
+ *    [홀]
+ * 
+ *  * hall과 똑같은 발음 
+ * 
+ *  * 우리 한국인들끼리는 [하울]라고해야 낫겠죠?
+ * 
+ *      
+ * 
+ * * U-HAUL 
+ * 
+ *   각종 운반차량 대여 서비스회사
+ * 
+ *   픽업트럭과 트레일러
+ * 
+ *      
+ * 
+ * 1. 많은 것을 싣은 그림 
+ * 
+ *   (a bunch of sth.)
+ * 
+ * 2. 가지고 오기 힘든 것을 힘을 들여 가져오는 그림
+ * 
+ *   (pull / carry)
+ * 
+ * 3. 많은 것을 운반 / 이동해 온 그림
+ * 
+ *   (transport)
+ * 
+ *      
+ * 
+ * <실생활 예시상황>
+ * 
+ *  - cosmetics haul 
+ * 
+ *  → sb. have a haul﻿
+
+# 쓸만한 영어 - [Small Talk] 환절기때 쓸수 있는 영어표현/추웠다 더웠다/감기 조심해/영어회화/영어공부/스몰톡
+ * 아침 저녁으로 날씨가 왔다갔다해.
+ * 아침엔 추웠다 낮에는 더웠다 해.
+ * 아침 저녁 일교차가 커.
+ * 
+ * The weather goes back and forth between hot and cold.
+ * 
+ * 그래서 요즘 감기에 많이 걸려.
+ * - 감기에 걸리다. 
+ *   → catch a cold
+ * - 감기에 걸리게 되어가는 (스스로 알아서 한게 아님)이 보인다면?
+ *                 ⟹ get
+ * - 감기에 걸리게 되어가는 (진행/움직임)이 보인다면?
+ *                 ⟹ 주어 + is/are + getting
+ * 
+ *   직역: (날씨가 아침 저녁으로 왔다갔다하니깐)
+ *        그래서 요즘 (사람들이) 감기에 많이 걸리고 있어.
+ * - That’s why  
+ *   (그런 이유 때문에 결과적으로)
+ * ☞ That’s why people are getting colds / flus.    * cold와 flu 복수표현가능
+ *    그래서 요즘 (사람들이) 감기에 (더) 많이 걸리고 있어.       
+ * ☞ That’s why people are getting more colds.
+ *    그래서 요즘 (사람들이) 감기에 (더) 많이 걸리고 있어.  
+ * ☞ That’s why people are getting more flus. 
+ *    그래서 요즘 (사람들이) (지독한 독)감기에 (더) 많이 걸리고 있어.
+ * 
+ * 환절기 감기 조심해.
+ * - Be careful
+ *   조심해  
+ *   * 주의를 기울이고 신경쓰는 그림
+ *   ※ Be careful! 대신에 Watch out!은 안돼나요?
+ *     둘다 똑같은 “ 조심하다”뜻같은데요..
+ * 
+ *    ⟹ Be careful
+ *      (위험에 대한 지금 당장 즉각적인 대응을 원하는 경고보다는) 
+ *      정신적으로 어떤 것을 염두해 두면서 조심하는 그림
+ *      예) You have to be careful not to make a mistake.
+ *         실수하지 않도록 조심해야해  
+ * 
+ *    ⟹ Watch out
+ *      (위험에 대한 지금 당장 즉각적인 대응을 원하는 경고)
+ *      실제 물리적인 어떤 움직임에 대해 조심하는 그림
+ *      예) Watch out your steps!  
+ *         발 조심해. (조심히 걸어)
+ * 
+ *   - Be careful not to catch a cold  + ‘환절기에’
+ *     조심해       감기 걸리지 않도록
+ *     * 주의를 기울이고 신경쓰는 그림.
+ *   ☞ Be careful not to catch a cold with the change in seasons.
+ *                                      계절의 변화가 (같이)있는 때에
+ *   ⟹ Be careful not to catch a cold with the change in seasons.﻿
+
 # 쓸만한 영어 - 외우지 않고 그림으로 이해하는 영어단어!! [ cross out / cross off ]
 * 차가 밀리는ㄴ 방향이 아닌 반대방향으로 간다; i drive against traffic / i go against traffic
 * 앞으로 가줄래? Can you move/scoot/scooch up?

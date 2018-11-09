@@ -1,4 +1,5 @@
 # 머리
+* 빨간 머리; ginger
 * #머리 : 길이 > 스타일 > 색깔: has
 * #바리캉 						 Hair clippers, electric hair clippers
 * #헝클; #뒤얽힌; #snarly

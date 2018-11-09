@@ -1543,6 +1543,12 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * I was surprised to hear the news.
 * 네가 저걸 먹었다니 믿을 수 없어. I can’t believe...
 * I can’t believe you ate that. 
+
+
+
+# 짜증
+* angry: 이유 있는 짜증; grumpy: 이유 없이 짜증(배고플 때)
+ * be/get grumpy
 * 만지지마, 짜증나							 Don't touch me., I'm cranky. 
 * 나 짜증낼거야. 심술부릴거야.						 I'm gonna get cranky.
 * 헉 진짜로?								 Get out of here!! 
@@ -1669,3 +1675,13 @@ I am always overlooked(간과), never discount the contributions, put someone do
 
 ## 운
 * 우리가 운이 없어; We're not having the best of luck
+
+# 여유
+# 방심
+* 넌 이제 좀 여유를 가져도 돼; you can ease up on yourself now.
+* 아직 안심하기엔 일러; we cannot breath easy yet, You shouldn't let your guard down
+
+# 수고
+* 무슨 고생까지 하다; to take the troulbe to do smoething
+  * go to the trouble of doing something
+  * 이렇게 직접 만나주시는것도 힘드셔을 텐데 정말 감사합니다; Thank you for taking the trouble to meet me in person

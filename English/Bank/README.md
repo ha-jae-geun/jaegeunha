@@ -1,5 +1,6 @@
 # 돈
 * 돈뭉치 40개를 벌었어;  i made 40 bands by 4pm
+* 잔돈 어디서 구해요? where can i get some change?(s 붙이면 안됨)
 
 # 은행	
 * 당좌 예금 계좌요? 저축 계좌요? Checking or savings?

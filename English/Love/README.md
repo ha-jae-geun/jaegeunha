@@ -1,4 +1,5 @@
 # Word
+* 남자 한명을 점찍엇어요; i spotted a guy
 * 사랑하는 사람; loved one
 * 사랑에 있어서도 그녀는 잘 해낼 것이다. She’ll likely do just fine, even in matters of the heart. 듣기 출처:YBM
 * 무슨 수를 써서라도 우리가 이 게임을 이겨야 한다는 거 너도 알지? You know we must win this game by hook or crook. 
