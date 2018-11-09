@@ -1,4 +1,5 @@
 * 즐거운 우리 집; home sweet home
+* 우린 집세를 낼 돈이 없어. We ain't got our rent money.
 * 계약금 없이; with no money down
   * 계약금을 걸다; make/put a down payment; with some money down
 

@@ -1,3 +1,13 @@
+# 거래
+* 지역 거래; 방문거래; Local only; Pickup only(No delivery = will not deliver)
+* 물건 잡아두기 금지; 먼저 오면 먼저 팜; No holds; First come, first served
+* 상태 좋음; In good/pristine/perfect working condition / Gently used
+* 거의 새거; Like new, Brand new, Rarely used
+* 가격 흥정 안 우너할 때; Price is firm, Price not negotiable
+* 흥정 가능; i am open to offers; Price negotiable; OBO(Or Best Offer: 제시 값 제일 높은 사람)
+* 손해 볼 수 없어요; I can't incur a loss; I can't take a loss
+* 원하는 대로 골라; Take your pick
+
 # 상품
 * 평범한 강아지들이 아닙니다; these aren't your standard run-of-themill puppies
   * run: 제품, 생산품; mill: 방앗간

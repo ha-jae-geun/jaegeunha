@@ -11,7 +11,7 @@
 
 
 ##영어
-11.3
+11.8
 * 테드 https://www.ted.com/
 -------------
 *   MLB http://post.naver.com/my/series/detail.nhn?seriesNo=46475&memberNo=449115

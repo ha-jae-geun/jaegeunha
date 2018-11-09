@@ -3,6 +3,10 @@
 * 일단 제 50조가 효력을 갖기 시작하면; Once article 50 has been triggered
 * 현재 상황을 고려할 때; Given what's unfolding in Syria; Give n the fact that
 
+# 정치
+* 보도기관에서 특종기사를 경쟁계에 있는 타사보다 앞서 보도: scoop
+* 비쌀수록 좋다고 하여 허영심에 의한 수요 유발; Verblen effect; 베블런 효과
+
 # 사회
 * 그녀는 자기 역할을 충분히 하고 있지 않습니다.  she's not pulling her weight: ‘pull one’s weight
 *  24시간 파업 중이다 are on a 24-hour strike:

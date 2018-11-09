@@ -1,3 +1,8 @@
+# 숙어
+* 입이 가벼우면 화를 부른다; Loose lips sink ships
+* 내 발등을 내가 찍었어; i shot myself in the shoot
+* 나를 수월하게 이겼어; beat me hands down in every game
+
 ##숙어# #숙어 #slang #idiom
 * 자기에게 잘못한 사람에게 그 잘못을 되갚아 준다고 상황이 나아지는 것은 아니다[악을 악으로 갚아 봐야 좋을 게 없다]. two wrongs don't make a right 미국식  영국식   단어장추가
 * ##구어체 [kə|loʊkwiəl] a colloquial[a spoken, a conversational, an oral] style,

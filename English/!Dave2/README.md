@@ -1,3 +1,13 @@
+* 그 누구도 상황이 어떻게 전개될 지 알지 못 했다. No one knew how the situation would play out.; play out: 전개하다
+* 너무 시시해; You're so corny
+* 방해되다; If you got sidetrackd
+* 전 세계를 단숨에 매료시켰다; ~ has taeken the world by storm
+* 아주 잘 먹히는군; it works like a charm
+* 온라인에 널리 퍼지고 있따; it's going viral online
+* 아직 확실한건 없어; Nothing's set in stone right now
+* 이제 찬밥 신세야; He is on the back burner now
+* 무시할 수 없는 존재가 돼다; become a force to be reckoned with
+* 꽃길은 아니었지; was not a bed of roses
 * 화를 내지 않고 이 갈등을 해결할 수는 없나요? Can't we resolve this conflict without anger?
 * 저는 늘 제 자신이 성에 안차요; i'm never the man in my eyes
 * 제가 뭘 계획하고 있을까요? Who knows what i have in my bag?

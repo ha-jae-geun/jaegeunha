@@ -8,8 +8,10 @@
 * 나보다 서열이 높다; She has seniority
   * 신입을 챙겨주다; take someeone under one's wing
   * 어떻게 돌아가는지 알려주다; show someone the ropes
+* 짭짤한 부업이 되었다; My hobby has become quite a profitable sideline
 
 # 미팅
+* 단도직입적으로 물어봤습니다; I asked her point-blank
 * 누가 회의를 주쟂합니까? Who is presiding over the meeting?
 * 복사해주세요; i need a copy of this
 * ~할 안건이 있습니다; we have ~ items to

@@ -1,4 +1,8 @@
 # 피부 
+* 화장이 잘 안받는것 같애; i think my makeup is not blending in
+* 푸석푸석해; i have dry skin; The weather is drying my skin
+* 피부 탄력이 없어진것 같애; my skin is loosing its elasticity; ˌiːlæˈstɪsəti;ˌelæ-;ɪˌlæ-]
+* 각질이 너무 생겨; i am getting dry spots
 * 촉촉하게 하다; moisten; moisturize; 로션, 토너에 한정되서 쓴다
   * 눈물 글썽이다. His eyes were moist with tears
 * 이 메니큐어 엄청 럅게 발린다; This nail polish is really sheer

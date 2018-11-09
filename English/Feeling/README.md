@@ -1206,6 +1206,10 @@
 * i'm losing it, #lose one's cool/temper
 * 너 나 열받게 하고있어 					 You're making my blood boil
 ------------------------------------------------------------------------------------------------------------------
+
+
+# 화
+* 너 엉뚱한 사람한테 화풀이 하는거야; YOu're taking it out on the wrong person
 * 처음부터 우리 서로한테 열 받게 한 것 같아요 		 I think we got off on the wrong foot
 * 빡치네				 I'm pissed off > I'm ticked off / hit the ceiling/roof
 * 엄청 화를 내다 						 have a fit; my boss had another fit
@@ -1604,7 +1608,8 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * 손 #떨리는 것 좀 봐요. 						 Your hands are trembling. 
 * 안절부절 I'm in ##jitters
 * 마음이 조마조마해요. 						 I have butterflies in my stomach.
-* 초조해서 미칠 것 같아요.						 I'm on the edge of my seat. 
+	*  You seem very jumpy; What are you so jumpy about?
+	* 초조해서 미칠 것 같아요.						 I'm on the edge of my seat. 
 * 겁나 죽겠어요. 								 I'm scared to death. 
 * 생각만 해도 무서워요. 					Just the thought of it makes me scared. 
 * 생각만 해도 오싹해요. 			mɪr [‘ʃʌdə(r)] The mere thought of it makes me shudder. 

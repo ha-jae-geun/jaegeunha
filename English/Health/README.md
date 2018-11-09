@@ -624,6 +624,7 @@
 * 묽은 변 	runny poo ‘rʌni
 * 마스카라가 번졌어.	mӕ‘skӕrə Your mascara runned
 * 당분간 #발목을 쓰지 말래. ‘ӕŋkl He said that I have to stay off my ankle for a while. 
+*  ‘발목을 삐었다’ I rolled my ankle은
 * a #twisted ankle, #break one's ankle and it #swelled up
 * 내가 병원에 데려다 줄게요. 	 	‘hɑ:spɪtl I’ll take you to the hospital.
 * 나 스케일링 받았어. 	I had { my teeth cleaned. / a teeth cleaning}

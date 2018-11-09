@@ -143,9 +143,11 @@ The exterior of the building is Greece, and the building material is the brick a
 * ~을 향하다; #face #stand with the face toward #look toward #front #overlook
 ----------
 
+
+
 		
 # 공장
-
+* 석탄 화력 발전소; coal power plants [koʊl]
 * #상자 box	crate(kreɪt), carton[‘kɑ:rtn], #bin
 * 상자에 담다: #box up
 * 악기-(musical) instrument 모든 장비(equipment)

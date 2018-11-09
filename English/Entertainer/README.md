@@ -17,6 +17,10 @@
 * 가성비; offer a bang for one's buck
 
 # 영화
+* 요즘 영화 뭐있어? What movies are on?
+* ~ 아직 안나왔어? Are you showing ~ yet?
+* 영화 ~ 나왓어? Has ~ been released yet?
+* 몇명 ~ 주세요; Can i get 몇명 for 영화 at 시간
 * 영화의 진행, 영화의 흐름; chronology of the film
 * 영화사에서 진행하는 행사; 호텔같이 큰 곳을 빌려서 자기 영화를 홍보하기 위해 영화 기자나, 영화 평곤라 초청해서 시사회 열고 배우와 감독들을 인터뷰하게 하는 행사이다; junket
   * 보통 일반 국민의 세금으로 출장을 빙자해 비싸고 불필요한 여행을 간다거나, 가족들을 데리고 갈 때 그 비용을 전부 돈으로 쓴다거나 할 때 하는 말
@@ -27,6 +31,7 @@
 * 믿고 거르는 영화; worth a skip
 * 영화배우가 될 운명이야; She's destined for the screen
 * 하나 더 완성했다; 영화촬영 완료; Another one in the can
+* 저기 죄송한데, 혹시 발 좀 조심해주시겠어요? Excuse me, Could you please be careful with your feet?
 
 # Entertainment
 * #감식가: #connoisseur[|kɑ:nə|s3:r;-|sʊr] 

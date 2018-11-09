@@ -1,12 +1,16 @@
 # 문장
 * 2회 초/말이야; It's top/bottom of the 2nd inning
 * 오 잡았다, 아웃기켰어; He got him; he got him out
+* 빈틈없이 철저히하다; touch all the bases
 
 # 팁
 * 커브를 주무기로 하는 투수들은 릴리스 포인트가 높다; Pitchers who use curve as their primary weapon have a high release point
 * DL에 올라갔으면 트레이드가 안된다; If you go up to the DL list, the trade will not work.
 * 릴리스 포인트가 높으면 타자들의 스윙은 더 위로 올려쳐야 하며 볼을 보는 자세에서도 고개를 더 들어야 한다.; If the release point is high, the swing of the batter should be raised, and the head should be lifted even in the position of watching the ball.
 * 슬라이더를 잘 던지는 투수들은 공을 최대한 앞으로 끌고 나온다; The pitchers who throw the slider well throw out the ball as far as possible.
+
+# 구장
+* 투수에게 편한 구장; AL 서부
 
 # 선수
 

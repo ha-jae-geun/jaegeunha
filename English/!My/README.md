@@ -1,9 +1,11 @@
 # 대답
 * 당연하지; THat's given
 * 저는 말고요; None for me
+* 그렇지; kind of
 
 # 말투
 * 저는 항상 막판에 닥쳐서 해요; i'm always last minute with everything that i do
+* 끝낼려면; If you need to wind it up
 
 # 일상
 * 오해하지마; do't take this wrong way = Don't get me wrong

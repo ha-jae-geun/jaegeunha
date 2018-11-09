@@ -1,4 +1,5 @@
 # 우체국	
+* 제시간에 배송될 테니 안심하세요; Plese rest assured that it will be delivered on time
 * 모든 상품을 받았으나 A가 오지 않았습니다; i have received everything but A
 * 택배를 시키다; i ordered ~ online / on the internet
 * 제 시간에 배달이 안됐어요; it didn't get deliverered in time\

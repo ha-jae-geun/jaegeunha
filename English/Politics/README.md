@@ -6,7 +6,7 @@
 * 정무 담당(비서실장): 제임스 베이커, 정책담당: 에드원 미즈, 홍보 담당: 마이클 디버
 
 # 미국
-# 상원의원
+# 상원의원 Congress; Senate; House
 ## 선출방법
 * 각 주에서 2명씩 선출 -> 형평성
 * 임기 6년
@@ -19,7 +19,7 @@
 * 군대 파병에 대한 승인
 * 하원 견제
 
-# 하원의원
+# 하원의원 Congressman; Senator; House of represantatives; Representatives
 ## 선출방법
 * 각 주마다 인구수에 비례해 선출
 * 각 주의 주민대표 주민들과
