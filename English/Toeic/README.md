@@ -86,7 +86,20 @@
 * 3.배경 묘사)In the background, I can see some windows.
 * 4.분위기 묘사)Overall, it looks like a typical day at an office. 
 * -----------------------------------------------------
-* 
+
+
+# Have/Has ~ before?
+* Never, once, All the time, ~ ago, 과거 시점
+-----------------------------------------------------
+
+# Yes 대용 표현
+* I think so, i belive so
+* That's what i heard
+* Unless you have a better idea
+* As long as it's stable enough
+-----
+
+ 
 * Part 2
 * ㆍI sometimes eat out at restaurants. but I sometimes cook at home as well. It depends. 
 * ㆍWell, I think it’s fifty fifty. I sometimes prefer to buy used books, but I sometimes prefer to buy new books as well. It depends.

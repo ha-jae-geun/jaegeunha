@@ -32,6 +32,7 @@
 * 산균이에요. It's the lactic acid.
 
 # taste
+* 털이 많은; hairy; 달콤한: sugary; 식초맛이 나는; vinegary; 묽은; watery; 기름기 많은; oily
 * 난 초딩 입맛이야. I have a childish palate. [ˈpælət]
 * 이건 약간의 마찰력이 느껴진다; This one's got some friction in it
 * 입들의 조합에 뭐가 있는것 같애; I think there's something about this leaf combination

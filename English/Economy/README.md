@@ -62,6 +62,20 @@
   * 축구의 스피디한 이미지를 자동차에 적용했다. I applied the speedy image of football to my car.
 * 브라질월드컵 인프라 구축은 중국이 담당했따. China was responsible for building the Brazilian World Cup infrastructure.
 
+# 적자
+* 무역적자, 재정적자; 둘다 적자면 쌍둥이 적자
+
+# 투자
+* 안정투자, 위험 투자
+
+# 제조업
+* 금융업 중심으로 발달한 나라들은 경제위기에 취약하다(아이슬란드, 영국, 미국)
+* 제조업이 튼튼하면 금융 위기에 튼튼하다(스위스, 스칸디아반도 3국, 일본, 우리나라)
+
+# 금융업
+* 금융업 중심으로 발달한 나라들은 경제위기에 취약하다(아이슬란드, 영국, 미국)
+* 제조업이 튼튼하면 금융 위기에 튼튼하다(스위스, 스칸디아반도 3국, 일본, 우리나라)
+
 # 실업률
 * 우리나라 실제 실업률은 5%를 넘은적이 없다.
 * 청년 실업률은 10%를 상하회한다. 
@@ -525,10 +539,17 @@ While the US raised interest rates and the dollar strengthened daily, China and 
 * 3개 이상이면 고위험군, 2개: 중위험군, 1개: 저위험군
 
 # 물가
+* 원래 물가가 오르는건 수요가 공급보다 많다는 의미니 좋은 의미지만 석유가격이 오르면서 오르는건 좋은 징조는 아니다: 비용 인플레이션 현상
 * 금리와 반비례관계이다; 물가가 너무 증가하면 금리를 올려서 물가를 내릴 수 있는 것이다.
   * 금리가 올라가면 물가, 부동산 가치는 떨어진다.
 * 보통 물가는 평균적인 가격변동을 의미한다.
 * 한국은행에서는 2-2.5%를 목표로 하고 있다.
+
+## 인플레이션
+
+## 스테크네이슨
+
+## 스테그플레이션
 
 ## 체감물가 식탁물가
 * 식료품 물가는 많이 올렸다.(가뭄-> 채소 물가 증가)
@@ -604,6 +625,9 @@ While the US raised interest rates and the dollar strengthened daily, China and 
 
 # 3대 생산요소
 * 노동, 토지, 자본
+
+# 골디락스
+* 물가 안정, 성장 증가
 
 # 기타
 * 외환 위기 이후 부의 양극화 현상이 심화되고 있다; Since the financial crisis, the polarization of wealth has become more serious.; alleviate regional polarization

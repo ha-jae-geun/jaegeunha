@@ -106,6 +106,7 @@
 #약실에 #탄환은 들었는지 #안전장치는 풀었는지 확인해
 Make sure you got a #round in the #chamber and your safety off
 * #총알 받이; #cannon fodder(#fodder)
+* 총알은 가까운 벽에 맞고 튀어 나갔다. The bullet ricocheted off a nearby wall.  [ˈrɪkəʃeɪ]
 * *마음대로 쏴 					fire at #will
 * *##쏘다 #마음대로 쏠 수 없어	I can't get a (clean)shot at all
 * #제대	after your military service

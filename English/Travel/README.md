@@ -1,3 +1,7 @@
+# 캠프
+* 캠핑 장비; camping gear
+* 캠프파이어 구덩이; campfire pits
+
 # 여행
 * 유럽 여행; i want to travel around Europe
   * 세계; all over the world

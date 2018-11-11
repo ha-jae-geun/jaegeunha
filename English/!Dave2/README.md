@@ -1,3 +1,8 @@
+* 방황하는 사람 같애; I'm like a stray without a home
+* 살짝 ㅇㅁ직이기라도 해봐; At least wiggle a little
+* 우리 모두 구슬려봤어; we've all tried to coax it out of him;
+  * coat A out of B = B를 구슬려 A를 얻다; coax A into B: A를 구슬려 B를 하게하다
+* 항복해; say uncle
 * 그 누구도 상황이 어떻게 전개될 지 알지 못 했다. No one knew how the situation would play out.; play out: 전개하다
 * 너무 시시해; You're so corny
 * 방해되다; If you got sidetrackd
@@ -8,6 +13,12 @@
 * 이제 찬밥 신세야; He is on the back burner now
 * 무시할 수 없는 존재가 돼다; become a force to be reckoned with
 * 꽃길은 아니었지; was not a bed of roses
+* 가망이 없는것; lost cause; be a lost cause
+* 죽음과 마찬가지로 세금을 피할 수 없는 없습니다; ~ are inevitable
+* 내가 올바른 길을 가려고 노력했다는 건; i tried to tkae the high road
+* 우리가 끝까지 갔을 거라고 생각해; do you think we would have gone through with it; go thorough it
+* 이렇게 된 게 최선일지도 모르지; Probably worked out for the best
+* 에바는 요지부동으로 오지 않으려 했다. Eva was adamant that she would not come. 
 * 화를 내지 않고 이 갈등을 해결할 수는 없나요? Can't we resolve this conflict without anger?
 * 저는 늘 제 자신이 성에 안차요; i'm never the man in my eyes
 * 제가 뭘 계획하고 있을까요? Who knows what i have in my bag?

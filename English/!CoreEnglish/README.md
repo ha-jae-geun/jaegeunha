@@ -30,6 +30,8 @@
 * Stevens 공기 많이; called: 공기가 탁 트이듣이 + 입안 깁숙한 '어' 발음, and i thing something: 호흡 끊기, big: 입술 빡, might be up: 소리 자르기(숨 참긴)
 * I'm really looking forward to; really: 복식; looking; 루끈; 숨참고; forward: 입술 모으고 풀면서; to it: 호흡 뱉으면서
 * 네가 계속 원하던 거잖아; THis is what you always wanted; wanted: 입안 안에서 발음; wanted: 아주 작은 d 발음
+* 그 어색한 기운을 풀려고 노력해요; i try to get rid of that awkward feeling
+* 안전을 위해서 각자 차를 운전해어요; we each drove our-self for sfety reasons
 
 ## 강세
 * mistake; 뒤 강세

@@ -372,6 +372,7 @@
 * 무상 AS 기간은 일 년입니다. 	The service plan is good for a year. 
 * 하자가 있으면 교환해 줘요? 	Do you exchange defective products?
 * 고장 나면 무상으로 수리해 줘요? 	Can I get it repaired free of charge if it breaks down? 
+* 제품을 개량하다 revamp a product 미국식  영국식   단어장추가
 * 네,다시 들러 주세요. 	Okay, feel free to visit us again.
 * 좀 더 둘러보고 올게요. 	I'll look around and come back. 
 * 이게 제일 잘해 드리는 가격이에요. 	It's the best price I can offer you. 

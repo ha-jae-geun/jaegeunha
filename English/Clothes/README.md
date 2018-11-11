@@ -11,6 +11,8 @@
  * attire; 옷을 얼마나 갖춰입었는지
    * formal attire, casual attire, business attire
 
+* 괴상망측한 분장을 하고 나타날 수 있다고 생각한거야? Does she think she can just show up in some wacky disguise [ˈwæki] 
+* 그녀는 분장을 한 채 밖에 나가는 걸 즐겼따; she enjoyed going out in disguise dɪsˈɡaɪz]
 * 경계선이 없어졌잖아; The stripe went away
 * 옷 갈아입는 중이야; i'm getting dressed
 * 맞춤형의; custom; custom-tailored;custom made;made-to-order

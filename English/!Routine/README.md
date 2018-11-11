@@ -1,3 +1,4 @@
+* 자신감을 올리기 위해서; To boost your confidence
 * 주주총회를 개최하다 hold[have; open] a general meeting of stockholders 
 * 대상으로; a student-oriented magazine 
   * a dictionary (intended) for[aimed at] highschool students

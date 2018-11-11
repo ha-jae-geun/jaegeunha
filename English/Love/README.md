@@ -219,6 +219,7 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #lay(put) some #sweet lines on; 달콤한 말을 거다, #부추기다
  * #mack upon; #해치우다, #이기다;
  * #꼬시다; hit on somebody, flirt somebody, put the move on somebody | #talk intof
+ * 네가 로스 꼬신거잖아; YOu came on to Ross; come on to: sexual relationship을 갖고 싶다고 드러내는 것
  * #smooth; #솜씨가 좋다; 특히 상대방을 잘꼬시면 하는 말
  * be #on a mission; #꼬시다
  * 
@@ -388,6 +389,7 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #성교; #humping; stop humping the lamp
  * * Never up, Never in; 발기하지 않으면 절대로 삽입되지 않는다; 도전하지 않는 사람에게는 평생 성공할 기회가 오지 않는다.
  * #성기 ##떡# #발기(boner 미국식 [|boʊnə(r)])
+ * 사랑을 나누다; get it on; did you get it on with him?
  * fapiness, sage time
  * ##현자타임
  * #DTR; define the relationship; just dating -> 커플

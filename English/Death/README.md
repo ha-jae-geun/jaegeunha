@@ -1,3 +1,8 @@
+# 미라
+* 수천년이 지난 지금에도 과학자들은 미라를 부검해서 사인을 밝혀낼 수 있고 DNA 표본을 채취할 수도 있다.
+  * 예를 들어 고대 이집트에는 공기 오염이 심각했다는 것을 알게 되었습니다.
+
+---
 * DOA; Dead on arrival; 도착시 이미 사망
 * Jone Doe / Jane Doe; 신원 미상의 시신
 * TOD: Time of Death
@@ -6,6 +11,7 @@
 * Sign of struggle; 싸우거나 방어한 주변 흔적
 ------------
 * #죽음 die pass away: 존칭, #flatline(심전도의 그래프가 수평선)
+* 고대 이집트 사람들은 부패를 막기 위해 무척이나 애썻ㅅ브니다; ancient Egyptioans went to a lot of trouble to evade decomposition; decompose: 부패하다
 * 제사 지내다; memorial rite / ancestral rites  [ænséstrəl] 
 * 시작으로부터의 죽음 Doomed from the start
 * #악령; #vengeful spirit

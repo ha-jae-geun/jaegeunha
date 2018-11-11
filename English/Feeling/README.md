@@ -3,6 +3,7 @@
 * 그 감정을 명확하게 드러내 보세요; Emote that
 * 잠시 틈을 두고 그 불이 사그라드게 두세요; let that fire die down, through a pause
 --------------
+* 나는 지금 기분이 약간 이상하다. I'm in a weird headspace right now. 
 * #감정
 * ☆~의 감정이 병존하는 #ambivalent; i'm so ambivalent about this; 못 정하겟다
 * 감정 형용사 			 be excited, frustrated, pleased, interested, amazed that/to v
@@ -1676,6 +1677,11 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * 파티에 갈지 잘 모르겠어. 				 	I’m not sure I’ll be at the party. 
 * 그 사람의 자질이 의심스러워. 			 daʊt I have doubts about his qualifications. 
 
+# 어안이 벙벙
+# 어처구니
+# 어이가 없다
+* 어안이 벙벙하다; i was dumbfounded = i am at a loss for words
+* 어처구니가 없네 You can't be serious
 
 
 ## 운

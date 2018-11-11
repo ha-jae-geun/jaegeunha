@@ -58,6 +58,7 @@
 * #형법; #criminal law
 * #계약법; #contract law
 * #재산권; #property law
+* 지적재산권;; intellectual property [ˌɪntəˈlektʃuəl]
 * #신탁; #trust law
 * #불법행뷔법; #tort law
 * #제정; #legislate 법을 제정하다 #enact a law 법을 제정하다 #establish a law
@@ -184,6 +185,7 @@
 * #보석금을 내주다 #bail
 * #석방 #release #free #ACQUIT
 * #가석방 없는; #sentenced me to life with no chance of #parole
+* 가석방되다; he just got parole [pəˈroʊl]
 * ##교도소 #감옥
 * 단두대 									 guillotine [|gɪləti:n]
 * 단두대에 오르다, #참수형에 처해지다					 go to the guillotine 

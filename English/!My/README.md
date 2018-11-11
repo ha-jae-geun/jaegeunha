@@ -6,6 +6,12 @@
 # 말투
 * 저는 항상 막판에 닥쳐서 해요; i'm always last minute with everything that i do
 * 끝낼려면; If you need to wind it up
+* 난 내가 무슨 일을 하는 지 ㅇ라아; i know what i'm doing
+* 넌 할 수 있어; YOu got this
+* ~가 그렇지 뭐; You know Rose
+* 그럭저럭 살아; Getting by
+* ~라는 걸 모르겠니? Can't you see that i exist?
+
 
 # 일상
 * 오해하지마; do't take this wrong way = Don't get me wrong
