@@ -190,6 +190,7 @@ are you afraid of heights? your zipper is
 * 겉옷, 잠바, 재킷	jacket
 * 머리부터 넣는 스웨터나 두꺼운 셔츠, 또는 #소매가 없는 원피스	jumper
 * ‘소매를 올리다	roll up sleeves
+* 소매가 길어요; the sleeves are long
 * #roll-up-your-sleeves attitude
 * 반정장의, 반예장하는	sèmifɔ́:rməl semiformal
 * #길거리 패션	streetwear 

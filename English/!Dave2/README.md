@@ -3,6 +3,10 @@
 * 우리 모두 구슬려봤어; we've all tried to coax it out of him;
   * coat A out of B = B를 구슬려 A를 얻다; coax A into B: A를 구슬려 B를 하게하다
 * 항복해; say uncle
+* 절차가 조금 이제 길었던 것 같아; it was a longer processes
+* 반대가 심했었어요; there was so much opposition
+* 한계에 도전하다; push the limits/boundaries = move out of your comfort zone
+* ~에 빠삭하다; be well-grounded in
 * 그 누구도 상황이 어떻게 전개될 지 알지 못 했다. No one knew how the situation would play out.; play out: 전개하다
 * 너무 시시해; You're so corny
 * 방해되다; If you got sidetrackd

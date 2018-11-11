@@ -1,5 +1,6 @@
 # 단어
 * 그녀의 최신 저서는 눈을 떼지 못하고 읽게 만든다. Her latest book makes compelling reading. 
+* 변화; change, modification, transition, revision to
 
  접속사
 * or: 그렇지 않으면(명령문 아니여도)
@@ -25,6 +26,7 @@
 * be convinced/delighted/fritened/annoyed that
 
 #최신 
+* After ~, finally ~
 * 요청하다; ask for <> request
 * over a month ago; 과거를 넘어서; past xxx
 * excel at
@@ -941,6 +943,7 @@
 * for:M:make B:bake build buy C:cook G:get ol f:find
 save write design
 * of:ask beg inquire require
+* inform, notify, remind, advise + 누구 + of/that
 
 * 간접 목적어가 수동태 주어로 나올 수 없는 경우 
 * mbc 간 gd fps w (orl) d 실력.
