@@ -8,6 +8,7 @@
   * I wanna travel to ~
 
 # 관광	#toruist industry(#industry)
+* 이 사람도 여기 거쳐간대; he's passing through here
 * #Sustainable tourism; 지속 가능한 관광
 * #구경시켜주다 show some around; Showing you guys around
 * #구경꾼; bystander / #witness
@@ -66,6 +67,7 @@
  
 
 # 공항 #jet/ #G6 비행: flight, aviation èiviéiʃən,
+* 비행은 평탄치 안ㅇ핫고 음식도 최악이었어; the flight was bumpy, the food was awful
 * 실례지만 지나가도 될까요?  Excuse me. May I go through? 
 * 좌석을 뒤로 눕혀도 될까요?  May I recline my seat? 
 * 기내식은 언제 나오나요?  When is the in-flight meal served? 

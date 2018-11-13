@@ -1,3 +1,9 @@
+# 담배
+* 니코틴 금단; result from nicotine withdrawal
+	* 금단 현상; withdrawal symptoms
+	* 마름포; lozenge; 다이아몬드, 마름모꼴, 금연 사탕; lozenge 미국식 [ˈlɑːz-]  영국식 [ˈlɒzɪndʒ]
+	* 끊다; wean 중독된 사람 off 중독된 물건; you must wean yourself from smoking  [wiːn]
+
 # 와인
 * 프랑스보다 이탈리아 와인이 원조다. 이탈리아는 기원전 100년ㄴ경부터 티베르강에서 아프리카까지 이르는 대제국 건설. 프랑스는 프랑크족에 의해 13세기부터 발전.
   Italian wine is more than France. Italy is a great empire from the Tiber River to Africa from 100 BC. France has been developed by the Frank since the 13th century.

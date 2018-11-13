@@ -1,3 +1,7 @@
+# 금리
+* 고정금리
+* 변동금리(은행가면 추천)
+
 # 화폐
 * 실목 화폐(금), 명목 화폐(지폐)
   * 명목 화페: 불환 화폐, 폐환 화폐
@@ -145,6 +149,7 @@
 * #지방채; #municipal bond
 * #빚 #갚다 | #부도 #탕진 
 * #파산한; #broke, #penniless, #bankrupt - 무일푼인, 파산의 
+* 파산했댐; i thought you were tapped out 
 * #파산하다
 * 탄탄한 사업 계획 없이, 그들은 매우 빨리 파산했다.	become bankrupt = go #belly-up
 * Without a solid business plan, they went out of business very quickly.

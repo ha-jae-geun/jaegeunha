@@ -1,3 +1,9 @@
+
+#전세
+* 우리나라만 있는 제도
+
+
+# 기타
 * 즐거운 우리 집; home sweet home
 * 우린 집세를 낼 돈이 없어. We ain't got our rent money.
 * 계약금 없이; with no money down
@@ -46,6 +52,8 @@
 * 
 
 ## 집	#집돌이; I've become quite the home body. 
+* 샴푸하다; you can't shampoo your hair everyday
+* 휴대폰 두 개의 중간에 경첩이 달려있다; it's just two phones attached by a hinge in the middle
 * 어떻게 먼지 터는지 알려줘야 했어요; I had to show him how to dust
 * 문 꼭닫아; I bolt the door real tight
 * i've become quite the #homebody

@@ -1008,6 +1008,7 @@
 * 남의 도움 없이 일어서다[곤경을 벗어나다]	 pull/drag yourself up by your (own) bootstraps
 * #곤란하게 하다 #곤경
 * 상처: ##wound(a wound, wounds, the wound; 자신에게 난 상처), scar
+* 이미 마음에 상처를 입었어; i'm broken hearted
 * 상처를 치유하다; #dress a wound(#wound)
 * 상처를 잘 받음; #thin #skin;(<>#thick skin; 무덤덤); she has av ery thin skin
 * ☆어렵다; it's hard for me to ~, i'm struggling, it's gonna be difficult
@@ -1116,6 +1117,7 @@
 * #bummed out; be bummed out; 2. 기분이 나쁘다; was I bummed to get up at 5
 * cry over; ~ 때문에 울다, tear up; 눈물을 글썽거리다
 * 눈이 빠지게 울다; #bawl my eyes out
+* 거짓 눈물을 흘리다 weep[shed] crocodile tears 
 * #조울증; 양극성 우울증 [|baɪ|poʊlər] bipolar depression 
 * #감상적인 #maudlin
 * 너 나 슬프게 만들었어 							 you get me frustrated

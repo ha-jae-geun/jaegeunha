@@ -1,4 +1,5 @@
 # 청소년 #아이
+* 장난꾸러기, 놈당꾼; jokester; whos the joester out of the group
 * 아이들의 말투; 작은; teeny-tiny / teeny-weeny
 * 사춘기 이전; prepubescent 미국·영국 [prì:pju:bésnt];  Jimmy had a prepubescent daughter,
 * Criss-cross: 틱택토;  hopscotch; 바닥에 사각형 그려놓기 게임

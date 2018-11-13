@@ -266,6 +266,8 @@ Legs are long but calf is thin, saving 80% of oxygen consumption
 # 중국
 * #중국 설날; #spring festival
 * #red envelope; #명절에 빨간색 봉투에 담아줌
+* ㆍ#cantonese; #광동어
+* 쩝쩝거리면서 먹는 게 감사하다는 표시
 
 # 중동 #Middle Estern
 * ##아일랜드 
@@ -283,10 +285,7 @@ Legs are long but calf is thin, saving 80% of oxygen consumption
 * ㆍ필리핀 남자 #Filipino 미국식 [|fɪlɪ|pi:noʊ] 
 * ㆍ필리핀 여자 Filipina
 * Divorce is illegal
-
-
-# 중국
-* ㆍ#cantonese; #광동어
+* 밥먹으면서 입맛을 다신다.
 
 # 라틴 #Latina: 여자 #Latino: 남자, Latinx: 공통 
 * #hispanic

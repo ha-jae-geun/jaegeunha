@@ -1,3 +1,6 @@
+# 불교
+* 원효대사(과앧가 되어 염불로 노래하고 춤추며 부처님의 법을 설파) <> 의상대사
+
 # 종교
 * 템플스테이 같은 명상 수련회; I went on a week-long silent #meditation retreat
 * 무당; shaman ˈʃeɪmən;ˈʃɑːmən;ˈʃæmən]

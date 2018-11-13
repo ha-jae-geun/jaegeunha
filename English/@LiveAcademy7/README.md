@@ -1,4 +1,5 @@
-
+* 그 건물은 폭탄에 완전히 흔적도 없이 날아가 버렸다. The building was completely obliterated by the bomb. 
+* 비가 온 후면 산에서 물이 빠르고 세차게 떨어져 내린다. After a rainfall, water cascades down from the mountains. 듣기 출처:능률교육
 * 완전한/대규모 점검 a complete/major overhaul 
 * 똑바로 앉아. 구부정하게 하지 말고. Sit up straight. Don’t slouch.  [slaʊtʃ]
 * 폭탄이 있다는[폭탄을 설치했다는] 거짓말 a bomb hoax 
@@ -21,3 +22,4 @@
 * 설인이야; It's a yeti
 * 그렇게 떨어져가; They come unstuck
 * 내가 항상 네 소매를 잡아당기니까; I'm always tugging at your sleeve
+* 텔레비전에 나오는 불필요한 폭력 gratuitous violence on television   [-ˈtuː-]  영국식 [ɡrəˈtjuːɪtəs] 

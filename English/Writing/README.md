@@ -1,6 +1,7 @@
 # 기타
 * 글 길이 막힌 상태로 직장에 갔따; went to work with writer's block
-* 필명; pseudonym
+* 필명; pseudonym suːdənɪm = pen name
+  * 상호: legal name
 
 # 소설
 ## 사랑 받는 주인공의 3가지 조건;  Three conditions of the heroine being loved;

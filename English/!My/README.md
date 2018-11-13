@@ -2,6 +2,7 @@
 * 당연하지; THat's given
 * 저는 말고요; None for me
 * 그렇지; kind of
+* 알겠다고!; i concede
 
 # 말투
 * 저는 항상 막판에 닥쳐서 해요; i'm always last minute with everything that i do
@@ -11,6 +12,9 @@
 * ~가 그렇지 뭐; You know Rose
 * 그럭저럭 살아; Getting by
 * ~라는 걸 모르겠니? Can't you see that i exist?
+* ~에게 푹 빠져있따~ he's all about sports right now
+* 난 너가 더 좋은 선택을 할 수 있도록 하는거라고; i'm trying to talk you into just making better choices
+* 버릇없게 굴지 마; stob being disrescpectful = mind your manners 
 
 
 # 일상
@@ -27,6 +31,7 @@
 * 과대평가 된것 같애요; i think it's overrated
 * 수고했어; Keep up the good work
   * Good job은 어떤 한가지 일을 했고, 그 결과가 좋을 때 하는 말
+* 해리포터 한권도 안읽어봤어? you've nevered read a single Harry Potter book?
 
 # 무례하지 않은 부탁
 ## 친구 

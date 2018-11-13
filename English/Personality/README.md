@@ -1,3 +1,4 @@
+* 속으로 나쁜 여자처럼 말이야; Bad girls underneath like thatW
 * 자신만의 #개성을 보이다; let your freak flag fly
 * #성격 What's your personality like?
 * #ambivert; #양향 성격자

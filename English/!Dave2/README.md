@@ -1,4 +1,20 @@
+* 그는 군중 사이를 헤치면서 나아갔다; he made his way through the crowd
+* [형용사] (美, 비격식) 돈이 얼마 안 되는[드는]; 사소한, 하찮은 nickel-and-dime 미국식  영국식   단어장추가
+* 자리 좀 지켜줄 수 있어? Can you hold the fort while i'm gone
+* 연인 사이; intimate relationship; having a intimate relationship
+* 중국인들은 후루룩 거리고, 필리핀 사람들은 입맛을 다십니다; The chinese slurp nd fhe Filipinos often smack their lips
+* 인생은 날 속이고 있었겢시; Life was stringing me along
+* 그러다 네가 날 구해줬어; Then you came and cut me loose
+* 네가 한 짓을 알고 있어; i'm onto you
+* 사랑을 나눈 후에도 느낌이 남아있지; It ligers whe we're done
+* 이 책을 처음 접하셨을 때를 기억하시나요? Do you remember first encouter wiht this book?
+* 나 지쳤어; i'm pooped; look pooped out
 * 방황하는 사람 같애; I'm like a stray without a home
+* 쾌변 발판 하나 주세요; Throw me a squatty potty
+* 모두가 쓰러질 정도로 쇼핑했네' everybody just shopped till they dropped
+* 일어나면 저희는 모두 온탕에 들어갈 거에요; And when he wakes up, we're all gonna get in the hot tube
+* 저는 손이 많이가요; i'm high-maintenance
+* 절 완전히 뒤흔들어 놓았어요; she is a game changer
 * 살짝 ㅇㅁ직이기라도 해봐; At least wiggle a little
 * 우리 모두 구슬려봤어; we've all tried to coax it out of him;
   * coat A out of B = B를 구슬려 A를 얻다; coax A into B: A를 구슬려 B를 하게하다

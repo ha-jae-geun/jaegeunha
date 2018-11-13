@@ -1,3 +1,13 @@
+# 파트 4
+## 이메일
+* 회람, 편지, 공지문: i am writing to, this letter is to, i am pleased, inform
+
+### 반전에 주목하라
+* however, but, unfortunately
+
+### 요청 문제느 주로 ㅎ반부에 답이 있따;
+* please~, you must/should, i would like you to, would you, why don't you ~ 
+
 # 단어
 * 그녀의 최신 저서는 눈을 떼지 못하고 읽게 만든다. Her latest book makes compelling reading. 
 * 변화; change, modification, transition, revision to
@@ -86,8 +96,9 @@
 * 1.전체묘사)This picture seems to be taken at an office.
 * 2.개별묘사)The woman in the middle is wearing a grey suit. She is very good-looking.
 * 3.배경 묘사)In the background, I can see some windows.
-* 4.분위기 묘사)Overall, it looks like a typical day at an office. 
+* 4.분위기 묘사)Overall, it looks like a typical day at an office. ~
 * -----------------------------------------------------
+
 
 
 # Have/Has ~ before?
@@ -100,6 +111,11 @@
 * Unless you have a better idea
 * As long as it's stable enough
 -----
+
+# 고난도 응답
+* 회피형; Sorry, i just got here
+* 반전형; i'm in the marketing team
+* 우회형: Here's a copy of itiner
 
  
 * Part 2

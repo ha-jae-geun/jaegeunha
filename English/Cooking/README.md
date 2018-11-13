@@ -30,8 +30,10 @@
 
 # Nutrition
 * 산균이에요. It's the lactic acid.
+* 건강한 식습관을 갖도록 하겠지; it'd encoourage you guys to eat more naturally
 
 # taste
+* ~을 먹다; chow down on; Some Asians chow down on animals
 * 털이 많은; hairy; 달콤한: sugary; 식초맛이 나는; vinegary; 묽은; watery; 기름기 많은; oily
 * 난 초딩 입맛이야. I have a childish palate. [ˈpælət]
 * 이건 약간의 마찰력이 느껴진다; This one's got some friction in it

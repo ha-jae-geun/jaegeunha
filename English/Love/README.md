@@ -338,6 +338,9 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #pecker #testicle #rockets; #crunch
  * #포경 #circumcise, undergo #circumcision; 아기때: #infant circumcision
  * 발기; 발기 불가능한; #impotent; ~ give me a boner
+ 	* get it up; he couldn't get it up; I don't get/have a hard-on anymore
+ * 발기 부전; it can cause erectile dysfunction; 
+ 	* impotence; suffer from impotence; impotence
  * #거세; #castrate 미국식 [|kӕstreɪt] http://endic.naver.com/krenEntry.nhn?sLn=kr&entryId=34c7bcbae0504d6dac8d9a65edb39bc0&query=%EA%B1%B0%EC%84%B8 
  * #고자; [júːnǝk] #eunuch
  * #대물이다 he's a #big shot (2. 유능한 사람)

@@ -1,3 +1,9 @@
+# 환경
+* 오염시키다; contaminate; 곰팡이, 박테리아, 세균 등에 오염; a can of soup contaminated with this kind of mold p
+	* ollute: 불순물의 혼합, 직접적인 접촉, 일반적인 여러 원인에 의한 오염; 
+* 음식에 피는 곰팡이는 너무 다양해서; since so many types can sprout up on food
+* 빵 덩어리 전체가 균으로 가득찰 수 있따; the entire loaf could be teeming with fungus [ˈfʌŋɡəs]
+
 
 ## 지진
 * 진원지에서./; at the epicenter 미국식  영국식 ; épəsèntər]

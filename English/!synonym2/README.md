@@ -1,3 +1,5 @@
+* replace: 직책 등에서 물러난 자리를 다른 사람이 대신 하는것; John was replaced with a younger new recruit
+  * substitue for sb; 휴가나 병등으로 잠시 자리를 비운사이 다른 사람이 그일을 대신하는것; Marki will substitute for me
 * 경쟁상대를 이긴다; beat; win one's heart; 누군가의 마음을 얻다
 * 그 곡의 수입굼; Proceeds from that tune
 * 중요한 사건, 상황의 변화: end; World war 2 ended in ~, Their marriage finally ended last year

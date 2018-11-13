@@ -45,6 +45,7 @@
 * 시험자는 체력장에서 허리 힘을 검사 받는다.An applicant is tested for back strength at a physical examination(체력장) as others wait for their turn
 ---------
 * 「스포츠」 	#스포츠
+* 8세 이하 선수권 대회에 등록했어; They signed me up for the eight-and-under championship
 * 맨 앞 좌석을 구했어요; We've got front row seats
 * 판정승까지 갈 줄 알앙써; i expected them to go the distance
 * 그는 올해 1군 선수가 될거야; He's going to be first string this year
