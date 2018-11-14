@@ -51,8 +51,8 @@ I have a big crush on you / I have a thing for you, i'm into you
 * 약혼; betrothed 미국식 [-ˈtroʊ-]  영국식 [bɪˈtrəʊðd]
 * 부부를 선언합니다; i now pronounce you husband and swife
 * ☆잡혀 살다 you have the ball and chain
-* #
- * 인 것 같아요.   I think we're in a rut.
+* #인 것 같아요.   I think we're in a rut.
+* 결혼식장에 들어가다; i'll walk down the aisle
 * *#결혼 #matrimony(격식)
 * *##marriage; 결혼한 상태; marriage is holy thing
 * *##wedding; 결혼식 느낌; wedding ring / day
@@ -326,7 +326,10 @@ I have a big crush on you / I have a thing for you, i'm into you
  * 너가 미나즈를 원한다면 난 쓰리섬도 돼 If you wanna Minaj, I got a tricyle(menage a trois: 쓰리섬)
  * meɪ|nɑ:Ʒ] a trois [ɑ:-trwɑ́:]: 셋이서 하는
  * #생식기 #genitals = #female/#male sex #organs
- * 여자 성기 virginia, #twat slang: coochie ; coochie melt: 젖다 | 
+ * 여자 성기 virginia; clits #twat slang: coochie ; coochie melt: 젖다 | 
+ 	* 민감하다; very sensitive organ
+ 	* Have you experienced any unusual vagianl bleeding or discharge
+   * 질; vagial canal [vəˈdʒaɪnə]
  * #성감대; 여성의 성감대 #clit #ignore the clit | too much clit stimulation
  * erogenous 미국식 [irɑ́dƷənəs] ; zone
  * #fanny(미국: 엉덩이 2. 영국: 여자 거기), #minge, #vagina
@@ -348,7 +351,8 @@ I have a big crush on you / I have a thing for you, i'm into you
  * 성관게 유혹하는 #밀회 I thought it was a #booty call 단어장추가
  * 성적인 무언가를 하려 하다 #get with someone; I tried to get with this girl
  * #RUH: 						 Are you #Horny?: #흥분했니?(2. 남자의 성기)
- * 성적으로 흥분된다; I'm dripping wet(여자)
+ * 거기가 사막; 건조; 말라있을까봐 신경이쓰에요; self-conscious of being dry
+ * 성적으로 흥분된다; I'm dripping wet(여자) = sexually aroused; sexually arosing; 흥분하게 하는
  * 성적으로 흥분 freaky, freak out
  * 성적으로 흥분; #randy; there's a time and place for your randy dog stories
  * #페티쉬; ##fetish; 이성의 옷 입음; #transvestite, 맞거나 고통 받는 것에 의한 쾌감: Majochist
@@ -379,13 +383,14 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #오르가즘; get #rocks off
  * #eat out; 남자가 여자의 겉에있는 것을 먹다
  * #문란한 #호색 #음흉 #음란 [prǝmískjuǝs] promiscuous = #lecher #obscene
+ * ~ 성에 눈뜨다; sexual awakening; i went into my sexual awakening
  * #선정적 내용; #contain #sensitive content
  * #학대 #비디오; #abuse video
  * #abuse, #maltreatment, #ill-treatment - 학대 
  * #전립선; #prostate; #gland
  * #gland; #샘 = #pituitary; her glands are swollen
  * #요도; #urethra (←urethral) 미국·영국 [jʊ|ri:θrə]
- * #윤할유; #lubricate 미국·영국 [|lu:brɪkeɪt]; #lubrication
+ * #윤할유; lube, lubricant, #lubricate 미국·영국 [|lu:brɪkeɪt]; #lubrication; 동사: lubricate
  * #사정; #ejaculation
  * #squirt; 액체 #찍
  * #sensual; #감각적인; #관능적인 #ensual pleasure

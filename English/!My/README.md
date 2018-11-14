@@ -14,7 +14,12 @@
 * ~라는 걸 모르겠니? Can't you see that i exist?
 * ~에게 푹 빠져있따~ he's all about sports right now
 * 난 너가 더 좋은 선택을 할 수 있도록 하는거라고; i'm trying to talk you into just making better choices
-* 버릇없게 굴지 마; stob being disrescpectful = mind your manners 
+* 버릇없게 굴지 마; stob being disrescpectful = mind your manners
+* 저도 그래봤ㅇ요; i've been there
+* 백이면 백; And sure enough,
+* 생각조차 떠오르지 않았따; it never occurred to me
+* 우리가 함께한 건 대체 뭘까? what was all of it for?
+* 내 상대를 할 준비가 되어있지 않아; He ain't ready for me 
 
 
 # 일상

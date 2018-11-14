@@ -289,6 +289,7 @@
 * #한방 먹이다; #beat to the punch; #punch; I was beaten to the punch
 * 노력은 배신하지 않는다; your efforts will never betray you
 * ##때리다 #치다 | #찌르다
+* 얼굴 떄려버린다; i'll smack you in the face
 * i'mma mess you up, i'm taking you down(밟아 뭉게다), #you wanna piece of me? 감당할 수 있겠어?
 * 드루와서 쳐봐 Come get some, 주먹 샌드위치 만들어줘? How about a knuckle sandwitch
 * bring it (on)

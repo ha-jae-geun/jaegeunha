@@ -8,8 +8,10 @@
 * 우리는 더 이상 이상황을 어버무리고 넘어갈 수 없어; we can no longer gloss over this situation
 * 어제 그 도시에서 청소년 무리들이 광란을 벌였다.
   Gangs of youths went on the rampage in the city yesterday. 
+* 냉담한 살인자/태도/행동 a callous killer/attitude/act; cruel, unfeeling
 
 #경찰서 #법원	#형사 police(2번째 강세)
+* #관할권; 관할권이 없다;  have no jurisdiction 미국식  영국식 
 * the five-oh
 * police men = cops 미국 경찰: ##Johnny law
 * #detective

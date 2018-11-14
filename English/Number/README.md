@@ -1,6 +1,7 @@
 # 도형
 * 마름포; lozenge; 다이아몬드, 마름모꼴, 금연 사탕; lozenge 미국식 [ˈlɑːz-]  영국식 [ˈlɒzɪndʒ]
 
+
 # 번
 * once -> twice -> three times
 

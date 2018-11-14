@@ -1,6 +1,11 @@
 * 그는 군중 사이를 헤치면서 나아갔다; he made his way through the crowd
 * [형용사] (美, 비격식) 돈이 얼마 안 되는[드는]; 사소한, 하찮은 nickel-and-dime 미국식  영국식   단어장추가
 * 자리 좀 지켜줄 수 있어? Can you hold the fort while i'm gone
+* 완전히 바닥을 ㅎ치다; i didn't give up when my store hit rock bottom
+* 너 망보기로 했잖아; you were supposed to be keeping a lookout
+* 동질적 집단/혼합체/인구 a homogeneous group/mixture/population 
+* 이게 제 몫이에요; Here's my share
+* 울고 불고 난리났따; He had a fit
 * 연인 사이; intimate relationship; having a intimate relationship
 * 중국인들은 후루룩 거리고, 필리핀 사람들은 입맛을 다십니다; The chinese slurp nd fhe Filipinos often smack their lips
 * 인생은 날 속이고 있었겢시; Life was stringing me along

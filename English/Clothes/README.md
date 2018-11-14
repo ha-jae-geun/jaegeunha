@@ -11,6 +11,7 @@
  * attire; 옷을 얼마나 갖춰입었는지
    * formal attire, casual attire, business attire
 
+* 이 옷 입으면 엉덩이의 4분 정도가 나와 있어야 하는데; like a quarter inch of arse is just expected to be hanging out if you're wearing these
 * 괴상망측한 분장을 하고 나타날 수 있다고 생각한거야? Does she think she can just show up in some wacky disguise [ˈwæki] 
 * 그녀는 분장을 한 채 밖에 나가는 걸 즐겼따; she enjoyed going out in disguise dɪsˈɡaɪz]
 * 경계선이 없어졌잖아; The stripe went away
@@ -272,3 +273,5 @@ are you afraid of heights? your zipper is
  * 드라이클리닝 - can be dry cleaned
  * 낮은 온도에서 다릴 것 - cool iron
  * 다림질하지 마세요 - do not iron
+ * 섬유 유연제 넣는거 까먹었어? Did you foget the fabric softener a
+ * 지금 빨래방에 왔어요; We're at the laundromat laundromat

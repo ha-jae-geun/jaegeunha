@@ -1,9 +1,15 @@
+# 카카오톡
+## 선물하기
+* 정가 선물을 받을 때와 할인 선물을 받을때 기분이 다르므로 할인을 안해도 사람들이 많이 사용한다.
+
 # 핸드폰
 * LG U+에서 바꾸고 싶어; i want to switch from LG U+
 * 핸드폰이 초기화도기 전까지 시간이 모자라; We're running out of time before the phone gets wiped
 * 접근 거부; Access denied
 * 전화 한통이면 돼; i'm one call away wheneer  you need me
 * 전화를 걸다: ring up = call / give you a call / telephone / give you a ring
+* 문자를 읽지 ㅇ낳고 그냥 두다; to leave a text unread
+* 읽씹하지마; don't leave me on read
 
 # 사진
  * * #tbt, #love, #nofilter: 무보정, #blackandwhite: 흑백사진
@@ -120,6 +126,7 @@
 
 
 #전화
+* ~와 전화 ㅕㄴ결되어 있어요; i've got A from B on the line C
 * 음성사서함으로 넘어갑니다; you have reached the voicemail box of; Your call has been forwarded to an automatic voice message system
 * 누구 번호 맞나요? Is there an Amy at this number?
 * 삐소리 이후에 통화 내용이 기록됩니다; At the tone, please record your message

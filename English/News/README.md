@@ -1,3 +1,9 @@
+# 슈피겔
+* 독일 정론지 
+* 호날두
+* 풋볼리크스
+
+
 * 뉴스 있어? Is there any news? / Any news?
 * 장안의 하제; The issue has become the talk of the town
 * 일단 제 50조가 효력을 갖기 시작하면; Once article 50 has been triggered

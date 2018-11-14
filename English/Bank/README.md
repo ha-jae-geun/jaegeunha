@@ -16,8 +16,10 @@
 # 돈
 * 돈뭉치 40개를 벌었어;  i made 40 bands by 4pm
 * 잔돈 어디서 구해요? where can i get some change?(s 붙이면 안됨)
+* 복권; 래플(특정 프로젝트기관의 기금 모금을 위한 복권); raffle 참조 lottery
 
-# 은행	
+# 은행
+* 사업 실패는 공매도에 의해 야기되지는 않는다 Business failure unlikely to be caused by short selling. 듣기 출처:Hansard	
 * 당좌 예금 계좌요? 저축 계좌요? Checking or savings?
 * (기초 잔고) . Initial deposit
 * (어머니의 결혼 전 성이 무엇이죠?)" "What is your mother's maiden name? 

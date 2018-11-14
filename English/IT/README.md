@@ -1,3 +1,15 @@
+# 집합
+* 공집합 null[empty] set
+ * 교집합 intersection
+ * 무한집합 infinite set
+ * 유한집합 finite set
+ * 부분집합 subset
+ * 여집합 complementary set
+ * 전체집합 universal set
+ * 차집합 difference of sets
+ * 합집합 sum of sets
+
+
 ## 컴퓨터
 * 확장자; filename extension
 
@@ -13,9 +25,8 @@
 * #자료
 * (사람들의) gathering, meeting; (특히 군인들의) muster, gather, assemble, meet; 
 * #집결지; #rally point; meet us at the rally point
-* 교집합, 부분집합, 합집합, 차집합 	 	 intersection, subset, union. difference
-* #집합 의식 #가치관 #collective consciousness
-* #집합
+* 생성규칙; generation rules
+* 속하다; belong to
 * #문법								 syntax 미국·영국 [|sɪntӕks]
 * static variable: 정적 변수, global variable: 전역
 * 변수가 많아 There are too many variables

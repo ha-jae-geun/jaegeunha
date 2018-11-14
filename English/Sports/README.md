@@ -28,7 +28,8 @@
 * 개해엄; dog paddle
 
 # Gym
-* 뛰다 ㅓㄹ사 마렵지만 않앗으면; i don't want to get runner's diarrhea
+* 어떤 운동 주로 하세요; what kind of exercise do you do
+* 뛰다 설사 마렵지만 않앗으면; i don't want to get runner's diarrhea
 * 크런치하다; do crunches; do sit-ups;; i only do crunches for my abs
 * 물론 이런 운동은 근육을 탄탄하게 만드는 데는 효과가 있어요; Doing these exercies will certainly help you tone the muscles
 * 팔벌려 높이뛰기; jumping jacks(영국: starjump)

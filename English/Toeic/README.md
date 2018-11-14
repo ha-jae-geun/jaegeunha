@@ -6,11 +6,16 @@
 * however, but, unfortunately
 
 ### 요청 문제느 주로 ㅎ반부에 답이 있따;
-* please~, you must/should, i would like you to, would you, why don't you ~ 
+* please~, you must/should, i would like you to, would you, why don't you ~
+
+### 동봉
+* enclosed/attached/included
+* be provided / be sent with / come with / along with 
 
 # 단어
 * 그녀의 최신 저서는 눈을 떼지 못하고 읽게 만든다. Her latest book makes compelling reading. 
 * 변화; change, modification, transition, revision to
+* In an effort to V, In an attempt to V
 
  접속사
 * or: 그렇지 않으면(명령문 아니여도)

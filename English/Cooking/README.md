@@ -29,6 +29,7 @@
 * 노른자 살짝만 익혀주세요; I want it over easy
 
 # Nutrition
+* 몸에 좋다; It's good for your body --> it's good for you, it's healthy
 * 산균이에요. It's the lactic acid.
 * 건강한 식습관을 갖도록 하겠지; it'd encoourage you guys to eat more naturally
 
