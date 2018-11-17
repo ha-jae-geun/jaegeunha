@@ -15,6 +15,7 @@
 ## 유명 브랜드
 * DD; Dunkin donuts
 * 맥도날드; Mickey D's
+	* Macdonald's; s를 붙이지 않으면 굉장히 어색하다; Let's go eat McDonald's
 * Chevrolet; chevy
 * BMW; Bimmer / beamer / beemer
 * 타겟; Tar-zhay; et보다는 불어 느낌 나게 

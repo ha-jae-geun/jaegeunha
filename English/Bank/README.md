@@ -19,6 +19,7 @@
 * 복권; 래플(특정 프로젝트기관의 기금 모금을 위한 복권); raffle 참조 lottery
 
 # 은행
+* 총계가 ~이 나오다; ~come to 숫자; it came to whopping 1,1000 calores [ˈwɑːp-]  영국식 [ˈwɒpɪŋ]; 엄청큰
 * 사업 실패는 공매도에 의해 야기되지는 않는다 Business failure unlikely to be caused by short selling. 듣기 출처:Hansard	
 * 당좌 예금 계좌요? 저축 계좌요? Checking or savings?
 * (기초 잔고) . Initial deposit

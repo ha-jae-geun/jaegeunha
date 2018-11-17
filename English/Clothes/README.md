@@ -44,7 +44,11 @@
 ## 신발
 * 남성: 240: 6, 250: 7, 260: 8
 * 여성: 220: 5, 230: 6
-* ##옷 #의복 wear <> put, try on: 관사에 주의 attire=outfit [ə|taɪə(r)]
+
+
+##옷 #의복 wear <> put, try on: 관사에 주의 attire=outfit [ə|taɪə(r)]
+* 나시; camisole; 끈나시, 캐미솔; cami
+* 민소매; tank undershirt / vest
 * #재봉 기술; #sartorial 미국식 [sɑ:r|tɔ:riəl] art
 * #wardrobe #garment #apparel #clothing #clothes
 * #의상 불량; wardrobe malfunction
@@ -97,6 +101,8 @@
 * #속옷	panty: 여자 속옷 | wearing underwear(공용) } 
 * briefs(하얀 삼각 팬티), boxers(사각)
 * #보조 후크	#브라끈 #bra strap
+* 브라는 위로 잘ㅈ ㅏㅂ아주면서도 부해보이지 않는다; this bra can keeps you buoyant without adding bulk  [ˈbuːjənt]
+* 브라끈이 나오다; bra straps are poking out
 * #bra extender
 * 옷차림이 왜그래요?	What’s with the getup?
 * #멜빵바지	#overalls

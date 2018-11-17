@@ -142,6 +142,7 @@ would be the last person to 동사원형; ~할 사람이 절대 아니다
 * 사기를 #꺾다; #demoralise
 
 ## 여자
+* 섬머슴이다; ~ is tomboy
 * #탈것; #애마; #horse, #ship을 ##she라고 표현
 * #노처녀: #spinster
 * #된장녀 #gold digger = #material girl

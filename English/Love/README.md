@@ -166,6 +166,9 @@ I have a big crush on you / I have a thing for you, i'm into you
 * 양육권 때문에 다투고 있어요. 	‘kʌstədi We're fighting over custody rights.
 * 아내를 사고로 잃었어요. 	I lost my wife in an accident. 
 ----------------------
+* 스킨십 진도가 느려; we're taking things slow; things are moving really slowly
+* 걔는 스킨십이 너무 많아; he gets a bit too touchy
+* 내가 손금 봐줄게; Let me read your palm
 * #적성 검사 #aptitude test
 * #소질; #aptitude
 * 소질 있다; ~~ is in her blood. ex) Baseball is in his #blood. (내력적으로 야구에 소질이 있다.)
@@ -335,6 +338,7 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #fanny(미국: 엉덩이 2. 영국: 여자 거기), #minge, #vagina
  * #자위; #rub out; #rubbed one out
  * #touch myself
+ * 자궁; cervix; 확장하다; dilate  [daɪˈleɪt]
  * 남자 #성기 penis, ##cock(콕)(<>##coke 코크), dick, pipe(2. 마리화나 파이프), #peanut, #prick
  * 밑에 닦아; wash your wee-wee pee pee
  * #weiner; #소세지 -> #wenus; 
@@ -376,6 +380,8 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #박다 										 #plug for her
  * #강하게 하다 #jackhammer
  * #사정; #ejaculate on my face = I’m #cumming
+ * 피임; contraception; 피임약, 피임기구; contraceptive ˌkɑːn-]  영국식 [ˌkɒntrəˈseptɪv] 
+ 	* 사후 피ㅁ임약; morning after pill
  * #혼전 순결 #platonic love
  * 결혼을 하지 않는, 순결을 지키는; #celibate
  * 순결을 #더럽히다; #defile

@@ -1,3 +1,10 @@
+* 무릎 꿇다; be/get on one's knees = get down/drop/fall on one's knees / sit on one's your nees = pray ono's knees / beg on one's knees
+* 매력있는; attractive; 유혹하는; seductive; give someone a seductive look
+* 전체의; 정부전체의; cross-goverment / cultural / cross / reference
+* 치킨을 전혀 으깨지 않았어; the chcken is not mushy at all 
+  * (2. 지나치게 감성적인); i hate those mushy love stories
+* 소스가 많은; i like saucy and creamy pasta
+  * 야한 잡지를 발ㄹ겼했따; found a saucy magazine
 * replace: 직책 등에서 물러난 자리를 다른 사람이 대신 하는것; John was replaced with a younger new recruit
   * substitue for sb; 휴가나 병등으로 잠시 자리를 비운사이 다른 사람이 그일을 대신하는것; Marki will substitute for me
 * 경쟁상대를 이긴다; beat; win one's heart; 누군가의 마음을 얻다

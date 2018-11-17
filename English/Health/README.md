@@ -641,3 +641,4 @@
 * 물 없이 그냥 삼키다; dry shallow 
 * 피임약; birth control pill = morning after pill
 * 과해지면 안되는데; Don't overdose
+* 진정제; sedative 미국식 [ˈsedətɪv]  tranquillizer 미국식[ˈtræŋkwəlaɪzə(r)]

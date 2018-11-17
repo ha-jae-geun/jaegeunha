@@ -12,6 +12,8 @@
 * 벌어진 일에 대해 감정적으로 처리하는 중이에요 	 I’m still trying to process all that has happened
 * 내 기분이 어떨지에 대해 생각 안해봤어요? 		 Did you ever stop to think about my feeling?
 * 별 다른 감정 없는데; she's not the one i'm attracted to
+* 특별한 감정은 없엇어; no feelings involved; There were no feelings involved
+* 뭔가 스스로엑 ㅔ자신감이 있는 느낌이다; - has an air of confidence about her
 * 감정적으로 받아들이지 마 Don't take it #personally
 -------------------------------------------------------------------------------------------------------------------
 * #expose, #uncover, #reveal - 드러내다 
@@ -137,6 +139,7 @@
 * #피곤 #피로 #지치다 | #녹초
 * my bad, my mistake, I apologize
 * 사과하고 나 다음에 I made it up to you(사과)라는 말이 바로 나온다.
+* 사과는 됐어; Save your appologies
 * I’m sorry to say/hear that = I'm #afraid (of) that = #feel for somebody
 * #owe me an apology
 * ##뚱해있는 사람, 불평만 많은 사람; sourpuss 미국식 [|saʊərpʊs] 
@@ -145,6 +148,7 @@
 * I #owe you an apology, I wanted to tell you i'm sorry
 * 공적인 사과 I'd like to apologize, I want to apoligize + for doing something / how I / What I 
 * 용서 부탁 I hope you can forgive me, That was wrong of me, I hope you accept my apology
+* 관대한 마음으로 용서하다; forgive with gentle indulgence
 * 심한 사과 I sincerely apoligize, I take full responsibility
 * accept my apologies for the inconvenience caused
 * apologize #profusely, apologize from the bottom of one's heart

@@ -234,6 +234,9 @@
 * ‘대리 임신, 대리모 					 surrogacy sə́rǝgǝs surrogate mother
 * under" (see sub-) + rogare "to ask, propose" (see rogation). 
 * ‘태아 							 embryo[émbriòu], #fetus[fíːtǝs]
+* 신생아; infant / newborn baby
+* 아장아장걷는 애기; toddler
+* 수축; contract; the pill causes the uterus to contract and the embry to be expelled
 * ‘#태교 									 fetal education
 * #입덧										morning sickness
 * ‘#친자 확인 								 I want a paternity test

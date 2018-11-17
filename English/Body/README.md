@@ -475,7 +475,9 @@ make a #great team
 build your core muscles
 * 귀여운 느낌: #tummy
 * 배가 #꿀렁거렸어; I just had a bit of #turn of stomach
-* #뱃살 belly fat 
+* #뱃살 belly fat; belly pooch; if you're dealing with the pooch  [puːtʃ] 
+	* 옷 입었을 때 튀어나오는 살: belly/tummy/stomach pooch / belly fat, love handle, muffin top
+	* 아기 낳고 난 다음 배; baby fat, baby-belly pooch
 * 뱃살 속어 got my dad bod
 * 축 처진 뱃살; #flabby gut
 * #군살; his body has no #flab

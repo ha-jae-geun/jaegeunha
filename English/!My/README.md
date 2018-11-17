@@ -1,3 +1,7 @@
+# 접두어
+* 언젠가는, 위기가 올겁니다; at some point; ㅎ나순간에는: at one/this point
+	* 이제 심지어 아이를 갖기도 싫은 지경이야; i'm at the point where i don't even want to have kids
+
 # 대답
 * 당연하지; THat's given
 * 저는 말고요; None for me
@@ -19,8 +23,9 @@
 * 백이면 백; And sure enough,
 * 생각조차 떠오르지 않았따; it never occurred to me
 * 우리가 함께한 건 대체 뭘까? what was all of it for?
-* 내 상대를 할 준비가 되어있지 않아; He ain't ready for me 
-
+* 내 상대를 할 준비가 되어있지 않아; He ain't ready for me
+* 됐어 그만 말해; Save it 
+* 어휴,; boy ~
 
 # 일상
 * 오해하지마; do't take this wrong way = Don't get me wrong
@@ -44,15 +49,17 @@
 * 비즈니스: Would you please + V / I would be grateful if yoou could +
   * I would like to request / Do you think you would be able to V
 * 저는 안먹어요; None for me
------------
+
+
+# 간접 화법
 * 내가 보기에; THe way i see it
-* #간접화법
 * she said she was on her way to lunch
 * she asked me if I wanted to come with her
 * I asked him if she wanted t
 * told 누구 / said + would; she said shoe wuld be downstairss
 * I said I would be ther as soon as I could
--------
+
+# 연결어
 * Because, since 대신에 분사구문 쓰면 고급 언어
   * Feeling tired, he decided to go to bed
 * 그리고 그것이 ~하는 이유이겠죠; which is why 절
@@ -83,7 +90,7 @@ it을 붙여줘야 한다.
 * ☆ There wasn't anything I could do.; 어쩔 수 없었다
 * ☆~라기 보다는; there wasn't particulary a problem = there wasn't a problem per se -> * it's just that
 * ##there# ##there#
- 
+
 * so+형용사(잘 안씀), such+a+형용사+명사
 * such a waste of money, such a relief
 * 믿을수 없는 퍼포먼스야                                       	         	 It was such an incredible performance.
@@ -100,6 +107,7 @@ it을 붙여줘야 한다.
 * #a little bit #little bit xxx
 * #다소간; #to a degree
 * #ish; 약간, 대충, #yellowish
+* 나 약간 제정신 아니야' i'm touch crazy, of course
 * /#약간 ##막
 * 1. 내가 알기로는
 * #As far as I know, #based on what I know, #according to what I know, #to my knowledge.

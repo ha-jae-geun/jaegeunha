@@ -1,3 +1,20 @@
+* 불고기라 하면; When you picture Bulgogi
+* 얼마나 확신하세요? How much do you (stand behind) today's results?
+* 궁금할 수밖에 없다; ~ beg the question
+* 그들은 그에게서 수백 달러의 돈을 사취했다. They swindled him out of hundreds of dollars.  
+* 대낮같이[환하게]/미친 듯이 타오르는 불길 a blazing/raging inferno 
+* 유전병[유전성 질환] a hereditary illness/disease/condition/problem  -teri]  영국식 [həˈredɪtri]
+* 그런 날씨에 운전을 하는 것은 순전히 미친 짓이다. It’s sheer lunacy driving in such weather.  [ʃɪr]  ˈluːnəsi
+* 모호한 개념 a nebulous concept [ˈnebjələs]
+* 물건에 강한 애착을 느낍니다; i get attacthed to things
+* ~에 익숙하다; 도구에 익숙하다; be proficient with; at: 특정한 행동을 잘할 때; in: 특정한 분에 능숙
+* 더 잘 지낼것 같지? You think that you could be better off with somebody new
+* 실행 가능한 선택안/계획 a viable option/proposition 
+* 진가를 발휘애햐 할 때; the rubber his/meets the road; 타이어가 도로를 만나는 순간 그 능력이 어떤지 알게되는 순간
+* 아주 성공적으로 이루어지다; go gangbusters
+* 항상 변화해요; it's always in flux
+* 건강한 습관을 일상화하다; incorporating healthy habits as a routine
+* 곤란한 상황에 처했다면; if you're ever stuck in a pinch
 * 그는 군중 사이를 헤치면서 나아갔다; he made his way through the crowd
 * [형용사] (美, 비격식) 돈이 얼마 안 되는[드는]; 사소한, 하찮은 nickel-and-dime 미국식  영국식   단어장추가
 * 자리 좀 지켜줄 수 있어? Can you hold the fort while i'm gone

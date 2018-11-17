@@ -9,6 +9,9 @@
 * 어제 그 도시에서 청소년 무리들이 광란을 벌였다.
   Gangs of youths went on the rampage in the city yesterday. 
 * 냉담한 살인자/태도/행동 a callous killer/attitude/act; cruel, unfeeling
+* 위반으로 간주하다; cite violation; 소환되다; be cited; cited for speeding
+* 그들은 그에게서 수백 달러의 돈을 사취했다. They swindled him out of hundreds of dollars.
+* 요즘 수상했어; you been acting so shady  
 
 #경찰서 #법원	#형사 police(2번째 강세)
 * #관할권; 관할권이 없다;  have no jurisdiction 미국식  영국식 

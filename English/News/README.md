@@ -12,6 +12,8 @@
 # 정치
 * 보도기관에서 특종기사를 경쟁계에 있는 타사보다 앞서 보도: scoop
 * 비쌀수록 좋다고 하여 허영심에 의한 수요 유발; Verblen effect; 베블런 효과
+* 극찬하다, 칭찬하다; trump set to tout Senate wins in enws conference [taʊt]
+
 
 # 사회
 * 그녀는 자기 역할을 충분히 하고 있지 않습니다.  she's not pulling her weight: ‘pull one’s weight

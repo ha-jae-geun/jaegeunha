@@ -16,6 +16,7 @@
 * #앞접시; please give me a #small plate
 
 # Ingredient
+* 얇게 썰어 쪽 찢은 고기; sliced, shredded meat; shred: 장조림이나 맛살처럼 길고 가늘게 자르거나 뗴어네는 것
 * #노른자 터뜨리지 말아ㅜㅈ세요; I want it sunny side up
 * #살코기 주세요; can you give me a #lean cut
 * #지방은 싹 떼어주세요; can you trim the fat off
@@ -24,6 +25,8 @@
 * #진주는 pearl이라고 하는데요. 이 진주가 나는 조개는 영어로 Pinctada fucata GOULD
 * 찹살가루; Glutinous rice powder
 * 반죽; batter; 가루+물; 주로 펜케이크, 케이크용 반죽, 튀김옷 같은 묽은 반죽; 베터 <> 빵, 피자, 면 등 밀가루 반죽: dough
+* 치킨을 전혀 으깨지 않았어; the chcken is not mushy at all 
+	* (2. 지나치게 감성적인); i hate those mushy love stories
 
 # Egg
 * 노른자 살짝만 익혀주세요; I want it over easy
@@ -34,6 +37,7 @@
 * 건강한 식습관을 갖도록 하겠지; it'd encoourage you guys to eat more naturally
 
 # taste
+* 소스가 많고 느끼한 파스타가 좋아; i like saucy and creamy pasta
 * ~을 먹다; chow down on; Some Asians chow down on animals
 * 털이 많은; hairy; 달콤한: sugary; 식초맛이 나는; vinegary; 묽은; watery; 기름기 많은; oily
 * 난 초딩 입맛이야. I have a childish palate. [ˈpælət]
