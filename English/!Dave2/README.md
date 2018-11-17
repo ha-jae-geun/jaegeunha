@@ -3,6 +3,22 @@
 * 내 말 명심해. Mark my words.
 * 난 어린시절을 잃어버렸어요. I've lost my childhood.
 * 없는걸 상상해야 되니까요; you have to dream stuff up
+* 저흰 주목받지 않으려고 노력중이에요. We are trying to keep a low profile.
+  * 전 잘 알려진 친구들이 많아요. I have a lot of high-profile friends.
+  * 보세요! 전 정말 옆모습이 아름다워요! I have such a fine profile!
+* : 전 당신을 우상으로 삼고 있어요. I idolize you.
+* : 내가 안으로 들어가서, 그 장소를 샅샅이 살펴볼게. 'm gonna go inside. I'm gonna scope the place out.
+* 네가 내 마음을 완전 뺏었어. You really swept me off my feet
+* 넘겨집지마; don't assume too much
+* 단도직입적으로 물어봤다; i askeed her point-blank
+* 고의적이라는 생각은 안들었어? Did it occur to you that was by design?
+* 신경 1도 안써; to/the hell with -
+* 그가 선수쳤어; he's stolen the tunder
+*  마지막으로 금고에 간 건 접니다. 검은 거기에 있었습니다. I was last in vault, the sword was there.  [vɔːlt] 
+* 넌지시 시사하다; drop/give a hint
+* 그녀는 경찰에 대응할 수 있다; she can stand upto the police
+* 나대지 마라; don't jump the gun
+* 원하는대로 고르세요; Take your pick / Pick the one you like
 * 불고기라 하면; When you picture Bulgogi
 * 얼마나 확신하세요? How much do you (stand behind) today's results?
 * 궁금할 수밖에 없다; ~ beg the question

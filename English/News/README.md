@@ -10,6 +10,7 @@
 * 현재 상황을 고려할 때; Given what's unfolding in Syria; Give n the fact that
 
 # 정치
+* 국수주의자; nationalist -> 군사적 공격행위; Kingoism
 * 보도기관에서 특종기사를 경쟁계에 있는 타사보다 앞서 보도: scoop
 * 비쌀수록 좋다고 하여 허영심에 의한 수요 유발; Verblen effect; 베블런 효과
 * 극찬하다, 칭찬하다; trump set to tout Senate wins in enws conference [taʊt]

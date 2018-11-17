@@ -12,8 +12,13 @@
 * 문자를 읽지 ㅇ낳고 그냥 두다; to leave a text unread
 * 읽씹하지마; don't leave me on read
 * 요청이 매우 많았던 영ㅅ아이에요; this is highly requested video
+* #무음이었어 I set/put my phone on #mute/silent (#mode)
+* #진동으로 해놔 put your phone on #virbrate (#mode) / #silent
 
 # 사진
+* 이 각도로 찍어주실래요? Could you take us from this angle?
+* 중앙에 모여주세요; Move to the center
+* 사진이 흔들렸네요; it's out of focus
  * * #tbt, #love, #nofilter: 무보정, #blackandwhite: 흑백사진
  * #foodporn #insafood #instaasm
  * ~의 사진을 찍다; Get a picure of someone or something | get a picture with someone
@@ -369,8 +374,6 @@
 * #자동완성 #auto correct
 * #인스타그램 let me #instagram this
 * #gram
-* #무음이었어 I put my phone on #mute (#mode)
-* #진동으로 해놔 put your phone on #virbrate (#mode) / #silent
 * #증폭; #amplification,; #FM; 
 * cell phone #chime
 * #벨소리 #ring tone

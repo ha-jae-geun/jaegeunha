@@ -443,3 +443,38 @@
 * * #높지 않다  it doesn't build-up
   * * #상층, #상단; #upper-tier NBA skill
 * #대리석	#marble
+
+
+# 이사
+ * 1) 이사: a move 또는 moving 
+ * 2) 이삿날: moving day 또는 the day of my move 
+ * 3) 이삿짐센터, 이사 업체: a moving company  또는 a mover
+ * 4) 이삿짐을 싸다: pack 
+ * ex) I recommend letting movers do the packing for you 
+ * (포장이 이사를 추천한다)
+ * 5) 계단 사용료 (엘리베이터가 없는 건물의 경우 내는 계단 사용료): a stair fee
+ * **그런데 보통 한국에서는 엘리베이터를 사용한다고 엘리베이터 사용료는 냅니다.
+ * 그것은 elevator fee라고 하면 되겠죠?
+ * 6) 짐이 얼마나 많은지 체크하다 
+ * : Good movers conduct an inspection to see how much stuff you have before your move.
+ * (좋은 이사업체는 이사 전에 짐이 얼마나 많은지 확인한다)
+ * 7) 견적을 부르다: quote
+ * ex) He quote me 1.5million won for moving all the stuff. 
+ * 8) 크고 옮기기 까다로운 물건들: large or cumbersome pieces (like a piano)
+ * 9) 무거운 짐을 드는 것: heavy lifting 
+ * ex) Movers do a lot of hard work and heavy lifting. 
+ * 10) 이사 후에 물건을 다시 사다: Re-buy items once you've moved in.
+ * 11) 해체 / 조립: disassemble / reassemble12) 이사 업체가 비싼 데는 다 이유가 있다
+: Movers are expensive for a reason
+ * 13) 싼 업체는 더 많은 비용을 초래할 수 있다
+ * : Cheap movers can cost you more. 
+ * 14) 벽에 구멍을 뚫다
+ * : put holes into the wall 
+ * 15) 구멍은 메우기 힘들다 
+ * : It's hard to cover up. 
+ * 16) 집주인 / 세입자
+ * : landlord / tenant 
+ * 17) 무엇을 가져가고 무엇을 버려야 할지 어려운 결정을 내려야 한다
+ * : You have to make a tough decision like what to keep and what to get rid of.
+
+

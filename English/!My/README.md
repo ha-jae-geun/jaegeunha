@@ -34,6 +34,8 @@
 * 다음으로는; Coming up next
 * 너한테 호의를 베푸는거야; doing you a big favor
 * -에게 말할 기회를 주죠; it gives ghem a voice
+* 초조해지다; get cold feet; i'm getting cold feet
+* 걱정하지 마세요; your son's in good hands
 * 지금 한국의 고등학생들은 큰 시험을 앞두고 있어요; Korean high schoolers are gearing up to the big exam	
 * 오해하지마; do't take this wrong way = Don't get me wrong
 * 가봐야겠어; I should get going

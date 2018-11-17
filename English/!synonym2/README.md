@@ -1,3 +1,6 @@
+* 요즘 일거리가 뜸해졌어요. Business has slacked off lately.
+  * 불경기 때 사실 더 열심히일해야죠. We should actually work harder during a slack period.
+  * 그녀가 모자란 부분을 메워줄거에요. She will pick up the slack.
 * 무릎 꿇다; be/get on one's knees = get down/drop/fall on one's knees / sit on one's your nees = pray ono's knees / beg on one's knees
 * 매력있는; attractive; 유혹하는; seductive; give someone a seductive look
 * 전체의; 정부전체의; cross-goverment / cultural / cross / reference

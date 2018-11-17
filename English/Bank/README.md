@@ -18,6 +18,7 @@
 * 잔돈 어디서 구해요? where can i get some change?(s 붙이면 안됨)
 * 복권; 래플(특정 프로젝트기관의 기금 모금을 위한 복권); raffle 참조 lottery
 * 법화; Legal tender
+* 우린 깡통 찼다고. We ain't got a pot to piss in.
 
 # 은행
 * 총계가 ~이 나오다; ~come to 숫자; it came to whopping 1,1000 calores [ˈwɑːp-]  영국식 [ˈwɒpɪŋ]; 엄청큰
@@ -37,7 +38,7 @@
 * #bounced check; #부도 수표 #pending; #결제 보류
 
 * #ACCT# 						 	Account number; 게좌/계정 번호
-* #송금하다 #wire money = #wire transfer
+* #송금하다 #wire money = #wire transfer = remit money
 * #remit some money
 * 은행 #거래 내역을 확인하다 #review one’s bank statement
 * ~라고 #예상되다 be #anticipated = #expected = #projected to v

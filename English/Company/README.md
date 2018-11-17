@@ -45,6 +45,7 @@
 * 연차: Annual leave; 반차: Half day leave; 병가: sick leave
 
 # 문장
+* 사업이 비로소 정상궤도에 올라섰다; The business finally got back on track
 * 주로 앉아서 하는 일/주로 앉아서 일을 하는 직업/주로 앉아서 지내는 생활 방식 a sedentary job/occupation/lifestyle 
 * 우리는 사업을 다시 정상궤도에 올려 놓기 위해 노력 중이야.;We are trying to get the businessup and running again.; 정상궤도
 * 프린터를 작동시키는 몇 분 걸리지 않았다. It only took me a few minutes to get the printer up and running. 
