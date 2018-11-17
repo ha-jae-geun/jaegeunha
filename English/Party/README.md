@@ -4,6 +4,11 @@
 * #축제
 * ##축제 #페스티벌
 * #송어축제 가자 							 traʊt Let's go trout festival.
+* 팟럭(Potluck) 혹은 팟럭 파티(Potluck Party)
+	* 미국, 캐나다 가정마다 한가지 음식을 가지고 와서 함께 나눠 먹는 모임
+	* 특별한 30세, 40세 생일, 베이비 샤워(애낳기 전 임산부에게 아기 선물주는 파티), 송별회
+* 송별회 farewell party, (informal) sendoff (party); We gave a farewell party for Mr. Brown. 
+
 
 * #르네상스 페스티벌
 * 판타지, 과거, 타임머신 탄 코스프레 같은 것들; #cosplay

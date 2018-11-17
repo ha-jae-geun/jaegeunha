@@ -25,6 +25,7 @@
 * 엔진이 고장났다고 말했잖아; i told you my engine seized up
 * 살짝 우회전; turn slight right
 * 도로의 사방이 정체ㅗ디어있어ㅛ; this traffic is just girdlocked everywhere
+* 깜빡이가 없어; There is no indicator on this
 
 * 「주유소」	
 * 미국 운전

@@ -3,6 +3,7 @@
 * 정가 선물을 받을 때와 할인 선물을 받을때 기분이 다르므로 할인을 안해도 사람들이 많이 사용한다.
 
 # 핸드폰
+* 의미 없는 프로필 업데이트나 해야겠다; i'm gonna post a pointless status update on Facebook
 * LG U+에서 바꾸고 싶어; i want to switch from LG U+
 * 핸드폰이 초기화도기 전까지 시간이 모자라; We're running out of time before the phone gets wiped
 * 접근 거부; Access denied
@@ -10,6 +11,7 @@
 * 전화를 걸다: ring up = call / give you a call / telephone / give you a ring
 * 문자를 읽지 ㅇ낳고 그냥 두다; to leave a text unread
 * 읽씹하지마; don't leave me on read
+* 요청이 매우 많았던 영ㅅ아이에요; this is highly requested video
 
 # 사진
  * * #tbt, #love, #nofilter: 무보정, #blackandwhite: 흑백사진

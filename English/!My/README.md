@@ -6,7 +6,9 @@
 * 당연하지; THat's given
 * 저는 말고요; None for me
 * 그렇지; kind of
+* 당분간ㅇ느 그럴 예정 없어; no time soon
 * 알겠다고!; i concede
+* 고마워요; Cheers mate(영국)
 
 # 말투
 * 저는 항상 막판에 닥쳐서 해요; i'm always last minute with everything that i do
@@ -26,8 +28,13 @@
 * 내 상대를 할 준비가 되어있지 않아; He ain't ready for me
 * 됐어 그만 말해; Save it 
 * 어휴,; boy ~
+* 한참 뒤에 문제 될건다; this could cause problems (further) down the road
 
 # 일상
+* 다음으로는; Coming up next
+* 너한테 호의를 베푸는거야; doing you a big favor
+* -에게 말할 기회를 주죠; it gives ghem a voice
+* 지금 한국의 고등학생들은 큰 시험을 앞두고 있어요; Korean high schoolers are gearing up to the big exam	
 * 오해하지마; do't take this wrong way = Don't get me wrong
 * 가봐야겠어; I should get going
 * 볼장 다봤어요; i'm done here
@@ -42,6 +49,17 @@
 * 수고했어; Keep up the good work
   * Good job은 어떤 한가지 일을 했고, 그 결과가 좋을 때 하는 말
 * 해리포터 한권도 안읽어봤어? you've nevered read a single Harry Potter book?
+* 일시불로 할게요; i'd like to pay in full
+* 쓰레기 버리지 마세요; No littering
+* 무슨 띠에요? What's your animal sign?
+* 이 남은 음식 담을 상자 주실 수 있ㄴ아요? Can i get a box for these leftovers?
+* 너 지금 잘못하고 있어; You're making a mistake
+* 그거 범죄야; That's against the law
+* 물러나; Back off
+* 내가 초등학교 다닐 떄; When i was in elementary school(student x 학교 중심)
+	* Back in high school
+* -하느라 힘들다; struggle with my computer; have a hard time -ing
+* 나는 -하는게 어려워요; i find it difficult to -
 
 # 무례하지 않은 부탁
 ## 친구 
@@ -60,6 +78,7 @@
 * I said I would be ther as soon as I could
 
 # 연결어
+* ~하는 사람; i'm the one who ~
 * Because, since 대신에 분사구문 쓰면 고급 언어
   * Feeling tired, he decided to go to bed
 * 그리고 그것이 ~하는 이유이겠죠; which is why 절

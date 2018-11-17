@@ -2,6 +2,7 @@
 * 군대는 비생산적인 집단이고, 군대에 나가면 무기와 군량을 사야 되기 때문에 세금이 올라간다.
 * 민방위 훈련이야; It's a civil defense drill; It's just a drill
 * 공격 받은거 아니야; We're not under attack
+* 미군이 군대를 철수시키지 않을거라고 생각해요; i don't think the United States will pull its tropps out for quite some time
 
 # 기타
 * 모든 사람을 자네 손으로 지휘하곤했었는데, you were running everything and everyone

@@ -1,3 +1,38 @@
+# "I wish I could" & "I hope I can" - 중요한 구분 [ 영어회화 ]
+* i wish i could: 실제로는 그렇게 못한다는 걸 알고 있다
+  * 그냥 일 떄려치고 평생 여행이나 했으면 좋겠다;I wish i coud just quit my job and travel for the rest of my life
+  * 안돌아갔으면 좋겠다; i wish i didn't have to go back
+  * 나도 너처럼 할 수 있엉쓰면 좋겠다; i wish i could be like you
+* i hope i can; 실제로 가능성 있음
+  * 잘 해내루 있었으면 조겠따; i hope i can do a good job
+  * 내일은 야근을 안해도 됐으면 좋겠다; i hope i don't have to work late tomorrow
+
+# "나 다름없어" | "하고 다니는거 보면 결혼한 사이나 다름없어" - 자연스러운 생활 영어표현 | 영어회화
+* 이거는 사용할 쓸수 없는 수준이야; It's practically unusuable
+  * 거의: almost
+  * pretty much; 결혼했을 때는 못씀; 결혼은 했거나 안했거나 거의 2줄 하나이기 때문에
+* 얘네는 똑같아; These are practically/pretty much the same
+* 몇가지 개선점이 있긴 한데 같은거나 다름 없어
+  There are some minor improvements but they're practically/pretty much the same
+* 그들은 결혼한 사이야; They're married. They're a married couple
+* 걔네는 완전 부부사이야; THey're practically married
+* 걔네 같이 하고 다니는거 보면; when you see how they are together
+* 나는 걔를 도우러 거기 갔던건데 내가 다 해준거나 다름없어
+  I was there to help him but i did practically/pretty much everything for him
+
+# "이거면 되겠다" , "이정도면 충분해" - 자연스러운 생활영어 표현 [ 영어회화 ]
+* 이거면 되겠다; This will do (the job) / That/These/Those'll do
+  * 양에 대한 표현도 이걸로 씀 2. 완성된 정보(레포트)
+* 확실해? 너무 약한거 아니야? Are you sure? isn't it too weak?
+* 아니야 이거면 충분해; o THis will do for now / This is good enough for now
+
+# [ 연습가이드 #003 ] "~할 계획이야" , "그럴려면 ~ 해야 돼" , "쉽지 않을거야"
+* 연말에 계획이 있나요? Do you have any plans for the holidays?
+* 네 -를 할 계획이에요; yes i'm planning to do something; 
+  * 여행; go on a short trip / take a short trip with my family
+* 근데 그러면 휴가를 내야 되서 쉽지 않을 거에요; But that means i have to take extra time off work
+  * SO it's not going to be easy
+
 # 학습가이드 #05 - 영어표현이 와닿지 않는다고 피하지 마세요
 * 아무 버튼을 누르지 않고서 바로 시간을 확인할 수 있다는게 편리해요
   (Being able to / The fact that) i can immediately check the time without pressing any buttons is convenient

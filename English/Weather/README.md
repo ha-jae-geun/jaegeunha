@@ -151,7 +151,9 @@
 * #열대 저기압 								 Tropical low pressure 
 * #열대야 현상 tropical night phenomenon
 * #미세먼지							fine dust = thick #smog
-  * #concentration of fine dus;  미세먼지 #경보 #fine-dust warning  미세먼지 #주의보; fine-dust #watch
+  * #concentration of fine dus;  미세먼지 #경보 #fine-dust warning  미세먼지 #주의보; 
+  fine-dust #watch / ultrafine dust
+  	* combat toxic haze blanketing its cites / s air pollution / fine particulate matter
 * #안개 #fog #haze: 아지랑이
 * *먼지를 털다 나는 먼지떨이로 블라인드의 먼지를 턴다. I use a feather duster to dust my blinds.
 * 

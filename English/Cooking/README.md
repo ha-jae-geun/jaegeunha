@@ -3,6 +3,8 @@
 * 체; sieve; 과일 채소 물빼는 체; colander; 집개; tongs
 * 1회용 장갑; dispoable gloves
 * 냄비 받침; Trivet
+* 식기 반납하는 곳; Return utensils here
+* 여기 수저좀 가져다 주세요; Give us some silverware please
 
 # 고기
 * 안심; filet mignon; filet mignon
@@ -16,6 +18,7 @@
 * #앞접시; please give me a #small plate
 
 # Ingredient
+* 토핑이 덜 있어서 그런걸 수도 있어요; because there are less toppings
 * 얇게 썰어 쪽 찢은 고기; sliced, shredded meat; shred: 장조림이나 맛살처럼 길고 가늘게 자르거나 뗴어네는 것
 * #노른자 터뜨리지 말아ㅜㅈ세요; I want it sunny side up
 * #살코기 주세요; can you give me a #lean cut
@@ -27,6 +30,7 @@
 * 반죽; batter; 가루+물; 주로 펜케이크, 케이크용 반죽, 튀김옷 같은 묽은 반죽; 베터 <> 빵, 피자, 면 등 밀가루 반죽: dough
 * 치킨을 전혀 으깨지 않았어; the chcken is not mushy at all 
 	* (2. 지나치게 감성적인); i hate those mushy love stories
+* 채소 위주야? Is it plant-based?
 
 # Egg
 * 노른자 살짝만 익혀주세요; I want it over easy
@@ -36,8 +40,13 @@
 * 산균이에요. It's the lactic acid.
 * 건강한 식습관을 갖도록 하겠지; it'd encoourage you guys to eat more naturally
 
-# taste
+# Sauce
+* 소스 전부 뿌려드릴까요? would you like all the sauces?
 * 소스가 많고 느끼한 파스타가 좋아; i like saucy and creamy pasta
+* Sriracha; tabasco와 비슷한 아시아 식재료 중 하ㅏ
+
+# taste
+* 앉은 자리에서 다 ㅁ거을 수 있을 것 같애요; i could eat this i one sitting
 * ~을 먹다; chow down on; Some Asians chow down on animals
 * 털이 많은; hairy; 달콤한: sugary; 식초맛이 나는; vinegary; 묽은; watery; 기름기 많은; oily
 * 난 초딩 입맛이야. I have a childish palate. [ˈpælət]

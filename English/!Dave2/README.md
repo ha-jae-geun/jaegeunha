@@ -1,3 +1,8 @@
+* 무슨 소식인데; What's the scoop
+* 제가 그정도는 해요; That is how i roll
+* 내 말 명심해. Mark my words.
+* 난 어린시절을 잃어버렸어요. I've lost my childhood.
+* 없는걸 상상해야 되니까요; you have to dream stuff up
 * 불고기라 하면; When you picture Bulgogi
 * 얼마나 확신하세요? How much do you (stand behind) today's results?
 * 궁금할 수밖에 없다; ~ beg the question
@@ -15,6 +20,7 @@
 * 항상 변화해요; it's always in flux
 * 건강한 습관을 일상화하다; incorporating healthy habits as a routine
 * 곤란한 상황에 처했다면; if you're ever stuck in a pinch
+* 여기에 맞는 명확한 명언이 있어; i have the perfect quote
 * 그는 군중 사이를 헤치면서 나아갔다; he made his way through the crowd
 * [형용사] (美, 비격식) 돈이 얼마 안 되는[드는]; 사소한, 하찮은 nickel-and-dime 미국식  영국식   단어장추가
 * 자리 좀 지켜줄 수 있어? Can you hold the fort while i'm gone

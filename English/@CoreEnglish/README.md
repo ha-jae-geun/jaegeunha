@@ -1,3 +1,4 @@
+* order; 혀가 입안에 어디에서 닿지 않게 오올하다가 그 자리에서 입천장을 살짝 치면서 떨어지는 소리에 덜; i ordered four hamburgers for my family; ham에 강세가 있어 바람을 내뱉음
 * where, what, which, when은 w 사운드; who는 h사운드
 * t로 끝나는 great, sweet, heart는 숨을 막아줘야함
   Have a great day sweet-heart
@@ -17,6 +18,10 @@
 * we're - were 발음
 * clothes; close와 같은 발음
 * year <> ear; ear이 '이'발음이 조금 더 뚜렷
+* Mayo; Mayonnaise; 메이어네이즈
+
+# th
+* 혀를 앞니 뒤에 넣고 떨어뜨려도 비슷한 발음이 난다
 
 # won't, want, weren't
 * won't + R
