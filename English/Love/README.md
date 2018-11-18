@@ -288,6 +288,7 @@ I have a big crush on you / I have a thing for you, i'm into you
  * 키스하고 남은 자국 			 a hickey입니다. kiss mark love bite 라고 하기도 하구요.
  * #쪽쪽거리며 키스하다, #프렌치키스 #smooch
  * 키스할만한 상황; #kiss-worthy moment
+ * 그 쪽 이마에 뽀뽀해도 될까요? Is it okay to kiss you on the forehead?
  * #뽀뽀 #키스
  * 아빠, 나 어부바 해[목말 태워] 줘요!				 Give me a piggyback, Daddy!
  * 업혀요 										get on my back

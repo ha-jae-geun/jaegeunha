@@ -1,15 +1,16 @@
 「카페」 #카페 cafe 캐패이, 캐빼이	#커피숍 coffee house
 ##coffee; 원래 uncountable; 카페, 음식점, 식당, 기내에서는 two coffees
-커피 어떻게 타죠? How do you take your coffee?; 블랙으로 마셔; I take it black
- Two spoonful of sugars  
-Cup of joe; #joe
-Can I gt a grande(size 붙이지 않음)
-*no syrup, 3 pumps of caramel syrup, caramel drizzle on topm white mocha sauce with Matcha powder, on shot of espresso
-  Extra shot/syrup
-커피 끓이는 기계: #coffee percolator; #percolator
-I could #use a cup of coffee
-#쿠폰; I want to redeem a 쿠폰이름 / use my points / claim my points
-#스탬프 카드; do you have a #stamp card / #loyalty card
+* 커피 어떻게 타죠? How do you take your coffee?; 블랙으로 마셔; I take it black
+ * Two spoonful of sugars  
+* Cup of joe; #joe
+* Can I gt a grande(size 붙이지 않음)
+* no syrup, 3 pumps of caramel syrup, caramel drizzle on topm white mocha sauce with Matcha powder, on shot of espresso
+  * Extra shot/syrup
+* 커피 끓이는 기계: #coffee percolator; #percolator
+* I could #use a cup of coffee
+* #쿠폰; I want to redeem a 쿠폰이름 / use my points / claim my points
+* #스탬프 카드; do you have a #stamp card / #loyalty card
+* 설탕 두 개 넣은 커피; i like my coffe with two sugars in it
 
 * 영국 티 카페; #afternoon tea;
 * #티# #차#

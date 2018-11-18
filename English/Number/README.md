@@ -5,6 +5,7 @@
 # 번
 * once -> twice -> three times
 
+* 함부로 대하다; do a number on; you did a number on my health
 * 수식: #number sentence
 * #숫자 #계산 ##0: zero / o
 * #one -> #some  #another -> #others  #the other -> the others

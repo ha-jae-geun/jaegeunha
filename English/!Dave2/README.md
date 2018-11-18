@@ -19,6 +19,8 @@
 * 그녀는 경찰에 대응할 수 있다; she can stand upto the police
 * 나대지 마라; don't jump the gun
 * 원하는대로 고르세요; Take your pick / Pick the one you like
+* 괴상하고 어중간산 상태였어요; iwas in this weird limbo zone
+* 날 통제하기 갈망하니? Do you crave control; crave: 강렬히 원하다
 * 불고기라 하면; When you picture Bulgogi
 * 얼마나 확신하세요? How much do you (stand behind) today's results?
 * 궁금할 수밖에 없다; ~ beg the question

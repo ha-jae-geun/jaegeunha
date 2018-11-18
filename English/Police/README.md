@@ -12,6 +12,7 @@
 * 위반으로 간주하다; cite violation; 소환되다; be cited; cited for speeding
 * 그들은 그에게서 수백 달러의 돈을 사취했다. They swindled him out of hundreds of dollars.
 * 요즘 수상했어; you been acting so shady  
+* 누가 훔쳐갔나봐; somebody jacked us
 
 #경찰서 #법원	#형사 police(2번째 강세)
 * #관할권; 관할권이 없다;  have no jurisdiction 미국식  영국식 
@@ -30,6 +31,7 @@
 * 고소하다; accusation[ˌækjuˈzeɪʃn] ; 무고죄: false accusation
   * 아동, 성적 핟개; child/sexual abuse
 
+* 자세히 파고들다; comb through; i'll comb through some facts
 * 법적 구속력이 있지; A에게 B의 의무를 지우다; bind A to B; It's binding
   * 영원히 유효한 조약도 아니고; It's not like it was binding forever
 * 너희의 수사를 담당하게 될거야; i'm going to be your liaison 미국식 [liˈeɪzɑːn;ˈliəzɑːn] on the Red Hood investigation

@@ -1,3 +1,6 @@
+* 제출하다; submit: 이메일, 택배, 온라인, 파일첨부 때도 사용 가능 
+  * turn in, hand in: 자기가 직접 제출할 때
+* 이제 그만 끝내자; call it a day; 저녁에 일하는 사람: call it a night
 * 요즘 일거리가 뜸해졌어요. Business has slacked off lately.
   * 불경기 때 사실 더 열심히일해야죠. We should actually work harder during a slack period.
   * 그녀가 모자란 부분을 메워줄거에요. She will pick up the slack.

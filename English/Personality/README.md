@@ -1,3 +1,4 @@
+* 성격, 유전적 특징, 재능, 성형 다 볼수 있어; i can see your personality your traits, your talens your disposition
 * 속으로 나쁜 여자처럼 말이야; Bad girls underneath like thatW
 * 자신만의 #개성을 보이다; let your freak flag fly
 * #성격 What's your personality like?

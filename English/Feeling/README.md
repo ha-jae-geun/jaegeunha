@@ -15,6 +15,8 @@
 * 특별한 감정은 없엇어; no feelings involved; There were no feelings involved
 * 뭔가 스스로엑 ㅔ자신감이 있는 느낌이다; - has an air of confidence about her
 * 감정적으로 받아들이지 마 Don't take it #personally
+* 감정이 왔다갔따하다; my feelings hae been all over the place
+* 이용자 참여  나는 내 감정을 드러내지 않기로 정했다.  I choose not to wear my heart on my sleeve. 듣기
 -------------------------------------------------------------------------------------------------------------------
 * #expose, #uncover, #reveal - 드러내다 
 * #reveal; it's just revealed to me
@@ -215,6 +217,7 @@
 * i'll be #darned
 * 왠일이래 								 What a nice surprise
 * 놀라다 						raised eyebrows, be taken aback(#aback)
+* 우주의 방대함은 정말 정신이 아찔할 정도이다. The vastness of space really boggles the mind. 
 * #turn a hair(#hair)
 * 코레아는 그의 기술로 아스트로를 놀라게했다. 	 Correa had blown the Astros away with his skills
 * catch ~ by surprise; she caught me by surprise
@@ -223,6 +226,7 @@
 * 충격을 주다 							 (정신적) Shake someone up
 * 감탄시키다 							 knock (someone's) socks off 
 * 나 놀랐어(감동) 							 큰 감동 x I was blown away.
+* 을림을 주다; that is something that resonated with me so much
 * 깜짝이야 						 You scared me! > sorry, I didn't mean to
 * scare the shit/the crap/the hell + out of me
 * 놀랄 일도 아니야 			That's no surprise me. It didn't surprise me. I expected that. 
@@ -1078,6 +1082,7 @@
 * That can't be fun; #not fun at all; 괴롭겠다
 * #우여곡절 #고생 #상심하다 #괴롭다 #힘들다 #빡세다 #힘든 #혹독 #어려운 #어렵다 #상처 | #버겁다
 * 냉정하져 chill out, 긴장 풀어 sit back and relax
+* 고도의 긴장이 요구되는 때 crunch time 미국식  영국식   단어장추가
 * 긴장을 풀다; #unwind, #relax, #uptight
 * ☆take the edge off; I need to take the edge off the hunger
 * #strain; under the strain

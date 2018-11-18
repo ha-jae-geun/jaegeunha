@@ -29,6 +29,8 @@
 * 됐어 그만 말해; Save it 
 * 어휴,; boy ~
 * 한참 뒤에 문제 될건다; this could cause problems (further) down the road
+* -라면 무슨 소용이야; What's the point in/of A if B; What's the point in paying 200 dollars for that book if
+* 예측 못했어; i didn't see it coming
 
 # 일상
 * 다음으로는; Coming up next

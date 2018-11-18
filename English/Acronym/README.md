@@ -177,6 +177,7 @@ One O one- point nine FM
 * #SRY										 Sorry. 미안
 * ##tarp; tarpaulin; 방수포
 * T/O; table of organization
+* #TA; teaching assistant
 * #TBA 							 to be announced; 	추후 공고 예정
 * #TBD to be decided; 미정
 * #TDTM: 								 Talk dirty to me.
