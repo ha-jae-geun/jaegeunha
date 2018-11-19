@@ -337,6 +337,7 @@
 * 비즈니스 항황; i'm grateful for + N
   * It was very kind of you to +V
   * I appreciate
+* 매일 감사할 것들을 찾아내거든요; i count my blessings
 * ☆감사함을 표현하다; #express one's #gratitude
 * ☆당신이 해준 것과 환대에 대해서 영원히 감사하는 마음이에요.
 * I'm eternally grateful for what you did and your hospitality.

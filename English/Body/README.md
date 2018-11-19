@@ -664,6 +664,7 @@ Living in another ounty can be a real #eye-opener
 눈 하나 깜짝 안해 He didn’t bat an eye. He kept a straight face through the whole meeting
 * 진짜 가관이야							 He is a real eyesore
 * 눈빛 										 sexy gaze
+* 너의 눈빛을 담아; acptured the look in your eyes; i really like the look in his eyes
 * 블루워터는 색에 대한 #안목이 있지. 				 Bluewater has an eye for color.
 * #discerning; i'm discerning
 * has good #taste in music

@@ -497,6 +497,15 @@ While the US raised interest rates and the dollar strengthened daily, China and 
 * 전기대비 성장률이 1이면 연간으로 봤을 땐 4이다.
 * 경제 성장률이 낮으면 보통 소득이 낮은 사람에게 문제가 집중되는 경우가 많다; 평균이 1이 넘는다는 거지 평균 밑의 문제도 커진다.
 
+## 경제 성장률 예측
+* 연구 기관마다 모델이 있지만 100% 맞지는 않는다.
+* 소비, 투자
+  * 투자 - 건설투자, 설비투자, 정부지출, 순수출 평균적인 증가율
+  * 소비
+    + 소비자 신뢰지수로 판단
+    + 경기 선행지수로 판단
+* 정부쪽 기관(한국 은행)은 낙관적, 민간쪽 기관은 보수적이거나 중립적인 경향이 많다.
+
 ## 년도별 성장률
 * 2017년도에 경제 성장률의 3.1%중 1.3%를 설비투자가 차지했다.
 
@@ -630,6 +639,9 @@ While the US raised interest rates and the dollar strengthened daily, China and 
 
 # 골디락스
 * 물가 안정, 성장 증가
+
+# 축영
+* 예산 조정의 실패
 
 # 기타
 * 외환 위기 이후 부의 양극화 현상이 심화되고 있다; Since the financial crisis, the polarization of wealth has become more serious.; alleviate regional polarization

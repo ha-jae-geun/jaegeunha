@@ -46,6 +46,9 @@
 * Sriracha; tabasco와 비슷한 아시아 식재료 중 하ㅏ
 
 # taste
+* 탄산수에 맛을 들이고 있따; i've been acquiring the taste for seltzer
+	* soda water, sparling water, club soda
+	* 김이 빠지다; flat -
 * 앉은 자리에서 다 ㅁ거을 수 있을 것 같애요; i could eat this i one sitting
 * ~을 먹다; chow down on; Some Asians chow down on animals
 * 털이 많은; hairy; 달콤한: sugary; 식초맛이 나는; vinegary; 묽은; watery; 기름기 많은; oily

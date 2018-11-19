@@ -1,3 +1,6 @@
+* 난 절대 믿지 않았거든; i was never a beliver
+* 의견이 잘 통했지; we always wee eye to eye = be on the same page
+* 소란을 떨만한 일은 아니었따; it just wasn't worth the hassle
 * 무슨 소식인데; What's the scoop
 * 제가 그정도는 해요; That is how i roll
 * 내 말 명심해. Mark my words.

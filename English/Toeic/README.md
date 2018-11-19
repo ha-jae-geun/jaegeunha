@@ -13,6 +13,10 @@
 * be provided / be sent with / come with / along with 
 
 # 단어
+* 추가비용으로; at additional expenses
+* unless otherwise pp; -하지 ㅇ낳는다면
+* directly + on 장소; 바로 -에; 2. directly + to.from 장소: 바로 -에
+* widely used; 널리 사용된
 * 그녀의 최신 저서는 눈을 떼지 못하고 읽게 만든다. Her latest book makes compelling reading. 
 * 변화; change, modification, transition, revision to
 * In an effort to V, In an attempt to V
@@ -1028,6 +1032,8 @@ the [fact ,concept,idea,opinion,news,rumor] that
 * My house is near the station(가까이에, 전치사)
 
 * #빈도부사 (How often~~ 의 대답)
+* regularly, 빈도부사 + 단순시제
+	* exactly + 동사: 100% 오답
 * once/twice/three times a week 
 * 1이상: every 필수
 * 이틀: once every two days, once every three weeks

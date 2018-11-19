@@ -31,8 +31,11 @@
 * 한참 뒤에 문제 될건다; this could cause problems (further) down the road
 * -라면 무슨 소용이야; What's the point in/of A if B; What's the point in paying 200 dollars for that book if
 * 예측 못했어; i didn't see it coming
+* 어찌 됐든; Either way
 
 # 일상
+* 이제 네가 털어놓을 때인 것 같아. It's about time you spill the beans. 듣기 출처:능률교육
+* 내 소식을 전한지가 벌써 한달이 넘었다; it's been over a month since i really got to catch up
 * 다음으로는; Coming up next
 * 너한테 호의를 베푸는거야; doing you a big favor
 * -에게 말할 기회를 주죠; it gives ghem a voice
