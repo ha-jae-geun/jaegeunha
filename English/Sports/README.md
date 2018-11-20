@@ -28,6 +28,7 @@
 * 개해엄; dog paddle
 
 # Gym
+* 운동 겸 걷는게 좋지 않나? Don't you think we better walk for exercise?
 * 나 살쪘어; i gain/put on weight
 * 어떤 운동 주로 하세요; what kind of exercise do you do
 * 뛰다 설사 마렵지만 않앗으면; i don't want to get runner's diarrhea

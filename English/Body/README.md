@@ -995,6 +995,7 @@ Shut up pipe down> Silence > Hush > Be quiet >=Keep it down >= would you keep it
 * #콧구멍 #nostril [|nɑ:strəl] #부비강(두개골 속 코 안쪽으로 이어지는 구멍ㅇ) #sinuses sinus
 * 콧구멍이 #벌렁; #flare; are #flaring
 * ##코가 막히다. 			 I have a lot of congestion = i‘m very #congested
+* 코파서 가끔 튕긴다; ii pick my nose and flick it sometimes
 * #훌쩍; #sniffle
 * #코골이 do you #snore?
 * 양념이 다 코로 들어갔어 : 			 all of the flavoring just went up my nose

@@ -1,6 +1,29 @@
+# 무례하지 않은 부탁
+## 친구 
+* Hey, let me +V
+* 비즈니스: Would you please + V / I would be grateful if yoou could +
+  * I would like to request / Do you think you would be able to V
+* 저는 안먹어요; None for me
+
+# As
+* As you all have heard,
+* As you may have already heard
+* As you already know
+* As most of you may know
+
+# 간접 화법
+* 내가 보기에; THe way i see it
+* she said she was on her way to lunch
+* she asked me if I wanted to come with her
+* I asked him if she wanted t
+* told 누구 / said + would; she said shoe wuld be downstairss
+* I said I would be ther as soon as I could
+
 # 접두어
 * 언젠가는, 위기가 올겁니다; at some point; ㅎ나순간에는: at one/this point
 	* 이제 심지어 아이를 갖기도 싫은 지경이야; i'm at the point where i don't even want to have kids
+* 모든 면에 있어서; in every facet of your life [ˈfæsɪt]
+* 내 세대에는; in my day
 
 # 대답
 * 당연하지; THat's given
@@ -9,6 +32,7 @@
 * 당분간ㅇ느 그럴 예정 없어; no time soon
 * 알겠다고!; i concede
 * 고마워요; Cheers mate(영국)
+* 자문자답; 맞아요 쉽지 않겠죠; Yes, it won't be easy
 
 # 말투
 * 저는 항상 막판에 닥쳐서 해요; i'm always last minute with everything that i do
@@ -34,6 +58,11 @@
 * 어찌 됐든; Either way
 
 # 일상
+* 고난을 해쳐나가다; get me through anything
+* 아주 먼 세상이 아니라, 바오 여기에서, 바로 지금 일어나고 있는 일이에요;
+	* It's not happening worlds away, it's happening right here and right now
+* 정말 과하고 과장되고; it's really kind of over the top, and crampy;
+	* crampy: 의도적으로 영화나 연극, 프로그램에 장르적 요소를 과장하는 것
 * 이제 네가 털어놓을 때인 것 같아. It's about time you spill the beans. 듣기 출처:능률교육
 * 내 소식을 전한지가 벌써 한달이 넘었다; it's been over a month since i really got to catch up
 * 다음으로는; Coming up next
@@ -68,23 +97,39 @@
 * -하느라 힘들다; struggle with my computer; have a hard time -ing
 * 나는 -하는게 어려워요; i find it difficult to -
 
-# 무례하지 않은 부탁
-## 친구 
-* Hey, let me +V
-* 비즈니스: Would you please + V / I would be grateful if yoou could +
-  * I would like to request / Do you think you would be able to V
-* 저는 안먹어요; None for me
+# 필요
+* 자신감을 올리기 위해서; To boost your confidence
+* 주주총회를 개최하다 hold[have; open] a general meeting of stockholders 
+* 대상으로; a student-oriented magazine 
+  * a dictionary (intended) for[aimed at] highschool students
+  * conduct a survey of 30 middle-aged menㅅ
+* 세금 면제 tax exemption
+* 상속세 inheritance tax
+* 멀리서 보고 있었어요; I was watching you from a distance; you are atching from far away
+* 평화를 유지하다; keep the peace wih the country
+* 영화 제목도 틀렸어; You even got that film's name wrong
+* 싹이 나다; [일반] The trees will begin to bud, too.  We'd better hurry or the mushrooms will be sprouting! 
+* 버스에 있어; I'm on that bus
+* 지팡이; (walking) stick, cane; (마법사의) wand 등산용 지팡이 an alpenstock  an alpenstock; 지팡이 짚다; use a stick
+* 변질; 동작이 많이 변질됐네요. The pose changed a lot.  But we're being sidetracked
+* 후세에 전하다; hand down/tansmit … to posterity [pɑːˈs-]발음듣기  영국식[pɒˈsterəti]
+* errand, run[do] an errand 그는 은행에 심부름하러 갔다 He went on a bank errand; He spent the day running little errands.
+* 가축 stock, livestock, domestic animals 가축을 기르다 keep[raise; breed] livestock[domestic animals]
+* 조상에게 제사를 지내다 hold a memorial service for one's ancestors
+  * 제사 지내는 집처럼. Like a family who does do ancestral rites.
+* 약속을 잘 지키다;  Keeping promises lets you have a good reputation. 
+  *  He is a man of his word. or He is as good as his word.
+  *  He is sincere in his promises
+* 한자로 쓰다 write in Chinese characters 
+* 서양; 서양 문화를 받아들이다 accept[adopt] Western culture
+* 기독교로 개종하다 convert to Christianity [ˌkrɪstiˈænəti]
+  * 불교; Buddhism; 유교; Confucianism; 도교; Taoism  미국식[ˈdaʊɪzəm;ˈtaʊ-]
+  * 기독교의: Christian; [ˈkrɪstʃən]
 
 
-# 간접 화법
-* 내가 보기에; THe way i see it
-* she said she was on her way to lunch
-* she asked me if I wanted to come with her
-* I asked him if she wanted t
-* told 누구 / said + would; she said shoe wuld be downstairss
-* I said I would be ther as soon as I could
 
 # 연결어
+* 최소한 그들에게 -해줘야 한다고 생각합니ㅏㄷ; the least that + 주어 + deserve is; the least that they deserve is
 * ~하는 사람; i'm the one who ~
 * Because, since 대신에 분사구문 쓰면 고급 언어
   * Feeling tired, he decided to go to bed
@@ -198,7 +243,6 @@ it을 붙여줘야 한다.
 * #What are some of your least favorite foods?
 * what makes ~ so ~ is that; what made him so famoust in korea was that
 * ##what# ##which
- 
 * 목적어를 구체적으로 말해야 할 때: 주어 + be + what 주어 동사; that's what you're * always saying
 * that 명사절; he knows that she is ~;
 * 관계대명사, #관계부사
@@ -228,8 +272,4 @@ it을 붙여줘야 한다.
 * how often does it come?
 * #how often
 
-# As
-* As you all have heard,
-* As you may have already heard
-* As you already know
-* As most of you may know
+

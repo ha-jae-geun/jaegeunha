@@ -3,11 +3,12 @@
 * 민방위 훈련이야; It's a civil defense drill; It's just a drill
 * 공격 받은거 아니야; We're not under attack
 * 미군이 군대를 철수시키지 않을거라고 생각해요; i don't think the United States will pull its tropps out for quite some time
-
-# 기타
-* 모든 사람을 자네 손으로 지휘하곤했었는데, you were running everything and everyone
 * 전쟁을 선포하다; declare a war
 * 전쟁 중에; through/in/during a war.
+
+# 기타
+* 대체 복무를 하다; doing alternative service in a state-run corporation
+* 모든 사람을 자네 손으로 지휘하곤했었는데, you were running everything and everyone
 * 현역 복무중이다; ~ is on the active list
 * 군대 면제당하면; even if BTS were to be exempted
 * #unit #platoon #divison #army of soldiers

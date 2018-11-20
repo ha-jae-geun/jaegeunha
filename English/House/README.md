@@ -133,7 +133,6 @@
 * 창문을 닦았어 						I wiped the dust off the window
 * #털다 (먼지 등을) 		dust (off/down), brush (off) dust the snow from[off] one's clothes
 * #낙엽 쓸어드릴ᄁᆞ요? Can I #rake your leaves?
-* 쓰레기를 쓰레기통에 버렸어 			 I threw away the garbage in the trash can
 * 너 정리를 잘하잖아 					 Your'e such an organized person.
 * 책들이 선반에 크기별로 정리되어 있었다.The books were organized on the shelves according to size
 * #정렬하다; #form up
@@ -441,8 +440,8 @@
 * * #보증인; #surety
 * * #보증하다; . (보장) [명사] guarantee (of/that); (약속) assurance; (품질의) warranty, [동사] guarantee (sb sth); (약속하다) (formal) assure; (품질 등을) vouch for, certify 
 * * #높지 않다  it doesn't build-up
-  * * #상층, #상단; #upper-tier NBA skill
-* #대리석	#marble
+  * #상층, #상단; #upper-tier NBA skill
+* 대리석	#marble 
 
 
 # 이사
@@ -478,3 +477,10 @@
  * : You have to make a tough decision like what to keep and what to get rid of.
 
 
+# 살다
+* 감수하며 살다; live with; live with for the rest of my life
+* 과거는 과거로 놔둬; 연연하지마; Let the past be past. Don't dwell on it
+
+# 쓰레기
+* 쓰레기를 쓰레기통에 버렸어 			 I threw away the garbage in the trash can
+* 청소부가 바다에 떠다니는 스레기를 모았어; A chinese dustman collects floating rubbish from the river/net

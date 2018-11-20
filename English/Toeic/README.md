@@ -23,6 +23,7 @@
 * 투숙객들께서는 출발 당일 정오까지 객실을 비워 주시기 바랍니다. Guests are requested to vacate their rooms by noon on the day of departure. 
 * secretary; 간단히 설명: brief
 * 배너가 걸려있는; banner suspended
+* Bush line one side of the walkway; run along, line, extend, surround
 
  접속사
 * or: 그렇지 않으면(명령문 아니여도)

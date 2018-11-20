@@ -17,6 +17,7 @@
 * 감정적으로 받아들이지 마 Don't take it #personally
 * 감정이 왔다갔따하다; my feelings hae been all over the place
 * 이용자 참여  나는 내 감정을 드러내지 않기로 정했다.  I choose not to wear my heart on my sleeve. 듣기
+* 막상 헤어지니 싱숭생숭해; i'm sitting on my feelings;
 -------------------------------------------------------------------------------------------------------------------
 * #expose, #uncover, #reveal - 드러내다 
 * #reveal; it's just revealed to me
@@ -800,6 +801,7 @@
 * disruption in …의 혼란, environmental disruption 환경 파괴
 * 어지럽다, 멍한 #woozy; I feel woozy thing about it
 * 혼란: turmoil [tə́ːrmɔil, 헷갈리다; ##Mixed up
+* 편집증; be paranoid about; 피해망상; i'm becoming paranoid about online comments [ˈpærənɔɪd]
 * #anarchy, #lawlessness, #disorder - 혼란, 난장판 
 * was lost in #turmoil
 * #disorient; It's very disorienting.

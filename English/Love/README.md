@@ -384,6 +384,8 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #사정; #ejaculate on my face = I’m #cumming
  * 피임; contraception; 피임약, 피임기구; contraceptive ˌkɑːn-]  영국식 [ˌkɒntrəˈseptɪv] 
  	* 사후 피ㅁ임약; morning after pill
+ * 혼전 합의서; prenup prí:nʌp]; Doing a prenup forces the couple to have a conversationl pre prenup: 동거, 연애 할 때 만드는 합의서
+ 	* i don't wanna sing a prenup
  * #혼전 순결 #platonic love
  * 결혼을 하지 않는, 순결을 지키는; #celibate
  * 순결을 #더럽히다; #defile

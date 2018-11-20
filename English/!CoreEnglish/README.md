@@ -19,6 +19,7 @@
 * clothes; close와 같은 발음
 * year <> ear; ear이 '이'발음이 조금 더 뚜렷
 * Mayo; Mayonnaise; 메이어네이즈
+* need you to do; 니쥬쥬쥬 something for me; 섬닝
 
 # th
 * 혀를 앞니 뒤에 넣고 떨어뜨려도 비슷한 발음이 난다

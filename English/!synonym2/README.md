@@ -1,3 +1,5 @@
+* 미루다: postpone: 유보하다, 격식; put off: 미루다
+* turn on 사람: 갑자기 공격하다; turn 사람 on: 사랑을 성적으로 흥분시키다
 * 제출하다; submit: 이메일, 택배, 온라인, 파일첨부 때도 사용 가능 
   * turn in, hand in: 자기가 직접 제출할 때
 * 이제 그만 끝내자; call it a day; 저녁에 일하는 사람: call it a night
