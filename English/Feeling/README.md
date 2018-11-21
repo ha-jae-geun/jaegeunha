@@ -1292,6 +1292,7 @@
 * 성적으로 흥분 freaky, freak out
 * *어떤 것도 널 흥분시킬 수 없어 						 nothing gets past you
 * 삐지다; i'm ticked at you
+	* 삐지지마; stop pouting
 * #빡돌다 #이성 #폭발 #발끈 ##화 ##욱 #신경 #화풀이 #분통 #화내다 #실신하다 #열광하다 #흥분하다 #이를 갈다 ##분노 ##삐지다 ##속 ##안
 * 냉정을 잃다 flip out (냉정함을 잃다= lose one's cool)
 * = fly off the handle = freak out = go ape = go ballistic = go crazy = lose one's temper = wig out = #Pull oneself together = #become emotionally stable

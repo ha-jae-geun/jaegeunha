@@ -17,6 +17,7 @@
 * #진동으로 해놔 put your phone on #virbrate (#mode) / #silent
 * 작은 무선 충전 케이스는 24시간 이상의 배터리 수명을 ㅈ공합니다; The compact wireless charging case delivers more than 24 hours of bettery life
 * 기술이 우리와 제품들 사이의 흠 없고 자동적인 연결을 가능케 하는 미래에; Where technology enables the seamless and automatic connection between you and your devices
+* 보조 케이블도 있어요; i got the auxiliary hookup [ɔːɡˈzɪliəri]
 
 # 사진
 * 이 각도로 찍어주실래요? Could you take us from this angle?
@@ -136,6 +137,9 @@
 
 
 #전화
+* 연락 엄청 오더라; it was blowing up
+* 인쇄 관련 문제일 경우에, 2번을 눌ㄹ주세요; For printing related issues, please press 2
+* IT 지원팀에 사원번호왁 ㅣ기의 ID가 포함된 이메일을 보내주세요; please send an e-mail to IT support quoting your employee number and system ID
 * ~와 전화 ㅕㄴ결되어 있어요; i've got A from B on the line C
 * 음성사서함으로 넘어갑니다; you have reached the voicemail box of; Your call has been forwarded to an automatic voice message system
 * 누구 번호 맞나요? Is there an Amy at this number?

@@ -10,6 +10,7 @@
 * 난 네게 등돌리지 않을게; i wouldn't turn on you
 
 # 만남
+* 내 고민거리를 가지고 올게; i'll come with my problems
 * 우리 어디서 만날까? Where shall we meet?
 * 글쎄, 정문 밖에서 만나자. Well, let's meet out front.
 * 로비에서 보자 Let's meet in the lobby

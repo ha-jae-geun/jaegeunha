@@ -480,6 +480,7 @@
 # 살다
 * 감수하며 살다; live with; live with for the rest of my life
 * 과거는 과거로 놔둬; 연연하지마; Let the past be past. Don't dwell on it
+* 나는 만사가 잘 안풀리는 날을 보냈습니다; i had one of those days
 
 # 쓰레기
 * 쓰레기를 쓰레기통에 버렸어 			 I threw away the garbage in the trash can

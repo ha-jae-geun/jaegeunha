@@ -127,6 +127,7 @@ would be the last person to 동사원형; ~할 사람이 절대 아니다
 * 사람이 많을 때 더 즐겁게 하는 사람; life of the party
 
 ## 남자
+* 매력 덩어리, 미남;; dreamboat
 * 운동 많이 하는 남자; jock 미국식 [dƷɑ:k] 
 * 여자 밝히는 남자: #thirsty
 * 기집애 같은 남자 겁쟁이, #소심한 남자 [wʊs] #wuss #wussies = #wussy

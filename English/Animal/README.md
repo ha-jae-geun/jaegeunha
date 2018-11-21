@@ -20,6 +20,7 @@
 * 가까이 다가오면 쪼는데 무지하게 아프다고 한다.
 
 ## 동물
+* 고양이 털에 알레르기 있어요; i was allegic to cat hair
 * 육식성의; carnivore 미국식 [ˈkɑːrn-]  영국식 [ˈkɑːnɪvɔː(r)]; carnivorous
 * 초식성의; herbivorous 미국식 [hə:rbívərəs] 
 * 토끼가 탈출한 적도 있니? SO Tammy, have any of your rabbits ever gotten loose?

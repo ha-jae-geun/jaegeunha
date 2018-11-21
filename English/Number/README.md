@@ -37,6 +37,7 @@
 * 상당한 것이 되다 #amount to much
 * ##amount ##number
 * 총계가 ~이 나오다; ~come to 숫자; it came to whopping 1,1000 calores [ˈwɑːp-]  영국식 [ˈwɒpɪŋ]; 엄청큰
+* 마치 눈금을 매겨서 정확하게 만들다; you calibrate things and mae them precise
 ----------------------------------------------------------------------------------------------------
 
 ## 기호

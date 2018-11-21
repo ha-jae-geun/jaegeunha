@@ -168,6 +168,10 @@
 * 대출 예약을 하고 싶어요. 	Can you put me on the waiting list? 
 
 # 바다 #바다 #해변
+* 우리의 열정은 섯히 줄어들기 시작했다; out enthusiasm began to ebb away
+	* 밀물, 썲ㄹ; As the tide ebbed away; 
+	* 조수간만의 차; Tjere's always ebb and flow in our lives
+* 낚싯바늘을 묵을 떄마다 손가락이 베여서; when i'm trying my hooks, i always cut my fingers
 * 배가 부두에 도착하면; When the ship docks
 * #river, #creek: 작은 만, #stream: 개울
 * * 부산은 #coastal city

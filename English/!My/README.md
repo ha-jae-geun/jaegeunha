@@ -57,7 +57,16 @@
 * 예측 못했어; i didn't see it coming
 * 어찌 됐든; Either way
 
+# 질문
+* -는 언제 끝날 것 같애; when do you think; you'll be done with A
+
 # 일상
+* 검사와 합의하도록 도와줄 수 있어; i can help you cut a deal with the DA
+* 결국 정신을 차릴거야; Eventually, he'll come to his senses
+* 시간을 주다; give somone a sec
+* 행방이 묘연합니다; he's in the wind
+* 곤란한 상황에서 구해주다; save someone's ass
+* 그리고 나서 그 다른 모든 걸 묶는거야; they you strap on all that other stuff
 * 고난을 해쳐나가다; get me through anything
 * 아주 먼 세상이 아니라, 바오 여기에서, 바로 지금 일어나고 있는 일이에요;
 	* It's not happening worlds away, it's happening right here and right now

@@ -154,7 +154,7 @@ One O one- point nine FM
 * ##PA personal assistant; 개인 비서
 * ##pass passage; passenger; passim; passive; make that passes ready
 * #PC 차별적인 언어를 사용하지 않는 것: Politically correct
-* ##PDA public display of affection
+* ##PDA public display of affection; keep PDA away from the office; that's too much PDA on the subway
 * #PUWSA put up with someone's attitude; 성질을 받아주다
 * #PPL 	people
 * #PTO; Paid time off; 유급 휴가(#연차, #연가); I used all of my PTO this year

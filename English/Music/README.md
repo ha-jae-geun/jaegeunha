@@ -15,11 +15,13 @@
   Their dance moves were like... so in sync."
 * 팝핀댄서였어요; I used to b a pop-locker
 * 성대결절; Vocal nudules
+* 음악에 맞춰 춤추다; i danced to the music
 
 # 노래
 * 그 곡의 수입굼; Proceeds from that tune
 * 일주일이라도 저 목소리만 반복재생으로 들을 수 있을것 같애; i could have that voice playing on repeat
 * 한 소절; The first verse.; 1절: Verse 1, 랩까지? Rap verse?
+* 음악 좀 들으실래요? Do you want to pump some tunes?
 
 ------------
 * FRIENDS - Marshmello, Anne-Marie - 앤마리 

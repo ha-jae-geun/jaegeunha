@@ -1,3 +1,9 @@
+* bring
+  1. 말하는 사람이나 듣는 사람 중 한명이라도 목적지에 있는 경우
+  2. 말하는 사람과 듣는 사람 둘다 목적지 밖에 있을 때, 나중에 둘다 목적지에 가서 시간을 보낼 경우
+  * take; 나머지
+    * take the taxis
+* go + (to 없음) downtown / upstairs / abroad / inside / underground / nowhere / somewhere
 * 미루다: postpone: 유보하다, 격식; put off: 미루다
 * turn on 사람: 갑자기 공격하다; turn 사람 on: 사랑을 성적으로 흥분시키다
 * 제출하다; submit: 이메일, 택배, 온라인, 파일첨부 때도 사용 가능 

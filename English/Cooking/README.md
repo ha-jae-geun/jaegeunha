@@ -5,6 +5,9 @@
 * 냄비 받침; Trivet
 * 식기 반납하는 곳; Return utensils here
 * 여기 수저좀 가져다 주세요; Give us some silverware please
+* 토스트를 토스터에 넣었다; i put the bread into the toaster
+	* 그것이 튀어나올 때 까지 기다려야 했다; i had to wait for it to pop up
+	* 빵이 다 됐을 때 버터를 발라 먹었다; when the bread was done, i spread lots of butter
 
 # 고기
 * 안심; filet mignon; filet mignon

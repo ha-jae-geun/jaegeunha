@@ -1,4 +1,5 @@
 # Word
+* ##PDA public display of affection; keep PDA away from the office; that's too much PDA on the subway
 * 남자 한명을 점찍엇어요; i spotted a guy
 * 임자가 있었다고 말하고 싶고; i wanna tell everyone you're taken
 * 사랑하는 사람; loved one
@@ -54,6 +55,7 @@ I have a big crush on you / I have a thing for you, i'm into you
 * ☆잡혀 살다 you have the ball and chain
 * #인 것 같아요.   I think we're in a rut.
 * 결혼식장에 들어가다; i'll walk down the aisle
+	* tie the knot
 * *#결혼 #matrimony(격식)
 * *##marriage; 결혼한 상태; marriage is holy thing
 * *##wedding; 결혼식 느낌; wedding ring / day
@@ -531,7 +533,7 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #relish; I have little relish for insects
  * #옛정을 생각해서 #for old time sake
  * #반하게하다; #swept off one's feet
- * 반하다; i'm #smitten with you; #smite
+ * 반하다; i'm #smitten with you; #smite; 갑자기 홀딱 방하다
  * 그는 당신에게 반했어요; he fancies you
  * #풋사랑; #calf love = #puppy love
  * 사랑스럽네요 								 That’s a lovely touch

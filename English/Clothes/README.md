@@ -11,6 +11,7 @@
  * attire; 옷을 얼마나 갖춰입었는지
    * formal attire, casual attire, business attire
 
+* 뒷 주머니에 그건 뭐니? What is in your back pocket?
 * 네 셔츠가 넥타이랑 어울리지가 않아. Your shirt does not blend in with your tie.
 * 이 옷 입으면 엉덩이의 4분 정도가 나와 있어야 하는데; like a quarter inch of arse is just expected to be hanging out if you're wearing these
 * 괴상망측한 분장을 하고 나타날 수 있다고 생각한거야? Does she think she can just show up in some wacky disguise [ˈwæki] 
@@ -33,6 +34,7 @@
 * 양말 뒤집어졌어; YOur socks are inside out
 * 양말 짝짝이; Mismatched
 * 발가벗다; 누드; completely starkers
+* 하는 동안에 바지도 좀 올려; pull your pants up while you're at it
 
 # 재료
 * 이 털실이면 될까? will this yarn work?

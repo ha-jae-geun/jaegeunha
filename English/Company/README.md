@@ -22,6 +22,7 @@
 
 
 # 단어
+* 그냥 수평 디동이잖아; it would be a lateral move
 * 연말 정산; Year-End tax
 * 자진 퇴사; Voluntary Termiation; 강제 퇴사: Involutary termination = fired = Laid off
 * #수습기간; on a #probation period

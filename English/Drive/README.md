@@ -265,6 +265,7 @@
 * 휘발유 통을 빌리거나 살 수 있어요? 	Can I buy or borrow a gasoline can? 
 * 워셔액 팔아요? 	Do you have washer fluid? 
 * 내부 세차도 할까요? 	Do you want an upholstery cleaning? ʌp‘hoʊlstəri
+	* 세차요; Wash it down please
 * 흠집 제거도 돼요? 	I'd like a buffing, too.
 * 점검비는 얼마예요? 	How much is the inspection fee? 
 * 차는 언제 찾아갈 수 있어요? 	When can I bring back my car? 

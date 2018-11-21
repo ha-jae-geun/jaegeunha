@@ -51,6 +51,8 @@
 
 # 컴퓨터
 * 해상도가 높다; have low/high resolution
+	* 화면 해상도도 바꼇고; it changed up the resolution
+* 컴퓨터가 고장났어요; his computer crashed
 
 ## 소셜 미디어
 * 페이스북 앱을 삭제하는 사람보다 새로 가입하는 사람 수가 더 많다 the newcomers outnumber the people deleting the app 

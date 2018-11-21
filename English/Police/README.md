@@ -13,6 +13,9 @@
 * 그들은 그에게서 수백 달러의 돈을 사취했다. They swindled him out of hundreds of dollars.
 * 요즘 수상했어; you been acting so shady  
 * 누가 훔쳐갔나봐; somebody jacked us
+* 오늘 바바리맨 봤어; i saw a flasher today
+	* 바바리맨에게 당했어요; i've been flashed so many times on the train
+* 수상한 남자를 데리고 있다; they've got this creeper guy
 
 #경찰서 #법원	#형사 police(2번째 강세)
 * #관할권; 관할권이 없다;  have no jurisdiction 미국식  영국식 
