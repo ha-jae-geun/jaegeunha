@@ -18,6 +18,7 @@
 * 감정이 왔다갔따하다; my feelings hae been all over the place
 * 이용자 참여  나는 내 감정을 드러내지 않기로 정했다.  I choose not to wear my heart on my sleeve. 듣기
 * 막상 헤어지니 싱숭생숭해; i'm sitting on my feelings;
+* 악감정 있어; There's been bad blood between
 -------------------------------------------------------------------------------------------------------------------
 * #expose, #uncover, #reveal - 드러내다 
 * #reveal; it's just revealed to me

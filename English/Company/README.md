@@ -5,6 +5,7 @@
 * 중소기업; SMEs; Small and Medium-sized Enterprises
 
 # 단어
+* 취직하다; i finally landed a job
 * 아직 근무중이었어; i was still on the clock
 * 직업병; 습관: occupation hazard; 진짜 병: occupational disease
 * 워크숍; how to plan a college retreat
@@ -100,6 +101,14 @@
 * 팀의 체제로 일하는 것을 do you prefer to work as a team or by yourself
 * what is your role within a team usually
 mr ~ in marketing
+
+
+
+# 팀 ##부서
+* 저희는 주로 수출과 유통하는 일을 합니다; Our main area is exportation and distribution
+* 이 업종에서 가장 영향력 있는 업종입니다; Our company is the most influential in this filed of business
+* 이 자료에서 보듯이 우리회사의 시장점유율은 압도적입니다;
+	* As seen in this material, our company's market share is unrivaled
 * 정규 부서 회의; #regular departmental meeting
 * 인사팀 #human resources
 * #team-fit; 팀의 문화 등과 잘 어울리는 것, #product-market fit; 제품이 시장 환경과 맞는 것
@@ -149,9 +158,6 @@ mr ~ in marketing
 * #영업팀; #sales & Marketing Team
 * #해외사업팀; #Internation develoopment Dept.
 * #QC팀; Quality control team
-
-
-# 팀 ##부서
 ---------------------
 * #employ, #hire, #recruit - 고용하다 
 * #employer ; #고용주 #employee; #종업원 #trainer 교육 시키는 사람 #trainee; 교육 받는 사람

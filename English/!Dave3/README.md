@@ -1,3 +1,9 @@
+* 한국 드라마는 기승전 사랑이죠. K-drama always boils down to love in the end.
+* 그 스토리는 세 사람의 삼각 관계를 다뤄요. The story revolves around three people in a love triangle.
+* 우리가 진행했던 프로젝트는 거의 성공적이라 할 수 있어. The project we did was (more or less) a success.
+* 그냥 평범했어; it was just run of the mill
+*  : 빨리. 물통이든 뭐든. Quickly. A flask, anything.
+* 할아버지, 유행은 돌고 돌아요. Grandpa, fashion comes full circle.
 * 커다란 진실; turh with a capital T; If he can't find a capital T
 	* 큰 곤경: trouble with a capital T; 아주 큰 고통: pain with a capital P
 * 이러한 사실을 좀 더 밝혀줄; shed more light on this

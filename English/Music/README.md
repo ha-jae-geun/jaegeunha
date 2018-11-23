@@ -18,6 +18,8 @@
 * 음악에 맞춰 춤추다; i danced to the music
 
 # 노래
+* 역주행중이다; be 'making a comback' in popularity
+* 중독적이다; it's catchy; i can't get the song out of my head; it really gets into your brain
 * 동요; sing a nursery rhyme
 * 그 곡의 수입굼; Proceeds from that tune
 * 일주일이라도 저 목소리만 반복재생으로 들을 수 있을것 같애; i could have that voice playing on repeat

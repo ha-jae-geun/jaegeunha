@@ -1,4 +1,5 @@
 # Word
+* 포옹 허그 안다; 뒤에서 안아줘요; spoon me
 * ##PDA public display of affection; keep PDA away from the office; that's too much PDA on the subway
 * 남자 한명을 점찍엇어요; i spotted a guy
 * 임자가 있었다고 말하고 싶고; i wanna tell everyone you're taken

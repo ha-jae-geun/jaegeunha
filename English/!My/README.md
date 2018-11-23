@@ -36,6 +36,7 @@
 * 알겠다고!; i concede
 * 고마워요; Cheers mate(영국)
 * 자문자답; 맞아요 쉽지 않겠죠; Yes, it won't be easy
+* 섬뜩하네요; Creepy
 
 # 말투
 * 싸울 땐 감정을 느낄 여유가 없다; THere's no room in war for feelings
@@ -65,7 +66,14 @@
 * -는 언제 끝날 것 같애; when do you think; you'll be done with A
 
 # 일상
+* 뜸들이지마; don't leave/keep me in suspense
+* 왜 화를 내세요; Why are you flipping out?
 * 식은죽 먹기야; got the piece of pie
+* 생각해볼게; Let me sleep on it
+* 난 입찰에서 발을 뺐어야 했어; i had to back out of the bidding
+* 대세에 따르는 걸 좋아한다; i like to go with the flow
+* 혼자 큰 몫을 다 가져갔어; he got the lion's share
+* 말썽부리지마; Stay out of trouble
 * 전혀 떠오르지가 않네; doesn't ring a bell
 * 믿을만 한거야; you can tae it to the bank
 * 3개월 할부로 계싼해주세요; Please pay by 3-month installments

@@ -6,6 +6,7 @@
 * express mail 특급편지, regular mail 일반편지, overnight mail 익일 배달 편지, package/parcel 소포,
 * courier service 택배서비스, postage 우편요금, stamp 우표
 * #육상운송; #surface mail #빠른우편; #express mail #기본 배달; #standard delivery
+	* 빠른 우편으로 보낼게요; i'll send this as priority
 * 1. 보내는 사람: 이름, 주소, 이메일
 * 2. 받는사람: 전화번호, 이름, 주소, 도시, 우편번호, 국가명 영문
 * 3. 세관 신고서: 내용, 개수, 가격
