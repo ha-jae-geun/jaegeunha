@@ -5,6 +5,7 @@
 * 중소기업; SMEs; Small and Medium-sized Enterprises
 
 # 단어
+* 아직 근무중이었어; i was still on the clock
 * 직업병; 습관: occupation hazard; 진짜 병: occupational disease
 * 워크숍; how to plan a college retreat
 * 나보다 서열이 높다; She has seniority

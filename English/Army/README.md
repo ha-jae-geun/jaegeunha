@@ -1,3 +1,10 @@
+# 경례
+## 폴란드 경례
+* 19세기 초 주변 열강과의 독립전쟁 당시 ‘오르신카 그로호프스카 전투’에서 대포 파편에 맞아 손가락 세 개를 잃은 폴란드 병사가 남은 두 손가락으로 했던 경례에서 유래됐다는 것입니다. 이후 폴란드에서는 모든 거수경례에 두 손가락 경례를 사용하게 됐으며 두 손가락의 의미는 ‘조국’과 ‘명예’라고 하니, 폴란드군의 두 손가락 경례를 보는 것만으로도 가슴이 뭉클해집니다.
+
+# 사회적 약자
+* 우리나라는 여성, 천민, 평민들이 누릴 수 있는 것이 많은 것은 귀족들임에도 불구하고 나라를 위해 의병활동에 앞장섰따;
+
 # 전쟁
 * 군대는 비생산적인 집단이고, 군대에 나가면 무기와 군량을 사야 되기 때문에 세금이 올라간다.
 * 민방위 훈련이야; It's a civil defense drill; It's just a drill
@@ -5,8 +12,14 @@
 * 미군이 군대를 철수시키지 않을거라고 생각해요; i don't think the United States will pull its tropps out for quite some time
 * 전쟁을 선포하다; declare a war
 * 전쟁 중에; through/in/during a war.
+* 변절자; 매국노; turncoat; 
+	* 베네딕트 아놀드; 대륙군 출신으로 독립전쟁 참전(파란 코트)미국군이 외투를 뒤집어 입으면 영국군
+		* 사라토가 전투 미국의 승리에 크게 기여했지만 보상을 못 받아 미국군을 배반하고 영국군에 합류
+		* 대표적인 미국 아침식사: 에그 베네딕트: 위: 계란+베이컨(미국) 아래: 잉글랜드 번(영국)
+		* 할리우드 영화 속 악당 중엔 베네딕트가 많다
 
 # 기타
+* 민간인들에게 출입 금지구역입니다; THis dock is off limits to civilians
 * 대체 복무를 하다; doing alternative service in a state-run corporation
 * 모든 사람을 자네 손으로 지휘하곤했었는데, you were running everything and everyone
 * 현역 복무중이다; ~ is on the active list

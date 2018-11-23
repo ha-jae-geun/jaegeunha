@@ -18,6 +18,7 @@
 * 음악에 맞춰 춤추다; i danced to the music
 
 # 노래
+* 동요; sing a nursery rhyme
 * 그 곡의 수입굼; Proceeds from that tune
 * 일주일이라도 저 목소리만 반복재생으로 들을 수 있을것 같애; i could have that voice playing on repeat
 * 한 소절; The first verse.; 1절: Verse 1, 랩까지? Rap verse?
@@ -28,6 +29,7 @@
 * Faded - Alan Walker - 알렌 워커
 * Honeymoon Avenue - Arian Grande
 * Finesse (Remix) (Feat. Cardi B) - Bruno Mars
+	* Runaway baby
 * Love on top - Beyonce
 * Britney Spears - 3
 * Altogether Alone - Be the voice
@@ -83,8 +85,10 @@
 * Nothing's gonna change - Glenn Medeiros - 글렌 메데이로스
 * Jeff Bernat - Changes - 제프 버넷
 * Jessi J- Casualty of Love
+* Jason Mraz - Be Honest
 * Slow Motion - Karina
 * Paris in the rain - Lauv - 라우브
+* Lady Gaga - I'll never love again
 * Last Chance - M.Y.M.P
 * How am i supposed to live without you - Michael Bolton
 * Pretty Boy - M2M

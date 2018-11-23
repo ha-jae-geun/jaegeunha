@@ -1,8 +1,16 @@
+# 애완동물 반려견
+* 애완동물, 반려견(사람)
+
 # 동물 속담
 * 큰일 났따; Goose is cooked
 
 # 동물
 * i like crabs; 개수를 세지 않는 경우를 제외하고 복수로 말하면 성병읳 ㅏㄴ 종류
+* i love dogs; 개를 좋아하다; i love dog: 개고기; a dog, dogs: 개; dog: 개고기
+* 우린 닭요리 좋아해; we love chicken; 닭들을 좋아해; we love chickens
+	* a chicken/chickens/ 푸드덕대는 진짜 닭
+* 회사가 필요하세요?we need a company
+	* 같이 있어 줄까요? We need company; company: 함께 있음 
 
 # 공룡
 * 7층 높이의 브라키오 사우르스; 15세까지  크고 안크는데 30t까지
@@ -18,6 +26,9 @@
 * 동서양을 막론하고 오래 전부터 집을 지키는 동물로 쓰였다
 * 로마군에서도 경비용으로 쓰였다닌 기록이 있다.
 * 가까이 다가오면 쪼는데 무지하게 아프다고 한다.
+
+# 동물원
+* 동물원에서 가장 눈에 띄는 동물은? what animal cathes your attention the most at the zoo
 
 ## 동물
 * 고양이 털에 알레르기 있어요; i was allegic to cat hair

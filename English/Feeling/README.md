@@ -86,9 +86,12 @@
 * #극악무도한 #마귀
 * #bitter, #resentful, #sullen - 억울해하는, 속상한 
 * 억울 								depression, oppression, dejection
-* 억울함을 느끼다; feel cheated
-* this is #unfair = I didn't do anything to deserve this
+	* 억울함을 느끼다; feel cheated
+	* 제가 왜 그런 벌을 받아야 돼요? what did i do to deserve this?
+	* this is #unfair = I didn't do anything to deserve this
 * ##억울
+* 누명쓴거에요; i'm being falsely accused
+	* 무고한대요; i'm 100% innocent
 * 자애로운 미소/태도 				 [bə|nevələnt] a benevolent smile / attitude
 * #자기 도취증에 빠진; narcissistic
 * #자애로운
@@ -1569,13 +1572,16 @@ I am always overlooked(간과), never discount the contributions, put someone do
 # 짜증
 * angry: 이유 있는 짜증; grumpy: 이유 없이 짜증(배고플 때)
  * be/get grumpy
+* be cross with; i'm cross with you
 * 만지지마, 짜증나							 Don't touch me., I'm cranky. 
 * 나 짜증낼거야. 심술부릴거야.						 I'm gonna get cranky.
 * 헉 진짜로?								 Get out of here!! 
 * #내 말이			 You said it, Exactly!. That's What I'm saying, tell me about it
 * 내 말이 그 말이야 tou took the words out of my mouth
-* 그러게 말이야.									Tell me about it. 
-* 너 때문에 빵 터졌어.							 You crack me up. 
+* 그러게 말이야.									Tell me about it.
+* 너 때문에 빵 터졌어.							 You crack me up.
+
+# 감동 
 * 완전 감동이였지.								 The show touched me. 
 * 헛소리좀 하지마!									 Cut the crap! 
 * 대박											Shut up!

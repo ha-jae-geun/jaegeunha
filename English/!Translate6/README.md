@@ -1,3 +1,25 @@
+# [ 대화가이드#14 ] - "벌써 그렇게 됐나? 몇 달 밖에 안된 것 같은데"
+* 와 그러고 보니까 이걸 내가 벌써 1년 넘게 하고 있네.
+  * (There is) Something (that) i just realized,  i've (already) been doing this for over a year(already)
+* 진짜? 벌써 그렇게 됐나? 몇 달 밖에 안된 것 같은데  
+  * Really? Has it been that long? It feels like it's(it has) only been several months
+
+# "을 잘 활용하다 / 써먹다" - [ 영어 표현력 업그레이드 - 구동사 2개 ]
+* 우리가 가지고 있던 것을 그냥 활용 했는데, 잘 됐어요
+  we just made use of what we had and it turned out 'OK'
+* 너의 시간을ㅈ ㅏㄹ 활용해야 해; YOu have to make good use of your time
+* 마감 기한이 다음주라 우리는 시간을 잘 활용해야해; The deadline is next week so we have to make good use of our time
+* 우리는 이 기회를 최대한으로 잘 활용해야해   
+  We have to make the most out of this opportunity
+* make good use of < make better use of < make the most out of(최상급)
+* 야 우리 한 시간 밖에 안남았어; Come one, we only have an hour left
+
+# [LESSON#19 - Part 1] - 과거분사형 / 동명사형 - bored/boring
+* bore, confuse, exciting, interest
+* 나한테는 어려워요; It's (too)hard for mee
+* confuse: 타동사; it's confusing
+* 다음 달에 여행 너무 기대된다; i'm so excited about the trip next month
+
 # "I wish I could" & "I hope I can" - 중요한 구분 [ 영어회화 ]
 * i wish i could: 실제로는 그렇게 못한다는 걸 알고 있다
   * 그냥 일 떄려치고 평생 여행이나 했으면 좋겠다;I wish i coud just quit my job and travel for the rest of my life

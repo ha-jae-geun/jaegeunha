@@ -20,6 +20,8 @@
 * 보조 케이블도 있어요; i got the auxiliary hookup [ɔːɡˈzɪliəri]
 
 # 사진
+* 대강 찍음; hip shot/blind fire; no more hip shots or blind fire
+	* 그냥 찍는걸 목적으로 대충 찍다; just snapping it for the sake of just snapping it
 * 이 각도로 찍어주실래요? Could you take us from this angle?
 * 중앙에 모여주세요; Move to the center
 * 사진이 흔들렸네요; it's out of focus

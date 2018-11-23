@@ -1,5 +1,6 @@
 # 프로그램
 * 광고 보시고 잠시후에 돌아오곘습니다; We'll be right back after a few words from our sponsors
+* 꽁트에 참여해주셔서 감사행; Thank yoou for being involved in that sketch
 
 # Radio
 * 라디오 날씨 최신 정보를 듣고 계십니다; YOu are listening to Radio weather update
@@ -16,6 +17,7 @@
 * 믿고보는 배우다; he's a go-to actor
 * 가성비; offer a bang for one's buck
 * 동작이 부드러운데; he's smooth with it
+* 최애를 뽑은 개 아니에요; i'm not picking favorites; play favorites: 편애하다
 
 # 영화
 * 요즘 영화 뭐있어? What movies are on?

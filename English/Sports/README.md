@@ -17,6 +17,12 @@
 * ☆ #blow ~ out of the water; i'll blow everybody out of the water
 * #대항마; be a #contender
 
+# 골프
+* #골프장 이용료는 얼마예요? How much is the greens fee? 
+* #미니 골프장 #putt-putt course = miniature golf
+* 홀 언저리에 공을 붙여; dead to the spin
+* 공이 핀에 딱 붙었네요; your ball is dead to the pin
+
 # Swimming
 * #오리발; rent some #flippers
 * 자유형; freestyle swimming / front crawl stroke
@@ -281,8 +287,6 @@
 * 몇 명이 플레이하실 거예요? 	How many of you are playing? 
 * 네 명이 라운드하도록 예약했어요. 	We've booked a round for four. 
 * 핸디가 얼마예요? 	What's your handicap? 
-* #골프장 이용료는 얼마예요? How much is the greens fee? 
-* #미니 골프장 #putt-putt course = miniature golf
 * 이렇게 앞서 나갈때 말이죠	With this kind of lead,
 * 지노블리 선수는 자유투는 두개 중 한개만 성공시킵니다.	Ginobli Spliting a pair.
 * 우리 팀을 지켜보셨다면 우리가 올바른 방향으로 나아가고 있다고 느끼실 꺼에요.	If you are around our team you can tell we’re heading in the right direction.

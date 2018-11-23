@@ -705,6 +705,7 @@ I’m told
 * 들으라고 한말이거든 I wasn’t #whispering
 * 아직 들리거든; i'm #within earshot; #earshot; please stay within earshoo; 주변에 있어
 * 귀에 물들어갔어 I got water in my ear
+* 너 참 귀가 얇다; You're so gullible
 * #extra; extra #pointy ears; #뾰족한 귀
 * #청취, 귀를 #기울이다; #tune in to something; thanks for tuning in to ~
 * 자주 #들었다; i’ll give it that

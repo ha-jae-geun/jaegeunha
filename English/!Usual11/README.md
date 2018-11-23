@@ -1,3 +1,309 @@
+# 쓸만한 영어 - 위로의 말 [RIP] - 상심이 크시겠어요 \마음 깊이 애도를 표합니다\위로하는 영어표현들\영어공부\영어회화
+ * 가장 먼저 떠오르는 위로의 말?
+ * → I’m sorry to hear that.
+ *  
+ * I’m sorry to hear that.   ☞ 가장 무난하게 많이 하는 말
+ * I’m sorry about that.        * I’m sorry : 미안해(X)
+ * 직역: 그런 소식을 들어서 유감이야.
+ * 의미: 그런 일이 있었다니..(안타깝네)
+ *  
+ * ♣ “I’m sorry.”만으로는 뭔가 부족해..뭔가 더 말해야할  것 같은데..
+ * 
+ * * 주의하세요*
+ * 의례 [부모님=parents]라고 외웠더라도 
+ * 부모님 중 한 분만 돌아가셨을 경우 parents(복수)를 쓰면 안됩니다. 
+ *  * 잘못 말하면 살아계신 분까지 돌아가시게 만든 내용이 돼요.
+ * 부모님 중 한 분만 돌아가셨을 경우에는 a parent(단수)를 써야됩니다.
+ * 
+ * 예시상황1
+ *  - 부모님상에 대한 조의를 표할 경우
+ *  I can’t imagine to lose a parent.
+ *  직역: 부모님 중 (한 분)을 잃는다는 것을 상상할 수 없어.
+ *  의미: 돌아가셔서 정말 유감이야..(얼마나 마음이 아프니..)  
+ * 
+ *  I’m really sorry about your mother. 
+ *  직역: 너희 어머님에 대해서 정말 유감이야.
+ *  의미: 어머님 돌아가셔서 마음이 아퍼..(얼마나 상심이 크겠니..)
+ * 
+ * 주의하세요
+ * 의례 [돌아가시다=pass away]라고 외웠더라도 실제 써야할 때에는 [돌아가신 후]이기 때문에
+ * 과거형 passed away를 꼭 써야만합니다. 
+ * 현재형 pass away를 쓰면 [지금도(늘) 돌아가시고 있는] 모습이 돼요.
+ * 
+ * I’m sorry your father passed away.
+ * 아버님이 돌아가셨다니.. 참 안타깝네요.
+ * 
+ * 예시상황2
+ *  - 너무 힘든 마음/상황을 위로할 때
+ *  I can’t imagine how difficult it must be for you.
+ *  직역: 너한테는 당연히 너무 힘들 수 밖에 없는 것을 상상도 할 수 없어.
+ *  의미: (지금 너가 겪는 일이니/니 상황이) 정말 얼마나 힘드니..
+ * 
+ * 예시상황3
+ *  - 고인의 명복을 비는 메시지를 전할 때
+ *  Rest in peace.
+ *  
+ *  ※ 조의/애도를 표현하는 대표적인 메시지의 예
+ *   1. RIP(Rest In Peace)
+ *      직역: 평화롭게 잠드소서..
+ *   2. my deepest condolences.
+ *    (또는) Please accept my condolences.
+ *     삼가 조의를 표합니다. 
+ *       condolences [컨돌런씨ㅅ]
+ *   3. I’m deeply sorry for your loss.
+ *     진심어린 (깊은) 애도를 표합니다.
+ * 
+ * * Rest in peace를 쓸 때 주의할 점1.
+ *  Rest in peace.는 종교(기독교)적인 메시지가 있기 때문에
+ *  다른 종교를 갖고 있는 사람에게는 주의해서 쓰는 게 좋습니다.
+ * * Rest in peace를 쓸 때 주의할 점2.
+ *  글로 (카드에) 써서 표현할 때와 구두(말)로 할 때 차이가 있습니다.
+ *  <카드에 글을 쓸 때> : 1. 대문자 이니셜 약자로 쓰지 않음
+ *                      (비석에는 대문자 약자 표기 가능)  R.I.P(X)
+ *                      2. 소문자 rip로 쓰지 않음
+ *                      ([립]라고절대 줄여서 말하지 않음)
+ *                     ⟹ 그냥  Rest in peace 표기 
+ * 
+ * 
+ * 예시상황4
+ *  - Rest In Peace를 직접 써야할 때 (구두/서면 공통)
+ *  I hope your father rests in peace.
+ *  아버님께서 평화롭게 잠드시길 (명복을)빕니다.
+ *   rest (동사)로 쓰임
+ *    [립]이라고 말하거나 소문자로 쓰면 안된다..
+ * 
+ * 예시상황5
+ *  - 추가적인 위로의 말을 더하고 싶을 때
+ *  * 서로 관계의 친밀도에 따라 더 말을 하고 안할 수 있는 여지가 있어요.
+ * 
+ *  If I can be any of help, please let me know.
+ *  Please let me know if I can be any of help.
+ *  내가 어떤 도움될 수 있다면 (나한테) 알려주세요.
+ * 
+ * 내가 해줄수 있는 게 있다면 편하게 연락(알려)줘.
+ * Please feel free to let me know
+ * if there is anything I can do for you.
+ *  Let me know if you need anything.도 OK
+ * 
+ * 내가 항상 옆에 있을 테니깐 편하게 얘기해.
+ * 
+ * 내가 항상 곁에 있을께.
+ * I’ll (always) be there for you.
+ * 언제든 (필요할 때) 바로 연락해.
+ * Call me whenever you need my help.﻿
+
+
+# 쓸만한 영어 - 옷수선 \ 동사 run ??!?! \ 바지 길이를 자연스럽게 줄여 주세요! \ 영어회화 \ 영어공부
+ * alteration          [→ 길거리에 가장 많이 붙어져있는 옷수선 간판 ☞ alterations]
+ * * alter (동사) : change의 그림                   ⟹   Alterations & cleaners 
+ * 
+ * 고장나서 (잘못된) 것을 고치는 그림 
+ *  ⤷ repair 
+ * 
+ * 옷을 빨았더니 색이 빠지고 줄었어요. 다시 돌릴 수 있나요?   (turn around X) 
+ *                                      → 고칠 
+ * → I washed it and it got faded and shrunk. Can you fix it?
+ *   직역: 내가 이걸 세탁했는데 색깔이 흐려졌어요. 고칠 수 있나요?
+ *   의미: 이걸 빨았더니 색이 빠졌어요. 색 다시 돌릴 수 있나요?
+ * 
+ *  * shrink – shrank – shrunk 
+ *  ** [옷이 줄었다]는 단순 과거 이야기라도 미국인들은 “My clothes shrunk.”라고 함.
+ *     문법적으로는 틀리지만 생활에서 더 자연스러운 용법으로 쓰임.
+ * 
+ * ♠ run 
+ *    잘 흘러(굴러)가는 그림       - 흐르는 강물처럼 (A River Runs Through It, 1992)
+ *    - (옷의) 옷이 쭉 풀리는 그림. (올)
+ *     → It got run.  
+ *        * unravel 실(올)이 풀리는 그림
+ *     → It got run. (여성- 스타킹 울이 찍~나가다)
+ *    - 콧물이 흐르는 그림 
+ *      → He/She has a runny nose.
+ *   - 달걀 노른자 
+ *     → The york is runny.
+ *   - (회사/사업을) 흘러(굴러)가게 하는 그림 ⟹ 운영하다  : It’s your business – Run it!
+ *   - (배가 아파서) 물설사하는 그림
+ *     → Sb. has got the runs. 
+ *        (누가) 계속 물설사해.
+ * 
+ *  울 스웨터인데 세탁했더니 올이 풀렸어요.
+ *   ☞ This is a wool sweater. when I washed it, it got run.
+ *      이게 올스웨터인데 빨았더니 올이 풀렸어요.
+ * 
+ * 똑같은 색깔의 실로 고쳐줄 수 있나요?
+ *  - the same color thread    같은 색상의 실
+ *  ☞ Can you fix it (/repair it) with the same color thread? 
+ *     같은 색상 실로 꼬매줄 수 있나요?
+ *                              with the → [wi(the)]  
+ * 
+ * 바지가 기장이 길어서 (바지)단 좀 줄여주세요.
+ *  These pants are too long.   (복수)
+ *   이 바지가 너무 길어요.
+ *  <[기장수선을 하다] 그림과 어울리는 동사는?>
+ *  1. change 
+ *  2. switch
+ *  3. alter 
+ * ☞ Can you alter them? 
+ * 
+ * ♠ alter 
+ *   (어떤 대체제로) 대신해주면서 바꾸는 그림
+ *  - cut 
+ *  - hem    : HOW TO HEM PANTS
+ *  * 기장을 짧게 하는 그림의 Shorten 도 가능   
+ * 
+ * 옷의 통(너비) 
+ * 통 = 너비 
+ * ♠ width * [d]가 묵음
+ *     wide 넓은 그림
+ * 
+ * take in
+ * (옷을 수선하는 문맥에서) 통을 줄여 안으로 넣는 그림.  
+ *  - 2 Ways to Take in the waist of pants
+ * 
+ * 말하고자하는 그 해당 상황을 콕 집어 먼저 전달하다보면 한국어로 생각했을 땐 너무 광범위했던 생각이 가지치기가 되고, 포인트를 먼저 간결하게 전달할 수도 있습니다.     
+ * 
+ * 기장 줄일 때 밑단을 그냥 자르지 말고 자연스럽게 단을 붙여주세요.
+ *  Can you hem them
+ *  단을 (만들어) 넣어 주세요.
+ * ☞ Can you hem them instead of cutting? 
+ *    그냥 팍 자르지 말고 단을 (만들어) 넣어 주세요.
+ * ☞ Can you cut the bottom of the both legs and hem them?
+ *    밑에 기장 줄이고 단을 만들어 주세요.
+ * 
+ * “원래 (있는) 밑단을 그냥 그대로 붙여 주세요.”
+ * ☞ “I want to keep the original hem.”
+ * 
+ * 기장을 줄일 때 줄이고 싶은 만큼 핀을 꽂아 왔어요.
+ * ☞ I pinned how much I wanted to take in.
+ *    줄이고 싶은 만큼 핀을 꽂아 왔어요.
+ * 
+ * 소매부위
+ * - cuffs : 손목부근          cuffs button
+ * - sleeves : 팔꿈치부근  [→ 커피컵]
+ * 
+ * 팔 소매 통을 줄여주세요.
+ * (몸통은 그냥 놔두고)
+ * ☞ The cuffs and sleeves are too big.
+ *    Can you take them in and leave the torso as it is?
+ *    몸통은 그대로 놔두고 소매와 통만(너무 크니깐)줄여주세요.
+ *       * as (it) is 원래 (그) 상태로
+ * 
+ * 몇 인치 줄여 주세요. (줄이고 싶은 양)
+ *  예) 2인치 줄여주세요.
+ *  Can you take it in 2 inches?  2인치 줄여주세요. 
+ * - 만약에 1인치이면? 
+ *   Can you take it in an inch? 
+ *   1인치만 줄여 주세요.
+ * 
+ * 옷 안에 안감을 대주세요.  - How to make a lining for a skirt
+ * [안감을 대다] 그림에 어울리는 동사는?
+ * → 뭔가를 안쪽에 붙여 놓는 그림
+ * ☞ Can you put lining in the skirt?
+ *   저 치마 안쪽에 안감 좀 대주세요.
+ * - How to add new lining in winter coat
+ * 
+ * ☞ Can you put lining in the jacket?
+ *    저 잠바에 속안감 좀 대주세요.
+ * 
+ * 맡긴 옷을 찾으러 왔어요.
+ *  - 이런 긴 설명하지 않고 영수증만 보여줘도 괜찮습니다.
+ * - Pick up
+ *   pick up my clothes
+ *   I am here to pick up my clothes.
+ *   제 옷 찾으러 왔어요.
+ * 
+ * <생활 속 표현 응용문제>
+ * 며칠전에 바지 2벌 수선이랑 재킷 2벌 드라이클리닝 맡겼었어요.
+ * → I brought two pairs of pants for alteration.
+ *    and two jackets for drycleaning a few days ago.
+ *    바지 2벌 수선 맡겼었어요.
+ *    며칠전에 바지 2벌 수선이랑 재킷 2벌 드라이클리닝 맡겼었어요. 
+ * 
+ * 옷에 비닐(포장) 씌워주세요.
+ *   비닐 = vinyl???  → vinyl : 뚜꺼운 비닐/ 옛날 레코드
+ *  ☞ Can you put plastic on it? 
+ *     비닐커버 좀 씌워 주실래요?
+ * 
+ * * garment bag 
+ *   (여행용) 양복 커버
+ *  ☞ Can you put it in a garment bag?
+ *    양복 커버에 넣어(씌워)주세요.
+ * 
+ * 와이셔츠 드라이클리닝하는 데 얼마예요?
+ *  -  하는 데 (하는게) 얼마예요?
+ *   → How much is it?
+ *      How much is it to do something? 또는 
+ *      How much does it cost to do something?
+ *   
+ * ☞  How much is it to dry clean dress shirts?
+ *      와이셔츠 드라이클리닝하는데 얼마예요?
+ * 
+ * 코트 한 벌 드라이클리닝하는 데 얼마예요?
+ * ☞ How much is it to dry clean a coat?
+ *  * 사역동사 have/get을 사용해도 괜찮음
+ * ♠ iron
+ *  * 발음주의 
+ *  I(아이)+yearn(여얼ㄴ)처럼(O)
+ *  [아이런](X) / [아이언(X)]
+ * 
+ * Press 
+ * ☞ How much is it to have a shirt laundered and pressed?
+ *   셔츠 한 벌 세탁하고 다리미하는데(받는데)얼마예요?
+ *  * have/ get + 과거분사(p.p)
+ *    사역동사 (문법용어가 중요하진 않습니다) 
+ *    ~가 ~ 되게(하게(끔) 하다
+ * 
+ * 컴플레인을 할 때
+ * 
+ * 3일전에 이 재킷 드라이클리닝 맡겼었는데요, 
+ * I brought this jacket for dry cleaning three days ago.
+ * 집에서 확인을 해보니 얼룩이 (지워지지 않고) 아직도 있었어요.
+ * I checked it at home and the stains were still there.
+ *  * 직접 보여주면서 말을 할 때는 stains are still here도 됨.
+ * 
+ * I got the pants altered yesterday but the length and width are same.
+ * 어제 바지 수선 맡겼는 데 길이랑 통이 하나도 수선이 안됐어요.
+ * 
+ * I got the sweater laundered the other day
+ *  지난 번에 스웨터 세탁 맡겼었는데
+ *  원래 검정색 옷이 회색으로 변했어요.
+ *  * the other day [요전날/ 이전에/ 며칠전에]
+ *  ** [예전엔 ~했는 데 이제는 아니야]
+ *     → used to 
+ *    ☞ 무조건 [~하곤 했다]로 외우지 마세요. ★
+ *  It used to be black but it turned grey.
+ *  원래 검정색이었던 게 회색으로 변했어요.
+ * 
+ * 아무리 쉬워보이는 말처럼 보여도 실제 내가 쓰지 못하면 쉬운 말이 아니예요.^^;
+ * 
+ * 있어 보이는 신문,잡지,뉴스 등의 공부보다 
+ * 쉬워보이는 공부인 기본을 생활속에서 탄탄히 다지는 게 더 좋습니다.^^
+ * 
+ * 
+ * 견인된 차 찾으려 갈때도 
+ * 결론은 pick up을 상황/문맥으로 꼭 익혀두시라는 말씀~^^
+ * 동사 fix 와 correct의 차이
+ *  - 모두 똑같이 [고치다???]
+ * 
+ *  * correct : 실수나 잘못된 점을 올바르게 고치는 그림.
+ *  ** fix : 상태를 고정시켜서 고치는 그림
+ * 동물의 중성화수술을 시킬 때
+ * 왜 get something fixed라고 하는 지 보이지요?  get it fixed.. 
+ *  
+ *  바지가 세탁후 줄었을때나 키가 자라서.. 안쪽 여분을 꺼내 길게 만들고 싶을 땐
+ *   어떻게 표현하면 좋을까요?
+ *  ☞  원래 바지에 있는 밑단의 안쪽 여분을 꺼내어 길게 만들때는 
+ *      Can you take out the (original) hem? 라고 간단하게 말할 수 있어요. 
+ * 
+ *   바지 기장 줄여주세요가 그래서 뭐라고 해야 하는지를 모르겠어요 ㅎㅎ 
+ *     Can you get these pants altered, please? 하면 되나요?
+ *  ☞  앗! 여러 다양한 문장의 표현과 연습문제까지 같이 푸는 부분이 있었는데요.. ^^; 
+ *  1. 그냥 기장만 잘라달라고 할 때는 
+ *     Can you cut the bottom of the both legs? 라고 해도 되고요, 
+ *  2. 민자로 쌀뚝 자르기만 한게 아닌 박음질(?)밑단을 넣고 싶을때는
+ *     (1번 문장)+ and hem them? 
+ *  3. 원래 (청)바지에 있던 밑단을 붙여서 자연스럽게 줄이고 싶을 때는 
+ *     (1번 문장) + But I WANT TO KEEP THE ORIGINAL HEM.라고 할 수 있어요﻿
+
 # 쓸만한 영어 - 감기 - 감기 걸렸을때 쓸만한 영어표현\감기가 독해\죽다 살아났어\그사람한테 옮았어\감기 기운이 아직 남았어\영어공부\영어회화
  * 날씨가 갑자기 확 추워졌어. 
  * 기온이 팍 떨어졌어.

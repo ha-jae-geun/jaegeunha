@@ -8,6 +8,7 @@
   * <> out of tuition
 
 # 대학
+* 수업을 듣다; take a course
 * #TA; teaching assistant; 조교
 * 표지 만들어야 하나; SHould we make out a title page for the essay?
 * 졸업생; alumni 미국식 [əˈlʌmnaɪ]; alumnus 미국식 [əˈlʌmnəs] 

@@ -9,6 +9,7 @@
 * 반면 Character는 도덕적 혹은 정신적인 자질을 일컫는다
 * 성격 좋다			 Bluewater is such a good natured. 블루워터 정말 온화해?
 * 성격이 나쁜 	까탈스러운, 성미가 나쁜 grumpy 미국·영국 [|grʌmpi] ;grumpy about : 떽떽거리는
+* 남편은 좀 더 현실적이거든요; He's a little bit more practical
 * #Irritable 
 * I haven’t gotten enough sleep recently and it’s making me irritable. 
 * 

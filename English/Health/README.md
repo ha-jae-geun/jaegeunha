@@ -1,4 +1,8 @@
 ## 기타
+* 고산병; altitude sickness
+* 뻐근해? Are you sore?
+* 안락사 시키다; administer euthanasia
+	* will be put to sleep
 * 조직검사를 하다; take/get a biopsy 미국식 [-ɑːpsi]
 * 샘플은 소독 후 작은 조각으로 잘라집니다; the sample is sterilized and cut into small pieces  [ˈsterəlaɪz] <> sterile 미국식 [ˈsterəl]
 * 통증이 그의 팔을 타고 전해졌따; A sharp pain suddenly shot along his arm
@@ -103,6 +107,7 @@
   방사선의 radiologist, 정신과 의사: shrink(psychologist: 심리학자와 구별 위함)
   수의사: veterinarian  [vètərənέəriən] = vet; 외과의사: surgeon
 * physician 의사, doctor 의사, surgeon 외과의, dentist 치과의사, patient 환자, medication 약물, fill the prescription 처방전을 발행하다, take medicine 약을 먹다, symptom 증상, signs 징후, * shot 주사, injection 주사, surgery 수술 #간호사 ##RN register nurse #RN; #right now
+* 주사를 놓다; give/make an injection
 * #밤샘 간호; #vigil
 * #건강검진 ; it’s good to get a #checkup #메스(수술용): scalpel [skǽlpəl]
 * #physical checkup = #medical exam

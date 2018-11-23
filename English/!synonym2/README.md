@@ -1,3 +1,12 @@
+* 스트레스; 스트레스 주는 일, 공부 생활 따위에 씀; stressful
+  * I've been under a lot of stress at work recently
+  * i'm really stressed out
+  * 편한말: i'm stressed out
+  * 속어; i'm stressing
+  * 스트레스를 주다; my mom keeps stressing me
+* 관련이 있다; have something/anything/nothing to do with
+  * have a lot to do with
+  * -와 관련이 거의 없다: have little to to with
 * bring
   1. 말하는 사람이나 듣는 사람 중 한명이라도 목적지에 있는 경우
   2. 말하는 사람과 듣는 사람 둘다 목적지 밖에 있을 때, 나중에 둘다 목적지에 가서 시간을 보낼 경우

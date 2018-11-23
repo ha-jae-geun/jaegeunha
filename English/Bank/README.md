@@ -26,6 +26,9 @@
 * 법화; Legal tender
 * 우린 깡통 찼다고. We ain't got a pot to piss in.
 
+# 숙어
+* 믿을만 한거야; you can tae it to the bank
+
 # 은행
 * 총계가 ~이 나오다; ~come to 숫자; it came to whopping 1,1000 calores [ˈwɑːp-]  영국식 [ˈwɒpɪŋ]; 엄청큰
 * 사업 실패는 공매도에 의해 야기되지는 않는다 Business failure unlikely to be caused by short selling. 듣기 출처:Hansard	

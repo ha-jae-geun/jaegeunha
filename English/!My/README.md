@@ -1,3 +1,4 @@
+# 접두어, 일상, 대답, 말투, 질문, 필요
 # 무례하지 않은 부탁
 ## 친구 
 * Hey, let me +V
@@ -20,10 +21,12 @@
 * I said I would be ther as soon as I could
 
 # 접두어
+* -는 고사하고; let alone; let alone beer
 * 언젠가는, 위기가 올겁니다; at some point; ㅎ나순간에는: at one/this point
 	* 이제 심지어 아이를 갖기도 싫은 지경이야; i'm at the point where i don't even want to have kids
 * 모든 면에 있어서; in every facet of your life [ˈfæsɪt]
 * 내 세대에는; in my day
+* 내일부로/ starting tomorrow
 
 # 대답
 * 당연하지; THat's given
@@ -35,6 +38,7 @@
 * 자문자답; 맞아요 쉽지 않겠죠; Yes, it won't be easy
 
 # 말투
+* 싸울 땐 감정을 느낄 여유가 없다; THere's no room in war for feelings
 * 저는 항상 막판에 닥쳐서 해요; i'm always last minute with everything that i do
 * 끝낼려면; If you need to wind it up
 * 난 내가 무슨 일을 하는 지 ㅇ라아; i know what i'm doing
@@ -61,6 +65,14 @@
 * -는 언제 끝날 것 같애; when do you think; you'll be done with A
 
 # 일상
+* 식은죽 먹기야; got the piece of pie
+* 전혀 떠오르지가 않네; doesn't ring a bell
+* 믿을만 한거야; you can tae it to the bank
+* 3개월 할부로 계싼해주세요; Please pay by 3-month installments
+* 눈 딱감고 하다; Bite the bullet
+* 습관을 기르다; pick up a new behavior/habit
+* 당분간은 여기 머물러야 할 것 같애; I will have to stay here for the time being
+* -하는 것이 낫다; He's better off -ing; using it to experience
 * 검사와 합의하도록 도와줄 수 있어; i can help you cut a deal with the DA
 * 결국 정신을 차릴거야; Eventually, he'll come to his senses
 * 시간을 주다; give somone a sec

@@ -2,6 +2,8 @@
 * 한국은 압수하면 국고로 들어간다.
 
 # 나쁜짓
+* 그럴듯하게 속이다; put on a show; they put on such a good show at first
+* 위법이다; It's against regulation
 * 그들은 합의를 이끌어 내도록 강요받았다. [also VN to  inf.] [VN] They were coerced into negotiating a settlement. 
 * 미디어의 과장된 선동과 여론의 두렴을을 이용하다; The media's tendency to sensationalize and play upon the public's fear; play upon
 * 유권자들을 조종하다; manipulate voters
@@ -16,6 +18,9 @@
 * 오늘 바바리맨 봤어; i saw a flasher today
 	* 바바리맨에게 당했어요; i've been flashed so many times on the train
 * 수상한 남자를 데리고 있다; they've got this creeper guy
+* 쟤가 스파이야; he's the rat
+* 우리는 책임이 있을 법한 용의자들을 체포해ㄸ싸; we've rounded up the only criminals
+* 독심술 기술을 사용할거야; most advanced mind reading technology
 
 #경찰서 #법원	#형사 police(2번째 강세)
 * #관할권; 관할권이 없다;  have no jurisdiction 미국식  영국식 
