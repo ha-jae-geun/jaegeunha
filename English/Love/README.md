@@ -737,7 +737,8 @@ I have a big crush on you / I have a thing for you, i'm into you
  * 나가지 반쯤 감긴 눈을 비비면서 싸구려 커피 한잔을 마셔 빈속으로 ‘stʌmək
  * Rubbing my half-closed eyes Drinking a cheap cup of coffee with an empty stomach
  * 저랑 3개월만 연애 하실래요? 진하게
- * Do you want to go out with me just for 3months? Deeply in love
+ 	* Do you want to go out with me just for 3months? Deeply in love
+ 	* 비밀 연애하다; We're secretly dating = We're secret lovers
  * 말 바꾸지 마							 Don't change the subject.
  * 날 속일수 없어								 You cannot fool me.
  * 난 애타는데 넌 뭐니?					 I am burning up but what about you?

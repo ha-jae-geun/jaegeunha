@@ -18,12 +18,8 @@
 		* 대표적인 미국 아침식사: 에그 베네딕트: 위: 계란+베이컨(미국) 아래: 잉글랜드 번(영국)
 		* 할리우드 영화 속 악당 중엔 베네딕트가 많다
 
-# 기타
-* 민간인들에게 출입 금지구역입니다; THis dock is off limits to civilians
-* 대체 복무를 하다; doing alternative service in a state-run corporation
-* 모든 사람을 자네 손으로 지휘하곤했었는데, you were running everything and everyone
-* 현역 복무중이다; ~ is on the active list
-* 군대 면제당하면; even if BTS were to be exempted
+# 단어
+* 무장 병력: armedf forces, 군비 확장 경쟁; arms race
 * #unit #platoon #divison #army of soldiers
 * ☆소대: platoon, 중대: #company #battalion: 대대 #division: #사단 #여단; #brigade
 * #야전군; #field army
@@ -36,19 +32,11 @@
 * #운전병; 운전병을 배치하다 웹수집 웹수집 도움말 단어장추가 arrange #driver
 * #fire team; #공격대
 * #squadron; #분대
-* 제대로 #훈련 시켜보자 			 Beat someone into shape; Let’s beat ‘em into shape
-* #다듬다 #대비시키다 Our junior employees are being #groomed for more senior roles
-* #단련; be #schooled
-* #자기 훈련; #self control = #self-discipline
-* #훈련소 들어가; I start basic training next month
-* #훈련 #조직적이지 않다; #ill-discipline
-* #면회를 거저하다; #deny oneself
 * #군인 #soldier (on) (through); 극복하다
  #해군; #navy;  #naval commander / base / officer: #장교 / battle
 * #입대 #join the #millitary/#service
 * #육군? 해군? Which #branch
 * #기수단 #coor guard
-* #병력 #충원하다 #reinforce/#supplement/#recruit the #troops
 * #군대;‘ #Levies
 * #신병 훈련소 									 boot camp 
 * #징병; #conscription 미국·영국 [kən|skrɪpʃn]; conscription age/law
@@ -56,6 +44,21 @@
 * #교관 			 #피도 눈물도 없는 as hard as nails; The drill sergeant is as hard as nails
 * (군사) #베트콩 [|ɪnfəntri] 						 infantry regiment
 * #특공대 								 commando
+
+# 기타
+* 민간인들에게 출입 금지구역입니다; THis dock is off limits to civilians
+* 대체 복무를 하다; doing alternative service in a state-run corporation
+* 모든 사람을 자네 손으로 지휘하곤했었는데, you were running everything and everyone
+* 현역 복무중이다; ~ is on the active list
+* 군대 면제당하면; even if BTS were to be exempted
+* 제대로 #훈련 시켜보자 			 Beat someone into shape; Let’s beat ‘em into shape
+* #다듬다 #대비시키다 Our junior employees are being #groomed for more senior roles
+* #단련; be #schooled
+* #자기 훈련; #self control = #self-discipline
+* #훈련소 들어가; I start basic training next month
+* #훈련 #조직적이지 않다; #ill-discipline
+* #면회를 거저하다; #deny oneself
+* #병력 #충원하다 #reinforce/#supplement/#recruit the #troops
 * #PT체조 jumping jacks
 * #총대를 매다 								Who will take the bullet? 
 * ##연대 						 	 regiment 미국·영국 [|redƷɪmənt]

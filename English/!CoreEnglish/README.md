@@ -1,3 +1,4 @@
+* heart [hɑːrt], hurt [hɜːrt]
 * pork, fart; f 1. 2, 3박자 끌면서 발음; 
 * order; 혀가 입안에 어디에서 닿지 않게 오올하다가 그 자리에서 입천장을 살짝 치면서 떨어지는 소리에 덜; i ordered four hamburgers for my family; ham에 강세가 있어 바람을 내뱉음
 * where, what, which, when은 w 사운드; who는 h사운드

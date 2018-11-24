@@ -139,6 +139,7 @@
 
 
 #전화
+* 틀린 번호를 준거야; You got fake-numbered
 * 연락 엄청 오더라; it was blowing up
 * 인쇄 관련 문제일 경우에, 2번을 눌ㄹ주세요; For printing related issues, please press 2
 * IT 지원팀에 사원번호왁 ㅣ기의 ID가 포함된 이메일을 보내주세요; please send an e-mail to IT support quoting your employee number and system ID

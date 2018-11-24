@@ -73,6 +73,7 @@
 * 마음 놓고 먹는 날; Cheat day
 * 폭식; binge, go on a binge, overeat
 * 내일부터 다이어트 할거야; i will be on a diet starting tomorrow
+* 다이어트 그만해야할것같애요; i think i have to break the diet
 
 # 치과 
 * 치과 치료중이다; i had dental work done

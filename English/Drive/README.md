@@ -236,15 +236,16 @@
 * 과속 안했어; I wasn't speeding
 * #음주운전 
 * #지하 주차장 #underground parking lot
-* #지하; (땅속) #basement, #underground, #in the grave
-* 잠깐 차 세워봐							 Let’s pull over for a while
-* 차좀 빼주세요 please move your car, would you move your car plz?
-* 다음에는 #견인시켜버릴거에요 Next time I'm gonna get your car towed | get towed
-* (주차 딱지) 저 지불하고 싶습니다. 						 I wanna pay
-* #주차료를 내다; #pay the #parking ticket(#ticket)
-* 내 주차 자리야 That's my parking spot
-* 전면, 후면, 평행 주차하다 		 park head-in, park back-in, par·al·lel park[pǽrǝlèl]
-* back it in; 후진해서 주차해 = #Reverse park your car
+	* #지하; (땅속) #basement, #underground, #in the grave
+	* 잠깐 차 세워봐							 Let’s pull over for a while
+	* 차좀 빼주세요 please move your car, would you move your car plz?
+	* 다음에는 #견인시켜버릴거에요 Next time I'm gonna get your car towed | get towed
+	* (주차 딱지) 저 지불하고 싶습니다. 						 I wanna pay
+	* #주차료를 내다; #pay the #parking ticket(#ticket)
+	* 내 주차 자리야 That's my parking spot
+	* 전면, 후면, 평행 주차하다 		 park head-in, park back-in, par·al·lel park[pǽrǝlèl]
+	* 전면주차 해주세요; Prak your car front-in
+	* back it in; 후진해서 주차해 = #Reverse park your car
 * #브레이크 왜 브레이크를 밟는거지?			 Why did you put on the brake?
 * 교차로에 대요 						At that intersection, Pull over
 * #정차; #pull up; 몸시 꾸짖다, 비난하다, 멈춰서다; he pulled up at the traffic light

@@ -1,6 +1,7 @@
 # 프로그램
 * 광고 보시고 잠시후에 돌아오곘습니다; We'll be right back after a few words from our sponsors
 * 꽁트에 참여해주셔서 감사행; Thank yoou for being involved in that sketch
+* (음반, 영화)판촉물/광고를 만들었따; they made a promo video
 
 # Radio
 * 라디오 날씨 최신 정보를 듣고 계십니다; YOu are listening to Radio weather update
@@ -10,6 +11,7 @@
 
 
 # 연예인
+* (2차 면접 등을 위한) 재통보; Call back for roles
 * 공연장은 이렇게 생겼어요; this is what the venue looks like
 * 소녀팬이 된 기분이야; i'm like fangirling
 * 파리에서 런웨이에 오르신다면요; so you're walking in the runway in Paris?

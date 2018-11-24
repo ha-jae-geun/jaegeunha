@@ -1,3 +1,13 @@
+* -를 위해 손을 뻗다; reach out a hand to
+  * -를 잡으려고 두 손을 뻡다; reach out a hand for
+  * -에게 연락하다; Reach out to 사람;
+  * 관심을 가지고 다가가ㅏㄷ; reach out to 사람;
+* 유명하다; be famous for <> be best known for(유명 한것 중 최고)
+* make love: have sex; make out: french kiss
+* 15달러의 영화표를 지불하게 만들다; get you to cough up 15 bucks for a movie ticket
+  * 그는 각혈을 하고 있따; He's been coughing up blood
+  * 빨리 말해; Cough up
+* 비밀 못지켜; She never keeps secrets = SHe's big mouthed = He's got diarrhea of the mouth
 * 스트레스; 스트레스 주는 일, 공부 생활 따위에 씀; stressful
   * I've been under a lot of stress at work recently
   * i'm really stressed out

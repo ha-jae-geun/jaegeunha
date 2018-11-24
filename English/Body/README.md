@@ -972,9 +972,10 @@ Shut up pipe down> Silence > Hush > Be quiet >=Keep it down >= would you keep it
 * 숨을 쉴 수가 없었어.				 I couldn’t breathe at all. = I could hardly breathe. 
 * 한숨 자고 일어나면 머리 아픈 거 없어질 거야. 			 You can sleep off your headache.
 * #침뱉다 #spit at/to her
-* #침; #spittle
-* little bit of spit jus came #flying out;
-* 나는 마른 침을 삼켰다. 							 'swɑ:loʊ I swallowed.
+	* 침튀기지 말고 말해; Say it don't spray it; you spit on someone
+	* #침; #spittle
+	* little bit of spit jus came #flying out;
+	* 나는 마른 침을 삼켰다. 							 'swɑ:loʊ I swallowed.
 * 가래 									 [flem] phlegm
 * #한숨 ##침 #가래
 * #입꼬리 #twinge; I feel the twinge on my upper smile
@@ -1032,6 +1033,7 @@ Shut up pipe down> Silence > Hush > Be quiet >=Keep it down >= would you keep it
 * #평발; #flatfoot
 * ##발
 * 근육이 뭉쳤어요								I've got #knots
+	* It's really knotted up
 #근육
 * * #지성 피부에 맞는 건 좀 추천 해주시겠어요? Can you recommend something for #oily skin?
 * #수두에 걸렸어. 								 I have chicken pox

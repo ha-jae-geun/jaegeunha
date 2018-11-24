@@ -37,6 +37,7 @@
 * 고마워요; Cheers mate(영국)
 * 자문자답; 맞아요 쉽지 않겠죠; Yes, it won't be easy
 * 섬뜩하네요; Creepy
+* 어쩌라고; Whatevs
 
 # 말투
 * 싸울 땐 감정을 느낄 여유가 없다; THere's no room in war for feelings
@@ -66,8 +67,12 @@
 * -는 언제 끝날 것 같애; when do you think; you'll be done with A
 
 # 일상
+* 위험을 무릎쓰지 않을거야; i would never run the risk of getting infectedd; run the risk of
+* 총기 폭력이 없는 나라를 지지합니다; i stand for a nation without gun violence <> stand against
+* 그와 관련된 속석이 있어요; IT's a myth tat; there is some sort of myth around that
 * 뜸들이지마; don't leave/keep me in suspense
 * 왜 화를 내세요; Why are you flipping out?
+* 맹세해; i cross my heart and hope to die
 * 식은죽 먹기야; got the piece of pie
 * 생각해볼게; Let me sleep on it
 * 난 입찰에서 발을 뺐어야 했어; i had to back out of the bidding

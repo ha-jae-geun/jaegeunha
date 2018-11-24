@@ -24,6 +24,8 @@
 * secretary; 간단히 설명: brief
 * 배너가 걸려있는; banner suspended
 * Bush line one side of the walkway; run along, line, extend, surround
+* Soon / shortly/ immediately / right / promptly + before/after
+* principal: 주요한, 주된, 주연배우, 학장, 총장
 
  접속사
 * or: 그렇지 않으면(명령문 아니여도)

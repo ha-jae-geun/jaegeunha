@@ -11,6 +11,7 @@
 # 상품
 * 평범한 강아지들이 아닙니다; these aren't your standard run-of-themill puppies
   * run: 제품, 생산품; mill: 방앗간
+ * 맞춤 제작한 제품; bespoke shoes/tailor
 
 ## 유명 브랜드
 * DD; Dunkin donuts

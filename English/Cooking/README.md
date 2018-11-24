@@ -49,6 +49,7 @@
 * Sriracha; tabasco와 비슷한 아시아 식재료 중 하ㅏ
 
 # taste
+* 간이 하나도 안되어있네; Zero seasoning
 * 입맛 떨어졌어; i completely lost my appetite
 * 탄산수에 맛을 들이고 있따; i've been acquiring the taste for seltzer
 	* soda water, sparling water, club soda
