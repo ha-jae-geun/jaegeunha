@@ -21,12 +21,17 @@
 * I said I would be ther as soon as I could
 
 # 접두어
+* 돌이켜보면; In retrospect 미국·영국 [rétrəspèkt]
+* -라는 것은 놀랍지 않네요; It's no surprise that
+* -게 함으로서; In doing so
+* 오히려 더 힘들어지죠; If anything, it gets harder
 * -는 고사하고; let alone; let alone beer
 * 언젠가는, 위기가 올겁니다; at some point; ㅎ나순간에는: at one/this point
 	* 이제 심지어 아이를 갖기도 싫은 지경이야; i'm at the point where i don't even want to have kids
 * 모든 면에 있어서; in every facet of your life [ˈfæsɪt]
 * 내 세대에는; in my day
 * 내일부로/ starting tomorrow
+* 공정하게 말하자면; To be fair
 
 # 대답
 * 당연하지; THat's given
@@ -38,8 +43,12 @@
 * 자문자답; 맞아요 쉽지 않겠죠; Yes, it won't be easy
 * 섬뜩하네요; Creepy
 * 어쩌라고; Whatevs
+* 좋아요, 한번 해보죠; Game on, Bring it on
 
 # 말투
+* -만이 중요한 건 아니다; be all and end all
+* -의 본보기다; be an exemplar
+* 이 불편러야; YOu freaking snowflake
 * 싸울 땐 감정을 느낄 여유가 없다; THere's no room in war for feelings
 * 저는 항상 막판에 닥쳐서 해요; i'm always last minute with everything that i do
 * 끝낼려면; If you need to wind it up
@@ -67,6 +76,23 @@
 * -는 언제 끝날 것 같애; when do you think; you'll be done with A
 
 # 일상
+* 딱잘라 부인하다; flatly deny; 퉁명스럽게; She said flatly
+* 원점으로 되돌아오다; i've come full circle
+* 부모님에게 보답하고 싶어; I can't wait to give back to my parents
+* 개인의 생명 하나하나를; Every single -
+* -에게 명확해지다; dawn on someone; it never dawn on someone
+* 밑바닥을 치고 있을떄의 모습이다; hit rock bottom; I was at rock bottom
+  * 더 이상 내려갈 바닥이 없다고 생각했죠; i couldn't get any lower
+* 근데 그쪽이 나타났죠; Then you came along
+* 그 생각이 머리 속을 스쳤다; This thought crossed my mind
+* 나는 항상 늦는거 같아요; i always seem to be running late
+* 선택의 폭이 어느정도 좁혀졌기 때문에; I've narrowed it down
+* 뒤쳐지는게 두려웠따; i was always scared that ia was falling behind
+* 어디있었는지 ㅁ라해봐; Tell me where you've been
+* 그건 내가 정하지; i'll be the judge of that
+* 이거 놔; Let go of me
+* 진정해; Chill out
+* 정신차려보니 병원이었어; The next thing i knew, i was in the hospital
 * 위험을 무릎쓰지 않을거야; i would never run the risk of getting infectedd; run the risk of
 * 총기 폭력이 없는 나라를 지지합니다; i stand for a nation without gun violence <> stand against
 * 그와 관련된 속석이 있어요; IT's a myth tat; there is some sort of myth around that
@@ -163,6 +189,7 @@
 
 
 # 연결어
+* -할것 같다; be likely/unlikely to
 * 최소한 그들에게 -해줘야 한다고 생각합니ㅏㄷ; the least that + 주어 + deserve is; the least that they deserve is
 * ~하는 사람; i'm the one who ~
 * Because, since 대신에 분사구문 쓰면 고급 언어
@@ -208,13 +235,17 @@ it을 붙여줘야 한다.
 * 다른 생각이 안들고 막 땀 흘리면서 스트레스가 풀리나봐요.                                     	 * #take mind off
 * Maybe it takes your mind off it. And you're like you #kind of sweat out the stress
 * 한국 음식은 약간 자학적인 경향이 있구나  There is a #sort of masochistic tendency in korean food.
-* 약간 더 서양적인 음식                                                                   	 It's slightly more a western type
-* #a little bit #little bit xxx
-* #다소간; #to a degree
-* #ish; 약간, 대충, #yellowish
-* 나 약간 제정신 아니야' i'm touch crazy, of course
-* /#약간 ##막
-* 1. 내가 알기로는
+  * 약간 더 서양적인 음식                                                                   	 It's slightly more a western type
+  * #a little bit #little bit xxx
+  * #다소간; #to a degree
+  * #ish; 약간, 대충, #yellowish
+  * 나 약간 제정신 아니야' i'm touch crazy, of course
+  * /#약간 ##막
+* 엄청; it is wicked dangers
+  * 매우; far too much
+  * 그정도로 컸어요; It was that loud
+
+# 1. 내가 알기로는
 * #As far as I know, #based on what I know, #according to what I know, #to my knowledge.
 * As far as I know(understand), that movie is releasing this week.
 * *To my knowledge 격식을 갖출때

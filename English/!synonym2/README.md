@@ -1,3 +1,19 @@
+* 대처하다; cope with; 목적어 없이도 쓸 수 있음; 해결이 어려운 상황에서 견딘다는 느낌으로 씀; i'm not coping too well
+  * deal with; 목적어를 항상 받는다; 해결하다, 처리하다; deal with the mess
+* 묶어놓다; i tied the dog up outside
+  * 연관되다; These two incidents are closely tied up together
+  * 돈 등을 묶어두다; All money is all tied up in this investment
+  * 일을 마무리하다; Let's tie up the deal
+* 근거; basis; have no basis on reality
+  * 기준: you have to check this on an hourly basis
+  * 주성분; The basis of this snack
+* under one's belt; 
+  1. 마시다; i already had three bottles of beer under my belt
+  2. 난 석사 학위가 있어; i've got a master's degree under my belt
+* have a sense of humor/guilt/beloning/direction/responsibility
+* 폭발이 났을 떄; When the explosion went off
+  * 불이 꺼졌다; The lights went off
+  * 알람 등이 울리다; The alarm went off
 * -를 위해 손을 뻗다; reach out a hand to
   * -를 잡으려고 두 손을 뻡다; reach out a hand for
   * -에게 연락하다; Reach out to 사람;

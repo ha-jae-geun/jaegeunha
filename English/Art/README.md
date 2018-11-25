@@ -8,8 +8,12 @@ Michelangelo is a piece of Lewis Sans who shows talent in sculpture, sculpture, 
     The shape is in the stone from the beginning. I just shaved off unnecessary parts.
 
 # 그림
+* 내 침실에 어떤 색 조합을 쓰는게 좋을까? Which color scheme should i choose for my bedroom
 * 수채화로 그렸다; I painted with watercolor
 * 낙서에 약하다; i'm very terrible at doodlingㅈ
+* 저는 그냥 이렇게 저렇게 끄적이는 거에요; i just doodle
+* 묘사하다; describe: 말과 글로 묘사하다
+	* depict: 말과 글 뿐만 아니라 이미지, 소리, 영상 등으로 묘사; depict the death of Socrates
 
 # 단색화
  * 단색화의 특징은?

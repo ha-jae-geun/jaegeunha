@@ -1,3 +1,25 @@
+* 스티브는 복이 터졌따; Steve's living the dream
+* 이 여자는 압박감 속에서 강하다 this woman is a brick wall
+* 그의 백악관 입성의 길을 닦아준; paved one's way to the White house
+* 그녀를 만나기 위해 모여들고 있지만; - is flocking to meet her
+* 그 정의는 일본인들은 특별하다는 미신에 기반하고 있어요; It's built on a myth; A is built on B
+* 레고는 리암이 제일 잘하는 거죠; Liam's big forte is his Lego; 포트
+* -면에서는; Career-wise, Business-wise
+* 그의 책에는 가족이 많이 등장합니다; Family crops up a lot in his book
+* 저는 여기 있어야 한다는 사명감을 느껴요; i feel a calling to be here
+* 모든 가능성이 분명히 남아있따; All options remain on the table
+* 전형적인; quintessential 미국·영국 [kwìntəsénʃəl]
+* 이 세계를 대신해서; on behalf of the world
+* 말이 안되는 것 같지만; Bold statement, 
+* 완전히 망하다; - go belly-up; 동물이 죽을 때 뒤집어진다
+* 플레이어의 성패가 달린 네모칸; - make you or break you; 
+	* make or break him as a manager
+* 일본 사람들으 뇨리를 재해석했습니다; Japan has put its own spin on the dish; put a spin on
+* 아무것도 안하고이잖아; they are just sitting around
+* 발언권이 있다; have some(no) say in; we have little say in leep preference
+* 완전히 옳은; right with a capital R; i'm hungry with a capital H
+* 통계를 왜곡하다 to skew the statistics 
+* 시간은 느려지다가 완전히 멈춰버리죠; Time slows to a standstill; be at a standstill; 완전히 멈춰지다; come to a standstill
 * 줄 설 떄는 복불복인데; a little hit-and-miss in terms of lines
 * -가 -를 얻게 해주다; S + earn + them + the name; 엘리스가 주연을 얻게 하다; earned Alice the leading role
 * 몰래카메라 아닌가요? Maybe we're being punked?

@@ -1,4 +1,6 @@
+* mmorning people <> night owls/late nighters
 * go off to bed = #slumber = #catch so me Z's #잠자기; a #slumber party
+* 난 잘 잤어요; Did you slep well -> Did you get a good night's sleep / Sleep tight / Have a good night's sleep
 		#crash on the couch = #conk out = #sack out = #hay out #Hit the sack/#hay 
 * #sleep over; #stay over at my uncle's place
 * be fully slept

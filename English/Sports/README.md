@@ -34,6 +34,7 @@
 * 개해엄; dog paddle
 
 # Gym
+* 근육 자랑 좀 해봤어용; I was flexing; 근육, 힘을 과시하다
 * 운동 겸 걷는게 좋지 않나? Don't you think we better walk for exercise?
 * 나 살쪘어; i gain/put on weight
 * 어떤 운동 주로 하세요; what kind of exercise do you do
@@ -54,6 +55,7 @@
 * 시험자는 체력장에서 허리 힘을 검사 받는다.An applicant is tested for back strength at a physical examination(체력장) as others wait for their turn
 ---------
 * 「스포츠」 	#스포츠
+* 심판; 축구, 농구, 권투: refree; ref; 야구, 배드민턴, 탁구: unpire; 체조, 스케이팅, 다이빙 등 점수 매기는 것; judge
 * 8세 이하 선수권 대회에 등록했어; They signed me up for the eight-and-under championship
 * 맨 앞 좌석을 구했어요; We've got front row seats
 * 판정승까지 갈 줄 알앙써; i expected them to go the distance

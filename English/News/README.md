@@ -11,18 +11,27 @@
 
 
 * 뉴스 있어? Is there any news? / Any news?
+* 현 시점 보도된 바에 따르면; As far as reports suggest at this stage
 * 장안의 하제; The issue has become the talk of the town
 * 일단 제 50조가 효력을 갖기 시작하면; Once article 50 has been triggered
 * 현재 상황을 고려할 때; Given what's unfolding in Syria; Give n the fact that
 
 # 정치
+* 트럼프 정부; Trump coalition [ˌkoʊə-]  영국식 [ˌkəʊəˈlɪʃn]
+* 섹스 스캔들 폭로 사건이 수년간 있었쬬; There were bimbo eruptions over the years
 * 국수주의자; nationalist -> 군사적 공격행위; Kingoism
 * 보도기관에서 특종기사를 경쟁계에 있는 타사보다 앞서 보도: scoop
 * 비쌀수록 좋다고 하여 허영심에 의한 수요 유발; Verblen effect; 베블런 효과
 * 극찬하다, 칭찬하다; trump set to tout Senate wins in enws conference [taʊt]
-
+* 분쟁에 합의하다; settle the dispute; for thirteen
 
 # 사회
+* 회의장은 -가 맡았다; The meeting was chaired by Mr.Redford
+* 교육 자금이 매우 크게 절감이 되었습니다; THere has been very deep/large cuts
+	* - had to take a 20% cut in pay
+* 몇몇은 치료를 위해 헬리콥터로 이송되었습니다; SOme people were airlifted for medical attetion
+* 사상자가 많이 발생했다; There were multiple casualties;
+	* fatality: 사망자만 가리킨다; casualty: 사망자, 부상자
 * 그녀는 자기 역할을 충분히 하고 있지 않습니다.  she's not pulling her weight: ‘pull one’s weight
 *  24시간 파업 중이다 are on a 24-hour strike:
 * 집회에 참가하다 take part in a rally: 
@@ -39,8 +48,11 @@
  [-ˈter-]  영국식 [hjuːˌmænɪˈteəriən]
 * 팔레스타인 난민을 봅다; i visited Palestinian refugees
 * 안락사 반대 단체들이 그들을 막기 위해 집결하며; an euthanasia opposition groups mobilized to stop them [ˈmoʊ-]  영국식 [ˈməʊbəlaɪz]
+* 단식투쟁을 하다; go on hunger strike; 파업 참가자: striker, hunger striker
 
 # 세계
+* 그가 집권한 후; Since he came to power
+* 폭발이 났을 떄; When the explosion went off
 * 해외 속보입니다; Breaking news overseas
 * 김정은은 핵 실험을 핵심 구절로 삼았습니다; 김정은 turning his nuclear tests into a punchline
 * 한반도 비핵화도 약속했습니다; Pleding the denuclearization of the peninsula

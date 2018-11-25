@@ -1,3 +1,6 @@
+# 단어
+* 저는 함께 논쟁할 수 인쓴 사람을 원했어요; i wanted somebody to be able to tangle with
+
 # 구조
 1.  참고: 뉴스, 책, 논문
 2.  목차

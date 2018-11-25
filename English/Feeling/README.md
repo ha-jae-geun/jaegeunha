@@ -1124,7 +1124,9 @@
 * #어색 #쫄다 #떨다 #긴장
 
 
+
 # 우울
+* 울적해하다; She languishes in the bath
 * 눈물이 나다; i got teary-eyed
 * ☆i'm no happy, i'm #bummed out(또래, 아래 사람), i'm #gloomy
 * #depressed, #blue, #dejected - 우울한, 암울한 
@@ -1216,6 +1218,7 @@
 * 김대리 #욱해서 가버렸어. 			 hʌf 김대리 went off in a huff yesterday.
 * #발끈하지마!						 Don't blow your top! lose one's cool. 
 * #in the heat of the #moment; 발끈해서, 흥분해서; I was in the heat of the moment
+	* -에 대해 흥분하다; be jazzed about
 * 홧김에 베프랑 절교했어 			 I cut off with my best friend in a fit of anger
 * #flip out; 벌컥 화내다
 * #throw a fit(#fit); #성질부리다, #졸도할 지경이 되다
@@ -1571,6 +1574,7 @@ I am always overlooked(간과), never discount the contributions, put someone do
 
 
 # 짜증
+* 짜증을 내다; have/throw a (temper) tantrum
 * angry: 이유 있는 짜증; grumpy: 이유 없이 짜증(배고플 때)
  * be/get grumpy
 * be cross with; i'm cross with you
@@ -1588,6 +1592,7 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * 대박											Shut up!
 * 눈이 부었네. 								 Your eyes are puffy.
 * 부럽다, 질투한다. 				 I am so jealous. 40년전과 달리 같이 쓰임
+	* 자주 질투심을 느낍니까? Are you often consumed by envy/guilt?
 * 답답하다. 						 I am so frustrating. stuffy라는 말 X
 * 환기 시켜야 해. 							 I need to vent.
 * 스트레스 받는다. 				 I am so stressed out. (stressful X)

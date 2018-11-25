@@ -142,6 +142,7 @@
 * #발등; on the top of my foot
 * #medicine #drug; 공통점: 약 차이점: medicine: 먹는약 
 * #drug: 마약, 독약, 수면제, 마취제, 진통제(치료 목적 x); Don't take drugs; 
+    * 마약 주사하다; jack up
 * #제약회사; drug company, #약국: #drug store
 * #medicate; 약으로 치료하다 #medication; 투약
 * #medication; 바르는 약, 주사, 먹는약 모두 포함
@@ -228,7 +229,9 @@
 * #cholesterol-high
 
 
+
 ## 병명
+* 리암은 어떤 질환을 앓고 있어요 - has a condition
 * 난독증 장애인들을 위한 쓰기 과정' Writing courses for dyslexics. 
 * #경련 #발작; the muscle is in #spasm
 * #천신발작; #asthma attack(#attack)

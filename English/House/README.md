@@ -481,13 +481,17 @@
  * : You have to make a tough decision like what to keep and what to get rid of.
 
 
+
+# 쓰레기
+* 쓰레기를 쓰레기통에 버렸어 			 I threw away the garbage in the trash can
+* 청소부가 바다에 떠다니는 스레기를 모았어; A chinese dustman collects floating rubbish from the river/net
+
+
 # 살다
 # 인새
 * 감수하며 살다; live with; live with for the rest of my life
 * 과거는 과거로 놔둬; 연연하지마; Let the past be past. Don't dwell on it
 * 나는 만사가 잘 안풀리는 날을 보냈습니다; i had one of those days
 * 인생을 즐기다; enjoy the ride
-
-# 쓰레기
-* 쓰레기를 쓰레기통에 버렸어 			 I threw away the garbage in the trash can
-* 청소부가 바다에 떠다니는 스레기를 모았어; A chinese dustman collects floating rubbish from the river/net
+* 그달 벌어 먹고 살아가다; live paycheck to paycheck
+* 정신적인 삶의 균형이 깨져버립니다; Your mental life is thrown out of all proportion

@@ -37,6 +37,7 @@
 * 양말 뒤집어졌어; YOur socks are inside out
 * 양말 짝짝이; Mismatched
 * 발가벗다; 누드; completely starkers
+* 아이들은 엄마의 치맛자락을 잡고 늘어졌따; THe kids hung on to their mother's skirt
 
 # 재료
 * 이 털실이면 될까? will this yarn work?
@@ -278,6 +279,7 @@ are you afraid of heights? your zipper is
 
 
 # 세탁
+* 세탁소; Dry cleaner's, the cleaner's, laundry store/shop
  * 엉덩이랑 허리라인에 맞게 맞춰주세요; Can you alter the waistline and hips to fit?
  * 바지폭좀 줄여주세요; Can you tailor the width of the pants for me?
  * 물 세탁 - washable

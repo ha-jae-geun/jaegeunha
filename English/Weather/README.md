@@ -1,4 +1,5 @@
 * 나쁜 날씨: #inclement weather
+* 제철이다; not in seasonn = out of season
 
 # 비 
 * 소나기를 만나다; i was caught in a shower on the way here

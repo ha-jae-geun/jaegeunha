@@ -4,8 +4,11 @@
 * 남편, 상대, 아내, 여자친구; significant other
 * 만성형의 사람; late bloomer
 * 난 지금 선동자야; i'm an instigator
+* 남을 차구히하는 사람; bottome-feeder
+	* 공장에서 착취당하는 노동자; be exploited
 
 # 나이
+* 30대쯤으로 보여; She looks somewhere in ther thirties
 * Do you mind if I ask your age?
 * #동갑이야 She is your age #또래인 of my age 한 살 #차이: ~ and I are one year apart
 * ~ is of the same age

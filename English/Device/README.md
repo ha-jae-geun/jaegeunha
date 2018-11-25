@@ -4,8 +4,8 @@
 * #상자 box	crate(kreɪt), carton[‘kɑ:rtn], #bin
 * 상자에 담다: #box up
 * 악기-(musical) instrument 모든 장비(equipment)
-* machine<equipment
-* hammer<tool
+* machine equipment
+* hammer tool
 * 저 기계치에요 								I’m bad with electronics
 * equipment / material / gear / kit / apparatus
 * 소방관들을 위한[소방관용] 산소 호흡기 		 æ̀pǝréitǝ breathing apparatus for firefighters
@@ -59,7 +59,8 @@
 * fix up with someone
 * 내 친구가 소개 해줘서 만났어요				 My friend fix/#set me up with a guy. 
 * #바로잡다 #get something #right
-* 수리점; 자동차 수리점 ; #카센터 			repair shop, car repair shop, car service sation
+* 수리점; 자동차 수리점 ; #카센터 			repair shop, car repair 
+shop, car service sation
 * 고치려고 하지마(아이언맨) 			 Try not to bring it to life. : 고치려고 하지 말게.
 * 다 띁어 고치다. #make-over; I want to make over the entire house.
 * 고칠 수 있어?								 Can you fix it? 
@@ -95,6 +96,11 @@
 * 경비원 보내주세요 Can I have #security, please?
 * #경호원; #security person
 * #개량; #improve
+
+
+# 수리
+* 수리가 필요하다; - need attention
+
 * #수리 #개조 #개량 #보증 #보수 #경비 #고치다 #바로잡다 | #수정 #조정 #교정
 * ■ covered 복습
 * ○ A replacement battery is not covered by the warranty (배터리 교환은 무상으로 되지 않습니다)

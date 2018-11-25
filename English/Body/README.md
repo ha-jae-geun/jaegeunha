@@ -698,6 +698,7 @@ in the face of something
 * #hear hear; = #right on #옳소 옳소
 * ~라고 들었어 ##i heard 1. 허r디스 2. 허r리스 = I was told
 I’m told
+* 귀가 먹먹했어요; THis ear's all blocked
 * 귀지 ear wax
 * 직접 들었어야 했는데 					 I hade to get it straight from you
 * #bend your ear; 			 중대한 할밀이 있어; I need to bend your ear for a minute

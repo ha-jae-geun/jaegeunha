@@ -20,6 +20,7 @@
 * 보조 케이블도 있어요; i got the auxiliary hookup [ɔːɡˈzɪliəri]
 
 # 사진
+* 얼굴 사진, 상반신 사진; mugshot
 * 대강 찍음; hip shot/blind fire; no more hip shots or blind fire
 	* 그냥 찍는걸 목적으로 대충 찍다; just snapping it for the sake of just snapping it
 * 이 각도로 찍어주실래요? Could you take us from this angle?
@@ -140,6 +141,8 @@
 
 #전화
 * 틀린 번호를 준거야; You got fake-numbered
+* 전화 겁니다; SHoot that through
+* 차단 완료; Blocked
 * 연락 엄청 오더라; it was blowing up
 * 인쇄 관련 문제일 경우에, 2번을 눌ㄹ주세요; For printing related issues, please press 2
 * IT 지원팀에 사원번호왁 ㅣ기의 ID가 포함된 이메일을 보내주세요; please send an e-mail to IT support quoting your employee number and system ID

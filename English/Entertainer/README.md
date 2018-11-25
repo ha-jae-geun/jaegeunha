@@ -22,6 +22,9 @@
 * 최애를 뽑은 개 아니에요; i'm not picking favorites; play favorites: 편애하다
 
 # 영화
+* 가벼운 영화; lighthearted movie <> heavy movie
+* 영화 초반에; In the beginning of the film / at the end of the film
+	* Near the end of the film
 * 요즘 영화 뭐있어? What movies are on?
 * ~ 아직 안나왔어? Are you showing ~ yet?
 * 영화 ~ 나왓어? Has ~ been released yet?

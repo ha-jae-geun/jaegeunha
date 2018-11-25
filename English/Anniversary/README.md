@@ -1,4 +1,5 @@
 * working day / Calender day / Banking day
+* New Years' Eve; -의 전날, 바로 직전
 
 # 크리스마스
 * #eggnog shakes; 연유+날계란
