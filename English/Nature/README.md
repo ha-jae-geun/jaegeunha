@@ -18,6 +18,7 @@
 * 지금 당장 수익이 줄어 살기 힘들다
 
 # 환경
+* 기후 변화에 보다 잘 견디는 식물; be more resilient to climate change
 * 오염시키다; contaminate; 곰팡이, 박테리아, 세균 등에 오염; a can of soup contaminated with this kind of mold p
 	* ollute: 불순물의 혼합, 직접적인 접촉, 일반적인 여러 원인에 의한 오염; 
 * 음식에 피는 곰팡이는 너무 다양해서; since so many types can sprout up on food
@@ -34,6 +35,9 @@
 * 그가 나를 쿡 찌르며 속삭였다. “방금 누가 들어 왔는지 봐.”; He nudged me and whispered, ‘Look who’s just come in.’ 
 * have a good/poor handwriting; 
 * 버스가 지나갈 때마다 창문들이 덜거덕거렸다 Every time a bus went past, the windows rattled. 
+
+# 자연재해
+* 소용돌이에 빨려들어가다; The ship got sucked down into the whirlpool [ˈwɜːrl-]
 
 ## 에너지
 * 태양열 전지판에 투자ㅏ하는 것도 방법이죠; invest in solar panels

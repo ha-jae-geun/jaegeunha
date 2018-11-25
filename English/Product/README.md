@@ -13,6 +13,7 @@
 * 평범한 강아지들이 아닙니다; these aren't your standard run-of-themill puppies
   * run: 제품, 생산품; mill: 방앗간
  * 맞춤 제작한 제품; bespoke shoes/tailor
+* 값싼 배터리들을 마구 생산해내고 있었다; The factory is pumping out too many graduates
 
 ## 유명 브랜드
 * DD; Dunkin donuts

@@ -1,3 +1,9 @@
+* 독점: monopoly, 단조로운: nonotone; 고독 공포증; monophobia, 획일적인: monolithic 미국식 [mɑ̀nəlíθik]
+* 가기로 하다; i signed up for the dinner
+  * 나 이거 하기로 한거 아닌데; i don't sign up for this
+* 잘못 만들어진 배터리가 이유다; It all comes down to poorly made batteries
+  * 전부 이 한단어로 요약된다; IT all comes down to one word
+* -라고 걸게요; i'd wager that / i bet
 * 대처하다; cope with; 목적어 없이도 쓸 수 있음; 해결이 어려운 상황에서 견딘다는 느낌으로 씀; i'm not coping too well
   * deal with; 목적어를 항상 받는다; 해결하다, 처리하다; deal with the mess
 * 묶어놓다; i tied the dog up outside

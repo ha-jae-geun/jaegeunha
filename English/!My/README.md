@@ -21,6 +21,7 @@
 * I said I would be ther as soon as I could
 
 # 접두어
+* 쉬운 용어로; In plain English
 * 돌이켜보면; In retrospect 미국·영국 [rétrəspèkt]
 * -라는 것은 놀랍지 않네요; It's no surprise that
 * -게 함으로서; In doing so
@@ -76,6 +77,10 @@
 * -는 언제 끝날 것 같애; when do you think; you'll be done with A
 
 # 일상
+* 과제가 너무 많아서 부담이 된다ㅣ; All these assignments are weighing down on me
+* 인기가 있는 데는 다 이유가 있다; She's popular for a reason
+* 두가지 측면에서 실패핳였습니다; The brazil project failed on two leves
+* 그래도 여성분들께 감사인사할게요; i'm just giving a shout out to the ladies
 * 딱잘라 부인하다; flatly deny; 퉁명스럽게; She said flatly
 * 원점으로 되돌아오다; i've come full circle
 * 부모님에게 보답하고 싶어; I can't wait to give back to my parents

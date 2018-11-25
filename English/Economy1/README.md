@@ -1,0 +1,1 @@
+* GDP 측면에서 전 세계에서 두번쨰로 큰 경제이다; It's the world's second largest economy by GDP

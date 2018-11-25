@@ -2,6 +2,7 @@
 * 한국은 압수하면 국고로 들어간다.
 
 # 나쁜짓
+* 삼성쪽에서 직접 사진을 유출했죠; Samsung leaked a picture
 * 그럴듯하게 속이다; put on a show; they put on such a good show at first
 * 위법이다; It's against regulation
 * 그들은 합의를 이끌어 내도록 강요받았다. [also VN to  inf.] [VN] They were coerced into negotiating a settlement. 
@@ -21,8 +22,13 @@
 * 쟤가 스파이야; he's the rat
 * 우리는 책임이 있을 법한 용의자들을 체포해ㄸ싸; we've rounded up the only criminals
 * 독심술 기술을 사용할거야; most advanced mind reading technology
+* 그는 좀 악당 같은 데가 있지만 아주 매력적이다. He’s a bit of a rogue, but very charming. 
+* 밀고; rat/snitch; on someone/ She was a rat
+* 조세제도에서의 허점을 발견했다; He found a loophole in the taxsystem
+  * 허점 이용, 장애물 피하기; expolit every loophole and doeged obstacles
 
 #경찰서 #법원	#형사 police(2번째 강세)
+* 범죄과학 감사를 실시할 예정이다; WE're going to do a full forensic audit
 * #관할권; 관할권이 없다;  have no jurisdiction 미국식  영국식 
 * the five-oh
 * police men = cops 미국 경찰: ##Johnny law
@@ -140,6 +146,8 @@
 * she has him on #lock.
 * ##lock
 * #감옥: #jail, #clink; 비속어; #federal prison
+  * 수감자; inmate
+  * 수감 생활중인; be behind bars
 * be #confined to jail #감금 = he was put into jail = he ended up in jail
 * #solitary; make #solitary confinement
 * get A imprisoned; #imprision
@@ -228,8 +236,10 @@
 * #공정한 재판; #fair trial
 * #재판장님 #judge; Your honor
 * #판결 #평결 Have you #reached the verdict?(#verdict)
-* 판결; the case was #ruled a suicide
-* #무기징역; #life sentence; overturn 
+  * 종신형으로 복역중이다; serve life sentences
+  * 강도로 18개월을 복역했다; served an 18-month sentence for theft
+  * 판결; the case was #ruled a suicide
+  * #무기징역; #life sentence; overturn 
 * #재심; #retrial
 * 어떻게 판결을 내리시겠습니까? #How say you
 * #선고; #sentence

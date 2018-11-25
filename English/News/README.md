@@ -17,6 +17,7 @@
 * 현재 상황을 고려할 때; Given what's unfolding in Syria; Give n the fact that
 
 # 정치
+* 정치인들은 음모론 없이 살 수 없다; Some politicians cannot live without conspiracy theories
 * 트럼프 정부; Trump coalition [ˌkoʊə-]  영국식 [ˌkəʊəˈlɪʃn]
 * 섹스 스캔들 폭로 사건이 수년간 있었쬬; There were bimbo eruptions over the years
 * 국수주의자; nationalist -> 군사적 공격행위; Kingoism

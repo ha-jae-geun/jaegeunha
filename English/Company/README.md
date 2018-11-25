@@ -5,6 +5,7 @@
 * 중소기업; SMEs; Small and Medium-sized Enterprises
 
 # 단어
+* 계약 내용을 정리해야 한다; Sort out the contracts
 * 취직하다; i finally landed a job
 * 아직 근무중이었어; i was still on the clock
 * 직업병; 습관: occupation hazard; 진짜 병: occupational disease

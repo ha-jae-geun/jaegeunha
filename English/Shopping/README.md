@@ -1,5 +1,7 @@
 # 단어
 * 판매자가 유리한 시장; they call a seller's market <> buyer's market
+* 적립카드 있으세요? Do you have a loyalty card?
+* 저희 희사는 시장을 공략하고 있습니다; Our companyy is going after the software market
 
 # 시장
 * 커다란 벼룩시장 같은 거에요; it's kinda like a big yard sale

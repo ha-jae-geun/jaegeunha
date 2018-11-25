@@ -482,8 +482,9 @@ build your core muscles
 * 축 처진 뱃살; #flabby gut
 * #군살; his body has no #flab
 * #허리 waist [weɪst]
-* #허리 둘레; #waistline 늘어나는 an expanding wisteline
-I hurt my back, I #throw out my back; threw his back out rock climbing
+	* #허리 둘레; #waistline 늘어나는 an expanding wisteline
+	I hurt my back, I #throw out my back; threw his back out rock climbing
+	* 잘록 들어간 옆부분: waist, 아래 부분; back, lower back
 * #뚱뚱한 여자; the #roll of waisteline flesh
 * Be kind of on the heavy side = got kind of big  = #chubby
 * 허리가 나가다; my back went out

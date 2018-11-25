@@ -6,6 +6,7 @@
 * 난 지금 선동자야; i'm an instigator
 * 남을 차구히하는 사람; bottome-feeder
 	* 공장에서 착취당하는 노동자; be exploited
+* 수감자; inmate
 
 # 나이
 * 30대쯤으로 보여; She looks somewhere in ther thirties

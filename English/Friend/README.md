@@ -20,5 +20,6 @@
 
 # 놀다
 * 말장난해본 겁니다; Pun intended
+	* 살짝 끼얹어본 농담인데요; a little tongue-in-cheek; idea
 * 항사 약간 빈정거리게 된다; we always get into a little bit of a banter
 	* i don't mind him exchanging banter with customers

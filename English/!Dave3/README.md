@@ -1,4 +1,12 @@
+* 나에게 큰 타격이었어요; it hit me hard
+* 이게 다가 아닙니다; This doesn't tell the whole story
 * 스티브는 복이 터졌따; Steve's living the dream
+* 그 사람은 예술에 대한 관점이 확고해; He has very pronounced views on art
+* 온갖 곳에서 오는 알림을 받다; You get this grab bag of notifications; a grab bag of
+* 사람들은 빨강에 끌린다; they gravitate to bright red
+* 아슬아슬한 외줄타기를 하고 있다는걸 깨달았쬬; realize the industry may be treading a fine ine / walk a fine/thin line
+* 그러한 생각들은 사라지기 시작할거에요; - start fading into the background
+* 경험이 많은 자원봉사자를 보고 배운다; shadow an experienced volunteer
 * 이 여자는 압박감 속에서 강하다 this woman is a brick wall
 * 그의 백악관 입성의 길을 닦아준; paved one's way to the White house
 * 그녀를 만나기 위해 모여들고 있지만; - is flocking to meet her

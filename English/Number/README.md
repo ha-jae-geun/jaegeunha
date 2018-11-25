@@ -1,6 +1,10 @@
 # 도형
 * 마름포; lozenge; 다이아몬드, 마름모꼴, 금연 사탕; lozenge 미국식 [ˈlɑːz-]  영국식 [ˈlɒzɪndʒ]
 
+# 표
+* 몇 십만명 정도로 고용을 줄이다; Cutting its workforce to a few hundred thousand
+* 비용을 최소화하다; We want to keep our costs at/to a minimum
+* 무역이 최대 500퍼ㅓ센트 증가했습니다; Trade increased by up to 500 percent
 
 # 번
 * once -> twice -> three times
