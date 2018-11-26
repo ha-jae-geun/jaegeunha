@@ -93,3 +93,6 @@
 
 ## 귤
 * 북한에는 오렌지는 있어도 귤은 없다;
+
+# 기타
+* 유통기한이 지났어요; THis is past the expiration date

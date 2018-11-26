@@ -1,4 +1,5 @@
 # 머리
+* 이불에 머리카락이 붙어있어; THere's a hair struck on the blanket
 * 빨간 머리; ginger
 * #머리 : 길이 > 스타일 > 색깔: has
 * #바리캉 						 Hair clippers, electric hair clippers
@@ -478,9 +479,10 @@ build your core muscles
 * #뱃살 belly fat; belly pooch; if you're dealing with the pooch  [puːtʃ] 
 	* 옷 입었을 때 튀어나오는 살: belly/tummy/stomach pooch / belly fat, love handle, muffin top
 	* 아기 낳고 난 다음 배; baby fat, baby-belly pooch
-* 뱃살 속어 got my dad bod
-* 축 처진 뱃살; #flabby gut
-* #군살; his body has no #flab
+	* 뱃살 속어 got my dad bod
+	* 축 처진 뱃살; #flabby gut
+	* #군살; his body has no #flab
+	* 너 여기 비곗덩어리 있어; YOu got some fat rolls right here
 * #허리 waist [weɪst]
 	* #허리 둘레; #waistline 늘어나는 an expanding wisteline
 	I hurt my back, I #throw out my back; threw his back out rock climbing

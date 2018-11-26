@@ -1,19 +1,21 @@
 * 「식당」 #식당 (1kӕfə2tɪriə cafeteria, restaurant) #dining room 식당식당 
+	* 나 끝내주는 식당 알아; i know this really good hole in the wall
+	* #exotic restaurant
+	* here or to go/ take out/ take away
+	* the food at that restaurant was not delicious(#restaurant 바로 붙이기 x); 유치해 보임
+	* #구내식당; #cafeteria = #canteen = #lunchroom = #dining hall = #refectory
+	* #간이 식당; #snack bar
+	* #분식; #flour-based food
+	* #뷔페; #all you can eat restaurant
+	* #무료 식당;#soup kitchen
+	* #bistro; 프랑스풍의 작은 식당이나 바
+	* #피자 가게; #pizzeria
+	* 가족 대대로 운영하는 홍콩의 숨겨진 딤섬 맛집 같은 곳; Kind of hole in the wall, family run dim sum restaurant
 * 저는 안먹어요; None for me
 * 바로 다시 준비해드릴게요; i'm gonna get this fixed for you right away
-* #exotic restaurant
-* here or to go/ take out/ take away
-* the food at that restaurant was not delicious(#restaurant 바로 붙이기 x); 유치해 보임
-* #구내식당; #cafeteria = #canteen = #lunchroom = #dining hall = #refectory
-* #간이 식당; #snack bar
-* #분식; #flour-based food
-* #뷔페; #all you can eat restaurant
-* #무료 식당;#soup kitchen
-* #bistro; 프랑스풍의 작은 식당이나 바
-* #피자 가게; #pizzeria
 * #품질; #quality, #품질보증; #quality guarantee
 * quality assuarance
-* #팁: 영국: 식당에서 20% 서비스 명목으로 자동으로 붙음, 미국은 15%~20% 각자 따로 식탁에 주어야 함
+* #팁: 영국: 식당에서 20% 서비스 명목으로 자동으로 붙음, 미국은 15%-20% 각자 따로 식탁에 주어야 함
 * 팁 얼마나 줄까? How much should we ##tip? -> Let's give twenty percent
 * 팁은 네가 내 you leave a tip
 * 팁은 선택사항이지 Tipping is an #option
@@ -27,7 +29,6 @@
 * #pigs in blankets(담요 속 돼지): 반죽에 쌓인 소시지 
 * #bangers and mash: 폭죽과 으깬거: 남은 고기 찌꺼기랑 이것 저것 섞은 것
 * toud in the hole: 
-
 * #place #fill #process an order
 * #주문 상태 #status of my order #주문 관련 번호; #reference number
 * 주문 하셨나요; are you being #wait on; waited on; 

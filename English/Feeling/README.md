@@ -19,6 +19,8 @@
 * 이용자 참여  나는 내 감정을 드러내지 않기로 정했다.  I choose not to wear my heart on my sleeve. 듣기
 * 막상 헤어지니 싱숭생숭해; i'm sitting on my feelings;
 * 악감정 있어; There's been bad blood between
+* 떠오르는, 남아있는 감정; hautning memory/melody; It haunts me everytime
+	* 죄책감; i was haunted by guilt
 -------------------------------------------------------------------------------------------------------------------
 * #expose, #uncover, #reveal - 드러내다 
 * #reveal; it's just revealed to me
@@ -760,31 +762,36 @@
 * 쉽게 동요하지 않는; #thick-skinned(#skin)
 * [동사] ~ (between A and B) (격식) (감정・행동이 양극을) 계속 오가다
 * Her moods #oscillated between depression and elation. 
-* #알았어 #저럴줄 #예상 #예고 #안내 #예측 #몽상 #뒤통수 #허를 찔림 #어이 없는 #터무니 없는 #황당 #당황 #당혹 #굴욕 #민망 #어리둥절 #뜻밖 #창피 #부끄 #수치 #쪽팔림 #찌질 #오글 #이불킥 #오그라 * #구차 #뻘쭘 #터무니 #동요
+* #알았어 #저럴줄 #예상 #예고 #안내 #예측 #몽상 #뒤통수 #허를 찔림 #어이 없는 #터무니 없는 #황당 #당황 #당혹 #굴욕 #민망 #어리둥절 #뜻밖 #창피 #부끄 #수치 #쪽팔림 #찌질 #오글 #이불킥 #오그라 #구차 #뻘쭘 #터무니 #동요]
+
+
+
+# 부담
 * 부담주다; put this on my #shoulder
-* #부담 지우다; #burden down
-* I don’t want to burden you = I don’t make you uncomfortable  = he is pressing me
-* #no pressure, i'm okay, feel free to 
-* #압력 단체; #pressure group
-* #중압; #strain
-* 압박을 덜다; take the #pressure off
-* The waiting game can #ramp up the tensions in others
-* #Ramp up the pressure
-* 니가 날 짓누르고 있잖아 			 weigh 사람 down; you’re weighing me down
-* 폐 끼치고 싶지 않아 							 I don't want to impose.
-* 난 전혀 부담스럽지 않아. 						 It's not imposing on me at all.
-* 인턴에게 압박을 줄 때가 있다. 			 for a new intern, I #pressure him to be more alert
-* 부담스럽나 봐요 						it's uncomfortable, #burdersome
-* 부담이 돼 								 is a burden to me
-* 부담 갖지마 									 No pressure
-* 부담이 가다; #take tolls; took its tollsf
-* weigh 사람 down; 						 you’re weighing 사람 down
-* 새 직업이 부담을 준다 						 Her new job would be demanding
-* 어떻게 부담감을 다스리나요? How do you handle pressure?
-* kick something off; # 날려버리다 it really kicks the pressure off
-* 마음이 가벼워지다; I feel #at ease
-* I feel like a weight has been lifted.
-* ##부담 #폐 #압박 #짓누루다
+	* 부담을 견디지 못했어; We couldn't take the heat
+	* #부담 지우다; #burden down
+	* I don’t want to burden you = I don’t make you uncomfortable  = he is pressing me
+	* #no pressure, i'm okay, feel free to 
+	* #압력 단체; #pressure group
+	* #중압; #strain
+	* 압박을 덜다; take the #pressure off
+	* The waiting game can #ramp up the tensions in others
+	* #Ramp up the pressure
+	* 니가 날 짓누르고 있잖아 			 weigh 사람 down; you’re weighing me down
+	* 폐 끼치고 싶지 않아 							 I don't want to impose.
+	* 난 전혀 부담스럽지 않아. 						 It's not imposing on me at all.
+	* 인턴에게 압박을 줄 때가 있다. 			 for a new intern, I #pressure him to be more alert
+	* 부담스럽나 봐요 						it's uncomfortable, #burdersome
+	* 부담이 돼 								 is a burden to me
+	* 부담 갖지마 									 No pressure
+	* 부담이 가다; #take tolls; took its tollsf
+	* weigh 사람 down; 						 you’re weighing 사람 down
+	* 새 직업이 부담을 준다 						 Her new job would be demanding
+	* 어떻게 부담감을 다스리나요? How do you handle pressure?
+	* kick something off; # 날려버리다 it really kicks the pressure off
+	* 마음이 가벼워지다; I feel #at ease
+	* I feel like a weight has been lifted.
+	* ##부담 #폐 #압박 #짓누루다
 * 왜 또 징징거려? 							 Why are you whining again?
 * 징징거린다; be a big baby about it; you'd be a big baby about it
 * #징징
@@ -1723,3 +1730,7 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * 무슨 고생까지 하다; to take the troulbe to do smoething
   * go to the trouble of doing something
   * 이렇게 직접 만나주시는것도 힘드셔을 텐데 정말 감사합니다; Thank you for taking the trouble to meet me in person
+
+# 참다 
+# 인내
+* 더이상은 못참겠따; i've run out of patience

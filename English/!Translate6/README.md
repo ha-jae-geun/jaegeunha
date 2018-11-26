@@ -1,3 +1,13 @@
+# [ LESSON #19 - PART 2 ] "짜증나" - annoyed / annoying / frustrated / frustrating
+* (지속적으로 느끼는 짜증)짜증난다; i'm annoyed; 
+* 내가 자려할 때 그가 자꾸 늦게 나한테 문자를 보내; He keeps texting me late at night when i'm trying to go to bed. 
+* 짜증나; It's so annoying
+* 어제는 너무 짜증나서 그냥 폰을 꺼버렸어; Las night, i was so annoyed. I just turned off my phone
+*  (어떤 일이 내 마음대로 안되서 답답해서 느끼는 짜증) frustrate
+  * 아무리 찾아도 차키가 없는거야; I couldn't find my car key anywhere
+  * 짜증났어; It was so frustrating
+  * 30분정도 지나서 너무 답답해서 포기하고 그냥 버스탔어; AFter about 30minutes i was so frustrated, i gave up and i just took the bus
+
 # [ 대화가이드#14 ] - "벌써 그렇게 됐나? 몇 달 밖에 안된 것 같은데"
 * 와 그러고 보니까 이걸 내가 벌써 1년 넘게 하고 있네.
   * (There is) Something (that) i just realized,  i've (already) been doing this for over a year(already)

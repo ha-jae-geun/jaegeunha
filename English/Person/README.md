@@ -7,6 +7,9 @@
 * 남을 차구히하는 사람; bottome-feeder
 	* 공장에서 착취당하는 노동자; be exploited
 * 수감자; inmate
+* 내 동료들이야; These are my assosiates
+* 115명의 식민지 주민을 두고간 채; leaving behind 115 colonists
+* 보호자 없이 관광을 했다는 명목으로 체포를 당했고; we were arrested for sightseeing without our minders
 
 # 나이
 * 30대쯤으로 보여; She looks somewhere in ther thirties

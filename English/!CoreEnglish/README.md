@@ -1,3 +1,4 @@
+* i've tried to talk to her;  츄라아아이; 라 발음 길게; 투턱 리듬
 * heart [hɑːrt], hurt [hɜːrt]
 * pork, fart; f 1. 2, 3박자 끌면서 발음; 
 * order; 혀가 입안에 어디에서 닿지 않게 오올하다가 그 자리에서 입천장을 살짝 치면서 떨어지는 소리에 덜; i ordered four hamburgers for my family; ham에 강세가 있어 바람을 내뱉음
@@ -23,6 +24,7 @@
 * Mayo; Mayonnaise; 메이어네이즈
 * need you to do; 니쥬쥬쥬 something for me; 섬닝
 * i need you to talk to your sister; to talk 투턱 리듬
+* age, cage, beige; e를 모음으로 읽지 않고 자음만 발음; biology, allergy; gy발음; allergic; 강세 뒤
 
 # th
 * 혀를 앞니 뒤에 넣고 떨어뜨려도 비슷한 발음이 난다

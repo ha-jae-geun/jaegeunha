@@ -1,3 +1,8 @@
+* 네 동생이랑 일을 저질렀어야 했어; SHoulda laid down with your sister; i should have lain down with your sister(lie-lay-lain)
+* 그녀가 최근 몇 년 동안에 건망증이 아주 심해졌다. She has become very forgetful in recent years. 
+  * 즉시 잊혀져 버릴 곡조 an instantly forgettable tune 
+* 개고생 할거에요; It's a pain in the ass; you're going to freaking suffer
+  * It's gonna be ridiculously exhausting
 * 독점: monopoly, 단조로운: nonotone; 고독 공포증; monophobia, 획일적인: monolithic 미국식 [mɑ̀nəlíθik]
 * 가기로 하다; i signed up for the dinner
   * 나 이거 하기로 한거 아닌데; i don't sign up for this

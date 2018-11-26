@@ -485,6 +485,7 @@
 # 쓰레기
 * 쓰레기를 쓰레기통에 버렸어 			 I threw away the garbage in the trash can
 * 청소부가 바다에 떠다니는 스레기를 모았어; A chinese dustman collects floating rubbish from the river/net
+* 쓰레기통에 버렸잖아; you tossed it in the trash
 
 
 # 살다
@@ -495,3 +496,7 @@
 * 인생을 즐기다; enjoy the ride
 * 그달 벌어 먹고 살아가다; live paycheck to paycheck
 * 정신적인 삶의 균형이 깨져버립니다; Your mental life is thrown out of all proportion
+* 정신 차리고 똑바로 살아; Get a life, get it together
+* 집에서 편하게 있어; Make yourself at home
+* 내 인생에서 떠나버리다; to walk out my life
+	* walk out of/on something; 하기로 한 일을 그만두다, 떠나버리다;; He walked out on his job

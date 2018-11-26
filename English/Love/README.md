@@ -33,7 +33,8 @@ I have a big crush on you / I have a thing for you, i'm into you
 * 우리 소원해졌어; we have grown apart
 * 난 생각할 시간이 필요해 i need space
 * 헤어지다; break up; we're not seeing each other anymore; we're not an item/a couple anymore
-* 헤어졌다 사구이ㅓㅆ다 반복; on and off couple
+	* 헤어졌다 사구이ㅓㅆ다 반복; on and off couple
+	* 우리 사이를 돌이킬 수 없게 햇어; All of our bridges burned down
 * 화해하다; make up sex; a lot of couples breakup just because they want to have make up sex; 미국농담
 * 차다; i dumped him; i was/got dumped
 * 점점 멀어지다; we've grown apart; we grew apart

@@ -18,6 +18,7 @@
 * 무리, 집단; clique; cliquey: 끼리끼리 노는
 * 기숙사; residence hall = dorm
 * 학점이 다가 아니야; Grades are not everything(grade: 학점, 점수)
+	* 우등생도 아니었어; i never was a scholar
 * 4~5교시 사이; it was middle of forth and fifth period
 * 남녀 공항; coed, co-educational
 * ~과; Department of korean language/philosophy

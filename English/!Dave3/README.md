@@ -1,3 +1,4 @@
+* 킹스맨의 자질; The makings of a Kingsman; 스타 자질; He has the makings of a star
 * 나에게 큰 타격이었어요; it hit me hard
 * 이게 다가 아닙니다; This doesn't tell the whole story
 * 스티브는 복이 터졌따; Steve's living the dream

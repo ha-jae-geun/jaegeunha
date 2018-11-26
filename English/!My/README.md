@@ -77,6 +77,19 @@
 * -는 언제 끝날 것 같애; when do you think; you'll be done with A
 
 # 일상
+* 내 시야에서 사라졌어요; i lost sight of it
+* 체크카드를 잃어버렸다고? you misplaced your debit card?
+* 미국인 치고는 한국말 꽤 잘한다; YOu speak korean pretty well for an American
+* 그게 뇌리에 남더라고요; And that stuck with me
+* 얌전히 굴거지? Are you gonna behave yourself?
+* 집에서 편하게 있어; Make yourself at home
+* 좋은 하루 보내세요; have a good day -> Have a good one
+* 넌 내 기분을 망쳐; Your rain on my parade
+* 우리 이제 적이야; We've got bad blood
+* 나 살아 남을거야; I'll make it out alive
+* 30분정도 늦을 것 같애요; i think i will be about 30 minutes late
+* 유통기한이 지났어요; THis is past the expiration date
+* 나는 여태까지 일이 진행되어 온 것에 만족한다. I’m happy with the way things have panned out. 
 * 과제가 너무 많아서 부담이 된다ㅣ; All these assignments are weighing down on me
 * 인기가 있는 데는 다 이유가 있다; She's popular for a reason
 * 두가지 측면에서 실패핳였습니다; The brazil project failed on two leves

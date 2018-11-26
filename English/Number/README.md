@@ -14,7 +14,7 @@
 * #숫자 #계산 ##0: zero / o
 * #one -> #some  #another -> #others  #the other -> the others
 * #add, #count up, #total - 세다, 계산하다 
-* thousand -> 10, thousand -> ` hundred thousand => million -> 10억 -> trillion(1조)
+* thousand -> 10, thousand ->  hundred thousand => million -> 10억 -> trillion(1조)
 ---
 * 1000: 1k -> million(백만, 천만, 1억) -> billion
 * #단수 singular #복수 #plural
@@ -40,9 +40,10 @@
 * has the least amount of ~: 최소한의 ~을 먹다
 * 상당한 것이 되다 #amount to much
 * ##amount ##number
-* 총계가 ~이 나오다; ~come to 숫자; it came to whopping 1,1000 calores [ˈwɑːp-]  영국식 [ˈwɒpɪŋ]; 엄청큰
+* 총계가 이 나오다; come to 숫자; it came to whopping 1,1000 calores [ˈwɑːp-]  영국식 [ˈwɒpɪŋ]; 엄청큰
 * 마치 눈금을 매겨서 정확하게 만들다; you calibrate things and mae them precise
 ----------------------------------------------------------------------------------------------------
+
 
 ## 기호
 * 'open parenthesis' / Lee / 'close parenthesis' = right parenthesis'
@@ -193,7 +194,9 @@
 * #둘레; #girth;
 * #깊이 it's one inch #deep
 * --------------------------------------------------------------------------------------------------------------------
-* #계산대 behind the #register
+
+# 계산대 behind the #register
+* 조교한테 계산을 시켰는데; i had one of my assistants run the numbers
 * 프런트 데스크
 * (생각) 계산; my #number is
 * #가판대 #market stall(#stall(
