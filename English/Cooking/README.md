@@ -34,6 +34,7 @@
 * 치킨을 전혀 으깨지 않았어; the chcken is not mushy at all 
 	* (2. 지나치게 감성적인); i hate those mushy love stories
 * 채소 위주야? Is it plant-based?
+* 고 탄수화물의 아침을 먹는 거에 익숙해요; i'm used to very carb-heavy breakfast
 
 # Egg
 * 노른자 살짝만 익혀주세요; I want it over easy
@@ -76,6 +77,7 @@
 * 새콤달콤하다; it's sweet and sour
 * 양념이 잘 밴게 정말 마음에 들어; I like the way they soak up your sauce
 * 조합이 아주 좋다; ~ is winning combination
+* 게걸스럽게 먹다; gobble up; He gobbled down his breakfast
 
 # Cooking
 * 달걀을 1분간 휘저으세요; Beat the eggs/cream until fluffy

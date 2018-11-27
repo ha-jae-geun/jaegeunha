@@ -19,6 +19,7 @@
 * 이용자 참여  나는 내 감정을 드러내지 않기로 정했다.  I choose not to wear my heart on my sleeve. 듣기
 * 막상 헤어지니 싱숭생숭해; i'm sitting on my feelings;
 * 악감정 있어; There's been bad blood between
+* 기분을 좋게 해주는 사람이 될 거예요; Gonna be the one who can elevate; elevate/lift one's spirit
 * 떠오르는, 남아있는 감정; hautning memory/melody; It haunts me everytime
 	* 죄책감; i was haunted by guilt
 -------------------------------------------------------------------------------------------------------------------

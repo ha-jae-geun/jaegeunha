@@ -64,7 +64,8 @@
 * #이쑤시개	toothpick 미국·영국 [|tu:θpɪk] 
 * 
 
-## 집	#집돌이; I've become quite the home body. 
+## 집	#집돌이; I've become quite the home body. 	
+	* 지낼 곳; Every night we're grateful for having a roof over our heads; a roof over head
 * 샴푸하다; you can't shampoo your hair everyday
 * 휴대폰 두 개의 중간에 경첩이 달려있다; it's just two phones attached by a hinge in the middle
 * 어떻게 먼지 터는지 알려줘야 했어요; I had to show him how to dust
@@ -483,6 +484,7 @@
 
 
 # 쓰레기
+* 세척력을 갖다  have washing capacity
 * 쓰레기를 쓰레기통에 버렸어 			 I threw away the garbage in the trash can
 * 청소부가 바다에 떠다니는 스레기를 모았어; A chinese dustman collects floating rubbish from the river/net
 * 쓰레기통에 버렸잖아; you tossed it in the trash

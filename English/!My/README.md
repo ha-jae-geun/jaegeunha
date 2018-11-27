@@ -21,6 +21,7 @@
 * I said I would be ther as soon as I could
 
 # 접두어
+* 의심의 여지없이; Without question
 * 쉬운 용어로; In plain English
 * 돌이켜보면; In retrospect 미국·영국 [rétrəspèkt]
 * -라는 것은 놀랍지 않네요; It's no surprise that
@@ -35,6 +36,7 @@
 * 공정하게 말하자면; To be fair
 
 # 대답
+* 내 말이 그말이야; Tell me about it
 * 당연하지; THat's given
 * 저는 말고요; None for me
 * 그렇지; kind of
@@ -75,8 +77,11 @@
 
 # 질문
 * -는 언제 끝날 것 같애; when do you think; you'll be done with A
+* 누가 생각이나 했겠어요; Who woul'dve ever thought?
+* 텍사스 사는거 좋아? How do you like living in Texas?
 
 # 일상
+* 전혀 개의치 않는다; i couldn't care less
 * 내 시야에서 사라졌어요; i lost sight of it
 * 체크카드를 잃어버렸다고? you misplaced your debit card?
 * 미국인 치고는 한국말 꽤 잘한다; YOu speak korean pretty well for an American

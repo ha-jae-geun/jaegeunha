@@ -1,4 +1,8 @@
 * 킹스맨의 자질; The makings of a Kingsman; 스타 자질; He has the makings of a star
+* 그저 떠돌아다니기만 하겠죠; he will just drift around
+* 실력을 향상시칻; step up one's game
+* 아직 가보지 못한 길이 너무도 많아; So many roads i've yet to travel
+* 그의 이름을 따서 지어졌따; THe nobel Prize is named after him
 * 나에게 큰 타격이었어요; it hit me hard
 * 이게 다가 아닙니다; This doesn't tell the whole story
 * 스티브는 복이 터졌따; Steve's living the dream

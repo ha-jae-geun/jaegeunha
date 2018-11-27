@@ -34,6 +34,7 @@
 * 개해엄; dog paddle
 
 # Gym
+* 숨쉬는 것도 운동에 포함되니? Does breathing count as exercise?
 * 근육 자랑 좀 해봤어용; I was flexing; 근육, 힘을 과시하다
 * 운동 겸 걷는게 좋지 않나? Don't you think we better walk for exercise?
 * 나 살쪘어; i gain/put on weight

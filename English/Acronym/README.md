@@ -175,6 +175,7 @@ One O one- point nine FM
 * #SO significant other; 진지하게 이성 부를 때
 * #SorG: 							Straight or gay?(무지개 색 게이 상징 옷)
 * #SRY										 Sorry. 미안
+* SMH; Shaking My Head
 * ##tarp; tarpaulin; 방수포
 * T/O; table of organization
 * #TA; teaching assistant

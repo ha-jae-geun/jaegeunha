@@ -11,6 +11,8 @@
  * attire; 옷을 얼마나 갖춰입었는지
    * formal attire, casual attire, business attire
 
+* 매듭으로 엉키다; tangled in knots
+  * 엄청 큰 물고기가 그물에 걸렸다; A giant fish got entangled in the net
 * 뒷 주머니에 그건 뭐니? What is in your back pocket?
 * 바지 올려입은 것좀 봐; Look at high Blake's pants are
 	* 바지 내려입는거 몰라; DOn't you know all the kids sag their pants now?

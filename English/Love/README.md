@@ -1,5 +1,7 @@
 # Word
 * 포옹 허그 안다; 뒤에서 안아줘요; spoon me
+	* 그대가 내 품에 없으니; Without you here in my arms; 
+	* She was holding a baby against her breast
 * ##PDA public display of affection; keep PDA away from the office; that's too much PDA on the subway
 * 남자 한명을 점찍엇어요; i spotted a guy
 * 임자가 있었다고 말하고 싶고; i wanna tell everyone you're taken
@@ -696,6 +698,7 @@ I have a big crush on you / I have a thing for you, i'm into you
  * 그 여자는 그보다 5살 어리다. /많다 The woman he's dating is five years younger than him.
  * The woman is five years his junior.(senior)
  * 전 제 이상형을 기다리고 있어요.					 I'm waiting for my Mr. Right.
+ 	* 이상적인 남친이 아니에요; He's not boyfriend/girlfriend material
  * 너 누구 만나고(사귀고) 있니?						 Are you seeing her?
  * Nobody special. 이라는 뜻은 만나긴 하는데 특별한 사이는 아니라는 뜻
  * noʊbədi ‘speʃl

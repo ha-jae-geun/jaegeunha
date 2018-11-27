@@ -1,3 +1,7 @@
+* 갑자기 들이닥쳤어; When the CEO burst in
+  * 갑자기 웃음을 빵터지다; Helen suddenly burst into laughter
+* 외국인 친구 사귀고싶어; I want to make (foreign xx)global friends
+  * 외국인 학생이 많아요; There are many international students at my university
 * 네 동생이랑 일을 저질렀어야 했어; SHoulda laid down with your sister; i should have lain down with your sister(lie-lay-lain)
 * 그녀가 최근 몇 년 동안에 건망증이 아주 심해졌다. She has become very forgetful in recent years. 
   * 즉시 잊혀져 버릴 곡조 an instantly forgettable tune 

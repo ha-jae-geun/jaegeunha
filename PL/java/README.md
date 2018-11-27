@@ -1,3 +1,12 @@
+# java
+## 윈도우
+* jdk 설치
+* 환경변수
+
+## 실행
+* javac -.java
+  * java 파일이름
+
 ## java 
 * appliance -> support all OS
 * oop + 
