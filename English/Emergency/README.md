@@ -48,6 +48,7 @@
 
 * 위기의식 危機意識  단어장추가 (철학) consciousness of crisis
 -------
+* 자택에서 대피하다; evacuated from their homes; 임새 대피소: tempoary shelters
 * 당신의 응급상태를 말해주세요; Staet the nature of your medical emergency
 * 잠시 틈을 두고 그 불이 사그라드게 두세요; let that fire die down, through a pause
 * #응급 #응급실; #E.R Emergency room

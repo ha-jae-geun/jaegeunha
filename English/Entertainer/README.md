@@ -15,6 +15,7 @@
 * (2차 면접 등을 위한) 재통보; Call back for roles
 * 공연장은 이렇게 생겼어요; this is what the venue looks like
 * 소녀팬이 된 기분이야; i'm like fangirling
+	* 엄청난 팬층을 갖고 ㅣㅆ잖아; Artists have like huge follwings
 * 파리에서 런웨이에 오르신다면요; so you're walking in the runway in Paris?
 * 레이디가가; Mother monster - 팬들: Little monsters
 * 믿고보는 배우다; he's a go-to actor

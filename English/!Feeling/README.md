@@ -1,8 +1,10 @@
+# 기분
 * 기분이 언짢아지다; Fans #get the hump when the team loses.  팬들은 (자기가) 응원하는 팀이 지면 기분이 언짢아진다.
 * #승부욕; 승부욕을 갖다; have a desire to win
 * 그 감정을 명확하게 드러내 보세요; Emote that
 * 잠시 틈을 두고 그 불이 사그라드게 두세요; let that fire die down, through a pause
---------------
+
+* 기분 전화이 필요해; i need a diversion
 * 나는 지금 기분이 약간 이상하다. I'm in a weird headspace right now. 
 * #감정
 * ☆~의 감정이 병존하는 #ambivalent; i'm so ambivalent about this; 못 정하겟다
@@ -900,6 +902,7 @@
 * What's the holdup, There's no holdup
 * 주저하지 말고 말씀하세요. 		 hesitate about / over sth Don't hesitate to speak up. 
 * 메이슨는 생각이 망설임 없이 바뀌지		 .Mason cheages his mind at thd drop of a hat.
+	* 처음에는 조금 망설였어요; We were a little reluctant in the beginning
 * #in two minds
 * 순간 주저하다; never miss a beat
 * #주춤; I #boggle at; #boggle someone’s mind
@@ -1135,6 +1138,7 @@
 
 # 우울
 * 울적해하다; She languishes in the bath
+* 침울한 표정 짓지마; don't look go slum
 * 눈물이 나다; i got teary-eyed
 * ☆i'm no happy, i'm #bummed out(또래, 아래 사람), i'm #gloomy
 * #depressed, #blue, #dejected - 우울한, 암울한 

@@ -11,7 +11,7 @@
 
 
 ##영어
-11.22
+11.29
 * 테드 https://www.ted.com/
 -------------
 *   MLB http://post.naver.com/my/series/detail.nhn?seriesNo=46475&memberNo=449115
@@ -62,8 +62,6 @@
 * ebse https://m.post.naver.com/my.nhn?memberNo=42107228
 * 캠퍼스잡앤조이; https://m.post.naver.com/my.nhn?memberNo=12244919
 * 바니의 공부방 https://blog.naver.com/iove4080
-* EWHA 외국어교육 커뮤니티센터 https://blog.naver.com/ewha201809
-* 한국번역연구소 https://blog.naver.com/ktri8888
 * Cage-free https://blog.naver.com/yp2k
 * 해커스어학원꿀팁 https://blog.naver.com/hacademia
 * 잉글리쉬 에듀몰 https://tomasuper.blog.me/
@@ -74,6 +72,7 @@
 * 길벗이지톡; https://post.naver.com/my.nhn?memberNo=33159364
 * 소다영어 https://blog.naver.com/hyeonahmo/221208654665
 * 윤선생; https://m.post.naver.com/my.nhn?memberNo=2134697
+* 한국번역연구소 https://blog.naver.com/ktri8888
 -----------------------------------------------------------------------------
 * 빌보드 https://www.billboard.com/charts/hot-100#/charts/hot-100
 * 네이버 톡톡 http://talkie.naver.com/english/room-list.dict?mode=mobile

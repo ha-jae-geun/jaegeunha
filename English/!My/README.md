@@ -50,6 +50,8 @@
 * 별것도 아닌데. It's no biggie. 
 
 # 말투
+* 그것이 전염성이 있다고 가정해 보자. Let's say it's contagious.
+* 기승전결; '이 모든 것의 결말은 훌륭한 고객 서비스 에요.' "What it all comes/boils down to is excellent customer service."
 * 받아들일 게 너무 많아서; THere's a lot to take in
 * -만이 중요한 건 아니다; be all and end all
 * -의 본보기다; be an exemplar
@@ -84,6 +86,14 @@
 * 텍사스 사는거 좋아? How do you like living in Texas?
 
 # 일상
+* 평범했어; It was just run of the mill
+* 잔소리 그만해; Get off my back/case
+* 박수로 맞이해주세요; Give it up for someone
+* 가능성은 없어; Chances are slim
+* 무슨 걱정있니; What's eating/bothering/wrong/the matter with you
+* 10분안에 출발해; i'm gonna be/get headed in 10 minutes
+* 중요하다; be instrumental in 명사
+* 제 전문 아니에요; That's not my bag
 * 다시 유행하나 보다; A is making a comback
 * 긴장감은 생략해주겠다;ㅏ i'll save you the suspense
 * 데드풀은 빠져나갈 것 같애; Deadpool will just get away with it somehow

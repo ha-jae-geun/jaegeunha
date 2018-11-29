@@ -19,6 +19,7 @@
 * 작은 무선 충전 케이스는 24시간 이상의 배터리 수명을 ㅈ공합니다; The compact wireless charging case delivers more than 24 hours of bettery life
 * 기술이 우리와 제품들 사이의 흠 없고 자동적인 연결을 가능케 하는 미래에; Where technology enables the seamless and automatic connection between you and your devices
 * 보조 케이블도 있어요; i got the auxiliary hookup [ɔːɡˈzɪliəri]
+* 보조 배터리 있어; i have a power bank
 
 # 사진
 * 얼굴 사진, 상반신 사진; mugshot

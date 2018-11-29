@@ -7,7 +7,8 @@
 * 겉으로 드러난 personality보다는 본질인 character가 중요하다는 뜻입니다
 * Personality는 겉으로 드러나는 모습이나 행동과 일반적으로 관련된다
 * 반면 Character는 도덕적 혹은 정신적인 자질을 일컫는다
-* 성격 좋다			 Bluewater is such a good natured. 블루워터 정말 온화해?
+* 성격 좋다			 Bluewater is such a good natured. 블루워터 정말 온화해?\
+	* 그는 진국이야; He's the real deal; 보배야; real gem; 매력적인 사람: real charmer
 * 성격이 나쁜 	까탈스러운, 성미가 나쁜 grumpy 미국·영국 [|grʌmpi] ;grumpy about : 떽떽거리는
 * 남편은 좀 더 현실적이거든요; He's a little bit more practical
 * #Irritable 

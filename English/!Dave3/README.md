@@ -8,6 +8,8 @@
 * 그녀는 연기자에서 가수로 전향했따; She made a crossover from an actress to a singer
 * 마음가짐이 중요하다; It's the thought that counts
 * 그만 좀 해; Cut it out; Knock off
+* 그 팀은 천하무적으로 보였다 The team seemed invincible.  [ɪnˈvɪnsəbl]
+* 구글이 아마존에 대한 대항마는; Google's answer to Amazon's Alexa
 * 전통적인 방식을 고집한다; they prefer to stay put
 * 킹스맨의 자질; The makings of a Kingsman; 스타 자질; He has the makings of a star
 * 그저 떠돌아다니기만 하겠죠; he will just drift around

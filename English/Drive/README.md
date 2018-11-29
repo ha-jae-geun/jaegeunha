@@ -73,6 +73,9 @@
 * The world economy was gravely affected by the oil crisis
 * ##기름 | #시추 
 * [명사] 드라이브스루(차에 탄 채로 이용할 수 있는 식당・은행 등) drive-through (←drivethru) 
+
+# 차
+* 고물차야; His car is a lemon
 * #auto-biography rover; 고급 #suv#
 * #스포츠카 									 convertible
 * #오픈카 				 convertible, drive with top down = #open top

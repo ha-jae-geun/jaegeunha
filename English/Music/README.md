@@ -11,6 +11,7 @@
 * 네 노래가 발랄하다고 말하는 사람에게 어떻게 반응할 것 같애? How would you respond to a person who says your songs are too cheerful
 
 # 가수
+* 소리가 수중에서 아주 효과적으로 전달되기 때문입니다; That's because sound travels exteremly efficiently under water
 * 칼 근무; Synchronization 혹은 synchronized dance moves
   Their dance moves were like... so in sync."
 * 팝핀댄서였어요; I used to b a pop-locker

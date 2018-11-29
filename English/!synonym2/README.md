@@ -6,6 +6,11 @@
   * 형용사를 받아준다; it's not your desicion to make/ i've ever had to make
   * 잘라서 앞/뒤 위치를 바꿀 수 있다; It's very hard decision to make
 * 쉬다; i want to take the day off; i'm off today; When do you have off
+  * Can i get the rest of the day off?
+* Believe + 사람/사실 = 사람/사실을 믿다; Believe in + 사람의 능력/가치 = 사람의 능력/가치를 믿다
+* 동의; Consent 는 무언가를 하도록 허락을 해주는 동의 입니다;  Consent Form(동의서/합의서), Sexual Consent(성 합의)
+* 고마워; You're the best; Thank you for -, I appreciate
+* 거의 모든; Almost all; Most; The majority of
 * My dear dad
 * 다음은 각질 제거에요; Next, exfoliating [-ˈfoʊ-]  영국식 [eksˈfəʊlieɪt]
     * peel은 죽은 껍질이 아니라 껍질을 벗어내기 때문에 더 깊이 벗겨냄; 피부과에서 시술하는 것; peeling

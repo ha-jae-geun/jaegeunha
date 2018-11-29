@@ -45,6 +45,7 @@
 * 물건이나 서비스를 판매하기 위한 전화 또는 자발적이 ㄴ전화; #cold call
 * 조직 내 새로 합류한 사람이 빠르게 조직의 문화를 익히고 적응하도록 돕느 ㄴ과정; #onboarding = OJT(on the job training)
 * 월급 급여; #payroll, 총 급여 대상자 명단: #Gross payroll
+	* 첫 월급 받았어; i got my first paycheck
 * #ETA; Estimated time of arrival; 도착 예정 시간
 * #effective date; 유효기일, 발효일
 * Biz card = Business card
@@ -170,12 +171,14 @@ mr ~ in marketing
 * #결재; [명사] approval, authorization, [동사] approve, sign, give (one's) approval, authorize 
 * 사장님의 결재를 받다
 get[obtain] approval from the president 예문 발음듣기
-* 그 주문 건에 대한 결재가 막 났다
-I just got an approval on that order. 예문 발음듣기
-* 사장님이 서류에 결재를 하셨다
-The president approved[signed] the document. 예문 발음듣기
-* 부장님께 언제 결재 올리셨어요?
-When did you submit documents for manager's approval? 예문 발음듣기
+	* 결재 받으려는 서류; document for approval
+	* 결재 부탁합니다; Could you kindly approve for the -?
+	* 그 주문 건에 대한 결재가 막 났다
+	I just got an approval on that order. 예문 발음듣기
+	* 사장님이 서류에 결재를 하셨다
+	The president approved[signed] the document. 예문 발음듣기
+	* 부장님께 언제 결재 올리셨어요?
+	When did you submit documents for manager's approval? 예문 발음듣기
 * #자택근무 #remote worker
 * ~할 것입니다 							 We are going to have ~ 
 * 공급 조건에 대해 논의하고 싶습니다. I’d like to talk about the conditions of supply
