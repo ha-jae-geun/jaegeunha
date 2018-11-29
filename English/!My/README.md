@@ -47,8 +47,10 @@
 * 섬뜩하네요; Creepy
 * 어쩌라고; Whatevs
 * 좋아요, 한번 해보죠; Game on, Bring it on
+* 별것도 아닌데. It's no biggie. 
 
 # 말투
+* 받아들일 게 너무 많아서; THere's a lot to take in
 * -만이 중요한 건 아니다; be all and end all
 * -의 본보기다; be an exemplar
 * 이 불편러야; YOu freaking snowflake
@@ -76,11 +78,16 @@
 * 어찌 됐든; Either way
 
 # 질문
+* 한국어로 고맙다는 말 어떻게 말해? How do you say "Thank you"?
 * -는 언제 끝날 것 같애; when do you think; you'll be done with A
 * 누가 생각이나 했겠어요; Who woul'dve ever thought?
 * 텍사스 사는거 좋아? How do you like living in Texas?
 
 # 일상
+* 다시 유행하나 보다; A is making a comback
+* 긴장감은 생략해주겠다;ㅏ i'll save you the suspense
+* 데드풀은 빠져나갈 것 같애; Deadpool will just get away with it somehow
+* 오바했나? Did i go too overboard?
 * 전혀 개의치 않는다; i couldn't care less
 * 내 시야에서 사라졌어요; i lost sight of it
 * 체크카드를 잃어버렸다고? you misplaced your debit card?
@@ -117,6 +124,7 @@
 * 진정해; Chill out
 * 정신차려보니 병원이었어; The next thing i knew, i was in the hospital
 * 위험을 무릎쓰지 않을거야; i would never run the risk of getting infectedd; run the risk of
+  * take hugh risks in life
 * 총기 폭력이 없는 나라를 지지합니다; i stand for a nation without gun violence <> stand against
 * 그와 관련된 속석이 있어요; IT's a myth tat; there is some sort of myth around that
 * 뜸들이지마; don't leave/keep me in suspense

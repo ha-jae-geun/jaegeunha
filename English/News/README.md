@@ -27,6 +27,7 @@
 * 분쟁에 합의하다; settle the dispute; for thirteen
 
 # 사회
+* 학생 저항 운동권에 대한 군부의 강력한 탄압  a military crackdown on student protesters 
 * 회의장은 -가 맡았다; The meeting was chaired by Mr.Redford
 * 교육 자금이 매우 크게 절감이 되었습니다; THere has been very deep/large cuts
 	* - had to take a 20% cut in pay

@@ -1,4 +1,5 @@
 ## 기타
+* 온찜질처럼 말이야; Like a heating pad
 * 고산병; altitude sickness
 * 뻐근해? Are you sore?
 * 안락사 시키다; administer euthanasia

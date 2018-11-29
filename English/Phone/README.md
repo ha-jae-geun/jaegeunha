@@ -3,6 +3,7 @@
 * 정가 선물을 받을 때와 할인 선물을 받을때 기분이 다르므로 할인을 안해도 사람들이 많이 사용한다.
 
 # 핸드폰
+* 정전기 마찰이 없어져서 그런걸 거야; YOur battery just statically defracticated
 * 폴더폰 들고다녔지; everyone had a flip phone in my day
 * 의미 없는 프로필 업데이트나 해야겠다; i'm gonna post a pointless status update on Facebook
 * LG U+에서 바꾸고 싶어; i want to switch from LG U+

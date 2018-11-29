@@ -230,7 +230,8 @@ in the face of something; 직면하여
 * 너 왜 얼굴 #찌푸리고 있냐? 					 Why are you making a face?
 * ##frown at, frown on/upon somebody/something
 * 동공은 밝은곳에선 작아지로 어두운 곳에선 커져; pupils contract in bright light and dilate in darkness [daɪˈleɪt]
-* 각막, 동공, 홍채, 망막  cornea[ˈkɔːrniə], pupil, iris, retina  [ˈretənə] 
+	* 각막, 동공, 홍채, 망막  cornea[ˈkɔːrniə], pupil, iris, retina  [ˈretənə] 
+	* 확대된 동공; Dilated pupils [daɪˈleɪt] 
   * 각막에 상처; scarring on the cornea
 * 눈물 글썽이다. His eyes were moist with tears 
 * 눈을 가늘게 뜨고 #찡그리고 보다		 squint 미국·영국 [skwɪnt] ; #squint one's eyes
@@ -908,7 +909,11 @@ Shut up pipe down> Silence > Hush > Be quiet >=Keep it down >= would you keep it
 * #코털 trim your nose hair #귀지; clean your ear wax
 * 내 손을 떠났어 			 It left my hand already It's out of my hands now
 * 손톱 발톱이 날카롭고 들쑥날쑥해 보여 깎아	 'dƷӕgɪd nails are sharp and jagged. cut/clip 
-* 샤워 너무 오래해서 손이 너무 쭈굴해졌어 I think I took a bath for too long. My fingers are pruney.
+* 샤워 너무 오래해서 손이 너무 쭈굴해졌어 I think I took a bath for too long. My fingers are pruney
+	* 이중 세안이 너무 과하다고 생각할 수 있어요; double cleansing kind of seems like an overskill
+	* 약간의 잔여물이 남아있거든요. There is still some slight residue. [-duː]  영국식 [ˈrezɪdjuː]
+	* 다음은 각질 제거에요; Next, exfoliating [-ˈfoʊ-]  영국식 [eksˈfəʊlieɪt]
+		* peel은 죽은 껍질이 아니라 껍질을 벗어내기 때문에 더 깊이 벗겨냄; 피부과에서 시술하는 것; peeling
 * 벗겨지거나 깨질수 있으니 다듬어 		 can be peeled or broken so trim it.
 * 저는 #손재주가 없어서 					 		 I'm all thumbs.
 * 손재주 있는 사람; #handiest guy

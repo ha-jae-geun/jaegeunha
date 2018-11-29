@@ -1,3 +1,5 @@
+* comfortable; 컴프fr터블
+* you won't talk to me; won't; 입술 모으고 오우 발음으로 진동 만들기; talk to; 턱을 세게 내리다; you; 유우; that; 입을크게 턱을 세게 내리기
 * i've tried to talk to her;  츄라아아이; 라 발음 길게; 투턱 리듬
 * heart [hɑːrt], hurt [hɜːrt]
 * pork, fart; f 1. 2, 3박자 끌면서 발음; 

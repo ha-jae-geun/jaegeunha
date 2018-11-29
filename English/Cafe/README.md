@@ -1,3 +1,7 @@
+# 이탈리아 커피
+* 테이크아웃 커피를 안마시고 빠르게 에스프레소 한입 털어놓고 간다.
+* 에스프레소만이 진정한 커피다
+
 「카페」 #카페 cafe 캐패이, 캐빼이	#커피숍 coffee house
 ##coffee; 원래 uncountable; 카페, 음식점, 식당, 기내에서는 two coffees
 * 커피 어떻게 타죠? How do you take your coffee?; 블랙으로 마셔; I take it black

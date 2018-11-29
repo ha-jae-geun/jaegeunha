@@ -124,6 +124,7 @@
 * #bomb down a mountain
 * #추월; He pulled out to overtake a truck. 그가 옆으로 끼어들며 그 트럭을 추월했다
 * #bullet lane; 추월 차선 -> slang: 될대로 되라 
+	* 차선 바꿔요 ;Change lanes
 * #후진; reversing / backing up
   * #좌회전; #turning left
 * #교통 규정 #traffic regulation

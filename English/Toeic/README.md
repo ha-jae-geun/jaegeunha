@@ -46,6 +46,7 @@
 
 # 시제
 * 미래 완료: by next, by the end of, by the time과 같이쓰임
+	* by the time 현재, S + 미래 완료
 
 # 전치사 + ed + that
 * be convinced/delighted/fritened/annoyed that

@@ -1,3 +1,18 @@
+* bias; 자신의 의견이 한쪽으로 치우친 걸 의미  [ˈbaɪəs] ; sterotype, prejudice
+* 사회에서는ㄱ ㅓㄹ림돌입니다; This is a deal breaker in a community
+* 따라갈 수 있는; to follow in its footsteps; no one is forced to follow in my footsteps
+* 환호받는 여배우; Accalimed actress; 자칭의; Self-proclaimed
+* 결정하다; decide; make a decision
+  * 형용사를 받아준다; it's not your desicion to make/ i've ever had to make
+  * 잘라서 앞/뒤 위치를 바꿀 수 있다; It's very hard decision to make
+* 쉬다; i want to take the day off; i'm off today; When do you have off
+* My dear dad
+* 다음은 각질 제거에요; Next, exfoliating [-ˈfoʊ-]  영국식 [eksˈfəʊlieɪt]
+    * peel은 죽은 껍질이 아니라 껍질을 벗어내기 때문에 더 깊이 벗겨냄; 피부과에서 시술하는 것; peeling
+* 보통 농도가 진해요; have a (light)thicker consistency; 질감의 느낌 
+  * 매실주스 매실액; concentration
+* 안전하게 가다; play it safe; 쿨하게 굴다: play it cool/straight/smart/dumb
+* 유형자산; tangible assets; 무형 자산: intangible assets
 * 갑자기 들이닥쳤어; When the CEO burst in
   * 갑자기 웃음을 빵터지다; Helen suddenly burst into laughter
 * 외국인 친구 사귀고싶어; I want to make (foreign xx)global friends

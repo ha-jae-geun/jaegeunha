@@ -1,3 +1,14 @@
+* 와칸다는 잘 보이는 곳에 숨어있는 나라입니다; Wakanda is a country hidden in plain sight
+* 다 눈 속임이야; All a front; It's all a front
+* 막판에 정말 놀랐어요; Such a last minute surpise
+* 모든 거에 직접 관여하는 스타일인가봐요; He's very hands-on
+* 그 소문의 시작은 톰이었다; The rumor was traced back to Tom
+* 1830년대의 유행; an 1830s fad
+* 엉망진창으로 코드화된 메시지; butchered coded message
+* 그녀는 연기자에서 가수로 전향했따; She made a crossover from an actress to a singer
+* 마음가짐이 중요하다; It's the thought that counts
+* 그만 좀 해; Cut it out; Knock off
+* 전통적인 방식을 고집한다; they prefer to stay put
 * 킹스맨의 자질; The makings of a Kingsman; 스타 자질; He has the makings of a star
 * 그저 떠돌아다니기만 하겠죠; he will just drift around
 * 실력을 향상시칻; step up one's game

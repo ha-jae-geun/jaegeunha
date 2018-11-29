@@ -4,6 +4,7 @@
 * 십분 활용하다; get a lot of mileage out of; your car
 
 # 시간
+* 우호적인 시기; honeymoon period/phase
 * PST(Pacific Standard Time); 서머타임 후: PDT(Pacific Daylight Time)
 * MST, MDT, CST, CDT, EST, EDT
 * 12 midnight; 12 noon

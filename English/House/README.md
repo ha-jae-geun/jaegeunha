@@ -491,7 +491,8 @@
 
 
 # 살다
-# 인새
+# 인생
+* 의지할 곳이 없다; don't have a whole lot to fall back on
 * 감수하며 살다; live with; live with for the rest of my life
 * 과거는 과거로 놔둬; 연연하지마; Let the past be past. Don't dwell on it
 * 나는 만사가 잘 안풀리는 날을 보냈습니다; i had one of those days
@@ -502,3 +503,4 @@
 * 집에서 편하게 있어; Make yourself at home
 * 내 인생에서 떠나버리다; to walk out my life
 	* walk out of/on something; 하기로 한 일을 그만두다, 떠나버리다;; He walked out on his job
+* 네 앞날이 창창하다는 거야; You got your whole life ahead of you
