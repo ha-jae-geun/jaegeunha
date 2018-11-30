@@ -13,6 +13,9 @@
 * be provided / be sent with / come with / along with 
 
 # 단어
+* be hopeful that 주어 + 동사 / hope that 주어 + 동사
+* be especially/specifically 동사/형용사; skilled at
+* arrpoximately는 90% 숫자 아니면 동사
 * 추가비용으로; at additional expenses
 * unless otherwise pp; -하지 ㅇ낳는다면
 * directly + on 장소; 바로 -에; 2. directly + to.from 장소: 바로 -에

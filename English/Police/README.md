@@ -224,6 +224,9 @@
 * 불이익: can be a big #disadvantage
 * #과징금; fine, penalty; pay a fine
 * #벌금
+
+
+# 법원
 * #재판소	#tribunal
 * #법원 = #courthouse
 * #소환장; #subpoena -> 차려입고 가야 함 #decorum; 아니면 재판방이 입장 불허
@@ -257,10 +260,11 @@
 * #신분증 검사; they #carded you; I got carded at a bar the other night
 * #특검; #special prosecutor
 * #변호사 #국선 변호인							 public defender
-* #변호인 Councillor(2. #지방의회의 #위원)
-* #counsel; 고문 변호인
-* #법정 변호사; #trial lawyer us: #counsel #uk: #barrister
-* #피고측 변호인; #public defense lawyer
+  * #변호인 Councillor(2. #지방의회의 #위원)
+  * #counsel; 고문 변호인
+  * #법정 변호사; #trial lawyer us: #counsel #uk: #barrister
+  * #피고측 변호인; #public defense lawyer
+  * 변호인들은 판사석으로 가까이 오세요; Will counsel please approach the bench
 * #기소검사; #prosecution lawyer
 * 변호사 도우미 #paralegal 미국·영국 [|pӕrə|li:gl] | #법무사 Paralegal Studies 
 * #묵비권을 행사할 권리가 있다 				 You have the right to remain silent

@@ -303,6 +303,8 @@ Legs are long but calf is thin, saving 80% of oxygen consumption
 # 중국
 * * #중국 설날; #spring festival
 * #red envelope; #명절에 빨간색 봉투에 담아줌
+* 표준 중국어/북경어; Mandarine Chinese
+	* 광둥어; Cantonese Chinese  [ˌkæntəˈniːz] 
 
 
 # 영국

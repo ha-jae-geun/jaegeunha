@@ -236,8 +236,10 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #꼬시고 있어 					 someone is putting the moves on ~
  * 성관게 유혹하는 #밀회 I thought it was a #booty call 단어장추가
  * #밀당하다 							 She's playing hard to get.
- * 너무 밀당하지 않았으면 하는데 			 I hope she doesn't #go too far with this
- * #love game; I want to #skip love game
+ 	* 너무 밀당하지 않았으면 하는데 			 I hope she doesn't #go too far with this
+ 	* #love game; I want to #skip love game
+ 	* 밀당을 매우 즐기는 타입이더라고; You're the type who's in love with the chase
+ 	* 밀당도 적당히 해; Stop pushing your luck
  * 쉽게 굴지 마 Don't be so easy
  * #밀당
  * 그녀는 야한 농담을 즐긴다. 					 She enjouys dirty jokes.

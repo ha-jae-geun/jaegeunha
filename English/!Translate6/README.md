@@ -1,8 +1,33 @@
+# [ 영어회화 연습가이드 #35 - (제대로 공부모드인 사람을 위한) 하드코어 연습모드 ☠️ ]
+* 직업을 가지고 어느 정도 오래 일을 해온 사람들은 이런게 있는 것 같아요;
+  * i think for thoese of us who have jobs and have been working for some time(내 자신을 포함 시켜서 상대방을 가르치려는 의미 없앰) have this habis of telling ourselves that(착각일 수 있다는 것을 내포); this: 이런게 있다는 의미 내포; 
+* 내가 버는 돈을 가져다가 쇼핑이든 다음 여행을 위한 비행기 표든,
+  * whether it's shopping or booking a flight for our next trip
+* 내가 좋아하는 것에 써도 된다- 이런식으로 생각하는 습관이 있는것 같아요
+  * we deserve to take the money that we earn and spend it on things that we like
+* 우리가 힘든 일을 참으면서 ㅐ온 것에 대한 보상을 그런식으로 하지 않나요?
+  * Isn't that how we reward ourselves for putting up with our difficult jobs?
+* 그리고 그게 무의식적으로 하게 되는 습관처럼 되는 경우가 많죠?
+  * And for many of us, this becomes more or less a habit - something that we do unconsciously(문장 끝낸 후 관계 절루 부연 설명) and also kind 
+* 중독 같기도 하고요 or like an addiction
+* 왜냐면 돈 쓸때 기분 좋잖아요  우리한테 순간적인 만족감을 준단 말이에여
+  * because, let's face it, spending money feels good right? It provides/gives us with instant satisfaction
+
+# 생활 필수 영어 어휘 'deserve'
+* 나 이번 학기 때 정말 열심히 했어; i worked really hard this semester
+* 좀 쉬어도 될 것 같애; i think i deserve (a little break, to take a little break)
+* 그 사람 하는 것은 말도 안돼; He is being so unreasonable
+* 너가 뭘 잘못했다고 그렇게 취급해; YOu don't deserve that kind of treatment / 
+  * YOu don't deserve to be treated like that
+* 그녀에게는 한번의 기회가 주어지는 것이 맞다고 생각해; Some people say she deserves a second chance
+* 그러나 나느 그녀가 감옥에 가는 것이 맞다고 생각해; But i honestly think she deserves to be put in jail
+* 나는 마땅한 대가를 치렀어; i got what i deserved; get wht one deserves/deserved
+
 # [ LESSON #19 - PART 2 ] "짜증나" - annoyed / annoying / frustrated / frustrating
-* (지속적으로 느끼는 짜증)짜증난다; i'm annoyed; 
-* 내가 자려할 때 그가 자꾸 늦게 나한테 문자를 보내; He keeps texting me late at night when i'm trying to go to bed. 
-* 짜증나; It's so annoying
-* 어제는 너무 짜증나서 그냥 폰을 꺼버렸어; Las night, i was so annoyed. I just turned off my phone
+ * (지속적으로 느끼는 짜증)짜증난다; i'm annoyed; 
+ * 내가 자려할 때 그가 자꾸 늦게 나한테 문자를 보내; He keeps texting me late at night when i'm trying to go to bed. 
+ * 짜증나; It's so annoying
+ * 어제는 너무 짜증나서 그냥 폰을 꺼버렸어; Las night, i was so annoyed. I just turned off my phone
 *  (어떤 일이 내 마음대로 안되서 답답해서 느끼는 짜증) frustrate
   * 아무리 찾아도 차키가 없는거야; I couldn't find my car key anywhere
   * 짜증났어; It was so frustrating

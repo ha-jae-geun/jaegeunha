@@ -12,6 +12,7 @@
    * formal attire, casual attire, business attire
 
 * 그 옷은 모피로 만들어졌다; The clothes is made of fur.
+* 이 색은 나한테 안받아; THe color doesn't match me
 * 매듭으로 엉키다; tangled in knots
   * 엄청 큰 물고기가 그물에 걸렸다; A giant fish got entangled in the net
 * 뒷 주머니에 그건 뭐니? What is in your back pocket?

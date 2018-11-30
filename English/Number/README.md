@@ -281,14 +281,19 @@
 * #amped up; 신나다
 * #growth, #increase; have gone up 120% over the last 3 years, #ascension
 * 상승 중인 #on the rise(#rise)
-* 증가하다 increase/rise dramatically, markedly, significantly, incrementally | gradually, increasingly | slightly
-* 청소년 범죄가 다시 증가하고 있어 					 YOuth crime is #on the rise again
-* 폭발적으로 올라가다 						 the prices have really skyrocketed
-* #increment = #accrual
-* #soar; #급증하다 #급등하다 #치솟다 = #surge(#쇄도하다) = #skyrocket
-* #계속 늘어나는; #ever-growing
-* 폭발적으로 증가했어요; increase like an #explosion = sales #go through the roof; #roof
+	* 증가하다 increase/rise dramatically, markedly, significantly, incrementally | gradually, increasingly | slightly
+	* 청소년 범죄가 다시 증가하고 있어 					 YOuth crime is #on the rise again
+	* 폭발적으로 올라가다 						 the prices have really skyrocketed
+	* #increment = #accrual
+	* #soar; #급증하다 #급등하다 #치솟다 = #surge(#쇄도하다) = #skyrocket
+	* #계속 늘어나는; #ever-growing
+	* 폭발적으로 증가했어요; increase like an #explosion = sales #go through the roof; #roof
 * #증가 #상승
+* 감소
+* 추운 겨울 때문에 오일 비축분이 예상보다 더 크게 축소되었다. The cold winter has led to a larger-than-expected drawdown on oil stocks. 
+
+
+
 * ☆절반쯤 지나서; #halfway through(into); we've already halfway through the month
 * you came in halfway through the movie
 * halfies, halfsies ; go halfies do[make] it halfies 

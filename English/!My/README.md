@@ -86,6 +86,8 @@
 * 텍사스 사는거 좋아? How do you like living in Texas?
 
 # 일상
+* 이리 와서 앉아; Pull up a seat
+* 자 먹자; Okay, eat up
 * 평범했어; It was just run of the mill
 * 잔소리 그만해; Get off my back/case
 * 박수로 맞이해주세요; Give it up for someone

@@ -10,6 +10,8 @@
 * 그만 좀 해; Cut it out; Knock off
 * 그 팀은 천하무적으로 보였다 The team seemed invincible.  [ɪnˈvɪnsəbl]
 * 구글이 아마존에 대한 대항마는; Google's answer to Amazon's Alexa
+* 유권자들 사이에 무관심이 팽배해 있다. There is widespread apathy among the electorate. 
+* 엄청난 팍브효과를 낳았고; caused a tremendous ripple effect
 * 전통적인 방식을 고집한다; they prefer to stay put
 * 킹스맨의 자질; The makings of a Kingsman; 스타 자질; He has the makings of a star
 * 그저 떠돌아다니기만 하겠죠; he will just drift around

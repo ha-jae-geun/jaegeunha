@@ -1,3 +1,173 @@
+# # 쓸만한 영어 - 직장에서 꼭 필요한 전화 영어 \회사영어\전화영어\영어회화\영어공부
+ *  (식당에서) 아직 먹는 중이에요
+ *  I’m still working on it.
+ * 
+ * 직장에서 전화 받을 때
+ * - 지금 자리에 없어요.
+ * - 메시지 남기면 전해 줄게요.
+ * - 아직 출근 안했어요.
+ * - 개인사정으로 늦어요.
+ * - 다른 곳으로 연결해줄게요.
+ * - 외부에 나와 있어서 들어가면 연락할게요.
+ * - make sure의 실제 쓰임
+ * - in a meeting 과 at a meeting 의 차이
+ * 
+ * - 지금 자리에 안계세요. 10분 후 다시 전화 주시겠어요?
+ *    He is not here at this moment.
+ *   직역: 지금 바로 이 순간에 여기에 없어요.
+ *   의미: 지금 자리를 비우셨어요.(안계세요)
+ *   - 10분 후 다시 전화 주시겠어요?
+ *     after 10 minutes ??? ⟹ in 10 minutes
+ *     Can you call back in 10 minutes? 10분 후 다시 전화 주시겠어요?
+ *    ☞ He is not here at this moment. Can you call back in 10 minutes?
+ * 
+ * - 메시지/번호 남기면 전해드릴게요.
+ *   - 메시지 남기시면 제가 전해드릴게요.
+ *     if you leave a message 
+ *     - 전해드릴게요.
+ *        I’ll give it to him(/her).  
+ *     → If you leave a message, I’ll give it to him. 메시지 남기시면 제가 전해드릴게요.
+ *   * 영어식사고 
+ *     그 사람이 메시지를 분명히 받게 해줘야하는 상황
+ *     ▶make sure : 꼭 그렇게 확실하게 하는 그림
+ *     ⟹ I’ll make sure he gets it.
+ *     ☞ If you leave a message, I’ll make sure he gets it.
+ *        메세지 남기시면 (꼭) 전해드릴게요.
+ *        메시지 남기시면 (꼭) 받을 수 있도록 할게요.
+ *     ☞ If you leave                , I’ll make sure he gets it.
+ *        전화번호를 남기시면 (꼭) 전해드릴께요.  ⟹ your number
+ * 
+ * - 아직 출근 안 했어요. / (그 사람) 출근 전이예요.
+ *   - He hasn’t come to the office yet???
+ *     He hasn’t arrived the office yet???
+ *   ☞ He is not in the office yet.
+ *      직역: 그는 아직 사무실에 없어요??
+ *      의미: 아직 출근 안했어요.
+ *      He is not in the office yet.
+ *      * 전화 통화를 하고 있는 화자 모두가 알고 있는 상황/문맥
+ *      ☞ He isn’t in yet. 아직 출근 안했어요.
+ * 
+ *   - sb. can’t make it.
+ *     (목적한 바를) 이루지 못할 때
+ *     - He hasn’t made in it yet. 
+ *       아직 안왔어요.(출근 전이예요)
+ * 
+ * - 개인사정으로 조금 늦게 출근할 것 같아요.
+ *   - 개인사정 = personal reasons???
+ *   - 영어식 사고 
+ *     Mr.Kim한테 무슨 일이 생긴 그림
+ *     ☞ Something came up.
+ *        * 이미 일이 일어났기 때문에 came사용
+ *        ** “그 사람에게”라고 해서 “to him”을 붙이지 않음. ★
+ *   - 조금 늦을 것 같아요.
+ *     He’ll be a little bit late.
+ *    ☞ Something came up. (and) He’ll be a little bit late.
+ * 
+ * - 제가 대신 도와드리거나 다른 분을 연결해 줄 수 있습니다.
+ *  - I can help you with (+something)
+ *    * [~에 대해서 돕다]라고 해서 about을 쓰지 않음.
+ *    ** help sb. with sth. ~에 대해서 ~을/를 도와주다.
+ *  - 다른 사람을 연결해 줄게요.
+ *   - Put sb. through (to+somewhere/sb.)
+ *     누군가를 ~를 통해 (~에 닿게) 놓는 그림
+ *     전화문맥: ~바꿔줄게요.
+ *    - representative / associate
+ *      판매관련직원 / 회사와 연결된 직원정도
+ *      * 모든 직원을 대체하는 말은 아님
+ *   ☞ I can put you through to another representative.
+ *      제가 다른 직원 바꿔드릴게요.
+ * 
+ *   - 제가 도와드릴 것은 없을까요?
+ *     Is there anything (that) I can help you with? 
+ *     Is there anything I can help you?(X)
+ *     * 어떤 구체적인 사항을 물을 때는 전치사 with가 빠지면 안됨.
+ * 
+ * - 지금 회의중이라 통화하기 힘들어요.
+ *   - I’m in a meeting now. 지금 회의중이야.
+ *     * in a meeting VS at a meeting 차이 (사용가능)
+ *       →  at a meeting 
+ *           I’m at a meeting.
+ *           ‘at’을 쓰면 offside meeting을 뜻함.(외부회의중)
+ *           Sb. is not in the office but has gone to a meeting somewhere else.
+ *  - I’m having a meeting with (+someone).
+ *    ~과/의 회의(만나서 얘기하는)중 이예요.
+ * 
+ * - 최대한(가능한) 빨리 다시 연락드릴게요.
+ *   - I’ll call back later. 다시 연락할게요.(사용가능△)
+ *   ☞ I’ll get back to you as soon as possible.
+ *      최대한 빨리 다시 연락드릴게요.
+ * 
+ * - 지금 통화중이라.. 다시 연락드릴게요.
+ *  - ‘통화중’은 영어로? 
+ *    ‘통화중’은 무조건 = line is busy???
+ *    * 영어식 사고 
+ *       이미 다른 전화선상에 내가 붙어 있는 그림
+ *    - I’m on the other line.   - another(X) 
+ *      다른 통화중이예요.
+ *   ☞ I’m on the other line. I’ll get back to you as soon as possible.
+ *      다른 통화중이라 다시 바로 연락드릴게요.
+ * 
+ * - 지금 많이 바빠서..(통화가 힘드니) 다시 연락드릴게요.
+ *   우리말 “좀‘바빠서..는 결국 ”많이“바쁘다는 말.
+ *   → 뭔가 하고 있던 도중이라는 말
+ *     ♣ in the middle of (doing) something ~ 하는 일의 가운데에 있는 그림
+ *    ☞ I’m in the middle of something now. 
+ *       지금 (딱) ~  하고 있는 중이라 (바빠요).
+ *      * 하고 있던 일이 있어서 다른 것을 하기 힘들다는 뜻.
+ *     ♣ working on something
+ *        어떤 것에 붙어서 할 일하고 있는 그림
+ *    ☞ I’m working on something right now.
+ *       지금 뭐를 (집중해서)하는 중이예요.
+ * 
+ * - 지금 외부에 나와 있어서 사무실에 다시 들어가면 연락드릴게요.
+ *   - ‘외부에 나와 있어서’가 영어로?
+ *     I’m working outside???
+ *   - 영어식 사고 
+ *     원래 일하는 곳에서 벗어나 있는 그림
+ *     ☞ I’m out of the office now. 
+ *        제가 지금 외부에 나와있어요.
+ *   - 사무실에 다시 들어가면 연락드릴게요. 
+ *     I’ll get back to you as soon as I get back to the office.
+ *     Q: 같은 문장에 get back to 두 번 쓰면 어색하지 않나요?
+ *     A: 괜찮습니다.
+ *    Q: 그래도 다른 말로 바꾸고 싶으면요..?
+ *    A: 이미 알고 있는 말 쓰세요.
+ *   ☞ As soon as I get back to my office, I’ll call you back.
+ * 
+ * [복습] 
+ * 제가 대신 도와드리거나 다른 분 연결해 드릴수 있습니다.
+ * I can put you through to another representative.
+ * 
+ * 제가 뭐 도와드릴 게 있나요?
+ * Is there anything that I can help you with? 
+ * 
+ * 지금 자리에 없어요.
+ * He is not here at this moment.
+ * 
+ * 메시지 남기시면 꼭 전해드릴게요
+ * If you leave a message, I’ll make sure he gets it.
+ * 
+ * 아직 출근 안 했어요.
+ * He hasn’t made in it yet. 
+ * 
+ * 다른 사람이랑 미팅중이예요.
+ * I’m having a meeting with someone.
+ * 
+ * 가능한 한 빨리 다시 연락드릴게요.
+ * I’ll get back to you as soon as possible.
+ * 
+ * 다른 통화중이예요.
+ * I’m on the other line.
+ * 
+ * 지금 외부에 나와있어요.
+ *  I’m out of the office now. 
+ * 
+ * 회사에 들어가자마자 다시 연락드릴게요.
+ * As soon as I get back to my office, I’ll call you back.
+ * 
+ * 지금 (다른) 업무중이예요.
+ * I’m working on something (else).﻿
+
 # 쓸만한 영어 - 위로의 말 [RIP] - 상심이 크시겠어요 \마음 깊이 애도를 표합니다\위로하는 영어표현들\영어공부\영어회화
  * 가장 먼저 떠오르는 위로의 말?
  * → I’m sorry to hear that.
