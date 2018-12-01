@@ -10,8 +10,10 @@
 * 내 동료들이야; These are my assosiates
 * 115명의 식민지 주민을 두고간 채; leaving behind 115 colonists
 * 보호자 없이 관광을 했다는 명목으로 체포를 당했고; we were arrested for sightseeing without our minders
+* 어른처럼 굴었었지; Acting like grown-ups
 
 # 나이
+* 어느새 18살이 됐어; Fast forward to 18
 * 30대쯤으로 보여; She looks somewhere in ther thirties
 * Do you mind if I ask your age?
 * #동갑이야 She is your age #또래인 of my age 한 살 #차이: ~ and I are one year apart

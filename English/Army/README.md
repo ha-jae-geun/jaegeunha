@@ -19,6 +19,9 @@
 		* 사라토가 전투 미국의 승리에 크게 기여했지만 보상을 못 받아 미국군을 배반하고 영국군에 합류
 		* 대표적인 미국 아침식사: 에그 베네딕트: 위: 계란+베이컨(미국) 아래: 잉글랜드 번(영국)
 		* 할리우드 영화 속 악당 중엔 베네딕트가 많다
+*  일제 강점기는 우리 민족의 수난기였다 The Japanese occupation period was a time of tribulation for our nation
+	* 지배;  under the colonial administration of imperial Japan
+	* rull over the non-magical beings
 
 # 단어
 * 무장 병력: armedf forces, 군비 확장 경쟁; arms race

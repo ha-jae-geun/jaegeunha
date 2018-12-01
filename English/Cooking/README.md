@@ -20,6 +20,7 @@
 
 # Kitchen
 * #앞접시; please give me a #small plate
+* 두 그릇으로 나눠 주세요; Could we have this in two plates
 
 # Ingredient
 * 토핑이 덜 있어서 그런걸 수도 있어요; because there are less toppings
@@ -51,6 +52,7 @@
 * Sriracha; tabasco와 비슷한 아시아 식재료 중 하ㅏ
 
 # taste
+* 살짝 탄 토스트; Lightly burnt toast
 * 매우 뜨거운; piping hot; i like my soup piping hot
 * 간이 하나도 안되어있네; Zero seasoning
 * 입맛 떨어졌어; i completely lost my appetite

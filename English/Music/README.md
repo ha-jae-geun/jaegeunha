@@ -19,6 +19,7 @@
 * 음악에 맞춰 춤추다; i danced to the music
 
 # 노래
+* 가슴이 터지도록 부르다; SIng your least favorite song at the top of my lungs; at the top of one's lungs
 * 역주행중이다; be 'making a comback' in popularity
 * 중독적이다; it's catchy; i can't get the song out of my head; it really gets into your brain
 	* 떠오르는, 남아있는 감정; hautning memory/melody; It haunts me everytime

@@ -36,6 +36,7 @@
 * 공정하게 말하자면; To be fair
 
 # 대답
+* 그 얘긴 그만해; End of discussion
 * 내 말이 그말이야; Tell me about it
 * 당연하지; THat's given
 * 저는 말고요; None for me
@@ -50,6 +51,7 @@
 * 별것도 아닌데. It's no biggie. 
 
 # 말투
+* 우리가 힘을 합치면; if we stick together; 주로 we랑 같이 씀
 * 그것이 전염성이 있다고 가정해 보자. Let's say it's contagious.
 * 기승전결; '이 모든 것의 결말은 훌륭한 고객 서비스 에요.' "What it all comes/boils down to is excellent customer service."
 * 받아들일 게 너무 많아서; THere's a lot to take in
@@ -86,6 +88,10 @@
 * 텍사스 사는거 좋아? How do you like living in Texas?
 
 # 일상
+* 진상을 밝혀야 한다; We need to get to the bottom of this
+* 너무 성급하게 뛰어들었어; i jumped to the wrong conclusion
+* 영어의 세계관은 무엇인가요? What is the world view from English?
+  * 세계관의 공통점은 무엇인가요? What worldview do thoese three people have in common?
 * 이리 와서 앉아; Pull up a seat
 * 자 먹자; Okay, eat up
 * 평범했어; It was just run of the mill

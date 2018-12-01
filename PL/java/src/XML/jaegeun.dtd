@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ENTITY % mainfo "(이름, 무게, 가격)">
+
+<!ELEMENT 식료품 (상품+)>
+  <!ELEMENT 상품 ( 원료원산지 )>
+    <!ELEMENT 원료원산지 %mainfo;>
+    <!ELEMENT 이름 (#PCDATA)>
+    <!ELEMENT 무게 (#PCDATA)>
+    <!ELEMENT 가격 (결제)>
+      <!ELEMENT 결제 (카드 | 현금)>
+        <!ELEMENT 카드 (할인율)>
+          <!ELEMENT 할인율 (#PCDATA)>
+        <!ELEMENT 현금 (할인율)>
+  
+
+<!ATTLIST 상품
+상품유형 CDATA #REQUIRED>
+<!ATTLIST 원료원산지
+ 원산지 NMTOKEN #REQUIRED>
+ <!ATTLIST 카드
+회사 NMTOKEN #REQUIRED>
+<!ATTLIST 이름
+id ID #REQUIRED>
+<!ATTLIST 할인율
+기간 CDATA #FIXED "11월 11일까지">

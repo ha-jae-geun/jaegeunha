@@ -20,6 +20,8 @@
 	* 아기 침대 사주자; Let's get her a crib for her baby shower
 
 # 청소년 #아이
+* 어릴 때 처음 쓰기 시작했죠; i cut my teeth on those
+	* 처음 이가 나기 시작하면; When babies begin to cut their first teeth
 * 장난꾸러기, 놈당꾼; jokester; whos the joester out of the group
 * 아이들의 말투; 작은; teeny-tiny / teeny-weeny
 * 사춘기 이전; prepubescent 미국·영국 [prì:pju:bésnt];  Jimmy had a prepubescent daughter,

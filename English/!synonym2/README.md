@@ -1,3 +1,6 @@
+* 100퍼센트 동의 못함; completely disgaree, Absoutely not!, i totally disagree, That's nonsense
+  * 50퍼센트 동의 못함; i partially agree, i partly agree, You have a point buut, I agree to a certain extent
+  * 100퍼센트 동의: i completely agree, Absolutely, I couldn't agree more, That's right
 * bias; 자신의 의견이 한쪽으로 치우친 걸 의미  [ˈbaɪəs] ; sterotype, prejudice
 * 사회에서는ㄱ ㅓㄹ림돌입니다; This is a deal breaker in a community
 * 따라갈 수 있는; to follow in its footsteps; no one is forced to follow in my footsteps

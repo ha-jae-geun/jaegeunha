@@ -1,4 +1,5 @@
 ## 기타
+* 딸꾹질나요; i have the hiccups
 * 온찜질처럼 말이야; Like a heating pad
 * 고산병; altitude sickness
 * 뻐근해? Are you sore?

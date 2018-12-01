@@ -16,6 +16,7 @@
 * 값싼 배터리들을 마구 생산해내고 있었다; The factory is pumping out too many graduates
 
 ## 유명 브랜드
+* 소화제; Pepto Bismol
 * DD; Dunkin donuts
 * 맥도날드; Mickey D's
 	* Macdonald's; s를 붙이지 않으면 굉장히 어색하다; Let's go eat McDonald's

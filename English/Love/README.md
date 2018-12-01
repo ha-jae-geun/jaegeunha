@@ -1,4 +1,5 @@
 # Word
+* 삼ㄱㅏㄱ관계 같은 거; He's in some kind of, like, love triangle
 * 포옹 허그 안다; 뒤에서 안아줘요; spoon me
 	* 그대가 내 품에 없으니; Without you here in my arms; 
 	* She was holding a baby against her breast
@@ -521,8 +522,9 @@ I have a big crush on you / I have a thing for you, i'm into you
  * 걔 지금 너한테만 관심 있어. 						 He only has eyes for you. 
  * 설레다 					 pit a pat;my heart goes pit a pat, heart bounce/flutter
  * #설레지 마 심쿵하지 마 행복하지 마 내 눈에 띄지 마 ‘flʌtə(r) ’vɪƷn
- * Don’t have your heart flutter, don’t have a heart attack, Don’t come into my vision
- * *너 볼때마다 심쿵해 						 You make my heart beat faster
+ 	* 심쿵했어요; My heart just melted
+	 * Don’t have your heart flutter, don’t have a heart attack, Don’t come into my vision
+	 * *너 볼때마다 심쿵해 						 You make my heart beat faster
  * 심장이 뛰다								 his heart throbbing
  * *난 너 볼때마다 #가슴이 #떨려 	 I get butterflies everytime I see, so thrilled, give me butterflies
  * 내 심장 멎을뻔 했어			My heart stood still, my heart almost stopped beating
