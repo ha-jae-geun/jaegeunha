@@ -1,3 +1,12 @@
+* 자신들의 가축을 먹는 것에 대한 보복으로; i retaliation for eating their cattle
+* 전보다 더 악랄해서 돌아오다; He's back and badder than ever
+* 시간 그만 허비하고; Enough goofing around
+* 좋은 소식은; But, the good news is
+* 다시 괜찮아 질 수 있다는 걸 알아; We know that we might actually work
+* 내 능력을 증명해 냈어; i earned my stripes
+* 저들에게 네 가치를 보여봐; Show them what you're worth
+* 나 요즘 위태로워; i've been on the brink
+* 그냥 예술쪽에 발만 살짝 담근 정보죠; i just dabble in the arts
 * 와칸다는 잘 보이는 곳에 숨어있는 나라입니다; Wakanda is a country hidden in plain sight
 * 다 눈 속임이야; All a front; It's all a front
 * 막판에 정말 놀랐어요; Such a last minute surpise

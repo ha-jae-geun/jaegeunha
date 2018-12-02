@@ -504,3 +504,4 @@
 * 내 인생에서 떠나버리다; to walk out my life
 	* walk out of/on something; 하기로 한 일을 그만두다, 떠나버리다;; He walked out on his job
 * 네 앞날이 창창하다는 거야; You got your whole life ahead of you
+* 다 잘 될거야; Bibia be ye ye

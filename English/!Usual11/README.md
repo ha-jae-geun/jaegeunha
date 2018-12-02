@@ -1,4 +1,170 @@
-# # 쓸만한 영어 - 직장에서 꼭 필요한 전화 영어 \회사영어\전화영어\영어회화\영어공부
+# 쓸만한 영어 - 계산이 틀렸어요 - 마켓에서 거스름돈이 안맞을때 쓸만한 영어표현 - 영어회화\영어공부
+ * 복습1] 물건 계산할 때 쓸만한 영어 2016년 9월 23일
+ * *Tip 3. 계산원의 실수로 같은 물건에 대해 2번 계산이 됐을 경우
+ * - You charged me twice for the same item. 같은 물건에 대해서 2번 계산했어요.
+ * 
+ * Tip 4. 본인이 원해서 같은 물건을 하나 더 추가적으로 계산하고자할 경우
+ * - Can you charge me for two (of them)? 
+ * 
+ * *Tip 5. 계산이 거의 끝나갈 무렵 무언가 더 물건을 추가적으로 계산해야할 경우
+ * - Can you add this(하나일 경우)/ these(2개 이상일 경우) on?
+ * → Can you add this/these on? 이것도 같이 계산해주실래요?
+ * - Ring this/these up together, (please). 이것도 같이 계산해주세요.
+ * 
+ * [복습2] Gift Card 구입 /(사용)할 때 쓸만한 영어 Aug 29, 2016
+ * 
+ * Tip 1. dollar 라는 말 대신에 buck을 같은 의미로 쓸 수 있습니다.
+ * - Can you load 20 bucks(dollars) on this card? 이 카드에 20불 충전해주세요.
+ * 
+ * - Can you load 20 (bucks/dollars) on this, and 10 on the other, 
+ *   and 5 on this one?
+ * 
+ * Tip 2. 각각에 카드에 돈을 넣어달라고 할 때마다 굳이 dollars/bucks를 매번 말하지 않아도 돼요.
+ * 
+ * Tip 3. 돈을 충전한다고 할 때 동사 load 대신 put (무언가를 어디에 놓는/두는 그림)을 쓰셔도 괜찮습니다.
+ * - Can you put 20 bucks(dollars) on this? 이 카드에 20불 충전해주실래요?
+ * 
+ * ** 본인이 받은 기프트카드의 잔액을 확인 후, 
+ *    또는 그 잔액을 모두 사용 후에 추가적인 다른 잔액을 지불하고 싶을 경우
+ * - Can you check the balance?  잔액 좀 확인해주실래요?
+ * - Can you tell me how much is on this card? 
+ *   이 카드에 얼마(남아) 있는지 알려줄 수 있나요?
+ * - I am not sure how much is (left) on this card.
+ *   이 카드에 얼마가 남아있는지는 잘 모르겠어요.
+ * - I am not sure how much is (left) on this card, but I want to use whatever
+ *   is (left) on the card, then pay the rest with my credit card / (in cash).
+ * 
+ * Tip 4. "현금으로 지불하다" 라고 할 때는 in/with cash 모두 가능
+ * "카드로 지불하다"라고 할때는 항상 with만 가능
+ * 
+ * [복습3] 마켓에서 쓸만한 영어 Jan 18,2017 
+ *  I thought these were Buy One Get One Free 
+ *     but you charged me the original price for both.
+ * : 저는 이것들이 하나 사면 다른 하나는 공짜라고 생각했는데 두 개 다 계산했어요.
+ * 
+ * 잔돈을 덜 받았을 때
+ *  ? [빚을 지다] → 
+ *  ♠ owe 뭔가 (받을 것에 대해) 갚아야 할 것/줄 것이 있는 그림
+ *   You owe me a dollar.
+ *   직역: 1불 빚졌어요??
+ *   의미: 1불 덜 줬어요.
+ * 
+ * -  -$3 
+ *   You owe me three dollars.
+ *   3불 덜 주셨어요.
+ *  * 주의하세요* 
+ *   지금 계산대에서 이 말을 하고 있다면 과거형 owed라고 말하지 않음.
+ *   * owed는 “돈 줄 것을 안 줬었다”라고 이미 끝나버린 뜻이 되기 때문
+ * 
+ * 내가 돈을 덜 줬을 때 
+ *  I owe you 2 dollars
+ *  제가 2불 덜 드렸어요.
+ * 
+ * ?[뭔가 기준치에 모자라는 짧은 그림] →  
+ *  ♠ short
+ *   I was short 2 dollars.
+ *   2불 덜 드렸어요.
+ *   2불 더 드려야해요.
+ *   * 이때 be동사(am/was)는 owe와 달리 
+ *     말하고 있는 관점(perspective)에 따라 달라질 수 있음 
+ *     
+ * 
+ * 계산이 정확히 맞는 지 물을 때 (제대로 드린 게 맞나요, 맞게 드린 거 맞나요)
+ *  떠오르는 한국어 < 포.인.트. 
+ *  - 정확한 액수..? 계산이 맞아..? 맞게 줬나..?
+ * → Do I owe you more?
+ *    직역: 내가 빚진게 있나요???
+ *    의미: (더 줘야하는데) 덜 준게 있나요? 
+ *      
+ * 그 액수가 딱! 맞아요?
+ *  - 그 상황(/사람)에 딱!! (옳게) 맞으면?? 
+ *  ♠ Right !! 
+ *   Did I give you the right amount?
+ *   직역: 제가 올바른 액수(양)을 줬나요?
+ *   의미: 제가 딱 맞게 드렸나요?
+ * 
+ * * 영어공부Tip* 
+ * 이미 알고 있는 쉬운 단어를 잘 쓰는 게 정말 잘하는 거예요.
+ * 새롭고 어려운 단어를 아무리 많이 알아도 정작 써야할 때 쓰지 못하면
+ * 내 말이 될 수 없습니다. 새로운 단어를 찾다가, 어려운 단어를 쓰다가 
+ * 소통할 수 있는 순간을 놓치지 마세요.
+ * 
+ * ♠ mistake
+ *    mis(S) 놓친 그림
+ *    take 가겨가는 그림 < 제대로 뜻(상황)을 가져가지 못하는 그림
+ *                       << 제대로 못하고 실수 하는 그림 
+ *  Did I make a mistake?
+ *  직역: 실수했나요?
+ *  의미: 뭐가 안맞나요?
+ *  문맥의미: 계산 맞나요? 
+ *              
+ * 잔돈을 더 받았을 때
+ *  ♠ Extra 
+ *     알맞다고 생각되는 평균 기준보다 더 (여분으로) 남는 (더해진) 그림
+ *    You gave me extra change.
+ *    직역: 저한테 여분의 잔돈을 줬어요.
+ *    의미: 잔돈 더 줬어요.
+ * 
+ * * 헉! 이게 얼마야.. / 계산이 이상한 데.. / 뭔가 안 맞는 것 같아  
+ *  ♠ receipt [뤼 씨이:ㅌ] * 발음주의
+ *    1. P는 발음하지 않음(묵음)
+ *    2. ceipt : seat와 같은 발음
+ * 
+ *  ♠ bill
+ *      청구서
+ *    목록을 나열/정리해서 만든 그림
+ *    문맥에 따라 [법안]의 뜻도 있게 됨
+ * 
+ * [복습4] 호텔영어 3 – 룸서비스편 2018년 1월3일
+ *   8. 뭔가 계산이 잘못된 것을 알았을 때
+ * - 계산을 잘못하다 = misclaculate???
+ *   계산이 틀렸다 = calculate wrong???
+ *   *원어민 직원이 이해를 못할 수 있어요.
+ * 
+ * - There is a mistake on my bill. 
+ *   직역 : 제 계산서에 실수가 있습니다.
+ *   의미 : 계산이 잘못 됐어요.
+ * 
+ * - I think there is a mistake on my bill.   계산이 잘못된 것 같아요.
+ * 
+ * - error 에러 : 정상적으로 되지 않고 잘못된 그림
+ *   *error 발음
+ *   air 발음을 하다가 끊지 말고 바로 [뤌]을 붙여보세요.
+ * 
+ * - You made an error on my bill. 
+ *   계산에 실수가 있네요.
+ *   계산이 잘못됐어요.
+ * 
+ * ♠ error
+ * 영어공부Tip 2
+ * 발음하기 힘든 단어
+ * 1. 원어민이 하는 소리를 이해할 수 있을 정도만 익힘
+ * 2. 내가 써야할 때는 더 정확히 발음할 수 있고,
+ *    더 빨리 잘 통할 수 있는 비슷한 뜻의 쉬운 단어를 씀 
+ *  
+ * There is an error on my bill.
+ * 직역: 청구서에 실수가 있어요.
+ * 의미: 뭔가 계산이 잘못된 것 같은데요.
+ * 
+ * <복습>
+ * 2불 덜 줬어요.
+ * You owe me 2 dollars. 또는 
+ * I was short 2 dollars.
+ * 
+ * 더 내야할 게 있나요?(잔돈 덜 줬나요?)
+ * Do I owe you more?
+ * 
+ * (액수) 맞게 줬나요?
+ * Did I give you the right amount?
+ * 
+ * (나한테) 잔돈을 더 줬어요.
+ * You gave me extra change.
+ * 
+ * (계산서) 계산이 잘못됐어요.
+ * There is a mistake on my bill.﻿
+
+
+# 쓸만한 영어 - 직장에서 꼭 필요한 전화 영어 \회사영어\전화영어\영어회화\영어공부
  *  (식당에서) 아직 먹는 중이에요
  *  I’m still working on it.
  * 

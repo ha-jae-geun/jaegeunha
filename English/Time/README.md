@@ -11,6 +11,7 @@
 * 8시 정각에; 8 Clock on the dot
 * 정확히 딱; it falls dead center between them; 
 * 주말은 물건너 갔구만; There goes my weekend
+* 밤은 아직 일러; The night's young
 
 # 요일
 * 어서 금요일이 되면 좋겠어!; Roll on Friday! 듣기 출처:옥스퍼드

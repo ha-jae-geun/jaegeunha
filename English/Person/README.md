@@ -11,6 +11,7 @@
 * 115명의 식민지 주민을 두고간 채; leaving behind 115 colonists
 * 보호자 없이 관광을 했다는 명목으로 체포를 당했고; we were arrested for sightseeing without our minders
 * 어른처럼 굴었었지; Acting like grown-ups
+* 쓸모없는 인간; a waste of space
 
 # 나이
 * 어느새 18살이 됐어; Fast forward to 18

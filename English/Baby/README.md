@@ -20,6 +20,7 @@
 	* 아기 침대 사주자; Let's get her a crib for her baby shower
 
 # 청소년 #아이
+* 제비뽑기를 하다; draw straws; 과거에는 지푸라기로 제비뽑기; 재수없게 걸리다; draw the short draw
 * 어릴 때 처음 쓰기 시작했죠; i cut my teeth on those
 	* 처음 이가 나기 시작하면; When babies begin to cut their first teeth
 * 장난꾸러기, 놈당꾼; jokester; whos the joester out of the group

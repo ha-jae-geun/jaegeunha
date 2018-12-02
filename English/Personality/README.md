@@ -170,6 +170,8 @@
 * #만만	내가 그렇게 만만해? do I look easy?
 * 만만찮다	it's harder than you think
 * 제니퍼는 마음씨가 곱거든. #곱다 #착하다	Jennifer has a heart of gold.
+	* 인정을 베풀어! 	have a heart! 미국식  영국식   단어장추가
+	* 아주 친절한 사람이다 have a heart of gold 미국식  영국식   단어장추가
 * ~ is #good-nature
 * #발랄한	bubbly
 * #쾌활한 #정감있는 	#amiable warmly = friendly

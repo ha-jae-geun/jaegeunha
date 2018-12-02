@@ -1,3 +1,6 @@
+* 옥수수; corn; maize
+* 신호등 ;traffic light; 남아공: robot
+* 트렁크; trunk; boot
 * 테이크아웃; 북미권; take out; 영국, 뉴질랜드, 호주: take away; loves takeaway coffee
 * 밴드: band-aid / plaster
 * 냄비; camping pot; boiling pot; 호주: billy

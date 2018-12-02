@@ -9,11 +9,14 @@
 * 원하는 대로 골라; Take your pick
 
 # 상품
+* 주문이 잔뜩 들어오고 있어; we got a ton of orders coming in
+	* 방금 주문 하나 들어왔어; An order came in just now
 * 노동착취로 만들어지는 물품; Sweatshop products
 * 평범한 강아지들이 아닙니다; these aren't your standard run-of-themill puppies
   * run: 제품, 생산품; mill: 방앗간
  * 맞춤 제작한 제품; bespoke shoes/tailor
 * 값싼 배터리들을 마구 생산해내고 있었다; The factory is pumping out too many graduates
+* 손님이 다 떠나가고 있잖아; YOu're driving away all the customers
 
 ## 유명 브랜드
 * 소화제; Pepto Bismol

@@ -95,6 +95,7 @@ I usually sleep in / sleep late / oversleep on Sundays.
 * stay up all night = pull an all-nighter = burn the midnight oil = be up all night
 * #한 숨도 못잤어요. 							 I didn't sleep a wink.
 * #설치다; #lose sleep over
+	* 밤 잠 설치고 있어; i've been losing sleep
 * ‘잠을 못 자면서까지 그렇게 걱정하지 말아요. 			 "Don’t lose sleep over it. “
 * 기말시험 때문에 밤을 새야 되요. 		 I have to stay up all night for the final exam. 
 * ‘밤 샜다					 I stayed up all night. I pulled an all-nighter. 

@@ -49,6 +49,8 @@
 * 어쩌라고; Whatevs
 * 좋아요, 한번 해보죠; Game on, Bring it on
 * 별것도 아닌데. It's no biggie. 
+* 내가 할게; i insist
+* 아니 지금은 없어; No Not right now
 
 # 말투
 * 우리가 힘을 합치면; if we stick together; 주로 we랑 같이 씀
@@ -88,6 +90,8 @@
 * 텍사스 사는거 좋아? How do you like living in Texas?
 
 # 일상
+* 사무실에 계신 분 다 주목해주세요; Ttention in the office, please
+* 까불지 마; don't mess with me
 * 진상을 밝혀야 한다; We need to get to the bottom of this
 * 너무 성급하게 뛰어들었어; i jumped to the wrong conclusion
 * 영어의 세계관은 무엇인가요? What is the world view from English?

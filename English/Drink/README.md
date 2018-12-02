@@ -140,8 +140,9 @@
 * she downed her drink in one
 * you just #down the wine
 * 원샷하다; to drink something down = to take it down = to chug to knock one back 
-* = to slam a drink/beer = to #knock back a drink
-* #one shot; 출판물이 딱 한번만 출판됨 2. one shot one kill
+	* = to slam a drink/beer = to #knock back a drink
+	* #one shot; 출판물이 딱 한번만 출판됨 2. one shot one kill
+	* 한번에 원샷하라고? A whole bottole in one go
 * #건배 | #원샷
 * 오늘 밤 술은 내가 쏜다	Drinks are on me tonight.
 * 금주하고있어요							I'm going dry / sober

@@ -1,5 +1,6 @@
 # Word
-* 삼ㄱㅏㄱ관계 같은 거; He's in some kind of, like, love triangle
+* 내가 놓친 그사람; get away; 미련 남는 사람; the one that got away
+* 삼각 관계 같은 거; He's in some kind of, like, love triangle
 * 포옹 허그 안다; 뒤에서 안아줘요; spoon me
 	* 그대가 내 품에 없으니; Without you here in my arms; 
 	* She was holding a baby against her breast
@@ -254,6 +255,8 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #belong together; 속해있다, 잘 어울리다; we belong together
  * 정말 잘 어울리는 한쌍이다 What a lovely couple you make
  * 미국은 커플 아이템 잘 안함, 커플 반지는 약혼ㆍ결혼을 뜻함
+ 	* 커플 문신했잖아; we got matching tattoos
+ 	* 커플링하자; Let's get matching rings
  * bird: 자기 또래의 여자를 지칭할 때 쓰는 말
  * 썸 기간: Dating period ; How long 
  * 이 동네에는 서로 시시덕거리는 연인들이 많다. 		 jʌŋ ‘kʌpl f'útsi i:tʃ ’ʌðə(r) taʊn

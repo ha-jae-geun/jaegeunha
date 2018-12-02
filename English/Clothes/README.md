@@ -188,6 +188,8 @@ sportwear ; sweaet suit, jogging suit
 are you afraid of heights? your zipper is
 * #지퍼 좀 닫아 									 #zip it up 
 	* XYZ; Examine one's zipper
+  * 지퍼를 올려봐ㅣ do/undo your zip
+* 단추; do/undo the buttons
 * #zip through; 빨리 해치우다;
 * 나는 옷이 많아	I have a large wardrobe(옷장) wɔ:rdroʊb
 * (흔히 #단체복으로 통일된) 콤비 상의, 블레이저	blazer 미국∙영국 [|bleɪzə(r)] 

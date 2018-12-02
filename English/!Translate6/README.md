@@ -1,3 +1,11 @@
+# [ LESSON #20 ] - "할게 있다/없다/많다" - "그때까지는 할게 별로 없다"
+* 너 시간 있니: Do you have time?
+* 너 지금 뭐 할거 있어? Do you have something to do right now?; 빨리 발음하다 보면 썸음만 발음
+* 아니 지금은 없어; No Not right now
+* 3시에 누구 만나기로 했는데 그때까지는 별로 할거 없어
+  * I'm supposed to meet someone at 3(o' clock), but until then i don't have (much, a lot) to do
+    * 별로라는 말 전달 위해 ;much; 아예 없다; nothing
+
 # [ 영어회화 연습가이드 #35 - (제대로 공부모드인 사람을 위한) 하드코어 연습모드 ☠️ ]
 * 직업을 가지고 어느 정도 오래 일을 해온 사람들은 이런게 있는 것 같아요;
   * i think for thoese of us who have jobs and have been working for some time(내 자신을 포함 시켜서 상대방을 가르치려는 의미 없앰) have this habis of telling ourselves that(착각일 수 있다는 것을 내포); this: 이런게 있다는 의미 내포; 

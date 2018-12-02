@@ -11,6 +11,7 @@
 * 고등학교 시절 예쁜 친구 찾으려면; if  you wanna look up all these hotties
 
 # 만남
+* 예고 없이 놀러와; You come over unannounced
 * 노담 괜찮네요; Good one
 * 내 고민거리를 가지고 올게; i'll come with my problems
 * 우리 어디서 만날까? Where shall we meet?

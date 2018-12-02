@@ -2,6 +2,7 @@
 * 한국은 압수하면 국고로 들어간다.
 
 # 나쁜짓
+* 얄팍한 속임수들을 소개합니다; Here are some sneaky ways
 * 죗값을 치렀어요; i've done my sentence
 * 삼성쪽에서 직접 사진을 유출했죠; Samsung leaked a picture
 * 그럴듯하게 속이다; put on a show; they put on such a good show at first
@@ -28,6 +29,10 @@
 * 밀고; rat/snitch; on someone/ She was a rat
 * 조세제도에서의 허점을 발견했다; He found a loophole in the taxsystem
   * 허점 이용, 장애물 피하기; expolit every loophole and doeged obstacles
+* 사기; scam; He got involved in a credit card scam
+  * 그 가짜 의사에게 사기를 당했다. She was scammed by the fake doctor; 순진해서 잘 속는; Gullible
+  * 사기꾼: fraud; fraud, con, dupe, scam; He was jailed for three years for fraud and tax evasion
+* 도망중이야; Two supects are on the run
 
 #경찰서 #법원	#형사 police(2번째 강세)
 * 범죄과학 감사를 실시할 예정이다; WE're going to do a full forensic audit

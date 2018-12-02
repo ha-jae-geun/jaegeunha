@@ -99,6 +99,7 @@
 * 누명쓴거에요; i'm being falsely accused
 	* 무고한대요; i'm 100% innocent
 * 자애로운 미소/태도 				 [bə|nevələnt] a benevolent smile / attitude
+	* 다들 얼굴이 미소를 머금고 있어요; Everybody's got a grin on their face
 * #자기 도취증에 빠진; narcissistic
 * #자애로운
 * #weary; 지치다; a little bit more weary = #gas out = be #stressed out
@@ -502,7 +503,7 @@
 * 나를 엄청 신경써주어서 황송했어요	 	I was so humbled to receive people’s generousity
 * #황송
 * 침착해: calm down, 살살해; #Take it easy: 살살해, 진정해, 헤어질 EO 가벼운 인사, as cool as cucumber
-* 침착(n) #메ㅣㅐㅡㅠ
+	* 침착해; Lay back
 * 냉정하져 chill out, 긴장 풀어 sit back and relax 진정해 Chill out!! Nothing to worry about. 
 * 현실에 안주하다 	 complacent(현실에 안주하다) with status quo(스테터스 쿼오: 현상태)
 * 진정해 keep it together Keep your shirt on. Keep your cool. Don't lose your temper Don't be nervous
@@ -1186,6 +1187,7 @@
 * #애절; #sad, #mournful, #pathetic; #plaintive; #sorrowful
 * #기쁨의 눈물; #tears of joy
 * #heart wrenching; 가슴이 찢어지게 아픈
+	* 마음은 솔기 터지듯 찢어지고 있어; MY heart is breaking at the seams; fall/com aprt at the seams
 * #슬프다 #슬픈 #울다 #눈물 #우울하다
 * ☆it's a #damn/god damn shame; (비꼬기 가능)
 * 아쉽다 										I hate ~
