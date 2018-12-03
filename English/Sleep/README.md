@@ -38,7 +38,8 @@ I had sleep #paralysis
 * 안자고 모해 What are you doing out of ##bed
 * sleep down; 여기 아래서 잤어?; would you sleep down here?
 * #잠꼬대 							 You talked in your sleep.
-* #코골이 do you #snore? 이갈이 do you #grind your teeth in your sleep?, #잠꼬대 Do you talk in you sleep?, #몽유병 I walk in my sleep
+	* #코골이 do you #snore? 이갈이 do you #grind your teeth in your sleep?, #잠꼬대 Do you talk in you sleep?, #몽유병 I walk in my sleep
+	* 시끄럽게 자는 사람의 표본이에요; i'm a classic noisy sleeper
 * 수면 장애 									 sleep disorder
 * #몽유병 		#somnambulism, This prisoner transfer is no sleepwalk. 예문 발음듣기
 * 불면증 						 ɪn‘sɑ:mniə insomnia, #lethargic

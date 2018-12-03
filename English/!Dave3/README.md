@@ -7,6 +7,15 @@
 * 저들에게 네 가치를 보여봐; Show them what you're worth
 * 나 요즘 위태로워; i've been on the brink
 * 그냥 예술쪽에 발만 살짝 담근 정보죠; i just dabble in the arts
+* 그들은 실업률과 인플레이션 사이의 균형을 유지하고자 했다. They were attempting to trade off inflation against unemployment. 
+* 노화 과정을 상당히 늦츨 수 있어; can significantly retard the aging process
+* 지어내요, 지어내요; Make it up
+* 아주 즐거운 일이에요; It's grand
+* 몇 년이나 걸려서야 사그라들었지; Let a couple years water down 
+* 머릿속에서 널 떨쳐낼 수 없어;  i can't get you out of it; be stuck in my head
+* 기념품들을 줬었는데요; She gave us some swag
+* 호흡 기능은 금방 쇠퇴하지 않아요; They don't waste away so quickly
+* 시계를 되감는 것 처럼; WInd back the clock
 * 와칸다는 잘 보이는 곳에 숨어있는 나라입니다; Wakanda is a country hidden in plain sight
 * 다 눈 속임이야; All a front; It's all a front
 * 막판에 정말 놀랐어요; Such a last minute surpise

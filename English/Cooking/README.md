@@ -214,9 +214,10 @@
 * 감자 튀김 #Tater Tots
 * #콩 #완두콩 #edamame peas
 * #생선 #해산물
-* 생선살을 fillet(마트에서도 자주 쓰는 용어예요.)
-* 생선의 알은 #roe라고 합니다. 생선의 알 중에서 가장 비싸다고 할 수 있는 
-* #철갑상어의 알은 캐비아 caviar
+	* 생선살을 fillet(마트에서도 자주 쓰는 용어예요.)
+	* 생선의 알은 #roe라고 합니다. 생선의 알 중에서 가장 비싸다고 할 수 있는 
+	* #철갑상어의 알은 캐비아 caviar
+	* 날생선이나 덜익은 생선; raw or undercooked fish
 * 적응하지 못했어요 				#fish out of water; I was a fish out of water
 * 그는 #술고래야 he drinks like a fish
 * 난처한 상태 kettle of fish

@@ -38,17 +38,21 @@
 * √ buff 복습 --> He was spotted on the beach looking extremely buff (그는 끝내주는 몸매를 보여 그 해변에서 단연 눈에 띄었다)
 * √ Speaking of healthy habits, you should start getting up at 6 from tomorrow (건강습관 얘기 나온김에 낼부터 아침 6시에 일어나봐)
 * 몸에 좋다 			 it's good for you it's healthy, it's good for 설명(circulation)
-* 멀쩡한; ##intact(2. 고장나지 않은)
-* #athletic, #fit, #healthy - 건강한, 탄탄한 <-> feeble - 연약한
-* 그는 멀쩡했다 			 none the worse for wear" He was no worse for wear 
-* be right as rain(#right, #rain)
-* #건강이 좋아 보이세요. 	 세심한 관리와 유지가 필요한 You seem to be as fit as a fiddle.
-* #이상무 We’re all clear
-* #fiddle; fit as a fiddle; #fiddle: 바이올린
-* 온전한; #intact; truck seems intact
-* 건강을 되찾다; #back on one's feet; #feet; my friend is back on his feet
-* 걔는 건강에 너무 집착해. 						 He’s a #health nut.(#nut)
-* 건강 조심해 #don't be going #downhill
+  * 건강하다; feel/be as fit as fiddle = to be a picture of health = be agreat example of good health
+  * 멀쩡한; ##intact(2. 고장나지 않은)
+  * #athletic, #fit, #healthy - 건강한, 탄탄한 <-> feeble - 연약한
+  * ㅇ
+  * 그는 멀쩡했다 			 none the worse for wear" He was no worse for wear 
+  * be right as rain(#right, #rain)
+  * #건강이 좋아 보이세요. 	 세심한 관리와 유지가 필요한 You seem to be as fit as a fiddle.
+  * #이상무 We’re all clear
+  * #fiddle; fit as a fiddle; #fiddle: 바이올린
+  * 온전한; #intact; truck seems intact
+  * 건강을 되찾다; #back on one's feet; #feet; my friend is back on his feet
+  * 걔는 건강에 너무 집착해. 						 He’s a #health nut.(#nut)
+  * 건강 조심해 #don't be going #downhill
+* 몸이 안좋다; you look a bit under the weather
+  * Are you unwell?
 * #병맛; #Borderline Insanity(#Insanity) 
 * 검안사; 안과의사 optometrist; eye doctor; opthalmologist
 * 속성 다이어트해얒; i should go on a crash diet
@@ -302,6 +306,8 @@
 * 치료 받다 if I receive treatment
 * 치료 비용이 너무 많이 든다 the treatment costs too much
 * 상처를 치유하다; #dress a wound(#wound)
+  * 큰 상처를 입다; take a knock; this has definitely taken a knock for me
+  * 전투로 남은 흉터로 가득하다; full of battle scars 
 * 빠른 #쾌유를 빕니다				Get well soon.
 * #링거	have an IV intravenous [|ɪntrə|vi:nəs]
 * intra: 안쪽의 #venous: #정맥의

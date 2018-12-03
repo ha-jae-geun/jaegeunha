@@ -963,7 +963,8 @@ firm
 * 저희의 가죽 상품은 특히 유럽의 패션 리더들 사이에서 인기가 있습니다.
 * Our leather goods are popular, especially among trend setters in Europe. (✽trend setter 패션 리더)
 * 중국 투자자들이 특히 저희의 AI 기술에 관해 관심을 갖고 있습니다.
-* Our Chinese investors are particularly interested in our AI technology.
+	* Our Chinese investors are particularly interested in our AI technology.
+	* 투자 자금을 받다; receive investment funds; get some investments
 * 특히, 국내 마케팅 전략에 관여할 것입니다.
 * In particular, we will be involved in domestic marketing strategies.
 * 이 보고서는 프로젝트에 관한 기본 정보를 제공할 것입니다.

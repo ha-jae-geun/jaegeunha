@@ -505,3 +505,6 @@
 	* walk out of/on something; 하기로 한 일을 그만두다, 떠나버리다;; He walked out on his job
 * 네 앞날이 창창하다는 거야; You got your whole life ahead of you
 * 다 잘 될거야; Bibia be ye ye
+
+# 화장실
+* 배변활동; bowel movents; It's about bowel movement [ˈbaʊəl]

@@ -11,6 +11,7 @@
 
 
 # 연예인
+* 대사 연습을 해볼게요; we're going to do some run-throughs on lines
 * 환호받는 여배우; Accalimed actress; 자칭의; Self-proclaimed
 * (2차 면접 등을 위한) 재통보; Call back for roles
 * 공연장은 이렇게 생겼어요; this is what the venue looks like

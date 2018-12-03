@@ -335,9 +335,10 @@
 * #이랬다 저랬다	It has been raining on and off all day.
 * #싹싹한	싹싹한 genial ‘dƷi:niəl
 * #상냥한	상냥한 soft-hearted = #genial = #hospitable
-* 그 친구 인심이 상당히 좋아. 		 	He's pretty generous. He's good natured. sweet. 
-* #호감이 가는	호감이 가는 likable 
-* 그 친구 밝고 호감형이야... 			He is bright and likable. 
+	* 이렇게 자상하게 나올 때 좋아요; i like when you get Southern on me
+	* 그 친구 인심이 상당히 좋아. 		 	He's pretty generous. He's good natured. sweet. 
+	* #호감이 가는	호감이 가는 likable 
+	* 그 친구 밝고 호감형이야... 			He is bright and likable. 
 * #털털하고 #시원시원	has an #easy-going and cool attitude
 * #헤픈 여자	#easy girl; 주로 여자에게 많이 쓰임
 * #성실한 #근면한	성실한 sincere, assiduous[ǝsídʒuǝs], dilligent, laborious, persevering[pə̀ːrsǝvíəriŋ] = #industrious

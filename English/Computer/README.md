@@ -3,6 +3,7 @@
 	* 이중 페이지 만들어 단속 회피
 
 # 게임
+* 화면 돌려보죠; Let's switch over
 * * 그냥 하늘에 떠 있을 뿐이야; It's just a little airborne
 * #궁	ult [|ʌltɪmət]; you got ult
 * 작전 #계획 #game plan

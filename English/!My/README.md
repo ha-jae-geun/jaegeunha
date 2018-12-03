@@ -242,6 +242,7 @@
 
 
 # 연결어
+* 새우 뭐시기랑; SHrimp thingy
 * -할것 같다; be likely/unlikely to
 * 최소한 그들에게 -해줘야 한다고 생각합니ㅏㄷ; the least that + 주어 + deserve is; the least that they deserve is
 * ~하는 사람; i'm the one who ~

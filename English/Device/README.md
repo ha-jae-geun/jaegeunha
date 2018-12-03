@@ -116,6 +116,7 @@ shop, car service sation
 * 육체 노동을 하다	do manual labor
 * 트럭을 몰다	drive a truck
 * 장비를 작동시키다	operate machinery
+	* 모두 작동하기 시작하면; It goes into overdrive
 * 전자제품을 수리하다	repair appliances
 * 옷을 꿰매다	soʊ sew clothes
 * #꿰매다	I had four #stitches, I received four stitches

@@ -83,6 +83,8 @@
 
 
 # 곤충
+* 기생충; wormy parasites / parasitic worms
+	* 숙주; The parasites hatched eggs in the flesh of the host animal
 * 벌에 쏘이는 것보다는 괜찮았어요; Not as bad as a bee sting
 * #쇠똥구리 									 dung beetle 
 * 빈대 								 bed bug 발진 bed bug rash
