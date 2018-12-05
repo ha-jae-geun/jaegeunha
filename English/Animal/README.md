@@ -48,6 +48,7 @@
 * 거대한 사냥개; a gigantic hound; 셜록
 
 ## 동물
+* 송곳니; fang 미국식 [fæŋ]  영국식   단어장추가
 * 고양이 털에 알레르기 있어요; i was allegic to cat hair
 * 육식성의; carnivore 미국식 [ˈkɑːrn-]  영국식 [ˈkɑːnɪvɔː(r)]; carnivorous
 * 초식성의; herbivorous 미국식 [hə:rbívərəs] 

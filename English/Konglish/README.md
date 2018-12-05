@@ -145,6 +145,7 @@
 * #원피스										 dress dres
 * ##니트 									#knitwear
 * #프리 사이즈 								one size‘ one size fits all
+* 무알코올; Non-Alcohol Beer
 * #프리토킹; #casual conversation
 * #인프라; #infrastructure
 * #커플링; #matching rings
@@ -165,6 +166,7 @@
 * 회사			 KIA: 키아 LG: 엘쥐 현대: 현다이 롯데리아: 로테리아 강남: 갱남
 * #원룸: 											 Studio
 * #볼펜: 										 ballpoint pen.
+* 아이스크림; popsicle
 * #사인펜; #felt tip pen
 * #샤프: 					 automatic pencil, click pencil mechanical pencil
 * #샤프심				 mechanical pencil lead 혹은 간단하게 lead[led]

@@ -2,6 +2,7 @@
 * 외국인 등록증 있으십니까? Do you have your alien registration card?
 * 나는 여기서 외국인이죠; i'm a legal alien here
 * 국민적 자부심, 애국심? National pride or patriotism
+* 이민자를 부르는 말이죠; F.O.B stands for "fresh off the boat"
 
 # 정치 그룹
 ## 피그스 [ Portugal, Italy, Ireland, Greece, Spain ] 

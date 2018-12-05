@@ -1,3 +1,6 @@
+# 기타
+* 도미노 효과를 일으키다; create a knock-on effect; 파급 효과: ripple effect; 낙수 효과: trickle down effect
+
 # 펭귄 효과;
 * 어떤 제품에 대해 확신 못하다가 누가 사면 구매 대열에 합류하는 효과
 

@@ -8,6 +8,7 @@
   * <> out of tuition
 
 # 대학
+* 책을 넘기다; flip the pages; i've turned to the first page
 * 수업을 잘 따라가나요? follow one's school well
 * 수업을 듣다; take a course
 * #TA; teaching assistant; 조교

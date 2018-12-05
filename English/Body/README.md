@@ -285,6 +285,7 @@ how dare you say such a thing #to my face
 
 
 # 다리
+* 다리가 천근만근이에요; My legs feel like lead
 * 다리가 후덜거려	My legs are shaking
 * 다리가 길거 쭉쭉 뻗었어	she's got long and #lean legs
 * #쩍벌	#manspreading; man sits with his legs #wide apart(#apart) on public transportation

@@ -1248,21 +1248,22 @@
 * 너 엉뚱한 사람한테 화풀이 하는거야; YOu're taking it out on the wrong person
 * 처음부터 우리 서로한테 열 받게 한 것 같아요 		 I think we got off on the wrong foot
 * 빡치네				 I'm pissed off > I'm ticked off / hit the ceiling/roof
-* 엄청 화를 내다 						 have a fit; my boss had another fit
-* #hot under collar
-* #go overboard(#overboard)
-* #자제력을 잃다; get carried away(#carry) = lose your #marbles
-* #폭발, #분출; #erupt in[into]; teeth erupt
-* #detonate dynamite
-* 나 미친 듯이 분노한 상태야 							 I'm fired up
-* #버럭 화를 내다; #fly off the handle(#handle)
-* #irate; how would you deal with an irate customer?
-* #bite/#snap someone's head off
-* ☆the boss #snap at me for no reason
-* #wrath; 분노; wrath of god: 신의 분노
-* 그 친구 그 하는 일에 완전 빡돌았죠. 		 He absolutely cheesed off with his job.
-* 걔 여자친구한테 폭발했어 					 He went off on his girlfriend.
-* 엄마는 금방 #이성을 잃으셔 					 Mom easily loses her cool
+	* 엄청 화를 내다 						 have a fit; my boss had another fit
+	* #hot under collar
+	* #go overboard(#overboard)
+	* #자제력을 잃다; get carried away(#carry) = lose your #marbles
+	* #폭발, #분출; #erupt in[into]; teeth erupt
+	* #detonate dynamite
+	* 나 미친 듯이 분노한 상태야 							 I'm fired up
+	* #버럭 화를 내다; #fly off the handle(#handle)
+	* #irate; how would you deal with an irate customer?
+	* #bite/#snap someone's head off
+	* ☆the boss #snap at me for no reason
+	* #wrath; 분노; wrath of god: 신의 분노
+	* 그 친구 그 하는 일에 완전 빡돌았죠. 		 He absolutely cheesed off with his job.
+	* 걔 여자친구한테 폭발했어 					 He went off on his girlfriend.
+	* 엄마는 금방 #이성을 잃으셔 					 Mom easily loses her cool
+	* 나중에 폭발해서 남에게 상처 주잔ㅇ하; They bubble up later in hurtful ways
 * #툭하면 화내다; . He gets angry #at the drop of a hat.
 * 이성을 잃다; be #beside oneself with = at the end of self/control
 * i'm beside myself with #rage/#anger/#worry

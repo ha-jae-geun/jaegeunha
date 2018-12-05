@@ -25,6 +25,7 @@
 * ASMR; Autonomous Sensory Meridian response
 
 # 인터넷
+* 블로그를 운영하다; run a blog
 * 매우 반응이 느리고 터치 인터페이스도 끔찍하다.  Very laggy and the touch interface is terrible.
 * 온라인상에서 덧글이 쭉 달려있는것 : thread
 	* email thread: 이메일을 주고받으면서 답장과 답장들이 줄처럼 길게 달려있는 이메일

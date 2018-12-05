@@ -1,3 +1,8 @@
+* 기대; be above/beyond expectations
+  * well(far) above/below
+  * meet/satisfy expectations
+  * exceed/surpass expectations
+* 마감기한; miss/meet/extend the deadline; The deadline for - is approaching
 * 100퍼센트 동의 못함; completely disgaree, Absoutely not!, i totally disagree, That's nonsense
   * 50퍼센트 동의 못함; i partially agree, i partly agree, You have a point buut, I agree to a certain extent
   * 100퍼센트 동의: i completely agree, Absolutely, I couldn't agree more, That's right

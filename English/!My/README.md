@@ -21,6 +21,7 @@
 * I said I would be ther as soon as I could
 
 # 접두어
+* 사실은; But deep down,
 * 의심의 여지없이; Without question
 * 쉬운 용어로; In plain English
 * 돌이켜보면; In retrospect 미국·영국 [rétrəspèkt]
@@ -34,8 +35,10 @@
 * 내 세대에는; in my day
 * 내일부로/ starting tomorrow
 * 공정하게 말하자면; To be fair
+* -와는 반대로; as opposed to -; 비교와 대조를 위한 표현
 
 # 대답
+* 그만해; Knock it off = Quit it = Cut it out = Don't cross the line = stop that = Enough is enough
 * 그 얘긴 그만해; End of discussion
 * 내 말이 그말이야; Tell me about it
 * 당연하지; THat's given
@@ -53,6 +56,7 @@
 * 아니 지금은 없어; No Not right now
 
 # 말투
+* 틀렸어를 유하게: Are ou sure? i thought, I think you might be mistaken
 * 우리가 힘을 합치면; if we stick together; 주로 we랑 같이 씀
 * 그것이 전염성이 있다고 가정해 보자. Let's say it's contagious.
 * 기승전결; '이 모든 것의 결말은 훌륭한 고객 서비스 에요.' "What it all comes/boils down to is excellent customer service."
@@ -88,8 +92,19 @@
 * -는 언제 끝날 것 같애; when do you think; you'll be done with A
 * 누가 생각이나 했겠어요; Who woul'dve ever thought?
 * 텍사스 사는거 좋아? How do you like living in Texas?
+* 뭐라고 불러드려야 할까요? What should i call you? What can i call you?
+* 네가 뭔데 그래? Who do you think you are?
 
 # 일상
+* 농담 아니에요; I kid you not
+* Not bad 완전 좋다; Perfect; 완전별로; 비꼬기
+* 앞장서; YOu guys lead the way
+* 숙여, 피해; Duck!
+* 몰래 준비한게 틀립 없어; You must have something up your sleve; have - up one's sleeve(s)
+* 어떤 변태같은 남자 봤어; this;어떤; i saw this creepy guy in the bathroom
+* 말은 쉬워도 행동은 어렵다; It's easier said than done 
+* 헛간으로 따라와; follow-to; Follw me to the barn
+* 계속 미루다가 드디어 이제 하게 됐어; I finally got around to it
 * 사무실에 계신 분 다 주목해주세요; Ttention in the office, please
 * 까불지 마; don't mess with me
 * 진상을 밝혀야 한다; We need to get to the bottom of this

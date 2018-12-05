@@ -25,6 +25,7 @@
 
 
 # 단어
+* 일이 손에 안잡혀; I can't concentrate on my work
 * 홀루의 지배지분; controlling interest in Hulu
 * 이 인수에대해 어떻게 생각해? what do you think about this acquistion? [ˌækwɪˈzɪʃn]
 * 그냥 수평 디동이잖아; it would be a lateral move

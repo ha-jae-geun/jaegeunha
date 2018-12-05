@@ -235,6 +235,7 @@
 * Do you have a driver's license? 
 * #장롱면허 I do, but I don't drive
 * 초보운전 스티커 붙이고 연습해봐 Put a beginning driver' sticker on your car and practice
+	* 저는 초보 운전자에요; i'm a new driver
 * ##면허
 * #단속				 		 DUI Driving under influence; doing DUI test
 * #엄중 단속; #crackdown; are strengthening its crackdown on reckless driving

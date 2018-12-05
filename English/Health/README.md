@@ -660,3 +660,5 @@
 * 과해지면 안되는데; Don't overdose
 * 진정제; sedative 미국식 [ˈsedətɪv]  tranquillizer 미국식[ˈtræŋkwəlaɪzə(r)]
 * 처방전/절차 업시 살 수 있는; over-the-counter; You can get Tylenol over the counter
+* 우리는 금단현상을 겪게 되었습니다; we were going through withdrawal
+  * 단번에 그만두다; quit cold turkey

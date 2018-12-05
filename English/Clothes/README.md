@@ -11,6 +11,7 @@
  * attire; 옷을 얼마나 갖춰입었는지
    * formal attire, casual attire, business attire
 
+* 패션 전문가; fashion guru; 자칭 패션 전분가; self-proclaimed fashion guru
 * 그 옷을 입은 이후부터; Ever since i put on this outfit
 * 그 옷은 모피로 만들어졌다; The clothes is made of fur.
 * 이 색은 나한테 안받아; THe color doesn't match me

@@ -54,6 +54,7 @@
 * burn calories
 * 유산소, 가슴, 등, 삼두, 전신 다해요; Cardio, do some chest, back, tri's the whole body
 * 팔근육 다시 키워야지; Gotta reload those guns
+	* 알통봐; Check out my guns; i work out my guns everyday
 * 심장이 빨리뛰네요; my heart's racing
 * 시험자는 체력장에서 허리 힘을 검사 받는다.An applicant is tested for back strength at a physical examination(체력장) as others wait for their turn
 ---------

@@ -66,6 +66,9 @@
 
 
 # 통일
+## 주사파
+* 주체사상파(主體思想派, 주사파)는 대한민국에서 조선민주주의인민공화국의 지도이념인 주체사상을 지지하고 그에 따른 정치 운동을 하는 사람들을 가리키는 
+
 ## 2018 최진기의 생존경제 - 북한과 친해지면 생기는 한국경제의 3가지 변화
 * 북한과 친해지면 군인수가 감소되어 노동력이 올라간다.
   If you get close to North Korea, the number of soldiers will decrease and the labor force will increase.

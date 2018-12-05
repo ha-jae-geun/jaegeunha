@@ -1,3 +1,8 @@
+# 언어
+* 외국어; second laguage, foreign language
+* 모국어; first language, native language, mother language, mother language
+* 3국어; third language
+
 * 옥수수; corn; maize
 * 신호등 ;traffic light; 남아공: robot
 * 트렁크; trunk; boot

@@ -2,6 +2,7 @@
 * 그때부터; we've been friends #since then = #ever since = #from then on
 * 맑은 정신으로 생각해보면; In the cold light of day
 * 십분 활용하다; get a lot of mileage out of; your car
+* 도착 시간을 맞추다; In order to time it's arrival with the rest; tiime one's arrival
 
 # 시간
 * 우호적인 시기; honeymoon period/phase

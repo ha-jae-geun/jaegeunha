@@ -27,6 +27,7 @@
 * 분쟁에 합의하다; settle the dispute; for thirteen
 
 # 사회
+* 저희는 휠체어를 탄 아이들을 위해 모금했어요; We've already raised thousands of dollars for the little wheelchair kids
 * 핀란드에서 같이 교회 선교활동을 했었고; We served in Finland together on our church mission
 * 학생 저항 운동권에 대한 군부의 강력한 탄압  a military crackdown on student protesters 
 * 회의장은 -가 맡았다; The meeting was chaired by Mr.Redford

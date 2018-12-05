@@ -30,6 +30,7 @@
 마지막으로 소개해드릴 주방가전은 커피 메이커(coffee maker)입니다. 커피의 소비가 많은 미국답게 대부분의 미국 가정에는 커피 메이커가 있습니다. 한국은 에스프레소(espresso, 커피원두를 갈아 높은 압력으로 추출한 커피 액) 커피를 즐기지만, 미국에서는 에스프레소 커피 못지않게 드립 커피(drip coffee, 커피원두가 갈린 가루에 물을 타서 거름지에 걸러 낸 커피)를 많이 마십니다. 
 
 
+* 난간; 난간을 잡다 to hold on to the banister/banisters 
 * 아직 집을 다 꾸미지 않아서; i'm not done with my place yet
 * 전세; I have a lease on this house I live in; #월세; How much is the monthly rent[rental fee]?
 * 그릇	#receptacle
@@ -65,6 +66,7 @@
 * 
 
 ## 집	#집돌이; I've become quite the home body. 	
+* 잠깐 들르다; nip down; Alex has just nipped out to the bank
 	* 지낼 곳; Every night we're grateful for having a roof over our heads; a roof over head
 * 샴푸하다; you can't shampoo your hair everyday
 * 휴대폰 두 개의 중간에 경첩이 달려있다; it's just two phones attached by a hinge in the middle
@@ -505,6 +507,8 @@
 	* walk out of/on something; 하기로 한 일을 그만두다, 떠나버리다;; He walked out on his job
 * 네 앞날이 창창하다는 거야; You got your whole life ahead of you
 * 다 잘 될거야; Bibia be ye ye
+* 아픔을 재경험해야한다; We need to relive the sorrow
+* 인생을 최대한 충실하게 살다; Live it to the fullest; live it(life) to the full(est)
 
 # 화장실
 * 배변활동; bowel movents; It's about bowel movement [ˈbaʊəl]

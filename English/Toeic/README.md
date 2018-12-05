@@ -13,6 +13,7 @@
 * be provided / be sent with / come with / along with 
 
 # 단어
+* nearly 1. 거의 2. 대략+숫자
 * be hopeful that 주어 + 동사 / hope that 주어 + 동사
 * be especially/specifically 동사/형용사; skilled at
 * arrpoximately는 90% 숫자 아니면 동사

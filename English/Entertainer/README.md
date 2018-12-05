@@ -25,6 +25,7 @@
 * 최애를 뽑은 개 아니에요; i'm not picking favorites; play favorites: 편애하다
 
 # 영화
+* 시사섬을 주는 폭로성 영화; thought-provoking expose; withouht hitting a thought-provoking expose
 * 제작 취소된대; - got calceled!
 * 가벼운 영화; lighthearted movie <> heavy movie
 * 영화 초반에; In the beginning of the film / at the end of the film

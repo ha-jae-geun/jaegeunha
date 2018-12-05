@@ -16,6 +16,10 @@
 * 기념품들을 줬었는데요; She gave us some swag
 * 호흡 기능은 금방 쇠퇴하지 않아요; They don't waste away so quickly
 * 시계를 되감는 것 처럼; WInd back the clock
+* 피크타임에 집중 운항하기 시작했따; They've banked their hubs; bank: 모으다, 집중시키다
+* 바보 취급 하려고 한 거야? Why would you try and play me for a fool?
+* 잘난체하는건 재밌다는 겆; lord knowleddge over people
+* ㅇ리는 금단현상ㅇ을 겪게 되었습니다; we were going through withdrawal
 * 와칸다는 잘 보이는 곳에 숨어있는 나라입니다; Wakanda is a country hidden in plain sight
 * 다 눈 속임이야; All a front; It's all a front
 * 막판에 정말 놀랐어요; Such a last minute surpise
