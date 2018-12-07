@@ -1,3 +1,17 @@
+# 왕
+## 캄비베스 2세
+* 술을 많이 마시면 눈도 흐려지고 어지러워진다라고 간언한 신하의 아들을 활로 심장을 꿰뚫음
+
+## 은나라 주왕
+* 기원전 10세기 중국
+* 주지 육림
+* 포락지형
+
+## 연산군
+* 폐비 윤씨의 보복
+
+
+
 * 그는 부족을 개화시키려고 노력했다; he tried to civilize the tribe	
 * 13세기에 하나의 부족으로 시작했다; they began as a tribe in the 13th century
 * 고대 유적을 발굴하다; excavate ancient ruin [ˈekskəveɪt]
