@@ -491,6 +491,8 @@
 * 청소부가 바다에 떠다니는 스레기를 모았어; A chinese dustman collects floating rubbish from the river/net
 * 쓰레기통에 버렸잖아; you tossed it in the trash
 
+## 청소
+* 작업자는 먼지를 안정되게 하기 위해 물을 뿌렸다; A worker sprays water over a house to settle dust
 
 # 살다
 # 인생
@@ -509,6 +511,11 @@
 * 다 잘 될거야; Bibia be ye ye
 * 아픔을 재경험해야한다; We need to relive the sorrow
 * 인생을 최대한 충실하게 살다; Live it to the fullest; live it(life) to the full(est)
+* 일생에 있을까 말까 한 기회; That is once-in-a-lifetime opportunity
+* 그리고 저는 도덕적인 삶을 살아요; And i live a moral life
+
+## 운명
+* 운명을 다시 써보는 건 어때? WHy don't we rewrite the stars
 
 # 화장실
 * 배변활동; bowel movents; It's about bowel movement [ˈbaʊəl]

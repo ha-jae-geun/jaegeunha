@@ -1,3 +1,11 @@
+* 우둔한 짓이에요; It's also dim-witted
+  * 이해가 빠른; quick-witted; 눈치가 없는; slow-witted; 눈치가 빠른; ready-witted
+* 3퍼센트에 해당한다; Which acoounts for about three percent of their domestic footprint
+  * 누구도 그 성공을 쉽게 설명하지 못해요; No one can easily account for the success
+  * 그게 이유가 되겠네; THat accounts for it
+* 상관 없어요; i don't care; 은 조금 센 느낌
+  * i'm fin with whatever
+  * Anywhere is fine with me
 * 기대; be above/beyond expectations
   * well(far) above/below
   * meet/satisfy expectations

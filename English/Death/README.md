@@ -15,6 +15,7 @@
 * Defensive wounds; 방어흔
 * Sign of struggle; 싸우거나 방어한 주변 흔적
 ------------
+* 내 목에 올가미를 씌우는 것들이지; The way i wear my noose
 * 죽은 이의 시체를 먹는 것은 실례가 아니라; the carcass of the decreased is not a social faux pas; the decreased
 * #죽음 die pass away: 존칭, #flatline(심전도의 그래프가 수평선)
 * 고대 이집트 사람들은 부패를 막기 위해 무척이나 애썻ㅅ브니다; ancient Egyptioans went to a lot of trouble to evade decomposition; decompose: 부패하다

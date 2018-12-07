@@ -246,8 +246,9 @@
 * 무분별한 도시개발	#careless/#indiscriminate city development
 * 참을성 있는; #long-suffering(#suffer)
 * #편협한 #참을성 없는 ##속좁은 #intolerant #narrow minded- #provincial #shallow
-* be ##impatient for/of, impatient at/with 
-* 메이슨은 #속이 좁아요. 		 	Mason is narrow-minded. <> broad-minded.= has a big heart.
+	* 속 좁은 사람들이야; They're small-minded people
+	* be ##impatient for/of, impatient at/with 
+	* 메이슨은 #속이 좁아요. 		 	Mason is narrow-minded. <> broad-minded.= has a big heart.
 * #교활한	#machiavellian
 * #교활하고 믿을 수 없는 사람			Snake in the grass
 * #장난꾸러기의 #말썽	#naughty, #mischievous 미국·영국 [|mɪstʃɪvəs
@@ -449,3 +450,7 @@
 * #명백한 사실; it's #easy to see
 * #사실 #진실 #솔직히 말하다
 * open up: 개업
+* 성급하다;
+	* 너무 급해; You're rushing
+* 미련
+	* 우둔한 짓이에요; It's also dim-witted 

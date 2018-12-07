@@ -1,3 +1,11 @@
+* 저를 괴롭히는 것이 한 가지 있는데; There's one thing tha treally bugs me
+* 영화가 화제가 됐을 떄; Wheen buzz(ing) was building about the movie; buzz is building
+* 출발; Off we go! Go you go
+* 어딜 감히 우리한테 혀를 내밀어; Don't you stick your tongue out at us
+* 준비 다 되셨나요? You're all  set?
+* 새 컴퓨터가 아직 족므 적응이 안 돼서요; I'm just a little bit shaky on the new computer
+* 우린 아주 큰 장애물이 부딪혔어요; i had a huge setback
+* 아마 배수로에 있나보다; It's in the gutter
 * 자신들의 가축을 먹는 것에 대한 보복으로; i retaliation for eating their cattle
 * 전보다 더 악랄해서 돌아오다; He's back and badder than ever
 * 시간 그만 허비하고; Enough goofing around
@@ -20,6 +28,12 @@
 * 바보 취급 하려고 한 거야? Why would you try and play me for a fool?
 * 잘난체하는건 재밌다는 겆; lord knowleddge over people
 * ㅇ리는 금단현상ㅇ을 겪게 되었습니다; we were going through withdrawal
+* 미리 말해줘; TEll me ahead of time
+* 그건 옛날얘기야; Tht ship has sailed
+* 그런 멘트는 집어치워; Missed me with that
+* 토마토도 마찬가지에요; The same goes for tomatoes
+* 이 직업을 위해서 뭘 공부했어요? What makes you qualified for this position
+* 무슨 소식인데? what's the scoop?
 * 와칸다는 잘 보이는 곳에 숨어있는 나라입니다; Wakanda is a country hidden in plain sight
 * 다 눈 속임이야; All a front; It's all a front
 * 막판에 정말 놀랐어요; Such a last minute surpise

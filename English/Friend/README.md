@@ -25,3 +25,6 @@
 	* 네 장난 알아 들었으니까 그만해; I get the joke
 * 항사 약간 빈정거리게 된다; we always get into a little bit of a banter
 	* i don't mind him exchanging banter with customers
+
+# 싸우다
+* 한대 치려고? 절대 못할거? You gonna make a move? i doulbe dare you

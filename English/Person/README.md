@@ -1,3 +1,6 @@
+# 유대인
+## 홀로코스트
+
 # 기타
 * 그는 독보적이다; He's a one of a kind
 * 혼혈 ; mixed-blood, (offensive) half-breed, (offensive) half-caste
@@ -13,6 +16,9 @@
 * 어른처럼 굴었었지; Acting like grown-ups
 * 쓸모없는 인간; a waste of space
 * 이민자를 부르는 말이죠; F.O.B stands for "fresh off the boat"
+* 조수, 들러리; sidekicks
+* 신참, 신입; the new kid on the block
+* 시카고 출신이야? A Chicago kid
 
 # 나이
 * 어느새 18살이 됐어; Fast forward to 18

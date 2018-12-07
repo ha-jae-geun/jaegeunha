@@ -279,7 +279,8 @@ They will be #unveiling their new models at the Motor Show.
 * #deliver a presentation; 바룦하다
 (기업의) 신상품 발표회[출시] 								roll-out 
 * #운영 #경영 #run; 소유 #manage; 관리 #operate; 운용, 가동 + a business
-* #운영 계획서; #operating plan; I read your operating system
+	* #운영 계획서; #operating plan; I read your operating system
+	* 능숙하고 바짝 다잡으며 운영해 나가다; run a tight ship
 * #경영자 코치; #executive coach
 run a store, manage a team, operate a factory
 * It runs every 15 minutes (공항 셔틀버스가 제일 나아요. 15분마다 운행되거든요) 

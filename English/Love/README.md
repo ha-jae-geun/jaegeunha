@@ -790,12 +790,13 @@ I have a big crush on you / I have a thing for you, i'm into you
  * 신접 살림은 어디에 마련했어요? 				Where have you settled down? 
  * 결혼한 지 얼마나 됐어요? 				 How long have you been married? 
  * 아이들이 있어요? 						 Do you have any children? 
- * 시댁 식구와 자주 연락해요? 				 Do you see your in-laws often? 
- * 축하해요! 이제 아기 아빠가 되겠군요. 	 Congratulations! So you're going to be a father. 
- * 태동을 느낄 수 있었지만; the kicks in her belly, i could feel them from the outside
- * 어쩌다 보니 엄마가 되었어요; Motherhood is something that just happened
- * 임신해서 회사를 그만두었어요. 				 I quit my job because I got pregnant.
- * 임신 시키다; knocked-up 속어; i didn't knock someone up
+	 * 시댁 식구와 자주 연락해요? 				 Do you see your in-laws often? 
+	 * 축하해요! 이제 아기 아빠가 되겠군요. 	 Congratulations! So you're going to be a father. 
+	 * 태동을 느낄 수 있었지만; the kicks in her belly, i could feel them from the outside
+	 * 어쩌다 보니 엄마가 되었어요; Motherhood is something that just happened
+	 * 임신해서 회사를 그만두었어요. 				 I quit my job because I got pregnant.
+	 * 임신 시키다; knocked-up 속어; i didn't knock someone up
+ * 출산 예정일이 언제에요; When's Jenny due?
  * 육아 휴직 기간입니다. 							 I'm on maternity leave. 
  * 아내는 가정적이에요? 						 Is your wife helpful at home? 
  * 아내는 퇴근 후 바로 집으로 와요. 		 My wife comes straight home after work. 

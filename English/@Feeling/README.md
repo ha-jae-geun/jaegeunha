@@ -701,13 +701,14 @@
 * #전조 #predictor = #bellwether
 * #bewildered [biwíldǝr]
 * 처음엔 정말 #당황스러웠다. 		 At first I was embrasssed/overwhelmed/alarmed
-* 당황시키다 							Don't let them #faze you
-* #baffle; i'm baffled
-* #baffling text
-* #당혹해 하다 #squirm(2. 꼼지락)
-* #disconcerted
-* #thrown; a little thrown
-* 방황하지마; don't #panic
+	* 당황시키다 							Don't let them #faze you
+	* #baffle; i'm baffled
+	* #baffling text
+	* #당혹해 하다 #squirm(2. 꼼지락)
+	* #disconcerted
+	* #thrown; a little thrown
+	* 방황하지마; don't #panic
+	* 그녀를 전혀 당황시키지 않았어요; It didn't faze her at all
 * 나 지금 수치스러워, 너 지금 굴욕감 주는거야 I feel humiliated, you’re humiliating him
 * #ashamed, #embarrassed, #humiliated - 굴욕감을 느낀, 창피한 
 * #mortify; #mortified
@@ -1141,6 +1142,7 @@
 * 울적해하다; She languishes in the bath
 * 침울한 표정 짓지마; don't look go slum
 * 눈물이 나다; i got teary-eyed
+	* 눈물을 모아 담을 수 있다면; If teardrops could be bottled
 * ☆i'm no happy, i'm #bummed out(또래, 아래 사람), i'm #gloomy
 * #depressed, #blue, #dejected - 우울한, 암울한 
 * #weep; weep-wept-wept
@@ -1710,14 +1712,15 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * 얘기를 계속해도 될까요? 							 May I go on? 
 * 좀 피곤하네. 							 난 좀 ~해 I’m kind of tired. 
 * 이건 완전히 생각지도 못한 거야. 		 이건 완전히 ~야 This is totally unexpected. 
-* 우리가 져서 실망했어. 						 I’m disappointed that we lost. 
-* 꽤나 실망하죠; She is pretty gutted
-* 새로운 언어를 배우는 것은 정말 답답해. 		 It’s so frustrating to learn a new language. 
-* 늦어서 미안해. 								 I’m sorry I’m late. 
-* 방해해서 미안해. 							 I’m sorry to interrupt. 
-* 해를 끼치려던 건 아니었어. 						 I meant no harm. 
-* 파티에 갈지 잘 모르겠어. 				 	I’m not sure I’ll be at the party. 
-* 그 사람의 자질이 의심스러워. 			 daʊt I have doubts about his qualifications. 
+* 우리가 져서 실망했어. 					 	 I’m disappointed that we lost. 
+	* 그녀는 그 결과에 실망[경악]을 감추지 못했다. She could not hide her dismay at the result. 
+	* 꽤나 실망하죠; She is pretty gutted
+	* 새로운 언어를 배우는 것은 정말 답답해. 		 It’s so frustrating to learn a new language. 
+	* 늦어서 미안해. 								 I’m sorry I’m late. 
+	* 방해해서 미안해. 							 I’m sorry to interrupt. 
+	* 해를 끼치려던 건 아니었어. 						 I meant no harm. 
+	* 파티에 갈지 잘 모르겠어. 				 	I’m not sure I’ll be at the party. 
+	* 그 사람의 자질이 의심스러워. 			 daʊt I have doubts about his qualifications. 
 
 # 어안이 벙벙
 # 어처구니
@@ -1742,3 +1745,7 @@ I am always overlooked(간과), never discount the contributions, put someone do
 # 참다 
 # 인내
 * 더이상은 못참겠따; i've run out of patience
+
+# 오바
+# 유난
+* 유난 떨지좀 마; Don't be such a drama queen

@@ -11,6 +11,7 @@
 * 엄청 큰 여드름이 나겠지; i'm gonna have a huge zit
 	* 피부 트러블이 나기 시작했어요; i started breaking out a little bit
 	* 피부가 뒤집어지다; My skin is breaking out
+		* 얼굴에 트러블도 너무 많이 나고; My face's been breaking out lately
 * 커버력 좋은거 찾고 있어요; i'm looking for the best coverage foundation
 * 미끄러지듯 발리네; it glides; it slides on
 * 눈썹을 채워볼게요; Fill in my eyebrows

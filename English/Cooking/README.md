@@ -84,6 +84,7 @@
 * 게걸스럽게 먹다; gobble up; He gobbled down his breakfast
 
 # Cooking
+* 저는 요리하는 손이라서 괜찮아요; i've got cooking hands
 * 달걀을 1분간 휘저으세요; Beat the eggs/cream until fluffy
 * 1대 2 비율로 섞어요; mix this in a 1:2 ratio; 1 to 2
 * 반죽을 치대세요; Knead the dough until smooth; 10 times  [niːd]  [doʊ]

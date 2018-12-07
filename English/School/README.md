@@ -8,6 +8,7 @@
   * <> out of tuition
 
 # 대학
+* 학생회관 책임자입니다; I'm director of the Student Center
 * 책을 넘기다; flip the pages; i've turned to the first page
 * 수업을 잘 따라가나요? follow one's school well
 * 수업을 듣다; take a course
@@ -122,6 +123,7 @@
 
 * 계산기: 수학 시간때 필수
 * 교과서: 학교에서 무상으로 지급해 주고 필기하면 안되고 학기 끝나면 후배에게 물려줌
+	* 꼼꼼히 필기를 할 거예요; gonna be taking thorough notes  [ˈθɜːroʊ]
 * 연필, 지우개(school supplies): 거의 일반적인 연필 지우개 특징이 없음, 연필 뒤에 꽂아 쓰는 지우개 
 * 폴더: 과제 제출을 노트 뜯어서 제출하는데 제출 이후 폴더에 끼워 넣음.
 

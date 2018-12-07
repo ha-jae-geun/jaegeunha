@@ -54,6 +54,8 @@
 * 별것도 아닌데. It's no biggie. 
 * 내가 할게; i insist
 * 아니 지금은 없어; No Not right now
+* 왜; why가 아니라 What이라고 말함
+* 그건 아냐; Not really
 
 # 말투
 * 틀렸어를 유하게: Are ou sure? i thought, I think you might be mistaken
@@ -88,14 +90,22 @@
 * 어찌 됐든; Either way
 
 # 질문
+* 마을까지 제가 데려다 드려도 될까요? May i see you back to the village
 * 한국어로 고맙다는 말 어떻게 말해? How do you say "Thank you"?
 * -는 언제 끝날 것 같애; when do you think; you'll be done with A
 * 누가 생각이나 했겠어요; Who woul'dve ever thought?
 * 텍사스 사는거 좋아? How do you like living in Texas?
 * 뭐라고 불러드려야 할까요? What should i call you? What can i call you?
 * 네가 뭔데 그래? Who do you think you are?
+ * 출산 예정일이 언제에요; When's Jenny due?
+* 왜 한국 왔어요; what brought you to Korea?, Why did you  choose Korea?, What made you want to come to Korea?
+
 
 # 일상
+* 미안한데 나 임자잆어; Actually i'm already taken
+* 바꿀 생각 없어요; i'm keeping to it
+* 우리 친하다; We should hang out more; we should grab a bite to eat sometime
+* 걔들이 우리 계획을 알아챈 것 같아; i think they got wind of our plan; get wind of: 알아내다
 * 농담 아니에요; I kid you not
 * Not bad 완전 좋다; Perfect; 완전별로; 비꼬기
 * 앞장서; YOu guys lead the way

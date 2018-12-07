@@ -24,4 +24,10 @@
 * ~할 예정입니다; 명사 + be scheduled (to + V / 전치사 + 명사
 * ~에 의해 진행되다; will be conducted/give by 사람
 * 연설하다; will give a speech on 주제
-* I survey N to get their opinions and they want N
+	* I survey N to get their opinions and they want N
+
+
+# 묘사
+* 이 사진은 테라스에서 찍혔고, 첫번 째로 야외에 두명에 여자들이 보인다
+	* This picture was taken at a terrae, and what i notice first is two women outdoors
+* 다리를 꼬고 있는 여자가 쇼파에 앉아있다; There is a lady sitting on the couch with her legs crossed

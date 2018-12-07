@@ -79,13 +79,14 @@
 * #합리적 의심; #reasonalbe doubt
 * #합리적; #rational #reasonable #logical
 
-* #원인
 
-* #해결 #방법 
+#원인
+
+#해결 #방법 
 * ~하는 좋은 방법은 ~이다. A good way to 부정사 is to V
 
 
-* #공통점; #찬성
+#공통점; #찬성
 * 	I agree/disagree that
 * 	I question whether
 * 	I strongly support the idea of
@@ -94,14 +95,14 @@
 * 	From my point of view
 * #관점; #Point of view
 
-* #차이점; #반대
+#차이점; #반대
 * however, on the contrary, on the other hand , in contrast
 * #contrary to the common beliefs
 * even though, 
 * #그렇긴 하지만; #that said 
 
 
-* ^^#장점 #이점
+#장점 #이점
 * ~하는 것의 이점은 ~이다. One advantage of ~-ing is that 주어 + 동사
 
 * * #예시
@@ -120,7 +121,7 @@
 * Not only that, but 주어 + 동사
 * Moreover / in addition, 주어 + 동사
 
-* 예시-2: #인용
+# 예시-2: #인용
 * 적절한 인용 an apt quotation 예문 발음듣기
 * 	판례를 인용하다 refer to a case 예문 발음듣기
 * 	판례를 인용하다 cite a case 예문 발음듣기
@@ -135,14 +136,14 @@
 * Through the experiment
 * According to; according to our finding
 
-* ,; #강조
+# 강조
 * Furthermore, In fact, actually
 * 사실은; in fact, in #reality, the fact reamins, theh fact of matter is
 * moreover
 * #게다가 #besides(초점 바꿔 보면) #in addition, #additionally
 * 더군다나 #what’s more, #above al
 
-* -> #결론 #요약
+# 결론 #요약
 * Therefore, SO
 * ~을 고려하면 In #view of ~, 주어 + 동사
 * ALl things considered, 주어 + 동사
@@ -260,6 +261,9 @@
 * #NRN; no reply necessary; 답신이 필요하지 앟ㅇ늠
 * ### #hash
 * bluewater_33-#@naver.com 			 bluewater underscore 33 hyphen or dash at
+* #이메일
+
+# 답장
 * 답장이 꼬리 문 것: #email thread(#thread)
 * 이메일 확인해주세요 please #confirm that you rceived the email
 * respond to us immediately/promptly
@@ -268,4 +272,4 @@
 * #reply, #answer
 * #보충해서 답장 Could you #follow up on this
 * #답; get quick answers
-* #이메일
+* 답장해주셔서 감가합니다; Thank you for getting baack to me

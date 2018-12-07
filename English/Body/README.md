@@ -386,10 +386,11 @@ she had her braces removed
 I had my wisdom tooth pulled.
 * #혓바늘 생겼어 	I got #canker sore on my tongue.
 * #뒷골 땡기네 		##목			성가신 것 A pain in the neck.
+* 저는 요리하는 손이라서 괜찮아요; i've got cooking hands
 * 검지 손가락	index finger, forefinger 'fɔ:rfɪŋgə(r), first finger
-* 중지 손가락	middle finger 
-* 약지/무명지	ring finger 
-* 새끼 손가락	little finger
+	* 중지 손가락	middle finger 
+	* 약지/무명지	ring finger 
+	* 새끼 손가락	little finger
 * 손바닥	palm1 [pɑ́ːm]
 * 손등	back of one's hand 
 * 손목	wrist [rɪst]

@@ -8,6 +8,8 @@
 * 조직검사를 하다; take/get a biopsy 미국식 [-ɑːpsi]
 * 샘플은 소독 후 작은 조각으로 잘라집니다; the sample is sterilized and cut into small pieces  [ˈsterəlaɪz] <> sterile 미국식 [ˈsterəl]
 * 통증이 그의 팔을 타고 전해졌따; A sharp pain suddenly shot along his arm
+  * 밤에는 통증이 더 심해져요.   It hurts more at night. 
+  * I'm getting sharp pains in my; I have a throbbing headache; i have an aching pain in my neck; i have a dull pain
 * 위아래로 퍼지는 찌릿찌릿 마비된 느낌; numbing sensation of pins and needles which shoots up and down
 * 척골 후려치기; it's called whacking your funny bone
 * 어제 난리였어; i was a hot mess
@@ -308,6 +310,7 @@
 * 상처를 치유하다; #dress a wound(#wound)
   * 큰 상처를 입다; take a knock; this has definitely taken a knock for me
   * 전투로 남은 흉터로 가득하다; full of battle scars 
+  * 팔에 물린 자국이 있다구요; He's got bite marks on him arm
 * 빠른 #쾌유를 빕니다				Get well soon.
 * #링거	have an IV intravenous [|ɪntrə|vi:nəs]
 * intra: 안쪽의 #venous: #정맥의
@@ -471,7 +474,6 @@
 * 옷을 걷어 올려 주세요. 	Please roll up your clothes.
 * 욱신욱신 쑤셔요. 	I have a throbbing pain. θrɑ́biŋ
 * 쥐어짜는 듯이 아파요. 	I have a gnawing pain. nɔ
-* 밤에는 통증이 더 심해져요. 	It hurts more at night. 
 * #처방전을 써 드리겠습니다. 	I'll write you a prescription
 * 병원에 가서 약을 처방 받았습니다.	I went to see the doctors and got some medicine prescribed.
 * 체온 좀 잴게요. 	Let me take your temperature. 

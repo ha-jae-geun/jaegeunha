@@ -84,6 +84,7 @@ I had sleep #paralysis
 * 난 #깊게 잠을 자요. 								 I sleep like a log.
 * #푹자다 			 get a good/deep sleep, catch up on my sleep(밀린 잠을 자다)
 * #숙면하다 					get a good night's sleep = #sound sleep; #단잠
+	* 일부로 푹 자다; i can finally sleep in tomorrow
 * 걱정할게 뭐 있어? 그냥 #푹 자! What’s there to worry about? Just #sleep tight!, 
 * ‘깊은 잠을 자는 사람 								 a heavy sleeper 
 * #sleep late = I #oversleep(모르고 #늦잠), #sleep in this Sunday(일부로 늦잠)
