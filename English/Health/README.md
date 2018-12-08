@@ -124,6 +124,8 @@
 * #의료 서비스 medical/health care
 * #수명 #평균 수명 life span, life expectancy
 * #수술; it doesn't need #surgery / to be #operated on immediately
+  * to go under the knive = to have surgery = to have an operation
+  * 성형수술; have cosmetic surgery = go under the knife
 * #정관 정제 수술; #vasectomy; 버섹터미; let's get you a vasectomy
 * (생물의) [명사] dissection; (부검) autopsy, postmortem (examination), necropsy, [동사] dissect, [ǝnǽtǝmàiz] anatomize; (부검하다) 
 * #검시; carry out a postmortem, perform[carry out] an autopsy 
@@ -448,8 +450,10 @@
 * 지혈해야 해요. 	We have to stop the bleeding.
 * 의식을 잃고 쓰러졌어요. 	He lost consciousness and fainted.
 * 칼에 찔렸어요. 	He was stabbed with a knife.
+* #멍이 많다; I have a few bruises = to be black and blue = to be very bruised
 * 언제부터 아프셨어요? 	When did it start hurting? 
-* 어디가 아프세요? 	Where does it hurt? 
+  * 어디가 아프세요? 	Where does it hurt? 
+  * 전보다 더 아프다; to take a turn for the worse(better: 잘 쓰지 않는다.) 
 * #입원해야 해요? 	0. go to a/the #hospital
 * 1. Do I have to be hospitalized? ‘hɑ:spɪtəlaɪz
 * 2. be in the hospital

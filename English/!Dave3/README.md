@@ -6,6 +6,10 @@
 * 새 컴퓨터가 아직 족므 적응이 안 돼서요; I'm just a little bit shaky on the new computer
 * 우린 아주 큰 장애물이 부딪혔어요; i had a huge setback
 * 아마 배수로에 있나보다; It's in the gutter
+* 웅크리다; crouch (down), huddle, hunch, curl up; A 5 years old boy squatted on his haunches.
+* 그 발표에 의해 동요했다; were swayed by the announcement
+* 젬들은 너를 따를거고; Your gems will fall into line; fall into line
+* 저는 눈치보는 것을 잘 못해요; i'm not good at paying attention to social cues
 * 자신들의 가축을 먹는 것에 대한 보복으로; i retaliation for eating their cattle
 * 전보다 더 악랄해서 돌아오다; He's back and badder than ever
 * 시간 그만 허비하고; Enough goofing around

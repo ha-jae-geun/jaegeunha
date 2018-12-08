@@ -36,6 +36,8 @@
 * 내일부로/ starting tomorrow
 * 공정하게 말하자면; To be fair
 * -와는 반대로; as opposed to -; 비교와 대조를 위한 표현
+* 절대로 하고 싶지 않아; The last thing i wanna do is
+* 과장이 아니야; It's no exaggeration that -
 
 # 대답
 * 그만해; Knock it off = Quit it = Cut it out = Don't cross the line = stop that = Enough is enough

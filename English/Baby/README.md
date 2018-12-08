@@ -44,6 +44,7 @@
 * 재미있어 할 것 같애요; You'll probably get a kick out of it
 * 롤러장 및 오락실에서의 저녁 데이트를? Roller Rink and Arcade?
 * 인형뽑기 위해 잔돈 필요해; i need some change for claw machine games
+* 넘어지다; to take a tumble = to fall over
 
 # 아기
 * 흔들어 재워줄게; i'm gonna rock you

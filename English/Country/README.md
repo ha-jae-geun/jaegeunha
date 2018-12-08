@@ -22,6 +22,11 @@
 * It refers to 11 emerging economies that are ranked as a country with good growth potential and investment prospects following Briggs. Next Eleven is the name of 11 countries that will lead the global economy following BRICs (BRICs: Brazil, Russia, India, China, and 4 emerging economies). It is also referred to as N-11.
 
 
+# 몽골
+* 몽골에서는 사람의 발을 밟으면 사과의 의미로 손을 잡는다. 손을 안잡으면 무시한다는 뜻이다.
+* 우유를 쏟거나 흘리면 손가락으로 찍어서 이마에 3번 묻힌다.
+* 소금을 흘리면 무조건 물에 흘려보내야 한다.
+
 # 러시아
 * 키예프 루시
 * 몽골의 지배
@@ -407,6 +412,7 @@ Legs are long but calf is thin, saving 80% of oxygen consumption
 
 # 프랑스어
 * 잘먹겠습니다 							 #Bon appetit(프랑스어)
+* 프랑스 초등학교에서 캐첩이 금지가 돼 있습니다.
 
 
 # 이탈리아

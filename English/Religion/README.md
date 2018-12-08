@@ -2,6 +2,7 @@
 * 원효대사(과앧가 되어 염불로 노래하고 춤추며 부처님의 법을 설파) <> 의상대사
 
 # 종교
+* 십자가를 찾았는데 놀랍지도 않죠; i find the first cross and i'm not suprised
 * 당신이 독실하다는 이유로 싫어하지 않아요; I don't hate you if you're religious 
 * 저는 무신론자지만ㅇ ㅏ직 사람들에게 믿음을 가지고 있어요; i'm an atheist, but is till have faith in people [ˈeɪθiɪst]
 * 템플스테이 같은 명상 수련회; I went on a week-long silent #meditation retreat

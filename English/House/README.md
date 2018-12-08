@@ -99,9 +99,12 @@
 * #furniture; #unwanted furniture
 * a #piece of furniture
 * 가구 파는 회사: #pottery barn
-* #1인 가구; #single-person household; = single households
+	* #1인 가구; #single-person household; = single households
+	* 에어컨에서 찬바람이 안나와요; It's now blowing cold air
+* 그는 거울에서 자기를 확인한다; He checked himself in the mirror
 * (kitchen)appliance = refrigerator = living arrangement	 #가구
 * #현관: #vestibule ; shoe chest at entrance = #porch(2. #베란다)
+* 수건으로 드라이하고 있따; Shed used a towel to dry herself off
 * a sun porch 햇빛이 잘 드는 베란다
 * #테라스 #베란다; #patio
 * 아트리움 안마당: #atrium

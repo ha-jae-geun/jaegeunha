@@ -1,3 +1,5 @@
+
+
 * 나쁜 날씨: #inclement weather
 * 제철이다; not in seasonn = out of season
 
@@ -24,6 +26,11 @@
 * 계절에 안 맞게 추운 날씨야; it's #unseasonably cold day
 * 계절을 #타다; winter #affects me a lot
 * #unseaonably; #계절에 맞지 않게
+
+
+# 눈
+## 첫눈
+* 서울의 종로구(강북)에 위치한 기상관측소에서 관측되어야 첫 눈 인정
 
 
 # 겨울

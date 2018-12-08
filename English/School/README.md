@@ -212,7 +212,8 @@
 * #졸업 앨범; high-school #yearbook
 * 갓 졸업했어; 그는 이제 막 학교를 졸업했어. He’s #fresh out of school.
 * #학사; #complete a #bachelor
-* #학사모 Graduation cap / Mortar board
+	* #학사모 Graduation cap / Mortar board
+	* 컴퓨터 과학과 학사 학위가 있다; ahs a degree in computer science
 * 졸업 축하합니다 Congratulations on your graduation
 * 대학 졸업장 university degree
 * #수석 졸업 #valedictorian

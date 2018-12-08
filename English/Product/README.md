@@ -9,6 +9,7 @@
 * 원하는 대로 골라; Take your pick
 
 # 상품
+* 상표가 없는 브랜드들; Generics
 * 주문이 잔뜩 들어오고 있어; we got a ton of orders coming in
 	* 방금 주문 하나 들어왔어; An order came in just now
 * 노동착취로 만들어지는 물품; Sweatshop products
@@ -19,7 +20,7 @@
 * 손님이 다 떠나가고 있잖아; YOu're driving away all the customers
 
 ## 유명 브랜드
-* 소화제; Pepto Bismol
+* 소화제; Pepto Bismol; Alka-Seltzer
 * DD; Dunkin donuts
 * 맥도날드; Mickey D's
 	* Macdonald's; s를 붙이지 않으면 굉장히 어색하다; Let's go eat McDonald's

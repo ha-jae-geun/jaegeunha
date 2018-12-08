@@ -1,4 +1,5 @@
 # 머리
+* 머리에 떔빵은 안 났거든; i dind't give myself a bald spot
 * 이불에 머리카락이 붙어있어; THere's a hair struck on the blanket
 * 빨간 머리; ginger
 * #머리 : 길이 > 스타일 > 색깔: has

@@ -18,6 +18,7 @@
   Gangs of youths went on the rampage in the city yesterday. 
 * 냉담한 살인자/태도/행동 a callous killer/attitude/act; cruel, unfeeling
 * 위반으로 간주하다; cite violation; 소환되다; be cited; cited for speeding
+  * 그 자료는 저작권을 위반하지 않고 복사할 수 있다. The material can be copied without infringing copyright. 
 * 그들은 그에게서 수백 달러의 돈을 사취했다. They swindled him out of hundreds of dollars.
 * 요즘 수상했어; you been acting so shady  
 * 누가 훔쳐갔나봐; somebody jacked us
@@ -378,6 +379,7 @@
 * i've been #set up
 * ☆정당화 할수 없어; #make right; don't #make it right
 * ☆##유죄를 입증하는 듯한 증거 						 incriminating evidence 
+  * 고의로 증거로 심어녾는 것도 그렇지만; It's one thing to apparently plant evidence
 * #guilty as charged; #기소된 바와 같이
 * be found guilty <> be found innocent
 * ‘#흑역사 								 incriminating evidence
@@ -390,8 +392,10 @@
 * #속셈
 * #skethy #shady #SUS#; that is sus
 * 뭔가 #수상쩍은데 							 Something smells fishy.
-* 수상한 웹사이트 들어간적이 없는데 		 don’t remember visiting any #shady sites
-* #수상
+  * 수상한 웹사이트 들어간적이 없는데 		 don’t remember visiting any #shady sites
+  * #수상
+  * Something doesn't add up; looks suspicious; seems a little fishy to me
+  * be sketchy; doesnn't feel right; sounds shady
 
 * 성대모사 하다 							 do an impression of#성대모사
 * 흉내내는 사람; #copy cat

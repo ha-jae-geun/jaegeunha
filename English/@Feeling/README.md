@@ -631,39 +631,40 @@
 * #죽을 고비; have a #near-death experience 
 * #고비
 * ☆I kept cracking up. (계속 빵 터졌어요)
-* I was trying to keep a straight face, but I kept cracking up.
-* Burst out laughing
-* The audience burst into laughter.
-* 그말이 청중을 배꼽잡고 웃게했다.	 That had the crowd in stitches have/keep S in stiches
-* 웃으면서; with a smile
-* 웃겨 죽겠다 						 i'm dying, i'm gonna die laughing
-* 웃게 하다 put a smile on ~ sb
-* smile: facial expression <> laugh: ㅋㅋㅋ
-* ##깔깔 거리다 [|tʃɔ:rtl] Gill chortled with delight.
-* #grin; 소리 없이 웃다
-* #웃는 소리; #laughter
-* #활짝 웃다; #all smiles
-* #gale of laughter = #strong wind; 왁자지껄한 웃음, #폭소
-* ☆I cracked up, he kept cracking up, I couldn't help cracking up, burst out laughing, burst into laughter, bust out laughing
-* 너 때문에 빵 터졌어.					 You crack me up, get the giggles
-* #자지러지게 웃다; #laugh one's head off; all of us laughed our heads off
-* 입이 귀에 걸리게 웃네 					 He was grinning from ear to ear. 
-* 웃고 넘어갈 일이 아니야! i'm serious. It's no laughing matter. This is not a laughing matter.
-* ‘웃어 넘겨 								 just laugh if off
-* 뭐가 그렇게 #웃겨; What's so funny?
-* 정말 웃겨요!, 너 정말 웃겨.			 hɪ‘sterɪkl That's hysterical! You're hilarious. 
-* 그는 자신더러 사직을 해야 할 것이라는 말들을 #웃어넘기려 했다.
-* He laughed off suggestions that he was going to resign
-* 그거 먹은거 웃고 넘어갈 문제가 아니야~				 It's no joke when you eat it.
-* #laugh off; 웃어 넘기다; you'll be able to just laugh off the rumors
-* 너 항상 날 웃게 만들어					 You always put a smile on my face
-* 웃음 참기 						Try not to laugh = keep a straight face
-* have the last laugh; on somebody; 결국에는 웃다; #이기다
-* Be serious. This is no #laughing matter.
-* #guffaw; 시끄럽게 웃다;
-* #laugh your head off; #파안대소 #가가대소
-* #함박웃음  #smile from ear-to-ear; 
-* #포복 절도 #배꼽 #웃다 #빵 터지다
+	* 눈 읏음 짓고 있는거 보이죠; do you see that she's smizing?
+	* I was trying to keep a straight face, but I kept cracking up.
+	* Burst out laughing
+	* The audience burst into laughter.
+	* 그말이 청중을 배꼽잡고 웃게했다.	 That had the crowd in stitches have/keep S in stiches
+	* 웃으면서; with a smile
+	* 웃겨 죽겠다 						 i'm dying, i'm gonna die laughing
+	* 웃게 하다 put a smile on ~ sb
+	* smile: facial expression <> laugh: ㅋㅋㅋ
+	* ##깔깔 거리다 [|tʃɔ:rtl] Gill chortled with delight.
+	* #grin; 소리 없이 웃다
+	* #웃는 소리; #laughter
+	* #활짝 웃다; #all smiles
+	* #gale of laughter = #strong wind; 왁자지껄한 웃음, #폭소
+	* ☆I cracked up, he kept cracking up, I couldn't help cracking up, burst out laughing, burst into laughter, bust out laughing
+	* 너 때문에 빵 터졌어.					 You crack me up, get the giggles
+	* #자지러지게 웃다; #laugh one's head off; all of us laughed our heads off
+	* 입이 귀에 걸리게 웃네 					 He was grinning from ear to ear. 
+	* 웃고 넘어갈 일이 아니야! i'm serious. It's no laughing matter. This is not a laughing matter.
+	* ‘웃어 넘겨 								 just laugh if off
+	* 뭐가 그렇게 #웃겨; What's so funny?
+	* 정말 웃겨요!, 너 정말 웃겨.			 hɪ‘sterɪkl That's hysterical! You're hilarious. 
+	* 그는 자신더러 사직을 해야 할 것이라는 말들을 #웃어넘기려 했다.
+	* He laughed off suggestions that he was going to resign
+	* 그거 먹은거 웃고 넘어갈 문제가 아니야~				 It's no joke when you eat it.
+	* #laugh off; 웃어 넘기다; you'll be able to just laugh off the rumors
+	* 너 항상 날 웃게 만들어					 You always put a smile on my face
+	* 웃음 참기 						Try not to laugh = keep a straight face
+	* have the last laugh; on somebody; 결국에는 웃다; #이기다
+	* Be serious. This is no #laughing matter.
+	* #guffaw; 시끄럽게 웃다;
+	* #laugh your head off; #파안대소 #가가대소
+	* #함박웃음  #smile from ear-to-ear; 
+	* #포복 절도 #배꼽 #웃다 #빵 터지다
 -----
 * ☆다행 ☆That’s such a relief. / This is such a relief. / It’s such a relief. / That’s so relieving
 * I’m glad I can help. / I’m glad you are here. / It’s a good thing I said something about that.
@@ -874,7 +875,8 @@
 * #restless
 * This is so #nerve racking
 * #좌불안석; being unable to sit comfortably[still](from anxiety) / be ill at ease 
-* #자신없는; #faint-hearted
+* 자신감은 많이 있어요; i have a lot of confidence
+	* #자신없는; #faint-hearted
 * 부모님이 #엄하셔 my parents are #strict
 * 하나도 안 무서워; you don't scare me
 * #무시무시해 보인다; it really looks quite #spooky

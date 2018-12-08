@@ -15,11 +15,6 @@
 * 오 잡았다, 아웃기켰어; He got him; he got him out
 * 빈틈없이 철저히하다; touch all the bases
 
-# 팁
-* 커브를 주무기로 하는 투수들은 릴리스 포인트가 높다; Pitchers who use curve as their primary weapon have a high release point
-* DL에 올라갔으면 트레이드가 안된다; If you go up to the DL list, the trade will not work.
-* 릴리스 포인트가 높으면 타자들의 스윙은 더 위로 올려쳐야 하며 볼을 보는 자세에서도 고개를 더 들어야 한다.; If the release point is high, the swing of the batter should be raised, and the head should be lifted even in the position of watching the ball.
-* 슬라이더를 잘 던지는 투수들은 공을 최대한 앞으로 끌고 나온다; The pitchers who throw the slider well throw out the ball as far as possible.
 
 # 구장
 * 투수에게 편한 구장; AL 서부
@@ -252,6 +247,14 @@ Below Average  25.0% : Poor  27.5% : Awful
 * ⦁투수판-포수석까지의 직선거리:18.44M    고자러리
 * ⦁투수의 릴리스 포인트-포수석까지의 직선거리:약 16M    거봉
 * ⦁좌우타자 큰차이 없는지
+
+## 구종
+* 커브를 주무기로 하는 투수들은 릴리스 포인트가 높다; Pitchers who use curve as their primary weapon have a high release point
+* DL에 올라갔으면 트레이드가 안된다; If you go up to the DL list, the trade will not work.
+* 릴리스 포인트가 높으면 타자들의 스윙은 더 위로 올려쳐야 하며 볼을 보는 자세에서도 고개를 더 들어야 한다.; If the release point is high, the swing of the batter should be raised, and the head should be lifted even in the position of watching the ball.
+* 슬라이더를 잘 던지는 투수들은 공을 최대한 앞으로 끌고 나온다; The pitchers who throw the slider well throw out the ball as far as possible.
+* 게임데이가 구종을 구분하는 기준은 패스트볼과의 구속 차이와 무브먼트다
+	* 2018년 오승환의 슬라이더는 구속, 회전수가 줄었고, 좌우 움직임이 3cm, 상하 움직임이 5cm 적고 릴리스 포인트가 높아져 커터로 분류되었따.
 
 ## 공을 던지는 위치
 * 정상급 메이저리그 투수들은 본인의 키의 82%에 해당되는 곳까지 공을 끌고 나와 공을 던진다. 반면 키가 큰 투수들은 스트라이드 폭을 좁게 함으로써 그 값이 낮은 경우가 많다
