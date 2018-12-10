@@ -46,6 +46,8 @@ I have a big crush on you / I have a thing for you, i'm into you
 * 바람피다; cheat on someone
 * 남자는 많아; there are lots/plenty of fish in the sea/ocean
 * 잊다; finally over somebody
+	* i haven't abeen able to get past it
+	* move on
 * 설레다; i have butterflies in my stomach; she makes me feel alivve
 * 나 푹 빠졌어; i'm crazy about/for someone = i'm walking on clouds; i'm on cloud nine
 * 몽상에 젖음; daydream; 몽상에서 깨다; i catch myself daydreaming about her/him
@@ -169,13 +171,14 @@ I have a big crush on you / I have a thing for you, i'm into you
 * 웨딩 품목	wedding registry
 * #피로연	(Wedding) #Reception
 * 그들은 성격 차이로 헤어졌어요. 			They parted on grounds of differences of opinion. 
-* 그들은 #이혼 소송 중이에요. We're in the midst of a divorce.
-* 혼인 무효; #annulment
-* #이혼 소송; #fill for divorce
-* 그 사람이 위자료를 많이 주었어요. 	‘ӕlɪmoʊniHe gave me a lot of alimony.
-* 양육권 때문에 다투고 있어요. 	‘kʌstədi We're fighting over custody rights.
-* 아내를 사고로 잃었어요. 	I lost my wife in an accident. 
-----------------------
+* 그들은 #이혼 소송 중이에요. We're in the midst of a divorce.	
+	* 이혼도 있었고; There's been divorces
+	* 혼인 무효; #annulment
+	* #이혼 소송; #fill for divorce
+	* 그 사람이 위자료를 많이 주었어요. 	‘ӕlɪmoʊniHe gave me a lot of alimony.
+	* 양육권 때문에 다투고 있어요. 	‘kʌstədi We're fighting over custody rights.
+	* 아내를 사고로 잃었어요. 	I lost my wife in an accident. 
+	----------------------
 * 스킨십 진도가 느려; we're taking things slow; things are moving really slowly
 * 걔는 스킨십이 너무 많아; he gets a bit too touchy
 * 내가 손금 봐줄게; Let me read your palm

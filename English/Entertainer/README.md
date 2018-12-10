@@ -17,6 +17,7 @@
 * 공연장은 이렇게 생겼어요; this is what the venue looks like
 * 소녀팬이 된 기분이야; i'm like fangirling
 	* 엄청난 팬층을 갖고 ㅣㅆ잖아; Artists have like huge follwings
+	* 팬의 마음으로 잔뜩 흥분한 사람들로 가드겼어요; a ton of fanboying and fangirling going on
 * 파리에서 런웨이에 오르신다면요; so you're walking in the runway in Paris?
 * 레이디가가; Mother monster - 팬들: Little monsters
 * 믿고보는 배우다; he's a go-to actor
@@ -25,6 +26,7 @@
 * 최애를 뽑은 개 아니에요; i'm not picking favorites; play favorites: 편애하다
 
 # 영화
+* 후반부 보여드릴게요; Here's the second half
 * 시사섬을 주는 폭로성 영화; thought-provoking expose; withouht hitting a thought-provoking expose
 * 제작 취소된대; - got calceled!
 * 가벼운 영화; lighthearted movie <> heavy movie

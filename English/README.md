@@ -82,177 +82,309 @@
 * 썰설최
 * 드림텔러
 ------------
-The Ringer
 
-POMI POMPOM
+구독
 
-SOPHIE BAN
-
-개구리알 영어스쿨
-
-장현호 짱샘영어왕초보 기초영어 영어회화
-
-영어로토하라
-
-러브굿 영어
-
-MLG Highlights
-29
-
-메이슨미드영어회화
-
-The Tonight Show Starring Jimmy Fallon
-38
-
-러닝그라운드
-
-날라리데이브!
-
-미드영어midEnglish
-
-KoreanBilly's English
-
-The World of Dave데이브
-
-열심히 Gillian
-
-오늘의 생활영어
-
-무대뽀 영어
-
-LEE 영어회화 - LEE ENGLISH
-
-포크포크
-1
-
-써니영어 Sunny English
-
-스티븐영어
-
-[서미소랑] Misorang Seo
-
-Sounds American
-
-TheEllenShow
-14
-
-NBA on TNT
-30
-
-Letit
-
-에밀튜브 - EmilTUBE
-
-MLB
-100
-
-TED
-
-NBA
-43
+PAGODA파고다
+2
 
 외국어학원 1위 해커스
 
-PAGODA파고다
-
-꼴찌영의 인생학교 - 꼴찌에게 배우는 영어 -
-
-VanossGaming
+Fox News
 3
 
-베리TV
+에바EVA
 
-선민_sunmin
+LEE 영어회화
 
-CNN
-79
+드림텔러(DreamTeller)
+1
 
-Maangchi
+Washington Post
+30
 
-The Late Late Show with James Corden
-24
+우기부기 영어
 
-Sky Sports Football
+애로우잉글리시 Arrow English
 
-TheTesteeTop50Charts
-7
+우기부기TV
 
-국가비GabieKook
+이준행
 
-올리버쌤
+CHEWHEE쥬히
 
-Gyopo TV
+Yoora Jung
 
-Oxford Online English
+fromJUDYJY
 
-2쌤영어! (원어민과 한국인이 같이 하는 무료 영어 강의)
-
-Business English Pod - Learn Business English
-
-진저 영어
-
-덴뿌라 영어
-
-휘트니 whitneybae
-
-Splash English [스플래쉬잉글리쉬]
-
-Aran TV
-
-캠블리
-
-카일 영어 * Learn English with Kyle
-
-Summer Park
-
-야나두 영어회화 공식 유튜브
-
-Asian Boss
-
-영국남자 Korean Englishman
-JOLLY
-코어소리영어
-디바제시카DeevaJessica
-크리스 쇼
-하이채드 Hi Chad
-같영구
-윤동글
-
-EBSSTORY
-
-시원스쿨 기초영어 공식 유튜브
-
-해커스톡 기초영어회화 공식 유튜브
-
-BBC Learning English
-
-EnglishinKorean Plus! (마이클의 온라인 영어 교실)
-
-영어회화 100일의 기적
-
-HOSUNG
-
-Charisma on Command
-
-EBSLanguage (EBS 외국어 학습)
-
-하재근
-
-Gooban
-
-YBM Books
+Nahyun's Travelogue나현쓰
 
 KoreanBilly
 
+KoreanBilly's English
+
+라이브 아카데미 토들러
+2
+
+Youjin유진
+
+국가비GabieKook
+
+The World of Dave데이브
+
+제이크 토익스피킹
+
+영국남자 Korean Englishman
+
+BBC Learning English
+
+tv Jenny-chang
+
+Summer in Brooklyn썸머썸머
+
+젠토Jento
+
+영어원서 당당하게 읽기! 영서당TV
+
+카일영어 Learn English with Kyle
+
+해커스톡 기초영어회화 공식 유튜브
+
+크리스 쇼
+
+미드 읽어주는 남자방군
+
+The Late Late Show with James Corden
+15
+
+Lenny Jung
+
+조은커플 Joeun Couple
+
+TheTesteeTop50Charts
+
+JAYKEEOUT x VWVB
+
+Bridge TV
+
+ANDY
+
+영어회화 100일의 기적
+
+선민_sunmin
+
+Aloha Language House
+
+VanossGaming
+4
+
+Charisma on Command
+
+YBM Books
+8
+
+SOPHIE BAN
+3
+
+NBA
+37
+
+러닝그라운드
+
+CNN
+86
+
+포크포크
+
+Mindy TV
+
+7-Second Riddles
+35
+
+EBSLanguage (EBS 외국어 학습)
+
+무대뽀 영어
+
+외국인코리아Den and Mandu
+
+영어로토하라
+
+코어소리영어
+
+장현호 짱샘영어왕초보 기초영어 영어회화
+
+ESPN
+22
+
+Sounds American
+
 VOA Learning English
+
+러브굿 영어
+
+The Ringer
+1
+
+Oxford Online English
+
+윤동글
+
+shushu슈쓔
+
+Gooban
+1
+
+룩스 커플Luke and Stacy
+
+스티븐영어
+
+BRIGHT SIDE
+14
+
+MLB
+
+라이브 아카데미
+3
+
+영알남YAN
+
+같영구
 
 JASON ENGLISH
 
+The Tonight Show Starring Jimmy Fallon
+43
+
+TheEllenShow
+22
+
+TED
+5
+
+NBA on TNT
+
+날라리데이브!
+
+Sky Sports Football
+5
+
+Dingo K-Drama
+2
+
+ChessNetwork
+2
+
+ReacttotheK
+
+[서미소랑] Misorang Seo
+
+Don되는 영어
+
+BRITCENT
+
+단앤조엘 Dan and Joel
+
+야나두 영어회화 공식 유튜브
+
+디바제시카DeevaJessica
+
+Splash English [스플래쉬잉글리쉬]
+
+Gyopo TV
+
+개구리알 영어스쿨
+
+에밀튜브 - EmilTUBE
+
+Asian Boss
+
+올리버쌤
+
+메이슨미드영어회화
+
+써니영어 Sunny English
+
+EBSSTORY
+
+미드영어midEnglish
+
+Summer Park
+
+캠블리
+
+Business English Pod - Learn Business English
+
+ESP 랭귀지 스쿨 [ENGLISH SIX PACK]
+
+2쌤영어! (원어민과 한국인이 같이 하는 무료 영어 강의)
+
+진저 Jinger English
+
+하이채드 Hi Chad
+
+DoolDool
+1
+
+DAILY DOSE OF 날라리DAVE (DDD)
+
+HOSUNG
+
+English Speeches
+
+Aran TV
+
+덴뿌라 영어 Denppura English
+
+지니의영어방송국
+1
+
+희철리즘Heechulism
+
+ILBANGBANG
+1
+
+[덩어리영어] 공식 Youtube 채널
+
+오늘의 생활영어
+
+휘트니 whitneybae
+
+헤이민지 heyMinji
+
+유튜브 생활영어
+
+팝송읽어주는여자Jina
+
+와썹맨-Wassup Man
+
 Michael Elliott
 
+What the English
+
+운배영-68거북이 영어교실-Unbaeyoung
+
+EnglishinKorean Plus! (마이클의 온라인 영어 교실)
+
+시원스쿨 기초영어 공식 유튜브
+
+프랭크쌤영어
+
+Jinger Tube 진저 튜브
+
+쏘이Soy The World
+
+하재근
+
+래릿 l Letit
+
+뒹굴신_Let's learn English
+
+Team Coco
+
+열심히 Gillian
+
+Learn English 360
+
+JOLLY
+
 해링TV
-
-영어 알려주는 남자
-
-라이브 아카데미
-

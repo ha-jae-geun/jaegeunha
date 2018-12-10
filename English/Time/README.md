@@ -3,6 +3,8 @@
 * 맑은 정신으로 생각해보면; In the cold light of day
 * 십분 활용하다; get a lot of mileage out of; your car
 * 도착 시간을 맞추다; In order to time it's arrival with the rest; tiime one's arrival
+* 한달에 책 얼마나 읽어; How man books do you read in a month?
+	* 한달 뒤 어때; ho about a month from tonight?(one month later xx)
 
 # 시간
 * 우호적인 시기; honeymoon period/phase

@@ -30,6 +30,7 @@
 마지막으로 소개해드릴 주방가전은 커피 메이커(coffee maker)입니다. 커피의 소비가 많은 미국답게 대부분의 미국 가정에는 커피 메이커가 있습니다. 한국은 에스프레소(espresso, 커피원두를 갈아 높은 압력으로 추출한 커피 액) 커피를 즐기지만, 미국에서는 에스프레소 커피 못지않게 드립 커피(drip coffee, 커피원두가 갈린 가루에 물을 타서 거름지에 걸러 낸 커피)를 많이 마십니다. 
 
 
+* 우리 집의 절반을 차지해요; IT takes up my whole apartment
 * 난간; 난간을 잡다 to hold on to the banister/banisters 
 * 아직 집을 다 꾸미지 않아서; i'm not done with my place yet
 * 전세; I have a lease on this house I live in; #월세; How much is the monthly rent[rental fee]?

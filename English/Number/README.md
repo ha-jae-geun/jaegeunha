@@ -43,6 +43,7 @@
 * 총계가 이 나오다; come to 숫자; it came to whopping 1,1000 calores [ˈwɑːp-]  영국식 [ˈwɒpɪŋ]; 엄청큰
 * 마치 눈금을 매겨서 정확하게 만들다; you calibrate things and mae them precise
 ----------------------------------------------------------------------------------------------------
+* 두 배 이상을 받다; et morn than touble the amount of 
 
 
 ## 기호

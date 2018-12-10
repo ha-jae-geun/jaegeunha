@@ -5,6 +5,7 @@
 * 한국은 압수하면 국고로 들어간다.
 
 # 나쁜짓
+* 지방정부는 불법 활동을 단속하시 시작합니다 The local government cracked down on all the illicit activities
 * 얄팍한 속임수들을 소개합니다; Here are some sneaky ways
 * 죗값을 치렀어요; i've done my sentence
 * 삼성쪽에서 직접 사진을 유출했죠; Samsung leaked a picture
@@ -114,6 +115,7 @@
 * #자치주; the southern #counties
 * ㆍAll available units, high speed #pursuit in progress Lincoln county units request local 
 * assistanc #고속 #추격전
+  * 추격 중이다; 반복한다, 달아나고 있다; In pursuit. I repeat, he's on foot; He's entering our store
 * #미국 경찰
 * 미국 경찰 <> 흑인: 1. 갱 가입 암살 
 * #chiraq: chicago+ iraq

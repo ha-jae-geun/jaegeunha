@@ -3,8 +3,21 @@
 * 깃허브
 * 
 
+# 한국 IT
+*  레딧, 테크런치, 엔가젯, cnn, ted, 슬래시기어, 와이어드, 매셔블, 씨넷
+
+# 유캐트아
+* 유캐트아: ESPN, 스카이 스포츠, the mlb show,nba on tnt, the ringers, 인기
+
+
+# 뉴스
+* 뉴스(CNN, 뉴욕, 워싱탄포스트 / fox(보)   
+
 ## 웹사이트
 * waifu2x
+* 인터뷰 http://www.asapsports.com/
+* 해커스 https://www.hackersjob.com/edu/sub_menu/test_daily.php/?tab=3&kab=5
+* 토론: https://idebate.org/
 
 ## 소프트웨어
 * 붙여넣기 해제; 캡처 - #알툴바

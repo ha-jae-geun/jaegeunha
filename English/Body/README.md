@@ -46,6 +46,7 @@
 * the armpit of something; 가장 지저분한 곳
 * #근시; 근시인 사람들은 안경을 쓰도록 요구된다. People who are shortsighted are requested to wear glasses. 
 * #속눈썹 #눈썹 연장했어 I got #eyelash extensions
+	* 눈싸움 해주실 수 있나요; Can you gus have a staring contest?
 * fill in the brows, 속눈썹: false lashes, fake eyelashes
 * 나 눈썹 #문신했어 I got my eyebrows tattooed
 * he has a tatto on his arm <> he had a tattoo removed; got it tatted on me

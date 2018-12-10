@@ -43,3 +43,4 @@
 ## 에너지
 * 태양열 전지판에 투자ㅏ하는 것도 방법이죠; invest in solar panels
 * 지구를 보호해야해요; We have to start saving our planets
+* 산소랑 물이 바닥났다; Oxgen and water ran out four days ago

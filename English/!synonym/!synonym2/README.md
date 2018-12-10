@@ -1,3 +1,12 @@
+* -로 진출하다; make one's way into
+  * 애교로 -을 얻다; smile one's way into; smiled his way into managerial position
+  * 돈으로 -을 얻다; You can't buy your way into happiness
+  * 거짓말로 그 일을 어드려 해; He's trying to lie his way into the job
+* a, the; 종교나 개념을 담고 있을 때; I go to church; 교회 건물 그 자체; i go to a church
+  * 학교가다; go to scholl; 건물 가다; go to a school
+  * 감옥에 있는것 같다; i feel like i'm in prison
+* 보조금; subsidy; subsidize; 세금 감면이나 원래 내야 할 돈을 어느정도 감면해 주는 혀애의 돈 [ˈsʌbsədi]  [ˈsʌbsɪdaɪz]
+  * grant: 개인이나 단체에 직접 주는 돈
 * 우둔한 짓이에요; It's also dim-witted
   * 이해가 빠른; quick-witted; 눈치가 없는; slow-witted; 눈치가 빠른; ready-witted
 * 3퍼센트에 해당한다; Which acoounts for about three percent of their domestic footprint

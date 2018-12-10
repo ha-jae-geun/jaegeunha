@@ -10,6 +10,15 @@
 * 그 발표에 의해 동요했다; were swayed by the announcement
 * 젬들은 너를 따를거고; Your gems will fall into line; fall into line
 * 저는 눈치보는 것을 잘 못해요; i'm not good at paying attention to social cues
+* 우리를 희생시켜서라도; At the expense of our own
+* 잘못되었단 이유로 배척 당했던 젬들이었어; Other Gems that were cast our for being wrong
+* 그건 유도 질문 같은데요? That's kind of a loaded question
+* 숙식업계에 도전합니다; Try his hand at hospitality
+* 저희가 공식적으로 확정된 게 ㅏ니었어요; We weren't officially green-lit
+* 사소한 거셍 목숨 걸진 않았잖아요; You don't sweat the samll stuff right?
+* 사소한 문제를 거창하게 생각하지 않잖아요; YOu don't make mountains out of molehills
+* 여자애를 이기는 건 제 명예에 흠집 가는 짓이에요; Defeating a woman would be a mark on my honor
+* (특히 남들이 좋게 보지 않는 것을) 신나게 즐기다; 타블로이드 신문은 최근의 정부 추문을 두고 신이 나서 떠들어댔다. The tabloid press had a field day with the latest government scandal. 
 * 자신들의 가축을 먹는 것에 대한 보복으로; i retaliation for eating their cattle
 * 전보다 더 악랄해서 돌아오다; He's back and badder than ever
 * 시간 그만 허비하고; Enough goofing around

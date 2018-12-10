@@ -161,3 +161,4 @@ sli:p ‘wi:kend I'm going to catch up on sleep this weekend. .
 * 시험 떨어지려고 내가 밤새 공부했구나	I studied all night only to fail the exam
 
 * #밤새도록	#all through the night
+	* 밤을 새다; we'll stay up

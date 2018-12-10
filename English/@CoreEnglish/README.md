@@ -1,3 +1,6 @@
+* Mom; 음-마-음; i don't; 도운; 동그라미; want; 워-언 입술 모으고 콧소리; another' (어)나더r; lecture; 렉-셜
+* debris;   [dəˈbriː] s ㅁㄱ음
+* Ashma; 애스마, Pizza; 피-쯔아, iron; 아이얼ㄴ; banquet; 뱅쿠엩; rural; 룰얼; discretion; 디스크래션; epitome; 에피트미;  [ɪˈpɪtəmi] 완벽한 본보기
 * you; 유우; do; 두우
 * comfortable; 컴프fr터블
 * you won't talk to me; won't; 입술 모으고 오우 발음으로 진동 만들기; talk to; 턱을 세게 내리다; you; 유우; that; 입을크게 턱을 세게 내리기

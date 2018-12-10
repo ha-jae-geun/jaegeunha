@@ -40,6 +40,7 @@
 * 과장이 아니야; It's no exaggeration that -
 
 # 대답
+* 말도 안되는 소리; Don't be absurd
 * 그만해; Knock it off = Quit it = Cut it out = Don't cross the line = stop that = Enough is enough
 * 그 얘긴 그만해; End of discussion
 * 내 말이 그말이야; Tell me about it
@@ -92,6 +93,7 @@
 * 어찌 됐든; Either way
 
 # 질문
+* -에 대해서 어떻게 생각하세요? What's your position on -?
 * 마을까지 제가 데려다 드려도 될까요? May i see you back to the village
 * 한국어로 고맙다는 말 어떻게 말해? How do you say "Thank you"?
 * -는 언제 끝날 것 같애; when do you think; you'll be done with A
@@ -140,6 +142,7 @@
 * 전혀 개의치 않는다; i couldn't care less
 * 내 시야에서 사라졌어요; i lost sight of it
 * 체크카드를 잃어버렸다고? you misplaced your debit card?
+* 왜 나한테 말 안해줘; Why are you holding out on me
 * 미국인 치고는 한국말 꽤 잘한다; YOu speak korean pretty well for an American
 * 그게 뇌리에 남더라고요; And that stuck with me
 * 얌전히 굴거지? Are you gonna behave yourself?

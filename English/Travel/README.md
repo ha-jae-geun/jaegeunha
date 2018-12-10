@@ -294,6 +294,7 @@ expenditure(지출 어떻게 할거니) 							 cash, credit card
 * 액체가 들어 있는 물건은 짐으로 부쳐야 해요? 	Should I have liquids checked?
 * 쓰는 것을 도와주세요. 	Please help me fill it out. 
 * 출국 심사는 어디서 해요? 	Where is the immigration counter?
+	* 그래서 런던으로 출국했어요; I flew myself out to London.
 * 보안검색을 위해서 소지품을 모두 꺼내 주세요. 	Please take out all your belongings for security inspection. 
 * 검색대를 통과하세요. 	Please go through security. 
 * 전자 제품은 다른 바구니에 담으세요. 	Please put your electronics into the other basket. 
