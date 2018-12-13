@@ -494,6 +494,7 @@
 * 쓰레기를 쓰레기통에 버렸어 			 I threw away the garbage in the trash can
 * 청소부가 바다에 떠다니는 스레기를 모았어; A chinese dustman collects floating rubbish from the river/net
 * 쓰레기통에 버렸잖아; you tossed it in the trash
+* 그들은 쓰레기를 꾹꾹 누르고 있다; They were compacting the trash
 
 ## 청소
 * 작업자는 먼지를 안정되게 하기 위해 물을 뿌렸다; A worker sprays water over a house to settle dust

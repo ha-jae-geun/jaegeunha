@@ -116,7 +116,8 @@
   방사선의 radiologist, 정신과 의사: shrink(psychologist: 심리학자와 구별 위함)
   수의사: veterinarian  [vètərənέəriən] = vet; 외과의사: surgeon
 * physician 의사, doctor 의사, surgeon 외과의, dentist 치과의사, patient 환자, medication 약물, fill the prescription 처방전을 발행하다, take medicine 약을 먹다, symptom 증상, signs 징후, * shot 주사, injection 주사, surgery 수술 #간호사 ##RN register nurse #RN; #right now
-* 주사를 놓다; give/make an injection
+  * 주사를 놓다; give/make an injection
+  * 주사를 맞다; get some shots
 * #밤샘 간호; #vigil
 * #건강검진 ; it’s good to get a #checkup #메스(수술용): scalpel [skǽlpəl]
 * #physical checkup = #medical exam
@@ -578,6 +579,7 @@
 * 아이에게 젖을 먹이고 있어요. 	I'm breastfeeding my child. 
 * [동사] (전문 용어) 충혈시키다, 울혈이 생기게 하다 engorge 미국식 [ɪnˈɡɔːrdʒ]  영국식 [ɪnˈɡɔːdʒ]   단어장추가
 * #눈곱이 끼고 눈물이 나요.	My eyes are gummed up and watery.
+  * 눈이 따가웠어요; my eyes were very irritated
 * #eye booger
 * 손으로 자주 문질렀어요? 	Did you rub your eyes with your hands frequently? 
 * 눈에 다래끼가 났어요. 	I have a sty in my eye. 

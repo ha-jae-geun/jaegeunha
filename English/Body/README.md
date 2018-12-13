@@ -53,6 +53,7 @@
 * are we getting a #tattoo?
 * #tramp stamp 미국식 영국식 단어장추가
 * [명사] (신조어) 여성이 등 아래에 한 문신 (짧은 상의와 밑위가 짧은 바지를 입으면 보임)
+	* 잔뜩 문신한 직원들도 많아요; There's some pretty inked Googlers
 * 나 영구 #제모했어 I got permanent hair removal
 * #솜털의 솜털이 보송보송한 작은 새끼 고양이 a little fluffy kitten
 * 털이 복슬복슬한 #fuzzy 미국·영국 [|fʌzi]

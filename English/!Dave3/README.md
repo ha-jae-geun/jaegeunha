@@ -1,3 +1,13 @@
+* 간단히 쭉 설명해드릴게요; Let me give you the quick rundown
+* 뽑기에서 걸려버렸지 뭐예요; i drew the short straw
+* 입양 갈 곳을 알아보고 다시 싱글로 돌아가야겠네요; i am now putting myself up fo adoption and then single
+* 부모님은 제게 한계가 없다고 믿으셨어요; They simply believed that my horizons outght to be limitless
+* 널 계속 궁리하게 만들지; Keep you second guessing
+* 상황을 파악하다; sum up the situation'
+* 우리 상황극은 고객의 정곡을 찔렀다ㅏ; Our scenario hits close to home for this shoper; close to home
+* 많은 사람들에 대한 성급한 일반화다; It's a blanket statement for a lot of people
+* 운 좋게도; by a stroke of luck
+* 저희는 신인척 하지 않습니다; WE don't play God
 * 저를 괴롭히는 것이 한 가지 있는데; There's one thing tha treally bugs me
 * 영화가 화제가 됐을 떄; Wheen buzz(ing) was building about the movie; buzz is building
 * 출발; Off we go! Go you go

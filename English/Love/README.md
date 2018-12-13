@@ -389,6 +389,7 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #오럴
  * * 성적 절정에 이른다; earth moving
  * * 게이; 수염을 기른 게이 남성; bear
+ 	* 게이라는걸 숨기고 잇죠. 커밍아웃을 하려고 해요; He's closeted, he's coming out of the closet
  * * 창녀; hooker
  * #빨보 해주다 			 give me head and man ; gave me the best head last night
  * #give me brain; #brain

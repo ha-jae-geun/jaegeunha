@@ -21,6 +21,7 @@
 * 조수, 들러리; sidekicks
 * 신참, 신입; the new kid on the block
 * 시카고 출신이야? A Chicago kid
+* 아부하는 사람; He's a kiss up
 
 # 나이
 * 어느새 18살이 됐어; Fast forward to 18

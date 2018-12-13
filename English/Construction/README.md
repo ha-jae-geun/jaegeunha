@@ -14,6 +14,11 @@ The exterior of the building is Greece, and the building material is the brick a
 ### 전통 건축
 * 전동건축의 미학은 나무를 물에 젖지 않게 하기 위함이다.
 
+### 한옥
+* 우리나라 한옥은 정면이 넓고 측면이 좁지만 성공회 성당은 전통 한옥의 측면에 입구가 있다.
+	* 서양의 전통건물은 길이가 짧은 쪽이 정면이다.
+
+
 #### 지붕. 처마, 추녀
 * 우리나라의 지붕은 곡선으로 되어있다. The roof of our country is curved. 추녀
 * 서까래가 나와 처마를 만든다. 처마를 만든 이유는 나무기둥을 젖지 않게 하기 위함이다.
@@ -31,6 +36,9 @@ The exterior of the building is Greece, and the building material is the brick a
 
 #### 아파트
 * 기존의 온돌 시스템에서 보일러가 나오면서부터, 공중에 집을 지을 수 있게 된다. From the existing ondol system, the boiler will be able to build houses in the air.
+
+##### 로프트
+* 공장을 아파트로 바꾼 건축물
 
 #### 창문
 * 강수량이 많은 벼농사 지역은 기둥 중심의 건축형태이다. The rice growing area with high precipitation is the architectural form of the pillar center.

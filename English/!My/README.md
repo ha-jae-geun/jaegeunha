@@ -59,8 +59,10 @@
 * 아니 지금은 없어; No Not right now
 * 왜; why가 아니라 What이라고 말함
 * 그건 아냐; Not really
+* 해야죠 뭐; So be it
 
 # 말투
+* -인것 같애요; i would say -
 * 틀렸어를 유하게: Are ou sure? i thought, I think you might be mistaken
 * 우리가 힘을 합치면; if we stick together; 주로 we랑 같이 씀
 * 그것이 전염성이 있다고 가정해 보자. Let's say it's contagious.
@@ -106,6 +108,7 @@
 
 
 # 일상
+* 최악은 아직 시작도 안했는걸; the worst is yet to come; have yet to V / be yet to V
 * 미안한데 나 임자잆어; Actually i'm already taken
 * 바꿀 생각 없어요; i'm keeping to it
 * 우리 친하다; We should hang out more; we should grab a bite to eat sometime

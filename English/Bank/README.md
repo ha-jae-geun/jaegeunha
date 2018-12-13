@@ -103,7 +103,8 @@
 * #주택 대출 #Mortgage
 * #담보; #mortgage
 * #비우량 담보 대출; subprime mortgage loan 
-* #collateral 미국·영국 [kə|lӕtərəl]; collateral loan/damage/benefits
+	* 담보 없이 빌릴 수 있어요; with no collateral
+	* #collateral 미국·영국 [kə|lӕtərəl]; collateral loan/damage/benefits
 * #금융 finance; (은행 업무) banking 금융의 #monetary
 * #금융 실명제 금융실명제를 강화하다 strengthen real-name account system
 * #금융증권화; #securitization 

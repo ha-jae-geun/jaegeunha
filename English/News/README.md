@@ -15,6 +15,7 @@
 * 장안의 하제; The issue has become the talk of the town
 * 일단 제 50조가 효력을 갖기 시작하면; Once article 50 has been triggered
 * 현재 상황을 고려할 때; Given what's unfolding in Syria; Give n the fact that
+* 그 대회는 대성공작으로 묘사되었다. The conference was hailed as a great success. 
 
 # 정치
 * 정치인들은 음모론 없이 살 수 없다; Some politicians cannot live without conspiracy theories

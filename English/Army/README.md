@@ -114,12 +114,13 @@
 * 나 스트레스 받고 있다구요. 					 I've been #under the gun.
 * #펑 펑; #grrata #ta=
 * ##gun; 동사; 총알같이 몰다; #gunned the engine; #엔진
-* ##총 총으로 쏘다 shoot a friend over rack
-* #소총; #rifle 자동소총을 발사하다 fire an automatic rifle 
-* #bump stocks; 반자동 소총을 자동 소총처럼 사용할 수 있게 해주는 #연사 장치
-* #대포; #artillery, #battery, #cannon - 대포 
-* #산탄; silver #buckshot
-* #관통상; #exit wound
+	* ##총 총으로 쏘다 shoot a friend over rack
+	* #소총; #rifle 자동소총을 발사하다 fire an automatic rifle 
+	* #bump stocks; 반자동 소총을 자동 소총처럼 사용할 수 있게 해주는 #연사 장치
+	* #대포; #artillery, #battery, #cannon - 대포 
+	* #산탄; silver #buckshot
+	* #관통상; #exit wound
+	* 타인에게 노출하지 않는 무기 소지 허가; concealed carry permit <> open carry permit
 * #겨누고 #재장전; take #aims and #reload
 * #군수품, #탄약; #munitions; save your munitions
 * #미국 총

@@ -40,6 +40,7 @@
 * #영국학교
 * Nursery/reception – infant school – junior / primary school – high school/secondary – college - university
 * ----
+* 너희 학교에서 출입 통제가 있엇잖아; You guys did have a lockdown at school
 * 지각; tardy; consider it tardiness
 * 랜ㄷ누가 더 크게 외쳤뜬 간에 랜덤하게 고르신다; Regardless of who shouted louder, the teacher just randomly appointed
 * '#Pupil' 에는 우리 눈동자 속의 '동공' 이라는 뜻도 있지만 , 초, 중 생 같은 어린 학생을
@@ -398,6 +399,7 @@
 * #접을 수 있는	#collapsible; bowl; 
 * 날을 집어넣을 수 있는 칼	a knife with a #retractable blade예문 
 * #절취선	절취선을 따라 종이를 찢다
+	* 절단기, 압축기; We put them through s shredder and compactor to save volume
 * tear the paper along the perforated line
 * #snapaway
 * dotted line; (작은 구멍이 뚫린) perforated line 

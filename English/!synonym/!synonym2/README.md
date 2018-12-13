@@ -1,3 +1,14 @@
+* 새치기; I was here first; No butting in line; He just cut in line; She cut me off
+  * 줄은 저 뒤부터 시작해요; The line starts back there; 
+* 부족하다; you're 23$ short
+  * be/run short on; be short of 명사; be running short on money
+* 고민중이야; i'm trying to figure out
+  * i'm trying to decide whether or not
+  * i'll think about it
+  * i have a lot on my mind lately
+* 왜 끼어들어; Why did you butt in like that; We tend not to be quit so meddlesome
+  * i don't mean to pry' She's kind of a busy body; 
+  * 오지랖이다; this is called unsolicited advice
 * -로 진출하다; make one's way into
   * 애교로 -을 얻다; smile one's way into; smiled his way into managerial position
   * 돈으로 -을 얻다; You can't buy your way into happiness

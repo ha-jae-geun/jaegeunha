@@ -75,6 +75,7 @@
 * [명사] 드라이브스루(차에 탄 채로 이용할 수 있는 식당・은행 등) drive-through (←drivethru) 
 
 # 차
+* 도로 사이를 통과하다; zipping through the streets; A sport car zipped past us
 * 고물차야; His car is a lemon
 * #auto-biography rover; 고급 #suv#
 * #스포츠카 									 convertible
@@ -246,6 +247,7 @@
 * 과속 안했어; I wasn't speeding
 * #음주운전 
 * #지하 주차장 #underground parking lot
+	* 주차장이 따로 얻은 전동스쿠터; dockless electric scooters
 	* #지하; (땅속) #basement, #underground, #in the grave
 	* 잠깐 차 세워봐							 Let’s pull over for a while
 	* 차좀 빼주세요 please move your car, would you move your car plz?
