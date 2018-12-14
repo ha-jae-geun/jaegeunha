@@ -859,22 +859,23 @@
 * I was a little apprehensive about the effects of what I had said.
 * #apprehensive (비교적 격식) (안 좋은 일이 일어날지도 모른다고 약간) 걱정[우려]하는:
 * 그는 부하들을 #불안하게 만들어) 			 He is scaring his staffs off ( (scare off)
-* #insecurities
-* #불안지수; #apprehension level
-* #불길; there were #omnious dark
-* I had grave #misgivings about making the trip
-* #My father #fidgeted and sighed. “아버지는 안절부절 못하시면서 한숨을 내쉬었다
-* 초조하게 하다; #eat at
-* 요즘 우리 관계 너무 불안해 					 our relationship is on the line
-* 안절부절을 못하시겠어요 				It is nerve-racking?, I have ants in my pants.
-* #jumpy; he's a little jumpy; 안절부절
-* 저 불안해요 								 I'm on pins and needles.
-* 안절부절해 하는거 봐봐 						 He's a little jumpy
-* 나 초조해 								 I feel/am on edge.
-* 덜 초조해요 								 I'll be less nervous
-* #restless
-* This is so #nerve racking
-* #좌불안석; being unable to sit comfortably[still](from anxiety) / be ill at ease 
+	* 지금 심신이 불안정한거야; YOu're having a nervous breakdown
+	* #insecurities
+	* #불안지수; #apprehension level
+	* #불길; there were #omnious dark
+	* I had grave #misgivings about making the trip
+	* #My father #fidgeted and sighed. “아버지는 안절부절 못하시면서 한숨을 내쉬었다
+	* 초조하게 하다; #eat at
+	* 요즘 우리 관계 너무 불안해 					 our relationship is on the line
+	* 안절부절을 못하시겠어요 				It is nerve-racking?, I have ants in my pants.
+	* #jumpy; he's a little jumpy; 안절부절
+	* 저 불안해요 								 I'm on pins and needles.
+	* 안절부절해 하는거 봐봐 						 He's a little jumpy
+	* 나 초조해 								 I feel/am on edge.
+	* 덜 초조해요 								 I'll be less nervous
+	* #restless
+	* This is so #nerve racking
+	* #좌불안석; being unable to sit comfortably[still](from anxiety) / be ill at ease 
 * 자신감은 많이 있어요; i have a lot of confidence
 	* #자신없는; #faint-hearted
 * 부모님이 #엄하셔 my parents are #strict

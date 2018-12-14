@@ -6,6 +6,7 @@
 ##coffee; 원래 uncountable; 카페, 음식점, 식당, 기내에서는 two coffees
 * 커피 어떻게 타죠? How do you take your coffee?; 블랙으로 마셔; I take it black
  * Two spoonful of sugars  
+ * 내가 당신을 위해서 이 코코아 한 잔 타줄게, 어때? why don't you let me fix you some of this new Mococoa drink
 * Cup of joe; #joe
 * Can I gt a grande(size 붙이지 않음)
 * no syrup, 3 pumps of caramel syrup, caramel drizzle on topm white mocha sauce with Matcha powder, on shot of espresso

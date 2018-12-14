@@ -19,6 +19,7 @@
 * 음악에 맞춰 춤추다; i danced to the music
 
 # 노래
+* 나랑 블루스 추기로 했잖아; Hey, you owe me a slow danace
 * 느렸어. 아주 조금; Dragging. Just a hair
 * 노래를 따라부르다; Something to sing along; Sing together: 다 함께 부른다는 것에 초점
 * 가슴이 터지도록 부르다; SIng your least favorite song at the top of my lungs; at the top of one's lungs

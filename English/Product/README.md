@@ -20,6 +20,12 @@
 * 손님이 다 떠나가고 있잖아; YOu're driving away all the customers
 
 ## 유명 브랜드
+* toyota; toy-Yoh-duh
+* Honda; Hon-duh
+* Subaru; SUE-buh-roo
+* Chrysler; KRISE-ler
+* Volkswagen; VOLKS-wag-in = VW
+* Chevrolet; SHEV-ruh/ Shev-ee
 * 소화제; Pepto Bismol; Alka-Seltzer
 * DD; Dunkin donuts
 * 맥도날드; Mickey D's

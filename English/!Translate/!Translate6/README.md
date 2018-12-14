@@ -1,3 +1,90 @@
+# 영어 다이어리 2
+* 지난 일기 영상에 없어서 아쉬웠떤 한 가지가, 많은 분들이 지적했듯이, 브로디가 새 코트를 실제로 입은 모습이었어요
+  * One thing that was missing from my last video diary, as many of you pointed out, was Brodi actually wearing his new coat.
+* 그 영상을 포스팅했을 당시에는 아직 도착하지 않은 상태라는 걸 언급을 할걸 그랬나봐요 그러나 오늘 좋은 소식이 있어요 - 어제 드디어 도착했는데 얼마나 기분이 좋더지!
+  * I guess I should’ve mentioned that it hadn’t yet arrived at the time I posted that video. But today I’m happy to tell you that it came in yesterday and MAN! was it a satisfying experience!
+* 아니, 물론 상품 자체보다 중요한 것은 없지만, 포장이 너무 멋지다는 생각에 헤어나오질 못하겠더라구요
+  * I mean, of course, nothing is more important than the product itself but I just couldn’t get over how awesome the packaging was.
+* 짠하게 들릴 수 는 있어도, 잠시동안은 누구의 선물을 개봉하고 있엇는지 완전 잊고 있었어요 글고 앰버는 어쩌면 아직도 자기꺼라고 생각하는 것 같애요
+  * As sad as it may sound, for a moment, I had totally forgotten whose gift we were opening, and I think Amber might still think it’s hers.
+* 걱정마 앰버, 너도 크리스마스 떄 하나 줄게, 게다가 넌 이미 세상에서 가장 아름다운 코트가 잇잖아.
+  Don’t worry Amber, you’ll get one for Christmas.  Besides, you already have the most beautiful coat in the world.
+* 이번이 브로디한테는 성견으로서 맞이하는 첫 겨울이에요. 그래서 이런 코트는 입어본적이 한번 도 없죠
+This is actually Brodi’s first Winter as an adult.  So he’d never worn a coat like this before - 
+* 그리고 애가 얼마나 잘 겁먹는지를 알아서 천천히 적응하면서 입을수 있도록 최선을 다했어요
+  * and knowing how easily he scares we did our best to ease him into it.
+* 애가 코트에 적응하려면 시간이 좀 걸릴까봐 사실 걱정이엇는데, 입은 채로 금방 졸더라구요. 그래서 좋은 징조로 받아들였죠 
+  * I was a little worried that it would take some time for him to get used to the coat but he soon started dozing off in it and we took that as a good sign.
+* 어쨌뜬 브로디 새 코트가 마음에 들었으면 좋겠고 이제는 니네 누나 크리스마스 선물로 뭘 줄지 생각해보자
+  * Anyway, so, Brodi, I really hope you like your coat and now let’s start thinking about what to get your sister for Christmas.
+
+# 영어 다이어리 [ EPISODE #01 ] - 강아지 옷 사주기
+* 확실히 겨울이긴 하네요; well it's definitely Winter.
+* 우리는 춥고  특히 눈이 ㅇ로떄는 어디 안가고 그냥 안에있는걸 좋아해요
+  * ANd while many of us like to stay inside when it's cold, especially when it's snowing outside
+* 앰버는 추운 날씨에 전혀 신경쓰이지 않는 모양이에요; Amber never seems to mind the cold
+* 그런 반면 브로디는 그냥 겨울을 아주 좋아하는 편은 아니라고만 해두죠; Let's just say that Winter is nt his favorite season
+* 바로 인터넷으로 검색하다가 i did a quick search online
+* 개가 따뜻하게 입을 수 있는걸 사야겠다는 생각이 들었어요; I realized I needed to get him something warm he can wear.  You know, for when we go out.
+* 잠시후에 답변이 ㅘㅆ는데 한국어인거에요; After awhile i get a reply and it's in korean
+* 알고보니까 한국 회사더라구요; Turns out, it's actualy a Korean company
+* 그들의 도움으로 브로디의 정확한 치수를 재서 줄 수 있어서; With their help, i was ablee to give them some precise size measurements of my dog
+* 브로디를 위한 좋은 코트를 주문할 수 있었어요; I was able to put in an order for a really nice coat for him
+
+# [ 대화가이드 #16 - Part 1 ] - "이해가 됐을지 모르겠네요." / "제가 맞게 이해한거라면,.." / "라는건가요?"
+* 이해 했어요? I hope that makes sense. (Do you understand? 는 압박감이 있는 질문); Does that make sense
+* 아 그렇구나 그러면; Oh, OK. So
+* 내가 당ㅇ신을 맞게 이해한 거라면; If i understtod you correctly
+* 그렇다라는 거는 -라는 건가요? Does that mean -
+
+
+# [ 대화가이드 #15 ] - "네? 어디요? 어디를 가봤냐고요?" / "그런 곳이 있다고는 들어봤어요." | 영어회화
+* 혹시 춤추는 광대에 가봤어요? Have you been to 'Dancing Clown' by any chance?
+* 네? 어디요? 어딜 가봤냐고요?  What? Sorry where? Sorry. Have i been (to) where?(어디만 못들엉쓸 때)
+* 아 아니오. 안가봤는데 그런데가 있따고는 들어본 것 같애요
+  * Oh no, i haven't. But i think i've heard of it.
+* 거기 무대에 올라가서 사람들ㅇ 앞에서 노래 부르면 저녁을 공짜로 준다는 곳 아니에요?
+  * Isn't that the place where if you go on stage and sing in front of everybody, they offer you a free dinner?
+
+# [ 연습가이드 #37 - PART 1 ] - appropriate / proper / correct / right - 맞게, 알맞은, 적합한, 잘못된, 제대로
+* 내가 맞게 하고있는건지 모르겠어
+  * i don't know if i'm doing it right
+* 전문 트레이너한테 상담을 받아봐
+  * why don't you talk to a professional trainer
+* 운동도 종류가 워낙 많아서 너한테 적합한게 뭔지 아는게 중요해
+ * There are so many different types of exercises and it's important to know which ones are appropriate/right for you
+  * 적합한: appropriate, right: 맞는; proper: 정답이라고 하는 말(젓가락 다루는 것); 보통 right로 통일
+    * proper way to use chopsticks
+    * 적합한 수준의 클래스; appropriate class for your level
+* 게다가 운동도 올바른 방식이 다 있는데 잘못된 자세로 하고 페이스 조절도 제대로 안해서 다치는 사람이 많거든
+  * ANd not only that, there's a proper way of doing  every/any exercise and/but al ot of people get injured because they don't do them in the coorect posture and they don't properly pace their workout
+    * right는 동사를 수식할 수는 없다.
+
+# [연습가이드 #36] - 극단적인 주장 → 뒷받침해주는 관점 제시 → 주장의 타당성 강조
+* 사람들이 아이를 가지고 부모가 되면 적어도 몇 주 동안은 심지어 몇달에 걸쳐 부모 교육가은 것을 받아야만 하는, 그런 시스템이 잇어야 된다고 생각해요;
+  * I think people who have children and become parents should be required to go through some kind of parent taring for at least a couple of weeks or even month
+    * should be required to; 결정을 지어주는 규정/규율/정책의 필요성 표현
+* 좀 비현실적이고 꽤 무리한 요구처럼 들릴수 있다는 것은 알아요.
+  * I know it can sound; quite demanding and somewhat unrealistic
+* 그렇지만 사람의 유년시절이 얼마나 중요하고 그 사람이 살아가는 데에 있어서 얼마나 큰 영향을 끼치는지를 생각해봐요
+  * but think about how important a perons's childhood is and how much impact it has throughout their lives
+* 저는 사실 그런게 아직 없다는게 좀 놀랍다니까요
+  I'm actually surprised we don't already have such a thing
+    * we don't have, yet; 라고 써도 되지만 어떤 일이 지체되고 있다는 지적을 더 강조하기 위해 already
+
+# [ LESSON #22 ] - 중요한 영어 단어 "spend" - Part 1
+* spend/waste
+* 옷에 돈 쓰는 걸 싫어해요; i don't like to spend money on clothes
+* 우린 이 프로젝트에 시간을 너무 많이 쓰고있어; we're spending too much time on the project
+* 우리는 이벤트를 준비하는데 돈을 이미 많으썼다; we already spent a lot of money preparing for the event
+* 이거 걱정하느라 시간 너무 버리지마; DOn't spend too much time worrying about this
+* 크리스마스 때 계획있어? Do you have any plans for Christmas?
+* 아니 별로 너는? No, Not really, how about you
+* 그냥 티비 보거나 책읽을것 같은데; I think i'm just going to; spend Christmas at home watching TV and reading books
+* 내 친구 몇몇은; 스키타러 가요 Some of my friends; 써머마이 f 발음 생략; are going skiing
+  * 약속한 것 같은 내용들은 미래내용임에도 현재진행으로 쓰인다.
+*  나는 새 차를 사려고 돈을 모으고 있어서 지금은 그런거에 돈을 쓸 수 없어; I'm saving up for a new car and i can't spend that kind of money right now
+
 # [ LESSON #20 ] - "할게 있다/없다/많다" - "그때까지는 할게 별로 없다"
 * 너 시간 있니: Do you have time?
 * 너 지금 뭐 할거 있어? Do you have something to do right now?; 빨리 발음하다 보면 썸음만 발음

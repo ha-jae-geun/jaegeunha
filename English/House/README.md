@@ -518,6 +518,7 @@
 * 인생을 최대한 충실하게 살다; Live it to the fullest; live it(life) to the full(est)
 * 일생에 있을까 말까 한 기회; That is once-in-a-lifetime opportunity
 * 그리고 저는 도덕적인 삶을 살아요; And i live a moral life
+* 내 인생에서; in my entire life
 
 ## 운명
 * 운명을 다시 써보는 건 어때? WHy don't we rewrite the stars

@@ -95,6 +95,7 @@
 * 어찌 됐든; Either way
 
 # 질문
+* -인게 괜찮지? Is it chill that 문장?
 * -에 대해서 어떻게 생각하세요? What's your position on -?
 * 마을까지 제가 데려다 드려도 될까요? May i see you back to the village
 * 한국어로 고맙다는 말 어떻게 말해? How do you say "Thank you"?
@@ -105,9 +106,12 @@
 * 네가 뭔데 그래? Who do you think you are?
  * 출산 예정일이 언제에요; When's Jenny due?
 * 왜 한국 왔어요; what brought you to Korea?, Why did you  choose Korea?, What made you want to come to Korea?
+* 이게 뭐라고 생각하세요; What's your guess on what that is
 
 
 # 일상
+* 내 칭찬 하려는건 아니고; NOT TO PAT MYSELF ON THE BACK!! 
+* 비슷하지도 않아; Not even close
 * 최악은 아직 시작도 안했는걸; the worst is yet to come; have yet to V / be yet to V
 * 미안한데 나 임자잆어; Actually i'm already taken
 * 바꿀 생각 없어요; i'm keeping to it

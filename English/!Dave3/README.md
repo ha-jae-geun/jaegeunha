@@ -8,6 +8,12 @@
 * 많은 사람들에 대한 성급한 일반화다; It's a blanket statement for a lot of people
 * 운 좋게도; by a stroke of luck
 * 저희는 신인척 하지 않습니다; WE don't play God
+* 이런 우연이 다있나?; What are the odds
+* 그들이 우세하게 될거야; They will come out on top
+* 비장의 카드를 쓰다; She's bringing out the big guns
+* 절약하다, 질러가다, 건너뛰다; You do cut corners
+* 다 지난일이야; It's all in the past
+* R 할만도 해; have every right to R; YOu have every right to be upset
 * 저를 괴롭히는 것이 한 가지 있는데; There's one thing tha treally bugs me
 * 영화가 화제가 됐을 떄; Wheen buzz(ing) was building about the movie; buzz is building
 * 출발; Off we go! Go you go

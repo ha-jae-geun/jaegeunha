@@ -371,6 +371,7 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #대물이다 he's a #big shot (2. 유능한 사람)
  * #가랑이; #crotch; punch me in the crotch
  * 성관게 유혹하는 #밀회 I thought it was a #booty call 단어장추가
+ 	* 날 유혹하려고 하지; Yrying to holler at me
  * 성적인 무언가를 하려 하다 #get with someone; I tried to get with this girl
  * #RUH: 						 Are you #Horny?: #흥분했니?(2. 남자의 성기)
  * 거기가 사막; 건조; 말라있을까봐 신경이쓰에요; self-conscious of being dry

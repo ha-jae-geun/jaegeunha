@@ -1,3 +1,328 @@
+# Y 발음
+* 사실 한국어에도 Y발음이 있는데 한글로는 동일하게 ‘ㅇ’표기라 그 차이를 잘 인식 못하는 거 같습니다. 
+예를 들면, 한글 표기로는 같지만
+숫자 ‘일 IL’과 work의 ‘일 YIL’,
+숫자 ‘이 YI’와 치아를 말하는 ‘이 I’ 발음의 차이를 생각하면 한국어에도 y라는 자음을 사용하고 있는데 말입니다.
+오늘도 잘 보고 갑니다~~수고하셨어요~~^^﻿
+* 손바닥을 입 가까이에 대고 혀의 앞쪽 양옆이 느껴지면서 혀의 앞쪽으로 바람이 나오는게 느껴짐
+* You, Yougurt
+
+# 쓸만한 영어 - 연말 연시 감사인사를 전할 때 꼭 필요한 영어 표현들\영어회화\영어공부\Thank you
+▷ 받은 선물에 대한 고마움을 표현할 때
+ * - Thank you for your gift.
+ *   선물 고마워.
+ * 
+ * - Thank you for your lovely gift.
+ *   직역 : 너의 사랑스런 선물 고마워???
+ *   의미 : 선물 정말 고마워.(마음에 들어)
+ * 
+ * - Thank you for your beautiful gift.
+ *   직역 : 너의 아름다운 선물 고마워???
+ *   의미 : 선물 정말 마음에 들고 참 좋더라..고마워.
+ * 
+ * *Gift Card 선물을 받았을 때
+ *  *미국은 백화점 상품권이 아닌 gift card를 써요.
+ *  Thank you for your gift card.(X)
+ *  Thank you for the gift card.(O)
+ *  기프트카드 고마워.
+ * 
+ * - 좋아하는 마음을 조금 더 표현하면 
+ *   선물해준 사람도 더 뿌듯하겠죠?
+ * 
+ * - 빨리 쓰고 싶어!
+ *   I want to use it fast???
+ * 
+ * - I can't wait to use it!
+ *   직역 : 그거를 쓰는 것을 기다릴 수 없어???
+ *   의미 : 빨리 쓰고 싶다~(좋아서)
+ * 
+ * - I love this store.
+ *   직역 : 나 이 가게 사랑해???
+ *   의미 : 나 여기(이 매장) 정말 좋아해.
+ * 
+ * - 미국에서 백화점???
+ *   department store???
+ *   미국에서 우리한테 백화점에 해당하는 쇼핑몰을 department store라고 말하는 경우가 없어요.
+ *   따라서 백화점용 gift certificate(상품권)라는 말을 하는 일도 거의 없기 때문에 현지인들은 헷갈려 할 수 있어요.
+ * 
+ *   높은 건물의 백화점보다는 넓은 부지에 여러 샵이 있는 곳을 가르킬 때는 "mall / shopping mall (그냥 그 mall 이름을 불러요"
+ * 
+ *   따라서 미국에서 우리식 백화점 gift card를 받게 되면 
+ *   그 가게 /매장을 가르켜서 "store"라고 하는 게 맞아요.
+ * 
+ * 
+ * ▷ 도움을 받고 고마움을 표현할 때
+ * 
+ * - Thank you for your help.
+ *   도와줘서 고마워요.
+ * 
+ * 
+ * ▷ 마음/신경써주셔서 감사해요.
+ * 
+ * - thought
+ * 
+ * - Thank you for your help and theh (kind) thought.
+ *   (친절하게)생각해주고 도와줘서 고마워요.
+ *   *(kind)자리에 다른 형용사를 넣어 말을 풍부하게 할 수 있음
+ * 
+ * - Thank you for + 감사한 이유
+ *   ~해서 고마워요.
+ * 
+ * - "감사합니다" 라고 하면 바로 떠오르는 단어는?
+ *   appreciate??
+ *   고맙다 = thank you??
+ *   감사합니다 = appreciate??
+ * 
+ * 
+ * ▷ 이미 받은 것에 대한 감사함을 표현할 때
+ * 
+ * - I appreciated your help and the thought.
+ *   *주로 현재형으로 많이 외우기 때문에 과거로 표현해야 할 때 실수하지 않게 주의하세요.
+ * 
+ * 
+ * ▷ 감사함을 전하는 다른 다양한 표현들
+ * 
+ * - "어떻게 감사함을 표현해야 할지 모르겠어요."
+ *   "Thank you"는 부족해...
+ * 
+ * - I can't thank you enough for your help and the thoughtfulness.
+ *   어떻게 감사함을 표현해야할지 모르겠어요. 
+ *   (Thank you는 부족해...)
+ * 
+ * - 감사한 마음을 말로 다 할 수가 없어요.
+ *   Words are too cheap to express...
+ *   직역 : 단어들은 표현하기에 너무 싸다???
+ * 
+ * - Words are too cheap to express my appreciation.
+ *   감사한 마음을 말로 표현하기엔 너무 부족해요.
+ * 
+ * - 친구끼리는 "Thank you!" 만으로도 충분해요! ^^
+ * 
+ * - 도움이 없었다면 이렇게 할 수가 없었을 거예요.
+ *   If you didn't help me, I couldn't do anything at all???
+ * 
+ * - I couldn't do anything without your help.
+ *   도와주셔서 이렇게 할 수 있었어요.
+ * 
+ * - I haven't done anything without your help.
+ *   너가 도와줘서 이제까지 잘 할 수 있었던 거야.
+ * 
+ * 
+ * ▷ 선생님께 감사인사를 전하고 싶을 때
+ * 
+ * - Thank you for taking good care of Sb.
+ *   (아무개)를 잘 돌봐주셔서 감사합니다.
+ * 
+ * - Thank you for taking good care of Leah.
+ *   리아를 잘 돌봐주셔서 감사합니다.
+ * 
+ * - Thank you for taking good care of (자녀이름)
+ *   (아무개)를 잘 돌봐주셔서 감사합니다.
+ * 
+ * - 덕분에 → thanks to..
+ * 
+ * - Thanks to you..     +   (더 말하고 싶은 부분)
+ *   선셍님 덕분에..
+ * 
+ * - Thanks to you    <                    포.인.트.
+ *   선생님 덕분에           선생님이 아이를 잘 이끈 사실 
+ * 
+ * - 앞장서서 이것저것 알려주며 이끄는 그림의 단어는?
+ *   Thanks to your excellent guidance
+ *   직역 : 당신의 뛰어난 지도 덕분에
+ *   의미 : 선생님이 워낙 잘 이끌어주셔서
+ * 
+ * - (아무개)가 학교 생활도 잘하고 < 학교 생활을 재밌어하고 좋아한다는 뜻
+ * 
+ * - (아무개)가 학교 생활도 (좋아하고)잘하고
+ *   She enjoys school
+ *   She has enjoyed school
+ *   She is enjoying school
+ *   *현재형; 현재완료형; 현재진행형을 쓴 이유
+ *     과거형 enjoyed 하면 
+ *     학기중(방학 전)에 인사를 하는 게 아니라 
+ *     학교를 다 마치고 떠난 후(방학중/졸업 후) 하는 인사가 됨
+ * 
+ * - Thanks to your excellent guidance she enjoys school and learns a lot of things.
+ *   선생님께서 잘 이끌어주신 덕분에 (아무개)가 학교 생활도 잘하고 많이 배웠습니다. 
+ * 
+ * - Thanks to your excellent guidance she has enjoyed school and has learned a lot of things.
+ * 
+ * - Thank you for teaching and leading (Sb.) in the right direction.
+ *   올바른 길로 이끌어주셔서 감사합니다.
+ *   더 반듯하게 자랄 수 있게 해주셔서 감사합니다.
+ * 
+ * - 기본적으로 통하는 사람의 인지상정엔 공통점이 많지만 생활과 문화가 달라서 그만큼 생각과 언어의 차이가 큰 것 같아요.
+ * 
+ * - 포인트를 직접적으로 먼저 말하는 영어권 문화에서 "한국말은 끝까지 들어봐야한다"는 우리말의 습관은 영어에서 기피하는 redundancy(같은 말의 중복)원인이 되기도 해요.
+ * 
+ * - mature
+ *   성숙해진 그림
+ * 
+ * - We are glad to see that + (하고 싶은 다른 말_
+ *   기분이 참 좋습니다.
+ * 
+ * - We are glad to see that + (하고 싶은 다른 말_
+ *   아이가 성장한 것을 보니 참 좋았습니다.
+ *   (이젠 철없이 걱정시키지 않고 잘해서)
+ * 
+ * - We are glad to see that she is becoming more mature.
+ *   직역 : 아이가 성장한 것을 보니 참 기쁩니다.
+ *   의미 : 이젠 많이 커서 마음이 놓이고 좋아요.
+ * 
+ * - effort
+ *   노력
+ * 
+ * - Thank you is not enough to express how much we appreciate your hard work.
+ *   이렇게 열심히 가르쳐주셔서(일해주시니) 얼마나 감사한지 모른답니다.
+ *   *다른 문맥에서도 얼마든지 사용 가능
+ * 
+ * - Thank you is not enough to express how much we appreciate your time and effort.
+  선생님의 시간과 노력에 대한 감사함을 말로 다 표현할 수가 없습니다.
+  *결국 같은 "정말 감사합니다"에 대한 여러 다른 표현﻿
+
+
+# 쓸만한 영어 - 직장에서 꼭 필요한 생존 영어 - 무언가를 부탁할 때 - 어떤 일을 시켜야할 때 /직장영어/영어회화/영어공부
+ *  오늘 점심 전까지/ 오늘 오후까지/ 퇴근 전까지 이거 다 끝내줄래?
+ *    → Can you finish + (something)? : ~끝낼 수 있어? / 끝내줄래?
+ *    - 완전히 다 마무리/모두 끝낸 쪽의 그림? 
+ *      → Can you get + (something) done?
+ *         ~ 좀 다 끝내줘./ 다 마무리할래?
+ *         Can you get this done + before  + 끝내야하는 시점?
+ *                                   by 
+ *         ☞ Can you get this done before lunch?
+ *            점심 전까지 이것 다 끝내죠.
+ *        - 오늘 오후 늦게까지는 다 끝내줄래?
+ *         ☞ Can you get this done by later this afternoon?
+ *        - Can you get this done + 퇴근 전까지
+ *          퇴근 전까지 다 끝내줄래?    - 퇴근= 영어로?
+ *          ♠ leave work (=get off (of) work)
+ *          - 지금 퇴근하는 거야?  지금 차빼는거예요?
+ *            ☞ Are you leaving now?
+ *        ⟹ Can you get this done + 퇴근 전까지          
+ *                                     before you leave today? 
+ *           퇴근 전까지 다 끝내줄래?
+ *           Can you finish this before you leave today?
+ *           Can you get this done before you leave today?
+ *                                                →  [완전히 마무리해달라는 쪽으로 가면]
+ * 
+ * - 정말 급한 건이야. 지금 바로 끝내줘야해. [시급하고 급박한 상황]
+ *   → 당장 처리하지 않으면 문제가 되거나 위험할 수 있는 그림
+ *      ♠ urgent 
+ *      
+ *   → 중요한만큼 문제가 될 수 있는 그림 
+ *      ♠ matter
+ *      - What’s the matter? 뭐가 문제인데? (뭔가 중요하다고 그게 문제야?)
+ *      - It doesn’t matter to me. 나한텐 그게 중요하지 않아서 문제가 아니야.
+ *   → ♠ urgent matter
+ *        당장 해결하지 않으면 문제가 될 수 있는 중요한 일
+ *      - This is an urgent matter. 
+ *        이건 정말 빨리 처리해야하는 급한 일이야.
+ *        matter을 빼면 This is urgent.(관사없음)
+ *         이 상황에 잘 맞는 조동사는?
+ *         ☞ You have to get this done now!
+ *  *            지금 당장 이거 싹 다 해결해야돼!     
+ *  * 
+ *  * - 진짜 안하면.. 완전 죽고.. 너~무 급하고.. 큰~~일 나고
+ *  *    ☞ EMERGENCY
+ *  *     It’s an em*ergency! [두번째 e에 액센트 : 소리를 길게]
+ *  * 
+ *  * - 점심까지 못끝내면 문제가 심각해져. (get something done)
+ *   → If you don’t get this done before lunch
+ *      점심 전까지 못끝내면
+ *     ▶ 문제가 커져...문제가.. 크다.. 
+ *       ‘문제가 커져’ 영어로? = bigger trouble???
+ *       ⟹ 문제 안에 있는 그림. 말이 아닌 생각! ☞ be in trouble / get in trouble
+ *                            get in 큰 trouble → be in big trouble/ get in big trouble
+ *        If you don’t get this done before lunch you’ll be in big trouble.
+ *        점심 전까지 못 끝내면 문제야.
+ * 
+ * - 전혀 급한 일이 아니야. 아직 시간있어.
+ *   일정이 빡빡하진 않으니깐 끝낼 수 있을 때 해.
+ *   - 당장 끝내야하는 일은 아니야.
+ *     전혀 급한 거 아니야.
+ *     ⟹ It’s not urgent.(at all)
+ *   - 편할 때 천천히 해줘도 돼. [have to???]
+ *     ♠ free
+ *       무언가를 가둬놓고 제한될게 없는 그림 < 자유로운
+ *      - 무설탕 sugar free
+ *      - feel free 편하게 생각해
+ *       → Feel free to get this done 편하게 해도 돼
+ *       ⟹ Feel free to get this done whenever you want. 편한대로(아무때나)끝내도 돼.    
+ * - 딱 정해진 기한은 없어. < 언제까지 꼭 해야되는 건 아니야.
+ *  *   ♠ deadline  : 이 선 넘으면 죽어!
+ *  *     ‘언제까지’라고 ‘정해진 선’ ‘넘으면 안되는 선’ < 마감일 
+ *  *     - fixed deadline 꼭 정해진 마감일 있을 때
+ *  *       → There is no fixed deadline. 딱 정해진(고정된) 기한은 없어.
+ *  *       ※ There is no (넣고 싶은 형용사) deadline.
+ *  *          There is no (빡빡한) deadline. 기한이 빡빡하지 않아.
+ *  *         → There is no tight deadline. 기한이 빡빡하지 않아. 기한에 여유가 좀 있어.
+ *  * 
+ *  * - 조급하게 서두르지 않아도 돼. ~ 까지 아직 시간있어.
+ *  *    ♠ rush (무언가 이루기 위해) 다급히 서두르는 그림
+ *  * 
+ *  * [복습]
+ *  * <예시상황1> (화장실이 너무 급한 상황에서) 혹시 제가 먼저 써도 될까요?
+ *  *  ※ 너~~무 급해서 
+ *  *    = be in a hurry?
+ *    = be in a rush?
+ * (화장실이 너무 급한 상황에서) 혹시 제가 먼저 써도 될까요?
+ * →  Excuse me, I’m in a hurry???
+ * ☞  I’m sorry but I really need to go.
+ * 우리 (딸)아이가 화장실이 너무 급하다고 해요.
+ * My daughter really wants to go to the bathroom.
+ * (화장실이 급할 때) 나 급해./ 나 빨리 가야해.
+ *  Sb. wants(/needs) to go to the bathroom badly.
+ * ※ 화장실이 급할 때 I’m in a hurry. / I am in a rush.가 맞지 않는 이유는?
+ *   지금 이 일 이후에 가야 할 (해야 할) 다음 목적지가 있을 때 알맞음.
+ * 
+ *    직장에서 업무를 준 것은 다음 goal이 있는 상황
+ *  → You don’t need to rush to do it.
+ *     너무 서둘러서 (급하게) 하지 않아도 돼.
+ *  - 금요일까지 아직 시간있어.
+ *    We have enough time until Friday.
+ *   ▶ It can wait until Friday.    
+ *      금요일까지 아직 시간있어.
+ *   ☞ You don’t need to rush to do it. It can wait until Friday. 
+ *      금요일까지 시간있으니깐 너무 서둘러 안해도 돼.
+ *        
+ * - 천천히 해.  
+ *   Take your time. 천천히 해도 돼.
+ * 
+ * - (줬던 일/부탁했던 일) 신경쓰지 않아도 돼. 귀찮게해서 미안해.
+ *   ♠ Never mind.
+ *      * mind는 머리(생각)쪽의 그림 . 마음 쪽이 아니예요.
+ *   ♠ Don’t bother. 
+ *      신경쓰지마.(그거 안해도 돼)
+ *      * [(누구)를 위해 (굳이) ~하지 않아도 된다]는 뜻
+ *    ☞ Sorry to bother you. Don’t bother. 
+ *       신경쓰이게해서 미안해. 신경 안써도 돼.
+ * 
+ * 직장에서 일어나는 상황들을 떠올리며 직접 소리내어 말하는 연습을 해보세요.
+ * 
+ * <복습퀴즈>
+ * 1. 지금 도와줄 수 있는 시간돼?
+ *   Are you available to help me now?
+ * 2. 늦은 오후까지는 끝내줄래?
+ *   Can you get this done by later this afternoon?
+ * 3. 정말 급한 일이야. 지금 바로 끝내야해.
+ *   This is an urgent matter. You have to get this done now!
+ * 4. 너무 너무 급한 큰일이야!
+ *   It’s an emergency! 
+ * 5. 퇴근 전까지 이 일 다 못끝내면 정말 곤란해져.
+ *   If you don’t get this done before you leave today, you’ll get in big trouble.
+ * 6. 급하게 서두르지 않아도 돼.
+ *   You don’t need to rush to do it.
+ * 7. (그 일) 금요일까진 여유있어.
+ *   It can wait until Friday.
+ * 8. 딱히 정해진 마감일은 없어.
+ *   There is no fixed deadline.
+ * 9. 성가시게해서 미안해. 신경안써도 돼.      
+ *   Sorry to bother you. Don’t bother. 
+ * 10. 편하게 끝낼 수 있을 때 해주면 돼.
+ *   Feel free to get this done whenever you want (to).﻿
+
+
 # 쓸만한 영어 - 계산이 틀렸어요 - 마켓에서 거스름돈이 안맞을때 쓸만한 영어표현 - 영어회화\영어공부
  * 복습1] 물건 계산할 때 쓸만한 영어 2016년 9월 23일
  * *Tip 3. 계산원의 실수로 같은 물건에 대해 2번 계산이 됐을 경우

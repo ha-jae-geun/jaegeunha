@@ -262,7 +262,7 @@
 * 고기 ##결 strand of meat
 * #고기판; #steakpan #pan
 * #콩피; #confit
-* #족발; #pork feet -> #ham hock(#hock)
+* #족발; #pork feet -> #ham hock(#hock); fort trotter
 * #훈제; #smoked flavor
 * #편육; #cold cuts
 * #가금 							 to keep poultry 가금을 기르다

@@ -523,6 +523,9 @@ His sudden smile made her go #weak at the knees. ; 2. 약한
 * #tush #duff; #궁둥이
 * 납작한 엉덩이: flat 
 	#glutes; 엉덩이 근육
+	* 엉덩이에 뭐 묻었다 돌려서; YOu have something on your backside
+		* You have a stain on the back of your pants
+	* 엉덩이에 이거 깔고 앉아; Sit on this
 * ^^##smooth; #표면; 매끄럽다; I have smooth skin
 * #부드러운 피부 it's like a #baby's butt/bottom; #smooth as a baby;s but(남자한테는 안됨)
 * #smooth; #솜씨가 좋다; 특히 상대방을 잘꼬시면 하는 말

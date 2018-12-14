@@ -1,3 +1,6 @@
+* 격려; YOu'll do a great job; i wish you do the best
+  * You can do it; Break a leg; Just do your bewst; You're doing a really good job
+* 동의; I know, right; Sounds good; SOunds good to me; Absoultely
 * 새치기; I was here first; No butting in line; He just cut in line; She cut me off
   * 줄은 저 뒤부터 시작해요; The line starts back there; 
 * 부족하다; you're 23$ short
