@@ -18,6 +18,7 @@
 * 선물 많이 사주자; Let's shower her with gifts
 	* When are you having your baby shower
 	* 아기 침대 사주자; Let's get her a crib for her baby shower
+* 버릇없는 아이; spoined kid
 
 # 청소년 #아이
 * 날 야단치지 마. 	Don't bite my head off

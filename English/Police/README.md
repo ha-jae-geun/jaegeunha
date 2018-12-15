@@ -26,6 +26,7 @@
 * 오늘 바바리맨 봤어; i saw a flasher today
 	* 바바리맨에게 당했어요; i've been flashed so many times on the train
 * 수상한 남자를 데리고 있다; they've got this creeper guy
+  * 수상해보여; seems a bit dodgy
 * 쟤가 스파이야; he's the rat
   * 몰래 관찰하는게 기대된다; i can't wait to be a fly-on-the-wall
 * 우리는 책임이 있을 법한 용의자들을 체포해ㄸ싸; we've rounded up the only criminals
@@ -202,6 +203,7 @@
 * #결박하다; #put in irons(#iron)
 * do sth off the #cuff; #즉석에서 하다
 * #심문; #interrogations
+  * 제가 심문을 하고 있었던 것 같네요; i'm interrogating you
 * #혐의 #allegation; Several newspapers made allegations of corruption in the city's police department. 2. #진술
 * #혐의가 풀렸다 							 cleared of a charge
 * #accusations; of sexual assault
@@ -283,9 +285,10 @@
 * #소송 #취하 						 rescind 미국·영국 [rɪ|sɪnd the lawsuit
 * i'm gonna sue you, see you in court
 * #소송하다; #litigate
-* #소송 사건; #court case
-* 소송을 취하하다 drop[withdraw] a legal case[suit] 단어장추가
-* 소송을 걸다 #file a suit against
+  * #소송 사건; #court case
+  * 소송을 취하하다 drop[withdraw] a legal case[suit] 단어장추가
+  * 소송을 걸다 #file a suit against
+  * 집단 소송에 합의하다; settle a class action(law suit)
 * #구속되었어 She's in #jail now
 * 법적 구속력있는; #legally binding #contract/ #agreement
 * #형사 소송; #criminal law suit, #민사 소송; #civil law suit

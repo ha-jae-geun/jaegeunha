@@ -112,6 +112,7 @@
 # 일상
 * 내 칭찬 하려는건 아니고; NOT TO PAT MYSELF ON THE BACK!! 
 * 비슷하지도 않아; Not even close
+* 내용을 다 밝히고 싶진 않은뎅; i don't wanna give everything away
 * 최악은 아직 시작도 안했는걸; the worst is yet to come; have yet to V / be yet to V
 * 미안한데 나 임자잆어; Actually i'm already taken
 * 바꿀 생각 없어요; i'm keeping to it

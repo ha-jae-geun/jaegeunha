@@ -11,6 +11,7 @@
 
 
 # 연예인
+* 레옹에 캐스팅 됑써요; I was 11 when i was cast n the Professional
 * 대사 연습을 해볼게요; we're going to do some run-throughs on lines
 * 환호받는 여배우; Accalimed actress; 자칭의; Self-proclaimed
 * (2차 면접 등을 위한) 재통보; Call back for roles

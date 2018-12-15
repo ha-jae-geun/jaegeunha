@@ -282,6 +282,7 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #뽀뽀 #kiss #키스; #make out
  * #steal kisses
  * #키스마크; #hickey; is that a hickey?
+ 	* 키스도 하면서; And snogging
  * play #tonsil tennis; #tonsil: #편도선
  * 여자들끼리 #밤마실; #girls' night out
  * #커플 #연인 #여자친구 #남자친구 #썸

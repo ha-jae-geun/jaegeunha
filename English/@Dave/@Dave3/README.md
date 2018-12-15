@@ -14,6 +14,15 @@
 * 절약하다, 질러가다, 건너뛰다; You do cut corners
 * 다 지난일이야; It's all in the past
 * R 할만도 해; have every right to R; YOu have every right to be upset
+* 따로 살다; live apart 
+* 성공 할수 있을것 같지가 않다; These chains can't seem to take off
+* 준비도 다 끝났어요; this is good to go
+* 비용과 시간을 줄이기 위해서 전 과정이 간소화되어야 합니다; The entire process should be streamlined to cut the cost and time
+* 맹비난을 받다; have come under fire
+* 열량이 1959 칼로리라는 엄청 큰 수치를 찍다; clocking in at a whopping 1959 calories; clock in at
+* 그들이 죄가 없다는 것에 내 목숨을 걸겠어; I'd stake my life on their innocence; stake A on B
+* 결정적인 순간이 있었나요? Was there a defining moment?
+* 제외하고요; except/apart from
 * 저를 괴롭히는 것이 한 가지 있는데; There's one thing tha treally bugs me
 * 영화가 화제가 됐을 떄; Wheen buzz(ing) was building about the movie; buzz is building
 * 출발; Off we go! Go you go

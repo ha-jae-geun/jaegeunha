@@ -233,6 +233,7 @@
 * #whip out; 급히 꺼내다
 * #대리점; #ford #dealershp
 * #whip; 차 #도로 ##차 #자동차 #운전 #뻉소니
+	* 뺑소니 i was in a hit-and-run tonight
 * Do you have a driver's license? 
 * #장롱면허 I do, but I don't drive
 * 초보운전 스티커 붙이고 연습해봐 Put a beginning driver' sticker on your car and practice

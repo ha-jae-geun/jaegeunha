@@ -29,6 +29,7 @@
 * 매우 반응이 느리고 터치 인터페이스도 끔찍하다.  Very laggy and the touch interface is terrible.
 * 온라인상에서 덧글이 쭉 달려있는것 : thread
 	* email thread: 이메일을 주고받으면서 답장과 답장들이 줄처럼 길게 달려있는 이메일
+	* 실시간 검색어; sixth most serarched word; Real-time searching rank
 * 사용자의 의견, 공유, 그리고 좋아요는 온라인 콘텐츠 참여율을 보여주는 척도이다. User’s comments, shares and likes are the measures that show #engagement rate; 온라인 콘텐츠 참여율
 * 낚시성 콘텐츠: click-bait
 * 관종; attention whore/seeker
