@@ -2,6 +2,8 @@
 * New Years' Eve; -의 전날, 바로 직전
 
 # 크리스마스
+* 크리스마스 트리를 세우자; Let's put up a Christmas tree
+* 크리스마스 카드 곧 발송해야 해. I need to send out the Christmas cards soon.
 * Santa Nick; 산타클로스의 또 다른 애칭
 * #eggnog shakes; 연유+날계란
 * #christmas truce
@@ -9,7 +11,7 @@
 * #candy cane; #지팡이 사탕, #화환; #garland=#wrath, #솔방울; #Pinecone
 * #지팡이; old man with the #cane
 * 다리를 #절다; did she have a #limp and a cane
-* #트리를 장식하다; #trim the tree
+* #트리를 장식하다; #trim the tree 
 * 양말에 담긴 크리스마스 선물; #stocking stuffer
 * *Happy new year, Merry christmas and All the best in a New Year(크리스마스와 새해 인사 같이하기도 함)
 * ㆍ#칠면조 구이가 메인이다.

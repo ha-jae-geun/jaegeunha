@@ -22,6 +22,8 @@
 * ~할 안건이 있습니다; we have ~ items to
 * ~로 넘어가자; Let's turn to the next topic on the agenda, move on to~
 * 회의를 소집하다; conduct/run a meeting
+* 끝내기 전에 다음 미팅 일정을 확정지어 볼까요? Before we leave, can we fix the next meeting?
+* 참석해 주신 모든 분들께 다시 한 번 감사 말씀 드립니다. Thanks again for your participation. (Thank you all for attending.)
 
 
 # 단어
@@ -48,6 +50,7 @@
 * 조직 내 새로 합류한 사람이 빠르게 조직의 문화를 익히고 적응하도록 돕느 ㄴ과정; #onboarding = OJT(on the job training)
 * 월급 급여; #payroll, 총 급여 대상자 명단: #Gross payroll
 	* 첫 월급 받았어; i got my first paycheck
+	* "저 월급 쥐꼬리만큼 받아요." "I'm paid peanuts." "I get paid peanuts."
 * #ETA; Estimated time of arrival; 도착 예정 시간
 * #effective date; 유효기일, 발효일
 * Biz card = Business card

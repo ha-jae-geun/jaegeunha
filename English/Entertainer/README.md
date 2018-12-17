@@ -8,9 +8,16 @@
 * 더 많은 정보 위해 채널 고정하세요 Stay tuned for more information later
 * 교통정보는 ~엣 전해드립니다; The traffic report is brought to you by News 51
 * 덴버 시내의 최신 정보를 알려드리겠습니다; We now bring you the latest update in downtown Denver
+* : 정규방송 신호조차 안 잡혀 I can't even grab a regular broadcast signal.
+* : 도디, 케이블 tv가 안나온다고 해서 세상이 끝난 것은 아니거든 Dodee The cable is out, it doesn't mean it's the end times.
+
+
+# 연극
+* : 그들은 헨리 홀에서 공연을 할거야 They're putting it on at Henley Hall; 연극이나 쇼 등에 올리다
 
 
 # 연예인
+* 관심이나 인기를 독차지하다; steal the show
 * 레옹에 캐스팅 됑써요; I was 11 when i was cast n the Professional
 * 대사 연습을 해볼게요; we're going to do some run-throughs on lines
 * 환호받는 여배우; Accalimed actress; 자칭의; Self-proclaimed

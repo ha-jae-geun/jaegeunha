@@ -1,3 +1,7 @@
+# 사막화
+* (1) Overgrazing (지나친 방목 -35%); (2) Deforestation (삼림벌채 - 30%); (3) Over-cultivation (지나친 경작 - 28%); (4) Overexploitation of fuel wood (지나친 땔나무 사용 - 7%); (4) Bio-industrial activities (농약과 비료 사용 - 1%). 
+[출처] 사막화(desertification)의 반대말이 green이라?|작성자 약장수 버스터
+
 # 지구 온난화
 ## 플라스틱
 ## 중국 환경오염 원인

@@ -5,8 +5,10 @@
 * 도착 시간을 맞추다; In order to time it's arrival with the rest; tiime one's arrival
 * 한달에 책 얼마나 읽어; How man books do you read in a month?
 	* 한달 뒤 어때; ho about a month from tonight?(one month later xx)
+* 노닥거릴 시간 아니야; THis is no time to fool around
 
 # 시간
+* 성공은 매일매일 반복되는 조그마한 노력들이 합쳐진 거야. Success is the sum of small efforts repeated day in and day out.
 * 우호적인 시기; honeymoon period/phase
 * PST(Pacific Standard Time); 서머타임 후: PDT(Pacific Daylight Time)
 * MST, MDT, CST, CDT, EST, EDT
@@ -15,6 +17,7 @@
 * 정확히 딱; it falls dead center between them; 
 * 주말은 물건너 갔구만; There goes my weekend
 * 밤은 아직 일러; The night's young
+* 연말; end of the year party; 연말 세금 조정; Year-end tax adjustment
 
 # 요일
 * 어서 금요일이 되면 좋겠어!; Roll on Friday! 듣기 출처:옥스퍼드

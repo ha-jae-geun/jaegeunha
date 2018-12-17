@@ -7,7 +7,14 @@
 * 우리 상황극은 고객의 정곡을 찔렀다ㅏ; Our scenario hits close to home for this shoper; close to home
 * 많은 사람들에 대한 성급한 일반화다; It's a blanket statement for a lot of people
 * 운 좋게도; by a stroke of luck
-* 저희는 신인척 하지 않습니다; WE don't play God
+* 저희는 신인척 하지 않습니다; WE don't play God 
+* 이성적으로 생각해; "Be rational!"
+* 말도 안되는 소리 하지마; DOn't beat your gums
+* 비장의 무기가 남아있어; i have an ace up my sleeve
+* 얼버무려 넘어가면 안돼; YOu shouldn't gloss over problems
+* 떠보다; he's just feeling you out
+* 논란거리; a bone of contention
+* 다음 3년동안 이 여배우 팔자에 사랑은 없다; Love is not in the starf for this actress
 * 이런 우연이 다있나?; What are the odds
 * 그들이 우세하게 될거야; They will come out on top
 * 비장의 카드를 쓰다; She's bringing out the big guns
@@ -33,7 +40,12 @@
 * 회사 지분의 22퍼센트를 받는 대신; in exchange for a 22% stake in the company
 * 오합지졸에 불과한 반란군 무리 a ragtag band of rebels 
 * 잘못을 바로잡다; right a/the wrong
+* : 넌 여전히 이것을 멈출 수 있어. You can still put the brakes on this thing.
+* 할아버지는 10년 전에 돌아가셨지만, 그에 대한 기억은 아직도 살아 있어. My Grandpa died ten years ago, but his memory still lives on.
+* 나 오늘 아침 6시부터 계속 바빴어. I've been on the go since six this morning.
 * 고래고래 악쓰다; rant and rave
+* 나 너무 솔직해서 손해보는 것 같아. 
+*I think I pay the price for being honest.
 * 다 지난일이야; It's all in the past
 * R 할만도 해; have every right to R; YOu have every right to be upset
 * 따로 살다; live apart 

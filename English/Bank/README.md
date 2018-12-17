@@ -26,6 +26,7 @@
 * 법화; Legal tender
 * 우린 깡통 찼다고. We ain't got a pot to piss in.
 	* 빈털털리야; i'm absoultely skint/broke
+* 어마가 돈줄을 쥐고있다; Mom holds the purse string in my family
 
 # 숙어
 * 믿을만 한거야; you can tae it to the bank

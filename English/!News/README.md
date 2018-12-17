@@ -16,6 +16,9 @@
 * 일단 제 50조가 효력을 갖기 시작하면; Once article 50 has been triggered
 * 현재 상황을 고려할 때; Given what's unfolding in Syria; Give n the fact that
 * 그 대회는 대성공작으로 묘사되었다. The conference was hailed as a great success. 
+* 현재 사람들의 관심사가 무엇인지 what’s trending now in Korea 
+* 실시간 검색어를 보는 것만으로 세인의 관심사나 중요 뉴스를 실시간으로 쉽게 알 수 있어 편리하다. Only by checking out the portal’s most-searched keyword section,
+* 온라인의 강자가 되다 become a dominant player online 
 
 # 정치
 * 정치인들은 음모론 없이 살 수 없다; Some politicians cannot live without conspiracy theories

@@ -1,4 +1,4 @@
-
+태
 
 
 # 도로
@@ -71,10 +71,11 @@
 * 3호선 양재역 방향을 타라 take line three going to 양재 station
 * 양재역에서 내려서 10번출구로 나가라 #get off at 양재 station and go to exit 10
 * #택시 정보 #uber
-* #법인택시; #corporationowned taxi
-* #개인택시; #privately owned taxi
-* #미터기; #taximeter
-* #블랙박스; #dash cam
+	* #법인택시; #corporationowned taxi
+	* #개인택시; #privately owned taxi
+	* #미터기; #taximeter
+	* #블랙박스; #dash cam
+	* 미터기로 계산해요; i charged by the meter
 * #로터리; #rotary
 * #요금이 올라가다; #meter goes up
 * #트렁크 가방좀 트렁크에 넣어주실래요? 	 Can you put my bag in the trunk?

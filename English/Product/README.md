@@ -312,16 +312,17 @@
 * 50% 세일 중이에요 							 This is 50 percent off
 * #flip on discount
 * 이거 할인 전이에요? 할인 후에요? It it before of after the discount / Is this the #sale price?
-* 할인하다 할인 받다 				 할인을 give you a discount get a discount 
-* 특별 할인						 Doorbuster Deals(문 부서진다고 해서)
-* 추가 할인 되나요?					 Is there any additional discount?
-* 학생 할인되나요? 					 	Do you offer student discounts? 
-* #이월; #end‐of the season sale ‐ 이월 세일 
-* 할인하다 할인 받다 				 할인을 give you a discount get a discount 
-* #clearance; #재고정리 #떨이
-* #할인 마트; a large #discount store 대형 할인 마트
-* #할인 가격; *#Sale price (할인된 가격) vs. #Regular price
-* #할인 #세일 #떨이
+	* 학생할인 있나요? DO you have student rates?
+	* 할인하다 할인 받다 				 할인을 give you a discount get a discount 
+	* 특별 할인						 Doorbuster Deals(문 부서진다고 해서)
+	* 추가 할인 되나요?					 Is there any additional discount?
+	* 학생 할인되나요? 					 	Do you offer student discounts? 
+	* #이월; #end‐of the season sale ‐ 이월 세일 
+	* 할인하다 할인 받다 				 할인을 give you a discount get a discount 
+	* #clearance; #재고정리 #떨이
+	* #할인 마트; a large #discount store 대형 할인 마트
+	* #할인 가격; *#Sale price (할인된 가격) vs. #Regular price
+	* #할인 #세일 #떨이
 * #ramble; (2. 장황히 설명하다) nothing worse than somebody who rambles
 * #mooch; nobody needs a mooch living
 * #gallivant around

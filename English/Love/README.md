@@ -1,7 +1,8 @@
 # Word
 * 번호를 따가다; ask for one's number
 * -와 관계가 진전될 가능성이 있다; have a chacne with; you don't have a chance with him
-* 애증의 과계; a love-hate relationship; i have a love-hate relationship
+	* 애증의 관계; a love-hate relationship; i have a love-hate relationship
+	* 관계가 껄끄러어 지다; Their relationship goes sour
 * 연애 상대를 좀 더 까다롭게 고르다; i had been more selective with my romantic relationships
 * 내가 놓친 그사람; get away; 미련 남는 사람; the one that got away
 * 삼각 관계 같은 거; He's in some kind of, like, love triangle
@@ -555,8 +556,9 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #relish; I have little relish for insects
  * #옛정을 생각해서 #for old time sake
  * #반하게하다; #swept off one's feet
- * 반하다; i'm #smitten with you; #smite; 갑자기 홀딱 방하다
- * 그는 당신에게 반했어요; he fancies you
+	 * 반하다; i'm #smitten with you; #smite; 갑자기 홀딱 방하다
+	 * 그는 당신에게 반했어요; he fancies you
+	 * 마음을 훔치다; steal one's heart
  * #풋사랑; #calf love = #puppy love
  * 사랑스럽네요 								 That’s a lovely touch
  * #인정 많다 ##정; have a good haeart

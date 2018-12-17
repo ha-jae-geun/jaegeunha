@@ -11,6 +11,7 @@
 * Can I gt a grande(size 붙이지 않음)
 * no syrup, 3 pumps of caramel syrup, caramel drizzle on topm white mocha sauce with Matcha powder, on shot of espresso
   * Extra shot/syrup
+  * : 저기, 차 물 좀 올려 놔 주실래요? You know, you could put on a pot of tea.
 * 커피 끓이는 기계: #coffee percolator; #percolator
 * I could #use a cup of coffee
 * #쿠폰; I want to redeem a 쿠폰이름 / use my points / claim my points

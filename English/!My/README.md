@@ -21,6 +21,7 @@
 * I said I would be ther as soon as I could
 
 # 접두어
+* 에릭은 말하자면 완벽주의자야. Eric is, so to speak, a perfectionist
 * 사실은; But deep down,
 * 의심의 여지없이; Without question
 * 쉬운 용어로; In plain English
@@ -74,6 +75,7 @@
 * 왜; why가 아니라 What이라고 말함
 * 그건 아냐; Not really
 * 해야죠 뭐; So be it
+* 그럴리 없어; Not a chance
 
 # 말투
 * -인것 같애요; i would say -
@@ -107,9 +109,16 @@
 * -라면 무슨 소용이야; What's the point in/of A if B; What's the point in paying 200 dollars for that book if
 * 예측 못했어; i didn't see it coming
 * 어찌 됐든; Either way
+* 동병상련; Misery loves company
 
 
 # 일상
+* 완전히 뜻밖이다; Thhis is totally out of left field
+* 방해하지마; Don't distract me when -
+* 밥벌이를 하다; bring home the bacon
+* 그에 대해서 잘 안다; i know him inside out
+* 취업 준비중이야; i am in between jobs
+* 새 아이폰 카메라 끝장나 그리고 기능도 엄청 많아 They newly-released iPhone has a high-end camera with lots of extra features.
 * 조마조마하다; be on pins and needles
 * 한마디도 안 놓치려고 그녀는 귀를 쫑긋 세웠다. She pricked up her ears not to miss a word. 
 * 주장을 확실하게 하다; put one's foot down

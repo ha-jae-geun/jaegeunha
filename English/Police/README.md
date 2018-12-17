@@ -31,6 +31,7 @@
   * 수상한걸 느꼈어요; i started noticing some sketchness
 * 쟤가 스파이야; he's the rat
   * 몰래 관찰하는게 기대된다; i can't wait to be a fly-on-the-wall
+  * 스토킹; 네가 스토킹을 당하고 있었다고 했잖아. You said you were being stalked.
 * 우리는 책임이 있을 법한 용의자들을 체포해ㄸ싸; we've rounded up the only criminals
 * 독심술 기술을 사용할거야; most advanced mind reading technology
 * 그는 좀 악당 같은 데가 있지만 아주 매력적이다. He’s a bit of a rogue, but very charming. 

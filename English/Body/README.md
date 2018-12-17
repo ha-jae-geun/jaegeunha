@@ -1,4 +1,5 @@
 # 머리
+* 뇌; 머리가 멍했어; Brain fart; brain fade
 * 머리에 떔빵은 안 났거든; i dind't give myself a bald spot
 * 이불에 머리카락이 붙어있어; THere's a hair struck on the blanket
 * 빨간 머리; ginger
@@ -307,6 +308,8 @@ how dare you say such a thing #to my face
 * 애교점	beauty mark 또는 beauty spot
 * 광대뼈	cheekbone [‘tʃi:kboʊn]
 빠르게 걸은 것 때문에 그녀의 뺨이 상기되어 있었다. 	The power walking / brisk walk had brought color into her cheeks
+	* 뺩을 치다; The wind is slapping my face = The wind is slapping me in the face
+	* SHe slapped him = She slapped him in the face = She gave him a slap in the face
 * 그녀는 #콧날이 오똑하다 	She has a sharp nose.
 * 코딱지	booger, boogie
 * 코를 후비다	pick one's nose 
@@ -918,6 +921,7 @@ Shut up pipe down> Silence > Hush > Be quiet >=Keep it down >= would you keep it
 * #코털 trim your nose hair #귀지; clean your ear wax
 * 내 손을 떠났어 			 It left my hand already It's out of my hands now
 * 손톱 발톱이 날카롭고 들쑥날쑥해 보여 깎아	 'dƷӕgɪd nails are sharp and jagged. cut/clip 
+	* 손톱 받다; i got a mani(cure)
 * 샤워 너무 오래해서 손이 너무 쭈굴해졌어 I think I took a bath for too long. My fingers are pruney
 	* 이중 세안이 너무 과하다고 생각할 수 있어요; double cleansing kind of seems like an overskill
 	* 약간의 잔여물이 남아있거든요. There is still some slight residue. [-duː]  영국식 [ˈrezɪdjuː]

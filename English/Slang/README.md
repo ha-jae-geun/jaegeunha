@@ -2,6 +2,7 @@
 * 입이 가벼우면 화를 부른다; Loose lips sink ships
 * 내 발등을 내가 찍었어; i shot myself in the shoot
 * 나를 수월하게 이겼어; beat me hands down in every game
+* 서두른다는 일이 되는 것은 아니다; A watched pot never boils
 
 ##숙어# #숙어 #slang #idiom
 * 무소식이 희소식이다; No news is good news

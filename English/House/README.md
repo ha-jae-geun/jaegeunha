@@ -19,6 +19,7 @@
 * 우린 집세를 낼 돈이 없어. We ain't got our rent money.
 * 계약금 없이; with no money down
   * 계약금을 걸다; make/put a down payment; with some money down
+* 그는 집돌이다.  He’s a home-body. 
 
 # 주방	it has a; #gourmet kitchen; 프로급 주방
 

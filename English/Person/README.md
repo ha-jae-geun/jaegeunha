@@ -3,6 +3,7 @@
 
 # 기타
 * 똑똑한 척 하는; fancy-pants(값비싼 바지) fancy-pants tool; 형용사 2. 멋쟁이; 
+	* 허풍을 떨다; He's kind of larger than life
 * 추종자들이 있는 권위자, 전문가; guru; 흰두교에서는 종교적 스승, 지도자   expert: 사람들의 전중ㅇㄹ 받는 전문가
 * 그는 독보적이다; He's a one of a kind
 * 어중이 떠중이; rabble(2. 왁자지껄하게 모여있는 사람들)

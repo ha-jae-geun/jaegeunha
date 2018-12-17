@@ -1,5 +1,19 @@
+* : 보석 사는 것을 보류하려고 보석상에 가는 중이야. I'm heading to the jeweler's to put some pieces on hold.
+  * : 어떻게 나한테 이런 부담을 지울 수가 있어요? How can you put this on my shoulders?
+  * : 나 한테 책임을 돌리지마. Oh, don't put this on me
+  * : 그를 스피커로 연결 해 Put him on speaker; Becky, put Jules on.
+  * : 그들은 헨리 홀에서 공연을 할거야 They're putting it on at Henley Hall; 연극이나 쇼 등에 올리다
+  * : 그녀는 결코 잘 난척 하지 않아. 난 그게 좋아. She never put on airs. I like that.
+  * : 난 당신 말고는 어떤 다른 사람을 위해서도 내 목숨을 걸지 않을 거에요. I wouldn't put myself on the line for anybody but you.
+  * : 이것을 공공연히 밝힐 필요는 없지 We don't need to put it on display.
+  * : 그냥 너에게 알려주는 것 뿐이야.  I'm just putting you on notice
+  * : 샌드위치 몇 개도 추가해줘요. 그것은 내 계산으로 해 주고. A couple of sandwiches, too. Put it on my tab
 * 격려; YOu'll do a great job; i wish you do the best
   * You can do it; Break a leg; Just do your bewst; You're doing a really good job
+* 솔깃했어; My ears just perked up; It was an ear-catching story; It was a tempting offer; 
+  * That sounds inviting = My ears got tempted
+* bitch; 2. 임마; 3. he's such a bitch; 징징된다 4. Stop bitching; at me 싫은 소리 그만해라
+  * 일방적으로 갈구다; bitch someone out
 * 동의; I know, right; Sounds good; SOunds good to me; Absoultely
 * 일반적인 순진한; innocent; 세상 물정 모르고 사람들에게 이용당할 ㅓㅂ한 사람; naive
 * 측면; aspect는 side보다 좀 더 격식이 있는 공적인 느낌이 드러난 표현
@@ -11,6 +25,20 @@
     * bring me the book은 책을 손에가지고 있ㄱ거나 다른곳에 와서 가져와야 하는지 중요하지 않고 가져와달라는 뜻
 * pass out; 자동사: 기절하다; pass out; 타동사: Pass these books out for me; 나눠주다
 * 병원 가야겠어; i should go to a doctor / doctor's
+* 수학은 제 강점이 아니에요. Mathematics is not my forte. 1. strong point (강점) 2. strength (장점) 3. strong suit [soot] (특기, 장점, 장기)
+* 취향; not my cup of tea; not my thing; not my bag
+* 내 분야 아니야; expertise; area of expertise; be one's specialty/bag
+* 그말 취소할게요; scratch that; take it back
+  * 고심하게 하다; make someone scratch one's head
+  * 대충 하ㅏㄷ; scratch the surface
+  * 처음부터; from scratch
+  * 수준 미달이다; not up to scratch
+* 목이 아프다; I have a scratchy feeling in my throat; "It's painful to swallow food."
+  * "I have a sore throat."
+  * 목에 뭔가 걸린 느낌이야; "I feel a lump in my throat."
+  * 목이 칼칼해; "My throat feels scratchy."
+  * '몇 시간 동안 쉬지 않고 말했더니 목소리가 거칠게 들렸어. "My voice sounded raspy after speaking for hours nonstop.
+  * 그녀는 감기 때문에 목소리가 낮게 나오더라구. "She sounded muffled because of her cold."
 * 새치기; I was here first; No butting in line; He just cut in line; She cut me off
   * 줄은 저 뒤부터 시작해요; The line starts back there; 
 * 부족하다; you're 23$ short

@@ -19,6 +19,7 @@
 * 음악에 맞춰 춤추다; i danced to the music
 
 # 노래
+* 노래방 18번이야; - is my karaoke staple
 * 난 그런 음을 내지 못할거야; i am never going to be able to hit these ote; hit the/a note
 * 지겹도록 나온다; It's been overplayed
 * 나랑 블루스 추기로 했잖아; Hey, you owe me a slow danace

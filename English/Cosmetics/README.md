@@ -1,3 +1,15 @@
+# 여드름
+* 짜다; '여드름을 짜다' 는 '짜다' 를 직역해서 'squeeze' 혹은 'press"  로 표현하기도 하지만 가장 흔한 표현은 '펑 터트리다' 라는 의미의 'pop' 을 쓴답니다!
+* 여드름을 바늘로 찔러 갈라진 틈을 만드세요. Pierce your pimple with  a needle and create a small tear. 피어싱의 그 "pierce"를 여드름을 바늘로 콕 찌를 때도 쓴답니다. 여기서 "tear" 는 눈물이 아니라 "찢다" 의 "tear" 인데 발음이 [tair- 테얼] 이라는 거 기억하세요!
+* 조심스럽게 옆을 눌러서 고름이 나오게 하세요. Release the pus by gently  pressing down the sides.
+* 여드름을 소독용 알코올을 사용해 소독하세요. Sterilize the pimple with rubbing alcohol.
+* 얼굴에 여드름이 났어요. My skin broke out in pimples.
+* '피부에 잠시 트러블이 났었는데 곧 깨끗해 졌어요.' "My skin broke out temporarily,  but it soon cleared up."
+* '10대 때 여드름 때문에 한 고생 했어요.'; 여드름; "I suffered a great deal from acne when I was a teenager. 불가산 명사
+  * '이 여드름 아직 안 익었어.' "This pimple is not ripe yet.; 셀수 있음
+  * '턱에 뾰루지가 몇 개 났어.' "I got some spots on my chin."
+  * '그는 피부에 잡티 하나 없어요.' "He has no blemishes on his skin.
+
 # 피부 
 * 화장이 잘 안받는것 같애; i think my makeup is not blending in
 * 푸석푸석해; i have dry skin; The weather is drying my skin
