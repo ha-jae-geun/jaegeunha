@@ -30,6 +30,7 @@
 마지막으로 소개해드릴 주방가전은 커피 메이커(coffee maker)입니다. 커피의 소비가 많은 미국답게 대부분의 미국 가정에는 커피 메이커가 있습니다. 한국은 에스프레소(espresso, 커피원두를 갈아 높은 압력으로 추출한 커피 액) 커피를 즐기지만, 미국에서는 에스프레소 커피 못지않게 드립 커피(drip coffee, 커피원두가 갈린 가루에 물을 타서 거름지에 걸러 낸 커피)를 많이 마십니다. 
 
 
+* 발코니에서 내렫보인다; The balcony looks over the zoo
 * 우리 집의 절반을 차지해요; IT takes up my whole apartment
 * 난간; 난간을 잡다 to hold on to the banister/banisters 
 * 아직 집을 다 꾸미지 않아서; i'm not done with my place yet
@@ -495,6 +496,8 @@
 * 청소부가 바다에 떠다니는 스레기를 모았어; A chinese dustman collects floating rubbish from the river/net
 * 쓰레기통에 버렸잖아; you tossed it in the trash
 * 그들은 쓰레기를 꾹꾹 누르고 있다; They were compacting the trash
+* 쓰레기들을 갖다 버려야해; Throw out junk all up in this place
+* 어떤 것이든 ㅐ다 버려; chuck anything out
 
 ## 청소
 * 작업자는 먼지를 안정되게 하기 위해 물을 뿌렸다; A worker sprays water over a house to settle dust
@@ -525,3 +528,4 @@
 
 # 화장실
 * 배변활동; bowel movents; It's about bowel movement [ˈbaʊəl]
+* 욕조를 닦자; Wash that tub

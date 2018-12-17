@@ -448,22 +448,23 @@
 * 미국 #검정고시 #GED
 * #출제하다; #set exam questions
 * #시험 기간: text(exam) week = text(exam) period/term
-* #시험관; #test tube
-* #중간고사, #기말고사 mid-term exam / final (exam)
-* 시험 보다 take a test
-* #재시험보다; #retake a test = #resit an exam
-* #문제 틀리다; #miss the question
-* #시험 범위는 어디예요?What does it cover? = can you tell me what the test will be on?
-* #시험 범위는 1과부터 10과까지야	 The test will cover from chaper 1 to 10
-* #시험 공부하느라 밤을 새워야해	 I have to cram for the test. krӕm
-* 나 합격했어 I've passed
-* 시험 #망하다 #flunk test = fail an exam
-* 수업 모두 F: fail a course/class
-* #커트라인 #합격선 passing grade
-  * I’m into the list; I’ll put you on the waiting list
-* 합격: #approve
-* #구두 영어 시험 
-* spoken (언어가) 구어의, (글이 아닌) 말로 하는[구두의]: an exam in spoken English
+	* 객관식; multiple choice test; 서술형: essay question; 주관식: short answer question
+	* #시험관; #test tube
+	* #중간고사, #기말고사 mid-term exam / final (exam)
+	* 시험 보다 take a test
+	* #재시험보다; #retake a test = #resit an exam
+	* #문제 틀리다; #miss the question
+	* #시험 범위는 어디예요?What does it cover? = can you tell me what the test will be on?
+	* #시험 범위는 1과부터 10과까지야	 The test will cover from chaper 1 to 10
+	* #시험 공부하느라 밤을 새워야해	 I have to cram for the test. krӕm
+	* 나 합격했어 I've passed
+	* 시험 #망하다 #flunk test = fail an exam
+	* 수업 모두 F: fail a course/class
+	* #커트라인 #합격선 passing grade
+	  * I’m into the list; I’ll put you on the waiting list
+	* 합격: #approve
+	* #구두 영어 시험 
+	* spoken (언어가) 구어의, (글이 아닌) 말로 하는[구두의]: an exam in spoken English
 * #받아쓰기 Spelling Test
 * entrance fee; 입장료 #entrance exam; 입학 시험, #entrance ceremony; #입학식
 * 우리는 동문이네요. 	We're alumni. ə‘lʌmnaɪ

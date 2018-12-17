@@ -12,6 +12,28 @@
 * 그들이 우세하게 될거야; They will come out on top
 * 비장의 카드를 쓰다; She's bringing out the big guns
 * 절약하다, 질러가다, 건너뛰다; You do cut corners
+* 세간의 이목을 끄는; high-profile; He is a high-profile politicians
+* 이 엽서는 그만큼 잘 나오지 않았어; THis postcard doesn't do justice to the wonderful scenery
+* 구멍; It's a cavity; cave와 동의어로 쓰였음
+* 링 내 열기가 달아올랐는데요; Looks like thing are heating up in the ring
+* 손해를 보다; get the short end of the stick; 끝이 짧은 제비뽑기를 뽑다
+* 최악의 상태인; in all one's glory
+* 가까스로; by the skin of one's teeth; they only survice the skin on their teeth
+* 몰래 다가갔어요; he just snuck up on me; sneak up on
+* 기회와 가능성의 문을 열어주다; open up doors; DOors open up
+* 애매한; borderline; borderline human; In borderline cases
+* 트래피와 의견을 같이 해야 해거든요; i had to concur with Trappy
+* 이미 계산해봤어요; i've already done the math; do the math
+* 그녀는 날 언제나 휘두르겠지; She'll always get the best of me; get the best of
+* 끄끊임없이 그녀를 괴롭혀; It haunts her constantly
+* 내게 거짓 신호야; It's a false alarm
+* 잡동사니가 많아보이네요; It's a little bit junky
+* 그는 방랑벽이 있다; He has a habit of wandering around
+* 전례가 없던 방식; be completely unheard of
+* 회사 지분의 22퍼센트를 받는 대신; in exchange for a 22% stake in the company
+* 오합지졸에 불과한 반란군 무리 a ragtag band of rebels 
+* 잘못을 바로잡다; right a/the wrong
+* 고래고래 악쓰다; rant and rave
 * 다 지난일이야; It's all in the past
 * R 할만도 해; have every right to R; YOu have every right to be upset
 * 따로 살다; live apart 
@@ -23,6 +45,7 @@
 * 그들이 죄가 없다는 것에 내 목숨을 걸겠어; I'd stake my life on their innocence; stake A on B
 * 결정적인 순간이 있었나요? Was there a defining moment?
 * 제외하고요; except/apart from
+* 안전해; Coast is clear; 전쟁에서 해안가는 깨끗하다에서 시작
 * 저를 괴롭히는 것이 한 가지 있는데; There's one thing tha treally bugs me
 * 영화가 화제가 됐을 떄; Wheen buzz(ing) was building about the movie; buzz is building
 * 출발; Off we go! Go you go

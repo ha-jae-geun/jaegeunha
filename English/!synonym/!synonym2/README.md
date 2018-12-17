@@ -5,6 +5,12 @@
 * 측면; aspect는 side보다 좀 더 격식이 있는 공적인 느낌이 드러난 표현
 * qnfsks ep qncowlf gkwl aktpdy; DOnt rub it in
 * 빡친, 부당함, 시샘; jealous; 부러운; envious
+* generic; 제네릭; genetic; 지네릭
+* 아주 훌륭한 시발이죠; WHich is a serious shoe
+* 데려와, 가져와; fetch 사람 + 사물 / fetch 사물 for 사람; fetch me the book; 상대방이 책을 가지고있지 않은 상황에서 무리해서 가지고 오라는 뜻
+    * bring me the book은 책을 손에가지고 있ㄱ거나 다른곳에 와서 가져와야 하는지 중요하지 않고 가져와달라는 뜻
+* pass out; 자동사: 기절하다; pass out; 타동사: Pass these books out for me; 나눠주다
+* 병원 가야겠어; i should go to a doctor / doctor's
 * 새치기; I was here first; No butting in line; He just cut in line; She cut me off
   * 줄은 저 뒤부터 시작해요; The line starts back there; 
 * 부족하다; you're 23$ short

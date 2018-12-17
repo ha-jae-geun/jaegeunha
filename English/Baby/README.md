@@ -20,7 +20,16 @@
 	* 아기 침대 사주자; Let's get her a crib for her baby shower
 * 버릇없는 아이; spoined kid
 
+# 놀이
+* 7 스페이드인것 같아요; It's a seven of spades
+* Criss-cross: 틱택토;  hopscotch; 바닥에 사각형 그려놓기 게임
+* 사방놀이: #hopscotch
+* 수건돌리기; #duck, Duck, GOose
+* 무궁화 꽃이 피었습니다; #green light! Red light!
+* 술래: IT
+
 # 청소년 #아이
+* 3세 이상이라고; Ages 3 and upㅈ
 * 날 야단치지 마. 	Don't bite my head off
 * 제비뽑기를 하다; draw straws; 과거에는 지푸라기로 제비뽑기; 재수없게 걸리다; draw the short draw
 * 어릴 때 처음 쓰기 시작했죠; i cut my teeth on those
@@ -28,11 +37,6 @@
 * 장난꾸러기, 놈당꾼; jokester; whos the joester out of the group
 * 아이들의 말투; 작은; teeny-tiny / teeny-weeny
 * 사춘기 이전; prepubescent 미국·영국 [prì:pju:bésnt];  Jimmy had a prepubescent daughter,
-* Criss-cross: 틱택토;  hopscotch; 바닥에 사각형 그려놓기 게임
-* 사방놀이: #hopscotch
-* 수건돌리기; #duck, Duck, GOose
-* 무궁화 꽃이 피었습니다; #green light! Red light!
-* 술래: IT
 * #adolescence, #teens, #youth - 청소년기
 * emo; 질풍노도 시기에 있는 민감한 아이를 이르는 말
 * 구금되어 있는 청소년 							 the youths in detention

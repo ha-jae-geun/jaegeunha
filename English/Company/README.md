@@ -79,6 +79,7 @@
 
 # 「회사」 #회사 #기업 #복합 기업, #대기업; #conglomerates
 * #중소 기업; 
+* 기업 사냥꾼; corporate raider; 공식적으로 기업을 ㅇ니수합병하여 기업에 영향력을 발휘하는 투자가, 전문가
 * small businesses, small and medium-sized businesses[enterprises], smaller enterprises[businesses]
 * ☆company -> i'm at work
 * 나 #출근해 					 I'm off to work on my way to workㅋ

@@ -5,6 +5,7 @@
 * 한국은 압수하면 국고로 들어간다.
 
 # 나쁜짓
+* 잘못 짚었어; The cops are barking up the wrong tree
 * 지방정부는 불법 활동을 단속하시 시작합니다 The local government cracked down on all the illicit activities
 * 얄팍한 속임수들을 소개합니다; Here are some sneaky ways
 * 죗값을 치렀어요; i've done my sentence
@@ -27,6 +28,7 @@
 	* 바바리맨에게 당했어요; i've been flashed so many times on the train
 * 수상한 남자를 데리고 있다; they've got this creeper guy
   * 수상해보여; seems a bit dodgy
+  * 수상한걸 느꼈어요; i started noticing some sketchness
 * 쟤가 스파이야; he's the rat
   * 몰래 관찰하는게 기대된다; i can't wait to be a fly-on-the-wall
 * 우리는 책임이 있을 법한 용의자들을 체포해ㄸ싸; we've rounded up the only criminals
@@ -39,6 +41,7 @@
   * 그 가짜 의사에게 사기를 당했다. She was scammed by the fake doctor; 순진해서 잘 속는; Gullible
   * 사기꾼: fraud; fraud, con, dupe, scam; He was jailed for three years for fraud and tax evasion
 * 도망중이야; Two supects are on the run
+* 작용하는 규칙들; rules at play; there are some rules at play affecting this
 
 #경찰서 #법원	#형사 police(2번째 강세)
 * 범죄과학 감사를 실시할 예정이다; WE're going to do a full forensic audit

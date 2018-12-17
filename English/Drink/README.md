@@ -110,6 +110,7 @@
 * 술마시는걸 줄이다.							 they taper their drinking
 * (음주같은거)단번에 끊다.							 quit cold turkey
 * 술김에 문자, 전화, 음주운전 				 다 V drunk text, drunk dial, drive drunk
+	* 술김에 하는말이야; Must be the wine talking
 * 나는 그저 #분위기 맞추는 정도예요					 I'm just a social drinker
 * 분위기 맞춰주다; let's just go with the flow
 * 왜 분위기 깨고 그래? 							 Don't be a wet blanket

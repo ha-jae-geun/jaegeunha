@@ -18,6 +18,9 @@ The exterior of the building is Greece, and the building material is the brick a
 * 우리나라 한옥은 정면이 넓고 측면이 좁지만 성공회 성당은 전통 한옥의 측면에 입구가 있다.
 	* 서양의 전통건물은 길이가 짧은 쪽이 정면이다.
 
+### 기와
+* 우리나라는 암키와와 수키와가 따로 되어있지만 일본은 암키와와 수키와가 하나로 합쳐진 형태이다.
+
 
 #### 지붕. 처마, 추녀
 * 우리나라의 지붕은 곡선으로 되어있다. The roof of our country is curved. 추녀

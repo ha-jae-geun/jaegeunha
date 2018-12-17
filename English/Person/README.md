@@ -2,6 +2,7 @@
 ## 홀로코스트
 
 # 기타
+* 똑똑한 척 하는; fancy-pants(값비싼 바지) fancy-pants tool; 형용사 2. 멋쟁이; 
 * 추종자들이 있는 권위자, 전문가; guru; 흰두교에서는 종교적 스승, 지도자   expert: 사람들의 전중ㅇㄹ 받는 전문가
 * 그는 독보적이다; He's a one of a kind
 * 어중이 떠중이; rabble(2. 왁자지껄하게 모여있는 사람들)
@@ -23,6 +24,7 @@
 * 시카고 출신이야? A Chicago kid
 * 아부하는 사람; He's a kiss up
 	* 재수 없는 자식; git
+	* 짜증나는 존재, 재수없는 놈; dingle
 
 # 나이
 * 어느새 18살이 됐어; Fast forward to 18

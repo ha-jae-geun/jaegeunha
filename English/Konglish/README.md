@@ -1,11 +1,16 @@
 # 기타
 * 엉터리 영어가 가끔 부끄럽다; i am ashamed of my famil's broen english
 
-
+* 엑스라지; extra large
+* 렌트카; rental car
 * 츄리닝: tracksuit / sweatsuit
-* 콘센트; Power socket
+		* 트레이닝 바지; sweat pants / track pants
+* 스타킹; panty hose
+* 플래시; flash light
 * 화이팅: Let's go; You got this!
 * 멀티탭: Power strip
+		* 콘센트; Power socket, socket, outlet
+* 홈페이지; website
 * 선팅; tinting; Window tinting
 * 벤츠; Mercedes Benz
 * Chevrolet  = Chevy

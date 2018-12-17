@@ -1,4 +1,7 @@
 # Word
+* 번호를 따가다; ask for one's number
+* -와 관계가 진전될 가능성이 있다; have a chacne with; you don't have a chance with him
+* 애증의 과계; a love-hate relationship; i have a love-hate relationship
 * 연애 상대를 좀 더 까다롭게 고르다; i had been more selective with my romantic relationships
 * 내가 놓친 그사람; get away; 미련 남는 사람; the one that got away
 * 삼각 관계 같은 거; He's in some kind of, like, love triangle
@@ -40,6 +43,7 @@ I have a big crush on you / I have a thing for you, i'm into you
 * 헤어지다; break up; we're not seeing each other anymore; we're not an item/a couple anymore
 	* 헤어졌다 사구이ㅓㅆ다 반복; on and off couple
 	* 우리 사이를 돌이킬 수 없게 햇어; All of our bridges burned down
+	* 너를 포기하다; quit on 사람
 * 화해하다; make up sex; a lot of couples breakup just because they want to have make up sex; 미국농담
 * 차다; i dumped him; i was/got dumped
 * 점점 멀어지다; we've grown apart; we grew apart

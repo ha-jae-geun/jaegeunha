@@ -39,6 +39,20 @@
 * 절대로 하고 싶지 않아; The last thing i wanna do is
 * 과장이 아니야; It's no exaggeration that -
 
+# 질문
+* -인게 괜찮지? Is it chill that 문장?
+* -에 대해서 어떻게 생각하세요? What's your position on -?
+* 마을까지 제가 데려다 드려도 될까요? May i see you back to the village
+* 한국어로 고맙다는 말 어떻게 말해? How do you say "Thank you"?
+* -는 언제 끝날 것 같애; when do you think; you'll be done with A
+* 누가 생각이나 했겠어요; Who woul'dve ever thought?
+* 텍사스 사는거 좋아? How do you like living in Texas?
+* 뭐라고 불러드려야 할까요? What should i call you? What can i call you?
+* 네가 뭔데 그래? Who do you think you are?
+ * 출산 예정일이 언제에요; When's Jenny due?
+* 왜 한국 왔어요; what brought you to Korea?, Why did you  choose Korea?, What made you want to come to Korea?
+* 이게 뭐라고 생각하세요; What's your guess on what that is
+
 # 대답
 * 말도 안되는 소리; Don't be absurd
 * 그만해; Knock it off = Quit it = Cut it out = Don't cross the line = stop that = Enough is enough
@@ -94,22 +108,23 @@
 * 예측 못했어; i didn't see it coming
 * 어찌 됐든; Either way
 
-# 질문
-* -인게 괜찮지? Is it chill that 문장?
-* -에 대해서 어떻게 생각하세요? What's your position on -?
-* 마을까지 제가 데려다 드려도 될까요? May i see you back to the village
-* 한국어로 고맙다는 말 어떻게 말해? How do you say "Thank you"?
-* -는 언제 끝날 것 같애; when do you think; you'll be done with A
-* 누가 생각이나 했겠어요; Who woul'dve ever thought?
-* 텍사스 사는거 좋아? How do you like living in Texas?
-* 뭐라고 불러드려야 할까요? What should i call you? What can i call you?
-* 네가 뭔데 그래? Who do you think you are?
- * 출산 예정일이 언제에요; When's Jenny due?
-* 왜 한국 왔어요; what brought you to Korea?, Why did you  choose Korea?, What made you want to come to Korea?
-* 이게 뭐라고 생각하세요; What's your guess on what that is
-
 
 # 일상
+* 조마조마하다; be on pins and needles
+* 한마디도 안 놓치려고 그녀는 귀를 쫑긋 세웠다. She pricked up her ears not to miss a word. 
+* 주장을 확실하게 하다; put one's foot down
+* 그녀는 즉시 떠날 준비가 되어 있다 She ' s ready to leave at the drop of a hat . 듣기 출처:동아 출판
+* 일거양득; best of both worlds
+* 호기심이 화를 부른다; curiosity killed the cat
+* 전화위복; a blessing in disguise
+* 진정해; Pull yourself together; Snap out of it
+* 잘못 짚었어; The cops are barking up the wrong tree
+* 만회하다; make it up to -
+* 나 말리지 마; Hold my beer; 술김에 용기
+* -와 관련되어 있따; That's in relation to -
+* 우린 아빠 등에 앉곤 했죠; We'd be sitting on his back
+* 당신 입장에서 말해주세요; You tell your version
+* 핵심포인트는 무엇일까요? what's the takeaway?
 * 내 칭찬 하려는건 아니고; NOT TO PAT MYSELF ON THE BACK!! 
 * 비슷하지도 않아; Not even close
 * 내용을 다 밝히고 싶진 않은뎅; i don't wanna give everything away

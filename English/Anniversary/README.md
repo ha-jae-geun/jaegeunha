@@ -2,6 +2,7 @@
 * New Years' Eve; -의 전날, 바로 직전
 
 # 크리스마스
+* Santa Nick; 산타클로스의 또 다른 애칭
 * #eggnog shakes; 연유+날계란
 * #christmas truce
 * #on christmas; 크리스마스 당일 #at christmas; 크리스마스 행사 기간

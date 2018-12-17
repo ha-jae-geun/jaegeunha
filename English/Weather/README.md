@@ -36,6 +36,7 @@
 # 겨울
 * 한파가 전국을 강타했다; A cold wave hit the whole country 
   * 조금 짧은 한파; Cold snap
+  * 한파 경보; The cold wave alerts
 * 수족냉증; Cold hand/feet syndrome / Cold Extremities
 * 기온이 급강하는것 같ㅇ았고; when the temperatures seemed to plummet
 * #arctic, #freezing, #chilly - 추운 

@@ -19,6 +19,7 @@
 * 값싼 배터리들을 마구 생산해내고 있었다; The factory is pumping out too many graduates
 * 손님이 다 떠나가고 있잖아; YOu're driving away all the customers
 * 굉장히 싼 가격에 판다; are sold on the streets at rock-bottom prices
+	* 비싸다; cost an arm and a leg
 * 버거는 베트남에서는 잘 팔리기가 힘듭니다; Burgers have a tough sell in Vietnam
 
 ## 유명 브랜드
