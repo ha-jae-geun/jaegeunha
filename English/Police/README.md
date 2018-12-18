@@ -15,6 +15,8 @@
 * 그들은 합의를 이끌어 내도록 강요받았다. [also VN to  inf.] [VN] They were coerced into negotiating a settlement. 
 * 미디어의 과장된 선동과 여론의 두렴을을 이용하다; The media's tendency to sensationalize and play upon the public's fear; play upon
 * 유권자들을 조종하다; manipulate voters
+* 시간 좀 끌어봐;  Stall for me
+* 근처에 피자가게를 봤는데; I saw a pizza place down the street; down the road/street
 * 우리는 더 이상 이상황을 어버무리고 넘어갈 수 없어; we can no longer gloss over this situation
 * 어제 그 도시에서 청소년 무리들이 광란을 벌였다.
   Gangs of youths went on the rampage in the city yesterday. 
@@ -43,6 +45,7 @@
   * 사기꾼: fraud; fraud, con, dupe, scam; He was jailed for three years for fraud and tax evasion
 * 도망중이야; Two supects are on the run
 * 작용하는 규칙들; rules at play; there are some rules at play affecting this
+* 무단침입하시는거에요; YOu are breaking and entering
 
 #경찰서 #법원	#형사 police(2번째 강세)
 * 범죄과학 감사를 실시할 예정이다; WE're going to do a full forensic audit

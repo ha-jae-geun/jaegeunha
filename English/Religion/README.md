@@ -9,6 +9,9 @@
 * 무당; shaman ˈʃeɪmən;ˈʃɑːmən;ˈʃæmən]
 * 세계를 죄악으로부터 구함 the redemption of the world from sin 
 * 신이시여; god almighty
+	* 하늘이 주신 축복입니다; THis is totally; manna from heaven
+	* 신만이 안다; God(only) knows; 2. 아무도 모른다;
+		* 엄두가 안난다; God knows how long that's going to take
 * 종교화를 그릴 때 규칙을 지키지 않으면 신성모독이다. 
 If you do not obey the rules when drawing religious painting, it is blasphemy.
 * 원근법이 도입되기 전에는 중요한 것을 크게 그렸다.
@@ -16,3 +19,4 @@ If you do not obey the rules when drawing religious painting, it is blasphemy.
 * 피렌체에서 종교화에서 원근법을 도입하였다. 
 In Florence, a perspective was introduced in religiosity.
 * [명사] (특히 성경의 십계명(the Ten Commandments) 중 한) 계명 commandment 미국식 [-ˈmæn-]  영국식 [kəˈmɑːndmənt]   단어장추가  중요
+* 감사기도 드리니 Say grace; Let's say grace 2. 유예기간

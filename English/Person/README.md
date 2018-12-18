@@ -26,8 +26,12 @@
 * 아부하는 사람; He's a kiss up
 	* 재수 없는 자식; git
 	* 짜증나는 존재, 재수없는 놈; dingle
+	* 아첨하다; brown-nose; brown-noser; kiss someone's ass
 * 동등한 위치에 있는 상대; counterpart; They make around 10 times more than their counterparts
 * 사교적인 사람; social butterfly
+	* 날씨 좋을때만 친구가 되려는 사람; fair-weather friend
+* 책략자; mastermind
+* 운동을 잘하는 사람, 열렬한 사람, jock(enthusiast)
 
 # 나이
 * 어느새 18살이 됐어; Fast forward to 18

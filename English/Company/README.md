@@ -13,7 +13,8 @@
 * 나보다 서열이 높다; She has seniority
   * 신입을 챙겨주다; take someeone under one's wing
   * 어떻게 돌아가는지 알려주다; show someone the ropes
-* 짭짤한 부업이 되었다; My hobby has become quite a profitable sideline
+* 본업; He still has a day job; 부업: side job
+	* 짭짤한 부업이 되었다; My hobby has become quite a profitable sideline
 
 # 미팅
 * 단도직입적으로 물어봤습니다; I asked her point-blank
@@ -372,6 +373,8 @@ run a store, manage a team, operate a factory
 * Work one’s fingers to the bone. (뼈 빠지게 일하다)
 -----
 * ☆work out: 개인 신용 파산 신청을 하다 2. 운동하다 3. 채무를 빼다 
+	* A를 망하게하다; put A out of busiess; 망하다: be out of business
+		* We'll be oout of business
 * work it out; 클럽 음악; 해결하다 2. 잘해보자
 * work out on: ~를 버리고 떠나다
 * work in + 근무 장소(place; school/department; HR) / work for + company(직장명)
@@ -933,6 +936,7 @@ firm
 * (✽sales status report 판매 현황 보고서)
 * 계약서 초안 작성을 방금 완료했습니다. 확인해 주십시오.
 * I have just finished preparing the first draft of the contract. Please check it.
+	* 상사의 확인을 받아야 한다; He has to run it past the boss; run past
 * 지난번 회의의 회의록을 보내 드립니다.
 * Let me give you a copy of the minutes from our last meeting.
 * 오늘 회의의 수정된 회의록을 모두에게 보내 드리겠습니다.

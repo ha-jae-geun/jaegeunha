@@ -21,6 +21,9 @@
 * 굉장히 싼 가격에 판다; are sold on the streets at rock-bottom prices
 	* 비싸다; cost an arm and a leg
 	* 과도한 비용/운임/수수료/가격/집세 exorbitant costs/fares/fees/prices/rents 
+	* 값어치가 어마어마하다; worth a fortune
+	* 거금이 들다; cost a fortune
+	* 뗴돈을 벌다; make a fortune
 * 버거는 베트남에서는 잘 팔리기가 힘듭니다; Burgers have a tough sell in Vietnam
 
 ## 유명 브랜드

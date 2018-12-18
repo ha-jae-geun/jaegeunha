@@ -16,6 +16,7 @@
 * ☆#압승   #landslide victory, #overwhelming victory
 * ☆ #blow ~ out of the water; i'll blow everybody out of the water
 * #대항마; be a #contender
+* 너 오늘따라 못하네; You're really off your game; off one's game
 
 # 골프
 * #골프장 이용료는 얼마예요? How much is the greens fee? 

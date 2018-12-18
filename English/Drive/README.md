@@ -73,6 +73,8 @@
 * The world economy was gravely affected by the oil crisis
 * ##기름 | #시추 
 * [명사] 드라이브스루(차에 탄 채로 이용할 수 있는 식당・은행 등) drive-through (←drivethru) 
+* 차를 정비하다; tune up a car; How often have you had it tuned up?
+	* 차량 검증 완료; vehicle inspection complete
 
 # 차
 * 도로 사이를 통과하다; zipping through the streets; A sport car zipped past us
@@ -180,11 +182,12 @@
 * drive past; when you drive past
 * 차 돌려 #turn around
 * 운전해줘 							 take the wheel(어벤저스)
-* 끼어들다; #cut in the line
-* 블루워터가 운전하고 있네. 					 Bluewater is behind the wheel
-* 그는 픽업 트럭 타고 떠났어 				 he drove away in his pick-up truck
-* 술김에 문자, 전화, 음주운전 				 다 V drunk text, drunk dial, drive drunk
-* 운전면허가 정지되어있다고 나와있더라 			 It says my driver license is suspended.
+	* 끼어들다; #cut in the line
+	* 블루워터가 운전하고 있네. 					 Bluewater is behind the wheel
+	* 그는 픽업 트럭 타고 떠났어 				 he drove away in his pick-up truck
+	* 술김에 문자, 전화, 음주운전 				 다 V drunk text, drunk dial, drive drunk
+	* 운전면허가 정지되어있다고 나와있더라 			 It says my driver license is suspended.
+	* 후진 기어로 바꿔; Shift/change into reverse
 * 음주 운전 단속 중입니다. 음주 측정기를 부세요. 					 bréθəlàizər
 * We're doing random breath tests. Please blow into the breathalyzer. 
 * ‘음주 운전 벌금을 내야 하나요? 				Is there a fine for drinking and driving? 

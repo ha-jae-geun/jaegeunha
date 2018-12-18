@@ -24,6 +24,7 @@
 	* rull over the non-magical beings
 
 # 단어
+* 내가 작전 설명하는데? While i'm breaking it down?
 * 무장 병력: armedf forces, 군비 확장 경쟁; arms race
 * #unit #platoon #divison #army of soldiers
 * ☆소대: platoon, 중대: #company #battalion: 대대 #division: #사단 #여단; #brigade

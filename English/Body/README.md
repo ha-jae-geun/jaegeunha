@@ -580,7 +580,8 @@ that's quite a package/junkㅌ
 * #fit
 * #뚱뚱 #fat; I am/got fat #obese; #비만 #overweight; #과체중
 * #뚱뚱한 여자; the #roll of waisteline flesh
-* #토실토실 #포동포동 #plump; 아기/여성; 육덕 #통통 #chubby; 아기 #stout; 중년의 남성
+	* #토실토실 #포동포동 #plump; 아기/여성; 육덕 #통통 #chubby; 아기 #stout; 중년의 남성
+	* 통통, 튼튼 stout
 * #slimmer	살을 빼려는/날씬해지려는 사람
 * 그는 키는 멀대같이 커서 삐쩍 말랐다. 	‘lӕŋki He is lanky.
 (키는 땅땅한데)단단하고 다부진 몸 	‘stɑ:ki stocky man

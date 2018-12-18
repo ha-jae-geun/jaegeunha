@@ -21,6 +21,7 @@
 * I said I would be ther as soon as I could
 
 # 접두어
+* 어떻게 해서든; One way or another
 * -일지 누가 알아; For all i know, You could be a -
 * 상대적인 관점에서 보면; To put that into perspective
 * 에릭은 말하자면 완벽주의자야. Eric is, so to speak, a perfectionist
@@ -57,9 +58,12 @@
 * 왜 한국 왔어요; what brought you to Korea?, Why did you  choose Korea?, What made you want to come to Korea?
 * 이게 뭐라고 생각하세요; What's your guess on what that is
 * 네 생각은 어때? What do you say?
+* 무엇이 필요할까요? What does it take to?
+* 네가 죽기라도 하니? 덧나니? Would it kill you to; leave me alone?
 
 # 대답
 * 말도 안되는 소리; Don't be absurd
+* 샤넬이 절박하게 필요해; YOu're in desperate need of Chanel
 * 그만해; Knock it off = Quit it = Cut it out = Don't cross the line = stop that = Enough is enough
 * 그 얘긴 그만해; End of discussion
 * 내 말이 그말이야; Tell me about it
@@ -80,6 +84,7 @@
 * 그건 아냐; Not really
 * 해야죠 뭐; So be it
 * 그럴리 없어; Not a chance
+* 예외없이; bar none
 
 # 말투
 * 마침 그런 말을 하다니 신기하다; 우연이 묘하다; Funny you should say that

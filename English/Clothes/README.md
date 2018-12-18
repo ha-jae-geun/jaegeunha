@@ -42,9 +42,10 @@
 * 바지 수선했어요; i tailored these pants
 * 안으로 접어서 수선했어요; i just folded them inwards and sewed them [soʊ]
 * 양말 뒤집어졌어; YOur socks are inside out
-* 양말 짝짝이; Mismatched
+  * 양말 짝짝이; Mismatched
 * 발가벗다; 누드; completely starkers
 * 아이들은 엄마의 치맛자락을 잡고 늘어졌따; THe kids hung on to their mother's skirt
+* 이 옷장을 다 뒤져봐도 6사이즈에 맞는 건 없어; There's nothing in this whole closet hat'll fit a size six
 
 # 재료
 * 이 털실이면 될까? will this yarn work?

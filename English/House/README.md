@@ -16,11 +16,13 @@
 
 # 기타
 * 즐거운 우리 집; home sweet home
+	* 잘곳이 없잔ㅇ하; we have a roof over our heads; a roof over one's head
 * 우린 집세를 낼 돈이 없어. We ain't got our rent money.
 * 계약금 없이; with no money down
   * 계약금을 걸다; make/put a down payment; with some money down
 * 그는 집돌이다.  He’s a home-body. 
 *  나는 이렇게 갇혀있는 것이 싫어.  I don ' t like being cooped up like this . 듣기
+* 집집마다; from door to door
 
 # 주방	it has a; #gourmet kitchen; 프로급 주방
 
@@ -501,6 +503,8 @@
 * 그들은 쓰레기를 꾹꾹 누르고 있다; They were compacting the trash
 * 쓰레기들을 갖다 버려야해; Throw out junk all up in this place
 * 어떤 것이든 ㅐ다 버려; chuck anything out
+* 쓰레기가 모이는; Where trash accumulates
+* 해양 쓰렉; flotsam and jetsam
 
 ## 청소
 * 작업자는 먼지를 안정되게 하기 위해 물을 뿌렸다; A worker sprays water over a house to settle dust
@@ -531,6 +535,7 @@
 
 ## 운명
 * 운명을 다시 써보는 건 어때? WHy don't we rewrite the stars
+* 기적이 일어난다면; if the stars align
 
 # 화장실
 * 배변활동; bowel movents; It's about bowel movement [ˈbaʊəl]

@@ -1,3 +1,10 @@
+* 운이 좋구나; You're in luck
+* 개가 날 지치게 하고있어; These puppies are really wearing me out
+* 첫 소감은? Any first thoughts?
+* 초보자들이 하는 실수야; Rookie mistake
+* 여기선 젠이 결정권자야; Jen's the one who calls the shots; call the shots
+* 이러다찔릴거야; i'm gonna be impaled(날카로운 것에)
+* 당신이 이야기해; Over to you
 * 간단히 쭉 설명해드릴게요; Let me give you the quick rundown
 * 뽑기에서 걸려버렸지 뭐예요; i drew the short straw
 * 입양 갈 곳을 알아보고 다시 싱글로 돌아가야겠네요; i am now putting myself up fo adoption and then single
@@ -36,6 +43,11 @@
 * 덜 복잡해요; It's less steps
 * 엄청난 반발이 있을거에요; You're gonna get a ton of backlash on this
 * 그녀 대신에 내가 투표했어; I voted on her belaf; on one's behalf
+* 본인 문제에 대해 털어놨어; opened up about her issues; open up about
+* 터무니 없는 소린 아니겠네요; might not be so far-fetched
+* -로 -의 환심을 살다; win 사람 over (with 물건); urges him to win him over with gifts
+* 저는 이소에 어울리지 않아요; i don't fit in here; fit in
+* 진짜 생뚱맞다; So random
 * 이런 우연이 다있나?; What are the odds
 * 그들이 우세하게 될거야; They will come out on top
 * 비장의 카드를 쓰다; She's bringing out the big guns

@@ -1245,6 +1245,7 @@
 * #발끈하지마!						 Don't blow your top! lose one's cool. 
 * #in the heat of the #moment; 발끈해서, 흥분해서; I was in the heat of the moment
 	* -에 대해 흥분하다; be jazzed about
+	* 흥분하지마; Don't get worked up
 * 홧김에 베프랑 절교했어 			 I cut off with my best friend in a fit of anger
 * #flip out; 벌컥 화내다
 * #throw a fit(#fit); #성질부리다, #졸도할 지경이 되다
@@ -1623,6 +1624,7 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * 눈이 부었네. 								 Your eyes are puffy.
 * 부럽다, 질투한다. 				 I am so jealous. 40년전과 달리 같이 쓰임
 	* 자주 질투심을 느낍니까? Are you often consumed by envy/guilt?
+	* 부러워 죽을거야; - would die
 * 답답하다. 						 I am so frustrating. stuffy라는 말 X
 * 환기 시켜야 해. 							 I need to vent.
 * 스트레스 받는다. 				 I am so stressed out. (stressful X)

@@ -17,11 +17,13 @@
 * 우리 어디서 만날까? Where shall we meet?
 * 글쎄, 정문 밖에서 만나자. Well, let's meet out front.
 * 로비에서 보자 Let's meet in the lobby
-
+* 카일과 놀려고 약속을 꺠곤 했다; i would blow her off to hang out with Kyle
 
 # 놀다
 * 말장난해본 겁니다; Pun intended
 	* 살짝 끼얹어본 농담인데요; a little tongue-in-cheek; idea
+	* 농담을 하다; crac/make/tell a joke
+		* -을 이용해서 농담하다; make a joke at someone's expense = make a joke at the expense of 사람
 	* 네 장난 알아 들었으니까 그만해; I get the joke
 * 항사 약간 빈정거리게 된다; we always get into a little bit of a banter
 	* i don't mind him exchanging banter with customers

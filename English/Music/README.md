@@ -4,6 +4,7 @@
 # 악기
 * 아일랜드 밴드에서 바이올린을 연주하ㅏㄷ; She played the fiddle in an Irish band
 * 드럼 스쿠떙 스쿠땡 (라이드 치고 헤드 쳐)
+* 기타를 요리조리 현란하게 연주하다; shred up and down a guitar
 
 # 기타
 * 대중 음악에서 후렴부를 복잡하게 쓰면 사람들은 싫어한다. People complain about complicated refrain/Chorus in popular music.

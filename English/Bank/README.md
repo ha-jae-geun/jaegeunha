@@ -27,6 +27,7 @@
 * 우린 깡통 찼다고. We ain't got a pot to piss in.
 	* 빈털털리야; i'm absoultely skint/broke
 * 어마가 돈줄을 쥐고있다; Mom holds the purse string in my family
+* 집게사장이 돈을 긁어모으고 있어; Krabs is raking it in; rake
 
 # 숙어
 * 믿을만 한거야; you can tae it to the bank

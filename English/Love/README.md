@@ -5,6 +5,7 @@
 	* 관계가 껄끄러어 지다; Their relationship goes sour
 	* 장난치는 관계; have a playful relationship
 	* 결함이 있는 관계; flawed relationship
+	* 가볍게 만나고 싶어; I'm trying to keep it casual
 * 연애 상대를 좀 더 까다롭게 고르다; i had been more selective with my romantic relationships
 * 내가 놓친 그사람; get away; 미련 남는 사람; the one that got away
 * 삼각 관계 같은 거; He's in some kind of, like, love triangle

@@ -1,3 +1,39 @@
+* end up -ing 결국 -하고 있따; 
+  * end up in 장소; 결국 -에 가게 되다; Bart ended up in prison
+  * 결국 -하게 되다; i ended up alone
+* 서애, 생존에 달려있따; be riding on sth; My ice business is riding on you
+* -에 대해 생각하는 것을 막다; block sb/sth out; i'm just blocking you out
+* 이 위는 공기가 좀 희박한 것 같죠; DOes the air seem a bit thin; 공기가 희박한; thin
+* 이름을 지어주다; i haven't named my puppet
+  * 미국 대통령 이름 셋을 대시오; Name three US presidents
+  * 원하는 가격을 제시하시오; Name a time and place
+* 추억을 많이 불러일으키거든요; It brings back a lot of memroies; bring back
+* 수습하는게 어려워요; hard to catch-up; 선두주자를 따라잡기 위해, 혹은 잘못 오류 등을 만회하려는 행위
+* 계속 -하다; keep -ing; keep on -ing; 행동의 계속을 강조
+* 늘상 하는 습관을 찾아보세요; find a simple ritual; 2. 의식
+* 이달의 사원/학생; employee/student/song of the month/week/year
+* 질문, 문제, 퍼즐 중에서도 어렵긴 하지만 재미있는 것들; brainteaser
+* 언제 쯤 알게 되었나요? Where did it occur to you?
+* 네가 저지른 일이니 네가 책임져; You made your bed, (sleep in it/lie on it); 미국에서만 쓰는 표현
+* 뭐시기 누구지; 뭐시기 뭐지; whozit/whosit; Whatzit/Whatsit
+  * thingamabob/thingamajig/thingummy/thingy; can you pass me that thingy
+     [θíŋəməbɑ̀b] [θíŋəmədƷìɡ] [ˈθɪŋəmi] ]
+* 후미진 곳, 촌구석; backwater
+* 허울 뿐인; be only skin deep; 피부가 깊어봤자 얼마나 깊을까
+* 혐오하다; hate; detest
+* 가장 좋은 몫, 알짜배기; the lion's share; 사자, 나귀, 여우 우화
+* 돈 때문에 여자친구를 착취하다; milk A for B; YOu milk your girlfriend for money
+* 쥐어짜다; squeeze a bit more 2. 그룹에 나 좀 넣어줘; Squeeze me into the group
+* 제대로 된 인상을 남기다; make the/a right impression
+* 원하는 것을 다하다, 바라는 것을 다하다; have it all
+* 넘어지다; take a fall
+* -에 대한 열정이 있다; have a passion for
+* 너에게 불리하게 -를 이용하다; use it against you
+* 딴 소리 하잖아; be on his own page >< be on the same page
+* 행동을 조심해라; mind your P's and q's; p와 q는 비슷해보임
+* 감사기도 드리니 Say grace; Let's say grace 2. 유예기간
+* 반칙이야; That's a cop-out
+* 왜 이부분을 지웠어요? Why did you cross out from the list
 * 내가 가장 놀랐던 건; What i stood out for me the most; 2. 제게 가장 눈에 띄었던 건
 * -에 과도하게 반응하다; respond with disproportion to; proportion: 비율에 맞지 않다
 * 쉽게 짜증을 내다; triggered; easily triggered

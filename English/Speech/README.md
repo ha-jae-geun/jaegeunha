@@ -82,3 +82,7 @@ If you lie, God will hate you, and if you do not lie, humans will hate you. But 
 * Quantitative: The question of all the opposing theories (undesirable)
 * Semantics: Positive evaluation of all conflicting issues (undesirable)
 * Integrated conclusion is not good.
+
+
+# 말
+* 말보다는 숨은 의미가 더 중요하다; the literal words are less important than the subtext
