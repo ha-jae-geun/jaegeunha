@@ -3,6 +3,7 @@
 * 열딘 논의; a heated debate
 * 논의가 열기를 더해가고 있습니다; The debate is heating up
 * 사람들의 의견이 갈린다; The population is split on/over something 
+* 반박의 여지가 없는 사실들 undisputed facts   [ˌʌndɪˈspjuːtɪd] 
 
 # 구조
 1.  참고: 뉴스, 책, 논문

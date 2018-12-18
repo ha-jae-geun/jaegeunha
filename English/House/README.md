@@ -20,6 +20,7 @@
 * 계약금 없이; with no money down
   * 계약금을 걸다; make/put a down payment; with some money down
 * 그는 집돌이다.  He’s a home-body. 
+*  나는 이렇게 갇혀있는 것이 싫어.  I don ' t like being cooped up like this . 듣기
 
 # 주방	it has a; #gourmet kitchen; 프로급 주방
 
@@ -104,6 +105,7 @@
 * 가구 파는 회사: #pottery barn
 	* #1인 가구; #single-person household; = single households
 	* 에어컨에서 찬바람이 안나와요; It's now blowing cold air
+* 냉장고에 넣을 공간이 없어요; i have no more room in the refrigerator
 * 그는 거울에서 자기를 확인한다; He checked himself in the mirror
 * (kitchen)appliance = refrigerator = living arrangement	 #가구
 * #현관: #vestibule ; shoe chest at entrance = #porch(2. #베란다)
@@ -517,12 +519,15 @@
 * 내 인생에서 떠나버리다; to walk out my life
 	* walk out of/on something; 하기로 한 일을 그만두다, 떠나버리다;; He walked out on his job
 * 네 앞날이 창창하다는 거야; You got your whole life ahead of you
+	* 내 인생에서 최고의 일이야; A is the best thing that ever happened to me. 
 * 다 잘 될거야; Bibia be ye ye
 * 아픔을 재경험해야한다; We need to relive the sorrow
 * 인생을 최대한 충실하게 살다; Live it to the fullest; live it(life) to the full(est)
 * 일생에 있을까 말까 한 기회; That is once-in-a-lifetime opportunity
 * 그리고 저는 도덕적인 삶을 살아요; And i live a moral life
 * 내 인생에서; in my entire life
+* 근근히 살아가다; those who are living on the edges
+* 오늘밤 이렇게 지나게 해; let tognight just pass by like this
 
 ## 운명
 * 운명을 다시 써보는 건 어때? WHy don't we rewrite the stars

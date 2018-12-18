@@ -312,6 +312,7 @@
 * 치료 비용이 너무 많이 든다 the treatment costs too much
 * 상처를 치유하다; #dress a wound(#wound)
   * 큰 상처를 입다; take a knock; this has definitely taken a knock for me
+  * B에게 A를 가하다; inflict A on(upon) B; Your words have infliced huge pain on her
   * 전투로 남은 흉터로 가득하다; full of battle scars 
   * 팔에 물린 자국이 있다구요; He's got bite marks on him arm
 * 빠른 #쾌유를 빕니다				Get well soon.

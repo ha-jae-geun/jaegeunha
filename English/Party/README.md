@@ -1,6 +1,7 @@
 * 분위기 느끼는거 어때? Would you get in the spirit of things?
 * 신나게 파티나 할래; i'm getting down
-
+* 파티 망치려고? Trying to crah another party
+	* 초대받지 않은 파티를 가다; Can i crash your party?
 
 * #축제
 * ##축제 #페스티벌

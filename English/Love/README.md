@@ -3,6 +3,8 @@
 * -와 관계가 진전될 가능성이 있다; have a chacne with; you don't have a chance with him
 	* 애증의 관계; a love-hate relationship; i have a love-hate relationship
 	* 관계가 껄끄러어 지다; Their relationship goes sour
+	* 장난치는 관계; have a playful relationship
+	* 결함이 있는 관계; flawed relationship
 * 연애 상대를 좀 더 까다롭게 고르다; i had been more selective with my romantic relationships
 * 내가 놓친 그사람; get away; 미련 남는 사람; the one that got away
 * 삼각 관계 같은 거; He's in some kind of, like, love triangle
@@ -288,6 +290,7 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #steal kisses
  * #키스마크; #hickey; is that a hickey?
  	* 키스도 하면서; And snogging
+ 	* 키스하며 껴앉다; smooch [smuːtʃ] 
  * play #tonsil tennis; #tonsil: #편도선
  * 여자들끼리 #밤마실; #girls' night out
  * #커플 #연인 #여자친구 #남자친구 #썸
@@ -808,6 +811,7 @@ I have a big crush on you / I have a thing for you, i'm into you
 	 * 어쩌다 보니 엄마가 되었어요; Motherhood is something that just happened
 	 * 임신해서 회사를 그만두었어요. 				 I quit my job because I got pregnant.
 	 * 임신 시키다; knocked-up 속어; i didn't knock someone up
+	 * 유산시키다; have a miscarriage; miscarry
  * 출산 예정일이 언제에요; When's Jenny due?
  * 육아 휴직 기간입니다. 							 I'm on maternity leave. 
  * 아내는 가정적이에요? 						 Is your wife helpful at home? 

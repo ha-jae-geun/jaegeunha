@@ -6,7 +6,7 @@
 * 우리나라는 여성, 천민, 평민들이 누릴 수 있는 것이 많은 것은 귀족들임에도 불구하고 나라를 위해 의병활동에 앞장섰따;
 
 # 전쟁
-* 저누기가 맑고 푸른 하늘로 올라 사람들에게 인사하고있따; A fither is soring into the clear blue skies and it makes a big impression to people
+* 전투기가 맑고 푸른 하늘로 올라 사람들에게 인사하고있따; A fither is soring into the clear blue skies and it makes a big impression to people
 * 시리아가 화학무기를 사용하지 않았습니다; - didn't use any chemical weapons
 * 군대는 비생산적인 집단이고, 군대에 나가면 무기와 군량을 사야 되기 때문에 세금이 올라간다.
 * 민방위 훈련이야; It's a civil defense drill; It's just a drill
@@ -115,6 +115,7 @@
 * #펑 펑; #grrata #ta=
 * ##gun; 동사; 총알같이 몰다; #gunned the engine; #엔진
 	* ##총 총으로 쏘다 shoot a friend over rack
+	* 옥상에 저격수; shooter on the roof
 	* #소총; #rifle 자동소총을 발사하다 fire an automatic rifle 
 	* #bump stocks; 반자동 소총을 자동 소총처럼 사용할 수 있게 해주는 #연사 장치
 	* #대포; #artillery, #battery, #cannon - 대포 

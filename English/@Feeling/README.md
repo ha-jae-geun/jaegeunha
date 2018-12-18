@@ -330,6 +330,7 @@
 * giddy, i'm giddy with anticipation
 * #psyched; i'm psyched to play ; psyched about ~
 * #psyche out; #겁주다; you psyched me out so hard
+	* 겁 났지; Pshch!
 * #amped; 오늘밤 파티 끝내주는데? 				 I am so amped for the party tonight
 * get #worked up; get worked up about something
 * !매우 신나다						I'm #hyped (>excited) ; hype2: 노이즈, 유행
@@ -478,16 +479,16 @@
 * 가르치는 것 #보람찬 일이다. 					 Teaching is such a rewarding job.
 * #보람
 * have a #blast, have a ball, enjoy oneself greatly, have a lot of fun, in for a treat; you are ~
-* ☆즐기다; #have the time of one's life; I had the time of life
-* #enjoy; 목적어 필요 -> I enjoyed myself = I enjoyed it
-* ~ is a #joy
-* ~를 정말 즐기다							 [indʌ́ld indulge in something
-* 마음껏 즐깁시다					 Let's have a ball. | have fun | have a good time
-* 제주도 경치를 즐겼어 							 take in all the sights
-* 당신의 인생 최대한 즐겨보시는게 어떠세요? 		Why don't you make the most of your life?
-* 즐거운 시간 보내 								 Have a blast
-* 덕분에 즐거웠어 								 You made my day
-* #즐기다 #즐겁다
+	* ☆즐기다; #have the time of one's life; I had the time of life
+	* #enjoy; 목적어 필요 -> I enjoyed myself = I enjoyed it
+	* ~ is a #joy
+	* ~를 정말 즐기다							 [indʌ́ld indulge in something
+	* 싸움/도전/토론을 즐기다 to relish a fight / challenge / debate 
+	* 마음껏 즐깁시다					 Let's have a ball. | have fun | have a good time
+	* 제주도 경치를 즐겼어 							 take in all the sights
+	* 당신의 인생 최대한 즐겨보시는게 어떠세요? 		Why don't you make the most of your life?
+	* 즐거운 시간 보내 								 Have a blast
+	* 덕분에 즐거웠어 								 You made my day
 * in the feels: (가슴 깉은 곳); That video got/hit me right in the feels
 * 감동받다 						 fI'm deeply/ really / so touched/moved
 * I almost cried
@@ -531,6 +532,7 @@
 * #평온함: serenity
 * 평점심 찾아야해 								I need to get my #zen on
 * 넌 걱정이 많은 사람이야 #worry wart You’re such a worry #wart(사마귀)
+	* 굉장히 걱정하다; be worried sick
 * #진정제 #sedative(쎄디티브)
 * #진정제 주세요; #sedate him
 * it's #soothing and #calm
@@ -799,39 +801,41 @@
 	* I feel like a weight has been lifted.
 	* ##부담 #폐 #압박 #짓누루다
 * 왜 또 징징거려? 							 Why are you whining again?
-* 징징거린다; be a big baby about it; you'd be a big baby about it
-* #징징
+	* 징징거린다; be a big baby about it; you'd be a big baby about it
+	* #징징
 * #전력투구, 굳건한 #dead #set on; he is dead set on becoming an actor
-* #go all out
-* #adamant, #determied, #resolute - 단호한, 확고한 
-* 단호한 태도를 취하다 take a #firm ##stand
-* ##칼같애 								He is as sharp as a razor
-* 단호박이다 									You are decisive
-* 확고한 답변 								 firm/thick/decisive
-* ☆내 입장은 단호해 				 put one's foot down; I'm putting my foot down
-* #resolute
-* 단호하게; #point-blank
-* #forceful
-* #flatly; denied this
-* #강경한; #adamant; trump was adamant
-* #군건 #단호 #확고한 #결연
+	* #go all out
+	* #adamant, #determied, #resolute - 단호한, 확고한 
+	* 단호한 태도를 취하다 take a #firm ##stand
+	* ##칼같애 								He is as sharp as a razor
+	* 단호박이다 									You are decisive
+	* 확고한 답변 								 firm/thick/decisive
+	* ☆내 입장은 단호해 				 put one's foot down; I'm putting my foot down
+	* #resolute
+	* 단호하게; #point-blank
+	* #forceful
+	* #flatly; denied this
+	* #강경한; #adamant; trump was adamant
+	* #군건 #단호 #확고한 #결연
 * disruption in …의 혼란, environmental disruption 환경 파괴
-* 어지럽다, 멍한 #woozy; I feel woozy thing about it
-* 혼란: turmoil [tə́ːrmɔil, 헷갈리다; ##Mixed up
-* 편집증; be paranoid about; 피해망상; i'm becoming paranoid about online comments [ˈpærənɔɪd]
-* #anarchy, #lawlessness, #disorder - 혼란, 난장판 
-* was lost in #turmoil
-* #disorient; It's very disorienting.
-* #muddy, muddy the water; #흙탕물로 만들다 2. 혼란스럽게 하다
-* #spin someone in circles(#circle)
-* #thrown; i' m a little thrown
-* make someone's head swim(#head, #swim)
-* 불명료화(의학) obfuscation
-* 이거 헷갈리네요 						 This is very confusing.
-* 너 그 질문으로 날 혼란스럽게 했어. 		 You really threw me a curve ball with that question.
-* 한국의 대통령 #스캔들로 정국을 혼란스럽게 하다. 	 South korean president embroiled in scandal
-* 그는 의식이 혼미해져서 사람들을 알아보지 못했다. He became delirious and couldn't recognize people.
-* ##혼란 #헷갈 #혼탁한 #불명료 #혼미
+	* 어지럽다, 멍한 #woozy; I feel woozy thing about it
+	* 혼란: turmoil [tə́ːrmɔil, 헷갈리다; ##Mixed up
+	* 혼란스러워 하다; lose one's bearings
+		* 아직 적응하지 못했다; He hasn't got his bearing in the new office
+	* 편집증; be paranoid about; 피해망상; i'm becoming paranoid about online comments [ˈpærənɔɪd]
+	* #anarchy, #lawlessness, #disorder - 혼란, 난장판 
+	* was lost in #turmoil
+	* #disorient; It's very disorienting.
+	* #muddy, muddy the water; #흙탕물로 만들다 2. 혼란스럽게 하다
+	* #spin someone in circles(#circle)
+	* #thrown; i' m a little thrown
+	* make someone's head swim(#head, #swim)
+	* 불명료화(의학) obfuscation
+	* 이거 헷갈리네요 						 This is very confusing.
+	* 너 그 질문으로 날 혼란스럽게 했어. 		 You really threw me a curve ball with that question.
+	* 한국의 대통령 #스캔들로 정국을 혼란스럽게 하다. 	 South korean president embroiled in scandal
+	* 그는 의식이 혼미해져서 사람들을 알아보지 못했다. He became delirious and couldn't recognize people.
+	* ##혼란 #헷갈 #혼탁한 #불명료 #혼미
 * 안절부절 I'm in ##jitters, #agitated
 * a #petrified expression 겁에 질린 표정
 * 겁을 줄 의도는 아니었어 					 I didn’t mean to freak out
@@ -1153,7 +1157,10 @@
 * #bummed out; be bummed out; 2. 기분이 나쁘다; was I bummed to get up at 5
 * cry over; ~ 때문에 울다, tear up; 눈물을 글썽거리다
 * 눈이 빠지게 울다; #bawl my eyes out
-* 거짓 눈물을 흘리다 weep[shed] crocodile tears 
+	* 거짓 눈물을 흘리다 weep[shed] crocodile tears 
+	* 오열하다; bawl/cry one's eye out
+	* 뚝뚝 떨어지다; drop some tears
+	* 글썽거리다; well up; 소리없이 눈물만 흘리다; weep; 흐느끼다: sob
 * #조울증; 양극성 우울증 [|baɪ|poʊlər] bipolar depression 
 * #감상적인 #maudlin
 * 너 나 슬프게 만들었어 							 you get me frustrated
@@ -1253,6 +1260,7 @@
 * 너 엉뚱한 사람한테 화풀이 하는거야; YOu're taking it out on the wrong person
 * 처음부터 우리 서로한테 열 받게 한 것 같아요 		 I think we got off on the wrong foot
 * 빡치네				 I'm pissed off > I'm ticked off / hit the ceiling/roof
+	* 열받게 하다; if someone crosses you; 딴지 걸거나, 시키는대로 하지 않거나, 듣기 싫은 말로 신경 건드림
 	* 엄청 화를 내다 						 have a fit; my boss had another fit
 	* #hot under collar
 	* #go overboard(#overboard)
@@ -1269,57 +1277,59 @@
 	* 걔 여자친구한테 폭발했어 					 He went off on his girlfriend.
 	* 엄마는 금방 #이성을 잃으셔 					 Mom easily loses her cool
 	* 나중에 폭발해서 남에게 상처 주잔ㅇ하; They bubble up later in hurtful ways
-* #툭하면 화내다; . He gets angry #at the drop of a hat.
-* 이성을 잃다; be #beside oneself with = at the end of self/control
-* i'm beside myself with #rage/#anger/#worry
-* to arouse/raise/provoke the #ire# of local residents 지역 주민들의 분노를 불러일으키다
-* 이성을 빼앗다; #dement
-* 그녀는 분통을 터뜨렸다. 					 bə'lɪstɪk She went ballistic.
-* ‘걔 화가 나서 #도끼눈을 뜨고 날 보던데.			 ‘dӕgə(r) He was looking daggers at me. 
-* 걔 완전히 ##열받아 돌아버릴텐데. 						She would freak. 
-* ☆#push buttons열받게 하는 재주있네; She really pushes my buttons.
-* #욱하다; #in a huff; 
-* completely lost it = lose one's composure
-* #indignant; #분개
-* #길길이 날뛰는; #hopping mad
-* #신경 건드리지 마 					 You're really getting on my nerves
-* *You are making me mad, you are ticking me off, you make me furious, i'd had it up to here with you
-* 화나게 하다 #rub someone the wrong way
-* ##enraged; #boiling mad = #steaming
-* ##angry #angry with 사람 #angry at 사물
-* #angry with/at 		 She's still angry with me for forgetting about her birthday.
-* angry fabout/over 				 I'm really angry about this unfair situation.
-* angry (that) 					 He's angry that we didn't save him any pizza.
-* ##upset with sb 					You're still upset with me, aren't you?
-* upset by/about/at etc 			 She gets upset so easily about petty[trivial] things.
-* upset that				 He is upset that people treated him so indifferently.
-* 아버지는 화를 내실 거야 - 우리가 학교를 땡땡이치셨다는걸 아셨을 때 [완전 화내실거야]
-* Dad'll hit the ceiling(roof) when he finds out I've skipped school.
-* 그가 경기장안으로 들어가자 모든 사람이 열광했다.Everyone flipped out when he went into the stadium. 
-* 나한테 화풀이 하지마! 							Don't take it out on me.
-* 그 친구 그냥 화풀이 하는거야!					 He's just #vent#ing again.
-* #vent for; 화풀이
-* Don't take it out on me! 
-* Why are you taking it out on me?
-* Don't take your anger out on me! 
-* He always takes it out on his family.
-* 너 생각만 해도 화를 참게돼 		 Just thinking of you helps me not to lose my temper
-* ‘너는 어떻게 화를 #식히니? 			 How do you #let off steam. = blow off
-* ‘머리 좀 식혀야 되겠어요 			 I need too cool my head, #rest my mind
-* #clear my head
-* #horse; #hold your horses; 흥분은 그만
-* #노여움을 풀다; #relent toward (a person)(2. #동의하다)
-* #그의 못된 행동은 속을 끓이게 해요 				His bad behavior gets me down
-* ‘속에 있는 말을 하다 							 I can let things out
-* 속은 죽어가고 있을 지라도 even though i’m dying #inside
-* ‘할 말을 담아두다, #쌓인 게 				you’d better hold things back not to argue
-* ☆I have a lot of #pent-up emotions
-* ‘허심탄회하게 이야기하다 								 talk things out
-* #이를 갈다 #grit one’s teeth at = #gnash
-* 성적으로 흥분 freaky, freak out
-* *어떤 것도 널 흥분시킬 수 없어 						 nothing gets past you
+	* -에 과도하게 반응하다; respond with disproportion to; proportion: 비율에 맞지 않다
+	* 쉽게 짜증을 내다; triggered; easily triggered
+	* #툭하면 화내다; . He gets angry #at the drop of a hat.
+	* 이성을 잃다; be #beside oneself with = at the end of self/control
+	* i'm beside myself with #rage/#anger/#worry
+	* to arouse/raise/provoke the #ire# of local residents 지역 주민들의 분노를 불러일으키다
+	* 이성을 빼앗다; #dement
+	* 그녀는 분통을 터뜨렸다. 					 bə'lɪstɪk She went ballistic.
+	* ‘걔 화가 나서 #도끼눈을 뜨고 날 보던데.			 ‘dӕgə(r) He was looking daggers at me. 
+	* 걔 완전히 ##열받아 돌아버릴텐데. 						She would freak. 
+	* ☆#push buttons열받게 하는 재주있네; She really pushes my buttons.
+	* #욱하다; #in a huff; 
+	* completely lost it = lose one's composure
+	* #indignant; #분개
+	* #길길이 날뛰는; #hopping mad
+	* #신경 건드리지 마 					 You're really getting on my nerves
+	* *You are making me mad, you are ticking me off, you make me furious, i'd had it up to here with you
+	* 화나게 하다 #rub someone the wrong way
+	* ##enraged; #boiling mad = #steaming
+	* ##angry #angry with 사람 #angry at 사물
+	* #angry with/at 		 She's still angry with me for forgetting about her birthday.
+	* angry fabout/over 				 I'm really angry about this unfair situation.
+	* angry (that) 					 He's angry that we didn't save him any pizza.
+	* ##upset with sb 					You're still upset with me, aren't you?
+	* upset by/about/at etc 			 She gets upset so easily about petty[trivial] things.
+	* upset that				 He is upset that people treated him so indifferently.
+	* 아버지는 화를 내실 거야 - 우리가 학교를 땡땡이치셨다는걸 아셨을 때 [완전 화내실거야]
+	* Dad'll hit the ceiling(roof) when he finds out I've skipped school.
+	* 그가 경기장안으로 들어가자 모든 사람이 열광했다.Everyone flipped out when he went into the stadium. 
+	* 나한테 화풀이 하지마! 							Don't take it out on me.
+	* 그 친구 그냥 화풀이 하는거야!					 He's just #vent#ing again.
+	* #vent for; 화풀이
+	* Don't take it out on me! 
+	* Why are you taking it out on me?
+	* Don't take your anger out on me! 
+	* He always takes it out on his family.
+	* 너 생각만 해도 화를 참게돼 		 Just thinking of you helps me not to lose my temper
+	* ‘너는 어떻게 화를 #식히니? 			 How do you #let off steam. = blow off
+	* ‘머리 좀 식혀야 되겠어요 			 I need too cool my head, #rest my mind
+	* #clear my head
+	* #horse; #hold your horses; 흥분은 그만
+	* #노여움을 풀다; #relent toward (a person)(2. #동의하다)
+	* #그의 못된 행동은 속을 끓이게 해요 				His bad behavior gets me down
+	* ‘속에 있는 말을 하다 							 I can let things out
+	* 속은 죽어가고 있을 지라도 even though i’m dying #inside
+	* ‘할 말을 담아두다, #쌓인 게 				you’d better hold things back not to argue
+	* ☆I have a lot of #pent-up emotions
+	* ‘허심탄회하게 이야기하다 								 talk things out
+	* #이를 갈다 #grit one’s teeth at = #gnash
+	* 성적으로 흥분 freaky, freak out
+	* *어떤 것도 널 흥분시킬 수 없어 						 nothing gets past you
 * 삐지다; i'm ticked at you
-	* 삐지지마; stop pouting
+	* 삐지지마; stop pouting; 입술 삐쭉; pout [paʊt]; 크리스마스 캐롤; you better not pout
 * #빡돌다 #이성 #폭발 #발끈 ##화 ##욱 #신경 #화풀이 #분통 #화내다 #실신하다 #열광하다 #흥분하다 #이를 갈다 ##분노 ##삐지다 ##속 ##안
 * 냉정을 잃다 flip out (냉정함을 잃다= lose one's cool)
 * = fly off the handle = freak out = go ape = go ballistic = go crazy = lose one's temper = wig out = #Pull oneself together = #become emotionally stable
@@ -1676,7 +1686,8 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * 빙빙 돌리지 말고 말해 보세요. 		 Stop beating around the bush and get to the point. 
 * 이 사람이 제가 하지 않은 말을 했다고 하는군요. 		 He's putting words in my mouth. 
 * 오해하지 마세요. 							 Don't get me wrong. 
-* 오해를 풀고 싶어요. 					 I want to clear up the misunderstanding. 
+	* 오해를 풀고 싶어요. 					 I want to clear up the misunderstanding. 
+	* 오해가 있는 것 같애; There seems to be a misunderstanding
 * 더 노력했더라면 좋았을 텐데... 						 If only I tried harder…
 * 왜 처음부터 그렇게 말하지 않았어요? 		 Why didn't you say so from the beginning? 
 * 구차한 변명 같았어요. 						 It seemed like a lousy excuse.

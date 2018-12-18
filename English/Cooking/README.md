@@ -73,10 +73,11 @@
 * 오리를 #매콤한 양념에 볶은 것입니다.
 * It's duck with spicy seasonings. ‘si:zənɪŋ
 * 맛있는 매콤함이네 good kick #맵다: hot, spicy
-* #hot spicy
-* #tear jerker
-* < #fiery #눈물나는 맛
-* 매운거 잘 먹는다 I have a very high tolerance for spice
+	* 매운 맛이 오기 전에; It was sweet before the kick came
+	* #hot spicy
+	* #tear jerker
+	* < #fiery #눈물나는 맛
+	* 매운거 잘 먹는다 I have a very high tolerance for spice
 * 아무맛도 안나; it's #tasteless
 * 새콤달콤하다; it's sweet and sour
 * 양념이 잘 밴게 정말 마음에 들어; I like the way they soak up your sauce

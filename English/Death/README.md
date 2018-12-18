@@ -19,6 +19,7 @@
 * Defensive wounds; 방어흔
 * Sign of struggle; 싸우거나 방어한 주변 흔적
 ------------
+* 안락사를 시켜야했어요; I have to put him to sleep
 * 아버지가 돌아가셨어요; i jsut lost my dad; my dad just died
 * 내 목에 올가미를 씌우는 것들이지; The way i wear my noose
 * 죽은 이의 시체를 먹는 것은 실례가 아니라; the carcass of the decreased is not a social faux pas; the decreased

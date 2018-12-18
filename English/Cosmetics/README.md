@@ -38,6 +38,7 @@
 * #match your neck with your face
 * #flawless finish 완벽한 마무리
 * #dab: 두들기다
+	* 시험삼아 발라보다; swatch; you can swatch them
 * the upper/bottom #lips
 * fill in the brows
 * #발색이 잘된데 THis is really #pigmented
@@ -68,3 +69,4 @@
 * #얼굴색이 밝다; my complexion is light and have yellow undertones
 * #화장품
 * ~화장 진하게 하신 분; painted lady
+	* 두껍게 메이크업하다; cake on the makeup; i decided to cake on the makeup

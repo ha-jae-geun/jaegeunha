@@ -1,3 +1,22 @@
+* 내가 가장 놀랐던 건; What i stood out for me the most; 2. 제게 가장 눈에 띄었던 건
+* -에 과도하게 반응하다; respond with disproportion to; proportion: 비율에 맞지 않다
+* 쉽게 짜증을 내다; triggered; easily triggered
+* 쩐다; lit; 나의 어느정도 기대치 이상
+* 경험에 바탕을 준 법칙; a handy rule of thumb; 2. 어림 짐작햇; as a rule of thumb
+* 감안하다; make allowances for
+* 어꺠가 무겁겠네요; big shoes to fill; have gib shoes to fill; 
+  * 대신하다; fill 사람's shoes
+* 낱낱이 분석해야 해요; i'll just pick them apart; pick apart
+* 완전 망칠 것 같은데; i'm going to butcher it; 2. 정육점, 도살하다
+* 태생적으로 맞지 ㅇ낳ㄴ는 것 같애요; it's not an organic fit for me; 내재적인 것: organic
+* 스트레스를 푸는 최고의 방법은? decompress; calm down, relax, de-stress
+* 아이디어가 전무한/희망을 상실한 bereft of ideas / hope 
+  * 상심한, 외로운 용; bereft dragon
+* know, hear > know, hear about;  > know, hear (a little bit, all) of 이름 알고 존재하는 것 알고 한 두가지 정보 알고 있을 때
+* 시키는 대로 하다; obey, obedient 미국식 [əˈbiːdiənt] <> disobey, disobedient
+* 거절하다; i turned down TV interviews 2. TV 소리를 낮추다; Turn down the television
+* 봐주지 않을거야; i'm not pulling any punches; 주먹을 당기다
+* 존멋; That was effing awesome
 * : 보석 사는 것을 보류하려고 보석상에 가는 중이야. I'm heading to the jeweler's to put some pieces on hold.
   * : 어떻게 나한테 이런 부담을 지울 수가 있어요? How can you put this on my shoulders?
   * : 나 한테 책임을 돌리지마. Oh, don't put this on me
@@ -10,6 +29,15 @@
   * : 샌드위치 몇 개도 추가해줘요. 그것은 내 계산으로 해 주고. A couple of sandwiches, too. Put it on my tab
 * 격려; YOu'll do a great job; i wish you do the best
   * You can do it; Break a leg; Just do your bewst; You're doing a really good job
+* i'm stuck; 1. 끼었어 2. 어떻게 해야 할지 모르겠어 3. 쳐박혀있어; i'm stuck at work
+* Regis를 대신하고 있었죠; i'm filling in for Regis
+  * -에게 -에 대한 정보를 주다; fill in somebody
+  * 서ㅠ를 작성해서 다시 와주세요; fill in/out the form
+* 얼굴에 졸업장을 들이밀다; i'm going to love shoving my diploma; shove - in the face
+  * 1. 자랑스러운걸 들이밀다; 2. 노골적으로 지적하다; you didn't have to shove it in my face [ʃʌv]
+* 기본; 2. 자동으로 부전승으로; by default
+* 면제; be exempt from = be exempted from; 면제되는 형용사로 쓰일 땐 명사 앞에 안씀 [ɪɡˈzempt]
+* 외출 금지; be grounded; 2. ground someone; i am grounding you
 * 솔깃했어; My ears just perked up; It was an ear-catching story; It was a tempting offer; 
   * That sounds inviting = My ears got tempted
 * bitch; 2. 임마; 3. he's such a bitch; 징징된다 4. Stop bitching; at me 싫은 소리 그만해라

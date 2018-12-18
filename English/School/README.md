@@ -8,6 +8,7 @@
   * <> out of tuition
 
 # 대학
+* 인문 대학교를 가다; i went to a small liberal arts college in 
 * 학생회관 책임자입니다; I'm director of the Student Center
 * 책을 넘기다; flip the pages; i've turned to the first page
 * 수업을 잘 따라가나요? follow one's school well

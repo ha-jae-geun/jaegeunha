@@ -24,7 +24,7 @@
 * 회의를 소집하다; conduct/run a meeting
 * 끝내기 전에 다음 미팅 일정을 확정지어 볼까요? Before we leave, can we fix the next meeting?
 * 참석해 주신 모든 분들께 다시 한 번 감사 말씀 드립니다. Thanks again for your participation. (Thank you all for attending.)
-
+* 피해자들의 많은 자활공동체 모ㅗ임에 참석했었죠; I sat in a lot of self-help groups of victims sit in;
 
 # 단어
 * 인턴에ㅓㅅ 해고당했다; he got fired from her internship

@@ -1,8 +1,22 @@
-## 방향
-* on the left side of the picture
-* in the middle of the picture
-* in the top right corner
-* in the background of the picture
+# 묘사
+1. 장소
+	* I think this piture was taken 전치사 + 장소
+2. 인원 수
+3. 중심 대상(동작)
+	* The first thing i can see is -ing
+4. 주변 대상
+	- 방향
+		* on the left side of the picture
+		* in the middle of the picture
+		* in the top right corner
+		* in the background of the picture
+	- 특징
+		* Two people are talking to each other
+5. 마무리
+	- 추측
+		* It eems like S+V
+
+
 
 ## 단어
 * long-sleeve / short-sleeve / sleeveless

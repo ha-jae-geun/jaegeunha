@@ -21,6 +21,8 @@
 * I said I would be ther as soon as I could
 
 # 접두어
+* -일지 누가 알아; For all i know, You could be a -
+* 상대적인 관점에서 보면; To put that into perspective
 * 에릭은 말하자면 완벽주의자야. Eric is, so to speak, a perfectionist
 * 사실은; But deep down,
 * 의심의 여지없이; Without question
@@ -39,6 +41,7 @@
 * -와는 반대로; as opposed to -; 비교와 대조를 위한 표현
 * 절대로 하고 싶지 않아; The last thing i wanna do is
 * 과장이 아니야; It's no exaggeration that -
+* 확실히 말하자면; For the record
 
 # 질문
 * -인게 괜찮지? Is it chill that 문장?
@@ -53,6 +56,7 @@
  * 출산 예정일이 언제에요; When's Jenny due?
 * 왜 한국 왔어요; what brought you to Korea?, Why did you  choose Korea?, What made you want to come to Korea?
 * 이게 뭐라고 생각하세요; What's your guess on what that is
+* 네 생각은 어때? What do you say?
 
 # 대답
 * 말도 안되는 소리; Don't be absurd
@@ -78,6 +82,7 @@
 * 그럴리 없어; Not a chance
 
 # 말투
+* 마침 그런 말을 하다니 신기하다; 우연이 묘하다; Funny you should say that
 * -인것 같애요; i would say -
 * 틀렸어를 유하게: Are ou sure? i thought, I think you might be mistaken
 * 우리가 힘을 합치면; if we stick together; 주로 we랑 같이 씀
@@ -113,6 +118,14 @@
 
 
 # 일상
+* 대부분의 사람들이 여기서 실수하죠; where most participants slip up
+* 기다리던 순간이 왔다; This is the moment i've been wating for
+* 똑같이 닮은; 나는 똑같이 생긴 가방 두 개를 구분할 수 없다 I can't distinguish the two bags that look alike as two peas in a pod.  
+* 라임까지 맞아; It even rhymes
+*  나는 이렇게 갇혀있는 것이 싫어.  I don ' t like being cooped up like this . 듣기
+* 경고해주다; give someone a heads up
+* 알바 아니죠; SCrew, Screw the rest of them
+* 나중에 해도돼; - can wait; YOur silly jokes can wait
 * 완전히 뜻밖이다; Thhis is totally out of left field
 * 방해하지마; Don't distract me when -
 * 밥벌이를 하다; bring home the bacon

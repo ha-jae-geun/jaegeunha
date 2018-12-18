@@ -290,6 +290,7 @@
 	* #계속 늘어나는; #ever-growing
 	* 폭발적으로 증가했어요; increase like an #explosion = sales #go through the roof; #roof
 	* 값을 올리다; jack up the pricek; 타이어 갈 떄 무거운 것을 들어 올리는 것: jack
+	* 공급ㅇ 증가하면 수요가 감소한다; an increase in supply results in a fall in demand
 * #증가 #상승
 * 감소
 * 추운 겨울 때문에 오일 비축분이 예상보다 더 크게 축소되었다. The cold winter has led to a larger-than-expected drawdown on oil stocks. 

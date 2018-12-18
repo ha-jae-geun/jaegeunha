@@ -153,6 +153,7 @@
 * #져주다; let you win
 * they are losing 4 to 5
 * #동점; #we're tied/#even; we're tied after all the games; 끝났는데 무승부야
+	* nil-nil draw
 * scored his side's #equaliser
 * #점수차를 더 벌리다; I think i've #extended my lead
 * #메달을 땄다 #win/#take a #medal; he took the gold in that event / brought home the gold

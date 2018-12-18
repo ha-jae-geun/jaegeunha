@@ -26,6 +26,8 @@
 * 아부하는 사람; He's a kiss up
 	* 재수 없는 자식; git
 	* 짜증나는 존재, 재수없는 놈; dingle
+* 동등한 위치에 있는 상대; counterpart; They make around 10 times more than their counterparts
+* 사교적인 사람; social butterfly
 
 # 나이
 * 어느새 18살이 됐어; Fast forward to 18

@@ -10,6 +10,8 @@
 * 물건 같이 가져오기
 
 # 먹는 습관
+* 오랜 습관은 버리기 어렵다; Old habits die hard
+
 ## 흘리는 것
 * 흘리면서 먹는 건 괜찮다
 	* 손으로 먹는 건 괜찮다; 생활 결벽을 강요하면 융통성이 없어진다
@@ -21,7 +23,8 @@
 * 버릇없는 아이; spoined kid
 
 # 놀이
-* 7 스페이드인것 같아요; It's a seven of spades
+* 7 스페이드인것 같아요; It's a seven of spades	
+	* 카드를 뒤집을 필요가 없다; THere's no need to turn the card over
 * Criss-cross: 틱택토;  hopscotch; 바닥에 사각형 그려놓기 게임
 * 사방놀이: #hopscotch
 * 수건돌리기; #duck, Duck, GOose

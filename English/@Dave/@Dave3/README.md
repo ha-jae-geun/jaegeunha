@@ -15,6 +15,27 @@
 * 떠보다; he's just feeling you out
 * 논란거리; a bone of contention
 * 다음 3년동안 이 여배우 팔자에 사랑은 없다; Love is not in the starf for this actress
+* 잘 되고 ㅇㅆ어; come up roses; everything's coming up roses
+* 슬슬 마무리 해야겠어요; i gotta wind this down
+* 직감을 따라야 한다; go wiht one's gut
+* 둔감하다; to have thick skin
+* 어떤 역할이 눈에 띄나; What kind of roles catch my eye
+* 그 캐릭터를 연기하는데 무엇을 참고했나요? where did you draw upon to play that character; draw upon
+* 이번엔 봐드리죠; i'm gonna let you off this time
+* 어떤 남자가 다가왔다; a guy comes up to me
+* 기대와 현실이 부합핟다; His expectations would align with reality
+* 저를 통계자료 취급하는 게 싫어요; i hate that people label me as a statistic; label A as B
+* -하는걸 목표로 삼앗어요; i've made it a goal/my goal to v
+* 그런거에 조금 더 관대하고; a little bit more lenient  [ˈliːniənt]
+* 이성을 잃다; lose one's crap/shit
+* 사전 조사를 하다; do one's due diligence
+* 너가 이겼어요; YOu got your way
+* 중국의 평판을 떨쳐낼 필요가 있따; they'll need to shake off -'s reputation
+* 앨버트를 합류시키는건 어때; Why don't we get Albert on board?
+* 편향된 정보/출처/신문 보도 biased information / sources / press reports 
+* 덜 복잡해요; It's less steps
+* 엄청난 반발이 있을거에요; You're gonna get a ton of backlash on this
+* 그녀 대신에 내가 투표했어; I voted on her belaf; on one's behalf
 * 이런 우연이 다있나?; What are the odds
 * 그들이 우세하게 될거야; They will come out on top
 * 비장의 카드를 쓰다; She's bringing out the big guns
