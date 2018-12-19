@@ -1,3 +1,213 @@
+# 쓸만한 영어 - 식당 갈 때/음식 먹을 때 쓸만한 SmallTalk/못먹는 음식 있니?/간단하게 먹자/니가 살 차례야/난 아무거나 잘 먹어/영어회화/영어공부
+ * ▷ 음식을 먹으러 가자고 제안할 때
+ *      - 뭐 먹으러 갈까? / 뭐 먹을래?
+ * 
+ * - Do you want something to eat?
+ *   뭐 좀 먹을래?
+ * 
+ * - Do you want something to grab a bite?
+ *   간단하게 뭐 좀 먹을래?
+ * 
+ * 
+ * ▷ ~을/를 (별로)먹고 싶지 않아. (안땡겨)/ ~할 기분이(아니)야.
+ * 
+ * - Sb. is in the mood for sth.
+ *   직역 : (누가) (~할) 기분이다.
+ * 
+ * - Sb. is in the mood to do something.
+ *   직역 : (누가) (~할) 기분이다.
+ * 
+ * - Sb. is (not) in the mood for sth.
+ *   직역 : ~할 기분 안에 있어???
+ *   의미 : ~하고 싶어/ ~하고 싶지 않아.
+ * 
+ * - I am not in the mood for chicken.
+ *   직역 : 닭고기 먹을 기분이 아니야???
+ *   의미 : 치킨 별로 먹고 싶지 않아.
+ * 
+ * - I'm not in the mood for pork.
+ *   돼지고기 별로 안먹고 싶어.
+ * 
+ * 
+ * ▷ 뭐든 가리지 않고 잘 먹어.
+ * 
+ * - pick (동사)
+ *   picky (형용사)
+ * 
+ * - a picky eater
+ *   쏙쏙 골라내며 먹는 사람??
+ *   음식을 까다롭게 먹는 사람
+ *   *[t]를 [d]로 약화시켜 발음
+ * 
+ * - I'm not a picky eater.
+ *   직역 : 난 까다롭게 먹는 사람 아니야.
+ *   의미 : 난 아무거나 잘 먹어.
+ * 
+ * 
+ * ▷ 아무거나 먹어도 상관없어.
+ * 
+ * - I'm fine with anything.
+ *   난 아무거나 상관없어.
+ *   *쉬운 것 같지만 의외로 실수가 많은 부분이니 주의
+ *   *be fine with/ be ok with
+ *    [~에 대해 괜찮다]라고 해서 *be fine(ok) about 아님
+ * 
+ * - Is it OK with you?
+ *   너한테 괜찮아?
+ * 
+ * 
+ * ▷ 어떤 스타일 음식 좋아해?/ 어떤 음식 먹고 싶어?
+ * 
+ * - What kind of food would you like to have?
+ *   직역 : 어떤 종류의 음식을 먹고 싶어???
+ *   의미 : 뭐 (어떤 음식) 좋아해?
+ * 
+ * - What kind of food do you like to have?
+ *   직역 : 어떤 종류의 음식을 먹고 싶어?
+ *   의미 : 뭐 먹고 싶어? 뭐 좋아해?
+ * 
+ * 
+ *     *영어식 사고 연습하기
+ * ▷ 특별히 좋아하는 나라 음식 있니?/ 어느 나라 전통음식 좋아하니?
+ * 
+ * - Do you like any particular country's food???(X)
+ *   특별히 좋아하는 어느 나라 음식 있니???
+ * 
+ * - Do you like any special traditional food???(X)
+ *   특별히 좋아하는 어떤 전통음식 있니???
+ * 
+ * - 음식의 종류 > 음식의 국적
+ * 
+ * - Is there any particular food you want to have?
+ *   먹고 싶은 어떤 (특정한) 음식있어?
+ * 
+ * - Is there any particular food you prefer?
+ *   더 좋아하는 어떤 (특정한) 음식있어?
+ * 
+ * 
+ *     *영어식 사고 연습하기
+ * ▷ 특별히 싫어하는 음식있니?/ 못 먹는 음식있니?
+ * 
+ * - Do you have any food you cannot eat???(X)
+ *   못 먹는 음식있니???
+ * 
+ * <구체적인 핵심 포인트>
+ * 
+ * *구체적 예시 상황 1
+ *   외국인 친구에게 산낙지를 먹을 수 있는지 없는지 물을 때
+ * 
+ * - 우리도 너무 낯선 외국음식을 자꾸 먹으라고 할 때 맛도 어색하고 싫은 것과 비슷하겠지요? ^^
+ * 
+ * - "너 못 먹는 음식 있니?"
+ *    (이미 내 머리엔 온통 산낙지뿐)
+ *   ⇒ 산낙지가 포.인.트.
+ * 
+ * - a live octopus(산낙지) 정도면 통해요.
+ * 
+ * - handle
+ *   힘든 일을 처리하고 다루는 그림
+ *   *무조건 [~를 다루다]가 아니에요. 
+ *     힘든 그림이 있어요.
+ * 
+ * - Do you think you can handle eating a live octopus?
+ *   산낙지 먹을 수 있을 것 같아?
+ *   (힘들어서 못 먹겠지?)
+ * 
+ * *구체적 예시 상황 2
+ *   특정 음식에 알러지가 있어서 먹을 수 없는지 물을 때
+ * 
+ * - Do you have any allergies to any particular foods?
+ *   어떤 (특정)음식에 알러지 있어? (그래서 못 먹는거 있어?)
+ *   *have an allergy to sth. ~에 알러지가 있는
+ * 
+ * 
+ *     *영어식 사고 연습
+ * ▷ 이것 저것 다 귀찮은데 간단히 먹자.
+ * 
+ * - everything is bothering???  
+ *   이것 저것 다 귀찮은데..        < 일이 많아져서 성가시고 불편한 그림
+ * 
+ * - hassle
+ * 
+ * - It's such a hassle!
+ *   + I don't feel like cooking.
+ *   문맥 : (일도 많아서 피곤했는데 또 요리를 하려니) 성가셔! 귀찮아! 밥하기 싫다..
+ * 
+ * 
+ * ▷ 간단하게 먹자!
+ * 
+ * - simple
+ *  
+ * - Let's get something simple!
+ *   (그냥 뭐) 간단하게 먹자!
+ * 
+ * 
+ * ▷ 특별한 날이니깐 맛있는거 먹으러 가자!
+ * 
+ * - It's a special day today. 
+ *   오늘 특별한 날이니깐..
+ * 
+ * - Let's go out to eat.
+ *   외식하자!
+ * 
+ * - Let's go out for dinner. 
+ *   저녁 외식하자.
+ * 
+ * - We need to celebrate.
+ *   축하해야지!
+ * 
+ * 
+ *     *같은 의미인듯 다른 의미
+ * ▷ 파티할거야!
+ * 
+ * - have a party?? = throw a party??
+ *   "파티를 하다" 같은 의미??
+ *    용례가 달라요.
+ * 
+ * - 예시상황
+ *   아이가 학교에서 뭔가를 잘했다고 "파티할거야"라고 한다면?
+ *   We are going to THROW A PARTY??
+ * 
+ * - We are going to THROW A PARTY.
+ *   어휘도 문법도 모두 맞지만 상황에 맞지 않음
+ *   *throw a party : 좀 더 정식으로 차린 파티를 할 때 적절
+ * 
+ * - We are going to have a party.
+ *   *좀 더 즉석해서/소소하게 하는 파티의 그림
+ * 
+ * 
+ * ▷ 내가 살게!/ 내가 낼게!
+ * 
+ * - It's on me today.
+ *   오늘 내가 낼게. (살게)
+ * 
+ * - Dinner is on me.
+ *   저녁 내가 낼게.
+ * 
+ * - Lunch is on me. 
+ *   점심 내가 살게.
+ * 
+ * - treat
+ * 
+ * - I'll treat you!
+ *   내가 낼게!
+ * 
+ * 
+ * ▷ 저번엔 내가 샀으니깐 이번엔 너가 사./ 이번엔 너가 살 차례야.
+ * 
+ * -  It's your turn to treat me.
+ *    내가 저번에 샀으니깐 이번엔 너가 살 차례야.
+ *   *turn 
+ *     돌아서 변하는 그림
+ * 
+ * - 더 자연스럽고 편한 그림?
+ *    owe
+ * 
+ * - You owe me from last time.
+ *   직역 : 너가 지난번으로부터 나한테 갚을게 있어.
+ *   의미 : 지난 번에 내가 샀어. (너가 얻어 먹었어)﻿
+
+ 
 # Y 발음
 * 사실 한국어에도 Y발음이 있는데 한글로는 동일하게 ‘ㅇ’표기라 그 차이를 잘 인식 못하는 거 같습니다. 
 예를 들면, 한글 표기로는 같지만

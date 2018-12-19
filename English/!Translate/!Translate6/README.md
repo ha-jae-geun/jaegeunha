@@ -1,3 +1,30 @@
+# 영어 연습가이드 #38 - PART 1 - "The Benefits Of Getting Up Early"
+* 아침 일찍 일어나서 하루를 일찍 시작하면 좋은 점에 대한 얘기를 사람들이 많이 하죠
+  * "People often talk about the benefits of getting up and starting your day early in the morning. 
+* 그러나 단순히 더 많은 일을 하기 위해 시간을 더 만드는 것이 아니야;
+  * But it's not simply about giving yourself more time to get more work done. It's not siimply aboout; 중요한게 그게 아니야
+* 자기 자신에게 완전 집중할 수 있는 시간을 몇 시간 갖는다는 데에 의미가 있는거야
+  * It's more about giving yourself a few hours to really focus on yourself. It's more about: -가 더 중요해
+  It's not simply about A. It's more about B
+* 거기서 너 스스로에 대해 중요한 것들을 검토하는데 시간을 사용하면서 정말 많은 것을 얻을수 있다고 생각해
+And I think (that) we can really benefit a lot from that, by using that time to go over some really important things about ourselves - like our long term goals and things that we've been procrastinating on and things that we'd like to improve and stuff like that.  The point is, we are constantly distracted - by news and communication and we are always struggling to keep up with others and we forget to communicate with ourselves and so we sometimes lose sight of who we are, what we want and what we need."
+
+# [ 대화가이드 #16 - Part 2 ] - 하기만 하면 된다 / 그럴려면 먼저 - 해야 된다
+* You can only ge the discount if you have the coupon downloaded through our website and you need to be singed up as a member to do that
+  * sign in: 접속; sign for: 등록
+* 내가 해야할 건 웹사이트 가서 쿠폰 다운로드 받기만 하면 돼All i need to do is go to your website and download a coupon
+* 맞아 근데 그럴려면 먼저 회원가입해야해; THat's right, but to do that, you first need to sign up as a member
+
+# LESSON #24 - 시간표현 PART 1 - 며칠 전에 / 몇달 후에 / 지금으로부터 몇년 뒤에 / 그저께(엊그제) / 모레
+* 오늘 까지; until today; 오늘 부터; from today; 내일 까지; by tomorrow
+* 이틀 전에; 시간의 양 + ago; two days ago; i arrived two days ago; d와 t 연음
+* 이틀 후에; in two days; 지금부터 이틀 후에(조금 더 구체적); two days from now
+* 앞으로 이틀 안에; within (the next) two days; 한달 뒤에: in a/one month = a month from now
+* 그녀는 2시간 전에 출발했으니까 지금으로부터 1시간 후에 도착할거야; She left 2 hours ago so she's gonna arrive an hour from now / in (about)an hour(이느나월; 연음)
+* 상품을 며칠 전에 중분했으니까 1주 뒤에 도착할거야; i ordered the product a few days ago so it's going to arrive in about a week
+* 엊그제; the day before yesterday / the other day
+* 내일 모래; the day after tomorrow
+
 # 영어 다이어리 2
 * 지난 일기 영상에 없어서 아쉬웠떤 한 가지가, 많은 분들이 지적했듯이, 브로디가 새 코트를 실제로 입은 모습이었어요
   * One thing that was missing from my last video diary, as many of you pointed out, was Brodi actually wearing his new coat.
