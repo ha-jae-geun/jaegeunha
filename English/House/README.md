@@ -107,6 +107,7 @@
 * 가구 파는 회사: #pottery barn
 	* #1인 가구; #single-person household; = single households
 	* 에어컨에서 찬바람이 안나와요; It's now blowing cold air
+	* 맞춤 붙박이 가구에요; All custom built-ins
 * 냉장고에 넣을 공간이 없어요; i have no more room in the refrigerator
 * 그는 거울에서 자기를 확인한다; He checked himself in the mirror
 * (kitchen)appliance = refrigerator = living arrangement	 #가구
@@ -540,3 +541,4 @@
 # 화장실
 * 배변활동; bowel movents; It's about bowel movement [ˈbaʊəl]
 * 욕조를 닦자; Wash that tub
+	* 족욕; foot bath

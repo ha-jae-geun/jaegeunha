@@ -23,6 +23,7 @@
 
 # 환경
 * 꽃 구경가요; Let's go to view the flowers
+	* 아름다운 산맥이 있어요; You have gorgeous mountain ranges
 * 기후 변화에 보다 잘 견디는 식물; be more resilient to climate change
 * 오염시키다; contaminate; 곰팡이, 박테리아, 세균 등에 오염; a can of soup contaminated with this kind of mold p
 	* ollute: 불순물의 혼합, 직접적인 접촉, 일반적인 여러 원인에 의한 오염; 

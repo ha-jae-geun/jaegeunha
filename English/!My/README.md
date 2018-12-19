@@ -60,8 +60,10 @@
 * 네 생각은 어때? What do you say?
 * 무엇이 필요할까요? What does it take to?
 * 네가 죽기라도 하니? 덧나니? Would it kill you to; leave me alone?
+* 무슨 일 있었어? What'd i miss
 
 # 대답
+* 들으셧죠; There you have it
 * 말도 안되는 소리; Don't be absurd
 * 샤넬이 절박하게 필요해; YOu're in desperate need of Chanel
 * 그만해; Knock it off = Quit it = Cut it out = Don't cross the line = stop that = Enough is enough
@@ -120,6 +122,7 @@
 * 예측 못했어; i didn't see it coming
 * 어찌 됐든; Either way
 * 동병상련; Misery loves company
+* 신중하고 꾸준한 자가 이기는거야; SLow and steady wins the races
 
 
 # 일상

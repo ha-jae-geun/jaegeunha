@@ -23,6 +23,7 @@
 * 두 그릇으로 나눠 주세요; Could we have this in two plates
 
 # Ingredient
+* 과자; confectionery 미국식 [-ʃəneri]  영국식 [kənˈfekʃənəri]; 제과 공장; a confectionery plant 
 * 토핑이 덜 있어서 그런걸 수도 있어요; because there are less toppings
 * 얇게 썰어 쪽 찢은 고기; sliced, shredded meat; shred: 장조림이나 맛살처럼 길고 가늘게 자르거나 뗴어네는 것
 * #노른자 터뜨리지 말아ㅜㅈ세요; I want it sunny side up

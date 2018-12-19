@@ -65,6 +65,7 @@
 * con 1. 사기치다; 2. covict 3. cons: 단점
 * 고소하다; accusation[ˌækjuˈzeɪʃn] ; 무고죄: false accusation
   * 아동, 성적 핟개; child/sexual abuse
+    * 성추행 molest 미국·영국 [məˈlest]; molester
 
 * 자세히 파고들다; comb through; i'll comb through some facts
 * 법적 구속력이 있지; A에게 B의 의무를 지우다; bind A to B; It's binding
@@ -289,6 +290,8 @@
 * 변호사 도우미 #paralegal 미국·영국 [|pӕrə|li:gl] | #법무사 Paralegal Studies 
 * #묵비권을 행사할 권리가 있다 				 You have the right to remain silent
 * #대답하지 않겠어		 I'll take the fifth (on that); 헌법 5조 자기에게 불리한 증언 거부
+  * 목격자를 소환하겠습니다; I would like to call an eyewitness/witness(2. 목격하다 동사)
+    * 경찰관은 떄린건 폴이 아니라고 증언했다; testified that it was not Paul that hit the officer
 * #소송 #취하 						 rescind 미국·영국 [rɪ|sɪnd the lawsuit
 * i'm gonna sue you, see you in court
 * #소송하다; #litigate
@@ -302,7 +305,8 @@
 * 법을 #통과시키다 pass the ~; laws or bills are passed
 * #항변하다; 어떻게 항변하시겠습니까? How do you #plead?
 * #휴회 #adjourn
-* #recess; the judge called a short recess ; #at recess; 휴식시간에
+  * 휴정하겠ㅅㅂ니다; We shall take a short recess; called a short recess
+  * #recess; the judge called a short recess ; #at recess; 휴식시간에
 * #jury duty; #duty
 * 판사가 배심원들에게 #무죄 평결을 내리라고 지시했다		 .direct (격식) 
 * #acquit, #release, #discharge - 무죄 선고하다 

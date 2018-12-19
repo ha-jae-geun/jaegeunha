@@ -34,6 +34,10 @@
 * 감사기도 드리니 Say grace; Let's say grace 2. 유예기간
 * 반칙이야; That's a cop-out
 * 왜 이부분을 지웠어요? Why did you cross out from the list
+* 당신의 밥그릇을 뺏어버릴거야; He's gonna drink your milkshake]
+* 말대꾸 받는거 싫어; i don't like to take guff; 말대꾸를 받아주다; take guff; guff: 실없는 이야기
+* 그가 그거를 내켜할지 모르겠네요; i don't know if he'd be up for it
+* 몸으로 밀고 떄리는 장난; horseplay; i don't want to see any horseplay; 16세기에는 horse가 strong을 의미하는 형용사였음 
 * 내가 가장 놀랐던 건; What i stood out for me the most; 2. 제게 가장 눈에 띄었던 건
 * -에 과도하게 반응하다; respond with disproportion to; proportion: 비율에 맞지 않다
 * 쉽게 짜증을 내다; triggered; easily triggered

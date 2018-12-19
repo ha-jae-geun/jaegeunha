@@ -49,27 +49,29 @@
 * 무료 주차하다; #validate for an hour
 -----------
 * 몇시까지 #운행해요?				Can you tell me how late those subway trains run?
-* #지하철	
-* #터널	#pass through; the train passed through the #tunnel 
-* ~#행 지하철	#down for ~
-* 지하철이 역에 들어오고 있습니다. 	The train is pulling into the station. #pull into
-* the train is now #approaching
-* 지하철이 역에서 빠져 나가고 있다. 		The train just pulled out of the station. #pull out of
-* #pull sthing out of the hat	find a way to turn a bad situation into a good one; how did she pull it out of the ##hat
-* 편도표 하나요	A one way ticket.
-* 왕복표 하나요	A round trip ticket.
-* 어디서 갈아타야 되요?	Where should I transfer?
-* 다음 정거장에서 내려요	I'll get down at the next stage. steɪdƷ
-* 스크린 도어 고장으로 열차가 10분째 지연되고 있어요.	The train has been stranded for 10 minutes due to some trouble with the platform doors.
-* 5번 #출구로 나오셔서	Take exit 5
-* 1번 출구로 나가시면 되요	You can take exit number 1
-* (역삼 #방향으로 가는 전철을 타시고)	Take the train that goes toward Yeoksam station
-* #서다	서서 가야겠네 I'll just #stand
-* 센트럴 파크로 가는 건 몇 #호선인가요? 			Which #track is for Central Park
-* *몇 호선 타야합니까? 			Which #line do I have to take to go to Central Park
-* 약수역에서 3호선으로 갈아타 Transfer to line three at 약수 station
-* 3호선 양재역 방향을 타라 take line three going to 양재 station
-* 양재역에서 내려서 10번출구로 나가라 #get off at 양재 station and go to exit 10
+	* #지하철	
+	* A로 갈려면 이번 역에서 내려야해요; Exit here for A
+	* 문에 기대지 마세요; Stand clear of the doors
+	* #터널	#pass through; the train passed through the #tunnel 
+	* ~#행 지하철	#down for ~
+	* 지하철이 역에 들어오고 있습니다. 	The train is pulling into the station. #pull into
+	* the train is now #approaching
+	* 지하철이 역에서 빠져 나가고 있다. 		The train just pulled out of the station. #pull out of
+	* #pull sthing out of the hat	find a way to turn a bad situation into a good one; how did she pull it out of the ##hat
+	* 편도표 하나요	A one way ticket.
+	* 왕복표 하나요	A round trip ticket.
+	* 어디서 갈아타야 되요?	Where should I transfer?
+	* 다음 정거장에서 내려요	I'll get down at the next stage. steɪdƷ
+	* 스크린 도어 고장으로 열차가 10분째 지연되고 있어요.	The train has been stranded for 10 minutes due to some trouble with the platform doors.
+	* 5번 #출구로 나오셔서	Take exit 5
+	* 1번 출구로 나가시면 되요	You can take exit number 1
+	* (역삼 #방향으로 가는 전철을 타시고)	Take the train that goes toward Yeoksam station
+	* #서다	서서 가야겠네 I'll just #stand
+	* 센트럴 파크로 가는 건 몇 #호선인가요? 			Which #track is for Central Park
+	* *몇 호선 타야합니까? 			Which #line do I have to take to go to Central Park
+	* 약수역에서 3호선으로 갈아타 Transfer to line three at 약수 station
+	* 3호선 양재역 방향을 타라 take line three going to 양재 station
+	* 양재역에서 내려서 10번출구로 나가라 #get off at 양재 station and go to exit 10
 * #택시 정보 #uber
 	* #법인택시; #corporationowned taxi
 	* #개인택시; #privately owned taxi
