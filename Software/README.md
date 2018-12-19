@@ -30,6 +30,7 @@
 * #chocolatey.org; 윈도우 다운
 * Monosnap; 스크린샷
 * TeamViewer; 공유
+* 모비즌
 
 #스포이드 색 추출: colorcop | #그림판/#파워포인트
 색 조합: https://color.adobe.com http://www.colorfavs.com/ www.design-seeds.com﻿고급 색상

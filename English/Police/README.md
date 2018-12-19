@@ -46,6 +46,7 @@
 * 도망중이야; Two supects are on the run
 * 작용하는 규칙들; rules at play; there are some rules at play affecting this
 * 무단침입하시는거에요; YOu are breaking and entering
+* 현자; sage; [seɪdʒ] 2. 슬기로운
 
 #경찰서 #법원	#형사 police(2번째 강세)
 * 범죄과학 감사를 실시할 예정이다; WE're going to do a full forensic audit
@@ -327,6 +328,7 @@
 * #sin#; #commit a sin, #crime
 * 잔인한 vicious little word, vicious attack/dog
 * 체포합니다 You’re under arrest
+  * 붙잡다; be held captive; hold 사람/동물 captive
 * #잔인한 cruel, brutal, inhumane - 잔인한, 잔혹한 <-> innocent - 결백한, 순수한
 * #잔혹; #atrocity
 * #abusive, #violent, #cruel - 잔인한, 폭력적인 

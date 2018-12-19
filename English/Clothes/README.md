@@ -27,7 +27,8 @@
 * 괴상망측한 분장을 하고 나타날 수 있다고 생각한거야? Does she think she can just show up in some wacky disguise [ˈwæki] 
 * 그녀는 분장을 한 채 밖에 나가는 걸 즐겼따; she enjoyed going out in disguise dɪsˈɡaɪz]
 * 경계선이 없어졌잖아; The stripe went away
-* 옷 갈아입는 중이야; i'm getting dressed
+* 옷 갈아입는 중이야; i'm getting dressed; for a change
+  * 옷을 빠르게 갈아입다; slip on; i'll just slip my coat on
 * 맞춤형의; custom; custom-tailored;custom made;made-to-order
 * 더 잘어울리기 때문에; because you can pull it off
 * 옷의 기장 맘에 들어요; i quite like the length of this
@@ -62,6 +63,7 @@
 
 
 ##옷 #의복 wear <> put, try on: 관사에 주의 attire=outfit [ə|taɪə(r)]
+* 누드; birthday suit
 * 나시; camisole; 끈나시, 캐미솔; cami
 * 민소매; tank undershirt / vest
 * #재봉 기술; #sartorial 미국식 [sɑ:r|tɔ:riəl] art
@@ -111,6 +113,8 @@
 * #잠옷	jammies(아기들이 하는 말), #samesies(쌔미즈); 어른
 * #nightgown
 * #잠옷 파티;	#pajama sleepover
+  * onesie; 아기들 우주복이나 스파이더맨 옷처럼 머리부터 발목까지 하나로 붙어있는 옷
+    * 발까지 감쌈: footsie
 * #slumber party
 * #내복	#long-johns
 * #속옷	panty: 여자 속옷 | wearing underwear(공용) } 

@@ -43,8 +43,15 @@
 * 절대로 하고 싶지 않아; The last thing i wanna do is
 * 과장이 아니야; It's no exaggeration that -
 * 확실히 말하자면; For the record
+* 어떻게 보면; 어떻게 보면 말이 된다; It makes sense in a way
+* 솔직히 정말 힘든일이야; It's tough work, not gonna lie
+* 외람된 말씀이지만; With all due respect, 
+* 내가 봤을 땐; The way i see it
+* 실례하지만; If yoou'll excuse me
+* 말하자면 말이지; , so to speak
 
 # 질문
+* 왜이렇게 오래걸려? WHat's taking so long?
 * -인게 괜찮지? Is it chill that 문장?
 * -에 대해서 어떻게 생각하세요? What's your position on -?
 * 마을까지 제가 데려다 드려도 될까요? May i see you back to the village
@@ -89,6 +96,8 @@
 * 예외없이; bar none
 
 # 말투
+* 그렇다면 나야 좋지; (That) makes things easier for me; 여러 상황에서 쓰일 수 있다.
+* 제가 -해도 된다면; If i may-
 * 마침 그런 말을 하다니 신기하다; 우연이 묘하다; Funny you should say that
 * -인것 같애요; i would say -
 * 틀렸어를 유하게: Are ou sure? i thought, I think you might be mistaken
@@ -123,6 +132,7 @@
 * 어찌 됐든; Either way
 * 동병상련; Misery loves company
 * 신중하고 꾸준한 자가 이기는거야; SLow and steady wins the races
+* -에 대해 아무것도 몰랐다; Little does someone know; and little did you know
 
 
 # 일상
@@ -135,6 +145,7 @@
 * 알바 아니죠; SCrew, Screw the rest of them
 * 나중에 해도돼; - can wait; YOur silly jokes can wait
 * 완전히 뜻밖이다; Thhis is totally out of left field
+  * 완전 심하게 팼따; Beat the crap/shit out of him
 * 방해하지마; Don't distract me when -
 * 밥벌이를 하다; bring home the bacon
 * 그에 대해서 잘 안다; i know him inside out

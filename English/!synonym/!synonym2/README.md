@@ -8,6 +8,91 @@
   * 미국 대통령 이름 셋을 대시오; Name three US presidents
   * 원하는 가격을 제시하시오; Name a time and place
 * 추억을 많이 불러일으키거든요; It brings back a lot of memroies; bring back
+* 선천적으로 자신의 이득을 찾는다; we're hard-wired to seek our own advantage; 2. 전기회로에 접촉된
+* 고생시키지 않으려고 했지; i wanted to spare you the trouble; spare somebody; 겪지 않게하다; 2. 아끼다
+* 우리가 보기에는; In one's book; That's a lie in my book
+* ㅔ미니스트 캐릭터가 엠마에게 영향을 줬어요; Feminist  character has rubbed off on her; rub off on somebody
+* 잘 모르곘지만, 의외로; for all i know
+* 모두들 도와줘; ALl hands on deck; we need all hands on deck
+* 뻔하 질문이겟지만; Quick question of the rhetorical variety; 2. 수사학적인
+* 제 감각이 최고치로 올랐어요 ;my senses have been dialed to 11
+* 넌 업그레이드가 절실히 필요해; YOu're in dire need of an upgrade; in need: 필요한 상황에 처한
+* 손을 잡다; 갑자기 혹은 세게 잡는 느낌; grab my hand; take과 grab은 잡는 순간을 많이 표현함; hold one's hand: 계속 잡고있는 느낌; holding hands; -ing와 만ㅇ히 쓰임 
+* 이 개들이 도움 되는거 확실해요? You're sure these dogs serve a purpose?
+* -에서부터 먼거리를 오다; drive/walk/fly all the way to/from; i drove all the way to Mann's dorm for nothing
+* 제 언어에 도입하고 싶네요; i might take that into my own vocabulary; one's vocabulary
+* 나가봐도 될까요? Can i show myself out? 배웅 받지 않고 나가기; <> I will show you out; 배웅
+* 계단으로 가는 대신에; Instead of taking the stairs
+* -행표, 티켓; tickets to 경기/쇼/장소; TIckes to the movie
+* 마음을 열어요; Open up your mind
+* 애썼어요; bend over backwards; bending over backwards to; i'm tired of bending over backwards for 
+you
+* 자신에게 노력하는 것; to work on yourself; work on 사람: 설득하기 위해 노력하다; i will work on her
+  * work on 사물; 향상시키기 위해 노력하다; I'm working on it
+* 스스로에게 확신이 있을떄만; only when you're full
+* 내가 너희를 내려칠거야; 무너뜨릴거야; i will strike down upon thee
+* 그의 눈이 너무 꽂혀있어서; His eyes were locked on to mine; lock on to
+* 너무; as balls/fuck/shit
+* 저주할거야; Curse you
+* 사람, 분위기에 잘 어울리다; i really feel like i fit in
+  * 시간이나 상황에 맞추다; we can fit in you
+* 악당; villain = 주인공: protagonist  [prəˈtæɡənɪst]  문학에서 말하는 주인공 대립되는 인물; antagonist   [ænˈtæɡənɪst] = bad guy
+* 그 외 그런것들; and stuff(like that
+* 단골; patron(혹ㅇ느 그냥 손님); regular customer, regular
+* 행복하다; my day is made; you just made my day
+* 참고로 말씀드려요; Just ast a side note
+* 외우다; leara a speech/lyrics/all the lines(대사)
+* 발가벗고 뽐내며 걸어다닐거야; i'll jus tstrut in my birthday suit
+* 네 얼굴을 맛있게 먹게될거야; They will feast on your powdered puss; 스콜랜드계 미국인이 자주쓰는 단어; puss: 얼굴, 상판/주둥이
+* 너무 뻣뻣하다 진지하다; have a stick up one's ass; 엉덩이에 막대기가꽂혀있따.
+* 돌아다니다; roam around; 2. 로밍 서비스 돌아다니며 쓰는 서비스; YOu're roaming around
+* 누가 즉흥 연기를 좋아하겠어요? Who needs improvising that way? 2. 있는 것을 가지고 -을 하다; = wing it
+* 어쩌다 이런 궁지에 빠졌을까? How did i get into this mess?
+* 과하게 -하지 말고; 스프링클 너무 많이 뿌리지 말고; Don't go nuts with the sprinkles
+* 저는 그들을 돕겠다고 나섰어요 ;She stepped up; to help them
+* 정신차려; Earth to somebody
+* 많이 까이다; get roasted; got roasted by a bunch of people
+* -하고 싶어 미치다; be dying/aching for; be craving for; would kill/die for
+* -는 무조건 해야지; - is a must
+* 별볼일 없는 배우야; he's just two-bit actor; small-time publisher; two-bit = small-time
+* 남자 웃통 벗은 사진; shirtless photo; 여자: topless
+* 저한테 너무 잘해주시네요; YOu're spoiling me
+* hassle은 노력을 필요로 하거나, 감정을 소모시킨는 걸 말한다; You're worth the hassle
+* because는 결과보다는 이유에 강조점을 두는 경우가 많다. 또 많은 이가 모르는 새로운 정보를 내포한다
+  * since는 because처럼 이유나 원인을 말할 떄 쓰지만, 원인이 핵심 정보가 아닐 때 쓰는 경우가 많고 듣는 이가 대부분 알만한 정보를 내포하고 있다.
+* 도망가다; on the run / run away
+* 걱정을 누그러뜨랃; assuage;  [əˈsweɪdʒ]  +  걱정: worry, concern; 슬픔: grief, sadness
+* 이야기가 어떻게 펼쳐질지 궁금하지 앟니? Aren't you curious to know how the story unfolds?; unfold: 이야기가 펼쳐지다
+* 웃기게 생긴 당나귀는 누구야? WHo's the funky-looking donkey? 1. 현대적이게 멋긴 2. 웃긴 3. 퀴퀴한 악취가 나는
+* 그렇다면 나야 좋지; (That) makes things easier for me; 여러 상황에서 쓰일 수 있다.
+* 내가 재워줄게; I'll be happy to tuck you in 2. 집어 넣다; he tucked in his shirt 3. 열심히 먹다; he was tucking in a large pizza
+* 우리는 강아지에게 공을 되찾아오게 가르쳤다; we taught our dog to retrieve the ball; retriever 강아지
+* 올림픽에 나갈 재능은 없었다; have what it takes to; Didn't have what it takes to go to the Olympics
+* 한번 타봐도 될까? Do you mind if i take it for a spin?
+* 애를 쓰다; go out of one's way; 항상 다니던 길에 벗어나 불편함 감수; they go out of their way to tell us
+* 무언가를 꼭 쥐고 달라붙고 관심가지고 혹한다; 사람에게 할 경우 친해지려고 한다; latch on to
+  * 직원들은 그 문제에 주목했다; Members have latched on to the issue
+  * 트렌드에 열중해왔따; have latched on to the trend of using consultants
+* 전환점이다; THis is only the tipping point for this industry
+* 내 주특기다; It's my shtick; 2. 개그맨들의 본인 특유의 개그, 루틴, 기믹 [ʃtɪk] 
+* 다른 사람의 경험에 푹 빠지다; to lose yourself in someone else's experience; lose oneself in
+* 관대히, 후하게 뿌려진 신선한 댜화; liberally sprinkled with 
+  * 가슴 아쁜 사연; poignant anecdotes; poignant memories/moment/regret [ˈpɔɪnjənt] 
+* 누군가 a를 존중하는 마음으로 b를 해주다; do a the honor of -ing B; do ourselves the honor of looking after our bodies; Will ou do me the honor of accompaning me to dinner?
+* 폭발물을 설치했다는 소동도 잉썼고; There was a bomb scare
+* 전 항상 놀림의 대상이었죠; I was the butt of every joke; 놀림의 대상
+* 몇번이고 되풀이해서; time and (time) again = again and again
+* 상황이 바뀌었어요; Things have switched hands; switch hands: 1. 소유자가 바뀌다, 주인이 바뀌다, 상황이 바뀌다.
+* break down, build up; 타동사, 자동사 모두 가능
+  * break down; 타: 무너뜨리다; you break me down; 자: 망가지다; He broke down in tears
+  * build up 쌓아올리다; build up one's confidence/strength; 자: 점점 쌓이다; The tension is building up
+* 진상/원인을 밝혀내다; I try to get to the bottom of something
+* 얼굴 자체는 아니에요; It's not, like, his face per se
+* 이 문제를 다룰 특별 회의가 열릴 예정이다; There will be an ad hoc meeting dealing with this issuel; ad hoc: 특별
+* 진짜 그의 몸이 아니고; not his body body; 사람들이 흔히 생각하는 몸을 의미; 부정문에서 두번씩 단어 반복하면 그 자체를 의미
+* 후속 질문 하나만 하면 돼요; i just need to ask you a follow-up question
+* 우리는 서로 잘 어울린다; we play off each other; 두가지 이상의 것이 서로에게 이점이 되도록
+* 문으 쾅 닫아버려; slam the door
 * 수습하는게 어려워요; hard to catch-up; 선두주자를 따라잡기 위해, 혹은 잘못 오류 등을 만회하려는 행위
 * 계속 -하다; keep -ing; keep on -ing; 행동의 계속을 강조
 * 늘상 하는 습관을 찾아보세요; find a simple ritual; 2. 의식

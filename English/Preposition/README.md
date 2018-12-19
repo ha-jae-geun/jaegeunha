@@ -1,3 +1,7 @@
+# 왜냐하면
+* because는 결과보다는 이유에 강조점을 두는 경우가 많다. 또 많은 이가 모르는 새로운 정보를 내포한다
+  * since는 because처럼 이유나 원인을 말할 떄 쓰지만, 원인이 핵심 정보가 아닐 때 쓰는 경우가 많고 듣는 이가 대부분 알만한 정보를 내포하고 있다.
+
 # to
 * 어개까지 내려오는 금발머리; she'g got the blond haircut down to her shoulders
 

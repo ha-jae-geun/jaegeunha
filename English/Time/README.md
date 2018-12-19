@@ -349,7 +349,6 @@
 * in the middle of 명사/동명사
 * #midst; in the midst of ~
 * 일하고 있는 중이야						 .I'm in the ##middle of working.
-* 과거의 일을 다시 체험하다 					 reliev the past/those moments
 * #중간급의 #mid-range
 * 식사 중간에 뭐 먹지 마라 					 Stop eating between meals
 * 우리는 #중간정도 했어요 					 1hӕf2weɪ We're halfway through.
@@ -381,19 +380,21 @@
 * 걔는 이미 지난일이야.							 He is history to me.
 * 옛날이 좋았지! 그때가 좋았지! 						 Those were the days!!!
 * #파란만장한 과거; #checkered past; despite your checkered past
-* 우리 사이 일은 다 지나간 일이에요.		 It's #water under the bridge between us.
-* 과거를 들추지 말라.. 						 Don't bring up the past!
-* #과거; the past is in the past; past is just past
-* #끄집어 내다 ##bring out the worst in someone; 나쁜 면을 보여주다
+	* 과거의 일을 다시 체험하다 					 reliev the past/those moments
+	* 우리 사이 일은 다 지나간 일이에요.		 It's #water under the bridge between us.
+	* 과거를 들추지 말라.. 						 Don't bring up the past!
+	* #과거; the past is in the past; past is just past
+	* #끄집어 내다 ##bring out the worst in someone; 나쁜 면을 보여주다
+	* 과거가 파란만장하셔서 말이죠; checkered past; 파라만장하거나 우여곡절이 많은 과거사
 * 올 한해 마무리 잘해~!						End this year on a good note!
-* I hope you finish the year stron,g I hope you enjoy the rest of the year
-* 10년 후에는 어떻게 세상이 변할지 궁금해 I'm wondering what the future will hold in 10 years for us
-* 미래가 #캄캄하다 I have a #bleak future
-* 미래가 어ᄄᅠᆯ지 궁금해 I wonder the future #holds
-* 앞으로 어떤 일이 일어날지 모른다. 		 You never know what might happen down the road
-* 바로 앞에 있잖아 							It's right under your nose.
-* #장래에 #down the road(#road); drive down this road(운전); that's down the road(나중에)
-* 미래 #앞으로
+	* I hope you finish the year stron,g I hope you enjoy the rest of the year
+	* 10년 후에는 어떻게 세상이 변할지 궁금해 I'm wondering what the future will hold in 10 years for us
+	* 미래가 #캄캄하다 I have a #bleak future
+	* 미래가 어ᄄᅠᆯ지 궁금해 I wonder the future #holds
+	* 앞으로 어떤 일이 일어날지 모른다. 		 You never know what might happen down the road
+	* 바로 앞에 있잖아 							It's right under your nose.
+	* #장래에 #down the road(#road); drive down this road(운전); that's down the road(나중에)
+	* 미래 #앞으로
 * #현재 #지난 #과거# ##전# #구식 #옛날 스타일 #옛날 #미래 #올해 | #들추다
 * 형용사: #prior, #previous #former
 * 전치사구; #prior to, #previous to, #ahead of #before #earlier than #in advance of

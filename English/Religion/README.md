@@ -20,3 +20,4 @@ If you do not obey the rules when drawing religious painting, it is blasphemy.
 In Florence, a perspective was introduced in religiosity.
 * [명사] (특히 성경의 십계명(the Ten Commandments) 중 한) 계명 commandment 미국식 [-ˈmæn-]  영국식 [kəˈmɑːndmənt]   단어장추가  중요
 * 감사기도 드리니 Say grace; Let's say grace 2. 유예기간
+* 대부분의 종교는 사랑을 구원하는 힘을 가지고 있따; Most religions have the redemptive power of love [rɪˈdemptɪv] 

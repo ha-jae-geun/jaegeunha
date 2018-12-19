@@ -4,6 +4,7 @@
 * 그 감정을 명확하게 드러내 보세요; Emote that
 * 잠시 틈을 두고 그 불이 사그라드게 두세요; let that fire die down, through a pause
 
+* 걱정을 누그러뜨랃; assuage;  [əˈsweɪdʒ]  +  걱정: worry, concern; 슬픔: grief, sadness
 * 기분 전화이 필요해; i need a diversion
 * 나는 지금 기분이 약간 이상하다. I'm in a weird headspace right now. 
 * #감정
@@ -776,6 +777,7 @@
 
 # 부담
 * 부담주다; put this on my #shoulder
+	* 부담스러워? Am i too much?
 	* 부담을 견디지 못했어; We couldn't take the heat
 	* #부담 지우다; #burden down
 	* I don’t want to burden you = I don’t make you uncomfortable  = he is pressing me
@@ -1373,6 +1375,7 @@
 * #score card
 * #prasie는 보통 #숭배하다, compliment; He complimented me
 * #fetish; #집착
+	* 집착하다;  be fixated on [fíkseit = be obsessed with 
 * 평가를 부탁해도 될까요? 						can I get your verdict?
 * 카스티요를 좀 더 지켜보고 평가를 하고 싶어 할 것이다. The team will also want to further size up Castillo
 * 그 사람은 평판이 좋아 					 The guy's got good word of mouth. 

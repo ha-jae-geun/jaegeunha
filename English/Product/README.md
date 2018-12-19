@@ -7,6 +7,7 @@
 * 흥정 가능; i am open to offers; Price negotiable; OBO(Or Best Offer: 제시 값 제일 높은 사람)
 * 손해 볼 수 없어요; I can't incur a loss; I can't take a loss
 * 원하는 대로 골라; Take your pick
+* 무료로 해주다; do something for free; complimentary, for free, on the house
 
 # 상품
 * 상표가 없는 브랜드들; Generics

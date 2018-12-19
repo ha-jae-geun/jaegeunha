@@ -150,6 +150,7 @@
 * 너 아빠 닮았구나 						 You take after your father.
 	* ‘아빠, #아저씨 									pops, #mister
 	* 생부; biological dad; biologically related
+	* 자신의 아버지; my old man
 * #sugar daddy; 그렇고 그런목적으로 스폰하는 아재/할배들
 * 네 아들이 부인의 전 남친과 똑 닮다 Your son is the splitting image of your wife's ex boyfriend.
 * 그 친구들 정말 닮았더라고! 		 완두콩 pɑ:d: 꼬투리 They look like two peas in a pod. 

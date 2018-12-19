@@ -1,3 +1,6 @@
+# 음식
+* 훌륭한 요리 달콤한 음식, 간식: treat; 주로 달콤한 비스킨이나 간식 종류를 의미
+
 # tool
 * 후라이펜을 중불에 예열해라; preheat nice big skillet on medium high [skílit] 
 * 체; sieve; 과일 채소 물빼는 체; colander; 집개; tongs
@@ -23,6 +26,7 @@
 * 두 그릇으로 나눠 주세요; Could we have this in two plates
 
 # Ingredient
+* 과하게 -하지 말고; 스프링클 너무 많이 뿌리지 말고; Don't go nuts with the sprinkles
 * 과자; confectionery 미국식 [-ʃəneri]  영국식 [kənˈfekʃənəri]; 제과 공장; a confectionery plant 
 * 토핑이 덜 있어서 그런걸 수도 있어요; because there are less toppings
 * 얇게 썰어 쪽 찢은 고기; sliced, shredded meat; shred: 장조림이나 맛살처럼 길고 가늘게 자르거나 뗴어네는 것

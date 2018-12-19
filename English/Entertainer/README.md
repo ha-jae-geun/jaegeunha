@@ -2,6 +2,8 @@
 * 광고 보시고 잠시후에 돌아오곘습니다; We'll be right back after a few words from our sponsors
 * 꽁트에 참여해주셔서 감사행; Thank yoou for being involved in that sketch
 * (음반, 영화)판촉물/광고를 만들었따; they made a promo video
+* 내일 시청해주세요; Tune in tomorrow
+	* 채널 고정; Stay tuned for
 
 # Radio
 * 라디오 날씨 최신 정보를 듣고 계십니다; YOu are listening to Radio weather update
@@ -17,6 +19,9 @@
 
 
 # 연예인
+* 세간의 주목을 받으면: When you're in the public eye; in the public eye
+* 내 주특기다; It's my shtick; 2. 개그맨들의 본인 특유의 개그, 루틴, 기믹 [ʃtɪk] 
+* TV 광고를 찍다; shoot a TV commercial
 * 관심이나 인기를 독차지하다; steal the show
 * 레옹에 캐스팅 됑써요; I was 11 when i was cast n the Professional
 * 대사 연습을 해볼게요; we're going to do some run-throughs on lines
@@ -55,6 +60,8 @@
 * 영화배우가 될 운명이야; She's destined for the screen
 * 하나 더 완성했다; 영화촬영 완료; Another one in the can
 * 저기 죄송한데, 혹시 발 좀 조심해주시겠어요? Excuse me, Could you please be careful with your feet?
+* 조연 역할을 따냈죠; Emma scored the supporting role
+	* 어떤 배우에게 비슷한 유형의 고정 배역을 주는 것; typecast; we might get typecast
 
 # Entertainment
 * #감식가: #connoisseur[|kɑ:nə|s3:r;-|sʊr] 

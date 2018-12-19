@@ -58,3 +58,4 @@
 # 아기
 * 흔들어 재워줄게; i'm gonna rock you
 	* 자장 자장; rockabye / rock-a-bye / hushabye(hush: 조용; 울지말고 조용히 꿈나라로 가라)
+* 내가 재워줄게; I'll be happy to tuck you in 2. 집어 넣다; he tucked in his shirt 3. 열심히 먹다; he was tucking in a large pizza

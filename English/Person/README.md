@@ -4,8 +4,10 @@
 # 기타
 * 똑똑한 척 하는; fancy-pants(값비싼 바지) fancy-pants tool; 형용사 2. 멋쟁이; 
 	* 허풍을 떨다; He's kind of larger than life
+	* 너무 자신만만해; She's so full of herself; bragging: 물건 자랑
 * 추종자들이 있는 권위자, 전문가; guru; 흰두교에서는 종교적 스승, 지도자   expert: 사람들의 전중ㅇㄹ 받는 전문가
 * 그는 독보적이다; He's a one of a kind
+	* 최고에ㅇ; She's a top shelf lady
 * 어중이 떠중이; rabble(2. 왁자지껄하게 모여있는 사람들)
 * 혼혈 ; mixed-blood, (offensive) half-breed, (offensive) half-caste
 * 남편, 상대, 아내, 여자친구; significant other
@@ -34,6 +36,12 @@
 * 책략자; mastermind
 * 운동을 잘하는 사람, 열렬한 사람, jock(enthusiast)
 * 사람 잡아먹는 괴인; ogre 미국식 [ˈoʊ-]  영국식 [ˈəʊɡə(r)] 
+* 사족을 못쓰는 사람; a sucker for -
+* 영향력이 있는 중요한 사람; a big deal
+* 현지인이다; local
+* 자신의 아버지; my old man
+* 방랑자; hobo; 돌아다니다; roam around, wander around
+* ㅊ남에서 매력남으로; transform you from ugly to irresistible
 
 # 나이
 * 어느새 18살이 됐어; Fast forward to 18
@@ -176,6 +184,7 @@ would be the last person to 동사원형; ~할 사람이 절대 아니다
 * 사기를 #꺾다; #demoralise
 
 ## 여자
+* 성 평등을 우선시하다; make gender equality a priority; make/consider A a priority
 * 기지배; Is that the skank
 * 섬머슴이다; ~ is tomboy
 * #탈것; #애마; #horse, #ship을 ##she라고 표현

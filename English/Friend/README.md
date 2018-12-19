@@ -30,3 +30,4 @@
 
 # 싸우다
 * 한대 치려고? 절대 못할거? You gonna make a move? i doulbe dare you
+* 한번 겁나게 붙어보다; It is on like DOnkey Kong; Kong은 게임 동키콩의 주인공이자 주인공 이름

@@ -6,6 +6,8 @@
 * 이러다찔릴거야; i'm gonna be impaled(날카로운 것에)
 * 당신이 이야기해; Over to you
 * 다양한 모양과 크기의 일본 마스코트들도 모두 있죠; That includes Japanese mascots in all shapes and sizes
+* -는 왕국은 끝난다; - is done for
+* 도전을 받아들일 수 있어; we can take on your challenge
 * 간단히 쭉 설명해드릴게요; Let me give you the quick rundown
 * 뽑기에서 걸려버렸지 뭐예요; i drew the short straw
 * 입양 갈 곳을 알아보고 다시 싱글로 돌아가야겠네요; i am now putting myself up fo adoption and then single

@@ -343,7 +343,8 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #trick; tricks on me
  * 쟤랑 #자고싶다 . 						I wanna screw/fuck him so bad.
  * 떡 						 ride, got banged | got laid | smash
- * #hit 속어: 성관계하다
+ 	* #hit 속어: 성관계하다
+ 	* 한 가지만 생각하다, 주로 sex; you ain't got a on-track mind
  * #panky; #hanky-panky
  * 술먹으면서 마리화나 피우며 떡; #sippy on the panky
  * 부부생활 할 떄 침실로 들어와여; SHe only comes to the bedroom when it's time to be intimate
@@ -561,8 +562,10 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #옛정을 생각해서 #for old time sake
  * #반하게하다; #swept off one's feet
 	 * 반하다; i'm #smitten with you; #smite; 갑자기 홀딱 방하다
+	 * 누군가를 반하게하다; sweep someone off their feet; i can't sweep you off of your foot
 	 * 그는 당신에게 반했어요; he fancies you
 	 * 마음을 훔치다; steal one's heart
+	 * -에게 성적 호기심을 가지다; have the hots for somebody
  * #풋사랑; #calf love = #puppy love
  * 사랑스럽네요 								 That’s a lovely touch
  * #인정 많다 ##정; have a good haeart

@@ -55,6 +55,8 @@
 ----------------
 
 ## 단위 unit, measure a 단위 or two; I've got an hour or two
+* 미터; we're not metric; metric <> imperial(야드법)
+	* metric/imperial system of measurement
 *  #lb: 0.45(파운드)  F: 32(0), 100(37.9), 212(섭씨100)  
 * mile inch: 2.54 fl.oz: 29.6ml
 

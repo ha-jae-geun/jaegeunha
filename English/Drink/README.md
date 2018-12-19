@@ -100,11 +100,12 @@
 * #slizzard = #Intoxicated
 * #turnt; i'm so turnt
 * #reel; 비틀 거리다; 취하다
-* #get drunk; 취하다; I get drunk on very little alcohol
-* he has #one too many
-* i’m sobering up(동사), you must sober up
-* 자고 일어나면 술이 깰 거야						 The wlill sleep it off
-* 취하지 않은 상태 						 sober나 stone-cold sober	
+	* #get drunk; 취하다; I get drunk on very little alcohol
+	* 마시고 취하자; Let's get drunk on wine
+	* he has #one too many
+	* i’m sobering up(동사), you must sober up
+	* 자고 일어나면 술이 깰 거야						 The wlill sleep it off
+	* 취하지 않은 상태 						 sober나 stone-cold sober	
 * #애주가 							heavy drinker나 drunkard
 * 술자리를 좋아하는 사람 to drink socially a social drinker
 * 술마시는걸 줄이다.							 they taper their drinking

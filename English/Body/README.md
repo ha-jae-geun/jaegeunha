@@ -153,6 +153,9 @@
 * √ 반면, You should get in shape ----> 몸을 좀 가꾸는게 좋겠네요 라는 의미 (살을 좀 빼는게 좋겠네요 라는 의미로도 쓰임)
 * √ buff 복습 --> He was spotted on the beach looking extremely buff (그는 끝내주는 몸매를 보여 그 해변에서 단연 눈에 띄었다)
 * √ Speaking of healthy habits, you should start getting up at 6 from tomorrow (건강습관 얘기 나온김에 낼부터 아침 6시에 일어나봐)
+
+# 몸
+* 진짜 그의 몸이 아니고; not his body body; 사람들이 흔히 생각하는 몸을 의미; 부정문에서 두번씩 단어 반복하면 그 자체를 의미
 * 몸에 좋다 			 it's good for you it's healthy, it's good for 설명(circulation)
 * 멀쩡한; ##intact(2. 고장나지 않은)
 * #athletic, #fit, #healthy - 건강한, 탄탄한 <-> feeble - 연약한
@@ -218,6 +221,7 @@ he was #straight-faced through the entire meeting = #poker face
 * #표면상의; #ostensible
 * ~속에서; #in the face of
 * #얼굴형은 #계란형이다; her face is #oval
+	* 네 얼굴을 맛있게 먹게될거야; They will feast on your powdered puss; 스콜랜드계 미국인이 자주쓰는 단어; puss: 얼굴, 상판/주둥이
 his face is rather #round; 조금 둥근 편이다
 what's his/her face; 누군지 얼굴은 알지만 이름이 생각 안날 때 이름 대신하는 명사로 사용
 * 전화 받다 What's her face is on the phone(이름 모르겟지만 전화 왔어, 기다릭 있어) get the phone
