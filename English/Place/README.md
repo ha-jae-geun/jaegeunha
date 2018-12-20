@@ -2,6 +2,7 @@
 * *do you have a place #in mind?
 * I know a place that ~
 * This is my kind of place. (여기는 딱 내가 좋아하는 그런 곳이에요
+* 여기 바로 앞에; Right up here, 
 * ---------------------------------------------------------
 * ☆~한 부분에서 가장 좋은 점은 ~다; the best part of ~ is ~
 * ☆the best thing about ~ is ~

@@ -22,6 +22,7 @@
 * 보조 배터리 있어; i have a power bank
 
 # 사진
+* 화질 안좋은것 봐; IT's so pixely
 * 남자 웃통 벗은 사진; shirtless photo; 여자: topless
 * 얼굴 사진, 상반신 사진; mugshot
 * 대강 찍음; hip shot/blind fire; no more hip shots or blind fire

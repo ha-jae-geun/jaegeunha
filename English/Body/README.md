@@ -1,3 +1,6 @@
+# 기타
+* 눈과 귀를 막고; we cover our eyes and ears
+
 # 머리
 * 뇌; 머리가 멍했어; Brain fart; brain fade
 * 머리에 떔빵은 안 났거든; i dind't give myself a bald spot

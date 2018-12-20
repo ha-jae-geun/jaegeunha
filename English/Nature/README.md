@@ -24,12 +24,13 @@
 # 환경
 * 꽃 구경가요; Let's go to view the flowers
 	* 아름다운 산맥이 있어요; You have gorgeous mountain ranges
+	* 꽃가루가 너무 날려; There's like a ton of pollen in here  [ˈpɑːlən]
 * 기후 변화에 보다 잘 견디는 식물; be more resilient to climate change
 * 오염시키다; contaminate; 곰팡이, 박테리아, 세균 등에 오염; a can of soup contaminated with this kind of mold p
 	* ollute: 불순물의 혼합, 직접적인 접촉, 일반적인 여러 원인에 의한 오염; 
 * 음식에 피는 곰팡이는 너무 다양해서; since so many types can sprout up on food
 * 빵 덩어리 전체가 균으로 가득찰 수 있따; the entire loaf could be teeming with fungus [ˈfʌŋɡəs]
-
+* 신선한 농산물을 수확하다; pick fresh produce
 
 ## 지진
 * 진원지에서./; at the epicenter 미국식  영국식 ; épəsèntər]

@@ -60,6 +60,7 @@
 ## 신발
 * 남성: 240: 6, 250: 7, 260: 8
 * 여성: 220: 5, 230: 6
+* 카우보이 부츠; hop-a-long-boots
 
 
 ##옷 #의복 wear <> put, try on: 관사에 주의 attire=outfit [ə|taɪə(r)]
@@ -118,6 +119,7 @@
 * #slumber party
 * #내복	#long-johns
 * #속옷	panty: 여자 속옷 | wearing underwear(공용) } 
+  * 속옷이 엉덩이에 끼는것; wedgie; get a wedgie; give someone a wedgie [ˈwedʒi]
 * briefs(하얀 삼각 팬티), boxers(사각)
 * #보조 후크	#브라끈 #bra strap
 * 브라는 위로 잘ㅈ ㅏㅂ아주면서도 부해보이지 않는다; this bra can keeps you buoyant without adding bulk  [ˈbuːjənt]

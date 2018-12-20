@@ -387,8 +387,9 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #RUH: 						 Are you #Horny?: #흥분했니?(2. 남자의 성기)
  * 거기가 사막; 건조; 말라있을까봐 신경이쓰에요; self-conscious of being dry
  * 성적으로 흥분된다; I'm dripping wet(여자) = sexually aroused; sexually arosing; 흥분하게 하는
- * 성적으로 흥분 freaky, freak out
- * 성적으로 흥분; #randy; there's a time and place for your randy dog stories
+ 	* 성적으로 흥분 freaky, freak out
+ 	* arouse
+ 	* 성적으로 흥분; #randy; there's a time and place for your randy dog stories
  * #페티쉬; ##fetish; 이성의 옷 입음; #transvestite, 맞거나 고통 받는 것에 의한 쾌감: Majochist
  * #쾌감 상실; #anhedonia 미국·영국 [æ̀nhi:dóuniə]; social/orgasmic
  * 아동에 대한 추행: #pedophile #바바리맨: #flasher
@@ -404,13 +405,13 @@ I have a big crush on you / I have a thing for you, i'm into you
  	* 게이라는걸 숨기고 잇죠. 커밍아웃을 하려고 해요; He's closeted, he's coming out of the closet
  * * 창녀; hooker
  * #빨보 해주다 			 give me head and man ; gave me the best head last night
- * #give me brain; #brain
- * 				 = go down on me , went down on me
- * #엄지 빨다 #suck his thumbs
- * ~이나 빨아줄래 								 I just want that head
+	 * #give me brain; #brain = go down on me , went down on me
+	 * #엄지 빨다 #suck his thumbs
+	 * ~이나 빨아줄래 								 I just want that head
  * #박다 										 #plug for her
  * #강하게 하다 #jackhammer
  * #사정; #ejaculate on my face = I’m #cumming
+ 	* release inside you
  * 피임; contraception; 피임약, 피임기구; contraceptive ˌkɑːn-]  영국식 [ˌkɒntrəˈseptɪv] 
  	* 사후 피ㅁ임약; morning after pill
  * 혼전 합의서; prenup prí:nʌp]; Doing a prenup forces the couple to have a conversationl pre prenup: 동거, 연애 할 때 만드는 합의서
@@ -422,6 +423,7 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #오르가즘; get #rocks off
  * #eat out; 남자가 여자의 겉에있는 것을 먹다
  * #문란한 #호색 #음흉 #음란 [prǝmískjuǝs] promiscuous = #lecher #obscene
+ 	* 외설적인 행동/농담/암시 lewd behaviour/jokes/suggestions; 미국식 [luːd]  영국식 [ljuːd] 
  * ~ 성에 눈뜨다; sexual awakening; i went into my sexual awakening
  * #선정적 내용; #contain #sensitive content
  * #학대 #비디오; #abuse video
@@ -562,6 +564,7 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #옛정을 생각해서 #for old time sake
  * #반하게하다; #swept off one's feet
 	 * 반하다; i'm #smitten with you; #smite; 갑자기 홀딱 방하다
+	 * 그냥 빠져봐; Just dive right in
 	 * 누군가를 반하게하다; sweep someone off their feet; i can't sweep you off of your foot
 	 * 그는 당신에게 반했어요; he fancies you
 	 * 마음을 훔치다; steal one's heart

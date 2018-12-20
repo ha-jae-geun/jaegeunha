@@ -5,6 +5,8 @@
 * 똑똑한 척 하는; fancy-pants(값비싼 바지) fancy-pants tool; 형용사 2. 멋쟁이; 
 	* 허풍을 떨다; He's kind of larger than life
 	* 너무 자신만만해; She's so full of herself; bragging: 물건 자랑
+	* 잘난 척 하긴; SHow off
+* 평범한 건 원하지 않아요; We don't want the standard
 * 추종자들이 있는 권위자, 전문가; guru; 흰두교에서는 종교적 스승, 지도자   expert: 사람들의 전중ㅇㄹ 받는 전문가
 * 그는 독보적이다; He's a one of a kind
 	* 최고에ㅇ; She's a top shelf lady
@@ -41,7 +43,13 @@
 * 현지인이다; local
 * 자신의 아버지; my old man
 * 방랑자; hobo; 돌아다니다; roam around, wander around
-* ㅊ남에서 매력남으로; transform you from ugly to irresistible
+* 추남에서 매력남으로; transform you from ugly to irresistible
+* 참전용사; vet; veteran 2. 수의사
+* 겁쟁이; yellow
+* 옛날 사람들; old time people
+* 아름다운 너와; shawty(흑인 슬랭에서 비롯됨): 아름다운 여성
+* 13살의 나에게 한마디 한다면; If you could send a message to your thirteen-year-old self
+* 인류는 공룡과 매우 달랐다; Man was very different from the dinosaur
 
 # 나이
 * 어느새 18살이 됐어; Fast forward to 18

@@ -51,6 +51,19 @@ you
 * 과하게 -하지 말고; 스프링클 너무 많이 뿌리지 말고; Don't go nuts with the sprinkles
 * 저는 그들을 돕겠다고 나섰어요 ;She stepped up; to help them
 * 정신차려; Earth to somebody
+* 화 낼 필요가 없다; THere's no need to be indignant 
+* 문제가 있는, 정서적으로 문제가 있는; messed up vets
+* yellow; 겁이 많은 2. 사랑하는 사대를 향한 아름다움(콜드플레이 - Yellow
+* 기대보다 낮다; better than i expected; 부정적으로 들릴 수 있다; even(a lot) better than i expected
+* 각오해, 단단히 마음먹거; buckle up 2. 안전벨트
+* 가치있다; 사람 got what 사람 deserved 2. 사람 deserved what 사람 got; She deserved what they got
+  * 이런 대접 받아선 안되지; They deserve better(than that)
+* 아무것도 몰랐었지; i was completely ignorant
+* 꽉 안아줘; GIve me a big hug; big kiss/smile
+* 얼른; COme on 2. What are you waiting for
+* go over 1. 자세한 사항을 검토하다; Let's go over the rules; 2. 뭔가를 익히기 위해 검토하다; i need to go voer my notes
+* 너무 전잔 빼지 마세요; DOn't be too prissy [ˈprɪsi]
+* 평범한 건 원하지 않아요; We don't want the standard
 * 많이 까이다; get roasted; got roasted by a bunch of people
 * -하고 싶어 미치다; be dying/aching for; be craving for; would kill/die for
 * -는 무조건 해야지; - is a must

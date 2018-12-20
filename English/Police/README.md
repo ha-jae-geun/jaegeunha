@@ -31,6 +31,7 @@
 * 수상한 남자를 데리고 있다; they've got this creeper guy
   * 수상해보여; seems a bit dodgy
   * 수상한걸 느꼈어요; i started noticing some sketchness
+  * 기만적인 정치가 a devious politician 
 * 쟤가 스파이야; he's the rat
   * 몰래 관찰하는게 기대된다; i can't wait to be a fly-on-the-wall
   * 스토킹; 네가 스토킹을 당하고 있었다고 했잖아. You said you were being stalked.

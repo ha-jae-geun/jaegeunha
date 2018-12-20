@@ -11,6 +11,7 @@
 * 토스트를 토스터에 넣었다; i put the bread into the toaster
 	* 그것이 튀어나올 때 까지 기다려야 했다; i had to wait for it to pop up
 	* 빵이 다 됐을 때 버터를 발라 먹었다; when the bread was done, i spread lots of butter
+* (전자레인지) 핑ㅇ소리가 들린 것 같으니까; i think i just heard a ping
 
 # 고기
 * 안심; filet mignon; filet mignon
@@ -26,6 +27,7 @@
 * 두 그릇으로 나눠 주세요; Could we have this in two plates
 
 # Ingredient
+* 후추 한 꼬집을 넣었어; i put a pinch of pepper in her mouth
 * 과하게 -하지 말고; 스프링클 너무 많이 뿌리지 말고; Don't go nuts with the sprinkles
 * 과자; confectionery 미국식 [-ʃəneri]  영국식 [kənˈfekʃənəri]; 제과 공장; a confectionery plant 
 * 토핑이 덜 있어서 그런걸 수도 있어요; because there are less toppings
@@ -88,8 +90,11 @@
 * 양념이 잘 밴게 정말 마음에 들어; I like the way they soak up your sauce
 * 조합이 아주 좋다; ~ is winning combination
 * 게걸스럽게 먹다; gobble up; He gobbled down his breakfast
+* #미끄럽고 #미끈거리는 식감이 있네	kind of slimy, slithery texture
+	* 식감만큼은 괜찮아; THey're quite nice in texture
 
 # Cooking
+* 부풀었고, 예쁘고, 가볍고, 푹신해요; It rose up, it's lovely, light and fluffy
 * 저는 요리하는 손이라서 괜찮아요; i've got cooking hands
 * 달걀을 1분간 휘저으세요; Beat the eggs/cream until fluffy
 * 1대 2 비율로 섞어요; mix this in a 1:2 ratio; 1 to 2
@@ -580,7 +585,6 @@
 * 불쾌한 상황	#sticky situation
 * #질리지 않아? 	Didn't that put you off?
 * 튀긴 버섯이 #신의 한수네. 		 	The deep fried mushroom really works.
-* #미끄럽고 #미끈거리는 식감이 있네	kind of slimy, slithery texture
 * #바삭바삭한	#crispy, #crunchy, #crumbly - 바삭바삭한 
 * #걸쭉	#pulpy
 * #촉촉	#succulent; #steamy on the inside

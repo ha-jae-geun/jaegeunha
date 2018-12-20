@@ -6,6 +6,7 @@
 
 # 단어
 * 계약 내용을 정리해야 한다; Sort out the contracts
+	* 내가 처리해야 할 일이 좀 있더라고; I got to get on top of; get on top of
 * 취직하다; i finally landed a job
 * 아직 근무중이었어; i was still on the clock
 * 직업병; 습관: occupation hazard; 진짜 병: occupational disease
@@ -15,6 +16,7 @@
   * 어떻게 돌아가는지 알려주다; show someone the ropes
 * 본업; He still has a day job; 부업: side job
 	* 짭짤한 부업이 되었다; My hobby has become quite a profitable sideline
+* 밀린 일이 조금 있어; i've got a backlog of some cases
 
 # 미팅
 * 단도직입적으로 물어봤습니다; I asked her point-blank
@@ -149,6 +151,7 @@ mr ~ in marketing
 * #해외사업부; #overseas business division
 * #국내물류부 #Logistics management dept
 * #연구기획팀; #R&D Planning team
+	* 그리고 제가 특별 연구도 시작했거든요; I've already started my fellowship; fellowship(대학, 병원의 특별 연구원)
 * #통신연구소; #commuication research center
 * #생산관리팀; #manufacturing control team
 * #공장관리팀; #factory planning team

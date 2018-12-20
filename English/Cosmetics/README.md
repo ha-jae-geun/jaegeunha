@@ -11,6 +11,7 @@
   * '그는 피부에 잡티 하나 없어요.' "He has no blemishes on his skin.
 
 # 피부 
+* 끝을 그리다가 살짝 망한 것 같을떈; If the wing's ruined
 * 화장이 잘 안받는것 같애; i think my makeup is not blending in
 * 푸석푸석해; i have dry skin; The weather is drying my skin
 * 피부 탄력이 없어진것 같애; my skin is loosing its elasticity; ˌiːlæˈstɪsəti;ˌelæ-;ɪˌlæ-]

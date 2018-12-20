@@ -24,6 +24,7 @@
 *  나는 이렇게 갇혀있는 것이 싫어.  I don ' t like being cooped up like this . 듣기
 * 집집마다; from door to door
 * 천장이 낮아; It's low clearance; 물체 사이 좁은 여유간격
+* 온돌이 안좋은가 보네; YOou don't like floor heating
 
 # 주방	it has a; #gourmet kitchen; 프로급 주방
 

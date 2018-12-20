@@ -49,6 +49,7 @@
 * 내가 봤을 땐; The way i see it
 * 실례하지만; If yoou'll excuse me
 * 말하자면 말이지; , so to speak
+* 요새; At the moment; 2. At the moment of --; 당시 그때
 
 # 질문
 * 왜이렇게 오래걸려? WHat's taking so long?
@@ -70,6 +71,9 @@
 * 무슨 일 있었어? What'd i miss
 
 # 대답
+* 그런가? You reckon?
+* 돌 던질만큼 가까운 거리; A stone's throw
+* 맞아; Touche
 * 들으셧죠; There you have it
 * 말도 안되는 소리; Don't be absurd
 * 샤넬이 절박하게 필요해; YOu're in desperate need of Chanel

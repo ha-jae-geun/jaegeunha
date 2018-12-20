@@ -1,3 +1,4 @@
+* 한 선수가 경기동안, 상대편 선수들로 부터 압박을 받고 ㅣㅆ으면서 패스하려고 보고있다. A player looks to pass under pressure from opposing player during the game; 방향 생각
 * Mom; 음-마-음; i don't; 도운; 동그라미; want; 워-언 입술 모으고 콧소리; another' (어)나더r; lecture; 렉-셜
 * debris;   [dəˈbriː] s ㅁㄱ음
 * Ashma; 애스마, Pizza; 피-쯔아, iron; 아이얼ㄴ; banquet; 뱅쿠엩; rural; 룰얼; discretion; 디스크래션; epitome; 에피트미;  [ɪˈpɪtəmi] 완벽한 본보기

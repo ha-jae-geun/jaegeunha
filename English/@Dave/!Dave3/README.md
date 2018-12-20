@@ -1,4 +1,7 @@
 * 운이 좋구나; You're in luck
+* 동점일거에요; It's gonna be a tie
+* 저흰 이사회에 새로운 구성원을 뽑을 거라구요; We are voting on a new member of the board
+* 그건 논외에요 ;THat is out of the qeustion
 * 개가 날 지치게 하고있어; These puppies are really wearing me out
 * 첫 소감은? Any first thoughts?
 * 초보자들이 하는 실수야; Rookie mistake

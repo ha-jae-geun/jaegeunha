@@ -41,7 +41,7 @@
 * 기온이 급강하는것 같ㅇ았고; when the temperatures seemed to plummet
 * #arctic, #freezing, #chilly - 추운 
 * 춥다 속어							 piercing/biting cold, brick
-* *너무 춥다 속어 				 It's freaking cold so my ass/ears/nose is about to fall off
+* 너무 춥다 속어 				 It's freaking cold so my ass/ears/nose is about to fall off
 * i'm like an iciclee(고드름), it's freezing(기온 영하), it's damn/fucking freezing, Brrrrr
 * 기온이 #영하로 떨어지다 the temperature falls below zero
 * #subzero temperature; #polar vortex #windchill factor 
@@ -97,6 +97,7 @@
 * 추위에 떨다; #tremble with(from xx); #shake with = #shiver with cold
 * ‘#응고 								#solidified, #clotting; #blood clot
 * 너무 추워서 장갑을 끼지 않으면 안 되는 날씨예요.		 It’s too cold to go without gloves on.
+	* 손이 얼다; My hands are going numb
 * ☆#biting cold; work out in the biting cold; 
 * it's freezing out there
 * i'm freezing to death

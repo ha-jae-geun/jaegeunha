@@ -22,6 +22,7 @@
 *  일제 강점기는 우리 민족의 수난기였다 The Japanese occupation period was a time of tribulation for our nation
 	* 지배;  under the colonial administration of imperial Japan
 	* rull over the non-magical beings
+* 참전용사; vet; veteran 2. 수의사
 
 # 단어
 * 내가 작전 설명하는데? While i'm breaking it down?

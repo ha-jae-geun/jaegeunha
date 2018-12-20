@@ -61,6 +61,7 @@
 * 시험자는 체력장에서 허리 힘을 검사 받는다.An applicant is tested for back strength at a physical examination(체력장) as others wait for their turn
 ---------
 * 「스포츠」 	#스포츠
+* 한 선수가 경기동안, 상대편 선수들로 부터 압박을 받고 ㅣㅆ으면서 패스하려고 보고있다. A player looks to pass under pressure from opposing player during the game; 방향 생각
 * 심판; 축구, 농구, 권투: refree; ref; 야구, 배드민턴, 탁구: unpire; 체조, 스케이팅, 다이빙 등 점수 매기는 것; judge
 * 8세 이하 선수권 대회에 등록했어; They signed me up for the eight-and-under championship
 * 맨 앞 좌석을 구했어요; We've got front row seats

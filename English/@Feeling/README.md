@@ -1149,6 +1149,7 @@
 
 # 우울
 * 울적해하다; She languishes in the bath
+	* 우울한; godforsaken; 신에게; forsaken: 버림받은
 * 침울한 표정 짓지마; don't look go slum
 * 눈물이 나다; i got teary-eyed
 	* 눈물을 모아 담을 수 있다면; If teardrops could be bottled
