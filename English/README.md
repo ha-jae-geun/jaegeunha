@@ -3,11 +3,13 @@
 ------------------------
 
 # 사전
+* 옥스포드 영영사전; https://www.oxfordlearnersdictionaries.com/
+* 캠브리지 영영사전 https://dictionary.cambridge.org/
 * https://www.urbandictionary.com/
 * 어원; https://www.etymonline.com/
 * 예문; http://youglish.com/
+* 영어 약어 사전 http://www.abbreviations.com/
 
-[Composition 1](./Composition1/README.md)
 
 
 ##영어
