@@ -30,6 +30,7 @@
 * #reveal; it's just revealed to me
 * #unveil
 * 그 친구 자신의 감정을 드러내는 법이 없어.	 He's never been one to wear his heart on his sleever.
+	* 꿋꿋한 모습을 보인다; keep a stiff upper lip; 윗입술을 움직이지 않는다. 감정을 얼굴로 표현하지 앟ㄴ는다.
 * ~를 ~adj하게 느끼다 								find someone adj
 * ##드러내다 #느끼다
 * ☆진자하게; #in all seriousness, ~

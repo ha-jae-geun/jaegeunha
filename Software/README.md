@@ -1,7 +1,7 @@
 # 윈동
 * 한글
-* 깃허브
-* 
+* 깃허브: https://github.com/ha-jae-geun
+* 블로그: http://jae-jae.tistory.com/
 
 # 한국 IT
 *  레딧, 테크런치, 엔가젯, cnn, ted, 슬래시기어, 와이어드, 매셔블, 씨넷
@@ -35,20 +35,17 @@
 #스포이드 색 추출: colorcop | #그림판/#파워포인트
 색 조합: https://color.adobe.com http://www.colorfavs.com/ www.design-seeds.com﻿고급 색상
 #putty; 
-----------------
-이미지
-www.pixabay.com
-www.picjumbo.com
-www.es.yoyowall.com
-www.Flaticon.com
-----------------
-IT
------------
-자막
-http://teleport.land/
-#카피킬러
-#에버노트 (#웹페이지 클리퍼)
-#c cleaner
+
+# 이미지
+* www.pixabay.com
+* www.picjumbo.com
+* www.es.yoyowall.com
+* www.Flaticon.com
+
+* 유튜브 자막: http://teleport.land/
+* 카피킬러
+* 에버노트 (#웹페이지 클리퍼)
+* c cleaner
 -----------------
 
 
@@ -71,6 +68,10 @@ http://teleport.land/
 * textplus; 미국 번호
 * 텍스트 리더
 * 지하철 종결자
+* 모비즌
+* 첫 화면 상식
+* 네이버 지도
+* Hello Talk
 --------------------
 
 ## PPT

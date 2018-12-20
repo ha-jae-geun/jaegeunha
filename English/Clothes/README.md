@@ -30,12 +30,12 @@
 * 옷 갈아입는 중이야; i'm getting dressed; for a change
   * 옷을 빠르게 갈아입다; slip on; i'll just slip my coat on
 * 맞춤형의; custom; custom-tailored;custom made;made-to-order
-* 더 잘어울리기 때문에; because you can pull it off
+  * 옷을 매치해서 입다; wear with; you can wear this with everything
+  * 더 잘어울리기 때문에; because you can pull it off
 * 옷의 기장 맘에 들어요; i quite like the length of this
 * 항공재킷에 빠지다; i am so into bomber jacktts right now
-* 세번째이자 마지막인 옷장 필수템은; for my third and last closet essential
 * 꽃무늬 옷 안좋아해요; i don't really like floral prints
-* 오렌지 체크무늬 수트야; it's that orange plaid suit
+  * 오렌지 체크무늬 수트야; it's that orange plaid suit
 * 호피무늬 제깅스 봤어: did you see those leopard print jeggins?
 * 얌전한 원피스가 없어요; i don't have church dresses
 * 다림질이 필요없는 셔츠; you should wear a wash-and-wear shirt 
@@ -47,6 +47,8 @@
 * 발가벗다; 누드; completely starkers
 * 아이들은 엄마의 치맛자락을 잡고 늘어졌따; THe kids hung on to their mother's skirt
 * 이 옷장을 다 뒤져봐도 6사이즈에 맞는 건 없어; There's nothing in this whole closet hat'll fit a size six
+  * 세번째이자 마지막인 옷장 필수템은; for my third and last closet essential
+  * 옷장 필수템; wardrobe staples
 
 # 재료
 * 이 털실이면 될까? will this yarn work?
@@ -132,7 +134,8 @@
 * 천박한 옷들은 갖다버려.
 * #kitschy (←#kitschiest) 미국·영국 [kítʃi]
 * #가죽옷	leather; feel the leather
-* *가죽	skin, leather
+  * *가죽	skin, leather
+    * faux: 가짜; faux fur: 인조 모피; faux leather; 인조 가죽 faux pas 미국식 [ˌfoʊ]  영국식 [ˌfəʊˈpɑː] 
 * #시계	wear a #watch
 * #경제 시계	#time horizon; #infinite time horizon
 * #추	#pendulum 미국식 [|pendƷələm] 

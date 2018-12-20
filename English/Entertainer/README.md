@@ -31,6 +31,7 @@
 * 소녀팬이 된 기분이야; i'm like fangirling
 	* 엄청난 팬층을 갖고 ㅣㅆ잖아; Artists have like huge follwings
 	* 팬의 마음으로 잔뜩 흥분한 사람들로 가드겼어요; a ton of fanboying and fangirling going on
+	* 스타를 보고 심쿵하다; i was a starstuck teenager; She got starstruck when she met Justin Bibier
 * 파리에서 런웨이에 오르신다면요; so you're walking in the runway in Paris?
 * 레이디가가; Mother monster - 팬들: Little monsters
 * 믿고보는 배우다; he's a go-to actor

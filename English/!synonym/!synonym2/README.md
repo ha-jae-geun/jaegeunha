@@ -63,7 +63,12 @@ you
 * 얼른; COme on 2. What are you waiting for
 * go over 1. 자세한 사항을 검토하다; Let's go over the rules; 2. 뭔가를 익히기 위해 검토하다; i need to go voer my notes
 * 너무 전잔 빼지 마세요; DOn't be too prissy [ˈprɪsi]
+* 일반적인 왜; Why; 무엇 때문에; What for(목적을 물어봄); 도대체 왜(why보다 강한 어투; 의아함)How come
 * 평범한 건 원하지 않아요; We don't want the standard
+* 루틴; skincare routine; 피부 관리 위해 순서대로; 일상 메이크업: everyday makeup; morning routine: 아침일어나서 순서대로 하는일 workout routine: 운동 순서
+* staple: 스테이플러 심; 2. 고정 시키는 행위; Staple those together 3. 주식단; staple diet; staple food; 옷장 필수템; wardrobe staples
+* 실수; faux pas; 불어 표현; 실수; paus의 s 묵음; wht's the biggest fashion faux pas
+  * faux: 가짜; faux fur: 인조 모피; faux leather; 인조 가죽 faux pas 미국식 [ˌfoʊ]  영국식 [ˌfəʊˈpɑː] 
 * 많이 까이다; get roasted; got roasted by a bunch of people
 * -하고 싶어 미치다; be dying/aching for; be craving for; would kill/die for
 * -는 무조건 해야지; - is a must

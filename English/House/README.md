@@ -34,7 +34,7 @@
 온도가 높지 않고 은근한 온도로 음식을 조리하는 방식이라 음식을 조리하는데 걸리는 시간이 보통 4~6시간이기 때문에 이름도 슬로우 쿠커입니다. 슬로우 쿠커에 음식을 하는 방식은 양념을 포함한 모든 음식 재료를 한꺼번에 슬로우쿠커에 넣고 온도만 맞춰두는 것으로 간단합니다. 
 일정 시간이 지난 후에 음식이 조리 되었는지 확인하고 전원을 끄면 됩니다. 요즘에는 조리 시간을 맞춰두면 자동으로 전원이 꺼지는 제품들도 많이 있어서 조리할 음식을 슬로우 쿠커에 넣어두고 밖에 나가 볼일을 보고 와서 식사 시간에 맞춰 편하게 식사를 할 수 있습니다. 주로 슬로우 쿠커에는 스프(soup)나 스튜(stew) 같은 요리도 많이 하고 소고기 찜이나 닭고기 찜같은 요리도 합니다. 
 마지막으로 소개해드릴 주방가전은 커피 메이커(coffee maker)입니다. 커피의 소비가 많은 미국답게 대부분의 미국 가정에는 커피 메이커가 있습니다. 한국은 에스프레소(espresso, 커피원두를 갈아 높은 압력으로 추출한 커피 액) 커피를 즐기지만, 미국에서는 에스프레소 커피 못지않게 드립 커피(drip coffee, 커피원두가 갈린 가루에 물을 타서 거름지에 걸러 낸 커피)를 많이 마십니다. 
-
+* 벨브를 잠그다; close/shut off/turn off the gass
 
 * 발코니에서 내렫보인다; The balcony looks over the zoo
 * 우리 집의 절반을 차지해요; IT takes up my whole apartment
@@ -74,6 +74,7 @@
 * 
 
 ## 집	#집돌이; I've become quite the home body. 	
+* 들어와; Come (on) in; Come on over: 우리 집으로 혹은 내가 지금 있는 곳으로 와
 * 잠깐 들르다; nip down; Alex has just nipped out to the bank
 	* 지낼 곳; Every night we're grateful for having a roof over our heads; a roof over head
 * 샴푸하다; you can't shampoo your hair everyday
@@ -534,6 +535,7 @@
 * 그리고 저는 도덕적인 삶을 살아요; And i live a moral life
 * 내 인생에서; in my entire life
 * 근근히 살아가다; those who are living on the edges
+	* 최선을 다해 열심히 살다; live life th the fullest
 * 오늘밤 이렇게 지나게 해; let tognight just pass by like this
 
 ## 운명

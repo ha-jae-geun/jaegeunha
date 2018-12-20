@@ -49,7 +49,9 @@
 * 옛날 사람들; old time people
 * 아름다운 너와; shawty(흑인 슬랭에서 비롯됨): 아름다운 여성
 * 13살의 나에게 한마디 한다면; If you could send a message to your thirteen-year-old self
+	* 또 다른 자아; 일종의 또 다른 자아인가요? alter ego; SHe's kind of like your alter-ego
 * 인류는 공룡과 매우 달랐다; Man was very different from the dinosaur
+* 집착, 괴짜, 또라이; freak; 깨끗한거에 집착한다; i'm a clean freak
 
 # 나이
 * 어느새 18살이 됐어; Fast forward to 18

@@ -68,10 +68,11 @@
 * #세뱃돈; new year's allowance/pocket money/cash gifts
 * #중국 설날; #spring festival
 * #신년을 맞이하다; #ring in the new year!
-* 여러분의 #새해 각오는 무엇인가요? 			 What are your new year’s resolutions?
-* #craft a new year's resolution
-* Are you #sticking to your New Year's resolution? Are you abiding by your word = are you keeping your oath
-* Happy new year, Merry christmas and All the best in a New Year(크리스마스와 새해 인사 같이하기도 함)
+	* 신년을 어떻게 맞이할거야? How are you gonna be ringing in the New Year?
+	* 여러분의 #새해 각오는 무엇인가요? 			 What are your new year’s resolutions?
+	* #craft a new year's resolution
+	* Are you #sticking to your New Year's resolution? Are you abiding by your word = are you keeping your oath
+	* Happy new year, Merry christmas and All the best in a New Year(크리스마스와 새해 인사 같이하기도 함)
 * #성년의 날 								 Coming-of-Age Day
 * #성인식 coming of age ceremony
 * #근로자의 날 								 Labor Day(근로자의 날)

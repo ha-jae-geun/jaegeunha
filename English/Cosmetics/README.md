@@ -11,6 +11,7 @@
   * '그는 피부에 잡티 하나 없어요.' "He has no blemishes on his skin.
 
 # 피부 
+* 루틴; skincare routine; 피부 관리 위해 순서대로; 일상 메이크업: everyday makeup; morning routine: 아침일어나서 순서대로 하는일 workout routine: 운동 순서
 * 끝을 그리다가 살짝 망한 것 같을떈; If the wing's ruined
 * 화장이 잘 안받는것 같애; i think my makeup is not blending in
 * 푸석푸석해; i have dry skin; The weather is drying my skin

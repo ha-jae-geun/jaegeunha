@@ -36,6 +36,7 @@
 * 개해엄; dog paddle
 
 # Gym
+* 운동하면서 -해요; i work out to-; 음악/; i work out to Rihanna; i like to dance to rap music
 * 손아귀 힘이 좋으시네요; That's a good frip
 * 운동신경도 없는 네게; Uncoordinated kid
 * 숨쉬는 것도 운동에 포함되니? Does breathing count as exercise?

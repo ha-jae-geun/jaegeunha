@@ -50,8 +50,11 @@
 * 실례하지만; If yoou'll excuse me
 * 말하자면 말이지; , so to speak
 * 요새; At the moment; 2. At the moment of --; 당시 그때
+* * 이론상으론;; On paper, 
 
 # 질문
+* 일반적인 왜; Why; 무엇 때문에; What for(목적을 물어봄); 도대체 왜(why보다 강한 어투; 의아함)How come
+* 뭐해, What are you up to? 뭐하면서 지냈어; What have you been up to today?
 * 왜이렇게 오래걸려? WHat's taking so long?
 * -인게 괜찮지? Is it chill that 문장?
 * -에 대해서 어떻게 생각하세요? What's your position on -?
