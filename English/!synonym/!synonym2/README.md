@@ -44,6 +44,7 @@ you
 * 외우다; leara a speech/lyrics/all the lines(대사)
 * 발가벗고 뽐내며 걸어다닐거야; i'll jus tstrut in my birthday suit
 * 네 얼굴을 맛있게 먹게될거야; They will feast on your powdered puss; 스콜랜드계 미국인이 자주쓰는 단어; puss: 얼굴, 상판/주둥이
+* 악을 쫒아내다; ward off evil (spirits); danger/disease
 * 너무 뻣뻣하다 진지하다; have a stick up one's ass; 엉덩이에 막대기가꽂혀있따.
 * 돌아다니다; roam around; 2. 로밍 서비스 돌아다니며 쓰는 서비스; YOu're roaming around
 * 누가 즉흥 연기를 좋아하겠어요? Who needs improvising that way? 2. 있는 것을 가지고 -을 하다; = wing it

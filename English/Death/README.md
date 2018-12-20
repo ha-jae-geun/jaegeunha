@@ -28,6 +28,7 @@
 * 제사 지내다; memorial rite / ancestral rites  [ænséstrəl] 
 * 시작으로부터의 죽음 Doomed from the start
 * #악령; #vengeful spirit
+	* 악을 쫒아내다; ward off evil (spirits); danger/disease [wɔːrd]
 * #drop off; 졸다; drop off the hooks; #황천객이 되다; drop/#slip off the hooks #죽다
 * #사망; #decease
 * #사망자수; #death toll 
