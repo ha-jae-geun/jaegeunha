@@ -111,6 +111,8 @@ The best-selling classic of politics is Machiavelli's monarchy.
 * win the election
 * 미결정 투표자; undecided voter -> swing voter / floating voter; 경합주: swing states
 * i vote for
+* 공약; 새 이민 공약을 제안했다.he proposed a new immigration platform
+  * 출마하다; run for office
 
 ------
 ## 정치

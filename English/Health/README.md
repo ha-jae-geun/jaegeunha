@@ -84,7 +84,7 @@
 * 다이어트 그만해야할것같애요; i think i have to break the diet
 * 살찌다; pack on the pounds ; get some weight
 
-# 치과 
+# 치과 dentist's office(영국: dentist's surgery)
 * 치과 치료중이다; i had dental work done
 * 어금니: molar; 
 * 신경치료를 받야 될 것 가요; i think i'm gonna to need a root canal
@@ -100,7 +100,7 @@
 * 교정하다; had her teeth starightened in the past
 * 비뚤어지다; went all crooked again
 --------------
-# 병원
+# 병원; doctor's office: 개인 병원(영국; doctor's surgery)
 * 잠복기간이 길다; That disease has a long incubation(latent) period
 * 퇴원하다; i was discharged from hospitals
 * 검역소; put in quarantine agency

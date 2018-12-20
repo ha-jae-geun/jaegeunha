@@ -47,6 +47,7 @@
 
 
 * 위기의식 危機意識  단어장추가 (철학) consciousness of crisis
+* 오늘 날 세상에서 가장 긴급히 다뤄져야 할 이슈는 뭐가요? What's the world's most presing issue today? pressing issue/matter
 -------
 * 자택에서 대피하다; evacuated from their homes; 임새 대피소: tempoary shelters
 * 당신의 응급상태를 말해주세요; Staet the nature of your medical emergency

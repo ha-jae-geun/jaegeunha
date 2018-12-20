@@ -20,6 +20,8 @@
 * 음악에 맞춰 춤추다; i danced to the music
 
 # 노래
+* 인기 많은 노래에요; It's a big/huge tune; 
+* 외우고 있는 노래 뭐잉서? What other song do you know by heart?
 * 노래방 18번이야; - is my karaoke staple
 * 난 그런 음을 내지 못할거야; i am never going to be able to hit these ote; hit the/a note
 * 지겹도록 나온다; It's been overplayed

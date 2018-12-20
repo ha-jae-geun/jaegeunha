@@ -1,7 +1,8 @@
 * 성격, 유전적 특징, 재능, 성형 다 볼수 있어; i can see your personality your traits, your talens your disposition
-* 속으로 나쁜 여자처럼 말이야; Bad girls underneath like thatW
-* 자신만의 #개성을 보이다; let your freak flag fly
-* #성격 What's your personality like?
+	* 속으로 나쁜 여자처럼 말이야; Bad girls underneath like thatW
+	* 자신만의 #개성을 보이다; let your freak flag fly
+	* #성격 What's your personality like?
+	* 너의 숨겨진 모습을 들쳐내; They point out the colors in you; color: 본색 true colors: 참모습
 * #ambivert; #양향 성격자
 * ☆성격 매력: I like her personality; he's so charming <> has no personality; personality is boring
 * 겉으로 드러난 personality보다는 본질인 character가 중요하다는 뜻입니다

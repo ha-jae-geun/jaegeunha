@@ -9,7 +9,7 @@
 * 평범한 건 원하지 않아요; We don't want the standard
 * 추종자들이 있는 권위자, 전문가; guru; 흰두교에서는 종교적 스승, 지도자   expert: 사람들의 전중ㅇㄹ 받는 전문가
 * 그는 독보적이다; He's a one of a kind
-	* 최고에ㅇ; She's a top shelf lady
+	* 최고에요; She's a top shelf lady
 * 어중이 떠중이; rabble(2. 왁자지껄하게 모여있는 사람들)
 * 혼혈 ; mixed-blood, (offensive) half-breed, (offensive) half-caste
 * 남편, 상대, 아내, 여자친구; significant other
@@ -32,6 +32,7 @@
 	* 짜증나는 존재, 재수없는 놈; dingle
 	* 아첨하다; brown-nose; brown-noser; kiss someone's ass
 	* 별볼일 없는 녀석; dud
+	* 저 찐따들 잡아와; go get that barf back; barf: 토사물
 * 동등한 위치에 있는 상대; counterpart; They make around 10 times more than their counterparts
 * 사교적인 사람; social butterfly
 	* 날씨 좋을때만 친구가 되려는 사람; fair-weather friend

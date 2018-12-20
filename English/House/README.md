@@ -512,6 +512,7 @@
 
 ## 청소
 * 작업자는 먼지를 안정되게 하기 위해 물을 뿌렸다; A worker sprays water over a house to settle dust
+* (청소 또는 페인트) 너 저기 놓쳤어; YOu missed a spot
 
 # 살다
 # 인생

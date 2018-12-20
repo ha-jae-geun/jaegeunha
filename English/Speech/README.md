@@ -1,3 +1,7 @@
+# 말
+* 말보다는 숨은 의미가 더 중요하다; the literal words are less important than the subtext
+* 가족을 대신해서 말하자면; 대변; i speak for my whole family
+
 # 논증 방법 과거: 기승전결, 현재: 서론, 본론, 겨론 기사-귀납-영역-열거
 
 ## 기승전결 과거
@@ -83,6 +87,3 @@ If you lie, God will hate you, and if you do not lie, humans will hate you. But 
 * Semantics: Positive evaluation of all conflicting issues (undesirable)
 * Integrated conclusion is not good.
 
-
-# 말
-* 말보다는 숨은 의미가 더 중요하다; the literal words are less important than the subtext

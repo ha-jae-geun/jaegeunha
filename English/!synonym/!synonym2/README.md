@@ -44,10 +44,16 @@ you
 * 외우다; leara a speech/lyrics/all the lines(대사)
 * 발가벗고 뽐내며 걸어다닐거야; i'll jus tstrut in my birthday suit
 * 네 얼굴을 맛있게 먹게될거야; They will feast on your powdered puss; 스콜랜드계 미국인이 자주쓰는 단어; puss: 얼굴, 상판/주둥이
-* 악을 쫒아내다; ward off evil (spirits); danger/disease
+* 악을 쫒아내다; ward off evil (spirits); danger/disease [wɔːrd]
 * 너무 뻣뻣하다 진지하다; have a stick up one's ass; 엉덩이에 막대기가꽂혀있따.
 * 돌아다니다; roam around; 2. 로밍 서비스 돌아다니며 쓰는 서비스; YOu're roaming around
 * 누가 즉흥 연기를 좋아하겠어요? Who needs improvising that way? 2. 있는 것을 가지고 -을 하다; = wing it
+* 외우고 있는 노래 뭐잉서? What other song do you know by heart?
+* 그는 하던 일을 멈추었다; He caught himself; catch oeself
+* 이 일에 관여하고 싶지 않다; Ice Bear wants no part of this
+* 하루 아침에 되는거 아니야; It doesn't happen overnight
+* 1. 폭발되다; be blasted; 폭발물로 인해 장소로 날라가다; be blasted to/into 장소/상태; You're about to blasted back to the '80s
+* i'm picking it up -> pick myself up으로 의역; 자리를 털고 일어나다; 아리아나 그란데; She had to pick herself up
 * 어쩌다 이런 궁지에 빠졌을까? How did i get into this mess?
 * 과하게 -하지 말고; 스프링클 너무 많이 뿌리지 말고; Don't go nuts with the sprinkles
 * 저는 그들을 돕겠다고 나섰어요 ;She stepped up; to help them

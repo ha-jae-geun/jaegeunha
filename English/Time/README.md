@@ -6,6 +6,7 @@
 * 한달에 책 얼마나 읽어; How man books do you read in a month?
 	* 한달 뒤 어때; ho about a month from tonight?(one month later xx)
 * 노닥거릴 시간 아니야; THis is no time to fool around
+* 하루 아침에 되는거 아니야; It doesn't happen overnight
 
 # 시간
 * 성공은 매일매일 반복되는 조그마한 노력들이 합쳐진 거야. Success is the sum of small efforts repeated day in and day out.
