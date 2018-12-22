@@ -20,6 +20,7 @@
 
 # 연예인
 * 세간의 주목을 받으면: When you're in the public eye; in the public eye
+	* 주목을 받는 걸 좋아한다; loves being in the spotlight
 * 내 주특기다; It's my shtick; 2. 개그맨들의 본인 특유의 개그, 루틴, 기믹 [ʃtɪk] 
 * TV 광고를 찍다; shoot a TV commercial
 * 관심이나 인기를 독차지하다; steal the show
@@ -35,6 +36,8 @@
 * 파리에서 런웨이에 오르신다면요; so you're walking in the runway in Paris?
 * 레이디가가; Mother monster - 팬들: Little monsters
 * 믿고보는 배우다; he's a go-to actor
+	* 신인 여배우; 장래가 유망한 여배우; 스타ㅏ 되길 꿈꾸는 여배우; 스포츠 유망주: starlet
+		* 총체적 신인; newcomerr, rookie, rising star
 * 가성비; offer a bang for one's buck
 * 동작이 부드러운데; he's smooth with it
 * 최애를 뽑은 개 아니에요; i'm not picking favorites; play favorites: 편애하다
@@ -57,7 +60,8 @@
 * 개봉일이에요; it's the premiere for ~
 * 장편 영화; feature film
 * 좋은 영화에요; Such a good movie
-* 믿고 거르는 영화; worth a skip
+	* 평점 낮던데; The movie has a low rating
+	* 믿고 거르는 영화; worth a skip
 * 영화배우가 될 운명이야; She's destined for the screen
 * 하나 더 완성했다; 영화촬영 완료; Another one in the can
 * 저기 죄송한데, 혹시 발 좀 조심해주시겠어요? Excuse me, Could you please be careful with your feet?

@@ -63,7 +63,7 @@
 * 남성: 240: 6, 250: 7, 260: 8
 * 여성: 220: 5, 230: 6
 * 카우보이 부츠; hop-a-long-boots
-
+* 그 방은 깨끗하고 편하게 보였다 The room looked neat and snug [ cozy ]. 듣기 출처:동아 출판
 
 ##옷 #의복 wear <> put, try on: 관사에 주의 attire=outfit [ə|taɪə(r)]
 * 누드; birthday suit
@@ -159,8 +159,8 @@
 * #씌우다; #put on
 * #인어 공주가 옷 ## 갈아입는 걸 몰래 보다 he was peeking and watching her change
 * 그 #드레스 입으니까 이쁘다 					 That dress looks good on you.
-* #Gown; 1. 목욕탕 가운 2. 특별한 날 입는 긴 옷
-a party #frock; 드레스
+  * #Gown; 1. 목욕탕 가운 2. 특별한 날 입는 긴 옷 a party #frock; 드레스
+  * fill out; 양식을 채우다; 2. 살찌다 3. 풍만하다; 진정한 바다 여신은 풍만해야해; a true ocean goddess must fill out her bodice; bodice: 여성 드레스의 허리위에서 어깨까지 즉 가슴부분 [ˈbɑːdɪs] 
 * #재벌 2세 같다. 							 You look like a million bucks.
 * 여자 재벌 2세 ; #heiress (특히 상당한 재산의) 여자 상속인
 * #황태자 #crown prince(#prince)

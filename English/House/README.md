@@ -227,6 +227,7 @@
 * 책장	bookcase, bookshelf
 * 붙박이장	wall unit
 * 전기 스탠드	floor lamp
+	* 전자파; gives off electromagnetic waves; Radiation comes out from
 * 팔걸이 의자	armchair / couch
 * 쿠션	throw pillow
 * 카페트, 깔개	carpet, rug
@@ -509,6 +510,9 @@
 * 어떤 것이든 ㅐ다 버려; chuck anything out
 * 쓰레기가 모이는; Where trash accumulates
 * 해양 쓰렉; flotsam and jetsam
+* 아수라장; It's complete mess; it is just mayhem  [ˈmeɪhem] out her
+	* This was a total dsaster; 엉망진창이 되어가고 있어요; It's becoming a train wreck
+	* It gets out of control; Things are still in quite a bit of disarray
 
 ## 청소
 * 작업자는 먼지를 안정되게 하기 위해 물을 뿌렸다; A worker sprays water over a house to settle dust

@@ -22,9 +22,11 @@
 * GRWM; Get ready with me; 외출 전 준비 동영상
 * WIMB; Watch in my back; 가방 구경
 * 홈트; Home training
-* ASMR; Autonomous Sensory Meridian response
+* ASMR; Autonomous Sensory Meridian response [məˈrɪdiən
 
 # 인터넷
+* 인터넷 방송; I'm shooting live online; Internet broadcast
+	* It feels like streaming on the internet.	
 * 블로그를 운영하다; run a blog
 * 매우 반응이 느리고 터치 인터페이스도 끔찍하다.  Very laggy and the touch interface is terrible.
 * 온라인상에서 덧글이 쭉 달려있는것 : thread

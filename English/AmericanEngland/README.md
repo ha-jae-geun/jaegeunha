@@ -3,6 +3,7 @@
 * 모국어; first language, native language, mother language, mother language
 * 3국어; third language
 
+* 새우; shrimp; prawn
 * 옥수수; corn; maize
 * 신호등 ;traffic light; 남아공: robot
 * 트렁크; trunk; boot

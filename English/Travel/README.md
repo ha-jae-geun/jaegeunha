@@ -14,6 +14,7 @@
 * 유럽 여행; i want to travel around Europe
   * 세계; all over the world
   * I wanna travel to ~
+* 안전한 비행되길 바래; Safe flight
 
 # 관광	#toruist industry(#industry)
 * 이 사람도 여기 거쳐간대; he's passing through here

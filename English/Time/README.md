@@ -9,13 +9,16 @@
 * 하루 아침에 되는거 아니야; It doesn't happen overnight
 
 # 시간
+* 수습기간; probationary period = probation; for a one-year probationary period
+	* 근신중; on Probation
 * 성공은 매일매일 반복되는 조그마한 노력들이 합쳐진 거야. Success is the sum of small efforts repeated day in and day out.
 * 우호적인 시기; honeymoon period/phase
 * PST(Pacific Standard Time); 서머타임 후: PDT(Pacific Daylight Time)
 * MST, MDT, CST, CDT, EST, EDT
 * 12 midnight; 12 noon
 * 8시 정각에; 8 Clock on the dot
-* 정확히 딱; it falls dead center between them; 
+	* 딱 맞춰 왔다; be just in time for; I got there just in time; for lunch
+	* 정확히 딱; it falls dead center between them; 
 * 주말은 물건너 갔구만; There goes my weekend
 * 밤은 아직 일러; The night's young
 * 연말; end of the year party; 연말 세금 조정; Year-end tax adjustment

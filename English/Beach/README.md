@@ -4,6 +4,7 @@
 	* 물이 만은 쪽은 만조, 아닌 쪽은 간조
 
 # 바다 #바다 #해변
+* 물을 배 밖으로 퍼내야해; We need to quickly bail the water out of the boat
 * 우리의 열정은 섯히 줄어들기 시작했다; out enthusiasm began to ebb away
 	* 밀물, 썲ㄹ; As the tide ebbed away; 
 	* 조수간만의 차; Tjere's always ebb and flow in our lives
@@ -76,6 +77,7 @@
 * #등대	They are #touring the #lighthouse
 * 타이타닉 #침몰 	Titanic #drawing
 * #표류	#drift around; 
+	* 구출될 가능성이 없는 우주에서 표류하는건; Being adrift in space with zero promise of rescue
 * #징검다리 #디딤돌	#stepping stone
 * #숲
 * #지속 가능한; #sustainable; sustainable #forest management

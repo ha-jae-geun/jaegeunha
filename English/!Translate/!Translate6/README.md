@@ -1,3 +1,20 @@
+# 영어 연습가이드 #37 - PART 2 - 적당하다 / 적절하다 / 알맞다 + [ 영어 어휘를 효과적으로 공부하는 TIP ]
+* 이 정도면 적당해; THis is good enough
+* 적당히 해; Hey go easy / Hey take it easy / 
+  * Hey, don't get carried away: 과하게 하다, 지나치게 하다; 과거에 내가 지나쳤었지라고도 씀 
+    * I got carried away
+* 적당히 쉬어가면서 해야지, 무조건 열심히 한다고 좋은게 아니야
+  * Hey pace yourself; You've got to take a break once in a while. Working hard will only get you so far
+* 우리가 사람이 많아서 적당한 곳을 찾기 어려울거야
+  * we have a lot of people. It's going to be hard to find any good place
+* 우리 타이밍이 적절했던것 같애; I think our timing was really good; i think our timing was just right
+* 걔네는 아직 일이 익숙하지 않아서 적절하게 대처하기 어려웠을거야; They're not familiar with the work yet, so it would've been hardd for them to take appropriate action / properly deal with it
+* 걔가 한 말이 틀린 것은 아닌데 표현 방식이 좀 부적절했던 것 같아
+  * She wasn't wrong about what she saiid, it's just that the way she expressed herself was a little appropriate
+* 이거는 집에서 쓰기에 알맞은 것 같아; I think this is suited for using at home
+* 무슨 용도를 주로 사용할 것인지를 생각해보고 거기에 알맞은 걸을 사야지, 무조건 좋은 것을 살 필요 없어
+  * Think about what you're mainly going to use it for and get the one that is most suited for that. You don't have to get the latest and greatest(최신 꺼)
+
 # 영어 연습가이드 #38 - PART 1 - "The Benefits Of Getting Up Early"
 * 아침 일찍 일어나서 하루를 일찍 시작하면 좋은 점에 대한 얘기를 사람들이 많이 하죠
   * "People often talk about the benefits of getting up and starting your day early in the morning. 

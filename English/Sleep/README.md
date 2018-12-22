@@ -112,8 +112,10 @@ I usually sleep in / sleep late / oversleep on Sundays.
 * #졸다 #졸았다
 waking dream: 환상같은
 * 꿈을 꾸다 chase rainbows, quit chasing rainbows(허항된 꿈을 꾸지 마)
-* 꿈도 꾸지마; #perish the thought
-* 그건 항상 내 꿈이였어 						 It's always been my dream
+	* 꿈도 꾸지마; #perish the thought
+	* 그건 항상 내 꿈이였어 						 It's always been my dream
+	* 꿈에서도; in one's wildest dreams; not/never + in one's wildest dreams: 상상도 못한
+		* 꿈에서조차 기대해본적 없어요; Even in my wildest dreams i didn't expect to come this far
 * 이번 주말에는 #밀린 잠 좀 자야지. 
 sli:p ‘wi:kend I'm going to catch up on sleep this weekend. .
 * ^^ #wake up 은 의식이 깨는 것을 말해요. 정신 차려 | #get up은 뭘까요? 이건 육체적/신체적 몸이 일어나는 것을 말해요.

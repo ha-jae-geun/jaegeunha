@@ -278,6 +278,8 @@
 * 어느 팀이 이길 것 같아요? 	Which team do you think will win? 
 * 우리 내기할래요? 	Do you want to make a bet? 
 * 이 팀이 작년에 우승했죠. 	This team won last year. 
+	* 트로피를 들어올르다; i can't wait the day we hoist the championship trophy over our heads
+* 어림도 없네, 이 사람아. 난 차가 필요해! bNo dice , dude . Need my car ! 예문 발음듣기 출처:능률교육
 * 이 팀이 일 점 이기고 있어요. 	This team is one point ahead. 
 * 누가 이기고 있어요? 	Who is taking the lead?
 * 지금 상대편이 앞서고 있어요. 	The other team is leading. 

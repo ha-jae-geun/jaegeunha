@@ -10,6 +10,7 @@
 * 추종자들이 있는 권위자, 전문가; guru; 흰두교에서는 종교적 스승, 지도자   expert: 사람들의 전중ㅇㄹ 받는 전문가
 * 그는 독보적이다; He's a one of a kind
 	* 최고에요; She's a top shelf lady
+	* 친절한 사람; 좋은사람; 사랑 스러운 사람;  peach, doll
 * 어중이 떠중이; rabble(2. 왁자지껄하게 모여있는 사람들)
 * 혼혈 ; mixed-blood, (offensive) half-breed, (offensive) half-caste
 * 남편, 상대, 아내, 여자친구; significant other
@@ -33,6 +34,8 @@
 	* 아첨하다; brown-nose; brown-noser; kiss someone's ass
 	* 별볼일 없는 녀석; dud
 	* 저 찐따들 잡아와; go get that barf back; barf: 토사물
+	* 바보; silly
+	* 입 다물어 이자식아; Just cool it, zippy
 * 동등한 위치에 있는 상대; counterpart; They make around 10 times more than their counterparts
 * 사교적인 사람; social butterfly
 	* 날씨 좋을때만 친구가 되려는 사람; fair-weather friend
@@ -53,6 +56,10 @@
 	* 또 다른 자아; 일종의 또 다른 자아인가요? alter ego; SHe's kind of like your alter-ego
 * 인류는 공룡과 매우 달랐다; Man was very different from the dinosaur
 * 집착, 괴짜, 또라이; freak; 깨끗한거에 집착한다; i'm a clean freak
+* 신인 여배우; 장래가 유망한 여배우; 스타ㅏ 되길 꿈꾸는 여배우; 스포츠 유망주: starlet
+		* 총체적 신인; newcomerr, rookie, rising star
+* 대기만성형; late bloomer; be a bit of a late bloomer
+* 나는 조언할 떄 그녀를 찾아가; I always go to her for advice -> She's my go-to person for advice
 
 # 나이
 * 어느새 18살이 됐어; Fast forward to 18
@@ -428,6 +435,7 @@ not very good with/bad with/terrible with
 I guess I don't have wordly wisdom(세상살이가 서투르다)
 he lacks the dexterity to get on in life
 * #엉성한; #sloppy; thinking / #uncoordinated / has butterfingers
+	* 엉뚱하다; goofy; silly; unique
 * #socially awkward / she's rather be #book-smart
 * #klutzy; #klutziness
 * be nod good at = be bad at

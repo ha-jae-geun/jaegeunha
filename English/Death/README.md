@@ -7,6 +7,8 @@
 * 수천년이 지난 지금에도 과학자들은 미라를 부검해서 사인을 밝혀낼 수 있고 DNA 표본을 채취할 수도 있다.
   * 예를 들어 고대 이집트에는 공기 오염이 심각했다는 것을 알게 되었습니다.
 
+# 귀신
+* 웬 귀신 소리? Did i hear a banshee? banshee는 아일랜드 전설에 나오는 유령으로 구슬픈 울음소리를 내서 집안에 곧 죽는 사람이 있다는 걸 알려주는 여자 귀신
 
 # 숙어
 * 그녀 때문에 난 끝장날거야; She'll be the death of me
@@ -18,6 +20,8 @@
 * ME; Medical Examinaers; 부검의
 * Defensive wounds; 방어흔
 * Sign of struggle; 싸우거나 방어한 주변 흔적
+------------
+* 죽여버리겠어; I'll tear you to pieces; tear - to pieces
 ------------
 * 안락사를 시켜야했어요; I have to put him to sleep
 * 아버지가 돌아가셨어요; i jsut lost my dad; my dad just died

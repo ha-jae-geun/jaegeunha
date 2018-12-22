@@ -456,6 +456,7 @@
 * #embitter 미국·영국 [ɪm|bɪtə(r)] someone to V
 * 그들은 블루워터로 인해서 매우 기뻤어요. They were absolutely delighted with Bluewater. absolutely 선호
 * 친근한 소녀 a delightful little girl 사물이든 사람이든 매우 즐겁게 하고 기쁘게 하고 매력적인 어감이에요
+	* 황홀해 하다. 넋이 나가다, 기절하다; WIll end sailors swooning; swoon over 사람; -에게 -를 보고 황홀해 하다.
 * #기분 전환으로 레스토랑에 가자. 				 Let's go to a restaurant for a change. 
 * 느낌 있게 살자 									 Keep #vibin
 * 개 분위기 좋아 							 He's got that unique vibe
@@ -883,6 +884,7 @@
 	* #restless
 	* This is so #nerve racking
 	* #좌불안석; being unable to sit comfortably[still](from anxiety) / be ill at ease 
+	* 정신을 잃을 정도로 무서웠어; It scared me out of my wits; out of one's wit: 제정신을 잃은; scare과 함꼐 자주 쓴다.
 * 자신감은 많이 있어요; i have a lot of confidence
 	* #자신없는; #faint-hearted
 * 부모님이 #엄하셔 my parents are #strict
@@ -1250,6 +1252,7 @@
 * #in the heat of the #moment; 발끈해서, 흥분해서; I was in the heat of the moment
 	* -에 대해 흥분하다; be jazzed about
 	* 흥분하지마; Don't get worked up
+	* 너무 흥분하지마; Don't be over-stimulated
 * 홧김에 베프랑 절교했어 			 I cut off with my best friend in a fit of anger
 * #flip out; 벌컥 화내다
 * #throw a fit(#fit); #성질부리다, #졸도할 지경이 되다

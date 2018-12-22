@@ -2,6 +2,7 @@
 * 훌륭한 요리 달콤한 음식, 간식: treat; 주로 달콤한 비스킨이나 간식 종류를 의미
 
 # tool
+* 도구 내려놓으세요; Down, tools
 * 후라이펜을 중불에 예열해라; preheat nice big skillet on medium high [skílit] 
 * 체; sieve; 과일 채소 물빼는 체; colander; 집개; tongs
 * 1회용 장갑; dispoable gloves
@@ -57,6 +58,7 @@
 * 소스 전부 뿌려드릴까요? would you like all the sauces?
 * 소스가 많고 느끼한 파스타가 좋아; i like saucy and creamy pasta
 * Sriracha; tabasco와 비슷한 아시아 식재료 중 하ㅏ
+* 와나전 터져나오고 있어요; It's flipping exploding out
 
 # taste
 * 살짝 탄 토스트; Lightly burnt toast

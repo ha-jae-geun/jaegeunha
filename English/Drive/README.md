@@ -95,6 +95,7 @@
 * 방향 지시등									 turn signal
 * 제동등										 brake light
 * 번호등									 license plate light
+	* 차 번호판을 경찰한테 넘길까 해; I think i'm just gonna turn over his license plate to the police
 * 측방등										side marker light
 * 후미등											taillight
 * 후진등										 back-up light

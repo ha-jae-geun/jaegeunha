@@ -47,6 +47,7 @@
 
 
 * 위기의식 危機意識  단어장추가 (철학) consciousness of crisis
+	* 상황을 고조시켜요; It all gets ramped up
 * 오늘 날 세상에서 가장 긴급히 다뤄져야 할 이슈는 뭐가요? What's the world's most presing issue today? pressing issue/matter
 -------
 * 자택에서 대피하다; evacuated from their homes; 임새 대피소: tempoary shelters
@@ -101,10 +102,13 @@
 * #안전핀 뽑는다 								 put out the safety pin
 * #손잡이를 누른다 							 squeeze the level
 * 빨리 불을 꺼요. 								 Quick, put it out. 
-* 불이야! ##소방서에 전화해요!					 Fire! Call the fire department! 
-* 소방서가 몇 번이죠?					 What's the fire department number? 
-* 차고에 불이 났어요. 							My garage is on fire. 
-* 방화 같아요. 							 I think it's arson. ‘ɑ:rsn
+	* 은은히 빛나는; The ebers ws still glowing; 
+	* 잔불이 있는지 보자; Let's see if there are any live embers; 잔불
+	* 꺼져가는 불씨; Glowing dim; dim: 흐릿한; 아른거리는; as an ember
+	* 불이야!##소방서에 전화해요!					 Fire! Call the fire department! 
+	* 소방서가 몇 번이죠?					 What's the fire department number? 
+	* 차고에 불이 났어요. 							My garage is on fire. 
+	* 방화 같아요. 							 I think it's arson. ‘ɑ:rsn
 * 네, 이러다가 #홍수가 나는 건 아닐까요? 			Yes, do you think it's going to flood? 
 * 갑작스러운 홍수 flash flood
 * crops have been #washed away

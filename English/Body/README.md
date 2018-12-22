@@ -10,7 +10,7 @@
 * #바리캉 						 Hair clippers, electric hair clippers
 * #헝클; #뒤얽힌; #snarly
 * 번 머리; she has dark brown hair that is pulled up into a #bun
-* 포니테일; she has brown hair that is in a #ponytail
+* 포니테일; she has brown hair혀 that is in a #ponytail
 * 등의 가운데로 내려오다; go down to the middle of her back
 * ##이 louse[laus], lice[lise]
 * #두개골 #cranial index (인류) 두개[두골] 지수
@@ -296,6 +296,7 @@ how dare you say such a thing #to my face
 
 
 # 다리
+* 곱은 다리; bow leg; 다리 굽은 여자랑 수영하러 가면; if you go swimming with bow legged women
 * 다리가 천근만근이에요; My legs feel like lead
 * 다리가 후덜거려	My legs are shaking
 * 다리가 길거 쭉쭉 뻗었어	she's got long and #lean legs
@@ -345,26 +346,27 @@ the upper/bottom #lips
 * #치과
 * #교정기 붙이는 작업; #bracket => #debase  bracket
 * ##이빨 tooth, 입술처럼 마찬가지로 이 한 개는 teeth
-* #앞니 #앞니 the incisive teeth 
-* 흔들리는 이빨; #mobility
-* #영구치; permanent tooth
-* #유치; #deciduous tooth
-* 부분 #틀니;  partial #denture
-* 뺀찌; #forceps
-* 치아 들어 올리는 도구; #elevator
-* #금니; #dentist gold; made that wedding ring from dentist gold
-* #사랑니 wisdom tooth나 third molar
-* 사랑니 났어요 my wisdom tooth came in
-* #어금니 molar [móulǝr]
-* #덧니  #crooked teeth
-* snaggletooth; misaligned tooth; projecting tooth
-snaggle(뒤죽박죽인 것), misaligned(어긋난), projecting [snǽgəltùːθ]
-* #충치 decayed tooth; bad tooth
-* 충치 #떼우다; you had two cavities filled last time
-* #틀니는 [déntʃǝr] dentures; false teeth
-* 이빨 떼운게 더 많은데 I have more fillings in my teeth than I have
-* 이가 나다; teeth #erupt
-* 이가 시리다; the tooth #smarts
+	* #앞니 #앞니 the incisive teeth 
+	* 흔들리는 이빨; #mobility
+	* #영구치; permanent tooth
+	* #유치; #deciduous tooth
+	* 부분 #틀니;  partial #denture
+	* 뺀찌; #forceps
+	* 치아 들어 올리는 도구; #elevator
+	* #금니; #dentist gold; made that wedding ring from dentist gold
+	* #사랑니 wisdom tooth나 third molar
+	* 사랑니 났어요 my wisdom tooth came in
+	* #어금니 molar [móulǝr]
+	* #덧니  #crooked teeth
+	* snaggletooth; misaligned tooth; projecting tooth
+	snaggle(뒤죽박죽인 것), misaligned(어긋난), projecting [snǽgəltùːθ]
+	* #충치 decayed tooth; bad tooth
+	* 충치 #떼우다; you had two cavities filled last time
+	* #틀니는 [déntʃǝr] dentures; false teeth
+	* 이빨 떼운게 더 많은데 I have more fillings in my teeth than I have
+	* 이가 나다; teeth #erupt
+	* 이가 시리다; the tooth #smarts
+* 혀를 내밀다; stick out one's tongue
 * 입술이 부르텄어	My lips are chapped
 * 입안을 초토화시켜놓은 다으메	ruin your #palate
 이거 먹을 때 #입천장을 살짝 데었어	My palate was slightly burned while eating 

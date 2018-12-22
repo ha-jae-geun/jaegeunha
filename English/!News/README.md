@@ -10,6 +10,7 @@
 * 풋볼리크스
 
 
+* 독점: Exclusive:
 * 뉴스 있어? Is there any news? / Any news?
 * 현 시점 보도된 바에 따르면; As far as reports suggest at this stage
 * 장안의 하제; The issue has become the talk of the town

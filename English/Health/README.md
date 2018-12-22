@@ -1,4 +1,6 @@
 ## 기타
+* 가렵다; i itch all over; i've got an itch on my back
+  * My nose and eyes are very itchy
 * 딸꾹질나요; i have the hiccups
 * 온찜질처럼 말이야; Like a heating pad
 * 고산병; altitude sickness
@@ -146,6 +148,8 @@
 * 약국에서 살수 있는 #진통제; #pain medicine
 * #수면제; #sleeping pill
 * #처방전 없이; without a prescription
+  * 처방전을 써주다; write someone a prescription; they wrote me a prescription
+  * 처방전 없이 살수 있는 약; over-the-ounter drug
 * #졸리다; will I get #drowsy
 * #부작용; #side effects
 * 약을 좀 약하게; a lower dosage
@@ -672,3 +676,4 @@
 * 처방전/절차 업시 살 수 있는; over-the-counter; You can get Tylenol over the counter
 * 우리는 금단현상을 겪게 되었습니다; we were going through withdrawal
   * 단번에 그만두다; quit cold turkey
+* 진통제: painkiller; 해열제: fever relif; 항생제: antibiotics; 목 따가움; sore throat

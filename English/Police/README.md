@@ -45,6 +45,7 @@
   * 그 가짜 의사에게 사기를 당했다. She was scammed by the fake doctor; 순진해서 잘 속는; Gullible
   * 사기꾼: fraud; fraud, con, dupe, scam; He was jailed for three years for fraud and tax evasion
 * 도망중이야; Two supects are on the run
+  * run away; on the lam; get away
 * 작용하는 규칙들; rules at play; there are some rules at play affecting this
 * 무단침입하시는거에요; YOu are breaking and entering
 * 현자; sage; [seɪdʒ] 2. 슬기로운
@@ -90,10 +91,11 @@
   * 병사가 전시 행방불명(missing in action); MIA
   * 잠수타다; go MIA
 * #법률의 #시행 #enforcement
-* will #take effect(#effect)
-* #enforce a law; #put a law into effect/force/operation
-* #효력이 발생하여, #시행하여; #In force; the law was put in force
-* #DADT; Don't ask Don't tell ; 성 소수자의 군복무 폐지
+  * 괴롭힘 신고에 관한 현재 시행중인 정책도; the current policies in place for reporting harassment; ㅑㅜ ㅔㅣㅁㅊㄷ
+  * will #take effect(#effect)
+  * #enforce a law; #put a law into effect/force/operation
+  * #효력이 발생하여, #시행하여; #In force; the law was put in force
+  * #DADT; Don't ask Don't tell ; 성 소수자의 군복무 폐지
 * the act of settlement; 영국의 #왕위상속법
 * #10계명 10 #commandments
 * #고발; #내부 고발; deep throat 미국식 = #whistle-blower

@@ -383,6 +383,8 @@ run a store, manage a team, operate a factory
 * work in + 근무 장소(place; school/department; HR) / work for + company(직장명)
 * 1. 되다(does it work) 2. that works for me(그 시간 괜찮아) 3. 말이 안돼 that doesn't work
 * work on ~; 일하다; I worked hard on the presentation
+	* 열심히 일하다;  I bust my hump all day; i've busted my hump
+* 보통 밖에 안 되는 음악가/재능/공연 a mediocre musician/talent/performance   [-ˈoʊkər]  영국식 [ˌmiːdiˈəʊkə(r)] 
 * 무슨 연구 하는데? #work on; what have you been working on?
 * 작업중이야 I'm working on it
 * 같이 수정하자 						 Then let’s work on it together

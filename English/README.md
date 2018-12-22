@@ -74,6 +74,7 @@
 * 길벗이지톡; https://post.naver.com/my.nhn?memberNo=33159364
 * 소다영어 https://blog.naver.com/hyeonahmo/221208654665
 * 윤선생; https://m.post.naver.com/my.nhn?memberNo=2134697
+* Shall we learn https://blog.naver.com/teacherr10
 * 한국번역연구소 https://blog.naver.com/ktri8888
 -----------------------------------------------------------------------------
 * 빌보드 https://www.billboard.com/charts/hot-100#/charts/hot-100

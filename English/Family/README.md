@@ -151,12 +151,16 @@
 	* ‘아빠, #아저씨 									pops, #mister
 	* 생부; biological dad; biologically related
 	* 자신의 아버지; my old man
-* #sugar daddy; 그렇고 그런목적으로 스폰하는 아재/할배들
-* 네 아들이 부인의 전 남친과 똑 닮다 Your son is the splitting image of your wife's ex boyfriend.
-* 그 친구들 정말 닮았더라고! 		 완두콩 pɑ:d: 꼬투리 They look like two peas in a pod. 
-* He’s the #spitting image of his father. 아버지하고 판박이다
-* #판박이 #resemble #닮다
-* 피는 못속인다. Chip off the old block, Like father like son, The apple didn’t fall far from the tree
+	* #sugar daddy; 그렇고 그런목적으로 스폰하는 아재/할배들
+	* 네 아들이 부인의 전 남친과 똑 닮다 Your son is the splitting image of your wife's ex boyfriend.
+	* 그 친구들 정말 닮았더라고! 		 완두콩 pɑ:d: 꼬투리 They look like two peas in a pod. 
+	* He’s the #spitting image of his father. 아버지하고 판박이다
+	* #판박이 #resemble #닮다
+	* 피는 못속인다. Chip off the old block, Like father like son, The apple didn’t fall far from the tree
+  * 닮다; look like someone / You two are look alike / This looks so similar;  take after someone
+  * 성격까지 닮다; I don't know who she takes after; resemble, look like: 외모만
+  * 누군가를 꼭 빼다 닮다; "You're the spitting image of your mother"
+  * You're a chip off the old block; You're a cabon copy of somone
 * #피는 물보다 진하다 			 #charity gegins at home. #Blood is thicker than water.
 * 피난다 								 I'm bleeding out of my hand
 * 피도 반 섞인 형재 #half-sister

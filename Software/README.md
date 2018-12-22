@@ -1,4 +1,9 @@
+# 깃
+* 주니어 개발자 취업 정보: https://github.com/jojoldu/junior-recruit-scheduler/blob/master/README.md
+	* 포트폴리오: https://gmlwjd9405.github.io/2018/05/04/how-to-write-a-resume-for-a-developer.html
+	
 # 블로그
+- 반응형 웹 변환: https://adsensemaster.herokuapp.com/index.php?id=advancedMaker.html 
 0. 웹마스터 도구
 	* 구글: https://www.google.com/webmasters/tools/home?hl=ko
 	* 네이버: https://webmastertool.naver.com/
@@ -30,6 +35,8 @@
 * 인터뷰 http://www.asapsports.com/
 * 해커스 https://www.hackersjob.com/edu/sub_menu/test_daily.php/?tab=3&kab=5
 * 토론: https://idebate.org/
+* 로렘 입섬 https://www.lipsum.com/
+* 슈퍼맨 https://superfan.link/pc/login
 
 ## 소프트웨어
 * 붙여넣기 해제; 캡처 - #알툴바

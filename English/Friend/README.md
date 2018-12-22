@@ -10,7 +10,12 @@
 * 난 네게 등돌리지 않을게; i wouldn't turn on you
 * 고등학교 시절 예쁜 친구 찾으려면; if  you wanna look up all these hotties
 
+# 추억
+* 추억에 잠기고 싶다; I feel like reminiscing
+* -에 대해 모르는게 없다; know someone like the back of your hand; SHe knows his place like the back of her hand
+
 # 만남
+* 얼굴만 알아; i know someome by sight
 * 예고 없이 놀러와; You come over unannounced
 * 노담 괜찮네요; Good one
 * 내 고민거리를 가지고 올게; i'll come with my problems
@@ -18,6 +23,9 @@
 * 글쎄, 정문 밖에서 만나자. Well, let's meet out front.
 * 로비에서 보자 Let's meet in the lobby
 * 카일과 놀려고 약속을 꺠곤 했다; i would blow her off to hang out with Kyle
+* 처음 뵙겠습니다; Nice to meet you
+	* 두번째부터 뵐 떄: It's nice to meet you again = Good to see you again
+	* 다시 봐서 반가웠어; It was nice to see you again = It was good seeing you
 
 # 놀다
 * 말장난해본 겁니다; Pun intended

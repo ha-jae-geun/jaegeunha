@@ -72,8 +72,12 @@
 * 무엇이 필요할까요? What does it take to?
 * 네가 죽기라도 하니? 덧나니? Would it kill you to; leave me alone?
 * 무슨 일 있었어? What'd i miss
+* 내 말 알겠어? Am i understood?
+* 왜 그러고 살아요? How can you live with yourself?
+* 그 말은 왜 하는거야? Where are you going with that? 2. 그것과 어디를 가는 중이야?
 
 # 대답
+* 잠시만; Hang on
 * 그런가? You reckon?
 * 돌 던질만큼 가까운 거리; A stone's throw
 * 맞아; Touche
@@ -101,6 +105,7 @@
 * 해야죠 뭐; So be it
 * 그럴리 없어; Not a chance
 * 예외없이; bar none
+* 연락해요; Hit me up
 
 # 말투
 * 그렇다면 나야 좋지; (That) makes things easier for me; 여러 상황에서 쓰일 수 있다.
@@ -140,9 +145,11 @@
 * 동병상련; Misery loves company
 * 신중하고 꾸준한 자가 이기는거야; SLow and steady wins the races
 * -에 대해 아무것도 몰랐다; Little does someone know; and little did you know
-
+* 등... 등잔 밑이 어둡다? The beacon does not shine on its own base? 
 
 # 일상
+* 짜증나게 하다; get under one's skin; annoy, irritate, bother; He says gets under my skin
+* 미리 귀띔해줄게; I'm just giving you a heads-up
 * 대부분의 사람들이 여기서 실수하죠; where most participants slip up
 * 기다리던 순간이 왔다; This is the moment i've been wating for
 * 똑같이 닮은; 나는 똑같이 생긴 가방 두 개를 구분할 수 없다 I can't distinguish the two bags that look alike as two peas in a pod.  

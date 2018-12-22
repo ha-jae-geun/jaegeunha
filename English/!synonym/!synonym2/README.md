@@ -1,3 +1,12 @@
+* 잠에서 꺠다; wake up; 일어나다; getup; 침대에서 나오는 것: get out of bed
+* 다쓰고 갖다놔; Put it back when you're done
+* 한 방향에서 다른 방향으로 왔다갔다 한다; The boy is walking up and down the path
+* -한 상태가 되다; fall asleep/silent/open/ill; It fell silent
+* come around; 방문하다; Why don't you come around sometime
+  * 그 생각/아이디어에 동의하기까지 시간이 걸렸어; It took me a while to come around to the idea; 의견/생각/마음을 바꾸고 돌아오다
+  * 마취에서 아찍 안꺠어났어; He hasn't come around from anesthetic yet.
+* 뭘 떠맡은 거야? What'd you get saddled with?; saddle: 말 등에 안장을 얹다
+* -할 뻔했다; I almost forgot to buy the cereal; 주로 긍정적인 피드백을 받았어; he's got mostly positive feedback from the clients; 주로 -하다
 * end up -ing 결국 -하고 있따; 
   * end up in 장소; 결국 -에 가게 되다; Bart ended up in prison
   * 결국 -하게 되다; i ended up alone
@@ -54,6 +63,11 @@ you
 * 하루 아침에 되는거 아니야; It doesn't happen overnight
 * 1. 폭발되다; be blasted; 폭발물로 인해 장소로 날라가다; be blasted to/into 장소/상태; You're about to blasted back to the '80s
 * i'm picking it up -> pick myself up으로 의역; 자리를 털고 일어나다; 아리아나 그란데; She had to pick herself up
+* 모든 내용에 대해 더 적극적으로 개입해야 한다. You should be a lot more proactive around all the conten
+* 기술기업은 현재 꼼짝 못하고 있다. Tech companies right now are jammed up 2. 교통이 막히다.
+* 신경 안써: i don't give a damn/shit/guck; I couldn't care less
+* 집에 가면 연락할게; i'll call you if i get home(도착 못할수도 있겠지만 표현이 어색) -> when
+  * I'll call oyu when i get home
 * 어쩌다 이런 궁지에 빠졌을까? How did i get into this mess?
 * 과하게 -하지 말고; 스프링클 너무 많이 뿌리지 말고; Don't go nuts with the sprinkles
 * 저는 그들을 돕겠다고 나섰어요 ;She stepped up; to help them
@@ -77,7 +91,27 @@ you
 * 실수; faux pas; 불어 표현; 실수; paus의 s 묵음; wht's the biggest fashion faux pas
   * faux: 가짜; faux fur: 인조 모피; faux leather; 인조 가죽 faux pas 미국식 [ˌfoʊ]  영국식 [ˌfəʊˈpɑː] 
 * 많이 까이다; get roasted; got roasted by a bunch of people
-* -하고 싶어 미치다; be dying/aching for; be craving for; would kill/die for
+* -하고 싶어 미치다; be dying/aching for; be craving for; would kill/die for; yearn to 동사원형
+  * yearn for 목적어; 갈망/동경하다; i've yearned for this moment
+* 경고음을 울리다; sound an alrm; 이 녀석은 불길하더라고; This one was sounding an alarm
+* fill out; 양식을 채우다; 2. 살찌다 3. 풍만하다; 진정한 바다 여신은 풍만해야해; a true ocean goddess must fill out her bodice; bodice: 여성 드레스의 허리위에서 어깨까지 즉 가슴부분 [ˈbɑːdɪs] 
+* 바로 앞이야!; Dead ahead; dead: 정확히, 딱; Straight, exactly/very; Youre dead on time
+* through 1. 통해서 2. 끝내다; 거의 다했어; i'm nearly through
+* -을 오나성하다; have something down to an art; 예술의 경지에 이르기까지 마스터한다.
+* 보여줘봐; Produce them; produced a coin; 딱딱한 느낌의 표현; bring out, show가 더 자연
+* 오늘 나 건들지 마; Don't mess with me today; meess: 엉망 진창인 상태; 귀찮게 건든다
+* 재미 좀 보겠어; You'll get a kick out of this; 1934년 Cole Porter의 노래에서 유명한 표현; kick: 스릴, 쾌감, 재미
+* 아주 제대로 된 말을 했어; I Couldn't have said it better myself; can't say it better: 더 말 잘할 수 없다 = 아주 제대로 된 말을 했다.
+* 본떄를 보여줘; YOu tell 'em; You tell him: 그래, 잘한다!; 상대의 말에 동의하는 동시에, 상대의 사기를 더 끌어올리고 싶을 때 자주 쓰는 표현
+* 힘든 일을 겪으며, 가능성이 없는; fight; #againt all odds 2. 10 대 1의 배당률 odds of ten to one [ɑːdz] 
+* 잠깐 실습을 중단할까요? Do we need to pause the exercise? stop은 특별한 설명이 없다면 '완전히' 끝내는 것; apuse는 '잠시 중단'하는 것; 재개하다: resume
+* 능수능란하다; That's diplomatic; 2. 외교적인; 다른 사람의 심기 건드리지 않으면서 어려운 말을 요령있게 한다.
+* 항상; all the time; 역대급; 최상급 + of all time; The all-time greatest superhero
+* 그 말은 왜 하는거야? Where are you going with that? 2. 그것과 어디를 가는 중이야?
+* 가만히 있어; Hold/Stay still
+* 나는 조언할 떄 그녀를 찾아가; I always go to her for advice -> She's my go-to person for advice
+* 인정해; Own it; Admit it
+* 폴은 모레노의 의뢰를 받았죠; He as commissioned by Moreno; has been commisioned to write a anthem
 * -는 무조건 해야지; - is a must
 * 별볼일 없는 배우야; he's just two-bit actor; small-time publisher; two-bit = small-time
 * 남자 웃통 벗은 사진; shirtless photo; 여자: topless

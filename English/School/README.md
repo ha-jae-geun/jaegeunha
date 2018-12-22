@@ -455,6 +455,7 @@
 	* 시험 보다 take a test
 	* #재시험보다; #retake a test = #resit an exam
 	* #문제 틀리다; #miss the question
+		* get this wrong; i always get this wrong
 	* #시험 범위는 어디예요?What does it cover? = can you tell me what the test will be on?
 	* #시험 범위는 1과부터 10과까지야	 The test will cover from chaper 1 to 10
 	* #시험 공부하느라 밤을 새워야해	 I have to cram for the test. krӕm

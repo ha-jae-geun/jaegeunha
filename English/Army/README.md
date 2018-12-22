@@ -12,6 +12,7 @@
 * 민방위 훈련이야; It's a civil defense drill; It's just a drill
 * 공격 받은거 아니야; We're not under attack
 * 미군이 군대를 철수시키지 않을거라고 생각해요; i don't think the United States will pull its tropps out for quite some time
+	* 군대를 모으고 있어요; She's gathering her forces
 * 전쟁을 선포하다; declare a war
 * 전쟁 중에; through/in/during a war.
 * 변절자; 매국노; turncoat; 

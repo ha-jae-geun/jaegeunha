@@ -1,6 +1,10 @@
+# 생각
+* (생각/방법을) 적용하다 / 이용하기 시작하다; run with; 그 아이디어에 착안해서 적용했어요; They took that idea and ran with it
+
 # 말
 * 말보다는 숨은 의미가 더 중요하다; the literal words are less important than the subtext
 * 가족을 대신해서 말하자면; 대변; i speak for my whole family
+* 능수능란하다; That's diplomatic; 2. 외교적인; 다른 사람의 심기 건드리지 않으면서 어려운 말을 요령있게 한다.
 
 # 논증 방법 과거: 기승전결, 현재: 서론, 본론, 겨론 기사-귀납-영역-열거
 
