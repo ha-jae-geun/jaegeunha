@@ -217,8 +217,9 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #학문적인 						 scholastic; i'm not a scholastic type of guy
  * #고급 취향; #good taste
  * 스포츠의 건강미, 포르노의 섹시함과 더불어 metrosexual의 패션 센스가 모두 갖춰진 남성
- * Spornosexual
- * 외모와 패션에 관심 많고 여성스러운 취향을 가진 남성을 뜻한다. 			 LUMBERSEXUAL
+ 	* Spornosexual
+ 	* 엄청난 미인; 섹시한 여성에게 쓰는 말; total babe
+ 	* 외모와 패션에 관심 많고 여성스러운 취향을 가진 남성을 뜻한다. 			 LUMBERSEXUAL
  * 누군가의 마음에 들려고 노력하다 			 (I want to )get/be on her(someone's) good side
  * 성향 								 inclination [ìnklǝnéiʃən]
  * 이 노래 완전 내스타일이야 						 This song is so me
@@ -345,6 +346,7 @@ I have a big crush on you / I have a thing for you, i'm into you
  * 떡 						 ride, got banged | got laid | smash
  	* #hit 속어: 성관계하다
  	* 한 가지만 생각하다, 주로 sex; you ain't got a on-track mind
+ 	* 그녀는 바에서 낯선 남자로부터 섹스를 하자는 제의를 받았다. She was propositioned by a strange man in the bar. - 유튜브 cut
  * #panky; #hanky-panky
  * 술먹으면서 마리화나 피우며 떡; #sippy on the panky
  * 부부생활 할 떄 침실로 들어와여; SHe only comes to the bedroom when it's time to be intimate
@@ -388,6 +390,8 @@ I have a big crush on you / I have a thing for you, i'm into you
  * 거기가 사막; 건조; 말라있을까봐 신경이쓰에요; self-conscious of being dry
  * 성적으로 흥분된다; I'm dripping wet(여자) = sexually aroused; sexually arosing; 흥분하게 하는
  	* 성적으로 흥분 freaky, freak out
+ 	* 2) umph 는 oomph 라고도 하는 속어예요. 사람들을 흥분 시키고, 에너지로 가득 차고, 성적으로 매력적임, 즉, [특별한 느낌/매력] 을 의미하는 단어에요. 외관상으로 느껴지는 매력을 의미합니다.
+ 		* 레이첼은 정말 특별한 매력이 있어. 눈을 뗄 수가 없네. ex) Rachel definitely has some umph. I can't take my eyes off her.
  	* arouse
  	* 성적으로 흥분; #randy; there's a time and place for your randy dog stories
  * #페티쉬; ##fetish; 이성의 옷 입음; #transvestite, 맞거나 고통 받는 것에 의한 쾌감: Majochist
@@ -497,9 +501,10 @@ I have a big crush on you / I have a thing for you, i'm into you
  * 나보다 좋은 사람 만나야해 				 You deserve someone better than me. 
  * #했다 #자다 #집적대다 #여자 #만나다 #사귀다 #애인
  * ☆~가 좋아요; #i like the fact that I can live i
- * ☆What got in you interested in ~ / What interests you about ~ 
- * 사랑해 I love you to the moon and back
- * 할말, 고백할 게 있어				 get off; I have to get some things off my chest
+ 	* 흠모; adore Mr.Brown
+	 * ☆What got in you interested in ~ / What interests you about ~ 
+	 * 사랑해 I love you to the moon and back
+	 * 할말, 고백할 게 있어				 get off; I have to get some things off my chest
  * 몸에 좋다 			 it's good for you it's healthy, it's good for 설명(circulation)
  * ☆좋아 하지 않다. I'm not crazy about it, It's just not for me, I'm not a big fan of that, i'm not into that
  * 설레다 pit a pat = heart bounce, my heart goes pit a pit, you make my heart bounce, my heart flutter, I get butterflies, you give me butterflies
@@ -565,7 +570,8 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #반하게하다; #swept off one's feet
 	 * 반하다; i'm #smitten with you; #smite; 갑자기 홀딱 방하다
 	 * 그냥 빠져봐; Just dive right in
-	 * 누군가를 반하게하다; sweep someone off their feet; i can't sweep you off of your foot
+	 * 이 표현은 무언가 매우 매력적인 존재가 불현듯 마음을 사로잡는다는 뜻입니다. 멋진 왕자님이 공주님을 구출해 줄 때, 두 손으로 들쳐안고 가는 장면이 상상이 되시나요? 바로 그 동작처럼, 누군가의 매력이 내 발이 바닥에서 떨어질 정도로 나의 몸을 휩쓸고 가버렸다는 거죠. 
+	 	* 누군가를 반하게하다; sweep someone off their feet; i can't sweep you off of your foot
 	 * 그는 당신에게 반했어요; he fancies you
 	 * 마음을 훔치다; steal one's heart
 	 * -에게 성적 호기심을 가지다; have the hots for somebody

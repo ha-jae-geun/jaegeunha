@@ -1,4 +1,8 @@
 # 기분
+* out of 는 뜻이 다양한데요, 어떤 일의 동기, 원인을 나타내기도 합니다. 여기서도 후회(regret)에서 나온 것(out of) 이니까 ‘후회 때문에, 후회의 마음으로 인해’가 됩니다. 또 어떤 것들이 있을까요?
+	* out of /fear/cuiousity/interst/spie/respeect/ignorance/anger
+		* = 그는 회개의 심정으로 장애인들을 돕고 있다. He’s been helping handicapped people out of regret.
+* 감정 기복; 큰 감정 기복을 겪다; = be/ride on an emotional roller coaster; ex) She's been on an emotional roller coaster since she arrived.
 * 기분이 언짢아지다; Fans #get the hump when the team loses.  팬들은 (자기가) 응원하는 팀이 지면 기분이 언짢아진다.
 * #승부욕; 승부욕을 갖다; have a desire to win
 * 그 감정을 명확하게 드러내 보세요; Emote that
@@ -40,60 +44,62 @@
 * 진지하게 well #thought-ou
 * #진지
 * love and hate
-* 그는 그녀에 대해 애증이 엇갈리는 태도를 보인다.		 He has an ambivalent attitude towards her.
-* 애증의 관계; They have a #love-hate relationship. 두 사람은 애증 관계에요. 
-* #애증
-* ~ lost it; ~ is losing it
+	* 그는 그녀에 대해 애증이 엇갈리는 태도를 보인다.		 He has an ambivalent attitude towards her.
+	* 애증의 관계; They have a #love-hate relationship. 두 사람은 애증 관계에요. 
+	* #애증
+	* ~ lost it; ~ is losing it
 * 미치다 ○ go crazy (돌아 버리다 = become insane) = off your head
-* = blow one's mind = crack up = flip out = go bonkers = go buggy = go cuckoo = go mental = go nuts = go off the deep end = go psycho 
-* ○ lose one's mind (이성을 잃다 = go crazy) 
-* = go bananas = go insane = become insane = go nuts = lose one's reason = lose one's senses
-* #nutsy
-* ☆미치광이							 lunatic 미국·영국 [|lu:nətɪk] 
-* 미쳐버리다 속어 									bananas
-* 미치겠다 			 일반적인 충격이나 기쁨을 넘어선 상태, I'm freaking out
-* 너 미쳤니?
-* Have you lost your mind? <>Are you crazy? 라는 뜻이고 조금 더 세련된 표현이다.
-* 미쳤다 #mad
-* 'be mad at sb는 '~에게 화가 나다'라는 뜻이지만, be mad about sb는 ~를 무척 좋아하다'라는 
-* #mad as a hatter; #hatter
-* 의미로 be crazy about sb와 같은 뜻이다.
-* #off the wall; she's off the wall today; 행동이나 말도 해당 가능
-* #crunk; #getting crunk
-* #boot; #crazy boots
-* 약빨았니?								 What are you smoking?
-* 정신 놨어? 						 	 Are you out of your mind?
-* 미쳤네							 You're nuts, raving loon
-* 정신이 이상해졌니? 							 Have you gone insane?
-* 미친 듯이 날뛰다; 				 run amok; you’re gonna start running amok
-* #똘끼가 눈에 돌았어; this #craze look in your eyes
-* ∴ mad는 보통 사람의 행동이 흔히 극도의 심리적인 스트레스 때문에 아주 이상함을 시사하는 비격식적인 단어이다.
-* ∴정신 질환을 앓고 있는 사람에게 이 말을 쓰면 모욕적이 된다. 그런 사람을 묘사할 때에는
-* mentally ill(정신적으로 병든 / 마음이 아픈)을 쓰도록 하라.
-* ∴미국 영어에서는 mad가 이런 뜻으로는 보통 쓰이지 않는다. 그 대신에 crazy를 쓴다.
-* crazy
-* ∴ mad와 같이 crazy도 정신 질환을 앓고 있는 사람에게 쓰면 모욕적인 표현이 된다.
-* 저 소리 때문에 내가 미치겠어! 명사 앞에는 안 씀] (비격식) 미친[제정신이 아닌]:
-* That noise is driving me insane/nuts = i'm going #nuts
-* 그녀의 엄마는 완전 맛이 갔어. 		 (비격식, 특히 英) (해롭지 않게) 약간 제정신이 아닌:
-* 'bӕti Her mum’s completely batty.
-* 그녀는 비탄에 빠져 제정신이 아니었다. She was out of her mind with grief.
-* (비격식) (특히 극도의 충격ㆍ불안으로) 제정신이 아닌[정신이 나간]:
-* 정신이 온전한 사람이라면 아무도 거기서 일하려고 하지 않을 것이다.
-* (비격식) 정신이 정상인[온전한](정상이 아닌[온전하지 않은]):
-* No one in their right mind would choose to work there.
-* #deranged; mentally deranged
-* ~에 환장해; i'm #obsess with ~
-* #off one's rocker
-* not playing with a full deck
-* #흔들의자; #rocking chair
-* #drive me batty; 
-* #crazy #mad #batty #미치겠다 #환장 #미친 #미쳤다 #패닉
-* diabolic; some people think it’s diabolic
-* #distraught; 완전 제 정신이 아는; at/over/with
-* #극악무도한 #마귀
+	* = blow one's mind = crack up = flip out = go bonkers = go buggy = go cuckoo = go mental = go nuts = go off the deep end = go psycho 
+	* ○ lose one's mind (이성을 잃다 = go crazy) 
+	* = go bananas = go insane = become insane = go nuts = lose one's reason = lose one's senses
+	* go ape; ape: 유인원;  침팬지나 고릴라 등의 유인원들을 ape 라고 하죠. 강하고 흥분한 이미지가 쉽게 떠오르는 동물들인데요. 그런 모습에서 나온 비격식 표현으로 흥분, 신남, 화가 남 등을 와일드하게 표현하는 것을 의미하는 단어에요. 영상에서는 [과감하게 표현하다] 로 해석이 되었습니다.
+		* 아이들은 날 볼 때마다 항상 열광하지. ex) The kids always go ape whenever they see me. [eɪp]
+	* #nutsy
+	* ☆미치광이							 lunatic 미국·영국 [|lu:nətɪk] 
+	* 미쳐버리다 속어 									bananas
+	* 미치겠다 			 일반적인 충격이나 기쁨을 넘어선 상태, I'm freaking out
+	* 너 미쳤니?
+	* Have you lost your mind? <>Are you crazy? 라는 뜻이고 조금 더 세련된 표현이다.
+	* 미쳤다 #mad
+	* 'be mad at sb는 '~에게 화가 나다'라는 뜻이지만, be mad about sb는 ~를 무척 좋아하다'라는 
+	* #mad as a hatter; #hatter
+	* 의미로 be crazy about sb와 같은 뜻이다.
+	* #off the wall; she's off the wall today; 행동이나 말도 해당 가능
+	* #crunk; #getting crunk
+	* #boot; #crazy boots
+	* 약빨았니?								 What are you smoking?
+	* 정신 놨어? 						 	 Are you out of your mind?
+	* 미쳤네							 You're nuts, raving loon
+	* 정신이 이상해졌니? 							 Have you gone insane?
+	* 미친 듯이 날뛰다; 				 run amok; you’re gonna start running amok
+	* #똘끼가 눈에 돌았어; this #craze look in your eyes
+	* ∴ mad는 보통 사람의 행동이 흔히 극도의 심리적인 스트레스 때문에 아주 이상함을 시사하는 비격식적인 단어이다.
+	* ∴정신 질환을 앓고 있는 사람에게 이 말을 쓰면 모욕적이 된다. 그런 사람을 묘사할 때에는
+	* mentally ill(정신적으로 병든 / 마음이 아픈)을 쓰도록 하라.
+	* ∴미국 영어에서는 mad가 이런 뜻으로는 보통 쓰이지 않는다. 그 대신에 crazy를 쓴다.
+	* crazy
+	* ∴ mad와 같이 crazy도 정신 질환을 앓고 있는 사람에게 쓰면 모욕적인 표현이 된다.
+	* 저 소리 때문에 내가 미치겠어! 명사 앞에는 안 씀] (비격식) 미친[제정신이 아닌]:
+	* That noise is driving me insane/nuts = i'm going #nuts
+	* 그녀의 엄마는 완전 맛이 갔어. 		 (비격식, 특히 英) (해롭지 않게) 약간 제정신이 아닌:
+	* 'bӕti Her mum’s completely batty.
+	* 그녀는 비탄에 빠져 제정신이 아니었다. She was out of her mind with grief.
+	* (비격식) (특히 극도의 충격ㆍ불안으로) 제정신이 아닌[정신이 나간]:
+	* 정신이 온전한 사람이라면 아무도 거기서 일하려고 하지 않을 것이다.
+	* (비격식) 정신이 정상인[온전한](정상이 아닌[온전하지 않은]):
+	* No one in their right mind would choose to work there.
+	* #deranged; mentally deranged
+	* ~에 환장해; i'm #obsess with ~
+	* #off one's rocker
+	* not playing with a full deck
+	* #흔들의자; #rocking chair
+	* #drive me batty; 
+	* #crazy #mad #batty #미치겠다 #환장 #미친 #미쳤다 #패닉
+	* diabolic; some people think it’s diabolic
+	* #distraught; 완전 제 정신이 아는; at/over/with
+	* #극악무도한 #마귀
 * #bitter, #resentful, #sullen - 억울해하는, 속상한 
-* 억울 								depression, oppression, dejection
+	* 억울 								depression, oppression, dejection
 	* 억울함을 느끼다; feel cheated
 	* 제가 왜 그런 벌을 받아야 돼요? what did i do to deserve this?
 	* this is #unfair = I didn't do anything to deserve this
@@ -118,15 +124,16 @@
 * 난 뭔가를 직접 고쳐야한다는게 지겨워			 I'm sick of having to fix things myself 
 * 아침 교통체증이 정말 #지겨워 				I'm really fed up with morning traffic jam
 * 질리거나 지겨워 하지 않는다 #never gets old(#old)
-* 그녀는 그의 유머가 질리지 않는다.			 She can't get enough of his humor.
-* 나는 이 맛있는 음식은 먹어도 먹어도 질리지가 않아 I can’t eat enough of this amazing food.
-* 우린 지겹도록 들었짢아 							we beat to death 
-* #무기력해 						I feel so helpless. = #lethargic
-* #지긋지긋해 						 I’ve had it. = it's such a #drag
-* 아파서 침대에 있는 건 이제 지긋지긋해.				 I’ve had it with being sick in bed.
-* 진절 머리나			 enough I'm sick and tired of it. I'm fed up with it. I've had it.
-* #혹사 exploit, overtax, work[drive] sb hard, #overworked; #overstrain one's eyes
-* #지긋 #무기력 #질리다 #지치다 #진절 #지침 #지겨워 #지겹다
+	* 직역하면 [충분한 ~을 얻을 수가 없어] 라는 뜻인데요. 무언가가 좋아서 아무리 많이 그것을 가지고 있다고 하더라도 충분하지가 않다- 라는 속뜻을 가진 표현이에요. 앞 영상에서의 가사가 [날 때려 멍투성이로 만들지만 너무 좋은걸] 라는 내용이었기에 그 가사와 연결되어 [그게 너무 좋다, 질리지가 않다] 라는 의미를 가지게 되었습니다.
+	* 그녀는 그의 유머가 질리지 않는다.			 She can't get enough of his humor.
+	* 나는 이 맛있는 음식은 먹어도 먹어도 질리지가 않아 I can’t eat enough of this amazing food.
+	* 우린 지겹도록 들었짢아 							we beat to death 
+	* #무기력해 						I feel so helpless. = #lethargic
+	* #지긋지긋해 						 I’ve had it. = it's such a #drag
+	* 아파서 침대에 있는 건 이제 지긋지긋해.				 I’ve had it with being sick in bed.
+	* 진절 머리나			 enough I'm sick and tired of it. I'm fed up with it. I've had it.
+	* #혹사 exploit, overtax, work[drive] sb hard, #overworked; #overstrain one's eyes
+	* #지긋 #무기력 #질리다 #지치다 #진절 #지침 #지겨워 #지겹다
 * feel #void = feel #empty
 * 2. a void in; 3. fill a voi;d #공백을 채우다 4. #무효; #contract is absoultely #void
 * feel the #futility of life
@@ -226,33 +233,34 @@
 * #아이고
 * #감탄할만한; #admirable, #praiseworthy, #outstanding - 감탄할만한, 훌륭한 
 * ☆#catch someone by surprise; my mother caught me by surprise
-* 깜짝이야 		 You scared me, I’m scared of you, you scared the shit out of me
-* i'll be #darned
-* 왠일이래 								 What a nice surprise
-* 놀라다 						raised eyebrows, be taken aback(#aback)
-* 우주의 방대함은 정말 정신이 아찔할 정도이다. The vastness of space really boggles the mind. 
-* #turn a hair(#hair)
-* 코레아는 그의 기술로 아스트로를 놀라게했다. 	 Correa had blown the Astros away with his skills
-* catch ~ by surprise; she caught me by surprise
-* 깜짝 놀라게 하다 				blow my mind; blow your mind: 상대방 놀라게 하기
-* 눈물 난 정도로 깜짝 놀랃; #read and weep(#weep)
-* 충격을 주다 							 (정신적) Shake someone up
-* 감탄시키다 							 knock (someone's) socks off 
-* 나 놀랐어(감동) 							 큰 감동 x I was blown away.
-* 을림을 주다; that is something that resonated with me so much
-* 깜짝이야 						 You scared me! > sorry, I didn't mean to
-* scare the shit/the crap/the hell + out of me
-* 놀랄 일도 아니야 			That's no surprise me. It didn't surprise me. I expected that. 
-* 놀래게 될거야. 							 It's going to knock your socks off.
-* 어머나, 놀라워! 								dӕm Well, I'll be damned! 
-* #경악하게하다; #astound
-* #경외, 경외심을 갖게 하다 #awe
-* #움찔하다; [자동사][V] ~ (at sth); He winced as a sharp pain shot through his left leg.
-* #flinch
-* #야호; #Yippee
-* #믿을 수 없는; #mindboggling
-* ☆##shook; 아주 심하게 놀라다; shook meme; i'm still shook as fuck
-* #놀라다 #깜짝 #놀라게 하다 #감탄하게 하다
+	* 고통이나 두려움 때문에 움찔하는 모습, 얼굴 표정 등을 의미하는 단어입니다. 영상에서 보시듯 움찍해서 뒷걸음질 치는 것도 flinch 라고 할 수가 있어요. 움찔이 아니라 소스라치게 놀랄 땐 be frightened (격식), be flabbergasted (비격식) 이라고 합니다. [ˈflæbərɡæstɪd]
+		* 탐은 사라가 그의 등을 만졌을 때 움찔했다. ex) Tom flinched when Sarah touched his back.
+	* 깜짝이야 		 You scared me, I’m scared of you, you scared the shit out of me
+	* i'll be #darned
+	* 왠일이래 								 What a nice surprise
+	* 놀라다 						raised eyebrows, be taken aback(#aback)
+	* 우주의 방대함은 정말 정신이 아찔할 정도이다. The vastness of space really boggles the mind. 
+	* #turn a hair(#hair)
+	* 코레아는 그의 기술로 아스트로를 놀라게했다. 	 Correa had blown the Astros away with his skills
+	* catch ~ by surprise; she caught me by surprise
+	* 깜짝 놀라게 하다 				blow my mind; blow your mind: 상대방 놀라게 하기
+	* 눈물 난 정도로 깜짝 놀랃; #read and weep(#weep)
+	* 충격을 주다 							 (정신적) Shake someone up
+	* 감탄시키다 							 knock (someone's) socks off 
+	* 나 놀랐어(감동) 							 큰 감동 x I was blown away.
+	* 을림을 주다; that is something that resonated with me so much
+	* 깜짝이야 						 You scared me! > sorry, I didn't mean to
+	* scare the shit/the crap/the hell + out of me
+	* 놀랄 일도 아니야 			That's no surprise me. It didn't surprise me. I expected that. 
+	* 놀래게 될거야. 							 It's going to knock your socks off.
+	* 어머나, 놀라워! 								dӕm Well, I'll be damned! 
+	* #경악하게하다; #astound
+	* #경외, 경외심을 갖게 하다 #awe
+	* #움찔하다; [자동사][V] ~ (at sth); He winced as a sharp pain shot through his left leg.
+	* #flinch
+	* #야호; #Yippee
+	* #믿을 수 없는; #mindboggling
+	* ☆##shook; 아주 심하게 놀라다; shook meme; i'm still shook as fuck
 * #offend; I didn’t mean to offend you
 * 끔찍한 일 								 It will be a nightmare
 * #hideous; commit a hideous crime
@@ -348,6 +356,9 @@
 
 
 # 감사
+* Thank you는 (사람자체나 일에 대해) 감사하다는 뜻으로 쓰이며 감탄사적 요소가 포함돼요. 줄여서 "Thanks!"라고 표현 가능합니다. appreciate는 (사람의 특정한 행동, 호의에 대해) 인정하고 감사하다는 뜻으로 쓰여요. 좀 더 격식 있는 표현이죠.
+	* I really appreciate your help.
+	* Thank you all for your time.
 * 비즈니스 항황; i'm grateful for + N
   * It was very kind of you to +V
   * I appreciate
@@ -716,64 +727,65 @@
 	* 방황하지마; don't #panic
 	* 그녀를 전혀 당황시키지 않았어요; It didn't faze her at all
 * 나 지금 수치스러워, 너 지금 굴욕감 주는거야 I feel humiliated, you’re humiliating him
-* #ashamed, #embarrassed, #humiliated - 굴욕감을 느낀, 창피한 
-* #mortify; #mortified
-* 제가 한 일이 수치스럽습니다 I feel ashaed of what i've done, i'm ashamed to talk about
-* 부끄러워 하지 ㅇ낳는; #unrepentant 미국·영국 [|ʌnrɪ|pentənt] 
+	* #ashamed, #embarrassed, #humiliated - 굴욕감을 느낀, 창피한 
+	* #mortify; #mortified
+	* 제가 한 일이 수치스럽습니다 I feel ashaed of what i've done, i'm ashamed to talk about
+	* 부끄러워 하지 ㅇ낳는; #unrepentant 미국·영국 [|ʌnrɪ|pentənt] 
 * #예고하다 #usher in; the IPhone ushered in a new era of smart phone 
-* #예견; #look ahead; 앞을 #내다보다, 
-* #herald; These talks could herald a new era of peace 
-* #forewarn; have been forewarned
-* #예측 가능한; #calculable
-* #pro#; 앞으로, 미리, 먼저; #prognosis, 
-* 이렇게 될 줄 못했어 							 I didn't see it coming.
-* 난 예상 했는데요. 							 I saw this coming.
-* 사랑.. 알다가도 모르겡써 Love is #unpredictable
-* 그녀는 그의 긴 응시를 받으며 당황스러운 기분이 들었다.				 gaze 응시:
-* geɪz She felt embarrassed under his steady gaze.
-* #터무니 없는 일 							 that is outrageous
-* #ludicrous, #absurd, #Ridiculous
-* 어이없는 사건 									 freak accident
-* 어이가 없다 		#ridiculous, at a loss of words., was dumbfounded by[at] the answer.
-* #할 말이 없어; literally #speechless, = I don't have words #make speeches; #발언
-* #발언권; I don’t have a #voice
-* 말이 그렇다는 거야; it's a #figure of speech
-* #터무니 없다; it's almost a #nonsensical belief
-* 너 나한테 농담하는 거지, 황당하네 You gotta be #kidding me
-* *갑작스런 주가 상승에 경제 전문가들이 어리둥절해 하고 있다.
-* The sudden rise in share prices has confounded economists.
-* 허를 찌르는 일이었다. 					 t kind of caught me off guard
-* ☆#예상도 못할걸요; I don't #suppose you have any idea where I found it 
-* it's way #beyond my expectation
-* #predict #foresee
-* #예지하ᄃᆞ #예상하다 #예언하다; #prognosticate
-* 정말 예상치 못했던 것은 						 But the real kicker 
-* 예상 못했어요					 I didn't see it coming.<> I saw this coming. 
-* 예상치 못한 일을 하다; #pull a rabbit out of a hat; #rabbit
-* 그건 완전 언어도단이지. 터무니 없어. 				 aʊt‘reɪdƷəs That’s #outrageous. 
-* 나 뻘쭘하면 어쩌지? 			#What if I feel awkward? I feel like a fish out of water.
-* 카메라 앞에서 부끄러워 하지 마세요					 Don’t be #camera shy.
-* 이런 일이 생길 줄 알았어? 		 There’s no way anybody could have seen this coming.
-* 오글거리다:		 				 cheesy, corny [kɔ́ːrni, cringy: 느끼하다,
-* 그 영상 오르라든다. 						 That video made me #cringe
-* 오글거리다:					#cringfy, #pronounced, make someone cringy
-* #cheesy; We did. We ended up watching this super cheesy romantic comedy.
-* #이불킥			 cringe; 불편하거나 민망한 감정을 느끼게 하는, cringey: 형용사
-* 뒤통수 치다 			stab 사람 in the back; There is no need to stab me in the back. 
-* #등쳐먹다 YOu're rippng them off
-* *믿는 도끼에 발등 찍히다 					You'be been stabbed in the back.
-* ☆#저럴줄 알았어. 				 That figures / I thought / anticipated as much.
-* 예상 대로네; you called it
-* 찌질하게좀 굴지마! 						 wʊs Don't be such a wuss!! 
-* #호모; You don't fight in there like #pansies, #pansy
-* 그럴 것 같아?								 [rékən] You reckon?
-* 내가 뭐라했지(민망) I don't know what i'm talking about, i'm not making any sense, am I?
-* #예상 외로 잘하다; #come up/turn up trumps; #trumps
-* #동요 ##per·turb·ation 미국식 [|p3:rtər|beɪʃn] 1. 심리적인 동요 2. 작은 변화 
-* 쉽게 동요하지 않는; #thick-skinned(#skin)
-* [동사] ~ (between A and B) (격식) (감정・행동이 양극을) 계속 오가다
-* Her moods #oscillated between depression and elation. 
-* #알았어 #저럴줄 #예상 #예고 #안내 #예측 #몽상 #뒤통수 #허를 찔림 #어이 없는 #터무니 없는 #황당 #당황 #당혹 #굴욕 #민망 #어리둥절 #뜻밖 #창피 #부끄 #수치 #쪽팔림 #찌질 #오글 #이불킥 #오그라 #구차 #뻘쭘 #터무니 #동요]
+	* #예견; #look ahead; 앞을 #내다보다, 
+	* #herald; These talks could herald a new era of peace 
+	* #forewarn; have been forewarned
+	* #예측 가능한; #calculable
+	* #pro#; 앞으로, 미리, 먼저; #prognosis, 
+	* 이렇게 될 줄 못했어 							 I didn't see it coming.
+	* 난 예상 했는데요. 							 I saw this coming.
+	* 사랑.. 알다가도 모르겡써 Love is #unpredictable
+	* 그녀는 그의 긴 응시를 받으며 당황스러운 기분이 들었다.				 gaze 응시:
+	* geɪz She felt embarrassed under his steady gaze.
+	* #터무니 없는 일 							 that is outrageous
+	* #ludicrous, #absurd, #Ridiculous
+	* 어이없는 사건 									 freak accident
+	* 어이가 없다 		#ridiculous, at a loss of words., was dumbfounded by[at] the answer.
+	* #할 말이 없어; literally #speechless, = I don't have words #make speeches; #발언
+	* #발언권; I don’t have a #voice
+	* 말이 그렇다는 거야; it's a #figure of speech
+	* #터무니 없다; it's almost a #nonsensical belief
+	* 너 나한테 농담하는 거지, 황당하네 You gotta be #kidding me
+	* *갑작스런 주가 상승에 경제 전문가들이 어리둥절해 하고 있다.
+	* The sudden rise in share prices has confounded economists.
+	* 허를 찌르는 일이었다. 					 t kind of caught me off guard
+	* ☆#예상도 못할걸요; I don't #suppose you have any idea where I found it 
+	* it's way #beyond my expectation
+	* #predict #foresee
+	* #예지하ᄃᆞ #예상하다 #예언하다; #prognosticate
+	* 정말 예상치 못했던 것은 						 But the real kicker 
+	* 예상 못했어요					 I didn't see it coming.<> I saw this coming. 
+	* 예상치 못한 일을 하다; #pull a rabbit out of a hat; #rabbit
+	* 그건 완전 언어도단이지. 터무니 없어. 				 aʊt‘reɪdƷəs That’s #outrageous. 
+	* 나 뻘쭘하면 어쩌지? 			#What if I feel awkward? I feel like a fish out of water.
+	* 카메라 앞에서 부끄러워 하지 마세요					 Don’t be #camera shy.
+	* 이런 일이 생길 줄 알았어? 		 There’s no way anybody could have seen this coming.
+	* 오글거리다:		 				 cheesy, corny [kɔ́ːrni, cringy: 느끼하다,
+	* 그 영상 오르라든다. 						 That video made me #cringe
+	* 오글거리다:					#cringfy, #pronounced, make someone cringy
+	* #cheesy; We did. We ended up watching this super cheesy romantic comedy.
+	* #이불킥			 cringe; 불편하거나 민망한 감정을 느끼게 하는, cringey: 형용사
+	* 뒤통수 치다 			stab 사람 in the back; There is no need to stab me in the back. 
+	* #등쳐먹다 YOu're rippng them off
+	* *믿는 도끼에 발등 찍히다 					You'be been stabbed in the back.
+	* ☆#저럴줄 알았어. 				 That figures / I thought / anticipated as much.
+	* 예상 대로네; you called it
+	* 찌질하게좀 굴지마! 						 wʊs Don't be such a wuss!! 
+	* #호모; You don't fight in there like #pansies, #pansy
+	* 그럴 것 같아?								 [rékən] You reckon?
+	* 내가 뭐라했지(민망) I don't know what i'm talking about, i'm not making any sense, am I?
+	* #예상 외로 잘하다; #come up/turn up trumps; #trumps
+	* #동요 ##per·turb·ation 미국식 [|p3:rtər|beɪʃn] 1. 심리적인 동요 2. 작은 변화 
+	* 쉽게 동요하지 않는; #thick-skinned(#skin)
+	* [동사] ~ (between A and B) (격식) (감정・행동이 양극을) 계속 오가다
+	* Her moods #oscillated between depression and elation. 
+* 믿다
+	* 내가 당신이었더라면, 그를 믿진 않았을 거예요. If I were you, I wouldn't take a chance on him; take a chance on something
 
 
 
@@ -1115,10 +1127,11 @@
 * #우여곡절 #고생 #상심하다 #괴롭다 #힘들다 #빡세다 #힘든 #혹독 #어려운 #어렵다 #상처 | #버겁다
 * 냉정하져 chill out, 긴장 풀어 sit back and relax
 * 고도의 긴장이 요구되는 때 crunch time 미국식  영국식   단어장추가
-* 긴장을 풀다; #unwind, #relax, #uptight
-* ☆take the edge off; I need to take the edge off the hunger
-* #strain; under the strain
-* 긴장하다. 		 am/feel/get/am getting nervous, tense, anxious, get cold feet
+	* 우리 모두는 엄마의 수술 때문에 굉장히 긴장되는 날을 보냈다. ex) We all had a nerve-racking day because of mom's surgery.
+	* 긴장을 풀다; #unwind, #relax, #uptight
+	* ☆take the edge off; I need to take the edge off the hunger
+	* #strain; under the strain
+	* 긴장하다. 		 am/feel/get/am getting nervous, tense, anxious, get cold feet
 * dƷítər get the jitter. have./get./feel butterflies in the/one's stomach, give butterflies ~ in the sto
 * feel #nauseous, shivering with cold , You are shaking like a leaf, I'm feeling under the weather
 * tightly #wound
@@ -1265,6 +1278,14 @@
 
 
 # 화
+## temper
+* 이 단어는 특정한 상황에서 화를 얼마나 내는지를 말할 때 씁니다. 어느 정도 컨트롤 할 수 있는 자신의 성질을 의미해요.
+	* volatile temper = 변덕스러운 성미 [ˈvɑːlətl], 성질, lose one's temper = 이성을 잃을 정도로 화내다.
+## temperament
+* 바꾸려고 해도 잘 바꿀 수 없는 타고난 기질을 temperament 라고 합니다. 예를 들어, 내성적인 사람이나 (introvert), 외향적인 사람 (extrovert) 등이 그런 예라고 볼 수 있겠습니다.
+	* even temperament = 차분한 기질, sunny temperament = 낙천적 기질, gentle temperament = 유순한 기질
+
+
 * 너 엉뚱한 사람한테 화풀이 하는거야; YOu're taking it out on the wrong person
 * 처음부터 우리 서로한테 열 받게 한 것 같아요 		 I think we got off on the wrong foot
 * 빡치네				 I'm pissed off > I'm ticked off / hit the ceiling/roof
@@ -1360,21 +1381,23 @@
 * #louth, a strong #aversion 강한 혐오감
 * ☆최악읙 ᅟᅧᆼ우에는; if worse comes to worst
 * 혐오; #abomination
-* #극혐이다					 that's revolting, foul, disgusting, #terrible
-* 최악이다 it's so #butters
-* 질색이야								loʊð I loathe it.
-* 역대 최악의 							Midlife cirsis at its worst
-* 그 부분은 최악이었어						 The part was a bummer. 
-* #recipe for disaster
-* 그건 최악의 경우죠 				sinέəriòu That’s the worst case scenario
-* 꺼리는; #disinclined
-* 대통령의 지지율이 바닥을 쳤지 	The president’s approval ratings have hit rock bottom
-* 바닥을 치다 it hit rock bottom = hit the #lowest point
-* #바닥: #ground, #floor; I was #floored; 놀래다
-* #깔때기; #funnel 미국·영국 [|fʌnl]
-* #혐오 #꺼리다 #최악 #질색 #바닥
-* 미워하지 말자 								don't be hatin
-* #밉다 #미워하다
+	* #극혐이다					 that's revolting, foul, disgusting, #terrible
+	* 최악이다 it's so #butters
+	* 질색이야								loʊð I loathe it.
+	* 역대 최악의 							Midlife cirsis at its worst
+	* 그 부분은 최악이었어						 The part was a bummer. 
+	* #recipe for disaster
+	* 그건 최악의 경우죠 				sinέəriòu That’s the worst case scenario
+	* 꺼리는; #disinclined
+	* 대통령의 지지율이 바닥을 쳤지 	The president’s approval ratings have hit rock bottom
+	* 바닥을 치다 it hit rock bottom = hit the #lowest point
+	* #바닥: #ground, #floor; I was #floored; 놀래다
+	* #깔때기; #funnel 미국·영국 [|fʌnl]
+	* #혐오 #꺼리다 #최악 #질색 #바닥
+	* 미워하지 말자 								don't be hatin
+	* #밉다 #미워하다
+	* 그리고 dish it out 자체가 ‘남을 비난하다’라는 뜻을 가지고 있어서 ‘남을 비판하는 것을 즐기면서 정작 자신에 대한 비판은 받아들이지 못하다’는 의미로 “…dish it out, …can’t take it” 라고 고정적으로 표현하기도 합니다. 
+		* 잭은 남을 비판하는 것은 잘 하면서 다른 사람들이 그에게 똑같이 하면 받아들이지 못한다. Jack can dish it out, but he can't take it when others do the same to him.
 * verdict, screening, evaluation, screen, evaluate, judge, #underestimate in (ourselves) 
 * #심사위원 #judges
 * #score card

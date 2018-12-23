@@ -61,6 +61,8 @@
 * 와나전 터져나오고 있어요; It's flipping exploding out
 
 # taste
+* 식욕을 잃다; lose one's appetite; 식욕이 없다; have no appetite
+* 차게 먹는게 나; It tastes better cold; taste good/better (when it's) cold
 * 살짝 탄 토스트; Lightly burnt toast
 * 매우 뜨거운; piping hot; i like my soup piping hot
 * 간이 하나도 안되어있네; Zero seasoning
@@ -92,6 +94,8 @@
 * 양념이 잘 밴게 정말 마음에 들어; I like the way they soak up your sauce
 * 조합이 아주 좋다; ~ is winning combination
 * 게걸스럽게 먹다; gobble up; He gobbled down his breakfast
+	* 실컷먹다;g orge on; gorge oneself on; 탐욕스럽게 보일 정도로 목구멍으로 쳐넣기
+		* I could spend the entire day gorging myself on fried chicken
 * #미끄럽고 #미끈거리는 식감이 있네	kind of slimy, slithery texture
 	* 식감만큼은 괜찮아; THey're quite nice in texture
 
@@ -524,6 +528,8 @@
 * 고약한, 역겨운 								 bad; nasty; awful 
 * #안익다 ; 고기 안익었어요					 The meat is undercooked.
 * #상하다 ; 우유 상했어요 						 This milk has gone bad/off
+	* 식중독 i got food posioning from spoiled milk
+	* 상한 음식; spoiled food; i just ate some spoiled food
 * I think this food is off. 
 * ##맛; #savor 미국·영국 [séivər]
 * #짭잘 											 savory

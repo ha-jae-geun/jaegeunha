@@ -48,6 +48,7 @@
 
 * 위기의식 危機意識  단어장추가 (철학) consciousness of crisis
 	* 상황을 고조시켜요; It all gets ramped up
+	* 그의 상황은 위태로웠다. His situation was haing by a hair. 
 * 오늘 날 세상에서 가장 긴급히 다뤄져야 할 이슈는 뭐가요? What's the world's most presing issue today? pressing issue/matter
 -------
 * 자택에서 대피하다; evacuated from their homes; 임새 대피소: tempoary shelters

@@ -2,6 +2,11 @@
 * because는 결과보다는 이유에 강조점을 두는 경우가 많다. 또 많은 이가 모르는 새로운 정보를 내포한다
   * since는 because처럼 이유나 원인을 말할 떄 쓰지만, 원인이 핵심 정보가 아닐 때 쓰는 경우가 많고 듣는 이가 대부분 알만한 정보를 내포하고 있다.
 
+# through
+* through는 ‘처음과 중간, 끝을 지나 / 하나하나 꼼꼼하게’란 느낌을 주는 단어로 동사와 함께 쓰이면 다음과 같은 의미가 됩니다. 
+	* - see through 간파하다, - go through 통과하다, - run through 속으로 퍼지다, - sit through 끝까지 앉아서 하다, 그래서 talk through도 하나하나, 조목조목 얘기해준다는 것으로 ‘설명하다, 심도있게 이야기하다’가 되는거죠. 
+		* “그는 새 컴퓨터를 사용하는 방법을 자세히 설명해 주었어.” He talked through how to use the new computer. 
+
 # to
 * 어개까지 내려오는 금발머리; she'g got the blond haircut down to her shoulders
 

@@ -58,6 +58,7 @@
 * 민간인들에게 출입 금지구역입니다; THis dock is off limits to civilians
 * 대체 복무를 하다; doing alternative service in a state-run corporation
 * 모든 사람을 자네 손으로 지휘하곤했었는데, you were running everything and everyone
+	* 진두지휘하다, 주도하다, 선두에 서다; spearhead; spear 는 명사로 [창], 동사로는 창 같은 것으로  [찌르다] 라는 뜻을 가지고, head 는 무언가의 맨 앞 부분을 의미해요. 그래서 spearhead 는 [창끝] 을 의미하거나, 공격적으로 앞으로 나아가는 모습처럼 사업의 [선두]를 의미해요. 동사로는 공격이나 사업을 [진두지휘 하다, 주도하다] 등의 의미로 쓰입니다; ex) IT companies are spearheading the growth.
 * 현역 복무중이다; ~ is on the active list
 * 군대 면제당하면; even if BTS were to be exempted
 * 제대로 #훈련 시켜보자 			 Beat someone into shape; Let’s beat ‘em into shape

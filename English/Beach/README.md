@@ -4,6 +4,7 @@
 	* 물이 만은 쪽은 만조, 아닌 쪽은 간조
 
 # 바다 #바다 #해변
+* 내 동생과 나는 매 여름마다 서로를 물 속에 밀어넣곤 했다. ex) My brother and I used to duck each other every summer. 2. 오리
 * 물을 배 밖으로 퍼내야해; We need to quickly bail the water out of the boat
 * 우리의 열정은 섯히 줄어들기 시작했다; out enthusiasm began to ebb away
 	* 밀물, 썲ㄹ; As the tide ebbed away; 

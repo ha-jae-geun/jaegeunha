@@ -4,6 +4,8 @@
 * 논의가 열기를 더해가고 있습니다; The debate is heating up
 * 사람들의 의견이 갈린다; The population is split on/over something 
 * 반박의 여지가 없는 사실들 undisputed facts   [ˌʌndɪˈspjuːtɪd] 
+* 예를 들어 토론이나 대화 중에, 대부분의 사람들이 동의하는 사항에 일부러 반대입장을 취하는 사람을 devil’s advocate이라고 하는데요, 그 주제에 대해서 더 열띤 논의가 이루어질 수 있도록 하기 위함이어서 ‘선의의 비판자’라고 표현하기도 합니다. 
+  * 제니는 반대되는 의견을 내놓으면서 논의가 이어질 수 있도록 선의의 비판자 노릇을 하였다. Jenny played devil’s advocate in order to get the discussion going.
 
 # 구조
 1.  참고: 뉴스, 책, 논문

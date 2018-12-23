@@ -9,8 +9,19 @@
 * 원하는 대로 골라; Take your pick
 * 무료로 해주다; do something for free; complimentary, for free, on the house
 
+# 브랜드
+* 브랜드 확장; #brand stretching = #brand extension
+* #brand essence
+* #brand values
+* #브랜드 인지도; #brand awareness
+* #brand recognition
+* #brand identity
+* #브랜드
+
 # 상품
 * 상표가 없는 브랜드들; Generics
+* 그런한 의미의 연장선 상에서 회사를 이끌거나, 다른 상품을 이끌어주는 주력 상품/서비스 등을 flagship 제품들이라고 해요. 몇 해 전부터 우리나라에서 '플래그쉽 스토어' 라는 말을 종종 쓰는데요. 회사의 대표 매장을 의미하는 말입니다.
+	* 예전에 내가 가장 좋아하던 WWF 대표 스타들은 헐크 호건이랑 워리어였어.  ex) My favorite WWF flagship stars back in the days were Hulk Hogan and Ultimate Warrior.
 * 주문이 잔뜩 들어오고 있어; we got a ton of orders coming in
 	* 방금 주문 하나 들어왔어; An order came in just now
 * 노동착취로 만들어지는 물품; Sweatshop products
@@ -25,7 +36,12 @@
 	* 값어치가 어마어마하다; worth a fortune
 	* 거금이 들다; cost a fortune
 	* 뗴돈을 벌다; make a fortune
+	* 가격에 대한 단어일 뿐만이 아니라 사람/사물의 성격을 나타낼 때도 부정적인 의미로 자주 쓰이는 표현이에요. 이런 부정적인 의미와의 연관성 때문에 어떤 광고에서는 Our product is not cheap. It's inexpensive. 라고 "저희 제품은 싼 게 아닙니다. 비싸지 않을 뿐이에요." 라는 광고 문구도 있었답니다.
+* 'cost'는 '비용이 들다'로, '주어 + cost + 사람 + 비용' 의 순서로 '주어를 사는 데에 (-의) 돈이 얼마 들었다' 라고 해석해요. 가령 'The shirt costs me 40 dollars.'는 '저 셔츠 사는데 (내 돈) 40달러 들었다, 썼다'라는 의미예요. 단순히 가격만을 이야기할 때는 'It costs 10 dollars'처럼 cost 뒤에 비용만 써도 됩니다.
+	* cost는 가격 뿐 아니라 시간, 노력, 대가 등 들어간 모든 결과물의 값을 말할 수 있어요.
+		* 그것 때문에 난 많은 힘이 들었다. It cost [cost의 과거형] me lots of labor. 
 * 버거는 베트남에서는 잘 팔리기가 힘듭니다; Burgers have a tough sell in Vietnam
+* 최고급의; 내 물건 사는데 보통 돈을 많이 쓰지는 않지만, 컴퓨터는 최고급이어야만 해. ex) I don't usually spend a lot of money on my own stuff, but my computer must be a high-end computer. <> low-end
 
 ## 유명 브랜드
 * toyota; toy-Yoh-duh

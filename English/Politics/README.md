@@ -9,7 +9,8 @@ The best-selling classic of politics is Machiavelli's monarchy.
 * 공산주의; communism, collectivism
 * 민주주의; parliamentary democracy 
 * 폭정에 시달리다; suffer from tyranny ; [ˈtɪrəni; despotism, tyrannical[despotic, oppressive] rule; tyrannize over a country
-* #공포정맃; #reign of terror; [reɪn]
+* #공포정치; #reign of terror; [reɪn]
+	* 의회 군주제라는 정책 the doctrine of parliamentary sovereignty 
 
 ## Election
 * win the election

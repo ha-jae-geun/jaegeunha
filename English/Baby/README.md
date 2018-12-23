@@ -32,6 +32,7 @@
 * 술래: IT
 
 # 청소년 #아이
+* 비행 십대들 delinquent teenagers [dɪˈlɪŋkwənt]]
 * 3세 이상이라고; Ages 3 and upㅈ
 * 날 야단치지 마. 	Don't bite my head off
 * 제비뽑기를 하다; draw straws; 과거에는 지푸라기로 제비뽑기; 재수없게 걸리다; draw the short draw

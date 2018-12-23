@@ -1,3 +1,52 @@
+* 이 표현은 ‘남들보다 유리한 점, 도움이 되는 기술 등을 가지고 있다’는 뜻인데요, 패턴은 「have something going for 사람」입니다. 여기서 something은 ‘유리하게 해 주는 대상’을 넣으면 되는데요, 표현 방법은 다양합니다. 예문을 보면서 이해해 주세요.
+  * 돈이 많은 부모님을 두었기 때문에 그는 좋은 조건을 갖췄지. As the son of rich parents, he has a lot going for him.
+* 이 표현은 산처럼 생겨서 곡선의 중간이 위로 튀어나와 있는 그래프를 떠올리시면 이해가 되실거에요. 보통 평균치에 해당하는 수가 가장 많아서 곡선의 가운데가 위로 튀어올라 있고, 그 곡선보다 앞서서(ahead of) 그래프가 낮아지는 부분은 평균보다 뛰어난 곳을 가리킵니다. 그래서 ahead of the curve는 ‘남들보다 앞서다, 평균보다 낫다’라는 의미가 되는 것이죠.  반대로 곡선(curve)보다 뒤에(behind the curve)있는 부분은 평균보다 떨어지는 부분이기 때문에 ‘시대에 뒤지다, 평균에 못미치다’입니다. 
+  * 시험을 잘 봤는지는 확실히 모르겠는데, 평균 이상은 될거라고 생각해. I'm not sure how I did on that exam, but I think I'll end up ahead of the curve.
+* by heart는 ‘외워서, 기억하여’란 뜻으로 깊게 생각하지 않아도 바로 입에서 나올 정도로 알고 있는 것을 know by heart라고 합니다. 
+  * 난 그 번호로 하도 많이 전화를 걸어서 이미 외워버린 상태야. I’ve dialed the number so many times that I know it by heart.
+* 상황이나 사건이 굉장히 끔찍하고 심각한 것을 강조해주고 싶을 때 쓰는 형용사입니다. 영국에서는 비격식 표현으로 무언가의 질이 굉장히 [구린] 을 의미하기도 해요. 
+  * = 그 회사는 여전히 재정적으로 끔찍한 상황에 처해있다. The company is still in a financially dire situation.  [ˈdaɪə(r)] 
+* 문장이 끝날 때 쓰고, 더 이상 문장이 진행되지 않는다는 점에서, 회화를 하다가 문장 끝에 period 라고 말을 한다면 상대방에게 [더 이상 얘기할 필요가 없다. 이 논의는 끝이다. 누가 뭐래도 그렇다. 더 이상 말하지 마라.] 등의 의미를 가져요. 자신의 주장을 강하게 표현하고자 할 때 쓰는 단어입니다.
+  * = 상황이 어떻든지 간에, 난 네가 제이슨 이용하도록 두지 않을 거야. 더 이상 얘기하지 마.No matter what, I'm not gonna let you take advantage of Jason, period.
+* 보통 회색을 색깔이 있는 듯 없는 듯 한 색이라고 여기듯이, 누구도 명확하게 정의를 내릴 수가 없어 무언가 이도저도 아닌 상황이나 영역을 gray area 라고 합니다.
+* 1. 따끔거리다, 찌릿하다 2. (감정이) 마구 일어나다. 뾰족한 끝으로 피부를 쿡쿡 쑤시듯이 따끔거리는 걸 의미하는 단어입니다. 영상에서는 스파이더맨의 몸이 무언가를 찌릿찌릿 느끼기 시작하는 모습이에요. 
+  * 즐거움에 온 몸이 찌릿하기 시작했어. ex) My entire body started to tingle with joy.
+* 강가에서 사금을 채취할 때 모래 등을 걸러내는 도구를 pan 이라고 하는데요. 자신이 원하는대로 pan 을 이용하여 사금채취를 전개/진행 한다는 점에서 유래된 비격식 표현입니다. 
+  * 깜짝 파티를 위한 우리 계획이 잘 진행되었으면 좋겠다. ex) I hope our plan for the surprise party pans out well.
+* 무언가를 머리에 그대로 들이받는 상황을 연상하시면 될 것 같은 표현입니다. 마치 소싸움에서 소들이 머리를 '정면으로' 들이받는 모습인 거죠. 차 사고에서 '정면으로 부딪힌' 이라는 뜻으로도 사용됩니다.영상에서는 부사로 쓰였지만, 명사 앞에서 형용사로도 많이 쓰이는 단어입니다.
+  * 난 절대 이 문제를 처리하기를 피하지 않겠어. 대신 정면으로 맞설거야. ex) I will never avoid dealing with this issue. Instead, I will confront it head-on.
+* a. ~을 가치없는 것으로 보다. 폄하하다. b. (부채를) 탕감해주다. 영상에서는 a 의 의미로 쓰였습니다. 중간에 하이픈을 넣어서 (write-off) [무가치한 것/사람] 이라는 뜻으로도 사용됩니다.
+  * 그의 놀라운 재능에도 불구하고, 사람들은 종종 그의 나이 때문에 그를 폄하해. ex) Despite his outstanding talent, people often write him off because of his age.
+* 비슷한 맥락으로 will 이 조동사가 아니라 일반동사로 쓰일 땐 [의지력을 발휘하다] 로 해석이 되는데요. 영상에서처럼 will A into B 를 쓰게 되면 [애써서 A를 B로 만들다] 의 의미로 쓰였습니다.
+* 내가 애쓰면 그녀를 설득할 수 있을거라고 생각했어. ex) I thought I could convince her if I willed it.
+* gay 가 영상에서처럼 예전에는 형용사로 [즐거운/명랑한] 이라는 의미로 사용되었지만, 지금은 거의 쓰이지 않아요. 오히려 동성애자를 비하하는 느낌에서 온 의미인 [매력없는/재미없는] 또는 [게이같은] 이라는 의미로 주로 젊은층에서 사용되어집니다. 그래서 예를 들어, Jack is so gay 가 오래 전에는 [잭은 정말 명랑한 사람이야] 의 의미가 지금은 [잭은 정말 게이같아] 라고 해석이 됩니다.
+* 꼴 좋다 / 당할만하다./ (네가 그런 일을 겪은건) 인과응보다. = (It) serves someone right (for~)
+  * 에밀리가 아이들 괴롭히다가 발목을 삐었어. 인과응보지! ex) Emily twisted her ankle while bullying some kids. Serves her right!
+*  나머지/그 이후는 잘 알려져 있죠. = The rest is history.
+* core 가 [중심부] 라는 뜻과 함께 [핵심, 정수] 라는 뜻을 가지죠. 그래서 cut to the core 라고 하면 그 핵심으로 그대로 잘라 들어가는 것을 의미합니다. ex) His question really cut to the core of the issue.
+* 승객 여러분. 우리는 곧 이륙할 것이니, 안전벨트를 매 주십시오. Ladies and gentlemen. We’re going to take off soon, so please fasten your seat belts.
+  * 수업 시간에 신발을 벗지 마세요. Don’t take your shoes off during class.
+  * 그녀의 사업이 아주 잘 풀렸다. Her business has really taken off.
+* 여기서 top은 동사로, '~를 앞지르다, 능가하다' 라는 뜻이에요. 다음과 같이 자주 쓰여요.
+  * 방금 엄청 멋졌어! 이걸 뛰어넘어보시지! That was a great one! Top that!
+* ignorant는 '무지하다', '무식하다'라는 뜻입니다. 명사 형태는 ignorance입니다.
+  * 그는 인종에 대한 무식한 말을 했다. He made an ignorant comment about race.
+* 동사 devastate은 '파괴하다'라는 뜻이에요. 형용사 devastating은 '파괴하는 듯한', 즉 '굉장히 충격적인', '굉장히 속상한'이라는 뜻이랍니다.
+  * 아이는 죽은 채로 발견되었고 마을 전체는 충격과 슬픔에 휩싸였다. The child was found dead and the whole town was devastated.
+* namely: 즉, 구체적으로 (예를 들자면) 처음에 포괄적이나 간접적으로 이야기했던 부분을 구체적으로 예를 들거나 언급하고자 할 때 사용하는 말이에요.
+  * 이 아티스트는 강렬한 색상을 많이 사용합니다. 빨강, 노랑, 초록과 같은 색이지요. This artist uses a lot of vivid colors, namely red, yellow, and green.
+* 넌 반드시 두 시까지 여기 와야 해. I want you here by two o’clock without fail. 
+  * 무조건? 진짜? They go without fail? - Seriously.
+* '두 가지 이상의 것이 하나처럼 같다'라는 의미로, 단순히 same이라고 일컫는 것보다는 '동일한 것'이라는 데 더 포인트를 준 표현이죠~ 여기서는 킴 카다시안과 여왕이 세계의 이목을 끌기로는 '하나같이 똑같다'는 걸 뜻해요!
+  * 육체와 영혼은 동일한 것이다. Body and soul are one and the same.
+* 1) root이 ‘뿌리’입니다. 그래서 be rooted in~ 은 ~에 원인이 있다 / ~에 뿌리박고 있다’가 됩니다. 반대로 root out 은 ‘뿌리뽑다, 근절시키다’를 의미합니다. 
+  * 유교문화는 한국 사회에 깊게 뿌리박혀 있다. Confucianism is deeply rooted in Korean society.
+* 2) signify는 간단하게 mean(의미하다)과 동의어라고 생각하시면 됩니다. 
+  * 아무도 그 기호들이 무엇을 의미하는지 알지 못했다. Nobody really knew what the marks signify.
+* 3) stature는 ‘지명도, 위상’을 의미합니다. 비슷하게 생긴 단어로는 status가 있는데요, ‘지위, 신분, 자격’으로 의미가 약간 다릅니다.
+  * 미술비평가로서의 그의 지명도는 대단하다. His stature as an art critic was tremendous.
+*  1) 여기서 crumble은 ‘흔들리다, 무너지다’인데요, 조직체나 제국, 시스템, 관계, 희망 등이 막을 내린다는 의미입니다. 혹은 쿠키, 벽 등이 ‘바스러지다, 부숴지다’라는 뜻으로도 쓰입니다. 이와 관련해서 재미있는 표현이 있는데요, 바로 “That’s the way the cookie crumbles!” 입니다. ‘인간 세상사가 다 그런거지! / 인생이 다 그런거지!’라는 뜻의 속담으로 영화 대사에서도 종종 나오는 말이에요. 
+  * 사회주의가 몰락한 원인이 뭐라고 생각하세요? What do you think caused socialism to crumble?
 * 잠에서 꺠다; wake up; 일어나다; getup; 침대에서 나오는 것: get out of bed
 * 다쓰고 갖다놔; Put it back when you're done
 * 한 방향에서 다른 방향으로 왔다갔다 한다; The boy is walking up and down the path
@@ -111,6 +160,140 @@ you
 * 가만히 있어; Hold/Stay still
 * 나는 조언할 떄 그녀를 찾아가; I always go to her for advice -> She's my go-to person for advice
 * 인정해; Own it; Admit it
+* step outside는 '바깥으로 나오다'는 의미로 여기서처럼 실제 안에서 밖으로 나간다는 뜻으로도 사용되고 "I was hesitant to step outside my comfort zone." (난 내가 편안하게 느끼는 영역에서 벗어나기를 주저했다.)와 같이 추상적 개념으로도 사용할 수 있어요. 또는 속어로 '나가서 싸우다'라는 의미도 가지고 있습니다. "Do you want to step outside?"는 '너 나랑 싸울래?'라는 뜻이 될 수 있답니다~
+* dark hair는 어두운 색의 머리인데, 어두운 갈색 머리에서 검은색 머리까지의 어두운 계통 색을 아우를 수 있는 표현입니다. 한국에서는 검은색 머리면 black hair, 갈색 머리면 brown hair라고 좀 나누어 생각하는 경향이 있는가 하면, 영어권에서는 금발 (blond/blonde) 또는 빨간 머리(ginger, red hair)와 대비되는 개념에서 dark hair 또는 brunet/brunette과 같은 표현이 더 빈번하게 나타나게 됩니다.
+* bottom cabinet은 바닥에 가장 가까운, 즉 가장 아래칸이라는 뜻이에요. '가장 위 칸에'는 top cabinet이라고 하고, 가운데는 middle cabinet이라고 해요.                              
+* 먼저 trust me라고 하면 다른 사람 말고 날 믿어, 또는 내가 하는 말이 맞으니 믿어, 처럼 경우에 따라 그 사람 또는 그 사람이 하는 말을 믿을 수도 있고, 안 믿을 수도 있음을 시사합니다. 반면, trust in me라고 말하는 건, 그 사람 자체에 대한 신념을 일컫습니다. 그 사람이라는 존재 자체에 믿음이 있음을 의미하는 거죠. 예를 들어 볼게요.
+  * 대니가 자신의 일을 끝내리라 믿어. [ex] I trust Danny will get his work done.
+  * 대니가 자신의 일을 끝낼 사람이라는 걸 믿어. [ex] I trust in Danny to get his work done.
+* take over; 1. 이어받다; 호세는 아버지에게서 사업을 물려받았다. [ex] Jose took the business over from his father.
+  * 영화에서 외계인들이 세계를 장악한다. [ex] In the film, aliens take over the world.
+* count; 1. 수를 세다 2. 중요하다 3. 인정하다 4. 간주하다; 친한 친구라 간주하다; i count him as sa close friend 5. count on 믿다
+* 단호한; firm answer = 확실한 해답; firm belief = 확고한 믿음, ㅍfirm resolution = 단호한 결의
+  * (시류에 휩쓸려 의견을 바꾸지 않고) 단호히 버티다 stand firm / take a firm stand
+* trace 1. 1. A를 B까지 추적하다.  2. (기원을) 추적하다. 
+  * 물리적으로 누군가를 따라가 추적하여 찾거나, 영상에서처럼 기원을 추적하여 밝혀낼 때 쓰는 패턴입니다. trace 가 명사로 쓰이면 [자취/흔적] 이라는 뜻을 가지기도 하는 건 우연이 아니겠죠!
+  * 의사들은 그녀의 문제 일부를 가혹한 어린 시절의 트라우마로 추적하여 발견해냈다. ex) Doctors successfully traced some of her problems to severe childhood traumas.
+  * 난 마침내 그녀를 부산의 한 장소까지 추적해서 찾아냈어. ex) I finally traced her to a place in Busan.
+* : A를 최고의 상태로 유지하다  keep A in tip-top shape; Keeping her claws in tip-top shape
+* 한때 우리를 제한했던 경계들을 허무려고 노력해 오고 있습니다. ex) We've been trying to push the boundaries that once limited us.
+* 그 영화감독은 역사와 허구를 능숙하게 엮어서 놀라운 이야기를 만들어 냈습니다.  ex) The movie director has skillfully woven history and fiction into an amazing story. 2. weave: (직물, 천 등을) 엮다
+* cult; 1. 광신적인 종교집단 / 사이비 종교집단 2. 추종, 숭배 3. ~을 추종하는; 영상에서는 뭔가에 푹 빠져 하나만 생각하는 외곩수를 뜻하는 single-minded 와 [광신도와 같은] 을 의미하는 cult-like 가 함께 쓰여서 [광적으로 생각에 몰두하는 것] 이라고 쓰였습니다.
+* 물리적으로 해를 가하려는 사람뿐만이 아니라, 답하기 어려운 질문, 문제 등이 자신에게 영향을 미치는 것을 막거나 피할 때 쓰는 단어입니다. 보통 문제의 근원을 처리하는 것이 아니라 짧은 시간 동안만 막아내는 것을 의미해요. = fend off
+  * 이 교수님은 사적인 질문을 피하는데 어려움을 겪었어. ex) Professor Lee had a hard time fending off personal questions.
+* 아무거나 발생할 때 쓰는 단어는 아니고요. 주로 안 좋은 것들, 예를 들면, 질병이나 전쟁, 폭력 같은 것들이 '갑자기' 발생할 때 쓰는 단어에요.; outbreak
+  * 메르스의 발병이 계속해서 퍼져나갔고 말 그대로 모두가 두려워했다. ex) The MERS outbreak continued to spread and literally everyone was scared of it.
+* 미드/영드 등을 많이 접하신 분들은 아마도 jerk 를 비속어 비슷하게 [얼간이/멍청이/또라이] 정도로 알고 계실 텐데요. 동사 jerk 는 [홱 움직이다] 라는 의미를 가집니다. 전치사 away 는 [멀어진, 떨어진] 과 함께 쓰여 영상에서는 [빠르게 벗어나다] 로 해석이 되었습니다. 이 경우엔 주어가 스스로 빠르게 벗어나는 것이기 때문에 따로 목적어가 필요 없는 자동사로 쓰이고요. 목적어와 함께 타동사로 쓰일 경우는 무언가를 잽싸게 낚아채는 걸 의미하기도 합니다.
+  * 내 여자친구가 내가 폰을 쓰고 있는데 갑자기 낚아챘어. ex) My girlfriend suddenly jerked my phone off while I was using it.
+* so big 은 [정말 큰]인데, 여기에 only 가 붙으면 [기껏해야 얼마 안 큰]이라는 의미로 완전 반대 뜻이 됩니다. only 가 [오직, 유일한] 정도로 외우셨을 텐데요. 엄밀히 따지면 only는 부정어로 [하나 빼고는 ~가 아닌, 오직 ~ 밖에 없는]의 뉘앙스를 띄고 있거든요.
+  * = 얼마 없는, 얼마 안 되는  only so many/much 
+* 차 앞 유리에 달린 와이퍼(wiper)가 물기를 다 없애주듯이 wipe는 무언가를 [닦다, 지우다]의 의미를 가져요. 여기에 부사 out 이 붙어서 '완전히' 지워 없애버리는 의미를 가집니다. 목적어로 '장소, 사람, 그룹, 동물' 등이 자주 쓰여요.
+  * = 밤 사이에 허리케인 샌디가 지역사회 전체를 초토화 시켰다. Hurricane Sandy wiped out the entire community over night.
+* odds 는 [가능성] 을 의미하는데요. What are the odds ~? 는 가능성, 확률을 물어볼 때 가장 흔하게 쓰이는 표현이에요. [확률] 을 의미하는 단어로는 probability 라는 단어가 있지만, 실제 수치를 의미하는 뉘앙스가 짙기 때문에 실제 수치를 요구하는 것이 아니라면 odds 대신에 probability  라는 단어는 잘 쓰지는 않아요. 
+  * * What are the odds ~? of 
+* consist; consist는 뒤에 어떤 전치사가 오느냐에 따라 뜻이 달라지는 단어 중 하나입니다. [consist of~]는 [~로 구성되어 있다] 라는 의미인 반면, [consist in~]은 [~에 있다/존재하다], [consist with~]는 [~와 일치하다]라는 뜻을 가지고 있습니다. consist의 동의어로는 be composed of, be made up of 두 가지를 알아두시면 좋습니다!
+  * 비밀번호에는 문자와 숫자가 둘 다 포함되어야 합니다. ex) Password must consist of both letters and numbers.
+  * 이 미술품의 미는 정교함에 있다.  ex) The beauty of this artwork consist in its sophistication.
+* live on 뒤에 장소나 기타 목적어가 쓰이지 않고 문장 끝에 단독으로 쓰였다면 [계속 살다, 존재하다] 라는 뜻으로 해석하시면 됩니다. [live by = (신조/원칙 등에) 따라 살다] , [live with = ~와 동거하다, 감수하다] 처럼 어떤 전치사를 쓰느냐에 따라 다르게 해석해야 한다는 점 유의하세요!
+  * 그가 죽고 나서도, 그가 제정한 규칙들은 여전히 존재한다. ex) Even after he died, the rules he established still lives on.
+  * 우리는 무슬림 원칙에 따라 살아야 했다.  ex) We had to live by the Muslim principle. 
+* 변화를 인정하지 않고 어떠한 원칙을 고수하거나 무엇인가를 놓아주지 않고 매달릴 때 쓰는 표현입니다. to 대신에 on을 사용해도 같은 뜻이며 동의어로는 stick to 와 adhere to 를 많이 씁니다.
+  * 너 과거에 집착하면 안돼. 그 돈은 이미 없어진 돈이야. ex) You can't cling on the past. The money is already gone.
+* 접미사 -ous 가 붙으면 단어들이 보통 형용사로 변합니다. covetous 또한 남의 것을 강력히 [탐내다] 라는 뜻의 covet 이라는 단어에서 파생된 단어랍니다. be covetous of 을 써서 [~을 탐내다] 라는 의미를 갖도록 쓸 수도 있어요.
+* 우세; 동네 아이들이 모여서 팀을 짜서 야구를 하려고 할 때, 보통 남들보다 더 잘하는 인기 있는 아이들 두 명이 나와서 팀을 고르기 시작하잖아요? 그때 야구 배트 제일 밑을 한 아이가 한 손으로 쥐고, 다른 팀 주장이 될 아이가 그 윗부분을 한 손으로 쥔 후에, 서로 손을 번갈아가면서 배트의 제일 윗부분을 향해 갑니다. 배트의 마지막 부분을 잡았을 때 더 위에 손을 둔 아이가 먼저 팀원을 고를 수 있고, 보통 제일 잘 하는 아이를 먼저 고를 수 있기에 '유리한 상황/주도권' 을 가져가게 된다는 모습에서 나왔다고 하는데요. 현재는 어떤 상황 안에서 다른 사람들보다 더 많은 힘을 가지고, 무언가를 결정할 수 있는 '주도권' 이 있을 때 have the upper hand 라고 합니다. 영상에서는 gain 을 써서 [주도권을 얻다] = [전세가 자기 쪽으로 기울다] 라고 해석이 되었어요.  참고로 외국에선 포커 경기 중계를 참 많이 해주는데요. 중계석에서 플레이어들의 패를 보고, 더 유리한 패를 가지고 있는 사람에게 the upper hand 를 가지고 있다고 말합니다. 
+  * 우리가 업계에 대해서 모든 걸 아니까 협상에서 더 유리해. ex) We have the upper hand in the negotiation as we know in and out of the industry.
+* 국가들이 서로 상대 국가의 사절들을 추방하는, 상례적인 보복 사태 the routine tit for tat when countries expel each other’s envoys 
+* = A와 B가 치열한 접전/경쟁을 벌이다 * A give B a run for their money  1) 이 표현은 사자성어로 표현해보자면 용호상박, 난형난제의 느낌으로 서로가 무언가를 너무나도 잘해서 치열한 접전을 벌인다는 뜻이에요.
+* distill; 무언가를 증류하면 필요 없는 불순물은 사라지고 액기스만 남게 되죠. 그런 의미의 연장선에서 핵심이나 요지를 [뽑다] 라는 의미를 가지는데요. 영상에서는 10년이라는 시간 중에서 중요한 부분들만 뽑아내서 20페이지에 담겼다는 것을 의미합니다. 2) 그냥 직역하면 [돈을 위해 뛰다]라는 의미라서 이게 무슨 소리지.. 하실 수도 있는데요. 경마에서 유래된 표현으로, a run for one's money 만 놓고 본다면, 자신이 돈을 건 말이 그날 경주(run) 에서 뛰기를 원한다는 의미입니다. 3) 그런데 이걸 A가 B에게 준다는 말(give)은 B 라는 사람이 돈을 건 말에게 A 라는 사람이 돈을 건 말이 좋은 경주를 준다, 즉 서로 좋은 경기를 펼친다는 말이기에 비유적으로 [치열한 접전을 펼치다]라는 의미를 가지게 되었습니다.
+  * = 그 아이들이 너희들과 치열한 경쟁을 펼치게 될 거야. The boys will give you guys a run for their money.
+* stock 은 [재고]라는 뜻도 있는데요. 재고를 살필 때 정확하고 찬찬히 살펴보는 모습에서 유래된 표현입니다. take stock of ~  = ~을 점검하다, 곰곰이 생각하다, 전반적인 평가를 내리다
+* = 그는 우리 모두를 합친 것보다 더 컸어. He was bigger than all of us combined. = ~가 합쳐진 것보다 더~한 = than - combined
+* 이 여행 책자가 정말 좋은 점은 필수 방문 장소들이 단 50 페이지 정도로 압축돼 있다는 거야. ex) What's great about this travel guide is that must-visit places are distilled into only about 50 pages.
+* 매일 한 수 앞설 수 있는; THey're able to outsmart every day; outdo: 능가하다; outnumber; 수적 우세; outlive: 보다 오래 살다
+* 아부하다 우리말에서도 속어로 누군가에게 아부할 때 [쪽쪽 빤다]라고 말을 하는데요. 비슷한 표현입니다. 비격식 표현으로 무언가를 얻기 위해 아부하는 걸 의미하며, 주로 미국에서 쓰여요. 영국에선 suck up to 라고도 합니다. (suck = 빨다); kiss/suck up to someoone
+  * = 난 어느 누구도 내가 너한테 아부한다고 생각하는 걸 원하지 않아. I don't want anyone to think I'm kissing up to you.
+* stand는 힘든 상황이나 어떤 사람, 물건을 참다, 견딘다는 뜻으로 can/could과 함께 부정문, 의문문에서 사용됩니다. stand와 bear는 거의 상호교환이 가능한데 stand가 구어에서 더 자주 접할 수 있습니다. endure는 장시간에 거쳐 참는다는 뜻이고 tolerate는 용인한다는 의미도 함께 가지고 있습니다. (endure, tolerate는 긍정문에서도 많이 쓰임)
+  * I just cannot stand spicy food. How can you stand smelly shoes?
+* 1) beg + 목적어 + to 부정사 / not to 부정사 [ex] I begged her to forgive me.
+  * 2) beg + (목적어) + for 명사 [ex] I begged her for a second chance.
+  * 제발 부탁이야. / 이렇게 애원할게. [ex] I'm begging you.
+* 2. 'feel like'는 '~인 것 같다', '~처럼 느껴진다', '~같은 느낌이다'라는 뜻으로, 구어적 표현 중에서도 필수적으로 꼭 알아둬야 할 표현이에요! 익혀두면 정말 유용하고요. 다음 두 형태로 자주 쓴답니다.
+  * [ ex1: feel like + 명사 ] I feel like such an asshole.
+  * [ ex2: feel like + 주어, 동사가 포함된 절 ] Sometimes I feel like I'm going to be single forever.
+* 1) zest 는 오렌지나 레몬 한 조각처럼 음식에 풍미를 더해주는 재료들을 의미하기도 하는데요. 영상에서처럼 포인트를 더해주는 [매력, 생기] 를 의미하기도 합니다.
+  * 작지만 멋진 브로치가 당신 모습에 매력을 더해 줄거에요. ex) This small but amazing brooch will give a zest to your look.
+* - backsliding : 이전의 오래된 나쁜 행실, 습관 등으로 돌아가는 것, 한마디로 '퇴행, 퇴보'이라는 뜻이에요. backslide 라는 동사에서 온 명사로, 동사 형태로도 쓸 수 있어요.
+  * 정신 건강에 있어서 좀 뒷걸음질치고 있어.  [ex] I've been backsliding with my mental health.
+* 우리말에 '대가를 치른다'라는 표현이 있죠? 그 뉘앙스에 딱 맞는 표현이 'pay the price' 예요. 값을 내듯, 잘못한 일에 대해 대가를 치른다는 말이죠! 꼭 'pay the price' 형태로만 쓰지는 않아서, 두세 번째 예문처럼 변용하기도 해요.
+  * 난 끔찍한 실수를 저질렀고 이제 그 대가를 치르는 거야. I made a terrible mistake, and I'm paying the price.
+* ※ 명사 might는 '힘'을 뜻하는 말인데 power, strength에 비해 일상에서 자주 쓰이는 표현은 아니에요. with all one's might은 꽤나 자주 쓰이니 통으로 알아두세요! ※ 명사 might는 '힘'을 뜻하는 말인데 power, strength에 비해 일상에서 자주 쓰이는 표현은 아니에요. with all one's might은 꽤나 자주 쓰이니 통으로 알아두세요!; with all one's might: 온 힘을 다해
+  * 온 힘을 다해서 주먹으로 가격해야 해. You have to punch it with all your might.
+  * 꼼짝도 안해; It won't budge
+* B에 A(감정, 에너지 등) 을 쏟다; channel A towards/into B; Channel your energy towards what you love
+* meet (with) approval = 동의를 얻다, 용인되는 범위에 충족되다
+  * - meet the requirements 요건을 충족시키다
+  * - meet a condition 조건을 충족시키다
+  * - meet a deadline 마감기한을 맞추다
+  * - meet needs/demand 요구에 응하다
+  * - meet an expectation 기대에 응하다
+  * - meet criteria 기준을 충족시키다
+* two cents 1. 의견 2. 사소한 것
+* 1. 용돈(북미 표현. 영국에서는 pocket money라고 해요)
+  * 2. (주기적으로 받는) 수당 [ex] cost-of-living allowance: 주거수당 [ex] What's the appropriate allowance for a 16 year-old?
+  * 기내 수하물 허용량은 20 kg이다. [ex] The carry-on baggage allowance is 20 kilos.
+* 우린 망했어! We're doomed!
+  * 그 계획은 애초에 실패할 운명이었어. The plan was doomed to failure from the start.
+* 1. 평평해지다./평평하게 하다. 2. 증가세가 꺾이다. 둔화되다. flat 은 형용사로 '평평한' 이라는 뜻이 있어요. 주로 단어에 en 이 들어가게 되면 동사처럼 변하는데요. 예를 들면, short-shorten (줄이다), large-enlarge (확대하다) 처럼 말이죠. flatten 도 이러한 패턴으로 나온 단어입니다. 그래프 같은 곳에서는 오름세가 평평하게 되는 것이니 2번의 의미로 쓰입니다.
+  * 석유 가격이 급속도로 증가했지만, 다음주 즈음엔 증가세가 꺾일것으로 예상됩니다. ex) The price of oil has risen at an alarming rate, but it is expected to flatten out by next week.
+* 동사 flatter는 ‘아첨하다, 비위를 맞추다’로 그것의 형용사인 flattering은 ‘아첨하는, 남의 비위를 맞추는’인데, 이렇게 해석하면 의미가 선뜻 와닿지 않습니다. 여기서 flattering은 우리말로 ‘기분을 좋게 만드는, 우쭐하게 만드는’으로 봐야 자연스럽습니다. 그래서 미란다 같다는 말은 누군가의 기분을 좋게 만드는 것은 아니다라는 의미가 됩니다. 그리고 be labeled a Miranda는 직역하면 ‘미란다라고 라벨이 붙다’여서 ‘미란다처럼 여겨지다, 미란다라고 분류되다’라고 생각하시면 됩니다.  또한 flattering은 ‘실물보다 더 나은, 더 매력있는’을 뜻하기도 해서 보통 flattering dress, flattering photograph 처럼 사람의 외모를 나타내줄 수 있는 명사가 같이 옵니다. 그 옷을 입으면 사람을 우쭐하게 만드니까 매력적이라고 생각할 수 있겠네요!
+  * 당연히 실제 나이 보다 어려보인다는 얘기를 들으면 우쭐하겠지. Obviously, it is flattering when people say you look much younger than your real age. 
+  * 너가 그 정장 입으니까 정말 멋졌어. (직역: 그 정장은 너를 더 매력적으로 보이게 해줬어) The suit was very flattering on you. 
+* ins and outs는 어떤 일의 구체적인 사항, 자세한 부분을 뜻하는 말로 우리말로는 ‘세부사항, 자초지종, 모든 면, 상세한 사정’ 등과 같은 말입니다. 그래서 analyzing the ins and outs of dating는 ‘연애에 대한 구체적인 사항을 분석하다’인데, 자연스럽게 ‘연애에 대해 속속들이 다루다’로 번역하였습니다.
+  * 그가 그렇게 한심한 실수를 저지른 건 별로 놀랍지 않아. 비즈니스가 무엇인지 자세히 모르는 사람이라고. I'm not surprised he made such a stupid mistake. He doesn’t know the ins and outs of this business.
+* stunt는 동사로 ‘성장/발달을 저해하다’를 뜻합니다. 영상에서는 수동형인 be permanently stunted (영원히 성장하지 못하다)라고 하였습니다.  참고로 stunt는 명사로 ‘어리석은 행동, 위험한 행동’을 의미하기도 하는데요, ‘어리석은 행동을 하다’는 pull a stunt입니다. 장난 하다(pull a prank), 속임수를 쓰다(pull a trick) 등과 같이 부정적인 행위를 한다고 할 때 동사 pull을 쓰기 때문이죠. 
+  * 난민촌의 아이들은 발달 지연과 성장 부진으로 고통받는다. Children from refugee camps suffer delayed development and stunted growth.
+* 1) 형용사 positive는 주로 세 가지 뜻으로 쓰입니다. : ①긍정적인, 좋은 ②양성반응의 ③확신하는
+  * ex.1) She’s such a positive person. 그녀는 정말 긍정적인 사람이야. 
+  * ex.2) He tested positive for HIV. 그는 에이즈 검사에서 양성반응이 나왔다.
+  * ex.3) Are you positive? – I’m 100% positive. 진짜야? – 100% 확신해. 
+* ㅍ여기서 마지막 ‘확신하는’에서 파생된 부사가 positively인데요, ‘분명히, 확실히, 진짜로’이란 뜻으로강조의 역할을 합니다. 동의어로는 definitely, absolutely, surely, certainly 등이 있습니다. 
+  * 한 번더 생각해 봐. 이건 정말로 위험할 수도 있다고. You need to think twice. This could be positively dangerous.
+* 이 표현은 ‘보유하다, 확보하다’라는 뜻인데요 주로 어떤 것을 경험하여 달성한 것을 목적어로 합니다. 그 배움과 경험의 자산이 자신의 벨트 안에, 즉 뱃속에 두둑히 채워졌다는 것이죠. 그래서 이 문장은 디즈니의 자회사인 픽사의 작품을 세지 않고도, 디즈니는 벌써 56개의 애니메이션 영화를 보유하였고, 그것들은 그 동안의 경험과 지식이 쌓여 탄생한 거라는 뉘앙스를 갖습니다.
+  * 걱정 마. 나는 10년 이상의 경력을 가지고 있다고. Don’t worry. I have over 10 years of experience under my belt.
+* Hail Mary는 성모마리아로, 'Hail Mary Pass'는 미식축구 등에서 경기 종료 전 마지막 던지는 확률 낮은 롱패스입니다. 즉 넓게 보면 throw a Hail Mary (pass)는, 성공의 가능성이 매우 낮은 일에 희망을 걸고 마지막으로 승부수를 던져보는 것을 의미해요. throw the Hail Mary 
+  * 더이상 잃을 것이 없어지면 누구나 낮은 가능성에도 최후의 시도를 해보곤 하지. Everybody throws a hail Mary when they have nothing to lose.
+* 카드 놀이에서 유래된 표현입니다. 포커용 카드를 보시면 하트, 클럽, 다이아몬드, 스페이드 세트로 나눠져 있는데, 같은 모양의 세트를 suit 라고 하거든요. 그래서 follow suit 는 [같은 모양(새)를 따라가다] 정도의 뉘앙스가 있으니, [따라하다] 를 의미합니다.
+* 1) flash 는 여러가지 뜻이 있는 단어인데요. 깜빡깜빡 거리게 할 수 있는 손전등을 플래쉬라고도 하잖아요? 또한 명사로 [섬광/잠깐의 반짝임] 등의 의미도 있습니다. 2) 따라서 flash a smile 이라는 표현은 미소를 잠깐 동안 내비치는 것을 의미해요. 뒤에 at 을 써서 누구에게 내비치는지도 표현할 수 있습니다.
+  * 그녀는 마치 나를 아는것 처럼 무대 위에서 나에게 미소를 지었다. ex) She flashed a smile at me on the stage as if she knew me.
+* 1) 비격식 표현으로 엉덩이 (butt, ass) 를 웁! 하는 소리가 나도록 걷어차는 것을 연상하시면 익히기 쉬운 표현이에요.  2) just in case 는 [만약을 대비하여] 라는 의미를 가지는데요. 영상에서처럼 뒤에 문장을
+  * 널 혼쭐 낼 기회를 놓치지 않을거야. ex) I'm not going to miss a chance to whoop your ass.
+* 우선 첫째로 줄(row, line) 혹은 단(layer)를 의미하는데요, frontier(국경, 경계)를 연상하시면 이해가 되실거에요. 원래 frontier의 어원은 부대의 최전선(the first line of an army)입니다. 그래서 front와 tier가 합쳐진 단어라고 생각하시면 됩니다.  또한 영상에서는 여럿 단계 중 한 단계, 한 레벨이라는 뜻으로 쓰였습니다. two-tier system(이중 시스템), the top tier(최상위급), tiers of seats(층층이 나뉜 좌석), three-tier cake(삼단 케이크) 과 같이 표현합니다.
+  * 지역 행정청은 수직적으로 여러 단계로 나뉘어 있다. Regional administration is vertically divided into several tiers.
+* : 기본적으로 어디까지, 또는 무언가를 '통과하다, 버티다'라는 뜻이에요. 이렇게 책을 '끝까지 읽다'라는 의미로 쓰기도 하고, 하루를 '버티다'라는 의미로 쓰기도 하죠. 다양한 예문으로 익혀보세요.
+  * (나한테는) 커피가 하루를 버티는 데 도움이 돼. [ex] Coffee helps me get through the day.
+* prime이 동사로 쓰인 문장입니다. 어떤 일에 대비해 사전에 준비를 한다는 뜻으로 여성들이 메이크업 할 때 쓰는 프라이;  예기치 못한 상황을 관리할 수 있도록 그들을 사전에 대비시켰다. She primed them to handle 
+  * 온 힘을 다해서 주먹으로 가격해야 해. You have to punch it with all your might.
+  * 꼼짝도 안해; It won't budgeany unexpected situation.
+*  wreak havoc 은 ‘엄청난 피혜를 주다, 망가뜨리다’입니다. 뒤에 ‘on/with+피해를 받는 대상’이 따라옵니다. 
+  * 비가 와서 우리의 소풍 계획을 완전히 망쳐놓았다. The rainy weather wreaked havoc with our picnic plans.  [riːk] [ˈhævək] 
+* * ~의 바탕이 되다: set the stage for~ 
+  * 그 초기 미팅은 추후의 합상의 발판을 마련했다. The initial meeting set the stage for further negotiations.
+* ~한 식으로, ~한 상태로 = on a ~ note; 중간에 형용사를 넣어서 어떤 상태인지 설명해 줄 수 있어요. 영상에서는 positive note 로 써서 [긍정적인 방식] 이라고 사용이 되었고요. 주로 연설이나 회의를 끝낼 때 많이 쓰이는 표현입니다. 단순히, on that note 라고 말할 수가 있는데요. [그런 점에서, 그런 의미로, 그런 측면에서](회의를 마치도록 하겠습니다.) 라고 끝맺을 수가 있습니다.
+  * 이야기 마무리는 좀 더 긍정적으로 해보죠; Let's end on a slightly more positive note
+* = 새롭게 발견된 정보가 우리의 결정에 기초적인 역할을 하였다. The newly discovered information has served as the basis for our decisions.
+* ‘성공하다’라는 뜻으로 잘 알고 계실 동사 succeed 는 ‘자리를 물려받다’라는 뜻도 있습니다. 패턴은 다음과 같습니다. 
+  * - succeed 사람 : ~의 뒤를 잇다, - succeed to 지위, 재산 : ~를 물려받다
+  * = 누가 대통령으로 아브라함 링컨의 뒤를 이었지? Who succeeded Abraham Lincoln as President?
+  * = 세종대왕은 스물두살의 나이에 왕위를 물려받았다.  King Sejong the Great succeeded to the throne at the age of 22.
+* sideline 은 이외에 ‘부업’ 이란 뜻으로도 잘 쓰이고, 운동경기에서 부상으로 인해 출전하지 못하게 한다는 의미도 있습니다. 
+  * = 그는 그 정책을 비난한 이후에 열외 취급을 당했다. He was sidelined after criticizing the policy.
+  * = 실비아는 은행에서 일하는데 저녁에는 부업으로 영어를 가르친다. Sylvia works in a bank, but teaches English in the evenings as a sideline.
+  * = 존슨은 부상으로 인해 경기 출전에서 배제되었다. Johnson has been sidelined through injury.
+* 1) hunker down = 태세를 갖추고 기다리다; 어떤 일을 성취하기 위해 한 곳에서 진을 치고 기다리는 것을 말합니다. 원래 hunker down 은 바닥에 쪼그리고 앉는 것을 가리키는데요. 웅크리고 있는 동작에서 후일을 위해 태세를 갖추고 침착히 기다리는 모습이 연상됩니다. 
+  * 우리는 모닥불 주위에 쪼그리고 앉아 마시멜로우를 구웠다.  We hunkered down around the campfire, toasting marshmallows.
+* 2) 동사로 scale 은 ‘아주 높고 가파른 곳을 오르다’ 입니다. 에베레스트처럼 매우 높은 산이나, 벽, 혹은 비유적으로 정상의 자리, 최고의 지위 등과 함께 씁니다. 
+  * 그 죄수는 높은 교도소의 벽을 넘어 도망쳤다. The prisoner scaled the high prison wall and ran off.
+* 그 오래된 돌계단은 오랜 세월을 사용해서 마모되어 있었다. The old stone steps had been worn down by years of use.
 * 폴은 모레노의 의뢰를 받았죠; He as commissioned by Moreno; has been commisioned to write a anthem
 * -는 무조건 해야지; - is a must
 * 별볼일 없는 배우야; he's just two-bit actor; small-time publisher; two-bit = small-time

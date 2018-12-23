@@ -1,8 +1,11 @@
 * #장소 
+* 특정한 물리적 특징이 있는 지역을 의미하는 단어입니다. = terrain
+	* 이 차량은 거친 지형을 위해 특별히 디자인되었습니다. ex) This vehicle is specially designed for tough terrain. [təˈreɪn] 
 * *do you have a place #in mind?
 * I know a place that ~
 * This is my kind of place. (여기는 딱 내가 좋아하는 그런 곳이에요
 * 여기 바로 앞에; Right up here, 
+* 공공장소에서; in public <> in private; i need to talk to you in private
 * ---------------------------------------------------------
 * ☆~한 부분에서 가장 좋은 점은 ~다; the best part of ~ is ~
 * ☆the best thing about ~ is ~

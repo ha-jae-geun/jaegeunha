@@ -111,6 +111,9 @@ I usually sleep in / sleep late / oversleep on Sundays.
 * 졸았다. 	I nodded of for a moment. I keep dozing off., fall asleep(꾸벅꾸벅 의도적 아니게 자다)
 * #졸다 #졸았다
 waking dream: 환상같은
+* 신기루; 눈앞에 아른거리는 신기루를 의미하거나, 이룰 수 없는 망상 등을 의미합니다. ex) Some people think I'm just chasing a mirage, but I truly believe I can achieve that goal.  [məˈrɑːʒ]
+* 원동력, 추진력; a driver behind; 동사 drive 의 뜻에는 [운전하다] 외에도 무언가를 특정한 방향으로 [몰고 가다, 추진하다, 이끌다] 등의 의미가 있어요. 그래서 driver 는 무언가가 발생하게 하는 강력한 요인을 의미하고요. 비슷한 단어로는 driving factor, driving force 라고 쓰기도 합니다. 
+	* ex) 제 생각에, 저희 성공의 가장 큰 원동력은 많은 디테일을 가진 신중한 계획이라고 할 수 있습니다.; The biggest driver behind our success, I would say, is a careful planning with a lot of details.
 * 꿈을 꾸다 chase rainbows, quit chasing rainbows(허항된 꿈을 꾸지 마)
 	* 꿈도 꾸지마; #perish the thought
 	* 그건 항상 내 꿈이였어 						 It's always been my dream

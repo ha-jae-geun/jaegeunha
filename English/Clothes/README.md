@@ -44,6 +44,7 @@
 * 안으로 접어서 수선했어요; i just folded them inwards and sewed them [soʊ]
 * 양말 뒤집어졌어; YOur socks are inside out
   * 양말 짝짝이; Mismatched
+  * inside out : 안쪽면이 바깥쪽으로 나온 경우. back to front : 뒤쪽이 앞쪽으로 나온 경우. sideways : 옆면이 앞쪽으로 나온 경우.
 * 발가벗다; 누드; completely starkers
 * 아이들은 엄마의 치맛자락을 잡고 늘어졌따; THe kids hung on to their mother's skirt
 * 이 옷장을 다 뒤져봐도 6사이즈에 맞는 건 없어; There's nothing in this whole closet hat'll fit a size six
@@ -51,6 +52,7 @@
   * 옷장 필수템; wardrobe staples
 
 # 재료
+* [명사] 흑담비; sable' 세이블 모피는 트리 밑에 놓고 가요; Slip a sable under the tree for me; Santa tell me
 * 이 털실이면 될까? will this yarn work?
 * Silk
 * Wool
@@ -147,6 +149,7 @@
 * 그리고 너 바지가 땅에 끌리잖아	And your pants are dragging on the ground
 * ##턱시도 쫙 빼입고 모자까지 ᄊᅠᆻ어요	So we had full tails and top hats
 * #프리 사이즈	This dress comes in one size fits all.
+  * 사이즈를 줄이다; shrink the size; 사이즈가 줄다; shrink in size; Small-sized business are shrinking in number
 * 상처를 치료하다 #dress;(붕대) dress a wound
 * #좀비 분장할거야 					 I’ll dress up as zombie for halloween
 * #편하게 입고와 dress #casually

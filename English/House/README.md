@@ -15,6 +15,7 @@
 
 
 # 기타
+* 투박하게 살다; 편안한집, 전기, 난방시설 등 호화로운 시설 없이 불편하게 살거나 캠핑하다; I'm roughingg it(제대로 된 캠핑을 할거야)
 * 즐거운 우리 집; home sweet home
 	* 잘곳이 없잔ㅇ하; we have a roof over our heads; a roof over one's head
 * 우린 집세를 낼 돈이 없어. We ain't got our rent money.
@@ -111,6 +112,7 @@
 	* #1인 가구; #single-person household; = single households
 	* 에어컨에서 찬바람이 안나와요; It's now blowing cold air
 	* 맞춤 붙박이 가구에요; All custom built-ins
+* 찬장 열어서; open up my cupboard; 
 * 냉장고에 넣을 공간이 없어요; i have no more room in the refrigerator
 * 그는 거울에서 자기를 확인한다; He checked himself in the mirror
 * (kitchen)appliance = refrigerator = living arrangement	 #가구
@@ -513,6 +515,7 @@
 * 아수라장; It's complete mess; it is just mayhem  [ˈmeɪhem] out her
 	* This was a total dsaster; 엉망진창이 되어가고 있어요; It's becoming a train wreck
 	* It gets out of control; Things are still in quite a bit of disarray
+* 하수, 오물; 미처리 하수 해양 투기 금지법 a ban on the dumping of raw sewage at sea 
 
 ## 청소
 * 작업자는 먼지를 안정되게 하기 위해 물을 뿌렸다; A worker sprays water over a house to settle dust
@@ -520,11 +523,14 @@
 
 # 살다
 # 인생
+* 안 좋은 일이나, 즐겁지 않은 일, 고통스러운 일, 변화등을 겪을 때 자주 쓰는 단어입니다. 수술을 의미하는 [surgery/operation] 이 단어와 함께 쓰이기도 합니다.
+	* 우리 할머니는 2주전에 뇌 수술을 받으셨어. ex) My grandmother underwent a brain operation 2 weeks ago.
+	* 너의 '똑똑한' 계획이 우리에게 역효과를 냈어. ex) Your 'brilliant' plan backfired on us.
 * 의지할 곳이 없다; don't have a whole lot to fall back on
 * 감수하며 살다; live with; live with for the rest of my life
 * 과거는 과거로 놔둬; 연연하지마; Let the past be past. Don't dwell on it
 * 나는 만사가 잘 안풀리는 날을 보냈습니다; i had one of those days
-* 인생을 즐기다; enjoy the ride
+* 인생을 즐기다; enjoy the ride; Seize the day/moment
 * 그달 벌어 먹고 살아가다; live paycheck to paycheck
 * 정신적인 삶의 균형이 깨져버립니다; Your mental life is thrown out of all proportion
 * 정신 차리고 똑바로 살아; Get a life, get it together
@@ -541,13 +547,22 @@
 * 내 인생에서; in my entire life
 * 근근히 살아가다; those who are living on the edges
 	* 최선을 다해 열심히 살다; live life th the fullest
+	* 매일 따분하고 반복적인 일을 해 주셔야 해요. ex) You should be willing to do mundane and repetitive tasks on a daily basis. [mʌnˈdeɪn]
+	* 1) 늘 똑같은 삶에 갇혀 지루하고, 판에 박힌 생활을 하는 것을 be (stuck) in a rut이라고 합니다. ‘틀에 갇히다, 타성에 젖다, 일상의 틀에 박혀있다, 매너리즘에 빠져있다’ 등으로 해석하시면 됩니다.
+		* 난 뭔가 변화가 필요해. 늘 같은 일상이 너무 지겹고 답답해. I need a change in my life. I feel I’m stuck in a rut.
+	* * tread 는 ‘발로 밟다’입니다. 발로 밟아서 움직이는 기구여서 treadmill 이라고 하죠. 쳇바퀴처럼 계속 똑같은 것을 비유하거나 런닝머신이라고 부르는 운동기구도 treadmill 이라고 합니다.  참고로 treadmill 에는 전치사 on/off 를 써야 합니다. 면적에 붙어있고 떨어져 있는 개념으로 생각하는 겁니다.
+  * 난 정말 이 다람쥐 쳇바퀴 같은 사무실 생활을 정리하고 뭔가 신나는 걸 해보고 싶어. I really want to get off the office treadmill and try something exciting.
 * 오늘밤 이렇게 지나게 해; let tognight just pass by like this
+* 우리말로 ‘현실도피’라고 번역하는데요, 무언가 즐거운 것을 하면서 삶의 부정적인 면을 잠시나마 잊어보려는 행위를 escapism이라고 합니다. 예를 들면 예능 프로를 보면서 지친 하루의 스트레스나 답답한 현실을 잠시나마 잊어보는 것 처럼요.
+	* 나는 자전거로 출퇴근을 하고 또 자전거를 타면서 삶의 고단함을 잊곤 한다. I use the bike both for work and escapism.
+* 삶을 완전히 뒤바꿔놓다 = turn one's life/world upside down
 
 ## 운명
 * 운명을 다시 써보는 건 어때? WHy don't we rewrite the stars
 * 기적이 일어난다면; if the stars align
 
 # 화장실
+* 화장실 써도돼? Can i use/go to the bathroom?
 * 배변활동; bowel movents; It's about bowel movement [ˈbaʊəl]
 * 욕조를 닦자; Wash that tub
 	* 족욕; foot bath

@@ -220,6 +220,7 @@ he was #straight-faced through the entire meeting = #poker face
 ------
 
 #얼굴
+* 이목구비; 나는 날카로운 이목구비를 가진 남자를 좋아하지 않는다. I don’t like a guy with sharp facial features. facial features: 이목구비
 * ##언뜻 보기에, #얼핏, #표면적으로 #on the face of it
 * #표면상의; #ostensible
 * ~속에서; #in the face of
@@ -348,6 +349,7 @@ the upper/bottom #lips
 * ##이빨 tooth, 입술처럼 마찬가지로 이 한 개는 teeth
 	* #앞니 #앞니 the incisive teeth 
 	* 흔들리는 이빨; #mobility
+	* 치실질 하신아봐요? Cause you floss
 	* #영구치; permanent tooth
 	* #유치; #deciduous tooth
 	* 부분 #틀니;  partial #denture
@@ -766,6 +768,7 @@ He will cave in eventually if you keep on asking him far a raise.
 * #take a listen; 들어봐
 * 알려줘서 고마워. #귀띔 						 Thank you for the heads-up! 
 * 귀띔하다; put a #bug in someone's ear
+	* = 지난 주말에 무슨 일 있었는지 들었어. I've been tipped of what happened last weekend.; tip off
 * 그래서 그냥 #즉흥적으로 해야 했어요. I just had to {do it on the spot, wing it., do/play by ear}
 * #이어폰 								 귀 안에 넣는 이어폰 earbud
 * I always have my ear buds in
@@ -1092,10 +1095,5 @@ Shut up pipe down> Silence > Hush > Be quiet >=Keep it down >= would you keep it
 * ##skin
 * #신체
 * #bape#; 편안한 옷
-* 브랜드 확장; #brand stretching = #brand extension
-* #brand essence
-* #brand values
-* #브랜드 인지도; #brand awareness
-* #brand recognition
-* #brand identity
-* #브랜드
+
+* 중요한 곳도 구석구석 틈틈이; Including all my major crevices  [ˈkrevɪs]: 틈

@@ -16,6 +16,7 @@
 * #add, #count up, #total - 세다, 계산하다 
 * thousand -> 10, thousand ->  hundred thousand => million -> 10억 -> trillion(1조)
 ---
+* 숫자 세기; 너네 넷: you four, 우리 셋: us three, 그들 다섯: those five, 이것 여덟개: these eight
 * 1000: 1k -> million(백만, 천만, 1억) -> billion
 * #단수 singular #복수 #plural
 * #one / #some / #all / #none of 복수명사
@@ -35,6 +36,8 @@
 * 그냥 대략적인 수치만 알려줘라. 	 Just give me a back-of-the-envelope calculation. ball park figure.
 * 나도 그거 하나 가지고 싶어							 I want one
 * #16진수 #8진수								 hexadecimal, octet, 
+* 순서 = ~의 오름차순/내림차순으로 * in increasing/decreasing order of These are alternative scenarios, in decreasing order of likelihood.
+* 통계는 정확해, 숫자는 정확해; The numbers didn't lie
 --------------------------------------------------------------------------------------------------------------------
 * the amout of water(셀 수 없는0, the number of children(수)
 * has the least amount of ~: 최소한의 ~을 먹다
@@ -294,6 +297,7 @@
 	* 폭발적으로 증가했어요; increase like an #explosion = sales #go through the roof; #roof
 	* 값을 올리다; jack up the pricek; 타이어 갈 떄 무거운 것을 들어 올리는 것: jack
 	* 공급ㅇ 증가하면 수요가 감소한다; an increase in supply results in a fall in demand
+	* 그 팀은 영업 성과에서 주목할 만한 향상을 보여줬습니다. ex) The team has shown measurable improvements(<>dip) in their sales performance.; 주목할만한; measurable
 * #증가 #상승
 * 감소
 * 추운 겨울 때문에 오일 비축분이 예상보다 더 크게 축소되었다. The cold winter has led to a larger-than-expected drawdown on oil stocks. 

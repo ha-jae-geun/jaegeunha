@@ -1,3 +1,9 @@
+* 예를 들어, [난 내성적인 사람이야] = [I'm an introvert.] 라고 말하면 뭔가 나를 단정지어 말하는 느낌인 반면에, [난 내성적인 편이야] = [I'm more of an introvert.] 라고 말하면 항상 내성적인 것만은 아닌 뉘앙스의 표현을 할 수가 있어 굉장히 유용한 표현이에요. <> less of 명사
+* 엉뚱, 4차원, 독특 
+	* 넌 엉뚱하다. You are outrageous / extraordianry / absurd; 
+	* 유머 감각이 기발하다 to have a whimsical sense of humour  [ˈwɪmzɪkl] 
+		* Another purpose is to show L's whimsical part; have a whimsical charm
+	* He is such an off-the-wall guy! 무슨 애가 그렇게 엉뚱하냐?
 * 성격, 유전적 특징, 재능, 성형 다 볼수 있어; i can see your personality your traits, your talens your disposition
 	* 속으로 나쁜 여자처럼 말이야; Bad girls underneath like thatW
 	* 자신만의 #개성을 보이다; let your freak flag fly

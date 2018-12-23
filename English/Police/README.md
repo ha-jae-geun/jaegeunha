@@ -5,6 +5,8 @@
 * 한국은 압수하면 국고로 들어간다.
 
 # 나쁜짓
+* 세뇌; 많은 가정 폭력 피해자들은 자기 자신이 가치가 없다고 믿도록 일종의 세뇌를 당하기 때문에 폭력적인 배우자를 두고 떠나질 못한다.
+  * ex) Many domestic violence victims don't leave their violent partners because they are basically brainwashed into thinking they are worthless. brainwash into: -을 하도록 세뇌시키다.
 * 잘못 짚었어; The cops are barking up the wrong tree
 * 지방정부는 불법 활동을 단속하시 시작합니다 The local government cracked down on all the illicit activities
 * 얄팍한 속임수들을 소개합니다; Here are some sneaky ways
@@ -35,6 +37,10 @@
 * 쟤가 스파이야; he's the rat
   * 몰래 관찰하는게 기대된다; i can't wait to be a fly-on-the-wall
   * 스토킹; 네가 스토킹을 당하고 있었다고 했잖아. You said you were being stalked.
+    * 동사 subject [겪게하다, 당하게하다] 는 강제로 특정한 경험이나 취급을 받도록 하는 것을 의미합니다. 따라서 수동태인 be subjected to 주로 유쾌하지 않은 일을 [당하다] 라고 해석이 됩니다.
+      * 시위대들은 잔인한 폭력을 겪었다. ex) Protesters were subjected to cruel violence.
+    * cheap shot은 ‘비열한 수단, 치사한 짓’을 의미합니다. 비열한 수단을 ‘쓰다’라고 할 때는 주로 동사 take를 쓰고, ‘at/on+사람’을 넣어 누구에게 쓰는지 구체적으로 표현할 수도 있죠. 
+      * 사람들 앞에서 그를 놀리는 것은 비열한 짓이었어.  It was a cheap shot to make fun of him in front of everyone. 
 * 우리는 책임이 있을 법한 용의자들을 체포해ㄸ싸; we've rounded up the only criminals
 * 독심술 기술을 사용할거야; most advanced mind reading technology
 * 그는 좀 악당 같은 데가 있지만 아주 매력적이다. He’s a bit of a rogue, but very charming. 
@@ -46,7 +52,9 @@
   * 사기꾼: fraud; fraud, con, dupe, scam; He was jailed for three years for fraud and tax evasion
 * 도망중이야; Two supects are on the run
   * run away; on the lam; get away
+  * 그 죄수는 높은 교도소의 벽을 넘어 도망쳤다. The prisoner scaled the high prison wall and ran off.
 * 작용하는 규칙들; rules at play; there are some rules at play affecting this
+  * 규칙에 어긋나; That's against the rules
 * 무단침입하시는거에요; YOu are breaking and entering
 * 현자; sage; [seɪdʒ] 2. 슬기로운
 
@@ -338,6 +346,8 @@
 * #흉폭한#ferocious; ferociously
 * #피도 눈물도 없는 as hard as nails; The drill sergeant is as hard as nails
 * arrest, seize, apprehend, rap - 체포하다 <=> release – 풀어주다
+  * 조직/회사/이념/제한 등에서 벗어나서 하고 싶은대로, 자유롭게 행동하고 말하는 것을 의미합니다. 영상의 대사를 직역하면 [그가 자유롭게 행동하도록 하면서] 의 의미를 갖습니다.
+    * 넌 아이들을 좀 살살 다룰 필요가 있어. 애들은 가끔씩 제멋대로 행동해야 한다구. ex) You need to take it easy on your kids. They need to cut loose sometimes.
 * #처벌; #솜방망이 처벌 a slap on the wrist
 * #징계처분 #응징 #punitive measures(#measure)
 * #retribution; suffered retribution

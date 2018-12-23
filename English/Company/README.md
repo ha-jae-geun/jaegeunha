@@ -28,6 +28,8 @@
 * 끝내기 전에 다음 미팅 일정을 확정지어 볼까요? Before we leave, can we fix the next meeting?
 * 참석해 주신 모든 분들께 다시 한 번 감사 말씀 드립니다. Thanks again for your participation. (Thank you all for attending.)
 * 피해자들의 많은 자활공동체 모ㅗ임에 참석했었죠; I sat in a lot of self-help groups of victims sit in;
+* host는 명사로 [주인, 주최자]라는 뜻이 있어요. 그래서 직역하면 [주인 역할을 하다]라는 의미를 가지는데요. 보통 자기 구역에서 무언가를 주최하여 손님들을 맞이할 때 쓰는 표현입니다.
+	* = 싱가포르가 회담을 주최하였습니다. (회담 장소를 제공하였습니다.) Singapore played host to the talk.
 
 # 단어
 * 인턴에ㅓㅅ 해고당했다; he got fired from her internship
@@ -383,7 +385,6 @@ run a store, manage a team, operate a factory
 * work in + 근무 장소(place; school/department; HR) / work for + company(직장명)
 * 1. 되다(does it work) 2. that works for me(그 시간 괜찮아) 3. 말이 안돼 that doesn't work
 * work on ~; 일하다; I worked hard on the presentation
-	* 열심히 일하다;  I bust my hump all day; i've busted my hump
 * 보통 밖에 안 되는 음악가/재능/공연 a mediocre musician/talent/performance   [-ˈoʊkər]  영국식 [ˌmiːdiˈəʊkə(r)] 
 * 무슨 연구 하는데? #work on; what have you been working on?
 * 작업중이야 I'm working on it
@@ -430,11 +431,13 @@ run a store, manage a team, operate a factory
 * 드디어 일이 줄었어 						 We finally have our work cut out.
 * 하는 일 없어; i'm #out of work
 * 다시 일을 시작(#착수)해보자				 #get something off the #ground
-* Le'ts get back into the swing of things, (get)down to business
-* ‘그 보고서들에 본격적으로 덤벼 봐야겠다.			 I'd better buckle down to those reports.
-* 빨리 일을 시작하지 않으면 제시간에 끝낼 수 없을 거야.
-If we don’t get to work soon, we won’t finish it on time.
-* 당장 시작하자 								 I’ll get on it right away
+	* 직역하면 '땅에서 뜨다'로, '이륙하다'라는 뜻과 함께 무언가를 '시작하다'라는 뜻도 있어요. 주로 성공적으로, 순조롭게 시작한다는 뜻을 담고 있어요. 
+		* 그 프로젝트는 사실 시작조차 못했다. The project never really got off the ground.
+	* Le'ts get back into the swing of things, (get)down to business
+	* ‘그 보고서들에 본격적으로 덤벼 봐야겠다.			 I'd better buckle down to those reports.
+	* 빨리 일을 시작하지 않으면 제시간에 끝낼 수 없을 거야.
+	If we don’t get to work soon, we won’t finish it on time.
+	* 당장 시작하자 								 I’ll get on it right away
 * 너한테 나쁜 일 생기면 안돼. 항상 조심해서 다녀. Don't let anything bad happen to you. 
 * ‘안 좋은 일은 한 번에 세 개가 같이 온다.				 Bad things come in threes.
 * ‘나쁜 일은 항상 동시에 겹쳐서 온다. 					It never rains but it pours
@@ -462,11 +465,13 @@ We get two days off at Christmas and then it's back to the #salt mines!
 * 진행되는 일에 #합류했하는 상황 					 He jumped on the band wagon 
 I'll join you later.
 * 나 #열심히 일했어	 I am breaking my back I worked my ass off. I worked like crazy.
-* #work one's butt off, work like #hell, work one's #tail off
-* #일벌레; #eager beaver
-* ☆work your #socks off; if you don't pull your socks up
-* ‘일에 너무 #치여살았어 					 I’ve been so caught up in my job
-* ‘일을 열정적으로 하는 사람							An eager beaver
+	* 열심히 일하다;  I bust my hump all day; i've busted my hump
+	* 뼈 빠지게 일하다; slave away
+	* #work one's butt off, work like #hell, work one's #tail off
+	* #일벌레; #eager beaver
+	* ☆work your #socks off; if you don't pull your socks up
+	* ‘일에 너무 #치여살았어 					 I’ve been so caught up in my job
+	* ‘일을 열정적으로 하는 사람							An eager beaver
 * ‘나에게 말하기를 겁나 일하라고 했어요. 		 He told me to keep my nose to the grindstone. 
 * ‘나 그 사람들 부양하기 위해 엄청 일하는 중이야.. 		 I am working like a dog to support them. 
 * 아리에타는 제 #몫을 다해낼 것이다	 ə‘keɪƷn, 위기를 극복하다 Arrieta rose to the occasion
@@ -669,6 +674,10 @@ firm
 * I made a calculation error and the whole project went up in smoke.
 * 모든게 여기에 #성패가 달려있다. 			 성패가 달려 있다 There is a lot at stake.
 * 헤멜에 대한 트레이드 제안은 #실현 가능성이 없다. a trade proposal for Hamels would be a nonstarter
+	* * 가능하면 좋겟지만 나 오늘 #야근해 		I wish I could but I have to work overtime today
+	* 여지; : '[주어가] 선택의 여지를 주지 않다' 라는 뜻이에요! 이 상황처럼 주어의 행동, 반응 등 때문에 전혀 선택의 여지가 없을 때, 어떤 불가피한 상황이 발생했을 때 이 표현을 자주 쓴답니다.  이 상황처럼 객관적으로 다른 선택지가 있는데도, 본인들의 주관적인 입장에서 어쩔 수 없을 때도 쓸 수 있죠. 뒤에 'but to 부정사'로 이어서 어떤 행동이 불가피한지를 덧붙여 얘기해줄 수도 있답니다.
+		* 그쪽을 차단하는 것 말고는 선택의 여지가 없네요. [ex] You leave me no choice but to block you.
+		* have no choice but to
 * #come to pass = #come true = #become real
 * #feasibility
 * #이기다 					 항상 잘되라는 법은 없어 You can't win them all
@@ -770,7 +779,6 @@ firm
 * #입막음; #hush money; be paind ~ in hush money
 * 뇌물을 주다; #grease someone's palm; #palm
 * #꽌시	using connections
-* 가능하면 좋겟지만 나 오늘 #야근해 		I wish I could but I have to work overtime today
 * work a night #shift
 * 옥상	‘ru:ftɑ:p rooftop
 * 아래층	downstairs; lower floor
@@ -852,6 +860,7 @@ firm
 * 복장 규정이 있어요? 	Do you have a dress code? 
 * 통근 시간이 얼마나 걸려요? 	How long is your commuting time?
 * 승진 기회는 자주 있어요? 	What are my opportunities for promotion? 
+	* 기회를 잡다; seize the moment
 * 이 회사는 근태 관리가 엄격해요? 	Is this company strict about attendance? 
 * 제 자가용으로 출근해요. 	I drive to work. 
 * 우리는 매주 금요일에 주간 회의를 합니다. 	We have a weekly meeting every friday

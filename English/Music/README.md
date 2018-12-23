@@ -12,6 +12,8 @@
 * 네 노래가 발랄하다고 말하는 사람에게 어떻게 반응할 것 같애? How would you respond to a person who says your songs are too cheerful
 
 # 가수
+* 생소하시겠지만 여러 개의 노래나 춤으로 이루어진 공연 안에서의 [노래/춤] 을 number 라고 합니다.
+	* 그들은 콘서트 시작할 때 로맨틱한 노래를 불렀다. ex) They sang a romantic number at the beginning of the concert.
 * 소리가 수중에서 아주 효과적으로 전달되기 때문입니다; That's because sound travels exteremly efficiently under water
 * 칼 근무; Synchronization 혹은 synchronized dance moves
   Their dance moves were like... so in sync."
@@ -21,6 +23,7 @@
 
 # 노래
 * 인기 많은 노래에요; It's a big/huge tune; 
+	*  show tune; 뮤지컬과 같은 쇼에서 나오는 노래인데 너무 유명해서 그 곡 자체만으로도 잘 알려진 노래
 * 외우고 있는 노래 뭐잉서? What other song do you know by heart?
 * 노래방 18번이야; - is my karaoke staple
 * 난 그런 음을 내지 못할거야; i am never going to be able to hit these ote; hit the/a note
@@ -37,6 +40,7 @@
 * 일주일이라도 저 목소리만 반복재생으로 들을 수 있을것 같애; i could have that voice playing on repeat
 * 한 소절; The first verse.; 1절: Verse 1, 랩까지? Rap verse?
 * 음악 좀 들으실래요? Do you want to pump some tunes?
+* 여자 키; pitch/Key for female/girls or guys?; It's in women's pitch, but I sang in men's pitch. 
 
 ------------
 # 노래방 	#구호, #연호하다; #chant; chant their hero's name

@@ -3,6 +3,7 @@
 
 # 도로
 「도로」	
+* 차를ㅈ ㅏㄹ못탄것 같은데요; I thnk you have the wrong car
 * 차 펑크났어 				 	I have a flat tire 
 * 길이 막혀, 꼼짝도 할 수 없어 		I was stuck up in a traffic jam. 
 * 태워 주세요. 	Could I get a ride? 

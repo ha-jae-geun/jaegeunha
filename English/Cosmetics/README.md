@@ -55,6 +55,9 @@
 * 선크림 안발라서 #화상 입었어 I didn’t {put on, wear} sunscreen/sunblock so that I got a bad sunburn. 
 * #2도 화상 #second-degree burn
 * 보습력 좋은 #핸드크림 좀 추천해 주시겠어요?
+	* mat 또는 matte 가 [윤기, 광택이 안 나는] 이라는 뜻이 있는데요. 영어에서 접미사로 -fy 를 붙이게 되면 동사로 [~화 하다] 정도의 의미를 가지게 됩니다. mattify 는 피부에 광이 덜 나게, 보송보송하게 하는 것을 의미하는 단어에요.; matte <> glossy
+		* 유분기 많은 제 얼굴을 보송하게 하는데 쓸 만한 좋은 제품 있나요? ex) Do you guys have any good products that I can use to mattify my oily skin?
+		* 넌 매트한 메이크업이랑 윤기 나는 메이크업 중 뭘 선호해? ex) Do you prefer matte makeup or glossy makeup? [mǽt]  [ˈɡlɔːsi;ˈɡlɑːsi]
 * Would you please recommend some highly moisturizing hand creams?
 * 화장이 자꾸 번져							 My makeup gets smudged
 * #리무버 #remover; eye makeup remover, lipstick remover, nail polish remover

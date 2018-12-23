@@ -51,6 +51,10 @@
 * 말하자면 말이지; , so to speak
 * 요새; At the moment; 2. At the moment of --; 당시 그때
 * * 이론상으론;; On paper, 
+* 여담이지만, 너 차 정말 멋있다. ex) On a side note, your car is amazing.; 참고로; Side note,
+* as it were = 말하자면, 이를테면 (=so to speak / in a matter of speaking)
+  * 뭐 말하자면 여자친구 같은 건데, 공식적으로 사귀거나 그러는 건 아냐.
+    * ex) She's kind of my girlfriend, as it were, but we're not official or anything.
 
 # 질문
 * 일반적인 왜; Why; 무엇 때문에; What for(목적을 물어봄); 도대체 왜(why보다 강한 어투; 의아함)How come
@@ -77,6 +81,7 @@
 * 그 말은 왜 하는거야? Where are you going with that? 2. 그것과 어디를 가는 중이야?
 
 # 대답
+* 심리테스트나 퀴즈의 결과로 -가 나왔어; i got -
 * 잠시만; Hang on
 * 그런가? You reckon?
 * 돌 던질만큼 가까운 거리; A stone's throw
@@ -106,8 +111,14 @@
 * 그럴리 없어; Not a chance
 * 예외없이; bar none
 * 연락해요; Hit me up
+* 내말 믿어봐 진짜야; Take it from me
 
 # 말투
+* 숫자 세기; 너네 넷: you four, 우리 셋: us three, 그들 다섯: those five, 이것 여덟개: these eight
+* 부디, 괜찮다면, 제발;  "if you please" 는 '부디', '괜찮다면', '제발' 이라는 뜻으로, please 의 긴 버전이라고 볼 수 있어요. 정중하게 부탁을 할 때 사용하기도 하고, 특히 영국 영어에서는 화, 짜증 등을 표현할 때 붙여쓰기도 해요.  후자로 쓸 때는 더 간단히 "oh please!", "please!"이라 표현하기도 한답니다! 특히 상대가 너무 갑갑한 소리, 말도 안 되는 말을 할 때 애용하죠. 
+  * 저를 따라오시죠. Follow me, if you please.
+* = 초콜릿은 고사하고 단 것은 그다지 좋아하지 않아. I don't really like anything sweet, let alone chocolate.
+* = ~라는 점은 짚고 넘어갈 필요가 있어요. * It's worth noting that S V ~  It's worth noting that they are preparing to go public.
 * 그렇다면 나야 좋지; (That) makes things easier for me; 여러 상황에서 쓰일 수 있다.
 * 제가 -해도 된다면; If i may-
 * 마침 그런 말을 하다니 신기하다; 우연이 묘하다; Funny you should say that
@@ -148,6 +159,14 @@
 * 등... 등잔 밑이 어둡다? The beacon does not shine on its own base? 
 
 # 일상
+* 그녀가 십대일 뿐이라는 사실을 잊지 마세요. Bear in mind she's only a teenager.
+* : (비격식) 한번 해보다, 시도하다  [ 구문 ] give something a whirl Do you want to give it a whirl? [wɜːrl] 
+* 놔줘; Let go of me; 내 손 놓지마; DOn't let go of my hand
+* There is no way around : (~을 성취하기 위한) 다른 방법/피할 방법은 없어요.
+  * 1) around 가 [주변의] 라는 뜻, way 가 [방법/길] 이라는 뜻이 있으니, way around 는 [주변의 다른 방법/둘러가는 방법] 이라고 직역이 됩니다. 즉, 어떤 문제에 접근할 때, 직접적으로 가는게 아니라, 빙빙 둘러서 가는 방법을 의미하는 것이니 [다른 방법/대안/피할 방법] 이라고 해석이 되요. 
+  * 2) the other way around 라는 표현도 있는데요. the other 는 무언가가 딱 2개 있을 때 하나는 one, 다른 나머지를 the other 라고 하거든요. 따라서 이 길이 아닌 나머지 하나의 방법, 즉, [반대로,반대 방법/방향] 을 의미합니다.
+* = 그가 내게 설명한 많은 부분이 이해하기가 어려웠어. A lot of what he explained to me went over my head.
+* 혼자 있고 싶어; I just need some space>
 * 짜증나게 하다; get under one's skin; annoy, irritate, bother; He says gets under my skin
 * 미리 귀띔해줄게; I'm just giving you a heads-up
 * 대부분의 사람들이 여기서 실수하죠; where most participants slip up

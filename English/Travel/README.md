@@ -101,6 +101,7 @@
 * #비행중인; #airborne, #flying, #inflight - 비행 중인 
 * 비행기 종류; superjumbo 미국·영국 [|su:pə|dʒʌmbəʊ] 
   * 기체; fuselage 미국식 [ˈfjuːs-]  영국식 [ˈfjuːzəlɑːʒ] 
+  	* 야간 비행기 홍콩에 야간 비행기 타고 갈 거야. 이 방법이 좀 싸거든. ex) We will take the red eye to Hong Kong. It's cheaper this way. red eye
 * #비행장; airfield 미국식 [|erfi:ld]; jeju airfield
 * #fly in; 비행기로 도착하다
 * #korea라고 하면 절대 안됨; ROK(Republic of Korea) / South Korea Democratic XXX
@@ -290,6 +291,8 @@ expenditure(지출 어떻게 할거니) 							 cash, credit card
 * 이것을 기내로 가져갈 수 있어요? 	Can I take this on the plane?
 * 비상구 쪽으로 해 주세요. 	I'd like a seat near the emergency exit. 
 * 출발이 얼마나 지연될까요? 	How long will the departure be delayed? 
+	* 여행을 떠날 때 많이 사용합니다. 자동사로서 set off 라는 구동사(phrasal verb) 자체로 의미를 전달하거나 for, on, from, 등의 전치사의 도움을 받아 구체적인 방향이나 수단 등을 묘사할 수 있습니다.
+		* 샐리는 런던으로 떠났다. Sally set off for London.
 * 탑승은 언제부터 하나요? 	When does the boarding start? 
 * 무게 제한이 얼마인가요? 	What's the weight limit? 
 * 액체가 들어 있는 물건은 짐으로 부쳐야 해요? 	Should I have liquids checked?

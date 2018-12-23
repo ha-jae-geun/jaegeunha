@@ -1,4 +1,15 @@
+# 역사
+* - historical : 역사와 관련된, 역사학의
+* - historic : 역사에 남을 만한, 역사적으로 중요한
+	* 그래서 historical conflicts 는 역사적으로 중요한 갈등(historic conflicts)이 아니라 예전에 있었던 사건인 ‘역사적 분쟁’ 이라는 의미입니다. 
+	* 오늘은 우리나라에게 있어 역사적으로 중요한 날입니다. (historical moment ⓧ); Today is the historic moment for our country.
+* assume the regency = 섭정직을 맡다; 대리청정
+	* = 그는 모든 재정적 업무의 책임을 맡았다. He assumed full responsibility for all financial work.
+
 # 왕
+* 아직 네덜란드, 덴마크, 영국, 태국, 스웨덴, 일본 등 많은 국가들이 왕이 국가원수인 입헌군주제를 이끌어가고 있으므로, 이 표현을 외워두면 유용하겠죠?!
+	* 에드워드 왕은 30년 동안 왕위에 있었다. King Edward was on the throne for three decades.
+
 ## 캄비베스 2세
 * 술을 많이 마시면 눈도 흐려지고 어지러워진다라고 간언한 신하의 아들을 활로 심장을 꿰뚫음
 

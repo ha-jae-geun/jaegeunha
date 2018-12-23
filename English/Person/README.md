@@ -2,6 +2,7 @@
 ## 홀로코스트
 
 # 기타
+* 1) underdog은 ‘사회적 지위가 낮은 사람, 약자’를 의미합니다. 
 * 똑똑한 척 하는; fancy-pants(값비싼 바지) fancy-pants tool; 형용사 2. 멋쟁이; 
 	* 허풍을 떨다; He's kind of larger than life
 	* 너무 자신만만해; She's so full of herself; bragging: 물건 자랑
@@ -11,12 +12,15 @@
 * 그는 독보적이다; He's a one of a kind
 	* 최고에요; She's a top shelf lady
 	* 친절한 사람; 좋은사람; 사랑 스러운 사람;  peach, doll
+	* 비격식 표현으로 누군가를 좋게 표현할 때 쓰는 형용사입니다. 참고로 전지현 주연의 영화 '엽기적인 그녀' 의 제목이 영어로 My Sassy Girl 이에요.주의할 점은, 나이가 많은 사람이 자기보다 나이 적은 사람에게 sassy 하다고 표현할 때는 [건방진] 이라는 의미로 종종 쓰이니 주의하세요.
+		* 넌 너희 엄마한테도 그렇게 건방지니?ex) Are you that sassy with your mom?
 * 어중이 떠중이; rabble(2. 왁자지껄하게 모여있는 사람들)
 * 혼혈 ; mixed-blood, (offensive) half-breed, (offensive) half-caste
 * 남편, 상대, 아내, 여자친구; significant other
+	* 엄청난 미인; 섹시한 여성에게 쓰는 말; total babe
 * 만성형의 사람; late bloomer
 * 난 지금 선동자야; i'm an instigator
-* 남을 차구히하는 사람; bottome-feeder
+* 남을 착취히하는 사람; bottome-feeder
 	* 공장에서 착취당하는 노동자; be exploited
 * 수감자; inmate
 * 내 동료들이야; These are my assosiates
@@ -36,9 +40,14 @@
 	* 저 찐따들 잡아와; go get that barf back; barf: 토사물
 	* 바보; silly
 	* 입 다물어 이자식아; Just cool it, zippy
-* 동등한 위치에 있는 상대; counterpart; They make around 10 times more than their counterparts
-* 사교적인 사람; social butterfly
+	* 교육을 덜 받고 외모도 이상하게 하고 다니며 시골에 사는 촌놈, 촌뜨기라는 의미의 단어입니다. 당연히 약간의 경멸적인 뉘앙스를 가져요.; yokel ˈjoʊkl] 
+* 동등한 위치에 있는 상대;ㄼ counterpart; They make around 10 times more than their counterparts
+* 사교적인 사람; social butterfly; 2) [사교계 명사, 사교계에서 잘 알려진 사람]을 socialite 라고 합니다.
 	* 날씨 좋을때만 친구가 되려는 사람; fair-weather friend
+	*  on good terms는 직역하면 '좋은 관계에 있는'으로, 누군가와 on good terms 라는 것은 그 사람와 사이가 좋다, 잘 지낸다는 뜻이에요. 예를 들어, 'You're on good terms with them'는 '너 저사람들이랑 사이 좋네'라는 뜻이랍니다. 
+	* 외모에 신경을 많이 쓰지 않으며 공부만 하고, 사교적 능력이 부족하여 사람들을 질리게 하는 사람을 nerd 라고 합니다. 약간 괴짜 같은, 굳이 표현하자면 '찌질하고 세상 물정 모르는' 그런 사람들을 의미하는데요. nerdy 는 형용사로 쓰이는 단어입니다.
+	* geek 이라는 단어도 지적 능력이 뛰어나고 한 분야에 집착하는 점에서 nerd 와 비슷한 범주에 들어갑니다. geek 은 찌질하지도, 세상 물정도 아예 모르진 않지만 굉장히 집요하여 사람들이 기피하는 인물을 geek 이라고 합니다.
+		* ex) Paul. Why do you look so nerdy today? ex) I really like the nerdy part of you.
 * 책략자; mastermind
 * 운동을 잘하는 사람, 열렬한 사람, jock(enthusiast)
 * 사람 잡아먹는 괴인; ogre 미국식 [ˈoʊ-]  영국식 [ˈəʊɡə(r)] 
@@ -58,8 +67,21 @@
 * 집착, 괴짜, 또라이; freak; 깨끗한거에 집착한다; i'm a clean freak
 * 신인 여배우; 장래가 유망한 여배우; 스타ㅏ 되길 꿈꾸는 여배우; 스포츠 유망주: starlet
 		* 총체적 신인; newcomerr, rookie, rising star
+	* 동사 aspire 는 [열망하다] 라는 뜻이 있는데요. 거기서 파생된 단어로 자기가 원하는 사람이 되려고 희망, 열정, 에너지 등을 그것에 쏟아붓는 모습을 표현할 때 쓰는 형용사 입니다. 영상에서는 aspiring actress 가 [의지만 넘치는 여배우] 라고 해석이 되었는데요, [배우 지방생] 이라고 해석이 될 수도 있습니다.
 * 대기만성형; late bloomer; be a bit of a late bloomer
 * 나는 조언할 떄 그녀를 찾아가; I always go to her for advice -> She's my go-to person for advice
+* 참견하기 좋아하는 사람; nosybody; i can't stand those nosybodies
+* 받는 사람이다; 최악의 장난을 당했어; be on the receiving end of; I' ve been on the receving end of the worst prank; be on the giving end of
+* 수상자; 노벨상이나 아주 중요한 훈장이나 상을 받은 사람을 laureate 이라고 합니다. 이 단어는 월계수를 뜻하는 laurel 에서 왔는데요, 기원전부터 승리자나 전쟁 영웅 등에게 월계수관(laurel wreath)을 씌워주던 것에서 유래했습니다.[|lɔ:rɪɪt] 
+	* = 아인슈타인은 노벨수상자다. Einstein is a Nobel Prize laureate.
+* 영국 축구의 이미지를 정화할 때가 되었다. It’s high time British soccer cleaned up its image. 
+* 1) 여장을 한 남자를 drag queen이라고 합니다. 동성애자일 수도 있겠지만 보통은 공연 등을 위해 여자 옷을 입고 메이크업을 한 경우죠. 반대로 여장 남자는 drag king이고, 아예 중성적으로 drag performers 혹은 in drag(반대성으로 변장한) 라고 할 수도 있습니다. 
+* 사람에 대한 느낌이나 인상이 보는 이에게 어떤 식으로 'come across', '전해온다'라는 말이에요. 그 사람에 대한 확실한 사실보다는 전해지는 '인상'을 말할 때 쓴답니다.
+  * 빌 게이츠는 좋은 사람 같아. [ex] Bill Gates comes across as a nice guy.
+* 자전거처럼 바퀴가 두 개 달린 차량에서 세 번째 바퀴(the third wheel)는 불필요하고 번거롭겠죠? third wheel은 여분으로 남은, 불필요한, 별로 반갑지 않은 사람을 가리킵니다. 같은 이유로 바퀴가 네 개 달린 차량의 경우에 빗대어 fifth wheel이라고 하기도 합니다.; third/fifth wheel
+* 위선 = hypocrisy 위선자 = hypocrite
+	* ex) I think your hypocrisy is pathetic.  [hɪˈpɑːk-]  영국식 [hɪˈpɒkrəsi]
+* 상류층: the upper class, 중산층: the middle class, 하류층: the lower class, 노동자층: the working plass
 
 # 나이
 * 어느새 18살이 됐어; Fast forward to 18

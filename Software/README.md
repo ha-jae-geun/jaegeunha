@@ -37,6 +37,7 @@
 * 토론: https://idebate.org/
 * 로렘 입섬 https://www.lipsum.com/
 * 슈퍼맨 https://superfan.link/pc/login
+* 무료 사진 위키미디아 https://commons.wikimedia.org/wiki/Main_Page
 
 ## 소프트웨어
 * 붙여넣기 해제; 캡처 - #알툴바

@@ -12,6 +12,7 @@
 * 수습기간; probationary period = probation; for a one-year probationary period
 	* 근신중; on Probation
 * 성공은 매일매일 반복되는 조그마한 노력들이 합쳐진 거야. Success is the sum of small efforts repeated day in and day out.
+	* day to day; My work varies from day to day
 * 우호적인 시기; honeymoon period/phase
 * PST(Pacific Standard Time); 서머타임 후: PDT(Pacific Daylight Time)
 * MST, MDT, CST, CDT, EST, EDT
@@ -22,6 +23,10 @@
 * 주말은 물건너 갔구만; There goes my weekend
 * 밤은 아직 일러; The night's young
 * 연말; end of the year party; 연말 세금 조정; Year-end tax adjustment
+* 조만간, 머지않아; 우리 조만간 같이 놀자. Let's hang out one of these days.
+* all the way는 거리나 시간상에 쓰는 표현인데요, 그 거리(물리적 거리, 타임라인) 전체를 가리켜서 강조를 하는 것이죠. 우리말로는 쭉, 곧장, 내내, 계속, 시종 등이 있습니다. 예문을 보면서 이해해 보겠습니다. 전부다 특정 거리나 시간 전체를 가리켜서 강조해주고 있습니다. 그래서 date back all the way to 1500s도 현재부터 1500년대까지 쭉 거슬러 올라간다는 것입니다.
+	* 그들은 집에 오는 내내 한 마디도 하지 않았다.  They didn’t say a word all the way back home.
+
 
 # 요일
 * 어서 금요일이 되면 좋겠어!; Roll on Friday! 듣기 출처:옥스퍼드
@@ -229,6 +234,7 @@
 * #imminent; death
 * ##임박
 * 처음 30분/10초 								 first 30 minutes/seconds
+	* 처음부터, 내내; 편지를 내내 주머니 속에 가지고 있었다. I had the letter in my pocket all along.
 * #30분: one half hour
 * 5분동안 ~밖에 안하고 있어						 for last five minutes
 * 3분 안에 ~ 만들었어 				 We made this in under/within three minutes

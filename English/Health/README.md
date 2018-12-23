@@ -12,7 +12,12 @@
 * 통증이 그의 팔을 타고 전해졌따; A sharp pain suddenly shot along his arm
   * 밤에는 통증이 더 심해져요.   It hurts more at night. 
   * I'm getting sharp pains in my; I have a throbbing headache; i have an aching pain in my neck; i have a dull pain
+  * 동사 sear 는 요리에서도 많이 사용하는 단어인데요. 강한 불에 겉면을 재빨리 [그슬다, 굽다] 라는 의미를 가져요. 새끼발가락을 문턱 등에 찧어본 적 있으신가요? (으악!) 그럴 때 왜 고통이 불길처럼 확 올라오잖아요? 그래서 고통이 불처럼 [화끈거리게 하다] 의 의미도 가집니다. 따라서 searing pain 은 불처럼 확 올라오는 고통을 의미해요. searing pain
+    * ex) I had a searing pain in my feet when I woke up in the morning.
+  * 2) 발가락을 찧다 = stub one's toe (against/on); ex) I stubbed my toe against the table leg!
 * 위아래로 퍼지는 찌릿찌릿 마비된 느낌; numbing sensation of pins and needles which shoots up and down
+  * 감전; zap 은 복싱에서의 잽을 의미하기도 하지만, 전기로 [충격을 주다, 감전시키다] 라는 의미로도 많이 쓰이는 비격식 단어입니다. 수동태로 쓰일 경우엔 영상에서처럼 전치사 [with + 전기/전류/전기를 통하게 하는 물건] 등을 써서 표현할 수가 있어요. 
+    * 장난감 총을 갖고 있던 남자는 전기 충격 총으로 감전되었다. ex) The guy holding a toy gun was zapped with a stun gun.
 * 척골 후려치기; it's called whacking your funny bone
 * 어제 난리였어; i was a hot mess
 * 이제 회복중인거죠? Now you're in remission right?
@@ -247,6 +252,8 @@
 
 
 ## 병명
+* 만성; 선생님의 수가 꾸준하게 모자라다. There is a chronic shortage of teachers. ˈkrɑːn
+  * 그녀는 급성 스트레스 장애로 위경련을 앓았다. She had stomach cramps from acute stress disorder.
 * 리암은 어떤 질환을 앓고 있어요 - has a condition
 * 난독증 장애인들을 위한 쓰기 과정' Writing courses for dyslexics. 
 * #경련 #발작; the muscle is in #spasm
@@ -316,6 +323,7 @@
 * 치료 받다 if I receive treatment
 * 치료 비용이 너무 많이 든다 the treatment costs too much
 * 상처를 치유하다; #dress a wound(#wound)
+  * scar: 흉터; lump: 혹; bruise: 멍; 눈언저리 멍: black eye; 온통 멍이 든; be black and blue; 물집: blister; 발진: rash
   * 큰 상처를 입다; take a knock; this has definitely taken a knock for me
   * B에게 A를 가하다; inflict A on(upon) B; Your words have infliced huge pain on her
   * 전투로 남은 흉터로 가득하다; full of battle scars 
@@ -387,6 +395,7 @@
 * ‘진단 프로그램, 진단 메시지	diag·nos·tic 미국식 [|daɪəg|nɑ:stɪk]
 * 당분간은 #목발을 써야한다고 했어 k	rʌntʃ He said that I need to be on crutches for a while. 
 * 팔 다리 #절단 수술 받은 사람	#amputee
+  * amputation은 절단 (수술)을 의미하며 amputate는 절단 수술을 하다, amputee는 절단 수술을 받은 사람을 의미합니다. amputation 미국·영국 [æ̀mpjutéiʃən]; He had to have both legs amputated
 * #재활병원 hospital - = #Rehabilitation center = #rehap center
 * #rehabitation programme
 * #정신과 의사 [saikáiǝtǝr] psychiatrist = #shrink

@@ -84,7 +84,9 @@
 * #즉사 drop dead; just gonna go drop dead to sleep
 * 다 죽을거야 YOu’re #doomed(불행한 운명)
 * 죽다; #해충; #pest; he was a real pest
-* #사후; a #post-mortem examination
+* posthumous 는 어떤 사람이 죽은 뒤에 이승(?)에서 일어난 일을 표현할 때 씁니다. 사후에 책이 출판됐거나, 사후에 명성을 얻게 되거나, 혹은 아버지가 돌아가신 상황에서 아기가 태어나는 상황이 그 예입니다.  동의어로는 after death 가 있는데, 만약 ‘사후세계’라고 하려면 a life after death 는 되지만 a posthumous life 라고 하지는 않습니다.
+	* = 그녀의 시는 그녀가 세상을 떠난 후에 발간되었다. Her poetry was published posthumously. 
+	* #사후; a #post-mortem examination
 * #효력이 없는; (as) #dead as a #dodo; #도도새
 * #impending; impending doom; 임박한 종말
 * #at rest; #영면에 든

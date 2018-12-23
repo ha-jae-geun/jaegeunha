@@ -16,9 +16,11 @@
 
 # 연극
 * : 그들은 헨리 홀에서 공연을 할거야 They're putting it on at Henley Hall; 연극이나 쇼 등에 올리다
-
+* gross는 동사로 ‘수익을 낸다’는 뜻으로 특히 영화나 뮤지컬 등의 흥행 수익을 나타내는 경우가 많습니다. top-grossing이라는 단어도 있는데요, 영화 등이 흥행이 잘 되어 돈을 많이 벌어들인다는 뜻의 형용사입니다. 
+	* 그 영화는 올 해 2억 달러 이상의 흥행 수익을 올렸다. The film has grossed over $200 million this year.
 
 # 연예인
+* 스타벅스에서 일하는 남자는 영화에서 튀어나온 것처럼 생겼어. ex) The guy working at the Starbucks was like a man straight out of a movie. straight out of
 * 세간의 주목을 받으면: When you're in the public eye; in the public eye
 	* 주목을 받는 걸 좋아한다; loves being in the spotlight
 * 내 주특기다; It's my shtick; 2. 개그맨들의 본인 특유의 개그, 루틴, 기믹 [ʃtɪk] 
@@ -38,11 +40,23 @@
 * 믿고보는 배우다; he's a go-to actor
 	* 신인 여배우; 장래가 유망한 여배우; 스타ㅏ 되길 꿈꾸는 여배우; 스포츠 유망주: starlet
 		* 총체적 신인; newcomerr, rookie, rising star
+	* 동사 aspire 는 [열망하다] 라는 뜻이 있는데요. 거기서 파생된 단어로 자기가 원하는 사람이 되려고 희망, 열정, 에너지 등을 그것에 쏟아붓는 모습을 표현할 때 쓰는 형용사 입니다. 영상에서는 aspiring actress 가 [의지만 넘치는 여배우] 라고 해석이 되었는데요, [배우 지방생] 이라고 해석이 될 수도 있습니다.
 * 가성비; offer a bang for one's buck
 * 동작이 부드러운데; he's smooth with it
 * 최애를 뽑은 개 아니에요; i'm not picking favorites; play favorites: 편애하다
 
 # 영화
+* 1) 서사 영화(epic film)란, 주로 스케일이 크고, 인간 드라마를 그리는 것에 중점을 둔 영화 장르입니다. ‘반지의 제왕’, ‘글레디 에이터’, ‘레 미제라블’ 등과 같이 역사적 사건이나 영웅 이야기, 신화 등을 주로 다룹니다.
+* cutting room 은 [편집실] 을 의미해요. 지금이야 영화를 촬영한 후에 컴퓨터로 편집을 하지만, 옛날에는 필름을 자르고 붙여서 편집을 했거든요. 그래서 잘린 부분들이 편집실 바닥에 내팽겨지는 모습에서 나온 표현입니다. 주로 영화 관련 대화에서 많이 쓰이지만, 꼭 영화가 아니더라도 [포함되지 않은/생략된] 으로 해석이 됩니다. 영상에서는 [두 사람에 대한 많은 부분이 생략되었다] = [빈틈이 많았다] 로 해석이 되었습니다.
+	* 내 생각엔 영화의 많은 부분이 포함되지 않은 것 같아. 이야기 이해하는데 어려움을 겪었어. ex) I think a lot of parts were left on the cutting room floor. I had a hard time following the story.
+* 어떤 사람이나 사물에 대해 굉장히 열정적으로 추천을 하거나 평가하는 것을 의미하는 [극찬] 이라는 뜻의 비격식 단어예요. 명사로 쓰이며, 영상에서는 rave reviews 로 쓰였으니, [극찬하는 리뷰들] 로 해석이 되었습니다. 동사로 쓰여서 [극찬하다] 라고도 쓰여요!
+	* 방탄소년단은 미국 십 대들의 극찬을 받았습니다. ex) BTS won raves from American teenagers.
+* 주어는 주로 영화, 소설, 음악 등이 오는데요, 이런 예술 작품들이 나이를 곱게 먹었거나 추하게 먹었다는 것은 무슨 의미일까요?  예전 작품이지만 시대가 지나도 여전히 좋고 구식으로 느껴지지 않을 때 has aged well 이라고 합니다. 나이를 곱게 먹었다는 거는 오래됐어도 멋지다는 거니까요. 반대로 hasn’t aged well은 그 작품이 한 때는 인기있던 것일 수 있으나 지금은 구식이고 별로라는 뜻입니다. 
+  * 그 영화는 지금 보면 참 별로다.  That movie hasn’t aged well. (=That movie has aged horribly/badly.)
+* ‘영화관에서 개봉했다’는 표현을 theatrically released라고 표현하였네요. theater(극장)의 형용사인 theatrical은 ‘연극의, 공연의’를 의미하기도 하지만 ‘극장과 관련된’이란 정의도 있기 때문에 theatrically released가 극장에서 개봉했다는 장소를 의미해줄 수 있는 거죠. 혹은 극장에서 개봉했다는 것을 be released in theaters라고 하셔도 됩니다. 본 문장을 다시 써보면 “The 1937 film was also the first animated feature (which was) released in theaters in history.”가 되겠습니다.
+	* 그 영화는 역사 문제로 인해서 극장에서 개봉될 수 없었다. The movie couldn’t be theatrically released because of historical issues.
+	* 나는 어릴 때 만화영화를 보면서 공주가 되는 것을 꿈꿨다.  I used to watch animated feature films and dreamed of being a princess.; 만화 영화: animated feature
+* 그의 영화는 다양한 사람/국가에게 어필하는 요소가 있다. (많은 이들에게 매력적으로 다가온다) His movies have a wide appeal.
 * 후반부 보여드릴게요; Here's the second half
 * 시사섬을 주는 폭로성 영화; thought-provoking expose; withouht hitting a thought-provoking expose
 * 제작 취소된대; - got calceled!
@@ -55,6 +69,8 @@
 * 몇명 ~ 주세요; Can i get 몇명 for 영화 at 시간
 * 영화의 진행, 영화의 흐름; chronology of the film
 * 영화사에서 진행하는 행사; 호텔같이 큰 곳을 빌려서 자기 영화를 홍보하기 위해 영화 기자나, 영화 평곤라 초청해서 시사회 열고 배우와 감독들을 인터뷰하게 하는 행사이다; junket
+	* bill은 ‘홍보하다, 알리다, 묘사하다’라는 뜻의 동사로 주로 수동형인 be billed(홍보되다, 묘사되다)로 쓰입니다. 주어는 보통 영화나 쇼, 혹은 그것에 출연하는 출연진입니다. 
+		* 그 영화를 로맨틱 코미디로 홍보되었다. The movie was billed as a romantic comedy.
   * 보통 일반 국민의 세금으로 출장을 빙자해 비싸고 불필요한 여행을 간다거나, 가족들을 데리고 갈 때 그 비용을 전부 돈으로 쓴다거나 할 때 하는 말
 * 현실적인 연기를 바랐어요; i hopedf for a much more grounded performance
 * 개봉일이에요; it's the premiere for ~
@@ -296,7 +312,8 @@
 * #불한당; #rogue; [roʊg]; regime
 * #대범하게; #rogue
 * 메이크업 아티스트 
-* 장편 영화(a feature picture)의 강렬한 씬(snatches)
+* 장편 영화(a feature picture)의 강렬한 씬(snatches); feature-length film / feature film
+	* 장편 영화를 feature film 이라고 하고, 단편은 간단하게 short film 또는 줄여서 short 라고 합니다. feature-length 라는 말만 따로 많이 쓰기도 하는데요. [장편 영화만큼 긴] 을 의미하는 형용사입니다. 보통 사람들이 movie 라고 하면 feature film 을 생각하시면 됩니다.
 * spoil the ending (결말을 미리 얘기해서 망치다)
 * 영화 #속편 						 [|si:kwəl] sequel of these movies
 * #prequel

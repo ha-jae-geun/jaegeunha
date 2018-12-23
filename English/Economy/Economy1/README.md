@@ -53,6 +53,8 @@
 ---------
 * 연료 소비량을 줄일 수 있을까; how can we improve the car's fuel efficiency
 * #근원물가; #core inflatioon; 물가 변동이 심한 품목을 제외한 장기적인 물가
+	* 여기서 물가라는 것은 단순한 가격(price)이 아니라 시대가 다르기 때문에 화폐가치 또한 다르다는 것을 의미하므로 inflation이라는 단어로 표현하였습니다. 직역하면 ‘인플레이션에 맞추다’이지만 자연스럽게 ‘물가를 고려하다’라고 번역하였습니다.
+		* 물가를 고려해 보면, 오늘날의 5만 달러와 거의 같은 금액이다. If we adjust that for inflation, it is almost same as $50,000 of the present time.
 * 물가 오르면 근원물가에 집중 
 * #금리 상승; 일시적 요인으로 인한 경기 침체는 그 상품만 consider #stabilization policy
 * 물가 안오름

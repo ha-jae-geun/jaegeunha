@@ -1,5 +1,7 @@
 * 친구 Old/good sport, homies
-* 어울리지 않은 친구; They are so; unlikely friends
+	* 어울리지 않은 친구; They are so; unlikely friends
+	* 2) 예를 들어, 같은 직장 내에서 몇 년간 함께 일하며 친해진 동료들이, 함께 즐겁게 놀고 어울리고 잡담하는 건 close relationship 이라고 볼 수 있지만, 그 보다 더 깊은 이야기를 터놓는다던지, 예민할 수 있는 주제를 신뢰를 기반으로 얘기한다든지 할 때는 rapport 라고 볼 수 있습니다.
+		* = 스티브는 정말 빠르게 그의 고객들과 친밀한 관계를 쌓는 놀라운 기술이 있어. Steve has such an amazing skill to build rapport with his clients very quickly.
 * 뒷담화 까지마; don't be talking sideways
 * 넌 날 모욕하지만 추락할 사람은 너야; Cut me down, but it's you who'll have further to fall
 * 화려한 무기는 버리고 덤벼봐; COme at me without any of your fancy tools
@@ -35,7 +37,12 @@
 	* 네 장난 알아 들었으니까 그만해; I get the joke
 * 항사 약간 빈정거리게 된다; we always get into a little bit of a banter
 	* i don't mind him exchanging banter with customers
+* (claw machine/crane claw/crane machine = 인형뽑기기계)
 
 # 싸우다
 * 한대 치려고? 절대 못할거? You gonna make a move? i doulbe dare you
 * 한번 겁나게 붙어보다; It is on like DOnkey Kong; Kong은 게임 동키콩의 주인공이자 주인공 이름
+* 눈 똑바로 뜨고 다녀; Watch where you're going
+* 2) cynicism과 sarcasm은 의미상 어떤 차이가 있을까요? 영어권 문화에서 중요한 문화 요소이기도 한 sarcasm은 어떤 것에 대해 반어적으로 표현하는 것으로 ‘빈정댐, 비꼼’을 의미합니다. 예를 들어 날씨가 정말 안 좋은데 “What a wonderful day it is!(날씨 한번 참 좋구만)”라고 하는 것 처럼요.  반면 cynicism은 ‘냉소, 냉소주의’로 마음 상태를 지칭합니다. 예를 들어 반복되는 부정부패로 인해 정치나 사회에 대해 믿음과 기대가 없는, 냉소적인 사고방식을 갖는 것과 같습니다.
+	* 정치에 대한 대중의 냉소가 낮은 투표율을 이끌었다. Public cynicism about politics led to a low turnout of the election.
+	* 와, 비온다. 정말 완벽한 날이구만! – 그만 좀 빈정댈래? 우리 가족이 처음으로 가는 여행이잖아! Wow, it’s raining. What a perfect day! – Would you please stop being sarcastic? This is our first family trip!

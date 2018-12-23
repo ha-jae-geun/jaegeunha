@@ -8,6 +8,12 @@
   * <> out of tuition
 
 # 대학
+* 상, 수상 award 는 ‘상을 주다’ 혹은 명사로 ‘상’입니다. ‘상을 받다’라고 할 때는 [be awarded the prize] 혹은 [get/win the award] 라고 해주세요. 
+	* 그들은 제니에게 일등상을 주었다. They awarded the first prize to Jenny.
+	* prize 는 잘했다고 주는 상/상장 뿐만 아니라 ‘경품, 상품’을 뜻하기도 합니다.
+		* = 나 인형뽑기에서 세 개나 뽑았어! I won three prizes from a crane machine! 
+	* = 가입하시고 경품으로 현금도 받아가세요! Join us now and get cash prizes! 
+* 학년; - be in (one's) first/second/third/fourth year
 * 인문 대학교를 가다; i went to a small liberal arts college in 
 * 학생회관 책임자입니다; I'm director of the Student Center
 * 책을 넘기다; flip the pages; i've turned to the first page
@@ -449,6 +455,7 @@
 * 미국 #검정고시 #GED
 * #출제하다; #set exam questions
 * #시험 기간: text(exam) week = text(exam) period/term
+	* 정답은 -에 있다; The answer lies in; yourself
 	* 객관식; multiple choice test; 서술형: essay question; 주관식: short answer question
 	* #시험관; #test tube
 	* #중간고사, #기말고사 mid-term exam / final (exam)
