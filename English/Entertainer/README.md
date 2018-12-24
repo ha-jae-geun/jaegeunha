@@ -20,6 +20,7 @@
 	* 그 영화는 올 해 2억 달러 이상의 흥행 수익을 올렸다. The film has grossed over $200 million this year.
 
 # 연예인
+* tagline (명사): 특정 인물이나 사물을 대표하는 캐치프레이즈나 유행어; What's his tagline?
 * 스타벅스에서 일하는 남자는 영화에서 튀어나온 것처럼 생겼어. ex) The guy working at the Starbucks was like a man straight out of a movie. straight out of
 * 세간의 주목을 받으면: When you're in the public eye; in the public eye
 	* 주목을 받는 걸 좋아한다; loves being in the spotlight

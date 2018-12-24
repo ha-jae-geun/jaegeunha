@@ -21,6 +21,7 @@
 * I said I would be ther as soon as I could
 
 # 접두어
+* 족히 4-6분이요; good: 족히, 상당한, 큰; It'll takea good hour or two
 * 어떻게 해서든; One way or another
 * -일지 누가 알아; For all i know, You could be a -
 * 상대적인 관점에서 보면; To put that into perspective
@@ -55,6 +56,7 @@
 * as it were = 말하자면, 이를테면 (=so to speak / in a matter of speaking)
   * 뭐 말하자면 여자친구 같은 건데, 공식적으로 사귀거나 그러는 건 아냐.
     * ex) She's kind of my girlfriend, as it were, but we're not official or anything.
+* 왜인지 알겠다; No wonder why; he got angry
 
 # 질문
 * 일반적인 왜; Why; 무엇 때문에; What for(목적을 물어봄); 도대체 왜(why보다 강한 어투; 의아함)How come
@@ -81,6 +83,8 @@
 * 그 말은 왜 하는거야? Where are you going with that? 2. 그것과 어디를 가는 중이야?
 
 # 대답
+* 1) Granted : 문장 전체를 꾸미는 부사로 쓰였어요. '인정해요, 사실이에요, 그래요' 라는 뜻으로, 하려는 말에 반대되는 어떤 지점을 짚어줄 때 쓸 수 있어요.
+  * 인정해, 누구도 완벽할 순 없지. 근데 내가 하려는 말은 ~라는 거야. [ex] Granted, nobody's perfect, but my point here is that ~
 * 심리테스트나 퀴즈의 결과로 -가 나왔어; i got -
 * 잠시만; Hang on
 * 그런가? You reckon?

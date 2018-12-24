@@ -40,6 +40,47 @@
 * '두 가지 이상의 것이 하나처럼 같다'라는 의미로, 단순히 same이라고 일컫는 것보다는 '동일한 것'이라는 데 더 포인트를 준 표현이죠~ 여기서는 킴 카다시안과 여왕이 세계의 이목을 끌기로는 '하나같이 똑같다'는 걸 뜻해요!
   * 육체와 영혼은 동일한 것이다. Body and soul are one and the same.
 * 넌 아무 것도 몰라; YOu don't know jack; jack의 흔한 이름조차 모른다.
+* 생물학 관련 발전이 많이 이루어지면서 최근에 많이 쓰이게 된 단어인데요. 동물을 도축하여 얻는 고기가 아니라, 고기의 세포 일부를 추출하여 그것을 배양하여 얻는 고기를 의미합니다. 
+  * = 배양육은 전 세계적인 음식의 부족에 훌륭한 해결책이 될 것입니다. Cultured meat will be an excellent solution to the worldwide food shortages.
+  * 이 단어는 산업혁명 이후에 많이 쓰이게 된 단어인데요. 화학적 합성을 통해 원래의 것과 비슷한 무언가를 만들어내는 걸 의미합니다. 물론 영상 뒤편에 자세히 나오겠지만, 여기서 cultured meat 은 실제 고기인 반면 synthetic meat 은 고기는 아니지만 고기 같은 식감과 맛을 주는 합성육을 의미합니다.
+  * = 합성 재료로 만들어진 옷들은 보통 세탁기로 빨 수 있죠. Clothes made from synthetic materials can usually be washed in a machine.
+* extent 가 [정도]라는 뜻이 있어요. 그래도 무언가의 정도가 클 때 to a large(great) extent 라고 하고, [어느 정도는]이라고 말하고 싶을 땐 to some extent 또는 to a certain extent 이라고 합니다.
+  * = 그 정보는 상당히 유용했다. The information was useful to a large extent.
+* off 는 turn off, switch off 처럼 무언가를 끌 때 많이 쓰이는 단어인데요. 마찬가지로 write off 은 무언가가 중요하지 않아서 연필로 지워버리는 듯한 뉘앙스의 단어입니다. 무언가를 실패로 여기거나 무가치한 것으로 여길 때 쓰는 동사입니다. 
+  * 영상에서는 수동태인 be written off 으로 쓰여서 [일축되다]로 해석이 되었습니다. 빚을 지워주는 모습에서 [부채를 탕감하다]라는 의미로도 많이 쓰입니다.
+    * = 그 회의는 실패로 일축될 순 없어요. 결과를 보기 위해 시간이 좀 더 필요할 뿐입니다. The meeting cannot be written off as a failure. We just need more time to see the result.
+* = A를 B로부터 구해주다, 피하게 해주다; spare A from B  A가 불쾌하고, 고통스럽고, 당혹스러운 상황을 겪는 것으로부터 구해주고, 피하게 해주는 것을 의미합니다.
+* 우리가 알고 있는 단순한 명사들이 동사의 역할을 하기도 해요. 1) water = 물을 주다, 2) plant = 심다 등의 단어들이 있는데요. stone 도 마찬가지라 [돌] 뿐만이 아니라 동사로 [돌을 던지다]라는 의미로 쓰입니다. 비유적으로 [비난하다]라는 의미를 갖기도 해요.
+  * = 걔들이 모든 걸 알게 되면 제이슨은 돌에 맞아 죽을지도 몰라. Jason might be stoned to death if they figured out the whole thing.                      
+  * = 아이들은 끔찍한 병을 피하게 되었다. The kids were spared from the terrible disease.
+* 날 기다리게 하지마; leave someone hanging: 결정을 내릴 때까지 상대방을 기다리게 하다; Don't leave me hanging   
+* 이 운동은 당신의 자연스러운 성장 과정을 촉진시킬겁니다. ex) This workout will kick-start your natural growth process. 촉친시키다
+* 1) 직역을 하면 [마지막이지만 가장 의미가 작지는 않은] 이란 뜻인데요, 보통은 중요한 걸 먼저 말하고, 덜 중요한 건 나중에 말하는 영어의 특징에서 온 표현이라고 볼 수 있습니다. 2) 따라서, [마지막이지만 여전히 중요한] 정도의 의미를 가집니다.
+  * 내가 어제 본 차는 멋진 디자인과, 강한 차체, 그리고 마지막으로 비싸지 않은 가격을 제공해. ex) The car I saw yesterday offers a nice design, a strong body, and last but not least, an inexpensive price.
+* 1. 데우다 스프 좀 데워줄래? [ex] Would you warm up some soup for me?
+  * 2. 따뜻해지다 지구가 따뜻해지고 있어.  [ex] The Earth is warming up.
+  * 3. 몸을 풀다, 준비하다 종아리 근육들을 풀어줄 스트레칭 운동들 [ex] stretching exercises that warm up your calf muscles
+  * 4. 예열하다 복사기는 예열이 돼야 해. [ex] The copying machine needs to be warmed up.
+  * 파티는 곧 활기를 띠었다. [ex] The party soon warmed up.
+* 1) 도착하다, 생기다/나타나다 새로운 기회들이 생기고 있어. [ex] New opportunities are coming along.
+  * 2) 함께 가다/오다 우리랑 함께 갈래? [ex] Do you want to come along?
+  * 3) (상황, 실력이) 나아지다, 좋아지다 네 프랑스어 실력은 좀 늘고 있니? [ex] How's your French coming along?
+  * 4) (명령형) 힘 내, 서둘러 서둘러! 우리 많이 뒤쳐지고 있어. [ex] Come along! We're far behind.
+* drama는 '극적인 일, 사건'을 뜻하는데요, 연예인 관련 drama라서 '가십거리'라고 번역했어요. 북미권에서 참  많이 쓰이는 표현인데, 또 어떻게 쓰이는지 살펴볼게요. 1) 사건사고, 특히 관련자들이 감정적으로 반응하게 되는 사건사고를 뜻해요. 편갈라서 싸우고, 배신하고, 뒷담화하고 그런 것들을 뜻하죠. "I try to stay away from drama"라는 표현을 종종 들을 수 있는데, 그런 일들에 최대한 개입하지 않고 피해 있어려 한다는 뜻입니다.
+  * 2) "Don't be so dramatic." 별 거 아닌 일에 너무 감정적으로 반응하는 사람에게 해주는 말이에요. "그렇게 감정적으로 나오지 마", "그렇게 오바하지 마"라는 뜻이죠.
+  * 3) drama queen 드라마 퀸 매사를 감정적으로 받아들이고, 감정적으로 반응하는 사람을 뜻해요. 별 거 아닌 걸로 화내고 앙심 품고 뒷담화와 편가르기를 즐기는 류의 사람이라고 보시면 됩니다.
+* : 이렇게 어떤 문제를 이르는 목적어를 받아 '피해가다, [직접 부딪히기보다] 피해서 해결하다'라는 뜻으로 쓸 수 있어요! 장애물을 돌파하기보다 그 주위로 피해가는 걸 상상하면 기억하기 쉽겠죠?
+  * 난 법망 피해가는 방법을 훤히 알고 있지. [ex] I know all the ways to get around the law.
+* '전력을 다하다' 라는 뜻! 에너지, 노력, 정성, 열정 따위를 아낌 없이 쏟아부어서 뭔가를 아주 제대로 해보는 걸 말해요.
+  * 톰이 장식을 장난 아니게 제대로 했어. [ex: 파티에 대해] Tom went all out on decorations.
+* : A와 딱 맞다, 흠 없이 어울리다 [ fit (in) seamless(ly) with A ] seamless (←seamlessly) 미국·영국 [ˈsiːmləs] 
+* 영상에서는 '유입된' 이라는 뜻으로 쓰였는데요. 문맥에 따라서 '원인' 이 '결과' 에 [유입되다/흘러들어가다] 라고도 해석이 됩니다. 다양한 출신국들이 하나의 국가가 형성되도록 '영향을 준 것'이기 때문에 '유입된' 이라고 해석이 되었어요.  feed 라는 단어 자체가 무언가를 '공급하는' 뉘앙스이기 때문에, 흘러'들어가서' 영향을 주는 모습의 단어에요. source 는 [근원, 원천] 이라는 뜻이 있어서 하나의 국가를 이루는 원천이 되는 [다양한 출신국들] 이라고 해석이 되었습니다!
+  * 새 시스템이 이미 회사 전체에 영향을 주는 중이야. ex) The new system is already feeding into the entire company.
+* 1) contain 은 무언가를 [담고 있다, 함유하다] 라는 의미로 가장 흔하게 쓰이는데요. 그 박스엔 물 50병이 들어있어. ex) The box contains fifty bottles of water.
+  * 2) 무언가를 어딘가에 담아둔다는 기본적인 의미에서 무언가가 퍼지는 것을 [억제하다, 방지하다] 라는 의미로도 쓰입니다. 국가 간에 정책이나 무력을 사용하여 [견제하다] 라는 의미도 가져요. 가끔 내 화를 억누르는게 힘들어.  ex) Sometimes I find it hard to contain my anger.
+  * 3) contain 의 명사형을 함께 알아두시면 좋습니다. 무언가를 담는 통인 container 와, [억제,견제] 등을 의미하는 containment 가 있어요.
+    * 미국은 중국에 대한 다른 견제 정책을 가지고 있는 것처럼 보인다. ex) The U.S. seems to have different containment policies against China.
+* 'tomayto, tomahto' 또는 'patayto, potahto'는 한 마디로 '그게 그거'라는 뜻입니다. 미란다 커가 부르고 있는 것은 이 말의 유래가 된 "Let's call the whole thing off"라는 노래의 한 부분이죠.
 * 1) root이 ‘뿌리’입니다. 그래서 be rooted in~ 은 ~에 원인이 있다 / ~에 뿌리박고 있다’가 됩니다. 반대로 root out 은 ‘뿌리뽑다, 근절시키다’를 의미합니다. 
   * 유교문화는 한국 사회에 깊게 뿌리박혀 있다. Confucianism is deeply rooted in Korean society.
 * 2) signify는 간단하게 mean(의미하다)과 동의어라고 생각하시면 됩니다. 

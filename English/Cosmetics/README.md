@@ -61,6 +61,8 @@
 * Would you please recommend some highly moisturizing hand creams?
 * 화장이 자꾸 번져							 My makeup gets smudged
 * #리무버 #remover; eye makeup remover, lipstick remover, nail polish remover
+	* 화장품 지우거나 마스크팩 뗄 때 Do i take it off now?
+	* 세안으로 닦을 때; Then you wash it off thoroughly ˈθɜːr-]  영국식 [ˈθʌrəli]
 * 선크림	Sunblock, Sun Screen
 * #건조; my skin is dry and combination
 * #여드름이 잘 나는 피부에요; my skin is #acne prone = I have a lot of acne

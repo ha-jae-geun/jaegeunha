@@ -73,15 +73,19 @@ The best-selling classic of politics is Machiavelli's monarchy.
 * #시위하다; #demonstrate for; demonstrate against
 * #집회; #rallies
 * 정책을 수행하다 #carry out the #policy
-* 새로운 정책을 발표하다 announce[publish] a new policy 
-* 정책을 수립하다 establish[formulate] policy 
-* 정책을 결정하다 decide on a policy 
-* 정책을 채택하다 adopt a policy 
-* 정책을 실시하다 implement[carry out] a policy 
-* 정책을 바꾸다 change one's policy 
-* 정부는 기초과학을 정책적으로 육성할 필요가 있다
-* The government needs to institute policies to promote basic science. 
-* 환경 친화적인 정책 environmentally-friendly policy
+	* push 가 [밀어붙이다] 라는 뜻이 있듯이, 법안이나 정책을 밀어붙여서 조금 무리하게 통과시키는 것을 의미합니다. = push A through B
+		*  그는 의회를 통해 그 법안을 통과시켰다. ex) He pushed a bill through Congress.
+	* 새로운 정책을 발표하다 announce[publish] a new policy 
+	* 정책을 수립하다 establish[formulate] policy 
+	* 정책을 결정하다 decide on a policy 
+	* 정책을 채택하다 adopt a policy 
+	* 정책을 실시하다 implement[carry out] a policy 
+	* 정책을 바꾸다 change one's policy 
+	* 정부는 기초과학을 정책적으로 육성할 필요가 있다
+	* The government needs to institute policies to promote basic science. 
+	* 환경 친화적인 정책 environmentally-friendly policy
+	* 결의안; 중국과 러시아가 거부권을 행사할 것으로 예상되어 그 결의안은 부결될 것입니다. ex) China and Russia are expected to use their veto power, and the resolution will die.
+		* (veto power = 거부권)
 * #자치권; #autonomy 미국식 [ɔ:|tɑ:nəmi; a campaign in Wales for greater autonomy
 * [형용사] 국가・지역・기관이 자주적인, 자치의 an autonomous republic/state/province
 * ##정책

@@ -10,6 +10,7 @@
 * 잘못 짚었어; The cops are barking up the wrong tree
 * 지방정부는 불법 활동을 단속하시 시작합니다 The local government cracked down on all the illicit activities
 * 얄팍한 속임수들을 소개합니다; Here are some sneaky ways
+  * 그런 같잖은 속임수들이 싫어; i don't like your little games
 * 죗값을 치렀어요; i've done my sentence
 * 삼성쪽에서 직접 사진을 유출했죠; Samsung leaked a picture
 * 그럴듯하게 속이다; put on a show; they put on such a good show at first

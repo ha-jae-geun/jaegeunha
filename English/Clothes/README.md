@@ -11,6 +11,7 @@
  * attire; 옷을 얼마나 갖춰입었는지
    * formal attire, casual attire, business attire
 
+* 이 옷 소화할 수 있을까? Do you think i can pull this off? 짧은머리 소화하다; pull off short hair
 * 잉크가 안 지워지지? Why isn't this ink coming off?
 * 패션 전문가; fashion guru; 자칭 패션 전분가; self-proclaimed fashion guru
 * 그 옷을 입은 이후부터; Ever since i put on this outfit
@@ -101,8 +102,9 @@
 * #유행한다 #In fashion = it's in <> it is #out
 * #fad; ~ are the fad
 * 유행을 타지 않는다. #never go out of style(#style)
-* #pervasiveness [pǝrvéisiv]
-* 유행 역행하다; #swim against the tide /#current
+  * '시간이 지나도 촌스러워지지 않는(즉 유행을 타지 않는), 고전적인 미를 갖고 있는' 이런 뜻이에요! timeless book/movie/play/classic (책/영화/연극/고전작품)                          
+  * #pervasiveness [pǝrvéisiv]
+  * 유행 역행하다; #swim against the tide /#current
 * ##fashion
 * #wear	#trying on, putting on
 * try on: 입어봐도 되요? put on: 입는 동작

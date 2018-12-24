@@ -27,6 +27,7 @@
 
 # 단어
 * 내가 작전 설명하는데? While i'm breaking it down?
+	* 육해(공) 공동 작전 amphibious operations   [æmˈfɪbiəs]
 * 무장 병력: armedf forces, 군비 확장 경쟁; arms race
 	* 줄무장했지; Armed to the teeth; to the teeth: 완전히
 * #unit #platoon #divison #army of soldiers

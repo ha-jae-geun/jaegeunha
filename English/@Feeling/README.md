@@ -902,21 +902,23 @@
 	* #자신없는; #faint-hearted
 * 부모님이 #엄하셔 my parents are #strict
 * 하나도 안 무서워; you don't scare me
-* #무시무시해 보인다; it really looks quite #spooky
-* #안절부절 #위태 #초조 #겁나다 #무서운 #무섭 #엄하다
-* #vulnerability; i’m not oing to take advantage of her vulnerability
-* #취약 #불안전 #약한 상태
-* ■ scared 와 scary 복습
-* ○ Someone is scared 누군가가 겁먹다
-* ○ Something is scary 무엇인가 겁난다
-* ○ I'm scared that I'll fall over 난 넘어질까봐 두려워
-* ○ The fear that I'll fall over is scary 넘어질거라는 두려움이 무서워
-* ○ What's scary about it? 그게 뭐가 무서운데?
-* ○ Don't be scary. 겁먹지마
-* ○ scary movie 무서운 영화 = frightening movie
-* ○ He is scaring his staffs off 그는 부하들을 불안하게 만들어 (scare off)
-* ○ I'm scared of being left alone. 혼자 남겨지는게 무서워
-* ##scary ##scared
+	* scary 같은 경우엔 꼭 귀신이 아니더라도 누군가의 행동이 무섭거나, 고소 공포증이 있어서 무섭거나 할 때 쓸 수 있는 단어인데요. spooky 의 경우엔 [유령/귀신]을 의미하는 명사 spook 에서 유래된 단어이기에 마치 귀신이 나올 듯 으스스하고 오싹함을 의미하는 형용사입니다.
+	* S가 내 등골을 서늘하게 해; S send shivers down my spine.
+	* #무시무시해 보인다; it really looks quite #spooky
+	* #안절부절 #위태 #초조 #겁나다 #무서운 #무섭 #엄하다
+	* #vulnerability; i’m not oing to take advantage of her vulnerability
+	* #취약 #불안전 #약한 상태
+	* ■ scared 와 scary 복습
+	* ○ Someone is scared 누군가가 겁먹다
+	* ○ Something is scary 무엇인가 겁난다
+	* ○ I'm scared that I'll fall over 난 넘어질까봐 두려워
+	* ○ The fear that I'll fall over is scary 넘어질거라는 두려움이 무서워
+	* ○ What's scary about it? 그게 뭐가 무서운데?
+	* ○ Don't be scary. 겁먹지마
+	* ○ scary movie 무서운 영화 = frightening movie
+	* ○ He is scaring his staffs off 그는 부하들을 불안하게 만들어 (scare off)
+	* ○ I'm scared of being left alone. 혼자 남겨지는게 무서워
+	* ##scary ##scared
 * 소름끼쳐 			 	 It gives me the creeps. It gives me the chills. goosebumps
 * get/have <> give ##goosebumps
 * #짜릿; a #real thrill. 
@@ -1374,13 +1376,14 @@
 * 냉대하지 마.							 Don't give me a cold shoulder
 * #냉정
 * crack up (멘붕되다= break down mentally)
-* = become demented = become psychotic = blow a fuse = collapse = come apart at seams = deteriorate = flip out = freak out = go bonkers = go crazy = go nuts, go off deep end = go out of mind
-* 나 #맨붕올 것 같다				 I'm about to have a mental breakdown.
-* #부스러기; bread #crumb# 빵가루; -> my world is crumbling apart = everything is falling apart
-* 맨붕올 것 같아 								 i’m tripping out
-* ##맨붕
-* #louth, a strong #aversion 강한 혐오감
-* ☆최악읙 ᅟᅧᆼ우에는; if worse comes to worst
+	* have a breakdown; i'd look like i'm havign a breakidown
+	* = become demented = become psychotic = blow a fuse = collapse = come apart at seams = deteriorate = flip out = freak out = go bonkers = go crazy = go nuts, go off deep end = go out of mind
+	* 나 #맨붕올 것 같다				 I'm about to have a mental breakdown.
+	* #부스러기; bread #crumb# 빵가루; -> my world is crumbling apart = everything is falling apart
+	* 맨붕올 것 같아 								 i’m tripping out
+	* ##맨붕
+	* #louth, a strong #aversion 강한 혐오감
+	* ☆최악읙 ᅟᅧᆼ우에는; if worse comes to worst
 * 혐오; #abomination
 	* #극혐이다					 that's revolting, foul, disgusting, #terrible
 	* 최악이다 it's so #butters
@@ -1397,6 +1400,7 @@
 	* #혐오 #꺼리다 #최악 #질색 #바닥
 	* 미워하지 말자 								don't be hatin
 	* #밉다 #미워하다
+	* = 넌 프랭크를 비난해선 안 돼. 그는 결과와 아무 관계가 없어. You shouldn't point your finger at Frank. He has nothing to do with the result. point finger(s) (at)
 	* 그리고 dish it out 자체가 ‘남을 비난하다’라는 뜻을 가지고 있어서 ‘남을 비판하는 것을 즐기면서 정작 자신에 대한 비판은 받아들이지 못하다’는 의미로 “…dish it out, …can’t take it” 라고 고정적으로 표현하기도 합니다. 
 		* 잭은 남을 비판하는 것은 잘 하면서 다른 사람들이 그에게 똑같이 하면 받아들이지 못한다. Jack can dish it out, but he can't take it when others do the same to him.
 * verdict, screening, evaluation, screen, evaluate, judge, #underestimate in (ourselves) 

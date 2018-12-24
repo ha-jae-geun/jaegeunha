@@ -553,9 +553,11 @@
 	* * tread 는 ‘발로 밟다’입니다. 발로 밟아서 움직이는 기구여서 treadmill 이라고 하죠. 쳇바퀴처럼 계속 똑같은 것을 비유하거나 런닝머신이라고 부르는 운동기구도 treadmill 이라고 합니다.  참고로 treadmill 에는 전치사 on/off 를 써야 합니다. 면적에 붙어있고 떨어져 있는 개념으로 생각하는 겁니다.
   * 난 정말 이 다람쥐 쳇바퀴 같은 사무실 생활을 정리하고 뭔가 신나는 걸 해보고 싶어. I really want to get off the office treadmill and try something exciting.
 * 오늘밤 이렇게 지나게 해; let tognight just pass by like this
+	* 특별히 하는 것 없이 시간을 보내거나 친구들과 어울리는 것을 속어적 표현으로 kick it이라고 합니다. 비슷한 표현으로는 pass time(시간을 보내다), hang out(어울려 놀다) 등이 있습니다.
 * 우리말로 ‘현실도피’라고 번역하는데요, 무언가 즐거운 것을 하면서 삶의 부정적인 면을 잠시나마 잊어보려는 행위를 escapism이라고 합니다. 예를 들면 예능 프로를 보면서 지친 하루의 스트레스나 답답한 현실을 잠시나마 잊어보는 것 처럼요.
 	* 나는 자전거로 출퇴근을 하고 또 자전거를 타면서 삶의 고단함을 잊곤 한다. I use the bike both for work and escapism.
 * 삶을 완전히 뒤바꿔놓다 = turn one's life/world upside down
+* 사실, 걔 L.A.에서 완전 호화롭게 잘 살고 있어. Actually, he's been living it up in L.A. live it up: 사치스럽게 즐기다
 
 ## 운명
 * 운명을 다시 써보는 건 어때? WHy don't we rewrite the stars
