@@ -102,9 +102,13 @@
 * #유행한다 #In fashion = it's in <> it is #out
 * #fad; ~ are the fad
 * 유행을 타지 않는다. #never go out of style(#style)
-  * '시간이 지나도 촌스러워지지 않는(즉 유행을 타지 않는), 고전적인 미를 갖고 있는' 이런 뜻이에요! timeless book/movie/play/classic (책/영화/연극/고전작품)                          
+  * '시간이 지나도 촌스러워지지 않는(즉 유행을 타지 않는), 고전적인 미를 갖고 있는' 이런 뜻이에요! 
+  timeless book/movie/play/classic (책/영화/연극/고전작품)                          
+  * 여기서 hype는 인기를 끄는 것, 열광하는 것, 유행하는 것을 의미합니다. 스타벅스는 전세계에서 성공적으로 매장을 운영하고 있는데 호주만큼은 ‘그 유행’에 관심이 없어 보인다고 하네요. There's been a lot of hype around his latest film.
   * #pervasiveness [pǝrvéisiv]
   * 유행 역행하다; #swim against the tide /#current
+  * 영상에서처럼 craze 라는 단어 앞에 무엇이 유행하는지를 붙이거나, 뒤에 전치사 for 를 써서 [~의 유행] 이라고 표현할 수도 있습니다.
+    * 여자들 사이에 요가 열풍이 불어서 다들 요가 매트 같은 것들을 사곤 했었죠. ex) There was a yoga craze among women and everyone bought yoga mats and stuff.
 * ##fashion
 * #wear	#trying on, putting on
 * try on: 입어봐도 되요? put on: 입는 동작
@@ -258,6 +262,8 @@ are you afraid of heights? your zipper is
 * (생각을)풀다 #unlock; unlock billions of big ideas
 * #끝단; #hem; I still need to get all my panst hemmed
 * #실 #바느질 #뜨다 #풀다
+  * 바느질을 뜯어내다 rip open the seams: 
+  * 나는 이빨로 바느질을 뜯어내려고 했다. I tried to rip open the seam with my teeth.
 * #밧줄; #rope
 * #끈(#가죽, #천으로 된); #strap
 * 작업복	overalls

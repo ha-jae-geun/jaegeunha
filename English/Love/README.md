@@ -1,3 +1,6 @@
+# 숙어
+* 사랑 싸움 그만해; Get a room you guys;
+
 # Word
 * 번호를 따가다; ask for one's number
 * -와 관계가 진전될 가능성이 있다; have a chacne with; you don't have a chance with him

@@ -8,11 +8,13 @@
 	* 너무 자신만만해; She's so full of herself; bragging: 물건 자랑
 	* 잘난 척 하긴; SHow off
 	* 허풍 떨지말고; Don't brag about it; She keeps bragging about her car
+	* 그 사람은 이길 때 잘난척이 심해져; He gets a bit cocky when he's winning
 * 평범한 건 원하지 않아요; We don't want the standard
 * 추종자들이 있는 권위자, 전문가; guru; 흰두교에서는 종교적 스승, 지도자   expert: 사람들의 전중ㅇㄹ 받는 전문가
 * 그는 독보적이다; He's a one of a kind
 	* 최고에요; She's a top shelf lady
 	* a renaissance man = 다재다능한 사람 well-rounded person, jack-of-all-trades
+		* : 여러 방면에 재주가 있지만 뛰어난 한 가지가 없는 사람  [jack of all trades, master of none]
 	* 친절한 사람; 좋은사람; 사랑 스러운 사람;  peach, doll
 	* 비격식 표현으로 누군가를 좋게 표현할 때 쓰는 형용사입니다. 참고로 전지현 주연의 영화 '엽기적인 그녀' 의 제목이 영어로 My Sassy Girl 이에요.주의할 점은, 나이가 많은 사람이 자기보다 나이 적은 사람에게 sassy 하다고 표현할 때는 [건방진] 이라는 의미로 종종 쓰이니 주의하세요.
 		* 넌 너희 엄마한테도 그렇게 건방지니?ex) Are you that sassy with your mom?
@@ -86,6 +88,7 @@
 * 상류층: the upper class, 중산층: the middle class, 하류층: the lower class, 노동자층: the working plass
 * 거짓말쟁이; tattletale  [tǽtltèil]; snitch; rat
 	* 내부 고발자; whistle blower
+* 소름 끼치는 사람; creep
 
 # 나이
 * 어느새 18살이 됐어; Fast forward to 18

@@ -182,19 +182,24 @@
 
 ## grow
 * 길이, 크기, 부피 전체가 다 커지는 그림
-* outgrow: ~하기엔 너무 큼
+* outgrow: 하기엔 너무 큼
 
 
 ## get
 * 움직여서 상태가 변화는 느낌
 * Let's get moving
+* 'get back at sb'는 '에게 복수하다'라는 의미의 informal(비격식)한 구동사입니다.
+	* [ex] After Judy lost her job, she sought a way to get back at her old boss.
+* 그런데 'get back to sb'가 되면 '에게 다시 연락하다'라는 뜻으로 바뀝니다. 주로 통화(회신)과 관련한 상황에 사용해요. 'to'와 'at'의 미세한 차이가 전혀 다른 해석을 만들죠?
+	* [ex] I'll find out and get back to you.
 
 ## like
 * 비슷한 느낌의, 거의 같은 느낌 <> as
 * i like you; 나와 비슷해서 좋아하다
 * look like
-* be likely to; ~할 것 같다; it's likely to be a huge success
+* be likely to; 할 것 같다; it's likely to be a huge success
 * would like to be an English teacher
+
 
 ## home, house
 * house: 말 그대로 집

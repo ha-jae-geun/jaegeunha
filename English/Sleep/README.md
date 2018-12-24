@@ -115,6 +115,7 @@ waking dream: 환상같은
 * 원동력, 추진력; a driver behind; 동사 drive 의 뜻에는 [운전하다] 외에도 무언가를 특정한 방향으로 [몰고 가다, 추진하다, 이끌다] 등의 의미가 있어요. 그래서 driver 는 무언가가 발생하게 하는 강력한 요인을 의미하고요. 비슷한 단어로는 driving factor, driving force 라고 쓰기도 합니다. 
 	* ex) 제 생각에, 저희 성공의 가장 큰 원동력은 많은 디테일을 가진 신중한 계획이라고 할 수 있습니다.; The biggest driver behind our success, I would say, is a careful planning with a lot of details.
 * 꿈을 꾸다 chase rainbows, quit chasing rainbows(허항된 꿈을 꾸지 마)
+	* * have hallucinations: 헛것을 보다, 환상을 보다
 	* 꿈도 꾸지마; #perish the thought
 	* 그건 항상 내 꿈이였어 						 It's always been my dream
 	* 꿈에서도; in one's wildest dreams; not/never + in one's wildest dreams: 상상도 못한
@@ -123,6 +124,9 @@ waking dream: 환상같은
 sli:p ‘wi:kend I'm going to catch up on sleep this weekend. .
 * ^^ #wake up 은 의식이 깨는 것을 말해요. 정신 차려 | #get up은 뭘까요? 이건 육체적/신체적 몸이 일어나는 것을 말해요.
 나는 밤 중에 깼어. #깨다				 I woke up in the middle of the night.
+	* 'wake up to ~'는 이처럼 '~와 함께 깨다', 또는 to 이하에 원인을 받아서 '~에 깨다' 라는 뜻으로 쓸 수 있어요.
+		* 빗소리를 들으면서 깼어. [ex] I woke up to the sound of rain.
+	* 앞서 'wake up to' 를 배웠죠? 이번엔 반대 표현 'fall asleep to' 를 익혀봅시다. '~에 잠들다'라는 뜻으로, 잠드는 순간 함께하고 있었던 것을 말할 때 써보세요.
 * #도난 #경보기; #burglar alarm
 * #알람이 안울렸어 							The alarm didn't go off
 	* 알람 울리네 							 there's an alarm going on

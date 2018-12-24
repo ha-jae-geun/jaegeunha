@@ -11,9 +11,10 @@
 * 지방정부는 불법 활동을 단속하시 시작합니다 The local government cracked down on all the illicit activities
 * 얄팍한 속임수들을 소개합니다; Here are some sneaky ways
   * 그런 같잖은 속임수들이 싫어; i don't like your little games
+  * 우리가 완전히 속았던 거라면; If we were completely played
+  * 그럴듯하게 속이다; put on a show; they put on such a good show at first
 * 죗값을 치렀어요; i've done my sentence
 * 삼성쪽에서 직접 사진을 유출했죠; Samsung leaked a picture
-* 그럴듯하게 속이다; put on a show; they put on such a good show at first
 * 위법이다; It's against regulation
 * 그들은 합의를 이끌어 내도록 강요받았다. [also VN to  inf.] [VN] They were coerced into negotiating a settlement. 
 * 미디어의 과장된 선동과 여론의 두렴을을 이용하다; The media's tendency to sensationalize and play upon the public's fear; play upon
@@ -144,6 +145,8 @@
 * #순찰: #patrol; #정찰 차량 #patrol car #휘장(#배지): insignia
 * 정찰; #recon; I'm just gonna do a quick recon; reconnaissance [rɪ|kɑ:nɪsns]
 * #미국 #강도 #도둑 #theft #brigand
+  * 1) 비격식표현으로 총을 든 강도짓 하는 것을 의미하는데, 예전에는 총이 권총보다는 장총이 더 흔했거든요. 그래서 영상에서 보실 수 있듯이 장총을 들고 있으면, 마치 막대기를 들고 있는 것 처럼 보이기 때문에, 그런 모습을 연상하시면 좋을 것 같아요. 
+    * 아무도 움직이지마! 강도다!ex) Nobody moves! This is a stick-up!
 * 도둑질 larceny[lάːrsəni]
 * #금고 털이 #safecracker(#cracker)
 * 큰 금고; #vault
@@ -294,6 +297,7 @@
 * #신분증 검사; they #carded you; I got carded at a bar the other night
 * #특검; #special prosecutor
 * #변호사 #국선 변호인							 public defender
+  * 혹은 ‘변호사’를 뜻하기도 하는데요, lawyer는 법을 전공하고 변호사 자격증을 딴 사람을 넓게 포괄하여 부르는 말이고, advocate은 법정에 서서 의뢰인을 대변하는 변호사를 특정하여 부르는 말입니다. 
   * #변호인 Councillor(2. #지방의회의 #위원)
   * #counsel; 고문 변호인
   * #법정 변호사; #trial lawyer us: #counsel #uk: #barrister

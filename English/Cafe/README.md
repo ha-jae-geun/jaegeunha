@@ -27,6 +27,8 @@
 * 
 * 커피 #찌꺼기 coffee grounds(#grounds) / #grinds
 * #미국 카페
+* 여기서 joe가 coffee를 의미하는 단어는 아니지만 cup of joe라고 하면 보통 ‘커피 한 잔’을 뜻하는 속어입니다. 어원은 워낙 다양한 설이 있어서 하나로 정해진 것은 없으나 미국에서 전래되기 시작했다고 합니다.
+  * 나는 내 하루를 맛있고 따뜻한 커피 한 잔으로 시작해. I start my day with a nice warm cup of joe.
 * ㆍ물건 놔두고 자리 비우면 위험
 * ㆍ뜨거운걸 마실 때 소리내서 마시지 않는다(소리에 민감)
 * ㆍ점원이 How's is going이라고 질문함 -> not bad: 대답 안하면 무시함

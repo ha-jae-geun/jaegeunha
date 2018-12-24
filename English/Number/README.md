@@ -38,6 +38,7 @@
 * #16진수 #8진수								 hexadecimal, octet, 
 * 순서 = ~의 오름차순/내림차순으로 * in increasing/decreasing order of These are alternative scenarios, in decreasing order of likelihood.
 * 통계는 정확해, 숫자는 정확해; The numbers didn't lie
+	* : 저희 회사에선 약 50명의 사람들로부터 데이터를 수집한다며 '통계적 유의성'이 있다고 말했는데요. '통계적 유의성이 있다'는 말은, 확률적으로 봤을 때 단순한 우연이라고 생각되지 않는다, 또는 통계적으로 모집단에 대한 가설이 의미가 있다는 말이에요. 보고서, 논문에서 유용하겠죠?
 --------------------------------------------------------------------------------------------------------------------
 * the amout of water(셀 수 없는0, the number of children(수)
 * has the least amount of ~: 최소한의 ~을 먹다

@@ -47,6 +47,7 @@
 * #영국학교
 * Nursery/reception – infant school – junior / primary school – high school/secondary – college - university
 * ----
+* [직업 고등/대학교] 는 vocational school 이라고 하는데요. 미국에서는 공립고등학교만 vocational 이라는 단어를 붙일 수 있고, 사립 직업학교 같은 경우엔 career college 라고 한답니다.
 * 너희 학교에서 출입 통제가 있엇잖아; You guys did have a lockdown at school
 * 지각; tardy; consider it tardiness
 * 랜ㄷ누가 더 크게 외쳤뜬 간에 랜덤하게 고르신다; Regardless of who shouted louder, the teacher just randomly appointed
@@ -211,14 +212,15 @@
 * #주입식 교육; the cramming (system of) education
 * #재학 증명서; certificate of registration
 * #성적 증명서; #transcript
+	* 4.0은 [ four point oh ]라고 읽습니다. 숫자 '0'을 zero라고 읽기도 하지만, 전화번호나 성적을 말할때는 거의 oh라고 합니다.
 * #졸업 증명서; #diploma; I need a (certified) copy of my diploma.
-
-* 졸업자 Graduate #졸업식 Graduation Ceremony
-* #졸업생 대표; #valedictorian 미국·영국 [|vӕlɪdɪk|tɔ:riən] 
-* #졸업장; #수료증; #diploma
-* #졸업사진; we are taking pictures for the yearbook
-* #졸업 앨범; high-school #yearbook
-* 갓 졸업했어; 그는 이제 막 학교를 졸업했어. He’s #fresh out of school.
+	* 꼭 '수석 졸업생' 만을 의미하는 것은 아니고, 졸업식에 고별사 (=the valedictory) 를 낭독하는 학생을 의미하는데요. 보통은 그 해의 수석 졸업생이나, 여의치 않을 경우 차석 졸업생이 졸업생 대표로 고별사를 합니다. 그 사람을 지칭하여 valedictorian 이라고 합니다.
+	* 졸업자 Graduate #졸업식 Graduation Ceremony
+	* #졸업생 대표; #valedictorian 미국·영국 [|vӕlɪdɪk|tɔ:riən] 
+	* #졸업장; #수료증; #diploma
+	* #졸업사진; we are taking pictures for the yearbook
+	* #졸업 앨범; high-school #yearbook
+	* 갓 졸업했어; 그는 이제 막 학교를 졸업했어. He’s #fresh out of school.
 * #학사; #complete a #bachelor
 	* #학사모 Graduation cap / Mortar board
 	* 컴퓨터 과학과 학사 학위가 있다; ahs a degree in computer science

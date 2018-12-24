@@ -49,6 +49,8 @@
 * 위기의식 危機意識  단어장추가 (철학) consciousness of crisis
 	* 상황을 고조시켜요; It all gets ramped up
 	* 그의 상황은 위태로웠다. His situation was haing by a hair. 
+	* 실 한 가닥에 매달려 있는 모습은 매우 위태해 보이겠죠. 현재 처한 상황이 매우 위험스럽다는 뜻의 표현입니다. 주어는 사람, 사물 모두 올 수 있고, on 은 생략 가능합니다.
+		* 요새 제 삶이 좀 위태위태 해서 그런 것 뿐이에요. (악마는 프라다를 입는다 中) My personal life is hanging by a thread. That’s all. 
 * 오늘 날 세상에서 가장 긴급히 다뤄져야 할 이슈는 뭐가요? What's the world's most presing issue today? pressing issue/matter
 -------
 * 자택에서 대피하다; evacuated from their homes; 임새 대피소: tempoary shelters

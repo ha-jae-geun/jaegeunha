@@ -324,6 +324,7 @@
 * #치유가 되는; #medicinal herbs/plants #약초
 * 치료 받다 if I receive treatment
 * 치료 비용이 너무 많이 든다 the treatment costs too much
+* 파열; 대동맥이 파열되면 죽을 수도 있어요. ex) You could die if the main artery ruptures.
 * 상처를 치유하다; #dress a wound(#wound)
   * scar: 흉터; lump: 혹; bruise: 멍; 눈언저리 멍: black eye; 온통 멍이 든; be black and blue; 물집: blister; 발진: rash
   * 큰 상처를 입다; take a knock; this has definitely taken a knock for me

@@ -75,6 +75,7 @@
 * 
 
 ## 집	#집돌이; I've become quite the home body. 	
+	* turf는 기본적으로 ‘잔디’를 뜻합니다. 그런데 여기서는 비유적으로 자신이 가장 편안함을 느끼거나 자신감있는 분야, 자신만의 근거지 등을 의미합니다.  You get out of here. This is my turf!
 * 들어와; Come (on) in; Come on over: 우리 집으로 혹은 내가 지금 있는 곳으로 와
 * 잠깐 들르다; nip down; Alex has just nipped out to the bank
 	* 지낼 곳; Every night we're grateful for having a roof over our heads; a roof over head
@@ -166,7 +167,8 @@
 * King, #queen, #double, #single bed
 * #침대 #아기 침대 cot, crib
 * #바구니 침대; #bassinet
-* #휴대용 침상 #cot = #camp bed
+	* #휴대용 침상 #cot = #camp bed
+	* 말 그대로 2층 침대인데요. 한가지 알아두시면 좋은 점은 온라인 상에서 숙소 예약할 때 bunk bed style 이라고 적혀져 있는 경우가 있어요. 그때는 2층 침대를 다 가지는게 아니라, 1층, 2층 둘 중에 하나에서 머물게 되는 것이기 때문에 있다면 "요청사항" 같은 부분에 1층은 bottom bunk bed, 2층은 top bunk bed 이라고 예문과 같이 적어주셔야 합니다.
 * #해먹; #hammock
 * #전기 담요; #장판 = #elecric blanket/#mat
 * #매트리스 커버; #mattress pad

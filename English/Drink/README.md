@@ -27,6 +27,7 @@
   무알콜 음료; #virgin / moctail; can i get a virgin Bloody Mary; 물을 탄 위슼; Whiskey with water
   ---------
   * 「술집」 ##술집 liquor(독한 증류주) líkǝr
+* happy hour 는 주로 술집에서 술이나 음식 등을 할인된 가격으로 파는 시간을 의미합니다. 주로 사람들이 붐비기 전인 오후 4-6시 정도에 happy hour 가 많아요. 한국에서도 [6시 전에 입장하시는 손님들께 맥주 공짜!] 이런 이벤트 있잖아요? 모두가 해피한 happy hour 랍니다 ㅎ
 * 보드카; with ciroc on tap
 * #rum #		#술자리 drinking occasion이나 drinking party
 * #dry bar; 술이 없는 바	#hard lemonade; 술이 들어간 레모네이드

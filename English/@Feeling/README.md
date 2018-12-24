@@ -38,11 +38,11 @@
 * ~를 ~adj하게 느끼다 								find someone adj
 * ##드러내다 #느끼다
 * ☆진자하게; #in all seriousness, ~
-* grave, I mean it < i'm serious < I'm dead serious < I mean business
-* 진지해지자 									 Let’s get serious
-* 진지하게 받아들이다 take it #in the heart(#heart)
-* 진지하게 well #thought-ou
-* #진지
+	* grave, I mean it < i'm serious < I'm dead serious < I mean business
+	* 진지해지자 									 Let’s get serious
+	* 진지하게 받아들이다 take it #in the heart(#heart)
+	* 진지하게 well #thought-ou
+* 너 진짜 뻔번하다; YOu've got some nerve
 * love and hate
 	* 그는 그녀에 대해 애증이 엇갈리는 태도를 보인다.		 He has an ambivalent attitude towards her.
 	* 애증의 관계; They have a #love-hate relationship. 두 사람은 애증 관계에요. 
@@ -893,6 +893,7 @@
 	* 저 불안해요 								 I'm on pins and needles.
 	* 안절부절해 하는거 봐봐 						 He's a little jumpy
 	* 나 초조해 								 I feel/am on edge.
+	* 한번은 질투심이 그녀를 정말 초조하게 만들기 시작했다. At one point, jealousy really began to eat away at her.
 	* 덜 초조해요 								 I'll be less nervous
 	* #restless
 	* This is so #nerve racking

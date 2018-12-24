@@ -1,3 +1,14 @@
+* 우리 회사는 마케팅을 많이 하지 않았어요. 제품들은 대부분 입소문을 통해서 팔리죠. ex) Our company hasn't done much marketing. Our products are sold mostly through word-of-mouth.
+* : understand 의 의미가 더 넓고, get a sense of 의 의미가 좀 더 좁습니다. 이 표현은 이해하는 것 중에서도, 특히 노력 없이 이해하기 어려운 것을 어떤 방법이나 설명을 통해 '어느 정도 이해하다', '감을 잡다'라고 말할 때 자주 써줘요.
+* 지도 위에 이름이 올라간다는 건 그만큼 사람들에게 중요하고 의미 있는 곳이 된다는 뜻이지요? 이처럼 어떤 사람이나 장소 등이 유명하게 된다, 성공하게 된다고 할 때 이 표현을 사용한답니다~^^
+  * 퇴역 군인 역할이 그를 진정한 배우로 거듭나게 만들었다. His role as a retired soldier really put him on the map as a real actor.
+* eye-opening은 말 그대로 눈을 확 뜨게 만드는 걸 묘사하는 표현이에요. 예상치 못 해서, 놀라서이기도 한데, 중요한 건 시야를 확장하는  깨달음이 들어간다는 점입니다. 이전에는 몰랐는데 이제는 알게 되었다는 느낌이 있는 거죠~ 이렇게 눈을 뜨게 만드는 것, 이야기, 경험을 가리켜 an eye-opener라고 부릅니다. (주로 오전에 마시는 해장술 [칵테일류]이기도 하죠 ㅎㅎㅎ)
+  * 당신의 이야기는 제 눈을 확 뜨게 만들었어요. Listening to your speech was an eye-opening experience for me.
+* tight ship은 직역하면 '밧줄이 타이트하게 잘 묶여진 배'로, 질서정연하고 규율이 엄격해 순항하는 배처럼 '조직이 잘 정비되고 통제되어 효율적으로 운영되는 기관이나 회사'를 의미해요.  여기서 run은 운영한다는 뜻으로, 회사의 운영이 느슨하지 않고 잘 통제되고 있고, 일하는 사람들의 기강도 좋아 어떻게 보면 좀 빡빡하긴 하지만 잘 운영되고 있는 것을 말해요.
+  * 그녀는 꽤나 엄격한 편이어서 잡담에 시간을 낭비하지 않았지. She was running a tight ship and didn't waste time on small talk. 
+* backward는 ‘뒤집어진, 반대인, 뒤인’을 뜻하는데요, 여기서는 기준보다 떨어진다는 의미에서 ‘낙후된, 발전이 더딘, 퇴보하는’의 뜻으로 쓰였습니다.  그리고 부사일 경우에는 backwards가 되는데요, 종종 –s 없이 쓰는 경우도 있습니다. 영상에서도 backward와 backwards를 혼용해서 말하고 있는데요, 문법적인 사항 보다는 의미에 집중해서 학습해 주세요!
+  * 그가 어렸을 때, 그의 선생님들은 그가 지능이 떨어지는 것으로 생각했다. When he was a child, his teachers thought he was backwards.
+* connect the dots는 점을 연결하는 것으로, 어릴 적 점을 따라 가다보면 그림이 완성되는 점잇기놀이처럼, connect the dots는 단편적인 사실들을 모아 결론을 도출해내는 것을 말해요. 여기서는 지금하는 일들, 혹은 과거에 했던 일들이 이어져 미래에 의미를 갖게 된다는 의미랍니다.
 * 이 표현은 ‘남들보다 유리한 점, 도움이 되는 기술 등을 가지고 있다’는 뜻인데요, 패턴은 「have something going for 사람」입니다. 여기서 something은 ‘유리하게 해 주는 대상’을 넣으면 되는데요, 표현 방법은 다양합니다. 예문을 보면서 이해해 주세요.
   * 돈이 많은 부모님을 두었기 때문에 그는 좋은 조건을 갖췄지. As the son of rich parents, he has a lot going for him.
 * 이 표현은 산처럼 생겨서 곡선의 중간이 위로 튀어나와 있는 그래프를 떠올리시면 이해가 되실거에요. 보통 평균치에 해당하는 수가 가장 많아서 곡선의 가운데가 위로 튀어올라 있고, 그 곡선보다 앞서서(ahead of) 그래프가 낮아지는 부분은 평균보다 뛰어난 곳을 가리킵니다. 그래서 ahead of the curve는 ‘남들보다 앞서다, 평균보다 낫다’라는 의미가 되는 것이죠.  반대로 곡선(curve)보다 뒤에(behind the curve)있는 부분은 평균보다 떨어지는 부분이기 때문에 ‘시대에 뒤지다, 평균에 못미치다’입니다. 
@@ -80,6 +91,64 @@
   * 2) 무언가를 어딘가에 담아둔다는 기본적인 의미에서 무언가가 퍼지는 것을 [억제하다, 방지하다] 라는 의미로도 쓰입니다. 국가 간에 정책이나 무력을 사용하여 [견제하다] 라는 의미도 가져요. 가끔 내 화를 억누르는게 힘들어.  ex) Sometimes I find it hard to contain my anger.
   * 3) contain 의 명사형을 함께 알아두시면 좋습니다. 무언가를 담는 통인 container 와, [억제,견제] 등을 의미하는 containment 가 있어요.
     * 미국은 중국에 대한 다른 견제 정책을 가지고 있는 것처럼 보인다. ex) The U.S. seems to have different containment policies against China.
+* 1) 비격식의 표현으로 누군가의 창의적인 노력에 인해 나온 아이디어나 발명품을 의미해요. 뇌에서 (brain) 나온 아이 (child) 니까요. 뇌는 머리를 쓰는 곳이니, 거기서 나온 발명품을 의미하겠죠?  
+  * 제니는 그녀의 발명품인 노인들을 위한 기저귀를 팔기 시작했어. ex) Jenny started to sell her brainchild, a diaper for the elderly.
+* 3) 어떤 표지판이나 안내문이 say, read 라는 동작을 할 때는, '말하다' '읽다' 라는 뜻이 아니라, [~라고 쓰여있다] 라는 의미로, 영상에서처럼 뒤에 [that+문장] 또는 따옴표 안에 문장을 써서 무엇이라고 쓰여 있는지 알려줍니다.
+* shout, scream, yell같은 표현과 함께 쓰이는데요, 폐의 끝에서부터 지르는 소리라면, 느낌이 오죠? 우리가 목이 터져라, 목청껏 소리지른다는 표현을 폐를 통해서 하고 있어요. 
+  * at the top of one's lungs : 목청껏, 있는 힘껏 큰소리로, 소리지르며
+    * 그리고 나는 그저 있는 힘을 다해서 소리를 질렀다. And I was just screaming at the top of my lungs. 
+* 가령, a born artist(천부적 예술가), born to be a star(스타가 되기 위해 태어난), natural-born leader(타고난 리더), be born with a good memory(선천적으로 기억력이 좋다) 등 타고난 재능이나 특징, 운명을 말할 때 다양하게 활용되어요.
+  * 마크는 절대음감을 가지고 태어났어요. Marc was born with perfect pitch. 
+* 지붕이나 배 등의 방수재로 사용되는 검은색의 끈적한 물질을 pitch라고 합니다. 그래서 pitch dark는 그 재료처럼 새까맣다, 어둡다는 것을 의미합니다. dark as pitch, 혹은 as dark as pitch라고도 표현할 수도 있고 dark대신 pitch black(칠흑같이 새까만)라고 할 수도 있습니다.
+  * 밖은 칠흑같이 어두워서 우리는 아무것도 볼 수 없었다. We couldn’t see anything because it was pitch dark outside.
+* confide는 ‘비밀, 속마음을 털어놓다’는 뜻입니다. 누구에게 털어놓았는지까지 표현하려면 전치사 in 뒤에 사람을 넣으면 됩니다. 여기서는 with no one to confide in으로 "기댈 사람이 아무도 없는"이라고 하였네요.
+  * 난 완전히 외톨이인 기분이야. 내 속마음을 털어 놓을 사람이 없어. It feels like I’m all alone. I have no one that I can confide in. 
+* head 는 [앞/선두] 를 의미하기도 합니다. 따라서 제일 앞에서 시작하는 것이니, 유리하게 시작하는 것을 의미합니다.
+  * 제시카의 중국어를 말할 수 있는 능력은 그녀가 인턴쉽에 지원할 때 유리한 시작을 하도록 도움을 주었다. ex) Jessica's ability to speak in Chinese gives her a head start when applying for internship programs.
+* stumble이란 단어 자체에는 ‘우연적으로’ 발생했다는 느낌이 포함되어 있습니다. 원래 뜻은 ‘발을 헛디디다’인데요, 실수(=우연)로 한 행동에서 무언가가 파생되었다는 거죠.   stumble upon/across~ = 우연히 ~를 발견하다 / ~를 만나다
+  * She stumbled upon her ex-boyfriend in the library.
+* 모두가(all) 함께 나와서(out) 싸우는 전쟁을 의미합니다. 말 그대로 전쟁 중의 전면전일 수도 있고, 심각한 갈등, 분쟁을 의미할 때 비유적으로 쓰일 수도 있습니다.
+  * 많은 사람들이 갈등의 증가가 전면적으로 될까 봐 두려워한다. ex) A lot of people fear that the escalation of the conflict might develop into an all-out war.
+* odd 는 주로 복수형으로 쓰여서 [가능성] 을 의미하는데요. 무언가 일어날 법 할 때 자주 쓰이는 패턴입니다. odds 대신 chances are that 이라고 쓰기도 해요.
+  * 아마도 네가 잘못된 가능성을 가지고 있는 걸 거야. ex) Odds are that you have false information.
+* ~라면 다릅니다. = It make a difference if + 문장
+  * 네가 그의 친부라면 굉장한 차이가 있지. ex) It makes a huge difference if you are his biological father.
+* 여기서 practice는 ‘실행, 실천’이란 뜻이고 실행에 두는 것(put into)이니까 “행하다, 실천하다, 실재로 하다”란 의미가 됩니다. ‘무엇을’ 실행에 옮기는지 표현하려면 put과 into사이에 명사를 넣어주세요.
+  * 그거 실재로 해보자.  Let’s put that into practice. 
+* 동사 deceive는 ‘속이다’란 뜻인데, 어떻게 그것의 부사인 deceptively가 ‘보기와는 다르게, 생각외로’라는 의미를 갖는지 선뜻 연상되지 않을 수도 있는데요. 풀어 설명하면, “실재로 보이는 것과는 다른 인상을 주는”입니다. 보이는 것과는 다르기 때문에 실재(=진실)와 거리가 있다는 것이죠.
+  * 그는 키 크고 근육질처럼 보이지만 보기와는 다르게 약해. He looks tall and muscular, but he’s deceptively weak.
+* laurels은 ‘월계관’으로 성공을 상징하죠. 자신의 성공(one’s laurels)에 안주하다(rest on)는 표현으로 더 이상 노력하지 않고 자신이 이룬 것에만 만족해 하는 것을 나타냅니다.
+  * 그 회사는 자신들의 성공에 너무 오랫동안 안주했고, 경쟁자들이 사업의 대부분을 잠식했다. The company rested on their laurels too long and their competitors took away a lot of their business. [ˈlɔːr-;ˈlɑːr-]  영국식 [ˈlɒrəl] 
+* 직역으로는 어떤 것을 이로 꽉 문다는 것인데, 비유적으로는 어떤 일에 열의를 가지고 달려드는 것을 뜻합니다. 
+  * 이 책 읽어봐. 진짜 재밌게 파고들 수 있는 이야기일거야. Try this book. It is a story you could really sink your teeth into.
+* 예를 들어, 돌팔이 약장수가 '이 약은 모든 질병을 고쳐줄 수 있는 마법의 약입니다' 라고 했을 때, 그런 주장, 사람들의 믿음 등이 잘못됐고, 근거 없고, 실제로 보이는 것보다 덜 중요하다는 것을 [드러내다] 라는 의미의 비격식 단어입니다. 참고로 그런 것들을 드러내는 [폭로자] 를 debunker 라고 합니다.
+  * 과학계 전체가 황박사의 주장이 틀렸음을 드러내기 위해 많은 노력을 들여왔습니다. ex) The entire science community has put a lot of effort into debunking the claims made by Dr. Hwang.
+* 우리가 흔히 먹는 흰 쌀밥은 정제된 밥이고, 흰 밀가루도 정제된 밀로부터 만들어진 밀가루 입니다. 이렇게 정제 되어진 곡물은 조금 몸에 안 좋다는 인식 때문에 서구 문화권에서는 통곡물을 조금 더 선호하는 경향이 있는데요. 통곡물은 곡물 전체 모습 그대로를 담고 있기 때문에 whole grain, 통밀은 whole wheat 이라고 합니다.  참고로 '가공육'은 processed meat이라고 합니다.
+* 다 끝날때까지 긴장 바짝해야 해. ex) You need to remain vigilant until it's all over.
+* 동사로 demand 는 [요구하다] 라는 뜻이 있는데요. 무언가 많은 노력과 기술을 요구하는 상태를 demanding 이라고 합니다. 그러니 당연히 '부담되고', '힘들고' 그렇겠죠? 2) taxing 은 [육체적, 정신적으로 힘든] 이라는 뜻의 형용사에요. 둘 다 힘든 것을 의미합니다.
+  * 내 금요일 스케쥴은 정말 힘들어. ex) My Friday schedule is really taxing.
+* 해야 할 일이 지루하거나 유쾌하지 않아서 하지 않고 질질 끌며 미루는 것을 procrastinate 라고 해요. 1) 자동사로 쓰여서 목적어가 필요 없을 때는 I'm procrastinating. = [난 할 일을 미루는 중이야] 라고 해석이 되고, 2) 타동사로 쓰여 뒤에 목적어를 쓸 때는 I'm procrastinating my homework = [난 숙제해야 하는데 질질 끌고 있어] 라고 해석이 됩니다.
+* 그의 목소리에 담긴 다급함에 화들짝 놀라 그들이 행동에 나섰다. The urgency of his voice galvanized them into action.  [ˈɡælvənaɪz]
+* : 주의하세요! '솔로가 되다'라는 뜻이 아니라, 무언가를 '혼자 하다'라는 뜻이에요. 우리말로는 애인이 없는 상태를 '솔로'라고 표현하지만, 영어에서는 'single'이라고 표현하거든요. 'solo'는 뭔가를 혼자 하는 걸 말하죠!
+  * 이번 여행은 나 혼자 가. [ex] I'm going solo on this trip.
+* : 여기서 'perk'는 혜택, 장점으로, '~의 장점, 혜택'이라는 뜻이에요. 'perk'은 보통 직업에 따른 혜택을 말하는데, 직업 말고 다른 일의 혜택을 말할 때도 쓸 수 있어요. 다음과 같이요!
+  * 서울에 살아서 좋은 점 중 하나는 ~예요. [ex] One of the perks of living in Seoul is that 절 ~ [pɜːrk] 
+* 홀로 하고 싶은 일을 하거나 편안히 쉴 수 있는 자신만의 시간은 영어로 'me time'이라고 표현할 수 있답니다!  드디어 나만의 시간 좀 보낼 수 있게 됐군! [ex] Finally, some me time!
+* 어떤 한 가지 경우가 다른 것에도 동일하게 적용되거나, 어떤 규칙, 상황 등이 다른 경우에도 여전히 유효할 때, hold true라고 합니다. 
+  * 이 규칙은 모든 경우에 항상 유효합니다. This rule holds true all the time.
+* 케이크를 먹어버린다면 손에 남는 것이 없을텐데, 케이크를 먹고도 손에 남았다 하여 보통은 얻기 힘들거나 불가능한 두 가지의 장점을 모두 얻게 되었을 때 쓰는 표현입니다. 만약 can’t를 넣어 부정형으로 말한다면, “모든 걸 다 가질 순 없다 / 자기 좋은대로만 할 수 없다”는 뜻이 됩니다.
+  * 이건 정말 멋진 기회가 될 거야. 두 마리 토끼를 다 잡을 수 있게 될거라고! This will be a wonderful opportunity. You can have your cake and eat it too!
+* savvy는 특정 분야에 대한 지식이나 능력, 이해도가 높다는 의미로 명사도 되고 형용사도 됩니다. 그리고 회화에서 간단하게 “Savvy?”라고 하는데 이는 “알겠니? 이해하겠니?”라고 묻는 것이죠.
+  * 요새 많은 사람들은 정치적 이해도가 높다. Many people are politically savvy these days.
+* -가 없었떠라면/아니었따면; Had it not been for/without
+* : 여기서 'best'의 뜻은 '최고'보단 '최선'에 가까워요. '~하는 게 좋다' / '~안 하는 게 좋다'라는 뜻!
+  * 1. It's best to / It's best not to
+* : '~를 가볍게 여기다' 혹은 '경시하다' 라는 뜻! 주로 진지한 일이 별일 아닌 것처럼 구는 것, 또는 경시하는 것을 말해요.
+  * 다른 사람의 문제를 경시하지 마. [ex] Don't make light of other people's problems.
+* shut off 는 기본적으로 '분리시키다'라는 뜻으로, shut oneself off from 은 '자기 자신을 ~로부터 고립시키다, 단절시키다, 연을 끊다' 라는 뜻이에요. ※ 참고 : 물이나 전기, 가스 등을 '끊다', 혹은 '끊기다', 기계 따위가 '작동하지 않다, 꺼지다' 라는 뜻으로도 쓸 수 있어요!
+  * 그 애가 죽었을 때 걔 아무도 안 만나고/연락 다 끊고 혼자 지냈어. [ex] When she died, he shut himself off from everyone.
+* 우선 '감촉, 촉감, 만지기, 접촉'과 같은 감각과 관련된 의미가 있죠. 또한 a touch of salt처럼 '소량의 무엇'을 나타낼 때도 등장해요. 어떤 작업의 마무리 (손질)을 한다고 할 때 'give something a finishing touch'라고 말할 수 있어요. "Let's keep in touch!"는 "연락 계속 나누자."라는 뜻이고요. 여기서는 '솜씨, 기술, 기법, 특징'처럼 한 사람만의 고유함을 드러낼 수 있는 표현으로 사용되었어요.
+  * 우리는 대가의 솜씨에 입을 다물지 못 했다. We were awed by the touch of the master.
 * 'tomayto, tomahto' 또는 'patayto, potahto'는 한 마디로 '그게 그거'라는 뜻입니다. 미란다 커가 부르고 있는 것은 이 말의 유래가 된 "Let's call the whole thing off"라는 노래의 한 부분이죠.
 * 1) root이 ‘뿌리’입니다. 그래서 be rooted in~ 은 ~에 원인이 있다 / ~에 뿌리박고 있다’가 됩니다. 반대로 root out 은 ‘뿌리뽑다, 근절시키다’를 의미합니다. 
   * 유교문화는 한국 사회에 깊게 뿌리박혀 있다. Confucianism is deeply rooted in Korean society.

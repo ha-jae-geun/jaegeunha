@@ -3,6 +3,8 @@
 * 정가 선물을 받을 때와 할인 선물을 받을때 기분이 다르므로 할인을 안해도 사람들이 많이 사용한다.
 
 # 핸드폰
+* 1) 핸드폰 관련해서는 [약정 기간] 을 의미하고, 2) 기본 무상수리기간 (warranty) 외에 추가 요금을 내고 서비스를 받을 수 있는 기간을 의미하기도 합니다.
+	* 한국의 핸드폰 약정은 다른 나라보다 보통 싼 편인데요. 폰 자체가 비싼거죠. ex) Service plans for mobile phones in Korea are usually cheaper than other countries. It's just the phone itself that's expensive.
 * 정전기 마찰이 없어져서 그런걸 거야; YOur battery just statically defracticated
 * 폴더폰 들고다녔지; everyone had a flip phone in my day
 * 의미 없는 프로필 업데이트나 해야겠다; i'm gonna post a pointless status update on Facebook

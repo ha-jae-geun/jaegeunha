@@ -28,6 +28,8 @@
 	* 빈털털리야; i'm absoultely skint/broke
 * 어마가 돈줄을 쥐고있다; Mom holds the purse string in my family
 * 집게사장이 돈을 긁어모으고 있어; Krabs is raking it in; rake
+* : 가치를 ‘지니다’라고 할 때 동사 hold 혹은 have를 써주세요. 그리고 금전적 가치(monetary value)라는 것은 화폐로서의 가치를 지니고 있다는 말입니다. 그 만큼 향신료가 귀한 대접을 받았던 것이죠.
+	* 2) hold monetary and cultural value
 
 # 숙어
 * 믿을만 한거야; you can tae it to the bank
