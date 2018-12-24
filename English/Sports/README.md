@@ -6,7 +6,7 @@
 * 1987년부터 서머타임으로 서울 올림픽 해외중계 등의 이유로 한 시간씩 시간을 당겨 생활했다 Since 1987, I have been living in summer time for one hour, due to the overseas broadcasting of the Seoul Olympics.
 * 1988 올림픽은 가장 많은 국가인 160개국이 참가한 행사였다. The 1988 Olympics was the event where 160 nations, the most numerous, participated.
 -------------
-
+* 반사신경 좋아요; He is very athletic; have good reflexes; have quick reflexes
 * 스포츠 해설자 a sports commentator
 * 유력 일간지의 기자 a reporter[journalist] at an influential daily (paper)
 * 패배 직전에서 승리하다; we #snatch victory from the jawsof defeat

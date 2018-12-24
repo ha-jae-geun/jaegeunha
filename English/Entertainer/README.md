@@ -83,6 +83,7 @@
 * 저기 죄송한데, 혹시 발 좀 조심해주시겠어요? Excuse me, Could you please be careful with your feet?
 * 조연 역할을 따냈죠; Emma scored the supporting role
 	* 어떤 배우에게 비슷한 유형의 고정 배역을 주는 것; typecast; we might get typecast
+* 백인만 캐스팅하는 것에 대한 이유가; Justiification for white washing is that like
 
 # Entertainment
 * #감식가: #connoisseur[|kɑ:nə|s3:r;-|sʊr] 
@@ -170,6 +171,10 @@
 * 영화 상영 안해요? Aren’t you showing pets?
 * 영화 예약 Can I get two adults and two kids for 7:30 showing of Trolls?
 * #19금 캐릭터; #r-rated character
+	* 전체: G; General Audiences, PG: Parental Guidance Suggested; 아이 부모 동반
+	* PG-13; Parental Guidance-13; R: Restricted; 17세이하는 부모 혹은 성인이 반드시 동반
+	* NC-17; No Children-17; 부모 동반과 산과없이 17세 이하는 불가;
+	* NR / UR Not rated or Unrated; 미국영화등급체계에 요청하지 않음 무등급 영화
 * 예상을 깨고 흥행한 영화; #sleeper hit
 * put ~ out there; 세상에 내놓다; I'm finally putting it out there
 * 방금 출시되었다 Just come in(out)

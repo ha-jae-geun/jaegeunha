@@ -883,6 +883,7 @@
 	* #insecurities
 	* #불안지수; #apprehension level
 	* #불길; there were #omnious dark
+		* 불길한데; i have a bad feeling about him
 	* I had grave #misgivings about making the trip
 	* #My father #fidgeted and sighed. “아버지는 안절부절 못하시면서 한숨을 내쉬었다
 	* 초조하게 하다; #eat at

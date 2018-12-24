@@ -39,6 +39,7 @@
   * 무조건? 진짜? They go without fail? - Seriously.
 * '두 가지 이상의 것이 하나처럼 같다'라는 의미로, 단순히 same이라고 일컫는 것보다는 '동일한 것'이라는 데 더 포인트를 준 표현이죠~ 여기서는 킴 카다시안과 여왕이 세계의 이목을 끌기로는 '하나같이 똑같다'는 걸 뜻해요!
   * 육체와 영혼은 동일한 것이다. Body and soul are one and the same.
+* 넌 아무 것도 몰라; YOu don't know jack; jack의 흔한 이름조차 모른다.
 * 1) root이 ‘뿌리’입니다. 그래서 be rooted in~ 은 ~에 원인이 있다 / ~에 뿌리박고 있다’가 됩니다. 반대로 root out 은 ‘뿌리뽑다, 근절시키다’를 의미합니다. 
   * 유교문화는 한국 사회에 깊게 뿌리박혀 있다. Confucianism is deeply rooted in Korean society.
 * 2) signify는 간단하게 mean(의미하다)과 동의어라고 생각하시면 됩니다. 

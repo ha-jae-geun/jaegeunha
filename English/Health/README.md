@@ -209,6 +209,8 @@
 * #병적 행동; #병리학; #pathology; it's his pathology
 * (질병을)악화시키다; #exacerbate [igzǽsǝrbèit, iksǽs-]
 * #꾀병; #malinger; 말링거; malingerer
+  * 꾀병부리다; pretend to be sick; 
+  * 보통 꾀병을 부리는 사람은 병으로 사람들의 관심을 끌고 싶어한다. In general , malingering people are eager to call attention to their illness . 
 * hospital	hospital은 교통사고가 났거나 정밀 검사를 받는 큰 규모의 종합병원을 뜻합니다. 
 * ◇ a cold와 동의어를 = flu도 보실수 있는데요. 저 한국에 있을때 하나같이 flu 앞에는 정관사 the를 써라. cold 앞에는 a를 써라. 무시무시한 cancer 앞에는 the를 빼고. 라고 늘 들어왔어요. 다 맞지만, * 실상은 flu 앞에 정관사 the 를 안 붙이는걸 더 많이 보실수 있어요. #cold# #flu#
 * '적어도, 네 동생 열내리는데는 도움이 될거야 		 *At least it'll help keep his fever down.
@@ -339,7 +341,7 @@
 * #더부룩하다; #bloating
 * #복통	stomachache, bellyache, tummy pain, abdominal pain
 * I have a severe pain in my belly
-* #부상 그(하퍼)는 전력을 다하는 선수로 부상이 잦은 것으로 유명하다.	|dɪŋ He's a pedal-to-the-metal player who has been known to get dinged up
+* #부상 그(하퍼)는 전력을 다하는 선수로 부상이 잦은 것으로 유명하다.	|dɪŋ He's a pedal-to-the-metal player who has been known동작:  to get dinged up
 * #타박	
 * #전치	전치 2주의 부상
 * an injury which will take two weeks to heal completely 
@@ -359,6 +361,7 @@
 * I got heatstroke
 * 열사병 조심해	Be careful of heat stroke
 * #깁스 했어. 	I wear a cast.
+  * 상태; wear a cast; 동작: put on a cast; 다리 깁스하다; put a cast on a leg; 팔에 깁스할 때 매는 끈; arm sling
 * #목발	#crutch(1개); be on cruches
 * #휠채어	i'm in a #wheelchari(큰 휠체어에 들어가는 느낌)
 * ##코가 막히다. 	I have a lot of congestion

@@ -75,6 +75,7 @@
 * 소다영어 https://blog.naver.com/hyeonahmo/221208654665
 * 윤선생; https://m.post.naver.com/my.nhn?memberNo=2134697
 * Shall we learn https://blog.naver.com/teacherr10
+* Learnwithchaewon https://m.blog.naver.com/PostList.nhn?blogId=learnwithchaewon
 * 한국번역연구소 https://blog.naver.com/ktri8888
 -----------------------------------------------------------------------------
 * 빌보드 https://www.billboard.com/charts/hot-100#/charts/hot-100

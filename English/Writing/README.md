@@ -7,6 +7,7 @@
 * 2) 기본적으로 sympathetic은 ‘동정심을 느끼는, 동정어린’을 의미하는데, 영화나 소설 속 인물이 sympathetic character라고 하면 ‘호감이 가는 인물, 동정심이 생기는 인물’을 가리킵니다. 그래서 이 문장은 영화 감독들이 사회적으로 약자지만 호감이 가는 배역을 미국 배우들에게 주고, 반대로 정 안가는 사회 고위층 역할은 영국 배우에게 주었다는 것입니다.
 	* 브리짓 존스는 공감가고 호감형의 유쾌한 캐릭터이다. Bridget Jones is a sympathetic, likable, funny character.
 * 이 여행 책자가 정말 좋은 점은 필수 방문 장소들이 단 50 페이지 정도로 압축돼 있다는 거야. ex) What's great about this travel guide is that must-visit places are distilled into only about 50 pages.
+* 비하인드는 없어요; There is no backstory
 
 ## 사랑 받는 주인공의 3가지 조건;  Three conditions of the heroine being loved;
 * 독일의 무명 시인 an obscure German poet 

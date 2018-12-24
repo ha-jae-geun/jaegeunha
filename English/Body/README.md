@@ -1,5 +1,7 @@
-# 기타
+정전# 기타
 * 눈과 귀를 막고; we cover our eyes and ears
+* 정전기 피할수 있죠? How can i avoid static electricity
+
 
 # 머리
 * 뇌; 머리가 멍했어; Brain fart; brain fade
@@ -12,7 +14,7 @@
 * 번 머리; she has dark brown hair that is pulled up into a #bun
 * 포니테일; she has brown hair혀 that is in a #ponytail
 * 등의 가운데로 내려오다; go down to the middle of her back
-* ##이 louse[laus], lice[lise]
+* ##이 louse[laus], lice[lise]정전
 * #두개골 #cranial index (인류) 두개[두골] 지수
 * 머리아파 				 머리가 지끈거려 I have a (throbbing) headache.
 * My head is pounding(욱신),I have a migraine(편두통)máigrein, I'm dizzy
@@ -49,6 +51,7 @@
 * #겨드랑이 털 #armpit hair
 * the armpit of something; 가장 지저분한 곳
 * #근시; 근시인 사람들은 안경을 쓰도록 요구된다. People who are shortsighted are requested to wear glasses. 
+	* 눈 깔아; Eyes down; keep your eyes down; Lower your gaze
 * #속눈썹 #눈썹 연장했어 I got #eyelash extensions
 	* 눈싸움 해주실 수 있나요; Can you gus have a staring contest?
 * fill in the brows, 속눈썹: false lashes, fake eyelashes
@@ -726,6 +729,7 @@ in the face of something
 * ~라고 들었어 ##i heard 1. 허r디스 2. 허r리스 = I was told
 I’m told
 * 귀가 먹먹했어요; THis ear's all blocked
+	* 우리는 그가 창 밖에서 엿듣고 있는 것을 잡았다. We caught him eavesdropping outside the window. 
 	* 귀지 ear wax
 	* 한마디도 안 놓치려고 그녀는 귀를 쫑긋 세웠다. She pricked up her ears not to miss a word. 
 * 직접 들었어야 했는데 					 I hade to get it straight from you
@@ -834,6 +838,7 @@ I enrolled in yoga class to relieve the back pain
 * 그래서 지금 뭐 먹을때마다 입천장 따가워 Now it stings whenever I bite into something
 * 극심한 고통에 시달리는 마음						 a tortured mind
 * #간지럽다 it #tickles
+	* 간지럼 많이타요; i am ticklish
 * #신음하다; #moan In pain; #groan with pain/pleasure
 * #요통; #back pain; ` has a back pain
 * #아픈 사람; the #infirm
@@ -935,6 +940,7 @@ Shut up pipe down> Silence > Hush > Be quiet >=Keep it down >= would you keep it
 * 내 손을 떠났어 			 It left my hand already It's out of my hands now
 * 손톱 발톱이 날카롭고 들쑥날쑥해 보여 깎아	 'dƷӕgɪd nails are sharp and jagged. cut/clip 
 	* 손톱 받다; i got a mani(cure)
+	* 거스라미 하나 있어; i have a hangnail
 * 샤워 너무 오래해서 손이 너무 쭈굴해졌어 I think I took a bath for too long. My fingers are pruney
 	* 이중 세안이 너무 과하다고 생각할 수 있어요; double cleansing kind of seems like an overskill
 	* 약간의 잔여물이 남아있거든요. There is still some slight residue. [-duː]  영국식 [ˈrezɪdjuː]

@@ -24,7 +24,8 @@
 * ㆍ#스웨터 파티; 할머니꺼 빌려오거나 구제로 사거나, ugly sweater contest
 * * [명사] 흑담비; sable' 세이블 모피는 트리 밑에 놓고 가요; Slip a sable under the tree for me; Santa tell me
 * 당신이 내 크리스마스 소원을 이루어준다면; If you'll check off my Christmas list
-
+* 받은 선물에 대해 이것저것 따지지 마세요; Never look a gift horse in the mouth	
+	* 말의 이빨 개수를 보면 어린말인지 알 수 있는데 너무 자세히 보면 선물 준 사람에게 예의없는 행동
 
 * On the twelfth day of Christmas my true love 
 * 크리스마스 이벤트나 프로모션을 12 days of gifting, 12 days of deals 등의 제목을 붙여 진행하는 브랜드들이 많습니다. 왜 하필 12일 동안일까요?
@@ -75,6 +76,7 @@
 * #신년을 맞이하다; #ring in the new year!
 	* 신년을 어떻게 맞이할거야? How are you gonna be ringing in the New Year?
 	* 여러분의 #새해 각오는 무엇인가요? 			 What are your new year’s resolutions?
+	* 연말 분위기를 만끽할 준비가 돼있어요; I am ready to get into the holiday spirit
 	* #craft a new year's resolution
 	* Are you #sticking to your New Year's resolution? Are you abiding by your word = are you keeping your oath
 	* Happy new year, Merry christmas and All the best in a New Year(크리스마스와 새해 인사 같이하기도 함)

@@ -114,6 +114,7 @@
 * 내말 믿어봐 진짜야; Take it from me
 
 # 말투
+* 많으면 많을수록 좋지; The more the merrier
 * 숫자 세기; 너네 넷: you four, 우리 셋: us three, 그들 다섯: those five, 이것 여덟개: these eight
 * 부디, 괜찮다면, 제발;  "if you please" 는 '부디', '괜찮다면', '제발' 이라는 뜻으로, please 의 긴 버전이라고 볼 수 있어요. 정중하게 부탁을 할 때 사용하기도 하고, 특히 영국 영어에서는 화, 짜증 등을 표현할 때 붙여쓰기도 해요.  후자로 쓸 때는 더 간단히 "oh please!", "please!"이라 표현하기도 한답니다! 특히 상대가 너무 갑갑한 소리, 말도 안 되는 말을 할 때 애용하죠. 
   * 저를 따라오시죠. Follow me, if you please.

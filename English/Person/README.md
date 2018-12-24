@@ -82,6 +82,7 @@
 * 위선 = hypocrisy 위선자 = hypocrite
 	* ex) I think your hypocrisy is pathetic.  [hɪˈpɑːk-]  영국식 [hɪˈpɒkrəsi]
 * 상류층: the upper class, 중산층: the middle class, 하류층: the lower class, 노동자층: the working plass
+* 거짓말쟁이; tattletale  [tǽtltèil]; snitch; rat
 
 # 나이
 * 어느새 18살이 됐어; Fast forward to 18

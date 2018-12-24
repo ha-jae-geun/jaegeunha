@@ -1,3 +1,213 @@
+# 크리스마스
+ * wish 와 hope
+ *   모두 같은 희망하다?? 소망하다??
+ * 
+ * - 생각만해도 시제 공식 때문에 머리아픈 가정법.. 
+ *   if (만약 ~라면)과 같이 배운 wish??
+ * 
+ * - 정확한 뜻을 이해하기 위한 기본적인 문법은 꼭 필요하지만 문제풀이용으로 외우기만 하는 문법은 비추입니다.
+ * 
+ * - 이루어지지 않을 것을 바라는 게 WISH라고만 한다면 그걸 왜 크리스마스 카드 인사에 쓸까요?
+ * 
+ * √ wish
+ * - 100%의 optimism/ positive가 담긴 그림
+ * - 원하는 바 100%가 온전히 다 이루어질 가능성은 현실적으로 사실 불가능하지요?
+ * - 바라는 마음은 강하지만 이루어질 수 없는 가능성도 있는/ 이루어질 수 없기 때문에 더 바라는 마음이 강할 수 있는 
+ *   아쉽고, 안타까운 감정의 그림도 있습니다.
+ * - 따라서 현실적으로는 불가능한 것을 바라는 그림
+ *   (하지만 정말 이루어지길 바라는 마음 또한 있는 그림)
+ * 
+ * 
+ * ▷ (지금 어린아이가) 어른이었으면 좋겠어. / 빨리 컸으면 좋겠어.
+ *      - 이루어질 수 없지만 정말 바라는 그림 보이시죠?
+ * 
+ * - I wish + 바라는 것에 해당하는 다음 문장
+ *   *be동사 과거형 were
+ *    조동사 과거형 could / would
+ *    현실(지금) / (실제)미래에 일어날 수 없기 때문에 현재형/미래형을 쓰지 않고 틀린 문법을 써서 강조하며 표시해준다고 생각해보세요.
+ * 
+ * - I wish I were an adult.
+ *   어른이었으면 좋겠어.
+ *   *be동사 과거형 were
+ *    조동사 과거형 could / would
+ *    현실(지금) / (실제)미래에 일어날 수 없기 때문에 현재형/미래형을 쓰지 않고 틀린 문법을 써서 강조하며 표시해준다고 생각해보세요.
+ * 
+ * - I wish I could grow up fast.  
+ *   빨리 컸으면 좋겠어.
+ * 
+ * 
+ * ▷ 딱 5년만 젊었으면 좋겠다...
+ *      - 이루어질 수 없지만 정말 바라는 그림 보이시죠?
+ * 
+ * - I wish I were just 5 years younger.
+ *   주의 한국어로 "지금보다" 젊을 수(할 수)있으면..라고해서 I wish I could be just 5 years younger than now. 
+ *     could와 than now를 붙이지 않습니다.
+ * 
+ * 
+ * - 예시상황
+ *   누군가 나한테 잘 못해주는 상황에서
+ *   "좀 (착하게) 잘해줬으면 좋겠어.."
+ * 
+ *   I wish she would be nicer to me.
+ *   주의 만약 이때 hope을 쓰게 되면 
+ *     I hope she will be nicer to me.
+ * 
+ * - 이뤄지지 않는 바람/ 그래서 아쉬움을 나타낼 때 wish를 익히는 것도 중요하지만
+ * 
+ * - 인사에 쓰이는 wish를 가정법으로 접근하면 곤란해요.
+ * 
+ * - wish를 써야 더 맞는 인사와
+ *   hope을 써야 더 맞는 인사가 있어요.
+ *   예) I wish you good luck! 행운을 빌어!
+ *         I hope you feel better! 빨리 나아!
+ * 
+ * - 크리스마스, 새해, 행운을 빌 때 인사는 우리 한국어로도 "진심으로 기원합니다"와 같이 standard greeting card language(표준적인 카드 인사말) 이
+ *   이미 굳혀진 표현(fixed expression)으로 쓰입니다.
+ * 
+ * - 영어로 축사 또는 축배를 들 때에도 wish를 많이 써요.
+ * 
+ * 
+ * √ hope
+ * - hope은 want의 그림이 있다고 편하게 생각해도 괜찮습니다.
+ * 
+ * 
+ * - I wish you a Merry Christmas and a Happy New Year!
+ *   즐겁고 행복한 크리스마스와 새해되기를 바랍니다.
+ *   *카드를 쓸 때 정관사/부정관사/스펠링을 틀리지 않게 조심하세요.
+ * 
+ * - 즐거운 크리스마스 보내시고 다가오는 새해에는 가족분들 모두 건강하고, 하시는 일 다 잘되고, 행복하길 바랍니다.
+ *   * 하시는 일 다 잘되고 : 비지니스/ 하는 일/ 계획 등이 막힘없이 앞으로 잘 나가는/ 퍼지는 그림
+ *      → prosper (동사)
+ *          prosperity (명사)
+ *          prosperous (형용사)
+ *          비지니스/ 하는 일/ 계획 등이 막힘없이 앞으로 잘 나가는 그림
+ * 
+ * 
+ * √ bless
+ * - 신의 가호를 빌다??
+ *   신성하게하다??
+ * 
+ * - Sb. be blessed
+ *   (누구는) 복받았어.
+ * 
+ * - Be blessed (with something)
+ *   복받으세요.(그 복 옆에 ~같이 있는 그림)
+ * 
+ * 
+ * √ may
+ * - 어떤 바라는 바를 표현할 때에도 쓰임
+ * 
+ * - May all of you be blessed (with something)
+ *   모두 복받으시길 바랍니다/기원합니다.
+ * 
+ *   *가족분들 모두 건강하고, 하시는 일 다 잘되고, 행복하길 바랍니다.
+ *     Be blessed with good health, prosperity, and hapiness.
+ * 
+ *   *다가오는 새해에는 = in the coming year
+ *                                    = in the upcoming year(바싹 다가오는 느낌)
+ *    다가오는 이번 해 = coming this year?? (X)
+ *    다가오는 이번 새해 = coming this new year?? (X)
+ * 
+ *   *다가오는 새해에는 모두 건강하고, 하시는 일 다 잘되고, 행복하길 바랍니다.
+ *     May all of you be blessed with good healt, prosperity, and hapiness in the upcoming year.
+ * 
+ * 
+ * ⇒ We wish you and your family a wonderful Christmas and may all of you be blessed with good health, prosperity, and happiness in the coming year.
+ *     즐거운 크리스마스 보내시고 다가오는 새해에는 가족분들 모두 건강하고, 하시는 일 다 잘되고, 행복하길 바랍니다.
+ * 
+ * - Happy Holidays
+ *   *Christmas + New Year's Day = holidays 복수 사용
+ *   *아무 휴일에나 "Happy Holidays"라고 하면 이상할 수 있어요.
+ *   *크리스마스"만" / 새해"만" 따로 인사를 할 경우에는 "holiday(단수)"를 사용해야 함
+ * 
+ * - I hope your Christmas is filled with joy, peace, and laughter. 
+ *   크리스마스가 기쁨과 평화, 웃음이 가득하길 바랍니다.
+ * 
+ * - I hope your Christmas holiday is filled with joy, peace, and laughter.
+ *   크리스마스가 기쁨이 넘치고, 평화롭고, 웃음이 가득하길 바랍니다.
+ * 
+ * - Christmas 와 New Year을 같이 쓰면??
+ *   *글로 쓰는 카드/메일은 최대한 문법 오류와 오타가 나지 않는게 좋습니다.
+ * 
+ * - I hope your Christmas and New Year holidays are filled with joy, peace, and laughter.
+ *   크리스마스와 새해가 기쁨이 넘치고 평화롭고, 웃음이 가득하길 바랍니다.
+ * 
+ * - 모든 게 다 잘 이루어지는 최고의 해
+ *   *최고 = most
+ *    가장/최고의 → 최상급
+ *      best/most 앞에 무조건 the를 붙여야할까???
+ *      항상 THE 오는 것은 아닙니다.
+ *      a most
+ * 
+ * - 진짜 (가장) 대박나는 한 해
+ *   a most prosperous year
+ *   *여러해 중 올 한 해를 뜻하기 때문
+ * 
+ * - 진짜 (가장) 대박나고 건강한 새해
+ *    a most prosperous and healthy new year
+ *   *여러해 중 올 한 해를 뜻하기 때문
+ * 
+ * - I wish you a most prosperous and healthy new year!
+ * 
+ * ==========
+ * 
+ * ▷ 최상급 앞 또는 서수 앞에 정관사 the를 쓰지 않는 이유이유
+ *   
+ * 2018년 4월 10일
+ * [동사를 살려주세요 bump편]
+ * 
+ * *bump 
+ *  (갑자기) 부딪혀서 움직여 변하게 된 그림
+ * 1) 범퍼 : 혹같이 튀어나와서 쿵하고 부딪힐 수 있는 부분
+ * 2) bumper to bumper
+ *    서로 범퍼가 닿을 정도로 차가 밀리는 상태
+ * 
+ * - I got bumped.
+ *   (비행기 좌석이 오버부킹 된 문맥에서) 오버부킹되서 비행기 못탔어.
+ * 
+ * *bump up
+ *   (명단에서) 올라가는 그림
+ * *bump down
+ *   (명단에서) 내려가는 그림
+ * 
+ * - Can you bump me up to first class?
+ *   1등석으로 자리 옮겨줄 수 있나요?
+ * 
+ * - 순서를 나타내는 수를 셀 때 그 앞에 the (+서수)인데 왜 first 앞에 the를 붙이지 않을까요?
+ *   *서수 앞에 무조건 정관사 the를 붙어야 하는 것은 아닙니다.
+ *     1) first class는 차례와 순서를 따지는 first(첫 번째)가 아님.
+ *     2) I got a first class seat. (1등석 받았어)
+ *         *(상대가 몰랐던 새로운 사실을 알려주며) 여러 1등석 좌석 중에 하나
+ * 
+ * - 문법이 중요하지 않다는 게 아니에요. 상황과 용례에 맞는 더 자연스러운 표현은 문법을 뛰어넘을 때가 많아요.
+ * 
+ * Q. (게임을 하며 놀 때) 너가 제일 먼저야. 너가 첫 번째야.
+ * 
+ * A. The first turn is yours.
+ *      *정해진 순서가 보이시죠?
+ * 
+ * ==========
+ * 
+ * - 간단하고 쉬워보이는 것이 오히려 예외도 많고 더 어렵게 느껴질 때가 있지요?
+ * 
+ * 
+ * [복습]
+ * 
+ * - 쟤가 나한테 좀 착하게 잘해줬으면 좋겠어.
+ *   *주어는 she로
+ *   I wish she would be nicer to me.
+ * 
+ * - 너가 좀 더 자주 나한테 잘해줬으면 좋겠어.
+ *   I wish you would be nicer to me more often.
+ * 
+ * - 기쁨과 평화, 웃음이 넘치는 크리스마스와 새해되세요.
+ *   I wish your Christmas and New Year holidays are filled with joy, and peace and laughter.
+ * 
+ * - 하시는 일 다 잘되고 건강한 한 해 되길 바랍니다.
+ *   *가장 대박나는 새로운 한 해의 의미
+ *   I wish you a most prosperous and healthy New Year!﻿
+
+ 
 # 쓸만한 영어 - 식당 갈 때/음식 먹을 때 쓸만한 SmallTalk/못먹는 음식 있니?/간단하게 먹자/니가 살 차례야/난 아무거나 잘 먹어/영어회화/영어공부
  * ▷ 음식을 먹으러 가자고 제안할 때
  *      - 뭐 먹으러 갈까? / 뭐 먹을래?
