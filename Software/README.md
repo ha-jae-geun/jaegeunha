@@ -19,7 +19,9 @@
 	* 애드핏 https://adfit.biz.daum.net/
 	* 위키 미디아 https://commons.wikimedia.org/wiki/Main_Page
 
-
+# 계정
+* 티스토리; qofkdla@naver.com
+* 깃; dhkdndksk@gmail.com
 	
 # 블로그
 - 반응형 웹 변환: https://adsensemaster.herokuapp.com/index.php?id=advancedMaker.html 
