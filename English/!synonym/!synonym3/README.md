@@ -32,4 +32,24 @@
 * 형용사 stranded는 이동수단 혹은 돈이 없어 오도가도 못하는 상황을 뜻해요.
   * 그 사람이 날 오두막에 두고 가버렸어. (여기서 '나'는 오두막을 떠날 방법이 없음을 내포) He left me stranded in the cabin.
 * bro는 brother(형제)의 줄임말로, '형제처럼 친한 친구'라는 뜻, 혹은 '형씨, 친구'와 같이 남자를 칭하는 호칭으로 쓰입니다. bro code는 친한 남자 친구들 사이에서 지켜야 하는 원칙들을 뜻합니다. '서로의 전 애인에게는 대시하지 않는다' 뭐 이런 것들이죠. bro는 '남자인 친구'고 ho는 '창녀'라는 뜻입니다. 원래 창녀는 whore인데 스펠링을 단순화한 슬랭 표현이죠. "Bros before hoes"는 "여자보다 친구가 먼저"라는 뜻의 슬랭 관용어구인데요, bro와 라임을 맞추기 위해 여자를 ho라고 표현했죠. 그렇기 때문에 이 표현을 굉장히 저급하게 보는 사람도 있답니다. 하지만 이 영상에서 보듯이 드라마 등에도 꽤나 자주 등장하는 표현이라 악의 없이 말하면 괜찮다고 생각하는 사람들도 있죠. 이 드라마에서는 바니가 워낙 개념 없는 플레이보이 캐릭터라 저런 대사를 넣었을 겁니다.
-                                
+* 그래서 북한을 가리켜 country, government 라고 할 수도 있지만 김정은의 독재가 장악한 비정상적인 국가라는 것을 강조하기 위해 계속 regime 이라고 하는 것입니다.  이외에도 [잠깐 방문하다 / 이름을 불러 지목하다]라는 의미도 있습니다. ㄴ
+* 동사 sever 는 cut 보다 약간 어렵고 격식있는 단어로 [자르다, 끊어지다, 단절하다]입니다. 실제로 어떤 사물을 자르거나 영상에서처럼 누군가와의 [관계, 교류를 끊다]는 의미로 쓰입니다.  그렇다면 [퇴직금]은 영어로 무엇일까요? 회사와 사원의 관계를 끊을 때 주는 돈이니까 severance pay 가 되겠네요. sever all ties = 모든 교류를 단절하다
+  * = 차 사고로 그녀의 발이 다리에서 완전히 잘려 나갔다. Her foot was severed from her leg in a car accident.
+* 1) pardon 은 상대방의 말을 잘 듣지 못한 상황에서 [한 번 더 말씀해주시겠어요?]라고 말할 때 Pardon? / Pardon me?/ I beg your pardon? 이라고 쓰이죠.  2) 하지만 pardon 은 [사면, 용서]라는 뜻이 있어서 위의 말은 사실 [제가 당신 말을 잘 못 들었는데, 용서해주세요. 다시 한 번 말씀해주시겠어요?]라는 의미의 단어입니다. 3) 비슷한 의미로 영상에서의 pardon 은 법률적 용어로 [사면하다]라는 동사로 쓰였고요. 명사로 쓰일 땐 [사면]을 의미해요.  4) 사면해주는 입장인 경우는 그리 많지 않기에 보통 수동태인 [be/get pardoned = 사면 받다]로 많이 쓰이고요. 명사로 쓰일 경우엔 [ask for/grant/receive a pardon = 사면을 요청하다/해주다/받다]의 형태로 쓰입니다.
+  * = 매년 독립기념일에 많은 정치범들이 사면됩니다. Many political prisoners are pardoned on Independence Day every year.
+* [홍보하다]라는 뜻을 가진 가장 대표적인 단어는 promote 일 텐데요. promote 는 홍보의 대상이 한정되지 않지만 plug 의 경우엔 주로 새로 나온 책이나 영화에 대해서 칭찬하고 홍보하는 걸 의미합니다. 대가를 받고 홍보하는 것이 아니라, 그것이 잘 되는 것에 관심이 있어서 하는 홍보를 할 때 쓰여요. 명사로도 쓰일 수 있습니다.
+* grid 는 [격자무늬]라는 뜻으로 가장 많이 쓰이는데요. 선들이 촘촘하게 이어져있는 모습이 전기나 가스를 공급하는 [배전관]과 비슷하게 생겨서 배전관이라는 의미로도 사용됩니다. off 는 [떨어져 있는]의 뉘앙스를 가진 단어이기에 함께 쓰이면 전기, 상하수도 등 공공 설비나 민간 업체에 의해 제공되는 서비스들을 사용하지 않고 필요한 건 자기가 스스로 구해서 살아가는 사람, 단체, 가족 등을 의미해요. 예를 들어, 전기는 태양광으로, 물을 빗물을 정수해서 쓴다든지 하는 거죠.
+* 나 걔네한테 (그분들한테) 찍힌 것 같아. [출처] 영어주유소가 알려드리는 오늘의 영어표현 - get on bad side 찍히다, 미움받다 get on good side 이쁨받다, 점수를 따다|작성자 영어주유소 I think I'm on their bad side.
+* 난 첫 눈에 그녀와 사랑에 빠졌지. I fell in love with her from day 1.
+  * 애초에 제대로 돌아간 적이 한번도 없어. It's never worked from day 1. 
+* 그의 비행으로 인해 사내 심각한 자금문제를 야기했다. His misconduct gave rise to a serious financial problem in the company; give rise to;  수면 위로 올라오다
+* 결과가 말해주잖아. 넌 충분히 열심히 한 게 아냐. The result speaks for itself. You didn't work hard enough. 자명한 사실 보여주다/증명하다
+* embrrassed는 뭔가를 잘못해서 쑥스럽고 부끄러운 경우에 shy는 무언가를 하는 것이 부끄러울 때 ashamed는 창피하고 수치스러울 때 humiliated는 더 굴욕적이게 창피할 때 사용하시면 됩니다!!
+* 지루해서 끄적거리다; doodle; 낙서; scribble; 공공작서에 낙서하는 행위: graffiti; 대충 쓰다; scrawl
+* <구체적인 일화들을 더해 스토리를 더 구체화시켰다> ex) I fleshed out the story with more specific anecdotes. Flesh sometihg out (with ~): 살을 붙이다 (with ~ 등을 더해)
+  * <수치를 더해 계획을 구체화시켰다>  ex2) I fleshed the plan out with more numbers. 
+  * <문장에 불필요한 미사여구 덕지덕지 덧붙이지 마> ex) Don't pad out the phrase with unnecessary cliches.  2) pad something out (with ~): 군살을 붙이다 (with ~ 등을 더해)
+  * <그거면 충분해. 쓸데없이 군살 부치지 마!>   ex2) That's enough. Don't try to pad it out. 
+* 안습이다; The room was in a sad state of affairs
+* ~에 관해서, ~에 대해서라고 하면 about, regarding등을 쓸 수도 있지만, when it comes to라는 표현이 어떤 대상이나 목표에 대한 화제거리를 삼을 때 조금 더 구체적이고 더 적절한 표현입니다. 문장의 예를 보시죠.
+  * 너의 계획에 관해서라면 난 할 말이 없어. ■ When it comes to your plan, I have nothing to say. 

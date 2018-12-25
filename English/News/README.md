@@ -32,8 +32,11 @@
 * 분쟁에 합의하다; settle the dispute; for thirteen
 
 # 사회
+* 일곱 명은 의식이 없는 상태로 발견되었다 seven were found unconscious 
+	*  일산화탄소에 중독되었다 they suffered from carbon monoxide poisoning
+	* 파이프가 보일러에 제대로 연결되지 않았다 a pipe was not properly connected to the heater 
 * 아무거나 발생할 때 쓰는 단어는 아니고요. 주로 안 좋은 것들, 예를 들면, 질병이나 전쟁, 폭력 같은 것들이 '갑자기' 발생할 때 쓰는 단어에요.; outbreak
-  * 메르스의 발병이 계속해서 퍼져나갔고 말 그대로 모두가 두려워했다. ex) The MERS outbreak continued to spread and literally everyone was scared of it.
+* 메르스의 발병이 계속해서 퍼져나갔고 말 그대로 모두가 두려워했다. ex) The MERS outbreak continued to spread and literally everyone was scared of it.
 * 저희는 휠체어를 탄 아이들을 위해 모금했어요; We've already raised thousands of dollars for the little wheelchair kids
 * 핀란드에서 같이 교회 선교활동을 했었고; We served in Finland together on our church mission
 * 학생 저항 운동권에 대한 군부의 강력한 탄압  a military crackdown on student protesters 

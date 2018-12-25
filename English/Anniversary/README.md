@@ -2,7 +2,10 @@
 * New Years' Eve; -의 전날, 바로 직전
 
 # 크리스마스
+* 크리스마스의 행운을 빌어요. With best wishes for Merry Christmas. 
+* 크리스마스 소원이 모두 이루어지기를! May all your Christmas wishes come true! 
 * 크리스마스 트리를 세우자; Let's put up a Christmas tree
+	* 트리를 치우다; take down/put away the tree
 * 크리스마스 카드 곧 발송해야 해. I need to send out the Christmas cards soon.
 * Santa Nick; 산타클로스의 또 다른 애칭
 * #eggnog shakes; 연유+날계란
@@ -26,6 +29,7 @@
 * 당신이 내 크리스마스 소원을 이루어준다면; If you'll check off my Christmas list
 * 받은 선물에 대해 이것저것 따지지 마세요; Never look a gift horse in the mouth	
 	* 말의 이빨 개수를 보면 어린말인지 알 수 있는데 너무 자세히 보면 선물 준 사람에게 예의없는 행동
+* 크리스마스 분위기에 젖어보자; Let's get into the Christmas spirit!!! get into the spirit
 
 * On the twelfth day of Christmas my true love 
 * 크리스마스 이벤트나 프로모션을 12 days of gifting, 12 days of deals 등의 제목을 붙여 진행하는 브랜드들이 많습니다. 왜 하필 12일 동안일까요?

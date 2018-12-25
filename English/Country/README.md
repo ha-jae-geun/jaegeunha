@@ -1,3 +1,6 @@
+# 정권
+* 해외 뉴스를 보시면 북한, 시리아 등을 가리켜 North Korean regime, Syrian regime 이라고 표현하는 것을 알 수 있습니다.  여기서 regime(정권)은 제대로 된 (보통은 민주적인) 정부 형태로 인정하는 것이 아니라 [군사 정권, 쿠테타 정권, 독재 정권]처럼 부정적인 의미를 함축하고 있기 때문입니다.  그래서 북한을 가리켜 country, government 라고 할 수도 있지만 김정은의 독재가 장악한 비정상적인 국가라는 것을 강조하기 위해 계속 regime 이라고 하는 것입니다. 
+
 # 문화
 * 문화를 흡수하고 싶다면; If you want to imbibe a culture
 	* 그것을 빨아들이고 싶다면; If you wanna drink it in

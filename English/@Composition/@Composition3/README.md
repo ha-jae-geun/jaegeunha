@@ -1,3 +1,8 @@
+* 교수님은 새로운 (시야를 넓혀주는) 강의를 하셨어. My professor gave an eye-opening lecture.
+	* 인도 여행은 내 시야를 확 넓혀주었지. My trip to India was quite an eye opener.
+* 규정을 충족시키고; up to code; 용인된 기준까지 확실히 하도록 하겠습니다.; I will make sure things are up to code. 
+* 모두가 그 일에 협력했다. Everyone pitched in with the work. 
+-------
 * 내가 그 명단에서 그녀 이름을 빼려던 것은 아니었다. 그건 실수였다. I didn’t mean to leave her name off the list; it was an oversight. 
 * 운이 좋구나; You're in luck
 * 한번 해보죠 뭐(모험 삼아, 운에 맡기고) I will roll the dice

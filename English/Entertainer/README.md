@@ -58,6 +58,7 @@
 * ‘영화관에서 개봉했다’는 표현을 theatrically released라고 표현하였네요. theater(극장)의 형용사인 theatrical은 ‘연극의, 공연의’를 의미하기도 하지만 ‘극장과 관련된’이란 정의도 있기 때문에 theatrically released가 극장에서 개봉했다는 장소를 의미해줄 수 있는 거죠. 혹은 극장에서 개봉했다는 것을 be released in theaters라고 하셔도 됩니다. 본 문장을 다시 써보면 “The 1937 film was also the first animated feature (which was) released in theaters in history.”가 되겠습니다.
 	* 그 영화는 역사 문제로 인해서 극장에서 개봉될 수 없었다. The movie couldn’t be theatrically released because of historical issues.
 	* 나는 어릴 때 만화영화를 보면서 공주가 되는 것을 꿈꿨다.  I used to watch animated feature films and dreamed of being a princess.; 만화 영화: animated feature
+* 영화를 보거나 음악을 들을 때 뒤로 [되감기]를 rewind 라고 하고, 앞으로 [빨리 감기]는 fast forward 라고 합니다. 가사를 직역하면 [난 되감기 버튼을 눌러서 그 순간을 백 번이고 다시 재생하고 싶다] 정도로 해석이 되겠습니다. hit rewind 1) play back = 재생하다 2) fast forward 는 이야기를 할 때 시간을 훌쩍 뛰어넘을 경우에도 쓰입니다. 예를 들어 [1985년도로 넘어가 봅시다]라고 할 때 Let's fast forward to 1985. 라고 할 수 있어요.
 * 그의 영화는 다양한 사람/국가에게 어필하는 요소가 있다. (많은 이들에게 매력적으로 다가온다) His movies have a wide appeal.
 * 후반부 보여드릴게요; Here's the second half
 * 시사섬을 주는 폭로성 영화; thought-provoking expose; withouht hitting a thought-provoking expose

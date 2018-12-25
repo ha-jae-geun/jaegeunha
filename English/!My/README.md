@@ -46,6 +46,7 @@
 * 확실히 말하자면; For the record
 * 어떻게 보면; 어떻게 보면 말이 된다; It makes sense in a way
 * 솔직히 정말 힘든일이야; It's tough work, not gonna lie
+  * : 까놓고 말해서 Let me be blunt.
 * 외람된 말씀이지만; With all due respect, 
 * 내가 봤을 땐; The way i see it
 * 실례하지만; If yoou'll excuse me
@@ -57,6 +58,7 @@
   * 뭐 말하자면 여자친구 같은 건데, 공식적으로 사귀거나 그러는 건 아냐.
     * ex) She's kind of my girlfriend, as it were, but we're not official or anything.
 * 왜인지 알겠다; No wonder why; he got angry
+* * "한다고 약속해줘" Promise you will + 동사원형
 
 # 질문
 * 일반적인 왜; Why; 무엇 때문에; What for(목적을 물어봄); 도대체 왜(why보다 강한 어투; 의아함)How come
@@ -166,6 +168,8 @@
 * 등... 등잔 밑이 어둡다? The beacon does not shine on its own base? 
 
 # 일상
+* 머가 뭔지 알겠어요; "I see/know what's what."; 멀 해야 할지 알다: You know the drill.
+  * 이미 요령을 알다; I already know the ropes.; 능숙하다; I really need to know my way around something
 * 반대인가? Is it the other way around?
 * 그녀가 십대일 뿐이라는 사실을 잊지 마세요. Bear in mind she's only a teenager.
 * : (비격식) 한번 해보다, 시도하다  [ 구문 ] give something a whirl Do you want to give it a whirl? [wɜːrl] 
@@ -365,7 +369,7 @@
 * 가축 stock, livestock, domestic animals 가축을 기르다 keep[raise; breed] livestock[domestic animals]
 * 조상에게 제사를 지내다 hold a memorial service for one's ancestors
   * 제사 지내는 집처럼. Like a family who does do ancestral rites.
-* 약속을 잘 지키다;  Keeping promises lets you have a good reputation. 
+* 약속을 잘 지키 다;  Keeping promises lets you have a good reputation. 
   *  He is a man of his word. or He is as good as his word.
   *  He is sincere in his promises
 * 한자로 쓰다 write in Chinese characters 
@@ -390,6 +394,7 @@
 * 신발을 신을 수 있을지도 모르겠어요; i might could fit in them
   * 문법책과 달리 조동사 2개를 겹쳐쓰는 경우: modal stacking; 남부지방에서 볼 수 있음
   * 긍정문 끝에 오는 at all: 이왕, 어쨌든;
+    * 어떻게 해서든지 이 일을 끝내야 한다.  I must finish this work anyhow . Whatever
   * If you decide to lose weight at all
   * 의문문; 조금이라도; Do you know him at all? 조금이라도 알아?
 * ##Here it is 히어뤼리-ㅈ

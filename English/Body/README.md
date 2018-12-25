@@ -4,7 +4,8 @@
 
 
 # 머리
-* 뇌; 머리가 멍했어; Brain fart; brain fade
+* 뇌; 머리가 멍했어; Brain fart; brain fade; Did you just have a brain fart
+	* * 조언을 구해도 될까요? Can i pick your brains about somethig?
 * 머리에 떔빵은 안 났거든; i dind't give myself a bald spot
 * 이불에 머리카락이 붙어있어; THere's a hair struck on the blanket
 * 빨간 머리; ginger

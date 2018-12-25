@@ -13,7 +13,7 @@
 
 
 ##영어
-12.16
+12.24
 * 테드 https://www.ted.com/
 -------------
 *   MLB http://post.naver.com/my/series/detail.nhn?seriesNo=46475&memberNo=449115
@@ -21,7 +21,7 @@
 *  하루 10분 http://post.naver.com/my.nhn?memberNo=904209&navigationType=push
 *  고딸 http://post.naver.com/my.nhn?memberNo=1061586&navigationType=push
 *  겁 없이 잉글리쉬 http://post.naver.com/my.nhn?memberNo=837891&navigationType=push
-*  매일 3분 생활영어 `http://m.post.naver.com/my.nhn?memberNo=25246384
+*  매일 3분 생활영어 http://m.post.naver.com/my.nhn?memberNo=25246384
 *  러브굿    	http://hi007.tistory.com/
 *  텔라 http://blog.naver.com/PostList.nhn?blogId=tellakor&categoryNo=0&from=postList
 -----------------------------------------------------------------------------

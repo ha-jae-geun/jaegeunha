@@ -27,7 +27,7 @@
 * 인기 많은 노래에요; It's a big/huge tune; 
 	*  show tune; 뮤지컬과 같은 쇼에서 나오는 노래인데 너무 유명해서 그 곡 자체만으로도 잘 알려진 노래
 * 외우고 있는 노래 뭐잉서? What other song do you know by heart?
-* 노래방 18번이야; - is my karaoke staple
+* 노래방 18번이야; - is my karaoke staple; my go-to 
 * 난 그런 음을 내지 못할거야; i am never going to be able to hit these ote; hit the/a note
 * 지겹도록 나온다; It's been overplayed
 * 나랑 블루스 추기로 했잖아; Hey, you owe me a slow danace

@@ -402,6 +402,7 @@
 * #청부 살인업자 #cleaner = #hitman
 * #중죄인 											 felon
 * #연루되다 								 become involved
+  * This car's been in an accident.
 * #complicit; I didn't want to be complicit
 * ##음모 #모의 그들은 살인 모의로 기소되었다.	 They were charged with conspiracy to murder.
 * #불법 이동(사물, 사람) 						 i've been smuggling this snake

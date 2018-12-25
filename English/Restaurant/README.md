@@ -13,6 +13,7 @@
 	* 가족 대대로 운영하는 홍콩의 숨겨진 딤섬 맛집 같은 곳; Kind of hole in the wall, family run dim sum restaurant
 * 스튜를 잘 배분해야해; we have to ration out the stew
 * 저는 안먹어요; None for me
+	* * - 뺴주세요; Please hold -
 * 바로 다시 준비해드릴게요; i'm gonna get this fixed for you right away
 * #품질; #quality, #품질보증; #quality guarantee
 * quality assuarance

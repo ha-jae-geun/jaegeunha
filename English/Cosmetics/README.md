@@ -75,5 +75,5 @@
 * #주름에 도움이 되는; #improve my wrinkle
 * #얼굴색이 밝다; my complexion is light and have yellow undertones
 * #화장품
-* ~화장 진하게 하신 분; painted lady
+* 화장 진하게 하신 분; painted lady
 	* 두껍게 메이크업하다; cake on the makeup; i decided to cake on the makeup

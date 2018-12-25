@@ -84,6 +84,15 @@
 * 생리혈을 봤어요; i noticed a little bit of period
 * 다른분들은 첫생리떄 어떻게 반응했을지 궁금해요; i don't know how most people reacted when they first got their period
 
+# 담배
+  * a pack of cigarettes = 담배 한 값
+  * a box of cigarettes = 담배 한 보루
+* quit smoking = 담배를 끊다
+* take up smoking=담배를 피우기시작하다
+* passive smoking = 간접 흡연
+* lung cancer = 폐암
+
+
 # 다이어트
 * 마음 놓고 먹는 날; Cheat day
 * 폭식; binge, go on a binge, overeat
@@ -126,6 +135,7 @@
 * physician 의사, doctor 의사, surgeon 외과의, dentist 치과의사, patient 환자, medication 약물, fill the prescription 처방전을 발행하다, take medicine 약을 먹다, symptom 증상, signs 징후, * shot 주사, injection 주사, surgery 수술 #간호사 ##RN register nurse #RN; #right now
   * 주사를 놓다; give/make an injection
   * 주사를 맞다; get some shots
+  * syringe 미국·영국 [sɪˈrɪndʒ]  They will take your blood with syringe.
 * #밤샘 간호; #vigil
 * #건강검진 ; it’s good to get a #checkup #메스(수술용): scalpel [skǽlpəl]
 * #physical checkup = #medical exam
@@ -188,8 +198,9 @@
 * #약사; #chemist #약국 #chemists 병원 조제실; #pharmacy
 	* ##약국
 * #laxativve; #배변을 쉽게 해주는 약
-* #bowel movement; 배변 운동; they haven't listed bowel movements
-* #소화되다; #배가 꺼지다; we can #walk it off tomorrow
+  * #bowel movement; 배변 운동; they haven't listed bowel movements
+*  #소화되다; #배가 꺼지다; we can #walk it off tomorrow
+* 빈속에 비타민 C 복용해도 돼? Can i take Vitamin C on a empty stomach
 * #위산; #stomach acid
 * #젖당, #유제품 못먹는 사람 #lactose intolerant(#intolerant)
 * 속이 안좋다 			Something that I ate doesn't agree with me. , have an upset stomach
@@ -400,6 +411,7 @@
 * 당분간은 #목발을 써야한다고 했어 k	rʌntʃ He said that I need to be on crutches for a while. 
 * 팔 다리 #절단 수술 받은 사람	#amputee
   * amputation은 절단 (수술)을 의미하며 amputate는 절단 수술을 하다, amputee는 절단 수술을 받은 사람을 의미합니다. amputation 미국·영국 [æ̀mpjutéiʃən]; He had to have both legs amputated
+  * * = 차 사고로 그녀의 발이 다리에서 완전히 잘려 나갔다. Her foot was severed from her leg in a car accident.
 * #재활병원 hospital - = #Rehabilitation center = #rehap center
 * #rehabitation programme
 * #정신과 의사 [saikáiǝtǝr] psychiatrist = #shrink
@@ -502,6 +514,7 @@
 * 병원에 가서 약을 처방 받았습니다.	I went to see the doctors and got some medicine prescribed.
 * 체온 좀 잴게요. 	Let me take your temperature. 
 * 혈압을 재겠습니다. 	Let me take your blood pressure. = #BP
+  * blood pressure gauge 혈압계
 * 맥박	pulse
 * #생체신호	#vital; 맥박, 호흡
 * 생명에 필요한 맥박, 호흡, 체온, 혈압	vitals

@@ -15,6 +15,7 @@
 	* 최고에요; She's a top shelf lady
 	* a renaissance man = 다재다능한 사람 well-rounded person, jack-of-all-trades
 		* : 여러 방면에 재주가 있지만 뛰어난 한 가지가 없는 사람  [jack of all trades, master of none]
+	* 둘쨰 가라면 서럽다; second to none; You are truely second to none
 	* 친절한 사람; 좋은사람; 사랑 스러운 사람;  peach, doll
 	* 비격식 표현으로 누군가를 좋게 표현할 때 쓰는 형용사입니다. 참고로 전지현 주연의 영화 '엽기적인 그녀' 의 제목이 영어로 My Sassy Girl 이에요.주의할 점은, 나이가 많은 사람이 자기보다 나이 적은 사람에게 sassy 하다고 표현할 때는 [건방진] 이라는 의미로 종종 쓰이니 주의하세요.
 		* 넌 너희 엄마한테도 그렇게 건방지니?ex) Are you that sassy with your mom?
@@ -37,6 +38,7 @@
 * 신참, 신입; the new kid on the block
 * 시카고 출신이야? A Chicago kid
 * 아부하는 사람; He's a kiss up
+	* 내가 호구로 보이냐? Do i look like a pushover?
 	* 재수 없는 자식; git
 	* 짜증나는 존재, 재수없는 놈; dingle
 	* 아첨하다; brown-nose; brown-noser; kiss someone's ass
@@ -89,6 +91,7 @@
 * 거짓말쟁이; tattletale  [tǽtltèil]; snitch; rat
 	* 내부 고발자; whistle blower
 * 소름 끼치는 사람; creep
+* 분위기를 다운시키는 사람. 지속적인 불평을 통해 다른사람 기분까지 우울하게 만드는 자 debbie downer 미국식  영국식
 
 # 나이
 * 어느새 18살이 됐어; Fast forward to 18

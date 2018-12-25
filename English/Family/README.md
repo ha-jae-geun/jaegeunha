@@ -177,10 +177,11 @@
 * I have + 숫자 + 가족 호칭; I have a sister
 * #가정적; ~ is #family-oriented
 * 우리 집안 #내력이야. 					It runs in my family. = ~ is in one's blood
-* #족보; #계도 #pedigree; 
-* #genealogy 미국·영국 [|dƷi:ni|ӕlədƷi]; #draw/#trace#compile
-* 가족 #병력; #family history	
-* 한국에서 나고 자란거야? 						 Born and raised in korea?
+	* 가보 It's a family heirloom.  [ˈerl-]  영국식 [ˈeəluːm] 
+	* #족보; #계도 #pedigree;  
+	* #genealogy 미국·영국 [|dƷi:ni|ӕlədƷi]; #draw/#trace#compile
+	* 가족 #병력; #family history	
+	* 한국에서 나고 자란거야? 						 Born and raised in korea?
 * #토박이; i've lived my entire life here = I was born and and grew up here
 * #타고났다 be born to ~ = #natural; he's a natural = #inborn = #innate
 * 타고난; He;s a born leader. He was born to dance. ( 타고난 무용수예요)

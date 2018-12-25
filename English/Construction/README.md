@@ -79,6 +79,13 @@ The exterior of the building is Greece, and the building material is the brick a
 * 건축 법규는 빨간색 벽돌을 사용하는 것이다. The building code is red brick.
 
 
+# 제조
+* shipping clerk 운송 대리점 사원
+* pallet 화물 운반대  [ˈpælət]
+	* forklift 포크리프트
+* assembly line 조립 라인
+
+
 # 건물	
 * 건물 앞면; #facade; #파사드; facade of the building
 * #건설하다; #build, #construct, #erect - 건설하다, 세우다 

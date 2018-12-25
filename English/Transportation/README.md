@@ -51,6 +51,7 @@
 -----------
 * 몇시까지 #운행해요?				Can you tell me how late those subway trains run?
 	* #지하철	
+	* 쩍벌남; manspreading; 여자: Shebagging
 	* A로 갈려면 이번 역에서 내려야해요; Exit here for A
 	* 문에 기대지 마세요; Stand clear of the doors
 	* #터널	#pass through; the train passed through the #tunnel 
