@@ -76,6 +76,10 @@
 * 윤선생; https://m.post.naver.com/my.nhn?memberNo=2134697
 * Shall we learn https://blog.naver.com/teacherr10
 * Learnwithchaewon https://m.blog.naver.com/PostList.nhn?blogId=learnwithchaewon
+* 런어바웃 https://m.post.naver.com/my.nhn?memberNo=41637875
+* 잉글리시 애비뉴 https://m.blog.naver.com/PostList.nhn?blogId=avenueinstitute&logCode=0&categoryNo=18&currentPage=1
+* 브리센트 https://m.blog.naver.com/PostList.nhn?blogId=britcent&currentPage=1
+* 중국어, 토익, 영어회화 마법 https://m.blog.naver.com/PostList.nhn?blogId=coreakyss2
 * 한국번역연구소 https://blog.naver.com/ktri8888
 -----------------------------------------------------------------------------
 * 빌보드 https://www.billboard.com/charts/hot-100#/charts/hot-100

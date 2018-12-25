@@ -31,14 +31,7 @@
 * ㆍ선물은 온라인 같은 곳에 리스트를 만들어 놓으면 사는 식. 선물은 바로 뜯어보는 것이 예의; 선물 기록을 일일이 함
 * ㆍ아이와 관련된 게임도 함
 
-* #소시지 파티(남자들만 있는 파티)
-* #하우스 파티(기본적으로 술을 각자 준비)
-* #마네킹 챌린지(블랙 비틀즈의 Rae sremmurd 노래 보통 틀어놓음)
-* 비틀즈 존 레논 아내 오노 #Yoko; 해체의 원인으로 불림
 
-* #총각파티 #bachelor party
-* #스트리퍼 #stripper ; #lap dance 서비스까지만, #매춘 x
-* #프롬파티 (학교 졸업 전 파티)
 * ㆍ1장으로 1커플 들어갈 수 있음(티켓도 팜)
 * ㆍ##prompose: 같이 갈 커플 구하는 것
 * ㆍdress code: 제일 이쁜 옷 (가슴 라인, 등 많이 파진 옷은 안됨, 배나 허리도 보이면 안됨, 옆트림
@@ -60,8 +53,6 @@
 * 파티 분위기 매이커; he is the #Life of party
 * 파티 분위기 띄우다; #let's #liven things up
 * 파티를 열다 							 have[throw; host; give] a party
-* 미국, 캐나다 가정마다 한가지 음식을 가지고 와서 함께 나눠 먹는 모임
-* 팟럭(Potluck) 혹은 팟럭 파티(Potluck Party)
 * 오늘 누가 #파티에 올거니? 00에 참가하다. 00할 준비가 되다. 
 * Who’s up for the party tonight?
 * 파티 아직 안끝났어? 						 진행중 Is the party still on?
@@ -94,3 +85,23 @@
 * Thanks, I should really get going. I had a great time today. 
 * 살펴 가세요. 	 								 Take care. 
 * 종종 들러 주세요. 							 Don't be a stranger
+
+## pre-party
+* 본 파티 전에 소소하게 파티를 하는 경ㅇ
+
+## Baby shower
+* shower: 선물 공세
+
+## * 팟럭(Potluck) 혹은 팟럭 파티(Potluck Party)
+* 미국, 캐나다 가정마다 한가지 음식을 가지고 와서 함께 나눠 먹는 모임
+
+## 소시지 파티(남자들만 있는 파티)
+## 하우스 파티(기본적으로 술을 각자 준비)
+## 마네킹 챌린지(블랙 비틀즈의 Rae sremmurd 노래 보통 틀어놓음)
+## 비틀즈 존 레논 아내 오노 #Yoko; 해체의 원인으로 불림
+## 총각파티 #bachelor party
+## 스트리퍼 #stripper ; #lap dance 서비스까지만, #매춘 x
+## 프롬파티 (학교 졸업 전 파티)
+
+## 블럭 파티
+* 미국은 도로가 일자로 뻗어있기 떄문에 건물 단지가 사각형의 모양 블록 모양으로 되어 있다.

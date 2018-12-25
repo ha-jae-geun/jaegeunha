@@ -357,6 +357,7 @@
 
 # 감사
 * Thank you는 (사람자체나 일에 대해) 감사하다는 뜻으로 쓰이며 감탄사적 요소가 포함돼요. 줄여서 "Thanks!"라고 표현 가능합니다. appreciate는 (사람의 특정한 행동, 호의에 대해) 인정하고 감사하다는 뜻으로 쓰여요. 좀 더 격식 있는 표현이죠.
+	* 고마워; Shout out
 	* I really appreciate your help.
 	* Thank you all for your time.
 * 비즈니스 항황; i'm grateful for + N

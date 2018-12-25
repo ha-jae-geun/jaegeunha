@@ -3,6 +3,10 @@
 * 모국어; first language, native language, mother language, mother language
 * 3국어; third language
 
+* 교무실; teacher's lounge; staff room
+* 교장; principal; headmaster
+* 소방차; fire truck; fire engine
+* 배기관; mufflerr; exhaust pipe
 * 새우; shrimp; prawn
 * 옥수수; corn; maize
 * 신호등 ;traffic light; 남아공: robot

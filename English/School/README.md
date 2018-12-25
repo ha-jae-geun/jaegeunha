@@ -7,6 +7,12 @@
 * 자신이 사는 주의 대학에 진학하면 in-state tuition
   * <> out of tuition
 
+# spelling bee
+* 초등학교마다 자체적으로 하는 영단어 스펠링 맞추는 대호; 우승자는 백악관도 방문하는  만큼 유명한 콘테스트다.
+
+# year book
+* 졸업생만이 아닌 전교생의 사진을 모아 희망하는 학생에게 판매; 테마를 잡아 옷을 입기도 하고 앨범 받는 날에는 친한 친구들끼리 롤링페이퍼처럼 메시지를 적어 주는 문화가 있다.
+
 # 대학
 * 상, 수상 award 는 ‘상을 주다’ 혹은 명사로 ‘상’입니다. ‘상을 받다’라고 할 때는 [be awarded the prize] 혹은 [get/win the award] 라고 해주세요. 
 	* 그들은 제니에게 일등상을 주었다. They awarded the first prize to Jenny.
@@ -41,6 +47,15 @@
 * 상대평가에요; I'M GRADING ON A CURVE
 * 학점은 GPA
 * 여름방학이 시작됐어;요; school is already out for the summer
+
+## meal plan
+* 한 학기당 식사 개수를 미리 구매하거나 마치 한국의 선불 교통 카드처럼 내가 원하는 만큼의 돈을 학생증에 넣어놓고 하는 시스템(캠퍼스에서만 사용 가능하지만 세금이 전혀 붙지 않는다.)
+* Campus cash: 학생증에 원하는 만큼의 돈을 충전; 학교와 제휴를 맺은 식당 및 상점에서도 사용 가능
+
+## Greek life
+* 전공 분야의 선배들과 친ㄴ해질 ㅅ 있는 기회를 가질 수 있음; 하지만 그만큼 요구 조건도 ㅁ낳기 때문에 여러가지 장단점이 있음
+	* Will you be koining a Greek life?
+
 ----
 # 학교
 

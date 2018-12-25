@@ -166,6 +166,7 @@
 * 등... 등잔 밑이 어둡다? The beacon does not shine on its own base? 
 
 # 일상
+* 반대인가? Is it the other way around?
 * 그녀가 십대일 뿐이라는 사실을 잊지 마세요. Bear in mind she's only a teenager.
 * : (비격식) 한번 해보다, 시도하다  [ 구문 ] give something a whirl Do you want to give it a whirl? [wɜːrl] 
 * 놔줘; Let go of me; 내 손 놓지마; DOn't let go of my hand

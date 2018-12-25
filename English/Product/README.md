@@ -1,3 +1,9 @@
+# 시장
+* swap meet: 특정 종류의 ㅁㄹ건들을 가진 사람들이 물건들을 바꿀 수 이쓴 장터; 차의 부품, 액션 피규어, 만화책
+* flea market; 벼룩시장
+* thrift store; 중고 상품을 기부 받아 그것들을 판매한 수익을 다른 곳에 기부하는 상점
+* consignment store; 위탁 판매점;  주로 물건을 가져다 주면 상저에 전시하다가 팔린 후에 위탁자와 상점이 그 수익을 나누어 가지는 시스템
+
 # 거래
 * 지역 거래; 방문거래; Local only; Pickup only(No delivery = will not deliver)
 * 물건 잡아두기 금지; 먼저 오면 먼저 팜; No holds; First come, first served
@@ -17,6 +23,12 @@
 * #brand recognition
 * #brand identity
 * #브랜드
+
+# * 최저 가격 보상제; low price guarantee; 월마트에서 30일 이내에 판매한 상품의 가격이 경쟁업체보다 비싸면 그 차액만큼 봇ㅇ
+
+# Wedding registry
+* 결혼 선물로 받고 싶은 것들을 자주 가는 백화점이나 쇼핑센터에 등록하여 지인들이 살수 있도록 하는 시스템; 
+	* SHe located her name on a wedding registry t that shopping ceter
 
 # 상품
 * 상표가 없는 브랜드들; Generics

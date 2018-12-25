@@ -24,6 +24,7 @@
 	* 바지 내려입는거 몰라; DOn't you know all the kids sag their pants now?
 	* 하는 동안에 바지도 좀 올려; pull your pants up while you're at it
 * 네 셔츠가 넥타이랑 어울리지가 않아. Your shirt does not blend in with your tie.
+  * 옷이 모두 깥아요; We're all matching
 * 이 옷 입으면 엉덩이의 4분 정도가 나와 있어야 하는데; like a quarter inch of arse is just expected to be hanging out if you're wearing these
 * 괴상망측한 분장을 하고 나타날 수 있다고 생각한거야? Does she think she can just show up in some wacky disguise [ˈwæki] 
 * 그녀는 분장을 한 채 밖에 나가는 걸 즐겼따; she enjoyed going out in disguise dɪsˈɡaɪz]

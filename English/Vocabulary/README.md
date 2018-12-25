@@ -171,6 +171,22 @@
 * did you find math test difficult?
 * find out(out: 밖에 있는 느낌): 몰랐던 걸 알게 되다
 
+## foot
+* 앉아서 쉬세요; Put your feet up
+* 곤경에 빠지다; put one's foot in it; This politician is known for constantly putting his foot in it
+* 발을 들여놓다; i have't set foot in the place
+* -에 빠져들다; sweep off one's ffet; He swept her off her feet
+* 처음부터 관계를 잘못 맺다.
+	* 내가 새로 온 상사와 처음부터 관계가 꼬인 것 같다. I seem to have got off on the wrong foot with the new boss. 
+* 발을 구르다; stamp one's foot; 발을 쿵쿵거리다 stamp one’s foot 미국식  영국식   단어장추가
+* 비용을 부담하다; foot the bill
+* 현실적이다; have both feet on the ground
+* 양쪽에 관여하다; have a foot in both camps
+
+## hand
+* 승리의 패; winning hand; He held the winning hand in the card game
+* 헌옷 She got all the hand-me-downs
+
 ## have
 * 소유하고 있다; 소유욕이 낮은 느낌ㄴ
 * <>take
@@ -192,6 +208,13 @@
 	* [ex] After Judy lost her job, she sought a way to get back at her old boss.
 * 그런데 'get back to sb'가 되면 '에게 다시 연락하다'라는 뜻으로 바뀝니다. 주로 통화(회신)과 관련한 상황에 사용해요. 'to'와 'at'의 미세한 차이가 전혀 다른 해석을 만들죠?
 	* [ex] I'll find out and get back to you.
+
+## lead
+* 연필; lead pencil
+* 스피드 광; He's got a real lead foot
+
+## left
+* left-wing 좌익 단체들left-wing groups 
 
 ## like
 * 비슷한 느낌의, 거의 같은 느낌 <> as
@@ -224,6 +247,10 @@
 * 진행하는 느낌
 * i run my own business; 운영
 * i run this video; 촬영
+
+## set
+* 비가 하루 종일 내릴 기세로 시작한 것 같았다. The rain seemed to have set in for the day. 
+* 그들이 기계에 시동을 걸었다. They set the machinery in motion. 
 
 ## take
 * 정말 강한 소유욕 <> have

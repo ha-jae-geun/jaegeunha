@@ -22,6 +22,7 @@
 	* 정확히 딱; it falls dead center between them; 
 * 주말은 물건너 갔구만; There goes my weekend
 * 밤은 아직 일러; The night's young
+	* 낮이 밤이되었습니다; Day has turned into night
 * 연말; end of the year party; 연말 세금 조정; Year-end tax adjustment
 * 조만간, 머지않아; 우리 조만간 같이 놀자. Let's hang out one of these days.
 * all the way는 거리나 시간상에 쓰는 표현인데요, 그 거리(물리적 거리, 타임라인) 전체를 가리켜서 강조를 하는 것이죠. 우리말로는 쭉, 곧장, 내내, 계속, 시종 등이 있습니다. 예문을 보면서 이해해 보겠습니다. 전부다 특정 거리나 시간 전체를 가리켜서 강조해주고 있습니다. 그래서 date back all the way to 1500s도 현재부터 1500년대까지 쭉 거슬러 올라간다는 것입니다.

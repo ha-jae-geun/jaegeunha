@@ -1,6 +1,13 @@
 # 기타
 * 엉터리 영어가 가끔 부끄럽다; i am ashamed of my famil's broen english
-
+* 이사해; we are moving house(home xx) next week
+* 드라이버; screwdriver
+* 키홀더; key chain
+* 연필; lead pencil
+* 프라이팬; fryig pan
+* 브로마이드; poster of a star
+* 코너; sectio/department
+* 쿠킹호일; aluminumb foil
 * 엑스라지; extra large
 * 렌트카; rental car
 * 츄리닝: tracksuit / sweatsuit
@@ -29,6 +36,9 @@
 * #hunnit (eye dialect of, hundred)
 * #콩글리쉬# = #korean style broken english
 * #선팅; #sunting -> #window tinting
+	* 선텐하고싶다; I would love to skak up the sun
+* 히치 하이킹; thumbing it(hitchhiking도 사용은 함)
+* 계산대에서 봉투 넣어주는 직업; bagger
 * #프림	#prim -> #cream
 * #메이커; #maker -> #brand name
 * #매스컴; #mass media, #mass communication
