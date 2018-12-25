@@ -1,6 +1,25 @@
 # 깃
 * 주니어 개발자 취업 정보: https://github.com/jojoldu/junior-recruit-scheduler/blob/master/README.md
 	* 포트폴리오: https://gmlwjd9405.github.io/2018/05/04/how-to-write-a-resume-for-a-developer.html
+
+# 북마크
+* 네이버 영어사전 https://endic.naver.com/?sLn=kr
+* 구글 드라이브 https://drive.google.com/drive/u/0/my-drive
+* 슈퍼맨 PC https://superfan.link/pc
+* 블로그 http://jae-jae.tistory.com/
+* 깃허브 https://github.com/ha-jae-geun/jaegeunha/tree/master/English
+* 네이버 캐스트 https://tv.naver.com/
+* 다음 칼럼 https://sports.media.daum.net/sports/column/
+* 네이버 칼럼 https://sports.news.naver.com/index.nhn
+* 빌보드 https://www.billboard.com/charts/hot-100
+* 영사전 https://www.etymonline.com/ https://www.urbandictionary.com/
+* 테드 https://www.ted.com/
+* 에드센스 https://www.google.com/adsense/new/u/0/pub-6779272287181370/home
+	* 엡마스터 https://webmastertool.naver.com/
+	* 애드핏 https://adfit.biz.daum.net/
+	* 위키 미디아 https://commons.wikimedia.org/wiki/Main_Page
+
+
 	
 # 블로그
 - 반응형 웹 변환: https://adsensemaster.herokuapp.com/index.php?id=advancedMaker.html 

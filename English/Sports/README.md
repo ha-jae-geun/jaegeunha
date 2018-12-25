@@ -20,6 +20,8 @@
 * #대항마; be a #contender
 * 너 오늘따라 못하네; You're really off your game; off one's game
 * 스포츠 경기 전 결의에 찬 심각한 얼굴, 카드 게임 등 감정을 드러내지 않은 얼굴: game face; 그만 울고 단단히 먹어요; put your game face on 
+* 경질; Jones has been axed/sacked from the team. 
+	* Mourinho was sacked as Manchester United manager; fired by Man United; Jose Mourinho has left the club
 
 # 골프
 * #골프장 이용료는 얼마예요? How much is the greens fee? 
