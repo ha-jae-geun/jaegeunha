@@ -22,6 +22,7 @@
 * 스포츠 경기 전 결의에 찬 심각한 얼굴, 카드 게임 등 감정을 드러내지 않은 얼굴: game face; 그만 울고 단단히 먹어요; put your game face on 
 * 경질; Jones has been axed/sacked from the team. 
 	* Mourinho was sacked as Manchester United manager; fired by Man United; Jose Mourinho has left the club
+	* 보류; 정부가 그 생각은 적어도 내년까지 보류했다. ㅊThe government has shelved the idea until at least next year. 
 
 # 골프
 * #골프장 이용료는 얼마예요? How much is the greens fee? 
