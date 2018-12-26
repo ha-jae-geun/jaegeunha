@@ -222,6 +222,7 @@
 * #꾀병; #malinger; 말링거; malingerer
   * 꾀병부리다; pretend to be sick; 
   * 보통 꾀병을 부리는 사람은 병으로 사람들의 관심을 끌고 싶어한다. In general , malingering people are eager to call attention to their illness . 
+  * pull sickies; throw a sickie
 * hospital	hospital은 교통사고가 났거나 정밀 검사를 받는 큰 규모의 종합병원을 뜻합니다. 
 * ◇ a cold와 동의어를 = flu도 보실수 있는데요. 저 한국에 있을때 하나같이 flu 앞에는 정관사 the를 써라. cold 앞에는 a를 써라. 무시무시한 cancer 앞에는 the를 빼고. 라고 늘 들어왔어요. 다 맞지만, * 실상은 flu 앞에 정관사 the 를 안 붙이는걸 더 많이 보실수 있어요. #cold# #flu#
 * '적어도, 네 동생 열내리는데는 도움이 될거야 		 *At least it'll help keep his fever down.

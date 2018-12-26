@@ -170,6 +170,7 @@
 * #slurp; 후루룩 마시다
 * 커피 마시며 앉아있어 							 I sat sipping coffee
 * 물 한목음 해 Have a sip of water
+	* tap water; 돈을 받지 않음; bottle water; 정수된 물- 돈을 받음
 * #potable; 마실 수 있는
 * ‘뭐 마실래?								 What's your poison?
 * 그녀는 눈을 감고 숨을 깊이 #들이마셨다.			 She closed her eyes and inhaled deeply.

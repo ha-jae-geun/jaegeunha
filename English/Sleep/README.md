@@ -4,6 +4,7 @@
 		#crash on the couch = #conk out = #sack out = #hay out #Hit the sack/#hay 
 * #sleep over; #stay over at my uncle's place
 * be fully slept
+* 잠버릇;  change one's sleeping habits 
 * 잠들다, 골아 떨어지다 fall asleep, zonk/flake out, crashed, went out like a light, i'll get a crash
 * 난 잠이 부족해; i'm sleep-deprived
 * #sleep over; #stay over at my uncle's place

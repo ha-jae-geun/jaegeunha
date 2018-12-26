@@ -70,7 +70,7 @@
 * 그 방은 깨끗하고 편하게 보였다 The room looked neat and snug [ cozy ]. 듣기 출처:동아 출판
 
 ##옷 #의복 wear <> put, try on: 관사에 주의 attire=outfit [ə|taɪə(r)]
-* 누드; birthday suit
+* 누드; birthday suit; 한 남자가 발가벗고 돌아다니고 있다.; A man is going about in his birthday suit.; 생일 날 장난
 * 나시; camisole; 끈나시, 캐미솔; cami
 * 민소매; tank undershirt / vest
 * #재봉 기술; #sartorial 미국식 [sɑ:r|tɔ:riəl] art

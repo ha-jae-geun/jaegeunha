@@ -4,7 +4,10 @@
 * thrift store; 중고 상품을 기부 받아 그것들을 판매한 수익을 다른 곳에 기부하는 상점
 * consignment store; 위탁 판매점;  주로 물건을 가져다 주면 상저에 전시하다가 팔린 후에 위탁자와 상점이 그 수익을 나누어 가지는 시스템
 
+
 # 거래
+* 현금만 받는 사업이거든요; It is a cash only business
+* 오늘 행사상품 뭐에요?? What are the deals today?
 * 지역 거래; 방문거래; Local only; Pickup only(No delivery = will not deliver)
 * 물건 잡아두기 금지; 먼저 오면 먼저 팜; No holds; First come, first served
 * 상태 좋음; In good/pristine/perfect working condition / Gently used

@@ -17,6 +17,8 @@
 * 본업; He still has a day job; 부업: side job
 	* 짭짤한 부업이 되었다; My hobby has become quite a profitable sideline
 * 밀린 일이 조금 있어; i've got a backlog of some cases
+* 구체화 되다; Taking shpae
+* 계약 파기하다; THe deal is off
 
 # 미팅
 * 단도직입적으로 물어봤습니다; I asked her point-blank

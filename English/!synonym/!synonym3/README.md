@@ -1,3 +1,8 @@
+* (진행중인) 계획을 망쳐놓다 throw a spanner[monkey wrench] in[into] the works 
+* 이 조치가 결국에는 불가피하게 세금 인상으로 이어질 것이다. This measure inevitably means higher taxes in the long run. 
+* 수리할 사항 목록이 아주 길다 There’s a list of repairs as long as your arm. 
+* 우리는 진정으로 당신이 개선하도록 노력할 수 있을 것 같아요. I think we can really step up your game . 
+* 그는 체면을 구겨서 밖에 나가고 싶지 않았다. He didn't want to go out because he had egg on his face. 
 * - ratchet 은 '역회전이 안 되도록 고안된 톱니바퀴', 또는 '톱니바퀴 역회전을 방지하기 위한 장치' 를 말하는데요. 'up'과 함께 동사로 쓰이면 이런 뜻이 됩니다. 톱니 바퀴를 조이듯 정도를 점차 높이는 이미지를 떠올려보세요! - 'pressure, tensions', '압박, 긴장' 같은 단어들과 자주 함께 쓰여요.
   * 유럽 연합은 영국에 압박을 높이려고 협상을 늦추고 있는 거야. [ex] EU is dragging out the negotiations to ratchet up the pressure on the UK.  [ˈrætʃɪt]
 * 초월과 횡단을 뜻하는 'tran(s)-' 와 보냄을 뜻하는 'scend'가 결합된 동사로, 무언가를 '초월하다'라는 뜻이에요! 외교부 장관 강경화의 목소리로 기억해보세요.

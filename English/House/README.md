@@ -15,6 +15,7 @@
 
 
 # 기타
+* 집 쳐들어가기; home inavasion
 * 투박하게 살다; 편안한집, 전기, 난방시설 등 호화로운 시설 없이 불편하게 살거나 캠핑하다; I'm roughingg it(제대로 된 캠핑을 할거야)
 * 즐거운 우리 집; home sweet home
 	* 잘곳이 없잔ㅇ하; we have a roof over our heads; a roof over one's head
@@ -25,6 +26,7 @@
 *  나는 이렇게 갇혀있는 것이 싫어.  I don ' t like being cooped up like this . 듣기
 * 집집마다; from door to door
 * 천장이 낮아; It's low clearance; 물체 사이 좁은 여유간격
+	* 천장에 머리 많이 박았음; I banged my head on the roof so many times
 * 온돌이 안좋은가 보네; YOou don't like floor heating
 
 # 주방	it has a; #gourmet kitchen; 프로급 주방
@@ -338,6 +340,7 @@
 * 집밥이 그립다. 		I miss home-cooked meals.
 * 우리 집에 놀러올래? 		Can you come over?
 * 무사히 집에 와서 기쁘네요.		I'm glad I'm home in one piece.
+* 수치다; 나의 삼촌은 하루 유치장에 들어갔던 과거가 있다. 그것은 우리들 집안의 수치다. My uncle was in jail for a day once. That's our family's skeleton in the closet. 
 * 우리 집안 내력이야. 	It runs in my family.
 * 집안일이 산더미야. 	tʃɔ:(r) Chores has piled up.
 * 어디를 가든 집이 최고다		East or West, home is the best.
@@ -529,6 +532,7 @@
 	* 우리 할머니는 2주전에 뇌 수술을 받으셨어. ex) My grandmother underwent a brain operation 2 weeks ago.
 	* 너의 '똑똑한' 계획이 우리에게 역효과를 냈어. ex) Your 'brilliant' plan backfired on us.
 * 의지할 곳이 없다; don't have a whole lot to fall back on
+	* 그녀는 아직도 부모의 도움으로 산다 She’s still living off her parents.; 독립할 수 없어; You can't live off your parents
 * 감수하며 살다; live with; live with for the rest of my life
 * 과거는 과거로 놔둬; 연연하지마; Let the past be past. Don't dwell on it
 * 나는 만사가 잘 안풀리는 날을 보냈습니다; i had one of those days

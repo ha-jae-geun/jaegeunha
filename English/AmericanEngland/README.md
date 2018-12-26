@@ -3,6 +3,11 @@
 * 모국어; first language, native language, mother language, mother language
 * 3국어; third language
 
+* 맨투맨; sweat shirt, crew neck
+* 오므라이스; omelette (rice)
+* 함박스테이크; hamburger steak
+* 스탠드; desk lamp
+* 네이게이션; GPS
 * 교무실; teacher's lounge; staff room
 * 교장; principal; headmaster
 * 소방차; fire truck; fire engine

@@ -57,6 +57,7 @@
 	* #nutsy
 	* ☆미치광이							 lunatic 미국·영국 [|lu:nətɪk] 
 	* 미쳐버리다 속어 									bananas
+	* 저 얘는 날 미치게 만들어. That child will drive me up the wall . 
 	* 미치겠다 			 일반적인 충격이나 기쁨을 넘어선 상태, I'm freaking out
 	* 너 미쳤니?
 	* Have you lost your mind? <>Are you crazy? 라는 뜻이고 조금 더 세련된 표현이다.

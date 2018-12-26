@@ -120,6 +120,10 @@
 * 내말 믿어봐 진짜야; Take it from me
 
 # 말투
+* 장난치는거지? Are you pulling my leg?
+* 건초더미에서 바늘 찾기가능성이 거의 없다는 뜻사막에서 바늘 찾기와 같은 속담 needle in a haystack 
+* 설상가상으로 그 죄수는 사소한 절차상의 문제로 석방되었다. To add insult to injury, the prisoner was released due to a technicality. 
+* 처음에 모두 우리 계획에 반대했으나 논의를 거듭한 후에는 형세를 역전시킬 수가 있었다. At first, people were opposed to our plan. After a lot of discussion, we were able to turn the tide. 형세를 역전하다: turn the tide; 조류를 전향시키다.
 * 엎ㅈㄹ러진 물인걸; What's done is done
 * 그건 완전히 거짓말이었어. That was just a flat-out lie. 
 * 많으면 많을수록 좋지; The more the merrier

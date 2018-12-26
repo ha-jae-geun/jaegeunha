@@ -80,6 +80,9 @@
 * 잉글리시 애비뉴 https://m.blog.naver.com/PostList.nhn?blogId=avenueinstitute&logCode=0&categoryNo=18&currentPage=1
 * 브리센트 https://m.blog.naver.com/PostList.nhn?blogId=britcent&currentPage=1
 * 중국어, 토익, 영어회화 마법 https://m.blog.naver.com/PostList.nhn?blogId=coreakyss2
+* 영어 문화권; https://m.blog.naver.com/britishcouncilkorea/221423415204
+* 능률 https://m.blog.naver.com/PostList.nhn?blogId=neungyule01&currentPage=1
+* 꾸르꿀 https://m.post.naver.com/my.nhn?memberNo=43677109
 * 한국번역연구소 https://blog.naver.com/ktri8888
 -----------------------------------------------------------------------------
 * 빌보드 https://www.billboard.com/charts/hot-100#/charts/hot-100

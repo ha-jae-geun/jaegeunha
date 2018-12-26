@@ -9,7 +9,7 @@
 * 호날두
 * 풋볼리크스
 
-
+* 그 소식 듣고 반응이 어떘어요? How did he take the news?
 * 독점: Exclusive:
 * 뉴스 있어? Is there any news? / Any news?
 * 현 시점 보도된 바에 따르면; As far as reports suggest at this stage
