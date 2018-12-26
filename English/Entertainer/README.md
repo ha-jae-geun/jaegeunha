@@ -4,6 +4,7 @@
 * (음반, 영화)판촉물/광고를 만들었따; they made a promo video
 * 내일 시청해주세요; Tune in tomorrow
 	* 채널 고정; Stay tuned for
+* 쇼에 초대해 줘서 고마워요; Thank you for having me
 
 # Radio
 * 라디오 날씨 최신 정보를 듣고 계십니다; YOu are listening to Radio weather update

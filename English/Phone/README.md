@@ -18,6 +18,8 @@
 * 요청이 매우 많았던 영ㅅ아이에요; this is highly requested video
 * #무음이었어 I set/put my phone on #mute/silent (#mode)
 * #진동으로 해놔 put your phone on #virbrate (#mode) / #silent
+	* put it in -mode; Put your phone in vibrate mode during the show
+	* Switch it to airplane mode
 * 작은 무선 충전 케이스는 24시간 이상의 배터리 수명을 ㅈ공합니다; The compact wireless charging case delivers more than 24 hours of bettery life
 * 기술이 우리와 제품들 사이의 흠 없고 자동적인 연결을 가능케 하는 미래에; Where technology enables the seamless and automatic connection between you and your devices
 * 보조 케이블도 있어요; i got the auxiliary hookup [ɔːɡˈzɪliəri]

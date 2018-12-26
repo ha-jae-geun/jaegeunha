@@ -1,8 +1,50 @@
+* 게임을 지배하려면 능력이 있어야 하는데요. 일반적인 능력, 재능, 기술을 갖추고 있을 때 또는 스포츠 경기를 잘할 때 쓰는 비격식 표현입니다. 영상의 대사를 직역하면 [제대로 된 능력을 갖추면 돌아와라]인데요. 조금 의역하여 해석되었습니다.
+  * = 쟤 움직임 좀 봐. 제대로 된 능력을 가졌어. Look at his moves. He got real game.
+* -에 가까워지다; gain on; They're gaining on us
+* 여기서 boy 는 감탄사로 쓰였습니다. 앞일을 모른다는 것을 매우 강조하는 것이죠. 만약 자연스럽게 쓰지 못할 것 같으시다면 듣고 이해만 하셔도 됩니다. 
+  * = 아이고 이런! / 우와!  Oh, boy!
+* [노력하다, 최선을 다하다]는 다양한 표현법이 있지만, 그 중에서도 [give (명사) everything you got] 은 원어민스러운 구어체 중에 하나입니다. 가지고 있는 모든 것을 내놓는다는 거니까 젖먹던 힘까지 다 짜낸다는 거죠. give 다음에 오는 명사는 노력을 쏟는 대상을 가리키는데요, 생략도 가능합니다.
+  * = 넌 할 수 있어. 그냥 최선만 다 하면 돼. You can do it. Just give everything you’ve got.
+* 원래 visceral 은 [내장의]라는 의미가 있는데요, 문예체로 [본능적인, 강한 감정에 의한]을 뜻하기도 합니다.  또한 부정적인 것에도 쓸 수 있는데요, 예를 들어 visceral dislike 는 [깊게 생각하지 않고 그냥 본능적으로 매우 싫은 것]을 의미합니다.
+  * = 의사가 나보고 내장지방 빼야 한대. The doctor told me I have to lose visceral fat. [ˈvɪsərəl] 
+* 실제로 신발을 신고 걷는다는 건지 아니면 비유적으로 그 사람의 입장이 되어본다는 건지 문맥을 판단해야 하겠죠. 
+  * = 나는 그의 입장이 되어서 작가가 된다는 게 얼마나 힘든 일인지 알게 되었다. I was able to walk in his shoes and got to know how hard it is to be a writer. Put yourself in one's shoes
+  * (* walk a mile in ~’s shoes: ~의 입장이 되어보다)
+    * = 너의 업무를 대신할 수 있는 사람이 없어.  No one can fill your shoes.
+    * = 너무 성급히 판단하기 전에 그들의 입장에서 생각을 해봐야 해. We should try walking a mile in their shoes before judging them too quickly.
 * (진행중인) 계획을 망쳐놓다 throw a spanner[monkey wrench] in[into] the works 
+* '신고식'이라는 말에 딱 상응하는 영단어가 바로 'hazing'이죠. 신참들에게 이상하거나, 어렵거나, 위험한 일을 수행하게 하는 가입절차를 가리킵니다. 'haze'는 동사로 '신고식시키다, 골탕먹이다, 괴롭히다'가 되죠.
+  * 걔네 클럽은 최고로 호된 신고식으로 유명해. [ex] Their club is known for its highest degree of hazing.
+* 'roast sb (on sth)'은 '[무엇]에 대해 [누구]를 비판하다'라는 뜻으로 informal(비격식)하게 사용하는 표현입니다. 하지만, 요즘은 더 가볍게 '(농담·위트있는 응수·디스 따위로) 익살스럽게 놀리다' 또는 그런 '놀림'의 뜻으로도 쓰이죠.
+  * 걔네들이 내 말투를 두고 놀렸어. [ex] They roasted me on my accent.s
+* 2. cause: 여기서는 '원인, 이유, 근거'가 아닌 '목적, 대의'를 의미합니다.
+  * 우린 더 큰 대의를 위해서 협력해야 한다. [ex] We have to cooperate for a larger cause.
+* 영상에서처럼 말하는 사람이 원하는 바를 상대방이 해내거나, 일반적으로 무언가를 잘 해낸 '후'에 칭찬하는 하는 말이에요. There you go 나 There we go 나 비슷한 기능을 하며, 말하는 사람을 포함하느냐 마느냐의 차이입니다. Here we go 라는 표현과 헷갈릴 수도 있는데요. 이 표현은 무언가를 시작하기 '전'에 [이제 해보자] 라는 격려의 의미로 쓰이니까 구별해서 숙지해 주세요!
+* 어떤 말을 들었을 때 머릿속에서 종이 땡땡땡 하고 울리듯 탁하고 떠오르는 모습에서 나온 비격식 표현이에요. 그래서 ring a bell 은 [들어본 적이 있다 / 낯이 익다] 정도의 뉘앙스로 쓰인답니다. = It doesn't ring a bell.
+* 1. 기절시키다, 이기다 수면제가 나를 완전 뻗게 했어.; [ex] Sleeping pills knocked me out.
+  * 2. 깊은 인상을 주다, 충격을 주다; 샘의 공연에 우리는 모두 기절초풍이 됐었어.; [ex] We were all really knocked out by Sam's performance.
+  * 3. 녹초가 되게 하다, 최선을 다하다; 너무 진빼지 마; [ex] Don't knock yourself out.
+  * 4. "Knock yourself out"은 "마음껏 ~해"라는 뜻이에요. 음식을 마음껏 즐겨라, 게임을 마음껏 즐겨라 등등 여러 상황에서 쓸 수 있어요.
+    * 응 너 다 먹어. B: Knock yourself out.
+* breach는 틈, 균열, 또는 파괴를 의미하기도 하는데요, 여기서는 위반, 침해를 뜻합니다. 약속이나 계약, 법 등 다양한 경우에 사용할 수 있죠.
+  * : 계약/저작권/보증 위반 a breach of contract/copyright/warranty
+* card를 동사로 사용하면 미국에서는 (연령 확인을 위한) 신분증 검사를 한다는 뜻이 됩니다. 법적 연령에 맞는지 확인하기 위해 술집 같은 곳에서 하는 일이죠. 비격식 표현이고 주로 be/ get carded처럼 수동태로 사용된답니다~
+  * 바텐더가 젊어 보이는 사람들의 신분증을 검사했다. The bartender was carding the younger looking ones.
+* ma-and-pa는 mom-and-pop이라고 부르며 직역하면 '엄마와 아빠'라는 뜻에서 알 수 있듯이, '가족경영의, 소규모의' 사업을 지칭할 때 사용하는 표현입니다.
+  * 구멍가게들이 사라지고 있다. Mom and pop stores are dying out.
+* 그건 당신에게 고관들과 어울릴 수 있는 기회가 될 겁니다. It ' ll give you a chance to rub elbow with high -rankers. 
+* 좋아하는 스포츠 경기를 보거나 취미 생활을 하다 보면 시간 가는 줄 모를 때가 있죠? pastime은 '(시간을) 보내다'를 뜻하는 pass와 '시간'을 뜻하는 time이 합쳐진 단어에요. '취미,' '오락' 등을 의미해요. 
+  * 미국 국민 오락이잖아; It's the American pastime
+* 1. ~을 알아차리다, 이해하다 아이들은 부모들 사이의 갈등을 금방 알아차립니다.
+  * [ex] Children soon pick up on tensions between their parents.
+  * 2. (특정 논점 등) -으로 되돌아가다 당신이 좀전에 제기하신 문제로 잠깐 되돌아갈 수 있을까요.
+    * [ex] If I could just pick up on a question you raised earlier.
 * 이 조치가 결국에는 불가피하게 세금 인상으로 이어질 것이다. This measure inevitably means higher taxes in the long run. 
 * 수리할 사항 목록이 아주 길다 There’s a list of repairs as long as your arm. 
 * 우리는 진정으로 당신이 개선하도록 노력할 수 있을 것 같아요. I think we can really step up your game . 
 * 그는 체면을 구겨서 밖에 나가고 싶지 않았다. He didn't want to go out because he had egg on his face. 
+* 원래 turf 는 [잔디]를 의미해요. 보통 축구, 야구 경기장 등에 까는 잔디를 turf 라고 하는데, 미국에서 비격식으로 쓰일 때는 자기가 일하는 곳이나 사는 [구역] 또는 폭력단의 [영역, 아지트]를 의미합니다. [영역 다툼, 밥그릇 싸움] 등은 turf war 라고 하니 참고로 알아두세요.; THis is our turf
+  * = 너희들 내 구역에서 뭐하냐? What are you guys doing on my turf?
 * - ratchet 은 '역회전이 안 되도록 고안된 톱니바퀴', 또는 '톱니바퀴 역회전을 방지하기 위한 장치' 를 말하는데요. 'up'과 함께 동사로 쓰이면 이런 뜻이 됩니다. 톱니 바퀴를 조이듯 정도를 점차 높이는 이미지를 떠올려보세요! - 'pressure, tensions', '압박, 긴장' 같은 단어들과 자주 함께 쓰여요.
   * 유럽 연합은 영국에 압박을 높이려고 협상을 늦추고 있는 거야. [ex] EU is dragging out the negotiations to ratchet up the pressure on the UK.  [ˈrætʃɪt]
 * 초월과 횡단을 뜻하는 'tran(s)-' 와 보냄을 뜻하는 'scend'가 결합된 동사로, 무언가를 '초월하다'라는 뜻이에요! 외교부 장관 강경화의 목소리로 기억해보세요.

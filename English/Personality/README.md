@@ -177,6 +177,8 @@
 * #만만	내가 그렇게 만만해? do I look easy?
 * 만만찮다	it's harder than you think
 * 제니퍼는 마음씨가 곱거든. #곱다 #착하다	Jennifer has a heart of gold.
+	* someone's heart is in the right place: 행동이나 겉모습 따위는 그렇지 않아 보여도, 근본적으로 마음은 선량하다는 뜻이에요.
+		* He's a bit annoying, but his heart's in the right place.
 	* 인정을 베풀어! 	have a heart! 미국식  영국식   단어장추가
 	* 아주 친절한 사람이다 have a heart of gold 미국식  영국식   단어장추가
 * ~ is #good-nature

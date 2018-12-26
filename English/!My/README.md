@@ -120,6 +120,11 @@
 * 내말 믿어봐 진짜야; Take it from me
 
 # 말투
+* 내말 들었잖아, 잔말 말고 해; YOu heard me
+* 너 딱 걸렸어; YOu're busted
+* 직접 보여드리고 싶은데요; I'd like to show you first-hand
+* 잘 생각해 봐; Do the math
+* 이 문제를 해결할 수 있어; We can save the day
 * 장난치는거지? Are you pulling my leg?
 * 건초더미에서 바늘 찾기가능성이 거의 없다는 뜻사막에서 바늘 찾기와 같은 속담 needle in a haystack 
 * 설상가상으로 그 죄수는 사소한 절차상의 문제로 석방되었다. To add insult to injury, the prisoner was released due to a technicality. 
@@ -172,6 +177,11 @@
 * 등... 등잔 밑이 어둡다? The beacon does not shine on its own base? 
 
 # 일상
+* 그럴 때도 됐어; It's about time
+* 뻔하지; it's not hard to guess
+* 샘이 너 괴롭혔니? Did Sam get to you? 거슬리게하다; 영향을 미치다
+  * 너무 마음쓰지마; DOn't let it get to you
+* 그런 상황은 현대에 들어서는 전례가 없는 일이다. The situation is unprecedented in modern times.   [ʌnˈpresɪdentɪd]
 * 머가 뭔지 알겠어요; "I see/know what's what."; 멀 해야 할지 알다: You know the drill.
   * 이미 요령을 알다; I already know the ropes.; 능숙하다; I really need to know my way around something
 * 반대인가? Is it the other way around?

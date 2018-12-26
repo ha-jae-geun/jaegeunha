@@ -64,7 +64,7 @@
 * 방랑자; hobo; 돌아다니다; roam around, wander around
 * 추남에서 매력남으로; transform you from ugly to irresistible
 * 참전용사; vet; veteran 2. 수의사
-* 겁쟁이; yellow
+* 겁쟁이; yellow; nervous Nellie 
 * 옛날 사람들; old time people
 * 아름다운 너와; shawty(흑인 슬랭에서 비롯됨): 아름다운 여성
 * 13살의 나에게 한마디 한다면; If you could send a message to your thirteen-year-old self

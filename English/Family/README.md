@@ -148,7 +148,7 @@
 * 그 친구들 정말 닮았더라고! 		 완두콩 pɑ:d: 꼬투리 They look like two peas in a pod. 
 * 걱정하지마									 Don't sweat it
 * 너 아빠 닮았구나 						 You take after your father.
-	* ‘아빠, #아저씨 									pops, #mister
+	* ‘아빠, #아저씨 							pops, #mister, my old man
 	* 생부; biological dad; biologically related
 	* 자신의 아버지; my old man
 	* #sugar daddy; 그렇고 그런목적으로 스폰하는 아재/할배들
@@ -215,7 +215,8 @@
 * 전 외동이에요. 									I’m the only child
 * #번식 #reproduce #reproduction #수정 fertilize 미국식 [|f3:rtəlaɪz] 
 * 제 아내가 #임신했어요! 	 	 My wife is pregnant! I‘m expecting, she gets pregnant
-* *How many months have you been pregnant
+	* 와아프; missus 미국·영국 [ˈmɪsɪz]
+	* *How many months have you been pregnant
 * #baby fever; An urgent desire to have a baby or grandchild.
 * #진통중에 내가 한 말이네; that's what I told you; when you were #in labor
 * 제가 집에서 진통 중일 때, when i was laboring at home

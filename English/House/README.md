@@ -551,6 +551,7 @@
 * 일생에 있을까 말까 한 기회; That is once-in-a-lifetime opportunity
 * 그리고 저는 도덕적인 삶을 살아요; And i live a moral life
 * 내 인생에서; in my entire life
+	* * 평생 이렇게 살아야 해; i'm in it for life; for life
 * 근근히 살아가다; those who are living on the edges
 	* 최선을 다해 열심히 살다; live life th the fullest
 	* 매일 따분하고 반복적인 일을 해 주셔야 해요. ex) You should be willing to do mundane and repetitive tasks on a daily basis. [mʌnˈdeɪn]

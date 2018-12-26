@@ -267,6 +267,7 @@
 	* 전면주차 해주세요; Prak your car front-in
 	* back it in; 후진해서 주차해 = #Reverse park your car
 * #브레이크 왜 브레이크를 밟는거지?			 Why did you put on the brake?
+	* 브레이크 걸어; Hit the brake
 * 교차로에 대요 						At that intersection, Pull over
 * #정차; #pull up; 몸시 꾸짖다, 비난하다, 멈춰서다; he pulled up at the traffic light
 * 주차 공간 하나 줘야겠군 				 I'd better get you a parking space

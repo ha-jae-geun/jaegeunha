@@ -1,4 +1,5 @@
 ## 기타
+* 토할것 같애; i think i am gonna sick
 * 가렵다; i itch all over; i've got an itch on my back
   * My nose and eyes are very itchy
 * 딸꾹질나요; i have the hiccups
@@ -284,6 +285,8 @@
 * #pick up one’s brain on something; 충고를 듣고 싶다
 * 한번 본건 까먹지 않는다; #Mind/#brain like a steel trap
 * ##뇌 [sə|ri:brəl] a #cerebral haemorrhage 뇌출혈
+  * 다량의[대규모] 뇌출혈[뇌일혈]a massive brain/cerebral haemorrhage 
+  * 출혈하다; bleed; 과다출혈: hemorrhage  [héməridƷ] 
 * #변연계; #limbic system 미국·영국 [|lɪmbɪksɪstəm]
 * #전두엽; #prefrontal cortex
 * #뇌수막염; cerebrospinal meningitis 미국·영국 [|menɪn|dƷaɪtɪs] 
@@ -420,7 +423,8 @@
 * #정신병원; #nuthouse
 * 나도 정신 상담을 받아야 겠어요 I should see a shrink(psychiatrist [saikáiǝtǝr] 속어)
 * #진찰; #consultation
-* #정신상태 You’re in no state of mind to talk; #state of mind
+* 누구 상태 확인해봐; CHeck on someone; Go check on her
+  * #정신상태 You’re in no state of mind to talk; #state of mind
 * #영양사; #dietcian
 * 불균형 영양; #malnourished
 * #종합비타민; take your #multivitamins

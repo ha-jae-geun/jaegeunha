@@ -247,6 +247,7 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #lay(put) some #sweet lines on; 달콤한 말을 거다, #부추기다
  * #mack upon; #해치우다, #이기다;
  * #꼬시다; hit on somebody, flirt somebody, put the move on somebody | #talk intof
+ 	* 작업 거시는 거에요: Were you coming on to me?
  * 네가 로스 꼬신거잖아; YOu came on to Ross; come on to: sexual relationship을 갖고 싶다고 드러내는 것
  * #smooth; #솜씨가 좋다; 특히 상대방을 잘꼬시면 하는 말
  * be #on a mission; #꼬시다
