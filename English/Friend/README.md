@@ -37,6 +37,8 @@
 	* 농담을 하다; crac/make/tell a joke
 		* -을 이용해서 농담하다; make a joke at someone's expense = make a joke at the expense of 사람
 	* 네 장난 알아 들었으니까 그만해; I get the joke
+	* : 두고두고 오르내리는 농담을 말해요! 
+		* 그 일은 계속해서 농담거리가 되고 있지. The whole thing became a running joke.
 * 항사 약간 빈정거리게 된다; we always get into a little bit of a banter
 	* i don't mind him exchanging banter with customers
 * (claw machine/crane claw/crane machine = 인형뽑기기계)

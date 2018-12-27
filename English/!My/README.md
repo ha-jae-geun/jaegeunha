@@ -310,7 +310,7 @@
 * 뜸들이지마; don't leave/keep me in suspense
 * 왜 화를 내세요; Why are you flipping out?
 * 맹세해; i cross my heart and hope to die
-* 식은죽 먹기야; got the piece of pie
+* 식은죽 먹기야; got the piece of pie; [ 관용구 ] a walk in the park; a piece of cake
 * 생각해볼게; Let me sleep on it
 * 난 입찰에서 발을 뺐어야 했어; i had to back out of the bidding
 * 대세에 따르는 걸 좋아한다; i like to go with the flow

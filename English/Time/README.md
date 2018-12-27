@@ -28,6 +28,8 @@
 * all the way는 거리나 시간상에 쓰는 표현인데요, 그 거리(물리적 거리, 타임라인) 전체를 가리켜서 강조를 하는 것이죠. 우리말로는 쭉, 곧장, 내내, 계속, 시종 등이 있습니다. 예문을 보면서 이해해 보겠습니다. 전부다 특정 거리나 시간 전체를 가리켜서 강조해주고 있습니다. 그래서 date back all the way to 1500s도 현재부터 1500년대까지 쭉 거슬러 올라간다는 것입니다.
 	* 그들은 집에 오는 내내 한 마디도 하지 않았다.  They didn’t say a word all the way back home.
 * 타이머가 0에 도달하면; When the timer hits zero
+* 오래동안; for years (and years); i've known him for years
+* 가끔씩; 누구나 가끔씩은 쉬어줘야지. Everyone deserves a break every now and then.
 
 # 요일
 * 어서 금요일이 되면 좋겠어!; Roll on Friday! 듣기 출처:옥스퍼드

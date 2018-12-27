@@ -49,6 +49,89 @@
   * 넌 목표에 꾸준히 집중해야 해.ex) You should stay committed to the goal.
 * 이렇게, 어떤 수치를 말했는데, 듣는 사람이 그 수치가 적은 편인지, 큰 편인지 감이 안 올 것 같을 때! to put things in perspective라 말하고, 들으면 "아~" 할 수 있는 비교군을 말한답니다. perspective는 '관점'이라는 뜻도 있지만 '원근법'이라는 뜻도 있는데, 좀 더 멀리서 보면 전체 그림이 보인다는 의미에서 쓰는 표현이 아닐까 합니다! 이런 정보성 컨텐츠에서 자주 쓰이는 표현이니 알아두시면 좋겠죠?
   * 아이슬란드는 인구가 대략 33만이야. 그게 대략 어느 정도냐면, 원주시 인구가 34만 정도래.ex) Iceland has a population of about 330 thousand. To put that into perspective, Wonju City has a population of about 340 thousand.
+* 누군가 자신의 어깨 너머로 본다는 것은, 뒤돌아 본다는 의미인데요. 무언가가 본인의 뒤에서 해를 입힐까봐 자꾸 뒤를 돌아보는 모습에서 나온 표현입니다. 이럴 때는 one's 자리에 주어와 동일한 대상의 소유격을 넣어주시면 됩니다.
+  * 계속 불안해 할 필요가 없어. 누구도 널 쫓아오지 않아. ex) You don't have to keep looking over your shoulder. No one will come after you.
+  * 2) 주제 넘게 관여하다. one's 자리에 주어와 다른 대상의 소유격을 넣어주면, 자기 자신의 어깨가 아니라 다른 사람의 어깨 너머로 그 사람이 무엇을 하는지 보는 것이기 때문에 [주제 넘게 관여하다] 를 의미합니다.
+    * 네가 계속 참견하니까 집중을 할 수가 없잖아. ex) I can't concentrate because you keep looking over my shoulder.
+* 믿음, 습관, 태도 등이 굉장히 뿌리가 깊고 확고해서 바꿀 수 없을 때 쓰는 표현입니다.
+  * 셰게를 향한 그의 부정적 태도는 뿌리가 깊습니다. ex) His negative attitude towards the world has been ingrained in himself.
+* 자아를 보듬어주지 마시오; Quit fondling your ego; fonfle: 애무하다
+* 영국에서 많이 쓰이는 비격식 표현으로, '강조'의 역할을 하는 very 와 비슷한 단어입니다. ever so 뒤에는 '형용사/부사' 가 올 수 있고, 명사를 강조해 줄 때는 ever such 를 쓸 수 있어요.
+  * 전 그를 정말로 좋아해요. ex) I'm fond of him ever so much.
+* 1) 사람이 radiant 할 때는 행복이나 만족감에 의해 이게 얼굴에 다 묻어나올 때. 얼굴이 [환한] 상태를 의미합니다.
+  * ㅍ 내가 널 만난 날, 넌 정말 얼굴에서 빛이 났어. ex) On the day I met you, you were really radiant.
+  * 2) 사물이 radiant 할 때는 말 그대로 [밝게 빛나는] 의 의미를 가져요.
+    * 우리가 아프리카 여행을 하는 동안 매일 빛나는 아침은 놀라웠어. ex) It was amazing how every morning was radiant while we were traveling in Africa.
+* 직역하면 누군가의 [마음에 가까운] 이라는 뜻인데요. 그만큼 마음 속에 자주 생각하며 아끼는 것을 의미할 때 쓰는 표현이랍니다. 주로 사람에는 잘 쓰이지 않습니다. benefit 은 [~에 이익을 주다] 라는 뜻인데 여기서는 [기부됩니다] 라고 해석이 되었습니다.
+  * 이 지갑은 저에게 정말 소중합니다. ex) This wallet is really close to my heart.
+* 1. 시작할 준비가 되었다, 이제 막 시작하겠다 
+  * 자, 시작해보겠습니다! [ex] Okay, here we go!
+  * 2. 무언가를 찾았을 때 하는 말
+    * 내 핸드폰 찾는 거 좀 도와줄래? 음...여기있다, 테이블 밑에 있네. [ex] Can you help me find my cellphone? ...hmm... here we go, it's under the table.
+    * 3. '또 시작이네'처럼 못마땅한 것이 되풀이 될 때 하는 말. again을 붙여 써요!
+      * 또 시작이네요! 평생 그 얘기 들었잖아요. [ex] Here we go again!  I've been hearing the same thing all my life.
+* : '솔직히 말하면, 사실은' 이라는 뜻의 관용적 표현이에요. "If the truth should be told"가 짧아진 버전이라고 할 수 있죠!
+  * 사실은 아빠 너무 보고 싶어. [ex] Truth be told, I really miss my dad.
+* : 직역하면 [~에게] '마음을 쏟다' 인데, 속뜻은 마음속 깊은 곳의 걱정, 생각, 감정, 고민거리 등을 '털어놓다' 예요! 특히 베네딕트처럼 정신없이 쏟아낼 때를 말해요.
+  * 방금 동생/언니/누나한테 마음을 다 털어놓고 내 두려움/걱정을 거의 다 말해버렸어. [ex] I just poured my heart out to my sister and told her pretty much all of my fears.
+* : 'A가 [주로 불쾌한 것] B를 면하게 해주다, 피하게 해주다', 또는 'A에게 B를 내주다/할애하다' 라는 뜻이에요! 다음 예문으로 기억해보세요.
+  * 더 이상 얘기하지 마.  Spare me the details.
+* [ 숙어 ] walk out on ~: ~을 떠나다, 버리다
+  * 난 직장을 그만뒀어. I walked out on my job.
+* 1) 정확한, 정직한, 곧은 
+  * 그는 정말 곧은 사람이야. [ex] He's a real straight up person.
+  * 2) (하는 말이 사실인지 확인하는 말로) 솔직히, 정말로
+    * 솔직히 말해 봐, 죠시. 너 내 험담하지 않았어? ㅍ[ex] Straight up, Josh, didn't you talk behind my back?
+  * 3) (술이) 얼음 없이
+    * 위스키 한 잔 얼음 없이 주세요. [ex] I'll have a whiskey, straight up, please.
+  * 4) (강조) 아주, 매우, 제대로
+    * 정말 멍청하다. [ex] That's straight up stupid.
+* 1) 무언가 말을 꺼내기 전에 [그런데 말이죠] 라고 말을 꺼내며 상대방에게 '내가 이것 좀 설명하게 해달라' 라는 의미를 내포한 표현입니다. Here's the thing : 그런데 말이죠. 문제는 말이죠.
+* muck around 또는 muck about 이라고 하는 표현은 조금 유치하고 엉뚱한 방식으로 종종 해야할 일을 안하고 시간 낭비하며 노는 것을 의미합니다. 비격식 표현입니다.
+  * 내가 잭을 볼 때마다 그는 핸드폰을 가지고 빈둥대고 있다. ex) Whenever I see Jack, he's mucking around with his phone.
+* beef는 '싸움, 말다툼, 불평'이라는 뜻도 가지고 있어요. 주로 비격식적인 표현으로 사용되죠. - beef about something: (동사 beef) 무엇에 대해 불평하다
+  * 그는 요새 애들이 옷을 얼마나 이상하게 입고 다니는지에 대해 불만을 토로했다. [ex] He was beefing about how kids dress so weird these days.
+  * - have a beef with someone: (명사 beef) 누군가와 싸우다, 언쟁하다, ~에 불만을 갖는다
+* 다들 이런 경험 있으시죠?ㅎ 뒷주머니에 전화기를 넣었는데 실수로 (엉덩이에 잘못 눌려) 전화가 가는 거 말이에요~! 이걸 바로 butt-dial이라고 해요. 신조어인데 butt (엉덩이)가 누른다는 말이 조금 직접적이라고 생각한다면 pocket-dial/pocket-call이라고도 말할 수 있어요. 주머니/가방에 넣은 상태에서 잘못 전화가 간 걸 뜻하죠~^^
+* strike는 '때리다, 찌르다, 맞추다, 인상을 주다, 파업을 하다'등 정말 다양한 의미를 가지고 있는 단어입니다. 여기서는 (자세를) 취하다는 의미로 사용되었어요. strike a pose와 비슷한 용례로 '어떤 태도를 취한다'고 할 때는 strike an attitude라고 합니다.
+  * 모델은 포즈를 취할 준비가 되었다. The model is ready to strike a pose.
+* [ 숙어 ] do somebody: 성대모사 하다 ※ '성대모사'는 impression이라고도 해요.
+  * 랜디는 클린트 이스트우드 성대모사를 정말 잘해! Randy does Clint Eastwood very well!
+* 1. 원래 있었던 곳/ 집으로 다시 바래다 주다
+  * 2. (문제 등을 이유로) 집을 떠났던 배우자나 파트너를 다시 받아주다
+  * 3. (과거를) 기억나게 하다, 상기시키다
+    * 이 음식은 내가 어렸을 때를 기억나게 만들었다. This food takes me back to my childhood.
+* 둘 다 '앞서 말한, 언급된'이라는 의미를 가지고 있지만, said는 mentioned보다 좀 더 격식있고, 법률적인(전문적인) 자리에서 사용되는 용어입니다. 일부로 코믹한 요소를 위해 사용하기도 합니다.
+*  'throw sb under the bus'는 자기자신을 보호하거나 이익을 얻으려고 친구나 동지를 배신하는 행위를 가리킵니다. (직역하면 '누군가를 버스 아래로 던져버리다'입니다)
+  * 맷이 앤을 팔아먹는 바람에 앤은 자기 쇼에서 잘렸다. [ex] Matt threw Ann under the bus and Ann was released from her own show.
+* 멀리서 빠르게 날라오는 공을 잡기가 매우 힘들죠? Here's the catch에서의 catch는 난제나 조건을 의미해요. 주로 상대방에게 뭔가를 알려주면서 주의 사항을 따로 일러줄 때 사용하는 표현이에요.
+  * Here's the catch; 주의해야 할 조건이 있어요.
+* 소외계층을 조명하는 것이 중요합니다. It is important to shed light on the underprivileged.
+* : slack 은 '느슨한 것'으로, '누군가 하지 못했던, 혹은 못하게 된 일을 하다', 혹은 '부족해진 점을 메우다, 보충하다' 라는 뜻이에요.
+  * 다들 핑계를 대더라고. 이제 내가 그 사람들 몫까지 해줘야 해. They all came up with excuses. Now I need to pick up the slack for them.
+* 1) 전적으로 확신할 때, 확신이 차고 넘칠 때 : I'm convinced (that ~)
+  * 2) 100% 확신할 때 : I'm sure (that ~)
+  * 3) 70~90% 쯤 확신할 때 : I'm pretty sure (that ~)
+  * 4) 그닥 확신이 없다 / 아예 확신이 없다 : I'm not so sure / I'm not sure
+* appropriate = 적절한. 사회적으로 용납이 되는지, 또는 예의에 어긋나진 않는지 물을 때 쓰는 표현이에요. 용납이 안되거나 기분 나쁠 소지가 있는 건 inappropriate이라고 해요.
+* back burner는 옛날에 쓰던 스토브의 한 부분을 뜻하는데, 불이 강하지 않아 오랜 시간에 걸쳐 천천히 익히는 용도로 썼대요! back burner에 올려놓고 다른 일을 하는 것에서 나온 표현인가 봐요. put A on the back burner
+  * ㅍ1. A를 잠시 미루거나 보류해두다
+  * 2. A의 우선순위가 낮다고 여기다
+* 코믹스가 굉장히 색다르기 때문에 영화도 색다르게 표현하려고 노력했어요.
+  * The comics are very, very out there.
+  * 1. 저기 바깥에 2. 색다른, 관습에서 벗어나는, 정신 나간; out there
+* along the way : ~하던 중, 여정이나 과정 속에서
+  * 과정 속에서 많이 배워야 할 거야. You'll have to learn a lot along the way.
+* : 'throw off balance, 평정을 잃게 하다' 라는 말처럼, '~를 혼란스럽게 하다, 당황스럽게 하다' 라는 뜻!
+  * 그 사람 질문에 정말 당황했어. His question really threw me off.
+* : '뜻을 알 수 없는 말'을 말해요. 보통 해당 분야에 지식이 없어서 말을 못 알아듣겠을 때 사용한답니다!
+  * 난 1도 못 알아듣겠어.It's all mumbo jumbo to me.
+* : 무게를 잴 수 없을 만큼 '굉장하다' 혹은 '심하다' 라는 뜻의 슬랭이에요!
+  * 완전 쩔어줄 거야! It's going to be off the scale!
+* : 여기서 동사 see 는 물리적인 것을 실제로 '보다'라는 뜻이 아니라, 추상적인 것을 '보다, 알다, 이해하다' 라는 뜻으로, 'understand'의 유의어예요. 그래서 요 표현은 '~에서 웃긴 점이 뭔지 알다', '~에서 뭐가 웃긴지, 재미있는지 알다'라는 뜻이죠! 전치사 in 을 쓴다는 것도 꼭 기억하세요.
+  * 이 모든 게 웃긴 상황이라는 거 모르겠어? Don't you see the humor in all of this?
+* : 'congeniality'는 '친화성'이라는 뜻인데요. 미스 아메리카 대회에서 참가자들의 투표로 가장 친화력이 좋은 참가자에게 주는 상 "Miss Congeniality" 에서 유래한 표현으로, 친절하거나 사근사근해서 친화력이 아주 좋은 사람을 이렇게 말할 수도 있답니다. 반대로 별로 친절하지 않은 사람을 말할 때도 부정어와 함께 쓸 수 있죠.  [kəndƷì:niǽləti
+* What are the chances?는 '말도 안되는 우연한 일이다!'라는 감탄의 표현으로 쓰이거나 말 그대로 '~할 확률이 어떻게 되?'라는 의문형으로도 쓰여요. 같은 표현으로는 What are the odds?가 있어요.
 * 카드 게임 포커에는 총 네 가지의 문양이 있습니다. 하트, 클럽, 다이아몬드, 스페이드. 예를 들어 7이라는 숫자를 가진 카드가 총 4장이 있는 거죠. 그래서 그 4장으로 이뤄진 한 세트를 suit 라고 하는데요. follow suit 는 앞 사람이 낸 카드의 패의 숫자를 그다음 사람이 그대로 따라 내는 것을 의미합니다. 그런 모습에서 따온 의미로 follow suit 는 남이 한 것을 그대로 [따라 하다] 라는 의미를 가지는데요. 영상에서는 [본받다] 라고 해석이 되었어요.
   * 내 생각에 우리가 그걸 먼저 하면, 다른 애들도 따라올 것 같아. ex) I think if we do it first, others will follow suit.
 * 어떤 요소가 그 효과를 나타내는 것을 의미하며, 영상을 직역하면 [제 생각엔 작동 중인 더 깊은 무언가가 있었던 것 같아요] 입니다.

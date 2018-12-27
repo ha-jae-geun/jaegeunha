@@ -119,6 +119,8 @@
 * 뻣뻣해서 다루기 힘든 머리	ʌn‘ru:li unruly hair.
 * #수염	#sparse #whisker ; #드문
 * 콧수염	a mustache mʌ́stæʃ
+	* goatee: 염소수염
+	* * 고양이, 쥐 수염은 whiskers, 히틀러 수염은 toothbrush mustache 일명 칫솔 수염이라고 합니다~!
 * 턱수염	a beard bɪrd
 * 구레나룻	sideburns bə́:rnz
 * 말총머리(한갈래)	ponytail

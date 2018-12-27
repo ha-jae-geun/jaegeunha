@@ -1,3 +1,306 @@
+# 쓸만한 영어_구독자Q&A_식당/음식주문할 때 애매한 표현들/영어회화/생활영어/영어공부
+ * A1.
+ * - Do you have any preference due to religion?
+ *   직역 : 종교 때문에 선호하는 어떤게 있습니까???(X)
+ * 
+ * - 종교, 기호, 알러지나 어떤 질환의 이유로 음식을 먹지 못하고 가려야하는 경우
+ *   *diet
+ *     음식을 먹는 일/ 식사(습관)
+ *     *go on a diet
+ *      식습관에 계속 붙어서 가는 그림
+ *   *dietary
+ *     [다(아)이어태(애)리]
+ *     *액센트 [아이] / [태애]를 길게
+ * 
+ *       음식의 / 식습관의 / 음식 먹는 것에 관한 그림
+ * 
+ *   *restriction(s)
+ *    [리스트릭션ㅅ]
+ *    re : 다시 (재)
+ *    strict : 엄하게 하는 그림
+ *    반복해서 자꾸 엄격하게 하는 그림 보이시죠?
+ *    ⇒ 규제/제한
+ * 
+ *   *dietary restrtctions
+ * 
+ * - Do you have any dietary restrictions?
+ *   직역 : 어떤 식습관 제한이 있어?
+ *   의미 : 먹으면 안되는/못 먹는 거 있어?
+ * 
+ * - because of choice, religion, allergies, whatever..
+ * 
+ * 
+ * Q2. - 음식을 한꺼번에 갖다주세요.
+ *        - 준비되는대로 하나씩 갖다주세요.
+ * 
+ * A2.
+ * - bring                                       과    take
+ *   come(다가오는/가까워지는)   과   go(멀어가는/ 멀어지는)의 그림과 비슷하게 볼 수 있어요.
+ * 
+ * - bring them out
+ *   직역 : 그것들을 가지고 나와주세요??
+ *   의미 : 그걸 갖다주세요.
+ *   *them은 여러개 주문한 음식(dishes)
+ * 
+ * - bring them out
+ *   갖다주세요.
+ * 
+ * - Bring them out when they are ready
+ *   음식(들)이 준비되면 갖다주세요.
+ * 
+ * - Bring them out _ _ they are ready
+ *   음식(들)이 준비되는대로 (그 순간) 갖다주세요.
+ * 
+ * - Bring them out as they are ready
+ *   음식(들)이 준비되는대로 (그 순간) 갖다주세요.
+ * 
+ * - Can you bring them out as they are ready?
+ *   음식(들)이 준비되는대로 갖다주세요.
+ * 
+ * - Can you bring them out when they are ready?
+ *   음식(들)이 준비되면 갖다주세요.
+ * 
+ * *음식을 한꺼번에 주는 대신 하나씩, 따로 따로, 개별로
+ * 
+ * - instead of all at once
+ *   음식을 한꺼번에 모두 주는 대신에
+ * 
+ * - Can you bring them out as they are ready instead of all at once?
+ *   음식이 준비되면 한꺼번에 다 주지말고 하나씩 주세요.
+ * 
+ * - 하나씩, 개별로, 따로 따로
+ *   separately
+ *   individually (개별 하나 하나로)
+ *   one by one (하나하나 순서대로 오는 거면)
+ *   not all together 
+ * 
+ * 
+ * Q3. 음식을 가운데에 놓아주세요.
+ *        우리는 나눠서 같이 먹을 거예요.
+ * 
+ * A3. 
+ * - in the middle
+ *   가운데에
+ * 
+ * - put 
+ *   놓는 그림
+ * 
+ * - Can you put it in the middle?
+ *   그거 가운데에 놔주세요.
+ * 
+ * - 한국어의 간섭은 한국어가 모국어인 우리가 외국어를 배울 때에 당연히 일어날 수밖에 없는 일이에요~
+ * 
+ * - share sth. together
+ *   같이 나누다(나눠갖다)
+ *   
+ * - We are going to *share (it).
+ *   우린 같이 (그거) 나눠먹을 거예요.
+ *   *동사 share 자체에 [같이 갖는다] 의미가 있기 때문
+ * 
+ * - Can you put it in the middle?
+ * 
+ * - We are going to *share (it).
+ *   우린 같이 (그거) 나눠먹을 거예요.
+ * 
+ * - We are going to share (that).
+ *   우린 같이 (그거) 나눠먹을 거예요.
+ * 
+ * 
+ * Q4. 우리 모두 하나씩 개별 접시 주세요.
+ * 
+ * A4. 
+ * - 이 문맥/상황에서 "우리 모두" = we all???
+ * 
+ * - Each on of us
+ *   우리 각각 한명씩
+ * 
+ * - Each one of us needs an individual(/separate) plate.
+ *   우리 각자 개별 접시 주세요.
+ * 
+ * - Each one of us needs an individual(a separate) plate.
+ *   *개별 하나 하나의 접시를 세기 때문에 부정관사 a(n)가 필요
+ *     individual plates 복수로 말하지 않음
+ * 
+ * 
+ * Q5. (겉에 크림은 알겠는데) 케이크 (안의) 빵은 뭔가요?
+ * 
+ * A5. 
+ * - 생각의 전환이 되지 않는 순간 쉬운말도 어려운 말이 되지요?
+ * 
+ * - 내가 놓인 상황의 포인트에 맞춰 말하는 습관을 들이면 오히려 더 단순하고 쉬울 수 있어요.
+ * 
+ * - 그렇다면 케이크의 빵은??
+ *   빵 = bread (X)
+ *   cake (O)
+ * 
+ * - What cake is it?
+ *   이게 무슨 케이크에요?
+ *   *이렇게 물으면 무슨 케이크빵과 크림으로 만들었는지 알려줘요.
+ * 
+ * - What kind of cake is inside?
+ *   안에 케이크가 뭐예요?
+ * 
+ * 
+ * Q6. 겉에 바른 크림은? = cream일까?
+ * 
+ * A6.
+ * - cream ~ 크뤼임~~??? ^^
+ * 
+ * - 꼭 원어민만큼의 발음과 액센트로 말해야한다는 게 아니에요.
+ * 
+ * - 좀 틀려도 상황과 문맥상 원어민도 다 알아듣는다???
+ * 
+ * - 문맥과 상황은 외국인으로서 외국어를 배우는 우리 입장에서 좀 더 힌트를 얻기 위해 이용하는 수단이에요.
+ * 
+ * - 자국에 사는 원어민 입장에서 외국어를 하는 외국인의 말을 문맥과 상황을 배려하고 이해해주는 사람은 극히 드뭅니다.
+ * 
+ * - 내가 하는 말이 통하지 않는 순간 손해보고 작아지는 것은 우리예요.
+ * 
+ * - cream (X)
+ *   frosting (O)
+ * 
+ * - The frosting is chocolate.
+ *   겉에 크림은 초코인데 안에 빵도 초코인가요?
+ * 
+ * - I am wondering if the cake inside is chocolate too?
+ *   직역 : 안에 케이크도 초콜렛인지 아닌지 궁금합니다.
+ * 
+ * - The frosting is chocolate.  I am wondering if the cake inside is chocolate too?
+ *   크림은 초콜렛인데 안에도 초콜렛 케이크에요?
+ * 
+ * 
+ * Q7. (마카롱 겉에 쿠키는 뭔지 알겠는데) 안에 들어간 잼(?)은 뭐예요?
+ * 
+ * A7.
+ * - 엄밀히 따지면 macaron과 macaroon은 다른 종류의 과자로 발음도 다름.
+ *   현지 원어민들도 뚜렷한 구별을 하지 않을 때가 많아서 
+ *   두 개의 발음 모두 마카롱으로 통할 때가 있음.
+ *   *macaron [매커뤈]
+ * 
+ * - filling
+ * 
+ * - What kind of cookie is it?
+ *   이 과자 종류가 뭐예요?
+ *   이게 무슨 과자예요?
+ * 
+ * - What kind of filling is it?
+ *   속에 든 거 종류가 뭐예요?
+ *   안에 든 게 뭐예요?
+ * 
+ * 
+ * Q8. 아이가 먹기에 너무 맵지 않나요?
+ * 
+ * A8.
+ * - kids : 일반적인 아이들
+ *   the kids : 식당직원과 내가 다 알고있는 아이들
+ *   *관사의 유무에 따른 어색함/자연스러움을 원어민들은 거의 본능적으로 알아채요.
+ * 
+ * - Wouldn't it be too spicy for the kids?
+ *   우리 아이가 먹기에 너무 맵지 않나요?
+ *   *Isn't it that spicy for the kids?
+ *    벌써 맵다는 사실을 인지하고 묻는 뜻이 됨
+ *   *Isn't it too spicy for the kids?
+ *    벌써 맵다는 사실을 인지하고 묻는 뜻이 됨
+ *   *Wouldn't it be too spicy for the kids?
+ *    확실하지 않은 것에 대한 가능성의 여지를 두고 말하는 뜻
+ * 
+ * - Wouldn't it be too spicy for the kids?
+ *   우리 아이들한테 너무 맵지 않을까요?
+ * 
+ * 
+ * Q9. 같은 음식을 아이들은 맵지 않게, 어른은 맵게 먹고 싶을 때 뭐라고하나요?
+ * 
+ * A9. 
+ * - Can you put the spicy sauce on the side, please?
+ *   직역 : 매운 소스를 따로 옆에 빼서 주세요.
+ *   의미 : 매운 소스는 따로 주세요.﻿
+
+ 
+# ♣전화번호 주고 받을 때 쓸 수 있는 영어표현들♣
+ * - What's your phone number?
+ *   전화번호가 뭐예요?
+ *   *물론 이렇게 물을 수 있지만 
+ *     관심있는 대상한테는 좀 다짜고짜 묻는듯한 느낌이 있죠?
+ * 
+ * - What's your number?
+ *   번호가 뭐예요? 
+ *   *이미 전화번호를 주고 받아야하는 상황일 경우
+ * 
+ * - Would you mind if I ask your phone number?
+ *   전화번호가 뭔지 물어볼 수 있을까요???
+ * 
+ * - Would(Do) you mind if I do something?
+ *   *의례 정중한 표현이라고 하지만 그만큼 상대가 "NO"라고 할 수 있는 여지도 많이 주는 말이에요.
+ *  
+ * - Would(/Do) you mind if I do something?
+ *   *따라서 실제로는 내가 이미 "YES"라는 상황을 전제해놓고 묻는 질문이라면 굳이 Would(/Do) you~?를 쓰지 않아도 됩니다.
+ * 
+ * - Let's exchange phone numbers.
+ *   직역 : 전화번호 교환합시다.
+ *   의미 : 전화번호 서로 주고 받아요.
+ * 
+ * - Let's exchange (우리) phone numbers.
+ *   직역 : 우리(의) 전화번호 교환합시다.
+ * 
+ * - Let's exchange (our) phone numbers. (X)
+ *   직역 : 우리(의) 전화번호 교환합시다.
+ *   *"우리(의)"가 같이 소유한 번호가 아니기 때문
+ * 
+ * - Can I have your phone number?
+ *   직역 : 전화번호를 갖을 수 있을까요? 
+ *   의미 : 전화번호 좀 알 수 있을까요?
+ * 
+ * - Let you know my (phone)number.
+ *   (또는)
+ *   I'll let you know my number.
+ *   내 (전화)번호 알려줄게.
+ * 
+ * - 예) 교통사고시 바로 그 자리에서 상대 연락처를 서로 확인하고 저장해야할 때 필수표현이지요?
+ * 
+ * - I'll call you now.
+ *   내가 너한테 지금 바로 전화할게.
+ * 
+ * - Mine is XXX-XXXX.
+ *   (또는) 내 전화번호는 XXX-XXXX야.
+ * 
+ * - Can you call me now? 
+ *   지금 (바로) 나한테 걸어볼래?
+ * 
+ * - I'll call you now.
+ *   내가 지금 너한테 걸어볼게.
+ * 
+ * - You can save it on your phone and I can check yours??
+ *   그러면 너가 내 번호를 바로 저장할 수 있고, 나는 너 번호를 확인할 수 있어.
+ *   *틀린 문장도 아니고, 상황상 무슨 뜻으로 말하는지 이해할 수 있지만 check your number은 번호가 틀릴 수 있으니 맞추다(확인) 전제가 있어요.
+ *   *이 때 구체적인 상황과 포인트는 서로 번호를 "나도 갖고, 저장할 수 있다"
+ * 
+ * - You can save it on your phone and I can save yours.
+ *   *이 때 구체적인 상황과 포인트는 서로 번호를 "나도 갖고, 저장할 수 있다"
+ * 
+ * - You can save it on your phone and I can have yours.
+ *   *이 때 구체적인 상황과 포인트는 서로 번호를 "나도 갖고, 저장할 수 있다"
+ * 
+ * - You can save it on your phone and I can save yours too.
+ *   너도 내 번호 너 전화기에 저장할 수 있고
+ *   나도 너 번호 내 전화기에 저장할 수 있어.
+ * 
+ * - (직역) 그 번호(내 번호)를 너 전화에 찍어봐. 
+ *   *type A into B
+ *    A를 B에 찍어서(쳐서) 넣는 그림
+ * 
+ * - Type it into your phone. 
+ *   그 번호를 너 전화에 찍어.
+ * 
+ * - Type it into your phone and call me now.
+ *   (그거) 내 번호 너 전화기에 찍고 나한테 전화해봐.
+ * 
+ * - Type it into your phone and call me now.
+ *   Then I can save yours too.
+ *   (그거) 내 번호 너 전화기에 찍고 나한테 전화해봐.
+ *   그럼 나도 너 번호 저장할 수 있어.﻿
+ 
+
+
 # 크리스마스
  * wish 와 hope
  *   모두 같은 희망하다?? 소망하다??

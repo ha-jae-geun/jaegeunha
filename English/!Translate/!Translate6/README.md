@@ -1,3 +1,13 @@
+# LESSON #25 - 시간표현 PART 2
+* 언제 여기로 이사했어? When did you move here?
+* 7월에 이사했어; i moved here in July this year. 
+* 5개월 됐어; So, it's been about 5 months; 완료
+  * It is about 5 months: 5개월 정도야
+* 언제 일 시작했어? When did you start working?
+* 작년 11월에 시작했어; 1년 조금 넘었어요; I started working last year in November. So, it's been (a little, just) over a year
+* 언제 돌아왔어? When did you get back?
+* 거의 1년 정도 됐어; 올해 1월에 돌아왔어; It's been almost a year. I got back early this year in January 
+
 # 영어 연습가이드 #37 - PART 2 - 적당하다 / 적절하다 / 알맞다 + [ 영어 어휘를 효과적으로 공부하는 TIP ]
 * 이 정도면 적당해; THis is good enough
 * 적당히 해; Hey go easy / Hey take it easy / 
