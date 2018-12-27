@@ -2,6 +2,14 @@
 * (1) Overgrazing (지나친 방목 -35%); (2) Deforestation (삼림벌채 - 30%); (3) Over-cultivation (지나친 경작 - 28%); (4) Overexploitation of fuel wood (지나친 땔나무 사용 - 7%); (4) Bio-industrial activities (농약과 비료 사용 - 1%). 
 [출처] 사막화(desertification)의 반대말이 green이라?|작성자 약장수 버스터
 
+# (신)재생에너지
+* 영어로 Renewable energy라고 표현해서 신을 빼기도 한다.
+* 2018년 기준 태양열과 풍력이 대부분이다.
+
+# 태양광
+* 태양광 + ESS(energy storage system )
+	* 저장 시스템이 없으면 여름이 아니거나 태양이 많이 없을 때 전력을 얻기 힘들다
+
 # 지구 온난화
 ## 플라스틱
 ## 중국 환경오염 원인

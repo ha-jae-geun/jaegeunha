@@ -299,6 +299,8 @@
 * Well, it's hard to seal the deal. I hope the seminar pays off 
 * 혼전 계약을 하다 						 prí:nʌp sign a prenup
 * 가짜 계약서에 싸인했어 				 fóuni I signed a fake/bogus/phony/false contract.
+	* 구제, 이미테이션; knock off 는 [값을 인하하다, 가치를 떨어뜨리다, 카피하다]를 말합니다. 그래서 명사로 knockoff 는 [카피제품, 해적판, 모조품, 복제품]을 가리킵니다. She bought a knockoff of a designer suit.
+	* 일상 회화에서는 knockoff 와 counterfeit 는 혼용해서 쓸 수 있고 합법과 불법의 구별을 정확히 짓진 않습니다. 하지만 업계에서는 정의가 다르다고 하네요. 참고로 [모조품, 가짜]는 이외에도 fake, imitation 이라고도 합니다.
 * ##거래하다; do business with
 * #trade in
 * #거래액; #turnover

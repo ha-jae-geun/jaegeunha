@@ -5,6 +5,8 @@
 * 한국은 압수하면 국고로 들어간다.
 
 # 나쁜짓
+* 근절 * 그래서 stamp out은 어떤 것을 발로 꾹꾹 밟아 없애버린다는 어감을 갖고 있고 우리말로는 “근절하다, 박멸하다, 밟아 없애다” 등으로 해석됩니다. 
+  * 경찰은 이 지역에서 윤락행위를 근절하려고 노력했다.The police tried to stamp out prostitution in this area.
 * 세뇌; 많은 가정 폭력 피해자들은 자기 자신이 가치가 없다고 믿도록 일종의 세뇌를 당하기 때문에 폭력적인 배우자를 두고 떠나질 못한다.
   * ex) Many domestic violence victims don't leave their violent partners because they are basically brainwashed into thinking they are worthless. brainwash into: -을 하도록 세뇌시키다.
 * 잘못 짚었어; The cops are barking up the wrong tree

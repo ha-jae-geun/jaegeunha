@@ -1,4 +1,5 @@
 * 친구 Old/good sport, homies
+	* 2) '친구는 또 다른 나의 모습' 이라는 말 한번쯤 들어보셨나요? alter ego 는 '절친' 을 의미하기도 합니다.
 	* 어울리지 않은 친구; They are so; unlikely friends
 	* 2) 예를 들어, 같은 직장 내에서 몇 년간 함께 일하며 친해진 동료들이, 함께 즐겁게 놀고 어울리고 잡담하는 건 close relationship 이라고 볼 수 있지만, 그 보다 더 깊은 이야기를 터놓는다던지, 예민할 수 있는 주제를 신뢰를 기반으로 얘기한다든지 할 때는 rapport 라고 볼 수 있습니다.
 		* = 스티브는 정말 빠르게 그의 고객들과 친밀한 관계를 쌓는 놀라운 기술이 있어. Steve has such an amazing skill to build rapport with his clients very quickly.

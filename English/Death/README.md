@@ -22,6 +22,7 @@
 * Sign of struggle; 싸우거나 방어한 주변 흔적
 ------------
 * 죽여버리겠어; I'll tear you to pieces; tear - to pieces
+* 우리말에도 어떤 사람에 의해 죽었다고 할 때 ‘~의 손에 죽다’라고 하는 것처럼 영어에도 die at the hands of~면 “~의 손에 죽다”가 됩니다. die at someone’s hands도 같은 표현입니다.  The king died at the hands of an assassin.
 ------------
 * 안락사를 시켜야했어요; I have to put him to sleep
 * 아버지가 돌아가셨어요; i jsut lost my dad; my dad just died

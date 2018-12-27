@@ -28,6 +28,7 @@
 * 두 그릇으로 나눠 주세요; Could we have this in two plates
 
 # Ingredient
+* 강낭콩; kidney beans
 * 후추 한 꼬집을 넣었어; i put a pinch of pepper in her mouth
 * 과하게 -하지 말고; 스프링클 너무 많이 뿌리지 말고; Don't go nuts with the sprinkles
 * 과자; confectionery 미국식 [-ʃəneri]  영국식 [kənˈfekʃənəri]; 제과 공장; a confectionery plant 

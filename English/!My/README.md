@@ -30,6 +30,7 @@
 * 의심의 여지없이; Without question
 * 쉬운 용어로; In plain English
 * 돌이켜보면; In retrospect 미국·영국 [rétrəspèkt]
+  * * 과거를 회상할 때 굉장히 많이 쓰이는 표현인데요. 조금 더 캐주얼하고 말하고 싶을 땐 Looking back, 이라고 말할 수 있습니다.
 * -라는 것은 놀랍지 않네요; It's no surprise that
 * -게 함으로서; In doing so
 * 오히려 더 힘들어지죠; If anything, it gets harder
@@ -85,9 +86,11 @@
 * 그 말은 왜 하는거야? Where are you going with that? 2. 그것과 어디를 가는 중이야?
 
 # 대답
+* 1) 자신이 알고 있는 사실, 또는 의견을 얘기할 때 상대방이 기분 나빠할 수도 있는 경우 쓸 수 있는 말입니다.   2) 영상에서는 해당 유튜버가 개인적으로 좋아하는 "저스티스 리그 인터내셔널" 이라는 시리즈가 영화로 같이 나왔으면 좋겠다- 라는 의견을 말하며, 일부 시청자들이 동의하지 않을 수도 있기에 I'm just saying 을 붙였다고 볼 수 있습니다. 그냥 그렇다는 거지 
 * 1) Granted : 문장 전체를 꾸미는 부사로 쓰였어요. '인정해요, 사실이에요, 그래요' 라는 뜻으로, 하려는 말에 반대되는 어떤 지점을 짚어줄 때 쓸 수 있어요.
   * 인정해, 누구도 완벽할 순 없지. 근데 내가 하려는 말은 ~라는 거야. [ex] Granted, nobody's perfect, but my point here is that ~
 * 심리테스트나 퀴즈의 결과로 -가 나왔어; i got -
+* 네가 좋으면 됐지; You do you; 개취존중
 * 잠시만; Hang on
 * 그런가? You reckon?
 * 돌 던질만큼 가까운 거리; A stone's throw

@@ -11,6 +11,12 @@
  * attire; 옷을 얼마나 갖춰입었는지
    * formal attire, casual attire, business attire
 
+* 주어가 사람일 경우에는 ‘아첨하다, 아부하다’이지만, 영상처럼 옷이나 색깔 등이 오면 ‘(입은 사람을) 돋보이게 하다’라는 뜻이 됩니다.  
+  * = 노란색은 나한테 별로야. 내 어두운 피부색하고 어울리지 않아.  Yellow isn’t my color. It doesn’t flatter my dark skin.
+* 여성이 꽉 끼는 바지를 입을 때 가랑이 사이에 갈라지는 자국을 우리말 은어로 ‘도끼자국’이라고 하죠. 그에 해당하는 말이 a camel toe 입니다. 가운데가 갈라진 낙타의 발모양에 빗대는 거죠.  참고로 옷이 똥꼬에 끼는 것은 영어로 뭐라고 할까요? 바로, a wedgie 입니다. 쐐기(wedge)로 틈새에 박아버리는 것이 연상되네요! 
+  * = 그녀의 바지가 너무 꽉 껴서 도끼자국이 보였다. Her pants were so tight that I could see her camel toe.
+* 이 문장의 의미로 봐서는 soggy 보다는 saggy 에 가깝습니다. soggy 는 보통 불쾌한 느낌으로 사용되는 단어인데요, 물에 젖어 축 처진 모습을 연상해서 한 말일 수도 있지만, 보통 ‘축 쳐진 느낌의 바지’는 영어로 saggy pants/sagging pants 라고 부릅니다. 
+  * = 샌드위치는 눅눅했고 우유는 상해있었다. The sandwich was soggy and the milk was bad. soggy: [ˈsɑːɡi] saggy 미국식 [ˈsæɡi]
 * 이 옷 소화할 수 있을까? Do you think i can pull this off? 짧은머리 소화하다; pull off short hair
 * 잉크가 안 지워지지? Why isn't this ink coming off?
 * 패션 전문가; fashion guru; 자칭 패션 전분가; self-proclaimed fashion guru
@@ -283,6 +289,7 @@ are you afraid of heights? your zipper is
 * 오리털 점퍼	down jacket
 * 후드티	hoodie
 * 나 스타킹에 줄이 갔어	I have a run in my pantyhose [pǽntihòuz]
+  * 올이 나가면 어떡하지? What if i tear my tights?
 * #tights
 * 워커	boots
 * (운동 경기용) 셔츠 	[|dƷ3:rzi] jersey

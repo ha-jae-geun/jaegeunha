@@ -9,7 +9,7 @@
 * 잠시 틈을 두고 그 불이 사그라드게 두세요; let that fire die down, through a pause
 
 * 걱정을 누그러뜨랃; assuage;  [əˈsweɪdʒ]  +  걱정: worry, concern; 슬픔: grief, sadness
-* 기분 전화이 필요해; i need a diversion
+* 기분 전환이 필요해; i need a diversion
 * 나는 지금 기분이 약간 이상하다. I'm in a weird headspace right now. 
 * #감정
 * ☆~의 감정이 병존하는 #ambivalent; i'm so ambivalent about this; 못 정하겟다
@@ -30,10 +30,11 @@
 * 떠오르는, 남아있는 감정; hautning memory/melody; It haunts me everytime
 	* 죄책감; i was haunted by guilt
 -------------------------------------------------------------------------------------------------------------------
+* 눈치를 보다; There is a not rice limit for lunch, but always remember to be mindful when ordering; be mindful
 * #expose, #uncover, #reveal - 드러내다 
-* #reveal; it's just revealed to me
-* #unveil
-* 그 친구 자신의 감정을 드러내는 법이 없어.	 He's never been one to wear his heart on his sleever.
+	* #reveal; it's just revealed to me
+	* #unveil
+	* 그 친구 자신의 감정을 드러내는 법이 없어.	 He's never been one to wear his heart on his sleever.
 	* 꿋꿋한 모습을 보인다; keep a stiff upper lip; 윗입술을 움직이지 않는다. 감정을 얼굴로 표현하지 앟ㄴ는다.
 * ~를 ~adj하게 느끼다 								find someone adj
 * ##드러내다 #느끼다
@@ -720,14 +721,16 @@
 * #전조 #predictor = #bellwether
 * #bewildered [biwíldǝr]
 * 처음엔 정말 #당황스러웠다. 		 At first I was embrasssed/overwhelmed/alarmed
+	* 무언가를 이해할 수도, 왜 그런 건지 설명할 수도 없어서 당황스러울 때 쓰는 단어입니다. 비슷한 의미의 단어로 embarrass 가 있는데요. embarrass 는 '사람들이 많은 곳'에서 ''누군가의 행동 때문에 '부끄러워' 당황스러운 뉘앙스인 반면, baffle 은 혼자 있거나 다른 사람들과 함께 있거나 상관없이 '이해가 안 돼서' 당황스러운 것이라는 점에서 차이가 있습니다.
 	* 당황시키다 							Don't let them #faze you
-	* #baffle; i'm baffled
+	* #baffle; i'm baffled; i was baffled by the data
 	* #baffling text
 	* #당혹해 하다 #squirm(2. 꼼지락)
 	* #disconcerted
 	* #thrown; a little thrown
 	* 방황하지마; don't #panic
 	* 그녀를 전혀 당황시키지 않았어요; It didn't faze her at all
+* 난감한 상황에 있따; i'm in a sticky/hairy situation
 * 나 지금 수치스러워, 너 지금 굴욕감 주는거야 I feel humiliated, you’re humiliating him
 	* #ashamed, #embarrassed, #humiliated - 굴욕감을 느낀, 창피한 
 	* #mortify; #mortified
@@ -1227,33 +1230,33 @@
 	* 마음은 솔기 터지듯 찢어지고 있어; MY heart is breaking at the seams; fall/com aprt at the seams
 * #슬프다 #슬픈 #울다 #눈물 #우울하다
 * ☆it's a #damn/god damn shame; (비꼬기 가능)
-* 아쉽다 										I hate ~
-* That's a shame. ʃeɪm 
-* That's too bad. 
-* It's a bummer. 'bʌmə(r)] 실망 의미에 가까움
-* It's such a shame he had to leave so soon. 강조
-* It's a real shame he had to leave so soon. 강조+구어체
-* It's a shame you can stay in korea longer. There's still so much things to see.
-* It's a shame they couldn't stay for dinner.
-* It's a shame I told him how much I card about hime while he was still alive.
-* 부끄러운줄 알아!						 Shame on you. for doing something
-* Ms.Kim이 팀장 자리를 그만둘 때, 우리 모두는 안타까웠다.
-* When Ms.Kim quit her position as head manager it was a tough break for all of us.
-* ^^##sham; 사기; what a sham; ~ was a sham
-* #간발의 차이; she won #by a hair; it was a #photo finish(#대접전)
-* #안타깝다 #아쉽다 #shame #bummer
-* a bit/ a little/ a little bit / somewhat upset > so, very, really upset/sad/disapointed
+	* 아쉽다 										I hate ~
+	* That's a shame. ʃeɪm 
+	* That's too bad. 
+	* It's a bummer. 'bʌmə(r)] 실망 의미에 가까움
+	* It's such a shame he had to leave so soon. 강조
+	* It's a real shame he had to leave so soon. 강조+구어체
+	* It's a shame you can stay in korea longer. There's still so much things to see.
+	* It's a shame they couldn't stay for dinner.
+	* It's a shame I told him how much I card about hime while he was still alive.
+	* 부끄러운줄 알아!						 Shame on you. for doing something
+	* Ms.Kim이 팀장 자리를 그만둘 때, 우리 모두는 안타까웠다.
+	* When Ms.Kim quit her position as head manager it was a tough break for all of us.
+	* ^^##sham; 사기; what a sham; ~ was a sham
+	* #간발의 차이; she won #by a hair; it was a #photo finish(#대접전)
+	* #안타깝다 #아쉽다 #shame #bummer
+	* a bit/ a little/ a little bit / somewhat upset > so, very, really upset/sad/disapointed
 * #삐지다 #삐진: #salty; 화났다; she is salty
-* #섭섭; feel sorry that; it's #unfair; it's too bad 절; it's a shame that; what a shame, I was a little bit disappointed, was a little bit upset
-* 그가 부루퉁해서 자기 방으로 가 버렸다.				He went off to sulk in his room.
-* 조는 위층에서 부루퉁해 있었다.				 Jo was in a pupstairs.예문 발음듣기 
-* I'll go into a sulk". - Sulk, Yunjju is sulking
-* 입을 #삐죽 내밀다 #뾰루통한; #뾰로통한 #pouting = #sulk; silently sulking
-* ##sulk; sulky, sulky over/about; ~에 대해 #뚱해 있다. pout[sulk] almost in tears
-* #sulking to the masses; #별 것도 아닌 걸로 #난리치다
-* #passive-aggressive(#aggressive; 표현도 안하면서 방어적으로 뾰루퉁해있는
-* 섭섭하게 생각마; no hard feelings
-* ##섭섭 #서운
+	* #섭섭; feel sorry that; it's #unfair; it's too bad 절; it's a shame that; what a shame, I was a little bit disappointed, was a little bit upset
+	* 그가 부루퉁해서 자기 방으로 가 버렸다.				He went off to sulk in his room.
+	* 조는 위층에서 부루퉁해 있었다.				 Jo was in a pupstairs.예문 발음듣기 
+	* I'll go into a sulk". - Sulk, Yunjju is sulking
+	* 입을 #삐죽 내밀다 #뾰루통한; #뾰로통한 #pouting = #sulk; silently sulking
+	* ##sulk; sulky, sulky over/about; ~에 대해 #뚱해 있다. pout[sulk] almost in tears
+	* #sulking to the masses; #별 것도 아닌 걸로 #난리치다
+	* #passive-aggressive(#aggressive; 표현도 안하면서 방어적으로 뾰루퉁해있는
+	* 섭섭하게 생각마; no hard feelings
+	* ##섭섭 #서운
 * 극도로 화나게 만들다: #infuriate; Her silence infuriated him even more
 * #bent out of shape; get bent out of shape 
 * i'm so pissed up, Ugh, so annoying, upset, salty, sulk [sʌlk], pissed
@@ -1800,7 +1803,11 @@ I am always overlooked(간과), never discount the contributions, put someone do
 # 참다 
 # 인내
 * 더이상은 못참겠따; i've run out of patience
+* bottle up은 분노나 슬픔과 같이 부정적인 감정을 억누르고 참는 것을 뜻합니다. 그래서 우리 안에 있는 것(what’s inside us) 역시 내면에 억누르고 있던 부정적 감정을 의미한다고 볼 수 있습니다.
+	* 가끔 감정을 억누르는 것이 미덕으로 여겨지기도 한다.Sometimes bottling up one’s feelings is considered a virtue.
 
 # 오바
 # 유난
 * 유난 떨지좀 마; Don't be such a drama queen
+
+* 절망에 빠지다; It started to fall into disrepair

@@ -33,7 +33,7 @@
  * #페이스를 줄이다; #last pace
  * #속도 #엑셀 #밟다
  * 흘려 보내다 Let sth #slip by, slip by 흘러가다
- * 그냥 지나가는거야 it a phase
+ * 그냥 지나가는거야 it's a phase
  * 내가 너한테 하는 말하는 것들은 한쪽 귀로 듣고 다른 쪽으로 흘리는 거 같아.
  * Everything I say to you seems to go in one ear and out the other.
  * 흘러가는거에요~ 								Go with the flow!
@@ -55,7 +55,7 @@
  * #헷달 69#
  * 물집을 터뜨리는 것은 좋은 생각이 아니다 . ; I got a blister on my foot
  * b3:rst ‘blɪstə(r) It is not a good idea to burst a blister.
- * 가시 박혔어 I got a #silvver in my hand
+ * 가시 박혔어 I got a #splinter in my hand
  * #물집 ##가시
  * 그 뉴스 보도는 심하게 검열당한[가위질당한] 상태였다.
  * rɪ‘pɔ:rt ‘hevɪli ’sensə(r) The news reports had been heavily censored.

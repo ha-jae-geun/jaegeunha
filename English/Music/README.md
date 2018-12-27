@@ -7,6 +7,7 @@
 * 기타를 요리조리 현란하게 연주하다; shred up and down a guitar
 * 악기를 조금 다뤄보신 분들은 '튜닝'이라는 말에 익숙하실 텐데요. 튜닝은 연주하기 전 악기의 음을 제대로 맞추는 행위를 의미합니다. 비슷하게 무언가를 교정하고 조정하는 걸 tune 이라고 하는데, fine 은 [미세한, 정교한]이라는 뜻이 있으니 굉장히 세밀하게 교정하는 걸 fine tune 이라고 합니다.
 	* = 모든 요구 사항을 충족시키기 위해선 절차가 좀 더 정교하게 다듬어져야 해. The procedure needs to be fine tuned to meet every requirement.
+* (하나의 주제가 되는 선율을 바탕으로 리듬, 화성 등을 변형해 나가는 기악곡을 ‘변주곡’이라고 하고 이 역시 variations on a theme of 로 표현합니다) We will play variations on a theme of Chopin.
 
 # 기타
 * 대중 음악에서 후렴부를 복잡하게 쓰면 사람들은 싫어한다. People complain about complicated refrain/Chorus in popular music.

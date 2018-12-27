@@ -2,6 +2,10 @@
 ## 홀로코스트
 
 # 기타
+* 2) be stigmatized : 명사 stigma는 ‘오명, 낙인’이란 뜻으로 그것의 동사 stigmatize는 ‘(남을) 오명/낙인을 씌우다입’니다. 여기서는 영웅들이 낙인을 찍힌 기분이라는 뜻으로 역시 수동형 be stigmatized로 표현되었습니다. He was stigmatized as a traitor.
+* 3) be othered : other에 동사 뜻도 있는거 아시나요? 동사 other는 “타자화하다, 이질적으로 대하다”입니다. 자신이 속한 그룹과는 다른 문화나 특질을 갖고 있을 때 그것을 배척한다는 것이죠.
+  * 성소수자들은 종종 사회에서 이질적인 취급을 받는다. Sexual minorities are often othered by society.
+* 동성애자는 가장 캐주얼한 표현으로는 gay 라고 하는데, 남성 뿐만 아니라 여성도 gay woman 이라고 합니다. 물론 여성 동성애자 분들은 lesbian 이라는 단어를 더 선호하고, 조금 더 격식 있는 단어는 homosexual 이고요.
 * 1) underdog은 ‘사회적 지위가 낮은 사람, 약자’를 의미합니다. 
 * 똑똑한 척 하는; fancy-pants(값비싼 바지) fancy-pants tool; 형용사 2. 멋쟁이; 
 	* 허풍을 떨다; He's kind of larger than life
@@ -9,6 +13,7 @@
 	* 잘난 척 하긴; SHow off
 	* 허풍 떨지말고; Don't brag about it; She keeps bragging about her car
 	* 그 사람은 이길 때 잘난척이 심해져; He gets a bit cocky when he's winning
+	* 원래는 [정사각형] 을 의미하는 단어인데요. 정사각형은 가로 세로의 길이도 같고 각도도 같아 조금은 지루한 도형일 수가 있습니다. 그런 모습을 생각하시면 기억하기 쉬운 단어인데요. 사람도 바뀌지 않고 예전 방식 그대로를 고수하고 고지식하고 지루한 사람을 비격식 표현으로 square 라고 합니다.
 * 평범한 건 원하지 않아요; We don't want the standard
 * 추종자들이 있는 권위자, 전문가; guru; 흰두교에서는 종교적 스승, 지도자   expert: 사람들의 전중ㅇㄹ 받는 전문가
 * 그는 독보적이다; He's a one of a kind
@@ -47,6 +52,14 @@
 	* 바보; silly
 	* 입 다물어 이자식아; Just cool it, zippy
 	* 교육을 덜 받고 외모도 이상하게 하고 다니며 시골에 사는 촌놈, 촌뜨기라는 의미의 단어입니다. 당연히 약간의 경멸적인 뉘앙스를 가져요.; yokel ˈjoʊkl] 
+	* 다른 사람의 비웃음을 받는) 얼간이 dork 
+	* 괴짜: geek
+	* 고스 음악 애호가(검은 옷을 입고, 흰색과 검은색으로 화장을 함) make-up; goth
+	*  (ˌpunk ˈrocker) 펑크록 애호가(펑크 음악을 좋아하고 펑크 음악 연주자들 같은 복장을 하고 다니는 사람)
+	* ((pl. -ies)) (美, 비격식) (전형적으로) 비싼 사립학교 학생[졸업자] 같은 청소년[청년] preppy
+	* 여피족(도시에 사는 젊고 세련된 고소득 전문직 종사자) yuppie
+	* 착한 체하는 사람 goody-goody
+	* 최신 정보통, 박식한 사람 hipster
 * 동등한 위치에 있는 상대;ㄼ counterpart; They make around 10 times more than their counterparts
 * 사교적인 사람; social butterfly; 2) [사교계 명사, 사교계에서 잘 알려진 사람]을 socialite 라고 합니다.
 	* 날씨 좋을때만 친구가 되려는 사람; fair-weather friend

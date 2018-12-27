@@ -48,7 +48,8 @@
 * 최애를 뽑은 개 아니에요; i'm not picking favorites; play favorites: 편애하다
 
 # 영화
-	* flick: (비격식) 영화 2. chick flick: 여자들 취향의 영햐; 주로 로맨스/로맨틱 코미디
+* 드라마, 영화 대본은 상황에 맞는 최적의 표현을 사용하기 위해 수차례 어학 전문가의 수정을 거쳐 만들어진다.
+* flick: (비격식) 영화 2. chick flick: 여자들 취향의 영햐; 주로 로맨스/로맨틱 코미디
 * 1) 서사 영화(epic film)란, 주로 스케일이 크고, 인간 드라마를 그리는 것에 중점을 둔 영화 장르입니다. ‘반지의 제왕’, ‘글레디 에이터’, ‘레 미제라블’ 등과 같이 역사적 사건이나 영웅 이야기, 신화 등을 주로 다룹니다.
 * cutting room 은 [편집실] 을 의미해요. 지금이야 영화를 촬영한 후에 컴퓨터로 편집을 하지만, 옛날에는 필름을 자르고 붙여서 편집을 했거든요. 그래서 잘린 부분들이 편집실 바닥에 내팽겨지는 모습에서 나온 표현입니다. 주로 영화 관련 대화에서 많이 쓰이지만, 꼭 영화가 아니더라도 [포함되지 않은/생략된] 으로 해석이 됩니다. 영상에서는 [두 사람에 대한 많은 부분이 생략되었다] = [빈틈이 많았다] 로 해석이 되었습니다.
 	* 내 생각엔 영화의 많은 부분이 포함되지 않은 것 같아. 이야기 이해하는데 어려움을 겪었어. ex) I think a lot of parts were left on the cutting room floor. I had a hard time following the story.
@@ -88,6 +89,7 @@
 * 조연 역할을 따냈죠; Emma scored the supporting role
 	* 어떤 배우에게 비슷한 유형의 고정 배역을 주는 것; typecast; we might get typecast
 * 백인만 캐스팅하는 것에 대한 이유가; Justiification for white washing is that like
+* 호평을 받은 ex) Our new application has been well received in the market.
 
 # Entertainment
 * #감식가: #connoisseur[|kɑ:nə|s3:r;-|sʊr] 

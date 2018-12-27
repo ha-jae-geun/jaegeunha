@@ -1,5 +1,93 @@
+* boil 은 [끓이다]라는 뜻이 있는데, boil down 은 양이 줄어들게(down) 끓이는, 즉, [졸이다]라는 뜻이 있어요. 냄비 한가득 있던 무언가를 졸이면 물은 다 증발해버리고, 핵심이 되는 무언가만 남게 되는 모습에서 쓰이는 표현입니다.
+  * = 그 사건은 배심원단이 그를 믿는지 안 믿는지가 관건이야. The case will boil down to whether the jury believes him or not.
+* * beat the crap/shit out of   직역하면 [의 몸 밖으로  x 이 나올 때까지 때리다]이기에 엄청 심하게 때리는 것을 의미합니다. beat 대신 kick 을 쓰기도 해요.
+* formal 이라는 형용사에서 나온 formality 는 [형식상 절차]라는 의미로도 쓰이는데요. 에티켓이나 전통적인 방식을 철저히 따르는 것을 말해요. 형용사인 formal 이 조금 더 많이 쓰이는 경향이 있으니, formal 의 반의어도 함께 알아두시면 좋습니다.
+  * = 그는 사람들이 격식을 차리지 않고 그를 대할 때면 화를 내. He sometimes gets angry if people treat him without formality.
+  * casual = 격식을 차리지 않은, 평상시의 informal = 격식에 얽매이지 않은, 편안한
+* come into play = 작용하다, 영향을 미치다 특정한 상황에서 어떤 요소가 들어와서(come into) 활동하기(play) 시작하여 영향을 미치는 것을 의미합니다.
 * 게임을 지배하려면 능력이 있어야 하는데요. 일반적인 능력, 재능, 기술을 갖추고 있을 때 또는 스포츠 경기를 잘할 때 쓰는 비격식 표현입니다. 영상의 대사를 직역하면 [제대로 된 능력을 갖추면 돌아와라]인데요. 조금 의역하여 해석되었습니다.
   * = 쟤 움직임 좀 봐. 제대로 된 능력을 가졌어. Look at his moves. He got real game.
+* * variations on the theme (of 명사) = ~의 다양하고 독특한 방법들 목적이나 목표 등은 동일한데, 그것을 행하는 방식이 독특하고 다양할 때 쓰는 표현입니다. 몸, 지느러미, 꼬리로 이루어진 어류는 생존이라는 공통된 목적을 갖고 있지만, 각기 다른 서식지에 맞춰서 변화했다는 것이 이번 영상의 주제입니다.
+  * 이 이야기들은 모두 사랑과 결혼이라는 공통된 주제를 다양하게 엮은 것들이다. The stories are all about variations on the theme of love and marriage.
+* * play a stabilizing and steering role = 균형을 잡아주고 방향을 조종하는 역할을 하다
+  * SNS는 요새 우리의 삶에 큰 역할을 한다. Social media plays a big role in our lives today.
+* 3) fall into (group/part/category) 는 ‘~에 포함되다, 속하다’ 입니다. 만약 groups, parts, categories 처럼 복수로 명사가 오면 ‘-로 나뉘다’로 해석합니다.
+  * 100명 중에 단지 15명의 학생들만 이 그룹에 속한다. Out of 100, only 15 students fall into this group.
+  * 사실 문제는 두 부류로 나뉘어져.  The problems actually fall into two categories.
+* * cast out = 몰아내다, 없애다 cast 는 기본적으로 [던지다]라는 뜻을 가지고 있어요. 감독이 배우를 캐스팅하는 것도 배역을 던져주는 것이고, 또한 투표를 할 때 표를 던지는 것도 cast 라고 합니다.  여기에 out 이 붙어서 밖으로 던져 없애는 모습의 단어인데요. 자신이 좋아하지 않거나 필요 없는 것, 또는 가지고 있다가 책임질 상황이 싫어서 없애는 것을 의미합니다.
+  * = 그녀는 심각한 위법 행위로 인해 이사회에 의해 쫓겨났다. She was cast out by the board because of a serious misconduct.
+* 제품의 사이즈나 색상에 대해 이야기할 때 쓸 수 있는 표현입니다. 특히 옷 살 때 가장 많이 쓰는 것 같은데요. 다른 색상이나 사이즈를 요청할 때 Does it come in ~ size/~color? 라고 간단히 물어보면 됩니다.
+* whammy 는 [재수 없는 일]을 의미하는데 보통 영상에서처럼 a double whammy 로 또는 [삼중고]를 의미하는 a triple whammy 로 쓰는 경우가 많아요. 영상에서는 질병을 쫓아내기 위해서도 항상 써야 하고, 전투 중에도 써야 하기 때문에 이중으로 성가신 일이어서 이 표현을 쓴 것처럼 보입니다.
+  * = 그 일이 일어난다면, 삼중고가 될 거야.If that happens, it would be a triple whammy. [ˈwæmi]
+* 말 그대로 사람들이 일반적이고 전통적이라고 생각하는 개념, 태도, 활동 등을 의미하는 단어로, 명사/형용사로 사용될 수 있어요.  '비주류'를 뜻하는 단어는 fringe 입니다.
+  * = 주류 미디어들은 최근의 개정에 부정적인 태도를 보여왔습니다. The mainstream media have shown negative attitudes to the recent reform.
+  * fringe: 눈썹 위까지 내려오게 자른 앞머리 
+    * 그 도시의 북부 지역 변두리 on the northern fringe of the city 
+    * 부가 혜택에는 무료 의료 보험이 포함된다. The fringe benefits include free health insurance. 
+* = 편집자는 두 개의 글을 합쳤다.The editor conflated the two texts.
+* 쉽게 말하면 [마음대로 하지 못하게 제한하다]라는 의미로 [단련하다, 훈육하다, 절제시키다, 징계하다]등으로 해석합니다. 모두 멋대로 행동하지 않고 한계점을 둔다는 의미가 내포되어 있죠.  여기서 말하는 discipline the price 도, 가격을 특정 범위내로 제한한다는 뜻입니다. 
+  * = 그녀는 규율을 어겨서 징계받았다. She was disciplined for breaking rules.
+* 약간의 수정이나 변경을 거쳐 상태를 더 좋게 만드는 것을 tweak 라고 합니다. 명사형과 동사형, 둘 다 쓸 수 있습니다. 
+  * = 그들이 살짝 만져주니까 이렇게나 훨씬 좋아지지. They give it a little tweak and it's that much better.
+* 미리 생각해서 세심하게 잘 준비해 놓은 것이 아니라 나중에 생각이 들어서 급하게 추가한 것을 의미하는 명사입니다.  영상에서는 앞 장면에서 갑작스럽게 엑스맨의 개봉일이 미뤄졌다는 내용을 의미하는데요. 개봉일을 미루기로 한 결정이 예전부터 미루려고 했던 것이 아니라, 마블 영화들이 너무 잘 되다 보니 엑스맨이 설자리가 없게 되고, 그러면서 갑작스럽게 미루게 된 상황이라 이 단어를 썼다고 볼 수 있습니다.
+  * 내 생각에 그녀는 그냥 갑자기 생각이 들어서 나한테 파티에 오라고 한 것 같아. ex) I think she just asked me to join the party as an afterthought.
+* justice 는 [정의/타당성/정당성] 등을 나타내며 한 쪽으로 치우치지 않는 것을 의미하는 단어인데요. do justice 라는 표현은 원래의 무언가를 너무 이상하게도, 또는 너무 과장되지도 않게 제대로 표현할 때 쓰는 말입니다. 원어민들이 정말 많이 쓰고 유용한 표현이에요. 주로 부정문으로 많이 쓰여 실물이 더 낫다는 걸 강조해 줍니다.
+  * 사진이 너무 못 나왔다. / 실물이 훨씬 낫다. ex) This picture doesn't do him justice.
+* 어렵고 복잡한 일에 너무 개입이 되어서 다른 걸 할 엄두도 못 내고 발목 잡힌 상황을 의미할 때 쓰는 표현입니다. bog 가 명사로 [늪지] 라는 뜻도 있거든요! 한 번 빠지면 못 나오는 거죠 ㅎㅎ 실제로 늪 등에 [빠뜨리다] 라는 뜻으로도 쓰입니다.
+  * 세부 사항들에 발목 잡혀선 안 돼. ex) We shouldn't get bogged down in details.
+* 철저한 조사나 감시를 scrutiny 라고 합니다. 영상에서는 배우가 대중의 감시를 받듯이 과도한 관심을 받을 수 있기에 이 표현을 썼고, [극심한,강렬한] 이라는 뜻의 intense 와 함께 써서 강조해 주었습니다.
+  * 그 사건 이후로 심하게 감시받고 있어. 엄마는 내가 너희들이랑 거기에 가도록 절대 허락하지 않을 거야.  ex) I've been under close scrutiny since the incident. My mom will never allow me to go there with you guys.
+* 갑자기 화제를 바꾸어 이야기가 옆길로 샐 때 쓰는 표현입니다. tangent 가 무언가와 접하게 되는 선을 의미하는데요. 거기서 벗어난 (go off) 뉘앙스의 표현입니다. 영상에서는 [약간 울버린 때문에 이야기가 샜다] 라는 의미로 a little Wolverine tangent 라고 썼어요. 직역하면 [약간의 울버린 이야기로 옆길로 새는 것에 저항할 수 없었다] 정도로 해석이 됩니다.
+  * 얘들아. 주제에 집중하자. 정치 얘기로 딴 소리 좀 하지 마. ex) Guys. Let's focus on the topic. Stop going off on a political tangent.  [ˈtændʒənt]: 옆길로 세다; fly/go off at a tangent 
+* 목적어 없이 자동사로 쓰일 때는 [~이 마모되다, 닳아 헤지다], 그리고 2) 목적어와 함께 쓰일 때는 무언가를 많이 써서 [닳게 하다/마모시키다] 라는 의미를 가져요. 영상에서처럼 사람을 목적어로 가질 때에는 그 사람을 정말 [지치게 하다/소모시키다] 라는 의미를 가집니다.
+  * 그 일 후에 완전히 녹초가 된 기분이야. ex) I feel completely worn out after the incident.
+* 한 단어씩 살펴보면 awe 는 [경외심] inspire 는 감정 등을 [고취시키다] 라는 의미를 가집니다. 직역하면 [경외심을 고취시키는] 정도의 의미인데요. 무언가 인상적이고 장엄한 것을 볼 때 쓰는 표현이에요. 영상에서는 [꽤나 놀라운] 으로 해석이 되었습니다.
+  * 나이아가라 폭포는 경외심을 불러일으키는 곳이야.ex) Niagara Falls is such an awe-inspiring sight.
+* 앞으로의 계획을 짜는 데 있어서 중요하다고 여기는 것을 고려하고 준비할 때 쓰는 표현입니다. 영상에서는 [경험하다] 정도로 의역이 되었습니다. to be reckoned with 라고 명사 뒤에 붙어서 많이 쓰이는데요. [무시할 수 없는 ~] 이라는 의미를 가집니다.
+  * 이 결과는 감안하지 못했어. ex) I didn't reckon with this consequence.
+* commit A to B 라는 패턴이 [A를 B에 헌신하다] 라는 의미로 쓰이는데요. committed 는 [헌신적인/열성적인] 이라는 의미를 갖습니다.
+  * 넌 목표에 꾸준히 집중해야 해.ex) You should stay committed to the goal.
+* 이렇게, 어떤 수치를 말했는데, 듣는 사람이 그 수치가 적은 편인지, 큰 편인지 감이 안 올 것 같을 때! to put things in perspective라 말하고, 들으면 "아~" 할 수 있는 비교군을 말한답니다. perspective는 '관점'이라는 뜻도 있지만 '원근법'이라는 뜻도 있는데, 좀 더 멀리서 보면 전체 그림이 보인다는 의미에서 쓰는 표현이 아닐까 합니다! 이런 정보성 컨텐츠에서 자주 쓰이는 표현이니 알아두시면 좋겠죠?
+  * 아이슬란드는 인구가 대략 33만이야. 그게 대략 어느 정도냐면, 원주시 인구가 34만 정도래.ex) Iceland has a population of about 330 thousand. To put that into perspective, Wonju City has a population of about 340 thousand.
+* 카드 게임 포커에는 총 네 가지의 문양이 있습니다. 하트, 클럽, 다이아몬드, 스페이드. 예를 들어 7이라는 숫자를 가진 카드가 총 4장이 있는 거죠. 그래서 그 4장으로 이뤄진 한 세트를 suit 라고 하는데요. follow suit 는 앞 사람이 낸 카드의 패의 숫자를 그다음 사람이 그대로 따라 내는 것을 의미합니다. 그런 모습에서 따온 의미로 follow suit 는 남이 한 것을 그대로 [따라 하다] 라는 의미를 가지는데요. 영상에서는 [본받다] 라고 해석이 되었어요.
+  * 내 생각에 우리가 그걸 먼저 하면, 다른 애들도 따라올 것 같아. ex) I think if we do it first, others will follow suit.
+* 어떤 요소가 그 효과를 나타내는 것을 의미하며, 영상을 직역하면 [제 생각엔 작동 중인 더 깊은 무언가가 있었던 것 같아요] 입니다.
+  * 우리가 볼 수 없는 많은 요인들이 작용 중이었던 게 분명해. ex) There must've been so many other invisible factors at play.
+* play out은 “(일이) 펼쳐지다, 진행되다, 발생하다” 입니다. 그리고 before는 ‘~의 전’ 뿐만 아니라 위치적으로 ‘~의 앞’도 의미하기 때문에 ‘눈 앞에서’는 before eyes가 됩니다. 혹은 in front of one’s eyes 도 같은 의미입니다.
+  * I couldn’t believe what was playing out right before my eyes.
+* 건물 등과 같은 것을 붕괴시키거나, 어떤 사물을 떨어뜨리는 것을 bring down이라고 합니다. 여기서는 "히틀러의 파시즘과 대학살이 끝을 맺게 되다, 종식되다" 등으로 해석됩니다.
+  * 그 지진은 많은 건물을 붕괴시켰다. The earthquake brought down many buildings.
+* ㅍhinge는 낮설지만 우리말로 ‘경첩’이라고 합니다. 여닫이문을 달 때 한쪽은 문틀에, 다른 한쪽은 문짝에 고정하는데 쓰는 철물을 뜻하지요. unhinged는 이 경첩이 잘 달리지 않았다는 것으로 의미를 확장하면 “(사물의 모습이) 불안정한, 흐트러진 / (정서적으로) 아픈, 미친”을 나타냅니다. 경첩이 잘 달리지 않아 불안정하고 삐뚠 모습의 문을 빗대어 표현하는 것이죠. 
+  * 나는 가끔 걔네 엄마는 조금 정신적으로 이상하다고 생각이 들어. I sometimes think that his mother is a little unhinged.
+* cutting edge 는 칼날 부분을 의미하는 단어에요. 무언가를 자를 때 칼날이 자르는 면과 닿는 '선두' 이기 때문에, 남들보다 앞서 나가는 뉘앙스의 [최첨단의] 이라는 의미로도 쓰입니다. 영상에서는 형용사로 쓰였고, 명사로 쓰이기도 하는데요. at the cutting edge of 이라는 패턴으로 [~의 최첨단에 있는, 최일선에 있는] 의 의미를 가집니다.
+  * 저희 연구소는 줄기 세포 연구의 최일선에 있습니다. ex) Our lab is at the cutting edge of stem cell technology.
+* 자기에게 이득이 되도록 무언가를 이용하는 것을 의미하는 표현인데요. 이 표현은 전화기를 도청할 때 회선에 끼우는 tap 으로부터 온 표현이에요. tap 을 끼우게 되면 도청이 가능해지고, 그렇게 얻은 정보를 자신의 상황에 유리하게 쓸 수 있게된 모습으로부터 나온 표현이랍니다.
+  * 정치인들은 종종 그들의 라이벌을 공격하고 더 많은 표를 얻기 위해 루머와 스캔들을 이용합니다.ex) Politicians often tap into rumors and scandals to attack their rivals and get more votes.
+* 어려운 상황을 해결하기 위해서 특정 방법에 의존하는 것을 의미하는데요. 그 방법이 최고라서 선택하는 것이 아니라, 원치 않는 방법일지라도 마땅한 대안이 없어서 선택하는 상황에서 쓸 수 있는 표현이에요!
+  * 저번 주엔 수면제에 기댈 수 밖에 없었어. ex) I had to resort to sleeping pills last week.
+* 무언가에 공격을 받거나, 죽임을 당할 경우에도 쓰고, 어떤 상황에 의해 굉장히 안좋은 영향을 받는 경우에 쓰는 표현이에요.
+  * 어느 누구도 학교 범죄의 희생양이 되지 않게 하겠어.ex) I'm not going to let anyone fall victim to a school crime.
+* 센스가 [감] 이라는 뜻이니 어렵지 않은 표현이에요. 다만 이 표현 자체가 익숙하지 않을 수도 있기 때문에 꼭 2-3 단계 하시면서 익히시길 바래요.
+  * 아.. 이제야 전체 컨셉에 대한 감이 좀 오네요. ex) Oh.. Now I'm starting to get a sense of the whole concept.
+* 학대 animal abuse = 동물 학대  child abuse = 아동 학대 physical abuse = 신체적 학대 verbal abuse = 언어 폭력 sexual abuse = 성폭행
+  * 동사; physically abuse = 신체적 학대를 가하다 sexually abuse = 성폭행하다
+  * 2) [학대] 뿐만이 아니라, [남용, 오용(하다)] 라는 의미로도 많이 쓰이는 단어입니다.
+    * 사적인 이익을 위해 권력 남용을 하지 마시오. ex) Don't abuse your power for your personal benefit.
+* 정확히 무엇인지는 모르겠지만 이상한 기분이 들고, 왜 그런 기분이 드는지 정확히 설명하지 못할 때가 가끔 있으시죠? 그런 상태를 설명하는 단어 uncanny 입니다. 그래서 종종 [초자연적인, 초인적인] 이라는 의미로 쓰이기도 한답니다. 부사의 형태인 uncannily 도 [신기하게도, 신비하게도, 묘하게도] 라는 의미로 많이 쓰인답니다.
+  * 당신이 절 설득하는 방법이 묘하네요. ex) The way you convince me is uncanny.
+* 소오름 ㅎㅎ 돋게 하는 걸 creep out 이라고 해요. creep 이라는 단어는 [살살 기다] 라는 뜻이 있는데요. 벌레가 피부 위에서 살살 기어다니면 오싹하고, 소름 돋는 느낌이 들잖아요? 그런 모습에서 비격식 표현으로 쓰이는 단어이고요. 형용사인 creepy [소름 돋는 굉장히 많이 쓰이기 때문에 함께 알아두세요~
+  * 그 남자의 모습이 방 안에 있던 모든 사람들을 소름 돋게 했다. ex) The guy's look crept out everyone in the room.
+* 여성분들은 아마 이 단어를 쉽게 아실지도 모르겠어요! 화장품 중에 컨실러 (concealer) 라고 있는데, 피부에 난 여드름, 주근깨, 기미 등의 결점 등을 숨기기 위해 쓰거든요. hide 와 거의 같은 단어이지만, conceal 이 조금 더 격식있는 단어이며, 의도치 않게 무언가가 숨겨질 때는 hide 를 쓸 수 있지만, conceal 은 무언가를 '의도적으로' 숨기는 뉘앙스가 강한 단어입니다. 컨실러처럼요.
+  * 직장에선 우리의 관계를 숨길 수 밖에 없었어.ex) We had no choice but to conceal our relationship in the office.
+* 1) 영상에서처럼 정신병의 일종으로 자아가 많은 것과 또한 평소의 모습과 다르게 행동하는 자신의 모습을 나타낼 때도 alter ego 라는 말을 씁니다. 예를 들어, 배트맨에게는 브루스 웨인, 슈퍼맨에겐 클라크 켄트가 alter ego 가 되겠죠.
+  * 2) '친구는 또 다른 나의 모습' 이라는 말 한번쯤 들어보셨나요? alter ego 는 '절친' 을 의미하기도 합니다.
+* Lather, rinse, repeat 을 직역하면 [비누 거품을 내고, 헹구고, 반복] 이라는 의미로, 비누 거품을 내고 헹구고 내고 헹구고 하면 끝이 안나는 모습에서 나온 표현으로 어떤 행동이나 과정이 계속 반복되거나, 반복 되어야 할 때 쓰는 비격식 표현입니다.
+  * 걔는 항상 여자를 사귀면, 한 달 안에 헤어지고, 다른 여자를 만나. 항상 반복이야! ex) He always starts dating a girl, breaks up within a month, and meets another girl. Lather, rinse, repeat!
+* whip 이 계란이나 거품을 내기 위해서 빠르게 [휘젓다] 를 의미하는데요. 그렇게 휙휙 휘저어서 무언가를 만들어내는 모습의 비격식 표현이에요. 특히나 식사 같은 것을 빨리 만들어 낼 때 자주 쓰이는 단어입니다. 1) whip up something / whip something up = ~을 만들다.
+  * 토스트랑 계란 금방 만들어 줄게. ex) I will whip up some toast and egg for you.
+* 기타를 치기 전에 기타 줄을 맞추는 것을 '튜닝' 이라고 하는데요. 이렇게 무언가를 서로 잘 맞추는 것을 tune 이라고 합니다. 반의어로는 out of tune 이라고 표현할 수 있어요.
+  * 그 제안은 여론과 정말로 일치합니다.ex) The proposals are so in tune with public opinion.
+* brutally honest 를 직역하면 [잔인하게 솔직한] 정도로 해석이 되는데요. 누군가 듣기에 잔인할 정도로 상대방의 감정을 배려하는 것 없이 솔직한, 즉 팩트 폭격을 날릴 때 쓰는 표현이에요. 기본적이며 가장 흔하게 쓰이는 관련 표현으로는 to be honest with you 또는 honestly = [솔직히 말하면] 이 있으니 함께 알아두세요.
 * -에 가까워지다; gain on; They're gaining on us
 * 여기서 boy 는 감탄사로 쓰였습니다. 앞일을 모른다는 것을 매우 강조하는 것이죠. 만약 자연스럽게 쓰지 못할 것 같으시다면 듣고 이해만 하셔도 됩니다. 
   * = 아이고 이런! / 우와!  Oh, boy!
@@ -35,6 +123,9 @@
 * 그건 당신에게 고관들과 어울릴 수 있는 기회가 될 겁니다. It ' ll give you a chance to rub elbow with high -rankers. 
 * 좋아하는 스포츠 경기를 보거나 취미 생활을 하다 보면 시간 가는 줄 모를 때가 있죠? pastime은 '(시간을) 보내다'를 뜻하는 pass와 '시간'을 뜻하는 time이 합쳐진 단어에요. '취미,' '오락' 등을 의미해요. 
   * 미국 국민 오락이잖아; It's the American pastime
+* 이름 알 수 있을까요? Can i get a name? Can i get a name for your order?
+* 말은 쉽게 할 수 있겠지만 실지로 행동으로 보여 줄 수도 있니? You can talk the talk but can you walk the walk? walk: 행동
+* 난감한 상황에 있다; i'm in a sticky/hairy situation
 * 1. ~을 알아차리다, 이해하다 아이들은 부모들 사이의 갈등을 금방 알아차립니다.
   * [ex] Children soon pick up on tensions between their parents.
   * 2. (특정 논점 등) -으로 되돌아가다 당신이 좀전에 제기하신 문제로 잠깐 되돌아갈 수 있을까요.

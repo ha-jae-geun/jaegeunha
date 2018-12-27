@@ -3,6 +3,8 @@
 The best-selling classic of politics is Machiavelli's monarchy.
 
 # 정책
+* fascism (파시즘) : 1차 세계 대전 후에 나타난 극단적인 전체주의적, 배외적 정치 이념을 뜻합니다. 
+	* genocide (인종대학살) : 특정 인종을 집단 살해하는 것으로 히틀러의 경우는 수 많은 유대인을 학살하였습니다.
 * 역할을 맞다; You took on a role/task
 * imperialism; 제국주의자 an imperialist;  in on imperialism
 * capitalism; 자본주의는 이윤 추구를 목표로 한다; Capitalism aims at[focuses on] making profits.
@@ -11,6 +13,10 @@ The best-selling classic of politics is Machiavelli's monarchy.
 * 폭정에 시달리다; suffer from tyranny ; [ˈtɪrəni; despotism, tyrannical[despotic, oppressive] rule; tyrannize over a country
 * #공포정치; #reign of terror; [reɪn]
 	* 의회 군주제라는 정책 the doctrine of parliamentary sovereignty 
+* 분리정책; 인종, 종교, 성별에 따라 사람들을 차별적으로 나누는 것을 segregate이라고 하고 segregation은 그것의 명사로서 ‘분리, 분리정책’을 뜻합니다. 그리고 여기서는 동사 impose를 썼는데, ‘법률, 정책 등을 시행하다’입니다.
+	* 그들은 백인과 흑인들 사이의 강력한 분리정책을 시행하였다. They imposed strict segregation between white and black people.
+* 건물 등과 같은 것을 붕괴시키거나, 어떤 사물을 떨어뜨리는 것을 bring down이라고 합니다. 여기서는 "히틀러의 파시즘과 대학살이 끝을 맺게 되다, 종식되다" 등으로 해석됩니다.
+	* 그 지진은 많은 건물을 붕괴시켰다. The earthquake brought down many buildings.
 
 ## Election
 * win the election

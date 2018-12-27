@@ -324,8 +324,9 @@ how dare you say such a thing #to my face
 	* 뺩을 치다; The wind is slapping my face = The wind is slapping me in the face
 	* SHe slapped him = She slapped him in the face = She gave him a slap in the face
 * 그녀는 #콧날이 오똑하다 	She has a sharp nose.
-* 코딱지	booger, boogie
-* 코를 후비다	pick one's nose 
+	* 코딱지	booger, boogie
+	* 코를 후비다	pick one's nose 
+	* [명사] 부비강(두개골 속의, 코 안쪽으로 이어지는 구멍) 막힌 부비강 blocked sinuses 
 * #보조개	dimple [‘dɪmpl]; have nice dimple
 * 팔자주름	smile lines, i've got smile lines
 * 두꺼운 #입술 ##입 fuller lips full lips
@@ -506,6 +507,7 @@ build your core muscles
 	* 뱃살 속어 got my dad bod
 	* 축 처진 뱃살; #flabby gut
 	* #군살; his body has no #flab
+		* = 그녀는 군살을 운동으로 태워 없애려고 노력중이다.  She’s trying to burn off extra fat/flab. 
 	* 너 여기 비곗덩어리 있어; YOu got some fat rolls right here
 * #허리 waist [weɪst]
 	* #허리 둘레; #waistline 늘어나는 an expanding wisteline
