@@ -173,6 +173,7 @@
 * #avenue: street 보다 더 큰 느낌, 상점도 더 많음 ##alley: #골목길; 좁은 뒷골목 느낌; #alleyway
 * #뒷골목; #back alley; we've come to a back alley
 * ##alley;; a dark alley;; 후미진 곳; a dead-end alley 골목으로 빠지다; go through an alley, 
+* 히치 하이킹; thumb; 무임 승차하자; Let's thumb a ride
 * #back-alley; #은밀히 이뤄지는
 * #Boulevard = Blvd; #가로수길 느낌; 넓은 도로 + 주변에 많은 나무 그 사이에 #median: 
 * ##path: #오솔길; 아스팔트 없는 길
@@ -260,6 +261,7 @@
 	* 잠깐 차 세워봐							 Let’s pull over for a while
 	* 차좀 빼주세요 please move your car, would you move your car plz?
 	* 다음에는 #견인시켜버릴거에요 Next time I'm gonna get your car towed | get towed
+		* 견인 되었따; My car was towed away
 	* (주차 딱지) 저 지불하고 싶습니다. 						 I wanna pay
 	* #주차료를 내다; #pay the #parking ticket(#ticket)
 	* 내 주차 자리야 That's my parking spot

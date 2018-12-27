@@ -87,6 +87,12 @@
   * 토스트랑 계란 금방 만들어 줄게. ex) I will whip up some toast and egg for you.
 * 기타를 치기 전에 기타 줄을 맞추는 것을 '튜닝' 이라고 하는데요. 이렇게 무언가를 서로 잘 맞추는 것을 tune 이라고 합니다. 반의어로는 out of tune 이라고 표현할 수 있어요.
   * 그 제안은 여론과 정말로 일치합니다.ex) The proposals are so in tune with public opinion.
+* 1. (무엇을 하러) 자리를 뜨다
+  * 그녀가 마실 것을 가지러 자리를 떴다. She went off to get a drink.
+  * 2. 발사되다, 폭발하다(터지다)
+    * 그 폭탄은 사람들이 붐비는 거리에서 터졌다. The bomb went off in a crowded street.
+    * 득점 폭발하다. └→When klay or curry goes off he never let's them play the 4th
+    * 3. (불, 전기 등이) 나가다 갑자기 전깃불이 나가 버렸다. Suddenly the lights went off
 * brutally honest 를 직역하면 [잔인하게 솔직한] 정도로 해석이 되는데요. 누군가 듣기에 잔인할 정도로 상대방의 감정을 배려하는 것 없이 솔직한, 즉 팩트 폭격을 날릴 때 쓰는 표현이에요. 기본적이며 가장 흔하게 쓰이는 관련 표현으로는 to be honest with you 또는 honestly = [솔직히 말하면] 이 있으니 함께 알아두세요.
 * -에 가까워지다; gain on; They're gaining on us
 * 여기서 boy 는 감탄사로 쓰였습니다. 앞일을 모른다는 것을 매우 강조하는 것이죠. 만약 자연스럽게 쓰지 못할 것 같으시다면 듣고 이해만 하셔도 됩니다. 

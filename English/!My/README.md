@@ -129,6 +129,7 @@
 * 잘 생각해 봐; Do the math
 * 이 문제를 해결할 수 있어; We can save the day
 * 장난치는거지? Are you pulling my leg?
+* 티끌 모아 태산 Many drops make a shower, Many sands will sink a ship, Little drops of water make the mighty ocean.
 * 건초더미에서 바늘 찾기가능성이 거의 없다는 뜻사막에서 바늘 찾기와 같은 속담 needle in a haystack 
 * 설상가상으로 그 죄수는 사소한 절차상의 문제로 석방되었다. To add insult to injury, the prisoner was released due to a technicality. 
 * 처음에 모두 우리 계획에 반대했으나 논의를 거듭한 후에는 형세를 역전시킬 수가 있었다. At first, people were opposed to our plan. After a lot of discussion, we were able to turn the tide. 형세를 역전하다: turn the tide; 조류를 전향시키다.
@@ -180,6 +181,7 @@
 * 등... 등잔 밑이 어둡다? The beacon does not shine on its own base? 
 
 # 일상
+* 돈 안아까워; 그거 입장료 만큼 가치가 있다.;  It is worth the price of admission.
 * 그럴 때도 됐어; It's about time
 * 뻔하지; it's not hard to guess
 * 샘이 너 괴롭혔니? Did Sam get to you? 거슬리게하다; 영향을 미치다

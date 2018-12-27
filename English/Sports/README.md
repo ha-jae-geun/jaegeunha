@@ -235,6 +235,89 @@
 * 푸욜은 상대편에 의해 그라운드에 넘어졌다
   * He falls to the ground after he was pushed by a opposing player
 
+### 축구 단어
+ * 골키퍼 : goalkeeper , goalie
+ * 교체선수 : substitute
+ * 팀의 주장 : team captain
+ * 골을 넣다 : score
+ * 골키퍼를 제치고 강슛을 쏘아 넣다 fire past the goalkeeper
+ * 패스를 살짝 밀어넣다: tip in a pass from
+ * 헤딩골을 넣다: head in a goal, head the ball into the net
+ * 국가대표팀 : national soccer team (squad)
+ * 대표팀에 차출되다 : be recalled to the national squad
+ * 월드컵 대표팀에  be selected for the korean World Cup squad
+ * 다리 부상으로 원정경기에 빠지다 miss the road trip due to a leg injury
+ * 대신하다: stand in for
+ * 부상을 당하다: suffer an injury
+ * 부상선수를  교체하다: replace an injured player
+ * 16강(8강, 4강, 결승)에 순항하다 :cruise into the second round (quaterfinals, semifinals, finals)
+ * 월드컵 본선 진출 자격을 얻다: qualify for the World Cup finals, win a berth in World Cup finals
+ * 월드컵 본선에 진출하다: reach[advance, make it to] the World Cup finals
+ * 1대 0으로 홍콩을 간신히 이기다: edge Hong Kong 1-0
+ * 이기다: beat[defeat, trounce, rout, demolish]
+ * 역전승하다: come from behind and win
+ * 일본에 2-1로 지다: lose to Japan 2-1
+ * 자책골: own goal 동점골: equalizer goal
+ * 규정시간: regulation
+ * 후반을 주도하다 : have control for much of the second half
+ * 퇴장:expulsion
+ * 퇴장당하다: be sent off for, 퇴장시키다: send off, expel
+ * 지정된 지점에서 페널티킥을 차다: strike the penalty kick from the proper spot
+ * 페널티킥을 성공시키다: drive home a penalty
+ * 페널티킥을 실축하다 : miss one's kick in a penalty shootout
+ * 축구팬들간의 폭력을 막다: head off more violence between soccer fans
+ * -와 같은 조이다: be grouped with
+ * 경기초반을 압도하다: dominate the early part of the game
+ * 경기장 밖에서 off the pitch
+ * 골기퍼를 제치고 가볍게 차 넣다: dribble past goalkeeper and chip into the open net
+ * 골득실차로: on a goal difference[margin]
+ * 가까운 거리에서 슈팅을 하다: shoot from close range
+ * 골문 바깥을 때렸다: His shot his the outside of the Korean net.
+ * 골키퍼를 제치다:round around[beat] the goalkeeper|
+ * 공을 주고 받다: work a give-and-go with-
+ * 낮고 강하게 공을 차 넣다: rip a low, hard shot
+ * 도움으로 골을 넣다: score[notch] the goal on an assist from-
+ * 두골을 뒤진 상태에서 반격을 하다:rally from a two-goal deficit
+ * 득점찬스: scoring chances
+ 	* * 2. 발사되다, 폭발하다(터지다)
+    * 그 폭탄은 사람들이 붐비는 거리에서 터졌다. The bomb went off in a crowded street.
+    * 득점 폭발하다. └→When klay or curry goes off he never let's them play the 4th
+ * 뛸 수가 없는 상태이다: be out of action
+ * 바짝 따라붙다: be tightly shadowed by-
+ * 선방하다 make a good save
+ * 수비수를 따돌리고 골키퍼 쪽으로 몰고가다: shake off a defender to push the ball past the goalie
+ * 시즌 두 번째의 골: the second goal of the season
+ * 5000 관중의 응원을 받으며: cheered on by the capacity crowd of 50,000
+ * 역전승을 만들어내다: set up a come-from-behind win
+ * 역전승을 하다 score  a come-from-behind win
+ * 월드컵 열기를 더 고조시키다: whip up more World Cup fever around the country, inject more excitement into the pre-World Cup atmosphere
+ * 미국의 2번째 상대팀: the second opponent for the United States at the World Cup
+ * 자동진출권을 가지다: have an automatic berth in-
+ * 전 대회 우승팀: defending champion
+ * 전반에 1-0으로 앞서가다: go ahead 1-0 in the first half
+ * 정확한 센터링을 감아 올리다: curl in a precise centering
+ * 종료 휘슬이 올리기 몇초전: seconds before the final whistles
+ * 좋은 기회를 만들다: produce good opportunities
+ * 첫 득점을 하다: open the scoring
+ * 축구강국: a soccer power
+ * 축구장 안팍에서: on and off the field
+ * 탈락을 피하다: avoid the relegation spot
+ * 팀의 단결력: team spirit, team chemistry, team cohesion
+ * 프리킥을 성공시키다: fire the free kick cleanly into the goal
+ * 후반시작과 함께 출전하다: come in at the start of the second half
+ * 휴식시간 후 역습하다: fight back again after the interval
+ * 패스를 밀어주다: slip a pass to
+ * -의 패스를 골로 연결시키다: score off a pass from-
+ * 월드컵에서 최대의 이변을 연출하다: pull up one of the biggest upsets of World Cup
+ * 유럽에서 활약하다: be based in Europe
+ * 15미터 흘러나온 공을 차 넣다: score on a breakaway from 15meters
+ * 공격에 활기를 불어넣다: light the fire in the offence
+ * 2게임 출장정지 : 2game suspension
+ * 월드컵에 처녀 출장하다: make one's World Cup finals
+ * 부당한 판정: unfair call
+ * 라운드 로빈 방식: Round Robin matches
+ * 녹 아웃 방식: Knock Out matches.
+
 # 기타 
 * 강타를 가하다. 								 throw a haymaker 
 * #스파링; #spar over

@@ -40,6 +40,8 @@
 * 남녀 공항; coed, co-educational
 * ~과; Department of korean language/philosophy
 * 그녀는 세무학을 전공했어.;  She majored in Taxation.
+	* 제 전공은 물리학이고 부전공은 중국어입니다 I have a major in physics with a minor in Chinese.
+	* 복수 전공 double major in AA and BB
 * 휴학 하고싶어; he wanted a gap year
 * 왕따;; #outcast;  i was bullied at school
 * 수업 끝; Class dismissd
