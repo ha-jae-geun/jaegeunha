@@ -1,3 +1,6 @@
+# IIHS
+* Insuarance Institute for Highway Safety; 미국 고속도로 안전보험협회 
+
 # 졸음
 * 일정한 소음과 풍경은 쓸데없는 정보이기 때문에 사람을 피곤하게 만든다. 백색소음과 비슷한 효과이다. 두번쨰는 멀미이다.
 

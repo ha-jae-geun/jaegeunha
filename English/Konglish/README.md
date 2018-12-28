@@ -1,4 +1,5 @@
 # 기타
+* 싱글이다; i am single(형용사라 a 안붙임); 독신자; They organize parties for sigles
 * 엉터리 영어가 가끔 부끄럽다; i am ashamed of my famil's broen english
 * 이사해; we are moving house(home xx) next week
 * 드라이버; screwdriver

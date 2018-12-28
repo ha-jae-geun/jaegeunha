@@ -1,3 +1,12 @@
+* 툭 던지며 말하다; I might have said it #on the fly
+* 승산이 없다; It's a long shot(활 쏠 때 거리가 멀다)
+* LG 세탁기는 세계 시장을 휩쓸고 있다; The LG washes are sweeping the global market
+* 나는 모험을 하고 싶지 않다. I don't want to skate on thin ice. 
+* 섣불리[경솔하게] 행동하다 jump the gun; 총 쏘기 전에 점프 부턴
+* 취미가 뭐에요? What's your hobby -> DO you have any hobbies? 가지고 있지 않을 수도 있음
+* 음식 맛있어요? delicous -> How's the food?
+* 그는 직장에서 사고로 손가락이 잘렸다. He had his finger cut off in an accident at work. 
+  * 그들은 적의 퇴로를 차단했다. They cut off the enemy’s retreat. 
 * boil 은 [끓이다]라는 뜻이 있는데, boil down 은 양이 줄어들게(down) 끓이는, 즉, [졸이다]라는 뜻이 있어요. 냄비 한가득 있던 무언가를 졸이면 물은 다 증발해버리고, 핵심이 되는 무언가만 남게 되는 모습에서 쓰이는 표현입니다.
   * = 그 사건은 배심원단이 그를 믿는지 안 믿는지가 관건이야. The case will boil down to whether the jury believes him or not.
 * * beat the crap/shit out of   직역하면 [의 몸 밖으로  x 이 나올 때까지 때리다]이기에 엄청 심하게 때리는 것을 의미합니다. beat 대신 kick 을 쓰기도 해요.

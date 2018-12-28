@@ -347,6 +347,7 @@
 * 잔인한 vicious little word, vicious attack/dog
 * 체포합니다 You’re under arrest
   * 붙잡다; be held captive; hold 사람/동물 captive
+  * * 그는 현행범으로 체포됐어요.  He was caught red handed on the spot .
 * #잔인한 cruel, brutal, inhumane - 잔인한, 잔혹한 <-> innocent - 결백한, 순수한
 * #잔혹; #atrocity
 * #abusive, #violent, #cruel - 잔인한, 폭력적인 

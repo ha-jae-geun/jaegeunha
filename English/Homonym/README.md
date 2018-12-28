@@ -50,6 +50,8 @@
 
 
 # 다른 발음
+* bazzar  [bəˈzɑː(r)]  (일부 동양 국가들에서) 상점가[시장 거리]
+	* bizarre a bizarre situation/incident/story [bɪˈzɑː(r)]
 * ⦁#complacent- [kəm|pleɪsnt] 현실에 안주하는 #complaisant- 선뜻 남의 말을 듣는 [kəm|pleɪzənt]
 * ⦁#flout- (법 등을 공공연히) 어기다 [flaʊt] #flaunt- 과시하다 [flɔːnt
 * ⦁#mitigate- 완화시키다 [|mɪtɪgeɪt] #militate- 작용하다 [mílətèit]

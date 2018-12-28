@@ -2,6 +2,11 @@
 ## 홀로코스트
 
 # 기타
+* Daniel  [dǽnjəl] / Danielle 대니엘; 엘강세
+	* adam [|ӕdəm] atom [ˈætəm]; Ian 미국식 이앤;
+	* Ethan 미국식; 이뜬;  Hannah 미국·영국 [hǽnə]
+	* Lindsay 미국·영국 [líndzi]  Matthew 미국·영국 [mǽθju:] 
+	* 여자이름: Michel(l)e 미국·영국 [mi:ʃél]  남ㅈ: Mitchell 미국·영국 [mítʃəl] 
 * 2) be stigmatized : 명사 stigma는 ‘오명, 낙인’이란 뜻으로 그것의 동사 stigmatize는 ‘(남을) 오명/낙인을 씌우다입’니다. 여기서는 영웅들이 낙인을 찍힌 기분이라는 뜻으로 역시 수동형 be stigmatized로 표현되었습니다. He was stigmatized as a traitor.
 * 3) be othered : other에 동사 뜻도 있는거 아시나요? 동사 other는 “타자화하다, 이질적으로 대하다”입니다. 자신이 속한 그룹과는 다른 문화나 특질을 갖고 있을 때 그것을 배척한다는 것이죠.
   * 성소수자들은 종종 사회에서 이질적인 취급을 받는다. Sexual minorities are often othered by society.

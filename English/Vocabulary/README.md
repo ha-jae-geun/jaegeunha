@@ -1,3 +1,13 @@
+# 셀수 있는 명사, 없는명사
+* 단어 I memorized lots of English words <> There's lots of vocabulary
+* 일자리; There arent' ayn jobs; i'm looking for work
+* 야채; Vegetables are good for you <> Fruit is goot for you
+* 완두콩; There are some peas. 옥수수; THere is some corn
+* 여행; It's a long journey; Travel can be important; They had a very good trip
+* 경치; what a beatutiful view; What beautiful scenery
+* 날씨가 좋다; It's a nice day; It's nice weather
+* 훌륭한 제안이야; That's a good suggestion; That's advice
+
 # 동사의 개수
 * 접속사 + 1
 
@@ -165,6 +175,13 @@
 * come out; the tap doesn't come out
 * come true
 
+## ear
+* 상황을 보아가며 결정하다; play it by ear
+* 열심히 귀를 기울이다; by all ears
+* 귀를 기울이다; Can you lend me your ears?
+* 그는 그 소문들을 귀담아듣지 않았다. He turned a deaf ear to the rumours. 
+* 그들은 내가 하는 모든 말을 그냥 한쪽 귀로 듣고 한쪽 귀로 흘려버려. Everything I tell them just goes in one ear and out the other. 
+
 ## find
 * 몰랐던걸 알게되는 그림(물리적, 추상적 모두 포함); 궁극적으로 내가 되는것
 * i found my bag
@@ -182,6 +199,12 @@
 * 비용을 부담하다; foot the bill
 * 현실적이다; have both feet on the ground
 * 양쪽에 관여하다; have a foot in both camps
+
+## hot 
+* 뜨거운 감자; Iraq is a hot potato to the Unitied States
+* 온상; 그 지역은 범죄의 온상이었다. The area was a hotbed of crime. 
+*  ((국제 금융 시장에서 높은 수익을 노리고 유동하는 단기 자금)) hot money
+* 내가 그에게 하루 종일 어디 있었었냐고 묻자 그는 몹시 당황스러워 했다. He got very hot under the collar when I asked him where he’d been all day. 
 
 ## hand
 * 승리의 패; winning hand; He held the winning hand in the card game
@@ -209,6 +232,18 @@
 * 그런데 'get back to sb'가 되면 '에게 다시 연락하다'라는 뜻으로 바뀝니다. 주로 통화(회신)과 관련한 상황에 사용해요. 'to'와 'at'의 미세한 차이가 전혀 다른 해석을 만들죠?
 	* [ex] I'll find out and get back to you.
 
+## home, house
+* house: 말 그대로 집
+* home: 집일 수도 있고 어디든 편안함을 느끼는 장소
+* house party가 그래서 맞음
+* home party는 장소가 불분명해짐
+
+## hand
+* 도움의 손길이 가까운 곳에 있었다. Help was at hand. 
+* 그 집은 집주인이 몇 번 바뀌었다. The house has changed hands several times. 
+* 그는 현행범으로 체포됐어요.  He was caught red handed on the spot .
+* 그 학생은 즉석에서 이야기를 만들어냈다. The student made up a story off hand. 
+
 ## lead
 * 연필; lead pencil
 * 스피드 광; He's got a real lead foot
@@ -223,12 +258,11 @@
 * be likely to; 할 것 같다; it's likely to be a huge success
 * would like to be an English teacher
 
-
-## home, house
-* house: 말 그대로 집
-* home: 집일 수도 있고 어디든 편안함을 느끼는 장소
-* house party가 그래서 맞음
-* home party는 장소가 불분명해짐
+## manner
+*  떤 면으로 보면 이 모든 관점들이 관련이 있다.
+ All these points of view are related, in a manner of speaking. 
+* 어떤 의미로는 그는 부자가 될 수 있었다. He could be rich in a manner. = in a sense
+* 물론, 분명히. by all manner of means
 
 ## promise
 * 약속하면 해야하는 그림; 맹세의 느낌
@@ -247,6 +281,11 @@
 * 진행하는 느낌
 * i run my own business; 운영
 * i run this video; 촬영
+
+## red
+* 적자인; when a company is in the red
+* 여기 한국에는 관료주의가 많다. There ’ s lots of red tape involved here in Korea
+* 나를 특별하게 대우할 필요는 없습니다. There's no need to roll out the red carpet for me.  
 
 ## set
 * 비가 하루 종일 내릴 기세로 시작한 것 같았다. The rain seemed to have set in for the day. 

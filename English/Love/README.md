@@ -183,6 +183,7 @@ I have a big crush on you / I have a thing for you, i'm into you
 * #피로연	(Wedding) #Reception
 * 그들은 성격 차이로 헤어졌어요. 			They parted on grounds of differences of opinion. 
 * 그들은 #이혼 소송 중이에요. We're in the midst of a divorce.	
+	* 이혼 당하다; i'm divorced; 이혼하다; i divorced
 	* 이혼도 있었고; There's been divorces
 	* 혼인 무효; #annulment
 	* #이혼 소송; #fill for divorce

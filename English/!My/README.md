@@ -21,6 +21,7 @@
 * I said I would be ther as soon as I could
 
 # 접두어
+* -할떄가 좋더라; I like it when
 * 족히 4-6분이요; good: 족히, 상당한, 큰; It'll takea good hour or two
 * 어떻게 해서든; One way or another
 * -일지 누가 알아; For all i know, You could be a -
@@ -181,6 +182,8 @@
 * 등... 등잔 밑이 어둡다? The beacon does not shine on its own base? 
 
 # 일상
+* 그냥 간단하게 때우자; Let's grab something small
+* 밀지마, 한명씩 가; Don't push; One at a time
 * 돈 안아까워; 그거 입장료 만큼 가치가 있다.;  It is worth the price of admission.
 * 그럴 때도 됐어; It's about time
 * 뻔하지; it's not hard to guess

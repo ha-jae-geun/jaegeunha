@@ -22,6 +22,7 @@
 * 온라인의 강자가 되다 become a dominant player online 
 
 # 정치
+* 법무부 통계청; Ministry of Justice and Statistics
 * 정치인들은 음모론 없이 살 수 없다; Some politicians cannot live without conspiracy theories
 * 트럼프 정부; Trump coalition [ˌkoʊə-]  영국식 [ˌkəʊəˈlɪʃn]
 * 섹스 스캔들 폭로 사건이 수년간 있었쬬; There were bimbo eruptions over the years
@@ -32,6 +33,10 @@
 * 분쟁에 합의하다; settle the dispute; for thirteen
 
 # 사회
+* 정부가 실시한 조사 결과에서 타났따; a government survey showed
+* LG 드럼 세탁기는 93점의 가장 높은 점수를 바닸다; The LG washer gained the highest score of 83
+* LG 세탁기는 세계 시장을 휩쓸고 있다; The LG washes are sweeping the global market
+* 19년 쨰 연말 기부를 했다; has made his 19th year-end donation
 * 일곱 명은 의식이 없는 상태로 발견되었다 seven were found unconscious 
 	*  일산화탄소에 중독되었다 they suffered from carbon monoxide poisoning
 	* 파이프가 보일러에 제대로 연결되지 않았다 a pipe was not properly connected to the heater 

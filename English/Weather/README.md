@@ -8,6 +8,7 @@
 * 보슬비가 내리기 시작했다; A light drizzle began to fall
 * 장댓비; Heavy rain is expected this afternoon
 * 가랑비; there was a fine rain in the morning
+* 물을 첨벙거리다; She splashed about water
 
 # 여름
 * The crops are withering in the scorching heat. ; heat wave, sweltering heat, scorching heat 폭염으로 농작물이 시들어 가고 있다

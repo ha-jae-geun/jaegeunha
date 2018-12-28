@@ -157,6 +157,8 @@ expenditure(지출 어떻게 할거니) 							 cash, credit card
 * That means it will have a #private owner
 * Are you carrying more than 10, 000 dollars?
 * #현금 얼마나 가지고 계세요? how much money/cash do you have with you/are you carrying?/do you have on you?
+* 비행기 테이블; tray table
+	* 기내 엔터테인먼트; in-flight entertainment
 * #hard cash
 * #저울에 가방올려주세요 						 Place your bag on the scale
 * #by weight; #저울눈으로, #중량으로

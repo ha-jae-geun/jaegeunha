@@ -237,9 +237,11 @@
 * #몸살; #body ache(근육통도 포함) -> i'm having a body ache from cold
 * #감기약; #cough syrup
 * 미세먼지 때문에 목이 아파서 목 감기 sore throat에 걸리는 일도 늘어나고 있어요. 참고로 코감기는nose cold가 아니라 head cold라고 합니다. 
-* 코감기 				[sáinǝs sinus cold have a runny nose = #head cold
-* 얼마 전 독감 낫는데 					 I just got over the flu recently
-* 그런데 또 독감에 걸렸어					 But I caught it again
+  * 코감기 				[sáinǝs sinus cold have a runny nose = #head cold
+  * 얼마 전 독감 낫는데 					 I just got over the flu recently
+  * 그런데 또 독감에 걸렸어					 But I caught it again
+  * 너한테 옮은 것 같애; I think you gave it to me
+  * 감기가 들어서 목이 쉬었어; My voice is hoarse from a cold
 * 나 열있고 떨림이 있어. 독감인가봐 	 I am getting hot and shivery, I must have flu.
 * #열 나다; #burn up; you're burning up; you really burn me up
 * 2. #분통이 터지다; I was burned up

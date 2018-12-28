@@ -117,6 +117,7 @@
 	* 맞춤 붙박이 가구에요; All custom built-ins
 * 찬장 열어서; open up my cupboard; 
 * 냉장고에 넣을 공간이 없어요; i have no more room in the refrigerator
+	* refrigerate = fridge; 냉장고: fridge 냉동고: freezer; 영국: fridge-freezer
 * 그는 거울에서 자기를 확인한다; He checked himself in the mirror
 * (kitchen)appliance = refrigerator = living arrangement	 #가구
 * #현관: #vestibule ; shoe chest at entrance = #porch(2. #베란다)
@@ -565,6 +566,7 @@
 	* 나는 자전거로 출퇴근을 하고 또 자전거를 타면서 삶의 고단함을 잊곤 한다. I use the bike both for work and escapism.
 * 삶을 완전히 뒤바꿔놓다 = turn one's life/world upside down
 * 사실, 걔 L.A.에서 완전 호화롭게 잘 살고 있어. Actually, he's been living it up in L.A. live it up: 사치스럽게 즐기다
+	* 인생을 즐겨; Live a little
 
 ## 운명
 * 운명을 다시 써보는 건 어때? WHy don't we rewrite the stars

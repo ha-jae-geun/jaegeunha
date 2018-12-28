@@ -83,6 +83,10 @@
 * 영어 문화권; https://m.blog.naver.com/britishcouncilkorea/221423415204
 * 능률 https://m.blog.naver.com/PostList.nhn?blogId=neungyule01&currentPage=1
 * 꾸르꿀 https://m.post.naver.com/my.nhn?memberNo=43677109
+* 토마토 토익 https://m.blog.naver.com/PostList.nhn?blogId=tomato_talk&currentPage=1
+* remain faithful https://m.blog.naver.com/PostList.nhn?blogId=pureriver777&currentPage=1
+* 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
+* 찰리 잉글리시 https://m.blog.naver.com/PostList.nhn?blogId=charleyenglish&currentPage=1
 * 한국번역연구소 https://blog.naver.com/ktri8888
 -----------------------------------------------------------------------------
 * 빌보드 https://www.billboard.com/charts/hot-100#/charts/hot-100
