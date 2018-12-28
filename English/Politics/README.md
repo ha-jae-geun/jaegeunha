@@ -25,8 +25,14 @@ The best-selling classic of politics is Machiavelli's monarchy.
 * 공약; 새 이민 공약을 제안했다.he proposed a new immigration platform
   * 출마하다; run for office
 * 지지를 얻다; win over; This is the last chance for the candidates to win over voters
-  * 그녀의 정책은 지지를 잃었다; Her policy has lost traction; traction: 끌기, 견인
-
+  * 그녀의 정책은 지지를 잃었다; Her policy has lost traction; traction: 끌 기, 견인
+* 하나의 정책이나 법안에 대해 국민의 찬반여부를 묻을 때 하는 국민 투표를 의미합니다. election 은 누군가를 [선출하다] 라는 단어 elect 가 들어있기에 말 그대로 대통령이나 국회의원을 선출하는 [선거] 를 의미합니다. 
+	* 캘리포니아는 독립에 대한 국민 투표를 열 계획입니다. ex) California is planning to hold a referendum on independence.
+* 무언가를 팔기 위해선 상대방이 사도록 꼭 설득을 해야 하는 모습에서 파생된 의미로, [설득하다] 라는 의미가 있습니다. 영상에서는 수동태인 be sold 로 쓰여 [설득되다] 정도의 의미를 가지며, 마찬가지로 buy 를 쓸 수도 있습니다.
+	* 네가 설득하려는 게 뭐든지 간에, 난 동의하지 않을 거야. ex) Whatever you are trying to sell, I'm not buying it.
+* 투표 방식중에 하나입니다. 마음에 드는 사람을 한 명 고르는 대신, 전체 후보들을 자신의 선호도에 따라 1번부터 끝번까지 등수를 매기는 방식입니다. 주로 호주에서 사용하는 방식이라고 하네요.  preferential voting system = 선호투표제
+	* 축구는 그가 선호하는 취미 생활이 아니다. ex) Football has never been his preferred pastime.
+* cast 는 ‘던지다’, ballot 은 ‘무기명 투표’ 혹은 ‘투표 용지’ 그 자체를 말합니다. 그래서 합치면 ‘표를 던지다, 투표하다’가 됩니다.  참고로, 동사 elect 은 투표(casting a ballot)에 의해서 누군가를 ‘선출’하는 것으로 최종적으로 선거에서 이긴 것을 말합니다. 
 ------
 ## 정치
 * 영사관; consulate 미국식 [ˈkɑːnsəl-]  영국식 [ˈkɒnsjələt] 

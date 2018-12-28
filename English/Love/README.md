@@ -373,6 +373,8 @@ I have a big crush on you / I have a thing for you, i'm into you
  * erogenous 미국식 [irɑ́dƷənəs] ; zone
  * #fanny(미국: 엉덩이 2. 영국: 여자 거기), #minge, #vagina
  * #자위; #rub out; #rubbed one out
+ 	* * 가장 기본적인 단어는 masturbate 이고, 다른 표현으로는 touch oneself(자신을 만지다), have sex with oneself(스스로와 성관계를 갖다)라고도 합니다. 속어로는 wank, jerk off, shake the chicken 등이 있는데요, 남성의 자위를 주로 가리킵니다. 
+  * 맨 처음 자위행위를 했을 때가 언제인가요? How young were you when you first masturbated?
  * #touch myself
  * 자궁; cervix; 확장하다; dilate  [daɪˈleɪt]
  * 남자 #성기 penis, ##cock(콕)(<>##coke 코크), dick, pipe(2. 마리화나 파이프), #peanut, #prick

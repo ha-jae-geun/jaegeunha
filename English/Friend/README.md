@@ -36,6 +36,7 @@
 	* 살짝 끼얹어본 농담인데요; a little tongue-in-cheek; idea
 	* 농담을 하다; crac/make/tell a joke
 		* -을 이용해서 농담하다; make a joke at someone's expense = make a joke at the expense of 사람
+		* dad joke 의 영어 사전적 정의를 보자면 [an unoriginal or unfunny joke of a type supposedly told by middle-aged or older men.] 이라고 되어 있어요. 중년이거나 더 나이 많은 남자들에 의한 독창적이지 않고 재미없는 농담. 딱 아재개그네요.. 아저씨인 저는 그저 웁니다 ㅎㅎ
 	* 네 장난 알아 들었으니까 그만해; I get the joke
 	* : 두고두고 오르내리는 농담을 말해요! 
 		* 그 일은 계속해서 농담거리가 되고 있지. The whole thing became a running joke.

@@ -1,3 +1,6 @@
+* : 말 그대로는 '~로 실험을 해보다'라는 뜻인데, 이렇게 '(이전과 다른) 새로운 것을 시험 삼아 시도해보다'라는 뜻으로도 쓸 수 있어요!
+  * 머리에 새로운 머리 스타일/색을 더 자주 시도해봐야겠어. [ex] I need to experiment more with my hair.
+  * 아직 (시험삼아) 이런저런 사람 만나보고 있어. [ex] I'm still experimenting.
 * 툭 던지며 말하다; I might have said it #on the fly
 * 승산이 없다; It's a long shot(활 쏠 때 거리가 멀다)
 * LG 세탁기는 세계 시장을 휩쓸고 있다; The LG washes are sweeping the global market
@@ -5,7 +8,150 @@
 * 섣불리[경솔하게] 행동하다 jump the gun; 총 쏘기 전에 점프 부턴
 * 취미가 뭐에요? What's your hobby -> DO you have any hobbies? 가지고 있지 않을 수도 있음
 * 음식 맛있어요? delicous -> How's the food?
-* 그는 직장에서 사고로 손가락이 잘렸다. He had his finger cut off in an accident at work. 
+* = 빙산의 일각이 드러났을 뿐이야. 더 많은 것들이 있어. The tip of the iceberg has been revealed. There's more to come.
+* tick 또는 check mark 라고도 하는 (✓) 표시를 하는 걸 의미하는데요. 영상을 직역하면 [모든 박스들에 체크를 하다]로 해석이 되죠. 이 말은 위에서 나온 강모래의 특징들을 아래와 같이 나열을 한 후 모두 해당이 되기에 체크 표시를 한다는 말입니다.
+  * = 목록의 모든 아이템들은 체크 표시가 되었어요. Every item in the list has been ticked off.
+* 1) deposit 은 기본적으로 무언가를 [쌓아두다]라는 의미예요. 그래서 은행에 돈을 [예금하다], 집 월세 등의 [보증금을 내다]도 deposit 이라고 합니다.  2) 지구과학 관련에선 지금처럼 강물이나 액체가 무언가를 서서히 [침전시키다]를 뜻하고, 명사로는 [침전물] 또는 광물의 [매장층]을 의미하기도 합니다.
+  * 풍화작용 = weathering 침식작용 = erosion [iróuƷən] 운반작용 = transportation 퇴적작용 = sedimentation [ˌsedɪmenˈteɪʃn] 
+* 팝콘은 옥수수 알갱이가 톡톡 튀고, 팝업 스토어는 원래 없던 매장이 잠시 눈에 띄게 세워지는 것이듯, pop out 은 [튀어나오다, 튀어나와 보이다, 두드러지다]의 의미를 가집니다.
+  * = 생생한 빨간색 사용이 이 제품을 두드러지게 만듭니다. The use of this vivid red color makes the product pop out.
+* background 가 [배경]을 의미하는 단어이니, 그 사람의 배경, 즉 신원 확인을 하는 걸 background check 라고 합니다. 신원 확인을 요구하는 주체가 누구인지에 따라서 내용도 조금씩 달라질 수 있는데요. 보통은 범죄 경력, 신용 정보 등을 간단하게 조회하는 걸 의미해요. [범죄 경력 조회]는 criminal background check 라고 하기도 합니다.
+  * = 저희는 정기적으로 현재 근무 중인 직원들의 신원 조회를 합니다. We conduct background checks on current employees on a regular basis.
+* = 모든 이들의 동의 없이 우리가 결정을 번복하는 건 불가능해요. It's not possible for us to reverse a decision without everyone's consent.
+* The ship 대신 That ship 이라고도 많이 씁니다. 직역하면 [그 배는 이미 항해를 떠났다]인데요. 특정한 기회가 사라졌을 때 쓰는 표현입니다. 우리 말에선 보통 [이미 엎질러진 물이다, 이미 버스는 떠났다]라는 말과 같다고 보시면 되겠죠.
+  * = 네게 또 다른 기회가 있을 거라곤 생각하지 않아. 이미 엎질러진 물이야. I don't think you will have another shot. The ship has sailed.
+* 특정 기간 동안 무언가를 지나치게 많이 하는 걸 의미해요. a shooting spree 는 [총 세례, 총기 난사]를 의미하며 미국의 총기 난사 사건에는 꼭 등장하는 단어입니다. 보통 동사 go on ~ spree 이라고 많이 쓰입니다.
+  * killing spree, murder spree = 연쇄 살인
+  * shopping/spending spree = 흥청망청 쇼핑 하기/돈 쓰기
+* desire, hope 등과 비슷한 단어인데요. desire 이나 hope 같은 경우에 여러 가지를 원할 수 있지만, aspiration 는 현재보다 높은 상위의 것과 자기 향상에 대한 강한 열망을 의미하는, 조금 더 구체적인 단어입니다.
+  * = 그는 확실히 명예욕이 있어. He definitely has an aspiration for fame.
+* 무언가의 진정한 특징을 가리고 있는 것을 제거하여 완전히 없애는 것을 의미합니다.
+  * = 이 프로젝트의 목표는 거짓말을 벗겨내는 것이고 모든 사람들에게 그들의 진정한 정체성을 보여주는 거야. The goal of this project is to strip away the lies and show everyone their true identity.
+  * = 우린 가식을 정말로 떨쳐 없애야 해. We really should strip away the pretence.
+* 여기서 느슨하다(loose)는 것은 ‘해로운 남성성’이란 정확히 흑백으로 나뉘는 것이 아니라 개괄적이고 모호한 용어라는 뜻에서 한 말입니다. 유의어로는 a broad term(광의의 용어)가 있습니다. 
+  * = 호랑이는 넓은 범위에서 큰 고양이과라고 일컬어진다. Tigers are broadly/loosely defined as large cats.
+* 1) sexual objectification of women  = 여성의 성적 대상화
+  * - objectification = 대상화, 물건취급
+  * = 나는 미인대화는 여성을 상품화하는거라고 생각해. (beauty pageant: 미인 대회) I believe that beauty pageants objectify women.
+* (emasculate: 남성성을 약하게 하다) 이 영상의 주제인 masculinity(남성성)와 같은 라틴어 뿌리를 가진 단어입니다. 동사 emasculate 의 명사이고, e-가 붙어 남성성을 약하게 만든다는 반대어가 되었습니다.  이 단어는 수입이 더 높은 아내에게 콤플렉스를 느끼거나, 남자가 집에서 살림을 하면 남자구실을 못한다고 생각하는 등 ‘사내로서 자존심을 상하게 만드는 것’을 말합니다.
+  * = 여자 밑에서 일한다고 남자로서 자존심 상할 일이 아니야. 그냥 상사일 뿐이라고.  Working for a women is not emasculating you. She’s just a boss!
+* earn 은 아시겠지만 기본적으론 돈을 [벌다] 라는 뜻이 있어요. 하지만 단순히 돈을 버는 걸 말하고 싶을 땐 make money 라고 하는데요. earn 의 속뜻은 [열심히 일하여 벌다] 라는 의미를 가집니다. 그래서 돈 뿐만이 아니라, 신뢰, 명예, 평판, 누군가의 지지 등 그냥 얻을 수 있는 게 아니라, 열심히 '노력해서 얻어야 하는 것'들은 earn 이라는 동사로 표현하셔야 해요!
+  * = 그들의 신뢰를 잃고 나면 다시 얻기는 굉장히 어려워. It's really hard to earn their trust back once you lose it.
+* confectionery는 사탕이나 초콜렛 같은 단 음식을 뜻하며, enthusiast는 열광적인 팬, 지지자, 매니아를 의미합니다.
+* 명사로 treat은 기쁨이나 만족을 주는 특별한 것을 의미합니다. 물건이 될 수도 있고 경험, 사건 등도 가능합니다.  참고로 ‘솜사탕’은 미국식 영어로는 cotton candy, 영국식 영어로는 candy floss라고 합니다. cotton은 솜을 의미하고, floss는 얇은 실을 의미하니까 뭔가 비슷한 것 같네요.  그리고 floss에는 ‘치실’이라는 의미도 있습니다. 그래서 영상 앞쪽에 “Don’t forget to floss”는 “치실 하는 것 잊지 마세요”가 되는거죠.
+* 조류학적으로 각자의 특징이 있겠지만, 일반적인 이미지로는 dove 는 하얗고, 평화의 상징이며, 긍정적인데 반해, pigeon 은 회색에, 거리를 떠도는 부정적인 느낌을 갖고 있습니다. 그래서 우리 주위에서 흔히 보이는 비둘기를 dove 라고 하지 않고 pigeon 이라고 하는 것이죠. 
+  * 흰 비둘기는 평화의 상징이다. A white dove is a symbol of peace.
+* 직역하면 ‘(명사)를 돌려서 머리로 세운다’는 것입니다. 완전히 위아래가 바뀌어 있으니 기존과는 다르다는 것을 의미하는 거죠. 
+  * 이 새로운 발견들은 기존의 학설을 완전히 뒤바꿀 것이다. These new findings will turn the accepted theories on their head.
+* 동사는 put, place, arrange, list, classify, sort 등 다양하게 쓸 수 있습니다. order 앞에 numerical(숫자 순서), alphabetical(알파벳순), ascending(오름차순), descending(내림차순) 등과 같이 구체적인 형용사를 붙여서 어떤 순서인지 표현할 수 있습니다.
+  * 우리는 이름을 알파벳 순서로 배열했다. We put the names in alphabetical order.
+* 동사 hook 은 단순히 갈고리로 거는 것 뿐만 아니라, 장치에 무언가를 연결한다고 할 때도 씁니다. 실생활에 자주 쓰이니 예문과 함께 잘 학습해 주세요!
+  * 그녀는 링거를 꽂고 있었다. (IV: 링거주사) She was hooked up to an IV.
+* stride 는 [성큼성큼 걷다/성큼성큼 걷는 걸음] 을 의미해요. 그냥 단순히 걷는 게 아니라 보폭을 크게 앞으로 '나아가는' 의미이기 때문에 [진전, 발전] 이라는 의미로도 쓰입니다. make strides 로 많이 쓰이기에 함께 알아두세요!
+  * 내가 제대로 된 방향으로 발전을 하는 거였으면 좋겠어. ex) Hopefully I'm making strides in the right direction.
+* suppose는 ‘생각하다, 추정하다’이란 뜻이기 때문에, supposed라고 하면 ‘추정된, ~라고 생각되는’이란 의미가 됩니다. 마리 앙투아네트가 "Let them eat cake."라고 말했다고 알려져 있긴 하지만 기록으로 남은 완벽한 사실은 아니기 때문에 영상에서는 “그렇게 말했다고 추정되는 답변”인 supposed response라고 말한 것입니다. 
+  * 추정컨데, 그녀가 그것을 혼자서 했었을 수도 있어.  Supposedly, she might have done it alone herself. 
+* 비슷한 단어로 discourage 라는 단어도 있는데요. discourage 는 행위 자체가 바람직하지 않아서 상대방에게 그 행위를 단념시키려고 할 때 보통 쓰이는데요.  deter 는 결과에 의심이나 두려움을 가져서 하기가 좀 꺼려질 때 굉장히 구체적으로 왜 단념하게 하는지를 내포하고 있는 단어입니다.  
+  * = 건강 상의 문제는 그가 이번에 프로젝트에 참여하는 걸 단념하게 했다. A health issue deterred him from joining the project this time.
+* 원래는 단맛, 쓴맛, 신맛, 짠맛 이렇게 4가지 맛을 가장 기본적인 맛으로 여겼는데요. 20세기 초에 일본인 교수가 '감칠맛' 이 글루타메이트 라는 물질에서 온다는 사실을 처음으로 과학적으로 증명을 했기 때문에, 그 이후로는 umami 를 영어에서도 그대로 쓰고 있습니다. 영영 사전에서는 savory taste 를 umami 라고 한다고 되어 있는데요. savory 같은 경우는 음식의 전체적인 [풍미] 와 관련이 있고, umami 는 그러한 풍미를 이루는 요소 중 하나이기 때문에 조금은 차이가 있습니다.
+* doe 는 사슴, 토끼 등의 암컷을 말합니다. 그런 눈을 하고 있다고 해서 ‘사슴 같은 눈망울’이라고 해석합니다. 보통 크고 초롱초롱하며 세상의 때가 묻지 않은 천진한 눈망울을 가리킵니다. 명사로는 doe eyes 라고 합니다.
+  * 그녀의 크고 초롱초롱한 눈망울을 보고, 나는 도저히 그녀에게 거짓말을 할 수 없었다. Looking at her doe eyes, I couldn’t possibly lie to her.
+* 일이 쉽게, 원하는대로 진행되지 않는다는 뜻입니다. 여기서 as 는 did not come as easy as she wished(그녀가 바라는 만큼 쉽게 되지 않다)가 줄여진 것으로 보시면 됩니다. 
+  * 성공은 공짜가 아니고, 쉽게 오는게 아니다. Success is not free, and it doesn't come easy.
+* something to be said for = 이로운 점, 긍정적인 면, 타당한 이유
+  * 혼자 사는데는 장점이 아주 많다.  There's a lot to be said for living alone.
+* ▷사람: group, staff, family, class, people
+  * ▷사물: set, bunch, pack, collection
+  * ▷동물: flock, herd
+  * 모두가 합의해서 내린 결정이에요. ex) It was a collective decision. 
+* 1) coin = (v)새로운 용어를 만들다
+  * ‘인터넷’이라는 용어를 만들었을까? Who coined the term "the Internet"?
+* 정신이 막 여기저기 흩어져 있는 듯 할 때, 그래서 무언가에 집중을 할 수 없을 때 쓰는 표현으로 [한데 모으다] 라는 get together 를 쓸 수가 있어요. 그래서 집중을 필요로 하는 상황일 때, 무언가를 더 효율적으로 해야 해서 집중해야 할 때 자주 쓰이는 비격식 표현입니다.
+  * 정부는 정말 정신 차려야 해. ex) The government really should get its act together.
+* 생소하실 수도 있지만, 일상에서 정말 많이 쓰이는 표현입니다. 특히나 회사 같은 조직에서 정말 많이 쓰이는데요. 좋은 기세를 쭉 몰아나가고 싶을 때, 지금까지 해오던 일, 능력 등의 탄력을 잃고 싶지 않을 때 쓰는 표현이에요. 많이 쓰이는 표현 중 하나는 [기세를 몰다] 라는 의미의 keep the momentum (going) 있습니다. 물리학에서의 움직이는 물체의 [운동량] 을 의미하기도 합니다.
+  * 이 캠페인은 정말로 탄력이 붙는 중입니다. ex) This campaign is really gaining momentum. 
+* [hide+명사]는 ‘(명사)를 숨기다’, [hide from+명사]는 ‘(명사)로부터 숨다, 피하다’입니다. 많은 사람들이 포르노를 보고 흥분한다는 그 사실로부터 도망/회피/외면하지 말자고 얘기하고 있습니다. 
+  * 우리가 큰 실수를 저질렀다는 사실은 피할 수 없겠죠. We can’t hide from the fact that we’ve made a huge mistake.
+* turn on 은 ‘불을 켜다’죠. 영상처럼 성적인 것과 관련해서는 ‘성욕을 오르게하다, 흥분시키다’를 의미합니다. 마치 내 몸의 모든 센서에 불이 켜지고 욕망이 끌어오르게 되는 것처럼요. 사람이 주어가 될 때는 수동형인 be turned on 으로 해주세요.
+  * 2) be turned on by porn = 포르노를 보고 흥분하다
+* relax 도 ‘피곤함을 풀다, 긴장을 풀다’지만, unwind 는 바쁜 하루를 마무리하고 집에서 쉬면서 피곤함을 푼다는 뉘앙스가 특히 더 담겨있습니다. [발음: 언와인드]
+  * 바쁜 하루를 보낸 후의 긴 샤워는 하루의 피곤함을 풀어준다. Taking a long shower is a good way to unwind after a busy day.
+* 1. provision은 단수로 표기하면 제공, 공급, 대책, 준비, 혹은 법률의 조항, 규정 같은 걸 의미합니다. 뜻의 폭이 참 넓죠~?! 이 단어를 복수 (provisions)로 사용하면 식량, 양식을 의미하는데, 주로 장기간 여정 또는 저장을 위한 식료품을 의미하죠.  우리가 음식이라고 말할 때와 식량이라고 말할 때와의 어감 차이가 비슷해요~^^ 특히 여기 맥락에서 보면 두 시간 영화를 관람하기 위해 든든히 준비하는 '식량!' 요 느낌을 주기 위해 사용한 거죠~
+  * 이 식량으로 한 달은 갈 것이다. [ex] The provisions will be enough for a month.
+* double fist는 신조어로 술을 두 손에 쥐는 것, 혹은 두 손에 쥐고 동시에 마시는 걸 가리킵니다. 애주가라면 한번쯤 사용해 봄직한 표현이겠죠?ㅎ 그 행위를 나타내는 명사는 double-fisting~!
+  * 주문하는 데 시간 너무 오래 걸린다. 난 두 잔 동시에 마실 거야.  It takes so much time to order. I'm double
+* break one's leg/arm 이나 fracture one's leg/arm 이나 비슷하게 [~가 부러지다] 라는 의미를 가집니다. fracture가 break보다는 좀 더 의학적인 느낌이 나는 단어인데요.  뼈에 금이 갔을 때도 쓸 수 있는 단어입니다. 금이라는 게 사실 머리카락만큼만 부러진 것이라 hairline fracture 라고도 할 수 있고, 그냥 crack 이라고 할 수도 있어요.영상에서처럼 두개골 골절은 다른 단어 말고 보통 skull fracture 라고 씁니다.
+* 판타지 소설이나 영화, 게임을 좋아하시는 분들은 알만한 단어입니다. dwarf. 명사로는 신화 속에 나오는 '난쟁이' 를 의미하는데요. 지금도 왜소증 환자를 dwarf 라고 합니다. 때론 모욕적으로 들릴 수도 있으니 조심하셔야 해요.
+  * 그 농구 선수는 말 그대로 그의 옆에 선 모두를 왜소해 보이게 만들었다. ex) The basketball player dwarfed literally everyone standing next to him.
+* 중세 시대까지만 해도 주요 무기는 팔에 끼고 다니는 방패나 창, 칼 등이었을 거예요. 그런 모습을 떠올리면 arms 가 복수형으로 쓰여서 [무기] 를 의미하는 걸 기억하기는 어렵지 않을 텐데요. 참고로 동사 arm 또한 [무장하다, 무장시키다] 라는 의미를 가집니다. 따라서 [국군, 군대]를 armed forces 라고도 합니다. arms race 는 국가 등이 레이스 하듯이 군비 확장 경쟁을 의미해요.
+  * 국가 간 군비 경쟁은 오래전에 끝난 것 같아. ex) The arms race between nations was over a long ago, I think. 
+* nurse 는 [간호사] 라는 뜻 외에도 동사로도 쓰여 [간호하다/보살피다/젖을 먹이다] 등의 뜻이 있어요. 전반적으로 누군가를 돌보고 관심을 쏟는 행위와 관련이 있는데요. nursery 는 nurse 에서 나온 형용사이기 때문에 그런 행위를 하는 장소를 의미하게 되었습니다.  영상에서는 nursery site 로 쓰여 [얕은 바다를 새끼를 키우는 장소로 사용했습니다] 로 직역이 되지만, [새끼를 키웠다] 정도로 의역이 되었어요.
+  * 우리 회사는 직원들의 자녀를 위해 보육원을 제공해요. ex) My company provides a nursery school for its employees' kids.
+* call in : (의사/경찰 등을) 부르다 도움을 청하기 위해 사람이나 기관을 부르는 것을 말해요. 
+  * 사측은 사건 조사를 위해 경찰을 불렀다. The company called in the police to investigate the case.
+  * 1. 어떤 장소에 잠시 들르다
+    * 그는 이따금씩 들른다. He just calls in occasionally.
+  * 2. 일하는 곳에 전화하다
+    * 다니엘이 늦을 것 같다고 전화했다. Daniel called in to say that he was going to be late.
+* 'condemn'은 '유죄를 선고하다'라는 뜻으로, 'the condemned'는 유죄 선고를 받은 사람, 흔히 사형수를 의미해요. condemn은 '비난하다/규탄하다'의 뜻으로도 많이 사용됩니다. 비슷한 단어로 convict(유죄를 선고하다)가 있어요.
+  * 그 사형수는 푸짐한 아침 식사를 먹었다.  ex) The condemned man ate a hearty breakfast.
+* 2. burn at the stake : 화형에 처하다
+  * 그는 이단으로 화형당했다. ex) He was burned at the stake for heresy.
+* 1) 단순히 관료들로 이루어진 국가 체계나 조직의 체계를 의미하기도 하지만, 영상에서는 '지나치게 복잡한 행정적인 절차' 를 의미하는 [관료주의] 를 나타내는 1번의 의미로 쓰였습니다. 2) 비슷한 의미의 속어로 red tape 이라는 단어를 쓰기도 하는데요. 무언가를 안된다고 할 때 빨간 딱지를 붙여놓는 것 처럼, 이것도 안돼, 저것도 안돼, 안돼 안돼 하니까 정말 일이 진행되지 않는 시스템, 정책등을 red tape 이라고 해요.  [bjʊˈrɑːk-]  영국식 [bjʊəˈrɒkrəsi] 
+* 1) string 은 명사로 무언가를 엮어놓는 [줄/실], attached 는 [붙여진] 이라는 의미가 있어요. 그러니 조건/의무가 실에 주렁주렁 달려서 무언가에 붙어 있는 것을 연상하시면 되겠죠?  2) 따라서 영상의 말을 직역하면 [종종 많은 조건들이 달린채 함께 옵니다] 정도의 의미를 가집니다.
+  * 이 제안을 받아들이셔도 됩니다. 다른 조건은 없어요. ex) You can take this offer. No strings attached.
+* 1) 직역하면 [자리 안에 있는] 정도가 될텐데요. 어떤 정책, 계획, 규칙 등이 만들어진 후에 자기 자리를 꿰차고 있는 것을 의미합니다. 그러니 작동중이거나, 작동할 준비가 된 것이라고 생각하시면 되겠죠? 2) 보통 동사 put 과 함께 많이 쓰입니다. 
+  * 3월 이후로 새로운 시스템이 시행되어지고 있다. ex) The new system was put in place since March.
+* 1) 축구나 럭비에서 태클을 한다고 하면, 공을 들고 가는 선수를 걸어 넘어뜨려 공을 빼앗는 행위를 의미합니다. 2) 근데 이게 본인도 넘어지고 힘든 일이기 때문에 태클하기 전에 공을 빼앗을거라는 마음을 단단히 먹고 하거든요. 3) 마찬가지로, 어떤 힘든 문제나 상황을 마음 먹고 해결하려고 하는 것을 tackle 이라고 합니다.
+  * 정부는 증가하는 아동학대 문제들을 다루기로 결심했습니다. ex) The government has decided to tackle rising child-abuse issues.
+* cup of tea... 차 한 잔? 20세기 초 영국에서 탄생한 표현인데요, one's cup of tea는 '~의 기호에 맞는 것'이라는 뜻이랍니다. 본인의 취향에 대해 말할 때 요긴하게 쓸 수 있는 표현이겠죠? 특히나 상대방이 기분 나쁘지 않게 불호를 나타내기 딱 좋은 표현입니다~ everyone's cup of tea는 '누구나 좋아할 만한 것', '호불호가 갈리지 않는 것'을 뜻해요. 이런 말도 있죠 "I'm not everyone's cup of tea, and that's okay(모두가 날 좋아하진 않지만, 그래도 괜찮아)". 이 세상 모든이에게 나를 맞추는 건 불가능하기도 하고, 그렇게 모두에게 맞추는 게 좋은 것만은 아니라는 뜻입니다.
+* 시간, 기간, 정기적 일 등, 무언가가 정기적으로 돌아오는 (roll around) 경우에 쓸 수 있는 비격식 표현이에요.
+  * 금요일이 올 때 쯤이면, 완전히 여행 준비가 되어 있을거야. ex) By the time Friday rolls around, I will be totally ready for the trip.
+* 카드게임에서 trump 를 ‘으뜸패’라고 하죠. trump 는 동사로도 쓰이는데요, 다른 어떤 것보다 항상 좋다, 우수하다는 의미입니다. 가장 좋은 것이 주어가 됩니다.
+  * 돈이면 다 된다. (돈이 모든 것을 이기기 때문에)  Money trumps everything. 
+* 수동태인 be thrown(던져지다)라고 하였습니다. 자신의 의지와 상관없이 어떤 상태(state)에 빠지게 된다는 어감입니다.  1) be thrown into a state ~ = ~의 상태에 빠지다
+  * 나라 전체가 완전한 혼돈 상태에 빠졌다. The whole country was thrown into a state of complete chaos.
+* 1) be conditioned 는 경험, 환경에 의해 길들여지거나 학습하게 되는 것을 말합니다. 뒤에는 [to+동사], [by 명사], [into 동명사] 등 다양하게 표현합니다. 
+  * 내 생각엔 여자들은 으레 집안일을 하도록 길들여지는 것 같아. I think women are just conditioned into doing housework.
+* hear 은 가만히 있어도 들리는 소리를 들을 때 쓰는 표현인 반면, be told 의 경우엔 누군가가 알려주듯이 말해서 들었을 때 가장 일반적으로 쓰이는 표현 중에 하나입니다. [~라고 들었어요.] 라는 표현은 I've been told that ~ 이라고 쓰는데요. 영상에서는 특정 상황을 가정하여 현재형으로 계속해서 말하고 있기 때문에 they're told 라고 쓰였어요. 콤마와 함께 쓰이는 [,which] 는 [그리고 그것은] 정도로 해석을 하면 가장 자연스러운데요. 여기서 [그것=약] 이기 때문에 [그리고 그 약이 진짜라고] 로 해석이 되었습니다.
+  * 오늘 흰색 셔츠를 입어야 한다고 들었는데요. ex) I've been told I should wear a white shirt today.
+* 동사로 withdraw 는 [철회하다, 물러서다] 라는 뜻이 있는데요. 비슷한 의미로 중독된 담배나 온라인 게임 등, 무언가 중독된 것에서 뒤로 물러날 때 겪게 되는 [금단 현상] 을 withdrawal symptom 이라고 합니다.
+  * 흡연하기로 한 후로 금단 현상을 겪고 있어요. ex) I've been having withdrawal symptoms since I gave up smoking.
+* bill 에는 [지폐, 법안, 목록] 이라는 뜻이 있는데요. fit the bill 에서는 일반적인 항목들이 쭉 적힌 목록을 의미해요. 그런 목록에 맞다- 라고 직역이 되니까 조건에 맞는 것들을 충족시키다는 의미를 가지는 재미있는 표현입니다. 특히 어떤 직업에 적절한 자격들을 가지고 있을 때 많이 쓰인답니다.
+  * 레이첼은 그 직위에 완벽하게 적합한 것 같아. ex) Rachel seems to fit the bill perfectly for the position.
+* 직역하면 [죽은 끝] 이니까, 더 이상 길이 이어지지 않는 길의 끝, 즉 막다른 길을 의미해요. 실제 길뿐만이 아니라 더 이상 발전을 이룰 수 없는 상황이거나 막다른 상황을 의미하기도 합니다. 참고로 형용사로 쓰여서 dead-end job 이라는 단어가 많이 쓰이는데요. [밑바닥 일] 을 의미합니다.
+  * 막다른 상황에 다다른 것 같고 빠져나갈 길이 없는 기분이야. ex) I feel like we've reached a dead end and there's no way out.
+* 동사로 groom 은 주로 동물을 [손질하다/솔질하다/다듬다] 등의 의미를 가지는데요. 고양이가 혀로 자기 자신을 핥으면서 털을 깨끗이 하는 행위를 그루밍이라고도 하죠. 사람의 경우엔 groomed 를 써서 [~하게 차려입은] 이라는 의미를 가지며 well-groomed, 또는 badly-groomed 라고 표현할 수 있습니다.
+  * 우리 삼촌은 잘생겼고 항상 말쑥한 모습이셔. ex) My uncle is handsome and always well-groomed.
+* 영자신문의 정치면에 자주 등장하는 단어입니다. 교황이나 대통령 등 권위가 있는 사람이 공식적으로 제안된 사항을 거부/기각 할 수 있는 권리를 말합니다. 
+  * 대통령은 그 법안을 거부했다. ex. The president vetoed the bill. 
+* agenda 는 ‘의제, 안건’인데요, 다른 안건이 없다는 건 현재 안건에 동의한다는 것이기 때문에 ‘이견이 없다, 동의하다’를 뜻하는 것입니다. 혹은 agenda 는 ‘숨은 의도’라는 뜻으로도 자주 쓰이는데, hidden agenda 라고도 표현합니다. 
+  * 우리는 다른 의제 / 다른 할 말 / 다른 의견이 없습니다. We have no agenda here.
+* 여기서 what it takes 는 돈, 재능, 미모 등과 같이 ‘성공하는데 들어가는 것’을 가리키고 그걸 가지고 있으니까 ‘자질이 있다, 능력을 갖추다’를 의미하는 것입니다.
+  * 사람들은 종종 리더가 되려면 무엇이 필요한지 묻는다. People often ask what it takes to be a leader.
+* 꼭 in 을 써주세요. follow footsteps 는 ‘발소리를 듣고 뒤따르다’라는 뜻입니다. 
+  * 나는 그녀의 뒤를 따라 의사가 되었다. I followed in her footsteps and became a doctor.
+* 요즘과 같은 정보화 시대에 특히 문제가 되는 것이 identity theft 일텐데요, 그 만큼 개인 정보(personal information) 관리에 철저해야 하겠습니다.  참고로 identity fraud 라는 말이 있는데요, ‘신분 사기’입니다. 남의 신분을 훔쳐서(identity theft) 그것을 가지고 실질적으로 사기 행각을 벌이면 identity fraud 가 되는 거죠. 
+  * 만약 보이스피싱 사기꾼에게 개인 정보를 넘겼다면, 은행은 당신의 계좌를 즉각 정지시킵니다. If you gave the phisher your personal information, the bank will immediately close your accounts.
+* piggyback 은 등에 업는 것, 어부바 입니다. 그리고 piggyback off (of) 는 비유적으로 ‘남에게 기대다, 다른 것에 기대어 이득을 취하다’를 의미합니다. piggyback on something 이라고도 합니다. 
+  * 나는 내 이웃이 내 인터넷을 몇 달동안 몰래 사용해왔다는 걸 알게됐다. I got to notice that my neighbor has been piggybacking on my Internet for months.
+* 종이를 코팅한다고 할 때는 laminate 라고 합니다. 일반적인 상황에서 Paper coating 이라고 하면 알아듣지 못할 수 있습니다. 
+  * 그녀는 나뭇잎을 코팅해서 책깔피로 썼다. She used laminated leaves as a bookmark.
+* * give up rights to -ing = -에 대한 권리를 포기하다 [right to 동사]는 ‘~할 권리’입니다.  
+  * ex) a right to silence 묵비권 / a right to privacy 사생활에 대한 권리
+* 단어를 하나씩 따로 보기보다는, 이 전체를 하나의 표현으로 알아두시는 것이 좋습니다. in itself 라는 표현 자체에 이미 [그 자체로] 라는 뜻이 있지만 in and of itself 는 [다른 요소는 배제한 채 단독으로] 라는 모습을 좀 더 강조해주는 표현이라고 생각하시면 좋을 것 같아요.
+  * 네 행동만 놓고 보면 문제는 없었지. ex) Your behavior, in and of itself, was not a problem. 
+* 그게 다가 아니에요. 더 많은 사실이 있어요. = There is more to it. 보기보다 문제가 조금 더 복잡하고 어렵거나, 좀 더 재밌는 것들이 있을 때 쓰는 표현이에요.
+  * 돈이 인생의 전부는 아니에요. ex) There's more to life than just money.
+*  ~의 기반을 쌓다. ~의 토대를 놓다. = lay the foundation (of/for)
+  * 1) 문자 그대로 건축을 할 때 주춧돌이 되는 기초 토대를 만드는 것을 의미하기도 하고 - 전치사 of 
+  * 2) 영상에서처럼 이후에 발전시킬 무언가의 개념, 이론, 사실, 정책 등의 기반을 놓는 것을 의미하기도 합니다 - 전치사 for
+  * 테일러는 내가 이 조직의 기반을 쌓는데 정말 많이 도와줬어. ex) Taylor definitely helped me lay the foundation for our organization.
+* 합의했다; We have an understanding
+* go all out 은 뭔가를 대충대충, 혹은 적당히 하지 않고, '(노력/자원 등을) 있는 대로 쏟아부어 제대로 해버리다' 라는 뉘앙스의 구어적 표현이에요~! 요 문장에서도 '한국 트렌드 스타일을 제대로 해본 적은 없다'는 뜻으로 쓰였죠!
+  * 올해는 크리스마스 장식을 제대로/화려하게 좀 해봤어. I went all out with the Christmas decorations this year.
+* 나이 들면 뼈가 골절되기 더 쉽잖아. ex) When you get old, your bones are more prone to fracture.
+  * 그는 직장에서 사고로 손가락이 잘렸다. He had his finger cut off in an accident at work. 
   * 그들은 적의 퇴로를 차단했다. They cut off the enemy’s retreat. 
 * boil 은 [끓이다]라는 뜻이 있는데, boil down 은 양이 줄어들게(down) 끓이는, 즉, [졸이다]라는 뜻이 있어요. 냄비 한가득 있던 무언가를 졸이면 물은 다 증발해버리고, 핵심이 되는 무언가만 남게 되는 모습에서 쓰이는 표현입니다.
   * = 그 사건은 배심원단이 그를 믿는지 안 믿는지가 관건이야. The case will boil down to whether the jury believes him or not.
