@@ -7,11 +7,14 @@
 	* Ethan 미국식; 이뜬;  Hannah 미국·영국 [hǽnə]
 	* Lindsay 미국·영국 [líndzi]  Matthew 미국·영국 [mǽθju:] 
 	* 여자이름: Michel(l)e 미국·영국 [mi:ʃél]  남ㅈ: Mitchell 미국·영국 [mítʃəl] 
+* 1) 서양에선 밥 대신 빵이 주식이기에 [얻다, 벌다]라는 뜻의 win 과 합쳐져서 [breadwinner = 가장, 생활비 버는 사람]의 의미를 가지게 된 재밌는 표현이에요. 2) meal ticket 도 비슷한 맥락의 단어인데요. 직역하면 [식권] 정도가 되겠지만, 사람에게 쓰일 경우엔 굉장히 안 좋게 그 사람을 [돈줄, 밥줄]로만 여기는 것을 의미합니다.
+  * = 15살 이후로 내가 생계를 책임져왔다. I've been a breadwinner since 15.
 * 2) be stigmatized : 명사 stigma는 ‘오명, 낙인’이란 뜻으로 그것의 동사 stigmatize는 ‘(남을) 오명/낙인을 씌우다입’니다. 여기서는 영웅들이 낙인을 찍힌 기분이라는 뜻으로 역시 수동형 be stigmatized로 표현되었습니다. He was stigmatized as a traitor.
 * 3) be othered : other에 동사 뜻도 있는거 아시나요? 동사 other는 “타자화하다, 이질적으로 대하다”입니다. 자신이 속한 그룹과는 다른 문화나 특질을 갖고 있을 때 그것을 배척한다는 것이죠.
   * 성소수자들은 종종 사회에서 이질적인 취급을 받는다. Sexual minorities are often othered by society.
 * 동성애자는 가장 캐주얼한 표현으로는 gay 라고 하는데, 남성 뿐만 아니라 여성도 gay woman 이라고 합니다. 물론 여성 동성애자 분들은 lesbian 이라는 단어를 더 선호하고, 조금 더 격식 있는 단어는 homosexual 이고요.
 * 1) underdog은 ‘사회적 지위가 낮은 사람, 약자’를 의미합니다. 
+* 분위기 꺠는사람; buzzkill; i hate to be a buzzkill
 * 똑똑한 척 하는; fancy-pants(값비싼 바지) fancy-pants tool; 형용사 2. 멋쟁이; 
 	* 허풍을 떨다; He's kind of larger than life
 	* 너무 자신만만해; She's so full of herself; bragging: 물건 자랑
@@ -401,46 +404,6 @@ Mr.#arrogant
 * 분수에 안맞게 소비하다; #spend beyond one's means; mean; i've been spending beyond 
 * #천방지축 					He is so #fussy = appers to be #reckless
 * #까불다 #겸손 | #자만
-* 편한 분위기: #casual atmosphere, 고급스러운 분위기: #upscale/#fancy atmosphere
-* 분위기 좋다 					 	 	 Good vibe/atmosphere: 사물만
-* #물 좋아 that place #kicks/#rocks 
-* #rock on; 마음ᄁᅠᆺㅈ ᅟᅳᆯ기다; feel free to rock on
-* 분위기 띄우다; #liven up; to liven up
-* 분위기 안깨고 이동하는 법: #슬슬; #shall we
-* 분위기 바뀌고; the atmosphere turns
-* ○ Simple definition of #ambience (ambience의 간단한 의미)
-	: the mood or feeling of a particular place (어떤 장소의 분위기나 느낌)
-* ○ Full Definition of ambience (ambience의 확장적 의미)
-	: a feeling or mood associated with a particular place, person, or thing (어떤 장소, 사람, 		물건 등과 관련된 느낌이나 분위기를 총칭) 
-* 부정적인 분위기를 #풍기다 			 I don't want to give off that negative vibe
-* 그녀의 부인에는 #위선의 냄새가 강하게 났다.		 Her denials reeked of hypocrisy
-* 위선자야 You hypocrite [hípǝkrìt]
-* ☆기선제압하다 						#set the tone (2. #풍조를 만들다)
-* #outthink; outtalking the, outthinking them
-* #압도 #제압하다; #overpower
-* #압도적으로; #crushingly
-* 분위기 왜이래? what's with the vibe here? = what's happening here?
-* 그는 잘 받아준다 / 못 받아준다 / 분위기 망친다.	 He is a good sport / bad sport / spoilsport
-* 오늘 분위기는 최고였다 		 but that atmosphere today, that takes the cake = It's so cozy here!
-* 여기 분위기 어때요? 						 How do you like it here?
-* 분위기좀 띄어볼까?		 	 Let's spice up the mood. #lift the mood up
-* 흐름에 맡겨 							 	 Go with the flow!
-* 분위기를 누그러뜨리다 							 break the ice
-* #break the ice; #실마리를 찾다, #물꼬를 트다
-* 실마리를 주다; #shed light on =#cast light on = #throw light on
-* #기분 전환을 위해, #for the change of air, 분위기를 #일신하다; #clear the air
-* 기분 전환으로; #for a change
-* 분위기가 심상치 않아요 					 Something seems out of place
-* 분위기 않좋다, 안좋은 인상 받았어 	 it has some bad vibes, I got bad vibes from him
-* 분위기나 #흥을 깨다; #rain on someone's #parade
-  2. He rained on me that he was so tired; 불평, rain on somebody’s parade
-* 분위기 깨는 데는 역시 올 리가 한몫해요 				 trust him to lower the tone
-* #찬물을 끼얹다, #김새게 하다; #put a damper on something; #damper
-* #buzzkill; 분위기 죽이는 사람; he's such a buzzkil every time
-* 분위기 망치지 마; don't spoil the mood, don't rain my parade, look before you leap
-* #분위기 파악좀 해; #consider your surroundings, you fool
-* #aura, #feeling, #atmosphere - 기운, 분위기 
-* #흥 #기선제압 #분위기를 만들다
 * #용맹 valor = #valiant 
 용기 있는 #spunky
 * #intrepid; 용감 #무쌍한
@@ -539,7 +502,7 @@ it was a #painstaking invertigation
 * #thorough; #fastidiious #perfectionist
 * #계산적이다 #이해타산적	be #calculated
 * #까다로운	#picky, #particular / #choosy + about
-* #stickler; 까다로운 사람
+	* #stickler; 까다로운 사람 동사로 stickle 은 남들이 보기에 별거 아닌 일에도 목숨걸고 [우기다/이의를 내세우다] 라는 뜻이 있어요. stickler 는 사소한 일에도 그냥 못 넘어가는 까다로운 사람을 의미합니다.
 * Don’t be so picky; stop being picky
 * You have a #picky taste about men
 까다롭지 않은	#easy to please

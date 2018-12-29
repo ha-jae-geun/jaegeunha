@@ -96,7 +96,7 @@
 * #술버릇 									drinking habits
 * #술기운									 intoxication
 * 술김에 생기는 용기 #liquid courage; I had liquid courage
-* #취한 상태 sober< tipsy<buzz<drunk라고도 하고, intoxicated < krunk, wasted, hammered, plastered
+* #취한 상태 sober< tipsy-buzz-drunk라고도 하고, intoxicated < krunk, wasted, hammered, plastered
 * fucked up - passed out - sober up, he has one too many
 * #slizzard = #Intoxicated
 * #turnt; i'm so turnt
@@ -132,11 +132,12 @@
 * #금주 #술
 * #잔# 들어주세요; raise your glasses
 * 건배 제의 할게요				I'd like to propose a toast., let me make a toast.
-* 건배		 Bottoms up!, cheers, Let's make arink up, down the hatch, toast. D
-* 누가 건배사 할래요? 		Who wants to give a #toast?; 제안: propose a toast
-* #축사 #here's to ~ / to ~ | here's to another good year to your happy mariied life
-* #눈동자에 건배; Here's looking at you, kid
-* ~ 위해서 건배 to drink to someone/something Let's drink to Jessica's new job
+	* 2. '건배합시다'하고 제안할 때 [raise one's glass to OO]이 패턴을 써요. [ex] Let's raise our glasses to a successful year!
+	* 건배		 Bottoms up!, cheers, Let's make arink up, down the hatch, toast. D
+	* 누가 건배사 할래요? 		Who wants to give a #toast?; 제안: propose a toast
+	* #축사 #here's to ~ / to ~ | here's to another good year to your happy mariied life
+	* #눈동자에 건배; Here's looking at you, kid
+	* ~ 위해서 건배 to drink to someone/something Let's drink to Jessica's new job
 * a #votre sante
 * #마지막 한잔만 더 							 one for the road
 * #원샷					 bottoms up이나 down the hatch; drink up(무례)

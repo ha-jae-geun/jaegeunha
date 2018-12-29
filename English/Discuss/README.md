@@ -1,4 +1,7 @@
 # 단어
+* 말을 할 때 손이나 팔을 움직여서 표현하는 것을 말합니다. gesture(제스처, 몸짓)을 연상하시면 되겠네요! 
+	* = 발표를 할 때 손짓을 너무 많이 하는 것은 추천하고 싶지 않네요. Gesticulating too much during presentation isn’t advisable.  [dʒestìkjuléiʃən] 
+* 주장을 반학하다; counter arguments; she countered
 * 저는 함께 논쟁할 수 인쓴 사람을 원했어요; i wanted somebody to be able to tangle with
 * 열딘 논의; a heated debate
 * 논의가 열기를 더해가고 있습니다; The debate is heating up

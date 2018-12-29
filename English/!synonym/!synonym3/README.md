@@ -5,6 +5,69 @@
   * be made of (~로 만든) be made from (~로 만든) 뒤에 제품의 성분이나 재료가 오는데요, made of 는 제품의 완성 전,후의 물리적 변화가 있을때 쓰이고, made from 은 제품의 완성 전,후의 화학적 변화가 있을때 쓰입니다. 무슨뜻인지 잘 모르겠지요?🤣😂😆 예문을 보시면 퐈퐛! 이해가 될겁니다. 
     * This desk was made of hard wood.
     * Butter and cheese are made from milk.  The Bible says that man was made from the soil of the ground.  
+* * a cinch = 쉬운 일, 확실한 일 
+  * 알루미늄을 재활용하기란 정말 쉽다. ex) Aluminum is a cinch to recycle. 
+* choose 는 가장 일반적이고 포괄적인 [선택하다] 입니다. 반면 opt for 는 [여러 선택사항 중에 하나를 고르다] 에 가깝습니다.  참고로 bleach 는 [표백하다] 를 의미하고, opt for 사이에 instead 를 넣은 문장형태 입니다.
+  * 아이들은 뉴욕시 대신에 디즈니랜드로의 여행을 선택했다. The kids opted for a trip to Disneyland instead of New York City.
+* 흔히 쓰는 단어인데, 우리가 몰랐던 뜻을 가지고 있었네요. 어찌보면 운동(exercise)을 한다는 건 에너지를 끌어올리는 행동이니까 ‘발휘하다’와 같은 맥락이라고 볼 수도 있습니다.  참고로 exercise 는 헬스, 구기종목, 체조 등 모든 체육활동을 폭넓게 일컫는 말이긴 하지만, 꾸준한 운동으로 몸매 관리나 건강을 챙긴다고 할 때는 [work out] 이라고 주로 표현합니다. 
+  * = 그는 시위대에게 행동을 삼가라고 촉구했다. He urged the protesters to exercise restraint.ㄴ
+* 카드게임에서 패(cards)는 자신이 선택할 수 있는 옵션과 같죠. 그래서 카드패에 없다는 것은 발생하지 않는다, 선택할 수 없다는 걸 말합니다.  참고로 영국영어에서는 on the cards 미국영어에서는 in the cards 라고 합니다. 
+  * 지금 저에게 결혼은 별로 일어나지 않을 일이에요. 일에 집중하고 있어서요. Marriage isn't in/on the cards for me right now. I'm focused on my career.
+* [that + 문장]대신 know 의 목적어로 다른 명사를 쓰셔도 괜찮습니다. know 와 목적어 사이에 from experience 가 끼어 들어간 것으로 보시면 됩니다.
+  * = 내 경험상 폴이 이미 거기서 우리를 기다리고 있는 걸 알아. I know from experience that Paul is there already waiting for us.
+* snap 은 [탁하고 부러지다, 끊어지다] 또는 [찰칵, 딸까닥하는 소리]를 의미하는데요. 이성이 폭발할 때 마치 머릿속에서 [똑딱]하는 소리가 들리는 듯한 모습에서 [이성을 잃고 과격하게 행동하다]라는 의미로 쓰이기도 합니다. 주어로 폭발한 감정 자체가 올 수도 있고, 사람이 올 수도 있습니다.
+  * = 내 인내심이 결국 폭발해서 그녀에게 소리 지르기 시작했어. My patience finally snapped and I started yelling at her.
+* 보통은 [굉장히 질책하다]의 의미인 give someone a tongue-lashing 또는 [굉장히 질책 받다]인 get a tongue-lashing 이라고 쓰는 게 일반적인데요. 영상에서는 그냥 앞 부분 없이 썼어요. 상대방의 잘못된 행동에 대해서 화나서 소리 지르며 뭐라고 하는 것을 의미합니다.
+  * = 우리가 패배자처럼 경기를 한 후에 감독은 우리를 엄청나게 심하게 꾸짖었다. The coach gave us a severe tongue-lashing after we played like losers.
+* 원래 barrel 은 포도주나 맥주를 담아두는 큰 목재 통을 의미하는데요. 이게 데굴데굴 굴러서 통제가 안 되듯 굉장히 빨리 움직이는 걸 의미하는 단어입니다. 주로 미국에서 많이 쓰이고요. 영상의 towards 처럼 방향을 나타내는 전치사(over, down, along)와 함께 쓰입니다.
+  * = 크리스는 그 거리를 쏜살같이 달려 그녀에게로 향했다. Chris was barreling down the street towards her.
+* thematic 은 theme 에서 온 형용사로 [주제의, 주제와 관련된]이라는 뜻입니다. 우리나라에선 [테마]라고 읽는데 theme 의 경우엔  [θiːm]이기에 [씜] 정도로 읽는 게 맞고, thematic 의 경우엔 [θɪˈmætɪk]이기에 [씌매틱]정도로 읽는 게 맞아요. * infidelity = 배우자에 대한 부정
+  * = 그녀는 보상금에 관한 것을 간단히 언급했다. She made a brief reference to something about a bounty.
+* 위험하거나 멍청한 일을 하도록 누군가를 자극하는 걸 의미하는 동사입니다. 뒤에 to 부정사를 붙여서 어떤 행동을 하도록 자극하는지도 말할 수 있어요.
+  * = 걔들이 싸우도록 자극하지 마. 이미 서로에게 굉장히 화난 상태야. Don't egg them on to fight. They are pretty furious with each other already.
+* present 가 원래는 형용사로 [있는, 존재하는, 참석한] 등의 의미입니다. 그런데 사람이 어딘가에 있을 때 가끔 분명 몸은 그 자리에 있지만, 마음은 딴 곳에 가 있는 경우가 있잖아요? 그렇지만 present 라는 단어는 몸과 마음이 모두 다 그 자리에 '존재하는' 상태, 즉, 온전히 집중한 상태를 의미하는 형용사로 쓰이기도 합니다.
+  * = 전에는 이만큼 집중한 적이 없어. I've never been this present before.
+* 상대방에게 핵심이나 주장, 메시지 등을 강력하고 효율적으로 전달하여 완전히 이해하게끔 하는 것을 의미하는 표현입니다. home 이 존재의 '중심'이 되는 장소를 비유적으로 표현하기에, 조금 떨어져 있어서 애매한 개념을 중심으로 이끌고 와서 잘 이해하는 뉘앙스의 표현이에요.
+  * = 내 생각엔 그가 청중들에게 그의 핵심을 꽤 잘 전달했다고 생각해. I think he drove his point home pretty well to the audience.
+* 이 표현은 직역하면 [서로의 문장을 완성하다]인데요. 서로의 마음이 잘 통하고 이심전심이라는 걸 보여주는 영어 표현 중 하나로, 실제로 영어권 사람들은 상대방이 말을 끝내지 않아도 그 사람이 무엇을 말하는지 알고, 그 말을 하는 걸 토대로 둘이 얼마나 잘 통하는지를 판단하는 경향이 있어요.  의역하면 [이심전심이다, 짝짜꿍이 잘 맞다] 정도이지만, 이후에 나오는 영상에선 말 그대로 서로가 말을 똑같이 하는 장면들이 나오기에 그대로 직역 되었습니다. 영화 '겨울 왕국' OST 중 Love is an open door 라는 노래에서도 이 표현을 조금 꼬아서 finish each other's sandwiches 라고 나온답니다.
+  * = 메리와 제인은 말 안 해도 이심전심으로 잘 통해. Mary and Jane finish each other's sentences.
+* = 부모님께서 저희가 공부나 그런 것들에 집중할 수 있도록 저희를 위해 길을 닦아 놓으셨어요. My parents have paved the way for us so that we can focus on our study and stuff.
+* 동사로 쓰이면 [밀다/밀어붙이다/(열심히 하도록) 다그치다/독려하다] 등, 누군가를 앞으로 나아가도록 하는 뉘앙스의 단어에요. 그래서 명사로 쓰이면 [격려/독려] 의 의미를 가진답니다.
+  * 내가 필요한 건 앞으로 나아갈 약간의 격려인 것 같아. ex) I guess what I need is a bit of a push to move on.
+  * 2) 강력한 동기부여 = a kick in the butt 엉덩이를 걷어차면 화들짝 놀라 깨어나는 모습이겠죠? 그런 모습에서 유래된 표현으로, 조금 동기부여가 되지 않는 사람에게 동기부여를 해주는 다소 강한 말이나 행동을 의미하는 표현이에요.
+    * 사는 동안 언젠가 우리 모두는 강력한 동기부여가 필요해요. ex) We all need some kind of kick in the butt at some point in our life.
+* 1) drill 이 [반복적으로 하는 연습] 을 의미하기도 해요. 영상에서와 같은 패턴으로 쓰이게 되면 반복을 통한 가르침으로 주입시키는 것을 의미합니다. A를 B에 주입하다 = drill A into B 2) 영상에서는 A가 the thing that your're trying to do 인데요. 이렇게 목적어가 조금 길 경우에는 뒤로 빼는 경우가 종종 있어요.
+  * 선생님들이 수학 공식을 우리에게 주입시켰다. ex) The teachers drilled the math formulas into us.
+* say it again(다시 말하다) / do it again(다시 하다) 을 문어체로 말하면 reiterate 입니다. 강조하기 위해서 한번 더 반복한다는 뜻입니다.  격식있는 자리에서 “거듭 말씀드리지만” / “재차 언급하지만” / “한번 더 강조하고 싶네요” 와 같이 표현할 때 다음과 같은 패턴을 써보세요.
+  * - I should reiterate that/what….; - Let me reiterate that/what…; - I would like to reiterate that/what…
+* 요새 인터넷에서 ‘꿀팁’이라는 단어를 자주 쓰죠. 바로 hack 이 그 꿀팁에 해당하는 단어입니다. hack 은 어떤 일을 해결해주는 방법, 조언 등을 말하는데요, 여기서 나온 a quick hack 은 ‘지름길, 빠른 방법, 손쉬운 방법’ 정도가 됩니다. hack to become 이 아니라 hack to becoming 이라고 하였네요. a quick hack 을 '지름길'이라고 하였죠. 비판적 사고를 하는 사람이 되는 목표로 ‘향해 가는 것’이기 때문에 방향성을 갖는 전치사 to 가 온것입니다. go to school(학교로 가다)처럼요. 
+* 나쁜 일을 겪다라고 할 때는 동사로 go/be through 입니다. 또한, 고난과 역경을 이겨내는 것은 overcome 이라고 하죠.  ‘역경, 고난’은 영어로 adversity 혹은 hardship 이라고 합니다. 특히 hardship 은 economic hardship(경제적 곤란), financial hardship(재정적 곤란)처럼 돈과 관련된 형용사와 잘 쓰입니다.
+  * = 역경을 겪지 않고는 훌륭한 사람이 될 수 없다. No one can be a great man without going through adversity.
+* 어떤 일에 완전히 주의 집중을 한다는 뜻으로 rapt attention(완전히 집중함), rapt expression(몰입한 얼굴), rapt audience(몰입한 청중) 처럼 표현할 수 있습니다. 
+  * = 아이들은 완전히 주의를 집중하며 보고 있었다.  The children watched with rapt attention. [ræpt]
+* 1) interject 는 남이 얘기하는데 ‘끼어들다, 말참견하다’는 뜻의 문어체적인 단어입니다. 유의어로는 jump in(끼어들다), cut off(대화를 끊다)가 있습니다. 
+  * = “그렇게 하면 안되지” 그녀가 말참견하고 나섰다. “That’s a bad idea,” she interjected.
+* 이 표현은 ‘중요하게 만들다, 유명해지다’라는 뜻을 가진 관용어입니다. 유명한 곳이면 사람들이 자주 찾을거고, 그러다보면 지도에도 표시가 되겠죠?
+  * = 사실상 서울이 유명해진 것은 1988년 올림픽게임 때였다. It was the 1988 Olympic Games that really put Seoul on the map.
+* chuck은 ‘던지다, 내던지다’이고, deuce는 숫자 2, 여기서는 검지손가락과 가운데손가락을 지칭합니다. 영상 장면에서도 나오듯이 chuck deuces라고 하면 ‘손가락으로 V자를 내보여라’라는 것이죠. 'V자를 그리며 어디선가 퇴장하다'라는 뜻으로도 쓰입니다.
+  * 그는 교실을 나갈 때마다 손가락으로 V자를 해. 그게 멋지다고 생각하나봐. He always chucks deuces when he leaves the classroom. I guess he thinks that’s cool. [duːs]; 주사위 2
+* : 우는 소리를 표현한 의성어인데요. 여기서처럼 '엉엉, 참 슬프기도 하네/하시겠네' 라는 비꼬는 뉘앙스로도 자주 사용해요!
+  * 엉엉- 참 슬프기도 하시겠네. 넌 안 찡찡거릴 때가 있긴 하냐? Oh, boo hoo. Do you ever stop whining?
+* This goes out to... = ...에게 이걸 바칩니다 this 대신 my heart(내 마음)/sympathy(동정)/thoughts(생각/기도) 등을 쓰기도 하는데요, 자연재해 피해자 등에게 응원 메시지 보낼 때 쓰는 표현입니다.
+  * 지진 피해자들을 응원합니다/~를 위해 기도합니다. Our thoughts go out to the victims of the earthquake.
+* : 1차적으로는 '~가 들어오지 못하게 막다' 라는 뜻! 이처럼 인간 관계에서 누군가를 '내치다, 피하다', '관계를 끊으려 하다' 라는 의미로 쓸 수 있어요.
+  * 왜 자꾸 날 외면해? Why are you shutting me out?
+* : '무언가를 더 넓은 시야에서, 혹은 상대적이고 객관적인 관점에서 바라볼 수 있게 한다' 는 뜻! 이 문장은 큰 바다가 비욘세에게 삶에 대한 상대적인 관점을 제시한다는 뜻이죠.
+  * 삶을 좀 더 객관적으로 바라보고, 숲을 볼 필요가 있어. You need to put your life into perspective and see the bigger picture.
+* set an example : '본보기가 되다', 비욘세의 패기까지 함께 기억해봐요!
+  * She set a good example for her sister.
+* 'she is fire' 은 불 같은 열정을 가진 성격을 가졌다는 뜻으로 사용된 비격식적 표현입니다.  'She is on fire.'라고 하면, '불 붙었다'라는 뜻이 돼요. (어떤 일에 100% 집중한 상태에서 엄청난 성과를 내고 있다는 뜻)
+* [ 숙어 ] hole up: (비격식) 숨다
+  * 어디 안전한 곳을 찾아서 아침까지 숨어있도록 하자. Let's find some place safe and hole up until the morning.
+* : '기억에 남을만한, 정곡을 찌르는, 아주 절묘한 문장, 경구 따위를 만들다' 라는 뜻이에요! "Help will always be given at Hogwarts to those who ask for it. 호그와트에서는 도움을 구하는 자에게 도움이 언제든 주어진단다" 라는 말을 두고, 덤블도어는 '절묘하게 말하는' 본인 능력을 항상 자랑스럽게 여겼다는 뜻에서 쓴 표현이었죠. my ability to turn a phrase
+* 누군가의 행동을 비난하고 나선다는 뜻으로 좀 더 목소리를 내거나 공개적으로 비난한다는 뉘앙스가 있습니다.  * call 사람 out on 행동 = ~에 대해 비난하다
+  * = 사람들 앞에서 공개적으로 그녀를 비난하고 나서는 것은 타당하지 않았어. Calling her out in front of everyone wasn’t exactly fair.
+  * = 너같은 초급자를 위한 손쉬운 방법 하나를 알려주지. I will teach a quick hack for beginners like you.
 * expect는 '기대하다, 예상하다, 바라다' 라는 의미로 어느 정도 근거를 가지고 기대한다는 뜻입니다.(객관적) 1) 'expect+명사' 2) 'expect that+주어+동사' 3) 'expect+사람+to 동사원형' 형태로 씁니다. look forward to 는 '~하기가 너무 기다려지다, ~하기를 바라다' 라는 뜻으로 감정이 섞인 표현입니다. 
 'look forward to + 명사/~ing' 형태로 씁니다.
 * sit은 '(서 있다가)앉다, 앉아있다' 는 의미입니다. 'sit down'은 서 있는 상대방에게 '그 자리에 앉으세요'라는 말이지요. 스스로 앉는다는 의미이므로 뒤에 목적어가 필요없어요. 목적어가 필요없는 동사를 자동사 라고 한다는건 다 아시죠? seat은 '~를 (자리에)앉히다' 라는 뜻으로, 목적어가 꼭 필요한 타동사이며, 명사로는 자리, 좌석 이라는 뜻으로 씁니다.

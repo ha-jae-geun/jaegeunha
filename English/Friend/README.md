@@ -34,6 +34,7 @@
 	* 다시 봐서 반가웠어; It was nice to see you again = It was good seeing you
 
 # 놀다
+* 1) 다들 한 번쯤은 들어보셨을 법한 표현인데요. hang out 은 거창한 목적 없이 시간을 보내며 노는 것을 의미합니다. 친구와 함께 노는 것도 되고, 아니면 그냥 혼자 이것저것 하며 시간을 보내는 것도 의미합니다. 2) [어울려 놀다/지내다] 라는 의미의 get along 이라는 표현도 있는데요. get along 은 정말 마음 맞는 친구와 '죽이 잘 맞게' 어울려 노는 것을 의미하는 반면, hang out 은 꼭 친한 친구가 아니더라도 함께 시간을 보내며 노는 것을 의미하기도 해요.
 * 말장난해본 겁니다; Pun intended
 	* 살짝 끼얹어본 농담인데요; a little tongue-in-cheek; idea
 	* 농담을 하다; crac/make/tell a joke

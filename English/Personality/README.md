@@ -1,3 +1,9 @@
+# 차이
+* 1. 성격이 좀 소심하고 사회생활이 능숙치 못한 사람 보고 awkward하다고 해요. 2. 그리고 중학교 들어가면 외모도 좀 바뀌고 남들 의식하기 시작하는 어색한 시절이 오죠? 그 때를 awkward phase라고 해요. 옛날 사진첩을 보다 중딩 암흑기 때 사진이 나오면 이렇게 말해요. "I was going through an awkward phase." 3. 분위기나 상황이 '뻘쭘'할 때도 awkward를 쓸 수 있어요.
+	* 대화 내내 진짜 뻘쭘했어. [ex] The whole conversation was so awkward.
+
+
+# 성격
 * 예를 들어, [난 내성적인 사람이야] = [I'm an introvert.] 라고 말하면 뭔가 나를 단정지어 말하는 느낌인 반면에, [난 내성적인 편이야] = [I'm more of an introvert.] 라고 말하면 항상 내성적인 것만은 아닌 뉘앙스의 표현을 할 수가 있어 굉장히 유용한 표현이에요. <> less of 명사
 * 엉뚱, 4차원, 독특 
 	* 넌 엉뚱하다. You are outrageous / extraordianry / absurd; 

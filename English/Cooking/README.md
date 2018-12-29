@@ -63,6 +63,7 @@
 * 와나전 터져나오고 있어요; It's flipping exploding out
 
 # taste
+* 고소하다; 똑같은 뜻은 없다; savory: 고소, 맛있다, 향이 좋다. flavory
 * 식욕을 잃다; lose one's appetite; 식욕이 없다; have no appetite
 * 차게 먹는게 나; It tastes better cold; taste good/better (when it's) cold
 * 살짝 탄 토스트; Lightly burnt toast

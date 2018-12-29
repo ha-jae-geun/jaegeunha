@@ -21,6 +21,7 @@
 * I said I would be ther as soon as I could
 
 # 접두어
+* But that said / that said / having said that 등으로 표현하고 ‘그렇긴 하지만’을 의미하는 구어체 부사구입니다. 일반 회화에서도 딱딱하지 않게 쓸 수 있는 부사이니 활용해 보면 좋겠네요.
 * -할떄가 좋더라; I like it when
 * 족히 4-6분이요; good: 족히, 상당한, 큰; It'll takea good hour or two
 * 어떻게 해서든; One way or another
@@ -124,6 +125,8 @@
 * 내말 믿어봐 진짜야; Take it from me
 
 # 말투
+* 다 잘될거야; Things will work out. Everything will work out.
+* 원래는 “The proof of the pudding is in the eating.” 인데요, 영상처럼 짧게 표현하기도 합니다. 실제로 해보기 전에는 모른다는 뜻으로 14세기 경부터 쓰인 아주 오래된 속담입니다. 우리말의 ‘길고 짧은 건 대봐야 안다’, ‘백문이 불여일견이다.’ 등과 같습니다. 
 * 내말 들었잖아, 잔말 말고 해; YOu heard me
 * 너 딱 걸렸어; YOu're busted
 * 직접 보여드리고 싶은데요; I'd like to show you first-hand

@@ -1,6 +1,47 @@
+# 분위기
+* 편한 분위기: #casual atmosphere, 고급스러운 분위기: #upscale/#fancy atmosphere
+* 분위기 좋다 					 	 	 Good vibe/atmosphere: 사물만
+* #물 좋아 that place #kicks/#rocks 
+* #rock on; 마음ᄁᅠᆺㅈ ᅟᅳᆯ기다; feel free to rock on
+* 분위기 띄우다; #liven up; to liven up
+* 분위기 안깨고 이동하는 법: #슬슬; #shall we
+* 분위기 바뀌고; the atmosphere turns
+* ○ Simple definition of #ambience (ambience의 간단한 의미)
+	: the mood or feeling of a particular place (어떤 장소의 분위기나 느낌)
+* ○ Full Definition of ambience (ambience의 확장적 의미)
+	: a feeling or mood associated with a particular place, person, or thing (어떤 장소, 사람, 		물건 등과 관련된 느낌이나 분위기를 총칭) 
+* 부정적인 분위기를 #풍기다 			 I don't want to give off that negative vibe
+* 그녀의 부인에는 #위선의 냄새가 강하게 났다.		 Her denials reeked of hypocrisy
+* 위선자야 You hypocrite [hípǝkrìt]
+* ☆기선제압하다 						#set the tone (2. #풍조를 만들다)
+* #outthink; outtalking the, outthinking them
+* #압도 #제압하다; #overpower
+* #압도적으로; #crushingly
+* 분위기 왜이래? what's with the vibe here? = what's happening here?
+* 그는 잘 받아준다 / 못 받아준다 / 분위기 망친다.	 He is a good sport / bad sport / spoilsport
+* 오늘 분위기는 최고였다 		 but that atmosphere today, that takes the cake = It's so cozy here!
+* 여기 분위기 어때요? 						 How do you like it here?
+* 분위기좀 띄어볼까?		 	 Let's spice up the mood. #lift the mood up
+* 흐름에 맡겨 							 	 Go with the flow!
+* 분위기를 누그러뜨리다 							 break the ice
+* #break the ice; #실마리를 찾다, #물꼬를 트다
+* 실마리를 주다; #shed light on =#cast light on = #throw light on
+* #기분 전환을 위해, #for the change of air, 분위기를 #일신하다; #clear the air
+* 기분 전환으로; #for a change
+* 분위기가 심상치 않아요 					 Something seems out of place
+* 분위기 않좋다, 안좋은 인상 받았어 	 it has some bad vibes, I got bad vibes from him
+* 분위기나 #흥을 깨다; #rain on someone's #parade
+  2. He rained on me that he was so tired; 불평, rain on somebody’s parade
+* 분위기 깨는 데는 역시 올 리가 한몫해요 				 trust him to lower the tone
+* #찬물을 끼얹다, #김새게 하다; #put a damper on something; #damper
+* #buzzkill; 분위기 죽이는 사람; he's such a buzzkil every time
+* 분위기 망치지 마; don't spoil the mood, don't rain my parade, look before you leap
+* #분위기 파악좀 해; #consider your surroundings, you fool
+* #aura, #feeling, #atmosphere - 기운, 분위기 
+* #흥 #기선제압 #분위기를 만들다
 * 분위기 느끼는거 어때? Would you get in the spirit of things?
 * 신나게 파티나 할래; i'm getting down
-* 파티 망치려고? Trying to crah another party
+	* 파티 망치려고? Trying to crah another party
 	* 초대받지 않은 파티를 가다; Can i crash your party?
 
 * #축제

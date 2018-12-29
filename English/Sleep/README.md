@@ -1,3 +1,9 @@
+# 차이
+* 1) oversleep 이라는 단어도 [늦잠을 자다] 라는 뜻이 있는데요. 접두사 over 는 [과도하게] 라는 의미를 가지고 있습니다. 그래서 oversleep 은 8시에 일어나려는 '자신의 의도와는 다르게' 9시까지 '자버린' 것을 의미하는 반면, 2) sleep in 은 평소엔 8시에 일어나는데, 주말이라 좀 더 자고 싶어서 9시에 일어나는 경우처럼, '자신의 의도대로' 자연스럽게 늦게 깨는 것을 의미합니다.
+* asleep 은 형용사로 [잠이 든] 이라는 뜻을 가지는데요. 앞에 dead 가 붙으니 어떤 느낌인지 확 감이 오시죠? ㅎ 시체처럼 깨워도 안 일어날 듯이 푹 잠든 모습을 나타내는 단어입니다.
+	* 걔 깨우지 마. 세상 모르고 자고 있어. ex) Don't wake him up. He's dead asleep.
+
+# 기타
 * mmorning people <> night owls/late nighters
 * go off to bed = #slumber = #catch so me Z's #잠자기; a #slumber party
 * 난 잘 잤어요; Did you slep well -> Did you get a good night's sleep / Sleep tight / Have a good night's sleep

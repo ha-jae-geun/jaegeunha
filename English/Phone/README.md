@@ -26,6 +26,7 @@
 * 보조 배터리 있어; i have a power bank
 
 # 사진
+* * 명사일 때 shoot 은 ‘촬영’이고, shot 은 ‘사진’입니다. 동사로는 [shoot: 촬영하다], [be shot: 촬영되다] 입니다. 발음도 [shoot: 슛] 그리고 [shot: 샷] 이니 헷갈리지 마세요!
 * 화질 안좋은것 봐; IT's so pixely
 * 남자 웃통 벗은 사진; shirtless photo; 여자: topless
 * 얼굴 사진, 상반신 사진; mugshot
@@ -147,7 +148,7 @@
  * #커뮤니티 #사이트
 
 
-#전화
+# 전화
 * 틀린 번호를 준거야; You got fake-numbered
 * 전화 겁니다; SHoot that through
 * 차단 완료; Blocked

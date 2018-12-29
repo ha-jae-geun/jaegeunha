@@ -55,6 +55,7 @@ I have a big crush on you / I have a thing for you, i'm into you
 * 차다; i dumped him; i was/got dumped
 * 점점 멀어지다; we've grown apart; we grew apart
 * 바람피다; cheat on someone
+	* 바람 피는 상대; side chick = mistress
 * 남자는 많아; there are lots/plenty of fish in the sea/ocean
 * 잊다; finally over somebody
 	* i haven't abeen able to get past it
@@ -183,6 +184,7 @@ I have a big crush on you / I have a thing for you, i'm into you
 * #피로연	(Wedding) #Reception
 * 그들은 성격 차이로 헤어졌어요. 			They parted on grounds of differences of opinion. 
 * 그들은 #이혼 소송 중이에요. We're in the midst of a divorce.	
+	* 배우자에 대한 부정 marital infidelity  ˈmærɪtl] [ˌɪnfɪˈdeləti]
 	* 이혼 당하다; i'm divorced; 이혼하다; i divorced
 	* 이혼도 있었고; There's been divorces
 	* 혼인 무효; #annulment

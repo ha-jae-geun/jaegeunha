@@ -62,6 +62,8 @@
 * 컴퓨터가 고장났어요; his computer crashed
 
 ## 소셜 미디어
+* 여기서 at 은 SNS상에서 답을 달거나 글을 쓸 때 붙이는 골뱅이(@)를 말합니다. 영상의 화면에 나오는 것 처럼 @Vogue, @ Beyoncé 라고 썼다는 뜻입니다.
+	* He @replied to Amy on Twitter. (발음: at-replied)
 * 페이스북 앱을 삭제하는 사람보다 새로 가입하는 사람 수가 더 많다 the newcomers outnumber the people deleting the app 
 * 인사트그램에 올릴만하다; ~ is Instagrammable
 * 사진 찍어서 인스타에 올렸어; i just snapped a photo, put it up on Instagram
