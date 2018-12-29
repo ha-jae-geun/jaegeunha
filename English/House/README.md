@@ -16,6 +16,7 @@
 
 # 기타
 * 집 쳐들어가기; home inavasion
+	* 경비; gatekeeper 미국·영국 [ˈɡeɪtkiːpə(r)]
 * 투박하게 살다; 편안한집, 전기, 난방시설 등 호화로운 시설 없이 불편하게 살거나 캠핑하다; I'm roughingg it(제대로 된 캠핑을 할거야)
 * 즐거운 우리 집; home sweet home
 	* 잘곳이 없잔ㅇ하; we have a roof over our heads; a roof over one's head
@@ -567,6 +568,8 @@
 * 삶을 완전히 뒤바꿔놓다 = turn one's life/world upside down
 * 사실, 걔 L.A.에서 완전 호화롭게 잘 살고 있어. Actually, he's been living it up in L.A. live it up: 사치스럽게 즐기다
 	* 인생을 즐겨; Live a little
+* 그럴 리가 없다; That'll be the day
+* 덤	벼봐, 할 테면 해봐; Make my day = give me a cchance to back at you
 
 ## 운명
 * 운명을 다시 써보는 건 어때? WHy don't we rewrite the stars

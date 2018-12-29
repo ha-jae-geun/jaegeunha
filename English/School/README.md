@@ -104,6 +104,7 @@
 * #학생증 student ID
 * #과목 필수 #과목 #mandatory class #필수 과목 required #course #선택 과목 #elective course
 * #수업 #시간표 #course schedule
+	* 학교 시간표가 나왔는데요; My schedule is out
 * 청소년 문화 youth culture 또래나 동료간의 압박 #peer pressure
 * 인격 발달: personality development 학과 외 활동: #extracurricular activities
 * 대입 시험 college entrance exam 캠퍼스를 벗어난 생활: off=campus life
@@ -489,7 +490,7 @@
 	* 나 합격했어 I've passed
 	* 시험 #망하다 #flunk test = fail an exam
 	* 수업 모두 F: fail a course/class
-	* #커트라인 #합격선 passing grade
+	* #커트라인 #합격선 passing grade; 커트랑니 통과했니? Did you make the cut to get into Law School?
 	  * I’m into the list; I’ll put you on the waiting list
 	* 합격: #approve
 	* #구두 영어 시험 

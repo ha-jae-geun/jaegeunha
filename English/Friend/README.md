@@ -1,3 +1,4 @@
+* 우리 흩어져서 가야할것 같아; I think we should split up
 * 친구 Old/good sport, homies
 	* 2) '친구는 또 다른 나의 모습' 이라는 말 한번쯤 들어보셨나요? alter ego 는 '절친' 을 의미하기도 합니다.
 	* 어울리지 않은 친구; They are so; unlikely friends
@@ -13,6 +14,7 @@
 * 저 손금 읽는 거 알아요; i know hand fortune-telling
 * 난 네게 등돌리지 않을게; i wouldn't turn on you
 * 고등학교 시절 예쁜 친구 찾으려면; if  you wanna look up all these hotties
+* 배신하다; 그가 갱단의 나머지 사람들을 배신하고 그 돈을 모두 가지고 사라졌다.He double-crossed the rest of the gang and disappeared with all the money. 
 
 # 추억
 * 추억에 잠기고 싶다; I feel like reminiscing

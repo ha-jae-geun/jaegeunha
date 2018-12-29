@@ -84,22 +84,23 @@
 * #고소득 #저소득 #well-paying - #high-paying
 * 자동차 보험 가입했어? did you take out a car insurance?
 * 세금 걷는 사람 								 Tax collector
-* #납세자 #tax-payers
-* 세액 tax amount, tax liability, an assessment; 결정 세액: the settled tax amount
-* 세금 포함 ~에요 with tax it comes to ~$
-* 세금 빼고 월 천 달러예요. 			 A thousand dollars a month after taxes.
-* 세금을 #면제하다; #waive the taxs
-* 세금과 봉사료가 포함된 가격이에요? 		 Does this include tax and service charge?
-* #과세 등급; [명사] 과세 등급; There are now only two tax brackets—22% and 40%.
-* 나 세금 정산해야 해 							 I have to do my taxes
-* 너 세금 정산 했어? 						 Did you do your taxes? 
-* #세금 공제; #tax credit / #공제; get a tax #deduction 
-* #turbotax; 세금 계산 소프트웨어 이름
-* #세전; #pretax income #감세; #tax break 
-* #감세 수단; #tax shelter
-* #세금 환급; #tax rebate
-* #법인세; #corporate income tax rate
-* #국세청; #Internal Revenue Service
+	* 이용자 참여  다시 이렇게 말씀드리겠습니다 : 이 세금감면은 2007년에 없어진다고. Let me say this again : this tax break disappears in 2007. 듣기
+	* #납세자 #tax-payers
+	* 세액 tax amount, tax liability, an assessment; 결정 세액: the settled tax amount
+	* 세금 포함 ~에요 with tax it comes to ~$
+	* 세금 빼고 월 천 달러예요. 			 A thousand dollars a month after taxes.
+	* 세금을 #면제하다; #waive the taxs
+	* 세금과 봉사료가 포함된 가격이에요? 		 Does this include tax and service charge?
+	* #과세 등급; [명사] 과세 등급; There are now only two tax brackets—22% and 40%.
+	* 나 세금 정산해야 해 							 I have to do my taxes
+	* 너 세금 정산 했어? 						 Did you do your taxes? 
+	* #세금 공제; #tax credit / #공제; get a tax #deduction 
+	* #turbotax; 세금 계산 소프트웨어 이름
+	* #세전; #pretax income #감세; #tax break 
+	* #감세 수단; #tax shelter
+	* #세금 환급; #tax rebate
+	* #법인세; #corporate income tax rate
+	* #국세청; #Internal Revenue Service
 * #file a return; #return
 * #신고; #declare
 * #자본 이익; #capital gain 

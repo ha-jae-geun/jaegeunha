@@ -45,8 +45,8 @@
 
 * 뒤이어 나온 식사는 진정한 #잔칫상이었다. The meal that followed was a veritable banquet/feast
 * (손님에게 주는 작은) 파티 선물 					 'pɑ:rti f'éivər party favor 
-* 해리는 초대하지 마. 분위기 깨는 녀석이잖아. 
-* ɪn'vaɪt	pɑ:rti pu:pər Don't invite Harry. He's such a party pooper. 
+* 해리는 초대하지 마. 분위기 깨는 녀석이잖아.  * ɪn'vaɪt	pɑ:rti pu:pər Don't invite Harry. He's such a party pooper. 
+	* 분위기 파악좀해; Get with the program
 * 파티 망치게 하는; someone else is #scratch the party
 * he is a #wet blanket / #always a #killjoy
 * 그는 파티광이기도 하다. 				 p''ɑ:rti 'ӕnɪml He's a party animal as well

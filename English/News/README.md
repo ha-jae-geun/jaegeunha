@@ -9,6 +9,7 @@
 * 호날두
 * 풋볼리크스
 
+* 소식을 알리다; break the nws; 파편이 퍼지는 모습에서 유래; 소식을 알리기 위해 부모님을 찾았다. i went my parents to break the news
 * 그 소식 듣고 반응이 어떘어요? How did he take the news?
 * 독점: Exclusive:
 * 뉴스 있어? Is there any news? / Any news?

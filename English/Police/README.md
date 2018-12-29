@@ -298,6 +298,7 @@
 * #주검찰청 #state attorney general's office #지방검찰 #district attorney''s office
 * #신분증 검사; they #carded you; I got carded at a bar the other night
 * #특검; #special prosecutor
+* 예심; 이용자 참여  그의 예심은 금요일로 예정되어 있다. He has a preliminary hearing scheduled for Friday . 듣기
 * #변호사 #국선 변호인							 public defender
   * 혹은 ‘변호사’를 뜻하기도 하는데요, lawyer는 법을 전공하고 변호사 자격증을 딴 사람을 넓게 포괄하여 부르는 말이고, advocate은 법정에 서서 의뢰인을 대변하는 변호사를 특정하여 부르는 말입니다. 
   * #변호인 Councillor(2. #지방의회의 #위원)
@@ -347,6 +348,8 @@
 * 잔인한 vicious little word, vicious attack/dog
 * 체포합니다 You’re under arrest
   * 붙잡다; be held captive; hold 사람/동물 captive
+  * 그는 두 명의 남자에게 붙잡혀 팔이 뒤틀린 채 홀 밖으로 끌려 나갔다. He was grabbed by two men and frogmarched out of the hall.  frɔːɡmɑːrtʃ;ˈfrɑːɡ-] 
+  * 사람들은 서로 앞을 더 잘 보려고 마구 밀치고 야단이었다. [V] The crowd was pushing and shoving to get a better view.  거칠게 밀다: shove
   * * 그는 현행범으로 체포됐어요.  He was caught red handed on the spot .
 * #잔인한 cruel, brutal, inhumane - 잔인한, 잔혹한 <-> innocent - 결백한, 순수한
 * #잔혹; #atrocity

@@ -19,6 +19,7 @@
 	* 허풍 떨지말고; Don't brag about it; She keeps bragging about her car
 	* 그 사람은 이길 때 잘난척이 심해져; He gets a bit cocky when he's winning
 	* 원래는 [정사각형] 을 의미하는 단어인데요. 정사각형은 가로 세로의 길이도 같고 각도도 같아 조금은 지루한 도형일 수가 있습니다. 그런 모습을 생각하시면 기억하기 쉬운 단어인데요. 사람도 바뀌지 않고 예전 방식 그대로를 고수하고 고지식하고 지루한 사람을 비격식 표현으로 square 라고 합니다.
+	* 어린애라고 해서 그를 넘보아서는 안 된다 You should not make light of him as a mere boy . 듣기 출처:동아 출판
 * 평범한 건 원하지 않아요; We don't want the standard
 * 추종자들이 있는 권위자, 전문가; guru; 흰두교에서는 종교적 스승, 지도자   expert: 사람들의 전중ㅇㄹ 받는 전문가
 * 그는 독보적이다; He's a one of a kind

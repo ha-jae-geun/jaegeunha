@@ -1,5 +1,7 @@
 ## 기타
+* 뼈 마디가 쑤셔요; i'm bone-tired  
 * 토할것 같애; i think i am gonna sick
+* 의욕이 없어요; i've lost my drive  
 * 가렵다; i itch all over; i've got an itch on my back
   * My nose and eyes are very itchy
 * 딸꾹질나요; i have the hiccups
@@ -396,6 +398,8 @@
 * #대장 #내시경	#colonoscopy; 코울런아스크러피
 * #검출; be #detected/found in
 * #발암; #carcinogenic;  [kɑ:r|sɪnədƷən]
+  * 암 말기  She is diagnosed with late - stage lung cancer = suffer from terminal cancer 
+    * 말기암 환자; Terminal ill cancer patient
 * #자폐; #autism 미국·영국 [|ɔ:tɪzəm]; kids with autism
 * #불치병; #incurable disease, 
 * 나 ##암진단 받았어요 		 (with)힘든쪽 1daɪəg2noʊs 	
@@ -549,10 +553,13 @@
 * 식욕이 없어요. 	I don't have much of an appetite. ‘ӕpɪtaɪt
 * 어지러워서 쓰러질 것 같아요. 	I'm dizzy and feel like fainting. 
 * 변비가 심해요. 	I have severe constipation
+  * 변비가 생겼어요; i'm backed up = i've got a constipaition = i'm constipated
+  * 요새 설사가 나서요; i'm irregular = i;ve got diarrhea
 * 혈변이 나와요. 	There's blood in my poop. 
 * 치질인 것 같아요. 	I think I have hemorrhoids. ‘hemərɔɪdz
 * 코를 너무 세게 풀어서 아파요. 	I blew my nose so hard it hurts. 
-* 코 안이 다 헐었어요. 	The insides of my nostrils are all sore. ‘nɑ:strəl
+  * 코 안이 다 헐었어요. 	The insides of my nostrils are all sore. ‘nɑ:strəl
+  * 코가 막혔어요; i've got sinus trouuble/ache/pain/problem  [ˈsaɪnəs]
 * 귀에 물이 들어갔어요. 	I got water in my ear.
 * 귀에서 고름이 나요. 	There's pus inside my ears. 
 * 목이 쉬었어요. 	I'm hoarse. 
@@ -561,6 +568,7 @@
 * 손등에 발진이 생겼어요. 	I have a rash on the back of my hand. 
 * 벌에 쏘였어요. 	I got stung by a bee. 
 * 흉터가 생길까요? 	Will it leave a scar? 
+* 소화; 음식을 넘길 수가 없어요; I can't keep anything down
 * 소변을 자주 봐요. 	I have to urinate a lot. ‘jʊrəneɪt
 * 얼굴에 #여드름이 났어요. 	My face is breaking out in pimples/#acne. 
 * #zit I have bad acne
@@ -706,6 +714,7 @@
 * 피임약; birth control pill = morning after pill
 * 과해지면 안되는데; Don't overdose
 * 진정제; sedative 미국식 [ˈsedətɪv]  tranquillizer 미국식[ˈtræŋkwəlaɪzə(r)]
+  * 진정부터 하세요; You need to sit down for this
 * 처방전/절차 업시 살 수 있는; over-the-counter; You can get Tylenol over the counter
 * 우리는 금단현상을 겪게 되었습니다; we were going through withdrawal
   * 단번에 그만두다; quit cold turkey

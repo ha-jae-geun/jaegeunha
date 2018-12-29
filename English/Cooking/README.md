@@ -2,6 +2,7 @@
 * 훌륭한 요리 달콤한 음식, 간식: treat; 주로 달콤한 비스킨이나 간식 종류를 의미
 
 # tool
+* 숯; tʃɑːrkoʊl]  charcoal  charcoal grilled steaks  [koʊl] 
 * 도구 내려놓으세요; Down, tools
 * 후라이펜을 중불에 예열해라; preheat nice big skillet on medium high [skílit] 
 * 체; sieve; 과일 채소 물빼는 체; colander; 집개; tongs

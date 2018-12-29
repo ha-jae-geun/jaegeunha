@@ -51,6 +51,7 @@
 	* 값어치가 어마어마하다; worth a fortune
 	* 거금이 들다; cost a fortune
 	* 뗴돈을 벌다; make a fortune
+	* 헐값으로 사다; I bought this car for a song.; 노래만 불러주고 가져오다;
 	* 가격에 대한 단어일 뿐만이 아니라 사람/사물의 성격을 나타낼 때도 부정적인 의미로 자주 쓰이는 표현이에요. 이런 부정적인 의미와의 연관성 때문에 어떤 광고에서는 Our product is not cheap. It's inexpensive. 라고 "저희 제품은 싼 게 아닙니다. 비싸지 않을 뿐이에요." 라는 광고 문구도 있었답니다.
 * 'cost'는 '비용이 들다'로, '주어 + cost + 사람 + 비용' 의 순서로 '주어를 사는 데에 (-의) 돈이 얼마 들었다' 라고 해석해요. 가령 'The shirt costs me 40 dollars.'는 '저 셔츠 사는데 (내 돈) 40달러 들었다, 썼다'라는 의미예요. 단순히 가격만을 이야기할 때는 'It costs 10 dollars'처럼 cost 뒤에 비용만 써도 됩니다.
 	* cost는 가격 뿐 아니라 시간, 노력, 대가 등 들어간 모든 결과물의 값을 말할 수 있어요.

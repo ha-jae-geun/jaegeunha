@@ -1,4 +1,10 @@
 # 기타
+* 비닐 하우스; It can't be grown in a greenhouse
+* 그 그룹 사운드는 2년 전 데뷔했다; The band/musical band made their debut two years ago
+* 넥타이; YOur tie is crooked
+* 롱코트: overcoat
+* 카센타; auto repair shop
+* 워밍업; Le'ts warm up; warming-up: 형용사; 준비운동의, 데우기
 * 싱글이다; i am single(형용사라 a 안붙임); 독신자; They organize parties for sigles
 * 엉터리 영어가 가끔 부끄럽다; i am ashamed of my famil's broen english
 * 이사해; we are moving house(home xx) next week

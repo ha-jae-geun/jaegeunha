@@ -87,6 +87,10 @@
 * remain faithful https://m.blog.naver.com/PostList.nhn?blogId=pureriver777&currentPage=1
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 찰리 잉글리시 https://m.blog.naver.com/PostList.nhn?blogId=charleyenglish&currentPage=1
+* 즐겁게 써먹는 영문법 https://m.blog.naver.com/PostList.nhn?blogId=tkfnxh&categoryNo=42&logCode=0&categoryName=즐겁게 써먹는 영문법
+* 단 영ㅇ문법 https://m.blog.naver.com/PostList.nhn?blogId=ddanddan84&currentPage=2
+* 공단기 https://m.blog.naver.com/PostList.nhn?blogId=blackyuna0824&currentPage=2
+* 저스틴 https://m.blog.naver.com/PostList.nhn?blogId=ddside
 * 한국번역연구소 https://blog.naver.com/ktri8888
 -----------------------------------------------------------------------------
 * 빌보드 https://www.billboard.com/charts/hot-100#/charts/hot-100

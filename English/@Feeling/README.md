@@ -1406,6 +1406,7 @@
 	* #혐오 #꺼리다 #최악 #질색 #바닥
 	* 미워하지 말자 								don't be hatin
 	* #밉다 #미워하다
+		* 미움받다; * 항상 면목없이 되다니 지겹다. 무엇 때문에 나는 시비거리에서 벗어나지를 못하는가. I hate being in the doghouse all the time. I don't know why I can't stay out of trouble. in the doghouse; 미움받다
 	* = 넌 프랭크를 비난해선 안 돼. 그는 결과와 아무 관계가 없어. You shouldn't point your finger at Frank. He has nothing to do with the result. point finger(s) (at)
 	* 그리고 dish it out 자체가 ‘남을 비난하다’라는 뜻을 가지고 있어서 ‘남을 비판하는 것을 즐기면서 정작 자신에 대한 비판은 받아들이지 못하다’는 의미로 “…dish it out, …can’t take it” 라고 고정적으로 표현하기도 합니다. 
 		* 잭은 남을 비판하는 것은 잘 하면서 다른 사람들이 그에게 똑같이 하면 받아들이지 못한다. Jack can dish it out, but he can't take it when others do the same to him.

@@ -7,6 +7,20 @@
 	* - see through 간파하다, - go through 통과하다, - run through 속으로 퍼지다, - sit through 끝까지 앉아서 하다, 그래서 talk through도 하나하나, 조목조목 얘기해준다는 것으로 ‘설명하다, 심도있게 이야기하다’가 되는거죠. 
 		* “그는 새 컴퓨터를 사용하는 방법을 자세히 설명해 주었어.” He talked through how to use the new computer. 
 
+# at, in
+* at 그 장소가 뭐하는 공간이지를 강조
+	* There's nobody at the gym; 헬스장은 헬ㅇㄴ동을 하는 공간; at the bus stop; 버스타는 곳
+	* work at Samsung; 그 곳에 뭐하는 장소인지 강조
+* in - 그 장소 안에 있음을 강조
+	* in the cafe; 카페 안에 벤치에 앉아있을 떄 장소만 강조
+	* work in 부서/돗
+* for - work for; 고용된 상태라는 것을 강조; -를 위해 일하다; work for boss/his father
+
+# to, for
+* it's important to me; 자신에게 굉장히 의미가 있거나 특별할 때
+* it's importat for me; 자신에게 이득, 목적, 원인이 있을 때
+
+
 # to
 * 어개까지 내려오는 금발머리; she'g got the blond haircut down to her shoulders
 

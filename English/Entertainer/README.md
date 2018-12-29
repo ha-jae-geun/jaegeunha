@@ -105,7 +105,7 @@
 * #plaque #명판(名板: 사람・사건 등을 기려 이름과 날짜를 적어 벽에 붙여 놓은 물건)
 * 흉상	bust1 미국·영국 [bʌ́st] 
 * #석고	plaster
-* *	#취한 상태 	 tipsy<buzz<drunk라고도 하고, intoxicated < krunk, wasted, hammered, plastered
+* *	#취한 상태 	 tipsy-buzz-drunk라고도 하고, intoxicated < krunk, wasted, hammered, plastered
 * 네, 이걸 참고 하세요. 	Yes. You can look at these for information. 
 * 한 시간 후에 시작합니다. 	It will begin in an hour. 
 * 그럼, R석으로 두 장 주세요. 	Then, I'll take the two seats in row R
@@ -169,6 +169,7 @@
 * 돈이 다 떨어졌네요. 	I'm out of money.
 * 카드가 나온 뒤에는 베팅할 수 없어요. 	You can't bet after the cards are dealt. 
 * 칩을 현금으로 바꿔 주세요. 	I'd like to cash these chips. 
+
 
 # Movie
 * Chick Flick: 감석엊ㄱ인 여성용 영화
@@ -328,6 +329,7 @@
 	* 장편 영화를 feature film 이라고 하고, 단편은 간단하게 short film 또는 줄여서 short 라고 합니다. feature-length 라는 말만 따로 많이 쓰기도 하는데요. [장편 영화만큼 긴] 을 의미하는 형용사입니다. 보통 사람들이 movie 라고 하면 feature film 을 생각하시면 됩니다.
 * spoil the ending (결말을 미리 얘기해서 망치다)
 * 영화 #속편 						 [|si:kwəl] sequel of these movies
+	* 잘 이어나가기만 해도; If they can piggyback off of that
 * #prequel
 * 강려한 영화네 							 This is a kick-ass movie
 * 어떤 영화 좋아하세요 				 What kind of movies are you into?
@@ -351,6 +353,8 @@
 * 아주 큰 영화관, 공상 과학 영화 			 eye MAX(눈의 최대치), Science fiction: 공상 과학
 * 그 영화는 엄청난 반전이 있어 			 The movie has unexpected twists and turns.
 * 오스카 11개 부문에서 수상하다’ 						 win 11 Oscars 수상 소감							 Awards acceptance speech
+	* 오스카 상 후보에 18번 오르다; has been nominated for an Oscar a total of 18 times
+	* 오스카 수상자는 -입니다; The Oscar goes to someone
 * 이야기 #전개가 빠르다 storyline ##unfolds quickly
 * 흥미로운 전개로군 this is an interesting development
 * #구성이 탄탄하다 it is ##tightly plotted

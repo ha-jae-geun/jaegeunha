@@ -264,6 +264,15 @@
 * 어떤 의미로는 그는 부자가 될 수 있었다. He could be rich in a manner. = in a sense
 * 물론, 분명히. by all manner of means
 
+## nose 
+* 급격히 감소하다, 폭락하다 take a nose drive; The sales of the company took a nose drive.
+	* 사실 'take a drive'라는 말 자체에도 '급락하다'라는 의미가 있는데요. 얼굴에서 굴곡이 가장 심한 부위인 'nose'로 의미를 강조한 표현입니다.
+* : 간섭하지 않다 keep one's nose out of something; 내 일에 참견하지 마.: Keep your nose out of my business.
+	* 코가 큰 것이 특징인 서양인들은 주로 어떤 일을 들여다보거나 관심을 가질 때 '코를 갖다 대다'란 표현을 자주 쓰는데요. 따라서 'one's nose'를 out of sth이 되게끔 keep한다는 것은 그 일에 끼어들거나 간섭하지 않겠다는 표현이 되는 것이죠.
+* 와 상관없다, 알 바 아닌 no skin off someone's nose 그건 나와 상관 없는 일이다. It's no skin off my nose.
+* : 실수를 들춰내다, 난처하게 하다  rub in one's nose  You kept rubbing in my nose all day.
+	* 1900년대 중반 미국에서 유래한 이 표현은 주택에 침입한 개의 코에 똥을 비비게 하여 혼구멍을 내준다는 의미에서 시작된 것으로 개에게는 몹시 불쾌한 기억이 될 텐데요.
+
 ## promise
 * 약속하면 해야하는 그림; 맹세의 느낌
 * i have a promise(가질수 없다) -> i'm meeting my friend; i have a plan with my friend
@@ -300,3 +309,7 @@
   * the ball travels at 160km/h
   * How do you travel to school? 학교 어떻게 다녀?
 * business trip
+
+## water
+* 그는 새로운 일을 아주 자연스럽게 익힌다. She takes to new works like a duck to water . 
+* 난 내 아들에게 뭘 하라고 말을 할 수가 없어요. 내 말은 귓등으로도 안 들으니. I can’t tell my son what to do; it’s water off a duck’s back with him. ; water off a duck's back; 오리의 궁둥이에는 오리 기름이 분비되어 물이 닿아도 젖지 않음; 부정적인 상황에서 쓰임
