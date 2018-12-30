@@ -111,11 +111,13 @@
 * 유행을 타지 않는다. #never go out of style(#style)
   * '시간이 지나도 촌스러워지지 않는(즉 유행을 타지 않는), 고전적인 미를 갖고 있는' 이런 뜻이에요! 
   timeless book/movie/play/classic (책/영화/연극/고전작품)                          
+  * 환경 문제와 관련된 시류에 열심히 편승하는 정치인들 politicians eager to jump on the environmental bandwagon 
   * 여기서 hype는 인기를 끄는 것, 열광하는 것, 유행하는 것을 의미합니다. 스타벅스는 전세계에서 성공적으로 매장을 운영하고 있는데 호주만큼은 ‘그 유행’에 관심이 없어 보인다고 하네요. There's been a lot of hype around his latest film.
   * #pervasiveness [pǝrvéisiv]
   * 유행 역행하다; #swim against the tide /#current
   * 영상에서처럼 craze 라는 단어 앞에 무엇이 유행하는지를 붙이거나, 뒤에 전치사 for 를 써서 [~의 유행] 이라고 표현할 수도 있습니다.
     * 여자들 사이에 요가 열풍이 불어서 다들 요가 매트 같은 것들을 사곤 했었죠. ex) There was a yoga craze among women and everyone bought yoga mats and stuff.
+  * 유행이다; That ' s all the rage among young people
 * ##fashion
 * #wear	#trying on, putting on
 * try on: 입어봐도 되요? put on: 입는 동작
@@ -217,6 +219,7 @@ are you afraid of heights? your zipper is
 * #지퍼 좀 닫아 									 #zip it up 
 	* XYZ; Examine one's zipper
   * 지퍼를 올려봐ㅣ do/undo your zip
+  * (허리의 belt에 매는) 지퍼달린 작은 주머니(cf. BUM BAG) fanny pack 미국식  영국식   단어장추가
 * 단추; do/undo the buttons
 * #zip through; 빨리 해치우다;
 * 나는 옷이 많아	I have a large wardrobe(옷장) wɔ:rdroʊb

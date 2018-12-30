@@ -116,7 +116,7 @@
 * 모든 철사들이 치아를 잡아당기다; All these wires pulling on your teeth
 * 재채기하면 이가 부서질갓같앳어요; my teeth felt like they were going to shatter
 * ~조건으로 해줘써요; 치아 교정 유지 장치를 끼웡야한다; got them for me on the condition that i had to wear my plate afterwards
-* 교정하다; had her teeth starightened in the past
+  * 교정하다; had her teeth starightened in the past; straighten teeth
 * 비뚤어지다; went all crooked again
 --------------
 # 병원; doctor's office: 개인 병원(영국; doctor's surgery)
@@ -175,8 +175,6 @@
 * 안쪽으로 #꺾이다; twisted inward
 * #발등; on the top of my foot
 * #medicine #drug; 공통점: 약 차이점: medicine: 먹는약 
-* #drug: 마약, 독약, 수면제, 마취제, 진통제(치료 목적 x); Don't take drugs; 
-    * 마약 주사하다; jack up
 * #제약회사; drug company, #약국: #drug store
 * #medicate; 약으로 치료하다 #medication; 투약
 * #medication; 바르는 약, 주사, 먹는약 모두 포함
@@ -401,6 +399,7 @@
   * 암 말기  She is diagnosed with late - stage lung cancer = suffer from terminal cancer 
     * 말기암 환자; Terminal ill cancer patient
 * #자폐; #autism 미국·영국 [|ɔ:tɪzəm]; kids with autism
+  * 자폐아 autistic child
 * #불치병; #incurable disease, 
 * 나 ##암진단 받았어요 		 (with)힘든쪽 1daɪəg2noʊs 	
 * I was diagnosed with cancer. 

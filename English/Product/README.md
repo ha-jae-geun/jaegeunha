@@ -46,7 +46,7 @@
 * 값싼 배터리들을 마구 생산해내고 있었다; The factory is pumping out too many graduates
 * 손님이 다 떠나가고 있잖아; YOu're driving away all the customers
 * 굉장히 싼 가격에 판다; are sold on the streets at rock-bottom prices
-	* 비싸다; cost an arm and a leg
+	* 비싸다; cost an arm and a leg; fancy
 	* 과도한 비용/운임/수수료/가격/집세 exorbitant costs/fares/fees/prices/rents 
 	* 값어치가 어마어마하다; worth a fortune
 	* 거금이 들다; cost a fortune

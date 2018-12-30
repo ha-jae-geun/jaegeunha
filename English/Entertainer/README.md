@@ -1,10 +1,12 @@
 # 프로그램
+* 진행담당자; coordinator
 * 광고 보시고 잠시후에 돌아오곘습니다; We'll be right back after a few words from our sponsors
 * 꽁트에 참여해주셔서 감사행; Thank yoou for being involved in that sketch
 * (음반, 영화)판촉물/광고를 만들었따; they made a promo video
 * 내일 시청해주세요; Tune in tomorrow
 	* 채널 고정; Stay tuned for
 * 쇼에 초대해 줘서 고마워요; Thank you for having me
+* 공연이 끝나다; Elvis has left the building
 
 # Radio
 * 라디오 날씨 최신 정보를 듣고 계십니다; YOu are listening to Radio weather update
@@ -49,6 +51,7 @@
 * 최애를 뽑은 개 아니에요; i'm not picking favorites; play favorites: 편애하다
 
 # 영화
+* 자동차 극장; Drive-in theater
 * 드라마, 영화 대본은 상황에 맞는 최적의 표현을 사용하기 위해 수차례 어학 전문가의 수정을 거쳐 만들어진다.
 * flick: (비격식) 영화 2. chick flick: 여자들 취향의 영햐; 주로 로맨스/로맨틱 코미디
 * 1) 서사 영화(epic film)란, 주로 스케일이 크고, 인간 드라마를 그리는 것에 중점을 둔 영화 장르입니다. ‘반지의 제왕’, ‘글레디 에이터’, ‘레 미제라블’ 등과 같이 역사적 사건이나 영웅 이야기, 신화 등을 주로 다룹니다.

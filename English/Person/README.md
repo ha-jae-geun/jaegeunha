@@ -18,11 +18,12 @@
 * 똑똑한 척 하는; fancy-pants(값비싼 바지) fancy-pants tool; 형용사 2. 멋쟁이; 
 	* 허풍을 떨다; He's kind of larger than life
 	* 너무 자신만만해; She's so full of herself; bragging: 물건 자랑
-	* 잘난 척 하긴; SHow off
+	* 잘난 척 하긴; SHow off; stuck up
 	* 허풍 떨지말고; Don't brag about it; She keeps bragging about her car
 	* 그 사람은 이길 때 잘난척이 심해져; He gets a bit cocky when he's winning
 	* 원래는 [정사각형] 을 의미하는 단어인데요. 정사각형은 가로 세로의 길이도 같고 각도도 같아 조금은 지루한 도형일 수가 있습니다. 그런 모습을 생각하시면 기억하기 쉬운 단어인데요. 사람도 바뀌지 않고 예전 방식 그대로를 고수하고 고지식하고 지루한 사람을 비격식 표현으로 square 라고 합니다.
 	* 어린애라고 해서 그를 넘보아서는 안 된다 You should not make light of him as a mere boy . 듣기 출처:동아 출판
+	* 나 무시하지마; don't belittle me
 * 평범한 건 원하지 않아요; We don't want the standard
 * 추종자들이 있는 권위자, 전문가; guru; 흰두교에서는 종교적 스승, 지도자   expert: 사람들의 전중ㅇㄹ 받는 전문가
 * 그는 독보적이다; He's a one of a kind
@@ -33,6 +34,7 @@
 	* 친절한 사람; 좋은사람; 사랑 스러운 사람;  peach, doll
 	* 비격식 표현으로 누군가를 좋게 표현할 때 쓰는 형용사입니다. 참고로 전지현 주연의 영화 '엽기적인 그녀' 의 제목이 영어로 My Sassy Girl 이에요.주의할 점은, 나이가 많은 사람이 자기보다 나이 적은 사람에게 sassy 하다고 표현할 때는 [건방진] 이라는 의미로 종종 쓰이니 주의하세요.
 		* 넌 너희 엄마한테도 그렇게 건방지니?ex) Are you that sassy with your mom?
+	* 영리한 사람; smart cookie 
 * 어중이 떠중이; rabble(2. 왁자지껄하게 모여있는 사람들)
 * 혼혈 ; mixed-blood, (offensive) half-breed, (offensive) half-caste
 * 남편, 상대, 아내, 여자친구; significant other
@@ -52,7 +54,7 @@
 * 신참, 신입; the new kid on the block
 * 시카고 출신이야? A Chicago kid
 * 아부하는 사람; He's a kiss up
-	* 내가 호구로 보이냐? Do i look like a pushover?
+	* 내가 호구로 보이냐? Do i look like a pushover?  doormat(당하고도 가만히 있는 사람)
 	* 재수 없는 자식; git
 	* 짜증나는 존재, 재수없는 놈; dingle
 	* 아첨하다; brown-nose; brown-noser; kiss someone's ass
@@ -69,6 +71,7 @@
 	* 여피족(도시에 사는 젊고 세련된 고소득 전문직 종사자) yuppie
 	* 착한 체하는 사람 goody-goody
 	* 최신 정보통, 박식한 사람 hipster
+	* 걱정을 많이하는 사람 worrywart 미국식 [ˈwɜːriwɔːrt] 
 * 동등한 위치에 있는 상대;ㄼ counterpart; They make around 10 times more than their counterparts
 * 사교적인 사람; social butterfly; 2) [사교계 명사, 사교계에서 잘 알려진 사람]을 socialite 라고 합니다.
 	* 날씨 좋을때만 친구가 되려는 사람; fair-weather friend

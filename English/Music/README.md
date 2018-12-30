@@ -25,6 +25,7 @@
 * 음악에 맞춰 춤추다; i danced to the music
 
 # 노래
+* 히트곡 메들리; perform a medley of hits
 * 노래에 맞춰 발을 굴러; Stamp to this beat
 	* 사람들이 특정 신호에 맞춰서 무언가를 하길 원할 때 전치사 on 을 써서 표현할 수 있습니다. 영상에서는 [세 번째 박자에 맞춰]의 의미로 on the third beat 라고 쓰였는데요. 대표적으로 쓰이는 것은 아래와 같습니다.
 		* 세 번째 박자에 손뼉을 쳐 I want ou to clap on the third beat

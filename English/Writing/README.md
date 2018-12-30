@@ -1,3 +1,7 @@
+# 책
+* 책 한장이 찢어저 나갔어요; One page has been torn out of the book
+* 산만한[통일성이 없는] 에세이 a scrappy essay 
+
 # 기타
 * 글 길이 막힌 상태로 직장에 갔따; went to work with writer's block
 * 필명; pseudonym suːdənɪm = pen name

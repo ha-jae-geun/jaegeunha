@@ -10,6 +10,8 @@
 * 스포츠 해설자 a sports commentator
 * 유력 일간지의 기자 a reporter[journalist] at an influential daily (paper)
 * 패배 직전에서 승리하다; we #snatch victory from the jawsof defeat
+	* 연승, 연패; be on a winning/losing streak
+	* 완패당했어; We got creamed
 * 상황이 역전되다; the shoe is on other foot, #역전 시키다; #Turn the tables
 * #역전; #inversion;
 * 결승에 진출하다; make it to the finals

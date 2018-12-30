@@ -1,7 +1,7 @@
 # 차이
 * 1) oversleep 이라는 단어도 [늦잠을 자다] 라는 뜻이 있는데요. 접두사 over 는 [과도하게] 라는 의미를 가지고 있습니다. 그래서 oversleep 은 8시에 일어나려는 '자신의 의도와는 다르게' 9시까지 '자버린' 것을 의미하는 반면, 2) sleep in 은 평소엔 8시에 일어나는데, 주말이라 좀 더 자고 싶어서 9시에 일어나는 경우처럼, '자신의 의도대로' 자연스럽게 늦게 깨는 것을 의미합니다.
 * asleep 은 형용사로 [잠이 든] 이라는 뜻을 가지는데요. 앞에 dead 가 붙으니 어떤 느낌인지 확 감이 오시죠? ㅎ 시체처럼 깨워도 안 일어날 듯이 푹 잠든 모습을 나타내는 단어입니다.
-	* 걔 깨우지 마. 세상 모르고 자고 있어. ex) Don't wake him up. He's dead asleep.
+	* 걔 깨우지 마. 세상 모르고 자고 있어. ex) Don't wake him up. He's dead asleep. =  he ' s dead to the world
 
 # 기타
 * mmorning people <> night owls/late nighters
@@ -48,7 +48,9 @@ I had sleep #paralysis
 * sleep down; 여기 아래서 잤어?; would you sleep down here?
 * #잠꼬대 							 You talked in your sleep.
 	* #코골이 do you #snore? 이갈이 do you #grind your teeth in your sleep?, #잠꼬대 Do you talk in you sleep?, #몽유병 I walk in my sleep
+		* talk in one's sleep
 	* 시끄럽게 자는 사람의 표본이에요; i'm a classic noisy sleeper
+	* 잠꾸러기; sleepyhead
 * 수면 장애 									 sleep disorder
 * #몽유병 		#somnambulism, This prisoner transfer is no sleepwalk. 예문 발음듣기
 * 불면증 						 ɪn‘sɑ:mniə insomnia, #lethargic
@@ -117,6 +119,7 @@ I usually sleep in / sleep late / oversleep on Sundays.
 * #졸다 #nod off #drop off #drift off = #doze off; = fall into a #doz #drowse => #fall asleep
 * ##doze; nod in a doze, doze on the train; #허송세월하다: doze away one's time; 
 * 눈좀 #붙이다 I'll catch #40 winks(#wink); going to get 40 winks
+	* 나는 너무나도 졸려서 오후에 잠깐 졸았다. I was so tired that I had forty winks in the afternoon . 듣기 출처:YBM
 * 졸았다. 	I nodded of for a moment. I keep dozing off., fall asleep(꾸벅꾸벅 의도적 아니게 자다)
 * #졸다 #졸았다
 waking dream: 환상같은

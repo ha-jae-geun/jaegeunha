@@ -21,6 +21,10 @@
 * I said I would be ther as soon as I could
 
 # 접두어
+* 주의해 주세요; Pleas note that
+* - 축하해요; Congratulations on- Congrats on
+* 그냥 여기있어; Stand down- 어벤져스 뉴욕 헐크
+* 일제히 in unison (with somebody/something);  Let the class repeat them in unison .
 * But that said / that said / having said that 등으로 표현하고 ‘그렇긴 하지만’을 의미하는 구어체 부사구입니다. 일반 회화에서도 딱딱하지 않게 쓸 수 있는 부사이니 활용해 보면 좋겠네요.
 * -할떄가 좋더라; I like it when
 * 족히 4-6분이요; good: 족히, 상당한, 큰; It'll takea good hour or two
@@ -86,6 +90,7 @@
 * 내 말 알겠어? Am i understood?
 * 왜 그러고 살아요? How can you live with yourself?
 * 그 말은 왜 하는거야? Where are you going with that? 2. 그것과 어디를 가는 중이야?
+* 무슨일이지? What gives?
 
 # 대답
 * 1) 자신이 알고 있는 사실, 또는 의견을 얘기할 때 상대방이 기분 나빠할 수도 있는 경우 쓸 수 있는 말입니다.   2) 영상에서는 해당 유튜버가 개인적으로 좋아하는 "저스티스 리그 인터내셔널" 이라는 시리즈가 영화로 같이 나왔으면 좋겠다- 라는 의견을 말하며, 일부 시청자들이 동의하지 않을 수도 있기에 I'm just saying 을 붙였다고 볼 수 있습니다. 그냥 그렇다는 거지 
@@ -123,6 +128,7 @@
 * 예외없이; bar none
 * 연락해요; Hit me up
 * 내말 믿어봐 진짜야; Take it from me
+* 그냥; Just because
 
 # 말투
 * 다 잘될거야; Things will work out. Everything will work out.
@@ -183,8 +189,76 @@
 * 신중하고 꾸준한 자가 이기는거야; SLow and steady wins the races
 * -에 대해 아무것도 몰랐다; Little does someone know; and little did you know
 * 등... 등잔 밑이 어둡다? The beacon does not shine on its own base? 
+* 이용자 참여  우리는 더 중요한 일이 있어.  We ' ve got bigger fish to fry . 듣기
 
-# 일상
+# 일상  
+* 비밀을 미리 알려주면 재미가 없어지잖아. If I let the cat out of the bag , that will ruin the fun . 듣기 출처:YBM
+* 항복해; Say uncle
+* 마음먹기 나름이에요; It's all in the mind
+* 하지만 그걸 얼마나 즐겁게 견디냐가 중요한 거지. It's important to enjoy the bumpy ride; 고난: bumpy ride
+* 학생들은 자신에게 충실할 것을 맹세했다. The students swore to be true to themselves. 
+* 만약 네가 난관에 부딪힌다면 어떨 것 같아?  What if you hit a wall ? 듣기
+* 술 끊었어; i'm on the wagon
+* 엉망 진창이네; THis is balled-up
+* 맞지만, 뒤늦은 깨달음은 20/20 이야, 보리스  Absolutely correct , but hindsight is always 20/20, Boris . 듣기
+* 여유를 가져라 stop and smell the roses 미국식  영국식 
+* 어려운 문제겠지만 당신은 그것을 풀 수 있습니다. It may be a hard nut to crack, but you can solve it. 
+* 셋하면; On the count of three
+* 대통령의 오른팔 the President’s right-hand man 
+* 핀란드 인 finnish man 
+* 아이디어를 가로채다; he has stolen my thunder 
+* 우리는 선거에서 공명정대하게 승리했다. We won the election fair and square. 
+* 저 노래는 내가 좋아하는 것 중 하나야. That song is one of my faves. 
+* 실은 결정을 못 내리겠어. Actually, I'm in two minds. 
+* 주머니에 넣어 다닐 만큼 소형이다.  It ' s compact enough to carry around in your pocket 
+* 제가 그 때 마침 우리 노래를 듣고 있었거든요. I was listening to our song in the nick of time.
+* 전 너무 느리게 먹는 사람들이 불만이에요! My pet peeve is people who eat too slowly ! 듣기 출처:능률교육
+* 골칫 덩어리; a pain in the neck
+* (문제인 줄 알았던 것이 가져다 준) 뜻밖의 좋은 결과[이득] a blessing in disguise 미국식  영국식   단어장추가
+* 매우 피곤해; i'm beat/pooped
+* 정신 차리고 현실 직시해; Wake up and smell the coffee
+* 돈 하나도 안아까워; THat is worth every penny
+* 빨리빨리 서두럴; Shake a leg
+* 맞춰봐; Take a guess
+* 비현실적이다;  The whole story sounds very far-fetched. 
+* 시간을 되돌리다; turn back the clock; go back to; go back in time
+* 그녀는 위험에 직면하여 큰 용기를 보여 주었다. She showed great courage in the face of danger. 
+* 너는 솔직히 말하는 게 좋겠다 You might as well as call a spade a spade; 삽을 삽이라고 말하다
+* 존은 기하학 시험에서 보기 좋게 간단히 합격했다. John passed his geometry test with flying colors. 
+* 군인들은 명령을 따라야만 한다. Soldiers have to jump through a hoop. 
+* 그 유니폼을 입고 있으니까 눈에 확 띄네요 You stick/stand out like a sore thumb in that uniform 
+* 이렇게 싹을 잘라버리네. - 다 잘라야지. Nipping it in the bud. 
+* 목숨을 걸고 싶지 않습니다. 너무 위험해요. I don ' t want to go out on a limb , it ' s too risky
+* 나는 막막한 추적을 하여, 오후 내내 시간을 낭비했다. I wasted all afternoon on a wild-goose chase; 부질없는 시도; 막막한 추구; 헛된 추적
+* 이번만은 봐주겠다. 다음부터 조심해  I ’ ll let you off the hook , but be careful next time . 듣기 출처:동아 출판
+* 우리는 계획을 보류하기로 했다. We decided to put the plan on the back burner . 듣기 출처:YBM
+* …의 짓[시늉]을 하다. go through the motions of 듣기 출처:프렌딕
+* 둘둘이 짝지세요;; Pair-off
+* 그녀의 새 직장은 그녀에게 딱 맞는 곳이다. Her new job suits her to a T. 
+* 붕어빵이다; She is chip off the old block .
+* 흥청망청 놀다; Let ' s get our buddies together and paint the town red 
+* 흔하다;  Actually , they ' re a dime a dozen up this way 
+* 지금 당장 머리에 답이 떠오르지 않는군요.  I can ' t answer the question off the top of my head . 듣기 출처:능률교육
+* 이쪽 길로 가면 빨라. Come this way cut it close! 시간 따위를 절약하다
+* 본업에 충실해라; don ’ t give up the day job . 
+* 잘 안됐지. 처음부터 다시 시작하자. Back to the drawing board . 듣기 출처:YBM
+* 그의 비판은 핵심을 찌른다. His criticism hit the nail on the head . 듣기 출처:능률교육
+* 그냥 약간의 나 혼자만의 시간이 필요하다.  Just need a little me time . 듣기
+* 넌 그냥 제 할 일만 해주면 돼.  You need to deliver the goods simply . 
+* 안구정화 비주얼' "An eye candy; (비격식) 눈으로 보기에만 좋은 것[사람]
+* 아주 비슷하지만 정답[성공]은 아닌 close, but no cigar 미국식  영국식   단어장추가
+*  내가 다 알지만 속아준다.  i'll give you the benefit of the doubt. 
+* 그가 하는 말을 곧이곧대로 믿으면 안 된다  When he talks, sometimes you have to take it with a grain of salt . 듣기 출처:능률교육
+* 고민이 많아요; i have a lot on my mind = i have many worries
+* 그 인간은 언제나 상사한테 알랑거린다니까. He never stops brownnosing his boss . 예문 발음듣기 출처:능률교육
+* 보잘 것 없어; You are no class
+* 죽은 사람은 입을 굳게 다물었다. The dead man was mum as a mouse; 서점
+* 오늘 상사의 신경을 건드리지 마라. Don ' t try to get on the boss ' s nerve today . 듣기 출처:YBM
+* 다음 정거장에서 내려요; Get of at the next stop
+* 지나가도 돼요? Can i pass this?
+* 외모에 자신 없어; He's very insecure bout his appearance
+* 바바리; flasher; flash something
+* 전국에서 전화 통화가 폭주했다. Telephone calls came flooding in from all over the country. 
 * 그냥 간단하게 때우자; Let's grab something small
 * 밀지마, 한명씩 가; Don't push; One at a time
 * 돈 안아까워; 그거 입장료 만큼 가치가 있다.;  It is worth the price of admission.

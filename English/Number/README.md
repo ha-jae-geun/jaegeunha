@@ -16,6 +16,7 @@
 * #add, #count up, #total - 세다, 계산하다 
 * thousand -> 10, thousand ->  hundred thousand => million -> 10억 -> trillion(1조)
 ---
+* 짝수가 아닌 수; uneven
 * 숫자 세기; 너네 넷: you four, 우리 셋: us three, 그들 다섯: those five, 이것 여덟개: these eight
 * 1000: 1k -> million(백만, 천만, 1억) -> billion
 * #단수 singular #복수 #plural

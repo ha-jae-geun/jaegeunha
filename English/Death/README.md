@@ -40,7 +40,8 @@
 * #급사하다; #drop dead; drop dead gorgeous
 * #사별; #bereave 미국·영국 [bɪ|ri:v] 
 * #고인 #the late(#late) ~
-* #the deceased
+	* 삼가 고인의 명복을 빕니ㅏㄷ; I'm sorry for you loss; RIP
+	* #the deceased
 * #유골함; #항아리; #urn;
 * #영구차; #hearse
 * #화장핟; #cremate
@@ -116,6 +117,7 @@
 * 질식사하다 									choke to death
 * 추락사하다 									 die in a fall
 * 살해되다 								 be kiiled, be murdered
+	* 독가스로 살해하다; gas a village of people
 * 객사하다 								 die away from home
 * 과로사하다								 die from overwork
 * 아사하다 								 starve, die of hunger

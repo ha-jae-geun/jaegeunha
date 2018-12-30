@@ -1,4 +1,20 @@
 # 기타
+* 방탄 조끼; flak jacket = bullet-proof vest
+* 퀵서비스; Express delivery; Courier service
+* 링거; an IV (drip)
+* 과속 방지턱; speed bump
+* 방충망; fly screen; window screen; screens
+* 짝퉁; knock-off
+* 멜빵바지; Overalls
+* 각질 제거하다; exfoliate 미국식 [-ˈfoʊ-]  영국식 [eksˈfəʊlieɪt
+* 실핀; bobby pin
+* 무좀; athlete's foot; have[get] athlete's foot 
+* 기본 깔창; insole; 키높이 깔창; shoe lift; lifts
+* 별자리; STar sign; zodiac sign; sign
+* 주입식 교육; cramming education
+* 수산 시장; fish market
+* 친구 삭제; unfriended me on scapchat
+* 자동차 극장; Drive-in theater
 * 비닐 하우스; It can't be grown in a greenhouse
 * 그 그룹 사운드는 2년 전 데뷔했다; The band/musical band made their debut two years ago
 * 넥타이; YOur tie is crooked
@@ -68,6 +84,11 @@
 * #스킨 #toner
 * #NG #bloopers
 * #렌즈 #contacts #contact lens
+* 네임펜; permaent marker
+* 커터칼; box cutter
+* 스카치 테이프; scotch tape
+* 한도 초과하다; you maxed out your credit card
+* 생리통; have period cramps
 * #탤런트 actor or actress
 * #런닝머신 #treadmill
 * #런닝셔츠; #sleeveless undershirts
@@ -192,6 +213,30 @@
 * #사인펜; #felt tip pen
 * #샤프: 					 automatic pencil, click pencil mechanical pencil
 * #샤프심				 mechanical pencil lead 혹은 간단하게 lead[led]
+* 봉숭아 물들이다; colored my nails using with balsam [ˈbɔːlsəm
+* 보안관; sheriff
+* 대통령 선거일; presidential election day
+* 고기가 질기다; tough <> tender
+* 석가탄신일; Buddha's birthday
+* 외장하드; external hard drive
+* 오락기 arcade console
+* 인형뽑기 claw machine game claw machine, claw crane
+* 회전목마 ride a merry-go-round  carousel  미국·영국[ˌkærəˈsel]
+* 당구치ㅏㄷ; play billiard	  [bíljərd]
+* 2층 침대; bunk bed
+* 초인종; ring a doorbell
+* 뜨개질; knitting
+* 벽화; mural; mural village
+* 면봉; Q tips  cotton swab, (Brit) cotton bud
+* 중개자; matchmaker
+* 모기한테 물리다; mosquito bites; 모기장; mosquito net; 모기채: bug zapper
+* 쭉쭉 늘어나는 치즈; stringy cheese
+* 부활하다 resurrect 미국·영국 [ˌrezəˈrekt]
+* 자영업을 합니다; i work for myself
+* 와이파이 되나요? Do you have wi-fi?
+* 다 소문자로; in lowercase/upper=capital
+* 운동 에너지; charging it up with kinetic energy
+* 온천; hot spring; 공용; shared
 * #컨닝 		'Cunning'교활한, 정교한'으로 'cheating'이란 포괄적인 단어로 부정행위를 일컫습니다
 * I saw you cheating, 컨닝 노트 crib note라고 합니다. crib sheet/cheat sheet
 * #cheat off someone else's test

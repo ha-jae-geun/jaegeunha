@@ -15,6 +15,8 @@
   * 그런 같잖은 속임수들이 싫어; i don't like your little games
   * 우리가 완전히 속았던 거라면; If we were completely played
   * 그럴듯하게 속이다; put on a show; they put on such a good show at first
+  * 사기치다; pull a fast one; I wasn' t trying to pull a fast one 
+  *  내가 다 알지만 속아준다.  i'll give you the benefit of the doubt. 
 * 죗값을 치렀어요; i've done my sentence
 * 삼성쪽에서 직접 사진을 유출했죠; Samsung leaked a picture
 * 위법이다; It's against regulation
@@ -57,8 +59,9 @@
 * 도망중이야; Two supects are on the run
   * run away; on the lam; get away
   * 그 죄수는 높은 교도소의 벽을 넘어 도망쳤다. The prisoner scaled the high prison wall and ran off.
+  * 법망을 피해 다니는 사람 a fugitive from justice   [ˈfjuːdʒətɪv] 
 * 작용하는 규칙들; rules at play; there are some rules at play affecting this
-  * 규칙에 어긋나; That's against the rules
+  * 규칙에 어긋나; That's against the rules; bend the rules
 * 무단침입하시는거에요; YOu are breaking and entering
 * 현자; sage; [seɪdʒ] 2. 슬기로운
 
@@ -150,7 +153,10 @@
   * 1) 비격식표현으로 총을 든 강도짓 하는 것을 의미하는데, 예전에는 총이 권총보다는 장총이 더 흔했거든요. 그래서 영상에서 보실 수 있듯이 장총을 들고 있으면, 마치 막대기를 들고 있는 것 처럼 보이기 때문에, 그런 모습을 연상하시면 좋을 것 같아요. 
     * 아무도 움직이지마! 강도다!ex) Nobody moves! This is a stick-up!
 * 도둑질 larceny[lάːrsəni]
-* #금고 털이 #safecracker(#cracker)
+  * #금고 털이 #safecracker(#cracker)
+* 마약을 한 상태에 있는; under the influence of a (illegal) substance
+  * #drug: 마약, 독약, 수면제, 마취제, 진통제(치료 목적 x); Don't take drugs; 
+    * 마약 주사하다; jack up
 * 큰 금고; #vault
 * 1. 누가 불러도 쳐다보지 않기
 * 2. 핸드폰 들고 다니지 않기(이어폰 들고 도망갈 수 있음)
@@ -197,6 +203,7 @@
 * #범죄를 저지르면 형을 산다; #do the crime, to the time
 * #범의학; #forensic evidence/medicine/science/tests 
 * #소년범죄; #청소년 비행; #juvenile delinquency
+  * 소년원; detention home
 * #범죄학 #형사학; criminology
 * #범죄자; #wrongdoer 미국식 [|rɔ:ŋdu:ə(r)]
 * #범죄율이 매우 높은; #crime-infested
@@ -452,6 +459,7 @@
 * [자동사][V] ~ as sth 가장하다 사사로운 개인으로 가장하는 상업적 광고주들
 * 	commercial advertisers masquerading as private individuals예문 발음듣기
 * 그는 보안 요원으로 가장하려다가 잡혔다.	 He was caught trying to impersonate a security guard.
+  * 보안관; sheriff
 * impersonation 미국·영국 [impə́:rsənéiʃən] ; #인격화 #의인화
 * #가장
 * * 

@@ -1,3 +1,9 @@
+* 그는 아들이 우승을 결정짓는 골을 넣는 것을 보며 짜릿한 대리 만족을 느꼈다 He got a vicarious thrill out of watching his son score the winning goal.   [vaɪˈker-]  영국식 [vɪˈkeəriəs] 
+* 타이밍이 좋았어; i was in the right place at the right time
+* 돼지에게 진주를 던지다; 개발에 편자다; 가치 있는 것을 그것에 관심이 없는 사람에게 주어 무의미한 것으로 만들어 버리다(성서에서 인용. 엄청나게 값어치있는 것을 돼지 발 밑에 던져버리는 것에 비유하여. 사람을 돼지라고 부르는 것은 모욕으로 간주한다) 
+  * 그들을 위해 노래를 부른다는 것은 돼지에게 진주를 던지는 격이라고. To sing for them is to cast pearls before swine. 
+* flirt with; 재밌게 농담하며 자연스럽게 수작걸거나 작업, 무례하게 느껴지지는 않음; hit on someone: 직접대는 것, 적극적이고 불친절
+* kitchen은 요리하는 부엌; dining room은 식사하는 테이블 있는 곳
 * 우리는 그가 창 밖에서 엿듣고 있는 것을 잡았다. We caught him eavesdropping outside the window. 
   * 우리는 혹시나 남이 듣지 않도록 조용히 말을 했다.  We talked quietly so as not to be overheard. 
 * be made in (~에서 만들어진); be made by (~에 의해 만들어진) 비슷한 것 처럼 보이나, made in 뒤에는 만든장소(주로 국가)가 오고, made by 뒤에는 만든사람이나 사물, 회사 등이 옵니다.

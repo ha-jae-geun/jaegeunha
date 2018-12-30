@@ -554,13 +554,15 @@
 * 그리고 저는 도덕적인 삶을 살아요; And i live a moral life
 * 내 인생에서; in my entire life
 	* * 평생 이렇게 살아야 해; i'm in it for life; for life
+* 이 가족은 넉넉하다 This family is sitting family. 
+	* 무일푼에서 거부가 된 이야기 a rags-to-riches story 
 * 근근히 살아가다; those who are living on the edges
 	* 최선을 다해 열심히 살다; live life th the fullest
 	* 매일 따분하고 반복적인 일을 해 주셔야 해요. ex) You should be willing to do mundane and repetitive tasks on a daily basis. [mʌnˈdeɪn]
-	* 1) 늘 똑같은 삶에 갇혀 지루하고, 판에 박힌 생활을 하는 것을 be (stuck) in a rut이라고 합니다. ‘틀에 갇히다, 타성에 젖다, 일상의 틀에 박혀있다, 매너리즘에 빠져있다’ 등으로 해석하시면 됩니다.
-		* 난 뭔가 변화가 필요해. 늘 같은 일상이 너무 지겹고 답답해. I need a change in my life. I feel I’m stuck in a rut.
+	* 1) 늘 똑같은 삶에 갇혀 지루하고, 판에 박힌 생활을 하는 것을 be (stuck) in a rut이라고 합니다. ‘틀에 갇히다, 타성에 젖다, 일상의 틀에 박혀있다, 매너리즘에 빠져있다’ 등으로 해석하시면 됩니다.* 난 뭔가 변화가 필요해. 늘 같은 일상이 너무 지겹고 답답해. I need a change in my life. I feel I’m stuck in a rut.
 	* * tread 는 ‘발로 밟다’입니다. 발로 밟아서 움직이는 기구여서 treadmill 이라고 하죠. 쳇바퀴처럼 계속 똑같은 것을 비유하거나 런닝머신이라고 부르는 운동기구도 treadmill 이라고 합니다.  참고로 treadmill 에는 전치사 on/off 를 써야 합니다. 면적에 붙어있고 떨어져 있는 개념으로 생각하는 겁니다.
   * 난 정말 이 다람쥐 쳇바퀴 같은 사무실 생활을 정리하고 뭔가 신나는 걸 해보고 싶어. I really want to get off the office treadmill and try something exciting.
+  * 많은 가족들이 아등바등 돈을 벌어 겨우 먹고 산다. Many families struggle to make ends meet. 
 * 오늘밤 이렇게 지나게 해; let tognight just pass by like this
 	* 특별히 하는 것 없이 시간을 보내거나 친구들과 어울리는 것을 속어적 표현으로 kick it이라고 합니다. 비슷한 표현으로는 pass time(시간을 보내다), hang out(어울려 놀다) 등이 있습니다.
 * 우리말로 ‘현실도피’라고 번역하는데요, 무언가 즐거운 것을 하면서 삶의 부정적인 면을 잠시나마 잊어보려는 행위를 escapism이라고 합니다. 예를 들면 예능 프로를 보면서 지친 하루의 스트레스나 답답한 현실을 잠시나마 잊어보는 것 처럼요.

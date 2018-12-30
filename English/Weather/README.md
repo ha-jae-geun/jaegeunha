@@ -35,6 +35,7 @@
 
 
 # 겨울
+* cold 너무 추운 겨울; chilly; 쌀쌀한 가을, 봄
 * 한파가 전국을 강타했다; A cold wave hit the whole country 
   * 조금 짧은 한파; Cold snap
   * 한파 경보; The cold wave alerts

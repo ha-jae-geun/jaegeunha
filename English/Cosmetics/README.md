@@ -17,6 +17,7 @@
 * 푸석푸석해; i have dry skin; The weather is drying my skin
 * 피부 탄력이 없어진것 같애; my skin is loosing its elasticity; ˌiːlæˈstɪsəti;ˌelæ-;ɪˌlæ-]
 * 각질이 너무 생겨; i am getting dry spots
+	* * 각질 제거하다; exfoliate 미국식 [-ˈfoʊ-]  영국식 [eksˈfəʊlieɪt
 * 촉촉하게 하다; moisten; moisturize; 로션, 토너에 한정되서 쓴다
   * 눈물 글썽이다. His eyes were moist with tears
 * 이 메니큐어 엄청 럅게 발린다; This nail polish is really sheer
@@ -54,6 +55,7 @@
 * #생얼 #bare face #natural face; 약간 성형 안한 느낌
 * 선크림 안발라서 #화상 입었어 I didn’t {put on, wear} sunscreen/sunblock so that I got a bad sunburn. 
 * #2도 화상 #second-degree burn
+* 윤곽을 그리다; start contouring my cheeks
 * 보습력 좋은 #핸드크림 좀 추천해 주시겠어요?
 	* mat 또는 matte 가 [윤기, 광택이 안 나는] 이라는 뜻이 있는데요. 영어에서 접미사로 -fy 를 붙이게 되면 동사로 [~화 하다] 정도의 의미를 가지게 됩니다. mattify 는 피부에 광이 덜 나게, 보송보송하게 하는 것을 의미하는 단어에요.; matte <> glossy
 		* 유분기 많은 제 얼굴을 보송하게 하는데 쓸 만한 좋은 제품 있나요? ex) Do you guys have any good products that I can use to mattify my oily skin?

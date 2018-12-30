@@ -1,5 +1,6 @@
 * 우리 흩어져서 가야할것 같아; I think we should split up
 * 친구 Old/good sport, homies
+	* 진정한 친구; fast/loyal/true friends; 
 	* 2) '친구는 또 다른 나의 모습' 이라는 말 한번쯤 들어보셨나요? alter ego 는 '절친' 을 의미하기도 합니다.
 	* 어울리지 않은 친구; They are so; unlikely friends
 	* 2) 예를 들어, 같은 직장 내에서 몇 년간 함께 일하며 친해진 동료들이, 함께 즐겁게 놀고 어울리고 잡담하는 건 close relationship 이라고 볼 수 있지만, 그 보다 더 깊은 이야기를 터놓는다던지, 예민할 수 있는 주제를 신뢰를 기반으로 얘기한다든지 할 때는 rapport 라고 볼 수 있습니다.
@@ -48,6 +49,7 @@
 * (claw machine/crane claw/crane machine = 인형뽑기기계)
 
 # 싸우다
+* 아이 적에는 우리가 아주 가까웠는데 자라면서 그냥 사이가 멀어졌다. As children we were very close, but as we grew up we just drifted apart. 
 * 네가 논쟁속에 있었다는 것을 들었어.  Heard you were in an altercation . 듣기
 	* 사소한 말다툼이 있었어요;There was a slight altercation
 * 한대 치려고? 절대 못할거? You gonna make a move? i doulbe dare you

@@ -1,5 +1,6 @@
 # 음식
 * 훌륭한 요리 달콤한 음식, 간식: treat; 주로 달콤한 비스킨이나 간식 종류를 의미
+* (양적으로나 질적으로나) 충실한 식사, 실속 있는 식사 square meal 미국식  영국식   단어장추가
 
 # tool
 * 숯; tʃɑːrkoʊl]  charcoal  charcoal grilled steaks  [koʊl] 

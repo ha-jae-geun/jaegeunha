@@ -1,5 +1,7 @@
 * 즉시, 당장; in a jiffy 미국식  영국식   단어장추가
 * 그때부터; we've been friends #since then = #ever since = #from then on
+	* 지금까지 알져지지 않은 종류의 나방 a hitherto unknown species of moth  ˌhɪðərˈtuː] 
+	* 처음부터; from day one
 * 맑은 정신으로 생각해보면; In the cold light of day
 * 십분 활용하다; get a lot of mileage out of; your car
 * 도착 시간을 맞추다; In order to time it's arrival with the rest; tiime one's arrival
@@ -28,6 +30,7 @@
 * all the way는 거리나 시간상에 쓰는 표현인데요, 그 거리(물리적 거리, 타임라인) 전체를 가리켜서 강조를 하는 것이죠. 우리말로는 쭉, 곧장, 내내, 계속, 시종 등이 있습니다. 예문을 보면서 이해해 보겠습니다. 전부다 특정 거리나 시간 전체를 가리켜서 강조해주고 있습니다. 그래서 date back all the way to 1500s도 현재부터 1500년대까지 쭉 거슬러 올라간다는 것입니다.
 	* 그들은 집에 오는 내내 한 마디도 하지 않았다.  They didn’t say a word all the way back home.
 * 타이머가 0에 도달하면; When the timer hits zero
+	* 하나; One mississippi; 둘; two mississippi
 * 오래동안; for years (and years); i've known him for years
 * 가끔씩; 누구나 가끔씩은 쉬어줘야지. Everyone deserves a break every now and then.
 

@@ -3,6 +3,8 @@
 	* out of /fear/cuiousity/interst/spie/respeect/ignorance/anger
 		* = 그는 회개의 심정으로 장애인들을 돕고 있다. He’s been helping handicapped people out of regret.
 * 감정 기복; 큰 감정 기복을 겪다; = be/ride on an emotional roller coaster; ex) She's been on an emotional roller coaster since she arrived.
+	* * 감전 기복; i'm tired of my mood swings
+* 기분을 상하게하다; bring someone down
 * 기분이 언짢아지다; Fans #get the hump when the team loses.  팬들은 (자기가) 응원하는 팀이 지면 기분이 언짢아진다.
 * #승부욕; 승부욕을 갖다; have a desire to win
 * 그 감정을 명확하게 드러내 보세요; Emote that
@@ -27,6 +29,7 @@
 * 막상 헤어지니 싱숭생숭해; i'm sitting on my feelings;
 * 악감정 있어; There's been bad blood between
 * 기분을 좋게 해주는 사람이 될 거예요; Gonna be the one who can elevate; elevate/lift one's spirit
+	* 기분이 너무 좋아요; i'm tickled pink
 * 떠오르는, 남아있는 감정; hautning memory/melody; It haunts me everytime
 	* 죄책감; i was haunted by guilt
 -------------------------------------------------------------------------------------------------------------------
@@ -522,6 +525,7 @@
 * #황송
 * 침착해: calm down, 살살해; #Take it easy: 살살해, 진정해, 헤어질 EO 가벼운 인사, as cool as cucumber
 	* 침착해; Lay back
+	* (특히 곤란한 상황에서) 대단히 침착한 (as) cool as a cucumber 미국식  영국식   단어장추가
 * 냉정하져 chill out, 긴장 풀어 sit back and relax 진정해 Chill out!! Nothing to worry about. 
 * 현실에 안주하다 	 complacent(현실에 안주하다) with status quo(스테터스 쿼오: 현상태)
 * 진정해 keep it together Keep your shirt on. Keep your cool. Don't lose your temper Don't be nervous
@@ -550,6 +554,7 @@
 * 평점심 찾아야해 								I need to get my #zen on
 * 넌 걱정이 많은 사람이야 #worry wart You’re such a worry #wart(사마귀)
 	* 굉장히 걱정하다; be worried sick
+	* 고민이 많아요; i have a lot on my mind = i have many worries
 * #진정제 #sedative(쎄디티브)
 * #진정제 주세요; #sedate him
 * it's #soothing and #calm
@@ -926,6 +931,7 @@
 	* ○ I'm scared of being left alone. 혼자 남겨지는게 무서워
 	* ##scary ##scared
 * 소름끼쳐 			 	 It gives me the creeps. It gives me the chills. goosebumps
+	*  it makes my skin crawl 
 * get/have <> give ##goosebumps
 * #짜릿; a #real thrill. 
 * #소름 
@@ -1294,7 +1300,7 @@
 * 바꾸려고 해도 잘 바꿀 수 없는 타고난 기질을 temperament 라고 합니다. 예를 들어, 내성적인 사람이나 (introvert), 외향적인 사람 (extrovert) 등이 그런 예라고 볼 수 있겠습니다.
 	* even temperament = 차분한 기질, sunny temperament = 낙천적 기질, gentle temperament = 유순한 기질
 
-
+* 이용자 참여  얘들아 사소한걸로 화내지마. | Don ’ t get your panties in a bunch , you guys. 듣기
 * 너 엉뚱한 사람한테 화풀이 하는거야; YOu're taking it out on the wrong person
 * 처음부터 우리 서로한테 열 받게 한 것 같아요 		 I think we got off on the wrong foot
 * 빡치네				 I'm pissed off > I'm ticked off / hit the ceiling/roof
@@ -1807,8 +1813,22 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * bottle up은 분노나 슬픔과 같이 부정적인 감정을 억누르고 참는 것을 뜻합니다. 그래서 우리 안에 있는 것(what’s inside us) 역시 내면에 억누르고 있던 부정적 감정을 의미한다고 볼 수 있습니다.
 	* 가끔 감정을 억누르는 것이 미덕으로 여겨지기도 한다.Sometimes bottling up one’s feelings is considered a virtue.
 
+# 우유부단
+* 실은 결정을 못 내리겠어. Actually, I'm in two minds. 
+
 # 오바
 # 유난
 * 유난 떨지좀 마; Don't be such a drama queen
 
 * 절망에 빠지다; It started to fall into disrepair
+
+# 자존심
+* 자존심 상하다; it injures my pride
+* 내 처지를 고려해볼때 자존심을 억눌러야만 했다.  Given my situation I had to swallow pride . 듣기
+
+# 고난 역경
+* 하지만 그걸 얼마나 즐겁게 견디냐가 중요한 거지. It's important to enjoy the bumpy ride; 고난: bumpy ride
+* 만약 네가 난관에 부딪힌다면 어떨 것 같아?  What if you hit a wall ? 듣기
+
+# 충실
+* 학생들은 자신에게 충실할 것을 맹세했다. The students swore to be true to themselves. 

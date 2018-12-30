@@ -845,8 +845,8 @@ I enrolled in yoga class to relieve the back pain
 * #간지럽다 it #tickles
 	* 간지럼 많이타요; i am ticklish
 * #신음하다; #moan In pain; #groan with pain/pleasure
-* #요통; #back pain; ` has a back pain
-* #아픈 사람; the #infirm
+* #요통; #back pain; has a back pain
+* 아픈 사람; the #infirm
 * ##몸이 #아프다 #통증 #아픔 #콕콕 #쿡쿡 #고통
 * 찌릿찌릿 하잖아 							 it's tinging
 * ^^#hurt; 몸이나 마음의 상처 #injure: 사고로 부상을 입다, 스포츠 부상 #wound: 칼, 총에 다치다
@@ -890,6 +890,7 @@ I was hurt, are you hurt? Where are you hurt? Did you get hurt? Where does it hu
 a couple of octaves deeper than normally
 * 그런 #톤으로 나에게 말하지 마; Don't take that #tone with me ; in that ~ tone
 * ☆목이 쉬다 		 mono는 mononucleosis; I got mono, sore throat, swollen lymph glands 
+	* my voice is rusty
 #voice is gone = I lost my voice
 * #성대; #vocal cords
 * #성대 결절 						 [nάdʒuːl/nɔ́- vocal(singer's) nodule

@@ -67,6 +67,7 @@
 * 사업이 비로소 정상궤도에 올라섰다; The business finally got back on track
 * 주로 앉아서 하는 일/주로 앉아서 일을 하는 직업/주로 앉아서 지내는 생활 방식 a sedentary job/occupation/lifestyle 
 * 우리는 사업을 다시 정상궤도에 올려 놓기 위해 노력 중이야.;We are trying to get the businessup and running again.; 정상궤도
+	* * 톰은 너무 많은 일에 손을 대서, 중요한 마감을 몇 개인가 놓치고 말았다. Tom had too many irons in the fire and missed some important deadlines. 착수하고 있는 일[사업]; 계획
 * 프린터를 작동시키는 몇 분 걸리지 않았다. It only took me a few minutes to get the printer up and running. 
 * ~와의 거래를 성사시키다; clinch the deal with a company
 * 난 너가 이 실망(좌절)감에서 다시 일어설거라고 믿어 의심치 않아.; no doubt you will bounce back from this disappointment.
