@@ -1,4 +1,45 @@
+* 단 음식, 특히 스낵류, 케이크류처럼 설탕으로 가득한 음식을 나타내는 격식체 명사입니다. 꿀이나 설탕에 절인 견과류를 의미하기도 하고요. 형용사인 [confectionary = 사탕 과자의] 도 함께 알아두시면 좋아요. 보통 마트 같은 데서 많이 볼 수 있는 단어입니다.  참고로 행사나 회의 등에서 제공되는 [다과] 는 refreshment 라고 해요.
+* 코를 ‘판다’고 해서 dig 를 자주 쓰는데요 [pick one’s nose] 가 맞는 표현입니다. 물론 dig nose 라고 해도 이해는 하겠지만 원어민스러운 표현은 아니에요.  그리고 dig 는 속어로 아주 좋아하다를 의미한다고 했죠? 시제를 바꿔서 be digging, dug 과 같이 표현해도 됩니다. (최근 영어에는 be loving, be liking, be digging 처럼 ‘좋아하다’의 진행형도 허용하는 추세입니다.) 음식 앞에서 “먹자!”라고 할 때 쓰는 표현이에요. 비격식적 표현이라 무례할 수 있으니 어른이나 격식있는 자리에서는 [Please. / Please, help yourself.] 정도가 좋겠네요. 
+* 원래 stink 은 [구리다, 악취가 나다] 인데, 우리말에도 [더렵게 못하다, ~하는데 구리다] 라고 하듯이 [어떤 일에 취약하다, 재주가 없다] 라는 의미로도 쓰여요.  [suck at 명사 : ~를 못하다] 와 동의표현 입니다.
+  * = 여기 좀 냄새난다. It really stinks in here.
+* fair 는 형용사로 [공정한]을 의미하기도 하지만, 수나 양이 놀랄 정도는 아니지만 그래도 [상당한, 제법 큰] 을 의미하기도 합니다. * a fair share of = 상당한 몫, 양
+  * = 모든 세부 사항들을 수집하는 데는 꽤 많은 노력이 들 거예요. It will take a fair amount of work to gather all the details.
+* 개발되지 않고 정돈되지 않은 [야생] 을 뜻하는 wild 는, 정제되지 않거나 이성에 근거하지 않은 생각이나 추측 등을 의미할 때도 쓰여요.
+  * a wild guess = 억측 a wild dream = 무모한 꿈 a wild rumor = 터무니없는 루머 wild speculation = 터무니없는 추측
+* as 는 정말 쓰임이 많은 단어인데요. 여기선 뒤에 주어가 없기 때문에 주어 역할도 함께 하는 '유사 관계대명사' 의 역할을 합니다 (which). 하지만 요즘에 무언가를 비교할 때 굉장히 많이 쓰이기에 그냥 숙어처럼 외워두시는 것이 좋은 표현이에요.  * As is the case with ~ = ~와 마찬가지로, 흔히 있는 일이듯이
+  * = 많은 종교적인 얘기가 그러하듯이, 그들이 무엇을 의미하는지 잘 모르겠어. As is the case with religious talk, I'm not sure what they mean.
+* 1) 우리말에서 매니큐어는 영어로 nail polish 라고 합니다. 그렇다면 manicure 는 뭘까요? manicure 는 손톱에 칠하는 것뿐만이 아니라 큐티클을 제거하는 등 전체적인 손 관리받는 것을 의미해요. 발 관리는 pedicure 라고 합니다. 2) 매니큐어나 화장을 하는 걸 put on 또는 wear 라고 하는데요. put on 은 매니큐어 칠을 하거나 화장을 하는 '동작', wear 는 그런 화장을 하고 있는 '상태'를 의미합니다.
+  * = 내 여자친구는 분홍색 매니큐어에 집착해. My girlfriend is obsessed with pink nail polish.
+* = S 가 V 할지는 두고 볼 일이다 * It remains to be seen whether S V ~ remain 이 [남다]라는 뜻이니 직역하면 [~일지 아닐지는 목격될 일로 남아있다] 정도로 해석이 됩니다. 따라서 [두고 볼 일이다]가 더 맞는 해석이 되겠고요. 패턴 자체를 통째로 숙지해 두세요!
+  * = 그가 그걸 해낼지 말지는 두고 볼 일이다. It remains to be seen whether he can really pull that off or not.
+* pass 가 [합격] 또는 [통행증]을 의미하는데요. 걸리는 것 없이 그냥 지나가는 모습에서 나온 표현입니다. 어떤 잘못을 했는데 한소리 듣거나 처벌 없이 넘어갈 때 쓰는 표현이에요. [이번엔 봐줄게]라고 말하고 싶을 땐 I'll give you a pass. 라고 할 수도 있어요.
+  * = 사장이 그녀의 아빠라는 이유만으로 또다시 그냥 넘어갔어. She got a pass again just because the boss is her father. 
+* 가볍게 몇 번 누르거나 닦는 것을 의미해요. 영상에선 얼굴 위의 파운데이션을 쿠션으로 누르는 것을 의미하는데요. 의역되어 [파운데이션 바르기]라고 해석이 되었습니다. 파운데이션을 누르는 걸 우리말에선 바르는 것으로 말하기 때문인데요. 실제 크림 같은 것을 가볍게 바르는 경우엔 [dab A on B = A를 B에 바르다]라고 쓸 수 있으니 참고하세요!
+  * = 손수건으로 눈가를 꼭꼭 닦는 여성분이 그의 엄마야. The lady dabbing at her eyes with the handkerchief is his mom.
+* 'stay + 형용사'는 어떤 상태를 [유지하다]라는 의미인 건 다 아시죠? 여기에 형용사 [pristine = 완전 새것 같은, 아주 깨끗한]을 써서 화장이 잘 유지되는 것을 표현했습니다. 물건을 판매할 때도 많이 쓰이고, 아주 다양한 상황에서 쓰일 수 있는 단어이니 꼭 알아두세요!
+  * = 그의 목소리는 마치 그가 아직도 20살인 것처럼 깨끗하게 유지되었다. His voice's stayed pristine as if he were still 20.
+* PG 는 영상물 등급을 나타내는 표현인데요. Parental Guidance Suggested 의 줄임말로 나이 제한은 없으나 [보호자의 지도가 필요한 영상]을 의미합니다. 참고로 미국을 기준으로 볼 때 아래와 같습니다. 그래서 영상에서의 Keep things PG 는 여성의 가슴골이 보이게 되면 아이들이 보기 민망하니 그런 일이 발생하지 않게 [수위를 조절하다] 정도로 해석이 되었고요. things 대신 it 을 쓸 수도 있습니다.
+  * = 말 좀 조심하고 수위 좀 낮춰, 제이슨. 주변에 애들이 있잖아. Watch your language and keep it PG, Jason. There are kids around.
+* = S로 인해 사람들이 쑥덕대다, 시끄러워지다 * S have / set tongues wagging  동사 wag 는 혀 등이 [쉴 새 없이 움직이다, 지껄이다]라는 의미를 가져요. 직역하면 [혓바닥이 계속 움직이게 하다]인데요. 자연스러운 해석을 위해 당연히 [쑥덕대다]로 해석이 됩니다.
+  * = 그 루머로 사람들이 쑥덕댔다. The rumor had tongues wagging.
+* 보통 6시 이후에 하는 공식적이고 격식을 갖춘 사교 모임을 의미합니다. 여성들은 evening dress 라고 불리는 검은 야회복을, 남성들은 검은색 정장이 드레스 코드이기 때문에 black tie event 라고 불리게 되었어요.
+  * = 격식 차린 정장 입고 오는 거 잊지 마. 야회복 행사야. Don't forget to wear a formal suit. It's a black tie event.
+* have a reputation은 '유명세, 명성 있다'는 뜻이죠. have a reputation with the ladies는 '여성들 사이에서 명성이 있다', 즉 '여자를 많이 만나기로 유명했다', '여성 편력이 있었다'는 뜻이 됩니다.
+  * 그 사람 까다롭기로 유명해. ex) He has a reputation for being difficult.
+* "They were never heard from again." 직역하면 "그들의 소식을 들은 사람은 그 후로 아무도 없었습니다."인데요, "그 뒤로  종적을 감췄다"로 번역하는 게 더 자연스럽겠네요.  
+  * 너 최근에 웬디랑 연락한 적 있어? ex) Have you heard from Wendy lately?
+* = to announce, make public 주의! open relationship은 '자유로운 연애/결혼', '개방적인 연애/결혼'라는 뜻으로, 연애 상대 이외의 사람도 만나도 된다고 합의한 관계입니다! 
+  * 난 부모님에게 내 연애 사실을 공개할 수가 없다. 부모님이 너무 보수적이시기 때문에. ex) I can't be open about my relationship to my parents. They're too conservative.
+* 한국은 중국과 일본, 이 두 이웃 나라 사이에 끼어있다. ex) Korea's sandwiched between two neighboring countries, China and Japan.
+* 동사로 chalk up 은 [분필로 쓰다] 라는 뜻이 있지만, 전치사 to 와 함께 쓰면 영상과 같이 해석이 됩니다. 단, 영상에서는 수동태인 be chalked up to 로 쓰여서 [~로 여겨지다] 로 해석이 되었고요.  A 를 B 때문이라고 여기다= chalk A up to B; 좀 더 격식 있는 표현은 attribute/ascribe A to B 가 있습니다.
+  * 다들 너무 우울해하지 말자. 경험으로 생각하자고. ex) Don't be so depressed, guys. Let's chalk it up to experience.
+* note 는 음악에서의 [음, 음표] 라는 뜻이 있고, sour 는 [시큼한, 상한] 이라는 뜻이 있는데요. a sour note 는 전체적으로 달달한 분위기의 음악에서 그 달달함을 깨버리는 음, 조화를 깨버리는 음을 의미합니다. on a sour note 는 [안 좋은 식으로, 불쾌한 분위기로] 라는 의미를 가지며, 전체적으로 좋았던 무언가가 안 좋게 끝날 때 쓰여지는 표현입니다. 잘 진행되던 무언가에 [찬물을 끼얹다] 라는 의미로 hit a sour note 라는 표현을 쓰기도 합니다.= end on a sour note
 * 그는 아들이 우승을 결정짓는 골을 넣는 것을 보며 짜릿한 대리 만족을 느꼈다 He got a vicarious thrill out of watching his son score the winning goal.   [vaɪˈker-]  영국식 [vɪˈkeəriəs] 
+  * 누구도 불쾌한 분위기로 회의를 끝내고 싶은 사람은 없다. ex) No one wants to end the meeting on a sour note.
+* 사소한 일로 다투다, 언쟁하다; 전치사 about 이나 over 를 뒤에 써서 무엇 때문에 다투는지 붙여쓸 수 있습니다.
+  * 아이들은 중요하지 않은 일로 항상 다투지. ex) Kids always bicker over trivial things.
+* fashion 은 패션뿐만이 아니라 [방법, 방식] 이라는 뜻을 가지고 있어요. 형용사처럼 종종 쓰이기도 하는데, 대표적인 것이 바로 [구식의] 라는 의미의 old-fashioned 라는 단어가 있습니다.
+  * 제이슨은 매사를 자기 식대로 해. ex) Jason always does things in his own fashion.
 * 타이밍이 좋았어; i was in the right place at the right time
 * 돼지에게 진주를 던지다; 개발에 편자다; 가치 있는 것을 그것에 관심이 없는 사람에게 주어 무의미한 것으로 만들어 버리다(성서에서 인용. 엄청나게 값어치있는 것을 돼지 발 밑에 던져버리는 것에 비유하여. 사람을 돼지라고 부르는 것은 모욕으로 간주한다) 
   * 그들을 위해 노래를 부른다는 것은 돼지에게 진주를 던지는 격이라고. To sing for them is to cast pearls before swine. 

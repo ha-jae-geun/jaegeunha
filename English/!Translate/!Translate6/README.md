@@ -1,3 +1,26 @@
+# 연습가이드 #38 - PART 2 - 'The Benefits of Starting Your Day Early in the Morning"
+* 할 일을 하다; get work done; 핸드폰을 고치다; get my phone fixed; get my hair cut; get some food delivered
+* 하룰가 시작하기 전에 일처리를 할 수 있도록 일을 일찍 할려고 한다
+  * I usually try to get to work a little earlier than i have to just so i can get some extra work done before the day starts
+* 미안 내가 늦었네 오래 기다렸어? Oh i'm sorry i'm late. Have you been waiting long?
+* 아침 복수; Early mornings; 반복적인 일
+* 괜찮아 나 그냥 오늘 할 얘기를 정리하고 있엉써; No, it's OK. I was just going over some things we're going to talk about today
+* procrastinated
+* be distracted; 집중에 방해받는
+* continuously : non-stop / 끊김없이 계속 / 멈추지않고
+    ex) I can't run for more than 4 min continuously
+* continually : 멈췄어도 다시 계속 / 자꾸 반복
+    ex) This database is updated continually.
+* constantly : 일정하게, 항상, 빈번하게, 일상적으로 /
+    ex) Fashion is constantly changing.
+* consistently : 매번, 일관적으로 / 예외없이 일관되게
+    ex) Morgan Stanley has decided to switch its suppliers as Pemex has been consistently late in filling its orders.
+* steadily : 꾸준하게, step by step / gradually
+* persistantly : 끈덕지게 / 고집스럽게
+* 잊다; lose sight of; 뭔가를 하다가 과정 목표를 잊다
+  * So we tend to lose sight of who we are
+  * forget: 잊다, 잊어버리다 모두 가능
+
 # LESSON #25 - 시간표현 PART 2
 * 언제 여기로 이사했어? When did you move here?
 * 7월에 이사했어; i moved here in July this year. 

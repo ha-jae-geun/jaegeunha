@@ -22,6 +22,8 @@
   * 눈물 글썽이다. His eyes were moist with tears
 * 이 메니큐어 엄청 럅게 발린다; This nail polish is really sheer
 * 한 네겹 바르면 되나; Maybe if i do like four coats
+	* 가볍게 몇 번 누르거나 닦는 것을 의미해요. 영상에선 얼굴 위의 파운데이션을 쿠션으로 누르는 것을 의미하는데요. 의역되어 [파운데이션 바르기]라고 해석이 되었습니다. 파운데이션을 누르는 걸 우리말에선 바르는 것으로 말하기 때문인데요. 실제 크림 같은 것을 가볍게 바르는 경우엔 [dab A on B = A를 B에 바르다]라고 쓸 수 있으니 참고하세요!
+  * = 손수건으로 눈가를 꼭꼭 닦는 여성분이 그의 엄마야. The lady dabbing at her eyes with the handkerchief is his mom.
 * 모공관리; How to tighten pores
 * 엄청 큰 여드름이 나겠지; i'm gonna have a huge zit
 	* 피부 트러블이 나기 시작했어요; i started breaking out a little bit
