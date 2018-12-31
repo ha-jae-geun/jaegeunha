@@ -157,12 +157,20 @@
 * the day broke when i woke up; 밤이 꺠지고 낮으로 변한다
 * breaking news
 
+## come
+* 'come into one's own'은 성숙과 발달의 과정을 거쳐 힘과 자신감, 경제력, 존경, 사회적 신용 등을 얻은 단계에 이르는 것을 가리키는 말입니다. 지금 우리가 아는... 약간은 거만한(?), 성공한 칸예로 완전히 성장하기 전이라는 뜻이겠죠?
+	* 에디트는 드디어 사진작가로서 인정받았다. [ex] Edith finally came into her own as a photographer.
+
 ## charge
 * 짐을 올리는 라틴어 어원 -> 짐을 채우고, 그게 임무/책임를 다하는 느낌; 맞서 싸워라 돌격하라
 * YOu must pay the fine;
 * Could you please charge that fine to my mom?
 * Do you have IPhone charger?
 * Are you gonna charge extra
+
+## carry
+* : ~가 (시련, 고통 등을) 헤쳐나가게 하다, (시련, 고통 속에서) ~를 지탱해주다 carry someone through
+  * 제 결의가 마지막까지 절 지탱해줬습니다. [ex] My determination carried me through to the end.
 
 ## contain
 * 억눌러 담아두는 느낌; contain excitement; contain a blaze; contain protest; contain the violence
@@ -179,6 +187,12 @@
 * 옆에 끼고다니기 매력적인 상대; 사회적 지위, 관심 얻기 위해 arm candy
 * 안구정화 상대; 외모는 그럴싸하지만 지적으로 혹은 깊이는 없는 상대; eye candy
 * 귀여운 아기; is as sweet as pie
+
+## end
+* [ 숙어 ] end up ing 일상에서 정말 자주 쓰는 표현이니 꼭 익혀두세요~! '[본의 아니게, 우연히, 결과적으로] ~하게 되다' 라는 뜻!
+* ※ end up in + 장소 / here / there … : 행동이 아닌 '어떤 장소에 우연히 도달하다'라고 말하고 싶다면, 요렇게 표현해보세요!
+	* 내가 어쩌다 여기까지 오게 됐지? [ex] How did I end up here?; [ex] He ended up in jail.
+
 
 ## ear
 * 상황을 보아가며 결정하다; play it by ear
@@ -249,6 +263,19 @@
 * 그는 현행범으로 체포됐어요.  He was caught red handed on the spot .
 * 그 학생은 즉석에서 이야기를 만들어냈다. The student made up a story off hand. 
 
+## house
+* : '집'을 가리키는 'house'도, 정치얘기를 할  때는 '의회'나 '미국의 하원' '영국의 상원'으로 해석해주셔야 합니다. 또한, 반드시 그런 것은 아니지만 'h'를 대문자로 표기하는 경우가 많아요!
+	* 의회는 그 제안에 대해 논의하기 시작했다. [ex] The House began debating the proposal.
+
+## look
+### look out
+1. 보살피다
+	* 내가 없는 동안 네 동생 돌봐주렴. [ex] Look out for your brother while I'm gone.
+2. 조심하다, 주의하다
+	* 사기꾼들 조심해. [ex] Look out for scam artists.
+3. 있나 없나 인지하다/찾아보다
+	* 이따가 무대에 나 나오는 거 봐봐. 뒤쪽에 있을 거야. [ex] Look out for me on stage later. I'll be in the back.
+
 ## lead
 * 연필; lead pencil
 * 스피드 광; He's got a real lead foot
@@ -278,6 +305,24 @@
 * : 실수를 들춰내다, 난처하게 하다  rub in one's nose  You kept rubbing in my nose all day.
 	* 1900년대 중반 미국에서 유래한 이 표현은 주택에 침입한 개의 코에 똥을 비비게 하여 혼구멍을 내준다는 의미에서 시작된 것으로 개에게는 몹시 불쾌한 기억이 될 텐데요.
 
+## office
+* : 'office'를 일반적인 '사무실'이나 '근무처' 말고도 '정권, 공직'을 가리키는 말로 사용하는 경우를 드물지 않게 찾아볼 수 있어요^^ 그런  의미인 경우에는 앞에 a나 the, 소유격이 잘 붙지 않습니다.
+	* 공직에 있은 지/취임한 지 얼마나 됐어? [ex] How long has she been in office?
+
+## point
+* - have a point / have got a point : 일리가 있다
+	* 저 사람 말에 일리가 있어. She's got a point.
+* - make one's point : 주장을 효과적으로 펼치다
+	* 그래, 무슨 말 하는지 잘 알겠어. Okay, you've made your point.
+* - My point is : 제 요점은 말이죠 - The point is : (여기서) 중요한 건 말이죠
+* - see one's point : -의 요점, 주장을 이해하다
+* - miss one's point : 의 요점, 주장을 놓치다
+* - get to the point : 본론, 핵심으로 들어가다
+
+## pressure
+* - be pressured by A : A로부터 압박을 받다
+* - be pressured to A : A를 하라는 압박을 받다
+
 ## promise
 * 약속하면 해야하는 그림; 맹세의 느낌
 * i have a promise(가질수 없다) -> i'm meeting my friend; i have a plan with my friend
@@ -291,6 +336,10 @@
 * someone always plays on my mind
 * the governemnt play the important role
 
+## pick
+* 이용자 참여  어쩌면 그 연기를 조목조목 비판하는 것은 공평하지 않은 것 같다. It's not fair , perhaps , to pick apart the acting . 듣기
+	* pick apart: 조목조목 검토하고 분석하다
+
 ## run
 * 진행하는 느낌
 * i run my own business; 운영
@@ -301,9 +350,24 @@
 * 여기 한국에는 관료주의가 많다. There ’ s lots of red tape involved here in Korea
 * 나를 특별하게 대우할 필요는 없습니다. There's no need to roll out the red carpet for me.  
 
+## spare
+* 남이 어떤 나쁜 일을 겪지 않도록 해주는 것을 spare라고 합니다. 사용시 어순은 「spare 사람 (from) 불쾌한 일」입니다. 영상속 대사를 살펴보면 spare(받지 않게 해주다) / others(다른 사람들) / the anguish of the disease(이 병으로부터의 고통)이 되겠습니다.
+	* 그녀는 그녀의 어머니에게 어떤 걱정도 끼치지 않길 바랬다. She wanted to spare her mother from any anxiety.
+
 ## set
 * 비가 하루 종일 내릴 기세로 시작한 것 같았다. The rain seemed to have set in for the day. 
 * 그들이 기계에 시동을 걸었다. They set the machinery in motion. 
+
+## start
+* - start off by ~ing : ~하면서 시작하다
+* - start off with : 로 시작하다
+	* 쉬운 걸로 시작해보죠. Let's start off with an easy one.
+
+## top
+* at the top of my list는 말그대로 내가 (손에 꼽을 만큼 좋아하는) 것들 중에서 가장 일순위다, 즉 '가장 좋아하는, 가장 해보고 싶은' 일을 말할 때 쓰는 표현이예요~ 
+* : 목청껏, 있는 힘껏 큰소리로 응용 예시1. at the top of my lungs; [ex] We were screaming at the top of our lungs.
+* : 지금 머리속에서 막 생각나는건 응용 예시2. off the top of my head
+	* 지금 바로 머리속에 생각나는게 없어. [ex] I can't think of anything off the top of my head.
 
 ## take
 * 정말 강한 소유욕 <> have

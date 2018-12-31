@@ -1586,20 +1586,23 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * 딱하다									 pə‘θetɪk You're pathetic.
 * #어쩌지 #어떡해 #안됐다 #불쌍 #딱 #비참 #비루
 * #encourage, #inspire, #cheer - 격려하다 
-* #달래다; #soothe, #calm, #comfort #placate
-* [kən|sɪliətɔ:ri] #conciliatory; #회유하기 위한; a conciliatory approach/attitude/gesture/move 
-* #구슬리다; [koʊks]; She #coaxed the horse into coming a little closer.
-* Cheer up은 가벼운 위로(중요한 일에 위로하는 말이기에는 약한 말)
-* 격려 연설; 격려의 말 #pep talk
-* 위로가 될지 모르겠지만 If it’s any consolation
-* 이건 좀 만족스럽지 않은데 				 I'm not quite satisfied with this work
-* 잘하고 있어, 힘내자						 Keep up the good work.
-* 다독이다 #pat ~ on the back; pat ourselves on the back
-* #push oneself; #다독이다 밀어붙이다
-* 위로 								consolation [|kɑ:nsə|leɪʃn]
-* There are ups and downs
-* 그거 안됐다 								 That's too bad
-* 위로가 필요해 								I need your heart.
+	* 'our thoughts and prayers are with you'는 위로와 격려의 마음을 전하는 상투적인 표현입니다. 우리가 '심심한 위로를 전합니다'라는 말을 쓰는 것처럼요.
+		* [ex] Out thoughts and prayers are with all
+		* [ex] You are in my thoughts.; [ex] Our hearts/thoughts/prayers go out to you.
+	* #달래다; #soothe, #calm, #comfort #placate
+	* [kən|sɪliətɔ:ri] #conciliatory; #회유하기 위한; a conciliatory approach/attitude/gesture/move 
+	* #구슬리다; [koʊks]; She #coaxed the horse into coming a little closer.
+	* Cheer up은 가벼운 위로(중요한 일에 위로하는 말이기에는 약한 말)
+	* 격려 연설; 격려의 말 #pep talk
+	* 위로가 될지 모르겠지만 If it’s any consolation
+	* 이건 좀 만족스럽지 않은데 				 I'm not quite satisfied with this work
+	* 잘하고 있어, 힘내자						 Keep up the good work.
+	* 다독이다 #pat ~ on the back; pat ourselves on the back
+	* #push oneself; #다독이다 밀어붙이다
+	* 위로 								consolation [|kɑ:nsə|leɪʃn]
+	* There are ups and downs
+	* 그거 안됐다 								 That's too bad
+	* 위로가 필요해 								I need your heart.
 * 이런 일로 우울해 하지마 						Don't let it get you down.
 * 다 괜찮아 질거야 						Things will get better.
 * 너무 우울해 하지마 						Keep your chin up, buddy
@@ -1781,6 +1784,7 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * 이건 완전히 생각지도 못한 거야. 		 이건 완전히 ~야 This is totally unexpected. 
 * 우리가 져서 실망했어. 					 	 I’m disappointed that we lost. 
 	* 그녀는 그 결과에 실망[경악]을 감추지 못했다. She could not hide her dismay at the result. 
+	* 실망스러운 일이다; That's a real downer
 	* 꽤나 실망하죠; She is pretty gutted
 	* 새로운 언어를 배우는 것은 정말 답답해. 		 It’s so frustrating to learn a new language. 
 	* 늦어서 미안해. 								 I’m sorry I’m late. 
@@ -1849,3 +1853,7 @@ I am always overlooked(간과), never discount the contributions, put someone do
 
 # 책임
 * 내 동료가 아파서 내가 책임지고 일을 해야 했다. My co-worker was sick, so I had to carry the ball. 
+
+# 주의
+* 어미가 모두 -ism으로 끝나는 단어들로 ‘~주의(主義)’를 의미합니다. 각각의 형용사는 cynical(냉소적인) / pessimistic(비관적인) / optimistic(낙관적인) 입니다.
+	* She always chooses optimism over pessimism.

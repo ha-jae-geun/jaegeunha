@@ -11,6 +11,8 @@
 * 하루 아침에 되는거 아니야; It doesn't happen overnight
 
 # 시간
+* ‘당신은 이제 너무 과거다’라는 말은 이제 당신의 시대는 갔다, 이제 당신은 한 물 갔다는 의미입니다. 혹은 단순히 ‘구식이다’라는 뜻도 되죠.
+	* 브리트니 스피어스? 이제 한 물 가지 않았나? Britney Spears? Isn’t she so yesterday?
 * 수습기간; probationary period = probation; for a one-year probationary period
 	* 근신중; on Probation
 * 성공은 매일매일 반복되는 조그마한 노력들이 합쳐진 거야. Success is the sum of small efforts repeated day in and day out.
@@ -35,6 +37,7 @@
 	* 하나; One mississippi; 둘; two mississippi
 * 오래동안; for years (and years); i've known him for years
 * 가끔씩; 누구나 가끔씩은 쉬어줘야지. Everyone deserves a break every now and then.
+	* [가끔] 이라는 의미를 가진 단어로 sometimes 가 조금 더 친숙하실텐데요. sometimes 같은 경우엔 [가끔] 이지만, 무언가를 비교적 정기적으로 가끔 하는 것을 의미하는 반면에 every now and then 같은 경우엔 정해지지 않고 띄엄띄엄 가끔 하는 것을 의미합니다.
 
 # 요일
 * 어서 금요일이 되면 좋겠어!; Roll on Friday! 듣기 출처:옥스퍼드

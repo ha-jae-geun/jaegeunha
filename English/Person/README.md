@@ -128,6 +128,7 @@
 	* 3) indoorsy = 방콕파인 (속어, 유행어)
 	* 4) sedentary = 정적인, 몸을 쓰지 않는 (가장 문어체적인 말)
 * 신입생; 새로운 사람 New kid; new kid on the block: 1940년 만화에서 등장한 표현
+* 무엇이나 누군가가 아주 즐겁거나 대단하다고 할 때 riot이라는 표현을 씁니다~ 원래는 폭동이라는 뜻이지만 야단법석으로 시끄럽거나 유쾌한 것을 가리키는 말로도 사용해요!
 
 # 나이
 * 어느새 18살이 됐어; Fast forward to 18
@@ -720,6 +721,7 @@ He is such a punk
 * 정리해보다 Let me get this straight
 * #straight out; #솔직한, #철저한, #서슴없이
 * 정직한, #진솔한; #on the level = #honest = #sincere
+	* 정직한 사람; straight shooter
 * ☆#모범생 #straight edge life style(#edge, #style)
 #goody-goody
 * 정신차려 get one's head on straight

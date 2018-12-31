@@ -109,6 +109,8 @@
 * #유행한다 #In fashion = it's in <> it is #out
 * #fad; ~ are the fad
 * 유행을 타지 않는다. #never go out of style(#style)
+  * '(be) ahead of the curve'는 '트렌드에 앞서서' '시대를 앞서가서'를 가리키는 관용적 표현이랍니다. 반대로, '(fall) behind the curve'라고 하면 '트렌드에 뒤져서' '시대에 뒤떨어져'의 의미겠죠~
+    * 카카오는 새 기술들을 도입하는 데 앞서왔다. [ex] Kakao has been ahead of the curve in adopting new technologies.
   * '시간이 지나도 촌스러워지지 않는(즉 유행을 타지 않는), 고전적인 미를 갖고 있는' 이런 뜻이에요! 
   timeless book/movie/play/classic (책/영화/연극/고전작품)                          
   * 환경 문제와 관련된 시류에 열심히 편승하는 정치인들 politicians eager to jump on the environmental bandwagon 

@@ -17,6 +17,8 @@ The best-selling classic of politics is Machiavelli's monarchy.
 	* 그들은 백인과 흑인들 사이의 강력한 분리정책을 시행하였다. They imposed strict segregation between white and black people.
 * 건물 등과 같은 것을 붕괴시키거나, 어떤 사물을 떨어뜨리는 것을 bring down이라고 합니다. 여기서는 "히틀러의 파시즘과 대학살이 끝을 맺게 되다, 종식되다" 등으로 해석됩니다.
 	* 그 지진은 많은 건물을 붕괴시켰다. The earthquake brought down many buildings.
+* 인종, 계층, 성별, 장애 유무 등 특정 집단을 배제하지 않는 포괄적 정책이나 방침을 inclusivity라고 합니다. 오바마는 트뤼도 대통령이 포괄적 정책을 향한 헌신(commitment to inclusivity)을 가지고 나라를 이끌어 가고 있다고 칭송하고 있습니다.
+	* 사회가 점점 국제화가 되어가고 있기 때문에, 우리는 포용 정책이 그 어느 때보다 필요하다. As society is becoming more and more internationalized, we need inclusivity more than ever.
 
 ## Election
 * win the election
@@ -45,6 +47,7 @@ The best-selling classic of politics is Machiavelli's monarchy.
 * #영부인 #first lady
 * 영부인, 퍼스트 젠틀맨; Fist lady/gentleman
 * #대통령 #백악관; #white house, #백악관 서관: #Westwing
+	* sitting president: 현직 대통령 former president: 전직 대통령 president-elect: 대통령 당선자 (아직 취임 X)
 * #대권에 도전하다; #run for presidency
 * #president-elect: 당선이 되었지만 취임 전 대통령
 * #임기; his four-year tenure as President 그의 4년간의 대통령 재임

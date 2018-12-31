@@ -34,6 +34,7 @@
 	* SHe located her name on a wedding registry t that shopping ceter
 
 # 상품
+* '~ off ...'는 '...에서 ~만큼 할인하여'라는 말로 아주 활용도가 높은 말입니다! 또, 'cents-off'를 coupon/code/marketing 등의 단어 앞에 붙이면 할인쿠폰/할인코드/할인마케팅을 표현할 수 있습니다.
 * 상표가 없는 브랜드들; Generics
 * 그런한 의미의 연장선 상에서 회사를 이끌거나, 다른 상품을 이끌어주는 주력 상품/서비스 등을 flagship 제품들이라고 해요. 몇 해 전부터 우리나라에서 '플래그쉽 스토어' 라는 말을 종종 쓰는데요. 회사의 대표 매장을 의미하는 말입니다.
 	* 예전에 내가 가장 좋아하던 WWF 대표 스타들은 헐크 호건이랑 워리어였어.  ex) My favorite WWF flagship stars back in the days were Hulk Hogan and Ultimate Warrior.

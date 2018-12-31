@@ -1,3 +1,6 @@
+# 연설
+* deliver a speech give a speech; deliver a presentation; give a presentation
+
 # 생각
 * (생각/방법을) 적용하다 / 이용하기 시작하다; run with; 그 아이디어에 착안해서 적용했어요; They took that idea and ran with it
 * (문제 해결을 위해) 곰곰이 생각하다 put your thinking cap on 미국식  영국식   단어장추가
@@ -6,6 +9,7 @@
 * 말보다는 숨은 의미가 더 중요하다; the literal words are less important than the subtext
 * 가족을 대신해서 말하자면; 대변; i speak for my whole family
 * 능수능란하다; That's diplomatic; 2. 외교적인; 다른 사람의 심기 건드리지 않으면서 어려운 말을 요령있게 한다.
+* : '오늘 하는 것으로 마치고 싶습니다', '마무리짓고 싶습니다' 라는 뜻! 발표, 연설 등의 마무리 멘트로 유용하게 쓸 수 있겠죠? [ 구문 패턴 ] I want to close today by -ing
 
 # 논증 방법 과거: 기승전결, 현재: 서론, 본론, 겨론 기사-귀납-영역-열거
 

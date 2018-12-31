@@ -3,6 +3,36 @@
   * 그는 그다지 신사는 아니다. He's less of a gentleman.
 * 흔히 볼 수 있는 곡예 중에 저글링이 있죠. 공이나 막대기 같은 걸 세 개 이상 공중에 던지면서 떨어지지 않게 하는 건데요. 비슷하게, 두 가지 이상의 일을 곡예하듯이 꾸려나가고 해나가는 것을 juggle 이라고 합니다.
   * = 내 가족을 먹여 살리려면 투잡, 쓰리잡 뛰어야 해. I gotta juggle a few different jobs to support my family.
+* 앞서 나열한 것들 못지않게 중요하다는 뜻의 관용구입니다. "last but not least" 라고 말하기도 해요! 이 역시 발표 자리에서 활용할 수 있겠죠.
+  * 마지막으로 이것도 중요한데요, 표를 봅시다. Last but not least, let's look at the chart.
+* (그렇게 하면) 나쁜 전례가 될 거야. (= 나쁜 행동을 계속 부추기는 꼴이 될 거야) You'd be setting a bad precedent.
+* 부디 여러분도 여러분 몫만큼 기부를 해주세요. [ex] Please do your part and donate, too. : 어떤 일을 위해서 크든 작든 상관없이 '~의 몫을 하다' 라는 뜻이에요!
+* 동사 win 은 이처럼 승리해서 상을 타듯 뭔가를 노력해서 '얻다, 쟁취하다' 라는 뜻으로 쓸 수 있답니다! 예문을 보면서 더 익혀보세요. ※ win over는 이전에 나를 지지하거나 신뢰하지 않았던 사람의 지지 또는 신뢰를 얻어내는 등 성공적으로 마음을 바꿨다는 어감이 좀 더 살아있는 표현입니다.
+  * 그는 대중의 엄청난 지지를 얻었습니다. [ex] He has won huge public support.
+* : 뱃사람들은 욕을 잘 한다는 고정관념에 기반한한 표현이에요. 뱃사람처럼 찰지게 욕 내뱉을 줄 안다, 즉, 욕을 정말 잘한다, 심하게 한다는 뜻이죠! 꽤 자주 쓰는 표현이에요.
+  * 나 운전할 땐 욕 엄청 많이 해. [ex] I curse like a sailor when I'm driving.
+* :  여기서 "sights"는 이루고자 하는 것, 목표를 말해요. '목표를 너무 높게 잡다, 야망이 과하다, 기대하는 것이 너무 많다' 라는 뜻이죠!
+  * 목표를 너무 높게/낮게 잡은 것 같은데? [ex] It sounds like you're setting your sights too high/low.
+* 'get the memo'는 표면적으로는 '정보를 전달받다'라는 의미이지만, informal(비격식)한 상황에서 '일이 돌아가는 형편을 인식하다'라는 말로 자주 사용된답니다. 부정형으로 써서, 사람들이 다 알고 있는 상황을 "잘 몰랐을 때"를 표현하곤 하죠^^
+  * 기름값이 어떤지 못 들었어? [ex] Didn't you get the memo about gasoline prices?
+* 이 표현은 상대의 행동이 짜증나니까 이제 좀 그만하라는 표현입니다. 명령어로 Give it a rest! 라고 하거나 Why don’t you give it a rest?라고 말할 수 있습니다. 
+* 'show/have/give sb the courtesy (to do sth)'이라고 하면 '(최소한) ~을 하는 성의는 좀 보여라'라는 뉘앙스로, 예의 없음에 대한 불쾌함을 표현하는 말이 될 수 있습니다.
+  * 최소한 전화에 답은 하는 성의를 보일 수 있었잖아. You could've at least had the courtesy to return my calls.
+* say 는 '말하다'로 비교적 넓은 의미라면, utter 는 '입을 열어 소리를 내다, 입 밖에 내다, 발음하다'라는 뜻으로 더 구체적인 의미를 지녀요!
+  * 말을 하려고 하질 않아. He won't say anything.
+* 1) 주로 남자들이 관심없을 법한 주제들을 가지고 여자들끼리 얘기하는 것을 girl talk 라고 합니다. 남자 둘이서 조금 심각한 대화를 나누는 것은 man-to-man talk 라고 합니다. 2) 비슷한 예로, 여자들끼리 저녁에 나가 노는 것을 girls' night out 이라고도 해요!
+  * 잭, 우리가 말하는 거 그만 엿들어. 여자들끼리 하는 얘기야. ex) Jack. Stop overhearing what we are talking about. It's girl talk.
+* 1) 영상에서는 명사로 [자연스럽게 넘어감] 을 의미합니다. 중간에 방해 없이 음악이나, 멜로디, 영화, 장면등이 그 다음 파트로 넘어가는 것을 의미해요. 보통 전치사 to, into 등과 함께 쓰인답니다. 2) 여기선 대화가 자연스럽게 다음 주제로 넘어간 것을 의미하겠죠? 발음에 귀 기울여 들어보세요!
+* : '~에 대해 곱씹어보다' 라는 뜻인데요. 대개 불편한 마음으로 곱씹는 걸 말해요!
+  * 이미 일어난 일에 계속 마음 써봤자 소용 없어. There's no use brooding over what's already happened.
+* * inkling이라는 단어는 잉크와는 관계가 없고요;;; '암시, 언급'이라는 뜻을 가진 'yngkilking'이라는  중세 영어 단어에서 비롯되었다고 합니다~^^ 1. have an inkling: 눈치를 채다, 어렴풋이 알아채다
+  * 그는 전혀 눈치채지 못 했다. ex) He didn't have the slightest inkling.
+* : 직역하면 '커튼 뒤에서'라는 뜻인데, '보이지 않는 곳에서, 배후에, 비밀리에'라는 의미를 나타내죠~
+  * 안 보이는 곳에서 무슨 일이 돌아가는지 사람들을 알 길이 없다. People can't know what goes on behind the curtain.
+* 'run rampant'는 '횡행하다' '만연하다'로 해석될 수 있는 표현입니다. 무언가 억제되지 않고 제멋대로, 지나치게 마구 퍼지는 것을 말하죠. 오바마는 미국 민주주의에서는 견제와 균형이 잘 작동해서 다수당이더라도 함부로 마음대로 할 수 있는 구조가 아니라고 보았네요.
+  * 어떤 문화에서는 여성혐오가 난무합니다. [ex] In some cultures, misogyny runs rampant.
+* 'ground'는 '땅, 토양' 뿐 아니라 '분야, 영역, 화제'와 같은 추상적인 것도 지칭할 수 있는 단어입니다. 거기에서 'common ground'의 '타협점'이라는 의미가 나왔죠. 주로 대부분의 것에 반대하는 사람들이 이해관계·입장등을 공유하게 되었을 때 사용한답니다. 'middle ground'로도 호환해서 사용할 수 있어요.
+  * 협상은 어떤 절충안을 수립하는 것에도 실패했다. [ex] Negotiations have failed to establish any middle ground.
 * 1. 콜 사인; 정체를 밝혀 -> rogue one;  2. 따로 놀다; rogue one(마이웨이)
 * 기차 정기 승차권을 사면 기차를 두 번쯤 타고 나면 들인 비용이 절약된다. The rail pass will pay for itself after about two trips. 
 * 번거롭게 ㅎ기 싫어; i don't want to be an inconvenience; Sorry for the inconvenience

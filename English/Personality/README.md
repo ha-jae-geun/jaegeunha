@@ -307,6 +307,10 @@
 * 애매한 시간에 약속을잡음 make a plan at #weird time
 * 뚜렷하지 않은 점 the #blobbies
 * #찝찝했던 부분들을 다 해결할 시간이 없었어	I didn't have time to iron out the kinks [kiŋk] 
+* 점잖은; 
+	* 그 노래는 조금 더 빠른 비트의 다른 곡으로 자연스럽게 넘어갔다. ex) The song naturally segued into another with a bit faster beat.  [ˈseɡweɪ]
+* 1) 격식체로 사람들이 올바르고, 겸손하고, 적절하다고 여기는 행동을 의미합니다. 2) 영상을 직역하면 [발생하는 점잖음이 많지 않아보인다] 정도가 되지만, 사람들이 무언가를 올바르게 행동하지 않는다기 보다는 활발히 무언가를 한다는 것을 의미합니다.
+  * 수잔은 점잖음을 포기하고 미친사람처럼 춤추기 시작했다. ex) Susan abandoned decorum and started dancing like a nut.  [dɪˈkɔːrəm] 
 * #온순한	meek, gentle, quiet 
 * 온순하게; #meekly
 * #순종적인	obedient, docile ‘dɑ:sl

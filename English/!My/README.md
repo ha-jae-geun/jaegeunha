@@ -134,6 +134,7 @@
 * 그러세요; Be my guest
 
 # 말투
+* 진짜 눈은 본 적이 없어서, 지금 이 순간이 의미가 커. I've never actually seen real snow, so this is a big moment for me; It means a lot to me; meaningful
 * 누가 이길[결과가 어떻게 될] 건지는 끝까지 두고 봐야 안다 it's not over until the fat lady sings 미국식  영국식   단어장추가
 * 다 잘될거야; Things will work out. Everything will work out.
 * 원래는 “The proof of the pudding is in the eating.” 인데요, 영상처럼 짧게 표현하기도 합니다. 실제로 해보기 전에는 모른다는 뜻으로 14세기 경부터 쓰인 아주 오래된 속담입니다. 우리말의 ‘길고 짧은 건 대봐야 안다’, ‘백문이 불여일견이다.’ 등과 같습니다. 
@@ -196,6 +197,8 @@
 * 이용자 참여  우리는 더 중요한 일이 있어.  We ' ve got bigger fish to fry . 듣기
 
 # 일상  
+* 거의 모든 걸 찾을 수 있다는 게 인터넷의 묘미지. The beauty of the Internet is that you can find almost anything.
+* 이번 학기는 좀 느슨해 질거야. 학기말 과제 제출하고 나면. ex) This semester will ease up a little after handing in the term paper.
 * 길좀 비켜주세요; Clear the way; Coming through; Can i pass here?
 * (특히 테이블 아래로) ~의 발을 간질이다(애정·성적 관심의 표시) play footsie with somebody 2. …와 한패가 되다. 3. 추잡한 일을 하다
 * 잠수타어; He went underground
