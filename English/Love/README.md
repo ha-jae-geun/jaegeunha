@@ -13,6 +13,7 @@
 * 내가 놓친 그사람; get away; 미련 남는 사람; the one that got away
 * 삼각 관계 같은 거; He's in some kind of, like, love triangle
 * 포옹 허그 안다; 뒤에서 안아줘요; spoon me
+	* cuddle과 hug는 "포옹하다"는 유사한 의미를 가진 두 단어이지만 그 쓰임새가 조금은 달라요. cuddle은 hug 보다 조금 더 밀접한 관계에 있는 사람들끼리 껴안는 행위를 가리키는 단어에요. 특히 사랑하는 사람이나 애완동물과 침대에 누워 꼭 껴안고 뒹굴거리는 것도 일종의 cuddling이라고 볼 수 있어요. 
 	* 그대가 내 품에 없으니; Without you here in my arms; 
 	* 그 아이는 엄마에게 바싹 파고들었다. The child snuggled up to her mother. 
 	* She was holding a baby against her breast
@@ -52,6 +53,7 @@ I have a big crush on you / I have a thing for you, i'm into you
 	* 헤어졌다 사구이ㅓㅆ다 반복; on and off couple
 	* 우리 사이를 돌이킬 수 없게 햇어; All of our bridges burned down
 	* 너를 포기하다; quit on 사람
+	* 오해; misread는 '잘못 읽다', '오해하다', '잘못 해석하다'라는 뜻이에요. 신호signal을 잘못 읽는 건 보통 남녀 사이에서의 신호를 오해한다는 뜻으로 쓰여요. 가령 상대방의 행동을 보고 나를 좋아하는 줄 알았는데 알고 보니 그냥 친절하게 구는 거였다든가 하는 상황에서 쓰는 표현이죠.
 * 화해하다; make up sex; a lot of couples breakup just because they want to have make up sex; 미국농담
 * 차다; i dumped him; i was/got dumped
 * 점점 멀어지다; we've grown apart; we grew apart

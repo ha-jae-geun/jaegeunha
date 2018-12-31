@@ -9,6 +9,7 @@
 * 우리의 열정은 섯히 줄어들기 시작했다; out enthusiasm began to ebb away
 	* 밀물, 썲ㄹ; As the tide ebbed away; 
 	* 조수간만의 차; Tjere's always ebb and flow in our lives
+	* 해안으로[물가로] 오다/가다  to come/go ashore; 부사] 해안[강안]으로[에], 물가로[에]
 * 물때표; 밀물과 썰물이 들고 나는 떄를 적은 표
 	* 낚싯바늘을 묵을 떄마다 손가락이 베여서; when i'm trying my hooks, i always cut my fingers
 * 배가 부두에 도착하면; When the ship docks

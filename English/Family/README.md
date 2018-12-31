@@ -189,6 +189,7 @@
 * 나는 #부양해야할 가족이 있어요 					 I have a family to support
 * #provide for family
 * 우리 가족 대가족이에요 						 I came from a large family
+	* extend 가 [연장하다, 확대하다] 라는 뜻이 있으니, 두 가족 이상이 한 집에 사는 걸 의미하죠. 요즘 시대에 가장 흔한 핵가족은 nuclear family 라고 합니다. 직계가족은 immediate family라고 하고요. * extended family = 대가족
 * we are a #family of four
 * 하나는 자수성가한 사람입니다.						 He's a self-made man.
 * 그는 유복하게 태어났다. 				 He was born with a silver spoon in his mouth.

@@ -21,6 +21,7 @@
 * I said I would be ther as soon as I could
 
 # 접두어
+* 그것을 한 후엔 우리 모두 한 잔 생각이 간절할 거예요! I think we could all use a drink after that!; could use: 필요하다
 * 주의해 주세요; Pleas note that
 * - 축하해요; Congratulations on- Congrats on
 * 그냥 여기있어; Stand down- 어벤져스 뉴욕 헐크
@@ -113,6 +114,7 @@
 * 그렇지; kind of
 * 당분간ㅇ느 그럴 예정 없어; no time soon
 * 알겠다고!; i concede
+* 마음껏 질문하세요; Fire away
 * 고마워요; Cheers mate(영국)
 * 자문자답; 맞아요 쉽지 않겠죠; Yes, it won't be easy
 * 섬뜩하네요; Creepy
@@ -129,8 +131,10 @@
 * 연락해요; Hit me up
 * 내말 믿어봐 진짜야; Take it from me
 * 그냥; Just because
+* 그러세요; Be my guest
 
 # 말투
+* 누가 이길[결과가 어떻게 될] 건지는 끝까지 두고 봐야 안다 it's not over until the fat lady sings 미국식  영국식   단어장추가
 * 다 잘될거야; Things will work out. Everything will work out.
 * 원래는 “The proof of the pudding is in the eating.” 인데요, 영상처럼 짧게 표현하기도 합니다. 실제로 해보기 전에는 모른다는 뜻으로 14세기 경부터 쓰인 아주 오래된 속담입니다. 우리말의 ‘길고 짧은 건 대봐야 안다’, ‘백문이 불여일견이다.’ 등과 같습니다. 
 * 내말 들었잖아, 잔말 말고 해; YOu heard me
@@ -192,6 +196,17 @@
 * 이용자 참여  우리는 더 중요한 일이 있어.  We ' ve got bigger fish to fry . 듣기
 
 # 일상  
+* 길좀 비켜주세요; Clear the way; Coming through; Can i pass here?
+* (특히 테이블 아래로) ~의 발을 간질이다(애정·성적 관심의 표시) play footsie with somebody 2. …와 한패가 되다. 3. 추잡한 일을 하다
+* 잠수타어; He went underground
+* 무슨 말인지 모르겠는데; You lost me
+* 한달에 한개씩 도전해보기로 결정했어요; i'm gonna tackle them month-by-month
+* 내가 즐기는거다; This is my jam <> not my jam
+* 저 물건이 똑바로 서있을리 없어; There's no reason that thing should stay upright
+* 그는 곧바로 감을 잡았고 편한 마음으로 근무에 임할 수 있었다. He quickly learned the ropes and soon felt right at home; get the hang of it
+* 글쎄. 지원서를 아주 세심하게 주의를 기울여서 작성해야겠지! Let's see. Make sure you dot your i's, and cross your t's on the application! 
+  * 필기체에서 i와 t는 위에 dot과 cross(가로 혹)을 나중에 돌아와서 찍는다.
+* 지금까지 경찰 수사는 아무런 결과를 얻지 못했다. So far, the police investigation has drawn a blank. 
 * 비밀을 미리 알려주면 재미가 없어지잖아. If I let the cat out of the bag , that will ruin the fun . 듣기 출처:YBM
 * 항복해; Say uncle
 * 마음먹기 나름이에요; It's all in the mind
@@ -216,7 +231,7 @@
 * 골칫 덩어리; a pain in the neck
 * (문제인 줄 알았던 것이 가져다 준) 뜻밖의 좋은 결과[이득] a blessing in disguise 미국식  영국식   단어장추가
 * 매우 피곤해; i'm beat/pooped
-* 정신 차리고 현실 직시해; Wake up and smell the coffee
+* 정신 차리고 현실 직시해; Wake up and smell the coffee/thorn 미국식 [θɔːrn] 
 * 돈 하나도 안아까워; THat is worth every penny
 * 빨리빨리 서두럴; Shake a leg
 * 맞춰봐; Take a guess

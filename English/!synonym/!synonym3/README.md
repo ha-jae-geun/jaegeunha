@@ -1,4 +1,38 @@
 * 단 음식, 특히 스낵류, 케이크류처럼 설탕으로 가득한 음식을 나타내는 격식체 명사입니다. 꿀이나 설탕에 절인 견과류를 의미하기도 하고요. 형용사인 [confectionary = 사탕 과자의] 도 함께 알아두시면 좋아요. 보통 마트 같은 데서 많이 볼 수 있는 단어입니다.  참고로 행사나 회의 등에서 제공되는 [다과] 는 refreshment 라고 해요.
+* make it less of an alone thing을 구조적으로 더 쉽게 바꾸자면 make it less alone처럼 말할 수 있는데 영어에서는 명사를 더 사용하는 것 (그래서 그 과정에서 전치사 of가 더 사용되는)이 좀 더 격식 있다고 보는 경향이 있습니다. 
+  * 그는 그다지 신사는 아니다. He's less of a gentleman.
+* 흔히 볼 수 있는 곡예 중에 저글링이 있죠. 공이나 막대기 같은 걸 세 개 이상 공중에 던지면서 떨어지지 않게 하는 건데요. 비슷하게, 두 가지 이상의 일을 곡예하듯이 꾸려나가고 해나가는 것을 juggle 이라고 합니다.
+  * = 내 가족을 먹여 살리려면 투잡, 쓰리잡 뛰어야 해. I gotta juggle a few different jobs to support my family.
+* 1. 콜 사인; 정체를 밝혀 -> rogue one;  2. 따로 놀다; rogue one(마이웨이)
+* 기차 정기 승차권을 사면 기차를 두 번쯤 타고 나면 들인 비용이 절약된다. The rail pass will pay for itself after about two trips. 
+* 번거롭게 ㅎ기 싫어; i don't want to be an inconvenience; Sorry for the inconvenience
+* 그들의 첫 집은 보수를 하는 데 몇 년이 걸린 허름한 집이었다. Their first home was a fixer-upper that took them years to renovate. 
+  * 고칠점이 있다; Your boyfriend's a fixer-upper
+* 그 소식이 우리 경제에 찬물을 끼얹었다 The news put a damper on our economy . 듣기 출처:능률교육 
+* 이렇게 해서 차면 돼요. - 기가 막힌 방법이네요. Put on your mike like this. - It seemed a stroke of genius
+* 원래 말에 연결하는 마구(馬具)를 가리키는데요, 말을 동력으로 삼아 마차를 움직이는 것처럼 [어떤 것을 동력원으로 활용하다] 라는 뜻을 갖고 있습니다.  영상에서도 면역 체계를 이용해 암을 치료한다고 하는데요, 생략 없이 문장을 써보면 다음과 같습니다. 
+  * = 왜 우리가 암을 치료하기 위해 면역 체계를 이용할까요? “Why do we harness the immune system to treat cancers?”  [ˈhɑːrnɪs]
+  * harness를 명사로 쓸 경우 [몸에 장착하는 장비] 를 의미합니다. 
+    * - baby harness : 아기띠, 아기 몸줄 - dog harness : 강아지 몸줄 - safety harness : 몸에 매는 안전 장구
+* 지렛대가 있으면 물건을 더 수월하게 들 수 있죠. 그렇듯 어떤 것을 활용해서 더 좋은 이익을 내는 것을 leverage 라고 합니다.  use 는 단순히 사용한다는 것인데 반해, leverage 는 기존의 것을 밑받침으로해서 효과를 극대화한다는게 초점입니다.
+  * 뭔가 지렛대로 받쳐야 이 큰 돈을 옮길 수 있을거야. We'll have to use leverage to move this huge rock.
+* 직역하면 [눈이 배보다 더 크다] 라는 재밌는 표현이에요. 기본적으론 다 먹지도 못할 음식의 양을 욕심내는 건데요. 자기가 다룰 수 있는 것보다 많이 원하고, 욕심이 과해지는 걸 의미하는 속어입니다. stomach 대신 belly 를 쓸 수도 있어요.
+  * = 걔는 항상 욕심이 과해. His eyes are always bigger than his stomach.
+* 동사 dedicate 는 [~을 헌신하다, 바치다] 라는 뜻이 있는데요. 형용사인 dedicated 로 쓰게 되면 '전념하는, 헌신하는' 이라는 뜻 외에도 영상에서처럼 [~전용의] 라는 의미를 갖기도 합니다.
+  * = 수백만 달러가 자전거 전용도로에 투자되었다. Millions of dollars have been invested in dedicated bike lanes.
+* name 이 동사로 [이름을 대다] 라는 뜻이 있어요. 그래서 이 표현은 몇 가지 이름을 댈 때, 예로 들려는 것이 너무 많아서 그중에 몇 개만 들 때 쓰는 유용한 표현입니다. * to name a few = 몇 가지만 예로 들면
+  * = 많은 나라에 가봤어요. 스페인, 중국, 영국... 몇 개만 예로 들자면요. I've been to many countries. Spain, China, and England,, just to name a few.
+* 우리말에도 ‘공개행사, 진열장’의 의미로 showcase 라는 단어를 자주 쓰죠. 하지만 그런 상업적인 의미뿐만 아니라 일반적인 상황에서도 [가장 멋진 면을 드러내다, 뽐내다] 라는 동사로도 자주 쓰입니다.
+  * 나는 귀걸이를 돋보이게 하기 위해 머리를 높이 묵는 것을 좋아해. I like to tie up my hair up so I can showcase my earrings. 
+* ＊ Don’t knock it until you try it. = 해보지도 않고 비판하다 동사 knock 는 [노크하다] 뿐만 아니라 [트집잡다, 비판하다] 라는 뜻도 가지고 있는데요, 영상 속 주인공은 이런 이중 의미를 갖고 농담을 하는 것이죠. 여기서 until you try it 은 생략하기도 하는데요, 그럴 때는 “트집잡지마 / 함부러 비판하지마” 정도가 되겠네요.
+  * 해보기도 전에 비판하지 마, 얘들아. (*have tried 처럼 시제는 바꿀 수 있습니다) Don’t knock it until you’ve tried it, guys.
+* death rate 라고도 하며 의미상 차이는 거의 없습니다. mortality rate 의 경우엔 제품의 [폐기율] 을 의미하기도 해요.
+  * = 아프리카 국가들에선 신생아 사망률이 높다. The infant mortality rate is pretty high in African countries. [mɔːrˈt-]  영국식 [mɔːˈtæləti] 
+* 차지하다; Is she hogging the shower; 2. hog: 돼지
+* 망고 아이스티는 나의 크립토나이트야. Mango iced tea is my kryptonite; 슈퍼맨의 약점
+* 성공적인 행사 진행을 위해 우리는 만반의 준비를 갖추었다. For successful event progress, we got our ducks in a row. 
+* 성질을 긁다; get under one's skin(옷 속에 개미가 들어간 것 같은)
+  * 내 안에 너 있다; 파리의 연인; i got you under my skin
 * 코를 ‘판다’고 해서 dig 를 자주 쓰는데요 [pick one’s nose] 가 맞는 표현입니다. 물론 dig nose 라고 해도 이해는 하겠지만 원어민스러운 표현은 아니에요.  그리고 dig 는 속어로 아주 좋아하다를 의미한다고 했죠? 시제를 바꿔서 be digging, dug 과 같이 표현해도 됩니다. (최근 영어에는 be loving, be liking, be digging 처럼 ‘좋아하다’의 진행형도 허용하는 추세입니다.) 음식 앞에서 “먹자!”라고 할 때 쓰는 표현이에요. 비격식적 표현이라 무례할 수 있으니 어른이나 격식있는 자리에서는 [Please. / Please, help yourself.] 정도가 좋겠네요. 
 * 원래 stink 은 [구리다, 악취가 나다] 인데, 우리말에도 [더렵게 못하다, ~하는데 구리다] 라고 하듯이 [어떤 일에 취약하다, 재주가 없다] 라는 의미로도 쓰여요.  [suck at 명사 : ~를 못하다] 와 동의표현 입니다.
   * = 여기 좀 냄새난다. It really stinks in here.

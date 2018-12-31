@@ -91,6 +91,14 @@
 * 단 영ㅇ문법 https://m.blog.naver.com/PostList.nhn?blogId=ddanddan84&currentPage=2
 * 공단기 https://m.blog.naver.com/PostList.nhn?blogId=blackyuna0824&currentPage=2
 * 저스틴 https://m.blog.naver.com/PostList.nhn?blogId=ddside
+* 잉글리시 라이프 https://m.blog.naver.com/PostList.nhn?blogId=aldus9834
+* 오픽 https://m.post.naver.com/viewer/postView.nhn?volumeNo=17456490&memberNo=41482462
+* 바른 영어교육 https://m.blog.naver.com/PostList.nhn?blogId=dearest_jubi
+* 만화로 배우는 https://m.blog.naver.com/PostList.nhn?blogId=studio_lime
+* 헬로 밀루 https://m.blog.naver.com/PostList.nhn?blogId=english4evry1
+* 슈퍼데디 https://m.post.naver.com/my.nhn?memberNo=5518579
+* 미드영어 공부 https://m.blog.naver.com/PostList.nhn?blogId=pjc425
+* 공평한 세상 https://studylong.tistory.com/m
 * 한국번역연구소 https://blog.naver.com/ktri8888
 -----------------------------------------------------------------------------
 * 빌보드 https://www.billboard.com/charts/hot-100#/charts/hot-100

@@ -38,7 +38,7 @@
 * And I'm just gonna keep on waiting underneath the mistletoe.
 * 크리스마스 때 겨우살이 아래서 연인과 입맞춘다는 것은 오래된 풍습입니다. 
 * 한겨울에도 잘 자란다는 특성 때문인지, 고대에는 겨우살이를 신비한 식물로 여겨 악을 쫓으려 매달아두거나 사랑의 상징으로 삼기도 했습니다. 영국에서는 크리스마스에 겨우살이 장식 아래 있는 여성에게는 키스 할 수 있다는 풍습이 생기기도 했습니다. 이것이 계속 전해져 캐롤에 나오는 겨우살이 아래서 만나자는 이야기가 된 것이랍니다.
-‘이 세상에 #평화를~’ 							 ‘Peace on Earth’ 
+‘이 세상에 #평화를’ 							 ‘Peace on Earth’ 
 * #build peace
 
 * #Boxing day 12월 26일 크리스마스 다음날
@@ -46,8 +46,9 @@
 * 캐나다, 영국은 공휴일로 지정
 * 소매점들의 대규모 할인
 * ##행사 = #fete; a national fete; #국경일; #fete day; #축일
-* *무료 #체험 행사를 열다 						 hold a free trial event
+* 무료 #체험 행사를 열다 						 hold a free trial event
 * #공식 행사; #formal event
+* 즐거운 연말되세요; Season's greeting!
 
 
 # g한국

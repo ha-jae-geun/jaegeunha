@@ -499,6 +499,7 @@
 * 가르치는 것 #보람찬 일이다. 					 Teaching is such a rewarding job.
 * #보람
 * have a #blast, have a ball, enjoy oneself greatly, have a lot of fun, in for a treat; you are ~
+	* * 내가 즐기는거다; This is my jam <> not my jam
 	* ☆즐기다; #have the time of one's life; I had the time of life
 	* #enjoy; 목적어 필요 -> I enjoyed myself = I enjoyed it
 	* ~ is a #joy
@@ -863,7 +864,7 @@
 	* 그는 의식이 혼미해져서 사람들을 알아보지 못했다. He became delirious and couldn't recognize people.
 	* ##혼란 #헷갈 #혼탁한 #불명료 #혼미
 * 안절부절 I'm in ##jitters, #agitated
-* a #petrified expression 겁에 질린 표정
+	* 극도로 무서워하는, 겁에 질린; a #petrified expression 겁에 질린 표정; terrified
 * 겁을 줄 의도는 아니었어 					 I didn’t mean to freak out
 * #무서워 할 수 있으니까					 It would look #intimidating
 * 안절부절 못행 								 I can’t sit still
@@ -1296,6 +1297,7 @@
 ## temper
 * 이 단어는 특정한 상황에서 화를 얼마나 내는지를 말할 때 씁니다. 어느 정도 컨트롤 할 수 있는 자신의 성질을 의미해요.
 	* volatile temper = 변덕스러운 성미 [ˈvɑːlətl], 성질, lose one's temper = 이성을 잃을 정도로 화내다.
+	* 성질을 긁다; get under one's skin(옷 속에 개미가 들어간 것 같은)
 ## temperament
 * 바꾸려고 해도 잘 바꿀 수 없는 타고난 기질을 temperament 라고 합니다. 예를 들어, 내성적인 사람이나 (introvert), 외향적인 사람 (extrovert) 등이 그런 예라고 볼 수 있겠습니다.
 	* even temperament = 차분한 기질, sunny temperament = 낙천적 기질, gentle temperament = 유순한 기질
@@ -1825,6 +1827,12 @@ I am always overlooked(간과), never discount the contributions, put someone do
 # 자존심
 * 자존심 상하다; it injures my pride
 * 내 처지를 고려해볼때 자존심을 억눌러야만 했다.  Given my situation I had to swallow pride . 듣기
+* 너는 자존심도 없니?	praɪd Where's your pride
+* 넌 자존심이 너무 쎄 You have a strong ego
+* 자존심이 밥먹여주냐 Swallow your pride
+* 자존심 죽이고 I #swallowed my pride
+* 자존심 상하게 하다 #mess with your pride
+* 자존심과 위엄을 가져갔어 took my pride and my #dignity
 
 # 고난 역경
 * 하지만 그걸 얼마나 즐겁게 견디냐가 중요한 거지. It's important to enjoy the bumpy ride; 고난: bumpy ride
@@ -1832,3 +1840,12 @@ I am always overlooked(간과), never discount the contributions, put someone do
 
 # 충실
 * 학생들은 자신에게 충실할 것을 맹세했다. The students swore to be true to themselves. 
+
+# 어렵다
+* 이 영화는 어려워서 모르겠다 This movie is over my head . or This movie is beyond me . 듣기 출처:동아 출판
+
+# 불만
+* 불만이 뭐야; What's the rumpus/complaint
+
+# 책임
+* 내 동료가 아파서 내가 책임지고 일을 해야 했다. My co-worker was sick, so I had to carry the ball. 

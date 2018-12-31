@@ -1,5 +1,6 @@
 # 생각
 * (생각/방법을) 적용하다 / 이용하기 시작하다; run with; 그 아이디어에 착안해서 적용했어요; They took that idea and ran with it
+* (문제 해결을 위해) 곰곰이 생각하다 put your thinking cap on 미국식  영국식   단어장추가
 
 # 말
 * 말보다는 숨은 의미가 더 중요하다; the literal words are less important than the subtext

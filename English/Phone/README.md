@@ -26,6 +26,7 @@
 * 보조 배터리 있어; i have a power bank
 
 # 사진
+* 개화를 저속 촬영한 시퀀스  a time-lapse sequence of a flower opening 
 * 몰래 사진찍었어; i nusck this photo
 	* sneaked는 문법적으로 쓰이는 과거; snuck은 더 구어체적 과거형
 * * 명사일 때 shoot 은 ‘촬영’이고, shot 은 ‘사진’입니다. 동사로는 [shoot: 촬영하다], [be shot: 촬영되다] 입니다. 발음도 [shoot: 슛] 그리고 [shot: 샷] 이니 헷갈리지 마세요!

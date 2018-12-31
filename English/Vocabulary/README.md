@@ -175,6 +175,11 @@
 * come out; the tap doesn't come out
 * come true
 
+## candy
+* 옆에 끼고다니기 매력적인 상대; 사회적 지위, 관심 얻기 위해 arm candy
+* 안구정화 상대; 외모는 그럴싸하지만 지적으로 혹은 깊이는 없는 상대; eye candy
+* 귀여운 아기; is as sweet as pie
+
 ## ear
 * 상황을 보아가며 결정하다; play it by ear
 * 열심히 귀를 기울이다; by all ears

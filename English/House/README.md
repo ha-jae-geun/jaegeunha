@@ -537,6 +537,7 @@
 	* 그녀는 아직도 부모의 도움으로 산다 She’s still living off her parents.; 독립할 수 없어; You can't live off your parents
 * 감수하며 살다; live with; live with for the rest of my life
 * 과거는 과거로 놔둬; 연연하지마; Let the past be past. Don't dwell on it
+	* * 그런식으로 살면 안도; YOu shouldn't live like that
 * 나는 만사가 잘 안풀리는 날을 보냈습니다; i had one of those days
 * 인생을 즐기다; enjoy the ride; Seize the day/moment
 * 그달 벌어 먹고 살아가다; live paycheck to paycheck

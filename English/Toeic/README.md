@@ -13,6 +13,9 @@
 * be provided / be sent with / come with / along with 
 
 # 단어
+* 주의하다; exercise caution = use caution
+* 유지보수 작업; maintenance work
+* 열렬한 찬사를 담은 추천서 a glowing testimonial 
 * nearly 1. 거의 2. 대략+숫자
 * be hopeful that 주어 + 동사 / hope that 주어 + 동사
 * be especially/specifically 동사/형용사; skilled at

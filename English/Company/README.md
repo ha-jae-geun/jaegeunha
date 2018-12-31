@@ -34,7 +34,8 @@
 	* = 싱가포르가 회담을 주최하였습니다. (회담 장소를 제공하였습니다.) Singapore played host to the talk.
 
 # 단어
-* 인턴에ㅓㅅ 해고당했다; he got fired from her internship
+* 일 이야기 그만해; Stop talking shop
+* 인턴에서 해고당했다; he got fired from her internship
 * 일이 손에 안잡혀; I can't concentrate on my work
 * 홀루의 지배지분; controlling interest in Hulu
 * 이 인수에대해 어떻게 생각해? what do you think about this acquistion? [ˌækwɪˈzɪʃn]
@@ -95,6 +96,7 @@
 * ☆company -> i'm at work
 * 나 #출근해 					 I'm off to work on my way to workㅋ
 * #퇴근 후에 #바로 집으로 돌아와. 				 Hurry back home after work. 
+	* 외근은 싫어; i hate the legwork <> paperwork
 * *#get off work
 	#본사; #headquarter
 * #상장; be #listed; <> #unlisted company

@@ -5,6 +5,7 @@
 * 한국은 압수하면 국고로 들어간다.
 
 # 나쁜짓
+* 달려들다; 공격; come at someone with knife: ~에게 공격적으로 달려들다
 * 근절 * 그래서 stamp out은 어떤 것을 발로 꾹꾹 밟아 없애버린다는 어감을 갖고 있고 우리말로는 “근절하다, 박멸하다, 밟아 없애다” 등으로 해석됩니다. 
   * 경찰은 이 지역에서 윤락행위를 근절하려고 노력했다.The police tried to stamp out prostitution in this area.
 * 세뇌; 많은 가정 폭력 피해자들은 자기 자신이 가치가 없다고 믿도록 일종의 세뇌를 당하기 때문에 폭력적인 배우자를 두고 떠나질 못한다.
@@ -16,7 +17,8 @@
   * 우리가 완전히 속았던 거라면; If we were completely played
   * 그럴듯하게 속이다; put on a show; they put on such a good show at first
   * 사기치다; pull a fast one; I wasn' t trying to pull a fast one 
-  *  내가 다 알지만 속아준다.  i'll give you the benefit of the doubt. 
+  *  내가 다 알지만 속아준다.  i'll give you the benefit of the doubt.
+  * 목소리 변조하고 이써; He's altering his voice, electronically 
 * 죗값을 치렀어요; i've done my sentence
 * 삼성쪽에서 직접 사진을 유출했죠; Samsung leaked a picture
 * 위법이다; It's against regulation
@@ -64,6 +66,7 @@
   * 규칙에 어긋나; That's against the rules; bend the rules
 * 무단침입하시는거에요; YOu are breaking and entering
 * 현자; sage; [seɪdʒ] 2. 슬기로운
+* 사건은 해결되었습니다; Case closed <> The matter is on the table
 
 #경찰서 #법원	#형사 police(2번째 강세)
 * 범죄과학 감사를 실시할 예정이다; WE're going to do a full forensic audit

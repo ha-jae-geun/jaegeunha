@@ -20,6 +20,7 @@
 * 소리가 수중에서 아주 효과적으로 전달되기 때문입니다; That's because sound travels exteremly efficiently under water
 * 칼 근무; Synchronization 혹은 synchronized dance moves
   Their dance moves were like... so in sync."
+  * 춤 뭐춰요/ What's your go-to dance move
 * 팝핀댄서였어요; I used to b a pop-locker
 * 성대결절; Vocal nudules
 * 음악에 맞춰 춤추다; i danced to the music

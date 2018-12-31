@@ -107,6 +107,7 @@
 	* i’m sobering up(동사), you must sober up
 	* 자고 일어나면 술이 깰 거야						 The wlill sleep it off
 	* 취하지 않은 상태 						 sober나 stone-cold sober	
+	* 술 취한 사람의 환각 pink elephants
 * #애주가 							heavy drinker나 drunkard
 * 술자리를 좋아하는 사람 to drink socially a social drinker
 * 술마시는걸 줄이다.							 they taper their drinking

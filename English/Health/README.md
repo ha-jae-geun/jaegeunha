@@ -398,6 +398,8 @@
 * #발암; #carcinogenic;  [kɑ:r|sɪnədƷən]
   * 암 말기  She is diagnosed with late - stage lung cancer = suffer from terminal cancer 
     * 말기암 환자; Terminal ill cancer patient
+  * 암조직 등이 다른 부위로 번지는 것을 metastasize 라고 합니다. 딱 우리말의 [전이하다] 에 해당하는 말인데요, 더 쉽게는 [번지다, 퍼지다] 라는 의미에서 spread 라고 할 수도 있습니다. 
+    * 의사가 암조직이 벌써 유방 전체에 전이된 상태라고 말했어요. The doctor said the cancer cells have already metastasized through her breasts. [mətǽstəsàiz] 
 * #자폐; #autism 미국·영국 [|ɔ:tɪzəm]; kids with autism
   * 자폐아 autistic child
 * #불치병; #incurable disease, 
@@ -496,6 +498,7 @@
 * 언제부터 아프셨어요? 	When did it start hurting? 
   * 어디가 아프세요? 	Where does it hurt? 
   * 전보다 더 아프다; to take a turn for the worse(better: 잘 쓰지 않는다.) 
+  * 그들의 결혼 생활은 첫 아이 출산 후 내리막길로 접어들었다. Their marriage went downhill after the first child was born. 
 * #입원해야 해요? 	0. go to a/the #hospital
 * 1. Do I have to be hospitalized? ‘hɑ:spɪtəlaɪz
 * 2. be in the hospital

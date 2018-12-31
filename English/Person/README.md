@@ -40,6 +40,8 @@
 * 남편, 상대, 아내, 여자친구; significant other
 	* 엄청난 미인; 섹시한 여성에게 쓰는 말; total babe
 * 만성형의 사람; late bloomer
+	* 굉장히 열정적이고 부지런한 사람; 남이 하기 꺼려하는 일도 하는 사람; eager beaver; 비버는 주로 하천이나 늪에 살아 앞니를 이용해 나무를 쓰러뜨려 댐을 만든다.
+	* 말을 잘 듣고 부르면 졸졸 따라다니고 시키는데로 잘한다; Teacher's pet(단순 모범생보다는 부정적 어감)
 * 난 지금 선동자야; i'm an instigator
 * 남을 착취히하는 사람; bottome-feeder
 	* 공장에서 착취당하는 노동자; be exploited
@@ -49,8 +51,11 @@
 * 보호자 없이 관광을 했다는 명목으로 체포를 당했고; we were arrested for sightseeing without our minders
 * 어른처럼 굴었었지; Acting like grown-ups
 * 쓸모없는 인간; a waste of space
+	* 내가 인공이죠; i'm the main attraction
 * 이민자를 부르는 말이죠; F.O.B stands for "fresh off the boat"
 * 조수, 들러리; sidekicks
+	* 수제자; pupil; i keep trying to be your star pupil; pupil: (초, 중,생같은 어린 학생); 퓨플발음
+	* 명사] (못마땅함, 특히 美) 여교사[선생](특히 고루하고 엄격한 사람); schoolmarm
 * 신참, 신입; the new kid on the block
 * 시카고 출신이야? A Chicago kid
 * 아부하는 사람; He's a kiss up
@@ -72,6 +77,7 @@
 	* 착한 체하는 사람 goody-goody
 	* 최신 정보통, 박식한 사람 hipster
 	* 걱정을 많이하는 사람 worrywart 미국식 [ˈwɜːriwɔːrt] 
+	* 애호가 - lover / enthusiast / lover / maniac / addict / buff / freak etc.
 * 동등한 위치에 있는 상대;ㄼ counterpart; They make around 10 times more than their counterparts
 * 사교적인 사람; social butterfly; 2) [사교계 명사, 사교계에서 잘 알려진 사람]을 socialite 라고 합니다.
 	* 날씨 좋을때만 친구가 되려는 사람; fair-weather friend
@@ -121,6 +127,7 @@
 	* 2) a homebody = 집순이, 집돌이 (게으르다기 보다 실내를 좋아하는 성향)
 	* 3) indoorsy = 방콕파인 (속어, 유행어)
 	* 4) sedentary = 정적인, 몸을 쓰지 않는 (가장 문어체적인 말)
+* 신입생; 새로운 사람 New kid; new kid on the block: 1940년 만화에서 등장한 표현
 
 # 나이
 * 어느새 18살이 됐어; Fast forward to 18
@@ -256,7 +263,8 @@ would be the last person to 동사원형; ~할 사람이 절대 아니다
 * 당당하게; unashameedly = #unapologetically
 * say out loud; 당당하게 말하다; I say that out loud
 * 남자답게 해 								 Man up! Be a man
-* #대범하게 해 #cowbow up
+	* (고통, 창피를 신경쓰지 말고) 남자 답게 행동해라. walk it off 미국식  영국식 
+	* #대범하게 해 #cowbow up
 * 그는 개선장군처럼 의기양양하게 돌아왔다 				 iɡzú:bərəns(i): 풍부 traɪ‘ʌmfl
 * He returned in exuberance, like a triumphal general. 예문 발음듣기 출처:능률교육
 * 의기소침해졌다							 ɪn‘tɪmɪdeɪt I feel intimidated 

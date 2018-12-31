@@ -93,6 +93,7 @@
 * #혼자 다니는 애들 #loner/#outsider
 * ☆#선생님 #Mr, #Ms #교수 #professor, #박사, #의사: #dr
 * 대학 교수의 #안식 시간; #sabbatical; 새배디컬; i’m taking a sabbatical
+	* * 명사] (못마땅함, 특히 美) 여교사[선생](특히 고루하고 엄격한 사람); schoolmarm
 * #학자 #scholar
 * #중퇴 #drop-out; #drop out of school
 * #총장 #president; #차기 총장 #incoming
