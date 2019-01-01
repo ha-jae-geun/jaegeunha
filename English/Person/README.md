@@ -24,6 +24,7 @@
 	* 원래는 [정사각형] 을 의미하는 단어인데요. 정사각형은 가로 세로의 길이도 같고 각도도 같아 조금은 지루한 도형일 수가 있습니다. 그런 모습을 생각하시면 기억하기 쉬운 단어인데요. 사람도 바뀌지 않고 예전 방식 그대로를 고수하고 고지식하고 지루한 사람을 비격식 표현으로 square 라고 합니다.
 	* 어린애라고 해서 그를 넘보아서는 안 된다 You should not make light of him as a mere boy . 듣기 출처:동아 출판
 	* 나 무시하지마; don't belittle me
+	* 그는 여자들에게 거들먹거리는 태도를 취한다. He has a condescending attitude towards women. 
 * 평범한 건 원하지 않아요; We don't want the standard
 * 추종자들이 있는 권위자, 전문가; guru; 흰두교에서는 종교적 스승, 지도자   expert: 사람들의 전중ㅇㄹ 받는 전문가
 * 그는 독보적이다; He's a one of a kind
@@ -255,6 +256,7 @@ would be the last person to 동사원형; ~할 사람이 절대 아니다
 * 사람이 많을 때 더 즐겁게 하는 사람; life of the party
 
 ## 남자
+* 난 그 지독한 남성우월주의자 놈인 스티브 밑에서 일하기 싫어. I hate working for that male chauvinist pig Steve.  미국식 [ˈʃoʊ-]  영국식 [ˈʃəʊvɪnɪst] 
 * 매력 덩어리, 미남;; dreamboat
 * 운동 많이 하는 남자; jock 미국식 [dƷɑ:k] 
 * 여자 밝히는 남자: #thirsty

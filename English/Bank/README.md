@@ -26,6 +26,7 @@
 * 법화; Legal tender
 * 우린 깡통 찼다고. We ain't got a pot to piss in.
 	* 빈털털리야; i'm absoultely skint/broke
+	* 존은 한때 부자였는데, 지금은 빈털터리가 되었다. Once wealthy, John is now down for the count. 
 	*  당신은 부자가 될 거에요.  You’ll be farting through silk; 비단 속옷은 부자만 입음
 * 어마가 돈줄을 쥐고있다; Mom holds the purse string in my family
 * 집게사장이 돈을 긁어모으고 있어; Krabs is raking it in; rake

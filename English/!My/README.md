@@ -197,6 +197,13 @@
 * 이용자 참여  우리는 더 중요한 일이 있어.  We ' ve got bigger fish to fry . 듣기
 
 # 일상  
+* 조류/야생 동물 보호구역 a bird/wildlife sanctuary 
+* : 그럼 대신 옛정을 생각해서 너 하고 사귈 기회라도 있을까? But is there any chance you'd go with me instead, for old times' sake? 'For old times' sake' : 옛정을 생각해서.
+* 따로 설명이 필요 없어; Pretty self-explanatory
+* 옛날 생각이 나네요; THis brings back memories
+* 사람들이 다들 너 쳐다본다; YOu're getting a lot of looks
+* 이것에 대해ㅓ는빠른해결책이 없어; Threre is no quick fix for this
+* 어쩜, 정말 사랑스럽고 예쁜 집이네요. 아마 들어가 살면 기분이 편안해서 좋을 거에요. What a lovely little house! I know I'll be snug as a bug in a rug. 
 * 거의 모든 걸 찾을 수 있다는 게 인터넷의 묘미지. The beauty of the Internet is that you can find almost anything.
 * 이번 학기는 좀 느슨해 질거야. 학기말 과제 제출하고 나면. ex) This semester will ease up a little after handing in the term paper.
 * 길좀 비켜주세요; Clear the way; Coming through; Can i pass here?

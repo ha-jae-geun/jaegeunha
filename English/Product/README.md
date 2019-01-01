@@ -173,6 +173,7 @@
 * ##틈: gap; there' no gaps
 * #균열 그 당 내부의 균열은 깊어져 갔다. The #rift within the party deepened.
 * 마트 #통로: #진열장 aisle; i'm the only person in this aisle | it's in the aisle no.4
+	* 진열대에 넣을거라; i'm just putting it in the case
 * ##코너 #section; whole section
 * 샌드위치 코너 grocery store #deli
 * 그들은 핸드폰으로 모바일 시장을 장악했다. They have cornered the market with their mobile phones.

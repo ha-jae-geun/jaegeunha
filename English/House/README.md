@@ -548,6 +548,7 @@
 	* walk out of/on something; 하기로 한 일을 그만두다, 떠나버리다;; He walked out on his job
 * 네 앞날이 창창하다는 거야; You got your whole life ahead of you
 	* 내 인생에서 최고의 일이야; A is the best thing that ever happened to me. 
+	* * 그들은 매우 사치스러운 집에서 호강한다. They eat high off the hog in a very luxurious house. 
 * 다 잘 될거야; Bibia be ye ye
 * 아픔을 재경험해야한다; We need to relive the sorrow
 * 인생을 최대한 충실하게 살다; Live it to the fullest; live it(life) to the full(est)
@@ -555,6 +556,9 @@
 * 그리고 저는 도덕적인 삶을 살아요; And i live a moral life
 * 내 인생에서; in my entire life
 	* * 평생 이렇게 살아야 해; i'm in it for life; for life
+	* 직역하면 '그런 인생은 뒤에 두고 떠났다'죠? "옛날에나 그렇게 살았지, 지금은 [능동적으로 선택해서] 그렇게 안 살아", "그런 인생이랑은 안녕했어", "이젠 그렇게 안 살기로 했어" 라고 말할 땐 이 표현을 통째로 활용해보세요. I don't cheat. I left that life behind me.
+* pump the brakes는 직역하면 ‘브레이크를 밟다, 브레이크를 누르다’인데 관용어적으로 보면 “지금 하고 있는 행위를 멈춰라”라는 뜻입니다. 여기에 hate(분노, 증오)를 붙여서 타노스가 지금 하고 있는 행위는 분노에 차서 하는 일이니 그걸 그만 두라고 하는 거죠. 그래서 ‘분노 좀 죽여라, 지금 열받아서 하는 짓을 그만 둬라’ 정도로 이해하시면 됩니다. 
+	* 그만 해라, 얘야. Pump your brakes, kid. 
 * 이 가족은 넉넉하다 This family is sitting family. 
 	* 무일푼에서 거부가 된 이야기 a rags-to-riches story 
 * 근근히 살아가다; those who are living on the edges

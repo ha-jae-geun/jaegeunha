@@ -1,3 +1,6 @@
+# 만화
+* (연재) 만화가 있는데요; i have this coic strip here
+
 # 프로그램
 * 진행담당자; coordinator
 * 광고 보시고 잠시후에 돌아오곘습니다; We'll be right back after a few words from our sponsors

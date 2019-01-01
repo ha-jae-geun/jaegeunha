@@ -113,8 +113,9 @@
 	* 차고에 불이 났어요. 							My garage is on fire. 
 	* 방화 같아요. 							 I think it's arson. ‘ɑ:rsn
 * 네, 이러다가 #홍수가 나는 건 아닐까요? 			Yes, do you think it's going to flood? 
-* 갑작스러운 홍수 flash flood
-* crops have been #washed away
+	* 갑작스러운 홍수 flash flood
+	* crops have been #washed away
+	* : 모든 구역이 물에 잠기고 있어. 우리 나가야 해. This whole place is flooding. We've got to get out
 * 제 차가 그 차에 들이받혔어요. 				 My car has been hit by that car. 
 * 다친 사람이 몇 명이에요? 					 How many people are hurt? 
 * 견인차를 불러야겠어요.						 We need to call a tow truck. 

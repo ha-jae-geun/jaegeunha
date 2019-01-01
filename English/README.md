@@ -99,6 +99,9 @@
 * 슈퍼데디 https://m.post.naver.com/my.nhn?memberNo=5518579
 * 미드영어 공부 https://m.blog.naver.com/PostList.nhn?blogId=pjc425
 * 공평한 세상 https://studylong.tistory.com/m
+* 시크한 양이 https://m.blog.naver.com/PostList.nhn?blogId=twinkleannie85
+* 오디너리 소피 https://m.blog.naver.com/PostList.nhn?blogId=sofa1015
+* 1stop 코리아 https://m.blog.naver.com/PostList.nhn?blogId=1stopkorea
 * 한국번역연구소 https://blog.naver.com/ktri8888
 -----------------------------------------------------------------------------
 * 빌보드 https://www.billboard.com/charts/hot-100#/charts/hot-100

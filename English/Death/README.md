@@ -80,7 +80,8 @@
 * 목을 메 #자살하다					kick the bucket, 
 * 판결; the case was #ruled a suicide
 * 자살하다 take your own life(우회)
-* #feeling suicidal; #suicidal
+	* 자살 하려는 사람: Jumpers
+	* #feeling suicidal; #suicidal
 * 얼굴을 땅에 박고 죽다								 bite the dust
 * 죽는다						 be six feet under: 관을 6피트 깊이로 묻는다.
 * #즉사 drop dead; just gonna go drop dead to sleep

@@ -4,6 +4,7 @@
 
 
 # 머리
+* 머리를 기르다; '머리를 기르다' 라고 말하고 싶을 때, 'grow out one's hair' 라 표현할 수 있어요;  I'm going to grow out my hair.
 * 뇌; 머리가 멍했어; Brain fart; brain fade; Did you just have a brain fart
 	* * 조언을 구해도 될까요? Can i pick your brains about somethig?
 * 머리에 떔빵은 안 났거든; i dind't give myself a bald spot
@@ -1041,33 +1042,34 @@ Shut up pipe down> Silence > Hush > Be quiet >=Keep it down >= would you keep it
 * 얌전히 있어; #keep one's nose clean
 * 불쾌한 상황; #hold-your-nose-situation
 * #네 코가 석자인 것 같은데 					 You've got #bigger fish to fry.
-* #콧구멍 #nostril [|nɑ:strəl] #부비강(두개골 속 코 안쪽으로 이어지는 구멍ㅇ) #sinuses sinus
-* 콧구멍이 #벌렁; #flare; are #flaring
-* ##코가 막히다. 			 I have a lot of congestion = i‘m very #congested
-* 코파서 가끔 튕긴다; ii pick my nose and flick it sometimes
-* #훌쩍; #sniffle
-* #코골이 do you #snore?
-* 양념이 다 코로 들어갔어 : 			 all of the flavoring just went up my nose
-* 오똑한 코 									 big nose
-* 코끼리 코 										 trunk
-* 돼지코									 [snaut] snout
-* #콧대 #nose bridge
-* 도도하고 교만한 toffee-nosed나 swellheaded (콧대 높은, 교만한)나 too big in one's boots
-* 코감기 							 [sáinǝs sinus cold have a runny nose
-* 콧물, #코딱지 					 [mjúːkǝs mucus나 snot | dried mucus나 booger
-* ‘코딱지 파지마 						 stop picking up your nose
-* 코딱지야									 ?Is it a booger?
-* 코 좀 파지 마						 	 Please stop picking your nose
-* ##때 #dead skin(#skin)
-* #콧방귀 뀌다, 코웃음 치다					 snort / sniff(코를 훌쩍이다라는 뜻도 있음)
-* #sniff at something
-* 딸기코 										 potato nose
-* 코피 									 that means nosebleed
-* 밥 먹을 때 코를 풀지 마세요. 					Don't blow your nose at the table.
-* 코 앞에 있다							 It's right under your nose.
-* 올리는 코를 막고 있네 						 Ollie is putting thing in his nose
-* 남자친구가 코 성형수술 하고 싶어해 			 My boyfriend wants to get a #nose job
-* ##코
+	* 냄새; 훅 끼치는 시가 냄새 a whiff of cigar smoke; refreshing smell; musty: 키퀴한;
+	* #콧구멍 #nostril [|nɑ:strəl] #부비강(두개골 속 코 안쪽으로 이어지는 구멍ㅇ) #sinuses sinus
+	* 콧구멍이 #벌렁; #flare; are #flaring
+	* ##코가 막히다. 			 I have a lot of congestion = i‘m very #congested
+	* 코파서 가끔 튕긴다; ii pick my nose and flick it sometimes
+	* #훌쩍; #sniffle
+	* #코골이 do you #snore?
+	* 양념이 다 코로 들어갔어 : 			 all of the flavoring just went up my nose
+	* 오똑한 코 									 big nose
+	* 코끼리 코 										 trunk
+	* 돼지코									 [snaut] snout
+	* #콧대 #nose bridge
+	* 도도하고 교만한 toffee-nosed나 swellheaded (콧대 높은, 교만한)나 too big in one's boots
+	* 코감기 							 [sáinǝs sinus cold have a runny nose
+	* 콧물, #코딱지 					 [mjúːkǝs mucus나 snot | dried mucus나 booger
+	* ‘코딱지 파지마 						 stop picking up your nose
+	* 코딱지야									 ?Is it a booger?
+	* 코 좀 파지 마						 	 Please stop picking your nose
+	* ##때 #dead skin(#skin)
+	* #콧방귀 뀌다, 코웃음 치다					 snort / sniff(코를 훌쩍이다라는 뜻도 있음)
+	* #sniff at something
+	* 딸기코 										 potato nose
+	* 코피 									 that means nosebleed
+	* 밥 먹을 때 코를 풀지 마세요. 					Don't blow your nose at the table.
+	* 코 앞에 있다							 It's right under your nose.
+	* 올리는 코를 막고 있네 						 Ollie is putting thing in his nose
+	* 남자친구가 코 성형수술 하고 싶어해 			 My boyfriend wants to get a #nose job
+	* ##코
 * 동물 발: pow #발톱 claw[klɔː]
 * #맨발 #barefoot on the grass
 * 발가락이 밟혔어요						 my toe was stepped on.

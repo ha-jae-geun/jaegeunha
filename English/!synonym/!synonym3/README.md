@@ -33,6 +33,11 @@
   * 어떤 문화에서는 여성혐오가 난무합니다. [ex] In some cultures, misogyny runs rampant.
 * 'ground'는 '땅, 토양' 뿐 아니라 '분야, 영역, 화제'와 같은 추상적인 것도 지칭할 수 있는 단어입니다. 거기에서 'common ground'의 '타협점'이라는 의미가 나왔죠. 주로 대부분의 것에 반대하는 사람들이 이해관계·입장등을 공유하게 되었을 때 사용한답니다. 'middle ground'로도 호환해서 사용할 수 있어요.
   * 협상은 어떤 절충안을 수립하는 것에도 실패했다. [ex] Negotiations have failed to establish any middle ground.
+* 의도하지 않았는데 우연히 어떤 상황에 다다랐다는 뜻입니다. 누가 도와주지 않았는데도 스스로 진행 방향을 찾아갔다는 것이죠.  여기서도 범죄자를 찾지 못하면 아무도 의도하지 않았지만, 전쟁이 스스로 길을 찾아 다가올 거라고 말하고 있습니다. 
+  * = 어찌된 일인지 그 서류가 내 상사의 책상에 가 있었다.  Somehow the document found its way onto my boss’s desk.
+* make good time은 일의 진척이나 이동속도가 꽤나 빠르게 된다는 뜻이에요. 특히, 예상한 것보다 빠르게 될 때 쓰는 표현!
+  * 생각보다 빠르게 이동해서 거기 10분 일찍 도착했어. We made good time and we got there 10 minutes early.
+* go cold turkey; quit something; 마약 중독자들이 마약 복용을 중단했을 때 피부에 두드러기가 돋는 것이 마치 털을 뽑아 놓은 차가운 칠면조처럼 보인다.
 * 1. 콜 사인; 정체를 밝혀 -> rogue one;  2. 따로 놀다; rogue one(마이웨이)
 * 기차 정기 승차권을 사면 기차를 두 번쯤 타고 나면 들인 비용이 절약된다. The rail pass will pay for itself after about two trips. 
 * 번거롭게 ㅎ기 싫어; i don't want to be an inconvenience; Sorry for the inconvenience

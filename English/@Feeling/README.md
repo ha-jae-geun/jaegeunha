@@ -728,6 +728,9 @@
 * #bewildered [biwíldǝr]
 * 처음엔 정말 #당황스러웠다. 		 At first I was embrasssed/overwhelmed/alarmed
 	* 무언가를 이해할 수도, 왜 그런 건지 설명할 수도 없어서 당황스러울 때 쓰는 단어입니다. 비슷한 의미의 단어로 embarrass 가 있는데요. embarrass 는 '사람들이 많은 곳'에서 ''누군가의 행동 때문에 '부끄러워' 당황스러운 뉘앙스인 반면, baffle 은 혼자 있거나 다른 사람들과 함께 있거나 상관없이 '이해가 안 돼서' 당황스러운 것이라는 점에서 차이가 있습니다.
+	* to throw off: 뜬금 없음에 당황; The student's comment threw me off
+	* to catch off guard: 기대하지 못한 상황에 당황; The qeustion caught the president off guard
+	* 심장이 쿵쾅거리며 당황; panic, freak out, flip out
 	* 당황시키다 							Don't let them #faze you
 	* #baffle; i'm baffled; i was baffled by the data
 	* #baffling text
@@ -1551,27 +1554,28 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * She has a very #slapdash approach to keeping accounts. 2. #수박 겉핥기
 * #느긋하다; he is #slow to anger
 * 서두르는게 좋을걸 you'd better hurry
-* #shake a leg(#leg)
-* 천천히 꾸준히 가는자가 이기는거야 slow and steady wins the race
-* #hurry up; 시간을 벌기위해 서두르다; hurry up to buy time
-* 부리나케 서둘러 								 let's hot-foot it
-* 정신없이 달려감/찾아다님/버둥거림				 a frantic dash/search/struggle
-* #slow motion; I wanna love you in slow motion
-* #천천히 해 		 		 think twice, Take your time, Easy does it!!! It can wait. 
-* *천천히 움직이고 있지 							 We're in slow motion
-* 급할 필요 없어!						There's no need to rush. There's no rush. 
-* 왜 그렇게 서둘러? 				 	 What's the rush?/hurry, where's the fire?
+	* #shake a leg(#leg)
+	* 천천히 꾸준히 가는자가 이기는거야 slow and steady wins the race
+	* #hurry up; 시간을 벌기위해 서두르다; hurry up to buy time
+	* 부리나케 서둘러 								 let's hot-foot it
+	* 정신없이 달려감/찾아다님/버둥거림				 a frantic dash/search/struggle
+	* #slow motion; I wanna love you in slow motion
+	* #천천히 해 		 		 think twice, Take your time, Easy does it!!! It can wait. 
+	* *천천히 움직이고 있지 							 We're in slow motion
+	* 급할 필요 없어!						There's no need to rush. There's no rush. 
+	* 왜 그렇게 서둘러? 				 	 What's the rush?/hurry, where's the fire?
 * #hasty; 서두른; #haste #hasten
-* 서두르면 몇 시에 올 수 있어요? 				 How soon can you make it? 
-* 왜 서두르는 건지 말해줄 수 없겠어? 	 Can’t you tell me what the rush is all about?
-* 한 번에 한 걸음씩 걸어 나가. 						 #Take one step at a time.
-* 너 어제 그 파티 왔어야 했는데 You missed out on that party last night. #miss out (on 대상)
-* #조급; #quick/#hot/#short tempered; #impatient; #impetuous; #hasty
-* 조바심 						 FOMO Fear of missing out
-* #급한 것부터 해라 								First things first.
-* #놓치다; Anything i'm missing; Did I #miss anything What did I miss
-* #get past; nothing get pasts her
-* #한 걸음 #서두르다 #급하다 #천천히 | #놓치다 #조바심
+	* 성급하다 이용자 참여  나는 빠른 결정을 했었다  I made a snap judgement . 듣기
+	* 서두르면 몇 시에 올 수 있어요? 				 How soon can you make it? 
+	* 왜 서두르는 건지 말해줄 수 없겠어? 	 Can’t you tell me what the rush is all about?
+	* 한 번에 한 걸음씩 걸어 나가. 						 #Take one step at a time.
+	* 너 어제 그 파티 왔어야 했는데 You missed out on that party last night. #miss out (on 대상)
+	* #조급; #quick/#hot/#short tempered; #impatient; #impetuous; #hasty
+	* 조바심 						 FOMO Fear of missing out
+	* #급한 것부터 해라 								First things first.
+	* #놓치다; Anything i'm missing; Did I #miss anything What did I miss
+	* #get past; nothing get pasts her
+	* #한 걸음 #서두르다 #급하다 #천천히 | #놓치다 #조바심
 * That’s a drag ○ Bummer (안됐네) That's a bummer (그거 안됐네) That's too bad (그거 안됐네)
 * ○ That sucks or That's sucks (그거 안됐네)
 * ~면 어쩌지? what if ~
@@ -1692,6 +1696,7 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * 네, 저도 그 생각만 하면 가슴이 아파요. 				 Yes, I hate to think about it. 
 * 무슨 걱정거리라도 있으세요?					 Is something worrying you? 
 * 용기를 가지세요. 								 Take heart. 
+	* 대담; * 너는 대담하게 행동을 하면서도 항상 즐기는 것 같아보여. You throw caution to the wind , but you always seem to enjoy yourself . 듣기
 * #애도를 표합니다. 					 kən‘doʊləns You have my condolences. 
 * #mourn
 * #추도; #eulogy; 추도 연설
