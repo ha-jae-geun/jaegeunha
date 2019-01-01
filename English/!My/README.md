@@ -21,6 +21,8 @@
 * I said I would be ther as soon as I could
 
 # 접두어
+*  ~을 하지 않는게 좋을 거야. = You don't want to 상대방의 말이 듣는 사람이 듣기에 안 좋은 생각이라 말리고 싶을 때 쓸 수 있는 표현이에요. 직역하면 [그런걸 원해선 안돼] 니까요.
+  * 야, 그렇게 안하는 게 좋을 거야. 진짜 별로인것 처럼 들린다. ex) Man, you don't want to do that. That sounds like a really bad idea.
 * 그것을 한 후엔 우리 모두 한 잔 생각이 간절할 거예요! I think we could all use a drink after that!; could use: 필요하다
 * 주의해 주세요; Pleas note that
 * - 축하해요; Congratulations on- Congrats on
@@ -67,6 +69,10 @@
     * ex) She's kind of my girlfriend, as it were, but we're not official or anything.
 * 왜인지 알겠다; No wonder why; he got angry
 * * "한다고 약속해줘" Promise you will + 동사원형
+* -할때 좋아; i like it when
+* You put yourself into... = 자초하다, 스스로 처하게 하다 보통 life/situation/position/danger 등과 같이 상황이나 상태를 가리키는 명사가 함께 옵니다.
+  * 내 스스로 이런 끔찍한 삶을 살게 만들었다는 걸 알아. I know I put myself into this miserable life.
+* 분명히/확실히 말하자면요. = Let me be clear.  상대방의 말을 믿기 어렵거나 한번 더 확실히 하고 싶을 땐, Let me get this straight 라고 말할 수 있습니다.
 
 # 질문
 * 일반적인 왜; Why; 무엇 때문에; What for(목적을 물어봄); 도대체 왜(why보다 강한 어투; 의아함)How come

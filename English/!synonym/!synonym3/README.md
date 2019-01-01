@@ -27,6 +27,34 @@
   * 이미 일어난 일에 계속 마음 써봤자 소용 없어. There's no use brooding over what's already happened.
 * * inkling이라는 단어는 잉크와는 관계가 없고요;;; '암시, 언급'이라는 뜻을 가진 'yngkilking'이라는  중세 영어 단어에서 비롯되었다고 합니다~^^ 1. have an inkling: 눈치를 채다, 어렴풋이 알아채다
   * 그는 전혀 눈치채지 못 했다. ex) He didn't have the slightest inkling.
+* 예상치 못한 일이 발생하거나, 무언가가 불쑥 나타날 때 쓰는 비격식 표현입니다.
+  * = 그 이름은 올해에 말 그대로 모든 회의에서 불쑥불쑥 튀어나왔어. That name has cropped up at literally every meeting this year.
+* 원래는 기차 따위가 철길(rail) 에서 벗어나게 하는 걸 의미하는데요. 비유적으로 쓰여 의도한 행동, 계획 등에서 벗어나게끔 하고, 계획을 무너뜨리는 걸 의미하기도 합니다.
+  * = 예상치 못한 소식으로 협상이 틀어졌다. The negotiation was derailed by the unexpected news.
+* of 이 [~중에서] 라는 의미로도 참 많이 쓰이는데요. 이 표현을 직역하면 '모든 것들 중에서' 이기에, 실제 숨은 뜻은 [왜 하필이면 모든 것들 중에서] 정도의 뉘앙스를 가지며 놀라움의 표현으로 쓰입니다. things 대신 people/places 등을 넣어서 [다른 사람들은 몰라도/하필 많은 장소들 중에서] 등의 의미를 갖기도 해요.
+  * = 왜 내가 하필이면 그렇게 쓸모없는 도구를 고르겠어? Why would I choose such a useless tool of all things?
+* 단어 그대로 “넌 이런 사람이야”라고 쓰여진 ‘라벨’을 붙인다는 것으로 보통 부당한 경우에 씁니다. 어순에 유념하면서 예문을 봐주세요. labeled (O) / labelled (O)
+  * 그의 선생님들은 그를 부당하게도 문제아라고 낙인 찍었다.  His teachers unfairly labelled him a troublemaker.
+* 기본적으론 [희생하다] 라는 뜻이지만, 다른 걸 고려하여 중요한 무언가를 [포기하다] 라는 의미로도 많이 쓰입니다.
+  * = 여기 제시간에 오려고 심지어 축구 결승전 보는 것도 포기했어. I even sacrificed watching the football final to come here on time.
+* 권한, 인가, 권위, 권위자 등의 많은 뜻을 가지고 있는 단어입니다. 주로 복수로 쓰일 땐 [당국, 관계자] 등을 의미해요. 영상에서는 눈 치우는 당국 관계자들을 의미하니 '공무원'으로 해석이 되었습니다.
+  * = 보건 당국은 전국 경보를 발령했습니다. The health authorities issued a nationwide alert.
+* 1) 모든게 다 정해져있는 대본(script) 를 뒤집는 (flip) 다는건, 예상치 못한 행동을 하여 상황을 역전시키는 것을 의미해요.  2) 때로는 상대방이 주로 이야기하는 대화에서, 자기가 주도권을 가져와 대화의 흐름을 바꾸는 것을 의미하기도 합니다. 3) 영상에서는 이전 팁까지는 본인이 이야기 할 때 어떻게 해야한다- 라는 내용이 주를 이루었는데,  4) flip the script는 '말을 갑자기 바꿔버리다'라는 뜻도 있어요.
+  *  프랭크가 매니저한테 더 이상 일하지 않겠다고 말하고 한방 먹여버렸어. ex) Frank flipped the script when he told the manager that he would no longer work for her.
+  * 나한테는 그렇게 말 안 했는데. 말을 그렇게 바꾸다니 어이가 없다! ex) That's not what he told me. I can't believe he would flip the script like that!
+* 우리도 흔히 무언가에 관심을 갖거나 그 존재를 인식하게 될 때 '내 레이다망에 걸려들었다' 라는 표현을 하곤 하죠. 영어도 마찬가지입니다. on one's radar 라는 표현이 있는데요. [~을 알게 된, ~에 관심을 갖게 된] 이라는 뜻이고, 영상에서의 come onto one's radar 는 동사형으로 쓰였다고 보시면 됩니다.
+  * 이 자선단체를 처음 알게 되었을 때, 전 아프리카에 있었습니다. ex) When this charity came onto my radar. I was in Africa.
+* 원래 티켓이라는게 누군가에게 돈을 주고 사야하는 것인데, 자기 자신의 티켓을 쓸 수 있다는 의미는, 자기가 원하는대로 할 수 있는 상태가 된 것을 의미합니다. 그래서 삶 뿐만이 아니라 직업에서도 무언가를 스스로 선택할 수 있는 상황, 재정적으로도 크게 걱정없이 돈을 쓸 수 있는 상황 등을 의미하는 표현입니다.
+  * 그녀 스스로 삶을 설계할 시기야. ex) It's time for her to write her own ticket.
+* 원래 의미는 액체 같은 것에 [흠뻑 젖은], [포화된] 이고 이런 경우엔 전치사 with 와 함께 씁니다.
+  * 어떻게 네 수건이 기름에 푹 젖어있었던거니? ex) How come your tower was saturated with oil? ˈsætʃəreɪt] 
+* [만연하다] 라는 뜻의 동사 pervade 에서 온 단어인데요. 주로 탐탁치않은 영향력 등이 곳곳에 퍼지는 것을 의미하는 단어입니다.
+  * 일에서오는 만성적인 스트레스가 사회 전체에 만연해있다. ex) Chronic stress from work is pervasive throughout the entire society.
+* 영상에서는 background hum of anxiety 로 쓰여서 직역하면 [뒤에서 웅웅거리는 불안함] = [끊임없는 불안] 으로 해석이 되었습니다. 동사로 쓰여서 [콧노래를 부르다] 라는 의미도 가져요.
+  * 우리 같이 이 사업하자. 성공하는 소리를 곧 들을 수 있을거야. ex) Let's do this business together. You will hear the hum of success soon.
+* 예전에 탄광 (coal mine) 에서 카나리아를 새장 안에 두고 키웠다고 해요. 메탄이나 이산화탄소의 농도가 과도하게 올라가면 사람보다 이 새들이 먼저 죽었는데, 이걸 보고 미리 나쁜 상황을 피할 수 있었다는 모습에서 나온 표현입니다. 위험/실패 상황의 전조 = the canary in a(the) coal mine [-ˈneri]  영국식 [kəˈneəri] 
+* 중요한 무언가를 발견할 지도 모른다는 생각이나 정보를 가지고 있는 것을 의미해요. 정확히 무엇인지 모르지만 믿음을 가지고 할 때 쓰기도 해요. 영상에서는 [당시에 사람들은 (여가시간을 쓰는 것이) 무언가에 좋다고 여기고 했습니다] 의 뉘앙스를 가지고 있습니다. = be onto something
+  * 정확히 뭔지는 모르겠는데, 중요한 걸 발견한 것 같아. ex) I'm not sure what it is, but we are definitely onto something.
 * : 직역하면 '커튼 뒤에서'라는 뜻인데, '보이지 않는 곳에서, 배후에, 비밀리에'라는 의미를 나타내죠~
   * 안 보이는 곳에서 무슨 일이 돌아가는지 사람들을 알 길이 없다. People can't know what goes on behind the curtain.
 * 'run rampant'는 '횡행하다' '만연하다'로 해석될 수 있는 표현입니다. 무언가 억제되지 않고 제멋대로, 지나치게 마구 퍼지는 것을 말하죠. 오바마는 미국 민주주의에서는 견제와 균형이 잘 작동해서 다수당이더라도 함부로 마음대로 할 수 있는 구조가 아니라고 보았네요.

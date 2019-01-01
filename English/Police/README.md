@@ -160,6 +160,8 @@
 * 마약을 한 상태에 있는; under the influence of a (illegal) substance
   * #drug: 마약, 독약, 수면제, 마취제, 진통제(치료 목적 x); Don't take drugs; 
     * 마약 주사하다; jack up
+    * 금단현상; 금연한지 3일짼데, 심각한 금단증상이 있어. ex) It's been 3 days since I quit smoking, and now I have serious withdrawal symptoms.
+    * 내가 콜라 중독이란건 모두가 알아. ex) Everyone knows I'm a Coke addict. 동사로 [중독되다] 라는 뜻도 있지만, 명사로도 쓰인답니다.
 * 큰 금고; #vault
 * 1. 누가 불러도 쳐다보지 않기
 * 2. 핸드폰 들고 다니지 않기(이어폰 들고 도망갈 수 있음)

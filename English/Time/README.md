@@ -112,29 +112,31 @@
 * ☆1 hour and 30 minutes = 1 and a half hour = an houar and a half
 * ☆
 * -in/from now : -후에, 뒤에
-* *later (X) -> in / from now (O)
+* later (X) -> in / from now (O)
 * a week from now = in a week
 * a year from now = in a year 
 * 1. 아까
-* *영어에는 '아까'라는 말X
+* 영어에는 '아까'라는 말X
 * -ago
 * -#earlier + @ ( this morning/ this afternoon / this evening)
 * "I spoke with him on the phone earlier + today"
 * 
 * 2. 얼마전에 <- a little while age
-* *earlier this week/ this month/ this year/ this quarter
+* earlier this week/ this month/ this year/ this quarter
 * -----------------------------------------------------------
 * 3. 이따가
-* *in several hours
-* *several hours #from now
-* *an hour from now
-* *in 2 hours
-* *#later today/ this morning/ this afternoon/ this evening/ tonighgt
+* in several hours
+* several hours #from now
+* an hour from now
+* in 2 hours
+* #later today/ this morning/ this afternoon/ this evening/ tonighgt
 
 * 4. 나중에 
-* *later this week / this month / this year
+* later this week / this month / this year
 * later this year : 나중이긴 나중인데 올해를 벗어나진 x
-* *some time later (나중에 언젠가는)
+* some time later (나중에 언젠가는)
+	* * down 대신에 along the line 또는 down the road 이라고 쓸 수도 있는 표현으로 정해진 시간은 아닌, 나중에 언젠가를 의미하는 표현입니다. 대략적으로 언제인지를 나타내고 싶을 땐 three years down the line, four years down the line 처럼 써주셔도 좋습니다. = down the line
+	* 지금은 쉬울지 몰라도, 나중에 숨겨진 비용이 있을 수도 있어. ex) It is easy now, but there might be some hidden costs down the line.
 * ------
 * September 30th september the thirtieth = the thirtieth of september
 * 1902; nineteen oh two, 1900; nineteen hundred, 2001; two thousand and one

@@ -66,6 +66,10 @@
 ## after
 * 쫒는 느낌의 느낌
 
+## butt
+* 엉덩이에 키스하다?? 이렇게 더러운 표현이 [아첨하다/아부하다] 라는 의미를 갖게 된 것은 그만큼 아첨이나 아부를 지저분한 행위로 본 것과 관련이 있을 텐데요.  [아부/아첨하는 행위] 를 butt kissing 이라고 하고, 그런 행위를 습관적으로 하는 사람을 butt kisser 또는 ass-kisser 라고 합니다. 직장인 분들 주변에 꼭 한 명씩 있지 않나요?
+	* 데이빗한테 아부 좀 그만해, 야이 더러운 아부쟁이야. ex) Stop kissing David's butt, you disgusting butt kisser.
+
 ## by
 * 바로 옆에 있는 그림 -> 데드라인
 * by next friday
@@ -141,6 +145,10 @@
 
 # 동사
 
+## awkward
+* 절친 A 와 그냥 그런 친구 B 와 함께 밥을 먹다가, 갑자기 절친 A 가 화장실 간다고 가버렸을 때! 그냥 그런 친구 B 와 할 말도 없고, 왠지 말을 꺼내자니 무슨 말을 해야할지도 모르겠고, 그냥 밥을 먹자니 좀 그래서 말 한마디 던졌는데 반응이 미적지근하고! 그래서 기분이 굉장히 불편하고 빨리 절친 A 가 돌아오기만을 기다리고! 그런걸 표현하는 단어가 바로 awkward silence 에요. awkward 자체에 [(불편하게) 어색한] 이라는 의미가 있거든요. awkward silence 는 대화 중에 불편하게 이어지는 침묵을 의미하는데요. 아무도 말을 안하니 조금 불안하고, 불편하고, 왠지 말을 해야 할 것 같은 압박은 있는데 무슨 말을 해야할지 모르는 상황을 의미하는 단어입니다.
+  * 데이터를 확인한 후에 방 안에 어색한 침묵이 흘렀다. ex) After checking the data, there was an awkward silence in the room.
+
 ## adopt
 * 뭐든지 받아들이는 느낌
 * adopt the policy
@@ -191,6 +199,10 @@
 	* : VT-1에 그것을 띄워 봐. Bring it up on VT-1; 모니터나 디스플레이 화면에 정보를 띄운다는 의미 입니다.
 	* : 우리가 직접 들고 올라가야 할 것 같은데 I guess we'll just bring it up by ourselves Bring up' 은 물건이나 사람을 물리적으로 위로 들어올리거나 끌어 올린다는 의미 입니다.
 	* : 당신이 내 근처로 올라 왔으면 좋겠어요, 벡키 옆으로요. I'd like to bring you up to my area, next to Becky.
+
+## buck
+* 돈을 좀 더 벌려고 주말에는 식당에서 일하고 있어. ex) I'm working at a restaurant on the weekends to make an extra buck.
+* 1. buck 은 [1달러] 또는 [돈] 을 의미하는 비격식 표현입니다.
 
 ## blow
 ### blow up
@@ -253,6 +265,14 @@
 * 안구정화 상대; 외모는 그럴싸하지만 지적으로 혹은 깊이는 없는 상대; eye candy
 * 귀여운 아기; is as sweet as pie
 
+## dig
+* 듣는 사람의 가슴을 후벼파는 (dig) 말을 하는 뉘앙스 입니다. 그 사람에 대해 부정적인 말을 하며 빈정대고, 놀려대고, 귀에 거슬리는 말을 하는 것으로 take/have a dig at 이라고 표현하기도 해요. = dig at
+	* 너희들 걔 좀 그만 놀려먹을래? 거슬려. ex) Can you guys stop digging at him? It bothers me.
+
+## down
+* down 대신에 along the line 또는 down the road 이라고 쓸 수도 있는 표현으로 정해진 시간은 아닌, 나중에 언젠가를 의미하는 표현입니다. 대략적으로 언제인지를 나타내고 싶을 땐 three years down the line, four years down the line 처럼 써주셔도 좋습니다. = down the line
+	* 지금은 쉬울지 몰라도, 나중에 숨겨진 비용이 있을 수도 있어. ex) It is easy now, but there might be some hidden costs down the line.
+
 ## end
 * [ 숙어 ] end up ing 일상에서 정말 자주 쓰는 표현이니 꼭 익혀두세요~! '[본의 아니게, 우연히, 결과적으로] ~하게 되다' 라는 뜻!
 * ※ end up in + 장소 / here / there … : 행동이 아닌 '어떤 장소에 우연히 도달하다'라고 말하고 싶다면, 요렇게 표현해보세요!
@@ -284,7 +304,12 @@
 * 현실적이다; have both feet on the ground
 * 양쪽에 관여하다; have a foot in both camps
 
-## go
+## fuck
+* = 아 몰라!, 아 됐어! 신경 안 쓸래!  fuck it
+
+## go 
+* / 상당한 영향을 주다. = 주어 go a long way towards 목적어 go a long way 는 [오래가다/지속되다] 라는 뜻이 있어요. 그래서 그 효과/도움 등이 특정한 것을 향하여 쭈우욱- 이어지는 느낌이죠. A little thanks goes a long way. 
+ 
 ### go with
 * : 내 자연스런 입술을 갖기로(같이 하기로) 결정했어요, 알았어요? I have decided to go with my natural own lips, okay? 글자글대로 누군가와 어디를 가는 것은 물론, '어떤 상태에 같이 있다' 라는 의미도 가지고 있습니다.
 * : 이 여자와 함께 그 아파트로 갔나요? Did you go with this woman to the loft.
@@ -354,24 +379,7 @@
 * 오늘의 구동사 두 번째로 ‘Go for it’ 에 대해서 설명 드리겠습니다. ‘Go for it’은 ‘한 번 해보다, 시도해 보다’ 라는 뜻과 ‘파이팅, 잘 해봐’ 처럼  상대방에게 응원하는 말로써 많이 사용됩니다. 어떤 일에 대해 확신은 없지만 일단 그래도 한 해보다 라는 느낌으로,  ‘Give it a try’ 와 비슷한 어감으로 사용할 수 있고요, 또는 ‘Go for it’을 단독으로 써서, ‘잘해, 파이팅’ 이런 느낌으로 쓸 수 있습니다.
 * : 하지만, 어쨌든 간에 한 번 해보죠. But we're gonna go for it anyway.
 
-## hot 
-* 뜨거운 감자; Iraq is a hot potato to the Unitied States
-* 온상; 그 지역은 범죄의 온상이었다. The area was a hotbed of crime. 
-*  ((국제 금융 시장에서 높은 수익을 노리고 유동하는 단기 자금)) hot money
-* 내가 그에게 하루 종일 어디 있었었냐고 묻자 그는 몹시 당황스러워 했다. He got very hot under the collar when I asked him where he’d been all day. 
 
-## hand
-* 승리의 패; winning hand; He held the winning hand in the card game
-* 헌옷 She got all the hand-me-downs
-
-## have
-* 소유하고 있다; 소유욕이 낮은 느낌ㄴ
-* <>take
-* have an operation
-* i can have you arrested; 대상을 소유한다 = 행동한다
-
-## fuck
-* = 아 몰라!, 아 됐어! 신경 안 쓸래!  fuck it
 
 ## go
 * 멀어지는 느낌 == from 
@@ -575,11 +583,35 @@
 * : 네 자신에 집중하기나 해 Just give yourself up; Give oneself up' : 자기자신에 집중하다.
 * : 난 그 사람과 헤어지고 싶지 않아요. I don't want to give up on him. Give up on someone' : 와 관계를 끊내다. 종료하다.
 
+## hot 
+* 뜨거운 감자; Iraq is a hot potato to the Unitied States
+* 온상; 그 지역은 범죄의 온상이었다. The area was a hotbed of crime. 
+*  ((국제 금융 시장에서 높은 수익을 노리고 유동하는 단기 자금)) hot money
+* 내가 그에게 하루 종일 어디 있었었냐고 묻자 그는 몹시 당황스러워 했다. He got very hot under the collar when I asked him where he’d been all day. 
+
+## hand
+* 승리의 패; winning hand; He held the winning hand in the card game
+* 헌옷 She got all the hand-me-downs
+
+## have
+* 소유하고 있다; 소유욕이 낮은 느낌ㄴ
+* <>take
+* have an operation
+* i can have you arrested; 대상을 소유한다 = 행동한다
+
+## hype
+* 2) hype 는 무언가의 중요성이나 이점을 부풀리면서 대대적으로 홍보하는 것을 hype 라고 합니다. 영상에서는 소셜미디어가 실제 가지는 영향력보다 좀 더 과장되게 홍보가 되어 있다는 점을 hype 라고 표현을 했고요. 그런걸 오해로 보고, 위기 상황으로 보는 발표자의 인식을 나타내는 표현입니다.
+	* 이건 과장광고일 뿐이야. 난 저딴거 안 믿어. ex) It's nothing more than a hype. I don't believe that shit.
+
 ## home, house
 * house: 말 그대로 집
 * home: 집일 수도 있고 어디든 편안함을 느끼는 장소
 * house party가 그래서 맞음
 * home party는 장소가 불분명해짐
+
+## head
+* 머리부터 내밀고 무언가를 들이박는 뉘앙스의 표현이에요. 영상에서는 문장의 제일 끝에서 부사로 쓰였고, 형용사로도 쓰일 수 있습니다. 차 사고에서 정면 충돌 또한 head-on collision 이라고 합니다.
+	* 현식을 제대로 직시하자. ex) Let's face the reality head-on.
 
 ## hand
 * 도움의 손길이 가까운 곳에 있었다. Help was at hand. 
@@ -609,6 +641,7 @@
 
 ### hang on
 * : 잠깐만요. Hang on; Hang on a second.
+
 
 ## look
 ### look out
@@ -735,6 +768,10 @@
 * 돼지에게 진주를 던지지 말라. Don ’ t cast your pearls before swine  [swaɪn] 
 
 
+## profile
+* profile 은 [인지도/관심] 이라는 뜻이 있어요. 따라서 이 표현은 사람들의 관심을 끄는 행동을 하지 않으려고 조심하거나 어떤 특정 장소에 가지 않는 것을 의미합니다.  = keep a low profile 반대로 a high profile [고자세, 높은 관심, 세간의 이목을 끄는 것] 등을 의미합니다.
+	* 우리가 그 일을 처리할 때까지는 조용히 지내고 있어. ex) Try to keep a low profile until we finish dealing with it.
+
 ## point
 * - have a point / have got a point : 일리가 있다
 	* 저 사람 말에 일리가 있어. She's got a point.
@@ -819,12 +856,27 @@
 * - start off by ~ing : ~하면서 시작하다
 * - start off with : 로 시작하다
 	* 쉬운 걸로 시작해보죠. Let's start off with an easy one.
+* kick-start 의 원래 의미는 오토바이처럼 무언가를 힘껏 밟아 시동이 걸리게 하는 [시동 방식] 을 의미하는데요. 그 의미의 연장선으로 무언가에 발동을 걸리도록 하는 것을 a kick-start 라고 합니다.
+	* 내 삶에 추진력이 필사적으로 필요해. ex) I desperately need a kick-start for my life.
+
+## shove
+* ~에게 ~을 억지로 강요하다 = shove something down someone's throat 별로 관심도 없는데 반복적으로 말하고, 무언가를 보여줌으로써 강요하는 것을 의미하는 표현입니다.  shove 가 [떠밀다] 라는 뜻이 있으니 목구멍(throat) 속으로 무언가를 억지로 떠먹여서 어쩔 수 없이 받아들이도록 하는 뉘앙스의 표현이에요.
+	* 네 신념을 나한테 강요하지 좀 마! ex) Stop shoving your beliefs down my throat!
+
+## track
+* track 은 말 그대로 사람들이 따라가도록 나있는 [길] 을 의미하는데요. 무언가를 함에 있어서 목표를 향한 길에서 벗어나지 않고 잘 따라갈 때 on track 이라고 합니다. 제대로 된 방향으로 나아갈 때는 on the right track, 잘못된 방향일 때는 on the wrong track 이라고 하고요. 잠시 잘못된 방향으로 갔다가 다시 돌아왔을 때는 get back on track 이라고 할 수 있어요.
+	* 데이빗. 넌 정말 잘 하고 있으니까 너 자신을 의심할 필요가 없어. ex) David. You're definitely on the right track, so no need to doubt yourself.
 
 ## top
 * at the top of my list는 말그대로 내가 (손에 꼽을 만큼 좋아하는) 것들 중에서 가장 일순위다, 즉 '가장 좋아하는, 가장 해보고 싶은' 일을 말할 때 쓰는 표현이예요~ 
 * : 목청껏, 있는 힘껏 큰소리로 응용 예시1. at the top of my lungs; [ex] We were screaming at the top of our lungs.
 * : 지금 머리속에서 막 생각나는건 응용 예시2. off the top of my head
 	* 지금 바로 머리속에 생각나는게 없어. [ex] I can't think of anything off the top of my head.
+
+## talk
+* 소소한 대화, 담소, 잡담, 이런저런 이야기 = small talk
+	* 사라 기다리면서 그냥 이런저런 이야기 하고 있었어. ex) We were just making small talk, waiting for Sarah.
+* [참고] big talk = 허풍
 
 ## take
 * 정말 강한 소유욕 <> have
@@ -913,7 +965,9 @@
   * How do you travel to school? 학교 어떻게 다녀?
 * business trip
 
-
+## term
+* 조금 문제가 되는 사람, 사물, 상황 등을 이해하고, 받아들이고, 처리하려고 노력하는 것을 의미하는 표현이에요.  = come to terms with
+	* 넌 내가 얼마나 아멜리아를 이해하려고 노력해 왔는지 알잖아. ex) You know how much I've tried to come to terms with Amelia.
 
 ## water
 * 그는 새로운 일을 아주 자연스럽게 익힌다. She takes to new works like a duck to water . 
@@ -926,3 +980,11 @@
 * : 당신 둘 잘 지내고 있는 거에요? You two been working out? 사람들 사이에서 다툼이나 갈등이 있을 때, 그런 문제들을 해결하고, 좋은 사이가 된다는 의미로 'Work out'을 쓸 수 있습니다.
 * : 자네가 타협을 하기를 원한다고 했잖아. You said you wanted to work out a compromise. 'Work out'의 네 번째 의미는 '어떤 결과나 결론을 이끌어 내다' 라는 의미입니다. 'Work out a compromise' 를 직역하면, '타협을 이끌어내다' 라는 의미가 되는데요,
 * : 제가 해결 할 수 있어요. I can work it out. Work out' 에서, 목적어로서 'it' 이나 'Something' 이 사용되어, 'Work it out' 또는 'Work something out' 의 형태로 사용되는 경우가 많은데요,
+
+## walk
+* 비격식 표현으로 상대방의 감정이나 입장 등을 고려하지 않고 굉장히 못된 태도로 대하는 것을 의미해요. 누군가를 밟고 지나가는 느낌의 단어들이죠? = walk over someone
+	* 걔가 널 함부로 대하게 놔두지 마. 이런 취급을 받을 필요가 없잖아. ex) Don't let him walk over you. You don't deserve this.
+
+## wrap
+* wrap는 '포장하다', '싸매다' 라는 뜻이에요. get wrapped up in sth을 직역하면 '무언가에 꽁꽁 싸매이다' 인데요, '다른 모든 것은 무시할 정도로 몰두해버리다' 라는 뜻입니다.
+	* 네 아이들에게만 너무 몰두하지는 마. 너와 네 아이들에게 안 좋아. ex) Don't get too wrapped up in your children. It's bad for you and your children.

@@ -362,6 +362,8 @@
 
 # 감사
 * Thank you는 (사람자체나 일에 대해) 감사하다는 뜻으로 쓰이며 감탄사적 요소가 포함돼요. 줄여서 "Thanks!"라고 표현 가능합니다. appreciate는 (사람의 특정한 행동, 호의에 대해) 인정하고 감사하다는 뜻으로 쓰여요. 좀 더 격식 있는 표현이죠.
+	* : a little appreciation, a little thank 둘 다 '사소한 감사의 표시/인사'를 뜻해요. '고마워' 이 한 마디가 사소해보여도 그 말을 듣는 사람에게는 큰 의미로 와닿을 수 있고, 더 좋은 일로 또 이어질 수도 있다는 말이에요. "말 한마디가 천냥 빚을 갚는다"와 비슷한 의미이죠.
+		* A little kindness goes a long way. : 비슷한 표현인데요, '작은 친절'이 더 큰 행복이나 친절, 혹은 이익으로 이어질 수 있다는 말이에요.
 	* 고마워; Shout out
 	* I really appreciate your help.
 	* Thank you all for your time.
@@ -1148,6 +1150,8 @@
 * 고도의 긴장이 요구되는 때 crunch time 미국식  영국식   단어장추가
 	* 우리 모두는 엄마의 수술 때문에 굉장히 긴장되는 날을 보냈다. ex) We all had a nerve-racking day because of mom's surgery.
 	* 긴장을 풀다; #unwind, #relax, #uptight
+	* 1) 폭탄을 터뜨릴 때 불을 붙이는 뇌관을 fuse 라고 하는데요. 그것을 제거하는걸 defuse 라고 합니다. 이렇게 긴장된 상황에서 원인을 제거하니, [긴장/위기를 해소하다] 라는 의미로 쓰이는데요.
+  * 회의를 재개하기 전에 긴장감부터 해소하자. ex) Let's need to defuse the tension before we resume the meeting.
 	* ☆take the edge off; I need to take the edge off the hunger
 	* #strain; under the strain
 	* 긴장하다. 		 am/feel/get/am getting nervous, tense, anxious, get cold feet
@@ -1233,6 +1237,9 @@
 * #울적하게 하는; #dismal; the winter's dismal weather makes me gloomy
 * #음울한; #따분한; #dreary; I had to spend dreary winter's day
 * 눈물을 흘리게 하는 작품; #tearjerker
+	* 우물을 well 이라고 하는데요. 우물에 물이 차오르듯 눈물이나 감정이 차오르는 것을 의미합니다. '눈물이 차오르다' 라는 문장은 다음처럼 표현할 수도 있습니다.
+		* 1) Tears 를 주어로 했을 때 Tears welled up in my eyes.
+		* 2) My eyes 를 주어로 했을 때 (with 와 함께) My eyes welled up with tears. 하지만 영상에서처럼 [눈물 날 것 같아] 라고 할 때는 단순히 I'm welling up. 이라고 해주는 게 제일 좋아요. 쉽고, 의미 전달도 잘 되고요.
 * #sadden; 슬프게 하다; it saddened that people could be so cruel
 * #애절; #sad, #mournful, #pathetic; #plaintive; #sorrowful
 * #기쁨의 눈물; #tears of joy
