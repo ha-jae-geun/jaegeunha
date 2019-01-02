@@ -14,6 +14,8 @@
 * #숫자 #계산 ##0: zero / o
 * #one -> #some  #another -> #others  #the other -> the others
 * #add, #count up, #total - 세다, 계산하다 
+	* 보통은 컴퓨터가 대량의 수치 계산, 또는 데이터 처리를 하는 걸 의미하는 표현입니다. 물론 사람이 계산할 때도 쓰는데요. 그럴 경우 보통 재정 상황을 계산할 때 꽤 쓰입니다. crunch the numbers = 수치를 계산하다
+		* = 컴퓨터가 몇 시간 째 수치를 계산 중입니다. 바라건대 오늘 밤 안에는 끝낼 수 있으면 좋겠어요. The computer has been crunching the numbers for hours. Hopefully it will finish it by today.
 * thousand -> 10, thousand ->  hundred thousand => million -> 10억 -> trillion(1조)
 ---
 * 짝수가 아닌 수; uneven

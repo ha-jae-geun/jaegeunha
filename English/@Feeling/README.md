@@ -291,15 +291,17 @@
 * #obnoxious; behavior 매우 불쾌한
 * #끔찍 #비위를 건드리다 #불쾌하게 하다 #역겨 #역겹
 * Have fun -ing
-* interesting: 깊게 생각하게 만드네, 흥미롭네, 호기심 유발시키네
-* #puntastic; (informal) Extremely funny.
-* 마냥 재밌겠지 ~ 전까진 					 It's all fun and games until
-* 흥미진진한 가십									 juicy gossip
-* #흥미로운; #intriguing 미국·영국 [ɪn|tri:gɪŋ]
-* 그는 재미있는 사람이야 					 He is a fun person to be with/around
-* 개존잼 									 was poppin
-* 재미로 									 for fun/kick
-* 수영 재미있었어 						 Swimming is #a lot of fun.
+	* 게임이나 영화 등이 재미있을 때 쓰는 단어는 아니에요. 영상에서처럼 무언가 개인적이거나 충격적인 스캔들적 요소가 있는 이야기, 가십 등에 쓰는 비격식 형용사입니다. = juicy juice 가 물론 [과즙, 육즙] 이라는 뜻이 있으니, juicy 는 [즙이 많은] 이라는 뜻인데요. 우리가 과즙, 육즙을 보면 군침이 돌고 더 먹고 싶듯이, 무언가 굉장히 흥미진진한 이야기를 들으면 더 듣고 싶어 하는 모습을 빗대서 발전한 단어라고 보시면 좋을 것 같아요.
+		* 널 비난하지 않을게, 왜냐면 나도 재밌는 가십거리 좋아하거든. ex) I won't blame you, because I love juicy gossips as well.
+	* interesting: 깊게 생각하게 만드네, 흥미롭네, 호기심 유발시키네
+	* #puntastic; (informal) Extremely funny.
+	* 마냥 재밌겠지 ~ 전까진 					 It's all fun and games until
+	* 흥미진진한 가십									 juicy gossip
+	* #흥미로운; #intriguing 미국·영국 [ɪn|tri:gɪŋ]
+	* 그는 재미있는 사람이야 					 He is a fun person to be with/around
+	* 개존잼 									 was poppin
+	* 재미로 									 for fun/kick
+	* 수영 재미있었어 						 Swimming is #a lot of fun.
 * 이 #영상은 진짜 흥미로워. 		 ‘fʊtɪdƷ ɪn‘tri:gɪŋ this footage is really intriguing. 
 * *영상 시작 									 roll the tape
 * 영상이 돌아다니다 the video is #viral, #viral video: 돌아다니는 유명한 영상
@@ -1275,16 +1277,18 @@
 	* 섭섭하게 생각마; no hard feelings
 	* ##섭섭 #서운
 * 극도로 화나게 만들다: #infuriate; Her silence infuriated him even more
-* #bent out of shape; get bent out of shape 
-* i'm so pissed up, Ugh, so annoying, upset, salty, sulk [sʌlk], pissed
-* ##livid; president was reportedy livid
-* #안 #속으로 #밖으로 #inwardly #outwardly
-* it has 카라멜 #inside the chocolate
-* 화나다 freak out (빡치다 = lose control) = He gets his temper from his dad
-* = blow one's mind = blow one's top = crack up = go ape = hit the ceiling = lose control of oneself = 
-* be #up in arms; (against): #반기를 들다
-* lose it = fly off the handle(냉정함을 잃다) = freak out = go ape = go ballistic on someone = go crazy = lose one's temper = wig out = flip out 
-* #indignant; #성난	 
+	*  pop 이 기본적으로 '튀어오르다' 라는 의미가 있는데요. pop off 은 감정이 확 하고 올라와서 시간이나 장소에 상관없이 화내는 것을 의미합니다.
+		* Whenever she pops off, she starts to throw things.
+	* #bent out of shape; get bent out of shape 
+	* i'm so pissed up, Ugh, so annoying, upset, salty, sulk [sʌlk], pissed
+	* ##livid; president was reportedy livid
+	* #안 #속으로 #밖으로 #inwardly #outwardly
+	* it has 카라멜 #inside the chocolate
+	* 화나다 freak out (빡치다 = lose control) = He gets his temper from his dad
+	* = blow one's mind = blow one's top = crack up = go ape = hit the ceiling = lose control of oneself = 
+	* be #up in arms; (against): #반기를 들다
+	* lose it = fly off the handle(냉정함을 잃다) = freak out = go ape = go ballistic on someone = go crazy = lose one's temper = wig out = flip out 
+	* #indignant; #성난	 
 ------------------------------------------------------------------------------------------------------------------
 * 김대리 #욱해서 가버렸어. 			 hʌf 김대리 went off in a huff yesterday.
 * #발끈하지마!						 Don't blow your top! lose one's cool. 
@@ -1428,6 +1432,8 @@
 	* = 넌 프랭크를 비난해선 안 돼. 그는 결과와 아무 관계가 없어. You shouldn't point your finger at Frank. He has nothing to do with the result. point finger(s) (at)
 	* 그리고 dish it out 자체가 ‘남을 비난하다’라는 뜻을 가지고 있어서 ‘남을 비판하는 것을 즐기면서 정작 자신에 대한 비판은 받아들이지 못하다’는 의미로 “…dish it out, …can’t take it” 라고 고정적으로 표현하기도 합니다. 
 		* 잭은 남을 비판하는 것은 잘 하면서 다른 사람들이 그에게 똑같이 하면 받아들이지 못한다. Jack can dish it out, but he can't take it when others do the same to him.
+	* critical은 어떤 현상에 대해서 옳고 그름을 논리정연하게 판단하고 심도 있게 사고 하는 자세를 말합니다. 꼭 매사에 부정적이고 비판을 위한 비판을 좋아하는 성격만 말하는 것은 아닙니다. 그런 성격은 judgmental, pessimistic, negative 등에 더 가깝습니다.
+		* 그 기사는 인권 유린에 대해 매우 비판적이었다. The report was highly critical of human rights abuses.
 * verdict, screening, evaluation, screen, evaluate, judge, #underestimate in (ourselves) 
 * #심사위원 #judges
 * #score card
@@ -1532,7 +1538,9 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * I have to take a look at it.
 * #몰라 #모른다
 * 비하: derogatory term derogatory 미국식 [dɪ|rɑ:gətɔ:ri]; 경멸하는
-* imply #sarcasm; used in sarcastic way
+	* imply #sarcasm; used in sarcastic way
+	* 무언가가 가치 없고, 바보 같아서 무시하고 비웃는 것을 의미하는 단어에요. 굉장히 강한 감정을 포함한 단어고요. 한마디로 리스펙! 이 없는 행동을 하는거죠. scorn
+		*  우리 생각과 다르다고 해서 그들의 견해를 경멸해선 안돼.  ex) We should not scorn their view just because it's different from ours.
 * 왜자꾸 비꼬아? 							 Why are you so #sarcastic?
 * 경시하다 #비하						 degrade, belittle; i'm not belittling girls
 * 셀프디스, #self-deprecating = #selfdiss #diss; disrespect
@@ -1875,3 +1883,8 @@ I am always overlooked(간과), never discount the contributions, put someone do
 
 # 설레다
  * 설레다 pit a pat = heart bounce, my heart goes pit a pit, you make my heart bounce, my heart flutter, I get butterflies, you give me butterflies
+
+
+# 싫다
+ * 직역하면 [의 내장까지 싫어하다] 라는 뜻인데요. 누가 싫으면 싫었지 내장까지 싫어한다? ㅎㅎ 그만큼 그 사람의 안 보이는 곳까지 싫어한다는 뉘앙스로, 누군가를 정말 싫어할 때 쓰는 비격식 표현이에요.
+ 	* ex) I hate my guts. What the hell was I thinking? 

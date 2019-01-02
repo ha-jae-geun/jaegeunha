@@ -79,6 +79,8 @@
 
 ## 집	#집돌이; I've become quite the home body. 	
 	* turf는 기본적으로 ‘잔디’를 뜻합니다. 그런데 여기서는 비유적으로 자신이 가장 편안함을 느끼거나 자신감있는 분야, 자신만의 근거지 등을 의미합니다.  You get out of here. This is my turf!
+	* 본래 뜻은 ‘자연 서식지’이지만, 비유적으로 ‘가장 편안함을 느끼는 곳, 좋아하는 곳’을 의미합니다. 
+		* 그녀는 도서관에 있을 때 가장 마음이 편안하다. She finds her natural habitat in the library.
 * 들어와; Come (on) in; Come on over: 우리 집으로 혹은 내가 지금 있는 곳으로 와
 * 잠깐 들르다; nip down; Alex has just nipped out to the bank
 	* 지낼 곳; Every night we're grateful for having a roof over our heads; a roof over head

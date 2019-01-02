@@ -66,6 +66,9 @@
 ## after
 * 쫒는 느낌의 느낌
 
+## bitch
+* bitchy 의 경우엔 'x년' 을 의미하는 bitch 에서 나온 형용사라 원래는 나쁜 의미를 가지는데요. 친한 사이에서는 반어적 의미로 '도도하게 멋진' 을 의미하기도 해요.
+
 ## butt
 * 엉덩이에 키스하다?? 이렇게 더러운 표현이 [아첨하다/아부하다] 라는 의미를 갖게 된 것은 그만큼 아첨이나 아부를 지저분한 행위로 본 것과 관련이 있을 텐데요.  [아부/아첨하는 행위] 를 butt kissing 이라고 하고, 그런 행위를 습관적으로 하는 사람을 butt kisser 또는 ass-kisser 라고 합니다. 직장인 분들 주변에 꼭 한 명씩 있지 않나요?
 	* 데이빗한테 아부 좀 그만해, 야이 더러운 아부쟁이야. ex) Stop kissing David's butt, you disgusting butt kisser.
@@ -85,6 +88,10 @@
 * there is no escape from the exam
 * 다른 나라에서 설명할 때: i am from south korea; 멀어져 온것
 * ~ is acroos from the river; 강 건너편에 있다
+
+## footprint
+* 1) 원래는 '발자국' 이라는 뜻인데요. 환경 오염 문제가 심각해지면서 carbon footprint 라는 개념이 생겨나게 됩니다. '탄소 발자국' 이라고 해석이 되는 이 표현은 자동차, 선박, 공장 등이 뿜어내는 탄소의 양은 마치 누군가가 발자국을 내고 돌아다닌 것처럼 보이게끔 수치화 시켜놓은 것을 의미하는데요. 2) 지금은 환경 오염, 생태계 파괴, 자원 고갈과 관련하여 인간 활동이 환경에 미치는 '영향' 을 의미할 때 많이 쓰여요. 3) 영상에서의 meat footprint 는 직역하면 '고기 발자국' 인데, 실제 의미는 '육류 소비량' 정도가 됩니다.
+	* = 소위 조약이란 것들이 탄소 발자국을 줄일 수 있을지 잘 모르겠어. I don't know if any of the so-called protocols would reduce carbon footprint.
 
 ## for
 * 주고받는 교환
@@ -161,6 +168,11 @@
 * : 당신이 오늘밤 데이트를 신청해줘서 너무 기뻐요. I'm really glad that you asked me out tonight
 * : 조사해 봐. Ask around
 
+## ball
+* ball 은 [공] 이 아니라 [무도회] 라는 뜻으로도 쓰여요. 한마디로 파티니까, 파티를 할 때 즐거운 모습에서 나온 속어 입니다. = have a ball
+	* 한 시간 정도 더 머물러도 될 것 같아. 애들이 진짜 재밌게 노네. ex) Maybe we can stay here one more hour. The kids are having a ball.
+* 앞에서 나온 have a ball 과는 다르게 have balls 입니다. 복수를 쓰고요. 여기서의 balls 는 남성의 고환을 의미해요. 우리 말에서도 남자들끼리는 겁 많은 남자에게 "너 xx는 달렸니?" 라고 하잖아요? ㅎㅎ 비슷한 표현이랍니다. 남성들이 쓰는 표현이기는 하지만, 여성들도 농담으로 가끔씩 써요. 하지만 여성이 스스로 말하는 게 아니라면 남자가 여자에게 쓰면 불쾌할 수도 있으니 조심하셔야 합니다.  참고로 [배짱이/용기가 없다] 라고 할 땐 don't have the balls 라고 하면 된답니다.
+
 ## back
 ### back away
 * : 마티, 우리는 여기서 물러설 수 없어요. We can't back away from this, Marty. Back away' 는 물리적으로 물러나는 것 뿐아니라, 어떤 상황의 형세가 불리하여, 물러서는 것도 의미합니다.
@@ -188,6 +200,8 @@
 	* : 그들이 그의 정신속으로 들어가는 중이야. They're breaking into his mind.
 * the day broke when i woke up; 밤이 꺠지고 낮으로 변한다
 * breaking news
+* 물리적인 공간에서 탈출하는 것과 어려움이나 제약, 또는 불쾌함을 주는 사람에게서 벗어나는 상황에서 둘 다 쓸 수 있는 표현입니다. 또한 장치의 일부가 떨어져 나갈 때 쓸 수도 있어요.
+	* 난 걔가 가족들로부터 벗어나면 행복해할 거라고 생각해. ex) I think he would be happy if he breaks free of his family.
 
 ## bring
 * bring it on은 우리말로 ‘덤벼’로 번역되는데, 풀어 설명하면 ‘너가 가진 것이 무엇인지 내놔봐라’라는 의미입니다. 너가 가진 것, 즉 너의 능력/배짱/힘 등이 얼마나 되는지 한 번 볼 테니 꺼내 보이라는 겁니다. 혹은 특정한 대결 상대가 없이, 힘든 상황이나 도전적인 일을 맞이할 준비가 되었다고 할 때도 Bring it on!이라고 합니다. 그 힘든 상황이 나에게 무엇을 가져다 주던 간에, 나는 준비가 되었다는 뜻입니다. 
@@ -224,6 +238,10 @@
 * : 할머니는 할머니의 결혼 50주년 파티에서 모든 사람들을 뿅가게 할 거에요. You're going to blow everybody away at your fiftieth anniversary party.
 
 
+## concert
+* 둘 이상의 사람/단체/나라 등이 원하는 것을 얻기 위해 무언가를 함께 할 때 쓰는 형용사인데요. 주로 다음과 같은 단어들과 함께 쓰입니다. 참고로, 공연을 뜻하는 '콘서트'도 '여럿이서  협동하다', '여럿이서 하모니를 이룬다'는 뜻에서 나왔습니다.
+	* concerted effort = 단결, 혼신의 노력 concerted action = 담합 concerted campaign = 공동/합작 캠페인
+
 ## cut
 ### cut off
 * Cut off 의 기본적인 뜻은 무엇인가에 붙어 있던 것이나, 연결되어 있던 것  또는 연속적으로 지속지속 오던 것이 떨어지거나 끊어지는 것을 의미합니다. 예컨대, ‘The Serial killer cut off the victims’ ear’ 라고 하면, ‘그 연쇄 살인범은  피해자들의 귀를 잘랐다’ 되는데요, 이렇게 ‘사람의 신체의 일부분을 잘라내다’ 라고 할 때, ‘Cut off’ 가 많이 쓰이고요, ‘My pension was cut off 3 years ago(내 연금은 3년에 끊겼다)’ 처럼,  ‘연금처럼 지속적으로 받아 오던 어떤 것이 끊겼을 때’ 사용이 되고, 돈을 안내서 전기나 수도, 또는 핸드폰 등이 끊겼다 라고 할 때도 ‘Cut off’ 가 쓰입니다.
@@ -237,6 +255,8 @@
 ## come
 * 'come into one's own'은 성숙과 발달의 과정을 거쳐 힘과 자신감, 경제력, 존경, 사회적 신용 등을 얻은 단계에 이르는 것을 가리키는 말입니다. 지금 우리가 아는... 약간은 거만한(?), 성공한 칸예로 완전히 성장하기 전이라는 뜻이겠죠?
 	* 에디트는 드디어 사진작가로서 인정받았다. [ex] Edith finally came into her own as a photographer.
+* as 가 엄밀히 따지면 전치사이기 때문에 뒤에 명사가 나와야 하지만, 영상에서처럼 사람의 성격을 나타내는 형용사가 혼자 오기도 합니다. = come across as ~ as 가 엄밀히 따지면 전치사이기 때문에 뒤에 명사가 나와야 하지만, 영상에서처럼 사람의 성격을 나타내는 형용사가 혼자 오기도 합니다.
+	* 그가 처음엔 진짜 똑똑한 사람 같은 인상을 줬어. ex) He came across as a really smart person at first.
 
 ## charge
 * 짐을 올리는 라틴어 어원 -> 짐을 채우고, 그게 임무/책임를 다하는 느낌; 맞서 싸워라 돌격하라
@@ -292,9 +312,15 @@
 * did you find math test difficult?
 * find out(out: 밖에 있는 느낌): 몰랐던 걸 알게 되다
 
+## flat
+* flat 은 아래의 [참고] 부분에 있는 것처럼 굉장히 많은 뜻을 가지고 있고 많이 쓰이지만, 영상에서처럼 [시간+flat] 을 쓰게 되면 형용사로 '딱 ~ 밖에' 시간이 걸리지 않았을 때, 그만큼 무언가가 놀랍게 빨리 발생했고, 단지 그 시간 밖에 걸리지 않았다는 것을 강조해 주기 위해서 쓰입니다.
+	* 집에 5분만에 도착할 거예요, 엄마. ex) I will be home in 5 minutes flat, mom.
+
 ## foot
 * 앉아서 쉬세요; Put your feet up
 * 곤경에 빠지다; put one's foot in it; This politician is known for constantly putting his foot in it
+* 영상에서는 첫 발을 잘 디딘다는 뜻에서 ‘하루를 잘 시작하다’라고 하였는데요, 이 외에 ‘좋은 인상을 남기다’ 혹은 ‘최선을 다하다’를 의미하기도 합니다.  put one’s best foot forward = 첫 발을 잘 디디다 / 노력하다 면접 같은 곳에서 자신의 장점을 부각시킨다고 할 때 특히 자주 쓰는데요, 반대로 put worst foot forward라고 하면 ‘나쁜 인상을 남기다, 추한 인상을 남기다’가 됩니다.
+	* 그녀는 그날 밤 엄청 취해 가지고 엄청 추한 꼴을 보였지. She was totally wasted and put her worst foot forward that night.
 * 발을 들여놓다; i have't set foot in the place
 * -에 빠져들다; sweep off one's ffet; He swept her off her feet
 * 처음부터 관계를 잘못 맺다.
@@ -547,6 +573,10 @@
 * : 의자에 앉아. Get in the chair 보통 우리가 의자에 '앉다' 라고 하면, 'Sit on the chair' 라고 해서 전치사 'On' 을 쓰는데요, 의자에 따라서, '사람의 몸을 감싸듯이 사람이 의자 속에 푹신하게 들어가는 느낌의 의자' 같은 경우는 'Get in the chair' 라고 한다고 합니다.
 
 
+### get in on
+* 다른 사람들이 이미 참여하고 있는 것이나 계획 중인 일에 참여하는 것인데요. 그 중에서도 본인에게 이익이 되는 것, 신나는 일에 마치 올라타듯이 함께 하는 것을 의미하는 표현입니다.  영상을 직역하면 [우린 완전히 그것의 아래쪽에 참여하죠] 라는 다소 어색한 의미를 가지는데요. 여기서 아래쪽은 3분3분30초에서의 3분을 의미하고, 이렇게 함으로써 시간을 30초라도 줄이기에 시간적 이익이 되는 행동이라 이 표현을 썼습니다. 따라서 [더 낮은 시간인 3분을 돌려야 합니다] 라고 의역하였습니다.
+	* = 내 친구들 몇몇이 그 계획에 참여하고 싶어해. Some of my friends want to get in on the plan.
+
 ### get out
 * 'Get out' 의 첫 번째 의미로, 우리가 이미 지난번에 공부한 'Get in' 의 '로 들어가다' 의 반대되는 뜻인 '~에서 나오다, 나가다' 라는 뜻이 있습니다. 'Get out' 을 '~에서 나오다, 나가다' 라는 의미로 사용할 때, 그냥 'Get out' 만 쓸수는 없고, 'Get out'에 'of'를 붙여서, 'Get out of 장소' 의 형태로 사용합니다
 	* : 내 사무실에서 나가. Get out of my office. 일단, 미국인들은 'Get out of' 의 발음을 '겟 아웃 오브' 라고 단어 별로 끊어 발음하지 않습니다. 이 사람들은 'Get out of'를 연음시켜서 '게라러' 처럼 발음하고, 'Get out' 도 '게라웃' 처럼 발음합니다.
@@ -612,6 +642,8 @@
 ## head
 * 머리부터 내밀고 무언가를 들이박는 뉘앙스의 표현이에요. 영상에서는 문장의 제일 끝에서 부사로 쓰였고, 형용사로도 쓰일 수 있습니다. 차 사고에서 정면 충돌 또한 head-on collision 이라고 합니다.
 	* 현식을 제대로 직시하자. ex) Let's face the reality head-on.
+* 상황이 악화되어 적절한 조치가 취해져야만 하는 시점에 도달하는 것을 의미합니다. 이 표현은 종기나 여드름이 오래되어 터질 듯한 화농을 head 라고 하는 것에서 유래된 표현이에요.
+	* = 경제 위기는 일이주 후에 곪아 터질 것이다. The economic crisis is set to come to a head in a week or so.
 
 ## hand
 * 도움의 손길이 가까운 곳에 있었다. Help was at hand. 
@@ -689,6 +721,10 @@
 * : 만약에 그들이 이야기를 지어낸다면요? What if they make things up?.
 * : 여기에 있는 내 오랜 친구 조는 플러쉬를 만들기 위해 그의 다섯번째 카드가 스페이드 이기를 바라고 있지.  Cho, my old friend Cho here is hoping for his fifth spade to make up his flush.
 * : 그녀는 너하고 화해를 하려고 하는 거라고. She was trying to  make up with you. 'Kiss and make up' 이라는 표현이 있는데요, 바로 '화해하다' 라는 뜻입니다.
+
+## notch
+* [급, 레벨]을 notch 라고 하는데요. 직역하면 [급을 차 올리다] 정도이니, 갑작스럽게 무언가의 강도를 높이는 것을 의미해요. 주로 무언가를 더 강렬하거나, 신나거나, 흥미롭게 만들 때 쓰는 표현입니다.
+	* 더 신나게 놀아보자! 위스키 가져와! ex) Let's kick it up a notch! Bring the whiskey!
 
 ## nose 
 * 급격히 감소하다, 폭락하다 take a nose drive; The sales of the company took a nose drive.
@@ -848,6 +884,10 @@
 * 남이 어떤 나쁜 일을 겪지 않도록 해주는 것을 spare라고 합니다. 사용시 어순은 「spare 사람 (from) 불쾌한 일」입니다. 영상속 대사를 살펴보면 spare(받지 않게 해주다) / others(다른 사람들) / the anguish of the disease(이 병으로부터의 고통)이 되겠습니다.
 	* 그녀는 그녀의 어머니에게 어떤 걱정도 끼치지 않길 바랬다. She wanted to spare her mother from any anxiety.
 
+## serve
+* 자신의 생각을 일기장에 써본다면 도움이 된다고 말하면서 you serve yourself 라고 하였습니다. 이 표현은, 자신에게 도움이 되는 행위를 하다라는 뜻입니다. 여기에 if+문장을 넣어서 if 뒤를 할 경우, 너에게 도움이 될 것이다라고 구체적으로 표현해 주면 됩니다.
+	* 자기 전에 물 한잔 마시면 너에게 아주 좋을 거야. You would serve yourself if you drink a cup of water before going to bed.
+
 ## set
 * 비가 하루 종일 내릴 기세로 시작한 것 같았다. The rain seemed to have set in for the day. 
 * 그들이 기계에 시동을 걸었다. They set the machinery in motion. 
@@ -862,6 +902,10 @@
 ## shove
 * ~에게 ~을 억지로 강요하다 = shove something down someone's throat 별로 관심도 없는데 반복적으로 말하고, 무언가를 보여줌으로써 강요하는 것을 의미하는 표현입니다.  shove 가 [떠밀다] 라는 뜻이 있으니 목구멍(throat) 속으로 무언가를 억지로 떠먹여서 어쩔 수 없이 받아들이도록 하는 뉘앙스의 표현이에요.
 	* 네 신념을 나한테 강요하지 좀 마! ex) Stop shoving your beliefs down my throat!
+
+## square
+* square 가 가장 기본적인 의미로는 [정사각형] 을 의미하는데요. 정사각형은 모든 변이 같잖아요? 그래서 이 단어가 동사로 쓰일 땐 A square with B 처럼 쓰여서 [A와 B가 일치하다] 라는 의미를 가집니다.  영상에서는 이미 with 의 의미를 내포하고 있는 together 가 쓰였기에 with 는 쓰지 않았습니다.
+	* = 이 데이터는 그가 오늘 아침에 우리한테 설명한 거랑 맞지가 않는데. This data don't square with what he explained to us this morning.
 
 ## track
 * track 은 말 그대로 사람들이 따라가도록 나있는 [길] 을 의미하는데요. 무언가를 함에 있어서 목표를 향한 길에서 벗어나지 않고 잘 따라갈 때 on track 이라고 합니다. 제대로 된 방향으로 나아갈 때는 on the right track, 잘못된 방향일 때는 on the wrong track 이라고 하고요. 잠시 잘못된 방향으로 갔다가 다시 돌아왔을 때는 get back on track 이라고 할 수 있어요.
@@ -968,6 +1012,8 @@
 ## term
 * 조금 문제가 되는 사람, 사물, 상황 등을 이해하고, 받아들이고, 처리하려고 노력하는 것을 의미하는 표현이에요.  = come to terms with
 	* 넌 내가 얼마나 아멜리아를 이해하려고 노력해 왔는지 알잖아. ex) You know how much I've tried to come to terms with Amelia.
+* have a morning on one’s (own) terms = 자신의 방식대로 아침을 맞이하다 term/terms는 용어, 기간, 조건 등 뜻이 매우 다양한데 여기서는 ‘방식, 방법’으로 쓰였습니다. 같은 표현으로 in your own way 라고 할 수도 있습니다. 
+		* 네 인생이잖아. 너의 방식대로 해. It’s your life. You have to act on your terms. 
 
 ## water
 * 그는 새로운 일을 아주 자연스럽게 익힌다. She takes to new works like a duck to water . 

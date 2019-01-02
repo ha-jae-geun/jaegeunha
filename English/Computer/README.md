@@ -53,6 +53,7 @@
 * #win-win #lose-lose; 모두 손해 #no-lose; 손해볼 것 없는
 * 와이파이; DO you have Wifi?
 	* I'm not getting a signal. My Wi-Fi's so slow. The connection's unstable. Is there Wi-Fi here?
+* 유행이다; go viral; be all over the internet
 
 # 핸드폰
 * 터치감; Why is the touch screen so good?

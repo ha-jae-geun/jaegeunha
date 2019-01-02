@@ -1,3 +1,9 @@
+# 환경오염
+## footprint
+* 1) 원래는 '발자국' 이라는 뜻인데요. 환경 오염 문제가 심각해지면서 carbon footprint 라는 개념이 생겨나게 됩니다. '탄소 발자국' 이라고 해석이 되는 이 표현은 자동차, 선박, 공장 등이 뿜어내는 탄소의 양은 마치 누군가가 발자국을 내고 돌아다닌 것처럼 보이게끔 수치화 시켜놓은 것을 의미하는데요. 2) 지금은 환경 오염, 생태계 파괴, 자원 고갈과 관련하여 인간 활동이 환경에 미치는 '영향' 을 의미할 때 많이 쓰여요. 3) 영상에서의 meat footprint 는 직역하면 '고기 발자국' 인데, 실제 의미는 '육류 소비량' 정도가 됩니다.
+	* = 소위 조약이란 것들이 탄소 발자국을 줄일 수 있을지 잘 모르겠어. I don't know if any of the so-called protocols would reduce carbon footprint.
+	
+
 # 사막화
 * (1) Overgrazing (지나친 방목 -35%); (2) Deforestation (삼림벌채 - 30%); (3) Over-cultivation (지나친 경작 - 28%); (4) Overexploitation of fuel wood (지나친 땔나무 사용 - 7%); (4) Bio-industrial activities (농약과 비료 사용 - 1%). 
 [출처] 사막화(desertification)의 반대말이 green이라?|작성자 약장수 버스터

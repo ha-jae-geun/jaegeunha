@@ -1,4 +1,6 @@
 * 즉시, 당장; in a jiffy 미국식  영국식   단어장추가
+	* flat 은 아래의 [참고] 부분에 있는 것처럼 굉장히 많은 뜻을 가지고 있고 많이 쓰이지만, 영상에서처럼 [시간+flat] 을 쓰게 되면 형용사로 '딱 ~ 밖에' 시간이 걸리지 않았을 때, 그만큼 무언가가 놀랍게 빨리 발생했고, 단지 그 시간 밖에 걸리지 않았다는 것을 강조해 주기 위해서 쓰입니다.
+		* 집에 5분만에 도착할 거예요, 엄마. ex) I will be home in 5 minutes flat, mom.
 * 그때부터; we've been friends #since then = #ever since = #from then on
 	* 지금까지 알져지지 않은 종류의 나방 a hitherto unknown species of moth  ˌhɪðərˈtuː] 
 	* 처음부터; from day one
@@ -9,6 +11,8 @@
 	* 한달 뒤 어때; ho about a month from tonight?(one month later xx)
 * 노닥거릴 시간 아니야; THis is no time to fool around
 * 하루 아침에 되는거 아니야; It doesn't happen overnight
+	* have a morning on one’s (own) terms = 자신의 방식대로 아침을 맞이하다 term/terms는 용어, 기간, 조건 등 뜻이 매우 다양한데 여기서는 ‘방식, 방법’으로 쓰였습니다. 같은 표현으로 in your own way 라고 할 수도 있습니다. 
+		* 네 인생이잖아. 너의 방식대로 해. It’s your life. You have to act on your terms. 
 * 올해는 너의 해가 될거야; THis will be your year
 
 # 시간

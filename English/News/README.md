@@ -34,6 +34,8 @@
 * 분쟁에 합의하다; settle the dispute; for thirteen
 
 # 사회
+* 다치거나, 죽거나, 피해를 입거나, 무언가에 파괴될 때 모두 쓸 수 있는 표현으로 구어보다는 신문이나 뉴스 등에서 많이 볼 수 있는 표현입니다.
+	* = 수백만 명의 사람들이 온라인 신분 도용의 피해자가 됩니다. Millions of people fall victim to online identity theft.
 * 정부가 실시한 조사 결과에서 타났따; a government survey showed
 * LG 드럼 세탁기는 93점의 가장 높은 점수를 바닸다; The LG washer gained the highest score of 83
 * LG 세탁기는 세계 시장을 휩쓸고 있다; The LG washes are sweeping the global market

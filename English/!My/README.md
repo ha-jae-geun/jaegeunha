@@ -21,6 +21,10 @@
 * I said I would be ther as soon as I could
 
 # 접두어
+* 2) preferably = –면 더 좋다 / 가급적이면
+  * 나도 거길 가고 싶어, 가급적으면 여름이 더 좋겠네. ex. I'd love to go there, preferably in the summer.
+* now 와 that 이 함께 붙으면 접속사로 쓰이면 because 와 비슷한 역할을 합니다. now 가 붙었기 때문에 [이제 ~ 이니까] 를 의미해요. in that + 문장 = ~라는 점에서
+  * = 이제 하는 법을 알았으니까, 한 번 해볼래? Now that you know how to do it, you wanna give it a try?
 *  ~을 하지 않는게 좋을 거야. = You don't want to 상대방의 말이 듣는 사람이 듣기에 안 좋은 생각이라 말리고 싶을 때 쓸 수 있는 표현이에요. 직역하면 [그런걸 원해선 안돼] 니까요.
   * 야, 그렇게 안하는 게 좋을 거야. 진짜 별로인것 처럼 들린다. ex) Man, you don't want to do that. That sounds like a really bad idea.
 * 그것을 한 후엔 우리 모두 한 잔 생각이 간절할 거예요! I think we could all use a drink after that!; could use: 필요하다
@@ -140,6 +144,7 @@
 * 그러세요; Be my guest
 
 # 말투
+* = 그건 인정해요. I'll give you that. 
 * 폭풍우가 올 듯하다. A storm is brewing . 듣기 출처:동아 출판
 * 진짜 눈은 본 적이 없어서, 지금 이 순간이 의미가 커. I've never actually seen real snow, so this is a big moment for me; It means a lot to me; meaningful
 * 누가 이길[결과가 어떻게 될] 건지는 끝까지 두고 봐야 안다 it's not over until the fat lady sings 미국식  영국식   단어장추가
@@ -204,6 +209,10 @@
 * 이용자 참여  우리는 더 중요한 일이 있어.  We ' ve got bigger fish to fry . 듣기
 
 # 일상  
+* 단어가 조금 생소하거나 어려워 보일 땐 왠지 모르게 많이 안 쓰일 것 같다는 생각이 들 수도 있지만, impeccable 은 정말 많이 쓰이는 단어입니다.  ㅍ누군가의 행동이나 외모 등을 묘사할 때 완벽하고 결점이 없다는 것을 감탄하듯이 &lt;강조&gt;하기 위해 쓰는 형용사예요.
+  * = 밥의 매너는 흠잡을 데가 없어. Bob has impeccable manners.
+* 북한을 상대하는 것은 많은 다른 요인들이 작용하는 복잡한 일입니다. ex) Dealing with North Korea is a complicated matter with many different factors at play.
+* 우린 최악의 상황에 대비해야 해요. ex) We should be prepared for the worst/best case scenario.
 * 중독돼다; I got the bug
 * 똑같은 거 되풀이하지마; DOn't harp on the same string 
 * 이런 우연이 있나 what are the odds 미국식  영국식 

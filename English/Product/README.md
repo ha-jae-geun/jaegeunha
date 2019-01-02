@@ -47,6 +47,8 @@
 * 값싼 배터리들을 마구 생산해내고 있었다; The factory is pumping out too many graduates
 * 손님이 다 떠나가고 있잖아; YOu're driving away all the customers
 * 굉장히 싼 가격에 판다; are sold on the streets at rock-bottom prices
+	* 1) thrift 는 원래 [절약] 을 의미하는 단어인데요. thrift store/shop 은 [중고품 할인 상점] 을 의미합니다.
+		* I got all of these only for 10 dollars from a thrift store.
 	* 비싸다; cost an arm and a leg; fancy
 	* 과도한 비용/운임/수수료/가격/집세 exorbitant costs/fares/fees/prices/rents 
 	* 값어치가 어마어마하다; worth a fortune
@@ -54,6 +56,7 @@
 	* 뗴돈을 벌다; make a fortune
 	* 헐값으로 사다; I bought this car for a song.; 노래만 불러주고 가져오다;
 	* 가격에 대한 단어일 뿐만이 아니라 사람/사물의 성격을 나타낼 때도 부정적인 의미로 자주 쓰이는 표현이에요. 이런 부정적인 의미와의 연관성 때문에 어떤 광고에서는 Our product is not cheap. It's inexpensive. 라고 "저희 제품은 싼 게 아닙니다. 비싸지 않을 뿐이에요." 라는 광고 문구도 있었답니다.
+	* 명사와 함께 쓰이는 형용사이며 주로 상점, 식당, 호텔, 서비스 등이 저렴한 가격을 주력 상품으로 가지고 있을 때 쓰는 단어예요. 비슷한 표현으로 pocket-friendly 라고 하기도 합니다. = budget-friendly
 * 'cost'는 '비용이 들다'로, '주어 + cost + 사람 + 비용' 의 순서로 '주어를 사는 데에 (-의) 돈이 얼마 들었다' 라고 해석해요. 가령 'The shirt costs me 40 dollars.'는 '저 셔츠 사는데 (내 돈) 40달러 들었다, 썼다'라는 의미예요. 단순히 가격만을 이야기할 때는 'It costs 10 dollars'처럼 cost 뒤에 비용만 써도 됩니다.
 	* cost는 가격 뿐 아니라 시간, 노력, 대가 등 들어간 모든 결과물의 값을 말할 수 있어요.
 		* 그것 때문에 난 많은 힘이 들었다. It cost [cost의 과거형] me lots of labor. 

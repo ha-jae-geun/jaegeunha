@@ -16,6 +16,7 @@
 * 1) underdog은 ‘사회적 지위가 낮은 사람, 약자’를 의미합니다. 
 * 분위기 꺠는사람; buzzkill; i hate to be a buzzkill
 * 똑똑한 척 하는; fancy-pants(값비싼 바지) fancy-pants tool; 형용사 2. 멋쟁이; 
+	* boast: 지나친 자신감과 자기 만족감을 가지고 무언가를 자랑하는 것을 의미해요. 주로 자기가 성취한 것을 자랑할 때 많이 쓰입니다. brag 라는 말도 자주 쓰이는데요. brag 가 조금 더 부정적인 뉘앙스에요. boast 는 실제로 자랑할 만한 거리가 있을 때 하는 자랑일 수 있는 반면, brag 는 아무것도 없는데 말로만 자기 잘났다고 떠드는, 즉 [허풍을 떨다] 의 뉘앙스입니다.
 	* 허풍을 떨다; He's kind of larger than life
 	* 너무 자신만만해; She's so full of herself; bragging: 물건 자랑
 	* 잘난 척 하긴; SHow off; stuck up

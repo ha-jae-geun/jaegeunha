@@ -124,6 +124,8 @@
 * 퇴원하다; i was discharged from hospitals
 * 검역소; put in quarantine agency
 * #질병	#ailment, #illness, #disease - 질병 #malady
+  * 보통은 감염균에 노출되어 걸리게 되는 병과 함께 쓰이는 단어입니다. 암과 같이 스스로 진행되는 병의 경우엔 contract 를 쓰기도 하지만 develop 을 쓰는 게 조금 더 일반적이에요.
+    * = 여행 중에 그 병에 걸린 것처럼 보입니다. It looks like he contracted the disease during the travel.
 * #질병관리센터	#CDC; #Center for Disease control
 * 미국에서는 예약 없이 병원 못감
 * doctor: 대학/대학원/인턴/레지던트/의사 자격증 시험까지 다 통과한 사람
@@ -137,8 +139,8 @@
   수의사: veterinarian  [vètərənέəriən] = vet; 외과의사: surgeon
 * physician 의사, doctor 의사, surgeon 외과의, dentist 치과의사, patient 환자, medication 약물, fill the prescription 처방전을 발행하다, take medicine 약을 먹다, symptom 증상, signs 징후, * shot 주사, injection 주사, surgery 수술 #간호사 ##RN register nurse #RN; #right now
   * 주사를 놓다; give/make an injection
-  * 주사를 맞다; get some shots
-  * syringe 미국·영국 [sɪˈrɪndʒ]  They will take your blood with syringe.
+    * 주사를 맞다; get some shots
+    * syringe 미국·영국 [sɪˈrɪndʒ]  They will take your blood with syringe.
 * #밤샘 간호; #vigil
 * #건강검진 ; it’s good to get a #checkup #메스(수술용): scalpel [skǽlpəl]
 * #physical checkup = #medical exam

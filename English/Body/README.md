@@ -333,6 +333,7 @@ how dare you say such a thing #to my face
 	* [명사] 부비강(두개골 속의, 코 안쪽으로 이어지는 구멍) 막힌 부비강 blocked sinuses 
 * #보조개	dimple [‘dɪmpl]; have nice dimple
 * 팔자주름	smile lines, i've got smile lines
+* 왜 사람의 입냄새가 심할 때 kicking이라고 할까요? 사람의 입냄새는 공기중으로 스멀스멀 퍼지는 것이 아니라 갑자기 훅 들어오는 기분이죠? 그래서 뭔가 강하게 치는 느낌이라서 kicking이라고 표현하는 겁니다. 혹은 have a bad breath라고도 합니다! Seriously, your breath is kicking. Go brush your teeth.
 * 두꺼운 #입술 ##입 fuller lips full lips
 * 입술에 물집 I got blisters on my lip
 * #부르트게 만들다; #fat lip; give someone a fat lip; did she give that fat lip
@@ -661,6 +662,8 @@ has one's eye on ~
 * 눈 #감다; shall I steal your heart with my eyes #shut
 * 눈을 못뜨겠어 						 I can't keep my eyes open
 * 눈길을 #고정; he #fixed his look on my face
+	* * 휴대전화를 보면서 잠들고, 또 일어나자마자 휴대전화를 찾는 습관, 아마 현대인들 중에 이런 분들이 많을 것 같네요.  여기서 put eyes on 이 나왔는데요, ‘눈길을 주다, 눈을 돌리다’입니다. 대신 ‘보다(look)’라고 해도 되겠네요. 
+  * 너무 흉측하다. 눈길조차 주고 싶지 않아. That’s so hideous. I don’t even want to put my eyes on it.
 * 루앤이 눈을 찌푸리고 입술을 꽉 다문 모습을 보니
 When I saw Luanne’s eyes narrow and her lips squeeze together
 * 눈이 (시야가) 흐릿해졌다. 							 My vision was blurred. 
