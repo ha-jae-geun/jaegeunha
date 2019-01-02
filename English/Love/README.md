@@ -768,7 +768,8 @@ I have a big crush on you / I have a thing for you, i'm into you
  * ‘몇 주 후면 꽃들이 만발을 하기 시작할 거야. 	 Flowers will start blooming in a couple weeks.
  * ‘또 꽃들이 올해는 예상보다 빨리 만발을 했다	 Flowers are in bloom earlier than usual this year. 
  * 손 잡지 마 팔짱 끼지 마 끌어 안지 마
- * Don’t hold hands, don’t link arms, don’t hug each other
+ 	* Don’t hold hands, don’t link arms, don’t hug each other
+ 	* Holding his arm; Lock arms with me; with his arms crossed 
  * 설레지 마 심쿵하지 마 행복하지 마 내 눈에 띄지 마 ‘flʌtə(r) ’vɪƷn
  * Don’t have your heart flutter, don’t have a heart attack, Don’t come into my vision
  * ☆당신에게 완전 반했습니다. / 관심이 있습니다.

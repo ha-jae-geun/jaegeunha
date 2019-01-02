@@ -15,6 +15,9 @@
 	* "I want to have a full command of multiple languages."
 
 # 정치 그룹
+## OEDCD
+* 1961년 창설된 경제개발 협력기구; 37개 가입국 중 24개국 이상이 선진국으로 분류된다.
+
 ## 피그스 [ Portugal, Italy, Ireland, Greece, Spain ] 
 * 2008년 세계 금융위기 이후 심각한 재정위기를 겪고 있는 포르투갈, 이탈리아, 아일랜드, 그리스, 스페인의 첫 글자를 따서 만든 조어
 * * Created after the first letters of Portugal, Italy, Ireland, Greece and Spain suffering from severe financial crises since the global financial crisis in 2008

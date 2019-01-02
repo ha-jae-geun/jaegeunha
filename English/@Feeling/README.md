@@ -1754,6 +1754,8 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * 빙빙 돌리지 말고 말해 보세요. 		 Stop beating around the bush and get to the point. 
 * 이 사람이 제가 하지 않은 말을 했다고 하는군요. 		 He's putting words in my mouth. 
 * 오해하지 마세요. 							 Don't get me wrong. 
+	* 아, 그래요. 우리가 오해한 것 같아요. Oh , yeah . I think we got our wires crossed .
+	* 내가 널 잘못봤군; I was wrong about you
 	* 오해를 풀고 싶어요. 					 I want to clear up the misunderstanding. 
 	* 오해가 있는 것 같애; There seems to be a misunderstanding
 * 더 노력했더라면 좋았을 텐데... 						 If only I tried harder…
@@ -1869,3 +1871,7 @@ I am always overlooked(간과), never discount the contributions, put someone do
 # 주의
 * 어미가 모두 -ism으로 끝나는 단어들로 ‘~주의(主義)’를 의미합니다. 각각의 형용사는 cynical(냉소적인) / pessimistic(비관적인) / optimistic(낙관적인) 입니다.
 	* She always chooses optimism over pessimism.
+
+
+# 설레다
+ * 설레다 pit a pat = heart bounce, my heart goes pit a pit, you make my heart bounce, my heart flutter, I get butterflies, you give me butterflies

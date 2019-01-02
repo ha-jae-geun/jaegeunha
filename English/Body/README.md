@@ -56,6 +56,7 @@
 	* 눈 깔아; Eyes down; keep your eyes down; Lower your gaze
 * #속눈썹 #눈썹 연장했어 I got #eyelash extensions
 	* 눈싸움 해주실 수 있나요; Can you gus have a staring contest?
+	* 째려보다; They looked daggers at each other
 * fill in the brows, 속눈썹: false lashes, fake eyelashes
 * 나 눈썹 #문신했어 I got my eyebrows tattooed
 * he has a tatto on his arm <> he had a tattoo removed; got it tatted on me
@@ -735,6 +736,7 @@ in the face of something
 * ~라고 들었어 ##i heard 1. 허r디스 2. 허r리스 = I was told
 I’m told
 * 귀가 먹먹했어요; THis ear's all blocked
+	* 귀를 기울이다; He strained his ears
 	* 우리는 그가 창 밖에서 엿듣고 있는 것을 잡았다. We caught him eavesdropping outside the window. 
 	* 귀지 ear wax
 	* 한마디도 안 놓치려고 그녀는 귀를 쫑긋 세웠다. She pricked up her ears not to miss a word. 

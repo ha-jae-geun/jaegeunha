@@ -38,6 +38,8 @@
 	* 우등생도 아니었어; i never was a scholar
 * 4~5교시 사이; it was middle of forth and fifth period
 * 남녀 공항; coed, co-educational
+	* 남학교: a boys' school; 
+	* 여학교: girls' (middle/high) school
 * ~과; Department of korean language/philosophy
 * 그녀는 세무학을 전공했어.;  She majored in Taxation.
 	* 제 전공은 물리학이고 부전공은 중국어입니다 I have a major in physics with a minor in Chinese.

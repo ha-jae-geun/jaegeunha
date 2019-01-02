@@ -203,6 +203,10 @@
 * 이용자 참여  우리는 더 중요한 일이 있어.  We ' ve got bigger fish to fry . 듣기
 
 # 일상  
+* 중독돼다; I got the bug
+* 똑같은 거 되풀이하지마; DOn't harp on the same string 
+* 이런 우연이 있나 what are the odds 미국식  영국식 
+* 등돌리다; will not turn against you; You turned my own son against me; My back is to the camera; You can turn your back on me
 * 조류/야생 동물 보호구역 a bird/wildlife sanctuary 
 * : 그럼 대신 옛정을 생각해서 너 하고 사귈 기회라도 있을까? But is there any chance you'd go with me instead, for old times' sake? 'For old times' sake' : 옛정을 생각해서.
 * 따로 설명이 필요 없어; Pretty self-explanatory

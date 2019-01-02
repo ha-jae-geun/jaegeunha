@@ -1,5 +1,7 @@
 * working day / Calender day / Banking day
 * New Years' Eve; -의 전날, 바로 직전
+	* May the comming year bring you good luck and happiness
+	* Season's greetings and best wishes for next year
 
 # 크리스마스
 * 크리스마스의 행운을 빌어요. With best wishes for Merry Christmas. 

@@ -1,3 +1,6 @@
+# 전기차
+* 단거리: 전기차, 중거리: 하이브리드, 장거리: 수소연료전지차
+
 # IIHS
 * Insuarance Institute for Highway Safety; 미국 고속도로 안전보험협회 
 

@@ -196,6 +196,7 @@
 * ☆close with someone; are you close with someone
 ---------------
 * 「전화」##전화# #daytime phone number; 낮 동안의 전화번호 
+* be on the phone with N, put 사람 on the phone, hold on/ hang on: 기다리다; hang up on: 끊다; stay on the phone with you; get on the phone: 전화하다
 * Be on the phone 
 * I am / Was on The Phone Right Now 
 * I Think She is on the phone right Now 

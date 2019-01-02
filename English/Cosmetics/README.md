@@ -15,6 +15,7 @@
 * 끝을 그리다가 살짝 망한 것 같을떈; If the wing's ruined
 * 화장이 잘 안받는것 같애; i think my makeup is not blending in
 * 푸석푸석해; i have dry skin; The weather is drying my skin
+	* 피부가 당기고 건조한 것 가태요; My skin feels unusually tight and dry
 * 피부 탄력이 없어진것 같애; my skin is loosing its elasticity; ˌiːlæˈstɪsəti;ˌelæ-;ɪˌlæ-]
 * 각질이 너무 생겨; i am getting dry spots
 	* * 각질 제거하다; exfoliate 미국식 [-ˈfoʊ-]  영국식 [eksˈfəʊlieɪt

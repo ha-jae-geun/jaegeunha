@@ -9,6 +9,7 @@
 	* 한달 뒤 어때; ho about a month from tonight?(one month later xx)
 * 노닥거릴 시간 아니야; THis is no time to fool around
 * 하루 아침에 되는거 아니야; It doesn't happen overnight
+* 올해는 너의 해가 될거야; THis will be your year
 
 # 시간
 * ‘당신은 이제 너무 과거다’라는 말은 이제 당신의 시대는 갔다, 이제 당신은 한 물 갔다는 의미입니다. 혹은 단순히 ‘구식이다’라는 뜻도 되죠.
