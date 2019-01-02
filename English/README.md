@@ -102,6 +102,9 @@
 * 시크한 양이 https://m.blog.naver.com/PostList.nhn?blogId=twinkleannie85
 * 오디너리 소피 https://m.blog.naver.com/PostList.nhn?blogId=sofa1015
 * 1stop 코리아 https://m.blog.naver.com/PostList.nhn?blogId=1stopkorea
+* 주한영국문화원 https://m.blog.naver.com/PostList.nhn?blogId=britishcouncilkorea
+* 길벗이지톡 https://m.post.naver.com/my.nhn?memberNo=33159364
+* 612 어학원 https://m.blog.naver.com/PostList.nhn?blogId=wlq1052&currentPage=1
 * 한국번역연구소 https://blog.naver.com/ktri8888
 -----------------------------------------------------------------------------
 * 빌보드 https://www.billboard.com/charts/hot-100#/charts/hot-100

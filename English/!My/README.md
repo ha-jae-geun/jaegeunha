@@ -140,6 +140,7 @@
 * 그러세요; Be my guest
 
 # 말투
+* 폭풍우가 올 듯하다. A storm is brewing . 듣기 출처:동아 출판
 * 진짜 눈은 본 적이 없어서, 지금 이 순간이 의미가 커. I've never actually seen real snow, so this is a big moment for me; It means a lot to me; meaningful
 * 누가 이길[결과가 어떻게 될] 건지는 끝까지 두고 봐야 안다 it's not over until the fat lady sings 미국식  영국식   단어장추가
 * 다 잘될거야; Things will work out. Everything will work out.
