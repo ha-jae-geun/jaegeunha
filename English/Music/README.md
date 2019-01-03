@@ -2,6 +2,7 @@
  * 미국에서 가장 권위 있는 보도•문학•음악상.
 
 # 악기
+* 연주 시작해; Hit it
 * 아일랜드 밴드에서 바이올린을 연주하ㅏㄷ; She played the fiddle in an Irish band
 * 드럼 스쿠떙 스쿠땡 (라이드 치고 헤드 쳐)
 * 기타를 요리조리 현란하게 연주하다; shred up and down a guitar

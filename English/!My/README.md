@@ -144,6 +144,7 @@
 * 그러세요; Be my guest
 
 # 말투
+* = 오래된 습관은 좀처럼 바뀌지 않는다. ＊ Old habits die hard.
 * = 그건 인정해요. I'll give you that. 
 * 폭풍우가 올 듯하다. A storm is brewing . 듣기 출처:동아 출판
 * 진짜 눈은 본 적이 없어서, 지금 이 순간이 의미가 커. I've never actually seen real snow, so this is a big moment for me; It means a lot to me; meaningful
@@ -208,7 +209,19 @@
 * 등... 등잔 밑이 어둡다? The beacon does not shine on its own base? 
 * 이용자 참여  우리는 더 중요한 일이 있어.  We ' ve got bigger fish to fry . 듣기
 
-# 일상  
+# 일상 
+* 지도에서 제 위치를 못찼겠어요; I can't find myself on the map
+* 어디 아프다; my back hurts; - hurt
+* 무슨 속셈이야; What's your angle? 
+* i'm under the gun; 스트레스 받는 중이야
+* 그 후로 일이 잘못되기 시작했다. After that, things started to go haywire.
+* 잘한다; That's the spirit
+* 예의바르게 행동해 mind your Ps and Qs  
+* 너 볼장 다 봤어; The jig is up
+* 장담하지; i'll eat my hat
+* 말도 안돼; shut the front door
+* 그는 끊임없이 TV 코미디의 한계를 초월하는 연예인이다. e is a performer who consistently pushes the envelope of TV comedy. 
+* 자책하다; we beat ourselves up 
 * 단어가 조금 생소하거나 어려워 보일 땐 왠지 모르게 많이 안 쓰일 것 같다는 생각이 들 수도 있지만, impeccable 은 정말 많이 쓰이는 단어입니다.  ㅍ누군가의 행동이나 외모 등을 묘사할 때 완벽하고 결점이 없다는 것을 감탄하듯이 &lt;강조&gt;하기 위해 쓰는 형용사예요.
   * = 밥의 매너는 흠잡을 데가 없어. Bob has impeccable manners.
 * 북한을 상대하는 것은 많은 다른 요인들이 작용하는 복잡한 일입니다. ex) Dealing with North Korea is a complicated matter with many different factors at play.

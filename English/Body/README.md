@@ -54,6 +54,7 @@
 * the armpit of something; 가장 지저분한 곳
 * #근시; 근시인 사람들은 안경을 쓰도록 요구된다. People who are shortsighted are requested to wear glasses. 
 	* 눈 깔아; Eyes down; keep your eyes down; Lower your gaze
+	* avert 는 기본적으로 돌아서거나 무언가를 피할 때 쓰는 단어에요. 그래서 재난 등을 피할 때도 이 단어를 쓸 수 있는데요. 시선을 돌리거나 피할 때 eyes 대신 gaze 를 쓰기도 합니다. She averted her eyes from me.  [əˈvɜːrt] 
 * #속눈썹 #눈썹 연장했어 I got #eyelash extensions
 	* 눈싸움 해주실 수 있나요; Can you gus have a staring contest?
 	* 째려보다; They looked daggers at each other
@@ -79,7 +80,7 @@
 * 나는 머리카락이 얇아 				My hair is too fine.
 * 구리빛 피부	tanned tone
 * 앞머리, 옆머리, 뒤머리	back hair / forelock이나 bangs(미), fringe(영) / side hair [‘fɔ:rlɑ:k] frɪndƷ
-* 앞머리 새로 자랐어요	My fringe is new
+	* 앞머리 새로 자랐어요	My fringe is new
 * 머리 경계선	hair line 
 * #층 내다	I would like to have #layers
 * 가르마	part, parting

@@ -66,7 +66,7 @@
 * 요새는 찾아 볼 수 없지만, 예전에는 버스를 탈 때 동그란 모양의 토큰(token)을 사용했었죠. 버스비를 지불했다는 ‘표시, 징표’의 역할을 했습니다. 이처럼 토큰은 실물이 아닌 표시에 불과하다고 해서 ‘명목상인, 시늉에 불과한, 형식적인’이라는 형용사적 의미를 가지고 있어요. 영상에서도 사회에 기여를 하고 싶다면 별 의미없고(meaningless) 형식에 불과한 방식으로 해야 우리가 더 불행에 가까워질 수 있다고 조언해주고 있습니다. (실재로는 그 반대로 해야 하겠죠?^^) * in meaningless token ways = 의미없고 허울뿐인 방식으로
   * 정부는 전쟁 피해자들을 돕겠다는 형식적인 제스처만 취해왔다. The government has only made a token gesture towards helping the war victims.
 * 타이트하게 짜여진 옷 처럼, 가족 같은 관계에 의한 유대감이나 공통된 관심사 등에 의해 생긴 유대감이 강할 때 쓰는 형용사 입니다.
-  * 난 유대감이 강한 합창단에서 멋진 사람들을 매주 만나. ex) I meet amazing people every week in a tight-knit choir.
+  * 난 유대감이 강한 합창단에서 멋진 사람들을 매주 만나. ex) I meet amazing people every week in a tight-knit choir.  
 * 단어 안에 신뢰 (trust) 라는 단어가 들어가 있으니, 누군가를 믿고 맡기는 것을 의미합니다. 영상에서는 [투자하다] 라고 해석이 되었어요.
   * 왜 그렇게 많은 돈을 맡긴 거야? ex) Why did you entrust that much money to him?
 * : 직역하면 '커튼 뒤에서'라는 뜻인데, '보이지 않는 곳에서, 배후에, 비밀리에'라는 의미를 나타내죠~

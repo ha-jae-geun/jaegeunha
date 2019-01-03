@@ -23,6 +23,8 @@
 ------------
 * 죽여버리겠어; I'll tear you to pieces; tear - to pieces
 * 우리말에도 어떤 사람에 의해 죽었다고 할 때 ‘~의 손에 죽다’라고 하는 것처럼 영어에도 die at the hands of~면 “~의 손에 죽다”가 됩니다. die at someone’s hands도 같은 표현입니다.  The king died at the hands of an assassin.
+* 조금 풀어서 말하면 pretend to be dead 라고 할 수도 있는데요. 쉽게 play dead 라고 하시면 됩니다. 
+	* = 총격이 시작되었을 때 누군가 우리에게 죽은 척하라고 했어요. Someone told us to play dead when the shooting started.
 ------------
 * 안락사를 시켜야했어요; I have to put him to sleep
 * 아버지가 돌아가셨어요; i jsut lost my dad; my dad just died

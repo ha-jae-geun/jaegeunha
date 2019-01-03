@@ -1805,6 +1805,7 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * 좀 피곤하네. 							 난 좀 ~해 I’m kind of tired. 
 * 이건 완전히 생각지도 못한 거야. 		 이건 완전히 ~야 This is totally unexpected. 
 * 우리가 져서 실망했어. 					 	 I’m disappointed that we lost. 
+	* 자책하다; we beat ourselves up
 	* 그녀는 그 결과에 실망[경악]을 감추지 못했다. She could not hide her dismay at the result. 
 	* 실망스러운 일이다; That's a real downer
 	* 꽤나 실망하죠; She is pretty gutted

@@ -14,6 +14,7 @@
 * 졸업생만이 아닌 전교생의 사진을 모아 희망하는 학생에게 판매; 테마를 잡아 옷을 입기도 하고 앨범 받는 날에는 친한 친구들끼리 롤링페이퍼처럼 메시지를 적어 주는 문화가 있다.
 
 # 대학
+* 이번 주에는 우리 집 아이들이 점심을 싸 가고 있다. My kids have been brown-bagging it this week. 
 * 대학생; college student(university student 잘 안씀)
 * 상, 수상 award 는 ‘상을 주다’ 혹은 명사로 ‘상’입니다. ‘상을 받다’라고 할 때는 [be awarded the prize] 혹은 [get/win the award] 라고 해주세요. 
 	* 그들은 제니에게 일등상을 주었다. They awarded the first prize to Jenny.

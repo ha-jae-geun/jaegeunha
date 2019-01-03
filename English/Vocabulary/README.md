@@ -168,6 +168,9 @@
 * : 당신이 오늘밤 데이트를 신청해줘서 너무 기뻐요. I'm really glad that you asked me out tonight
 * : 조사해 봐. Ask around
 
+## angle
+* 무슨 속셈이야; What's your angle? 
+
 ## ball
 * ball 은 [공] 이 아니라 [무도회] 라는 뜻으로도 쓰여요. 한마디로 파티니까, 파티를 할 때 즐거운 모습에서 나온 속어 입니다. = have a ball
 	* 한 시간 정도 더 머물러도 될 것 같아. 애들이 진짜 재밌게 노네. ex) Maybe we can stay here one more hour. The kids are having a ball.
@@ -258,6 +261,10 @@
 * as 가 엄밀히 따지면 전치사이기 때문에 뒤에 명사가 나와야 하지만, 영상에서처럼 사람의 성격을 나타내는 형용사가 혼자 오기도 합니다. = come across as ~ as 가 엄밀히 따지면 전치사이기 때문에 뒤에 명사가 나와야 하지만, 영상에서처럼 사람의 성격을 나타내는 형용사가 혼자 오기도 합니다.
 	* 그가 처음엔 진짜 똑똑한 사람 같은 인상을 줬어. ex) He came across as a really smart person at first.
 
+### come along
+* 계획은 지금까지 잘 되어가고 있어요. The plans are coming along very well . 듣기 출처:능률교
+* 우리하고 같이 뉴욕 양키즈 경기 구경가지 않을래? Are you coming along with us to the New York Yankees game ? 듣기 출처:능률교육
+
 ## charge
 * 짐을 올리는 라틴어 어원 -> 짐을 채우고, 그게 임무/책임를 다하는 느낌; 맞서 싸워라 돌격하라
 * YOu must pay the fine;
@@ -285,6 +292,17 @@
 * 안구정화 상대; 외모는 그럴싸하지만 지적으로 혹은 깊이는 없는 상대; eye candy
 * 귀여운 아기; is as sweet as pie
 
+## crystal
+* [결정체, 수정] 을 crystal 이라고 하죠. 그것의 동사형입니다. 원래 액체인 꿀이 냉장고에 넣으면 딱딱해져 결정이 생긴다는 의미입니다. 
+	* 밤새 창문에 붙었던 눈이 수정처럼 얼어 굳어있었다. Ice had crystallized on the window pane overnight.
+* 전치사는 함께 쓰이는 동사나 문맥 등에 따라 그 뜻이 수만가지라고 볼 수 있는데요, crystallize on you 에서 [on 사람] 은 [가 있는데 불쾌한 일이 발생한] 을 의미합니다. 
+	* - It tends to crystallize on you. 결정이 생기는 불상사를 맞게 됩니다.
+	* - It tends to crystallize. 결정이 생깁니다.
+
+## die
+* diehard / die-hard = ⓐ완고한, 골수파인, 보수적인
+	* 그녀는 키아누 리브스의 골수팬이야. She’s a diehard fan of Keanu Reeves.
+
 ## dig
 * 듣는 사람의 가슴을 후벼파는 (dig) 말을 하는 뉘앙스 입니다. 그 사람에 대해 부정적인 말을 하며 빈정대고, 놀려대고, 귀에 거슬리는 말을 하는 것으로 take/have a dig at 이라고 표현하기도 해요. = dig at
 	* 너희들 걔 좀 그만 놀려먹을래? 거슬려. ex) Can you guys stop digging at him? It bothers me.
@@ -305,6 +323,9 @@
 * 귀를 기울이다; Can you lend me your ears?
 * 그는 그 소문들을 귀담아듣지 않았다. He turned a deaf ear to the rumours. 
 * 그들은 내가 하는 모든 말을 그냥 한쪽 귀로 듣고 한쪽 귀로 흘려버려. Everything I tell them just goes in one ear and out the other. 
+
+## flesh
+* 그는 TV에서보다 실물이 훨씬 잘생겼어. He ' s much better handsome in the flesh than on TV . 예문 발음듣기 출처:능률교육
 
 ## find
 * 몰랐던걸 알게되는 그림(물리적, 추상적 모두 포함); 궁극적으로 내가 되는것
@@ -406,6 +427,9 @@
 * : 하지만, 어쨌든 간에 한 번 해보죠. But we're gonna go for it anyway.
 
 
+### go around
+* 모퉁이를 돌아가면 우체국을 찾을 수 있을 것이다. You will find the post office going round the bend. 
+* 미치다; go round the bend/twist; I'll go round the bend!
 
 ## go
 * 멀어지는 느낌 == from 
@@ -613,6 +637,9 @@
 * : 네 자신에 집중하기나 해 Just give yourself up; Give oneself up' : 자기자신에 집중하다.
 * : 난 그 사람과 헤어지고 싶지 않아요. I don't want to give up on him. Give up on someone' : 와 관계를 끊내다. 종료하다.
 
+## hear
+* (특히 연설 중에 맞장구치는 말로) 옳소! 옳소! hear! hear! 미국식  영국식   단어장추가
+
 ## hot 
 * 뜨거운 감자; Iraq is a hot potato to the Unitied States
 * 온상; 그 지역은 범죄의 온상이었다. The area was a hotbed of crime. 
@@ -638,6 +665,9 @@
 * home: 집일 수도 있고 어디든 편안함을 느끼는 장소
 * house party가 그래서 맞음
 * home party는 장소가 불분명해짐
+
+## hair
+* (화가 난 상대방에게 하는 말로) 진정해라 keep your hair on 미국식  영국식   단어장추가
 
 ## head
 * 머리부터 내밀고 무언가를 들이박는 뉘앙스의 표현이에요. 영상에서는 문장의 제일 끝에서 부사로 쓰였고, 형용사로도 쓰일 수 있습니다. 차 사고에서 정면 충돌 또한 head-on collision 이라고 합니다.
@@ -673,6 +703,10 @@
 
 ### hang on
 * : 잠깐만요. Hang on; Hang on a second.
+
+
+## juice
+* 고기를 뜨거운 기름에 빨리 튀겨서 육즙이 나오지 않게 하세요. Fry the meat quickly in hot oil to seal in the juices.
 
 
 ## look
@@ -906,6 +940,11 @@
 ## square
 * square 가 가장 기본적인 의미로는 [정사각형] 을 의미하는데요. 정사각형은 모든 변이 같잖아요? 그래서 이 단어가 동사로 쓰일 땐 A square with B 처럼 쓰여서 [A와 B가 일치하다] 라는 의미를 가집니다.  영상에서는 이미 with 의 의미를 내포하고 있는 together 가 쓰였기에 with 는 쓰지 않았습니다.
 	* = 이 데이터는 그가 오늘 아침에 우리한테 설명한 거랑 맞지가 않는데. This data don't square with what he explained to us this morning.
+* 이 제안이 받아들여지지 않으면 우리는 원점으로 되돌아가게 될 것이다. If this suggestion isn’t accepted, we’ll be back to square one. 
+
+## spew
+* 1. 뿜어내다, 분출하다  2. 뿜어져 나오다, 분출되다  3. (비격식) 토하다  spew out 이라고 많이 쓰이는데요. 발음은 '스퓨' 정도로 해요. 많은 양의 무언가를 빠르고 힘 있게 뿜어내는 것을 의미합니다. 
+	* = 무슨 일이 일어난 건지 모르겠어요. 그냥 운전하기 시작했는데, 차가 갑자기 어두운 연기를 뿜어냈죠. I don't know what happened. I just started driving and the car suddenly spewed out dark smoke.
 
 ## track
 * track 은 말 그대로 사람들이 따라가도록 나있는 [길] 을 의미하는데요. 무언가를 함에 있어서 목표를 향한 길에서 벗어나지 않고 잘 따라갈 때 on track 이라고 합니다. 제대로 된 방향으로 나아갈 때는 on the right track, 잘못된 방향일 때는 on the wrong track 이라고 하고요. 잠시 잘못된 방향으로 갔다가 다시 돌아왔을 때는 get back on track 이라고 할 수 있어요.
