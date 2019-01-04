@@ -29,6 +29,7 @@
 * 평범한 건 원하지 않아요; We don't want the standard
 * 추종자들이 있는 권위자, 전문가; guru; 흰두교에서는 종교적 스승, 지도자   expert: 사람들의 전중ㅇㄹ 받는 전문가
 * 그는 독보적이다; He's a one of a kind
+	* phenomenon = 현상 / 대단한 인물, 경이로운 것
 	* 최고에요; She's a top shelf lady
 	* a renaissance man = 다재다능한 사람 well-rounded person, jack-of-all-trades
 		* : 여러 방면에 재주가 있지만 뛰어난 한 가지가 없는 사람  [jack of all trades, master of none]

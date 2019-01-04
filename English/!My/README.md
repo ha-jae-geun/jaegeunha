@@ -79,6 +79,8 @@
 * 분명히/확실히 말하자면요. = Let me be clear.  상대방의 말을 믿기 어렵거나 한번 더 확실히 하고 싶을 땐, Let me get this straight 라고 말할 수 있습니다.
 
 # 질문
+* 이전에 한 약속이 여전히 유효한지 확인할 때 쓰는 표현이에요. Are you still up for dinner?
+* 자신의 능력을 증명해보인 뒤에 '이제 나에 대한 생각이 좀 바뀌었어?' 혹은 '내 실력 어때?' 라는 뜻으로 쓰이는 비격식적 표현이랍니다.상대방 의견이 틀렸음을 증명하고 자랑하듯이 쓸 수 있는 표현이죠! I got an A on the exam. How do you like me now?
 * 일반적인 왜; Why; 무엇 때문에; What for(목적을 물어봄); 도대체 왜(why보다 강한 어투; 의아함)How come
 * 뭐해, What are you up to? 뭐하면서 지냈어; What have you been up to today?
 * 왜이렇게 오래걸려? WHat's taking so long?
@@ -104,6 +106,7 @@
 * 무슨일이지? What gives?
 
 # 대답
+* 맙소사! 완전 엉망진창이군! Good grief! What a mess! 
 * 1) 자신이 알고 있는 사실, 또는 의견을 얘기할 때 상대방이 기분 나빠할 수도 있는 경우 쓸 수 있는 말입니다.   2) 영상에서는 해당 유튜버가 개인적으로 좋아하는 "저스티스 리그 인터내셔널" 이라는 시리즈가 영화로 같이 나왔으면 좋겠다- 라는 의견을 말하며, 일부 시청자들이 동의하지 않을 수도 있기에 I'm just saying 을 붙였다고 볼 수 있습니다. 그냥 그렇다는 거지 
 * 1) Granted : 문장 전체를 꾸미는 부사로 쓰였어요. '인정해요, 사실이에요, 그래요' 라는 뜻으로, 하려는 말에 반대되는 어떤 지점을 짚어줄 때 쓸 수 있어요.
   * 인정해, 누구도 완벽할 순 없지. 근데 내가 하려는 말은 ~라는 거야. [ex] Granted, nobody's perfect, but my point here is that ~
@@ -144,6 +147,7 @@
 * 그러세요; Be my guest
 
 # 말투
+* 첫 단추를 잘 꿰야 한다; Get off on the right foot
 * = 오래된 습관은 좀처럼 바뀌지 않는다. ＊ Old habits die hard.
 * = 그건 인정해요. I'll give you that. 
 * 폭풍우가 올 듯하다. A storm is brewing . 듣기 출처:동아 출판
@@ -210,6 +214,11 @@
 * 이용자 참여  우리는 더 중요한 일이 있어.  We ' ve got bigger fish to fry . 듣기
 
 # 일상 
+* 아래 방향으로 운영한다; It runs downhill in the morning
+* 셔틀버스를 운영하다; run a shuttle bus service
+* 제가 날짜를 혼동했습니다; i'm mixed up the dates
+* 아빠는 파카로 내 몸을 감싸주었따; my dad bundle me up in his down parka
+* 조금만 먹을거야; i will try a bit / i'll have a little bit
 * 지도에서 제 위치를 못찼겠어요; I can't find myself on the map
 * 어디 아프다; my back hurts; - hurt
 * 무슨 속셈이야; What's your angle? 

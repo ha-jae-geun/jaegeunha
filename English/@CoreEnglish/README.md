@@ -4,6 +4,7 @@
 * antonym
 * acronym
 -----
+* france;  [frǽns]  Jordan dƷɔ́:rdn]  japan 미국·영국 [dƷəpǽn]
 * 수제자; pupil; i keep trying to be your star pupil; pupil: (초, 중,생같은 어린 학생); 퓨플발음
 * It's on the table; 미국 '언' 발음; 영국, 호주: '온'에 가까운 발음
 * the southeaster U.S state of Florida; U 강조, Florida; 플로+르다(약하게)

@@ -19,7 +19,7 @@
 * She goes out jogging #in all weathers. 그녀는 비가 오나 눈이 오나 조깅을 한다.
 * 계절 중 봄이 제일 즐겁다 			 Spring is the most peasant of all the season
 * 곧 #맑아질거야 								 it’ll clear up soon
-* *맑다 it’s clear as a #bell
+* 맑다 it’s clear as a #bell
 * #선선하다; it is #pleasantly cool
 * #상쾌하다; the weather is #crisp
 * #궂은 날씨 in·clem·ent ; inclement weather conditions
@@ -27,6 +27,8 @@
 * 계절에 안 맞게 추운 날씨야; it's #unseasonably cold day
 * 계절을 #타다; winter #affects me a lot
 * #unseaonably; #계절에 맞지 않게
+* 무대 위로 한 줄기 빛이 비쳤다 A beam of light shone down onto the stage . 듣기 출처:능률교육
+	* the sun is beaming down on you
 
 
 # 눈
@@ -85,14 +87,16 @@
 * #눈이불; #blanket of snow
 * #성에 제거기; #ice scraper
 * #첫 눈 						we had a first snowfall this year
-*  It has #Piled up
-* 눈이 왔다 	 it's snowing a lot, It's snow(ed) a lot today, a lot of snow was falling today
-* #진눈깨비 #sleet 미국·영국 #ice rain [sli:t]; a sleet storm 
-* #눈송이; #frosted flakes
-* #폭설; The road is blocked from[due to] snow(storm)
-* #무릎ᄁᆞ지 오는; #knee-deep; the snow was knee-deep in my town
-* 오늘은 집에 있자. 리조트에 가서 우리가 눈 때문에 꼼짝도 못하는 건 싫어. #snow in
-* Let's stay home today. I don't want us to be snowed in at the resort.
+	* 얕게 쌓인 눈; There is a thin layer of snow on the groud <> thick lyer
+	*  It has #Piled up
+	* 눈이 왔다 	 it's snowing a lot, It's snow(ed) a lot today, a lot of snow was falling today
+	* #진눈깨비 #sleet 미국·영국 #ice rain [sli:t]; a sleet storm 
+	* #눈송이; #frosted flakes
+	* #폭설; The road is blocked from[due to] snow(storm)
+	* #무릎까지 오는; #knee-deep; the snow was knee-deep in my town
+	* 녹다; THe snow melted
+	* 오늘은 집에 있자. 리조트에 가서 우리가 눈 때문에 꼼짝도 못하는 건 싫어. #snow in
+		* Let's stay home today. I don't want us to be snowed in at the resort.
 * 계속 하면 #동상 걸릴 수 있어.. 				You may get frostbite if you go on. 
 * #춥다; it's quite #cold out
 * #cut through one's skin; the wind is cutting through your skin

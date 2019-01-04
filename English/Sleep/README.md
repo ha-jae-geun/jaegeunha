@@ -48,6 +48,7 @@ I had sleep #paralysis
 * sleep down; 여기 아래서 잤어?; would you sleep down here?
 * #잠꼬대 							 You talked in your sleep.
 	* #코골이 do you #snore? 이갈이 do you #grind your teeth in your sleep?, #잠꼬대 Do you talk in you sleep?, #몽유병 I walk in my sleep
+		*  He snores terribly; a loud snore
 		* talk in one's sleep
 	* 시끄럽게 자는 사람의 표본이에요; i'm a classic noisy sleeper
 	* 잠꾸러기; sleepyhead

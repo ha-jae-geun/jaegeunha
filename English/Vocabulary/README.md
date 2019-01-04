@@ -206,6 +206,10 @@
 * 물리적인 공간에서 탈출하는 것과 어려움이나 제약, 또는 불쾌함을 주는 사람에게서 벗어나는 상황에서 둘 다 쓸 수 있는 표현입니다. 또한 장치의 일부가 떨어져 나갈 때 쓸 수도 있어요.
 	* 난 걔가 가족들로부터 벗어나면 행복해할 거라고 생각해. ex) I think he would be happy if he breaks free of his family.
 
+### break down
+*  테드는 그 사고를 다시 머릿속에서 경험했을 때 흐느끼며 무너져 내렸다. Ted broke down sobbing as he relived the accident.
+
+
 ## bring
 * bring it on은 우리말로 ‘덤벼’로 번역되는데, 풀어 설명하면 ‘너가 가진 것이 무엇인지 내놔봐라’라는 의미입니다. 너가 가진 것, 즉 너의 능력/배짱/힘 등이 얼마나 되는지 한 번 볼 테니 꺼내 보이라는 겁니다. 혹은 특정한 대결 상대가 없이, 힘든 상황이나 도전적인 일을 맞이할 준비가 되었다고 할 때도 Bring it on!이라고 합니다. 그 힘든 상황이 나에게 무엇을 가져다 주던 간에, 나는 준비가 되었다는 뜻입니다. 
 * : 나를 다시 복귀시키지 않는다면, 나도 어쩔 수가 없어요, 난 당신을 고소할 수 밖에 없어요 If you don't bring me back, I'm gonna have no choice, I have to sue you
@@ -216,6 +220,7 @@
 	* : VT-1에 그것을 띄워 봐. Bring it up on VT-1; 모니터나 디스플레이 화면에 정보를 띄운다는 의미 입니다.
 	* : 우리가 직접 들고 올라가야 할 것 같은데 I guess we'll just bring it up by ourselves Bring up' 은 물건이나 사람을 물리적으로 위로 들어올리거나 끌어 올린다는 의미 입니다.
 	* : 당신이 내 근처로 올라 왔으면 좋겠어요, 벡키 옆으로요. I'd like to bring you up to my area, next to Becky.
+* bring down barriers: 벽을 허물다, 장벽을 없애다.
 
 ## buck
 * 돈을 좀 더 벌려고 주말에는 식당에서 일하고 있어. ex) I'm working at a restaurant on the weekends to make an extra buck.
@@ -316,6 +321,10 @@
 * ※ end up in + 장소 / here / there … : 행동이 아닌 '어떤 장소에 우연히 도달하다'라고 말하고 싶다면, 요렇게 표현해보세요!
 	* 내가 어쩌다 여기까지 오게 됐지? [ex] How did I end up here?; [ex] He ended up in jail.
 
+## ever
+* ever가 접두사처럼 단어 앞에 붙으면 '언제나, 항상'이라는 의미가 더해지게 됩니다.
+	* ever-active: 항상 활동적인 ever-growing: 항상 자라나는 ever-changing: 항상 변화하는
+		* 우리 할머니께는 늘 활발하시다. [ex] My grandma is ever-active.  계속 증가하는 인구 수가 문제가 되고 있다. [ex] The ever-growing number of population is becoming a problem; 우리는 계속 변화하는 세상에 적응해야 한다. [ex] We need to get used to the ever-changing world.
 
 ## ear
 * 상황을 보아가며 결정하다; play it by ear
@@ -350,13 +359,19 @@
 * 비용을 부담하다; foot the bill
 * 현실적이다; have both feet on the ground
 * 양쪽에 관여하다; have a foot in both camps
+* 재빨리 대응하다 think on your feet 미국식  영국식   단어장추가
+	* 일어서, 차렷, 기립; On your feet
 
 ## fuck
 * = 아 몰라!, 아 됐어! 신경 안 쓸래!  fuck it
 
 ## go 
 * / 상당한 영향을 주다. = 주어 go a long way towards 목적어 go a long way 는 [오래가다/지속되다] 라는 뜻이 있어요. 그래서 그 효과/도움 등이 특정한 것을 향하여 쭈우욱- 이어지는 느낌이죠. A little thanks goes a long way. 
- 
+
+### go along
+* * '~와 (여행이나 여정을)함께하다', '~을 따라서 가다' 라는 의미로 쓰이기도 하므로 헷갈리지 않도록 주의해야 해요!  go along with someone/something: 를 지지하다
+	* 나는 그녀의 결정에 따를거야. I will go along with her decision.
+
 ### go with
 * : 내 자연스런 입술을 갖기로(같이 하기로) 결정했어요, 알았어요? I have decided to go with my natural own lips, okay? 글자글대로 누군가와 어디를 가는 것은 물론, '어떤 상태에 같이 있다' 라는 의미도 가지고 있습니다.
 * : 이 여자와 함께 그 아파트로 갔나요? Did you go with this woman to the loft.
@@ -430,6 +445,13 @@
 ### go around
 * 모퉁이를 돌아가면 우체국을 찾을 수 있을 것이다. You will find the post office going round the bend. 
 * 미치다; go round the bend/twist; I'll go round the bend!
+
+### go on
+* 인터넷 사이트 들어가다, 이용하다; i go on Facebook everyday
+
+### go down
+* go down as A : A로 기록되다, 기억되다
+	* 이건 역사상 최악의 홍수 중 하나로 기록될 거야. This will go down as one of the worst floods in history.
 
 ## go
 * 멀어지는 느낌 == from 
@@ -649,6 +671,7 @@
 ## hand
 * 승리의 패; winning hand; He held the winning hand in the card game
 * 헌옷 She got all the hand-me-downs
+* have time on one's hands: 시간이 남는다, 시간이 있다. had a little time on my hands                  
 
 ## have
 * 소유하고 있다; 소유욕이 낮은 느낌ㄴ
@@ -732,6 +755,15 @@
 * be likely to; 할 것 같다; it's likely to be a huge success
 * would like to be an English teacher
 
+## mellow
+* 1. ⓐ (냄새, 맛, 소리 등) 부드럽다, 강하지 않다, 그윽하다
+	* 그녀는 여름 석양의 그윽한 빛을 바라보고 있었다. She was looking at the mellow light of a summer sunset.
+* 2. ⓐ (분위기, 성격 등) 부드럽다, 온화하다
+	* 오바마 전대통령은 자신이 ‘온화한 사람’이라며 a mellow guy이라고 하였습니다. 여기에 sort of를 붙여 ‘온화한 그런 사람’, ‘일종의 온화한 타입의 사람’을 의미하게 됩니다.
+	* 술 몇 잔 하더니, 그는 엄청 부드러워졌다. After a few drinks, he became very mellow.
+* 3. ⓥ 연륜이 쌓여서 성격이 온화해 지다
+	* 그녀는 참을성이 없는 편이었는데, 시간이 지나면서 유순해 졌다. v
+
 ## manner
 *  떤 면으로 보면 이 모든 관점들이 관련이 있다.
  All these points of view are related, in a manner of speaking. 
@@ -773,8 +805,13 @@
 * : 'office'를 일반적인 '사무실'이나 '근무처' 말고도 '정권, 공직'을 가리키는 말로 사용하는 경우를 드물지 않게 찾아볼 수 있어요^^ 그런  의미인 경우에는 앞에 a나 the, 소유격이 잘 붙지 않습니다.
 	* 공직에 있은 지/취임한 지 얼마나 됐어? [ex] How long has she been in office?
 
+## own
+* in one's own right: 직역하면 '자신의 정당한 자격으로' 라는 뜻으로 남의 도움 없이 자기 스스로 자격이 있다는 의미의 표현이에요.
+	* 그녀는 혼자 힘으로 부를 얻었다. She's a rich woman in her own right.
+
 ## put
-* : 변기시트 내려놓는거 잊지 마. Don't forget to put it down.
+* put somebody down은 '~를 깎아내리다', '~를 무시하다'라는 뜻이에요. 참고로 put down은 '~을 내려놓다', '~을 쓰다'라는 뜻이죠. 
+	* : 변기시트 내려놓는거 잊지 마. Don't forget to put it down.
 	* : 난 결코 일하는 여자를 비하하지 않았어요. I never put down the working woman.
 	* : 누군가가 날 위해하려고 그 놈들을 사주했어요. Someone set those boys to put me down. 무력으로 진압
 	* : 어쨌든, 난 네 이름을 적었어. Anyway, I put your name down.
@@ -869,6 +906,9 @@
 * someone always plays on my mind
 * the governemnt play the important role
 
+## power
+* have power over their lives: 그들의 삶의 주도권을 가지다. 자신의 삶을 결정할 수 있는 힘을 가지다.                                
+
 ## pick
 * 이용자 참여  어쩌면 그 연기를 조목조목 비판하는 것은 공평하지 않은 것 같다. It's not fair , perhaps , to pick apart the acting . 듣기
 	* pick apart: 조목조목 검토하고 분석하다
@@ -908,6 +948,9 @@
 * : 어떤사람이 창문으로 튀어나와서 차(밴)로 뛰어 들었어요. Somebody jumped out of a window and ran into a van.
 * : 난 소문이 여기서 어떻게 떠돌아 다니고 있는지 알고 있지. I know how the rumor mill runs around here
 	* 'Run around' 는 기본적으로 '~주변을 뛰어다니다, 돌아다니다, 어슬렁거리다' 라는 뜻과 'Run around'에 'with'가 붙어서 'Run around with'로 '~와 어울리다' 라는 뜻이 있습니다.
+* run against는 '(선거에서)와 맞서다', '~에 부딪히다', '~와 우연히 만나다'라는 뜻이 있어요. 
+	* 도날드 트럼프가 힐러리 클린턴과 선거에서 맞붙었다. Donald Trump ran against Hilary Clinton.
+	* 아기가 나무에 부딪혔다. The baby ran against a tree.
 
 ## red
 * 적자인; when a company is in the red
@@ -1066,6 +1109,9 @@
 * : 자네가 타협을 하기를 원한다고 했잖아. You said you wanted to work out a compromise. 'Work out'의 네 번째 의미는 '어떤 결과나 결론을 이끌어 내다' 라는 의미입니다. 'Work out a compromise' 를 직역하면, '타협을 이끌어내다' 라는 의미가 되는데요,
 * : 제가 해결 할 수 있어요. I can work it out. Work out' 에서, 목적어로서 'it' 이나 'Something' 이 사용되어, 'Work it out' 또는 'Work something out' 의 형태로 사용되는 경우가 많은데요,
 
+### work in
+* 오바마 케어에 끼워넣기 안했네요; i didn't work in ObamaCare
+
 ## walk
 * 비격식 표현으로 상대방의 감정이나 입장 등을 고려하지 않고 굉장히 못된 태도로 대하는 것을 의미해요. 누군가를 밟고 지나가는 느낌의 단어들이죠? = walk over someone
 	* 걔가 널 함부로 대하게 놔두지 마. 이런 취급을 받을 필요가 없잖아. ex) Don't let him walk over you. You don't deserve this.
@@ -1073,3 +1119,16 @@
 ## wrap
 * wrap는 '포장하다', '싸매다' 라는 뜻이에요. get wrapped up in sth을 직역하면 '무언가에 꽁꽁 싸매이다' 인데요, '다른 모든 것은 무시할 정도로 몰두해버리다' 라는 뜻입니다.
 	* 네 아이들에게만 너무 몰두하지는 마. 너와 네 아이들에게 안 좋아. ex) Don't get too wrapped up in your children. It's bad for you and your children.
+
+## whip
+* 강도가 호주머니에서 식칼을 꺼냈다. The robber whipped out a kitchen knife from his pocket. 
+
+## withdraw
+* 제시는 그의 손에서 자신의 손을 천천히 [뺐다]. [ex] Jesse slowly withdrew her hand from his.
+* 하루에 [출금]할 수 있는 한도는 천 달러이다.[ex] 1,000 dollars is a limit you can withdraw in a day.
+* 일본군들은 [철수]하는 수밖에 없었다.  [ex] Japanese troops were forced to withdraw.
+* 공화당은 정부에 대한 지지를 [철회]하겠다고 위협했다. [ex] The Republican Party threatened to withdraw its support for the government.
+
+# wall
+* wall-to-wall 은 ‘공간, 바닥을 가득 메우는 / 계속되는, 끊이지 않는’을 뜻하는 형용사 입니다. 여기서는 두 번째 뜻으로 쓰였습니다. 여기에 대중 매체의 ‘보도, 취재, 중계’를 뜻하는  coverage가 합쳐서 ‘끝도 없는 보도’가 되었습니다.  참고로, 바닥에 까는 카페트가 한쪽 벽(wall)부터 다른 쪽 벽까지 가득 메운다는 뜻에서 유래했습니다.
+	* 나는 처음으로 달착륙했던 TV생중계를 기억하고 있어. 그런거 보면 나도 참 늙었네. (date: 나이가 들었음을 보여주다) I can remember watching live TV coverage of the first lunar landing, so that dates me.

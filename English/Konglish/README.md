@@ -1,4 +1,5 @@
 # 기타
+* 피규어; figurine  [ˌfɪɡjəˈriːn]; action figure
 * 스크림; scrimmage 미국·영국 [ˈskrɪmɪdʒ]
 * 방탄 조끼; flak jacket = bullet-proof vest
 * 퀵서비스; Express delivery; Courier service

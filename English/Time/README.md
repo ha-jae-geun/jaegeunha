@@ -43,6 +43,7 @@
 * 오래동안; for years (and years); i've known him for years
 * 가끔씩; 누구나 가끔씩은 쉬어줘야지. Everyone deserves a break every now and then.
 	* [가끔] 이라는 의미를 가진 단어로 sometimes 가 조금 더 친숙하실텐데요. sometimes 같은 경우엔 [가끔] 이지만, 무언가를 비교적 정기적으로 가끔 하는 것을 의미하는 반면에 every now and then 같은 경우엔 정해지지 않고 띄엄띄엄 가끔 하는 것을 의미합니다.
+	* every once in a while
 
 # 요일
 * 어서 금요일이 되면 좋겠어!; Roll on Friday! 듣기 출처:옥스퍼드
@@ -414,7 +415,12 @@
 	* #과거; the past is in the past; past is just past
 	* #끄집어 내다 ##bring out the worst in someone; 나쁜 면을 보여주다
 	* 과거가 파란만장하셔서 말이죠; checkered past; 파라만장하거나 우여곡절이 많은 과거사
-* 올 한해 마무리 잘해~!						End this year on a good note!
+* 본래 store 자체는 ‘물건을 쌓아둠’을 의미합니다. 그래서 물건을 쌓아둔 장소니까 [가게, 상점, 비축, 저장고] 가 되는거죠.  in store 도 말하자면 ‘비축된’인데, 비축이라는 것은 미래에 활용하기 위해 모아둔 것이니까 [미래에 쓸, 닥쳐올, 예비된, 기다리고 있는] 과 같습니다.  일상생활이나 서면에서도 두루 잘 쓰이는 표현이니 동사의 쓰임에 주목하면서 예문을 학습해 주세요.
+	* 우리의 인생에는 무슨 일이 펼쳐질지 아무도 모른다. (*hold in store) No one knows what life holds in store for us.
+	* 널 놀래켜 줄 일이 있어. (*be in store) There's a surprise in store for you.
+	* 앞날이 어떻게 펼쳐질지 누가 알겠어요? (*have in store) Who knows what the future has in store for us?
+	* 그는 그에게 일어날 일에 대해 알지 못했다. (*lie in store) He didn’t know what lay in store for him.
+	* 올 한해 마무리 잘해~!						End this year on a good note!
 	* I hope you finish the year stron,g I hope you enjoy the rest of the year
 	* 10년 후에는 어떻게 세상이 변할지 궁금해 I'm wondering what the future will hold in 10 years for us
 	* 미래가 #캄캄하다 I have a #bleak future

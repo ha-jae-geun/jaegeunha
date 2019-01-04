@@ -240,6 +240,7 @@
 * ☆#catch someone by surprise; my mother caught me by surprise
 	* 고통이나 두려움 때문에 움찔하는 모습, 얼굴 표정 등을 의미하는 단어입니다. 영상에서 보시듯 움찍해서 뒷걸음질 치는 것도 flinch 라고 할 수가 있어요. 움찔이 아니라 소스라치게 놀랄 땐 be frightened (격식), be flabbergasted (비격식) 이라고 합니다. [ˈflæbərɡæstɪd]
 		* 탐은 사라가 그의 등을 만졌을 때 움찔했다. ex) Tom flinched when Sarah touched his back.
+	* scare the bejesus out of 사람 = 매우 놀라게 하다  [bidƷí:zəs] 동의어로 scare the shit/crap out of 라고도 하는데요, 매우 흔히 쓰이는 말이지만 속어이니 주의해 주세요.
 	* 깜짝이야 		 You scared me, I’m scared of you, you scared the shit out of me
 	* i'll be #darned
 	* 왠일이래 								 What a nice surprise

@@ -10,11 +10,12 @@
 	* 채널 고정; Stay tuned for
 * 쇼에 초대해 줘서 고마워요; Thank you for having me
 * 공연이 끝나다; Elvis has left the building
+* 연극해보자; Let's put on a play
 
 # Radio
 * 라디오 날씨 최신 정보를 듣고 계십니다; YOu are listening to Radio weather update
 * 더 많은 정보 위해 채널 고정하세요 Stay tuned for more information later
-* 교통정보는 ~엣 전해드립니다; The traffic report is brought to you by News 51
+* 교통정보는 에서 전해드립니다; The traffic report is brought to you by News 51
 * 덴버 시내의 최신 정보를 알려드리겠습니다; We now bring you the latest update in downtown Denver
 * : 정규방송 신호조차 안 잡혀 I can't even grab a regular broadcast signal.
 * : 도디, 케이블 tv가 안나온다고 해서 세상이 끝난 것은 아니거든 Dodee The cable is out, it doesn't mean it's the end times.
@@ -301,6 +302,9 @@
 * #spinoff
 * #실화 기반 ~ based on #real
 * #스크린; break your screen down
+	* 에이미 아담스와 제이크 질렌할은 영화에서 커플을 연기한다. ex) Amy Adams and Jake Gyllenhaal play a on screen couple.
+	* 팀은 영화 속에서는 엄청 다정한데, 영화 밖에서는 진짜 못됐다고 하더라. ㅍex) Tim looks very sweet on screen but I heard he is really mean off screen.
+	* 이 두 표현을 합쳐 'on and off screen(영화와 현실 속에서)'이라고 하죠!
 * #상영 등급 #PG(#parental GUidance);#전체 관람가
 * NC-17; 19세 관람가
 * ~에서 상영중이야; ~ is now #showing at CGB
@@ -321,7 +325,8 @@
 * 영화가 곧 개봉합니다; the movie is coming soon; coming soon!
 * #배우 #같이 출연한 배우 #co-stars
 * #주연 								 lead role, starring role
-* who's the #lead
+	* 오드리 햅번이 주연했던 명작이다; is a classic which starred Audry Hepburn
+	* who's the #lead
 * 여자 주인공, 조연 				 leading actress/heroine | supporting role
 * 감독, 작가, 제작사 						 dircector, writer, producer
 * 조명 감독, 삽화가						 [gǽfǝr] gaffer, illustrator

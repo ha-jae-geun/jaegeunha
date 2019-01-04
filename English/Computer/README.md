@@ -25,6 +25,7 @@
 * ASMR; Autonomous Sensory Meridian response [məˈrɪdiən
 
 # 인터넷
+* 인터넷 사이트 들어가다, 이용하다; i go on Facebook everyday
 * 악플; mean comment; blank comment 또는 empty comment
 * 인터넷 방송; I'm shooting live online; Internet broadcast
 	* It feels like streaming on the internet.	

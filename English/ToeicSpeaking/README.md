@@ -32,6 +32,7 @@
 * ALso, S+V
 
 ## 파트 4
+* 셔틀버스를 운영하다; run a shuttle bus service
 * 자격증이 있습니다; he has a cetrification ins 분야 명/ 자격증 명
 * 주어 + received + 학위의 종류 + in 전공 명 + at 출신 대학 + in 졸업 년도; 
   he received a master's degree in Business Administration at South Victoria University in 2006
