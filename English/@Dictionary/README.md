@@ -89,6 +89,10 @@
 * 무대 위의 스포트라이트나, 어두운 밤바다를 비춰주는 등대를 상상해 보면 이해가 빠를 것 같습니다. 직역하면 어떤 것이 잘 보이도록 빛을 환하게 비춰준다는 것인데요, 비유적으로 실상을 보여주다, 남의 이해를 돕기 위해 설명을 해주다, 정보를 제공하다 등 다양한 뜻으로 쓰이는 표현입니다. shed light on = 정보를 제공하다, 설명하다, 실마리를 제공하다, 드러내다
 	* 최근에 진행된 연구는 그 질병의 원인을 밝혔다. Recent research has shed light on the causes of the disease.
 
+# 소외
+* be alienated, be marginalized, be excluded, be isolated
+	* 소외됐나? Do you feel islolated?  저 친구 소외됐었는데. She was left out.
+
 # 속셈
 * 무슨 속셈이야; What's your angle? 
 
