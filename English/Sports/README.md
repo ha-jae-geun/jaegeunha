@@ -509,3 +509,11 @@
 ### 라이트
 * 팀의 주 공격수이자 득점머신 라이트
 * 공격 주도하며ㅕ 레프트와 다르게 수비 부담이 적다
+
+
+# 스키
+* 초급 – beginner 중급 – intermediate 고급 – advanced
+* 초보자용 슬로프(비탈)는 어디에 있죠? Where is a bunny slope?
+* 스키 탄지 얼마나 됐어요 How long have you been skiing?
+* 이 슬로프(비탈)는 내가 스키를 타기에는 너무 가파르다.This slope looks too steep for me to ski down.
+* 리프트(승강기)를 타다 get on the lift.  줄 서서 리프트(승강기)를 기다려주세요.  please go wait in the line for the lift. 

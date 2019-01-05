@@ -70,7 +70,9 @@
  [-ˈter-]  영국식 [hjuːˌmænɪˈteəriən]
  	* charitable organization 이라고도 하는데요. 단어 사용의 편리함 때문에 주로 charity 라고 좀 더 많이 말하는 편이에요. 
  	* 자선 단체에서 봉사활동을 많이 했었죠. ex) I used to do a lot of volunteer work at charities.
-* 팔레스타인 난민을 봅다; i visited Palestinian refugees
+ 	* "자선단체에 기부하기"; donate/give to charity
+ 	* 자선 단체에서 자원봉사 하기" volunteer in a charity organizaiton
+ 	* 팔레스타인 난민을 봅다; i visited Palestinian refugees
 * 안락사 반대 단체들이 그들을 막기 위해 집결하며; an euthanasia opposition groups mobilized to stop them [ˈmoʊ-]  영국식 [ˈməʊbəlaɪz]
 * 단식투쟁을 하다; go on hunger strike; 파업 참가자: striker, hunger striker
 

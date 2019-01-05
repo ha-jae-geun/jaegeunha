@@ -135,6 +135,7 @@
 * 어떤 건달 무리가 우리를 습격했어; Some punks jumped us
 
 # 나이
+* 내가 20대일때 넌 날 늙게 보곤했다. You used to put years on me when I was in my 20s.  put years on somebody
 * 어느새 18살이 됐어; Fast forward to 18
 * 30대쯤으로 보여; She looks somewhere in ther thirties
 * Do you mind if I ask your age?

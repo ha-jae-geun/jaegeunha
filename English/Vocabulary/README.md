@@ -228,6 +228,15 @@
 	* : 당신이 내 근처로 올라 왔으면 좋겠어요, 벡키 옆으로요. I'd like to bring you up to my area, next to Becky.
 * bring down barriers: 벽을 허물다, 장벽을 없애다.
 
+### bring back
+* 먼저 'Bring back'에 대해서 보면, 'Bring back' 은 '어떤 것을 원래 있던데로 도로 가져가다', '누군가를 원래 있었던데로 데려가다' 라는 의미 입니다. 여기에서 출발해서 '기억이나 의식을 도로 되찾게 해주다' 라는 뜻도 됩니다.
+	* : 도로 갖다 줘서 고마워요. Thank you for bringing it back
+	* : 나를 다시 복귀시키지 않는다면, 나도 어쩔 수가 없어요, 난 당신을 고소할 수 밖에 없어요 If you don't bring me back, I'm gonna have no choice, I have to sue you
+
+### bring out
+* 'Bring out' 의 뜻은 '사람이나 물건을 안에서 밖으로 끄집어 내다' 에서 출발하여, '생각을 표현하다', '어떤 제품을 출시하다' 등의 뜻으로도 쓰입니다.
+	* : 그녀는 비장의 무기를 꺼낼 거에요. She is bringing out the big guns.
+
 ## buck
 * 돈을 좀 더 벌려고 주말에는 식당에서 일하고 있어. ex) I'm working at a restaurant on the weekends to make an extra buck.
 * 1. buck 은 [1달러] 또는 [돈] 을 의미하는 비격식 표현입니다.
@@ -270,6 +279,9 @@
 * : 당신이 그 사람 차 앞으로 끼어들었나요? You cut him off?
 * : 의료보험이 끊길 거야. Medicaid gonna cut me off.
 * : 이제 술은 그만 줄거야. I'm cutting you off.
+
+## clock
+*  퇴근하다 You can clock off now. What time do you clock in and clock off? 
 
 ## come
 * 'come into one's own'은 성숙과 발달의 과정을 거쳐 힘과 자신감, 경제력, 존경, 사회적 신용 등을 얻은 단계에 이르는 것을 가리키는 말입니다. 지금 우리가 아는... 약간은 거만한(?), 성공한 칸예로 완전히 성장하기 전이라는 뜻이겠죠?
@@ -673,6 +685,9 @@
 ## hear
 * (특히 연설 중에 맞장구치는 말로) 옳소! 옳소! hear! hear! 미국식  영국식   단어장추가
 
+## hold
+* 하루 쉬지 그래요? 내가 대신 자리를 지켜 줄 테니. Why not have a day off? I’ll hold the fort for you. 
+
 ## hot 
 * 뜨거운 감자; Iraq is a hot potato to the Unitied States
 * 온상; 그 지역은 범죄의 온상이었다. The area was a hotbed of crime. 
@@ -765,6 +780,13 @@
 * look like
 * be likely to; 할 것 같다; it's likely to be a huge success
 * would like to be an English teacher
+
+## lie
+* 눕다; You can lie down.
+	* 등 대고 눕다; Lie back; Lie back. Lift up your shirt.
+* : 하지만 그것은 탐 때문만은 아니죠. But I don't lay that at Tom's feet.  Lay something at one's feet' : ~를 ~의 탓으로 돌리다
+* : 있잖아, 알렉스가 널 때리려고 하면, 나 한테 말해. 내가 해결해 줄게  You know what, Alex tries to lay a hand on you. Just tell me,  I'll take care of it. 'Lay a hand on someone' : 때리다. 폭행하다.
+* : 도박을 하러 갔었어요. I went to lay a bet 'Lay a bet' : 도박하다. 돈을 걸다.
 
 ## mellow
 * 1. ⓐ (냄새, 맛, 소리 등) 부드럽다, 강하지 않다, 그윽하다
@@ -962,6 +984,11 @@
 * run against는 '(선거에서)와 맞서다', '~에 부딪히다', '~와 우연히 만나다'라는 뜻이 있어요. 
 	* 도날드 트럼프가 힐러리 클린턴과 선거에서 맞붙었다. Donald Trump ran against Hilary Clinton.
 	* 아기가 나무에 부딪혔다. The baby ran against a tree.
+* 또한 많은 국가에서 여성들은 공직에 출마할 수 있다. They may also run for political office in many countries. 듣기 출처:능률교육
+* 연재하네 여기서. You're running a story here
+* 예시 한 번 보여드릴까요? Do you want a test run? 
+* 그는 불운이 겹쳤다 He had a run of bad luck . 듣기 출처:동아 출판
+* 스타킹 올이 풀리다; There's a run in my old ones
 
 ## reach
 * = 이 제품은 6세 이하의 아이들 손이 닿지 않는 곳에 두세요. Keep this out of reach of children under 6.
@@ -1007,6 +1034,13 @@
 * 자신의 모습 그대로 행동해도 편안하고 당당하다는 뜻의 표현으로 여기서 own skin 은 [자기 본연의 모습] 을 비유합니다. good/comfortable in one’s skin = 자기 자신의 모습대로 행동해도 편안하다 
 	* 자신의 모습에 당당할 수 있는 방법을 찾는 것이 중요해요.  It’s important to find ways to feel comfortable in your own skin.
 
+## soldier
+* 나아가다; She soldiers on
+
+## speak
+* * 모두가 그녀를 아주 좋게 이야기한다. Everyone speaks very well of her. 
+
+
 ## track
 * track 은 말 그대로 사람들이 따라가도록 나있는 [길] 을 의미하는데요. 무언가를 함에 있어서 목표를 향한 길에서 벗어나지 않고 잘 따라갈 때 on track 이라고 합니다. 제대로 된 방향으로 나아갈 때는 on the right track, 잘못된 방향일 때는 on the wrong track 이라고 하고요. 잠시 잘못된 방향으로 갔다가 다시 돌아왔을 때는 get back on track 이라고 할 수 있어요.
 	* 데이빗. 넌 정말 잘 하고 있으니까 너 자신을 의심할 필요가 없어. ex) David. You're definitely on the right track, so no need to doubt yourself.
@@ -1016,6 +1050,10 @@
 * : 목청껏, 있는 힘껏 큰소리로 응용 예시1. at the top of my lungs; [ex] We were screaming at the top of our lungs.
 * : 지금 머리속에서 막 생각나는건 응용 예시2. off the top of my head
 	* 지금 바로 머리속에 생각나는게 없어. [ex] I can't think of anything off the top of my head.
+
+## table
+* 이제 그 안은 고려의 대상이 아니다. Now the option is off the table. 
+* 경영진에서 몇 가지 새로운 제안들을 상정해 놓고 있다. Management have put several new proposals on the table. 
 
 ## talk
 * 소소한 대화, 담소, 잡담, 이런저런 이야기 = small talk

@@ -19,6 +19,7 @@
 * 안전한 비행되길 바래; Safe flight
 
 # 관광	#toruist industry(#industry)
+* 단체여행입니까? Are you a member of group tour?
 * 이 사람도 여기 거쳐간대; he's passing through here
 * #Sustainable tourism; 지속 가능한 관광
 * #구경시켜주다 show some around; Showing you guys around

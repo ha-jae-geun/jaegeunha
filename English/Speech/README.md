@@ -7,6 +7,7 @@
 * 내가 사색하는ㄱ ㅓ 싫어하는 거 알아; I know you don't like when i'm contemplative
 
 # 말
+* 모두가 그녀를 아주 좋게 이야기한다. Everyone speaks very well of her. 
 * 말보다는 숨은 의미가 더 중요하다; the literal words are less important than the subtext
 * 가족을 대신해서 말하자면; 대변; i speak for my whole family
 * 능수능란하다; That's diplomatic; 2. 외교적인; 다른 사람의 심기 건드리지 않으면서 어려운 말을 요령있게 한다.

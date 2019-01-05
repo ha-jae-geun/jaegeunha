@@ -3,6 +3,10 @@
 	* 승진후보로 제리가 유력하대. I hear Jerry is in line for promotion.
 * There is a good chance
 
+# 감
+* 그 의사의 예감이 옳았던 것 같았다. It seemed that the doctor’s hunch had been right. 
+* 내 직감으로는 그는 살인범이 아니다 I have a gut feeling that he is not the murderer . 듣기 출처:능률교육
+* 누나 직감으로 범인 추리하지 마. Don't use your intuition when solving a case.
 
 # 거짓말
 *  전판 거짓말이다 t is a downright lie from start to finish 
@@ -23,6 +27,9 @@
 # 교환
 * 물건을 서로 교환한다는 뜻인데요, 영상에서처럼 가장 가볍게 쓸 수 있는 단어가 trade 입니다. 이 외에도 swap, switch, exchange 등도 같은 뜻이지만, 용법에 약간씩 차이가 있습니다.  - swap : 구어체. 영국 영어에서 주로 사용. - exchange : 문어체적 느낌. 환전, 상점에서의 물건 교환 등에 씀. - switch : 위치나 자리를 바꾼다고 할 때 주로 씀.
 	* 내 초콜렛이랑 네 쿠키랑 바꾸자.  I'll trade you some of my chocolate for some of your cookies.
+
+# 관련
+* 그녀는 스파이와 관련되어 있다. She goes hand in hand with that spy. 
 
 # 기억
 * 주어로는 옛날 생각을 나게 만드는 대상을 쓰면 됩니다. 혹은 영상에서처럼 “야, 옛 생각 나네!” 처럼 간단하게 주어를 생략해서 표현할 수도 있겠네요. (It) brings back memories; Wow, it just brings back a lot of memories.
@@ -67,6 +74,7 @@
 # 몸매
 * * get into shape = 몸매를 가꾸다, 몸을 만들다  stay in shape = 체력/건강/몸매를 유지하다  in a good(bad) shape = 건강/몸매가 좋은 (나쁜)
 	* = 몸매 가꾸려고 일주일에 세 번 요가 수업을 해. I go to yoga class three times a day to get into shape.
+* 난 날씬한 몸을 갖고 싶어.  want to get a lean body. 
 
 # 미루다
 * 학교 다닐 때 보통 put off 과 delay 가 같다고 배우는데요. procrastinate 와 함께 차이점을 알아보아요!
@@ -97,6 +105,9 @@
 * 비격식 표현으로 딱히 하는 일 없이 시간을 낭비한다던지, 그다지 중요하지 않은 일을 하느라 시간을 보낸다던지, 남이 보기에 좀 멍청하게 행동을 하며 시간을 보낼 때 쓰는 단어입니다. 주의하실 점은 [성적으로 문란하게 놀다] 라는 뜻도 가지고 있기 때문에 오해를 살만한 내용일 경우엔 조금 조심해서 쓰셔야 해요. = screw around
 	* 사장이 떠난 뒤로 빈둥거리고 있는 중이야. ex) We've been screwing around since the boss left.
 
+# 빠르다
+* Quickly'는 '어떤 일이나 상황이 시간적으로 빨리 진행이된다'는 의미이고, 'Fast'는 '어떤 행위를 하는데, 그 행위를 하는 속도를 빠르게 한다' 예컨대, '넌 숙제를 빨리 해야 해' 라고 할 때, 이 말은 상황에 따라서 '지금까지 숙제를 미뤄왔으니까 빨리, 즉시 숙제를 하라'는 의미 일 수도 있고, '숙제하는 행위를 빨리 해서 빨리 마쳐라' 라는 의미 일 수도 있습니다. 첫 번째 경우에는 'You've got to do your homework quickly' 라고 할 수 있고, 두 번째 경우에는 'You've got to do your homework fast'라고 할 수 있습니다.
+
 # 선입견
 * * 전치사 towards 또는 against 를 써서 [~에 대한 편견] 을 의미하는데요. towards 가 쓰이면 좋은 의미로의 편견, against 는 나쁜 의미로의 편견을 의미합니다. 참고로 형용사로 [편향된, 편견이 있는] 의 뜻은 biased 라는 단어를 씁니다.
   * 그 여자애를 향한 너의 태도는 네가 인도인들에게 강한 인종적 편견을 가지고 있다는걸 보여주잖아. ex) Your attitude to that girl shows that you have a strong racial bias against Indians.
@@ -118,11 +129,18 @@
 * 여기서 bar는 ‘수준’을 의미하기 때문에 high bar는 ‘높은 수준, 높은 경지’가 됩니다. 이성에 대한 기준이 너무 높거나, 직업을 고를 때 너무 눈높이가 높을 때도 쓸 수 있습니다. 반대로 low bar는 ‘낮은 수준, 낮은 눈높이’를 뜻합니다. 
 	* 대학 졸업 후 구직할 때, 너무 눈높이를 높게 잡지 마.  When you try to get a job after college, don’t set the bar too high.
 
+# 스트레스
+* 누군가는 스트레스를 좀 풀 필요가 있었어 Someone needed to let off some steam!
+
 # 애도
 * 애도를 표합니다; i'm sosorry for your loss
 
 # 예의
 * 예의바르게 행동해 mind your Ps and Qs 
+
+# 옛날에
+* Looking back; "in retrospect" 
+* back in the days, "in the past", in the old days" 
 
 # 이끌다
 * initiative는 '계획'이라는 뜻으로 많이 쓰이지만 앞에 the를 붙여서 the initiative라고 쓸 경우 '주도권'을 의미하는데 많이 쓰이기도 합니다. 다양한 동사와 함께 쓰이는데요. [gain/seize/lose the initiative = 주도권을 얻다/잡다/잃다] 쓰이니 함께 알아두세요!
@@ -182,6 +200,9 @@
 
 # 화장실
 * 화장실 갈래; I need to use the restroom
+
+# 흑역사
+* It's dark chapter in my life
 
 # 힘들다
 * 지미를 치과에 데리고 가는 건 정말 힘든 일이었지. aking Jimmy to the dentist was like pulling teeth . 듣기 출처:능률교육
