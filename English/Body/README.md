@@ -7,6 +7,7 @@
 * 머리를 기르다; '머리를 기르다' 라고 말하고 싶을 때, 'grow out one's hair' 라 표현할 수 있어요;  I'm going to grow out my hair.
 * 뇌; 머리가 멍했어; Brain fart; brain fade; Did you just have a brain fart
 	* * 조언을 구해도 될까요? Can i pick your brains about somethig?
+	* 너무 골치아파 하지마; Don't beat yoour brains out
 * 머리에 떔빵은 안 났거든; i dind't give myself a bald spot
 * 이불에 머리카락이 붙어있어; THere's a hair struck on the blanket
 * 빨간 머리; ginger

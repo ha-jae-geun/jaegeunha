@@ -4,6 +4,7 @@
 * #물 좋아 that place #kicks/#rocks 
 * #rock on; 마음ᄁᅠᆺㅈ ᅟᅳᆯ기다; feel free to rock on
 * 분위기 띄우다; #liven up; to liven up
+	* 분위기 가볍게 할려고 농담하는거야; i'm making a joke to lighten the mood
 * 분위기 안깨고 이동하는 법: #슬슬; #shall we
 * 분위기 바뀌고; the atmosphere turns
 * ○ Simple definition of #ambience (ambience의 간단한 의미)

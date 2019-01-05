@@ -11,6 +11,8 @@
  * attire; 옷을 얼마나 갖춰입었는지
    * formal attire, casual attire, business attire
 
+* 꾸미다; primp 와 preen 모두 [몸치장을 하다] 의 의미를 가져요. primp 의 경우엔 머리나 메이크업을 약간 고치기 위해 시간을 쓰는 것을 의미하고, preen 의 경우엔 좀 더 매력적으로 보이기 위해 단장하는 것을 의미하는데요. 보통 영상에서처럼 함께 쓰입니다.
+  * = 내 와이프는 외출하기 전에 대략 2시간 정도를 몸치장하는데 쓴다. My wife spends about 2 hours primping and preening before going out.
 * 주어가 사람일 경우에는 ‘아첨하다, 아부하다’이지만, 영상처럼 옷이나 색깔 등이 오면 ‘(입은 사람을) 돋보이게 하다’라는 뜻이 됩니다.  
   * = 노란색은 나한테 별로야. 내 어두운 피부색하고 어울리지 않아.  Yellow isn’t my color. It doesn’t flatter my dark skin.
 * 여성이 꽉 끼는 바지를 입을 때 가랑이 사이에 갈라지는 자국을 우리말 은어로 ‘도끼자국’이라고 하죠. 그에 해당하는 말이 a camel toe 입니다. 가운데가 갈라진 낙타의 발모양에 빗대는 거죠.  참고로 옷이 똥꼬에 끼는 것은 영어로 뭐라고 할까요? 바로, a wedgie 입니다. 쐐기(wedge)로 틈새에 박아버리는 것이 연상되네요! 

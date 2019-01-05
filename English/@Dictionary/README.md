@@ -12,9 +12,17 @@
 * 자신의 경험을 말할 때 문장을 풀어낼 수 있는 유용한 패턴 중에 하나입니다. 조금 응용해서 one of the experiences I had was 라고 쓸 수도 있겠죠. 
 	* = 제가 문제를 해결하기 위해 해 본 것들 중 하나는 단순히 도움을 요청하는 것이었습니다. One of the things I did to solve a problem was to simply ask for help.
 
+# 고민
+* 무슨 고민 있으세요? What's eating you?
+
 # 공감
 * 주로 [공감] 이라는 의미를 영어로 떠올리려고 하면 아마도 [empathy = 공감, 감정이입 / empathize = 공감하다] 또는 [sympathy = 동정, 연민] 등을 떠올리실텐데요. 두 단어는 헷갈리기도 하고 격식을 갖춘 단어입니다. 특히 empathize 라는 동사는 실생활에서 그리 많이 쓰이진 않아요. 영상에서처럼 쉽고 간단한 relate to 를 훨씬 더 많이 쓰니 꼭 알아두세요.
 * 게임 속의 인물들에 너무 감정 이입하지 마. ex) You shouldn't identify with the characters in the game too much. 2) 영상에서처럼 identify with 를 쓰게 되면 그 사람이 처한 상황을 이해하고 공감하는 것을 의미합니다.
+* 어떤 일, 혹은 사람에 공감한다는 뜻으로 feel the same way~ / have sympathy with~ / sympathize with~ 와 같은 표현입니다. sympathize/sympathy는 상대의 딱한 사정을 측은하게 바라보는 마음도 뜻하지만 relate to처럼 같은 생각과 마음을 갖는다는 의미도 있습니다. 
+
+# 교환
+* 물건을 서로 교환한다는 뜻인데요, 영상에서처럼 가장 가볍게 쓸 수 있는 단어가 trade 입니다. 이 외에도 swap, switch, exchange 등도 같은 뜻이지만, 용법에 약간씩 차이가 있습니다.  - swap : 구어체. 영국 영어에서 주로 사용. - exchange : 문어체적 느낌. 환전, 상점에서의 물건 교환 등에 씀. - switch : 위치나 자리를 바꾼다고 할 때 주로 씀.
+	* 내 초콜렛이랑 네 쿠키랑 바꾸자.  I'll trade you some of my chocolate for some of your cookies.
 
 # 기억
 * 주어로는 옛날 생각을 나게 만드는 대상을 쓰면 됩니다. 혹은 영상에서처럼 “야, 옛 생각 나네!” 처럼 간단하게 주어를 생략해서 표현할 수도 있겠네요. (It) brings back memories; Wow, it just brings back a lot of memories.
@@ -56,6 +64,10 @@
 * 비격식 표현으로 사람을 흥분시키거나 감정을 유발하는 것을 의미해요. 또한 무언가를 좀 더 강력하고 신나게 만드는 것도 의미하는데요. 영상에서는 수동태인 be amped up 으로 쓰여 [의욕에 불타게 되다] 의 뉘앙스로 쓰였습니다.
 	* 다음 프로젝트를 할 의욕에 불타고 있어. 언제 시작해? ex) I'm so amped up for our next project. When do we start?
 
+# 몸매
+* * get into shape = 몸매를 가꾸다, 몸을 만들다  stay in shape = 체력/건강/몸매를 유지하다  in a good(bad) shape = 건강/몸매가 좋은 (나쁜)
+	* = 몸매 가꾸려고 일주일에 세 번 요가 수업을 해. I go to yoga class three times a day to get into shape.
+
 # 미루다
 * 학교 다닐 때 보통 put off 과 delay 가 같다고 배우는데요. procrastinate 와 함께 차이점을 알아보아요!
 * 1) delay : 가장 격식을 갖춘 단어로 [연기하다] 라는 뜻인데요. 하기로 정해져 있던 것을 '정당한 이유가 있어서 의도적으로' 나중으로 연기하는 것을 의미합니다.
@@ -77,6 +89,10 @@
 # 배경
 * 장면은 파리로 설정되어있따; The scene is set in Paris
 
+# 버티다
+* fumes는 [가스, 매연] 을 의미하는데요. 자동차에 기름이 다 돼서 바닥을 쳤을 때, 정말 얼마 안 되는 연료로 간신히 움직이는 걸 run on fumes라고 합니다. 사람에게 적용했을 땐 체력이 다 바닥났지만 근근이 버티는 걸 의미해요. * run on fumes = 근근이 버티다, 체력이 다 되다.
+	* = 우리가 최종 라운드에 진출했을 땐 체력이 다 빠졌다. We were running on fumes when we made it to the final round.
+
 # 빈둥거리다
 * 비격식 표현으로 딱히 하는 일 없이 시간을 낭비한다던지, 그다지 중요하지 않은 일을 하느라 시간을 보낸다던지, 남이 보기에 좀 멍청하게 행동을 하며 시간을 보낼 때 쓰는 단어입니다. 주의하실 점은 [성적으로 문란하게 놀다] 라는 뜻도 가지고 있기 때문에 오해를 살만한 내용일 경우엔 조금 조심해서 쓰셔야 해요. = screw around
 	* 사장이 떠난 뒤로 빈둥거리고 있는 중이야. ex) We've been screwing around since the boss left.
@@ -88,6 +104,7 @@
 # 설명
 * 무대 위의 스포트라이트나, 어두운 밤바다를 비춰주는 등대를 상상해 보면 이해가 빠를 것 같습니다. 직역하면 어떤 것이 잘 보이도록 빛을 환하게 비춰준다는 것인데요, 비유적으로 실상을 보여주다, 남의 이해를 돕기 위해 설명을 해주다, 정보를 제공하다 등 다양한 뜻으로 쓰이는 표현입니다. shed light on = 정보를 제공하다, 설명하다, 실마리를 제공하다, 드러내다
 	* 최근에 진행된 연구는 그 질병의 원인을 밝혔다. Recent research has shed light on the causes of the disease.
+* 형용사로 쓰여도 비슷한 뉘앙스로 [정교한, 공을 들인] 이라는 뜻을 가지는데요. 디테일 하게 만드는 뉘앙스의 단어에요. 보통 회의 같은 곳에서 현재 논의되고 있는 사안에 대해서 [좀 더 자세하게 설명해주시겠어요?] 라고 물을 때 정말 많이 쓰이는 표현입니다. ex) Can you elaborate on that please?
 
 # 소외
 * be alienated, be marginalized, be excluded, be isolated
@@ -98,6 +115,11 @@
 
 # 수준
 * 네 수준으로는 나조차 못이길거야; YOu can't even defeat me in your current state
+* 여기서 bar는 ‘수준’을 의미하기 때문에 high bar는 ‘높은 수준, 높은 경지’가 됩니다. 이성에 대한 기준이 너무 높거나, 직업을 고를 때 너무 눈높이가 높을 때도 쓸 수 있습니다. 반대로 low bar는 ‘낮은 수준, 낮은 눈높이’를 뜻합니다. 
+	* 대학 졸업 후 구직할 때, 너무 눈높이를 높게 잡지 마.  When you try to get a job after college, don’t set the bar too high.
+
+# 애도
+* 애도를 표합니다; i'm sosorry for your loss
 
 # 예의
 * 예의바르게 행동해 mind your Ps and Qs 
@@ -105,6 +127,10 @@
 # 이끌다
 * initiative는 '계획'이라는 뜻으로 많이 쓰이지만 앞에 the를 붙여서 the initiative라고 쓸 경우 '주도권'을 의미하는데 많이 쓰이기도 합니다. 다양한 동사와 함께 쓰이는데요. [gain/seize/lose the initiative = 주도권을 얻다/잡다/잃다] 쓰이니 함께 알아두세요!
 	* = 누구도 나서려 하지 않을 때 레이첼이 앞장섰다. Rachel took the initiative when no one else wanted to.
+
+# 이해
+* = wrap one's brain/head/mind around 머리를 꽁꽁 싸매듯이 이해하려 하는 것을 의미해요. 조금 어렵고, 혼란스럽고, 생소한 것을 이해하려는 모습의 단어입니다.
+	* 방금 일어난 일을 이해할 수가 없어. ex) I just can't wrap my head around what's just happened.
 
 # 일치
 * congruence (= congruency) = 일치성, 조화, congruent = 일치하는, 조화를 이루는 [ˈkɑːŋ-]  영국식 [ˈkɒŋɡruənt] 
@@ -132,6 +158,9 @@
 
 # 조심
 * 차 조심해; Watch out for the cars
+
+# 준비
+* 준비 다 됐니? You all set
 
 # 직전
 * on the verge of something; on the verge of doing something

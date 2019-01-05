@@ -166,6 +166,8 @@
 * #안전지대; #trafic island
 * #교통경찰; #Traffic police
 * #주차 단속원; #traffic warden; #wardens
+	* parking spot 은 [주차 공간] 으로 엄밀히 말하면 주차장과는 다릅니다. 예를 들어 주차장 안으로 들어가면 바닥에 그러져 있는 네모칸이 있죠? 그 공간이 parking spot 인거죠.  참고로 [주차장] 은 미국식 영어로는 주로 a parking lot, 영국식 영어로는 a car park 라고 부릅니다. 장애 주차장: handicap spot
+		* 주차장에 주차할 공간이 없었어. There was no parking spot in the parking lot/car park. 
 * #교통정리하다; #directing traffic
 * #stop-sign-4 way
 * #merge; thru traffic merge left; 2개의 차선이 만나는 것; 차 1대씩 지나감

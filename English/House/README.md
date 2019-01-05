@@ -15,6 +15,7 @@
 
 
 # 기타
+* [여기가 내가 사는 곳이야.] 라고 말할 때 쓰이는 표현이에요. 영상에서처럼 집을 향해 걸어오다가 도착했을 때 쓰는 말이고요. 비슷하게 지하철이나 버스를 타고 가다가 내려야 할 곳에서 This is me. This is us. 등으로 말할 수 있습니다; THis is me
 * 집 쳐들어가기; home inavasion
 	* 경비; gatekeeper 미국·영국 [ˈɡeɪtkiːpə(r)]
 * 투박하게 살다; 편안한집, 전기, 난방시설 등 호화로운 시설 없이 불편하게 살거나 캠핑하다; I'm roughingg it(제대로 된 캠핑을 할거야)
@@ -551,6 +552,8 @@
 * 네 앞날이 창창하다는 거야; You got your whole life ahead of you
 	* 내 인생에서 최고의 일이야; A is the best thing that ever happened to me. 
 	* * 그들은 매우 사치스러운 집에서 호강한다. They eat high off the hog in a very luxurious house. 
+	* 직역하면 [인생에서 승리하다] 인데요, 여기서 ‘성공, 승리’란 꼭 물질적인 것만 뜻하는게 아니라 자신이 인생에서 가치있다고 생각하는 것을 지키는 삶을 말해요. ＊ win at life = 성공적인 삶을 살다
+		* 나는 일 끝나면 스마트폰은 안 써. 그게 내 삶을 윤택하게 하는 나만의 방법이지. I don’t use my smartphone after work. It’s my own way of winning at life.
 * 다 잘 될거야; Bibia be ye ye
 * 아픔을 재경험해야한다; We need to relive the sorrow
 * 인생을 최대한 충실하게 살다; Live it to the fullest; live it(life) to the full(est)
@@ -564,6 +567,7 @@
 * 이 가족은 넉넉하다 This family is sitting family. 
 	* 무일푼에서 거부가 된 이야기 a rags-to-riches story 
 * 근근히 살아가다; those who are living on the edges
+	* 인생이 다 그런거지; THat's just a fact of life
 	* 최선을 다해 열심히 살다; live life th the fullest
 	* 매일 따분하고 반복적인 일을 해 주셔야 해요. ex) You should be willing to do mundane and repetitive tasks on a daily basis. [mʌnˈdeɪn]
 	* 1) 늘 똑같은 삶에 갇혀 지루하고, 판에 박힌 생활을 하는 것을 be (stuck) in a rut이라고 합니다. ‘틀에 갇히다, 타성에 젖다, 일상의 틀에 박혀있다, 매너리즘에 빠져있다’ 등으로 해석하시면 됩니다.* 난 뭔가 변화가 필요해. 늘 같은 일상이 너무 지겹고 답답해. I need a change in my life. I feel I’m stuck in a rut.

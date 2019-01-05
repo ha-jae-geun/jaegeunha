@@ -55,6 +55,7 @@
 
 * #ACCT# 						 	Account number; 게좌/계정 번호
 * #송금하다 #wire money = #wire transfer = remit money
+	* 영어로 [송금하다, 돈을 부치다] 는 표현 방법이 여러가지 인데요, 가장 기본적인 것인 send money / transfer money 입니다.  wire money 라는 말도 있는데요, 전자 시스템을 이용해서 돈을 보내는 걸 말합니다. 요새는 거의 온라인 송금도 많기 때문에 일상 생활에서도 빈도 높게 쓰이죠. 또한 가장 문어체적으로는 remit/remittance 가 있습니다. 이 단어는 특히 해외에서 근무하는 사람이 자국으로 돈을 송금하는 경우에 씁니다. 
 * #remit some money
 * 은행 #거래 내역을 확인하다 #review one’s bank statement
 * ~라고 #예상되다 be #anticipated = #expected = #projected to v

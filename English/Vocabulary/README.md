@@ -45,6 +45,8 @@
 * i'm studying at school: 학교를 구체적으로 찍는 느낌은 아님; 내가 공부하는 장소는 학교입니다ㅣ i'm studying in school: 학교 건물 내부에서 하고 있다.; 나는 학교에서 공부합니다.
 * i'm at the car: 자동차 근처(앞 같은 곳) i'm in the car: 차 안에 있다
 * i will be there at 3 o'clock
+* 수업중이야; i'm in school
+
 
 ## in front of, ahead
 * in front of: 바로 앞에 있는
@@ -209,6 +211,10 @@
 ### break down
 *  테드는 그 사고를 다시 머릿속에서 경험했을 때 흐느끼며 무너져 내렸다. Ted broke down sobbing as he relived the accident.
 
+## breath
+* 숨이 너무 가빠서 넘어갈 듯한 것을 out of breath 라고 하는데요. 이렇게 밖으로 나간 듯한 숨을 다시 제대로 쉬게끔 잡아올 때 [숨을 고르다] 라는 의미를 갖게 되는 표현입니다.
+* = 한숨 돌리려고 걷는 것에 잘못된 일은 전혀 없어. There's nothing wrong with walking to catch your breath.
+
 
 ## bring
 * bring it on은 우리말로 ‘덤벼’로 번역되는데, 풀어 설명하면 ‘너가 가진 것이 무엇인지 내놔봐라’라는 의미입니다. 너가 가진 것, 즉 너의 능력/배짱/힘 등이 얼마나 되는지 한 번 볼 테니 꺼내 보이라는 겁니다. 혹은 특정한 대결 상대가 없이, 힘든 상황이나 도전적인 일을 맞이할 준비가 되었다고 할 때도 Bring it on!이라고 합니다. 그 힘든 상황이 나에게 무엇을 가져다 주던 간에, 나는 준비가 되었다는 뜻입니다. 
@@ -249,6 +255,11 @@
 ## concert
 * 둘 이상의 사람/단체/나라 등이 원하는 것을 얻기 위해 무언가를 함께 할 때 쓰는 형용사인데요. 주로 다음과 같은 단어들과 함께 쓰입니다. 참고로, 공연을 뜻하는 '콘서트'도 '여럿이서  협동하다', '여럿이서 하모니를 이룬다'는 뜻에서 나왔습니다.
 	* concerted effort = 단결, 혼신의 노력 concerted action = 담합 concerted campaign = 공동/합작 캠페인
+
+## crash
+* 1) 컴퓨터가 외부적 충격이 아닌 시스템적으로 고장이 나서 작동 되지 않는 것을 crash라고 합니다. 우리가 흔히 ‘에러나다’라고 표현하는 것과 같습니다. 동사와 명사 두 가지 용법이 있습니다.
+	* 컴퓨터가 갑자기 에러나서 처음부터 다시 작업을 해야만 했다. The computer crashed out of the blue so I had to work on it all over again.
+* 2) crash on me 에서 on me는 내가 컴퓨터를 쓰고 있는 그 타이밍에 고장이 나서 나에게 피해를 입힌다는 어감입니다. 다른 예문을 들어보겠습니다. 
 
 ## cut
 ### cut off
@@ -952,6 +963,9 @@
 	* 도날드 트럼프가 힐러리 클린턴과 선거에서 맞붙었다. Donald Trump ran against Hilary Clinton.
 	* 아기가 나무에 부딪혔다. The baby ran against a tree.
 
+## reach
+* = 이 제품은 6세 이하의 아이들 손이 닿지 않는 곳에 두세요. Keep this out of reach of children under 6.
+
 ## red
 * 적자인; when a company is in the red
 * 여기 한국에는 관료주의가 많다. There ’ s lots of red tape involved here in Korea
@@ -988,6 +1002,10 @@
 ## spew
 * 1. 뿜어내다, 분출하다  2. 뿜어져 나오다, 분출되다  3. (비격식) 토하다  spew out 이라고 많이 쓰이는데요. 발음은 '스퓨' 정도로 해요. 많은 양의 무언가를 빠르고 힘 있게 뿜어내는 것을 의미합니다. 
 	* = 무슨 일이 일어난 건지 모르겠어요. 그냥 운전하기 시작했는데, 차가 갑자기 어두운 연기를 뿜어냈죠. I don't know what happened. I just started driving and the car suddenly spewed out dark smoke.
+
+## skin
+* 자신의 모습 그대로 행동해도 편안하고 당당하다는 뜻의 표현으로 여기서 own skin 은 [자기 본연의 모습] 을 비유합니다. good/comfortable in one’s skin = 자기 자신의 모습대로 행동해도 편안하다 
+	* 자신의 모습에 당당할 수 있는 방법을 찾는 것이 중요해요.  It’s important to find ways to feel comfortable in your own skin.
 
 ## track
 * track 은 말 그대로 사람들이 따라가도록 나있는 [길] 을 의미하는데요. 무언가를 함에 있어서 목표를 향한 길에서 벗어나지 않고 잘 따라갈 때 on track 이라고 합니다. 제대로 된 방향으로 나아갈 때는 on the right track, 잘못된 방향일 때는 on the wrong track 이라고 하고요. 잠시 잘못된 방향으로 갔다가 다시 돌아왔을 때는 get back on track 이라고 할 수 있어요.
@@ -1119,6 +1137,8 @@
 ## wrap
 * wrap는 '포장하다', '싸매다' 라는 뜻이에요. get wrapped up in sth을 직역하면 '무언가에 꽁꽁 싸매이다' 인데요, '다른 모든 것은 무시할 정도로 몰두해버리다' 라는 뜻입니다.
 	* 네 아이들에게만 너무 몰두하지는 마. 너와 네 아이들에게 안 좋아. ex) Don't get too wrapped up in your children. It's bad for you and your children.
+* = wrap one's brain/head/mind around 머리를 꽁꽁 싸매듯이 이해하려 하는 것을 의미해요. 조금 어렵고, 혼란스럽고, 생소한 것을 이해하려는 모습의 단어입니다.
+	* 방금 일어난 일을 이해할 수가 없어. ex) I just can't wrap my head around what's just happened.
 
 ## whip
 * 강도가 호주머니에서 식칼을 꺼냈다. The robber whipped out a kitchen knife from his pocket. 

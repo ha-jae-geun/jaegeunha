@@ -64,6 +64,10 @@
 * 최고급의; 내 물건 사는데 보통 돈을 많이 쓰지는 않지만, 컴퓨터는 최고급이어야만 해. ex) I don't usually spend a lot of money on my own stuff, but my computer must be a high-end computer. <> low-end
 
 ## 유명 브랜드
+* sharpie는 잘 지워지지 않는 유성마커를 뜻합니다. 원래 브랜드 이름이지만 보통명사처럼 널리 쓰이고 있죠. 우리도 유성매직이라고 부르는 것과 같은 거라고 보면 되습니다. 이 외에 보통명사가 된 다른 브랜드 이름도 살펴보겠습니다.
+* (n) duck tape : 덕트테이프 (박스를 포장용과 같이 폭이 넓은 테이프)
+* (n) popsicle : 막대아이스크림
+* (n) band-aid : 반창고, 대일밴드 (대일밴드도 제품명이죠!)
 * toyota; toy-Yoh-duh
 * Honda; Hon-duh
 * Subaru; SUE-buh-roo

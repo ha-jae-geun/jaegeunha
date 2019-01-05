@@ -21,6 +21,7 @@
 * Defensive wounds; 방어흔
 * Sign of struggle; 싸우거나 방어한 주변 흔적
 ------------
+* 영화나 드라마 대사에서 종종 나오는데요, 누군가가 죽으려고 하는 참인데 내가 보는 앞에서 죽지 않았으면 할 때, Don’t die on me라고 합니다. 내가 존재하는 그 장소에서 너가 죽어버려서 날 언짢게 하지 말라는 거죠. 혹은 '날 두고 먼저 가지 마라'라는 뜻도 있죠. fall asleep on me도, 내가 함께 있는 그 자리에서 상대가 잠이 들어버렸다는 것으로 뭔가 타인의 행동으로 인해 내가 당한 느낌이 있습니다. 
 * 죽여버리겠어; I'll tear you to pieces; tear - to pieces
 * 우리말에도 어떤 사람에 의해 죽었다고 할 때 ‘~의 손에 죽다’라고 하는 것처럼 영어에도 die at the hands of~면 “~의 손에 죽다”가 됩니다. die at someone’s hands도 같은 표현입니다.  The king died at the hands of an assassin.
 * 조금 풀어서 말하면 pretend to be dead 라고 할 수도 있는데요. 쉽게 play dead 라고 하시면 됩니다. 

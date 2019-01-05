@@ -79,7 +79,7 @@
 * 분명히/확실히 말하자면요. = Let me be clear.  상대방의 말을 믿기 어렵거나 한번 더 확실히 하고 싶을 땐, Let me get this straight 라고 말할 수 있습니다.
 
 # 질문
-* 이전에 한 약속이 여전히 유효한지 확인할 때 쓰는 표현이에요. Are you still up for dinner?
+* 이전에 한 약속이 여전히 유효한지 확인할 때 쓰는 표현이에요. Are you still up for dinner? Are you still up for lunch?
 * 자신의 능력을 증명해보인 뒤에 '이제 나에 대한 생각이 좀 바뀌었어?' 혹은 '내 실력 어때?' 라는 뜻으로 쓰이는 비격식적 표현이랍니다.상대방 의견이 틀렸음을 증명하고 자랑하듯이 쓸 수 있는 표현이죠! I got an A on the exam. How do you like me now?
 * 일반적인 왜; Why; 무엇 때문에; What for(목적을 물어봄); 도대체 왜(why보다 강한 어투; 의아함)How come
 * 뭐해, What are you up to? 뭐하면서 지냈어; What have you been up to today?
@@ -145,6 +145,7 @@
 * 내말 믿어봐 진짜야; Take it from me
 * 그냥; Just because
 * 그러세요; Be my guest
+* 나중에 해도돼; That can wait
 
 # 말투
 * 첫 단추를 잘 꿰야 한다; Get off on the right foot
@@ -214,6 +215,9 @@
 * 이용자 참여  우리는 더 중요한 일이 있어.  We ' ve got bigger fish to fry . 듣기
 
 # 일상 
+* 무슨 말이 하고 싶은지 모르겠어. = I have no idea where you are going. = I have no idea where this conversation is going. 영상에서는 [네가 이 대화를 어디로 끌고 가는지 모르겠다] 라는 뉘앙스의 표현인데요. 주인공이 하도 횡설수설하고 있죠 ㅎㅎ 이렇게 where you are going 을 써줘도 되고, where this conversation is going 이라고 해 줄 수도 있답니다.
+* 국물이 티다; THe soup splashed about everywhere
+* 식권이 다 떨어졋네 i'm coouponed out
 * 아래 방향으로 운영한다; It runs downhill in the morning
 * 셔틀버스를 운영하다; run a shuttle bus service
 * 제가 날짜를 혼동했습니다; i'm mixed up the dates

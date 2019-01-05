@@ -191,6 +191,7 @@
 	* 아주 친절한 사람이다 have a heart of gold 미국식  영국식   단어장추가
 * ~ is #good-nature
 * #발랄한	bubbly
+	* 발랄한 성격이다; She has a very bubbly pesonality
 * #쾌활한 #정감있는 	#amiable warmly = friendly
 * #활발	#active; 스포츠를 좋아함 <> outgoing(외향적인 활발)
 * #bright, #outgoing
@@ -300,6 +301,7 @@
 * #톡쏘는	#stingy [stíŋi]
 * #까칠한	grumpy 미국·영국 [|grʌmpi] #mean
 * #완고한	#stubborn
+	* impossible 이 사람을 묘사할 경우엔 비이성적이거나, 좋지 못한 행동, 강한 주장 등 때문에 다루기 어려운 사람을 의미해요. 여기선 자기 주장이 강하다는 모습 때문에 쓰여진 단어입니다.
 * #애매한 #tricky, #iffy, #vague veɪg, [æmbígjuǝs] #ambiguous = #uncertain
 * #모호한; #의심스러운; #dubious
 * #애매한 영역; #grey area

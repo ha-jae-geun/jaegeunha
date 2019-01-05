@@ -13,7 +13,7 @@
 
 
 ##영어
-12.24
+0104
 * 테드 https://www.ted.com/
 -------------
 *   MLB http://post.naver.com/my/series/detail.nhn?seriesNo=46475&memberNo=449115
@@ -109,6 +109,9 @@
 * 시언스쿨 https://m.blog.naver.com/siwonschool0
 * EF 코리아 https://m.blog.naver.com/PostList.nhn?blogId=ef_korea
 * 원스탑에듀 https://m.blog.naver.com/PostList.nhn?blogId=1stopedu
+* 달변가 https://m.blog.naver.com/PostList.nhn?blogId=tkfnxh&currentPage=2
+* 쎄쎄쎄 https://m.blog.naver.com/PostList.nhn?blogId=cedubook
+* 큐레이트 https://m.tv.naver.com/curate
 * 한국번역연구소 https://blog.naver.com/ktri8888
 -----------------------------------------------------------------------------
 * 빌보드 https://www.billboard.com/charts/hot-100#/charts/hot-100
