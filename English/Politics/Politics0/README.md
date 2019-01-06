@@ -100,6 +100,10 @@
   * 무상 급식
 
 # 핵
+* 2018년 NPT 공인 핵 보유국: 믹ㄱ, 영국, 프랑스, 러시아, 중국
+  * 비공인 보유국: 이스라엘, 이란, 파키스탄, 북한
+* 일본 원자: Little boy, Fat man
+
 ## 2018 최진기의 생존경제 - [19] 이란 핵 협정 탈퇴, 트럼프의 속내는?
 * 6.25 전쟁과 경제와 관계가 없는 베트남전쟁은 이데올로기 전쟁이었다.
   6.25 The Vietnam War, which had nothing to do with war and economy, was an ideological war.
