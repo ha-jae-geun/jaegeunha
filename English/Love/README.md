@@ -320,20 +320,27 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #mate 안친해도 가능; #pal, #buddy; 미국식 표현
  * #씨; #senor 미국식 [seinjɔ́:r,si:n-]
  * ##자기 #애칭 #호칭
+ 
+
+# 솔로
  * #모태솔로 forever alone; Are you forever alone?
  * 솔로 생활이 싫지는 않은데 					 I love being single in korea
  * ##솔로
+
+# 키스
  * 그가 그녀의 볼에 다정하게 가벼운 키스를 했다.
- * He gave her a friendly peck on the cheek.예
- * 키스하고 남은 자국 			 a hickey입니다. kiss mark love bite 라고 하기도 하구요.
- * #쪽쪽거리며 키스하다, #프렌치키스 #smooch
- * 키스할만한 상황; #kiss-worthy moment
- * 그 쪽 이마에 뽀뽀해도 될까요? Is it okay to kiss you on the forehead?
- * #뽀뽀 #키스
+	 * He gave her a friendly peck on the cheek.예
+	 * 키스하고 남은 자국 			 a hickey입니다. kiss mark love bite 라고 하기도 하구요.
+	 * #쪽쪽거리며 키스하다, #프렌치키스 #smooch
+	 * 키스할만한 상황; #kiss-worthy moment
+	 * 그 쪽 이마에 뽀뽀해도 될까요? Is it okay to kiss you on the forehead?
+	 * #뽀뽀 #키스
  * 아빠, 나 어부바 해[목말 태워] 줘요!				 Give me a piggyback, Daddy!
- * 업혀요 										get on my back
- * 업어줬더니; carried you on my back all the way here
- * ##업다 #업혀잠자리만 같이하는 친구					 friends with benefit / fuck buddy
+	 * 업혀요 										get on my back
+	 * 업어줬더니; carried you on my back all the way here
+	 * ##업다 #업혀잠자리만 같이하는 친구					 friends with benefit / fuck buddy
+
+# 떡
  * #창년 #잡년 #slut 미국·영국 [slʌt]
  * #hoe(slut과 같은의미)+s(복수)기분나쁜 사람들; 헤픈 사람들.
  * #lover: #애호가; #애인 아님
@@ -372,6 +379,8 @@ I have a big crush on you / I have a thing for you, i'm into you
  * 너가 미나즈를 원한다면 난 쓰리섬도 돼 If you wanna Minaj, I got a tricyle(menage a trois: 쓰리섬)
  * meɪ|nɑ:Ʒ] a trois [ɑ:-trwɑ́:]: 셋이서 하는
  * #생식기 #genitals = #female/#male sex #organs
+ 	* - reproductive organs 생식기관 - reproductive years 임신 가능 기간 - reproductively challenged 난임인 특히 마지막 reproductively challenged는 ‘생식적으로 장애가 있는’을 뜻하는 말로 아예 아이를 가질 수 없는 ‘불임’보다 부드러운 어감을 가지고 있고 좀 더 수준 높게 표현하는 방법이니 알아두시면 좋겠네요. 
+ 		* 우리는 불임이 아니야. 단지 좀 생식적으로 약간 문제가 있는 것 뿐이라고. We're not barren, we're just reproductively challenged.
  * 여자 성기 virginia; clits #twat slang: coochie ; coochie melt: 젖다 | 
  	* 민감하다; very sensitive organ
  	* Have you experienced any unusual vagianl bleeding or discharge
@@ -422,6 +431,7 @@ I have a big crush on you / I have a thing for you, i'm into you
  * * 게이; 수염을 기른 게이 남성; bear
  	* 게이라는걸 숨기고 잇죠. 커밍아웃을 하려고 해요; He's closeted, he's coming out of the closet
  * * 창녀; hooker
+ 	* 반면 그 반대가 prude 입니다. 성에 대해 모르는 [쑥맥], 혹은 그런 척을 하는 [내숭쟁이] 를 의미하고 형용사로는 prudish 라고 합니다. 
  * #빨보 해주다 			 give me head and man ; gave me the best head last night
 	 * #give me brain; #brain = go down on me , went down on me
 	 * #엄지 빨다 #suck his thumbs
@@ -838,8 +848,11 @@ I have a big crush on you / I have a thing for you, i'm into you
 	 * 태동을 느낄 수 있었지만; the kicks in her belly, i could feel them from the outside
 	 * 어쩌다 보니 엄마가 되었어요; Motherhood is something that just happened
 	 * 임신해서 회사를 그만두었어요. 				 I quit my job because I got pregnant.
+	 * 현재 임신 몇 주인지 영어로 물어볼 때는 How far along are you? 라고 합니다. 그에 대한 대답도 문장과 같이 기간+along 혹은 기간+pregnant 라고 하시면 됩니다. How far along are you? – I’m 30 weeks along. (=I’m 30 weeks pregnant)
+	 * 참고로 아들은 son, 딸은 daughter 이긴 하지만, 뱃속 태아의 성별을 물어볼 때는 Is it a son or a daughter? 보다는 Is it a boy or a girl?이라고 합니다. 
 	 * 임신 시키다; knocked-up 속어; i didn't knock someone up
 	 * 유산시키다; have a miscarriage; miscarry
+	 * 낙태; 1) 임신 중절에 대한 표현은 여러가가지가 있는데요, 우선 영상에서 나온 terminate the pregnancy가 있습니다. terminate은 ‘제거하다, 없애버리다, 종료하다’라는 뜻으로 임신을 끝내버린다는 거죠. terminate 대신 쉽게 end the pregnancy라고 할 수도 있습니다. 혹은 get/have an abortion도 ‘낙태하다’라는 의미로 terminate the pregnancy보다는 덜 문어체적인 표현입니다. 
  * 출산 예정일이 언제에요; When's Jenny due?
  * 육아 휴직 기간입니다. 							 I'm on maternity leave. 
  * 아내는 가정적이에요? 						 Is your wife helpful at home? 

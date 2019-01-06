@@ -526,6 +526,9 @@ build your core muscles
 	* #허리 둘레; #waistline 늘어나는 an expanding wisteline
 	I hurt my back, I #throw out my back; threw his back out rock climbing
 	* 잘록 들어간 옆부분: waist, 아래 부분; back, lower back
+* 단수형으로 vertebra, [ˈvɜːrt-]  영국식 [ˈvɜːtɪbrə]  복수형으로 vertebrae 입니다. 좀 더 간단한 표현으로 backbone(등뼈), spine(척추)라고 하셔도 됩니다.
+	* [2] paraplegic : 하반신 마비의 / 하반신마비환자 paraplegia(하반신마비증)의 형용사이자 명사로 ‘하반신마비환자를 의미합니다. 그리고 ’하반신불완전마비(incomplete paraplegic)는 하반신완전마비(complete paraplegic)과는 다르게 뇌에서 보내는 신호를 하반신이 어느 정도는 인지할 수 있다고 합니다. [ˌpærəˈpliːdʒə] 
+	* 데이비드는 차사고에서 척추뼈가 부숴졌다. David crushed his vertebrae in a car accident. 
 * #뚱뚱한 여자; the #roll of waisteline flesh
 * Be kind of on the heavy side = got kind of big  = #chubby
 * 허리가 나가다; my back went out

@@ -207,6 +207,8 @@
 * breaking news
 * 물리적인 공간에서 탈출하는 것과 어려움이나 제약, 또는 불쾌함을 주는 사람에게서 벗어나는 상황에서 둘 다 쓸 수 있는 표현입니다. 또한 장치의 일부가 떨어져 나갈 때 쓸 수도 있어요.
 	* 난 걔가 가족들로부터 벗어나면 행복해할 거라고 생각해. ex) I think he would be happy if he breaks free of his family.
+* 하기 어려운 말을 할 때, 안 좋은 소식을 전할 때 자주 쓰는 표현이에요. 여기서 break 는 '소식을 알리다'!
+	* 이런 말 해서 미안한데, 쟤 말이 맞아. I hate to break it to you, but he's right.
 
 ### break down
 *  테드는 그 사고를 다시 머릿속에서 경험했을 때 흐느끼며 무너져 내렸다. Ted broke down sobbing as he relived the accident.
@@ -259,6 +261,11 @@
 * : 촛불을 꺼 Blow out the candles. 그냥 'Blow the candles' 라고 하기도 하지만,  'Blow'에는 '성'적인 뜻을 가지고 있기도 해서, 'Blow out' 이라고 하는 것이 안전한 표현입니다.
 * : 뭔가를 잡으세요. 날라가지 마세요. Hold on to something. Don't blow away
 * : 할머니는 할머니의 결혼 50주년 파티에서 모든 사람들을 뿅가게 할 거에요. You're going to blow everybody away at your fiftieth anniversary party.
+
+## charm
+* ‘매력’으로 잘 알고 계실텐데요, 영상에 나오는 것처럼 악세서리 장식물이나 상징물, 부적 등도 charm 이라고 합니다. 
+	* 이건 내 행운의 부적이야. 내 할머니가 주셨어.  This is my lucky charm. My grandma gave it to me.
+* charm = 장식물, 부적
 
 ## compromise
 * 위태로워진 재정상태로 인해 due toe compromised funding
@@ -325,12 +332,26 @@
 * 안구정화 상대; 외모는 그럴싸하지만 지적으로 혹은 깊이는 없는 상대; eye candy
 * 귀여운 아기; is as sweet as pie
 
+## cave
+* 천장, 지붕, 벽 등이 비어있는 공간으로 무너져 떨어지는 것을 의미하는 단어입니다. cave 가 원래는 [동굴]이라는 뜻이 있는데, 동굴도 비어있는 공간이잖아요? 그 안으로 무언가가 떨어지는 모습의 단어입니다.
+	* = 천장이 무너지기 전에 개를 꺼내올 수 있었어. We were able to get the dog out before the roof caved in.
+
+## control
+* 'take control' 은 기본적으로 어떤 상황에서 '통제권/주도권을 잡다' 라는 뜻이에요! 무엇의 통제권을 잡는지 얘기하고 싶다면 'of something' 을 더해주세요. 다음 문장들을 보면서 다양한 용례를 익혀봅시다!
+	* 내 인생의 통제권을 잡아야겠어. I need to take control of my life.
+
 ## crystal
 * [결정체, 수정] 을 crystal 이라고 하죠. 그것의 동사형입니다. 원래 액체인 꿀이 냉장고에 넣으면 딱딱해져 결정이 생긴다는 의미입니다. 
 	* 밤새 창문에 붙었던 눈이 수정처럼 얼어 굳어있었다. Ice had crystallized on the window pane overnight.
 * 전치사는 함께 쓰이는 동사나 문맥 등에 따라 그 뜻이 수만가지라고 볼 수 있는데요, crystallize on you 에서 [on 사람] 은 [가 있는데 불쾌한 일이 발생한] 을 의미합니다. 
 	* - It tends to crystallize on you. 결정이 생기는 불상사를 맞게 됩니다.
 	* - It tends to crystallize. 결정이 생깁니다.
+
+## cap
+* 1) 이 단어는 스포츠에서 꽤 많이 접할 수 있는데요. 팀에 소속된 전체 선수들의 연봉이 일정액을 넘지 못하도록 상한선을 정해놓은 것을 '샐러리캡' 이라고 합니다. 
+* 2) cap 은 '뚜껑, 모자' 라는 뜻이 있듯이, 더 이상 올라가지 못하도록 덮어놓은 모습을 연상하시면 쉬울 것 같아요. 명사로 쓰일 경우에 [에 한도를 정하다] 라고 말하고 싶을 경우 put/place a cap on 이라고 하시면 됩니다.
+* 3) 영상을 직역하면 [500불에 최대 한도를 두겠어요] 정도이지만 좀 더 자연스럽게 [최대 500 달러 정도요] 라고 해석이 되었습니다.
+	* = 최선의 해결책은 봉급에 상한선을 두는 것이죠. The best solution now is to place a cap on the wage.
 
 ## dip
 * 이용자 참여  우리는 상황을 알아 보았다  Dipping our toes in the water . 듣기
@@ -357,6 +378,10 @@
 	* ever-active: 항상 활동적인 ever-growing: 항상 자라나는 ever-changing: 항상 변화하는
 		* 우리 할머니께는 늘 활발하시다. [ex] My grandma is ever-active.  계속 증가하는 인구 수가 문제가 되고 있다. [ex] The ever-growing number of population is becoming a problem; 우리는 계속 변화하는 세상에 적응해야 한다. [ex] We need to get used to the ever-changing world.
 
+## envelop
+* 감싸다, 뒤덮다; [봉투] 를 의미하는 envelope 에서 e 하나만 빼면 동사로 [뒤덮다] 라는 의미로 쓰인답니다.
+	* 그녀는 커다란 갈색 수건으로 몸을 감쌌다. ex) She enveloped herself in a huge brown towel.
+
 ## ear
 * 상황을 보아가며 결정하다; play it by ear
 * 열심히 귀를 기울이다; by all ears
@@ -372,6 +397,8 @@
 * i found my bag
 * did you find math test difficult?
 * find out(out: 밖에 있는 느낌): 몰랐던 걸 알게 되다
+* '나의 의지와 상관없이', '어쩌다보니' 그런 생각을 하게 되었다는 뜻이에요.  I found myself having thoughts...
+	* 정신차려 보니 다시 그녀 문앞에 내가 있더라고. (진짜 정신을 잃은 건 아니고, 무언가에 홀린듯 거기로 갔다는 뉘앙스) ex) I found myself back at her doorstep.
 
 ## flat
 * flat 은 아래의 [참고] 부분에 있는 것처럼 굉장히 많은 뜻을 가지고 있고 많이 쓰이지만, 영상에서처럼 [시간+flat] 을 쓰게 되면 형용사로 '딱 ~ 밖에' 시간이 걸리지 않았을 때, 그만큼 무언가가 놀랍게 빨리 발생했고, 단지 그 시간 밖에 걸리지 않았다는 것을 강조해 주기 위해서 쓰입니다.
@@ -395,6 +422,10 @@
 
 ## fuck
 * = 아 몰라!, 아 됐어! 신경 안 쓸래!  fuck it
+
+## follow
+* follow in someone's footsteps 는 직역하면 [누군가의 발자취 속에서 따라가다] 라는 의미인데요. 즉, 다른 사람 (특히 가족 구성원)이 이전에 했던 일을 본받아 하는 것을 의미합니다. 특히 '직업/경력' 을 따라가는 것을 의미하는데요. 
+	* 형의 발자취를 따라, 나는 대학에서 공학을 공부 중이다. ex) Following in my brother's footsteps, I am studying engineering at college.
 
 ## go 
 * / 상당한 영향을 주다. = 주어 go a long way towards 목적어 go a long way 는 [오래가다/지속되다] 라는 뜻이 있어요. 그래서 그 효과/도움 등이 특정한 것을 향하여 쭈우욱- 이어지는 느낌이죠. A little thanks goes a long way. 
@@ -737,6 +768,8 @@
 * 그 집은 집주인이 몇 번 바뀌었다. The house has changed hands several times. 
 * 그는 현행범으로 체포됐어요.  He was caught red handed on the spot .
 * 그 학생은 즉석에서 이야기를 만들어냈다. The student made up a story off hand. 
+* 어떤 물건이 handheld라고 하면 ‘손에 들고 쓰는 것’을 의미합니다. 예를 들어 handheld mirror는 손거울이 되는 것이죠. 영상에서는 계속 촬영 기법에 대해서 이야기 하고 있는데, handheld shot(핸드헬드 쇼트)는 카메라를 기구에 고정시키지 않고 손으로 들고 찍는 기법입니다.
+	* 영화 전체는 핸드헬드 카메라(손에 들고 찍는)로 촬영되었다. The entire film was shot with a handheld camera.
 
 ## house
 * : '집'을 가리키는 'house'도, 정치얘기를 할  때는 '의회'나 '미국의 하원' '영국의 상원'으로 해석해주셔야 합니다. 또한, 반드시 그런 것은 아니지만 'h'를 대문자로 표기하는 경우가 많아요!
@@ -815,6 +848,10 @@
 * 물론, 분명히. by all manner of means
 
 ## make
+### makeover
+* 주로 전문가에 의해 사람이나 장소의 모습이 확연히 향상되는 것을 의미해요. 뒤집어(over) 만들듯(make) 완전 딴 사람인듯, 딴 장소인듯 만드는거죠. 화장이나 헤어스타일 등을 확 바꿔서 다른 사람처럼 보이거나, 예전에 집을 완전히 바꿔주는 프로그램 같은 것들을 생각하시면 될 듯 해요!
+	* 우리 주방을 싹 바꿀 때 인 것 같아. ex) It's time to give our kitchen a makeover.
+
 ### make out
 * 'Make out' 의 뜻은 일반적으로 '이해하다, 알아듣다' 라는 뜻으로 많이 쓰이고요, '섹슈얼한 의미'로 '애무하다, 스킨십하다' 라는 의미로도 많이 쓰입니다.
 * : 그는 나 만큼 이해하지 못했어요. He didn't make out as well as I did.
@@ -852,6 +889,10 @@
 ## own
 * in one's own right: 직역하면 '자신의 정당한 자격으로' 라는 뜻으로 남의 도움 없이 자기 스스로 자격이 있다는 의미의 표현이에요.
 	* 그녀는 혼자 힘으로 부를 얻었다. She's a rich woman in her own right.
+
+## pale
+* 원래 형용사로 안색이 [창백한] 을 의미로 가장 많이 쓰입니다만, 동사로는 무언가가 덜 중요하게 보이거나 덜 인상적으로 보일 때 많이 쓰이며 [별것 아니게 느껴지다] 정도로 해석이 됩니다. pale into insignificance라는 숙어도 함께 알아두시면 좋은데요. [빛이 바래다, 중요성을 잃다]를 의미합니다.
+	* = 건강을 잃으면 다른 모든 것들은 중요하지 않게 되지. All else pales into insignificance when you lose your health.
 
 ## put
 * put somebody down은 '~를 깎아내리다', '~를 무시하다'라는 뜻이에요. 참고로 put down은 '~을 내려놓다', '~을 쓰다'라는 뜻이죠. 
@@ -1016,6 +1057,10 @@
 * 남이 어떤 나쁜 일을 겪지 않도록 해주는 것을 spare라고 합니다. 사용시 어순은 「spare 사람 (from) 불쾌한 일」입니다. 영상속 대사를 살펴보면 spare(받지 않게 해주다) / others(다른 사람들) / the anguish of the disease(이 병으로부터의 고통)이 되겠습니다.
 	* 그녀는 그녀의 어머니에게 어떤 걱정도 끼치지 않길 바랬다. She wanted to spare her mother from any anxiety.
 
+## sense
+* in all senses of the word = 어느 모로 봐도 / 어느 점으로 봐도; sense 는 감각뿐만 아니라 ‘점, 면, 의미’를 뜻하기도 합니다. 그래서 이 표현은 ‘그 단어가 의미하는 어떤 부분을 보아도’를 말하고 주로 문장 안에 그 단어를 지칭하는 구체적인 말이 따라옵니다. 
+	* 그는 어떤 면으로 봐도, ‘훌륭한 사람’ 그 단어 자체야. He is a fine man, in every sense of the word.
+
 ## serve
 * 자신의 생각을 일기장에 써본다면 도움이 된다고 말하면서 you serve yourself 라고 하였습니다. 이 표현은, 자신에게 도움이 되는 행위를 하다라는 뜻입니다. 여기에 if+문장을 넣어서 if 뒤를 할 경우, 너에게 도움이 될 것이다라고 구체적으로 표현해 주면 됩니다.
 	* 자기 전에 물 한잔 마시면 너에게 아주 좋을 거야. You would serve yourself if you drink a cup of water before going to bed.
@@ -1054,6 +1099,9 @@
 ## speak
 * * 모두가 그녀를 아주 좋게 이야기한다. Everyone speaks very well of her. 
 
+## stern
+* 영상에 나오는 김정은의 얼굴이 stern 의 완벽한 예라고 보시면 될 것 같아요! 화난 듯 무표정으로 뚱하게, 근엄하게 있는 것을 의미하고요. 누군가의 말이 stern 할 때는 [심한 (말)] 을 의미합니다.
+	* 그의 심각한 모습에도 불구하고, 그는 굉장히 마음이 따뜻한 사람이야. ex) Despite his stern look, he is a very warm-hearted person.
 
 ## track
 * track 은 말 그대로 사람들이 따라가도록 나있는 [길] 을 의미하는데요. 무언가를 함에 있어서 목표를 향한 길에서 벗어나지 않고 잘 따라갈 때 on track 이라고 합니다. 제대로 된 방향으로 나아갈 때는 on the right track, 잘못된 방향일 때는 on the wrong track 이라고 하고요. 잠시 잘못된 방향으로 갔다가 다시 돌아왔을 때는 get back on track 이라고 할 수 있어요.
@@ -1077,6 +1125,8 @@
 ## take
 * 정말 강한 소유욕 <> have
 * 어떻게든 내것으로 가져오는 느낌
+* : 직역하면 뭔가를 '너무 멀리까지 가져가다'라는 뜻인데요. '오버하다', 뭔가를 '과하게 하다', 혹은 '선을 넘다'라는 말이에요! 이 가사도 '우리가 이성을 놓다가 너무 심각한/과한 짓까지 저지르면-' 이라는 뜻이죠; take it (way) too far
+	* 핀이 농담을 [안 좋을 정도로] 너무 과하게 해댔어. Finn took it way too far with the jokes.
 
 ### take down
 * 먼저 'Take down'은 기본적으로 '사람이나 사물을 아래로 데려가다' 라는 의미를 가지고 있습니다. 여기에서, '누군가를 어떤 지위에서 끌어내리다', '글자그대로 사람이나 사물을 위에서 아래로 데려가다, 가져가다', '바지를 내리다' 라는 뜻과 '글을 적어내려가다 라는 의미에서 을 적다, 받아적다' 라는 뜻으로 사용됩니다.

@@ -59,7 +59,7 @@
 * 한 소절; The first verse.; 1절: Verse 1, 랩까지? Rap verse?
 * 음악 좀 들으실래요? Do you want to pump some tunes?
 * 여자 키; pitch/Key for female/girls or guys?; It's in women's pitch, but I sang in men's pitch. 
-
+	* 야 방금 그거 음 하나도 안 맞았어. Hey, that was totally off key.
 ------------
 # 노래방 	#구호, #연호하다; #chant; chant their hero's name
 * #구호를 정하다; let's make a chant

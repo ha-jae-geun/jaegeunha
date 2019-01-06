@@ -3,7 +3,8 @@
 * flea market; 벼룩시장
 * thrift store; 중고 상품을 기부 받아 그것들을 판매한 수익을 다른 곳에 기부하는 상점
 * consignment store; 위탁 판매점;  주로 물건을 가져다 주면 상저에 전시하다가 팔린 후에 위탁자와 상점이 그 수익을 나누어 가지는 시스템
-
+* supply 는 [공급하다] 라는 의미 외에도 명사로 [보급품, 공급품, 필수품, 지급물] 등, 회사나 단체에서 쓰는 물품들을 의미하기도 합니다. 
+	* office supply store = 사무용품 판매점 party supply store = 파티용품 판매점 art supply store = 미술용품 판매점 (화방) medical supply store = 의료기기 판매점
 
 # 거래
 * 현금만 받는 사업이거든요; It is a cash only business

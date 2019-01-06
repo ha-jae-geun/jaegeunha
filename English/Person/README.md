@@ -154,6 +154,7 @@
 * ○ To deny your age is to deny you've survived (당신의 나이를 부정하는 것은 당신이 살아온 것을 부정하는 겁니다)
 * ○ feel one's age (더이상 젊지 않음을 깨닫다) ----> Everybody there looked under 20 and I really felt my age (거기 모든 사람들이 스물 이하로 보였고, 난 내가 더이상 젊지 않음을 깨달았다)
 * ○ under age (미성년)
+	* 법적으로 성인이 되는 나이를 legal age 라고 하는데요. 그 나이에 도달하지 못한 미성년자를 minor 라고 합니다. 성인들은 보통 그냥 adult, 혹은 grown-up 이라고 해요.
 * ○ new age (뉴에이지/ 혼합식 명상음악)
 * ○ What age was he when he died? (그가 죽은 나이가 몇이었어?)
 * ○ The age of a horse is up to thirty years (말의 수명은 30년이다)

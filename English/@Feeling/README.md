@@ -997,9 +997,10 @@
 * #아니#; #i mean
 * 글쎄, 아닌 것 같은데 								 I doubt it.
 * #신경 쓰지마. 별 일 아니야. 		 Drop it. Forget it. Not a big deal, Don't let it get to you. 
-* 신경 쓸 필요가 없다; couldn't care less
-* *신경 안써 								 I don't give (a thing
-* *~에서 신경을 떼다 			 keep #mind off; I just wanted to keep my mind off it
+	* 신경 쓸 필요가 없다; couldn't care less
+	* *신경 안써 								 I don't give (a thing
+	* *~에서 신경을 떼다 			 keep #mind off; I just wanted to keep my mind off it
+	* 정부는 교도소 과밀 문제에 대해 무신경한 태도를 취하고 있다. The government takes a cavalier attitude to the problems of prison overcrowding. 
 * 됐어요 							 no, I'm good. Forget it / No thanks
 * 됐으면 말해 									 #Say when! 
 * #됐죠. Are we #cool? #okay? #good?
@@ -1026,129 +1027,136 @@
 * 내가 #아는한 아니다 		Not that I know of. = #as far as I know = #for all one know
 * #퇴자놓다; #spurn; her offer was spurned
 * ### #됐어요 #괜찮아요 #거부 #거절 #아니다 #글세 #과연 #아닌 #아니야
-* 1. be stressed.
-* 2. get stressed. 
-* 2. be under stress. I'm under a lot of stress these days. I'm very stressed these days.
-* ##stress: 1. 강조하다 2. 주다 
-* 먹는걸로 스트레스 풀다; #stress eating; i'm stress eating
-* 스트레스에 잘 견디는 						 work well under pressure
-* 스트레스 없는 삶 #stress-free life
-* #스트레스 받는다. 				 I am so stressed out. (stressful X)
-* be/get/feel stressed, was/be/have been stressed / 've been feeling a lot of stress
-* 최근에 일로 스트레스 받는다 		 Work has been so stressful. (사람 대상으로 안씀)
-* 나 스트레스 받고 있다구요. 					 I've been #under the gun.
-* 스트레스 풀다 			get rid of stress, reduce stress, #relieve, #escape #manage
-* ##스트레스 
+
+
+
+# 스트레스
+* 누군가는 스트레스를 좀 풀 필요가 있었어 Someone needed to let off some steam!
+	* 2) distress는 ‘정신적 고통, 괴로움’으로 stress(스트레스, 압박) 보다 훨씬 더 강하고 고통스러운 것을 말합니다. 
+		* 그녀는 친구의 사망 소식을 듣고 매우 고통스러워 했다. She was deeply distressed by the news of the death of her friend.
+	* 1. be stressed.
+	* 2. get stressed. 
+	* 2. be under stress. I'm under a lot of stress these days. I'm very stressed these days.
+	* ##stress: 1. 강조하다 2. 주다 
+	* 먹는걸로 스트레스 풀다; #stress eating; i'm stress eating
+	* 스트레스에 잘 견디는 						 work well under pressure
+	* 스트레스 없는 삶 #stress-free life
+	* #스트레스 받는다. 				 I am so stressed out. (stressful X)
+	* be/get/feel stressed, was/be/have been stressed / 've been feeling a lot of stress
+	* 최근에 일로 스트레스 받는다 		 Work has been so stressful. (사람 대상으로 안씀)
+	* 나 스트레스 받고 있다구요. 					 I've been #under the gun.
+	* 스트레스 풀다 			get rid of stress, reduce stress, #relieve, #escape #manage
 * #appal, #horrify, #shock - 간담을 서늘케 만들다, 놀래게 하다 
-* #awful, #disgusting, #dreadful - 끔찍한 
-* 완전 충격 받았어 It shook me to my #core.
-* 충격적인; #disturbing, #worrying, #frightening - 충격적인, 불안감을 주는 
-* 충격이었어 it hit me really hard
-* #bombshell
-* 충격적인: #striking; striking background
-* 끔찍한 #gnarly; i've got to do this gnarly list of jobs
-* 충격받았다 I was #shocked / #in panic(#panic)
-* 충격받아서 박수치는 것 같애; applauding #out of shock
-* 너 쇼크먹은 거 같아. 						 You look pretty shook up.
-* 이 그림은 뭔가 심각하게 충격스럽다. 			 That’s a seriously #disturbing image
-* #충격 요법; ~ sb (into sth/into doing sth) 충격 요법을 쓰다
-* The urgency of his voice #galvanized them into action.예문 발음듣기
-* 그의 목소리에 담긴 다급함에 화들짝 놀라 그들이 행동에 나섰다.
-* 참혹한 부상 						 [hɔ:|rendəs;hɑ:|r-] horrendous injuries
-* 그의 가족은 그야말로 충격에서 헤어나질 못하고 있다.	 His family is absolutely devastated.
-* #파문, #충격파 #shockwave; send shockwave
-* These changes are bound to have widespread social #ramifications.
-* #in shock; ##shock
-* #트라우마; be psychologically #traumatized (by)
-* #파문 #충격 #참혹 #끔찍 #쇼크
+	* #awful, #disgusting, #dreadful - 끔찍한 
+	* 완전 충격 받았어 It shook me to my #core.
+	* 충격적인; #disturbing, #worrying, #frightening - 충격적인, 불안감을 주는 
+	* 충격이었어 it hit me really hard
+	* #bombshell
+	* 충격적인: #striking; striking background
+	* 끔찍한 #gnarly; i've got to do this gnarly list of jobs
+	* 충격받았다 I was #shocked / #in panic(#panic)
+	* 충격받아서 박수치는 것 같애; applauding #out of shock
+	* 너 쇼크먹은 거 같아. 						 You look pretty shook up.
+	* 이 그림은 뭔가 심각하게 충격스럽다. 			 That’s a seriously #disturbing image
+	* #충격 요법; ~ sb (into sth/into doing sth) 충격 요법을 쓰다
+	* The urgency of his voice #galvanized them into action.예문 발음듣기
+	* 그의 목소리에 담긴 다급함에 화들짝 놀라 그들이 행동에 나섰다.
+	* 참혹한 부상 						 [hɔ:|rendəs;hɑ:|r-] horrendous injuries
+	* 그의 가족은 그야말로 충격에서 헤어나질 못하고 있다.	 His family is absolutely devastated.
+	* #파문, #충격파 #shockwave; send shockwave
+	* These changes are bound to have widespread social #ramifications.
+	* #in shock; ##shock
+	* #트라우마; be psychologically #traumatized (by)
 * 그들의 탈세 음모는 매우 교활한 것이었다. 
-* 	 ski:m ɪ‘veɪd tӕks ’krӕfti	heir schemes to evade taxes were very crafty.
-* #교활하게 해내다; you got that in sneakily
-* #교활
+	* 	 ski:m ɪ‘veɪd tӕks ’krӕfti	heir schemes to evade taxes were very crafty.
+	* #교활하게 해내다; you got that in sneakily
+	* #교활
 * 난처한 상태 kettle of fish
-* #up a gumtree = #in a pickle
-* #in hot water (with); 곤경에 빠지다
-* #predicament; [pridíkǝmǝnt]곤경, #궁지; describe his predicament
-* #back against the wall; 궁지에 몰리다; 
-* be #cornered by; he was cornered by sharp questions from the reporters
-* #수세에 몰아 넣다; #put him on the #defensive
-* #역경; 곤란, #odd; won against greater odds; 
-* #adversity; in/with adversity
-* #곤경에 ᄈᆞ지다; #goose is cooked = i'm in a little bit of a bind; #bind = i'm caught between a rock and a hard place
-* #box in / #stuck / #trapped; you got me boxed in
-* i'm in a #fix/#dilemma/#jam/#hot water/#pickle = I have my back to the wall; i'm in a #double bind
-* 팀을 곤란하게 하고 싶지 않다. 				 "I don't want to put the team on the spot
-* 단장은 곤란한 입장이다. 				 Our general manager is on the spot 
-* 프레드는 프로젝트를 이끄는데 동의했기 때문에 곤경에 처해 있다.
-* Once we sign the contract, we are #on the rock/#on the hook.
-* 남의 도움 없이 일어서다[곤경을 벗어나다]	 pull/drag yourself up by your (own) bootstraps
-* #곤란하게 하다 #곤경
+	* #up a gumtree = #in a pickle
+	* #in hot water (with); 곤경에 빠지다
+	* #predicament; [pridíkǝmǝnt]곤경, #궁지; describe his predicament
+	* #back against the wall; 궁지에 몰리다; 
+	* be #cornered by; he was cornered by sharp questions from the reporters
+	* #수세에 몰아 넣다; #put him on the #defensive
+	* #역경; 곤란, #odd; won against greater odds; 
+	* #adversity; in/with adversity
+	* #곤경에 ᄈᆞ지다; #goose is cooked = i'm in a little bit of a bind; #bind = i'm caught between a rock and a hard place
+	* #box in / #stuck / #trapped; you got me boxed in
+	* i'm in a #fix/#dilemma/#jam/#hot water/#pickle = I have my back to the wall; i'm in a #double bind
+	* 팀을 곤란하게 하고 싶지 않다. 				 "I don't want to put the team on the spot
+	* 단장은 곤란한 입장이다. 				 Our general manager is on the spot 
+	* 프레드는 프로젝트를 이끄는데 동의했기 때문에 곤경에 처해 있다.
+	* Once we sign the contract, we are #on the rock/#on the hook.
+	* 남의 도움 없이 일어서다[곤경을 벗어나다]	 pull/drag yourself up by your (own) bootstraps
 * 상처: ##wound(a wound, wounds, the wound; 자신에게 난 상처), scar
-* 이미 마음에 상처를 입었어; i'm broken hearted
-* 상처를 치유하다; #dress a wound(#wound)
-* 상처를 잘 받음; #thin #skin;(<>#thick skin; 무덤덤); she has av ery thin skin
+	* 이미 마음에 상처를 입었어; i'm broken hearted
+	* 상처를 치유하다; #dress a wound(#wound)
+	* 상처를 잘 받음; #thin #skin;(<>#thick skin; 무덤덤); she has av ery thin skin
 * ☆어렵다; it's hard for me to ~, i'm struggling, it's gonna be difficult
-* 설득이 어려운 상황 #hard sell <> #easy sell/points
-* #devastated; 이혼 등 아주 안좋은 ㅇㄹ이 었어서 힘들다
-* 힘든 일이였어요 	 #strenuous 미국·영국 [|strenjuəs] it's been a tough cause/ rough road
-* 힘들어 				 It takes a lot of doing / It takes a hard work / It's hard
-* 나 힘들어 	 I struggle / I'm having/going through a hard/rough time(I'm hard xxx)
-* 앨리가 학자금대출때문에 힘들어요		 Ally is having difficulty with her student loans
-* 힘들었겠네.								 Must be hard for you.
-* 나이 든 사람한테는 살짝 힘들다 .	 igzə́ːrʃə Quite an #exertion particularly for an older person 
-* your exertion below deck
-* 월세를 내느라 무척 힘들어. 					 I’m struggling to pay my rent. 
-* 힘든 일은 걔가 다했어 						 He did all the heavy things.
-* 힘들게 하다; she gave you a bad time last night
-* #고생하다, 고난을 뚫고 나아가다; #go through hell
-* 고생 끝에 #빛이 보이다; there's a light at the end of the tunnel = there's hope yet
-* it was too much a problem for me 
-* #tough, a #nightmare, not easy
-* ☆it's hard for me to V; have a hard time -ing; it's not easy for me; i'm struggling to V
-* 어렵다 										 it’s challenging
-* ##difficult: 격식, ##hard: 덜 격식; 못하는게 아니라 어려운 것
-* #혹독한 #시련 #fiery #trial 
-* #lemon: 시련 #lemonade; #기회; when life gives you lemons, make lemonade
-* 버거워 보인다 looks #overwhelming
-* 버겁게 굴었지 							 I was a burden to you
-* ‘#우습게 볼게 아니다 								 ain't no joke
-* *우습게(#가볍게) 생각하지마 			you don’t make light of money | #lightly
-* 내가 가벼워서 떠날 것 같애? do you think i'm so #shallow that i;m gonna leave
-* 나한테는 어려워								 It's Greek to me
-* 어려운 일; #no easy feat(#feat)
-* #기상천외하게도 #funnily enough
-* 어떤 관계든 다 #우여곡절이 있는 거야 			 Every relationship has its ups and downs. 
-* #vicissitude; the vicissitudes of life took their toll
-* 우역곡절; #bumpy ride
-* It’s been a roller coaster ride
-* 괴로워하다 #distressed
-* 괴롭히다: #pick on; why must you pick on; #get picked on; 괴롭힘 당하다
-* 괴롭히다; it's been killing me
-* #afflict, #torment, #hurt - 괴롭히다, 피해를 입히다 
-* #못되게 굴다; #petulant; was that petulant
-* #거칠게 구는 사람; #bull in a china shop	
-* 그만 괴롭혀 								 Stop bugging me.
-* #harass; likes to harass
-* #get in one's hair <> #get (the hell) out of one's hair; 그만좀 괴롭혀
-* 아들아 너 친구 괴롭힌다면서				 Son, I heard that you bully your friends
-* 그는 경찰로부터 괴롭힘을 당하고 있다고 호소해 왔다.He has complained of being harassed by the police.
-* 상처 받은거 아니지? 								 No hard feelings
-* ‘상처로 남아 								 are left as wounds
-* ‘나쁘게 받아들이지 마 				#No offense but ~ -> #none taken
-* 너도 알잖아 힘든 날도 지나가는 것을			 You know, rough days come and go
-* 힘든 일과 맞닥뜨리다 					 		 "have ~ work cut out
-* ~에 대해 상심하다, 괴롭다 					 take something hard
-* 고생할 가치가 있다. 						 The juice is worth the squeezing..
+	* 설득이 어려운 상황 #hard sell <> #easy sell/points
+	* #devastated; 이혼 등 아주 안좋은 ㅇㄹ이 었어서 힘들다
+	* 힘든 일이였어요 	 #strenuous 미국·영국 [|strenjuəs] it's been a tough cause/ rough road
+	* 힘들어 				 It takes a lot of doing / It takes a hard work / It's hard
+	* 나 힘들어 	 I struggle / I'm having/going through a hard/rough time(I'm hard xxx)
+	* 앨리가 학자금대출때문에 힘들어요		 Ally is having difficulty with her student loans
+	* 힘들었겠네.								 Must be hard for you.
+	* 나이 든 사람한테는 살짝 힘들다 .	 igzə́ːrʃə Quite an #exertion particularly for an older person 
+	* your exertion below deck
+	* 월세를 내느라 무척 힘들어. 					 I’m struggling to pay my rent. 
+	* 힘든 일은 걔가 다했어 						 He did all the heavy things.
+	* 힘들게 하다; she gave you a bad time last night
+	* #고생하다, 고난을 뚫고 나아가다; #go through hell
+	* 고생 끝에 #빛이 보이다; there's a light at the end of the tunnel = there's hope yet
+	* it was too much a problem for me 
+	* #tough, a #nightmare, not easy
+	* ☆it's hard for me to V; have a hard time -ing; it's not easy for me; i'm struggling to V
+	* 어렵다 										 it’s challenging
+	* ##difficult: 격식, ##hard: 덜 격식; 못하는게 아니라 어려운 것
+	* #혹독한 #시련 #fiery #trial 
+	* #lemon: 시련 #lemonade; #기회; when life gives you lemons, make lemonade
+	* 버거워 보인다 looks #overwhelming
+	* 버겁게 굴었지 							 I was a burden to you
+	* ‘#우습게 볼게 아니다 								 ain't no joke
+	* *우습게(#가볍게) 생각하지마 			you don’t make light of money | #lightly
+	* 내가 가벼워서 떠날 것 같애? do you think i'm so #shallow that i;m gonna leave
+	* 나한테는 어려워								 It's Greek to me
+	* 어려운 일; #no easy feat(#feat)
+	* #기상천외하게도 #funnily enough
+	* 어떤 관계든 다 #우여곡절이 있는 거야 			 Every relationship has its ups and downs. 
+	* #vicissitude; the vicissitudes of life took their toll
+	* 우역곡절; #bumpy ride
+	* It’s been a roller coaster ride
+	* 괴로워하다 #distressed
+	* 괴롭히다: #pick on; why must you pick on; #get picked on; 괴롭힘 당하다
+	* 괴롭히다; it's been killing me
+	* #afflict, #torment, #hurt - 괴롭히다, 피해를 입히다 
+	* #못되게 굴다; #petulant; was that petulant
+	* #거칠게 구는 사람; #bull in a china shop	
+	* 그만 괴롭혀 								 Stop bugging me.
+	* #harass; likes to harass
+	* #get in one's hair <> #get (the hell) out of one's hair; 그만좀 괴롭혀
+	* 아들아 너 친구 괴롭힌다면서				 Son, I heard that you bully your friends
+	* 그는 경찰로부터 괴롭힘을 당하고 있다고 호소해 왔다.He has complained of being harassed by the police.
+	* 상처 받은거 아니지? 								 No hard feelings
+	* ‘상처로 남아 								 are left as wounds
+	* ‘나쁘게 받아들이지 마 				#No offense but ~ -> #none taken
+	* 너도 알잖아 힘든 날도 지나가는 것을			 You know, rough days come and go
+	* 힘든 일과 맞닥뜨리다 					 		 "have ~ work cut out
+	* ~에 대해 상심하다, 괴롭다 					 take something hard
+	* 고생할 가치가 있다. 						 The juice is worth the squeezing..
 * 바닥을 치다 								 it hit rock bottom
-* #딱딱하다; 딱딱하지 않다; it's not all #dry like that
+	* #딱딱하다; 딱딱하지 않다; it's not all #dry like that
 * #무력하게 하다; #emasculate; she's less emasculating
-* I can't seem to throw off this feeling of #inertia. 
-* ☆어려움을 벗어나다; We finally #off the hook.
-* #여간 힘든게 아니다; it's like #pulling teeth
-* out of one's mind; you are out of your minds with grief
-* #버거워 보인다; it looks #overwhelming
-* That can't be fun; #not fun at all; 괴롭겠다
-* #우여곡절 #고생 #상심하다 #괴롭다 #힘들다 #빡세다 #힘든 #혹독 #어려운 #어렵다 #상처 | #버겁다
+	* I can't seem to throw off this feeling of #inertia. 
+	* ☆어려움을 벗어나다; We finally #off the hook.
+	* #여간 힘든게 아니다; it's like #pulling teeth
+	* out of one's mind; you are out of your minds with grief
+	* #버거워 보인다; it looks #overwhelming
+	* That can't be fun; #not fun at all; 괴롭겠다
+
+
+
+# 냉정
 * 냉정하져 chill out, 긴장 풀어 sit back and relax
 * 고도의 긴장이 요구되는 때 crunch time 미국식  영국식   단어장추가
 	* 우리 모두는 엄마의 수술 때문에 굉장히 긴장되는 날을 보냈다. ex) We all had a nerve-racking day because of mom's surgery.
@@ -1158,34 +1166,34 @@
 	* ☆take the edge off; I need to take the edge off the hunger
 	* #strain; under the strain
 	* 긴장하다. 		 am/feel/get/am getting nervous, tense, anxious, get cold feet
-* dƷítər get the jitter. have./get./feel butterflies in the/one's stomach, give butterflies ~ in the sto
-* feel #nauseous, shivering with cold , You are shaking like a leaf, I'm feeling under the weather
-* tightly #wound
-* 그의 목소리는 데 질려 떨고 있네. 				 ‘kwɪvə(r) His voice is quivering with fear. 
-* 제이크는 떨면서 서있었어요. 				 Jake stood shivering in the cold air.
-* #quiver; #진동; her lip quivered
-* 쫄지마 								 Don't get cold feet.
-* 긴장풀고 평소대로 행동해 					 Loosen up and be yourself.
-* let one's hair down; wear one's hair down; let my hair down
-* 이주의 끝자락에서 긴장을 풀게 해줄 거다 			 Let your hair down at the end of the week.
-* 대기하는 경기는 다른 경기에 대한 긴장을 높일 수 있습니다 
-* The waiting game can #ramp up the tensions in others
+	* dƷítər get the jitter. have./get./feel butterflies in the/one's stomach, give butterflies ~ in the sto
+	* feel #nauseous, shivering with cold , You are shaking like a leaf, I'm feeling under the weather
+	* tightly #wound
+	* 그의 목소리는 데 질려 떨고 있네. 				 ‘kwɪvə(r) His voice is quivering with fear. 
+	* 제이크는 떨면서 서있었어요. 				 Jake stood shivering in the cold air.
+	* #quiver; #진동; her lip quivered
+	* 쫄지마 								 Don't get cold feet.
+	* 긴장풀고 평소대로 행동해 					 Loosen up and be yourself.
+	* let one's hair down; wear one's hair down; let my hair down
+	* 이주의 끝자락에서 긴장을 풀게 해줄 거다 			 Let your hair down at the end of the week.
+	* 대기하는 경기는 다른 경기에 대한 긴장을 높일 수 있습니다 
+	* The waiting game can #ramp up the tensions in others
 * 나 너무 #어색하고 #긴장돼. 					 I feel like a fish out of water.
-* #어색한; #awkward, #embarrassing, #uncomfortable - 어색한, 난처한 
-* 어색하게 느껴졌어 					 I felt out of place at the new school
-* 어색함을 날려버려; you take all my #inhibition
-* #서먹서먹하다; it will probably be a bit awkward
-* 계집애같이 쫄았니? 					 You chickened out like a little bitch.
-* 나는 빅리그를 처음으로 경험했고 긴장감을 떨쳐냈다 I got my feet wet and got all the jitters out
-* dƷítər 긴창하다. get the jitter. get butterflies in the stomach
-* #박진감 넘쳤다; the game had #non-stop action = the game was terribly exciting
-* ☆긴장을 놓을 수 없다; #stay/#keep someone #on one's toe; #toe; she's keeping me on my toes; 
-* #긴장의 끈을 놓지 않게 하다; we need to keep them #on the edge of their seats; #edge #seat
-* #shake like a leaf; #나뭇잎처럼 떨다
-  * 나뭇잎의 뾰족한 끝; #a #cusp of a leaf
-* #긴장 완화; #완화; #defuse tension on the Korean Peninsula
-* #cliffhanger 미국·영국 [|klɪfhӕŋə(r)]; 손에 땀을 쥐게 하는 상황
-* #어색 #쫄다 #떨다 #긴장
+	* #어색한; #awkward, #embarrassing, #uncomfortable - 어색한, 난처한 
+	* 어색하게 느껴졌어 					 I felt out of place at the new school
+	* 어색함을 날려버려; you take all my #inhibition
+	* #서먹서먹하다; it will probably be a bit awkward
+	* 계집애같이 쫄았니? 					 You chickened out like a little bitch.
+	* 나는 빅리그를 처음으로 경험했고 긴장감을 떨쳐냈다 I got my feet wet and got all the jitters out
+	* dƷítər 긴창하다. get the jitter. get butterflies in the stomach
+	* #박진감 넘쳤다; the game had #non-stop action = the game was terribly exciting
+	* ☆긴장을 놓을 수 없다; #stay/#keep someone #on one's toe; #toe; she's keeping me on my toes; 
+	* #긴장의 끈을 놓지 않게 하다; we need to keep them #on the edge of their seats; #edge #seat
+	* #shake like a leaf; #나뭇잎처럼 떨다
+	  * 나뭇잎의 뾰족한 끝; #a #cusp of a leaf
+	* #긴장 완화; #완화; #defuse tension on the Korean Peninsula
+	* #cliffhanger 미국·영국 [|klɪfhӕŋə(r)]; 손에 땀을 쥐게 하는 상황
+	* #어색 #쫄다 #떨다 #긴장
 
 
 
@@ -1207,6 +1215,7 @@
 	* 뚝뚝 떨어지다; drop some tears
 	* 글썽거리다; well up; 소리없이 눈물만 흘리다; weep; 흐느끼다: sob
 * #조울증; 양극성 우울증 [|baɪ|poʊlər] bipolar depression 
+	* 우울증 주다; give someone depression
 * #감상적인 #maudlin
 	* 너 나 슬프게 만들었어 							 you get me frustrated
 	* #blub; #blubbing
@@ -1318,7 +1327,7 @@
 ## temperament
 * 바꾸려고 해도 잘 바꿀 수 없는 타고난 기질을 temperament 라고 합니다. 예를 들어, 내성적인 사람이나 (introvert), 외향적인 사람 (extrovert) 등이 그런 예라고 볼 수 있겠습니다.
 	* even temperament = 차분한 기질, sunny temperament = 낙천적 기질, gentle temperament = 유순한 기질
-
+* resent 사람 for 이유 = ~대해 ~에게 화가 나다. I used to resent her for spreading the rumor about me.
 * 이용자 참여  얘들아 사소한걸로 화내지마. | Don ’ t get your panties in a bunch , you guys. 듣기
 * 너 엉뚱한 사람한테 화풀이 하는거야; YOu're taking it out on the wrong person
 * 처음부터 우리 서로한테 열 받게 한 것 같아요 		 I think we got off on the wrong foot

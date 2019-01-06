@@ -79,13 +79,14 @@
 
 # 생리통
 * 월경 돌려말한느 말; Auto flo/flow has come to town
-* 생리통 있어; i have sever cramps during his period; menstrual pain; period pain; [ˈmenstruəl] 
+* 생리통 있어; i have severe cramps during his period; menstrual pain; period pain; [ˈmenstruəl] 
 * 그날이야? Is that time of the month?
 * 생리를 한번했엉; i had only like one cycle
 * 불규칙적이었어; they've been irregular
 * 생리 안헀어요; i missed my period
 * 생리혈을 봤어요; i noticed a little bit of period
 * 다른분들은 첫생리떄 어떻게 반응했을지 궁금해요; i don't know how most people reacted when they first got their period
+* 여기서 go away는 냄새나 증상이 ‘없어지다, 사라지다, 멈추다’를 의미합니다. 그래서 My period doesn’t go away는 “생리가 멈추지 않는다”는 의미입니다. 
 
 # 담배
   * a pack of cigarettes = 담배 한 값
@@ -126,7 +127,9 @@
 * #질병	#ailment, #illness, #disease - 질병 #malady
   * 보통은 감염균에 노출되어 걸리게 되는 병과 함께 쓰이는 단어입니다. 암과 같이 스스로 진행되는 병의 경우엔 contract 를 쓰기도 하지만 develop 을 쓰는 게 조금 더 일반적이에요.
     * = 여행 중에 그 병에 걸린 것처럼 보입니다. It looks like he contracted the disease during the travel.
-* #질병관리센터	#CDC; #Center for Disease control
+  * 1) 생각이나 행동에 영향을 주어 특정 성향을 갖게할 때 쓰는 표현이에요. 영상에서처럼 수동태로도 많이 쓰이는데요. 직역하면 [사람들이 좀 더 먹는 성향이 있는 식이요법] 정도겠지만, 좀 더 자연스러운 해석을 위해 [사람들의 성향에 따른 식이요법] 으로 해석이 되었어요. 2) B의 자리에 질병이 들어가게 되면 [에 걸리기 쉽다]로 해석이 되고요. * predispose A to B
+    * = 어떤 사람들은 유전적으로 특정 질병에 걸리기 쉽다. Some people are genetically predisposed to certain diseases.
+  * #질병관리센터	#CDC; #Center for Disease control
 * 미국에서는 예약 없이 병원 못감
 * doctor: 대학/대학원/인턴/레지던트/의사 자격증 시험까지 다 통과한 사람
 * 주치의; attending
@@ -714,6 +717,8 @@
 
 
 # 약
+* 현재 경구피임약을 복용하고 있는 중이라면, be on the pill이라고 합니다. 영상에서도 11살 때부터 피임약을 복용해오고 있는 중이기 때문에 have been on the pill이라고 하였습니다. 전치사 on 대신 off를 쓰면 반대로 복용하다가 현재는 아니라는 뜻이 됩니다.  반면, go on the pill / go off the pill 일 경우 위와 같이 복용중인 상태를 표현한다기 보다 복용하기 시작하거나 복용을 끊다라는 행동을 나타내는 표현입니다. 
+* ‘사후피임약’은 영어로 무엇일까요? 의학적으로는 emergency contraceptive pills(응급피임약)이라고 하지만, 실생활에서는 plan B, 혹은 morning after pill 을 자주 씁니다.  임신을 피하기 위해 차선(plan B)으로 선택하는 것이 응급피임약이기 때문에 plan B pill이라고 불리는 것이고, morning after pill은 밤에 거사(?)를 치른 후 아침에 응급으로 먹는 피임약이라는 의미에서 붙여진 것입니다.
 * 물 없이 그냥 삼키다; dry shallow 
 * 피임약; birth control pill = morning after pill
 * 과해지면 안되는데; Don't overdose

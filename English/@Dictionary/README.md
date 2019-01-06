@@ -12,6 +12,10 @@
 # 거짓말
 *  전판 거짓말이다 t is a downright lie from start to finish 
 
+# 경향
+* 1) 생각이나 행동에 영향을 주어 특정 성향을 갖게할 때 쓰는 표현이에요. 영상에서처럼 수동태로도 많이 쓰이는데요. 직역하면 [사람들이 좀 더 먹는 성향이 있는 식이요법] 정도겠지만, 좀 더 자연스러운 해석을 위해 [사람들의 성향에 따른 식이요법] 으로 해석이 되었어요. 2) B의 자리에 질병이 들어가게 되면 [에 걸리기 쉽다]로 해석이 되고요. * predispose A to B
+	* = 어떤 사람들은 유전적으로 특정 질병에 걸리기 쉽다. Some people are genetically predisposed to certain diseases.
+
 # 경험
 * 경험도 많이 햇잫ㄴ아; you are well experienced with -
 * 자신의 경험을 말할 때 문장을 풀어낼 수 있는 유용한 패턴 중에 하나입니다. 조금 응용해서 one of the experiences I had was 라고 쓸 수도 있겠죠. 
@@ -78,6 +82,10 @@
 * 비격식 표현으로 사람을 흥분시키거나 감정을 유발하는 것을 의미해요. 또한 무언가를 좀 더 강력하고 신나게 만드는 것도 의미하는데요. 영상에서는 수동태인 be amped up 으로 쓰여 [의욕에 불타게 되다] 의 뉘앙스로 쓰였습니다.
 	* 다음 프로젝트를 할 의욕에 불타고 있어. 언제 시작해? ex) I'm so amped up for our next project. When do we start?
 
+# 동의
+* [동의]를 의미하는 단어는 agreement 도 있는데요. consent 와는 나름 큰 차이가 있습니다. agreement의 경우엔 '합의' 로서의 동의를 의미합니다. 예를 들어, 양국 정상이 만나서 무언가를 합의하고 세부사항에 동의를 했을 때 reach an agreement라는 표현을 쓰고요. consent 같은 경우엔 '승낙'으로써의 동의를 의미해요. 영상에서처럼 부모가 무언가를 하는데 승낙을 해줘야 할 수 있을 땐 consent라는 단어를 씁니다. 그래서 무언가에 [동의하다, 승낙하다]라고 할 땐 give one's consent to something이라고 합니다. 동사로도 쓰일 수 있어요.
+	* = 난 거기에 동의하지 않았어. I didn't give my consent to it.
+
 # 리스트
 * 리스트에서 그건 뺴자; Crossing that one off the list; cross off: 줄을 그어 지우다.
 
@@ -120,10 +128,14 @@
 
 # 상황
 * 우리는 상황을 알아 보았다  Dipping our toes in the water
+* [상황, 사정] 을 의미하는 circumstances 앞에 다양한 형용사를 써서 어떤 상황인지 나타낼 수 있는, 굉장히 유용하고 자주 쓰이는 표현입니다. 형용사 없이 under the circumstances 라고 하면 [그러한 상황에선, 상황을 고려하면] 정도로 해석이 되고요.
+	* = 이 기술적 문제는 특정 상황에서 발생합니다. This technical issue occurs under specific circumstances.
 
 # 선입견
 * * 전치사 towards 또는 against 를 써서 [~에 대한 편견] 을 의미하는데요. towards 가 쓰이면 좋은 의미로의 편견, against 는 나쁜 의미로의 편견을 의미합니다. 참고로 형용사로 [편향된, 편견이 있는] 의 뜻은 biased 라는 단어를 씁니다.
   * 그 여자애를 향한 너의 태도는 네가 인도인들에게 강한 인종적 편견을 가지고 있다는걸 보여주잖아. ex) Your attitude to that girl shows that you have a strong racial bias against Indians.
+* conventional 은 [전통적인] 이라는 의미의 형용사인데요. [지혜]를 뜻하는 wisdom 이라는 단어와 함께 쓰이면 전통적으로 행해왔던 행위 등의 기반이 되는 지혜, 즉 [일반적 통념]을 뜻해요. 이 표현은 이 자체로 굉장히 많이 쓰이기 때문에 하나의 단어로써 숙지해 놓는 것이 좋습니다.
+	* = 그게 일반적 통념이라는 건 알지만, 그게 모든 상황에서 항상 옳다는 걸 의미하진 않아. I know that's conventional wisdom, but it doesn't mean that it's always right in every situation.
 
 # 설명
 * 무대 위의 스포트라이트나, 어두운 밤바다를 비춰주는 등대를 상상해 보면 이해가 빠를 것 같습니다. 직역하면 어떤 것이 잘 보이도록 빛을 환하게 비춰준다는 것인데요, 비유적으로 실상을 보여주다, 남의 이해를 돕기 위해 설명을 해주다, 정보를 제공하다 등 다양한 뜻으로 쓰이는 표현입니다. shed light on = 정보를 제공하다, 설명하다, 실마리를 제공하다, 드러내다
@@ -142,11 +154,8 @@
 * 여기서 bar는 ‘수준’을 의미하기 때문에 high bar는 ‘높은 수준, 높은 경지’가 됩니다. 이성에 대한 기준이 너무 높거나, 직업을 고를 때 너무 눈높이가 높을 때도 쓸 수 있습니다. 반대로 low bar는 ‘낮은 수준, 낮은 눈높이’를 뜻합니다. 
 	* 대학 졸업 후 구직할 때, 너무 눈높이를 높게 잡지 마.  When you try to get a job after college, don’t set the bar too high.
 
-# 스트레스
-* 누군가는 스트레스를 좀 풀 필요가 있었어 Someone needed to let off some steam!
-
 # 애도
-* 애도를 표합니다; i'm sosorry for your loss
+* 애도를 표합니다; i'm so sorry for your loss
 
 # 예의
 * 예의바르게 행동해 mind your Ps and Qs 
@@ -171,13 +180,31 @@
 * shoes 는 비유적으로 ‘입장, 상태, 상황’을 말하죠. 그래서 step into their shoes 는 ‘그들의 입장에 서보다, 그들의 입장이 되어보다’입니다. 
 	* 내 입장에 서서 내 기분이 어떨지 이해해줄 수 없어? Can’t you step into my shoes and try to understand how I feel?
 * put yourself in other's shoes
+* 비슷한 표현으로 dig one's heel 이라는 표현도 있는데요. 두 표현 모두 발을 땅에 꾹 대고 움직이지 않으려는 모습의 의미를 가지고 있습니다. 그래서 비유적인 의미로 자신의 입장이나 결정을 포기하지 않고 단호한 입장을 취하는 걸 의미해요.
+	* = 다른 사람들이 불평을 많이 할지라도, 가끔 단호한 입장을 취할 필요가 있다. Sometimes you need to put your foot down even if others complain a lot.
 
 # 의견
 * : 직역하면 '목소리가 들리게끔 하다'로, 어떤 문제에 대해 '(능동적으로 강력히) 목소리를 내다, 의견을 표명하다' 라는 뜻이에요!  make one's voice heard
 
+# 위치
+* 그냥 얼핏 들으면 where about 정도로 들릴 수도 있고, 명사로 생각하기 힘들지만 명사인 단어입니다. 단어 속에서 보이는 모습 그대로 어디(where) 쯤에(about) 있는지를 의미합니다.
+	* = 그녀가 그 돈의 소재를 밝히진 않을 거야. She wouldn't reveal the whereabouts of the money.
+
+# 의향
+* be down with ~ = 할 의향이 있다
+	* 난 있다가 영화보는 거 좋아. I'm down with seeing a movie later.
+
+# 이용
+* 가위, 칼, 식기류 등의 물건을 사용하는 것이 아니라 '상황' 을 자신에게 유리하게 이용하는 것을 의미하는 단어입니다. 따라서 그런 상황은 [기회로 삼다] 로 해석이 되기도 하고요. 영상에서는 저지방 유행을 [타고 나오다] 로 의역이 되었습니다.
+	* = 그들은 우리의 실수를 이용할 수 있었어. They were able to capitalize on our mistakes.
+
 # 자기
 * 자기관리! 하면 떠오르는 단어예요. discipline. 명사로는 [규율, 훈육] 또는 [수련법] 의 의미로 자주 쓰이며, 동사로는 [훈육하다] 또는 [스스로를 단련하다] 라는 의미를 가집니다. 형용사로 disciplined 는 [스스로 단련된, 규율을 가진, 잘 훈련된] 정도의  의미로 쓰여요. 이 영상에서는 discipline 중에서도 self-discipline에 대해 얘기하고 있기 때문에 [자기 절제], [절제력]이라고 번역했습니다.
 	* 제시카는 잘 훈련 받은 사람이란 걸 장담해요. ex) I can assure you that Jessica is a well-disciplined person.
+
+# 작용
+* 쉽게 설명하면 ‘플레이 되다’라고 이해하시면 됩니다. 주어로 온 그 대상이 재생, 시작된다는 거죠. 자주 쓰이는 표현이니 예문을 외워서 활용해 주세요.
+	* = 두 가지 중요한 요소가 작용합니다. Two important factors come into play.
 
 # 정하다
 * 2) “뇌를 어딘가에 세팅한다?” 의미가 대강 파악되실 텐데요, 그 일에 온전히 내 정신을 담아 집중한다는 뜻으로 쓰였습니다. 비슷한 표현으로 set mind on 이 있는데요, 어떤 일에 내 마음을 두는 것이니까 ‘간절히 바라다, 하기로 마음먹다’를 의미합니다. 
@@ -222,6 +249,9 @@
 
 # 화장실
 * 화장실 갈래; I need to use the restroom
+
+# 흐르다
+* 용암은 분화구에서 조금씩 서서히 흘러나오기만 할 것이다. The lava will just ooze gently out of the crater . 듣기 출처:Collins
 
 # 흑역사
 * It's dark chapter in my life

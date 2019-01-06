@@ -6,8 +6,13 @@
 * (문제 해결을 위해) 곰곰이 생각하다 put your thinking cap on 미국식  영국식   단어장추가
 * 내가 사색하는ㄱ ㅓ 싫어하는 거 알아; I know you don't like when i'm contemplative
 	* 그는 이사회에서 정책을 바꿨으므로 그 쟁점은 고려할 가치가 없어졌다고 주장했다. He argued that the issue had become moot since the board had changed its policy.  moot: 고려할 가치가 없는
+* 그렇게 이해하고 있습니다; That's my understanding
+* 순서대로 점들을 이으면 그림이 완성되는 ‘점잇기 놀이’를 생각해 보세요. 점들만 있을 때는 모르지만, 점을 다 연결하면 비로소 무슨 그림인지 이해하게 되죠. 그런 것처럼 connect the dots 는 ‘이해하다, 파악하다’를 의미합니다. 
+	* 아직 모르겠어? 내가 널 위해 이해를 시켜줘야 하니? Don’t you get it? Should I connect the dots for you?
 
 # 말
+* 조금 충격적이며 특히 불쾌할 수도 있는 소식 (물론 영상에서는 꼭 불쾌한 의미는 아니지만요) 을 bombshell 이라고 합니다. 폭탄을 떨어트리거나 터뜨리듯 drop (explode) a bombshell = [폭탄선언을 하다] 라고 종종 쓰여요.
+	8 그녀는 일을 그만두겠다는 폭탄선언을 했다. ex) She dropped a bombshell that she would quit the job.
 * 모두가 그녀를 아주 좋게 이야기한다. Everyone speaks very well of her. 
 * 말보다는 숨은 의미가 더 중요하다; the literal words are less important than the subtext
 * 가족을 대신해서 말하자면; 대변; i speak for my whole family
