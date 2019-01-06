@@ -5,6 +5,7 @@
 * 한국은 압수하면 국고로 들어간다.
 
 # 나쁜짓
+* 출동 준비해; suit up
 * 달려들다; 공격; come at someone with knife: ~에게 공격적으로 달려들다
 * 근절 * 그래서 stamp out은 어떤 것을 발로 꾹꾹 밟아 없애버린다는 어감을 갖고 있고 우리말로는 “근절하다, 박멸하다, 밟아 없애다” 등으로 해석됩니다. 
   * 경찰은 이 지역에서 윤락행위를 근절하려고 노력했다.The police tried to stamp out prostitution in this area.
@@ -285,14 +286,15 @@
 * ~ vs ~; 앞이 #원고; 뒤가 #피고 
 * #공갈 #협박 #blackmail
 * #횡령; #embezzlement
+  * 기부금을 횡령하고 있었어요; My dad was embezzling from the endowment
 * #파기 #각하; [동사] (법률) (법원의 결정을) 파기[각하]하다
-* His conviction was later #quashed by the Court of Appeal.예문 발음듣기
+  * His conviction was later #quashed by the Court of Appeal.예문 발음듣기
 * #흉기 murder weapon
 * #재판을 받다; #stand trial(#trial)
-* #공판, #공청회; hearing
-* #공정한 재판; #fair trial
-* #재판장님 #judge; Your honor
-* #판결 #평결 Have you #reached the verdict?(#verdict)
+  * #공판, #공청회; hearing
+  * #공정한 재판; #fair trial
+  * #재판장님 #judge; Your honor
+  * #판결 #평결 Have you #reached the verdict?(#verdict)
   * 종신형으로 복역중이다; serve life sentences
   * 강도로 18개월을 복역했다; served an 18-month sentence for theft
   * 판결; the case was #ruled a suicide
@@ -345,30 +347,21 @@
 * The jury #acquitted him of murder.TTS 배심원단이 그의 살인 혐의에 대해 무죄를 선언했다.
 * 지시[명령]하다: The judge directed the jury to return a verdict of not guilty.
 * 무죄라고 추정을 해 둘게 #give someone a benefit of the doubt(#benefit)
-* #사건;
-* #criminal case
-* #civil case
-* #bring a case against somebody
-* #defend a case
-* #consider a case
-* #dismiss a case
-* #settle a case
-* #drop a case
-* #소송 사건; #court case
 * #법정 #개정
 * #sin#; #commit a sin, #crime
 * 잔인한 vicious little word, vicious attack/dog
 * 체포합니다 You’re under arrest
+  * 우리가 제압할 수 있을 것 같애; we can take them
   * 붙잡다; be held captive; hold 사람/동물 captive
   * 그는 두 명의 남자에게 붙잡혀 팔이 뒤틀린 채 홀 밖으로 끌려 나갔다. He was grabbed by two men and frogmarched out of the hall.  frɔːɡmɑːrtʃ;ˈfrɑːɡ-] 
   * 사람들은 서로 앞을 더 잘 보려고 마구 밀치고 야단이었다. [V] The crowd was pushing and shoving to get a better view.  거칠게 밀다: shove
   * * 그는 현행범으로 체포됐어요.  He was caught red handed on the spot .
+  * arrest, seize, apprehend, rap - 체포하다 <=> release – 풀어주다
 * #잔인한 cruel, brutal, inhumane - 잔인한, 잔혹한 <-> innocent - 결백한, 순수한
-* #잔혹; #atrocity
-* #abusive, #violent, #cruel - 잔인한, 폭력적인 
-* #흉폭한#ferocious; ferociously
-* #피도 눈물도 없는 as hard as nails; The drill sergeant is as hard as nails
-* arrest, seize, apprehend, rap - 체포하다 <=> release – 풀어주다
+  * #잔혹; #atrocity
+  * #abusive, #violent, #cruel - 잔인한, 폭력적인 
+  * #흉폭한#ferocious; ferociously
+  * #피도 눈물도 없는 as hard as nails; The drill sergeant is as hard as nails
   * 조직/회사/이념/제한 등에서 벗어나서 하고 싶은대로, 자유롭게 행동하고 말하는 것을 의미합니다. 영상의 대사를 직역하면 [그가 자유롭게 행동하도록 하면서] 의 의미를 갖습니다.
     * 넌 아이들을 좀 살살 다룰 필요가 있어. 애들은 가끔씩 제멋대로 행동해야 한다구. ex) You need to take it easy on your kids. They need to cut loose sometimes.
 * #처벌; #솜방망이 처벌 a slap on the wrist
@@ -453,21 +446,32 @@
   * be sketchy; doesnn't feel right; sounds shady
 
 * 성대모사 하다 							 do an impression of#성대모사
-* 흉내내는 사람; #copy cat
-* #따라하지마 #흉내 Don't #copy me
-* #모방범죄; #copycat 미국식 [|kɑ:pikӕt]; commit a copycat crime
-* #따라해봐; #repeat after me
-* 따라하다; #follow suit after 
-* #mimic, #emulate
-* #빙의; be possessed by a spirit
-* 그는 슈퍼맨으로 가장했어요. 				 He used to dress up as a superman.
-* [자동사][V] ~ as sth 가장하다 사사로운 개인으로 가장하는 상업적 광고주들
-* 	commercial advertisers masquerading as private individuals예문 발음듣기
-* 그는 보안 요원으로 가장하려다가 잡혔다.	 He was caught trying to impersonate a security guard.
-  * 보안관; sheriff
-* impersonation 미국·영국 [impə́:rsənéiʃən] ; #인격화 #의인화
-* #가장
+  * 흉내내는 사람; #copy cat
+  * #따라하지마 #흉내 Don't #copy me
+  * #모방범죄; #copycat 미국식 [|kɑ:pikӕt]; commit a copycat crime
+  * #따라해봐; #repeat after me
+  * 따라하다; #follow suit after 
+  * #mimic, #emulate
+  * #빙의; be possessed by a spirit
+  * 그는 슈퍼맨으로 가장했어요. 				 He used to dress up as a superman.
+  * [자동사][V] ~ as sth 가장하다 사사로운 개인으로 가장하는 상업적 광고주들
+  * 	commercial advertisers masquerading as private individuals예문 발음듣기
+  * 그는 보안 요원으로 가장하려다가 잡혔다.	 He was caught trying to impersonate a security guard.
+    * 보안관; sheriff
+  * impersonation 미국·영국 [impə́:rsənéiʃən] ; #인격화 #의인화
+  * #가장
 * * 
 
 # 총
 * 총 맞는다; get poled
+
+# 사건
+  * #criminal case
+  * #civil case
+  * #bring a case against somebody
+  * #defend a case
+  * #consider a case
+  * #dismiss a case
+  * #settle a case
+  * #drop a case
+  * #소송 사건; #court case

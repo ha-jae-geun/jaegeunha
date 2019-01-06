@@ -260,6 +260,11 @@
 * : 뭔가를 잡으세요. 날라가지 마세요. Hold on to something. Don't blow away
 * : 할머니는 할머니의 결혼 50주년 파티에서 모든 사람들을 뿅가게 할 거에요. You're going to blow everybody away at your fiftieth anniversary party.
 
+## compromise
+* 위태로워진 재정상태로 인해 due toe compromised funding
+
+## cross
+* 리스트에서 그건 뺴자; Crossing that one off the list; cross off: 줄을 그어 지우다.
 
 ## concert
 * 둘 이상의 사람/단체/나라 등이 원하는 것을 얻기 위해 무언가를 함께 할 때 쓰는 형용사인데요. 주로 다음과 같은 단어들과 함께 쓰입니다. 참고로, 공연을 뜻하는 '콘서트'도 '여럿이서  협동하다', '여럿이서 하모니를 이룬다'는 뜻에서 나왔습니다.
@@ -326,6 +331,9 @@
 * 전치사는 함께 쓰이는 동사나 문맥 등에 따라 그 뜻이 수만가지라고 볼 수 있는데요, crystallize on you 에서 [on 사람] 은 [가 있는데 불쾌한 일이 발생한] 을 의미합니다. 
 	* - It tends to crystallize on you. 결정이 생기는 불상사를 맞게 됩니다.
 	* - It tends to crystallize. 결정이 생깁니다.
+
+## dip
+* 이용자 참여  우리는 상황을 알아 보았다  Dipping our toes in the water . 듣기
 
 ## die
 * diehard / die-hard = ⓐ완고한, 골수파인, 보수적인
@@ -754,6 +762,9 @@
 * : 잠깐만요. Hang on; Hang on a second.
 
 
+## jack
+* You are jacked; 마약했다라는 뜻인데 그만큼 몸이 좋다는 것이기 때문에 칭찬
+
 ## juice
 * 고기를 뜨거운 기름에 빨리 튀겨서 육즙이 나오지 않게 하세요. Fry the meat quickly in hot oil to seal in the juices.
 
@@ -998,6 +1009,9 @@
 * 여기 한국에는 관료주의가 많다. There ’ s lots of red tape involved here in Korea
 * 나를 특별하게 대우할 필요는 없습니다. There's no need to roll out the red carpet for me.  
 
+## swing
+* 가능할 것 같아; i think i could swing that; swing: 잘 해내다
+
 ## spare
 * 남이 어떤 나쁜 일을 겪지 않도록 해주는 것을 spare라고 합니다. 사용시 어순은 「spare 사람 (from) 불쾌한 일」입니다. 영상속 대사를 살펴보면 spare(받지 않게 해주다) / others(다른 사람들) / the anguish of the disease(이 병으로부터의 고통)이 되겠습니다.
 	* 그녀는 그녀의 어머니에게 어떤 걱정도 끼치지 않길 바랬다. She wanted to spare her mother from any anxiety.
@@ -1152,6 +1166,9 @@
 	* 넌 내가 얼마나 아멜리아를 이해하려고 노력해 왔는지 알잖아. ex) You know how much I've tried to come to terms with Amelia.
 * have a morning on one’s (own) terms = 자신의 방식대로 아침을 맞이하다 term/terms는 용어, 기간, 조건 등 뜻이 매우 다양한데 여기서는 ‘방식, 방법’으로 쓰였습니다. 같은 표현으로 in your own way 라고 할 수도 있습니다. 
 		* 네 인생이잖아. 너의 방식대로 해. It’s your life. You have to act on your terms. 
+
+## toe
+* 우리는 상황을 알아 보았다  Dipping our toes in the water
 
 ## water
 * 그는 새로운 일을 아주 자연스럽게 익힌다. She takes to new works like a duck to water . 

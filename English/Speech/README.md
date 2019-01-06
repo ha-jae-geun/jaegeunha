@@ -5,6 +5,7 @@
 * (생각/방법을) 적용하다 / 이용하기 시작하다; run with; 그 아이디어에 착안해서 적용했어요; They took that idea and ran with it
 * (문제 해결을 위해) 곰곰이 생각하다 put your thinking cap on 미국식  영국식   단어장추가
 * 내가 사색하는ㄱ ㅓ 싫어하는 거 알아; I know you don't like when i'm contemplative
+	* 그는 이사회에서 정책을 바꿨으므로 그 쟁점은 고려할 가치가 없어졌다고 주장했다. He argued that the issue had become moot since the board had changed its policy.  moot: 고려할 가치가 없는
 
 # 말
 * 모두가 그녀를 아주 좋게 이야기한다. Everyone speaks very well of her. 

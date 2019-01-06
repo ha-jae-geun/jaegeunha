@@ -2,6 +2,7 @@
 * be in line for  : 을 받을 가능성이 크다; be in line은 '줄 서다'라는 뜻도 있어요. 줄서서 뭔가 받으려고 기다리는 모습을 연상하시면 기억이 잘 나겠죠?
 	* 승진후보로 제리가 유력하대. I hear Jerry is in line for promotion.
 * There is a good chance
+* 가능할 것 같아; i think i could swing that; swing: 잘 해내다
 
 # 감
 * 그 의사의 예감이 옳았던 것 같았다. It seemed that the doctor’s hunch had been right. 
@@ -15,6 +16,9 @@
 * 경험도 많이 햇잫ㄴ아; you are well experienced with -
 * 자신의 경험을 말할 때 문장을 풀어낼 수 있는 유용한 패턴 중에 하나입니다. 조금 응용해서 one of the experiences I had was 라고 쓸 수도 있겠죠. 
 	* = 제가 문제를 해결하기 위해 해 본 것들 중 하나는 단순히 도움을 요청하는 것이었습니다. One of the things I did to solve a problem was to simply ask for help.
+
+# 계약
+* 계약서를 써왔어; i've drawn up a contract
 
 # 고민
 * 무슨 고민 있으세요? What's eating you?
@@ -53,6 +57,9 @@
 * make effort; I will make every effort to solve the problem.
 * move mountains: 직역하면 '산을 옮긴다'는 뜻이지만, '산을 옮길 정도의 노력을 들이다'라는 뜻을 가져요.
 
+# 대답
+* 상반되는 대답이네요. we got conflicting answers
+
 # 대해서
 * in terms of something은 '~에 관하여, '~면에서는'이라는 뜻을 가지고 있어요.
 	* 매출 면에서 이것이 무엇을 뜻하죠? What does this mean in terms of sales?
@@ -70,6 +77,9 @@
 # 동기
 * 비격식 표현으로 사람을 흥분시키거나 감정을 유발하는 것을 의미해요. 또한 무언가를 좀 더 강력하고 신나게 만드는 것도 의미하는데요. 영상에서는 수동태인 be amped up 으로 쓰여 [의욕에 불타게 되다] 의 뉘앙스로 쓰였습니다.
 	* 다음 프로젝트를 할 의욕에 불타고 있어. 언제 시작해? ex) I'm so amped up for our next project. When do we start?
+
+# 리스트
+* 리스트에서 그건 뺴자; Crossing that one off the list; cross off: 줄을 그어 지우다.
 
 # 몸매
 * * get into shape = 몸매를 가꾸다, 몸을 만들다  stay in shape = 체력/건강/몸매를 유지하다  in a good(bad) shape = 건강/몸매가 좋은 (나쁜)
@@ -107,6 +117,9 @@
 
 # 빠르다
 * Quickly'는 '어떤 일이나 상황이 시간적으로 빨리 진행이된다'는 의미이고, 'Fast'는 '어떤 행위를 하는데, 그 행위를 하는 속도를 빠르게 한다' 예컨대, '넌 숙제를 빨리 해야 해' 라고 할 때, 이 말은 상황에 따라서 '지금까지 숙제를 미뤄왔으니까 빨리, 즉시 숙제를 하라'는 의미 일 수도 있고, '숙제하는 행위를 빨리 해서 빨리 마쳐라' 라는 의미 일 수도 있습니다. 첫 번째 경우에는 'You've got to do your homework quickly' 라고 할 수 있고, 두 번째 경우에는 'You've got to do your homework fast'라고 할 수 있습니다.
+
+# 상황
+* 우리는 상황을 알아 보았다  Dipping our toes in the water
 
 # 선입견
 * * 전치사 towards 또는 against 를 써서 [~에 대한 편견] 을 의미하는데요. towards 가 쓰이면 좋은 의미로의 편견, against 는 나쁜 의미로의 편견을 의미합니다. 참고로 형용사로 [편향된, 편견이 있는] 의 뜻은 biased 라는 단어를 씁니다.
@@ -184,8 +197,17 @@
 * on the verge of something; on the verge of doing something
 	* 조애나는 금방이라도 울 것만 같았다. Joanna was on the verge of tears.
 
+# 찌르다
+* 핀으로 종이를 찔러 작은 구멍들을 내어라. Prick holes in the paper with a pin. 
+* 독침으로 찌르다 prick[pierce] (sb/sth) with a poisoned needle [prɪk]
+	* 독침에 쏘이다; get[be] stung (by)
+* 그는 인종 차별주의자의 공격에서 칼에 찔려 죽었다. He was stabbed to death in a racist attack. 
+
 # 책임
 * 범죄자들은 그들의 행동에  책임을 져야 할 것입니다; The criminals are held responsible for their actions
+
+# 초급
+* 초급 수준으로 가르쳐주실 수 있나요? Could you teach me something very elementary
 
 # 투자
 * 단어 안에 신뢰 (trust) 라는 단어가 들어가 있으니, 누군가를 믿고 맡기는 것을 의미합니다. 영상에서는 [투자하다] 라고 해석이 되었어요.

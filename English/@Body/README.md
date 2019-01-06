@@ -215,7 +215,6 @@ the best ever, #ravishing, #peaches
 * 46세의 나이로, 그녀는 화려함 명성을 즐겨 왔다.
 At the age of 46, she has enjoyed a lot of glamour and fame. 
 * #미인 대회 우승자; #beauty queen; she was more like a beauty queen
-* #exquiste; have exquisite #neckline; #목 #목선 
 * #아름 #이쁘다 #예쁘다 #미적 #화려함
 to make a face / have an expression on one's face / have a facial expression
 * why are you making that face
@@ -297,14 +296,20 @@ how dare you say such a thing #to my face
 오늘 평소보다 못생겼어요 					 I don’t look my best today.
 * #망가지다 #못생겼다
 * 남자가 테이블을 등지고 있다. 				 The man is facing away from the table
-* 등돌리다 							 you turn your back on me
-* #배척하다; #ostracize; a former premier ostracized by popular vote
-* #고개를 돌리다, 외면하다 							 turn away
-* 고개 #들다; #look up
-* 고개를 #빳빳이 들다; #hold one's head high
-* #까닥거리다 #깐닥거리다; She bobbed her head nervously. 
-* #고개 #외면 #등지다
+	* 등돌리다 							 you turn your back on me
+	* #배척하다; #ostracize; a former premier ostracized by popular vote
+	* #고개를 돌리다, 외면하다 							 turn away
+	* 고개 #들다; #look up
+	* 고개를 #빳빳이 들다; #hold one's head high
+	* #까닥거리다 #깐닥거리다; She bobbed her head nervously. 
+	* #고개 #외면 #등지다
 * 자고나니 #목이 뻐근해, 어디를 #삐끗했나봐, #다리가 저려	I woke up with a# sniff neck, I pulled something, and my leg fell asleep.
+	* #exquiste; have exquisite #neckline; #목 #목선 
+	* 칼칼해; i have a scratchy feeling in my throat
+	* 목이 화끈거려; The smoke caused a bruning sensation in my throat
+	* 목이 따가어; i have a sore throat
+	* 목이 쉬었어; my voice sounded rapsy [ˈræspi]
+	* 목사애가 좋지 않아서 목소리가 작게 혹은 낮게 들릴 때; she sounded muffled
 
 
 # 다리
@@ -583,36 +588,45 @@ that's quite a package/junkㅌ
 * #체질량 지수	#BMI# 체질량 지수(body mass index의 약어).
 * 저체중	underweight
 * 몸무게 재봤어? 				Did you weigh yourself?
-날씬하고 호리호리 함	[slendə(r)] slender, [li:n] lean #몸매
-#measurement
-* have a nice #curve
-* #hourglass 미국식 [|aʊərglӕs] figure	#콜라병 #모래시계
-* 그 여자 뼈만 남았어요~ 				She's all #skin and bones.
+* 체질량지수	body mass index BMI라고 하는 것인데 
 * in shape, get in shape, stay in #shape	out of shape
-* 몸매가 망가지다	I'm/get so out of shape.
-* #몸매 좋다	has nice #figure
-* #cut; he's pretty cut	
-* 몸을 좀 가꾸는게 좋겠네요 (살을 좀 빼는게 좋겠네요)	You should be/get in shape = stay fit
-* 그는 끝내주는 몸매를 보여 그 해변에서 단연 눈에 띄었다	He was spotted on the beach looking extremely #buff
-* #buff	#몸짱
+	* 글레머한	[[və‘lʌptʃuəs] voluptuous [[’bʌksəm] buxom이라고 구어로는 busty [‘bʌsti]
+	* 몸매가 망가지다	I'm/get so out of shape.
+	* #몸매 좋다	has nice #figure
+	* #cut; he's pretty cut	
+	* 몸을 좀 가꾸는게 좋겠네요 (살을 좀 빼는게 좋겠네요)	You should be/get in shape = stay fit
+	* 그는 끝내주는 몸매를 보여 그 해변에서 단연 눈에 띄었다	He was spotted on the beach looking extremely #buff
+	* #buff	#몸짱
 * 먹은 거 다 어디로 가는거야?	Where do all the calories go?
 * 어떻게 몸매를 유지하지?	How can she stay so fit?
 * 몸매가 좋다	You are in great shape.
-* 가느다랗고 하늘하늘한 느낌	thin, slight, weak
-* #마른 #말랐	gɔ:nt ‘skrɔ:ni gaunt scrawny(삐쩍)
-* #skinny: 너무 마른, #slim: 매력적으로 마른
-#thin: 중립적인 의미 ##lean: 건강하게 날씬한
-* #fit
+	* You are jacked; 마약했다라는 뜻인데 그만큼 몸이 좋다는 것이기 때문에 칭찬
+		* ripped
+	* #hourglass 미국식 [|aʊərglӕs] figure	#콜라병 #모래시계
+	* 그 여자 뼈만 남았어요~ 				She's all #skin and bones.	
+	* 날씬하고 호리호리 함	[slendə(r)] slender, [li:n] lean #몸매
+	* #measurement
+	* have a nice #curve
+	* 운동한 몸이다; 돌려서; He is working out now; 운동하고 있따.
+	* little white toothpick; 이쑤시개; He is a thin as hell
+	* skinny같은 경우는 thin 보다는 몸매가 조금 나음; slender는 남성에게 잘 안쓴다. skinny는 여성성을 띄지만 모두에게 다 쓴다.
+	* 가느다랗고 하늘하늘한 느낌	thin, slight, weak
+	* #마른 #말랐	gɔ:nt ‘skrɔ:ni gaunt scrawny(삐쩍)
+	* #skinny: 너무 마른, #slim: 매력적으로 마른
+	#thin: 중립적인 의미 ##lean: 건강하게 날씬한
+	* #fit
+	* 그는 키는 멀대같이 커서 삐쩍 말랐다. 	‘lӕŋki He is lanky.
+	* #slimmer	살을 빼려는/날씬해지려는 사람
 * #뚱뚱 #fat; I am/got fat #obese; #비만 #overweight; #과체중
-* #뚱뚱한 여자; the #roll of waisteline flesh
+	* pig는 체형보다는 게으른 사람; 미국에서는 동물에 잘 빗대지 않는다; 차라리 그냥; YOu are small/big
+	* #뚱뚱한 여자; the #roll of waisteline flesh
 	* #토실토실 #포동포동 #plump; 아기/여성; 육덕 #통통 #chubby; 아기 #stout; 중년의 남성
-	* 통통, 튼튼 stout
-* #slimmer	살을 빼려는/날씬해지려는 사람
-* 그는 키는 멀대같이 커서 삐쩍 말랐다. 	‘lӕŋki He is lanky.
+	* 통통, 튼튼 stout, fatty; 미국에서 약간 통통핸 체형은 흔한 체형이다.
 (키는 땅땅한데)단단하고 다부진 몸 	‘stɑ:ki stocky man
-* 체질량지수	body mass index BMI라고 하는 것인데 
-* 글레머한	[[və‘lʌptʃuəs] voluptuous [[’bʌksəm] buxom이라고 구어로는 busty [‘bʌsti]
-#체격, #체구	#build , 
+
+
+
+# 체격, #체구	#build , 
 * 체구가 작다 #tiny = be #petite 미국·영국 [pə|ti:t] 
 * 건장한	‘|bʌlki bulky, heavily built, big and strong 
 My first cellphone was quite #bulky and heavy. 나의 첫 핸드폰은 꾀나 무겁고 두꺼웠다.

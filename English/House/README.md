@@ -591,6 +591,7 @@
 # 화장실
 * 화장실 써도돼? Can i use/go to the bathroom?
 * 배변활동; bowel movents; It's about bowel movement [ˈbaʊəl]
+	* 배설; excretion 미국·영국 [ikskrí:ʃən]; produce less excretion
 * 욕조를 닦자; Wash that tub
 	* 족욕; foot bath
 * 목욕; 나는 얼굴에 비누거품을 칠하고 면도를 하기 시작했다. I lathered my face and started to shave. 

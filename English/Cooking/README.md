@@ -1,3 +1,14 @@
+# 차이
+* boil  boil은 재료를 뜨거운 물에 넣고 끓이는 것을 뜻하는 기본 동사입니다. 
+To poach an egg, you boil the water, then crack open the egg and drop it gently into the water. (수란을 만들려면 물을 끓인 후 계란을 깨서 살짝 떨어뜨린다.) 처럼 사용합니다. 
+* simmer; 작은 기포가 표면으로 조금씩 올라올 정도로 끓이는 게 simmer입니다. 
+boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한다는 점입니다. Sometimes we simmer delicate food that would break apart if the boiling action were too rapid. (너무 급하게 끓이면 잘 부서지는 음식은 약한 불에서 살짝 끓이기도 한다.) 처럼 말할 수 있습니다. 이런 방식으로 만드는 음식에는 생선 조림이나 소스 등이 있습니다. 
+* stew; 재료가 부드러워질 때까지 오랜 시간을 들여 뭉근하게 끓이는 것이 stew입니다. We stew food that is tough and must be cooked for a long time before it is tender enough to eat. (질겨서 장시간 조리해야 하는 음식은 먹을 수 있을 만큼 부드러워질 때까지 끓인다.) 처럼 쓰입니다. 스튜 요리는 이 동사를 명사로 쓴 것으로, 질긴 고기를 장시간 동안 끓여 만듭니다.
+한편, stew는 [애태우다, 마음 졸이다]라는 뜻으로도 쓰는데, 이때는 stew 뒤에 about이 붙습니다. If you are irritated by your colleagues at work, you might stew about it. (직장 동료 때문에 화가 났다면, 당신은 그 일로 애태울 것이다.) 
+* cook; 날것에 열을 가해 먹을 수 있게 만드는 것을 통틀어 cook으로 표현합니다.  조리방법 The most common ways of cooking are frying, grilling, baking, and boiling. (가장 일반적인 조리법은 기름에 튀기기, 불에 직접 굽기, 오븐에 굽기, 그리고 끓이기다.) 처럼 다양하다. 이처럼 cook에는 [끓이다]라는 뜻도 담겨 있습니다. 
+그러나 가열하지 않고 요리를 만들 때는 cook을 쓰지 않습니다. Before we make the sushi, we have to cook the rice. (초밥을 만들기에 앞서 밥을 지어야 한다.) 처럼 날것에는 make를 쓰고, 가열해야 하는 것에는 cook을 써야합니다. 
+
+
 # 음식
 * 훌륭한 요리 달콤한 음식, 간식: treat; 주로 달콤한 비스킨이나 간식 종류를 의미
 * (양적으로나 질적으로나) 충실한 식사, 실속 있는 식사 square meal 미국식  영국식   단어장추가
@@ -7,6 +18,7 @@
 * 도구 내려놓으세요; Down, tools
 * 후라이펜을 중불에 예열해라; preheat nice big skillet on medium high [skílit] 
 * 체; sieve; 과일 채소 물빼는 체; colander; 집개; tongs
+	* 밀가루를 우묵한 그릇에 대고 체로 쳐라. Sift the flour into a bowl. sift;
 * 1회용 장갑; dispoable gloves
 * 냄비 받침; Trivet
 * 식기 반납하는 곳; Return utensils here
@@ -365,7 +377,7 @@
 * #carnivore; 잡식성; carnivorous 미국식 [kɑ:rnívərəs; 얃ㅅ
 
 * 「요리법」 ##요리법 ##cooker: 요리 도구, #set out ~: 준비하다
-* #갈은 #갈다; #grated potatoes
+* #갈은 #갈다; #grated potatoes; 강판: grater
 * #불쇼; #flambe
 * #요리 잘해? Are you a #good cook?
 * #전# #미리 요리; #pre-cook all of the work
@@ -383,6 +395,7 @@
 
 * #찍먹 #부먹 
 * Do you want sauce on top or separate; I want to dip it in the sauce, pour the sacuue on the top
+* 케이크 위에 당의를 뿌려라. Dredge the top of the cake with icing sugar.  2. 빵가루 입히다
 * 2,3단 센드위치 									 club sandwich
 * #토핑 put the toppings on it
 * #미역국 #sea #mustard soup
@@ -426,7 +439,7 @@
 * 충분히 #끓었어 							 it's been simmering
 * #끓어 넘치다; #boil over; the soup is boiling over 2. #폭발하다
   * #boil over into violence; 사태가 폭발하여 ~로 치닫다
-* 튀기다 									 ‘grɪdl fry, griddle
+* 튀기다 									 ‘grɪdl fry, griddle; deep fry
 * 찌다 											 steam
 * #졸이다 							boil down ‘breɪz #braise
 * 양념장에 재워두다 					 marinate 미국·영국 [‘mӕrɪneɪt]

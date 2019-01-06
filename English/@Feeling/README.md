@@ -1195,24 +1195,24 @@
 * 침울한 표정 짓지마; don't look go slum
 * 눈물이 나다; i got teary-eyed
 	* 눈물을 모아 담을 수 있다면; If teardrops could be bottled
-* ☆i'm no happy, i'm #bummed out(또래, 아래 사람), i'm #gloomy
-* #depressed, #blue, #dejected - 우울한, 암울한 
-* #weep; weep-wept-wept
+	* ☆i'm no happy, i'm #bummed out(또래, 아래 사람), i'm #gloomy
+	* #depressed, #blue, #dejected - 우울한, 암울한; ivve got the blues; person suffering from depression
+	* #weep; weep-wept-wept
 * 거짓 눈물; #shed 	#crocodile tears
-* #bummed out; be bummed out; 2. 기분이 나쁘다; was I bummed to get up at 5
-* cry over; ~ 때문에 울다, tear up; 눈물을 글썽거리다
-* 눈이 빠지게 울다; #bawl my eyes out
+	* #bummed out; be bummed out; 2. 기분이 나쁘다; was I bummed to get up at 5
+	* cry over; ~ 때문에 울다, tear up; 눈물을 글썽거리다
+	* 눈이 빠지게 울다; #bawl my eyes out
 	* 거짓 눈물을 흘리다 weep[shed] crocodile tears 
 	* 오열하다; bawl/cry one's eye out
 	* 뚝뚝 떨어지다; drop some tears
 	* 글썽거리다; well up; 소리없이 눈물만 흘리다; weep; 흐느끼다: sob
 * #조울증; 양극성 우울증 [|baɪ|poʊlər] bipolar depression 
 * #감상적인 #maudlin
-* 너 나 슬프게 만들었어 							 you get me frustrated
-* #blub; #blubbing
-* 슬픔을 #토로하다; get our #grief out
-* #go to pieces(#piece); 너무 슬퍼서 몸과 마음이 모두 갈기갈기 찢기다
-* 우울하여; #in the dumps; i've been down in the dumps
+	* 너 나 슬프게 만들었어 							 you get me frustrated
+	* #blub; #blubbing
+	* 슬픔을 #토로하다; get our #grief out
+	* #go to pieces(#piece); 너무 슬퍼서 몸과 마음이 모두 갈기갈기 찢기다
+	* 우울하여; #in the dumps; i've been down in the dumps
 * 눈물이 나려해 #bring a tear to my eye = #move to tears; i'm moved to tears
 * 우울하다		 I'm feeling under the weather, i'm feeling down/depressed today
 * #우울증; #antidepressant; does a drug still count as an antidepressant
@@ -1231,14 +1231,14 @@
 * 너 정말 우울해 보이네 					 You really look so #down in the dumps.
 * 그애 그냥 우는 시늉 한거야! 						 He shed crocodile tears . 
 * #울컥 											I tear up
-* ☆#choke up I'm getting kind of choked up.
-* #weep;(윕) #wept;(웹)
-* #울부짓다; #roar; you're gonna hear me roar
-* #시무룩; #dour; 따우어; she seems a bit dour
-* 눈물 닦아; #dry your eyes = #wipe away your tears
-* #촉촉해졋어; my eyes are #watery
-* #울적하게 하는; #dismal; the winter's dismal weather makes me gloomy
-* #음울한; #따분한; #dreary; I had to spend dreary winter's day
+	* ☆#choke up I'm getting kind of choked up.
+	* #weep;(윕) #wept;(웹)
+	* #울부짓다; #roar; you're gonna hear me roar
+	* #시무룩; #dour; 따우어; she seems a bit dour
+	* 눈물 닦아; #dry your eyes = #wipe away your tears
+	* #촉촉해졋어; my eyes are #watery
+	* #울적하게 하는; #dismal; the winter's dismal weather makes me gloomy
+	* #음울한; #따분한; #dreary; I had to spend dreary winter's day
 * 눈물을 흘리게 하는 작품; #tearjerker
 	* 우물을 well 이라고 하는데요. 우물에 물이 차오르듯 눈물이나 감정이 차오르는 것을 의미합니다. '눈물이 차오르다' 라는 문장은 다음처럼 표현할 수도 있습니다.
 		* 1) Tears 를 주어로 했을 때 Tears welled up in my eyes.
@@ -1247,8 +1247,10 @@
 * #애절; #sad, #mournful, #pathetic; #plaintive; #sorrowful
 * #기쁨의 눈물; #tears of joy
 * #heart wrenching; 가슴이 찢어지게 아픈
-	* 마음은 솔기 터지듯 찢어지고 있어; MY heart is breaking at the seams; fall/com aprt at the seams
-* #슬프다 #슬픈 #울다 #눈물 #우울하다
+	* 마음은 솔기 터지듯 찢어지고 있어; MY heart is breaking at the seams; fall/come aprt at the seams
+
+
+# 아쉽다
 * ☆it's a #damn/god damn shame; (비꼬기 가능)
 	* 아쉽다 										I hate ~
 	* That's a shame. ʃeɪm 

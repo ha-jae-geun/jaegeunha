@@ -148,6 +148,7 @@
 * 나중에 해도돼; That can wait
 
 # 말투
+* 밑져야 본전이지 뭐; Here goes nothing
 * 첫 단추를 잘 꿰야 한다; Get off on the right foot
 * = 오래된 습관은 좀처럼 바뀌지 않는다. ＊ Old habits die hard.
 * = 그건 인정해요. I'll give you that. 
