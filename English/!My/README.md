@@ -218,6 +218,7 @@
 * 이용자 참여  우리는 더 중요한 일이 있어.  We ' ve got bigger fish to fry . 듣기
 
 # 일상 
+* 경쟁상대 없어; There is no competition
 * 무슨 말이 하고 싶은지 모르겠어. = I have no idea where you are going. = I have no idea where this conversation is going. 영상에서는 [네가 이 대화를 어디로 끌고 가는지 모르겠다] 라는 뉘앙스의 표현인데요. 주인공이 하도 횡설수설하고 있죠 ㅎㅎ 이렇게 where you are going 을 써줘도 되고, where this conversation is going 이라고 해 줄 수도 있답니다.
 * 국물이 티다; THe soup splashed about everywhere
 * 식권이 다 떨어졋네 i'm coouponed out

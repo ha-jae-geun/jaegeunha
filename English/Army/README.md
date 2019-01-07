@@ -54,6 +54,10 @@
 * #군대;‘ #Levies
 * #신병 훈련소 									 boot camp 
 * #징병; #conscription 미국·영국 [kən|skrɪpʃn]; conscription age/law
+	* 1) 동사로 쓰일 때에는 주로 into 와 함께 쓰여서 [~로 징집하다] 라는 의미를 가집니다. 영상에서는 수동태인 be conscripted into 로 쓰여서 [~로 징집되다] 라고 쓰였네요. 2) 명사로 쓰일 때는 징집병을 의미합니다.
+		* 한국 전쟁 동안 많은 젊은이들이 징집되었습니다. ex) A lot of young men were conscripted into the army during the Korean War.
+	* 1) 영상 초반부에도 자주 나온 표현인데요. press into 는 [배치하다] 라는 뜻이 있습니다. press 가 [누르다] 라는 뜻이 있으니, 상대방이 원하든 원하지 않든 어딘가에 눌러 집어 넣는다는 느낌의 표현이구요. 2) service 와 함께 쓰이게 되면, 어떤 특정한  역할을 하도록 강제로 동원하고, 이용할 때 쓰는 표현입니다.
+		* 난 우리가 그를 지금 동원해선 안된다고 생각해. 그 미션을 성공적으로 마치기엔 충분히 훈련받지 않았어. ex) I don't think we can press him into service now. He's just not trained enough to complete the mission successfully.
 * #병역; #national service; do your national service
 * #교관 			 #피도 눈물도 없는 as hard as nails; The drill sergeant is as hard as nails
 * (군사) #베트콩 [|ɪnfəntri] 						 infantry regiment

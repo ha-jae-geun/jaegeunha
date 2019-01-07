@@ -109,6 +109,8 @@
 * ##묘 #성묘
 
 * #cemetery- sémǝtèri (특히 교회 옆에 있지 않은) #묘지
+	* 2) lynch는 교수형처럼 목을 매달아 누군가를 살해하는 것으로 그 사람이 죄를 지었다고 단정하고 정당한 법적 절차 없이 무자비하게 죽이는 것을 의미합니다. 그리고 그런 행위를 일삼는 무리들을 lynch mob이라고 합니다.
+		* 그 범죄 조직은 아무런 이유 없이 그를 목매달아 죽였다. The gang lynched him for no particular reason,
 * #묘비; #gravestone; #묘비명; #inscriptions of her grave
 * 오늘 할머니 장례식이라고		 I told her that today is my grandmother's funeral
 * #관 							#coffin 미국식 [|kɔ:fɪn] = #cascket

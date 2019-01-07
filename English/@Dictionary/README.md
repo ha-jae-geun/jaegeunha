@@ -4,6 +4,11 @@
 * There is a good chance
 * 가능할 것 같아; i think i could swing that; swing: 잘 해내다
 
+# 가정
+* 이론을 설명하거나, 믿음을 가지거나, 토론 등을 시작할 때 조금 더 발전시키기 위해서 꼭 필요한 무언가를 가정하는 걸 의미하는 단어입니다. 
+	* = 미래 에너지를 위해 두 가지 시나리오를 가정해 보았습니다. We have postulated two scenarios for the future of energy.
+* i'm gusssing; It must've 
+
 # 감
 * 그 의사의 예감이 옳았던 것 같았다. It seemed that the doctor’s hunch had been right. 
 * 내 직감으로는 그는 살인범이 아니다 I have a gut feeling that he is not the murderer . 듣기 출처:능률교육
@@ -11,6 +16,13 @@
 
 # 거짓말
 *  전판 거짓말이다 t is a downright lie from start to finish 
+
+# 거창
+* 네 계획은 너무 거창해. 조금 줄여보자. ex) Your plan is too grandiose. Let's narrow it down a bit. [-oʊs]  영국식 [ˈɡrændiəʊs] 
+
+# 결정하다
+* 결정하는 데 있어서 좀 더 영향력을 미치거나 주도적으로 결정하는 것을 call the shots 이라고 합니다.	
+	* 당신은 여기서 결정을 할 권리가 없는 것 같은데요. ex) I don't think you have a right to call the shots here.
 
 # 경향
 * 1) 생각이나 행동에 영향을 주어 특정 성향을 갖게할 때 쓰는 표현이에요. 영상에서처럼 수동태로도 많이 쓰이는데요. 직역하면 [사람들이 좀 더 먹는 성향이 있는 식이요법] 정도겠지만, 좀 더 자연스러운 해석을 위해 [사람들의 성향에 따른 식이요법] 으로 해석이 되었어요. 2) B의 자리에 질병이 들어가게 되면 [에 걸리기 쉽다]로 해석이 되고요. * predispose A to B
@@ -23,6 +35,9 @@
 
 # 계약
 * 계약서를 써왔어; i've drawn up a contract
+
+# 계획
+* 동사 devise 는 [고안하다, 계획을 짜다] 라는 뜻이 있는데요. 단순히 make a plan 보다 훨씬 더 꼼꼼하고 세부적인 것들을 포함한 계획을 짤때는 devise a plan 이라고 합니다. ex) Susan has devised an alternate plan.
 
 # 고민
 * 무슨 고민 있으세요? What's eating you?
@@ -39,10 +54,17 @@
 # 관련
 * 그녀는 스파이와 관련되어 있다. She goes hand in hand with that spy. 
 
+# 관심
+* 마카오가 홍콩보다 더 늦게 발전하였다는 것을 재미있게 표현하였네요. 여기서 나온 steal the spotlight는 ‘주목을 끌다, 관심을 빼앗다’를 의미합니다.  이와 비슷한 표현으로 steal one’s thunder 가 있는데요, 자신이 무언가를 하려던 참에 남이 선수쳐서 관심과 주목을 빼앗아 간다는 뜻입니다. 예를 들어 자신의 임신소식을 주변 사람에게 말하려고 했는데 그 전에 누군가가 임신 소식을 터뜨려서 본인이 관심을 받지 못하게 되는 상황이 이런 경우에요.
+
 # 기억
 * 주어로는 옛날 생각을 나게 만드는 대상을 쓰면 됩니다. 혹은 영상에서처럼 “야, 옛 생각 나네!” 처럼 간단하게 주어를 생략해서 표현할 수도 있겠네요. (It) brings back memories; Wow, it just brings back a lot of memories.
 * 경험이나 감정을 상상이나 기억 속에서 다시 체험하는 걸 의미하는데요. 특히나 불쾌한 경험, 감정을 다시 체험할 때 쓰는 단어입니다.
 	* = 테드는 그 사고를 다시 머릿속에서 경험했을 때 흐느끼며 무너져 내렸다. Ted broke down sobbing as he relived the accident.
+
+# 나타나다
+* 인류가 떨어뜨린 씨앗에서 곡물(crop)이 자란 것을 우연히 발견하게 되었죠. 같은 맥락일까요? 예기치 않게 무언가가 갑자기 출현하는 것을 crop up 이라고 합니다. 혹은 특정 주제가 말 속에서 계속 언급되는 것는 것도 crop up 입니다.
+	* 미안해, 오늘 못 갈 것 같아. 일이 갑자기 생겼어. Sorry I can’t make it tonight. A problem cropped up. 
 
 # 낭비
 * [낭비하다] 라는 뜻을 본 순간 아마도 waste 를 떠올리셨을 것 같아요! 거의 비슷한 단어지만, 생긴 게 다른 만큼, 뉘앙스의 차이도 물론 있습니다. squander 의 경우엔 시간이나 돈을 조금 무분별하고 현명하지 못한 방식으로 낭비하는 것을 의미하는데요. waste 는 꼭 무분별하게 낭비한 것은 아닙니다. 또한 waste 가 조금 더 부드러운 표현일 뿐만 아니라 자주 쓰이죠. 예를 들어, 신중하게 생각하고 주식에 돈을 투자를 했으나, 얻은 것도 없고 오히려 주가가 내려서 손실을 봤을 때는 waste 한 것이고, 백화점에 갔는데 보이는데로 생각하지 않고 무분별하게 사는 것은 squander 한 것이라고 생각하시면 됩니다.
@@ -61,8 +83,13 @@
 * make effort; I will make every effort to solve the problem.
 * move mountains: 직역하면 '산을 옮긴다'는 뜻이지만, '산을 옮길 정도의 노력을 들이다'라는 뜻을 가져요.
 
+# 대기
+* 그래서 대기명단에 이름을 올리고 차에서 기다렸어요. So we put our name on the waiting list and we waited in the car
+
 # 대답
 * 상반되는 대답이네요. we got conflicting answers
+* 형용사 coy는 1) 수줍어하는, 내숭을 떠는, 또는 2) 얘기를 잘 안 하는이라는 의미를 갖습니다. 특히나 예민할 수도 있는 자신의 신상에 관해서 말을 아끼는 걸 의미하는데요. play coy는 질문을 받았을 때 직접적인 답변을 피하는 것을 의미합니다.
+	* = 그의 성적 취향에 대한 질문을 받았을 때, 그는 말을 아꼈다. When asked about his sexual orientation, he played coy.
 
 # 대해서
 * in terms of something은 '~에 관하여, '~면에서는'이라는 뜻을 가지고 있어요.
@@ -77,6 +104,8 @@
 	* help me는 뒤에 구체적인 내용을 붙이는 경우가 많고 help me out은 '도와주세요'라는 굳어진 표현으로 많이 쓰인다.
 * - pitch in and 동사 : 힘을 합쳐 ~하다 - pitch in with 기여 : ~를 기여하다, 거들다
 	* 저도 동참해서 돕고 싶어요. I would like to pitch in and help; If we all pitch in, the cleanup shouldn’t take long.
+* 원래는 무언가가 떨어지거나 미끄러지지 않도록 [받치다] 라는 뜻인데요. 사람에게 쓰일 경우엔 그 사람이 지쳐 쓰러지지 않도록 도와주고, 지지해주고, 격려해주는 것을 의미합니다.
+	* 너를 항상 지지해주고 싶은 건 아니야. ex) I don't want to prop you up all the time.
 
 # 동기
 * 비격식 표현으로 사람을 흥분시키거나 감정을 유발하는 것을 의미해요. 또한 무언가를 좀 더 강력하고 신나게 만드는 것도 의미하는데요. 영상에서는 수동태인 be amped up 으로 쓰여 [의욕에 불타게 되다] 의 뉘앙스로 쓰였습니다.
@@ -85,14 +114,29 @@
 # 동의
 * [동의]를 의미하는 단어는 agreement 도 있는데요. consent 와는 나름 큰 차이가 있습니다. agreement의 경우엔 '합의' 로서의 동의를 의미합니다. 예를 들어, 양국 정상이 만나서 무언가를 합의하고 세부사항에 동의를 했을 때 reach an agreement라는 표현을 쓰고요. consent 같은 경우엔 '승낙'으로써의 동의를 의미해요. 영상에서처럼 부모가 무언가를 하는데 승낙을 해줘야 할 수 있을 땐 consent라는 단어를 씁니다. 그래서 무언가에 [동의하다, 승낙하다]라고 할 땐 give one's consent to something이라고 합니다. 동사로도 쓰일 수 있어요.
 	* = 난 거기에 동의하지 않았어. I didn't give my consent to it.
+* company 는 '회사'라는 뜻 외에도 [함께 있음]을 의미하기도 해요. 그러다보니 '동료, 친구들'의 의미를 갖기도 하는데요. part 는 전체가 아니라 '부분'을 의미하는 단어니, 동사로 쓰이게 되면 [헤어지다, 갈라지다, 갈라놓다] 등의 의미를 가집니다. 이 표현들이 함께 쓰인 part company 는 1) 두 명 이상의 사람들이 헤어지다, 다른 방향으로 향하다, 또는 2) 동의하지 않아서 갈라지는 걸 의미하는 숙어입니다. 구어보다는 격식체, 문예체로 많이 쓰입니다.
+		* = 김연아는 브라이언 오서 코치와 2010년에 결별하였습니다. Kim Yuna parted company with Brian Orser in 2010. 
+
+# 되돌아가다
+* 우리가 2년 전으로 돌아가 결혼 생활에 한 번 더 기회를 줄 수 있었으면 좋겠소. I wish we could turn the clock back two years and give the marriage another chance. 
+* 데이브와 나는 20년 동안 알고 지내는 사이이다. Dave and I go back twenty years. 
+* 원점으로 되돌아오다; i've come full circle
+* 'take back'은 무언가를 '되돌려놓고' '다시 가져다놓는다'는 개념이에요. 물건을 'take back'하면 다시 가져오고, 반환한다는 의미이고, 말, 의견 등을 'take back'하면 취소한다는 뜻입니다. 사람을 'take back'할 경우 대개 어떤 장소로 다시 데려다주는 것이며, 시간상에서는 본문처럼 '과거로 돌아가서 생각해보고, 과거를 떠올리고 회상한다'는 의미가 됩니다. 
+	* 잠시 어린 시절로 돌아가보세요. Take yourself back to your childhood again for a moment.
 
 # 리스트
 * 리스트에서 그건 뺴자; Crossing that one off the list; cross off: 줄을 그어 지우다.
+* 한 칸에만 체크해 주세요. Please tick one box only.
 
 # 몸매
 * * get into shape = 몸매를 가꾸다, 몸을 만들다  stay in shape = 체력/건강/몸매를 유지하다  in a good(bad) shape = 건강/몸매가 좋은 (나쁜)
 	* = 몸매 가꾸려고 일주일에 세 번 요가 수업을 해. I go to yoga class three times a day to get into shape.
 * 난 날씬한 몸을 갖고 싶어.  want to get a lean body. 
+
+# 무게
+* 사물의 무게를 물어볼 때 How heavy is it?라고 묻는 것은 괜찮지만 사람에게 How heavy are you?라고 하지 않는 것이 좋습니다. 예의에 어긋나게 들릴 수도 있거든요. 그 대신 How much do you weigh? What is your weight? 라고 해야 합니다. 물론 민감한 주제일 수도 있으니 웬만해선 몸무게를 묻지 않는 것이 낫겠죠?
+* weigh apples, weigh fish 처럼 어떤 것의 무게인지 목적어를 꼭 써야 합니다. 혹은 자신의 체중을 잰다고 할 때는 weigh oneself with/on the scale 이라고 합니다.
+	* ㅍShe weighs herself every morning.
 
 # 미루다
 * 학교 다닐 때 보통 put off 과 delay 가 같다고 배우는데요. procrastinate 와 함께 차이점을 알아보아요!
@@ -107,6 +151,8 @@
 	* 난 학교에 빈둥거리러 가. ex) I go to school to slack off.
 
 
+# 받아들이다
+* 그녀는 아직도 아들의 죽음을 받아들이려고 애쓰고 있다. She is still coming to terms with her son’s death.;  (좋지 않은 일을) 받아들이는 법을 배우다[받아들이려고 애쓰다]
 
 # 방법
 * (to) the beat of one’s own drum = 자신만의 방법, 자신만의 개성을 따라서 드럼소리를 기준으로 들으며 박자를 맞추듯이, 자신만의 소리, 자신만의 개성을 따른다는 의미의 표현입니다. 영상에서는 자신만의 방식으로 일어나라는 의미에서 wake up이라고 하였는데요, 보통은 march, follow 등을 씁니다.
@@ -119,6 +165,14 @@
 * fumes는 [가스, 매연] 을 의미하는데요. 자동차에 기름이 다 돼서 바닥을 쳤을 때, 정말 얼마 안 되는 연료로 간신히 움직이는 걸 run on fumes라고 합니다. 사람에게 적용했을 땐 체력이 다 바닥났지만 근근이 버티는 걸 의미해요. * run on fumes = 근근이 버티다, 체력이 다 되다.
 	* = 우리가 최종 라운드에 진출했을 땐 체력이 다 빠졌다. We were running on fumes when we made it to the final round.
 
+# 변하다
+* undertake는 ‘하다, 떠맡다, 착수하다’인데요, 시간이 오래 걸리는 일, 혹은 난이도가 있는 일이 목적어로 옵니다. 그래서 undertake changes도 하루 아침이 아니라 오랜 시간동안 변화를 해왔다는 것을 의미합니다. 
+	* 학생들은 간단한 실험을 하라는 요구를 받았다. Students are required to undertake simple experiments.
+
+# 비교
+* 1) 비격식 표현으로 주로 전치사 against 와 함께 쓰여 [와 견줄만하다] 라고 해석이 되요. 주로 의문문이나 부정문에 쓰이는 표현입니다. 2) 영상에서는 뒤에 against humans 가 생략이 된거라고 보시면 되는데요. 직역하면 [전세계의 다른 동물들을 인간과 비교해보면 어떨까요?] 의 의미를 가집니다.
+	* 세상의 어떤 음식도 이것과는 견줄 수 없어. 완전 짱이야! ex) No food in the world can stack up against this. It's amazing!
+
 # 빈둥거리다
 * 비격식 표현으로 딱히 하는 일 없이 시간을 낭비한다던지, 그다지 중요하지 않은 일을 하느라 시간을 보낸다던지, 남이 보기에 좀 멍청하게 행동을 하며 시간을 보낼 때 쓰는 단어입니다. 주의하실 점은 [성적으로 문란하게 놀다] 라는 뜻도 가지고 있기 때문에 오해를 살만한 내용일 경우엔 조금 조심해서 쓰셔야 해요. = screw around
 	* 사장이 떠난 뒤로 빈둥거리고 있는 중이야. ex) We've been screwing around since the boss left.
@@ -130,6 +184,7 @@
 * 우리는 상황을 알아 보았다  Dipping our toes in the water
 * [상황, 사정] 을 의미하는 circumstances 앞에 다양한 형용사를 써서 어떤 상황인지 나타낼 수 있는, 굉장히 유용하고 자주 쓰이는 표현입니다. 형용사 없이 under the circumstances 라고 하면 [그러한 상황에선, 상황을 고려하면] 정도로 해석이 되고요.
 	* = 이 기술적 문제는 특정 상황에서 발생합니다. This technical issue occurs under specific circumstances.
+* 전쟁이 교착상태에 빠졌다.ex) The war has reached a stalemate.
 
 # 선입견
 * * 전치사 towards 또는 against 를 써서 [~에 대한 편견] 을 의미하는데요. towards 가 쓰이면 좋은 의미로의 편견, against 는 나쁜 의미로의 편견을 의미합니다. 참고로 형용사로 [편향된, 편견이 있는] 의 뜻은 biased 라는 단어를 씁니다.
@@ -141,6 +196,8 @@
 * 무대 위의 스포트라이트나, 어두운 밤바다를 비춰주는 등대를 상상해 보면 이해가 빠를 것 같습니다. 직역하면 어떤 것이 잘 보이도록 빛을 환하게 비춰준다는 것인데요, 비유적으로 실상을 보여주다, 남의 이해를 돕기 위해 설명을 해주다, 정보를 제공하다 등 다양한 뜻으로 쓰이는 표현입니다. shed light on = 정보를 제공하다, 설명하다, 실마리를 제공하다, 드러내다
 	* 최근에 진행된 연구는 그 질병의 원인을 밝혔다. Recent research has shed light on the causes of the disease.
 * 형용사로 쓰여도 비슷한 뉘앙스로 [정교한, 공을 들인] 이라는 뜻을 가지는데요. 디테일 하게 만드는 뉘앙스의 단어에요. 보통 회의 같은 곳에서 현재 논의되고 있는 사안에 대해서 [좀 더 자세하게 설명해주시겠어요?] 라고 물을 때 정말 많이 쓰이는 표현입니다. ex) Can you elaborate on that please?
+* 중간에 목적어를 넣어서, 예를 들면, I'll walk you through this. 라고 쓸 수가 있는데, 이럴 땐 [내가 너한테 이걸 차근차근 알려줄게.] 의 의미를 가집니다. 
+	* 먼저 한 번 살펴보고 제 생각을 말씀드릴게요. ex) I'll walk through this first and let you know what I think.
 
 # 소외
 * be alienated, be marginalized, be excluded, be isolated
@@ -153,9 +210,23 @@
 * 네 수준으로는 나조차 못이길거야; YOu can't even defeat me in your current state
 * 여기서 bar는 ‘수준’을 의미하기 때문에 high bar는 ‘높은 수준, 높은 경지’가 됩니다. 이성에 대한 기준이 너무 높거나, 직업을 고를 때 너무 눈높이가 높을 때도 쓸 수 있습니다. 반대로 low bar는 ‘낮은 수준, 낮은 눈높이’를 뜻합니다. 
 	* 대학 졸업 후 구직할 때, 너무 눈높이를 높게 잡지 마.  When you try to get a job after college, don’t set the bar too high.
+* -의 상태가 어느 지점까지 간다; it gets to the point where 
+
+# 앞뒤
+* add up 은 '늘어나다'라는 뜻도 있지만, 부정문으로 쓰일 경우에 특히나 무언가 [앞뒤가 맞지 않고 말이 안 된다] 의 의미를 가집니다. It doesn't add up이라고 할 수도 있는데요. 무언가를 쌓아 올리려면 밑에 있는 것들이 잘 들어맞아야 하는데 그렇지 못한 모습을 연상하시면 될 것 같아요!
 
 # 애도
 * 애도를 표합니다; i'm so sorry for your loss
+* mourn = (누군가의 죽음으로) 애도하다. mourning = 애도, 상복 in mourning = 상복을 입은, 상 중인, 애도중인
+	* 그의 가족은 아버지의 죽음으로 상 중이야. ex) His family is in mourning for their father.  [mɔːrn]  <> [ˈmɔːrnɪŋ]
+
+# 어렵다
+* 기술 용어로 쓰일 때는 '하드웨어에 내장된 (그래서 유저가 손대기 어려운)'이라는 뜻인데요. 이렇게 어떤 반응/사고/행동/태도 따위를 얘기할 때는 인간의 본성에 '내장되어 있는, 본능적인, (그래서 어쩔 수 없고, 바꾸기 힘든)' 이라는 뜻을 지닙니다.
+	* 소통하는 것은 인간의 본능입니다. [ex] Humans are hardwired to communicate.
+
+# 예시
+* 1) 여기서 go-to example은 ‘대표적인 예’로 해석할 수 있습니다. go-to는 어떤 것에 딱 맞는, 그래서 가서 찾게 된다는(go to) 의미로 쓰입니다. 예를 들면,
+	* (사람들이) 컴퓨터 문제가 있으면 꼭 제임스씨를 찾는다. ex] Mr. James is a go-to person for computer questions. 
 
 # 예의
 * 예의바르게 행동해 mind your Ps and Qs 
@@ -163,6 +234,27 @@
 # 옛날에
 * Looking back; "in retrospect" 
 * back in the days, "in the past", in the old days" 
+
+# 외식
+* 어제 가족이랑 외식했어요; My family and i went out for dinner yesterday
+
+# 위치
+* 그냥 얼핏 들으면 where about 정도로 들릴 수도 있고, 명사로 생각하기 힘들지만 명사인 단어입니다. 단어 속에서 보이는 모습 그대로 어디(where) 쯤에(about) 있는지를 의미합니다.
+	* = 그녀가 그 돈의 소재를 밝히진 않을 거야. She wouldn't reveal the whereabouts of the money.
+
+# 유명
+* 난 유명해지는 것 이외에는 다른 건 신경 안 써. ex) I don't care about anything else other than making a name for myself. = make a name for oneself
+
+# 유일
+* ※ only 와의 차이 : 'sole' 은 '유일한'으로 정말 단 하나뿐인 것을 말하는 반면, 'only'는 '유일한'도 되지만, 하나 이상인 경우에 쓰기도 해요.
+	* 생존자는 남자 두 명 뿐이었습니다. [ex] The two man were the only [sole:X] survivors.
+
+# 의견
+* : 직역하면 '목소리가 들리게끔 하다'로, 어떤 문제에 대해 '(능동적으로 강력히) 목소리를 내다, 의견을 표명하다' 라는 뜻이에요!  make one's voice heard
+
+# 의향
+* be down with ~ = 할 의향이 있다
+	* 난 있다가 영화보는 거 좋아. I'm down with seeing a movie later.
 
 # 이끌다
 * initiative는 '계획'이라는 뜻으로 많이 쓰이지만 앞에 the를 붙여서 the initiative라고 쓸 경우 '주도권'을 의미하는데 많이 쓰이기도 합니다. 다양한 동사와 함께 쓰이는데요. [gain/seize/lose the initiative = 주도권을 얻다/잡다/잃다] 쓰이니 함께 알아두세요!
@@ -183,20 +275,13 @@
 * 비슷한 표현으로 dig one's heel 이라는 표현도 있는데요. 두 표현 모두 발을 땅에 꾹 대고 움직이지 않으려는 모습의 의미를 가지고 있습니다. 그래서 비유적인 의미로 자신의 입장이나 결정을 포기하지 않고 단호한 입장을 취하는 걸 의미해요.
 	* = 다른 사람들이 불평을 많이 할지라도, 가끔 단호한 입장을 취할 필요가 있다. Sometimes you need to put your foot down even if others complain a lot.
 
-# 의견
-* : 직역하면 '목소리가 들리게끔 하다'로, 어떤 문제에 대해 '(능동적으로 강력히) 목소리를 내다, 의견을 표명하다' 라는 뜻이에요!  make one's voice heard
-
-# 위치
-* 그냥 얼핏 들으면 where about 정도로 들릴 수도 있고, 명사로 생각하기 힘들지만 명사인 단어입니다. 단어 속에서 보이는 모습 그대로 어디(where) 쯤에(about) 있는지를 의미합니다.
-	* = 그녀가 그 돈의 소재를 밝히진 않을 거야. She wouldn't reveal the whereabouts of the money.
-
-# 의향
-* be down with ~ = 할 의향이 있다
-	* 난 있다가 영화보는 거 좋아. I'm down with seeing a movie later.
 
 # 이용
 * 가위, 칼, 식기류 등의 물건을 사용하는 것이 아니라 '상황' 을 자신에게 유리하게 이용하는 것을 의미하는 단어입니다. 따라서 그런 상황은 [기회로 삼다] 로 해석이 되기도 하고요. 영상에서는 저지방 유행을 [타고 나오다] 로 의역이 되었습니다.
 	* = 그들은 우리의 실수를 이용할 수 있었어. They were able to capitalize on our mistakes.
+* ~을 의도적으로 사용하다. ~을 가지고 놀듯 하다. 본인이 하고 있는 것을 더 잘하거나, 이익을 얻기 위해 사람이나 사물을 의도적으로 사용하는 것을 의미해요.
+	* 제이슨은 자신의 이익을 위해 레베카의 아이디어를 사용했다. ex) Jason played off Rebecca's idea to his own advantage.
+
 
 # 자기
 * 자기관리! 하면 떠오르는 단어예요. discipline. 명사로는 [규율, 훈육] 또는 [수련법] 의 의미로 자주 쓰이며, 동사로는 [훈육하다] 또는 [스스로를 단련하다] 라는 의미를 가집니다. 형용사로 disciplined 는 [스스로 단련된, 규율을 가진, 잘 훈련된] 정도의  의미로 쓰여요. 이 영상에서는 discipline 중에서도 self-discipline에 대해 얘기하고 있기 때문에 [자기 절제], [절제력]이라고 번역했습니다.
@@ -214,11 +299,24 @@
 * acclimation은 '새 환경에 대한 순응, 적응'이라는 뜻입니다.
 	* 우리 가족은 최근 몇 년 어려운 시기를 보냈는데, 긍정적인 신호들을 보기 시작했어요. ex) Our family's had a few bumpy years recently, but we are starting to see positive signs.  [æ̀kləméiʃən,-lai-] 
 
+# 조금
+* 자선을 위한 수표가 아주 조금씩 들어오고 있다. The checks for the charity are coming in dribs and drabs. 
+
 # 조심
 * 차 조심해; Watch out for the cars
 
+# 좋다
+* take a liking to ~ = ~를 좋아하기 시작하다 / ~를 좋아하게 되다
+	* 그는 안나를 금방 마음에 들어 하였다. He took an immediate liking to Anna.
+
 # 준비
 * 준비 다 됐니? You all set
+
+# 중요
+* 중요한 것은; All that matter is
+
+# 즐기다
+* 동사와 명사의 형태가 같은 단어인데요. 무언갈 즐길 때 enjoy 로는 부족할 때! relish 를 쓰시면 됩니다. enjoy 와 마찬가지로 뒤에 명사 또는 ing 를 씁니다. (to 동사원형은 못써요!)  ex) Some people relish eating bugs. ˈrelɪʃ] 
 
 # 직전
 * on the verge of something; on the verge of doing something
@@ -240,6 +338,15 @@
 * 단어 안에 신뢰 (trust) 라는 단어가 들어가 있으니, 누군가를 믿고 맡기는 것을 의미합니다. 영상에서는 [투자하다] 라고 해석이 되었어요.
   * 왜 그렇게 많은 돈을 맡긴 거야? ex) Why did you entrust that much money to him?
 
+# 평범
+* 웬만한 사람은; If you're anything like me
+
+# 포기
+* 포기 하는 것을 배운다; we learn to quit
+
+# 표준
+* 표준어; Standard american English
+
 # 하찮은
 * [가장자리], 또는 주류에 포함되지 않는 [주변] 을 margin 이라고 합니다. 이 단어의 형용사형인 marginal 입니다.
 	* 이 변화가 지금은 별 거 아닌 것처럼 보일 수도 있지만, 나중에 우리에게 큰 도움이 될거야. ex) This change may look marginal for now, but I'm sure it will help us a lot later.
@@ -247,11 +354,16 @@
 # 한계
 * 그는 끊임없이 TV 코미디의 한계를 초월하는 연예인이다. e is a performer who consistently pushes the envelope of TV comedy. 
 
+# 한번쯤은
+* at one point or another
+
 # 화장실
 * 화장실 갈래; I need to use the restroom
 
 # 흐르다
 * 용암은 분화구에서 조금씩 서서히 흘러나오기만 할 것이다. The lava will just ooze gently out of the crater . 듣기 출처:Collins
+* 동사 seep 은 '배어들다, 스며들다'의 의미가 있는데요. out 이 붙어서 작은 틈을 통해 마치 스며들듯이 새어나가는 것을 의미합니다. 비유적인 표현으로 누설되어선 안되는 비밀, 기밀 등이 새어나갈 때 쓰기도 해요. 반대로 조금씩 들어오는 것은 seep in이라고 합니다.
+	* = 수건 좀 갖다 줘. 어디선가 물이 많이 새어 나왔어. Get me a towel. A lot of water seeped out of somewhere.
 
 # 흑역사
 * It's dark chapter in my life

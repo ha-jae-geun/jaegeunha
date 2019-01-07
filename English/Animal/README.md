@@ -13,6 +13,7 @@
 	* 같이 있어 줄까요? We need company; company: 함께 있음 
 * 길거리에 버려진 개나 고양이 등을 수용해 놓는 곳을 pound 라고 합니다. 비슷하게 불법 주차 차량을 견인하여 보관해 놓는 곳도 pound 라고 해요.
 	* 버려지거나 길을 잃은 떠돌이 개, 고양이들을 stray dog/cat 이라고 합니다.
+* 우리말에도 개, 강아지를 ‘견(犬)’으로 표현하듯이 영어에도 동물을 의미하는 격식표현이 있습니다. feline(고양이) 외에 canine(=dog) 개, avian(=bird) 새, bovine(=cattle) 소 등이 그것입니다. 워낙 종류도 많고 어렵기 때문에 다 아실 필요는 없고, 방금 주어진 예문 정도만 알아두시면 됩니다. ˈfiːlaɪn]   [ˈkeɪnaɪn]  [ˈeɪviən]  [ˈboʊ-]  영국식 [ˈbəʊvaɪn] 
 
 # 공룡
 * 7층 높이의 브라키오 사우르스; 15세까지  크고 안크는데 30t까지
@@ -63,10 +64,11 @@
 	* 닭들이 닭장에서 꼬꼬댁거리며 돌아다녔다. Chickens clucked around in the hen house.  [klʌk] 
 
 ## 동물
+* 기르다; 동물을 기르다[길들이다] keep[domesticate] animals; tame a wild animal
 * 송곳니; fang 미국식 [fæŋ]  영국식   단어장추가
 * 고양이 털에 알레르기 있어요; i was allegic to cat hair
 * 육식성의; carnivore 미국식 [ˈkɑːrn-]  영국식 [ˈkɑːnɪvɔː(r)]; carnivorous
-* 초식성의; herbivorous 미국식 [hə:rbívərəs] 
+	* 초식성의; herbivorous 미국식 [hə:rbívərəs] 
 * 토끼가 탈출한 적도 있니? SO Tammy, have any of your rabbits ever gotten loose?
 * 부질 없는 짓이야; This is a wild goose chase
 * 이상적인 사람; Mr.right

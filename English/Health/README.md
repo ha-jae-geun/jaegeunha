@@ -119,7 +119,8 @@
 * ~조건으로 해줘써요; 치아 교정 유지 장치를 끼웡야한다; got them for me on the condition that i had to wear my plate afterwards
   * 교정하다; had her teeth starightened in the past; straighten teeth
 * 비뚤어지다; went all crooked again
---------------
+
+
 # 병원; doctor's office: 개인 병원(영국; doctor's surgery)
 * 잠복기간이 길다; That disease has a long incubation(latent) period
 * 퇴원하다; i was discharged from hospitals
@@ -130,6 +131,8 @@
   * 1) 생각이나 행동에 영향을 주어 특정 성향을 갖게할 때 쓰는 표현이에요. 영상에서처럼 수동태로도 많이 쓰이는데요. 직역하면 [사람들이 좀 더 먹는 성향이 있는 식이요법] 정도겠지만, 좀 더 자연스러운 해석을 위해 [사람들의 성향에 따른 식이요법] 으로 해석이 되었어요. 2) B의 자리에 질병이 들어가게 되면 [에 걸리기 쉽다]로 해석이 되고요. * predispose A to B
     * = 어떤 사람들은 유전적으로 특정 질병에 걸리기 쉽다. Some people are genetically predisposed to certain diseases.
   * #질병관리센터	#CDC; #Center for Disease control
+  * * develop 은 기본적으론 [개발하다] 라는 뜻이지만, 없던걸 만들어내는 뉘앙스이기 때문에 뒤에 병명이나 어떤 문제가 목적어로 오게 되면 1) 없던 병에 걸리거나 2) 문제가 생길 때도 쓰이는 단어입니다.
+    * 아이들에게 발진이 생기면 병원에 데리고 가세요. ex) Take your kids to hospital if they develop a rash.
 * 미국에서는 예약 없이 병원 못감
 * doctor: 대학/대학원/인턴/레지던트/의사 자격증 시험까지 다 통과한 사람
 * 주치의; attending
@@ -168,60 +171,19 @@
 * #박테리아; #생분해; #biodegradable 미국식 [|baɪoʊdɪ|greɪdəbl] 
 * #살모넬라; #salmonella
 * #보균 #살균 #세균
-* 약국에서 살수 있는 #진통제; #pain medicine
-* #수면제; #sleeping pill
-* #처방전 없이; without a prescription
-  * 처방전을 써주다; write someone a prescription; they wrote me a prescription
-  * 처방전 없이 살수 있는 약; over-the-ounter drug
-* #졸리다; will I get #drowsy
-* #부작용; #side effects
-* 약을 좀 약하게; a lower dosage
-* #긇히다; I got a scratch #까지다; I got scratches / #scrape
-* 안쪽으로 #꺾이다; twisted inward
-* #발등; on the top of my foot
-* #medicine #drug; 공통점: 약 차이점: medicine: 먹는약 
-* #제약회사; drug company, #약국: #drug store
-* #medicate; 약으로 치료하다 #medication; 투약
-* #medication; 바르는 약, 주사, 먹는약 모두 포함
-* #알약 he took #pills
-* #처방약; 처방 없이 구할 수 없는 약 #prescription drug
-* phar·ma·ceu·tic (pharmaceutical)미국식 [fɑ̀:rməsú:tik(əl)] 
-* vitamin 비타민, OTC drug (= over the counter medication) 처방전 없이 살 수 있는 약, bandage 붕대, 
-* #진단서 없이 약국에서 바로 구입 O 비상장 기업의 #주식 #over the counter
-* prescription 처방전, pharmacist 약사 #항생제 #antibiotics = #antibio
-* #항체; #antibody
-* #제산제; #antacid; 위속의 산을 중화하는ㅇ ᅟᅣᆨ
-* #연고 처에 연고를 바르다 				apply/put on #ointment[salve] to a wound
-* #바르다 1. put on 2. apply
-* #투여량 #dose; max dose; 최대 투여량 
-* #과다복용 증상 #overdose signs(#sign);
-* #turpentine; #테레빈유 #구충제, #거담제 등으로 이용
-*   # anthelmintic [æ̀nthelmíntik,æ̀nθel-]
-* #prenatal; #임산부가 먹는 약
-* #독약; #evil potion
-* 약먹었니(헛소리); are you #on drugs? / are you high / what are you smoking / what are you on?
-* did you take your medicine today?
-* #약사; #chemist #약국 #chemists 병원 조제실; #pharmacy
-	* ##약국
 * #laxativve; #배변을 쉽게 해주는 약
   * #bowel movement; 배변 운동; they haven't listed bowel movements
 *  #소화되다; #배가 꺼지다; we can #walk it off tomorrow
-* 빈속에 비타민 C 복용해도 돼? Can i take Vitamin C on a empty stomach
-* #위산; #stomach acid
-* #젖당, #유제품 못먹는 사람 #lactose intolerant(#intolerant)
-* 속이 안좋다 			Something that I ate doesn't agree with me. , have an upset stomach
-* #소화불량; #indigestion; suffer from indigestion
-* 소화제 있어?							 Do you have any digestive pills?
-* something any medicine to aid digestion
-* #flatulence 미국식 [|flӕtʃləns]; #속이 부글거림
-* #소화 #속
-* #약빨이 떨어지기 시작했다. 		
-* 약 복용 중이야 		#약 | #복용	The medicine is starting to wear off
-* 뭔가 먹고싶거나 복용중 I’m on #medication. 
-* *이틀에 한번씩 먹어	#apply twice a day
-* #내성이 생겨서 	i've built up resistance
-* #약을 먹다	take medicine
-* i've got ~, I keep ~	
+  * 속쓰림이라고 하면 왠지 배의 속쓰림을 연상하실 것 같은데요. heartburn 이라는 단어에서 느껴지듯이 가슴 쪽에서 타는 듯한 느낌의 속쓰림을 의미합니다. 영상 전체에 걸쳐서 잘 설명이 나오겠지만, 트림과 함께 위에서 목으로 신물이 올라오는 경우 느껴지는 고통을 heartburn 이라고 해요.
+    * I think I need some medicine. I've had heartburn for 3 days already.
+  * 빈속에 비타민 C 복용해도 돼? Can i take Vitamin C on a empty stomach
+  * #위산; #stomach acid
+  * #젖당, #유제품 못먹는 사람 #lactose intolerant(#intolerant)
+  * 속이 안좋다 			Something that I ate doesn't agree with me. , have an upset stomach
+  * #소화불량; #indigestion; suffer from indigestion
+  * 소화제 있어?							 Do you have any digestive pills?
+    * something any medicine to aid digestion
+  * #flatulence 미국식 [|flӕtʃləns]; #속이 부글거림
 * #질병이 뭥 What's my #diagnosis; I was diagnosed with cancer
 * #병적 행동; #병리학; #pathology; it's his pathology
 * (질병을)악화시키다; #exacerbate [igzǽsǝrbèit, iksǽs-]
@@ -232,7 +194,7 @@
 * hospital	hospital은 교통사고가 났거나 정밀 검사를 받는 큰 규모의 종합병원을 뜻합니다. 
 * ◇ a cold와 동의어를 = flu도 보실수 있는데요. 저 한국에 있을때 하나같이 flu 앞에는 정관사 the를 써라. cold 앞에는 a를 써라. 무시무시한 cancer 앞에는 the를 빼고. 라고 늘 들어왔어요. 다 맞지만, * 실상은 flu 앞에 정관사 the 를 안 붙이는걸 더 많이 보실수 있어요. #cold# #flu#
 * '적어도, 네 동생 열내리는데는 도움이 될거야 		 *At least it'll help keep his fever down.
-* Keep one's fever down' 은 '~의 열을 내리다' 
+* Keep one's fever down' 은 '의 열을 내리다' 
 * 몸이 #불더
 * 열 약간 있어; I have a #slight fever
 * ##열
@@ -466,7 +428,9 @@
 * #산과의사 #obestetrican #부인과 의사: Gynecologist
 * #산과 병동: #ward
 * #부인과의사 #gynecologist
-* ##성형
+
+
+#성형
 * 미국 ##엉덩이 수술
 * ㆍ제대로된 수술: brazilian butt lift: 허리나 배에서 뺀 지방
 * ㆍ7500달러에서 10000달러 사이
@@ -477,29 +441,29 @@
 * ㆍ#fix a flat(타이어 수리 제품)과 시멘트를 쓰는 사람도 있음 (납작한 엉덩이를 flat)
 * ㆍ피부나 가죽처럼 딱딱해지거나 과시하거나 녹을 수 있음
 * 신경외과	neurosurgery [‘nʊroʊs3:rdƷəri]
-* ##신경 #쇠약	#nervous breakdown(#breakdown)
-* 흉부외과	cardiothoracic surgery, thoracic surgery 
-* 1kɑ:dɪəʊθɔ:2ræsɪk, θɔ:rǽsik
-* 피부과	dermatology [1d3:rmə2tɑ:lədƷi]
-* 소아과	pediatrics [pì:diǽtriks]
-* #pediatrician
-* #소아질병	#childhood diseases
-* 비뇨기과	urology [jʊ‘rɑ:lədƷi]
+  * ##신경 #쇠약	#nervous breakdown(#breakdown)
+  * 흉부외과	cardiothoracic surgery, thoracic surgery 
+  * 1kɑ:dɪəʊθɔ:2ræsɪk, θɔ:rǽsik
+  * 피부과	dermatology [1d3:rmə2tɑ:lədƷi]
+  * 소아과	pediatrics [pì:diǽtriks]
+  * #pediatrician
+  * #소아질병	#childhood diseases
+  * 비뇨기과	urology [jʊ‘rɑ:lədƷi]
 * #주사 get a shot
-* #gave her shots for rabies
-* I have pain around the injection area
-* doctors are recommending flu shots
-* 주사 맞은 부위가 아파요	I have pain around the injection area
-* 숨을 쉬지 않아요. 누가 심폐 소생술을 하실 줄 아는 분이 없으세요? 	He's not breathing! Can anyone do CPR?
-* 응급 상자를 가져오세요. 	Please bring a first aid kit.
-* 응급실, 소아과, 가정의학과, 혹은 내과에서 근무할 수 있어요; 
-  They can work at urgent care, pediatrics, family practices, or internal medicne
-* If you are trained in first aid 
-* 머리를 받쳐 주세요. 	Please support his head. 
-* 지혈해야 해요. 	We have to stop the bleeding.
-* 의식을 잃고 쓰러졌어요. 	He lost consciousness and fainted.
-* 칼에 찔렸어요. 	He was stabbed with a knife.
-* #멍이 많다; I have a few bruises = to be black and blue = to be very bruised
+  * #gave her shots for rabies
+  * I have pain around the injection area
+  * doctors are recommending flu shots
+  * 주사 맞은 부위가 아파요	I have pain around the injection area
+  * 숨을 쉬지 않아요. 누가 심폐 소생술을 하실 줄 아는 분이 없으세요? 	He's not breathing! Can anyone do CPR?
+  * 응급 상자를 가져오세요. 	Please bring a first aid kit.
+  * 응급실, 소아과, 가정의학과, 혹은 내과에서 근무할 수 있어요; 
+    They can work at urgent care, pediatrics, family practices, or internal medicne
+  * If you are trained in first aid 
+  * 머리를 받쳐 주세요. 	Please support his head. 
+  * 지혈해야 해요. 	We have to stop the bleeding.
+  * 의식을 잃고 쓰러졌어요. 	He lost consciousness and fainted.
+  * 칼에 찔렸어요. 	He was stabbed with a knife.
+  * #멍이 많다; I have a few bruises = to be black and blue = to be very bruised
 * 언제부터 아프셨어요? 	When did it start hurting? 
   * 어디가 아프세요? 	Where does it hurt? 
   * 전보다 더 아프다; to take a turn for the worse(better: 잘 쓰지 않는다.) 
@@ -508,57 +472,57 @@
 * 1. Do I have to be hospitalized? ‘hɑ:spɪtəlaɪz
 * 2. be in the hospital
 * 입원시키다	입원하다: get/be admitted
-* 제임스 선생님께 월요일 열 시로 예약하고 싶어요. 	I'd like to make an appointment with Dr. James at 10 o'clock on Monday
-* 잠깐만 기다려 주세요. 죄송해요. 그날은 예약이 꽉 찼어요. 	Wait a minute. I'm sorry. The doctor is booked up that day.
-* 종합 검진을 받고 싶어요. 	I want to get a general check-up. 
-* 보험증을 주세요. 	Would you give me your health insurance card? 
-* 성함을 부를 때까지 저기서 기다려 주세요. 	Please wait here until we call your name.
-* 지금 선생님께서는 환자를 보고 계세요. 	The doctor is examining a patient now. 
-* 저는 정기 검진 환자예요. 	I'm here for a regular physical check-up. 
-* 보험을 위해 진단서와 영수증을 받고 싶어요. 	I'd like to get a doctor's certificate and receipt for insurance.
-* 뭘 드셨어요? 	What did you have for lunch
-* 배만 아프세요? 	Is it only your stomach that aches? 
-* 아니요, #설사도 해요. 	No, I have diarrhea, too dàiərí:ə
-* 설사를 해서 화장실에 계속해서 가야 했습니다.	I had to go to the bathroom #over and over again because I had the runs.
-* 이런 증상이 얼마나 되셨어요? 	How long have you had these symptoms? 
-* 전에도 자주 앓았어요. 	I was frequently ill before. 
-* B형 간염에 걸린 적이 있어요. 	I had hepatitis B. 1hepə2taɪtɪs
-* 누를 때마다 바늘로 찌르는 듯이 아파요. 	It feels like stabbing needles each time you press
-* 여기에 누우세요. 	Please lie on your back.
-* 옷을 걷어 올려 주세요. 	Please roll up your clothes.
-* 욱신욱신 쑤셔요. 	I have a throbbing pain. θrɑ́biŋ
-* 쥐어짜는 듯이 아파요. 	I have a gnawing pain. nɔ
-* #처방전을 써 드리겠습니다. 	I'll write you a prescription
-* 병원에 가서 약을 처방 받았습니다.	I went to see the doctors and got some medicine prescribed.
-* 체온 좀 잴게요. 	Let me take your temperature. 
-* 혈압을 재겠습니다. 	Let me take your blood pressure. = #BP
-  * blood pressure gauge 혈압계
-* 맥박	pulse
-* #생체신호	#vital; 맥박, 호흡
-* 생명에 필요한 맥박, 호흡, 체온, 혈압	vitals
-* 정기적으로 복용하고 있는 약이 있어요? 	Is there any medication you've been taking regularly? 
-* 차도가 없으면 다시 오세요. 	Please come back if you show no improvement.
-* 혈압약을 먹고 있어요. 	I'm taking antihypertensive drugs. 
-* æ̀ntihàipərténsiv
+  * 제임스 선생님께 월요일 열 시로 예약하고 싶어요. 	I'd like to make an appointment with Dr. James at 10 o'clock on Monday
+  * 잠깐만 기다려 주세요. 죄송해요. 그날은 예약이 꽉 찼어요. 	Wait a minute. I'm sorry. The doctor is booked up that day.
+  * 종합 검진을 받고 싶어요. 	I want to get a general check-up. 
+  * 보험증을 주세요. 	Would you give me your health insurance card? 
+  * 성함을 부를 때까지 저기서 기다려 주세요. 	Please wait here until we call your name.
+  * 지금 선생님께서는 환자를 보고 계세요. 	The doctor is examining a patient now. 
+  * 저는 정기 검진 환자예요. 	I'm here for a regular physical check-up. 
+  * 보험을 위해 진단서와 영수증을 받고 싶어요. 	I'd like to get a doctor's certificate and receipt for insurance.
+  * 뭘 드셨어요? 	What did you have for lunch
+  * 배만 아프세요? 	Is it only your stomach that aches? 
+  * 아니요, #설사도 해요. 	No, I have diarrhea, too dàiərí:ə
+  * 설사를 해서 화장실에 계속해서 가야 했습니다.	I had to go to the bathroom #over and over again because I had the runs.
+  * 이런 증상이 얼마나 되셨어요? 	How long have you had these symptoms? 
+  * 전에도 자주 앓았어요. 	I was frequently ill before. 
+  * B형 간염에 걸린 적이 있어요. 	I had hepatitis B. 1hepə2taɪtɪs
+  * 누를 때마다 바늘로 찌르는 듯이 아파요. 	It feels like stabbing needles each time you press
+  * 여기에 누우세요. 	Please lie on your back.
+  * 옷을 걷어 올려 주세요. 	Please roll up your clothes.
+  * 욱신욱신 쑤셔요. 	I have a throbbing pain. θrɑ́biŋ
+  * 쥐어짜는 듯이 아파요. 	I have a gnawing pain. nɔ
+  * #처방전을 써 드리겠습니다. 	I'll write you a prescription
+  * 병원에 가서 약을 처방 받았습니다.	I went to see the doctors and got some medicine prescribed.
+  * 체온 좀 잴게요. 	Let me take your temperature. 
+  * 혈압을 재겠습니다. 	Let me take your blood pressure. = #BP
+    * blood pressure gauge 혈압계
+  * 맥박	pulse
+  * #생체신호	#vital; 맥박, 호흡
+  * 생명에 필요한 맥박, 호흡, 체온, 혈압	vitals
+  * 정기적으로 복용하고 있는 약이 있어요? 	Is there any medication you've been taking regularly? 
+  * 차도가 없으면 다시 오세요. 	Please come back if you show no improvement.
+  * 혈압약을 먹고 있어요. 	I'm taking antihypertensive drugs. 
+  * æ̀ntihàipərténsiv
 * 여기에 소변을 담아 오세요. 	Fill this cup with urine. 
-* 혈액 검사실이 어디예요? 	Where is the blood test lab? 
-* #혈액형 blood type
-* #별자리; He likes observing #constellations.
-* 미국은 자기 혈액형을 평생 모르는 경우가 많음 차라리 #별자리를 더 믿음
-* #헌혈 #donate blood = #give blood; take part in the blood donation
-* i'm type A/B
+  * 혈액 검사실이 어디예요? 	Where is the blood test lab? 
+  * #혈액형 blood type
+  * #별자리; He likes observing #constellations.
+  * 미국은 자기 혈액형을 평생 모르는 경우가 많음 차라리 #별자리를 더 믿음
+  * #헌혈 #donate blood = #give blood; take part in the blood donation
+  * i'm type A/B
 * 귀에 #염증이 생긴 것 같아요. 	I think I have an ear infection. 
-* #inflammation; has an inflammation in her mouth
+  * #inflammation; has an inflammation in her mouth
 * 배탈이 났어요. 	I have an upset stomach. 
-* 몸살이 났어요. 	I ache all over.
-* 목이 부었어요. 	My throat is swollen. 
-* 상한 음식을 먹은 것 같아요. 	I think I ate something that was off. 
-* 공복에는 위가 따끔거려요. 	I get a stinging sensation in my stomach when I'm hungry.
-* 식사한 뒤에 트림을 자주 해요. 	I belch a lot after meals. [beltʃ]
-* 소화는 잘 되세요? 	How's your digestion?
-* 속이 메스꺼워요. 	I feel nauseous. ‘nɔ:ʃəs
-* 식욕이 없어요. 	I don't have much of an appetite. ‘ӕpɪtaɪt
-* 어지러워서 쓰러질 것 같아요. 	I'm dizzy and feel like fainting. 
+  * 몸살이 났어요. 	I ache all over.
+  * 목이 부었어요. 	My throat is swollen. 
+  * 상한 음식을 먹은 것 같아요. 	I think I ate something that was off. 
+  * 공복에는 위가 따끔거려요. 	I get a stinging sensation in my stomach when I'm hungry.
+  * 식사한 뒤에 트림을 자주 해요. 	I belch a lot after meals. [beltʃ]
+  * 소화는 잘 되세요? 	How's your digestion?
+  * 속이 메스꺼워요. 	I feel nauseous. ‘nɔ:ʃəs
+  * 식욕이 없어요. 	I don't have much of an appetite. ‘ӕpɪtaɪt
+  * 어지러워서 쓰러질 것 같아요. 	I'm dizzy and feel like fainting. 
 * 변비가 심해요. 	I have severe constipation
   * 변비가 생겼어요; i'm backed up = i've got a constipaition = i'm constipated
   * 요새 설사가 나서요; i'm irregular = i;ve got diarrhea
@@ -568,95 +532,95 @@
   * 코 안이 다 헐었어요. 	The insides of my nostrils are all sore. ‘nɑ:strəl
   * 코가 막혔어요; i've got sinus trouuble/ache/pain/problem  [ˈsaɪnəs]
 * 귀에 물이 들어갔어요. 	I got water in my ear.
-* 귀에서 고름이 나요. 	There's pus inside my ears. 
+  * 귀에서 고름이 나요. 	There's pus inside my ears. 
 * 목이 쉬었어요. 	I'm hoarse. 
-* 목에 딱딱한 혹이 만져져요. 	I can feel a solid lump in my throat. 
-* 가래가 나와요. 	I have phlegm. flem
+  * 목에 딱딱한 혹이 만져져요. 	I can feel a solid lump in my throat. 
+  * 가래가 나와요. 	I have phlegm. flem
 * 손등에 발진이 생겼어요. 	I have a rash on the back of my hand. 
-* 벌에 쏘였어요. 	I got stung by a bee. 
 * 흉터가 생길까요? 	Will it leave a scar? 
 * 소화; 음식을 넘길 수가 없어요; I can't keep anything down
-* 소변을 자주 봐요. 	I have to urinate a lot. ‘jʊrəneɪt
+  * 소변을 자주 봐요. 	I have to urinate a lot. ‘jʊrəneɪt
 * 얼굴에 #여드름이 났어요. 	My face is breaking out in pimples/#acne. 
-* #zit I have bad acne
-* 여드름 짤래	i've got to #pop/#squeeze this pimple
-* 여드름과 #습진에 #시달려왔따	I've dealt with acne and #eczema issues
-* 얼굴에 뭐가 나려고 해	I'm breaking out
-* 입술이 찢어졌어요. 	My lips are chapped. 
+  * #zit I have bad acne
+  * 여드름 짤래	i've got to #pop/#squeeze this pimple
+  * 여드름과 #습진에 #시달려왔따	I've dealt with acne and #eczema issues
+  * 얼굴에 뭐가 나려고 해	I'm breaking out
+  * 입술이 찢어졌어요. 	My lips are chapped. 
 * 상처가 곪았어요. 	The wound has become infected
-* 복숭아 알레르기가 있어요. 	I'm allergic to peaches. 
-* 옴이 올랐어요. 	I have poison ivy. ‘aɪvi
-* 소변 후에 시원하지 않아요. 	I feel like I still have to go after urinating.
-* 언제부터 그랬어요? 	How long has this been going on?
-* 소변 보기가 어려워요. 	I have trouble urinating. 
-* 무거운 물건을 들었어요? 	Did you do any heavy lifting? 
-* 어제 이삿짐을 날랐어요. 	Yes, I carried stuff for moving yesterday. 
-* 유리 조각에 손을 베었어요. 	I cut my hand on broken glass. 
-* 끓는 물에 데었어요. 	I got burned with boiling water
-* 동상에 걸렸어요. 	I've got frostbite. 
-* 아침이면 손발이 저려요. 	My hands and feet feel numb in the morning. 
-* 계단에서 미끄러졌어요. 	I slipped on the stairs.
-* 칼에 찔렸어요. 	I cut myself on a knife. 
-* 이쪽 어깨가 뻐근해요. 	This shoulder is stiff. 
-* 물집이 잡혔어요. 	I have a blister. 
+  * 복숭아 알레르기가 있어요. 	I'm allergic to peaches. 
+  * 옴이 올랐어요. 	I have poison ivy. ‘aɪvi
+  * 소변 후에 시원하지 않아요. 	I feel like I still have to go after urinating.
+  * 언제부터 그랬어요? 	How long has this been going on?
+  * 소변 보기가 어려워요. 	I have trouble urinating. 
+  * 무거운 물건을 들었어요? 	Did you do any heavy lifting? 
+  * 어제 이삿짐을 날랐어요. 	Yes, I carried stuff for moving yesterday. 
+  * 유리 조각에 손을 베었어요. 	I cut my hand on broken glass. 
+  * 끓는 물에 데었어요. 	I got burned with boiling water
+  * 동상에 걸렸어요. 	I've got frostbite. 
+  * 아침이면 손발이 저려요. 	My hands and feet feel numb in the morning. 
+  * 계단에서 미끄러졌어요. 	I slipped on the stairs.
+  * 칼에 찔렸어요. 	I cut myself on a knife. 
+  * 이쪽 어깨가 뻐근해요. 	This shoulder is stiff. 
+  * 물집이 잡혔어요. 	I have a blister. 
 * #관절이 쑤셔요. My joints hurt. 
-* #관절염; #arthritis 미국식 [ɑ:r|θraɪtɪs]
-* knee joint, 관절을 삐다: have a joins #dislocated; hurt one's joints
-* #마디마디가 쑤신다; i'm aching in the #joints
-* #삐다; #twisted = #strained
-* 왼쪽 무릎에 신경통이 있어요. 	I have neuralgia in my left knee. nʊ‘rӕldƷə
+  * #관절염; #arthritis 미국식 [ɑ:r|θraɪtɪs]
+  * knee joint, 관절을 삐다: have a joins #dislocated; hurt one's joints
+  * #마디마디가 쑤신다; i'm aching in the #joints
+  * #삐다; #twisted = #strained
+  * 왼쪽 무릎에 신경통이 있어요. 	I have neuralgia in my left knee. nʊ‘rӕldƷə
 * #생리가 불규칙해요. 	My periods are irregular. ‘pɪriəd
-* #생리대	#tampon
-* #월경	#menstruation 미국·영국 [|menstru|eɪʃn]
-* #그날	It’s her time of the month
-* i'm on my period; Are you on your #period?
-* 생리통	#cramps
-* 아이가 경기해요. 	My child has been having convulsions. kən‘vʌlʃn
-* 아직 예방 접종을 하지 않았어요. 	My child hasn't been vaccinated yet. 
-* 생리를 안 한 지가 오래되었어요. 	I haven't had my period for a long time. 
-* 원래 생리 불순이었어요? 	Do you usually have an irregular cycle? 
-* 생리통	She has severe cramps during her period.
-* 요새 분비물이 많아졌어요. 	I have more discharge these days. 
-* #피임약을 복용하고 싶어요. I'd like to take birth control pills. 
-* #산아 제한; Indians aren't too big on birth control
-* #contraceptive pill
-* 피임 #contraception
-* 사후 피임약: postcoital contraception
-* #콘돔 #condom -> #protection 슬랭: #glove, #rubber
-* 입덧이 심해요. 	I have severe morning sickness. 
-* 출산 예정일이 언제예요? 	When is your baby due? 
-* 불임 클리닉에 등록하고 싶어요. 	I'd like to sign up at a fertility clinic. fər‘tɪləti 
-* 인공수정을 하고 싶어요. 	I'd like to have artificial insemination. insèmənéiʃən
-* 아니요. 그런데 창문을 열어 놓고 잤어요. 	No, but he slept with the window open.
-* 아이의 귀에 염증이 생겼어요. 	My child has an earinfection.
-* 아이에게 땀띠가 났어요. 	My child has heat rash. 
-* 아이에게 젖을 먹이고 있어요. 	I'm breastfeeding my child. 
+  * #생리대	#tampon
+  * #월경	#menstruation 미국·영국 [|menstru|eɪʃn]
+  * #그날	It’s her time of the month
+  * i'm on my period; Are you on your #period?
+  * 생리통	#cramps
+  * 아이가 경기해요. 	My child has been having convulsions. kən‘vʌlʃn
+  * 아직 예방 접종을 하지 않았어요. 	My child hasn't been vaccinated yet. 
+  * 생리를 안 한 지가 오래되었어요. 	I haven't had my period for a long time. 
+  * 원래 생리 불순이었어요? 	Do you usually have an irregular cycle? 
+  * 생리통	She has severe cramps during her period.
+  * 요새 분비물이 많아졌어요. 	I have more discharge these days. 
+  * #피임약을 복용하고 싶어요. I'd like to take birth control pills. 
+  * #산아 제한; Indians aren't too big on birth control
+  * #contraceptive pill
+  * 피임 #contraception
+  * 사후 피임약: postcoital contraception
+  * #콘돔 #condom -> #protection 슬랭: #glove, #rubber
+  * 입덧이 심해요. 	I have severe morning sickness. 
+  * 출산 예정일이 언제예요? 	When is your baby due? 
+  * 불임 클리닉에 등록하고 싶어요. 	I'd like to sign up at a fertility clinic. fər‘tɪləti 
+  * 인공수정을 하고 싶어요. 	I'd like to have artificial insemination. insèmənéiʃən
+  * 아니요. 그런데 창문을 열어 놓고 잤어요. 	No, but he slept with the window open.
+  * 아이의 귀에 염증이 생겼어요. 	My child has an earinfection.
+  * 아이에게 땀띠가 났어요. 	My child has heat rash. 
+  * 아이에게 젖을 먹이고 있어요. 	I'm breastfeeding my child. 
 * [동사] (전문 용어) 충혈시키다, 울혈이 생기게 하다 engorge 미국식 [ɪnˈɡɔːrdʒ]  영국식 [ɪnˈɡɔːdʒ]   단어장추가
-* #눈곱이 끼고 눈물이 나요.	My eyes are gummed up and watery.
+  * #눈곱이 끼고 눈물이 나요.	My eyes are gummed up and watery.
   * 눈이 따가웠어요; my eyes were very irritated
-* #eye booger
-* 손으로 자주 문질렀어요? 	Did you rub your eyes with your hands frequently? 
-* 눈에 다래끼가 났어요. 	I have a sty in my eye. 
-* 봅시다. 결막염이에요. 	Let me see. You have conjunctivitis kən1dƷʌŋktɪ2vaɪtɪs
-* 이를 뽑으러 왔어요. 	I'm here to get my tooth pulled out. 
-* 충치가 있어요. 	I have a cavity
-* 입 안을 헹구고 싶어요. 	I'd like to rinse my mouth. 
-* 눈이 침침해요. 	My vision is blurred. 
-* 눈이 충혈됐어요. 	I have bloodshot eyes. 	 
-* 두 개로 보여요	I have double vision. 
-* 색맹이에요. 	I'm color-blind.
-* 라식 수술을 한 지 얼마 안 됐어요. 	I just had LASIK surgery. 
+  * #eye booger
+  * 손으로 자주 문질렀어요? 	Did you rub your eyes with your hands frequently? 
+  * 눈에 다래끼가 났어요. 	I have a sty in my eye. 
+  * 봅시다. 결막염이에요. 	Let me see. You have conjunctivitis kən1dƷʌŋktɪ2vaɪtɪs
+  * 이를 뽑으러 왔어요. 	I'm here to get my tooth pulled out. 
+  * 충치가 있어요. 	I have a cavity
+  * 입 안을 헹구고 싶어요. 	I'd like to rinse my mouth. 
+  * 눈이 침침해요. 	My vision is blurred. 
+  * 눈이 충혈됐어요. 	I have bloodshot eyes. 	 
+  * 두 개로 보여요	I have double vision. 
+  * 색맹이에요. 	I'm color-blind.
+  * 라식 수술을 한 지 얼마 안 됐어요. 	I just had LASIK surgery. 
 * 조금만 책을 읽어도 눈이 피곤해요. 	My eyes get tired, even when I read for a short period of time. 
 * 지금 치료해 주세요. 	Please treat it now. 
 * 네, 우선 #마취부터 할게요. 	Okay. Let me put you under anesthesia first.
-* æ̀nəsθí:Ʒə
-* #마취제	#anesthetic
-* #opioid 미국·영국 [óupiɔ́id] 
+  * æ̀nəsθí:Ʒə * #마취제	#anesthetic
+  *  ((아편 비슷한 작용을 하는 합성 진통·마취제)) opioid 미국·영국 [óupiɔ́id] 
+  * 이 약의 지나친 사용은 마비를 야기할지도 모릅니다. ex) The excessive use of this drug might cause paralysis.  [pəˈræləsɪs] 
+  * 병원에 가게 되면 가끔 들으실 수 있는 단어입니다. 참고로 특정 부위만 마취하며 [이 부분을 마취할 거에요] 할 땐 [I'll freeze this area.] 라고 말할 수도 있어요.
 * 이가 흔들거려요. 	I have a loose tooth.
-* 사랑니가 났어요. 	My wisdom teeth are appearing
-* 찬 것을 먹으면 이가 시려요.	My teeth ache when I eat something cold. 
-* 입 냄새가 심해요. 	I have bad breath. 
-* 잇몸에서 피가 나요. 	My gums are bleeding. 
+  * 사랑니가 났어요. 	My wisdom teeth are appearing
+  * 찬 것을 먹으면 이가 시려요.	My teeth ache when I eat something cold. 
+  * 입 냄새가 심해요. 	I have bad breath. 
+  * 잇몸에서 피가 나요. 	My gums are bleeding. 
 * 의치를 해 넣고 싶어요. 	I want to have a false tooth put in.
 * 마취 주사 놓겠습니다. 	I'm giving you a shot of Novocain. nóuvəkèin
 * 언제 #퇴원하세요? 	When will you be discharged? 
@@ -670,16 +634,16 @@
 * 급성 충수염이래요. 	He said I had acute appendicitis. ə'pendə|saɪtɪs
 * 하루에 몇 알씩 먹어야 해요? 	How many pills do I have to take a day?
 * 멀미약이 있어요? 	Do you have anything for carsickness? 
-* #차 멀미하다. #멀미 I get carsick, do you get seasick? 
-*   *I’ve never been carsick / get airsick
-* ○ travel sickness (멀미) 
-* ○ motion sickness (멀미)
-* ○ 차멀미 carsickness
-* ○ 배멀미 seasickness
-* ○ 비행기멀미 airsickness
-* ○ I'm afraid I'll suffer from motion sickness (멀미할거 같아 걱정이네요)
-* ○ I don't get motion sickness (나는 멀미하지 않아요)
-* ○ Excuse me, but I feel airsick (실려지만 비행기멀미할거 같아요)
+  * #차 멀미하다. #멀미 I get carsick, do you get seasick? 
+  *   *I’ve never been carsick / get airsick
+  * ○ travel sickness (멀미) 
+  * ○ motion sickness (멀미)
+  * ○ 차멀미 carsickness
+  * ○ 배멀미 seasickness
+  * ○ 비행기멀미 airsickness
+  * ○ I'm afraid I'll suffer from motion sickness (멀미할거 같아 걱정이네요)
+  * ○ I don't get motion sickness (나는 멀미하지 않아요)
+  * ○ Excuse me, but I feel airsick (실려지만 비행기멀미할거 같아요)
 * #Dramamine(쥬라마민); 멀미약 상표	#antinauseant
 * #진통제 좀 주세요. 	I would like some painkiller, please
 * #ibuprofen
@@ -713,7 +677,7 @@
 * 얼굴에 힘주면 안 되는데! 힘 빼야 해 	Don't tense your face either! Stay relaxed.
 * 지금 너무 초현질적인 경험이여서 그래요 		It's just so surreal! I've never had anything like it.
 * 심장병은 집안 내력이다		dɪ‘zi:z ’fӕməli Heart disease runs in the family.
-* 심장 정지의 위험성	he's crashing: 의식을 잃고 있어요
+  * 심장 정지의 위험성	he's crashing: 의식을 잃고 있어요
 
 
 # 약
@@ -728,3 +692,44 @@
 * 우리는 금단현상을 겪게 되었습니다; we were going through withdrawal
   * 단번에 그만두다; quit cold turkey
 * 진통제: painkiller; 해열제: fever relif; 항생제: antibiotics; 목 따가움; sore throat
+* #약빨이 떨어지기 시작했다.     
+  * 약 복용 중이야    #약 | #복용  The medicine is starting to wear off
+  * 뭔가 먹고싶거나 복용중 I’m on #medication. 
+  * *이틀에 한번씩 먹어 #apply twice a day
+  * #내성이 생겨서  i've built up resistance
+  * #약을 먹다  take medicine
+  * i've got ~, I keep ~  
+* 약국에서 살수 있는 #진통제; #pain medicine
+* #수면제; #sleeping pill
+* #처방전 없이; without a prescription
+  * 처방전을 써주다; write someone a prescription; they wrote me a prescription
+  * 처방전 없이 살수 있는 약; over-the-ounter drug
+* #졸리다; will I get #drowsy
+* #부작용; #side effects
+* 약을 좀 약하게; a lower dosage
+* #긇히다; I got a scratch #까지다; I got scratches / #scrape
+* 안쪽으로 #꺾이다; twisted inward
+* #발등; on the top of my foot
+* #medicine #drug; 공통점: 약 차이점: medicine: 먹는약 
+* #제약회사; drug company, #약국: #drug store
+* #medicate; 약으로 치료하다 #medication; 투약
+* #medication; 바르는 약, 주사, 먹는약 모두 포함
+* #알약 he took #pills
+* #처방약; 처방 없이 구할 수 없는 약 #prescription drug
+* phar·ma·ceu·tic (pharmaceutical)미국식 [fɑ̀:rməsú:tik(əl)] 
+* vitamin 비타민, OTC drug (= over the counter medication) 처방전 없이 살 수 있는 약, bandage 붕대, 
+* #진단서 없이 약국에서 바로 구입 O 비상장 기업의 #주식 #over the counter
+* prescription 처방전, pharmacist 약사 #항생제 #antibiotics = #antibio
+* #항체; #antibody
+* #제산제; #antacid; 위속의 산을 중화하는ㅇ ᅟᅣᆨ
+* #연고 처에 연고를 바르다        apply/put on #ointment[salve] to a wound
+* #바르다 1. put on 2. apply
+* #투여량 #dose; max dose; 최대 투여량 
+* #과다복용 증상 #overdose signs(#sign);
+* #turpentine; #테레빈유 #구충제, #거담제 등으로 이용
+*   # anthelmintic [æ̀nthelmíntik,æ̀nθel-]
+* #prenatal; #임산부가 먹는 약
+* #독약; #evil potion
+* 약먹었니(헛소리); are you #on drugs? / are you high / what are you smoking / what are you on?
+* did you take your medicine today?
+* #약사; #chemist #약국 #chemists 병원 조제실; #pharmacy

@@ -4,7 +4,7 @@
 	* 곧 봐; 곧 만난다는 의미가, 오늘 저녁일 수도 있고, 그냥 인사치례로 곧 보자고 하는  의미 일 수도 있습니다. 즉 'Soon' 의 곧 이런 의미로 쓰일 수 있습니다. I'll see you soon.
 	* 그런데 'Shortly'와 'Soon' 끼리도 의미의 차이가 있는데요, 'Shortly'는 '시간적으로 아주 짧은 시간'을 의미합니다. '몇초, 몇분, 길어야 몇 십분 정도'의 '곧' 이라는 의미 입니다. Soon'은 'Shortly' 보다는 긴 시간을 의미하며, 또한 그 상황이나 행위가 이루어지는 것이 막연하게 곧 이루어질것이다 라는 것을 의미합니다.
 		* : 입찰이 곧 시작될 것입니다. The bidding will commence shortly
-
+	* = 지금은 그 부분을 다루지 않도록 합시다. Let's leave that out for the moment. 2) for the moment 나 for now 는 [현재로썬, 일단은, 일단 지금은]을 의미하고 있어요.
 * 그때부터; we've been friends #since then = #ever since = #from then on
 	* 지금까지 알져지지 않은 종류의 나방 a hitherto unknown species of moth  ˌhɪðərˈtuː] 
 	* 처음부터; from day one
@@ -184,13 +184,14 @@
 * 시간이 안가 		Time is really dragging! = time is #crawling = hot time drags
 * 1시간; #in an hour
 * at the weekend, at night, at christmas, (at the moment, at present): 현재, at the same time, at the end of January, at first at
-* 월요병: Monday blues 수요일: hump day(가장 힘든 날, 혹은 일주일 중 중간 이 두 의미를 )
-* 오늘 아침에 커피마셨어 						 I had coffee this morning
-* #다음날; #the following day #tomorrow #the next day
-* #모래; #in two days #the day after tommorw
-* #보름마다; #every two weeks = #every other week = #twice a month
-* #일주일 내내; #all week; 이번주 일주일 내내 all week this week = all this week
-* 이번주에; this week -> #last week
+	* 월요병: Monday blues 수요일: hump day(가장 힘든 날, 혹은 일주일 중 중간 이 두 의미를 )
+	* 매주 반복되는 week after week
+	* 오늘 아침에 커피마셨어 						 I had coffee this morning
+	* #다음날; #the following day #tomorrow #the next day
+	* #모래; #in two days #the day after tommorw
+	* #보름마다; #every two weeks = #every other week = #twice a month
+	* #일주일 내내; #all week; 이번주 일주일 내내 all week this week = all this week
+	* 이번주에; this week -> #last week
 * #평일에; #on weekdays
 * 평상시 #주말에; #On weekend
 * 주의 초반; #earlier in the week #mondday #tuesday

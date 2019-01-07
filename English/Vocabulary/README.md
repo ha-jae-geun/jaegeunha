@@ -216,6 +216,7 @@
 ## breath
 * 숨이 너무 가빠서 넘어갈 듯한 것을 out of breath 라고 하는데요. 이렇게 밖으로 나간 듯한 숨을 다시 제대로 쉬게끔 잡아올 때 [숨을 고르다] 라는 의미를 갖게 되는 표현입니다.
 * = 한숨 돌리려고 걷는 것에 잘못된 일은 전혀 없어. There's nothing wrong with walking to catch your breath.
+* 하늘에서 그 섬을 처음 보았을 때 난 숨이 멎는 줄 알았다. My first view of the island from the air took my breath away. 
 
 
 ## bring
@@ -262,6 +263,14 @@
 * : 뭔가를 잡으세요. 날라가지 마세요. Hold on to something. Don't blow away
 * : 할머니는 할머니의 결혼 50주년 파티에서 모든 사람들을 뿅가게 할 거에요. You're going to blow everybody away at your fiftieth anniversary party.
 
+## butt
+* butt 일상 회화에선 비격식 표현으로 '엉덩이' 를 의미하지만, 사실 이 표현에서의 butt 는 target 을 의미합니다. 양궁이나 사격의 과녁을 butt 이라고 하거든요. 그래서 butt=target (목표물) 이니까, [조롱의 대상] 의 의미를 가져요.  [비판의 대상]이라고 할 때는 the butt of criticism 이라고도 표현합니다.
+		* 내가 사무실에서 방귀를 뀐 이후로, 난 모든 농담의 대상이 되었다. ex) Ever since I farted in the office, I've been the butt of every office joke.
+
+## catch
+* 전체적으로는 좋은데 문제시 되는 것, 겉으로 드러나지 않았던 숨은 문제를 명사로 a catch 라고 합니다. 
+	* (다 좋은데) 문제는, 아무도 제시카랑 3개월 이상 일한 사람이 없어. 아주 못됐거든. But here’s the catch. No one has ever worked more than 3 months with Jessica. She’s evil. 
+
 ## charm
 * ‘매력’으로 잘 알고 계실텐데요, 영상에 나오는 것처럼 악세서리 장식물이나 상징물, 부적 등도 charm 이라고 합니다. 
 	* 이건 내 행운의 부적이야. 내 할머니가 주셨어.  This is my lucky charm. My grandma gave it to me.
@@ -291,6 +300,10 @@
 * : 당신이 그 사람 차 앞으로 끼어들었나요? You cut him off?
 * : 의료보험이 끊길 거야. Medicaid gonna cut me off.
 * : 이제 술은 그만 줄거야. I'm cutting you off.
+
+## contribute
+* 2) contribute to 가 붙어서 나오면 무언가가 발생하는데 도움이 되는 것을 의미하니, 문맥에 따라서 [기여하다] 또는 [원인이 되다] 라는 의미를 가집니다.
+	* 심각한 경제 불황이 높은 실업률의 원인이 되었다. ex) The serious economic recession contributed to the high unemployment rate.
 
 ## clock
 *  퇴근하다 You can clock off now. What time do you clock in and clock off? 
@@ -353,6 +366,10 @@
 * 3) 영상을 직역하면 [500불에 최대 한도를 두겠어요] 정도이지만 좀 더 자연스럽게 [최대 500 달러 정도요] 라고 해석이 되었습니다.
 	* = 최선의 해결책은 봉급에 상한선을 두는 것이죠. The best solution now is to place a cap on the wage.
 
+## data
+* 그리고 data 는 복수형이기 때문에 (단수형은 datum) 동사도 그에 맞춰야 하지만 일반적으로는 혼합해서 쓰는 편입니다. - The data is not accurate. (문법적으로 틀리지만 일반적으로 쓰는 말)
+* collect data on you = 당신의 정보를 수집하다
+
 ## dip
 * 이용자 참여  우리는 상황을 알아 보았다  Dipping our toes in the water . 듣기
 
@@ -363,6 +380,10 @@
 ## dig
 * 듣는 사람의 가슴을 후벼파는 (dig) 말을 하는 뉘앙스 입니다. 그 사람에 대해 부정적인 말을 하며 빈정대고, 놀려대고, 귀에 거슬리는 말을 하는 것으로 take/have a dig at 이라고 표현하기도 해요. = dig at
 	* 너희들 걔 좀 그만 놀려먹을래? 거슬려. ex) Can you guys stop digging at him? It bothers me.
+
+## develop
+* develop 은 기본적으론 [개발하다] 라는 뜻이지만, 없던걸 만들어내는 뉘앙스이기 때문에 뒤에 병명이나 어떤 문제가 목적어로 오게 되면 1) 없던 병에 걸리거나 2) 문제가 생길 때도 쓰이는 단어입니다.
+	* 아이들에게 발진이 생기면 병원에 데리고 가세요. ex) Take your kids to hospital if they develop a rash.
 
 ## down
 * down 대신에 along the line 또는 down the road 이라고 쓸 수도 있는 표현으로 정해진 시간은 아닌, 나중에 언젠가를 의미하는 표현입니다. 대략적으로 언제인지를 나타내고 싶을 땐 three years down the line, four years down the line 처럼 써주셔도 좋습니다. = down the line
@@ -389,6 +410,10 @@
 * 그는 그 소문들을 귀담아듣지 않았다. He turned a deaf ear to the rumours. 
 * 그들은 내가 하는 모든 말을 그냥 한쪽 귀로 듣고 한쪽 귀로 흘려버려. Everything I tell them just goes in one ear and out the other. 
 
+## fire
+* 보건부 장관이 사방에서 맹비난을 받게 되었다. The health minister has come/be under fire from all sides. 
+* “제가 몇 가지 질문이 있어요.” “좋아요, 그럼. 물어 보세요.” ‘I’ve got a few questions.’ ‘OK then, fire away.’ 
+
 ## flesh
 * 그는 TV에서보다 실물이 훨씬 잘생겼어. He ' s much better handsome in the flesh than on TV . 예문 발음듣기 출처:능률교육
 
@@ -399,6 +424,7 @@
 * find out(out: 밖에 있는 느낌): 몰랐던 걸 알게 되다
 * '나의 의지와 상관없이', '어쩌다보니' 그런 생각을 하게 되었다는 뜻이에요.  I found myself having thoughts...
 	* 정신차려 보니 다시 그녀 문앞에 내가 있더라고. (진짜 정신을 잃은 건 아니고, 무언가에 홀린듯 거기로 갔다는 뉘앙스) ex) I found myself back at her doorstep.
+* -하는 나를 발견했따; i found myself feeling -
 
 ## flat
 * flat 은 아래의 [참고] 부분에 있는 것처럼 굉장히 많은 뜻을 가지고 있고 많이 쓰이지만, 영상에서처럼 [시간+flat] 을 쓰게 되면 형용사로 '딱 ~ 밖에' 시간이 걸리지 않았을 때, 그만큼 무언가가 놀랍게 빨리 발생했고, 단지 그 시간 밖에 걸리지 않았다는 것을 강조해 주기 위해서 쓰입니다.
@@ -811,6 +837,9 @@
 3. 있나 없나 인지하다/찾아보다
 	* 이따가 무대에 나 나오는 거 봐봐. 뒤쪽에 있을 거야. [ex] Look out for me on stage later. I'll be in the back.
 
+## leave
+* = 지금은 그 부분을 다루지 않도록 합시다. Let's leave that out for the moment. 2) for the moment 나 for now 는 [현재로썬, 일단은, 일단 지금은]을 의미하고 있어요.  3) 토의를 시작하기 전이나 토의 중에 언급되는 것에 대해 일단 포함시키지 않고 나중에 얘기하자- 라는 뉘앙스로 말할 때 정말 많이 쓰이는 표현이니 전체적으로 알아두시는 것이 좋습니다.
+
 ## lead
 * 연필; lead pencil
 * 스피드 광; He's got a real lead foot
@@ -869,6 +898,17 @@
 * : 여기에 있는 내 오랜 친구 조는 플러쉬를 만들기 위해 그의 다섯번째 카드가 스페이드 이기를 바라고 있지.  Cho, my old friend Cho here is hoping for his fifth spade to make up his flush.
 * : 그녀는 너하고 화해를 하려고 하는 거라고. She was trying to  make up with you. 'Kiss and make up' 이라는 표현이 있는데요, 바로 '화해하다' 라는 뜻입니다.
 
+### make through
+* 조금 성가시거나 어려운 상황을 빠져나가는 것을 의미하는 표현이에요. through 뒤에 목적어를 쓰는 경우가 많은데 영상에서는 신호등을 통과하는 명백한 상황이기에 굳이 쓰지 않았습니다. 누군가 죽어가는 상황에서는 make it through the night/the day/this week 등으로 쓸 수가 있는데 [밤을 넘기다, 하루를 잘 넘기다, 일주일을 넘기다] 등의 의미로도 많이 쓰입니다.
+	* 적어도 우리가 첫 라운드 통과는 했으면 좋겠다. ex) I hope we can make it through the first round at least.
+
+## mourn
+* mourn = (누군가의 죽음으로) 애도하다. mourning = 애도, 상복 in mourning = 상복을 입은, 상 중인, 애도중인
+	* 그의 가족은 아버지의 죽음으로 상 중이야. ex) His family is in mourning for their father.  [mɔːrn]  <> [ˈmɔːrnɪŋ]
+
+## name
+* 난 유명해지는 것 이외에는 다른 건 신경 안 써. ex) I don't care about anything else other than making a name for myself. = make a name for oneself
+
 ## notch
 * [급, 레벨]을 notch 라고 하는데요. 직역하면 [급을 차 올리다] 정도이니, 갑작스럽게 무언가의 강도를 높이는 것을 의미해요. 주로 무언가를 더 강렬하거나, 신나거나, 흥미롭게 만들 때 쓰는 표현입니다.
 	* 더 신나게 놀아보자! 위스키 가져와! ex) Let's kick it up a notch! Bring the whiskey!
@@ -895,11 +935,13 @@
 	* = 건강을 잃으면 다른 모든 것들은 중요하지 않게 되지. All else pales into insignificance when you lose your health.
 
 ## put
-* put somebody down은 '~를 깎아내리다', '~를 무시하다'라는 뜻이에요. 참고로 put down은 '~을 내려놓다', '~을 쓰다'라는 뜻이죠. 
+* put somebody down은 '를 깎아내리다', '~를 무시하다'라는 뜻이에요. 참고로 put down은 '~을 내려놓다', '~을 쓰다'라는 뜻이죠. 
 	* : 변기시트 내려놓는거 잊지 마. Don't forget to put it down.
 	* : 난 결코 일하는 여자를 비하하지 않았어요. I never put down the working woman.
 	* : 누군가가 날 위해하려고 그 놈들을 사주했어요. Someone set those boys to put me down. 무력으로 진압
 	* : 어쨌든, 난 네 이름을 적었어. Anyway, I put your name down.
+	* A라는 문제나 상황이 특정한 원인인 B에 의해서 야기됐다고 생각하는 걸 put A down to B라고 합니다. 영상에서는 수동태로 쓰여서 [~로 여겨지다]의 의미로 해석이 되었습니다.
+		* = 이걸 운이라고 볼 순 없어.This cannot be put it down to luck.
 * : 치울게요. Let me just put this away.
 	* : 그들은 나를 내 남은 생애를 감옥에서 보내게 할 거에요. They are gonna put me away for the rest of my life; 감옥으로 보내다
 * : 자기 결혼을 미룰거야? Are you putting this off?
@@ -937,6 +979,7 @@
 	* : 가끔 난 립스틱을 발라. Sometimes I put on lipstick; 바르다
 		* 발라주다  'Put something on 사람' 의 형식ㅣ
 
+
 ## pull
 * : 에릭슨은 틀림없이 머리를 쥐어짜고(고민하고) 있을거야. Ericson must be pulling his hair out; Pull out someone's hair' 는 '의 머리카락을 뽑다'
 * : 이 자식이 파리지앙 은행에서 3백만 유로를 빼내갔습니다. This crap just pulled three million Euro out of a Parisian bank.
@@ -949,7 +992,11 @@
 	* : 감시카메라 영상을 좀 빼내 주겠어? I'm going to need you to pull a video off a surveillance camera.
 * : 하지만, 혼다 사건에서, 피해자는 차의 바퀴가 펑크가 나서 차를 세웠습니다. But in the case of the Honda, the victim pulled over because he had a flat.
 	* Be pulled over' 는 누군가에 의해 차가 세워진 것을 의미합니다. At 11: 24 p.m., Brian was pulled over for speeding,
+* 학교 앞에서 멈춰서; We pull up to the school
 
+### pull apart
+* 잡아당겨서 (pull) 부분을 떼어내는 (apart) 느낌의 단어입니다. 특히나 음식을 떼어줄 때 많이 쓰는 표현이고, 사람들이 싸워 뒤엉켜 있을 때 떼어놓는 것도 의미해요.
+	* 그 둘은 교실에서 싸우는 중이어서 우리가 떼어내야만 했어. ex) The two were fighting in class and we had to pull them apart.
 
 ## pig
 * pit out (on); 게걸스럽게 먹다
@@ -974,6 +1021,10 @@
 * - miss one's point : 의 요점, 주장을 놓치다
 * - get to the point : 본론, 핵심으로 들어가다
 
+## press
+* 1) 영상 초반부에도 자주 나온 표현인데요. press into 는 [배치하다] 라는 뜻이 있습니다. press 가 [누르다] 라는 뜻이 있으니, 상대방이 원하든 원하지 않든 어딘가에 눌러 집어 넣는다는 느낌의 표현이구요. 2) service 와 함께 쓰이게 되면, 어떤 특정한  역할을 하도록 강제로 동원하고, 이용할 때 쓰는 표현입니다.
+		* 난 우리가 그를 지금 동원해선 안된다고 생각해. 그 미션을 성공적으로 마치기엔 충분히 훈련받지 않았어. ex) I don't think we can press him into service now. He's just not trained enough to complete the mission successfully.
+
 ## pressure
 * - be pressured by A : A로부터 압박을 받다
 * - be pressured to A : A를 하라는 압박을 받다
@@ -990,6 +1041,8 @@
 * play football
 * someone always plays on my mind
 * the governemnt play the important role
+* ~을 의도적으로 사용하다. ~을 가지고 놀듯 하다. 본인이 하고 있는 것을 더 잘하거나, 이익을 얻기 위해 사람이나 사물을 의도적으로 사용하는 것을 의미해요.
+	* 제이슨은 자신의 이익을 위해 레베카의 아이디어를 사용했다. ex) Jason played off Rebecca's idea to his own advantage.
 
 ## power
 * have power over their lives: 그들의 삶의 주도권을 가지다. 자신의 삶을 결정할 수 있는 힘을 가지다.                                
@@ -1103,6 +1156,9 @@
 * 영상에 나오는 김정은의 얼굴이 stern 의 완벽한 예라고 보시면 될 것 같아요! 화난 듯 무표정으로 뚱하게, 근엄하게 있는 것을 의미하고요. 누군가의 말이 stern 할 때는 [심한 (말)] 을 의미합니다.
 	* 그의 심각한 모습에도 불구하고, 그는 굉장히 마음이 따뜻한 사람이야. ex) Despite his stern look, he is a very warm-hearted person.
 
+## sucker
+* 1) sucker는 낙지, 오징어 등의 ‘빨판’입니다. 혹은 속어로 ‘잘 속는 사람’을 의미합니다. 마치 단물 빨아먹기(suck) 좋은 사람처럼요.
+
 ## track
 * track 은 말 그대로 사람들이 따라가도록 나있는 [길] 을 의미하는데요. 무언가를 함에 있어서 목표를 향한 길에서 벗어나지 않고 잘 따라갈 때 on track 이라고 합니다. 제대로 된 방향으로 나아갈 때는 on the right track, 잘못된 방향일 때는 on the wrong track 이라고 하고요. 잠시 잘못된 방향으로 갔다가 다시 돌아왔을 때는 get back on track 이라고 할 수 있어요.
 	* 데이빗. 넌 정말 잘 하고 있으니까 너 자신을 의심할 필요가 없어. ex) David. You're definitely on the right track, so no need to doubt yourself.
@@ -1215,10 +1271,15 @@
 * 조금 문제가 되는 사람, 사물, 상황 등을 이해하고, 받아들이고, 처리하려고 노력하는 것을 의미하는 표현이에요.  = come to terms with
 	* 넌 내가 얼마나 아멜리아를 이해하려고 노력해 왔는지 알잖아. ex) You know how much I've tried to come to terms with Amelia.
 * have a morning on one’s (own) terms = 자신의 방식대로 아침을 맞이하다 term/terms는 용어, 기간, 조건 등 뜻이 매우 다양한데 여기서는 ‘방식, 방법’으로 쓰였습니다. 같은 표현으로 in your own way 라고 할 수도 있습니다. 
-		* 네 인생이잖아. 너의 방식대로 해. It’s your life. You have to act on your terms. 
+	* 네 인생이잖아. 너의 방식대로 해. It’s your life. You have to act on your terms. 
+* 그녀는 아직도 아들의 죽음을 받아들이려고 애쓰고 있다. She is still coming to terms with her son’s death.;  (좋지 않은 일을) 받아들이는 법을 배우다[받아들이려고 애쓰다]		
+
 
 ## toe
 * 우리는 상황을 알아 보았다  Dipping our toes in the water
+
+## visit
+* 어렵지 않은 표현이지만 visit 자체를 명사로 많이 쓰는 연습이 되어 있지 않다면 쉽게 떠오르지 않는 표현일 수도 있어요! visit 이 명사로 쓰이는 또다른 유용한 표현으로는 [방문하다] 라는 의미의 pay a visit 도 있답니다.
 
 ## water
 * 그는 새로운 일을 아주 자연스럽게 익힌다. She takes to new works like a duck to water . 
@@ -1254,6 +1315,11 @@
 * 일본군들은 [철수]하는 수밖에 없었다.  [ex] Japanese troops were forced to withdraw.
 * 공화당은 정부에 대한 지지를 [철회]하겠다고 위협했다. [ex] The Republican Party threatened to withdraw its support for the government.
 
-# wall
+## wall
 * wall-to-wall 은 ‘공간, 바닥을 가득 메우는 / 계속되는, 끊이지 않는’을 뜻하는 형용사 입니다. 여기서는 두 번째 뜻으로 쓰였습니다. 여기에 대중 매체의 ‘보도, 취재, 중계’를 뜻하는  coverage가 합쳐서 ‘끝도 없는 보도’가 되었습니다.  참고로, 바닥에 까는 카페트가 한쪽 벽(wall)부터 다른 쪽 벽까지 가득 메운다는 뜻에서 유래했습니다.
 	* 나는 처음으로 달착륙했던 TV생중계를 기억하고 있어. 그런거 보면 나도 참 늙었네. (date: 나이가 들었음을 보여주다) I can remember watching live TV coverage of the first lunar landing, so that dates me.
+
+## weigh
+* 사물의 무게를 물어볼 때 How heavy is it?라고 묻는 것은 괜찮지만 사람에게 How heavy are you?라고 하지 않는 것이 좋습니다. 예의에 어긋나게 들릴 수도 있거든요. 그 대신 How much do you weigh? What is your weight? 라고 해야 합니다. 물론 민감한 주제일 수도 있으니 웬만해선 몸무게를 묻지 않는 것이 낫겠죠?
+* weigh apples, weigh fish 처럼 어떤 것의 무게인지 목적어를 꼭 써야 합니다. 혹은 자신의 체중을 잰다고 할 때는 weigh oneself with/on the scale 이라고 합니다.
+	* ㅍShe weighs herself every morning.

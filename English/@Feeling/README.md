@@ -1641,37 +1641,36 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * 저러다 말거야 								 It will pass
 * 어떤말로도 위로 안되는 상태; #inconsolable
 * #달래다 #위로 #격려 #다독이다
-* #knock the dead; #잘 할 수 있어, #행운을 빌어  keep your finger crossed
+* #knock the dead; #잘 할 수 있어, #행운을 빌어  keep your finger crossed = Break a leg = You're gonna blow them away at the concert
 * #have strength
-* 격려하는 말: #pep talk; thanks for the #encourage / #kind words
-* #spur on somebody; #spur on to; #urge on 
-* attaboy[ǽtǝbɔ̀i], attagirl[ǽtǝgæ̀]
-* 잘하고 있어 You’re coming along well, keep it up, That’s a good effort, That’s a real improvement
-* 수고했어 way to #hustle guys!, Thank you for your #hard work
-* 응원하다: give support
-* i'm keeping my fingers crossed for you = I've got your back = you can do it, go for it
-* i'll be rooting for you, give me five
-* cheer up은 약한 응원 #hang in there
-* 할 수 있다. 								 You can do this! 
-* 호랑이 기운이 쑥쑥 								 Let’s go tigers
-* 좋아 가는거야 								 Alright! You got this
-* 잘한다 										 There you go
-* #비꼴때; there you go; #또 그러네ㄹ#
-* ☆조금만 버텨									 Hang in there
-* 한 번 해보자 										go for it
-* 어느팀 응원하시나요? 						 What team do you pull for?
-* 힘내 							 #buck up, Keep your chin up. chin up!
-* #건투를 빈다; well, more #power to you	
-* #blow away; #blow them away; 잘 할 수 있어
-* #그게 어디야; you did fine
-* #화이팅 #힘내다 #응원하다 #cheer up #pull for #root for #격려
-* 여러분의 수고에 감사드립니다. 						Thank you for your effort.
-* 수고를 덜어주다 I'll #save your trouble
-* 무리하지 마세요 									 Take it easy.
-* 잘하고 있어, 힘내자						 Keep up the good work.
-* #수고
+	* 격려하는 말: #pep talk; thanks for the #encourage / #kind words
+	* #spur on somebody; #spur on to; #urge on 
+	* attaboy[ǽtǝbɔ̀i], attagirl[ǽtǝgæ̀]
+	* 잘하고 있어 You’re coming along well, keep it up, That’s a good effort, That’s a real improvement
+	* 수고했어 way to #hustle guys!, Thank you for your #hard work
+	* 응원하다: give support
+	* i'm keeping my fingers crossed for you = I've got your back = you can do it, go for it
+	* i'll be rooting for you, give me five
+	* cheer up은 약한 응원 #hang in there
+	* 할 수 있다. 								 You can do this! 
+	* 호랑이 기운이 쑥쑥 								 Let’s go tigers
+	* 좋아 가는거야 								 Alright! You got this
+	* 잘한다 										 There you go
+	* #비꼴때; there you go; #또 그러네ㄹ#
+	* ☆조금만 버텨									 Hang in there
+	* 한 번 해보자 										go for it
+	* 어느팀 응원하시나요? 						 What team do you pull for?
+	* 힘내 							 #buck up, Keep your chin up. chin up!
+	* #건투를 빈다; well, more #power to you	
+	* #blow away; #blow them away; 잘 할 수 있어
+	* #그게 어디야; you did fine
+	* #화이팅 #힘내다 #응원하다 #cheer up #pull for #root for #격려
+	* 여러분의 수고에 감사드립니다. 						Thank you for your effort.
+	* 수고를 덜어주다 I'll #save your trouble
+	* 무리하지 마세요 									 Take it easy.
+	* 잘하고 있어, 힘내자						 Keep up the good work.
 * 소리없이 활짝 웃는 것 									 grin
-* 우리말의 킥킥킥, 재밌는 것은 생각하며 작게 소리 내는 것 		 giggle, chuckle
+	* 우리말의 킥킥킥, 재밌는 것은 생각하며 작게 소리 내는 것 		 giggle, chuckle
 * 안심 								 relax, feel[be] relieved (that) 
 * 불안 								 anxiety [ӕŋ|zaɪəti]
 * 원망, 증오 						 resentment[rɪ|zentmənt], hatred [|heɪtrɪd]
@@ -1683,9 +1682,9 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * 너무 감사합니다. 						 I can't thank you enough. 
 * 너한테 따질게 있어. 					 I have a bone to pick with you
 * 그 소식 듣고 놀랐어. I was surprised to...
-* I was surprised to hear the news.
+	* I was surprised to hear the news.
 * 네가 저걸 먹었다니 믿을 수 없어. I can’t believe...
-* I can’t believe you ate that. 
+	* I can’t believe you ate that. 
 
 
 

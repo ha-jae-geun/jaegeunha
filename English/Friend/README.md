@@ -45,6 +45,8 @@
 	* 네 장난 알아 들었으니까 그만해; I get the joke
 	* : 두고두고 오르내리는 농담을 말해요! 
 		* 그 일은 계속해서 농담거리가 되고 있지. The whole thing became a running joke.
+	* butt 일상 회화에선 비격식 표현으로 '엉덩이' 를 의미하지만, 사실 이 표현에서의 butt 는 target 을 의미합니다. 양궁이나 사격의 과녁을 butt 이라고 하거든요. 그래서 butt=target (목표물) 이니까, [조롱의 대상] 의 의미를 가져요.  [비판의 대상]이라고 할 때는 the butt of criticism 이라고도 표현합니다.
+		* 내가 사무실에서 방귀를 뀐 이후로, 난 모든 농담의 대상이 되었다. ex) Ever since I farted in the office, I've been the butt of every office joke.
 * 항사 약간 빈정거리게 된다; we always get into a little bit of a banter
 	* i don't mind him exchanging banter with customers
 * (claw machine/crane claw/crane machine = 인형뽑기기계)

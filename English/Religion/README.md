@@ -44,3 +44,4 @@ In Florence, a perspective was introduced in religiosity.
 
 # 기독교
 * 네 이웃의 아내를 탐하지 말라. (기독교 10계명 중) ex) You shall not covet your neighbor's wife.
+* rebirth 도 '부활' 이라는 의미로 많이 사용되는데요. rebirth 는 다시 새롭게 태어나는 것이기 때문에 무언가 완전히 새롭게 향상된 시기를 의미하는 반면, (환생의 의미도 지닙니다.) resurgence 는 인기가 없어졌거나 잠잠했던 무언가가 다시 나타나고 자라는 것을 의미합니다. 또한 종교적인 문맥에서 부활은 resurgence 를 씁니다. 예를 들어, '예수님의 부활' 에선 새로 태어나신게 아니고, 동굴에 묻혔다가 다시 일어나서 걸어나오신 것이기 때문에 resurgence (또는 the Resurrection) 를 씁니다. resurge [risə́:rdƷ]

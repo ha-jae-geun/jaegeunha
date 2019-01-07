@@ -1,3 +1,49 @@
+# 전치사 in / on / at - 기본 개념 세우기 PART 1 - [ 장소 편 ]
+* 시설물 - at; Let's meet at the bus stop
+  * 은행에서 일해요; i work at a bank; 소속의 개념: i work in/for a bank
+    * for: 고용된 고용인으로서 일하다
+* 이벤트: i'll see you at the party/at the conference
+  * go 이벤트; go to a party/conference/bus stop
+* 공간; 로비에서 만나자; I'll meet you in the lobby/bathroom/corner/bedroom; in my pocket
+* 표면; on the des/wall/ceiling/window/shirt
+* 이동수단; i asw her on the subway; 이동수단 강조: i'm on the elevator; i'm on the bus
+  * 공간, 내부 강조 i'm in the elevator; i'm in the bus
+
+# 전치사 in / on / at - PART 2 [ 배운 내용 응용연습 ]
+* 어제 가족이랑 외식했어요; My family and i went out for dinner yesterday
+* 중국집에서 저녁식사를 했어요; we ate at a chinese restaurant; 시설물
+* 저희가 도착했을 떄는 사람이 많아서 웨이팅이 있었는데; When we got there, ti was pretty crowded and there was a queue; there: 부사 거기에서; arrive 다음에도 at 쓰면 안된다.
+* 저희 동네에는 중국집이 거기밖에 없거든요; BUt that's the only Chinese restaurant in our neighborhood. 동네: 공간
+* 그래서 대기명단에 이름을 올리고 차에서 기다렸어요. So we put our name on the waiting list and we waited in the car
+
+# 영어 연습가이드 #40 [ 하드코어 모드 ] - 연습가이드#35 후속편
+* 근데 웬만한 사람은 한번쯤 느껴봤을거예요, 매주 반복되는 일과 놀이 사이에서만 끝없이 전전하는 굴레 속에 갇혀있다는 이 느낌이요.  
+  * But if you're anything like me, I'm sure you've found yourself, at one point or another, feeling trapped in this endless loop of work and play, week after week.; 웬만한 사람은; If you're anything like me
+* 이게 더 심해지면 일하면서 힘든 한 주를 보내고 나서 어떤 보상을 내 자신에게 해주는지, 거기에 가장 큰 의미를 두는 수준까지 가게 되는거예요. 
+  * And it gets to the point where all that matters is how we reward ourselves after a tough week at work. 
+* 그래서 결국 어떻게 되요?  멀리 보는 능력을 잃어요. And so, what happens?  We become nearsighted.
+* 야망을 가지고 목표를 가지고 사는 법을 잊어요.  We forget how to be ambitious with our goals and with our lives.
+* 남들이 우리의 한계를 결정하도록 내버려두고 우린 그걸 받아들이는 법을 배워요
+ We allow others to determine our limits and we learn to accept them. 
+* 포기하는 것을 배우죠.   We learn to quit. 
+* 더 나은 삶을 위해 애쓰는 것보다 우리의 불행을 받아들이고 불평하는 것이 더 쉽다는 사고방식을 키우게 되죠.  And we grow this mindset where coming to terms with our misery and complaining about it is just a lot easier than struggling for a better life.
+
+# 영어 연습가이드 #39 - 10가지 표현/문맥/패턴 응용 / 복습
+* 이거 실제로 어제 나한테 일어난 일이에요; This actually happend to me.
+* 막 일어나서 아래층 거실로 내려갔는데 바닥에 있는 물을 밝고 미끄러졌어요.
+  * I had just gotten up, i went downstairs into the living room and i slipped on some water on the floor
+* 전날 밤에 강아지 들이 좀 쏟았던 모양이에요; i'm guessing my dog's must've split some the night before; 문어체에서는 guess, must've 둘다 쓰면 안됨
+* 어쨌든 등으로 오나전 납작하게 넘어졌는데 그 충격이 너무 커서; Anyway, i fell flat on my back and the impact wasso strong,
+* 정말 그런 것은 처음 느껴봤던것 같애요. i don't think i'd eve felt anything like that beefore
+* 그러고 얼마 안되서 일어날 수 있긴 했는데 그 후로 고개를 제대로 ㄷ로릴수 가 없더라구요. 
+  * i was able to get back up not long afterwards (after that), but, i haven't been able to turn my head properly ever since.  literally could not breath for like 10 seconds; was able to was 강조; 일반동사면 do 
+  * 차 사고 나면 모이 뻐근한 증상이 약간 이런 느낌인가봐요. 
+    * i guess this is kind of what a light neck strain feels like after a car accident; think의 전 단계; 추측
+  * 근데 저는 제가 운이 정말 좋았다고 생각해요. But i consider myself really lucky; 너는 어떻게 생각할지 모르지만 나는 이렇게 생각한다.
+* 훨씬 더 크게 다쳤을 수도 있었던 거예요.; Because it could've been a lot worse
+* 뼈가 부러질 수도 있엉써요. I could've brkoen a bone or somethin
+* 머리를 안다친게 너무 다행이에요. I'm just glad i didn't hurt my head
+
 # 연습가이드 #38 - PART 2 - 'The Benefits of Starting Your Day Early in the Morning"
 * 할 일을 하다; get work done; 핸드폰을 고치다; get my phone fixed; get my hair cut; get some food delivered
 * 하룰가 시작하기 전에 일처리를 할 수 있도록 일을 일찍 할려고 한다

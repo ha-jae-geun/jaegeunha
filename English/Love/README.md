@@ -54,11 +54,14 @@ I have a big crush on you / I have a thing for you, i'm into you
 	* 우리 사이를 돌이킬 수 없게 햇어; All of our bridges burned down
 	* 너를 포기하다; quit on 사람
 	* 오해; misread는 '잘못 읽다', '오해하다', '잘못 해석하다'라는 뜻이에요. 신호signal을 잘못 읽는 건 보통 남녀 사이에서의 신호를 오해한다는 뜻으로 쓰여요. 가령 상대방의 행동을 보고 나를 좋아하는 줄 알았는데 알고 보니 그냥 친절하게 구는 거였다든가 하는 상황에서 쓰는 표현이죠.
+	* company 는 '회사'라는 뜻 외에도 [함께 있음]을 의미하기도 해요. 그러다보니 '동료, 친구들'의 의미를 갖기도 하는데요. part 는 전체가 아니라 '부분'을 의미하는 단어니, 동사로 쓰이게 되면 [헤어지다, 갈라지다, 갈라놓다] 등의 의미를 가집니다. 이 표현들이 함께 쓰인 part company 는 1) 두 명 이상의 사람들이 헤어지다, 다른 방향으로 향하다, 또는 2) 동의하지 않아서 갈라지는 걸 의미하는 숙어입니다. 구어보다는 격식체, 문예체로 많이 쓰입니다.
+		* = 김연아는 브라이언 오서 코치와 2010년에 결별하였습니다. Kim Yuna parted company with Brian Orser in 2010. 
 * 화해하다; make up sex; a lot of couples breakup just because they want to have make up sex; 미국농담
 * 차다; i dumped him; i was/got dumped
 * 점점 멀어지다; we've grown apart; we grew apart
 * 바람피다; cheat on someone
 	* 바람 피는 상대; side chick = mistress
+	* 1) [바람을 피우다] 라는 의미를 가진 표현에는 크게 have an affair (with) 와 cheat on + 사람 이 있어요.  2) affair 는 [일/사적인 일/불륜 관계] 등의 의미가 있는데요, have an affair 은 '결혼한 사람' 또는 '사실혼 관계에 있는 사람' 이 며칠에서 길게는 몇년의 '기간' 과 '감정' 을 가지고 바람을 피우는 걸 의미하는 반면에,   3) [cheat on + 사람] 은 [를 속이고 바람을 피우다] 라는 의미로, '결혼한 사람' 과 '결혼하지 않은 여친/남친' 관계에 있는 사람이 다른 사람과 꼭 감정이 없어도 성관계를 하는 것을 의미합니다. 예를 들면, 원나잇 스탠드 같은 경우 cheat 이라고 하지, affair 라고 하지 않습니다.
 * 남자는 많아; there are lots/plenty of fish in the sea/ocean
 * 잊다; finally over somebody
 	* i haven't abeen able to get past it
@@ -195,70 +198,71 @@ I have a big crush on you / I have a thing for you, i'm into you
 	* 그 사람이 위자료를 많이 주었어요. 	‘ӕlɪmoʊniHe gave me a lot of alimony.
 	* 양육권 때문에 다투고 있어요. 	‘kʌstədi We're fighting over custody rights.
 	* 아내를 사고로 잃었어요. 	I lost my wife in an accident. 
-	----------------------
+
+
+# 진도
 * 스킨십 진도가 느려; we're taking things slow; things are moving really slowly
 * 걔는 스킨십이 너무 많아; he gets a bit too touchy
 * 내가 손금 봐줄게; Let me read your palm
 * #적성 검사 #aptitude test
-* #소질; #aptitude
-* 소질 있다; ~~ is in her blood. ex) Baseball is in his #blood. (내력적으로 야구에 소질이 있다.)
+	* #소질; #aptitude
+	* 소질 있다; ~~ is in her blood. ex) Baseball is in his #blood. (내력적으로 야구에 소질이 있다.)
 * 어떤 스타일 좋아해? 						 What do you like in a guy(girl)
-* ##jam; 스타일; that's my jam
-* 사람마다 제 각각이긴 하지			 Different strokes for different folks, I guess
-* 야 김형제! 너 눈독 들인 사람 있어?			Hey 김형제, are you eyeing someone?
-* ~에 대한 취향/취미를 갖다						 acquire a taste for 
-* 000는 내 스타일, 내 마음에 드는 것 이라는 의미를 가지고 있습니다.	 000 is my thing. This is so you, It's right up my alley.
-* new #thang 								새롭게 관심 가지게 된 것
-* 새로운 스타일 좋네; I like the #new look
+	* ##jam; 스타일; that's my jam
+	* 사람마다 제 각각이긴 하지			 Different strokes for different folks, I guess
+	* 야 김형제! 너 눈독 들인 사람 있어?			Hey 김형제, are you eyeing someone?
+	* ~에 대한 취향/취미를 갖다						 acquire a taste for 
+	* 000는 내 스타일, 내 마음에 드는 것 이라는 의미를 가지고 있습니다.	 000 is my thing. This is so you, It's right up my alley.
+	* new #thang 								새롭게 관심 가지게 된 것
+	* 새로운 스타일 좋네; I like the #new look
 * 제 취향이 아닌데요 				 It's not my thing!! It's #not my cup of tea!!!
-* 아주 내 취향에 맞는다. 				 ‘laɪkɪŋ teɪst It is much to my liking / taste. 
-* 딱 네거네 									 This is so you
-* #취향저격 #exactly my style
-* have an #aptitude for 
-* 내 적성에 잘 맞는 일이야. 							 It's my type of work
+	* * = 그의 성적 취향에 대한 질문을 받았을 때, 그는 말을 아꼈다. When asked about his sexual orientation, he played coy.
+	* 아주 내 취향에 맞는다. 				 ‘laɪkɪŋ teɪst It is much to my liking / taste. 
+	* 딱 네거네 									 This is so you
+	* #취향저격 #exactly my style
+	* have an #aptitude for 
+	* 내 적성에 잘 맞는 일이야. 							 It's my type of work
 * 똑똑한 사람에게 성적으로 매료당하는 사람 					 sapiosexual
-* #brainy 
-* #civilised; 문명화된; #똑똑; 영국남자 사이먼의 인종차별 논란; 영국 속어 훌륭하다
-* #박식한 #해박한 #똑똑한 She has an encyclopedic knowledge of natural history. [ɪn|saɪklə|pi:dɪk] 
-* #박식; #well read
+	* #brainy 
+	* #civilised; 문명화된; #똑똑; 영국남자 사이먼의 인종차별 논란; 영국 속어 훌륭하다
+	* #박식한 #해박한 #똑똑한 She has an encyclopedic knowledge of natural history. [ɪn|saɪklə|pi:dɪk] 
+	* #박식; #well read
 * 권태기 잘  극복했어; We made it through the seven-year itch
-* 진도 
- * #학문적인 						 scholastic; i'm not a scholastic type of guy
+
+
+# 취향 
+* #학문적인 						 scholastic; i'm not a scholastic type of guy
  * #고급 취향; #good taste
  * 스포츠의 건강미, 포르노의 섹시함과 더불어 metrosexual의 패션 센스가 모두 갖춰진 남성
  	* Spornosexual
  	* 엄청난 미인; 섹시한 여성에게 쓰는 말; total babe
  	* 외모와 패션에 관심 많고 여성스러운 취향을 가진 남성을 뜻한다. 			 LUMBERSEXUAL
- * 누군가의 마음에 들려고 노력하다 			 (I want to )get/be on her(someone's) good side
- * 성향 								 inclination [ìnklǝnéiʃən]
- * 이 노래 완전 내스타일이야 						 This song is so me
- * #취향 #적성 #스타일 #마음에 들다 #성향
+	 * 누군가의 마음에 들려고 노력하다 			 (I want to )get/be on her(someone's) good side
+	 * 성향 								 inclination [ìnklǝnéiʃən]
+	 * 이 노래 완전 내스타일이야 						 This song is so me
  * 방 잡아! 									 get a room you two!
- * 왜 쟤들 공공장소에서 저래 				Why are they making out that in public?
- * 으아, 너 진짜 닭살. ‘lʌvi ‘’dʌvi Aw, look at you, all lovey-dovey | goose pumps/bump: 소름
- * it gave me goosbumps
- * #닭살 #꽁냥 
- * # 야한
- * 그 여자 목적 있어서 만나는거야.					 She is a gold digger.
- * 쟤 #킹카래 							 He is #all that, such a stud
- * 저 여자좀 봐~~ 죽이는군~~ 		 	 Look at that girl!! She's really dressed to kill.
- * #집적대다 								 #Hit on someone
- * 
- * 
- * # 작업 말투
- * * 어디서 널 만난 것 같은데? Do i know you from somewhere?
- * * 여기 자리 있어요? Is this free?
- * 
- * #꼬시는 말, #잘 꼬시는 남자 #(pickup) #line, #pickup artist = #mack daddy
- * #lay(put) some #sweet lines on; 달콤한 말을 거다, #부추기다
- * #mack upon; #해치우다, #이기다;
+	 * 왜 쟤들 공공장소에서 저래 				Why are they making out that in public?
+	 * 으아, 너 진짜 닭살. ‘lʌvi ‘’dʌvi Aw, look at you, all lovey-dovey | goose pumps/bump: 소름
+	 * it gave me goosbumps
+
+
+
+# 작업 말투
+* * 어디서 널 만난 것 같은데? Do i know you from somewhere?
+	 * * 여기 자리 있어요? Is this free?
+	 * #꼬시는 말, #잘 꼬시는 남자 #(pickup) #line, #pickup artist = #mack daddy
+	 * #lay(put) some #sweet lines on; 달콤한 말을 거다, #부추기다
+	 * #mack upon; #해치우다, #이기다;
  * #꼬시다; hit on somebody, flirt somebody, put the move on somebody | #talk intof
+	 * 그 여자 목적 있어서 만나는거야.					 She is a gold digger.
+	 * 쟤 #킹카래 							 He is #all that, such a stud
+	 * 저 여자좀 봐~~ 죽이는군~~ 		 	 Look at that girl!! She's really dressed to kill.
+	 * #집적대다 								 #Hit on someone
  	* 작업 거시는 거에요: Were you coming on to me?
- * 네가 로스 꼬신거잖아; YOu came on to Ross; come on to: sexual relationship을 갖고 싶다고 드러내는 것
- * #smooth; #솜씨가 좋다; 특히 상대방을 잘꼬시면 하는 말
- * be #on a mission; #꼬시다
- * 
- * #꼬시고 있어 					 someone is putting the moves on ~
+	 * 네가 로스 꼬신거잖아; YOu came on to Ross; come on to: sexual relationship을 갖고 싶다고 드러내는 것
+	 * #smooth; #솜씨가 좋다; 특히 상대방을 잘꼬시면 하는 말
+	 * be #on a mission; #꼬시다
+	 * #꼬시고 있어 					 someone is putting the moves on ~
  * 성관게 유혹하는 #밀회 I thought it was a #booty call 단어장추가
  * #밀당하다 							 She's playing hard to get.
  	* 너무 밀당하지 않았으면 하는데 			 I hope she doesn't #go too far with this

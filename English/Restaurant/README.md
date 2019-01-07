@@ -10,6 +10,7 @@
 	* #무료 식당;#soup kitchen
 	* #bistro; 프랑스풍의 작은 식당이나 바
 	* #피자 가게; #pizzeria
+	* 맥시코 음식점; Mexico Joint
 	* 가족 대대로 운영하는 홍콩의 숨겨진 딤섬 맛집 같은 곳; Kind of hole in the wall, family run dim sum restaurant
 * 스튜를 잘 배분해야해; we have to ration out the stew
 * 저는 안먹어요; None for me

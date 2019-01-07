@@ -169,6 +169,8 @@
 * ##턱시도 쫙 빼입고 모자까지 ᄊᅠᆻ어요	So we had full tails and top hats
 * #프리 사이즈	This dress comes in one size fits all.
   * 사이즈를 줄이다; shrink the size; 사이즈가 줄다; shrink in size; Small-sized business are shrinking in number
+  * 큰것도 아니고 작은 것도 아닌, 중간 사이즈나 중간 사이즈를 입는 사람을 straight size 라고 합니다. 영상에서는 마른 모델도 아니고, 플러스 사이즈 모델도 아닌, 중간 사이즈 모델을 a straight size model 이라고 하였습니다.
+    * 한국과 미국의 평균 사이즈는 다르다. The straight size in South Korea and the US is different. 
 * 상처를 치료하다 #dress;(붕대) dress a wound
 * #좀비 분장할거야 					 I’ll dress up as zombie for halloween
 * #편하게 입고와 dress #casually

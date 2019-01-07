@@ -9,7 +9,9 @@ The best-selling classic of politics is Machiavelli's monarchy.
 * imperialism; 제국주의자 an imperialist;  in on imperialism
 * capitalism; 자본주의는 이윤 추구를 목표로 한다; Capitalism aims at[focuses on] making profits.
 * 공산주의; communism, collectivism
-* 민주주의; parliamentary democracy 
+	* 민주주의; parliamentary democracy 
+	*  진보적인, 진보주의자 = liberal 보수적인, 보수주의자 = conservative 정치 관련 대화에서는 빠지지 않고 등장하는 단어이기 때문에 알아두시는 것이 좋아요. 명사와 형용사 모두로 쓰일 수 있습니다. 우리도 좌파니 우파니 하듯이 영어에도 진보를 left-wing, 보수를 right-wing 이라고 해요. 우리말에서 몇몇 정치 용어들이 외국에서 들어온 것이기 때문에 그렇습니다.
+		* 진보는 이기는 법을 몰라서 항상 져. ex) Liberals always lose because they don't know how to win.
 * 폭정에 시달리다; suffer from tyranny ; [ˈtɪrəni; despotism, tyrannical[despotic, oppressive] rule; tyrannize over a country
 * #공포정치; #reign of terror; [reɪn]
 	* 의회 군주제라는 정책 the doctrine of parliamentary sovereignty 
@@ -35,10 +37,13 @@ The best-selling classic of politics is Machiavelli's monarchy.
 * 투표 방식중에 하나입니다. 마음에 드는 사람을 한 명 고르는 대신, 전체 후보들을 자신의 선호도에 따라 1번부터 끝번까지 등수를 매기는 방식입니다. 주로 호주에서 사용하는 방식이라고 하네요.  preferential voting system = 선호투표제
 	* 축구는 그가 선호하는 취미 생활이 아니다. ex) Football has never been his preferred pastime.
 * cast 는 ‘던지다’, ballot 은 ‘무기명 투표’ 혹은 ‘투표 용지’ 그 자체를 말합니다. 그래서 합치면 ‘표를 던지다, 투표하다’가 됩니다.  참고로, 동사 elect 은 투표(casting a ballot)에 의해서 누군가를 ‘선출’하는 것으로 최종적으로 선거에서 이긴 것을 말합니다. 
-------
+
+
 ## 정치
-* 영사관; consulate 미국식 [ˈkɑːnsəl-]  영국식 [ˈkɒnsjələt] 
-* [명사] [보통 E~] 각하 ((장관·대사 등에 대한 존칭)); excellency 미국식 [éksələnsi]
+* 영사관; consulate 미국식 [ˈkɑːnsəl-]  영국식 [ˈkɒnsjələt]   
+	* [명사] [보통 E~] 각하 ((장관·대사 등에 대한 존칭)); excellency 미국식 [éksələnsi]
+	* 영사관은 비자나 상거래 관리 등 본국을 대신해서 민간업무를 해주는 곳입니다. 반면에 대사관은 그 나라를 대표하는 외교부의 소속 부서로 외교업무를 수행합니다. 중국 정부가 홍콩과 마카오에 있는 해외 정부 기구를 영사관이라고 부르는 것도 그 두 나라를 국가로서 인정하지 않기 때문입니다. 그래서 홍콩과 마카오에는 British Consulate는 있어도 British Embassy는 없다는 내용입니다.  참고로 ‘영사’는 consul, ‘대사’는 ambassador 라고 하고, 어느 국가에서 어느 국가로 파견했는지 표현하려면 「 출신국 ambassador to 파견국 」 순으로 말하면 됩니다.  embassy 미국·영국 [ˈembəsi] 
+		* 영사관에서 일은 어떻게 됐어? 비자 받았니? How did it go at the consulate? Did you get your visa?  [ˈkɑːnsəl-] 
 * 귀빈; Distinguished guests
 * 국빈; state[national] guest, guest of the state 국빈 대우를 하다 accord sb the treatment of a national guest 
 * 국왕, 왕자; Your Majesty, Your highness

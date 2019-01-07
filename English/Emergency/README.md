@@ -53,6 +53,7 @@
 	* 그의 상황은 위태로웠다. His situation was haing by a hair. 
 	* 실 한 가닥에 매달려 있는 모습은 매우 위태해 보이겠죠. 현재 처한 상황이 매우 위험스럽다는 뜻의 표현입니다. 주어는 사람, 사물 모두 올 수 있고, on 은 생략 가능합니다.
 		* 요새 제 삶이 좀 위태위태 해서 그런 것 뿐이에요. (악마는 프라다를 입는다 中) My personal life is hanging by a thread. That’s all. 
+	* 제임스는 그 질문에 대한 답을 몰랐는데, 그때, 선생님이 호출되어 교실을 나갔으므로 위기일발로 난처함을 면했다. James didn't know the answer to the question, but he was saved by the bell when the teacher was called away from the room.; saved by the bell
 * 오늘 날 세상에서 가장 긴급히 다뤄져야 할 이슈는 뭐가요? What's the world's most presing issue today? pressing issue/matter
 -------
 * 자택에서 대피하다; evacuated from their homes; 임새 대피소: tempoary shelters

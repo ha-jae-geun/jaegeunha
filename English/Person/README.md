@@ -38,6 +38,7 @@
 	* 비격식 표현으로 누군가를 좋게 표현할 때 쓰는 형용사입니다. 참고로 전지현 주연의 영화 '엽기적인 그녀' 의 제목이 영어로 My Sassy Girl 이에요.주의할 점은, 나이가 많은 사람이 자기보다 나이 적은 사람에게 sassy 하다고 표현할 때는 [건방진] 이라는 의미로 종종 쓰이니 주의하세요.
 		* 넌 너희 엄마한테도 그렇게 건방지니?ex) Are you that sassy with your mom?
 	* 영리한 사람; smart cookie 
+	* 그는 거짓말을 할 사람이 절대 아냐. He is the last person to tell a lie . 듣기 출처:능률교육
 * 어중이 떠중이; rabble(2. 왁자지껄하게 모여있는 사람들)
 * 혼혈 ; mixed-blood, (offensive) half-breed, (offensive) half-caste
 * 남편, 상대, 아내, 여자친구; significant other
@@ -478,6 +479,8 @@ he lacks the dexterity to get on in life
 * be nod good at = be bad at
 * 그 친구 아직 미숙한 거 같아.	 			 I'm clumsy / all thumbs about cooking.
 * 이름 잘 못외워요							 I'm terrible with names
+	* * take on your partner’s surname = 배우자의 성을 따르다 take on 은 다양한 뜻으로 쓰이기 때문에 문맥을 보고 이해해야 합니다. 여기서는 ‘취하다, 떠맡다, 받아들이다’를 뜻하는데, on 없이 take 만 써도 됩니다.  참고로 결혼하기 전의 성씨, 즉 자신이 원래 갖고 있던 성씨를 (한국의 경우에는 대부분 아버지의 성씨겠죠) 영어로 a maiden name 이라고 합니다.
+		* 한국 여성들은 결혼할 때 배우자의 성을 따르지 않는다. Korean women don’t take (on) their partners’ surnames when they marry. 
 * #못하다 #서투르다 #칠칠맞다 #잼병
 * #추진력 driven
 * #추진 #propulsion; #jet propulsion

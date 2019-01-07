@@ -4,6 +4,46 @@
 * antonym
 * acronym
 -----
+
+# 연음
+* read in English; 리리닝글리쉬;   the use of electronic cigarettes; 벨렉ㄳ
+* pocket; pa-낏,         opportunity; 아뻐투너티; 아 크게;      bad idea; 배-라이디어(bed와 구분)
+* recognition; 뤠컥 충분히 쉬고 니션
+* on our; [on ar]     flowery; flower + 이        advantage [앳 ˈvæn-]
+* certificate of appointment; 러버 pɔɪntmənt]
+* chief executive officer; 취픽 제뀨리 버피썰
+* clothes  [kloʊðz;kloʊz]  cloth 미국식 [klɔːθ] clothing 미국식 [ˈkloʊðɪŋ] 
+* option; 압션; again [əˈɡen;əˈɡeɪn]   easily; 이즐리;      extraordinary 미국식 [ɪkˈstrɔːrdəneri] 
+* agents; ˈeɪdʒənt], wants; t 묵음      pixel; 픽쓸;   launch 장모음 [lɔːntʃ]  ; lunch 단모음 
+* foreign 미국식 [ˈfɔːrən;ˈfɑːrən] 인;   market; 낏
+* worh of items; [ˈaɪtəm];        rocket; 킷    suicide 미국·영국 [ˈsuːɪsaɪd]
+* said it; 셋; 세릿
+* Your; 유얼 안으로 먹는 소리; you'll have to learn how to manage your time well
+* designated 미국·영국 [déziɡnèitid];  잡동사니; odds and ends; and 약하게
+* basically 미국·영국 [ˈbeɪsɪkli], exaclty; 끌리
+* caramel 미국·영국 [ˈkærəmel  macchiato; 에 강세;   americano; 카 강세;  america; 메 강세
+* 경박한 말 a facetious comment/remark   [fəˈsiːʃəs]    exquisitely  [ɪkˈskwɪzɪt;ˈekskwɪzɪt]
+* 아파트 관리인; concierge 미국식 [kɔːnˈsjerz] 
+* 이탈리아 그림 감정가 a connoisseur of Italian painting  [itǽljən] [ˌkɑːnəˈsɜːr;-ˈsʊr] 
+* corridor 미국식 [ˈkɔːr-;ˈkɑːr-]; His room is along the corridor; i 발음 약하게
+* Stockholm 미국식 [stɑ́khoulm] 
+* 에밀리는 변덕스러운 성격 때문에 함께 살기가 힘들었다.	Emily’s mercurial temperament made her difficult to live with. [mɜːrˈkjʊr-]
+* 감지하기 힘든 색깔/향/냄새 등 subtle colours/flavours/smells, etc.  ˈsʌtl] 
+* bold 미국식 [boʊld]; 입 모우기   bald 미국·영국 [bɔːld]; 입 벌리기
+* veteran 미국·영국 [ˈvetərən]   marijuana 미국식 [ˌmærəˈwɑːnə]
+* 그에 대한 처벌이 다른 사람들에 대한 제지 효과를 낳기를 바란다. Hopefully his punishment will act as a deterrent to others.   [-ˈtɜːr-]  영국식 [dɪˈterənt
+* coupon 미국식 [-pɑːn;ˈkjuː-]  영국식 [ˈkuːpɒn]; 쿠, 큐 두개
+* 아주 불쾌한 행동 obnoxious behaviour   [-ˈnɑːk-]  영국식 [əbˈnɒkʃəs] 
+* miracle 미국·영국 [ˈmɪrəkl]    etc 미국·영국 [etsetrə] 
+* 환자를 마취시키다 put a patient under anesthesia; anesthesia 미국식 [æ̀nəsθí:Ʒə] 
+* 성실한 학생/교사/근로자 a conscientious student/teacher/worker   [ˌkɑːn-]  영국식 [ˌkɒnʃiˈenʃəs]
+* 관절염 arthritis 미국식 [ɑːrˈθ-]  영국식 [ɑːˈθraɪtɪs
+* Mediterranean 미국식 [ˌmedɪtəˈreɪniən]; a Mediterranean country
+* popularity 미국식 [ˌpɑːp-]  영국식 [ˌpɒpjuˈlærəti];  격렬: severity 미국·영국 [səvérəti]
+* statistics 미국식 [stətístiks]   artery 미국식 [ˈɑːrt-]  영국식 [ˈɑːtəri]; blocked arteries 
+
+# 기타
+* secretary 미국식 [-teri]  영국식 [ˈsekrətri] 
 * france;  [frǽns]  Jordan dƷɔ́:rdn]  japan 미국·영국 [dƷəpǽn]
 * 수제자; pupil; i keep trying to be your star pupil; pupil: (초, 중,생같은 어린 학생); 퓨플발음
 * It's on the table; 미국 '언' 발음; 영국, 호주: '온'에 가까운 발음

@@ -85,3 +85,5 @@
 * #숲
 * #지속 가능한; #sustainable; sustainable #forest management
 * #deforestation
+* 잠기다 ‘수면 아래로 가라앉다’, 혹은 비유적으로 ‘신분, 감정, 성격 등을 감추다’를 의미합니다. 반대로 ‘수면 위로 떠오르다’는 surface 입니다. 
+	* 모든 차와 집들이 홍수에 잠겼다. All the cars and houses were submerged by floodwater.

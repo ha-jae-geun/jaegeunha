@@ -47,6 +47,7 @@
   * 수상한걸 느꼈어요; i started noticing some sketchness
   * 기만적인 정치가 a devious politician 
 * 쟤가 스파이야; he's the rat
+  * 흘깃 엿보거나 엉큼하게 쳐다보는 것을 의미합니다. 조금 더 몰래 '훔쳐보는' 느낌을 표현하고 싶을 땐 sneak a peek 이라고 합니다. 무언가가 정식으로 발매되기 전에 살짝 볼 수 있는 것을 sneak peek 이라고도 합니다. ex) Did you sneak a peek at my files?
   * 몰래 관찰하는게 기대된다; i can't wait to be a fly-on-the-wall
   * 스토킹; 네가 스토킹을 당하고 있었다고 했잖아. You said you were being stalked.
     * 동사 subject [겪게하다, 당하게하다] 는 강제로 특정한 경험이나 취급을 받도록 하는 것을 의미합니다. 따라서 수동태인 be subjected to 주로 유쾌하지 않은 일을 [당하다] 라고 해석이 됩니다.
@@ -302,20 +303,21 @@
   * 강도로 18개월을 복역했다; served an 18-month sentence for theft
   * 판결; the case was #ruled a suicide
   * #무기징역; #life sentence; overturn 
-* #재심; #retrial
-* 어떻게 판결을 내리시겠습니까? #How say you
-* #선고; #sentence
-* #수석 재판관 				 Chief justice(미국 최고 법원의), the lord chief justice
-* #이의 있습니다 #objection your honor, #인정합니다; #sustained #기각합니다 #overruled
-* to #overrule a decision / an objection 
-* 이의 제기하다; At first she #demurred, but then finally agreed.
-* 그 법정은 지금 개정된 상태이다[공판 중이다].	 kɔ:rt ‘seʃn The court is now in session.
-* 나 #명예훼손으로 고발하고 싶어			 I want to sue him for #defamation [dèfǝméiʃən]
-* #검사 #prosecutor
-* #주검찰청 #state attorney general's office #지방검찰 #district attorney''s office
-* #신분증 검사; they #carded you; I got carded at a bar the other night
-* #특검; #special prosecutor
-* 예심; 이용자 참여  그의 예심은 금요일로 예정되어 있다. He has a preliminary hearing scheduled for Friday . 듣기
+  * 또한 영상속의 make it to trail도 재판으로 가는 것이기 때문에 ‘재판으로 넘겨지다’로 번역하였습니다. 
+  * #재심; #retrial
+  * 어떻게 판결을 내리시겠습니까? #How say you
+  * #선고; #sentence
+  * #수석 재판관 				 Chief justice(미국 최고 법원의), the lord chief justice
+  * #이의 있습니다 #objection your honor, #인정합니다; #sustained #기각합니다 #overruled
+    * to #overrule a decision / an objection 
+  * 이의 제기하다; At first she #demurred, but then finally agreed.
+  * 그 법정은 지금 개정된 상태이다[공판 중이다].	 kɔ:rt ‘seʃn The court is now in session.
+  * 나 #명예훼손으로 고발하고 싶어			 I want to sue him for #defamation [dèfǝméiʃən]
+  * #검사 #prosecutor
+  * #주검찰청 #state attorney general's office #지방검찰 #district attorney''s office
+  * #신분증 검사; they #carded you; I got carded at a bar the other night
+  * #특검; #special prosecutor
+  * 예심; 이용자 참여  그의 예심은 금요일로 예정되어 있다. He has a preliminary hearing scheduled for Friday . 듣기
 * #변호사 #국선 변호인							 public defender
   * 혹은 ‘변호사’를 뜻하기도 하는데요, lawyer는 법을 전공하고 변호사 자격증을 딴 사람을 넓게 포괄하여 부르는 말이고, advocate은 법정에 서서 의뢰인을 대변하는 변호사를 특정하여 부르는 말입니다. 
   * #변호인 Councillor(2. #지방의회의 #위원)
@@ -346,13 +348,13 @@
   * #recess; the judge called a short recess ; #at recess; 휴식시간에
 * #jury duty; #duty
 * 판사가 배심원들에게 #무죄 평결을 내리라고 지시했다		 .direct (격식) 
-* #acquit, #release, #discharge - 무죄 선고하다 
-* The jury #acquitted him of murder.TTS 배심원단이 그의 살인 혐의에 대해 무죄를 선언했다.
-* 지시[명령]하다: The judge directed the jury to return a verdict of not guilty.
-* 무죄라고 추정을 해 둘게 #give someone a benefit of the doubt(#benefit)
-* #법정 #개정
+  * #acquit, #release, #discharge - 무죄 선고하다 
+  * The jury #acquitted him of murder.TTS 배심원단이 그의 살인 혐의에 대해 무죄를 선언했다.
+  * 지시[명령]하다: The judge directed the jury to return a verdict of not guilty.
+  * 무죄라고 추정을 해 둘게 #give someone a benefit of the doubt(#benefit)
+  * 배심원단이 그의 살인 혐의에 대해 무죄를 선언했다. The jury acquitted him of murder.   [ˈdʒʊri] 
 * #sin#; #commit a sin, #crime
-* 잔인한 vicious little word, vicious attack/dog
+  * 잔인한 vicious little word, vicious attack/dog
 * 체포합니다 You’re under arrest
   * 우리가 제압할 수 있을 것 같애; we can take them
   * 붙잡다; be held captive; hold 사람/동물 captive
@@ -368,22 +370,24 @@
   * 조직/회사/이념/제한 등에서 벗어나서 하고 싶은대로, 자유롭게 행동하고 말하는 것을 의미합니다. 영상의 대사를 직역하면 [그가 자유롭게 행동하도록 하면서] 의 의미를 갖습니다.
     * 넌 아이들을 좀 살살 다룰 필요가 있어. 애들은 가끔씩 제멋대로 행동해야 한다구. ex) You need to take it easy on your kids. They need to cut loose sometimes.
 * #처벌; #솜방망이 처벌 a slap on the wrist
-* #징계처분 #응징 #punitive measures(#measure)
-* #retribution; suffered retribution
-* 징계 조치를 내리다; #take a #disciplinary action
-* #영장 있어요? 								 Do you have a warrant?
-* #수색 영장 #search warrant =
-* #체포 영장 #arrest warrant(#warrant)
-* 약간 죄같은거네									 It’s like sin
-* Qualms: #꺼림찍함; I can drink without qualms
-* #죄책감을 느끼거나 하면 안된다는것을 알지만 자신에게 #만족감을 가져다주는 것 또는 그러한 행위 
-* guilty pleasure
-* 죄책감을 느끼게 만들지 마세요 				 don't make me feel guilty about this now
-* 무슨 죄 지은 것처럼 그러지마. 				 Don’t make it sound like a crime.
-* #폭행 및 #기물파손 						 ‘vӕndəlɪzəm assault, vandalism
-* His father was a drunken brute.(#짐승) by #brute force
-* #abusive; some of whom were abusive
-* #lay a hand on someone; he laid a hand on my mother
+  * 2) plea bargain을 ‘사전형량조정제도’라고 하였는데요, 더 쉬운 용어로 ‘양형 거래’입니다. 피고가 유죄를 인정(a plea of guilty)하는 대신 형량을 감형해 준다는 일종의 합의(bargain)를 나타냅니다. 
+    * 그녀는 양형 거래를 제안 받았지만, 유죄 인정을 하지 않았다.  She was offered a plea bargain but she didn’t plead guilty.   [pliː]
+  * #징계처분 #응징 #punitive measures(#measure)
+  * #retribution; suffered retribution
+  * 징계 조치를 내리다; #take a #disciplinary action
+  * #영장 있어요? 								 Do you have a warrant?
+  * #수색 영장 #search warrant =
+  * #체포 영장 #arrest warrant(#warrant)
+  * 약간 죄같은거네									 It’s like sin
+  * Qualms: #꺼림찍함; I can drink without qualms
+  * #죄책감을 느끼거나 하면 안된다는것을 알지만 자신에게 #만족감을 가져다주는 것 또는 그러한 행위 
+  * guilty pleasure
+  * 죄책감을 느끼게 만들지 마세요 				 don't make me feel guilty about this now
+  * 무슨 죄 지은 것처럼 그러지마. 				 Don’t make it sound like a crime.
+  * #폭행 및 #기물파손 						 ‘vӕndəlɪzəm assault, vandalism
+  * His father was a drunken brute.(#짐승) by #brute force
+  * #abusive; some of whom were abusive
+  * #lay a hand on someone; he laid a hand on my mother
 * 심판의 결정에 사람들이 폭력이라도 휘두를 듯 항의했다.			‘refə‘’ri dɪ‘sɪƷn kraʊd
 * The referee's decision left the crowd baying for blood
 * #폭력; #brute force 
