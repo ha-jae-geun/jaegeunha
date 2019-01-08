@@ -24,6 +24,7 @@
 	* When are you having your baby shower
 	* 아기 침대 사주자; Let's get her a crib for her baby shower
 * 버릇없는 아이; spoined kid
+	* 행동거지 나쁜 아이; brat
 
 # 놀이
 * 7 스페이드인것 같아요; It's a seven of spades	

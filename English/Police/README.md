@@ -58,6 +58,7 @@
 * 독심술 기술을 사용할거야; most advanced mind reading technology
 * 그는 좀 악당 같은 데가 있지만 아주 매력적이다. He’s a bit of a rogue, but very charming. 
 * 밀고; rat/snitch; on someone/ She was a rat
+  * [명사] 입막음(으로 주는) 돈 hush money 미국식  영국식   단어장추가
 * 조세제도에서의 허점을 발견했다; He found a loophole in the taxsystem
   * 허점 이용, 장애물 피하기; expolit every loophole and doeged obstacles
 * 사기; scam; He got involved in a credit card scam
@@ -362,6 +363,7 @@
   * 사람들은 서로 앞을 더 잘 보려고 마구 밀치고 야단이었다. [V] The crowd was pushing and shoving to get a better view.  거칠게 밀다: shove
   * * 그는 현행범으로 체포됐어요.  He was caught red handed on the spot .
   * arrest, seize, apprehend, rap - 체포하다 <=> release – 풀어주다
+  * 정의가 구현되다; Justice served
 * #잔인한 cruel, brutal, inhumane - 잔인한, 잔혹한 <-> innocent - 결백한, 순수한
   * #잔혹; #atrocity
   * #abusive, #violent, #cruel - 잔인한, 폭력적인 
@@ -383,6 +385,8 @@
   * #죄책감을 느끼거나 하면 안된다는것을 알지만 자신에게 #만족감을 가져다주는 것 또는 그러한 행위 
   * guilty pleasure
   * 죄책감을 느끼게 만들지 마세요 				 don't make me feel guilty about this now
+    * 죄의식 (guilt) 을 느끼는 과정을 여정에 빗대어 (trip) 쓰는 단어입니다. 자기가 스스로 느끼는 죄책감이 아니라, 상대방에 의해 느끼게 되는 경우에 쓰는데요. 예를 들어, 별생각 없이 냉장고에 있던 식은 밥을 먹었는데 동생이 와서 "어? 그 밥 내가 라면 먹을 때 말아먹으려고 일부러 챙겨놓은 건데!" 라고 말하면 괜스레 미안해지잖아요? 그런 경우에 쓰는 단어랍니다. 명사로도 쓰이며 그럴 땐 lay a guilt trip on someone 이라고 말할 수도 있어요.
+      * 걘 그냥 네가 그의 부탁을 들어주도록 죄책감을 느끼게 하려는 거야. ex) He's just trying to guilt trip you into doing his favor.
   * 무슨 죄 지은 것처럼 그러지마. 				 Don’t make it sound like a crime.
   * #폭행 및 #기물파손 						 ‘vӕndəlɪzəm assault, vandalism
   * His father was a drunken brute.(#짐승) by #brute force

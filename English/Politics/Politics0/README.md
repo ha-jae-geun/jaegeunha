@@ -80,6 +80,14 @@
 * 통일비용과 통익 편익이 분당비용보다 큰지를 고려해봐야 한다.
 * Consider whether the cost of unification and benefits are greater than the cost per minute.
 
+# 사회주의
+* 동구권 모델 - 사회주의 체제 포기, 자본주의로 전환
+  * 베트남: 시장 개방, 시장 논리에 따른 외자 유치
+* 아시아 모델 - 사회주의 체제 유지, 자본주의 도입
+  * 중국
+    * 국가 통제 아래 외자 유치
+    * 자국시장 보호
+
 # 난민
 ## 2018 최진기의 생존경제 - [29] 경제효과로 따져보는 난민 찬반 논쟁!
 * 난민은 가난하고, 젊은 연령대 비율이 높고, 고학력자가 많고 외국어에 능통하다. Refugees are poor, young, educated and fluent in foreign languages.

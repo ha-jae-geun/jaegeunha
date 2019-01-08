@@ -112,6 +112,11 @@
 * 달변가 https://m.blog.naver.com/PostList.nhn?blogId=tkfnxh&currentPage=2
 * 쎄쎄쎄 https://m.blog.naver.com/PostList.nhn?blogId=cedubook
 * 큐레이트 https://m.tv.naver.com/curate
+* 브랜든의 캐나다 https://m.blog.naver.com/PostList.nhn?blogId=kidaradio 
+* 공단기 https://m.blog.naver.com/PostList.nhn?blogId=blackyuna0824&currentPage=1
+* 헬로밀루 https://m.blog.naver.com/PostList.nhn?blogId=english4evry1&currentPage=1
+* The Red https://m.blog.naver.com/PostList.nhn?blogId=chjc9
+* 김일승 https://m.blog.naver.com/PostList.nhn?blogId=kishyun
 * 한국번역연구소 https://blog.naver.com/ktri8888
 -----------------------------------------------------------------------------
 * 빌보드 https://www.billboard.com/charts/hot-100#/charts/hot-100

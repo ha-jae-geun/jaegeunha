@@ -218,6 +218,9 @@
 * = 한숨 돌리려고 걷는 것에 잘못된 일은 전혀 없어. There's nothing wrong with walking to catch your breath.
 * 하늘에서 그 섬을 처음 보았을 때 난 숨이 멎는 줄 알았다. My first view of the island from the air took my breath away. 
 
+## benefit
+* = 속는 셈 치고 믿다, 유리하게 해석하다  give someone the benefit of the doubt 2) 그렇지만 단어를 하나하나씩 뜯어본다면, 듣는 사람이 말하는 사람의 말을 완전히 다 믿지는 않기에 의심(doubt) 을 하지만, 그중에서 그럴싸한 내용을 믿는다던가 최대한 긍정적으로 그 말을 해석을 함으로써 말하는 사람에게 혜택(benefit) 을 주는 모습에서 나온 표현입니다.
+	* = 이번엔 그냥 속는 셈 치고 한 번 믿어봐. Just give me the benefit of the doubt this time, please.
 
 ## bring
 * bring it on은 우리말로 ‘덤벼’로 번역되는데, 풀어 설명하면 ‘너가 가진 것이 무엇인지 내놔봐라’라는 의미입니다. 너가 가진 것, 즉 너의 능력/배짱/힘 등이 얼마나 되는지 한 번 볼 테니 꺼내 보이라는 겁니다. 혹은 특정한 대결 상대가 없이, 힘든 상황이나 도전적인 일을 맞이할 준비가 되었다고 할 때도 Bring it on!이라고 합니다. 그 힘든 상황이 나에게 무엇을 가져다 주던 간에, 나는 준비가 되었다는 뜻입니다. 
@@ -244,6 +247,10 @@
 * 돈을 좀 더 벌려고 주말에는 식당에서 일하고 있어. ex) I'm working at a restaurant on the weekends to make an extra buck.
 * 1. buck 은 [1달러] 또는 [돈] 을 의미하는 비격식 표현입니다.
 
+## brick
+* a ton of 은 무언가가 [굉장히 많은] 을 의미하는 비격식 표현인데요. 실제로 벽돌 (brick) 이 1톤 정도 자기 주변에 있다고 생각하면 아주 무겁고 답답하고, 힘들고 그럴 거예요. 그래서 la ton of bricks 는 [갑작스럽고 중요한 영향] 정도로 해석이 됩니다. 영상에서는 동사 [go over = 특정한 반응을 이끌어내다] 와 함께 쓰여서 직역하면 [용돈을 줄인 건 엄청난 영향을 이끌어냈다] 정도로 해석이 되지만 의역하여 [딸은 충격에 휩싸였죠] 로 해석이 되었습니다.
+	* 그 진실이 내겐 큰 충격으로 다가왔다. ex) The truth hit me like a ton of bricks.
+
 ## blow
 ### blow up
 * 'Blow up' 의 뜻은 '(바람을 불어넣어) 부풀리다, 부풀어 오르다' 라는 뜻과, '(폭발물 등을 사용하여) 폭파시키다, 날려버리다' 라는 뜻이 있고,
@@ -266,6 +273,8 @@
 ## butt
 * butt 일상 회화에선 비격식 표현으로 '엉덩이' 를 의미하지만, 사실 이 표현에서의 butt 는 target 을 의미합니다. 양궁이나 사격의 과녁을 butt 이라고 하거든요. 그래서 butt=target (목표물) 이니까, [조롱의 대상] 의 의미를 가져요.  [비판의 대상]이라고 할 때는 the butt of criticism 이라고도 표현합니다.
 		* 내가 사무실에서 방귀를 뀐 이후로, 난 모든 농담의 대상이 되었다. ex) Ever since I farted in the office, I've been the butt of every office joke.
+* 동사 butt 은 ‘머리로 들이받다, 밀다’를 의미합니다. (엉덩이로 들이받는 것 아니에요!) 그래서 butt heads 는 투우 경기처럼 ‘두 머리로 들이받다, 싸우다’를 말합니다.  주의할 것은 butthead 라고 하면 ‘바보 같은 녀석, 머저리’가 돼버립니다. 머리에 똥 찬것처럼 머리가 엉덩이다 뭐 그런 뉘앙스에서요. 「Beavis and Butthead : 비비스와 버트헤드」 라는 소위 ‘병맛애니’도 있습니다.  그리고 ‘박치기’도 head-butt 이라고 해요. 동사, 명사 둘다 가능합니다.
+	* 주민들은 쇼핑몰 개발업자들과 계속해서 갈등을 빚고 있다. The residents continue to butt heads with the mall developers.
 
 ## catch
 * 전체적으로는 좋은데 문제시 되는 것, 겉으로 드러나지 않았던 숨은 문제를 명사로 a catch 라고 합니다. 
@@ -380,6 +389,8 @@
 ## dig
 * 듣는 사람의 가슴을 후벼파는 (dig) 말을 하는 뉘앙스 입니다. 그 사람에 대해 부정적인 말을 하며 빈정대고, 놀려대고, 귀에 거슬리는 말을 하는 것으로 take/have a dig at 이라고 표현하기도 해요. = dig at
 	* 너희들 걔 좀 그만 놀려먹을래? 거슬려. ex) Can you guys stop digging at him? It bothers me.
+* 1) 비격식 표현으로 육체적인 힘이나 정신적인 힘, 재정적인 것을 굉장히 많이 쓰는 것을 의미합니다. 젖 먹던 힘까지 짜내는 듯한 뉘앙스입니다. 깊이 (deep) 파 들어가는 것 (dig) 이니까요. 2) 뒤에 dig deep into something 라고 쓰이면 [무언가를 철저히 파고들다/조사하다] 라는 의미로도 쓰입니다.
+	* 더 힘을 내! 난 네가 더 잘 할 수 있다는 걸 알아. ex) Dig deep! I know you can do better.
 
 ## develop
 * develop 은 기본적으론 [개발하다] 라는 뜻이지만, 없던걸 만들어내는 뉘앙스이기 때문에 뒤에 병명이나 어떤 문제가 목적어로 오게 되면 1) 없던 병에 걸리거나 2) 문제가 생길 때도 쓰이는 단어입니다.
@@ -788,6 +799,8 @@
 	* 현식을 제대로 직시하자. ex) Let's face the reality head-on.
 * 상황이 악화되어 적절한 조치가 취해져야만 하는 시점에 도달하는 것을 의미합니다. 이 표현은 종기나 여드름이 오래되어 터질 듯한 화농을 head 라고 하는 것에서 유래된 표현이에요.
 	* = 경제 위기는 일이주 후에 곪아 터질 것이다. The economic crisis is set to come to a head in a week or so.
+* 직역하면 [머리가 발꿈치에 떨어지다] 정도의 의미인데요. 그만큼 위에 있어야 할 머리가 아래로, 특히나 발꿈치니까 뒤로 떨어질 정도로 '말도 안 되게', '미치게' 사랑에 빠진 상태를 의미하는 표현입니다. 1) fall head over heels for  2) fall head over heels in love with 
+	* 매니저가 사장한테 완전 홀딱 반한 것처럼 보이는데. ex) It looks like our manager fell head over heels in love with the boss.
 
 ## hand
 * 도움의 손길이 가까운 곳에 있었다. Help was at hand. 
@@ -836,6 +849,9 @@
 	* 사기꾼들 조심해. [ex] Look out for scam artists.
 3. 있나 없나 인지하다/찾아보다
 	* 이따가 무대에 나 나오는 거 봐봐. 뒤쪽에 있을 거야. [ex] Look out for me on stage later. I'll be in the back.
+
+## least
+* to say the least = 좋게 말해서, 과장하지 않고 말해도
 
 ## leave
 * = 지금은 그 부분을 다루지 않도록 합시다. Let's leave that out for the moment. 2) for the moment 나 for now 는 [현재로썬, 일단은, 일단 지금은]을 의미하고 있어요.  3) 토의를 시작하기 전이나 토의 중에 언급되는 것에 대해 일단 포함시키지 않고 나중에 얘기하자- 라는 뉘앙스로 말할 때 정말 많이 쓰이는 표현이니 전체적으로 알아두시는 것이 좋습니다.
@@ -1044,6 +1060,10 @@
 * ~을 의도적으로 사용하다. ~을 가지고 놀듯 하다. 본인이 하고 있는 것을 더 잘하거나, 이익을 얻기 위해 사람이나 사물을 의도적으로 사용하는 것을 의미해요.
 	* 제이슨은 자신의 이익을 위해 레베카의 아이디어를 사용했다. ex) Jason played off Rebecca's idea to his own advantage.
 
+## present
+* 만약 Thanks for being present 를 회의실에서 했다면 “참석해 주셔서 감사합니다”가 되겠지만, 여기서는 ‘도움이 되다, 옆에 있어주다’를 뜻합니다. 옆에 있으면서(be present) 도움이 되어 주거나, 얘기를 들어주거나, 아니면 함께 있어주는 것만으로도 고맙다는 걸 의미하죠.  성탄절이나 추수감사절에도 be present 라는 말이 종종 나오는데요, 단순히 명절에 참석하라는 말이 아니라, 그 시간을 온전히 가족을 위해 쓰고, 가족들 옆에 있어주라는 의미가 포함되어 있습니다. 
+	* 애들이 금방 크는 건 막을 수 없겠지만, 애들이 자랄 때 옆에 함께 해줄 순 있어요. We can’t stop our children growing up so fast, but we can be present. 
+
 ## power
 * have power over their lives: 그들의 삶의 주도권을 가지다. 자신의 삶을 결정할 수 있는 힘을 가지다.                                
 
@@ -1114,6 +1134,12 @@
 * in all senses of the word = 어느 모로 봐도 / 어느 점으로 봐도; sense 는 감각뿐만 아니라 ‘점, 면, 의미’를 뜻하기도 합니다. 그래서 이 표현은 ‘그 단어가 의미하는 어떤 부분을 보아도’를 말하고 주로 문장 안에 그 단어를 지칭하는 구체적인 말이 따라옵니다. 
 	* 그는 어떤 면으로 봐도, ‘훌륭한 사람’ 그 단어 자체야. He is a fine man, in every sense of the word.
 
+## stroke
+* stoke은 ‘불에 연료를 더 넣다’라는 뜻의 동사인데, 사람의 감정, 생각, 현상 등에 쓰이면 그것이 더 활활 타오르게 만들다, 즉 부추기다, 돋우다라는 의미가 됩니다. 
+	* 그는 불을 더 때려 하고 있다. He’s trying to stoke up the fire.
+	* 그것은 젊은이들 사이에서 큰 열정을 부추겼다. It has stoked great passions among young people.
+	* 그건 분노와 혼란을 부추길 뿐일거야. That would only stoke up anger and confusion.
+
 ## serve
 * 자신의 생각을 일기장에 써본다면 도움이 된다고 말하면서 you serve yourself 라고 하였습니다. 이 표현은, 자신에게 도움이 되는 행위를 하다라는 뜻입니다. 여기에 if+문장을 넣어서 if 뒤를 할 경우, 너에게 도움이 될 것이다라고 구체적으로 표현해 주면 됩니다.
 	* 자기 전에 물 한잔 마시면 너에게 아주 좋을 거야. You would serve yourself if you drink a cup of water before going to bed.
@@ -1128,6 +1154,10 @@
 	* 쉬운 걸로 시작해보죠. Let's start off with an easy one.
 * kick-start 의 원래 의미는 오토바이처럼 무언가를 힘껏 밟아 시동이 걸리게 하는 [시동 방식] 을 의미하는데요. 그 의미의 연장선으로 무언가에 발동을 걸리도록 하는 것을 a kick-start 라고 합니다.
 	* 내 삶에 추진력이 필사적으로 필요해. ex) I desperately need a kick-start for my life.
+
+## shoot
+* "금액을 제시해 보세요."  "Shoot me an offer" 여기서 shoot me는 날 쏘라는게 아니고, ‘주다, 건내주다’입니다. 그래서 바꿔 말하면 give me an offer 입니다. 
+		* 빵 좀 줘. Shoot me some bread.  Don’t forget to shoot me an email! 
 
 ## shove
 * ~에게 ~을 억지로 강요하다 = shove something down someone's throat 별로 관심도 없는데 반복적으로 말하고, 무언가를 보여줌으로써 강요하는 것을 의미하는 표현입니다.  shove 가 [떠밀다] 라는 뜻이 있으니 목구멍(throat) 속으로 무언가를 억지로 떠먹여서 어쩔 수 없이 받아들이도록 하는 뉘앙스의 표현이에요.
@@ -1145,6 +1175,8 @@
 ## skin
 * 자신의 모습 그대로 행동해도 편안하고 당당하다는 뜻의 표현으로 여기서 own skin 은 [자기 본연의 모습] 을 비유합니다. good/comfortable in one’s skin = 자기 자신의 모습대로 행동해도 편안하다 
 	* 자신의 모습에 당당할 수 있는 방법을 찾는 것이 중요해요.  It’s important to find ways to feel comfortable in your own skin.
+* skin deep 은 직역하면 [피부만큼 깊은] 인데요. 피부가 깊어봐야 얼마나 깊겠어요. 딱 눈에 보이는 만큼이기 때문에, 눈에 보이는 피상적인 것을 의미할 때 skin deep 이라고 합니다. 그래서 more than skin deep 은 관용적 표현으로 [눈에 보이는 것보다 더 중요한, 외모 이상의] 이라는 의미로 많이 쓰이고요. 비슷한 표현으로 more than meets the eye 가 있으니 함께 알아두세요!
+	* 진정한 미는 외모 이상의 것입니다. ex) True beauty is more than skin deep.
 
 ## soldier
 * 나아가다; She soldiers on
@@ -1183,6 +1215,8 @@
 * 어떻게든 내것으로 가져오는 느낌
 * : 직역하면 뭔가를 '너무 멀리까지 가져가다'라는 뜻인데요. '오버하다', 뭔가를 '과하게 하다', 혹은 '선을 넘다'라는 말이에요! 이 가사도 '우리가 이성을 놓다가 너무 심각한/과한 짓까지 저지르면-' 이라는 뜻이죠; take it (way) too far
 	* 핀이 농담을 [안 좋을 정도로] 너무 과하게 해댔어. Finn took it way too far with the jokes.
+* 자청해서 을 하다. = take it upon oneself to V
+	* 그녀는 두 마리 개를 자청해서 돌봤다. ex) She took it upon herself to take care of both dogs.
 
 ### take down
 * 먼저 'Take down'은 기본적으로 '사람이나 사물을 아래로 데려가다' 라는 의미를 가지고 있습니다. 여기에서, '누군가를 어떤 지위에서 끌어내리다', '글자그대로 사람이나 사물을 위에서 아래로 데려가다, 가져가다', '바지를 내리다' 라는 뜻과 '글을 적어내려가다 라는 의미에서 을 적다, 받아적다' 라는 뜻으로 사용됩니다.
@@ -1323,3 +1357,5 @@
 * 사물의 무게를 물어볼 때 How heavy is it?라고 묻는 것은 괜찮지만 사람에게 How heavy are you?라고 하지 않는 것이 좋습니다. 예의에 어긋나게 들릴 수도 있거든요. 그 대신 How much do you weigh? What is your weight? 라고 해야 합니다. 물론 민감한 주제일 수도 있으니 웬만해선 몸무게를 묻지 않는 것이 낫겠죠?
 * weigh apples, weigh fish 처럼 어떤 것의 무게인지 목적어를 꼭 써야 합니다. 혹은 자신의 체중을 잰다고 할 때는 weigh oneself with/on the scale 이라고 합니다.
 	* ㅍShe weighs herself every morning.
+* 운동선수가 체중을 측정하는 것을 weigh in 이라고 하는데요, 문맥상 토론, 언쟁일 경우에는 자신의 의견을 강하게 피력하는 것을 말합니다. 
+	* 모두가 토론에 달려들어 자신의 의견을 주장했다. Everybody weighed in on the debate. 

@@ -62,7 +62,8 @@ I have a big crush on you / I have a thing for you, i'm into you
 * 바람피다; cheat on someone
 	* 바람 피는 상대; side chick = mistress
 	* 1) [바람을 피우다] 라는 의미를 가진 표현에는 크게 have an affair (with) 와 cheat on + 사람 이 있어요.  2) affair 는 [일/사적인 일/불륜 관계] 등의 의미가 있는데요, have an affair 은 '결혼한 사람' 또는 '사실혼 관계에 있는 사람' 이 며칠에서 길게는 몇년의 '기간' 과 '감정' 을 가지고 바람을 피우는 걸 의미하는 반면에,   3) [cheat on + 사람] 은 [를 속이고 바람을 피우다] 라는 의미로, '결혼한 사람' 과 '결혼하지 않은 여친/남친' 관계에 있는 사람이 다른 사람과 꼭 감정이 없어도 성관계를 하는 것을 의미합니다. 예를 들면, 원나잇 스탠드 같은 경우 cheat 이라고 하지, affair 라고 하지 않습니다.
-* 남자는 많아; there are lots/plenty of fish in the sea/ocean
+	* Casanova도 호색가지만 여러 여자와 ‘사랑’에 빠지는 스타일인데 반해, womanizer는 감정 없이 이여자 저여자 건드리고 다니는, 소위 ‘계집질’에 가까워서 경멸의 어감이 강합니다. 그래서 인터뷰어가 해리에게 womanizer냐고 물은 것은 꽤 기분이 언짢을 수 있는 질문입니다.
+	* 남자는 많아; there are lots/plenty of fish in the sea/ocean
 * 잊다; finally over somebody
 	* i haven't abeen able to get past it
 	* move on
@@ -382,7 +383,7 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #꼬들꼬들? #불은게? Do you like the noodles #al dente or well done? 
  * 너가 미나즈를 원한다면 난 쓰리섬도 돼 If you wanna Minaj, I got a tricyle(menage a trois: 쓰리섬)
  * meɪ|nɑ:Ʒ] a trois [ɑ:-trwɑ́:]: 셋이서 하는
- * #생식기 #genitals = #female/#male sex #organs
+ * #생식기 the genitals = private parts = #female/#male sex #organs
  	* - reproductive organs 생식기관 - reproductive years 임신 가능 기간 - reproductively challenged 난임인 특히 마지막 reproductively challenged는 ‘생식적으로 장애가 있는’을 뜻하는 말로 아예 아이를 가질 수 없는 ‘불임’보다 부드러운 어감을 가지고 있고 좀 더 수준 높게 표현하는 방법이니 알아두시면 좋겠네요. 
  		* 우리는 불임이 아니야. 단지 좀 생식적으로 약간 문제가 있는 것 뿐이라고. We're not barren, we're just reproductively challenged.
  * 여자 성기 virginia; clits #twat slang: coochie ; coochie melt: 젖다 | 
@@ -475,126 +476,126 @@ I have a big crush on you / I have a thing for you, i'm into you
  * ##현자타임
  * #DTR; define the relationship; just dating -> 커플
  * 애인; lover; (남자) boyfriend; (여자) girlfriend
- * #shipping; 커플이 되는; I want to ship Jessica and Jason; 사귀었으면 좋겠다(relationship)
- * see someone(#간보기) -> date someone -> go out with someone(사귀다)
- * #떠보다 #간보다 #feel out; feel someone out
- * 데이트 신청: ask sb out #대시; #man up; 남자답게 대시 #woman up; 우유부단하게 내빼지 말고 
- * #구애받다; #woo; you're being #wooed
- * 신세대 여성처럼 행동하라
- * #나쁜 여자 #trick tease
- * 사귄지 얼마나 됐어? how long have you been going out?
- * 누가 먼저 사귀자고 했어?/ Who asked who out?
- * ~에 대한 애정 love for ~
- * #애정; #affection, #love, #attachment - 애정 
- * #총애; favor, affection, favor 총애를 받다 be a favorite (with)
- * #애정행각; #꽁공장소 애정행각; #public display of affection(#affection) 	
- * #애정표현 #showing affection
- * 사귀다:							 go out with, are dating, in a relationship
- * #make a boyfriend xxx -> have a girlfriend	
- * We've been dating for 200 days, we've been in a relationship for 200 days, = we've been together for 200 days, ~ is #Romantically involved(#involve) with ~ = #keep company with
- * 사귀자 									 Be mine
- * 사귈 준비 되있어; ready to #mingle
- * 정식으로 사귀다; Are you guys #official? = They are afficial now.= They're an item.
- * 사귀는거 아니야 We are just not #lovers -> there is nothing oing on between us
- * #애인 있으세요? 						 Are you in a relationship?
- * 1. move on ~주제 2. move on i’m happy that Penny’s moving on(새로운 사람 만나다)
- * 데이트 신청하려고, #데이트 중이야 	 I'll ask her out. i'm dating 명사. I’m going out with her.
- * #shut down; she shut me down
- * 그건 데이트로 안쳐 						 That doesn't count as a date.	
- * Will you go out with me?, would you go on a date with me?, Can I take you out on a date
- * Can I take you out for a dinner? Do you want to grab drinks tognight
- * 우리 만난지 3년이냐 					 We've been together for three years
- * 그들은 5년동안 사귀고 헤어지며 사귀고 있다 	 They’ve been dating on and off for five years
- * 너 만나는(썸) 여자 있어 							 Are you seeing anyone?
- * 우리 지금 썸타는 거 같은데 					 There’s something between us.
- * 아직 누굴 사길 생각은 없어 			 I’m not looking for something serious right now.
- * #너 뿐; #뿐이야; i'm #all about you
- * #양다리 걸치지마!!							 Don't be a two-timer!!
- * 너 그남자랑 사귄적 있어? 					 Have you ever been with him? 
- * 너네 사귀지; are you guys going out?
- * 우리 사귀는거 아니야; we don't get no #label
- * 저 애들 사귀잖아							 They are an #item. 
- * #늘 만나는데 있어 						 We are at our usual hangout.
- * 나는 대화하면서 그가 Catfish라는 걸 깨달았다. I realized he was a catfish early into the conversation.
- * 	데이트 등의 목적으로 가짜 프로필을 만들어 가상의 인물로 행동
- * #build up profile; #profile; #프로필
- * 곧 다시 만나게 되길 바랍니다 					 Hopefully we'll cross paths soon. 
- * 걔는 절대 만나고 싶지 않아. 					 He’s the last person I want to see. 
- * 좋은 여자 좀 소개시켜줘. 							 Find me a nice girl. 
- * 오늘 밤 만나는거 맞죠? 						 Are we still on for this evening?
- * 영어표현 세상에 여자는 많아요! 					 There are a lot of fish in the sea.
- * 마켓에서 친구 한명을 만났어	 ! 예상치 못하게 I came across one of my friend in a market.
- * 그녀는 좋은 여자친구가 될거야					 She'll make a great girlfriend.
- * 잘 못봐 								 I don’t get to see much of him. 
- * 나보다 좋은 사람 만나야해 				 You deserve someone better than me. 
- * #했다 #자다 #집적대다 #여자 #만나다 #사귀다 #애인
+ 	* 사귀다; We're boyfriend girlfriend; Are you seeing someone? 
+	 * #shipping; 커플이 되는; I want to ship Jessica and Jason; 사귀었으면 좋겠다(relationship)
+	 * see someone(#간보기) -> date someone -> go out with someone(사귀다)
+	 * #떠보다 #간보다 #feel out; feel someone out
+	 * 데이트 신청: ask sb out #대시; #man up; 남자답게 대시 #woman up; 우유부단하게 내빼지 말고 
+	 * #구애받다; #woo; you're being #wooed
+	 * 신세대 여성처럼 행동하라
+	 * #나쁜 여자 #trick tease
+	 * 사귄지 얼마나 됐어? how long have you been going out?
+	 * 누가 먼저 사귀자고 했어?/ Who asked who out?
+	 * ~에 대한 애정 love for ~
+	 * #애정; #affection, #love, #attachment - 애정 
+	 * #총애; favor, affection, favor 총애를 받다 be a favorite (with)
+	 * #애정행각; #꽁공장소 애정행각; #public display of affection(#affection) 	
+	 * #애정표현 #showing affection
+	 * 사귀다:							 go out with, are dating, in a relationship
+	 * #make a boyfriend xxx -> have a girlfriend	
+	 * We've been dating for 200 days, we've been in a relationship for 200 days, = we've been together for 200 days, ~ is #Romantically involved(#involve) with ~ = #keep company with
+	 * 사귀자 									 Be mine
+	 * 사귈 준비 되있어; ready to #mingle
+	 * 정식으로 사귀다; Are you guys #official? = They are afficial now.= They're an item.
+	 * 사귀는거 아니야 We are just not #lovers -> there is nothing oing on between us
+	 * #애인 있으세요? 						 Are you in a relationship?
+	 * 1. move on ~주제 2. move on i’m happy that Penny’s moving on(새로운 사람 만나다)
+	 * 데이트 신청하려고, #데이트 중이야 	 I'll ask her out. i'm dating 명사. I’m going out with her.
+	 * #shut down; she shut me down
+	 * 그건 데이트로 안쳐 						 That doesn't count as a date.	
+	 * Will you go out with me?, would you go on a date with me?, Can I take you out on a date
+	 * Can I take you out for a dinner? Do you want to grab drinks tognight
+	 * 우리 만난지 3년이냐 					 We've been together for three years
+	 * 그들은 5년동안 사귀고 헤어지며 사귀고 있다 	 They’ve been dating on and off for five years
+	 * 너 만나는(썸) 여자 있어 							 Are you seeing anyone?
+	 * 우리 지금 썸타는 거 같은데 					 There’s something between us.
+	 * 아직 누굴 사길 생각은 없어 			 I’m not looking for something serious right now.
+	 * #너 뿐; #뿐이야; i'm #all about you
+	 * #양다리 걸치지마!!							 Don't be a two-timer!!
+	 * 너 그남자랑 사귄적 있어? 					 Have you ever been with him? 
+	 * 너네 사귀지; are you guys going out?
+	 * 우리 사귀는거 아니야; we don't get no #label
+	 * 저 애들 사귀잖아							 They are an #item. 
+	 * #늘 만나는데 있어 						 We are at our usual hangout.
+	 * 나는 대화하면서 그가 Catfish라는 걸 깨달았다. I realized he was a catfish early into the conversation.
+	 * 	데이트 등의 목적으로 가짜 프로필을 만들어 가상의 인물로 행동
+	 * #build up profile; #profile; #프로필
+	 * 곧 다시 만나게 되길 바랍니다 					 Hopefully we'll cross paths soon. 
+	 * 걔는 절대 만나고 싶지 않아. 					 He’s the last person I want to see. 
+	 * 좋은 여자 좀 소개시켜줘. 							 Find me a nice girl. 
+	 * 오늘 밤 만나는거 맞죠? 						 Are we still on for this evening?
+	 * 영어표현 세상에 여자는 많아요! 					 There are a lot of fish in the sea.
+	 * 마켓에서 친구 한명을 만났어	 ! 예상치 못하게 I came across one of my friend in a market.
+	 * 그녀는 좋은 여자친구가 될거야					 She'll make a great girlfriend.
+	 * 잘 못봐 								 I don’t get to see much of him. 
+	 * 나보다 좋은 사람 만나야해 				 You deserve someone better than me. 
  * ☆~가 좋아요; #i like the fact that I can live i
  	* 흠모; adore Mr.Brown
 	 * ☆What got in you interested in ~ / What interests you about ~ 
 	 * 사랑해 I love you to the moon and back
 	 * 할말, 고백할 게 있어				 get off; I have to get some things off my chest
- * 몸에 좋다 			 it's good for you it's healthy, it's good for 설명(circulation)
- * ☆좋아 하지 않다. I'm not crazy about it, It's just not for me, I'm not a big fan of that, i'm not into that
- * 설레다 pit a pat = heart bounce, my heart goes pit a pit, you make my heart bounce, my heart flutter, I get butterflies, you give me butterflies
- * #편애 										I don't favor her
- * 편애를 받는 학생; #teacher's pet
- * #play favorites
- * #teacher's pet
- * 어떻게 사랑이 변하니? How can your love for me change?
- * #짝사랑 				 one-sided crush on ~ / have a crush on ~
- * #unrequited love; I have an unrequited love for her
- * what would you recommend, could you recommend
- * 너가 ~하면 좋지 #추천							 it's (even) better if you
- * could use ~, * I want to ~, I should, I think it would be better to ~
- * I love you: 친구, 부모님에게는 괜찮지만 이성에게는 결혼정도의 의미
- * I love you에 대한 대답에 me too는 I love myself라는 뜻이므로 I love you too의 대답이 맞음
- * 이상하게 나쁜남자를 좋아해 					 she has a thing for bad boys
- * (왠지 모르게, 대중적이지 않을 수 있는 성향이지만) 좋아하다 			have a thing for
- * 를 좋아하지 않다 							 I'm not (big) fan of __
- * #두근 거리다 									 get butterflies
- * 관심있다, 좋다 			 I have a personal interst in you I dig you | I dig your style
- * 이 방에 관심있는 사람이 누구에요? Which is the one who you have a crush on in this room?
- * to be #sweet on someone; 
- * 너 혹시 좋아하는 사람 있어? 					 Are you crushing on anyone?
- * 그 친구를 점점 좋아하게 됐어요 					 He’s starting to grow on me.
- * 너에게 뿅갔어 								 I'm crazy about you.
- * 넌 내 #반쪽이야 							 You;re my other half
- * 널 위해서라면 모든지 할 수 있어 			 I would give everything to be with you.
- * 너 때문에 심쿵이야 						You make my heart skip a boat
- * 너에게 푹 빠져버렸어(고백)					 I'm head over heels for you
- * *언제 고백할거야 					 When are you gonna ask me out?
- * 너 없이는 못살아 							 I can't live without you
- * 나 너한테 미쳤어							 I'm crazy about you
- * 넌 내 세상의 전부야						 You mean the world to me 
- * 넌 나를 완성시켜 							 You complete me
- * 그들이 뭐가 그리 좋은거야?					 What makes them so #likable
- * #마음을 뻈었다; you've stolen my heart, you #steal my every #breath
- * 당신에게 완전 #반했습니다. / 관심이 있습니다. 	 take a shine to somebody/something 
- * I have a big crush on you / I have a thing for you, i'm into you
- * be #infatuated with someone
- * 당신이 좋아요. 							I'm into you. I had a crush on her.
- * 그때가 좋았어. 								 Those were the days.
- * 걔 지금 너한테만 관심 있어. 						 He only has eyes for you. 
+	 * 몸에 좋다 			 it's good for you it's healthy, it's good for 설명(circulation)
+	 * ☆좋아 하지 않다. I'm not crazy about it, It's just not for me, I'm not a big fan of that, i'm not into that
+	 * 설레다 pit a pat = heart bounce, my heart goes pit a pit, you make my heart bounce, my heart flutter, I get butterflies, you give me butterflies
+	 * #편애 										I don't favor her
+	 * 편애를 받는 학생; #teacher's pet
+	 * #play favorites
+	 * #teacher's pet
+	 * 어떻게 사랑이 변하니? How can your love for me change?
+	 * #짝사랑 				 one-sided crush on ~ / have a crush on ~
+	 * #unrequited love; I have an unrequited love for her
+	 * what would you recommend, could you recommend
+	 * 너가 ~하면 좋지 #추천							 it's (even) better if you
+	 * could use ~, * I want to ~, I should, I think it would be better to ~
+	 * I love you: 친구, 부모님에게는 괜찮지만 이성에게는 결혼정도의 의미
+	 * I love you에 대한 대답에 me too는 I love myself라는 뜻이므로 I love you too의 대답이 맞음
+	 * 이상하게 나쁜남자를 좋아해 					 she has a thing for bad boys
+	 * (왠지 모르게, 대중적이지 않을 수 있는 성향이지만) 좋아하다 			have a thing for
+	 * 를 좋아하지 않다 							 I'm not (big) fan of __
+	 * #두근 거리다 									 get butterflies
+	 * 관심있다, 좋다 			 I have a personal interst in you I dig you | I dig your style
+	 * 이 방에 관심있는 사람이 누구에요? Which is the one who you have a crush on in this room?
+	 * to be #sweet on someone; 
+	 * 너 혹시 좋아하는 사람 있어? 					 Are you crushing on anyone?
+	 * 그 친구를 점점 좋아하게 됐어요 					 He’s starting to grow on me.
+	 * 너에게 뿅갔어 								 I'm crazy about you.
+	 * 넌 내 #반쪽이야 							 You;re my other half
+	 * 널 위해서라면 모든지 할 수 있어 			 I would give everything to be with you.
+	 * 너 때문에 심쿵이야 						You make my heart skip a boat
+	 * 너에게 푹 빠져버렸어(고백)					 I'm head over heels for you
+	 * *언제 고백할거야 					 When are you gonna ask me out?
+	 * 너 없이는 못살아 							 I can't live without you
+	 * 나 너한테 미쳤어							 I'm crazy about you
+	 * 넌 내 세상의 전부야						 You mean the world to me 
+	 * 넌 나를 완성시켜 							 You complete me
+	 * 그들이 뭐가 그리 좋은거야?					 What makes them so #likable
+	 * #마음을 뻈었다; you've stolen my heart, you #steal my every #breath
+	 * 당신에게 완전 #반했습니다. / 관심이 있습니다. 	 take a shine to somebody/something 
+	 * I have a big crush on you / I have a thing for you, i'm into you
+	 * be #infatuated with someone
+	 * 당신이 좋아요. 							I'm into you. I had a crush on her.
+	 * 그때가 좋았어. 								 Those were the days.
+	 * 걔 지금 너한테만 관심 있어. 						 He only has eyes for you. 
  * 설레다 					 pit a pat;my heart goes pit a pat, heart bounce/flutter
  * #설레지 마 심쿵하지 마 행복하지 마 내 눈에 띄지 마 ‘flʌtə(r) ’vɪƷn
  	* 심쿵했어요; My heart just melted
 	 * Don’t have your heart flutter, don’t have a heart attack, Don’t come into my vision
 	 * *너 볼때마다 심쿵해 						 You make my heart beat faster
  * 심장이 뛰다								 his heart throbbing
- * *난 너 볼때마다 #가슴이 #떨려 	 I get butterflies everytime I see, so thrilled, give me butterflies
- * 내 심장 멎을뻔 했어			My heart stood still, my heart almost stopped beating
- * 너 항상 날 웃게 만들어					 You always put a smile on my face
- * 너 덕분에 하루하루가 즐거워 					You alwsays make my day better
- * 나는 새로운 취미로 급류 타기에 관심을 갖기도 했다. 				 관심을 갖다
- * I decided to take up white water rafting as a new hobby.
- * 캠핑 좋아하지 않다 						 I'm not keen on camping
- * 나 스타벅스에 정들었어 							I’m fond of the starbucks
- * ##정이 들다 							 She's already ##attached to him
- * have a #special place in my heart
- * #build out #friendship
- * #좋아하게 되다; #take a fancy to(#fancy)
- * #relish; I have little relish for insects
- * #옛정을 생각해서 #for old time sake
+	 * *난 너 볼때마다 #가슴이 #떨려 	 I get butterflies everytime I see, so thrilled, give me butterflies
+	 * 내 심장 멎을뻔 했어			My heart stood still, my heart almost stopped beating
+	 * 너 항상 날 웃게 만들어					 You always put a smile on my face
+	 * 너 덕분에 하루하루가 즐거워 					You alwsays make my day better
+	 * 나는 새로운 취미로 급류 타기에 관심을 갖기도 했다. 				 관심을 갖다
+	 * I decided to take up white water rafting as a new hobby.
+	 * 캠핑 좋아하지 않다 						 I'm not keen on camping
+	 * 나 스타벅스에 정들었어 							I’m fond of the starbucks
+	 * ##정이 들다 							 She's already ##attached to him
+	 * have a #special place in my heart
+	 * #build out #friendship
+	 * #좋아하게 되다; #take a fancy to(#fancy)
+	 * #relish; I have little relish for insects
+	 * #옛정을 생각해서 #for old time sake
  * #반하게하다; #swept off one's feet
 	 * 반하다; i'm #smitten with you; #smite; 갑자기 홀딱 방하다
 	 * 그냥 빠져봐; Just dive right in

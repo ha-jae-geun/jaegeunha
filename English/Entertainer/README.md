@@ -221,7 +221,9 @@
 * #heartthrobs; 영화계를 장학할 준비가 되었다 heartthrobs ready to #dominate screen; #동경 ; #연예인
 * #entertainer; 여러 분야, #comedian
 * #스타를 낳다; #launched a new star
-* 왕년에 스타; #has-been; he's way too good at acting to be called a has-been
+	* 왕년에 스타; #has-been; he's way too good at acting to be called a has-been
+	* 새총이나 투석기(돌을 멀리 던지는 장비)를 catapult 이라고 하는데요, 그것처럼 첸의 커리어를 순식간에 상승시켰다는 이야기 입니다.  (참고: 새총은 미국권에서는 slingshot 이라고 합니다!)
+		* 그녀의 새 앨범은 그녀를 거의 하루 아침에 국민적 스타덤에 올렸다. Her new album catapulted her almost overnight into national stardom.
 * #인터뷰; have a #interview with ~
   * Interview is carried out / conducted/done
 * #sit-down interview

@@ -56,6 +56,9 @@
 
 # 관심
 * 마카오가 홍콩보다 더 늦게 발전하였다는 것을 재미있게 표현하였네요. 여기서 나온 steal the spotlight는 ‘주목을 끌다, 관심을 빼앗다’를 의미합니다.  이와 비슷한 표현으로 steal one’s thunder 가 있는데요, 자신이 무언가를 하려던 참에 남이 선수쳐서 관심과 주목을 빼앗아 간다는 뜻입니다. 예를 들어 자신의 임신소식을 주변 사람에게 말하려고 했는데 그 전에 누군가가 임신 소식을 터뜨려서 본인이 관심을 받지 못하게 되는 상황이 이런 경우에요.
+ 
+# 기대
+* Dyke는 심지어 기대에 미치지도 못했다. Dyke can't even cut the mustard . 듣기
 
 # 기억
 * 주어로는 옛날 생각을 나게 만드는 대상을 쓰면 됩니다. 혹은 영상에서처럼 “야, 옛 생각 나네!” 처럼 간단하게 주어를 생략해서 표현할 수도 있겠네요. (It) brings back memories; Wow, it just brings back a lot of memories.
@@ -123,6 +126,12 @@
 * 원점으로 되돌아오다; i've come full circle
 * 'take back'은 무언가를 '되돌려놓고' '다시 가져다놓는다'는 개념이에요. 물건을 'take back'하면 다시 가져오고, 반환한다는 의미이고, 말, 의견 등을 'take back'하면 취소한다는 뜻입니다. 사람을 'take back'할 경우 대개 어떤 장소로 다시 데려다주는 것이며, 시간상에서는 본문처럼 '과거로 돌아가서 생각해보고, 과거를 떠올리고 회상한다'는 의미가 됩니다. 
 	* 잠시 어린 시절로 돌아가보세요. Take yourself back to your childhood again for a moment.
+* 강제로 추억 소환하게 되는 노래, 사진, 영화.. 몇 개 있으시죠? throwback 도 이전의 추억을 떠올리게 해주는 것들을 의미하는 명사입니다. 뒤에 다른 명사를 써서 throwback song 등으로 쓰기도 해요. 요즘엔 SNS 에서 #throwback 이라고 해시태그를 걸고 예전 사진을 많이 올리기도 하죠. throw back 이라고 띄워서 쓰게 되면 동사로 생각, 시간 등을 [거슬러 올라가다] 라는 의미를 가지기도 한답니다.
+	* 이 노래를 들으면 항상 추억 돋아. ex) Listening to this song is always a throwback.
+
+# 따르다
+* : 발자취(footsteps)를 따른다는 것으로 ‘뒤를 따르다, 본받다, 뜻을 잇다’ 등으로 해석할 수 있습니다. 여기서 전치사 in을 꼭 써야 합니다. 만약 I followed his footsteps. 라고 하면 그의 발자국 소리를 듣고 뒤를 따라갔다는 것이기 때문에 의미가 달라져요.
+	* 나는 우리 언니의 뜻을 이어서 여학생 모임에 가입하려고 해. I am following in my sister's footsteps and joining the sorority.
 
 # 리스트
 * 리스트에서 그건 뺴자; Crossing that one off the list; cross off: 줄을 그어 지우다.
@@ -149,7 +158,11 @@
 	* 요즘에 늑장 좀 피우는 중이야. ex) I've been procrastinating recently.
 * 앞서 배운 procrastinate 는 해야할 일을 아예 안 하면서 나중으로 미루는 것을 의미하는 반면, slack off 은 하긴 하는데 하는 둥 마는 둥, 열심히 하지 않으며 게으름을 피우는 것을 의미해요. slack off 이 일상 생활에서는 더 많이 쓰이는 표현이기도 하고요. 그룹 과제나 직장 팀원들 중에 조금 뺀질뺀질 하는 둥 마는 둥 하는 사람들 있죠? 머릿속에 한두명 떠오르시나요? ㅎㅎ 그런 사람들을 slacker 라고 한답니다. 
 	* 난 학교에 빈둥거리러 가. ex) I go to school to slack off.
+* 그 계획을 보류시켰따; The shelved that plan
 
+# 믿다
+* = 속는 셈 치고 믿다, 유리하게 해석하다  give someone the benefit of the doubt 2) 그렇지만 단어를 하나하나씩 뜯어본다면, 듣는 사람이 말하는 사람의 말을 완전히 다 믿지는 않기에 의심(doubt) 을 하지만, 그중에서 그럴싸한 내용을 믿는다던가 최대한 긍정적으로 그 말을 해석을 함으로써 말하는 사람에게 혜택(benefit) 을 주는 모습에서 나온 표현입니다.
+	* = 이번엔 그냥 속는 셈 치고 한 번 믿어봐. Just give me the benefit of the doubt this time, please.
 
 # 받아들이다
 * 그녀는 아직도 아들의 죽음을 받아들이려고 애쓰고 있다. She is still coming to terms with her son’s death.;  (좋지 않은 일을) 받아들이는 법을 배우다[받아들이려고 애쓰다]
@@ -212,6 +225,10 @@
 	* 대학 졸업 후 구직할 때, 너무 눈높이를 높게 잡지 마.  When you try to get a job after college, don’t set the bar too high.
 * -의 상태가 어느 지점까지 간다; it gets to the point where 
 
+# 쉬다
+* 컴퓨터가 갑자기 작동이 안 되고 멈췄을 때 우리말로도 컴퓨터 '다운됐다'라고 하는데요. 컴퓨터 등이 작동을 하다가 멈춰서 쓸 수 없는 동안의 시간을 downtime이라고 하기도 합니다. 비슷하게 누군가 한창 일을 하다가 안 하고 쉬는 시간을 downtime이라고 한답니다.
+	* = 모두가 긴장을 풀 쉬는 시간이 필요해요. Everyone needs downtime to unwind.
+
 # 앞뒤
 * add up 은 '늘어나다'라는 뜻도 있지만, 부정문으로 쓰일 경우에 특히나 무언가 [앞뒤가 맞지 않고 말이 안 된다] 의 의미를 가집니다. It doesn't add up이라고 할 수도 있는데요. 무언가를 쌓아 올리려면 밑에 있는 것들이 잘 들어맞아야 하는데 그렇지 못한 모습을 연상하시면 될 것 같아요!
 
@@ -223,6 +240,10 @@
 # 어렵다
 * 기술 용어로 쓰일 때는 '하드웨어에 내장된 (그래서 유저가 손대기 어려운)'이라는 뜻인데요. 이렇게 어떤 반응/사고/행동/태도 따위를 얘기할 때는 인간의 본성에 '내장되어 있는, 본능적인, (그래서 어쩔 수 없고, 바꾸기 힘든)' 이라는 뜻을 지닙니다.
 	* 소통하는 것은 인간의 본능입니다. [ex] Humans are hardwired to communicate.
+
+# 영향
+* a ton of 은 무언가가 [굉장히 많은] 을 의미하는 비격식 표현인데요. 실제로 벽돌 (brick) 이 1톤 정도 자기 주변에 있다고 생각하면 아주 무겁고 답답하고, 힘들고 그럴 거예요. 그래서 la ton of bricks 는 [갑작스럽고 중요한 영향] 정도로 해석이 됩니다. 영상에서는 동사 [go over = 특정한 반응을 이끌어내다] 와 함께 쓰여서 직역하면 [용돈을 줄인 건 엄청난 영향을 이끌어냈다] 정도로 해석이 되지만 의역하여 [딸은 충격에 휩싸였죠] 로 해석이 되었습니다.
+	* 그 진실이 내겐 큰 충격으로 다가왔다. ex) The truth hit me like a ton of bricks.
 
 # 예시
 * 1) 여기서 go-to example은 ‘대표적인 예’로 해석할 수 있습니다. go-to는 어떤 것에 딱 맞는, 그래서 가서 찾게 된다는(go to) 의미로 쓰입니다. 예를 들면,
@@ -267,6 +288,7 @@
 # 일치
 * congruence (= congruency) = 일치성, 조화, congruent = 일치하는, 조화를 이루는 [ˈkɑːŋ-]  영국식 [ˈkɒŋɡruənt] 
 	* 다가오는 행사를 위해 모든 부서 간에 완벽한 조화가 정말로 필요합니다. ex) We absolutely need a perfect congruence between all the departments for this upcoming event.
+* 그 커튼은 방에 잘 어울린다. The curtain is in keeping with the room. 
 
 # 입장
 * shoes 는 비유적으로 ‘입장, 상태, 상황’을 말하죠. 그래서 step into their shoes 는 ‘그들의 입장에 서보다, 그들의 입장이 되어보다’입니다. 
@@ -281,11 +303,16 @@
 	* = 그들은 우리의 실수를 이용할 수 있었어. They were able to capitalize on our mistakes.
 * ~을 의도적으로 사용하다. ~을 가지고 놀듯 하다. 본인이 하고 있는 것을 더 잘하거나, 이익을 얻기 위해 사람이나 사물을 의도적으로 사용하는 것을 의미해요.
 	* 제이슨은 자신의 이익을 위해 레베카의 아이디어를 사용했다. ex) Jason played off Rebecca's idea to his own advantage.
-
+* 자신의 이익을 위해서 무언가를 사용하는 것을 의미하는 표현에서는 '책' 이 사람들의 경험을 사용하는 것이기 때문에 [사람들의 경험에 대해 이야기하다] 로 해석이 되었습니다.
+	* 네가 제한된 데이터를 활용한 건 정말 놀랍다. ex) It's amazing how you tapped into the limited data.
 
 # 자기
 * 자기관리! 하면 떠오르는 단어예요. discipline. 명사로는 [규율, 훈육] 또는 [수련법] 의 의미로 자주 쓰이며, 동사로는 [훈육하다] 또는 [스스로를 단련하다] 라는 의미를 가집니다. 형용사로 disciplined 는 [스스로 단련된, 규율을 가진, 잘 훈련된] 정도의  의미로 쓰여요. 이 영상에서는 discipline 중에서도 self-discipline에 대해 얘기하고 있기 때문에 [자기 절제], [절제력]이라고 번역했습니다.
 	* 제시카는 잘 훈련 받은 사람이란 걸 장담해요. ex) I can assure you that Jessica is a well-disciplined person.
+
+# 자발
+* 자청해서 을 하다. = take it upon oneself to V
+	* 그녀는 두 마리 개를 자청해서 돌봤다. ex) She took it upon herself to take care of both dogs.
 
 # 작용
 * 쉽게 설명하면 ‘플레이 되다’라고 이해하시면 됩니다. 주어로 온 그 대상이 재생, 시작된다는 거죠. 자주 쓰이는 표현이니 예문을 외워서 활용해 주세요.
@@ -347,6 +374,9 @@
 # 표준
 * 표준어; Standard american English
 
+# 피해
+* 아버지의 외도는 내 어린 시절 전체에 굉장히 안 좋은 영향을 끼쳤다. ex) My father's affair took a toll on my entire childhood.
+
 # 하찮은
 * [가장자리], 또는 주류에 포함되지 않는 [주변] 을 margin 이라고 합니다. 이 단어의 형용사형인 marginal 입니다.
 	* 이 변화가 지금은 별 거 아닌 것처럼 보일 수도 있지만, 나중에 우리에게 큰 도움이 될거야. ex) This change may look marginal for now, but I'm sure it will help us a lot later.
@@ -367,6 +397,10 @@
 
 # 흑역사
 * It's dark chapter in my life
+
+# 힘내
+* 1) 비격식 표현으로 육체적인 힘이나 정신적인 힘, 재정적인 것을 굉장히 많이 쓰는 것을 의미합니다. 젖 먹던 힘까지 짜내는 듯한 뉘앙스입니다. 깊이 (deep) 파 들어가는 것 (dig) 이니까요. 2) 뒤에 dig deep into something 라고 쓰이면 [무언가를 철저히 파고들다/조사하다] 라는 의미로도 쓰입니다.
+	* 더 힘을 내! 난 네가 더 잘 할 수 있다는 걸 알아. ex) Dig deep! I know you can do better.
 
 # 힘들다
 * 지미를 치과에 데리고 가는 건 정말 힘든 일이었지. aking Jimmy to the dentist was like pulling teeth . 듣기 출처:능률교육

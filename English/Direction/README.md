@@ -19,6 +19,7 @@
 * cross	walking, strolling, approaching, heading
 * lead path:	/ run + path: 길이 놓여있다.
 * 길을 알려드릴게요 	 I'll show you. follow me, I’ll give you the directions to ~
+	* 길좀 알려주세요; Just point me in the right direction; Could you just point me in the direction of his office?
 * The easiest /quickst way to ~ is 
 * #코너에서 꺾으세요 it's just around the corner = take the first/second/third left
 * 한 #블럭 가세요 go one block
@@ -51,7 +52,6 @@
 * 어디 가실려구요?	where would you like to go?" 
 * 백미터 정도 앞으로 가세요	wɔ:k streɪt 'hʌndrəd 'mi:tə(r)] Walk(go) straight for 100 meters.
 * 그리고 좌우회전하여 조금더 걸어가세요.	wɔ:k Then turn right(left) and keep walking
-
 * 목적지가 앞에 있을 것이다.	And it'll be in front of you.
 * 아니요 괜찮아요.	'pleƷə(r)] No problem. It's my pleasure 
 * 왼쪽으로 도세요 그리고 화장실이 보일때 까지 쭉 걸어가세요	streɪt ‘restru:m Turn left and then go straight till you can see the restroom.
@@ -68,6 +68,8 @@
 * fork: 도로・강 등이 갈라지다, 나뉘다 
 * 이쪽으로 쭉 가면 삼거리가 나옵니다 	fɔ:rk roʊd Go down this way, and you will come to a fork in the road. 
 * 다음 #사거리에서 좌회전하세요 	kr''ɔ́:sr'òud 'ɪntər''sekʃn Turn left[Make a left] at the next crossroads[intersection].
+
+# 중간
 * #로터리; #roundabout
 * #교차로	#Intersection #junction
 * 제가 가서 태워다 드까요?

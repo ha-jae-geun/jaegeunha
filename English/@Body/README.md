@@ -322,6 +322,7 @@ how dare you say such a thing #to my face
 
 # 얼굴
 * 쌍커풀	double eyelid; single eyelids / monolids
+	* 쌍꺼풀은 영어로 creased eyelids, eyelid creases, creases in eyelids 혹은 double eyelids 라고 합니다. crease는 ‘주름, 구김살’을 의미하는데요, 바지에 주름을 잡는 것도 crease trousers 라고 합니다. 반대로 홑꺼풀은 uncreased eyelids, single eyelids, monolids 등 표현법은 다양합니다. 그리고 아시아계 사람에게서 홑꺼풀이 많다고 하여 Asian eyelids, Mongolian fold, 혹은 찢어진 눈이라는 의미로 slanty eyes 라고도 하지만, 인종 차별적 표현이니 사용하지 않는 것이 좋습니다. 요즘에는 monolid라는 표현을 가장 많이 쓰는 것 같습니다.
 * 속눈썹	eyelash ['aɪlӕʃ]
 * 눈곱	sleep/sand/gunk
 * 눈곱 떼	Take out your eye booger.

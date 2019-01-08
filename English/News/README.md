@@ -10,10 +10,12 @@
 * 풋볼리크스
 
 * 소식을 알리다; break the nws; 파편이 퍼지는 모습에서 유래; 소식을 알리기 위해 부모님을 찾았다. i went my parents to break the news
-* 그 소식 듣고 반응이 어떘어요? How did he take the news?
+	* 그 소식 듣고 반응이 어떘어요? How did he take the news?
+	* the scoop 은 아직 대중에게 퍼지지 않은, 따끈따끈한 특종을 가리킵니다. 여기에 inside 가 붙으면서 내부 관련자만 아는, 감춰졌던 정보라는 의미가 더 부각되었습니다. 
+		* 야, 나 알렉스의 새 여친에 대한 최신 정보를 입수했어. Hey, I’ve got the inside scoop on Alex’s new girlfriend.
+		* 뉴스 있어? Is there any news? / Any news?
 * 독점: Exclusive:
-* 뉴스 있어? Is there any news? / Any news?
-* 현 시점 보도된 바에 따르면; As far as reports suggest at this stage
+	* 현 시점 보도된 바에 따르면; As far as reports suggest at this stage
 * 장안의 하제; The issue has become the talk of the town
 * 일단 제 50조가 효력을 갖기 시작하면; Once article 50 has been triggered
 * 현재 상황을 고려할 때; Given what's unfolding in Syria; Give n the fact that

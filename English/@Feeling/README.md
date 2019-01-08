@@ -4,29 +4,31 @@
 		* = 그는 회개의 심정으로 장애인들을 돕고 있다. He’s been helping handicapped people out of regret.
 * 감정 기복; 큰 감정 기복을 겪다; = be/ride on an emotional roller coaster; ex) She's been on an emotional roller coaster since she arrived.
 	* * 감전 기복; i'm tired of my mood swings
-* 기분을 상하게하다; bring someone down
-* 기분이 언짢아지다; Fans #get the hump when the team loses.  팬들은 (자기가) 응원하는 팀이 지면 기분이 언짢아진다.
-* #승부욕; 승부욕을 갖다; have a desire to win
-* 그 감정을 명확하게 드러내 보세요; Emote that
-* 잠시 틈을 두고 그 불이 사그라드게 두세요; let that fire die down, through a pause
-
+	* 기분을 상하게하다; bring someone down
+	* 기분이 언짢아지다; Fans #get the hump when the team loses.  팬들은 (자기가) 응원하는 팀이 지면 기분이 언짢아진다.
+	* #승부욕; 승부욕을 갖다; have a desire to win
+	* 그 감정을 명확하게 드러내 보세요; Emote that
 * 걱정을 누그러뜨랃; assuage;  [əˈsweɪdʒ]  +  걱정: worry, concern; 슬픔: grief, sadness
+
+* 잠시 틈을 두고 그 불이 사그라드게 두세요; let that fire die down, through a pause
+	* 또 다른 강렬한 감정은 시작하고 싶지 안항; Don't wanna start another fire
+
 * 기분 전환이 필요해; i need a diversion
-* 나는 지금 기분이 약간 이상하다. I'm in a weird headspace right now. 
-* #감정
-* ☆~의 감정이 병존하는 #ambivalent; i'm so ambivalent about this; 못 정하겟다
-* 감정 형용사 			 be excited, frustrated, pleased, interested, amazed that/to v
-* 그럴 기분 아니야 			 I'm not in the mood for 명사. I'm not in the mood to 행동
-* 기분 풀어 										Let it go
-* 벌어진 일에 대해 감정적으로 처리하는 중이에요 	 I’m still trying to process all that has happened
-* 내 기분이 어떨지에 대해 생각 안해봤어요? 		 Did you ever stop to think about my feeling?
-* 별 다른 감정 없는데; she's not the one i'm attracted to
-* 특별한 감정은 없엇어; no feelings involved; There were no feelings involved
-* 뭔가 스스로엑 ㅔ자신감이 있는 느낌이다; - has an air of confidence about her
-* 감정적으로 받아들이지 마 Don't take it #personally
-* 감정이 왔다갔따하다; my feelings hae been all over the place
-* 이용자 참여  나는 내 감정을 드러내지 않기로 정했다.  I choose not to wear my heart on my sleeve. 듣기
-* 막상 헤어지니 싱숭생숭해; i'm sitting on my feelings;
+	* 나는 지금 기분이 약간 이상하다. I'm in a weird headspace right now. 
+	* #감정
+	* ☆~의 감정이 병존하는 #ambivalent; i'm so ambivalent about this; 못 정하겟다
+	* 감정 형용사 			 be excited, frustrated, pleased, interested, amazed that/to v
+	* 그럴 기분 아니야 			 I'm not in the mood for 명사. I'm not in the mood to 행동
+	* 기분 풀어 										Let it go
+	* 벌어진 일에 대해 감정적으로 처리하는 중이에요 	 I’m still trying to process all that has happened
+	* 내 기분이 어떨지에 대해 생각 안해봤어요? 		 Did you ever stop to think about my feeling?
+	* 별 다른 감정 없는데; she's not the one i'm attracted to
+	* 특별한 감정은 없엇어; no feelings involved; There were no feelings involved
+	* 뭔가 스스로엑 ㅔ자신감이 있는 느낌이다; - has an air of confidence about her
+	* 감정적으로 받아들이지 마 Don't take it #personally
+	* 감정이 왔다갔따하다; my feelings hae been all over the place
+	* 이용자 참여  나는 내 감정을 드러내지 않기로 정했다.  I choose not to wear my heart on my sleeve. 듣기
+	* 막상 헤어지니 싱숭생숭해; i'm sitting on my feelings;
 * 악감정 있어; There's been bad blood between
 * 기분을 좋게 해주는 사람이 될 거예요; Gonna be the one who can elevate; elevate/lift one's spirit
 	* 기분이 너무 좋아요; i'm tickled pink
@@ -1741,18 +1743,19 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * 성질을 좀 죽여요. 							 Control your temper.
 * 당신이 참으세요. 								 Let it go. 
 * ~을 피하려 온갖 변명을 해보다 try every excuse to get out of
-* 이제 그런 #변명은 안 통해요. 				 You can't pull that on me anymore. 
-* 변명하지 마세요. 							 Don't make excuses. 
-* #cop-out ; #회피; #꽁무늬 빼다; #cop out (of something)
-* #evasive; his testimony was characterized as evasive
-* #핑게대지마 							 Don’t give me any excuses
-* ☆No excuses! Stop making excuses! There's no excuse for ~ That's no excuse for ~
+	* 훌륭한 변명이네; That's a wonderful cover story
+	* 이제 그런 #변명은 안 통해요. 				 You can't pull that on me anymore. 
+	* 변명하지 마세요. 							 Don't make excuses. 
+	* #cop-out ; #회피; #꽁무늬 빼다; #cop out (of something)
+	* #evasive; his testimony was characterized as evasive
+	* #핑게대지마 							 Don’t give me any excuses
+	* ☆No excuses! Stop making excuses! There's no excuse for ~ That's no excuse for ~
 * 저한테 불만 있어요? 					 Do you have a problem with me? 
-* 저한테 투정 좀 그만 부리세요. 					 waɪn Stop whining at me. 
+	* 저한테 투정 좀 그만 부리세요. 					 waɪn Stop whining at me. 
 * 잘못되면 어떻게 하죠? 						What if something goes wrong? 
-* 손 #떨리는 것 좀 봐요. 						 Your hands are trembling. 
-* 안절부절 I'm in ##jitters
-* 마음이 조마조마해요. 						 I have butterflies in my stomach.
+	* 손 #떨리는 것 좀 봐요. 						 Your hands are trembling. 
+	* 안절부절 I'm in ##jitters
+	* 마음이 조마조마해요. 						 I have butterflies in my stomach.
 	*  You seem very jumpy; What are you so jumpy about?
 	* 초조해서 미칠 것 같아요.						 I'm on the edge of my seat. 
 * 겁나 죽겠어요. 								 I'm scared to death. 

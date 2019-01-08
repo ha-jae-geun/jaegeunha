@@ -1,5 +1,5 @@
 ## 기타
-* 뼈 마디가 쑤셔요; i'm bone-tired  
+* 면역 체제를 약화시키다; can weaken your immune system; lower your immunity to colds
 * 토할것 같애; i think i am gonna sick
 * 의욕이 없어요; i've lost my drive  
 * 가렵다; i itch all over; i've got an itch on my back
@@ -135,14 +135,15 @@
     * 아이들에게 발진이 생기면 병원에 데리고 가세요. ex) Take your kids to hospital if they develop a rash.
 * 미국에서는 예약 없이 병원 못감
 * doctor: 대학/대학원/인턴/레지던트/의사 자격증 시험까지 다 통과한 사람
-* 주치의; attending
-* 레지던트; resident / registar
-* 피부과의사: dermatologist, 안과: ophthalmologist [ˌɑːfθælˈmɑːl-]
-  정형외과: orthopedic surgeon; 부인과; gynecologist/gynie  [ˌɡaɪnəˈkɒlədʒi] 
-  소아과 의사 [pì:diətríʃən,pèd-] 
-  성형외과: plastic/cosmeti surgeon; 마취의: anesthesiologist 미국식 [-ˈɑːlə-]  영국식 [ˌænəsˌθiːziˈɒlədʒɪst]
-  방사선의 radiologist, 정신과 의사: shrink(psychologist: 심리학자와 구별 위함)
-  수의사: veterinarian  [vètərənέəriən] = vet; 외과의사: surgeon
+  * 비격식 표현으로 정신과 의사를 shrink라고 합니다. 대체할 수 있는 격식 표현으로는 psychiatrist(정신과 의사)  [saɪˈkaɪətrɪst] 그리고 psychoanalyst(정신 분석가) 등이 있습니다. 또, 상담치료사는 therapist라고 합니다.
+  * 주치의; attending
+  * 레지던트; resident / registar
+  * 피부과의사: dermatologist, 안과: ophthalmologist [ˌɑːfθælˈmɑːl-]
+    정형외과: orthopedic surgeon; 부인과; gynecologist/gynie  [ˌɡaɪnəˈkɒlədʒi] 
+    소아과 의사 [pì:diətríʃən,pèd-] 
+    성형외과: plastic/cosmeti surgeon; 마취의: anesthesiologist 미국식 [-ˈɑːlə-]  영국식 [ˌænəsˌθiːziˈɒlədʒɪst]
+    방사선의 radiologist, 정신과 의사: shrink(psychologist: 심리학자와 구별 위함)
+    수의사: veterinarian  [vètərənέəriən] = vet; 외과의사: surgeon
 * physician 의사, doctor 의사, surgeon 외과의, dentist 치과의사, patient 환자, medication 약물, fill the prescription 처방전을 발행하다, take medicine 약을 먹다, symptom 증상, signs 징후, * shot 주사, injection 주사, surgery 수술 #간호사 ##RN register nurse #RN; #right now
   * 주사를 놓다; give/make an injection
     * 주사를 맞다; get some shots
@@ -564,6 +565,7 @@
   * 물집이 잡혔어요. 	I have a blister. 
 * #관절이 쑤셔요. My joints hurt. 
   * #관절염; #arthritis 미국식 [ɑ:r|θraɪtɪs]
+  * 뼈 마디가 쑤셔요; i'm bone-tired  
   * knee joint, 관절을 삐다: have a joins #dislocated; hurt one's joints
   * #마디마디가 쑤신다; i'm aching in the #joints
   * #삐다; #twisted = #strained
@@ -692,10 +694,12 @@
 * 우리는 금단현상을 겪게 되었습니다; we were going through withdrawal
   * 단번에 그만두다; quit cold turkey
 * 진통제: painkiller; 해열제: fever relif; 항생제: antibiotics; 목 따가움; sore throat
-* #약빨이 떨어지기 시작했다.     
+* #약빨이 떨어지기 시작했다.  
+  * 그 약의 효과가 곧 없어질[떨어질] 것이다. The effects of the drug will soon wear off.    
+  * 그런데 조금 있으면 오기는 오네요. But it does kick in after a little bit.
   * 약 복용 중이야    #약 | #복용  The medicine is starting to wear off
   * 뭔가 먹고싶거나 복용중 I’m on #medication. 
-  * *이틀에 한번씩 먹어 #apply twice a day
+  * 이틀에 한번씩 먹어 #apply twice a day
   * #내성이 생겨서  i've built up resistance
   * #약을 먹다  take medicine
   * i've got ~, I keep ~  

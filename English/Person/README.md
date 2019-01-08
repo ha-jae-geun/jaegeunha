@@ -7,6 +7,7 @@
 	* Ethan 미국식; 이뜬;  Hannah 미국·영국 [hǽnə]
 	* Lindsay 미국·영국 [líndzi]  Matthew 미국·영국 [mǽθju:] 
 	* 여자이름: Michel(l)e 미국·영국 [mi:ʃél]  남ㅈ: Mitchell 미국·영국 [mítʃəl] 
+* 1) King 과 Queen 의 호칭은 '군주' 에게만 붙여집니다. 지금 영국은 Queen Elizabeth II 가 군주이죠. 2) Queen 의 남편은 King 이 아니라, 바로 Prince 라고 부릅니다. 3) 반대로 만약 군주가 남성이라면 King 이라고 호칭할 테고, 그의 아내는 Princess 가 되겠죠. 4) 또한 군주의 자녀들은 Prince 나 Princess 라고 하는데요. 남자들은 결혼할 때 [공작] 을 의미하는 Duke 라는 칭호도 함께 받습니다. 과거에 공작은 한 지역을 다스리는 역할을 했고, 그 전통은 지금까지 내려와서 실제 통치를 하지는 않지만 상징적으로 [Duke of 지역이름] 을 씁니다. 예를 들어 엘리자베스 여왕의 첫째 손자인 Prince William 은 Duke of Cambridge 라는 칭호도 가지고 있어요. [ˈdʌtʃəs]  5) Duchess 는 짐작하셨겠지만 공작과 결혼한 [공작부인] 을 의미합니다. 6) 참고로 군주의 아들에게서 나온 손자, 손녀들은 Prince, Princess 의 호칭을 받는 반면, 군주의 딸이 일반인과 결혼했을 때 나온 아이들은 그 호칭을 받지 못한다고 해요. 조금 성차별적이라고 느끼실 수도 있겠지만, 그렇답니다. 왕실, 왕권 등이 과거의 것이고, 계급, 호칭에 관한 전통은 아마 바꾸기 힘들어서 그런 게 아닐까 싶네요.
 * 1) 서양에선 밥 대신 빵이 주식이기에 [얻다, 벌다]라는 뜻의 win 과 합쳐져서 [breadwinner = 가장, 생활비 버는 사람]의 의미를 가지게 된 재밌는 표현이에요. 2) meal ticket 도 비슷한 맥락의 단어인데요. 직역하면 [식권] 정도가 되겠지만, 사람에게 쓰일 경우엔 굉장히 안 좋게 그 사람을 [돈줄, 밥줄]로만 여기는 것을 의미합니다.
   * = 15살 이후로 내가 생계를 책임져왔다. I've been a breadwinner since 15.
 * 2) be stigmatized : 명사 stigma는 ‘오명, 낙인’이란 뜻으로 그것의 동사 stigmatize는 ‘(남을) 오명/낙인을 씌우다입’니다. 여기서는 영웅들이 낙인을 찍힌 기분이라는 뜻으로 역시 수동형 be stigmatized로 표현되었습니다. He was stigmatized as a traitor.
@@ -28,6 +29,8 @@
 	* 그는 여자들에게 거들먹거리는 태도를 취한다. He has a condescending attitude towards women. 
 * 평범한 건 원하지 않아요; We don't want the standard
 * 추종자들이 있는 권위자, 전문가; guru; 흰두교에서는 종교적 스승, 지도자   expert: 사람들의 전중ㅇㄹ 받는 전문가
+	* guru 는 [전문가] 라고 해석이 되기는 하지만, 조금 더 구체적인 모습을 가진 단어입니다. 같은 의미의 expert 의 경우엔 자기 분야에 방대한 지식을 가지고 있고, 종종 그와 관련된 학위나 자격증 등을 가지고 있는 경우가 많아요. 그러나 guru 는 방대한 지식을 가지고 있을 수도 있지만, 꼭 그렇지 않아도 조언을 해주는 사람들을 의미하는 뉘앙스가 짙은 단어입니다. 또한 중요한 건, guru 의 경우엔 '추종자'들이 꽤 있다는 점이에요.  그래서 guru 가 되기 위해서 본인이 꼭 expert 일 필요까지는 없습니다. 반대로 누군가가 expert 일지라도, 그를 좋아하고 따르는 사람들이 없다면 guru 라고 불리지 않겠죠. guru 가 종교적 지도자를 의미하기도 하는 건 우연이 아니겠지요~
+		* 유튜브에선 거의 모든 분야의 전문가들을 찾을 수 있고 그들에게 무언가를 배울 수 있습니다. ex) You can find gurus in almost every field on Youtube and learn something from them.
 * 그는 독보적이다; He's a one of a kind
 	* phenomenon = 현상 / 대단한 인물, 경이로운 것
 	* 최고에요; She's a top shelf lady

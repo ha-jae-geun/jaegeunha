@@ -1,4 +1,12 @@
 # 기타
+* 학원; academy -> i have English class later
+* 스트레스; i've been under a lot of streess at work
+* 고향; hometown -> i'm going to home to Busan this weekend
+* 교수님; MR.Elliot
+* 대학생입니다; universitiy student -> i'm in college
+* 선배; my senior -> He has seniority over me
+* 가야돼; i should go -> i have to go
+* 빵 먹었어 -> i ate something on the way here
 * 피규어; figurine  [ˌfɪɡjəˈriːn]; action figure
 * 스크림; scrimmage 미국·영국 [ˈskrɪmɪdʒ]
 * 방탄 조끼; flak jacket = bullet-proof vest

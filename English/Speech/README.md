@@ -11,6 +11,8 @@
 	* 아직 모르겠어? 내가 널 위해 이해를 시켜줘야 하니? Don’t you get it? Should I connect the dots for you?
 
 # 말
+* 이 표현은 원래 『go into one’s song and dance』로 ‘틀에 박힌 말, 상투적인 말을 하다’는 뜻입니다. 이 것을 살짝 변형해서 go right into the dance(곧바로 틀에 박힌 말을 내뱉다)고 한 것이죠. 그래서 영상속 여자의 의견은 가족은 나를 잘 알기 때문에 고민 상담을 해도 상투적인 말을 하지만, 상담가는 새로운 시각으로 날 봐준다는 것입니다.
+	* 그는 늦을 때마다 늘 틀에 박힌 말을 늘여놓는다. Whenever he’s late, he goes into his song and dance. 
 * 조금 충격적이며 특히 불쾌할 수도 있는 소식 (물론 영상에서는 꼭 불쾌한 의미는 아니지만요) 을 bombshell 이라고 합니다. 폭탄을 떨어트리거나 터뜨리듯 drop (explode) a bombshell = [폭탄선언을 하다] 라고 종종 쓰여요.
 	8 그녀는 일을 그만두겠다는 폭탄선언을 했다. ex) She dropped a bombshell that she would quit the job.
 * 모두가 그녀를 아주 좋게 이야기한다. Everyone speaks very well of her. 

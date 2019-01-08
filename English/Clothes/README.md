@@ -111,6 +111,8 @@
 * #유행한다 #In fashion = it's in <> it is #out
 * #fad; ~ are the fad
 * 유행을 타지 않는다. #never go out of style(#style)
+  * * conform to what’s going on today = 유행을 따르다
+    * 많은 십대들은 요새 유행하는 것을 따르고 싶어한다. A lot of teenagers want to conform to what’s going on today.
   * '(be) ahead of the curve'는 '트렌드에 앞서서' '시대를 앞서가서'를 가리키는 관용적 표현이랍니다. 반대로, '(fall) behind the curve'라고 하면 '트렌드에 뒤져서' '시대에 뒤떨어져'의 의미겠죠~
     * 카카오는 새 기술들을 도입하는 데 앞서왔다. [ex] Kakao has been ahead of the curve in adopting new technologies.
   * '시간이 지나도 촌스러워지지 않는(즉 유행을 타지 않는), 고전적인 미를 갖고 있는' 이런 뜻이에요! 
@@ -122,6 +124,7 @@
   * 영상에서처럼 craze 라는 단어 앞에 무엇이 유행하는지를 붙이거나, 뒤에 전치사 for 를 써서 [~의 유행] 이라고 표현할 수도 있습니다.
     * 여자들 사이에 요가 열풍이 불어서 다들 요가 매트 같은 것들을 사곤 했었죠. ex) There was a yoga craze among women and everyone bought yoga mats and stuff.
   * 유행이다; That ' s all the rage among young people
+  * 그리고 독감이나 감기가 유행하면, 우린 훨씬 더 바빠지죠. And once the flu or colds go around , we become even busier. 듣기 출처:YBM
 * ##fashion
 * #wear	#trying on, putting on
 * try on: 입어봐도 되요? put on: 입는 동작

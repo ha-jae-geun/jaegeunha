@@ -14,15 +14,16 @@
 * 미국 회사들은 시장 진출과 기술 획득을 위해 외국 경쟁기업과 협력하는 방법을 빨리 배우고 있다. U.S. companies are fast learning how to team up with foreign competitors to crack markets and acquire technology.
 * 저 손금 읽는 거 알아요; i know hand fortune-telling
 * 난 네게 등돌리지 않을게; i wouldn't turn on you
-* 고등학교 시절 예쁜 친구 찾으려면; if  you wanna look up all these hotties
 * 배신하다; 그가 갱단의 나머지 사람들을 배신하고 그 돈을 모두 가지고 사라졌다.He double-crossed the rest of the gang and disappeared with all the money. 
 
 # 추억
 * 추억에 잠기고 싶다; I feel like reminiscing
 * -에 대해 모르는게 없다; know someone like the back of your hand; SHe knows his place like the back of her hand
+* 고등학교 시절 예쁜 친구 찾으려면; if  you wanna look up all these hotties
 
 # 만남
 * 얼굴만 알아; i know someome by sight
+* 친해질 시간이 필요해; we need some bonding time
 * 예고 없이 놀러와; You come over unannounced
 * 노담 괜찮네요; Good one
 * 내 고민거리를 가지고 올게; i'll come with my problems
@@ -61,3 +62,4 @@
 * 2) cynicism과 sarcasm은 의미상 어떤 차이가 있을까요? 영어권 문화에서 중요한 문화 요소이기도 한 sarcasm은 어떤 것에 대해 반어적으로 표현하는 것으로 ‘빈정댐, 비꼼’을 의미합니다. 예를 들어 날씨가 정말 안 좋은데 “What a wonderful day it is!(날씨 한번 참 좋구만)”라고 하는 것 처럼요.  반면 cynicism은 ‘냉소, 냉소주의’로 마음 상태를 지칭합니다. 예를 들어 반복되는 부정부패로 인해 정치나 사회에 대해 믿음과 기대가 없는, 냉소적인 사고방식을 갖는 것과 같습니다.
 	* 정치에 대한 대중의 냉소가 낮은 투표율을 이끌었다. Public cynicism about politics led to a low turnout of the election.
 	* 와, 비온다. 정말 완벽한 날이구만! – 그만 좀 빈정댈래? 우리 가족이 처음으로 가는 여행이잖아! Wow, it’s raining. What a perfect day! – Would you please stop being sarcastic? This is our first family trip!
+* 갈등; 그 두 화가 사이의 오래 계속된 반목 a long-running feud between the two artists; [fjuːd]

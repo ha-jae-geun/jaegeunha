@@ -5,6 +5,16 @@
 * consignment store; 위탁 판매점;  주로 물건을 가져다 주면 상저에 전시하다가 팔린 후에 위탁자와 상점이 그 수익을 나누어 가지는 시스템
 * supply 는 [공급하다] 라는 의미 외에도 명사로 [보급품, 공급품, 필수품, 지급물] 등, 회사나 단체에서 쓰는 물품들을 의미하기도 합니다. 
 	* office supply store = 사무용품 판매점 party supply store = 파티용품 판매점 art supply store = 미술용품 판매점 (화방) medical supply store = 의료기기 판매점
+*  - pawn shop : 전당포 - pawnbroker : 전당포 주인 - pawn ⓥ전당포에 팔다 / ⓝ전당, 전당물 / ⓝ쓰고 버리는 물건, 노리개 / ⓝ(체스) 졸(卒)
+	* 나는 500달러를 받고 결혼 반지를 전당포에 팔았다.  ex) I pawned my wedding ring for 500 dollars. 
+	* ♣ put/give 물건 in pawn; 그는 공과금을 내기 위해 그의 시계를 전당포에 팔았다. ex) He had to put his watch in pawn to pay the bills. 
+	* 당신 내 보석 전당포에 팔았어요?  ex) Did you sell my jewelry to a pawn shop?  ♣ sell 물건 to a pawn shop
+	* 다행히도 그녀는 저당 잡혔던 엄마의 반지를 다시 찾아올 수 있었다. ex) Luckily, she could take her mother’s ring out of pawn. 
+	* 저당물을 다시 찾으시려면 이번 달 안에 오셔야 해요. ex) Please come back within this month to reclaim your pawned item.  ♧ redeem/reclaim 물건 from a pawn shop
+* 2) ‘보석학자, 보석전문가’를 gemologist라고 합니다. 영상에서는 ge–를 [je/제]로 발음했는데요, [ge/게]로 발음하기도 합니다. 
+	* 3) appraiser는 ‘감별사, 감정사’입니다. 동사 appraise(살피다, 감정하다)에서 파생하였습니다. 참고로 보석감별사는 gem appraiser, jewelry appraiser라고도 합니다. 
+	* "금액을 제시해 보세요."  "Shoot me an offer" 여기서 shoot me는 날 쏘라는게 아니고, ‘주다, 건내주다’입니다. 그래서 바꿔 말하면 give me an offer 입니다. 
+		* 빵 좀 줘. Shoot me some bread.  Don’t forget to shoot me an email! 
 
 # 거래
 * 현금만 받는 사업이거든요; It is a cash only business
@@ -29,6 +39,8 @@
 * #브랜드
 
 # * 최저 가격 보상제; low price guarantee; 월마트에서 30일 이내에 판매한 상품의 가격이 경쟁업체보다 비싸면 그 차액만큼 봇ㅇ
+* 원래 bottom dollar는 ‘최소 금액, 최후에 남은 돈’을 뜻하는데요, 여기서는 ‘원하는 (최소) 금액’을 가리킵니다. 파는 사람의 입장에서 보면 자신이 받고 싶은 최소한의 금액이 있겠죠. 물론 더 받을수록 좋겠지만, 아무튼 그 최소 금액 이상을 바라기 때문에 bottom dollar가 ‘원하는 금액’을 가리키는거죠. 참고로, 라이언 레이놀즈가 지난 6월 내한했을 때 복면가왕에서 노래 [Tomorrow]를 불렀었죠. 영화 [데드풀2]의 주제가이기도 했는데요, 가사 중에 다음과 같은 부분이 있습니다. 
+	* (내일은 해가 뜰거야. 돈 다 걸고 내기해도 돼. 내일은 반드시 해가 뜰거야.) “The sun will come out tomorrow. Bet your bottom dollar that tomorrow, there’ll be sun”
 
 # Wedding registry
 * 결혼 선물로 받고 싶은 것들을 자주 가는 백화점이나 쇼핑센터에 등록하여 지인들이 살수 있도록 하는 시스템; 

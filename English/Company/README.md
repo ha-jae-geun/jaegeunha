@@ -29,6 +29,8 @@
 * 회의를 소집하다; conduct/run a meeting
 * 끝내기 전에 다음 미팅 일정을 확정지어 볼까요? Before we leave, can we fix the next meeting?
 * 참석해 주신 모든 분들께 다시 한 번 감사 말씀 드립니다. Thanks again for your participation. (Thank you all for attending.)
+	* 만약 Thanks for being present 를 회의실에서 했다면 “참석해 주셔서 감사합니다”가 되겠지만, 여기서는 ‘도움이 되다, 옆에 있어주다’를 뜻합니다. 옆에 있으면서(be present) 도움이 되어 주거나, 얘기를 들어주거나, 아니면 함께 있어주는 것만으로도 고맙다는 걸 의미하죠.  성탄절이나 추수감사절에도 be present 라는 말이 종종 나오는데요, 단순히 명절에 참석하라는 말이 아니라, 그 시간을 온전히 가족을 위해 쓰고, 가족들 옆에 있어주라는 의미가 포함되어 있습니다. 
+	* 애들이 금방 크는 건 막을 수 없겠지만, 애들이 자랄 때 옆에 함께 해줄 순 있어요. We can’t stop our children growing up so fast, but we can be present. 
 * 피해자들의 많은 자활공동체 모ㅗ임에 참석했었죠; I sat in a lot of self-help groups of victims sit in;
 * host는 명사로 [주인, 주최자]라는 뜻이 있어요. 그래서 직역하면 [주인 역할을 하다]라는 의미를 가지는데요. 보통 자기 구역에서 무언가를 주최하여 손님들을 맞이할 때 쓰는 표현입니다.
 	* = 싱가포르가 회담을 주최하였습니다. (회담 장소를 제공하였습니다.) Singapore played host to the talk.
@@ -90,6 +92,7 @@
 ----------------------------------------------------
 
 # 「회사」 #회사 #기업 #복합 기업, #대기업; #conglomerates
+	* the industry 는 원래는 [산업] 이라는 의미로 많이들 알고 계시지만, [업계, 이 바닥] 의 의미로도 많이 쓰입니다.
 * #중소 기업; 
 * 기업 사냥꾼; corporate raider; 공식적으로 기업을 ㅇ니수합병하여 기업에 영향력을 발휘하는 투자가, 전문가
 * small businesses, small and medium-sized businesses[enterprises], smaller enterprises[businesses]
