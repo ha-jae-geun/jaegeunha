@@ -280,7 +280,7 @@
 * 셋까지만 셀거야.. 					 	I'm going to count to/till three. 
 * On the #count of three, one two three
 * 카운트 거꾸로 10부터 세어주세요 #count backwards from 10 for me(#backwards)
-* *셋을 세고 하는가야 									On three
+	* *셋을 세고 하는가야 									On three
 * 그냥 대략적인 수치만 알려줘라. 			 Just give me a back-of-the-envelope calculation.
 * #최소 공배수							 the least(lowest) common multiple
 * #최대 공약수 							the greatest common demoninator

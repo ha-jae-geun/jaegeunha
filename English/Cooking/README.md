@@ -509,6 +509,7 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 * #단 음식
 * 맛이 ##이상해 								 The food tasted funny. 
 * 입에서 녹는다 								 melts in your mouth
+	* 입에서 녹느나; It dissolves in my mouth
 * #싱겁다, #심심 					 this is really bland, this needs a little seasoning
 * I bored to tears
 * #약하다; it's like a very #faint chocolatey taste

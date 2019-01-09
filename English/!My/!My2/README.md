@@ -3,6 +3,9 @@
 
 
 # 일상
+* 셋을 세고 하는가야                   On three
+* 멀리 갈 것 없다, 더 알아볼 필요 없다 (= 여기 당신이 찾는 게 있습니다)  "Look no further."
+* 나도 껴줘; Sign me up: 나도 낄래; i'm in: 콜
 * 내 말 알아들었어? 내가 방금 뭐라고 말했는지 말해봐. Get my drift? Tell me what I have just told you. 
 * 적당히 둘러대지 않을거야  I'm not going to sugarcoat it . 듣기
 * 그는 지역 정치에 잠시 관여하고 있다. He dabbles in local politics.   (스포츠·활동 등을 오락이나 취미 삼아) 조금 해보다[잠깐 손대다]

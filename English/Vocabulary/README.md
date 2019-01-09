@@ -280,6 +280,10 @@
 * 전체적으로는 좋은데 문제시 되는 것, 겉으로 드러나지 않았던 숨은 문제를 명사로 a catch 라고 합니다. 
 	* (다 좋은데) 문제는, 아무도 제시카랑 3개월 이상 일한 사람이 없어. 아주 못됐거든. But here’s the catch. No one has ever worked more than 3 months with Jessica. She’s evil. 
 
+## comfort
+* comfort zone 은 직역하면 [안락 지대] 로 평소에 특정 상황이나 장소에서 내면적으로 편하게 느끼는 심리적 상태를 나타내는 단어입니다. 위의 표현을 직역하면 거기에서 벗어나는 것이기 때문에 의역하여 [도전하다] 라고 해석이 되었고요. 누군가에게 조언을 하거나 면접 시에 유용하게 쓰일 수 있는 표현이에요.
+	* = 현실의 편안함에서 벗어나는 건 쉽지 않은 일이지만, 일단 벗어나면 신세계를 경험하게 될 거야. Stepping out of your comfort zone is not easy to do, but once you do, you will experience a whole new world.
+
 ## charm
 * ‘매력’으로 잘 알고 계실텐데요, 영상에 나오는 것처럼 악세서리 장식물이나 상징물, 부적 등도 charm 이라고 합니다. 
 	* 이건 내 행운의 부적이야. 내 할머니가 주셨어.  This is my lucky charm. My grandma gave it to me.
@@ -333,6 +337,10 @@
 * Could you please charge that fine to my mom?
 * Do you have IPhone charger?
 * Are you gonna charge extra
+
+## context
+* context 는 어떤 일의 [맥락, 전후사정] 을 의미해요. 그래서 put A into context 는 A 라는 주제에 대해 전후 사정을 따져보고 여러 가지 추가 정보, 추가 요소를 고려하여 좀 더 잘 이해한다는 의미를 가집니다.
+	* = 어떤 결정을 하기 전에 그것에 대해 좀 더 알아볼 필요가 있어요. We need to put it into context before making any decision.
 
 ## carry
 * : ~가 (시련, 고통 등을) 헤쳐나가게 하다, (시련, 고통 속에서) ~를 지탱해주다 carry someone through
@@ -421,9 +429,20 @@
 * 그는 그 소문들을 귀담아듣지 않았다. He turned a deaf ear to the rumours. 
 * 그들은 내가 하는 모든 말을 그냥 한쪽 귀로 듣고 한쪽 귀로 흘려버려. Everything I tell them just goes in one ear and out the other. 
 
+## further
+* 멀리 갈 것 없다, 더 알아볼 필요 없다 (= 여기 당신이 찾는 게 있습니다)  "Look no further."
+
+## fit
+* 주변의 모습이나 주변 사람들과 잘 어울리는 모습을 나타내는 단어로 주로 전치사 with 를 뒤에 붙여서 어디에 잘 어울리는지 나타낼 수 있어요. 영상에서 right 는 '제대로' 의 의미로 강조해주기 위해 쓰였습니다.
+	* = 에이미는 그녀의 학생들과 정말 잘 어울리는 것 같아. I think Amy fits right in with her students.
+
 ## fire
 * 보건부 장관이 사방에서 맹비난을 받게 되었다. The health minister has come/be under fire from all sides. 
 * “제가 몇 가지 질문이 있어요.” “좋아요, 그럼. 물어 보세요.” ‘I’ve got a few questions.’ ‘OK then, fire away.’ 
+
+## floor
+* floor 는 '바닥' 을 의미하죠. 가속 페달이 바닥에 닿을 만큼 세게 밟아서 전속력으로 차를 모는 것을 의미합니다.
+	* = 저 차 도망간다. 빨리 밟아! That car is running away. Floor it!
 
 ## flesh
 * 그는 TV에서보다 실물이 훨씬 잘생겼어. He ' s much better handsome in the flesh than on TV . 예문 발음듣기 출처:능률교육
@@ -886,6 +905,9 @@
 * 3. ⓥ 연륜이 쌓여서 성격이 온화해 지다
 	* 그녀는 참을성이 없는 편이었는데, 시간이 지나면서 유순해 졌다. v
 
+## mention
+* 에 대하여 언급하다 = mention (o) / mention about (x)
+
 ## manner
 *  떤 면으로 보면 이 모든 관점들이 관련이 있다.
  All these points of view are related, in a manner of speaking. 
@@ -1084,6 +1106,9 @@
 * pump the brakes는 직역하면 ‘브레이크를 밟다, 브레이크를 누르다’인데 관용어적으로 보면 “지금 하고 있는 행위를 멈춰라”라는 뜻입니다. 여기에 hate(분노, 증오)를 붙여서 타노스가 지금 하고 있는 행위는 분노에 차서 하는 일이니 그걸 그만 두라고 하는 거죠. 그래서 ‘분노 좀 죽여라, 지금 열받아서 하는 짓을 그만 둬라’ 정도로 이해하시면 됩니다. 
 	* 그만 해라, 얘야. Pump your brakes, kid. 
 
+## root
+*  내 생각엔 엄마가 방을 뒤진 것 같아. I think my mom has been rooting around my room,.
+
 ## run
 * 진행하는 느낌
 * i run my own business; 운영
@@ -1115,6 +1140,10 @@
 * 그는 불운이 겹쳤다 He had a run of bad luck . 듣기 출처:동아 출판
 * 스타킹 올이 풀리다; There's a run in my old ones
 
+## range
+* = 범위가 A에서 B에 이르다 * range from A to B  여러 가지 상황에서 정말 많이 쓰이는 표현이고요. 범위가 좀 더 다양할 경우엔 뒤에 to C to D 등으로 더 붙여서 쓸 수도 있습니다.
+	* = 선택하는 방의 종류에 따라 가격은 50달러에서 500달러로 다양합니다. The prices from 50 dollars to 500 dollars, depending on the type of room you choose.
+
 ## reach
 * = 이 제품은 6세 이하의 아이들 손이 닿지 않는 곳에 두세요. Keep this out of reach of children under 6.
 
@@ -1133,6 +1162,10 @@
 ## sense
 * in all senses of the word = 어느 모로 봐도 / 어느 점으로 봐도; sense 는 감각뿐만 아니라 ‘점, 면, 의미’를 뜻하기도 합니다. 그래서 이 표현은 ‘그 단어가 의미하는 어떤 부분을 보아도’를 말하고 주로 문장 안에 그 단어를 지칭하는 구체적인 말이 따라옵니다. 
 	* 그는 어떤 면으로 봐도, ‘훌륭한 사람’ 그 단어 자체야. He is a fine man, in every sense of the word.
+
+## storm
+* '폭풍' 으로 가장 잘 알려진 storm 은 무언가가 빠르고 강렬할 때 비유적으로도 많이 쓰입니다. take ~ by storm 도 마찬가지로 누군가의 마음을 단번에 사로잡거나, 순식간에 성공을 거두는 것을 의미할 때 많이 쓰이는 표현입니다.
+	* = 2018년에 BTS 는 그들의 음악과 공연으로 전 세계를 단번에 사로잡았다. In 2018, BTS took the world by storm with their music and performance.
 
 ## stroke
 * stoke은 ‘불에 연료를 더 넣다’라는 뜻의 동사인데, 사람의 감정, 생각, 현상 등에 쓰이면 그것이 더 활활 타오르게 만들다, 즉 부추기다, 돋우다라는 의미가 됩니다. 

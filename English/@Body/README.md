@@ -761,6 +761,7 @@ in the face of something
 I’m told
 * 귀가 먹먹했어요; THis ear's all blocked
 	* 귀를 기울이다; He strained his ears
+	* I read you loud and clear = 잘 들린다.
 	* 우리는 그가 창 밖에서 엿듣고 있는 것을 잡았다. We caught him eavesdropping outside the window. 
 	* 귀지 ear wax
 	* 한마디도 안 놓치려고 그녀는 귀를 쫑긋 세웠다. She pricked up her ears not to miss a word. 

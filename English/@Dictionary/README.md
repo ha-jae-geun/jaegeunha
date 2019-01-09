@@ -56,6 +56,9 @@
 
 # 관심
 * 마카오가 홍콩보다 더 늦게 발전하였다는 것을 재미있게 표현하였네요. 여기서 나온 steal the spotlight는 ‘주목을 끌다, 관심을 빼앗다’를 의미합니다.  이와 비슷한 표현으로 steal one’s thunder 가 있는데요, 자신이 무언가를 하려던 참에 남이 선수쳐서 관심과 주목을 빼앗아 간다는 뜻입니다. 예를 들어 자신의 임신소식을 주변 사람에게 말하려고 했는데 그 전에 누군가가 임신 소식을 터뜨려서 본인이 관심을 받지 못하게 되는 상황이 이런 경우에요.
+
+# 근처
+* 부근에는 좋은 학교가 없다. There isn't a good school in the vicinity. 
  
 # 기대
 * Dyke는 심지어 기대에 미치지도 못했다. Dyke can't even cut the mustard . 듣기
@@ -146,6 +149,10 @@
 * 사물의 무게를 물어볼 때 How heavy is it?라고 묻는 것은 괜찮지만 사람에게 How heavy are you?라고 하지 않는 것이 좋습니다. 예의에 어긋나게 들릴 수도 있거든요. 그 대신 How much do you weigh? What is your weight? 라고 해야 합니다. 물론 민감한 주제일 수도 있으니 웬만해선 몸무게를 묻지 않는 것이 낫겠죠?
 * weigh apples, weigh fish 처럼 어떤 것의 무게인지 목적어를 꼭 써야 합니다. 혹은 자신의 체중을 잰다고 할 때는 weigh oneself with/on the scale 이라고 합니다.
 	* ㅍShe weighs herself every morning.
+
+# 문제
+* brain twister 혹은 brainteaser는 '어려운 문제'를 가리킵니다. 머리가 지끈거리도록 복잡한 추리소설이나 영화를 바로 brain twister라고 말할 수 있겠죠!^^
+
 
 # 미루다
 * 학교 다닐 때 보통 put off 과 delay 가 같다고 배우는데요. procrastinate 와 함께 차이점을 알아보아요!
@@ -354,6 +361,9 @@
 * 독침으로 찌르다 prick[pierce] (sb/sth) with a poisoned needle [prɪk]
 	* 독침에 쏘이다; get[be] stung (by)
 * 그는 인종 차별주의자의 공격에서 칼에 찔려 죽었다. He was stabbed to death in a racist attack. 
+
+# 차이
+* - 사이에 차이가 있다; - is a comparison between A and B 
 
 # 책임
 * 범죄자들은 그들의 행동에  책임을 져야 할 것입니다; The criminals are held responsible for their actions

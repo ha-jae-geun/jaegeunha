@@ -25,6 +25,7 @@
 * ASMR; Autonomous Sensory Meridian response [məˈrɪdiən
 
 # 인터넷
+* 나는 온라인 구매를 위해 배달 정보를 입력할 때 자동 채우기를 흔히 이용한다. I often use autofill to enter delivery information for online purchases. 
 * 인터넷 사이트 들어가다, 이용하다; i go on Facebook everyday
 * 악플; mean comment; blank comment 또는 empty comment
 * 인터넷 방송; I'm shooting live online; Internet broadcast
