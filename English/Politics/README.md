@@ -37,7 +37,8 @@ The best-selling classic of politics is Machiavelli's monarchy.
 * 투표 방식중에 하나입니다. 마음에 드는 사람을 한 명 고르는 대신, 전체 후보들을 자신의 선호도에 따라 1번부터 끝번까지 등수를 매기는 방식입니다. 주로 호주에서 사용하는 방식이라고 하네요.  preferential voting system = 선호투표제
 	* 축구는 그가 선호하는 취미 생활이 아니다. ex) Football has never been his preferred pastime.
 * cast 는 ‘던지다’, ballot 은 ‘무기명 투표’ 혹은 ‘투표 용지’ 그 자체를 말합니다. 그래서 합치면 ‘표를 던지다, 투표하다’가 됩니다.  참고로, 동사 elect 은 투표(casting a ballot)에 의해서 누군가를 ‘선출’하는 것으로 최종적으로 선거에서 이긴 것을 말합니다. 
-
+* - franchise : 선거권, 영업권, 사업권 - enfranchise : 권리를 주다 - disenfranchise : 권리를 박탈하다 그래서 사회에서 소외되고, 의견이나 권리가 묵살되는 사람들을 disenfranchised 라고 묘사합니다. underprivileged : 혜택을 못 받는 marginalized : 여백(margin)으로 밀린, 사회에서 소외된
+	* 아무도 그 소외된 사람들을 위해 목소리를 높이려 하지 않았다. No one was willing to speak up for the disenfranchised people.
 
 ## 정치
 * 영사관; consulate 미국식 [ˈkɑːnsəl-]  영국식 [ˈkɒnsjələt]   

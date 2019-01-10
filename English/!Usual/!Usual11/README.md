@@ -1,3 +1,268 @@
+# 쓸만한 영어 - 상대방의 말에 맞장구 칠때 쓰는 영어표현들/영어회화/영어공부
+ * 공감을 표현할 때
+ *   Right! Right!
+ *   Yes! Yes!
+ *   Ok! Ok!
+ * 1) 나는 커피가 잘 맞아.
+ *        I don't agree with coffee. (X)
+ *       Coffee doesn't agree with me. (O)
+ *       *행동의 주 원인(주체)는 커피
+ * 
+ *   2) 우유가 잘 안 받아.
+ *   3) 난 술이 잘 안 맞아.  
+ *        Alcohol doesn't agree with me.
+ * 
+ *       맥주가 안 맞아. (속에서 안받아)
+ *       Beer doesn't agree with me.
+ * 
+ *       소주가 잘 안 맞아.
+ * 
+ * ==========
+ * 
+ * - agree with + 명사
+ *  
+ * - 직역 : 너한테 더 많은 동의를 할 수가 없다??? 엥??
+ *   의미 : 이보다 더 니 생각과 같을 수는 없어.
+ *              그만큼 100% 완전 공감이야!!
+ * 
+ * 
+ * 1. I can't agree with you more!
+ *    이보다 더 너 생각과 같을 수 없어.
+ *    그만큼 100% 완전 공감이야!!
+ * 
+ * - I can't agree with you.
+ *   직역 : 너한테 동의할 수 없어.
+ *   의미 : (내 생각은)너랑 안 맞아.
+ * 
+ * 
+ * 2. Same here!
+ * 
+ * - Same here!
+ *   말할 때 주의할 점
+ *   *살아가는 모습(상황)이 상대와 나도 똑같아서 이해한다는 의미
+ *      (in the same life situation)
+ * 
+ * 
+ * 3. We are in the same boat.
+ *    직역 : 우리는 같은 배에 탔어.
+ *    의미 : 우린 처지가 같아.
+ * 
+ * - We are in the same boat.
+ *   같은 팀이라는 의미로도 쓰입니다.
+ * 
+ * 4. You can say that again! (*액센트/인토네이션이 매우 중요한 말)
+ *    직역 : 너는 그 말을 다시 할 수 있어.
+ *    의미 : 맞는 말이라서 또 해도돼!
+ * 
+ * - 영어 문장에서 중추적 메시지를 담고 있는 동사는 그만큼 의미가 실리기 때문에 음이 올라가요.
+ * 
+ * - 하.지.만. 무조건 동사가 아니라 의미있는 말에 힘을 싣는 것입니다.
+ * 
+ * - You can say that again???
+ *   너는 또 그 말해도돼!
+ * 
+ * - You can say that again.
+ *   너는 또 그 말해도돼!
+ *   (그 말이 맞아!)
+ * 
+ * - 액센트/인토네이션은 내가 그 말을 이해하고, 의미를 담아서 대답을 하는지가 보이는 부분이에요.
+ * 
+ * 
+ * 5. ditto
+ *    상대가 했던 말을 똑같이 반복해서 그 사람한테 되받아칠 때
+ * 
+ * - 단 하나의 단어라도 사전적인 설명보다 
+ *   실제 상황/용법에 맞게 써야 그 말이 살아나요.
+ * 
+ * 
+ * 6. Absolutely! 
+ *    = 당연하지! 당근이지!
+ *    맞장구를 칠 때 유용하게 쓸 수 있는 간단한 말
+ * 
+ * 
+ * 7. Exactly!
+ *    = 딱이야!
+ *        정확해!
+ *        바로 그거야!
+ * 
+ * 
+ * 8. Definitely!
+ *     = 분명해!
+ *         딱 맞아!
+ * 
+ * 
+ * 9. That's what I was gonna say.
+ *     That's what I was going to say. 
+ *    맞아! 나도 딱 그말하려고했어.
+ * 
+ * 
+ * 10. That's exactly what I wanted to say.
+ *       내가 딱 하고 싶었던 말이야.
+ * 
+ * 
+ * 11. That's what I'm saying!
+ *       내 말이 그 말이야!﻿
+
+# 쓸만한 영어 - 대중교통 이용할때 꼭 필요한 생존 영어 1\영어공부\영어회화
+ * 1. 내 목적지에 도착하면 알려달라고 할 때
+ * 
+ * - Can you tell me when you get to the City Hall?
+ *   시청에 도착하면 저한테 얘기 좀 해줄 수 있나요?
+ * 
+ * - Can you tell me when I get to the City Hall?
+ *   시청에 도착하면 저한테 얘기 좀 해줄 수 있나요?
+ * 
+ * - Can you tell me when you get to the City Hall?
+ *   (기사님이)시청에 도착하면 저한테 얘기 좀 해줄 수 있나요?
+ * 
+ * - Can you tell me when we get to City Hall?
+ *   (우리가)시청에 도착하면 저한테 얘기 좀 해줄 수 있나요?
+ * 
+ * *길 이름을 말할 땐 발음/액센트가 정말 중요합니다.
+ * 
+ * - vermont : 버몬트???
+ *   [벌(마안)ㅌ]
+ *   *발음/액센트에 민감한 
+ *     길/도시/사람 이름 중 하나의 예입니다.
+ * 
+ * - 고유명사에 해당하는 길/도시/사람 이름은 
+ *   미리 발음/액센트를 익히는 게 좋습니다.
+ * 
+ * 
+ * *미국 길 이름을 말할 때 주의할 점
+ *  - 3가 = 영어로? 
+ *  - 3가 = the third?? (X)
+ *    3가 < third (O)
+ *  - 3가 = third street?? (X)
+ *    3가 < third (O)
+ *  * '3rd street'처럼 street를 붙여 말할 수도 있지만
+ *     vermont and third처럼 길 이름 두가지만을
+ *    현지인들이 가장 보편적/자연스럽게 말합니다.
+ *     하지만 같은 [3가]라도 street와 avenue가 있다면
+ *    3rd Street인지 3rd Avenue인지 밝혀야 좋음
+ *    *street 스트리트      두가지 모두 한국어로는 
+ *     avenue 애비뉴            [~가(거리)]로 번역
+ * 
+ * - 그렇다면 
+ *   vermont + 3가는?
+ * = vermont and third
+ * 
+ * - 버몬트와 3가에 도착하면 알려줄 수 있나요?
+ *   Can you let me know when you get to vermont and third?
+ * 
+ * 
+ * 3. 목적지 한 정거장 전에 알려달라고 할 때
+ * 
+ * - 한 정거장 전으로 다가가는 그림이 아닌
+ *   한 정거장 전에 있는(존재)하는 상태이기 때문에
+ * 
+ *                                                 *my destination 대신 해당 정거장 이름을 넣어도 OK
+ * - when we are one stop away from my destination
+ *   직역 : 내 목적지 한 정거장으로부터 멀리있을 때
+ *   의미 : 내가 내릴 곳에서 한 정거장 전에
+ * 
+ * - Can you (just) let me know when we are one stop away from my destination?
+ *   내가 내릴 곳에서 한 정거장 전에 알려줄 수 있나요?﻿
+
+
+
+# 쓸만한영어 - [ Small Talk ] 외모 칭찬할 때 쓸만한 영어표현\영어회화\영어공부
+ * - You have grown.
+ *   그동안 많이 컸네~
+ * 
+ * - You have grown a lot.
+ *   그동안 정말 많이 컸네~
+ * 
+ * *칭찬인 것 같지만 
+ *   칭찬이 아닐수도 있는 말
+ *   "너 키 크다."
+ *   "다른 애들보다 크네!"
+ * 
+ * - 사람에 따라 칭찬으로 받아들이는 사람들도 있지만 
+ *   의외로 그 말을 어떻게 받아들여야할지 모르는 사람들도 많아요.
+ * 
+ * ==========
+ * 
+ *   4) 너무 말랐어.
+ * 
+ * - 구직시 차이점
+ *   한국 : 이력서 사진 필수
+ *   미국 : 이력서에 사진 붙이지 않음
+ * 
+ * 
+ * ◇ 서로 기분 좋은 외모 칭찬 PART 1
+ * 
+ * √ 오랜만에 만난 사람이 여전히 젊고 보기 좋을 때
+ *   - 어쩜 이렇게 하나도 안 변했어?
+ *   - 어쩜 이렇게 늙지도 않았어?
+ *   - 전혀 그 나이로 안 보여요.
+ *   - 어쩜 나이도 안들고 그대로야~
+ *      (오랜만에 만난 사람한테 보기 좋아서 하는 말)
+ * 
+ * ==========
+ * 
+ *   *age
+ *    늙어가는/ (낡아가는) 그림
+ *    - Time goes by faster and faster as I age.
+ *      나이가 들수록 시간이 더 빠른 것 같아.
+ *    - Sb. is aging well. 
+ *      - He/She is aging well.
+ *        직역 : 그 사람 잘 나이들어??
+ *        의미 : 그 사람 나이들수록 참 멋져.
+ *        *외모가 멋지게/더 예뻐진다는 의미
+ *    - 내면/인품/품성 등이 멋지고 우아하게 나이든다고 할 때는?
+ *      - She is aging well and gracefully.
+ *        그분 연세가 드실수록 외모도 곱고 참 우아하셔.
+ * 
+ * ==========
+ * 
+ * - You haven't aged at all.
+ *   직역 : 당신은 나이가 하나도 안 들었어요?
+ *   의미 : 하나도 안 늙었어. / 전혀 안 변했어.
+ *  
+ * - 하나도 안 늙었어. / 전혀 안 변했어.
+ *    ⇒ 하루도 안 늙었어.
+ * 
+ * - You haven't aged a day.
+ *   직역 : 하루도 안 늙었어.
+ *   하나도 안 늙었어. / 전혀 안 변했어.
+ * 
+ *                                              기준점을 넘어서도
+ * - 우리가 마지막으로 본 게 스물다섯인데.. 어떻게 하나도 안 변했어? (그대로야..)
+ *   You don't look a day over 25.
+ *   마지막으로 본 게 스물다섯인데 하루도 안 늙었어. (똑같아)
+ * 
+ * - You don't look a day over 30.
+ *   마지막으로 본 게 서른인데 여전히 젊고 예뻐/멋있어.
+ * 
+ * - 실제 나이보다 훨씬 젊어보이세요.
+ *   You look really younger than your actual age??? (X)
+ *   You look a lot younger than your actual age. (O)
+ *   실제 나이보다 훨씬 (많이) 젊어보여요.
+ * 
+ * - 어머! 40대 중반처럼 안 보이세요.
+ *   - 그 나이로 안 보여요.
+ *      You don't look like...
+ *   - 누가 그 나이라고 믿겠어요?
+ * 
+ * - 어머! 40대 중반처럼 (조차) 안 보이세요.
+ *   - 그 나이로 (조차) 안 보여요.
+ *      You don't even look like you are in your mid-40s.
+ * 
+ * - 40대 중반처럼 (조차) 안 보이세요.
+ *   You don't even look like you are in your mid-40s.
+ * 
+ * - 40대 중반처럼 (조차) 안 보이세요.
+ *   → 누가 40대로 보겠어요?
+ *        Who does think that you are in your mid-40s???
+ *        < 누가 40대로 믿겠어요?
+ *            Who would believe~?
+ *            = No one would believe~?
+ * 
+ * - 누가 40대로 보겠어요? < 누가 40대로 믿겠어요?
+ *   Who would believe you are in your 40s?﻿
+
+
 # 쓸만한 영어_구독자Q&A_식당/음식주문할 때 애매한 표현들/영어회화/생활영어/영어공부
  * A1.
  * - Do you have any preference due to religion?

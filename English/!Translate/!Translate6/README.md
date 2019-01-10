@@ -1,3 +1,20 @@
+# [ 영어 연습가이드 #41 ] - "생각할수록 좀 아닌 것 같더라고"
+* 1) 경험을 위해서 거기서 몇 달 더 일을 해볼까 생각은 해봤는데 조건이 별로 좋지 않아서 생각할수록 좀 아닌 것 같더라고."
+  * I considered working there for another several months, you know, for the experience. BUt the conditions weren't very good and the more i thought abot it, it just wasn't worth it
+* 2) 뭐 때문에 그렇게 떠들썩한건지 볼려고 최신 모델을 살까 고려는 해봤는데 난 기본적인 통화랑 문자 외에는 하는게 거의 없어서 생각할수록 나한테는 별로 의미가 없더라고.
+  * I considered getting the latest model, you know, to see what the hpye was all about. But i never realy use anything beyond the basic phone calls and texting and the more i though about it, it just wasn't worth it for me.
+* 3) 에어컨을 설치할까 생각은 해봤는데 난 거기에 몇 달만 더 있을거라서,
+생각할수록  좀 아닌 것 같더라고.﻿
+  * i considered installing an air-conditioner but, you know, i'm only going to be there for another several monhts and the more i thought about it, it just wasn't worth it
+ 
+# 전치사 [ in / on at / to ] PART 3 | 대화체 속에서 문맥과 함께 전치사 감각 익히기
+* 다음 주 금요일에 가; i leave next week, on Friday; It's the 18th. 에의 역할을 next가 하고 있음
+  * 요일처럼 특정한 어느 하루를 가리킬 때는 'on' 사용; on Monday, on the 18th; 18일이라고 그냥 날짜를 말했기 떄문에 on 사용 안함
+  * 18일에 출발해; i leave on the 18th(of January)
+* 몇시 비행기야? 내가 공항에 데려다 줄 수 있을 것 같은데? what time is your flight? I think i can take you to the airport; 테이뀨 루디 에어폿
+* 3시 비행기인데 12시까지는 가고 싶어 - 이것 저것 처리해야 해서; It's a 3 o'clock flight but i want to get(be/arrive) there by noon. You kno, to get everything sorted; 12는 noon/midnight 이라는 표현을 자주 사용; 도착의 개념만 말할 떈 go 보다는 be/get/arrive 사용
+* 그럼 물론이지. 너네 집에서 10시 쯤에 픽업할 수 있어; Yeah, of course. i can pick you up at your place at around 10. house나 home 구분 안하는 place
+
 # 전치사 in / on / at - 기본 개념 세우기 PART 1 - [ 장소 편 ]
 * 시설물 - at; Let's meet at the bus stop
   * 은행에서 일해요; i work at a bank; 소속의 개념: i work in/for a bank

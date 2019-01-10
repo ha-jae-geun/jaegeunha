@@ -48,6 +48,7 @@
 * a close shave = 구사일생, 일촉즉발
 	* 발생하진 않았지만 매우 위험했을 수 있던 상황을 가리켜 a close shave 이라고 합니다. shave 는 [면도하다, 깎다] 를 말하죠? 그 정도로 가까운 스침, 가까스로의 상황이란 뜻입니다.  Phew, that was a close shave/call.
 	* - a close call 구사일생 = - by the skin of one’s teeth 가까스로 - a hairbreadth 털끝만한 틈
+	* 죄수는 어떻게 될지 모르는 운명의 갈림길에서 재판관 앞에 서 있었다. The prisoner stood before the judge with his life hanging in the balance.  극히 불안정한 상태에 있다, 위기에 처해 있다
 * 위기의식 危機意識  단어장추가 (철학) consciousness of crisis
 	* 상황을 고조시켜요; It all gets ramped up
 	* 그의 상황은 위태로웠다. His situation was haing by a hair. 

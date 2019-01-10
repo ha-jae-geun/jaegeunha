@@ -154,6 +154,9 @@
 
 # 동사
 
+## act
+* 일탈하다; i've been acting out
+
 ## awkward
 * 절친 A 와 그냥 그런 친구 B 와 함께 밥을 먹다가, 갑자기 절친 A 가 화장실 간다고 가버렸을 때! 그냥 그런 친구 B 와 할 말도 없고, 왠지 말을 꺼내자니 무슨 말을 해야할지도 모르겠고, 그냥 밥을 먹자니 좀 그래서 말 한마디 던졌는데 반응이 미적지근하고! 그래서 기분이 굉장히 불편하고 빨리 절친 A 가 돌아오기만을 기다리고! 그런걸 표현하는 단어가 바로 awkward silence 에요. awkward 자체에 [(불편하게) 어색한] 이라는 의미가 있거든요. awkward silence 는 대화 중에 불편하게 이어지는 침묵을 의미하는데요. 아무도 말을 안하니 조금 불안하고, 불편하고, 왠지 말을 해야 할 것 같은 압박은 있는데 무슨 말을 해야할지 모르는 상황을 의미하는 단어입니다.
   * 데이터를 확인한 후에 방 안에 어색한 침묵이 흘렀다. ex) After checking the data, there was an awkward silence in the room.
@@ -279,6 +282,11 @@
 ## catch
 * 전체적으로는 좋은데 문제시 되는 것, 겉으로 드러나지 않았던 숨은 문제를 명사로 a catch 라고 합니다. 
 	* (다 좋은데) 문제는, 아무도 제시카랑 3개월 이상 일한 사람이 없어. 아주 못됐거든. But here’s the catch. No one has ever worked more than 3 months with Jessica. She’s evil. 
+
+## cost
+* ＊ at what cost? = 어떤 희생이 있는 걸까요?
+* - at all costs : 무슨 수를 써서라도   - It/That will cost you : 대가를 치르게 될거야
+* - at any cost : 무슨 일이 있어도  - count the cost : 대가를 치르다
 
 ## comfort
 * comfort zone 은 직역하면 [안락 지대] 로 평소에 특정 상황이나 장소에서 내면적으로 편하게 느끼는 심리적 상태를 나타내는 단어입니다. 위의 표현을 직역하면 거기에서 벗어나는 것이기 때문에 의역하여 [도전하다] 라고 해석이 되었고요. 누군가에게 조언을 하거나 면접 시에 유용하게 쓰일 수 있는 표현이에요.
@@ -407,6 +415,9 @@
 ## down
 * down 대신에 along the line 또는 down the road 이라고 쓸 수도 있는 표현으로 정해진 시간은 아닌, 나중에 언젠가를 의미하는 표현입니다. 대략적으로 언제인지를 나타내고 싶을 땐 three years down the line, four years down the line 처럼 써주셔도 좋습니다. = down the line
 	* 지금은 쉬울지 몰라도, 나중에 숨겨진 비용이 있을 수도 있어. ex) It is easy now, but there might be some hidden costs down the line.
+
+## dragon
+* 용을 죽이다; slay a ragon; 유럽에서 용은 파괴의 힘, 인간과 대적하는 존재, 용은 물리쳐야 하는 존재로 
 
 ## end
 * [ 숙어 ] end up ing 일상에서 정말 자주 쓰는 표현이니 꼭 익혀두세요~! '[본의 아니게, 우연히, 결과적으로] ~하게 되다' 라는 뜻!
@@ -573,6 +584,10 @@
 
 ## go
 * 멀어지는 느낌 == from 
+
+## gun
+* : 직역하면 '총을 연달아 발포하며'라는 뜻으로 어떤 일을 전력을 다해, 공격적으로 하는 모양을 묘사하는 데 사용합니다.
+	* 사람들이 결의를 불태우며 모여들었다. People gathered up with guns blazing.
 
 ## grow
 * 길이, 크기, 부피 전체가 다 커지는 그림
@@ -814,6 +829,7 @@
 * (화가 난 상대방에게 하는 말로) 진정해라 keep your hair on 미국식  영국식   단어장추가
 
 ## head
+* 그냥 네 생각/망상일 가능성이 높다는 걸 기억하려고 해봐. [ex] Just try and remember it's probably all in your head.
 * 머리부터 내밀고 무언가를 들이박는 뉘앙스의 표현이에요. 영상에서는 문장의 제일 끝에서 부사로 쓰였고, 형용사로도 쓰일 수 있습니다. 차 사고에서 정면 충돌 또한 head-on collision 이라고 합니다.
 	* 현식을 제대로 직시하자. ex) Let's face the reality head-on.
 * 상황이 악화되어 적절한 조치가 취해져야만 하는 시점에 도달하는 것을 의미합니다. 이 표현은 종기나 여드름이 오래되어 터질 듯한 화농을 head 라고 하는 것에서 유래된 표현이에요.
@@ -858,6 +874,10 @@
 
 ## juice
 * 고기를 뜨거운 기름에 빨리 튀겨서 육즙이 나오지 않게 하세요. Fry the meat quickly in hot oil to seal in the juices.
+
+## jump
+* : 시동이 걸리지 않는 차를 직접 밀거나, 다른 차의 배터리에 연결해 시동거는 걸 말해요! 이 상황에 비유해서, 상황이 안 좋을 때 특별히 노력해서 '되살아나게 하다', '활력/활기를 불어넣다' 또는 단순히 활기차게 효과적으로 '시작하다, 시동걸다' 라는 뜻으로 쓸 수 있답니다. 
+	* 아침에 하는 운동은 언제나 내 하루의 시작에 시동을 걸어줘. [ex] Morning workouts always jump start my day.
 
 
 ## look
@@ -940,6 +960,12 @@
 * 조금 성가시거나 어려운 상황을 빠져나가는 것을 의미하는 표현이에요. through 뒤에 목적어를 쓰는 경우가 많은데 영상에서는 신호등을 통과하는 명백한 상황이기에 굳이 쓰지 않았습니다. 누군가 죽어가는 상황에서는 make it through the night/the day/this week 등으로 쓸 수가 있는데 [밤을 넘기다, 하루를 잘 넘기다, 일주일을 넘기다] 등의 의미로도 많이 쓰입니다.
 	* 적어도 우리가 첫 라운드 통과는 했으면 좋겠다. ex) I hope we can make it through the first round at least.
 
+## miring
+* admiring의 약자; 하.. 부럽..
+
+## miss
+* 너 놓치고 있는 거야; You're missing it out
+
 ## mourn
 * mourn = (누군가의 죽음으로) 애도하다. mourning = 애도, 상복 in mourning = 상복을 입은, 상 중인, 애도중인
 	* 그의 가족은 아버지의 죽음으로 상 중이야. ex) His family is in mourning for their father.  [mɔːrn]  <> [ˈmɔːrnɪŋ]
@@ -967,6 +993,10 @@
 ## own
 * in one's own right: 직역하면 '자신의 정당한 자격으로' 라는 뜻으로 남의 도움 없이 자기 스스로 자격이 있다는 의미의 표현이에요.
 	* 그녀는 혼자 힘으로 부를 얻었다. She's a rich woman in her own right.
+
+## pass
+* ＊ pass off ⓐ as ⓑ = ⓐ를 ⓑ라고 속이다, 행세하다 가짜 물건을 진짜라고 속이거나, 신분을 속이고 다른 사람 행세를 한다는 뜻의 숙어입니다. 참고로 누구를 속이는지 당하는 사람까지 표현하려면 [on+사람] 을 붙이면 됩니다. 
+	* 그는 가짜 롤렉스 시계를 진짜라고 속였다. (pass off ⓝ) He passed off the fake Rolexes as genuine ones.
 
 ## pale
 * 원래 형용사로 안색이 [창백한] 을 의미로 가장 많이 쓰입니다만, 동사로는 무언가가 덜 중요하게 보이거나 덜 인상적으로 보일 때 많이 쓰이며 [별것 아니게 느껴지다] 정도로 해석이 됩니다. pale into insignificance라는 숙어도 함께 알아두시면 좋은데요. [빛이 바래다, 중요성을 잃다]를 의미합니다.
@@ -1101,6 +1131,7 @@
 * : 감지기가 비행선이 분리되기 전에 움직이는 어떤 것을 포착했나요? Did the sensors pick up anything moving around on the ship prior to separation? 감지기(Sensor)가 어떤 것을 잡아내거나 포착할 때, 'Pick up'이 쓰일 수 있습니다.
 * : 초밥이라도 좀 사다 드릴까요? Should I pick you up some sushi? 누군가에서 물건이나 먹을 것 등을 사다 줄 때, 'Pick someone up something' 의 형태로 씁니다. 
 * : 회사는 이미 당신의 계약을 계속이어가는데에 동의 했습니다. The company's already agreed to pick up your contract. 어떤 일을 다시하거나, 하던 것을 계속이어나갈때, 'Pick up'을 쓸 수 있습니다.
+	* 논의는 내일 이어서 합시다. [ex] Let's pick up the discussion tomorrow.
 
 ## pump
 * pump the brakes는 직역하면 ‘브레이크를 밟다, 브레이크를 누르다’인데 관용어적으로 보면 “지금 하고 있는 행위를 멈춰라”라는 뜻입니다. 여기에 hate(분노, 증오)를 붙여서 타노스가 지금 하고 있는 행위는 분노에 차서 하는 일이니 그걸 그만 두라고 하는 거죠. 그래서 ‘분노 좀 죽여라, 지금 열받아서 하는 짓을 그만 둬라’ 정도로 이해하시면 됩니다. 
@@ -1151,6 +1182,10 @@
 * 적자인; when a company is in the red
 * 여기 한국에는 관료주의가 많다. There ’ s lots of red tape involved here in Korea
 * 나를 특별하게 대우할 필요는 없습니다. There's no need to roll out the red carpet for me.  
+
+## savvy
+* 비격식 표현으로 실용적인 지식, 솜씨, 요령 등을 의미할 때 굉장히 많이 쓰이는 명사입니다. 형용사로도 쓰여 [요령 있는, 지식이 많은] 의 의미를 가집니다.
+	* = 요즘 대부분의 10대들은 테크놀로지에 능숙합니다. Most teenagers are tech savvy these days.
 
 ## swing
 * 가능할 것 같아; i think i could swing that; swing: 잘 해내다
@@ -1224,6 +1259,10 @@
 ## sucker
 * 1) sucker는 낙지, 오징어 등의 ‘빨판’입니다. 혹은 속어로 ‘잘 속는 사람’을 의미합니다. 마치 단물 빨아먹기(suck) 좋은 사람처럼요.
 
+## thing
+* 어떤 사람이 the next thing이 된다는 말은 '장차 크게 될 사람, 후에 빵 뜰 인물'이라는 뜻이죠. thing은 꼭 물건에만 사용하지 않고 애정, 칭찬, 경멸 등을 담아 사람을 가리키는 데도 쓰이거든요. 마치 '그 사람 거 참 물건일세!'하고 말하는 것처럼 말이죠. 
+	* 저 남자가 크게 빵 뜰 거라던데. I heard that guy's the next thing.
+
 ## track
 * track 은 말 그대로 사람들이 따라가도록 나있는 [길] 을 의미하는데요. 무언가를 함에 있어서 목표를 향한 길에서 벗어나지 않고 잘 따라갈 때 on track 이라고 합니다. 제대로 된 방향으로 나아갈 때는 on the right track, 잘못된 방향일 때는 on the wrong track 이라고 하고요. 잠시 잘못된 방향으로 갔다가 다시 돌아왔을 때는 get back on track 이라고 할 수 있어요.
 	* 데이빗. 넌 정말 잘 하고 있으니까 너 자신을 의심할 필요가 없어. ex) David. You're definitely on the right track, so no need to doubt yourself.
@@ -1290,6 +1329,8 @@
 * 절대 눈을 떼지마. Never take your eyes away. : 'Take your eyes away' 만 쓰면, '너의 시선을 옮기는 것'이 되니까,  '시선을 돌리다, 눈을 떼다' 라는 의미가 됩니다. 이 경우에는 지난 포스팅에서 배운 'Take off' 을 쓸 수도 있습니다.
 * : 내 마음을 빼앗아 가봐. Take my breath away. 
 * 좋아?  Did I take your breath away? : 남자가 뭔가 대단한 선물을 해준 후, 여자가 너무 좋은 표정을 짓고 있자 이렇게 말하고 있습니다. 의미는 '감동받았어? 기가막히지? 너무 좋아?' 의 의미 입니다.
+* * 참고로 미국에서 takeout(포장 음식점, 포장해 가는 음식)이라고 부르는 것을 영국에서는 takeaway라고 부르기도 한답니다~
+	* 오늘 회의에서 그 점이 가장 중요한 교훈인 것 같네요. I think that is the most important takeaway from today's meeting.
 
 ### take back
 * 다음으로 한 가지 더 'Take back'에 대해서 공부해 볼 텐데요, 'Take back'은 '어떤 물건이나 사람을 원래 있던 자리에 가져다 놓다, 돌려놓다' 라는  의미 입니다.
@@ -1366,6 +1407,7 @@
 ## walk
 * 비격식 표현으로 상대방의 감정이나 입장 등을 고려하지 않고 굉장히 못된 태도로 대하는 것을 의미해요. 누군가를 밟고 지나가는 느낌의 단어들이죠? = walk over someone
 	* 걔가 널 함부로 대하게 놔두지 마. 이런 취급을 받을 필요가 없잖아. ex) Don't let him walk over you. You don't deserve this.
+* (고통, 창피를 신경쓰지 말고) 남자 답게 행동해라. walk it off 미국식  영국식 
 
 ## wrap
 * wrap는 '포장하다', '싸매다' 라는 뜻이에요. get wrapped up in sth을 직역하면 '무언가에 꽁꽁 싸매이다' 인데요, '다른 모든 것은 무시할 정도로 몰두해버리다' 라는 뜻입니다.
@@ -1392,3 +1434,5 @@
 	* ㅍShe weighs herself every morning.
 * 운동선수가 체중을 측정하는 것을 weigh in 이라고 하는데요, 문맥상 토론, 언쟁일 경우에는 자신의 의견을 강하게 피력하는 것을 말합니다. 
 	* 모두가 토론에 달려들어 자신의 의견을 주장했다. Everybody weighed in on the debate. 
+* weigh down은 실제로 무언가를 먹어서 몸이 무거운 느낌을 들게 하거나, 어떤 것들이 쌓여서 무게에 축 쳐지는 것처럼 움직이기 어렵게 만드는 걸 의미하기도 하고 또는 어떤 책임이나 업무 때문에 스트레스 받고 짓눌린 걸 나타내기도 합니다. 여기서는 햄버거처럼 느끼하고 무거운 음식을 먹어 몸이 무거워짐을 의미하죠~
+	* 내 업무량 때문에 정말 짓눌린 느낌이다. I feel really weighed down by the workload I have.

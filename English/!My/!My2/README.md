@@ -3,6 +3,7 @@
 
 
 # 일상
+* 꼭대기 층 부탁해; Top floor, please
 * 셋을 세고 하는가야                   On three
 * 멀리 갈 것 없다, 더 알아볼 필요 없다 (= 여기 당신이 찾는 게 있습니다)  "Look no further."
 * 나도 껴줘; Sign me up: 나도 낄래; i'm in: 콜

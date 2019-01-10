@@ -47,6 +47,7 @@
 * 개해엄; dog paddle
 
 # Gym
+* 스테로이드의 별칭; on the juice; juiced
 * 인터넷 유행어예요. 근육질 남성이 "너 운동은 하냐?"하고 다른 사람이 무시하는 느낌의 말이에요. to lift weights는 직역하면 '아령을 들다'이고 실제 뜻은 '아령(근력) 운동하다'예요.
 	* muscle strengthening exercise : 근력강화 운동 (cardiovascular exercise를 줄인 말) weightlifting : 역도
 * 운동하면서 -해요; i work out to-; 음악/; i work out to Rihanna; i like to dance to rap music

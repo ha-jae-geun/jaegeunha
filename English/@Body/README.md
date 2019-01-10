@@ -135,8 +135,9 @@
 * 양갈래	pig tails
 * 다듬다	trim
 * 층 낸 스타일	layered cut(style) layer my hear
-* 머리 묶기	put one's hair up
-* 머리 풀기	put one's hair down.
+* 머리 묶기	put one's hair up; * 머리 풀기	put one's hair down.
+	* wear one's hair up은 머리를 올리다 (묶다, 쪽지다), wear one's hair down은 머리를 묶지 않고 푼다는 뜻!
+		* 나 머리 짧게 하고 싶어. (머리를 자르고 싶어) I want to wear my hair short.
 * 둥글게 말아올린 머리	bun, put her hair into a burn
 * 땋은 머리	braid, look good in braids., cornrows; braids
 * 양갈래 땋은머리	Braided pigtails
@@ -340,6 +341,7 @@ how dare you say such a thing #to my face
 	* 코딱지	booger, boogie
 	* 코를 후비다	pick one's nose 
 	* [명사] 부비강(두개골 속의, 코 안쪽으로 이어지는 구멍) 막힌 부비강 blocked sinuses 
+	* bulb(전구)의 형용사 입니다. 코와 같은 신체부위를 표현할 때 자주 쓰는데요, 주먹코처럼 크고 둥글 납작한 모양을 의미합니다. 주먹코를 좋아할 사람은 많지 않으니, 부정적인 어감으로 쓰이겠죠? He has a huge, bulbous nose.
 * #보조개	dimple [‘dɪmpl]; have nice dimple
 * 팔자주름	smile lines, i've got smile lines
 * 왜 사람의 입냄새가 심할 때 kicking이라고 할까요? 사람의 입냄새는 공기중으로 스멀스멀 퍼지는 것이 아니라 갑자기 훅 들어오는 기분이죠? 그래서 뭔가 강하게 치는 느낌이라서 kicking이라고 표현하는 겁니다. 혹은 have a bad breath라고도 합니다! Seriously, your breath is kicking. Go brush your teeth.
@@ -604,6 +606,7 @@ that's quite a package/junkㅌ
 * 먹은 거 다 어디로 가는거야?	Where do all the calories go?
 * 어떻게 몸매를 유지하지?	How can she stay so fit?
 * 몸매가 좋다	You are in great shape.
+	* thin은 '날씬하다', '마르다' 이런 뜻인데 "너 참 날씬하다!"라고 말할 때 thin이라고 하는 것보다 slender, slim 이런 말을 쓰는 게 훨씬 예의있는 느낌입니다. 혹은 fit이라고 해도 좋아요. fit은 '건강한 느낌으로 탄탄하다'라는 뜻으로 가장 긍정적인 뜻을 내포하고 있거든요. skinny는 '보기 안 좋을 정도로, 안쓰러울 정도로 말랐다'와 같이 약간 부정적인 뉘앙스가 있어서 남한테 쓰지 않는 게 좋습니다. super stick thin은 나뭇가지(stick)처럼 왕(super) 말랐다는 뜻이죠. 비격식 회화체 표현입니다. 앞에 붙은 like는 '마치', '좀' 이런 뜻으로 사람들이 대화할 때 습관적으로 많이 쓰는 표현이니다              
 	* You are jacked; 마약했다라는 뜻인데 그만큼 몸이 좋다는 것이기 때문에 칭찬
 		* ripped
 	* #hourglass 미국식 [|aʊərglӕs] figure	#콜라병 #모래시계
@@ -617,6 +620,7 @@ that's quite a package/junkㅌ
 	* 가느다랗고 하늘하늘한 느낌	thin, slight, weak
 	* #마른 #말랐	gɔ:nt ‘skrɔ:ni gaunt scrawny(삐쩍)
 	* #skinny: 너무 마른, #slim: 매력적으로 마른
+		* skinny fat: 마른 비만
 	#thin: 중립적인 의미 ##lean: 건강하게 날씬한
 	* #fit
 	* 그는 키는 멀대같이 커서 삐쩍 말랐다. 	‘lӕŋki He is lanky.

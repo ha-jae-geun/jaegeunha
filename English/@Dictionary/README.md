@@ -57,6 +57,11 @@
 # 관심
 * 마카오가 홍콩보다 더 늦게 발전하였다는 것을 재미있게 표현하였네요. 여기서 나온 steal the spotlight는 ‘주목을 끌다, 관심을 빼앗다’를 의미합니다.  이와 비슷한 표현으로 steal one’s thunder 가 있는데요, 자신이 무언가를 하려던 참에 남이 선수쳐서 관심과 주목을 빼앗아 간다는 뜻입니다. 예를 들어 자신의 임신소식을 주변 사람에게 말하려고 했는데 그 전에 누군가가 임신 소식을 터뜨려서 본인이 관심을 받지 못하게 되는 상황이 이런 경우에요.
 
+# 관점
+* standpoint는 직역하면 '서있는 지점, 장소'를 가리킵니다. 어떤 문제나 상황을 살필 때의 '관점, 입장'을 의미하죠.
+* - from a political/economical/historical/practical standpoint: 정치적/경제적/역사적/실용적인 관점에서 봤을 때
+	* 그의 입장에서는 꽤 거금이지. From his standpoint, it's pretty big money.
+
 # 근처
 * 부근에는 좋은 학교가 없다. There isn't a good school in the vicinity. 
  
@@ -84,6 +89,10 @@
 	* ▷I bet 10 bucks that he wins the game. ▷I put 10 bucks on he winning the game.
 * [동전을 던져 결정하다] 는 toss a coin 혹은 flip a coin 이라고 합니다. 두 동사 모두 가볍게 훽 던지는 동작을 말하죠.  영상에서는 the coin toss(동전던지기)처럼 명사로 썼습니다.  참고로 동전의 앞면은 heads 뒷면은 tails 라고 합니다. 동전은 하나지만 습관적으로 –s를 붙입니다. 
 	* 돈전을 던져 결정하자. 앞면 아니면 뒷면? Let’s toss a coin. Heads or tails?
+
+# 넘어가다
+* 무언가 문제가 있거나, 실수를 했다거나, 좀 당황스러운 상황일 때 대충 얼버무리고 빨리 지나가려는 걸 의미하는 표현입니다.
+	* = 이건 대충 얼버무리고 넘어갈 문제가 아니에요. 저희는 당신의 확실한 답변을 원합니다. This is not an issue you can gloss over. We want a definite answer from you.
 
 # 노력하다
 * make effort; I will make every effort to solve the problem.
@@ -200,11 +209,18 @@
 # 빠르다
 * Quickly'는 '어떤 일이나 상황이 시간적으로 빨리 진행이된다'는 의미이고, 'Fast'는 '어떤 행위를 하는데, 그 행위를 하는 속도를 빠르게 한다' 예컨대, '넌 숙제를 빨리 해야 해' 라고 할 때, 이 말은 상황에 따라서 '지금까지 숙제를 미뤄왔으니까 빨리, 즉시 숙제를 하라'는 의미 일 수도 있고, '숙제하는 행위를 빨리 해서 빨리 마쳐라' 라는 의미 일 수도 있습니다. 첫 번째 경우에는 'You've got to do your homework quickly' 라고 할 수 있고, 두 번째 경우에는 'You've got to do your homework fast'라고 할 수 있습니다.
 
+# 사소
+* 원래 콤플렉스라는 것이 남에게는 별 것 아닌 것처럼 보이지만 자신에게는 그렇지 않죠! petty / trivial은 둘 다 사물에 쓸 경우 ‘하찮은, 시시한, 사소한’을 의미합니다. 
+	* 그들은 사소한 것 가지고 싸웠다. They had a fight over a petty thing.
+
 # 상황
 * 우리는 상황을 알아 보았다  Dipping our toes in the water
 * [상황, 사정] 을 의미하는 circumstances 앞에 다양한 형용사를 써서 어떤 상황인지 나타낼 수 있는, 굉장히 유용하고 자주 쓰이는 표현입니다. 형용사 없이 under the circumstances 라고 하면 [그러한 상황에선, 상황을 고려하면] 정도로 해석이 되고요.
 	* = 이 기술적 문제는 특정 상황에서 발생합니다. This technical issue occurs under specific circumstances.
 * 전쟁이 교착상태에 빠졌다.ex) The war has reached a stalemate.
+
+# 선배
+* senior, superior 같은 표현을 쓰면 상하체계가 확실히 잡혀있는 군대를 더올리게 된다.
 
 # 선입견
 * * 전치사 towards 또는 against 를 써서 [~에 대한 편견] 을 의미하는데요. towards 가 쓰이면 좋은 의미로의 편견, against 는 나쁜 의미로의 편견을 의미합니다. 참고로 형용사로 [편향된, 편견이 있는] 의 뜻은 biased 라는 단어를 씁니다.
@@ -247,6 +263,9 @@
 # 어렵다
 * 기술 용어로 쓰일 때는 '하드웨어에 내장된 (그래서 유저가 손대기 어려운)'이라는 뜻인데요. 이렇게 어떤 반응/사고/행동/태도 따위를 얘기할 때는 인간의 본성에 '내장되어 있는, 본능적인, (그래서 어쩔 수 없고, 바꾸기 힘든)' 이라는 뜻을 지닙니다.
 	* 소통하는 것은 인간의 본능입니다. [ex] Humans are hardwired to communicate.
+ 
+# 연기
+* 나도 사람들 앞에서 너처럼 재주를 보일 수 있음 좋을 텐데. I wish I could play a blinder like you before the crowd. 
 
 # 영향
 * a ton of 은 무언가가 [굉장히 많은] 을 의미하는 비격식 표현인데요. 실제로 벽돌 (brick) 이 1톤 정도 자기 주변에 있다고 생각하면 아주 무겁고 답답하고, 힘들고 그럴 거예요. 그래서 la ton of bricks 는 [갑작스럽고 중요한 영향] 정도로 해석이 됩니다. 영상에서는 동사 [go over = 특정한 반응을 이끌어내다] 와 함께 쓰여서 직역하면 [용돈을 줄인 건 엄청난 영향을 이끌어냈다] 정도로 해석이 되지만 의역하여 [딸은 충격에 휩싸였죠] 로 해석이 되었습니다.
@@ -262,6 +281,10 @@
 # 옛날에
 * Looking back; "in retrospect" 
 * back in the days, "in the past", in the old days" 
+
+# 왕따
+1. outcast는 학교나 회사 등 사회적으로 부적응한 사람을 가리킵니다. bully (괴롭히는 사람)과 반대되는 개념으로 왕따라고도 볼 수 있죠. 
+2. loner는 혼자 있기를 좋아하는 사람으로 outcast가 사회적인 규범에 따라 본인의 의지와는 상관 없이 혼자가 된 사람을 가리킨다면 loner는 자발적으로 혼자가 된 사람을 의미해요. 이들은 굳이 다른 사람들과 엮여 드는 걸 원치 않는답니다.
 
 # 외식
 * 어제 가족이랑 외식했어요; My family and i went out for dinner yesterday
@@ -356,6 +379,10 @@
 * on the verge of something; on the verge of doing something
 	* 조애나는 금방이라도 울 것만 같았다. Joanna was on the verge of tears.
 
+# 집착
+* fixate은 어떤 것에 병적으로 집착하고, 계속 그 생각만 하는 것을 의미합니다. 영상에서도 코에 콤플렉스를 가진 주인공이 남들의 코가 어떻게 생겼는지 자꾸만 신경을 쓰게 된다고 말하고 있네요. 
+	* 높은 성취도를 보이는 사람들은 때때로 자신의 결점에 대해 집착하는 경향이 있다. High achievers sometimes fixate on their own flaws.
+
 # 찌르다
 * 핀으로 종이를 찔러 작은 구멍들을 내어라. Prick holes in the paper with a pin. 
 * 독침으로 찌르다 prick[pierce] (sb/sth) with a poisoned needle [prɪk]
@@ -374,6 +401,10 @@
 # 투자
 * 단어 안에 신뢰 (trust) 라는 단어가 들어가 있으니, 누군가를 믿고 맡기는 것을 의미합니다. 영상에서는 [투자하다] 라고 해석이 되었어요.
   * 왜 그렇게 많은 돈을 맡긴 거야? ex) Why did you entrust that much money to him?
+
+# 평가
+* 실제보다 덜 중요하게 보이게끔 하는 걸 의미하는 단어입니다. 비교적 최근에 사용 빈도가 많이 늘어난 단어예요.
+	* = 그 회사는 직원들의 파업을 과소평가한 것에 대해 비판받아오고 있다. The company has been criticized for downplaying the strike by its employees.
 
 # 평범
 * 웬만한 사람은; If you're anything like me
@@ -414,3 +445,4 @@
 
 # 힘들다
 * 지미를 치과에 데리고 가는 건 정말 힘든 일이었지. aking Jimmy to the dentist was like pulling teeth . 듣기 출처:능률교육
+* 마을의 모든 사람들이 필요할 만큼 힘든 일을 뜻하는 표현입니다. 힐러리 클린턴이 쓴 동명의 책 It Takes a Village도 있는데, 아이를 키운다는 것은 지역 사회가 모두 나서야 할 만큼 중요하고 고된일이라는 메시지를 담고 있습니다. 

@@ -8,6 +8,7 @@
 	* 기분이 언짢아지다; Fans #get the hump when the team loses.  팬들은 (자기가) 응원하는 팀이 지면 기분이 언짢아진다.
 	* #승부욕; 승부욕을 갖다; have a desire to win
 	* 그 감정을 명확하게 드러내 보세요; Emote that
+	* 정확히 자기 기분[생각]을 말하다 say your piece 미국식  영국식   단어장추가
 * 걱정을 누그러뜨랃; assuage;  [əˈsweɪdʒ]  +  걱정: worry, concern; 슬픔: grief, sadness
 
 * 잠시 틈을 두고 그 불이 사그라드게 두세요; let that fire die down, through a pause
@@ -1326,7 +1327,7 @@
 * 이 단어는 특정한 상황에서 화를 얼마나 내는지를 말할 때 씁니다. 어느 정도 컨트롤 할 수 있는 자신의 성질을 의미해요.
 	* volatile temper = 변덕스러운 성미 [ˈvɑːlətl], 성질, lose one's temper = 이성을 잃을 정도로 화내다.
 	* 성질을 긁다; get under one's skin(옷 속에 개미가 들어간 것 같은)
-## temperament
+* 화났을 때; Are you kidding me? Are you serious?
 * 바꾸려고 해도 잘 바꿀 수 없는 타고난 기질을 temperament 라고 합니다. 예를 들어, 내성적인 사람이나 (introvert), 외향적인 사람 (extrovert) 등이 그런 예라고 볼 수 있겠습니다.
 	* even temperament = 차분한 기질, sunny temperament = 낙천적 기질, gentle temperament = 유순한 기질
 * resent 사람 for 이유 = ~대해 ~에게 화가 나다. I used to resent her for spreading the rumor about me.
@@ -1606,17 +1607,18 @@ I am always overlooked(간과), never discount the contributions, put someone do
 	* #get past; nothing get pasts her
 	* #한 걸음 #서두르다 #급하다 #천천히 | #놓치다 #조바심
 * That’s a drag ○ Bummer (안됐네) That's a bummer (그거 안됐네) That's too bad (그거 안됐네)
-* ○ That sucks or That's sucks (그거 안됐네)
-* ~면 어쩌지? what if ~
-* 안됐다. This is so bite, That's so lame, That's so #whack/ weak/ #weaksauce/ messed up/ bummer
-* I'm so sorry to hear that, I'm sorry about what happened to you, I know how you feel
-* 비참, 비루한 사람 #wretch; save a wretch
-* #abject
-* 어떡해. 안됐다				 That's not good, unfortunate, That sucks. That's shitty.
-* 이런! #불쌍해라! 					 	 What a pity! Poor thing!, oh poor you
-* #동정하다 #가여워하다; #feel for = #have sympathy for
-* 동정한거였어; she #pitied me; #pity
-* 딱하다									 pə‘θetɪk You're pathetic.
+	* 불쌍한척 청승떨다간, 너 불쌍한 신세가 된다. Play the victim , and you will be the victim . 듣기
+	* ○ That sucks or That's sucks (그거 안됐네)
+	* ~면 어쩌지? what if ~
+	* 안됐다. This is so bite, That's so lame, That's so #whack/ weak/ #weaksauce/ messed up/ bummer
+	* I'm so sorry to hear that, I'm sorry about what happened to you, I know how you feel
+	* 비참, 비루한 사람 #wretch; save a wretch
+	* #abject
+	* 어떡해. 안됐다				 That's not good, unfortunate, That sucks. That's shitty.
+	* 이런! #불쌍해라! 					 	 What a pity! Poor thing!, oh poor you
+	* #동정하다 #가여워하다; #feel for = #have sympathy for
+	* 동정한거였어; she #pitied me; #pity
+	* 딱하다									 pə‘θetɪk You're pathetic.
 * #어쩌지 #어떡해 #안됐다 #불쌍 #딱 #비참 #비루
 * #encourage, #inspire, #cheer - 격려하다 
 	* 'our thoughts and prayers are with you'는 위로와 격려의 마음을 전하는 상투적인 표현입니다. 우리가 '심심한 위로를 전합니다'라는 말을 쓰는 것처럼요.

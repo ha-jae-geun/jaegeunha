@@ -157,6 +157,9 @@
 * #수술; it doesn't need #surgery / to be #operated on immediately
   * to go under the knive = to have surgery = to have an operation
   * 성형수술; have cosmetic surgery = go under the knife
+  * 두 표현 모두 ‘성형수술’입니다. 하지만 엄밀히 말하면 cosmetic surgery는 미용을 위한 성형수술을 말하고, plastic surgery는 화상이나 장애 등으로 인해 망가진 신체 부분을 재건하는 성형수술을 가리킵니다.  하지만 회화 상에서는 그렇게 엄격하게 구별할 필요는 없습니다. 일반 원어민들도 구별없이 사용하는 경우도 많습니다. 
+    * 그녀는 코가 마음에 안들어서 성형수술에 대해 생각하고 있다. She’s thinking about a cosmetic surgery because she doesn’t like her nose. 
+    * 이처럼 성형수술을 job으로 표현하는 경우가 있는데요, nose job, boob job(유방 확대 수술)이 가장대표적입니다. 
 * #정관 정제 수술; #vasectomy; 버섹터미; let's get you a vasectomy
 * (생물의) [명사] dissection; (부검) autopsy, postmortem (examination), necropsy, [동사] dissect, [ǝnǽtǝmàiz] anatomize; (부검하다) 
 * #검시; carry out a postmortem, perform[carry out] an autopsy 

@@ -30,6 +30,7 @@
 * 천장이 낮아; It's low clearance; 물체 사이 좁은 여유간격
 	* 천장에 머리 많이 박았음; I banged my head on the roof so many times
 * 온돌이 안좋은가 보네; YOou don't like floor heating
+* toasty는 방이나 공기 등이 안락하게 훈훈하거나, 몸이 따뜻한 상태를 나타낼 때 사용되는 표현입니다. 단순한 따뜻함보다 몸을 편안하게 만드는 따뜻함/훈훈함을 일컫죠. The room is nice and toasty.
 
 # 주방	it has a; #gourmet kitchen; 프로급 주방
 
@@ -555,6 +556,8 @@
 	* 직역하면 [인생에서 승리하다] 인데요, 여기서 ‘성공, 승리’란 꼭 물질적인 것만 뜻하는게 아니라 자신이 인생에서 가치있다고 생각하는 것을 지키는 삶을 말해요. ＊ win at life = 성공적인 삶을 살다
 		* 나는 일 끝나면 스마트폰은 안 써. 그게 내 삶을 윤택하게 하는 나만의 방법이지. I don’t use my smartphone after work. It’s my own way of winning at life.
 * 다 잘 될거야; Bibia be ye ye
+	* alter 가 [바꾸다, 변하다] 라는 의미를 가지는데요. 조금 더 쉽게 말하고 싶으면 life changing moment 라고 말할 수도 있겠죠?
+		* = 내 첫 직장을 그만두었을 때 그게 내 삶을 바꿔놓은 순간이란 걸 몰랐어. I didn't know it was a life changing moment when I quit my first job.
 * 아픔을 재경험해야한다; We need to relive the sorrow
 * 인생을 최대한 충실하게 살다; Live it to the fullest; live it(life) to the full(est)
 * 일생에 있을까 말까 한 기회; That is once-in-a-lifetime opportunity
