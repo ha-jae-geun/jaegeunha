@@ -93,11 +93,14 @@
 
 # IMF
 * 한보철강(건설재벌이었던 하보 그룹이 철강산업 진출을 위해 인수했던 회사), 기아차(이후 현대차에 합병), 고려증권(수수료를 받는 회사 마저 부도) 등이 부도
+* 의결권을 가지기 위해서는 85%의 지지율을 받아야 하는데 미국의 지분율 17.6%
 
 ## 원인
+* 미국은 한국 포함 여러 신흥국(태국)에게 단기 외채를 장기로 빌려줬다. 우리가 태국보다 신용도가 높기에 저금리고 단기로 대출해줬다. 이후 단기 외채가 확대되었다. 당시 금리를 12%에서 25%로 두 배 인상되어 대부분의 한국 기업이 파산 되었다. 이로 인해 높은 부채와 고금리에 시달리게 되었다. 
 * 미, 일 모두 통화 교환 거절(미국이 일본에게 거절하라고 말했다는 설도 있음)
   * 미국이 한국의 IMF 구제 금융을 유도하여 자본 시장을 열려고 했던 의도가 있음.
-  * 미국은 제조업에서 금융업으로 전환되는 시점에서 미국이 금융 시장을 열라 할 떄 김영삼 대통령이 안열어줌 
+  * 미국은 제조업에서 금융업으로 전환되는 시점에서 미국이 금융 시장을 열라 할 떄 김영삼 대통령이 안열어줌
+  * 미국은 미국 기업들이 한국에 들어가기 쉽게 만들기를 원했음
 * 수출 위주의 한국에서 경상 수지 적자가 심각했음
 * 저환율 정책
   1. OECD 가입을 위한 GDP 부풀리기 위해 저환율 정책을 유지
@@ -108,6 +111,7 @@
   * 저글미
   * 저유가
 * 3저 호황의 결과 차입경영과(저금리기 때문에 돈을 많이 대출하여 수출) 수출 우선 전략, 비효율적 경영의 발생
+* 현재 한국의 대부분 국민은행, 신한은행, 우리은행, 하나 은행 등 외국인 지분율이 높다.(대략 60-70%)
 
 ## IMF를 신청한 이유
 * 모라토리엄: 국가나 지방자치단체(지자체)가 외부에서 빌린 돈에 대해 일방적으로 만기에 상환을 미루는 행위를 통칭한다
@@ -117,8 +121,9 @@
   * 내수 규모가 커야한다. (인구)
 
 ## IMF 결과
+* 2000년 12월 4일 김대중 대통령이 빚 모두 상환했다고 발표, 2001년 8월 23일 대한민국에 대한 IMF 관리 체제 해제(4년도 안된 시간)
 * 빈부격차 심화
-* 비정규직 등작(근로의 유연성)
+* 비정규직 등장(근로의 유연성)
 * 법정최고금리
 * 긴축재정
 
@@ -230,6 +235,8 @@
 
 # 투자
 * 설비투자와 건설투자로 나눠져 있음
+  * 설비 투자: 건물, 기계, 설비와 같은 고정 자산 자본에 대한 기업의 투자.
+  * 건설투자: 공장이나 댐, 또는 주택 따위를 건설하는 사업에 대한 투자.
 * 안정투자, 위험 투자
 
 # 제조업
@@ -275,15 +282,7 @@
 * 취업자 증가율 / GDP 증가율ㅣ 
 * 우리나라는 2015년 이후에 증가하기 시작했는데, 성장없는 취업자 증가율이 증가하기 시작했다
 
-# 반도체
-* 반도체는 휴대폰에만 들어가는게 아니라 무인차, 자동차에 반도체 관련 온갖 설비가 늘어나고, 중국의 생산량보다 소비량이 더 빨리 증가하고 있으므로 반도체는 위기가 아니다.
-  Semiconductors are not just a mobile phone. Semiconductors are not a crisis because unmanned cars, automobiles, and all kinds of semiconductor-related equipment are increasing and consumption is growing faster than China's production.
 
-### 2018 최진기의 생존경제 - [33] 한국 반도체 산업, 위기인가?
-* 메모리 가격이 떨어지고 있고, 점유율이 하락하고 있고 공급 과잉이 전망된다.
-  Memory prices are dropping, shares are falling and oversupply is expected.
-* 고정가는 상승하고 있고, 인공지능 등 다양한 곳에 쓰이고 있다.(빅데이터) Fixed prices are rising and are used in various places such as artificial intelligence.
-* 아직 격의 차이가 있고 설비 투자가 계속 되고 있다. There is still a gap and facility investment continues.
 
 
 
@@ -862,5 +861,26 @@ While the US raised interest rates and the dollar strengthened daily, China and 
 * 예산 조정의 실패
 
 
-#부동산
+# 부동산
 * 부동산 개발 업자: 자금 조달 위해 금리 낮은 것이 절대 유리; #트럼프
+
+# 반도체
+* 도체(금속; 전기 통함)와 부도체(플라스틱)
+* 시스템 반도체와 메모리 반도체로 구분된다.
+  * 시스템 반도체: 유무선통신, 정보기기; 다품종 소량생산
+    * 인텔
+  * 메모리 반도체: DRAM, SRAM; 경기 변동에 민감; 소품종 대량생산
+    * 우리나라는 메모리 반도체 강국(2018년 기준 시장의 50%)
+* 산업: 후방산업: 반도체 장비, 반도체 재료 - 반도채 제조 - 전방산업: PC, 휴대전화, 노트북, 자율 주행차
+* 반도체는 휴대폰에만 들어가는게 아니라 무인차, 자동차에 반도체 관련 온갖 설비가 늘어나고, 중국의 생산량보다 소비량이 더 빨리 증가하고 있으므로 반도체는 위기가 아니다.
+  Semiconductors are not just a mobile phone. Semiconductors are not a crisis because unmanned cars, automobiles, and all kinds of semiconductor-related equipment are increasing and consumption is growing faster than China's production.
+
+## 2018 최진기의 생존경제 - [33] 한국 반도체 산업, 위기인가?
+* 메모리 가격이 떨어지고 있고, 점유율이 하락하고 있고 공급 과잉이 전망된다.
+  Memory prices are dropping, shares are falling and oversupply is expected.
+* 고정가는 상승하고 있고, 인공지능 등 다양한 곳에 쓰이고 있다.(빅데이터) Fixed prices are rising and are used in various places such as artificial intelligence.
+* 아직 격의 차이가 있고 설비 투자가 계속 되고 있다. There is still a gap and facility investment continues.
+
+## 역사
+* 2017년-2018년에는 많은 회사들이 데이터 센터를 구성하기 위해서 세계 반도체 시장 규모가 높았지만, 2019년에는 이미 구성된 지금 감소될것으로 예상
+* 라디오 트렌지스터 - PC 프로세서 메모리 - 모바일 로뎀 RF - 플래시 메모리 - 스마트폰 DRAM, NAND, AP - IOT 프로세서, 항공 GPS 네트워크, 자동차 전자 제어장치, 바이오 MCU 방치, 스마트 그리드
