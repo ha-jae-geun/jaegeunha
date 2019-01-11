@@ -35,6 +35,14 @@
 * It refers to 11 emerging economies that are ranked as a country with good growth potential and investment prospects following Briggs. Next Eleven is the name of 11 countries that will lead the global economy following BRICs (BRICs: Brazil, Russia, India, China, and 4 emerging economies). It is also referred to as N-11.
 
 
+# 베트남
+## 베트남 전쟁
+* 공산주의: 북베트남, 소련, 북한 <> 미국, 호주, 한국, 태국
+* 호치민의 북베트남 땅굴, 구정대공세(설날에 공격)
+	* 북베트남 병력: 고작 40만명 + 재래식 무기 <> 115만명 최신 무기 + 전투기 1800대(전투력 3위)
+* 베트남전쟁의 미국은 사실상 남베트남민족해방전선(베트콩)과의 전쟁이었다. + 언론의 과장 공세(미국 국민들의 시위)
+* 1945면 평화 헌법으로 인해 일본은 군대를 파견 못하고 돈만 지원했지만 미국은 전쟁 후 뉴욕 타임즈에 감사광고를 게재할 때 한국을 제일 위에, 태국 ,호주 등등을 넣었지만 일본은 넣지 않았다.
+
 # 몽골
 * 몽골에서는 사람의 발을 밟으면 사과의 의미로 손을 잡는다. 손을 안잡으면 무시한다는 뜻이다.
 * 우유를 쏟거나 흘리면 손가락으로 찍어서 이마에 3번 묻힌다.
@@ -482,3 +490,12 @@ Legs are long but calf is thin, saving 80% of oxygen consumption
  *  ㆍ칼레진 부족의 근육이 일반인들보다 젖산을 느리게 생간하기 때문에 10% 더 달림
  * 다리는 길되 종아리가 가늘어 80%의 산소 소비량 절약 가능
  * ㆍ튕기며 달리는 주법을 활용(에너지 효율적으로 씀)
+
+# 바티칸 시국
+* 국제 사회 나라 중 가장 작은 나라(이탈리아 수도 로마 안에 있다.)
+	* 교황이 살고 있는 나라
+
+# 소말리아
+* 2차 세계대전때 프랑스, 영국, 이탈리아에 의해 지배당함
+	* 현재에도 해적이 있는 나라
+	* 대한민국 외교부가 정한 여행 금지나라

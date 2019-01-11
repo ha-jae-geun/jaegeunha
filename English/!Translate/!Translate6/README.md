@@ -7,6 +7,13 @@
 생각할수록  좀 아닌 것 같더라고.﻿
   * i considered installing an air-conditioner but, you know, i'm only going to be there for another several monhts and the more i thought about it, it just wasn't worth it
  
+# 전치사 - PART 4 (연습 연습 연습 연습)
+* 저는 일본에 두 번 가봤는데요; i've been to Japan twice
+* 두 번째가 4년 전쯤이었어요; The second time was about 4 years ago
+* 엄마랑 같이 가서 일주일 정도 있엉써요; i went with my mother and we were there for about a week; 웬윗
+* 아주 작은 호텔에서 묵었어요; we stayed in a really small hotel
+* 안에서 시간을 많이 보낼 생각능 없었거든요;  because we weren't planning to spend a lot of time inside
+
 # 전치사 [ in / on at / to ] PART 3 | 대화체 속에서 문맥과 함께 전치사 감각 익히기
 * 다음 주 금요일에 가; i leave next week, on Friday; It's the 18th. 에의 역할을 next가 하고 있음
   * 요일처럼 특정한 어느 하루를 가리킬 때는 'on' 사용; on Monday, on the 18th; 18일이라고 그냥 날짜를 말했기 떄문에 on 사용 안함
