@@ -131,6 +131,7 @@
 	* = 난 거기에 동의하지 않았어. I didn't give my consent to it.
 * company 는 '회사'라는 뜻 외에도 [함께 있음]을 의미하기도 해요. 그러다보니 '동료, 친구들'의 의미를 갖기도 하는데요. part 는 전체가 아니라 '부분'을 의미하는 단어니, 동사로 쓰이게 되면 [헤어지다, 갈라지다, 갈라놓다] 등의 의미를 가집니다. 이 표현들이 함께 쓰인 part company 는 1) 두 명 이상의 사람들이 헤어지다, 다른 방향으로 향하다, 또는 2) 동의하지 않아서 갈라지는 걸 의미하는 숙어입니다. 구어보다는 격식체, 문예체로 많이 쓰입니다.
 		* = 김연아는 브라이언 오서 코치와 2010년에 결별하였습니다. Kim Yuna parted company with Brian Orser in 2010. 
+* 동의해; i second that
 
 # 되돌아가다
 * 우리가 2년 전으로 돌아가 결혼 생활에 한 번 더 기회를 줄 수 있었으면 좋겠소. I wish we could turn the clock back two years and give the marriage another chance. 
@@ -141,6 +142,10 @@
 * 강제로 추억 소환하게 되는 노래, 사진, 영화.. 몇 개 있으시죠? throwback 도 이전의 추억을 떠올리게 해주는 것들을 의미하는 명사입니다. 뒤에 다른 명사를 써서 throwback song 등으로 쓰기도 해요. 요즘엔 SNS 에서 #throwback 이라고 해시태그를 걸고 예전 사진을 많이 올리기도 하죠. throw back 이라고 띄워서 쓰게 되면 동사로 생각, 시간 등을 [거슬러 올라가다] 라는 의미를 가지기도 한답니다.
 	* 이 노래를 들으면 항상 추억 돋아. ex) Listening to this song is always a throwback.
 
+# 뒤집다
+* 전을 뒤집다; turn[flip] the fried food
+* 1.(안을 밖으로) turn sth inside out, turn sth wrong side out 2.(위를 아래로) turn sth over, turn sth upside down 3.(말·계획·순서 등을) upset, reverse 4.(판결·학설 등을) overturn, overrule, reverse
+
 # 따르다
 * : 발자취(footsteps)를 따른다는 것으로 ‘뒤를 따르다, 본받다, 뜻을 잇다’ 등으로 해석할 수 있습니다. 여기서 전치사 in을 꼭 써야 합니다. 만약 I followed his footsteps. 라고 하면 그의 발자국 소리를 듣고 뒤를 따라갔다는 것이기 때문에 의미가 달라져요.
 	* 나는 우리 언니의 뜻을 이어서 여학생 모임에 가입하려고 해. I am following in my sister's footsteps and joining the sorority.
@@ -148,6 +153,14 @@
 # 리스트
 * 리스트에서 그건 뺴자; Crossing that one off the list; cross off: 줄을 그어 지우다.
 * 한 칸에만 체크해 주세요. Please tick one box only.
+
+# 많다
+* - by the score: 수많은 - in/  by scores: 다량으로, 다수로
+
+# 맞대다
+* 1. heart-to-heart : [명] 마음을 맞댄, 터놓고 하는 솔직한 대화  [ex] We had a heart-to-heart.
+* 2. face-to-face : [형] 마주보고 하는, 직접 만나서 하는 [ex] Let's talk face-to-face.
+* 3. head-to-head : [명] 정면대결, 대접전 [ex] Trump and Clinton went head-to-head.
 
 # 몸매
 * * get into shape = 몸매를 가꾸다, 몸을 만들다  stay in shape = 체력/건강/몸매를 유지하다  in a good(bad) shape = 건강/몸매가 좋은 (나쁜)
@@ -179,6 +192,10 @@
 # 믿다
 * = 속는 셈 치고 믿다, 유리하게 해석하다  give someone the benefit of the doubt 2) 그렇지만 단어를 하나하나씩 뜯어본다면, 듣는 사람이 말하는 사람의 말을 완전히 다 믿지는 않기에 의심(doubt) 을 하지만, 그중에서 그럴싸한 내용을 믿는다던가 최대한 긍정적으로 그 말을 해석을 함으로써 말하는 사람에게 혜택(benefit) 을 주는 모습에서 나온 표현입니다.
 	* = 이번엔 그냥 속는 셈 치고 한 번 믿어봐. Just give me the benefit of the doubt this time, please.
+* : 나를 믿어라 take it from me
+* 1. 종교적 의미의 "믿음" 'faith'와 'belief'는 그 자체로 '신앙, 신앙심'을 가리킬 수 있습니다. 하지만 'trust'는 이와 같은 맥락에서 사용하지 않죠. the Christian faith
+	* 2. 옳다고 생각하는 소신의 "믿음" 'faith'나 'trust'보다 'belief'가 적절한 경우입니다.
+		* 정직에 대해서는 타협하면 안된다는 것이 저의 소신입니다. [ex] My belief is that you should never compromise on your integrity.
 
 # 받아들이다
 * 그녀는 아직도 아들의 죽음을 받아들이려고 애쓰고 있다. She is still coming to terms with her son’s death.;  (좋지 않은 일을) 받아들이는 법을 배우다[받아들이려고 애쓰다]
@@ -197,6 +214,9 @@
 # 변하다
 * undertake는 ‘하다, 떠맡다, 착수하다’인데요, 시간이 오래 걸리는 일, 혹은 난이도가 있는 일이 목적어로 옵니다. 그래서 undertake changes도 하루 아침이 아니라 오랜 시간동안 변화를 해왔다는 것을 의미합니다. 
 	* 학생들은 간단한 실험을 하라는 요구를 받았다. Students are required to undertake simple experiments.
+
+# 부정
+* = ...는 부정할 수 없지 There's no denying that...  Yes, he's cold. But there's no denying that he's a good leader.
 
 # 비교
 * 1) 비격식 표현으로 주로 전치사 against 와 함께 쓰여 [와 견줄만하다] 라고 해석이 되요. 주로 의문문이나 부정문에 쓰이는 표현입니다. 2) 영상에서는 뒤에 against humans 가 생략이 된거라고 보시면 되는데요. 직역하면 [전세계의 다른 동물들을 인간과 비교해보면 어떨까요?] 의 의미를 가집니다.
@@ -252,6 +272,10 @@
 * 컴퓨터가 갑자기 작동이 안 되고 멈췄을 때 우리말로도 컴퓨터 '다운됐다'라고 하는데요. 컴퓨터 등이 작동을 하다가 멈춰서 쓸 수 없는 동안의 시간을 downtime이라고 하기도 합니다. 비슷하게 누군가 한창 일을 하다가 안 하고 쉬는 시간을 downtime이라고 한답니다.
 	* = 모두가 긴장을 풀 쉬는 시간이 필요해요. Everyone needs downtime to unwind.
 
+# 알다
+* : (OO에 대해) 좀 잘 알다 [ 숙어 ] know a thing or two (about OO) a thing or two는 정말로 한 ,두 개를 의미한다기보다는 '어느 정도', 강조의 '좀'을 뜻한다고 볼 수 있어요^^
+	* 제가 와인에 대해 좀 일가견이 있죠. I know a thing or two about wine. 
+
 # 앞뒤
 * add up 은 '늘어나다'라는 뜻도 있지만, 부정문으로 쓰일 경우에 특히나 무언가 [앞뒤가 맞지 않고 말이 안 된다] 의 의미를 가집니다. It doesn't add up이라고 할 수도 있는데요. 무언가를 쌓아 올리려면 밑에 있는 것들이 잘 들어맞아야 하는데 그렇지 못한 모습을 연상하시면 될 것 같아요!
 
@@ -270,6 +294,8 @@
 # 영향
 * a ton of 은 무언가가 [굉장히 많은] 을 의미하는 비격식 표현인데요. 실제로 벽돌 (brick) 이 1톤 정도 자기 주변에 있다고 생각하면 아주 무겁고 답답하고, 힘들고 그럴 거예요. 그래서 la ton of bricks 는 [갑작스럽고 중요한 영향] 정도로 해석이 됩니다. 영상에서는 동사 [go over = 특정한 반응을 이끌어내다] 와 함께 쓰여서 직역하면 [용돈을 줄인 건 엄청난 영향을 이끌어냈다] 정도로 해석이 되지만 의역하여 [딸은 충격에 휩싸였죠] 로 해석이 되었습니다.
 	* 그 진실이 내겐 큰 충격으로 다가왔다. ex) The truth hit me like a ton of bricks.
+* =[ 숙어 ] rub off on somebody : (다른 사람의 특징, 습관, 견해 등이) 에게 옮다, 물들다, 영향을 주다
+	* 부정적 생각이 나한테 영향을 주지 않길 바란다. I don't want negative thinking to rub off on me.
 
 # 예시
 * 1) 여기서 go-to example은 ‘대표적인 예’로 해석할 수 있습니다. go-to는 어떤 것에 딱 맞는, 그래서 가서 찾게 된다는(go to) 의미로 쓰입니다. 예를 들면,
@@ -375,6 +401,11 @@
 # 즐기다
 * 동사와 명사의 형태가 같은 단어인데요. 무언갈 즐길 때 enjoy 로는 부족할 때! relish 를 쓰시면 됩니다. enjoy 와 마찬가지로 뒤에 명사 또는 ing 를 씁니다. (to 동사원형은 못써요!)  ex) Some people relish eating bugs. ˈrelɪʃ] 
 
+# 지나가다
+* 영상에서는 (I) hope / that's just a phase. 로 쓰여 [그냥 지나가는 단계이길 바래] 로 직역이 될 수 있습니다.
+	* 그냥 지나가는 단계라고 말하지마. 넌 임신하는게 어떤지 몰라. ex) Don't say it's just a phase. You don't know what it's like to be pregnant.
+	* Let it slide; Cut someone slack
+
 # 직전
 * on the verge of something; on the verge of doing something
 	* 조애나는 금방이라도 울 것만 같았다. Joanna was on the verge of tears.
@@ -397,6 +428,9 @@
 
 # 초급
 * 초급 수준으로 가르쳐주실 수 있나요? Could you teach me something very elementary
+
+# 최고
+* best - ever; best day/present ever
 
 # 투자
 * 단어 안에 신뢰 (trust) 라는 단어가 들어가 있으니, 누군가를 믿고 맡기는 것을 의미합니다. 영상에서는 [투자하다] 라고 해석이 되었어요.

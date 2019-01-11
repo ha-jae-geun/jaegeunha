@@ -15,6 +15,7 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 * 야식 먹으려고? Are you going to eat a midnight snack?
 
 # tool
+* 냄비: pan: 손잡이가 달린 얕은 냄비, pot 솥은 뚜겅이 있는 깊은 냄비
 * 숯; tʃɑːrkoʊl]  charcoal  charcoal grilled steaks  [koʊl] 
 * 도구 내려놓으세요; Down, tools
 * 후라이펜을 중불에 예열해라; preheat nice big skillet on medium high [skílit] 
@@ -49,12 +50,11 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 * 과자; confectionery 미국식 [-ʃəneri]  영국식 [kənˈfekʃənəri]; 제과 공장; a confectionery plant 
 * 토핑이 덜 있어서 그런걸 수도 있어요; because there are less toppings
 * 얇게 썰어 쪽 찢은 고기; sliced, shredded meat; shred: 장조림이나 맛살처럼 길고 가늘게 자르거나 뗴어네는 것
-* #노른자 터뜨리지 말아ㅜㅈ세요; I want it sunny side up
 * #살코기 주세요; can you give me a #lean cut
-* #지방은 싹 떼어주세요; can you trim the fat off
+	* #지방은 싹 떼어주세요; can you trim the fat off
 * 조개를 캐다; #dig out the clams
-* ☆가리비는 scallop; collop, 맛조개는 razor clam, 바지락은 Manila clam, 꼬막은 cockle이라고 합니다.
-* #진주는 pearl이라고 하는데요. 이 진주가 나는 조개는 영어로 Pinctada fucata GOULD
+	* ☆가리비는 scallop; collop, 맛조개는 razor clam, 바지락은 Manila clam, 꼬막은 cockle이라고 합니다.
+	* #진주는 pearl이라고 하는데요. 이 진주가 나는 조개는 영어로 Pinctada fucata GOULD
 * 찹살가루; Glutinous rice powder
 * 반죽; batter; 가루+물; 주로 펜케이크, 케이크용 반죽, 튀김옷 같은 묽은 반죽; 베터 <> 빵, 피자, 면 등 밀가루 반죽: dough
 * 치킨을 전혀 으깨지 않았어; the chcken is not mushy at all 
@@ -65,6 +65,8 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 
 # Egg
 * 노른자 살짝만 익혀주세요; I want it over easy
+* #노른자 터뜨리지 말아ㅜㅈ세요; I want it sunny side up
+
 
 # Nutrition
 * 몸에 좋다; It's good for your body --> it's good for you, it's healthy
@@ -358,16 +360,17 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 * ##깨 #들깨 #sesame seed; #뿌리다; can you #sprinkle sesame seed
 --------------------------------------------------------------------------------------------------------------------
 * #영양분
+	* high in carbohydrates (탄수화물)  proteins (단백질) fats (지방)  Calcium (칼슘) iron (철)  sodium (나트륨) minerals (무기질) potassium  (칼륨) zinc (아연)﻿
 * #영양사 #dietitian; 다이어티션
 * #탄수화물 당신이 섭취하는 음식에는 탄수화물이 너무 많아요	 [stɑ:rtʃ] [|kɑ:rboʊ|haɪdreɪt]
 * There's too much starch/ carbohydrate in your diet.
 * #칼륨 								 potassium 미국·영국 [pə|tӕsiəm]
+* #아연 #zinc
 * #지방, 포화 지방 								 #saturated fat 
 * #무지방; #fat free yogurt
 * #나트륨								 sodium 미국식 [|soʊdiəm] 
 * #젖당									 [lǽktous] lactose-free
 * #유산균 #probiotics; lactobacillus, lactic acid bacteria
-* #아연 #zinc
 * #석영; #quartz
 
 * #채식주의자

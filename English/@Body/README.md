@@ -311,6 +311,8 @@ how dare you say such a thing #to my face
 	* 목이 따가어; i have a sore throat
 	* 목이 쉬었어; my voice sounded rapsy [ˈræspi]
 	* 목사애가 좋지 않아서 목소리가 작게 혹은 낮게 들릴 때; she sounded muffled
+	* 뭐가 목에 걸렸다고 말할 때 [get/have something caught in one's throat] 이렇게 말해요~
+		* 목에 생선 가시가 걸렸어. I got a fish bone caught in my throat.
 
 
 # 다리
@@ -583,11 +585,12 @@ His sudden smile made her go #weak at the knees. ; 2. 약한
 * #둔부, #음부, #국부	loins (문예체) (사람의) 음부[국부] 
 that's quite a package/junkㅌ
 * 발등	top (side) of the foot 
-* 발가락	toe [toʊ]
-* #발꿈치	heel
-* 엄지 발가락	a big[great] toe 
-* 새끼 발가락	a little toe 
-* 발바닥	sole [sóul]
+	* 발가락	toe [toʊ]
+	* #발꿈치	heel
+	* 엄지 발가락	a big[great] toe 
+	* 새끼 발가락	a little toe 
+	* 발바닥	sole [sóul]
+	* * stub one's toe : 발을 찧다, 채이다.  내 아들이 의자 다리에 발을 찧고는 울었어. ex) My son stubbed his toe against a chair leg and cried.
 * #때 밀었어.	I scrubbed my body.
 * #체중계 #몸무게	weighing machine, scale(s) 
 * #체중 이동	#weight movement

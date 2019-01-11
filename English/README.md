@@ -9,7 +9,7 @@
 * 어원; https://www.etymonline.com/
 * 예문; http://youglish.com/
 * 영어 약어 사전 http://www.abbreviations.com/
-
+* 일상 회화 http://e4u.ybmnet.co.kr/EngPhone/community/commu_search.asp?mode=S&category_code=&U122003=1546927473023154459.1547189319178.2.0.1544596UO44IXAZB0B0.0.0.0.....
 
 
 ##영어

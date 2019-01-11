@@ -279,6 +279,10 @@
 * 동사 butt 은 ‘머리로 들이받다, 밀다’를 의미합니다. (엉덩이로 들이받는 것 아니에요!) 그래서 butt heads 는 투우 경기처럼 ‘두 머리로 들이받다, 싸우다’를 말합니다.  주의할 것은 butthead 라고 하면 ‘바보 같은 녀석, 머저리’가 돼버립니다. 머리에 똥 찬것처럼 머리가 엉덩이다 뭐 그런 뉘앙스에서요. 「Beavis and Butthead : 비비스와 버트헤드」 라는 소위 ‘병맛애니’도 있습니다.  그리고 ‘박치기’도 head-butt 이라고 해요. 동사, 명사 둘다 가능합니다.
 	* 주민들은 쇼핑몰 개발업자들과 계속해서 갈등을 빚고 있다. The residents continue to butt heads with the mall developers.
 
+## call
+* 격식체 표현으로 말하는 내용이 맞는지, 좋은지, 사실인지 등에 대해 의문을 제기하는 것을 의미합니다. 목적어는 call 뒤에 쓰거나 영상에서처럼 목적어가 길 경우엔 뒤로 빼서 쓸 수도 있어요. * call ~ into question = 의문을 제기하다
+	* = 누구도 네 의도에 의문을 제기하지 않아. No one calls your intention into question.
+
 ## catch
 * 전체적으로는 좋은데 문제시 되는 것, 겉으로 드러나지 않았던 숨은 문제를 명사로 a catch 라고 합니다. 
 	* (다 좋은데) 문제는, 아무도 제시카랑 3개월 이상 일한 사람이 없어. 아주 못됐거든. But here’s the catch. No one has ever worked more than 3 months with Jessica. She’s evil. 
@@ -419,6 +423,11 @@
 ## dragon
 * 용을 죽이다; slay a ragon; 유럽에서 용은 파괴의 힘, 인간과 대적하는 존재, 용은 물리쳐야 하는 존재로 
 
+## drop
+* drop은 '떨어지다'라는 의미 외에도, (물)방울, 소량의 뜻이 있습니다. 여기서 조금 다른 의미에서 사탕, 물약이라는 뜻도 있죠. 
+	* - fruit drops는 과일맛 사탕 
+	* - cough drop: 기침 (멎게 하는) 캔디 (같은 약) (감기 걸렸을 때 이걸 찾는 사람들이 참 많습니다!)
+
 ## end
 * [ 숙어 ] end up ing 일상에서 정말 자주 쓰는 표현이니 꼭 익혀두세요~! '[본의 아니게, 우연히, 결과적으로] ~하게 되다' 라는 뜻!
 * ※ end up in + 장소 / here / there … : 행동이 아닌 '어떤 장소에 우연히 도달하다'라고 말하고 싶다면, 요렇게 표현해보세요!
@@ -498,6 +507,10 @@
 ## follow
 * follow in someone's footsteps 는 직역하면 [누군가의 발자취 속에서 따라가다] 라는 의미인데요. 즉, 다른 사람 (특히 가족 구성원)이 이전에 했던 일을 본받아 하는 것을 의미합니다. 특히 '직업/경력' 을 따라가는 것을 의미하는데요. 
 	* 형의 발자취를 따라, 나는 대학에서 공학을 공부 중이다. ex) Following in my brother's footsteps, I am studying engineering at college.
+
+## game
+* : 'A급 플레이를 하다', 즉 '최선을 다하다, 실력/기량을 최대로 발휘하다' 라는 뜻이에요! [ 슬랭 ] bring one's A-game
+	* 모두가 최고의 기량을 펼쳐줘야 해. We need everyone to bring their A-game.
 
 ## go 
 * / 상당한 영향을 주다. = 주어 go a long way towards 목적어 go a long way 는 [오래가다/지속되다] 라는 뜻이 있어요. 그래서 그 효과/도움 등이 특정한 것을 향하여 쭈우욱- 이어지는 느낌이죠. A little thanks goes a long way. 
@@ -883,7 +896,10 @@
 ## jump
 * : 시동이 걸리지 않는 차를 직접 밀거나, 다른 차의 배터리에 연결해 시동거는 걸 말해요! 이 상황에 비유해서, 상황이 안 좋을 때 특별히 노력해서 '되살아나게 하다', '활력/활기를 불어넣다' 또는 단순히 활기차게 효과적으로 '시작하다, 시동걸다' 라는 뜻으로 쓸 수 있답니다. 
 	* 아침에 하는 운동은 언제나 내 하루의 시작에 시동을 걸어줘. [ex] Morning workouts always jump start my day.
-
+* 누군가가 너무 초초하면 가만 못있고 총총 점프하듯 계속 움직이잖아요? 그런 모습에서 온 비격식 표현입니다.
+	* 비록 그는 괜찮아 보였지만, 그의 목소리는 눈에 띄게 초조하게 들렸다. ex) Although he looked fine, his voice was notably jumpy.
+* : (충격이나 무서움에) 너무 놀라 펄쩍 뛰다  [ 숙어 ] jump out of one's skin
+	* 그 소리 때문에 그는 놀라 까무러쳤다. The noise made him jump out of his skin.
 
 ## look
 ### look out
@@ -906,6 +922,12 @@
 
 ## left
 * left-wing 좌익 단체들left-wing groups 
+
+## live
+* live for : 가 삶의 이유/낙이다
+	* 내 삶의 이유/낙은 음악이야. Music is what I live for.
+* 'live with sth'은 바꿀 수 없는, 어렵고 불쾌한 [무엇]이 닥쳤을 때 이를 받아들인다는 뜻이랍니다. 우리말로는 '~을 감수하다' '~을 수용하다' 등이 되겠네요.
+	* 걔는 그 죄책감을 어떻게 안고 살아? [ex] How can he live with the guilt?
 
 ## like
 * 비슷한 느낌의, 거의 같은 느낌 <> as
@@ -1137,6 +1159,8 @@
 * : 초밥이라도 좀 사다 드릴까요? Should I pick you up some sushi? 누군가에서 물건이나 먹을 것 등을 사다 줄 때, 'Pick someone up something' 의 형태로 씁니다. 
 * : 회사는 이미 당신의 계약을 계속이어가는데에 동의 했습니다. The company's already agreed to pick up your contract. 어떤 일을 다시하거나, 하던 것을 계속이어나갈때, 'Pick up'을 쓸 수 있습니다.
 	* 논의는 내일 이어서 합시다. [ex] Let's pick up the discussion tomorrow.
+* pick up 이 [줍다] 라는 의미가 있으니, 누구 뒤를 (after) 졸졸 따라 다니면서 엉망으로 해 놓은 상황을 뒤치다꺼리를 하는 뉘앙스의 표현입니다.
+	* 내 뒤치다꺼리를 안해줘도 돼. ex) I don't need you to pick up after me.
 
 ## pump
 * pump the brakes는 직역하면 ‘브레이크를 밟다, 브레이크를 누르다’인데 관용어적으로 보면 “지금 하고 있는 행위를 멈춰라”라는 뜻입니다. 여기에 hate(분노, 증오)를 붙여서 타노스가 지금 하고 있는 행위는 분노에 차서 하는 일이니 그걸 그만 두라고 하는 거죠. 그래서 ‘분노 좀 죽여라, 지금 열받아서 하는 짓을 그만 둬라’ 정도로 이해하시면 됩니다. 
@@ -1147,6 +1171,10 @@
 
 ## root
 *  내 생각엔 엄마가 방을 뒤진 것 같아. I think my mom has been rooting around my room,.
+
+## rub
+* =[ 숙어 ] rub off on somebody : (다른 사람의 특징, 습관, 견해 등이) 에게 옮다, 물들다, 영향을 주다
+	* 부정적 생각이 나한테 영향을 주지 않길 바란다. I don't want negative thinking to rub off on me.
 
 ## run
 * 진행하는 느낌
@@ -1191,6 +1219,12 @@
 * 여기 한국에는 관료주의가 많다. There ’ s lots of red tape involved here in Korea
 * 나를 특별하게 대우할 필요는 없습니다. There's no need to roll out the red carpet for me.  
 
+## sake
+* for God's sake와 같은 뜻입니다.; Peter 가 성경에서 베드로이며 God's 대신에 Pete's 쓰이기도 합니다 ^^
+
+## single
+* 그녀가 지목되어 비판을 받았다. She was singled out for criticism.  (을 위해/~으로) ~을 선발[지목]하다
+
 ## savvy
 * 비격식 표현으로 실용적인 지식, 솜씨, 요령 등을 의미할 때 굉장히 많이 쓰이는 명사입니다. 형용사로도 쓰여 [요령 있는, 지식이 많은] 의 의미를 가집니다.
 	* = 요즘 대부분의 10대들은 테크놀로지에 능숙합니다. Most teenagers are tech savvy these days.
@@ -1205,6 +1239,11 @@
 ## sense
 * in all senses of the word = 어느 모로 봐도 / 어느 점으로 봐도; sense 는 감각뿐만 아니라 ‘점, 면, 의미’를 뜻하기도 합니다. 그래서 이 표현은 ‘그 단어가 의미하는 어떤 부분을 보아도’를 말하고 주로 문장 안에 그 단어를 지칭하는 구체적인 말이 따라옵니다. 
 	* 그는 어떤 면으로 봐도, ‘훌륭한 사람’ 그 단어 자체야. He is a fine man, in every sense of the word.
+
+## stock
+* stock 은 [재고, 비축품] 으로 동사일 때는 [많이 사다놓다, 채우다] 를 말합니다. 참고로 전치사의 유무에 따라 의미가 달리지니 잘 구별해 주세요.
+	* = 그녀는 냉장고에 물건을 채워넣었다.  ▷ She stocked up the fridge.
+	* (stock up on/with ⓝ = ~로 채우다, ~를 많이 사다)
 
 ## storm
 * '폭풍' 으로 가장 잘 알려진 storm 은 무언가가 빠르고 강렬할 때 비유적으로도 많이 쓰입니다. take ~ by storm 도 마찬가지로 누군가의 마음을 단번에 사로잡거나, 순식간에 성공을 거두는 것을 의미할 때 많이 쓰이는 표현입니다.
@@ -1223,6 +1262,8 @@
 ## set
 * 비가 하루 종일 내릴 기세로 시작한 것 같았다. The rain seemed to have set in for the day. 
 * 그들이 기계에 시동을 걸었다. They set the machinery in motion. 
+	* 움직이게끔(in motion) 시작시키는(set) 모습의 단어이기에 무언가 작동하지 않는 것을 작동하게 하고, 움직이게 하는 것을 의미합니다. 또한 이어지는 일들에 시동을 걸고 시작하는 것을 의미하기도 해요. 목적어를 중간에 쓰기도 하고, [set in motion + 목적어]로 쓰기도 합니다. 참고로 set the wheels in motion 이란 표현도 종종 쓰는데요, 바퀴가 굴러가게끔 하는 모습에서 나온 표현으로 [절차를 시작하다] 라는 의미를 가집니다.
+		* = 위원회는 개정 절차가 시작되도록 투표했다. The committee voted to set the reform process in motion.
 
 ## start
 * - start off by ~ing : ~하면서 시작하다
@@ -1230,6 +1271,10 @@
 	* 쉬운 걸로 시작해보죠. Let's start off with an easy one.
 * kick-start 의 원래 의미는 오토바이처럼 무언가를 힘껏 밟아 시동이 걸리게 하는 [시동 방식] 을 의미하는데요. 그 의미의 연장선으로 무언가에 발동을 걸리도록 하는 것을 a kick-start 라고 합니다.
 	* 내 삶에 추진력이 필사적으로 필요해. ex) I desperately need a kick-start for my life.
+
+## share
+* : 안 좋은 일을 충분히 겪다 [ 숙어 ] have one's share (of something)
+	* 그렇게 말하면 안 되지, 나도 좋지 않은 일 충분히 겪었다고. You can't say things like that, I've had my share.
 
 ## shoot
 * "금액을 제시해 보세요."  "Shoot me an offer" 여기서 shoot me는 날 쏘라는게 아니고, ‘주다, 건내주다’입니다. 그래서 바꿔 말하면 give me an offer 입니다. 
@@ -1270,6 +1315,8 @@
 ## thing
 * 어떤 사람이 the next thing이 된다는 말은 '장차 크게 될 사람, 후에 빵 뜰 인물'이라는 뜻이죠. thing은 꼭 물건에만 사용하지 않고 애정, 칭찬, 경멸 등을 담아 사람을 가리키는 데도 쓰이거든요. 마치 '그 사람 거 참 물건일세!'하고 말하는 것처럼 말이죠. 
 	* 저 남자가 크게 빵 뜰 거라던데. I heard that guy's the next thing.
+* : (OO에 대해) 좀 잘 알다 [ 숙어 ] know a thing or two (about OO) a thing or two는 정말로 한 ,두 개를 의미한다기보다는 '어느 정도', 강조의 '좀'을 뜻한다고 볼 수 있어요^^
+	* 제가 와인에 대해 좀 일가견이 있죠. I know a thing or two about wine. 
 
 ## track
 * track 은 말 그대로 사람들이 따라가도록 나있는 [길] 을 의미하는데요. 무언가를 함에 있어서 목표를 향한 길에서 벗어나지 않고 잘 따라갈 때 on track 이라고 합니다. 제대로 된 방향으로 나아갈 때는 on the right track, 잘못된 방향일 때는 on the wrong track 이라고 하고요. 잠시 잘못된 방향으로 갔다가 다시 돌아왔을 때는 get back on track 이라고 할 수 있어요.
@@ -1297,6 +1344,8 @@
 	* 핀이 농담을 [안 좋을 정도로] 너무 과하게 해댔어. Finn took it way too far with the jokes.
 * 자청해서 을 하다. = take it upon oneself to V
 	* 그녀는 두 마리 개를 자청해서 돌봤다. ex) She took it upon herself to take care of both dogs.
+ * take one's place 1. 있어야 할 곳에 가다. 2. 존재를 인정받다.
+ 	* 사라는 지가 매니저인 양 행동해오고 있어. 돌아와서 네 자리를 찾아. ex) Sarah has been acting like she's the manager. You should come back and take your place.
 
 ### take down
 * 먼저 'Take down'은 기본적으로 '사람이나 사물을 아래로 데려가다' 라는 의미를 가지고 있습니다. 여기에서, '누군가를 어떤 지위에서 끌어내리다', '글자그대로 사람이나 사물을 위에서 아래로 데려가다, 가져가다', '바지를 내리다' 라는 뜻과 '글을 적어내려가다 라는 의미에서 을 적다, 받아적다' 라는 뜻으로 사용됩니다.
@@ -1425,6 +1474,10 @@
 
 ## whip
 * 강도가 호주머니에서 식칼을 꺼냈다. The robber whipped out a kitchen knife from his pocket. 
+
+## wipe
+* wipe는 무언가를 '닦다, 지우다'는 의미로 익숙하죠? 명사 wipe는 무얼 닦는데 사용하는 천조각을 의미하기도 하는데요, wet wipe는 흔히 우리가 일상적으로 사용하는 물티슈라는 뜻이고, baby wipe(아기 물티슈)도 더불어 자주 쓰는 단어입니다.
+
 
 ## withdraw
 * 제시는 그의 손에서 자신의 손을 천천히 [뺐다]. [ex] Jesse slowly withdrew her hand from his.

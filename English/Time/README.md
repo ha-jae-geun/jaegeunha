@@ -1,3 +1,5 @@
+* 마지막; 2) last minute 은 [막판에, 마지막에] 란 뜻으로 정확히는 at the last minute 인데, 구어체에서 간혹 생략하기도 합니다. 
+	* = 나는 항상 일을 미뤘다가 막판에 하는 스타일이야. I always procrastinate and do things (at the) last minute.
 * 즉시, 당장; in a jiffy 미국식  영국식   단어장추가
 	* flat 은 아래의 [참고] 부분에 있는 것처럼 굉장히 많은 뜻을 가지고 있고 많이 쓰이지만, 영상에서처럼 [시간+flat] 을 쓰게 되면 형용사로 '딱 ~ 밖에' 시간이 걸리지 않았을 때, 그만큼 무언가가 놀랍게 빨리 발생했고, 단지 그 시간 밖에 걸리지 않았다는 것을 강조해 주기 위해서 쓰입니다.
 		* 집에 5분만에 도착할 거예요, 엄마. ex) I will be home in 5 minutes flat, mom.

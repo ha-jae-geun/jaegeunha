@@ -40,6 +40,7 @@
 * #애견 보호소 #shelter #짝짓기 mate – mating; mating call
 * 짝을 지어; #pair off
 * #사냥감 #GAME; #fresh game
+	* 동사 pounce는 '덮치다', '덮쳐서 공격하다'라는 뜻입니다. 사자들은 사냥할 때 뒤에서 몰래 다가간 뒤 덮치기 때문에 pouncing lesson을  '사냥 교육'으로 번역했습니다. ^^
 * #수렵 #채집; #hunter-gatherer 
 * #목장; a cattle/sheep #ranch 
 * 못 도망가게 잡아놓고 똥 싸기 직전인 코뿔소 바로 뒤에 놓아야 돼; WE shouldtape him down right behind a rhinoceros who's about to poop rhinoceros 미국식 [-ˈnɑːs-]  영국식 [raɪˈnɒsərəs] 
