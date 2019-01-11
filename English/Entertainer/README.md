@@ -368,6 +368,7 @@
 * 오스카 11개 부문에서 수상하다’ 						 win 11 Oscars 수상 소감							 Awards acceptance speech
 	* 오스카 상 후보에 18번 오르다; has been nominated for an Oscar a total of 18 times
 	* 오스카 수상자는 -입니다; The Oscar goes to someone
+	* -배역으로 골든 글로브 상을 수상했습니다; win her Golden Globe for her role of - in -
 * 이야기 #전개가 빠르다 storyline ##unfolds quickly
 * 흥미로운 전개로군 this is an interesting development
 * #구성이 탄탄하다 it is ##tightly plotted

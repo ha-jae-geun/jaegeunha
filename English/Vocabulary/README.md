@@ -424,6 +424,11 @@
 * ※ end up in + 장소 / here / there … : 행동이 아닌 '어떤 장소에 우연히 도달하다'라고 말하고 싶다면, 요렇게 표현해보세요!
 	* 내가 어쩌다 여기까지 오게 됐지? [ex] How did I end up here?; [ex] He ended up in jail.
 
+## engage
+* 들어가는, 관계를 맺는 그림;
+	*  싸움에 휘말리는걸 거부했다. i refused to engage in a fight
+	* 그 영화는 내 마음을 빼았았따; The movie engages bhto the mind and the eyes
+
 ## ever
 * ever가 접두사처럼 단어 앞에 붙으면 '언제나, 항상'이라는 의미가 더해지게 됩니다.
 	* ever-active: 항상 활동적인 ever-growing: 항상 자라나는 ever-changing: 항상 변화하는
@@ -1136,6 +1141,9 @@
 ## pump
 * pump the brakes는 직역하면 ‘브레이크를 밟다, 브레이크를 누르다’인데 관용어적으로 보면 “지금 하고 있는 행위를 멈춰라”라는 뜻입니다. 여기에 hate(분노, 증오)를 붙여서 타노스가 지금 하고 있는 행위는 분노에 차서 하는 일이니 그걸 그만 두라고 하는 거죠. 그래서 ‘분노 좀 죽여라, 지금 열받아서 하는 짓을 그만 둬라’ 정도로 이해하시면 됩니다. 
 	* 그만 해라, 얘야. Pump your brakes, kid. 
+
+## quirk
+* 무슨 기이한 운명의 장난인지 그들이 같은 호텔에 예약을 했던 것이다. By a strange quirk of fate they had booked into the same hotel. 
 
 ## root
 *  내 생각엔 엄마가 방을 뒤진 것 같아. I think my mom has been rooting around my room,.

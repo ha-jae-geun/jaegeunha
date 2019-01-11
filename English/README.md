@@ -117,6 +117,9 @@
 * 헬로밀루 https://m.blog.naver.com/PostList.nhn?blogId=english4evry1&currentPage=1
 * The Red https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 김일승 https://m.blog.naver.com/PostList.nhn?blogId=kishyun
+* 차니쓰 https://m.blog.naver.com/PostList.nhn?blogId=wkosin
+* 와이넛북스 https://m.post.naver.com/my.nhn?memberNo=5039741
+* 슈퍼데디 https://m.post.naver.com/my.nhn?memberNo=5518579
 * 한국번역연구소 https://blog.naver.com/ktri8888
 -----------------------------------------------------------------------------
 * 빌보드 https://www.billboard.com/charts/hot-100#/charts/hot-100

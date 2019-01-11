@@ -76,6 +76,7 @@
 * 여성: 220: 5, 230: 6
 * 카우보이 부츠; hop-a-long-boots
 * 그 방은 깨끗하고 편하게 보였다 The room looked neat and snug [ cozy ]. 듣기 출처:동아 출판
+* 구두 닦으라고 했잖아; i asked for a shoe shine
 
 ##옷 #의복 wear <> put, try on: 관사에 주의 attire=outfit [ə|taɪə(r)]
 * 누드; birthday suit; 한 남자가 발가벗고 돌아다니고 있다.; A man is going about in his birthday suit.; 생일 날 장난
