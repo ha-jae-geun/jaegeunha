@@ -6,6 +6,7 @@
 # 등록금
 * 자신이 사는 주의 대학에 진학하면 in-state tuition
   * <> out of tuition
+* = 학생 생활비 대출  a student maintenance loan 
 
 # spelling bee
 * 초등학교마다 자체적으로 하는 영단어 스펠링 맞추는 대호; 우승자는 백악관도 방문하는  만큼 유명한 콘테스트다.

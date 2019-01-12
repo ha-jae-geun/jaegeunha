@@ -110,8 +110,7 @@
 	* 억울 								depression, oppression, dejection
 	* 억울함을 느끼다; feel cheated
 	* 제가 왜 그런 벌을 받아야 돼요? what did i do to deserve this?
-	* this is #unfair = I didn't do anything to deserve this
-* ##억울
+	* this is #unfair = I didn't do anything to deserve this = I feel (like I’ve beeen) unfairly treated. = I'm innocent
 * 누명쓴거에요; i'm being falsely accused
 	* 무고한대요; i'm 100% innocent
 * 자애로운 미소/태도 				 [bə|nevələnt] a benevolent smile / attitude

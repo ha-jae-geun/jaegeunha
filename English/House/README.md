@@ -536,6 +536,8 @@
 * 다 잘 될거야; Bibia be ye ye
 	* alter 가 [바꾸다, 변하다] 라는 의미를 가지는데요. 조금 더 쉽게 말하고 싶으면 life changing moment 라고 말할 수도 있겠죠?
 		* = 내 첫 직장을 그만두었을 때 그게 내 삶을 바꿔놓은 순간이란 걸 몰랐어. I didn't know it was a life changing moment when I quit my first job.
+	* : 직역하면 '삶을 뒤집다'로, '삶을 완전히 뒤바꾸다' 라는 뜻이에요. 주로 삶의 좋은 변화, 전복을 말할 때 씁니다.  [ 관용구 ] turn one's life around
+		* 그 사람이 내 인생을 뒤바꿨어. She has turned my life around.
 * 아픔을 재경험해야한다; We need to relive the sorrow
 * 인생을 최대한 충실하게 살다; Live it to the fullest; live it(life) to the full(est)
 * 일생에 있을까 말까 한 기회; That is once-in-a-lifetime opportunity

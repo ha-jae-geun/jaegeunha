@@ -21,6 +21,10 @@
 * 내 직감으로는 그는 살인범이 아니다 I have a gut feeling that he is not the murderer . 듣기 출처:능률교육
 * 누나 직감으로 범인 추리하지 마. Don't use your intuition when solving a case.
 
+# 강화
+* 비슷한 단어로는 improve 라는 단어가 있는데요. reinforce 같은 경우엔 '추가적인 재료, 사람, 기구' 등 외부의 도움을 받아서 강화하는 것을 의미합니다. 영상에서처럼 보상의 도움을 받아 습관을 강화하기에 이 단어를 썼습니다.
+	* = 이벤트 동안에 빌딩 주위의 보안을 강화할 겁니다. We will reinforce the security around the building during the event.
+
 # 거리
 * 가까운 거리; spitting distance = The Stephansdom is a stone's throw from the bus stop
 
@@ -58,6 +62,8 @@
 * 주로 [공감] 이라는 의미를 영어로 떠올리려고 하면 아마도 [empathy = 공감, 감정이입 / empathize = 공감하다] 또는 [sympathy = 동정, 연민] 등을 떠올리실텐데요. 두 단어는 헷갈리기도 하고 격식을 갖춘 단어입니다. 특히 empathize 라는 동사는 실생활에서 그리 많이 쓰이진 않아요. 영상에서처럼 쉽고 간단한 relate to 를 훨씬 더 많이 쓰니 꼭 알아두세요.
 * 게임 속의 인물들에 너무 감정 이입하지 마. ex) You shouldn't identify with the characters in the game too much. 2) 영상에서처럼 identify with 를 쓰게 되면 그 사람이 처한 상황을 이해하고 공감하는 것을 의미합니다.
 * 어떤 일, 혹은 사람에 공감한다는 뜻으로 feel the same way~ / have sympathy with~ / sympathize with~ 와 같은 표현입니다. sympathize/sympathy는 상대의 딱한 사정을 측은하게 바라보는 마음도 뜻하지만 relate to처럼 같은 생각과 마음을 갖는다는 의미도 있습니다. 
+* 어떤 일을 곰곰히 생각하고 이해한다는 뜻으로 우리말의 ‘헤아리다, 가늠하다, 짐작하다’에 가깝습니다. –thom 부분을 잘 들어보시면 혀 끝을 가볍게 물어주는 디귿 발음에 가깝습니다. this/that 의 th-처럼요.  그리고 형용사인 unfathomable 도 함께 알아두세요. ‘이해할 수 없는, 헤아릴 수 없는’ / ‘(사람의 마음을) 알 수가 없는’이란 뜻으로 자주 쓰이는 단어입니다.
+	* = 그는 그녀가 왜 그렇게 화가 났는지 짐작하지 못했다. He couldn’t fathom (out) why she was so angry.  [ˈfæðəm] 
 
 # 교환
 * 물건을 서로 교환한다는 뜻인데요, 영상에서처럼 가장 가볍게 쓸 수 있는 단어가 trade 입니다. 이 외에도 swap, switch, exchange 등도 같은 뜻이지만, 용법에 약간씩 차이가 있습니다.  - swap : 구어체. 영국 영어에서 주로 사용. - exchange : 문어체적 느낌. 환전, 상점에서의 물건 교환 등에 씀. - switch : 위치나 자리를 바꾼다고 할 때 주로 씀.
@@ -109,6 +115,13 @@
 # 노력하다
 * make effort; I will make every effort to solve the problem.
 * move mountains: 직역하면 '산을 옮긴다'는 뜻이지만, '산을 옮길 정도의 노력을 들이다'라는 뜻을 가져요.
+
+# 눈치
+* 전혀 모르고 있어요; blind as a bat
+
+# 대가
+* dire 는 형용사로 [몹시 나쁜, 끔찍한] 이라는 뜻이 있어요. cost 대신에 price/expense 를 쓸 수도 있는 표현입니다.
+	* 그런 특권을 가지는 건 좋지만, 거기엔 대가가 따르지. ex) It's nice to have such a privilege, but it comes at a cost.
 
 # 대기
 * 그래서 대기명단에 이름을 올리고 차에서 기다렸어요. So we put our name on the waiting list and we waited in the car
@@ -166,6 +179,9 @@
 # 리스트
 * 리스트에서 그건 뺴자; Crossing that one off the list; cross off: 줄을 그어 지우다.
 * 한 칸에만 체크해 주세요. Please tick one box only.
+* : 후보자 · 합격 대기자 명단에 오르다 I'm waitlisted at 대학교
+* * to-dos / to-do list = 해야 할 일들; What’s that on the wall? – Oh, that’s a list of to-dos and not-to-dos. My mom made it. 
+
 
 # 마음대로
 * * 마음대로 해; knock yourself out = Suit yourself
@@ -241,6 +257,8 @@
 * 약자를 괴롭힌 그 자에게는 자기도 똑같이 (앙갚음을) 당하게 해라. Let the bully have a taste of his own medicine. 
 	* a taste/dose of your own medicine; give a person a taste[dose] of his own medicine
 * 묵은 원한을 갚다. pay off an old score 듣기 출처:프렌딕
+* : 받은 대로 갚아주다.  give as good as one gets
+	* 걱정 마. 그녀는 당한 대로 갚아. Don't worry. She can give as good as she gets.
 
 # 부정
 * = ...는 부정할 수 없지 There's no denying that...  Yes, he's cold. But there's no denying that he's a good leader.
@@ -267,6 +285,10 @@
 * 전쟁이 교착상태에 빠졌다.ex) The war has reached a stalemate.
 * Hilfenhaus는 이해가 빠르다.  Hilfenhaus is quickly off the mark; 상황 판단이 빨라
 
+# 서투르다
+* 직역하면 [햄처럼 생긴 주먹을 가진] 이란 뜻인데요. ham-handed 라고 쓰이기도 해요. 손이 햄처럼 크고 뭉툭하면, 뭔가 손으로 다루는 일에 서툴겠죠? 그런 의미의 연장선으로 사람을 다루거나, 무언가를 함에 있어 전반적으로 [서투른] 이라는 의미를 가지게 된 형용사입니다.
+	* 그들은 어설픈 방식으로 그 문제에 대응했다. ex) They dealt with the problem in a ham-fisted way.
+
 # 선배
 * senior, superior 같은 표현을 쓰면 상하체계가 확실히 잡혀있는 군대를 더올리게 된다.
 
@@ -292,6 +314,7 @@
 # 소문
 * By all accounts; Rumor has it that
 * 그들이 소문을 내자 그 소문이 온 동네에 퍼졌다. As they started a rumor, the rumor have spread over their village. 
+* 내 비밀을 동네방네 떠벌리고 다닌 게 바로 너구나. ex) You are the one blabbing my secrets to the world.
 
 # 소외
 * be alienated, be marginalized, be excluded, be isolated
@@ -309,6 +332,9 @@
 # 쉬다
 * 컴퓨터가 갑자기 작동이 안 되고 멈췄을 때 우리말로도 컴퓨터 '다운됐다'라고 하는데요. 컴퓨터 등이 작동을 하다가 멈춰서 쓸 수 없는 동안의 시간을 downtime이라고 하기도 합니다. 비슷하게 누군가 한창 일을 하다가 안 하고 쉬는 시간을 downtime이라고 한답니다.
 	* = 모두가 긴장을 풀 쉬는 시간이 필요해요. Everyone needs downtime to unwind.
+
+# 습관
+* 좋은 습관 만드는법; how to build good study habitss
 
 # 알다
 * : (OO에 대해) 좀 잘 알다 [ 숙어 ] know a thing or two (about OO) a thing or two는 정말로 한 ,두 개를 의미한다기보다는 '어느 정도', 강조의 '좀'을 뜻한다고 볼 수 있어요^^
@@ -338,6 +364,7 @@
 # 예시
 * 1) 여기서 go-to example은 ‘대표적인 예’로 해석할 수 있습니다. go-to는 어떤 것에 딱 맞는, 그래서 가서 찾게 된다는(go to) 의미로 쓰입니다. 예를 들면,
 	* (사람들이) 컴퓨터 문제가 있으면 꼭 제임스씨를 찾는다. ex] Mr. James is a go-to person for computer questions. 
+* 이것이 아주 좋은 예입니다. This is a case in point.
 
 # 예의
 * 예의바르게 행동해 mind your Ps and Qs 
@@ -379,6 +406,8 @@
 # 이해
 * = wrap one's brain/head/mind around 머리를 꽁꽁 싸매듯이 이해하려 하는 것을 의미해요. 조금 어렵고, 혼란스럽고, 생소한 것을 이해하려는 모습의 단어입니다.
 	* 방금 일어난 일을 이해할 수가 없어. ex) I just can't wrap my head around what's just happened.
+* across 가 [건너, 가로질러] 라는 의미가 있듯이 get across 는 요점, 핵심, 생각, 입장 등을 상대방에게 전달해서 이해시키는 것을 의미합니다. 
+	* = 난 우리가 이 메시지를 가능한 많은 사람들에게 전달했으면 좋겠어. I hope we can get across this message to as many people as possible.
 
 # 일치
 * congruence (= congruency) = 일치성, 조화, congruent = 일치하는, 조화를 이루는 [ˈkɑːŋ-]  영국식 [ˈkɒŋɡruənt] 
@@ -478,6 +507,8 @@
 
 # 책임
 * 범죄자들은 그들의 행동에  책임을 져야 할 것입니다; The criminals are held responsible for their actions
+* 여기서 get away with 는 '한 짓을 하고도 넘어가다, 책임을 면하다' 라는 뜻의 관용구예요.
+	* 어떤 사람들은 거짓말 하고도 그냥 넘어갈 수 있을 거라 생각하지. Some people think they can get away with lying.
 
 # 초급
 * 초급 수준으로 가르쳐주실 수 있나요? Could you teach me something very elementary
@@ -486,6 +517,10 @@
 * best - ever; best day/present ever
 	* - is out of this world
 * Best thing since sliced bread; 직역을 하면 식빵이 나온후 가장 좋은것 이라는 뜻입니다.
+
+# 추천
+* : 직역하면 'A를 위해 말을 잘 해주다' 로, 'A를 추천해주다' 라는 뜻이에요! 특히 이런 직업 관련 추천을 말할 때 자주 써요.  put in a good word for A
+	* 말 좀 잘 부탁드릴게요. Please put in a good word for me.
 
 # 투자
 * 단어 안에 신뢰 (trust) 라는 단어가 들어가 있으니, 누군가를 믿고 맡기는 것을 의미합니다. 영상에서는 [투자하다] 라고 해석이 되었어요.
@@ -516,6 +551,9 @@
 
 # 한번쯤은
 * at one point or another
+
+# 합격
+* : 후보자 · 합격 대기자 명단에 오르다 I'm waitlisted at 대학교
 
 # 해외
 * travel abroad; live aborad; go abroad

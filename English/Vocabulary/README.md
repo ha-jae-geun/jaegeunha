@@ -141,6 +141,14 @@
 * closed until monday; 일요일 까지 닫는다
 * City till i die; 죽기 직전까지; 맨시티 구호
 
+## up
+* 1. 을 위해 내놓은
+	* 앤은 입양대상으로 올려졌다. [ex] Ann was put up for adoption.
+* 2. (지위·자리 등에 대해) 고려되고 있는
+	* 자네는 승진대상으로 고려되고 있네. [ex] You're up for promotion.
+* 3. [spoken/구어체] 기꺼이 하려는
+	* 에단이 한다고 하면, 맨몸수영하러 가고 싶어. [ex] I want to go skinny-dipping if Ethan is up for it.
+
 ## on
 * 표면에 접촉한 그림
 
@@ -221,6 +229,8 @@
 	* 난 걔가 가족들로부터 벗어나면 행복해할 거라고 생각해. ex) I think he would be happy if he breaks free of his family.
 * 하기 어려운 말을 할 때, 안 좋은 소식을 전할 때 자주 쓰는 표현이에요. 여기서 break 는 '소식을 알리다'!
 	* 이런 말 해서 미안한데, 쟤 말이 맞아. I hate to break it to you, but he's right.
+* 물리적인 제약으로부터 벗어나거나, 자신을 둘러싸고 있는 상황, 그룹, 사람으로부터 벗어날 때 쓰는 표현이에요. 비슷하게 break away 라고도 할 수 있습니다.
+	* 난 마침내 종교적인 관습으로부터 벗어나기 시작했어. ex) I'm finally starting to break free of the religious tradition.
 
 ### break down
 *  테드는 그 사고를 다시 머릿속에서 경험했을 때 흐느끼며 무너져 내렸다. Ted broke down sobbing as he relived the accident.
@@ -287,6 +297,10 @@
 		* 내가 사무실에서 방귀를 뀐 이후로, 난 모든 농담의 대상이 되었다. ex) Ever since I farted in the office, I've been the butt of every office joke.
 * 동사 butt 은 ‘머리로 들이받다, 밀다’를 의미합니다. (엉덩이로 들이받는 것 아니에요!) 그래서 butt heads 는 투우 경기처럼 ‘두 머리로 들이받다, 싸우다’를 말합니다.  주의할 것은 butthead 라고 하면 ‘바보 같은 녀석, 머저리’가 돼버립니다. 머리에 똥 찬것처럼 머리가 엉덩이다 뭐 그런 뉘앙스에서요. 「Beavis and Butthead : 비비스와 버트헤드」 라는 소위 ‘병맛애니’도 있습니다.  그리고 ‘박치기’도 head-butt 이라고 해요. 동사, 명사 둘다 가능합니다.
 	* 주민들은 쇼핑몰 개발업자들과 계속해서 갈등을 빚고 있다. The residents continue to butt heads with the mall developers.
+
+## cultivate
+* 보통 곡식, 작물 등을 [경작하다, 재배하다] 라는 의미로 많이 쓰이는 단어인데요. 시간과 노력이 많이 들어가는 일이죠. 그래서 쉽게 바뀌지 않는 자신만의 분위기나, 태도, 이미지 등을 더 나은 상태로 향상시키는 일 또한 cultivate 라고 합니다. 시간과 노력이 굉장히 많이 드니까요.
+	* 내 자신을 가꾸기 위해 (수련하기 위해) 일주일에 세번 요가하러 갑니다. ex) I go to yoga class three times a week to cultivate my mind.
 
 ## call
 * 격식체 표현으로 말하는 내용이 맞는지, 좋은지, 사실인지 등에 대해 의문을 제기하는 것을 의미합니다. 목적어는 call 뒤에 쓰거나 영상에서처럼 목적어가 길 경우엔 뒤로 빼서 쓸 수도 있어요. * call ~ into question = 의문을 제기하다
@@ -429,6 +443,8 @@
 	* 너희들 걔 좀 그만 놀려먹을래? 거슬려. ex) Can you guys stop digging at him? It bothers me.
 * 1) 비격식 표현으로 육체적인 힘이나 정신적인 힘, 재정적인 것을 굉장히 많이 쓰는 것을 의미합니다. 젖 먹던 힘까지 짜내는 듯한 뉘앙스입니다. 깊이 (deep) 파 들어가는 것 (dig) 이니까요. 2) 뒤에 dig deep into something 라고 쓰이면 [무언가를 철저히 파고들다/조사하다] 라는 의미로도 쓰입니다.
 	* 더 힘을 내! 난 네가 더 잘 할 수 있다는 걸 알아. ex) Dig deep! I know you can do better.
+* 어디론가 가기 싫어서 발로 땅을 파서 박아두고 고집을 피우는 모습을 생각하시면 이해가 빠르실 거예요. feet 대신에 heels (발굽) 나 toes (발가락) 을 쓰기도 합니다.
+	* 난 내가 꽤 유연하다고 생각하는데, 이것에 대해선 확고해. 거기로 돌아가지 않을 거야. ex) I think I'm pretty flexible, but I'm digging in my feet on this. I'm not going back there.
 
 ## develop
 * develop 은 기본적으론 [개발하다] 라는 뜻이지만, 없던걸 만들어내는 뉘앙스이기 때문에 뒤에 병명이나 어떤 문제가 목적어로 오게 되면 1) 없던 병에 걸리거나 2) 문제가 생길 때도 쓰이는 단어입니다.
@@ -445,6 +461,10 @@
 * drop은 '떨어지다'라는 의미 외에도, (물)방울, 소량의 뜻이 있습니다. 여기서 조금 다른 의미에서 사탕, 물약이라는 뜻도 있죠. 
 	* - fruit drops는 과일맛 사탕 
 	* - cough drop: 기침 (멎게 하는) 캔디 (같은 약) (감기 걸렸을 때 이걸 찾는 사람들이 참 많습니다!)
+
+## edge
+* edge 는 [가장자리, 끝] 이라는 뜻이 있어서 누군가를 벼랑 끝으로 몰아넣는 상황의 뉘앙스를 가져요. 벼랑 끝으로 몰리면 멘붕이 오고 미쳐버리겠죠? 그래서 over the edge 는 정신적/감정적으로 완전히 통제를 잃고 미쳐버리는 상태를 의미합니다. push 대신 drive, send 등의 동사를 쓰기도 합니다.
+	* = 이 소식이 그를 돌아버리게 할까 봐 걱정이야. I'm just worried that this news would push him over the edge.
 
 ## end
 * [ 숙어 ] end up ing 일상에서 정말 자주 쓰는 표현이니 꼭 익혀두세요~! '[본의 아니게, 우연히, 결과적으로] ~하게 되다' 라는 뜻!
@@ -472,6 +492,11 @@
 * 그는 그 소문들을 귀담아듣지 않았다. He turned a deaf ear to the rumours. 
 * 그들은 내가 하는 모든 말을 그냥 한쪽 귀로 듣고 한쪽 귀로 흘려버려. Everything I tell them just goes in one ear and out the other. 
 
+## frame
+* frame 의 기본적 의미는 무언가를 둘러싸고 있는 [틀] 을 의미해요. 안경테, 액자틀, 모두 frame 이라고 하는데요. 말을 할 때는 어떤 특정한 틀 속에서 이야기를 하는 것이기 때문에, 영상에서는 특정한 방식으로 '포장하다' 해석이 되었습니다.
+	* 이걸 어떻게 포장해서 걔들한테 말할까 생각중이야. ex) I'm thinking about how I should frame this to them.
+* 누명; i'm framed
+
 ## feature
 * 내가 특집기사가 될거라고 생각하는거야; You mean i'd make a great feature
 
@@ -489,9 +514,13 @@
 ## floor
 * floor 는 '바닥' 을 의미하죠. 가속 페달이 바닥에 닿을 만큼 세게 밟아서 전속력으로 차를 모는 것을 의미합니다.
 	* = 저 차 도망간다. 빨리 밟아! That car is running away. Floor it!
+* 원래는 open the floor for the question이라는 표현이 자주 쓰입니다. 보통 회의나 강의 끝에 [이제 질문할 것 있으면 하세요]라는 의미로, 닫혀 있던 곳을 마치 여는 듯한 뉘앙스의 표현인데요. the floor라는 게, [바닥] 을 의미하기도 하지만, 토론장이나 의회 같은 곳에서 [참가 자석, 의원석] 을 의미하거든요. 발언을 하는 곳이기도 한데, have the floor라고 하면 [말할 권리, 차례를 가지다]를 의미하기도 합니다.
+	* = 이제 물어봐도 되니까, 너도 질문 있으면 편하게 물어봐. Now I will open the floor, so if you have any questions, feel free to ask.
 
 ## flesh
 * 그는 TV에서보다 실물이 훨씬 잘생겼어. He ' s much better handsome in the flesh than on TV . 예문 발음듣기 출처:능률교육
+* [flesh = 살 / blood = 피] 인데요. 사람은 당연히 살과 피로 이루어져 있잖아요? 그래서 완전하지 못하고 결함이 있는 지극히 평범한 인간이다- 라는 걸 강조해 주고 싶을 때 쓰는 표현입니다. 영상에서는 중간에 줄이 들어가서 형용사처럼 쓰였지만, 실제론 줄이 들어가는 것 없이 flesh and blood 라고 명사로 많이 쓰인답니다.
+	* 모두가 실수를 하잖아, 심지어 나도. 난 너처럼 단순한 인간일 뿐이야. ex) Everyone makes a mistake, even me. I'm just flesh and blood just like you.
 
 ## find
 * 몰랐던걸 알게되는 그림(물리적, 추상적 모두 포함); 궁극적으로 내가 되는것
@@ -1259,11 +1288,18 @@
 
 ## reach
 * = 이 제품은 6세 이하의 아이들 손이 닿지 않는 곳에 두세요. Keep this out of reach of children under 6.
+* reach out to someone은 크게 두 가지 뜻이 있어요.
+	* 1. 사람이나 단체에 연락을 취하다 (특히 도움을 요청하거나, 참여를 촉구하기 위해) 
+	* 2. 도움을 주다
 
 ## red
 * 적자인; when a company is in the red
 * 여기 한국에는 관료주의가 많다. There ’ s lots of red tape involved here in Korea
 * 나를 특별하게 대우할 필요는 없습니다. There's no need to roll out the red carpet for me.  
+
+## stink
+* 기본적 의미는 [구린내, 악취 / 악취가 나다] 입니다. 하지만 우리말에서도 [구리다] 라는 말이 무언가 굉장히 안 좋을 때 쓰고, 누군가 수상쩍은 일을 할 때 [뭔가 구린내가 나] 라고 하기도 하는데요. 영어에서도 마찬가지랍니다! 영상에서는 [좋지 않다, 잘 못하다] 라는 의미로 쓰였는데요. 상황에 맞게 [난감한 일이다] 라고 의역이 되었습니다.
+	* = 축구하는 것에 관해서라면, 난 형편없어. When it comes to playing soccer, I stink.
 
 ## score
 * * 묵은 원한을 갚다. pay off an old score 듣기 출처:프렌딕
@@ -1284,6 +1320,9 @@
 ## spare
 * 남이 어떤 나쁜 일을 겪지 않도록 해주는 것을 spare라고 합니다. 사용시 어순은 「spare 사람 (from) 불쾌한 일」입니다. 영상속 대사를 살펴보면 spare(받지 않게 해주다) / others(다른 사람들) / the anguish of the disease(이 병으로부터의 고통)이 되겠습니다.
 	* 그녀는 그녀의 어머니에게 어떤 걱정도 끼치지 않길 바랬다. She wanted to spare her mother from any anxiety.
+
+## sell
+* a hard sell: (물건을 사도록) 설득하기 어려운 사람 혹은 그룹.
 
 ## sense
 * in all senses of the word = 어느 모로 봐도 / 어느 점으로 봐도; sense 는 감각뿐만 아니라 ‘점, 면, 의미’를 뜻하기도 합니다. 그래서 이 표현은 ‘그 단어가 의미하는 어떤 부분을 보아도’를 말하고 주로 문장 안에 그 단어를 지칭하는 구체적인 말이 따라옵니다. 
@@ -1512,6 +1551,9 @@
 * 난 내 아들에게 뭘 하라고 말을 할 수가 없어요. 내 말은 귓등으로도 안 들으니. I can’t tell my son what to do; it’s water off a duck’s back with him. ; water off a duck's back; 오리의 궁둥이에는 오리 기름이 분비되어 물이 닿아도 젖지 않음; 부정적인 상황에서 쓰임
 
 ## work
+* (노력을 들여) 	을 불러일으키다
+	* 이번 프로젝트엔 어떤 관심도 불러일으킬 수가 없어. ex) I can't work up any interest in this project.
+
 ### work out
 * : 결국에는 잘 안됐어요. Didn't work out in the end.
 * : 한 번. 그 한번이 정말 효과가 있었지. Once. That worked out really well.
