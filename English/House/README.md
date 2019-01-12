@@ -16,6 +16,7 @@
 	* 천장에 머리 많이 박았음; I banged my head on the roof so many times
 * 온돌이 안좋은가 보네; YOou don't like floor heating
 * toasty는 방이나 공기 등이 안락하게 훈훈하거나, 몸이 따뜻한 상태를 나타낼 때 사용되는 표현입니다. 단순한 따뜻함보다 몸을 편안하게 만드는 따뜻함/훈훈함을 일컫죠. The room is nice and toasty.
+* 1) 영상에서 볼 수 있듯이 이렇게 칸막이만 사용하여 만들어놓은 좁은 공간을 의미해요. 보통 사무실에서 흔히 볼 수 있는 공간입니다. 2) 공공시설의 화장실의 각 칸도 cubicle 이라고 합니다. 위가 뚫려 있고, 각 칸들이 칸막이로만 경계가 이루어져 있으니까요.
 
 # 주방	it has a; #gourmet kitchen; 프로급 주방
 

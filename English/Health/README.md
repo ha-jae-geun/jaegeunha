@@ -103,6 +103,7 @@
 * 내일부터 다이어트 할거야; i will be on a diet starting tomorrow
 * 다이어트 그만해야할것같애요; i think i have to break the diet
 * 살찌다; pack on the pounds ; get some weight
+* diet regime: 따로 정해진 식단, 다이어트 식단, 다이어트 요법 등을 의미해요.
 
 # 치과 dentist's office(영국: dentist's surgery)
 * 치과 치료중이다; i had dental work done

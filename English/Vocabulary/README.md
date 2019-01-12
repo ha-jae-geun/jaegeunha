@@ -536,6 +536,8 @@
 	* 집에 5분만에 도착할 거예요, 엄마. ex) I will be home in 5 minutes flat, mom.
 
 ## foot
+* 어떤 비용을 지불하고, 부담한다는 뜻으로, 대개 누군가가 다른 사람을 대신해 큰 비용을 다 부담하고, 내야하는 경우에 사용해요. 여기에서 'foot'은 'pay'에 가까운 의미예요. 
+	* Who's going to foot the bill for all the repairs? 
 * 앉아서 쉬세요; Put your feet up
 * 곤경에 빠지다; put one's foot in it; This politician is known for constantly putting his foot in it
 * 영상에서는 첫 발을 잘 디딘다는 뜻에서 ‘하루를 잘 시작하다’라고 하였는데요, 이 외에 ‘좋은 인상을 남기다’ 혹은 ‘최선을 다하다’를 의미하기도 합니다.  put one’s best foot forward = 첫 발을 잘 디디다 / 노력하다 면접 같은 곳에서 자신의 장점을 부각시킨다고 할 때 특히 자주 쓰는데요, 반대로 put worst foot forward라고 하면 ‘나쁜 인상을 남기다, 추한 인상을 남기다’가 됩니다.
@@ -868,6 +870,8 @@
 
 ## hold
 * 하루 쉬지 그래요? 내가 대신 자리를 지켜 줄 테니. Why not have a day off? I’ll hold the fort for you. 
+* 여기서 hold up 은 누군가의 생각(idea), 주장(argument), 정보(information) 등이 사실 검증을 해보니 ‘사실이다, 타당하다, 말이 맞다’는 뜻입니다. 여러 근거를 보니 주장하는 바를 잘 떠받들고 있다(hold up)는 것이죠. 
+	* 나는 그의 주장이 말이 맞다고 생각하지 않아. I don’t think his argument really holds up.
 
 ## hot 
 * 뜨거운 감자; Iraq is a hot potato to the Unitied States
@@ -1245,6 +1249,8 @@
 
 ## root
 *  내 생각엔 엄마가 방을 뒤진 것 같아. I think my mom has been rooting around my room,.
+* * be rooted in the idea that… = …의 생각이 근원이 되다
+	* 이 모든 것이 음주운전은 그렇게 심각한 범죄가 아니라는 생각에서 나온 것들이다.  It is all rooted in the idea that drunk driving is not a serious crime.
 
 ## rub
 * =[ 숙어 ] rub off on somebody : (다른 사람의 특징, 습관, 견해 등이) 에게 옮다, 물들다, 영향을 주다
@@ -1306,6 +1312,10 @@
 
 ## sake
 * for God's sake와 같은 뜻입니다.; Peter 가 성경에서 베드로이며 God's 대신에 Pete's 쓰이기도 합니다 ^^
+
+## sit
+* : 와 잘 어울리다, 잘 맞다
+	* 누구라도 그런 선택지를 잘 받아들이지 못 할 겁니다. [ex] No one will sit well with that kind of option.
 
 ## single
 * 그녀가 지목되어 비판을 받았다. She was singled out for criticism.  (을 위해/~으로) ~을 선발[지목]하다

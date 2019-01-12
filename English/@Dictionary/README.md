@@ -148,6 +148,10 @@
 * 원래는 무언가가 떨어지거나 미끄러지지 않도록 [받치다] 라는 뜻인데요. 사람에게 쓰일 경우엔 그 사람이 지쳐 쓰러지지 않도록 도와주고, 지지해주고, 격려해주는 것을 의미합니다.
 	* 너를 항상 지지해주고 싶은 건 아니야. ex) I don't want to prop you up all the time.
 
+# 돌아다니다
+* loiter는 별 목적없이 어슬렁 걸어다니는 것을 의미합니다. loiter around라고 하기도 합니다.
+	* 몇 십대들이 거리에서 어슬렁거리고 있었다. Some teenagers were loitering around in the street.  [ˈlɔɪtə(r)] 
+
 # 동기
 * 비격식 표현으로 사람을 흥분시키거나 감정을 유발하는 것을 의미해요. 또한 무언가를 좀 더 강력하고 신나게 만드는 것도 의미하는데요. 영상에서는 수동태인 be amped up 으로 쓰여 [의욕에 불타게 되다] 의 뉘앙스로 쓰였습니다.
 	* 다음 프로젝트를 할 의욕에 불타고 있어. 언제 시작해? ex) I'm so amped up for our next project. When do we start?
@@ -249,9 +253,15 @@
 * fumes는 [가스, 매연] 을 의미하는데요. 자동차에 기름이 다 돼서 바닥을 쳤을 때, 정말 얼마 안 되는 연료로 간신히 움직이는 걸 run on fumes라고 합니다. 사람에게 적용했을 땐 체력이 다 바닥났지만 근근이 버티는 걸 의미해요. * run on fumes = 근근이 버티다, 체력이 다 되다.
 	* = 우리가 최종 라운드에 진출했을 땐 체력이 다 빠졌다. We were running on fumes when we made it to the final round.
 
+# 변명
+* 그들은 그 지역의 일자리 부족에 대해 똑같은 낡은 변명을 내놓았다. They trotted out the same old excuses for the lack of jobs in the area. 
+
 # 변하다
 * undertake는 ‘하다, 떠맡다, 착수하다’인데요, 시간이 오래 걸리는 일, 혹은 난이도가 있는 일이 목적어로 옵니다. 그래서 undertake changes도 하루 아침이 아니라 오랜 시간동안 변화를 해왔다는 것을 의미합니다. 
 	* 학생들은 간단한 실험을 하라는 요구를 받았다. Students are required to undertake simple experiments.
+
+# 별자리
+* 난 내 별자리 운세를 매일 아침 신문지에서 읽어. ex) I read my horoscope in the newspaper every morning.
 
 # 복수
 * 약자를 괴롭힌 그 자에게는 자기도 똑같이 (앙갚음을) 당하게 해라. Let the bully have a taste of his own medicine. 
@@ -469,6 +479,9 @@
 
 # 조심
 * 차 조심해; Watch out for the cars
+
+# 조작
+* 선거는 조작된 거였어. The election was rigged.
 
 # 좋다
 * take a liking to ~ = ~를 좋아하기 시작하다 / ~를 좋아하게 되다

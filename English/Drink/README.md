@@ -146,6 +146,7 @@
 * she downed her drink in one
 * you just #down the wine
 * 원샷하다; to drink something down = to take it down = to chug to knock one back 
+	* 'bottoms up'보다는 'slam'이 우리가 생각하는 '원샷'에 가까울거에요. 한꺼번에 빨리 다 마시라는 말이거든요^^; chug라는 말도 같은 뜻인데 많이 써요! [ex] Hey, slam it. We're going to another bar.
 	* = to slam a drink/beer = to #knock back a drink
 	* #one shot; 출판물이 딱 한번만 출판됨 2. one shot one kill
 	* 한번에 원샷하라고? A whole bottole in one go
