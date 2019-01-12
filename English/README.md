@@ -13,7 +13,7 @@
 
 
 ##영어
-0104
+0111
 * 테드 https://www.ted.com/
 -------------
 *   MLB http://post.naver.com/my/series/detail.nhn?seriesNo=46475&memberNo=449115
@@ -102,8 +102,6 @@
 * 시크한 양이 https://m.blog.naver.com/PostList.nhn?blogId=twinkleannie85
 * 오디너리 소피 https://m.blog.naver.com/PostList.nhn?blogId=sofa1015
 * 1stop 코리아 https://m.blog.naver.com/PostList.nhn?blogId=1stopkorea
-* 주한영국문화원 https://m.blog.naver.com/PostList.nhn?blogId=britishcouncilkorea
-* 길벗이지톡 https://m.post.naver.com/my.nhn?memberNo=33159364
 * 612 어학원 https://m.blog.naver.com/PostList.nhn?blogId=wlq1052&currentPage=1
 * 엔토 https://m.blog.naver.com/PostList.nhn?blogId=ing4mo&categoryNo=0&listStyle=style1
 * 시언스쿨 https://m.blog.naver.com/siwonschool0
@@ -115,12 +113,13 @@
 * 브랜든의 캐나다 https://m.blog.naver.com/PostList.nhn?blogId=kidaradio 
 * 공단기 https://m.blog.naver.com/PostList.nhn?blogId=blackyuna0824&currentPage=1
 * 헬로밀루 https://m.blog.naver.com/PostList.nhn?blogId=english4evry1&currentPage=1
-* The Red https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 김일승 https://m.blog.naver.com/PostList.nhn?blogId=kishyun
 * 차니쓰 https://m.blog.naver.com/PostList.nhn?blogId=wkosin
 * 와이넛북스 https://m.post.naver.com/my.nhn?memberNo=5039741
 * 슈퍼데디 https://m.post.naver.com/my.nhn?memberNo=5518579
+* Sunny https://m.blog.naver.com/PostList.nhn?blogId=pureriver777
 * 한국번역연구소 https://blog.naver.com/ktri8888
+* The Red https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 -----------------------------------------------------------------------------
 * 빌보드 https://www.billboard.com/charts/hot-100#/charts/hot-100
 * 네이버 톡톡 http://talkie.naver.com/english/room-list.dict?mode=mobile

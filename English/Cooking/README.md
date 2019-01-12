@@ -15,6 +15,7 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 * 야식 먹으려고? Are you going to eat a midnight snack?
 
 # tool
+* 식기 깔개; Plcaemat; 식탁보: tablecloth; 조명 기구; light fixture; 접시: platter
 * 냄비: pan: 손잡이가 달린 얕은 냄비, pot 솥은 뚜겅이 있는 깊은 냄비
 * 숯; tʃɑːrkoʊl]  charcoal  charcoal grilled steaks  [koʊl] 
 * 도구 내려놓으세요; Down, tools

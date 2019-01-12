@@ -25,6 +25,7 @@
 * 보조 케이블도 있어요; i got the auxiliary hookup [ɔːɡˈzɪliəri]
 	* 보조 배터리 있어; i have a power bank
 * 수신 양호; 순조롭게 항해중 | We ' re in the pipe , five by five . 듣기
+	* 무선 수신기에서 1은 잘 안들린다, 5는 잘 들린다.
 
 # 사진
 * 개화를 저속 촬영한 시퀀스  a time-lapse sequence of a flower opening 

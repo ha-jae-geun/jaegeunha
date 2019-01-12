@@ -1,3 +1,4 @@
+* 현재; 목요일을 기준으로; as of thursday
 * 마지막; 2) last minute 은 [막판에, 마지막에] 란 뜻으로 정확히는 at the last minute 인데, 구어체에서 간혹 생략하기도 합니다. 
 	* = 나는 항상 일을 미뤘다가 막판에 하는 스타일이야. I always procrastinate and do things (at the) last minute.
 * 즉시, 당장; in a jiffy 미국식  영국식   단어장추가
@@ -35,6 +36,7 @@
 * 8시 정각에; 8 Clock on the dot
 	* 딱 맞춰 왔다; be just in time for; I got there just in time; for lunch
 	* 정확히 딱; it falls dead center between them; 
+	* 당신의 요구 사항은 적절한 때에 처리하겠습니다. Your request will be dealt with in due course. 
 * 주말은 물건너 갔구만; There goes my weekend
 * 밤은 아직 일러; The night's young
 	* 낮이 밤이되었습니다; Day has turned into night

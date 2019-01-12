@@ -16,6 +16,7 @@
 		* 뉴스 있어? Is there any news? / Any news?
 * 독점: Exclusive:
 	* 현 시점 보도된 바에 따르면; As far as reports suggest at this stage
+	* 내가 특집기사가 될거라고 생각하는거야; You mean i'd make a great feature; big scoop
 * 장안의 하제; The issue has become the talk of the town
 * 일단 제 50조가 효력을 갖기 시작하면; Once article 50 has been triggered
 * 현재 상황을 고려할 때; Given what's unfolding in Syria; Give n the fact that

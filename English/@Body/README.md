@@ -318,7 +318,7 @@ how dare you say such a thing #to my face
 # 다리
 * 곱은 다리; bow leg; 다리 굽은 여자랑 수영하러 가면; if you go swimming with bow legged women
 * 다리가 천근만근이에요; My legs feel like lead
-* 다리가 후덜거려	My legs are shaking
+* 다리가 후덜거려	My legs are shaking; My legs turned to jelly
 * 다리가 길거 쭉쭉 뻗었어	she's got long and #lean legs
 * #쩍벌	#manspreading; man sits with his legs #wide apart(#apart) on public transportation
 * 다리가 못생겼고 흉터도 많아요; i have ugly legs and they are scarred

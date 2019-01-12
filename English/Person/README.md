@@ -66,6 +66,7 @@
 * 신참, 신입; the new kid on the block
 * 시카고 출신이야? A Chicago kid
 * 아부하는 사람; He's a kiss up
+	* 안경잡이야; Windows
 	* 내가 호구로 보이냐? Do i look like a pushover?  doormat(당하고도 가만히 있는 사람)
 	* 재수 없는 자식; git
 	* 짜증나는 존재, 재수없는 놈; dingle

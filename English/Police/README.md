@@ -149,6 +149,7 @@
   * 추격 중이다; 반복한다, 달아나고 있다; In pursuit. I repeat, he's on foot; He's entering our store
 * #미국 경찰
 * 미국 경찰 <> 흑인: 1. 갱 가입 암살 
+  * 암살단; hit squad; 암살자: hitman
 * #chiraq: chicago+ iraq
 * #순찰: #patrol; #정찰 차량 #patrol car #휘장(#배지): insignia
 * 정찰; #recon; I'm just gonna do a quick recon; reconnaissance [rɪ|kɑ:nɪsns]

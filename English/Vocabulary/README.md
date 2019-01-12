@@ -68,6 +68,9 @@
 ## after
 * 쫒는 느낌의 느낌
 
+## behave
+* * behave badly = 못되게 굴다 * behave yourself! = 말썽 피우지 마!
+
 ## bitch
 * bitchy 의 경우엔 'x년' 을 의미하는 bitch 에서 나온 형용사라 원래는 나쁜 의미를 가지는데요. 친한 사이에서는 반어적 의미로 '도도하게 멋진' 을 의미하기도 해요.
 
@@ -173,8 +176,14 @@
 * : 당신이 오늘밤 데이트를 신청해줘서 너무 기뻐요. I'm really glad that you asked me out tonight
 * : 조사해 봐. Ask around
 
+## account
+* 루머에 의하면; By all accounts; Rumor has it that
+
 ## angle
 * 무슨 속셈이야; What's your angle? 
+
+## bacon
+* 내가 널 곤경에서 구해낼 거야 I ' ll save your bacon . 예문 발음듣기
 
 ## ball
 * ball 은 [공] 이 아니라 [무도회] 라는 뜻으로도 쓰여요. 한마디로 파티니까, 파티를 할 때 즐거운 모습에서 나온 속어 입니다. = have a ball
@@ -282,6 +291,9 @@
 ## call
 * 격식체 표현으로 말하는 내용이 맞는지, 좋은지, 사실인지 등에 대해 의문을 제기하는 것을 의미합니다. 목적어는 call 뒤에 쓰거나 영상에서처럼 목적어가 길 경우엔 뒤로 빼서 쓸 수도 있어요. * call ~ into question = 의문을 제기하다
 	* = 누구도 네 의도에 의문을 제기하지 않아. No one calls your intention into question.
+* 총선을 치르다 call a general election 미국식  영국식   단어장추가
+* 가장 싼 물건을 찾아서 여기저기 전화를 돌려 보세요.  Call around to find the best bargains. 듣기 출처:Collins
+* 파티하는 그날 밤에 나는 비상대기 당번이야. I’ll be on call the night of the party. 
 
 ## catch
 * 전체적으로는 좋은데 문제시 되는 것, 겉으로 드러나지 않았던 숨은 문제를 명사로 a catch 라고 합니다. 
@@ -395,9 +407,15 @@
 * 3) 영상을 직역하면 [500불에 최대 한도를 두겠어요] 정도이지만 좀 더 자연스럽게 [최대 500 달러 정도요] 라고 해석이 되었습니다.
 	* = 최선의 해결책은 봉급에 상한선을 두는 것이죠. The best solution now is to place a cap on the wage.
 
+## devil
+* 논의가 이어지게 하려면 흔히 인터뷰 진행자가 선의의 비판자 노릇을 할 필요가 있다. Often the interviewer will need to play devil’s advocate in order to get a discussion going. 
+
 ## data
 * 그리고 data 는 복수형이기 때문에 (단수형은 datum) 동사도 그에 맞춰야 하지만 일반적으로는 혼합해서 쓰는 편입니다. - The data is not accurate. (문법적으로 틀리지만 일반적으로 쓰는 말)
 * collect data on you = 당신의 정보를 수집하다
+
+## due
+* 당신의 요구 사항은 적절한 때에 처리하겠습니다. Your request will be dealt with in due course. 
 
 ## dip
 * 이용자 참여  우리는 상황을 알아 보았다  Dipping our toes in the water . 듣기
@@ -454,6 +472,9 @@
 * 그는 그 소문들을 귀담아듣지 않았다. He turned a deaf ear to the rumours. 
 * 그들은 내가 하는 모든 말을 그냥 한쪽 귀로 듣고 한쪽 귀로 흘려버려. Everything I tell them just goes in one ear and out the other. 
 
+## feature
+* 내가 특집기사가 될거라고 생각하는거야; You mean i'd make a great feature
+
 ## further
 * 멀리 갈 것 없다, 더 알아볼 필요 없다 (= 여기 당신이 찾는 게 있습니다)  "Look no further."
 
@@ -500,6 +521,9 @@
 * 양쪽에 관여하다; have a foot in both camps
 * 재빨리 대응하다 think on your feet 미국식  영국식   단어장추가
 	* 일어서, 차렷, 기립; On your feet
+
+## fuss
+* 모든 소녀들은 치켜세워주는 것을 좋아한다. EVERY girl loves to be made a fuss of . 듣기
 
 ## fuck
 * = 아 몰라!, 아 됐어! 신경 안 쓸래!  fuck it
@@ -901,6 +925,14 @@
 * : (충격이나 무서움에) 너무 놀라 펄쩍 뛰다  [ 숙어 ] jump out of one's skin
 	* 그 소리 때문에 그는 놀라 까무러쳤다. The noise made him jump out of his skin.
 
+## keep
+* : 침착해 Keep it together
+* : 그것을 모두 한 데 모으는 것은 현명하지 못한 일이야. sIt's not smart to keep it all together
+
+## knock
+* 마음대로 해; knock yourself out = SUit yourself
+* 그만해; Knock it off = Get off my back
+
 ## look
 ### look out
 1. 보살피다
@@ -929,7 +961,7 @@
 * 'live with sth'은 바꿀 수 없는, 어렵고 불쾌한 [무엇]이 닥쳤을 때 이를 받아들인다는 뜻이랍니다. 우리말로는 '~을 감수하다' '~을 수용하다' 등이 되겠네요.
 	* 걔는 그 죄책감을 어떻게 안고 살아? [ex] How can he live with the guilt?
 
-## like
+## like 
 * 비슷한 느낌의, 거의 같은 느낌 <> as
 * i like you; 나와 비슷해서 좋아하다
 * look like
@@ -943,6 +975,10 @@
 * : 있잖아, 알렉스가 널 때리려고 하면, 나 한테 말해. 내가 해결해 줄게  You know what, Alex tries to lay a hand on you. Just tell me,  I'll take care of it. 'Lay a hand on someone' : 때리다. 폭행하다.
 * : 도박을 하러 갔었어요. I went to lay a bet 'Lay a bet' : 도박하다. 돈을 걸다.
 
+## mum
+* 너만 알고 있어. 알았지? 아무에게도 말하지 마. The word is mum. Ok? Don't tell anyone. 
+	* i'll keep it mum's the word
+
 ## mellow
 * 1. ⓐ (냄새, 맛, 소리 등) 부드럽다, 강하지 않다, 그윽하다
 	* 그녀는 여름 석양의 그윽한 빛을 바라보고 있었다. She was looking at the mellow light of a summer sunset.
@@ -954,6 +990,9 @@
 
 ## mention
 * 에 대하여 언급하다 = mention (o) / mention about (x)
+
+## mark
+* Hilfenhaus는 이해가 빠르다.  Hilfenhaus is quickly off the mark; 상황 판단이 빨라
 
 ## manner
 *  떤 면으로 보면 이 모든 관점들이 관련이 있다.
@@ -1024,6 +1063,9 @@
 ## pass
 * ＊ pass off ⓐ as ⓑ = ⓐ를 ⓑ라고 속이다, 행세하다 가짜 물건을 진짜라고 속이거나, 신분을 속이고 다른 사람 행세를 한다는 뜻의 숙어입니다. 참고로 누구를 속이는지 당하는 사람까지 표현하려면 [on+사람] 을 붙이면 됩니다. 
 	* 그는 가짜 롤렉스 시계를 진짜라고 속였다. (pass off ⓝ) He passed off the fake Rolexes as genuine ones.
+
+## per
+* 일일 경비 a per diem allowance 
 
 ## pale
 * 원래 형용사로 안색이 [창백한] 을 의미로 가장 많이 쓰입니다만, 동사로는 무언가가 덜 중요하게 보이거나 덜 인상적으로 보일 때 많이 쓰이며 [별것 아니게 느껴지다] 정도로 해석이 됩니다. pale into insignificance라는 숙어도 함께 알아두시면 좋은데요. [빛이 바래다, 중요성을 잃다]를 의미합니다.
@@ -1166,6 +1208,9 @@
 * pump the brakes는 직역하면 ‘브레이크를 밟다, 브레이크를 누르다’인데 관용어적으로 보면 “지금 하고 있는 행위를 멈춰라”라는 뜻입니다. 여기에 hate(분노, 증오)를 붙여서 타노스가 지금 하고 있는 행위는 분노에 차서 하는 일이니 그걸 그만 두라고 하는 거죠. 그래서 ‘분노 좀 죽여라, 지금 열받아서 하는 짓을 그만 둬라’ 정도로 이해하시면 됩니다. 
 	* 그만 해라, 얘야. Pump your brakes, kid. 
 
+## preside
+* 그 정당이 그 나라 역사상 최악의 경제 후퇴 중 하나를 주도했다. The party presided over one of the worst economic declines in the country’s history. 
+
 ## quirk
 * 무슨 기이한 운명의 장난인지 그들이 같은 호텔에 예약을 했던 것이다. By a strange quirk of fate they had booked into the same hotel. 
 
@@ -1198,6 +1243,7 @@
 * : 어떤사람이 창문으로 튀어나와서 차(밴)로 뛰어 들었어요. Somebody jumped out of a window and ran into a van.
 * : 난 소문이 여기서 어떻게 떠돌아 다니고 있는지 알고 있지. I know how the rumor mill runs around here
 	* 'Run around' 는 기본적으로 '~주변을 뛰어다니다, 돌아다니다, 어슬렁거리다' 라는 뜻과 'Run around'에 'with'가 붙어서 'Run around with'로 '~와 어울리다' 라는 뜻이 있습니다.
+	* 나 너와 사귀고 싶어. I want to run around with you. 
 * run against는 '(선거에서)와 맞서다', '~에 부딪히다', '~와 우연히 만나다'라는 뜻이 있어요. 
 	* 도날드 트럼프가 힐러리 클린턴과 선거에서 맞붙었다. Donald Trump ran against Hilary Clinton.
 	* 아기가 나무에 부딪혔다. The baby ran against a tree.
@@ -1218,6 +1264,9 @@
 * 적자인; when a company is in the red
 * 여기 한국에는 관료주의가 많다. There ’ s lots of red tape involved here in Korea
 * 나를 특별하게 대우할 필요는 없습니다. There's no need to roll out the red carpet for me.  
+
+## score
+* * 묵은 원한을 갚다. pay off an old score 듣기 출처:프렌딕
 
 ## sake
 * for God's sake와 같은 뜻입니다.; Peter 가 성경에서 베드로이며 God's 대신에 Pete's 쓰이기도 합니다 ^^
@@ -1275,10 +1324,22 @@
 ## share
 * : 안 좋은 일을 충분히 겪다 [ 숙어 ] have one's share (of something)
 	* 그렇게 말하면 안 되지, 나도 좋지 않은 일 충분히 겪었다고. You can't say things like that, I've had my share.
+* 그들은 이웃 간의 정이 돈독하다 The neighbors share a close bond with one another . 듣기 출처:능률교육
+* 가장 좋은 부분을 갖다 take[win, keep] the lion's share 
+* 우리 생일 같애; we share the same birthday
+
+## shake
+* 겁내지 마라. No need to shake in your shoes/boots
+* 나는 당신이 바로 갈취하려는 사람을 대표한다  I represent the one you ' re trying to shake down . 예문 발음듣기
+* 단지 2주의 시간만에 익숙해질수 있었다. But a shake - down , that ' s only a couple of weeks. 예문 발음듣기
+* 그들은 그 거래에 대해 합의를 보았다. They shook on the deal. 
 
 ## shoot
 * "금액을 제시해 보세요."  "Shoot me an offer" 여기서 shoot me는 날 쏘라는게 아니고, ‘주다, 건내주다’입니다. 그래서 바꿔 말하면 give me an offer 입니다. 
 		* 빵 좀 줘. Shoot me some bread.  Don’t forget to shoot me an email! 
+
+## shoe
+* * 겁내지 마라. No need to shake/tremble in your shoes/boots
 
 ## shove
 * ~에게 ~을 억지로 강요하다 = shove something down someone's throat 별로 관심도 없는데 반복적으로 말하고, 무언가를 보여줌으로써 강요하는 것을 의미하는 표현입니다.  shove 가 [떠밀다] 라는 뜻이 있으니 목구멍(throat) 속으로 무언가를 억지로 떠먹여서 어쩔 수 없이 받아들이도록 하는 뉘앙스의 표현이에요.

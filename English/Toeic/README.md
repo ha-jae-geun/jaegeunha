@@ -13,6 +13,8 @@
 * be provided / be sent with / come with / along with 
 
 # 단어
+* 해군 방위대에 관련된 문제들 matters pertaining to naval district defense . 듣기 출처:Collins
+* 그 정당이 그 나라 역사상 최악의 경제 후퇴 중 하나를 주도했다. The party presided over one of the worst economic declines in the country’s history. 
 * 주의하다; exercise caution = use caution
 * 유지보수 작업; maintenance work
 * 열렬한 찬사를 담은 추천서 a glowing testimonial 

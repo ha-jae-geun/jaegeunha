@@ -1,8 +1,15 @@
+# 1등
+* 1등; I'm the first; The first place.; I'm the winner! Winner!
+* top the list; topped the list of something; 설문 조사 결관
+
 # 가능성
 * be in line for  : 을 받을 가능성이 크다; be in line은 '줄 서다'라는 뜻도 있어요. 줄서서 뭔가 받으려고 기다리는 모습을 연상하시면 기억이 잘 나겠죠?
 	* 승진후보로 제리가 유력하대. I hear Jerry is in line for promotion.
 * There is a good chance
 * 가능할 것 같아; i think i could swing that; swing: 잘 해내다
+
+# 가다
+* 가봐; Off you go
 
 # 가정
 * 이론을 설명하거나, 믿음을 가지거나, 토론 등을 시작할 때 조금 더 발전시키기 위해서 꼭 필요한 무언가를 가정하는 걸 의미하는 단어입니다. 
@@ -13,6 +20,9 @@
 * 그 의사의 예감이 옳았던 것 같았다. It seemed that the doctor’s hunch had been right. 
 * 내 직감으로는 그는 살인범이 아니다 I have a gut feeling that he is not the murderer . 듣기 출처:능률교육
 * 누나 직감으로 범인 추리하지 마. Don't use your intuition when solving a case.
+
+# 거리
+* 가까운 거리; spitting distance = The Stephansdom is a stone's throw from the bus stop
 
 # 거짓말
 *  전판 거짓말이다 t is a downright lie from start to finish 
@@ -32,12 +42,14 @@
 * 경험도 많이 햇잫ㄴ아; you are well experienced with -
 * 자신의 경험을 말할 때 문장을 풀어낼 수 있는 유용한 패턴 중에 하나입니다. 조금 응용해서 one of the experiences I had was 라고 쓸 수도 있겠죠. 
 	* = 제가 문제를 해결하기 위해 해 본 것들 중 하나는 단순히 도움을 요청하는 것이었습니다. One of the things I did to solve a problem was to simply ask for help.
+* 가중치를 선택할 때는 다음과 같은 경험에 의한 방법을 사용할 수 있습니다. You can use a rule of thumb for choosing a weight . 예문 발음듣기 출처:한샘EUG
 
 # 계약
 * 계약서를 써왔어; i've drawn up a contract
 
 # 계획
 * 동사 devise 는 [고안하다, 계획을 짜다] 라는 뜻이 있는데요. 단순히 make a plan 보다 훨씬 더 꼼꼼하고 세부적인 것들을 포함한 계획을 짤때는 devise a plan 이라고 합니다. ex) Susan has devised an alternate plan.
+* 내 파티 계획이 모두 엉망이 되어 버린 상태였다. All my plans for the party had gone awry.   [əˈraɪ] 
 
 # 고민
 * 무슨 고민 있으세요? What's eating you?
@@ -105,6 +117,7 @@
 * 상반되는 대답이네요. we got conflicting answers
 * 형용사 coy는 1) 수줍어하는, 내숭을 떠는, 또는 2) 얘기를 잘 안 하는이라는 의미를 갖습니다. 특히나 예민할 수도 있는 자신의 신상에 관해서 말을 아끼는 걸 의미하는데요. play coy는 질문을 받았을 때 직접적인 답변을 피하는 것을 의미합니다.
 	* = 그의 성적 취향에 대한 질문을 받았을 때, 그는 말을 아꼈다. When asked about his sexual orientation, he played coy.
+* 대답해주는 사람 없나요? No takers?
 
 # 대해서
 * in terms of something은 '~에 관하여, '~면에서는'이라는 뜻을 가지고 있어요.
@@ -154,6 +167,9 @@
 * 리스트에서 그건 뺴자; Crossing that one off the list; cross off: 줄을 그어 지우다.
 * 한 칸에만 체크해 주세요. Please tick one box only.
 
+# 마음대로
+* * 마음대로 해; knock yourself out = Suit yourself
+
 # 많다
 * - by the score: 수많은 - in/  by scores: 다량으로, 다수로
 
@@ -161,6 +177,12 @@
 * 1. heart-to-heart : [명] 마음을 맞댄, 터놓고 하는 솔직한 대화  [ex] We had a heart-to-heart.
 * 2. face-to-face : [형] 마주보고 하는, 직접 만나서 하는 [ex] Let's talk face-to-face.
 * 3. head-to-head : [명] 정면대결, 대접전 [ex] Trump and Clinton went head-to-head.
+
+# 맹세
+* 너와 나, 우리는 맹세했었지; We made a vow
+
+# 멀미
+* 멀미 안하지/ You don't suffer from motion sickness? 
 
 # 몸매
 * * get into shape = 몸매를 가꾸다, 몸을 만들다  stay in shape = 체력/건강/몸매를 유지하다  in a good(bad) shape = 건강/몸매가 좋은 (나쁜)
@@ -215,6 +237,11 @@
 * undertake는 ‘하다, 떠맡다, 착수하다’인데요, 시간이 오래 걸리는 일, 혹은 난이도가 있는 일이 목적어로 옵니다. 그래서 undertake changes도 하루 아침이 아니라 오랜 시간동안 변화를 해왔다는 것을 의미합니다. 
 	* 학생들은 간단한 실험을 하라는 요구를 받았다. Students are required to undertake simple experiments.
 
+# 복수
+* 약자를 괴롭힌 그 자에게는 자기도 똑같이 (앙갚음을) 당하게 해라. Let the bully have a taste of his own medicine. 
+	* a taste/dose of your own medicine; give a person a taste[dose] of his own medicine
+* 묵은 원한을 갚다. pay off an old score 듣기 출처:프렌딕
+
 # 부정
 * = ...는 부정할 수 없지 There's no denying that...  Yes, he's cold. But there's no denying that he's a good leader.
 
@@ -238,9 +265,13 @@
 * [상황, 사정] 을 의미하는 circumstances 앞에 다양한 형용사를 써서 어떤 상황인지 나타낼 수 있는, 굉장히 유용하고 자주 쓰이는 표현입니다. 형용사 없이 under the circumstances 라고 하면 [그러한 상황에선, 상황을 고려하면] 정도로 해석이 되고요.
 	* = 이 기술적 문제는 특정 상황에서 발생합니다. This technical issue occurs under specific circumstances.
 * 전쟁이 교착상태에 빠졌다.ex) The war has reached a stalemate.
+* Hilfenhaus는 이해가 빠르다.  Hilfenhaus is quickly off the mark; 상황 판단이 빨라
 
 # 선배
 * senior, superior 같은 표현을 쓰면 상하체계가 확실히 잡혀있는 군대를 더올리게 된다.
+
+# 선택
+* Tevez와 달리, 그는 두 선택지 가운데 선택이 무척 어렵다는 것을 알았다  But like Tevez, he finds himself caught between two stools . 듣기
 
 # 선입견
 * * 전치사 towards 또는 against 를 써서 [~에 대한 편견] 을 의미하는데요. towards 가 쓰이면 좋은 의미로의 편견, against 는 나쁜 의미로의 편견을 의미합니다. 참고로 형용사로 [편향된, 편견이 있는] 의 뜻은 biased 라는 단어를 씁니다.
@@ -254,6 +285,13 @@
 * 형용사로 쓰여도 비슷한 뉘앙스로 [정교한, 공을 들인] 이라는 뜻을 가지는데요. 디테일 하게 만드는 뉘앙스의 단어에요. 보통 회의 같은 곳에서 현재 논의되고 있는 사안에 대해서 [좀 더 자세하게 설명해주시겠어요?] 라고 물을 때 정말 많이 쓰이는 표현입니다. ex) Can you elaborate on that please?
 * 중간에 목적어를 넣어서, 예를 들면, I'll walk you through this. 라고 쓸 수가 있는데, 이럴 땐 [내가 너한테 이걸 차근차근 알려줄게.] 의 의미를 가집니다. 
 	* 먼저 한 번 살펴보고 제 생각을 말씀드릴게요. ex) I'll walk through this first and let you know what I think.
+
+# 성공
+* 해냈따; i did/made/nailed it; i managed to finish that job
+
+# 소문
+* By all accounts; Rumor has it that
+* 그들이 소문을 내자 그 소문이 온 동네에 퍼졌다. As they started a rumor, the rumor have spread over their village. 
 
 # 소외
 * be alienated, be marginalized, be excluded, be isolated
@@ -303,6 +341,7 @@
 
 # 예의
 * 예의바르게 행동해 mind your Ps and Qs 
+* -해도 좋습니다; YOu may now; have a seat
 
 # 옛날에
 * Looking back; "in retrospect" 
@@ -353,6 +392,12 @@
 * 비슷한 표현으로 dig one's heel 이라는 표현도 있는데요. 두 표현 모두 발을 땅에 꾹 대고 움직이지 않으려는 모습의 의미를 가지고 있습니다. 그래서 비유적인 의미로 자신의 입장이나 결정을 포기하지 않고 단호한 입장을 취하는 걸 의미해요.
 	* = 다른 사람들이 불평을 많이 할지라도, 가끔 단호한 입장을 취할 필요가 있다. Sometimes you need to put your foot down even if others complain a lot.
 
+# 잊다
+* 전 그걸 절대 잊지 못할 것 같아요.  I don't think I will ever be able to put it out of my mind.
+	* "Keep in mind what the teacher said."
+	* 그건 항상 제 마음 한 구석에 있었어요. "It has always been  in the back of my mind."
+	* 잊지 않았어요; "No, it didn't slip my mind!"
+
 
 # 이용
 * 가위, 칼, 식기류 등의 물건을 사용하는 것이 아니라 '상황' 을 자신에게 유리하게 이용하는 것을 의미하는 단어입니다. 따라서 그런 상황은 [기회로 삼다] 로 해석이 되기도 하고요. 영상에서는 저지방 유행을 [타고 나오다] 로 의역이 되었습니다.
@@ -378,9 +423,17 @@
 * 2) “뇌를 어딘가에 세팅한다?” 의미가 대강 파악되실 텐데요, 그 일에 온전히 내 정신을 담아 집중한다는 뜻으로 쓰였습니다. 비슷한 표현으로 set mind on 이 있는데요, 어떤 일에 내 마음을 두는 것이니까 ‘간절히 바라다, 하기로 마음먹다’를 의미합니다. 
 	* 그는 연기를 하기로 마음을 먹었다. He has set his mind on acting.
 
+# 정신차려
+* Stay sharp; Pull yourself together, Snap out of it
+
 # 적응
 * acclimation은 '새 환경에 대한 순응, 적응'이라는 뜻입니다.
 	* 우리 가족은 최근 몇 년 어려운 시기를 보냈는데, 긍정적인 신호들을 보기 시작했어요. ex) Our family's had a few bumpy years recently, but we are starting to see positive signs.  [æ̀kləméiʃən,-lai-] 
+
+# 전기
+* 전구가 식어서 해체했따; The old bulb was cooled dow so he unscrewed it
+	* 전구를 연결했다; He screwed the new bulb into the socket
+* 전기가 갑자기 나갔다; The light went out all of a sudden
 
 # 조금
 * 자선을 위한 수표가 아주 조금씩 들어오고 있다. The checks for the charity are coming in dribs and drabs. 
@@ -431,6 +484,8 @@
 
 # 최고
 * best - ever; best day/present ever
+	* - is out of this world
+* Best thing since sliced bread; 직역을 하면 식빵이 나온후 가장 좋은것 이라는 뜻입니다.
 
 # 투자
 * 단어 안에 신뢰 (trust) 라는 단어가 들어가 있으니, 누군가를 믿고 맡기는 것을 의미합니다. 영상에서는 [투자하다] 라고 해석이 되었어요.
@@ -461,6 +516,9 @@
 
 # 한번쯤은
 * at one point or another
+
+# 해외
+* travel abroad; live aborad; go abroad
 
 # 화장실
 * 화장실 갈래; I need to use the restroom

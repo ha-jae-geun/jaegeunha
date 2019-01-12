@@ -375,8 +375,7 @@
   * 자폐아 autistic child
 * #불치병; #incurable disease, 
 * 나 ##암진단 받았어요 		 (with)힘든쪽 1daɪəg2noʊs 	
-* I was diagnosed with cancer. 
-* #진단
+  * I was diagnosed with cancer. 
 * #암 의사 #oncologist(#종양학자)
 * #1기 2기 3기 4기 #stage 4
 * #갑상선 #thyroid
@@ -628,10 +627,10 @@
   * 잇몸에서 피가 나요. 	My gums are bleeding. 
 * 의치를 해 넣고 싶어요. 	I want to have a false tooth put in.
 * 마취 주사 놓겠습니다. 	I'm giving you a shot of Novocain. nóuvəkèin
-* 언제 #퇴원하세요? 	When will you be discharged? 
-* = #leave the hospital
-* = when do you get out?
-* #퇴원시키다	#discharge; be discharged
+* 언제 #퇴원하세요? 	When will you be discharged?; have been released from the hospital
+  * = #leave the hospital
+  * = when do you get out?
+  * #퇴원시키다	#discharge; be discharged
 * 환자에게 뭘 가져다 주면 될까요? 	What do you take to someone at the hospital? 
 * 네, 지난 일요일에 쓰러졌대요. 	Yes, he collapsed last Sunday
 * 방문 시간이 언제예요? 	When are visiting hours? 

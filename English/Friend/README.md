@@ -48,6 +48,7 @@
 		* 그 일은 계속해서 농담거리가 되고 있지. The whole thing became a running joke.
 	* butt 일상 회화에선 비격식 표현으로 '엉덩이' 를 의미하지만, 사실 이 표현에서의 butt 는 target 을 의미합니다. 양궁이나 사격의 과녁을 butt 이라고 하거든요. 그래서 butt=target (목표물) 이니까, [조롱의 대상] 의 의미를 가져요.  [비판의 대상]이라고 할 때는 the butt of criticism 이라고도 표현합니다.
 		* 내가 사무실에서 방귀를 뀐 이후로, 난 모든 농담의 대상이 되었다. ex) Ever since I farted in the office, I've been the butt of every office joke.
+	* 장난을 쳐보자; We should play a prank on mama; The guys are pulling my leg; Stop teasing me; Stop making fun of me; It's just for fun
 * 항사 약간 빈정거리게 된다; we always get into a little bit of a banter
 	* i don't mind him exchanging banter with customers
 * (claw machine/crane claw/crane machine = 인형뽑기기계)
@@ -56,6 +57,7 @@
 * 아이 적에는 우리가 아주 가까웠는데 자라면서 그냥 사이가 멀어졌다. As children we were very close, but as we grew up we just drifted apart. 
 * 네가 논쟁속에 있었다는 것을 들었어.  Heard you were in an altercation . 듣기
 	* 사소한 말다툼이 있었어요;There was a slight altercation
+	* 시시콜콜 따지지 좀 마라 Don't nitpick. 미국식  영국식 
 * 한대 치려고? 절대 못할거? You gonna make a move? i doulbe dare you
 * 한번 겁나게 붙어보다; It is on like DOnkey Kong; Kong은 게임 동키콩의 주인공이자 주인공 이름
 * 눈 똑바로 뜨고 다녀; Watch where you're going

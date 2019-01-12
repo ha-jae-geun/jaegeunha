@@ -2,6 +2,7 @@
 * deliver a speech give a speech; deliver a presentation; give a presentation
 
 # 생각
+* 생각 안나; It doesn't ring a bell; i can't remember; i don't know; i'm not sure
 * (생각/방법을) 적용하다 / 이용하기 시작하다; run with; 그 아이디어에 착안해서 적용했어요; They took that idea and ran with it
 * (문제 해결을 위해) 곰곰이 생각하다 put your thinking cap on 미국식  영국식   단어장추가
 * 내가 사색하는ㄱ ㅓ 싫어하는 거 알아; I know you don't like when i'm contemplative
