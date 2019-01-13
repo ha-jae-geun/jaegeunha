@@ -15,6 +15,8 @@
 * 졸업생만이 아닌 전교생의 사진을 모아 희망하는 학생에게 판매; 테마를 잡아 옷을 입기도 하고 앨범 받는 날에는 친한 친구들끼리 롤링페이퍼처럼 메시지를 적어 주는 문화가 있다.
 
 # 대학
+* 보통 고등학교 이후로는 선생님들의 직위를 크게 알 필요는 없으니까 Principal (교장 선생님) 정도만 알고 있죠. 대학교에선 dean 이란 말을 꽤 많이 쓰는데요. 주로 학과장을 의미합니다. 매년 성적 우수자들을 선정하여 Dean's List / Dean's Honor List 라는 목록을 발표하기도 하고요. 그 학생들을 위한 학과장 주최 리셉션을 하기도 한답니다.
+	* 대학총장 = the President / the Chancellor (영연방 국가)  [ˈtʃæns-]  영국식 [ˈtʃɑːnsələ(r)] 
 * 이번 주에는 우리 집 아이들이 점심을 싸 가고 있다. My kids have been brown-bagging it this week. 
 * 대학생; college student(university student 잘 안씀)
 * 상, 수상 award 는 ‘상을 주다’ 혹은 명사로 ‘상’입니다. ‘상을 받다’라고 할 때는 [be awarded the prize] 혹은 [get/win the award] 라고 해주세요. 

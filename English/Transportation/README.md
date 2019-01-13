@@ -81,48 +81,49 @@
 	* #블랙박스; #dash cam
 	* 미터기로 계산해요; i charged by the meter
 * #로터리; #rotary
-* #요금이 올라가다; #meter goes up
-* #트렁크 가방좀 트렁크에 넣어주실래요? 	 Can you put my bag in the trunk?
-* 이 주소로 가주세요 					 Can you take me to this address?
-* #잔돈은 가지세요 						 Keep the change
-* #잔돈이 부족해요; i'm #short changed
-* Could you break this bill?
-* #step on it please; 빨리 가주세요
-* 잔돈으로 바꿔주세요; can you #break this one dollar for ~ 
-* | can you change this 100 dollar to small change
-* ~로 가주세요 									I'm going to __
-* #빨리 가주세요 				 Could you try and make this a fast trip?
-* 얼마나 걸리세요? 						How long will it take to 장소?
-* 얼마나 들까요? 						 How much will it be/cost?
-* 어디로 가세요? Do you know where you are going? Are you going the right way?
-* 택시를 타다 								 take a taxi, ride a taxi
-* *택시 잡아줄게 							 I'll get you a cab
-* 택시 #불러주세요 Would you call a taxi.
-* *택시 잡고 싶어요 						 I wanna take a taxi/cab 
-* *택시를 부르고 싶어요 						I wanna call a cab/taxi
-* 택시를 잡다 									 get a taxi
-* 손을 흔들어 택시를 잡다 					 hail a taxi/flag down a taxi
-* #기본 요금이 얼마죠? What's the starting fare?
-* 빨리가주세요; could you try and make this a fast trip?
-* #택시 #cab
+	* #요금이 올라가다; #meter goes up
+	* #트렁크 가방좀 트렁크에 넣어주실래요? 	 Can you put my bag in the trunk?
+	* 이 주소로 가주세요 					 Can you take me to this address?
+	* #잔돈은 가지세요 						 Keep the change
+	* #잔돈이 부족해요; i'm #short changed
+	* Could you break this bill?
+	* #step on it please; 빨리 가주세요
+	* 잔돈으로 바꿔주세요; can you #break this one dollar for ~ 
+	* | can you change this 100 dollar to small change
+	* ~로 가주세요 									I'm going to __
+	* #빨리 가주세요 				 Could you try and make this a fast trip?
+	* 얼마나 걸리세요? 						How long will it take to 장소?
+	* 얼마나 들까요? 						 How much will it be/cost?
+	* 어디로 가세요? Do you know where you are going? Are you going the right way?
+	* 택시를 타다 								 take a taxi, ride a taxi
+	* *택시 잡아줄게 							 I'll get you a cab
+	* 택시 #불러주세요 Would you call a taxi.
+	* *택시 잡고 싶어요 						 I wanna take a taxi/cab 
+	* *택시를 부르고 싶어요 						I wanna call a cab/taxi
+	* 택시를 잡다 									 get a taxi
+	* 손을 흔들어 택시를 잡다 					 hail a taxi/flag down a taxi
+	* #기본 요금이 얼마죠? What's the starting fare?
+	* 빨리가주세요; could you try and make this a fast trip?
+	* #택시 #cab
 * When is the first/last bus?, is this bus for LA?
-* #교통 카드: transportation card #고속 버스 express bus
-* add; I just wanna add more data, you can add money to it
-* #배차간격; how often does the bus run?
+	* #교통 카드: transportation card #고속 버스 express bus
+	* add; I just wanna add more data, you can add money to it
+	* #배차간격; how often does the bus run?
 * #직행 버스; there's not a #direct bus
-* *Which bus should I take to get to downtown
-* *버스 요금 ##얼마죠? What’s the bus fare
-* 버스카드 잔액이 얼마나 남았나요? 			 How much is left on my bus card?
-* 버스 벌써 왔니? Has Bus 47 come yet?
-* #잔액 부족 #insufficient cash
-* 버스카드 #충전해주세요 					 can you reload my bus card?
-* 요금 충전하시려구요? 								wanna top up?
-* 선불 핸드폰 요금 충전할 수 있나요? 			 can I top up a prepaid phone?
-* 5000원 충전해주세요 					 5,000 won on my bus card please
-* #왕복; #Ply; [plai] #정기적으로 다니다; there were ffew buses plying today
-* 왜 버스 안온다; what kept you
-* #대형 버스; #juggernaut
-* ##교통 카드 #버스카드
+	* 67번 버스 언제와요? When will bus 67 arrive?
+	* *Which bus should I take to get to downtown
+	* *버스 요금 ##얼마죠? What’s the bus fare
+	* 버스카드 잔액이 얼마나 남았나요? 			 How much is left on my bus card?
+	* 버스 벌써 왔니? Has Bus 47 come yet?
+	* #잔액 부족 #insufficient cash
+	* 버스카드 #충전해주세요 					 can you reload my bus card?
+	* 요금 충전하시려구요? 								wanna top up?
+	* 선불 핸드폰 요금 충전할 수 있나요? 			 can I top up a prepaid phone?
+	* 5000원 충전해주세요 					 5,000 won on my bus card please
+	* #왕복; #Ply; [plai] #정기적으로 다니다; there were ffew buses plying today
+	* 왜 버스 안온다; what kept you
+	* #대형 버스; #juggernaut
+	* ##교통 카드 #버스카드
 * #내리다; #stop over = #drop off;
 * 종암동 가는거 맞아요? 					do you stop at 종암동?
 * 여기 앉으세요 							you can sit here, have a seat

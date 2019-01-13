@@ -141,7 +141,8 @@
 
 # 나이
 * 내가 20대일때 넌 날 늙게 보곤했다. You used to put years on me when I was in my 20s.  put years on somebody
-* 어느새 18살이 됐어; Fast forward to 18
+	* 어느새 18살이 됐어; Fast forward to 18
+	* 7살 짜리 애들을 앉혀놓고; they sit dkis down at the age of 7
 * 30대쯤으로 보여; She looks somewhere in ther thirties
 * Do you mind if I ask your age?
 * #동갑이야 She is your age #또래인 of my age 한 살 #차이: ~ and I are one year apart
@@ -201,16 +202,15 @@
 * 나이가 많다;
 * 어느정도 나이가 든; The show appeals to an audience #of a certain age. 
 * 그 쇼는 어느 정도 나이가 든 청중[시청자]들의 관심을 끈다.
-* He's five years my #senior. (나보다 5살 많아요)
-* He married a woman (who is) 12 years his senior
-* Senior executives (회사의) 최고간부
-* Who has #seniority? (누가 선배에요?)
-* He's 10 years my senior. 
-* She married a man 20 years her senior. 
-* She's seeing someone five years her junior.
-* when I was #around ~
+	* He's five years my #senior. (나보다 5살 많아요)
+	* He married a woman (who is) 12 years his senior
+	* Senior executives (회사의) 최고간부
+	* Who has #seniority? (누가 선배에요?)
+	* He's 10 years my senior. 
+	* She married a man 20 years her senior. 
+	* She's seeing someone five years her junior.
+	* when I was #around ~
 * #연륜‘ ears of experience 연륜 있는 작가 a(n) veteran[experienced] writer 
-* ## #나이 #30대 #20대 | #수명 #어리다 | #청춘
 
 
 

@@ -27,6 +27,7 @@
 * #집들이 언제할거야?					 when is your housewarming party
 * 집들이 선물 #housewarming gift
 * #청사진 (건물・기계 설계용) 청사진, #설계도; #blueprint
+* 용접 부러진 굴대를 용접하다 [VN] to weld a broken axle 
 * 모래통, 삽	sand bucket, shovel 'ʃʌvl
 * 삽질	shovel up
 * 세우기	#build up

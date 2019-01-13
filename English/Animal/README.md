@@ -16,6 +16,8 @@
 * 동물원에서 가장 눈에 띄는 동물은? what animal cathes your attention the most at the zoo
 
 ## 동물
+* 입양; re-home : (버려진 동물을) 입양시키다, 새로운 집 및 주인을 찾아주다
+	* 나이 든 개들은 새 가족 찾아주기 어려워. Older dogs are hard to re-home.
 * 기르다; 동물을 기르다[길들이다] keep[domesticate] animals; tame a wild animal
 * 송곳니; fang 미국식 [fæŋ]  영국식   단어장추가
 * 고양이 털에 알레르기 있어요; i was allegic to cat hair

@@ -48,6 +48,7 @@
 * the upper/bottom #lips
 * fill in the brows
 * #발색이 잘된데 THis is really #pigmented
+	* 여기서 fair는 ‘(피부, 머리카락) 옅은 색의’란 뜻이고 complexion은 ‘안색, 낯빛’이란 뜻입니다. 그래서 fair complexion이라고 하면 희고 밝은 살결을 뜻하는데 무조건 백인을 말하는 건 아니고 밝은 톤의 건강하고 깨끗한 피부를 통틀어 지칭합니다. 
 * #painted; 진하게 화장한, 얼굴에 #먹칠한
 * 보습제를 사용하는 것이 이런 부작용들을 감소시키는 데 도움을 줄거에요. |
 * ‘mɔɪstʃəraɪze dɪ’kri:s Using a moisturizer may help decrease these side effects. 

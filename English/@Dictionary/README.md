@@ -16,6 +16,10 @@
 	* = 미래 에너지를 위해 두 가지 시나리오를 가정해 보았습니다. We have postulated two scenarios for the future of energy.
 * i'm gusssing; It must've 
 
+# 가짜
+* 보통 bogus note (위조 지폐), bogus contract (가짜 계약서)등으로 많이 쓰이는데요. 영상에선 나이를 먹음에 따라 시간을 느끼는 속도를 공식으로 할 수 있다는 과학이 터무니 없는 [가짜 과학이다 = 말도 안 된다] 로 해석이 되었습니다.
+	* 애들 몇명 와서 이 위조 지폐로 과자 사갔어. ex) Some kids came and bought some snacks with this bogus note.
+
 # 감
 * 그 의사의 예감이 옳았던 것 같았다. It seemed that the doctor’s hunch had been right. 
 * 내 직감으로는 그는 살인범이 아니다 I have a gut feeling that he is not the murderer . 듣기 출처:능률교육
@@ -83,6 +87,9 @@
 # 근처
 * 부근에는 좋은 학교가 없다. There isn't a good school in the vicinity. 
  
+# 기다리다
+* bide one's time: 때를 기다리다; bide는 가만히 기다린다는 뜻으로, 흔히 bide one's time, 좋은 기회, 알맞은 때가 올 때까지 참고 기다린다는 의미로 쓰여요.
+
 # 기대
 * Dyke는 심지어 기대에 미치지도 못했다. Dyke can't even cut the mustard . 듣기
 
@@ -94,6 +101,10 @@
 # 나타나다
 * 인류가 떨어뜨린 씨앗에서 곡물(crop)이 자란 것을 우연히 발견하게 되었죠. 같은 맥락일까요? 예기치 않게 무언가가 갑자기 출현하는 것을 crop up 이라고 합니다. 혹은 특정 주제가 말 속에서 계속 언급되는 것는 것도 crop up 입니다.
 	* 미안해, 오늘 못 갈 것 같아. 일이 갑자기 생겼어. Sorry I can’t make it tonight. A problem cropped up. 
+
+# 날카로운
+* razor 는 [면도기/면도칼] 을 의미하기 때문에 그만큼 날카로운 무언가를 의미할 때 razor sharp 라고 합니다. 물리적으로 날카로운 칼이나 이빨 등을 의미할 때도 쓰이지만, 영상에서처럼 razor sharp focus/mind [날카로운 집중력 또는 관심/영민한 머리] 라고도 많이 씁니다.
+	* 여기 날카로운 턱 좀 봐. ex) Look at this razor sharp jaw. 
 
 # 낭비
 * [낭비하다] 라는 뜻을 본 순간 아마도 waste 를 떠올리셨을 것 같아요! 거의 비슷한 단어지만, 생긴 게 다른 만큼, 뉘앙스의 차이도 물론 있습니다. squander 의 경우엔 시간이나 돈을 조금 무분별하고 현명하지 못한 방식으로 낭비하는 것을 의미하는데요. waste 는 꼭 무분별하게 낭비한 것은 아닙니다. 또한 waste 가 조금 더 부드러운 표현일 뿐만 아니라 자주 쓰이죠. 예를 들어, 신중하게 생각하고 주식에 돈을 투자를 했으나, 얻은 것도 없고 오히려 주가가 내려서 손실을 봤을 때는 waste 한 것이고, 백화점에 갔는데 보이는데로 생각하지 않고 무분별하게 사는 것은 squander 한 것이라고 생각하시면 됩니다.
@@ -213,6 +224,7 @@
 * 사물의 무게를 물어볼 때 How heavy is it?라고 묻는 것은 괜찮지만 사람에게 How heavy are you?라고 하지 않는 것이 좋습니다. 예의에 어긋나게 들릴 수도 있거든요. 그 대신 How much do you weigh? What is your weight? 라고 해야 합니다. 물론 민감한 주제일 수도 있으니 웬만해선 몸무게를 묻지 않는 것이 낫겠죠?
 * weigh apples, weigh fish 처럼 어떤 것의 무게인지 목적어를 꼭 써야 합니다. 혹은 자신의 체중을 잰다고 할 때는 weigh oneself with/on the scale 이라고 합니다.
 	* ㅍShe weighs herself every morning.
+* 무게 분산; distribute weight; spread out the weight
 
 # 문제
 * brain twister 혹은 brainteaser는 '어려운 문제'를 가리킵니다. 머리가 지끈거리도록 복잡한 추리소설이나 영화를 바로 brain twister라고 말할 수 있겠죠!^^
@@ -245,6 +257,8 @@
 # 방법
 * (to) the beat of one’s own drum = 자신만의 방법, 자신만의 개성을 따라서 드럼소리를 기준으로 들으며 박자를 맞추듯이, 자신만의 소리, 자신만의 개성을 따른다는 의미의 표현입니다. 영상에서는 자신만의 방식으로 일어나라는 의미에서 wake up이라고 하였는데요, 보통은 march, follow 등을 씁니다.
 	* 저는 저만의 방식대로 할 뿐이에요. I only follow the beat of my own drum.
+* 'wrinkle'은 무언가 새롭고, 이전과는 다른 방식/생각/방법을 말해요. 
+	* 제가 좀 색다른 방식을 생각해봤는데요. I found something that might put a new wrinkle in things.
 
 # 배경
 * 장면은 파리로 설정되어있따; The scene is set in Paris
@@ -294,6 +308,10 @@
 	* = 이 기술적 문제는 특정 상황에서 발생합니다. This technical issue occurs under specific circumstances.
 * 전쟁이 교착상태에 빠졌다.ex) The war has reached a stalemate.
 * Hilfenhaus는 이해가 빠르다.  Hilfenhaus is quickly off the mark; 상황 판단이 빨라
+
+# 색깔
+* 무척 기쁜; tickled pink 
+	* 몹시 질투하는; green with envy 
 
 # 서투르다
 * 직역하면 [햄처럼 생긴 주먹을 가진] 이란 뜻인데요. ham-handed 라고 쓰이기도 해요. 손이 햄처럼 크고 뭉툭하면, 뭔가 손으로 다루는 일에 서툴겠죠? 그런 의미의 연장선으로 사람을 다루거나, 무언가를 함에 있어 전반적으로 [서투른] 이라는 의미를 가지게 된 형용사입니다.
@@ -345,6 +363,15 @@
 
 # 습관
 * 좋은 습관 만드는법; how to build good study habitss
+
+# 시야
+* 이 작은 마을에서 나와서 시야를 넓힐 시간이야. ex) It's time to get out of this small town and broaden my horizons.
+
+# 시차
+* 시차 적응하려고 노력중이야; Just fighting off some jet lag
+
+# 안하다
+* 안해; i'm out of here; i'm done with this
 
 # 알다
 * : (OO에 대해) 좀 잘 알다 [ 숙어 ] know a thing or two (about OO) a thing or two는 정말로 한 ,두 개를 의미한다기보다는 '어느 정도', 강조의 '좀'을 뜻한다고 볼 수 있어요^^
@@ -445,6 +472,7 @@
 	* 제이슨은 자신의 이익을 위해 레베카의 아이디어를 사용했다. ex) Jason played off Rebecca's idea to his own advantage.
 * 자신의 이익을 위해서 무언가를 사용하는 것을 의미하는 표현에서는 '책' 이 사람들의 경험을 사용하는 것이기 때문에 [사람들의 경험에 대해 이야기하다] 로 해석이 되었습니다.
 	* 네가 제한된 데이터를 활용한 건 정말 놀랍다. ex) It's amazing how you tapped into the limited data.
+ 
 
 # 자기
 * 자기관리! 하면 떠오르는 단어예요. discipline. 명사로는 [규율, 훈육] 또는 [수련법] 의 의미로 자주 쓰이며, 동사로는 [훈육하다] 또는 [스스로를 단련하다] 라는 의미를 가집니다. 형용사로 disciplined 는 [스스로 단련된, 규율을 가진, 잘 훈련된] 정도의  의미로 쓰여요. 이 영상에서는 discipline 중에서도 self-discipline에 대해 얘기하고 있기 때문에 [자기 절제], [절제력]이라고 번역했습니다.
@@ -453,6 +481,10 @@
 # 자발
 * 자청해서 을 하다. = take it upon oneself to V
 	* 그녀는 두 마리 개를 자청해서 돌봤다. ex) She took it upon herself to take care of both dogs.
+
+# 자세
+* 편한 자세로 앉다 sit in a comfortable position
+* 자세 좀 고쳐보자; Let's work on your stance
 
 # 작용
 * 쉽게 설명하면 ‘플레이 되다’라고 이해하시면 됩니다. 주어로 온 그 대상이 재생, 시작된다는 거죠. 자주 쓰이는 표현이니 예문을 외워서 활용해 주세요.
@@ -505,6 +537,9 @@
 * on the verge of something; on the verge of doing something
 	* 조애나는 금방이라도 울 것만 같았다. Joanna was on the verge of tears.
 
+# 진짜
+* 100프로 한국 정통 음식 파는 식당을 알고 있어. ex) I know a restaurant that sells 100 percent authentic Korean food.
+
 # 집착
 * fixate은 어떤 것에 병적으로 집착하고, 계속 그 생각만 하는 것을 의미합니다. 영상에서도 코에 콤플렉스를 가진 주인공이 남들의 코가 어떻게 생겼는지 자꾸만 신경을 쓰게 된다고 말하고 있네요. 
 	* 높은 성취도를 보이는 사람들은 때때로 자신의 결점에 대해 집착하는 경향이 있다. High achievers sometimes fixate on their own flaws.
@@ -517,6 +552,9 @@
 
 # 차이
 * - 사이에 차이가 있다; - is a comparison between A and B 
+
+# 참견
+* buttinsky (←buttinski) 미국·영국 [bʌtínski]  busybody 미국식 [-bɑːdi]  영국식 [ˈbɪzibɒdi]  meddler 미국식 [ˈmedlə(r)]
 
 # 책임
 * 범죄자들은 그들의 행동에  책임을 져야 할 것입니다; The criminals are held responsible for their actions
@@ -535,9 +573,19 @@
 * : 직역하면 'A를 위해 말을 잘 해주다' 로, 'A를 추천해주다' 라는 뜻이에요! 특히 이런 직업 관련 추천을 말할 때 자주 써요.  put in a good word for A
 	* 말 좀 잘 부탁드릴게요. Please put in a good word for me.
 
+# 취향
+* 취향이 아니다; not my cup of tea; not my thing; not my bag
+* 취향이 가장 고급스러우니까; Because i have the best taste
+
+# 칭찬
+* 일상 회화에서 일반적으로 사용할 수 있는 ‘칭찬하다’는 compliment입니다. praise는 ‘칭송하다, 찬양하다, 높이 사다’ 등의 뜻으로 그 표현 수위가 높은 경향이 있어서 일반적인 상황에서 쓰면 어색하게 들릴 수 있습니다.
+
 # 투자
 * 단어 안에 신뢰 (trust) 라는 단어가 들어가 있으니, 누군가를 믿고 맡기는 것을 의미합니다. 영상에서는 [투자하다] 라고 해석이 되었어요.
   * 왜 그렇게 많은 돈을 맡긴 거야? ex) Why did you entrust that much money to him?
+
+# 특기
+* is not my forte
 
 # 평가
 * 실제보다 덜 중요하게 보이게끔 하는 걸 의미하는 단어입니다. 비교적 최근에 사용 빈도가 많이 늘어난 단어예요.

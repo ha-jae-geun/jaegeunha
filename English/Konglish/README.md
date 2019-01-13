@@ -69,6 +69,7 @@
 * #hunnit (eye dialect of, hundred)
 * #콩글리쉬# = #korean style broken english
 * #선팅; #sunting -> #window tinting
+	* 동사 tan 자체가 ‘햇볓에 그을리다’라는 뜻이 있지만 명사형으로 써서, build/have/get a tan 이라고 표현할 수도 있습니다. 예문을 보면서 각 표현의 뜻을 익혀보세요.
 	* 선텐하고싶다; I would love to skak up the sun
 * 히치 하이킹; thumbing it(hitchhiking도 사용은 함)
 * 계산대에서 봉투 넣어주는 직업; bagger

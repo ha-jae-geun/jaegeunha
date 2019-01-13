@@ -27,6 +27,7 @@
 * thirty, forty, 디 | fifty, sixty: 티| seventy: 디 | eighty: 리 ninety: 디
 * #인원수; #headcount; do a headcount
 * !1/3 = one-third 2/3 = two-thirds 1/2 = one-half 1/4 = one-quarter 1.9 = one point nine 
+	* 1/2 one half / a half;  2 half; two halves
 * 485-1206 = My phone number is four eight five (잠시쉬고) one two o (ou) six 
 * 58.35$ = fifty eight dollars (and) thirty five cents 
 * 끝에서 두 번째 장/날/단계 		 [pen|ʌltɪmət] the penultimate chapter / day / stage

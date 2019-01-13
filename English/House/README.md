@@ -580,3 +580,4 @@
 	* 족욕; foot bath
 * 목욕; 나는 얼굴에 비누거품을 칠하고 면도를 하기 시작했다. I lathered my face and started to shave. 
 * 변기 시트 올려놨나? We left the toilet seat up?
+* 수도꼬지 잠글 줄 몰라서 이렇게 ㅐ놓은거야? THis is because some idiots couldn't turn the sinks off?

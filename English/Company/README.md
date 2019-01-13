@@ -61,6 +61,8 @@
 * 월급 급여; #payroll, 총 급여 대상자 명단: #Gross payroll
 	* 첫 월급 받았어; i got my first paycheck
 	* "저 월급 쥐꼬리만큼 받아요." "I'm paid peanuts." "I get paid peanuts."
+	* 월급 잘 줘? Do they pay alright? What's the pay like for 직업 these days?; How's the pay?
+	* payroll 은 [급여] 또는 [급여 대상자 명단] 을 의미하는데요. 그런 명단에 올라 있으면 [고용되어 있는] 을 의미하고, off the payroll 이라는 표현일 경우엔 그 명단에서 빠져나왔으니 [해고된] 의 의미로 쓰입니다. 회사 내에 payroll department 는 [경리과, 급여 지급 부서] 를 의미하고, 이런 종류의 회계를 담당하는 사람들을 payroll specialist 라고 부르기도 합니다.
 * #ETA; Estimated time of arrival; 도착 예정 시간
 * #effective date; 유효기일, 발효일
 * Biz card = Business card

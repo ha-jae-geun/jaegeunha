@@ -30,6 +30,7 @@
 * 성공은 매일매일 반복되는 조그마한 노력들이 합쳐진 거야. Success is the sum of small efforts repeated day in and day out.
 	* day to day; My work varies from day to day
 * 우호적인 시기; honeymoon period/phase
+	* phase는 '시기' 및 '단계'라는 뜻! 은근 자주 등장하는 표현인데, 어떻게 활용하나 볼까요?
 * PST(Pacific Standard Time); 서머타임 후: PDT(Pacific Daylight Time)
 * MST, MDT, CST, CDT, EST, EDT
 * 12 midnight; 12 noon

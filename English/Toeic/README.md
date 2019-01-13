@@ -13,6 +13,8 @@
 * be provided / be sent with / come with / along with 
 
 # 단어
+* 이력서; Curriculum vitae
+* 배우와 제작진; with the cast and crew; 토익 어플
 * 해군 방위대에 관련된 문제들 matters pertaining to naval district defense . 듣기 출처:Collins
 * 그 정당이 그 나라 역사상 최악의 경제 후퇴 중 하나를 주도했다. The party presided over one of the worst economic declines in the country’s history. 
 * 주의하다; exercise caution = use caution
@@ -23,7 +25,7 @@
 * be especially/specifically 동사/형용사; skilled at
 * appoximately는 90% 숫자 아니면 동사
 * 추가비용으로; at additional expenses
-* unless otherwise pp; -하지 ㅇ낳는다면
+* unless otherwise pp; -하지 않는다면
 * directly + on 장소; 바로 -에; 2. directly + to.from 장소: 바로 -에
 * widely used; 널리 사용된
 * 그녀의 최신 저서는 눈을 떼지 못하고 읽게 만든다. Her latest book makes compelling reading. 
@@ -222,7 +224,7 @@
 * #meeting, #training, #marketing, #funding
 * 동명사 형태의 명사(모두 명사 취급)
 
-* #후치사#
+# 후치사#
 * 11.명사 뒤에서 수식하는 형(후치형) 7가지
 
 * 현재 형부와의 전투는 과대하다. 그래서 후회된다. 
@@ -235,13 +237,13 @@
 * ⑥ 과거 분사구
 * ⑦ 관계 대명사절
 
-* chance처럼 to부정사의 수식만 받을 수 있는 빈출 명사는 
+## chance처럼 to부정사의 수식만 받을 수 있는 빈출 명사는 
 * opportunity, time, ability, decision, suggestion, permit, way,
 * (un)willingness, permission, authority, right 등이 있다
 
 
 
-* #동사# 준동사: 동사를 살짝 개조하여 명사, 형용사 또는 부사의 역할을 하도록 만들어진 애들
+# 동사# 준동사: 동사를 살짝 개조하여 명사, 형용사 또는 부사의 역할을 하도록 만들어진 애들
 * #준동사 3가지: to, -ing(현재 분사, 동명사), ed,en(과거 분사)
 
 * 기본
@@ -254,9 +256,9 @@
 * speak to 사람 about 내용 
 * talk to (~에게 이야기하다)
 * tell 사람 that절 ~에게 ~을 이야기하다.
-* say (to 사람)that절 ~에게 ~을 이야기하다.(explain announce)
+* say (to 사람)that절 ~에게 을 이야기하다.(explain announce)
 
-* 관용어
+# 관용어
 * go -ing
 * have difficulty -ing
 * be worth -ing = be worthy of -ing = be worth while -ing = be worth while to v

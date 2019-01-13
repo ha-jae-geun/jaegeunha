@@ -68,6 +68,9 @@
 ## after
 * 쫒는 느낌의 느낌
 
+## border
+* 그녀는 히스테리에 가까운 불안을 느꼈다. She felt an anxiety bordering on hysteria. 
+
 ## behave
 * * behave badly = 못되게 굴다 * behave yourself! = 말썽 피우지 마!
 
@@ -155,7 +158,8 @@
 ## out
 * 시야에서 보이지 않다가 나타나는 느낌
 * come out; the tap doesn't come out
-
+* 여기서 out of ~는 '~때문에'라는 뜻입니다. 이유나 동기를 나타내죠.
+	* 동정심에 그 낯선 사람을 도와줬다. I helped the stranger out of pity.
 
 ## with
 * 가까이 가는, 다가간의 느낌
@@ -322,6 +326,9 @@
 * comfort zone 은 직역하면 [안락 지대] 로 평소에 특정 상황이나 장소에서 내면적으로 편하게 느끼는 심리적 상태를 나타내는 단어입니다. 위의 표현을 직역하면 거기에서 벗어나는 것이기 때문에 의역하여 [도전하다] 라고 해석이 되었고요. 누군가에게 조언을 하거나 면접 시에 유용하게 쓰일 수 있는 표현이에요.
 	* = 현실의 편안함에서 벗어나는 건 쉽지 않은 일이지만, 일단 벗어나면 신세계를 경험하게 될 거야. Stepping out of your comfort zone is not easy to do, but once you do, you will experience a whole new world.
 
+## chance
+* 어림도 없죠; Not a chance
+
 ## charm
 * ‘매력’으로 잘 알고 계실텐데요, 영상에 나오는 것처럼 악세서리 장식물이나 상징물, 부적 등도 charm 이라고 합니다. 
 	* 이건 내 행운의 부적이야. 내 할머니가 주셨어.  This is my lucky charm. My grandma gave it to me.
@@ -423,6 +430,9 @@
 
 ## devil
 * 논의가 이어지게 하려면 흔히 인터뷰 진행자가 선의의 비판자 노릇을 할 필요가 있다. Often the interviewer will need to play devil’s advocate in order to get a discussion going. 
+
+## dance
+* 어떤 문제나 주제에 대해 명확히 이야기 하지 않고, 이야기 하는 것을 피하다 = dance around an issue/subject 직역하면 '~ 주변을 돌며 춤추다' 인데요, 어떤 특정 얘기를 안 하려고 피하는 몸짓이 춤동작 같다고 상상하면 기억하기 쉬울 것 같아요!
 
 ## data
 * 그리고 data 는 복수형이기 때문에 (단수형은 datum) 동사도 그에 맞춰야 하지만 일반적으로는 혼합해서 쓰는 편입니다. - The data is not accurate. (문법적으로 틀리지만 일반적으로 쓰는 말)
@@ -535,6 +545,10 @@
 * flat 은 아래의 [참고] 부분에 있는 것처럼 굉장히 많은 뜻을 가지고 있고 많이 쓰이지만, 영상에서처럼 [시간+flat] 을 쓰게 되면 형용사로 '딱 ~ 밖에' 시간이 걸리지 않았을 때, 그만큼 무언가가 놀랍게 빨리 발생했고, 단지 그 시간 밖에 걸리지 않았다는 것을 강조해 주기 위해서 쓰입니다.
 	* 집에 5분만에 도착할 거예요, 엄마. ex) I will be home in 5 minutes flat, mom.
 
+## fortune
+* 우리가 흔히 아는 fortune 은 [운, 행운] 의 뜻을 가지고 있는데요. 영상에서처럼 [큰돈] 을 의미하기도 해요. 가끔 헷갈리는 부분이 small fortune 이라고 하면 적은 양의 돈이라고 생각하실 수 있는데, 꽤 큰돈의 일부이기 때문에 여전히 어느 정도 많은 돈을 의미를 합니다.  영상에서처럼 [큰돈을 벌다, 재산을 모으다] 라고 할 땐 make a fortune 이라고 말할 수 있어요.
+	* = 거기에 그렇게 제법 큰돈을 들일 필요는 없어. You don't really have to spend a small fortune on it.
+
 ## foot
 * 어떤 비용을 지불하고, 부담한다는 뜻으로, 대개 누군가가 다른 사람을 대신해 큰 비용을 다 부담하고, 내야하는 경우에 사용해요. 여기에서 'foot'은 'pay'에 가까운 의미예요. 
 	* Who's going to foot the bill for all the repairs? 
@@ -555,6 +569,7 @@
 
 ## fuss
 * 모든 소녀들은 치켜세워주는 것을 좋아한다. EVERY girl loves to be made a fuss of . 듣기
+* 노인 환자들은 그들의 권리에 대한 인식이 낮아서 궂이 호들갑을 떨려하지 않는다. Elderly patients have low awareness of their rights and are reluctant to make a fuss . 예문 발음듣기
 
 ## fuck
 * = 아 몰라!, 아 됐어! 신경 안 쓸래!  fuck it
@@ -868,6 +883,9 @@
 ## hear
 * (특히 연설 중에 맞장구치는 말로) 옳소! 옳소! hear! hear! 미국식  영국식   단어장추가
 
+## horizon
+* 이 작은 마을에서 나와서 시야를 넓힐 시간이야. ex) It's time to get out of this small town and broaden my horizons.
+
 ## hold
 * 하루 쉬지 그래요? 내가 대신 자리를 지켜 줄 테니. Why not have a day off? I’ll hold the fort for you. 
 * 여기서 hold up 은 누군가의 생각(idea), 주장(argument), 정보(information) 등이 사실 검증을 해보니 ‘사실이다, 타당하다, 말이 맞다’는 뜻입니다. 여러 근거를 보니 주장하는 바를 잘 떠받들고 있다(hold up)는 것이죠. 
@@ -883,6 +901,8 @@
 * 승리의 패; winning hand; He held the winning hand in the card game
 * 헌옷 She got all the hand-me-downs
 * have time on one's hands: 시간이 남는다, 시간이 있다. had a little time on my hands                  
+* 첫 번째 뜻은 '한 줌', '한 움큼'이라는뜻. 손(hand)가 가득(full) 찼다는 느낌이죠~ 말 그대로 '한 움큼'을 뜻할 수도 있고 '몇 안 되는'이라는 뜻도 있어요. 두 번째 뜻은 '말쌩정이', '다루기 힘든 사람/동물'입니다! 뭔가 양손 가득 물건을 겨우겨우 들고 있는 모습이 연상되지 않나요? ㅎㅎ
+                                
 
 ## have
 * 소유하고 있다; 소유욕이 낮은 느낌ㄴ
@@ -980,6 +1000,8 @@
 
 ## leave
 * = 지금은 그 부분을 다루지 않도록 합시다. Let's leave that out for the moment. 2) for the moment 나 for now 는 [현재로썬, 일단은, 일단 지금은]을 의미하고 있어요.  3) 토의를 시작하기 전이나 토의 중에 언급되는 것에 대해 일단 포함시키지 않고 나중에 얘기하자- 라는 뉘앙스로 말할 때 정말 많이 쓰이는 표현이니 전체적으로 알아두시는 것이 좋습니다.
+* 1. 를 앞지르다 (be left behind = 뒤쳐지다); 브렉시트 때문에 영국은 외자유치 경쟁에서 뒤쳐지고 있다. [ex] Because of Brexit, UK is being left behind in the race for attracting foreign capital.
+	* 2. 를 뒤로 하다, 두고 가다; 올리비아는 과거를 뒤로하려 노력하고 있어. [ex] Olivia is trying to leave the past behind.
 
 ## lead
 * 연필; lead pencil
@@ -1324,6 +1346,9 @@
 * 비격식 표현으로 실용적인 지식, 솜씨, 요령 등을 의미할 때 굉장히 많이 쓰이는 명사입니다. 형용사로도 쓰여 [요령 있는, 지식이 많은] 의 의미를 가집니다.
 	* = 요즘 대부분의 10대들은 테크놀로지에 능숙합니다. Most teenagers are tech savvy these days.
 
+## sweet
+* sweet spot은 ‘최상의 결과를 내는 범위나 부분’입니다. 스포츠에서는 라켓이나 베트, 클럽 등으로 공을 치기 가장 효율적인 부분을 뜻하고, 비즈니스에서는 최상의 수익성 혹은 효율성을 만들어내는 범위를 가리킵니다. 또는 가수의 최상의 음역대, 가장 좋아하는 스킨쉽 위치 등 분야는 다르더라도 모두 ‘가장 좋은 결과를 내는 위치’를 의미합니다. 
+
 ## swing
 * 가능할 것 같아; i think i could swing that; swing: 잘 해내다
 
@@ -1333,6 +1358,8 @@
 
 ## sell
 * a hard sell: (물건을 사도록) 설득하기 어려운 사람 혹은 그룹.
+* : 영어에서는 설득 당하거나 설득하는 것을 사고 파는 개념에 비유하기도 하는데요. 이 표현은 뭔가가 가치 있거나 좋다고 '설득 당하다', '믿게 되다'라는 뜻입니다. 제대로 설득 당해서 '마음에 들어하다' 라는 뜻까지 확장되기도 해요.
+	* 나 이 3D TV 마음에 들어. [살 거야] I am sold on this 3D TV.
 
 ## sense
 * in all senses of the word = 어느 모로 봐도 / 어느 점으로 봐도; sense 는 감각뿐만 아니라 ‘점, 면, 의미’를 뜻하기도 합니다. 그래서 이 표현은 ‘그 단어가 의미하는 어떤 부분을 보아도’를 말하고 주로 문장 안에 그 단어를 지칭하는 구체적인 말이 따라옵니다. 
@@ -1456,6 +1483,8 @@
 	* 그녀는 두 마리 개를 자청해서 돌봤다. ex) She took it upon herself to take care of both dogs.
  * take one's place 1. 있어야 할 곳에 가다. 2. 존재를 인정받다.
  	* 사라는 지가 매니저인 양 행동해오고 있어. 돌아와서 네 자리를 찾아. ex) Sarah has been acting like she's the manager. You should come back and take your place.
+* : 지치게하다/진을 빼놓다/피곤하게 하다 take it out of somebody
+	* 이런 열기 속에서 테니스를 친다는 건 정말 지치는 일이죠. Playing tennis in this heat really takes it out of you.
 
 ### take down
 * 먼저 'Take down'은 기본적으로 '사람이나 사물을 아래로 데려가다' 라는 의미를 가지고 있습니다. 여기에서, '누군가를 어떤 지위에서 끌어내리다', '글자그대로 사람이나 사물을 위에서 아래로 데려가다, 가져가다', '바지를 내리다' 라는 뜻과 '글을 적어내려가다 라는 의미에서 을 적다, 받아적다' 라는 뜻으로 사용됩니다.

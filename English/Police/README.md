@@ -238,6 +238,7 @@
 * I decided to report the number because they wouldn't stop cold calling.
 * 도난 신고를 하고 싶어요.					I want to report a theft. 
 * #turn in; turn someone in(#수사기관에)신고하다; #report; #자수 he turned himself in
+  * - turn oneself in: 스스로 경찰에 자수하다 - turn in someone: 누군가를 경찰에 고발하다, 경찰에 넘겨주다
 * 수사에 착수하다; #launch/start an #investigation
 * #수갑 #cuff; get me out of these cuffs
 * #결박하다; #put in irons(#iron)
