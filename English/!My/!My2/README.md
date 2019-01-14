@@ -32,7 +32,7 @@
 * 그만 좀 나부대고 가만히 앉아 있어! Sit still and stop fidgeting! 
 * 나는 여기서 당신과 무사히 만날 수 있어서 좋습니다. i'm glad to see you here safe and sound. 
 * 한마디도 안 놓치려고 그녀는 귀를 쫑긋 세웠다. She pricked up her ears not to miss a word. 
-
+* 내가 보장할게; Take it from me
 
 # 대답
 

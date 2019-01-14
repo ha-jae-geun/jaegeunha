@@ -68,6 +68,13 @@
 ## after
 * 쫒는 느낌의 느낌
 
+## beat
+* beat는 ‘이기다, 능가하다’라는 동사로 과거분사는 beaten입니다. 그래서 엄밀히 말하면 be beaten이라고 해야 하지만, 회화나 광고, 음악 등에서 be beat이라고 하는 경우가 종종 있습니다. We can’t be beat은 우리는 능가될 수 없다, 즉 “우릴 이길 사람은 없다”라는 의미입니다. 혹은 beat는 ‘녹초가 된, 엄청 지친’이란 의미도 있어서 “우린 절대 지치지 않아”로 생각할 수도 있습니다. 
+
+## book
+* 동사로 쓰이면 [예약하다] 라는 뜻이 있는 건 익숙하실 거예요. 비슷한 뉘앙스로 영상에서처럼 오디션 같은 상황에선 영화나 연극 등의 출연을 [계약하다] 라는 의미로 쓰여요. 참고로, 수동태로 I'm booked. 라는 표현도 있는데요. 이를 직역하면 [내가 예약되어 있다] 라는 뜻이니, 무언가에 붙잡혀서 [꼼짝할 수가 없다/ 바쁘다] 라는 의미로도 쓰인답니다.
+	* 내 생각엔 우리가 다음 번 쇼에도 그와 계약을 해야할 것 같아. ex) I think we should book him for the next show as well.
+
 ## border
 * 그녀는 히스테리에 가까운 불안을 느꼈다. She felt an anxiety bordering on hysteria. 
 
@@ -201,6 +208,8 @@
 * ball 은 [공] 이 아니라 [무도회] 라는 뜻으로도 쓰여요. 한마디로 파티니까, 파티를 할 때 즐거운 모습에서 나온 속어 입니다. = have a ball
 	* 한 시간 정도 더 머물러도 될 것 같아. 애들이 진짜 재밌게 노네. ex) Maybe we can stay here one more hour. The kids are having a ball.
 * 앞에서 나온 have a ball 과는 다르게 have balls 입니다. 복수를 쓰고요. 여기서의 balls 는 남성의 고환을 의미해요. 우리 말에서도 남자들끼리는 겁 많은 남자에게 "너 xx는 달렸니?" 라고 하잖아요? ㅎㅎ 비슷한 표현이랍니다. 남성들이 쓰는 표현이기는 하지만, 여성들도 농담으로 가끔씩 써요. 하지만 여성이 스스로 말하는 게 아니라면 남자가 여자에게 쓰면 불쾌할 수도 있으니 조심하셔야 합니다.  참고로 [배짱이/용기가 없다] 라고 할 땐 don't have the balls 라고 하면 된답니다.
+* 일을 망친다는 표현은 여러 가지가 있는데요. 이 표현은 주로 미국에서 쓰이며 보통 '실수로' 일을 망쳤을 때 쓰입니다. 미식축구에서 유래된 표현인데요. 미식축구는 기본적으로 공을 떨어뜨리지 않고 상대방 진영 끝까지 갈 경우 득점에 성공을 하는데요. 공을 떨어뜨리면 안 되는 상황에서 공을 떨어뜨려 망치는 것의 비유적 표현입니다.
+	* = 이번엔 실수하지 않도록 노력해. 다른 기회가 주어지지 않을 수도 있으니까. Try not to drop the ball this time. Another opportunity might not be given.
 
 ## back
 ### back away
@@ -344,6 +353,11 @@
 * 둘 이상의 사람/단체/나라 등이 원하는 것을 얻기 위해 무언가를 함께 할 때 쓰는 형용사인데요. 주로 다음과 같은 단어들과 함께 쓰입니다. 참고로, 공연을 뜻하는 '콘서트'도 '여럿이서  협동하다', '여럿이서 하모니를 이룬다'는 뜻에서 나왔습니다.
 	* concerted effort = 단결, 혼신의 노력 concerted action = 담합 concerted campaign = 공동/합작 캠페인
 
+## carve
+* 1) carve out은 ‘파내다’라는 건데, 영상에서 자신의 집에서 특별한 구석을 파내라는 건 그런 장소를 마련하라는 뜻이겠죠. 또한 carve out는 부단한 노력으로 어떤 분야에 대한 자신만의 입지를 마련하거나, 명성을 쌓는다는 의미도 있습니다. 
+	* 그들은 큰 나무통을 파내서 카누를 만들었다. They made canoes by carving out big logs.
+* 연기파 배우로서의 입지를 다지기 전까지 오랜 시간이 걸렸다. It took a long time before I was able to carve out a career as a character actor.
+
 ## crash
 * 1) 컴퓨터가 외부적 충격이 아닌 시스템적으로 고장이 나서 작동 되지 않는 것을 crash라고 합니다. 우리가 흔히 ‘에러나다’라고 표현하는 것과 같습니다. 동사와 명사 두 가지 용법이 있습니다.
 	* 컴퓨터가 갑자기 에러나서 처음부터 다시 작업을 해야만 했다. The computer crashed out of the blue so I had to work on it all over again.
@@ -428,6 +442,10 @@
 * 3) 영상을 직역하면 [500불에 최대 한도를 두겠어요] 정도이지만 좀 더 자연스럽게 [최대 500 달러 정도요] 라고 해석이 되었습니다.
 	* = 최선의 해결책은 봉급에 상한선을 두는 것이죠. The best solution now is to place a cap on the wage.
 
+## delve
+* ‘더 자세히 캐다’라는 뜻의 이 표현은, 우리말로 ‘파헤치다, 깊이 이야기하다, 파고들다, 조사하다, 연구하다’ 등으로 해석합니다. 
+	* = 그녀는 잔돈을 찾으려고 주머니를 깊숙히 뒤졌다. She delved into her pocket to find some change.
+
 ## devil
 * 논의가 이어지게 하려면 흔히 인터뷰 진행자가 선의의 비판자 노릇을 할 필요가 있다. Often the interviewer will need to play devil’s advocate in order to get a discussion going. 
 
@@ -476,6 +494,11 @@
 * edge 는 [가장자리, 끝] 이라는 뜻이 있어서 누군가를 벼랑 끝으로 몰아넣는 상황의 뉘앙스를 가져요. 벼랑 끝으로 몰리면 멘붕이 오고 미쳐버리겠죠? 그래서 over the edge 는 정신적/감정적으로 완전히 통제를 잃고 미쳐버리는 상태를 의미합니다. push 대신 drive, send 등의 동사를 쓰기도 합니다.
 	* = 이 소식이 그를 돌아버리게 할까 봐 걱정이야. I'm just worried that this news would push him over the edge.
 
+## entertain
+* → 남을 즐겁게 해준다는 뜻입니다. 또한 entertain myself라고 하면 스스로를 즐겁게 만든다는 의미로 ‘혼자 즐겁게 놀다, 자신이 재미있어 하는 일을 하다’입니다. 
+* → 영상속 주인공과 같이, 자신의 집에 손님을 초대해 함께 식사하고 마시며 즐거운 시간을 보내는 것을 의미합니다. 혹은 비즈니스를 할 때, 고객을 접대하는 것도 entertain 입니다. 
+	* 마크는 주말에 친구들을 집에 불러 저녁을 대접하는 걸 좋아한다.  ex) Mark likes to entertain his friends to dinner on weekends.
+
 ## end
 * [ 숙어 ] end up ing 일상에서 정말 자주 쓰는 표현이니 꼭 익혀두세요~! '[본의 아니게, 우연히, 결과적으로] ~하게 되다' 라는 뜻!
 * ※ end up in + 장소 / here / there … : 행동이 아닌 '어떤 장소에 우연히 도달하다'라고 말하고 싶다면, 요렇게 표현해보세요!
@@ -509,6 +532,10 @@
 
 ## feature
 * 내가 특집기사가 될거라고 생각하는거야; You mean i'd make a great feature
+
+## function
+* 1) 명사로 쓰이면 [기능] 이라는 뜻도 있는 단어인데요. 동사로 쓰일 땐 주로 기계나 시스템 등과 함께 쓰여서 [정상적으로 작동하다, 기능하다] 라는 의미를 가집니다. 2) 하지만 영상에서처럼 사람이 function 과 함께 쓰일 땐, 그 사람이 [정상적으로 지내다/생활하다] 라는 의미를 가진답니다. 3) 참고로 [사람 + function as + 직책] 으로도 자주 쓰이는데 [~가 ~한 역할/구실/직책을 다하다] 라는 의미를 가진답니다.
+	* 그 비극 후에도 그가 잘 지내는 건 놀라워. ex) It's amazing that he still functions after the tragedy.
 
 ## further
 * 멀리 갈 것 없다, 더 알아볼 필요 없다 (= 여기 당신이 찾는 게 있습니다)  "Look no further."
@@ -913,6 +940,8 @@
 ## hype
 * 2) hype 는 무언가의 중요성이나 이점을 부풀리면서 대대적으로 홍보하는 것을 hype 라고 합니다. 영상에서는 소셜미디어가 실제 가지는 영향력보다 좀 더 과장되게 홍보가 되어 있다는 점을 hype 라고 표현을 했고요. 그런걸 오해로 보고, 위기 상황으로 보는 발표자의 인식을 나타내는 표현입니다.
 	* 이건 과장광고일 뿐이야. 난 저딴거 안 믿어. ex) It's nothing more than a hype. I don't believe that shit.
+* hype 는 슈퍼팬에서도 여러 번 다뤘던 단어인데요, 미디어에서 대대적으로 떠드는 것, 사람들이 열광하는 것을 말합니다. 문장을 통째로 외워서 “도대체 …가 뭐길래 그렇게 난리들이야?” 라고 말하고 싶을 때 활용해 보세요!
+	* = 왜 저렇게 난리들이야?  “What is the hype all about?”
 
 ## home, house
 * house: 말 그대로 집
@@ -963,6 +992,13 @@
 ### hang on
 * : 잠깐만요. Hang on; Hang on a second.
 
+## ice
+* 보석이 얼음처럼 투명해서 일까요? 이 표현은 다이아몬드처럼 반짝이는 것들로 휘황찬란하게 꾸민다는 뜻입니다. 영상에서는 수동형으로 써서 “그들이 휘황찬란하게 꾸며졌다”라고 했습니다. 
+	* = 팔에 그 시계 뭐야! 번쩍번쩍 하는데! (비싼 시계를 찬 사람을 보고 하는 말) Look at your wrist! It’s so iced out!
+
+## intense
+* intense 는 사전적 의미로는 [강렬한, 치열한] 등의 의미가 있어요. 무언가의 강도, 정도가 굉장할 때 쓰이는 단어인데요. 비슷한 뉘앙스의 extreme 은 부정적인 뉘앙스인 반면, intense 는 주로 긍정적인 뉘앙스로 쓰입니다. 영상에서는 [장난이 아닌] 이라고 해석이 되어 있는데요. 정말로 멋진 경험을 표현할 때 [쩌는] [정말 인상적인] 등의 의미로 쓰이기도 해요.
+	* 그 공연 내내 한 경험은 정말 장난이 아니었어. (굉장히 강렬했다, 감동적이었다 등을 의미) ex) The whole experience throughout the show was really intense.
 
 ## jack
 * You are jacked; 마약했다라는 뜻인데 그만큼 몸이 좋다는 것이기 때문에 칭찬
@@ -1114,6 +1150,10 @@
 ## own
 * in one's own right: 직역하면 '자신의 정당한 자격으로' 라는 뜻으로 남의 도움 없이 자기 스스로 자격이 있다는 의미의 표현이에요.
 	* 그녀는 혼자 힘으로 부를 얻었다. She's a rich woman in her own right.
+
+## part
+* 막상 100달러짜리를 쓰려니 마음이 아픈가 보네요. 이처럼 주기 싫은데 마지못해 내놓거나 누군가와 헤어지는 것을 [part with 사물/사람] 이라고 합니다.  동사로 part 는 [갈라놓다, 가르다, 헤어지다] 를 의미해요. 그래서 가르마를 타는 것도 part hair 라고 하죠.
+	* 나는 아직 내 오래된 차를 처분하지 못하겠어. 내 자식과도 같아서. I don’t think I’m ready to part with my old car. It’s my baby.s
 
 ## pass
 * ＊ pass off ⓐ as ⓑ = ⓐ를 ⓑ라고 속이다, 행세하다 가짜 물건을 진짜라고 속이거나, 신분을 속이고 다른 사람 행세를 한다는 뜻의 숙어입니다. 참고로 누구를 속이는지 당하는 사람까지 표현하려면 [on+사람] 을 붙이면 됩니다. 
@@ -1314,6 +1354,10 @@
 * = 범위가 A에서 B에 이르다 * range from A to B  여러 가지 상황에서 정말 많이 쓰이는 표현이고요. 범위가 좀 더 다양할 경우엔 뒤에 to C to D 등으로 더 붙여서 쓸 수도 있습니다.
 	* = 선택하는 방의 종류에 따라 가격은 50달러에서 500달러로 다양합니다. The prices from 50 dollars to 500 dollars, depending on the type of room you choose.
 
+## replicate
+* 1) 무언가를 똑같은 방식으로 만들거나 따라하는 것을 의미합니다. 과학계에서 실험을 반복하여 검증할 때 replicate 라는 단어를 씁니다. 2) 어떤 제품 중에 replica [레플리카] 제품이라는 걸 보신 적이 있을텐데요, 원제품과 거의 같게 만든 복제품을 의미합니다.
+	* 우린 그녀가 이전 실험을 재현하도록 할 필요가 있어요. 같은 결과를 얻을 수 있는지 알아보기 위해서요. ex) We need to let her replicate her previous experiment to see if she can get the same result.
+
 ## reach
 * = 이 제품은 6세 이하의 아이들 손이 닿지 않는 곳에 두세요. Keep this out of reach of children under 6.
 * reach out to someone은 크게 두 가지 뜻이 있어요.
@@ -1324,6 +1368,10 @@
 * 적자인; when a company is in the red
 * 여기 한국에는 관료주의가 많다. There ’ s lots of red tape involved here in Korea
 * 나를 특별하게 대우할 필요는 없습니다. There's no need to roll out the red carpet for me.  
+
+## stuck
+* limbo 는 [불확실한/어중간한 상태] 를 의미하는 단어입니다. 그래서 in limbo 의 경우엔 중간에 끼여서 이러지도 못하고 저러지도 못해서 불확실한 상황 속에 있는 것을 의미하는데요. 영상에서처럼 어딘가에 '끼인' 이라는 뜻의 stuck 과 함께 자주 쓰입니다.
+	* = 우린 7월 이후로 이러지도 저러지도 못하고 있잖아. 도움이 좀 필요한 것 같아. We've been stuck in limbo since July. I guess we need some help.
 
 ## stink
 * 기본적 의미는 [구린내, 악취 / 악취가 나다] 입니다. 하지만 우리말에서도 [구리다] 라는 말이 무언가 굉장히 안 좋을 때 쓰고, 누군가 수상쩍은 일을 할 때 [뭔가 구린내가 나] 라고 하기도 하는데요. 영어에서도 마찬가지랍니다! 영상에서는 [좋지 않다, 잘 못하다] 라는 의미로 쓰였는데요. 상황에 맞게 [난감한 일이다] 라고 의역이 되었습니다.
@@ -1446,8 +1494,18 @@
 * 영상에 나오는 김정은의 얼굴이 stern 의 완벽한 예라고 보시면 될 것 같아요! 화난 듯 무표정으로 뚱하게, 근엄하게 있는 것을 의미하고요. 누군가의 말이 stern 할 때는 [심한 (말)] 을 의미합니다.
 	* 그의 심각한 모습에도 불구하고, 그는 굉장히 마음이 따뜻한 사람이야. ex) Despite his stern look, he is a very warm-hearted person.
 
+## suck
+* sucks to be you : 쌤통이다. / 고것 참 안됐다.
+
 ## sucker
 * 1) sucker는 낙지, 오징어 등의 ‘빨판’입니다. 혹은 속어로 ‘잘 속는 사람’을 의미합니다. 마치 단물 빨아먹기(suck) 좋은 사람처럼요.
+
+## shit
+* 1) you ain't got shit on me 는 넌 나에게 적수가 안된다, 대적할 가능성이 아예 없다, 라는 의미로 쓰였습니다.
+
+## tie
+* 'tie' 는 기본적으로 '끈'이라는 뜻인데, 이렇게 사람 간의 '유대', '유대 관계'를 말할 때도 쓸 수 있습니다. 두 대상이 끈으로 이어져있는 걸 상상해보세요!
+	* 난 내 공동체와 강한 유대가 있어. [ex] I have a strong tie to my community.
 
 ## thing
 * 어떤 사람이 the next thing이 된다는 말은 '장차 크게 될 사람, 후에 빵 뜰 인물'이라는 뜻이죠. thing은 꼭 물건에만 사용하지 않고 애정, 칭찬, 경멸 등을 담아 사람을 가리키는 데도 쓰이거든요. 마치 '그 사람 거 참 물건일세!'하고 말하는 것처럼 말이죠. 
@@ -1639,3 +1697,7 @@
 	* 모두가 토론에 달려들어 자신의 의견을 주장했다. Everybody weighed in on the debate. 
 * weigh down은 실제로 무언가를 먹어서 몸이 무거운 느낌을 들게 하거나, 어떤 것들이 쌓여서 무게에 축 쳐지는 것처럼 움직이기 어렵게 만드는 걸 의미하기도 하고 또는 어떤 책임이나 업무 때문에 스트레스 받고 짓눌린 걸 나타내기도 합니다. 여기서는 햄버거처럼 느끼하고 무거운 음식을 먹어 몸이 무거워짐을 의미하죠~
 	* 내 업무량 때문에 정말 짓눌린 느낌이다. I feel really weighed down by the workload I have.
+
+## whack
+* out of whack = 제대로 안 돌아가는; 기계, 시스템 등이 제대로 작동되지 않거나, 엉망진창이고 혼란스러운 상태를 가리켜 out of whack 이라고 합니다. whack 은 세게 후려 치는 것을 말하는데요, 내려 쳐도(whack) 말을 듣지 않는다(out of)는 의미입니다. 예를 들어 움직이지 않으려는 노새를 채찍으로 내려치거나, 고장난 기계를 탕탕 내려 쳐도 작동하는 않는 것 처럼요.
+	* = 내 컴퓨터 완전히 맛탱이가 갔어. 뭐가 문젠지 모르겠네. My computer is totally out of whack. I don’t know what’s wrong with it.  [wæk]

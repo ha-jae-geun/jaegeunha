@@ -430,3 +430,7 @@
 * 스키 탄지 얼마나 됐어요 How long have you been skiing?
 * 이 슬로프(비탈)는 내가 스키를 타기에는 너무 가파르다.This slope looks too steep for me to ski down.
 * 리프트(승강기)를 타다 get on the lift.  줄 서서 리프트(승강기)를 기다려주세요.  please go wait in the line for the lift. 
+
+# 격투
+* 1) 보통 복싱이나 격투기에서 쓰이는 표현인데요, 이런 스포츠는 체중에 따라 체급이 나눠져있습니다. 그런데 팬들은 '체급이 동일하다면 누가 최고일까?' 를 항상 궁금해하기 때문에, 체중을 동일한 방식으로 계산하여 [체급 불문]으로 실력에 순위를 매길 때 쓰는 표현입니다. 파운드가 체중 단위니까요. 2) 따라서 가사를 직역하면, [체급 불문하고 주변에 오는 애들 중엔 최고지] 정도로 해석이 되는데요, [장르 불문, 가수 불문, 어떤 여자든지 내가 최고다] 의 뉘앙스를 가지고 있습니다.
+	* UFC 는 방금 파운드포파운드 탑5 파이터들을 발표했어. ex) UFC has just announced the top 5 pound for pound fighters.

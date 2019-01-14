@@ -37,6 +37,7 @@
 
 # 청소년 #아이
 * 제가 우리 아이를 너무 과잉보호하는 걸까요? Is my child too sheltered?
+	* 일부 텔레비전 프로는 아이들을 깔보는 듯한 태도를 보이는 경향이 있다.[also V] [VN] Some television programmes tend to patronize children. 
 * 비행 십대들 delinquent teenagers [dɪˈlɪŋkwənt]]
 * 3세 이상이라고; Ages 3 and upㅈ
 * 날 야단치지 마. 	Don't bite my head off

@@ -28,38 +28,40 @@
   ---------
   * 「술집」 ##술집 liquor(독한 증류주) líkǝr
 * happy hour 는 주로 술집에서 술이나 음식 등을 할인된 가격으로 파는 시간을 의미합니다. 주로 사람들이 붐비기 전인 오후 4-6시 정도에 happy hour 가 많아요. 한국에서도 [6시 전에 입장하시는 손님들께 맥주 공짜!] 이런 이벤트 있잖아요? 모두가 해피한 happy hour 랍니다 ㅎ
-* 보드카; with ciroc on tap
-* #rum #		#술자리 drinking occasion이나 drinking party
-* #dry bar; 술이 없는 바	#hard lemonade; 술이 들어간 레모네이드
+	* 보드카; with ciroc on tap
+	* #rum #		#술자리 drinking occasion이나 drinking party
+	* #dry bar; 술이 없는 바	#hard lemonade; 술이 들어간 레모네이드
+	* Wear #beer goggle; 
+	* #반주; #aperitif
+	* #drown my sorrows; 슬퍼서 술마시는 중
+	* pick-up bar 헌팅 술집
+	* #룸살롱 room salon, #hostess bar
+	* #선술집 #tavern
+	* #술 통; #cask
+	* #술병; #포도주를 담는 큰 술병 #flagon
+	* 포도주 #양조장; #wineries
+	* #brew; The beer is #brewed in the Czech Republic
+	* 낮술; ex) I used to day drink when I was in college. Not anymore.
 * 미국 술 매너
-* 1. 술 잔 놓고 화장실 가기; 술에 약같은거 탐; 병, 캔에 막혀있는 것 먹기
-* 2. #바텐더가 왕; 술 안판다고 하면 안팜
-* 3. 차에 맥주나 소주 있으면 벌금; #트렁크에 넣는게 안전
-* 4. 공공장소 술; #public intoxication
-* Wear #beer goggle; 
-* #반주; #aperitif
-* #drown my sorrows; 슬퍼서 술마시는 중
-* pick-up bar 헌팅 술집
-* #룸살롱 room salon, #hostess bar
-* #선술집 #tavern
-* #술 통; #cask
-* #술병; #포도주를 담는 큰 술병 #flagon
-* 포도주 #양조장; #wineries
-* #brew; The beer is #brewed in the Czech Republic
+	* 1. 술 잔 놓고 화장실 가기; 술에 약같은거 탐; 병, 캔에 막혀있는 것 먹기
+	* 2. #바텐더가 왕; 술 안판다고 하면 안팜
+	* 3. 차에 맥주나 소주 있으면 벌금; #트렁크에 넣는게 안전
+	* 4. 공공장소 술; #public intoxication
 * 오늘 #달릴래?	Do you wanna go out?
-* 끝까지 달려보다	Let's go all the way
-* 술한잔 하자	Let’s go grab a beer, hit the drink
-* Let’
-* #한잔 할까?	wanna get a drink?
-* 혼자 술 마시다	drink with the flies(#flies)
-* #위스키 한 잔 주세요	a #shot of whiskey please
-* #데낄라	술 -> 손목에 있는 소금 -> 라임
-* #보드카	독한 술이기에 샷으로 먹지 않는다.
-* #증류주	#spirit
-* #러브샷	two people drink with arms entwined
-* ##와인 (#와인) 따라줘 fill her up; 차, 와인은 여자로 취급함
+	* 끝까지 달려보다	Let's go all the way
+	* 술한잔 하자	Let’s go grab a beer, hit the drink
+	* Let’
+	* #한잔 할까?	wanna get a drink?
+	* 혼자 술 마시다	drink with the flies(#flies)
+	* #위스키 한 잔 주세요	a #shot of whiskey please
+	* #데낄라	술 -> 손목에 있는 소금 -> 라임
+	* #보드카	독한 술이기에 샷으로 먹지 않는다.
+	* #증류주	#spirit
+	* #러브샷	two people drink with arms entwined
+
+# 와인 (#와인) 따라줘 fill her up; 차, 와인은 여자로 취급함
 * 와인 만드는 곳 #winery
-* #corkscrew
+	* #corkscrew
 * 1. #레드와인
 * 색으로 와인의 종류를 네 가지로 구분해 볼까요. 일단 짙은 붉은 빛의 레드 와인red wine 포도의 껍질, 알맹이, 씨 등을 모두 넣어 만든 우리가 와인이라고 하면 대표적으로 떠올리는 그 와인입니다.
 * 레드 와인의 대표적인 포도 품종은 카베르네 소비뇽 Carvernet Sauvignon인데 껍질에서 나오는 떫은 맛인 타닌이 강해 다른 포도에 비해 숙성 기간이 5-10년 정도로 긴 편입니다. 
@@ -73,33 +75,36 @@
 * #숙성: aged; they age them; I don't know how long the aging process is
 * 5. 보르도 와인
 * 보르도 와인은 프랑스의 보르도Bordeaux 지방에서 생산되는 와인인데요. 포도 재배에 적합한 기후와 중세 시대부터 와인을 생산한 역사를 지녔기 때문에 이 지역의 와인을 높게 평가합니다.
---------------
-* #양주; #sprits
+
+
+# 양주; #sprits
 * 양주의 경우 그대로 술만 마시는 것을 스트레이트 straight이라고 하고, 얼음을 넣어 마시는 것은 온더록on the rocks
------------------
-* #폭탄
+
+# 폭탄
 * 술을 섞어 마시는 건 좋지 않아요.				 You shouldn't mix drinks.
 * 그 수프는 최고 열두 가지나 되는 여러 종류의 생선들을 ##섞어 만든 것이었다. [kən|kɑ:kt] 
 * The soup was concocted from up to a dozen different kinds of fish.ㄴ
+
+
 * 이번주에 #회식있다. 		 We've got a {staff party, staff retreat, company get-together}
-* #모임; People have #social gatherings quite often. 사람들은 자주 사교모임을 갖는다.
-* #만찬; he's having a #gala dinner next week 
-* #office dinner; work related dinner; socializing
-* #drunk #drunken	drunk는 보통 동사뒤, Let's get drunk
-* drunken tiger 보통 명사뒤
-* #한잔하러 만나다	I'm meeting my friend Denise for a drink
+	* #모임; People have #social gatherings quite often. 사람들은 자주 사교모임을 갖는다.
+	* #만찬; he's having a #gala dinner next week 
+	* #office dinner; work related dinner; socializing
+	* #drunk #drunken	drunk는 보통 동사뒤, Let's get drunk
+	* drunken tiger 보통 명사뒤
+	* #한잔하러 만나다	I'm meeting my friend Denise for a drink
 * 금주중이야. 			 	 ‘wӕgən I'm on the wagon. | I‘m going dry <> off
-* 금주 						 abstention; teetotalism [əb|stenʃn] [|ti:|toʊtl]
-* 금주했다가 다시 마시기 시작하였다 This guy fell off the wagon
+	* 금주 						 abstention; teetotalism [əb|stenʃn] [|ti:|toʊtl]
+	* 금주했다가 다시 마시기 시작하였다 This guy fell off the wagon
 * #과음 #폭음 						excessive drinking binge drinking
-* 어제 과음했어요 								 I overdid it last night
+	* 어제 과음했어요 								 I overdid it last night
 * #술버릇 									drinking habits
-* #술기운									 intoxication
-* 술김에 생기는 용기 #liquid courage; I had liquid courage
-* #취한 상태 sober< tipsy-buzz-drunk라고도 하고, intoxicated < krunk, wasted, hammered, plastered
-* fucked up - passed out - sober up, he has one too many
-* #slizzard = #Intoxicated
-* #turnt; i'm so turnt
+	* #술기운									 intoxication
+	* 술김에 생기는 용기 #liquid courage; I had liquid courage
+	* #취한 상태 sober< tipsy-buzz-drunk라고도 하고, intoxicated < krunk, wasted, hammered, plastered
+	* fucked up - passed out - sober up, he has one too many
+	* #slizzard = #Intoxicated
+	* #turnt; i'm so turnt
 * #reel; 비틀 거리다; 취하다
 	* #get drunk; 취하다; I get drunk on very little alcohol
 	* 마시고 취하자; Let's get drunk on wine
@@ -109,28 +114,27 @@
 	* 취하지 않은 상태 						 sober나 stone-cold sober	
 	* 술 취한 사람의 환각 pink elephants
 * #애주가 							heavy drinker나 drunkard
-* 술자리를 좋아하는 사람 to drink socially a social drinker
-* 술마시는걸 줄이다.							 they taper their drinking
-* (음주같은거)단번에 끊다.							 quit cold turkey
+	* 술자리를 좋아하는 사람 to drink socially a social drinker
+	* 술마시는걸 줄이다.							 they taper their drinking
+	* (음주같은거)단번에 끊다.							 quit cold turkey
 * 술김에 문자, 전화, 음주운전 				 다 V drunk text, drunk dial, drive drunk
 	* 술김에 하는말이야; Must be the wine talking
 * 나는 그저 #분위기 맞추는 정도예요					 I'm just a social drinker
-* 분위기 맞춰주다; let's just go with the flow
-* 왜 분위기 깨고 그래? 							 Don't be a wet blanket
-* 분위기 파악좀 해라 					 COnsider your surroundins, you fool
-* #해소; #Defuse: (원래 뜻: 폭탄의 신관을 제거하다) 위기를 해소하다, 긴장을 완화시키다
-* They are attempting to defuse the situation as we speak.
-  * #해소; #solve; #solution  #settlement; #ease #alleviation
+	* 분위기 맞춰주다; let's just go with the flow
+	* 왜 분위기 깨고 그래? 							 Don't be a wet blanket
+	* 분위기 파악좀 해라 					 COnsider your surroundins, you fool
+	* #해소; #Defuse: (원래 뜻: 폭탄의 신관을 제거하다) 위기를 해소하다, 긴장을 완화시키다
+	* They are attempting to defuse the situation as we speak.
+	  * #해소; #solve; #solution  #settlement; #ease #alleviation
 * #주사 있어요 								is a #mean drunk
-* #주량 									drinking capacity
-* 술이 센 사람, 술이 약한 사람			 good drinker, 술이 약한 사람은 poor drinker
-* 술 잘 못마시다 can't hold their drink/liquor
-* ~보다 많이 마실 수 있다. to drink someone under the #table' I can ~
-* 술은 입에도 대지 않은; #stone-cold sober; #sober #teetotal; strictly
-* I drink #socially
-* i'm a #moderate drinker
-* #도수 									 proof; ABV
-* #금주 #술
+	* #주량 									drinking capacity
+	* 술이 센 사람, 술이 약한 사람			 good drinker, 술이 약한 사람은 poor drinker
+	* 술 잘 못마시다 can't hold their drink/liquor
+	* ~보다 많이 마실 수 있다. to drink someone under the #table' I can ~
+	* 술은 입에도 대지 않은; #stone-cold sober; #sober #teetotal; strictly
+	* I drink #socially
+	* i'm a #moderate drinker
+	* #도수 									 proof; ABV
 * #잔# 들어주세요; raise your glasses
 * 건배 제의 할게요				I'd like to propose a toast., let me make a toast.
 	* 2. '건배합시다'하고 제안할 때 [raise one's glass to OO]이 패턴을 써요. [ex] Let's raise our glasses to a successful year!
@@ -140,41 +144,42 @@
 	* #눈동자에 건배; Here's looking at you, kid
 	* ~ 위해서 건배 to drink to someone/something Let's drink to Jessica's new job
 * a #votre sante
-* #마지막 한잔만 더 							 one for the road
-* #원샷					 bottoms up이나 down the hatch; drink up(무례)
-* down; hey down that shit, let’s down it, #chug; 처마시다
-* she downed her drink in one
-* you just #down the wine
-* 원샷하다; to drink something down = to take it down = to chug to knock one back 
+	* #마지막 한잔만 더 							 one for the road
+	* #원샷					 bottoms up이나 down the hatch; drink up(무례)
+	* down; hey down that shit, let’s down it, #chug; 처마시다
+	* she downed her drink in one
+	* you just #down the wine
+	* 원샷하다; to drink something down = to take it down = to chug to knock one back 
 	* 'bottoms up'보다는 'slam'이 우리가 생각하는 '원샷'에 가까울거에요. 한꺼번에 빨리 다 마시라는 말이거든요^^; chug라는 말도 같은 뜻인데 많이 써요! [ex] Hey, slam it. We're going to another bar.
 	* = to slam a drink/beer = to #knock back a drink
 	* #one shot; 출판물이 딱 한번만 출판됨 2. one shot one kill
 	* 한번에 원샷하라고? A whole bottole in one go
-* #건배 | #원샷
 * 오늘 밤 술은 내가 쏜다	Drinks are on me tonight.
-* 금주하고있어요							I'm going dry / sober
-* 오늘 완전 달리자 							 Let's get trashed
-* 잔에 4분의 3정도 채우면 돼 			 The shot glass should be 3 quarters full
-* 너 #술고래처럼 마시는구나						 You drink like a fish 
-* 나 술 강해/ 약해 	 I'm a heavy drinker. I'm a lightweight=I can't handle alcohol.
-* I can hold my liquor
+	* 금주하고있어요							I'm going dry / sober
+	* 오늘 완전 달리자 							 Let's get trashed
+	* 잔에 4분의 3정도 채우면 돼 			 The shot glass should be 3 quarters full
+	* 너 #술고래처럼 마시는구나						 You drink like a fish 
+	* 나 술 강해/ 약해 	 I'm a heavy drinker. I'm a lightweight=I can't handle alcohol.
+	* I can hold my liquor
 * #알딸딸하네 						 I have a nice buzz / I feel tipsy
-* 나 #취했어 		 I'm smashed/trashed/hammered > I'm so #wavey/faded 
-* ‘취하다 			 I'm high up, 꿈에 취하다: high off my american drean
-* ‘그는 포도주로 그들을 취하게 했다			 . He intoxicated them with wine.
-* 나 술 다깼어 								 sóubǝr I'm sober
-* *sober up; i’m kinda sobering up right now
-* second wind: 한번 정신 놓았다가 곧장 찾아오는 두 번째 활기; i’m getting second wind
-* 나 #필름 끊겼어		 	 I blacked out, I passed out, was off my senses
-* I was off my senses
-* 이 술이 우리를 꽐라 만드네 				 This liquor gt both of us faded
-* 나 어제 필름 끊기도록 마셨어 				 I was blackout drunk last night
+	* 나 #취했어 		 I'm smashed/trashed/hammered > I'm so #wavey/faded 
+	* ‘취하다 			 I'm high up, 꿈에 취하다: high off my american drean
+	* ‘그는 포도주로 그들을 취하게 했다			 . He intoxicated them with wine.
+	* 나 술 다깼어 								 sóubǝr I'm sober
+	* *sober up; i’m kinda sobering up right now
+	* second wind: 한번 정신 놓았다가 곧장 찾아오는 두 번째 활기; i’m getting second wind
+	* 나 #필름 끊겼어		 	 I blacked out, I passed out, was off my senses
+	* I was off my senses
+	* 이 술이 우리를 꽐라 만드네 				 This liquor gt both of us faded
+	* 나 어제 필름 끊기도록 마셨어 				 I was blackout drunk last night
 * 2차 갑시다, 2차는 내가 낼게		 Let's go somewhere else. I got the next round
-* Let’s go for/ hit the second round
-
+	* Let’s go for/ hit the second round
 * 나가서 술좀 깨자 	Let's get out and walk it off
-* 술 깼어	I'm sobering up
-* 제가 한 잔 살게요. 	Let me buy you a drink. 
+	* 술 깼어	I'm sobering up
+	* 제가 한 잔 살게요. 	Let me buy you a drink. 
+
+
+# 기타
 * 마시면서 이야기하는 게 어떠세요?	Why don't we discuss this over a couple of drinks?
 * 이 와인은 어디 거죠? 	Where is this wine from? 
 * 운전하기 때문에 술을 마시면 안 돼요. 	I can't drink because I'm driving. 

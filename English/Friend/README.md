@@ -5,16 +5,18 @@
 	* 어울리지 않은 친구; They are so; unlikely friends
 	* 2) 예를 들어, 같은 직장 내에서 몇 년간 함께 일하며 친해진 동료들이, 함께 즐겁게 놀고 어울리고 잡담하는 건 close relationship 이라고 볼 수 있지만, 그 보다 더 깊은 이야기를 터놓는다던지, 예민할 수 있는 주제를 신뢰를 기반으로 얘기한다든지 할 때는 rapport 라고 볼 수 있습니다.
 		* = 스티브는 정말 빠르게 그의 고객들과 친밀한 관계를 쌓는 놀라운 기술이 있어. Steve has such an amazing skill to build rapport with his clients very quickly.
-* 친구 좋다는 게 뭐야? What are friends for
-* 뒷담화 까지마; don't be talking sideways
-* 넌 날 모욕하지만 추락할 사람은 너야; Cut me down, but it's you who'll have further to fall
-* 화려한 무기는 버리고 덤벼봐; COme at me without any of your fancy tools
 * 믿을만한 친구야; be a stand up guy
-* -와 잘 맞다; really click with someone
-* 미국 회사들은 시장 진출과 기술 획득을 위해 외국 경쟁기업과 협력하는 방법을 빨리 배우고 있다. U.S. companies are fast learning how to team up with foreign competitors to crack markets and acquire technology.
+	* -와 잘 맞다; really click with someone
+	* 'tie' 는 기본적으로 '끈'이라는 뜻인데, 이렇게 사람 간의 '유대', '유대 관계'를 말할 때도 쓸 수 있습니다. 두 대상이 끈으로 이어져있는 걸 상상해보세요!
+	* 난 내 공동체와 강한 유대가 있어. [ex] I have a strong tie to my community.
+	* 친구 좋다는 게 뭐야? What are friends for
+	* 미국 회사들은 시장 진출과 기술 획득을 위해 외국 경쟁기업과 협력하는 방법을 빨리 배우고 있다. U.S. companies are fast learning how to team up with foreign competitors to crack markets and acquire technology.
 * 저 손금 읽는 거 알아요; i know hand fortune-telling
 * 난 네게 등돌리지 않을게; i wouldn't turn on you
-* 배신하다; 그가 갱단의 나머지 사람들을 배신하고 그 돈을 모두 가지고 사라졌다.He double-crossed the rest of the gang and disappeared with all the money. 
+	* 배신하다; 그가 갱단의 나머지 사람들을 배신하고 그 돈을 모두 가지고 사라졌다.He double-crossed the rest of the gang and disappeared with all the money. 
+	* 뒷담화 까지마; don't be talking sideways
+	* 넌 날 모욕하지만 추락할 사람은 너야; Cut me down, but it's you who'll have further to fall
+	* 화려한 무기는 버리고 덤벼봐; COme at me without any of your fancy tools
 
 # 추억
 * 추억에 잠기고 싶다; I feel like reminiscing

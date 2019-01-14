@@ -1,3 +1,13 @@
+# 'apparently' 를 배워보자 - 무슨 의미이고 언제 어떻게 쓰는걸까?
+* apparently는 "내가 보고 들은 내용을 토대로 하는 추측"이라면 'supposedly'는 일반적으로 알려져 있는 사실을 토대로 말하자면"이라는 의미입니다.
+* 명절 기간에는 배송이 길게는 1주일씩 지연되기도 한다나봐(추측/추정)
+  * It was apparent/obvious that
+  * Apparently, during holiday seasons, deliveries can be delayed (up to a week/for as long as a week)
+* 친ㄱ인데, 사고가 났다나봐. 지금 병원에 있때.
+  * It was my friend and, apparently, he was in an accident and he's in the hospital now
+    * as far as i know: 내가 알기로는; 상황에 따라 다름
+
+
 # [ 영어 연습가이드 #41 ] - "생각할수록 좀 아닌 것 같더라고"
 * 1) 경험을 위해서 거기서 몇 달 더 일을 해볼까 생각은 해봤는데 조건이 별로 좋지 않아서 생각할수록 좀 아닌 것 같더라고."
   * I considered working there for another several months, you know, for the experience. BUt the conditions weren't very good and the more i thought abot it, it just wasn't worth it

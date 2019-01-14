@@ -92,6 +92,8 @@
 * #색소 	pigment 미국·영국 [|pɪgmənt]
 * #행거 #coat ##rack
 * #보풀; your clothes might be a little #pilly
+  * 보풀을 lint 또는 fluff 라고 하는데요. roller 와 함께 붙어서 우리가 흔히 '돌돌이 테이프' 라고 부르는 것을 의미합니다.
+    * 돌돌이 테이프랑 리필 몇 개 사야 해. ex) We need to buy a lint roller and some refills.
 * #격자 #plaid #button up shirt
 * #복장 도착자(#도착); 여자 옷을 즐겨 입는 남자; #transvestite;트랜스베스싸잇
 * a #seamless garment 솔기가 없는 의복

@@ -106,6 +106,7 @@
 * 붙임 머리	hair weave
 * 영국 의원 머리	periwig périwìg
 * 모발 이식	hair transplant surgery
+	* 하지만 ‘모발 이식’의 보편적인 명칭은 hair transplant / hair implant 입니다. hair plug 는 엄밀히 말하면 hair transplant 의 한 종류인데요, 비전문가인 보통 사람들은 혼용해서 씁니다. 
 * 곧은 머리	straight
 * 물결	wavy
 * 곱슬	curly

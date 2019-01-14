@@ -63,38 +63,38 @@
 	* 본래 뜻은 ‘자연 서식지’이지만, 비유적으로 ‘가장 편안함을 느끼는 곳, 좋아하는 곳’을 의미합니다. 
 		* 그녀는 도서관에 있을 때 가장 마음이 편안하다. She finds her natural habitat in the library.
 * 들어와; Come (on) in; Come on over: 우리 집으로 혹은 내가 지금 있는 곳으로 와
-* 잠깐 들르다; nip down; Alex has just nipped out to the bank
-	* 지낼 곳; Every night we're grateful for having a roof over our heads; a roof over head
-* 샴푸하다; you can't shampoo your hair everyday
-* 휴대폰 두 개의 중간에 경첩이 달려있다; it's just two phones attached by a hinge in the middle
-* 어떻게 먼지 터는지 알려줘야 했어요; I had to show him how to dust
-* 문 꼭닫아; I bolt the door real tight
-* i've become quite the #homebody
-* drop by my #flat/#place = wanna #come over?
-* go home, stay home, leave home
-* #get back home, #go back home, #go home
-* #go/come over to 누구의 집;
-* went over to his place
-* let's hangout at my #place
-* #stay/sleep over; 자다
-* #door knocker; #현관문 고리쇠
-* #doorstep; #문간
-* #drainpipe; #배수관
-* #driveway; #진입로
-* #현관문; #front door
-* #buzzer; #버저, #초인동
-* #굴뚝 통풍관; #chimney pot
-* #안테나; #aerial / #antenna
-* #gutter; 물이 빠져나가는 지불의 홈통
-* #letter box / #mail slot
-* #porch; = #front entrance #현관; 현관을 건너다: #cross your porch
-* #den; #서재/ #작업실
-* #fire escape; #비상계단
-* #흙 묻은 장화; #mudroom
-* #흙맛; it's very #earthy
-* #거실 (living room)
-* #furniture; #unwanted furniture
-* a #piece of furniture
+	* 잠깐 들르다; nip down; Alex has just nipped out to the bank
+		* 지낼 곳; Every night we're grateful for having a roof over our heads; a roof over head
+	* 샴푸하다; you can't shampoo your hair everyday
+	* 휴대폰 두 개의 중간에 경첩이 달려있다; it's just two phones attached by a hinge in the middle
+	* 어떻게 먼지 터는지 알려줘야 했어요; I had to show him how to dust
+	* 문 꼭닫아; I bolt the door real tight
+	* i've become quite the #homebody
+	* drop by my #flat/#place = wanna #come over?
+	* go home, stay home, leave home
+	* #get back home, #go back home, #go home
+	* #go/come over to 누구의 집;
+	* went over to his place
+	* let's hangout at my #place
+	* #stay/sleep over; 자다
+	* #door knocker; #현관문 고리쇠
+	* #doorstep; #문간
+	* #drainpipe; #배수관
+	* #driveway; #진입로
+	* #현관문; #front door
+	* #buzzer; #버저, #초인동
+	* #굴뚝 통풍관; #chimney pot
+	* #안테나; #aerial / #antenna
+	* #gutter; 물이 빠져나가는 지불의 홈통
+	* #letter box / #mail slot
+	* #porch; = #front entrance #현관; 현관을 건너다: #cross your porch
+	* #den; #서재/ #작업실
+	* #fire escape; #비상계단
+	* #흙 묻은 장화; #mudroom
+	* #흙맛; it's very #earthy
+	* #거실 (living room)
+	* #furniture; #unwanted furniture
+	* a #piece of furniture
 * 가구 파는 회사: #pottery barn
 	* #1인 가구; #single-person household; = single households
 	* 에어컨에서 찬바람이 안나와요; It's now blowing cold air
@@ -166,15 +166,20 @@
 * #2단침대; #trundle bed = #trucke bed
 * 게스틓 하우스 2층 침대; #bunk bed; I don't #bunk with my brother; 같은 방 쓰다
 * 1층 책상, 2층 침대: #loft bed
+	* 보통 상점에 계산대를 '카운터' 라고 하잖아요? 넓게 보면 무언가를 '올려놓고' 일 하는 것을 counter 라고 합니다. 가정에서는 당연히 '조리대' 일테고, 작업실에선 '작업대', 실험실에서는 실험 기구들을 죽 놔두고 실험하는 '실험대' 를 의미하겠죠! 미국/캐나다 = counter-top, counter 영국 = worktop 호주 = kitchen bench
+		* 조리대 위에 있는 소금 좀 건네줄래? ex) Can you pass me the salt on the counter-top?
 * #캐노피 침대; #canopy bed = #four-poster bed
+* 옷장 장식의 용도로도 쓰이는 옷장이나 수납장을 의미하는 단어이고, 그냥 장식장이라고 쓰이기도 합니다. 옷장에서도 여러가지 종류가 있는데, 영상에서처럼 길고 큰 옷장을 주로 armoire 라고 해요. 프랑스에서 온 단어인 만큼 발음에 주의하여 들어보세요.
 * 벽에 세웠다가 꺼내는; #murphy bed
 * #공기 침대 air mattress
 * 양호실 누울수 있는 침대 lay-down table, medical exam table
 * #침구; #bedding = #bedclothes
-* #이불; #blanket = 구어체; #comforter = #duvet
-* ☆#wet blanket; #훼방꾼; 땀요로 불 끄기; don't be such a wet blanket
-* don't rain on my parade = don't be such a spoilsport
-* #홀이불; #sheet 겨울용 누비 솜이불; #cotton-wool comforter
+	* 그냥 천 보다는 주로 부드럽고 푹신한 충전재가 든 커버로 가구를 씌우는 것을 upholster 라고 해요. upholstered = 천이 씌워진 reupholstered = 다시 씌워진 = 리폼된
+		* 푸톤이랑 의자들 리폼하느라 오전을 다 써버렸어. ex) I spent the whole morning reupholstering futons and chairs. [-ˈhoʊl-]  영국식 [ʌpˈhəʊlstə(r)] 
+	* #이불; #blanket = 구어체; #comforter = #duvet
+	* ☆#wet blanket; #훼방꾼; 땀요로 불 끄기; don't be such a wet blanket
+	* don't rain on my parade = don't be such a spoilsport
+	* #홀이불; #sheet 겨울용 누비 솜이불; #cotton-wool comforter
 * #베개; #Pillow #원통형; #bolster(강화하다) #죽부인; #dutch wife
 * 베다; put one's head on a pillow | lay one's head on/in sb's lap
 * 푹신한 베개; #lumpy pillow
@@ -194,6 +199,9 @@
 * #couch #sofa	#couch 약간 딱딱한 느낌, #sofa: 흔히 알던 소파
 * 방충망 어디서 살 수 있나요? 			Where can I buy a window screens.
 * 카펫 청소기	carpet cleaner
+	* 1) 위에서 나온 매니큐어 처럼 조금 다르게 알고 있는 단어가 바로 카펫 입니다. carpet 는 방 전체를 덮는 바닥의 한 종류를 의미해요. 바닥 종류는 예를 들면 딱딱한 나무 재질은 hardwood floor, 카펫으로 전체가 덮혀 있는 건 carpet floor 라고 합니다. 따라서 전문가가 설치를 해야하죠. 
+	* 2) rug 가 우리가 흔히 알고 있는 카펫인데요. 방 전체가 아니라 일부를 덮는 것을 rug 라고 해요. 테이블 밑에 까는 조금 큰 사이즈는 table rug, 그 이외에 사이즈가 작은 것들은 그냥 rug 라고 하시면 됩니다.
+	* 러그는 정기적으로 세탁되어져야 합니다. 그렇지 않으면, 벌레들이 살기 좋은 환경을 만들겁니다.  ex) A rug should be washed on a regular basis. Otherwise, it will have a good environment for bugs to live in.
 * 방향제	deodorizer di:óudəràizər
 * 쓰레받기	dust pan
 * 먼지털이	duster
@@ -214,13 +222,19 @@
 * 창고	ʃed shed; bɑ:rn barn; ‘stɔ:rhaʊs storehouse
 * 차 창고	gə‘rɑ:Ʒ garage; carport도 있고요. 
 * 벽난로/ 벽난로 앞 장식	fireplace / mantel, mantelpiece mӕntlpi:s
+	* knick-knack 은 작은 장식용 물건들을 의미하는데요. 특히 가정에서 쓰이는 가치가 크지 않은 장식품들을 지칭합니다. 일반적인 장식품은 ornament 라고 해요!
+	* 작은 장식품들이랑 사진들 둘 공간 좀 찾자. ex) Let's find some space to put all the knick-knacks and photos.
 * 주름진 커튼	drapes
 * 책장	bookcase, bookshelf
 * 붙박이장	wall unit
 * 전기 스탠드	floor lamp
 	* 전자파; gives off electromagnetic waves; Radiation comes out from
 * 팔걸이 의자	armchair / couch
-* 쿠션	throw pillow
+	* 영상에선 물론 1번의 의미로 사용되었어요. 주로 용도에 따라 foot+stool 처럼 합성어로 쓰이며, 팔걸이와 등받이가 없는 의자를 의미합니다. 영상에서 등장하는 footstool 이 보통 소파와 함께 세트로 팔리는 경우가 많고, 가장 흔하게 볼 수 있는 stool 종류입니다.
+	* a piano stool : 피아노용 의자 a bar stool : 바에서 쓰는 것처럼 높이 올라온 의자 a children's stool : 아이용 낮은 의자 '대변' 이라는 의미의 stool 은 보통 병원에서 환자들에게서 대변 샘플을 받아와 달라고 할 때 쓰이는데요. stool sample 이라고 알아두시면 병원 가실 때 유용하게 쓰일 수 있습니다.
+	* 난 발을 풋스툴에 올린채로 앉아서 티비 보는 것을 좋아한다.
+	* 이 의자들은 이렇게 포개질 수 있어요. ex) These chairs can stack like this.
+* 쿠션	throw pillow ex) I love to sit and watch TV with my feet on the footstool.
 * 카페트, 깔개	carpet, rug
 * 소파 옆에 높는 작은 테이블	end table
 * 백열 전구	light bulb
@@ -510,6 +524,10 @@
 ## 청소
 * 작업자는 먼지를 안정되게 하기 위해 물을 뿌렸다; A worker sprays water over a house to settle dust
 * (청소 또는 페인트) 너 저기 놓쳤어; YOu missed a spot
+* clutter 는 명사로 [잡동사니, 어수선함] 을 의미해요. 여기에 [없앰, 줄임] 의 뉘앙스를 가진 접두사 de- 를 붙여서 어수선하게 하는 것을 싹 정돈하는 의미의 단어입니다. 단지 사물뿐만이 아니라, 오래된 아이디어, 인간관계, 나쁜 습관 등을 정리해서 없앨 때도 쓸 수 있는 굉장히 유용한 단어입니다.
+	* 이사 가기 전에 집에서 쓸모없는 것 좀 다 정리하자. ex) Let's declutter the house before we move out.
+* 여기 닳아 헤진 셔츠들은 다 버려야 해. ex) You should throw out all these worn-out shirts.
+* 이것저것 당장에 쓸모 없는 것들을 넣어두는 잡동사니 서랍을 junk drawer 라고 합니다.
 
 # 살다
 # 인생

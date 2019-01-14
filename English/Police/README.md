@@ -64,6 +64,8 @@
   * 법망을 피해 다니는 사람 a fugitive from justice   [ˈfjuːdʒətɪv] 
 * 작용하는 규칙들; rules at play; there are some rules at play affecting this
   * 규칙에 어긋나; That's against the rules; bend the rules
+  * 사회에서 정한 기준을 따라야 한다는 압박감은 pressure to conform이라고 해요.  conform은 사회나, 집단이 중요시 여기는 규범이나 기준에 자신을 맞추는 걸 뜻해요.
+    * 젊은 세대는 오래된 전통에 따르는 것을 거부하고 있다. ex) The younger generation is refusing to conform with old traditions.
 * 무단침입하시는거에요; YOu are breaking and entering
 * 현자; sage; [seɪdʒ] 2. 슬기로운
 * 사건은 해결되었습니다; Case closed <> The matter is on the table
@@ -354,6 +356,8 @@
 * #sin#; #commit a sin, #crime
   * 잔인한 vicious little word, vicious attack/dog
 * 체포합니다 You’re under arrest
+  * 감춰뒀던 신분이 탄로난다는 표현입니다. 감싸던 커버(cover)를 날려버려서(blow) 본 모습이 드러나게 만든다는 거죠. 이와 반대되는 단어가 undercover 입니다. 덮개(cover) 아래(under)에 있다하여 ‘위장의, 비밀리에 하는, 첩보의’를 뜻합니다.
+    * 스파이는 그의 신분이 노출됐다는 것을 알아채고는 도주하였다. The spy fled when he realized that someone had blown his cover.
   * 우리가 제압할 수 있을 것 같애; we can take them
   * 붙잡다; be held captive; hold 사람/동물 captive
   * 그는 두 명의 남자에게 붙잡혀 팔이 뒤틀린 채 홀 밖으로 끌려 나갔다. He was grabbed by two men and frogmarched out of the hall.  frɔːɡmɑːrtʃ;ˈfrɑːɡ-] 

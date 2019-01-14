@@ -3,6 +3,15 @@
 The best-selling classic of politics is Machiavelli's monarchy.
 
 # 정책
+* 역할을 맞다; You took on a role/task
+* imperialism; 제국주의자 an imperialist;  in on imperialism
+* capitalism; 자본주의는 이윤 추구를 목표로 한다; Capitalism aims at[focuses on] making profits.
+* 공산주의; communism, collectivism
+* 민주주의; parliamentary democracy 
+* 폭정에 시달리다; suffer from tyranny ; [ˈtɪrəni; despotism, tyrannical[despotic, oppressive] rule; tyrannize over a country
+* #공포정맃; #reign of terror; [reɪn]
+
+# 정책
 * fascism (파시즘) : 1차 세계 대전 후에 나타난 극단적인 전체주의적, 배외적 정치 이념을 뜻합니다. 
 	* genocide (인종대학살) : 특정 인종을 집단 살해하는 것으로 히틀러의 경우는 수 많은 유대인을 학살하였습니다.
 * 역할을 맞다; You took on a role/task

@@ -32,6 +32,7 @@
 * 58.35$ = fifty eight dollars (and) thirty five cents 
 * 끝에서 두 번째 장/날/단계 		 [pen|ʌltɪmət] the penultimate chapter / day / stage
 * 1에서 10까지 있다고 하면 						on a scale of one to ten
+* 사칙연산; the four fundamental arithmetic operations
 * 6/2= 		 Six divided by two is three. Six over two is three. Two into six goes three times
 * 결정하기 전에 뭐가 좋고 나쁜지 신중히 계산해봐
 * You gotta #weigh up all the pros and cons before you make a decision.

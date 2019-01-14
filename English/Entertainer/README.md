@@ -25,6 +25,7 @@
 * : 그들은 헨리 홀에서 공연을 할거야 They're putting it on at Henley Hall; 연극이나 쇼 등에 올리다
 * gross는 동사로 ‘수익을 낸다’는 뜻으로 특히 영화나 뮤지컬 등의 흥행 수익을 나타내는 경우가 많습니다. top-grossing이라는 단어도 있는데요, 영화 등이 흥행이 잘 되어 돈을 많이 벌어들인다는 뜻의 형용사입니다. 
 	* 그 영화는 올 해 2억 달러 이상의 흥행 수익을 올렸다. The film has grossed over $200 million this year.
+* 소품; 목록에 있던 소품들 다 샀니? ex) Did you buy all the props from the list?
 
 # 연예인
 * casting은 엄밀히 말하면 '특정 배역에 맞는 사람을 찾는 과정'을 말하고, audition은 그 과정 중에 '지원자가 자신의 역량을 펼치는 일종의 시험'을 말합니다. 그러나 일반적으로 casting과 audition은 동의어로 통용됩니다.

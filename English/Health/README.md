@@ -120,6 +120,7 @@
 * ~조건으로 해줘써요; 치아 교정 유지 장치를 끼웡야한다; got them for me on the condition that i had to wear my plate afterwards
   * 교정하다; had her teeth starightened in the past; straighten teeth
 * 비뚤어지다; went all crooked again
+* 미백수술을 할 겁니다; we're going to do in-office bleaching
 
 
 # 병원; doctor's office: 개인 병원(영국; doctor's surgery)

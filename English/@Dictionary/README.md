@@ -54,6 +54,8 @@
 
 # 계약
 * 계약서를 써왔어; i've drawn up a contract
+* 동사로 쓰이면 [예약하다] 라는 뜻이 있는 건 익숙하실 거예요. 비슷한 뉘앙스로 영상에서처럼 오디션 같은 상황에선 영화나 연극 등의 출연을 [계약하다] 라는 의미로 쓰여요. 참고로, 수동태로 I'm booked. 라는 표현도 있는데요. 이를 직역하면 [내가 예약되어 있다] 라는 뜻이니, 무언가에 붙잡혀서 [꼼짝할 수가 없다/ 바쁘다] 라는 의미로도 쓰인답니다.
+	* 내 생각엔 우리가 다음 번 쇼에도 그와 계약을 해야할 것 같아. ex) I think we should book him for the next show as well.
 
 # 계획
 * 동사 devise 는 [고안하다, 계획을 짜다] 라는 뜻이 있는데요. 단순히 make a plan 보다 훨씬 더 꼼꼼하고 세부적인 것들을 포함한 계획을 짤때는 devise a plan 이라고 합니다. ex) Susan has devised an alternate plan.
@@ -167,6 +169,10 @@
 * 비격식 표현으로 사람을 흥분시키거나 감정을 유발하는 것을 의미해요. 또한 무언가를 좀 더 강력하고 신나게 만드는 것도 의미하는데요. 영상에서는 수동태인 be amped up 으로 쓰여 [의욕에 불타게 되다] 의 뉘앙스로 쓰였습니다.
 	* 다음 프로젝트를 할 의욕에 불타고 있어. 언제 시작해? ex) I'm so amped up for our next project. When do we start?
 
+# 동시
+* 케이팝하면 군무죠! 동작, 작업 등이 동일한 속도에 맞춰 이뤄지는 것을 be in sync 혹은 synchronize 라고 합니다. 물속에서 하는 싱크로나이즈 수영(synchronized swimming)을 생각하시면 됩니다.
+	* = 소리랑 화면이 안 맞아. The soundtrack is not in sync with the picture. (=out of sync)
+
 # 동의
 * [동의]를 의미하는 단어는 agreement 도 있는데요. consent 와는 나름 큰 차이가 있습니다. agreement의 경우엔 '합의' 로서의 동의를 의미합니다. 예를 들어, 양국 정상이 만나서 무언가를 합의하고 세부사항에 동의를 했을 때 reach an agreement라는 표현을 쓰고요. consent 같은 경우엔 '승낙'으로써의 동의를 의미해요. 영상에서처럼 부모가 무언가를 하는데 승낙을 해줘야 할 수 있을 땐 consent라는 단어를 씁니다. 그래서 무언가에 [동의하다, 승낙하다]라고 할 땐 give one's consent to something이라고 합니다. 동사로도 쓰일 수 있어요.
 	* = 난 거기에 동의하지 않았어. I didn't give my consent to it.
@@ -196,7 +202,7 @@
 * 한 칸에만 체크해 주세요. Please tick one box only.
 * : 후보자 · 합격 대기자 명단에 오르다 I'm waitlisted at 대학교
 * * to-dos / to-do list = 해야 할 일들; What’s that on the wall? – Oh, that’s a list of to-dos and not-to-dos. My mom made it. 
-
+* 리스트에 있는 소품 다 삿니? Did you buy all the props from the list?
 
 # 마음대로
 * * 마음대로 해; knock yourself out = Suit yourself
@@ -250,6 +256,8 @@
 * 1. 종교적 의미의 "믿음" 'faith'와 'belief'는 그 자체로 '신앙, 신앙심'을 가리킬 수 있습니다. 하지만 'trust'는 이와 같은 맥락에서 사용하지 않죠. the Christian faith
 	* 2. 옳다고 생각하는 소신의 "믿음" 'faith'나 'trust'보다 'belief'가 적절한 경우입니다.
 		* 정직에 대해서는 타협하면 안된다는 것이 저의 소신입니다. [ex] My belief is that you should never compromise on your integrity.
+* cred 는 credibility 의 줄인말로 [신뢰] 를 의미하고 street 는 [길거리]라는 뜻이 있으니 street cred 는 [길거리에서 통하는 신뢰] 를 의미해요. 즉, 공식적으로 인정을 받거나 한 건 아니지만, 또래 사이에서 인정을 받거나, 그 지역 내에서 통용되는 문화를 잘 알 때 [내가 그 지역 문화, 또래 문화에 대해선 좀 빠삭하고 사람들이 그걸 인정해줘 / 내가 좀 통해] 라는 뉘앙스로 쓰는 표현입니다. 영상에선 [내가 이 지역 마카롱은 좀 먹어봐서 알지] 로 쓰였습니다.
+	* = 결혼 한 후에는 동네에서 영 안 통해. I've lost all my street cred once I got married.
 
 # 받아들이다
 * 그녀는 아직도 아들의 죽음을 받아들이려고 애쓰고 있다. She is still coming to terms with her son’s death.;  (좋지 않은 일을) 받아들이는 법을 배우다[받아들이려고 애쓰다]
@@ -291,6 +299,10 @@
 * 1) 비격식 표현으로 주로 전치사 against 와 함께 쓰여 [와 견줄만하다] 라고 해석이 되요. 주로 의문문이나 부정문에 쓰이는 표현입니다. 2) 영상에서는 뒤에 against humans 가 생략이 된거라고 보시면 되는데요. 직역하면 [전세계의 다른 동물들을 인간과 비교해보면 어떨까요?] 의 의미를 가집니다.
 	* 세상의 어떤 음식도 이것과는 견줄 수 없어. 완전 짱이야! ex) No food in the world can stack up against this. It's amazing!
 
+# 비판
+* rip 은 [찢다], shred 는 [(썰어놓은) 채, 갈갈이 찢어진 것] 을 의미해요. 종이 파쇄기를 shredder 라고 하니 어느 정도 감이 오시죠? 갈기갈기 찢듯이 굉장히 심하게 욕하고 혹평하는 것을 [rip ~ to shreds] 라고 표현합니다.
+	* 몇몇 팬들은 그의 콘서트를 혹평했다. ex) Some fans ripped his concert to shreds.
+
 # 빈둥거리다
 * 비격식 표현으로 딱히 하는 일 없이 시간을 낭비한다던지, 그다지 중요하지 않은 일을 하느라 시간을 보낸다던지, 남이 보기에 좀 멍청하게 행동을 하며 시간을 보낼 때 쓰는 단어입니다. 주의하실 점은 [성적으로 문란하게 놀다] 라는 뜻도 가지고 있기 때문에 오해를 살만한 내용일 경우엔 조금 조심해서 쓰셔야 해요. = screw around
 	* 사장이 떠난 뒤로 빈둥거리고 있는 중이야. ex) We've been screwing around since the boss left.
@@ -302,6 +314,9 @@
 * 원래 콤플렉스라는 것이 남에게는 별 것 아닌 것처럼 보이지만 자신에게는 그렇지 않죠! petty / trivial은 둘 다 사물에 쓸 경우 ‘하찮은, 시시한, 사소한’을 의미합니다. 
 	* 그들은 사소한 것 가지고 싸웠다. They had a fight over a petty thing.
 
+# 사치
+* indulgence는 '사치', '마음대로 함'을 뜻하는데요, "What's your biggest indulgence?" 물어보면  "가장 사치 하는 아이템이 뭐예요?" 혹은 "어떤 식으로 사치를 하시나요?"라는 뜻이 돼요. 근데 꼭 비싼 물건을 사는 사치만 뜻하는 건 아니에요. 건강에 나쁜 걸 알지만 칵테일을 즐겨 마시는 것, 다이어트에 안 좋은 걸 알지만 단 디저트를 사 먹고 즐기는 것도 indulgence라고 표현해요.
+
 # 상황
 * 우리는 상황을 알아 보았다  Dipping our toes in the water
 * [상황, 사정] 을 의미하는 circumstances 앞에 다양한 형용사를 써서 어떤 상황인지 나타낼 수 있는, 굉장히 유용하고 자주 쓰이는 표현입니다. 형용사 없이 under the circumstances 라고 하면 [그러한 상황에선, 상황을 고려하면] 정도로 해석이 되고요.
@@ -312,6 +327,8 @@
 # 색깔
 * 무척 기쁜; tickled pink 
 	* 몹시 질투하는; green with envy 
+* 전체를 이루는 색 중에서 눈에 띄게 밝은 색의 부분 보고 pop 한다고 해요. pop은 튀어오른다는 뜻도 있거든요. 여기서 pop of color는 '포인트 색'이라는 뜻입니다.
+	* 내 방에 포인트 색상을 추가하고 싶어. ex) I want to add a pop of color to my room.
 
 # 서투르다
 * 직역하면 [햄처럼 생긴 주먹을 가진] 이란 뜻인데요. ham-handed 라고 쓰이기도 해요. 손이 햄처럼 크고 뭉툭하면, 뭔가 손으로 다루는 일에 서툴겠죠? 그런 의미의 연장선으로 사람을 다루거나, 무언가를 함에 있어 전반적으로 [서투른] 이라는 의미를 가지게 된 형용사입니다.
@@ -398,6 +415,9 @@
 * =[ 숙어 ] rub off on somebody : (다른 사람의 특징, 습관, 견해 등이) 에게 옮다, 물들다, 영향을 주다
 	* 부정적 생각이 나한테 영향을 주지 않길 바란다. I don't want negative thinking to rub off on me.
 
+# 예언
+* prophet = 예언자, 선지자 prophetic = 예언의, 예언적인 prophecy = 예언
+
 # 예시
 * 1) 여기서 go-to example은 ‘대표적인 예’로 해석할 수 있습니다. go-to는 어떤 것에 딱 맞는, 그래서 가서 찾게 된다는(go to) 의미로 쓰입니다. 예를 들면,
 	* (사람들이) 컴퓨터 문제가 있으면 꼭 제임스씨를 찾는다. ex] Mr. James is a go-to person for computer questions. 
@@ -429,12 +449,19 @@
 * ※ only 와의 차이 : 'sole' 은 '유일한'으로 정말 단 하나뿐인 것을 말하는 반면, 'only'는 '유일한'도 되지만, 하나 이상인 경우에 쓰기도 해요.
 	* 생존자는 남자 두 명 뿐이었습니다. [ex] The two man were the only [sole:X] survivors.
 
+# 유통
+* 유통기한이 지났어요. It has passed the expiration date
+
 # 의견
 * : 직역하면 '목소리가 들리게끔 하다'로, 어떤 문제에 대해 '(능동적으로 강력히) 목소리를 내다, 의견을 표명하다' 라는 뜻이에요!  make one's voice heard
 
 # 의향
 * be down with ~ = 할 의향이 있다
 	* 난 있다가 영화보는 거 좋아. I'm down with seeing a movie later.
+
+# 이기다
+* 「get the best of 사람」은 그 사람을 능가하다, 이기다 라는 뜻입니다.
+	* 아무도 날 능가할 순 없을거야. No one is going to get the best of me.
 
 # 이끌다
 * initiative는 '계획'이라는 뜻으로 많이 쓰이지만 앞에 the를 붙여서 the initiative라고 쓸 경우 '주도권'을 의미하는데 많이 쓰이기도 합니다. 다양한 동사와 함께 쓰이는데요. [gain/seize/lose the initiative = 주도권을 얻다/잡다/잃다] 쓰이니 함께 알아두세요!
@@ -528,6 +555,9 @@
 # 즐기다
 * 동사와 명사의 형태가 같은 단어인데요. 무언갈 즐길 때 enjoy 로는 부족할 때! relish 를 쓰시면 됩니다. enjoy 와 마찬가지로 뒤에 명사 또는 ing 를 씁니다. (to 동사원형은 못써요!)  ex) Some people relish eating bugs. ˈrelɪʃ] 
 
+# 지다
+* beat는 ‘이기다, 능가하다’라는 동사로 과거분사는 beaten입니다. 그래서 엄밀히 말하면 be beaten이라고 해야 하지만, 회화나 광고, 음악 등에서 be beat이라고 하는 경우가 종종 있습니다. We can’t be beat은 우리는 능가될 수 없다, 즉 “우릴 이길 사람은 없다”라는 의미입니다. 혹은 beat는 ‘녹초가 된, 엄청 지친’이란 의미도 있어서 “우린 절대 지치지 않아”로 생각할 수도 있습니다. 
+
 # 지나가다
 * 영상에서는 (I) hope / that's just a phase. 로 쓰여 [그냥 지나가는 단계이길 바래] 로 직역이 될 수 있습니다.
 	* 그냥 지나가는 단계라고 말하지마. 넌 임신하는게 어떤지 몰라. ex) Don't say it's just a phase. You don't know what it's like to be pregnant.
@@ -568,6 +598,7 @@
 * best - ever; best day/present ever
 	* - is out of this world
 * Best thing since sliced bread; 직역을 하면 식빵이 나온후 가장 좋은것 이라는 뜻입니다.
+* bout it bout it : 멋진, 쩌는
 
 # 추천
 * : 직역하면 'A를 위해 말을 잘 해주다' 로, 'A를 추천해주다' 라는 뜻이에요! 특히 이런 직업 관련 추천을 말할 때 자주 써요.  put in a good word for A
@@ -616,6 +647,10 @@
 # 합격
 * : 후보자 · 합격 대기자 명단에 오르다 I'm waitlisted at 대학교
 
+# 합치다
+* ‘으깬 감자’를 mashed potatoes 라고 하죠. mash up 은 ‘으깨서 섞다’입니다. 영상에서는 명사로 쓰였고 ‘짬뽕, 합친것, 혼합물’을 의미합니다.
+	* = 그들의 신제품은 전혀 새롭지 않아요. 기존의 기술들을 짬뽕해놓은 것이죠. Their new product is not new. It’s just a mashup of existing technologies.
+
 # 해외
 * travel abroad; live aborad; go abroad
 
@@ -629,6 +664,9 @@
 
 # 흑역사
 * It's dark chapter in my life
+
+# 흥미
+* 너무나 흥미로워서 주목을 안 할 수가 없게 만드는 것들을 나타낼 때 쓰는 형용사 입니다. 예를 들어 "너무나 흥미로워서 눈을 뗄 수 없는 공연" 을 a compelling performance 라고 할 수 있겠죠.
 
 # 힘내
 * 1) 비격식 표현으로 육체적인 힘이나 정신적인 힘, 재정적인 것을 굉장히 많이 쓰는 것을 의미합니다. 젖 먹던 힘까지 짜내는 듯한 뉘앙스입니다. 깊이 (deep) 파 들어가는 것 (dig) 이니까요. 2) 뒤에 dig deep into something 라고 쓰이면 [무언가를 철저히 파고들다/조사하다] 라는 의미로도 쓰입니다.
