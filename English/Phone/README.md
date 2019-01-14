@@ -377,6 +377,7 @@
 * #삐삐 										 pager, beeper
 * 동영상을 보다								 	 watch video clips
 * 문자 보내다 								 text sb ; send messages
+	* 그 어제 재난 문자 받으셨죠? You received a disaster warning text yesterday, right?
 * #보조 배터리							External battery, #auxilary batter
 * #충전기 Phone #charge / #adapter
 * 충전해라 let's #load up

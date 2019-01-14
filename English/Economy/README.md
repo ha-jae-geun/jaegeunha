@@ -357,6 +357,9 @@
   In addition, emerging economies have large foreign reserves, that is, savings, and unlike Greece, government debt ratios are low.
 
 
+# 안정자산
+* 금, 엔화
+
 # 금리
 * 금리를 올릴 때는 1. 경제가 좋을 때 2. 외부의 자금이 나갈 위험이 있을 때 올린다.
   * 미국과의 금리와 차이가 커지면 우리나라 화폐의 가치가 떨어져 외국인들의 투자가 적어진다.
