@@ -26,6 +26,7 @@
 	* 보조 배터리 있어; i have a power bank
 * 수신 양호; 순조롭게 항해중 | We ' re in the pipe , five by five . 듣기
 	* 무선 수신기에서 1은 잘 안들린다, 5는 잘 들린다.
+* 다들 이런 경험 있으시죠?ㅎ 뒷주머니에 전화기를 넣었는데 실수로 (엉덩이에 잘못 눌려) 전화가 가는 거 말이에요~! 이걸 바로 butt-dial이라고 해요. 신조어인데 butt (엉덩이)가 누른다는 말이 조금 직접적이라고 생각한다면 pocket-dial/pocket-call이라고도 말할 수 있어요. 주머니/가방에 넣은 상태에서 잘못 전화가 간 걸 뜻하죠~^^
 
 # 사진
 * 개화를 저속 촬영한 시퀀스  a time-lapse sequence of a flower opening 

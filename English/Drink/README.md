@@ -42,6 +42,8 @@
 	* 포도주 #양조장; #wineries
 	* #brew; The beer is #brewed in the Czech Republic
 	* 낮술; ex) I used to day drink when I was in college. Not anymore.
+	* * 원래 barrel 은 포도주나 맥주를 담아두는 큰 목재 통을 의미하는데요. 이게 데굴데굴 굴러서 통제가 안 되듯 굉장히 빨리 움직이는 걸 의미하는 단어입니다. 주로 미국에서 많이 쓰이고요. 영상의 towards 처럼 방향을 나타내는 전치사(over, down, along)와 함께 쓰입니다.
+  * = 크리스는 그 거리를 쏜살같이 달려 그녀에게로 향했다. Chris was barreling down the street towards her.
 * 미국 술 매너
 	* 1. 술 잔 놓고 화장실 가기; 술에 약같은거 탐; 병, 캔에 막혀있는 것 먹기
 	* 2. #바텐더가 왕; 술 안판다고 하면 안팜

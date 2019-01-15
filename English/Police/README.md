@@ -64,6 +64,8 @@
   * 법망을 피해 다니는 사람 a fugitive from justice   [ˈfjuːdʒətɪv] 
 * 작용하는 규칙들; rules at play; there are some rules at play affecting this
   * 규칙에 어긋나; That's against the rules; bend the rules
+  * 쉽게 말하면 [마음대로 하지 못하게 제한하다]라는 의미로 [단련하다, 훈육하다, 절제시키다, 징계하다]등으로 해석합니다. 모두 멋대로 행동하지 않고 한계점을 둔다는 의미가 내포되어 있죠.  여기서 말하는 discipline the price 도, 가격을 특정 범위내로 제한한다는 뜻입니다. 
+  * = 그녀는 규율을 어겨서 징계받았다. She was disciplined for breaking rules.
   * 사회에서 정한 기준을 따라야 한다는 압박감은 pressure to conform이라고 해요.  conform은 사회나, 집단이 중요시 여기는 규범이나 기준에 자신을 맞추는 걸 뜻해요.
     * 젊은 세대는 오래된 전통에 따르는 것을 거부하고 있다. ex) The younger generation is refusing to conform with old traditions.
 * 무단침입하시는거에요; YOu are breaking and entering
@@ -270,9 +272,9 @@
 * 가석방되다; he just got parole [pəˈroʊl]
 * ##교도소 #감옥
 * 단두대 									 guillotine [|gɪləti:n]
-* 단두대에 오르다, #참수형에 처해지다					 go to the guillotine 
-* #hehead; 목을 베다
-* #단두대
+  * 단두대에 오르다, #참수형에 처해지다					 go to the guillotine 
+  * #hehead; 목을 베다
+  * #단두대
 * 벌금: #fine(ticket) #ticket
 * 나 200달러 벌금 물었어 						 I was fined $300
 * penalty: 1. 벌금 The maximum penalty for the offence is a $1000 fine
@@ -280,7 +282,8 @@
 * 불이익: can be a big #disadvantage
 * #과징금; fine, penalty; pay a fine
 * #벌금
-
+* 2. burn at the stake : 화형에 처하다
+  * 그는 이단으로 화형당했다. ex) He was burned at the stake for heresy.
 
 # 법원
 * #재판소	#tribunal
@@ -355,6 +358,10 @@
   * 배심원단이 그의 살인 혐의에 대해 무죄를 선언했다. The jury acquitted him of murder.   [ˈdʒʊri] 
 * #sin#; #commit a sin, #crime
   * 잔인한 vicious little word, vicious attack/dog
+* [ 숙어 ] hole up: (비격식) 숨다
+  * 어디 안전한 곳을 찾아서 아침까지 숨어있도록 하자. Let's find some place safe and hole up until the morning.
+  * [hide+명사]는 ‘(명사)를 숨기다’, [hide from+명사]는 ‘(명사)로부터 숨다, 피하다’입니다. 많은 사람들이 포르노를 보고 흥분한다는 그 사실로부터 도망/회피/외면하지 말자고 얘기하고 있습니다. 
+  * 우리가 큰 실수를 저질렀다는 사실은 피할 수 없겠죠. We can’t hide from the fact that we’ve made a huge mistake.
 * 체포합니다 You’re under arrest
   * 감춰뒀던 신분이 탄로난다는 표현입니다. 감싸던 커버(cover)를 날려버려서(blow) 본 모습이 드러나게 만든다는 거죠. 이와 반대되는 단어가 undercover 입니다. 덮개(cover) 아래(under)에 있다하여 ‘위장의, 비밀리에 하는, 첩보의’를 뜻합니다.
     * 스파이는 그의 신분이 노출됐다는 것을 알아채고는 도주하였다. The spy fled when he realized that someone had blown his cover.
@@ -487,3 +494,7 @@
   * #settle a case
   * #drop a case
   * #소송 사건; #court case
+
+# 담배
+  * 동사로 withdraw 는 [철회하다, 물러서다] 라는 뜻이 있는데요. 비슷한 의미로 중독된 담배나 온라인 게임 등, 무언가 중독된 것에서 뒤로 물러날 때 겪게 되는 [금단 현상] 을 withdrawal symptom 이라고 합니다.
+  * 흡연하기로 한 후로 금단 현상을 겪고 있어요. ex) I've been having withdrawal symptoms since I gave up smoking.

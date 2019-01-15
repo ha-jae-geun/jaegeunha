@@ -119,7 +119,9 @@
   * '(be) ahead of the curve'는 '트렌드에 앞서서' '시대를 앞서가서'를 가리키는 관용적 표현이랍니다. 반대로, '(fall) behind the curve'라고 하면 '트렌드에 뒤져서' '시대에 뒤떨어져'의 의미겠죠~
     * 카카오는 새 기술들을 도입하는 데 앞서왔다. [ex] Kakao has been ahead of the curve in adopting new technologies.
   * '시간이 지나도 촌스러워지지 않는(즉 유행을 타지 않는), 고전적인 미를 갖고 있는' 이런 뜻이에요! 
-  timeless book/movie/play/classic (책/영화/연극/고전작품)                          
+  timeless book/movie/play/classic (책/영화/연극/고전작품)
+  * * 'run rampant'는 '횡행하다' '만연하다'로 해석될 수 있는 표현입니다. 무언가 억제되지 않고 제멋대로, 지나치게 마구 퍼지는 것을 말하죠. 오바마는 미국 민주주의에서는 견제와 균형이 잘 작동해서 다수당이더라도 함부로 마음대로 할 수 있는 구조가 아니라고 보았네요.
+  * 어떤 문화에서는 여성혐오가 난무합니다. [ex] In some cultures, misogyny runs rampant.                          
   * 환경 문제와 관련된 시류에 열심히 편승하는 정치인들 politicians eager to jump on the environmental bandwagon 
   * 여기서 hype는 인기를 끄는 것, 열광하는 것, 유행하는 것을 의미합니다. 스타벅스는 전세계에서 성공적으로 매장을 운영하고 있는데 호주만큼은 ‘그 유행’에 관심이 없어 보인다고 하네요. There's been a lot of hype around his latest film.
   * #pervasiveness [pǝrvéisiv]

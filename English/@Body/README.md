@@ -127,6 +127,7 @@
 * 콧수염	a mustache mʌ́stæʃ
 	* goatee: 염소수염
 	* * 고양이, 쥐 수염은 whiskers, 히틀러 수염은 toothbrush mustache 일명 칫솔 수염이라고 합니다~!
+	* 난 두 시간만 지나도 다섯 시쯤 되면 나올 거뭇거뭇한 수염이 보여. [ex] I get a five-o'clock shadow two hours after shaving.
 * 턱수염	a beard bɪrd
 * 구레나룻	sideburns bə́:rnz
 * 말총머리(한갈래)	ponytail
@@ -314,6 +315,12 @@ how dare you say such a thing #to my face
 	* 목사애가 좋지 않아서 목소리가 작게 혹은 낮게 들릴 때; she sounded muffled
 	* 뭐가 목에 걸렸다고 말할 때 [get/have something caught in one's throat] 이렇게 말해요~
 		* 목에 생선 가시가 걸렸어. I got a fish bone caught in my throat.
+* 목이 아프다; I have a scratchy feeling in my throat; "It's painful to swallow food."
+  * "I have a sore throat."
+  * 목에 뭔가 걸린 느낌이야; "I feel a lump in my throat."
+  * 목이 칼칼해; "My throat feels scratchy."
+  * '몇 시간 동안 쉬지 않고 말했더니 목소리가 거칠게 들렸어. "My voice sounded raspy after speaking for hours nonstop.
+  * 그녀는 감기 때문에 목소리가 낮게 나오더라구. "She sounded muffled because of her cold."
 
 
 # 다리
@@ -323,6 +330,11 @@ how dare you say such a thing #to my face
 * 다리가 길거 쭉쭉 뻗었어	she's got long and #lean legs
 * #쩍벌	#manspreading; man sits with his legs #wide apart(#apart) on public transportation
 * 다리가 못생겼고 흉터도 많아요; i have ugly legs and they are scarred
+* 사람이 낼수 있는 다양한 신체변화를 알 필요가 있는데요.
+쭈구려 앉는걸 squatting 혹은 crouching 이라고 해요.
+누워있는건 lying, 무릎꿇는건 kneeling 이라고 하구요. 
+한편 다리를 꼬는건 cross legs 라고 합니다.
+Don’t cross your legs bc when you put one knee over the other, it sends blood from the legs up to the chest, resulting in a larger quantity of blood being pumped out of the heart, which in turn increases your blood pressure.
 
 # 얼굴
 * 쌍커풀	double eyelid; single eyelids / monolids
@@ -428,7 +440,14 @@ I had my wisdom tooth pulled.
 * #혓바늘 생겼어 	I got #canker sore on my tongue.
 * #뒷골 땡기네 		##목			성가신 것 A pain in the neck.
 * 저는 요리하는 손이라서 괜찮아요; i've got cooking hands
+	* 저는 #손재주가 없어서  I'm all thumbs.
+	* 손재주 있는 사람; #handiest guy
+	* #manual dexterity
+	* * 우선 '감촉, 촉감, 만지기, 접촉'과 같은 감각과 관련된 의미가 있죠. 또한 a touch of salt처럼 '소량의 무엇'을 나타낼 때도 등장해요. 어떤 작업의 마무리 (손질)을 한다고 할 때 'give something a finishing touch'라고 말할 수 있어요. "Let's keep in touch!"는 "연락 계속 나누자."라는 뜻이고요. 여기서는 '솜씨, 기술, 기법, 특징'처럼 한 사람만의 고유함을 드러낼 수 있는 표현으로 사용되었어요.
+  	* 우리는 대가의 솜씨에 입을 다물지 못 했다. We were awed by the touch of the master.
 * 검지 손가락	index finger, forefinger 'fɔ:rfɪŋgə(r), first finger
+	* * chuck은 ‘던지다, 내던지다’이고, deuce는 숫자 2, 여기서는 검지손가락과 가운데손가락을 지칭합니다. 영상 장면에서도 나오듯이 chuck deuces라고 하면 ‘손가락으로 V자를 내보여라’라는 것이죠. 'V자를 그리며 어디선가 퇴장하다'라는 뜻으로도 쓰입니다.
+  * 그는 교실을 나갈 때마다 손가락으로 V자를 해. 그게 멋지다고 생각하나봐. He always chucks deuces when he leaves the classroom. I guess he thinks that’s cool. [duːs]; 주사위 2
 	* 중지 손가락	middle finger 
 	* 약지/무명지	ring finger 
 	* 새끼 손가락	little finger
@@ -462,9 +481,9 @@ I work out my guns every day
 * do you have tickets to the gun show? (오래된 표현)
 * #양팔을 ##벌려주세요	#Spread out your arms, please
 * #어깨가 빠졌어요 the victim’s right shoulder’s dislocated
-* #어깨동무 사이즈가 #딱이다 my arm #fits your shoulder
-* 어깨 힘좀 빼야겠다; you need to take the #chip off your shoulder
-* 어깨를 나란히 하ᄃᆞ; rank (with)
+	* #어깨동무 사이즈가 #딱이다 my arm #fits your shoulder
+	* 어깨 힘좀 빼야겠다; you need to take the #chip off your shoulder
+	* 어깨를 나란히 하ᄃᆞ; rank (with)
 * 팔씨름 하자.								Let's arm wrestle. 
 * #팔씨름
 * 그 친구들이 팔짱을 끼고 춤추는걸 봤어요.			 I saw them dancing #arm in arm.
@@ -550,11 +569,12 @@ build your core muscles
 * 배꼽	#navel [‘neɪvl], belly button 
 뱃살	muffin top
 * #무릎	무릎 꿇다 get/go (down) on my knee
-kneel upon one's knees | kneel down
-both knees are on the floor
-are you on your knees?
-* #무릎 보호대; #knee pad
-* ^^#knee; 관절
+	* 무릎 꿇다; be/get on one's knees = get down/drop/fall on one's knees / sit on one's your nees = pray ono's knees / beg on one's knees
+	kneel upon one's knees | kneel down
+	both knees are on the floor
+	are you on your knees?
+	* #무릎 보호대; #knee pad
+	* ^^#knee; 관절
 * #lap; 허벅지 상단부분; 무릎 위에 앉어 할 때 무릎 2. laptop
 His sudden smile made her go #weak at the knees. ; 2. 약한
 * 그의 갑작스런 미소에 그녀는 무릎에 힘이 빠지는 기분이었

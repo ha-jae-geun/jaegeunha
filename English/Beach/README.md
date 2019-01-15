@@ -4,6 +4,8 @@
 	* 물이 만은 쪽은 만조, 아닌 쪽은 간조
 
 # 바다 #바다 #해변
+* beach: 바다나 호숫가에 모래와 같은 돌멩이들이 있는 곳; 일광욜 즐기러 가는 곳; seaside; 사람들이 휴가 때 해수욕이나 피서를 목적으로 찾는 바다 옆의 동네와 지역을 말해요.
+  shore; 바다뿐만 아니라 강과 호수로 바로 이어지는, 주로 모래로 된 지역 뜻합니다; coast: 바다를 끼고 있는 럽은 지역
 * : 사람들을 보트에 태워.  Get the people on the boats. 지난 포스팅에서 '보트에 타다' 라고 할 때, 'Get in' 을 쓴다고 했었는데요, 'Get on' 역시 보트를 타다 라고 할 때, 같이 사용할 수 있습니다.
 * 내 동생과 나는 매 여름마다 서로를 물 속에 밀어넣곤 했다. ex) My brother and I used to duck each other every summer. 2. 오리
 * 물을 배 밖으로 퍼내야해; We need to quickly bail the water out of the boat

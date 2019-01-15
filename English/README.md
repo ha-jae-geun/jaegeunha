@@ -118,6 +118,8 @@
 * 와이넛북스 https://m.post.naver.com/my.nhn?memberNo=5039741
 * 슈퍼데디 https://m.post.naver.com/my.nhn?memberNo=5518579
 * Sunny https://m.blog.naver.com/PostList.nhn?blogId=pureriver777
+* 마젠타섹 https://m.blog.naver.com/PostList.nhn?blogId=dkfjsa
+* 영어교육정말어렵다 https://m.blog.naver.com/PostList.nhn?blogId=dgtongbeon
 * 한국번역연구소 https://blog.naver.com/ktri8888
 * The Red https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 -----------------------------------------------------------------------------

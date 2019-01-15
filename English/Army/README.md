@@ -10,6 +10,11 @@
 	* 신성대: 고대 그리스 도수 국가 테베에서 연인 150쌍의 병사들로 이루어진 동성애자 부대인데 무거운 방패를 놓고 도망칠 것을 대비해서 왼쪽에 동성애 연인을 두어 방패를 놓고 도망치지 못하게 했다.
 
 # 전쟁
+* 포로 - be taken prisoner: 포로가 되다
+	* 미국인 두 명이 포로가 되었다. [ex] Two Americans were taken prisoner.
+	* 우린 그를 포로로 잡았다. [ex] We took him prisoner.
+	* : 그대로 해석하면 포로를 잡지 않는다는 말로, 포로를 잡는 대신 적을 몰살한다는 뜻이죠~ 상대를 고려하지 않고 무자비하게 자신 의지대로 행동하는 걸 가리키는 표현으로 사용한답니다. 타협을 일절 하지 않는다는 의미!
+		* 제롬은 일에 있어 절대 타협하지 않아. [ex] Jerome takes no prisoners when it comes to work.
 * 전투기가 맑고 푸른 하늘로 올라 사람들에게 인사하고있따; A fither is soring into the clear blue skies and it makes a big impression to people
 * 시리아가 화학무기를 사용하지 않았습니다; - didn't use any chemical weapons
 * 군대는 비생산적인 집단이고, 군대에 나가면 무기와 군량을 사야 되기 때문에 세금이 올라간다.

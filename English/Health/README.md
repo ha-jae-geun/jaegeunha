@@ -286,6 +286,7 @@
 *   He’s out this season	
 * #신장 결석	it's just a #kidney stone
 * #심기증 건강 #염려증	#hypochondria; 하이포컨드리아
+  * 그녀는 장기 기증자 카드에 서명을 하였다. She signed an organ donor card . 듣기
 * #디스크						disc, disk 간단히 back pain 허리 아래쪽: lower back
 * #장애	the physically challenged, the differently abled
 * #공황장애 	Panic Disorder 

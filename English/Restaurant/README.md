@@ -276,6 +276,7 @@
 * ^^#customer; 물건 사는 손님 
 * #client; 서비스 손님; 변호사, 보험
 * #guest; 호텔에 투숙을 하거나 집에 방문을 하는 분들
+	* 호텔: half board: 조식과 석식이 객실 가격에 포함; full board; 하루 세끼 포함; all inclusive: 세끼 식사 + 미니바의 술
 * 그리고 손님이 많더라구요 						 And it was packed
 * #somebody's here; 누가 왔어요; is anybody here?
 * #손님

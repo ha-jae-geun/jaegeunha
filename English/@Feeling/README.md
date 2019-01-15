@@ -1455,24 +1455,25 @@
 * #fetish; #집착
 	* 집착하다;  be fixated on [fíkseit = be obsessed with 
 * 평가를 부탁해도 될까요? 						can I get your verdict?
-* 카스티요를 좀 더 지켜보고 평가를 하고 싶어 할 것이다. The team will also want to further size up Castillo
-* 그 사람은 평판이 좋아 					 The guy's got good word of mouth. 
-* 그 항상 너 칭찬하더라 		 #speak highly/badly of He always speask highly of you.
-* 높게 평가하다; #speak highly of; she speaks very highly of you
-* 이 책은 그 개척자들의 용맹에 바치는 딱 맞는 찬사이다.
-* This book is a fitting #tribute# to the bravery of the pioneers.
-* 네가 그걸 하면 너의 이미지는 안좋게 될거야.		 Your name will be #mud if you do that. 
-* #절대평가가 좋아, 상대 평가가 좋아?			Do you grade on points or on a curve? 
-* #진행평가; #ongoing assessment
-* #참 잘했어요 #brownie point; get brownie points, do something for brownie points
-* #well done ~ ;well done on your test
-* #극찬 praise, extol = #highly praise
-* 그녀가 일을 잘해낸 것에 대해 #칭찬해주자. Let's give her a pat on the back for doing a good job.
-* ‘칭찬은 아니죠 							 they are not complimentary
-* *칭찬 감사해요 							 Thank you for your compliment
-* “과찬의 말씀입니다 			 I’m flattered Stop flattering me. Don't flatter me.
-* #자화자찬; to #toot someone's own horn(#horn)
-* don't blow your own trumpet
+	* * 칭찬, 존경, 인정합니다; kudos to you / kudos Prop, Props to you
+	* 카스티요를 좀 더 지켜보고 평가를 하고 싶어 할 것이다. The team will also want to further size up Castillo
+	* 그 사람은 평판이 좋아 					 The guy's got good word of mouth. 
+	* 그 항상 너 칭찬하더라 		 #speak highly/badly of He always speask highly of you.
+	* 높게 평가하다; #speak highly of; she speaks very highly of you
+	* 이 책은 그 개척자들의 용맹에 바치는 딱 맞는 찬사이다.
+	* This book is a fitting #tribute# to the bravery of the pioneers.
+	* 네가 그걸 하면 너의 이미지는 안좋게 될거야.		 Your name will be #mud if you do that. 
+	* #절대평가가 좋아, 상대 평가가 좋아?			Do you grade on points or on a curve? 
+	* #진행평가; #ongoing assessment
+	* #참 잘했어요 #brownie point; get brownie points, do something for brownie points
+	* #well done ~ ;well done on your test
+	* #극찬 praise, extol = #highly praise
+	* 그녀가 일을 잘해낸 것에 대해 #칭찬해주자. Let's give her a pat on the back for doing a good job.
+	* ‘칭찬은 아니죠 							 they are not complimentary
+	* *칭찬 감사해요 							 Thank you for your compliment
+	* “과찬의 말씀입니다 			 I’m flattered Stop flattering me. Don't flatter me.
+	* #자화자찬; to #toot someone's own horn(#horn)
+	* don't blow your own trumpet
 * 사람들은 자신이 이전에 보지 못한것에 대해서는 폄하하는 경향이 있어
 * People easily run down things they've never seen before.
 * I don't mean to #disparage your achievements. 당신의 업적을 폄하할 뜻은 없습니다.
@@ -1712,6 +1713,7 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * 부럽다, 질투한다. 				 I am so jealous. 40년전과 달리 같이 쓰임
 	* 자주 질투심을 느낍니까? Are you often consumed by envy/guilt?
 	* 부러워 죽을거야; - would die
+	* envy: 상대방이 갖고 있는 것을 부러워하다 <> jealous; 잃을 것을 두려워하다
 * 답답하다. 						 I am so frustrating. stuffy라는 말 X
 * 환기 시켜야 해. 							 I need to vent.
 * 스트레스 받는다. 				 I am so stressed out. (stressful X)

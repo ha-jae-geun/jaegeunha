@@ -39,6 +39,8 @@
 	* 악을 쫒아내다; ward off evil (spirits); danger/disease [wɔːrd]
 * #drop off; 졸다; drop off the hooks; #황천객이 되다; drop/#slip off the hooks #죽다
 * #사망; #decease
+	* death rate 라고도 하며 의미상 차이는 거의 없습니다. mortality rate 의 경우엔 제품의 [폐기율] 을 의미하기도 해요.
+  * = 아프리카 국가들에선 신생아 사망률이 높다. The infant mortality rate is pretty high in African countries. [mɔːrˈt-]  영국식 [mɔːˈtæləti] 
 * #사망자수; #death toll 
 * #급사하다; #drop dead; drop dead gorgeous
 * #사별; #bereave 미국·영국 [bɪ|ri:v] 

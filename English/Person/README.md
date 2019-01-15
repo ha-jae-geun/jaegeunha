@@ -28,6 +28,7 @@
 	* 어린애라고 해서 그를 넘보아서는 안 된다 You should not make light of him as a mere boy . 듣기 출처:동아 출판
 	* 나 무시하지마; don't belittle me
 	* 그는 여자들에게 거들먹거리는 태도를 취한다. He has a condescending attitude towards women. 
+	* slight 는 형용사로는 [관심을 기울이지 않아도 될 만큼 가벼운], 명사로는 [무시, 모욕], 동사로는 [무시하다] 라는 의미를 가져요. 누군가를 가볍게 여기고 리스펙 하는 것 없이 행동하는 것인데요. 그래서 주로 수동태로 쓰이면서 [무시당하다] 라는 의미를 가집니다. = be(feel) slighted
 * 평범한 건 원하지 않아요; We don't want the standard
 * 추종자들이 있는 권위자, 전문가; guru; 흰두교에서는 종교적 스승, 지도자   expert: 사람들의 전중ㅇㄹ 받는 전문가
 	* guru 는 [전문가] 라고 해석이 되기는 하지만, 조금 더 구체적인 모습을 가진 단어입니다. 같은 의미의 expert 의 경우엔 자기 분야에 방대한 지식을 가지고 있고, 종종 그와 관련된 학위나 자격증 등을 가지고 있는 경우가 많아요. 그러나 guru 는 방대한 지식을 가지고 있을 수도 있지만, 꼭 그렇지 않아도 조언을 해주는 사람들을 의미하는 뉘앙스가 짙은 단어입니다. 또한 중요한 건, guru 의 경우엔 '추종자'들이 꽤 있다는 점이에요.  그래서 guru 가 되기 위해서 본인이 꼭 expert 일 필요까지는 없습니다. 반대로 누군가가 expert 일지라도, 그를 좋아하고 따르는 사람들이 없다면 guru 라고 불리지 않겠죠. guru 가 종교적 지도자를 의미하기도 하는 건 우연이 아니겠지요~
@@ -67,6 +68,8 @@
 * 신참, 신입; the new kid on the block
 * 시카고 출신이야? A Chicago kid
 * 아부하는 사람; He's a kiss up
+	* 단어 그대로 “넌 이런 사람이야”라고 쓰여진 ‘라벨’을 붙인다는 것으로 보통 부당한 경우에 씁니다. 어순에 유념하면서 예문을 봐주세요. labeled (O) / labelled (O)
+  * 그의 선생님들은 그를 부당하게도 문제아라고 낙인 찍었다.  His teachers unfairly labelled him a troublemaker.
 	* 한 배에서 태어난 새끼들 중에 가장 작고 힘이 없는 아이를 가리키는 말입니다. 영상에서는 monthly 를 넣어서 마치 ‘한 달력에 있는 달들’처럼 표현하였네요. - runt : 가장 왜소한 새끼 / 보잘 것 없는 사람 - litter : 한 배에서 난 새끼들 / 쓰레기 / 깔개 etc.  a runt of the litter = 가장 작고 약한 놈
 	* 안경잡이야; Windows
 	* 내가 호구로 보이냐? Do i look like a pushover?  doormat(당하고도 가만히 있는 사람)
@@ -284,6 +287,8 @@ would be the last person to 동사원형; ~할 사람이 절대 아니다
 * He returned in exuberance, like a triumphal general. 예문 발음듣기 출처:능률교육
 * 의기소침해졌다							 ɪn‘tɪmɪdeɪt I feel intimidated 
 * 사기를 #꺾다; #demoralise
+* (emasculate: 남성성을 약하게 하다) 이 영상의 주제인 masculinity(남성성)와 같은 라틴어 뿌리를 가진 단어입니다. 동사 emasculate 의 명사이고, e-가 붙어 남성성을 약하게 만든다는 반대어가 되었습니다.  이 단어는 수입이 더 높은 아내에게 콤플렉스를 느끼거나, 남자가 집에서 살림을 하면 남자구실을 못한다고 생각하는 등 ‘사내로서 자존심을 상하게 만드는 것’을 말합니다.
+  * = 여자 밑에서 일한다고 남자로서 자존심 상할 일이 아니야. 그냥 상사일 뿐이라고.  Working for a women is not emasculating you. She’s just a boss!
 
 ## 여자
 * 성 평등을 우선시하다; make gender equality a priority; make/consider A a priority
@@ -487,6 +492,9 @@ he lacks the dexterity to get on in life
 * 이름 잘 못외워요							 I'm terrible with names
 	* * take on your partner’s surname = 배우자의 성을 따르다 take on 은 다양한 뜻으로 쓰이기 때문에 문맥을 보고 이해해야 합니다. 여기서는 ‘취하다, 떠맡다, 받아들이다’를 뜻하는데, on 없이 take 만 써도 됩니다.  참고로 결혼하기 전의 성씨, 즉 자신이 원래 갖고 있던 성씨를 (한국의 경우에는 대부분 아버지의 성씨겠죠) 영어로 a maiden name 이라고 합니다.
 		* 한국 여성들은 결혼할 때 배우자의 성을 따르지 않는다. Korean women don’t take (on) their partners’ surnames when they marry. 
+	* * 이름을 지어주다; i haven't named my puppet
+  * 미국 대통령 이름 셋을 대시오; Name three US presidents
+  * 원하는 가격을 제시하시오; Name a time and place
 * #못하다 #서투르다 #칠칠맞다 #잼병
 * #추진력 driven
 * #추진 #propulsion; #jet propulsion

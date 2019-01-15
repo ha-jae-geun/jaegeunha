@@ -229,6 +229,7 @@ I have a big crush on you / I have a thing for you, i'm into you
 	* #박식한 #해박한 #똑똑한 She has an encyclopedic knowledge of natural history. [ɪn|saɪklə|pi:dɪk] 
 	* #박식; #well read
 * 권태기 잘  극복했어; We made it through the seven-year itch
+	* * 그녀의 결혼 생활은 파탄 직전이다. Sue’s marriage is on the rocks. 
 
 
 # 취향 

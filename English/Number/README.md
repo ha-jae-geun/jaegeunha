@@ -17,7 +17,11 @@
 	* 보통은 컴퓨터가 대량의 수치 계산, 또는 데이터 처리를 하는 걸 의미하는 표현입니다. 물론 사람이 계산할 때도 쓰는데요. 그럴 경우 보통 재정 상황을 계산할 때 꽤 쓰입니다. crunch the numbers = 수치를 계산하다
 		* = 컴퓨터가 몇 시간 째 수치를 계산 중입니다. 바라건대 오늘 밤 안에는 끝낼 수 있으면 좋겠어요. The computer has been crunching the numbers for hours. Hopefully it will finish it by today.
 * thousand -> 10, thousand ->  hundred thousand => million -> 10억 -> trillion(1조)
----
+* 뺴다; 여기서 take away는 ‘빼다, 뺄샘하다’라는 뜻입니다. 더하다는 add 혹은 간단히 plus라고 하셔도 됩니다.  Ten take away six is four.
+
+# 사칙
+* 이렇게, 어떤 수치를 말했는데, 듣는 사람이 그 수치가 적은 편인지, 큰 편인지 감이 안 올 것 같을 때! to put things in perspective라 말하고, 들으면 "아~" 할 수 있는 비교군을 말한답니다. perspective는 '관점'이라는 뜻도 있지만 '원근법'이라는 뜻도 있는데, 좀 더 멀리서 보면 전체 그림이 보인다는 의미에서 쓰는 표현이 아닐까 합니다! 이런 정보성 컨텐츠에서 자주 쓰이는 표현이니 알아두시면 좋겠죠?
+  * 아이슬란드는 인구가 대략 33만이야. 그게 대략 어느 정도냐면, 원주시 인구가 34만 정도래.ex) Iceland has a population of about 330 thousand. To put that into perspective, Wonju City has a population of about 340 thousand.
 * 짝수가 아닌 수; uneven
 * 숫자 세기; 너네 넷: you four, 우리 셋: us three, 그들 다섯: those five, 이것 여덟개: these eight
 * 1000: 1k -> million(백만, 천만, 1억) -> billion

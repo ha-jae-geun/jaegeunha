@@ -1,3 +1,7 @@
+# 기타
+* 1) coin = (v)새로운 용어를 만들다
+  * ‘인터넷’이라는 용어를 만들었을까? Who coined the term "the Internet"?
+
 * SMH; Shaking My Head
 * 새로운 단어를 만들다; They coined the term
 * 머리가 멍해질 정도로 지루해; Brain-fade

@@ -44,6 +44,7 @@
 * orange; or 발음 + 인ge,  Strawberry; 스트로 입술울 모으지 않은 상태에서 '스트로' + bear + 이 
 
 # 기타
+* generic; 제네릭; genetic; 지네릭
 * purple; 혀를 꽈야 한다보다 입안에 닿지 않게 하기 위해서 입술을 내민다. people의 힘이 빠진 쁠
 * McDonald's 맥; 호흡을 세게 하면서 참는 느낌 맼; 도가 아닌 '다' 발음; d 발음 안하고 s 붙여서 널스;
 * secretary 미국식 [-teri]  영국식 [ˈsekrətri] 

@@ -177,6 +177,7 @@ One O one- point nine FM
 * #SRY										 Sorry. 미안
 * Sanga; Sandwich
 * SMH; Shaking My Head
+* #sub #보통 샌드위치라고 하면 사각 식빵에 계란이나 샐러드 같은 걸 넣는 샌드위치를 생각하실 텐데요. submarine sandwich, 우리말로 직역하면 '잠수함 샌드위치' 는 길쭉한 빵에 햄, 야채, 치즈 등 여러 가지 재료를 넣은 샌드위치를 의미합니다. 지금은 우리나라에서도 미국 프랜차이즈 중 하나인 Subway 에서 이런 샌드위치를 접하실 수 있으신데요. sub 는 submarine sandwich 의 줄임말입니다.
 * ##tarp; tarpaulin; 방수포
 * T/O; table of organization
 * #TA; teaching assistant

@@ -1,4 +1,6 @@
 * 현재; 목요일을 기준으로; as of thursday
+	* 시간, 기간, 정기적 일 등, 무언가가 정기적으로 돌아오는 (roll around) 경우에 쓸 수 있는 비격식 표현이에요.
+  * 금요일이 올 때 쯤이면, 완전히 여행 준비가 되어 있을거야. ex) By the time Friday rolls around, I will be totally ready for the trip.
 * 마지막; 2) last minute 은 [막판에, 마지막에] 란 뜻으로 정확히는 at the last minute 인데, 구어체에서 간혹 생략하기도 합니다. 
 	* = 나는 항상 일을 미뤘다가 막판에 하는 스타일이야. I always procrastinate and do things (at the) last minute.
 * 즉시, 당장; in a jiffy 미국식  영국식   단어장추가
@@ -53,6 +55,7 @@
 * 가끔씩; 누구나 가끔씩은 쉬어줘야지. Everyone deserves a break every now and then.
 	* [가끔] 이라는 의미를 가진 단어로 sometimes 가 조금 더 친숙하실텐데요. sometimes 같은 경우엔 [가끔] 이지만, 무언가를 비교적 정기적으로 가끔 하는 것을 의미하는 반면에 every now and then 같은 경우엔 정해지지 않고 띄엄띄엄 가끔 하는 것을 의미합니다.
 	* every once in a while
+	* ##가끔 ##때때로 sometimes | once in a while | 때때로: from time to time | #now and then
 
 # 요일
 * 어서 금요일이 되면 좋겠어!; Roll on Friday! 듣기 출처:옥스퍼드
@@ -264,6 +267,9 @@
 * ##임박
 * 처음 30분/10초 								 first 30 minutes/seconds
 	* 처음부터, 내내; 편지를 내내 주머니 속에 가지고 있었다. I had the letter in my pocket all along.
+	* ☆#at first; 처음에는 / #애초에: #in the first place, #to begin with | #머저: #first; he hit me first
+	* 처음으로: #for the first time; I met her in person for the first time
+	* it's my first time to V(미래에 대한 내용)/-ing(하는 것이 처음이다)
 * #30분: one half hour
 * 5분동안 ~밖에 안하고 있어						 for last five minutes
 * 3분 안에 ~ 만들었어 				 We made this in under/within three minutes
@@ -438,7 +444,8 @@
 	* 앞으로 어떤 일이 일어날지 모른다. 		 You never know what might happen down the road
 	* 바로 앞에 있잖아 							It's right under your nose.
 	* #장래에 #down the road(#road); drive down this road(운전); that's down the road(나중에)
-	* 미래 #앞으로
+	* 사람의 인생을 하나의 길에 비유하곤 하죠. 여기서 down은 아래라기 보다 길 위에 섰을 때 내가 바라보고 있는 방향쪽을 의미합니다. 내가 바라보고 있는 방향이 앞으로 나아갈 길이기 때문에 down the road가 ‘미래에, 장래에’가 되는겁니다.
+		* 2년 후에 너는 아마 다르게 느낄거야. Two years down the road, you might feel very differently.
 * #현재 #지난 #과거# ##전# #구식 #옛날 스타일 #옛날 #미래 #올해 | #들추다
 * 형용사: #prior, #previous #former
 * 전치사구; #prior to, #previous to, #ahead of #before #earlier than #in advance of

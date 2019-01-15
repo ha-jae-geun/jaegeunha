@@ -10,10 +10,20 @@
 	* think through : 고심하다, 충분히 생각해보다
 		* 제대로 생각해볼 시간이 필요해. I need a minute to think this through.
 * 그렇게 이해하고 있습니다; That's my understanding
+	* : 여기서 동사 see 는 물리적인 것을 실제로 '보다'라는 뜻이 아니라, 추상적인 것을 '보다, 알다, 이해하다' 라는 뜻으로, 'understand'의 유의어예요. 그래서 요 표현은 '~에서 웃긴 점이 뭔지 알다', '~에서 뭐가 웃긴지, 재미있는지 알다'라는 뜻이죠! 전치사 in 을 쓴다는 것도 꼭 기억하세요.
+  * 이 모든 게 웃긴 상황이라는 거 모르겠어? Don't you see the humor in all of this?
 * 순서대로 점들을 이으면 그림이 완성되는 ‘점잇기 놀이’를 생각해 보세요. 점들만 있을 때는 모르지만, 점을 다 연결하면 비로소 무슨 그림인지 이해하게 되죠. 그런 것처럼 connect the dots 는 ‘이해하다, 파악하다’를 의미합니다. 
 	* 아직 모르겠어? 내가 널 위해 이해를 시켜줘야 하니? Don’t you get it? Should I connect the dots for you?
-
+* suppose는 ‘생각하다, 추정하다’이란 뜻이기 때문에, supposed라고 하면 ‘추정된, ~라고 생각되는’이란 의미가 됩니다. 마리 앙투아네트가 "Let them eat cake."라고 말했다고 알려져 있긴 하지만 기록으로 남은 완벽한 사실은 아니기 때문에 영상에서는 “그렇게 말했다고 추정되는 답변”인 supposed response라고 말한 것입니다. 
+  * 추정컨데, 그녀가 그것을 혼자서 했었을 수도 있어.  Supposedly, she might have done it alone herself. 
+  
 # 말
+* thematic 은 theme 에서 온 형용사로 [주제의, 주제와 관련된]이라는 뜻입니다. 우리나라에선 [테마]라고 읽는데 theme 의 경우엔  [θiːm]이기에 [씜] 정도로 읽는 게 맞고, thematic 의 경우엔 [θɪˈmætɪk]이기에 [씌매틱]정도로 읽는 게 맞아요. * infidelity = 배우자에 대한 부정
+  * = 그녀는 보상금에 관한 것을 간단히 언급했다. She made a brief reference to something about a bounty.
+* 1) 주로 남자들이 관심없을 법한 주제들을 가지고 여자들끼리 얘기하는 것을 girl talk 라고 합니다. 남자 둘이서 조금 심각한 대화를 나누는 것은 man-to-man talk 라고 합니다. 2) 비슷한 예로, 여자들끼리 저녁에 나가 노는 것을 girls' night out 이라고도 해요!
+  * 잭, 우리가 말하는 거 그만 엿들어. 여자들끼리 하는 얘기야. ex) Jack. Stop overhearing what we are talking about. It's girl talk.
+* say 는 '말하다'로 비교적 넓은 의미라면, utter 는 '입을 열어 소리를 내다, 입 밖에 내다, 발음하다'라는 뜻으로 더 구체적인 의미를 지녀요!
+  * 말을 하려고 하질 않아. He won't say anything.
 * 이 표현은 원래 『go into one’s song and dance』로 ‘틀에 박힌 말, 상투적인 말을 하다’는 뜻입니다. 이 것을 살짝 변형해서 go right into the dance(곧바로 틀에 박힌 말을 내뱉다)고 한 것이죠. 그래서 영상속 여자의 의견은 가족은 나를 잘 알기 때문에 고민 상담을 해도 상투적인 말을 하지만, 상담가는 새로운 시각으로 날 봐준다는 것입니다.
 	* 그는 늦을 때마다 늘 틀에 박힌 말을 늘여놓는다. Whenever he’s late, he goes into his song and dance. 
 * 조금 충격적이며 특히 불쾌할 수도 있는 소식 (물론 영상에서는 꼭 불쾌한 의미는 아니지만요) 을 bombshell 이라고 합니다. 폭탄을 떨어트리거나 터뜨리듯 drop (explode) a bombshell = [폭탄선언을 하다] 라고 종종 쓰여요.
@@ -23,7 +33,12 @@
 * 가족을 대신해서 말하자면; 대변; i speak for my whole family
 * 능수능란하다; That's diplomatic; 2. 외교적인; 다른 사람의 심기 건드리지 않으면서 어려운 말을 요령있게 한다.
 * : '오늘 하는 것으로 마치고 싶습니다', '마무리짓고 싶습니다' 라는 뜻! 발표, 연설 등의 마무리 멘트로 유용하게 쓸 수 있겠죠? [ 구문 패턴 ] I want to close today by -ing
-
+* 저는 면대면 대화를 어려워 해요. I have trouble having a face-to-face conversation.
+* 능수능란하다; That's diplomatic; 2. 외교적인; 다른 사람의 심기 건드리지 않으면서 어려운 말을 요령있게 한다.
+* 툭 던지며 말하다; I might have said it #on the fly
+* 갑자기 화제를 바꾸어 이야기가 옆길로 샐 때 쓰는 표현입니다. tangent 가 무언가와 접하게 되는 선을 의미하는데요. 거기서 벗어난 (go off) 뉘앙스의 표현입니다. 영상에서는 [약간 울버린 때문에 이야기가 샜다] 라는 의미로 a little Wolverine tangent 라고 썼어요. 직역하면 [약간의 울버린 이야기로 옆길로 새는 것에 저항할 수 없었다] 정도로 해석이 됩니다.
+  * 얘들아. 주제에 집중하자. 정치 얘기로 딴 소리 좀 하지 마. ex) Guys. Let's focus on the topic. Stop going off on a political tangent.  [ˈtændʒənt]: 옆길로 세다; fly/go off at a tangent 
+  
 # 논증 방법 과거: 기승전결, 현재: 서론, 본론, 겨론 기사-귀납-영역-열거
 
 ## 기승전결 과거

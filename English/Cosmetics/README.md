@@ -24,6 +24,8 @@
 * 이 메니큐어 엄청 럅게 발린다; This nail polish is really sheer
 * 한 네겹 바르면 되나; Maybe if i do like four coats
 	* 가볍게 몇 번 누르거나 닦는 것을 의미해요. 영상에선 얼굴 위의 파운데이션을 쿠션으로 누르는 것을 의미하는데요. 의역되어 [파운데이션 바르기]라고 해석이 되었습니다. 파운데이션을 누르는 걸 우리말에선 바르는 것으로 말하기 때문인데요. 실제 크림 같은 것을 가볍게 바르는 경우엔 [dab A on B = A를 B에 바르다]라고 쓸 수 있으니 참고하세요!
+	* * 가볍게 몇 번 누르거나 닦는 것을 의미해요. 영상에선 얼굴 위의 파운데이션을 쿠션으로 누르는 것을 의미하는데요. 의역되어 [파운데이션 바르기]라고 해석이 되었습니다. 파운데이션을 누르는 걸 우리말에선 바르는 것으로 말하기 때문인데요. 실제 크림 같은 것을 가볍게 바르는 경우엔 [dab A on B = A를 B에 바르다]라고 쓸 수 있으니 참고하세요!
+  * = 손수건으로 눈가를 꼭꼭 닦는 여성분이 그의 엄마야. The lady dabbing at her eyes with the handkerchief is his mom.
   * = 손수건으로 눈가를 꼭꼭 닦는 여성분이 그의 엄마야. The lady dabbing at her eyes with the handkerchief is his mom.
 * 모공관리; How to tighten pores
 * 엄청 큰 여드름이 나겠지; i'm gonna have a huge zit
@@ -83,3 +85,14 @@
 * #화장품
 * 화장 진하게 하신 분; painted lady
 	* 두껍게 메이크업하다; cake on the makeup; i decided to cake on the makeup
+
+# 아토피
+* 아토비: has atopic dermatitis(족저 근막염) -> have a skin condtion; it is a condition from birth(the birth xx)
+  기저귀 발진하고 비슷해요; it's similar to diaper rash all over body  
+  어떤 제품을 쓰냐에 따라 피부가 민감하다; their skin is super sensitive to what product i use/put on; products가 아닌 cosmetics라고 하면 색조 화장의 의미가 됨
+  내 스킨 문제가 오일 성분이 있는 스킨을 쓰면 더 나빠진다; my skin condition is worsened by oily toner
+  뒤집힌다; my skin condition is exacerbated by oily products
+
+# 손톱
+* 1) 우리말에서 매니큐어는 영어로 nail polish 라고 합니다. 그렇다면 manicure 는 뭘까요? manicure 는 손톱에 칠하는 것뿐만이 아니라 큐티클을 제거하는 등 전체적인 손 관리받는 것을 의미해요. 발 관리는 pedicure 라고 합니다. 2) 매니큐어나 화장을 하는 걸 put on 또는 wear 라고 하는데요. put on 은 매니큐어 칠을 하거나 화장을 하는 '동작', wear 는 그런 화장을 하고 있는 '상태'를 의미합니다.
+  * = 내 여자친구는 분홍색 매니큐어에 집착해. My girlfriend is obsessed with pink nail polish.

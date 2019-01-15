@@ -445,6 +445,11 @@ Legs are long but calf is thin, saving 80% of oxygen consumption
 
 
 # 이탈리아
+## 북한과의 관계
+* WFP: 유엔세계식량계획; 전 세계에서 기아로 고통받는 사람에게 식량을 지원하는 세계 최대의 식량 지원 기구; 이탈리아 로마에서 소재
+* 이탈리아 대사: 북에 김씨 일가 사치품 등 특수문자 전달
+
+
 ## 문화
 * 어릴때부터 옷을 직접 고르게 한다. 조건은 상의, 하의의 색깔이 달라야 한다는 것이다.
   Italian children have their own clothes to choose from when they are young. The condition is that the colors of the top and bottom should be different.

@@ -19,6 +19,7 @@
 * 1) 영상에서 볼 수 있듯이 이렇게 칸막이만 사용하여 만들어놓은 좁은 공간을 의미해요. 보통 사무실에서 흔히 볼 수 있는 공간입니다. 2) 공공시설의 화장실의 각 칸도 cubicle 이라고 합니다. 위가 뚫려 있고, 각 칸들이 칸막이로만 경계가 이루어져 있으니까요.
 
 # 주방	it has a; #gourmet kitchen; 프로급 주방
+* kitchen은 요리하는 부엌; dining room은 식사하는 테이블 있는 곳
 
 * 벨브를 잠그다; close/shut off/turn off the gass
 * 발코니에서 내렫보인다; The balcony looks over the zoo
@@ -67,6 +68,8 @@
 		* 지낼 곳; Every night we're grateful for having a roof over our heads; a roof over head
 	* 샴푸하다; you can't shampoo your hair everyday
 	* 휴대폰 두 개의 중간에 경첩이 달려있다; it's just two phones attached by a hinge in the middle
+		* hinge는 낮설지만 우리말로 ‘경첩’이라고 합니다. 여닫이문을 달 때 한쪽은 문틀에, 다른 한쪽은 문짝에 고정하는데 쓰는 철물을 뜻하지요. unhinged는 이 경첩이 잘 달리지 않았다는 것으로 의미를 확장하면 “(사물의 모습이) 불안정한, 흐트러진 / (정서적으로) 아픈, 미친”을 나타냅니다. 경첩이 잘 달리지 않아 불안정하고 삐뚠 모습의 문을 빗대어 표현하는 것이죠. 
+  * 나는 가끔 걔네 엄마는 조금 정신적으로 이상하다고 생각이 들어. I sometimes think that his mother is a little unhinged.
 	* 어떻게 먼지 터는지 알려줘야 했어요; I had to show him how to dust
 	* 문 꼭닫아; I bolt the door real tight
 	* i've become quite the #homebody
@@ -99,6 +102,7 @@
 	* #1인 가구; #single-person household; = single households
 	* 에어컨에서 찬바람이 안나와요; It's now blowing cold air
 	* 맞춤 붙박이 가구에요; All custom built-ins
+	* 가구: furniture; 조립식 가구; DIY furniture(Do it yourself)
 * 찬장 열어서; open up my cupboard; 
 * 냉장고에 넣을 공간이 없어요; i have no more room in the refrigerator
 	* refrigerate = fridge; 냉장고: fridge 냉동고: freezer; 영국: fridge-freezer
@@ -569,6 +573,8 @@
 * 이 가족은 넉넉하다 This family is sitting family. 
 	* 무일푼에서 거부가 된 이야기 a rags-to-riches story 
 * 근근히 살아가다; those who are living on the edges
+	* 흔히 볼 수 있는 곡예 중에 저글링이 있죠. 공이나 막대기 같은 걸 세 개 이상 공중에 던지면서 떨어지지 않게 하는 건데요. 비슷하게, 두 가지 이상의 일을 곡예하듯이 꾸려나가고 해나가는 것을 juggle 이라고 합니다.
+  * = 내 가족을 먹여 살리려면 투잡, 쓰리잡 뛰어야 해. I gotta juggle a few different jobs to support my family.
 	* 인생이 다 그런거지; THat's just a fact of life
 	* 최선을 다해 열심히 살다; live life th the fullest
 	* 매일 따분하고 반복적인 일을 해 주셔야 해요. ex) You should be willing to do mundane and repetitive tasks on a daily basis. [mʌnˈdeɪn]
@@ -585,6 +591,8 @@
 	* 인생을 즐겨; Live a little
 * 그럴 리가 없다; That'll be the day
 * 덤	벼봐, 할 테면 해봐; Make my day = give me a cchance to back at you
+* 참고로 집에 생활비를 가져다주는 가장은 breadwinner라고 합니다. 
+	* 축구팬들은 그가 한국에게 좋은 성적을 안겨주리라 기대하고 있다. The soccer fans are relying on him to bring home the bacon for Korea.
 
 ## 운명
 * 운명을 다시 써보는 건 어때? WHy don't we rewrite the stars
@@ -599,3 +607,5 @@
 * 목욕; 나는 얼굴에 비누거품을 칠하고 면도를 하기 시작했다. I lathered my face and started to shave. 
 * 변기 시트 올려놨나? We left the toilet seat up?
 * 수도꼬지 잠글 줄 몰라서 이렇게 ㅐ놓은거야? THis is because some idiots couldn't turn the sinks off?
+* Lather, rinse, repeat 을 직역하면 [비누 거품을 내고, 헹구고, 반복] 이라는 의미로, 비누 거품을 내고 헹구고 내고 헹구고 하면 끝이 안나는 모습에서 나온 표현으로 어떤 행동이나 과정이 계속 반복되거나, 반복 되어야 할 때 쓰는 비격식 표현입니다.
+  * 걔는 항상 여자를 사귀면, 한 달 안에 헤어지고, 다른 여자를 만나. 항상 반복이야! ex) He always starts dating a girl, breaks up within a month, and meets another girl. Lather, rinse, repeat!

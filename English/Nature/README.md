@@ -48,6 +48,8 @@
 * 음식에 피는 곰팡이는 너무 다양해서; since so many types can sprout up on food
 * 빵 덩어리 전체가 균으로 가득찰 수 있따; the entire loaf could be teeming with fungus [ˈfʌŋɡəs]
 * 신선한 농산물을 수확하다; pick fresh produce
+* #trunk 1. 줄기 2. 코끼리 코 3. 대형 여행 가방; stem: 줄기; 줄기세포: #stem cell
+* #가지: #bough, #twig, 일반: #branch
 
 ## 지진
 * 진원지에서./; at the epicenter 미국식  영국식 ; épəsèntər]

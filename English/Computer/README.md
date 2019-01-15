@@ -1,6 +1,8 @@
 # 웹 하드
 * 웹하드 업체 -> 필터링 업체 -> 디지털 장의사(동영상 삭제); 양진호 사장 3개 ㅗ두 공용
 	* 이중 페이지 만들어 단속 회피
+* 요즘과 같은 정보화 시대에 특히 문제가 되는 것이 identity theft 일텐데요, 그 만큼 개인 정보(personal information) 관리에 철저해야 하겠습니다.  참고로 identity fraud 라는 말이 있는데요, ‘신분 사기’입니다. 남의 신분을 훔쳐서(identity theft) 그것을 가지고 실질적으로 사기 행각을 벌이면 identity fraud 가 되는 거죠. 
+  * 만약 보이스피싱 사기꾼에게 개인 정보를 넘겼다면, 은행은 당신의 계좌를 즉각 정지시킵니다. If you gave the phisher your personal information, the bank will immediately close your accounts.
 
 # 게임
 * 화면 돌려보죠; Let's switch over

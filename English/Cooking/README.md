@@ -81,6 +81,7 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 * 와나전 터져나오고 있어요; It's flipping exploding out
 
 # taste
+* 원래는 단맛, 쓴맛, 신맛, 짠맛 이렇게 4가지 맛을 가장 기본적인 맛으로 여겼는데요. 20세기 초에 일본인 교수가 '감칠맛' 이 글루타메이트 라는 물질에서 온다는 사실을 처음으로 과학적으로 증명을 했기 때문에, 그 이후로는 umami 를 영어에서도 그대로 쓰고 있습니다. 영영 사전에서는 savory taste 를 umami 라고 한다고 되어 있는데요. savory 같은 경우는 음식의 전체적인 [풍미] 와 관련이 있고, umami 는 그러한 풍미를 이루는 요소 중 하나이기 때문에 조금은 차이가 있습니다.
 * 고소하다; 똑같은 뜻은 없다; savory: 고소, 맛있다, 향이 좋다. flavory
 * 식욕을 잃다; lose one's appetite; 식욕이 없다; have no appetite
 * 차게 먹는게 나; It tastes better cold; taste good/better (when it's) cold
@@ -592,6 +593,7 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 * #점성	viscosity viskάsǝti/-kɔ́s-
 * 인도 음식을 처음 먹어 봐요. 	I've never had Indian before. 
 * 고기가 #탔어요. 	The meat is burnt.
+	* 밥이 약간 탔습니다; The rice got a little scorched
 * 감자를 너무 #튀겼어요. 	The fries are overcooked.
 * #끼니 거르지 마	Don’t skip your meals
 * ##밥이 #덜 익었어요. 	The rice is undercooked. 

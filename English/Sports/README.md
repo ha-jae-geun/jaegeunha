@@ -19,6 +19,7 @@
 * 경질; Jones has been axed/sacked from the team. 
 	* Mourinho was sacked as Manchester United manager; fired by Man United; Jose Mourinho has left the club
 	* 보류; 정부가 그 생각은 적어도 내년까지 보류했다. ㅊThe government has shelved the idea until at least next year. 
+* 기본; 2. 자동으로 부전승으로; by default
 
 # 골프
 * #골프장 이용료는 얼마예요? How much is the greens fee? 
@@ -82,9 +83,13 @@
 * I joined a club near my home
 * It’s his #signature move
 * #경기장: arena, battleground, #amphitheater(amphi; 주위에,)
-* #pitch; on the pitch
-* #미국 스포츠
-* ㆍ대학생들에게만 할당된 경기장이 있다.
+	* 원래 turf 는 [잔디]를 의미해요. 보통 축구, 야구 경기장 등에 까는 잔디를 turf 라고 하는데, 미국에서 비격식으로 쓰일 때는 자기가 일하는 곳이나 사는 [구역] 또는 폭력단의 [영역, 아지트]를 의미합니다. [영역 다툼, 밥그릇 싸움] 등은 turf war 라고 하니 참고로 알아두세요.; THis is our turf
+	* * 1. lap은 보통 경기에서 한 바퀴를 의미하는 표현인데 이 말이 동사로 사용되면 경쟁자보다 '앞서 나가다, 앞지르다'라는 뜻이 됩니다. 스포츠 경기적 측면에서 보면 한 바퀴 또는 그 이상을 앞지른다는 의미인데 구체적인 시간을 함께 언급하면 '얼마나 더 빠르게' 앞지르고 있다는 걸 나타냅니다.
+  * 마지막 경기에서 모두를 앞질렀다. [ex] I lapped everyone in the last round.
+  * = 너희들 내 구역에서 뭐하냐? What are you guys doing on my turf?
+	* #pitch; on the pitch
+	* #미국 스포츠
+	* ㆍ대학생들에게만 할당된 경기장이 있다.
 * #운동 #sport: 영국, sports: 미국; How often do you work out?
 * #work out(2. 해결하다; it didn't work out) > exercise
 * 2. even if things dont' quite work out; 일이 잘 되지 않다.

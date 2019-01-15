@@ -16,3 +16,6 @@
 
 # 기타
 * 유통기한이 지났어요; THis is past the expiration date
+
+# 빵
+* 사실 모양은 비슷하지만 머핀(muffin)은 주로 아침 식사용으로 먹는 빵이고, 컵케이크(cupcake)는 디저트나 간식용으로 먹는 mini cake입니다.; 또 맛에도 차이점이 있을 수 있어요. 머핀(muffin)은 재료에 따라 단 것도 있고 별맛 없이 밍밍한(bland) 것도 있지만, 컵케이크(cupcake)는 위에 frosting(icing)이라는 설탕 옷을 입히기 때문에 언제나~ 달아요.; S또한 반죽(batter)에도 차이가 있어서 컵케이크(cupcake)가 머핀(muffin)보다 질감이 더 부드럽고 촉촉하다고 합니다.
