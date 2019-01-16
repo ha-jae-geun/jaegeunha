@@ -26,6 +26,7 @@
 * 법화; Legal tender
 * 우린 깡통 찼다고. We ain't got a pot to piss in.
 	* 빈털털리야; i'm absoultely skint/broke
+	* the poverty level = 빈곤층; poverty line 이라고도 하는데요. 정부의 지원을 받아야 하는 빈곤층을 정의할 때 보는 한 달 수입을 의미하는 단어입니다.
 	* 존은 한때 부자였는데, 지금은 빈털터리가 되었다. Once wealthy, John is now down for the count. 
 	*  당신은 부자가 될 거에요.  You’ll be farting through silk; 비단 속옷은 부자만 입음
 	* 원래 filthy 는 [더러운, 추잡한] 이라는 의미가 있는 단어예요. 종종 rich 와 함께 쓰여 filthy rich 라는 단어를 쓰는데, 돈이 굉장히 많은 것을 의미합니다. ex) We'll be filthy rich with this new menu!

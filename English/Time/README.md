@@ -425,6 +425,8 @@
 * 걔는 이미 지난일이야.							 He is history to me.
 * 옛날이 좋았지! 그때가 좋았지! 						 Those were the days!!!
 * #파란만장한 과거; #checkered past; despite your checkered past
+	* 지나고 보니, 원래 계획대로 했어야 했어. ex) In hindsight, I should've stuck to the original plan.
+	* 그는 60년대의 노래들을 그냥 거의 그대로 반복하고 있다. He just rehashes songs from the 60s. 
 	* 과거의 일을 다시 체험하다 					 reliev the past/those moments
 	* 우리 사이 일은 다 지나간 일이에요.		 It's #water under the bridge between us.
 	* 과거를 들추지 말라.. 						 Don't bring up the past!

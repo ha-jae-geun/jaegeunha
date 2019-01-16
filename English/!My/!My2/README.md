@@ -2,6 +2,7 @@
 * 내가 망친거라면? Suppose i screwed up.
 * 빈말이 아니고, 정말 아름다우시네요. I'm not gonna lie. You look gorgeous. 
 * 'first and foremost'는 핵심이나 중요한 이유에 대해 강조하는 데 사용하는 표현입니다. '가장 중요하게는' '가장 근본적으로는' '다른 어떤 것보다도' 등으로 해석할 수 있겠네요.
+* 그는 가르치는 일도 좀 하지만 다른 무엇보다도 그는 작가이다. He does a little teaching, but first and foremost he’s a writer. 
 
 # 일상
 * 꼭대기 층 부탁해; Top floor, please

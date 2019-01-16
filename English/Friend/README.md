@@ -1,3 +1,5 @@
+* 우정; ‘이성간의 우정’을 cross-sex friendship이라고 하였습니다. 이 외에 male female friendship, friendship with the opposite sex 라고 표현할 수도 있습니다.  반대로 ‘동성간의 우정’은 그냥 friendship이라고 하거나, 이성간의 우정에 반대되는 개념으로 설명하려면 same-sex friendship 이라고 하시면 됩니다.
+	* 이성간의 우정에 대해서 믿니? Do you believe in cross-sex friendship?
 * 친구 만나; 1. 친구한테 친구 말할 때 i will meet up a friend / some friends(my xx) 2. 친구 소개; This is my friend Oliver
 * 우리 흩어져서 가야할것 같아; I think we should split up
 * 친구 Old/good sport, homies

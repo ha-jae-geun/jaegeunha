@@ -55,6 +55,9 @@
 # 거리
 * 가까운 거리; spitting distance = The Stephansdom is a stone's throw from the bus stop
 
+# 거울
+* 거울을 똑바로 맞추다; adjust the mirror
+
 # 거절
 * 직접적으로 말하는게 좋다; i'm afraid i can't; i'm afraid i won't be able to; i'm going to have to turn this down
 * deny : 과거에 있었던 어떤것(일)을 부정. 과거지향적인 '~ing(동명사)' 와 함께 쓰입니다. 'deny + 사람 + 명사' 형태로 쓰일 땐 사람이 명사를 갖지 못하도록 하다. 라는 의미 입니다. refuse : 앞으로 요청이나 제안 등을 하지 않겠다 또는 받아들이지 않겠다는 뜻으로, '거부하다, 거절하다' 의 의미로 쓰입니다. 부탁하는 상대에게 싫다고 말하는 것이죠. 미래지향적인 'to부정사'와 함께 쓰입니다.
@@ -70,6 +73,11 @@
 # 걷다
 * stride 는 [성큼성큼 걷다/성큼성큼 걷는 걸음] 을 의미해요. 그냥 단순히 걷는 게 아니라 보폭을 크게 앞으로 '나아가는' 의미이기 때문에 [진전, 발전] 이라는 의미로도 쓰입니다. make strides 로 많이 쓰이기에 함께 알아두세요!
   * 내가 제대로 된 방향으로 발전을 하는 거였으면 좋겠어. ex) Hopefully I'm making strides in the right direction.
+
+# 검소
+* be frugal = 검소하다, 아끼며 살다; * count pennies = 최대한 돈을 아끼다 * be stingy with money = 돈에 인색하다
+* frugal 은 검소하고 알뜰하다는 뜻으로 긍정적으로 쓰입니다. 반면 stingy 는 ‘쩨쩨한, 인색한’으로 베풀기를 싫어하고 좀스러운 부정적인 성격을 말합니다. 
+  * 쟤는 진짜 쩨쩨해서 놀러나가면 절대로 음료 한잔 안 산다니까.  He's really stingy and never buys anyone a drink when we go out.
 
 # 결정하다
 * 결정하는 데 있어서 좀 더 영향력을 미치거나 주도적으로 결정하는 것을 call the shots 이라고 합니다.	
@@ -98,6 +106,8 @@
 * 계약서를 써왔어; i've drawn up a contract
 * 동사로 쓰이면 [예약하다] 라는 뜻이 있는 건 익숙하실 거예요. 비슷한 뉘앙스로 영상에서처럼 오디션 같은 상황에선 영화나 연극 등의 출연을 [계약하다] 라는 의미로 쓰여요. 참고로, 수동태로 I'm booked. 라는 표현도 있는데요. 이를 직역하면 [내가 예약되어 있다] 라는 뜻이니, 무언가에 붙잡혀서 [꼼짝할 수가 없다/ 바쁘다] 라는 의미로도 쓰인답니다.
 	* 내 생각엔 우리가 다음 번 쇼에도 그와 계약을 해야할 것 같아. ex) I think we should book him for the next show as well.
+* 모든 계약금의 형태를 의미하는 단어는 아니예요. 주로 자동차나 집 같이 굉장히 비싼 물건을 '대출'을 받아 '할부' 로 사게될 때 처음에 걸게 되는 돈을 의미합니다. 보통 제품 가격의 5~20% 를 먼저 내게 되는데 이 돈을 down payment 라고 해요. 계약금을 의미하는 단어로는 deposit 이라는 단어도 있지만 이 단어는 [보증금] 이라고도 쓰여요. 예를 들어서 호텔에서 key deposit 이라고 하면, 열쇠에 대한 보증금으로 열쇠를 잃어버리지 않으면 돌려 받을 수 있는 돈이죠. 집의 구매가 목적이 아니라, 1년 계약을 하고 월세로 들어갈 때는 첫달 마지막달 보증금이 보통 있는데, 계약을 하고 집에 들어가기 전, 첫달과 마지막달 월세를 미리 내는 것을 deposit 이라고 합니다.
+  * 전 집 살 계약금을 저축해오고 있어요. ex) I've been saving for a down payment on a house.
 
 # 계획
 * 동사 devise 는 [고안하다, 계획을 짜다] 라는 뜻이 있는데요. 단순히 make a plan 보다 훨씬 더 꼼꼼하고 세부적인 것들을 포함한 계획을 짤때는 devise a plan 이라고 합니다. ex) Susan has devised an alternate plan.
@@ -138,11 +148,16 @@
 # 관심
 * 마카오가 홍콩보다 더 늦게 발전하였다는 것을 재미있게 표현하였네요. 여기서 나온 steal the spotlight는 ‘주목을 끌다, 관심을 빼앗다’를 의미합니다.  이와 비슷한 표현으로 steal one’s thunder 가 있는데요, 자신이 무언가를 하려던 참에 남이 선수쳐서 관심과 주목을 빼앗아 간다는 뜻입니다. 예를 들어 자신의 임신소식을 주변 사람에게 말하려고 했는데 그 전에 누군가가 임신 소식을 터뜨려서 본인이 관심을 받지 못하게 되는 상황이 이런 경우에요.
 * 보통 부정형으로 '…don't care about', '관심도 없고, 신경도 안 쓴다'라고 많이 쓰이는 표현인데요, 반대로 'care about'하면 무관심이 아닌, 무척 깊은 관심과 애정을 가지고 있다는 뜻이랍니다. 즉 'care about + 사람'하면 그 사람에게 신경을 쓰고, 관심을 가지고, 아끼고 위한다는 의미예요. 
+* ＊ It doesn't really do it for me. = 나는 별로 안끌려. / 나한테는 감흥이 없어.
 
 # 관점
 * standpoint는 직역하면 '서있는 지점, 장소'를 가리킵니다. 어떤 문제나 상황을 살필 때의 '관점, 입장'을 의미하죠.
 * - from a political/economical/historical/practical standpoint: 정치적/경제적/역사적/실용적인 관점에서 봤을 때
 	* 그의 입장에서는 꽤 거금이지. From his standpoint, it's pretty big money.
+
+# 구하다
+* 어딘가에 잠시 '들르다' 라는 의미로도 굉장히 많이 쓰이는 표현인데요. 영상에서처럼 무언가를 노력하여 [구하다]의 의미로도 많이 쓰입니다. 
+  * = 한정판을 어디서 구했니? How did you come by the limited edition?
 
 # 권리
 * * give up rights to -ing = -에 대한 권리를 포기하다 [right to 동사]는 ‘~할 권리’입니다.  
@@ -203,7 +218,8 @@
 # 낭비
 * [낭비하다] 라는 뜻을 본 순간 아마도 waste 를 떠올리셨을 것 같아요! 거의 비슷한 단어지만, 생긴 게 다른 만큼, 뉘앙스의 차이도 물론 있습니다. squander 의 경우엔 시간이나 돈을 조금 무분별하고 현명하지 못한 방식으로 낭비하는 것을 의미하는데요. waste 는 꼭 무분별하게 낭비한 것은 아닙니다. 또한 waste 가 조금 더 부드러운 표현일 뿐만 아니라 자주 쓰이죠. 예를 들어, 신중하게 생각하고 주식에 돈을 투자를 했으나, 얻은 것도 없고 오히려 주가가 내려서 손실을 봤을 때는 waste 한 것이고, 백화점에 갔는데 보이는데로 생각하지 않고 무분별하게 사는 것은 squander 한 것이라고 생각하시면 됩니다.
 	* 쓸데없는 거에 시간 낭비하지 마. ex) Don't squander your time on useless things.  [ˈskwɑːn-]  영국식 [ˈskwɒndə(r)] 
-
+* piss 는 [오줌을 누다] 라는 뜻인데요. 약간 비유적인 표현이에요. 무언가를 너무 많이 마시게 되면 몸에 다 담을 수 없는 양은 오줌으로 다 내보내버리듯 없애는 모습에서 나온 표현인데요. 무언가를 함부로 써서 [낭비하다, 날려버리다] 의 의미를 가지는 속어입니다.
+  * 카지노에서 번 돈을 다 날려버리곤 했는데, 지금은 안 그래. ex) I used to piss away all the money I earned at casinos, but not any more.
 
 # 내기
 * 돈을 걸고 내기를 할 때 쓰는 말이에요. [금액 says that…] 으로 금액이 얼마든 says that 은 고정입니다. 
@@ -219,10 +235,14 @@
 * ☆그냥 넘어갔어                                                  	I JUST #let it slide = let's #bygone be bygones
 
 # 노력하다
+* 1) 보통 [열심히 일하다] 라는 의미로 go into overdrive 라는 표현을 많이 쓰곤 하는데요. 여기선 어떤 상황들 (things) 를 차 넣는 (kick) 것을 연상하시면 됩니다. 
+  * 5연승을 하기 위해서 선수들은 그들의 기술을 가지고 굉장히 열심히 노력했다. ex) The players kicked their skills into overdrive to win the 5 consecutive games.
 * make effort; I will make every effort to solve the problem.
 * move mountains: 직역하면 '산을 옮긴다'는 뜻이지만, '산을 옮길 정도의 노력을 들이다'라는 뜻을 가져요.
 * [노력하다, 최선을 다하다]는 다양한 표현법이 있지만, 그 중에서도 [give (명사) everything you got] 은 원어민스러운 구어체 중에 하나입니다. 가지고 있는 모든 것을 내놓는다는 거니까 젖먹던 힘까지 다 짜낸다는 거죠. give 다음에 오는 명사는 노력을 쏟는 대상을 가리키는데요, 생략도 가능합니다.
   * = 넌 할 수 있어. 그냥 최선만 다 하면 돼. You can do it. Just give everything you’ve got.
+* 직역하면 '을 위해 슛을 하다' 인데요. 축구든 농구든 골을 넣어 점수를 얻기 위해선 많은 노력을 해야 합니다. 그런 모습에서 나온 비격식 표현이에요.
+  * 우리 모두는 이 일생에 한 번 있을법한 기회를 얻기 위해 노력해야 해. ex) We all need to shoot for this once-in-a-lifetime chance.
 
 # 눈치
 * 전혀 모르고 있어요; blind as a bat
@@ -326,6 +346,13 @@
 * : 발자취(footsteps)를 따른다는 것으로 ‘뒤를 따르다, 본받다, 뜻을 잇다’ 등으로 해석할 수 있습니다. 여기서 전치사 in을 꼭 써야 합니다. 만약 I followed his footsteps. 라고 하면 그의 발자국 소리를 듣고 뒤를 따라갔다는 것이기 때문에 의미가 달라져요.
 	* 나는 우리 언니의 뜻을 이어서 여학생 모임에 가입하려고 해. I am following in my sister's footsteps and joining the sorority.
 
+# 떨다
+* 기차가 지나갈 때는 온 집이 흔들린다. [V] The whole house shakes when a train goes past. 
+* 나는 겁이 나서 다리가 떨렸다. My legs were trembling with fear. 
+* 두려움에 몸을 떨며 폴리는 천천히 그 문을 열었다. Quaking with fear, Polly slowly opened the door; ~ (with sth) 사람이 (공포긴장감으로) 몸을 떨다[전율하다] 
+* 추워서/흥분되어/기쁨에 겨워 몸을 떨다 등 to shiver with cold/excitement/pleasure, etc. 
+* 기차가 지나갈 때마다 벽이 흔들렸다. [V] Every time a train went past the walls vibrated. 
+
 # 떨어뜨리다
 * fall은 낙엽이 떨어지다 라는 뜻입니다. 사람이나 사물이 스스로 떨어진다는 뜻도 있고요. fall은 자동사여서 뒤에 목적어(명사)가 올 수 없습니다. drop은 위에서 아래로 뚝 '떨어지다' 라는 뜻입니다.  drop + 목적어(명사) 형태: 목적어를 '떨어뜨리다'
   * The leaves are falling.   My baby fell down. The snow is falling outside! * (사랑에, 속임수에, 잠에)빠지다, 몰락하다 등의 뜻도 있습니다.
@@ -337,6 +364,8 @@
 * : 후보자 · 합격 대기자 명단에 오르다 I'm waitlisted at 대학교
 * * to-dos / to-do list = 해야 할 일들; What’s that on the wall? – Oh, that’s a list of to-dos and not-to-dos. My mom made it. 
 * 리스트에 있는 소품 다 삿니? Did you buy all the props from the list?
+* a list as long as one's arm : 굉장히 긴 목록
+  * 청구서 목록이 정말 끝도 없구나. ex) The list of bills is as long as your arm.
 
 # 마감
 * 마감기한; miss/meet/extend the deadline; The deadline for - is approaching
@@ -380,11 +409,14 @@
 
 # 모험
 * 나는 모험을 하고 싶지 않다. I don't want to skate on thin ice. 
+* life on the edge = 모험적인 삶; edge 는 [끝, 가장자리] 라는 뜻이 있어요. 난간이나 건물의 끝을 얘기할 때 주로 쓰이는데요. 그 끝에서의 삶은 굉장히 아슬아슬하겠죠? 그런 모습을 비유적으로 써서 [모험적인 삶] 을 의미하는 표현입니다.
+  * = 난 모험적인 삶을 사는 걸 좋아하진 않지만, 그렇게 사는 사람들에겐 매력을 느껴. I don't like to live life on the edge myself, but I'm attracted to those who do.
 
 
 # 목표
 * :  여기서 "sights"는 이루고자 하는 것, 목표를 말해요. '목표를 너무 높게 잡다, 야망이 과하다, 기대하는 것이 너무 많다' 라는 뜻이죠!
   * 목표를 너무 높게/낮게 잡은 것 같은데? [ex] It sounds like you're setting your sights too high/low.
+* 그녀는 승리를 목표로 했다. She set her sights on victory. 
 
 # 몸매
 * * get into shape = 몸매를 가꾸다, 몸을 만들다  stay in shape = 체력/건강/몸매를 유지하다  in a good(bad) shape = 건강/몸매가 좋은 (나쁜)
@@ -399,6 +431,8 @@
 
 # 문제
 * brain twister 혹은 brainteaser는 '어려운 문제'를 가리킵니다. 머리가 지끈거리도록 복잡한 추리소설이나 영화를 바로 brain twister라고 말할 수 있겠죠!^^
+* 원래는 '딸꾹질' 을 의미하는 단어입니다. 딸꾹질이 멈추기에 어렵고 성가시지만, 삶에 문제가 크게 되지는 않는 모습에서 [사소한 문제, 어려움] 등을 의미하게 되었습니다. * hiccup = 약간의 문제
+  * = 우린 지난주에 약간의 사소한 문제가 있었지만, 지금은 다 괜찮아. We had a few hiccups last week, but it's all good now.
 
 
 # 미루다
@@ -439,6 +473,8 @@
 
 
 # 받아들이다
+* 누군가의 사상, 의견, 태도 등을 받아들여서 자신의 사고방식으로 만든다는 뜻입니다. 이 외에 자신의 감정이나 기분을 겉으로 드러내지 않고 속으로 삭인다는 뜻도 있습니다.
+  * 시간이 지나면서, 그녀는 부모님의 행동을 따라하게 되었다. Over time, she happened to internalize her parents’ attitudes.
 * 그녀는 아직도 아들의 죽음을 받아들이려고 애쓰고 있다. She is still coming to terms with her son’s death.;  (좋지 않은 일을) 받아들이는 법을 배우다[받아들이려고 애쓰다]
 * accept : 생각이나 고민을 한 후 받아 들인다는 뜻으로 능동적, 적극적 의미, 부담되는 선물을 받을지 말지 고민 한 후에 써도 되겠네요^^ 남이 나에게 뭔가를 주기 때문에 가만히 있어도 나는 받게된다는 수동적, 소극적 의미. 보내는 사람의 의지가 받는 사람의 의지보다 더 강할 때 쓰이니다. 나의 의지와는 상관없는 열렬한 환영 등에도 쓰입니다.
   * I didn't receive the mail.  received a warm welcome from Jane's family.
@@ -473,6 +509,10 @@
 	* = 우리가 최종 라운드에 진출했을 땐 체력이 다 빠졌다. We were running on fumes when we made it to the final round.
 * : 기본적으로 어디까지, 또는 무언가를 '통과하다, 버티다'라는 뜻이에요. 이렇게 책을 '끝까지 읽다'라는 의미로 쓰기도 하고, 하루를 '버티다'라는 의미로 쓰기도 하죠. 다양한 예문으로 익혀보세요.
   * (나한테는) 커피가 하루를 버티는 데 도움이 돼. [ex] Coffee helps me get through the day.
+
+# 벌주다
+* damn 이 [저주하다] 라는 뜻을 가집니다. 보통 이 뜻 그대로 쓰이기 보다는 화가 났을 때 Damn you! Damn this car! 이런 식으로 쓰여 우리말로는 [빌어먹을 자식! 빌어먹을 차!] 정도로 해석이 되는데요. I'll be damned if 는 직역하면 [만약 ~ 한다면 전 저주받을 거예요] 로 해석이 됩니다. 따라서, 이런 짓을 하면 저주받을 테니 [절대로 하지 않겠다] 라는 뉘앙스가 강한 표현이지만, 영상에서는 직역한 문장이 좀 더 자연스러워 직역되었습니다.
+  * 그녀를 절대로 다신 만나지 않을 거야. ex) I'll be damned if I see her again.
 
 # 변덕
 * #변덕; the weather is so #changeable = #unpredictable = #fickle; tends to get fickle
@@ -509,6 +549,10 @@
 	* 걱정 마. 그녀는 당한 대로 갚아. Don't worry. She can give as good as she gets.
 * 복수; revenged his father(개인적 원한); avenged his father's death on the murder(정의의 실현); retaliate; 보복하다; retaliate aginast/for; their neighbors for the insult by playing loud music
 
+# 본색
+* 본색을 드러내다. 진면목을 보여주다. = show one's true colors
+  * 매니저가 된 후 그는 마침내 본색을 드러냈다. ex) He finally showed his true colors after becoming a manager.
+
 # 봐주다
 * pass 가 [합격] 또는 [통행증]을 의미하는데요. 걸리는 것 없이 그냥 지나가는 모습에서 나온 표현입니다. 어떤 잘못을 했는데 한소리 듣거나 처벌 없이 넘어갈 때 쓰는 표현이에요. [이번엔 봐줄게]라고 말하고 싶을 땐 I'll give you a pass. 라고 할 수도 있어요.
   * = 사장이 그녀의 아빠라는 이유만으로 또다시 그냥 넘어갔어. She got a pass again just because the boss is her father. 
@@ -520,6 +564,10 @@
 * 부족하다; you're 23$ short
   * be/run short on; be short of 명사; be running short on money
 
+# 부풀다
+* 가스나 액체 등에 의해서 부풀어 오르는 것을 의미합니다. 비슷한 의미의 swell 이라는 단어가 있는데요. bloat 는 주로 사람에게만 쓰이는 반면 swell 의 경우엔 사물과 사람에 모두 쓰일 수 있고, bloat 의 원인이 가스나 액체인 반면, swell 의 경우엔 멍 때문에 부풀어 오르거나 발목이 삐어서 부풀어 오를 때도 쓸 수 있는 단어입니다. 영상에서처럼 bloating 은 가스나 음식에 의한 [복부팽만] 또는 [더부룩함] 을 의미해요.
+  * 속이 더부룩한데 어떤 약을 사야 할까요? ex) Which pill should I buy for my bloating?
+
 # 분야
 * 내 분야 아니야; expertise; area of expertise; be one's specialty/bag
 
@@ -527,6 +575,8 @@
 # 불만
 * rant는 감정적으로 격앙되어서 큰 소리로 소리지르거나 주저리 주저리 불평하는 것을 의미합니다. 몰래카메라에서 나온 남자는 아이들에게 흡연의 폐해에 대해 아이들에게 이러쿵 저러쿵 쉬지 않고 떠들고 있기 때문에 ‘설교’라고 해석한 것입니다.  한 단계 더 강조해서 rant and rave 라고 하기도 하는데요, 계속 큰 소리로 고함지르고 불평한다는 뜻입니다. 
 	* 그녀는 항상 정부가 불공평하다며 불평을 해댄다. She is always ranting about the unfairness about the government.
+* First World problem = 배부른 불평, 불만; 부유한 선진국들을 First World 라고 하는데요. 딱히 의식주 걱정이 없는 상황에서 생기는 사소한 문제, 불평들을 지칭하게 된 속어입니다.
+  * = 그게 배부른 소리라는 건 알지만 문제는 문제잖아. I know it's a First World problem, but it's still a problem.
 
 # 비교
 * 1) 비격식 표현으로 주로 전치사 against 와 함께 쓰여 [와 견줄만하다] 라고 해석이 되요. 주로 의문문이나 부정문에 쓰이는 표현입니다. 2) 영상에서는 뒤에 against humans 가 생략이 된거라고 보시면 되는데요. 직역하면 [전세계의 다른 동물들을 인간과 비교해보면 어떨까요?] 의 의미를 가집니다.
@@ -619,6 +669,8 @@
 	* = 그게 일반적 통념이라는 건 알지만, 그게 모든 상황에서 항상 옳다는 걸 의미하진 않아. I know that's conventional wisdom, but it doesn't mean that it's always right in every situation.
 
 # 설명
+* 대략 알려주다, 설명해주다. = give a rundown rundown 은 요점별로 하는 대략적인 설명을 의미해요. 바로 뒤에 이어서 나오는 영상을 보시면 시간 별로 일론 머스크가 무슨 일을 하는지 대략적인 설명이 나옵니다. 뒤에 전치사 on 과 함께 쓰여서 [~에 대한 대략적인 설명] 이라고 표현할 수 있어요.
+  * 내일 있을 회의에 대해서 간단히 설명 좀 해주시겠어요? ex) Can you give me a rundown on the meeting tomorrow?
 * 무대 위의 스포트라이트나, 어두운 밤바다를 비춰주는 등대를 상상해 보면 이해가 빠를 것 같습니다. 직역하면 어떤 것이 잘 보이도록 빛을 환하게 비춰준다는 것인데요, 비유적으로 실상을 보여주다, 남의 이해를 돕기 위해 설명을 해주다, 정보를 제공하다 등 다양한 뜻으로 쓰이는 표현입니다. shed light on = 정보를 제공하다, 설명하다, 실마리를 제공하다, 드러내다
 	* 최근에 진행된 연구는 그 질병의 원인을 밝혔다. Recent research has shed light on the causes of the disease.
 * 형용사로 쓰여도 비슷한 뉘앙스로 [정교한, 공을 들인] 이라는 뜻을 가지는데요. 디테일 하게 만드는 뉘앙스의 단어에요. 보통 회의 같은 곳에서 현재 논의되고 있는 사안에 대해서 [좀 더 자세하게 설명해주시겠어요?] 라고 물을 때 정말 많이 쓰이는 표현입니다. ex) Can you elaborate on that please?
@@ -654,6 +706,9 @@
 # 솔직
 * brutally honest 를 직역하면 [잔인하게 솔직한] 정도로 해석이 되는데요. 누군가 듣기에 잔인할 정도로 상대방의 감정을 배려하는 것 없이 솔직한, 즉 팩트 폭격을 날릴 때 쓰는 표현이에요. 기본적이며 가장 흔하게 쓰이는 관련 표현으로는 to be honest with you 또는 honestly = [솔직히 말하면] 이 있으니 함께 알아두세요.
 
+# 수습
+* 수습해주실 수 있어요? Could you pick up the pieces for me?
+
 # 수준
 * 네 수준으로는 나조차 못이길거야; YOu can't even defeat me in your current state
 * 여기서 bar는 ‘수준’을 의미하기 때문에 high bar는 ‘높은 수준, 높은 경지’가 됩니다. 이성에 대한 기준이 너무 높거나, 직업을 고를 때 너무 눈높이가 높을 때도 쓸 수 있습니다. 반대로 low bar는 ‘낮은 수준, 낮은 눈높이’를 뜻합니다. 
@@ -676,6 +731,7 @@
 * 이 작은 마을에서 나와서 시야를 넓힐 시간이야. ex) It's time to get out of this small town and broaden my horizons.
 
 # 시작
+* ground-breakers = 개척자, 창시자, 독창적인 것; 땅을 깨부수고 천지를 개벽할 만큼 놀랍고도 획기적인 일을 하는 사람을 groundbreaker 라고 합니다. 혹은 groundbreaking 처럼 형용사로도 쓰는데요, ‘획기적인, 독창적인’을 의미해요.
 * 1. 시작할 준비가 되었다, 이제 막 시작하겠다 
   * 자, 시작해보겠습니다! [ex] Okay, here we go!
   * 2. 무언가를 찾았을 때 하는 말
@@ -685,6 +741,9 @@
 
 # 시차
 * 시차 적응하려고 노력중이야; Just fighting off some jet lag
+
+# 시행착오
+* 많은 약품들이 시행착오를 거쳐 개발되었다. ex) Many drugs were found by trial and error.
 
 # 실패
 * #실패로 돌아가다; reach #hit rock bottom = #sink into complete failure
@@ -746,6 +805,8 @@
   * 선생님들이 수학 공식을 우리에게 주입시켰다. ex) The teachers drilled the math formulas into us.
 
 # 영향
+* a sphere of influence = 영향권; sphere 는 원래 동그란 모양의 [구] 또는 구처럼 무언가를 둘러싸고 있는 [영역] 을 의미하는데요. a sphere of influence 는 [영향권] 을 의미하며 sphere 라는 단어가 가장 흔하게 쓰이는 표현 중에 하나입니다. 통째로 숙지해 두시길 바라고요.
+  * = 많은 단체들이 세력권을 위해 다투고 있습니다. Plenty of groups are fighting for spheres of influence.
 * a ton of 은 무언가가 [굉장히 많은] 을 의미하는 비격식 표현인데요. 실제로 벽돌 (brick) 이 1톤 정도 자기 주변에 있다고 생각하면 아주 무겁고 답답하고, 힘들고 그럴 거예요. 그래서 la ton of bricks 는 [갑작스럽고 중요한 영향] 정도로 해석이 됩니다. 영상에서는 동사 [go over = 특정한 반응을 이끌어내다] 와 함께 쓰여서 직역하면 [용돈을 줄인 건 엄청난 영향을 이끌어냈다] 정도로 해석이 되지만 의역하여 [딸은 충격에 휩싸였죠] 로 해석이 되었습니다.
 	* 그 진실이 내겐 큰 충격으로 다가왔다. ex) The truth hit me like a ton of bricks.
 * =[ 숙어 ] rub off on somebody : (다른 사람의 특징, 습관, 견해 등이) 에게 옮다, 물들다, 영향을 주다
@@ -798,6 +859,9 @@
 # 요약
 * ☆#요약: #To sum up/ In summary = #for short = #for brevity's sake(#sake)
 
+# 욕
+* 너 자신한테 욕하면 안 되지; You can't bad mouth on you
+
 # 욕심
 * 직역하면 [눈이 배보다 더 크다] 라는 재밌는 표현이에요. 기본적으론 다 먹지도 못할 음식의 양을 욕심내는 건데요. 자기가 다룰 수 있는 것보다 많이 원하고, 욕심이 과해지는 걸 의미하는 속어입니다. stomach 대신 belly 를 쓸 수도 있어요.
   * = 걔는 항상 욕심이 과해. His eyes are always bigger than his stomach.
@@ -834,6 +898,9 @@
 # 유효
 * 어떤 한 가지 경우가 다른 것에도 동일하게 적용되거나, 어떤 규칙, 상황 등이 다른 경우에도 여전히 유효할 때, hold true라고 합니다. 
   * 이 규칙은 모든 경우에 항상 유효합니다. This rule holds true all the time.
+
+# 의도
+* 좋은 의도였던 건 분명해; It's obvious that they meant well
 
 # 의외로
 * ☆#의외로; people asked #surprisingly very private question + like it was nothing
@@ -949,6 +1016,10 @@
 * 전기가 갑자기 나갔다; The light went out all of a sudden
 * 그냥 꽂으면 되네요; You just plug it up
 
+# 제외
+* A 를 고려 사항에서 빼다. 제외하다. = take(leave) A out of the equation.
+  * 지금은 그걸 제외해서 생각하는 게 좋을 것 같아. ex) I think we'd better take it out of the equation for now.
+
 # 제출
 * 제출하다; submit: 이메일, 택배, 온라인, 파일첨부 때도 사용 가능 
   * turn in, hand in: 자기가 직접 제출할 때
@@ -989,6 +1060,10 @@
 # 준비
 * 준비 다 됐니? You all set
 * 성공적인 행사 진행을 위해 우리는 만반의 준비를 갖추었다. For successful event progress, we got our ducks in a row. 
+
+# 줄타기
+* walk (on) the tightrope = 줄타기 하다; 실제로 ‘줄타기 묘기를 하다’, 그리고 비유적으로 ‘아슬아슬한 상황에 처하다’를 의미합니다. 줄 위에 올라타는 거여서 on 이 붙었는데요, 생략도 가능합니다.
+  * 곡예사가 외줄타기를 하고 있었다. The acrobat was walking on a tightrope.
 
 # 중요
 * 중요한 것은; All that matter is
@@ -1049,12 +1124,17 @@
 
 
 # 책임
+* helm 은 선박의 키를 의미합니다. 가장 중요한 자리이죠. 또한 burgeoning 은 [급증하는/급성장하는] 이라는 의미를 가지고 있습니다.
+  * 올가가 그 은행 지점을 책임지고 있습니다. ex) Olga is at the helm of the bank branch.
 * 범죄자들은 그들의 행동에  책임을 져야 할 것입니다; The criminals are held responsible for their actions
 * 여기서 get away with 는 '한 짓을 하고도 넘어가다, 책임을 면하다' 라는 뜻의 관용구예요.
 	* 어떤 사람들은 거짓말 하고도 그냥 넘어갈 수 있을 거라 생각하지. Some people think they can get away with lying.
 * 원래는 [hold 사람 accountable for] 의 패턴으로 쓰여서 [~에게 ~의 책임을 지우다] 라는 의미로 쓰이지만, 영상에서처럼 수동태로도 자주 쓰여요. responsible 이랑 비슷한 단어인 [책임이 있는] 이란 의미의 accountable 은 무언가가 잘못되었을 때 자신의 행동에 대해 "설명을 제공해야 하는" 의무를 포함하는 책임입니다. 그래서 무언가를 "끝내야" 하는 responsible 과는 조금은 다릅니다.
 	* 너 자신의 행동에 책임을 져야만 해.  ex) You should be accountable for your own actions.
 
+
+# 체면
+* 체면을 잃다, 평판이 깎이다 = lose face
 
 # 초급
 * 초급 수준으로 가르쳐주실 수 있나요? Could you teach me something very elementary
@@ -1128,6 +1208,7 @@
 
 # 포기
 * 포기 하는 것을 배운다; we learn to quit
+* 담배를 딱 한대만 하는 유혹에 넘어가지 마세요. Don ' t succumb to the temptation to have just one cigarette 
 
 # 표준
 * 표준어; Standard american English
@@ -1222,6 +1303,9 @@
 # 희생
 * 무언가에 공격을 받거나, 죽임을 당할 경우에도 쓰고, 어떤 상황에 의해 굉장히 안좋은 영향을 받는 경우에 쓰는 표현이에요.
   * 어느 누구도 학교 범죄의 희생양이 되지 않게 하겠어.ex) I'm not going to let anyone fall victim to a school crime.
+
+# 힌트
+* 어려운 손님을 다룰 때 매니저로부터 힌트를 얻어. ex) I take my cue from my manager when dealing with a tough customer.
 
 # 힘
 * ※ 명사 might는 '힘'을 뜻하는 말인데 power, strength에 비해 일상에서 자주 쓰이는 표현은 아니에요. with all one's might은 꽤나 자주 쓰이니 통으로 알아두세요! ※ 명사 might는 '힘'을 뜻하는 말인데 power, strength에 비해 일상에서 자주 쓰이는 표현은 아니에요. with all one's might은 꽤나 자주 쓰이니 통으로 알아두세요!; with all one's might: 온 힘을 다해

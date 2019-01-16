@@ -220,10 +220,14 @@
 
 
 ## 인종
+* race 는 백인, 흑인, 황인과 같이 주로 ‘생김새’를 말하고, ethnicity  [eθˈnɪsəti]  는 언어, 종교, 생활 방식 등과 같이 ‘공통된 문화’에 기초하여 구별하는 말로 범위가 더 넓습니다. 예를 들어 아시아계 미국인은, 한국인과 race는 같지만 ethnicity는 같지 않다고 볼 수 있습니다.  영상 제목에도 multiethnic couples 라고 나와있는데요, 각자 다른 나라, 다른 문화권에서 온 커플들이라는 뜻입니다. 
+	* 중국에는 많은 민족 집단이 있다. (ethnic: ⓐ민족의) There are many ethnic groups in China.
 * #4인조; #foursome
 * black guy/black dude/ #homes
 #hurl at; 욕설을 퍼붓다; a woman hurled racist insults at him
 * #shade; 인종을 초월한 다양한 유형의 #노동자
+	* 예전에는 유색 인종을 "colored people" 라고 표현하기도 했는데요. 시간이 지나며 부적절하다고 생각하는 사람들이 많아졌고, 불쾌하고 모욕적으로 받아들이기도 합니다. 이제는 'a person of color'라고 표현하는 편이랍니다. 이 부분에서 볼 수 있듯이 스스로를 지칭할 때 쓸 만큼 용인되는 표현이죠!
+		* 저는 양성애자예요. 유색인종이기도 하죠. [ex] I identify as bisexual, and I'm also a person of color.
 * 1. nigga(negro: 아프리카계 흑인 지칭; 아픈 역사, negro 비하) 2. Can I refer to you as African American or Black 3. You look like Beyonce, Will Smith 4. Can I touch your hair? 5. Where in africa is your family from? 
 * 1/8 흑인 i'm one-eighth black?f
 * 흑인처럼 말하지마; don't talk black to me

@@ -597,6 +597,7 @@
 ## 운명
 * 운명을 다시 써보는 건 어때? WHy don't we rewrite the stars
 * 기적이 일어난다면; if the stars align
+* as fate/luck would have it = 운명처럼, 하필이면
 
 # 화장실
 * 화장실 써도돼? Can i use/go to the bathroom?

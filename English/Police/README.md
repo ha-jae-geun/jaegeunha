@@ -359,6 +359,8 @@
 * #sin#; #commit a sin, #crime
   * 잔인한 vicious little word, vicious attack/dog
 * [ 숙어 ] hole up: (비격식) 숨다
+  * ＊ hidden in plain sight = 의외로 평범한 곳에 숨은
+    * = 귀중품을 잘 보이는 곳에 놓지 마세요. (*in plain sight: 잘 보이는 곳에 드러낸) Don't leave your valuables in plain sight.
   * 어디 안전한 곳을 찾아서 아침까지 숨어있도록 하자. Let's find some place safe and hole up until the morning.
   * [hide+명사]는 ‘(명사)를 숨기다’, [hide from+명사]는 ‘(명사)로부터 숨다, 피하다’입니다. 많은 사람들이 포르노를 보고 흥분한다는 그 사실로부터 도망/회피/외면하지 말자고 얘기하고 있습니다. 
   * 우리가 큰 실수를 저질렀다는 사실은 피할 수 없겠죠. We can’t hide from the fact that we’ve made a huge mistake.
@@ -387,7 +389,9 @@
   * 징계 조치를 내리다; #take a #disciplinary action
   * #영장 있어요? 								 Do you have a warrant?
   * #수색 영장 #search warrant =
-  * #체포 영장 #arrest warrant(#warrant)
+    * #체포 영장 #arrest warrant(#warrant)
+    * * * pat down  1. 몸 수색을 하다. 2. 가볍게 두드리다. 불법적인 무기나 마약 등을 소지하고 있는지 몸을 훑어가며 수색하는 것을 의미합니다. 보통 공항 보안 검색대에서 출국할 때 하는 검사를 생각하시면 됩니다!
+  * 공항 보안이 내 몸수색을 했는데 그의 손길이 ex) The airport security guy patted me down and I felt a bit uncomfortable with his touch.
   * 약간 죄같은거네									 It’s like sin
   * Qualms: #꺼림찍함; I can drink without qualms
   * #죄책감을 느끼거나 하면 안된다는것을 알지만 자신에게 #만족감을 가져다주는 것 또는 그러한 행위 

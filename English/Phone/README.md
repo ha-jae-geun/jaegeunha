@@ -96,6 +96,8 @@
  * 나 사진 올렸어, 좋아요 눌러줘 					 I uploaded a photo, press 'Like'
  * 나 이거 공유하려고 							 I'm oing to share this
  * 포토샵 했어? 							 Did you photoshop that picture?
+ 	* 포토샵 수정 기능 중에 컬러 스프레이로 연하게 수정하는 기능을 airbrush 라고 하죠. 동사로도 쓰여서 [에어브러시로 수정하다] 의 의미를 가지지만, 꼭 에어브러시가 아니더라도 [뽀샵질 하다] 정도로 알아두셔도 좋습니다.
+ 		* 사진 찍은 후엔 꼭 이걸 해야지. 뽀샵! ex) This is a must-do after taking a picture. Airbrush!
  * 좋아요 											 #upvote
  * #팔로우 했어 									 I followed him
  * #맞팔했어 								 We followed each other

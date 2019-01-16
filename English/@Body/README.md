@@ -484,6 +484,8 @@ I work out my guns every day
 	* #어깨동무 사이즈가 #딱이다 my arm #fits your shoulder
 	* 어깨 힘좀 빼야겠다; you need to take the #chip off your shoulder
 	* 어깨를 나란히 하ᄃᆞ; rank (with)
+	* shrug는 동사로써 어깨를 으쓱하는 움직임을 나타내는 단어인데요. 이 제스처는 모르는 시늉을 하거나 어떤 일을 가볍게 여길 때 쓰는 몸동작이죠? 여기에 부사 off를 붙여 shrug off라고 쓰게 될 경우 어떤 일이나 생각을 대수롭지 않게 취급한다는 표현이 돼요. 영상에처럼 '낙태'는 중대하고 힘든 결정이기에 쉽게 'shrug off' 할 수 없는 일이라고 말하면서 쓰였네요.
+		* 그는 부상을 대수롭지 않게 생각하고 계속 경기를 했다. [ex] Shrugging off his injury, he played on.
 * 팔씨름 하자.								Let's arm wrestle. 
 * #팔씨름
 * 그 친구들이 팔짱을 끼고 춤추는걸 봤어요.			 I saw them dancing #arm in arm.
@@ -574,7 +576,9 @@ build your core muscles
 	both knees are on the floor
 	are you on your knees?
 	* #무릎 보호대; #knee pad
-	* ^^#knee; 관절
+	* ^^#knee; 
+* 관절; crack knuckles = 손가락 관절을 꺾다
+	* “우두둑, 똑깍!”처럼 뭔가 부숴지는 소리를 내는 것을 crack 이라고 합니다. 호두깎이 인형도 영어로 the nutcracker 라고 하죠. 호두를 깰 때 으드득 소리가 나니까요. 
 * #lap; 허벅지 상단부분; 무릎 위에 앉어 할 때 무릎 2. laptop
 His sudden smile made her go #weak at the knees. ; 2. 약한
 * 그의 갑작스런 미소에 그녀는 무릎에 힘이 빠지는 기분이었

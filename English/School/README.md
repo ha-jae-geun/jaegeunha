@@ -212,6 +212,7 @@
 * 저 #숙제 많아요.					 I have a lot of #homework.(s X)
 * 셀 수 있는; homework assignment
 * 1학년년 때는 같은 #기숙사 살았다 	 The 1st year, we were in this half of residence
+	*  기숙학교 = boarding school
 * live in a dormitory
 * #1학년입니다. 								 I'm in my first year
 * 몇 #학년입니까? 			What year are you in? = what grade are you in?

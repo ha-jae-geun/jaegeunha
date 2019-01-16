@@ -12,6 +12,7 @@
 	* #피자 가게; #pizzeria
 	* 맥시코 음식점; Mexico Joint
 	* 가족 대대로 운영하는 홍콩의 숨겨진 딤섬 맛집 같은 곳; Kind of hole in the wall, family run dim sum restaurant
+	* 부페; 원하는 만큼 먹을 수 있는 무제한 부페는 unlimited buffet 혹은 좀 더 구어체스럽게 all-you-can-eat buffet/restaurant 라고 부릅니다.
 * 스튜를 잘 배분해야해; we have to ration out the stew
 * 저는 안먹어요; None for me
 	* * - 뺴주세요; Please hold -

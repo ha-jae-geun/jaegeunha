@@ -838,6 +838,7 @@
 	* I feel like a weight has been lifted.
 	* ##부담 #폐 #압박 #짓누루다
 * 왜 또 징징거려? 							 Why are you whining again?
+	* 그녀는 모든 게 너무나 불공평하다고 항상 넋두리를 한다. She’s always whingeing about how unfair everything is. 
 	* 징징거린다; be a big baby about it; you'd be a big baby about it
 	* #징징
 * #전력투구, 굳건한 #dead #set on; he is dead set on becoming an actor

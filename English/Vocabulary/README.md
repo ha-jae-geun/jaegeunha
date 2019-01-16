@@ -227,6 +227,8 @@
 
 ## act
 * 일탈하다; i've been acting out
+* = 를 행동으로 옮기다, ~대로 행동하다, ~를 따르다  1) act on +명사
+  * 나는 내 변호사들이 조언해 준대로 따르고 있어. I’m acting on the advice of my lawyers.
 
 ## awkward
 * 절친 A 와 그냥 그런 친구 B 와 함께 밥을 먹다가, 갑자기 절친 A 가 화장실 간다고 가버렸을 때! 그냥 그런 친구 B 와 할 말도 없고, 왠지 말을 꺼내자니 무슨 말을 해야할지도 모르겠고, 그냥 밥을 먹자니 좀 그래서 말 한마디 던졌는데 반응이 미적지근하고! 그래서 기분이 굉장히 불편하고 빨리 절친 A 가 돌아오기만을 기다리고! 그런걸 표현하는 단어가 바로 awkward silence 에요. awkward 자체에 [(불편하게) 어색한] 이라는 의미가 있거든요. awkward silence 는 대화 중에 불편하게 이어지는 침묵을 의미하는데요. 아무도 말을 안하니 조금 불안하고, 불편하고, 왠지 말을 해야 할 것 같은 압박은 있는데 무슨 말을 해야할지 모르는 상황을 의미하는 단어입니다.
@@ -347,6 +349,9 @@
 ## benefit
 * = 속는 셈 치고 믿다, 유리하게 해석하다  give someone the benefit of the doubt 2) 그렇지만 단어를 하나하나씩 뜯어본다면, 듣는 사람이 말하는 사람의 말을 완전히 다 믿지는 않기에 의심(doubt) 을 하지만, 그중에서 그럴싸한 내용을 믿는다던가 최대한 긍정적으로 그 말을 해석을 함으로써 말하는 사람에게 혜택(benefit) 을 주는 모습에서 나온 표현입니다.
 	* = 이번엔 그냥 속는 셈 치고 한 번 믿어봐. Just give me the benefit of the doubt this time, please.
+
+## bridge
+* 불가능한 일, 무리한 일 = a bridge too far
 
 ## bring
 * bring it on은 우리말로 ‘덤벼’로 번역되는데, 풀어 설명하면 ‘너가 가진 것이 무엇인지 내놔봐라’라는 의미입니다. 너가 가진 것, 즉 너의 능력/배짱/힘 등이 얼마나 되는지 한 번 볼 테니 꺼내 보이라는 겁니다. 혹은 특정한 대결 상대가 없이, 힘든 상황이나 도전적인 일을 맞이할 준비가 되었다고 할 때도 Bring it on!이라고 합니다. 그 힘든 상황이 나에게 무엇을 가져다 주던 간에, 나는 준비가 되었다는 뜻입니다. 
@@ -474,6 +479,8 @@
 
 ## check
 * #check in on; 어떻게 지내는지 확인하는 그림, #check in with; 결정을 내리기 전 확인
+* 을 저지[억제]하다 hold/keep something in check 미국식  영국식   단어장추가
+  * i'm keeping her in check
 
 ## chance
 * 어림도 없죠; Not a chance
@@ -489,6 +496,10 @@
 
 ## compromise
 * 위태로워진 재정상태로 인해 due toe compromised funding
+
+## crop
+* 보통 학교 다닐 때는 [수확하다] 라고 단어를 외우는 단어인데요. 수확하는 행동도 생각해 보시면 잘라내는 행위입니다. 그래서 crop 은 길게 자란 무언가를 잘라내는 행위를 떠올리시는 게 조금 더 정확하고요. 그래서 [머리를 짧게 깎다], [동물이 풀을 뜯어먹다] 라는 의미를 갖기도 한답니다. 사진을 찍고 나서 수정할 때 사진의 '끝부분' 을 잘라내는 것을 crop 이라고 합니다. 또, 요즘 유행하는 '크롭탑'도 짧게 잘랐다는 의미에서 crop top입니다!
+  * 사진 아래 부분을 잘라내는 게 어떨까? 너무 지저분해 보인다. ex) Why don't we crop the bottom of this picture? It looks so messy.
 
 ## cross
 * 리스트에서 그건 뺴자; Crossing that one off the list; cross off: 줄을 그어 지우다.
@@ -613,6 +624,10 @@
 ## devil
 * 논의가 이어지게 하려면 흔히 인터뷰 진행자가 선의의 비판자 노릇을 할 필요가 있다. Often the interviewer will need to play devil’s advocate in order to get a discussion going. 
 
+## damn
+* damn 이 [저주하다] 라는 뜻을 가집니다. 보통 이 뜻 그대로 쓰이기 보다는 화가 났을 때 Damn you! Damn this car! 이런 식으로 쓰여 우리말로는 [빌어먹을 자식! 빌어먹을 차!] 정도로 해석이 되는데요. I'll be damned if 는 직역하면 [만약 ~ 한다면 전 저주받을 거예요] 로 해석이 됩니다. 따라서, 이런 짓을 하면 저주받을 테니 [절대로 하지 않겠다] 라는 뉘앙스가 강한 표현이지만, 영상에서는 직역한 문장이 좀 더 자연스러워 직역되었습니다.
+  * 그녀를 절대로 다신 만나지 않을 거야. ex) I'll be damned if I see her again.
+
 ## dance
 * 어떤 문제나 주제에 대해 명확히 이야기 하지 않고, 이야기 하는 것을 피하다 = dance around an issue/subject 직역하면 '~ 주변을 돌며 춤추다' 인데요, 어떤 특정 얘기를 안 하려고 피하는 몸짓이 춤동작 같다고 상상하면 기억하기 쉬울 것 같아요!
 
@@ -622,6 +637,10 @@
 
 ## due
 * 당신의 요구 사항은 적절한 때에 처리하겠습니다. Your request will be dealt with in due course. 
+
+## dibble
+* 을 잠깐 해보고 있어요.  = I'm dibbling dabbling in ~ 무언가를 잠깐 동안 깨작깨작하듯이 해보는 것을 dabble in 이라고 합니다. 보통 스포츠나 취미 활동 등을 조금씩 해 볼 때 쓰는 표현인데요. dibble dabble 은 좀 더 비격식 표현으로 약간 말장난, 언어유희를 하듯이 말할 때 쓰는 표현이에요. 
+  * 주식 좀 잠깐 해보고 있어. (= 주식에 조금 투자하고 있어.) ex) I'm dibbling dabbling in stock market.
 
 ## dip
 * 이용자 참여  우리는 상황을 알아 보았다  Dipping our toes in the water . 듣기
@@ -786,6 +805,8 @@
 	* = 거기에 그렇게 제법 큰돈을 들일 필요는 없어. You don't really have to spend a small fortune on it.
 
 ## foot
+* 발을 들이다, 들어가다  = set foot on (in)
+  * 누구도 아직 화성에 발을 들인 사람은 없다. ex) No man has set foot on Mars yet.
 * 어떤 비용을 지불하고, 부담한다는 뜻으로, 대개 누군가가 다른 사람을 대신해 큰 비용을 다 부담하고, 내야하는 경우에 사용해요. 여기에서 'foot'은 'pay'에 가까운 의미예요. 
 	* Who's going to foot the bill for all the repairs? 
 * 앉아서 쉬세요; Put your feet up
@@ -928,6 +949,7 @@
 * : 경계를 한 상태다/ 경계를 푼 상태다 - one's guard is up/ down 
   * : 경계를 하다/ 풀다 - put one's guard up/ down 
   * : 경계 상태를 유지하다/ 경계 상태를 풀다 - keep one's guard up/ drop one's guard 
+* 내가 사임하고 싶다고 말했을 때 그를 놀라게 한 것 같아. ex) I think I caught him off guard when I said I wanted to resign. * catch someone off guard : 놀라게하다.
 
 ## gun
 * : 직역하면 '총을 연달아 발포하며'라는 뜻으로 어떤 일을 전력을 다해, 공격적으로 하는 모양을 묘사하는 데 사용합니다.
@@ -936,10 +958,16 @@
 ## grow
 * 길이, 크기, 부피 전체가 다 커지는 그림
 * outgrow: 하기엔 너무 큼
+* 성장하면서 (grow) 무언가의 밖으로 (out of) 벗어나게 되는 뉘앙스에요. 특정 행동, 성격, 관심사 등이 성장하거나 철이 들면서 없어지는 것을 의미합니다.
+  * 언제 그런 철없는 행동에서 벗어날래? ex) When are you going to grow out of that childish behavior?
 
 ## ground
 * 'ground'는 '땅, 토양' 뿐 아니라 '분야, 영역, 화제'와 같은 추상적인 것도 지칭할 수 있는 단어입니다. 거기에서 'common ground'의 '타협점'이라는 의미가 나왔죠. 주로 대부분의 것에 반대하는 사람들이 이해관계·입장등을 공유하게 되었을 때 사용한답니다. 'middle ground'로도 호환해서 사용할 수 있어요.
   * 협상은 어떤 절충안을 수립하는 것에도 실패했다. [ex] Negotiations have failed to establish any middle ground.
+
+## genius
+* 누구나 ~ 할 수 있다 = It doesn't take a genius to 동사원형
+  * 이건 아무나 할 수 있는 일이야. ex) You don't have to be a genius to get this done.
 
 ## get
 * 움직여서 상태가 변화는 느낌
@@ -1172,6 +1200,8 @@
 
 ## hat
 * ☆에게 경의를 표한다.     #hats off to you, tip your hat to , take one's hat off to someone
+* hat은 ‘직책, 역할’을 의미하기도 합니다. 그래서 wear도 ‘직책을 맡다’가 되겠네요. 그리고 “50 hats”는 진짜로 세보니 직책이 50가지라는 것이 아니라 그 만큼 많은 일을 맡아서 한다는 얘기겠죠?
+  * 이 영화에서 그녀는 감독과 여배우라는 역할을 맡고 있다. For this movie, she is wearing the hats of director and actress.
 
 ## hand
 * 승리의 패; winning hand; He held the winning hand in the card game
@@ -1370,6 +1400,14 @@
 ## mention
 * 에 대하여 언급하다 = mention (o) / mention about (x)
 
+## mainnteance
+* 2) 친구가 “자신은 손이 많이 안 가는 타입이다”라는 말을 I’m low-maintenance 라고 하였네요. low-maintenance는 ‘손이 많이 안 가는 타입, 신경을 계속 써주지 않아도 되는 타입’을 의미합니다. 그 반대의 경우는 high-maintenance 겠죠. 예를 들어 high-maintenance girlfriend는 연락도 자주 해줘야 하고, 기분도 잘 맞춰줘야 하고, 돈도 많이 써야 하는, 까다로운 스타일의 여자친구를 말합니다. 3) maintenance의 발음에 유의해 주세요. 원래는 [메인터넌스]인데, 미국식 영어에서는 -te-를 약하게 해서 [메인-넌스]처럼 발음하기도 합니다.
+  * 이 식물은 손이 많이 안가요. 그냥 한 달에 한 두번 물만 주세요. These plants are low-maintenance. Just water them once or twice a month.
+
+## map
+* map out = 꼼꼼히 계획을 세우다 지도를 보면 굉장히 세부적인 사항이 나와 있듯이, 그냥 계획이 아니라 디테일을 갖춘 신중한 계획을 세울 때 쓰는 표현입니다.
+  * = 브라질 여행 계획 짤 생각을 하니 신난다. I'm so jazzed about mapping out our trip to Brazil.
+
 ## mark
 * Hilfenhaus는 이해가 빠르다.  Hilfenhaus is quickly off the mark; 상황 판단이 빨라
 
@@ -1461,6 +1499,10 @@
 	* 그녀는 혼자 힘으로 부를 얻었다. She's a rich woman in her own right.
 * ☆#발라버리다; #own; i'll own you; team A totally owned Team B
 * ☆인정하다; #own up to; you don't want to own up to it
+
+## pat
+* * pat down  1. 몸 수색을 하다. 2. 가볍게 두드리다. 불법적인 무기나 마약 등을 소지하고 있는지 몸을 훑어가며 수색하는 것을 의미합니다. 보통 공항 보안 검색대에서 출국할 때 하는 검사를 생각하시면 됩니다!
+  * 공항 보안이 내 몸수색을 했는데 그의 손길이 ex) The airport security guy patted me down and I felt a bit uncomfortable with his touch.
 
 ## pardon
 * 1) pardon 은 상대방의 말을 잘 듣지 못한 상황에서 [한 번 더 말씀해주시겠어요?]라고 말할 때 Pardon? / Pardon me?/ I beg your pardon? 이라고 쓰이죠.  2) 하지만 pardon 은 [사면, 용서]라는 뜻이 있어서 위의 말은 사실 [제가 당신 말을 잘 못 들었는데, 용서해주세요. 다시 한 번 말씀해주시겠어요?]라는 의미의 단어입니다. 3) 비슷한 의미로 영상에서의 pardon 은 법률적 용어로 [사면하다]라는 동사로 쓰였고요. 명사로 쓰일 땐 [사면]을 의미해요.  4) 사면해주는 입장인 경우는 그리 많지 않기에 보통 수동태인 [be/get pardoned = 사면 받다]로 많이 쓰이고요. 명사로 쓰일 경우엔 [ask for/grant/receive a pardon = 사면을 요청하다/해주다/받다]의 형태로 쓰입니다.
@@ -1809,6 +1851,10 @@
 * 비격식 표현으로 실용적인 지식, 솜씨, 요령 등을 의미할 때 굉장히 많이 쓰이는 명사입니다. 형용사로도 쓰여 [요령 있는, 지식이 많은] 의 의미를 가집니다.
 	* = 요즘 대부분의 10대들은 테크놀로지에 능숙합니다. Most teenagers are tech savvy these days.
 
+## swear
+* ~의 효능을 믿다, ~의 효능에 기대다  = swear by ~
+  * 내 와이프는 살 빼는데 요가의 효능을 믿는데, 저녁에 자기 전에 많이 먹어. ex) My wife swears by yoga to lose her weight, but eats a lot before she goes to bead at night.
+
 ## sweet
 * sweet spot은 ‘최상의 결과를 내는 범위나 부분’입니다. 스포츠에서는 라켓이나 베트, 클럽 등으로 공을 치기 가장 효율적인 부분을 뜻하고, 비즈니스에서는 최상의 수익성 혹은 효율성을 만들어내는 범위를 가리킵니다. 또는 가수의 최상의 음역대, 가장 좋아하는 스킨쉽 위치 등 분야는 다르더라도 모두 ‘가장 좋은 결과를 내는 위치’를 의미합니다. 
 
@@ -1898,6 +1944,10 @@
 	* 움직이게끔(in motion) 시작시키는(set) 모습의 단어이기에 무언가 작동하지 않는 것을 작동하게 하고, 움직이게 하는 것을 의미합니다. 또한 이어지는 일들에 시동을 걸고 시작하는 것을 의미하기도 해요. 목적어를 중간에 쓰기도 하고, [set in motion + 목적어]로 쓰기도 합니다. 참고로 set the wheels in motion 이란 표현도 종종 쓰는데요, 바퀴가 굴러가게끔 하는 모습에서 나온 표현으로 [절차를 시작하다] 라는 의미를 가집니다.
 		* = 위원회는 개정 절차가 시작되도록 투표했다. The committee voted to set the reform process in motion.
 
+## stamp
+* 1) stamp 가 [도장/낙인] 이라는 뜻이 있어요. 그러니 무언가 많이 진행되는 상황에서 나쁜 것들만 '넌 나쁜거야!' 라는 낙인을 찍어서 (stamp) 내보내는 (out) 것을 의미합니다. stamp out : 금지하다, 근절하다. 없애다.
+  * 연구자들은 이 새로운 약의 종류를 가지고 암을 없애기를 희망합니다. ex) The researchers hope to stamp cancer out with this new type of medicine.
+
 ## staple
 * staple: 스테이플러 심; 2. 고정 시키는 행위; Staple those together 3. 주식단; staple diet; staple food; 옷장 필수템; wardrobe staples
 
@@ -1916,6 +1966,8 @@
 * 우리 생일 같애; we share the same birthday
 
 ## shake
+* shake-up : 변화, 재편성, 개편
+  * 몇몇 사람들은 최근의 재편성에 대해 화가났다. ex) Some people were upset about the recent shake-up.
 * 겁내지 마라. No need to shake in your shoes/boots
 * 나는 당신이 바로 갈취하려는 사람을 대표한다  I represent the one you ' re trying to shake down . 예문 발음듣기
 * 단지 2주의 시간만에 익숙해질수 있었다. But a shake - down , that ' s only a couple of weeks. 예문 발음듣기
@@ -1924,6 +1976,8 @@
 ## shoot
 * "금액을 제시해 보세요."  "Shoot me an offer" 여기서 shoot me는 날 쏘라는게 아니고, ‘주다, 건내주다’입니다. 그래서 바꿔 말하면 give me an offer 입니다. 
 		* 빵 좀 줘. Shoot me some bread.  Don’t forget to shoot me an email! 
+* 직역하면 '을 위해 슛을 하다' 인데요. 축구든 농구든 골을 넣어 점수를 얻기 위해선 많은 노력을 해야 합니다. 그런 모습에서 나온 비격식 표현이에요.
+  * 우리 모두는 이 일생에 한 번 있을법한 기회를 얻기 위해 노력해야 해. ex) We all need to shoot for this once-in-a-lifetime chance.
 
 ## shoe
 * * 겁내지 마라. No need to shake/tremble in your shoes/boots
@@ -1949,6 +2003,8 @@
 	* = 무슨 일이 일어난 건지 모르겠어요. 그냥 운전하기 시작했는데, 차가 갑자기 어두운 연기를 뿜어냈죠. I don't know what happened. I just started driving and the car suddenly spewed out dark smoke.
 
 ## skin
+* have a thick skin = 얼굴에 철판을 깔다; 우리말에 ‘낯짝이 두껍다’고 하죠. 남의 시선이나 비판에 동요하지 않는 철면피를 a thick skin이라고 합니다. 반대로 쉽게 상처받고 남을 의식하는 것은 have a thin skin 이라고 합니다.
+  * 걱정 마. 그걸로 그녀는 상처 안 받아. 얼굴이 두껍거든. Don’t worry. She doesn’t get hurt by that. She has a thick skin.
 * 자신의 모습 그대로 행동해도 편안하고 당당하다는 뜻의 표현으로 여기서 own skin 은 [자기 본연의 모습] 을 비유합니다. good/comfortable in one’s skin = 자기 자신의 모습대로 행동해도 편안하다 
 	* 자신의 모습에 당당할 수 있는 방법을 찾는 것이 중요해요.  It’s important to find ways to feel comfortable in your own skin.
 * skin deep 은 직역하면 [피부만큼 깊은] 인데요. 피부가 깊어봐야 얼마나 깊겠어요. 딱 눈에 보이는 만큼이기 때문에, 눈에 보이는 피상적인 것을 의미할 때 skin deep 이라고 합니다. 그래서 more than skin deep 은 관용적 표현으로 [눈에 보이는 것보다 더 중요한, 외모 이상의] 이라는 의미로 많이 쓰이고요. 비슷한 표현으로 more than meets the eye 가 있으니 함께 알아두세요!
@@ -1996,11 +2052,15 @@
 ## strike
 * strike는 '때리다, 찌르다, 맞추다, 인상을 주다, 파업을 하다'등 정말 다양한 의미를 가지고 있는 단어입니다. 여기서는 (자세를) 취하다는 의미로 사용되었어요. strike a pose와 비슷한 용례로 '어떤 태도를 취한다'고 할 때는 strike an attitude라고 합니다.
   * 모델은 포즈를 취할 준비가 되었다. The model is ready to strike a pose.
+* 1) strike up a conversation = 대화를 시작하다, 말을 붙이다 : strike up은 ‘시작하다’입니다. 영상과 같이 대화를 시작한다거나, 연주, 노래, 혹은 인연/관계를 맺는다고 할 때도 씁니다. 
+  * 그는 그의 옆에 앉아있던 여자 아이에게 말을 걸었다. He struck up a conversation with a girl sitting next to him.
 
 ## strip
 * 무언가의 진정한 특징을 가리고 있는 것을 제거하여 완전히 없애는 것을 의미합니다.
   * = 이 프로젝트의 목표는 거짓말을 벗겨내는 것이고 모든 사람들에게 그들의 진정한 정체성을 보여주는 거야. The goal of this project is to strip away the lies and show everyone their true identity.
   * = 우린 가식을 정말로 떨쳐 없애야 해. We really should strip away the pretence.
+* stripped down : 불필요한 것을 모두 뺀, 기본적인 것만 남긴 strip down 이 [벗겨내다] 라는 뜻이 있어요. 한겹 한겹. 벽지 같은 것을 말이죠. 형용사 형으로 stripped down 을 직역하면 [벗겨진] 이기 때문에, [불필요한 것은 다 벗겨지고 딱 필요한 것만 남은] 이라는 뉘앙스의 형용사로, 명사 앞에서만 쓰입니다.
+  * 우린 이번달에 불필요한 건 다 뺀 예산이 있어야 해. 돈이 충분치 않아. ex) We need to strip down our budget for this month. We don't have enough money.
 
 ## ship
 * The ship 대신 That ship 이라고도 많이 씁니다. 직역하면 [그 배는 이미 항해를 떠났다]인데요. 특정한 기회가 사라졌을 때 쓰는 표현입니다. 우리 말에선 보통 [이미 엎질러진 물이다, 이미 버스는 떠났다]라는 말과 같다고 보시면 되겠죠.
@@ -2093,8 +2153,15 @@
 * 잠자리에 들다; I turned in early last night
 * #turn it over; 뒤집다 = flip
 * #천년 주기 #millennium; around the #turn of the millenium
+
 ## tuck
 * 내가 재워줄게; I'll be happy to tuck you in 2. 집어 넣다; he tucked in his shirt 3. 열심히 먹다; he was tucking in a large pizza
+* 1) tuck away 는 무언가를 잘 보이지 않는 곳에 위치시키다-라는 뉘앙스의 뜻으로 장소의 경우엔 영상에서처럼 수동태로 쓰여서 [한적한 곳에 위치하다] 라는 의미를 가져요. 건물뿐만이 아니라 '사람' 에도 쓰일 수 있습니다.
+  * 우리 아버지 별장은 산속 조용한 곳에 위치하고 있어요. ex) My father's cottage is tucked away in a forest.
+
+## tick
+* tick 시계가 [똑딱 소리를 내다/똑딱 거리며 지나가다/움직이다] 라는 의미를 가지고 있어요. 그러니 ticking mind 는 직역하면 "똑딱 거리며 움직이는 마음" 이니, 쿵쾅거리는 마음을 가지고 [앞으로 나아가려는 사람]을 의미해요.
+  * 난 네가 앞으로 나아가려는 마음을 갖고 네 앞에 놓인 어려움들을 두려워하지 않았으면 해. ex) I hope you have a ticking mind and are not afraid of challenges ahead of you.
 
 ## tie
 * 'tie' 는 기본적으로 '끈'이라는 뜻인데, 이렇게 사람 간의 '유대', '유대 관계'를 말할 때도 쓸 수 있습니다. 두 대상이 끈으로 이어져있는 걸 상상해보세요!
@@ -2283,6 +2350,10 @@
 ## water
 * 그는 새로운 일을 아주 자연스럽게 익힌다. She takes to new works like a duck to water . 
 * 난 내 아들에게 뭘 하라고 말을 할 수가 없어요. 내 말은 귓등으로도 안 들으니. I can’t tell my son what to do; it’s water off a duck’s back with him. ; water off a duck's back; 오리의 궁둥이에는 오리 기름이 분비되어 물이 닿아도 젖지 않음; 부정적인 상황에서 쓰임
+
+## world
+* out-of-this world = 기상천외한, 현실에서 동떨어진
+  * 내가 어제 먹은 태국음식 진짜 환상적이였어.  ex) Thai food I ate yesterday was out-of-this-world.
 
 ## work
 * (노력을 들여) 	을 불러일으키다

@@ -5,6 +5,8 @@
 * #rock on; 마음ᄁᅠᆺㅈ ᅟᅳᆯ기다; feel free to rock on
 * 분위기 띄우다; #liven up; to liven up
 	* 분위기 가볍게 할려고 농담하는거야; i'm making a joke to lighten the mood
+	* add a lot to the atmosphere = 분위기를 한껏 고조시키다
+		* 빨간색과 녹색의 장식들이 크리스마스 분위기를 더 업시켰다. The red and green decorations added to the Christmas atmosphere.
 * 분위기 안깨고 이동하는 법: #슬슬; #shall we
 * 분위기 바뀌고; the atmosphere turns
 * ○ Simple definition of #ambience (ambience의 간단한 의미)

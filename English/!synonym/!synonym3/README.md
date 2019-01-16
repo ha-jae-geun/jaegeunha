@@ -309,6 +309,5 @@
 * 난 첫 눈에 그녀와 사랑에 빠졌지. I fell in love with her from day 1.
   * 애초에 제대로 돌아간 적이 한번도 없어. It's never worked from day 1. 
 * embrrassed는 뭔가를 잘못해서 쑥스럽고 부끄러운 경우에 shy는 무언가를 하는 것이 부끄러울 때 ashamed는 창피하고 수치스러울 때 humiliated는 더 굴욕적이게 창피할 때 사용하시면 됩니다!!
-* 안습이다; The room was in a sad state of affairs
 * ~에 관해서, ~에 대해서라고 하면 about, regarding등을 쓸 수도 있지만, when it comes to라는 표현이 어떤 대상이나 목표에 대한 화제거리를 삼을 때 조금 더 구체적이고 더 적절한 표현입니다. 문장의 예를 보시죠.
   * 너의 계획에 관해서라면 난 할 말이 없어. ■ When it comes to your plan, I have nothing to say. 

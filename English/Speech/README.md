@@ -18,6 +18,12 @@
   * 추정컨데, 그녀가 그것을 혼자서 했었을 수도 있어.  Supposedly, she might have done it alone herself. 
   
 # 말
+* = 간접적인 방식으로 (얘기하면), 완곡하게, 에둘러서 in a roundabout way 
+	* = 그를 조금 에둘러 거절해야만 했어. 감정 상하게 하고 싶지 않았거든. I had to refuse him in a roundabout way. Didn't really wanna hurt him.
+* 1) brief 가 형용사로 [간단한] 이라는 뜻이 있기 때문에 자칫 잘못하다간 뜻이 헷갈릴 수도 있어요. 영상에서처럼 동사로 쓰였을 땐 [(어떤 일 등을 대비하여) 철저히/자세히 알려주다] 라는 의미를 가집니다. 전치사 on/about 등을 써서 [~에 대하여 알려주다] 라고 쓰여요. 2) 영상에서는 크리스가 수술 전에 설명을 굉장히 자세하게 받기 때문에 쓰여진 단어이구요. 설명을 하는게 아니라 받기 때문에 수동태 [be briefed] 라고 쓰였습니다.
+	* 조연출이 공연 동안 무슨 일이 있게 될지에 대해서 그에게 자세히 설명해 주었다. ex) The assistant director briefed him on what's going to happen during the show.
+* mumble 은 [웅얼거리며 말하다] jumble 은 [마구 뒤섞다] 라는 뜻이 있어요. 이 뜻만 보셔도 감이 오시죠? ㅎ 깊이 생각하지 않고 막 말하다보니 말인지 막걸린지 모를 때- 쓰는 표현입니다. [횡설수설함] 이라는 명사로도 쓰입니다.
+	* 케이트 앞에만 서면 횡설수설해. 내 자신이 정말 싫다. ex) I mumble-jumble all the time in front of Kate. I hate myself.
 * thematic 은 theme 에서 온 형용사로 [주제의, 주제와 관련된]이라는 뜻입니다. 우리나라에선 [테마]라고 읽는데 theme 의 경우엔  [θiːm]이기에 [씜] 정도로 읽는 게 맞고, thematic 의 경우엔 [θɪˈmætɪk]이기에 [씌매틱]정도로 읽는 게 맞아요. * infidelity = 배우자에 대한 부정
   * = 그녀는 보상금에 관한 것을 간단히 언급했다. She made a brief reference to something about a bounty.
 * 1) 주로 남자들이 관심없을 법한 주제들을 가지고 여자들끼리 얘기하는 것을 girl talk 라고 합니다. 남자 둘이서 조금 심각한 대화를 나누는 것은 man-to-man talk 라고 합니다. 2) 비슷한 예로, 여자들끼리 저녁에 나가 노는 것을 girls' night out 이라고도 해요!

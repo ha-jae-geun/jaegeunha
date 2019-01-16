@@ -16,6 +16,8 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 
 # tool
 * 식기 깔개; Plcaemat; 식탁보: tablecloth; 조명 기구; light fixture; 접시: platter
+	* [A 를 숟가락으로 슬쩍 떠서 B 에 올리다] 라고 말하고 싶을 땐 spoon A over B 라고 하시면 돼요. 식사 관련 표현이기에 알아두시면 유용하겠죠! 
+		* 여기 그레이비 소스 보이지? 스테이크 위에 살짝 떠서 올려주면 돼. ex) You see the gravy here? You can spoon it over your steak.
 * 냄비: pan: 손잡이가 달린 얕은 냄비, pot 솥은 뚜겅이 있는 깊은 냄비
 * 숯; tʃɑːrkoʊl]  charcoal  charcoal grilled steaks  [koʊl] 
 * 도구 내려놓으세요; Down, tools

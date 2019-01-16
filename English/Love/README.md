@@ -428,7 +428,7 @@ I have a big crush on you / I have a thing for you, i'm into you
  * 아동에 대한 추행: #pedophile #바바리맨: #flasher
  * 여친이 처음으로 자게 해줄 때 짓게되는 표정 The face you make when girl let you #smash for the
  * #첫날밤 first #consummated
- * 떡 파트너 										 freaka
+ * 떡 파트너 								freaka =  friends with benefits
  * 스팟 									 hit the same spot
  * #전희 #foreplay; lack of foreplay
  * ##벌리다 bust it (open) (2. 총을 쏘다)
@@ -454,6 +454,7 @@ I have a big crush on you / I have a thing for you, i'm into you
  * 결혼을 하지 않는, 순결을 지키는; #celibate
  * 순결을 #더럽히다; #defile
  * #촉수 변태 #tentacle #hentai
+ 	* 그는 변태적인 속옷을 입고 있었다. He was wearing kinky underwear.
  * #오르가즘; get #rocks off
  * #eat out; 남자가 여자의 겉에있는 것을 먹다
  * #문란한 #호색 #음흉 #음란 [prǝmískjuǝs] promiscuous = #lecher #obscene
