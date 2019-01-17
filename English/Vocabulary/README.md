@@ -127,6 +127,12 @@
 * bitch; 2. 임마; 3. he's such a bitch; 징징된다 4. Stop bitching; at me 싫은 소리 그만해라
   * 일방적으로 갈구다; bitch someone out
 
+## budget
+* 나는 한정된 예산으로 이번 휴가를 보내야 한다. I have to spend this vacation on a budget. 
+
+## bus
+*   나는 널 절대 배반하지 않을거야. 나는 신념을 저버리지 않아. I wouldn' t throw you under the bus . I don ' t sell out . 
+
 ## butt
 * 엉덩이에 키스하다?? 이렇게 더러운 표현이 [아첨하다/아부하다] 라는 의미를 갖게 된 것은 그만큼 아첨이나 아부를 지저분한 행위로 본 것과 관련이 있을 텐데요.  [아부/아첨하는 행위] 를 butt kissing 이라고 하고, 그런 행위를 습관적으로 하는 사람을 butt kisser 또는 ass-kisser 라고 합니다. 직장인 분들 주변에 꼭 한 명씩 있지 않나요?
 	* 데이빗한테 아부 좀 그만해, 야이 더러운 아부쟁이야. ex) Stop kissing David's butt, you disgusting butt kisser.
@@ -386,6 +392,10 @@
 * a ton of 은 무언가가 [굉장히 많은] 을 의미하는 비격식 표현인데요. 실제로 벽돌 (brick) 이 1톤 정도 자기 주변에 있다고 생각하면 아주 무겁고 답답하고, 힘들고 그럴 거예요. 그래서 la ton of bricks 는 [갑작스럽고 중요한 영향] 정도로 해석이 됩니다. 영상에서는 동사 [go over = 특정한 반응을 이끌어내다] 와 함께 쓰여서 직역하면 [용돈을 줄인 건 엄청난 영향을 이끌어냈다] 정도로 해석이 되지만 의역하여 [딸은 충격에 휩싸였죠] 로 해석이 되었습니다.
 	* 그 진실이 내겐 큰 충격으로 다가왔다. ex) The truth hit me like a ton of bricks.
 
+## blood
+* 흔히 too rich for my blood라고 하는데요, 나한테는 너무 비싸, 예산초과야, 과분해 라는 뜻이랍니다. 어떤 음식이 칼로리가 너무 높다고 할 때도 사용해요.
+  * 이 호텔은 나한텐 너무 비싸. This hotel is too rich for my blood. 
+
 ## blow
 ### blow up
 * 'Blow up' 의 뜻은 '(바람을 불어넣어) 부풀리다, 부풀어 오르다' 라는 뜻과, '(폭발물 등을 사용하여) 폭파시키다, 날려버리다' 라는 뜻이 있고,
@@ -575,6 +585,8 @@
 ## carry
 * : ~가 (시련, 고통 등을) 헤쳐나가게 하다, (시련, 고통 속에서) ~를 지탱해주다 carry someone through
   * 제 결의가 마지막까지 절 지탱해줬습니다. [ex] My determination carried me through to the end.
+* carry something through, 혹은 carry through something으로 표현하여, 자신이 말한 것이나 시작한 것을 잘 이행해 나가거나 완수해 나가는 것을 뜻합니다. 
+  * 어렵다는 거 나도 알지만 그는 잘 완수해 낼 사람이야. I know it’s difficult but he is the person who can carry it through.
 
 ## contain
 * 억눌러 담아두는 느낌; contain excitement; contain a blaze; contain protest; contain the violence
@@ -685,6 +697,14 @@
 * drop은 '떨어지다'라는 의미 외에도, (물)방울, 소량의 뜻이 있습니다. 여기서 조금 다른 의미에서 사탕, 물약이라는 뜻도 있죠. 
 	* - fruit drops는 과일맛 사탕 
 	* - cough drop: 기침 (멎게 하는) 캔디 (같은 약) (감기 걸렸을 때 이걸 찾는 사람들이 참 많습니다!)
+*  배려 1도 없어. Not a single drop.
+
+## element
+* 비 바람을 맞으며 앉아있따; i'm a shepherd, sitting here in the elements
+
+## elephant
+* 이 표현은 모두가 문제가 있다고 인지하면서도 아무도 그것에 대해서 이야기하고 싶어 하지 않는, 껄끄러운 상황을 의미합니다. 영상에서 말한 “The elephant is in the room”처럼 한 문장을 표현하셔도 되고, elephant in the room(모두가 알지만 말하지 않고 있는 문제)처럼 명사로 말해도 됩니다.
+  * 아무도 그 껄끄러운 문제에 대해 말을 꺼내려 하지 않았다.  No one was willing to bring up the elephant in the room. 
 
 ## edge
 * edge 는 [가장자리, 끝] 이라는 뜻이 있어서 누군가를 벼랑 끝으로 몰아넣는 상황의 뉘앙스를 가져요. 벼랑 끝으로 몰리면 멘붕이 오고 미쳐버리겠죠? 그래서 over the edge 는 정신적/감정적으로 완전히 통제를 잃고 미쳐버리는 상태를 의미합니다. push 대신 drive, send 등의 동사를 쓰기도 합니다.
@@ -1185,6 +1205,8 @@
 * 하루 쉬지 그래요? 내가 대신 자리를 지켜 줄 테니. Why not have a day off? I’ll hold the fort for you. 
 * 여기서 hold up 은 누군가의 생각(idea), 주장(argument), 정보(information) 등이 사실 검증을 해보니 ‘사실이다, 타당하다, 말이 맞다’는 뜻입니다. 여러 근거를 보니 주장하는 바를 잘 떠받들고 있다(hold up)는 것이죠. 
 	* 나는 그의 주장이 말이 맞다고 생각하지 않아. I don’t think his argument really holds up.
+* hold up 은 무언가를 [떨어지지 않도록 위로 들고있다] 를 의미하는데요. 그 의미의 연장선에서 [약해지지 않다/좋은 상태를 유지하다] 라는 의미로도 쓰입니다.
+  * 그의 육체적, 정신적 상태는 건강함을 잘 유지하고 있다. ex) His physical and mental condition holds up well.
 
 ## hot 
 * 뜨거운 감자; Iraq is a hot potato to the Unitied States
@@ -1232,6 +1254,7 @@
 * (화가 난 상대방에게 하는 말로) 진정해라 keep your hair on 미국식  영국식   단어장추가
 
 ## head
+* 1) 배 위의 화장실을 head 라고 합니다. 이런 의미는 오래 전 사람들이 배를 직접 몰아야 했을 땐, 보통 뱃머리에서 시간을 대부분 보냈어야 하는데, 급한 일을 처리하기 위해서 화장실도 함께 있었다고 해요. 배를 포함한 무언가의 앞부분 (뱃머리) 을 head 라고 하는데서 유래한 단어입니다.
 * 그냥 네 생각/망상일 가능성이 높다는 걸 기억하려고 해봐. [ex] Just try and remember it's probably all in your head.
 * 머리부터 내밀고 무언가를 들이박는 뉘앙스의 표현이에요. 영상에서는 문장의 제일 끝에서 부사로 쓰였고, 형용사로도 쓰일 수 있습니다. 차 사고에서 정면 충돌 또한 head-on collision 이라고 합니다.
 	* 현식을 제대로 직시하자. ex) Let's face the reality head-on.
@@ -1316,13 +1339,17 @@
 * 1. 기절시키다, 이기다 수면제가 나를 완전 뻗게 했어.; [ex] Sleeping pills knocked me out.
   * 2. 깊은 인상을 주다, 충격을 주다; 샘의 공연에 우리는 모두 기절초풍이 됐었어.; [ex] We were all really knocked out by Sam's performance.
   * 3. 녹초가 되게 하다, 최선을 다하다; 너무 진빼지 마; [ex] Don't knock yourself out.
-  * 4. "Knock yourself out"은 "마음껏 ~해"라는 뜻이에요. 음식을 마음껏 즐겨라, 게임을 마음껏 즐겨라 등등 여러 상황에서 쓸 수 있어요.
+  * 4. "Knock yourself out"은 "마음껏 해"라는 뜻이에요. 음식을 마음껏 즐겨라, 게임을 마음껏 즐겨라 등등 여러 상황에서 쓸 수 있어요.
     * 응 너 다 먹어. B: Knock yourself out.
 
 ## latch
 * 무언가를 꼭 쥐고 달라붙고 관심가지고 혹한다; 사람에게 할 경우 친해지려고 한다; latch on to
   * 직원들은 그 문제에 주목했다; Members have latched on to the issue
   * 트렌드에 열중해왔따; have latched on to the trend of using consultants
+
+## loud
+* 주변의 시선을 끌 정도로 옷의 색상, 패턴 등이 매우 화려한 것을 loud 라고 합니다. 눈으로 봤을 때 너무 요란(loud)하다는 의미에서 주로 부정적으로 쓰이지만, 상황에 따라서는 긍정적으로 볼 수도 있습니다. 섹시함과 화려함을 강조한 옷이라는 어감으로요. 
+  * 면접때는 너무 화려한 의상을 입지 않는 것이 좋아. You shouldn't wear anything too loud to a job interview.
 
 ## look
 ### look out
@@ -1490,6 +1517,10 @@
 * * odds 는 [가능성] 을 의미하는데요. What are the odds ~? 는 가능성, 확률을 물어볼 때 가장 흔하게 쓰이는 표현이에요. [확률] 을 의미하는 단어로는 probability 라는 단어가 있지만, 실제 수치를 의미하는 뉘앙스가 짙기 때문에 실제 수치를 요구하는 것이 아니라면 odds 대신에 probability  라는 단어는 잘 쓰지는 않아요. 
   * * What are the odds ? of 
 
+## offense
+* 상대의 평상복을 보고 “I like your costume(복장이 멋있네요)” 라고 칭찬하면, 기분 나쁠 수 있겠네요. take offense to/at 뒤에는 자신을 기분나쁘게 한 대상을 넣으면 되는데요, 주로 ‘말, 글, 사람’이 옵니다. 
+  * 그는 타냐의 생각없는 말 때문에 매우 기분이 나빴다. He took offense at Tanya for her thoughtless remarks.
+
 ## office
 * : 'office'를 일반적인 '사무실'이나 '근무처' 말고도 '정권, 공직'을 가리키는 말로 사용하는 경우를 드물지 않게 찾아볼 수 있어요^^ 그런  의미인 경우에는 앞에 a나 the, 소유격이 잘 붙지 않습니다.
 	* 공직에 있은 지/취임한 지 얼마나 됐어? [ex] How long has she been in office?
@@ -1624,6 +1655,8 @@
 ## pop
 * 팝콘은 옥수수 알갱이가 톡톡 튀고, 팝업 스토어는 원래 없던 매장이 잠시 눈에 띄게 세워지는 것이듯, pop out 은 [튀어나오다, 튀어나와 보이다, 두드러지다]의 의미를 가집니다.
   * = 생생한 빨간색 사용이 이 제품을 두드러지게 만듭니다. The use of this vivid red color makes the product pop out.
+* 동사 pop은 친구의 집에 잠깐 들르거나, 도서관에 잠깐 들러 책을 반납하는 것처럼 어떤 행위를 빠르고, 가볍게, 불쑥 하는 것을 말합니다.  여기서는 ‘나를 수업에 휙 데려다놓다’라는 뜻으로 pop me in to class라고 하였습니다. 마치 그녀가 물건이라도 된 것 마냥, 가볍게, 홱, 가져다 놓았다는 어감입니다.
+  * 한 잔하러 들르지 그래? (pop in: 가볍게 방문하다) Why don’t you pop in for a drink?
 
 ## pour
 * 그의 변호사들이 그 계약서의 작은 글자들을 세세히 읽고 있다.; His lawyers are poring over the small print in the contract.  <> pour over
@@ -1711,6 +1744,14 @@
 ## quirk
 * 무슨 기이한 운명의 장난인지 그들이 같은 호텔에 예약을 했던 것이다. By a strange quirk of fate they had booked into the same hotel. 
 
+## rich
+* 흔히 too rich for my blood라고 하는데요, 나한테는 너무 비싸, 예산초과야, 과분해 라는 뜻이랍니다. 어떤 음식이 칼로리가 너무 높다고 할 때도 사용해요.
+  * 이 호텔은 나한텐 너무 비싸. This hotel is too rich for my blood. 
+
+## round
+* 한장소, 한장소 돌면서 일하는 것을 do rounds / go on rounds / make rounds / be on rounds 라고 표현합니다. 영상속 주인공의 아버지는 내과 보조 의사이기 때문에 이 경우에는 ‘회진’을 말하는 거겠네요.
+  * 그 경찰관은 순찰을 돌고 있었다. The policeman was going on his rounds.
+
 ## roll
 * 걱정마. 우리의 계획은 완벽하게 먹힐 테니까. (roll out: 먹히다, 굴러가다) Don’t worry. Our plan will roll out perfectly.
 
@@ -1725,6 +1766,7 @@
   * 유교문화는 한국 사회에 깊게 뿌리박혀 있다. Confucianism is deeply rooted in Korean society.
 
 ## rub
+* 원래 rub 은 동사로 [문지르다], 명사로 [문지르기, 비비기] 라는 뜻이 있는데요. the rub 이 [문제] 라는 의미로 쓰인 것은 셰익스피어의 유명한 작품인 '햄릿' 에서 유래했다고 해요. 하지만 주의해야 하실 점은 the rub 만 혼자서 [문제] 라고 쓰이지는 않고, 영상에서처럼 Here's the rub. 또는 There's the rub. 이라고 써야만 되는 그런 표현입니다.
 * =[ 숙어 ] rub off on somebody : (다른 사람의 특징, 습관, 견해 등이) 에게 옮다, 물들다, 영향을 주다
 	* 부정적 생각이 나한테 영향을 주지 않길 바란다. I don't want negative thinking to rub off on me.
 
@@ -1773,6 +1815,10 @@
 ## range
 * = 범위가 A에서 B에 이르다 * range from A to B  여러 가지 상황에서 정말 많이 쓰이는 표현이고요. 범위가 좀 더 다양할 경우엔 뒤에 to C to D 등으로 더 붙여서 쓸 수도 있습니다.
 	* = 선택하는 방의 종류에 따라 가격은 50달러에서 500달러로 다양합니다. The prices from 50 dollars to 500 dollars, depending on the type of room you choose.
+
+## retreat
+* 이 단어는 동사로는 [후퇴하다, 물러서다], 명사로는 [후퇴, 철회, 도피] 등의 의미를 가지고 있어요. 모두 뒤로 물러나는 느낌의 단어들인데요. 영상에서 쓰인 [수양회, 피정] 의 의미도 원래의 삶에서 물러나 한적한 곳에서 시간을 보내며 수양하는 것을 의미합니다.  [칩거에 들어가다, 피정에 들어가다] 라는 말은 go into retreat 라고 하면 된답니다.
+  * 한동안 피정(칩거)에 들어가기로 결정했어. ex) I've decided to go into retreat for a while.
 
 ## replicate
 * 1) 무언가를 똑같은 방식으로 만들거나 따라하는 것을 의미합니다. 과학계에서 실험을 반복하여 검증할 때 replicate 라는 단어를 씁니다. 2) 어떤 제품 중에 replica [레플리카] 제품이라는 걸 보신 적이 있을텐데요, 원제품과 거의 같게 만든 복제품을 의미합니다.
@@ -1857,6 +1903,10 @@
 
 ## sweet
 * sweet spot은 ‘최상의 결과를 내는 범위나 부분’입니다. 스포츠에서는 라켓이나 베트, 클럽 등으로 공을 치기 가장 효율적인 부분을 뜻하고, 비즈니스에서는 최상의 수익성 혹은 효율성을 만들어내는 범위를 가리킵니다. 또는 가수의 최상의 음역대, 가장 좋아하는 스킨쉽 위치 등 분야는 다르더라도 모두 ‘가장 좋은 결과를 내는 위치’를 의미합니다. 
+
+## swipe
+* swipe 의 사전적 의미는 [후려치다,휘두르다] 라는 뜻이 있어요. 하지만 인터넷상에서 swipe 한다는 말은 인스타그램 같은 곳에서 사진을 [옆으로 넘기다] 라는 의미를 가져요. 손가락으로 오른쪽, 왼쪽으로 사진을 넘기면서 보죠. 영상에서처럼 데이팅 앱 같은 경우에, 상대방의 사진을 보고 마음에 안들면 왼쪽, 마음에 들면 오른쪽으로 스와이프하여 사진을 저장할 수가 있다고 합니다. 영상에서는 단순히 [그의 얼굴을 스와이프했다] 라고 나와있지만, 결혼까지 하게 되었으니 당연히 [좋은 쪽으로 스와이프했다] 로 해석이 됩니다.
+  * 오른쪽으로 넘겨봐. 그러면 사진 더 볼 수 있어. ex) Swipe right, and you can see more pictures.
 
 ## swing
 * 가능할 것 같아; i think i could swing that; swing: 잘 해내다
@@ -2012,6 +2062,10 @@
 * 허울 뿐인; be only skin deep; 피부가 깊어봤자 얼마나 깊을까
 
 
+## soft
+* ~에 약하다, ~을 매우 좋아하다 = have a soft spot for
+  * 그런 문제아를 왜 그리 좋아하는지 나도 잘 모르겠어. ex) I don't know why I have a soft spot for such a trouble maker.
+
 ## soldier
 * 나아가다; She soldiers on
 
@@ -2020,6 +2074,10 @@
 
 ## speak
 * * 모두가 그녀를 아주 좋게 이야기한다. Everyone speaks very well of her. 
+
+## step
+* step on one’s toes = 화나게 하다, 감정을 상하게 하다
+  * 저는 입사한지 얼마 안됐으니까, 괜히 주제넘게 나서서 기분 나쁘게 만들고 싶지 않아요. I'm new here, so I don't want to step on anyone's toes.
 
 ## stern
 * 영상에 나오는 김정은의 얼굴이 stern 의 완벽한 예라고 보시면 될 것 같아요! 화난 듯 무표정으로 뚱하게, 근엄하게 있는 것을 의미하고요. 누군가의 말이 stern 할 때는 [심한 (말)] 을 의미합니다.
@@ -2076,6 +2134,8 @@
 	* My books and stuff are all stacked in the basement.
 
 ## tune
+* 악기의 음을 맞추거나 라디오 채널을 맞추는 것을 tune 이라고 하죠. 둘 다 소리를 듣는 행위입니다. (옛날에 라디오는 지직거리지 않을 때까지 손을 돌려서 채널을 맞췄죠!) 그의 반대인 tune out은 ‘소리를 듣지 않다, 무시하다’를 의미합니다. 뭐라고 떠들든 귀를 탁 닫아 버리는 겁니다.
+  * 엄마가 집이 더럽다고 잔소리 할 때 아빠가 귀를 닫고 안 듣고 있었다는 걸 알 수 있었다. I could tell my dad was tuning out when mom was nagging about the dirty house.
 * 기타를 치기 전에 기타 줄을 맞추는 것을 '튜닝' 이라고 하는데요. 이렇게 무언가를 서로 잘 맞추는 것을 tune 이라고 합니다. 반의어로는 out of tune 이라고 표현할 수 있어요.
   * 그 제안은 여론과 정말로 일치합니다.ex) The proposals are so in tune with public opinion.
 
@@ -2155,6 +2215,8 @@
 * #천년 주기 #millennium; around the #turn of the millenium
 
 ## tuck
+* 셔츠 자락이 나와 있어. 바지에 집어넣어. Your shirt is hanging out. Tuck it in.
+* 아이들은 스튜를 정말 게걸스럽게 먹었다. The kids really tucked into the stew.
 * 내가 재워줄게; I'll be happy to tuck you in 2. 집어 넣다; he tucked in his shirt 3. 열심히 먹다; he was tucking in a large pizza
 * 1) tuck away 는 무언가를 잘 보이지 않는 곳에 위치시키다-라는 뉘앙스의 뜻으로 장소의 경우엔 영상에서처럼 수동태로 쓰여서 [한적한 곳에 위치하다] 라는 의미를 가져요. 건물뿐만이 아니라 '사람' 에도 쓰일 수 있습니다.
   * 우리 아버지 별장은 산속 조용한 곳에 위치하고 있어요. ex) My father's cottage is tucked away in a forest.
@@ -2182,6 +2244,10 @@
 * : (OO에 대해) 좀 잘 알다 [ 숙어 ] know a thing or two (about OO) a thing or two는 정말로 한 ,두 개를 의미한다기보다는 '어느 정도', 강조의 '좀'을 뜻한다고 볼 수 있어요^^
 	* 제가 와인에 대해 좀 일가견이 있죠. I know a thing or two about wine. 
 
+## treat
+* 원래 treat 은 [대접하다, 한턱내다] 라는 의미를 가집니다. 예를 들어, [난 그녀에게 점심을 대접했다] 라는 문장은 I treated her to lunch. 라는 식으로 쓰는데요. 여기에 her 대신 oneself 를 쓰면 자기 자신에게 대접한다는 말이 되니, 큰 맘먹고 스스로에게 선물하듯이 무언가를 살 때 쓰는 표현이 됩니다.
+  * 큰맘 먹고 이 새 노트북 컴퓨터를 샀어. ex) I treated myself to this new laptop.
+
 ## trump
 * 카드게임에서 trump 를 ‘으뜸패’라고 하죠. trump 는 동사로도 쓰이는데요, 다른 어떤 것보다 항상 좋다, 우수하다는 의미입니다. 가장 좋은 것이 주어가 됩니다.
   * 돈이면 다 된다. (돈이 모든 것을 이기기 때문에)  Money trumps everything.
@@ -2204,6 +2270,12 @@
 ## track
 * track 은 말 그대로 사람들이 따라가도록 나있는 [길] 을 의미하는데요. 무언가를 함에 있어서 목표를 향한 길에서 벗어나지 않고 잘 따라갈 때 on track 이라고 합니다. 제대로 된 방향으로 나아갈 때는 on the right track, 잘못된 방향일 때는 on the wrong track 이라고 하고요. 잠시 잘못된 방향으로 갔다가 다시 돌아왔을 때는 get back on track 이라고 할 수 있어요.
 	* 데이빗. 넌 정말 잘 하고 있으니까 너 자신을 의심할 필요가 없어. ex) David. You're definitely on the right track, so no need to doubt yourself.
+
+## touch
+* 현재 세상이 어떻게 돌아가는지 정보가 없는 것을 의미하는 표현이에요. [너 정말 뭘 모르는구나!] 라고 말할 때, You're so out of touch! 라고 하시면 되겠죠?
+  * 그는 대중문화를 정말 모른다. ex) He's so out of touch with pop culture.
+  * out of touch 는 '연락이 끊긴' 이라는 뜻도 있어요.
+* 감을 잃다; lose one's touch
 
 ## top
 * at the top of my list는 말그대로 내가 (손에 꼽을 만큼 좋아하는) 것들 중에서 가장 일순위다, 즉 '가장 좋아하는, 가장 해보고 싶은' 일을 말할 때 쓰는 표현이예요~ 
@@ -2379,6 +2451,10 @@
 * 비격식 표현으로 상대방의 감정이나 입장 등을 고려하지 않고 굉장히 못된 태도로 대하는 것을 의미해요. 누군가를 밟고 지나가는 느낌의 단어들이죠? = walk over someone
 	* 걔가 널 함부로 대하게 놔두지 마. 이런 취급을 받을 필요가 없잖아. ex) Don't let him walk over you. You don't deserve this.
 * (고통, 창피를 신경쓰지 말고) 남자 답게 행동해라. walk it off 미국식  영국식 
+
+## wrack
+* nerve-wracking 혹은 nerve-racking이라고 씁니다. nerve는 ‘신경’이고 rack은 ‘괴롭히다, 시달리게 하다’입니다. 내 신경 하나하나를 괴롭히는 듯한 느낌으로, 어떤 상황이 사람을 매우 긴장하게 하거나, 안절부절 못하게 할 때 사용합니다.
+  * 운전면허시험이 내 삶에서 가장 긴장되는 경험이었어. Driving test was the most nerve-racking thing in my life.
 
 ## wrap
 * wrap는 '포장하다', '싸매다' 라는 뜻이에요. get wrapped up in sth을 직역하면 '무언가에 꽁꽁 싸매이다' 인데요, '다른 모든 것은 무시할 정도로 몰두해버리다' 라는 뜻입니다.

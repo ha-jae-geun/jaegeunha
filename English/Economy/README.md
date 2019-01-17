@@ -937,11 +937,16 @@ While the US raised interest rates and the dollar strengthened daily, China and 
 * 도체(금속; 전기 통함)와 부도체(플라스틱)
 * 시스템 반도체와 메모리 반도체로 구분된다.
   * 시스템 반도체: 유무선통신, 정보기기; 다품종 소량생산
-    * 인텔
+    * 인텔; 2018년 기준 한국: 3%
+    * 자동차 반도체는 이제 시작, 자율주행도 상용화 되려면 시간 필요
+      * 자동차 반도체의 개발은 로봇의 개발과도 연결(2018년 기준 네덜란드 NXP가 자동차 반도체 강세 2위 일본 르네사스 3위 독일 인피니온 4위 미국 텍사스인스트루먼트 5위 스위스 ST 마이크로)
   * 메모리 반도체: DRAM, SRAM; 경기 변동에 민감; 소품종 대량생산
     * 우리나라는 메모리 반도체 강국(2018년 기준 시장의 50%)
+      * D램은 속도는 빠르지만 메모리를 휘발성으로 저장해 데이터를 임시 보관한다. 반면 낸드플래시는 속도는 다소 느리지만 데이터를 계속 저장할 수 있다. 
+      * 차세대 메모리 RE램, P램, STT-M램
+              * STT-M램: 비휘발성 메모리, 무제한에 가까운 반복기록, 초고속 및 저전력 작동, D램/낸드플래시 장점 갖춤
 * 산업: 후방산업: 반도체 장비, 반도체 재료 - 반도채 제조 - 전방산업: PC, 휴대전화, 노트북, 자율 주행차
-* 반도체는 휴대폰에만 들어가는게 아니라 무인차, 자동차에 반도체 관련 온갖 설비가 늘어나고, 중국의 생산량보다 소비량이 더 빨리 증가하고 있으므로 반도체는 위기가 아니다.
+* 2018년 이후 앞으로, 반도체는 휴대폰에만 들어가는게 아니라 무인차, 자동차에 반도체 관련 온갖 설비가 늘어나고, 중국의 생산량보다 소비량이 더 빨리 증가하고 있으므로 반도체는 위기가 아니다.
   Semiconductors are not just a mobile phone. Semiconductors are not a crisis because unmanned cars, automobiles, and all kinds of semiconductor-related equipment are increasing and consumption is growing faster than China's production.
 
 ## 미국

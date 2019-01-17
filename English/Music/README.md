@@ -18,6 +18,7 @@
 * (하나의 주제가 되는 선율을 바탕으로 리듬, 화성 등을 변형해 나가는 기악곡을 ‘변주곡’이라고 하고 이 역시 variations on a theme of 로 표현합니다) We will play variations on a theme of Chopin.
 	* 동사 bang 은 쾅 하고 내려치는 동작을 말합니다. 그래서 피아노 건반을 쾅쾅 치거나, 자판을 빠르게 두드려서 단숨에 글을 써내려가는 것을 bang out 이라고 합니다.  하지만 치는 동작과는 상관없이 의미를 확장시켜서 ‘아무렇게나 빨리 해치워버리다’라는 뜻으로도 쓸 수 있습니다. 그리고 문맥에 따라서는 ‘성관계를 하다’를 의미하기도 합니다. 
 	* 그가 피아노로 뭔가 쿵쾅쿵쾅 칠 때마다, 온 동네 길가까지 다 들린다. Whenever he’s banging out something on his piano, you can hear it all the way down the street.
+* 피리도 필요해요; i have to have a flute
 
 # 기타
 * 대중 음악에서 후렴부를 복잡하게 쓰면 사람들은 싫어한다. People complain about complicated refrain/Chorus in popular music.

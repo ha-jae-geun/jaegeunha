@@ -9,6 +9,7 @@
 * 장댓비; Heavy rain is expected this afternoon
 * 가랑비; there was a fine rain in the morning
 * 물을 첨벙거리다; She splashed about water
+* 비 바람을 맞으며 앉아있따; i'm a shepherd, sitting here in the elements
 
 # 여름
 * The crops are withering in the scorching heat. ; heat wave, sweltering heat, scorching heat 폭염으로 농작물이 시들어 가고 있다

@@ -594,19 +594,4 @@
 * 참고로 집에 생활비를 가져다주는 가장은 breadwinner라고 합니다. 
 	* 축구팬들은 그가 한국에게 좋은 성적을 안겨주리라 기대하고 있다. The soccer fans are relying on him to bring home the bacon for Korea.
 
-## 운명
-* 운명을 다시 써보는 건 어때? WHy don't we rewrite the stars
-* 기적이 일어난다면; if the stars align
-* as fate/luck would have it = 운명처럼, 하필이면
 
-# 화장실
-* 화장실 써도돼? Can i use/go to the bathroom?
-* 배변활동; bowel movents; It's about bowel movement [ˈbaʊəl]
-	* 배설; excretion 미국·영국 [ikskrí:ʃən]; produce less excretion
-* 욕조를 닦자; Wash that tub
-	* 족욕; foot bath
-* 목욕; 나는 얼굴에 비누거품을 칠하고 면도를 하기 시작했다. I lathered my face and started to shave. 
-* 변기 시트 올려놨나? We left the toilet seat up?
-* 수도꼬지 잠글 줄 몰라서 이렇게 ㅐ놓은거야? THis is because some idiots couldn't turn the sinks off?
-* Lather, rinse, repeat 을 직역하면 [비누 거품을 내고, 헹구고, 반복] 이라는 의미로, 비누 거품을 내고 헹구고 내고 헹구고 하면 끝이 안나는 모습에서 나온 표현으로 어떤 행동이나 과정이 계속 반복되거나, 반복 되어야 할 때 쓰는 비격식 표현입니다.
-  * 걔는 항상 여자를 사귀면, 한 달 안에 헤어지고, 다른 여자를 만나. 항상 반복이야! ex) He always starts dating a girl, breaks up within a month, and meets another girl. Lather, rinse, repeat!

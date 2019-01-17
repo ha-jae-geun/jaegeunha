@@ -89,6 +89,7 @@
   * 항상 미워할 사람을 찾고있찌; Awas on the lookout for someone to hate; be on the lookout for
 * con 1. 사기치다; 2. covict 3. cons: 단점
 * 고소하다; accusation[ˌækjuˈzeɪʃn] ; 무고죄: false accusation
+  * sue는 ‘고소하다’, get/be sued는 ‘고소당하다’입니다. 그리고 좀 더 구체적으로 ‘~한 일로 고소하다/고소당하다’라고 하려면 「sue 사람 for 피해사실 / get sued for 피해사실」로 말하면 됩니다. 그리고 sue와 관련되어 자주 쓰는 관용표현이 있는데요, 바로 “Sue me!”입니다. 이 표현은 “마음대로 해봐! 상관 안 해! 배 째라!”라는 뜻입니다. 나는 두려울 게 없으니 억울하면 고소해라 이런 뉘앙스인거죠.
   * 아동, 성적 핟개; child/sexual abuse
     * 성추행 molest 미국·영국 [məˈlest]; molester
 
@@ -168,6 +169,8 @@
     * 금단현상; 금연한지 3일짼데, 심각한 금단증상이 있어. ex) It's been 3 days since I quit smoking, and now I have serious withdrawal symptoms.
     * 내가 콜라 중독이란건 모두가 알아. ex) Everyone knows I'm a Coke addict. 동사로 [중독되다] 라는 뜻도 있지만, 명사로도 쓰인답니다.
     * 스테로이드의 별칭; on the juice; juiced
+    * narcotic(마약)의 앞 글자만 딴 것입니다. 신분을 감추고 몰래 마약 거래를 단속하는 사람, 혹은 경찰을 가리킵니다. 혹은 동사로 [narc on 사람 : 마약 소지로 밀고하다]라고도 쓸 수 있습니다.
+      * 쟤 믿지 마. 경찰 앞잡이 같아.  Don’t trust that guy. I think he’s a narc.  [nɑːrˈkɑː-]  영국식 [nɑːˈkɒtɪk] 
 * 큰 금고; #vault
 * 1. 누가 불러도 쳐다보지 않기
 * 2. 핸드폰 들고 다니지 않기(이어폰 들고 도망갈 수 있음)

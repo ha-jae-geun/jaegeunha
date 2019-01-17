@@ -60,7 +60,9 @@
 * 이 옷장을 다 뒤져봐도 6사이즈에 맞는 건 없어; There's nothing in this whole closet hat'll fit a size six
   * 세번째이자 마지막인 옷장 필수템은; for my third and last closet essential
   * 옷장 필수템; wardrobe staples
-
+* * 주변의 시선을 끌 정도로 옷의 색상, 패턴 등이 매우 화려한 것을 loud 라고 합니다. 눈으로 봤을 때 너무 요란(loud)하다는 의미에서 주로 부정적으로 쓰이지만, 상황에 따라서는 긍정적으로 볼 수도 있습니다. 섹시함과 화려함을 강조한 옷이라는 어감으로요. 
+  * 면접때는 너무 화려한 의상을 입지 않는 것이 좋아. You shouldn't wear anything too loud to a job interview.
+  
 # 재료
 * [명사] 흑담비; sable' 세이블 모피는 트리 밑에 놓고 가요; Slip a sable under the tree for me; Santa tell me
 * 이 털실이면 될까? will this yarn work?
@@ -110,27 +112,7 @@
 * 때에 맞춰 옷을 입다 dress appropriately for the #occasion
 * 몸 등이 커져서 못 입게 되다, ~보다 더 #커지다; #outgrow; the childre have outgrown
 ------------
-* 대박 촌스러워 							That's so corny, #out of fashion
-* #유행한다 #In fashion = it's in <> it is #out
-* #fad; ~ are the fad
-* 유행을 타지 않는다. #never go out of style(#style)
-  * * conform to what’s going on today = 유행을 따르다
-    * 많은 십대들은 요새 유행하는 것을 따르고 싶어한다. A lot of teenagers want to conform to what’s going on today.
-  * '(be) ahead of the curve'는 '트렌드에 앞서서' '시대를 앞서가서'를 가리키는 관용적 표현이랍니다. 반대로, '(fall) behind the curve'라고 하면 '트렌드에 뒤져서' '시대에 뒤떨어져'의 의미겠죠~
-    * 카카오는 새 기술들을 도입하는 데 앞서왔다. [ex] Kakao has been ahead of the curve in adopting new technologies.
-  * '시간이 지나도 촌스러워지지 않는(즉 유행을 타지 않는), 고전적인 미를 갖고 있는' 이런 뜻이에요! 
-  timeless book/movie/play/classic (책/영화/연극/고전작품)
-  * * 'run rampant'는 '횡행하다' '만연하다'로 해석될 수 있는 표현입니다. 무언가 억제되지 않고 제멋대로, 지나치게 마구 퍼지는 것을 말하죠. 오바마는 미국 민주주의에서는 견제와 균형이 잘 작동해서 다수당이더라도 함부로 마음대로 할 수 있는 구조가 아니라고 보았네요.
-  * 어떤 문화에서는 여성혐오가 난무합니다. [ex] In some cultures, misogyny runs rampant.                          
-  * 환경 문제와 관련된 시류에 열심히 편승하는 정치인들 politicians eager to jump on the environmental bandwagon 
-  * 여기서 hype는 인기를 끄는 것, 열광하는 것, 유행하는 것을 의미합니다. 스타벅스는 전세계에서 성공적으로 매장을 운영하고 있는데 호주만큼은 ‘그 유행’에 관심이 없어 보인다고 하네요. There's been a lot of hype around his latest film.
-  * #pervasiveness [pǝrvéisiv]
-  * 유행 역행하다; #swim against the tide /#current
-  * 영상에서처럼 craze 라는 단어 앞에 무엇이 유행하는지를 붙이거나, 뒤에 전치사 for 를 써서 [~의 유행] 이라고 표현할 수도 있습니다.
-    * 여자들 사이에 요가 열풍이 불어서 다들 요가 매트 같은 것들을 사곤 했었죠. ex) There was a yoga craze among women and everyone bought yoga mats and stuff.
-  * 유행이다; That ' s all the rage among young people
-  * 그리고 독감이나 감기가 유행하면, 우린 훨씬 더 바빠지죠. And once the flu or colds go around , we become even busier. 듣기 출처:YBM
-* ##fashion
+출처:YBM
 * #wear	#trying on, putting on
 * try on: 입어봐도 되요? put on: 입는 동작
 * ##wear

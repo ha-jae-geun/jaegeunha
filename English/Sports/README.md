@@ -253,7 +253,8 @@
  * 다리 부상으로 원정경기에 빠지다 miss the road trip due to a leg injury
  * 대신하다: stand in for
  * 부상을 당하다: suffer an injury
- * 부상선수를  교체하다: replace an injured player
+ 	* 부상선수를  교체하다: replace an injured player
+ 	* 햄스트링; 나 뒷다리 힘줄쪽이 접질린 것 같아. I think I've pulled a hamstring!
  * 16강(8강, 4강, 결승)에 순항하다 :cruise into the second round (quaterfinals, semifinals, finals)
  * 월드컵 본선 진출 자격을 얻다: qualify for the World Cup finals, win a berth in World Cup finals
  * 월드컵 본선에 진출하다: reach[advance, make it to] the World Cup finals

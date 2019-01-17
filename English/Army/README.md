@@ -29,6 +29,8 @@
 		* 사라토가 전투 미국의 승리에 크게 기여했지만 보상을 못 받아 미국군을 배반하고 영국군에 합류
 		* 대표적인 미국 아침식사: 에그 베네딕트: 위: 계란+베이컨(미국) 아래: 잉글랜드 번(영국)
 		* 할리우드 영화 속 악당 중엔 베네딕트가 많다
+	* 원래 쿠데타는 프랑스어로 정확한 스펠링은 coup d'etat 입니다. 하지만 발음상의 어려움으로 그냥 줄여서 coup 이라고 하고요. 시사 관련 내용에서 꽤 많이 나오는 단어이기 때문에 알아두셔야 합니다.
+		* 그는 군사 쿠데타로 정권을 잡았다. ex) He seized power in a military coup.
 *  일제 강점기는 우리 민족의 수난기였다 The Japanese occupation period was a time of tribulation for our nation
 	* 지배;  under the colonial administration of imperial Japan
 	* rull over the non-magical beings
@@ -100,6 +102,7 @@
 * #군대 #군복무 #복무 | #훈련 #요새 #다듬다
 * 소규모 #접전, #충돌; #skirmish
 * #truancy - 충돌, 분쟁
+	* 분쟁 지역; 도대체 왜 그런 분쟁 지역으로 가려는 거야? ex) Why the hell are you planning to go to such a trouble spot?	
 * #공격하다; #turn on each other
 * #퍼붓다; #bombard; bombard a fort; bombard rough words
 * #맹공격; #bash; Bashing politicians is normal practice in the press

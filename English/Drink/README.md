@@ -101,6 +101,7 @@
 * #과음 #폭음 						excessive drinking binge drinking
 	* 어제 과음했어요 								 I overdid it last night
 * #술버릇 									drinking habits
+	* 안전하게 귀가하세요; Here's to your safe journey home
 	* #술기운									 intoxication
 	* 술김에 생기는 용기 #liquid courage; I had liquid courage
 	* #취한 상태 sober< tipsy-buzz-drunk라고도 하고, intoxicated < krunk, wasted, hammered, plastered
@@ -175,6 +176,7 @@
 	* 이 술이 우리를 꽐라 만드네 				 This liquor gt both of us faded
 	* 나 어제 필름 끊기도록 마셨어 				 I was blackout drunk last night
 * 2차 갑시다, 2차는 내가 낼게		 Let's go somewhere else. I got the next round
+	* 2차 갑시다; Let's goo barhopping
 	* Let’s go for/ hit the second round
 * 나가서 술좀 깨자 	Let's get out and walk it off
 	* 술 깼어	I'm sobering up

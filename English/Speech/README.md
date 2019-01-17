@@ -18,6 +18,8 @@
   * 추정컨데, 그녀가 그것을 혼자서 했었을 수도 있어.  Supposedly, she might have done it alone herself. 
   
 # 말
+* [표현하다] 라는 뜻의 단어는 express 도 있는데요. express 는 좀 더 일반적인 단어이며, 표현을 잘하든, 잘하지 못하든 express 라고 할 수가 있습니다.  반면에 articulate 는 express clearly 라고 생각하시면 되는데요. 생각, 감정 등을 '분명하고 능숙하게' 표현해내는 행위를 의미해요. 또한 형용사로도 쓰여 [잘 표현하는/또렷한] 의 의미를 갖기도 합니다.
+	* 전 당신의 회사에 레베카를 정말로 추천합니다. 그녀는 굉장히 밝고 표현을 잘해요. I highly recommend Rebecca for your company. She's very bright and articulate.
 * = 간접적인 방식으로 (얘기하면), 완곡하게, 에둘러서 in a roundabout way 
 	* = 그를 조금 에둘러 거절해야만 했어. 감정 상하게 하고 싶지 않았거든. I had to refuse him in a roundabout way. Didn't really wanna hurt him.
 * 1) brief 가 형용사로 [간단한] 이라는 뜻이 있기 때문에 자칫 잘못하다간 뜻이 헷갈릴 수도 있어요. 영상에서처럼 동사로 쓰였을 땐 [(어떤 일 등을 대비하여) 철저히/자세히 알려주다] 라는 의미를 가집니다. 전치사 on/about 등을 써서 [~에 대하여 알려주다] 라고 쓰여요. 2) 영상에서는 크리스가 수술 전에 설명을 굉장히 자세하게 받기 때문에 쓰여진 단어이구요. 설명을 하는게 아니라 받기 때문에 수동태 [be briefed] 라고 쓰였습니다.

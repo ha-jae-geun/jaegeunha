@@ -67,6 +67,7 @@
 * #장례식 funeral (service/ceremony), burial service #장의사; [mɔːrtíʃən] #mortician #undertaker
 * #상주 #head moaner
 * #추모; #throw a memorial; #memorial
+	* * memorialize the deceased = 사망자들을 추모하다 ‘고인’은 영어로 the deceased, the dead 라고 합니다. 혹은 끔찍한 사건의 희생자니까 victims 라고 할 수도 있겠습니다.
 * #at the wake; I had the cheese at the wake
 * #삼가 #조의를 표하다; i'm sorry for your #loss
 * 깊은 #애도를 표합니다; my deepest condolences to you;
@@ -87,6 +88,9 @@
 * 자살하다 take your own life(우회)
 	* 자살 하려는 사람: Jumpers
 	* #feeling suicidal; #suicidal
+	* take to cutting myself = 습관처럼 자신을 자해하기 시작하다
+		* 그리고 ‘자해하다’는 기본적으로 hurt oneself 인데요, cut oneself 는 컷터칼(paper cutter)이나 면도날(razor blades)로 자신의 손목을 긋는 경우를 말합니다.
+		* 손목에 그 상처는 뭐야? 자해해서 그런거야? What’s that scar on your wrist? Is that from hurting yourself?
 * 얼굴을 땅에 박고 죽다								 bite the dust
 * 죽는다						 be six feet under: 관을 6피트 깊이로 묻는다.
 * #즉사 drop dead; just gonna go drop dead to sleep

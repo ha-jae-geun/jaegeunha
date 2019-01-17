@@ -16,19 +16,6 @@
 * 동성애자는 가장 캐주얼한 표현으로는 gay 라고 하는데, 남성 뿐만 아니라 여성도 gay woman 이라고 합니다. 물론 여성 동성애자 분들은 lesbian 이라는 단어를 더 선호하고, 조금 더 격식 있는 단어는 homosexual 이고요.
 * 1) underdog은 ‘사회적 지위가 낮은 사람, 약자’를 의미합니다. 
 * 분위기 꺠는사람; buzzkill; i hate to be a buzzkill
-* 똑똑한 척 하는; fancy-pants(값비싼 바지) fancy-pants tool; 형용사 2. 멋쟁이; 
-	* 우리 말에도 장난으로나 진지하게 "머리 좀 컸다고..." 라는 말로 문장을 시작하곤 하는데요. 머리가 커지고 아는 게 많아지면서 자기가 잘났다고 자만심 많게 행동하는 사람들을 의미할 때 big-headed 라고 합니다.  ex) Why is he acting like a big-headed man all of sudden?
-	* boast: 지나친 자신감과 자기 만족감을 가지고 무언가를 자랑하는 것을 의미해요. 주로 자기가 성취한 것을 자랑할 때 많이 쓰입니다. brag 라는 말도 자주 쓰이는데요. brag 가 조금 더 부정적인 뉘앙스에요. boast 는 실제로 자랑할 만한 거리가 있을 때 하는 자랑일 수 있는 반면, brag 는 아무것도 없는데 말로만 자기 잘났다고 떠드는, 즉 [허풍을 떨다] 의 뉘앙스입니다.
-	* 허풍을 떨다; He's kind of larger than life
-	* 너무 자신만만해; She's so full of herself; bragging: 물건 자랑
-	* 잘난 척 하긴; SHow off; stuck up
-	* 허풍 떨지말고; Don't brag about it; She keeps bragging about her car
-	* 그 사람은 이길 때 잘난척이 심해져; He gets a bit cocky when he's winning
-	* 원래는 [정사각형] 을 의미하는 단어인데요. 정사각형은 가로 세로의 길이도 같고 각도도 같아 조금은 지루한 도형일 수가 있습니다. 그런 모습을 생각하시면 기억하기 쉬운 단어인데요. 사람도 바뀌지 않고 예전 방식 그대로를 고수하고 고지식하고 지루한 사람을 비격식 표현으로 square 라고 합니다.
-	* 어린애라고 해서 그를 넘보아서는 안 된다 You should not make light of him as a mere boy . 듣기 출처:동아 출판
-	* 나 무시하지마; don't belittle me
-	* 그는 여자들에게 거들먹거리는 태도를 취한다. He has a condescending attitude towards women. 
-	* slight 는 형용사로는 [관심을 기울이지 않아도 될 만큼 가벼운], 명사로는 [무시, 모욕], 동사로는 [무시하다] 라는 의미를 가져요. 누군가를 가볍게 여기고 리스펙 하는 것 없이 행동하는 것인데요. 그래서 주로 수동태로 쓰이면서 [무시당하다] 라는 의미를 가집니다. = be(feel) slighted
 * 평범한 건 원하지 않아요; We don't want the standard
 * 추종자들이 있는 권위자, 전문가; guru; 흰두교에서는 종교적 스승, 지도자   expert: 사람들의 전중ㅇㄹ 받는 전문가
 	* guru 는 [전문가] 라고 해석이 되기는 하지만, 조금 더 구체적인 모습을 가진 단어입니다. 같은 의미의 expert 의 경우엔 자기 분야에 방대한 지식을 가지고 있고, 종종 그와 관련된 학위나 자격증 등을 가지고 있는 경우가 많아요. 그러나 guru 는 방대한 지식을 가지고 있을 수도 있지만, 꼭 그렇지 않아도 조언을 해주는 사람들을 의미하는 뉘앙스가 짙은 단어입니다. 또한 중요한 건, guru 의 경우엔 '추종자'들이 꽤 있다는 점이에요.  그래서 guru 가 되기 위해서 본인이 꼭 expert 일 필요까지는 없습니다. 반대로 누군가가 expert 일지라도, 그를 좋아하고 따르는 사람들이 없다면 guru 라고 불리지 않겠죠. guru 가 종교적 지도자를 의미하기도 하는 건 우연이 아니겠지요~
@@ -78,7 +65,7 @@
 	* 아첨하다; brown-nose; brown-noser; kiss someone's ass
 	* 별볼일 없는 녀석; dud
 	* 저 찐따들 잡아와; go get that barf back; barf: 토사물
-	* 바보; silly
+	* 바보; silly; = numbskull; jerk, idiot
 	* 입 다물어 이자식아; Just cool it, zippy
 	* 교육을 덜 받고 외모도 이상하게 하고 다니며 시골에 사는 촌놈, 촌뜨기라는 의미의 단어입니다. 당연히 약간의 경멸적인 뉘앙스를 가져요.; yokel ˈjoʊkl] 
 	* 다른 사람의 비웃음을 받는) 얼간이 dork 

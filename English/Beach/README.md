@@ -81,8 +81,12 @@
 * #물방울	#drop·let 
 * #등대	They are #touring the #lighthouse
 * 타이타닉 #침몰 	Titanic #drawing
+* 닻; ‘닻을 내리다’는 drop anchor / lower the anchor 라고 합니다. 관사를 주목해 보시면 drop anchor 는 관사 an/the 를 붙이지 않습니다. 이 밖에 앵커, 뉴스진행자, 믿고 의지할 만한 사람/사물을 뜻하기도 합니다. 
+	* We dropped anchor and stopped the boat.
 * #표류	#drift around; 
 	* 구출될 가능성이 없는 우주에서 표류하는건; Being adrift in space with zero promise of rescue
+	* * be found adrift at sea = 바다에서 표류하다 발견되다
+		* ex) She was found adrift at sea. = 바다에서 표류하고 있는 채로 발견되다.
 * #징검다리 #디딤돌	#stepping stone
 * #숲
 * #지속 가능한; #sustainable; sustainable #forest management

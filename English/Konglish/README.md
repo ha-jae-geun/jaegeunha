@@ -1,4 +1,5 @@
 # 기타
+* 캠핑카; Camper, RV
 * 학원; academy -> i have English class later
 * 스트레스; i've been under a lot of streess at work
 * 고향; hometown -> i'm going to home to Busan this weekend

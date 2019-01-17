@@ -27,6 +27,7 @@
 	* 행동거지 나쁜 아이; brat
 
 # 놀이
+* 일반 가정집에서 아기방으로 꾸며 놓은 방은 nursery 라고 해요. 아기가 커서 놀이방이 필요할 때 놀이방은 playroom 이라고 하고요. 참고로 동요, 자장가 등 아기들이 듣는 음악을 nursery rhymes 라고 하기도 합니다. 주로 누군가를 돌보는 장소에 nurse 관련 단어가 붙는 경우가 많은데요. 아이들이 가는 어린이집은 보통 daycare (0-5살) 라고 하지만 nursery school 이라고 주로 3살부터 6살까지 주로 학습보다는 놀이를 통한 보육을 하는 곳이고요. 줄여서 그냥 nursery 라고 하기도 해요. 노인분들을 위한 양로원은 nursing home 이라고 합니다.
 * 7 스페이드인것 같아요; It's a seven of spades	
 	* 카드를 뒤집을 필요가 없다; THere's no need to turn the card over
 * Criss-cross: 틱택토;  hopscotch; 바닥에 사각형 그려놓기 게임
@@ -36,8 +37,17 @@
 * 술래: IT
 
 # 청소년 #아이
+* be given up for adoption = 입양되어지다 ‘입양보내다’는 [put/give 아이 up for adoption] 혹은 [send 아이 to be adopted/for adoption] 이라고 합니다. 이 패턴들을 수동형으로 바꾸면 ‘입양 보내지다’가 됩니다. 가장 간단하게는 be adopted 입니다.
+	* 그녀는 부모님이 아이를 키우기에는 너무 어려서 입양보내졌다. She was given up for adoption as her parents were too young to raise her. 
+	* 그들은 아이를 입양보내지 않기로 결심했다. They decided not to put him up for adoption. 
+	* 나는 다섯살 때 입양보내졌다. I was sent to be adopted when I was five.
 * 제가 우리 아이를 너무 과잉보호하는 걸까요? Is my child too sheltered?
 	* 일부 텔레비전 프로는 아이들을 깔보는 듯한 태도를 보이는 경향이 있다.[also V] [VN] Some television programmes tend to patronize children. 
+	* 모든 관심과 친절을 베품으로써 누군가를 최대한 편안하게 해주는 것을 의미하는 단어인데요. 종종 육아 관련한 대화일 때는 [응석을 받아주다/오냐오냐하다] 라는 조금 부정적인 의미로 쓰이기도 합니다.
+		* 그는 외동아들이라 조금 심하게 응석받이로 자랐어. ex) He was pampered a bit too much because he was an only son.
+	* 믿을만한 손에 맡겨져서 잘 관리받고 보살핌 받는 경우에 굉장히 자주 쓰이는 표현이에요. 사람뿐만이 아니라 동물, 사업체, 작업 등이 잘 다뤄질 때 광범위하게 쓰인답니다.
+		* 고양이 걱정은 하지마. 잘 보살핌을 받고 있으니 여행이나 즐겨! ex) Don't worry about your cat. She's in good hands, so enjoy your trip!
+	* 1) 여자인데 일반적인 사람들의 기준에서 여자들이 좋아하는 쇼핑이나 남자들에 대해 수다를 떠는 것 대신에, 남자들이 좋아할 법한 운동, 게임, 그런 활동을 좋아하고 왈가닥 하는 말괄량이를 tomboy 라고 합니다.
 * 비행 십대들 delinquent teenagers [dɪˈlɪŋkwənt]]
 * 3세 이상이라고; Ages 3 and upㅈ
 * 날 야단치지 마. 	Don't bite my head off

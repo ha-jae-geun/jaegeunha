@@ -317,6 +317,7 @@
 * 치료 비용이 너무 많이 든다 the treatment costs too much
 * 파열; 대동맥이 파열되면 죽을 수도 있어요. ex) You could die if the main artery ruptures.
 * 상처를 치유하다; #dress a wound(#wound)
+  * 내 작은 상처들을 치료해주다; She kisses my boo-boos
   * scar: 흉터; lump: 혹; bruise: 멍; 눈언저리 멍: black eye; 온통 멍이 든; be black and blue; 물집: blister; 발진: rash
   * 큰 상처를 입다; take a knock; this has definitely taken a knock for me
   * B에게 A를 가하다; inflict A on(upon) B; Your words have infliced huge pain on her
@@ -688,6 +689,7 @@
 
 
 # 약
+* 약국이라고 하면 보통 pharmacy 를 생각하실텐데, 미국, 캐나다, 영국, 호주 등에서는 약국과 편의점이 합쳐져 있는 형태로 많이 존재합니다. chemistry shop 도 마찬가지고요. 주로 drug store/drug shop/drug mart 등으로 불러요. 여러가지 잡화와 약을 함께 파는 곳들이고, 약사도 항상 상주하고 있습니다. 반면에 pharmacy 는 말 그대로 약만 파는 곳인데, 상대적으로 존재하는 개수가 작습니다.
 * 현재 경구피임약을 복용하고 있는 중이라면, be on the pill이라고 합니다. 영상에서도 11살 때부터 피임약을 복용해오고 있는 중이기 때문에 have been on the pill이라고 하였습니다. 전치사 on 대신 off를 쓰면 반대로 복용하다가 현재는 아니라는 뜻이 됩니다.  반면, go on the pill / go off the pill 일 경우 위와 같이 복용중인 상태를 표현한다기 보다 복용하기 시작하거나 복용을 끊다라는 행동을 나타내는 표현입니다. 
 * ‘사후피임약’은 영어로 무엇일까요? 의학적으로는 emergency contraceptive pills(응급피임약)이라고 하지만, 실생활에서는 plan B, 혹은 morning after pill 을 자주 씁니다.  임신을 피하기 위해 차선(plan B)으로 선택하는 것이 응급피임약이기 때문에 plan B pill이라고 불리는 것이고, morning after pill은 밤에 거사(?)를 치른 후 아침에 응급으로 먹는 피임약이라는 의미에서 붙여진 것입니다.
 * 물 없이 그냥 삼키다; dry shallow 

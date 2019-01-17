@@ -30,6 +30,8 @@
 	* 감정이 왔다갔따하다; my feelings hae been all over the place
 	* 이용자 참여  나는 내 감정을 드러내지 않기로 정했다.  I choose not to wear my heart on my sleeve. 듣기
 	* 막상 헤어지니 싱숭생숭해; i'm sitting on my feelings;
+	* '심하게' 라는 단어에서 풍겨지는 뉘앙스처럼 누군가가 봤을 때 조금은 멍청하리만치 사랑이나 감정을 마구 표현하는 걸 의미하는 비격식 단어입니다.
+		* 누군가는 이 신곡이 심하게 감성적이라고 할 수도 있겠지만, 내겐 너무 달콤하게 들려. ex) Some might say their new song is sappy, but to me, it sounds so sweet.
 * 악감정 있어; There's been bad blood between
 * 기분을 좋게 해주는 사람이 될 거예요; Gonna be the one who can elevate; elevate/lift one's spirit
 	* 기분이 너무 좋아요; i'm tickled pink

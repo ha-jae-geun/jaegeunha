@@ -372,6 +372,8 @@ I have a big crush on you / I have a thing for you, i'm into you
  	* #hit 속어: 성관계하다
  	* 한 가지만 생각하다, 주로 sex; you ain't got a on-track mind
  	* 그녀는 바에서 낯선 남자로부터 섹스를 하자는 제의를 받았다. She was propositioned by a strange man in the bar. - 유튜브 cut
+ 	* 여기서 consent and agency는 자세히 말하면 sexual consent and sexual agency 입니다. sexual consent란 ‘성적 합의’로, 성관계를 맺을 동의, 성관계의 허락을 의미합니다. 그리고 sexual agency는 ‘성적 주체성’으로 해석하는데요, 성에 대해서 스스로 결정을 내리는 자세를 뜻합니다. 예를 들어 이성애 혹은 동성애와 같은 성적 스타일에서부터, 언제 어디서 누구와 관계를 맺을지에 대한 것 등이 성적 주체성이라고 볼 수 있습니다. 
+ 		* 남성과 여성 사이에 성적 합의에 대한 말들이 많다. There are a lot of issues about sexual consent between men and women. 
  * #panky; #hanky-panky
  * 술먹으면서 마리화나 피우며 떡; #sippy on the panky
  * 부부생활 할 떄 침실로 들어와여; SHe only comes to the bedroom when it's time to be intimate
@@ -849,6 +851,8 @@ I have a big crush on you / I have a thing for you, i'm into you
  * 신혼 생활은 어때요? 					 njú:liwèd How are the newlyweds? 
  * 신접 살림은 어디에 마련했어요? 				Where have you settled down? 
  * 결혼한 지 얼마나 됐어요? 				 How long have you been married? 
+ * 대리모; traditional surrogacy 는 정자만 제공하는 것으로 대리모가 아이의 생물학적 어머니입니다. 반면 gestational surrogacy 는 자궁과 정자 모두 타인의 것으로 유전자와 상관없이 진짜 배만 빌리는 것이죠. 국내 학계에서는 ‘수태대리모, 임신대리모, 출산대리모, 인공수정대리모’ 등 다양하게 부르고 있습니다.  dʒeˈsteɪʃn] 
+ 	* 법원은 대리모가 출산한 아이의 친권자라고 판결내렸다. The court ruled that a surrogate mother is the legal parent of the child she has given birth to. 
  * 아이들이 있어요? 						 Do you have any children? 
 	 * 시댁 식구와 자주 연락해요? 				 Do you see your in-laws often? 
 	 * 축하해요! 이제 아기 아빠가 되겠군요. 	 Congratulations! So you're going to be a father. 

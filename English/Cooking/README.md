@@ -41,6 +41,7 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 * 사슴; Deer 사슴고기: Vension
 * 곱창; entrails -> beef/pork intestines
 * 육식 meat diet; 육식을 하다 eat meat
+* (닭고기) 가슴살로만 주세요; Whit meat only
 
 # Kitchen
 * #앞접시; please give me a #small plate
@@ -141,6 +142,7 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 * #치킨; #chicken <> #chook; #양념치킨; #glazed chicken
 * 설탕 조금만 넣어주세요; Easy on sugar please
 * 그리고 저는 기름을 한 방울 넣을건데; i'm going to add a splash of oil
+* 양파에 푹 담가서요. Smothered in onions
 
 # Restaurant
 * 고급 식당; an #upmarket restaurant 

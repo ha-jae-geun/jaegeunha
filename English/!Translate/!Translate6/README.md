@@ -1,3 +1,13 @@
+# Recently, Lately, These days - 구분해서 말해야 더 자연스럽다
+* 친구 중 하나가 최근에 애기를 낳았어요; 
+  * A freind of mine had a baby recently; 최근에 일어난 일은 recently만 사용 가능
+* lately: 과거부터 현재까지 이어지는 지속적인 일
+  * 최근에 공해가 엄청 심해졌어요; The air pollution has gotten really bad lately; lately는 최근에 보다는 요새; 앞으로 어떻게 변할지는 모름(<>these days)
+* 나 요새 잘 떄 계속 이상한 꿈을 꿔; Lately, i've been having strange dreams at night
+* These days; 현재에 대해서만 말 하는 것; 현재에도 정착이 되었고 앞으로도 그런식으로 될 전망
+  * 요새는 남들도 많이 화장하고 다녀; These days, a lot of men wear makeup, too.
+* Recently => 최근에 (과거); Lately => 요새 (현재완료. 지속); These days => 요새 (미래에도 지속. Trend)﻿
+
 # 'apparently' 를 배워보자 - 무슨 의미이고 언제 어떻게 쓰는걸까?
 * apparently는 "내가 보고 들은 내용을 토대로 하는 추측"이라면 'supposedly'는 일반적으로 알려져 있는 사실을 토대로 말하자면"이라는 의미입니다.
 * 명절 기간에는 배송이 길게는 1주일씩 지연되기도 한다나봐(추측/추정)
@@ -6,6 +16,15 @@
 * 친ㄱ인데, 사고가 났다나봐. 지금 병원에 있때.
   * It was my friend and, apparently, he was in an accident and he's in the hospital now
     * as far as i know: 내가 알기로는; 상황에 따라 다름
+* 잭은 못온대; 
+  * Jack can't come. / Jack says he can't come. / Jack isnt' coming
+* 이번주에 일을 해야 된다나봐; Apparently, he has to work this weekend
+* 엄마도 가아지를 좋아하시는데 알러지가 있으시다나봐; 
+  * My mom likes dogs too but apparently she's allergic. be allergic to가 정석이지만 문맥상 생략해도 됨
+* 다음 주에도 내내 미세먼지가 심할거라나봐ㅣ Apparently, the fine dust is going to pretty bad throughout next week
+* 해외에서 배송되는거라 시간이 좀 걸린다나봐; Apparently, it's taking a while because it's being sent from overseas
+* 걔가 동생이랑 사이가 별로 안좋다나봐; Apparently, he's not very close with his younger brother/sister
+  * Apparently, he and his brother/sister don't get along 
 
 
 # [ 영어 연습가이드 #41 ] - "생각할수록 좀 아닌 것 같더라고"
