@@ -6,6 +6,7 @@
  * 미국에서 가장 권위 있는 보도•문학•음악상.
 
 # 악기
+* 밴드;  I never played in a band when I was young; I play for a band
 * 연주 시작해; Hit it
 	* 사전에 준비된 것이 아닌 즉흥으로 연주를 하는 것을 말합니다. 재즈, 블루스, 락 음악 등에 주로 씁니다. jamming 의 발음은 [재밍]인데요, 영상속 리포터는 길게 느낌(?)을 살려 [지애밍]이라고 발음하네요. 
 		* 즉흥 재즈 연주회였어. (jam session: 잼세션, 즉흥재즈연주) It was a jazz jam session.

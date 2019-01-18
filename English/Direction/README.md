@@ -1,7 +1,7 @@
 * ##길 #거리 #avenue 	~하는 길에 on one’s way to O ; on your way home
-* 1. on my way home 2. on my way to 장소
-* 3. on my way to v
-* #curb; my dad is sitting out on the curb	
+	* 1. on my way home 2. on my way to 장소
+	* 3. on my way to v
+	* #curb; my dad is sitting out on the curb	
 * #전봇대; #Telephone pole
 * #갈 길이 멀었어 There is a long way to go = we've still got a long way to go
 * #긴 여정(#여정)이었지; it’s been a #long road
@@ -40,6 +40,7 @@
 * 쉽게 찾으실 수 있을거에요	You can't miss it
 * 여기서 거기까지 걸어갈 수 있나요?	Can I walk there from here?
 * 두 번째 골목에서 오른쪽으로 꺾으세요	make a second right 
+	* 도로가 굽어져요; This way is just a turn
 * 교차로에서 오른쪽으로 꺾으세요	make a right at crossroad.
 * #경사도	#gradient
 * #경사로	#ramp

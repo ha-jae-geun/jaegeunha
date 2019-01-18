@@ -532,6 +532,9 @@
 	* 이사 가기 전에 집에서 쓸모없는 것 좀 다 정리하자. ex) Let's declutter the house before we move out.
 * 여기 닳아 헤진 셔츠들은 다 버려야 해. ex) You should throw out all these worn-out shirts.
 * 이것저것 당장에 쓸모 없는 것들을 넣어두는 잡동사니 서랍을 junk drawer 라고 합니다.
+* polish는 광나게 닦는걸 뜻해요. 광나게 닦아놓은 걸 비유적으로 '정돈된', '세련된'이라는 뜻으로 쓴답니다. 반대격으로 볼 수 있는 표현이 gritty예요. 지저분하고 정돈 안 되고 불쾌한 현실을 사실적으로 보여주는 걸 gritty하다고 해요. TV 드라마를 묘사할 때도 많이 쓰는 표현인데 '왕좌의 게임'이나 '더 와이어' 같이 보기 불쾌하지만 현실을 잘 반영하고 사실적인 드라마를 gritty하다고 표현해요.
+	* 좀 사실적인 드라마 추천해주세요. [ex] Can you recommend me some gritty TV shows?
+
 
 # 살다
 # 인생

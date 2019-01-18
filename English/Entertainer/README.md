@@ -28,6 +28,8 @@
 * 소품; 목록에 있던 소품들 다 샀니? ex) Did you buy all the props from the list?
 
 # 연예인
+* 주로 배우나 운동선수의 전성기가 지나고 별볼일 없어졌다고 할 때 쓰는 형용사입니다. 
+  * = 그는 배우로서 이제 한물 갔다. He was washed-up as an actor.
 * casting은 엄밀히 말하면 '특정 배역에 맞는 사람을 찾는 과정'을 말하고, audition은 그 과정 중에 '지원자가 자신의 역량을 펼치는 일종의 시험'을 말합니다. 그러나 일반적으로 casting과 audition은 동의어로 통용됩니다.
 * tagline (명사): 특정 인물이나 사물을 대표하는 캐치프레이즈나 유행어; What's his tagline?
 * 스타벅스에서 일하는 남자는 영화에서 튀어나온 것처럼 생겼어. ex) The guy working at the Starbucks was like a man straight out of a movie. straight out of

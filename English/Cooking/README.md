@@ -15,6 +15,9 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 * 야식 먹으려고? Are you going to eat a midnight snack?
 
 # tool
+* 주전자; 이걸 주전자에 넣고; we're gonna put this into our pitcher
+	* 우유/물 주전자[병] a milk / water jug 
+		* 이 커피 한통이면 몇 명이나 마실수 잇나요? How many people does a jug serve?
 * 식기 깔개; Plcaemat; 식탁보: tablecloth; 조명 기구; light fixture; 접시: platter
 	* [A 를 숟가락으로 슬쩍 떠서 B 에 올리다] 라고 말하고 싶을 땐 spoon A over B 라고 하시면 돼요. 식사 관련 표현이기에 알아두시면 유용하겠죠! 
 		* 여기 그레이비 소스 보이지? 스테이크 위에 살짝 떠서 올려주면 돼. ex) You see the gravy here? You can spoon it over your steak.
@@ -404,6 +407,7 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 * #쌀가루 ;;#rice flour
 * #체로 치다; #sift the flour
 * #뚜껑; put the #lid on top of it
+	* 뚜껑을 닫가; Pop on our lid
 * #자르다; #cut the cucumber into pieces; into #edible size
 
 * #찍먹 #부먹 

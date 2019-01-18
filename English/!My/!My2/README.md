@@ -5,6 +5,7 @@
 * 그는 가르치는 일도 좀 하지만 다른 무엇보다도 그는 작가이다. He does a little teaching, but first and foremost he’s a writer. 
 
 # 일상
+* "I'm making some cushions."라고 하면 본인이 직접 쿠션을 만들고 있다는 뜻입니다. [get/have + 목적어 + 동사-ed] 패턴을 쓰면  "다른 사람으로 하여금 ~하게 한다"라는 뜻으로 바꾸어 줄 수 있어요. 즉 "I'm having/getting some cushions made."는 본인이 직접 쿠션을 만드는 게 아니고, 어딘가에 주문해서 쿠션을 제작한다는 뜻이 됩니다.
 * 꼭대기 층 부탁해; Top floor, please
 * 셋을 세고 하는가야                   On three
 * 멀리 갈 것 없다, 더 알아볼 필요 없다 (= 여기 당신이 찾는 게 있습니다)  "Look no further."

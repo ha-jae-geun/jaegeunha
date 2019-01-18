@@ -36,7 +36,9 @@
 * 미끄러지듯 발리네; it glides; it slides on
 * 눈썹을 채워볼게요; Fill in my eyebrows
 * 발색이 좋아; it is a super pigmented
-* 몇 개 발색해볼게요; Let's swatch some
+	* 몇 개 발색해볼게요; Let's swatch some
+	* 얼굴의 색, 즉, 안색을 나타내는 표현이 complexion입니다, 기본적인 피부색 (skin tone)을 나타내기도 하고 얼굴 피부의 상태를 나타낼 때도 사용할 수 있죠. 또한 어떤 사태의 상황, 양상 등을 가리킬 때 전문적인 어감이 있는 표현으로도 쓰인답니다~ 
+		* 새미는 얼굴색이 하얗다/검다. Sammy has a light/dark complexion.
 * 번지게 할거에요; i'm gonna smudege it
 * #corrector, #concealor, #highlighter, #blusher, #eyelash(#속눈썹) curler(#뷰러)
 * 속눈썹: false lashes, fake eyelashes
@@ -51,6 +53,7 @@
 * fill in the brows
 * #발색이 잘된데 THis is really #pigmented
 	* 여기서 fair는 ‘(피부, 머리카락) 옅은 색의’란 뜻이고 complexion은 ‘안색, 낯빛’이란 뜻입니다. 그래서 fair complexion이라고 하면 희고 밝은 살결을 뜻하는데 무조건 백인을 말하는 건 아니고 밝은 톤의 건강하고 깨끗한 피부를 통틀어 지칭합니다. 
+	* 나는 모든 색조의 초록색을 좋아해. I love all shades of green.
 * #painted; 진하게 화장한, 얼굴에 #먹칠한
 * 보습제를 사용하는 것이 이런 부작용들을 감소시키는 데 도움을 줄거에요. |
 * ‘mɔɪstʃəraɪze dɪ’kri:s Using a moisturizer may help decrease these side effects. 
@@ -85,6 +88,8 @@
 * #화장품
 * 화장 진하게 하신 분; painted lady
 	* 두껍게 메이크업하다; cake on the makeup; i decided to cake on the makeup
+* statement lip은 입술을 강조한 메이크업을 말해요. 입술을 제외한 부분을 최소한으로 정돈하고, 과감한 컬러의 립으로 스타일을 결정짓는 메이크업이죠. 'statement'는 '진술/성명서'로 잘 알려져있는데요, 이런 경우 자기 의견에 대한 '주장/표출'을 의미합니다. 즉 makeup 혹은 fashion에서 statement란 과감한 시도로 'make a statement', 확실한 자기 주장, 어필, 개성을 표현하는 거예요.
+	* 입술을 강조할 때 가장 중요한 건 밸런스라고 생각해요. For me, wearing a statement lip is all about balance.
 
 # 아토피
 * 아토비: has atopic dermatitis(족저 근막염) -> have a skin condtion; it is a condition from birth(the birth xx)

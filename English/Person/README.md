@@ -143,8 +143,9 @@
 * #노안 she said I look old for my age #동안 you look good/great for your age = she has a #baby face
 * ^^##old #elderly; 조금 더 존중 표현
 * 마음만 어리다 #young at heart
-* she is ~ years my #junior/#senior
-* #young gun; 의욕이 넘치고 에너지가 넘치는 젊은이들;
+	* she is ~ years my #junior/#senior
+	* #young gun; 의욕이 넘치고 에너지가 넘치는 젊은이들;
+	* 어린 나이에; at a young age; at an early age
 * ○ I think with age we can appreciate many things more
 * (저는 나이가 들면서 진가를 더 깊이 알 수 있는 것들이 많은 것 같아요)
 * ○ Did you read a lot at his age? (당신은 그 나이에 많이 독서했나요?) 
@@ -484,6 +485,7 @@ he lacks the dexterity to get on in life
 	* * take on your partner’s surname = 배우자의 성을 따르다 take on 은 다양한 뜻으로 쓰이기 때문에 문맥을 보고 이해해야 합니다. 여기서는 ‘취하다, 떠맡다, 받아들이다’를 뜻하는데, on 없이 take 만 써도 됩니다.  참고로 결혼하기 전의 성씨, 즉 자신이 원래 갖고 있던 성씨를 (한국의 경우에는 대부분 아버지의 성씨겠죠) 영어로 a maiden name 이라고 합니다.
 		* 한국 여성들은 결혼할 때 배우자의 성을 따르지 않는다. Korean women don’t take (on) their partners’ surnames when they marry. 
 	* * 이름을 지어주다; i haven't named my puppet
+	* 연예계에서 이름을 알리다; he already made a big name in the entertainment industry
   * 미국 대통령 이름 셋을 대시오; Name three US presidents
   * 원하는 가격을 제시하시오; Name a time and place
 * #못하다 #서투르다 #칠칠맞다 #잼병

@@ -311,6 +311,7 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #키스마크; #hickey; is that a hickey?
  	* 키스도 하면서; And snogging
  	* 키스하며 껴앉다; smooch [smuːtʃ] 
+ 	* 'kisser'은 '키스하는 사람', 즉 'great kisser'은 '키스 잘하는 사람'을 말해요. 꼭 great 가 아니라 good, bad, fantastic, best, worst 등등 다양하게 표현할 수 있어요!
  * play #tonsil tennis; #tonsil: #편도선
  * 여자들끼리 #밤마실; #girls' night out
  * #커플 #연인 #여자친구 #남자친구 #썸

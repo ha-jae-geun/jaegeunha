@@ -47,7 +47,7 @@
 
 # 강조
 * #강조하다; #emphasize = #Play up = #stress
-
+* 변화를 위한 긍정을 강조하라 | Accentuate the positive for a change  [əkˈsentʃueɪt]  
 
 # 강화
 * 비슷한 단어로는 improve 라는 단어가 있는데요. reinforce 같은 경우엔 '추가적인 재료, 사람, 기구' 등 외부의 도움을 받아서 강화하는 것을 의미합니다. 영상에서처럼 보상의 도움을 받아 습관을 강화하기에 이 단어를 썼습니다.
@@ -151,6 +151,9 @@
 * = to announce, make public 주의! open relationship은 '자유로운 연애/결혼', '개방적인 연애/결혼'라는 뜻으로, 연애 상대 이외의 사람도 만나도 된다고 합의한 관계입니다! 
   * 난 부모님에게 내 연애 사실을 공개할 수가 없다. 부모님이 너무 보수적이시기 때문에. ex) I can't be open about my relationship to my parents. They're too conservative.
 
+# 공지
+* 사전 공지; prior(advance) noie; 추후 공지: further notice; 촉박한 홍보; SHort notice; 그 기간을 두고 하는 공지: 기간's notice
+
 # 교환
 * 물건을 서로 교환한다는 뜻인데요, 영상에서처럼 가장 가볍게 쓸 수 있는 단어가 trade 입니다. 이 외에도 swap, switch, exchange 등도 같은 뜻이지만, 용법에 약간씩 차이가 있습니다.  - swap : 구어체. 영국 영어에서 주로 사용. - exchange : 문어체적 느낌. 환전, 상점에서의 물건 교환 등에 씀. - switch : 위치나 자리를 바꾼다고 할 때 주로 씀.
 	* 내 초콜렛이랑 네 쿠키랑 바꾸자.  I'll trade you some of my chocolate for some of your cookies.
@@ -166,6 +169,8 @@
   * -와 관련이 거의 없다: have little to to with
 
 # 관심
+* 옛날에 극장에서 인물을 집중적으로 조명할 때 쓰던 강한 백색광을 말하는데요, 조명 기술에 석회(lime)이 들어가서 생긴 이름입니다. 비유적으로는 [세상의 이목, 각광, 스포트라이트] 를 의미합니다. 
+  * = 그녀는 사람들의 이목을 즐긴다. She likes being in the limelight.
 * 마카오가 홍콩보다 더 늦게 발전하였다는 것을 재미있게 표현하였네요. 여기서 나온 steal the spotlight는 ‘주목을 끌다, 관심을 빼앗다’를 의미합니다.  이와 비슷한 표현으로 steal one’s thunder 가 있는데요, 자신이 무언가를 하려던 참에 남이 선수쳐서 관심과 주목을 빼앗아 간다는 뜻입니다. 예를 들어 자신의 임신소식을 주변 사람에게 말하려고 했는데 그 전에 누군가가 임신 소식을 터뜨려서 본인이 관심을 받지 못하게 되는 상황이 이런 경우에요.
 * 보통 부정형으로 '…don't care about', '관심도 없고, 신경도 안 쓴다'라고 많이 쓰이는 표현인데요, 반대로 'care about'하면 무관심이 아닌, 무척 깊은 관심과 애정을 가지고 있다는 뜻이랍니다. 즉 'care about + 사람'하면 그 사람에게 신경을 쓰고, 관심을 가지고, 아끼고 위한다는 의미예요. 
 * ＊ It doesn't really do it for me. = 나는 별로 안끌려. / 나한테는 감흥이 없어.
@@ -174,6 +179,8 @@
 * standpoint는 직역하면 '서있는 지점, 장소'를 가리킵니다. 어떤 문제나 상황을 살필 때의 '관점, 입장'을 의미하죠.
 * - from a political/economical/historical/practical standpoint: 정치적/경제적/역사적/실용적인 관점에서 봤을 때
 	* 그의 입장에서는 꽤 거금이지. From his standpoint, it's pretty big money.
+* [라는 측면/관점에서] 라고 할 때 from standpoint/viewpoint/point of view 를 사용할 수 있습니다. 중간에 형용사를 넣어서 어떤 관점인지 표현할 수 있어요!
+  * 경제적인 관점으로 보면, 이 전략은 멋져 보입니다. ex) From an economic standpoint, this strategy looks wonderful.
 
 # 구하다
 * 어딘가에 잠시 '들르다' 라는 의미로도 굉장히 많이 쓰이는 표현인데요. 영상에서처럼 무언가를 노력하여 [구하다]의 의미로도 많이 쓰입니다. 
@@ -218,6 +225,9 @@
 * "Noted it"은 "I have taken note"의 구어체 버전으로, "알았음", "기억해두겠음"이라는 뜻이에요~ 간단하게 "Noted"라고 하기도 해요.
                                 
 # 끝나다
+* 주로 배우나 운동선수의 전성기가 지나고 별볼일 없어졌다고 할 때 쓰는 형용사입니다. 
+  * = 그는 배우로서 이제 한물 갔다. He was washed-up as an actor.
+* 끝; Bob's your uncle
 * 원래는 경마나 육상 등에서 마지막 직선주로를 the homestretch 라고 합니다. 그 의미의 연장선에서 '길고 어려운 일'의 '막바지' 를 the homestretch 라고 해요. 보통 [저 거의 다 끝나가요/다 했어요.] 라고 말할 땐 on/in the homestretch 라고 합니다.
   * 나 거의 끝나가. 일 마치고 맥주 한 잔 할래? ex) I'm on the homestretch. You wanna grab some beer after work?
 * finish : 현재 하고있는 일을 '마치다'  프로젝트 처럼 한번 끝내고 마는 일이 아니고, 학교나 회사에서 어떤일이 반복적으로 일어나는 일을 '마치다' 라는 의미로 쓰입니다 완전히 끝낸 상황에 쓰므로 한동안은 그 일이 이어지지 않을 것이라는 뜻을 품고 있습니다.
@@ -225,6 +235,9 @@
   * ex> I finished my lunch. 
 * 끝냈다; I finished; 자연스러움: i've finished; i'm done
 
+# 나누다
+* : (차이가 적게) 균일하게 만들다, 무엇을 똑같이 나누다 even something out
+  * 파운데이션은 당신 피부의 색과 결을 고르게 만들어 줍니다. Foundation evens out the tone and texture of your skin.
 
 # 나타나다
 * 인류가 떨어뜨린 씨앗에서 곡물(crop)이 자란 것을 우연히 발견하게 되었죠. 같은 맥락일까요? 예기치 않게 무언가가 갑자기 출현하는 것을 crop up 이라고 합니다. 혹은 특정 주제가 말 속에서 계속 언급되는 것는 것도 crop up 입니다.
@@ -244,6 +257,8 @@
   * 카지노에서 번 돈을 다 날려버리곤 했는데, 지금은 안 그래. ex) I used to piss away all the money I earned at casinos, but not any more.
 
 # 내기
+* 내기 같은 것을 할 때 ‘돈을 건다’고 하죠. 영어로는 put money on~ 이라고 하는데요, 여기서는 money 대신 mortgage를 썼습니다. mortgage는 주택을 구입하기 위해 은행에서 빌린 ‘대출금’을 의미합니다. 
+  * 내기 할래? 나는 올 해 프랑스가 월드컵에서 이긴다는 거에 10달러 걸겠어. (bucks = dollars) You wanna bet? I’ll put 10 bucks on France winning the world cup this year.
 * 돈을 걸고 내기를 할 때 쓰는 말이에요. [금액 says that…] 으로 금액이 얼마든 says that 은 고정입니다. 
 	* = 그가 경기에서 이긴다는 거에 10달러 건다. ▷10 bucks says that he wins the game.
 * 또한 [돈을 걸다, 내기하다] 라는 동사 자체는 bet, put money on 이라고 하는데요, 문장을 바꿔보면 다음과 같습니다. 
@@ -257,6 +272,8 @@
 * ☆그냥 넘어갔어                                                  	I JUST #let it slide = let's #bygone be bygones
 
 # 노력하다
+* ‘힘을 쓰다, 힘줘서 쎄게 하다, 노력을 기울이다’를 의미합니다. 고정표현이니 통으로 외워주세요. muscle 은 ‘근육’ 뿐만아니라 ‘힘, 근력’을 말하기도 합니다.  put some muscle into it = 힘 좀 쓰다
+  * 어서! 힘 좀 써봐.  Come on! Put some muscle into it. 
 * 1) 보통 [열심히 일하다] 라는 의미로 go into overdrive 라는 표현을 많이 쓰곤 하는데요. 여기선 어떤 상황들 (things) 를 차 넣는 (kick) 것을 연상하시면 됩니다. 
   * 5연승을 하기 위해서 선수들은 그들의 기술을 가지고 굉장히 열심히 노력했다. ex) The players kicked their skills into overdrive to win the 5 consecutive games.
 * make effort; I will make every effort to solve the problem.
@@ -280,6 +297,10 @@
   * lie on the bed.  lay the baby on the bed.
     * 잔지에 누워서 그 노래를 들었다. I lay on the grass listening to the songs.
     * He laid his hand on my shoulder, and said, "Cheer up!" She laid her baby on her knees.
+
+# 느낌
+* 명사 aesthetic은 미 혹은 미술과 관련된 일련의 원칙을 뜻하는데요, 요즘 젊은 사람들은 이 말을 '분위기', '톤', '테마' 혹은 '보기 좋은 것', '예쁜 것'이란 뜻으로 사용하고 있어요. 특히 블로그 SNS 텀블러에서 많이 유행을 탄 말이죠. 이 장면에서 소피가 말하는 aesthetic은 '왕좌의 게임' 극중 인물 산사가 사는 북쪽 지방의 분위기, 느낌을 뜻해요. 북쪽이라 날씨가 춥고 우중충하거든요. 그래서 그쪽 분위기랑 선글라스랑 어차피 어울리지도 않을 거란 뜻입니다.
+  * 이런 느낌 너무 좋다! [ex] I love this aesthetic!
 
 # 당연
 * 왜 놀랬니? 그건 당연한 거야! ex) Why were you surprised? That's par for the course!
@@ -430,6 +451,11 @@
 # 멀미
 * 멀미 안하지/ You don't suffer from motion sickness? 
 
+# 모르다
+* 몰라; I don't know why; There is no reason. It just happens
+* through ignorance 는 ‘무지해서’이고, out of ignorance, because of ignorance, from ignorance 등으로 바꿔 표현할 수도 있습니다. 
+  * 이게 다 우리가 무지해서 생긴 일이야. It all happened because of our ignorance. 
+
 # 모으다
 * gather : 여기저기 흩어져 있는 '사람 또는 물건을 단순히 끌어모으다' 는 뜻으로, 물건들을 따로 정리하거내 수집한다는 의미는 아닙니다. 의도를 가지고 '마음에 드는 것을 골라서 모으다' 라는 구체적인 행위가 내포되어 있습니다.
   * The squirrel is gathering all she can get. Thousand of fans gathered at the stadium.       The boy gathered his toycars on the floor.
@@ -438,6 +464,7 @@
 
 # 모험
 * 나는 모험을 하고 싶지 않다. I don't want to skate on thin ice. 
+  * 모험을 할거야; i'm gonna be adventurous
 * life on the edge = 모험적인 삶; edge 는 [끝, 가장자리] 라는 뜻이 있어요. 난간이나 건물의 끝을 얘기할 때 주로 쓰이는데요. 그 끝에서의 삶은 굉장히 아슬아슬하겠죠? 그런 모습을 비유적으로 써서 [모험적인 삶] 을 의미하는 표현입니다.
   * = 난 모험적인 삶을 사는 걸 좋아하진 않지만, 그렇게 사는 사람들에겐 매력을 느껴. I don't like to live life on the edge myself, but I'm attracted to those who do.
 * 실패의 위험이 있지만 창조적, 모험적 경영을 하는 신생 기업을 ‘벤처기업(venture company)’이라 하지요. 동사로 venture 는 ‘위험을 무릅쓰다’를 의미합니다. 
@@ -454,6 +481,7 @@
 * 난 날씬한 몸을 갖고 싶어.  want to get a lean body. 
 
 # 무게
+* 그리고 전치사 onto가 신체부위와 쓰일 때는, 그 부위를 어디에 대거나 그 부위로 지탱한다는 느낌이 있습니다. 그래서 put my weight onto my right leg도 ‘나의 오른다리에다가 무게를 싣다’가 되는 겁니다. 
 * 사물의 무게를 물어볼 때 How heavy is it?라고 묻는 것은 괜찮지만 사람에게 How heavy are you?라고 하지 않는 것이 좋습니다. 예의에 어긋나게 들릴 수도 있거든요. 그 대신 How much do you weigh? What is your weight? 라고 해야 합니다. 물론 민감한 주제일 수도 있으니 웬만해선 몸무게를 묻지 않는 것이 낫겠죠?
 * weigh apples, weigh fish 처럼 어떤 것의 무게인지 목적어를 꼭 써야 합니다. 혹은 자신의 체중을 잰다고 할 때는 weigh oneself with/on the scale 이라고 합니다.
 	* ㅍShe weighs herself every morning.
@@ -534,6 +562,7 @@
 * 'wrinkle'은 무언가 새롭고, 이전과는 다른 방식/생각/방법을 말해요. 
 	* 제가 좀 색다른 방식을 생각해봤는데요. I found something that might put a new wrinkle in things.
 * 요새 인터넷에서 ‘꿀팁’이라는 단어를 자주 쓰죠. 바로 hack 이 그 꿀팁에 해당하는 단어입니다. hack 은 어떤 일을 해결해주는 방법, 조언 등을 말하는데요, 여기서 나온 a quick hack 은 ‘지름길, 빠른 방법, 손쉬운 방법’ 정도가 됩니다. hack to become 이 아니라 hack to becoming 이라고 하였네요. a quick hack 을 '지름길'이라고 하였죠. 비판적 사고를 하는 사람이 되는 목표로 ‘향해 가는 것’이기 때문에 방향성을 갖는 전치사 to 가 온것입니다. go to school(학교로 가다)처럼요.
+* 네 자세에 관한 제안/팁을 몇 가지 줄게. [ex] I'll give you some pointers on your posture.
 
 # 방해
 * 프랑스어에서 온 단어로, 중세 농민들이 탐욕스러운 영주의 부당한 처사에 대한 항의로 곡식을 나막신 (sabot) 으로 짓밟은 것에서 나온 표현이에요. 우리말로 된 뉴스나 신문에서도 가끔 노동 관련 뉴스에서는 '사보타주' 라고 그대로 쓰기도 하는데요. 노동자들이 시설이나 원자재 등을 파괴하여 생산이나 사무 활동을 방해하는 것을 의미해요. 그 모습의 연장선 상에서 영상에서처럼 무언가를 [고의로 방해하다] 의 의미를 가집니다.
@@ -589,6 +618,8 @@
   * 왜 자꾸 날 외면해? Why are you shutting me out?
 * : '무언가를 더 넓은 시야에서, 혹은 상대적이고 객관적인 관점에서 바라볼 수 있게 한다' 는 뜻! 이 문장은 큰 바다가 비욘세에게 삶에 대한 상대적인 관점을 제시한다는 뜻이죠.
   * 삶을 좀 더 객관적으로 바라보고, 숲을 볼 필요가 있어. You need to put your life into perspective and see the bigger picture.
+* 여기서 동사 project 는 특정한 의도를 갖고 어떤 이미지나 모습을 '보여주다' 라는 뜻이에요!
+  * 그 사람은 강한 지도자의 이미지를 보여줄 줄 알죠. [ex] She knows how to project herself as a strong leader.
 
 # 보조금
 * 보조금; subsidy; subsidize; 세금 감면이나 원래 내야 할 돈을 어느정도 감면해 주는 혀애의 돈 [ˈsʌbsədi]  [ˈsʌbsɪdaɪz]
@@ -647,6 +678,9 @@
 * 비밀 못지켜; She never keeps secrets = SHe's big mouthed = He's got diarrhea of the mouth
   * 무심코 비밀을 누설하다 let the cat out of the bag 
 
+# 비정상
+* 내가 비정상이라는 거네; YOu're saying i'm unoriginal
+
 # 비판
 * rip 은 [찢다], shred 는 [(썰어놓은) 채, 갈갈이 찢어진 것] 을 의미해요. 종이 파쇄기를 shredder 라고 하니 어느 정도 감이 오시죠? 갈기갈기 찢듯이 굉장히 심하게 욕하고 혹평하는 것을 [rip ~ to shreds] 라고 표현합니다.
 	* 몇몇 팬들은 그의 콘서트를 혹평했다. ex) Some fans ripped his concert to shreds.
@@ -659,6 +693,10 @@
 # 빠르다
 * Quickly'는 '어떤 일이나 상황이 시간적으로 빨리 진행이된다'는 의미이고, 'Fast'는 '어떤 행위를 하는데, 그 행위를 하는 속도를 빠르게 한다' 예컨대, '넌 숙제를 빨리 해야 해' 라고 할 때, 이 말은 상황에 따라서 '지금까지 숙제를 미뤄왔으니까 빨리, 즉시 숙제를 하라'는 의미 일 수도 있고, '숙제하는 행위를 빨리 해서 빨리 마쳐라' 라는 의미 일 수도 있습니다. 첫 번째 경우에는 'You've got to do your homework quickly' 라고 할 수 있고, 두 번째 경우에는 'You've got to do your homework fast'라고 할 수 있습니다.
 
+# 사기
+* [사기, 의욕] 은 영어로 morale 이라고 합니다. 그래서 사기를 높이는 것, 즉 [사기 진작]은 morale-boosting 이라고 하죠. [사기를 높이다] 라고 할 때 동사는 boost 뿐만 아니라 bolster, raise, improve 등을 쓰기도 합니다. 
+  * = 코치는 선수들의 의욕을 높이고자 하였다. The coach tried to bolster up their morale.
+
 # 사소
 * 원래 콤플렉스라는 것이 남에게는 별 것 아닌 것처럼 보이지만 자신에게는 그렇지 않죠! petty / trivial은 둘 다 사물에 쓸 경우 ‘하찮은, 시시한, 사소한’을 의미합니다. 
 	* 그들은 사소한 것 가지고 싸웠다. They had a fight over a petty thing.
@@ -668,9 +706,14 @@
   * 돈이 인생의 전부는 아니에요. ex) There's more to life than just money.
 * : '솔직히 말하면, 사실은' 이라는 뜻의 관용적 표현이에요. "If the truth should be told"가 짧아진 버전이라고 할 수 있죠!
   * 사실은 아빠 너무 보고 싶어. [ex] Truth be told, I really miss my dad.
+* polish는 광나게 닦는걸 뜻해요. 광나게 닦아놓은 걸 비유적으로 '정돈된', '세련된'이라는 뜻으로 쓴답니다. 반대격으로 볼 수 있는 표현이 gritty예요. 지저분하고 정돈 안 되고 불쾌한 현실을 사실적으로 보여주는 걸 gritty하다고 해요. TV 드라마를 묘사할 때도 많이 쓰는 표현인데 '왕좌의 게임'이나 '더 와이어' 같이 보기 불쾌하지만 현실을 잘 반영하고 사실적인 드라마를 gritty하다고 표현해요.
+  * 좀 사실적인 드라마 추천해주세요. [ex] Can you recommend me some gritty TV shows?
 
 # 사치
 * indulgence는 '사치', '마음대로 함'을 뜻하는데요, "What's your biggest indulgence?" 물어보면  "가장 사치 하는 아이템이 뭐예요?" 혹은 "어떤 식으로 사치를 하시나요?"라는 뜻이 돼요. 근데 꼭 비싼 물건을 사는 사치만 뜻하는 건 아니에요. 건강에 나쁜 걸 알지만 칵테일을 즐겨 마시는 것, 다이어트에 안 좋은 걸 알지만 단 디저트를 사 먹고 즐기는 것도 indulgence라고 표현해요.
+
+# 상관
+* 상관없어; i'm easy
 
 # 상황
 * 우리는 상황을 알아 보았다  Dipping our toes in the water
@@ -740,7 +783,7 @@
 * strike 는 원래 무언가를 [치다] 라는 뜻이 있는데요. 금이나 자원을 캐기 위해 땅을 파 내려가다 보면 금이 있는 부분을 칠 수가 있듯이, 금, 석유, 자원 등을 [발견하다] 라는 의미로도 많이 쓰입니다. = strike gold                           
 
 # 소문
-* By all accounts; Rumor has it that
+* By all accounts; Rumor has it that; A story goes that
 * 그들이 소문을 내자 그 소문이 온 동네에 퍼졌다. As they started a rumor, the rumor have spread over their village. 
 * 내 비밀을 동네방네 떠벌리고 다닌 게 바로 너구나. ex) You are the one blabbing my secrets to the world.
 * = S로 인해 사람들이 쑥덕대다, 시끄러워지다 * S have / set tongues wagging  동사 wag 는 혀 등이 [쉴 새 없이 움직이다, 지껄이다]라는 의미를 가져요. 직역하면 [혓바닥이 계속 움직이게 하다]인데요. 자연스러운 해석을 위해 당연히 [쑥덕대다]로 해석이 됩니다.
@@ -754,6 +797,7 @@
 # 소외
 * be alienated, be marginalized, be excluded, be isolated
 	* 소외됐나? Do you feel islolated?  저 친구 소외됐었는데. She was left out.
+* 소외감을 느끼다; i feel left out; My friends ditched me; Don't bully lots of people
 
 # 소음
 * 듣기 불쾌한 소음을 의미하며 noise처럼 make a racket이라고 주로 표현합니다.
@@ -810,6 +854,7 @@
 
 # 실패
 * #실패로 돌아가다; reach #hit rock bottom = #sink into complete failure
+* 그 영화 완전히 실패작이라고 들었어요. I heard the movie is a flop at the box office 
 
 # 실험
 * : 말 그대로는 '~로 실험을 해보다'라는 뜻인데, 이렇게 '(이전과 다른) 새로운 것을 시험 삼아 시도해보다'라는 뜻으로도 쓸 수 있어요!
@@ -832,13 +877,15 @@
 * I came across one of your Youtube videos
 * know <> I know of him. 은 무엇일까요? 들어서든 TV를 통해서든 아는 것이지. 실제 사적으로 아는 know about; WHat do you know about ~?
 * #know from; I know him from 
-* 정확히 알다                                                                                                           	I know for a fact
+* 정확히 알다                      I know for a fact
 * 새로운 것을 들었는지 물어볼땐 Have you heard of/about ~가 더 자연스러움
 * 닉은 얼마나 알고 	How long have you known nick?
 * 알게되다 get to know
 * 알게 되었다; I came to #realize
 * 우리도 흔히 무언가에 관심을 갖거나 그 존재를 인식하게 될 때 '내 레이다망에 걸려들었다' 라는 표현을 하곤 하죠. 영어도 마찬가지입니다. on one's radar 라는 표현이 있는데요. [~을 알게 된, ~에 관심을 갖게 된] 이라는 뜻이고, 영상에서의 come onto one's radar 는 동사형으로 쓰였다고 보시면 됩니다.
   * 이 자선단체를 처음 알게 되었을 때, 전 아프리카에 있었습니다. ex) When this charity came onto my radar. I was in Africa.
+* : 최신 정보를 알려주다, (최신) 상황보고를 하다 give someone an update
+  * 매일 오후 5시에 나한테 상황 보고를 해주도록 해. I need you to give me an update every day at 5 pm.
 
 # 앞뒤
 * add up 은 '늘어나다'라는 뜻도 있지만, 부정문으로 쓰일 경우에 특히나 무언가 [앞뒤가 맞지 않고 말이 안 된다] 의 의미를 가집니다. It doesn't add up이라고 할 수도 있는데요. 무언가를 쌓아 올리려면 밑에 있는 것들이 잘 들어맞아야 하는데 그렇지 못한 모습을 연상하시면 될 것 같아요!
@@ -860,11 +907,21 @@
 * 기술 용어로 쓰일 때는 '하드웨어에 내장된 (그래서 유저가 손대기 어려운)'이라는 뜻인데요. 이렇게 어떤 반응/사고/행동/태도 따위를 얘기할 때는 인간의 본성에 '내장되어 있는, 본능적인, (그래서 어쩔 수 없고, 바꾸기 힘든)' 이라는 뜻을 지닙니다.
 	* 소통하는 것은 인간의 본능입니다. [ex] Humans are hardwired to communicate.
 
+# 어울리다
+* 어떤 색만 진하거나, 차이가 격하지 않도록 화장을 잘 블렌딩해주는 걸 'blend in' 이라고 표현했죠! 요 표현은 사람들 속에 '[티나지 않게] 섞이다', 주변과 '어울리다' 라는 뜻으로 쓸 수도 있답니다. 'blend in'은 다른 이의 관심을 끌지 않게 사람들 속에 일부러 '섞여들다'라는 뉘앙스가 강한 반면, 'fit in'은 노력해서 특정 그룹의 사람들과 '잘 어울리려고 하다'라는 뉘앙스가 강해요! 차이를 기억해보세요.
+  * 난 그냥 사람들이랑 잘 어울리려는 거야. [ex] I'm just trying to fit in.
+  *  난 그냥 눈에 안 띄려는 거야. [ex] I'm just trying to blend in.
+
 # 얻다
 * -로 진출하다; make one's way into
   * 애교로 -을 얻다; smile one's way into; smiled his way into managerial position
   * 돈으로 -을 얻다; You can't buy your way into happiness
   * 거짓말로 그 일을 어드려 해; He's trying to lie his way into the job
+
+# 없다
+* 동사 die는 ‘죽다, 사라지다’지만 여기에 부사 off를 붙이면 ‘서서히, 차츰차츰 죽어나가다, 소멸되다’란 뜻이 됩니다. 사람이나 동물군이 서서히 없어진다거나, 어떠한 현상이나 소리, 냄새 등이 사라진다고 할 때도 die off라고 할 수 있습니다.
+  * 하루하루 전쟁범죄의 생존자들이 죽어가고 있다. The survivors of war crimes are dying off daily.
+* 어느 방법이든, 우리는 부대 한개를 모조리 없애기 위해 사용한다.Either way , we use it to wipe out the entire battalion . 듣기
  
 # 연기
 * 나도 사람들 앞에서 너처럼 재주를 보일 수 있음 좋을 텐데. I wish I could play a blinder like you before the crowd. 
@@ -956,6 +1013,8 @@
   * Laugh louder.
 
 # 유명
+* a spike in popularity = 인기가 치솟음, 급등; 그래프를 떠올려 보세요. 수치가 증가할 때 그래프 선이 위로 뾰족하게 치솟겠죠. 바로 이 처럼 뾰족하고 날카로운 것이 spike 이고 비유적으로는 ‘급증’을 의미합니다.
+  * 그건 단지 잠깐 인기가 올랐던 것 뿐이었다.   It was just a brief spike in popularity.
 * 난 유명해지는 것 이외에는 다른 건 신경 안 써. ex) I don't care about anything else other than making a name for myself. = make a name for oneself
 * 유명하다; be famous for <> be best known for(유명 한것 중 최고)
 * have a reputation은 '유명세, 명성 있다'는 뜻이죠. have a reputation with the ladies는 '여성들 사이에서 명성이 있다', 즉 '여자를 많이 만나기로 유명했다', '여성 편력이 있었다'는 뜻이 됩니다.
@@ -964,6 +1023,7 @@
   * = 사실상 서울이 유명해진 것은 1988년 올림픽게임 때였다. It was the 1988 Olympic Games that really put Seoul on the map.
 * '신고식'이라는 말에 딱 상응하는 영단어가 바로 'hazing'이죠. 신참들에게 이상하거나, 어렵거나, 위험한 일을 수행하게 하는 가입절차를 가리킵니다. 'haze'는 동사로 '신고식시키다, 골탕먹이다, 괴롭히다'가 되죠.
   * 걔네 클럽은 최고로 호된 신고식으로 유명해. [ex] Their club is known for its highest degree of hazing.
+* 이 클럽은 뜨고있다; THis club is hip and happening
 
 # 유일
 * ※ only 와의 차이 : 'sole' 은 '유일한'으로 정말 단 하나뿐인 것을 말하는 반면, 'only'는 '유일한'도 되지만, 하나 이상인 경우에 쓰기도 해요.
@@ -998,6 +1058,8 @@
     * 여자들 사이에 요가 열풍이 불어서 다들 요가 매트 같은 것들을 사곤 했었죠. ex) There was a yoga craze among women and everyone bought yoga mats and stuff.
   * 유행이다; That ' s all the rage among young people
   * 그리고 독감이나 감기가 유행하면, 우린 훨씬 더 바빠지죠. And once the flu or colds go around , we become even busier. 듣기 
+  * 2) rampant 는 ‘만연한, 횡행하는’ 이고 부정적인 일에 씁니다. 동의어로는 widespread, prevalent 가 있습니다. 
+    * 부패는 아직도 우리 사회에 만연하다. Corruption is still rampant in our society.
 
 # 유효
 * 어떤 한 가지 경우가 다른 것에도 동일하게 적용되거나, 어떤 규칙, 상황 등이 다른 경우에도 여전히 유효할 때, hold true라고 합니다. 
@@ -1005,6 +1067,11 @@
 
 # 의도
 * 좋은 의도였던 건 분명해; It's obvious that they meant well
+
+# 의식
+* consciousness  [ˈkɑːn-]  영국식 [ˈkɒnʃəsnəs]  는 ‘의식, 정신, 자각’입니다. 기절하다, 정신을 잃다라고 할 때, 그리고 어떤 사실에 관한 관심과 자각이 있다고 할 때 모두 쓸 수 있습니다. 영상에서 말하는 consciousness 는 특별히 ‘사회 문제에 대해 의식하는 것’을 지칭합니다.  consciousness 와 비슷하게 생긴 단어가 conscience  [ˈkɑːn-]  영국식 [ˈkɒnʃəns]  인데요, 이건 ‘양심’이니 헷갈리지 마시기 바랍니다. (conscious: 의식있는, 자각하는 / conscientious:  [ˌkɒnʃiˈenʃəs]  양심적인, 근면한)
+* 인지하지 못한 사이에 [영향을 끼친다] 는 것이 포인트입니다. 단순히 무의식에(unconscious, unaware) 내재되어 있는 것이 아니라 특정 방향으로 행동, 사고하도록 만든다는 것입니다. 1) subliminal = 인지하지 못하는 사이에 영향을 미치는
+  * = 색은 우리가 인식하지 못하지만 우리의 기분에 영향을 준다. Color has a subliminal influence on our moods.
 
 # 의외로
 * ☆#의외로; people asked #surprisingly very private question + like it was nothing
@@ -1046,6 +1113,8 @@
 * 그 커튼은 방에 잘 어울린다. The curtain is in keeping with the room. 
 
 # 입장
+* 전치사 on 을 써서 [~에 대한 입장을 취하다] 라는 의미로 많이 쓰이기도 하는데요. 중간에 형용사를 넣어서 take a firm/tough/strong stand = [단호한/강경한/강한 입장을 취하다] 처럼 쓸 수도 있습니다.
+  * = 낙태할 권리에 대한 입장을 표해야 할 때입니다. It's time for us to take a stand on abortion rights.
 * shoes 는 비유적으로 ‘입장, 상태, 상황’을 말하죠. 그래서 step into their shoes 는 ‘그들의 입장에 서보다, 그들의 입장이 되어보다’입니다. 
 	* 내 입장에 서서 내 기분이 어떨지 이해해줄 수 없어? Can’t you step into my shoes and try to understand how I feel?
 * put yourself in other's shoes
@@ -1089,6 +1158,16 @@
 * ins and outs는 어떤 일의 구체적인 사항, 자세한 부분을 뜻하는 말로 우리말로는 ‘세부사항, 자초지종, 모든 면, 상세한 사정’ 등과 같은 말입니다. 그래서 analyzing the ins and outs of dating는 ‘연애에 대한 구체적인 사항을 분석하다’인데, 자연스럽게 ‘연애에 대해 속속들이 다루다’로 번역하였습니다.
   * 그가 그렇게 한심한 실수를 저지른 건 별로 놀랍지 않아. 비즈니스가 무엇인지 자세히 모르는 사람이라고. I'm not surprised he made such a stupid mistake. He doesn’t know the ins and outs of this business.
 
+# 자존감
+* feel low : 자존감이 낮게 느끼다 / 우울하다 / 무기력하다. 참고로 '낮은 자존감' 을 명사로 표현할 때도 low self-esteem 이라고 표현합니다.
+  * 쟤들이 하는 말 듣지 말고, 자존감이 낮게 느낄 필요도 없어. 걔들은 그냥 찌질이들이야. ex) Don't listen to them and you shouldn't feel low. They are just a bunch of losers.
+
+# 작업
+*  일반 작업실은 workroom 이라고 하는데요. 예술가나 디자이너들의 작업실은 atelier 라고 합니다. 우리말로도 '아뜰리에'라고 부르기도 하죠?
+  * 그런 작업실을 가진다면 멋질 거야. ex) It would be nice to have such an atelier. [ˌætlˈjeɪ] 
+* 근무 환경이 매우 열악하고(poor working conditions), 급여가 매우 낮고(low wages), 장시간 일해야 하는(work long hours) 등 노동력을 불합리하게 착취하는 작업장을 sweatshop 이라고 합니다. 
+  * 많은 사람들이 노동력을 착취하는 공장에서 죽음을 맞이했다. A lot of people died in the sweatshops.
+
 # 작용
 * 쉽게 설명하면 ‘플레이 되다’라고 이해하시면 됩니다. 주어로 온 그 대상이 재생, 시작된다는 거죠. 자주 쓰이는 표현이니 예문을 외워서 활용해 주세요.
 	* = 두 가지 중요한 요소가 작용합니다. Two important factors come into play.
@@ -1122,6 +1201,7 @@
 	* 전구를 연결했다; He screwed the new bulb into the socket
 * 전기가 갑자기 나갔다; The light went out all of a sudden
 * 그냥 꽂으면 되네요; You just plug it up
+  * 코드들은 스피커에 꽂혀있따; Some cords are being plugged into a speaker
 
 # 제외
 * A 를 고려 사항에서 빼다. 제외하다. = take(leave) A out of the equation.
@@ -1203,6 +1283,8 @@
 
 # 진짜
 * 100프로 한국 정통 음식 파는 식당을 알고 있어. ex) I know a restaurant that sells 100 percent authentic Korean food.
+* straight up : 맞아, 정말로? 2) 영상에서처럼 다른 사람의 말 뒤에, "정말이니?" 라고 물어볼 때 쓰는 경우가 있습니다. 
+  * 걱정마, 널 다치게 하진 않을거야. 정말이야. ex) Don't worry. I won't hurt you. Straight up.
 
 # 집중
 * 어떤 일에 완전히 주의 집중을 한다는 뜻으로 rapt attention(완전히 집중함), rapt expression(몰입한 얼굴), rapt audience(몰입한 청중) 처럼 표현할 수 있습니다. 
@@ -1242,6 +1324,7 @@
 
 
 # 책임
+* 주요 책임; whose primary/main responsibility will be document
 * helm 은 선박의 키를 의미합니다. 가장 중요한 자리이죠. 또한 burgeoning 은 [급증하는/급성장하는] 이라는 의미를 가지고 있습니다.
   * 올가가 그 은행 지점을 책임지고 있습니다. ex) Olga is at the helm of the bank branch.
 * 범죄자들은 그들의 행동에  책임을 져야 할 것입니다; The criminals are held responsible for their actions
@@ -1374,6 +1457,11 @@
 * ‘으깬 감자’를 mashed potatoes 라고 하죠. mash up 은 ‘으깨서 섞다’입니다. 영상에서는 명사로 쓰였고 ‘짬뽕, 합친것, 혼합물’을 의미합니다.
 	* = 그들의 신제품은 전혀 새롭지 않아요. 기존의 기술들을 짬뽕해놓은 것이죠. Their new product is not new. It’s just a mashup of existing technologies.
 
+# 해결
+* 여기서 fix는 명사로 ‘해결책’입니다. 그래서 a clean fix는 깨끗한 해결책이 되는데, 문제가 깨끗하게 해결됐다는 말이 아니라, 비위행적인 테스트제품에 대한 해결책으로 ‘청결하게 해주는 방법’을 의미합니다. 영상속 점원이 말한 방법은 알코올로 닦는 것이라고 하네요.  참고로 a quick fix 라는 표현이 있는데요, ‘미봉책, 성급한 조치, 임시 방편’을 의미합니다. 문제의 근본을 해결하는 것이 아닌 순간적인 상황만을 모면하는 해결책을 말합니다.
+  * 이건 대단한 해결책이에요, 그렇지 않나요? This is a great fix, isn’t it?
+* 날 그런식으로 보지 마. 나라고 해결할 수 있는게 아니니까. Don’t look at me like that. I don’t have a magic wand. 
+
 # 해외
 * travel abroad; live aborad; go abroad
 
@@ -1403,6 +1491,8 @@
 
 
 # 화장실
+* 상황에 따라 soap 이 비누 그 자체를 말할 수도 있고, 영상과 같이 ‘비눗기, 비눗물’을 지칭할 수도 있습니다. makeup 도 마찬가지인데요, 화장품, 화장하기, 화장기 등 다양하게 해석하는데, 영상에서는 ‘지저분한 화장기’를 nasty makeup 라고 표현하였습니다. 1) squeeze all the soap out = 비눗물을 모두 짜내다
+  * 비눗물을 꼼꼼하게 헹궈주세요. Please rinse the soap thoroughly.
 * 화장실 갈래; I need to use the restroom
 * 화장실 써도돼? Can i use/go to the bathroom?
 * 배변활동; bowel movents; It's about bowel movement [ˈbaʊəl]

@@ -3,6 +3,7 @@
 	* out of /fear/cuiousity/interst/spie/respeect/ignorance/anger
 		* = 그는 회개의 심정으로 장애인들을 돕고 있다. He’s been helping handicapped people out of regret.
 * 감정 기복; 큰 감정 기복을 겪다; = be/ride on an emotional roller coaster; ex) She's been on an emotional roller coaster since she arrived.
+	* 감정 조절하다; There are some people who are sensitive and easily upset. They have to be careful in terms of adjusting and controlling their moods and feelings
 	* * 감전 기복; i'm tired of my mood swings
 	* 기분을 상하게하다; bring someone down
 	* 기분이 언짢아지다; Fans #get the hump when the team loses.  팬들은 (자기가) 응원하는 팀이 지면 기분이 언짢아진다.
@@ -1610,6 +1611,8 @@ I am always overlooked(간과), never discount the contributions, put someone do
 	* #get past; nothing get pasts her
 	* #한 걸음 #서두르다 #급하다 #천천히 | #놓치다 #조바심
 * That’s a drag ○ Bummer (안됐네) That's a bummer (그거 안됐네) That's too bad (그거 안됐네)
+	* 불쌍하다는 주로 위치가 봐낌; Oh, poor me/you/him/baby
+    	* 두가지 의미가 있기에 헷갈리지 않도록 ;pitful pitibale[ˈpɪtiəbl], unfortunate를 쓰면 된다.
 	* 불쌍한척 청승떨다간, 너 불쌍한 신세가 된다. Play the victim , and you will be the victim . 듣기
 	* ○ That sucks or That's sucks (그거 안됐네)
 	* ~면 어쩌지? what if ~
@@ -1825,6 +1828,7 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * 좀 피곤하네. 							 난 좀 ~해 I’m kind of tired. 
 * 이건 완전히 생각지도 못한 거야. 		 이건 완전히 ~야 This is totally unexpected. 
 * 우리가 져서 실망했어. 					 	 I’m disappointed that we lost. 
+	* 비격식 표현으로 [낙담한/실망한/슬픈] 이라는 뜻으로 쓰일 수 있는 표현이에요. 격식있는 표현은 disappointed 라고 하시면 되지만, 이 단어는 '슬픈' 이라는 의미로는 쓰이진 않습니다.
 	* 자책하다; we beat ourselves up
 	* 그녀는 그 결과에 실망[경악]을 감추지 못했다. She could not hide her dismay at the result. 
 	* 실망스러운 일이다; That's a real downer

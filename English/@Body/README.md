@@ -125,6 +125,7 @@
 * 뻣뻣해서 다루기 힘든 머리	ʌn‘ru:li unruly hair.
 * #수염	#sparse #whisker ; #드문
 * 콧수염	a mustache mʌ́stæʃ
+	* 따라서 전반적인 수염을 통칭하려면 facial hair라고 말해야 한답니다. 말 그대로 '얼굴에 난 털'이죠.
 	* goatee: 염소수염
 	* * 고양이, 쥐 수염은 whiskers, 히틀러 수염은 toothbrush mustache 일명 칫솔 수염이라고 합니다~!
 	* 난 두 시간만 지나도 다섯 시쯤 되면 나올 거뭇거뭇한 수염이 보여. [ex] I get a five-o'clock shadow two hours after shaving.
@@ -543,6 +544,8 @@ build your core muscles
 * 귀여운 느낌: #tummy
 * 배가 #꿀렁거렸어; I just had a bit of #turn of stomach
 * #뱃살 belly fat; belly pooch; if you're dealing with the pooch  [puːtʃ] 
+	* 등이나 배의 군살을 생각해 보세요. 접힌 살들이 마치 두루마리(rolls) 여러 개가 겹쳐 있는 것처러 보이지 않나요? 그래서 back rolls, stomach rolls의 rolls는 바로 그런 접히는 군살들을 의미합니다. 
+		* 쟤 브라 주변에 살 좀 봐! 브라가 너무 작은 것 같아.  Look at her bra rolls! I think her bra is way too small for her. 
 	* 옷 입었을 때 튀어나오는 살: belly/tummy/stomach pooch / belly fat, love handle, muffin top
 	* 아기 낳고 난 다음 배; baby fat, baby-belly pooch
 	* 뱃살 속어 got my dad bod
@@ -611,7 +614,9 @@ His sudden smile made her go #weak at the knees. ; 2. 약한
 * #송아지; #calf
 * #둔부, #음부, #국부	loins (문예체) (사람의) 음부[국부] 
 that's quite a package/junkㅌ
-* 발등	top (side) of the foot 
+* #발등	top (side) of the foot 
+	* 발가락(toes) 끝(tip)으로 선다고 해서 tippy toe는 ‘까치발’을 뜻합니다. 여기에 동사를 대입하면 되는데 주로 「동사+소유격+tippy-toes」로 잘 씁니다. 예를 들면, stand on his tippy toes, walk on her tippy toes 처럼요. 아니면 tippy toe자체가 동사가 될 수도 있습니다. 그리고 동의어로는 tiptoe가 있는데, ‘까치발로 살금살금 걷다’라는 동사이며, 부사로는 on tiptoe(발 끝으로, 까치발로)라고 활용할 수 있습니다.
+		* 캐롤은 까치발을 하고 방을 걸어다니고 있었다. Carol was walking around the room on her tippy toes.
 	* 발가락	toe [toʊ]
 	* #발꿈치	heel
 	* 엄지 발가락	a big[great] toe 

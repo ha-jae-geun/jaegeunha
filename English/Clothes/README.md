@@ -12,6 +12,10 @@
    * formal attire, casual attire, business attire
 
 * 꾸미다; primp 와 preen 모두 [몸치장을 하다] 의 의미를 가져요. primp 의 경우엔 머리나 메이크업을 약간 고치기 위해 시간을 쓰는 것을 의미하고, preen 의 경우엔 좀 더 매력적으로 보이기 위해 단장하는 것을 의미하는데요. 보통 영상에서처럼 함께 쓰입니다.
+  * groom은 사람이나 동물의 외모를 가꾸고 손질한다는 뜻이고 feature는 어떤 것의 특징, 특색, 혹은 사람의 이목구비를 지칭하기도 합니다. 그래서 발레리 본 소벨은 메이크업은 단지 꾸미는 일이 아니라 당신이 가진 최고의 특징을 강조하는 일이라는 자신의 신념을 말하고 있습니다. 
+    * 그녀는 그 데이트 전에 몇 시간을 들여 자신을 단장했다. She spent hours to groom herself before the date.
+  * 옷, 신발, 오토바이 등 어떤 사물을 자기가 원하는 대로 맞춰서 바꾸는 것을 personalize 라고 합니다. 비슷한 단어로 [고객의 요구에 따라 맞춤 제작하다] 라는 의미의 customize 도 있습니다. 뜻에서도 알 수 있듯이 customize 는 보통 상점의 주인이, personalize 는 고객이 하는 동작인 경우가 많습니다. 
+    * 이 장치의 디자인은 언제든 취향에 맞게 꾸밀 수 있습니다. ex) You can always personalize the design of this device.
   * = 내 와이프는 외출하기 전에 대략 2시간 정도를 몸치장하는데 쓴다. My wife spends about 2 hours primping and preening before going out.
 * 주어가 사람일 경우에는 ‘아첨하다, 아부하다’이지만, 영상처럼 옷이나 색깔 등이 오면 ‘(입은 사람을) 돋보이게 하다’라는 뜻이 됩니다.  
   * = 노란색은 나한테 별로야. 내 어두운 피부색하고 어울리지 않아.  Yellow isn’t my color. It doesn’t flatter my dark skin.
@@ -96,6 +100,11 @@
 * #보풀; your clothes might be a little #pilly
   * 보풀을 lint 또는 fluff 라고 하는데요. roller 와 함께 붙어서 우리가 흔히 '돌돌이 테이프' 라고 부르는 것을 의미합니다.
     * 돌돌이 테이프랑 리필 몇 개 사야 해. ex) We need to buy a lint roller and some refills.
+  * 옷감에 생기는 보풀에 대한 표현은 여러가지 인데요, 우선 ‘보풀이 일다’라고 동사로 표현하려면 pill이나 bobble이 있습니다. 이 경우에는 옷감이 주어가 됩니다. 그리고 명사로는 lint, fluff, fuzz 등이 있습니다. 예문에서 다양한 표현방법을 살펴보겠습니다.
+    * 이 점퍼 두번 밖에 안입었는데 벌써 보풀이 일기 시작했어. I've only worn this jumper twice, and it's already begun to bobble.
+    * 아무리 조심히 세탁을 해도, 대부분의 스웨터들은 보풀이 쉽게 일어난다. No matter how carefully you wash them, most sweaters easily pill. 
+    * 이 옷감은 보풀이 생기지 않습니다. (lint-free, anti-pilling: 보풀이 일지 않는) = This cloth is anti-pilling. This cloth is lint-free.
+    * 스웨터에 보풀들 좀 봐! – 면도칼로 보풀을 제거해봐. (lint ball: 보풀 알갱이 / defuzz: 보풀을 제거하다) Look at these lint balls on my sweater! – Use a razor to defuzz it. 
 * #격자 #plaid #button up shirt
 * #복장 도착자(#도착); 여자 옷을 즐겨 입는 남자; #transvestite;트랜스베스싸잇
 * a #seamless garment 솔기가 없는 의복

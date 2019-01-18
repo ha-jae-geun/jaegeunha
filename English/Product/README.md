@@ -1,4 +1,6 @@
 # 시장
+* big-box retailer, superstore, megastore, supercenter 등으로 불리기도 하는데요, 저가로 많은 양의 물건을 판매하는 대형 할인 매장을 의미합니다. 대용량으로 제품을 팔다보니 제품 상자가 큰 편이기 때문에 붙여진 이름이겠죠. 미국의 경우로 보면 Wal-Mart, Target, Kmart 등이 그 예입니다. 
+	* 대형할인점은 전국적인 체인점을 갖추고 있다. The big-box retailer has a nation-wide chain of stores.
 * swap meet: 특정 종류의 ㅁㄹ건들을 가진 사람들이 물건들을 바꿀 수 이쓴 장터; 차의 부품, 액션 피규어, 만화책
 * flea market; 벼룩시장
 * thrift store; 중고 상품을 기부 받아 그것들을 판매한 수익을 다른 곳에 기부하는 상점

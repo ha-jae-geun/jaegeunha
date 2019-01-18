@@ -56,6 +56,8 @@
 * 조세제도에서의 허점을 발견했다; He found a loophole in the taxsystem
   * 허점 이용, 장애물 피하기; expolit every loophole and doeged obstacles
 * 사기; scam; He got involved in a credit card scam
+  * con-man은 비격식적으로 '사기꾼'을 지칭할 때 사용하는 단어에요. 미국 남부전쟁 직후 먹고살기가 힘들었던 시기에 수많은 사기행위가 난무했는데요. 피해자의 신뢰(confidence)를 이용한 사기행위를 'confidence game(신용사기)' 라고 불렀답니다. 이 때 confidence의 con을 따와서 con-man 이라는 단어가 생겨나게 된거죠. confidence man의 줄임말이라고 보시면 되며, 다른 말로는 crook이라고도 합니다.
+    * 이 사기꾼아 네가 나를 감히 속여?! ex) How dare you fool me, you con-man!
   * 그 가짜 의사에게 사기를 당했다. She was scammed by the fake doctor; 순진해서 잘 속는; Gullible
   * 사기꾼: fraud; fraud, con, dupe, scam; He was jailed for three years for fraud and tax evasion
 * 도망중이야; Two supects are on the run
@@ -260,13 +262,12 @@
 * 유력한 #용의자야 					유력; usual/Prime suspect
 * #몽타주; #composite #sketch; 그리는 사람: composite/sketch artist
 * #범인 #공범 confederate 미국·영국 [kən|fedərət]
-* #culprit; we could find the culprit
-* ǝkάmplis/ǝkɔ́m- #accomplice
-* ##confederation (국가・사업체 등의) 연합[연맹] the Confederation of British Industry
-* #지명수배
-* arrangements for the search for an identified criminal 
-* 지명 수배자 a most wanted criminal 
-* 지명 수배하다 put a person on the wanted lis
+  * 경찰은 마침내 진범을 체포했다. * #culprit; we could find the culprit
+  * ǝkάmplis/ǝkɔ́m- #accomplice
+  * ##confederation (국가・사업체 등의) 연합[연맹] the Confederation of British Industry
+  * #지명수배 arrangements for the search for an identified criminal 
+  * 지명 수배자 a most wanted criminal 
+  * 지명 수배하다 put a person on the wanted lis
 * #전과가 화려하네요 						 He has a long #rap sheet
 * Record of Arrest and Prosecution Sheet
 * #보석금을 내주다 #bail
