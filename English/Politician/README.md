@@ -147,6 +147,9 @@
   I voted for a referendum against the full-scale meals, but when the turnout fell short, I resigned from the mayor's office as promised.
 
 
+## 김옥선
+* 남장 당선; 최초의 여성 대통령 후보
+
 # 대통령
 ## 이명박
 * 이명박 대통령 시절 정부 최초 국가 부채 1000조 돌파
