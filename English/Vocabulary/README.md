@@ -47,6 +47,8 @@
 * i will be there at 3 o'clock
 * 수업중이야; i'm in school
 
+## on, at
+* on christmas; 크리스마스 당일; at christmas; You can buy it at christmas; 크리스마스 시즌
 
 ## in front of, ahead
 * in front of: 바로 앞에 있는
@@ -64,87 +66,10 @@
 * 무엇이든 근처, 주변에 느낌
 * there are about 300 people
 * i was about to call you
+* # How about it?: 어때? 해볼래? 뭔가를 부탁하는 느낌; # What about it; 그래서 뭐? 다소 쏘아붙이는 듯한 표현
 
 ## after
 * 쫒는 느낌의 느낌
-
-## beef
-* beef는 '싸움, 말다툼, 불평'이라는 뜻도 가지고 있어요. 주로 비격식적인 표현으로 사용되죠. - beef about something: (동사 beef) 무엇에 대해 불평하다
-  * 그는 요새 애들이 옷을 얼마나 이상하게 입고 다니는지에 대해 불만을 토로했다. [ex] He was beefing about how kids dress so weird these days.
-  * - have a beef with someone: (명사 beef) 누군가와 싸우다, 언쟁하다, 에 불만을 갖는다
-
-## beat
-* beat는 ‘이기다, 능가하다’라는 동사로 과거분사는 beaten입니다. 그래서 엄밀히 말하면 be beaten이라고 해야 하지만, 회화나 광고, 음악 등에서 be beat이라고 하는 경우가 종종 있습니다. We can’t be beat은 우리는 능가될 수 없다, 즉 “우릴 이길 사람은 없다”라는 의미입니다. 혹은 beat는 ‘녹초가 된, 엄청 지친’이란 의미도 있어서 “우린 절대 지치지 않아”로 생각할 수도 있습니다. 
-
-## boy
-* 여기서 boy 는 감탄사로 쓰였습니다. 앞일을 모른다는 것을 매우 강조하는 것이죠. 만약 자연스럽게 쓰지 못할 것 같으시다면 듣고 이해만 하셔도 됩니다. 
-  * = 아이고 이런! / 우와!  Oh, boy!
-
-## boil
-* boil 은 [끓이다]라는 뜻이 있는데, boil down 은 양이 줄어들게(down) 끓이는, 즉, [졸이다]라는 뜻이 있어요. 냄비 한가득 있던 무언가를 졸이면 물은 다 증발해버리고, 핵심이 되는 무언가만 남게 되는 모습에서 쓰이는 표현입니다.
-  * = 그 사건은 배심원단이 그를 믿는지 안 믿는지가 관건이야. The case will boil down to whether the jury believes him or not.
-
-## book
-* 동사로 쓰이면 [예약하다] 라는 뜻이 있는 건 익숙하실 거예요. 비슷한 뉘앙스로 영상에서처럼 오디션 같은 상황에선 영화나 연극 등의 출연을 [계약하다] 라는 의미로 쓰여요. 참고로, 수동태로 I'm booked. 라는 표현도 있는데요. 이를 직역하면 [내가 예약되어 있다] 라는 뜻이니, 무언가에 붙잡혀서 [꼼짝할 수가 없다/ 바쁘다] 라는 의미로도 쓰인답니다.
-	* 내 생각엔 우리가 다음 번 쇼에도 그와 계약을 해야할 것 같아. ex) I think we should book him for the next show as well.
-* 나 오늘 밖에 나갈수 없어. 나 책 읽어야하거든. 독서를 한다는 뜻입니다.
-* I can't go out tonight. I need to hit the books.
-* 그 여자 책벌레나요							 Is she a bookworm?
-* 하면 난 너 마음을 제대로 읽을 수 있죠. 			 I can read your feeling like a book.
-* open book: 1. 마음, 생각 따위를 쉽게 들키는 사람 2. 사생활이 전부 알려져있는 사람
-* #book smart 책 따위로 얻은 지식은 많지만 눈치, 상식 등의 실생활, 경험적인 지식이 부족한 사람
-* 중국으로 가는 비행기 예약했어 						I booked a flight to China.
-* 겉으로만으로 사람을 판단하지s 말라				 Don't judge a book by its cover.
-* 그 여자는 모든일을 에프엠대로 해요!! 		#정석, #FM	 She does everything by the book.
-* 내 생각으로는 메이슨은 멋진 녀석이야. 				 Mason is nice in my book.
-* 파이러츠는 6대1로 졌다			공식 기록에 남다. 지다 the Pirates' 6-1 loss was in the books
-* 모든 수단과 방법을 동원해서 						 #Every trick in the book 
-* 엄청난 인생 경험이었다. 					 that surely was one #for the books
-* one for the (record) books
-* 내가 꿈도 못꾸었던 일이야 				 #That’s going down in the books.
-* 엄벌했으면 좋겠어요 						I hope they threw the book at him
-* #선약 있어 I am #booked up tonight = I had another plan tonight
-* ##book smart 책 따위로 얻은 지식은 많지만 눈치, 상식 등의 실생활, 경험적인 지식이 부족한 사람
-* #get smart with; #잔머리 굴리다; don’t get smart with me 혹은 까불지마
-* wordly-wise man; #세상사에 능한 사람, #street-smart; this is being street-smart
-* 머리는 좋으나 세상물정을 모르는; 꺼벙	 				 nerdy, book-smart
-* 온 몸이 #욱신욱신해. 				 Every part of my body is sore. , It‘s #smarting
-
-## border
-* 그녀는 히스테리에 가까운 불안을 느꼈다. She felt an anxiety bordering on hysteria. 
-
-## behave
-* * behave badly = 못되게 굴다 * behave yourself! = 말썽 피우지 마!
-
-## bill
-* bill 에는 [지폐, 법안, 목록] 이라는 뜻이 있는데요. fit the bill 에서는 일반적인 항목들이 쭉 적힌 목록을 의미해요. 그런 목록에 맞다- 라고 직역이 되니까 조건에 맞는 것들을 충족시키다는 의미를 가지는 재미있는 표현입니다. 특히 어떤 직업에 적절한 자격들을 가지고 있을 때 많이 쓰인답니다.
-  * 레이첼은 그 직위에 완벽하게 적합한 것 같아. ex) Rachel seems to fit the bill perfectly for the position.
-* 영자신문의 정치면에 자주 등장하는 단어입니다. 교황이나 대통령 등 권위가 있는 사람이 공식적으로 제안된 사항을 거부/기각 할 수 있는 권리를 말합니다. 
-  * 대통령은 그 법안을 거부했다. ex. The president vetoed the bill. 
-
-## bitch
-* bitchy 의 경우엔 'x년' 을 의미하는 bitch 에서 나온 형용사라 원래는 나쁜 의미를 가지는데요. 친한 사이에서는 반어적 의미로 '도도하게 멋진' 을 의미하기도 해요.
-* bitch; 2. 임마; 3. he's such a bitch; 징징된다 4. Stop bitching; at me 싫은 소리 그만해라
-  * 일방적으로 갈구다; bitch someone out
-
-## bullet
-* 만화 캐릭터들이 긴장했을 때 흘리는 땀방울, 총알처럼 생겼다고 생각해본 적 있나요? 이렇게 총알(bullets)같은 땀을 흘릴(sweat)것만 같은, 긴장하고 두려운, 식은땀 나는 상태를 'sweat bullets'라고 한답니다. sweat bullets : 겁나다/진땀 빼다/긴장하다
-  * 나 오늘 너무 떨려. I am sweating bullets today. 
-
-## budget
-* 나는 한정된 예산으로 이번 휴가를 보내야 한다. I have to spend this vacation on a budget. 
-
-## bus
-*   나는 널 절대 배반하지 않을거야. 나는 신념을 저버리지 않아. I wouldn' t throw you under the bus . I don ' t sell out . 
-
-## butt
-* 엉덩이에 키스하다?? 이렇게 더러운 표현이 [아첨하다/아부하다] 라는 의미를 갖게 된 것은 그만큼 아첨이나 아부를 지저분한 행위로 본 것과 관련이 있을 텐데요.  [아부/아첨하는 행위] 를 butt kissing 이라고 하고, 그런 행위를 습관적으로 하는 사람을 butt kisser 또는 ass-kisser 라고 합니다. 직장인 분들 주변에 꼭 한 명씩 있지 않나요?
-	* 데이빗한테 아부 좀 그만해, 야이 더러운 아부쟁이야. ex) Stop kissing David's butt, you disgusting butt kisser.
-
-## button
-* press someone's button : 민감한 부분을 건드리다.
-  * 비격식 표현으로 상대방을 짜증나게 하거나 화나게 하려는 의도로 그 사람의 민감한 부분을 건드리는 말 또는 행동을 하는 것을 의미해요. 콕 하고 누르면 확 터지는 그런 부분 말이죠. 영상에서는 특정 인물의 민감한 부분이 아니기 때문에 복수로 buttons 가 쓰였습니다.
-    * 몇몇 정치인들은 표를 더 얻기 위해 의도적으로 민감한 부분을 건드린다. ex) Some politicians deliberately press buttons to get more votes.
 
 ## by
 * 바로 옆에 있는 그림 -> 데드라인
@@ -234,6 +159,9 @@
 
 # 동사
 
+## attention
+* 저는 당신에게 온전히 전념하고 있습니다  Well , you have my undivided attention; # 전념: # undivided attention
+
 ## appreciative
 * appreciative는 여기서 어떤 훌륭한 면을 보는 '안목이 있는'의 의미보다는 무엇에 대해 '감사하는 마음을 갖는'의 뜻으로 사용되었어요. be appreciative of OO의 형태로 많이 쓰이지요.
 * thankful보다는 appreciative가 조금 수동적/ 간접적인 느낌이 있습니다. thankful은 기본적으로 자신이 느끼는 감정을 표현하는 것을 전면에 앞세우는 데 반해, appreciative는 어떤 상황, 작품, 상대의 행동에 대해 자신이 그 가치를 알고 그것에 대한 감사를 느끼는 것이기 때문이죠~
@@ -279,6 +207,86 @@
 ## angle
 * 무슨 속셈이야; What's your angle? 
 
+
+## beef
+* beef는 '싸움, 말다툼, 불평'이라는 뜻도 가지고 있어요. 주로 비격식적인 표현으로 사용되죠. - beef about something: (동사 beef) 무엇에 대해 불평하다
+  * 그는 요새 애들이 옷을 얼마나 이상하게 입고 다니는지에 대해 불만을 토로했다. [ex] He was beefing about how kids dress so weird these days.
+  * - have a beef with someone: (명사 beef) 누군가와 싸우다, 언쟁하다, 에 불만을 갖는다
+
+## beat
+* beat는 ‘이기다, 능가하다’라는 동사로 과거분사는 beaten입니다. 그래서 엄밀히 말하면 be beaten이라고 해야 하지만, 회화나 광고, 음악 등에서 be beat이라고 하는 경우가 종종 있습니다. We can’t be beat은 우리는 능가될 수 없다, 즉 “우릴 이길 사람은 없다”라는 의미입니다. 혹은 beat는 ‘녹초가 된, 엄청 지친’이란 의미도 있어서 “우린 절대 지치지 않아”로 생각할 수도 있습니다. 
+
+## boy
+* 여기서 boy 는 감탄사로 쓰였습니다. 앞일을 모른다는 것을 매우 강조하는 것이죠. 만약 자연스럽게 쓰지 못할 것 같으시다면 듣고 이해만 하셔도 됩니다. 
+  * = 아이고 이런! / 우와!  Oh, boy!
+
+## boil
+* boil 은 [끓이다]라는 뜻이 있는데, boil down 은 양이 줄어들게(down) 끓이는, 즉, [졸이다]라는 뜻이 있어요. 냄비 한가득 있던 무언가를 졸이면 물은 다 증발해버리고, 핵심이 되는 무언가만 남게 되는 모습에서 쓰이는 표현입니다.
+  * = 그 사건은 배심원단이 그를 믿는지 안 믿는지가 관건이야. The case will boil down to whether the jury believes him or not.
+
+## book
+* 동사로 쓰이면 [예약하다] 라는 뜻이 있는 건 익숙하실 거예요. 비슷한 뉘앙스로 영상에서처럼 오디션 같은 상황에선 영화나 연극 등의 출연을 [계약하다] 라는 의미로 쓰여요. 참고로, 수동태로 I'm booked. 라는 표현도 있는데요. 이를 직역하면 [내가 예약되어 있다] 라는 뜻이니, 무언가에 붙잡혀서 [꼼짝할 수가 없다/ 바쁘다] 라는 의미로도 쓰인답니다.
+  * 내 생각엔 우리가 다음 번 쇼에도 그와 계약을 해야할 것 같아. ex) I think we should book him for the next show as well.
+* 나 오늘 밖에 나갈수 없어. 나 책 읽어야하거든. 독서를 한다는 뜻입니다.
+* I can't go out tonight. I need to hit the books.
+* 그 여자 책벌레나요               Is she a bookworm?
+* 하면 난 너 마음을 제대로 읽을 수 있죠.        I can read your feeling like a book.
+* open book: 1. 마음, 생각 따위를 쉽게 들키는 사람 2. 사생활이 전부 알려져있는 사람
+* #book smart 책 따위로 얻은 지식은 많지만 눈치, 상식 등의 실생활, 경험적인 지식이 부족한 사람
+* 중국으로 가는 비행기 예약했어            I booked a flight to China.
+* 겉으로만으로 사람을 판단하지s 말라        Don't judge a book by its cover.
+* 그 여자는 모든일을 에프엠대로 해요!!     #정석, #FM   She does everything by the book.
+* 내 생각으로는 메이슨은 멋진 녀석이야.          Mason is nice in my book.
+* 파이러츠는 6대1로 졌다     공식 기록에 남다. 지다 the Pirates' 6-1 loss was in the books
+* 모든 수단과 방법을 동원해서              #Every trick in the book 
+* 엄청난 인생 경험이었다.            that surely was one #for the books
+* one for the (record) books
+* 내가 꿈도 못꾸었던 일이야         #That’s going down in the books.
+* 엄벌했으면 좋겠어요            I hope they threw the book at him
+* #선약 있어 I am #booked up tonight = I had another plan tonight
+* ##book smart 책 따위로 얻은 지식은 많지만 눈치, 상식 등의 실생활, 경험적인 지식이 부족한 사람
+* #get smart with; #잔머리 굴리다; don’t get smart with me 혹은 까불지마
+* wordly-wise man; #세상사에 능한 사람, #street-smart; this is being street-smart
+* 머리는 좋으나 세상물정을 모르는; 꺼벙          nerdy, book-smart
+* 온 몸이 #욱신욱신해.         Every part of my body is sore. , It‘s #smarting
+
+## border
+* 그녀는 히스테리에 가까운 불안을 느꼈다. She felt an anxiety bordering on hysteria. 
+
+## behave
+* * behave badly = 못되게 굴다 * behave yourself! = 말썽 피우지 마!
+
+## bill
+* bill 에는 [지폐, 법안, 목록] 이라는 뜻이 있는데요. fit the bill 에서는 일반적인 항목들이 쭉 적힌 목록을 의미해요. 그런 목록에 맞다- 라고 직역이 되니까 조건에 맞는 것들을 충족시키다는 의미를 가지는 재미있는 표현입니다. 특히 어떤 직업에 적절한 자격들을 가지고 있을 때 많이 쓰인답니다.
+  * 레이첼은 그 직위에 완벽하게 적합한 것 같아. ex) Rachel seems to fit the bill perfectly for the position.
+* 영자신문의 정치면에 자주 등장하는 단어입니다. 교황이나 대통령 등 권위가 있는 사람이 공식적으로 제안된 사항을 거부/기각 할 수 있는 권리를 말합니다. 
+  * 대통령은 그 법안을 거부했다. ex. The president vetoed the bill. 
+
+## bitch
+* bitchy 의 경우엔 'x년' 을 의미하는 bitch 에서 나온 형용사라 원래는 나쁜 의미를 가지는데요. 친한 사이에서는 반어적 의미로 '도도하게 멋진' 을 의미하기도 해요.
+* bitch; 2. 임마; 3. he's such a bitch; 징징된다 4. Stop bitching; at me 싫은 소리 그만해라
+  * 일방적으로 갈구다; bitch someone out
+
+## bullet
+* 만화 캐릭터들이 긴장했을 때 흘리는 땀방울, 총알처럼 생겼다고 생각해본 적 있나요? 이렇게 총알(bullets)같은 땀을 흘릴(sweat)것만 같은, 긴장하고 두려운, 식은땀 나는 상태를 'sweat bullets'라고 한답니다. sweat bullets : 겁나다/진땀 빼다/긴장하다
+  * 나 오늘 너무 떨려. I am sweating bullets today. 
+
+## budget
+* 나는 한정된 예산으로 이번 휴가를 보내야 한다. I have to spend this vacation on a budget. 
+
+## bus
+*   나는 널 절대 배반하지 않을거야. 나는 신념을 저버리지 않아. I wouldn' t throw you under the bus . I don ' t sell out . 
+
+## butt
+* 엉덩이에 키스하다?? 이렇게 더러운 표현이 [아첨하다/아부하다] 라는 의미를 갖게 된 것은 그만큼 아첨이나 아부를 지저분한 행위로 본 것과 관련이 있을 텐데요.  [아부/아첨하는 행위] 를 butt kissing 이라고 하고, 그런 행위를 습관적으로 하는 사람을 butt kisser 또는 ass-kisser 라고 합니다. 직장인 분들 주변에 꼭 한 명씩 있지 않나요?
+  * 데이빗한테 아부 좀 그만해, 야이 더러운 아부쟁이야. ex) Stop kissing David's butt, you disgusting butt kisser.
+
+## button
+* press someone's button : 민감한 부분을 건드리다.
+  * 비격식 표현으로 상대방을 짜증나게 하거나 화나게 하려는 의도로 그 사람의 민감한 부분을 건드리는 말 또는 행동을 하는 것을 의미해요. 콕 하고 누르면 확 터지는 그런 부분 말이죠. 영상에서는 특정 인물의 민감한 부분이 아니기 때문에 복수로 buttons 가 쓰였습니다.
+    * 몇몇 정치인들은 표를 더 얻기 위해 의도적으로 민감한 부분을 건드린다. ex) Some politicians deliberately press buttons to get more votes.
+
+
 ## bacon
 * 내가 널 곤경에서 구해낼 거야 I ' ll save your bacon . 예문 발음듣기
 
@@ -308,6 +316,8 @@
  * 
  *    I always back my car into the garage.
  *    난 늘 차를 차고에 거꾸로 넣는다.
+* 물러서; Move back;  Stay back 아예 현재 앉은 자리에서 움직이지 말고 앞으로 나오지 말라;  Go back: 다시 돌아가
+  * Get back: 원래 있던 자리로 돌아가   Fall back: 후퇴해
 
 ### back away
 * : 마티, 우리는 여기서 물러설 수 없어요. We can't back away from this, Marty. Back away' 는 물리적으로 물러나는 것 뿐아니라, 어떤 상황의 형세가 불리하여, 물러서는 것도 의미합니다.
@@ -369,6 +379,9 @@
 * 1) beg + 목적어 + to 부정사 / not to 부정사 [ex] I begged her to forgive me.
   * 2) beg + (목적어) + for 명사 [ex] I begged her for a second chance.
   * 제발 부탁이야. / 이렇게 애원할게. [ex] I'm begging you.
+
+## bend
+* 운전할 때 고개를 숙이지 않아도 되서 좋아; i don't have to bend when i drive
 
 ## benefit
 * = 속는 셈 치고 믿다, 유리하게 해석하다  give someone the benefit of the doubt 2) 그렇지만 단어를 하나하나씩 뜯어본다면, 듣는 사람이 말하는 사람의 말을 완전히 다 믿지는 않기에 의심(doubt) 을 하지만, 그중에서 그럴싸한 내용을 믿는다던가 최대한 긍정적으로 그 말을 해석을 함으로써 말하는 사람에게 혜택(benefit) 을 주는 모습에서 나온 표현입니다.
@@ -492,6 +505,11 @@
 * 15달러의 영화표를 지불하게 만들다; get you to cough up 15 bucks for a movie ticket
   * 그는 각혈을 하고 있따; He's been coughing up blood
   * 빨리 말해; Cough up
+
+## condemn
+* B 에 대해 A 의 선고를 받다. = be condemned to A for B
+  * 동사 condemn 은 1) 규탄하다,비난하다 2) 선고를 내리다, 라는 의미를 가지고 있어요. 2번의 의미로 쓰이면 영상에서처럼 주로 수동태로 쓰이고요. A 자리에는 '명사 또는 동사원형' 이 형량을 나타내고, B에는 어떤 잘못을 했는지가 들어갈 수가 있습니다.
+  * 그 남자는 텍사스에서 있었던 총기 난사로 사형 선고를 받았습니다. ex) The man was condemned to death for the shooting spree in Texas.
 
 ## convenience
 * 가급적 빨리 전화해 주세요. Please telephone at your earliest convenience. 
@@ -827,6 +845,7 @@
 ## fit
 * 주변의 모습이나 주변 사람들과 잘 어울리는 모습을 나타내는 단어로 주로 전치사 with 를 뒤에 붙여서 어디에 잘 어울리는지 나타낼 수 있어요. 영상에서 right 는 '제대로' 의 의미로 강조해주기 위해 쓰였습니다.
 	* = 에이미는 그녀의 학생들과 정말 잘 어울리는 것 같아. I think Amy fits right in with her students.
+* # fit through; : 아무도 거기에 들어갈 수 없어요. No one could fit through there. Fit through'는 '로 들어갈 수 있을 정도로 딱 맞다, 적절하다'
 
 ## fire
 * 보건부 장관이 사방에서 맹비난을 받게 되었다. The health minister has come/be under fire from all sides. 
@@ -1039,6 +1058,7 @@
   * 이건 아무나 할 수 있는 일이야. ex) You don't have to be a genius to get this done.
 
 ## get
+* YOu got me (there); 나도 모르겠는데  2. 내가 들켰네, 내가 당했다.
 * 움직여서 상태가 변화는 느낌
 * Let's get moving
 * 'get back at sb'는 '에게 복수하다'라는 의미의 informal(비격식)한 구동사입니다.
@@ -1479,6 +1499,9 @@
 * 3. ⓥ 연륜이 쌓여서 성격이 온화해 지다
 	* 그녀는 참을성이 없는 편이었는데, 시간이 지나면서 유순해 졌다. v
 
+## menu
+* 메뉴가 뭐야? What's on the menu? (the 중요); What's for lunch? Wht's for dinner? WHat are we having tonight?
+
 ## mention
 * 에 대하여 언급하다 = mention (o) / mention about (x)
 
@@ -1551,6 +1574,8 @@
 ## nothing
 * all or nothing. 직역하면 '전부 혹은 아무것도 아닌' 이런 느낌인데요, '모 아니면 도', '중도가 없는' 이렇게 번역 할 수 있어요. 하이픈(-)으로 이러 붙이면 형용사 all-or-nothing이 돼요. 
   * 걔는 항식 극단적이야/모 아니면 도야. [ex] It's all or nothing with her.
+* 강조할 때; 좋은일 만 있길 바래; i wish nothing but the best for you; nothing 해석 안하고 very, really, only 같은 강조
+  * 그는 단순히 얼간이일 뿐이야; He is nothing but a jerk
 
 ## notice
 * 사전 공지; prior(advance) noie; 추후 공지: further notice; 촉박한 홍보; SHort notice; 그 기간을 두고 하는 공지: 기간's notice
@@ -1822,6 +1847,9 @@
 ## quirk
 * 무슨 기이한 운명의 장난인지 그들이 같은 호텔에 예약을 했던 것이다. By a strange quirk of fate they had booked into the same hotel. 
 
+## quite
+* 비밀로 해; Keep it quite; Keep it to yourself
+
 ## right
 * 퍽이나   "Yeah, right."
 
@@ -1852,6 +1880,7 @@
 	* 부정적 생각이 나한테 영향을 주지 않길 바란다. I don't want negative thinking to rub off on me.
 
 ## run
+* 예행 연습을 하다. do a dry run; # dry run
 * ‘흐르는 물, 수돗물’을 running water 라고 하죠. 이처럼 물이 흐르는 것과 관련해서는 동사 run 을 씁니다. 액체를 흐르게 하다, 액체가 흐르다, 흐르는 물에 물체를 두다, 액체를 붓다, 물을 받다, 액체가 번지다 등 액체가 흐르는 것과 관련해서는 거의 run 으로 표현합니다.
   * 물이 화장실 바닥 전체에 흐르고 있었다.  Water was running all over the bathroom floor.
 * 진행하는 느낌
@@ -2099,6 +2128,9 @@
   * stand-in: 대역, 대리인, 대신하는 것, 대용물
   * 누가 저를 대신하시죠? ex) Who's going to be stand-in for me?
 
+## standard
+* 이것은 불공평한 이중 잣대이다. This is an unfair double standard . 듣기 출처:타임즈코어
+
 ## stamp
 * 1) stamp 가 [도장/낙인] 이라는 뜻이 있어요. 그러니 무언가 많이 진행되는 상황에서 나쁜 것들만 '넌 나쁜거야!' 라는 낙인을 찍어서 (stamp) 내보내는 (out) 것을 의미합니다. stamp out : 금지하다, 근절하다. 없애다.
   * 연구자들은 이 새로운 약의 종류를 가지고 암을 없애기를 희망합니다. ex) The researchers hope to stamp cancer out with this new type of medicine.
@@ -2114,6 +2146,10 @@
 	* 쉬운 걸로 시작해보죠. Let's start off with an easy one.
 * kick-start 의 원래 의미는 오토바이처럼 무언가를 힘껏 밟아 시동이 걸리게 하는 [시동 방식] 을 의미하는데요. 그 의미의 연장선으로 무언가에 발동을 걸리도록 하는 것을 a kick-start 라고 합니다.
 	* 내 삶에 추진력이 필사적으로 필요해. ex) I desperately need a kick-start for my life.
+
+## shy
+* shy 가 [부끄러워하는] 의 의미 외에도 미국에선 비격식 표현으로 필요한 만큼의 양에서 [~이 부족한] 의 의미를 갖기도 합니다. 
+  * = 그는 90세가 되기 2주 전에 죽었다. He died two weeks shy of his 90th birthday.
 
 ## share
 * : 안 좋은 일을 충분히 겪다 [ 숙어 ] have one's share (of something)

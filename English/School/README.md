@@ -47,6 +47,7 @@
 * ~과; Department of korean language/philosophy
 * 그녀는 세무학을 전공했어.;  She majored in Taxation.
 	* 제 전공은 물리학이고 부전공은 중국어입니다 I have a major in physics with a minor in Chinese.
+	* i'm majoring in;  i majored in 전공;   I'm doing a minor in 부전공;  I did a minor in 부전공
 	* 복수 전공 double major in AA and BB
 * 휴학 하고싶어; he wanted a gap year
 * 왕따;; #outcast;  i was bullied at school
@@ -573,15 +574,16 @@
 * 네, 열정적이세요. 	Yes, he's really passionate. 
 * 좀 도와 주시겠어요?	Could you give me a hand
 * 밤늦게까지 불을 밝히다(공부,일 하느라)	‘mɪdnaɪt burn the midnight oil
-* 벼락치기 공부를 하다	mʌg mug something up, crash course
-* 밤새 공부를 하다	put an all – nighter 
-* 저는 #야행성이에요	I am #nocturnal, night owl. 미국식 [nɑ:k't3:rnl
-* ~하느라 늦은 밤까지 깨어 있다	be up all night / stay out all night v-ing
-* 시험 잘봐	good luck on your exam! ɪg‘zӕm
-* 열심히 공부해	study hard
-* 다음주에 중간 /기말고사가 있어	‘mɪd|t3:rm
-* I have midterms/ final terms next week.
-* 역사 시험은 화요일이야	The history exam will be on Tuestday ‘tu:zdeɪ
-* 시험 범위는 1과부터 10과까지야	The test will cover from chaper 1 to 10
-* 시험 공부하느라 밤을 새워야해	I have to cram for the test. krӕm
-* 영어 성적이 좋게 나왔어	I got a good grade on English.
+	* 공부 잘하다; He stuides well(xx) - He does well in school; He gets good grades
+	* 벼락치기 공부를 하다	mʌg mug something up, crash course
+	* 밤새 공부를 하다	put an all – nighter 
+	* 저는 #야행성이에요	I am #nocturnal, night owl. 미국식 [nɑ:k't3:rnl
+	* ~하느라 늦은 밤까지 깨어 있다	be up all night / stay out all night v-ing
+	* 시험 잘봐	good luck on your exam! ɪg‘zӕm
+	* 열심히 공부해	study hard
+	* 다음주에 중간 /기말고사가 있어	‘mɪd|t3:rm
+	* I have midterms/ final terms next week.
+	* 역사 시험은 화요일이야	The history exam will be on Tuestday ‘tu:zdeɪ
+	* 시험 범위는 1과부터 10과까지야	The test will cover from chaper 1 to 10
+	* 시험 공부하느라 밤을 새워야해	I have to cram for the test. krӕm
+	* 영어 성적이 좋게 나왔어	I got a good grade on English.

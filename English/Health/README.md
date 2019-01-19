@@ -325,6 +325,7 @@
   * 팔에 물린 자국이 있다구요; He's got bite marks on him arm
 * 빠른 #쾌유를 빕니다				Get well soon.
 * #링거	have an IV intravenous [|ɪntrə|vi:nəs]
+  * 링거 맞고 있어요; I'm on an I.V; 링거 놔주세요; I need an I.V
 * intra: 안쪽의 #venous: #정맥의
 * #fluid
 * 링거액이 나오지 않아요	The I.V solution doesn’t drip now
@@ -444,6 +445,7 @@
 ------------------------------------------------------------------
 * ㆍ불법 수술 유행, 전문가가 아닌 사람에게서 행해짐
 * ㆍ지방 대신 실리콘 사용, 가끔은 그 대신 식용유 사용
+  * - get fat injections : 지방주입술을 받다
 * ㆍ실리콘은 엉덩이에 넣으면 구멍이 생김 -> 솜으로 막고 순간접착제로 붙임
 * ㆍ#fix a flat(타이어 수리 제품)과 시멘트를 쓰는 사람도 있음 (납작한 엉덩이를 flat)
 * ㆍ피부나 가죽처럼 딱딱해지거나 과시하거나 녹을 수 있음

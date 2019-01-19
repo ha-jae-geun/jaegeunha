@@ -1,3 +1,10 @@
+# 전치사 - PART 5 [ 시간편 ] - 시간을 가리키는 전치사 기본 개념 세우기
+* 전시회가 매년 1월에 한번씩 열려요; The exhibition is held once every year in january; once a year도 되는데 강조하기 위해 every
+* 올해에는 4일동안 열릴 예정이에요; This year, it's being held for 4 days 
+* 다음 주 21일에 시작해서 25일에 끝나요. It starts next week on the 21sst and it ends on the 25th; and it ends; 애니랜선더
+* 저는 첫 날인 월요일에 가럭에요; I'm going to go on the first day, on monday.
+* 9시 부터인데 저는 8시까지 가보려고요. They open at 9 but i'm oing to try to get there by 8.
+
 # Recently, Lately, These days - 구분해서 말해야 더 자연스럽다
 * 친구 중 하나가 최근에 애기를 낳았어요; 
   * A freind of mine had a baby recently; 최근에 일어난 일은 recently만 사용 가능

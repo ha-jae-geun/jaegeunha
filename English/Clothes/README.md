@@ -13,6 +13,8 @@
 
 * 꾸미다; primp 와 preen 모두 [몸치장을 하다] 의 의미를 가져요. primp 의 경우엔 머리나 메이크업을 약간 고치기 위해 시간을 쓰는 것을 의미하고, preen 의 경우엔 좀 더 매력적으로 보이기 위해 단장하는 것을 의미하는데요. 보통 영상에서처럼 함께 쓰입니다.
   * groom은 사람이나 동물의 외모를 가꾸고 손질한다는 뜻이고 feature는 어떤 것의 특징, 특색, 혹은 사람의 이목구비를 지칭하기도 합니다. 그래서 발레리 본 소벨은 메이크업은 단지 꾸미는 일이 아니라 당신이 가진 최고의 특징을 강조하는 일이라는 자신의 신념을 말하고 있습니다. 
+    * 외적으로 보이는 디자인이나, 어떤 일을 하는 방식이 절제되고 심플한 것을 말합니다. 영상에서는 '겸손하다'라고 번역하였습니다. * understated = (스타일, 색상, 장식 등) 절제된, 꾸밈이 과하지 않은
+      * 그녀의 드레스는 과하지 않으면서 매우 우아했다. Her dress was very elegant in an understated way.
     * 그녀는 그 데이트 전에 몇 시간을 들여 자신을 단장했다. She spent hours to groom herself before the date.
   * 옷, 신발, 오토바이 등 어떤 사물을 자기가 원하는 대로 맞춰서 바꾸는 것을 personalize 라고 합니다. 비슷한 단어로 [고객의 요구에 따라 맞춤 제작하다] 라는 의미의 customize 도 있습니다. 뜻에서도 알 수 있듯이 customize 는 보통 상점의 주인이, personalize 는 고객이 하는 동작인 경우가 많습니다. 
     * 이 장치의 디자인은 언제든 취향에 맞게 꾸밀 수 있습니다. ex) You can always personalize the design of this device.
@@ -113,6 +115,7 @@
 * #변장; #fancy dress
 * 갈아입을 옷: a change of clothes
 * #벗다: #undress = #lose #shed
+  * 그는 코트를 벗어서 의자에 살짝 걸쳐놓았다.  He took off his coat and draped it over a chair.
 * #take off; I wanted to take off my shoes
 * #헐렁한 옷, #타이트한 옷 #baggy and #saggy, tight-fitting clothes
 * #단정한 #neat, #tidy

@@ -36,6 +36,8 @@
 * 미끄러지듯 발리네; it glides; it slides on
 * 눈썹을 채워볼게요; Fill in my eyebrows
 * 발색이 좋아; it is a super pigmented
+	* payoff 는 '청산/지불/결말/대가'등 어떤 행동에 따르는 결과를 말하는데요, 메이크업에서 color payoff는 색조제품의 발색을 말한답니다. pigmentation이라고도 하는데요, '발색이 좋은'은 highly pigmented라고 합니다.
+		* 제 예상보다 발색이 더 좋네요. It has better color payoff than I expected. 
 	* 몇 개 발색해볼게요; Let's swatch some
 	* 얼굴의 색, 즉, 안색을 나타내는 표현이 complexion입니다, 기본적인 피부색 (skin tone)을 나타내기도 하고 얼굴 피부의 상태를 나타낼 때도 사용할 수 있죠. 또한 어떤 사태의 상황, 양상 등을 가리킬 때 전문적인 어감이 있는 표현으로도 쓰인답니다~ 
 		* 새미는 얼굴색이 하얗다/검다. Sammy has a light/dark complexion.
@@ -101,3 +103,4 @@
 # 손톱
 * 1) 우리말에서 매니큐어는 영어로 nail polish 라고 합니다. 그렇다면 manicure 는 뭘까요? manicure 는 손톱에 칠하는 것뿐만이 아니라 큐티클을 제거하는 등 전체적인 손 관리받는 것을 의미해요. 발 관리는 pedicure 라고 합니다. 2) 매니큐어나 화장을 하는 걸 put on 또는 wear 라고 하는데요. put on 은 매니큐어 칠을 하거나 화장을 하는 '동작', wear 는 그런 화장을 하고 있는 '상태'를 의미합니다.
   * = 내 여자친구는 분홍색 매니큐어에 집착해. My girlfriend is obsessed with pink nail polish.
+  * 우리가 흔히 말하는 바르는 매니큐어는 사실 영어론 nail polish 라고 해요. 영어 manicure 는 손톱에 바르는 것뿐만이 아니라, 손의 전반적인 관리를 의미하는데요. 손톱을 자르고, 모양을 내고, 손톱에 색을 입히고, 각질 제거하는 것까지 전부를 의미합니다. 단, 영상에서처럼 젤 타입으로 두껍게 손톱에 입힐 경우엔 gel manicure, 일반적인 매니큐어는 nail polish 라고 합니다.

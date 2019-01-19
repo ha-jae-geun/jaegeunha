@@ -19,6 +19,7 @@
 * 술래: IT
 
 # 청소년 #아이
+* 아기 쉼터; baby shelter(피난처 느낌) = baby lounge
 * be given up for adoption = 입양되어지다 ‘입양보내다’는 [put/give 아이 up for adoption] 혹은 [send 아이 to be adopted/for adoption] 이라고 합니다. 이 패턴들을 수동형으로 바꾸면 ‘입양 보내지다’가 됩니다. 가장 간단하게는 be adopted 입니다.
 	* 그녀는 부모님이 아이를 키우기에는 너무 어려서 입양보내졌다. She was given up for adoption as her parents were too young to raise her. 
 	* 그들은 아이를 입양보내지 않기로 결심했다. They decided not to put him up for adoption. 

@@ -13,7 +13,7 @@
 
 
 ##영어
-0111
+0118
 * 테드 https://www.ted.com/
 -------------
 *   MLB http://post.naver.com/my/series/detail.nhn?seriesNo=46475&memberNo=449115
@@ -107,16 +107,12 @@
 * 시언스쿨 https://m.blog.naver.com/siwonschool0
 * EF 코리아 https://m.blog.naver.com/PostList.nhn?blogId=ef_korea
 * 원스탑에듀 https://m.blog.naver.com/PostList.nhn?blogId=1stopedu
-* 달변가 https://m.blog.naver.com/PostList.nhn?blogId=tkfnxh&currentPage=2
 * 쎄쎄쎄 https://m.blog.naver.com/PostList.nhn?blogId=cedubook
 * 큐레이트 https://m.tv.naver.com/curate
 * 브랜든의 캐나다 https://m.blog.naver.com/PostList.nhn?blogId=kidaradio 
-* 공단기 https://m.blog.naver.com/PostList.nhn?blogId=blackyuna0824&currentPage=1
-* 헬로밀루 https://m.blog.naver.com/PostList.nhn?blogId=english4evry1&currentPage=1
 * 김일승 https://m.blog.naver.com/PostList.nhn?blogId=kishyun
 * 차니쓰 https://m.blog.naver.com/PostList.nhn?blogId=wkosin
 * 와이넛북스 https://m.post.naver.com/my.nhn?memberNo=5039741
-* 슈퍼데디 https://m.post.naver.com/my.nhn?memberNo=5518579
 * Sunny https://m.blog.naver.com/PostList.nhn?blogId=pureriver777
 * 마젠타섹 https://m.blog.naver.com/PostList.nhn?blogId=dkfjsa
 * 영어교육정말어렵다 https://m.blog.naver.com/PostList.nhn?blogId=dgtongbeon

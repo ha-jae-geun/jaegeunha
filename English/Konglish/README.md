@@ -1,4 +1,5 @@
 # 기타
+* 아기 쉼터; baby shelter(피난처 느낌) = baby lounge
 * 랜드비 얼마야? What is the rent? How much is the rent? (rent fee x)
 * 캠핑카; Camper, RV
 * 학원; academy -> i have English class later

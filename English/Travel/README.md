@@ -17,6 +17,8 @@
   * 세계; all over the world
   * I wanna travel to ~
 * 안전한 비행되길 바래; Safe flight
+* 우리는 부활절 때 며칠 휴가를 갔으면 하고 있다. We’re hoping to get away for a few days at Easter. 
+  * 주말 여행: weekend getaway
 
 # 관광	#toruist industry(#industry)
 * 단체여행입니까? Are you a member of group tour?

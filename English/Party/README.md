@@ -36,16 +36,17 @@
 * 분위기나 #흥을 깨다; #rain on someone's #parade
   2. He rained on me that he was so tired; 불평, rain on somebody’s parade
 * 분위기 깨는 데는 역시 올 리가 한몫해요 				 trust him to lower the tone
-* #찬물을 끼얹다, #김새게 하다; #put a damper on something; #damper
-* #buzzkill; 분위기 죽이는 사람; he's such a buzzkil every time
-* 분위기 망치지 마; don't spoil the mood, don't rain my parade, look before you leap
-* #분위기 파악좀 해; #consider your surroundings, you fool
-* #aura, #feeling, #atmosphere - 기운, 분위기 
-* #흥 #기선제압 #분위기를 만들다
-* 분위기 느끼는거 어때? Would you get in the spirit of things?
-* 신나게 파티나 할래; i'm getting down
-	* 파티 망치려고? Trying to crah another party
-	* 초대받지 않은 파티를 가다; Can i crash your party?
+	* 분위기 깨려고 한게 아니야; he doesn't meant to be a killjoy
+	* #찬물을 끼얹다, #김새게 하다; #put a damper on something; #damper
+	* #buzzkill; 분위기 죽이는 사람; he's such a buzzkil every time
+	* 분위기 망치지 마; don't spoil the mood, don't rain my parade, look before you leap
+	* #분위기 파악좀 해; #consider your surroundings, you fool
+	* #aura, #feeling, #atmosphere - 기운, 분위기 
+	* #흥 #기선제압 #분위기를 만들다
+	* 분위기 느끼는거 어때? Would you get in the spirit of things?
+	* 신나게 파티나 할래; i'm getting down
+		* 파티 망치려고? Trying to crah another party
+		* 초대받지 않은 파티를 가다; Can i crash your party?
 
 * #축제
 * ##축제 #페스티벌

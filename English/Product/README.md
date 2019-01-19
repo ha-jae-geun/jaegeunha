@@ -422,11 +422,6 @@
 * 농산물 코너	produce section
 * 수레	wagon[|wӕgən], cart
 * #수레바퀴 목수	#wheelwright
-* #영업일 		7business days
-* 영업시간이 어떻게 되나요?	What hours are you open
-	* What time are  you open until <> what time does this club close tonight?
-	* 무슨 요일에 영업해요? Whatn nights are you open?
-* What are opening hours?
 * 할부	monthly installments / installment plan
 * 초대해줘서 고마운데, 다음으로 미루면 안 될까요?	Thanks for the invite, but can I take a rain check? 
 * 옷 어디서 사요?	where I can get ~?
