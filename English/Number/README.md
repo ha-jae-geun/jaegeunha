@@ -297,20 +297,7 @@
 * ☆#amp up; amp up the volume; #볼륨 올리다; ~ vibe was amped up; amp up the sales
 * #amped up; 신나다
 * #growth, #increase; have gone up 120% over the last 3 years, #ascension
-* 상승 중인 #on the rise(#rise)
-	* 증가하다 increase/rise dramatically, markedly, significantly, incrementally | gradually, increasingly | slightly
-	* 청소년 범죄가 다시 증가하고 있어 					 YOuth crime is #on the rise again
-	* 폭발적으로 올라가다 						 the prices have really skyrocketed
-	* #increment = #accrual
-	* #soar; #급증하다 #급등하다 #치솟다 = #surge(#쇄도하다) = #skyrocket
-	* #계속 늘어나는; #ever-growing
-	* 폭발적으로 증가했어요; increase like an #explosion = sales #go through the roof; #roof
-	* 값을 올리다; jack up the pricek; 타이어 갈 떄 무거운 것을 들어 올리는 것: jack
-	* 공급ㅇ 증가하면 수요가 감소한다; an increase in supply results in a fall in demand
-	* 그 팀은 영업 성과에서 주목할 만한 향상을 보여줬습니다. ex) The team has shown measurable improvements(<>dip) in their sales performance.; 주목할만한; measurable
-* #증가 #상승
-* 감소
-* 추운 겨울 때문에 오일 비축분이 예상보다 더 크게 축소되었다. The cold winter has led to a larger-than-expected drawdown on oil stocks. 
+
 
 
 

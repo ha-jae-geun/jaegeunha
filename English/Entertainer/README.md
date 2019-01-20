@@ -6,6 +6,7 @@
 * 광고 보시고 잠시후에 돌아오곘습니다; We'll be right back after a few words from our sponsors
 * 꽁트에 참여해주셔서 감사행; Thank yoou for being involved in that sketch
 * (음반, 영화)판촉물/광고를 만들었따; they made a promo video
+	* 삼성은 영화 내 PPL에 엄청난 돈을 쏟아 붇는다.  Samsung spends a large amount of money on product placement in movies.
 * 내일 시청해주세요; Tune in tomorrow
 	* 채널 고정; Stay tuned for
 * 쇼에 초대해 줘서 고마워요; Thank you for having me

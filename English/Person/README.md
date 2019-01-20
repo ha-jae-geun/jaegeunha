@@ -481,13 +481,6 @@ he lacks the dexterity to get on in life
 * #klutzy; #klutziness
 * be nod good at = be bad at
 * 그 친구 아직 미숙한 거 같아.	 			 I'm clumsy / all thumbs about cooking.
-* 이름 잘 못외워요							 I'm terrible with names
-	* * take on your partner’s surname = 배우자의 성을 따르다 take on 은 다양한 뜻으로 쓰이기 때문에 문맥을 보고 이해해야 합니다. 여기서는 ‘취하다, 떠맡다, 받아들이다’를 뜻하는데, on 없이 take 만 써도 됩니다.  참고로 결혼하기 전의 성씨, 즉 자신이 원래 갖고 있던 성씨를 (한국의 경우에는 대부분 아버지의 성씨겠죠) 영어로 a maiden name 이라고 합니다.
-		* 한국 여성들은 결혼할 때 배우자의 성을 따르지 않는다. Korean women don’t take (on) their partners’ surnames when they marry. 
-	* * 이름을 지어주다; i haven't named my puppet
-	* 연예계에서 이름을 알리다; he already made a big name in the entertainment industry
-  * 미국 대통령 이름 셋을 대시오; Name three US presidents
-  * 원하는 가격을 제시하시오; Name a time and place
 * #못하다 #서투르다 #칠칠맞다 #잼병
 * #추진력 driven
 * #추진 #propulsion; #jet propulsion

@@ -162,6 +162,9 @@
 ## attention
 * 저는 당신에게 온전히 전념하고 있습니다  Well , you have my undivided attention; # 전념: # undivided attention
 
+## apply
+* 상처에 압력을 가하라. [ex] Apply pressure to the wound.
+
 ## appreciative
 * appreciative는 여기서 어떤 훌륭한 면을 보는 '안목이 있는'의 의미보다는 무엇에 대해 '감사하는 마음을 갖는'의 뜻으로 사용되었어요. be appreciative of OO의 형태로 많이 쓰이지요.
 * thankful보다는 appreciative가 조금 수동적/ 간접적인 느낌이 있습니다. thankful은 기본적으로 자신이 느끼는 감정을 표현하는 것을 전면에 앞세우는 데 반해, appreciative는 어떤 상황, 작품, 상대의 행동에 대해 자신이 그 가치를 알고 그것에 대한 감사를 느끼는 것이기 때문이죠~
@@ -215,6 +218,10 @@
 
 ## beat
 * beat는 ‘이기다, 능가하다’라는 동사로 과거분사는 beaten입니다. 그래서 엄밀히 말하면 be beaten이라고 해야 하지만, 회화나 광고, 음악 등에서 be beat이라고 하는 경우가 종종 있습니다. We can’t be beat은 우리는 능가될 수 없다, 즉 “우릴 이길 사람은 없다”라는 의미입니다. 혹은 beat는 ‘녹초가 된, 엄청 지친’이란 의미도 있어서 “우린 절대 지치지 않아”로 생각할 수도 있습니다. 
+
+## bounce
+* 그 총알은 벽에 맞고 튕겨나와 총 쏜 사람 자신을 맞췄다. ex) The bullet bounced off the wall and hit the shooter himself. 1) bounce 가 동사로 [튀다] 라는 뜻이 있어요. 전치사 off 과 함께 쓰이면 [에 맞고 튕겨나오다/튀어오르다] 라는 뜻으로 쓰입니다.
+* 내 생각에 그는 부상으로부터 꽤 빨리 회복할 것 같아. ex) I think he will bounce back from from the injury quite soon. 3) bounce back 이라는 표현도 많이 쓰이는데요. 이것은 다시 돌아오는 것 (back) 이기 때문에 [회복하다/반등하다] 라는 뜻이 있습니다.
 
 ## boy
 * 여기서 boy 는 감탄사로 쓰였습니다. 앞일을 모른다는 것을 매우 강조하는 것이죠. 만약 자연스럽게 쓰지 못할 것 같으시다면 듣고 이해만 하셔도 됩니다. 
@@ -628,6 +635,8 @@
 * Could you please charge that fine to my mom?
 * Do you have IPhone charger?
 * Are you gonna charge extra
+* - take charge of : 통제권을 잡다
+  * 네 삶의 통제권을 잡아. Take charge of your life.
 
 ## context
 * context 는 어떤 일의 [맥락, 전후사정] 을 의미해요. 그래서 put A into context 는 A 라는 주제에 대해 전후 사정을 따져보고 여러 가지 추가 정보, 추가 요소를 고려하여 좀 더 잘 이해한다는 의미를 가집니다.
@@ -700,6 +709,11 @@
 
 ## due
 * 당신의 요구 사항은 적절한 때에 처리하겠습니다. Your request will be dealt with in due course. 
+
+## disentangle
+*   * 사라는 빗으로 그녀의 머리를 풀었다. ex) Sarah disentangled her hair with the brush.
+* 발생하는 모든 것의 효과를 구분하기란 어렵다. ex) It's hard to disentangle the effects of everything that's happening. disentangle : (얽힌 것을) 풀다, 해방시키다.
+
 
 ## dibble
 * 을 잠깐 해보고 있어요.  = I'm dibbling dabbling in ~ 무언가를 잠깐 동안 깨작깨작하듯이 해보는 것을 dabble in 이라고 합니다. 보통 스포츠나 취미 활동 등을 조금씩 해 볼 때 쓰는 표현인데요. dibble dabble 은 좀 더 비격식 표현으로 약간 말장난, 언어유희를 하듯이 말할 때 쓰는 표현이에요. 
@@ -1411,6 +1425,10 @@
   * 4. "Knock yourself out"은 "마음껏 해"라는 뜻이에요. 음식을 마음껏 즐겨라, 게임을 마음껏 즐겨라 등등 여러 상황에서 쓸 수 있어요.
     * 응 너 다 먹어. B: Knock yourself out.
 
+## label
+* 1) 영상에서처럼 흔히 수동태인 be labeled 로 쓰여 [라벨이 붙여지다] 라고 쓰입니다. 뒤에 in green 이 쓰여서 [녹색으로 표시되다] 라고 쓰였지만, 주로 전치사 with 와 함께 쓰입니다. 영상에서는 색깔이기 때문에 in 이 쓰였어요. 발음이 "라벨" 이 아니라 "레이블" 에 가깝게 됩니다. 귀 기울여 들어보세요!
+  * 아이들의 가방엔 그들의 이름 라벨이 붙여집니다. ex) Children's bags are labelled with their names.
+
 ## latch
 * 무언가를 꼭 쥐고 달라붙고 관심가지고 혹한다; 사람에게 할 경우 친해지려고 한다; latch on to
   * 직원들은 그 문제에 주목했다; Members have latched on to the issue
@@ -1418,6 +1436,10 @@
 
 ## log
 * 그날그날의 일을 기록한 것을 log 라고 부릅니다. 일상생활을 영상으로 기록하는 브이로그(Vlog)도 Video 와 Log 가 합쳐진 단어죠.  참고로 [sleep like a log: 세상모르고 자다] 라는 표현도 알아두세요. 여기서 log 는 통나무인데요, 죽은듯 자는 모습을 통나무에 비유한 겁니다.
+
+## long
+* 앞에 by 가 붙어서 by a long shot 이라고 쓸 경우엔 의미가 조금 달라져서 [결코, 절대로] 라는 의미로 쓰이니 참고하세요!
+  * 가능성이 희박해 보이지만, 잘하면 작동할지도 몰라. ex) It looks like a long shot, but it might just work.
 
 ## loud
 * 주변의 시선을 끌 정도로 옷의 색상, 패턴 등이 매우 화려한 것을 loud 라고 합니다. 눈으로 봤을 때 너무 요란(loud)하다는 의미에서 주로 부정적으로 쓰이지만, 상황에 따라서는 긍정적으로 볼 수도 있습니다. 섹시함과 화려함을 강조한 옷이라는 어감으로요. 
@@ -1597,6 +1619,11 @@
 * 와 상관없다, 알 바 아닌 no skin off someone's nose 그건 나와 상관 없는 일이다. It's no skin off my nose.
 * : 실수를 들춰내다, 난처하게 하다  rub in one's nose  You kept rubbing in my nose all day.
 	* 1900년대 중반 미국에서 유래한 이 표현은 주택에 침입한 개의 코에 똥을 비비게 하여 혼구멍을 내준다는 의미에서 시작된 것으로 개에게는 몹시 불쾌한 기억이 될 텐데요.
+
+## opt
+* (에) 참여하지 않기로 하다. 발을 빼다. 손을 떼다.  = opt out (of)
+  * 언제든 그룹에서 탈퇴할 수 있습니다. ex) You can opt out of the group at any time.
+  * 저녁에 영화 보러 간다고? 난 안 갈래! ex) Going to a movie tonight? I'm opting out!
 
 ## organic
 * 유기농(organic)은 화학적 비료를 넣지 않고 자연스럽게 키워낸 것을 말하죠. 그래서 organic 에는 ‘자연스러운, 저절로 생기는’이란 뜻이 있습니다.  비즈니스에서 organic growth 는 기업이 자생적으로 매출을 올리는 것을 말합니다. 스타벅스는 미국에서 오랜시간에 걸쳐 자연스럽게 성장을 해왔지만, 호주에서는 그렇지 않았다는 것입니다.
@@ -1795,6 +1822,11 @@
 * i have a promise(가질수 없다) -> i'm meeting my friend; i have a plan with my friend
 * i made a promise to my friend that i'm going to keep it secret
 
+## place
+* 저 그림은 안 어울리는데. [ex] That picture looks out of place. 1. 어울리지 않는, 제자리를 벗어난
+* 그 사람의 언사는 아주 부적절했어. [ex] His remarks were very out of place. 2. 부적절한, 무례한
+* 여기서 나만 백인 아니야. 어휴, 너무 어색하다. [ex] I'm the only non-white person here. God, I feel out of place.
+
 ## play
 * 욕망에 가득찬 재미난 '하다'의 뜻
 * play with a ball outside
@@ -1918,6 +1950,10 @@
 * - ratchet 은 '역회전이 안 되도록 고안된 톱니바퀴', 또는 '톱니바퀴 역회전을 방지하기 위한 장치' 를 말하는데요. 'up'과 함께 동사로 쓰이면 이런 뜻이 됩니다. 톱니 바퀴를 조이듯 정도를 점차 높이는 이미지를 떠올려보세요! - 'pressure, tensions', '압박, 긴장' 같은 단어들과 자주 함께 쓰여요.
   * 유럽 연합은 영국에 압박을 높이려고 협상을 늦추고 있는 거야. [ex] EU is dragging out the negotiations to ratchet up the pressure on the UK.  [ˈrætʃɪt]
 
+## rador
+* 1) 군대에서나 항해시에 레이더는 우리가 있는지 없는지 모르는 것을 발견하기 위해 사용 되어집니다. 따라서 이 표현도, 직역하면 [ 의 레이더에 걸린] 정도 인데요, 레이더에 걸렸으니 그것이 있다는 것을 알게되는 겁니다. 그래서 실제 의미는 [알고 있는/인식하는] 으로 되어져요. 2) 반대로 off one's radar 는 [모르는/인식하지 못하는/생각해 본 적이 없는] 의 반대 의미로 사용되어집니다.
+  * 셋째 아이를 가질 생각은 전혀 하고 있지 않아. ex) Having a third child is not on my radar.
+
 ## radiant
 * 1) 사람이 radiant 할 때는 행복이나 만족감에 의해 이게 얼굴에 다 묻어나올 때. 얼굴이 [환한] 상태를 의미합니다.
   * ㅍ 내가 널 만난 날, 넌 정말 얼굴에서 빛이 났어. ex) On the day I met you, you were really radiant.
@@ -1957,6 +1993,8 @@
 ## snap
 * snap 은 [탁하고 부러지다, 끊어지다] 또는 [찰칵, 딸까닥하는 소리]를 의미하는데요. 이성이 폭발할 때 마치 머릿속에서 [똑딱]하는 소리가 들리는 듯한 모습에서 [이성을 잃고 과격하게 행동하다]라는 의미로 쓰이기도 합니다. 주어로 폭발한 감정 자체가 올 수도 있고, 사람이 올 수도 있습니다.
   * = 내 인내심이 결국 폭발해서 그녀에게 소리 지르기 시작했어. My patience finally snapped and I started yelling at her.
+* snap 이라는 동사는 딸깍,찰칵 하는 소리를 내면서 [빨리 움직이다] 라는 의미로 쓰여요. 여기에 전치사 [into+자세] 가 붙으면 날카로운 소리를 내며 그 자세, 또는 장소로 들어가는 것을 의미합니다.
+  * 이전 자세로 빨리 돌아와야 합니다. ex) You need to snap into the previous position.
 
 ## stuck
 * limbo 는 [불확실한/어중간한 상태] 를 의미하는 단어입니다. 그래서 in limbo 의 경우엔 중간에 끼여서 이러지도 못하고 저러지도 못해서 불확실한 상황 속에 있는 것을 의미하는데요. 영상에서처럼 어딘가에 '끼인' 이라는 뜻의 stuck 과 함께 자주 쓰입니다.
@@ -2015,6 +2053,11 @@
 ## savvy
 * 비격식 표현으로 실용적인 지식, 솜씨, 요령 등을 의미할 때 굉장히 많이 쓰이는 명사입니다. 형용사로도 쓰여 [요령 있는, 지식이 많은] 의 의미를 가집니다.
 	* = 요즘 대부분의 10대들은 테크놀로지에 능숙합니다. Most teenagers are tech savvy these days.
+
+## swarm
+* 1) 영상에서는 3번의 의미로 쓰였습니다. 1,2번의 경우에 주어가 움직이는 주체를 써야 하지만, 3번의 경우엔 붐비는 장소가 주어로 와야하죠. with 를 써야하지만, 영상에서는 너무나 명백하게 '피자를 먹기 위해 떼지어 움직이는 사람들' 을 의미하기 때문에 생략되었습니다.  2) 명사에 곤충 떼, 벌레 떼, 라는 의미가 있기 때문에, 사람들을 지칭할 때 쓰이면 주로 그 사람들에 대한 못마땅함을 드러내는 단어입니다.
+  * 십대들이 풀장으로 무리지어 몰려들었다. ex) Teenagers swarmed into the pool.
+  * 광장이 관광객들로 꽉 차있었다. ex) The square was swarming with tourists.
 
 ## swear
 * ~의 효능을 믿다, ~의 효능에 기대다  = swear by ~
@@ -2118,6 +2161,10 @@
 * 그들이 기계에 시동을 걸었다. They set the machinery in motion. 
 	* 움직이게끔(in motion) 시작시키는(set) 모습의 단어이기에 무언가 작동하지 않는 것을 작동하게 하고, 움직이게 하는 것을 의미합니다. 또한 이어지는 일들에 시동을 걸고 시작하는 것을 의미하기도 해요. 목적어를 중간에 쓰기도 하고, [set in motion + 목적어]로 쓰기도 합니다. 참고로 set the wheels in motion 이란 표현도 종종 쓰는데요, 바퀴가 굴러가게끔 하는 모습에서 나온 표현으로 [절차를 시작하다] 라는 의미를 가집니다.
 		* = 위원회는 개정 절차가 시작되도록 투표했다. The committee voted to set the reform process in motion.
+
+## stage
+* stage는 '무대, 연극'이라는 의미가 있는데 이 뜻에서 '(공연, 행사를) 무대에 올리다, 개최하다' 그리고 '(어떤 목적을 위해 무엇을) 꾀하다, 연출하다'라는 동사의 의미로 발전했습니다.
+  * 그 이벤트를 오랫동안 기획했다. They've staged the event for a long time.
 
 ## statement
 * statement lip은 입술을 강조한 메이크업을 말해요. 입술을 제외한 부분을 최소한으로 정돈하고, 과감한 컬러의 립으로 스타일을 결정짓는 메이크업이죠. 'statement'는 '진술/성명서'로 잘 알려져있는데요, 이런 경우 자기 의견에 대한 '주장/표출'을 의미합니다. 즉 makeup 혹은 fashion에서 statement란 과감한 시도로 'make a statement', 확실한 자기 주장, 어필, 개성을 표현하는 거예요.
@@ -2255,6 +2302,8 @@
   * 모델은 포즈를 취할 준비가 되었다. The model is ready to strike a pose.
 * 1) strike up a conversation = 대화를 시작하다, 말을 붙이다 : strike up은 ‘시작하다’입니다. 영상과 같이 대화를 시작한다거나, 연주, 노래, 혹은 인연/관계를 맺는다고 할 때도 씁니다. 
   * 그는 그의 옆에 앉아있던 여자 아이에게 말을 걸었다. He struck up a conversation with a girl sitting next to him.
+* : struck은 strike의 과거분사로 '치다, 때리다, 부딪히다'라는 1차적인 의미를 갖고 있어요. 이것이 비유적으로 사용되며 be struck by OO은 'OO에 충격을 받다, 놀라다, 깊은 인상을 받다'의 의미로 사용된 거죠. 여기서는 호머의 작품에서 색이 많이 등장하지 않으며 막상 등장할 때는 보통 우리가 근본적으로 다른 색깔이라고 여기는 색들을 같은 이름으로 부르는 것에 대한 '놀라운 사실'을 접하게 된 것을 의미해요. 대상에 대한 '놀라움, 관심'이 묻어나는 표현입니다.
+  * 갑작스런 변화에 놀랐다. I was struck by the sudden change.
 
 ## strip
 * 무언가의 진정한 특징을 가리고 있는 것을 제거하여 완전히 없애는 것을 의미합니다.

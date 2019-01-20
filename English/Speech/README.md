@@ -1,6 +1,7 @@
 # 연설
 * deliver a speech give a speech; deliver a presentation; give a presentation
-
+* 회의나 토론 등에서 기억했으면 하는 사실이나 아이디어 등을 takeaway 라고 해요. takeaway 가 집에 들고가는 [테이크아웃 음식]을 의미하기도 하는데요. 이렇게 자기가 느낀 점을 가지고 간다는 점에서 비슷하다고 볼 수 있겠죠.
+	* 제임스씨는 오늘 회의에서 느낀 점이 뭔가요? ex) What's your takeaway from the meeting, James?
 
 
   

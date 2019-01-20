@@ -9,6 +9,7 @@
 	* 승진후보로 제리가 유력하대. I hear Jerry is in line for promotion.
 * There is a good chance
 * 가능할 것 같아; i think i could swing that; swing: 잘 해내다
+* # 여지; 내 생각엔 우리가 그녀에게 스스로 생각할 여지를 줘야 할 것 같아.  ex) I think we should give her some room to think for herself.
 
 # 가다
 * 가봐; Off you go
@@ -105,6 +106,9 @@
 # 경외
 * 한 단어씩 살펴보면 awe 는 [경외심] inspire 는 감정 등을 [고취시키다] 라는 의미를 가집니다. 직역하면 [경외심을 고취시키는] 정도의 의미인데요. 무언가 인상적이고 장엄한 것을 볼 때 쓰는 표현이에요. 영상에서는 [꽤나 놀라운] 으로 해석이 되었습니다.
   * 나이아가라 폭포는 경외심을 불러일으키는 곳이야.ex) Niagara Falls is such an awe-inspiring sight.
+
+# 경쟁
+* # 다투다; 다들 자리에 앉으려고 앞다투고 있었지. [ex] They were all scrambling for a seat.
 
 # 경향
 * 1) 생각이나 행동에 영향을 주어 특정 성향을 갖게할 때 쓰는 표현이에요. 영상에서처럼 수동태로도 많이 쓰이는데요. 직역하면 [사람들이 좀 더 먹는 성향이 있는 식이요법] 정도겠지만, 좀 더 자연스러운 해석을 위해 [사람들의 성향에 따른 식이요법] 으로 해석이 되었어요. 2) B의 자리에 질병이 들어가게 되면 [에 걸리기 쉽다]로 해석이 되고요. * predispose A to B
@@ -217,6 +221,9 @@
 * 관련이 있다; have something/anything/nothing to do with
   * have a lot to do with
   * -와 관련이 거의 없다: have little to to with
+* # 얽히다; 머리카락처럼 물리적인 것이나 어떤 상황 등이얽히고 설켜서 [꼬인 상태] tangle 이라고 하는데요. en 이 붙으면서 동사로 entangle 은 [을 얽히게 하다] 의 의미를 갖습니다. 보통 영상에서처럼 be/get/become entangled with 로 써서 [뒤얽히게 되다, 걸려서 꼼짝 못 하게 되다] 의 의미로 많이 쓰입니다.
+  * 넌 상황 전체를 봐야만 해. 그 문제는 많은 다른 문제들과 얽혀있어. ex) You have to see the entire picture. That problem is entangled with many others.
+  * 사라는 빗으로 그녀의 머리를 풀었다. ex) Sarah disentangled her hair with the brush.
 
 # 관심
 * 옛날에 극장에서 인물을 집중적으로 조명할 때 쓰던 강한 백색광을 말하는데요, 조명 기술에 석회(lime)이 들어가서 생긴 이름입니다. 비유적으로는 [세상의 이목, 각광, 스포트라이트] 를 의미합니다. 
@@ -224,6 +231,7 @@
 * 마카오가 홍콩보다 더 늦게 발전하였다는 것을 재미있게 표현하였네요. 여기서 나온 steal the spotlight는 ‘주목을 끌다, 관심을 빼앗다’를 의미합니다.  이와 비슷한 표현으로 steal one’s thunder 가 있는데요, 자신이 무언가를 하려던 참에 남이 선수쳐서 관심과 주목을 빼앗아 간다는 뜻입니다. 예를 들어 자신의 임신소식을 주변 사람에게 말하려고 했는데 그 전에 누군가가 임신 소식을 터뜨려서 본인이 관심을 받지 못하게 되는 상황이 이런 경우에요.
 * 보통 부정형으로 '…don't care about', '관심도 없고, 신경도 안 쓴다'라고 많이 쓰이는 표현인데요, 반대로 'care about'하면 무관심이 아닌, 무척 깊은 관심과 애정을 가지고 있다는 뜻이랍니다. 즉 'care about + 사람'하면 그 사람에게 신경을 쓰고, 관심을 가지고, 아끼고 위한다는 의미예요. 
 * ＊ It doesn't really do it for me. = 나는 별로 안끌려. / 나한테는 감흥이 없어.
+* 그 영화는 한국에선 그리 관심을 끌지 못했다. ex) The movie didn't really make a splash in Korea.
 
 # 관점
 * standpoint는 직역하면 '서있는 지점, 장소'를 가리킵니다. 어떤 문제나 상황을 살필 때의 '관점, 입장'을 의미하죠.
@@ -235,6 +243,12 @@
 # 구하다
 * 어딘가에 잠시 '들르다' 라는 의미로도 굉장히 많이 쓰이는 표현인데요. 영상에서처럼 무언가를 노력하여 [구하다]의 의미로도 많이 쓰입니다. 
   * = 한정판을 어디서 구했니? How did you come by the limited edition?
+
+# 권력
+* 권력을 의미하는 power 와 아무것도 없는 진공상태를 의미하는 vacuum 의 합성어로 (참고: 진공청소기 - vacuum cleaner) 말 그대로 권력을 가진 누군가가 그 권력을 잃었고, 그 사람/단체를 대신할 누군가가 없는 상태를 의미하는 정치 용어입니다.
+  * 저희는 제시카의 존재가 권력 공백을 채워줄 것을 기대합니다. ex) We're expecting that Jessica's presence will fill the power vacuum. [ˈprezns] 
+* 원래는 '발전기' 라는 의미를 가진 단어입니다. 발전기가 없으면 뭔가가 돌아가지 않잖아요? 따라서 비격식 표현으로 [추진력이 강한/에너지 넘치는] 을 의미합니다. 문맥에 따라 [실세] 를 의미할 수도 있습니다.
+  * 중국은 경제 대국이 되었다. ex) China has become an economic powerhouse.
 
 # 권리
 * * give up rights to -ing = -에 대한 권리를 포기하다 [right to 동사]는 ‘~할 권리’입니다.  
@@ -362,8 +376,13 @@
 * 명사 aesthetic은 미 혹은 미술과 관련된 일련의 원칙을 뜻하는데요, 요즘 젊은 사람들은 이 말을 '분위기', '톤', '테마' 혹은 '보기 좋은 것', '예쁜 것'이란 뜻으로 사용하고 있어요. 특히 블로그 SNS 텀블러에서 많이 유행을 탄 말이죠. 이 장면에서 소피가 말하는 aesthetic은 '왕좌의 게임' 극중 인물 산사가 사는 북쪽 지방의 분위기, 느낌을 뜻해요. 북쪽이라 날씨가 춥고 우중충하거든요. 그래서 그쪽 분위기랑 선글라스랑 어차피 어울리지도 않을 거란 뜻입니다.
   * 이런 느낌 너무 좋다! [ex] I love this aesthetic!
 
+# 단속
+* 정부는 뇌물과 부패를 엄격히 단속해야 한다. The government needs to crack down on bribery and corruption.
+
 # 당연
 * 왜 놀랬니? 그건 당연한 거야! ex) Why were you surprised? That's par for the course!
+* # 물론; not to mention은 '은 말할 것도 없고, 물론이고'의 뜻을 가진 관용적인 표현입니다. It is not necessary to mention의 줄임말인데 구지 이렇게 길게 쓰지 않아도 의미를 충분히 이해할 수 있기 때문에 줄여서 씁니다.
+  * 그녀는 스페인어는 물론이고 중국어도 한다. She speaks Chinese, not to mention Spanish.
 
 # 대가
 * dire 는 형용사로 [몹시 나쁜, 끔찍한] 이라는 뜻이 있어요. cost 대신에 price/expense 를 쓸 수도 있는 표현입니다.
@@ -381,6 +400,8 @@
 * answer : 질문에 답을 하거나, 전화를 받거나, 시험문제에 답을 적을때 처럼, '대답하다'의 의미로 쓰는게 가장 일반적입니다. 좀더 곰곰히 생각해 본 후 자세히 대답한다는 의미. reply 뒤에 바로 목적어가 나올 수 없으므로 항상 전치사 to와 함께 쓰입니다.
   * Try to answer the phone on the first ring. I answered all questions.
   * (생각해보고) reply to a question.  I'm writing to reply to your question. "I won't let you down," my boyfriend replied confidently.
+* # 질문; * beg the question : 질문을 하게 만들다. 질문을 할 수 밖에 없다.
+  * 만약 그가 정말 부자라면, 왜 이렇게 값싼 차를 몰고다니는지 물어볼 수 밖에 없어. ex) If he is really rich, it begs the question of why he drives a car this cheap.
 
 # 대신
 * replace: 직책 등에서 물러난 자리를 다른 사람이 대신 하는것; John was replaced with a younger new recruit
@@ -404,7 +425,8 @@
 * 원래는 무언가가 떨어지거나 미끄러지지 않도록 [받치다] 라는 뜻인데요. 사람에게 쓰일 경우엔 그 사람이 지쳐 쓰러지지 않도록 도와주고, 지지해주고, 격려해주는 것을 의미합니다.
 	* 너를 항상 지지해주고 싶은 건 아니야. ex) I don't want to prop you up all the time.
 * 모두들 도와줘; ALl hands on deck; we need all hands on deck
-
+* 누군가를 설득하여 자신이 하는 무언가를 돕도록 하는 것을 enlist 라고 합니다. 목적어로 사람이 올 경우 [에게 도움을 요청하다] 라고 쓰기도 하지만 주로 목적어로 the help/support of A 라고 써서, [A 의 도움/지지를 요청하다] 라고 많이 쓰입니다.
+  * 자리를 확보하기 위해서는 매니저의 지원을 요청해야 해. ex) We need to enlist the manager's support to secure the spot.
 
 # 돌아다니다
 * loiter는 별 목적없이 어슬렁 걸어다니는 것을 의미합니다. loiter around라고 하기도 합니다.
@@ -611,6 +633,9 @@
 * 원래는 '딸꾹질' 을 의미하는 단어입니다. 딸꾹질이 멈추기에 어렵고 성가시지만, 삶에 문제가 크게 되지는 않는 모습에서 [사소한 문제, 어려움] 등을 의미하게 되었습니다. * hiccup = 약간의 문제
   * = 우린 지난주에 약간의 사소한 문제가 있었지만, 지금은 다 괜찮아. We had a few hiccups last week, but it's all good now.
 
+# 미국 
+* 굉장히, 지극히 미국스러운 = as American as apple pie
+  * 야구는 지극히 미국스럽지. ex) Baseball is as American as apple pie.
 
 # 미루다
 * 학교 다닐 때 보통 put off 과 delay 가 같다고 배우는데요. procrastinate 와 함께 차이점을 알아보아요!
@@ -666,6 +691,9 @@
 # 발견
 * # 목격; - witness firsthand
   * 저는 그 학대를 직접 목격했습니다. [ex] I've witnessed the abuse firsthand.
+
+# 발생
+* 문제/위협/위험을 가하다, # 일으키다 [ex] pose a problem/threat/danger
 
 # 발전
 * 엄청난 비약[변화]. a quantum leap 미국식  영국식 
@@ -772,6 +800,14 @@
 # 부풀다
 * 가스나 액체 등에 의해서 부풀어 오르는 것을 의미합니다. 비슷한 의미의 swell 이라는 단어가 있는데요. bloat 는 주로 사람에게만 쓰이는 반면 swell 의 경우엔 사물과 사람에 모두 쓰일 수 있고, bloat 의 원인이 가스나 액체인 반면, swell 의 경우엔 멍 때문에 부풀어 오르거나 발목이 삐어서 부풀어 오를 때도 쓸 수 있는 단어입니다. 영상에서처럼 bloating 은 가스나 음식에 의한 [복부팽만] 또는 [더부룩함] 을 의미해요.
   * 속이 더부룩한데 어떤 약을 사야 할까요? ex) Which pill should I buy for my bloating?
+
+# 분리
+* 1) 일부를 나머지에서 떼어내게나 서로를 분리하는 것을 의미합니다. 또한 인종, 종교, 성별 등의 기준으로 분리하는 것을 의미하는데요, 과거의 인종 분리 정책을 racial segregation 이라고도 합니다. 2) 영상에서는 분사형의 segregated 가 쓰였는데요, [분리된] 이라는 뜻도 있지만 [(특정 집단에) 집중된] 이라는 뜻도 있습니다. 여기선 한 성으로만 분리된 직업이니까, 성별에 집중된 직업을 의미합니다.
+  * 과거에, 인종차별 버스와 교육을 허용한 인종분리법이 있었다. ex) In the past, there were Segregation laws that allowed segregated buses and education.
+
+# 분명
+* definition 은 무언가의 의미를 정의할 때의 '정의' 를 의미하는데요. 그 정의라는 게 '정해져 있는 의미' 이기에, 조금 더 넓은 의미로 by definition 은 마치 무언가가 이미 정해져 있는 듯이 [당연히] 를 의미합니다.
+  * = 이건 당연히 오직 너와 나 사이의 작은 문제가 아니야. This is not by definition a minor issue only between you and me.
 
 # 분야
 * 내 분야 아니야; expertise; area of expertise; be one's specialty/bag
@@ -929,6 +965,7 @@
 * 중간에 목적어를 넣어서, 예를 들면, I'll walk you through this. 라고 쓸 수가 있는데, 이럴 땐 [내가 너한테 이걸 차근차근 알려줄게.] 의 의미를 가집니다. 
 	* 먼저 한 번 살펴보고 제 생각을 말씀드릴게요. ex) I'll walk through this first and let you know what I think.
 * #설명서에 나와있는 대로 해; I did what it says in the manual /according to the #manual/#instruction = I did what it says in the manual = #follow the manual
+* # 설득; 이걸로 너한테 안전의 중요성을 확실히 일깨워 주었길 바라. I hope this drives the importance of safety home to you.  drive something home
 
 # 성공
 * 해냈따; i did/made/nailed it; i managed to finish that job
@@ -939,6 +976,8 @@
 * 공부 잘하다; He stuides well(xx) - He does well in school; He gets good grades
 
 # 소문
+* 오명; 이제 더 이상 이혼한 것에 대한 부정적 인식은 없다고 생각해. I think there is no longer any stigma to being divorced. (stigma to~ : ~에 대한 부정적 인식)
+  * 우리는 에이즈에 감염된 사람들을 부정적으로 인식해선 안 된다. We shouldn’t stigmatize people with AIDS. (stigmatize: 낙인 찍다, 부정적으로 보다)
 * By all accounts; Rumor has it that; A story goes that
 * 그들이 소문을 내자 그 소문이 온 동네에 퍼졌다. As they started a rumor, the rumor have spread over their village. 
 * 내 비밀을 동네방네 떠벌리고 다닌 게 바로 너구나. ex) You are the one blabbing my secrets to the world.
@@ -1000,6 +1039,8 @@
 
 # 시야
 * 이 작은 마을에서 나와서 시야를 넓힐 시간이야. ex) It's time to get out of this small town and broaden my horizons.
+* 우리는 핸드릭스 선생님의 시야에서 벗어나려고 했다. We tried to keep out of Mr. Hendricks line of sight.;  [line of sight]
+* 시야 한 켠에서 그가 다가오는 것이 보였다. I saw him coming out the corner of my eye.  훤히 보이는 정면에서 일어나는 일이 아니라, 잘 보이지 않는 좌측이나 우측에서 일어나는 일을 말할 때 자주 쓰는 표현이에요. '시야 한 켠/구석에서'라는 뜻! 
 
 # 시작
 * ground-breakers = 개척자, 창시자, 독창적인 것; 땅을 깨부수고 천지를 개벽할 만큼 놀랍고도 획기적인 일을 하는 사람을 groundbreaker 라고 합니다. 혹은 groundbreaking 처럼 형용사로도 쓰는데요, ‘획기적인, 독창적인’을 의미해요.
@@ -1009,6 +1050,7 @@
     * 내 핸드폰 찾는 거 좀 도와줄래? 음...여기있다, 테이블 밑에 있네. [ex] Can you help me find my cellphone? ...hmm... here we go, it's under the table.
     * 3. '또 시작이네'처럼 못마땅한 것이 되풀이 될 때 하는 말. again을 붙여 써요!
       * 또 시작이네요! 평생 그 얘기 들었잖아요. [ex] Here we go again!  I've been hearing the same thing all my life.
+* 이거 새로운 장르의 여명/시작이네. [ex] This is the dawn of a new genre.
 
 # 시차
 * 시차 적응하려고 노력중이야; Just fighting off some jet lag
@@ -1031,6 +1073,9 @@
 * : 말 그대로는 '~로 실험을 해보다'라는 뜻인데, 이렇게 '(이전과 다른) 새로운 것을 시험 삼아 시도해보다'라는 뜻으로도 쓸 수 있어요!
   * 머리에 새로운 머리 스타일/색을 더 자주 시도해봐야겠어. [ex] I need to experiment more with my hair.
   * 아직 (시험삼아) 이런저런 사람 만나보고 있어. [ex] I'm still experimenting.
+
+# 심각
+* dire consequences 심각한 결과 [ˈdaɪə(r)]
 
 # 썰렁
 * 썰렁해; are so #lame / #corny / #boring / terrible
@@ -1068,12 +1113,19 @@
   * 금요일에 너랑 노는 거 못 할 것 같애; i don't think i'll be able to hang out with you on Friday.
     * but something came up
   * 약속을 깨는; stop calling people who are flaky
-* 선약에 책임을 다해라; COmmit to prior engagements
+* 선약에 책임을 다해라; COmmit to prior engagements#
 
 # 애도
 * 애도를 표합니다; i'm so sorry for your loss
 * mourn = (누군가의 죽음으로) 애도하다. mourning = 애도, 상복 in mourning = 상복을 입은, 상 중인, 애도중인
 	* 그의 가족은 아버지의 죽음으로 상 중이야. ex) His family is in mourning for their father.  [mɔːrn]  <> [ˈmɔːrnɪŋ]
+
+# 액체
+* 본인의 의지와는 상관없이 액체나 소리, 말 등이 세차게 흘러나올 때, 솟구쳐 나올 때 쓰는 단어입니다. 영상에서도 기름을 막으려 해도 콸콸 나왔기 때문에 이 단어를 썼어요. 명사로도 쓰이는 단어입니다.
+  * 물이 빌딩 맨 위층에서 솟구쳐 나오기 시작했다. ex) Water gushed out of the top floors of the building.
+* 비슷한 의미의 단어로 absorb 와 soak 가 있는데요. absorb 는 '그냥' # 흡수하는 것, soak 은 [흠뻑 # 적시다] 라는 뜻을 가지는 반면, saturate 는 흠뻑 젹셔 흡수하여 더 이상 흡수할 수 없는 포화 상태로 되게 하는 모습의 단어입니다. 그래서 몸에 흡수되어 남게 되는 포화지방을 saturated fat 이라고 하고요. 불포화지방은 non-saturated fat 이라고 하기도 해요.
+  * 한국의 여름 공기는 열과 습기로 가득 차 있습니다. ex) The air in Korea in summer is really saturated with heat and moisture.
+* 내 심장은 와인에 흠뻑 젓었죠. (Norah Jones의 노래 Don’t Know Why 中) My heart is drenched in wine. #
 
 # 어렵다
 * 기술 용어로 쓰일 때는 '하드웨어에 내장된 (그래서 유저가 손대기 어려운)'이라는 뜻인데요. 이렇게 어떤 반응/사고/행동/태도 따위를 얘기할 때는 인간의 본성에 '내장되어 있는, 본능적인, (그래서 어쩔 수 없고, 바꾸기 힘든)' 이라는 뜻을 지닙니다.
@@ -1087,12 +1139,15 @@
   * 난 그냥 사람들이랑 잘 어울리려는 거야. [ex] I'm just trying to fit in.
   *  난 그냥 눈에 안 띄려는 거야. [ex] I'm just trying to blend in.
 * 너한테 잘 어울려; It suits you really well; It fits you; IT matches your dress
+* 저 그림은 안 어울리는데. [ex] That picture looks out of place. 1. 어울리지 않는, 제자리를 벗어난
+
 
 # 얻다
 * -로 진출하다; make one's way into
   * 애교로 -을 얻다; smile one's way into; smiled his way into managerial position
   * 돈으로 -을 얻다; You can't buy your way into happiness
   * 거짓말로 그 일을 어드려 해; He's trying to lie his way into the job
+* # 득; : 득보다 실이 많다 do more harm than good; This law will do more harm than good.
 
 # 없다
 * 동사 die는 ‘죽다, 사라지다’지만 여기에 부사 off를 붙이면 ‘서서히, 차츰차츰 죽어나가다, 소멸되다’란 뜻이 됩니다. 사람이나 동물군이 서서히 없어진다거나, 어떠한 현상이나 소리, 냄새 등이 사라진다고 할 때도 die off라고 할 수 있습니다.
@@ -1183,6 +1238,9 @@
 * 직역하면 [눈이 배보다 더 크다] 라는 재밌는 표현이에요. 기본적으론 다 먹지도 못할 음식의 양을 욕심내는 건데요. 자기가 다룰 수 있는 것보다 많이 원하고, 욕심이 과해지는 걸 의미하는 속어입니다. stomach 대신 belly 를 쓸 수도 있어요.
   * = 걔는 항상 욕심이 과해. His eyes are always bigger than his stomach.
 
+# 용도
+* 이게 무슨 쓸모가 있겠어? What purpose can it serve?
+
 # 원인
 * 그의 비행으로 인해 사내 심각한 자금문제를 야기했다. His misconduct gave rise to a serious financial problem in the company; give rise to;  수면 위로 올라오다
 
@@ -1227,6 +1285,7 @@
 
 # 유통
 * 유통기한이 지났어요. It has passed the expiration date
+* 생선마다 보존기간이 다 다르다. Each fish has its own shelf life . 듣기 출처:능률교육
 
 # 유행
 * 대박 촌스러워               That's so corny, #out of fashion
@@ -1289,6 +1348,18 @@
 # 이끌다
 * initiative는 '계획'이라는 뜻으로 많이 쓰이지만 앞에 the를 붙여서 the initiative라고 쓸 경우 '주도권'을 의미하는데 많이 쓰이기도 합니다. 다양한 동사와 함께 쓰이는데요. [gain/seize/lose the initiative = 주도권을 얻다/잡다/잃다] 쓰이니 함께 알아두세요!
 	* = 누구도 나서려 하지 않을 때 레이첼이 앞장섰다. Rachel took the initiative when no one else wanted to.
+
+# 이름
+* 이름 잘 못외워요              I'm terrible with names
+  * * take on your partner’s surname = 배우자의 성을 따르다 take on 은 다양한 뜻으로 쓰이기 때문에 문맥을 보고 이해해야 합니다. 여기서는 ‘취하다, 떠맡다, 받아들이다’를 뜻하는데, on 없이 take 만 써도 됩니다.  참고로 결혼하기 전의 성씨, 즉 자신이 원래 갖고 있던 성씨를 (한국의 경우에는 대부분 아버지의 성씨겠죠) 영어로 a maiden name 이라고 합니다.
+    * 한국 여성들은 결혼할 때 배우자의 성을 따르지 않는다. Korean women don’t take (on) their partners’ surnames when they marry. 
+  * * 이름을 지어주다; i haven't named my puppet
+  * 연예계에서 이름을 알리다; he already made a big name in the entertainment industry
+  * 미국 대통령 이름 셋을 대시오; Name three US presidents
+  * 원하는 가격을 제시하시오; Name a time and place
+  * * refer to A as B = A를 B라고 부르다, 지칭하다 1) 사람이나 사물, 어떤 현상에 대해 몇 단어로 표현할 때 쓰는 표현입니다. 수동태로도 굉장히 많이 쓰여서 A is(are) referred to as B 라고 쓰기도 해요. [call A B = A를 B로 부르다] 와 같다고 생각하실 수도 있는데요. 3) 예를 들어, "제가 기억하는 환자분 중에 한 명이 있는데, 그분을 James 씨라고 할게요."라고 한다면, 환자 이름이 James 가 아니라 완전히 다른 이름일 수도 있거든요. 이럴 때 refer to를 쓸 수가 있고요. 4) 계약서 상에서 계약 당사자의 이름이 너무 길어서 '이후로는 X 라고 지칭한다' 라고 할 때는 hereinafter referred to as X 의 표현을 쓰니 참고하세요!
+    * = 그는 언제나 그것을 그의 삶의 최고의 순간이라고 부른다. He always refers to it as the best moment of his life.
+* 그의 이름은 로버트야. 짧게 로버트라고도 하지. His name is Robert, or Bob for short.
 
 # 이상한
 * 이상한 느낌: weird; 낯선 느낌: strange; 불균형한 느낌; odd
@@ -1463,14 +1534,34 @@
 * walk (on) the tightrope = 줄타기 하다; 실제로 ‘줄타기 묘기를 하다’, 그리고 비유적으로 ‘아슬아슬한 상황에 처하다’를 의미합니다. 줄 위에 올라타는 거여서 on 이 붙었는데요, 생략도 가능합니다.
   * 곡예사가 외줄타기를 하고 있었다. The acrobat was walking on a tightrope.
 
+# 중심
+* 중국은 국제 위기의 중심에 섰다. ex) China stood at the epicenter of the international crisis.
+
 # 중요
 * 중요한 것은; All that matter is
 
 # 즐기다
 * 동사와 명사의 형태가 같은 단어인데요. 무언갈 즐길 때 enjoy 로는 부족할 때! relish 를 쓰시면 됩니다. enjoy 와 마찬가지로 뒤에 명사 또는 ing 를 씁니다. (to 동사원형은 못써요!)  ex) Some people relish eating bugs. ˈrelɪʃ] 
 
+# 증가
+* 상승 중인 #on the rise(#rise)
+  * 증가하다 increase/rise dramatically, markedly, significantly, incrementally | gradually, increasingly | slightly
+  * 청소년 범죄가 다시 증가하고 있어           YOuth crime is #on the rise again
+  * 폭발적으로 올라가다             the prices have really skyrocketed
+  * #increment = #accrual
+  * #soar; #급증하다 #급등하다 #치솟다 = #surge(#쇄도하다) = #skyrocket
+  * #계속 늘어나는; #ever-growing
+  * 폭발적으로 증가했어요; increase like an #explosion = sales #go through the roof; #roof
+  * 값을 올리다; jack up the pricek; 타이어 갈 떄 무거운 것을 들어 올리는 것: jack
+  * 공급ㅇ 증가하면 수요가 감소한다; an increase in supply results in a fall in demand
+  * 그 팀은 영업 성과에서 주목할 만한 향상을 보여줬습니다. ex) The team has shown measurable improvements(<>dip) in their sales performance.; 주목할만한; measurable
+  * 올해 가격이 40% 급증했어요. Prices jumped 40% this year.
+* 추운 겨울 때문에 오일 비축분이 예상보다 더 크게 축소되었다. The cold winter has led to a larger-than-expected drawdown on oil stocks. 
+
 # 증명
 * 결과가 말해주잖아. 넌 충분히 열심히 한 게 아냐. The result speaks for itself. You didn't work hard enough. 자명한 사실 보여주다/증명하다
+* prove someone wrong : 가 틀렸음을 증명하다
+  * 네가 틀렸다는 걸 증명해주지. 두고 보라고. I'll prove you wrong. Just wait and see.
 
 # 지다
 * beat는 ‘이기다, 능가하다’라는 동사로 과거분사는 beaten입니다. 그래서 엄밀히 말하면 be beaten이라고 해야 하지만, 회화나 광고, 음악 등에서 be beat이라고 하는 경우가 종종 있습니다. We can’t be beat은 우리는 능가될 수 없다, 즉 “우릴 이길 사람은 없다”라는 의미입니다. 혹은 beat는 ‘녹초가 된, 엄청 지친’이란 의미도 있어서 “우린 절대 지치지 않아”로 생각할 수도 있습니다. 
@@ -1484,6 +1575,10 @@
 * on the verge of something; on the verge of doing something
 	* 조애나는 금방이라도 울 것만 같았다. Joanna was on the verge of tears.
 
+# 진단
+* ‘오진하다’는 동사로 misdiagnose라고 해도 되고, 영상과 같이 make a misdiagnosis라고 해도 됩니다. 
+  * 불량한 행동을 ADHD로 오진하는 것은 큰 문제이다.  Misdiagnosis of bad behavior as ADHD is a big problem. (misdiagnosis of 증상 as 오진한 증상)
+
 # 진짜
 * 100프로 한국 정통 음식 파는 식당을 알고 있어. ex) I know a restaurant that sells 100 percent authentic Korean food.
 * straight up : 맞아, 정말로? 2) 영상에서처럼 다른 사람의 말 뒤에, "정말이니?" 라고 물어볼 때 쓰는 경우가 있습니다. 
@@ -1493,6 +1588,7 @@
 * 어떤 일에 완전히 주의 집중을 한다는 뜻으로 rapt attention(완전히 집중함), rapt expression(몰입한 얼굴), rapt audience(몰입한 청중) 처럼 표현할 수 있습니다. 
   * = 아이들은 완전히 주의를 집중하며 보고 있었다.  The children watched with rapt attention. [ræpt]
 * 저는 당신에게 온전히 전념하고 있습니다  Well , you have my undivided attention; # 전념: # undivided attention
+* 그는 십대들 사이에서 빠르게 관심의 집중이 되었다. He quickly became the focal point among the teenagers.
 
 # 집착
 * fixate은 어떤 것에 병적으로 집착하고, 계속 그 생각만 하는 것을 의미합니다. 영상에서도 코에 콤플렉스를 가진 주인공이 남들의 코가 어떻게 생겼는지 자꾸만 신경을 쓰게 된다고 말하고 있네요. 
@@ -1516,12 +1612,19 @@
 * ☆there is no real difference between ; I can't tell difference#
 * ~라면 다릅니다. = It make a difference if + 문장
   * 네가 그의 친부라면 굉장한 차이가 있지. ex) It makes a huge difference if you are his biological father.
+* : A와 B의 차이를 구별하다, 알다 [ex] tell the difference between A and B
 
 # 참견
 * buttinsky (←buttinski) 미국·영국 [bʌtínski]  busybody 미국식 [-bɑːdi]  영국식 [ˈbɪzibɒdi]  meddler 미국식 [ˈmedlə(r)]
 
+# 참고
+* 1) 반드시 알아야 할 정보는 아니지만, 알아두면 나중에 유용할 수도 있는 정보 등을 알려주고자 할 때 쓰는 표현입니다. for your reference, 또는 for future reference 라고도 많이 씁니다.  2) 비슷한 기능의 표현으로 for your information 이라는 말도 있는데요. for reference 보다 훨씬 비격식이며, 의미 또한 [네가 궁금해할까봐 알려주는데] / [혹시 몰라 알려주는데]
+* 여담이지만, 저 영계들이 카렐을 좋아하는 것같네요.  On a side note though , the chicks seem to love Carell. 듣기
+
 # 참다
 * 비가 오기 시작한다! 더 이상 안 되겠다. 피크닉은 취소야! Now it's raining! That's the last straw. The picnic is canceled! 
+* # 관용; zero tolerance policy : 무관용 정책
+  * 사회 전체가 음주운전에 대한 무관용을 보여주어야 합니다. ex) The entire society should show zero tolerance on drinking and driving.
 
 # 참석
 * attend: 1회 참석; join, enter: 그 자리에 꾸준히 참석; enter university
@@ -1553,6 +1656,8 @@
   * Wolrd Bext(xx) - World's best
 * Best thing since sliced bread; 직역을 하면 식빵이 나온후 가장 좋은것 이라는 뜻입니다.
 * bout it bout it : 멋진, 쩌는
+* record high는 '사상 최고치'를 뜻해요. '사상 최고치를 기록하다'는 동사 hit을 써서 hit a record high! 반대로 '사상 최저치'는 record low라고 한답니다.
+  * 실업률이 사상 최고치를 기록했다. [ex] The unemployment rate hit a record high.
 
 # 최신
 * cutting edge 는 칼날 부분을 의미하는 단어에요. 무언가를 자를 때 칼날이 자르는 면과 닿는 '선두' 이기 때문에, 남들보다 앞서 나가는 뉘앙스의 [최첨단의] 이라는 의미로도 쓰입니다. 영상에서는 형용사로 쓰였고, 명사로 쓰이기도 하는데요. at the cutting edge of 이라는 패턴으로 [~의 최첨단에 있는, 최일선에 있는] 의 의미를 가집니다.
@@ -1644,6 +1749,7 @@
 * 아버지의 외도는 내 어린 시절 전체에 굉장히 안 좋은 영향을 끼쳤다. ex) My father's affair took a toll on my entire childhood.
 *  wreak havoc 은 ‘엄청난 피혜를 주다, 망가뜨리다’입니다. 뒤에 ‘on/with+피해를 받는 대상’이 따라옵니다. 
   * 비가 와서 우리의 소풍 계획을 완전히 망쳐놓았다. The rainy weather wreaked havoc with our picnic plans.  [riːk] [ˈhævək] 
+* # 타격; 켄싱턴 시장의 폐쇄는 지역 경제에 큰 타격이었습니다. ex) The closure of Kenshington Market was a big blow to the local economy.
 
 # 하찮은
 * [가장자리], 또는 주류에 포함되지 않는 [주변] 을 margin 이라고 합니다. 이 단어의 형용사형인 marginal 입니다.
@@ -1652,6 +1758,9 @@
 # 한계
 * 그는 끊임없이 TV 코미디의 한계를 초월하는 연예인이다. e is a performer who consistently pushes the envelope of TV comedy. 
 * 이제 한계야; i've just about reached my limit
+* * push the boundaries = 한계에 도전하다
+  * = 저희는 혁신의 한계를 뛰어넘으려 노력해 왔습니다. We've tried to push the boundaries of innovation.
+* 올림픽 동안에 운동선수들은 한계에 도전하는 것을 절대 그만두지 않는다. ex) Athletes never quit pushing the envelope during the Olympics. 
 
 # 함께
 * 너랑 함께 할수 있게 말이야; I could keep you company
@@ -1729,6 +1838,10 @@
   * 4) 그닥 확신이 없다 / 아예 확신이 없다 : I'm not so sure / I'm not sure
 * 2) 주로 it dawns on me that ~ 으로 쓰여 (it : 가주어, that ~ : 진주어) [~라는 것을 깨닫다, ~라는 것이 분명해지다] 의 의미를 가집니다.
   * 나는 그녀를 내 편으로 만들 수 없다는 것을 깨달았다. ex) It dawned on me that I could never get her on my side.
+
+# 획기적인
+* 전례없이 획기적인 무언가를 표현할 때 쓰는 단어입니다. 우워워워 하며 땅을 (ground) 뚫고 (break) 나올만큼 획기적인거죠 ㅎㅎ 형용사이지만 단독으로는 못 쓰고 항상 명사 앞에만 쓰일 수 있습니다.
+  * 저희 팀은 몇가지 획기적인 발견을 했다고 강하게 믿습니다. ex) Our team strongly believes that we have found a couple of groundbreaking discoveries.
 
 # 휩쓸다
 * 한류가 전 세계를 휩쓸었죠. The Korean Wave swept over the world.

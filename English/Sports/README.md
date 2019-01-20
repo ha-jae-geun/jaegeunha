@@ -149,6 +149,7 @@
 * he made it to the finals/ he qualified for the finals
 * #3, 4위전 #bronze medal match
 * #진출 ~ #move onto/#advance the quarter final
+	* * fail to qualify for world cups = 월드컵 진출에 실패하다
 * 한국이 진출했다; korea ha virtually advande to the finals
 * #대결; Korea will #fight against Thiland
 * Korea will #take on Thailand in soccer
@@ -372,6 +373,7 @@
 * 우리 내기할래요? 	Do you want to make a bet? 
 * 이 팀이 작년에 우승했죠. 	This team won last year. 
 	* 트로피를 들어올르다; i can't wait the day we hoist the championship trophy over our heads
+	* 1) the favorite 은 ‘우승후보’를 말하는데요, ‘강력한 우승후보’는 heavy favorite 혹은 hot favorite 라고 하시면 됩니다. 2) 1-0는 영상처럼 “one zero”라고 하거나, “one to zero”라고 읽을 수 있습니다. 반대로 1-0으로 진것은 lose the game 1-0 입니다. 
 * 어림도 없네, 이 사람아. 난 차가 필요해! bNo dice , dude . Need my car ! 예문 발음듣기 출처:능률교육
 * 이 팀이 일 점 이기고 있어요. 	This team is one point ahead. 
 * 누가 이기고 있어요? 	Who is taking the lead?

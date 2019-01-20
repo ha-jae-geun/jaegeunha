@@ -160,6 +160,8 @@
 * #chiraq: chicago+ iraq
 * #순찰: #patrol; #정찰 차량 #patrol car #휘장(#배지): insignia
 * 정찰; #recon; I'm just gonna do a quick recon; reconnaissance [rɪ|kɑ:nɪsns]
+* 칼; 'stab'은 칼 같은 것로 찌르다, 혹은 찔러 죽이는 것으로, 'stabbing'은 구체적으로 사람을 칼로 찌른 사건을 말합니다. stabbing은 형용사로 '칼로 찌르는 듯한'이라는 뜻이 있어서, 통증을 설명할 때 쓰이기도 합니다.
+  * 그 칼부림 사건은 지역 신문에 보도되었다. The stabbing was reported in the local press. 
 * #미국 #강도 #도둑 #theft #brigand
   * 1) 비격식표현으로 총을 든 강도짓 하는 것을 의미하는데, 예전에는 총이 권총보다는 장총이 더 흔했거든요. 그래서 영상에서 보실 수 있듯이 장총을 들고 있으면, 마치 막대기를 들고 있는 것 처럼 보이기 때문에, 그런 모습을 연상하시면 좋을 것 같아요. 
     * 아무도 움직이지마! 강도다!ex) Nobody moves! This is a stick-up!
@@ -261,6 +263,8 @@
 * Since he was found guilty of tax evasion, he was out of the picture in the upcoming election.
 * 유력한 #용의자야 					유력; usual/Prime suspect
 * #몽타주; #composite #sketch; 그리는 사람: composite/sketch artist
+* 추리; 'who's done it?'의 줄임말로, '누가 그랬는가?' 즉 범인을 밝혀나가는 추리소설, 영화 등 추리물을 일컫는 말입니다. 비슷한 형태로 'whydunit', 'howdunit'이 있는데요, 각각 whodunit: 추리물
+  * 나일강 살인사건은 모든 면에서 정통 추리소설이다. Death on the Nile is a classic whodunnit in every sense.
 * #범인 #공범 confederate 미국·영국 [kən|fedərət]
   * 경찰은 마침내 진범을 체포했다. * #culprit; we could find the culprit
   * ǝkάmplis/ǝkɔ́m- #accomplice
@@ -371,6 +375,8 @@
 * 체포합니다 You’re under arrest
   * 감춰뒀던 신분이 탄로난다는 표현입니다. 감싸던 커버(cover)를 날려버려서(blow) 본 모습이 드러나게 만든다는 거죠. 이와 반대되는 단어가 undercover 입니다. 덮개(cover) 아래(under)에 있다하여 ‘위장의, 비밀리에 하는, 첩보의’를 뜻합니다.
     * 스파이는 그의 신분이 노출됐다는 것을 알아채고는 도주하였다. The spy fled when he realized that someone had blown his cover.
+  * 최근에 생겨난 신조어인데요. sleeper 는 평소엔 자는 듯 조용히 있다가, 일이 일어나면 활동하는 스파이를 의미하고요. cell 은 [조직] 이라는 뜻이 있어서, 두 단어가 함께 쓰여 [잠복 조직] 이라는 의미를 가지게 되었습니다.
+    * 나라 안에 얼마나 많은 사람들이 잠복 조직에 속했는지는 절대 알 수가 없지. ex) You never know how many people in this country actually belong to sleeper cells.
   * 우리가 제압할 수 있을 것 같애; we can take them
   * 붙잡다; be held captive; hold 사람/동물 captive
   * 그는 두 명의 남자에게 붙잡혀 팔이 뒤틀린 채 홀 밖으로 끌려 나갔다. He was grabbed by two men and frogmarched out of the hall.  frɔːɡmɑːrtʃ;ˈfrɑːɡ-] 
