@@ -28,12 +28,14 @@
 	* = 총격이 시작되었을 때 누군가 우리에게 죽은 척하라고 했어요. Someone told us to play dead when the shooting started.
 ------------
 * 안락사를 시켜야했어요; I have to put him to sleep
-* 아버지가 돌아가셨어요; i jsut lost my dad; my dad just died
-* 내 목에 올가미를 씌우는 것들이지; The way i wear my noose
-* 죽은 이의 시체를 먹는 것은 실례가 아니라; the carcass of the decreased is not a social faux pas; the decreased
-* #죽음 die pass away: 존칭, #flatline(심전도의 그래프가 수평선)
-* 고대 이집트 사람들은 부패를 막기 위해 무척이나 애썻ㅅ브니다; ancient Egyptioans went to a lot of trouble to evade decomposition; decompose: 부패하다
-* 제사 지내다; memorial rite / ancestral rites  [ænséstrəl] 
+	* 아버지가 돌아가셨어요; i jsut lost my dad; my dad just died
+	* 그 질병으로 토끼들이 떼죽음을 당했다. The rabbit population was decimated by the disease. 
+	* 그 건물은 폭탄에 완전히 흔적도 없이 날아가 버렸다. The building was completely obliterated by the bomb. 
+	* 내 목에 올가미를 씌우는 것들이지; The way i wear my noose
+	* 죽은 이의 시체를 먹는 것은 실례가 아니라; the carcass of the decreased is not a social faux pas; the decreased
+	* #죽음 die pass away: 존칭, #flatline(심전도의 그래프가 수평선)
+	* 고대 이집트 사람들은 부패를 막기 위해 무척이나 애썻ㅅ브니다; ancient Egyptioans went to a lot of trouble to evade decomposition; decompose: 부패하다
+	* 제사 지내다; memorial rite / ancestral rites  [ænséstrəl] 
 * 시작으로부터의 죽음 Doomed from the start
 * #악령; #vengeful spirit
 	* 악을 쫒아내다; ward off evil (spirits); danger/disease [wɔːrd]

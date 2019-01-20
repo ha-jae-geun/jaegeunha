@@ -60,6 +60,8 @@
 	* 장난을 쳐보자; We should play a prank on mama; The guys are pulling my leg; Stop teasing me; Stop making fun of me; It's just for fun
 	* 그녀는 그들의 조롱을 더 이상 참을 수가 없었다. She couldn’t stand any more of their mockery. 
 	* 전 항상 놀림의 대상이었죠; I was the butt of every joke; 놀림의 대상
+	* 장난치지마; Stop fooling around = Do not mess around. = Don't toy with me
+		* 아이들: Be nice!" 또는"Behave yourself!"; Don't be ridiculous/stupid
 * 항사 약간 빈정거리게 된다; we always get into a little bit of a banter
 	* i don't mind him exchanging banter with customers
 * (claw machine/crane claw/crane machine = 인형뽑기기계)

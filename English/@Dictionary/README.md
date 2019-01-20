@@ -2,6 +2,7 @@
 * 1등; I'm the first; The first place.; I'm the winner! Winner!
 * top the list; topped the list of something; 설문 조사 결관
 * # 2등; Our kid got the second-best grade in the class
+* # 대회; 과학 경진대회; if i don't win  the science fair
 
 # 가능성
 * be in line for  : 을 받을 가능성이 크다; be in line은 '줄 서다'라는 뜻도 있어요. 줄서서 뭔가 받으려고 기다리는 모습을 연상하시면 기억이 잘 나겠죠?
@@ -127,6 +128,39 @@
 	* 내 생각엔 우리가 다음 번 쇼에도 그와 계약을 해야할 것 같아. ex) I think we should book him for the next show as well.
 * 모든 계약금의 형태를 의미하는 단어는 아니예요. 주로 자동차나 집 같이 굉장히 비싼 물건을 '대출'을 받아 '할부' 로 사게될 때 처음에 걸게 되는 돈을 의미합니다. 보통 제품 가격의 5~20% 를 먼저 내게 되는데 이 돈을 down payment 라고 해요. 계약금을 의미하는 단어로는 deposit 이라는 단어도 있지만 이 단어는 [보증금] 이라고도 쓰여요. 예를 들어서 호텔에서 key deposit 이라고 하면, 열쇠에 대한 보증금으로 열쇠를 잃어버리지 않으면 돌려 받을 수 있는 돈이죠. 집의 구매가 목적이 아니라, 1년 계약을 하고 월세로 들어갈 때는 첫달 마지막달 보증금이 보통 있는데, 계약을 하고 집에 들어가기 전, 첫달과 마지막달 월세를 미리 내는 것을 deposit 이라고 합니다.
   * 전 집 살 계약금을 저축해오고 있어요. ex) I've been saving for a down payment on a house.
+* ^^catch; 순간; catch the ball; you can't catch me(너 나 못잡아) 
+  * #hold; 유지; hold the ball; you can't hold me(무거워서 못들어)
+  * holding / grasping / grabbing / gripping <> Pick up
+  * #조약; #accord, #treaty, #agreement - (국가간의) 합의, 조약 
+  * #조항; #express term; #명시적 표현 #implied terms; #묵시적 조항
+  * #clauses [klɔ:z]
+  * #exclusion clause
+  * #보증; #warranties
+  * #cut a deal = #make a deal = #reach an agreement #합의하다
+  * #법적 책임; #liability 미국·영국 [|laɪə|bɪləti]; #limited liability; #유한 책임
+  * #come to terms (with somebody) 
+  * #clear; did you clear this with her?
+  * #come to terms with; 1. 타협하다, 2. #받아들이다; the government came to terms
+  * 계약을 체결하다 #ink a deal
+  * #계약 조건; #terms of a contract 
+  * #execute a contract; #계약 /command; #명령 /operation #작전
+  * 4. #무효; #contract is absoultely #void
+  * #소멸되다; #실효되다; #lapse; rights may lapse
+  * #전멸; annihilation 미국식 [ənàiəléiʃən] 
+  * #계약을 갱신하다; #Renew ones contract
+  * #계약자         contractor; i'll call the concrete contractor right away
+  * 계약상의 #협정 a contractual agreement; #예비 계약 협정 Preliminary Contractual Agreement 
+  * 예비의 [prilímǝnèri/-nǝri] preliminary; preliminary to~에 앞서서 
+  * #예비비; What[How much] is the electric power reserve ratio?
+  * I keep some money in reserve for emergencies
+  * #협정; #pact(#pactrum의 준말)
+  * #교섭; #parley; 파알리이; 교섭하다; #overtures; #make overtures to
+  * ~와 사업(거래) 하다 do business with; I don’t do business with people who can’t keep promises
+  * 장기 #계약을 통해 선수를 잡아두다                lock up우리의 손님 중 몇몇 분들께서 그들의 계약서에서 허술한 허점을 알아냈다     
+  *   ‘lu:phoʊl Some of our customers have found a loophole in their contract.
+  * 글쎄, 계약을 성사시키기가 쉽지 않지. 세미나가 성과를 내주기를 바래
+  * Well, it's hard to seal the deal. I hope the seminar pays off 
+  * 혼전 계약을 하다              prí:nʌp sign a prenup
 
 # 계획
 * 동사 devise 는 [고안하다, 계획을 짜다] 라는 뜻이 있는데요. 단순히 make a plan 보다 훨씬 더 꼼꼼하고 세부적인 것들을 포함한 계획을 짤때는 devise a plan 이라고 합니다. ex) Susan has devised an alternate plan.
@@ -212,6 +246,7 @@
 
 # 그만
 * ☆#작작해       	 #Tell that to the onion rings, #knock it off, enough with the drink, #enough is enough
+* 아 꺼져요; Come off it
 
 # 근처
 * 부근에는 좋은 학교가 없다. There isn't a good school in the vicinity. 
@@ -386,6 +421,7 @@
 	* = 소리랑 화면이 안 맞아. The soundtrack is not in sync with the picture. (=out of sync)
 
 # 동의
+* 두말하면 잔소리지; Amen, sister
 * # 내말이 그말이야; YOu're telling me
 * [동의]를 의미하는 단어는 agreement 도 있는데요. consent 와는 나름 큰 차이가 있습니다. agreement의 경우엔 '합의' 로서의 동의를 의미합니다. 예를 들어, 양국 정상이 만나서 무언가를 합의하고 세부사항에 동의를 했을 때 reach an agreement라는 표현을 쓰고요. consent 같은 경우엔 '승낙'으로써의 동의를 의미해요. 영상에서처럼 부모가 무언가를 하는데 승낙을 해줘야 할 수 있을 땐 consent라는 단어를 씁니다. 그래서 무언가에 [동의하다, 승낙하다]라고 할 땐 give one's consent to something이라고 합니다. 동사로도 쓰일 수 있어요.
 	* = 난 거기에 동의하지 않았어. I didn't give my consent to it.
@@ -464,6 +500,38 @@
 * [만연하다] 라는 뜻의 동사 pervade 에서 온 단어인데요. 주로 탐탁치않은 영향력 등이 곳곳에 퍼지는 것을 의미하는 단어입니다.
   * 일에서오는 만성적인 스트레스가 사회 전체에 만연해있다. ex) Chronic stress from work is pervasive throughout the entire society.
 
+  
+# 말
+* [표현하다] 라는 뜻의 단어는 express 도 있는데요. express 는 좀 더 일반적인 단어이며, 표현을 잘하든, 잘하지 못하든 express 라고 할 수가 있습니다.  반면에 articulate 는 express clearly 라고 생각하시면 되는데요. 생각, 감정 등을 '분명하고 능숙하게' 표현해내는 행위를 의미해요. 또한 형용사로도 쓰여 [잘 표현하는/또렷한] 의 의미를 갖기도 합니다.
+  * 전 당신의 회사에 레베카를 정말로 추천합니다. 그녀는 굉장히 밝고 표현을 잘해요. I highly recommend Rebecca for your company. She's very bright and articulate.
+* = 간접적인 방식으로 (얘기하면), 완곡하게, 에둘러서 in a roundabout way 
+  * = 그를 조금 에둘러 거절해야만 했어. 감정 상하게 하고 싶지 않았거든. I had to refuse him in a roundabout way. Didn't really wanna hurt him.
+* 1) brief 가 형용사로 [간단한] 이라는 뜻이 있기 때문에 자칫 잘못하다간 뜻이 헷갈릴 수도 있어요. 영상에서처럼 동사로 쓰였을 땐 [(어떤 일 등을 대비하여) 철저히/자세히 알려주다] 라는 의미를 가집니다. 전치사 on/about 등을 써서 [~에 대하여 알려주다] 라고 쓰여요. 2) 영상에서는 크리스가 수술 전에 설명을 굉장히 자세하게 받기 때문에 쓰여진 단어이구요. 설명을 하는게 아니라 받기 때문에 수동태 [be briefed] 라고 쓰였습니다.
+  * 조연출이 공연 동안 무슨 일이 있게 될지에 대해서 그에게 자세히 설명해 주었다. ex) The assistant director briefed him on what's going to happen during the show.
+* mumble 은 [웅얼거리며 말하다] jumble 은 [마구 뒤섞다] 라는 뜻이 있어요. 이 뜻만 보셔도 감이 오시죠? ㅎ 깊이 생각하지 않고 막 말하다보니 말인지 막걸린지 모를 때- 쓰는 표현입니다. [횡설수설함] 이라는 명사로도 쓰입니다.
+  * 케이트 앞에만 서면 횡설수설해. 내 자신이 정말 싫다. ex) I mumble-jumble all the time in front of Kate. I hate myself.
+* thematic 은 theme 에서 온 형용사로 [주제의, 주제와 관련된]이라는 뜻입니다. 우리나라에선 [테마]라고 읽는데 theme 의 경우엔  [θiːm]이기에 [씜] 정도로 읽는 게 맞고, thematic 의 경우엔 [θɪˈmætɪk]이기에 [씌매틱]정도로 읽는 게 맞아요. * infidelity = 배우자에 대한 부정
+  * = 그녀는 보상금에 관한 것을 간단히 언급했다. She made a brief reference to something about a bounty.
+* 1) 주로 남자들이 관심없을 법한 주제들을 가지고 여자들끼리 얘기하는 것을 girl talk 라고 합니다. 남자 둘이서 조금 심각한 대화를 나누는 것은 man-to-man talk 라고 합니다. 2) 비슷한 예로, 여자들끼리 저녁에 나가 노는 것을 girls' night out 이라고도 해요!
+  * 잭, 우리가 말하는 거 그만 엿들어. 여자들끼리 하는 얘기야. ex) Jack. Stop overhearing what we are talking about. It's girl talk.
+* say 는 '말하다'로 비교적 넓은 의미라면, utter 는 '입을 열어 소리를 내다, 입 밖에 내다, 발음하다'라는 뜻으로 더 구체적인 의미를 지녀요!
+  * 말을 하려고 하질 않아. He won't say anything.
+* 이 표현은 원래 『go into one’s song and dance』로 ‘틀에 박힌 말, 상투적인 말을 하다’는 뜻입니다. 이 것을 살짝 변형해서 go right into the dance(곧바로 틀에 박힌 말을 내뱉다)고 한 것이죠. 그래서 영상속 여자의 의견은 가족은 나를 잘 알기 때문에 고민 상담을 해도 상투적인 말을 하지만, 상담가는 새로운 시각으로 날 봐준다는 것입니다.
+  * 그는 늦을 때마다 늘 틀에 박힌 말을 늘여놓는다. Whenever he’s late, he goes into his song and dance. 
+* 조금 충격적이며 특히 불쾌할 수도 있는 소식 (물론 영상에서는 꼭 불쾌한 의미는 아니지만요) 을 bombshell 이라고 합니다. 폭탄을 떨어트리거나 터뜨리듯 drop (explode) a bombshell = [폭탄선언을 하다] 라고 종종 쓰여요.
+  8 그녀는 일을 그만두겠다는 폭탄선언을 했다. ex) She dropped a bombshell that she would quit the job.
+* 모두가 그녀를 아주 좋게 이야기한다. Everyone speaks very well of her. 
+* 말보다는 숨은 의미가 더 중요하다; the literal words are less important than the subtext
+* 가족을 대신해서 말하자면; 대변; i speak for my whole family
+* 능수능란하다; That's diplomatic; 2. 외교적인; 다른 사람의 심기 건드리지 않으면서 어려운 말을 요령있게 한다.
+* : '오늘 하는 것으로 마치고 싶습니다', '마무리짓고 싶습니다' 라는 뜻! 발표, 연설 등의 마무리 멘트로 유용하게 쓸 수 있겠죠? [ 구문 패턴 ] I want to close today by -ing
+* 저는 면대면 대화를 어려워 해요. I have trouble having a face-to-face conversation.
+* 능수능란하다; That's diplomatic; 2. 외교적인; 다른 사람의 심기 건드리지 않으면서 어려운 말을 요령있게 한다.
+* 툭 던지며 말하다; I might have said it #on the fly
+* 갑자기 화제를 바꾸어 이야기가 옆길로 샐 때 쓰는 표현입니다. tangent 가 무언가와 접하게 되는 선을 의미하는데요. 거기서 벗어난 (go off) 뉘앙스의 표현입니다. 영상에서는 [약간 울버린 때문에 이야기가 샜다] 라는 의미로 a little Wolverine tangent 라고 썼어요. 직역하면 [약간의 울버린 이야기로 옆길로 새는 것에 저항할 수 없었다] 정도로 해석이 됩니다.
+  * 얘들아. 주제에 집중하자. 정치 얘기로 딴 소리 좀 하지 마. ex) Guys. Let's focus on the topic. Stop going off on a political tangent.  [ˈtændʒənt]: 옆길로 세다; fly/go off at a tangent 
+* take - up with somebody; 누구에게 -에 대해 말하다; 나한테 이거 억지로 시킨 사람한테 따져; Take that up with the lady who forced me into this
+
 # 망설이다
 * 난 그것이 올바른 일이었는지 생각하며, 망설이는 중이었습니다. ex) I was holding back, wanting to know if it was a right thing to do.
 
@@ -492,6 +560,7 @@
   * The squirrel is gathering all she can get. Thousand of fans gathered at the stadium.       The boy gathered his toycars on the floor.
   * We are collecting data from National Art Museum.   Let's collect some used papers and cans for recycling.
     *  재활용할 종이와 캔을 좀 모아봅시다. (* 아무종이나 캔을 모으면 gather, 재활용할 종이와 캔을 골라서 모으면 collect)
+* # 모임: It's breakfast book club
 
 # 모험
 * 나는 모험을 하고 싶지 않다. I don't want to skate on thin ice. 
@@ -505,6 +574,7 @@
 * :  여기서 "sights"는 이루고자 하는 것, 목표를 말해요. '목표를 너무 높게 잡다, 야망이 과하다, 기대하는 것이 너무 많다' 라는 뜻이죠!
   * 목표를 너무 높게/낮게 잡은 것 같은데? [ex] It sounds like you're setting your sights too high/low.
 * 그녀는 승리를 목표로 했다. She set her sights on victory. 
+* 목적을 이루다; achieve my mid-term goal
 
 # 몸매
 * * get into shape = 몸매를 가꾸다, 몸을 만들다  stay in shape = 체력/건강/몸매를 유지하다  in a good(bad) shape = 건강/몸매가 좋은 (나쁜)
@@ -576,6 +646,9 @@
 # 바쁘다
 * ☆바쁘다; be snowed under = up to one's necks/ears/eyeballs (in) = up to my neck in
 * ☆바쁘다; #full plate = #full schedule; my plate if #full; I have my plate full
+
+# 박수
+* 자 박수 한 번 주세요; Give yourself a hand
 
 # 반칙
 * 반칙이야; That's a cop-out
@@ -763,6 +836,9 @@
 * polish는 광나게 닦는걸 뜻해요. 광나게 닦아놓은 걸 비유적으로 '정돈된', '세련된'이라는 뜻으로 쓴답니다. 반대격으로 볼 수 있는 표현이 gritty예요. 지저분하고 정돈 안 되고 불쾌한 현실을 사실적으로 보여주는 걸 gritty하다고 해요. TV 드라마를 묘사할 때도 많이 쓰는 표현인데 '왕좌의 게임'이나 '더 와이어' 같이 보기 불쾌하지만 현실을 잘 반영하고 사실적인 드라마를 gritty하다고 표현해요.
   * 좀 사실적인 드라마 추천해주세요. [ex] Can you recommend me some gritty TV shows?
 
+# 사양
+* 사양할게; allow that; safe; bare
+
 # 사치
 * indulgence는 '사치', '마음대로 함'을 뜻하는데요, "What's your biggest indulgence?" 물어보면  "가장 사치 하는 아이템이 뭐예요?" 혹은 "어떤 식으로 사치를 하시나요?"라는 뜻이 돼요. 근데 꼭 비싼 물건을 사는 사치만 뜻하는 건 아니에요. 건강에 나쁜 걸 알지만 칵테일을 즐겨 마시는 것, 다이어트에 안 좋은 걸 알지만 단 디저트를 사 먹고 즐기는 것도 indulgence라고 표현해요.
 
@@ -798,6 +874,24 @@
 	* 내 방에 포인트 색상을 추가하고 싶어. ex) I want to add a pop of color to my room.
 * yellow; 겁이 많은 2. 사랑하는 사대를 향한 아름다움(콜드플레이 - Yellow
 
+
+# 생각
+* 생각 안나; It doesn't ring a bell; i can't remember; i don't know; i'm not sure
+* (생각/방법을) 적용하다 / 이용하기 시작하다; run with; 그 아이디어에 착안해서 적용했어요; They took that idea and ran with it
+* (문제 해결을 위해) 곰곰이 생각하다 put your thinking cap on 미국식  영국식   단어장추가
+* 내가 사색하는ㄱ ㅓ 싫어하는 거 알아; I know you don't like when i'm contemplative
+  * 그는 이사회에서 정책을 바꿨으므로 그 쟁점은 고려할 가치가 없어졌다고 주장했다. He argued that the issue had become moot since the board had changed its policy.  moot: 고려할 가치가 없는
+  * think through : 고심하다, 충분히 생각해보다
+    * 제대로 생각해볼 시간이 필요해. I need a minute to think this through.
+* 그렇게 이해하고 있습니다; That's my understanding
+  * : 여기서 동사 see 는 물리적인 것을 실제로 '보다'라는 뜻이 아니라, 추상적인 것을 '보다, 알다, 이해하다' 라는 뜻으로, 'understand'의 유의어예요. 그래서 요 표현은 '~에서 웃긴 점이 뭔지 알다', '~에서 뭐가 웃긴지, 재미있는지 알다'라는 뜻이죠! 전치사 in 을 쓴다는 것도 꼭 기억하세요.
+  * 이 모든 게 웃긴 상황이라는 거 모르겠어? Don't you see the humor in all of this?
+  * 그는 직장에서 돌아가는 모든 일을 전부 꿰고 있어요; He is on top of all that is going on at work
+    * has a good grasp of information Technology  [ɡræsp]
+* 순서대로 점들을 이으면 그림이 완성되는 ‘점잇기 놀이’를 생각해 보세요. 점들만 있을 때는 모르지만, 점을 다 연결하면 비로소 무슨 그림인지 이해하게 되죠. 그런 것처럼 connect the dots 는 ‘이해하다, 파악하다’를 의미합니다. 
+  * 아직 모르겠어? 내가 널 위해 이해를 시켜줘야 하니? Don’t you get it? Should I connect the dots for you?
+* suppose는 ‘생각하다, 추정하다’이란 뜻이기 때문에, supposed라고 하면 ‘추정된, ~라고 생각되는’이란 의미가 됩니다. 마리 앙투아네트가 "Let them eat cake."라고 말했다고 알려져 있긴 하지만 기록으로 남은 완벽한 사실은 아니기 때문에 영상에서는 “그렇게 말했다고 추정되는 답변”인 supposed response라고 말한 것입니다. 
+  * 추정컨데, 그녀가 그것을 혼자서 했었을 수도 있어.  Supposedly, she might have done it alone herself. 
 
 # 서투르다
 * 직역하면 [햄처럼 생긴 주먹을 가진] 이란 뜻인데요. ham-handed 라고 쓰이기도 해요. 손이 햄처럼 크고 뭉툭하면, 뭔가 손으로 다루는 일에 서툴겠죠? 그런 의미의 연장선으로 사람을 다루거나, 무언가를 함에 있어 전반적으로 [서투른] 이라는 의미를 가지게 된 형용사입니다.
@@ -873,6 +967,11 @@
 * 솔직히 말해서 - 실은 - i think; Actually
   * TO be honest/Honestly;  Frankly speaking: 원어민에게 일상에서는 생소함
   * 조금 더 거창하게 사실이 들어간; To tell you the truth
+
+# 수고
+* 수고했어요; Thank you for the great work today; 사장이 직원에게 하는 말
+  * You must be exhausted/tired/worn out
+  * You look like you had a long way; YOu deserve it
 
 # 수리
 * locksmith 열쇠공  gas meter 가스계량기  repairperson 수리공
@@ -950,6 +1049,7 @@
 * know <> I know of him. 은 무엇일까요? 들어서든 TV를 통해서든 아는 것이지. 실제 사적으로 아는 know about; WHat do you know about ~?
 * #know from; I know him from 
 * 정확히 알다                      I know for a fact
+  * 다 알고 있었구나; You knew all along
 * 새로운 것을 들었는지 물어볼땐 Have you heard of/about ~가 더 자연스러움
 * 닉은 얼마나 알고 	How long have you known nick?
 * 알게되다 get to know
@@ -1121,6 +1221,10 @@
 # 유지
 * 특정 상황, 믿음, 시스템등이 영구적으로 지속되게 한다는 뜻의 타동사(목적어가 있어야 하는 동사) 입니다. 여기서 it 은 성문제에 대해서 말하지 않고 덮어두고만 있는 상황을 가리키고 그런 문제를 안고있는 상황이 지속된다는 의미에서 ‘문제가 되풀이 될 뿐이다’라고 번역되었습니다.   [pərˈp-]  영국식 [pəˈpetʃueɪt]  참고로 perpetuate과 매우 비슷하게 생긴 단어가 있는데요, 바로 perpetrate 입니다. ‘범행, 악행을 저지르다’라는 의미로 perpetrator(범인, 가해자)도 자주 쓰이는 단어 입니다. 그리고 perpetuate의 강세는 –pe- 에, perpetrate의 강세는 per- 에 있습니다.  [ˈpɜːrp-]  영국식 [ˈpɜːpətreɪt] 
 
+# 유창
+* 전 프랑스어를 자유자재로 구사해요; i have a full command of French = have a (complete) mastery of; i masterd a foreign language
+  * has a brilliant command of Spanish = acquired a mastery of the English language
+
 # 유통
 * 유통기한이 지났어요. It has passed the expiration date
 
@@ -1279,7 +1383,7 @@
 	* 그는 연기를 하기로 마음을 먹었다. He has set his mind on acting.
 
 # 정신차려
-* Stay sharp; Pull yourself together, Snap out of it
+* Stay sharp; Pull yourself together, Snap out of it; You're going to pull your act together
 * 정신이 막 여기저기 흩어져 있는 듯 할 때, 그래서 무언가에 집중을 할 수 없을 때 쓰는 표현으로 [한데 모으다] 라는 get together 를 쓸 수가 있어요. 그래서 집중을 필요로 하는 상황일 때, 무언가를 더 효율적으로 해야 해서 집중해야 할 때 자주 쓰이는 비격식 표현입니다.
   * 정부는 정말 정신 차려야 해. ex) The government really should get its act together.
 

@@ -1166,7 +1166,7 @@
 * 냉정하져 chill out, 긴장 풀어 sit back and relax
 * 고도의 긴장이 요구되는 때 crunch time 미국식  영국식   단어장추가
 	* 우리 모두는 엄마의 수술 때문에 굉장히 긴장되는 날을 보냈다. ex) We all had a nerve-racking day because of mom's surgery.
-	* 긴장을 풀다; #unwind, #relax, #uptight
+	* 긴장을 풀다; #unwind, #relax, #uptight, loosen up my mind
 	* 1) 폭탄을 터뜨릴 때 불을 붙이는 뇌관을 fuse 라고 하는데요. 그것을 제거하는걸 defuse 라고 합니다. 이렇게 긴장된 상황에서 원인을 제거하니, [긴장/위기를 해소하다] 라는 의미로 쓰이는데요.
   * 회의를 재개하기 전에 긴장감부터 해소하자. ex) Let's need to defuse the tension before we resume the meeting.
 	* ☆take the edge off; I need to take the edge off the hunger

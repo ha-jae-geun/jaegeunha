@@ -614,7 +614,7 @@ His sudden smile made her go #weak at the knees. ; 2. 약한
 * #송아지; #calf
 * #둔부, #음부, #국부	loins (문예체) (사람의) 음부[국부] 
 that's quite a package/junkㅌ
-* #발등	top (side) of the foot 
+* # 발등	top (side) of the foot 
 	* 발가락(toes) 끝(tip)으로 선다고 해서 tippy toe는 ‘까치발’을 뜻합니다. 여기에 동사를 대입하면 되는데 주로 「동사+소유격+tippy-toes」로 잘 씁니다. 예를 들면, stand on his tippy toes, walk on her tippy toes 처럼요. 아니면 tippy toe자체가 동사가 될 수도 있습니다. 그리고 동의어로는 tiptoe가 있는데, ‘까치발로 살금살금 걷다’라는 동사이며, 부사로는 on tiptoe(발 끝으로, 까치발로)라고 활용할 수 있습니다.
 		* 캐롤은 까치발을 하고 방을 걸어다니고 있었다. Carol was walking around the room on her tippy toes.
 	* 발가락	toe [toʊ]
@@ -623,6 +623,7 @@ that's quite a package/junkㅌ
 	* 새끼 발가락	a little toe 
 	* 발바닥	sole [sóul]
 	* * stub one's toe : 발을 찧다, 채이다.  내 아들이 의자 다리에 발을 찧고는 울었어. ex) My son stubbed his toe against a chair leg and cried.
+	* 다가오는 발걸음; footsteps approaching
 * #때 밀었어.	I scrubbed my body.
 * #체중계 #몸무게	weighing machine, scale(s) 
 * #체중 이동	#weight movement

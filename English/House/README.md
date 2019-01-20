@@ -185,9 +185,10 @@
 	* don't rain on my parade = don't be such a spoilsport
 	* #홀이불; #sheet 겨울용 누비 솜이불; #cotton-wool comforter
 * #베개; #Pillow #원통형; #bolster(강화하다) #죽부인; #dutch wife
-* 베다; put one's head on a pillow | lay one's head on/in sb's lap
-* 푹신한 베개; #lumpy pillow
-* #flat pillows
+	* 베다; put one's head on a pillow | lay one's head on/in sb's lap
+	* 푹신한 베개; #lumpy pillow
+	* #flat pillows
+	* 베개 커퍼를 더럽히게 되는데; get your pillowcase dirty
 * #침낭; #sleeping bag
 * #quilt 이불
 * #모기장; #Mosquito net/bar; #net #bar
