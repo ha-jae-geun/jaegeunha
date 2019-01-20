@@ -250,6 +250,7 @@
 * 도난 신고를 하고 싶어요.					I want to report a theft. 
 * #turn in; turn someone in(#수사기관에)신고하다; #report; #자수 he turned himself in
   * - turn oneself in: 스스로 경찰에 자수하다 - turn in someone: 누군가를 경찰에 고발하다, 경찰에 넘겨주다
+  * 밀고하다; drop a dime
 * 수사에 착수하다; #launch/start an #investigation
 * #수갑 #cuff; get me out of these cuffs
 * #결박하다; #put in irons(#iron)
@@ -367,6 +368,7 @@
 * #sin#; #commit a sin, #crime
   * 잔인한 vicious little word, vicious attack/dog
 * [ 숙어 ] hole up: (비격식) 숨다
+  *  진실을 #왜곡하지마; don’t #stretch the truth
   * ＊ hidden in plain sight = 의외로 평범한 곳에 숨은
     * = 귀중품을 잘 보이는 곳에 놓지 마세요. (*in plain sight: 잘 보이는 곳에 드러낸) Don't leave your valuables in plain sight.
   * 어디 안전한 곳을 찾아서 아침까지 숨어있도록 하자. Let's find some place safe and hole up until the morning.

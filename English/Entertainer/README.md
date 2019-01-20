@@ -37,6 +37,7 @@
 * 세간의 주목을 받으면: When you're in the public eye; in the public eye
 	* 주목을 받는 걸 좋아한다; loves being in the spotlight
 * 내 주특기다; It's my shtick; 2. 개그맨들의 본인 특유의 개그, 루틴, 기믹 [ʃtɪk] 
+	* *  #뼈그맨이다 i’m a comedian #through and through
 * TV 광고를 찍다; shoot a TV commercial
 * 관심이나 인기를 독차지하다; steal the show
 * 레옹에 캐스팅 됑써요; I was 11 when i was cast n the Professional

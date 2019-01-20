@@ -47,25 +47,64 @@
 # 놀다
 * 1) 다들 한 번쯤은 들어보셨을 법한 표현인데요. hang out 은 거창한 목적 없이 시간을 보내며 노는 것을 의미합니다. 친구와 함께 노는 것도 되고, 아니면 그냥 혼자 이것저것 하며 시간을 보내는 것도 의미합니다. 2) [어울려 놀다/지내다] 라는 의미의 get along 이라는 표현도 있는데요. get along 은 정말 마음 맞는 친구와 '죽이 잘 맞게' 어울려 노는 것을 의미하는 반면, hang out 은 꼭 친한 친구가 아니더라도 함께 시간을 보내며 노는 것을 의미하기도 해요.
 	* 그와 나는 알고 지낸 지 오래되었다 He and I go way back . 듣기 출처:능률교육
-* 말장난해본 겁니다; Pun intended
-	* 살짝 끼얹어본 농담인데요; a little tongue-in-cheek; idea
-	* 농담을 하다; crac/make/tell a joke
-		* -을 이용해서 농담하다; make a joke at someone's expense = make a joke at the expense of 사람
-		* dad joke 의 영어 사전적 정의를 보자면 [an unoriginal or unfunny joke of a type supposedly told by middle-aged or older men.] 이라고 되어 있어요. 중년이거나 더 나이 많은 남자들에 의한 독창적이지 않고 재미없는 농담. 딱 아재개그네요.. 아저씨인 저는 그저 웁니다 ㅎㅎ
-	* 네 장난 알아 들었으니까 그만해; I get the joke
-	* : 두고두고 오르내리는 농담을 말해요! 
-		* 그 일은 계속해서 농담거리가 되고 있지. The whole thing became a running joke.
-	* butt 일상 회화에선 비격식 표현으로 '엉덩이' 를 의미하지만, 사실 이 표현에서의 butt 는 target 을 의미합니다. 양궁이나 사격의 과녁을 butt 이라고 하거든요. 그래서 butt=target (목표물) 이니까, [조롱의 대상] 의 의미를 가져요.  [비판의 대상]이라고 할 때는 the butt of criticism 이라고도 표현합니다.
-		* 내가 사무실에서 방귀를 뀐 이후로, 난 모든 농담의 대상이 되었다. ex) Ever since I farted in the office, I've been the butt of every office joke.
-	* 장난을 쳐보자; We should play a prank on mama; The guys are pulling my leg; Stop teasing me; Stop making fun of me; It's just for fun
-	* 그녀는 그들의 조롱을 더 이상 참을 수가 없었다. She couldn’t stand any more of their mockery. 
-	* 전 항상 놀림의 대상이었죠; I was the butt of every joke; 놀림의 대상
-	* 장난치지마; Stop fooling around = Do not mess around. = Don't toy with me
-		* 아이들: Be nice!" 또는"Behave yourself!"; Don't be ridiculous/stupid
 * 항사 약간 빈정거리게 된다; we always get into a little bit of a banter
 	* i don't mind him exchanging banter with customers
 * (claw machine/crane claw/crane machine = 인형뽑기기계)
-
+ * 건전하게 놀다; have some #good, clean fun
+	 * #Play with + 사물(feeling);+사람이면 성적으로 놀다 #hang out with: 시간을 보내다, stay out: 밖
+	 * #toy with; 가지고 놀다 / #jerk someone around
+	 * #get on well with; ~와 잘 지내다
+	 * kick it: 놀다, 지내다: get by, get along 어울리다: blend in
+	 * #consort with; somebody; #in consort with; 
+	 * #blend in; 자연스럽게 어울리다; if you want to blend in
+	 * (사람)와 어울리다 #socialize with
+	 * #원만하게 #마찰없이 지내다 #walk softly
+	 * #make merry(#merry); 즐겁게 떠들고 놀다
+	 * #떠들썩하게 즐기다; #paint the town red(#town)
+	 * #케미; there was no #chemistry, they had great chemistry, the chemistry between us is amazing 
+	 * -> we #clicked
+	 * 얘들끼리 잘 논다; our boy are #enjoy themselves
+	 * ~#없이 지내다; #go without /do/#manage without; I had to go without lunch
+	 * 나 밖에 있어 					 I'm out drinking with ~ (#outside xx 그냥 밖)
+	 * 놀러와 									 come over to me
+	 * 몇시까지 놀았어? 					 How long did you stay ot last night?
+	 * 나 친구들하고 밖에서 놀고있어요 				 I’m out with some friends.
+	 * 소주는 삼겹살이랑 어울려 				 Soju goes down well with SamYyeopSal
+	 * 이정도면 저희가 대학생 때 뭐하고 지냈는지 감이 오실거에요 
+	 * This is a good example of what we got upto in university
+	 * #견과류가 딱 어울리네 							 The nut's really apt
+	 * #corn nuts; 콘넛 먹는 것
+	 * Mr.Peanut; 과자 이름 Mr.Salty
+	 * (커플) 잘 어울리다 they look good #together
+	 * 서로에게 잘 어울리다; you can't deny what's between us
+	 * #스며들다; Water had #percolated down through the rocks. 물이 바위 아래로 스며들어 있었다.
+	 * 11시에는 좀 아닌 것 같지만 어울리기는 해	 Not at 11 in the morning but it does #work
+	 * 그 여자 어제 그 친구들이랑 어울렸어!! 				She mingled with them yesterday.
+	 * 내가 요새 너가 리사랑 #어울리는거 못 본거 같은데 I think I haven't seen you around Lisa lately 
+	 * be not someone's strong suit(#suit); 누군가와 맞지 않다
+	 * such a good #pairing
+	 * 우유와 소금은 잘 어울리죠. 					 Milk and salt don't go together.
+	 * ☆fit like a glove
+	 * 그 셔츠는 그 바지와 어울린다.			 		 The shirt goes well with the pants.
+	 * 회색은 얼굴을 죽이니까; #wash out; the gray one washes me out
+	 * #match with something
+	 * 그는 그의 동료와 잘 지내					He gets along with her friends.
+	 * 하면 요즘 뭐하고 지내? 						 What are you up to these days?
+	 * 우리는 오랫동안 친구였다[친구로 지내고 있다].			 We’ve been friends a long time.
+	 * 잘 지내 							 Stay cool(여름), Stay warm(겨울)
+	 * 나는 모두와 잘 지낼 수 있어				 I can get along with everybody.
+	 * 나야 뭐 #잘 지내지. 								 Can’t complain.
+	 * 난 너없이 잘지내							 I'm better off without you.
+	 * 우리는 항상 함께 놀아				 	 We hang out with together. tə1geðə(r)
+	 * 제대로 놀아보자 							 Let’s break it down.
+	 * 신나게 놀아보자; #paint the town red
+	 * 놀자 						 play는 장난감 / 불건전 놀이 Let's hang out.
+	 * 근데 걔가 요즘 날 가지고 노는 것 같아 It seems that she is #toying with my heart nowadays
+	 * 나 스타 개 가지고 놀았어 							I destroyed him.
+	 * 재미있게 놀아요 								 #Have fun
+	 * 우리 집에 놀러올래? 							 Can you come over?
+	 * #놀러가다; #go over; you should come over for lunch
+	 
 # 싸우다
 * You have a problem with me? - Let's take this outside - I don't want to have to kill you, bro
 	* 얼굴에 주먹치고싶다; deck you in the face

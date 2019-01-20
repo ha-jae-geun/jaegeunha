@@ -3,6 +3,7 @@
 * 빈말이 아니고, 정말 아름다우시네요. I'm not gonna lie. You look gorgeous. 
 * 'first and foremost'는 핵심이나 중요한 이유에 대해 강조하는 데 사용하는 표현입니다. '가장 중요하게는' '가장 근본적으로는' '다른 어떤 것보다도' 등으로 해석할 수 있겠네요.
 * 그는 가르치는 일도 좀 하지만 다른 무엇보다도 그는 작가이다. He does a little teaching, but first and foremost he’s a writer. 
+* 죽기라도 하겠어; it won't kill you = it won't hurt to
 
 # 일상
 * "I'm making some cushions."라고 하면 본인이 직접 쿠션을 만들고 있다는 뜻입니다. [get/have + 목적어 + 동사-ed] 패턴을 쓰면  "다른 사람으로 하여금 ~하게 한다"라는 뜻으로 바꾸어 줄 수 있어요. 즉 "I'm having/getting some cushions made."는 본인이 직접 쿠션을 만드는 게 아니고, 어딘가에 주문해서 쿠션을 제작한다는 뜻이 됩니다.

@@ -17,7 +17,10 @@
 * 1) underdog은 ‘사회적 지위가 낮은 사람, 약자’를 의미합니다. 
 * 분위기 꺠는사람; buzzkill; i hate to be a buzzkill
 * 평범한 건 원하지 않아요; We don't want the standard
+* 속물; snub = snob
+	* 김치; Gold digger
 * 추종자들이 있는 권위자, 전문가; guru; 흰두교에서는 종교적 스승, 지도자   expert: 사람들의 전중ㅇㄹ 받는 전문가
+	* 자칭 전문가; self proclaimed
 	* guru 는 [전문가] 라고 해석이 되기는 하지만, 조금 더 구체적인 모습을 가진 단어입니다. 같은 의미의 expert 의 경우엔 자기 분야에 방대한 지식을 가지고 있고, 종종 그와 관련된 학위나 자격증 등을 가지고 있는 경우가 많아요. 그러나 guru 는 방대한 지식을 가지고 있을 수도 있지만, 꼭 그렇지 않아도 조언을 해주는 사람들을 의미하는 뉘앙스가 짙은 단어입니다. 또한 중요한 건, guru 의 경우엔 '추종자'들이 꽤 있다는 점이에요.  그래서 guru 가 되기 위해서 본인이 꼭 expert 일 필요까지는 없습니다. 반대로 누군가가 expert 일지라도, 그를 좋아하고 따르는 사람들이 없다면 guru 라고 불리지 않겠죠. guru 가 종교적 지도자를 의미하기도 하는 건 우연이 아니겠지요~
 		* 유튜브에선 거의 모든 분야의 전문가들을 찾을 수 있고 그들에게 무언가를 배울 수 있습니다. ex) You can find gurus in almost every field on Youtube and learn something from them.
 * 그는 독보적이다; He's a one of a kind

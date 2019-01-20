@@ -362,11 +362,12 @@ Don’t cross your legs bc when you put one knee over the other, it sends blood 
 * 팔자주름	smile lines, i've got smile lines
 * 왜 사람의 입냄새가 심할 때 kicking이라고 할까요? 사람의 입냄새는 공기중으로 스멀스멀 퍼지는 것이 아니라 갑자기 훅 들어오는 기분이죠? 그래서 뭔가 강하게 치는 느낌이라서 kicking이라고 표현하는 겁니다. 혹은 have a bad breath라고도 합니다! Seriously, your breath is kicking. Go brush your teeth.
 * 두꺼운 #입술 ##입 fuller lips full lips
-* 입술에 물집 I got blisters on my lip
-* #부르트게 만들다; #fat lip; give someone a fat lip; did she give that fat lip
-* #트다, #거칠어지다; #chap; my lips are chapped
-the upper/bottom #lips
-* #lip reader; 입술의 움직임만으로 무슨 말을 하는 지 알 수 있는 사람
+	* 입숭를 더 오므려봐; Purse your lips more.
+	* 입술에 물집 I got blisters on my lip
+	* #부르트게 만들다; #fat lip; give someone a fat lip; did she give that fat lip
+	* #트다, #거칠어지다; #chap; my lips are chapped
+	the upper/bottom #lips
+	* #lip reader; 입술의 움직임만으로 무슨 말을 하는 지 알 수 있는 사람
 * 입 가벼운 사람	big mouth
 * 입안에서 막 움직였는데	I swirled it around
 * #인중	#philtrum is sweating
@@ -441,6 +442,7 @@ I had my wisdom tooth pulled.
 * #혓바늘 생겼어 	I got #canker sore on my tongue.
 * #뒷골 땡기네 		##목			성가신 것 A pain in the neck.
 * 저는 요리하는 손이라서 괜찮아요; i've got cooking hands
+	* 매너손; hover hand
 	* 저는 #손재주가 없어서  I'm all thumbs.
 	* 손재주 있는 사람; #handiest guy
 	* #manual dexterity

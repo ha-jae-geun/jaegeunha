@@ -751,6 +751,7 @@ I have a big crush on you / I have a thing for you, i'm into you
  * 그녀가 바람 맞췄어. 			She never showed up, she was a no-show!, She stood me up					she bailed, He left me. I got dumped.: 차이다 She dumped me
  * 대망의 기다리고 기다리던 				 A long-awaited New Year has dawned.
  * #어장관리하다 keep someone on the #hook = lead sb on; I don't want to lead you on
+ 	* 어장 관리하다; it's obvious that she's leading him on
  * 친구로 지내자 #friend-zone(#zone); you've totally been friendzoned
  * #무너지다; 모든 희망이 무너졌다 All my hopes were shattered.
  * #cave in; It seemed as though my world caved in when I heard the news of my father's death.

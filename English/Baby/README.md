@@ -7,6 +7,8 @@
 	* 아기 침대 사주자; Let's get her a crib for her baby shower
 * 버릇없는 아이; spoined kid
 	* 행동거지 나쁜 아이; brat
+* #alligator arms #용변 연습용 팬티; 
+	* #training pants #배변 훈련; #potty training 
 
 # 놀이
 * 일반 가정집에서 아기방으로 꾸며 놓은 방은 nursery 라고 해요. 아기가 커서 놀이방이 필요할 때 놀이방은 playroom 이라고 하고요. 참고로 동요, 자장가 등 아기들이 듣는 음악을 nursery rhymes 라고 하기도 합니다. 주로 누군가를 돌보는 장소에 nurse 관련 단어가 붙는 경우가 많은데요. 아이들이 가는 어린이집은 보통 daycare (0-5살) 라고 하지만 nursery school 이라고 주로 3살부터 6살까지 주로 학습보다는 놀이를 통한 보육을 하는 곳이고요. 줄여서 그냥 nursery 라고 하기도 해요. 노인분들을 위한 양로원은 nursing home 이라고 합니다.

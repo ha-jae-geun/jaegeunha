@@ -195,6 +195,10 @@
 * adopt a baby
 * adopt a strategy
 
+## ass
+* 만들다 만거서럼 허접하다; be half-ass something
+
+
 ## ask
 * : 호수쪽 뷰를 요청해 보세요. 밤에 엄청 아름다워요. Ask for a view of the lake. It's beautiful at night.
 	* : 배역을 부탁하려고 왔어요. I came to ask for the part.
@@ -209,6 +213,10 @@
 
 ## angle
 * 무슨 속셈이야; What's your angle? 
+
+
+## bed
+* on the bed; 누워있따; in the bed; 이불 뒤집어쓰다
 
 
 ## beef
@@ -496,6 +504,7 @@
 ## catch
 * 전체적으로는 좋은데 문제시 되는 것, 겉으로 드러나지 않았던 숨은 문제를 명사로 a catch 라고 합니다. 
 	* (다 좋은데) 문제는, 아무도 제시카랑 3개월 이상 일한 사람이 없어. 아주 못됐거든. But here’s the catch. No one has ever worked more than 3 months with Jessica. She’s evil. 
+* a catch: 1. 결혼 상대로 생각할 정도로 매력 있는 사람 2. 가성비 좋은 사업적인 deal
 
 ### catch up
 * catch up; 1. I'd like to catch up; 오랜만에 이야기하다 
@@ -537,6 +546,10 @@
 * comfort zone 은 직역하면 [안락 지대] 로 평소에 특정 상황이나 장소에서 내면적으로 편하게 느끼는 심리적 상태를 나타내는 단어입니다. 위의 표현을 직역하면 거기에서 벗어나는 것이기 때문에 의역하여 [도전하다] 라고 해석이 되었고요. 누군가에게 조언을 하거나 면접 시에 유용하게 쓰일 수 있는 표현이에요.
 	* = 현실의 편안함에서 벗어나는 건 쉽지 않은 일이지만, 일단 벗어나면 신세계를 경험하게 될 거야. Stepping out of your comfort zone is not easy to do, but once you do, you will experience a whole new world.
 
+## chop
+* 얘기나 하자; chop it up
+
+
 ## chicken
 *  play chicken은 슬랭으로 친구들끼리 '(누가 더 쎈지) 겨루다, 시합하다'는 의미에요. 사실 별거 아닌데 친구들끼리 누가 더 겁없고 용감한지 담력을 시험하는 내기를 여기서 마샬이 자신을 rooster(수탉)로 표현하며 자신은 절대 물러서지(back down) 않겠다고 말하고 있네요. 수탉들이 한번 싸움하면 피터지죠. 
   * 밤에 내친구랑 나는 서로 누가 더 담력이 쎈지 시합했다. My friend and I played chicken at night.
@@ -552,6 +565,9 @@
 
 ## chance
 * 어림도 없죠; Not a chance
+
+## chart
+* #뛰어난; ~ is #off the charts
 
 ## charm
 * ‘매력’으로 잘 알고 계실텐데요, 영상에 나오는 것처럼 악세서리 장식물이나 상징물, 부적 등도 charm 이라고 합니다. 
@@ -875,6 +891,7 @@
 	* = 저 차 도망간다. 빨리 밟아! That car is running away. Floor it!
 * 원래는 open the floor for the question이라는 표현이 자주 쓰입니다. 보통 회의나 강의 끝에 [이제 질문할 것 있으면 하세요]라는 의미로, 닫혀 있던 곳을 마치 여는 듯한 뉘앙스의 표현인데요. the floor라는 게, [바닥] 을 의미하기도 하지만, 토론장이나 의회 같은 곳에서 [참가 자석, 의원석] 을 의미하거든요. 발언을 하는 곳이기도 한데, have the floor라고 하면 [말할 권리, 차례를 가지다]를 의미하기도 합니다.
 	* = 이제 물어봐도 되니까, 너도 질문 있으면 편하게 물어봐. Now I will open the floor, so if you have any questions, feel free to ask.
+*  매우 #인상깊었다; i am #floored
 
 ## flesh
 * <구체적인 일화들을 더해 스토리를 더 구체화시켰다> ex) I fleshed out the story with more specific anecdotes. Flesh sometihg out (with ~): 살을 붙이다 (with ~ 등을 더해)
@@ -1066,6 +1083,10 @@
 ## ground
 * 'ground'는 '땅, 토양' 뿐 아니라 '분야, 영역, 화제'와 같은 추상적인 것도 지칭할 수 있는 단어입니다. 거기에서 'common ground'의 '타협점'이라는 의미가 나왔죠. 주로 대부분의 것에 반대하는 사람들이 이해관계·입장등을 공유하게 되었을 때 사용한답니다. 'middle ground'로도 호환해서 사용할 수 있어요.
   * 협상은 어떤 절충안을 수립하는 것에도 실패했다. [ex] Negotiations have failed to establish any middle ground.
+* #겸손하게 만들다; #keep someone grounded
+* # 순조로운 / 쾌조의 출발을 보이다; #hit the ground running
+* #따라 잡다; #gain ground on
+* 상대에게 이점을 뻈기다; #lose ground to
 
 ## genius
 * 누구나 ~ 할 수 있다 = It doesn't take a genius to 동사원형
@@ -1359,6 +1380,17 @@
 	* 의회는 그 제안에 대해 논의하기 시작했다. [ex] The House began debating the proposal.
 
 ## hang
+ * hang out = #hang
+ * hang around/about; 서성이며 기다리다 
+ * #hang on to #붙잡아야 할 것 같애서 I felt like I had to #hang on to him
+ * #hang down; #늘어뜨리다
+ * 이번 대선은 당신의 투표에 달려있다     This presidential election hangs on your vote
+ * 끊을게요                  I’ll hang up now
+ * cheer up은 약한 응원 #hang in there
+ * 빨래좀 #널어놔 hang up the laundry to dry
+ * 은행 주위를 어슬렁 거리는 노숙자가 있네요. There is a homeless person hanging out/around the bank. 
+ * #hang loose; 편히 쉬고 있어요
+ 
 ### hang up
 * : 전화 끊지마, 자기야. Don't hang up, sweetie
 * : 왜 우리는 누군가가 어기는 모든 법에 그렇게 집착하는 거지?' Why do we get so hung up on every law someone breaks?
@@ -1406,11 +1438,13 @@
 	* 비록 그는 괜찮아 보였지만, 그의 목소리는 눈에 띄게 초조하게 들렸다. ex) Although he looked fine, his voice was notably jumpy.
 * : (충격이나 무서움에) 너무 놀라 펄쩍 뛰다  [ 숙어 ] jump out of one's skin
 	* 그 소리 때문에 그는 놀라 까무러쳤다. The noise made him jump out of his skin.
+* 신랄하게 비판하다; jump down one's throat
 
 ## kick
 * 재미 좀 보겠어; You'll get a kick out of this; 1934년 Cole Porter의 노래에서 유명한 표현; kick: 스릴, 쾌감, 재미
   * 2) 강력한 동기부여 = a kick in the butt 엉덩이를 걷어차면 화들짝 놀라 깨어나는 모습이겠죠? 그런 모습에서 유래된 표현으로, 조금 동기부여가 되지 않는 사람에게 동기부여를 해주는 다소 강한 말이나 행동을 의미하는 표현이에요.
     * 사는 동안 언젠가 우리 모두는 강력한 동기부여가 필요해요. ex) We all need some kind of kick in the butt at some point in our life.
+* #예상치 못한일; the real #kicker
 
 ## keep
 * : 침착해 Keep it together
@@ -1582,9 +1616,17 @@
 ## miss
 * 너 놓치고 있는 거야; You're missing it out
 
+## money
+* Money : 1. Cool; Of unusually high quality : very good; excellent; 쩐다(정말1:1 의역); 퀄리티가 높은 물건(다이아 롤렉스, AP, 롤스로이스 등)
+
+
 ## mourn
 * mourn = (누군가의 죽음으로) 애도하다. mourning = 애도, 상복 in mourning = 상복을 입은, 상 중인, 애도중인
 	* 그의 가족은 아버지의 죽음으로 상 중이야. ex) His family is in mourning for their father.  [mɔːrn]  <> [ˈmɔːrnɪŋ]
+
+## nail
+*  #확정하다 #실토하게; #nail down;She says she'll come, but I can't nail her down to a specific time.
+
 
 ## nasty
 * nasty; 1. 더럽다 2. 맛이 없다 3. 형편없다; nasty watch 4. 악취; nasty smell
@@ -1822,6 +1864,10 @@
 * i have a promise(가질수 없다) -> i'm meeting my friend; i have a plan with my friend
 * i made a promise to my friend that i'm going to keep it secret
 
+## plop
+* 사무실에 앉혀놨죠; Plop them into the Cambridge office
+  * Can you plop the ice in at the end
+
 ## place
 * 저 그림은 안 어울리는데. [ex] That picture looks out of place. 1. 어울리지 않는, 제자리를 벗어난
 * 그 사람의 언사는 아주 부적절했어. [ex] His remarks were very out of place. 2. 부적절한, 무례한
@@ -1840,6 +1886,69 @@
   * I couldn’t believe what was playing out right before my eyes.
 *  play chicken은 슬랭으로 친구들끼리 '(누가 더 쎈지) 겨루다, 시합하다'는 의미에요. 사실 별거 아닌데 친구들끼리 누가 더 겁없고 용감한지 담력을 시험하는 내기를 여기서 마샬이 자신을 rooster(수탉)로 표현하며 자신은 절대 물러서지(back down) 않겠다고 말하고 있네요. 수탉들이 한번 싸움하면 피터지죠. 
   * 밤에 내친구랑 나는 서로 누가 더 담력이 쎈지 시합했다. My friend and I played chicken at night.
+ * #Play games with (누군가/뭔가를 가지고 장난치다) 
+ * Quit playing games with my heart. 
+ * Stop playing games with her. 
+ * 
+ * #Play against (두 사람을 반목시키다, 이간질해서 어부지리를 얻다) 
+ * Play two people against each other 
+ * He's obviously trying to play us against each other. 
+ * 
+ * #Play down ~ (실제보다 낮춰서 말하다, 경시하다) 
+ * Why are you always playing down my accomplishments? 
+ * 
+ * #Downplay (실제보다 낮춰서 말하다, 경시하다) <> #play up
+ * Don’t try to downplay the danger we face here. 
+ * 
+ * #Play up (실제보다 크게 말하다, 과장하다, 강조하다) 
+ * The democrats are really trying to play up the jobs increases this quarter. 
+ * 
+ * They are really trying to play up this new phone. 
+ * 
+ * #Play for a fool (바보로 만들다/취급하다) 
+ * He played me for a fool! 
+ * You played me for a fool! 
+ * 유의어: You made a fool out of me. 
+ * 
+ * #Play along (아니라는 거 알면서 사기나 거짓말을 믿는 척하다) 
+ * I knew he was lying, but I just played along. 
+ * If you knew I was lying, why’d you just play along like that? 
+ * 
+ * #Play around (놀다, 장난치다) 
+ * Stop playing around and get to work! 
+ * 
+ * #Play it cool! (아무 일 없는 것처럼 굴다) 
+ * Here come the teachers! Play it cool, man! 
+ * 
+ * #Play back (재생하다) 
+ * Play back the last 30 seconds of the conversation. 
+ * 
+ * #Play on (계속 경기하다) 
+ * Despite the rain, the athletes played on. 
+ * 
+ * 
+ * #Playoff (결승전) 
+ * Do you think we’ll make it to the playoffs this year? 
+ * 
+ * #Play with fire (불장난하다, 위험한 걸 가볍게 다루다) 
+ * Be careful, man. I think you’re playing with fire. 
+ * 
+ * #Play it safe (안전한 길을 선택하다) 
+ * I’m just going to play it safe and take the subway. 
+ * 
+ * #Play it by ear (임기응변하다, 상황을 봐서 정하다) 
+ * What should we see when we’re in Paris? 
+ * Let’s just play it by ear. 
+ * 
+ * #Play hard to get (튕기다) 
+ * I'm not playing hard to get. I really just don’t like you. 
+ * 
+ * #Play out (펼쳐지다, 되다) 
+ * I really wonder how this whole thing with North Korea will play out. 
+ * 
+ * How did it play with the public? (국민들에게 어떻게 받아들여졌어요?) 
+ * 
+ * #Wordplay (언어 유희)
 
 ## present
 * 만약 Thanks for being present 를 회의실에서 했다면 “참석해 주셔서 감사합니다”가 되겠지만, 여기서는 ‘도움이 되다, 옆에 있어주다’를 뜻합니다. 옆에 있으면서(be present) 도움이 되어 주거나, 얘기를 들어주거나, 아니면 함께 있어주는 것만으로도 고맙다는 걸 의미하죠.  성탄절이나 추수감사절에도 be present 라는 말이 종종 나오는데요, 단순히 명절에 참석하라는 말이 아니라, 그 시간을 온전히 가족을 위해 쓰고, 가족들 옆에 있어주라는 의미가 포함되어 있습니다. 
@@ -1910,6 +2019,7 @@
 * 원래 rub 은 동사로 [문지르다], 명사로 [문지르기, 비비기] 라는 뜻이 있는데요. the rub 이 [문제] 라는 의미로 쓰인 것은 셰익스피어의 유명한 작품인 '햄릿' 에서 유래했다고 해요. 하지만 주의해야 하실 점은 the rub 만 혼자서 [문제] 라고 쓰이지는 않고, 영상에서처럼 Here's the rub. 또는 There's the rub. 이라고 써야만 되는 그런 표현입니다.
 * =[ 숙어 ] rub off on somebody : (다른 사람의 특징, 습관, 견해 등이) 에게 옮다, 물들다, 영향을 주다
 	* 부정적 생각이 나한테 영향을 주지 않길 바란다. I don't want negative thinking to rub off on me.
+* #비위를 건드리다; #rub the wrong way
 
 ## run
 * 예행 연습을 하다. do a dry run; # dry run
@@ -1984,11 +2094,16 @@
   * -를 잡으려고 두 손을 뻡다; reach out a hand for
   * -에게 연락하다; Reach out to 사람;
   * 관심을 가지고 다가가ㅏㄷ; reach out to 사람;
+* 는 #무리다, #멀다; it’s a #reach;   말도 안되는 소리: you’re reaching = it’s a stretch
 
 ## red
 * 적자인; when a company is in the red
 * 여기 한국에는 관료주의가 많다. There ’ s lots of red tape involved here in Korea
 * 나를 특별하게 대우할 필요는 없습니다. There's no need to roll out the red carpet for me.  
+
+## snow
+* 눈; 눈에 갇히다; be snowed in; 일이 산더미; be snowed under(with) = up to my neck/eyeball
+
 
 ## snap
 * snap 은 [탁하고 부러지다, 끊어지다] 또는 [찰칵, 딸까닥하는 소리]를 의미하는데요. 이성이 폭발할 때 마치 머릿속에서 [똑딱]하는 소리가 들리는 듯한 모습에서 [이성을 잃고 과격하게 행동하다]라는 의미로 쓰이기도 합니다. 주어로 폭발한 감정 자체가 올 수도 있고, 사람이 올 수도 있습니다.
@@ -2131,6 +2246,12 @@
 ## slight
 * slight 는 형용사로는 [관심을 기울이지 않아도 될 만큼 가벼운], 명사로는 [무시, 모욕], 동사로는 [무시하다] 라는 의미를 가져요. 누군가를 가볍게 여기고 리스펙 하는 것 없이 행동하는 것인데요. 그래서 주로 수동태로 쓰이면서 [무시당하다] 라는 의미를 가집니다. = be(feel) slighted
 
+## stretch
+* 조금 부담이지만; it's a bit of a stretch for us
+*  진실을 #왜곡하지마; don’t #stretch the truth
+* 는 #무리다, #멀다; it’s a #reach;   말도 안되는 소리: you’re reaching = it’s a stretch
+
+
 ## stress
 * 스트레스; 스트레스 주는 일, 공부 생활 따위에 씀; stressful
   * I've been under a lot of stress at work recently
@@ -2138,6 +2259,9 @@
   * 편한말: i'm stressed out
   * 속어; i'm stressing
   * 스트레스를 주다; my mom keeps stressing me
+
+## slouch
+* #slouch 1. 모을 #구부정하다 ; #똑바로 #앉아; don't slouch 2. #무능한사람;; he's no sloutch
 
 ## slack
 * 요즘 일거리가 뜸해졌어요. Business has slacked off lately.
@@ -2212,12 +2336,14 @@
 * 나는 당신이 바로 갈취하려는 사람을 대표한다  I represent the one you ' re trying to shake down . 예문 발음듣기
 * 단지 2주의 시간만에 익숙해질수 있었다. But a shake - down , that ' s only a couple of weeks. 예문 발음듣기
 * 그들은 그 거래에 대해 합의를 보았다. They shook on the deal. 
+* 떨쳐버리다다.떨치다﻿; I just can't shake her off.
 
 ## shoot
 * "금액을 제시해 보세요."  "Shoot me an offer" 여기서 shoot me는 날 쏘라는게 아니고, ‘주다, 건내주다’입니다. 그래서 바꿔 말하면 give me an offer 입니다. 
 		* 빵 좀 줘. Shoot me some bread.  Don’t forget to shoot me an email! 
 * 직역하면 '을 위해 슛을 하다' 인데요. 축구든 농구든 골을 넣어 점수를 얻기 위해선 많은 노력을 해야 합니다. 그런 모습에서 나온 비격식 표현이에요.
   * 우리 모두는 이 일생에 한 번 있을법한 기회를 얻기 위해 노력해야 해. ex) We all need to shoot for this once-in-a-lifetime chance.
+* #활력소; a #shot in the arm
 
 ## shoe
 * * 겁내지 마라. No need to shake/tremble in your shoes/boots
@@ -2255,6 +2381,7 @@
 ## soft
 * ~에 약하다, ~을 매우 좋아하다 = have a soft spot for
   * 그런 문제아를 왜 그리 좋아하는지 나도 잘 모르겠어. ex) I don't know why I have a soft spot for such a trouble maker.
+* Soft: 미국에서는 부정적 의미로 인지됨으로 사용하지 마셈 처맞기 싫으면 
 
 ## soldier
 * 나아가다; She soldiers on

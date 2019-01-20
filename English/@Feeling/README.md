@@ -742,6 +742,7 @@
 	* to catch off guard: 기대하지 못한 상황에 당황; The qeustion caught the president off guard
 	* 심장이 쿵쾅거리며 당황; panic, freak out, flip out
 	* 당황시키다 							Don't let them #faze you
+	* #난처한 상황에 처하게 하다; #put someone on the spot
 	* #baffle; i'm baffled; i was baffled by the data
 	* #baffling text
 	* #당혹해 하다 #squirm(2. 꼼지락)
@@ -815,6 +816,7 @@
 
 # 부담
 * 부담주다; put this on my #shoulder
+	* 조금 부담이지만; it's a bit of a stretch for us
 	* 부담스러워? Am i too much?
 	* 부담을 견디지 못했어; We couldn't take the heat
 	* #부담 지우다; #burden down
@@ -1408,6 +1410,7 @@
 	* *어떤 것도 널 흥분시킬 수 없어 						 nothing gets past you
 * 삐지다; i'm ticked at you
 	* 삐지지마; stop pouting; 입술 삐쭉; pout [paʊt]; 크리스마스 캐롤; you better not pout
+	* 지멋대로 안되면 삐지는 사람; diva
 * #빡돌다 #이성 #폭발 #발끈 ##화 ##욱 #신경 #화풀이 #분통 #화내다 #실신하다 #열광하다 #흥분하다 #이를 갈다 ##분노 ##삐지다 ##속 ##안
 * 냉정을 잃다 flip out (냉정함을 잃다= lose one's cool)
 * = fly off the handle = freak out = go ape = go ballistic = go crazy = lose one's temper = wig out = #Pull oneself together = #become emotionally stable
@@ -1734,6 +1737,22 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * 무슨 걱정거리라도 있으세요?					 Is something worrying you? 
 * 용기를 가지세요. 								 Take heart. 
 	* 대담; * 너는 대담하게 행동을 하면서도 항상 즐기는 것 같아보여. You throw caution to the wind , but you always seem to enjoy yourself . 듣기
+	 * 대담한 audacious 미국·영국 [ɔ:|deɪʃəs]; ##audacity (←audacious): 뻔뻔함
+	 * #adventurous, #daring, #intrepid - 대담한, 과감한 
+	 * #ballsy; that's pretty ballsy; ballsy about comedy
+	 * a #flamboyant gesture/style/personality 대담한 몸짓/이색적인 스타일/대담한 성격
+	 * #강심장; his heart is made of steel
+	 * 얼굴이 #두껍다; #철판 #have thick skin; #thick skin <> #thin skin
+	 * #낯짝좀 키우고; #grow some skin; grow thicker skin
+	 * 긍정:배짱 좋다 부정:뻔뻔스럽다. 	 n3:rv gʌt That looks a lot of nerve / balls/ guts
+	 * 너 배짱 없잖아 								 you don't have guts
+	 * 나 뻔뻔해 I'm #shameless
+	 * 너 참 뻔뻔하다. 						 You've got/had ‘some nerve
+	 * 정말 뻔뻔하네!!									 What a #nerve
+	 * Then they had the #gall to complain! 그런데 그들이 뻔뻔스럽게도 불평을 하다니!
+	 * [prizʌ́mptʃuǝs; How rude and #건방지다; #presumptuous 
+	 * #brazen; you are pretty brazen for a woman
+	 * #능구렁이; a #sly guy
 * #애도를 표합니다. 					 kən‘doʊləns You have my condolences. 
 * #mourn
 * #추도; #eulogy; 추도 연설
@@ -1779,6 +1798,12 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * 그만 좀 놀려. 								 Stop fooling around. 
 * 이제 농담은 그만하고 진짜 얘기를 해 보죠. 		 Stop joking, and get to the point. 
 * 네, 아직은 비밀이에요. 혼자만 알고 있어요. Yes, it's still a secret. You should keep it to yourself. 
+ * 나도 속을 털어놓으니 기분 좋아.			 tʃest It feels good to get it off my chest.
+ * 담아두지마							 b'ɑ́tld Don't keep it bottled up
+ * 털어놔! 비밀을 말해라.								 Out with it.
+ * 털어놔							 Just spit it out! 그냥 불어라, shoot
+ * #털어내다; #shake off; #shake it off; I can't shake it off
+ * #털어놓다 #담아두다
 * 그도 사정이 있는 것 같아요. 자세히 이야기를 나눠 보세요. 
 * He may have his reasons. Why don't you hear him out? 
 * 제 말을 끝까지 들어 보세요. 						 Please hear me out. 
@@ -1789,6 +1814,24 @@ I am always overlooked(간과), never discount the contributions, put someone do
 	* 내가 널 잘못봤군; I was wrong about you
 	* 오해를 풀고 싶어요. 					 I want to clear up the misunderstanding. 
 	* 오해가 있는 것 같애; There seems to be a misunderstanding
+	* #오해의 소지가 있는 #misleading
+ * 뭔가 잘못 알고있는 것 같네요						 for your information #FYI
+ * 오해하지마 	 don't take this wrong way, It's not what it looks like. . Don't misunderstand me.
+ * 내 말은 그말이 아니라, 오해하지 말고 Don't get me wrong
+ * .(민감한 사안 얘기 전 제 의도와 다르게 이해하지 말아주세요);오해하지 마시구요, 기분 나쁘게 듣지 마시구
+ * Don't take this the wrong way but. Don't take me the wrong way
+ * 오해를 바로잡다; I just wanted to set the record straight
+ * 그걸 왜 나한테 그래? 						 Why are taking it out on me
+ * 내 잘못 아니야 								 It wan't my fault
+ * 나랑은 상관없는 일이야						 I had nothing to do with that
+ * 내가 너한테 뭔 잘못했다고? 					 What did I ever do to you?
+ * 내가 너한테 무슨 피해 줬길래? 					 What harm have I done to you?
+ * 착각하다; be full of oneself
+ * #mistake A for B; A를 B로 착각하다; mistake me for my sister
+ * 착각하지 마 								 Don't flatter yourself!! 
+ * #kid; Don't kid yourself
+ * ‘착각은 자유 								 Keep telling yourself that
+ * 이번에 사람 잘못 고른거 같은데요. 				 You're barking up the wrong tree this time. 
 * 더 노력했더라면 좋았을 텐데... 						 If only I tried harder…
 * 왜 처음부터 그렇게 말하지 않았어요? 		 Why didn't you say so from the beginning? 
 * 구차한 변명 같았어요. 						 It seemed like a lousy excuse.
@@ -1908,6 +1951,7 @@ I am always overlooked(간과), never discount the contributions, put someone do
 
 # 설레다
  * 설레다 pit a pat = heart bounce, my heart goes pit a pit, you make my heart bounce, my heart flutter, I get butterflies, you give me butterflies
+* 설레이다; get butterfies = give someone butterflies
 
 
 # 싫다

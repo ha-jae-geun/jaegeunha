@@ -524,6 +524,7 @@
   * #inflammation; has an inflammation in her mouth
 * 배탈이 났어요. 	I have an upset stomach. 
   * 몸살이 났어요. 	I ache all over.
+    * 몸살; I am trying to fight off this cold.; Thick s blanket; I am suffering from a little bit of bodyache too﻿
   * 목이 부었어요. 	My throat is swollen. 
   * 상한 음식을 먹은 것 같아요. 	I think I ate something that was off. 
   * 공복에는 위가 따끔거려요. 	I get a stinging sensation in my stomach when I'm hungry.
