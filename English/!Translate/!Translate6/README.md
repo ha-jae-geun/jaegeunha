@@ -1,3 +1,28 @@
+# Recently, Lately, These days - 연습문장 8개 + "nowadays" / "currently"
+ * 1. "걔네 엄청 오래 사귀다가 최근에 결혼했어."
+  * They dated for a really long time and recently got married
+ * 2. "외국으로 이민하는 사람들이 최근에 엄청 늘었대요."
+  * The number of people moving abroad has greatly increased lately; 형식적
+  * There have been a lot of peoplo moving overseas lately
+ * 3. "요새는 명절 때 해외여행을 하는 사람들이 많아졌어요."
+  * Lately, a lot of people have been traveling overseas during the holidays
+ * 4. "최근에는 걔랑 연락을 잘 안했어."
+  * I haven't been in touch with him lately
+ * 5. "요새는 많이 안바빠요."
+  * These days, i'm not very busy
+  * Lately, i haven't been veery busy; 요새 많이 안바빴어요;
+ * 6. "저 요새 살 엄청 쪘어요."
+  * Lately, i've gained a lot of weight (lately)
+ * 7. "최근에 책을 하나 읽기 시작했는데 엄청 재밌어요."
+  * I recently strated reading this book.(책은 한번 읽기 때문에 recently); 책을 소개해 준다는 의미에서 a 보다 this
+ * 8. "처음에는 좀 힘들었는데 요새는 많이 적응이 되서 괜찮아요."
+  * At first, it was kind of hard but lately i've gotten much more used to it so i'm okay
+* Nowaways: 과거와는 달라진 지금에 대해 설명
+  * I used to drink a lot. I used to be a heavy drinker but nowadays, i just don't enjoy it anyymore
+* Currently; 현재는(지금은); 앞으로 때가되면 바뀔 것이라는 것이 예정되어 있는 상황; 일반 사람에게도 그렇게 느껴짐
+  * 현재는 주택에서 살아요; Currently, i'm living in an apartment
+  * 현재 내 폰은 오래된 폰이에요; My current phone is an older model 
+
 # 전치사 - PART 5 [ 시간편 ] - 시간을 가리키는 전치사 기본 개념 세우기
 * 전시회가 매년 1월에 한번씩 열려요; The exhibition is held once every year in january; once a year도 되는데 강조하기 위해 every
 * 올해에는 4일동안 열릴 예정이에요; This year, it's being held for 4 days 

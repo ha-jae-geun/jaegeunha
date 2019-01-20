@@ -1374,6 +1374,10 @@
 * 지도 위에 이름이 올라간다는 건 그만큼 사람들에게 중요하고 의미 있는 곳이 된다는 뜻이지요? 이처럼 어떤 사람이나 장소 등이 유명하게 된다, 성공하게 된다고 할 때 이 표현을 사용한답니다~^^
   * 퇴역 군인 역할이 그를 진정한 배우로 거듭나게 만들었다. His role as a retired soldier really put him on the map as a real actor.
 
+# 익숙
+* 8. "처음에는 좀 힘들었는데 요새는 많이 적응이 되서 괜찮아요."
+  * At first, it was kind of hard but lately i've gotten much more used to it so i'm okay
+
 # 인상
 * get the impression that 절 : 라는 인상/느낌을 받다
 
