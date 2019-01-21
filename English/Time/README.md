@@ -12,6 +12,22 @@
 		* : 입찰이 곧 시작될 것입니다. The bidding will commence shortly
 	* = 지금은 그 부분을 다루지 않도록 합시다. Let's leave that out for the moment. 2) for the moment 나 for now 는 [현재로썬, 일단은, 일단 지금은]을 의미하고 있어요.
 * 해가 뜰 떄; WWHen the sun's coming up
+	* 해가 갑자기 사라진다면 어떻게 될까요? What would happen if our sun suddenly went out
+	* 햇빛이 많이 들어옵니다. we have a lot of ##light during the day
+ * 햇빛이 쨍쩅 내리고 있어도 						 the sun is blasting
+ * 해가 서쪽에서 뜬다면 								 When pigs fly 
+ * 해가 중천에 떴어.							 The sun was high in the sky.
+ * 태양아래 새로운 것은 없다. 				 There is nothing new under the sun. 
+ * 내일은 내일의 해가 뜬다 						 Tomorrow is another day.
+ * 빨리 가자 해 ᄄᅠᆯ어진다 Let’s go, we’re losing daylight
+* 나무 그늘에서 쉬다 take a rest in the #shade of a tree 예문 발음듣기
+ * 부모의 그늘에서 벗어나다 achieve[establish; gain] independence from one's parents 
+ * 그녀의 얼굴에 그늘이 드리워졌다 A shadow fell across her face. 예문 발음듣기
+ * 그림자를 드리우다; #cast a shadow
+ * 검은 그림자 a black[dark] shadow
+ * 불길한 그림자 an ominous shadow
+ * 그림자놀이 making[throwing] shadow pictures, throwing silhouettes
+ * #그늘 #그림자
 * 그때부터; we've been friends #since then = #ever since = #from then on
 	* 지금까지 알져지지 않은 종류의 나방 a hitherto unknown species of moth  ˌhɪðərˈtuː] 
 	* 처음부터; from day one

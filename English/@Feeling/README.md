@@ -722,20 +722,27 @@
 * #embarrass, #shame, #humiliate - 창피하게 하다, 부끄럽게 하다 
 * ☆#panic #dumbfounded -> #shocked #surprised #speechless be confused
 * 부끄럽다 ^^get #embarrassed | #ashamed 잘 안씀(나쁜 실수를 후회할 때)
-* #굴욕; #eat #humble pies
-* 쪽팔려 they make me cringe
-* 쪽팔리게 하지 마 Don't put me on the spot / on the #center of attention(#attention)
-* #compromising; #낯 부끄러운
-* 낯 가린다; he is #shy of strangers
-* 그건 창피해 할 게 전혀 아니야. . 					 It's nothing to be ashamed of.
-* 이거 정말 굴욕적인걸. 						 hju:mílièitiŋ This is humiliating.
-* 민망해 							 I’m ashamed = i'm #blushing
-* 창피해하지마; ☆#there's no shame in ~
-* #몽상가 #예언가 #선지자 #visionary
-* 예언하다; #prognosticate a depression 불경기를 예측하다
-* it was written in the prophecy; #prophecy[|prɑ:fəsi] 
-* #전조 #predictor = #bellwether
-* #bewildered [biwíldǝr]
+	* #hindsight is 20/20; 후호돼
+ * ##regretful; #후회하는; look, goodbye
+ * ##regrettable; #유감인; 주로 사물이 주어; regrettable affair
+ * 의도치 않은 말을하다, 후회될 말 							 foot in mouth
+ * 나는 오늘 진실하면 내일 후회하게 된다고 한들 어떠하리 If i'm sincere today, what does it matter?
+ * 후회하지마 never #regret
+ * #repent
+	* #굴욕; #eat #humble pies
+	* 쪽팔려 they make me cringe
+	* 쪽팔리게 하지 마 Don't put me on the spot / on the #center of attention(#attention)
+	* #compromising; #낯 부끄러운
+	* 낯 가린다; he is #shy of strangers
+	* 그건 창피해 할 게 전혀 아니야. . 					 It's nothing to be ashamed of.
+	* 이거 정말 굴욕적인걸. 						 hju:mílièitiŋ This is humiliating.
+	* 민망해 							 I’m ashamed = i'm #blushing
+	* 창피해하지마; ☆#there's no shame in ~
+	* #몽상가 #예언가 #선지자 #visionary
+	* 예언하다; #prognosticate a depression 불경기를 예측하다
+	* it was written in the prophecy; #prophecy[|prɑ:fəsi] 
+	* #전조 #predictor = #bellwether
+	* #bewildered [biwíldǝr]
 * 처음엔 정말 #당황스러웠다. 		 At first I was embrasssed/overwhelmed/alarmed
 	* 무언가를 이해할 수도, 왜 그런 건지 설명할 수도 없어서 당황스러울 때 쓰는 단어입니다. 비슷한 의미의 단어로 embarrass 가 있는데요. embarrass 는 '사람들이 많은 곳'에서 ''누군가의 행동 때문에 '부끄러워' 당황스러운 뉘앙스인 반면, baffle 은 혼자 있거나 다른 사람들과 함께 있거나 상관없이 '이해가 안 돼서' 당황스러운 것이라는 점에서 차이가 있습니다.
 	* to throw off: 뜬금 없음에 당황; The student's comment threw me off
@@ -807,11 +814,10 @@
 	* #예상 외로 잘하다; #come up/turn up trumps; #trumps
 	* #동요 ##per·turb·ation 미국식 [|p3:rtər|beɪʃn] 1. 심리적인 동요 2. 작은 변화 
 	* 쉽게 동요하지 않는; #thick-skinned(#skin)
-	* [동사] ~ (between A and B) (격식) (감정・행동이 양극을) 계속 오가다
+	* [동사]  (between A and B) (격식) (감정・행동이 양극을) 계속 오가다
 	* Her moods #oscillated between depression and elation. 
 * 믿다
 	* 내가 당신이었더라면, 그를 믿진 않았을 거예요. If I were you, I wouldn't take a chance on him; take a chance on something
-
 
 
 # 부담
@@ -831,6 +837,7 @@
 	* 폐 끼치고 싶지 않아 							 I don't want to impose.
 	* 난 전혀 부담스럽지 않아. 						 It's not imposing on me at all.
 	* 인턴에게 압박을 줄 때가 있다. 			 for a new intern, I #pressure him to be more alert
+	* 이 여자는 압박감 속에서 강하다 this woman is a brick wall
 	* 부담스럽나 봐요 						it's uncomfortable, #burdersome
 	* 부담이 돼 								 is a burden to me
 	* 부담 갖지마 									 No pressure
@@ -927,7 +934,8 @@
 	* #좌불안석; being unable to sit comfortably[still](from anxiety) / be ill at ease 
 	* 정신을 잃을 정도로 무서웠어; It scared me out of my wits; out of one's wit: 제정신을 잃은; scare과 함꼐 자주 쓴다.
 * 자신감은 많이 있어요; i have a lot of confidence
-	* #자신없는; #faint-hearted
+	* #자신없는; #faint-hearted; insecure
+	* 그녀에게서는 자신감이 줄줄 흘렀다.[also V] [VN] She exuded confidence. 
 	* : (자신의 영역인듯) 편안해 하다, 잘 하다, 자신감 넘치다 be in one’s element
 		* 라이언은 정치에 대해 이야기를 매우 좋아하고 잘 한다. Ryan is in his element when talking about politics.
 * 부모님이 #엄하셔 my parents are #strict
@@ -1094,6 +1102,7 @@
 	* #box in / #stuck / #trapped; you got me boxed in
 	* i'm in a #fix/#dilemma/#jam/#hot water/#pickle = I have my back to the wall; i'm in a #double bind
 	* 팀을 곤란하게 하고 싶지 않다. 				 "I don't want to put the team on the spot
+	* 곤란한 상황에 처했다면; if you're ever stuck in a pinch
 	* 단장은 곤란한 입장이다. 				 Our general manager is on the spot 
 	* 프레드는 프로젝트를 이끄는데 동의했기 때문에 곤경에 처해 있다.
 	* Once we sign the contract, we are #on the rock/#on the hook.
@@ -1566,32 +1575,33 @@ I am always overlooked(간과), never discount the contributions, put someone do
 	* 무언가가 가치 없고, 바보 같아서 무시하고 비웃는 것을 의미하는 단어에요. 굉장히 강한 감정을 포함한 단어고요. 한마디로 리스펙! 이 없는 행동을 하는거죠. scorn
 		*  우리 생각과 다르다고 해서 그들의 견해를 경멸해선 안돼.  ex) We should not scorn their view just because it's different from ours.
 * 왜자꾸 비꼬아? 							 Why are you so #sarcastic?
-* 경시하다 #비하						 degrade, belittle; i'm not belittling girls
-* 셀프디스, #self-deprecating = #selfdiss #diss; disrespect
-* #비꼬다 #비하
+	* 비꼬는 말은 나를 미치게 한다.; The flea in my ears makes me crazy. 듣기 출처:YBM
+	* 경시하다 #비하						 degrade, belittle; i'm not belittling girls
+	* 셀프디스, #self-deprecating = #selfdiss #diss; disrespect
+	* #비꼬다 #비하
 * 그는 감정에 휩쓸리지 않는다. 			 He just doesn't get caught up in the moment 
-* 감정에 휩쓸리다 									 get carried away
-* #나쁜 감정 없어요						 I have nothing against them. 
-* 감정적으로 받아들이지 마 #don't take #offense = no offense, but
-* ‘그 사람 나한테 #악감정 있어. 				 #have it in for He has it in for me.
-* #원수 #증오 #불화 #악감정 #원한; we've got #bad blood (between); 
+	* 감정에 휩쓸리다 									 get carried away
+	* #나쁜 감정 없어요						 I have nothing against them. 
+	* 감정적으로 받아들이지 마 #don't take #offense = no offense, but
+	* ‘그 사람 나한테 #악감정 있어. 				 #have it in for He has it in for me.
+	* #원수 #증오 #불화 #악감정 #원한; we've got #bad blood (between); 
 * 불화를 개선하다. #mend fences
-* make bad blood between two persons; make[breed, stir up] bad[ill] blood between
-* '나는 집을 떠나는 것에 대해 불확실(만감)이 교차해	 I #have mixed feelings about leaving home
-* (격식)믿기 힘들다 					 I find it hard(느낌) to believe(행동)
-* 감정 숨기지 마 							 don't you fight the feeling
-* 감정을 숨기질 못해; ~ is #demonstrative
-* #shut out something; ~을 안보이게하다; doesn't mean to shut out your feeling
-* 감정의 응어리; #emotional baggage
-* #정서의; #emotional, #psychological, #inner - 정서의, 감정의 
-* #emo# 질풍 노도의 시기
+	* make bad blood between two persons; make[breed, stir up] bad[ill] blood between
+	* '나는 집을 떠나는 것에 대해 불확실(만감)이 교차해	 I #have mixed feelings about leaving home
+	* (격식)믿기 힘들다 					 I find it hard(느낌) to believe(행동)
+	* 감정 숨기지 마 							 don't you fight the feeling
+	* 감정을 숨기질 못해; ~ is #demonstrative
+	* #shut out something; ~을 안보이게하다; doesn't mean to shut out your feeling
+	* 감정의 응어리; #emotional baggage
+	* #정서의; #emotional, #psychological, #inner - 정서의, 감정의 
+	* #emo# 질풍 노도의 시기
 * #감정
-* ☆#NOT SO FAST; 성급하게 굴지마
-* #성급
-* 성미가 급한사람 a bag of cats
-* she is #short-tempered = #quick to anger 
-* She has a very #slapdash approach to keeping accounts. 2. #수박 겉핥기
-* #느긋하다; he is #slow to anger
+	* ☆#NOT SO FAST; 성급하게 굴지마
+	* #성급
+	* 성미가 급한사람 a bag of cats
+	* she is #short-tempered = #quick to anger 
+	* She has a very #slapdash approach to keeping accounts. 2. #수박 겉핥기
+	* #느긋하다; he is #slow to anger
 * 서두르는게 좋을걸 you'd better hurry
 	* #shake a leg(#leg)
 	* 천천히 꾸준히 가는자가 이기는거야 slow and steady wins the race
@@ -1705,16 +1715,33 @@ I am always overlooked(간과), never discount the contributions, put someone do
 
 # 짜증
 * 짜증을 내다; have/throw a (temper) tantrum
-* angry: 이유 있는 짜증; grumpy: 이유 없이 짜증(배고플 때)
- * be/get grumpy
-* be cross with; i'm cross with you
-* 만지지마, 짜증나							 Don't touch me., I'm cranky. 
-* 나 짜증낼거야. 심술부릴거야.						 I'm gonna get cranky.
-* 헉 진짜로?								 Get out of here!! 
-* #내 말이			 You said it, Exactly!. That's What I'm saying, tell me about it
-* 내 말이 그 말이야 tou took the words out of my mouth
-* 그러게 말이야.									Tell me about it.
-* 너 때문에 빵 터졌어.							 You crack me up.
+	* angry: 이유 있는 짜증; grumpy: 이유 없이 짜증(배고플 때)
+	 * be/get grumpy
+	* be cross with; i'm cross with you
+	* 만지지마, 짜증나							 Don't touch me., I'm cranky. 
+	* 나 짜증낼거야. 심술부릴거야.						 I'm gonna get cranky.
+	* 헉 진짜로?								 Get out of here!! 
+	* #내 말이			 You said it, Exactly!. That's What I'm saying, tell me about it
+	* 내 말이 그 말이야 tou took the words out of my mouth
+	* 그러게 말이야.									Tell me about it.
+	* 너 때문에 빵 터졌어.							 You crack me up.
+* 너 정말 짜증나 			 I’m feleling annoyed You’re really annoying, so #annoying
+ * #peeved
+ * #throw a tantrum; have a tantrum
+ * 아주 끈적거려 짜증나 죽겠네 					 I'm so sticky and I'm frustrated.
+ * 바비는 짜증 났어요. 							 Barbie got so irritated 
+ * - 너무 짜증나 								 It’s so annoying to 
+ * 나 짜증낼거야. 심술부릴거야.						 I'm gonna get cranky.
+ * #cranky; 짜증을 내는
+ * 블루워터 사람 좀 짜증나게 하지. 지겹다는 뜻 What a drag! Bluewater is such a drag. 
+ * #annoy, #irritate, #bother - 짜증나게하다, 귀찮게하다 
+ * 짜증나게 하다 								 drive me nuts
+ * 짜증나게 하지마 								Stop hassling me
+ * #irrate; 짜증나게 하다, #irritation; 짜증나게 함
+ * 그렇다고 재수 없어? 								 irritated by me
+ * ‘제이크 재수없어. 								 Jake sucks! 
+ * #밥맛이야; he is such a #wet noodle(#noodle)
+ * #sod 미국식 [sɑ:d]; sad all
 
 # 감동 
 * 완전 감동이였지.								 The show touched me. 
@@ -1739,6 +1766,7 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * 네, 저도 그 생각만 하면 가슴이 아파요. 				 Yes, I hate to think about it. 
 * 무슨 걱정거리라도 있으세요?					 Is something worrying you? 
 * 용기를 가지세요. 								 Take heart. 
+	* 이 아이는 그럴 만한 용기가 없어. He doesn’t have the stomach.
 	* 대담; * 너는 대담하게 행동을 하면서도 항상 즐기는 것 같아보여. You throw caution to the wind , but you always seem to enjoy yourself . 듣기
 	 * 대담한 audacious 미국·영국 [ɔ:|deɪʃəs]; ##audacity (←audacious): 뻔뻔함
 	 * #adventurous, #daring, #intrepid - 대담한, 과감한 
@@ -1885,6 +1913,10 @@ I am always overlooked(간과), never discount the contributions, put someone do
 	* 해를 끼치려던 건 아니었어. 						 I meant no harm. 
 	* 파티에 갈지 잘 모르겠어. 				 	I’m not sure I’ll be at the party. 
 	* 그 사람의 자질이 의심스러워. 			 daʊt I have doubts about his qualifications. 
+ * #dissappoint in+둘다, at: 사물만, with: 사람
+ * 1) We are disappointed at something
+ * 2) We are disappointed with/in someone
+ * 3) We are disappointed in something
 
 # 어안이 벙벙
 # 어처구니

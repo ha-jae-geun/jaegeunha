@@ -20,64 +20,12 @@
  * Roughly #judging by
  * its size and everything
  * ------------
- * ☆~ and ~ are #about the same in quality
- * ☆~ #equally adj
- * ☆not exactly same just #similar
- * ☆~와 똑같다; it was just like the one ~
- * ☆~에 더 가깝다; it's more like ~ these days
- * 다른 요건들이 같다면; all things being #equal
- * B보단 A에 가깝다; more of A than B; It's more of a sunstick than sunscreen
- * be likely to V(be disturbed), it is likely that S+V, #more likely to(#likely)
- * 동등한 #대등한 #coordinate; bilingual = #peer to peer
- * #똑같이 #in kind; respond in kind
- * do the same (thing); #same
- * 거의 똑같다; almost the same = #much the same
- * #the same as ~ + 명사/문장
- * #판으로 찍어낸듯한 #cookie-cutter
- * 내 인생은 똑같다 my life is #same O same O = #same all same all
- * 쉬핑 주소, 결제주소	Shipping address not the same as billing address
- * #둘다 괜찮은 것 같애 #same same #퉁 						#fair enough
- * fair enough: 처음엔 이해 못했지만 설명 듣고 나서 적당히 이해될 때
- * ##비긴걸로 하자 Let's #call it #even
- * #그거나 그거나								 same difference
- * #거기서 거기야 it's all the same
- * 항상 똑같지 								 same old same old
- * #다름없다; #little/no better than = #almost the same as
- * 이제 똑같다. 									Now we're even!
- * 내가 그에게 똑같은 짓을 했어 						I did the exact same thing
- * #equate to something
- * #동일선서ᅟᅡᆼ에서; #along the same line
- * #균일하게; #seamlessly
- * #동등 #동일 #같다 #똑같다 #가깝다
- * ☆make a difference[discrimination] / put price difference
- * ☆there is no real difference between ; I can't tell difference
- * ☆ #set apart; is set me apart from other candidates
- * *70도 차이; 70 degree #differential
- * 공감하다; relate to somebody; the song that anybody can relate to
- * 차이를 알겠어? 					 Can you tell/notice the difference? (tell: 알다)
- * #chasm; a chasm in the earth
- * ##difference ; 			I don’t see any difference, Your participation makes a big difference
- * A와 B의 #차이점을 말해주실래요? 			 Can you tell me the difference between A and B?
- * What difference does it make?
- * 차이를 모르겠다 I can't tell the difference = I can't distinguish if you're telling me the truth or not
- * 우리 코드가 달라					 We're different!, we have nothing in common
- * 우린 뭔가 같은 공감대가 없어 						 We have no chemistry
- * 공통점이 많아 								We have a lot in common
- * 나도 #공감한다. 								 I feel the same way.
- * #천지차이야 								 apples and oranges here
- * #문화 차이야 It's cultural difference
- * #문화적 요소 #cultural reference(#refer)
- * We #agreed to disagree and stopped fighting. 우리는 서로 차이점을 인정했고 그만 싸웠다.
- * #공감대 #공통점 #차이점 #코드
+
  * #impartial advice; impartial verdict
  * #equitable 미국·영국 [|ekwɪtəbl]; equitable treatment; an equitable division 
  * #inequity; 불평등; reduce inequity
  * 공정히 평가하다; do #justice to, do one justice, treat one fairly
  * ##공정 #공평 #평등 #붎평등
- * 다 헛수고야 				 	 I did it all in vain. | steve is on a fool’s errand 
- * ☆we wasted the whole day on a #wild goose; we spent the whole day on a wild goose chase looking for it
- * 헛수고하는거야							 You’re beating a dead horse
- * 3년 동안 했던 일들이 다 물거품이 됐어			3 years' worth of work went down the drain
  * #허탕을 치다; to #draw a blank(#blank)
  * #헛수고 #헛 | #물거품
  * #패턴 53#
@@ -86,93 +34,6 @@
  * 끝나고 보자 					 I’ll see you after(later는 막연하게 ‘나중에’보자)
  * #later on; 나중에
  * #제쳐 두고 #나중
- * 생각하기에 달려있다; it's #all up there
- * 만일 그것이 나에게 달려 있다면, 나는 ~할 것이다, #if it were up to me, I would 동사원형
- * [명사] (못마땅함) 독단(적인 행동・태도) dogmatism 미국식 [|dɔ:gmətɪzəm] 미국식 영국식 [|dɒgmətɪzəm] 
- * 즉석에서 판단하라 #think on your feet(#feet)
- * 판단을 잘하는 #decisive #determined
- * #call; #대충 판단해보면 #cursory call
- * 여기는 나한테 맡겨요 , 내가 그 일을 하게 해다오
- * Just let me take it from here.Just let me do it (alone) ə'loʊn
- * 이번 대선은 당신의 투표에 달려있다 		 This presidential election hangs on your vote
- * 너에게 #맡길게 					 It's up to you. I'll leave it at your discretion.
- * 당신의 판단이 맞는 것 같아요.						 I trust your judgment.
- * 맡겨주세요; #consider it done
- * 나에게 맡겨요. 								 Allow me. 
- * 그 사람판단력이 정말 날카로워 						 He's gotta 20/20 vision. 
- * 첫인상으로 그녀를 판단하지마 				 Don’t judge her by your first impression.
- * 판단을 흐리게한다 							manipulate the decisions
- * #판단력 있는; #judicious 미국·영국 [dƷu|dɪʃəs] 
- * #순간적인 판단; make #snap judgements
- * #판단 #달려 #맡겨요 #맡기다 | #독단
- * ☆take it easy on him = let it slide = cut someone some slack = give me a pass = get away something
- * let me off the hook = look the other way
- * 제가 오늘 첫 날인데 봐주세요. 참아주세요, 좀 봐주세요. Please bear with me.
- * ‘눈감아주다 								 I'll let it slide (this time)
- * to #turn a blind eye(#blind)
- * #쫌 #아 쫌
- * 걔 사정 좀 #봐줘. 너무 #다그치지 말고 말이야. 느슨한, 한가 You have to cut him some slack.
- * #let it pass = give ~ a break
- * #don't give someone such a hard time
- * 봐주세요 	 Give me a break! | let something/someone slide let it slide only this time
- * 한번만 봐주세요 Let me ##off this once please
- * 걱정하지마 너한테 #살살 할게.				 Don’t worry, I’ll go easy on you.
- * 살살해 		 	 be a little #gentle with him, #easy does it, take your time
- * #let up; 느슨해지다; #해이해지다
- * #느슨한; #lax; laws is lax
- * 나 좀 다그치지 마. 								 Don't grill me. 
- * 너 휴가 동안 내가 니 일 대신 봐 줄게. 			 I’ll cover for you during your vacation.
- * #예의고 뭐고 없이 #unceremoniously
- * #인정사정 봐주지않ㄱ; #red in tooth and claw
- * #살살 #봐주다 #인정사정없이
- * #혼자서, #지혼자, #혼자 힘으로, #스스로에게 	 by oneself, of itself, for oneself, to oneself
- * = on one's own
- * #single-handedly; work single-handedly
- * #혼자에요; #Only me
- * #자발적으로 #of one's own accord(#accord) = #by one's own choice = #voluntarily
- * #spontaneous offer of help; spontaneous emission; #자연방출
- * #재귀대명사
- * 알아서 해 								 You are on your own
- * 내가 알아서 해; #i know what i'm doing
- * 혼자였다 #keep to oneself; kept almost entirely to himself
- * alone, solitary,[sάlitèri/sɔ́litəri isolated – 혼자 <-> accompanied – 동행한
- * 여기는 셀프 주유소입니다.				 This is a self-service gas station.
- * 내 일은 내가 알아서 할 수 있어!						 I can take care of myself.
- * 혼자 힘으로 하려고 하지마세요~ 					 Don't try to go it alone. 
- * (곧 내가 다 해먹을거다)			 #run the show	 Soon I'll be running the show
- * 혼자 간다; #go stag(#stag); 파티, #무도회 따위의 큰 행사에 파트너 없이 혼자 가다
- * ^^혼자 공부했다; I learned to read on my own <> alone(신체적으로 갇혀서)
- * #혼잣말				 I’m thinking out loud | i’m thinking aloud | i’m talking to myself
- * #solitary; make a solitary journey, #solitary confinement
- * #독자적으로; 
- * 그는 자신의 독자적인 영역을 구축했다 He established his own independent domains. 
- * 그는 당내에서 독자적으로 행보해 왔다 He has acted independently within the party. 
- * 그 회사는 이번 신기술을 독자적으로 개발했다
- * The company developed this new technology independently[on its own].
- * 혼자 힘으로; #single-handedly; he single-handedly took care of the problem
- * #셀프 #혼자서 #알아서
- * tell/distinguish A from B: 겉모습, 외관 구별 | distinguish/tell the difference between A and B: 성격, 내재
- * be classified into somethingI#classify) #tell ~ apart
- * 난 구분할 수 있어요.							 I can tell the difference.
- * ‘구분 못하겠어 								 I can’t tell them apart
- * 설문 조사 결과는 연령별로 분류되어 있다 classify sb/sth according to sth
- * The survey results are classified according to the age of the respondents.
- * #compartmentalize; [kǝmpὰːrtméntǝlàiz]; #구획; 
- * 법적으로 맥주는 식품으로 분류된다 classify sth as/under sth
- * In law, beer is classified as a food product.
- * 책을 장르별로 분류해야 한다 	 classify sth by sth You should classify the books by genre.
- * 문서를 파일 세 개로 분류하세요 	 sort sth into sth Sort the documents into three files.
- * 모든 책들은 알파벳순으로 분류되어야 한다 sort sth by sth
- * All the books must be sorted by alphabetical order.
- * 일단 빨래에서 흰색 옷을 분류하세요 sort sb/sth out from
- * First sort the white things out from the laundry.
- * #선별하다; #cherry pick
- * #segregate
- * #sort into; sort socks into various sizes
- * #분류 | #구분 #구별
- * 
- * #패턴 52#
- * 
  * #anyone=anybody, anyone: 격식, anybody: 비격식
  * 누구세요?(집) Who are you? / Who is it? -> 재근
  * 누구 ~ 사람: 							Can anyone?
@@ -186,25 +47,6 @@
  * #누구나 아는 사실이야 #everyone knows that
  * #누구게; #guess who
  * #누구야 #누가 #누구보다
- * #cover, #conceal, #hide, hide out(잠복);#mask; try to mask something - 감추다, 숨기다 <-> reveal - 
- * #cover one's tracks; you did a good job covering your tracks
- * #hole up; just hole up
- * my money is #burn a hole in my pocket = i'll spend whatever money I have
- * 드러내다 #lurk
- * ##conceal from , conceal evidence
- * #위장; a #front for something | #은폐: #cover-up
- * #camouflage- 위장, 위장하다; [|kӕməflɑːƷ]
- * 화장으로 숨기세요...					 Conceal the lovebite with makeup.
- * #sweep something under the rug(#rug)
- * 스카프로 덮어서 보이지 않게 하세요..				Cover the hickey with your scarf. 
- * 난 니가 내 주변에 숨어 있는걸 원치 않았어. l‘ə́:rkiŋ I didn't want you lurking around me,
- * 너가 숨어가지고 준비하는 영상도 있어	 I think we even have a video of you camping out
- * 숨은 뜻을 읽어야만 해. 					 You have to read between the lines. 
- * 그 도시는 엷은 안개에 뒤덮여 있었다			 [ʃraʊd] The city was shrouded in mist.
- * 숨지 말고 어서 나와 								 show yourself
- * #덮혀있다; be #covered by/with
- * #잠재하는; #latent; latent talent
- * #숨다 #숨기다 #은폐 #감추다 #가리다 #덮다 | #뒤덮다 #잠복 #위장
  * 걔 잠수탔어 								 He went underground
  * The submarine had had time to #submerge before the warship could approach.
  * #잠수
@@ -249,81 +91,14 @@
  * #break it up
  * 
  * #패턴 51#
- * 일들이 꽤 빡빡했어/정신없이 바빴어 				 Things have been pretty hectic
- * ---> hectic 대신 busy를 써도 됩니다 ---> Things have been pretty busy 
- * 일정이 잡히면 알려줘
- * Please let me know when your plans are fixed () = Please let me know when you fix your plans 
- * 일이 산더미다 							 I've got a ton of works ()
- * 충격으로 정신이 멍해졌어				 It hit me like a ton of bricks 
- * #hectic
- * 1. 've been busy to study lately'처럼 이 유형에서 'to + 동사'를 쓰는데 문법에 맞지 않으므로 '-ing'형으로 쓰셔야 합니다. I've been busy doing homework all day. 
- * 2. I was too busy to __ . 위의 표현들처럼 바빴다는 의미로 쓰지만 정확히 무엇 때문에 바빴다는 언급 없이 너무 바빠서 뭔가를 놓쳤다고 할 때 쓰는 유형입니다. 
- * I feel so bad. I was too busy to go to my daughter's recital yesterday. 
- * ☆#full plate = #full schedule; my plate if #full; I have my plate full
- * ☆be snowed under = up to one's necks/ears/eyeballs (in) = up to my neck in
- * ☆#things have gotten hectic
- * What keeps you so busy?
- * #정신 없는; #whirlwind tour
- * fre·net·ic [frə|netɪk] 일이 정신없이 바쁘게 돌아가는 현장 a scene of frenetic activity예문 발음듣기
- * 정신이 없다 I'm losing my mind, I'm so out of it
- * #on the move; she is always on the move; 바쁘다
- * up to my neck/eyes, in a rush, hectic, I really have my #hands full.
- * ○ tied up with ~으로 바쁘다, have my hands full 
- * 요즘 회사에서 미친 듯이 바빠요 Work has been crazy lately > Things have been hectic at work
- * 너랑 진짜 얘기좀 나누고 싶은데 내가 지금 좀 바쁘다I really want to chat with you but I'm in a rush
- * 바쁘게 지내고 있어; i've been keeping myself busy
- * #as busy as grand central station; 매우 바쁘다
- * #눈코 뜰 새 없이 바쁘다; i;m in a situation that doesn't allow me a moment to #blink
- * ~하느라 바쁘다						 I was in the middle of 명사/-ing
- * #slammed; I was slammed
- * 바뻐 									 My hands are tied
- * 응, 전혀 바쁘지 않아. 얘기해봐. 			 Yeah, absolutely. Free as a bird. Fire away.
- * 나 하루졸일 바빴지~ 바뻐 					 I 've been on the go all day.
- * 서류 업무 때문에 바뻐 				 I'm up to my neck/eyes with In the paperwork.
- * 일이 너무 바빴다는 걸 뭐. 					 He said he was up to his ears. 
- * 나 하루졸일 바빴지~ 바뻐 					 I 've been on the go all day.
- * 나도 그러고 싶은데 다른 일이 많아서 너무 바빠. 		 I’ve been swamped with other things.
- * #쩔쩔매다; #snowed under
- * 그녀 항상 분주해 					 She always seems to be on the move.
- * #jam; I am jammed all day
- * #북적대다; #bustle; the city is bustling; 
- * #bustle in and out; 사방으로 싸다니다, be in a bustle; 법석을 떨다, 활기가 있다.
- * 일을 #벌이다; #spread oneself thin(#thin); i've spread myself too thin
- * #바빠 #바쁘다 #바뻐 #분주 #부산한 #정신없이
- * #meat and potatoes, marrow of ~
- * 그의 주무기인 슬라이더							slider that was his go-to
- * 주력 제품 									 cash cow
- * 핵심적인 부분을 먼저 짚고 넘어가는 것이 중요하다. It's important to go through the #nitty gritty first
- * #heart; that was the heart of ~
- * ##주안점 #기조 Choice is the #keynote of the new education policy.
- * #factor; ~ is the factor
- * #kernel- (견과류・씨앗의) #알맹이, (사상・주제의) 핵심
- * where is the #beef; 알맹이는 어딨죠
- * #핵심을 파악했어; #gist; I got the gist;
- * #주력 #주무기 #핵심 #주 요점
- * 요점이 있다; go somewhere(2. 행선지가 있다)
- * 요점은 									 The thing is
- * ~라고 결론 내리다 			 conclude that; I can only conclude that you're insane
- * 생각한 후에 결론을 짓다; #put two and two together
- * ‘결론이 뭐야? 								 What's the #bottom line?
- * ‘요점이 뭔데? 								 What are you getting at? 
- * 요점이 뭐야 #drive at; What are you driving at
+ 
  * ------
  * Beat around the bush 
  * Stop beating around the bush. 
  * Stop skirting the issue
  * Stop talking around the issue
  * ------
- * 와이스는 그 문제에 대해 #돌려 말했다. 		 Weiss waltzed around the issue Monday
- * *having tact is good
- * #divert; 딴소리 you diverted me
- * ‘#우회적으로		 	 [sǝːrkjúːitǝs] talk circuitously = beat around the bush
- * #우회하다; #detour
- * #우회로; #bypass
- * [|di:tʊr] We had to make/take a detour around the flooded fields.예문 발음듣기
- * 와이스는 그 문제에 대해 돌려 말했다. waltzed/danced/tiptoed around the issue Monday
- * 소극적으로 피하며 결국엔 그 이슈 마주침<> #steer clear of: 논란 될 만한 상황 적극적으로 피한다.
- * 말 돌리지 마. #횡성수설 하지마. 핵심을 말해. Don't beat around the bush. Cut to the chase
+ 
  * ----------
  * Give it to me straight 
  * 
@@ -349,18 +124,6 @@
  * Let’s dispense with the pleasantries/formalities. 
  * Spare me the small talk. 
  * ----------
- * 단도직입적으로 말씀드리겠습니다			 I'll cut to the chase. / get to the point
- * #단도직입적으로 물어보는 것이 나을 것 같아서. 	 blʌnt I just thought I'd ask the blunt question.
- * I asked him #point-blank
- * 단도직입적으로 말해 							 Give it to me straight
- * #point blank; a point-blank refusal; refuse (to do) point-blank
- * 본론으로 돌아가죠 						 Let's get back on track.
- * 본론으로 들어갑시다. 						 Let's get down to business. 
- * 본론만 말해 #get to the point Don't digress
- * 본론으로 들어가다 							 Let's get back on track. 
- * 간단히 말하자면	 To put it simply Long story short, I am gooing to briefly talking about
- * ☆잘라 말하자면... 				"not mince words: 단도직입 nʌ́tʃèl In a nutshell…!
- * 단도직입적으로; #pointblank; I asked him pointblank
  * #말도 안 되는 소리 하네!					 That's out of the question.
  * 말도 안되는 소리; #listen to yourself; Are you listening to yourself
  * #그런거 ~ or something | and #stuff like that
@@ -431,32 +194,6 @@
  * ◇of의 경우는 재료의 형태(모습)가 남아있는 경우에 주로쓰입니다. 
  * ◇made 0f = made out of <> made up of: 개별 유닛들이 모여 구성 ##made of ##make of ##make
  * ^^#how -> #the way; 더 구체적인 표현; did you see the way she looks at me
- * ☆나의 유일한 방법이다; this is my own way of ~ing
- * 마지막 수단으로 at a last #resort
- * 무슨 수단을 동원해서라도 #by all means
- * 가능한 수단을 모두 쓰다; #leave no stone unturned to
- * 온갖 수단; #bag of tricks; with her bags of tricks
- * tack, trick, #scheme, tactic, #mean, #move, #manner
- * #trick to -ing
- * #leverage(2. #지렛대); 자신이 바라는 결과를 얻기 위해 행사하는 힘
- * #mechanism
- * #druthers; I lost my druthers
- * 쉬운 길을 택하기로 결정했어 				 I’ve decided to take the easy way out
- * 메이슨은 그 여자의 번호를 따낼려고 모든 수단과 방법을 시도했죠.
- * Mason tried every trick in the book to get her number.
- * 방법이 없네 there is no way to ~
- * 쉬운 방법이 없네					 No easy way out/No easy way around it
- * 완전한 방침 변경								a complete change of tack
- * 다른 방법을 써보는 거야 							I'm trying a different tack
- * 잘못되다; go south; korean market is going south these days
- * #어떤식 #in some way; 기분 #쌍하게 하다 #upset; did I upset you in some way?
- * 목표를 이루기 위해 온갖 수단을 다 쓰다; #leave no stone unturned
- * #음모; #conspiracy theory
- * #내 방식대로 할거야; i'll do it #my way
- * #전략가; a military #strategist
- * #수단 #방법 #방식 #길 #전략 #전술 #음모
- * 편법이란 없지 				 You can't bribe the door on your way to the sky
- * #편법
 * 꾸준히 하다; ☆#plug away; plug away (at something; #꾸준히 하다
 on a consistent basis
 * 털리다; ☆get my ass kicked; get the shit kicked; 1. 쳐맞았다; 2. 겁나 털렸다
@@ -480,7 +217,6 @@ on a consistent basis
 * ‘스스로 노력해야  You have to #put in the work/effort
 * #척하다; ☆##front; stop fronting
 * 밑바닥에서 여기까지 왔다; be #out here; we are out here
-* #비판하다; criticize, denounce < #assail, #berate, #revile  	 -> #throw shade; #shade
 * ☆잘라말하자면...                                             	"not mince words: 단도직입 nʌ́tʃèl In a nutshell…!
 * ~하고 나서야; it is(was) only after that ; 2. it is(was) not until
 * 왠지; #i have a feeling / Something tells me / #for some reason. somehow
@@ -500,18 +236,10 @@ I wanted to see if there ~
 * ‘할 말을 담아두다, #쌓인 게                                             	you’d better hold things back * not to argue
 * ☆I have a lot of #pent-up emotions
 * #임시변통, #해결책 quick fix; #sell you a quick fix
-* #임시; #tentative = #provisional; #indefinite #일시적인
-* #임시방편; we can't just #sweep this under the rug
 * ☆i'll get out of your hair; #번거롭게 안 하고 갈게요
 * He's been dragging his feet.
 * 책임 ☆i was #left holding the bag in the end
 * to have things on someone's plate(#plate); 책임지고 마쳐야할 일들이 있다.
-* 눈치 빠르다; pick up things quickly
-* 왜이렇게 눈치가 없어 We have no common #sense, = you don't take a #hint
-* ~ is #cluelesss
-* 눈치 보다 #read between the line(#line)
-* 눈치 그만 봐, 그게 더 짜증나             	 stop walking on eggshells around me! It’s more annoying
-* (ㅂ정적이 행동에 대해)눈치 채다; I think she's #on to us
 * ☆#wet blanket; #훼방꾼; 땀요로 불 끄기; don't be such a wet blanket
 * don't rain on my parade = don't be such a spoilsport
 * ☆#get out of hand; 통제가 안돼; everytime he drinks, he gets out of hand
@@ -528,7 +256,6 @@ fix up with someone
 * ☆내가 대리랑 얘기할게.; I'll have a word with Dary!
 * ☆take my word for it = you can bet your bottom dollar#last dollar
 내 말만 믿지 마세요. 다른 데서 더 알아보세요. Don't take my word for it.
-* ☆#왜곡하지마; don't twist my words(일부러)
 * ☆#앞서가지마   Don't #get ahead of yourself.
 * I doubt that; it's going to get cold(나의 판단)
 * I know I can <> I don't know if I can
@@ -627,7 +354,6 @@ when i'm #pressed for time, I usually
 * ☆~한 시기야; __ is the time of year that ~
 * ☆자주 하지는 않아; i don't __ that often
 * ☆What kind of ~ do you ~
-* ☆경향이 있다; #self-destructive; has a tendency to self-destructive at the critical moment
 * ☆…을 서투르게 #만지작거리다[손을 대다].                                                                            	 #tinker with
 * ☆What got in you interested in ~ / What interests you about ~
 * ☆필요한 모든 것은 #All it takes to master English is determination.
@@ -679,10 +405,8 @@ when i'm #pressed for time, I usually
 * ☆긴장을 놓을 수 없다; #stay/#keep someone #on one's toe; 
 * ☆#허점; #loophole; she infds a loophole in the gorvernment's restrictions
 * ☆세탁물 맡기고 싶어요; i'd like to drop off my laundry
-* ☆#체중계; I step on the scale every morning
-                                                                                                        	?
+* ☆#체중계; I step on the scale every morning                                                          	?
 * 어땠을까? What have you been?
-
 * ☆^^take a shower <> take the shower(샤워 헤드 가져가는 느낌)
 * ☆#homicide; be convicted of homicide 정당한 살인 + 그냥 살인 #murder: 범죄로서의 살인
 * ☆천재는 1%의 영감과; genius is one percent inspiration and ninety-nine percent perspiration
@@ -698,7 +422,6 @@ when i'm #pressed for time, I usually
 * i'm taking 19 #credit hours
 * ☆#유력 후보; he's a #shoo-in for the CEO job
 * (세력·권력 등이 있다) [형용사]; (힘이 있다) strong, powerful; (영향력이 있다) influential
-* #운동 신경; I have good #motor skills / #motor nerve = be #athletic
 * period of lassitude, (formal) the stage of ennui (in married life)
 * They grew tired[weary] of their married life.
 * ☆정당화 할수 없어; #make right; don't #make it right

@@ -284,6 +284,7 @@
  * 수지: 왜 이럴까
  * 스웨덴 세탁소: Happy birthday, 두 손 너에게, 목소리
  * 스윙스: A Real lady
+ * 스탠딩 에그: 여름밤에 우린
  * 시아준수: Thank U For, YOu are so beautiful, How can i love you
  * 신승훈: 이게 나에요, 나보다 조금 더 높은 곳에 니가 있을뿐
  * 신용재: 이노래, 너야

@@ -11,6 +11,17 @@
 
 # 전쟁
 * 포로 - be taken prisoner: 포로가 되다
+	 * prisoner of war 
+ * ◇prisoner 
+ * ∴ prisoner의 더 빈번하게 사용되는 의미는 ‘죄수ㆍ재소자’이다.
+ * ◇hostage 인질
+ * ◇captive (문예체) 포로
+ * ◇prisoner or captive?
+ * captive는 흔히 왕이나 왕족과 관련된 역사적인 맥락에서 발생한다. 이 단어는 또 정치적인 집단이 사람들을 억지로 억류하는 경우에 쓰인다.
+ * ◇prisoner는 전쟁 중에 사로잡힌 사람들을 가리키는 뜻으로 더 자주 쓰인다.
+ * ◇detainee (보통 정치적 이유에 의한) 억류자
+ * #prisoner# / #hostage# / #captive# / #detainee# / #prisoner of war#
+ * 'prɪznə(r) 'hɑ:stɪdƷ 'kӕptɪv di:teɪ'ni:
 	* 미국인 두 명이 포로가 되었다. [ex] Two Americans were taken prisoner.
 	* 우린 그를 포로로 잡았다. [ex] We took him prisoner.
 	* : 그대로 해석하면 포로를 잡지 않는다는 말로, 포로를 잡는 대신 적을 몰살한다는 뜻이죠~ 상대를 고려하지 않고 무자비하게 자신 의지대로 행동하는 걸 가리키는 표현으로 사용한답니다. 타협을 일절 하지 않는다는 의미!

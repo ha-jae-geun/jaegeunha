@@ -34,6 +34,102 @@
 * 집게사장이 돈을 긁어모으고 있어; Krabs is raking it in; rake
 * : 가치를 ‘지니다’라고 할 때 동사 hold 혹은 have를 써주세요. 그리고 금전적 가치(monetary value)라는 것은 화폐로서의 가치를 지니고 있다는 말입니다. 그 만큼 향신료가 귀한 대접을 받았던 것이죠.
 	* 2) hold monetary and cultural value
+	 * 세차 아르바이트는 학생이었을 때 #돈을 버는 유용한 방법이었다.
+ * Washing cars was quite a money spinner when I was a student.
+ * 학교에 컴퓨터를 공급하는 계약을 따서 힘을 안 들이고 돈을 벌어들였다. 	 힘안들이고 돈버는 사업
+ * The contract to supply computers to schools was a license to print money.
+ * 돈이 안아깝다.						 ~ is worth every penny. 1센트 동전
+ * 그가 남을 희생시켜 돈을 벌고 있다니 비열하다. line one's pocket: (남을 희생시키고) 돈을 벌다
+ * mi:n 'pi:pl 'pɑ:kɪt It's mean of him to line other people's pockets
+ * 잔돈 있어요? 돈 좀 쪼개주세요.			 Do you have change? Can you break it?
+ * 돈이 몸에 붙지 않다. 						 burn (a hole in) one's pocket.
+ * 크게 #데이다; #burn your fingers(#finger); 돈을 잃다
+ * 돈 낭비 하지 말고 #만일을 위해 #저축해 둬. 	 Don't waste your money. Save up for a rainy day
+ * #put (something) by
+ * #put aside
+ * #dosh; [dɑ:ʃ]
+ * #smacker; #영국돈
+ * 10대 돈 지칭: #dead president
+ * #역시 ##돈이군 									 Money talks.
+ * 두툼한 #돈다발; my money #thick; won't ever fold
+ * 친구는 인터넷 방송 사업으로 떼돈을 벌었다고 하더라고! #돈 벌다
+ * #make money I heard he’s made tons of money from internet broadcasting. 
+ * 돈이 돌지 않는다. 								 Money is tight.
+ * 내가 그럴 돈이 어디에 있어.					 I don’t have money to burn. 
+ * 돈은 그렇게 쉽게 생기는 것이 아니에요. 				 Money does not grow on trees.
+ * 세차 아르바이트는 학생이었을 때 돈을 버는 유용한 방법이었다.
+ * Washing cars was quite a money spinner when I was a student.
+ * #splurge on; 돈을 #펑펑 쓰다
+ * 차 수리를 위해서 모아둔 #자금을 써야했다.	 I had to dip into my savings to have the car repaired.
+ * #구호 자금 #relief fund
+ * #에 자금을 대다; #finance/#fund something
+ * 그들은 충분한 자금이 있었기에 신제품을 출시 할 수 있었다.
+ * They were able to launch new products because they are made of money.
+ * 은행 #잔고 확인하러 가야해 				 I have to check my bank balance.
+ * 잔고를 알고 싶어요. 						 I'd like to know my balance. 
+ * 우리는 #금전적인 어려움은 이겨내는 중이다 	we've managed to keep our heads above the water.
+ * 금전적 수입; #monetary gain #금전 거래: monetary transaction
+ * 지금 #재정적으로 #막막한 상황이지만, 버스를 탈 거야. 			 컬드섹: 답답한 상황
+ * #긴축 재정; #fiscal austerity, #retrenchment, a reduced budget = #tighten the budget
+ * #재정 위기; #financial crisis
+ * 앞길이 막막하다.								My future looks uncertain.
+ * I am in a financial cul-de-sac, but I'm going to take the bus.
+ * 최근에 #물가가 꾸준히 올랐습니다. 				Recently prices have risen steadily.
+ * #시세가 떨어지고 있다 
+ * ‘mɑ:rkɪt dɪ‘klaɪn The market price is on the decline[goes on declining].
+ * 
+ * Jenny는 매우 흥미로운 직업을 가지고 있지만 #연봉은 작다.
+ * Jenny has a very interesting job, but she's being paid peanuts.
+ * 내가 돈으로 보이니? 내가 돈 많아 보이냐? 			 Do you think I am made of money?
+ * 부자; #ballin', he’s #loaded #부유한 #well-off = #wealthy #affluent
+ * #벼락 부자; #upstart
+ * 벼락 같이 돈을 벌다; #coin money
+ * 넌 분명 #부자야! 							 You must be rolling in it.
+ * 내가 돈 많은 줄 아니? I am made of money?
+ * 부자병 거식증 			 æflu:énzə 1ӕnə2reksiə nɜ:rvoʊsə Affluenza Anorexia Nervosa 
+ * 우리는 틈새시장을 공략해서 무일푼에서 부자가 되었다. 			 빈털터리에서 부자
+ * By finding a niche in the market, we went from rags to riches.
+ * 넌 분명 부자야! 							 You must be rolling in it.
+ * 엄청 돈이 많아요. 						 He's loaded, he must be ballin‘
+ * #자금이 많다 #deep pockets; friends with deep pockets
+ * #금수저 #born with a #silver spoon in one's moutth = born in a #wll-off family
+ * 그는 #재력가의 도움이 필요하다고 말한다. 		 He says he needs a friend with deep pockets!
+ * 그는 꽤나 #잘 살다 								He must be ballin
+ * 그는# 유복하게 태어났다. 				 He was born with a silver spoon in his mouth.
+ * 하나는 #자수성가한 사람입니다.						 He's a self-made man.
+ * #궁하다 									 How needy
+ * #가난한; #destitute
+ * #궁핍하다; be #worse off
+ * 가난에 시달리는; #poverty-stricken
+ * be #hard up
+ * #빈곤해진 사람들이 전보다 늘어나고 있다. there are more people on the breadline than ever before.
+ * 저 #주머니 사정이 좀 안 좋잖아요. 				 I'm a little short these days.
+ * 나는 #빈털터리야 		 I'm flat broke! I'm really broke! I'm dead broke! I'm totally broke!
+ * 빈곤해진 사람들이 전보다 늘어나고 있다. there are more people on the breadline than ever before.
+ * 나 이번달 #적자야. 						 I’m in the red(black) this month.	
+ * #무일푼이예요 									 I'm broke 
+ * 돈을 모아서 그 사람한테 좋은 선물 사주자 	 let’s all chip in and but him a nice present
+ * ^^검소: #frugal; 돈을 아예 안쓰려는 느낌 #thrifty <> #짠돌이; #stingy, #cheap 
+ * #구두쇠; #miser; 마이저 = #scrooge, #tight fist, #penny pincher(<>waster), #cheapskate
+ * #cheapskate
+ * #불우이웃돕기 단체 가게; #Thrift store/shop
+ * #unthrift; 낭비
+ * #검소 #알뜰 #절약	thrifty, frugal			 By the way, why are you so thrifty?
+ * 절약하다; #scrimp and save; my parents scrimped and saved
+ * #scrimp on: 돈을 쓰다; food
+ * 절약할 시간이야 	 It’s time to tighten the #belt. = #bootstrap(부츠 끈); 다음 도약을 위한
+ * hrifty 라고 하면 알뜰한거에요. 알뜰한 사람은 절약을 잘 하죠. 뭐 하나를 사더라도 어떻게 하면 절약을 하는 사람이죠.
+ * stingy는[stíŋi] 인색한거에요. 구두쇠 같은 느낌을 주는 표현.
+ * cut corners (돈을 아끼다 =save money)
+ * #stretch a dollar(#dollar)
+ * ○ 유사표현 : be frugal of (절약하다), cut down one's expenses(비용을 줄이다), make ends meet(수입지출을 맞추다), meet a budget(예산에 맞추다), stretch a dollar(아껴쓰다-> 1달러를 쫙 펴서 최대한 버티다), tighten one's belt(허리띠를 졸라매다)
+ * ☆#소박 #현실적 #인간적	#소탈한					He's very #down to earth.
+ * The leader seemed the devil #incarnate. 그 지도자는 인간의 탈을 쓴 악마 같았다.
+ * #한낮 인간; #mere mortal
+ * #humane: #자비로운, #인도적인 = #charitable
+ * 자비로운 #bene#; good; 좋은; #benevolence
+ * 항상 돈이 모자라; i'm always #low on money
+ * 절약하는 생활								 a frugal existence/life
 
 # 숙어
 * 믿을만 한거야; you can tae it to the bank

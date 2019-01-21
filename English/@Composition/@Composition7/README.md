@@ -12,50 +12,6 @@
  * 내가 비명을 지르자 모든 사람들이 빤히 쳐다보았다	 I screamed and everyone stared.
  * 그녀가 질문자를 적의 어린 눈으로 빤히 쏘아보았다. 			 glare 노려봄[쏘아봄]:
  * 'hɑ:stl She fixed her questioner with a hostile glare.
- * ##look# / #glance#/ #gaze# / #stare# / #glimpse# / #glare#
- * 
- * 제가 저의 가족에 대해 말씀을 좀 드리고자 합니다.
- * I want to say something / a few words / a little about my family.
- * ◇say는 절대 사람을 목적어로 취하지 않는다.
- * ◇say something(무엇이라고 (말)하다)이라고 하거나 say something to somebody(누구에게 무엇이라고 (말)하다)와 같이만 쓴다.
- * 	◇say는 흔히 누구의 말을 정확히 그대로 옮길 때 쓴다:
- * 그는 앉아서 기다리라는 말을 들었다. 		 tell (지시ㆍ충고ㆍ명령의) 말을 하다, 시키다:
- * He was told to sit down and wait.
- * 그 편지에는 그에게 본부에 즉시 보고하라는 지시가 적혀 있었다.
- * instruct (비교적 격식)(특히 격식을 차려ㆍ공식적으로) 지시하다:
- * The letter instructed him to report to headquarters immediately.
- * 판사가 배심원들에게 #무죄 평결을 내리라고 지시했다		 .direct (격식) 지시[명령]하다:
- * ㄹ\The judge directed the jury to return a verdict of not guilty.
- * 
- * 그가 부하들에게 후퇴를 명령했다.		 command (권위 있는 위치에 있는 사람이) 명령[지시]하다:
- * He commanded his men to retreat.
- * ◇order가 command보다 더 일반적인 말로서 부모, 교사, 정부 등 권위를 갖는 어떤 위치에 있는 사람에 대해서도 쓸 수 있다.
- * ◇command는 order보다 약간 더 의미가 강하고, 명령에 대해 약간의 반감이 있거나, 허용된다면 반대가 있을 수 있음을 시사한다.
- * ◇이 단어는 보통 군대의 장교에 대해 쓰이고, 그 외에 아무 논란 없이 명령을 내리는 것이 정상적일 수 있는 맥락 속에서 쓰인다. 부모나 교사가 하는 말을 이 단어로 표현하는 것은 일반적이 아니다.
- * #command# #order# #direct# #instruct#
- * #헷달 16#
- * 큰 도로를 건널 때는 조심해라			 .main [명사 앞에만 씀] 가장 큰[중요한], 주된:
- * Be careful crossing the main road.
- * 그는 그 시스템을 설립하는 데 주요한 역할을 했다.		major [대개 명사 앞에 씀] 주요한[중대한]:
- * He played a major role in setting up the system.
- * ∴ major는 a 뒤에서 단수 명사와 함께 또는 관사 없는 복수 명사와 함께 매우 자주 쓰인다. 이 단어가 the나 my / your / his / her / our / their와 함께 쓰일 때에는 ‘가장 큰[중요한]’을 뜻한다:
- * 여기서 우리의 가장 중요한 관심사는 빈곤과의 싸움이다.
- * Our major concern here is combatting poverty.
- * ∴ 이런 뜻일 때의 major는 사람들이 가진 생각이나 걱정거리에 대해서만 쓰이지 물리적인 것에 대해서는 쓰이지 않는다. 또한 main보다 더 격식적이다:
- * 그는 그 운동의 핵심 인물이었다. 	 	 key [대개 명사 앞에 씀] 가장 중요한[핵심적인 / 필수적인]:
- * He was a key figure in the campaign.
- * ∴ key는 상업이나 정치적인 맥락과 관련하여 매우 자주 쓰인다. 이 단어는 어떤 생각들에 대해서 말할 때나, 어떤 상황에서 사람이 하는 역할에 대해서 쓸 수 있지만 물리적인 것에 대해서는 쓰지 않는다.
- * ∴ key는 major보다 약간 더 비격식적인데, 특히 ‘명사+연결 동사’ 뒤에 쓰일 때 그렇다:
- * 중심 이슈는 팽배해 있는 인종 차별주의이다. central (비교적 격식) 중심 되는[가장 중요한]:
- * 'waɪdspred The central issue is that of widespread racism.
- * ∴ central은 key와 비슷한 방식으로 쓰이지만 더 격식적이다. 이 단어는 sth is central to sth else(~는 다른 ~에 중심이 된다[가장 중요하다])라는 구조 속에서 가장 흔히 쓰인다.
- * 이것을 생략하는 주된 이유는 시간 부족이다. principal [명사 앞에서만 씀] (비교적 격식) 주요한[주된]:
- * The principal reason for this omission is lack of time.
- * ∴ principal은 대개 반론의 여지가 없는 사실을 진술할 때 쓰인다.
- * ∴ 의견을 말할 때나 자기 관점을 다른 사람에게 설득하려는 경우에는 key나 central을 쓰는 것이 더 일반적이다:
- * major > key, main #main# #major # #central# #key# #principal#
- * 
- * #헷달 15#
  * give / had + hard time
  * 나 힘들다.			 	 I am having a hard time. I feel hard.(야한 표현)
  * 고생 시키지 마세요. 				 Don't give me a hard time.
@@ -113,16 +69,6 @@
  * #recommend#
  * recommend+{ that+주어+(should)동사 원형 / 목적어 + to,for + 목적격} 목적어 + to+v 불가
  * 그는 나보고 들릴 것을 추천했다. He recommended that I stop by.
- * 
- * #company#
- * 일행 있으세요? 					 Do you have company(관사 불가)
- * 작업 멘트 일행 필요하세요? 					 Do you have some company?
- * 나 누구랑 같이 있어서 전화 끝어야 해. 				I've got to go. I have company.
- * 같이 있다 						Keep me company; I'll keep you company
- * keep you bad company; 나쁜 애들과 어울리다
- * 
- * 
- * 
  * #know# #found out#
  * 나는 작년에 네 사이트 알았다. 					 I found out your site last year
  * knew를 쓰면 지금은 모른다는 뜻, 차라리 Have you ever heard of ~
@@ -138,26 +84,6 @@
  * #dear#
  * 내 친구에게 	 My big car. dear은 형용사이므로 소유격 뒤로 가야 함 (to) my dear friends. 
  * #헷달 13#
- * 일반 전화, 휴대 전화 대비 유선 전화: #landline
- * 선을 넘었네요 								 I was out of line
- * #draw the line; 선을 넘지 마; don't #cross the line
- * #공과 사는 구분하겠어요						 I'm drawing a line
- * 일자로 기다리고 있다. 		기다리는 걸 강조하려면 wait을 쓴다 line은 세로로 기다린다는 의미
- * stand(wait) in line
- * 일렬로 서있다. 		 보통 물건들이 가로로 펴져있거나 사람이 가로로 서있는 모습
- * stand in rows(in a row) 
- * #수작 거는 거였어 it was a line 수작을 걸다; make a pass at someone(성교롤 목적)
- * #개수작 마 #Nonsense
- * 문장과 문장 사이를 읽어라(속뜻을 봐라) Read between the lines
- * 훌륭한 오프닝 멘트였어 It was great oepning line
- * 한 #줄씩 #line by line; read through your resume line by line
- * #생산 라인, #유지 비용, #외부 제작, #본사 
- * product #line, #maintenance costs, #outsource, #home office
- * #headquarters = #head office = #main office = #home office
- * #churn out; 대량 생산하다
- * ##electronic: 전자의, #electrician: 전자 수리공 = #line man : ##electric pole: #전신주
- * 눈치 보다 #read between the line(#line)
- * #way off line; #잘못되다; your life's been way off line
  * ##선 ##line# #row#
  * #alert, #attentive, #watchful - 경계하는, 주의하는 
  * 각각의 부지는 가시철조망으로 경계가 표시되어 있다. [|di:mɑ:rkeɪt]; demarcation
@@ -174,18 +100,6 @@
  * 왜 나한테 고함을 치고 그래? 화가 나거나 흥분했을 때 또는 주목을 끌고 싶어서 소리 지르는 것
  * Why are you yelling at me?
  * #yell# #scream# #shout#
- * ◇amusing은 사람을 재미있게 하는 것뿐만 아니라 즐거운 생각, 사건, 활동, 일 등도 묘사하므로, 이 단어들 중에서 가장 보편적으로 쓰인다:
- * an amusing party / game / evening
- * 즐거운 파티 / 게임 / 저녁
- * a funny / humorous / comic party / game / evening.
- * ◇humorous는 funny나 comic 만큼 뜻이 강하지 않고, 사람들을 큰 소리로 웃게 한다기보다 사람이 어떤 상황에서 유머를 읽어 냄을 뜻하는 쪽에 더 가깝다.
- * ◇comic은 특히 글이나 드라마 또는 일부러 연극조로 웃기는 것에 대해 말할 때 쓴다. (comic writers의 경우 외에는) 사람을 묘사할 때는 쓰지 않는다.
- * ◇funny는 사람, 농담, 이야기, 발생하는 일 외에 사람을 웃게 만드는 어느 것에 대해서나 쓸 수 있다.
- * #amusing# #humorous# #comic party# #game# #evening#
- * 
- * 결승 골, 동점골, 첫 골, 골세러모니 				 ‘i:kwəlaɪzər 1selɪ2breɪʃn
- * winning goal, winner / equalizer, opening goal, goal celebration 
- * 
  * ##ship#
  * #ship out; ~을 외국으로 보내다
  * -ship의 접미사는 자격,지위,성질 등을 나타냅니다.
@@ -195,28 +109,8 @@
  * #maybe# #perhaps#
  * 격식 / 위치
  * maybe는 비격식, perhaps는 좀더 격식체에 쓰여요. 공통점은 둘다 부사로 쓰입니다. maybe가 보통 문두와 문미에 주로 쓰인다면, perhaps는 문두, 중간, 문미에 다 쓸수 있습니다. 그래서 이걸 다시 써 본다면 You left them in the car maybe. 혹은 You left them, perhaps, in the car. 혹은 You left them in the car perhaps. 가 되는 거죠
- * 
- * #헷달 12#
  * #hold down, #curb
- * 유럽 연합은 공해 수준에 대해 엄격한 허용치를 정해 놓고 있다. 허용 한도에 대한) 제한, 허용치
- * The EU has set strict limits on pollution levels.
- * 당신이 인출할 수 있는 금액에 제한이 없다.
- * There are no restrictions on the amount of money you can withdraw.
- * 무기 규제							 (흔히 합성어에서) 통제[규제 / 억제]:							 		 arms control 
- * 우리는 극심한 시간 및 금전적 제약 속에서 일을 해야 한다. 	 (비교적 격식) 제약(이 되는 것):
- * kən‘streɪnt We have to work within severe constraints of time and money.
- * 정부가 일부 상품에 대해 수출 규제를 내렸다. 		restraint (비교적 격식) 규제[통제 / 제한]:
- * rɪ1streɪnt The government has imposed export restraints on some products.
- * 그들은 자신들의 힘[능력]을 제한하는 것은 그 무엇에도 저항할 것이다. 제한[한정](하는 행위ㆍ과정)
- * They would resist any limitation of their powers.
- * ◇restriction은 정부 당국 등에서 만든 법이나 규정이다.
- * ◇constraint는 만들어지는 것이 아니라 존재하는 한계이다. 하지만 이런 한계가 어떤 결정 때문에 존재하게 될 수도 있다.
- * ◇restraint도 존재하는 한계이다. 이것은 다른 누군가의 결정 때문에 외부적으로 존재하는 것일 수도 있고, 다른 사람들의 생각에 대한 우려, 스스로의 감정 등과 같은 내재적인 한계일 수도 있다:
- * moral / social / cultural restraints
- * 도덕적 / 사회적 / 문화적 규제[제한].
- * ◇limitation은 더 일반적인 뜻을 나타내어, 이러한 제한을 가하기 위해 사람이 만드는 법률일 수도 있고 이미 존재하는 어떤 사실이나 조건을 가리킬 수도 있다.
- * #이중 규제; #double regulation
- * ##억제 ##규제 ##제한 #restriction# #constraint# #restraint# #moral#
+ 
  * ##hope ##wish 
  * 주어 + hope + 문장 2. 주어 + hope + to V
  * I wish you
@@ -303,20 +197,10 @@
  * The train arrived right on time.
  * 시간 내에 그 일을 마칠 수 있어요?
  * Will you be able to finish it in time? in time제시간 내에
- * 시간 꼭 지키세요
- * (X) Please keep the time. (O) Please don't be late.
- * keep은 '약속이나 비밀 등을 지키다'에는 쓸 수 있지만 '시간을 지키다'에는 쓸 수 없다. 위의 표현 외에 "시간 지키세요"는 Please be on time. / Please be punctual. 등으로 말할 수 있다.
+ 
  * 버스로 가면 시간을 좀 벌게 될 거야
  * (X) We'll earn some time if we go by bus. (O) We'll save some time if we go by bus.
- * 
- * America
- * 아메리카 대륙의 다른 지역 출신 사람들은 America를 미국을 가리키는 의미로 쓰는 것을 좋아하지 않지만 미국을 그냥 America라고 칭하는 것은 아주 일반적이다.
- * 지리적 용어인 North America는 United States of America와 Canada와 Mexico로 이뤄져 있다.
- * 문화적 용어인 Latin America는 중남미에 있는 비영어권 국가들을 가리키는데, 이곳에서는 주로 포르투갈어와 스페인어가 사용된다.
- * 북미와 남미를 잇는 좁은 지역은 Central America 이다.
- * 멕시코도 라틴 아메리카의 일부이다.
- * United States of America는 보통 the USA나 the US나 the States나 그냥 America로 줄여 쓴다:
- * Latin American과 South American은 아메리카 대륙의 다른 지역들을 가리킬 때 쓴다:
+ 
  * #헷달 8#
  * 우리가 싸울 때 그는 계속해서 반박했다(핑계를 댔다)
  * ‘kɑ:ntrə|dɪkt He kept contradicting himself when we were arguing 
@@ -325,25 +209,6 @@
  * 그는 그 책에 대한 #저작권료를 받는다. 
  * #확보; #secure funds/budget/#copyright; #자금, #예산
  * He received royalties on his book. 
- * 저작권 #분쟁 #property disagreement
- * #공유 #public domain; The information has been placed in the public domain
- * there are many photos in the public domain that you can use for free
- * can you #share your idea with us?
- * #fair use; 공정 사용(저작권이 있는 문장을 판권 소유자의 동의하에 비평이나 인용을 위해 사용하는 것
- * allowed under #fair use
- * #위반; infringement 미국·영국 [infríndƷmənt]; #copyright infringement
- * #piracy 미국·영국 [|paɪrəsi]
- * #royalty; give me a 10% royalty on all sales of my books
- * #intellectual property
- * #patent; #특허
- * #trade secret
- * #rights holder
- * #exclusive rights
- * #property rights
- * #counterfeit; #위조
- * #reverse engineering; #역설계; (다른 회사의 상품을 분해하여 그 생산 방식을 알아낸 뒤 복제하는 것)
- * #저작권 #판권 #royalty#
- * 
  * 한 남성이 지난 주말동안 체포되었죠 / 전하는 바에 의하면(매체에 따르면/우발적으로) 그가 한 여성을 삽으로 강타한 이후에 말입니다. spade, scoop sku:p speɪd əlédʒidli ‘ʃʌvl
  * A man was arrested over the weekend after he allegedly struck a woman with a shovel. 
  * 
@@ -412,85 +277,6 @@
  * ~에게 ~을 지불한다; 1. pay the driver $100 2. I pay $100 to him 3. I pay for the service
  * 		 4. I paid $50 5. I paid $50 for the taxi 6. I paid for the taxi 
  * I paid 17 bucks for ~s
- * 오늘 월급 받았어 I got paid today = today is pay day
- * 월급타면 사줄게 i'll buy when I get paid
- * 대출을 갚다, 받다 #pay off a loan <> #take out a loan
- * 2. #보상받다 It will pay of someday
- * #최저임금; 최저임금제 the #minimum wage system 
- * 월급 올려주세요; I want a #raise
- * #월급쟁이; #salaried employee
- * #stipend 봉급, 급료(특히 성직자의 급료에 대해 씀)
- * a summer internship with a small stipend 적은 급료를 받는 여름 방학 동안의 인턴 근무
- * #월급; #monthly stipend
- * ##월급 #연봉 ##pay #wage #salary #earnings #income
- * #헷달 6#
- * 
- * 
- * 포로
- * 
- * 전쟁 포로(보통 군인)
- * prisoner of war 
- * ◇prisoner 
- * ∴ prisoner의 더 빈번하게 사용되는 의미는 ‘죄수ㆍ재소자’이다.
- * ◇hostage 인질
- * ◇captive (문예체) 포로
- * ◇prisoner or captive?
- * captive는 흔히 왕이나 왕족과 관련된 역사적인 맥락에서 발생한다. 이 단어는 또 정치적인 집단이 사람들을 억지로 억류하는 경우에 쓰인다.
- * ◇prisoner는 전쟁 중에 사로잡힌 사람들을 가리키는 뜻으로 더 자주 쓰인다.
- * ◇detainee (보통 정치적 이유에 의한) 억류자
- * #prisoner# / #hostage# / #captive# / #detainee# / #prisoner of war#
- * 'prɪznə(r) 'hɑ:stɪdƷ 'kӕptɪv di:teɪ'ni:
- * 그걸 꼭 말로 해야되니? do I have to make it #explicit	
- * *네 사랑을 표현해			 express your love, show her how much you love her
- * 사돈 남말하네 								 Look who's talking! 
- * #개소리하지마 		 bə‘loʊni That's baloney.(볼로냐 소세지 잡것들 모아 만듬), bullshit,
- * it's all #bunk
- * ‘무슨 소리야 							 where did that come from?
- * ‘x 같은 소리 하고 있네						 .You're talking shit. ~ my ass
- * ‘말이 되는 소리를 해 								 Tell me another.
- * ‘말같지도 않은 소리 하네. 						 Don't give me that (bullshit.)! 
- * ‘#허튼 소리 짓거리네 								 #shoot the bull 
- * 모두가 알고있지만 언급하고 싶지 않은 무언가야 		 is like an elephant in the room.
- * #말 조심해 								 Watch what you say!
- * 그 얘긴 그만하자									 Let's drop it. 
- * ☆그 말 꺼내지 마 #don't go there
- * *말 나오다 										bring up 
- * '#그 말 시작도 하지마 말 꺼내게 하지마 				 Don't get me started on that.
- * '#말 꺼내지마 					Don't bring that up again. Don't start that again.
- * '#한 입 가지고 두 말 하지 마! 	#break a promise, Don't #go back on your word/promise.
- * 그렇저럭 #의사소통은 합니다 					I can make myself understood. 
- * ‘나는 독일어로 #간신히 의사소통은 한다. 		 ‘dƷ3:rmən I can just about get by in German.
- * #타진 			 sound somebody out (about/on something) / sound something out
- * I wanted to sound him out about a job.
- * '말이 #헛나왔어요 						 It was a #slip of the tongue.
- * 나도 모르게 그냥 튀어나왔어		 It just slipped out, I just #blurted it out
- * #말 실수 it didn't come out right, that was a wrong word, 
- * That's not what I meant (to say) = I didn't meant it that way
- * #취소; I tack it back, I #tack back what I have just said ealier, 
- * 고마움의 #표시야					 It's a #token of my appreciation.
- * #털어놔 									 out with it
- * 고민을 털어놓다; #get off one's chest; get it off one's chest
- * ‘#토로 그 여자분 저에게 이혼한것에 대한 마음을 토로했어여!S
- * #횡설 수설 								 It's not just #gibberish
- * he poured her heart out to me about her divorce
- * 대화를 나누다 have a chat, #chop it up
- * #말을 걸다; #accost; she was acoosted in the street
- * #talk out; we gotta talk out the plan for the trip to LA; 부정: talk out the fight we went through
- * #대화로 풀다 					talk/hash out; I am trying to has out these details
- * #까놓고 말해서 								 let's not mince words
- * #bare one's soul(#soul); I bared my soul to you last night
- * #tell a soul; 이야기하다
- * #달리, 다르게 말해서 				put it another way, conversely/on the contrary
- * #다시 말해서 #let me #rephrase that, Let me put/say it another way,
- * ~와는 달리; #unlike ~
- * #이루 말할 수 없죠 #under statement(#statement)
- * ☆필요한 모든 것은 #All it takes to master English is determination.
- * ☆#필요하다면; #if needed
- * 말할 #필요도 없이; #not to mention ~; not to mention imaginary
- * ~가 필요하다; I need to get my hands on ~; that data
- * 첫 #발언; #opening line - 첫 발언
- * #통설; #orthodoxy
- * ### #수다 #소리 #전에 #말씀 #표명 #표시 #얘기 #이야기 ###말 #말 만해 | #의사소통 #튀어나오다
  * #stick out = #protude; Why is it stickin out like that
  * ##돌출되다
  * #assert, #state, #declare - (강하게) 주장하다 
@@ -508,9 +294,6 @@
  * 있잖아 								 'Guess what?’, tell you what
  * 있잖아요 						I’ll tell you what, #Here’s the thing
  * #있잖아
- * ^^#mouse; 생쥐; 긍정적인 이미지; 애완용, 실험용, 미키마우스
- * #rat; 쥐; 부정적인 이미지; 비열한 사람이라고 쓰이기도 함
- * #시궁창 쥐; #gutter rat
  * 쥐났다 					 My leg is asleep. I got a cramp in my sleep.(자는 동안)
  * 너 왜 절뚝이니 							 Why are you limping?
  * #발 #쥐
@@ -550,219 +333,7 @@
  * B:누구랑 대화만 하는데 이렇게 받는건 처음인거 같아. Me too. I don't think I've ever been under so much stress just having a conversation with someone. 
  * -i've never had ~ before = this is/has to be / must be / has got to be the best pasta i've had in years
  * -i don't think i've ever
- * --------
- * 처음 듣는 소식이네요, #금시초문	 This is the first i’m hearing of it, That’s news to me
- * 처음은 아니다. #초짜는 아니다.				 ##This is not my first rodeo.
- * #초보 등산객 아니야 novice=beginner=newbie=inexperienced person
- * #뉴페이스 ; 오늘은 새로운 사람들이 생긴 것 같네 It looks like we have some new faces today
- * I want to meet a new woman, I want to meet new people, I want to meet someone new
- * #신입: she is #new, 여기 처음이에요 I’m new here
- * 신병 모집자; #recruiters; ten things recruiters
- * ‘nɑ:vɪs I’m no novice hiker!
- * #근원 #요람 #cradle city
- * #신예; a #budding artist/writer 신예 화가/작가
- * #초기에 #early-on
- * #발판으로 삼다; #build on something; America was built on the spirit of industry
- * this is the first time i've ever been here
- * #처음부터 #애초에 from scratch, from square one. right off the bat, from the beginning, from #for the first time, the first #in the first place, from commencement
- * 처음 할 일은 처음에 하자; #first things first
- * 처음 본다; i've never seen | #For the first time
- * #처음부터 끝까지; from A to Z; here's the story from A to Z
- * 진전이 없다면 #기초부터 다시 시작하는 것이 좋아 If there's no progress, you'd better start at the bottom
- * ‘#기초를 다졌으니까, #기반, #토대 	 you got that foundation down | establishment of ~
- * 토대를 닦다; #pave the way for (reform)= make possible
- * *#주춧돌, #초석 lay the conerstone / foundation stone (of)예문 발음듣기
- * 모든 판매에 대한 기초 #fundamentals of how to sell anything
- * 너는 문제를 해결하려 하기 전에 기초적인 요소들을 이해해야만 한다.
- * ‘You need to understand the nuts and bolts before trying to solve problems.
- * ##부터; #as of 미래
- * 다시 처음부터 다시 시작하는 것이 효율적이다 	 It's more efficient to do it #from scratch again
- * 이걸 해결하지 못하면, 우리는 원점으로 돌아가야해if we fail to solve this, we have to #go back to suqare one
- * •	#come back #go back; 듣는 사람 기준
- * 사람/기관 최근에 ~을 시작했따: recently launched
- * 궤도에 올랐다(망했다의 반대)						 We’re in business
- * #commencement; i'm honored to be with you at your commencement
- * 시작하다: #initiate = #begin = #start = #commence = #embark on(배에 올라타다) = #set out/off(#착수)
- * #takeoff
- * #undertake
- * #개시 #onset; onset of diseases; has onset Alzheimer's
- * #서막; #prelude to ~
- * #dive in/into; #dive in; let's dive in; 갑자기 시작하다; I just dived into it
- * 첫 단추를 잘못 끼다; #get off on the wrong foot
- * #launch into; #뛰어들다; launch into his war stories
- * 이번 프로젝트를 #시작하는 거에 대해 기대가 크다. 		 순조롭게 시작하다 deal: 프로젝트
- * We're looking forward to getting the deal off the ground.
- * ##기본이 안됐네 it was wrong form the beginning
- * 최소한의 기본적인거잖아; it's pretty much the #bare minimum
- * 시작하기 전에 								 now to begin with
- * ‘~하면서 시작하겠습니다. 				 Let me start by –ing | Let's get the day started
- * ‘~부터 시작하도록 하겠습니다. 				 We'll start off/out with/kick it off Taro, 
- * 시작해보다 								 Let's jump right into it
- * ‘새로운 장을 열었어요 						 I’m turning over a new leaf
- * 그가 자신의 긴 이력을 이야기하기 시작했다. 	 He #launched into a lengthy account of his career.
- * 강속구를 장착하고 순조로운 출발을 보인다.			 hits ground running , heater in tow.
- * Bill Gates는 처음부터 현재까지 Microsoft를 운영합니다. Bill Gates built Microsoft from the ground up.
- * ☆#at first; 처음에는 / #애초에: #in the first place, #to begin with | #머저: #first; he hit me first
- * 처음으로: #for the first time; I met her in person for the first time
- * it's my first time to V(미래에 대한 내용)/-ing(하는 것이 처음이다)
- * 다시 처음부터 시작해야 될 것 같다. 		 we'll have to go back to the drawing board.
- * that was a first ~
- * get ~ #on the road; get ~ started
- * *재시작 					 back to the drawing board drawing board: 재도판
- * 기초로 돌아가라; #back to basics
- * 다시 시작하다 #start over; I wish I could start over
- * #get together; get your act together; #act; #정신차려라; #전열을 바로 잡아라; #다시 시작하라
- * #재개; resumption 미국·영국 [rɪ|zʌmpʃn]; to accept his proposal for the resumption
- * Bill Gates는 처음부터 현재까지 Microsoft를 운영합니다. Bill Gates built Microsoft from the ground up
- * 그녀는 막 외교관 생활을 #시작하려는 참이다. 	 She is about to #embark on a diplomatic career
- * 그래서 난 자원봉사자로 그 마을에 봉사하는 일을 시작했어. 책임감을 가지고 하다
- * So I stepped up to the plate as volunteers to serve the community.
- * #시작이 힘들었다; #get off ot a rocky start
- * #inception
- * #get going
- * 글자 A로 시작하는 그림을 찾아보세요.		 Find the picture that begins with the letter A.
- * 새롭게 시작할거야 그리고 더 잘될거야!		I'll #turn over a new leaf and do better.
- * 제가 만든 음식이에요. 					처음부터 	I made it from scratch. 
- * 우리는 광고 캠페인을 사용함으로써 일을 시작해야만 한다.
- * We should get the ball rolling by starting the advertisement campaign.
- * 시작부터 좋지 않았다.			 wӕk: 후려치다 was out of whack from the get-go 
- * 오늘은 #일진이 좋은 날이었어. 			 Today things went my way. go one’s way 
- * *일진이 사나왔어 							I was having a bad day
- * 다시 처음부터 시작해야 될 것 같다. 		 we'll have to go back to the drawing board.
- * 그것은 #금시초문인데요.							 That is news to me. 
- * 처음부터 나는 이게 미친 밤이 될거라고 짐작할 수 있었다. 	 Right off the bat, I could tell this was ~
- * 나는 빅리그를 처음으로 경험했고 긴장감을 떨쳐냈다 	 I got my feet wet and got all the jitters out
- * Are you #get along
- * 제조 과정은 #진행되고 있는 중이다. 		 The manufacturing process is in full swing.
- *   #할수록; #every time, #each time
- * #갈수록 *as the story progress = as I got closer to the end = #Towards the end
- *   #come along; as it comes along
- * #매끄럽게 진행; we have to ☆#hit the ground running
- * #go on; you have any promotions going on
- * will last for 시간; ~동안 진행될 겁니다
- * *게임은 진행중이지 The game is #afoo = #ongoing; ongoing #issue
- * #advance, #process, #proceed - 진행하다, 진전을 보이다 
- * #수월하게 진행되다, 잘되다 #fly; not going to fly; #with flying colors
- * #가속; #acceleration, #hastening, #speeding up - 가속, 빨라짐 
- * #가속화; is accelerating #gradually = is getting faster = #pick up; picking up speed
- * #계획대로 잘 #진행되고 있어; it goes like #clockwork
- * #pan out; 일이 진행되다; it didn't pan out well
- * #마스터 했어 you caned it
- * 지금 아니면 #끝이야							 It’s #now or never
- * #cross the 't's and dot the'i's; 필기체에서 제일 자지막에 t와 I를 옆으로 긋고, 점을 찍으면서 쓰게
- * ‘sign off 				 sign off early: 퇴근, 메시지의 끝, 사인을 하여 승인
- * ‘역대급으로 실망스러운 #결말이야 			 THat’s the biggest anti-climax ever
- * 예상치 못한 결말이었어 The end was #unexpected
- * 결말이 보여; the end is in sight; #in sight
- * ‘너랑 끝이야 						 I'm through with you I'm over you.
- * ‘끝난건 끝난거야 					 	 What’s done/gone is done/gone
- * 끝이지? Are you through?
- * ‘이미 끝난 일은 번복될 수 없어 					What’s done cannot be undone
- * 끝내다 		 get through (일 등)을 끝마치다 You still have to get through all your exams first.
- * ‘끝내자										 Let's wrap it up. 
- * ‘이게 바로 육체의 #정점이다 				 This is the finale of the human body
- * the #pinnacle of something
- * #zenith; zenith of glory
- * #1등; #top something = it takes the prize
- * #우승; be #crowned premier league champions
- * ‘그녀 경력에 있어서의 절정				 [|pɪnəkl] the pinnacle of her career
- * #종료 end, close, conclusion, come to an end, be dismissed(class)/finished/over/closed
- * #terminate; #위약금; termination fee
- * #끝 cusp [kʌsp] = #time's up 
- * #끝났습니다 You're it's #done
- * ~끝나면 					done with ~; when you're done with the paper
- * ‘끝났다! 								 It’s / That’s a wrap
- * #마무리 하죠 Let's call it a day. Let's wrap it up. Let's finish for today, get this over with, call it a night: 
- * #mop up; I better go mop this up
- * 마무리 짓다; #finalize
- * 마무리하다; ~ Is for you to have a little closure
- * #마치다; #conclude with
- * 결국 ~하게 되다; #wind up; #wound up; it's how we wound up at his cousin
- * the #curtain falls (on something) / #curtains for something
- * 끝내고 자러가자
- * 빨리 끝내자 	 		Let's get it over with, sign off, wrap up, get ~out of one's way
- * #top something off(with something), i;m just onna get this out of my way. get ~ it done
- * #최후의 한방; 끝장; 최후의 #일격; #coup de grace(#grace); you #supplied the coup de grace
- * #볼장 다 봤다; #jig's up
- * 이미 끝났어 								 The damage is done
- * 막판에,끝나간다	 경주 마지막 직선 주로 down the stretch, in the home stretch, at the end
- * 서서히 끝나다 #wind down
- * 빨리 끝내자 								 Let's #get it over with.
- * 히드라를 없애버리면 좋겠군 						 This puts an end to ~
- * 오늘 끝낼 수 있어? 마칠수 있어? 			 Can you #get it done today?
- * 모든 것이 끝난 것처럼 보였다. 				It looked like #Elvis had left the building.
- * 끝낼 수 있을지 모르겠네 				 I am not sure if I can finish it off
- * 오늘 일은 여기에서 마무리하고 가서 맥주 한 잔 하자! 	 Let's call it a day and go grab a few beers.
- * 기다리는 것은 그만 				 be through: 끝내다I am through waiting.
- * 그 프로젝트, 언제 끝낼 수 있을 것 같아요? 
- * rӕp ‘prɑ:dƷekt When do you think you can wrap up the project? 
- * 그녀는 학기말 리포트를 항상 마지막에 제출했어 She always turned her term papers in at #eleventh hour.
- * 나는 너랑 끝이야 				 We're done for the day. I'm through with you.
- * 시즌이 거의 끝나간다" 				 "The season is in the home stretch“
- * 마지막은 					 the last time ~ was; the last time I talked to Carl was
- * 마지막으로, 그렇지만 앞에 말씀드린 것들과 마찬가지로 중요한 #last but not least(#least)
- * 그녀는 학기말 리포트를 항상 마지막에 제출했어 	 She always turned her term papers in at #eleventh hour.
- * #작별 #마지막 한잔만 더 						 one for the road
- * #adjourn; (회의) 끝내다; Shall we adjourn?
- * #끝날 때 까지 끝난 건 아니야; It's not over till it's over; = be #still in the game(#game)
- * #막판에; #last minute = #last moment; 형용사
- * #최종단계; we’re in the #end game
- * #last over; he last over who whould win was uncertain
- * #cap off; Our works must be capped off at noon. 
- * #out of the way; #끝난
- * 올 한해 마무리 잘해~!						 End this year on a good note!
- * 그는 멋지게 마무리하고 있다. 						 he is going out in style
- * 그 프로젝트는 이미 2달 전에 완전히 마무리 됐어!	That project was already #done and dusted 2 months ago!
- * #see it through; i'd like to see it rhough to the end
- * Finish where you #left off. 너 하던 거 마저 끝내. Finish what you started. 너가 시작한 거 끝내.
- * 전쟁이 #종말에 이르렀다.			's3:rkl dreɪn The war was circled the drain. 
- * #demise = #end of the world
- * #죽으란느 법 없어; it's not the end of the world
- * #유종의 미; #bring sth to a successful conclusion
- * 막판에 최고의 선발 투수 				 baseball's best starting pitcher down the stretch
- * ### #원점 #기초 #발판 #처음 #초기 #시작 #진행 #일진 #마지막 ##끝 #마무리 #마치다 #막판
- * 
- * ###패턴 19
- * #작심삼일이였나 봐요 					 Look like you’re off the wagon
- * #fall off the wagon; 다시 술을 마시기 시작하다 2. 금욕을 깨다
- * 모두 다 그 유행을 타네요 		 Everyone’s getting/jumping on the bandwagon
- * #wagon
- * 
  * #패턴 18#
- * 집중해 stay focused #set my mind to something | #apply oneself = #pay attention to
- * it helps me keep my focus
- * #absorbed, #engrossed, #fascinated - 몰두한, 빠져있는 
- * #uninterrupted
- * #하나씩; don’t overdo it and #one at a time; focus on one thing at a time
- *    One thing/person at a time = several at a time
- * ^^ <> #일일이; everything separately #One by one; 두 개 이상이 될 경우 사용 못함
- * 집중하세요 #attention please, #listen up
- * be #immersed in; I was immersed in, into it; I was into it
- * 그가 만약 잘리기 싫다면 일에 정말 몰두 할 필요가 있다.
- * He really needs to knuckle down if he doesn't want to get fired!
- * be caught in 
- * be #keen on
- * ##engross; engross the mind of: ~의 마음을 빼앗다; engross all one's time; 시간 잡아먹다; 
- * engross the market; #독점하다; engross another's love; 사랑을 #독차지하다
- * #열중하다; #devote oneself to = be #absorbed in = be fascinated by[with] = be #bury oneself in
- * 너가 집중하면 너는 어떤것도 할수 있어 #전력 	 If you put your mind to it, you can do anything
- * 나 진짜 엄청 집중했어. 						 I was really in the zone today.
- * 너 오늘 완전 집중하네 				 	 You are totally on the ball/absorbed today
- * 집중해라 				 keep your eye on the ball / focus on / concentrate on
- * 어떤 연유에서 인지 우리는 한눈을 판다.				 Yet somehow we got sidetracked 
- * 나는 내 일에 몰두한다.					 maɪ'self I lose myself in my work.
- * 그 동안 일에만 몰두했었지					 I'm caught up in my job.
- * 일에 좀 몰두해봐. 						 You keep your mind on your job.
- * 나는 한가지에 몰두하는 것이 좋다고 생각한다. it's a good idea to put all the eggs in one basket.
- * #한가지 더; #one more thing
- * 내말에 집중해 Focus on what I'm saying. Please listen to me. Pay attention to me.
- * 내 삶은 내 사업에 집중되어 있다. 		 My life centers around(on, in) my business. 
- * 나는 독서삼매경에 빠져 있었다. 					 I was wrapped up in reading. f
- * 저는 배고프면 한가지 생각만 해요 					 I become single minded
- * #suck something into something; ~을 ~로 #빨아들이다; suck your reader into your stories
- * #immerse int; immerse ourselves in the culture
- * I’m a #sucker for the way that  you move
- * #몰입 #빠지다 #몰두 #집중 #삼매경 | #한가지 생각
  * #call up; 전화하다; call you up
  * ##비긴걸로 하자 #call it #even
  * 내가 먼저 말했다 #Called it
@@ -865,26 +436,4 @@
  * #매니저 #사장 나오라고 해; #call out of your boss
  * ##call
  * ##fit <> ##suit
- * fit: 사이즈, 모양이 맞다; 옷, 물체 <> 
- * suit: 스타일 색감이 잘 어울릴 때 2. 상황이 잘 맞을때; the red dress suits you perfect
- * Tuesday 2pm suits me perfectly
- * 크기도 딱맞고 식감이나 모든게 완벽할 때 #scrumptious
- * #난리 치다; he had a fit
- * 나한테 어울려?						 	 would it look good on me?
- * ‘‘나버지 사람들과 잘 어울릴 수 있는 좋은 방법이야. It's a great way to blend in with everyone else.
- * 그 직업 너한테 어울려 You are #fit for the job
- * that's really good #combination
- * ☆#조화; #blend in; I think most ~ blend in well with ~
- * #foam an  #ensemble;
- *   #일제히; #In unison
- * ‘우리 집 바닥에 잘 어울리겠다. 				 it would look better on my floor
- * 그 일은 딱 너한테 맞아. 						 The job is right up your alley.
- * 네 말이 딱맞네 							 You are dead right. 
- * ☆he wasn't a good fit for me
- * 그는 공개적인 방침과 맞지 않았다. 		Lester was at odds with their stated preference
- * ‘우유를 좋아하지만 우유가 안 맞는 사람 있죠? 			 Milk doesn't agree with me. 
- * ‘넌 내가 그일에 맞지 않는다고 생각해 
- * I'm afraid this schedule doesn't work for me. 미안한데 이스케줄 나랑 안맞다.
- * #cut out for Did you think I would be cut out for it? (suited for something )
- * 	cut out for 2번째: 					 cut out for the gate: 내달리다
- * ‘그 모자 나한테 안 맞아 						 The cap doesn't fit me
+ 

@@ -30,6 +30,46 @@
 
 # 사진
 * 개화를 저속 촬영한 시퀀스  a time-lapse sequence of a flower opening 
+	* ~의 사진을 찍다; Get a picure of someone or something | get a picture with someone
+ * can you #grab some pictures for me?; can you take a picture on us(사진 찍어주다)
+ * #사진 촬영 (photo) shoot; it's a #photoshoot
+ * ##CCTV: #security camera
+ * 얼굴샷 #mugshot
+ * #클로즈업; let's have a close-up 
+ * #상반신 노출 씬; i'm supposed to be tarining at the moment for a #topless shot
+ * #노출; #exposed;  = #flash a lot
+ * #캡처; #snipping tool. ##snip; #자르다
+ * #합성 사진; #composite; [kəm|pɑ:zət]; #합성; a composite picture
+ * #셀카봉 #selfie stick
+ * #slofie; 나무늘보(#sloth)와 셀카(#selfie)의 합성어로, 나무늘보와 함께 찍는 셀카를 뜻하는 신조어다.
+ * #time-lapse; #저속촬영
+ * #full of pictures; her instagram is full of pictures of herself
+ * get a shot(주사), take a shot/picture(photo는 전문적인 느낌)
+ * 나무 앞에 서서 사진 찍자 We'll #pop a #shot off
+ * 카메라 앞에서 부끄러움을 탄다 				camera shy; she was just so camera shy
+ * 사진광이에요 								He’s a real shutterbug
+ * #포즈 취하다: 								 make/#strike a pose,
+ * 초점을 맞추다								 focus the lense
+ * 김치 하세요 									 say cheese
+ * 사진좀 찍어주실래요? 					 Could you take a picture on us?
+ * 사진좀 찍어주실래요? 				 	 Could you take a photo/picture of us?
+ * 셀카 찍자					 Let's take/get a selfie. Let's take/get a photo.
+ * 저는 종종 셀카를 찍어서 그 자리에서 게시하는 것을 좋아합니다.
+ * I like to take selfies off and on,and post them up on the spot.
+ * 사진이 실물보다 낫네!						 This picture flatters you.
+ * ☆그는 실물이 낫다. 		 ‘pɪktʃə(r) ’dƷʌstɪs His picture doesn't do him any justice
+ * you look better in person
+ * ~가 사진 망쳤어 photobomb, has been photobombed by ~, 누구 get/was photobomed by
+ * 사진 잘나왔다								 it came out nice
+ * 나는 #사진발이 잘 받는데 오늘 화장일 잘 안받네 I am #photogenic but having a bad makeup day today.
+ * 모이세요 Get closer together
+ * #몰래카메라 #hidden camera
+ * #포토샵; it #airbrushes you
+ * #필름; 필름이 몇장 남았는지 확인; how many #exposures are left 
+ * 필름이 몇장입니까? how many #rolls of film did we take?
+ * a roll of film - 필름 한 통
+ * #증명사진; #id picture; #identification picture
+ * #스캔; #적외선 스캔; 적외선 경보 시스템. #iris scanning; added iris scanning
 * 몰래 사진찍었어; i nusck this photo
 	* sneaked는 문법적으로 쓰이는 과거; snuck은 더 구어체적 과거형
 * * 명사일 때 shoot 은 ‘촬영’이고, shot 은 ‘사진’입니다. 동사로는 [shoot: 촬영하다], [be shot: 촬영되다] 입니다. 발음도 [shoot: 슛] 그리고 [shot: 샷] 이니 헷갈리지 마세요!
@@ -98,6 +138,8 @@
  * 포토샵 했어? 							 Did you photoshop that picture?
  	* 포토샵 수정 기능 중에 컬러 스프레이로 연하게 수정하는 기능을 airbrush 라고 하죠. 동사로도 쓰여서 [에어브러시로 수정하다] 의 의미를 가지지만, 꼭 에어브러시가 아니더라도 [뽀샵질 하다] 정도로 알아두셔도 좋습니다.
  		* 사진 찍은 후엔 꼭 이걸 해야지. 뽀샵! ex) This is a must-do after taking a picture. Airbrush!
+ 
+# 커뮤니티
  * 좋아요 											 #upvote
  * #팔로우 했어 									 I followed him
  * #맞팔했어 								 We followed each other
@@ -154,7 +196,14 @@
  * #Myspace; 대중문화 덕후 커뮤니티
  * #outreach program
  * #커뮤니티 #사이트
-
+ 
+# 구독
+ * I subscribed your podcast. (x) I subscribed to your podcast. 
+ * I got a subscription to Time magazine. 
+ * Are you subscribed to any magazines? 
+ * What magazines are you subscribed to? 
+ * I don't subscribe to that ideology. 
+ * I don't subscribe to that theory.
 
 # 전화
 * 틀린 번호를 준거야; You got fake-numbered

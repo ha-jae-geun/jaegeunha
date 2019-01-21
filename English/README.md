@@ -116,6 +116,7 @@
 * Sunny https://m.blog.naver.com/PostList.nhn?blogId=pureriver777
 * 마젠타섹 https://m.blog.naver.com/PostList.nhn?blogId=dkfjsa
 * 영어교육정말어렵다 https://m.blog.naver.com/PostList.nhn?blogId=dgtongbeon
+* 채원과영어 https://m.blog.naver.com/PostList.nhn?blogId=learnwithchaewon
 * 한국번역연구소 https://blog.naver.com/ktri8888
 * The Red https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 -----------------------------------------------------------------------------

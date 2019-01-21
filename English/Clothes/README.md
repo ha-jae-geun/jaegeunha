@@ -68,6 +68,7 @@
   * 옷장 필수템; wardrobe staples
 * * 주변의 시선을 끌 정도로 옷의 색상, 패턴 등이 매우 화려한 것을 loud 라고 합니다. 눈으로 봤을 때 너무 요란(loud)하다는 의미에서 주로 부정적으로 쓰이지만, 상황에 따라서는 긍정적으로 볼 수도 있습니다. 섹시함과 화려함을 강조한 옷이라는 어감으로요. 
   * 면접때는 너무 화려한 의상을 입지 않는 것이 좋아. You shouldn't wear anything too loud to a job interview.
+ * 그 #얼룩 #지워져?               Did that stain come out?
   
 # 재료
 * [명사] 흑담비; sable' 세이블 모피는 트리 밑에 놓고 가요; Slip a sable under the tree for me; Santa tell me

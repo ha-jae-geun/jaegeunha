@@ -63,18 +63,58 @@
 * 결혼 선물로 받고 싶은 것들을 자주 가는 백화점이나 쇼핑센터에 등록하여 지인들이 살수 있도록 하는 시스템; 
 	* SHe located her name on a wedding registry t that shopping ceter
 
-# 상품
-* loss 는 [손실, 손해] 라는 뜻이 있어요. 그래서 [미끼 상품]을 의미하는 loss leader 는 그 제품 하나만 놓고 보면 손해 보고 파는 가격이지만, 그걸 사기 위해 온 손님들이 다른 제품도 결국에 사게 되는 모습에서, 다른 제품의 판매를 이끄는 leader 의 역할을 하기 때문에 loss leader 라고 합니다.
-* '~ off ...'는 '...에서 ~만큼 할인하여'라는 말로 아주 활용도가 높은 말입니다! 또, 'cents-off'를 coupon/code/marketing 등의 단어 앞에 붙이면 할인쿠폰/할인코드/할인마케팅을 표현할 수 있습니다.
-* 상표가 없는 브랜드들; Generics
-* 그런한 의미의 연장선 상에서 회사를 이끌거나, 다른 상품을 이끌어주는 주력 상품/서비스 등을 flagship 제품들이라고 해요. 몇 해 전부터 우리나라에서 '플래그쉽 스토어' 라는 말을 종종 쓰는데요. 회사의 대표 매장을 의미하는 말입니다.
-	* 예전에 내가 가장 좋아하던 WWF 대표 스타들은 헐크 호건이랑 워리어였어.  ex) My favorite WWF flagship stars back in the days were Hulk Hogan and Ultimate Warrior.
-* 주문이 잔뜩 들어오고 있어; we got a ton of orders coming in
-	* 방금 주문 하나 들어왔어; An order came in just now
-* 노동착취로 만들어지는 물품; Sweatshop products
-* 평범한 강아지들이 아닙니다; these aren't your standard run-of-themill puppies
-  * run: 제품, 생산품; mill: 방앗간
- * 맞춤 제작한 제품; bespoke shoes/tailor
+# 가격
+* 돈 속어: dead president
+	 * #용돈 ##allowance(2. 허용) = #spending money = #pocket money
+	 * he spent all of his allowance on his car
+	 * raise my monthly allowance
+	 * 빡세게 돈벌다: hustle; gotta hustle
+	 * 저#예산 ; #budge 명사; budge video ; 예산을 초과한 out of my budget = #beyond budget
+	 * 예산 내에서 쓰다; #keep to a budget; i'll definitely keep to my budget
+	 * #예산안; #budget estimates; #estimates
+	 * #쓰다 ##spend+시간/돈+(in) -ing | 간혹가다 to V(
+	 * #splurge; 스플러어지; 돈을 물쓰듯이 쓰다
+	 * 돈 날리다: blow money, 돈 낭비: waste money, 돈 많이 쓰다: spend much
+	 * 돈 벌다 make/earn/raise/collect ; how much do some make?
+	 * cost/charge 비용/요금
+	 * ○ That would cost a lot (돈이 많이 들겠네요)
+	 * ○ but they cost an arm and a leg (근데 너무 비싸)
+	 * ○ cost (somebody) an arm and a leg (= to be very expensive) ---> These opera tickets cost us an arm and a leg (이 오페라 티켓들은 넘 비싸)
+	 * ○ The price is not reasonable (가격이 비싸다) = It is overpriced = It is expensive = It is pricey = The price is high = It is not cheap 
+	 * -----------------------------------------------------------------------------------------------
+	 * cheap, affordable
+	 * #깎아 주세요 					 Can you lower the price?, Is that your best price?
+	 * 다른 가게에서는 더 싸게 팔던데요 			 I saw lower prices at other stores
+	 * If you give me a discount can you give me a #break on that
+	 * 할인 행사 Season Off 								 Off Season
+	 * #학생 할인 있나요? 						is there a discount for students?
+	 * offer ~% discount
+	 * 경로 우대 카드 								 concession card(#할인)
+	 * 완전 #싸게 샀어. 				 It was a #steal, they are such a #bargain
+	 * #cheap, #inexpensive, #bargain - 값 싼 
+	 * #저렴하게; #at a low price, with low cost
+	 * 정말 싸게 샀네!								 That's a real bargain
+	 * #헐값으로; #for a song = #for very little money, #cheaply
+	 * 이 집 굉장히 #비싸  a little bit #pricey <> #reasonalbe
+	 * . This house cost me an #arm and a leg. / I paid #top dollar for my house. 
+	 * #cost a #bomb, I paid through the nose for that house
+	 * I can't #afford
+	 * 그거 엄청 비싸! 						 It cost me an arm and a leg.
+	 * #총 금액; #total bill/ price
+	 * 백화점은 보통 국경일 후에 그들의 상품의 #가격들을 파격적으로 내린다 	 #내리다 #내린다
+	 * Department stores usually #knock down the prices of their goods after national holidays.
+	 * #drive up; 가격을 올리다 2. drive up window; = 맥도날드의 drive thru; 차에서 업무 볼 수 있음
+	 * #가격대; #price range; it might be a little bit out of our price range
+	 * #액면 가격; at #par value
+	 * You have to take him at #face value(당신은 그를 액면 그대로 받아 들여야 한다)
+	 * #가격 대비로는 상당히 괜찮아요. 낱낱으로; I think this is pretty good, price-wise. (가격적인 면)
+	 * What's the #ask? 그들이 원하는 가격이 뭐예요?
+	 * #기회비용; #oppotunity cost
+	 * #총 ~ 나왔습니다; Your total #comes to $135.67
+	 * 값에 너무 거품이 끼었어						 The price is so inflated
+	 * 엄청나게 비싼 가격; #steep price
+	 * #터무니없이 높은 가격; #highway robbery(#robbery)
+	 * 가격을 정하다 #fix the price = #set the price
 * 값싼 배터리들을 마구 생산해내고 있었다; The factory is pumping out too many graduates
 * 손님이 다 떠나가고 있잖아; YOu're driving away all the customers
 * 굉장히 싼 가격에 판다; are sold on the streets at rock-bottom prices
@@ -91,6 +131,19 @@
 * 'cost'는 '비용이 들다'로, '주어 + cost + 사람 + 비용' 의 순서로 '주어를 사는 데에 (-의) 돈이 얼마 들었다' 라고 해석해요. 가령 'The shirt costs me 40 dollars.'는 '저 셔츠 사는데 (내 돈) 40달러 들었다, 썼다'라는 의미예요. 단순히 가격만을 이야기할 때는 'It costs 10 dollars'처럼 cost 뒤에 비용만 써도 됩니다.
 	* cost는 가격 뿐 아니라 시간, 노력, 대가 등 들어간 모든 결과물의 값을 말할 수 있어요.
 		* 그것 때문에 난 많은 힘이 들었다. It cost [cost의 과거형] me lots of labor. 
+		
+# 상품
+* loss 는 [손실, 손해] 라는 뜻이 있어요. 그래서 [미끼 상품]을 의미하는 loss leader 는 그 제품 하나만 놓고 보면 손해 보고 파는 가격이지만, 그걸 사기 위해 온 손님들이 다른 제품도 결국에 사게 되는 모습에서, 다른 제품의 판매를 이끄는 leader 의 역할을 하기 때문에 loss leader 라고 합니다.
+* '~ off ...'는 '...에서 ~만큼 할인하여'라는 말로 아주 활용도가 높은 말입니다! 또, 'cents-off'를 coupon/code/marketing 등의 단어 앞에 붙이면 할인쿠폰/할인코드/할인마케팅을 표현할 수 있습니다.
+* 상표가 없는 브랜드들; Generics
+* 그런한 의미의 연장선 상에서 회사를 이끌거나, 다른 상품을 이끌어주는 주력 상품/서비스 등을 flagship 제품들이라고 해요. 몇 해 전부터 우리나라에서 '플래그쉽 스토어' 라는 말을 종종 쓰는데요. 회사의 대표 매장을 의미하는 말입니다.
+	* 예전에 내가 가장 좋아하던 WWF 대표 스타들은 헐크 호건이랑 워리어였어.  ex) My favorite WWF flagship stars back in the days were Hulk Hogan and Ultimate Warrior.
+* 주문이 잔뜩 들어오고 있어; we got a ton of orders coming in
+	* 방금 주문 하나 들어왔어; An order came in just now
+* 노동착취로 만들어지는 물품; Sweatshop products
+* 평범한 강아지들이 아닙니다; these aren't your standard run-of-themill puppies
+  * run: 제품, 생산품; mill: 방앗간
+ * 맞춤 제작한 제품; bespoke shoes/tailor
 * 버거는 베트남에서는 잘 팔리기가 힘듭니다; Burgers have a tough sell in Vietnam
 * 최고급의; 내 물건 사는데 보통 돈을 많이 쓰지는 않지만, 컴퓨터는 최고급이어야만 해. ex) I don't usually spend a lot of money on my own stuff, but my computer must be a high-end computer. <> low-end
 

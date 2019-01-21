@@ -66,37 +66,14 @@
  * ~ 완전 못한다 									 ~ sucks
  * 안됐다. 									 That sucks so bad
  * ~별로다 									~ sucks
- * #inhale = #suck in #exhale #gasp: 숨이 막히다; gasp at the news #pant: #헐떡이다
- * ##pant for; ~으로 헐떡이다, pant out; 헐떡이며 말하다;, panting; 헐떡거리는
  * to be caught with your pants down = your overconfidence has led to an embarrassing situation
  * #등골 빼먹으려고 한다 #suck money from people
  * #suck something into something; ~을 ~로 빨아들이다; suck your reader into your stories
  * #엄지 빨다 #suck his thumbs
  * ##suck#
- * 
  * 그는 티셔츠 뒤집어 입었어. 					 He put his T-shirts on inside out.
  * 우리는 서로를 정말 잘 알아. 					 We know each other inside out
  * #inside out#
- * 
- * #I got this#
- * 내가 계산할게, 내가 알아서 할게, 내가 해결할게
- * #blow up; 화내다; he blew up at me
- * #폭발; the car blew up because of a gas leak = #explode
- * #detonate; Two other bombs failed to detonate.예문 발음듣기
- * #터뜨리다, #발산하다; #let off steam(#steam)
- * #burst (in)
- * #mind-blowing; 신나는 일
- * 완전 뿅 갈거야.							 It's gonna blow your mind.
- * blow away; blow your mind away; 뿅가게 하다
- * #blow over; (심각한 피해 없이) 사그라들다[지나가다]; The storm blew over in the night
- * 그의 공연이 날 뿅가게 했어			 He just simply blew me away with that show. 
- * 넌 기회가 있었는데 날려버린거야 				 You had your chance and you blew it. 
- * 생일 촛불을 끄다 do you want to #blow out the candles?
- * #드라이기 #blow dryer  ; can you blow dry it?
- * #blew me away; #끝내줬따
- * #blow smoke; #허풍을 떨다
- * ##blow#
- * 
  * 이렇게 돈 빌려가서 안 갚기 몸에 소지 				 Do you have any money on you?
  * 벽에 걸려있는 그림 마음에 들어					 I like the picture on the wall.
  * 컵에 자국이 있어 					 자국 smʌdƷ There's a smudge on the cup.
@@ -116,7 +93,7 @@
  * this neighborhood is great for shopping
  * #교류가 있다 have interactions with ~
  * #이웃 #neighbor# #neighborhood#
- * *얼마인가요? How much doest the ~ ##cost?
+ * 얼마인가요? How much doest the ~ ##cost?
  * 아마도 조브리스트는 기자 회견에 참가할 것이다. perhaps Zobrist will be on hand for a news conference
  * 우리팀은 여유 자금이 생겼다 	 ~을 갖고 있다. our team will have some extra cash on hand 
  * #on hand#
@@ -182,8 +159,6 @@
  * 뭔가 씹냐는 의미는 보고도 듣고도 그냥 넘어가버리는 것을 말하죠.
  * 나 무시하지 말라고 		 이번에는 사람을 깔보는 무시하는거에요. Don't look down on me! 
  * #ignore# #look down#
- * 
- * 
  * #헷달 22#
  * 그는 자신을 기다리고 있던 아버지를 포옹했다
  * ɪm'breɪs He embraced his father, who had been waiting for him.
@@ -341,214 +316,6 @@
  * ◇사람들이 스스로를 위해 세우는 목표는 objective이다. 이것은 흔히 어떤 프로젝트의 일부로 또는 사람이 자기 말을 통해서 달성하고자 하는 것을 나타낸다.
  * ◇goal은 흔히 장기적인 것으로, 사람의 일생이나 장기적인 경력을 위한 계획과 관련이 있고, 혹은 어떤 기업이나 조직체의 장기 계획과 관련이 있다.
  * #target# / #objective# / #goal# / #object# / #end#
- * 돈은 #문제가 아니야; money is no object
- * 
- * ☆#get out of hand; 통제가 안돼; everytime he drinks, he gets out of hand; out of my hand
- * things got a little out of hand
- * #beat; 통제; beat the other women
- * #지휘하다; #call the shots(#shot)
- * have #control over something
- * 내 손 밖에 있어, 통제 불가야 			 ㅊnow, out of order/control.
- * 맥스는 정치적으로 #통제 불능이다. 'lu:s ''kӕnən pə'lɪtɪkli Max is a loose cannon politically.
- * check on something; ~에 대한 견제; check on the monarch's supreme power 
- * 견제와 균형 checks and balances 
- * 상호 견제하다 hold each other in check 
- * 권력을 남용하지 못하도록 견제하다 prevent sb from abusing power 
- * 투수가 1루 주자를 견제했다The pitcher held the runner on[kept the runner close to] first base. 
- * #can’t help oneself; so 자신을 멈출 수 없다.
- * #지휘 #통제 #견제
- * #problem, #issues, #concerns
- * complication(#복잡)
- * ~에 문제있어? What's ##with
- * 문제가 되지 않는다면 						 If it isn’t any (much) trouble
- * #분란 #일으키다					 cause[stir up, make] trouble 분란을 일으키다 
- * 고민있어? What’s bothering you? What’s wrong?, 
- * 고민되네; I’m slightly #torn
- * broken: It's not working. It dosen't work. | out of order: 공공시설물 서비스 x = out of service
- * 자동차 고장: break down ; my car broke down on my way
- * I’ m having trouble with ~
- * 고민: worry, trouble, V: agonize[ǽgǝnàiz]
- * #콤플렉스; #hang-ups; we all have our hang-ups
- * #눈에 가시; a thorn In the flesh
- * 문제 잘 풀었어요							 They worked it out
- * 문제의 #근본 #root of the problem
- * 근본적인; #radical; #급진적인; we need a radical change
- * #basic, #fundamental, #primary - 근본적인, 기본적인 
- * 근본적 문제: #fundamental matter/problem
- * 문제를 다루다 								 deal with a problem
- * #간단한 문제 아니에요					 It’s not so cut and dried <> no-brainer
- * ‘간단함 									 simplicity
- * 큰 문제 아니야 								It's not a big deal
- * 그녀가 #문제를 일으켰다. 						 She threw a spanner in the works
- * #woe; 우오우; 고민, 문제
- * #pose a question; #문제를 내다
- * #연습 문제; #practice problem
- * #문제 해결; problem-solving, #미묘한 문제; #delicate problem, fix a problem
- * 문제가 생긴 것 같아요						 it seems we've got problems.
- * #둔감한; #obtuse - 둔감한
- * ~ sb/sth (to sth) (특히 문제 등에) #둔감하게 만들다; 주로 수동태
- * People are increasingly becoming desensitized to violence on television.
- * *bane 
- * #걸림돌, 돌출된 #문제점 							Sticking points
- * 사무실은 문제점이 보이지 않는 상태였다 				 the office was #cut and dried 
- * 문제 #해결; #faster problem solving; #troubleshooting
- * 해결 되지 않는 문제 							 It's #up in the air
- * #conundrum; you can see the conundrum; (2. 어려운 문제)
- * 해결하기 좀 복잡하고 까다로운 문제가 하나 더 있어. 			There’s another tricky one.
- * #snag; 예상 밖의 곤란한 문제
- * 문제가 많은 #problematic; she is problematic
- * #병폐 malady 미국·영국 [|mӕlədi] 
- * 이게 문제야 								 this is the thing(ting)
- * 이 문제를 해결하지 않으면					 If we don't address this, 
- * 문제는 난 그 친구를 좋아하지 않아. 				 The thing is, I don't like him.
- * #문제없는 #innocuous; #seemingly innocuous
- * #본질; 문제의 본질; I hope you'll respect it's #nature
- * 엉켜있는 문제들 #Tangled problems
- * 심각한 문젯거리; #major drama(#drama)
- * #복잡한 문제; #complication
- * The ceremony went off without a #hitch. 그 의식은 아무 문제없이 진행되었다; 
- * 그야 완전 문제아야. 완전 수업 망친다니까. 						 'ru:ɪn
- * He's such a bad apple. He is ruining the class. 
- * #구제불능; you're #impossible
- * 골칫거리, 눈엣가시 			 can of #worms, she's pain in my neck, ass, butt, hassle
- * #골칫 덩어리 #black sheep; of the family = #faller; every family has someone who falls
- * #사고뭉치 						poorly wired circuit = #accident-prone
- * 개 문제있는 놈이야 							 He fucked/screwed up
- * ~에게 지속적으로 골칫거리가 되다; eat(away) at someone/something; things really eats at you
- * 요새 #골칫거리가 많아요 				 I’ve got a lot on my mind right now.
- * #말썽피우지마세요!!!							 Stay out of trouble!!!
- * #black sheep
- * 복사기가 또 말썽을 부리네요 					 The copier is acting up again
- * 말썽 꾸러기 He is a bull in a china shop(도자기) He is a pain in the neck. He is a black sheep in my family.
- * 말썽 피지마 								 Stay out of trouble!
- * ☆계속 말썽을 부리네 						 #act up It keeps acting up 
- * ~에 따라 행동하다[조치를 취하다]
- * #act on; Acting on information from a member of the public, the police raided the club. 
- * 제 #기능을 못하다.; my shoulder's acting up
- * 내 아들에게 #얼씬도 거리지 마!! 						 Stay out of my son!!! 
- * 내 고물차는 #고장이 많이 나서 큰 골칫덩어리이다. 나는 새 차를 사고 싶다.
- * My old car breaks down a lot and it's a big #hassle. I want to buy a new car.
- * be #on the fritz(#fritz); 고장나다
- * air conditoner in my office has broken
- * #고장난; #On the blink(#blink( = not working well = #out of order
- * 내 차 완전 #망가졌어 					 My car got completely #banged up.
- * enigma 미국·영국 [ɪ|nɪgmə]; 수수께끼 
- * #수수께끼 풀어봐 						Riddle me this.(2. 질문에 답해봐)
- * #conundrum; you can see the conundrum; (2. 어려운 문제)
- * ‘##맞춰봐 					 guess what it is, take a guess 함 
- * #맞춰주다; I #adjusted you
- * 맞춰봐
- * 나 #보물찾기 중이다. 			 'skӕvɪndƷə(r)] I'm on a treasure hunt/scavenger hunt.
- * #보물 창고(#창고); treasure trove(#trove)
- * #보세창고; #bonded warehouse
- * *숨겨진 #명소 #hidden #gems
- * 실패작이었어요 								 It was a total flop/dud
- * ☆#think a lot about; think hard about; put a lot about into something; 
- * 난 지금 수학 때문에 계속 고민 중이야. = 꼼짝 못하다		 I’ve been tied up with math.
- * 고민을 털어놓을 수 있을 만한 사람; a #shoulder to cry on
- * *그들은 그 승용차 잔해 아래 갇혀 있는 그를 발견했다found him ##pinned under the wreckage of the car.
- * put a pint in; #기억해두자; let's puta pin in that 
- * 논란을 불러일으키다 #provoke #controversy
- * #꼼짝 못하게 하다, 궁지에 ᄈᆞ지다 #Run into the sand(#sand)
- * #걸림돌 #문제아 #사고뭉치 #말썽 #고장 #웃고 넘어갈 #간단한 #골칫덩어리 #눈에 가시 ##문제 #논란 #수수께끼 #고민 #꼼짝 못하다
- * #패턴 24#
- * ☆피하다 모면하다: get away with | (물리적 장소, 논란이 될만한 언급을) steer clear of, avoid=shun
- * dodge = shrink from; never one to shrink from an honest challenge, #stave off 
- * 잘 피한다; he's good at #dodging
- * #avert/turn away from
- * #dodge a bullet; 최악의 상황을 면하다
- * #교묘한; #artful politician
- * #교묘히 피하다; #elud
- * #피하다; #ward off = #roll with the punch
- * ☆#shy away; 피하다; from conflict
- * #shun = #skate over
- * #도피: a #flight of capital 자금의 도피(이탈)
- * #make away with; he could make away with the punishment
- * circumvent; circum(주위); vent(come)나와
- * ~에서 면제되다; be #exempt from
- * receive/get a ~ exemption, be exempt from ~,
- * ☆이미 늦었다; be/get ##involved in
- * #연루 너희 둘은 여전히 이 문제에 #엮이지 않아도 돼	 You two can still walk away from this.
- * get #mixed up; I don't wanna get mixed up with her
- * #혼란; get mixed up about 명사
- * 우리는 어려운 일이지만, 우리의 상사께 직접 이야기를 해야만 한다.
- * We should take the bull by the horns and confront our boss directly.
- * 양국 모두 전쟁을 피하고 싶어 한다 			 Both nations wish to #avoid war.
- * '(나쁜 일의) 발생을 막다, (나쁜 일을) 안 하다, (나쁜 것을 의도적으로) 멀리하다'의 뜻. 즉 사람이 능동적 의지에 의해 나쁜 일이 일어나지 않게 상황을 통제하는 것을 가리킨다. #avoid
- * 사람들은 불길을 피해 건물에서 뛰어내렸다 People jumped from the building to escape the fire.
- * '(닥쳐온 나쁜 것으로부터) 도피하다, 빠져나오다'의 뜻. 나쁜 일이 불가피하게 발생한 상황에서 피해 나오는 것을 가리킨다. #escape
- * 미국에서는 때때로 범죄자들이 유죄가 확실한데도 처벌을 피하는 경우가 있다는 게 이해가 안 돼요.
- * It''s beyond me that sometimes criminals get off scot-free in America.
- * ''해를 입지 않다, 벌을 면하다''라는 뜻이다. 때로 미국에서는 증거가 합법적으로 수집되지 않을 경우 살인 같은 것에서 면제: scott free, 용의자의 유죄가 명백함에도 불구하고 처벌을 피하는 경우가 있다.
- * 그녀는 싸움을 항상 피했어. 				 She always shied away from any fight.
- * #잠수 cave(#mancave)
- * 눈에 #띄지 않게 지내다; #keep a low profile(#profile)
- * 눈에 띄다; #stick out like a #sore thumb <. #blend in
- * #get away with; …을 잘 해내다,[벌 따위]를 교묘히 모면하다
- * #회피; They found a way of #circumventing the law. 그들은 그 법을 회피할 방법을 찾아내었다.
- * #맞서다 #모면하다 #피하다 ##면제
- * #deviated from something; ~에서 벗어나다, #빗나가다
- * 나 혼자서는 이 상황을 빠져나갈 수 없었어 			 I couldn't #get off the hook by meself
- * #민감한 주제 #touchy subject
- * 잠시 #주제에서 #벗어나 #삼천포로 빠지고, 그의 유년기를 짚고 넘어가겠습니다. 
- * If I can #digress for a moment, I'd like to briefly mention his childhood.
- * ☆주제를 #좁혀봐 #Narrow it down (= #뻔하네) #narrow down; #추리다
- * #불 보듯 뻔해; it's quite obvious = it's very clear
- * 이뤄내기 위해선 사고의 틀을 벗어냐아만 해. 	 We should think out side the box to make it. 
- * 너 뺑소니하고 벗어날 수 있을거라 생각해? Do you think you can get away with hit and run?
- * 벗어나다; get off; nobody gets off the rock
- * 넌 이 일에 빠져!!! 						 You #stay out of this. 
- * ‘몰래 회의 빠져나왔지. 					 sni:k I sneaked out of the meeting. 
- * #에서 빠져나오다; #fall out of
- * 도리를 벗어나다; #beyond the pale
- * #빠져 #벗어나다 #모면하다
- * 
- * 
- * #패턴 23#
- * #당연한 거지 #absoultely, #definetely #of course You bet(cha), does a bear shit in the wood, sure thing, don't mention it, sure thing it's a #given, Is the #pope #catholic?(교황은 천주교인)
- * 물론 그렇겠지; no doubt about it
- * #당연한; #with reason
- * #par for the course
- * ~하는 것이 당연하지; #may well do; may well ask
- * 내가 다음으로 해고 될 거라는 것은 너무나도 당연한 일이었다. 			 s3:rt: 확실한 일
- * It was dead cert that I would become the next person to be fired.
- * 약간의 통증이 있지만 당연한 일이다 골프 파 당연There is some tightness afterward, par for the course 
- * 당연하게 여겨지다 								 be granted
- * 주식에 투자하는 것은 당연한 일이다. 			 Investing in those stocks is a no-brainer. 
- * 당연한거 아니야 							 duh, no shit shirlock(비꼼)
- * 당연한거 아니야? 								 That's a given.
- * 두말하면 #잔소리 #goes without saying
- * #순리이지 That's how it's got to be, that's the way things are supposed to be
- * 이게 순리야; that's #science
- * ☆그녀는 내가 밥을 사는 것을 당연히 여긴다. 
- * She took it for granted that I pay for her meals everytime.
- * ~는 말할 #필요도 없다; #go without saying
- * #당연
- * 망치다: drop the ball
- * #go downhill(#downhill); 쇠퇴하다; the relationship goes downhill
- * 퇴보하는 거에요 go #backward; staying the same means going backwards
- * #약화시키다, #무너뜨리다; #sap = #undermine the fortress of depression
- * #쇠퇴하다; #wither
- * 폭망 							Epic fail = miserably fail / fail miserably
- * #epic tale; #영웅담;
- * #파멸; #go down in flame; #flame
- * #세계의 파멸; [명사] (세계의) 파멸; [ə|pɑ:kəlɪps] 
- * Civilization is on the brink of apocalypse. 문명 세계가 파멸될 위기에 처해 있다.
- * 그가 예술 작품 하나를 망치는 것 같애			 I feel like she’s tearing down a sculpture
- * 새로운 매니저는 우리가 이뤄낸 모든 것을 망쳤다.
- * The new manager made a pig's ear of everything we have achieved.
- * 너가 망쳤어 									 You killed it
- * 망했어 I blew it. / bottled it I fucked up / I messed up / I screwed up/#rain on your #parade
- * all #doomed
- * 완전히 망하다; #go belly up; business went belly up
- * 이 계획은 수포로 돌아갔다. 					The plan has gone down the drain 
- * 초치지마 								 Don't rain on my parade.
- * 나 시험 #망함							 I mess up on my test
- * 옷 좀 산다고 해서 망하기야 하겠냐? 			 Buying some clothes won't break the bank.
- * 내 옷을 망쳤어 he #ruined my suit
- * #fold up; 망하다, #정리하다
- * ##망하다 #망했다 #망 #망치다 #초치다 #쇠퇴 #약화 #내리막길 #퇴보
- * 
  * #패턴 22#
  * ##talk ##speak ##say ##tell ##discuss = #talk about ##communicate
  * 뭘 말하려고 하는게 아니라 그냥 내 생각을 말하는 거에요 i'm not talking, just saying
@@ -609,33 +376,8 @@
  * ##speak
  * discuss about xxx
  * communicate (with): (격식) 연락을 주고받다. 
- * 특별히 선호하는 `는 없습니다; have no preference for any patricular
+ * 특별히 선호하는 없습니다; have no preference for any patricular
  * #말은 #그만하고 계약서 씁시다 ədú #Without further ado, let's sign the contract. = without any delay
- * #추임새; #filter word
- * #맞장구 오 정말? Wow seriously? 진짜? Are you kidding me? 대박 웃기다: That's hilarious 
- * That's unbelievable, 레전드다: That's epic
- * ○ #Right on (그러게 말이야)
- * ○ That makes two of us (같은 생각이야)
- * ○ You can say that again (그러게 말이예요)
- * ○ That's right (맞아요) 
- * ○ I completely agree (전적으로 동감이예요)
- * ○ I totally agree (전적으로 동감이예요) ○ I fully agree (전적으로 동감이예요)
- * ○ I 100% agree (전적으로 동감이예요)
- * 네 말이 옳아. 정확히 맞혔어. 		
- * You can say that again/You are telling me / You said it / Right / True
- * 그 말 하려던 참이었어요 					You took the words right out of my mouth
- * #좋죠 									 That's fine with me.
- * 좋아요. 제안하신대로 할게요. 						 You got yourself a deal. 
- * 정 그렇게 하겠다면 								 #If you insist.
- * 좋아 										 I'm down.
- * 그렇고 말고 									 Sure thing.
- * 그렇게 하죠, 별 일 아닙니다. 					 It's a deal! It's not a big deal.
- * 안좋아 하는 사람이 있을까? 							 Who doesn‘t
- * ~하지 않는게 좋아 			 it's better to not to go there, you don't want to go there
- * 전 항상 아이스라테를 선호하니까요.					I always go for iced lattes.
- * #기호; children also have #likes and dislikes
- * 좋아하는 것; #fave
- * #좋아 #선호
  * 잠깐; #briefly
  * 잠깐만요						 hold on(전화통화, 기억이 잘 안날 때)
  * 잠깐 #할말이 있어 I would like to say something to you, can I borrow you for a second, it only 
@@ -651,13 +393,6 @@
  * #say He says you are crazy 				 (한글: 나 미쳤다, 영어: 너 미쳤다)
  * He says I am crazy			 (영어: 걔가 막 나한테 너 미쳤다고 하더라)
  * 말 그대로 										 Literally
- * 수다떨다 			 [ʃmu:z] schmooze ,shoot the breeze, 명사: chitchat
- * #재잘거리다; #prattling prattle(#prattle)
- * #말 많다, #수다스럽다 #chatty, #talkative
- * #잡담; #small talk
- * #주저리주저리; #ramble on about; she rambled on about her ex-girlfriend
- * 수다스러운 사람; #motor mouth
- * 수다스러운; #garrulous; [gǽrjǝlǝs] garrulous advisor
  * #지껄이다; #prattle
  * 말할 수 없는 말이에요 							 indeterminate taste
  * #anecdote, #story, #tale - 일화 <->stance - 입장, 태도
@@ -680,14 +415,6 @@
  * '바라던 바다							 that goes double for me
  * 말 되네 									It makes sense.
  * 의도치 않은 말을하다, 후회될 말 							 foot in mouth
- * ‘#자세히 이야기해봐 							 Let's talk this through
- * #elaborate on; would you care to elaborate on this
- * 상세히 말 안했잖아 You didn’t #specify
- * #상세하게 #장황하게 #blow by blow; tell me #blow by blow = #at length
- * *○ Please be more specific (좀 자세히 말해 봐요)
- * ○ Can you fill me in on the details? (자세하게 알려줄래요?)
- * ○ Do you remember what I told you? I'll fill you in on the details. (내가 말한거 기억나지? 자세하게 얘기해 줄게)
- * ○ I'm going to email you the details (자세한 것을 이메일로 보내드릴게요)
  * bite one's tongue; 말을 안하고 참다
  * 말했잖아(서운) Told you so, He told you so
  * 말 #더듬다 #stammer = #stutter

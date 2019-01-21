@@ -211,6 +211,25 @@
   * 누구도 그 성공을 쉽게 설명하지 못해요; No one can easily account for the success
   * 그게 이유가 되겠네; THat accounts for it
 
+## any
+## some
+ * 부정문 any: 1. any friends(복수명사), any water(셀수 없는 명사), any children(특정한 무리)
+ * 2. 평서문: 아무거나: i'll have anything
+ * 3. 일반적인 의문문 Do you have any sibling?
+ * any + 단수; do you have any plan for your summer vacaion?s
+ * 더 줄까? 뭔가를 제공하거나, 대접할 때,         Do you want some more?
+ * 커피 좀 더 주실래요? 요청할 때           Can I have some coffee?
+ * 언제라도 좋아. 3-1.긍정의 any : '어떤 ~라도' 라고 해석이 가장 무난합니다.
+ * Any time will be fine. 
+ * 나는 아무것도 없어. 부정의 any : '아무것도' //
+ * I don't have any.
+ * 어떤 질문이(라도) 있습니까? / 대답     의문의 any : '어떤'// 
+ * Do you have any questions? 
+ * I have some or I don't have any.
+ * 어떤 질문이라도 있으면, 주저말고 물어봐요. 이렇게 했었습니다. 조건의 any : '어떤 ~ 라도' //
+ * If you have any questions, feel free to ask. 
+ * ##any# #some#
+
 ## angle
 * 무슨 속셈이야; What's your angle? 
 
@@ -226,6 +245,13 @@
 
 ## beat
 * beat는 ‘이기다, 능가하다’라는 동사로 과거분사는 beaten입니다. 그래서 엄밀히 말하면 be beaten이라고 해야 하지만, 회화나 광고, 음악 등에서 be beat이라고 하는 경우가 종종 있습니다. We can’t be beat은 우리는 능가될 수 없다, 즉 “우릴 이길 사람은 없다”라는 의미입니다. 혹은 beat는 ‘녹초가 된, 엄청 지친’이란 의미도 있어서 “우린 절대 지치지 않아”로 생각할 수도 있습니다. 
+
+## boat
+ * 나는 기회를 놓쳤다.               I missed the boat.
+ * 문제 일으키지 마..               Don't rock the boat. 
+ * 그런 일로 문제 삼지 마!              Don't #rock the boat over that! 
+ * i'm gonna rock you; 한손으로 해치울게
+ * 나도 마찬가지거든!!!                I'm in the same boat.
 
 ## bounce
 * 그 총알은 벽에 맞고 튕겨나와 총 쏜 사람 자신을 맞췄다. ex) The bullet bounced off the wall and hit the shooter himself. 1) bounce 가 동사로 [튀다] 라는 뜻이 있어요. 전치사 off 과 함께 쓰이면 [에 맞고 튕겨나오다/튀어오르다] 라는 뜻으로 쓰입니다.
@@ -288,6 +314,7 @@
 
 ## budget
 * 나는 한정된 예산으로 이번 휴가를 보내야 한다. I have to spend this vacation on a budget. 
+* 예산을 늘리다; stretch a budget
 
 ## bus
 *   나는 널 절대 배반하지 않을거야. 나는 신념을 저버리지 않아. I wouldn' t throw you under the bus . I don ' t sell out . 
@@ -319,6 +346,27 @@
 * 앞에서 나온 have a ball 과는 다르게 have balls 입니다. 복수를 쓰고요. 여기서의 balls 는 남성의 고환을 의미해요. 우리 말에서도 남자들끼리는 겁 많은 남자에게 "너 xx는 달렸니?" 라고 하잖아요? ㅎㅎ 비슷한 표현이랍니다. 남성들이 쓰는 표현이기는 하지만, 여성들도 농담으로 가끔씩 써요. 하지만 여성이 스스로 말하는 게 아니라면 남자가 여자에게 쓰면 불쾌할 수도 있으니 조심하셔야 합니다.  참고로 [배짱이/용기가 없다] 라고 할 땐 don't have the balls 라고 하면 된답니다.
 * 일을 망친다는 표현은 여러 가지가 있는데요. 이 표현은 주로 미국에서 쓰이며 보통 '실수로' 일을 망쳤을 때 쓰입니다. 미식축구에서 유래된 표현인데요. 미식축구는 기본적으로 공을 떨어뜨리지 않고 상대방 진영 끝까지 갈 경우 득점에 성공을 하는데요. 공을 떨어뜨리면 안 되는 상황에서 공을 떨어뜨려 망치는 것의 비유적 표현입니다.
 	* = 이번엔 실수하지 않도록 노력해. 다른 기회가 주어지지 않을 수도 있으니까. Try not to drop the ball this time. Another opportunity might not be given.
+   * 신나게 즐기다 ; have a ball;, 일을 시작하다; start the ball rolling
+ * #carry the ball; 어떤 일을 책임지고 처리하다 = take the responsible
+ * ☆잡혀 살다 you have the ball and chain 
+ * 지켜보다 Can you keep your eyes on my stuff? | keep your eye on the ball = eye on you're the ball
+ * 너가 선택할 차례야              The ball is in your #court
+ * 망치다: drop the ball
+ * 긍정:배짱 좋다 부정:뻔뻔스럽다.    n3:rv gʌt That looks a lot of nerve / balls/ guts
+ * 너 유능해? 상황 대처                Are you on the ball? 
+ * 자 시작해봅시다!!                Let's get the ball rolling. 
+ * 그 사람 너무 세게 나오는데.              He’s playing hardball.
+ * 사고 후 빅보스의 예상치 못한 출현은 시청자를 #혼란에 빠트렸다. 
+ * Big Boss threw audiences a curveball by appearing alive after the accident. 
+ * #혼란; get mixed up about 명사
+ * 너 그 질문으로 날 혼란스럽게 했어.      You really threw me a curve ball with that question.
+ * 너 실수 한거야.                 You're dropping the ball. 
+ * 우리는 광고 캠페인을 사용함으로써 일을 시작해야만 한다.
+ * We should get the ball rolling by starting the advertisement campaign.
+ * 마음껏 즐깁시다                  Let's have a ball. 
+ * 어림짐작해서 말해줘.              Give me a ball park figure.
+ * sweat like a pig | # sweatin balls; 봉알만한 땀을 흘리다
+ * #play the ball; 다루다; I know how to play the ball; play baseball; 모두에게 익숙
 
 ## basis
 * 근거; basis; have no basis on reality
@@ -363,6 +411,11 @@
 ## build
 * 위로 쌓여 높아지는 그림
 
+## brownie
+* 윗사람의 신임; Brownie pointss
+* 아내한테 점수땄어요; you have won so many brownie points with my wife
+
+
 ## brother
 * bro는 brother(형제)의 줄임말로, '형제처럼 친한 친구'라는 뜻, 혹은 '형씨, 친구'와 같이 남자를 칭하는 호칭으로 쓰입니다. bro code는 친한 남자 친구들 사이에서 지켜야 하는 원칙들을 뜻합니다. '서로의 전 애인에게는 대시하지 않는다' 뭐 이런 것들이죠. bro는 '남자인 친구'고 ho는 '창녀'라는 뜻입니다. 원래 창녀는 whore인데 스펠링을 단순화한 슬랭 표현이죠. "Bros before hoes"는 "여자보다 친구가 먼저"라는 뜻의 슬랭 관용어구인데요, bro와 라임을 맞추기 위해 여자를 ho라고 표현했죠. 그렇기 때문에 이 표현을 굉장히 저급하게 보는 사람도 있답니다. 하지만 이 영상에서 보듯이 드라마 등에도 꽤나 자주 등장하는 표현이라 악의 없이 말하면 괜찮다고 생각하는 사람들도 있죠. 이 드라마에서는 바니가 워낙 개념 없는 플레이보이 캐릭터라 저런 대사를 넣었을 겁니다.
 
@@ -393,6 +446,15 @@
 * 숨이 너무 가빠서 넘어갈 듯한 것을 out of breath 라고 하는데요. 이렇게 밖으로 나간 듯한 숨을 다시 제대로 쉬게끔 잡아올 때 [숨을 고르다] 라는 의미를 갖게 되는 표현입니다.
 * = 한숨 돌리려고 걷는 것에 잘못된 일은 전혀 없어. There's nothing wrong with walking to catch your breath.
 * 하늘에서 그 섬을 처음 보았을 때 난 숨이 멎는 줄 알았다. My first view of the island from the air took my breath away. 
+ * 그만, 나 너무 숨차           Stop, I'm running out of breath 
+ * (상반된 얘기를) 숨도 안쉬고 바로             in the same breath ; 
+ * 그가 너한테 못되게 군다고 말해 놓고선 곧장 그를 얼마나 사랑하는지를 말하는구나
+ * You say he treats you badly but in the same breath you tell me how much you love him 
+ * 그는 내 일을 칭찬하더니 바로 내가 그만둬야 할거라고 말했어
+ * He praised my work and in the same breath told me I would have to leave 
+ * 이봐, 여기, 물 좀 마시고 숨 좀 돌려 Hey, here, drink some water and catch your breath 
+* #inhale = #suck in #exhale #gasp: 숨이 막히다; gasp at the news #pant: #헐떡이다
+ * ##pant for; 으로 헐떡이다, pant out; 헐떡이며 말하다;, panting; 헐떡거리는
 
 ## beg
 * 1) beg + 목적어 + to 부정사 / not to 부정사 [ex] I begged her to forgive me.
@@ -434,6 +496,10 @@
 * 건물 등과 같은 것을 붕괴시키거나, 어떤 사물을 떨어뜨리는 것을 bring down이라고 합니다. 여기서는 "히틀러의 파시즘과 대학살이 끝을 맺게 되다, 종식되다" 등으로 해석됩니다.
   * 그 지진은 많은 건물을 붕괴시켰다. The earthquake brought down many buildings.
 
+## bump
+* 임신한 배를 보이다; show off the bump
+
+
 ## buck
 * 돈을 좀 더 벌려고 주말에는 식당에서 일하고 있어. ex) I'm working at a restaurant on the weekends to make an extra buck.
 * 1. buck 은 [1달러] 또는 [돈] 을 의미하는 비격식 표현입니다.
@@ -453,6 +519,22 @@
 
 ## blow
 * 규모가 크고 신나는 파티나 식사 자리를 갖는 것을 have a blowout이라고 합니다.
+ * 내가 계산할게, 내가 알아서 할게, 내가 해결할게
+ * #blow up; 화내다; he blew up at me
+ * #폭발; the car blew up because of a gas leak = #explode
+ * #detonate; Two other bombs failed to detonate.예문 발음듣기
+ * #터뜨리다, #발산하다; #let off steam(#steam)
+ * #burst (in)
+ * #mind-blowing; 신나는 일
+ * 완전 뿅 갈거야.               It's gonna blow your mind.
+ * blow away; blow your mind away; 뿅가게 하다
+ * #blow over; (심각한 피해 없이) 사그라들다[지나가다]; The storm blew over in the night
+ * 그의 공연이 날 뿅가게 했어       He just simply blew me away with that show. 
+ * 넌 기회가 있었는데 날려버린거야         You had your chance and you blew it. 
+ * 생일 촛불을 끄다 do you want to #blow out the candles?
+ * #드라이기 #blow dryer  ; can you blow dry it?
+ * #blew me away; #끝내줬따
+ * #blow smoke; #허풍을 떨다
 
 ### blow up
 * 'Blow up' 의 뜻은 '(바람을 불어넣어) 부풀리다, 부풀어 오르다' 라는 뜻과, '(폭발물 등을 사용하여) 폭파시키다, 날려버리다' 라는 뜻이 있고,
@@ -518,6 +600,10 @@
   5. 좀 이따 보자; I'll catch up with you later
   6. 발목잡다; The past will find a way to catch up to us
 
+## core
+* 내 깉은 상ㅇ처는 아직 회복 중이야; Hurt me to the core
+  * 이 배는 안쪽까지 썩었어; THe pear is rotten to the core
+
 ## country
 * country는 주로 나라와 시골의 의미로 쓰인다; 나라 일때 복수어미나 관사(a)와 같이 쓰인다; 시골일 떄는 관사 등을 쓰지 않고 the country로 쓰인다
 
@@ -557,6 +643,7 @@
 ## chicken
 *  play chicken은 슬랭으로 친구들끼리 '(누가 더 쎈지) 겨루다, 시합하다'는 의미에요. 사실 별거 아닌데 친구들끼리 누가 더 겁없고 용감한지 담력을 시험하는 내기를 여기서 마샬이 자신을 rooster(수탉)로 표현하며 자신은 절대 물러서지(back down) 않겠다고 말하고 있네요. 수탉들이 한번 싸움하면 피터지죠. 
   * 밤에 내친구랑 나는 서로 누가 더 담력이 쎈지 시합했다. My friend and I played chicken at night.
+* 풋내기, 젊은이; spring chicken
 
 ## check
 * #check in on; 어떻게 지내는지 확인하는 그림, #check in with; 결정을 내리기 전 확인
@@ -577,6 +664,13 @@
 * ‘매력’으로 잘 알고 계실텐데요, 영상에 나오는 것처럼 악세서리 장식물이나 상징물, 부적 등도 charm 이라고 합니다. 
 	* 이건 내 행운의 부적이야. 내 할머니가 주셨어.  This is my lucky charm. My grandma gave it to me.
 * charm = 장식물, 부적
+
+## company
+ * 일행 있으세요?            Do you have company(관사 불가)
+ * 작업 멘트 일행 필요하세요?           Do you have some company?
+ * 나 누구랑 같이 있어서 전화 끝어야 해.         I've got to go. I have company.
+ * 같이 있다            Keep me company; I'll keep you company
+ * keep you bad company; 나쁜 애들과 어울리다
 
 ## compose
 * compose: 부분은 전체 구성; fifty states compose the USA; THe USA is composed of fifty states;
@@ -612,6 +706,9 @@
 * 1) carve out은 ‘파내다’라는 건데, 영상에서 자신의 집에서 특별한 구석을 파내라는 건 그런 장소를 마련하라는 뜻이겠죠. 또한 carve out는 부단한 노력으로 어떤 분야에 대한 자신만의 입지를 마련하거나, 명성을 쌓는다는 의미도 있습니다. 
 	* 그들은 큰 나무통을 파내서 카누를 만들었다. They made canoes by carving out big logs.
 * 연기파 배우로서의 입지를 다지기 전까지 오랜 시간이 걸렸다. It took a long time before I was able to carve out a career as a character actor.
+
+## crack
+* 누가 일렀어: Who cracked
 
 ## cram
 * = 10명의 사람이 작은 승합차에 꾸역꾸역 들어갔다. 10 people crammed into a small van.
@@ -771,6 +868,13 @@
 * down 대신에 along the line 또는 down the road 이라고 쓸 수도 있는 표현으로 정해진 시간은 아닌, 나중에 언젠가를 의미하는 표현입니다. 대략적으로 언제인지를 나타내고 싶을 땐 three years down the line, four years down the line 처럼 써주셔도 좋습니다. = down the line
 	* 지금은 쉬울지 몰라도, 나중에 숨겨진 비용이 있을 수도 있어. ex) It is easy now, but there might be some hidden costs down the line.
 
+## drift
+* #drift apart; 자연스래 멀어지다 we just drifteed apart
+  * #drift apart; #사이가 멀어지다; we were good friends but drifted apart = #grow apart
+  * #drift along through life; #허송세월을 보내다
+  * #표류 #drift around; 
+  * #adrift, #afloat, #unmoored - 표류하는 
+
 ## drain
 * 명사로 쓰이면 [배수관] 이라는 뜻이 있듯이, 무언가가 쑥 빠져나가듯이 소모시키는 것을 의미합니다. 영상에선 away 와 함께 써서 소모시켜 [없애다] 라는 의미를 강조해 주었는데요. 직역하면 [당신은 의지력을 소모 시켜 없애는 중입니다] = [의지력이 소모 된다] 로 해석이 되었습니다.
   * 그 회사는 재정 자원을 다 써버린 것처럼 보입니다. ex) It seems that the company has drained its financial resources.
@@ -846,7 +950,8 @@
 * 쉽다; Easy peasy lemon squeezy
  * 식은죽 먹기다      #shooting fish in a barrel(#barrel), It's as easy as pie. That's nothing. 
  * So easy. Dead easy. It's a piece of cake. It's a breeze. It's a snap. It's easy.
- 
+ * ☆쉬운 일 a ##snap = a ##breeze(2. 산들바람) #cinch
+
 ## fall
 * 3) fall into (group/part/category) 는 ‘~에 포함되다, 속하다’ 입니다. 만약 groups, parts, categories 처럼 복수로 명사가 오면 ‘-로 나뉘다’로 해석합니다.
   * 100명 중에 단지 15명의 학생들만 이 그룹에 속한다. Out of 100, only 15 students fall into this group.
@@ -856,6 +961,13 @@
 * fair 는 형용사로 [공정한]을 의미하기도 하지만, 수나 양이 놀랄 정도는 아니지만 그래도 [상당한, 제법 큰] 을 의미하기도 합니다. * a fair share of = 상당한 몫, 양
   * = 모든 세부 사항들을 수집하는 데는 꽤 많은 노력이 들 거예요. It will take a fair amount of work to gather all the details.
 * 1. 옛날 방식 beautiful 2. pale; 하얀;  3. 동등한
+
+## fence
+* #가시 철사; [명사] 가시철사 a barbed wire fence
+* #put up a #fence
+* 그는 항상 중립적인 태도를 취한다.      fens He always sits on the #fence
+* #fence up; #담을 높이다; get that fence up in the back yard
+* ##fence
 
 ## feel
 * 2. 'feel like'는 '~인 것 같다', '~처럼 느껴진다', '~같은 느낌이다'라는 뜻으로, 구어적 표현 중에서도 필수적으로 꼭 알아둬야 할 표현이에요! 익혀두면 정말 유용하고요. 다음 두 형태로 자주 쓴답니다.
@@ -877,6 +989,10 @@
 ## further
 * 멀리 갈 것 없다, 더 알아볼 필요 없다 (= 여기 당신이 찾는 게 있습니다)  "Look no further."
 
+## fish
+* 건져내; YOu could fish it out
+
+
 ## fix
 * 여기서 fix는 명사로 ‘해결책’입니다. 그래서 a clean fix는 깨끗한 해결책이 되는데, 문제가 깨끗하게 해결됐다는 말이 아니라, 비위행적인 테스트제품에 대한 해결책으로 ‘청결하게 해주는 방법’을 의미합니다. 영상속 점원이 말한 방법은 알코올로 닦는 것이라고 하네요.  참고로 a quick fix 라는 표현이 있는데요, ‘미봉책, 성급한 조치, 임시 방편’을 의미합니다. 문제의 근본을 해결하는 것이 아닌 순간적인 상황만을 모면하는 해결책을 말합니다.
   * 이건 대단한 해결책이에요, 그렇지 않나요? This is a great fix, isn’t it?
@@ -892,6 +1008,9 @@
 ## fire
 * 보건부 장관이 사방에서 맹비난을 받게 되었다. The health minister has come/be under fire from all sides. 
 * “제가 몇 가지 질문이 있어요.” “좋아요, 그럼. 물어 보세요.” ‘I’ve got a few questions.’ ‘OK then, fire away.’ 
+
+## flunk
+  * flunk a test; 시험 망하다, flunk a subject; 과목 망치다, flunk out of school: 퇴학당하다
 
 ## flip
 * 1) 모든게 다 정해져있는 대본(script) 를 뒤집는 (flip) 다는건, 예상치 못한 행동을 하여 상황을 역전시키는 것을 의미해요.  2) 때로는 상대방이 주로 이야기하는 대화에서, 자기가 주도권을 가져와 대화의 흐름을 바꾸는 것을 의미하기도 합니다. 3) 영상에서는 이전 팁까지는 본인이 이야기 할 때 어떻게 해야한다- 라는 내용이 주를 이루었는데,  4) flip the script는 '말을 갑자기 바꿔버리다'라는 뜻도 있어요.
@@ -1103,7 +1222,7 @@
   * 지금 시간이 더 있을 때 미래의 커리어를 위한 기반을 쌓아두는 게 좋을거야. ex) You'd better lay the groundwork for your future career when you have extra time now.
 * : 강세를 보이다, 더 나아가다, 성공하다, 더 인기를 얻고 있다  [ 숙어 ] gain ground
   * 처음엔 잘 안 되었지만 이제 점점 인기를 얻어가고 있다. At first we didn't do well, but now we're slowly gaining ground.
-
+* 현실적인 연기를 바랐어요; i hopedf for a much more grounded performance
 
 ## genius
 * 누구나 ~ 할 수 있다 = It doesn't take a genius to 동사원형
@@ -1310,6 +1429,7 @@
 
 ## history
 * 나머지는 알려진 그대로야.  = The rest is history.
+* 과거의 경험에 비쳐보면; If history is any guide
 
 ## hear
 * (특히 연설 중에 맞장구치는 말로) 옳소! 옳소! hear! hear! 미국식  영국식   단어장추가
@@ -1460,6 +1580,10 @@
 	* 그 소리 때문에 그는 놀라 까무러쳤다. The noise made him jump out of his skin.
 * 신랄하게 비판하다; jump down one's throat
 
+## kitchen
+* 새로운 일을 위해 도모에 합류한걸 환영한디ㅏ; Welcome to the kitchen!
+
+
 ## kick
 * 재미 좀 보겠어; You'll get a kick out of this; 1934년 Cole Porter의 노래에서 유명한 표현; kick: 스릴, 쾌감, 재미
   * 2) 강력한 동기부여 = a kick in the butt 엉덩이를 걷어차면 화들짝 놀라 깨어나는 모습이겠죠? 그런 모습에서 유래된 표현으로, 조금 동기부여가 되지 않는 사람에게 동기부여를 해주는 다소 강한 말이나 행동을 의미하는 표현이에요.
@@ -1488,9 +1612,27 @@
   * 직원들은 그 문제에 주목했다; Members have latched on to the issue
   * 트렌드에 열중해왔따; have latched on to the trend of using consultants
 
+## lose
+ * 작년 #마지막 #분기 때 애플은 삼성보다 불리해졌다.
+ * Apple lost some ground to Samsung in the final quarter last year. #lose some ground
+ * #찾은 사람이 임자        #Finders keepers, #losers weepers!!!
+ * 난 가족들 곁에서 절대 희망을 잃지 않을거야 I'll never lose hope with them around ()
+ * lose weight (살 빼다) <---> gain weight (살 찌다)
+ * 전 종종 낮에 비가 그치면 우산을 잃어버리곤 해요
+ * I often lose my umbrella when it stops rain during the day 
+ * 비디오겜할때 늘 시간가는걸 잊더라, track of time 시간이 가는길 >> 시간의 흐름
+ * ○ You always lose track of time when you play video games 
+ * 너 또 다이어트 중이구나 맞아. 이번달에 5킬로 뺄거야
+ * ○ A : I guess you are on a diet again ( ) B : You're right. I'm going to lose 5 kilogram this month 
+ * 화내다                   lose one's temper 
+ * 게임에서 지다                 lose a game 
+ * 감을 잃어버리다/ 감 떨어지다 | 감 잡다 lose one's touch <---> get the hang of it 
+ * #벗다: #undress = #lose #shed = be #shirtless
+
 ## load
 * 1) load 는 명사로 [짐] 또는 동사로 [짐을 싣다, 사람을 태우다] 의 의미를 가집니다. 보통 운송 수단에 짐이나 사람이 가득 찼을 때 fully loaded 라고 해요. 
   * 미안해, 잭. 차가 5명이랑 짐으로 가득 차서 자리가 없어. 테일러한테 태워달라고 한 번 물어봐. ex) Sorry, Jack. The car is fully loaded with 5 people and their luggage. You might want to ask Taylor for a ride.
+* 그건 # 유도 질문 같은데요? That's kind of a loaded question
 
 ## log
 * 그날그날의 일을 기록한 것을 log 라고 부릅니다. 일상생활을 영상으로 기록하는 브이로그(Vlog)도 Video 와 Log 가 합쳐진 단어죠.  참고로 [sleep like a log: 세상모르고 자다] 라는 표현도 알아두세요. 여기서 log 는 통나무인데요, 죽은듯 자는 모습을 통나무에 비유한 겁니다.
@@ -1515,6 +1657,10 @@
 3. 있나 없나 인지하다/찾아보다
 	* 이따가 무대에 나 나오는 거 봐봐. 뒤쪽에 있을 거야. [ex] Look out for me on stage later. I'll be in the back.
 
+## level
+* 솔직히 말할게; i'll level with you
+
+
 ## least
 * to say the least = 좋게 말해서, 과장하지 않고 말해도
 
@@ -1529,6 +1675,28 @@
 
 ## left
 * left-wing 좌익 단체들left-wing groups 
+
+## line
+* 일반 전화, 휴대 전화 대비 유선 전화: #landline
+ * 선을 넘었네요                 I was out of line
+ * #draw the line; 선을 넘지 마; don't #cross the line
+ * #공과 사는 구분하겠어요             I'm drawing a line
+ * 일자로 기다리고 있다.     기다리는 걸 강조하려면 wait을 쓴다 line은 세로로 기다린다는 의미
+ * stand(wait) in line
+ * 일렬로 서있다.      보통 물건들이 가로로 펴져있거나 사람이 가로로 서있는 모습
+ * stand in rows(in a row) 
+ * #수작 거는 거였어 it was a line 수작을 걸다; make a pass at someone(성교롤 목적)
+ * #개수작 마 #Nonsense
+ * 문장과 문장 사이를 읽어라(속뜻을 봐라) Read between the lines
+ * 훌륭한 오프닝 멘트였어 It was great oepning line
+ * 한 #줄씩 #line by line; read through your resume line by line
+ * #생산 라인, #유지 비용, #외부 제작, #본사 
+ * product #line, #maintenance costs, #outsource, #home office
+ * #headquarters = #head office = #main office = #home office
+ * #churn out; 대량 생산하다
+ * ##electronic: 전자의, #electrician: 전자 수리공 = #line man : ##electric pole: #전신주
+ * 눈치 보다 #read between the line(#line)
+ * #way off line; #잘못되다; your life's been way off line
 
 ## live
 * live for : 가 삶의 이유/낙이다
@@ -1634,6 +1802,12 @@
 * 조금 성가시거나 어려운 상황을 빠져나가는 것을 의미하는 표현이에요. through 뒤에 목적어를 쓰는 경우가 많은데 영상에서는 신호등을 통과하는 명백한 상황이기에 굳이 쓰지 않았습니다. 누군가 죽어가는 상황에서는 make it through the night/the day/this week 등으로 쓸 수가 있는데 [밤을 넘기다, 하루를 잘 넘기다, 일주일을 넘기다] 등의 의미로도 많이 쓰입니다.
 	* 적어도 우리가 첫 라운드 통과는 했으면 좋겠다. ex) I hope we can make it through the first round at least.
 
+## milk
+* 돈 뜯어가려고 이용했어; has been #milking Denny dry
+  * #효자 상품; 앞으로 계속 돈을 벌 수 있느 ㄴ것들; #cash cow
+  * #등꼴을 #빼먹다; they are still milking her dry
+* 그는 풋내기야; he has milk on his chin
+
 ## miring
 * admiring의 약자; 하.. 부럽..
 
@@ -1659,6 +1833,16 @@
 * 난 유명해지는 것 이외에는 다른 건 신경 안 써. ex) I don't care about anything else other than making a name for myself. = make a name for oneself
 * 연예계에서 이름을 알리다; he already made a big name in the entertainment industry
 
+## nowhere
+* 뜬금없이             Suddenly = Out of the blue/nowhere.
+  * 갑작스럽게         suddenly, out of nowhere, all of a suden, #precipitously
+  * #come from out of nowhere; 유명해지다
+  * #appear from (out of) nowhere
+  * '그런 식의 노력으로는 아무 소용이 없을 거야      The kind of effort will get you nowhere
+  * 답이 안나와               I seem to be getting nowhere.
+  * i've got no place/nowhere to go
+  * 도망갈 곳이 없다; there's nowhere left to run
+
 ## nothing
 * all or nothing. 직역하면 '전부 혹은 아무것도 아닌' 이런 느낌인데요, '모 아니면 도', '중도가 없는' 이렇게 번역 할 수 있어요. 하이픈(-)으로 이러 붙이면 형용사 all-or-nothing이 돼요. 
   * 걔는 항식 극단적이야/모 아니면 도야. [ex] It's all or nothing with her.
@@ -1676,6 +1860,12 @@
 ## notch
 * [급, 레벨]을 notch 라고 하는데요. 직역하면 [급을 차 올리다] 정도이니, 갑작스럽게 무언가의 강도를 높이는 것을 의미해요. 주로 무언가를 더 강렬하거나, 신나거나, 흥미롭게 만들 때 쓰는 표현입니다.
 	* 더 신나게 놀아보자! 위스키 가져와! ex) Let's kick it up a notch! Bring the whiskey!
+  * ##최상급의         N at it's finest, top #notch; he is at that top notch level
+  * #upgrade my computer, ##improve your English
+  * #업그레이드 #kick it up a notch(#notch); you want to kick it up a notch
+  * #발전 step it up a notch
+  * #향상; #go up a notch; #업그레이드; just went up a notch
+  * #눈금; take/#kick/step it down/up just a notch/; 소리 조금만 줄여줘
 
 ## nose 
 * 급격히 감소하다, 폭락하다 take a nose drive; The sales of the company took a nose drive.
@@ -1734,6 +1924,29 @@
 ## pass
 * ＊ pass off ⓐ as ⓑ = ⓐ를 ⓑ라고 속이다, 행세하다 가짜 물건을 진짜라고 속이거나, 신분을 속이고 다른 사람 행세를 한다는 뜻의 숙어입니다. 참고로 누구를 속이는지 당하는 사람까지 표현하려면 [on+사람] 을 붙이면 됩니다. 
 	* 그는 가짜 롤렉스 시계를 진짜라고 속였다. (pass off ⓝ) He passed off the fake Rolexes as genuine ones.
+ * 꼭 사야돼 I can't pass this up(#지름신)
+ * #수작 거는 거였어 it was a line 수작을 걸다; make a pass at someone(성교롤 목적)
+ * go/#pass through; the train passed through the #tunnel #터널
+ * 2. 겪다 I have been passed throguh many troubles at work
+ * #나누어 주다         pass out; I already passed out all the brochures
+ * #pass for; #통하다, #통용되다, #통과하다;; pass for a woman in her 20s
+ * ~에게 전해지다; #pass onto
+ * 기절하다              Have you ever passed out before?
+ * 아, 방금 지나쳤네요              Oh, you just passed it 
+ * 시간 참 빠르네요       = Time flies Years pass in the blink of an eye 
+ * A: 벌써 점심 시간이네. 뭐 좀 먹으러 가자. B: 난 됐어. 배 안 고파
+ * ○ A: It's already lunchtime. Let's go grab a bite.
+ * B: I'll pass. I'm not hungry. 
+ * 왜 #매점을 그냥 지나쳤어?       Why did you pass the concession stand? 
+ * #cafeteria
+ * #kiosk; an information kisk, a telephone kisok
+ * #local stores
+ * 이 또한 지나가리라            This, too, shall pass away 
+ * #pass off as; 인양 행세하다; #pass off as; pass them off as the little lords
+
+## pencil
+ * 그렇게 일정을 잡아 둘게요.         I'll pencil it in. Let me pencil it in.
+
 
 ## per
 * 일일 경비 a per diem allowance 
@@ -1842,6 +2055,9 @@
 ## profile
 * profile 은 [인지도/관심] 이라는 뜻이 있어요. 따라서 이 표현은 사람들의 관심을 끄는 행동을 하지 않으려고 조심하거나 어떤 특정 장소에 가지 않는 것을 의미합니다.  = keep a low profile 반대로 a high profile [고자세, 높은 관심, 세간의 이목을 끄는 것] 등을 의미합니다.
 	* 우리가 그 일을 처리할 때까지는 조용히 지내고 있어. ex) Try to keep a low profile until we finish dealing with it.
+* 저흰 주목받지 않으려고 노력중이에요. We are trying to keep a low profile.
+  * 전 잘 알려진 친구들이 많아요. I have a lot of high-profile friends.
+  * 보세요! 전 정말 옆모습이 아름다워요! I have such a fine profile!
 
 ## pop
 * 뚜껑을 닫가; Pop on our lid
@@ -1878,6 +2094,7 @@
 * - see one's point : -의 요점, 주장을 이해하다
 * - miss one's point : 의 요점, 주장을 놓치다
 * - get to the point : 본론, 핵심으로 들어가다
+* 핵심; the point is; 본론으로 가다; get to the point; 요지, 주장을 알겠따; see one's point; 요점을 파악 못하다; miss one's point
 
 ## press
 * 1) 영상 초반부에도 자주 나온 표현인데요. press into 는 [배치하다] 라는 뜻이 있습니다. press 가 [누르다] 라는 뜻이 있으니, 상대방이 원하든 원하지 않든 어딘가에 눌러 집어 넣는다는 느낌의 표현이구요. 2) service 와 함께 쓰이게 되면, 어떤 특정한  역할을 하도록 강제로 동원하고, 이용할 때 쓰는 표현입니다.
@@ -2046,6 +2263,7 @@
 	* 이 모든 것이 음주운전은 그렇게 심각한 범죄가 아니라는 생각에서 나온 것들이다.  It is all rooted in the idea that drunk driving is not a serious crime.
 * 1) root이 ‘뿌리’입니다. 그래서 be rooted in~ 은 ~에 원인이 있다 / ~에 뿌리박고 있다’가 됩니다. 반대로 root out 은 ‘뿌리뽑다, 근절시키다’를 의미합니다. 
   * 유교문화는 한국 사회에 깊게 뿌리박혀 있다. Confucianism is deeply rooted in Korean society.
+* 현재 체계의 뿌리가 깊게 박혀있기 떄문입니다; the roots of our current system run deep
 
 ## rub
 * 원래 rub 은 동사로 [문지르다], 명사로 [문지르기, 비비기] 라는 뜻이 있는데요. the rub 이 [문제] 라는 의미로 쓰인 것은 셰익스피어의 유명한 작품인 '햄릿' 에서 유래했다고 해요. 하지만 주의해야 하실 점은 the rub 만 혼자서 [문제] 라고 쓰이지는 않고, 영상에서처럼 Here's the rub. 또는 There's the rub. 이라고 써야만 되는 그런 표현입니다.
@@ -2160,6 +2378,9 @@
 * 원래 stink 은 [구리다, 악취가 나다] 인데, 우리말에도 [더렵게 못하다, ~하는데 구리다] 라고 하듯이 [어떤 일에 취약하다, 재주가 없다] 라는 의미로도 쓰여요.  [suck at 명사 : ~를 못하다] 와 동의표현 입니다.
   * = 여기 좀 냄새난다. It really stinks in here.
 
+## screw
+* 그녀는 태양 때문에 눈을 찡그렸어요. She screwed up her eyes because of the sun.
+
 ## scramble
 * 하지만 여기서는 상황의 긴박함이나 공포로 인해 허둥지둥 움직이는 것을 의미해요. 영상에서 선원들이 했던 것처럼 손, 발을 이용해 기어오르거나 몸을 급히 움직이는 거죠. 또한 무언가를 차지하려고 경쟁하듯 서로 밀치는 동작도 scramble 이라고 합니다. 
   * 그는 절벽을 기어오르려 했다. He tried to scramble up the cliff.
@@ -2170,6 +2391,10 @@
   * 대충 하ㅏㄷ; scratch the surface
   * 처음부터; from scratch
   * 수준 미달이다; not up to scratch
+
+## scoop
+* 그게 날 들어올려서; That's when it scooped me up
+
 
 ## score
 * * 묵은 원한을 갚다. pay off an old score 듣기 출처:프렌딕
@@ -2213,6 +2438,14 @@
 ## sweet
 * sweet spot은 ‘최상의 결과를 내는 범위나 부분’입니다. 스포츠에서는 라켓이나 베트, 클럽 등으로 공을 치기 가장 효율적인 부분을 뜻하고, 비즈니스에서는 최상의 수익성 혹은 효율성을 만들어내는 범위를 가리킵니다. 또는 가수의 최상의 음역대, 가장 좋아하는 스킨쉽 위치 등 분야는 다르더라도 모두 ‘가장 좋은 결과를 내는 위치’를 의미합니다. 
 
+## sweep
+* 네가 내 마음을 완전 뺏었어. You really swept me off my feet
+* #임시방편; we can't just #sweep this under the rug
+* #sweep something under the rug(#rug)
+* sweep somebody along/away; 정신없이 빠져들게 만들다
+* sweep the board; 어떤 대회를 #휩쓸다
+* make a clean sweep; 말끔히 정리하다
+
 ## swipe
 * swipe 의 사전적 의미는 [후려치다,휘두르다] 라는 뜻이 있어요. 하지만 인터넷상에서 swipe 한다는 말은 인스타그램 같은 곳에서 사진을 [옆으로 넘기다] 라는 의미를 가져요. 손가락으로 오른쪽, 왼쪽으로 사진을 넘기면서 보죠. 영상에서처럼 데이팅 앱 같은 경우에, 상대방의 사진을 보고 마음에 안들면 왼쪽, 마음에 들면 오른쪽으로 스와이프하여 사진을 저장할 수가 있다고 합니다. 영상에서는 단순히 [그의 얼굴을 스와이프했다] 라고 나와있지만, 결혼까지 하게 되었으니 당연히 [좋은 쪽으로 스와이프했다] 로 해석이 됩니다.
   * 오른쪽으로 넘겨봐. 그러면 사진 더 볼 수 있어. ex) Swipe right, and you can see more pictures.
@@ -2228,12 +2461,27 @@
 * 남이 어떤 나쁜 일을 겪지 않도록 해주는 것을 spare라고 합니다. 사용시 어순은 「spare 사람 (from) 불쾌한 일」입니다. 영상속 대사를 살펴보면 spare(받지 않게 해주다) / others(다른 사람들) / the anguish of the disease(이 병으로부터의 고통)이 되겠습니다.
 	* 그녀는 그녀의 어머니에게 어떤 걱정도 끼치지 않길 바랬다. She wanted to spare her mother from any anxiety.
 
+## second
+* do you have a second? 동의하다
+  * #간접 흡연 #secondhand smoking
+  * #중학교 #middle school #secondary school
+  * #고등학교 #high school #secondary school
+  * 그렇게 좋지 않다고 생각할 수도 있다       Filipino English is ##second par
+  * #2도 화상 #second-degree burn
+  * 자책하다; Don't #second guess yourself, 
+  * 중고품 가게 #seecond hand / used store
+  * ##secondary
+
 ## sea
 * i was sea; 1. 항해중인 2. 어쩔 줄 모른다;
 
 ## seam
 * seam은 원단 등이 이어지는 이음매, 접합선이란 뜻입니다. 접합선이 없다(-less)는 것은 이음새가 매끄러운, 즉 끊어짐 없이 자연스럽다는 것입니다. 따라서 seamlessly라고 하면 ‘부드럽게(smoothly), 흠집 없이(flawlessly)’란 의미입니다. 여기서 organic은 ‘주변의 것과 유기적으로 어울리는, 자연스러운’이란 뜻입니다. 영상에서 프레슬리가 자신이 나온 부분이 전체 인터뷰에서 매끄럽고 자연스럽게 흘러갔기를 바란다는 의미로 한 말입니다.
   * 그들은 마지막까지 계획을 부드럽게 이행해 나갔다.  They seamlessly carried out the plan till the end.
+
+## stray
+* "삐져나온 머리카락"을 영어로?▶stray hair
+  * "짝없는 양말"을 영어로?▶ stray sock
 
 ## strand
 * 형용사 stranded는 이동수단 혹은 돈이 없어 오도가도 못하는 상황을 뜻해요.
@@ -2398,6 +2646,7 @@
 * square 가 가장 기본적인 의미로는 [정사각형] 을 의미하는데요. 정사각형은 모든 변이 같잖아요? 그래서 이 단어가 동사로 쓰일 땐 A square with B 처럼 쓰여서 [A와 B가 일치하다] 라는 의미를 가집니다.  영상에서는 이미 with 의 의미를 내포하고 있는 together 가 쓰였기에 with 는 쓰지 않았습니다.
 	* = 이 데이터는 그가 오늘 아침에 우리한테 설명한 거랑 맞지가 않는데. This data don't square with what he explained to us this morning.
 * 이 제안이 받아들여지지 않으면 우리는 원점으로 되돌아가게 될 것이다. If this suggestion isn’t accepted, we’ll be back to square one. 
+* 정답을 맞췄어요; get the square
 
 ## spew
 * 1. 뿜어내다, 분출하다  2. 뿜어져 나오다, 분출되다  3. (비격식) 토하다  spew out 이라고 많이 쓰이는데요. 발음은 '스퓨' 정도로 해요. 많은 양의 무언가를 빠르고 힘 있게 뿜어내는 것을 의미합니다. 
@@ -2643,6 +2892,10 @@
 * : 지금 머리속에서 막 생각나는건 응용 예시2. off the top of my head
 	* 지금 바로 머리속에 생각나는게 없어. [ex] I can't think of anything off the top of my head.
 
+## tail
+* #뒤를 밟다; you got a #tail on me
+* (이야기·행사 등을 망쳐 놓는) 불쾌한 끝 부분; a sting in the tail 미국식  영국식   단어장추가
+
 ## taste
 * 을 알려주자면, 설명해보자면 = to give you a taste of
 
@@ -2846,6 +3099,17 @@
 ## win
 * 동사 win 은 이처럼 승리해서 상을 타듯 뭔가를 노력해서 '얻다, 쟁취하다' 라는 뜻으로 쓸 수 있답니다! 예문을 보면서 더 익혀보세요. ※ win over는 이전에 나를 지지하거나 신뢰하지 않았던 사람의 지지 또는 신뢰를 얻어내는 등 성공적으로 마음을 바꿨다는 어감이 좀 더 살아있는 표현입니다.
   * 그는 대중의 엄청난 지지를 얻었습니다. [ex] He has won huge public support.
+
+## wind
+ * 지금은 상처를 물에 닿지 않게 하렴     Keep the wound away from water for now 
+ * 벽시계가 느려지더니 결국 멈췄어     The clock wound down and finally stopped 
+ * 이 파티 분위기를 누그러뜨리고 사람들을 집으로 돌려 보냅시다
+ * Let's wind this party down and try to get people to go home 
+ * 내 회사 메일이 지금 다운되었어         My work emai is currently down 
+ * 걘 너처럼 되기 싫어해         #wind HE doesn’t wanna wind up like you
+ * 서서히 끝나다 #wind down
+ * #wind around; slam your body down and wind it all around; #감다; 감아 올려
+ * Luckily, the boss still hasn’t gotten wind of it. 다행히 아직 사장님 귀에는 안 들어갔어요
 
 ## wipe
 * wipe는 무언가를 '닦다, 지우다'는 의미로 익숙하죠? 명사 wipe는 무얼 닦는데 사용하는 천조각을 의미하기도 하는데요, wet wipe는 흔히 우리가 일상적으로 사용하는 물티슈라는 뜻이고, baby wipe(아기 물티슈)도 더불어 자주 쓰는 단어입니다.

@@ -5,17 +5,6 @@
   * 경찰은 이 지역에서 윤락행위를 근절하려고 노력했다.The police tried to stamp out prostitution in this area.
 * 세뇌; 많은 가정 폭력 피해자들은 자기 자신이 가치가 없다고 믿도록 일종의 세뇌를 당하기 때문에 폭력적인 배우자를 두고 떠나질 못한다.
   * ex) Many domestic violence victims don't leave their violent partners because they are basically brainwashed into thinking they are worthless. brainwash into: -을 하도록 세뇌시키다.
-* 잘못 짚었어; The cops are barking up the wrong tree
-* 지방정부는 불법 활동을 단속하시 시작합니다 The local government cracked down on all the illicit activities
-  * 동사로 쓰일 땐 crack down 이라고 쓰고 [엄중 단속하다, 단호한 조치를 취하다] 의 의미를 갖습니다. 전치사 on 과 함께 쓰여서 무엇을 단속하는지 표현할 수 있는데요. crack이 혼자 쓰일 땐 [갈라지다, 금이 가다, 깨부수다] 등의 의미가 있기에 주로 불법 행위를 집중 단속하여 깨부순다는 뉘앙스로 쓰입니다.
-    * = 잔인한 단속은 국제적 분노를 일으켰다. The brutal crackdown triggered international outrage.
-* 얄팍한 속임수들을 소개합니다; Here are some sneaky ways
-  * 그런 같잖은 속임수들이 싫어; i don't like your little games
-  * 우리가 완전히 속았던 거라면; If we were completely played
-  * 그럴듯하게 속이다; put on a show; they put on such a good show at first
-  * 사기치다; pull a fast one; I wasn' t trying to pull a fast one 
-  *  내가 다 알지만 속아준다.  i'll give you the benefit of the doubt.
-  * 목소리 변조하고 이써; He's altering his voice, electronically 
 * 죗값을 치렀어요; i've done my sentence
 * 삼성쪽에서 직접 사진을 유출했죠; Samsung leaked a picture
 * 위법이다; It's against regulation
@@ -60,11 +49,30 @@
     * 이 사기꾼아 네가 나를 감히 속여?! ex) How dare you fool me, you con-man!
   * 그 가짜 의사에게 사기를 당했다. She was scammed by the fake doctor; 순진해서 잘 속는; Gullible
   * 사기꾼: fraud; fraud, con, dupe, scam; He was jailed for three years for fraud and tax evasion
-* 도망중이야; Two supects are on the run
-  * run away; on the lam; get away
-  * 그 죄수는 높은 교도소의 벽을 넘어 도망쳤다. The prisoner scaled the high prison wall and ran off.
-  * 법망을 피해 다니는 사람 a fugitive from justice   [ˈfjuːdʒətɪv] 
 * 작용하는 규칙들; rules at play; there are some rules at play affecting this
+  * #규범 #norms; #room; the last room
+ * 규칙 #따르다; #obey all park rules
+ * #순응하다; #conform to = #comply with
+ * 규칙을 정하다 #establish a rule
+ * 규칙을 적용하다; #invoke
+ * #적용하지 않다;#ㅈ먚ㄷ
+ * 엄격한 규칙을 부과하다 #impose strict rules
+ * Mr.Lee는 항상 규칙대로 일을 한다.        Mr.Lee always goes by the book.
+ * Your roof, your rules(#roof) 너의 집이니까 너의 규칙을 따른다
+ * 행동 수칙          #user code of conduct / #dos and don’ts 
+ * 원칙대로 합시다.          ə'baɪd 머무르다 Let's abide by the principle.
+ * #호환                   Be compatible with~ 
+ * 나는 원리 원칙만 고집하진 않아             I don’t #play by the rules
+ * 규칙을 깨다 #break some rules/#law
+ * 정부는 그 조약의 조건을 위반했다는 비난을 받고 있다.
+ * The government is accused of #breaching the terms of the treaty.
+ * #위반; be against the rules
+ * #infraction; minor infractions of EU regulations
+ * #contravene; 위반하다
+ * #원칙을 무시하다; #cut corners(#corner)
+ * #어기다 #go back on; go back on my word = #break # fail to keep
+ * #in theory
+ * 규칙 안어겼어; we didn't #bend the rules
   * 규칙에 어긋나; That's against the rules; bend the rules
   * 쉽게 말하면 [마음대로 하지 못하게 제한하다]라는 의미로 [단련하다, 훈육하다, 절제시키다, 징계하다]등으로 해석합니다. 모두 멋대로 행동하지 않고 한계점을 둔다는 의미가 내포되어 있죠.  여기서 말하는 discipline the price 도, 가격을 특정 범위내로 제한한다는 뜻입니다. 
   * = 그녀는 규율을 어겨서 징계받았다. She was disciplined for breaking rules.
@@ -251,6 +259,7 @@
 * #turn in; turn someone in(#수사기관에)신고하다; #report; #자수 he turned himself in
   * - turn oneself in: 스스로 경찰에 자수하다 - turn in someone: 누군가를 경찰에 고발하다, 경찰에 넘겨주다
   * 밀고하다; drop a dime
+  * 누가 일렀어: Who cracked
 * 수사에 착수하다; #launch/start an #investigation
 * #수갑 #cuff; get me out of these cuffs
 * #결박하다; #put in irons(#iron)

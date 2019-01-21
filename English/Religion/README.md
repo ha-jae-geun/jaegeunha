@@ -48,3 +48,39 @@ In Florence, a perspective was introduced in religiosity.
 # 기독교
 * 네 이웃의 아내를 탐하지 말라. (기독교 10계명 중) ex) You shall not covet your neighbor's wife.
 * rebirth 도 '부활' 이라는 의미로 많이 사용되는데요. rebirth 는 다시 새롭게 태어나는 것이기 때문에 무언가 완전히 새롭게 향상된 시기를 의미하는 반면, (환생의 의미도 지닙니다.) resurgence 는 인기가 없어졌거나 잠잠했던 무언가가 다시 나타나고 자라는 것을 의미합니다. 또한 종교적인 문맥에서 부활은 resurgence 를 씁니다. 예를 들어, '예수님의 부활' 에선 새로 태어나신게 아니고, 동굴에 묻혔다가 다시 일어나서 걸어나오신 것이기 때문에 resurgence (또는 the Resurrection) 를 씁니다. resurge [risə́:rdƷ]
+	* #대충하다 #설렁하다 #마지 못해 하다 #의욕
+ * ##교회: church 더 큰 교회: cathedral
+ * #신실한 #기독교인; he is a #devout/#sincere christian
+ * #첨탑; #spire 미국·영국 [|spaɪə(r)]; put flags on the spire; spire of the ancient mosque
+ * 우리를 #인도하소서; god #deliver this
+ * #무신론자 #atheist; 에이씨스트
+ * #종교적 신념; #religious conviction
+ * What's your religion -> Do you have a religion?
+ * #대부 								 godfather 미국식 [|gɑ:dfɑ:ðə(r)]
+ * 종교가 무엇입니까						 What is your religious affiliation
+ * #전능 #omnipotent; #almighty
+ * 나는 #무교야 								 ‘eɪθiɪst I’m an atheist.
+ * #모독스럽게도						 [blǽsfǝmi] by some #blasphemy
+ * #travesty; that is a travesty
+ * #신성 모독적인 #불경한; #profane
+ * #성스러운; #sacred; sacred to -
+ * 설교					 sermon, preach, give[preach, deliver] a sermon (on)
+ * *설교를 듣다							 hear a sermon예문 발음듣기
+ * #신성 모독 [blǽsfǝmi] #blasphemy
+ * #성인 #성자; #saint
+ * 종교적 #박해 #religious persecution
+ * #사이비, #이단 #cult #cultlike she took a lot of advice from a #cultlike woman
+ * #cultish religion, #cult leader
+ * #교황 #pope
+ * #찬양 #praise the lord | #worship; time for worship, songs of worship
+ * #찬송가 #hymn
+ * #세례; #baptize; #baptism; I was baptized by the priest
+ * #세례명을 받다; I was #christened Lupercus
+ * #예배; #service; during the service
+ * #신도들; #congregation; I locked my congrgation
+ * #이교도; #pagan# 미국·영국 [|peɪgən] 
+ * #분립; schism 미국식 [|sɪzəm]; end a schism
+ * #목사; #pastor
+ * #승려; #monk
+ * #종교 #무신론자 #무교 #설교
+ * #수도원; #monastery; #abbey, #convent - 수도원 

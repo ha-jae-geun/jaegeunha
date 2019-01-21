@@ -543,8 +543,9 @@ make a #great team
 * 참다; #stomach; I can stomach in a day
 * #복근, ##배 ӕb‘dɑ:mɪnl abdominal muscles | abdomen [|ӕbdəmən = #washboard stomach
 build your core muscles
-* 귀여운 느낌: #tummy
-* 배가 #꿀렁거렸어; I just had a bit of #turn of stomach
+	* 귀여운 느낌: #tummy
+	* 배에 힘주다; #tighten your belly, squeeze your abs
+	* 배가 #꿀렁거렸어; I just had a bit of #turn of stomach
 * #뱃살 belly fat; belly pooch; if you're dealing with the pooch  [puːtʃ] 
 	* 등이나 배의 군살을 생각해 보세요. 접힌 살들이 마치 두루마리(rolls) 여러 개가 겹쳐 있는 것처러 보이지 않나요? 그래서 back rolls, stomach rolls의 rolls는 바로 그런 접히는 군살들을 의미합니다. 
 		* 쟤 브라 주변에 살 좀 봐! 브라가 너무 작은 것 같아.  Look at her bra rolls! I think her bra is way too small for her. 
@@ -608,6 +609,7 @@ His sudden smile made her go #weak at the knees. ; 2. 약한
 * #양털같은; #fleecy; fleecy sweater
 * ##부드러운
 * 옆구리: flank
+	* 옆구리 땡긴다; #side cramp; #side stitches
 * #허벅지	thigh θaɪ
 * #말벅지	my legs are huge
 * #꿀벅지	#thunder thigh
