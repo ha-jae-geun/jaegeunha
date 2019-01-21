@@ -302,6 +302,10 @@
     * 몇몇 정치인들은 표를 더 얻기 위해 의도적으로 민감한 부분을 건드린다. ex) Some politicians deliberately press buttons to get more votes.
 
 
+## bachelor
+* 한 번도 결혼한 적이 없는 남자를 의미하는 단어예요. 미혼 여성은 bachelorette 이라고 하고요. 2번의 의미로도 종종 쓰이고, 학사 학위를 Bachelor's degree 라고도 합니다.
+  * 제이든은 애완견이랑 함께 혼자 사는 독신이야. ex) Jaden is a bachelor living alone with his pet.
+
 ## bacon
 * 내가 널 곤경에서 구해낼 거야 I ' ll save your bacon . 예문 발음듣기
 
@@ -609,6 +613,9 @@
 	* 그들은 큰 나무통을 파내서 카누를 만들었다. They made canoes by carving out big logs.
 * 연기파 배우로서의 입지를 다지기 전까지 오랜 시간이 걸렸다. It took a long time before I was able to carve out a career as a character actor.
 
+## cram
+* = 10명의 사람이 작은 승합차에 꾸역꾸역 들어갔다. 10 people crammed into a small van.
+
 ## crash
 * 1) 컴퓨터가 외부적 충격이 아닌 시스템적으로 고장이 나서 작동 되지 않는 것을 crash라고 합니다. 우리가 흔히 ‘에러나다’라고 표현하는 것과 같습니다. 동사와 명사 두 가지 용법이 있습니다.
 	* 컴퓨터가 갑자기 에러나서 처음부터 다시 작업을 해야만 했다. The computer crashed out of the blue so I had to work on it all over again.
@@ -784,6 +791,8 @@
 
 ## element
 * 비 바람을 맞으며 앉아있따; i'm a shepherd, sitting here in the elements
+* : (자신의 영역인듯) 편안해 하다, 잘 하다, 자신감 넘치다 be in one’s element
+    * 라이언은 정치에 대해 이야기를 매우 좋아하고 잘 한다. Ryan is in his element when talking about politics.
 
 ## elephant
 * 이 표현은 모두가 문제가 있다고 인지하면서도 아무도 그것에 대해서 이야기하고 싶어 하지 않는, 껄끄러운 상황을 의미합니다. 영상에서 말한 “The elephant is in the room”처럼 한 문장을 표현하셔도 되고, elephant in the room(모두가 알지만 말하지 않고 있는 문제)처럼 명사로 말해도 됩니다.
@@ -835,7 +844,9 @@
 ## easy
 * 상관없어; i'm easy
 * 쉽다; Easy peasy lemon squeezy
-
+ * 식은죽 먹기다      #shooting fish in a barrel(#barrel), It's as easy as pie. That's nothing. 
+ * So easy. Dead easy. It's a piece of cake. It's a breeze. It's a snap. It's easy.
+ 
 ## fall
 * 3) fall into (group/part/category) 는 ‘~에 포함되다, 속하다’ 입니다. 만약 groups, parts, categories 처럼 복수로 명사가 오면 ‘-로 나뉘다’로 해석합니다.
   * 100명 중에 단지 15명의 학생들만 이 그룹에 속한다. Out of 100, only 15 students fall into this group.
@@ -844,6 +855,7 @@
 ## fair
 * fair 는 형용사로 [공정한]을 의미하기도 하지만, 수나 양이 놀랄 정도는 아니지만 그래도 [상당한, 제법 큰] 을 의미하기도 합니다. * a fair share of = 상당한 몫, 양
   * = 모든 세부 사항들을 수집하는 데는 꽤 많은 노력이 들 거예요. It will take a fair amount of work to gather all the details.
+* 1. 옛날 방식 beautiful 2. pale; 하얀;  3. 동등한
 
 ## feel
 * 2. 'feel like'는 '~인 것 같다', '~처럼 느껴진다', '~같은 느낌이다'라는 뜻으로, 구어적 표현 중에서도 필수적으로 꼭 알아둬야 할 표현이에요! 익혀두면 정말 유용하고요. 다음 두 형태로 자주 쓴답니다.
@@ -1087,6 +1099,11 @@
 * # 순조로운 / 쾌조의 출발을 보이다; #hit the ground running
 * #따라 잡다; #gain ground on
 * 상대에게 이점을 뻈기다; #lose ground to
+* 의 기반을 쌓다, 기초를 놓다. 대비하다 = lay the groundwork for
+  * 지금 시간이 더 있을 때 미래의 커리어를 위한 기반을 쌓아두는 게 좋을거야. ex) You'd better lay the groundwork for your future career when you have extra time now.
+* : 강세를 보이다, 더 나아가다, 성공하다, 더 인기를 얻고 있다  [ 숙어 ] gain ground
+  * 처음엔 잘 안 되었지만 이제 점점 인기를 얻어가고 있다. At first we didn't do well, but now we're slowly gaining ground.
+
 
 ## genius
 * 누구나 ~ 할 수 있다 = It doesn't take a genius to 동사원형
@@ -1291,6 +1308,9 @@
 * : 네 자신에 집중하기나 해 Just give yourself up; Give oneself up' : 자기자신에 집중하다.
 * : 난 그 사람과 헤어지고 싶지 않아요. I don't want to give up on him. Give up on someone' : 와 관계를 끊내다. 종료하다.
 
+## history
+* 나머지는 알려진 그대로야.  = The rest is history.
+
 ## hear
 * (특히 연설 중에 맞장구치는 말로) 옳소! 옳소! hear! hear! 미국식  영국식   단어장추가
 
@@ -1390,7 +1410,7 @@
  * 빨래좀 #널어놔 hang up the laundry to dry
  * 은행 주위를 어슬렁 거리는 노숙자가 있네요. There is a homeless person hanging out/around the bank. 
  * #hang loose; 편히 쉬고 있어요
- 
+
 ### hang up
 * : 전화 끊지마, 자기야. Don't hang up, sweetie
 * : 왜 우리는 누군가가 어기는 모든 법에 그렇게 집착하는 거지?' Why do we get so hung up on every law someone breaks?
@@ -1467,6 +1487,10 @@
 * 무언가를 꼭 쥐고 달라붙고 관심가지고 혹한다; 사람에게 할 경우 친해지려고 한다; latch on to
   * 직원들은 그 문제에 주목했다; Members have latched on to the issue
   * 트렌드에 열중해왔따; have latched on to the trend of using consultants
+
+## load
+* 1) load 는 명사로 [짐] 또는 동사로 [짐을 싣다, 사람을 태우다] 의 의미를 가집니다. 보통 운송 수단에 짐이나 사람이 가득 찼을 때 fully loaded 라고 해요. 
+  * 미안해, 잭. 차가 5명이랑 짐으로 가득 차서 자리가 없어. 테일러한테 태워달라고 한 번 물어봐. ex) Sorry, Jack. The car is fully loaded with 5 people and their luggage. You might want to ask Taylor for a ride.
 
 ## log
 * 그날그날의 일을 기록한 것을 log 라고 부릅니다. 일상생활을 영상으로 기록하는 브이로그(Vlog)도 Video 와 Log 가 합쳐진 단어죠.  참고로 [sleep like a log: 세상모르고 자다] 라는 표현도 알아두세요. 여기서 log 는 통나무인데요, 죽은듯 자는 모습을 통나무에 비유한 겁니다.
@@ -1689,6 +1713,10 @@
 	* 그녀는 혼자 힘으로 부를 얻었다. She's a rich woman in her own right.
 * ☆#발라버리다; #own; i'll own you; team A totally owned Team B
 * ☆인정하다; #own up to; you don't want to own up to it
+
+## phase
+* [단계] 라는 의미가 있는 phase 로부터 나온 표현이에요. phase-out 으로 쓰면 명사로 [단계적 폐지] 를 의미합니다. 마찬가지로 [단계적 도입]은 phase in 을 쓰면 되겠죠?
+  * 몇몇 사람들은 핵발전소가 단계적으로 폐지되어야 한다고 말한다. ex) Some say nuclear power plants should be phased out.
 
 ## pat
 * * pat down  1. 몸 수색을 하다. 2. 가볍게 두드리다. 불법적인 무기나 마약 등을 소지하고 있는지 몸을 훑어가며 수색하는 것을 의미합니다. 보통 공항 보안 검색대에서 출국할 때 하는 검사를 생각하시면 됩니다!
@@ -1998,6 +2026,10 @@
 * 흔히 too rich for my blood라고 하는데요, 나한테는 너무 비싸, 예산초과야, 과분해 라는 뜻이랍니다. 어떤 음식이 칼로리가 너무 높다고 할 때도 사용해요.
   * 이 호텔은 나한텐 너무 비싸. This hotel is too rich for my blood. 
 
+## rope
+* on the ropes : 궁지에 몰린, 패배 직전인; 2) have someone on the ropes 는 [를 궁지에 몰아넣다/패배 직전까지 몰아넣다] 라는 의미로 쓰였어요.
+  * 우리는 토론 대회에서 다른 팀을 거의 패배 직전까지 몰아넣었다. ex) We had the other team on the ropes during the debating competition.
+
 ## round
 * 한장소, 한장소 돌면서 일하는 것을 do rounds / go on rounds / make rounds / be on rounds 라고 표현합니다. 영상속 주인공의 아버지는 내과 보조 의사이기 때문에 이 경우에는 ‘회진’을 말하는 거겠네요.
   * 그 경찰관은 순찰을 돌고 있었다. The policeman was going on his rounds.
@@ -2245,6 +2277,9 @@
 
 ## slight
 * slight 는 형용사로는 [관심을 기울이지 않아도 될 만큼 가벼운], 명사로는 [무시, 모욕], 동사로는 [무시하다] 라는 의미를 가져요. 누군가를 가볍게 여기고 리스펙 하는 것 없이 행동하는 것인데요. 그래서 주로 수동태로 쓰이면서 [무시당하다] 라는 의미를 가집니다. = be(feel) slighted
+
+## streak
+* Her stubborn streak makes her very difficult to work sometimes.
 
 ## stretch
 * 조금 부담이지만; it's a bit of a stretch for us
@@ -2786,6 +2821,10 @@
 * nerve-wracking 혹은 nerve-racking이라고 씁니다. nerve는 ‘신경’이고 rack은 ‘괴롭히다, 시달리게 하다’입니다. 내 신경 하나하나를 괴롭히는 듯한 느낌으로, 어떤 상황이 사람을 매우 긴장하게 하거나, 안절부절 못하게 할 때 사용합니다.
   * 운전면허시험이 내 삶에서 가장 긴장되는 경험이었어. Driving test was the most nerve-racking thing in my life.
 
+## wreak
+* 1) wreak 은 동사로 [(큰 피해를) 입히다] 라는 뜻이 있고, havoc 은 [대파괴/큰 혼란] 이라는 뜻이 있어요. 이 두 단어는 보통 함께 쓰이기 때문에 같이 숙지해 두시는 것이 좋습니다. * wreak havoc on : 에 큰 피해를 입히다. / (복수를) 가하다.
+  * 2) [에게 복수를 가하다] 라는 뜻으로 쓰일때도 wreak vengeance on 이라는 형태로 쓰입니다.
+
 ## wrap
 * wrap는 '포장하다', '싸매다' 라는 뜻이에요. get wrapped up in sth을 직역하면 '무언가에 꽁꽁 싸매이다' 인데요, '다른 모든 것은 무시할 정도로 몰두해버리다' 라는 뜻입니다.
 	* 네 아이들에게만 너무 몰두하지는 마. 너와 네 아이들에게 안 좋아. ex) Don't get too wrapped up in your children. It's bad for you and your children.
@@ -2838,6 +2877,8 @@
 	* 모두가 토론에 달려들어 자신의 의견을 주장했다. Everybody weighed in on the debate. 
 * weigh down은 실제로 무언가를 먹어서 몸이 무거운 느낌을 들게 하거나, 어떤 것들이 쌓여서 무게에 축 쳐지는 것처럼 움직이기 어렵게 만드는 걸 의미하기도 하고 또는 어떤 책임이나 업무 때문에 스트레스 받고 짓눌린 걸 나타내기도 합니다. 여기서는 햄버거처럼 느끼하고 무거운 음식을 먹어 몸이 무거워짐을 의미하죠~
 	* 내 업무량 때문에 정말 짓눌린 느낌이다. I feel really weighed down by the workload I have.
+* 기본적으로 weigh는 ‘무게를 저울질하다’는 뜻입니다. 이 상황에서는 상황의 경중이 얼마나 되는지 최종 결정을 내리기 전에 정황을 충분히 살펴본다는 의미이지요. 그래서 weigh criminal charges는 범죄 혐의가 어떻게 되고 범죄가 얼마나 중한지 조사한다는 것입니다. 
+  * 그들은 그녀를 고발하기 전에 모든 증거를 면밀히 조사했다. They weighed (up) all the evidence before they filed charges against her
 
 ## whack
 * out of whack = 제대로 안 돌아가는; 기계, 시스템 등이 제대로 작동되지 않거나, 엉망진창이고 혼란스러운 상태를 가리켜 out of whack 이라고 합니다. whack 은 세게 후려 치는 것을 말하는데요, 내려 쳐도(whack) 말을 듣지 않는다(out of)는 의미입니다. 예를 들어 움직이지 않으려는 노새를 채찍으로 내려치거나, 고장난 기계를 탕탕 내려 쳐도 작동하는 않는 것 처럼요.

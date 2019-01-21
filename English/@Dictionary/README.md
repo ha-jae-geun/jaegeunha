@@ -1,3 +1,7 @@
+# 0
+* 속어로 zip 은 nothing 을 의미합니다. 스포츠에서 스코어를 이야기 할 때 1-0 이면 one-nothing 이라고도 하거든요. 주로 미국에서 쓰이는 단어이고요. 비슷한 단어로 nil 이라는 단어가 있는데, 이 단어는 특히나 스포츠에서 많이 쓰이며 nothing 또는 zero 를 의미해요.
+  * 난 탐이랑 아무 관계가 없어. 우린 그냥 학급 친구일 뿐이야. ex) I got zip to do with Tom. We're just classmates.
+
 # 1등
 * 1등; I'm the first; The first place.; I'm the winner! Winner!
 * top the list; topped the list of something; 설문 조사 결관
@@ -37,12 +41,17 @@
 # 가치
 * 시도해 볼만한 가치; It's worth a try; look 볼만한 가치
 * 고생할 가치가 있다; the juice worth the squeeze
+* # 독점; 그리고 monopoly 는 ‘독점, 독점하는 상품, 전유물’ 등을 말하고, ‘소수독점, 과점’은 oligopoly 입니다.
+  * 저 석유 회사는 정부 소유의 독점 기업이야. That oil company is a state-owned monopoly. 
 
 # 가짜
 * 보통 bogus note (위조 지폐), bogus contract (가짜 계약서)등으로 많이 쓰이는데요. 영상에선 나이를 먹음에 따라 시간을 느끼는 속도를 공식으로 할 수 있다는 과학이 터무니 없는 [가짜 과학이다 = 말도 안 된다] 로 해석이 되었습니다.
 	* 애들 몇명 와서 이 위조 지폐로 과자 사갔어. ex) Some kids came and bought some snacks with this bogus note.
 * 실수; faux pas; 불어 표현; 실수; paus의 s 묵음; wht's the biggest fashion faux pas
   * faux: 가짜; faux fur: 인조 모피; faux leather; 인조 가죽 faux pas 미국식 [ˌfoʊ]  영국식 [ˌfəʊˈpɑː] 
+
+# 각오
+* 마음 단단히들 먹어라. 겨울이 오고 있다. "Brace yourselves. Winter is coming."; Buckle up
 
 # 감
 * 그 의사의 예감이 옳았던 것 같았다. It seemed that the doctor’s hunch had been right. 
@@ -236,6 +245,7 @@
 	* 내 초콜렛이랑 네 쿠키랑 바꾸자.  I'll trade you some of my chocolate for some of your cookies.
 
 # 과분
+* # 과언; ~라고 해도 과언이 아니야, ~라고 할 수 있지.
 * 흔히 too rich for my blood라고 하는데요, 나한테는 너무 비싸, 예산초과야, 과분해 라는 뜻이랍니다. 어떤 음식이 칼로리가 너무 높다고 할 때도 사용해요.
   * 이 호텔은 나한텐 너무 비싸. This hotel is too rich for my blood. 
 * # 오바; glitz 는 ‘반짝거림, 화려함, 현란함’이고, over the top 은 ‘너무 지나친, 오바하는’을 의미합니다. 그리고 over the top 은 “야, 오바하지마”라고 할 때도 쓸 수 있어요. * over-the-top glitz = 과장된 화려함
@@ -258,6 +268,8 @@
  * ☆#앞서가지마               Don't #get ahead of yourself.
  * ‘앞서갔나?                 Did I get ahead of myself?
  * #outrun; 앞서다
+* # 오로지; alone 은 '오로지 # 뿐, ~만, ~하나만으로도'라는 뜻! A 하나만 가리킨다는 걸 확실히 표시할 때 이렇게 명사[A] 뒤에 붙여보세요.
+  * 사과만으로는 충분하지 않다. [ex] Apology alone does not suffice.
 
 # 관련
 * 그녀는 스파이와 관련되어 있다. She goes hand in hand with that spy. 
@@ -284,6 +296,10 @@
 	* 그의 입장에서는 꽤 거금이지. From his standpoint, it's pretty big money.
 * [라는 측면/관점에서] 라고 할 때 from standpoint/viewpoint/point of view 를 사용할 수 있습니다. 중간에 형용사를 넣어서 어떤 관점인지 표현할 수 있어요!
   * 경제적인 관점으로 보면, 이 전략은 멋져 보입니다. ex) From an economic standpoint, this strategy looks wonderful.
+
+# 구석
+* # 면; 2) streak 은 나쁜 성격, 특징과 함께 써서 ‘…한 구석, …한 데’ 로 해석합니다. 
+  * = 그녀의 고집스러운 면 때문에 업무할 때 스스로가 힘들 때가 있다. Her stubborn streak makes her very difficult to work sometimes.
 
 # 구하다
 * 어딘가에 잠시 '들르다' 라는 의미로도 굉장히 많이 쓰이는 표현인데요. 영상에서처럼 무언가를 노력하여 [구하다]의 의미로도 많이 쓰입니다. 
@@ -356,6 +372,10 @@
   * 1) 문자 그대로 건축을 할 때 주춧돌이 되는 기초 토대를 만드는 것을 의미하기도 하고 - 전치사 of 
   * 2) 영상에서처럼 이후에 발전시킬 무언가의 개념, 이론, 사실, 정책 등의 기반을 놓는 것을 의미하기도 합니다 - 전치사 for
   * 테일러는 내가 이 조직의 기반을 쌓는데 정말 많이 도와줬어. ex) Taylor definitely helped me lay the foundation for our organization.
+* 의 기반을 쌓다, # 기초를 놓다. 대비하다 = lay the groundwork for
+  * 지금 시간이 더 있을 때 미래의 커리어를 위한 기반을 쌓아두는 게 좋을거야. ex) You'd better lay the groundwork for your future career when you have extra time now.
+* 미국의 대학 교육과정에서 강좌번호를 적을 때, 입문용 수업에는 101을 붙이는데요, 예를 들어 정치학개론은 Politics 101, 화학 입문은 Chemistry 101... 가 됩니다. 이렇게 입문, 또는 개론을 나타내던 101이 그 뜻이 발전해서 어떤 주제에 대한 가장 기본적인 내용, 기초 상식이라는 의미로 널리 사용되고 있는 것이죠.
+  * 계란 삶는 법은 알아야지. 그건 요리의 기본이야. You should know how to boil an egg - that's cooking 101.
 
 # 기억
 * lapse 는 명사로는 잠시 무언가를 잊어버리거나 부주의해서 생기는 [작은 실수 / 깜빡함] 을 의미해요. 동사로는 [소멸되다, 차츰 약해지다] 등의 의미가 있기도 하고요.
@@ -417,6 +437,12 @@
  * #추억을 불러일으키는 음식; #comfort food
  * I have a lot of good memories = do you have any memories
 
+# 기회
+* 배우로서, 그는 20대 때 그의 첫번째 결정적 기회를 얻었다. As an actor, he got his first big break in his 20s.
+
+# 꺼내다
+* 다들 얼른 계싼기 꺼내봐; Bust out your calculators everybody
+
 # 꺼져
 * 꺼져 #take a hike,(#hike) get off my back, #stay clear Boys, #off you go, #off you pop(#pop)
 
@@ -437,10 +463,15 @@
   * World War Two ended in 1945.   Now Winter has ended.  We ended our relationship.
   * ex> I finished my lunch. 
 * 끝냈다; I finished; 자연스러움: i've finished; i'm done
+* # 폐지; * [단계] 라는 의미가 있는 phase 로부터 나온 표현이에요. phase-out 으로 쓰면 명사로 [단계적 폐지] 를 의미합니다. 마찬가지로 [단계적 도입]은 phase in 을 쓰면 되겠죠?
+  * 몇몇 사람들은 핵발전소가 단계적으로 폐지되어야 한다고 말한다. ex) Some say nuclear power plants should be phased out.
 
 # 나누다
 * : (차이가 적게) 균일하게 만들다, 무엇을 똑같이 나누다 even something out
   * 파운데이션은 당신 피부의 색과 결을 고르게 만들어 줍니다. Foundation evens out the tone and texture of your skin.
+
+# 나머지
+* 나머지는 알려진 그대로야.  = The rest is history.
 
 # 나타나다
 * 인류가 떨어뜨린 씨앗에서 곡물(crop)이 자란 것을 우연히 발견하게 되었죠. 같은 맥락일까요? 예기치 않게 무언가가 갑자기 출현하는 것을 crop up 이라고 합니다. 혹은 특정 주제가 말 속에서 계속 언급되는 것는 것도 crop up 입니다.
@@ -500,6 +531,8 @@
   * [ex] Children soon pick up on tensions between their parents.
   * 2. (특정 논점 등) -으로 되돌아가다 당신이 좀전에 제기하신 문제로 잠깐 되돌아갈 수 있을까요.
     * [ex] If I could just pick up on a question you raised earlier.
+* 전체적인 상황이 어떻게 흘러가는지를, 마치 바람이 흘러가는 방향을 잡아내듯이 알아챈다는 뉘앙스의 재미있는 비격식 표현입니다. 특히나 영상에서처럼 숨기려고 하는 내용을 간접적인 방법을 통해서 알아낼 때 쓰는 표현이에요.
+  * 내 생각에 엄마가 우리 계획을 눈치채신 것 같아. ex) I think mom's caught wind of our plan.
 
 # 눕다
 * 하지만 lay 는 '눕히다' 라는 뜻이므로 '~를 침대에 눕히다' 즉 ~에 해당하는 목적어를 반드시 넣어주어야 완전한 문장이 되죠.
@@ -615,6 +648,8 @@
 	* = 소리랑 화면이 안 맞아. The soundtrack is not in sync with the picture. (=out of sync)
 
 # 동의
+* # 찬성; rubber stamp는 고무도장인데요, 서류에 고무로 된 도장을 대충 찍어내듯, 어떤 사안을 깊게 생각하지도 않고 기계적으로 찬성하고, 형식적으로 승인하고, 무턱대고 도장 찍는 것을 말해요. 흔히 의회정치에서 당의 정책에 덮어놓고 지지를 보내는 거수기 노릇을 하는 것을 말할 때 사용해요.  rubber stamp는 명사로 덮어놓고 찬성하는 사람 혹은 단체를 말하기도 하며, 동사로는 대개 하이픈(-)을 넣어 rubber-stamp로 씁니다.
+  * 윗분이 결정 내리면 위원회는 그냥 도장만 찍는 거야. The boss makes the decisions and the committee just rubber-stamps them.
 * 두말하면 잔소리지; Amen, sister
 * # 내말이 그말이야; YOu're telling me
 * [동의]를 의미하는 단어는 agreement 도 있는데요. consent 와는 나름 큰 차이가 있습니다. agreement의 경우엔 '합의' 로서의 동의를 의미합니다. 예를 들어, 양국 정상이 만나서 무언가를 합의하고 세부사항에 동의를 했을 때 reach an agreement라는 표현을 쓰고요. consent 같은 경우엔 '승낙'으로써의 동의를 의미해요. 영상에서처럼 부모가 무언가를 하는데 승낙을 해줘야 할 수 있을 땐 consent라는 단어를 씁니다. 그래서 무언가에 [동의하다, 승낙하다]라고 할 땐 give one's consent to something이라고 합니다. 동사로도 쓰일 수 있어요.
@@ -731,13 +766,15 @@
 * 갑자기 화제를 바꾸어 이야기가 옆길로 샐 때 쓰는 표현입니다. tangent 가 무언가와 접하게 되는 선을 의미하는데요. 거기서 벗어난 (go off) 뉘앙스의 표현입니다. 영상에서는 [약간 울버린 때문에 이야기가 샜다] 라는 의미로 a little Wolverine tangent 라고 썼어요. 직역하면 [약간의 울버린 이야기로 옆길로 새는 것에 저항할 수 없었다] 정도로 해석이 됩니다.
   * 얘들아. 주제에 집중하자. 정치 얘기로 딴 소리 좀 하지 마. ex) Guys. Let's focus on the topic. Stop going off on a political tangent.  [ˈtændʒənt]: 옆길로 세다; fly/go off at a tangent 
 * take - up with somebody; 누구에게 -에 대해 말하다; 나한테 이거 억지로 시킨 사람한테 따져; Take that up with the lady who forced me into this
+* # 구설수; 동사 wag는 수다를 떠느라 혀가 [나불거리다, 쉬지 않고 움직이다]의 의미를 가져요. 그래서 보통 tongues wag라고 써서 직역하면 '혓바닥이 나불거리다'라는 뜻을 가지는데요. 실제 의미는 사람들의 [구설수에 오르내리다]를 의미합니다.
+  * = 그만 좀 지껄여. Stop wagging your tongue.
 
 # 망설이다
 * 난 그것이 올바른 일이었는지 생각하며, 망설이는 중이었습니다. ex) I was holding back, wanting to know if it was a right thing to do.
 
 # 망했다
 * 망했따; be washed up
-
+* CEO 의 스캔들 때문에 회사가 망해가는 것 같아. ex) It looks like our company is going belly up because of the CEO's scandal.
 
 # 맞대다
 * 1. heart-to-heart : [명] 마음을 맞댄, 터놓고 하는 솔직한 대화  [ex] We had a heart-to-heart.
@@ -750,7 +787,7 @@
 
 # 매력
 * 매력있는; attractive; 유혹하는; seductive; give someone a seductive look
-
+* dollar 를 비격식으로 buck 이라고도 하는데요. 20세기 전체에 걸쳐서 백만 달러는 부의 상징이자 사람들의 로망이었기에, 그런 모습에서 누군가가 '백만 달러처럼 보인다' 라고 말하는 이 영어 표현은, 그 사람이 정말 멋져 보이고 매력적이다- 라는 걸 비유적으로 말한 표현입니다. 기분이 굉장히 좋을 때에는 feel like a million dollars 라고 말할 수도 있어요; * look like a million dollars (bucks)
 
 # 매우
 * # 존나; mad/hellas fun
@@ -867,7 +904,7 @@
 
 # 바꾸다
 * # 번복; change, turning over, reversal, upsetting, 번복하다 change, turn, reverse, upset; 결심을 번복하다; change one´s mind 
-
+* # 수정; 새로운 이민 정책은 입법 수정안을 필요로 합니다.
 
 # 바쁘다
 * ☆바쁘다; be snowed under = up to one's necks/ears/eyeballs (in) = up to my neck in
@@ -895,6 +932,11 @@
 
 # 발생
 * 문제/위협/위험을 가하다, # 일으키다 [ex] pose a problem/threat/danger
+* 1. 특정 사건 말고 일반적인 상황을 말할 때는 happen만 쓸 수 있어요. [O] Accidents happen. [X] Accidents take place.
+  * 실수는 나오기 마련이다. (위로하는 상황에서는 "야, 사람이 실수도 하고 그러는 거지") [O] Mistakes happen. [X] Mistakes take place.
+* 2. take place는 미리 계획한 일을 설명할 때, happen은 갑자기 발생한 일을 설명할 때 주로 써요.
+  * The 2018 Winter Olympics will take place in Pyeongchang, South Korea.
+  * I don't remember his face. It all happened so quickly.
 
 # 발전
 * 엄청난 비약[변화]. a quantum leap 미국식  영국식 
@@ -969,6 +1011,8 @@
   * 삶을 좀 더 객관적으로 바라보고, 숲을 볼 필요가 있어. You need to put your life into perspective and see the bigger picture.
 * 여기서 동사 project 는 특정한 의도를 갖고 어떤 이미지나 모습을 '보여주다' 라는 뜻이에요!
   * 그 사람은 강한 지도자의 이미지를 보여줄 줄 알죠. [ex] She knows how to project herself as a strong leader.
+* 1) do a double take 는 방금 본 것을 믿을 수 없어 [잘못본게 아닌가 하고 한번 더 보는 것]을 의미하는 동사입니다. 한번 보고 대수롭지 않게 여겼다가, 생각해보니 무언가 이상하다는 걸 깨닫는거죠. 영상에서는 [두 눈을 믿을 수 없었다] 라는 속뜻으로 의역되었습니다.
+  * 내가 수치들을 보여주었을 때, 내 매니저는 믿을 수 없는 듯 다시 한 번 더 보았다. ex) My manager did a double take when I showed her the figures.
 
 # 보조금
 * 보조금; subsidy; subsidize; 세금 감면이나 원래 내야 할 돈을 어느정도 감면해 주는 혀애의 돈 [ˈsʌbsədi]  [ˈsʌbsɪdaɪz]
@@ -999,6 +1043,8 @@
 * pass 가 [합격] 또는 [통행증]을 의미하는데요. 걸리는 것 없이 그냥 지나가는 모습에서 나온 표현입니다. 어떤 잘못을 했는데 한소리 듣거나 처벌 없이 넘어갈 때 쓰는 표현이에요. [이번엔 봐줄게]라고 말하고 싶을 땐 I'll give you a pass. 라고 할 수도 있어요.
   * = 사장이 그녀의 아빠라는 이유만으로 또다시 그냥 넘어갔어. She got a pass again just because the boss is her father. 
 * 안봐준다; the gloves are (coming) off
+* 권투 경기를 생각하시면 이해가 쉬울 거에요. 펀치를 힘껏 날려야 하는데 상대를 생각해서 주먹(punches)을 뒤로 뺀다(pull)는 것으로 ‘적당히 공격하다, 덜 힘들게 하다, 좀 봐주다’를 의미합니다.  ‘사정을 봐주지 않다’처럼 부정형으로 쓸 땐 [not/never pull any punches] 혹은 [pull no punches] 라고 해주세요.
+  * = 걔 사정 좀 봐줘. 감당하지 못할거야. (pull punches with 사람) Please pull your punches with her. She can’t take it.
 
 # 부정
 * = ...는 부정할 수 없지 There's no denying that...  Yes, he's cold. But there's no denying that he's a good leader.
@@ -1466,6 +1512,7 @@
 
 # 영업
 * #영업일    7business days
+  * 시에서 제일 핫한 식당이 두 블럭 떨어진데에 오픈했어요; The hottest new restaurant in the city opened up
   * 영업시간이 어떻게 되나요?  What hours are you open
   * 레스토랑(식당)은 몇 시까지 열어요? How late is the restaurant open?"
   * What time are  you open until <> what time does this club close tonight?
@@ -1533,6 +1580,8 @@
 
 # 욕
 * 너 자신한테 욕하면 안 되지; You can't bad mouth on you
+* excuse 나 pardon 은 '용서하다' 의 의미를 갖기에, 직역하면 [제 프랑스 말을 용서해주세요] 의 의미를 갖습니다. 이 말은 욕설을 한 사람이 자신의 욕설을 마치 프랑스어인 양 상대방이 알아듣지 못하길 바라는 모습에서 쓰이게 된 표현으로, 욕설을 하기 직전이나 직후에 쓸 수 있습니다.
+  * = 욕해서 미안한데, 이거 진짜 맛이 구리다. Pardon my French, but this tastes like shit.
 
 # 욕심
 * 직역하면 [눈이 배보다 더 크다] 라는 재밌는 표현이에요. 기본적으론 다 먹지도 못할 음식의 양을 욕심내는 건데요. 자기가 다룰 수 있는 것보다 많이 원하고, 욕심이 과해지는 걸 의미하는 속어입니다. stomach 대신 belly 를 쓸 수도 있어요.
@@ -1567,6 +1616,8 @@
 * 유리하다; youtube channel gives me an huge edge over the people who are learning English from textbooks
 
 # 유명
+* : 강세를 보이다, 더 나아가다, 성공하다, 더 # 인기를 얻고 있다  [ 숙어 ] gain ground
+  * 처음엔 잘 안 되었지만 이제 점점 인기를 얻어가고 있다. At first we didn't do well, but now we're slowly gaining ground.
 * a spike in popularity = 인기가 치솟음, 급등; 그래프를 떠올려 보세요. 수치가 증가할 때 그래프 선이 위로 뾰족하게 치솟겠죠. 바로 이 처럼 뾰족하고 날카로운 것이 spike 이고 비유적으로는 ‘급증’을 의미합니다.
   * 그건 단지 잠깐 인기가 올랐던 것 뿐이었다.   It was just a brief spike in popularity.
 * 난 유명해지는 것 이외에는 다른 건 신경 안 써. ex) I don't care about anything else other than making a name for myself. = make a name for oneself
@@ -1715,6 +1766,8 @@
 * congruence (= congruency) = 일치성, 조화, congruent = 일치하는, 조화를 이루는 [ˈkɑːŋ-]  영국식 [ˈkɒŋɡruənt] 
 	* 다가오는 행사를 위해 모든 부서 간에 완벽한 조화가 정말로 필요합니다. ex) We absolutely need a perfect congruence between all the departments for this upcoming event.
 * 그 커튼은 방에 잘 어울린다. The curtain is in keeping with the room. 
+* 직역하면 보조(step)가 맞지 않다는 것인데요, 비유적으로는 보통 사람들의 사고방식이나 행동과는 조금 다르다는 것을 의미합니다. 스케나지의 양육방식은 주류가 되는 대부분의 미국인들과는 달랐기 때문에 out of step with the rest of my country 라고 말한 것입니다.
+  * 나는 항상 내 또래들과는 사고방식이 다르다고 느꼈다. I always felt out of step with my generation.
 
 # 입장
 * 전치사 on 을 써서 [~에 대한 입장을 취하다] 라는 의미로 많이 쓰이기도 하는데요. 중간에 형용사를 넣어서 take a firm/tough/strong stand = [단호한/강경한/강한 입장을 취하다] 처럼 쓸 수도 있습니다.
@@ -1814,9 +1867,19 @@
 * 재미로; Just for kicks
 
 
+# 정도
+* - to a certain/some extent : 어느 정도(까지)는
+  * 어느 정도는 동의해. [ex] I agree with you to some extent.
+* - to a great/large extent : 크게, 상당히, 많이
+  * 선수 대부분은 실력이 크게 늘었다. [ex] Most of the players have improved to a great extent.
+
 # 정보
 * 'get the memo'는 표면적으로는 '정보를 전달받다'라는 의미이지만, informal(비격식)한 상황에서 '일이 돌아가는 형편을 인식하다'라는 말로 자주 사용된답니다. 부정형으로 써서, 사람들이 다 알고 있는 상황을 "잘 몰랐을 때"를 표현하곤 하죠^^
   * 기름값이 어떤지 못 들었어? [ex] Didn't you get the memo about gasoline prices?
+
+# 정부
+* have state-run monopolies on alcohol = 국영 기업이 독점으로 주류를 판매하다
+  * state 는 ‘정부, 국가’이고, run 은 ‘운영하다, 경영하다’라는 뜻을 가지고 있습니다. 그래서 state-run 은 ‘정부가 운영하는’이 되는거죠. government-run 이라고 쓰기도 합니다. 참고로 country/nation 는 정부기관, 국민, 영토 등을 종합적으로 가리키는데 반해 state 는 오직 ‘정부만’ 의미하는 것이 차이점이죠. 
 
 # 정하다
 * 2) “뇌를 어딘가에 세팅한다?” 의미가 대강 파악되실 텐데요, 그 일에 온전히 내 정신을 담아 집중한다는 뜻으로 쓰였습니다. 비슷한 표현으로 set mind on 이 있는데요, 어떤 일에 내 마음을 두는 것이니까 ‘간절히 바라다, 하기로 마음먹다’를 의미합니다. 
@@ -1827,6 +1890,7 @@
   * ‘#정신차려                                snap out of it, #get a grip on yourself, Get with the program
 * 정신이 막 여기저기 흩어져 있는 듯 할 때, 그래서 무언가에 집중을 할 수 없을 때 쓰는 표현으로 [한데 모으다] 라는 get together 를 쓸 수가 있어요. 그래서 집중을 필요로 하는 상황일 때, 무언가를 더 효율적으로 해야 해서 집중해야 할 때 자주 쓰이는 비격식 표현입니다.
   * 정부는 정말 정신 차려야 해. ex) The government really should get its act together.
+* 정신이 팔려있다; - was too preoccupied
 
 # 정체
 * 정체기 들통났어; i blew all my covers = i gave away all my secrets
@@ -1850,10 +1914,15 @@
 # 제외
 * A 를 고려 사항에서 빼다. 제외하다. = take(leave) A out of the equation.
   * 지금은 그걸 제외해서 생각하는 게 좋을 것 같아. ex) I think we'd better take it out of the equation for now.
+* # 제거; = 그룹에서 태만한 사람들을 쳐내야 할 때야. It's time to weed out slackers from the group.
 
 # 제출
 * 제출하다; submit: 이메일, 택배, 온라인, 파일첨부 때도 사용 가능 
   * turn in, hand in: 자기가 직접 제출할 때
+
+# 조건
+* string 은 원래 [줄] 이라는 뜻이 있는데요. 영상에서처럼 무언가를 계약하거나 제안할 때 줄이 주렁주렁 달린 것처럼 조건이 붙어있을 때 쓰기도 해요. [조건, 단서 조항]등을 의미하고요. 영상에서처럼 have strings attached 를 써도 되고, with strings attached 를 쓸 수도 있습니다.
+  * 조건이 있는 게 분명해. 계약서 다시 읽어봐. ex) There must be some strings attached. Read the contract again.
 
 # 조금
 * 자선을 위한 수표가 아주 조금씩 들어오고 있다. The checks for the charity are coming in dribs and drabs. 
@@ -1866,6 +1935,8 @@
 * #look into; 1. Can I look into the house 2. 조사하다; we have to look into the matter
 * #look over = #look into = #examine = #inspect
 * #알아내다; #detect; what did you detect?
+* 어떤 것을 면밀히 조사하거나 정독해서 읽는 것을 pore over이라고 합니다. pore는 명사로 ‘모공’이라는 뜻도 있는데, 우리가 피부에 벌어진 모공을 보면… 눈에 불키고 초집중해서 살펴보게 되듯이, pore over도 초집중해서 면밀히 살펴보는 것을 연상해 볼 수 있겠네요.
+  * 그녀는 오랜 시간을 들여서 단서를 찾기 위해 지문을 면밀히 읽었다. She spent hours poring over the text to search for a clue.
 
 # 조심
 * 차 조심해; Watch out for the cars
@@ -2053,6 +2124,7 @@
   * 사회 전체가 음주운전에 대한 무관용을 보여주어야 합니다. ex) The entire society should show zero tolerance on drinking and driving.
 * 참다; put up with it = suck it up
 * #날씨를 # 버티다; #Ride out the storm / weather
+* 과민증인가요? An intolerance?
 
 # 참석
 * attend: 1회 참석; join, enter: 그 자리에 꾸준히 참석; enter university
@@ -2304,6 +2376,7 @@
 * 목욕; 나는 얼굴에 비누거품을 칠하고 면도를 하기 시작했다. I lathered my face and started to shave. 
 * 변기 시트 올려놨나? We left the toilet seat up?
 * 수도꼬지 잠글 줄 몰라서 이렇게 ㅐ놓은거야? THis is because some idiots couldn't turn the sinks off?
+  * 수도꼭지가 새다; faucet just keeps leaking
 * Lather, rinse, repeat 을 직역하면 [비누 거품을 내고, 헹구고, 반복] 이라는 의미로, 비누 거품을 내고 헹구고 내고 헹구고 하면 끝이 안나는 모습에서 나온 표현으로 어떤 행동이나 과정이 계속 반복되거나, 반복 되어야 할 때 쓰는 비격식 표현입니다.
   * 걔는 항상 여자를 사귀면, 한 달 안에 헤어지고, 다른 여자를 만나. 항상 반복이야! ex) He always starts dating a girl, breaks up within a month, and meets another girl. Lather, rinse, repeat!
 

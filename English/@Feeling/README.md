@@ -928,6 +928,8 @@
 	* 정신을 잃을 정도로 무서웠어; It scared me out of my wits; out of one's wit: 제정신을 잃은; scare과 함꼐 자주 쓴다.
 * 자신감은 많이 있어요; i have a lot of confidence
 	* #자신없는; #faint-hearted
+	* : (자신의 영역인듯) 편안해 하다, 잘 하다, 자신감 넘치다 be in one’s element
+		* 라이언은 정치에 대해 이야기를 매우 좋아하고 잘 한다. Ryan is in his element when talking about politics.
 * 부모님이 #엄하셔 my parents are #strict
 * 하나도 안 무서워; you don't scare me
 	* scary 같은 경우엔 꼭 귀신이 아니더라도 누군가의 행동이 무섭거나, 고소 공포증이 있어서 무섭거나 할 때 쓸 수 있는 단어인데요. spooky 의 경우엔 [유령/귀신]을 의미하는 명사 spook 에서 유래된 단어이기에 마치 귀신이 나올 듯 으스스하고 오싹함을 의미하는 형용사입니다.
@@ -1724,6 +1726,7 @@ I am always overlooked(간과), never discount the contributions, put someone do
 	* 부러워 죽을거야; - would die
 	* envy: 상대방이 갖고 있는 것을 부러워하다 <> jealous; 잃을 것을 두려워하다
 * 답답하다. 						 I am so frustrating. stuffy라는 말 X
+	* This is so frustratig. It was very cramped; It's really suffocating; It's kind of stuffy in here. I feel heavy
 * 환기 시켜야 해. 							 I need to vent.
 * 스트레스 받는다. 				 I am so stressed out. (stressful X)
 * 최근에 일로 스트레스 받는다 		 Work has been so stressful. (사람 대상으로 안씀)

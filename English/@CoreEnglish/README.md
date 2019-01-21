@@ -44,6 +44,7 @@
 * orange; or 발음 + 인ge,  Strawberry; 스트로 입술울 모으지 않은 상태에서 '스트로' + bear + 이 
 
 # 기타
+* split; t 강조 필요없이 호흡을 짧고 강하게 소리내면 됨
 * roud; 로우드; choreography choreography 미국식 [ˌkɔːriˈɑːɡ-]; graphy 앞에 강세
 * generic; 제네릭; genetic; 지네릭
 * purple; 혀를 꽈야 한다보다 입안에 닿지 않게 하기 위해서 입술을 내민다. people의 힘이 빠진 쁠

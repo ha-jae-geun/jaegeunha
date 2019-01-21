@@ -268,6 +268,8 @@
   * 나일강 살인사건은 모든 면에서 정통 추리소설이다. Death on the Nile is a classic whodunnit in every sense.
 * #범인 #공범 confederate 미국·영국 [kən|fedərət]
   * 경찰은 마침내 진범을 체포했다. * #culprit; we could find the culprit
+  * 동사로 perpetrate 는 '(나쁜짓을) 저지르다/범하다' 라는 뜻이 있습니다. 불법적이고, 비윤리적이고, 해를 가하는 행동을 하는 사람을 perpetrator 라고 합니다.
+    * 이런 짓을 한 나쁜놈은 정의를 마주할 준비가 되어 있어야 할 거야. ex) The perpetrator of this act has to be prepared to face justice.
   * ǝkάmplis/ǝkɔ́m- #accomplice
   * ##confederation (국가・사업체 등의) 연합[연맹] the Confederation of British Industry
   * #지명수배 arrangements for the search for an identified criminal 

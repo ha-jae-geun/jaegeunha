@@ -908,6 +908,8 @@ firm
 * #판도가 #형세가 벼ᅟᅧᆫ하다	#turn the table
 * #진단서 없이 약국에서 바로 구입 O
 * 비상장 기업의 #주식	#over the counter
+	* public 이 [대중] 을 뜻하기도 하기에, 회사의 주식을 대중에게 사고파는 것을 허용한다는 점에서 [주식을 상장하다] 라는 의미를 갖습니다. 참고로 회사의 지분이나 주식을 공개하지 않고 대부분을 소유주가 가지고 있는 회사를 public 의 반대 개념인 private firm 이라고 합니다. go public 과 함께 알아두시면 좋은 단어는 IPO 인데요. Initial Public Offering 의 줄인 말로 [주식공개상장] 을 의미하며, 기업이 최초로 외부 투자자들에게 주식을 공개 매도하는 것을 의미합니다.
+		* 회사는 규모가 상당히 커지면 보통 주식을 상장합니다. ex) A company usually decides to go public when the size gets notably bigger.
 * #논외로 하다, #고려치 않다	#off the table, be #exception
 * #out of the/beside question,
 * #irrelevancy to the subject
