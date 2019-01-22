@@ -118,6 +118,7 @@
 
 # 강조
 * #강조하다; #emphasize = #Play up = #stress
+  * 중요시하다ㅏ; lay[put] stress on, put[place] emphasis on, regard[consider, look upon] sth as important; highly regard one's individuality 
 * 변화를 위한 긍정을 강조하라 | Accentuate the positive for a change  [əkˈsentʃueɪt]  
 * 강조할 때; 좋은일 만 있길 바래; i wish nothing but the best for you; nothing 해석 안하고 very, really, only 같은 강조
   * 그는 단순히 얼간이일 뿐이야; He is nothing but a jerk
@@ -451,7 +452,10 @@
 # 고치다
 * 무언가를 고치거나 향상 시키기 위해 작은 변화를 주는 것을 의미합니다. tinker 또는 tinker around 라고 쓸 수 있는데요. 뒤에 전치사 with 를 주로 써서 [~을 개선하다, 손 보다] 라고 할 수도 있습니다.
   * 고치려고 만지작거리는 건 문제를 해결하지 못 할거야. ex) Tinkering around won't solve the problem.
-                                 
+
+# 고향
+* 영국 어디서왔어요; WHich part of ENgland are you from?
+
 
 # 공감
 * 주로 [공감] 이라는 의미를 영어로 떠올리려고 하면 아마도 [empathy = 공감, 감정이입 / empathize = 공감하다] 또는 [sympathy = 동정, 연민] 등을 떠올리실텐데요. 두 단어는 헷갈리기도 하고 격식을 갖춘 단어입니다. 특히 empathize 라는 동사는 실생활에서 그리 많이 쓰이진 않아요. 영상에서처럼 쉽고 간단한 relate to 를 훨씬 더 많이 쓰니 꼭 알아두세요.
@@ -478,6 +482,12 @@
  * #tell; we need to tell him about that
  * 1. let someone know something
  * inform, notify + 사람 목적어 | notice, announce + 사물 목적어
+
+# 교통
+* 정체; (교통이) (Am) tie-up, be congested, be tied up  
+  정체 구간을 피하다; avoid congested areas 
+  고속도로가 극심한 정체를 빚고 있다; Traffic on the expressway is at a standstill.
+  The market has entered a phase of stagnation; Exports are showing signs of stagnation or even decline.
 
 # 교환
 * 물건을 서로 교환한다는 뜻인데요, 영상에서처럼 가장 가볍게 쓸 수 있는 단어가 trade 입니다. 이 외에도 swap, switch, exchange 등도 같은 뜻이지만, 용법에 약간씩 차이가 있습니다.  - swap : 구어체. 영국 영어에서 주로 사용. - exchange : 문어체적 느낌. 환전, 상점에서의 물건 교환 등에 씀. - switch : 위치나 자리를 바꾼다고 할 때 주로 씀.
@@ -1360,6 +1370,7 @@
 
 # 마음대로
 * * 마음대로 해; knock yourself out = Suit yourself
+  * 너 맘대로; it's your call / whatever you say / as you wish / be my guest / it's all yours / you're the boss
 * 내 마음대로 할게; take the liberty of
 * #want, #would lie to, #need #yearn
  * What do you want for ~
@@ -1535,6 +1546,7 @@
 
 # 망했다
 * 망했따; be washed up
+  * 망했어; i'm screwed / i blew it / i'm doomed / i'm in trobule / i ruined everything
   * flunk a test; 시험 망하다, flunk a subject; 과목 망치다, flunk out of school: 퇴학당하다
 * CEO 의 스캔들 때문에 회사가 망해가는 것 같아. ex) It looks like our company is going belly up because of the CEO's scandal.
 * 망치다: drop the ball
@@ -3652,6 +3664,7 @@
   * * refer to A as B = A를 B라고 부르다, 지칭하다 1) 사람이나 사물, 어떤 현상에 대해 몇 단어로 표현할 때 쓰는 표현입니다. 수동태로도 굉장히 많이 쓰여서 A is(are) referred to as B 라고 쓰기도 해요. [call A B = A를 B로 부르다] 와 같다고 생각하실 수도 있는데요. 3) 예를 들어, "제가 기억하는 환자분 중에 한 명이 있는데, 그분을 James 씨라고 할게요."라고 한다면, 환자 이름이 James 가 아니라 완전히 다른 이름일 수도 있거든요. 이럴 때 refer to를 쓸 수가 있고요. 4) 계약서 상에서 계약 당사자의 이름이 너무 길어서 '이후로는 X 라고 지칭한다' 라고 할 때는 hereinafter referred to as X 의 표현을 쓰니 참고하세요!
     * = 그는 언제나 그것을 그의 삶의 최고의 순간이라고 부른다. He always refers to it as the best moment of his life.
 * 그의 이름은 로버트야. 짧게 로버트라고도 하지. His name is Robert, or Bob for short.
+* # 가명; false name, assumed name; (특히 범죄자 등의) alias;  [ˈeɪliəs]  used a series of aliases[false names]
 
 # 이상한
 * 이상한 느낌: weird; 낯선 느낌: strange; 불균형한 느낌; odd
@@ -4645,6 +4658,7 @@
 
 # 퇴물
 * #퇴물이 되다; #over the hill
+* 퇴물이 된 기분; i'm tired of feeling like a has-been; is over the hill in ~ wolrd
 
 # 투자
 * 단어 안에 신뢰 (trust) 라는 단어가 들어가 있으니, 누군가를 믿고 맡기는 것을 의미합니다. 영상에서는 [투자하다] 라고 해석이 되었어요.
@@ -4927,6 +4941,10 @@
  * In #excruciating detail; 듣기 싫을 정도로 디테일
  * # 잘하다 ### # 조율 # 처리 # 해결하다 # 해결책 # 대책 | # 풀리다 # 풀렸다 | # 조율 # 세부사항을 정리 | # 타협
 
+# 해명
+* 해명할 필요 없어; YOu don't owe me an explanation
+
+
 # 해외
 * travel abroad; live aborad; go abroad
 
@@ -5046,6 +5064,9 @@
   * = 우리가 패배자처럼 경기를 한 후에 감독은 우리를 엄청나게 심하게 꾸짖었다. The coach gave us a severe tongue-lashing after we played like losers.
   * 혼나다; you seem #ticked off #scolded
 
+# 혼란
+* 혼란; fall into confusion[disorder]; onfusion, chaos, mess; (소란) commotion; (무질서) disorder, [형용사] confused, chaotic, mixed up; be in a state of confusion
+
 # 혼자
 * : 주의하세요! '솔로가 되다'라는 뜻이 아니라, 무언가를 '혼자 하다'라는 뜻이에요. 우리말로는 애인이 없는 상태를 '솔로'라고 표현하지만, 영어에서는 'single'이라고 표현하거든요. 'solo'는 뭔가를 혼자 하는 걸 말하죠!
   * 이번 여행은 나 혼자 가. [ex] I'm going solo on this trip.
@@ -5089,6 +5110,7 @@
 * 배변활동; bowel movents; It's about bowel movement [ˈbaʊəl]
   * 배설; excretion 미국·영국 [ikskrí:ʃən]; produce less excretion
   * 똥좀 싸고; take a dump
+  * 변기시트 열어둘떄 싷어요; i don't like when pelople eave the toilet seats up
 * 욕조를 닦자; Wash that tub
   * 족욕; foot bath
    * 내가 목욕물 받아줄게.              물을 받다 I’ll run you a bath. 
