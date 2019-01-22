@@ -17,7 +17,8 @@
   * 우승할 가능성                                                                                            #The championship window
   * #희박한 가능성 ; 퍽도 그렇겠다!”                                                               #Fat chance of that!'
   * 가능성이 줄어든다; there is less chance 절
-  * 승산이 없다                                                                     승산이 없는 상황: #no win situation
+  * 승산이 없다; 승산이 없는 상황: #no win situation
+    * = 저희에게 승산이 없어요. The odds are against us. 
 * # 여지; 내 생각엔 우리가 그녀에게 스스로 생각할 여지를 줘야 할 것 같아.  ex) I think we should give her some room to think for herself.
 * 우월한 상대와 할 때 기회; #Puncher’s chance
 * 그나마 가능성; #fighting chance
@@ -530,6 +531,8 @@
 * 옛날에 극장에서 인물을 집중적으로 조명할 때 쓰던 강한 백색광을 말하는데요, 조명 기술에 석회(lime)이 들어가서 생긴 이름입니다. 비유적으로는 [세상의 이목, 각광, 스포트라이트] 를 의미합니다. 
   * = 그녀는 사람들의 이목을 즐긴다. She likes being in the limelight.
   * #관심을 뺐다; #steal the show = #steal the scene/spotlight
+  * 에 관심을 갖다. = concern oneself with(about) 
+    * 전 정치엔 관심이 없어요. ex) I don't concern myself with politics.
 * 마카오가 홍콩보다 더 늦게 발전하였다는 것을 재미있게 표현하였네요. 여기서 나온 steal the spotlight는 ‘주목을 끌다, 관심을 빼앗다’를 의미합니다.  이와 비슷한 표현으로 steal one’s thunder 가 있는데요, 자신이 무언가를 하려던 참에 남이 선수쳐서 관심과 주목을 빼앗아 간다는 뜻입니다. 예를 들어 자신의 임신소식을 주변 사람에게 말하려고 했는데 그 전에 누군가가 임신 소식을 터뜨려서 본인이 관심을 받지 못하게 되는 상황이 이런 경우에요.
 * 보통 부정형으로 '…don't care about', '관심도 없고, 신경도 안 쓴다'라고 많이 쓰이는 표현인데요, 반대로 'care about'하면 무관심이 아닌, 무척 깊은 관심과 애정을 가지고 있다는 뜻이랍니다. 즉 'care about + 사람'하면 그 사람에게 신경을 쓰고, 관심을 가지고, 아끼고 위한다는 의미예요. 
 * ＊ It doesn't really do it for me. = 나는 별로 안끌려. / 나한테는 감흥이 없어.
@@ -1034,6 +1037,7 @@
   * 내 # 능력을 증명해 냈어; i earned my stripes
   * 제 능력 밖이에요; this work is #beyond my ability
    * ~에 능력이 있다: be skilled in/at
+ * 물리는 마리 퀴리의 전문에 속했다. Physics was right up Marie Curie's alley. 능력·취미에 맞는, 장기인 
  * #capacity; doesn't your brain ever work at 20% capacity
  * #faculty; had a faculty for 
  * 능력 밖                  depθ out of his depth 
@@ -1145,6 +1149,9 @@
   * 안전한 곳으로 피난하다; run to safety
   * 대피하다; take shelter
 
+# 도시
+* 도심으로 가려면 어떻게 해야하나요? How do you get to the city center?
+
 # 도움
 * # 지지; : '도덕적인 지지'가 아니라, '정신적인 지지'라는 뜻이에요. 또 실제적이고 물리적인 도움이 아닌, 정신적인 도움을 말합니다. 예를 들어, 친구가 무서우니 병원에 같이 가달라고 할 때 바라는 도움이 바로 'moral support'인 셈이죠. 꽤 자주 쓰는 표현이에요!
   * 정신적 지지를 위해 같이 가줄래? [ex] (do you) Want me to come with for moral support?
@@ -1184,6 +1191,10 @@
  * #보조 배터리              External battery, #auxilary batter
  * #조력자; The teacher acts as a #facilitator of learning. 교사는 학습을 도와주는 역할을 한다.
  * # 구제 # 도움 # 도와 # 돕다 | # 소용 | # 자선 # 기부 | # 보조 # 봉사
+
+# 도입
+* 새로운 규제방안은 향후 2년에 걸쳐 단계적으로 도입될 것이다. The new regulations will be phased in over the next two years.
+  * phase in은 법이나 제도 등을 단계적으로 도입하다라는 뜻입니다. 뒤에 「over+기간」를 넣어 ‘한 기간에 걸쳐’라고 표현해 줄 수도 있습니다.
 
 # 돌려말하다
 * 에 대해 #돌려 말하다; #walze around the issues = #dance around = #tiptoe around
@@ -1323,6 +1334,14 @@
 * fall은 낙엽이 떨어지다 라는 뜻입니다. 사람이나 사물이 스스로 떨어진다는 뜻도 있고요. fall은 자동사여서 뒤에 목적어(명사)가 올 수 없습니다. drop은 위에서 아래로 뚝 '떨어지다' 라는 뜻입니다.  drop + 목적어(명사) 형태: 목적어를 '떨어뜨리다'
   * The leaves are falling.   My baby fell down. The snow is falling outside! * (사랑에, 속임수에, 잠에)빠지다, 몰락하다 등의 뜻도 있습니다.
   *  Excuse me, you dropped your phone.  I dropped my wallet in the street.   Drop your weapon right now! 목소리를 낮추다, 눈길을 떨구다, 빠뜨리다, 그만두다, 연락 또는 관계를 끊다 등의 뜻도 있습니다.
+
+# 라틴어
+* 영어는 사실상 세계 공용어이다. English is the de facto global language. 라틴어에서 기원한 말로서 영어에서 자주 쓰이는 격식 표현으로 주로 명사 앞을 꾸며주는 형용사나 부사로 사용합니다.
+* 현재 상황을 유지하는 것이 중요하다. ex) It’s important to maintain the status quo. ① status quo : 현재의 상황, 현황
+* 어떤 문제든 그때그때 해결될 것이다. ex) Any problems will be dealt with on an ad hoc basis. ② ad hoc : 즉석의
+* 이 사진은 대략 1950년 경 촬영되었다. ex) This photo was taken circa 1950. ③ circa : ~경, ~년 경
+* 그녀는 그에게 매우 화가났고, 그 역시 그랬다. ex) She was very angry at him, vice versa. ④ vice versa : 반대로, 역(逆)도 같음
+* 그곳은 진실되고 명성있는 기관이다. ex) It is a bona fide reputable organization. ⑤ bona fide : 진실된, 진짜의
 
 # 리스트
 * 리스트에서 그건 뺴자; Crossing that one off the list; cross off: 줄을 그어 지우다.
@@ -1889,6 +1908,8 @@
 
 # 믿다
 * 신뢰를 쌓다 #build up trust
+ * swear by 사물 = ~가 효과가 있다고 믿다
+  * = 우리 엄마는 이 비타민이 효능이 있다며 맹신하고 계셔. My mom swears by these vitamin pills. 
  * 신뢰를 #져버렸다; he #betrayed my trus
  * #신념:         넌 내가 못 #미더운거야?)You think I can't hold my own?
  * 신념에 따라 행동할 용기 #the courage of one's convictions
@@ -1944,8 +1965,10 @@
  * I bet ~ ~ will 동사
  * #확실한 증거가 필요해요.      hɑ:rd 'pɑ:zətɪv kən'klu:sɪv 'evɪdəns pru:f
  * I need some hard/positive/conclusive evidence/proof 
- * 이 노래 완벽하다         The songs they play here are #on fleek
+ * 이 노래 # 완벽하다         The songs they play here are #on fleek
  * 그 분석은 완벽하게 정확하다         analysis of the company is #spot on.
+  * 알고보면 어렵지 않은 단어예요! 99.999% 를 의미하는 단어로, 9가 5번 있어서 five-nine 또는 five nines 라고 합니다. 최상급 급의 순도가 99.999%인 것 처럼 더 이상 좋아질 수 없는 최고의 상태를 의미하는 단어죠.
+    * 그녀의 작업 품질은 완벽에 가까워. ex) The quality of her work is five-nine.
  * ☆#정확한; #on the beam; #exact #specific #accurate #explicit
  * ‘그러나 그것은 확실한 것은 아니다         but it's not a lock/safe bet 
  * ☆i'm‘ sure of/about / i'm sure (that) / mare sure to/that
@@ -2386,6 +2409,9 @@
  * #예의고 뭐고 없이 #unceremoniously
  * #인정사정 봐주지않ㄱ; #red in tooth and claw
 
+# 부동산
+* 1) 영상에서는 2번의 의미로 쓰였습니다. 부동산을 의미하는 단어로는 real estate 도 있는데요. 간단히 차이점을 말하자면 real estate 는 '토지' 를 의미하구요, property 는 그 위에 세워진 '건물/빌딩 + 그 건물에 속한 토지' 를 의미합니다.  2) 또한 real estate 는 [부동산 중개업] 을 의미하기도 해요. 그래서 [부동산 중개업자] 를 real estate agent 라고 합니다.
+
 # 부딪치다
  * I ##fell out; 싸우다(물리적이 느낌이 조금 적음)
    * 일이 잘 안될 때에도              Now if all fell through
@@ -2455,6 +2481,10 @@
 * First World problem = 배부른 불평, 불만; 부유한 선진국들을 First World 라고 하는데요. 딱히 의식주 걱정이 없는 상황에서 생기는 사소한 문제, 불평들을 지칭하게 된 속어입니다.
   * = 그게 배부른 소리라는 건 알지만 문제는 문제잖아. I know it's a First World problem, but it's still a problem.
 
+# 불안
+* # 컴플렉스; hang-up = 마음속 불안, 걱정거리, 콤플렉스; '콤플렉스'는 앞서 설명한 insecurity 이외에 hang-up 라고도 할 수 있습니다.
+  * = 아이코는 그녀의 코에 대해 심한 콤플렉스가 있다. Aiko's got a real hang-up about her nose.
+
 # 비교
 * 1) 비격식 표현으로 주로 전치사 against 와 함께 쓰여 [와 견줄만하다] 라고 해석이 되요. 주로 의문문이나 부정문에 쓰이는 표현입니다. 2) 영상에서는 뒤에 against humans 가 생략이 된거라고 보시면 되는데요. 직역하면 [전세계의 다른 동물들을 인간과 비교해보면 어떨까요?] 의 의미를 가집니다.
 	* 세상의 어떤 음식도 이것과는 견줄 수 없어. 완전 짱이야! ex) No food in the world can stack up against this. It's amazing!
@@ -2475,7 +2505,10 @@
 * 누군가의 행동을 비난하고 나선다는 뜻으로 좀 더 목소리를 내거나 공개적으로 비난한다는 뉘앙스가 있습니다.  * call 사람 out on 행동 = ~에 대해 비난하다
   * = 사람들 앞에서 공개적으로 그녀를 비난하고 나서는 것은 타당하지 않았어. Calling her out in front of everyone wasn’t exactly fair.
   * = 너같은 초급자를 위한 손쉬운 방법 하나를 알려주지. I will teach a quick hack for beginners like you.
+  * ~을 비난하다, 격렬히 반대하다. = rail against 동사로 rail 은 [격분하다] 라는 뜻이 있어요. 주로 전치사 against 나 at 과 함께 쓰입니다.
+    * 그의 제안을 왜 그렇게 비난했어? 뭐 잘못된 거라도 있니? ex) Why did you rail against his suggestion? Anything wrong with it?
 * 비난하다; throw shades
+  * 넌 그녀를 비난해선 안돼. 우리 모두가 실패에 책임이 있어. ex) You shouldn't point the finger at her. We are all responsible for the failure; point the finger at : 를 비난하다.
 
 # 비밀
 * confide는 ‘비밀, 속마음을 털어놓다’는 뜻입니다. 누구에게 털어놓았는지까지 표현하려면 전치사 in 뒤에 사람을 넣으면 됩니다. 여기서는 with no one to confide in으로 "기댈 사람이 아무도 없는"이라고 하였네요.
@@ -2577,6 +2610,7 @@
   * 사실은 아빠 너무 보고 싶어. [ex] Truth be told, I really miss my dad.
 * polish는 광나게 닦는걸 뜻해요. 광나게 닦아놓은 걸 비유적으로 '정돈된', '세련된'이라는 뜻으로 쓴답니다. 반대격으로 볼 수 있는 표현이 gritty예요. 지저분하고 정돈 안 되고 불쾌한 현실을 사실적으로 보여주는 걸 gritty하다고 해요. TV 드라마를 묘사할 때도 많이 쓰는 표현인데 '왕좌의 게임'이나 '더 와이어' 같이 보기 불쾌하지만 현실을 잘 반영하고 사실적인 드라마를 gritty하다고 표현해요.
   * 좀 사실적인 드라마 추천해주세요. [ex] Can you recommend me some gritty TV shows?
+* 영어는 사실상 세계 공용어이다. English is the de facto global language. 라틴어에서 기원한 말로서 영어에서 자주 쓰이는 격식 표현으로 주로 명사 앞을 꾸며주는 형용사나 부사로 사용합니다.
 
 # 사양
 * 사양할게; allow that; safe; bare
@@ -2588,6 +2622,8 @@
 * 상관없어; i'm easy
 
 # 상황
+* escalate the situation = 상황을 더 악화시키다; 에스컬레이터(escalator)는 위로 올려주는 장치죠. 여기서 상황을 올린다는 것은 나쁜 쪽으로 악화시킨다는 것을 말합니다. 주어는 악화시키는 사람, 혹은 악화되는 상황, 문제점 등이 옵니다. 
+  * 다행히도 상황은 더 크게 나빠지지 않았다. Fortunately, the situation didn’t escalate into anything big.
 * 우리는 상황을 알아 보았다  Dipping our toes in the water
 * [상황, 사정] 을 의미하는 circumstances 앞에 다양한 형용사를 써서 어떤 상황인지 나타낼 수 있는, 굉장히 유용하고 자주 쓰이는 표현입니다. 형용사 없이 under the circumstances 라고 하면 [그러한 상황에선, 상황을 고려하면] 정도로 해석이 되고요.
 	* = 이 기술적 문제는 특정 상황에서 발생합니다. This technical issue occurs under specific circumstances.
@@ -3091,6 +3127,12 @@
 # 썰렁
 * 썰렁해; are so #lame / #corny / #boring / terrible
 
+# 안경
+* 안경은 spectacles 라고도 하는데요, specs 는 그것의 줄임말입니다. 그리고 shades 는 선글라스(sunglasses)를 말합니다. 눈에 그늘(shade)을 생기게 해 주는 물건이란 뜻에서요. 꼭 –s를 붙여서 복수형을 표현해 주세요. 
+  * 나 새 안경을 맞춰야 할 것 같아. – 시력이 얼마나 나쁜데? I guess I need a new pair of specs. – How bad is your eyesight?
+  * * prescription lenses = 도수가 들어간 렌즈 사용자에 맞게 렌즈에 도수가 들어간 렌즈를 말합니다. prescription 은 ‘안경 도수’를 의미합니다. 그래서 도수가 없는 안경을 non-prescription glasses 라고 하죠. 
+    * 그는 도수가 있는 수경이 필요하다. He needs a prescription swimming goggles.
+
 # 안전
 * 안전해; Coast is clear; 전쟁에서 해안가는 깨끗하다에서 시작
  * 무사히 돌아왔군요             You're back #safe and sound.
@@ -3267,6 +3309,9 @@
 * 'show/have/give sb the courtesy (to do sth)'이라고 하면 '(최소한) ~을 하는 성의는 좀 보여라'라는 뉘앙스로, 예의 없음에 대한 불쾌함을 표현하는 말이 될 수 있습니다.
   * 최소한 전화에 답은 하는 성의를 보일 수 있었잖아. You could've at least had the courtesy to return my calls.
 
+# 예정
+* be set to : 할 예정이다; set 이 [정하다] 라는 뜻이 있는데 뭔가를 하도록 정해져 있는 것을 의미합니다. 같은 의미로는 be scheduled to 있습니다.
+
 # 옛날에
 * Looking back; "in retrospect" 
 * back in the days, "in the past", in the old days" 
@@ -3439,6 +3484,8 @@
 * 생선마다 보존기간이 다 다르다. Each fish has its own shelf life . 듣기 출처:능률교육
 
 # 유행
+* 유행을 의미하는 trend 와 없던 무언가를 만들어 세우는 사람의 setter 의 합성어인 trendsetter 는 패션의 유행뿐만 아니라 다른 사람들이 따라 하게 되는 무언가를 처음으로 하고, 그 추세를 이끄는 사람, 조직을 의미하는 단어입니다.
+  * 많은 대세들은 유튜브 출신 입니다. ex) A lot of new trendsetters are from Youtube.
 * 대박 촌스러워               That's so corny, #out of fashion
   * #유행한다 #In fashion = it's in <> it is #out
   * 다른 사람들보다 좀 더 발전되고 현대적일 때 쓰는 표현입니다. 반대로 [유행/시대에 뒤처지는] 이라고 쓸 때는 간단히 behind the curve 라고 하시면 됩니다. 유행/시대를 앞서는 = ahead of the curve
@@ -3891,6 +3938,10 @@
   * 정부는 정말 정신 차려야 해. ex) The government really should get its act together.
 * 정신이 팔려있다; - was too preoccupied
 * 내 정신 좀 봐; Where are my manners
+* keep spirit alive = 정신을 이어가다, 기리다
+  * 이 단체의 목적은 위대한 예술가들의 정신을 이어가는데 있습니다. (spirit=정신) This foundation is to keep the spirits of great artists alive. 
+* # 정신력; mentality는 엄밀히 말하면 ‘사고방식, 심리상태’를 의미해요. 그래서 올바른 사고 방식을 가졌다(have the right mentality)는 말은 ‘정신력이 강하다’로 볼 수 있는거죠. 
+  * 나는 한국에 10년 동안 살고 있어. 여기 사람들의 사고방식쯤은 이해해. I’ve been living in Korea for 10 years. I know the mentality here. 
 
 # 정체
 * 정체기 들통났어; i blew all my covers = i gave away all my secrets
@@ -4083,6 +4134,9 @@
    * #자금이 많다 #deep pockets; friends with deep pockets
    * #주머니 #손 빼
 
+# 주인
+* 제가 주인이에요; i own him
+
 # 주제
 * -를 주제로 다루다; It deals with the theme of -
 
@@ -4191,6 +4245,8 @@
 # 직전
 * on the verge of something; on the verge of doing something
 	* 조애나는 금방이라도 울 것만 같았다. Joanna was on the verge of tears.
+* 벼랑 끝이나 강가의 끝을 brink 라고 하는데요. 무언가 극적인 상황이 발생하기 직전을 표현하고 싶을 때 on the brink of 이라고 합니다.
+  * 그들은 중대 발견을 하기 직전입니다. ex) They are on the brink of making a major discovery.
 
 # 진단
 * ‘오진하다’는 동사로 misdiagnose라고 해도 되고, 영상과 같이 make a misdiagnosis라고 해도 됩니다. 
@@ -4669,6 +4725,10 @@
  * 포장지를 벗기다 #unwrap
  * #포장지; #wrapper
 
+# 폭력
+* : 자해, 스스에게 가한 폭력 [self-inflicted violence]
+  * 그는 스스로 쏜 총상 때문에 죽었다.  He died of a self-inflicted gunshot wound.
+
 # 표준
 * 표준어; Standard american English
 
@@ -4734,6 +4794,8 @@
 *  wreak havoc 은 ‘엄청난 피혜를 주다, 망가뜨리다’입니다. 뒤에 ‘on/with+피해를 받는 대상’이 따라옵니다. 
   * 비가 와서 우리의 소풍 계획을 완전히 망쳐놓았다. The rainy weather wreaked havoc with our picnic plans.  [riːk] [ˈhævək] 
 * # 타격; 켄싱턴 시장의 폐쇄는 지역 경제에 큰 타격이었습니다. ex) The closure of Kenshington Market was a big blow to the local economy.
+* 니들은 왜 항상 나한테 피해를 입히며 뭘 하니? ex) Why do you guys always do stuff on my dime?
+  * 1) 예전에 공중전화가 있었을 때 전화 한통에 50원 정도 했어요. 영어로는 nickel (미국/캐나다) 인데, 전화를 건 사람과 전화를 받은 사람이 함께 대화를 하지만, 돈을 잃은 것은 전화를 건 사람만 돈을 잃은 모습에서 나온 표현입니다.  2) 그 당시에는 one someone's nickel 이라고 했지만, 시간이 지나며 공중전화 한통이 100원 정도로 올랐고, 영어로는 dime 이기 때문에 on someone's dime 이라고 표현이 바뀌었습니다. 3) 비슷한 표현으로 at one's expense 라는 표현도 있습니다.
 
 # 하락
 * 하락세이다; be going south
@@ -4938,6 +5000,8 @@
  * 간단히 말하자면  To put it simply Long story short, I am gooing to briefly talking about
  * ☆잘라 말하자면...        "not mince words: 단도직입 nʌ́tʃèl In a nutshell…!
  * 단도직입적으로; #pointblank; I asked him pointblank
+* # 본격적으로; [in earnest]
+  * begin in earnest 본격적으로 시작하다 speak in earnest 진지하게 말하다; take it in earnest 진심으로 받아들이다; be in earnest 진지하다, 진심이다
 
 # 허가
 * 2) license는 ‘허가, 허가증’이죠. 여기서도 허락하는 것이긴 한데, 나쁜 행위를 맘대로 하도록 허용해 주는 것을 뜻합니다. 예를 들어 ‘시적허용’을 영어로 poetry license 라고 하는데요, 여기서도 문법을 틀리는 것은 부정적인 행위이지만, 시적인 효과를 표현하기 위해서 허용해 준다는 의미에서 license가 들어간 것입니다.
@@ -5013,6 +5077,7 @@
  * The company developed this new technology independently[on its own].
  * 혼자 힘으로; #single-handedly; he single-handedly took care of the problem
  * # 셀프 # 혼자서 # 알아서
+ * 제가 스스로 찾았어요; i found it all on my own
 
 # 화장실
 * 거의 # 토할것 같다; gag; ㄱretch; heave; 토하다: vomit puke, throw up

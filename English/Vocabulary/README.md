@@ -253,6 +253,10 @@
  * i'm gonna rock you; 한손으로 해치울게
  * 나도 마찬가지거든!!!                I'm in the same boat.
 
+## bound
+* be bound to 는 [틀림없이 ~ 하다 / 반드시 ~ 하다] 라는 의미를 가지며 굉장히 많이 쓰이는 표현이에요. be bound for 와 헷갈릴 수가 있는데, be bound for 는 [~로 향하다] 라는 뜻으로, 대중교통을 이용할 때 굉장히 많이 들려요. 단, [~행 비행기/버스] 라고 할 땐 be 를 빼고 a plane/train bound for Boston [보스턴행 비행기/기차] 라고 쓰이니 함께 알아두세요!
+  * 반드시 일어날 일이라면, 일어날 거예요. ex) If it's bound to happen, it will happen.
+
 ## bounce
 * 그 총알은 벽에 맞고 튕겨나와 총 쏜 사람 자신을 맞췄다. ex) The bullet bounced off the wall and hit the shooter himself. 1) bounce 가 동사로 [튀다] 라는 뜻이 있어요. 전치사 off 과 함께 쓰이면 [에 맞고 튕겨나오다/튀어오르다] 라는 뜻으로 쓰입니다.
 * 내 생각에 그는 부상으로부터 꽤 빨리 회복할 것 같아. ex) I think he will bounce back from from the injury quite soon. 3) bounce back 이라는 표현도 많이 쓰이는데요. 이것은 다시 돌아오는 것 (back) 이기 때문에 [회복하다/반등하다] 라는 뜻이 있습니다.
@@ -403,6 +407,10 @@
 ## background
 * background 가 [배경]을 의미하는 단어이니, 그 사람의 배경, 즉 신원 확인을 하는 걸 background check 라고 합니다. 신원 확인을 요구하는 주체가 누구인지에 따라서 내용도 조금씩 달라질 수 있는데요. 보통은 범죄 경력, 신용 정보 등을 간단하게 조회하는 걸 의미해요. [범죄 경력 조회]는 criminal background check 라고 하기도 합니다.
   * = 저희는 정기적으로 현재 근무 중인 직원들의 신원 조회를 합니다. We conduct background checks on current employees on a regular basis.
+
+## burden
+* 잭. 너의 짐을 함께 들어줄게. 혼자서 모든 걸 다 하려고 하지 마. ex) Hey, Jack. I can share your burden. Don't try to do everything by yourself.
+  * 힘든 일이지만 조금만 참아. 곧 지나갈거야. ex) Bear the burden for a while. It will pass soon.
 
 ## burst
 * 갑자기 들이닥쳤어; When the CEO burst in
@@ -678,6 +686,12 @@
 
 ## compromise
 * 위태로워진 재정상태로 인해 due toe compromised funding
+* compromise the immune system = 면역 체계를 약화시키다
+  * 무리한 다이어트는 면역 체계를 약화시킬 수 있습니다.  Excessive dieting can compromise your immune system.
+
+## crush
+* 어떤 안 좋은 일의 정도가 매우 크고, 심각할 때 쓰이는 단어 입니다. 사람이 주어가 될 때는 crushed라고 합니다.
+  * 나는 참담한 기분을 느꼈다. ex) I felt crushed.
 
 ## crop
 * 보통 학교 다닐 때는 [수확하다] 라고 단어를 외우는 단어인데요. 수확하는 행동도 생각해 보시면 잘라내는 행위입니다. 그래서 crop 은 길게 자란 무언가를 잘라내는 행위를 떠올리시는 게 조금 더 정확하고요. 그래서 [머리를 짧게 깎다], [동물이 풀을 뜯어먹다] 라는 의미를 갖기도 한답니다. 사진을 찍고 나서 수정할 때 사진의 '끝부분' 을 잘라내는 것을 crop 이라고 합니다. 또, 요즘 유행하는 '크롭탑'도 짧게 잘랐다는 의미에서 crop top입니다!
@@ -892,6 +906,10 @@
 	* - fruit drops는 과일맛 사탕 
 	* - cough drop: 기침 (멎게 하는) 캔디 (같은 약) (감기 걸렸을 때 이걸 찾는 사람들이 참 많습니다!)
 *  배려 1도 없어. Not a single drop.
+
+## escalate
+* escalate the situation = 상황을 더 악화시키다; 에스컬레이터(escalator)는 위로 올려주는 장치죠. 여기서 상황을 올린다는 것은 나쁜 쪽으로 악화시킨다는 것을 말합니다. 주어는 악화시키는 사람, 혹은 악화되는 상황, 문제점 등이 옵니다. 
+  * 다행히도 상황은 더 크게 나빠지지 않았다. Fortunately, the situation didn’t escalate into anything big.
 
 ## element
 * 비 바람을 맞으며 앉아있따; i'm a shepherd, sitting here in the elements
@@ -1721,6 +1739,10 @@
 * : 있잖아, 알렉스가 널 때리려고 하면, 나 한테 말해. 내가 해결해 줄게  You know what, Alex tries to lay a hand on you. Just tell me,  I'll take care of it. 'Lay a hand on someone' : 때리다. 폭행하다.
 * : 도박을 하러 갔었어요. I went to lay a bet 'Lay a bet' : 도박하다. 돈을 걸다.
 
+## mug
+* 여러분이 아시는 [머그잔] 을 의미하는 그 mug 가 맞습니다! 그런데 비격식 표현으로 쓰이면 영상에서처럼 [얼굴] (표정) 으로 해석이 되고요. 조금 안 좋게 쓰일 경우엔 [낯짝] 의 의미를 갖기도 해요. 경찰에 체포되면 찍는 사진은 mug shot(머그샷)이라고 합니다! 또한 동사로 쓰일 땐 주로 카메라나 무대 앞에서 [과장된/우스꽝스러운 표정을 짓다] 이라는 뜻이 있기 때문에, 영상에서 주인공이 상황에 맞게 이 단어를 쓴 것을 알 수 있습니다.
+  * 모든 아이들이 카메라에 웃긴 표정을 지었다. ex) All the kids were mugging for the camera.
+
 ## mushy
 * 치킨을 전혀 으깨지 않았어; the chcken is not mushy at all 
   * (2. 지나치게 감성적인); i hate those mushy love stories
@@ -1907,6 +1929,8 @@
 ## phase
 * [단계] 라는 의미가 있는 phase 로부터 나온 표현이에요. phase-out 으로 쓰면 명사로 [단계적 폐지] 를 의미합니다. 마찬가지로 [단계적 도입]은 phase in 을 쓰면 되겠죠?
   * 몇몇 사람들은 핵발전소가 단계적으로 폐지되어야 한다고 말한다. ex) Some say nuclear power plants should be phased out.
+* 새로운 규제방안은 향후 2년에 걸쳐 단계적으로 도입될 것이다. The new regulations will be phased in over the next two years.
+  * phase in은 법이나 제도 등을 단계적으로 도입하다라는 뜻입니다. 뒤에 「over+기간」를 넣어 ‘한 기간에 걸쳐’라고 표현해 줄 수도 있습니다.
 
 ## pat
 * * pat down  1. 몸 수색을 하다. 2. 가볍게 두드리다. 불법적인 무기나 마약 등을 소지하고 있는지 몸을 훑어가며 수색하는 것을 의미합니다. 보통 공항 보안 검색대에서 출국할 때 하는 검사를 생각하시면 됩니다!
@@ -2027,6 +2051,10 @@
 * : 하지만, 혼다 사건에서, 피해자는 차의 바퀴가 펑크가 나서 차를 세웠습니다. But in the case of the Honda, the victim pulled over because he had a flat.
 	* Be pulled over' 는 누군가에 의해 차가 세워진 것을 의미합니다. At 11: 24 p.m., Brian was pulled over for speeding,
 * 학교 앞에서 멈춰서; We pull up to the school
+
+### pull back
+* pull back은 상황에 따라 우리말로 다양하게 바꿀 수 있습니다. 예를 들면, “(물리적으로) 잡아 빼다, (군대를) 후퇴하다, (하던 일을) 취소하다” 등이 있죠. 영상에서는 “정도를 누구러트리다, 수위를 낮추다”라는 의미로 말하였습니다. 첸이 너무 점프 연습을 과도하게 하니까 조금 ‘덜 하라’라는 의미로 코치님이 한 말이죠.
+  * 스폰서들이 영화에 투자하던 자금을 철회했다. (pull back from : 에서 철회하다) Their sponsors pulled back from financing the movie.
 
 ### pull apart
 * 잡아당겨서 (pull) 부분을 떼어내는 (apart) 느낌의 단어입니다. 특히나 음식을 떼어줄 때 많이 쓰는 표현이고, 사람들이 싸워 뒤엉켜 있을 때 떼어놓는 것도 의미해요.
@@ -2256,6 +2284,7 @@
 
 ## rock
 * 그녀의 결혼 생활은 파탄 직전이다. Sue’s marriage is on the rocks. 
+* 2) 보통 수동태로 많이 쓰이며 be rocked 는 [매우 당황하다/혼란스럽게 되다] 등의 뜻으로 쓰입니다. ex) The whole class was rocked by the announcement.
 
 ## root
 *  내 생각엔 엄마가 방을 뒤진 것 같아. I think my mom has been rooting around my room,.
@@ -2306,6 +2335,10 @@
 * 그는 불운이 겹쳤다 He had a run of bad luck . 듣기 출처:동아 출판
 * 스타킹 올이 풀리다; There's a run in my old ones
 
+## rail
+* 을 비난하다, 격렬히 반대하다. = rail against 동사로 rail 은 [격분하다] 라는 뜻이 있어요. 주로 전치사 against 나 at 과 함께 쓰입니다.
+    * 그의 제안을 왜 그렇게 비난했어? 뭐 잘못된 거라도 있니? ex) Why did you rail against his suggestion? Anything wrong with it?
+
 ## ratchet
 * - ratchet 은 '역회전이 안 되도록 고안된 톱니바퀴', 또는 '톱니바퀴 역회전을 방지하기 위한 장치' 를 말하는데요. 'up'과 함께 동사로 쓰이면 이런 뜻이 됩니다. 톱니 바퀴를 조이듯 정도를 점차 높이는 이미지를 떠올려보세요! - 'pressure, tensions', '압박, 긴장' 같은 단어들과 자주 함께 쓰여요.
   * 유럽 연합은 영국에 압박을 높이려고 협상을 늦추고 있는 거야. [ex] EU is dragging out the negotiations to ratchet up the pressure on the UK.  [ˈrætʃɪt]
@@ -2323,6 +2356,9 @@
 ## range
 * = 범위가 A에서 B에 이르다 * range from A to B  여러 가지 상황에서 정말 많이 쓰이는 표현이고요. 범위가 좀 더 다양할 경우엔 뒤에 to C to D 등으로 더 붙여서 쓸 수도 있습니다.
 	* = 선택하는 방의 종류에 따라 가격은 50달러에서 500달러로 다양합니다. The prices from 50 dollars to 500 dollars, depending on the type of room you choose.
+
+## relate
+* 너희들 가족 관계니? ex) Are you guys related?
 
 ## responsibility
 * 주요 책임; whose primary/main responsibility will be document
@@ -2434,6 +2470,8 @@
 ## swear
 * ~의 효능을 믿다, ~의 효능에 기대다  = swear by ~
   * 내 와이프는 살 빼는데 요가의 효능을 믿는데, 저녁에 자기 전에 많이 먹어. ex) My wife swears by yoga to lose her weight, but eats a lot before she goes to bead at night.
+* swear by 사물 = ~가 효과가 있다고 믿다
+  * = 우리 엄마는 이 비타민이 효능이 있다며 맹신하고 계셔. My mom swears by these vitamin pills. 
 
 ## sweet
 * sweet spot은 ‘최상의 결과를 내는 범위나 부분’입니다. 스포츠에서는 라켓이나 베트, 클럽 등으로 공을 치기 가장 효율적인 부분을 뜻하고, 비즈니스에서는 최상의 수익성 혹은 효율성을 만들어내는 범위를 가리킵니다. 또는 가수의 최상의 음역대, 가장 좋아하는 스킨쉽 위치 등 분야는 다르더라도 모두 ‘가장 좋은 결과를 내는 위치’를 의미합니다. 
@@ -2533,7 +2571,8 @@
 * 조금 부담이지만; it's a bit of a stretch for us
 *  진실을 #왜곡하지마; don’t #stretch the truth
 * 는 #무리다, #멀다; it’s a #reach;   말도 안되는 소리: you’re reaching = it’s a stretch
-
+* not … by any stretch of the imagination = 아무리 생각해도 …가 아니다; 우리말의 [아무리 상상력을 동원해도, 아무리 상상의 나래를 펼쳐도] 를 영어에서는 상상력(imagination)을 늘린다(stretch)고 표현하네요. 
+  * = 나는 아무리 생각을 해봐도 내가 잘못한 것이 없어. I have done nothing wrong, by any stretch of the imagination.
 
 ## stress
 * 스트레스; 스트레스 주는 일, 공부 생활 따위에 씀; stressful
@@ -2708,6 +2747,10 @@
   * killing spree, murder spree = 연쇄 살인
   * shopping/spending spree = 흥청망청 쇼핑 하기/돈 쓰기
 
+## stride
+* break (one's) stride = 걸음을 늦추다, 보폭을 줄이다; 걷고 있는 도중에 속도를 늦추는 것을 말합니다. 혹은 ‘하는 일을 막다, 저지하다’와 같이 비유적으로도 사용할 수 있습니다.
+  * 그 여성인 걸음을 늦추고 뒤를 돌아봤다. The lady broke stride and spun around.
+
 ## strike
 * strike는 '때리다, 찌르다, 맞추다, 인상을 주다, 파업을 하다'등 정말 다양한 의미를 가지고 있는 단어입니다. 여기서는 (자세를) 취하다는 의미로 사용되었어요. strike a pose와 비슷한 용례로 '어떤 태도를 취한다'고 할 때는 strike an attitude라고 합니다.
   * 모델은 포즈를 취할 준비가 되었다. The model is ready to strike a pose.
@@ -2830,6 +2873,7 @@
 ## tick
 * tick 시계가 [똑딱 소리를 내다/똑딱 거리며 지나가다/움직이다] 라는 의미를 가지고 있어요. 그러니 ticking mind 는 직역하면 "똑딱 거리며 움직이는 마음" 이니, 쿵쾅거리는 마음을 가지고 [앞으로 나아가려는 사람]을 의미해요.
   * 난 네가 앞으로 나아가려는 마음을 갖고 네 앞에 놓인 어려움들을 두려워하지 않았으면 해. ex) I hope you have a ticking mind and are not afraid of challenges ahead of you.
+* 프로젝트를 할 시간이 얼마 남지 않았습니다. ex) The clock is ticking on the project.
 
 ## tie
 * 'tie' 는 기본적으로 '끈'이라는 뜻인데, 이렇게 사람 간의 '유대', '유대 관계'를 말할 때도 쓸 수 있습니다. 두 대상이 끈으로 이어져있는 걸 상상해보세요!

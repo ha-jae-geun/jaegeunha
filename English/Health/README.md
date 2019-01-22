@@ -1,5 +1,7 @@
 ## 기타
 * 면역 체제를 약화시키다; can weaken your immune system; lower your immunity to colds
+  * compromise the immune system = 면역 체계를 약화시키다
+    * 무리한 다이어트는 면역 체계를 약화시킬 수 있습니다.  Excessive dieting can compromise your immune system.
 * 토할것 같애; i think i am gonna sick
 * 의욕이 없어요; i've lost my drive  
 * 가렵다; i itch all over; i've got an itch on my back

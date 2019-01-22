@@ -81,6 +81,8 @@
 	 * ○ but they cost an arm and a leg (근데 너무 비싸)
 	 * ○ cost (somebody) an arm and a leg (= to be very expensive) ---> These opera tickets cost us an arm and a leg (이 오페라 티켓들은 넘 비싸)
 	 * ○ The price is not reasonable (가격이 비싸다) = It is overpriced = It is expensive = It is pricey = The price is high = It is not cheap 
+	 * 제품을 생산할 때는 생산비와 기타 부대비용이 발생하죠. 그 전체 비용에서 수익을 얻기 위해 따로 붙이는 금액을 markup 이라고 합니다. 혹은 원가와 판매가의 차이가 수익이기 때문에 ‘이윤폭, 수익률’이라고 해석하기도 합니다.  그리고 hefty 는 크기, 힘, 돈이 액수가 ‘크다, 세다, 많다’를 뜻하는 형용사입니다. 
+	 	* 저 상점들의 대부분의 제품은 원가에 5%를 더해 판매된다.  Most products sold in those stores are sold at a 5% markup.
 	 * -----------------------------------------------------------------------------------------------
 	 * cheap, affordable
 	 * #깎아 주세요 					 Can you lower the price?, Is that your best price?

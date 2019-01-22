@@ -296,6 +296,8 @@
 * 불쾌지수 								discomfort index
 * #obnoxious; behavior 매우 불쾌한
 * #끔찍 #비위를 건드리다 #불쾌하게 하다 #역겨 #역겹
+	* 비슷한 단어로 disgusting 이 있는데요. disgusting 의 경우엔 실제로 그리 역겹지 않더라도 가벼운 상황에서도 쓸 수 있는 반면, repulsive 는 정말 역겨운 걸 참을 수 없어서 피하고 싶을 정도 일 때 쓰는 훨씬 더 강한 단어입니다.
+		* 그가 한 짓은 믿을 수 없을 정도로 역겹다. ex) What he did is unbelievably repulsive.
 * Have fun -ing
 	* 게임이나 영화 등이 재미있을 때 쓰는 단어는 아니에요. 영상에서처럼 무언가 개인적이거나 충격적인 스캔들적 요소가 있는 이야기, 가십 등에 쓰는 비격식 형용사입니다. = juicy juice 가 물론 [과즙, 육즙] 이라는 뜻이 있으니, juicy 는 [즙이 많은] 이라는 뜻인데요. 우리가 과즙, 육즙을 보면 군침이 돌고 더 먹고 싶듯이, 무언가 굉장히 흥미진진한 이야기를 들으면 더 듣고 싶어 하는 모습을 빗대서 발전한 단어라고 보시면 좋을 것 같아요.
 		* 널 비난하지 않을게, 왜냐면 나도 재밌는 가십거리 좋아하거든. ex) I won't blame you, because I love juicy gossips as well.
@@ -730,6 +732,7 @@
  * 후회하지마 never #regret
  * #repent
 	* #굴욕; #eat #humble pies
+	* 그가 사람들 앞에서 내 아이디어를 비난했을 때 정말 굴욕적이었어. ex) I was so mortified when he bashed my idea in front of everyone.
 	* 쪽팔려 they make me cringe
 	* 쪽팔리게 하지 마 Don't put me on the spot / on the #center of attention(#attention)
 	* #compromising; #낯 부끄러운

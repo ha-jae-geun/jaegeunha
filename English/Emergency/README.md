@@ -11,6 +11,8 @@
 		* 요새 제 삶이 좀 위태위태 해서 그런 것 뿐이에요. (악마는 프라다를 입는다 中) My personal life is hanging by a thread. That’s all. 
 	* 제임스는 그 질문에 대한 답을 몰랐는데, 그때, 선생님이 호출되어 교실을 나갔으므로 위기일발로 난처함을 면했다. James didn't know the answer to the question, but he was saved by the bell when the teacher was called away from the room.; saved by the bell
 	* 위험: 사람 다치게 / 물건 손상: #dangerous, risky: 안좋은일 일어날 가능성; #unsafe; 돌려 말하는 dangerous; #deadly; #critical: 재앙 될수 있음; suffered critical injuries; #harmful to the human body
+	* (put ~ at stake: 를 위험에 처하게 하다)
+		* 이 결정이 우리의 삶을 위험에 처하게 했다. This decision has put our lives at stake.
 * 오늘 날 세상에서 가장 긴급히 다뤄져야 할 이슈는 뭐가요? What's the world's most presing issue today? pressing issue/matter
 -------
 * 자택에서 대피하다; evacuated from their homes; 임새 대피소: tempoary shelters

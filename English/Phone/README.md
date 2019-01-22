@@ -207,6 +207,7 @@
 
 # 전화
 * 틀린 번호를 준거야; You got fake-numbered
+	* 원래 area code 는 전화번호 제일 앞에 붙는 지역 번호를 의미합니다. 02, 031 처럼요. 영상에서는 자기의 관심이 속해 있는 분야 [관심 분야] 라고 비유적으로 사용이 되었습니다.
 * 전화 겁니다; SHoot that through
 * 차단 완료; Blocked
 * 연락 엄청 오더라; it was blowing up

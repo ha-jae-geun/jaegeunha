@@ -479,6 +479,7 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 * 소금으로 #간을 하세요 #season with some salt
 * 소금을 넣다; #dump in salt
 * #다지다; #chop only one onion
+	* 마늘 다지기; garlic crusher
 * #채썰다; #shred #shredded cheese
 * #짜다; 레몬을 짜야해; We need to #squeeze some lemons
 * #바르다 #펴바르다; I will #spread the tomato sauce

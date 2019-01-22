@@ -593,6 +593,7 @@ His sudden smile made her go #weak at the knees. ; 2. 약한
 * #사타구니	#groin
 * ##엉덩이	hip(허리꼐 허리 옆 골반), butt, booty, 'bʌtək buttock
 	* 골반이라고 하면 엉덩이부터 떠오르는데요. 엉덩이부터 척추와 양쪽 다리를 이어주는 큰 골격을 골반, 영어로는 pelvis 라고 합니다. 그 주변 부위를 pelvic region 이라고 하는데요. 영상에서처럼 배꼽에서 한 뼘 정도 내려간 부위를 의미해요.
+	* 짱구 엉덩이 내미는 것; Why did you moon them?; Mooning can be very offensive
 * #bum, #fanny(2. 여자 거기), #bum
 * #tush #duff; #궁둥이
 * 납작한 엉덩이: flat 

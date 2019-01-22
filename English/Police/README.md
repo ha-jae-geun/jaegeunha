@@ -235,6 +235,7 @@
 * #범죄율이 매우 높은; #crime-infested
 * #구금; #detention; 2. #방과후 남게하기
 * #교도소 #penitentiary; #중범죄자 교도소 
+  * 탈세 중범죄로 체포합니다; Felony tax evasion
 * 교도소에 갇힌; #behind bars(#bar)
 * 그냥 교도소; #correctional facility
 * #간수; #turnkey = #guard = #correctional officer
