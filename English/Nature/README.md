@@ -62,6 +62,16 @@
 * 그가 나를 쿡 찌르며 속삭였다. “방금 누가 들어 왔는지 봐.”; He nudged me and whispered, ‘Look who’s just come in.’ 
 * have a good/poor handwriting; 
 * 버스가 지나갈 때마다 창문들이 덜거덕거렸다 Every time a bus went past, the windows rattled. 
+	* 그 #지진으로 마을들 전체가 완전히 파괴되어 버렸다.
+	 * Whole villages were wiped out by the earthquake.
+	 * #강진이었나요? was the earthquake strong
+	 * #seismic waves; #지진파
+	 * #여진; #aftershock
+	 * #진앙; #epicenter
+	 * #규모; #magnitude
+	 * #충격파; #shcok wave
+	 * #지진; #temblor
+	 * #작은 지진; #tremor
 
 # 자연재해
 * 소용돌이에 빨려들어가다; The ship got sucked down into the whirlpool [ˈwɜːrl-]
@@ -70,3 +80,13 @@
 * 태양열 전지판에 투자ㅏ하는 것도 방법이죠; invest in solar panels
 * 지구를 보호해야해요; We have to start saving our planets
 * 산소랑 물이 바닥났다; Oxgen and water ran out four days ago
+
+# 농사
+* #농사 방식; #farming practices
+* 씨를 뿌리다 plant seeds, #농약을 뿌리다: spray with pesticide, #비료를 주다: #fertilizer 
+* #농작물을 #수확하다 #harvest crops, #풍작 #good harvest, #광활한 농경지: extensive #farmland
+* #인정 많다 ##정#; have a good haeart
+* #애착; Does it have sentimental value?
+* #비옥한; #fertile
+* #씨#를 뿌리다; #seed #sow; sow the seeds
+* #농업; #agriculture, #farming, #cultivation - 농업, 농사 

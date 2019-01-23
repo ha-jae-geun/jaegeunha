@@ -19,6 +19,16 @@
   * 옷, 신발, 오토바이 등 어떤 사물을 자기가 원하는 대로 맞춰서 바꾸는 것을 personalize 라고 합니다. 비슷한 단어로 [고객의 요구에 따라 맞춤 제작하다] 라는 의미의 customize 도 있습니다. 뜻에서도 알 수 있듯이 customize 는 보통 상점의 주인이, personalize 는 고객이 하는 동작인 경우가 많습니다. 
     * 이 장치의 디자인은 언제든 취향에 맞게 꾸밀 수 있습니다. ex) You can always personalize the design of this device.
   * = 내 와이프는 외출하기 전에 대략 2시간 정도를 몸치장하는데 쓴다. My wife spends about 2 hours primping and preening before going out.
+   * #decorative, #ornamental, #embellishing - 장식이 된, 장식용의 
+   * #embelish, #jazz up, #spruce up; She spruced up for the interview, make up
+   * #adorn with
+   * 그녀는 인터뷰를 위해 맵시를 냈다.
+   * 여기를 좀 더 멋지게 #꾸며야 겠어.              I need to #jazz up here!
+   * 그 얘기 다 꾸며낸 거야.            'fӕbrɪkeɪt The story is a fabrication. 
+   * 그거 내가 지어낸 거야. 개 뻥이야.        I made it up myself. I made that story up. 
+   * 말 꾸미지 마             Don't make up the story. 말 꾸미지 마!
+   * 근거 없는 이야기; #whole cloth; me made it up from out of whole cloth
+   * #고명; #garnish; dishes are garnished
 * 주어가 사람일 경우에는 ‘아첨하다, 아부하다’이지만, 영상처럼 옷이나 색깔 등이 오면 ‘(입은 사람을) 돋보이게 하다’라는 뜻이 됩니다.  
   * = 노란색은 나한테 별로야. 내 어두운 피부색하고 어울리지 않아.  Yellow isn’t my color. It doesn’t flatter my dark skin.
 * 여성이 꽉 끼는 바지를 입을 때 가랑이 사이에 갈라지는 자국을 우리말 은어로 ‘도끼자국’이라고 하죠. 그에 해당하는 말이 a camel toe 입니다. 가운데가 갈라진 낙타의 발모양에 빗대는 거죠.  참고로 옷이 똥꼬에 끼는 것은 영어로 뭐라고 할까요? 바로, a wedgie 입니다. 쐐기(wedge)로 틈새에 박아버리는 것이 연상되네요! 
@@ -86,6 +96,39 @@
 * 카우보이 부츠; hop-a-long-boots
 * 그 방은 깨끗하고 편하게 보였다 The room looked neat and snug [ cozy ]. 듣기 출처:동아 출판
 * 구두 닦으라고 했잖아; i asked for a shoe shine
+* footwear 미국식 [|fʊtwer]
+ * 운동화: athletic shoes 또는 gym shoes
+   * 육상화: spikes, 학생들이 좋아하는 신발: rides
+   * 10cm 힐: 스틸레토힐 stiletto heel | 뒤꿈치를 끈으로 연결한 구두는 슬링백 slingbacks
+   * 굽 높이가 5cm 이하인 굽 낮은 신발은 키튼힐 kitten heels
+   * 펌프스 pumps는 앞쪽이 낮아서 발등이 많이 드러나는 구두를 일컫는 말입니다. 
+   * #키높이 신발 elevator shoes | #깔창 insole | 구두의 밑바닥, 밑창은 sole 
+   * #밑창; bottoms; red bottoms
+   * ##키 #stature, #height
+   * #난쟁이 #dwarf, #midget
+   * #높이 ~'s #level 
+   * The tower #measures 90 meters high
+   * #까치발 He's on his tip toes
+   * 신발끈 lace나 shoestring, shoelace; #tie the strings <> #untie
+   * #쥐꼬리만한 월급; we live on a shoestring
+   * 굽이 낮은 신발, 단화는 영어로 플랫(flats), 바로 끈이 없는 구두를 로퍼(loafers)
+   * 부드러운 가죽으로 만든 납작한 형태의 신발 moccasin
+   * 정장에 잘 어울리는 끈이 있는 구두를 옥스포드(oxfords)라고 해요. 또는 lace-ups
+   * 앞코에 W자로 천을 덧대거나 모양을 낸 구두도 종종 보셨을 거예요. 이 구두도 클래식한 느낌으로 정장에 잘 어울리는데 이런 건 브로그(brogues)
+   * 쪼리“ flip-flops이나 thongs
+   * slippers > 밑창이 있고 앞이 막힌 것은 mules이고, 전체나 바닥이 나무로 만들어진 신발은 clogs라고 합니다. 사진은 clogs입니다. 
+   * 장화: rain boots라고 하고요. 다른 말로는 wellington boots
+   * 말을 탈 때 신는 부츠는 riding boots라고 해요. 참고로 말이 신는 신발인 편자는 horseshoe
+   * #나막신 clogs
+   * 사이즈가 맞지 않아요               The size doesn't fit me
+   * 신발 사이즈 몇이야?           saɪz What size shoe do you wear?
+   * 신발이 약간 껴, 더 큰 치수 있나요? T hese shoes are a bit too snug, do you have them in a larger size?
+   * 그거 프리사이즈인데요~                It's one size fits all. 
+   * #신발끈 풀렸어요                 Your shoelace is undone.
+   * #규모; #scale
+   * 신발이 #낡아서 새 신발을 사러 가려고요; my shoes are so worn out that i'm about to but new shoes
+   * 사이즈 잴수 있을ᄁᆞ요? may I have my size measured?
+   * do you #carry these shoes in a size 8 1/2/색깔; eight and a half
 
 ##옷 #의복 wear <> put, try on: 관사에 주의 attire=outfit [ə|taɪə(r)]
 * 누드; birthday suit; 한 남자가 발가벗고 돌아다니고 있다.; A man is going about in his birthday suit.; 생일 날 장난

@@ -164,7 +164,7 @@
 
 
 # 랩
-* boat(죠지), 우리집을 못 찾겠군요, 물음표, Mashmello, WTF(페노메코), Jasmin(DPR), 짠해, 사이먼 도미닉, 나쁜년, 춤(OFFANOFF), Homebody(PH-1), 나타나줘(로코), 지나쳐(로코), Respect(로꼬), Real lady, 마법의성, 하기나 해(그레이), 나쁜 놈들
+* boat(죠지), 우리집을 못 찾겠군요, 물음표, Mashmello, WTF(페노메코), Jasmin(DPR), 짠해, 사이먼 도미닉, 나쁜년, 춤(OFFANOFF), Homebody(PH-1), 나타나줘(로코), 지나쳐(로코), Respect(로꼬), Real lady, 마법의성, 하기나 해(그레이), 나쁜 놈들, Action!(DPR)
 2. Psycho, I’m The one, Sriracha
 
 

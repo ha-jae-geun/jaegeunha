@@ -1,4 +1,3 @@
-
 * 너답지 않아. 					 It's not you., you don‘t seem like your#self
 * 너나 그렇지								 Speak for yourself
 * i'm/ i'm not 명사 뒤에 myself 붙이면 의미는 같지만 원어민 느낌; I'm not a smoker myself
@@ -41,17 +40,6 @@
 * 효과가 기가막혀 it does #wonders
 * 그럴줄 알았어 #no wonder
 * ##wonder
-*  시작하다: #initiate = #begin = #start = #commence = #embark on(배에 올라타다) = #set out/off(#착수)
-* 준비 되었습니다. 								 ~ is all set up
-* 그들이 나를 #함정에 빠뜨렸어 							 They set me up
-* #set-up; it was a set-up
-* 함정이었어 There are #pitfalls
-* #덫에 빠뜨리다; #ensnare
-* 내 친구가 소개 해줘서 만났어요					 My friend #set me up with a guy. 
-* #set aside; 떼어놓다
-* #set down; 적어두다, 내려두다; set down the load; 짐을 내리다
-* #set off; #출발하다, #터뜨리다
-* ##set#
 * in the flesh= in person; You have to meet him in the flesh
 * 직접 말 못하겠어 							 I can't tell her myself
 * 직접 만든거야? did you make this T-shirt yourself?
@@ -82,9 +70,6 @@
 식기 세척기 넣기 전에 헹궈 rinse them beforee you put them in the dishwasher
 * *we don’t’ like dishes piling up
 * ##설거지
-* 치맥보다 #좋은건 없지.						#Nothing beats beer with chicken.
-* ~만한게 없어 								 There’s nothing like ~
-* ##nothing
 * 국정농단 the monopoly of government affairs
 * 장사의 독점 The monopoly on the trade
 * ##Monopoly
@@ -92,14 +77,6 @@
 * ##cake
 * 나와 									 cash(catch) me outside
 * ##cash
-* 1. 신청하다 ; 수강신청하다	register for/sign up for courses
-* 2. 원했던건 이게 아닌데	I didn't sign up for this
-* 회원가입하다	sign up for a membership
-* sign off; 끝맺다; signing off  영상통화 2. 승인하다 
-* 싸인하세요 sign away here
-* #sign up; sign up (for something); (강좌에) 등록하다
-* #sign in online; 2. (사무실·클럽 등에) 도착[입실]/출발[퇴실] 시 서명하다/~의 이름을 기록하다
-* ##sign
 * 실감나다; sink in; the breakup start to sink in
 * ##sink
 * #대화로 풀다 					talk/hash out; I am trying to has out these details
@@ -108,11 +85,6 @@
 * improve on, #remedy
 * there is a lot of room for improvement
 * ##개선
-* 그는 잘 받아준다 / 못 받아준다 / 분위기 망친다.	 He is a good sport / bad sport / spoilsport
-* #sport: 영국, sports: 미국; How often do you work out?
-* 측면에서 보면, sport는 운동이나 경기 총체를 의미하고, sports는 경기대회 혹은 경쟁이 따르는 운동을 의미합니다. 미묘한 차이라 생각될 수 있지만, 쉽게 이야기 하면, sport는 큰 의미에서 운동이나 스포츠활동이고, sports는 특정한 대회나 종목들을 의미합니다. 
-종목에서는 단순히 단수/복수로 나뉠수도 있으나, 개념적으로 조금 다르다고 보시면 됩니다. 
-* ##sport
 * 피하다 모면하다: get away with | (물리적 장소, 논란이 될만한 언급을) steer clear of, avoid=shun
 * #steer someone wron;g I wound't want to steer you wrong
 * ##steer
@@ -156,9 +128,6 @@
 * #step in# #돕고 나서다; #개입하다
 * #하야할 것을 촉구한다	thoudsands call on south korea’s park to #step down
 * ##step
-* 핵심 #meat and #potatoes
-* 하루종일 Tv만 봐요 My husband is a couch #potato
-* ##potato
 * ##헷달 114
 * I think your brother has great potential.
 * #up-and-coming [형용사] 전도가 유망한, 떠오르는
@@ -174,21 +143,6 @@
 * 다른 일 하고싶을 때가 있지.
 * ##itchy
 * 뒤적거리다; WHy are you snooping around in my room?
-* 
-* ##snoop
-* 괴롭히다: #pick on; why must you pick on
-* #뒤치다꺼리하다 				 pick up after someone; I am not going to pick up after you
-* 조언을 얻다, 한수 배우다.		 #pick the brain of someone / pick someone's brain / brain picking.
-* 그녀는 그의 말에 담긴 유머를 #이해하지 못했다.		 have no clue | pick up on something
-* feɪld ‘hju:mə(r) rɪ ’mɑ:rk She failed to #pick up on the humour in his remark.
-* #가속화; is accelerating #gradually = is getting faster = #pick up; picking up speed
-* #pick up one’s brain on something; 충고를 듣고 싶다
-* #pick up the trash
-* pick up; #회복되다; 기분이 회복되다; I need a little pick me up
-* 동생은 나한테 시비를 걸었어요.			 My sister always tried to #pick a fight with me.
-* pick out; just pick out anything
-* pick up; The sensor picks up any form of body heat : 센서는 어떤 형태의 체열도 잡아냅니다.
-* ##pick
 * #check with A about B
 * I want to check ~
 * 쭉 보고있었어 							 He's been checking you out
@@ -219,24 +173,10 @@
 * ##yo
 * primary purpose; the primary purse of smoking weed is that you want to be relaxed
 * #1순위
-* #inflict A on B; inflict on B A; inflict on us the monetary loss tocover up the fault
-* #inflict injury, inflict on 영향, inflict a wound on; 남에게 상처를 입히다
-* det·ri·men·tal [dètrǝméntl]
-* take a toll on; it’s taking a toll on my shoulder
-* #손실을 입다; #Incur (2. #빚을 지다)
-* 손실을 #메우다 #make up the loss
-* #피해자 #사상자; #casualty #victim
-* #가해자; #attacker, #assailant, #aggressor - 공격을 가한 사람 
-* #대파괴; The floods caused #havoc throughout the area. 홍수로 그 지역 전체가 완전 파괴되었다.
-* #wreak havoc with; #아수라장을 만들다; wreak havoc on the region's economy
-* ##가하다 ##피해 ##손실 #해로운
 * 혹시 모르니까 일찍 떠납시다. 혹시 모르니까	 Let's leave early,just to be on the safe side.
 * 더 일찍 못와서 죄송해요		 			 i'm so sorry I couldn't get here sooner
 * #일찌감치 ahead of time 일찌감치; Please let me know ahead of time.
 * #일찍
-* 머리를 쓰다듬다 								 stroke her hair
-* #stroke the puppy
-* #pat; She patted the dog on the head
 * ##쓰다듬다
 * used to
 * ##하곤 #왕년
@@ -245,34 +185,8 @@
 * ~하고 싶어 죽겠다 		 I'm dying to(하고싶어 죽겠다), i'm dying for(갖고싶어 죽겠다)
 * ##dying
 * The company -------each of its stores to display the representative goods near the door. 
-* ##require
-* ○ Can we buy the tickets online? (표를 온라인에서 살 수 있나요?)
-* ○ This train ticket is very confusing (이 기차표 너무 헷갈린다)\
-* ○ Can we share the ticket? (우리가 그 티켓을 같이 사용할 수 있나요?)
-* ○ a complimentary ticket (공짜 티켓)
-* ○ Can I buy a metro ticket here? (여기서 지하철표 살 수 있나요?)
-* ○ I got a ticket for speeding (과속으로 딱지 뗏어)
-* ○ get a speeding ticket (과속딱지떼다) = get a ticket for speeding = get a traffic ticket
-* ○ a lead foot(과속운전자/ 발이 무거운 사람) = someone who has a heavy foot
-* ##ticket
 * in particular = #exceptionally
 * ##특히
-* #inhale = #suck in #exhale #gasp: 숨이 막히다; gasp at the news #pant: #헐떡이다
-* 너무 기대하지 마; don't hold your breath(#breath)
-* 그녀는 눈을 감고 숨을 깊이 #들이마셨다.			 She closed her eyes and inhaled deeply.
-* the patient's #respiration has slowed
-* 숨이 차다 								 I am out of breath
-* 숨이참; #shortness of breath
-* #respiratory; #호흡의; #호흡요법사; #respiratory therapist
-* 숨이 #멎는줄 알았어요 						 it just took my breath away
-* 너는 날 숨막히게 해 You’re #smothering me
-* 숨이 #탁 막히다; #gasp;
-* #gasp out; #헐떡거리며 말하다, #gasp for breath; 거칠게 숨을 쉬다;, #gasp at; ~에 놀라 숨이 막히다
-* 말해봤자 소용없어!	 Don't waste your breath . = save your breath =Talking it not going to help
-* 기대하지 마 					 Don't hold your breath.라는 친구가 있습니다.
-* 강하게 숨신다 You're breathing very #heavily
-* 이거 진짜 멋있다 							This is breathtaking
-* #breath: 명사, #breathe: 동사;, #호흡 ##숨 ##breath
 * Here’s what happened, I know what happened
 * ##말이죠 #어떻게 된거냐 하면 말이죠
 * budge; He won't even budge unless I show him inside
@@ -281,14 +195,6 @@
 * #요동치다; #run through; it's been running through me ever since
   * #jolt of ~
 * #마구 움직이다; The boys #flailed around on the floor. 그 남자애들이 바닥에서 마구 뒹굴었다.
-* ##움직
-* #Laid back = cool = chill = 느긋한 사람
-* get laid: 자다
-* 폭행하다; #lay a hand on someone; he laid a hand on my mother
-* #lay off; 1. 그만두다; Lay off me 2. 강도를 줄이다 3. 해고하다
-* 바닥에 #펼쳐진; #laid out on the ground
-* #lay down; 내려놔; 
-* ##lay
 * have access to; 					 you can have easy access to motel or hotel
 * 접근하지 않다 #hold off; hold off on burning my body for now
 * ##접근 #접하다
@@ -306,34 +212,6 @@
 * #point out #indicate
 * #가리키다
 * My opinion on korean
-* ##대한
-* #선비; #wiseman
-* #씹선비 social Justice Warrior
-* ##씹선비 #선비
-* 진행하는 느낌, I run my own business
-* I run this video: 촬영한다.
-* 그 영화는 #흥행했어요 					 The movie had a successful #run
-* run into; If you run into any problems : 어떤 문제라도 생기면...
-* #꼼짝 못하게 하다, 궁지에 ᄈᆞ지다 #Run into the sand(#sand)
-* 꼼ᄍᆞᆨ도 안하다; #not turn a hair; he didn't even turn a hair
-* 장보러 가는데 I’m running out to the market
-* 빚이 쌓이다 #Run up debt
-* 결국에는 #in the long run(#run)
-* 뭔가를 매우 잘하는 사람에게 도전 #give someone a run for their money
-* #연속; #run of; bad run of PR
-* 잘나가다; he had a great run at ~ company
-* ##run
-* 
-* #헷달 113
-* #소식, #뉴스; #tiding
-* #속보; #news flash; #flash
-* 1) break the news (to some one) : 누군가한테 중요한 뉴스(일반적으로 나쁜 소식)를 전하다. 
-* 2) breaking news : 따끈따끈한/ 방금 들어온 속보
-* 최근 #소식입니다, 다음 소식입니다 our latest/next news
-* 안좋은 소식은 빨리 퍼진다 Bad news travels fast
-* 길거리에 돌아다니는 뉴스 #word on the street/wire; 인터넷에 돌아다니는 뉴스
-* 뉴스에 난리났어; it's all over the news
-* ##뉴스
 * 요점이 있다; go somewhere(2. 행선지가 있다)
 * I'm going throuhg a lot.
 * It doesn't go through 								 결제(통과, 성사)

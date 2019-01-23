@@ -1,3 +1,16 @@
+# [ LESSON - 26 ] - 시간표현 PART 03
+* "저는 1주일에 적어도 3번은 헬스장에 가서 운동을 해요.  
+  * I go to the gym at least 3 times a week
+* 평일에 두 번, 주말에 한 번이요. 
+  * Twice during weekdays and on weekends; weekdays를 하나로 묶어서 during<> twice on weekdays; 주중 매일
+    * 외국인은 토요일, 일요일을 하나로 묶어서 weekend로 생각; this weekend
+* 평일에는 아침에, 출근하기 전에 가고요 
+  * On weekdays, i usually go in the morning, before i go to work.
+* 주말에는 이른 오후에, 1시쯤에 가는 것을 좋아해요 - 
+  * On weekends, i like to go early in the afternoon around 1 o'clokc
+* 그 시간에 사람이 적은 편이거든요."
+  * Because it's less crowded then; 그 시간에: then
+
 # Recently, Lately, These days - 연습문장 8개 + "nowadays" / "currently"
  * 1. "걔네 엄청 오래 사귀다가 최근에 결혼했어."
   * They dated for a really long time and recently got married

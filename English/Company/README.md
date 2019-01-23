@@ -415,6 +415,7 @@ run a store, manage a team, operate a factory
 * ○ I feel bored at work (회사에서 일하는게 지루해요)
 * ○ I play with my dog every night when I get home from work (나는 퇴근하고 집에 왔을 때, 저녁 내내 강아지랑 논다)
 * ○ I'm off to work (나 출근해)
+	* arrive at work = 근무지에 도착하다; 여러분! 영어로 ‘근무지, 직장’은 그냥 work 입니다. company, office 라고 하지 마세요. - I just got to work. 방금 출근했어. - I just got to the office. 방금 사무실 도착했어.; I travel to work by subway each day.
 * ○ This is my day off = I'm off duty today (오늘 난 비번이야)
 * ○ This printer doesn't work (이 프린터 #작동을 안해)
 * not #functioning

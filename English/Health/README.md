@@ -577,6 +577,11 @@
 * #관절이 쑤셔요. My joints hurt. 
   * #관절염; #arthritis 미국식 [ɑ:r|θraɪtɪs]
   * 뼈 마디가 쑤셔요; i'm bone-tired  
+    * 너한테 #따질게 있어 #따지다          I have a bone to pick with you
+    * ##bone
+    * 아프고나서 뼈만 남았네요.         He's all skin and bones after his illness.
+    * #골수                  a bone marrow transplant
+    * 그 생선 뼈 거의 없어             That fish has few bones. 
   * knee joint, 관절을 삐다: have a joins #dislocated; hurt one's joints
   * #마디마디가 쑤신다; i'm aching in the #joints
   * #삐다; #twisted = #strained

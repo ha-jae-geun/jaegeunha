@@ -11,13 +11,6 @@
 * It's a #blue-collar job. (육체 노동 일자리예요)
 * It's a #white-collar job. (사부직이예요)
 * ##job
-* 인생은 살쪘을때와 안쪘을때로 나뉜다 life has two #phases. my fat phase and my slim phase
-* 놀리지마 Don't phase me
-* 그냥 지나가는거야 it a phase
-* #상태 phase 90%
-* 상태 #업데이트; #make #status updates on social media
-* #update sth; update in the sth; update to your social applications; #update information for 
-* ##phase
 * #열거, 정의, 묘사, 설명, 예증, 분류 listing, definitiion, description, explanation, illustration, classification
 * 열거하다; #enumberate
 * * 대조, 비교, 인과, 진행 순서, 시간적 순서 contrast comparision cause and effect process * #chronological order
@@ -68,8 +61,6 @@
 * 방탄의 bullet proof, water-proof, fire-proof, sound-proof(#방음) wall
 * #방음 시스템; soundproof facilities, soundproofing, soundproof equipment, a sound arrester,
 * ##proof
-* 약골 wimp
-* 자기야,나 내빼지 않았어. 			 ‘hʌni wɪmp Honey, I did not wimp out.
 * ##wimp
 * 만화, 로맨스 					 cartoon | chick flick (chick: 아가씨, 계집애)
 * 2. [타동사][VN + adv. / prep.] (손가락 등으로) 튀기다[털다]
@@ -124,11 +115,7 @@
 * ##ahead
 * 앞으로 참고하려면 달력에 표시해야겠어 I marked the calendar for future reference
 * #뚜렷한; a #marked increase in profitss
-* ##mark
-* 만개하다, 활짝 피다 be in #full #bloom, 싹이 트다: sprout
-* 다 내 책임이야 I take full responsibility
-* be full of it; 누군가가 틀렸거나 진실을 말하지 않다
-* 평생동안 for #life, #for good, #for ever| over the full #span of a lifetime
+* ##mar
 * ##full
 * Whoops, Gosh, oh my god, holy crap (on a cracker); holy #smokes, holy moly
 * ##holy
@@ -136,11 +123,6 @@
 * 이 계획은 수포로 돌아갔다. 		 The plan has gone down the drain | gone up in smoke
 * 매캐한 연기								 ‘ӕkrɪd acrid smoke
 * ##smoke
-* 벌이 윙윙 #buzz
-* 들어오라고 해 #buzz him in(<> drop by: 잠깐 들어가는 느낌) = let him in
-* 꺼져 buzz off
-* #buzzkill; 분위기 죽이는 사람; he's such a buzzkil every time
-* 다른 종류의 #즐거움을 원해; we #crave a different kind of buzz
 * 즐거움을 날리다; #grind the joy out of your life; #joy
 * #mirth; bring mirth to you
 * ##buzz
@@ -161,10 +143,6 @@
 * ##scooch
 * ##them 뎀 > 듬 > ##'em 엄
 * ##em
-* #포스트잇(#post-it) -> #sticky notes
-* #찹쌀 sticky rice
-* 스티커 메모 sticky note
-* ##sticky
 * ##헷달 120
 * #take something with a #grain of #salt; 조금의 의심을 가지고 무언가를 봐라(약간의 소금으로 독이 들었는지 알 수 있다)
 * 크리스마스에 이틀을 쉰 뒤, #일터로 돌아가야 한다! 				 #go back to salt mines
@@ -177,12 +155,6 @@
 * 인생 처음으로: for the first time in my life
 * 처음으로 관심가지게 된게 I first became interested in
 * ##first
-* 1. [명사] (주로 복수로 英) (인력 과잉에 따른) 정리 해고[감원 조치
-* 2. redundancy check; 중복 검사
-* 3. 그는 자진 #명예퇴직을 했다. He took voluntary redundancy
-* 4. #퇴직 수당 redundancy payment
-* 5. 고액 퇴직금; #golden handshake
-* ##redundancy
 * name: 1. 밝히다 2. 말하다 3. 이름을 대다
 * name A after B; B에서 이름을 따서 A를 부르다
 * ##name
@@ -224,52 +196,6 @@
 * He's moving this weekend, so I decided to give them a hand.
 * Give your brother a hand with the chores.
 * Now wasn't that a great show, folks? Let's give them a hand.
-* 
-* #Hand in: (숙제 같은 것을) 내다 
-* #Hand out: 나눠주다 
-* #Hand-out: 프린트, 자료 
-* 
-* I forgot to hand in my homework yesterday.
-* James, would you hand these out to the class, please?
-* 
-* #Hand down: 전수하다 
-* This tradition has been handed down for centuries.
-* 
-* #Hand’s down: 의문의 여지가 없는 
-* He's hands-down the greatest conductor of romantic music.
-* 
-* #Offhand: 즉석에서 하는 
-* He found himself in hot water for some offhand remarks he made about illegal immigrants.
-* 
-* #Hand over: 건네주다
-* Hand over the documents or you'll regret it!
-* 
-* #Hand wringing: 손을 비비다
-* There is been much handwringing over how to adequately deal with this issue.
-* 
-* I can’t handle this
-* I'm trying to get a handle on the situation 
-* 
-* #At hand: 바로 가까이 
-* Your demise is at hand. 
-* The enemy is close at hand. 
-* 
-* #Lift a hand: 손 까딱하지 않다
-* He didn’t lift a hand to help us. 
-* 
-* Don't you lay a hand on my computer. 
-* A bird in the hand is worth two in the bush.
-* --------
-* ☆#get out of hand; 통제가 안돼; everytime he drinks, he gets out of hand; out of my hand
-* #get one's hands on sth; #수중에 넣다; i'm going to need to get my hands on the origianl
-* get one's hands on sbdy: #붙잡다 / #혼나다; get my hands on him
-* √ #work hand in hand (같이 손잡고 일하다)
-* √ #go hand in hand (관련있다) 
-* √ She goes #hand in hand with him (그녀는 그와 관련이 있다)
-* √ He has #two left hands (그는 뭐하나 제대로 하는게 없어) = He's all thumbs = All his fingers are thumbs = He's not good at anything
-* √ He is a #poor hand at figures/accounts (그는 계산이 서툴러)
-* √ I'm a poor hand at knitting (난 뜨개질이 서툴러)
-* ##hand
 * #serve as a class leader
 * serve to do; ~하기 위해 쓰이다; serve to measure
 * 아침 식사 언제에요? 					 What time is breakfast served?
@@ -304,21 +230,6 @@
 * #carry away; 치워버리다
 * ##carry
 * #glossy hair
-* #야광: #glow in the dark
-* 밝은 빛: #blaze
-* #형광등 fluorescent lamp/light [|flɔ:|resn
-* #번쩍이다 #streak; #줄무늬, #번개나 빛이 번쩍임, #별똥별이 지나가는 모습, 
-* a shooting star streaks through the blackness
-* 반짝거리다; how come your eyes are so #sparkling
-* #glisten; in soft glistening night of stars
-* ~에 비치다 be #reflected
-* #비추다; #illuminate; the earth is illuminated by the sun
-* his face #reflected in the mirror
-* #빛나는; #radiant; you look so radiant
-* #빛을 발하라; #rise and shine
-* #light up; #밝히다; light somebody up 
-* 윤이 난다; #sleek
-* #beam of light; #반짝 ##빛 ##광 #윤이 #비치다
 * 1. (감정・생각・에너지의 바람직한) 발산[배출] 수단
 * She needed to find an outlet for her many talents and interests.예문 발음듣기
 * 그녀는 자기가 지닌 많은 재능과 관심을 발산할 수단이 필요했다.

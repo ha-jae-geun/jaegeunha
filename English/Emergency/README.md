@@ -1,9 +1,24 @@
 # 기타
+* #비상구 #emergency exit, #fire exit
+	 * #탈출구; #way out
+	 * #긴급 사태 대책; #contingency plan = #emergency plan
+	 * #긴급전화; #emergency call; #영국; 999 #유럽; 112 #미국: 911
+	 * 비상용 없어? Don’t you have a #spare?
+	 * 비상시에는 누구에게 전화해요?				 Who do I contact in an emergency? 
+	 * 비상구 쪽으로 해주세요				 I'd like a seat near the emergency exit. 
+	 * 의료센터를 안전하게 하고 #비상사태에 대비해! Secure the medical center and batten down the hatches! 
+	 * ‘bӕtn 폭풍에 대비해서 배의 출입문(hatch)을 널빤지로 눌러서 고정시켰던 것에서 유래했습니다
+	 * pinch in; ~ 사이에 끼다, #pinch on; 꼬집다; #in a pinch; 비상시에는, #make a pinch; #체포하다
+	 * #urgency; by a sense of urgency
+	 * #비상금; #nest egg(#egg)
+	 * #비자금; create[set up] a secret[slush] fund
+	 * We must consider all possible #contingencies. 우리는 모든 가능한 만일의 사태를 고려해야 한다.
 * a close shave = 구사일생, 일촉즉발
 	* 발생하진 않았지만 매우 위험했을 수 있던 상황을 가리켜 a close shave 이라고 합니다. shave 는 [면도하다, 깎다] 를 말하죠? 그 정도로 가까운 스침, 가까스로의 상황이란 뜻입니다.  Phew, that was a close shave/call.
 	* - a close call 구사일생 = - by the skin of one’s teeth 가까스로 - a hairbreadth 털끝만한 틈
 	* 죄수는 어떻게 될지 모르는 운명의 갈림길에서 재판관 앞에 서 있었다. The prisoner stood before the judge with his life hanging in the balance.  극히 불안정한 상태에 있다, 위기에 처해 있다
 	* 내가 널 곤경에서 구해낼 거야 I ' ll save your bacon . 예문 발음듣기
+	* 우리 팀이 궁지에 빠졌다 Our team was behind the eightball. 
 * 위기의식 危機意識  단어장추가 (철학) consciousness of crisis
 	* 상황을 고조시켜요; It all gets ramped up
 	* 그의 상황은 위태로웠다. His situation was haing by a hair. 
@@ -67,6 +82,28 @@
 * #안전핀 뽑는다 								 put out the safety pin
 * #손잡이를 누른다 							 squeeze the level
 * 빨리 불을 꺼요. 								 Quick, put it out. 
+	* ☆#화재; a fire #broke out here; there was a fire at ~
+	 * 불지르다 you gonna burn the place down
+	 * 불붙기 쉬운 [flǽmǝbəl] #flammable; 타오르는; #alight
+	 * #태우다; 불태워보다 #Let it #burn today; we could start a fire
+	 * #소각; ##재 #incinerate; #rainforests(#열대우림) have bnen incinerated
+	 * 작은 불; #brushfire; #국지적인
+	 * #불난집에 부채질 			 Add fuel to the fire. ≒ #Add insult to injury 상처에 모욕감
+	 * make things(situation/matters) even worse
+	 * 불이라도 났냐? 							 Where's the fire? 
+	 * 항공기가 추락하더니 금방 화염에 휩싸였다.	 The aircraft crashed and burst into flames
+	 * 불 밝히다 										light - lit
+	 * #hit/get the light
+	 * 불이 꺼질 때까지 기다리세요.				 You have to wait until the light goes off. 
+	 * 우리가 충돌할땐 불꽃이 튀어올라 						When we collide sparks fly
+	 * #가연성; #combustible; #flatulence is combustible;
+	 * #재점화되다; #reignite; this has reignited concerns
+	 * #상향등 켜지 마세요; don't turn on your #high beams
+	 * #브레이크 #제동; don't #slam on your brakes
+	 * #비상등 키세요; turn on your emergency lights
+	 * #윤기 #광택; Her hair had lost its #lustre. 그녀의 머리는 윤기가 없었다.
+	 * paper with a high #gloss on one side 한쪽 면이 광택이 많이 나는 종이
+	 * #모닥불; make #bonfires
 	* 은은히 빛나는; The ebers ws still glowing; 
 	* 잔불이 있는지 보자; Let's see if there are any live embers; 잔불
 	* 꺼져가는 불씨; Glowing dim; dim: 흐릿한; 아른거리는; as an ember

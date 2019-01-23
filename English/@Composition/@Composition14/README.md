@@ -1,14 +1,6 @@
 * #빵 #가장자리	with the #crust cut off
 * 껍질을 깐거야	those are #unshelled
 * ##껍질
-* #농사 방식; #farming practices
-* 씨를 뿌리다 plant seeds, #농약을 뿌리다: spray with pesticide, #비료를 주다: #fertilizer 
-* #농작물을 #수확하다 #harvest crops, #풍작 #good harvest, #광활한 농경지: extensive #farmland
-* #인정 많다 ##정#; have a good haeart
-* #애착; Does it have sentimental value?
-* #비옥한; #fertile
-* #씨#를 뿌리다; #seed #sow; sow the seeds
-* #농업; #agriculture, #farming, #cultivation - 농업, 농사 
 * ##농사 ##농촌
 * 니가 날 짓누르고 있잖아 			 weigh 사람 down; you’re weighing me down
 * 결정하기 전에 뭐가 좋고 나쁜지 신중히 계산해봐
@@ -26,17 +18,6 @@
 * #차라리; I would much rather have a bit of this
 * #rather than + 명사, 
 * ##rather
-* 1. ~ (on…) (사람들이나 차량이) 모여들다, 집중되다 
-* Thousands of supporters converged on London for the rally.예문 발음듣기 
-* 2. (두 개 이상의 선이나 도로 등이) 만나다 There was a signpost where the two paths converged
-* 3. 생각・정책・목적 등이) 수렴되다 
-* ##converge
-* 그러면 in that case, | in case 문장, 문장: 만약의 경우에
-* ^^in the case of 보다는 in my granfather's case처럼 소유격
-* be the case: 사실이다
-* #케바케 it depends (on)
-* #on a case; #일 때문에; i'm here on a case
-* ##case
 * in my case = in my #experience
 * #case #scenario
 * #상황극; #role play; #script role play
@@ -90,39 +71,7 @@
 * 투자 문제에 있어서는 내 누이[언니/여동생]가 조언을 다 해 준다. 
 * My sister's the oracle on investment matters.
 * ##oracle
-* 1. 마리화나 필 때 파이프 2. 남자 성기
-* ‘부질 없는 꿈이네~							 What a #pipe dream.
-* #pipe; #노래하다; i'm pipe her
-* #pipe up; 지껄이다; tell your man pipe up
-* ##pipe
-* ##헷달 118
-* #밀고 나가다	#push through; motivated to push through
-* ~를 옆으로 밀다	push over; push the tables over to the other side
-* #pushover, #spinless	줏대없는 사람
-* #push into; 등 떠밀려서 ~하게 되다; be pushed into it by someone
-* #push oneself; #다독이다 밀어붙이다
-* #push oneself; push oneself - (…하도록) 스스로 채찍질하다[to do]
-* #push around; #매정하게 굴다, 못살게 굴다, #차별대우하다
-* #push off; push someone or something off; 밀어내다; he pushed his frined off the cliff
-* #push comes to shove; when push comes to shove
-* #push aside; 제쳐두고; they will not be pushed aside and turned
-* #push button; . You really know how to push my buttons!; 나를 화나게 만드는 방법을 잘 아네요
-* #push off; #떠나가다
-* ##push
-* #meme(미임)
 * ##짤
-* No, I was in the dark. 아니 몰랐어.
-* Don't keep me in the dark. 나한테 비밀로 하지 말라고.
-* The owl can seel well int the dark. 부엉이는 어둠속에서 잘 봐요.
-* ##dark
-* #learn - #acquire - #acquainted with
-* 조언을 얻다, 한수 배우다.	 #pick the brain of someone / pick someone's brain / brain picking.
-* 빨리 배우는 사람 fast/slow learner
-* #머리 회전이 느린 사람; you're dumb = you're slow = you're a slow thinker
-* 머리 회전이 빠른 사람; youi're #quick-witted
-* #learn one's lesson(#lesson); i've learned my lesson
-* #pick up; I picked it up from ~
-* ##배우다
 * 'Let's decide by rock, scissors, paper.‘
 * Let’s do rock, scissors, paper.
 * ##가위바위보
@@ -133,7 +82,6 @@
 * 문뜩 그런 생각을 한 적이 있었지. 						It had crossed my mind. 
 * 
 * 우리는 항상 #인생의 #기로에 서있다. 			 We always stand at the crossroads of life.
-* #횡단보도 		 crosswalk safety, zebra crossing, pedestrian crossing, pelican crossing
 * ##cross
 * 어땠을까? What have you been?
 * #how've you been(발음 have you been) -> how have you been이라고도 쓰임
@@ -142,30 +90,6 @@
 * 질문의 at all; Are you exercising at all?
 * 대답의 at all; 전혀
 * ##at all
-* #mercury, #venus, #earth, #mars, #jupiter, #saturn, #uranus, #neptune, #pluto
-* #천문학적으로 #astronomically
-* #like nothing on earth; very good/very bad
-* 일에 대한 그녀의 아이디어는 언제나 매우 현실적이다.
-* 3:θ Her ideas for the work are always very down to earth
-* 우주의 법칙에 어긋나는 거야 You don’t want to put that out into the universe
-* #천체 #celestial body
-* #대기권에 진입하면서 #reentering the aatmosphere at speeds of over twenty five thousand miles
-* #위성 #satellite; we have you under satellite #surveillance
-* #적도; #equator
-* #수은; #mercury [|mɜ:rkjəri]
-* #우주선; #spacecraft; #astronaut #satellite
-  * #무인; #unmanned spacecrafts
-* #무중력; #zero gravity
-* #부력 buoyancy 미국식 [bɔ́iənsi,bú:jən-] 
-* #공전 [명사] (천문학) revolution, [동사] revolve (around)
-* 지구는 태양 주위를 공전한다 The earth revolves around the sun.예문 발음듣기
-* #자전; Since the Earth is rotating, two tides occur each day. 예문 발음듣기 출처:YBM
-* 지구가 자전하고 있기 때문에, 두 번의 조수가 매일 일어 난다.
-* #소행성; #asteroid; there are innumerabe asteroids
-* #규소; #silicate
-* #magnetosphere 미국·영국 [mæɡní:təsfìər]; #자기권
-* #rocket science; #로켓 과학
-* ##earth = #planet earth ##우주
 * a missile's #trajectory 미사일 탄도
 * sent a lot of cruise  missiles raining down
 * #미사일
@@ -211,12 +135,6 @@
 * ##파업
 * flock to
 * ##몰려들다
-* 그는 되게 잘속아 				Thay guy {bought it, fell for it, is so gullible. 'gʌləbl}
-* 믿다 buy it
-* #buy off; #buy someone off; #매수하다; they had to buy ~ off to stop him from talking
-* #buy into; 곧이곧대로 믿다; she had never bought into the idea that to be attractive 
-* #buy out; 주식을 다 사들이다
-* #buy up; 있는 대로 다 사들이다; #developers are buying up all the land
 * ##buy
 * #hyphen or dash
 * 40-year-old -가 들어가면 단수 취급
@@ -227,10 +145,6 @@
 * 둘다 괜찮아; #either is fine
 * 어느쪽이든 상관없어요 I can go either way
 * ##either
-* #전기가 나갈것이다/#정전 The electric will be off , blacked out
-* #두꺼비집 check out #fuse box, #circuit box / main switch keeps going down
-* Turn the power back on; the power keeps shutting down at my house
-* Maybe there I a #short circuit somewhere; #누전
 * 필름 끊기다 blacked out
 * ##black
 * i'm flattered; 감사합니다, 영광입니다. 2. I’m flattered you liked it 기쁘다
@@ -242,11 +156,6 @@
 * 적절하게 입고왔다; I dressed the part	
 * ##part
 * ##헷달 117
-* 발음하기 힘든 문장: tongue twister
-* #말문이 막힌다								 I get #tongue-tied.
-* silver tongue; He is silver tongue; 말주변이 좋다
-* #on the tip of my tongue; 입 앞에서 맨돌 뿐 기억 날 듯 말듯
-* ##tongue ##혀
 * #follow up on; i’m calling to follow up on your order
 * 이해돼? 									 Are you following me?
 * #following; it's not pleasant to say the following; 이런 말
@@ -264,17 +173,6 @@
 * #show off; 자랑하다; I don't like people who show off
 * #뽐내주다; #몸매; that really shows off your shape
 * ##show
-* #사비 					I decided to do it ay my own expense/out of my own pocket
-* buy/get/pay ~ out of one's pocket
-* ☆그는 #재력가의 도움이 필요하다고 말한다. 	He says he needs a friend with deep pockets!
-* 돈이 몸에 붙지 않다. 						 burn (a hole in) one's pocket.
-* my money is #burn a hole in my pocket = i'll spend whatever money I have
-* be out of pocket = to lose money due to an unfair situation
-* has deep enough pockets
-* 그가 남을 희생시켜 돈을 벌고 있다니 비열하다. line one's pocket: (남을 희생시키고) 돈을 벌다
-* 주머니에 남은 손 넣다 				 a woman is having her left hand in her pocket
-* 주머니에서 손 빼! 			 ‘pɑ:kɪt Take your hands out of your pockets!
-* ##pocket
 * 그는 내꺼야 								 He is on my ##list
 * 순위 리스트에 올리다 make it on/to ~ list; that's gonna make it to my list
 * ##list
@@ -350,7 +248,6 @@
 * #bridesmaid #maid of honor 
 * ##honor
 * 곧 #맑아질거야 								 it’ll clear up soon
-
 * 오해를 풀고 싶어요. 					 I want to clear up the misunderstanding. 
 * peril, clear and present danger: 명백하고 현존하는 위험
 * 
@@ -367,34 +264,3 @@
 * ##clear
 * #의성어 							 onomatopoeia 미국식 
   * #onomatopoeia; [|ɑ:nə|mӕtə|pi:ə]
-* #물소리; #drip drip
-* #꿀꺽; #gulp
-* 지하철 #choo choo
-* #총소리; #bang
-* 자동차; #vroom
-* 재채기 #achoo
-* [|ɑ:nə|mӕtə|pi:ə]
-* a-ha
-* Aaaaaah
-* Argh
-* Boohoo; #흑흑
-* #brrr; 추워서
-* Eeek; 이크
-* Ewww; 우웩
-* Er; 에.. 저.
-* #hooray; #만세; #hurrah
-* #humph; #흥
-* #hush; #shush; #쉿
-* Aww; 귀엽거나 사랑사르운 것
-* Mwahaha; Bwahaha; 웃는 소리
-* Phew = Whew; 안도
-* Psst; 잠깐만요
-* ------
-* #쉭; #휙; #swish
-* #쯧쯧 #tisk tisk
-* #쉿 #sh
-* #아프다; #ouch
-* #재채기 #achoo
-* 웃을 때: #giggle
-* #우르릉 거리는 소리; the #rumblings of thunder예문 발음듣기
-* #깜짝 놀랄때; #bam; #baam, #snap; oh snap

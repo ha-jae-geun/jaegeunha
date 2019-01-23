@@ -19,6 +19,9 @@
 * thousand -> 10, thousand ->  hundred thousand => million -> 10억 -> trillion(1조)
 * 뺴다; 여기서 take away는 ‘빼다, 뺄샘하다’라는 뜻입니다. 더하다는 add 혹은 간단히 plus라고 하셔도 됩니다.  Ten take away six is four.
 
+# 수학
+* 기수: carninal number
+
 # 사칙
 * 이렇게, 어떤 수치를 말했는데, 듣는 사람이 그 수치가 적은 편인지, 큰 편인지 감이 안 올 것 같을 때! to put things in perspective라 말하고, 들으면 "아~" 할 수 있는 비교군을 말한답니다. perspective는 '관점'이라는 뜻도 있지만 '원근법'이라는 뜻도 있는데, 좀 더 멀리서 보면 전체 그림이 보인다는 의미에서 쓰는 표현이 아닐까 합니다! 이런 정보성 컨텐츠에서 자주 쓰이는 표현이니 알아두시면 좋겠죠?
   * 아이슬란드는 인구가 대략 33만이야. 그게 대략 어느 정도냐면, 원주시 인구가 34만 정도래.ex) Iceland has a population of about 330 thousand. To put that into perspective, Wonju City has a population of about 340 thousand.

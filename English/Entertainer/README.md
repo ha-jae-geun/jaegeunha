@@ -10,7 +10,6 @@
 * 내일 시청해주세요; Tune in tomorrow
 	* 채널 고정; Stay tuned for
 * 쇼에 초대해 줘서 고마워요; Thank you for having me
-* 공연이 끝나다; Elvis has left the building
 * 연극해보자; Let's put on a play
 
 # Radio
@@ -23,7 +22,6 @@
 
 
 # 연극
-* : 그들은 헨리 홀에서 공연을 할거야 They're putting it on at Henley Hall; 연극이나 쇼 등에 올리다
 * gross는 동사로 ‘수익을 낸다’는 뜻으로 특히 영화나 뮤지컬 등의 흥행 수익을 나타내는 경우가 많습니다. top-grossing이라는 단어도 있는데요, 영화 등이 흥행이 잘 되어 돈을 많이 벌어들인다는 뜻의 형용사입니다. 
 	* 그 영화는 올 해 2억 달러 이상의 흥행 수익을 올렸다. The film has grossed over $200 million this year.
 * 소품; 목록에 있던 소품들 다 샀니? ex) Did you buy all the props from the list?
@@ -45,6 +43,12 @@
 * 환호받는 여배우; Accalimed actress; 자칭의; Self-proclaimed
 * (2차 면접 등을 위한) 재통보; Call back for roles
 * 공연장은 이렇게 생겼어요; this is what the venue looks like
+	* : 그들은 헨리 홀에서 공연을 할거야 They're putting it on at Henley Hall; 연극이나 쇼 등에 올리다
+	* 공연이 끝나다; Elvis has left the building
+	* * ##supply
+	* #순회 공연 go on #tour = get a tour(2. 구경하다)
+	* 홍보 투어; #press tour
+	* #투어; The band is #on tour in France. 그 밴드는 프랑스에서 순회공연 중이다.
 * 소녀팬이 된 기분이야; i'm like fangirling
 	* 엄청난 팬층을 갖고 ㅣㅆ잖아; Artists have like huge follwings
 	* 팬의 마음으로 잔뜩 흥분한 사람들로 가드겼어요; a ton of fanboying and fangirling going on

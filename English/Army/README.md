@@ -165,8 +165,8 @@
 Make sure you got a #round in the #chamber and your safety off
 * #총알 받이; #cannon fodder(#fodder)
 * 총알은 가까운 벽에 맞고 튀어 나갔다. The bullet ricocheted off a nearby wall.  [ˈrɪkəʃeɪ]
-* *마음대로 쏴 					fire at #will
-* *##쏘다 #마음대로 쏠 수 없어	I can't get a (clean)shot at all
+* 마음대로 쏴 					fire at #will
+* ##쏘다 #마음대로 쏠 수 없어	I can't get a (clean)shot at all
 * #제대	after your military service
 * #예비군	I'm a reserve in the army, I went to army reserve training
 * 한국인들은 군대 가야한다	All korean men have to go to Army

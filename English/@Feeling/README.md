@@ -937,6 +937,16 @@
 	* #좌불안석; being unable to sit comfortably[still](from anxiety) / be ill at ease 
 	* 정신을 잃을 정도로 무서웠어; It scared me out of my wits; out of one's wit: 제정신을 잃은; scare과 함꼐 자주 쓴다.
 * 자신감은 많이 있어요; i have a lot of confidence
+	* ☆자신있다; ☆i think I can <> I don't think I can; do you think you can do this?
+	* I know I can <> I don't know if I can
+	* you need more confidence, you need to have more confidence, 
+	* I don't feel confident, I don't have confidence
+	* #confident, #self-assured, #positive - 자신 있는 
+	* I'm confident on this one
+	* #over-confident
+	* 자신감이 부족한 것 같다. 		 I have a lack of confidence, lack confidence
+	* #insecure; 자신이 없는
+	* #buoyant- 경기가 좋은, 자신감에 차 있는; [|buːjənt] 
 	* #자신없는; #faint-hearted; insecure
 	* 그녀에게서는 자신감이 줄줄 흘렀다.[also V] [VN] She exuded confidence. 
 	* : (자신의 영역인듯) 편안해 하다, 잘 하다, 자신감 넘치다 be in one’s element
@@ -961,6 +971,23 @@
 	* ○ I'm scared of being left alone. 혼자 남겨지는게 무서워
 	* ##scary ##scared
 * 소름끼쳐 			 	 It gives me the creeps. It gives me the chills. goosebumps
+	* 소름끼쳐 		 It gives me the creeps. It gives me the chills. it gave me goosbumps
+	 * 털 #곤두서게 하다 					 That sound makes my hair stand on end
+	 * 김연아 퍼포먼스는 전율 돋게해 					 sent shivers down my spine
+	 * ##소름 #닭살 #전율
+	 * #creepy; how creepy it is?, croopy, #spooky; #spooked 겁먹은
+	 * 오싹하게 하다				 creep/freak someone out; you creep me out
+	 * make your flesh creep = make a person's flesh creep[crawl] 
+	 * #등골이 오싹해 THe movie sent #chills down my spine(#spine)
+	 * #간 떨어질 뻔행써 You almost game me a #heart attack
+	 * 귀신: #wight
+	 * 귀신이 나올 것 같은 고가(古家) 			 		 a spooky old house
+	 * 머리 없는 유령이 말을 타고 그 시골길에 나타난다. A headless rider haunts the country lanes.
+	 * 오싹한 귀신 이야기				 a creepy ghost story예문 발음듣기
+	 * #섬뜩; gruesome 미국·영국 [|gru:səm]; gruesome episode
+	 * #귀신 | #으스스한 #오싹한 #섬뜩
+	 * 미신; be #supersitious, #believe in supersitious
+	 * an old #wive's tale
 	*  it makes my skin crawl 
 * get/have <> give ##goosebumps
 * #짜릿; a #real thrill. 
@@ -1995,3 +2022,43 @@ I am always overlooked(간과), never discount the contributions, put someone do
 # 싫다
  * 직역하면 [의 내장까지 싫어하다] 라는 뜻인데요. 누가 싫으면 싫었지 내장까지 싫어한다? ㅎㅎ 그만큼 그 사람의 안 보이는 곳까지 싫어한다는 뉘앙스로, 누군가를 정말 싫어할 때 쓰는 비격식 표현이에요.
  	* ex) I hate my guts. What the hell was I thinking? 
+
+# 기운
+* 기운 내 										láitn Lighten up. 
+	* ##진을 빼놓는, 진이 빠진 							draining, drained
+	* 넌 언제 주눅이 느니? 						 When do you feel daunted?
+	* 기운 없어 I don't feel like doing anything = I don't want to do anything
+	* 기운 빠져; #run on empty; i'm running on empty
+	* #in no spirits(#spirit)
+	* have no energy <> have full of energy
+	* #slouch #무룩, 구부정히 서다
+	* #나른한데 그냥 노래나 불러봐 			'draʊzi Then just sing for me as I'm feeling drowsy.
+	* #노곤한 #languid; feel languid
+	* ##languid; #식곤증; #languor after a meal, #languish: 나른해지다, a languid afternoon; 나른한 오후
+	* 식곤증; #food coma
+	* 기운 차리다 #Pull it together
+	* 기운 내다; #take heart
+	* #기운차게; in high spirits(#spirit)
+	* #기력을 되찾다					I got a second wind. = #recharge one’s #batteries
+	* get some #strength back
+	* ##활기찬 #생기있는 활기찬 도시						 a vibrant city
+	* #animated, #lively, #	spirited - 활기 넘치는 
+	* be #alive with; the hall is alive with chatter and laughter
+	* 활기찬 #perky; perky boob
+	* 내게 #생기 #활기를 불어넣어 주는군 			 That makes me little more enlivened
+	* #invigorating
+	* #에너지가 많이 들었다; #take up a lot of my energy
+	* #exude engergy [ɪg|zu:d] = #give off energy
+	* #생동감 #활기
+	* #여윈 #헬쑥; #drawn, #pinched, #haggard - 핼쑥한, 여윈
+	* #기력 #기운 #주눅들다
+
+# 자책
+* 자학하지마. 		 ‘tɔ:rtʃə(r) Stop torturing yourself. You must stop dwelling on your mistakes.
+	* 실수만 자책하기만 하면 안 돼.
+	* 너무 자책하지마!! 		 Don't kick yourself., beat oneself up; beat himself up 
+	* Don't #second guess yourself, Don'y beat/blame yourself, Don’t be so hard on yourself
+	* don't put yourself down
+	* stop #drilling
+	* 좌절했었어 I was broken from a young age
+	* 셀프디스, #self-deprecating = #selfdiss #diss; disrespect

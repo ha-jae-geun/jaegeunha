@@ -3,6 +3,31 @@
 * 간조와 만조는 지구에 작용하는 중력과 원심력 때문에 생기는 것
 	* 물이 만은 쪽은 만조, 아닌 쪽은 간조
 
+# 배
+* #선장 #captain #선원 #crew
+* #선박의; #nautical; #해상의
+* #선회 #급선회 #sharp turn(#turn)
+* 노를 저하다 							are rowing a boat = #paddle down
+* 뒤로 열심히 돌려야 해, 노를 반대로 저어 			 we need to rewind hard, back paddle
+* #돛의 #삐걱소리 the #crack of #sails
+* 배가 떠났다 thie ship has #sailed
+* GPS 없이 #항구를 떠났어; I've left the port without the GPS
+* #항구 도시; #coastal city
+* #빌미; 화를 #좌초; #ask for trouble; asking for trouble
+* #가라앉다 #침몰 #침수 #좌초 #sinking #ferry = #submerged
+* 침수; #under water
+* #인양하다; #salvage
+* #전복 #capsize a boat
+* #정박 #장착 #dock(2. #정박); dock USB = #port = #harbor = be tied
+* #보트를 #조종하다; #steer; steered the boat
+* #steer the house
+* #난파선; #wreck; #trapped in the wreck
+* #깐닥거리다; Tiny boats bobbed up and down in the harbour.
+* 돛을 펴라 #spread the sail
+* #증기선; #tramp steamers
+* #돛대; #masts
+* ##노 ##배#
+
 # 바다 #바다 #해변
 * beach: 바다나 호숫가에 모래와 같은 돌멩이들이 있는 곳; 일광욜 즐기러 가는 곳; seaside; 사람들이 휴가 때 해수욕이나 피서를 목적으로 찾는 바다 옆의 동네와 지역을 말해요.
   shore; 바다뿐만 아니라 강과 호수로 바로 이어지는, 주로 모래로 된 지역 뜻합니다; coast: 바다를 끼고 있는 럽은 지역

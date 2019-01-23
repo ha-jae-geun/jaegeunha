@@ -48,6 +48,62 @@ The best-selling classic of politics is Machiavelli's monarchy.
 * cast 는 ‘던지다’, ballot 은 ‘무기명 투표’ 혹은 ‘투표 용지’ 그 자체를 말합니다. 그래서 합치면 ‘표를 던지다, 투표하다’가 됩니다.  참고로, 동사 elect 은 투표(casting a ballot)에 의해서 누군가를 ‘선출’하는 것으로 최종적으로 선거에서 이긴 것을 말합니다. 
 * - franchise : 선거권, 영업권, 사업권 - enfranchise : 권리를 주다 - disenfranchise : 권리를 박탈하다 그래서 사회에서 소외되고, 의견이나 권리가 묵살되는 사람들을 disenfranchised 라고 묘사합니다. underprivileged : 혜택을 못 받는 marginalized : 여백(margin)으로 밀린, 사회에서 소외된
 	* 아무도 그 소외된 사람들을 위해 목소리를 높이려 하지 않았다. No one was willing to speak up for the disenfranchised people.
+* #국민 투표 referendum 미국·영국 [|refə|rendəm]; hold/call a plebiscite[referendum] 국민투표를 실시하다
+	 * Let’s not jump the gun and celebrate before the winner is confirmed. 
+	 * Don’
+	 * #출마하다 #Run for the office
+	 * 강력한 우승후보 									 front runner
+	 * #선거인단; #electoral college(#college)
+	 * #총선거; #general election; win/lose/ general election day
+	 * #입후보; he is running for president
+	 * #간접 선거 #indirect election
+	 * #개표; #ballot counting
+	 * #개표 결과; the results of the vote count
+	 * #개표 속보; a quick #flash report of votes counted
+	 * #경선제; #presidential primary election
+	 * #다내 경선; #ballot within a party
+	 * #지방선거; #local #regional #provincial election
+	 * #선거공약; #campaign pledge = election promise
+	 * #선거 운동; #election campaign = #electioneering
+	 * #선거권을 가지다; #posses a vote
+	 * #부재자 투표; #absentee ballot = #postal vote
+	 * #대선이 다가왔다 				 The presidential election is coming up in a month
+	 * 대통령 선거는 35일 남았다 				 The presidential election is 35days away
+	 * 이번 대선은 당신의 투표에 달려있다 		 This presidential election hangs on your vote
+	 * #대선에서 승리하다; #win the presidential election
+	 * vote for
+	 * #참정권; #suffrage
+	 * 투표로 하자: Let’s put it to a vote
+	 * #국민 투표 #총선거; referendum 미국·영국 [|refə|rendəm]; call[hold] a referendum
+	 * 국민들이 자신의 투표권을 행사할 수 있다 		 People can exercise their right to vote
+	 * 투표할거지? 								 You're gonna vote right?
+	 * 누구 뽑을건데? 		Who do you want to cast your ballot for?	 who are you voting for?
+	 * ~뽑을거야 								 I’ll cast a vote for him
+	 * 투표하세요 								 Make sure to vote
+	 * #cast a ballot = #vote for = #take a vote
+	 * I voted for the other guy
+	 * 투표는 #민주주의의 권리이다 				 Democracy gives us the right to vote	
+	 * 투표자들은 저녁 6시까지 #투표를 할 수 있습니다. 		 Voters can cast their ballots until 6 PM. 
+	 * 나는 그 안건에 찬성 #투표할거야. 			 I will vote in favour of that bill
+	 * #투표용지; #ballot paper
+	 * 투표할 나이; I was legally able to vote
+	 * 4월 13일에 투표를 할 수 없는 분들은 일주일 전에 #부재자 #투표(사전투표)를 할 수 있습니다. 
+	 * [1ӕbsən2ti:] Voters who can’t vote on April 13 are allowed to cast absentee ballots a week in advance. 
+	 * #여론조사 결과 두 후보가 #막상막하의 #접전을 벌이고 있는 것으로 나타납니다. 
+	 * ‘kӕndɪdət Opinion polls show that the two candidates are running neck and neck. 
+	 * 경마에서 말의 목과 목이 서로 ‘나란히 달린다’는 의미에서 유래한 표현입니다. 
+	 * ##여론을 환기시키다 ##arouse[#excite; #stir up] public opinion
+	 * 여론을 조사핟, 여론에 호소하다 #poll the public, appeal to public opinion
+	 * 그는 시류에 영합하지 않고 자신의 #소신을 지켰다. 		 ‘bӕndwӕgən: 많은 사람이 하는 행사
+	 * #Jump on the bandwagon; #유행에 편승하다
+	 * Instead of jumping on the bandwagon, he remained firm in his conviction. 
+	 * 옛날 미국에서 정치 지도자들이 대중의 지지를 얻기 위해 요란스럽게 북을 치고 피리를 부는 악대 차(bandwagon)를 타고 정치 퍼레이드를 벌인 모습에서 유래한 표현입니다. 
+	 * ‘시류에 편승하다’, ‘인기 있는 쪽에 붙다’입니다. 선거철인 요즘에는 ‘우세한 편에 붙다’ 혹은 ‘누구를지지’
+	 * 만장일치의 표결 						 [ju|nӕnɪməs] a unanimous vote
+	 * #consent; make (a person) consent, #consent readily; #만장일치; by common consent
+	 * #과반수; #better part
+	 * #유권자; #electorate
+	 * # 선거 # 투표 # 여론 | # 만장일치
 
 ## 정치
 * 영사관; consulate 미국식 [ˈkɑːnsəl-]  영국식 [ˈkɒnsjələt]   

@@ -23,6 +23,9 @@
 * begoing to는 가능성과는 무관; 비교적 확실한 상황에서 사용
 * i will visit England; 는 갑자기 결정한 어색한 느낌
 
+## Could, Would
+* could, would: 가능성이 적은 것을 의미 -> 공손한 느낌
+* 편한 사이거나 내가 좀 급하고 강하게 이야기 하고 싶을 떄는 will 이나 can을 사용
 
 # 접속사
 * must: 100%
@@ -39,6 +42,11 @@
 ## to, for
 * to: 주어의 실체가(몸이)도착하는 지점; i just went to your building
 * for: 주어의 몸 이외의 것이 도착하는 지점, 방향; ARe we waiting for ~
+* give, pass, bring 가볍게 주는 느낌; teach: 길을 가르쳐주는 것 처럼 가볍게 알려주는 것도 teach임
+  * give, pass, lend, bring, show, teach, write
+* buy, make, get; 정성스럽게 주는 느낌
+  * buy, make, cook, bake, sig, get, find
+* 일부분인 의견 물어보기: ask, inquire, beg
 
 ## at, in
 * at: 장소나 지점을 뭉뚱그려 콕 찝는 느낌
@@ -55,6 +63,14 @@
 * ahead 앞으로 향해 있는; 
   성공하다; Peter got ahead by staying positive at work
   앞서서; had left 5 minutes ahead of time
+
+## once
+* 1. 한번은; Once, I fell asleep
+  * 2. 일단 ~하면: Once you are done with your homework
+  * 3. 횟수 한번
+  * #어쩌다 한번; #once in a while 어쩌다한번; once in a while I wanna take a trip to somewhere.
+  * 확실히; #once and for all
+  * ##once
 
 ## as
 * 동등함의 그림 <> like
@@ -159,6 +175,18 @@
 
 # 동사
 
+## avail
+* 1. (부정 구문에서) 소용이 되다.; talk will not avail without work
+  * 2. avail + 명사: ~에게 소용이 되다.; it will avail you little or nothing
+  * 3. avail oneself of: ~을 이용하다; you should avail yourselves of this opportunity
+  * available to: ~할 수 있다., available for: ~가 가능하다.
+  * parking abailable
+  * abailable assets; 이용 가능한 자산
+  available to
+  * 쉽게 구할 수 있는 거               so #readily available
+  * #availability of
+  * ## available
+
 ## attention
 * 저는 당신에게 온전히 전념하고 있습니다  Well , you have my undivided attention; # 전념: # undivided attention
 
@@ -245,7 +273,16 @@
 
 ## beat
 * beat는 ‘이기다, 능가하다’라는 동사로 과거분사는 beaten입니다. 그래서 엄밀히 말하면 be beaten이라고 해야 하지만, 회화나 광고, 음악 등에서 be beat이라고 하는 경우가 종종 있습니다. We can’t be beat은 우리는 능가될 수 없다, 즉 “우릴 이길 사람은 없다”라는 의미입니다. 혹은 beat는 ‘녹초가 된, 엄청 지친’이란 의미도 있어서 “우린 절대 지치지 않아”로 생각할 수도 있습니다. 
-
+* #beat; 통제; beat the other women
+* #beat; #연타 #hit; 일반적 #spank; #체벌 #slap; 뺨, 손바닥; he slapped me on my back
+* #패배시키다 승자 + #defeat; 싸움, 전쟁 #beat; 득점; 경기, 시합;, 선거(vote) + 패자
+  * 몰라       scratch my head, I have no clue. #Beats me. Search me Don't ask me.
+  * #beating information out of someone; 때려 죽어도 몰라
+  * #beat the #crowd; 사람이 많아지기 전에 잽싸게 해놓기
+  * ~를 패다 #beat the shit out of something
+  * 너무 자책하지마!!     Don't kick yourself., beat oneself up; beat himself up 
+  * 불리함을 극복하다; #odds; 극복하다; #beat the odds
+  * ##beat
 ## boat
  * 나는 기회를 놓쳤다.               I missed the boat.
  * 문제 일으키지 마..               Don't rock the boat. 
@@ -301,16 +338,58 @@
 ## behave
 * * behave badly = 못되게 굴다 * behave yourself! = 말썽 피우지 마!
 
+## big
+* 잘나가다 go big
+  * 친절하다 %%It's very #big/nice/sweet/kind of you to 동사 원형
+  * #big on; ~을 미치도록 좋아하다 i’m not big on rubbing it in
+  * #힘내; #big ups my nigga
+  * 잘 나가는 가수!                  He's a #big-time singer.
+  * 당신은 거물급이죠.                You're a big shot. 
+  * 중요한 사건                 (연예계) big time
+  * #네 코가 석자인 것 같은데            You've got #bigger fish to fry.
+  * 퍽이나, 어쩌라고                  #Big deal
+  * 거짓말하다 #talk big, #exaggerate
+  * #잘 나가다 #big
+
 ## bill
 * bill 에는 [지폐, 법안, 목록] 이라는 뜻이 있는데요. fit the bill 에서는 일반적인 항목들이 쭉 적힌 목록을 의미해요. 그런 목록에 맞다- 라고 직역이 되니까 조건에 맞는 것들을 충족시키다는 의미를 가지는 재미있는 표현입니다. 특히 어떤 직업에 적절한 자격들을 가지고 있을 때 많이 쓰인답니다.
   * 레이첼은 그 직위에 완벽하게 적합한 것 같아. ex) Rachel seems to fit the bill perfectly for the position.
 * 영자신문의 정치면에 자주 등장하는 단어입니다. 교황이나 대통령 등 권위가 있는 사람이 공식적으로 제안된 사항을 거부/기각 할 수 있는 권리를 말합니다. 
   * 대통령은 그 법안을 거부했다. ex. The president vetoed the bill. 
 
+## bite
+* bite one's tongue; 말을 안하고 참다
+ * 과한 욕심을 부려 분에 넘치는 일을 하다; #bite off; 욕심부린다; you bite off more than you can chew
+ * 가서 뭐좀 먹자                Let's go #grab a bite 
+ * 여기 물린데 좀 봐              Look at these bites 
+ * #화내다; I really won't bite
+ * 이를 #악물고 하다 #bite the bullet
+ * #bite
+
 ## bitch
 * bitchy 의 경우엔 'x년' 을 의미하는 bitch 에서 나온 형용사라 원래는 나쁜 의미를 가지는데요. 친한 사이에서는 반어적 의미로 '도도하게 멋진' 을 의미하기도 해요.
 * bitch; 2. 임마; 3. he's such a bitch; 징징된다 4. Stop bitching; at me 싫은 소리 그만해라
   * 일방적으로 갈구다; bitch someone out
+
+## bug
+* 난 쓰레기버리는 사람들을 참을 수 없어         I can't stand litter bugs 
+ * 난 이 병을 사무실 누구에게도 옮기고 싶지 않아 
+ * I don't want to give the bug to anyone in the office 
+ * 이 매트리스에 #빈대가 있는 것 같아    I'm afraid there are bedbugs in this matress 
+
+## buy
+* 그는 되게 잘속아         Thay guy {bought it, fell for it, is so gullible. 'gʌləbl}
+  * #buy off; #buy someone off; #매수하다; they had to buy ~ off to stop him from talking
+  * #buy into; 곧이곧대로 믿다; she had never bought into the idea that to be attractive 
+  * #buy out; 주식을 다 사들이다
+  * #buy up; 있는 대로 다 사들이다; #developers are buying up all the land
+
+## buzz
+* 벌이 윙윙 #buzz
+  * 들어오라고 해 #buzz him in(<> drop by: 잠깐 들어가는 느낌) = let him in
+  * 꺼져 buzz off
+  * #buzzkill; 분위기 죽이는 사람; he's such a buzzkil every time
+  * 다른 종류의 #즐거움을 원해; we #crave a different kind of buzz
 
 ## bullet
 * 만화 캐릭터들이 긴장했을 때 흘리는 땀방울, 총알처럼 생겼다고 생각해본 적 있나요? 이렇게 총알(bullets)같은 땀을 흘릴(sweat)것만 같은, 긴장하고 두려운, 식은땀 나는 상태를 'sweat bullets'라고 한답니다. sweat bullets : 겁나다/진땀 빼다/긴장하다
@@ -323,6 +402,15 @@
 ## bus
 *   나는 널 절대 배반하지 않을거야. 나는 신념을 저버리지 않아. I wouldn' t throw you under the bus . I don ' t sell out . 
 
+## bust
+* #bust out: 갑자기 ~하다
+  * #bust in - #break in; 들이닥치다 I would bust in like I was the CEO
+  * #모 아니면 도           boom or bust(경제 용어: 경기의 활황과 불황)
+  * #실패작, 먹튀             bʌst 부수다, 강등 시키다 bust/flop
+  * ☆he did a #bellyflop right into the pool
+  * ‘부정행위 하다 걸렸어요                  He got busted
+  * #침묵을 깨다; #bust up the #silence##bust
+
 ## butt
 * 엉덩이에 키스하다?? 이렇게 더러운 표현이 [아첨하다/아부하다] 라는 의미를 갖게 된 것은 그만큼 아첨이나 아부를 지저분한 행위로 본 것과 관련이 있을 텐데요.  [아부/아첨하는 행위] 를 butt kissing 이라고 하고, 그런 행위를 습관적으로 하는 사람을 butt kisser 또는 ass-kisser 라고 합니다. 직장인 분들 주변에 꼭 한 명씩 있지 않나요?
   * 데이빗한테 아부 좀 그만해, 야이 더러운 아부쟁이야. ex) Stop kissing David's butt, you disgusting butt kisser.
@@ -332,6 +420,13 @@
   * 비격식 표현으로 상대방을 짜증나게 하거나 화나게 하려는 의도로 그 사람의 민감한 부분을 건드리는 말 또는 행동을 하는 것을 의미해요. 콕 하고 누르면 확 터지는 그런 부분 말이죠. 영상에서는 특정 인물의 민감한 부분이 아니기 때문에 복수로 buttons 가 쓰였습니다.
     * 몇몇 정치인들은 표를 더 얻기 위해 의도적으로 민감한 부분을 건드린다. ex) Some politicians deliberately press buttons to get more votes.
 
+
+## bang
+* 내 차 완전 #망가졌어           My car got completely #banged up.
+* 말도안되게 가성비가 좋은 #bang for the buck
+* 당신이 지불하는 만큼의 가치를 얻을 수 있다.    it is definitely a #bang for your buck.
+* 완전히 홈런 쳐버리고 yoo need to bang this thing
+* ##bang
 
 ## bachelor
 * 한 번도 결혼한 적이 없는 남자를 의미하는 단어예요. 미혼 여성은 bachelorette 이라고 하고요. 2번의 의미로도 종종 쓰이고, 학사 학위를 Bachelor's degree 라고도 합니다.
@@ -408,6 +503,16 @@
 * background 가 [배경]을 의미하는 단어이니, 그 사람의 배경, 즉 신원 확인을 하는 걸 background check 라고 합니다. 신원 확인을 요구하는 주체가 누구인지에 따라서 내용도 조금씩 달라질 수 있는데요. 보통은 범죄 경력, 신용 정보 등을 간단하게 조회하는 걸 의미해요. [범죄 경력 조회]는 criminal background check 라고 하기도 합니다.
   * = 저희는 정기적으로 현재 근무 중인 직원들의 신원 조회를 합니다. We conduct background checks on current employees on a regular basis.
 
+## burn
+* #데이다 you will burn yourself
+ * #2도 화상 #second-degree burn = 망신을 주다
+ * #망신을 주다; #second-degree burn = 망신을 주다
+ * 불지르다 you gonna burn the place down
+ * #밤 늦게까지 불을 밝히다(공부,일 하느라)        ‘mɪdnaɪt burn the midnight oil
+ * 손해를 보다                have one's fingers burned
+ * 돈이 몸에 붙지 않다.              burn (a hole in) one's pocket.
+ * #칼로리가 #소모된다; you can #burn out a lot of calory at once
+
 ## burden
 * 잭. 너의 짐을 함께 들어줄게. 혼자서 모든 걸 다 하려고 하지 마. ex) Hey, Jack. I can share your burden. Don't try to do everything by yourself.
   * 힘든 일이지만 조금만 참아. 곧 지나갈거야. ex) Bear the burden for a while. It will pass soon.
@@ -430,6 +535,9 @@
 ## breach
 * breach는 틈, 균열, 또는 파괴를 의미하기도 하는데요, 여기서는 위반, 침해를 뜻합니다. 약속이나 계약, 법 등 다양한 경우에 사용할 수 있죠.
   * : 계약/저작권/보증 위반 a breach of contract/copyright/warranty
+* 정부는 그 조약의 조건을 위반했다는 비난을 받고 있다.
+  * The government is accused of #breaching the terms of the treaty.
+  * 그 댐에 구멍이 뚫려 있었다 .(방어벽 등에) 구멍을 뚫다 The dam had been breached.
 
 ## break
 * 'Break in' 을 보면, 형태상으로 'Break in' 또는 'Break into' 로 많이 쓰이는데요, 가장 일반적으로 많이 쓰이는 뜻이 '어떤 건물이나 장소에 허락을 받지 않고 불법적으로 들어가다' 라는 뜻입니다. 그리고  '동물이나 물건을 길들이다 즉 말이나 강아지, 신발, 자동차 같은 것을 길들이다' 라고 할 때도 'Break in' 이 사용됩니다. 예컨대, 'I drove my car in a express way last night in order to break it in' 라고 하면, '나는 내 차를 길을 들이기 위해 고속도로에서 차를 몰았다' 가 됩니다. 또 'Break someone in' 처럼 사람이 오게 되면,  '-을  어떤 일에 맞게 훈련시키다, 트레이닝 하다' 라는 뜻이 됩니다.
@@ -576,9 +684,20 @@
 * 2. cause: 여기서는 '원인, 이유, 근거'가 아닌 '목적, 대의'를 의미합니다.
   * 우린 더 큰 대의를 위해서 협력해야 한다. [ex] We have to cooperate for a larger cause.
 
+## case
+* 그러면 in that case, | in case 문장, 문장: 만약의 경우에
+  * ^^in the case of 보다는 in my granfather's case처럼 소유격
+  * be the case: 사실이다
+  * #케바케 it depends (on)
+  * #on a case; #일 때문에; i'm here on a case
+
 ## cast
 * * cast out = 몰아내다, 없애다 cast 는 기본적으로 [던지다]라는 뜻을 가지고 있어요. 감독이 배우를 캐스팅하는 것도 배역을 던져주는 것이고, 또한 투표를 할 때 표를 던지는 것도 cast 라고 합니다.  여기에 out 이 붙어서 밖으로 던져 없애는 모습의 단어인데요. 자신이 좋아하지 않거나 필요 없는 것, 또는 가지고 있다가 책임질 상황이 싫어서 없애는 것을 의미합니다.
   * = 그녀는 심각한 위법 행위로 인해 이사회에 의해 쫓겨났다. She was cast out by the board because of a serious misconduct.
+  * castoff clothing #벗어 던진 옷, 헌옷; a castoff mistress 버림받은 #첩
+  * ##castoff
+  * 보다; #cast your eyes to ~
+  * 주문을 걸다 #cast a #spell
 
 ## call
 * 격식체 표현으로 말하는 내용이 맞는지, 좋은지, 사실인지 등에 대해 의문을 제기하는 것을 의미합니다. 목적어는 call 뒤에 쓰거나 영상에서처럼 목적어가 길 경우엔 뒤로 빼서 쓸 수도 있어요. * call ~ into question = 의문을 제기하다
@@ -599,6 +718,27 @@
 * 전체적으로는 좋은데 문제시 되는 것, 겉으로 드러나지 않았던 숨은 문제를 명사로 a catch 라고 합니다. 
 	* (다 좋은데) 문제는, 아무도 제시카랑 3개월 이상 일한 사람이 없어. 아주 못됐거든. But here’s the catch. No one has ever worked more than 3 months with Jessica. She’s evil. 
 * a catch: 1. 결혼 상대로 생각할 정도로 매력 있는 사람 2. 가성비 좋은 사업적인 deal
+  * 1. 잡다 2. #사로잡다/이해하다; catch her eye, catch what you said before 3. 걸리다; catch a cold
+  * #무방비로 당하다 #방심하다; be caught off guard; 
+  * #catch up; Let's catch up next time
+  * We did a lot of catching up. 우리는 많은 밀린 얘기들을 했다.
+  * ‘일에 너무 #치여살았어            I’ve been so caught up in my job
+  * 반 친구들을 따라가야해           I need to catch up with my class
+  * 잠시 혼자 생각에 잠겼어요       I was caught up in my own thoughts
+  * 바쁜데 전화걸었나요> Did I catch you at a bad time?
+  * 잠들다                      catch off
+  * 무방비로 당하다             I was caught off guard
+  * 시험 끝나면 그동안 못 잠 잠을 좀 자야겠어.        catch up on sleep 
+  * ~와 무엇을 하고 지냈는지 공유하다; #catch up with; Just to catch up with you
+  * #근황이 궁금해서요 Just catching up
+  * 완전 괜찮은 사람, 놓치면 안 될 사람; someone is a catch
+  * #속셈이 뭐에요; what's the catch
+  * #빨리와; #catch up
+  * #catch off guard; catch somebody off guard; #허를 찌르다; it caught me off guard
+  * #회포를 풀다; got caught off after a long time
+  * #caught up with; She was terrified that one day her past problems would catch up with her 1. 따라잡자 2. 따라가다 3. 체포하다
+  * #catch out Many investors were caught out by the fall in share prices. 
+  * 주가 하락으로 많은 투자자들이 곤란에 처해졌다.
 
 ### catch up
 * catch up; 1. I'd like to catch up; 오랜만에 이야기하다 
@@ -607,6 +747,13 @@
   4. 따라가다; i'll catch up in a minute
   5. 좀 이따 보자; I'll catch up with you later
   6. 발목잡다; The past will find a way to catch up to us
+
+## corner
+* 바늘 허리에 실 매어 쓰랴            You can''t cut corners.
+ * 난 일을 대충 대충 하지. 지름길로 가다, 잔머리       I'm cutting too many corners. 
+ * 봄이 오네요.               Spring is around the corner. 
+ * #역경을 물리치다; #fight my corner
+ * #corner
 
 ## core
 * 내 깉은 상ㅇ처는 아직 회복 중이야; Hurt me to the core
@@ -624,6 +771,13 @@
 * B 에 대해 A 의 선고를 받다. = be condemned to A for B
   * 동사 condemn 은 1) 규탄하다,비난하다 2) 선고를 내리다, 라는 의미를 가지고 있어요. 2번의 의미로 쓰이면 영상에서처럼 주로 수동태로 쓰이고요. A 자리에는 '명사 또는 동사원형' 이 형량을 나타내고, B에는 어떤 잘못을 했는지가 들어갈 수가 있습니다.
   * 그 남자는 텍사스에서 있었던 총기 난사로 사형 선고를 받았습니다. ex) The man was condemned to death for the shooting spree in Texas.
+
+## converge
+* 1. ~ (on…) (사람들이나 차량이) 모여들다, 집중되다 
+  * Thousands of supporters converged on London for the rally.예문 발음듣기 
+  * 2. (두 개 이상의 선이나 도로 등이) 만나다 There was a signpost where the two paths converged
+  * 3. 생각・정책・목적 등이) 수렴되다 
+  * ##converge
 
 ## convenience
 * 가급적 빨리 전화해 주세요. Please telephone at your earliest convenience. 
@@ -648,10 +802,26 @@
 * 얘기나 하자; chop it up
 
 
+## child
+* childish, juvenile, still #immature
+  * He's childish/cheesy. 그 친구 참 #유치해 뭔가 성숙하지 못한 모습이 childish입니다.
+  * do you know how childish you sound right now?
+  * #basic
+  * ● He's childlike. 그 친구 #순수해.
+
 ## chicken
 *  play chicken은 슬랭으로 친구들끼리 '(누가 더 쎈지) 겨루다, 시합하다'는 의미에요. 사실 별거 아닌데 친구들끼리 누가 더 겁없고 용감한지 담력을 시험하는 내기를 여기서 마샬이 자신을 rooster(수탉)로 표현하며 자신은 절대 물러서지(back down) 않겠다고 말하고 있네요. 수탉들이 한번 싸움하면 피터지죠. 
   * 밤에 내친구랑 나는 서로 누가 더 담력이 쎈지 시합했다. My friend and I played chicken at night.
 * 풋내기, 젊은이; spring chicken
+
+## chew
+* 곰곰이 생각해야 할 문제가 있다.           Here's a question to chew on
+  * 그의 감독은 짐을 혼내고 있다.            "His manager is chewing out Jim." 
+
+## cheese
+* 꺼져.                      Cheese off!
+* 그 친구들 나를 성가시게 해.             They cheese me off.
+* 그 친구 그 하는 일에 완전 빡돌았죠.      He absolutely cheesed off with his job.
 
 ## check
 * #check in on; 어떻게 지내는지 확인하는 그림, #check in with; 결정을 내리기 전 확인
@@ -672,6 +842,10 @@
 * ‘매력’으로 잘 알고 계실텐데요, 영상에 나오는 것처럼 악세서리 장식물이나 상징물, 부적 등도 charm 이라고 합니다. 
 	* 이건 내 행운의 부적이야. 내 할머니가 주셨어.  This is my lucky charm. My grandma gave it to me.
 * charm = 장식물, 부적
+
+## cook
+* What's cooking? 의 의미 세가지!
+  * -> 무슨 일이 일어나고 있는 거지? -> 무슨 일인데? -> 상황을 좀 알려줘
 
 ## company
  * 일행 있으세요?            Do you have company(관사 불가)
@@ -726,6 +900,15 @@
 
 ## cram
 * = 10명의 사람이 작은 승합차에 꾸역꾸역 들어갔다. 10 people crammed into a small van.
+  * (학생들이 / 잔뜩 들어갔다 / 그 조그만 교실로 ) The students / crammed into / the tiny classroom.
+  * (군중이 / 잔뜩 들어갔다 / 그 홀로 )        A mob / crammed into / the hall.
+  * 나는 밤샜다 / 벼락치기 하면서 / 역사 시험을I was up all night / cramming for / the history exam. 
+  * 그는 여행가방에 옷을 쑤셔넣었다      He crammed the suitcase with his clothes ()
+  * 여행전 난 스페인에 대한 정보를 머릿속에 쑤셔넣었어
+  * Before the trip I crammed my head with information about Spain 
+  * 엄마, 저 학원 다니는 거 그만두고 싶어요    Mom, I want to quit going to cram school 
+  * #학원                    cram school
+    * #과외; get/receive privat lessons
 
 ## crash
 * 1) 컴퓨터가 외부적 충격이 아닌 시스템적으로 고장이 나서 작동 되지 않는 것을 crash라고 합니다. 우리가 흔히 ‘에러나다’라고 표현하는 것과 같습니다. 동사와 명사 두 가지 용법이 있습니다.
@@ -819,6 +1002,17 @@
 * 3) 영상을 직역하면 [500불에 최대 한도를 두겠어요] 정도이지만 좀 더 자연스럽게 [최대 500 달러 정도요] 라고 해석이 되었습니다.
 	* = 최선의 해결책은 봉급에 상한선을 두는 것이죠. The best solution now is to place a cap on the wage.
 
+## deal
+ * go deal with, deal with 사물: ~를 다루다, 처리하다, 감당하다, deal with 사람: 상대하다
+ * ##진국                 He’s the real deal
+ * #Here’s the deal 1. 말씀해 드릴게요 2. 이런 말이에요
+ * #hot deal: #득템 = get a great deal on it
+ * #a big deal: 중요한 문제 
+ * no biggie, it’s no big deal, it’s not a big deal; 별거 아니야, 뭐 #대수야
+ * #dealbreaker: 관계를 깨뜨리는 결정적 문제
+ * #done deal; 이미 끝난 문제
+ * #square deal: 공정한 거래, #공평한 #대우
+
 ## deposit
 * 1) deposit 은 기본적으로 무언가를 [쌓아두다]라는 의미예요. 그래서 은행에 돈을 [예금하다], 집 월세 등의 [보증금을 내다]도 deposit 이라고 합니다.  2) 지구과학 관련에선 지금처럼 강물이나 액체가 무언가를 서서히 [침전시키다]를 뜻하고, 명사로는 [침전물] 또는 광물의 [매장층]을 의미하기도 합니다.
   * 풍화작용 = weathering 침식작용 = erosion [iróuƷən] 운반작용 = transportation 퇴적작용 = sedimentation [ˌsedɪmenˈteɪʃn] 
@@ -829,6 +1023,11 @@
 
 ## devil
 * 논의가 이어지게 하려면 흔히 인터뷰 진행자가 선의의 비판자 노릇을 할 필요가 있다. Often the interviewer will need to play devil’s advocate in order to get a discussion going. 
+
+## dark
+* No, I was in the dark. 아니 몰랐어.
+  * Don't keep me in the dark. 나한테 비밀로 하지 말라고.
+  * The owl can seel well int the dark. 부엉이는 어둠속에서 잘 봐요.
 
 ## damn
 * damn 이 [저주하다] 라는 뜻을 가집니다. 보통 이 뜻 그대로 쓰이기 보다는 화가 났을 때 Damn you! Damn this car! 이런 식으로 쓰여 우리말로는 [빌어먹을 자식! 빌어먹을 차!] 정도로 해석이 되는데요. I'll be damned if 는 직역하면 [만약 ~ 한다면 전 저주받을 거예요] 로 해석이 됩니다. 따라서, 이런 짓을 하면 저주받을 테니 [절대로 하지 않겠다] 라는 뉘앙스가 강한 표현이지만, 영상에서는 직역한 문장이 좀 더 자연스러워 직역되었습니다.
@@ -843,6 +1042,10 @@
 
 ## due
 * 당신의 요구 사항은 적절한 때에 처리하겠습니다. Your request will be dealt with in due course. 
+
+## disaster
+* ＊ spell disaster = 재앙과도 같다
+  * = 가뭄은 농부들에게는 재앙과도 같을 수 있다. (spell disaster/trouble for 피해를 입는 대상) The lack of rain could spell disaster for farmers.
 
 ## disentangle
 *   * 사라는 빗으로 그녀의 머리를 풀었다. ex) Sarah disentangled her hair with the brush.
@@ -869,6 +1072,13 @@
 	* 더 힘을 내! 난 네가 더 잘 할 수 있다는 걸 알아. ex) Dig deep! I know you can do better.
 * 어디론가 가기 싫어서 발로 땅을 파서 박아두고 고집을 피우는 모습을 생각하시면 이해가 빠르실 거예요. feet 대신에 heels (발굽) 나 toes (발가락) 을 쓰기도 합니다.
 	* 난 내가 꽤 유연하다고 생각하는데, 이것에 대해선 확고해. 거기로 돌아가지 않을 거야. ex) I think I'm pretty flexible, but I'm digging in my feet on this. I'm not going back there.
+* #dig into; 먹기 시작하다 2. 파헤치다 3. 땅을 파다; dig into the ground
+  * 사물이건 사람이건 장소건 그게 좋다는 것
+  * 이해했어?                    You dig?
+  * 관심있다, 좋다               I dig you | I dig your style
+  * 먹자                   Let's dig in
+  * #깊이 생각하다 #dig deep down
+  * #자료를 찾아보다 #dig up research(#research)
 
 ## develop
 * develop 은 기본적으론 [개발하다] 라는 뜻이지만, 없던걸 만들어내는 뉘앙스이기 때문에 뒤에 병명이나 어떤 문제가 목적어로 오게 되면 1) 없던 병에 걸리거나 2) 문제가 생길 때도 쓰이는 단어입니다.
@@ -881,6 +1091,14 @@
 ## down
 * down 대신에 along the line 또는 down the road 이라고 쓸 수도 있는 표현으로 정해진 시간은 아닌, 나중에 언젠가를 의미하는 표현입니다. 대략적으로 언제인지를 나타내고 싶을 땐 three years down the line, four years down the line 처럼 써주셔도 좋습니다. = down the line
 	* 지금은 쉬울지 몰라도, 나중에 숨겨진 비용이 있을 수도 있어. ex) It is easy now, but there might be some hidden costs down the line.
+
+## drive
+* drive somebody/something out (of something) 
+ * be driven by omethin; ~에 의해 움직이다, ~를 #원동력으로 하다
+ * 새로운 유행이 낡은 유행을 몰아낸다        New fashions drive out old ones.
+ * #drive up; 가격을 올리다 2. drive up window; = 맥도날드의 drive thru; 차에서 업무 볼 수 있음
+ * 요점이 뭐야 #drive at; What are you driving at
+ * #drive off; #운전자가 떠나다
 
 ## drift
 * #drift apart; 자연스래 멀어지다 we just drifteed apart
@@ -923,6 +1141,7 @@
 ## edge
 * edge 는 [가장자리, 끝] 이라는 뜻이 있어서 누군가를 벼랑 끝으로 몰아넣는 상황의 뉘앙스를 가져요. 벼랑 끝으로 몰리면 멘붕이 오고 미쳐버리겠죠? 그래서 over the edge 는 정신적/감정적으로 완전히 통제를 잃고 미쳐버리는 상태를 의미합니다. push 대신 drive, send 등의 동사를 쓰기도 합니다.
 	* = 이 소식이 그를 돌아버리게 할까 봐 걱정이야. I'm just worried that this news would push him over the edge.
+* = 그녀는 군중을 뚫고 조금씩 움직였다. She edged her way through the crowd. 동사로 edge 는 [약간 움직이다, 조금씩 이동하다] 라는 뜻이 있는데요, 그것의 명사라고 보시면 됩니다. 남보다 한 발 앞선 것으로 [유리함, 우위, 경쟁력] 을 말하죠. 
 
 ## entertain
 * → 남을 즐겁게 해준다는 뜻입니다. 또한 entertain myself라고 하면 스스로를 즐겁게 만든다는 의미로 ‘혼자 즐겁게 놀다, 자신이 재미있어 하는 일을 하다’입니다. 
@@ -970,6 +1189,16 @@
  * So easy. Dead easy. It's a piece of cake. It's a breeze. It's a snap. It's easy.
  * ☆쉬운 일 a ##snap = a ##breeze(2. 산들바람) #cinch
 
+## free
+ * 마음대로 ~해                   feel free to V
+ * TV에서 무료 영화를 고르렴           Choose a free one on TV ()
+ * 배낭을 메면 손이 편하잖아 A backpack is easier on my hands = My hands are free when I wear a backpack 
+ * 아직 #보증기간이니 #무상 #수리해드리죠 It's still under the #warranty, so we'll fix it #free of charge 
+ * 너 #컴퓨터 없이 일주일 지내봐야겠구나 You may need a #screen-free week = #TV turn-off week = 'di:tɑ:ks: 해독 Digital Detox week
+ * ##freeloader
+ * I have free time (a xxx)
+ * #free ticket을                 'day pass/ticket’
+
 ## fall
 * 3) fall into (group/part/category) 는 ‘~에 포함되다, 속하다’ 입니다. 만약 groups, parts, categories 처럼 복수로 명사가 오면 ‘-로 나뉘다’로 해석합니다.
   * 100명 중에 단지 15명의 학생들만 이 그룹에 속한다. Out of 100, only 15 students fall into this group.
@@ -1000,12 +1229,32 @@
 ## feature
 * 내가 특집기사가 될거라고 생각하는거야; You mean i'd make a great feature
 
+## full
+* 만개하다, 활짝 피다 be in #full #bloom, 싹이 트다: sprout
+  * 다 내 책임이야 I take full responsibility
+  * be full of it; 누군가가 틀렸거나 진실을 말하지 않다
+  * 평생동안 for #life, #for good, #for ever| over the full #span of a lifetime
+
 ## function
 * 1) 명사로 쓰이면 [기능] 이라는 뜻도 있는 단어인데요. 동사로 쓰일 땐 주로 기계나 시스템 등과 함께 쓰여서 [정상적으로 작동하다, 기능하다] 라는 의미를 가집니다. 2) 하지만 영상에서처럼 사람이 function 과 함께 쓰일 땐, 그 사람이 [정상적으로 지내다/생활하다] 라는 의미를 가진답니다. 3) 참고로 [사람 + function as + 직책] 으로도 자주 쓰이는데 [~가 ~한 역할/구실/직책을 다하다] 라는 의미를 가진답니다.
 	* 그 비극 후에도 그가 잘 지내는 건 놀라워. ex) It's amazing that he still functions after the tragedy.
 
 ## further
 * 멀리 갈 것 없다, 더 알아볼 필요 없다 (= 여기 당신이 찾는 게 있습니다)  "Look no further."
+
+## fill
+* fill it up with gas please
+ * 나는 그 게임 티켓을 사는데 2000달러 #썼다
+ * I {spent / put in $2000} to just get a ticket for the game.
+ * 너는 오늘 완전 #예민하네. you seem to be #touchy You seem to be all on the edge today.
+ * 이 양식을 채워 주세요            Please #fill out this form 
+ * 연료통을 채우다                fill the gas tank 
+ * 자세한 내용을 알려줄래요?          Can you #fill me in on the details? 
+ * 내가 말한거 기억나지? 자세하게 얘기해 줄게 
+ * Do you remember what I told you? I'll fill you in on the details. 
+ * 여태까지 얘기 들려줄게                  I'll fill you in
+ * 물이 차다  started filling up with water
+ * ## fill # 채우다
 
 ## fish
 * 건져내; YOu could fish it out
@@ -1219,6 +1468,12 @@
 * : 직역하면 '총을 연달아 발포하며'라는 뜻으로 어떤 일을 전력을 다해, 공격적으로 하는 모양을 묘사하는 데 사용합니다.
 	* 사람들이 결의를 불태우며 모여들었다. People gathered up with guns blazing.
 
+## grind
+* 성행위 연상 춤                  bump and grind
+  * 열심히 살다                   let's grind
+  * #grind away; #파고들다; spend the evening grinding away on it
+  * #grind down; #학대하다; don't let them grind you down
+
 ## grow
 * 길이, 크기, 부피 전체가 다 커지는 그림
 * outgrow: 하기엔 너무 큼
@@ -1241,6 +1496,10 @@
 * : 강세를 보이다, 더 나아가다, 성공하다, 더 인기를 얻고 있다  [ 숙어 ] gain ground
   * 처음엔 잘 안 되었지만 이제 점점 인기를 얻어가고 있다. At first we didn't do well, but now we're slowly gaining ground.
 * 현실적인 연기를 바랐어요; i hopedf for a much more grounded performance
+
+## general
+* #잡화점; #general store
+
 
 ## genius
 * 누구나 ~ 할 수 있다 = It doesn't take a genius to 동사원형
@@ -1445,16 +1704,39 @@
 * : 네 자신에 집중하기나 해 Just give yourself up; Give oneself up' : 자기자신에 집중하다.
 * : 난 그 사람과 헤어지고 싶지 않아요. I don't want to give up on him. Give up on someone' : 와 관계를 끊내다. 종료하다.
 
+## hit
+* 충격이었어 it hit me really hard
+  * 바닥을 치다 it hit rock bottom
+  * 꺼져 #hit the road jack(여행 떠나)
+  * 쟤 나한테 완전 들이대             He’s totally hitting on me
+  * 우리 완전 잘맞아              We hit it off very well
+  * ht someone up; 연락하다; hit me up = call me later
+  * 차에 치였다, 뺑소니              hit by car, hit and run
+  * 제격이네                 that hit the spot
+  * #hit on; 불현 듯 머리에 떠오리다; she hit upon the perfect title
+  * 집적대다               Are you hitting on me?
+  * hit someone; hit someone in/on the face/nose
+  * hit my hand on the wall
+  * #주식이 완전히 폭락했다.       the stock market has hit his rock bottom
+  * 어떨 때는 좋고 어떨 때는 나쁘다.      cheaper computers can be a hit and miss
+  * #bit hit; #성공; were you a big hit?
+  * #hit the bottle #술마시다
+  * #hit 속어: 성관계하다
+
 ## history
 * 나머지는 알려진 그대로야.  = The rest is history.
 * 과거의 경험에 비쳐보면; If history is any guide
+* 웬 뒷북이야               Thanks for the history lesson
 
 ## hear
 * (특히 연설 중에 맞장구치는 말로) 옳소! 옳소! hear! hear! 미국식  영국식   단어장추가
 
 ## heel
 * 의 뒤를 이어 								 "Come on the heels of
-
+* ~의 뒤를 이어                 "Come on the heels of
+ * 그는 완강한 입장을 보였다.           he dug his heels in deeper 
+ * 굽이 높은 편안한 신발                  wedge heel
+ * cool one's heel; 오래 #기다리다; somebody cooled his heels
 
 ## hook
 * 동사 hook 은 단순히 갈고리로 거는 것 뿐만 아니라, 장치에 무언가를 연결한다고 할 때도 씁니다. 실생활에 자주 쓰이니 예문과 함께 잘 학습해 주세요!
@@ -1469,12 +1751,54 @@
 	* 나는 그의 주장이 말이 맞다고 생각하지 않아. I don’t think his argument really holds up.
 * hold up 은 무언가를 [떨어지지 않도록 위로 들고있다] 를 의미하는데요. 그 의미의 연장선에서 [약해지지 않다/좋은 상태를 유지하다] 라는 의미로도 쓰입니다.
   * 그의 육체적, 정신적 상태는 건강함을 잘 유지하고 있다. ex) His physical and mental condition holds up well.
+* 1. 시작하지 않다 The rain held off just long enough for us to have our picnic.
+  * 2. ~을 물리치다; hold off one's rival ; Tigers hold off Orioles
+  * 3. 결정을 미루다. hold off making a decision 단어장추가
+  * 4. 접근하지 않다 #hold off; hold off on burning my body for now
+  * 걔랑 연락 됐어?                hold of; did you get hold of him?
+  * 졸업식은 강당에서 열렷다      The graduation ceremony was held in the assembly hall
+  * 그가 네 앞길을 막을거야            the certain people can hold you back
+  * #hold back; 날 막을 순 없어; there's nothing holding me back
+  * 나를 꼼짝못하게 막을 순 없어          there's Nothing holding me back
+  * #hold down; 유지하다
+  * 일을 계속 유지하다                 hold down a job
+  * 인플레이션율은 억제해야 한다.         The rate of inflation must be held down.
+  * What's the holdup, There's no holdup
+  * hold 사람 back from -ing; I have been holding myself back form falling in love again
+  * #hold against; would you hold against it? 나쁘게 생각할거니?
+  * #hold on
+  * 가지고 있다             hold on to this, On hand, in tow
+  * ☆##hold on, hold on a sec/second 
+  * ○ hold on 잠깐 기다려요 ○ hold it 움직이지 마세요.
+  * #hold out; 제공하다, #저항하다 버티다
+  * ~를 얻으려고 합의, 결정을 지연시키다; hold out for something
+  * ##hold onto vs ##hold on to ##
+  * ○ Why are you holding onto it? 왜 그것에 집착하니? 
+  *  ○ Don't hold on to someone who's leaving, otherwise you won't meet the one who's coming. 떠나는 누군가를 잡으려 하지마, 그러면 다가오는 사람을 만날 수 없어 
+  * * ○ hold onto 와 hold on to 는 바꿔 쓸 수도 있지만 hold onto가 hold something firmly (뭔가를 * 강하게 잡는다)는 의미를 가집니다. 
+  * ##hold a grudge = ##harbor a grudge ##
+  * 그 회사는 우세한 위치에 있다. 왜냐하면 그들 제품의 수요는 매우 높기 때문이다. #hold all the aces
+  * The company is holding all the aces because the demand for their product is so high.
+  * 나 술 강해/ 약해   I'm a heavy drinker. I'm a lightweight=I can't handle alcohol.
+  * I can hold my liquor
+  * ~에 대해 진심이다 #hold true to something
+  * #hold someone #accountable; 어떻게든 완성시킨다는 느낌 – make the responsible
+  * 미래가 어떨지 궁금해 I wonder the future #holds
+  * #hold my beer; 어려운 행동을 보고 자기도 할 수 있다고 #객기 부리는 것
 
 ## hot 
 * 뜨거운 감자; Iraq is a hot potato to the Unitied States
 * 온상; 그 지역은 범죄의 온상이었다. The area was a hotbed of crime. 
 *  ((국제 금융 시장에서 높은 수익을 노리고 유동하는 단기 자금)) hot money
 * 내가 그에게 하루 종일 어디 있었었냐고 묻자 그는 몹시 당황스러워 했다. He got very hot under the collar when I asked him where he’d been all day. 
+
+## hassle
+* 우리 부모님은 내#가 늦게 다니는 것에 대해 항상 잔소리한다.
+* My parents always hassle me about staying out too late.
+* 나는 그 경기에 가고 싶었지만 너무나 번거로워서 그냥 집에 있었다.
+* I wanted to go to the game but it was too much of a hassle so I stayed home.
+* 내 고물차는 고장이 많이 나서 큰 골칫덩어리이다. 나는 새 차를 사고 싶다.
+* My old car breaks down a lot and it's a big hassle. I want to buy a new car.
 
 ## harness
 * 원래 말에 연결하는 마구(馬具)를 가리키는데요, 말을 동력으로 삼아 마차를 움직이는 것처럼 [어떤 것을 동력원으로 활용하다] 라는 뜻을 갖고 있습니다.  영상에서도 면역 체계를 이용해 암을 치료한다고 하는데요, 생략 없이 문장을 써보면 다음과 같습니다. 
@@ -1532,6 +1856,50 @@
 * 그 학생은 즉석에서 이야기를 만들어냈다. The student made up a story off hand. 
 * 어떤 물건이 handheld라고 하면 ‘손에 들고 쓰는 것’을 의미합니다. 예를 들어 handheld mirror는 손거울이 되는 것이죠. 영상에서는 계속 촬영 기법에 대해서 이야기 하고 있는데, handheld shot(핸드헬드 쇼트)는 카메라를 기구에 고정시키지 않고 손으로 들고 찍는 기법입니다.
 	* 영화 전체는 핸드헬드 카메라(손에 들고 찍는)로 촬영되었다. The entire film was shot with a handheld camera.
+  * #Hand in: (숙제 같은 것을) 내다 
+  * #Hand out: 나눠주다 
+  * #Hand-out: 프린트, 자료 
+  * 
+  * I forgot to hand in my homework yesterday.
+  * James, would you hand these out to the class, please?
+  * 
+  * #Hand down: 전수하다 
+  * This tradition has been handed down for centuries.
+  * 
+  * #Hand’s down: 의문의 여지가 없는 
+  * He's hands-down the greatest conductor of romantic music.
+  * 
+  * #Offhand: 즉석에서 하는 
+  * He found himself in hot water for some offhand remarks he made about illegal immigrants.
+  * 
+  * #Hand over: 건네주다
+  * Hand over the documents or you'll regret it!
+  * 
+  * #Hand wringing: 손을 비비다
+  * There is been much handwringing over how to adequately deal with this issue.
+  * 
+  * I can’t handle this
+  * I'm trying to get a handle on the situation 
+  * 
+  * #At hand: 바로 가까이 
+  * Your demise is at hand. 
+  * The enemy is close at hand. 
+  * 
+  * #Lift a hand: 손 까딱하지 않다
+  * He didn’t lift a hand to help us. 
+  * 
+  * Don't you lay a hand on my computer. 
+  * A bird in the hand is worth two in the bush.
+  * --------
+  * ☆#get out of hand; 통제가 안돼; everytime he drinks, he gets out of hand; out of my hand
+  * #get one's hands on sth; #수중에 넣다; i'm going to need to get my hands on the origianl
+  * get one's hands on sbdy: #붙잡다 / #혼나다; get my hands on him
+  * √ #work hand in hand (같이 손잡고 일하다)
+  * √ #go hand in hand (관련있다) 
+  * √ She goes #hand in hand with him (그녀는 그와 관련이 있다)
+  * √ He has #two left hands (그는 뭐하나 제대로 하는게 없어) = He's all thumbs = All his fingers are thumbs = He's not good at anything
+  * √ He is a #poor hand at figures/accounts (그는 계산이 서툴러)
+  * √ I'm a poor hand at knitting (난 뜨개질이 서툴러)
 
 ## house
 * : '집'을 가리키는 'house'도, 정치얘기를 할  때는 '의회'나 '미국의 하원' '영국의 상원'으로 해석해주셔야 합니다. 또한, 반드시 그런 것은 아니지만 'h'를 대문자로 표기하는 경우가 많아요!
@@ -1581,6 +1949,11 @@
 
 ## jack
 * You are jacked; 마약했다라는 뜻인데 그만큼 몸이 좋다는 것이기 때문에 칭찬
+  * They jacked up the price of oil, that's their main export.:            올리다
+  * Man, I was so jacked up              이봐, 나 맛 갔었다구. 
+  * #아무것도; #Nothing; #jack shit; didn't know jack shit about chickens
+  * Jacked up              제대로, 의도했던 대로 되지 않음
+  * #jack off #자위
 
 ## justice
 * justice 는 [정의/타당성/정당성] 등을 나타내며 한 쪽으로 치우치지 않는 것을 의미하는 단어인데요. do justice 라는 표현은 원래의 무언가를 너무 이상하게도, 또는 너무 과장되지도 않게 제대로 표현할 때 쓰는 말입니다. 원어민들이 정말 많이 쓰고 유용한 표현이에요. 주로 부정문으로 많이 쓰여 실물이 더 낫다는 걸 강조해 줍니다.
@@ -1607,6 +1980,38 @@
   * 2) 강력한 동기부여 = a kick in the butt 엉덩이를 걷어차면 화들짝 놀라 깨어나는 모습이겠죠? 그런 모습에서 유래된 표현으로, 조금 동기부여가 되지 않는 사람에게 동기부여를 해주는 다소 강한 말이나 행동을 의미하는 표현이에요.
     * 사는 동안 언젠가 우리 모두는 강력한 동기부여가 필요해요. ex) We all need some kind of kick in the butt at some point in our life.
 * #예상치 못한일; the real #kicker
+  * 1.Kick out (사람을 쫓아내다, 추방하다)
+  * He got kicked out of the bar for getting too drunk.
+  * The kicked him off the flight for causing a disturbance at the gate.
+  * 2.Kick off (시작하다, 막을 열다)
+  * Kickoff (시작)
+  * Obamacare kicked off last year. 
+  * This year’s festival kicks off in May. 
+  * 3.Kick back (침착하다) 
+  * Kickbacks (부당 수익) 
+  * Let’s kick back and relax for a while. 
+  * I bring hundreds of people to this place every week. Unfortunately, I don’t get any kickbacks. 
+  * 속어 
+  * Just kicking it
+  * Just kicking it with my homies
+  * 4.Kick in (약 따위가 효과를 보이다, 몫을 내다)
+  * These painkillers are taking a long time to kick in.
+  * The burglars kicked in the door and stole my TV. 
+  * 5.Kick around (어떤 기획이나 제안을 가볍게 이야기하다, 검토하다)
+  * The idea of tablet PCs was kicking around for years. 
+  * I just want to use this meeting to kick around some new ideas I’ve been working on. 
+ *   6.Kick up (소동, 논란 따위를 벌이다) 
+ *   The wind kicked up a lot of dust. 
+ *   His remarks kicked up a major controversy. 
+ *   ‘Kick’ 들어가는 숙어
+ *   Kick a habit (습관을 깨다) 
+ *   Kick the bucket (죽다) 
+ *   Kick ass (멋지다, 대단하다, 싸움에서 남을 이기다)
+ *   Get a kick out of ~ (~로 쾌감을 얻다, 즐기다)
+ *   Kick and scream (발버둥치다) 
+ *   Alive and kicking (팔팔하다)
+ *   Kick someone when they’re down (엎친데 덮친격)
+ *   Kick oneself (in the rear) (후회하다)
 
 ## keep
 * : 침착해 Keep it together
@@ -1620,6 +2025,29 @@
   * 3. 녹초가 되게 하다, 최선을 다하다; 너무 진빼지 마; [ex] Don't knock yourself out.
   * 4. "Knock yourself out"은 "마음껏 해"라는 뜻이에요. 음식을 마음껏 즐겨라, 게임을 마음껏 즐겨라 등등 여러 상황에서 쓸 수 있어요.
     * 응 너 다 먹어. B: Knock yourself out.
+    * 마음대로 하세요 #knock out; knock yourself out
+  * #knock off knock it off; 그만해
+  * 백화점은 보통 국경일 후에 그들의 상품의 #가격들을 파격적으로 내린다   
+  * Department stores usually #knock down the prices of their goods after national holidays.
+  * #penetration price policy; ((신제품을 처음부터 싼값에 매출, 시장 점유율을 조속히 획득하는 가격 정책))
+  * #knock out of the park; 크게 성공하다; in order to knock it out of the park
+  * 가족들에게 조용히 해 달라고 말하고, 그리고 나서 방문을 노크하고..
+  * We could ask his family to be quiet, then knock on his door... (.)
+  * #knock on wood(나무를 두드리면 나쁜 일이 벌어지지 않는다.) = ##touch wood = 간절히 바란다
+  * #두드리다 #knock on = #쾅 치다; #bang
+  * * * ○ 의미 : to express a wish that something will or will not occur(어떤것이 일어나기를 혹은 * 일어나지 않기를 바라는 것을 표현하다) 
+  * * * ○ 예문 : This last round of treatment should have cured her, knock on wood. (이 마지막 치료가 그녀를 치유해야만 해, 그러길 바란다)
+  * ○ 노벨 문학상을 받은 밥 딜런의 Knockin' on Heaven's Door 노래가 생각납니다^^
+  * #knock out; 쓰러지다; I was knocked out
+  * #knock up; 임신시키다 knock someone up; long enough to knock her up
+
+## lay
+* #Laid back = cool = chill = 느긋한 사람
+  * get laid: 자다
+  * 폭행하다; #lay a hand on someone; he laid a hand on my mother
+  * #lay off; 1. 그만두다; Lay off me 2. 강도를 줄이다 3. 해고하다
+  * 바닥에 #펼쳐진; #laid out on the ground
+  * #lay down; 내려놔; 
 
 ## label
 * 1) 영상에서처럼 흔히 수동태인 be labeled 로 쓰여 [라벨이 붙여지다] 라고 쓰입니다. 뒤에 in green 이 쓰여서 [녹색으로 표시되다] 라고 쓰였지만, 주로 전치사 with 와 함께 쓰입니다. 영상에서는 색깔이기 때문에 in 이 쓰였어요. 발음이 "라벨" 이 아니라 "레이블" 에 가깝게 됩니다. 귀 기울여 들어보세요!
@@ -1665,6 +2093,14 @@
 
 ## lyric
 * lyric는 단수로는 거의 안씀; lyrics are
+
+## loop
+* 소외감을 느끼다(정보나 지식의 부족으로 인해)          feel out of the loop
+  * 내가 휴가를 갔다온 이후로 현재 상황에 대해 통보받고 있지 않다.
+  * I have been out of the loop since I went on holiday.
+  * 계속 알려줘             Keep me in the loop. Keep me posted.
+  * 법률상의 구멍                a legal loophole
+  * 껴줘 #keep someone in the #loop <> out of the loop
 
 ## look
 ### look out
@@ -1751,6 +2187,14 @@
 * 너만 알고 있어. 알았지? 아무에게도 말하지 마. The word is mum. Ok? Don't tell anyone. 
 	* i'll keep it mum's the word
 
+## mess
+* #mess up #mess-up I mess up my room.(목적어), be mess-up 사회적이나 도덕적 통념에서 벗어난 
+ * #mess up on sthing 나 시험 #망함           I mess up on my test
+ * #mess around: 장난치다, 빈둥대다
+ * #mess with; don't mess with me; 까불지 마, 엉기지 마, (친분있는 경우) 놀리지 마
+ * i'm just messing with you; 그냥 장난친거야
+ * #get into mess; #엉망이 되다; how did I get into this mess
+
 ## meet
 * meet (with) approval = 동의를 얻다, 용인되는 범위에 충족되다
   * - meet the requirements 요건을 충족시키다
@@ -1836,6 +2280,43 @@
 ## miss
 * 너 놓치고 있는 거야; You're missing it out
 
+## move
+ #move in = ##move into + 특정 집이나 아파트
+  * #동거; we moved in together 
+  * 똥거 2: #move in with; move in with your boyfriend
+  * move out of 특정 집이나 아파트
+  * 1. move on ~주제 2. move on i’m happy that Penny’s moving on(새로운 사람 만나다)_
+  * Let's move on to next topic
+  * it's time to move on
+  * 3. it gives me the freedom to move on myself; 새롭게 시작하다
+  * #move over #옆으로 가주세요 
+  * #move onto #진출 ~ #move onto the quarter final
+  * #on the move; she is always on the move; 바쁘다
+* #Move into; 이사가다
+  * #move in; I think we need to move
+  * move in with someone; 같이 살기 위해 들어가는 것
+  * 1.Our house is getting rotten we have to move before this house is going down to the ground.
+  * 2.He moved in with bunch of his stuff.
+  * 3.After that happened he has to #move back in with his parents.; 경제 안좋아져서 가족에게 돌아오다
+  * 4.#move out; I moved out because I like freedom and no yelling at me
+  * 5.Some times you have to #move on with your life because time has never been on your side
+  * 잊어버리고 앞으로 나가야된다
+  * 6.I wanna join a new and big place it's time for me to move on
+  * 7.I think S-korea #move away from right and heading towards a more left
+  * (사상, 종교) 벗어나다
+  * #move toward a more liberal take on religion
+  * move toward the left
+  * 8.Plankton is moving in on Mr.Krabs burger manufacturing 
+  * #move in on; #침해하다
+  * I won't #encroach on your time any longer. 당신의 시간을 더 이상 빼앗고 싶지 않아요.
+  * 9.civilians are too many bring the more cops and let them #move along
+  * (명령형)서있지 말고 가라
+  * 10.I always dreaming about moving up in the world ; #move up #지위 향상
+  * 11.Chevrolet saw the fords week point of SUV market so they move in for the kill
+  * 12. #move over; 옆으로 이동; would you mind moving over
+  * 13. be #move to tears; #감동
+  * 14. #move mountains; for someone; 대단한 #노력하다
+
 ## money
 * Money : 1. Cool; Of unusually high quality : very good; excellent; 쩐다(정말1:1 의역); 퀄리티가 높은 물건(다이아 롤렉스, AP, 롤스로이스 등)
 
@@ -1870,6 +2351,8 @@
   * 걔는 항식 극단적이야/모 아니면 도야. [ex] It's all or nothing with her.
 * 강조할 때; 좋은일 만 있길 바래; i wish nothing but the best for you; nothing 해석 안하고 very, really, only 같은 강조
   * 그는 단순히 얼간이일 뿐이야; He is nothing but a jerk
+  * 치맥보다 #좋은건 없지.           #Nothing beats beer with chicken.
+  * ~만한게 없어                  There’s nothing like ~
 
 ## notice
 * 사전 공지; prior(advance) noie; 추후 공지: further notice; 촉박한 홍보; SHort notice; 그 기간을 두고 하는 공지: 기간's notice
@@ -1929,6 +2412,12 @@
 ## phase
 * [단계] 라는 의미가 있는 phase 로부터 나온 표현이에요. phase-out 으로 쓰면 명사로 [단계적 폐지] 를 의미합니다. 마찬가지로 [단계적 도입]은 phase in 을 쓰면 되겠죠?
   * 몇몇 사람들은 핵발전소가 단계적으로 폐지되어야 한다고 말한다. ex) Some say nuclear power plants should be phased out.
+  * 인생은 살쪘을때와 안쪘을때로 나뉜다 life has two #phases. my fat phase and my slim phase
+  * 놀리지마 Don't phase me
+  * 그냥 지나가는거야 it a phase
+  * #상태 phase 90%
+  * 상태 #업데이트; #make #status updates on social media
+  * #update sth; update in the sth; update to your social applications; #update information for 
 * 새로운 규제방안은 향후 2년에 걸쳐 단계적으로 도입될 것이다. The new regulations will be phased in over the next two years.
   * phase in은 법이나 제도 등을 단계적으로 도입하다라는 뜻입니다. 뒤에 「over+기간」를 넣어 ‘한 기간에 걸쳐’라고 표현해 줄 수도 있습니다.
 
@@ -2040,17 +2529,37 @@
 
 ## pull
 * : 에릭슨은 틀림없이 머리를 쥐어짜고(고민하고) 있을거야. Ericson must be pulling his hair out; Pull out someone's hair' 는 '의 머리카락을 뽑다'
-* : 이 자식이 파리지앙 은행에서 3백만 유로를 빼내갔습니다. This crap just pulled three million Euro out of a Parisian bank.
-* : 지갑을 꺼내 Pull out your wallet.
-* : 당신팀을 철수시켜요 골만 Pull your team out, Gorman
-* : 조가 이 수술을 잘 견뎌낼 수 있으면 좋겠어 I hope Joe can pull through this; 'Pull through' : 어려움을 극복하다, 병에서 회복하다.
-* : 정신차려, 진정 해 Pull yourself together.
-* : 우리가 기적을 만들어서 그가 이긴다고 해 보죠. Let's say we pull off a miracle and he wins.
+  * : 이 자식이 파리지앙 은행에서 3백만 유로를 빼내갔습니다. This crap just pulled three million Euro out of a Parisian bank.
+  * : 지갑을 꺼내 Pull out your wallet.
+  * : 당신팀을 철수시켜요 골만 Pull your team out, Gorman
+  * : 조가 이 수술을 잘 견뎌낼 수 있으면 좋겠어 I hope Joe can pull through this; 'Pull through' : 어려움을 극복하다, 병에서 회복하다.
+  * : 정신차려, 진정 해 Pull yourself together.
+  * : 우리가 기적을 만들어서 그가 이긴다고 해 보죠. Let's say we pull off a miracle and he wins.
 	* : 누군가를 거기서 빼내려고 한 것은 아니에요. I don't mean to pull anyone off of that
 	* : 감시카메라 영상을 좀 빼내 주겠어? I'm going to need you to pull a video off a surveillance camera.
 * : 하지만, 혼다 사건에서, 피해자는 차의 바퀴가 펑크가 나서 차를 세웠습니다. But in the case of the Honda, the victim pulled over because he had a flat.
 	* Be pulled over' 는 누군가에 의해 차가 세워진 것을 의미합니다. At 11: 24 p.m., Brian was pulled over for speeding,
-* 학교 앞에서 멈춰서; We pull up to the school
+  * 사랑니를 #뽑다 have a wisdom tooth pulled out
+  * 와서 앉아 #pull up a chair
+  * 탄핵  impeachment,‘#step down = #pull down president
+  * 잠깐 차 세워봐                 Let’s pull over for a while
+  * 내가 손 좀 썼어            I pulled a few strings(생색 내는 말)
+  * 연줄을 이용해서 목적을 달성하다
+  * #힘을 합치다             if we pull together, we can do it 
+  * 기운 차리다 #Pull it together
+  * 지하철                    pull into, out of
+  * 이렇게 설명해 볼게               Let me put it this way
+  * 어느팀 응원하시나요?              What team do you pull for?
+  * 해낼 수 있을지 모르겠어           I don't see how we can pull off
+  * 소화하다       pull off; this is the most elegant moveI pull off in a clubs
+  * 배후가 누구에요?              Who’s pulling you #leash?
+  * 슬픈 표정을 짓다               #Pull a long face
+  * 어려움을 극복하다 #surmount difficulties, #pull through
+  * 단시키다; #pull the plug(#plug)
+  * #pull together; pull yourself together; #정신차려; #침착하다, 힘을 내다
+  * #pull up; 몸시 꾸짖다, 비난하다, 멈춰서다; he pulled up at the traffic light
+  * #pull away; They waved as the bus pulled away. 버스가 움직이기 시작하자 그들이 손을 흔들었다.
+  * 학교 앞에서 멈춰서; We pull up to the school
 
 ### pull back
 * pull back은 상황에 따라 우리말로 다양하게 바꿀 수 있습니다. 예를 들면, “(물리적으로) 잡아 빼다, (군대를) 후퇴하다, (하던 일을) 취소하다” 등이 있죠. 영상에서는 “정도를 누구러트리다, 수위를 낮추다”라는 의미로 말하였습니다. 첸이 너무 점프 연습을 과도하게 하니까 조금 ‘덜 하라’라는 의미로 코치님이 한 말이죠.
@@ -2067,6 +2576,25 @@
 * 돼지우리처럼 더럽다 This place is a pigsty [ˈpɪɡstaɪ]
 * 그들은 매우 사치스러운 집에서 호강한다. They eat high off the hog in a very luxurious house. 
 * 돼지에게 진주를 던지지 말라. Don ’ t cast your pearls before swine  [swaɪn] 
+
+## pipe
+* 1. 마리화나 필 때 파이프 2. 남자 성기
+  * ‘부질 없는 꿈이네~              What a #pipe dream.
+  * #pipe; #노래하다; i'm pipe her
+  * #pipe up; 지껄이다; tell your man pipe up
+
+## pip
+* 1. (美 주로 seed) (특히 英 ) (일부 과일의) 씨 an apple/orange pip예문 발음듣기
+  * 2. [pl.] the pips (구식 英) (라디오에서 시보를 알리는) ‘삐' 하는 소리
+  * 3. (美) (주사위 등에 새겨진) 점
+  * get the pip 화내다, 기분이 나빠지다
+  * Martin got the pip after having an argument with his girlfriend.예문 발음듣기
+  * have the pip 화가 나 있다, 기분이 나쁘다
+  * She had the pip when he said those bad things.예문 발음듣기
+  * pip at the post 막판에 추월하여 이기다(=overtake and defeat at the very end).
+  * give a person the pip
+  * I didn't meant to give you the pip.예문 발음듣기
+  * 당신을 화나게 하려고 했던 것이 아니었어요.
 
 ## piggyback
 * piggyback 은 등에 업는 것, 어부바 입니다. 그리고 piggyback off (of) 는 비유적으로 ‘남에게 기대다, 다른 것에 기대어 이득을 취하다’를 의미합니다. piggyback on something 이라고도 합니다. 
@@ -2087,12 +2615,43 @@
   * 전 잘 알려진 친구들이 많아요. I have a lot of high-profile friends.
   * 보세요! 전 정말 옆모습이 아름다워요! I have such a fine profile!
 
+## potato
+* 핵심 #meat and #potatoes
+  * 하루종일 Tv만 봐요 My husband is a couch #potato
+
+
+## pocket
+* #사비           I decided to do it ay my own expense/out of my own pocket
+  * buy/get/pay ~ out of one's pocket
+  * ☆그는 #재력가의 도움이 필요하다고 말한다.  He says he needs a friend with deep pockets!
+  * 돈이 몸에 붙지 않다.             burn (a hole in) one's pocket.
+  * my money is #burn a hole in my pocket = i'll spend whatever money I have
+  * be out of pocket = to lose money due to an unfair situation
+  * has deep enough pockets
+  * 그가 남을 희생시켜 돈을 벌고 있다니 비열하다. line one's pocket: (남을 희생시키고) 돈을 벌다
+  * 주머니에 남은 손 넣다         a woman is having her left hand in her pocket
+  * 주머니에서 손 빼!       ‘pɑ:kɪt Take your hands out of your pockets!
+  * ##pocket
+
 ## pop
 * 뚜껑을 닫가; Pop on our lid
 * 팝콘은 옥수수 알갱이가 톡톡 튀고, 팝업 스토어는 원래 없던 매장이 잠시 눈에 띄게 세워지는 것이듯, pop out 은 [튀어나오다, 튀어나와 보이다, 두드러지다]의 의미를 가집니다.
   * = 생생한 빨간색 사용이 이 제품을 두드러지게 만듭니다. The use of this vivid red color makes the product pop out.
 * 동사 pop은 친구의 집에 잠깐 들르거나, 도서관에 잠깐 들러 책을 반납하는 것처럼 어떤 행위를 빠르고, 가볍게, 불쑥 하는 것을 말합니다.  여기서는 ‘나를 수업에 휙 데려다놓다’라는 뜻으로 pop me in to class라고 하였습니다. 마치 그녀가 물건이라도 된 것 마냥, 가볍게, 홱, 가져다 놓았다는 어감입니다.
   * 한 잔하러 들르지 그래? (pop in: 가볍게 방문하다) Why don’t you pop in for a drink?
+  * #pop-off; 감정에 사로잡혀 #경솔하게 말하는 사람; 
+  * 무슨일이야?           What's poppin?=what's happening/going on/up
+  * 너무 이쁘다               poppin=hot=popular=in style
+  * 개존잼                      was poppin
+  * 떠올랐는데 IT #ccurs to me, first word that #popped in my head 
+  * ##poppin
+  * ‘지금 막 생각이 났어요          #pop into my head it just popped into my head 
+  * 나무 앞에 서서 사진 찍자 We'll #pop a #shot off
+  * pop-up :     스마트기기에서 태그하면 떠오르는 화면 I hate all these pop-up ads 
+    * #태그; put a #tag on it
+  * pop. :                   인구(population
+  * pop out         (예전 네이버회화 표현) >> John's eyes really popped out
+  * 청혼하다                 pop the question 
 
 ## poor
 * 가난하다; I'm so poor
@@ -2137,9 +2696,16 @@
 * i have a promise(가질수 없다) -> i'm meeting my friend; i have a plan with my friend
 * i made a promise to my friend that i'm going to keep it secret
 
+## plug
+* 플러그는 꽃혀 있어?              Is it plugged in? #plug in
+* 중단시키다; #pull the plug(#plug)
+* #plug away; plug away (at something; #꾸준히 하다
+* ##plug #플러그
+
 ## plop
 * 사무실에 앉혀놨죠; Plop them into the Cambridge office
   * Can you plop the ice in at the end
+* 퐁당하고 넣어주세요; And plop it in
 
 ## place
 * 저 그림은 안 어울리는데. [ex] That picture looks out of place. 1. 어울리지 않는, 제자리를 벗어난
@@ -2235,7 +2801,18 @@
 	* pick apart: 조목조목 검토하고 분석하다
 * #pick apples, 새가 모이를 쪼다; birds pick #결점을 지적하다; #pick at flaws
 * 낱낱이 분석해야 해요; i'll just pick them apart; pick apart
-
+  * 괴롭히다: #pick on; why must you pick on
+  * #뒤치다꺼리하다         pick up after someone; I am not going to pick up after you
+  * 조언을 얻다, 한수 배우다.    #pick the brain of someone / pick someone's brain / brain picking.
+  * 그녀는 그의 말에 담긴 유머를 #이해하지 못했다.    have no clue | pick up on something
+  * feɪld ‘hju:mə(r) rɪ ’mɑ:rk She failed to #pick up on the humour in his remark.
+  * #가속화; is accelerating #gradually = is getting faster = #pick up; picking up speed
+  * #pick up one’s brain on something; 충고를 듣고 싶다
+  * #pick up the trash
+  * pick up; #회복되다; 기분이 회복되다; I need a little pick me up
+  * 동생은 나한테 시비를 걸었어요.      My sister always tried to #pick a fight with me.
+  * pick out; just pick out anything
+  * pick up; The sensor picks up any form of body heat : 센서는 어떤 형태의 체열도 잡아냅니다.
 
 ### pick up
 * : 전화 받는게 얼마나 어렵다고. How hard is it to pick up the phone; Jennifer,pick up.
@@ -2250,6 +2827,20 @@
 	* 내 뒤치다꺼리를 안해줘도 돼. ex) I don't need you to pick up after me.
 * 어제 문제부터 다시 시작해서 토의해봅시다. [ex] Let's pick up the issue from yesterday and discuss about it. 4. (중단된 주제, 대화)에 다시 시작하다, 계속하다
 * 템포를 빠르게 하세요, 더 빨리, 좀 더 빨리. 끝까지 빠르게 갑니다. [ex] Pick up the tempo and faster and faster. Pick it up till the end. 5. (음악의) 속도를 올리다
+
+## push
+* #밀고 나가다 #push through; motivated to push through
+* ~를 옆으로 밀다 push over; push the tables over to the other side
+  * #pushover, #spinless  줏대없는 사람
+  * #push into; 등 떠밀려서 ~하게 되다; be pushed into it by someone
+  * #push oneself; #다독이다 밀어붙이다
+  * #push oneself; push oneself - (…하도록) 스스로 채찍질하다[to do]
+  * #push around; #매정하게 굴다, 못살게 굴다, #차별대우하다
+  * #push off; push someone or something off; 밀어내다; he pushed his frined off the cliff
+  * #push comes to shove; when push comes to shove
+  * #push aside; 제쳐두고; they will not be pushed aside and turned
+  * #push button; . You really know how to push my buttons!; 나를 화나게 만드는 방법을 잘 아네요
+  * #push off; #떠나가다
 
 ## pump
 * pump the brakes는 직역하면 ‘브레이크를 밟다, 브레이크를 누르다’인데 관용어적으로 보면 “지금 하고 있는 행위를 멈춰라”라는 뜻입니다. 여기에 hate(분노, 증오)를 붙여서 타노스가 지금 하고 있는 행위는 분노에 차서 하는 일이니 그걸 그만 두라고 하는 거죠. 그래서 ‘분노 좀 죽여라, 지금 열받아서 하는 짓을 그만 둬라’ 정도로 이해하시면 됩니다. 
@@ -2278,6 +2869,15 @@
 ## round
 * 한장소, 한장소 돌면서 일하는 것을 do rounds / go on rounds / make rounds / be on rounds 라고 표현합니다. 영상속 주인공의 아버지는 내과 보조 의사이기 때문에 이 경우에는 ‘회진’을 말하는 거겠네요.
   * 그 경찰관은 순찰을 돌고 있었다. The policeman was going on his rounds.
+* #전인 교육 a $well-rounded(#round) education
+  * #약실에 #탄환은 들었는지 #안전장치는 풀었는지 확인해 탄환: #Round
+  * Make sure you got a #round in the #chamber and your safety off
+  * 큰 박수 부탁드리겠습니다. Please give a warm #Round of applause
+  * #반올림 #rounding numbers
+  * #Round up; 찾아 모으다; me and the lads rounded up all the known thieves
+  * #round up #나누어주다; you can round us up some water
+  * #round out; 완성하다; round out your college applicance?
+  * #round off; #마무리 짓다; round something off with something
 
 ## roll
 * 걱정마. 우리의 계획은 완벽하게 먹힐 테니까. (roll out: 먹히다, 굴러가다) Don’t worry. Our plan will roll out perfectly.
@@ -2304,6 +2904,18 @@
 * 예행 연습을 하다. do a dry run; # dry run
 * ‘흐르는 물, 수돗물’을 running water 라고 하죠. 이처럼 물이 흐르는 것과 관련해서는 동사 run 을 씁니다. 액체를 흐르게 하다, 액체가 흐르다, 흐르는 물에 물체를 두다, 액체를 붓다, 물을 받다, 액체가 번지다 등 액체가 흐르는 것과 관련해서는 거의 run 으로 표현합니다.
   * 물이 화장실 바닥 전체에 흐르고 있었다.  Water was running all over the bathroom floor.
+  * 진행하는 느낌, I run my own business
+  * I run this video: 촬영한다.
+  * 그 영화는 #흥행했어요           The movie had a successful #run
+  * run into; If you run into any problems : 어떤 문제라도 생기면...
+  * #꼼짝 못하게 하다, 궁지에 ᄈᆞ지다 #Run into the sand(#sand)
+  * 꼼ᄍᆞᆨ도 안하다; #not turn a hair; he didn't even turn a hair
+  * 장보러 가는데 I’m running out to the market
+  * 빚이 쌓이다 #Run up debt
+  * 결국에는 #in the long run(#run)
+  * 뭔가를 매우 잘하는 사람에게 도전 #give someone a run for their money
+  * #연속; #run of; bad run of PR
+  * 잘나가다; he had a great run at ~ company
 * 진행하는 느낌
 * i run my own business; 운영
 * i run this video; 촬영
@@ -2382,6 +2994,14 @@
   * 관심을 가지고 다가가ㅏㄷ; reach out to 사람;
 * 는 #무리다, #멀다; it’s a #reach;   말도 안되는 소리: you’re reaching = it’s a stretch
 
+## redundancy
+* 1. [명사] (주로 복수로 英) (인력 과잉에 따른) 정리 해고[감원 조치
+  * 2. redundancy check; 중복 검사
+  * 3. 그는 자진 #명예퇴직을 했다. He took voluntary redundancy
+  * 4. #퇴직 수당 redundancy payment
+  * 5. 고액 퇴직금; #golden handshake
+  * ##redundancy
+
 ## red
 * 적자인; when a company is in the red
 * 여기 한국에는 관료주의가 많다. There ’ s lots of red tape involved here in Korea
@@ -2400,6 +3020,18 @@
 ## stuck
 * limbo 는 [불확실한/어중간한 상태] 를 의미하는 단어입니다. 그래서 in limbo 의 경우엔 중간에 끼여서 이러지도 못하고 저러지도 못해서 불확실한 상황 속에 있는 것을 의미하는데요. 영상에서처럼 어딘가에 '끼인' 이라는 뜻의 stuck 과 함께 자주 쓰입니다.
 	* = 우린 7월 이후로 이러지도 저러지도 못하고 있잖아. 도움이 좀 필요한 것 같아. We've been stuck in limbo since July. I guess we need some help.
+ * ‘메이슨 건방진 것 같아. 콧대가 높아  I think Mason is #stuck up.
+ *  is stuck in my head
+ * #stuck in the mud, #stuck on his girl friend, #stuck with cleaning the house
+ * 먹어볼까나?                I guess we get stuck in now
+ * 완전히 모르겠어                  I'm really stuck
+ * 나 판에 박힌 일상헤 갇혀있어            바퀴 I was stuck in a rut.
+ * 생선 뼈 목에 걸렸어     get ~ stuck: (신체 부위)끼다 I got a fishbone stuck in a throat.
+ * 그 노래는 따라부르기 쉬웠어. 귀에 쏙쏙 박혔어. That song was really catchy. It just stuck in my head. 
+ * 나 도로에 갇혔어           I was stuck up in a traffic jam.
+ * 얽메이지마                   Don't stuck.
+ * 이빨에 꼈어                  It's stuck in my teeth
+ * 계속 그 생각 나 it stuck in my head
 
 ## smart
 * ##book smart 책 따위로 얻은 지식은 많지만 눈치, 상식 등의 실생활, 경험적인 지식이 부족한 사람
@@ -2407,6 +3039,11 @@
 * wordly-wise man; #세상사에 능한 사람, #street-smart; this is being street-smart
 * 머리는 좋으나 세상물정을 모르는; 꺼벙	 				 nerdy, book-smart
 * 온 몸이 #욱신욱신해. 				 Every part of my body is sore. , It‘s #smarting
+
+## sticky
+* #포스트잇(#post-it) -> #sticky notes
+  * #찹쌀 sticky rice
+  * 스티커 메모 sticky note
 
 ## stink
 * 기본적 의미는 [구린내, 악취 / 악취가 나다] 입니다. 하지만 우리말에서도 [구리다] 라는 말이 무언가 굉장히 안 좋을 때 쓰고, 누군가 수상쩍은 일을 할 때 [뭔가 구린내가 나] 라고 하기도 하는데요. 영어에서도 마찬가지랍니다! 영상에서는 [좋지 않다, 잘 못하다] 라는 의미로 쓰였는데요. 상황에 맞게 [난감한 일이다] 라고 의역이 되었습니다.
@@ -2427,6 +3064,10 @@
   * 대충 하ㅏㄷ; scratch the surface
   * 처음부터; from scratch
   * 수준 미달이다; not up to scratch
+  * #처음부터 #애초에 from scratch, from square one. right off the bat, from the beginning, from the first #in the first place, from commencement
+  * 애초에; #in the first place; why did you live in the first place?
+  * 수준 미달이다                you're not up to #scratch
+  * mother scratcher; #나쁜놈
 
 ## scoop
 * 그게 날 들어올려서; That's when it scooped me up
@@ -2449,11 +3090,29 @@
 ## sake
 * for God's sake와 같은 뜻입니다.; Peter 가 성경에서 베드로이며 God's 대신에 Pete's 쓰이기도 합니다 ^^
 
+## sign
+* 1. 신청하다 ; 수강신청하다  register for/sign up for courses
+  * 2. 원했던건 이게 아닌데  I didn't sign up for this
+  * 회원가입하다  sign up for a membership
+  * sign off; 끝맺다; signing off  영상통화 2. 승인하다 
+  * 싸인하세요 sign away here
+  * #sign up; sign up (for something); (강좌에) 등록하다
+  * #sign in online; 2. (사무실·클럽 등에) 도착[입실]/출발[퇴실] 시 서명하다/의 이름을 기록하다
+
 ## sit
 * : 와 잘 어울리다, 잘 맞다
 	* 누구라도 그런 선택지를 잘 받아들이지 못 할 겁니다. [ex] No one will sit well with that kind of option.
 * sit은 '(서 있다가)앉다, 앉아있다' 는 의미입니다. 'sit down'은 서 있는 상대방에게 '그 자리에 앉으세요'라는 말이지요. 스스로 앉는다는 의미이므로 뒤에 목적어가 필요없어요. 목적어가 필요없는 동사를 자동사 라고 한다는건 다 아시죠? seat은 '~를 (자리에)앉히다' 라는 뜻으로, 목적어가 꼭 필요한 타동사이며, 명사로는 자리, 좌석 이라는 뜻으로 씁니다.
   * I seat him in the chair. I want a window seat.
+* 그 제안서 때문에 그의 의뢰인들이 바짝 신경을 써서 주목하기 시작했었다. 신경쓰다
+* The proposal had made his clients sit up and take notice.
+  * 윗몸 일으키기                    do sit-up
+  * 똑바로 않다                   sit up straight
+  * sit at + #table/#desk(앞에 앉아 있다) #sit on + 의자, 벤치, 소파
+  * #sit on; #일원이다.
+  * 느긋하게 앉아있다 #sit back; they didn't take the time to sit back
+  * #sit behind; sit behind the desk; #손 떼다
+  * Let it sit; 그대로 둬
 
 ## single
 * 그녀가 지목되어 비판을 받았다. She was singled out for criticism.  (을 위해/~으로) ~을 선발[지목]하다
@@ -2490,6 +3149,28 @@
 
 ## swing
 * 가능할 것 같아; i think i could swing that; swing: 잘 해내다
+
+## spot
+* #핸디캡; we spotted the opposing team two goals; 인정했다
+ * on the spot 곧장, at the scene of action: 그 자리에서, in a pressed positon: 곤란스러운 상황
+ * hit the spot                    죽인다
+ * 스팟                   hit the same spot
+ * #시원하다                 ☆this hits the spot
+ * it's #refreshing
+ * #시원섭섭하다 it's kind of a #bittersweet thing
+ * 
+ * 그 분석은 완벽하게 정확하다         analysis of the company is #spot on
+ * 마크는 우리 선생님의 성대모사를 완벽히 했다. Mark {/does a spot-on / nails} impression of our teacher.
+ * 팀을 곤란하게 하고 싶지 않다.         "I don't want to put the team on the spot
+ * 내 주차 자리야 That's my parking spot
+ * 쪽팔리게 하지 마 Don't put me on the spot / on the #center of attention(#attention)
+ * 난 너에게 약해 I have #soft spot for you(spot)
+
+## sport
+* 그는 잘 받아준다 / 못 받아준다 / 분위기 망친다.  He is a good sport / bad sport / spoilsport
+  * #sport: 영국, sports: 미국; How often do you work out?
+  * 측면에서 보면, sport는 운동이나 경기 총체를 의미하고, sports는 경기대회 혹은 경쟁이 따르는 운동을 의미합니다. 미묘한 차이라 생각될 수 있지만, 쉽게 이야기 하면, sport는 큰 의미에서 운동이나 스포츠활동이고, sports는 특정한 대회나 종목들을 의미합니다. 
+  종목에서는 단순히 단수/복수로 나뉠수도 있으나, 개념적으로 조금 다르다고 보시면 됩니다. 
 
 ## spoil
 * * be spoiled for choice = 선택사항이 많다
@@ -2537,6 +3218,7 @@
     * 위스키 한 잔 얼음 없이 주세요. [ex] I'll have a whiskey, straight up, please.
   * 4) (강조) 아주, 매우, 제대로
     * 정말 멍청하다. [ex] That's straight up stupid.
+* * 쫙 펴봐; Here # straighten those out
 
 ## sell
 * a hard sell: (물건을 사도록) 설득하기 어려운 사람 혹은 그룹.
@@ -2560,6 +3242,15 @@
 ## storm
 * '폭풍' 으로 가장 잘 알려진 storm 은 무언가가 빠르고 강렬할 때 비유적으로도 많이 쓰입니다. take ~ by storm 도 마찬가지로 누군가의 마음을 단번에 사로잡거나, 순식간에 성공을 거두는 것을 의미할 때 많이 쓰이는 표현입니다.
 	* = 2018년에 BTS 는 그들의 음악과 공연으로 전 세계를 단번에 사로잡았다. In 2018, BTS took the world by storm with their music and performance.
+
+## slip
+ * 말이 #헛나왔어요             It was a #slip of the tongue.
+ * 완전히 까먹었어.             I completely spaced it, It slipped my mind.  
+ * 명사: 조각, 동강, 가늘고 긴 조각, 종잇 조각, 메모 용지, 전표, 표, 권(券) ((보통 장방형)); permission slip
+ * 성적이 떨어지다; Let your #grade #slip/#drop
+ * #slip in; 1. 미끄러지다. 2. 말을 슬쩍 3. 들어가다; I slipped my money in a birthday card / to someone
+ * #농담; i'll try to slip in a few jokes
+ * #미끄러지다; I slipped in the shower
 
 ## slight
 * slight 는 형용사로는 [관심을 기울이지 않아도 될 만큼 가벼운], 명사로는 [무시, 모욕], 동사로는 [무시하다] 라는 의미를 가져요. 누군가를 가볍게 여기고 리스펙 하는 것 없이 행동하는 것인데요. 그래서 주로 수동태로 쓰이면서 [무시당하다] 라는 의미를 가집니다. = be(feel) slighted
@@ -2607,6 +3298,16 @@
 * 그들이 기계에 시동을 걸었다. They set the machinery in motion. 
 	* 움직이게끔(in motion) 시작시키는(set) 모습의 단어이기에 무언가 작동하지 않는 것을 작동하게 하고, 움직이게 하는 것을 의미합니다. 또한 이어지는 일들에 시동을 걸고 시작하는 것을 의미하기도 해요. 목적어를 중간에 쓰기도 하고, [set in motion + 목적어]로 쓰기도 합니다. 참고로 set the wheels in motion 이란 표현도 종종 쓰는데요, 바퀴가 굴러가게끔 하는 모습에서 나온 표현으로 [절차를 시작하다] 라는 의미를 가집니다.
 		* = 위원회는 개정 절차가 시작되도록 투표했다. The committee voted to set the reform process in motion.
+*  시작하다: #initiate = #begin = #start = #commence = #embark on(배에 올라타다) = #set out/off(#착수)
+  * 준비 되었습니다.                  ~ is all set up
+  * 그들이 나를 #함정에 빠뜨렸어               They set me up
+  * #set-up; it was a set-up
+  * 함정이었어 There are #pitfalls
+  * #덫에 빠뜨리다; #ensnare
+  * 내 친구가 소개 해줘서 만났어요          My friend #set me up with a guy. 
+  * #set aside; 떼어놓다
+  * #set down; 적어두다, 내려두다; set down the load; 짐을 내리다
+  * #set off; #출발하다, #터뜨리다
 
 ## stage
 * stage는 '무대, 연극'이라는 의미가 있는데 이 뜻에서 '(공연, 행사를) 무대에 올리다, 개최하다' 그리고 '(어떤 목적을 위해 무엇을) 꾀하다, 연출하다'라는 동사의 의미로 발전했습니다.
@@ -2620,6 +3321,22 @@
 * 영상에서처럼 뒤에 전치사 for 를 써서 무엇을 대신하는 것인지 나타낼 수 있어요. stand in = [대신하다] 라는 동사로도 쓰인답니다.
   * stand-in: 대역, 대리인, 대신하는 것, 대용물
   * 누가 저를 대신하시죠? ex) Who's going to be stand-in for me?
+* 단호한 태도를 취하다 take a #firm ##stand/attitude
+  * ~에 항거하다: take a stand against; 
+  * 주장하다           He stood upon impeaching for President
+  * 그 여자는 그 사람 의견을 지지해요.         She stands up for his opinion.
+  * #stand up for 1. 지지하다 2. 지키다
+  * 넌 스스로 지킬줄 알아야 해      You have to learn to stand up for yourself.
+  * #두드러지다  #stand out
+  * #stand out from the crowd; find a way to stand out from the rest of the crowd
+  * #수도가 끊기다  stand for for #water off
+  * #stand on; ~에 대한 입장은 어때요? #stand on; where do you stand on puppies?
+  * #stand down; #사임하다; #stand down
+  * 2. #사격 중지, #공격 #중지 #그만해 #가만 있어
+  * #attack, #assault, #strike (at) - 공격하다 
+  * #공격적인 #적극적인; #militant groups/leaders 
+  * #stand up for; #옹호하다
+  * #stand up to; #맞서다; stood up to the bullies
 
 ## standard
 * 이것은 불공평한 이중 잣대이다. This is an unfair double standard . 듣기 출처:타임즈코어
@@ -2686,6 +3403,10 @@
 	* = 이 데이터는 그가 오늘 아침에 우리한테 설명한 거랑 맞지가 않는데. This data don't square with what he explained to us this morning.
 * 이 제안이 받아들여지지 않으면 우리는 원점으로 되돌아가게 될 것이다. If this suggestion isn’t accepted, we’ll be back to square one. 
 * 정답을 맞췄어요; get the square
+
+## spell
+* ＊ spell disaster = 재앙과도 같다
+  * = 가뭄은 농부들에게는 재앙과도 같을 수 있다. (spell disaster/trouble for 피해를 입는 대상) The lack of rain could spell disaster for farmers.
 
 ## spew
 * 1. 뿜어내다, 분출하다  2. 뿜어져 나오다, 분출되다  3. (비격식) 토하다  spew out 이라고 많이 쓰이는데요. 발음은 '스퓨' 정도로 해요. 많은 양의 무언가를 빠르고 힘 있게 뿜어내는 것을 의미합니다. 
@@ -2870,6 +3591,16 @@
 * 1) tuck away 는 무언가를 잘 보이지 않는 곳에 위치시키다-라는 뉘앙스의 뜻으로 장소의 경우엔 영상에서처럼 수동태로 쓰여서 [한적한 곳에 위치하다] 라는 의미를 가져요. 건물뿐만이 아니라 '사람' 에도 쓰일 수 있습니다.
   * 우리 아버지 별장은 산속 조용한 곳에 위치하고 있어요. ex) My father's cottage is tucked away in a forest.
 
+## ticket
+* ○ Can we buy the tickets online? (표를 온라인에서 살 수 있나요?)
+  * ○ This train ticket is very confusing (이 기차표 너무 헷갈린다)\
+  * ○ Can we share the ticket? (우리가 그 티켓을 같이 사용할 수 있나요?)
+  * ○ a complimentary ticket (공짜 티켓)
+  * ○ Can I buy a metro ticket here? (여기서 지하철표 살 수 있나요?)
+  * ○ I got a ticket for speeding (과속으로 딱지 뗏어)
+  * ○ get a speeding ticket (과속딱지떼다) = get a ticket for speeding = get a traffic ticket
+  * ○ a lead foot(과속운전자/ 발이 무거운 사람) = someone who has a heavy foot
+
 ## tick
 * tick 시계가 [똑딱 소리를 내다/똑딱 거리며 지나가다/움직이다] 라는 의미를 가지고 있어요. 그러니 ticking mind 는 직역하면 "똑딱 거리며 움직이는 마음" 이니, 쿵쾅거리는 마음을 가지고 [앞으로 나아가려는 사람]을 의미해요.
   * 난 네가 앞으로 나아가려는 마음을 갖고 네 앞에 놓인 어려움들을 두려워하지 않았으면 해. ex) I hope you have a ticking mind and are not afraid of challenges ahead of you.
@@ -2884,6 +3615,14 @@
   * 일을 마무리하다; Let's tie up the deal
 * 우리말에도 ‘공개행사, 진열장’의 의미로 showcase 라는 단어를 자주 쓰죠. 하지만 그런 상업적인 의미뿐만 아니라 일반적인 상황에서도 [가장 멋진 면을 드러내다, 뽐내다] 라는 동사로도 자주 쓰입니다.
   * 나는 귀걸이를 돋보이게 하기 위해 머리를 높이 묵는 것을 좋아해. I like to tie up my hair up so I can showcase my earrings. 
+  * ○ tied up with ~으로 바쁘다 ○ tie up with ~와 묶다, 제휴하다, 콤비를 하다
+  * 구속된 느낌이야                 I feel really #tied down
+  * #tie; be tied on the chair
+  * #연관 be #tied to; #Tie to;
+  * 결혼하다; #tie the knot(#knot)
+  * #정박 #장착 #dock(2. #정박); dock USB = #port = #harbor = be tied
+  * 신발끈 lace나 shoestring, shoelace; #tie the strings <> #untie
+  * #연을 끊다; #server ties
 
 ## thumb
 * 경험에 바탕을 준 법칙; a handy rule of thumb; 2. 어림 짐작햇; as a rule of thumb
@@ -2893,6 +3632,14 @@
 	* 저 남자가 크게 빵 뜰 거라던데. I heard that guy's the next thing.
 * : (OO에 대해) 좀 잘 알다 [ 숙어 ] know a thing or two (about OO) a thing or two는 정말로 한 ,두 개를 의미한다기보다는 '어느 정도', 강조의 '좀'을 뜻한다고 볼 수 있어요^^
 	* 제가 와인에 대해 좀 일가견이 있죠. I know a thing or two about wine. 
+
+## trick
+* 속임수에 넘어간 기분이었어요; i felt tricked into it
+  * #나쁜 여자 #trick tease
+  * #녹이다; #trick; tricks on me
+  * 까다로운; #tricky; knowledge is a tricky thing
+  * ○ The last hotel I stayed at had a neat trick to save water. (전에 내가 묵었던 호텔에서 물을 아끼는 아주 좋은 방법을 쓰더라고) ---> neat trick (깔끔한 트릭 ---> 쌈박한 아이디어)
+  * ○ Maybe your eyes are just playing tricks on you. (아마도 당신 눈에 그렇게 보이는 것 같은데요) ---> play tricks on ~ (에게 장난을 치다)
 
 ## treat
 * 원래 treat 은 [대접하다, 한턱내다] 라는 의미를 가집니다. 예를 들어, [난 그녀에게 점심을 대접했다] 라는 문장은 I treated her to lunch. 라는 식으로 쓰는데요. 여기에 her 대신 oneself 를 쓰면 자기 자신에게 대접한다는 말이 되니, 큰 맘먹고 스스로에게 선물하듯이 무언가를 살 때 쓰는 표현이 됩니다.
@@ -2910,6 +3657,48 @@
 * : 'throw off balance, 평정을 잃게 하다' 라는 말처럼, '~를 혼란스럽게 하다, 당황스럽게 하다' 라는 뜻!
   * 그 사람 질문에 정말 당황했어. His question really threw me off.
 * (진행중인) 계획을 망쳐놓다 throw a spanner[monkey wrench] in[into] the works 
+* 1. We threw him a party. (파티 열다) 
+  * Who's throwing the banquet? 
+  * Who(m) are we throwing the party for? 
+  * 
+  * 2. Throw in the towel (포기하다) 
+  * It's still too early to throw in the towel. 
+  * 
+  * 3. Throw one's money around (영향을 미치려고 돈을 쓰다) 
+  * I'm sick of the rich people in this city trying to influence public policy by throwing their money around. 
+
+  * 4. Throw a match (일부러 져주다) 
+  * Suspicions were raised that he had thrown the match. 
+
+  * 5. Throw a fit (발버둥치다, 발광하다) 
+  * Throw a tantrum
+  * You can't just throw a fit every time you don't get your way. 
+  * 
+  * 6. Throw up (토하다) 
+  * He was throwing up in the street last time I saw him. 
+  * 
+  * 7. Throw out (버리다) 
+  * You need to throw out some of these old clothes. 
+  * 
+  * 8. Throw caution to the wind (위험을 무릅쓰다) 
+  * We threw caution to the wind and continued on into the desert. 
+  * 
+  * 9. Throw a curveball (의외적인 말이나 행동을 하다) 
+  * He really threw us a curveball with that one. 
+  * 
+  * 10. A stone's throw away (돌 던지면 닿을 수 있는 거리, 가까운 곳) 
+  * The subway station is just a stone's throw away! 
+  * 
+  * 11. #나무라다; #위선자 #throw rocks; don't throw rokcs if you live in a glass house
+  * don't be such a #hypocrite; stop being such a hypocrite
+  * it's #hypocritical to tell others
+  * 
+  * * 속답: Don't throw the baby out with the bathwater (안 좋은 것을 정리하면서 좋은 것까지 다 버리지 마라.) 
+
+  * * I understand that you're frustrated, but you can't just shut down the whole business because of a couple of bad days! Don't throw the baby out with the bathwater! 
+
+  * Bonus: 
+  * This is a total #throwback to the 80s.
 
 ## trace
 * trace 1. 1. A를 B까지 추적하다.  2. (기원을) 추적하다. 
@@ -2920,6 +3709,12 @@
 ## track
 * track 은 말 그대로 사람들이 따라가도록 나있는 [길] 을 의미하는데요. 무언가를 함에 있어서 목표를 향한 길에서 벗어나지 않고 잘 따라갈 때 on track 이라고 합니다. 제대로 된 방향으로 나아갈 때는 on the right track, 잘못된 방향일 때는 on the wrong track 이라고 하고요. 잠시 잘못된 방향으로 갔다가 다시 돌아왔을 때는 get back on track 이라고 할 수 있어요.
 	* 데이빗. 넌 정말 잘 하고 있으니까 너 자신을 의심할 필요가 없어. ex) David. You're definitely on the right track, so no need to doubt yourself.
+
+## tongue
+* 발음하기 힘든 문장: tongue twister
+  * #말문이 막힌다                 I get #tongue-tied.
+  * silver tongue; He is silver tongue; 말주변이 좋다
+  * #on the tip of my tongue; 입 앞에서 맨돌 뿐 기억 날 듯 말듯
 
 ## touch
 * 현재 세상이 어떻게 돌아가는지 정보가 없는 것을 의미하는 표현이에요. [너 정말 뭘 모르는구나!] 라고 말할 때, You're so out of touch! 라고 하시면 되겠죠?
@@ -3050,6 +3845,12 @@
 * business trip
 * 허리에 있떤 통증이 목까지 올라갔어요; THe pain in my lower back travels up to my neck
 
+## tear
+* 필터 뜯어                   tear off the fiters;
+  * 그가 예술 작품 하나를 망치는 것 같애      I feel like she’s tearing down a sculpture
+  * 떼어놓다 'tear 사람 away ' I'm sorry to tear you away from your comuter, but I need your help.
+  * cry over; ~ 때문에 울다, tear up; 눈물을 글썽거리다
+
 ## term
 * 조금 문제가 되는 사람, 사물, 상황 등을 이해하고, 받아들이고, 처리하려고 노력하는 것을 의미하는 표현이에요.  = come to terms with
 	* 넌 내가 얼마나 아멜리아를 이해하려고 노력해 왔는지 알잖아. ex) You know how much I've tried to come to terms with Amelia.
@@ -3076,6 +3877,10 @@
   * 3. 몸을 풀다, 준비하다 종아리 근육들을 풀어줄 스트레칭 운동들 [ex] stretching exercises that warm up your calf muscles
   * 4. 예열하다 복사기는 예열이 돼야 해. [ex] The copying machine needs to be warmed up.
   * 파티는 곧 활기를 띠었다. [ex] The party soon warmed up.
+
+## wasp
+* 개미 허리 wɑ:sp: 말벌 wasp waist
+
 
 ## wash
 * 주로 배우나 운동선수의 전성기가 지나고 별볼일 없어졌다고 할 때 쓰는 형용사입니다. 
@@ -3113,6 +3918,18 @@
 * 비격식 표현으로 상대방의 감정이나 입장 등을 고려하지 않고 굉장히 못된 태도로 대하는 것을 의미해요. 누군가를 밟고 지나가는 느낌의 단어들이죠? = walk over someone
 	* 걔가 널 함부로 대하게 놔두지 마. 이런 취급을 받을 필요가 없잖아. ex) Don't let him walk over you. You don't deserve this.
 * (고통, 창피를 신경쓰지 말고) 남자 답게 행동해라. walk it off 미국식  영국식 
+  * walk A through B; Let me walk you through it
+  * #walk out: 밖으로 나가다, #집단파업(#파업)
+  * #walk out on somebody; he walked out on his wife
+  * 그자식이 날 떠나버렸어             He #walked out on me
+  * walk off 1. '화난 감정을 걸어서 누그러뜨리게 하다' 2. 남자답게 굴어 3. 배를 걸어서 꺼지게 하다
+  * 남자답게 굴어.                   Walk it off. : 
+  * '부른 배를 걸어서 꺼지게 하다' 'Let's walk it off because we had too much at Jane's birthday party
+  * #소화되다; #배가 꺼지다; we can #walk it off tomorrow
+  * 결혼식을 올리다             #walk down the aisle
+  * #원만하게 #마찰없이 지내다 #walk softlye
+  * #walk away: (힘든 상황, 관계를 외면하고) 떠나버리다; you shouldn't walk away
+  * 거리를 두는; I don't want to walk away
 
 ## wrack
 * nerve-wracking 혹은 nerve-racking이라고 씁니다. nerve는 ‘신경’이고 rack은 ‘괴롭히다, 시달리게 하다’입니다. 내 신경 하나하나를 괴롭히는 듯한 느낌으로, 어떤 상황이 사람을 매우 긴장하게 하거나, 안절부절 못하게 할 때 사용합니다.
@@ -3132,6 +3949,10 @@
 * 강도가 호주머니에서 식칼을 꺼냈다. The robber whipped out a kitchen knife from his pocket. 
 * whip 이 계란이나 거품을 내기 위해서 빠르게 [휘젓다] 를 의미하는데요. 그렇게 휙휙 휘저어서 무언가를 만들어내는 모습의 비격식 표현이에요. 특히나 식사 같은 것을 빨리 만들어 낼 때 자주 쓰이는 단어입니다. 1) whip up something / whip something up = ~을 만들다.
   * 토스트랑 계란 금방 만들어 줄게. ex) I will whip up some toast and egg for you.
+
+## wimp
+* 약골 wimp
+* 자기야,나 내빼지 않았어.       ‘hʌni wɪmp Honey, I did not wimp out.
 
 ## wicked
 * wicked 는 여러가지 의미로 쓰일 수 있는 단어인데요. 지역에 따라 조금씩 다르게 쓰인답니다. 오래전 영어에서는 "사악한" 의 의미로 쓰였지만 지금은 그리 많이 쓰이는 것 같진 않아요. 동화책에 나오는 '사악한 마녀(wicked witch)' 이런 식으로나 접하는 쓰임이죠. ㅎㅎ 영상에서처럼 보스턴 지역에서는 형용사 앞에 붙여서 It's wicked cold! He's wicked smart! 라고 하여 [정말, 완전] 의 의미로 많이 쓰여요. awesome 이 [멋진] 이라는 뜻이기에 [완전 멋진데!] [쩌는데!] 로 해석이 되었습니다. wicked 자체가 슬랭이니까요.

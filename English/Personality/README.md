@@ -227,43 +227,36 @@
 * #cooly xx, #coolly- 쌀쌀맞게, 차분하게
 * #강제적인 #보수적인 #냉소적인 #compulsive #conservative #cynical is ~ #conservative
 * #진보; #advancement, #progress, #improvement - 발전, 진보 
-* #진보적인; #progressive
+	* #진보적인; #progressive
 * #물리력을 동원하여 #강력히; #forcibly
 * #coercion
-* #떠드는 #fussy; #떠드는 소리 #chatter
-* #충동적인 #예의없는 #일치하지 않는	#impulsive #inconsiderate #inconsistent
-* #spur of the moment
-* #chivarly;	be full of chivalry
-* #기사도; #chivalry dead
-* #충동구매; #shopping spree	
-* #예의바르게 행동해 Be #polite = good #mannered/behaved = #show some respect
-* #예절좀 지켜; #mind your manners
-* #courteous; #정중 #깍듯; 잘 안씀
-* in a #suave 미국·영국 [swɑ:v] voice
-* #정중하게 요청해 ask #Nicely
-* 정중히 초대합니다; you are #cordially invited to 
-* #예의바르게 처신 잘할게. 			I’ll be on my best behavior.
+	* #떠드는 #fussy; #떠드는 소리 #chatter
+	* #충동적인 #예의없는 #일치하지 않는	#impulsive #inconsiderate #inconsistent
+	* #spur of the moment
+	* #chivarly;	be full of chivalry
+	* #기사도; #chivalry dead
+	* #충동구매; #shopping spree	
 * #우유부단한 	우유부단하지마 		 Don't be so willy-nilly.
-* 그 남자는 우유부단하다. 				 That guy is so indecisive. He is so wishy-washy.
-* 결정을 내리기 힘든; 	#run hot and cold
-* #선택장애	difficulty making decisions
-* dependent personality disorder(병적으로)
-* #분별력 있는 사람	#leve-headed person
-* 분별력이 좋다	good #judgement
-* #통찰력 있는	#discerning
-* #무분별한 #강직한, #융통성없는	#irrational #indiscreet #inflexible
-* #upstanding = #one-track mind
-* #overly literal; #literal
-* #stand up poin, have a one track mind
-* have a ted tape mind, #lack latitude
-* be #ridig, be #unadaptable, be #hidebound
-* #lack in versatility
+	* 그 남자는 우유부단하다. 				 That guy is so indecisive. He is so wishy-washy.
+	* 결정을 내리기 힘든; 	#run hot and cold
+	* #선택장애	difficulty making decisions
+	* dependent personality disorder(병적으로)
+	* #분별력 있는 사람	#leve-headed person
+	* 분별력이 좋다	good #judgement
+	* #통찰력 있는	#discerning
+	* #무분별한 #강직한, #융통성없는	#irrational #indiscreet #inflexible
+	* #upstanding = #one-track mind
+	* #overly literal; #literal
+	* #stand up poin, have a one track mind
+	* have a ted tape mind, #lack latitude
+	* be #ridig, be #unadaptable, be #hidebound
+	* #lack in versatility
 * #유연	#supple
-* improve flexibility of the body
-* 유연하게 #대처하다; . You’ve got to #roll with the punches. 유연하게 대처해야 해요. 
-* 무분별한 도시개발	#careless/#indiscriminate city development
+	* improve flexibility of the body
+	* 유연하게 #대처하다; . You’ve got to #roll with the punches. 유연하게 대처해야 해요. 
+	* 무분별한 도시개발	#careless/#indiscriminate city development
 * 참을성 있는; #long-suffering(#suffer)
-* #편협한 #참을성 없는 ##속좁은 #intolerant #narrow minded- #provincial #shallow
+	* #편협한 #참을성 없는 ##속좁은 #intolerant #narrow minded- #provincial #shallow
 	* 속 좁은 사람들이야; They're small-minded people
 	* be ##impatient for/of, impatient at/with 
 	* 메이슨은 #속이 좁아요. 		 	Mason is narrow-minded. <> broad-minded.= has a big heart.

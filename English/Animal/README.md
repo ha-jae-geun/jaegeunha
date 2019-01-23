@@ -88,6 +88,17 @@
 * 믹스견이고요; she is a mutt
 * 개들은 냄새를 맡으면 행복해한다; Dogs are happy when they smell;
 * 개가 어떤 사람의 원반을 훔치는걸 봤다; watched him steal some guy's   [ˈfrɪzbi]
+ * Come here, down, stay, sit, Fetch it, Leave it, stop, good job, good boy, good girl
+ * #down: #엎드려
+ * #강아지; #pup, #puppy
+ * 사냥개 											 hound
+ * #퍼그 #비글 #pug + beagle -> #puggle
+ * #사료: #dog food
+ * 목줄은 풀어 주지 말고. 			 lí:ʃ Don’t let him off the leash / rope=lead=chain 
+ * 개가 도망갔어요; #get loose; my dog got loose = my dog #escaped = my dog got free
+ * 나는 개 좋아하는 사람입니다. 						 I'm a dog person
+ * #dog it; #건성으로 하다, #꾀부리다: he dogs it, 
+ * 여자를 밝히는 남자; year of the dog
 
 # 물고기
 * 연어는 정확히 태어난 곳을 찾아온다. 연어의 코는 어떤 생물의 후각보다 발달하여 자신이 태어난 시냇물 냄새를 구별해낸다.

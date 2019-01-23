@@ -1,4 +1,8 @@
 # 기타
+* 뷔페식의							 all-you-can-eat
+* 빨래집개 clothes pin; 주걱: rice paddle; spatula  [ˈspætʃələ] 
+* 크림파스타; cream-based pasta; white sauce pasta
+* #포스트잇(#post-it) -> #sticky notes
 * 아기 쉼터; baby shelter(피난처 느낌) = baby lounge
 * 랜드비 얼마야? What is the rent? How much is the rent? (rent fee x)
 * 캠핑카; Camper, RV

@@ -16,6 +16,23 @@
 	* 미국 회사들은 시장 진출과 기술 획득을 위해 외국 경쟁기업과 협력하는 방법을 빨리 배우고 있다. U.S. companies are fast learning how to team up with foreign competitors to crack markets and acquire technology.
 * 저 손금 읽는 거 알아요; i know hand fortune-telling
 * 난 네게 등돌리지 않을게; i wouldn't turn on you
+	 * #rat: 배신자
+	 * #반역죄; #treason, #반역자: traitor; 반역을 저지르다; #commited treason
+	 * ##betray; #본색을 들어내다; betray one's #calling; #바람 피우다; betray one's wife/husband
+	 * 본색을 들어내다; #show one's #true colors
+	 * 신임을 배반핟; betray ( a person's) confidence
+	 * #반란; uprising(들고 있어남); #quash; quash a rebellion
+	 * #변절자; #renegade = #turncoat
+	 * be #up in arms; (against): #반기를 들다
+	 * #반란자; #mutineer
+	 * 나는 너가 날 #배신하지 않는 한 널 사랑할거야 I"ll love you as long as you don't betray me.
+	 * 뒤에서 찌르다 = #배신 I am #back-stabbed by John
+	 * #flip on; #배신하다; I can't flip on them
+	 * #뒷통수 치다 							 stab someone in the back.
+	 * 그냥 배신감이 느껴져서. 						 I just feel so betrayed.
+	 * #cross; 배신하다
+	 * ##배신
+	 * 1. betray 명사 2. betray A (to B); A를 B에게 #누설하다; 3. #betray + that절 4. betray + 명사 + (to be) + 보어
 	* 배신하다; 그가 갱단의 나머지 사람들을 배신하고 그 돈을 모두 가지고 사라졌다.He double-crossed the rest of the gang and disappeared with all the money. 
 	* 뒷담화 까지마; don't be talking sideways
 	* 넌 날 모욕하지만 추락할 사람은 너야; Cut me down, but it's you who'll have further to fall
@@ -120,3 +137,4 @@
 	* 와, 비온다. 정말 완벽한 날이구만! – 그만 좀 빈정댈래? 우리 가족이 처음으로 가는 여행이잖아! Wow, it’s raining. What a perfect day! – Would you please stop being sarcastic? This is our first family trip!
 * 갈등; 그 두 화가 사이의 오래 계속된 반목 a long-running feud between the two artists; [fjuːd]
 * ☆싸울때가 됐다; #gloves are off; the gloves come off = #square up
+* #beat; #연타 #hit; 일반적 #spank; #체벌 #slap; 뺨, 손바닥; he slapped me on my back

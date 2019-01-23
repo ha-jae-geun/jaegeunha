@@ -92,6 +92,12 @@
 * 하지만 한가지 경고를 추가하고 싶습니다.  I should like to add one caveat, however. 예문 발음듣기
 * #FBI; 미국 국내의 문제 #CIA; 미국 국가 안보와 관련하여 대외적인 문제
 * fbi: 주에 관련 없이 다른 주의 관할권을 갖는 수사관; 여러주에 걸친 범죄, 유괴범, 테러
+  * #abduction; [ӕb|dʌkt] be abducted, will be taken
+  * [명사] 유괴범, 납치범                 abductor 
+  * 두 명의 사업가가 테러범들에게 납치되었다. Two businessmen have been kidnapped by terrorists.
+  * #몸값 요구; no #ransome notes
+  * #실종; #missing person
+  * ##유괴 ##납치
 * 처음으로 돌아가 꺠끗하게 다시 시작하려고 노력하다; start with a clean slate
   * wipe the slate clean
 ------

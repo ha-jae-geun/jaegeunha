@@ -1,8 +1,4 @@
-			 (연예계) big time
-* #네 코가 석자인 것 같은데 					 You've got #bigger fish to fry.
-* 퍽이나, 어쩌라고 								 #Big deal
-* 거짓말하다 #talk big, #exaggerate
-* #잘 나가다 #big
+
 * 딸꾹질이 나오네.								 I {get, have} the hiccups.
 * i've been hiccuping for three minutes
 * #딸꾹질
@@ -17,69 +13,10 @@
 * #조잡한; #shoddy goods 
 * #복잡 #혼잡
 * #헷달 93#
-* #십중팔구 					 Nine times out of ten, koreans prefer spicy food
-* 십중팔구 ~일 것이다: in all likelihood, 주어 + would/will + 동사원형
-* 1에서 10까지 있다고 한다면 						on a #scale of one to ten
-* 10점 만점에 몇점 								 rating out of 10
-* #만점 						 I give you full marks for that, perfect score
-* 몇점 줄래? 				 		 what would you ratet that one? out of ten
-* 점수 따다 earn #brownie points or win brownie points, get brownie points or score brownie points
-* 5점 줄게요 									 I''m going 5
-* 높은 점수로 통과했어 					 I passed with #flying colors
-* 토익 점수 받아야 해 I have to get a high #score on Toeic
 * #추가 점수 #보너스 #extra credit(#credit); project
 * #추가; #addition, #extra, #supplement - 추가, 보충 
-* #부수입, #보너스 #perk = #perquisite [pə́ːrkwǝzit
-* #부수적인; #incidental
-* 그 낮은 점수로 하버드에 지원하겠다고? Are you going to apply to Havard with such low marks?
-* #기술 점수, #예술 점수; he got high marks for artistry, his technical scores were low
-* ##점 #점수
-* #적합; ;she is cut out to be a police ; she is cut ot for investigation
-* 충분 ample, enough
-* 적합한, 충분한 cut out for N /to v be suitable/suited for: ~에 적합한, be enoguh/sufficient for
-* #pertinent; #appropriate, #suitable, #relevant - 알맞은, 적합한 
-* 적절하다 										relevant
-* ^^#적절한; #seemly; #unseemly; behavior
-* 그들은 내가 #적임자인줄 알아				 They think I am the person for the job
-* 충분해요 		 #That’s (good) enough, #That’ll do That'll suffice! That'll do the job.
-* #close enough, That'll work. That'll be fine.
-* 최적의,물가를 적정 수준으로 유지하다, 최적의 상태
-* maintain optimal product prices [ɑ́ptəməl]optimal conditions
-* #적합 #충분 #적절 #최적
-* 
 * 의장에 취임하다, ~의 전 책임을 지다. 		 assume the chair, assume full responsibility for
 * 떠맡다, 추측하다, 취임하다, 책임을 지다 #assume
-* 한 배 반, 두 배 반 time and a half. 'Two and a half times'
-* 폰트 좀 두배로 키워 봐 						 Make the font two times bigger
-* 그것에 두배 		 for twice that; I bought that very same toaster in your store for twice that
-* 내 머리가 너의 두배인데; my head is literally double the size of your head
-* #double, #dual, #twofold - 두 배의, 두 개로 된 
-* 두 배다 twice as much as; it took about 2 hours which is about twice as much as I expected it to take
-* 4의 배수 multiples of four; I can only do multiples of four
-* ##배
-* #선장 #captain #선원 #crew
-* #선박의; #nautical; #해상의
-* #선회 #급선회 #sharp turn(#turn)
-* 노를 저하다 							are rowing a boat = #paddle down
-* 뒤로 열심히 돌려야 해, 노를 반대로 저어 			 we need to rewind hard, back paddle
-* #돛의 #삐걱소리 the #crack of #sails
-* 배가 떠났다 thie ship has #sailed
-* GPS 없이 #항구를 떠났어; I've left the port without the GPS
-* #항구 도시; #coastal city
-* #빌미; 화를 #좌초; #ask for trouble; asking for trouble
-* #가라앉다 #침몰 #침수 #좌초 #sinking #ferry = #submerged
-* 침수; #under water
-* #인양하다; #salvage
-* #전복 #capsize a boat
-* #정박 #장착 #dock(2. #정박); dock USB = #port = #harbor = be tied
-* #보트를 #조종하다; #steer; steered the boat
-* #steer the house
-* #난파선; #wreck; #trapped in the wreck
-* #깐닥거리다; Tiny boats bobbed up and down in the harbour.
-* 돛을 펴라 #spread the sail
-* #증기선; #tramp steamers
-* #돛대; #masts
-* ##노 ##배#
 * ☆~한 동시에 ~하다; it was ~ but at the same time it was ~
 * 자동교정 기능이 타자 침과 동시에 교정을 해줘 		 Autocorrect corrects you as you type
 * 여러 일을 같이 진행하다 						 He has a finger in every pie.
@@ -104,15 +41,6 @@
 * 작성 					fill in: 미국식 fill out: 영국식, 미국식 결론른 fill out 통일
 * 기작성 											 canned
 * #작성 #기작성
-* ☆##front; stop fronting
-* #affect, #pretend, #simulate - ~인 체하다 
-* #pretend = #act like
-* ~체 하다; put on an act; I don't want to put on an act
-* #simulate;(2. #흉내내다)
-* 이 영어문장은 아픈척하다 						 I pretended to be sick. 
-* ~인양 행세하다; #pass off as; pass them off as the little lords
-* #phone it in; #하는 척하다; #척하다
-* ##체 ##척하다
 * 이제 알고있을 때 됐지 							you should know by now
 * #지금으로서는 #as of now
 * 지금부터 					 from today/this moment on/onwards [|ɑ:nwərd]
@@ -123,30 +51,6 @@
 * #이맘때; #around this time of the year
 * #지금쯤이면; 여기 와있어야지; you should me here #by now
 * #이제 #지금부터 #지금처럼만 해
-* #실천이 말보다 낫다. 					 #Well done is better than well said.
-* -우리는 이 관행을 실천해야 한다.					We have to carry this practice out.
-* 한국에서 재활용은 매우 잘 실천되고 있습니다 		 Recycling is very well-practiced in Korea.
-* #실천
-* 제일 윗줄 up in the top ##row; anything up in the top row
-* 맨 #앞줄이었지; we're at the beginning of this line
-* be/stand/wait + in line for + 이유/시간; Are you in line for the bathroom
-* #줄서다, 줄서, 줄서!
-* Stand in line / Stand in queue
-* Get in line / Get in the queue
-* Line up / Queue up
-* #정렬하라 #form up
-* 줄 잘못섰어요; you backed the wrong horse
-* 무슨 줄이에요? 					What are you in line for? What is this line for?
-* #대기줄인가요? is this the line?
-* 줄 서고 있는거야?								 Are you in line?
-* 맨 앞줄이야 the seats are in the #first row
-* ~가 줄을 스겠네 ~ is #in order
-* #줄넘기; #skipping ropes
-* 새치기하지 마세요 								Don't cut in line. 
-* 위험한 일이야	 You're skating on thin ice. 너무 위험한 도전이야., #high-wire acts; #줄타기
-* 줄타기 하듯 위험한 일을 하다; to #walk a fine line(#fine line)
-* ##줄 #새치기
-* #헷달 91#
 * #갱년기 #폐경기						 #midlife crisis, menopause [|menəpɔ:z] 
 * have menopausal symptoms
 * 	#역대 최악의 							Midlife cirsis at its worst
@@ -183,11 +87,6 @@
 * #blow the change
 * #lemon: 시련 #lemonade; #기회; when life gives you lemons, make lemonade#
 * ##기회
-* 내 차 완전 #망가졌어 					 My car got completely #banged up.
-* 말도안되게 가성비가 좋은 #bang for the buck
-* 당신이 지불하는 만큼의 가치를 얻을 수 있다.		 it is definitely a #bang for your buck.
-* 완전히 홈런 쳐버리고 yoo need to bang this thing
-* ##bang
 * proximate
 * ##near; 1. near here = nearby; 부사; I live nearby, I live a nearby 장소(형용사) 2. near the college
 * #가깝다; #close by; it's close by
@@ -231,46 +130,6 @@
 * 술판이 필요하다 					I need some alchol #sesh man. #session 
 * 	Let's have some sesh 이러면 대마초 피자는 걸로 이해 cannabis 'kӕnəbɪs: 대마초
 * #판
-* #헷달 90#
-* *It hasn't been confirmed yet
-* #check with A about B
-* #follow up on; i’m calling to follow up on your order | #validate
-* I want to check ~
-* 왜 확인해, 확인안해 Why are/aren't you checking?
-* 하면 다시 확인 해봤어야 하는데 이런 말이 되겠죠 		I should have double-checked it. 
-* 직접 확인해보세요 								See for yourself!
-* 내가 ~ 할수있는지 확인해볼게 							 I'll see if I can V
-* 어떻게 확인하신 거죠? How did you #go about making certain
-* 그냥 확인하는 거야; just checking
-* 우리 싸웠어 							#fall out We had a falling out 
-* #확인
-* #common, #natural, #fed up with, #sick of
-* 그 차는 이제 흔해.						 The cars are a #dime a dozen.
-* 평소에 그런 일은 흔히 있는 거잖아. 				It happens. = #stale
-* 식상하네요 				You sound like a bumper sticker(핀잔주는 말) 
-* #흔하다 #식상
-* shake heart; shake womans’ heart, 
-* shake up; She shook me up; The incident shook up his values
-* 너와 함께 흔들고 싶어지네 				 feeling like I wanna rock with your body
-* 난 좌우로 네 몸을 흔들지 						I got your body rockin’ side to side
-* 나를 위해 엉덩이 흔들어봐 							 #pop it for me
-* 흔들어 주세요; give it a #sitr
-* The economy shows no signs of #faltering. 경제가 흔들리고 있다는 조짐은 없다.
-* #흔들다
-
-* #헷달 89#
-* 전기충격									 electric shock
-* 전기가 나갈것이다/정전 							The electric will be off 
-* 열광적인 분위기 						 The atmosphere was electric
-* #가전제품 electric home appliances = household electric appliances = customer electronics
-* 하지만 저는 #전동 #칫솔을 사용하는걸요 			 But I use an electric toothbrush 
-* #electricity
-* ○ electric shock(전기충격)
-* ○ The electric will be off (전기가 나갈것이다/정전)
-* ○ The atmosphere was electric(#열광적인 분위기)
-* ○ electric home appliances(가전제품) = household electric appliances = customer electronics
-* ○ But I use an electric toothbrush (하지만 저는 전동칫솔을 사용하는걸요)
-* ##electric
 * #사레 들렸어								 I choked on something.
 * 생선은 냉동실에 보관해 					 Keep the fish in the freezer. 
 * #밀봉되어서 보존되었어 They were #sealed and preserved
@@ -344,19 +203,8 @@
 * 나 너 배웅하고 싶어~ 						I want to see you off. #see off
 * #see out; #see some out
 * #배웅
-* 플러그는 꽃혀 있어? 						 Is it plugged in? #plug in
-* 중단시키다; #pull the plug(#plug)
-* #plug away; plug away (at something; #꾸준히 하다
-* ##plug #플러그
 * get in a hassle; 싸움 하다; #hassle over; #이러쿵저러쿵하다; #hassle-free; #편리한
 * #물바다야 							 There's water all over the place. 
-* 우리 부모님은 내#가 늦게 다니는 것에 대해 항상 잔소리한다.
-* My parents always hassle me about staying out too late.
-* 나는 그 경기에 가고 싶었지만 너무나 번거로워서 그냥 집에 있었다.
-* I wanted to go to the game but it was too much of a hassle so I stayed home.
-* 내 고물차는 고장이 많이 나서 큰 골칫덩어리이다. 나는 새 차를 사고 싶다.
-* My old car breaks down a lot and it's a big hassle. I want to buy a new car.
-* #hassle
 * ~처럼 들리게 말한다 주어+#make it sound like 명사 / 주어+동사
 * 건강한 정신이 건강한 신체를 만든다 sound mind makes sound body
 * 그거 꽤 공평한데~			 That sounds pretty fair ■ That sounds(들어보니) 

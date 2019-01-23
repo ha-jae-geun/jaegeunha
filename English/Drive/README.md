@@ -10,6 +10,12 @@
 * 색깔: Can i choose the color / Do you guys have a blue one available
 * 주유; you need to refill it before returning the car /  fill up the tank
 * #waiver; 보험사와 나눔
+* * 반납 위치; drop off location
+* 경유 휘발유; Disel or Unleaded
+* 스틱 or 오토; Manual or automatic transmission
+* 사이즈: econmy < compact < mid-sized < full-sized < luxury
+* 추가 비용이 있을까요/ will there be any additional costs?
+	* 세차 비용이 따로 드나요? DO you charge for cleaning; What is your cleaning fee policy?
 ------------
 
 # 일상

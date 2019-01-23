@@ -48,6 +48,7 @@
 * 비탈길을 올라가다.
 * 비탈길을 내려가다	a steep ramp, go up a ramp, go down a ramp
 * 횡단보도에서 길 건너세요	cross the street at the crosswalk.
+	* #횡단보도 		 crosswalk safety, zebra crossing, pedestrian crossing, pelican crossing
 * 5호선으로 갈아타세요	transfer to line 5.
 * 걸어서 데려다 드릴게요	I can walk you there.
 * 어디 가실려구요?	where would you like to go?" 

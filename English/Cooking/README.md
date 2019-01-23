@@ -18,6 +18,8 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 * 주전자; 이걸 주전자에 넣고; we're gonna put this into our pitcher
 	* 우유/물 주전자[병] a milk / water jug 
 		* 이 커피 한통이면 몇 명이나 마실수 잇나요? How many people does a jug serve?
+	* 물 주전자; pitcher
+* 머그잔; mug; mug cup이라고 안함
 * 식기 깔개; Plcaemat; 식탁보: tablecloth; 조명 기구; light fixture; 접시: platter
 	* [A 를 숟가락으로 슬쩍 떠서 B 에 올리다] 라고 말하고 싶을 땐 spoon A over B 라고 하시면 돼요. 식사 관련 표현이기에 알아두시면 유용하겠죠! 
 		* 여기 그레이비 소스 보이지? 스테이크 위에 살짝 떠서 올려주면 돼. ex) You see the gravy here? You can spoon it over your steak.
@@ -129,6 +131,7 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 	* 식감만큼은 괜찮아; THey're quite nice in texture
 
 # Cooking
+* 퐁당하고 넣어주세요; And plop it in
 * 이것저것 섞어 조금 특이한 것을 만드는 것을 의미해요. 주로 음식에 많이 쓰이는 단어이고요. 이야기나 사실이 아닌 변명들을 [지어내다] 라는 뜻으로도 쓰입니다.
 	* 남은 음식으로 이 음식을 만들었어. ex) I concocted this meal from leftovers. -ˈkɑːkt] 
 * 부풀었고, 예쁘고, 가볍고, 푹신해요; It rose up, it's lovely, light and fluffy

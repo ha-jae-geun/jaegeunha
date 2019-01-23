@@ -1,6 +1,7 @@
 # 시장
 * 시장을 점유하다; in order to dominate the market
 * GDP 측면에서 전 세계에서 두번쨰로 큰 경제이다; It's the world's second largest economy by GDP
+* 손익분기점; 회사가 작년에는 손익이 거의 비슷했다. The company just about broke even last year. 
 
 
 # 기타

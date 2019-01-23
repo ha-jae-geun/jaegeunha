@@ -1,16 +1,3 @@
-* walk A through B; Let me walk you through it
-* #walk out: 밖으로 나가다, #집단파업(#파업)
-* #walk out on somebody; he walked out on his wife
-* 그자식이 날 떠나버렸어 						 He #walked out on me
-* walk off 1. '화난 감정을 걸어서 누그러뜨리게 하다' 2. 남자답게 굴어 3. 배를 걸어서 꺼지게 하다
-* 남자답게 굴어.									 Walk it off. : 
-* '부른 배를 걸어서 꺼지게 하다' 'Let's walk it off because we had too much at Jane's birthday party
-* #소화되다; #배가 꺼지다; we can #walk it off tomorrow
-* 결혼식을 올리다 						 #walk down the aisle
-* #원만하게 #마찰없이 지내다 #walk softlye
-* #walk away: (힘든 상황, 관계를 외면하고) 떠나버리다; you shouldn't walk away
-* 거리를 두는; I don't want to walk away
-* ##walk
 * #봉제된 인형 #stuffed ~; stuffed animal like crazy
 * 점령군이 꼭두각시 정부를 세웠다. [|pʌpɪt] The occupying forces set up a puppet government. 
 * 너 인형같다 You are #dolled up today
@@ -43,28 +30,6 @@
 * catch a thief
 * catch a whiff
 * catch sight of
-* 1. 잡다 2. #사로잡다/이해하다; catch her eye, catch what you said before 3. 걸리다; catch a cold
-* #무방비로 당하다 #방심하다; be caught off guard; 
-* #catch up; Let's catch up next time
-* We did a lot of catching up. 우리는 많은 밀린 얘기들을 했다.
-* ‘일에 너무 #치여살았어 					 I’ve been so caught up in my job
-* 반 친구들을 따라가야해 					 I need to catch up with my class
-* 잠시 혼자 생각에 잠겼어요			 I was caught up in my own thoughts
-* 바쁜데 전화걸었나요> Did I catch you at a bad time?
-* 잠들다 										 catch off
-* 무방비로 당하다 					 	 I was caught off guard
-* 시험 끝나면 그동안 못 잠 잠을 좀 자야겠어.				 catch up on sleep 
-* ~와 무엇을 하고 지냈는지 공유하다; #catch up with; Just to catch up with you
-* #근황이 궁금해서요 Just catching up
-* 완전 괜찮은 사람, 놓치면 안 될 사람; someone is a catch
-* #속셈이 뭐에요; what's the catch
-* #빨리와; #catch up
-* #catch off guard; catch somebody off guard; #허를 찌르다; it caught me off guard
-* #회포를 풀다; got caught off after a long time
-* #caught up with; She was terrified that one day her past problems would catch up with her 1. 따라잡자 2. 따라가다 3. 체포하다
-* #catch out Many investors were caught out by the fall in share prices. 
-* 주가 하락으로 많은 투자자들이 곤란에 처해졌다.
-* ##catch
 * 종종 명사가 생략돼 				 noun is presumed drop, omit, skip, leave
 * ##셍랙
 * #응용: application
@@ -72,14 +37,6 @@
 * #interlock, #link, #connect, #couple. #connect, #link, #attach - 연결하다 
 * #assosiate A with B
 * #interconnect; 서로 연결된
-* 문장 연결할 떄 #connecting words
-* #연관 be #tied to; #Tie to;
-* Have become #interwined
-* The figures do not seem to #correlate. 그 수치들은 연관성이 없어 보인다.
-* #연관짓다; #associate, #connect, #link - 연관짓다 
-* #in line with(#line) = #in agreement with
-* #연관이 없는; #irrelevant; 욕과 비슷하게 쓰임 -> 존재감도 중요성도 없다;
-* the others went for the more relevant bro; everyone in sidemen is irrelevant
 * #연동 #연결 #연관
 * #authoritarian, #autocratic, #dictatorial - 권위주의적인 
 * 권한, 지휘권 								authority, #mandate
@@ -94,48 +51,14 @@
 * #wield 미국·영국 [wi:ld] 2. (#권력) #행사하다 She wields enormous power within the party
 * 2. back up; 권력에 취하다; the little king’s backed up
 * #권한 #권위 #권력
-* ☆자신있다; ☆i think I can <> I don't think I can; do you think you can do this?
-* I know I can <> I don't know if I can
-* you need more confidence, you need to have more confidence, 
-* I don't feel confident, I don't have confidence
-* #confident, #self-assured, #positive - 자신 있는 
-* I'm confident on this one
-* #over-confident
-* 자신감이 부족한 것 같다. 		 I have a lack of confidence, lack confidence
-* #insecure; 자신이 없는
-* #buoyant- 경기가 좋은, 자신감에 차 있는; [|buːjənt] 
 * #자신 있는
 * 보호: the wife is screening him, 검사 받다 should be screened
 * 전화 차단: screen one's call
 * ##screening
 * ##trick 복습
-* #나쁜 여자 #trick tease
-* #녹이다; #trick; tricks on me
-* 까다로운; #tricky; knowledge is a tricky thing
-* ○ The last hotel I stayed at had a neat trick to save water. (전에 내가 묵었던 호텔에서 물을 아끼는 아주 좋은 방법을 쓰더라고) ---> neat trick (깔끔한 트릭 ---> 쌈박한 아이디어)
-* ○ Maybe your eyes are just playing tricks on you. (아마도 당신 눈에 그렇게 보이는 것 같은데요) ---> play tricks on ~ (~에게 장난을 치다)
 * ##every day 				 난 매일매일 영어공부해.I study English every day.
 * everyday 				 everyday clothes/ everyday food /everyday life.
 * #all day; 하루 종일; I have studied english all day
-* ##세련 #고급 #일류		 pres·ti·gious, refined, sophisticated, polished, (informal) classy 
-* [out] an haute restaurant 고급 레스토랑
-* #고급 초콜렛; #fancy chocolate
-* #plush
-* #hip#
-* 고급 #레스토랑; #high-end restaurant
-* #advanced, #sophisticated, #up-to-date - 세련된 
-* #snazzy
-* 고급 버전도 있잖아; #upmarket version
-* 고급 호텔/레스토랑						 ‘a classy hotel / restaurant
-* 비평가들은 ‘햄릿’에서의 그의 연기를 극찬했다.The critics raved about his performance in ‘Hamlet'.
-* ##열변
-* 유용한 정보 한 가지					 a useful nugget of information
-* 석탄/치즈/나무 덩어리					 a #lump of coal / cheese / wood
-* #mass; was full of dark masses of clouds
-* 덩어리 안 지게 하는 비법; that is the secret to no #lumps
-* #cluster; it's got these clusters in it
-* #덩어리
-* 
 * #헷달 106
 * sporadic[spǝrǽdik] = irregular = discontinuous = disconnected = isolated = odd = random
 * 간헐적 공격/ 단식 / 다이어트 			 [ìntǝrmítənt] intermittent attack/fasting/diet
@@ -177,51 +100,6 @@
 * #throw a fit; #난리치다; = #throw a tantrum; #tantrum
 * #throw someone curveball; 갑자기 행동 바꾸거나 하는거
 * a #stone's throw away
-----------------
-* 1. We threw him a party. (파티 열다) 
-* Who's throwing the banquet? 
-* Who(m) are we throwing the party for? 
-* 
-* 2. Throw in the towel (포기하다) 
-* It's still too early to throw in the towel. 
-* 
-* 3. Throw one's money around (영향을 미치려고 돈을 쓰다) 
-* I'm sick of the rich people in this city trying to influence public policy by throwing their money around. 
-
-* 4. Throw a match (일부러 져주다) 
-* Suspicions were raised that he had thrown the match. 
-
-* 5. Throw a fit (발버둥치다, 발광하다) 
-* Throw a tantrum
-* You can't just throw a fit every time you don't get your way. 
-* 
-* 6. Throw up (토하다) 
-* He was throwing up in the street last time I saw him. 
-* 
-* 7. Throw out (버리다) 
-* You need to throw out some of these old clothes. 
-* 
-* 8. Throw caution to the wind (위험을 무릅쓰다) 
-* We threw caution to the wind and continued on into the desert. 
-* 
-* 9. Throw a curveball (의외적인 말이나 행동을 하다) 
-* He really threw us a curveball with that one. 
-* 
-* 10. A stone's throw away (돌 던지면 닿을 수 있는 거리, 가까운 곳) 
-* The subway station is just a stone's throw away! 
-* 
-* 11. #나무라다; #위선자 #throw rocks; don't throw rokcs if you live in a glass house
-* don't be such a #hypocrite; stop being such a hypocrite
-* it's #hypocritical to tell others
-* 
-* * 속답: Don't throw the baby out with the bathwater (안 좋은 것을 정리하면서 좋은 것까지 다 버리지 마라.) 
-
-* * I understand that you're frustrated, but you can't just shut down the whole business because of a couple of bad days! Don't throw the baby out with the bathwater! 
-
-* Bonus: 
-* This is a total #throwback to the 80s.
-* ##throw
-* 
 * = calm down, relax; 진정해, dude, chill out
 * 진정해 걱정할거 없거든. 					 Chill out!! Nothing to worry about. 
 * 좀 쉬었으면 							 I wish I could just chill out. 
@@ -246,15 +124,6 @@
 * #warning sign; should have been a #warning sign
 * #경고
 * #classic, #typical #quintessential #corny #cheesy
-* #고전책; #the classics
-* #classic; #전형적인; #classical; #고전적인; #전통적인; 
-* classic example, classical music
-* 전형적인 영국 음식을 먹어볼거에요 					 [kwìntəsénʃəl]
-* we are gonna try out the most quintessential stereotypically english dish
-* 진부한 표현 a #cliche
-* #진부한 이야기; #platitude
-* #Quintessential: 전형적인, 본질의 This is quintessential Beverly Hills. 
-* 진부하게 되다 become obsolete
 * ##canned(1. 미리 준비된, 2. #케케묵은 3. 진부한); canned joke
 * 그는 해고 당했어 			He got fired. He got the sack.= get #canned
 * #진부하다 #전형
@@ -270,7 +139,7 @@
 * 노래 틀다; put on; Bgm that I always put on
 * 옷을 입다; put on a hat
 * 내 방 영수증에 넣어주세요. Can you put that on my room bill?
-* *걔좀 바꿔줄래?		 Can I talk to her(예의), put on; can you put her on the phone?
+* 걔좀 바꿔줄래?		 Can I talk to her(예의), put on; can you put her on the phone?
 * #안전핀 뽑는다 								put out the safety pin
 * #안전벨트 맸니?						 Did you put your seat belt on?
 * #안전 장비; #safety gear
@@ -320,18 +189,6 @@
 * puffy: 맞거나 부상에 보통 쓰고 눈에는 puffy 많이 씀, swollen
 * 눈이 부었네. 		 		 ''pʌfi Your eyes are puffy. You got puffy eyes
 * #붓다
-* ~에 빠르게 대응하다 be #responsive to
-* reacting to ~
-* #respond to; how do women respond to him
-* 아무런 반응을 보이지 않았어; I didn’t #respond
-* 게이 탐지기가 반응하고 있어 				 My faggot dector is off the charts
-* 조치를 취하다: take actions/steps/#measures
-* #극단적인, #과감한 조치; #drastic action 
-* 과감하게 행동하다; #throw caution to the wind
-* 과감한 조치; #take the bold step of inviting
-* 대응대는 부분 #counterpart
-* *there is no exact English equivalent for the word
-* #조치 #대응 #반응
 * 1. ‘if in any degree’ ‘				어느 쪽인가 하면 무언가를 먼저 해야 한다면
 * ㆍIf anything, the destruction was greater than in 1547.
 * ‘어느 쪽인가 하면’이 적절하다. 비교급과 같이 쓰였다.
@@ -361,27 +218,7 @@
 * #대학살, #피바다; #bloodbath
 * The rabbit population was #decimated by the disease. 그 질병으로 토끼들이 떼죽음을 당했다.
 * ##학살
-* 특별한 날: special #occasion
-* 특별한 경험: #unusal experience
-* 특별한 나 #one of a kind
-  * 특별한 것; #x-factor; he’s not good looking but has this x-factor
-* bizarre 미국·영국 [bɪ|zɑ:(r)], #peculiar taste
-* anomaly; the many anomalies in the tax system; mental anomaly: 정신 이상
-* 세제상의 많은 변칙들
-* 엄청 엉뚱한 영상이에요 						 It’ just incredibly random
-* 기이한 상황/사건/이야기 			 [bɪ|zɑ:(r)] a bizarre situation / incident / story
-* 기이하구나 						I	 t's most peculiar [pikjúːljǝr]
-* [|ɑ:dəti]; The book deals with some of the #oddities of grammar and spelling.예문 발음듣기
-* 그 책은 문법과 철자에서 특이한 것들 몇 가지를 다루고 있다.
-* #unique, #unusal
-* 뭔가 이상해 보여 something seems off here
-  * #outlandish costumes/ideals
-* 신비로운 순간 #Jedi moment (스타워즈 시리즈에 나오는 중세기사와 비슷한 계급)
-* 전례없는 #unprecedented; this is an unprecendented change; [ʌn|presɪdentɪd]
-* #exceptional#; #뛰어난; #exceptional promotion
-* #전례가 없는; #unheard of; it's not unheard of for a one-night stand to turn into a relationship
-* 기분이 #오묘해 something #feels off
-* #특별 #신기 #이상 #기이 #특이 #전례 없는 #이례 #기이 #엉뚱 #신비
+
 * 이상하게 신기하면 #odd, #strange 부정적 느낌의 #intersting 멋있어서 신기하면 #crazy #awesome
 * 특이하고 흥미로워서 신기하면 interesting awesome
 * #no wonder ~: 이상한 일이 아니다

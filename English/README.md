@@ -117,6 +117,8 @@
 * 마젠타섹 https://m.blog.naver.com/PostList.nhn?blogId=dkfjsa
 * 영어교육정말어렵다 https://m.blog.naver.com/PostList.nhn?blogId=dgtongbeon
 * 채원과영어 https://m.blog.naver.com/PostList.nhn?blogId=learnwithchaewon
+* 올인원 https://m.blog.naver.com/PostList.nhn?blogId=allinoneedutech
+* 돌핀 https://m.blog.naver.com/PostList.nhn?blogId=frost9001
 * 한국번역연구소 https://blog.naver.com/ktri8888
 * The Red https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 -----------------------------------------------------------------------------

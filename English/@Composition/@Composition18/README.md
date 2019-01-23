@@ -1,27 +1,4 @@
 * #헷달 108
-* 단호한 태도를 취하다 take a #firm ##stand/attitude
-* ~에 항거하다: take a stand against; 
-* 주장하다					 He stood upon impeaching for President
-* 그 여자는 그 사람 의견을 지지해요.				 She stands up for his opinion.
-* #stand up for 1. 지지하다 2. 지키다
-* 넌 스스로 지킬줄 알아야 해			 You have to learn to stand up for yourself.
-* #두드러지다	#stand out
-* #stand out from the crowd; find a way to stand out from the rest of the crowd
-* #수도가 끊기다	stand for for #water off
-* #stand on; ~에 대한 입장은 어때요? #stand on; where do you stand on puppies?
-* #stand down; #사임하다; #stand down
-* 2. #사격 중지, #공격 #중지 #그만해 #가만 있어
-* #attack, #assault, #strike (at) - 공격하다 
-* #공격적인 #적극적인; #militant groups/leaders 
-* #stand up for; #옹호하다
-* #stand up to; #맞서다; stood up to the bullies
-* ##stand
-* ~의 험담하다 								Talk shit about
-* #backbiting; I don't want to hear backbiting
-* #gossip; gossip with; ~와 험담하다; gossip about; ~에 대해 험담하다 #common gossip
-* ☆I heard you were badmouthing me to the boss!
-* #talk smack = talk shit
-* #험담
 * write someone up: ~를 잘못된 행동에 대해 보고하다, be/get written up - I got written up because
 * #보고
 * ☆rat; rat them out snitch, drop a dime
@@ -32,24 +9,12 @@
 * #prevalent; #만연한
 * 'Be under someone's #thumb/control'
 * ~를 지배하다 						Don't let anyone take control of your life
-* 일반적인 견해죠 that’s the #prevailing opinion
-* 일반적으로; #as a rule = #usually
-* ##dominate feelings/the market/one's husband
-* 대체로 ~이다 #on the whole(#whole), 주어 + 동사
-* #대체로 #All in all, #across the board
-* #at large; #사회 전반(#전반) the society at large | the public at large
-* #지배하다 #일반적인 #대체적인 #만연한
 * 제가 승부욕이 좀 발동했어요 						I get a little competitive
 * #승부수; have/make/bet/show winning move
 * #승부욕
 * 웬 뒷북이야 							 Thanks for the history lesson
 * #beat a dead horse; #dead horse; I was only beating a dead horse
 * #뒷북 #뒷 북
-* #여전해; #same as always; #same old story/#stuff/#excuse
-* ☆#역시; #figures = #naturally; I knew it = #never disappoints
-* 역시: no wonder, as ever
-* as 형용사 as ever 						; still feeling as awesome as ever
-* ##역시 #여전히
 * #워너비 #wannabe; 자신의 개성까지 버리고 따라하는 사람 -> #goals; fashion goals, couple goals
 * = #role model; #모범
 * 좋은 본보기가 되어야 해			 Let’s set a good example for your children
@@ -91,7 +56,7 @@ steal something (from somebody or a place)) 인데요~~
 * #대기실; ante room 대기실 
 * #대기자 #웨이팅; put me on the #waiting list;  put me on #on standby
 #대기 만성형
-*병행: going side by side, parallelism, [pǽrǝlelìzəm] go abreast[side by side][ǝbrést], run parallel (with), carry out 《two things》 side by side 
+* 병행: going side by side, parallelism, [pǽrǝlelìzəm] go abreast[side by side][ǝbrést], run parallel (with), carry out 《two things》 side by side 
 * 공존: coexist
 * 그는 30개월과 18개월의 두 형기를 동시에 복역하도록 처해졌다.
 * He was imprisoned for two concurrent terms of 30 months and 18 months.
@@ -144,25 +109,6 @@ Cleveland Indians double down with Edwin Encarnacion..."
 연줄을 이용해서 목적을 달성하다
 ##string
 #vendetta(벤데라)
-#get back at; 복수할거야; i'll get back at you
-I think she just wanted to get back your good side; #잘보이려고 하다
-#get back to; i'll get back to you; 다시 연락할게
-#되갚음 #앙갚음하다; #get even with one(#even) = get one's #revenge on
-자기가 한 대로 받는 보복; #taste of your own medicine
-##revenge yourself on somebody / in revenge of/for / have[get] one's revenge on; 원한을 갚다
-revenge [ritǽlièit]retaliate, get back at A, get 목적어+(전치사)+(명사)
-**He was trying to get back at me. I'll get him for this.
-retaliate
-┈┈• ~ for an injury 상해에 대해 같은 수단으로 보복하다
-┈┈• ~ on 〔upon〕 one’s enemy 적에게 복수하다.
-눈에는 눈 이에는 이		An eye for an eye and a tooth for a tooth = #tit for tat
-#retaliate; 보복하다; against ~
-#square; we can square this
-#원한; #grudge
-you may #recall these #daggers
-☆#two wrongs don't make a right; 두 번 당했다고 해서 똑같이 되갚아도 되는 것은 아니다.
-☆I gave him a taste of his own medicine! (그 사람이 원래 썼던 방식으로 복수했다)
-##복수 #앙갚음 #보복
 for+숫자, during + 기간, while + 절/-ing(주어+동사 생략)
 #그동안 in the mean time/meanwhile; you cook dinner
 while 와이얼 -> 와열/읠 > 왈
@@ -210,25 +156,9 @@ be #liable/#responsible/#accountable for
 * ##글 ##작가 ##대필
 * 그렇게 좋지 않다고 생각할 수도 있다 			 Filipino English is #second par
 * ##par
-* overlap, duplication, repitition; There's a huge overlap between math and physics.
-* overlap, duplication, repetition, be overlapped, be duplicated, be repeated
-* 중첩: nested, v: be piled up, be heaped up, be repeated, n: reiteration
-* 중복된 말 #double meaning/#enterdre
-* overlap, duplication, repetition, be overlapped, be duplicated, be repeated
-* #중복 #중첩 ##겹침
 * complex, combination, mixed
 * #composite; [kəm|pɑ:zət]; #합성; a composite picture
 * ##복합
-* rural area = countryside
-* redneck 미국·영국 [|rednek] (모욕적으로 쓰여 교육 수준이 낮고 정치적으로 보수적인 미국의) 
-* 그 시골집은 바다가 보이는 전망이 멋졌다. 		 view (특히 아름다운 시골) 경관[전망]
-* 'kɑ:tɪdƷ The cottage had a delightful sea view.
-* 그것은 기분 좋은 시골 풍경이었다. 						 scene 풍경
-					 	 dɪ'laɪtfl It was a delightful rural scene.
-* 머리 없는 유령이 말을 타고 그 시골길에 나타난다. A headless rider haunts the country lanes.
-* ☆#촌놈; #bogan #redneck
-* ##시골
-* #헷달 107
 * It says ~. : ~라고 쓰여 있어요.
 * ☞It says “No smoking.” 
 * 여기 ‘금연’이라고 쓰여 있어요. 
@@ -263,68 +193,15 @@ be #liable/#responsible/#accountable for
 * ##influencce
 * My sister had a strong influence on my choice. 이럴땐 명사의 형태로 쓰였기 때문에 맞는 문장이에요..
 * You would influcence the choice. 
-* ☆멈춰서; I kind of #pause
-* #abort; 중단
-* ^^#stop; 동작의 멈춤, #quit; 끊다; quit school/exercise/smoking, 
-* suspend halt; (일시적) interruption, suspension (of), stop, halt, (formal) cease; (일시적으로) 
-* #idle
-* interrupt,; (정기적으로 해 오던 것을) discontinue; (회의·재판 등을) adjourn 
-* #put it on #pause
 * #leave off
-* #hiatus [haɪ|eɪtəs] be on hiatus
-* 금지; #ban, #prohibit, #block
-* #강경 대응 강경 #탄압 #crack down
-* 탄압받은; #downtrodden
-* #pause; 게임, 이야기, 행동; #make pause
-* #shut off; ~ has shut off water
-* A가 B를 정지시키다 B broought B to a #halt
-* 멈추지 않는 나 i'm #unstoppable; unstoppable me
-* 한 게임 정지; suspended one game
-* (부당 경쟁·노동 행위 등에 대한 행정 기관의) #정지 명령; #Cease and desist
-* 생산은 안전 점검이 실시되는 동안 중단되었다.
-* Production has been suspended while safety checks are carried out.
-* 게임을 중단시키다 							 they called the game
-* #pull the plug(#plug)
-* #공격 중지 									 stand down
-* 왕위 계승이 정체되었다 came to a #standstill
-* #정체; 다이어트 정체기에 빠졌어 #슬럼프		 plӕ‘toʊ I've hit a weight loss #plateau.
-* I think i'm in a slump
-* #중지 ##중단 #금지 #멈추다 #정지 #정체
 * annotation 미국식 [æ̀nətéiʃən]
 * #표기법; #notation
 * #comment ons
 * ##주석
-* get back together with: 재결합하다 
-* 섞다: #mix up = #jumble up; #뒤죽 박죽
-* 통합: #consolidate, #intregate
-* #get mixed up; I got my contact lenses mixed up
-* I got mixed up their names
-* fuse, fusion, nuclear fusion, amalgamation 미국식 [əmæ̀lɡəméiʃən], unite 미국·영국 [ju|naɪt]
-* come together. fuse together
-* #roll into; The two snowballs are rolled into one. 
-* 서로 다른 목소리들이 합쳐져서 비현실 different voices coming together into otherwordly sound
-* #결집하다; #rally
-* #뭉치다; #stick together; friends stick together
-* #tight; you're a little tight here
-* #모여봐 #gather round(#round)
-* #끌어 모으다 #attract young professional
-* 다시 합치다								 get back together
-* 두 개가 합쳐지려고 한다 				 two of them had fused together
-* 결속력 있는 집단; #tight-knit; we are a tight-knit family
-* 그 수프는 최고 열두 가지나 되는 여러 종류의 생선들을 ##섞어 만든 것이었다. [kən|kɑ:kt] The soup was concocted from up to a dozen different kinds of fish.ㄴ
-* #결합도; the degree of #coupling
-* ##섞다 #융합 #합치다 #통합 #합체 #합쳐지다 #재결합
-* #converge; Thousands of supporters converged on London for the rally.
-* #congregate; con(together)+greg(group); people began to congregate to hear his speech
-* ☆#get together; we are going to get together at my uncle's place
-* #rally around; #합치다
-* ##모이다
-* close #ranks; a hit can make the close ranks
-* #뭉치다 #결속
 * #alright -> #aight
 * no good: 소용, Not good: 좋지 않다.
 * ~먹잖아 You are good with (spicy food)
-* *which is the better one?
+* which is the better one?
 * which one do you recommend
 * 괜찮아요~ No worries, That’s ok None taken, I'm good, i'm alright, I'm ok, i'm cool
 * ~하는 것이 낫다; #better off; you're better off not knowing

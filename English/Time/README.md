@@ -1,4 +1,15 @@
 * 년대를 표기하려면 십 년 단위 년도 마지막에 s를 덧붙입니다. 80년대면 the 80s, 50년대면 the 50s처럼요. 읽을 때는 the eighties, the fifties라고 하죠. 한국말의 년대와 동일하게 10년 주기를 지칭합니다. 대개는 천 자리 단위까지 다 쓰지만 1900년대 이후처럼 우리와 가장 가까웠던 시기는 십 년도까지만 써도 무방해요. 하지만 2000년대는 천 자리까지 다 표기합니다. 70s는 1970년대, 30s는 1930년대를 의미해요. 앞에 1900년이 생략되었다는 의미로 아포스트로피 ('70s, '30s)가 붙기도 합니다. *  뒤에 s가 오기 전에 아포스트로피 (')를 붙이는 경우가 있는데 이는 틀린 표기법입니다~ 앞에 올 수는 있어도 ('60s), 뒤에 오지는 않습니다! (60's &lt;- X)
+	 * #start - #introduce - #launch - #kick off - #initiate
+	 * 아이폰은 스마트폰 유티쿼티 #시대에 #도입되었다. 				 #usher something in 
+	 * 'ʌʃə(r ju:b'íkwəti The iipone ushered in the era of smartphone ubiquity.
+	 * #동시대; #contemporary
+	 * #중세 시대; #medieval period = #Middle Ages
+	 * 그런 시대는 갔습니다; #those days are over
+	 * 도입; #impose; a new tax was imposed on fuel
+	 * #시대정신; #zeitgeist 미국·영국 [|zaɪtgaɪst]
+	 * #biblical times; #성서 시대
+	 * #전기 the #former part[half, period] (of) #후기; the latter part[half, period] (of)
+	 *    후기; #review
 * 현재; 목요일을 기준으로; as of thursday
 	* 시간, 기간, 정기적 일 등, 무언가가 정기적으로 돌아오는 (roll around) 경우에 쓸 수 있는 비격식 표현이에요.
   * 금요일이 올 때 쯤이면, 완전히 여행 준비가 되어 있을거야. ex) By the time Friday rolls around, I will be totally ready for the trip.
@@ -11,6 +22,12 @@
 	* 그런데 'Shortly'와 'Soon' 끼리도 의미의 차이가 있는데요, 'Shortly'는 '시간적으로 아주 짧은 시간'을 의미합니다. '몇초, 몇분, 길어야 몇 십분 정도'의 '곧' 이라는 의미 입니다. Soon'은 'Shortly' 보다는 긴 시간을 의미하며, 또한 그 상황이나 행위가 이루어지는 것이 막연하게 곧 이루어질것이다 라는 것을 의미합니다.
 		* : 입찰이 곧 시작될 것입니다. The bidding will commence shortly
 	* = 지금은 그 부분을 다루지 않도록 합시다. Let's leave that out for the moment. 2) for the moment 나 for now 는 [현재로썬, 일단은, 일단 지금은]을 의미하고 있어요.
+	* sooner or later, in the near future, #at some point(#point)
+	 * I'll see you #around/soon
+	 * 언제 조만간 한 번 이탈리 놀라가자 			 wanna travel to Italy sometime soon.
+	 * #머지않아; #by and by
+	 * #in the foreseeable future
+	 * ## 곧 # 언젠가 # 조만간
 * 해가 뜰 떄; WWHen the sun's coming up
 	* 해가 갑자기 사라진다면 어떻게 될까요? What would happen if our sun suddenly went out
 	* 햇빛이 많이 들어옵니다. we have a lot of ##light during the day

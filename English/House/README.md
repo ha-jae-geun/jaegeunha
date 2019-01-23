@@ -57,7 +57,12 @@
 * #포크는 두 번째 서랍에 있어요. 	The forks are in the second drawer. 	 
 * #삼지창	trident[|traɪdnt], three-pronged spear [prɔ:ŋ;prɑ:ŋ]
 * #이쑤시개	toothpick 미국·영국 [|tu:θpɪk] 
-* 
+* 빨래집게를 떨어뜨리다; drop a clothespin; 빨래를 널다; hang laundry
+* 옷걸이; (coat) hanger; hang up one's coat on the hanger
+* 머리빗; hairbrush; brush: 빗자루; 칫솔: toothbrush
+* 쓰레받기; Dustpam
+* 텀블러; Thermos 미국식 [ˈθɜːrməs]
+* 펜치: pliers; [-ərz]  영국식 [ˈplaɪəz]
 
 ## 집	#집돌이; I've become quite the home body. 	
 	* turf는 기본적으로 ‘잔디’를 뜻합니다. 그런데 여기서는 비유적으로 자신이 가장 편안함을 느끼거나 자신감있는 분야, 자신만의 근거지 등을 의미합니다.  You get out of here. This is my turf!
@@ -535,7 +540,9 @@
 * 이것저것 당장에 쓸모 없는 것들을 넣어두는 잡동사니 서랍을 junk drawer 라고 합니다.
 * polish는 광나게 닦는걸 뜻해요. 광나게 닦아놓은 걸 비유적으로 '정돈된', '세련된'이라는 뜻으로 쓴답니다. 반대격으로 볼 수 있는 표현이 gritty예요. 지저분하고 정돈 안 되고 불쾌한 현실을 사실적으로 보여주는 걸 gritty하다고 해요. TV 드라마를 묘사할 때도 많이 쓰는 표현인데 '왕좌의 게임'이나 '더 와이어' 같이 보기 불쾌하지만 현실을 잘 반영하고 사실적인 드라마를 gritty하다고 표현해요.
 	* 좀 사실적인 드라마 추천해주세요. [ex] Can you recommend me some gritty TV shows?
-
+ * #단정한 #neat, #tidy, #groomed
+ * 정리 정돈 i’m #straightening up = #arrange = #shelving goods
+ * 눈을 치우다; #plow; let's plow the road
 
 # 살다
 # 인생

@@ -1,29 +1,3 @@
- * 높은 사회적 신분의 상징 Exotic pets are the latest #status symbol. 
- * #포용 #관용; #inclusivity; 사회적 약자 받아들이는 것
- * #melting pot; #furnace 미국식 [|fɜ:rnɪs] #용광로; 다양한 인종과 문화가 어울러지는
- * #계급적으로; #hierachically
- * 사회적/정치적 계층[계급] 			 [|haɪərɑ:rki] the social/political hierarchy 
- * #상류층; ~ #society will be there	
- * #중산층 #자격 없는 소수 #middle class undeserving minority
- * #shade; 인종을 초월한 다양한 유형의 #노동자
- * Black, white, #latino, Asian, Native American, young, old, gay, #straight(양성), men, women, #folks with disabilities(장애)
- * #백성들; #subjects
- * #귀족aristocrat 미국식 [ə|rɪstəkrӕt] aristocratic 미국식 [ə|rɪstə|krӕtɪk]
- * #aristocrat, #noble, #patrician - 귀족 
- * #농부 #농민 #farmer 중세: #소작농: #peasant [pézənt]
- * #평민 #commoner
- * #난민 #refugees
- * 미국 #원주민 #native american
- * #노예 #하인 #slave #servant = #lackey
- * 노예로 만들다; #enslave
- * #유대 #유대인 #반유대주의; anti-semitic(#semitic)
- * #불법 #체류자 #undocumented
- *   #green card = #united states lawful permanent residency; 미국 체류 #영주권
- * #지위; I want a #position with more #responsibility
- * #간부; #brass; #cadet 미국·영국 [kə|det]
- * #계급
- * 
- * #헷달 81#
  * 이봐~ 그냥 #용서하고 잊어.					 Come on, forgive and forget.
  * 내가 #터무니없는 걸 요구하는 게 아니야.				 I'm not asking for the moon. 
  * 내가 패스트푸드를 먹는 건 정말 #드문 일이야. 	 It's only once in a blue moon I eat fast food.
@@ -57,23 +31,6 @@
  * 이 전쟁에서 양측 사이의 #불균형 		 the imbalance between the two sides in this war. 
  * 실력면에서 그녀는 학급 친구들과 #동등하다. She is(puts) on a par with her classmates in ability. 
  * 맞아, #소름끼쳐. 안그래? 					 'gӕstli I know, it's ghastly, isn't it? 
- * 소름끼쳐 		 It gives me the creeps. It gives me the chills. it gave me goosbumps
- * 털 #곤두서게 하다 					 That sound makes my hair stand on end
- * 김연아 퍼포먼스는 전율 돋게해 					 sent shivers down my spine
- * ##소름 #닭살 #전율
- * #creepy; how creepy it is?, croopy, #spooky; #spooked 겁먹은
- * 오싹하게 하다				 creep/freak someone out; you creep me out
- * make your flesh creep = make a person's flesh creep[crawl] 
- * #등골이 오싹해 THe movie sent #chills down my spine(#spine)
- * #간 떨어질 뻔행써 You almost game me a #heart attack
- * 귀신: #wight
- * 귀신이 나올 것 같은 고가(古家) 			 		 a spooky old house
- * 머리 없는 유령이 말을 타고 그 시골길에 나타난다. A headless rider haunts the country lanes.
- * 오싹한 귀신 이야기				 a creepy ghost story예문 발음듣기
- * #섬뜩; gruesome 미국·영국 [|gru:səm]; gruesome episode
- * #귀신 | #으스스한 #오싹한 #섬뜩
- * 미신; be #supersitious, #believe in supersitious
- * an old #wive's tale
  * 1. #부엌에 #우유 쏟으면 귀신 들어온다.
  * 2. #bloody mary(#mary)
  * 3. #소금 쏟는다.
@@ -88,26 +45,6 @@
  * Don't throw your hair outside > If birds make a nest with your hair > You'll get a headache.
  * Don't put your purse on the floor > You'll lose money.
  * #미신 #superstition
- * #book it: 째다
- * #달아나다 #탈주 #elope; elope with; = #run away; = #take/run to the #hills = #defect
- * 탈주자; #defector
- * #get off; i'm getting off with you
- * #run off with someone; 눈맞아서 도망가다; 
- * #탈출 #breakout
- * #go on the run
- * 너 날 #쌩까고 #도망가더라.. 죽고 싶냐?	 You blew me off and ran/get away... you want to die??
- * ☆#쌩까다 #ghost (on) someone = give someone the #cold shoulder / #deep freeze
- * 나는 좋아하는 사람에게서 자꾸 도망쳐 			 I keep running away from my crush
- * #탈주 중이다; on the loose(#loose)
- * 개가 #달아났어요; my dog got #loose
- * 꽁무니빼지마 								 Don’t back out now.
- * #turn tail(#tail)
- * 대피하다; #evacuate, 대피 #evacuation #대피소 #shelter
- * #피난 [|refju|dƷi:] take[seek] refuge, take[find] shelter, retire to a safe place, get under cover, evacuate
- * ##shelter; take shelter (in); 피하다, take shelter from; ~로부터 보호하다
- * #먹튀; #dine and dash
- * #skirt-chaser; 여자 꽁무니 졸졸 ᄄᆞ라다니는 사람; 
- * #도망 #꽁무니 #대피
  * 야 내가 #표정 관리 얼마나 애썼는데.. 한다면.		 I tried my best to keep a straight face.
  * 뭐한거지?								 What was that for?
  * #진범은 아직 잡히지 않았어요. 					 The real criminal is still at large.
@@ -132,45 +69,10 @@
  * #누락
  * #farther; it's farther than I thought
  * 우리는 떨어질 수 없어 							 we can't stay apart
- * 거리감 느껴지다 				 distant from you, distancing yourself from me: 멀어지다
- * 그녀와 거리를 두세요 give her some space
- * #가까운 거리; a #stone's #throw away (from); it's a stone's throw away
- * #adjacent #close #adjoining #neighboring #near
- * #가까이; #up close
- * 도로와는 충분히 #거리를 두시오. 					 Keep well back from the road.
- * #비행기로 한시간 거리에 있다 ; it's an hour #flight from Seoul
- * 그에게서 #떨어져. 그는 너에게 좋을거 하나 없어. 	 Keep away from him. He's no good for you.
- * 거리가 멀다 						 far cry(from); far from scholastic guy
- * 떨어져 있는 									 on the side
- * #distant, #far-off, #faraway - 멀리 떨어진 
- * #estranged; he is estranged from his wife
- * 떨어진 줄 몰랐어.								 I didn't know it dropped.
- * 저것을 멀리 둬 					 Keep something/someone away from my room
- * 걸어갈 거리에 있는 ##within walking distance
- * #떨어뜨리다 #퐁당 #plop; mustard plops all over my shirt
- * #knock off; I knocked the phone off the table by accident. (실수로 전화기를 테이블에서 떨어트렸어요)
- * i'm a #butterfingers
- * #망원경; #kaleidoscope; [kə|laɪdəskoʊp of life; 변화무쌍한 삶
- * #멀리 보는 #far-sighted <> #근시안적인; #short-sighted
- * #벗어난; far off
  * 멀리 못간다; #can only go so far; you can only go so far by lying about ~
  * #추락; 
- * 대통령의 지지도가 10% 대로 추락했다
- * The president's approval rating has fallen into the tens in percentage. 
- * 그는 추락할 대로 추락한 자존심을 회복하기 위해 갖은 노력을 다했다
- * He did everything he could to regain his self-respect, which had fallen as low as it could go. 
- * 이번 사건으로 국가 신임도가 추락했다 The nation's credibility has dropped because of this incident. 
- * 이번 사건으로 국가 신임도가 추락했다 This incident has damaged the country's credibility[reputation]. 
- * 그 일로 그의 권위는 바닥까지 추락했다 His authority has hit rock bottom since the incident. 아직 멀었어? Are we there yet/ are they here yet?
+ since the incident. 아직 멀었어? Are we there yet/ are they here yet?
  * #멀다 ##거리 #떨어지다 #멀리
- * 많은 고용주들은 구직자들의 사진을 보는 것을 #요구했다. 
- * 'ӕplɪkənt Many employees insist on seeing a photo of job applicant.
- * 요구가 많다: #demanding; 요구 많은 사람 demanding 사람ㄴ
- * #요구사항; #the claims postulated / #requirement
- * #요구서; [rèkwǝzíʃən] #requisition
- * #요청 #call for = #put in for
- * #application, #request, #claim - 요청, 신청 
- * #의뢰; She has been #commissioned to write a new national anthem. 
  * 현실을 #직시할 #때이다.		 it's about/high time …을 해야 할 때이다[(곧) …을 해야 할 것 같다] 
  * It's high time you faced reality.
  * ##end
@@ -206,13 +108,6 @@
  * 회사가 보험 판매 분야로 새로 #진출했다. 		 The company branched out into selling insurance.
  * #branch
  * 네 친구 중 한명이랑 #주선해줘				 Fix me up with one of your friends.
- * 그의 소득은 연간 30만 파운드에 달한다고 한다 			 (합계가) …에 이르다[달하다]
- * His earnings are said to amount to £300000 per annum
- * ~에 #이르기까지; #down to
- * 합계가 ~가 되다; #add up to = #amout to = #In total; the numbers add upp to exactly 100
- * #aggregate; #on aggregate; they won 4-2 on aggregate
- * #gross; who had the lowest total gross in ~
- * #합계 #이르다
  * 그들은 #튀는 걸 좋아하지 않아요. 					 They don't like to stand out.
  * 농부들에 대한 정부 보조금은 내년까지 단계적으로 #폐지될 것이다.
  * səb'saɪd Subsidies to farmers will be phased out by next year.
@@ -252,13 +147,7 @@
  * 음식 #모형같이 생겼어 							 it looks like plastic food
  * 에펠탑 모형						 [|replɪkə] a replica of the Eiffel tower
  * ##복사 #복제 #모형
- * 
- * ☆이 지역에서 흡연을 자제해줘 				 Please refrain from smoking in this area.
- * 자제하지 않다; #let oneself go
- * 자제력을 잃다; #get carried away
- * 자제력을 가져가다; you take all my inhibitions
- * #자제
- * #헷달 77#
+
  * 걔 사정 좀 #봐줘. 너무 #다그치지 말고 말이야.slӕk 느슨한, 한가 You have to cut him some slack.
  * 걔 그냥 #내버려 둬. 승진 실패했거든.
  * prə1moʊʃn Cut him some slack—he failed to get a promotion.
@@ -278,9 +167,6 @@
  * 왼쪽으로 턴하고 직진해!/ #알았어~ I've got you 1gɑ:tʃə Turn left and go straight! Gotcha. 
  * 알았어(반어) 										 Fine~
  * #알았어
- * 성수기 때는 엄청나게 붐빕니다.		 It gets extremely crowded during the peak season.
- * #비수기; #off-peak
- * #성수기
  * #view, #sight
  * #on sight; #보자마자; shit down on sight
  * 높은 곳에서 내려다보는 전망을 갖다; have a #bird’s eye view
@@ -309,28 +195,12 @@
  * 저 내일 #월차쓸게요. 					 	 I am off (afternoon) tomorrow 
  * 그 기차는 터널을 통과했어 				 The train passed through the tunnel.
  * 그 산은 #눈으로 #뒤덥혀있어. 				 The mountain is covered with snow.
- * #take part in = #on board = #go in for = #take pleasue in
- * #on board from the get go; #from the get go: 시작
- * 너는 이 이벤트에 #참여하기 앞서서 도착해야 해.
- * You should arrive here ahead of time to take part in the event.
- * 아마도 조브리스트는 기자 회견에 참가할 것이다. perhaps Zobrist will be on hand for a news conference
  * #참가 #참여
  * can you join us, Why don't you join us
  * ##join
  * 친구들은 다 가버리고 나 #혼자 #남겨졌다The friends were gone, and I was left out in the cold.
  * 한번쯤은 어디론가 여행가고 싶다.	 Once in a while. I want to take a trip to somewhere.
  * = #occasionally = #sometimes
- * #start - #introduce - #launch - #kick off - #initiate
- * 아이폰은 스마트폰 유티쿼티 #시대에 #도입되었다. 				 #usher something in 
- * 'ʌʃə(r ju:b'íkwəti The iipone ushered in the era of smartphone ubiquity.
- * #동시대; #contemporary
- * #중세 시대; #medieval period = #Middle Ages
- * 그런 시대는 갔습니다; #those days are over
- * 도입; #impose; a new tax was imposed on fuel
- * #시대정신; #zeitgeist 미국·영국 [|zaɪtgaɪst]
- * #biblical times; #성서 시대
- * #전기 the #former part[half, period] (of) #후기; the latter part[half, period] (of)
- *    후기; #review
  * 우리가 그 명단을 네 명의 후보까지로 #줄였다. 	 We have narrowed down the list to four candidates.
  * 그녀는 초콜릿을 매우 드물게 한 잔씩 #즐긴다. 	 ɪn'dʌldƷ Only rarely will she indulge in chocolate
  * 그녀는 직장에서 온갖 종류의 사람들을 #상대하는 데 익숙해 있다.
@@ -367,48 +237,7 @@
  * 그는 백수다 							 	 He is between jobs
  * 군대 가는 것은 의무다 			 It's mandatory for all korean men to go to the Army
  * #백수
- * #break, #crunch, #smash, #destroy, #ruin, #demolish - 파괴하다 
- * #vandalize; uncle's car vandalized
- * #실패작, 먹튀 						 bʌst 부수다, 강등 시키다 bust/flop
- * 실패를 방지하다; #prevvent another failure
- * 폐허 #devastation = be #ruined
- * #결함, 손상된; #belighted = #defective = #damaged = #faulty
- * #성격적 #결함; #have feet of clay(#clay) for a strong man = have a defect of character
- * #결함; #glitch; flaw, fault, defect; (제도 등의) deficiency
- * #impair; 손상시키다
- * 그 #지진으로 마을들 전체가 완전히 파괴되어 버렸다.
- * Whole villages were wiped out by the earthquake.
- * #강진이었나요? was the earthquake strong
- * #seismic waves; #지진파
- * #여진; #aftershock
- * #진앙; #epicenter
- * #규모; #magnitude
- * #충격파; #shcok wave
- * #지진; #temblor
- * #작은 지진; #tremor
- * 건물의 동쪽 부분 전체가 폭격으로 파괴되었다
- * The entire east wing of the building was destroyed[demolished] by the bombing.
- * 그 지역은 지난 10년 동안 분리주의자들과 정부군 간의 전투로 파괴되었다 			‘rӕvɪdƷ]
- * The region has been ravaged[devastated] by 10 years of fighting between separatist and government forces.
- * 배가 폭풍우로 파괴되어 우리는 어느 섬에 #고립되었다
- * Our ship was wrecked in a storm and we were marooned on an island.
- * be out of #isolation, live in isolation, economic isolation
- * #leave someone #high and dry
- * #disruption in …의 혼란, environmental disruption 환경 파괴
- * #demolition | #대규모 파괴 mass #destruction
- * #붕괴; #collapse; #땅이 가라앉다; the ground was collapsed
- * #격추; #shoot down; shoot somebody/something down 
- * destroy/demolish 원래는 '허물다, 망가뜨리다'라는 뜻으로, '파괴하다'의 가장 일반적인 표현
- * ravage/devastate 폭력적인 약탈 또는 침식 등에 의한 심한 파괴를 뜻하는 말
- * wreck 보통 배나 기차 등의 탈 것이 파괴되었을 때 주로 쓰는 표현. 사고나 날씨에 의한 파괴 또는 
- * 비유적으로 인간관계를 망쳤다고 할 때도 이 표현을 쓸 수 있다.
- * #pull down = #tear down = #demolish = #destroy
- * 산산조각: crash and burn
- * #가루가 되다, #바스라지다; #crumble down
- * (신체를) #훼손하다; #mutilate
- * #화면 #스크린이 부서졌어 #산산조각 the screen is #shattered
- * 화면이 #흐리다; the screen is #fuzzy
- * #파편: #shrapnel
+ 
  * 그 #성추문 사건은 결국 그의 몰락을 가져왔다.The sex scandal finally led to his #downfall.
  * #sexual exploitation
  * #외설적인 행동; #indecent conduct

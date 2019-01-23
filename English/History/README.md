@@ -8,46 +8,54 @@
 * 한국은 일본의 식민 지배로부터 벗어나게 되었습니다; Korea was freed from Japanese control
 
 # 왕
-* 아직 네덜란드, 덴마크, 영국, 태국, 스웨덴, 일본 등 많은 국가들이 왕이 국가원수인 입헌군주제를 이끌어가고 있으므로, 이 표현을 외워두면 유용하겠죠?!
-	* 에드워드 왕은 30년 동안 왕위에 있었다. King Edward was on the throne for three decades.
-
-## 캄비베스 2세
-* 술을 많이 마시면 눈도 흐려지고 어지러워진다라고 간언한 신하의 아들을 활로 심장을 꿰뚫음
-
-## 은나라 주왕
-* 기원전 10세기 중국
-* 주지 육림
-* 포락지형
-
-## 연산군
-* 폐비 윤씨의 보복
-	* 폐비 윤씨에게 사약을 전달했던 신하, 이세좌가 술자리에서 연산군의 곤룡포 위에 술을 얹고 유배
-
-
-
-* 그는 부족을 개화시키려고 노력했다; he tried to civilize the tribe	
-* 13세기에 하나의 부족으로 시작했다; they began as a tribe in the 13th century
-* 고대 유적을 발굴하다; excavate ancient ruin [ˈekskəveɪt]
-* 위인전기는 불태워버려; burn you biographies
-
-# Greece
-## Why did Greece develop trade?
-* Wheat and rice did not grow because of the rain.
-* Olive and grapes are their only product.
-  - 올리브유는 썩지 않아 환금성이 높았다. Olive oil did not decay. That's why it ensured cashability
-
-## Sophist, Socrates
-* 플라톤이 세운 학교의 이름은 아카데미아다; The name of the school that Plato built was
-* 소피스트는 유료, 소크라테스는 무료로 사람들에게 말을 가르쳤다. Sophists paid, and Socrates taught people to talk for free.
-
-## Greek mythology
-* 인간의 물음에 대한 신의 대답을 신탁이라고 한다 God's answer to human question is called trust.
-
-## Athens
-* 기원전 461년, 페르시아 전쟁 이후 아테네는 성벽을 쌓기 시작한다. In 461 BC, after the Persian War, Athens began to build walls.
-* 중장 보병끼리의 싸움은 항상 우측으로 이동한다. The battle between the chief infantrymen always moves to the right.
-
-# Italy
-
-## Florence
-* 피레우스 항구는 현재 유럽에서 승객이 제일 많은 항구다 Piraeus Port is currently the busiest port in Europe.
+* #고대; #antiquity 미국·영국 [ӕn|tɪkwəti]; The statue was brought to Rome in antiquity
+ * #거푸집; #Mould
+ * #왕 #군주 #monarch
+ * #monarchy - 군주제
+ * #폐하; #your majesty
+ * #관대한 왕; what a #mighty generous king you are
+ * #왕족; #sheik; #아랍어#; ~ #royalty
+ * 왕의 신하: courtier
+ * #내시; #eunuch
+ * 영국의 #왕실 #british #monarchs
+ * 이 혈통에서 나왔다 all british monarches have #descended from this #Line
+ * #왕위 #throne; #crown; 비유적 표현으로 왕위를 표현하기도 함
+ * 왕위 계승 The Royal line of succesion
+ * #Inherit something; died before inheriting the #throne
+ * took over the line of succession
+ * #대관식: #coronation
+ * #왕위 #찬탈자 [juːsə́r] #usurper
+ * 통치자의 배우자; #consort
+ * #후계자 #heir
+ * #물러나다 #퇴위하다 #abdicate; the throne 
+ * #pull back
+ * 퇴위시키다; #dethrone 미국식 [|di:|θroʊn] = #depose
+ * #축출; #oust 미국·영국 [aʊst]
+ * [타동사][VN] ~ sb (from sth/as sth) (일자리・권좌에서) 몰아내다[쫓아내다/축출하다]
+ * He was ousted as chairman. 그는 의장[회장] 자리에서 쫓겨났다.
+ * the president's ouster by the military 군부에 의한 대통령 축출
+ * #사임하다; #stand down
+ * #그만 두다; #step aside
+ * #통치 in/during the reign of Charles II예문 발음듣기
+ * 지배하다, #통치기간; #reign; in the reign of ~
+ * #govern; which is governed by ~
+ * #dominion; 통치;
+ * #왕권; #strengthen #royal authority
+ * #기사단 #결사 #order
+ * #기사도적인 사람; #courtly love
+ * #무기
+ * #무기고; #arsenal, #armoury, #arms depot - 무기고 
+ * #무장; #armed, armed, #carrying weapons, #equipped - 무기를 소지한 
+ * #militarized capital
+ * #패드; #well-padded
+ * #비장의 무기; 비장의무기 have something up one's sleeve
+ * #군비; #arms race
+ * #장비; #armament; the US is a leading seller of armaments
+ * #창 #창기병 #창병기; #pike; #마상 창 시합; #joust
+ * #철퇴; #mace
+ * #철강 산업; #steel industry = #metal tariffs
+ * #활 #화살; #시위에 걸다; #nock; 궁술 무기 만드는 사람: #artillator
+ * #갑옷; 목 가리개 갑옷; #gorget
+ * #엄호하라; #cover the king!
+ * #공작; #duke is desirous of meeting you
+ * #고대 ##왕 #왕조 'daɪnəsti dynasty

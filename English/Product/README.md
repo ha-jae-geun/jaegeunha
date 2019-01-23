@@ -1,6 +1,7 @@
 # 시장
 * big-box retailer, superstore, megastore, supercenter 등으로 불리기도 하는데요, 저가로 많은 양의 물건을 판매하는 대형 할인 매장을 의미합니다. 대용량으로 제품을 팔다보니 제품 상자가 큰 편이기 때문에 붙여진 이름이겠죠. 미국의 경우로 보면 Wal-Mart, Target, Kmart 등이 그 예입니다. 
 	* 대형할인점은 전국적인 체인점을 갖추고 있다. The big-box retailer has a nation-wide chain of stores.
+* #잡화점; #general store
 * swap meet: 특정 종류의 ㅁㄹ건들을 가진 사람들이 물건들을 바꿀 수 이쓴 장터; 차의 부품, 액션 피규어, 만화책
 * flea market; 벼룩시장
 * thrift store; 중고 상품을 기부 받아 그것들을 판매한 수익을 다른 곳에 기부하는 상점
@@ -45,6 +46,26 @@
 * 손해 볼 수 없어요; I can't incur a loss; I can't take a loss
 * 원하는 대로 골라; Take your pick
 * 무료로 해주다; do something for free; complimentary, for free, on the house
+
+# 팔다
+* #on sale: 일반적인 판매; #for sale: 세일
+ * 판매 안해요 								 That's out of circulation.
+ * #oversell yourself #undersell
+ * 그 책 #불티나게 #팔리고 있어요.			 The book is selling like hotcakes these days.
+ * ~팔아요? Do you sell -> Do you #carry ~?
+ * ‘#팔다 					 잘 팔리는 과자: high selling confectionary item
+ * 누군가에게 필요 없는 물건을 팔다; #sell ice to #Eskimos; 물건을 팔게끔 설득하다
+ * 판매하다; we don't carry that magazine
+ * 최고로 잘팔리는 상품 #best selling things
+ * #팔아 치우다; #sell off; lie a slave
+ * #선전 #판매 ##sale
+ * be #sold on; you're not sold on you; #확신
+ * #sell off; #팔아 치우다; #sell off; lie a slave
+ * #sell out; #배신하다; you didn't try to sell us out;
+ * 팔아치두아; sell this place out to the Saviors
+ * #팔아먹다; sold someone out; #sold out
+ * #sold out: #매진
+ * you #sold me; 나를 #설득했어
 
 # 브랜드
 * 브랜드 확장; #brand stretching = #brand extension

@@ -11,16 +11,6 @@
 * 상관없어요 						it doesn't matter, Suits me fine.
 * 중요해 it matters
 * ##mater
-* #전인 교육 a $well-rounded(#round) education
-* #약실에 #탄환은 들었는지 #안전장치는 풀었는지 확인해 탄환: #Round
-* Make sure you got a #round in the #chamber and your safety off
-* 큰 박수 부탁드리겠습니다. Please give a warm #Round of applause
-* #반올림 #rounding numbers
-* #Round up; 찾아 모으다; me and the lads rounded up all the known thieves
-* #round up #나누어주다; you can round us up some water
-* #round out; 완성하다; round out your college applicance?
-* #round off; #마무리 짓다; round something off with something
-* ##Round
 * 부끄럽다 ^^get #embarrassed | #ashamed 잘 안씀(나쁜 실수를 후회할 때)
 * 실망했다 you should be ashamed of yourself
 * #go off the #grid; 격자무늬의; 통신, 전기 같은거 잘 안되는 자연 I want to live off the grid
@@ -127,16 +117,6 @@
 * 점수; on a scale of 1 to 100
 * #scale up <> #scale down
 * ##scale
-* #beat; 통제; beat the other women
-* #beat; #연타 #hit; 일반적 #spank; #체벌 #slap; 뺨, 손바닥; he slapped me on my back
-* #패배시키다 승자 + #defeat; 싸움, 전쟁 #beat; 득점; 경기, 시합;, 선거(vote) + 패자
-* 몰라 			 scratch my head, I have no clue. #Beats me. Search me Don't ask me.
-* #beating information out of someone; 때려 죽어도 몰라
-* #beat the #crowd; 사람이 많아지기 전에 잽싸게 해놓기
-* ~를 패다 #beat the shit out of something
-* 너무 자책하지마!! 		 Don't kick yourself., beat oneself up; beat himself up 
-* 불리함을 극복하다; #odds; 극복하다; #beat the odds
-* ##beat
 * #솔직히 말해라 					 I'll #level with you. 솔직히 말할게 #Come clean
 * ~면에서 in terms of, 이러한 점에서: in this sense. on every level(#level)
 * ##level
@@ -177,27 +157,6 @@
 * 상처를 잘 받음; #thin #skin;(<>#thick skin; 무덤덤); she has av ery thin skin
 * #spread oneself thin; 한꺼번에 이것저것 하려다가 결국은 다 못하게 되는 것
 * ###thin
-* #헷달 124
-* #금욕 #stoicism 미국식 [|stoʊɪsɪzəm] 
-* [ǝsétik] ##ascetic <> [dísǝlùːt] ##dissolute; #방종한
-* #간섭주의 interventionism [|ɪntər|venʃənɪzəm] 정부의 자국 경제에 대한・다른 나라 내정에 관한
-* #인도주의 #humanitarian 미국식 [hju:|mӕnɪ|teriən]; humanitarian issues
-* #국제 자본주의 #global #capitalism
-* #다문화주의 #multiculturalism
-* #극단주의자; left-wing/right-wing/political/religious #extremists
-* #우익 언론; ☆악마로 묘사하다; He was #demonized by the #right-wing press. 
-* #좌익/#우익/정치적/종교적 극단주의자
-* #행동주의; #activism
-* 상당한 주의; #due diligence 
-* #물질만능주의; #materialism
-* #최소주의; #Minimalist
-* #attention span; #주의 지속 기간
-* ##주의
-* castoff clothing #벗어 던진 옷, 헌옷; a castoff mistress 버림받은 #첩
-* ##castoff
-* 보다; #cast your eyes to ~
-* 주문을 걸다 #cast a #spell
-* ##cast
 * [#전복시키다]
 * 그 대통령은 군사 쿠데타로 #타도당했다.		The president was overthrown in a military coup.
 * #독재 정권을 무너뜨리다 overthrow a dictatorship 단어장추가
@@ -257,13 +216,6 @@
 * #flip through; tv 채널을 돌려보다; i'm just flipping through channel
 * #flipper;#dhflqkf
 * ##flip
-* ‘젊은 세대는 스마트폰에 #붙어산다. 	 The younger generation are glued to their smartphones
-* #달라 붙어있다 #glue oneself to ~
-* #붙다; #adhere to; that glue doesn't adhere to the wall 2. 충실히 지키다
-* #붙들다; #catch hold of; #hold
-* #부착; #accretion
-* #접착 스티커; #미끄럼방지용 스티커; [ædhíːsiv, -ziv] #adhesive ducks
-* #순간 접착제; #super glue
 * 세대 차이 GENERATION GAP, 젊은 세대 the younger generation
 * ☆내 세대 전이야; 내 세대 전 일이에요. Their heyday was #before my time
 * ##세대
@@ -308,42 +260,10 @@
 * (사람이 같은 일을 너무 오래 해서) 생산성이 떨어지는[맥이 빠지는]
 * After ten years in the job, she felt stale and needed a change.예문 발음듣기
 * ##stale
-* #abduction; [ӕb|dʌkt] be abducted, will be taken
-* [명사] 유괴범, 납치범									abductor 
-* 두 명의 사업가가 테러범들에게 납치되었다. Two businessmen have been kidnapped by terrorists.
-* #몸값 요구; no #ransome notes
-* #실종; #missing person
-* ##유괴 ##납치
-* 개미 허리	wɑ:sp: 말벌 wasp waist
 * ##wasp
-* 1. (美 주로 seed) (특히 英 ) (일부 과일의) 씨 an apple/orange pip예문 발음듣기
-* 2. [pl.] the pips (구식 英) (라디오에서 시보를 알리는) ‘삐' 하는 소리
-* 3. (美) (주사위 등에 새겨진) 점
-* get the pip 화내다, 기분이 나빠지다
-* Martin got the pip after having an argument with his girlfriend.예문 발음듣기
-* have the pip 화가 나 있다, 기분이 나쁘다
-* She had the pip when he said those bad things.예문 발음듣기
-* pip at the post 막판에 추월하여 이기다(=overtake and defeat at the very end).
-* give a person the pip
-* I didn't meant to give you the pip.예문 발음듣기
-* 당신을 화나게 하려고 했던 것이 아니었어요.
-* ##pip
 * 1. 머리는 좋으나 세상물정을 모르는; 꺼벙	 				 nerdy, book-smart
 * 2. 공부벌레다 He is such a nerd
 * ##nerd
-* #turn, #rotate, #revolve, #spin, #circle
-* 문의 손잡이를 돌리다 turn the handle of the door 예문 발음듣기
-* 팽이를 돌리다 spin a top 
-* 빙글빙글 돌아가는 불빛들을 바라보며; as I watched the lights #spin around
-* #화살표 방향으로 가시오 Please follow this arrow
-* 노브를 시계 반대 방향으로 돌려 볼륨을 줄인다.
-* I rotate the plunger shaft counterclockwise to decrease the volume.듣기 출처:능률교육
-* #나사를 #시계 방향으로 돌리면 장력이 증가합니다. Turning screw clockwise will increase tension.
-* 주의를 돌리다 #divert one’s attention from
-* ##spin; spin something off; ~을 (새 회사로) 분리하다
-* spin off (from something; #파생시키다; products spinning off from favourite books
-* #spin; The TV comedy series is a spin-off of the original movi
-* #돌다 ##돌리다
 * silhouette 미국·영국 [|sɪlu|et] e silhouette of chimneys and towers
 * #실루엣 #윤곽
 * strike/touch a chord (with somebody) (~의) 심금을 울리다
@@ -385,10 +305,6 @@
 * #헷달 122
 * supply depot
 * supplies; office supplies: A4용지 같은 것 > #stationery(문구류)
-* ##supply
-* #순회 공연 go on #tour = get a tour(2. 구경하다)
-* 홍보 투어; #press tour
-* #투어; The band is #on tour in France. 그 밴드는 프랑스에서 순회공연 중이다.
 * 사람을 여행 보내주다 take 사람 on a #tour; we could take him on a tour
 * ##tour
 * 1. 도전적으로 보인다 2. 몸에 나쁠 것 같다 3. 중독될 정도로 맛있다
