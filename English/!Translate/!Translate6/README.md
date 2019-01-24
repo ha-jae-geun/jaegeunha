@@ -1,3 +1,13 @@
+# "I find it hard to...." -- 원어민이 자주 쓰는 표현을 배워보자
+* 면 년 전에 프라하에 있었을 때, 현지인들과 친해지기 어렵더라고요
+  * When i was (staying) in prague a few years ago, i found it difficult to socialize with the locals
+* 그녀의 새 앨범에 대해서 실망한 사람들이 많은 것 같은데 난 신기하고 재밌더라고, 다르지만 새롭잖아. 아티스트들이 다른 시도를 하고 다른 사운드를 탐험하는게 난 좋더라고
+  * A lot of people seem to be upset about her new albums but i find it really interesting and fun because it's different but it's new and i appreciate it when artist try different things and explore different sounds
+
+* I find it / I found it - 시제에 대한 추가 설명 :
+두 번 째 예문의 경우, 음악 앨범을 듣고 받은 인상, 느낀점이 현재까지도 이어지고 있는 경우 "I find it interesting and fun.." 이라고 할 수가 있고 최초로 들었을 당시에 받았던 인상이나 느낀점을 말하는거라면 "I found it interesting and fun"이라고 할 수 있습니다 - 즉, 현재도 발견되고 있는 인상/느낀점을 강조해서 얘기를 하는지, 혹은, 최초 경험했을 때 받았던 인상/느낀점을 얘기하는지에 따라 구분을 해서 사용할 수 있습니다.
+항상, 반드시 구분을 해야 하는 것은 아니고 그때그때 상황에 따라 더 강조하고 싶은 뉘앙스가 있을 때만 구분해도 됩니다.﻿
+
 # [ LESSON - 26 ] - 시간표현 PART 03
 * "저는 1주일에 적어도 3번은 헬스장에 가서 운동을 해요.  
   * I go to the gym at least 3 times a week

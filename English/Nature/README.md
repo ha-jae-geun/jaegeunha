@@ -43,6 +43,7 @@
 	* 덩굴에 넘어지는게 더 재미없어; What's boring is me tripping over your vines everyday
 	* pollinate = 수분시키다 pollination = 수분 pollinator = 꽃가루 매개자 pollen = 꽃가루, 화분
 	* 식물으 ㄹ잘 키우다ㅏ; have a green thumb
+	* 꽃을 꺽는 것은 매우 쉽습니다. | It ' s so easy to pick a flower . 듣기
 * 기후 변화에 보다 잘 견디는 식물; be more resilient to climate change
 * 오염시키다; contaminate; 곰팡이, 박테리아, 세균 등에 오염; a can of soup contaminated with this kind of mold p
 	* ollute: 불순물의 혼합, 직접적인 접촉, 일반적인 여러 원인에 의한 오염; 

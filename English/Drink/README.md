@@ -28,6 +28,7 @@
   ---------
   * 「술집」 ##술집 liquor(독한 증류주) líkǝr
 * happy hour 는 주로 술집에서 술이나 음식 등을 할인된 가격으로 파는 시간을 의미합니다. 주로 사람들이 붐비기 전인 오후 4-6시 정도에 happy hour 가 많아요. 한국에서도 [6시 전에 입장하시는 손님들께 맥주 공짜!] 이런 이벤트 있잖아요? 모두가 해피한 happy hour 랍니다 ㅎ
+	* lick는 liquor store, 즉 '주류점'을 뜻하는 슬랭입니다. hit off licks는 '주류점을 털다'라는 뜻이죠. 거기서 뜻이 확장되어 '강도짓을 하다'라는 뜻이 되었고, 현재는 '큰돈을 짧은 시간에 벌다'라는 뜻으로까지 의미가 확장되었다고 합니다.
 	* 보드카; with ciroc on tap
 	* #rum #		#술자리 drinking occasion이나 drinking party
 	* #dry bar; 술이 없는 바	#hard lemonade; 술이 들어간 레모네이드

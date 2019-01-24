@@ -1,6 +1,7 @@
 # 접두어
 
 # 일상
+* 또 시작이군. = Here we go again.
 * 내게 들려 줄 뭐 재미있는 소식 없어?; Have you got any interesting snippets for me? 
 * 이렇게 은혜를 갚는거야 this is how you repay me?
 * 사고 잔해 속에서 몇 명의 생존자들이 끌려나왔다; A few survivors were pulled from the wreckage. 

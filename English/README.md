@@ -119,6 +119,10 @@
 * 채원과영어 https://m.blog.naver.com/PostList.nhn?blogId=learnwithchaewon
 * 올인원 https://m.blog.naver.com/PostList.nhn?blogId=allinoneedutech
 * 돌핀 https://m.blog.naver.com/PostList.nhn?blogId=frost9001
+* Bruce Lim https://m.blog.naver.com/PostList.nhn?blogId=brucelimn
+* 한톡 https://m.post.naver.com/my.nhn?memberNo=37585159
+* 포포 https://m.blog.naver.com/PostList.nhn?blogId=suri0367&currentPage=1
+* GEE https://m.blog.naver.com/PostList.nhn?blogId=blessgee
 * 한국번역연구소 https://blog.naver.com/ktri8888
 * The Red https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 -----------------------------------------------------------------------------

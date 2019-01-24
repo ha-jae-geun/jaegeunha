@@ -130,6 +130,7 @@ waking dream: 환상같은
 * 꿈을 꾸다 chase rainbows, quit chasing rainbows(허항된 꿈을 꾸지 마)
 	* * have hallucinations: 헛것을 보다, 환상을 보다
 	* 꿈도 꾸지마; #perish the thought
+	* 꿈이 무너지고 있어; The dream's collapsing
 	* 그건 항상 내 꿈이였어 						 It's always been my dream
 	* 꿈에서도; in one's wildest dreams; not/never + in one's wildest dreams: 상상도 못한
 		* 꿈에서조차 기대해본적 없어요; Even in my wildest dreams i didn't expect to come this far

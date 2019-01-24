@@ -1,3 +1,8 @@
+# 고향
+* 영국 어디서왔어요; WHich part of ENgland are you from?
+* 부모님이 다른 지역에 사시는데 메리와 팀이 사는 지역으로 왔다는 뜻! 반대 표현은 out of town. 자신의 거주지 혹은 근무지를 기준으로 사용하는 표현입니다. 구체적인 정보를 주지 않고 '어디 멀리 갔다'라고 말하기 좋은 표현이라 자주쓰입니다.
+  * 저 다음 주에 여기 없어요. 도쿄 가거든요. ('여기'란 집/사무실/사는 도시를 뜻할 수 있음) I'll be out of town next week. I'm going to Tokyo.
+
 
 # 기타
 * [여기가 내가 사는 곳이야.] 라고 말할 때 쓰이는 표현이에요. 영상에서처럼 집을 향해 걸어오다가 도착했을 때 쓰는 말이고요. 비슷하게 지하철이나 버스를 타고 가다가 내려야 할 곳에서 This is me. This is us. 등으로 말할 수 있습니다; THis is me
@@ -473,7 +478,7 @@
 * * 자기 소유의 고급 #아파트	condominium 1kɑ:ndə2mɪniəm
 * * 으리으리한 #대저택을 	mansion
 * * #초고층 건물					skyscraper 미국·영국 [|skaɪskreɪpə(r)]
-* * *#고층의	high-rising
+* * #고층의	high-rising
 * * #보증금 deposit
 * * #보증인; #surety
 * * #보증하다; . (보장) [명사] guarantee (of/that); (약속) assurance; (품질의) warranty, [동사] guarantee (sb sth); (약속하다) (formal) assure; (품질 등을) vouch for, certify 
@@ -563,6 +568,7 @@
 * 내 인생에서 떠나버리다; to walk out my life
 	* walk out of/on something; 하기로 한 일을 그만두다, 떠나버리다;; He walked out on his job
 * 네 앞날이 창창하다는 거야; You got your whole life ahead of you
+	* 사치스러운 생활을 하다 live a(n) luxurious[extravagant] life <> poor life
 	* 내 인생에서 최고의 일이야; A is the best thing that ever happened to me. 
 	* * 그들은 매우 사치스러운 집에서 호강한다. They eat high off the hog in a very luxurious house. 
 	* 직역하면 [인생에서 승리하다] 인데요, 여기서 ‘성공, 승리’란 꼭 물질적인 것만 뜻하는게 아니라 자신이 인생에서 가치있다고 생각하는 것을 지키는 삶을 말해요. ＊ win at life = 성공적인 삶을 살다

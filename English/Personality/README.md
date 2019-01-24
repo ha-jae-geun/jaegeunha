@@ -175,6 +175,8 @@
 * (연애에서) 밀어붙이다 #pushy; I don't want to be pushy
 * ##순진 #순수	innocent
 * He's childlike. 그 친구 #순수해.
+	* [순진한] 이라는 뜻은 아마도 innocent 를 생각하실텐데요. innocent 의 경우엔 사람이 [악하지 않아서 순진한, 순수한] 을 의미합니다. 반면 naive 같은 경우엔 [경험이나 지식이 부족하여 순진한] 을 의미해요. 예를 들어, A라는 사람이 B를 등쳐먹으려고 의도적으로 접근을 할 때, 주변 사람들 다 아는데 B만 모르고 "야, A 그런 사람 아니야. 그 사람이 나한테 얼마나 잘해주는데-" 라고 말해서 답답할 때 있죠? 그럴 때 B 를 naive 하다고 합니다.
+		* = 브랜든은 너무 순진하고 주변 사람들 모두를 믿어. Brandon is so naive and believes everyone around him.
 * #이해심 있는	#considerate = #understanding = #Thoughtful
 * #여시 ; 순진하게 행동하는	#like a virgin
 * #티 하나 없이 깔끔한	#immaculate =#spotless = #pure
