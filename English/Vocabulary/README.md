@@ -218,6 +218,10 @@
 * 절친 A 와 그냥 그런 친구 B 와 함께 밥을 먹다가, 갑자기 절친 A 가 화장실 간다고 가버렸을 때! 그냥 그런 친구 B 와 할 말도 없고, 왠지 말을 꺼내자니 무슨 말을 해야할지도 모르겠고, 그냥 밥을 먹자니 좀 그래서 말 한마디 던졌는데 반응이 미적지근하고! 그래서 기분이 굉장히 불편하고 빨리 절친 A 가 돌아오기만을 기다리고! 그런걸 표현하는 단어가 바로 awkward silence 에요. awkward 자체에 [(불편하게) 어색한] 이라는 의미가 있거든요. awkward silence 는 대화 중에 불편하게 이어지는 침묵을 의미하는데요. 아무도 말을 안하니 조금 불안하고, 불편하고, 왠지 말을 해야 할 것 같은 압박은 있는데 무슨 말을 해야할지 모르는 상황을 의미하는 단어입니다.
   * 데이터를 확인한 후에 방 안에 어색한 침묵이 흘렀다. ex) After checking the data, there was an awkward silence in the room.
 
+## admit
+* 병원이나 시설 등과 관련하여 동사 admit은 ‘입원시키다, 받아들이다’라는 의미가 됩니다. 외료진(they)들이 아버지의 상태를 보고 중환자실(I.C.U: Intensive Care Unit)에 입원시켰다(admitted him into)는 것이죠.
+  * 이 클리닉은 일요일에는 입원 환자를 받지 않는다. This clinic doesn’t admit patients on Sundays.
+
 ## adopt
 * 뭐든지 받아들이는 느낌
 * adopt the policy
@@ -233,6 +237,12 @@
 	* : 배역을 부탁하려고 왔어요. I came to ask for the part.
 * : 당신이 오늘밤 데이트를 신청해줘서 너무 기뻐요. I'm really glad that you asked me out tonight
 * : 조사해 봐. Ask around
+* hurt는 보통 '아프다'는 뜻으로 흔히 쓰이는 표현이죠? 그러나 이 장면에서 hurt는 '지장/영향을 주다'는 의미에 더 가깝게 쓰였어요. 이처럼 별일이 아니고 나쁘게 방해가 되는 부탁이나 일이 아닐 때 "It doesn't hurt to ask", "It doesn't hurt me." 이렇게 말할 수 있습니다
+    * 물어서 나쁠 건 없어; Never hurts to ask
+
+## accommodate
+* = 우리는 시장의 변화에 맞추기 위해 좀 더 유연한 전략들이 필요합니다. We need more flexible strategies to accommodate changes in the market.
+* = 그들은 휠체어를 수용하기 위해 출입구를 확장했다.They widened the doorways to accommodate wheelchairs.
 
 ## account
 * 루머에 의하면; By all accounts; Rumor has it that
@@ -264,9 +274,16 @@
  * If you have any questions, feel free to ask. 
  * ##any# #some#
 
+
 ## angle
 * 무슨 속셈이야; What's your angle? 
 
+## bet
+* : 원래 뜻은 '니 엉덩일 걸어도 될 정도로 정말/진짜/확실히/당연히 ~야!' 에 가까운데요. 뉘앙스를 담아 우리말 슬랭으로 옮기면 "당근 빠따로 ~지!" 정도예요. "당연하지!"라는 말을 좀 더 유쾌하게, 강하게 하고 싶을 때 써보세요! 
+  * 어쨌거나 두 개 다 샀냐고? 당근 빠따지! Did I get them both anyway? You bet your ass I did!
+
+## belt
+* 비겁한 행동하다; It was definitely hitting below the belt
 
 ## bed
 * on the bed; 누워있따; in the bed; 이불 뒤집어쓰다
@@ -289,12 +306,17 @@
   * 너무 자책하지마!!     Don't kick yourself., beat oneself up; beat himself up 
   * 불리함을 극복하다; #odds; 극복하다; #beat the odds
   * ##beat
+
 ## boat
  * 나는 기회를 놓쳤다.               I missed the boat.
  * 문제 일으키지 마..               Don't rock the boat. 
  * 그런 일로 문제 삼지 마!              Don't #rock the boat over that! 
  * i'm gonna rock you; 한손으로 해치울게
  * 나도 마찬가지거든!!!                I'm in the same boat.
+
+## bob
+* 1) bob 은 [빠르게 위 아래로 움직이다] 라는 의미로 쓰였어요. 혹시 자동차 장식용으로 쓰이는 머리가 까딱이는 플라스틱 인형을 아시나요? 그 인형들을 bobblehead 라고 합니다. 함께 익혀두시면 좋겠죠.
+  * 난 그의 머리가 막 까딱거리는 걸 볼 수 있어. ex) I can see his head bobbing about.
 
 ## bound
 * be bound to 는 [틀림없이 ~ 하다 / 반드시 ~ 하다] 라는 의미를 가지며 굉장히 많이 쓰이는 표현이에요. be bound for 와 헷갈릴 수가 있는데, be bound for 는 [~로 향하다] 라는 뜻으로, 대중교통을 이용할 때 굉장히 많이 들려요. 단, [~행 비행기/버스] 라고 할 땐 be 를 빼고 a plane/train bound for Boston [보스턴행 비행기/기차] 라고 쓰이니 함께 알아두세요!
@@ -343,6 +365,12 @@
 
 ## behave
 * * behave badly = 못되게 굴다 * behave yourself! = 말썽 피우지 마!
+
+## biased
+* 이때 사용할 수 있는 것이 OO-biased (OO 멤버를 가장 좋아하는), OO bias (OO 멤버를 가장 좋아함)이라는 표현입니다.  
+* have a bias towards OO/ be biased towards OO (~에 대해 관심이 치중되다, ~를 편애하다) 같은 말에서 비롯되었죠!
+  * 지드래곤은 내 최애야. G-Dragon is my ultimate bias.
+  * 내가 온유를 편애하는 걸 인정하지. I admit that I'm biased towards Onew.
 
 ## big
 * 잘나가다 go big
@@ -397,6 +425,7 @@
   * #buzzkill; 분위기 죽이는 사람; he's such a buzzkil every time
   * 다른 종류의 #즐거움을 원해; we #crave a different kind of buzz
 * 레스토랑은 사람들 말하는 소리로 부산스러웠다. [ex] The restaurant was buzzing with people talking. 2. 벌이 윙윙하는 소리에서 나온 buzz라는 표현은 시끄럽거나 왁자지껄하고 활기찬 분위기를 나타낼 때 사용할 수 있습니다.
+* 최신 유행하는; vlogs should  be buzzy
 
 ## bullet
 * 만화 캐릭터들이 긴장했을 때 흘리는 땀방울, 총알처럼 생겼다고 생각해본 적 있나요? 이렇게 총알(bullets)같은 땀을 흘릴(sweat)것만 같은, 긴장하고 두려운, 식은땀 나는 상태를 'sweat bullets'라고 한답니다. sweat bullets : 겁나다/진땀 빼다/긴장하다
@@ -417,10 +446,15 @@
   * ☆he did a #bellyflop right into the pool
   * ‘부정행위 하다 걸렸어요                  He got busted
   * #침묵을 깨다; #bust up the #silence##bust
+  * 엄마가 잔디 깎으라고 계속 구박하는 중이야. 진짜 성가시네. ex) My mom has been busting my balls to mow the lawn. She is so annoying. * bust someone's ball
 
 ## butt
 * 엉덩이에 키스하다?? 이렇게 더러운 표현이 [아첨하다/아부하다] 라는 의미를 갖게 된 것은 그만큼 아첨이나 아부를 지저분한 행위로 본 것과 관련이 있을 텐데요.  [아부/아첨하는 행위] 를 butt kissing 이라고 하고, 그런 행위를 습관적으로 하는 사람을 butt kisser 또는 ass-kisser 라고 합니다. 직장인 분들 주변에 꼭 한 명씩 있지 않나요?
   * 데이빗한테 아부 좀 그만해, 야이 더러운 아부쟁이야. ex) Stop kissing David's butt, you disgusting butt kisser.
+
+## butterfly
+* 좋은 일, 낙관, 장밋빛 미래 = rainbows and butterflies.
+  * 항상 좋은 일만 있는 건 아니에요. ex) It's not always rainbows and butterflies.
 
 ## button
 * press someone's button : 민감한 부분을 건드리다.
@@ -618,6 +652,12 @@
 ### bring down
 * 건물 등과 같은 것을 붕괴시키거나, 어떤 사물을 떨어뜨리는 것을 bring down이라고 합니다. 여기서는 "히틀러의 파시즘과 대학살이 끝을 맺게 되다, 종식되다" 등으로 해석됩니다.
   * 그 지진은 많은 건물을 붕괴시켰다. The earthquake brought down many buildings.
+* = 가격을 조금 깎아주시면 안되요? Can you bring down the price a little?
+* = 그녀는 열을 식히기 위해 이마에 차가운 수건을 댔다. She put a cold towel on her forehead to bring down the fever.
+* = 경제 위기는 한 정부를 무너뜨릴수도 있다. An economic crisis can bring down the government.
+* = 내 기분 다운되게 만들지 마.  Please don’t bring me down. 
+* = 넌 내 펀치 한대면 단번에 깔아 뭉갤 수 있어. I can easily bring you down with one punch.
+                                 
 
 ## bump
 * 임신한 배를 보이다; show off the bump
@@ -712,6 +752,9 @@
 * 총선을 치르다 call a general election 미국식  영국식   단어장추가
 * 가장 싼 물건을 찾아서 여기저기 전화를 돌려 보세요.  Call around to find the best bargains. 듣기 출처:Collins
 * 파티하는 그날 밤에 나는 비상대기 당번이야. I’ll be on call the night of the party. 
+* cold-calling = 수업시간에 대답할 학생을 지목하는 일; cold-calling 은 임의로, 아무에게나 말을 걸거나 연락을 하는 것을 말합니다. 수업시간에 학생을 지목하거나, 랜덤으로 고객에 연락해서 판매를 권유하는 등의 행동이 그 예입니다.
+  * 그는 물건을 팔기 위해 여러 집의 문을 두드리고 판매 권유를 할 준비가 되어있었다. He was prepared for a lot of knocking on doors and cold-calling to sell his products.
+* 결정했어. / 맞혀볼게. = I'm calling it. 
 
 ### call in
 * call in : (의사/경찰 등을) 부르다 도움을 청하기 위해 사람이나 기관을 부르는 것을 말해요. 
@@ -755,6 +798,13 @@
   5. 좀 이따 보자; I'll catch up with you later
   6. 발목잡다; The past will find a way to catch up to us
 
+## coarse
+* 1) 질감이 거칠 때 쓰는 표현입니다. 보통 동물이나 실, 정제가 조금 덜 된 곡물의 질감에 쓰이는 단어입니다. 또한 어떤 사람이나 그 사람의 발언이 무례하고 저속할 때도 이 단어를 사용합니다.
+
+## cover
+* cover story는 신분을 감추거나 진실을 드러내지 않기 위해 알리바이처럼 꾸며낸 가짜 이야기를 일컫습니다. 또는 잡지의 커버에 나오는 표지 기사를 뜻하기도 하죠.
+  * 경찰은 그들의 거짓 이야기를 믿지 않았다. The police didn't believe their cover story.
+
 ## corner
 * 바늘 허리에 실 매어 쓰랴            You can''t cut corners.
  * 난 일을 대충 대충 하지. 지름길로 가다, 잔머리       I'm cutting too many corners. 
@@ -778,6 +828,10 @@
 * B 에 대해 A 의 선고를 받다. = be condemned to A for B
   * 동사 condemn 은 1) 규탄하다,비난하다 2) 선고를 내리다, 라는 의미를 가지고 있어요. 2번의 의미로 쓰이면 영상에서처럼 주로 수동태로 쓰이고요. A 자리에는 '명사 또는 동사원형' 이 형량을 나타내고, B에는 어떤 잘못을 했는지가 들어갈 수가 있습니다.
   * 그 남자는 텍사스에서 있었던 총기 난사로 사형 선고를 받았습니다. ex) The man was condemned to death for the shooting spree in Texas.
+
+## contrastive focus reduplication   [-ˈtræst-]  영국식 [kənˈtrɑːstɪv] 
+* i wanted a salad salad; 제대로 된 샐러드 먹고 싶었는데
+* Is it a date date? 진짜 데이트야?
 
 ## converge
 * 1. ~ (on…) (사람들이나 차량이) 모여들다, 집중되다 
@@ -874,6 +928,9 @@
 * 위태로워진 재정상태로 인해 due toe compromised funding
 * compromise the immune system = 면역 체계를 약화시키다
   * 무리한 다이어트는 면역 체계를 약화시킬 수 있습니다.  Excessive dieting can compromise your immune system.
+
+## crib
+* 1. 작은 (창고같은) 집; 2; 유아용 침대
 
 ## crush
 * 어떤 안 좋은 일의 정도가 매우 크고, 심각할 때 쓰이는 단어 입니다. 사람이 주어가 될 때는 crushed라고 합니다.
@@ -990,6 +1047,10 @@
 * come out; the tap doesn't come out
 * come true
 
+## canned
+* 통조림에 들어가 있는 음식들을 canned food 이라고 하는데요. 안 열어봐도 안에 뭐가 들어있는지 뻔히 알 수 있는 것처럼 뻔한 답변을 의미할 때 쓰는 표현입니다. 참고로 시트콤들이 사용하는 가짜 웃음 소리는 canned laughter라고 합니다.
+  * 왜 매번 내게 뻔한 답변만 하는 거야? 난 네가 진짜 무슨 생각을 하는지 알기를 원해. ex) Why do you always give me canned responses? I want to know what you really think.
+
 ## candy
 * 옆에 끼고다니기 매력적인 상대; 사회적 지위, 관심 얻기 위해 arm candy
 * 안구정화 상대; 외모는 그럴싸하지만 지적으로 혹은 깊이는 없는 상대; eye candy
@@ -1015,6 +1076,13 @@
 * 2) cap 은 '뚜껑, 모자' 라는 뜻이 있듯이, 더 이상 올라가지 못하도록 덮어놓은 모습을 연상하시면 쉬울 것 같아요. 명사로 쓰일 경우에 [에 한도를 정하다] 라고 말하고 싶을 경우 put/place a cap on 이라고 하시면 됩니다.
 * 3) 영상을 직역하면 [500불에 최대 한도를 두겠어요] 정도이지만 좀 더 자연스럽게 [최대 500 달러 정도요] 라고 해석이 되었습니다.
 	* = 최선의 해결책은 봉급에 상한선을 두는 것이죠. The best solution now is to place a cap on the wage.
+
+## deep
+* 이 영화 진짜 심오하다. This movie is so deep.
+  * deep analysis: 심층 분석  deep movie: 심오한 영화(편하고 가벼운 영화는 lighthearted movie)  deep meaning: 깊은 의미, 심오한 의미  동의어로 profound(심오한, 깊은, 엄청난)가 있어요.
+                                
+## dead
+* 나는 그에게 프랑스로 가지 말라고 얘기했지만, 그는 기필코 가려고 한다. (dead set on~ : 하기로 단단히 마음 먹다) I've been trying to talk him out of moving to France, but he's dead set on going.
 
 ## deal
  * go deal with, deal with 사물: ~를 다루다, 처리하다, 감당하다, deal with 사람: 상대하다
@@ -1046,6 +1114,8 @@
 ## damn
 * damn 이 [저주하다] 라는 뜻을 가집니다. 보통 이 뜻 그대로 쓰이기 보다는 화가 났을 때 Damn you! Damn this car! 이런 식으로 쓰여 우리말로는 [빌어먹을 자식! 빌어먹을 차!] 정도로 해석이 되는데요. I'll be damned if 는 직역하면 [만약 ~ 한다면 전 저주받을 거예요] 로 해석이 됩니다. 따라서, 이런 짓을 하면 저주받을 테니 [절대로 하지 않겠다] 라는 뉘앙스가 강한 표현이지만, 영상에서는 직역한 문장이 좀 더 자연스러워 직역되었습니다.
   * 그녀를 절대로 다신 만나지 않을 거야. ex) I'll be damned if I see her again.
+* 절대로 ~ 일리가 없다. = (I'll be/I'm) damned if 편의를 위해 굳이 해석을 하자면 해설과 같이 해석이 되지만, 부정적인 발언을 강하게 말할 때 쓰는 구어체 패턴이에요. damn 가 [지옥에 떨어뜨리다] 라는 사전적 의미가 있기에, 영상의 말을 직역하면 [제가 못생겼다고 생각안했다면 지옥에 떨어지겠죠] = [제가 못생겼다고 생각했어요.] 라고 해석이 됩니다. 
+  * 걔가 어딨는지 정말 몰라. ex) I'll be damned if knew where he is.
 
 ## dance
 * 어떤 문제나 주제에 대해 명확히 이야기 하지 않고, 이야기 하는 것을 피하다 = dance around an issue/subject 직역하면 '~ 주변을 돌며 춤추다' 인데요, 어떤 특정 얘기를 안 하려고 피하는 몸짓이 춤동작 같다고 상상하면 기억하기 쉬울 것 같아요!
@@ -1056,6 +1126,7 @@
 
 ## due
 * 당신의 요구 사항은 적절한 때에 처리하겠습니다. Your request will be dealt with in due course. 
+* 열심히 한 거슬 인정해주세요; Give him his due; to give - one's due
 
 ## disaster
 * ＊ spell disaster = 재앙과도 같다
@@ -1098,6 +1169,10 @@
 * develop 은 기본적으론 [개발하다] 라는 뜻이지만, 없던걸 만들어내는 뉘앙스이기 때문에 뒤에 병명이나 어떤 문제가 목적어로 오게 되면 1) 없던 병에 걸리거나 2) 문제가 생길 때도 쓰이는 단어입니다.
 	* 아이들에게 발진이 생기면 병원에 데리고 가세요. ex) Take your kids to hospital if they develop a rash.
 
+## doozy
+* 1) 비격식의 단어로 좋은 의미, 나쁜 의미 모두 가지는 단어입니다. 무언가가 굉장히 크거나, 큰 놀라움, 또는 위험한 상황 등, 기억에 남을 만한 경험을 표현할 때 쓰는 단어에요. 따라서 문맥에 따라 조금 다양하게 해석이 될 수 있습니다. 2) 영상의 주인공은 이야기가 시작되기도 전에 우는 자신의 모습에 [크게 놀라서] doozy 라는 단어를 썼을거에요. that 은 자신이 눈물 흘린 상황을 의미하구요. 그래서 지나고 생각해보니 [더 크게 울었을까봐 놀란 상황] 이니 [큰일 날 뻔했네.] 정도로 해석이 된 것이랍니다.
+  * 난 그의 다음 행동이 굉장히 특별한 것이라는 걸 확신해. ex) I am sure his next move will be a doozy.
+
 ## double
 * double fist는 신조어로 술을 두 손에 쥐는 것, 혹은 두 손에 쥐고 동시에 마시는 걸 가리킵니다. 애주가라면 한번쯤 사용해 봄직한 표현이겠죠?ㅎ 그 행위를 나타내는 명사는 double-fisting~!
   * 주문하는 데 시간 너무 오래 걸린다. 난 두 잔 동시에 마실 거야.  It takes so much time to order. I'm double
@@ -1126,6 +1201,10 @@
 ## drain
 * 명사로 쓰이면 [배수관] 이라는 뜻이 있듯이, 무언가가 쑥 빠져나가듯이 소모시키는 것을 의미합니다. 영상에선 away 와 함께 써서 소모시켜 [없애다] 라는 의미를 강조해 주었는데요. 직역하면 [당신은 의지력을 소모 시켜 없애는 중입니다] = [의지력이 소모 된다] 로 해석이 되었습니다.
   * 그 회사는 재정 자원을 다 써버린 것처럼 보입니다. ex) It seems that the company has drained its financial resources.
+* 이를 사람의 기운이나 돈에 빗대어 '소모시키다' '축 나다' '빼가다'라는 의미로도 사용합니다. '진 빠지게 만드는 것'에 대해서는 현재분사 'draining', '진이 빠진 상태'에 대해서는 과거분사 'drained'를 활용할 수 있어요.
+  * 이별은 굉장히 진빠지는 경험이야. [ex] Breaking up is such a draining experience.
+* 동사 'drain'은 원래 액체를 '빼내다, 따라내다, 흘리다, 비우다'라는 뜻을 가진 단어입니다. 액체가 세어나가는 모양이죠?
+  * 대니가 마개를 뽑아서 물이 빠져나갔다. [ex] Danny pulled out the plug and the water drained away.
 
 ## drama
 * drama는 '극적인 일, 사건'을 뜻하는데요, 연예인 관련 drama라서 '가십거리'라고 번역했어요. 북미권에서 참  많이 쓰이는 표현인데, 또 어떻게 쓰이는지 살펴볼게요. 1) 사건사고, 특히 관련자들이 감정적으로 반응하게 되는 사건사고를 뜻해요. 편갈라서 싸우고, 배신하고, 뒷담화하고 그런 것들을 뜻하죠. "I try to stay away from drama"라는 표현을 종종 들을 수 있는데, 그런 일들에 최대한 개입하지 않고 피해 있어려 한다는 뜻입니다.
@@ -1234,6 +1313,10 @@
   * = 모든 세부 사항들을 수집하는 데는 꽤 많은 노력이 들 거예요. It will take a fair amount of work to gather all the details.
 * 1. 옛날 방식 beautiful 2. pale; 하얀;  3. 동등한
 
+## fender bender
+* 그리고 get into는 ‘어떤 상황에 휘말리다, 처하다’란 뜻으로 “He got into (like) a fender bender.”는 영상속 흑인여성의 남자친구가 가벼운 접촉사고(같은 것)가 났다는걸 의미합니다.
+  * He had a fender bender on the way to work.  There are many fender benders when it snows or rains.   We got into a fender bender this morning.
+
 ## fence
 * #가시 철사; [명사] 가시철사 a barbed wire fence
 * #put up a #fence
@@ -1335,6 +1418,11 @@
 * [flesh = 살 / blood = 피] 인데요. 사람은 당연히 살과 피로 이루어져 있잖아요? 그래서 완전하지 못하고 결함이 있는 지극히 평범한 인간이다- 라는 걸 강조해 주고 싶을 때 쓰는 표현입니다. 영상에서는 중간에 줄이 들어가서 형용사처럼 쓰였지만, 실제론 줄이 들어가는 것 없이 flesh and blood 라고 명사로 많이 쓰인답니다.
 	* 모두가 실수를 하잖아, 심지어 나도. 난 너처럼 단순한 인간일 뿐이야. ex) Everyone makes a mistake, even me. I'm just flesh and blood just like you.
 
+## fine
+*  난 네 가는 금발이 너무 좋아. [ex] I love your fine blond hair. 1. 아주 가는, 촘촘한
+* 이 작업에는 더 고운 사포가 필요해. [ex] We need a finer piece of sandpaper for this. 2. 알갱이가 고운 (※예문에서 사용한 의미)
+* [ex] fine gold = 순금 3. 순도 높은
+
 ## find
 * 몰랐던걸 알게되는 그림(물리적, 추상적 모두 포함); 궁극적으로 내가 되는것
 * i found my bag
@@ -1390,6 +1478,12 @@
 ## game
 * : 'A급 플레이를 하다', 즉 '최선을 다하다, 실력/기량을 최대로 발휘하다' 라는 뜻이에요! [ 슬랭 ] bring one's A-game
 	* 모두가 최고의 기량을 펼쳐줘야 해. We need everyone to bring their A-game.
+
+## goofy
+* : '어리석은, 얼빠진'이라는 뜻이지만, 'stupid, silly'보다는 좀 더 애정어린 어감이에요. 예를 들어, 친구끼리 쓸데없이 멍청한 짓을 하거나 장난을 치면서 놀 때 있죠? 그런데도 웃음이 실실 나고요. 그런 걸 'goofy'한 행동이라고 말할 수 있습니다. 여기서도 죽은 친구를 애정 어린 목소리로 묘사하면서, 'goofy'의 최상급, 'the goofiest'를 쓰고 있죠!
+  * 넌 최악의 농담을 하지만 항상 사람들 웃게 하는 바보 같은 아빠가 될 거야. [ex] You're going to be that goofy dad who makes the worst jokes ever but always makes people laugh.
+* 해야 할 일이 있는데 안 하고 농땡이 치는 걸 가리키는 말로, 시간을 낭비한다는 뉘앙스가 들어 있어요. 꼭 일적으로 관련되지 않아도 학교에서도 빈둥거린다고 하거나 느긋하게 이것저것 하면서 허송세월을 보낸다는 느낌으로도 쓰입니다~ 또한 goof-off를 명사처럼 사용해서 '농땡이 치는 사람'이라고 나타낼 수 있어요~
+  * 거기 너희 둘! 그만 농땡이 부리고 일해. Hey, you two! Quit goofing off and get back to work.
 
 ## go 
 * / 상당한 영향을 주다. = 주어 go a long way towards 목적어 go a long way 는 [오래가다/지속되다] 라는 뜻이 있어요. 그래서 그 효과/도움 등이 특정한 것을 향하여 쭈우욱- 이어지는 느낌이죠. A little thanks goes a long way. 
@@ -1493,6 +1587,10 @@
 ## go
 * 멀어지는 느낌 == from 
 
+## gut
+* gut feeling (직감), gut reaction (본능적 반응)이라는 표현으로도 쓰이고요, 여기서처럼 go with somebody's gut이라면 (생각이나 도덕, 논리 등이 아닌) 본인의 직감에 따라 무엇을 선택한다는 뜻으로도 많이 써요!
+  * 서울에 이사갈 생각을 했는데 본능적으로 그냥 사는 곳에 머물러야 함을 느꼈다. I thought of moving to Seoul, but my gut told me to stay where I live.
+
 ## guard
 * : 경계를 한 상태다/ 경계를 푼 상태다 - one's guard is up/ down 
   * : 경계를 하다/ 풀다 - put one's guard up/ down 
@@ -1508,6 +1606,14 @@
   * 열심히 살다                   let's grind
   * #grind away; #파고들다; spend the evening grinding away on it
   * #grind down; #학대하다; don't let them grind you down
+
+## gross
+* gross가 역겹다, 징그럽다는 뜻의 형용사인데요, gross out이라고 사용하면 대상으로 하여금 역겨워지게 만드는 동사 (disgust와 비슷!)로서 사용할 수 있습니다.
+  * 난 피를 보게 될 때마다 정말 징그러워 한다. Whenever I see blood, I'm grossed out.
+
+## grocery
+* grocery는 식료품, 잡화를 파는 곳으로 grocery store/shop이라고도 부르죠. 복수형인 groceries는 거기서 파는 '식료품 및 잡화'를 일컫습니다. 흔히 우리말로 식료품, 잡화를 장 본다고 하기 때문에 '장본 물건, 장 본 것'이라고 해석해도 자연스럽고 좋아요~
+  * '장을 보다'는 다음과 같이 말할 수 있어요: - do grocery shopping [ex] I need to do some grocery shopping.
 
 ## grow
 * 길이, 크기, 부피 전체가 다 커지는 그림
@@ -1942,6 +2048,10 @@
   * √ He is a #poor hand at figures/accounts (그는 계산이 서툴러)
   * √ I'm a poor hand at knitting (난 뜨개질이 서툴러)
 
+## handful
+* 다루기 힘든 사람, 특히 손이 많이 가는 아이를 의미합니다. 그리고 시험에도 자주 출제되는 a handful of 라는 표현도 있는데요, 이는 많은 수를 말하는 것이 아니라 ‘적은 수, 한 줌’을 말합니다.
+  * 첫째는 괜찮은데, 작은 아이가 좀 다루기 힘들어요.  My older son is fine but the little one is a bit of a handful.
+
 ## house
 * : '집'을 가리키는 'house'도, 정치얘기를 할  때는 '의회'나 '미국의 하원' '영국의 상원'으로 해석해주셔야 합니다. 또한, 반드시 그런 것은 아니지만 'h'를 대문자로 표기하는 경우가 많아요!
 	* 의회는 그 제안에 대해 논의하기 시작했다. [ex] The House began debating the proposal.
@@ -1976,6 +2086,10 @@
 ### hang on
 * : 잠깐만요. Hang on; Hang on a second.
 
+## identify
+ * “너는 성을 사람들이 너를 부르는 것과 동일시 한다.” “You identify gender with that people call you.”; identify sth with sth = –와 –를 동일시 하다, 관련이 있다고 보다
+ * 그가 바로 그 살인자임이 밝혀졌다.  He was identified as the murderer. 그 사람이 누군지를 as 다음의 명사라고 본다는 것으로 여기에 oneself 를 넣으면 ‘스스로를 ~라고 생각하다, ~라고 여기다’라고 해석됩니다. 
+
 ## itself
 * 단어를 하나씩 따로 보기보다는, 이 전체를 하나의 표현으로 알아두시는 것이 좋습니다. in itself 라는 표현 자체에 이미 [그 자체로] 라는 뜻이 있지만 in and of itself 는 [다른 요소는 배제한 채 단독으로] 라는 모습을 좀 더 강조해주는 표현이라고 생각하시면 좋을 것 같아요.
   * 네 행동만 놓고 보면 문제는 없었지. ex) Your behavior, in and of itself, was not a problem. 
@@ -1984,9 +2098,29 @@
 * 보석이 얼음처럼 투명해서 일까요? 이 표현은 다이아몬드처럼 반짝이는 것들로 휘황찬란하게 꾸민다는 뜻입니다. 영상에서는 수동형으로 써서 “그들이 휘황찬란하게 꾸며졌다”라고 했습니다. 
 	* = 팔에 그 시계 뭐야! 번쩍번쩍 하는데! (비싼 시계를 찬 사람을 보고 하는 말) Look at your wrist! It’s so iced out!
 
+## invalid
+* # 근거; 어떤 의견(opinion)이나 주장(argument)이 invalid라고 하면 논리성이나 정확한 근거가 없다는 걸 의미합니다. 흑인사회에서 일어나는 일들을 백인들은 겪어본 적이 없기 때문에 그들의 주장이 근거 없이 들릴 수 있다고 말하고 있네요. 또한 invalid는 문서, 절차 행위 등에 쓰여 ‘법적으로 효력이 없는, 무효한, 잘못된’이란 뜻도 갖습니다. 두 가지 뜻 예문에서 살펴보겠습니다.
+  * 그들의 주장은 근거가 없고 너무 억지스러워. 다시 고려할 필요도 없다구. (far-fetched: 억지스러운) Their arguments are invalid and far-fetched. We don’t need to reconsider them.
+
+## intimate
+* 어느 정도 거리감이 있는 친구 관계가 아니라, 특별히 심리적으로 가까운 친구 관계 [ex] intimate friends 1) '친밀한' 
+* 제 3자와 나누기엔 너무 사적인 디테일/세부 정보 [ex] intimate details 2) '사적인'
+* 누군가와 관계를 맺다 [ex] to be intimate with somebody  3) '(성적) 은밀한'
+* 레스토랑 분위기가 아주 은근하다. [ex] The restaurant has a very intimate atmosphere.4) 장소에 '(사적인, 은근한) 분위기가 있는'
+* 란제리를 intimates라고 표현하기도 합니다.
+                                
+
+## intercourse
+* social intercourse 는 우리말로 ‘사귐, 교류, 친교’라는 의미가 있는데요. 사실 intercourse 는 ‘성교’라는 뜻으로 자주 쓰인답니다! (vaginal intercourse 질내 성교 / anal intercourse 항문 성교)
+  * = 다른 연령대의 사람들 사이에 사회적 교류가 별로 없다. There isn’t much social intercourse between different age groups.
+
 ## intense
 * intense 는 사전적 의미로는 [강렬한, 치열한] 등의 의미가 있어요. 무언가의 강도, 정도가 굉장할 때 쓰이는 단어인데요. 비슷한 뉘앙스의 extreme 은 부정적인 뉘앙스인 반면, intense 는 주로 긍정적인 뉘앙스로 쓰입니다. 영상에서는 [장난이 아닌] 이라고 해석이 되어 있는데요. 정말로 멋진 경험을 표현할 때 [쩌는] [정말 인상적인] 등의 의미로 쓰이기도 해요.
 	* 그 공연 내내 한 경험은 정말 장난이 아니었어. (굉장히 강렬했다, 감동적이었다 등을 의미) ex) The whole experience throughout the show was really intense.
+
+## jam
+* 1) 좋아하는 노래를 들으며 혼자서 또는 다 함께 마음껏 흔드고 즐기는 것을 jamming 이라고 합니다. 
+  * 노래가 시작되었을 때, 모든 사람들이 미친 듯이 흔들기 시작했다. ex) When the song started to play, everyone was jamming like crazy.
 
 ## jack
 * You are jacked; 마약했다라는 뜻인데 그만큼 몸이 좋다는 것이기 때문에 칭찬
@@ -2002,6 +2136,9 @@
 
 ## juice
 * 고기를 뜨거운 기름에 빨리 튀겨서 육즙이 나오지 않게 하세요. Fry the meat quickly in hot oil to seal in the juices.
+* 난 그럴 자격 있어; i got the juice
+* juicy라는 단어를 딱 들으면, 오렌지 주스, 사과 주스의 juice가 생각이 나죠~ juicy는 즙이 많다는 뜻인데 고기의 육즙이 풍부하다고 할 때도 juicy!, 이야기가 흥미롭거나 외설적일 때도  juicy!라는 표현을 사용합니다.  juicy gossip은 흥미로운 가십거리, juicy details은 구미 당기는 정보, 얘기를 의미해요! 육감적인 매력이 있는 사람한테 juicy라고도 말하는 경우를 들을 수도 있는데 좀 변태스럽고 적절하지 못한 표현이므로 주의하도록 합니다~
+                                
 
 ## jump
 * : 시동이 걸리지 않는 차를 직접 밀거나, 다른 차의 배터리에 연결해 시동거는 걸 말해요! 이 상황에 비유해서, 상황이 안 좋을 때 특별히 노력해서 '되살아나게 하다', '활력/활기를 불어넣다' 또는 단순히 활기차게 효과적으로 '시작하다, 시동걸다' 라는 뜻으로 쓸 수 있답니다. 
@@ -2135,6 +2272,8 @@
 ## loud
 * 주변의 시선을 끌 정도로 옷의 색상, 패턴 등이 매우 화려한 것을 loud 라고 합니다. 눈으로 봤을 때 너무 요란(loud)하다는 의미에서 주로 부정적으로 쓰이지만, 상황에 따라서는 긍정적으로 볼 수도 있습니다. 섹시함과 화려함을 강조한 옷이라는 어감으로요. 
   * 면접때는 너무 화려한 의상을 입지 않는 것이 좋아. You shouldn't wear anything too loud to a job interview.
+* loud and clear는 순서가 고정되어 있는 표현으로 clear and loud라고 사용하진 않습니다. 이건 마치 우리가 '백흑'이라 하지 않고 '흑백'이라고 말하는 게 자연스럽다고 생각하는 것과 같아요. 영어로 흑백도 black and white라고 하고 white and black이라고 쓰진 않죠~
+  * 당신의 메시지가 세계 곳곳에 잘 전달되기를 바랍니다. I hope your message will be heard loud and clear all over the world.
 
 ## lyric
 * lyric는 단수로는 거의 안씀; lyrics are
@@ -2237,6 +2376,14 @@
 * 너만 알고 있어. 알았지? 아무에게도 말하지 마. The word is mum. Ok? Don't tell anyone. 
 	* i'll keep it mum's the word
 
+## mercy
+* # 휘둘리다; : 그대로 해석하면 누군가/무언가의 '자비'에 있다는 뜻인데요. 누군가/무언가의 자비에 따라 운명이 좌우되듯, '에 휘둘리다/달려 있다', '통제/지배를 받다' 라는 뜻이에요! 이 문장의 전체 뜻과 함께 기억해보세요. 내용과 연관 지으면 기억이 더 오래 갈 거예요!  at the mercy of someone/something
+  * 난 내 감정에 휘둘리고 싶지 않다. I don't want to be at the mercy of my emotions.
+
+## mean
+* 1) mean 은 [의미하다] 이지만, [mean to 동사원형] 은 [~을 의도하다] 라고 해석이 됩니다. without 은 [~없이] 의 의미를 가지니 [의도한 것은 아니지만] 이라고 해석이 되었습니다.
+  * 너한테 거짓말하려던 건 아니야. ex) I didn't mean to lie to you.
+
 ## measure
 * 너 허리 치수가 어떻게 돼? What's your waist measurement? - take measurements: 의 치수를 재다
   * 침대 고르기 전에 방 치수를 재어보자. Let's take measurements of the room before we pick a bed.
@@ -2281,8 +2428,15 @@
 * map out = 꼼꼼히 계획을 세우다 지도를 보면 굉장히 세부적인 사항이 나와 있듯이, 그냥 계획이 아니라 디테일을 갖춘 신중한 계획을 세울 때 쓰는 표현입니다.
   * = 브라질 여행 계획 짤 생각을 하니 신난다. I'm so jazzed about mapping out our trip to Brazil.
 
+## marinate
+* 최근에는 '오랫동안 생각하다'라는 의미로도 'marinate'을 쓴다고 합니다. 물론 informal(비격식)한 활용이죠^^
+  * 방금 해 준 말 곰곰히 생각해 봐. [ex] Marinate on what I just told you.
+
 ## mark
 * Hilfenhaus는 이해가 빠르다.  Hilfenhaus is quickly off the mark; 상황 판단이 빨라
+
+## market
+* 'off the market'은 임자있다는 비유적인 표현입니다. 비슷한 뜻으로, 'taken', 'in a relationship'도 자주 사용하죠^^?
 
 ## manner
 *  떤 면으로 보면 이 모든 관점들이 관련이 있다.
@@ -2378,9 +2532,17 @@
 * Money : 1. Cool; Of unusually high quality : very good; excellent; 쩐다(정말1:1 의역); 퀄리티가 높은 물건(다이아 롤렉스, AP, 롤스로이스 등)
 
 
+## mouth
+* 주위 사람을 짜증나게 할 정도로 특정 주제에 대해서 계속 쉬지 않고 말을 한다는 의미입니다. 혹은 생각없이 계속 주저리 주저리 떠드는 걸 뜻하기도 하죠. 우리말로는 “입을 놀리다, 지껄이다, 입방정 떨다, 계속 뭐라뭐라 떠들다” 등과 비슷한 뉘앙스라고 생각할 수 있습니다. 
+  * 그녀는 항상 입방정을 떨어서 문제를 일으킨다.  She’s always running her mouth and getting into trouble. [run one’s mouth]
+
 ## mourn
 * mourn = (누군가의 죽음으로) 애도하다. mourning = 애도, 상복 in mourning = 상복을 입은, 상 중인, 애도중인
 	* 그의 가족은 아버지의 죽음으로 상 중이야. ex) His family is in mourning for their father.  [mɔːrn]  <> [ˈmɔːrnɪŋ]
+
+## neither
+* 명사 앞에서만 수식하는 이 형용사는 ‘아랫부분의’란 뜻을 가지고 있습니다. 특히 nether regions라고 하면 생식기를 지칭하는 ‘아랫도리’를 나타내기도 합니다.
+  * 많은 관광객들은 월스트리트의 황금소의 아랫도리를 만지는 것을 좋아한다. Many tourists love to rub the nether regions of Charging Bull on Wall Street.
 
 ## new
 * 'bad news'는 말 그대로 '나쁜 소식'입니다. 따라서 어떤 사물이나 사람이 'bad news'라고 하면, '불길하고 불쾌하고 달갑지 않은 대상'이라는 의미입니다. 특히, 사람의 경우에는 '문제를 일으킬 소지가 있어보이는 사람'을 말합니다.
@@ -2469,6 +2631,8 @@
 	* 그녀는 혼자 힘으로 부를 얻었다. She's a rich woman in her own right.
 * ☆#발라버리다; #own; i'll own you; team A totally owned Team B
 * ☆인정하다; #own up to; you don't want to own up to it
+* : (신조어) 자신감을 갖다, 자신이 가지고 있는 성질 등에 대해 있는 그대로 자랑스러워 하다 own it
+  * 굉장히 다양한 어감을 가지고 있는 이 표현은 own it이라는 두 단어만으로도 캐치프레이즈처럼 자주 접할 수 있답니다. 자신이 가지고 있는 좋은 점도, 부족하게 느껴지는 점도 직시하고 기꺼이 받아들인다는 뉘앙스의 말이죠. 일종의 삶의 태도라고 볼 수 있습니다.
 
 ## phase
 * [단계] 라는 의미가 있는 phase 로부터 나온 표현이에요. phase-out 으로 쓰면 명사로 [단계적 폐지] 를 의미합니다. 마찬가지로 [단계적 도입]은 phase in 을 쓰면 되겠죠?
@@ -2481,6 +2645,9 @@
   * #update sth; update in the sth; update to your social applications; #update information for 
 * 새로운 규제방안은 향후 2년에 걸쳐 단계적으로 도입될 것이다. The new regulations will be phased in over the next two years.
   * phase in은 법이나 제도 등을 단계적으로 도입하다라는 뜻입니다. 뒤에 「over+기간」를 넣어 ‘한 기간에 걸쳐’라고 표현해 줄 수도 있습니다.
+
+## pace
+* 전개가 느렸어; The pacing was too slow
 
 ## pat
 * * pat down  1. 몸 수색을 하다. 2. 가볍게 두드리다. 불법적인 무기나 마약 등을 소지하고 있는지 몸을 훑어가며 수색하는 것을 의미합니다. 보통 공항 보안 검색대에서 출국할 때 하는 검사를 생각하시면 됩니다!
@@ -2518,6 +2685,11 @@
  * 이 또한 지나가리라            This, too, shall pass away 
  * #pass off as; 인양 행세하다; #pass off as; pass them off as the little lords
 
+## peg
+* * peg the idea of normality = 정상이라는 개념을 고정시키다 peg 는 움직이지 못하게 고정해 놓는 물건을 말하는데요, 여기서는 동사로 쓰여서 ‘움직이지 못하게 고정하다’를 의미합니다. 
+* coat pegs 모자, 코트 등을 거는 나무 못 clothes pegs 빨래 집게 (美clothespin) peg leg 의족
+  * 저기 코트를 못에 걸어둬. You can hang your coat up on the peg.
+
 ## pencil
  * 그렇게 일정을 잡아 둘게요.         I'll pencil it in. Let me pencil it in.
 
@@ -2526,12 +2698,17 @@
 * 일일 경비 a per diem allowance 
 
 ## perk
+* perks는 원래 perquisite이라는 단어를 짧게 만든 표현으로 주로 복수형 perks로 사용되며 perks of OO이라는 형식으로 '어떤 특정한 상황에서 얻게 되는 이점, 좋은 점'을 나타냅니다. [ˈpɜːrk-]  영국식 [ˈpɜːkwɪzɪt] 
+  * 어른이어서 좋은 점이 뭐야? What are the perks of being an adult?
 * 만약 회사에서 보너스(=perk)를 받는다면, 매우 신나서 없던 기운도 살아나겠죠? ^^ 동사로 perk 은 병이나 피로, 우울감 등 부정적인 상태를 극복하고 몸과 마음이 밝아진다는 뜻이에요. 영상에서는 커피가 아침에 기운을 차리게 해주기 때문에 ‘아침용 자양강장제’라고 표현하였습니다. 
   * 따뜻한 핫초코 한 잔 마실래? 마시고 나면 기운이 좀 날거야.How about a cup of hot chocolate? It might perk you up. 
 
 ## pale
 * 원래 형용사로 안색이 [창백한] 을 의미로 가장 많이 쓰입니다만, 동사로는 무언가가 덜 중요하게 보이거나 덜 인상적으로 보일 때 많이 쓰이며 [별것 아니게 느껴지다] 정도로 해석이 됩니다. pale into insignificance라는 숙어도 함께 알아두시면 좋은데요. [빛이 바래다, 중요성을 잃다]를 의미합니다.
 	* = 건강을 잃으면 다른 모든 것들은 중요하지 않게 되지. All else pales into insignificance when you lose your health.
+
+## punch
+* 직업을 잃는다는 건 매우 힘들었지만 힘든 상황에 적응하려고 노력중이야. Losing my job was very tough but I’m trying to roll with the punches. [roll with the punches]
 
 ## put
 * put somebody down은 '를 깎아내리다', '~를 무시하다'라는 뜻이에요. 참고로 put down은 '~을 내려놓다', '~을 쓰다'라는 뜻이죠. 
@@ -2590,6 +2767,7 @@
 
 ## pull
 * : 에릭슨은 틀림없이 머리를 쥐어짜고(고민하고) 있을거야. Ericson must be pulling his hair out; Pull out someone's hair' 는 '의 머리카락을 뽑다'
+  * 트로이는 날 골탕 먹이려 했다. [ex] Troy tried to pull a trick on me.
   * : 이 자식이 파리지앙 은행에서 3백만 유로를 빼내갔습니다. This crap just pulled three million Euro out of a Parisian bank.
   * : 지갑을 꺼내 Pull out your wallet.
   * : 당신팀을 철수시켜요 골만 Pull your team out, Gorman
@@ -2668,6 +2846,10 @@
 * 여기서 practice는 ‘실행, 실천’이란 뜻이고 실행에 두는 것(put into)이니까 “행하다, 실천하다, 실재로 하다”란 의미가 됩니다. ‘무엇을’ 실행에 옮기는지 표현하려면 put과 into사이에 명사를 넣어주세요.
   * 그거 실재로 해보자.  Let’s put that into practice. 
 
+## pronounce
+* 음식의 맛이 pronounced 할 경우 그 맛이 한층 강하고 뚜렷한 것을 의미해요. 본문의 경우 less를 사용해 반대로 맛이 강하지 않고 덜 느껴진다고 표현했어요.
+  * 그는 캔맥주가 병맥주보다 부드럽고, 맛이 약하다고 말했다. He said canned beer tasted more mellow and less pronounced than bottled beer.
+
 ## project
 * 여기서 동사 project 는 특정한 의도를 갖고 어떤 이미지나 모습을 '보여주다' 라는 뜻이에요!
   * 그 사람은 강한 지도자의 이미지를 보여줄 줄 알죠. [ex] She knows how to project herself as a strong leader.
@@ -2699,6 +2881,8 @@
 
 ## pop
 * 뚜껑을 닫가; Pop on our lid
+  * pop one's cherry : 처녀딱지를 떼다. 첫 경험을 하다.
+    * 내 남동생은 어제 밤에 술 마시는 첫 경험을 했어. ex) My brother popped his drinking cherry last night.
 * 팝콘은 옥수수 알갱이가 톡톡 튀고, 팝업 스토어는 원래 없던 매장이 잠시 눈에 띄게 세워지는 것이듯, pop out 은 [튀어나오다, 튀어나와 보이다, 두드러지다]의 의미를 가집니다.
   * = 생생한 빨간색 사용이 이 제품을 두드러지게 만듭니다. The use of this vivid red color makes the product pop out.
 * 동사 pop은 친구의 집에 잠깐 들르거나, 도서관에 잠깐 들러 책을 반납하는 것처럼 어떤 행위를 빠르고, 가볍게, 불쑥 하는 것을 말합니다.  여기서는 ‘나를 수업에 휙 데려다놓다’라는 뜻으로 pop me in to class라고 하였습니다. 마치 그녀가 물건이라도 된 것 마냥, 가볍게, 홱, 가져다 놓았다는 어감입니다.
@@ -2716,6 +2900,8 @@
   * pop. :                   인구(population
   * pop out         (예전 네이버회화 표현) >> John's eyes really popped out
   * 청혼하다                 pop the question 
+  * 아빠나 엄마를 나타내는 단어는 전세계적으로 봐도 발음이 약간 비슷한다는 걸 알 수가 있어요. 아빠, baba, dada, papa 등으로 말이죠. 이유는 신생아가 6-8개월 사이에 반복적으로 옹알이를 하는 단계에서 가장 많이 사용하는 말이기 때문인데요. 
+   이렇게 아기들이 하는 말이라, 영어에서의 father 는 원래는 발음의 용이성 때문에 fader 라고 쓰였다고 해요. dad 와 daddy 라는 단어는 16세기에 처음 기록되어 있다고 하고요. pops 는 아빠를 애정 어린 말투로 부를 때 쓰는 단어로 미국에서 주로 쓰이며 19세기 초에 나왔다고 합니다. 아마도 papa 와 연관이 되어있겠죠? 참고로, '소상공인 상점', 프랜차이즈가 아닌 '작은 상점'을 mom and pop store 라고 합니다. 동네 엄마 아빠들이 운영하는 작은 사업이라는 뜻에서 유래했죠!
 
 ## poor
 * 가난하다; I'm so poor
@@ -2819,7 +3005,10 @@
  * 
  * #Play around (놀다, 장난치다) 
  * Stop playing around and get to work! 
- * 
+  * 새 TV 프로그램 아이디어를 이것저것 궁리해보고 있어. We've been playing around with ideas for a new TV show.
+  * play around with 사람 일 경우는 그 사람을 데리고 놀다, 놀아나다라는 뜻이 되어요. 
+  * play around with ~ 은 어떤 문제, 풀고자
+
  * #Play it cool! (아무 일 없는 것처럼 굴다) 
  * Here come the teachers! Play it cool, man! 
  * 
@@ -2926,12 +3115,24 @@
 ## RSVP
 * RSVP는 불어로 "Répondez s'il vous plaît(답장 부탁드립니다)"의 약자예요. 파티나 결혼식 초대를 하고 "RSVP 해주세요"라고 하면 "참석 여부 알려주세요"라는 뜻이랍니다.
 
+## ringer
+* 원래 경마에서 나온 표현인데요. 원하는 결과를 얻기 위해 누군가가 일부러 비슷한 생김새의 말로 원래의 말을 대체하는 걸 ring in 이라고 했어요. 그런 표현이 발전해서 지금은 본인의 신분을 속이고 경연 등에 참가하는 [부정 참가자] 를 의미하는데요. 영상을 직역하면 [제 생각엔 부정 참가자가 여기 있는 것 같아요] 정도로 해석이 됩니다. 초보라고 했지만 꽤 잘하는 모습이라 위트 있게 표현을 했고요. 의역하여 [초보가 아니신 것 같은데요.] 라고 해석이 되었어요. ringer 는 [꼭 빼닮은 사람] 을 의미하기도 합니다.
+  * 국제 스포츠 경기에서도 오래전엔 몇몇 부정 참가자들이 있었지만, 지금은 심지어 지역 레벨에서도 보기 어렵다. ex) There used to be a few ringers at an international sport competition back in the days, but it's hard to see one these days, even at a local level.
+
+## rigid
+* 플라스틱같이 잘 휘지 않는 뻣뻣한 것들을 'rigid' 하다고 하는데요. 사람의 성격이나 규칙 등이 엄격하고 융통성이 없을 때도 약간 못마땅해 하듯이 쓰는 단어입니다.
+* * = 우리 아빠는 생각에 융통성이 없어. My dad is very rigid in his thinking.
+
+
 ## right
 * 퍽이나   "Yeah, right."
 
 ## rich
 * 흔히 too rich for my blood라고 하는데요, 나한테는 너무 비싸, 예산초과야, 과분해 라는 뜻이랍니다. 어떤 음식이 칼로리가 너무 높다고 할 때도 사용해요.
   * 이 호텔은 나한텐 너무 비싸. This hotel is too rich for my blood. 
+
+## roast
+* 굽다; 볶은 커피/땅콩: roasted coffee beans
 
 ## rope
 * on the ropes : 궁지에 몰린, 패배 직전인; 2) have someone on the ropes 는 [를 궁지에 몰아넣다/패배 직전까지 몰아넣다] 라는 의미로 쓰였어요.
@@ -2960,6 +3161,9 @@
 ## rock
 * 그녀의 결혼 생활은 파탄 직전이다. Sue’s marriage is on the rocks. 
 * 2) 보통 수동태로 많이 쓰이며 be rocked 는 [매우 당황하다/혼란스럽게 되다] 등의 뜻으로 쓰입니다. ex) The whole class was rocked by the announcement.
+
+## rocket
+* 1) 주로 높은 지능/지식이 있어야 할 수 있는 일을 말하는 비격식 표현이에요. rocket science 와 brain surgery 를 합쳐서 생겨난 말입니다. 2) rocket 을 만드는데는 엄청난 과학/수학적 지식을 요구하고, 뇌 수술 또한 굉장히 성공하기 어려운 수술 중에 하나잖아요? 그 두 개를 합쳐놨으니 굉장히 어려운 일 이겠죠. 3) rocket surgery 대신 brain surgery 라고 말할 수도 있습니다.
 
 ## root
 *  내 생각엔 엄마가 방을 뒤진 것 같아. I think my mom has been rooting around my room,.
@@ -3022,6 +3226,15 @@
 * 그는 불운이 겹쳤다 He had a run of bad luck . 듣기 출처:동아 출판
 * 스타킹 올이 풀리다; There's a run in my old ones
 
+### run on
+* 토의는 예상보다 길게 늘어졌다. The discussion ran on for hours; : (말을) 계속하다, (필요 이상으로) 길게 끌다
+
+### run through
+* 그 가사에 깊은 우수가 흐른다. [ex] A deep melancholy runs through the lyrics. 1. 에 가득하다
+* 우리 한 번만 더 잠깐 스케줄 검토해요. [ex] Let's run through the schedule just one more time. 2. 을 빨리 살펴보다
+* 자, 파트 2 다시 가 봅시다. [ex] Let's run through part 2 again. 3. 을 연습하다
+* 티오도르는 자신의 재산을 2년 안에 탕진했다. [ex] Theodore ran through his money within two years. 4. (돈을) 다 써버리다
+
 ## rail
 * 을 비난하다, 격렬히 반대하다. = rail against 동사로 rail 은 [격분하다] 라는 뜻이 있어요. 주로 전치사 against 나 at 과 함께 쓰입니다.
     * 그의 제안을 왜 그렇게 비난했어? 뭐 잘못된 거라도 있니? ex) Why did you rail against his suggestion? Anything wrong with it?
@@ -3043,6 +3256,16 @@
 ## range
 * = 범위가 A에서 B에 이르다 * range from A to B  여러 가지 상황에서 정말 많이 쓰이는 표현이고요. 범위가 좀 더 다양할 경우엔 뒤에 to C to D 등으로 더 붙여서 쓸 수도 있습니다.
 	* = 선택하는 방의 종류에 따라 가격은 50달러에서 500달러로 다양합니다. The prices from 50 dollars to 500 dollars, depending on the type of room you choose.
+
+## reel
+* reel은 ‘얼레’입니다. 동사로는 감겨있던 것이 풀린다 하여 ‘빙글빙글 돌다, 비틀거리다’란 뜻이죠. 그리고 영상에서처럼 reel 뒤에 전치사 from, with, at 등을 붙이면 ‘~으로 인해 마음이 어지럽다, ~때문에 충격으로 어찌할 바를 모르다’라는 표현이 됩니다.
+  * 그들은 로또에 당첨되었다는 소식을 듣고 충격으로 휘청거렸다. They were reeling from the news that they had won the lottery. 
+
+## remind
+* 여기 모든 사진은 그날의 추억을 떠올리게 해줘. ex) Every picture here is a reminder of that day.
+  * a reminder (to A) of B = A 에게 B 를 상기시켜주는 것.
+* 2) Just a reminder 라는 표현 자체가 자주 쓰인답니다. 상대방이 잊어버릴 수도 있을법한 것을 다시 알려줄 때 쓰는 표현인데요. [잊지 마] 또는 [혹시나 해서 알려주는데] 정도의 의미를 갖습니다. 3) 또한 reminder 는 독촉장, 무언가를 알려주는 메모, 노트, 편지 등을 의미하기도 합니다.
+  * 혹시나해서 빨리 알려줄께. 오늘 학교에서 3시에 샘 데리고 와야 하는 거 알지? ex) Just a quick reminder. You will need to pick up Sam from his school at 3 o'clock.
 
 ## relate
 * 너희들 가족 관계니? ex) Are you guys related?
@@ -3110,6 +3333,10 @@
  * 이빨에 꼈어                  It's stuck in my teeth
  * 계속 그 생각 나 it stuck in my head
 
+## smith
+* Smith 라는 이름이 있습니다. 이 단어는 철과 관련된 일을 하는 사람을 지칭하는 단어인 smitan 에서 유래되었으며, [때리다/치다] 의 의미를 가지는 smite/strike 와도 관련이 있어요. 그래서 철을 쳐야 하는 직업을 가진 사람들 뒤에 보통 smith 가 붙는데요. 아래와 같습니다.
+    * goldsmith : 금 세공사  silversmith : 은 세공사  keysmith : 열쇠장이  bladesmith : 칼 대장장이  locksmith : 자물쇠 판매상
+
 ## smart
 * ##book smart 책 따위로 얻은 지식은 많지만 눈치, 상식 등의 실생활, 경험적인 지식이 부족한 사람
 * #get smart with; #잔머리 굴리다; don’t get smart with me 혹은 까불지마
@@ -3119,6 +3346,10 @@
 
 ## stick
 * 기다리고 있을게 I'll stick around.
+* 우리가 함께 뭉친다면 괜찮을 것이다. If we all stick together, we ought to be okay. 듣기 출처:Collins
+* 동사처럼 보이진 않지만 동사입니다. 'stick' 이 아니라 복수형인 'sticks' 를 써야한다는 점 꼭 숙지해 두시고, 과거형으로 쓰고 싶을 땐 'upped sticks' 라고 하시면 되는 비격식 표현입니다.
+  * = 이렇게 갑자기 이사를 가야 하는 게 그닥 좋진 않네요. I don't enjoy having to up sticks out of blue like this.
+* 그의 팔은 소매 밖으로 빠져나와 있었어. ex) His arms stuck out of the sleeves.
 
 ## sticky
 * #포스트잇(#post-it) -> #sticky notes
@@ -3130,6 +3361,10 @@
 	* = 축구하는 것에 관해서라면, 난 형편없어. When it comes to playing soccer, I stink.
 * 원래 stink 은 [구리다, 악취가 나다] 인데, 우리말에도 [더렵게 못하다, ~하는데 구리다] 라고 하듯이 [어떤 일에 취약하다, 재주가 없다] 라는 의미로도 쓰여요.  [suck at 명사 : ~를 못하다] 와 동의표현 입니다.
   * = 여기 좀 냄새난다. It really stinks in here.
+
+## science
+* pseudo-science : 유사과학, 사이비과학; 과학적이지 않지만 과학적인 방법에 근거했다고 여겨지는 믿음이나 관행을 의미합니다. 
+  * 점성술은 유사과학의 일반적인 예이다. ex) Astrology is a typical example of pseudo-science.
 
 ## screw
 * 그녀는 태양 때문에 눈을 찡그렸어요. She screwed up her eyes because of the sun.
@@ -3212,6 +3447,7 @@
 
 ## swear
 * ~의 효능을 믿다, ~의 효능에 기대다  = swear by ~
+  * swear up and down = affirm = 단언하다
   * 내 와이프는 살 빼는데 요가의 효능을 믿는데, 저녁에 자기 전에 많이 먹어. ex) My wife swears by yoga to lose her weight, but eats a lot before she goes to bead at night.
 * swear by 사물 = ~가 효과가 있다고 믿다
   * = 우리 엄마는 이 비타민이 효능이 있다며 맹신하고 계셔. My mom swears by these vitamin pills. 
@@ -3234,12 +3470,18 @@
 ## swing
 * 가능할 것 같아; i think i could swing that; swing: 잘 해내다
 
+## spiral
+* -ward는 방향을 나타내주는 접미사로 downward는 ‘아래로’입니다. upward(위로), backward(뒤로), forward(앞으로) 처럼요. 그리고 spiral은 ‘소용돌이, 나선형’을 뜻합니다. 꾸불꾸불 꼬아져 있는 나선형 계단도 spiral stairs라고 합니다.  그래서 downward spiral은 나선형 모양으로 아래로 한 없이 추락하는 이미지가 연상되는데요, 이표현은 조절하기 힘들 정도로 상황이 악화되는 것을 의미합니다. 영상에서처럼 우울했던 감정이 더 심해지는 걸 말할수도 있고, 이 외에 어떤 분야든 상황이 한없이 나빠질 때 downward spiral 라고 비유할 수 있습니다. 
+  * 이유는 모르겠는데, 기분이 계속 우울한 상태야. I don’t know why but I’m on the downward spiral.
+  * 나는 불행의 소용돌이에 갇힌 느낌이야. I feel like I’m trapped in a downward spiral of unhappiness.
+
 ## spike
 * spike의 기본 뜻은 ‘못이나 침처럼 뾰족한 것’ 혹은 ‘뾰족한 것으로 찌르다’입니다. 하지만 음료와 관련해서 ‘강한 술이나 향을 타다’라는 의미도 있지요. 뒤에 전치사 with를 써서 ‘로 섞다’라고 하시면 됩니다.
   * 그는 그의 음료에 위스키를 탔다. He spiked his drink with whiskey.
 
 ## spot
 * #핸디캡; we spotted the opposing team two goals; 인정했다
+ * hit the sweet spot : 제대로 공략하다. 제대로 치다. 2) 테니스의 라켓이나 야구 배트를 가지고 공의 정확한 부분을 쳐서 자기가 원하는 플레이를 할 때 hit the sweet spot 이라고 해요. 영어에서는 무언가 잘 됐을때 sweet 하다고 하거든요. 
  * on the spot 곧장, at the scene of action: 그 자리에서, in a pressed positon: 곤란스러운 상황
  * hit the spot                    죽인다
  * 스팟                   hit the same spot
@@ -3310,6 +3552,7 @@
   * 4) (강조) 아주, 매우, 제대로
     * 정말 멍청하다. [ex] That's straight up stupid.
 * * 쫙 펴봐; Here # straighten those out
+* 너희들 상황 다 정리 했어? Did you guys get everything straightened out?
 
 ## sell
 * a hard sell: (물건을 사도록) 설득하기 어려운 사람 혹은 그룹.
@@ -3329,10 +3572,16 @@
 	* = 그녀는 냉장고에 물건을 채워넣었다.  ▷ She stocked up the fridge.
 	* (stock up on/with ⓝ = ~로 채우다, ~를 많이 사다)
 * stock 은 [재고]라는 뜻도 있는데요. 재고를 살필 때 정확하고 찬찬히 살펴보는 모습에서 유래된 표현입니다. take stock of ~  = 을 점검하다, 곰곰이 생각하다, 전반적인 평가를 내리다
+* : 'stock taking', '재고 조사'에서 온 표현인데요. 재고를 철저히 조사하듯, '신중하게 살펴보다' 또는 과거의 일을 '천천히 되짚어보다' 라는 뜻이에요!  [ 숙어 ] take stock of
+  * 오늘 차 한 잔 내놓고 앉아서 내 인생을 천천히 되짚어봤어. [ex] Today I sat by myself over a cup of tea and took stock of my life.
 
 ## storm
 * '폭풍' 으로 가장 잘 알려진 storm 은 무언가가 빠르고 강렬할 때 비유적으로도 많이 쓰입니다. take ~ by storm 도 마찬가지로 누군가의 마음을 단번에 사로잡거나, 순식간에 성공을 거두는 것을 의미할 때 많이 쓰이는 표현입니다.
 	* = 2018년에 BTS 는 그들의 음악과 공연으로 전 세계를 단번에 사로잡았다. In 2018, BTS took the world by storm with their music and performance.
+
+## slide
+* sidle은 조용하고 조심스럽게 슬쩍 다가가는 걸 의미합니다. 새엄마는 영화를 보고 계신 아버지를 보고 신이 났고 조심스럽게 그의 옆으로 살짝 다가갔다는 의미로 sidle up next to my dad라고 하였습니다. 
+    * 그 수줍어하던 소년은 내 옆으로 슬쩍오더니 나의 이름을 물었다. The shy boy sidled up to me and asked me my name.
 
 ## slick
 * 머리모양이나 언변, 행동이 slick하다고 표현하면 막힘없이 쭉 흐르는 걸 나타냅니다. 영상에서처럼 slick back look이라고 한다면 번지르르하게 뒤로 싹 빗어 넘긴 머리 모양을 뜻하죠. slick은 동사로 ‘기름 따위를 발라 머리를 매끈하게 빗다’라고 하셔도 됩니다.
@@ -3456,6 +3705,11 @@
 * shy 가 [부끄러워하는] 의 의미 외에도 미국에선 비격식 표현으로 필요한 만큼의 양에서 [~이 부족한] 의 의미를 갖기도 합니다. 
   * = 그는 90세가 되기 2주 전에 죽었다. He died two weeks shy of his 90th birthday.
 
+## shallow
+* shallow는 수심 등이 얉다는 뜻인데, 사람에게 사용되면 뭔가 깊이가 없고, 천박하고, 사람의 내면보다는 외모를 더 중시하는 성격을 나타냅니다. 영상 속의 여자도 “I’m pretty shallow”라고 말하면서 자신 또한 남들처럼 사람의 외모를 엄청 따지는 편이라고 말하고 있습니다. 
+  * 이 물고기들은 보통 수심이 얉은 해역에서 발견된다. These fish are usually found in shallow waters.
+  * 나보고 천박하다고 할 수 있지만, 어느 누가 섹시한 여자를 좋아하지 않겠어? You might say I’m shallow but who wouldn’t like a hottie?
+
 ## share
 * : 안 좋은 일을 충분히 겪다 [ 숙어 ] have one's share (of something)
 	* 그렇게 말하면 안 되지, 나도 좋지 않은 일 충분히 겪었다고. You can't say things like that, I've had my share.
@@ -3518,10 +3772,21 @@
 * 허울 뿐인; be only skin deep; 피부가 깊어봤자 얼마나 깊을까
 
 
+
+## sound
+* 원래 sounding board 는 강단이나 설교단 뒤에 설치하는 판자로 소리를 더 크게 울리게 해주는 역할을 합니다. 그래서 비유적으로 ‘새로운 아이디어를 실험해 볼 수 있는 대상’을 뜻합니다. 소리를 냈을 때, 그것이 반향이 되어 퍼지듯, 자극을 주었을 때 어떻게 반응하는지 본다는 의미에서요.  혹은 상대의 감정, 의견을 잘 들어주고, 좋은 의견까지 제시해 주는 사람을 말하기도 합니다. 하지만 영상에서는 나서서 조언해 주지 않고, 그저 잘 들어주는 사람이라는 뜻으로 쓰였습니다.
+  * 나는 새로운 아이디어가 생기면 내 친구에게 말하고 어떤지 테스트 해 본다. My friend is my sounding board for new ideas.
+
+
 ## soft
 * ~에 약하다, ~을 매우 좋아하다 = have a soft spot for
   * 그런 문제아를 왜 그리 좋아하는지 나도 잘 모르겠어. ex) I don't know why I have a soft spot for such a trouble maker.
 * Soft: 미국에서는 부정적 의미로 인지됨으로 사용하지 마셈 처맞기 싫으면 
+
+## solid
+* solid는 '단단한, 고체의'의 의미 외에도 속어로 '훌륭한' 이라는 뜻도 있습니다. 이런 의미로도 자주 쓰이니 외워 두세요^^
+* SOlid 9
+* 라는 것에 대한 제대로된/확실한 증거가 없어. There is no solid evidence that 절 ~
 
 ## soldier
 * 나아가다; She soldiers on
@@ -3539,6 +3804,10 @@
 ## stern
 * 영상에 나오는 김정은의 얼굴이 stern 의 완벽한 예라고 보시면 될 것 같아요! 화난 듯 무표정으로 뚱하게, 근엄하게 있는 것을 의미하고요. 누군가의 말이 stern 할 때는 [심한 (말)] 을 의미합니다.
 	* 그의 심각한 모습에도 불구하고, 그는 굉장히 마음이 따뜻한 사람이야. ex) Despite his stern look, he is a very warm-hearted person.
+
+## surprise
+* come as no surprise = 놀라운 일이 아니다
+    * - It probably doesn’t come as a surprise to anyone who knows me.
 
 ## succeed
 * ‘성공하다’라는 뜻으로 잘 알고 계실 동사 succeed 는 ‘자리를 물려받다’라는 뜻도 있습니다. 패턴은 다음과 같습니다. 
@@ -3808,6 +4077,10 @@
 * track 은 말 그대로 사람들이 따라가도록 나있는 [길] 을 의미하는데요. 무언가를 함에 있어서 목표를 향한 길에서 벗어나지 않고 잘 따라갈 때 on track 이라고 합니다. 제대로 된 방향으로 나아갈 때는 on the right track, 잘못된 방향일 때는 on the wrong track 이라고 하고요. 잠시 잘못된 방향으로 갔다가 다시 돌아왔을 때는 get back on track 이라고 할 수 있어요.
 	* 데이빗. 넌 정말 잘 하고 있으니까 너 자신을 의심할 필요가 없어. ex) David. You're definitely on the right track, so no need to doubt yourself.
 
+## tone
+* 동사로 주로 tone up 이라고 쓰여요. 몸매뿐만 아니라 소리라든지, 색상 등을 한 단계 높여서 세게하는 것을 의미하는데요. 영상에서처럼 toned 라고 쓰이면 몸이 [탄력 있는, 탄탄한] 이라는 의미를 갖게 됩니다.
+  * 이 운동은 확실히 처진 피부를 탄력 있게 해줄거예요. ex) This exercise will definitely tone up loose skin.
+
 ## tongue
 * 발음하기 힘든 문장: tongue twister
   * #말문이 막힌다                 I get #tongue-tied.
@@ -3955,6 +4228,8 @@
   * 그가 예술 작품 하나를 망치는 것 같애      I feel like she’s tearing down a sculpture
   * 떼어놓다 'tear 사람 away ' I'm sorry to tear you away from your comuter, but I need your help.
   * cry over; ~ 때문에 울다, tear up; 눈물을 글썽거리다
+* * tear through : 굉장히 빨리 지나가다. 굉장히 빨리 (무언가를) 하다.
+  * 단지 독후감 숙제를 하기 위해서 그 책을 굉장히 빨리 읽고 지나갔다. ex) I tore through the book just to do my book report homework.
 
 ## term
 * 조금 문제가 되는 사람, 사물, 상황 등을 이해하고, 받아들이고, 처리하려고 노력하는 것을 의미하는 표현이에요.  = come to terms with
@@ -3994,6 +4269,9 @@
 ## water
 * 그는 새로운 일을 아주 자연스럽게 익힌다. She takes to new works like a duck to water . 
 * 난 내 아들에게 뭘 하라고 말을 할 수가 없어요. 내 말은 귓등으로도 안 들으니. I can’t tell my son what to do; it’s water off a duck’s back with him. ; water off a duck's back; 오리의 궁둥이에는 오리 기름이 분비되어 물이 닿아도 젖지 않음; 부정적인 상황에서 쓰임
+
+## worry
+* i worry about you: 항상 걱정한다.  i'm worried about you: 말하는 그 시점에 걱정한다.
 
 ## world
 * out-of-this world = 기상천외한, 현실에서 동떨어진
@@ -4049,6 +4327,9 @@
 	* 네 아이들에게만 너무 몰두하지는 마. 너와 네 아이들에게 안 좋아. ex) Don't get too wrapped up in your children. It's bad for you and your children.
 * = wrap one's brain/head/mind around 머리를 꽁꽁 싸매듯이 이해하려 하는 것을 의미해요. 조금 어렵고, 혼란스럽고, 생소한 것을 이해하려는 모습의 단어입니다.
 	* 방금 일어난 일을 이해할 수가 없어. ex) I just can't wrap my head around what's just happened.
+
+## where
+* 지경에 이르러써요; It got to the point where i couldn't sleep at night
 
 ## whip
 * 강도가 호주머니에서 식칼을 꺼냈다. The robber whipped out a kitchen knife from his pocket. 
@@ -4113,6 +4394,8 @@
 	* 내 업무량 때문에 정말 짓눌린 느낌이다. I feel really weighed down by the workload I have.
 * 기본적으로 weigh는 ‘무게를 저울질하다’는 뜻입니다. 이 상황에서는 상황의 경중이 얼마나 되는지 최종 결정을 내리기 전에 정황을 충분히 살펴본다는 의미이지요. 그래서 weigh criminal charges는 범죄 혐의가 어떻게 되고 범죄가 얼마나 중한지 조사한다는 것입니다. 
   * 그들은 그녀를 고발하기 전에 모든 증거를 면밀히 조사했다. They weighed (up) all the evidence before they filed charges against her
+* 우리말에서도 무언가 중요한 것에 [비중을 두다] 라는 말을 쓰듯이, 영어에서도 똑같이 [무게] 를 의미하는 weight 를 씁니다. due 는 형용사로 명사 앞에서만 쓰일 경우엔 [적절한] 이라는 의미를 가져요. 영상에서는 조금 더 자연스러운 의미 전달을 위해 [적절하게 살펴보지 못했다] 라고 해석이 되었습니다.
+  * 그녀는 엄마의 의견을 더욱더 중요시하는 경향이 있다. ex) She tends to give greater weight to her mom's opinions.
 
 ## whack
 * out of whack = 제대로 안 돌아가는; 기계, 시스템 등이 제대로 작동되지 않거나, 엉망진창이고 혼란스러운 상태를 가리켜 out of whack 이라고 합니다. whack 은 세게 후려 치는 것을 말하는데요, 내려 쳐도(whack) 말을 듣지 않는다(out of)는 의미입니다. 예를 들어 움직이지 않으려는 노새를 채찍으로 내려치거나, 고장난 기계를 탕탕 내려 쳐도 작동하는 않는 것 처럼요.

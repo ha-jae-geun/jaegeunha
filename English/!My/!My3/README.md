@@ -1,6 +1,9 @@
 # 접두어
 
 # 일상
+* 어머, 이것 좀 봐; look and behold 라고도 하는데요. behold 도 [보다] 라는 뜻의 단어에요. 무언가 놀랍거나 예측하지 못한 일이 일어났을 때 쓰는 감탄사입니다.
+	* 이것 좀 봐, 얘들 결승전에 진출했어!	 ex) Lo and behold, they made it to the final!
+* 우리가 함께 뭉친다면 괜찮을 것이다. If we all stick together, we ought to be okay. 듣기 출처:Collins
 * 또 시작이군. = Here we go again.
 * 내게 들려 줄 뭐 재미있는 소식 없어?; Have you got any interesting snippets for me? 
 * 이렇게 은혜를 갚는거야 this is how you repay me?

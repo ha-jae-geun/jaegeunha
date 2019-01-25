@@ -21,6 +21,33 @@
 
 # 수학
 * 기수: carninal number
+* addition; plus/add; two plus two equals four
+	* substraction; minus/substract
+	* multiplication; times/multiply
+	* division; divide
+* 소수; Decimal
+* 소수점; Decimal point 
+  - Ex) 0.09 →  point zero nine 
+	* 1.5 → one point five (수식을 읽을 때는 소수점을 그냥 point라고만 읽습니다.)  
+	* 13.25 → Thirteen point two five (소수점 앞 자리는 일반 숫자 형태로 읽되 소수점 뒷자리는 따로 읽습니다!)  
+* 분수; Fraction(s)
+	* 분모; Denominator 
+	* 분자; Numerator; ●  분수를 읽을 때는 한국과는 반대로 반드시 ‘분자부터 읽어야’ 합니다.  
+  - Ex) 1/2 → One half / One over two
+	* 2/3 → Two thirds / two over three
+	* 3/4 → Three quarter / three over four 
+  - 분자가 숫자 ‘2’이상의 경우에   ​분모는 복수형으로 읽습니다.
+	* 1/3은 ‘one third’로 읽지만
+	* 2/3은 ‘two thirds’로 읽어요!  
+* 양수; Positive number 
+* 음수; Negative number 
+  - Ex) 양수는 숫자를 그대로 읽지만, 음수의 경우 “negative + 숫자”로 읽습니다.  
+* 거듭제곱; Power
+  - Ex) N승 → (숫자) to the power of (지수) 
+  - 제곱(2승) → squared 
+  - 3승 → cubed; (“power of two”나 “power of three”로 읽어도 되지만 2승과 3승은 위처럼 읽는 법이 따로 있습니다! 숙지하면 좋아요!)  
+* 지수; exponent
+
 
 # 사칙
 * 이렇게, 어떤 수치를 말했는데, 듣는 사람이 그 수치가 적은 편인지, 큰 편인지 감이 안 올 것 같을 때! to put things in perspective라 말하고, 들으면 "아~" 할 수 있는 비교군을 말한답니다. perspective는 '관점'이라는 뜻도 있지만 '원근법'이라는 뜻도 있는데, 좀 더 멀리서 보면 전체 그림이 보인다는 의미에서 쓰는 표현이 아닐까 합니다! 이런 정보성 컨텐츠에서 자주 쓰이는 표현이니 알아두시면 좋겠죠?

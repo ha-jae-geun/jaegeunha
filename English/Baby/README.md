@@ -57,6 +57,56 @@
 * 롤러장 및 오락실에서의 저녁 데이트를? Roller Rink and Arcade?
 * 인형뽑기 위해 잔돈 필요해; i need some change for claw machine games
 * 넘어지다; to take a tumble = to fall over
+* baby나 child는 it으로 받는다; Do you know what it is?(딸인지 아들인지 알아?)
+	* 아들이나 딸이 있다고 할 때 흔히 "I have a son/daughter."라고 말하죠~? 이 외에도 자식이 나이가 어린 축에 있다면 "I have a boy/girl."이라고 말합니다. 소년이나 소녀 외에도 아들, 딸의 의미가 있답니다. 성별을 밝히지 않고 아이가 있다고 할 때는 kid/child(ren)이라고 하죠.
+	* 잘자네 sleep like a baby | a new #kid on the block; 처음이라 아무것도 모르는 신입생 느낌
+	* like a kid in a #candy store; 신나다 #child's play; 매우 쉬운일
+	* #부드러운 피부 it's like a #baby's butt/bottom; #smooth as a baby;s but(남자한테는 안됨)
+	* #차근차근 쉬운 것부터 천천히 한다 #take babysteps
+	* 우리 아들, 딸이에요: #That's my boy; That's my #boy/#girl; 2. 잘한다(칭찬)
+	* #boy, #girl
+	* #얌전한 남자 아이; #reserve #sissy(sister like) boy
+	* 이상적인 #자녀수가 얼마라고 생각하세요? What is the #perfect number of children a family should have
+	* 자녀관계가 어떻게 되세요? Do you have any #kids?
+	* #길거리 #부랑자 아이들	#street urchin kids
+	* 왕년에 한인물 했겠네 						 He was kind of a #baby
+	* #쌍둥이 identical twins, [frǝtə́ːrnəlfraternal #fraternal twins
+	* #딸바보; #doting father; ~ is such a doting father
+	* #세 쌍둥이; triplet 미국·영국 [|trɪplət] #네 쌍둥이; #quadruplet 미국식 [kwɑ:drʊplət] 
+	* #gemini; [dʒémǝnài, -ni] #쌍둥이 자리
+	* #늦둥이 My parents had me late
+	* #연년생 we're one year #apart
+	* #다년생의; #perennial; mickey mouse remains a perennial favorite
+	* #혼혈  is #half korean and half filipino
+	* #기저귀 						 (#disposal) dáiəpǝr diaper, nappy
+	* #까꿍; #peek-a-boo -> #babyboo 2. #찜; I will make Jane my baby-boo.
+	* #유모차 #baby carriage = #buggies
+	* #땀띠약, #아기 #파우더; #talcum powder(#powder)
+	* #순둥이; the baby is very #gentle <> hard to manage, has no manners, is very wild
+	* #모유 수유 #breast feeding; breast feeding room; can't #feed, cant be milked
+	* #mother's milk
+	* I was breaset-fed as a child
+	* #분유; #dried milk, #powdered milk 아가들: #formula (milk)
+	* #젖병; #feeding bottle
+	* 애가 벌써 걸음마를 시작했어요
+	* 	‘tɑ:dl잉 <> turtle ’t3:rtl Has he[she] started toddling yet?
+	* 아기 봐드릴까요? Do you need a #babysitter?
+	* #돌보다; I don't like how you're #treating the children
+	* #attend to; 1. 돌보다 2. #처리하다; attend to other details of the event
+	* #take someone under one's wing; I took him under my wing; #wing
+	* #동요 									 sing a nursery rhyme
+	* #양육권 #custody; she wanted me to have custody -> Custody battle(#battle)
+	* #위자료 #alimony #prenuptial agreement에 의해 해결
+	* #어리광 부려 You are being a #big baby
+	* #손주; #grand kid
+	* #배아; #embryo; #human embryos
+	* *korea people add a year as soon as babies are born
+	* #자녀 ##아들 ##딸 ##아이 #아기 #걸음마
+	* 애기들: 블랭키(blanky)
+	* 잘자; #nite nite
+	* 소변; #peepee, #poopoo
+	* mommy daddy
+	* #상처; #booboo
 
 # 아기
 * 흔들어 재워줄게; i'm gonna rock you

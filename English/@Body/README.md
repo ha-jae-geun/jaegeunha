@@ -362,6 +362,7 @@ Don’t cross your legs bc when you put one knee over the other, it sends blood 
 * 팔자주름	smile lines, i've got smile lines
 * 왜 사람의 입냄새가 심할 때 kicking이라고 할까요? 사람의 입냄새는 공기중으로 스멀스멀 퍼지는 것이 아니라 갑자기 훅 들어오는 기분이죠? 그래서 뭔가 강하게 치는 느낌이라서 kicking이라고 표현하는 겁니다. 혹은 have a bad breath라고도 합니다! Seriously, your breath is kicking. Go brush your teeth.
 * 두꺼운 #입술 ##입 fuller lips full lips
+	* 입술은 탱탱해; my gloss is popping
 	* 입숭를 더 오므려봐; Purse your lips more.
 	* 입술에 물집 I got blisters on my lip
 	* #부르트게 만들다; #fat lip; give someone a fat lip; did she give that fat lip
@@ -594,6 +595,7 @@ His sudden smile made her go #weak at the knees. ; 2. 약한
 * ##엉덩이	hip(허리꼐 허리 옆 골반), butt, booty, 'bʌtək buttock
 	* 골반이라고 하면 엉덩이부터 떠오르는데요. 엉덩이부터 척추와 양쪽 다리를 이어주는 큰 골격을 골반, 영어로는 pelvis 라고 합니다. 그 주변 부위를 pelvic region 이라고 하는데요. 영상에서처럼 배꼽에서 한 뼘 정도 내려간 부위를 의미해요.
 	* 짱구 엉덩이 내미는 것; Why did you moon them?; Mooning can be very offensive
+	* junk in the trunk = 엉덩이에 살이 두둑히 찐; I like a curvy woman, one with a little junk in the trunk.
 * #bum, #fanny(2. 여자 거기), #bum
 * #tush #duff; #궁둥이
 * 납작한 엉덩이: flat 
@@ -647,6 +649,8 @@ that's quite a package/junkㅌ
 * 먹은 거 다 어디로 가는거야?	Where do all the calories go?
 * 어떻게 몸매를 유지하지?	How can she stay so fit?
 * 몸매가 좋다	You are in great shape.
+	* : 누군가에게 말랐다고 질책을 받다 skinny shaming이란 몸이 마른 사람을 보고 너무 말랐다고 나무라거나 비난하는 행위를 뜻합니다. 예를 들어보겠습니다.
+		* 말랐다고 그만 좀 뭐라 그래. B: Oh, stop skinny shaming. 
 	* thin은 '날씬하다', '마르다' 이런 뜻인데 "너 참 날씬하다!"라고 말할 때 thin이라고 하는 것보다 slender, slim 이런 말을 쓰는 게 훨씬 예의있는 느낌입니다. 혹은 fit이라고 해도 좋아요. fit은 '건강한 느낌으로 탄탄하다'라는 뜻으로 가장 긍정적인 뜻을 내포하고 있거든요. skinny는 '보기 안 좋을 정도로, 안쓰러울 정도로 말랐다'와 같이 약간 부정적인 뉘앙스가 있어서 남한테 쓰지 않는 게 좋습니다. super stick thin은 나뭇가지(stick)처럼 왕(super) 말랐다는 뜻이죠. 비격식 회화체 표현입니다. 앞에 붙은 like는 '마치', '좀' 이런 뜻으로 사람들이 대화할 때 습관적으로 많이 쓰는 표현이니다              
 	* You are jacked; 마약했다라는 뜻인데 그만큼 몸이 좋다는 것이기 때문에 칭찬
 		* ripped

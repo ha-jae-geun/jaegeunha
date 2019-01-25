@@ -100,7 +100,7 @@
 * #holla = #holler = 부르다
 * name A after B; B에서 이름을 따서 A를 부르다
 * 내 이름은 ~고 ~라 불러						 My name is ~ , I just go by ~
-* everybody calls me __, you can just call me
+* everybody calls me , you can just call me
 * 뭐라고 불러요? What's it #called?
 * #본명; real #legal name
 * 누구의 이름을 따서 지었어요? 					 Who were you named after
@@ -133,7 +133,7 @@
 * #성; put the #surname =#family name = #last name
 * #별명; use #made-up name
 * 이름이 친숙하다; your name sounds familiar
-* *do you remember the name of that place\
+* do you remember the name of that place\
 * The #title of that movie/book/TV program
 * #이름(#handle) #부르다 #성함 #소환
 * [|ӕnə|nɪməti]; He agreed to give an interview on condition of anonymity예문 발음듣기
@@ -274,6 +274,7 @@
 * 아기의 탯줄을 								umbilical cord [ʌmbílikəl]
 * 제대혈(탯줄에서 나온 혈액)						 umbilical cord blood
 * #혈통 #핏줄; #lineage; from multiple family lineages
+	* ancestry는 ‘혈통, 가계’를 의미합니다. 만약 “What’s your ancestry?” 라고 물으면, ‘당신의 조상은 어떤 사람들이냐, 혈통이 어떻게 되느냐’라고 묻는 것입니다. 그리고 동사 trace를 써서 ‘혈통을 따져보다, 가계를 추적하다’라고 할 수 있습니다.
 * #동맥; #artery; #쇄골하 동맥; #subclavian artery
 * 전업 주부입니다. 		 Homemaker > housewife(전업 주부) > housekeeper(페이 받고 집안일 돌봄)
 * #scullion(부엌일 하는 사람, #접시 닦기) = #kitchen wench(#wench)
@@ -301,56 +302,6 @@
 * #시시덕 거리다 #꽁냥
 * my aunt on my dad's side, my aunt on my mom's side
 * ##고모 #이모
-* baby나 child는 it으로 받는다; Do you know what it is?(딸인지 아들인지 알아?)
-* 잘자네 sleep like a baby | a new #kid on the block; 처음이라 아무것도 모르는 신입생 느낌
-* like a kid in a #candy store; 신나다 #child's play; 매우 쉬운일
-* #부드러운 피부 it's like a #baby's butt/bottom; #smooth as a baby;s but(남자한테는 안됨)
-* #차근차근 쉬운 것부터 천천히 한다 #take babysteps
-* 우리 아들, 딸이에요: #That's my boy; That's my #boy/#girl; 2. 잘한다(칭찬)
-* #boy, #girl
-* #얌전한 남자 아이; #reserve #sissy(sister like) boy
-* 이상적인 #자녀수가 얼마라고 생각하세요? What is the #perfect number of children a family should have
-* 자녀관계가 어떻게 되세요? Do you have any #kids?
-* #길거리 #부랑자 아이들	#street urchin kids
-* 왕년에 한인물 했겠네 						 He was kind of a #baby
-* #쌍둥이 identical twins, [frǝtə́ːrnəlfraternal #fraternal twins
-* #딸바보; #doting father; ~ is such a doting father
-* #세 쌍둥이; triplet 미국·영국 [|trɪplət] #네 쌍둥이; #quadruplet 미국식 [kwɑ:drʊplət] 
-* #gemini; [dʒémǝnài, -ni] #쌍둥이 자리
-* #늦둥이 My parents had me late
-* #연년생 we're one year #apart
-* #다년생의; #perennial; mickey mouse remains a perennial favorite
-* #혼혈 ` is #half korean and half filipino
-* #기저귀 						 (#disposal) dáiəpǝr diaper, nappy
-* #까꿍; #peek-a-boo -> #babyboo 2. #찜; I will make Jane my baby-boo.
-* #유모차 #baby carriage = #buggies
-* #땀띠약, #아기 #파우더; #talcum powder(#powder)
-* #순둥이; the baby is very #gentle <> hard to manage, has no manners, is very wild
-* #모유 수유 #breast feeding; breast feeding room; can't #feed, cant be milked
-* #mother's milk
-* I was breaset-fed as a child
-* #분유; #dried milk, #powdered milk 아가들: #formula (milk)
-* #젖병; #feeding bottle
-* 애가 벌써 걸음마를 시작했어요
-* 	‘tɑ:dl잉 <> turtle ’t3:rtl Has he[she] started toddling yet?
-* 아기 봐드릴까요? Do you need a #babysitter?
-* #돌보다; I don't like how you're #treating the children
-* #attend to; 1. 돌보다 2. #처리하다; attend to other details of the event
-* #take someone under one's wing; I took him under my wing; #wing
-* #동요 									 sing a nursery rhyme
-* #양육권 #custody; she wanted me to have custody -> Custody battle(#battle)
-* #위자료 #alimony #prenuptial agreement에 의해 해결
-* #어리광 부려 You are being a #big baby
-* #손주; #grand kid
-* #배아; #embryo; #human embryos
-* *korea people add a year as soon as babies are born
-* #자녀 ##아들 ##딸 ##아이 #아기 #걸음마
-* 애기들: 블랭키(blanky)
-* 잘자; #nite nite
-* 소변; #peepee, #poopoo
-* mommy daddy
-* #상처; #booboo
-* 
 * 아기 말
 * #grandma; #외할머니 my mom's mom #친할머니 my dad's mom
 * 그냥 할머니: #elderly lady / someone
@@ -368,47 +319,14 @@
 * #수양가족; #foster family
 * #입양
 * 그가 자라면, 그가 가게를 넘겨 받을 것이다. 		 When he's big, he'll take over the shop.
-* 과거에는 이러한 기술들을 아버지가 아들에게 #물려주었다.
-* These skills used to be handed down from father to son.
-* 물려 받은 것 							 It’s #hand-me-down
-* #pass down; It was passed down from generations before
-* 많은 재산의 상속인이다 to be #heir to a large fortune예문 발음듣기
-* [er] heir apparent 미[명사] 법정 추정 상속인
-* ##legacy1. (죽은 사람이 남긴) 유산 They each received a legacy of $5000.예문 발음듣기 
-* legacy duty 유산 상속세, carry on the legacy 전통의 맥을 잇다
+	* 과거에는 이러한 기술들을 아버지가 아들에게 #물려주었다.
+	* These skills used to be handed down from father to son.
+	* 물려 받은 것 							 It’s #hand-me-down
+	* #pass down; It was passed down from generations before
+	* 많은 재산의 상속인이다 to be #heir to a large fortune예문 발음듣기
+	* [er] heir apparent 미[명사] 법정 추정 상속인
+	* ##legacy1. (죽은 사람이 남긴) 유산 They each received a legacy of $5000.예문 발음듣기 
+	* legacy duty 유산 상속세, carry on the legacy 전통의 맥을 잇다
+	* 유전; family trait는 '가족의 특성'으로, 가족 내 멤버들이 가지는 독특한 특징, 예를 들면 유전적으로 내려오는 신체적인 특징이나, 태도, 성격 등을 말해요;  our family trait.
 * #물려 #전수 #인계 #상속 #유산
-* 자업자득이다				 That serves you right 꼬락서니 좋다: Serve you right
-* you made your bed, you lie on it
-* to #ask for it
-* a taste of your own medicine; you get a taste of your own medicine
-* #자업자득
-* intervene 자동사][V] ~ (in sth) ; The President intervened personally in the crisis
-* meddling 미국·영국 [médliŋ: 간섭; Government meddling in... 
-* 간섭하지 말아요 Mind your own business, Stay out of my business, It’s not your place
-* stop being a backseat driver
-* stop #side-seat driving / #back-seat driving
-* #poke/#stick your nose into something; #nose-sticking; 몹쓸짓 하는 사람
-* 네가 알바 아니야. 						 eɪnt 'bɪznəs tu:θ noʊzIt 
-* Mind your own business. ain't none of your business. / be no skin off one's back[nose, teeth]
-* It's #not my problem
-* 내 일이 참견하지 마!! 	 Don't butt in on my business. Don't meddle in other people's affairs.
-* #stay in your lane
-* 얌전히 있어; #keep one's nose clean
-* 다른 사람의 일에 참견하지좀 마 Keep your nose out of other’s business
-* #말 참견하다; #interject
-* 캐묻기 좋아하는 										 Snoopy
-* 꼬치꼬치 캐물으려는건 아니였어						 I didn't mean to pry.
-* 좀 캐묻지 좀 마.							 Don't be so nosy! 
-* 그 언론은 그의 #사생활을 꼬치꼬치 캤어 				 The press pried into his affairs.
-* *open book: 1. 마음, 생각 따위를 쉽게 들키는 사람 2. 사생활이 전부 알려져있는 사람
-* 사생활을 침해하다 #invade one’s privacy = #violate one's privacy
-* 사생활을 존중하다 respect the privacy of
-* #불법으로 침해하다; #tresspass
-* #관여; #stay out of; I want to stay out of this problem
-* #간섭 #캐묻다 #참견 | #너나 잘해 #알 바 #알바
-* 오지랖 넓은 이웃 							 ‘noʊzi a nosy neighbor 
-* 쓸데없이 오지랖 넓어서 문제 일으키거나 자기 혼자 너무 감장적이라 소설쓰는 사람 #drama queen
-* #busybody; your father was a busybody like you
-* #오지랖
-* 신경써주다; look out for; just looking out for me
-* #적당 #정도 #중도
+

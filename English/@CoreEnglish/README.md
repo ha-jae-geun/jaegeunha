@@ -44,6 +44,9 @@
 * orange; or 발음 + 인ge,  Strawberry; 스트로 입술울 모으지 않은 상태에서 '스트로' + bear + 이 
 
 # 기타
+* unwind[언윈드](X)가 아니라 unwind[언와인ㄷ] (O)입니다.
+* x: 1. 바람을 빼거나 크스 [ks] 2. 아니면 올려주거나 그즈 [gz]
+* vanilla; 버닐러; perilla leaves; 퍼릴러 
 * 그녀 데려가는데 얼마나 걸려? How long is it gonna take to get her out of there; dad: 데드 혀 땅; How long is it gonna; how에서 빡 짓고  한 호흡에; take to get her: take 빡 찟고 한호흡; take, to 두번 t 소리; 아러데어
 * split; t 강조 필요없이 호흡을 짧고 강하게 소리내면 됨
 * roud; 로우드; choreography choreography 미국식 [ˌkɔːriˈɑːɡ-]; graphy 앞에 강세

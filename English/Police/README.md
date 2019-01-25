@@ -23,6 +23,7 @@
 * 요즘 수상했어; you been acting so shady  
 * 누가 훔쳐갔나봐; somebody jacked us
   * 그녀는 도벽이 있다 She is a kleptomaniac [ˌkleptəˈmeɪniə] 
+  * 걔 완전히 절도광이야. She's completely klepto. kleptomaniac의 줄임말로, 계속 물건을 훔치는, 도벽 있는 사람을 말해요. [klèptəméiniæ̀k] 
 * 오늘 바바리맨 봤어; i saw a flasher today
 	* 바바리맨에게 당했어요; i've been flashed so many times on the train
 * 수상한 남자를 데리고 있다; they've got this creeper guy
@@ -349,6 +350,8 @@
   * #특검; #special prosecutor
   * 예심; 이용자 참여  그의 예심은 금요일로 예정되어 있다. He has a preliminary hearing scheduled for Friday . 듣기
 * #변호사 #국선 변호인							 public defender
+  * bar는 barrister(법정 변호사)에서 온 단어로 ‘변호사직’이라는 뜻이 있습니다. 그래서 bar exam은 변호사 시험, 사법고시를 의미합니다. bar가 들어간 다른 표현도 예문에서 함께 알아보겠습니다.
+    * 그는 6개월만 공부하고 변호사 시험에 합격했다. He only studied for 6 months and passed the bar exam.
   * 혹은 ‘변호사’를 뜻하기도 하는데요, lawyer는 법을 전공하고 변호사 자격증을 딴 사람을 넓게 포괄하여 부르는 말이고, advocate은 법정에 서서 의뢰인을 대변하는 변호사를 특정하여 부르는 말입니다. 
   * #변호인 Councillor(2. #지방의회의 #위원)
   * #counsel; 고문 변호인

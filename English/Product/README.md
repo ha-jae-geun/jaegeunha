@@ -1,6 +1,8 @@
 # 시장
 * big-box retailer, superstore, megastore, supercenter 등으로 불리기도 하는데요, 저가로 많은 양의 물건을 판매하는 대형 할인 매장을 의미합니다. 대용량으로 제품을 팔다보니 제품 상자가 큰 편이기 때문에 붙여진 이름이겠죠. 미국의 경우로 보면 Wal-Mart, Target, Kmart 등이 그 예입니다. 
 	* 대형할인점은 전국적인 체인점을 갖추고 있다. The big-box retailer has a nation-wide chain of stores.
+* 아빠나 엄마를 나타내는 단어는 전세계적으로 봐도 발음이 약간 비슷한다는 걸 알 수가 있어요. 아빠, baba, dada, papa 등으로 말이죠. 이유는 신생아가 6-8개월 사이에 반복적으로 옹알이를 하는 단계에서 가장 많이 사용하는 말이기 때문인데요. 
+   이렇게 아기들이 하는 말이라, 영어에서의 father 는 원래는 발음의 용이성 때문에 fader 라고 쓰였다고 해요. dad 와 daddy 라는 단어는 16세기에 처음 기록되어 있다고 하고요. pops 는 아빠를 애정 어린 말투로 부를 때 쓰는 단어로 미국에서 주로 쓰이며 19세기 초에 나왔다고 합니다. 아마도 papa 와 연관이 되어있겠죠? 참고로, '소상공인 상점', 프랜차이즈가 아닌 '작은 상점'을 mom and pop store 라고 합니다. 동네 엄마 아빠들이 운영하는 작은 사업이라는 뜻에서 유래했죠!
 * #잡화점; #general store
 * swap meet: 특정 종류의 ㅁㄹ건들을 가진 사람들이 물건들을 바꿀 수 이쓴 장터; 차의 부품, 액션 피규어, 만화책
 * flea market; 벼룩시장
@@ -106,6 +108,8 @@
 	 	* 저 상점들의 대부분의 제품은 원가에 5%를 더해 판매된다.  Most products sold in those stores are sold at a 5% markup.
 	 * -----------------------------------------------------------------------------------------------
 	 * cheap, affordable
+	 * 북미권에서 '가장 저렴한 옵션을 선택하'는 것을 표현하는 말로 'cheap(en) out'을 사용합니다. # 생필품은 'life essentials'이나 'daily necessities'라고 하면 간단하죠!
+	 	* 무조건 제일 싼 차를 사는 게 아니었어. I shouldn't have cheapened out on a car.
 	 * #깎아 주세요 					 Can you lower the price?, Is that your best price?
 	 * 다른 가게에서는 더 싸게 팔던데요 			 I saw lower prices at other stores
 	 * If you give me a discount can you give me a #break on that

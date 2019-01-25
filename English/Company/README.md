@@ -256,11 +256,13 @@ What internships are you going to apply for?; begin his summer internship
 * 연구 실적 research achievements[progress]
 * 영업 실적 sales (figure)
 * 승진; get promoted, get a promotion, give someone a promotion
-* 걔 그냥 #내버려 둬. #승진 실패했거든.
-prə1moʊʃn Cut him some slack—he failed to get a promotion.
-* 승진할 기호; #room to advance = an aoppotunity to receive promotion
-* 너 나 제치고 애나벨 승진시켜줬어? 			 you promoted 애나벨 over me?
-* 승진하다; #receive the promotion
+	* be passed over는 자신보다 어리거나, 경험이 없는 사람에게 부당하게 밀린다는 뜻입니다. for 뒤에는 어떤 일에 밀렸는지 써주시면 됩니다. 
+		* 그녀는 마케팅 일에서 밀려서 매우 화가 났다. She was upset for being passed over for the marketing job.
+	* 걔 그냥 #내버려 둬. #승진 실패했거든.
+	prə1moʊʃn Cut him some slack—he failed to get a promotion.
+	* 승진할 기호; #room to advance = an aoppotunity to receive promotion
+	* 너 나 제치고 애나벨 승진시켜줬어? 			 you promoted 애나벨 over me?
+	* 승진하다; #receive the promotion
 * ‘sign off 				 sign off early: 퇴근, 메시지의 끝, 사인을 하여 승인 
 * ‘오늘은 단축 근무라 3시에 퇴근해요.
 I get off work at three today because of shortened working hours.

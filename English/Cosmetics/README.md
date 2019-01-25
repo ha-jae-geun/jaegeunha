@@ -22,6 +22,7 @@
 * 촉촉하게 하다; moisten; moisturize; 로션, 토너에 한정되서 쓴다
   * 눈물 글썽이다. His eyes were moist with tears
 * 이 메니큐어 엄청 럅게 발린다; This nail polish is really sheer
+	* 네일을 하면 기분이 좋아지죠? 내가 직접 매니큐어를 바르면 paint my nails = do my nails 이라고 해요. 만약 네일샵에 가서 받는다면 get one's nails done 이라고 합니다.머리손질도 마찬가지예요. 직접하면 동사 do를 미용실에 가면 get을 써주세요.
 * 한 네겹 바르면 되나; Maybe if i do like four coats
 	* 가볍게 몇 번 누르거나 닦는 것을 의미해요. 영상에선 얼굴 위의 파운데이션을 쿠션으로 누르는 것을 의미하는데요. 의역되어 [파운데이션 바르기]라고 해석이 되었습니다. 파운데이션을 누르는 걸 우리말에선 바르는 것으로 말하기 때문인데요. 실제 크림 같은 것을 가볍게 바르는 경우엔 [dab A on B = A를 B에 바르다]라고 쓸 수 있으니 참고하세요!
 	* * 가볍게 몇 번 누르거나 닦는 것을 의미해요. 영상에선 얼굴 위의 파운데이션을 쿠션으로 누르는 것을 의미하는데요. 의역되어 [파운데이션 바르기]라고 해석이 되었습니다. 파운데이션을 누르는 걸 우리말에선 바르는 것으로 말하기 때문인데요. 실제 크림 같은 것을 가볍게 바르는 경우엔 [dab A on B = A를 B에 바르다]라고 쓸 수 있으니 참고하세요!
@@ -94,6 +95,8 @@
 	* 참고로, 화장이 너무 두껍게 돼서 떡지고 뜨는 걸 cakey하다고 표현해요. 또, '두꺼운 화장'을 thick makeup 혹은 heavy makeup이라고 해요. 한듯, 안 한듯한 화장은 minimal makeup 혹은 natural makeup이라고 합니다
 * statement lip은 입술을 강조한 메이크업을 말해요. 입술을 제외한 부분을 최소한으로 정돈하고, 과감한 컬러의 립으로 스타일을 결정짓는 메이크업이죠. 'statement'는 '진술/성명서'로 잘 알려져있는데요, 이런 경우 자기 의견에 대한 '주장/표출'을 의미합니다. 즉 makeup 혹은 fashion에서 statement란 과감한 시도로 'make a statement', 확실한 자기 주장, 어필, 개성을 표현하는 거예요.
 	* 입술을 강조할 때 가장 중요한 건 밸런스라고 생각해요. For me, wearing a statement lip is all about balance.
+* 형용사로는 [얼굴의] 이라는 뜻이지만, 명사로는 얼굴에 피부 관리를 받는 것을 facial 이라고 합니다. 하지만 facial 앞에 형용사가 쓰이면 facial treatment 라고 쓰는 것이 일반적입니다. 
+	* do/get a facial : 피부/얼굴 관리를 받다
 
 # 아토피
 * 아토비: has atopic dermatitis(족저 근막염) -> have a skin condtion; it is a condition from birth(the birth xx)

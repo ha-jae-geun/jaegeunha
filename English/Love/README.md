@@ -20,6 +20,7 @@
 * ##PDA public display of affection; keep PDA away from the office; that's too much PDA on the subway
 * 남자 한명을 점찍엇어요; i spotted a guy
 * 임자가 있었다고 말하고 싶고; i wanna tell everyone you're taken
+	* 'off the market'은 임자있다는 비유적인 표현입니다. 비슷한 뜻으로, 'taken', 'in a relationship'도 자주 사용하죠^^?
 * 사랑하는 사람; loved one
 * 사랑에 있어서도 그녀는 잘 해낼 것이다. She’ll likely do just fine, even in matters of the heart. 듣기 출처:YBM
 * 무슨 수를 써서라도 우리가 이 게임을 이겨야 한다는 거 너도 알지? You know we must win this game by hook or crook. 
@@ -60,10 +61,16 @@ I have a big crush on you / I have a thing for you, i'm into you
 * 차다; i dumped him; i was/got dumped
 * 점점 멀어지다; we've grown apart; we grew apart
 * 바람피다; cheat on someone
+	* 연인 관계에서 'commitment'는, 그 사람에게 정착해서 진지하게 만나는 것을 말해요. 오랜 기간 한 사람만 사귀면서 전념하는 이러한 commitment를 두려워하는 'fear of commitment' 혹은 'commitment phobia'라는 표현도 있답니다.
+		* 자기를 사랑해. 하지만 누군가에게 정착할 준비가 안됐어. I love you. but I'm just not ready for this kind of commitment.
+	* 보통 fornicate은 배우자가 아닌 다른 사람과 성관계를 맺는 것을 뜻하는데, 여기서 부적절한 행위를 범했다는 것은 인형에 대고 변태성행위를 했다는 것을 의미합니다. 
+		* 몇 몇 이슬람 국가에서는 간통하면 태형으로 처벌받는다. (cane 매질하다) Fornication is punished by caning in some Islamic countries.
 	* 바람 피는 상대; side chick = mistress
 	* 1) [바람을 피우다] 라는 의미를 가진 표현에는 크게 have an affair (with) 와 cheat on + 사람 이 있어요.  2) affair 는 [일/사적인 일/불륜 관계] 등의 의미가 있는데요, have an affair 은 '결혼한 사람' 또는 '사실혼 관계에 있는 사람' 이 며칠에서 길게는 몇년의 '기간' 과 '감정' 을 가지고 바람을 피우는 걸 의미하는 반면에,   3) [cheat on + 사람] 은 [를 속이고 바람을 피우다] 라는 의미로, '결혼한 사람' 과 '결혼하지 않은 여친/남친' 관계에 있는 사람이 다른 사람과 꼭 감정이 없어도 성관계를 하는 것을 의미합니다. 예를 들면, 원나잇 스탠드 같은 경우 cheat 이라고 하지, affair 라고 하지 않습니다.
 	* Casanova도 호색가지만 여러 여자와 ‘사랑’에 빠지는 스타일인데 반해, womanizer는 감정 없이 이여자 저여자 건드리고 다니는, 소위 ‘계집질’에 가까워서 경멸의 어감이 강합니다. 그래서 인터뷰어가 해리에게 womanizer냐고 물은 것은 꽤 기분이 언짢을 수 있는 질문입니다.
 	* 남자는 많아; there are lots/plenty of fish in the sea/ocean
+	* 한 명 이상의 사람과 공개적으로 동시에 연애를 하는 것을 ‘비독점적 다자연애(polyamory)’라고 합니다. 각 파트너 별로 일대일로 긴밀한 관계를 갖으면서도 여러명과 동시에 연애를 할 수있고 또 그것을 파트너들이 인정해 주는 연애형태를 뜻합니다.  영상에서는 polyamory의 형용사인 polyamorous를 사용해 be in a polyamorous relationship라고 표현하였습니다.
+		* 비독점적 다자연애는 여러 사람과 관계를 유지하는 거야. Polyamory is being in a multi-partner relationship.
 * 잊다; finally over somebody
 	* i haven't abeen able to get past it
 	* move on
@@ -769,6 +776,7 @@ I have a big crush on you / I have a thing for you, i'm into you
  * 그 여자는 그보다 5살 어리다. /많다 The woman he's dating is five years younger than him.
  * The woman is five years his junior.(senior)
  * 전 제 이상형을 기다리고 있어요.					 I'm waiting for my Mr. Right.
+ 	* 그는 그가 꿈꾸던 사람과 결혼했다. He married to the woman of his dreams. [사람 of one’s dreams]
  	* 이상적인 남친이 아니에요; He's not boyfriend/girlfriend material
  * 너 누구 만나고(사귀고) 있니?						 Are you seeing her?
  * Nobody special. 이라는 뜻은 만나긴 하는데 특별한 사이는 아니라는 뜻

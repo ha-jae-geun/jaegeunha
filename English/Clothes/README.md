@@ -198,8 +198,7 @@
 * #멜빵바지	#overalls
 * 멜빵; Suspenders
 * #천박한 옷, #촌스러운 	You should get rid of tacky clothes.
-* 천박한 옷들은 갖다버려.
-* #kitschy (←#kitschiest) 미국·영국 [kítʃi]
+  * 천박한 옷들은 갖다버려. #kitschy (←#kitschiest) 미국·영국 [kítʃi]
 * #가죽옷	leather; feel the leather
   * *가죽	skin, leather
     * faux: 가짜; faux fur: 인조 모피; faux leather; 인조 가죽 faux pas 미국식 [ˌfoʊ]  영국식 [ˌfəʊˈpɑː] 
@@ -230,6 +229,7 @@
 * #인어 공주가 옷 ## 갈아입는 걸 몰래 보다 he was peeking and watching her change
 * 그 #드레스 입으니까 이쁘다 					 That dress looks good on you.
   * #Gown; 1. 목욕탕 가운 2. 특별한 날 입는 긴 옷 a party #frock; 드레스
+  * 1) bathrobe 의 줄인말로 목욕이나 샤워 후에 따뜻함을 주고 남은 물기를 없애주기 위해 입는 가운을 의미합니다. 보통 잠옷 위에 입는 가운은 gown 이라고 합니다.
   * fill out; 양식을 채우다; 2. 살찌다 3. 풍만하다; 진정한 바다 여신은 풍만해야해; a true ocean goddess must fill out her bodice; bodice: 여성 드레스의 허리위에서 어깨까지 즉 가슴부분 [ˈbɑːdɪs] 
 * #재벌 2세 같다. 							 You look like a million bucks.
 * 여자 재벌 2세 ; #heiress (특히 상당한 재산의) 여자 상속인

@@ -379,6 +379,7 @@
 	* 오스카 수상자는 -입니다; The Oscar goes to someone
 	* -배역으로 골든 글로브 상을 수상했습니다; win her Golden Globe for her role of - in -
 * 이야기 #전개가 빠르다 storyline ##unfolds quickly
+	* 전개가 느렸어; The pacing was too slow
 * 흥미로운 전개로군 this is an interesting development
 * #구성이 탄탄하다 it is ##tightly plotted
 * ^^##tight #tightly hold tight/tightly 뭘 쓰든 상관 없음

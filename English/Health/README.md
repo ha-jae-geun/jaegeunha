@@ -483,6 +483,8 @@
 * 1. Do I have to be hospitalized? ‘hɑ:spɪtəlaɪz
 * 2. be in the hospital
 * 입원시키다	입원하다: get/be admitted
+  * 병원이나 시설 등과 관련하여 동사 admit은 ‘입원시키다, 받아들이다’라는 의미가 됩니다. 외료진(they)들이 아버지의 상태를 보고 중환자실(I.C.U: Intensive Care Unit)에 입원시켰다(admitted him into)는 것이죠.
+  * 이 클리닉은 일요일에는 입원 환자를 받지 않는다. This clinic doesn’t admit patients on Sundays.
   * 제임스 선생님께 월요일 열 시로 예약하고 싶어요. 	I'd like to make an appointment with Dr. James at 10 o'clock on Monday
   * 잠깐만 기다려 주세요. 죄송해요. 그날은 예약이 꽉 찼어요. 	Wait a minute. I'm sorry. The doctor is booked up that day.
   * 종합 검진을 받고 싶어요. 	I want to get a general check-up. 
@@ -754,3 +756,10 @@
 * 약먹었니(헛소리); are you #on drugs? / are you high / what are you smoking / what are you on?
 * did you take your medicine today?
 * #약사; #chemist #약국 #chemists 병원 조제실; #pharmacy
+* - I’ve decided to come off the medication. 나 약물 복용을 끊기로 결심했어.
+  * - She went off the pills to have a baby. 그녀는 아이를 갖기 위해 피임약을 끊었다. 
+  * 그녀는 골다공증 치료약을 다시 복용하기 시작했다. She got back on the pills for osteoporosis. 
+  * 이처럼 동사는 다양하게 쓰이지만 기본적으로 on과 off는 복용중, 복용 중단을 가리킵니다. 참고로 go off of 에서 원래는 of 가 없어야 문법적으로는 맞기 때문에 생략 하셔도 됩니다. 주로 미국권에서 습관처럼 잘 붙이곤 합니다. 
+  * 드디어 나 약 복용을 중단했어.  Finally, I’m off my meds.
+  * 약물 복용과 관련하여 전치사 on과 off에 대해서 설명드렸습니다. 여기서도 stay on them(=antidepressants)이라고 하였는데요, 약물을 복용하는 것을 유지(stay)하지 않겠다는 의미로 ‘복용을 관두겠다’는 것입니다.  하지만 stay off antidepressants가 우울증약을 복용하지 않겠다는 것은 아닙니다. stay off는 ‘멀리하다, 삼가다’는 뜻으로 이렇게 말할 경우 ‘우울증 약을 멀리하다’가 됩니다. 
+    * 나 구강피임제 그만 복용할래. I’m not gonna stay on the (contraceptive) pills. 

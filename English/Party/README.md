@@ -1,7 +1,9 @@
 # 분위기
+	* It's not a party; It's more of a get-together
 * 편한 분위기: #casual atmosphere, 고급스러운 분위기: #upscale/#fancy atmosphere
 * 분위기 좋다 					 	 	 Good vibe/atmosphere: 사물만
-* #물 좋아 that place #kicks/#rocks 
+	* 샘 초대하는 걸 잊지마. 걔가 분위기 메이커야.
+	* #물 좋아 that place #kicks/#rocks  ex) Make sure to invite Sam. He's the life of the party;  the life of the party 는 어떤 사교적 모임이나 파티에서 에너지를 불어넣어주고, 중심이 되어 주변 사람들을 즐겁게 해주는 사람을 표현할 때 쓰는 단어 입니다.
 * #rock on; 마음ᄁᅠᆺㅈ ᅟᅳᆯ기다; feel free to rock on
 * 분위기 띄우다; #liven up; to liven up
 	* 분위기 가볍게 할려고 농담하는거야; i'm making a joke to lighten the mood

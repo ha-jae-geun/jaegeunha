@@ -243,6 +243,8 @@
 * #아이고
 * #감탄할만한; #admirable, #praiseworthy, #outstanding - 감탄할만한, 훌륭한 
 * ☆#catch someone by surprise; my mother caught me by surprise
+	* come as no surprise = 놀라운 일이 아니다
+		* - It probably doesn’t come as a surprise to anyone who knows me.
 	* 고통이나 두려움 때문에 움찔하는 모습, 얼굴 표정 등을 의미하는 단어입니다. 영상에서 보시듯 움찍해서 뒷걸음질 치는 것도 flinch 라고 할 수가 있어요. 움찔이 아니라 소스라치게 놀랄 땐 be frightened (격식), be flabbergasted (비격식) 이라고 합니다. [ˈflæbərɡæstɪd]
 		* 탐은 사라가 그의 등을 만졌을 때 움찔했다. ex) Tom flinched when Sarah touched his back.
 	* scare the bejesus out of 사람 = 매우 놀라게 하다  [bidƷí:zəs] 동의어로 scare the shit/crap out of 라고도 하는데요, 매우 흔히 쓰이는 말이지만 속어이니 주의해 주세요.
@@ -937,6 +939,8 @@
 	* #좌불안석; being unable to sit comfortably[still](from anxiety) / be ill at ease 
 	* 정신을 잃을 정도로 무서웠어; It scared me out of my wits; out of one's wit: 제정신을 잃은; scare과 함꼐 자주 쓴다.
 * 자신감은 많이 있어요; i have a lot of confidence
+	* : (신조어) 자신감을 갖다, 자신이 가지고 있는 성질 등에 대해 있는 그대로 자랑스러워 하다 own it
+  		* 굉장히 다양한 어감을 가지고 있는 이 표현은 own it이라는 두 단어만으로도 캐치프레이즈처럼 자주 접할 수 있답니다. 자신이 가지고 있는 좋은 점도, 부족하게 느껴지는 점도 직시하고 기꺼이 받아들인다는 뉘앙스의 말이죠. 일종의 삶의 태도라고 볼 수 있습니다.
 	* ☆자신있다; ☆i think I can <> I don't think I can; do you think you can do this?
 	* I know I can <> I don't know if I can
 	* you need more confidence, you need to have more confidence, 
@@ -1207,7 +1211,8 @@
 
 # 냉정
 * 냉정하져 chill out, 긴장 풀어 sit back and relax
-* 고도의 긴장이 요구되는 때 crunch time 미국식  영국식   단어장추가
+	* 그의 목소리가 굉장히 냉담하기는 하지만, 사람들은 다소 그것에 매력을 느껴. ex) Although his voice is so aloof, people are attracted to it somehow. 잘 다가오지 않고, 친절하지 않은 것 처럼 보이는 사람을 aloof 하다고 합니다.
+	* 고도의 긴장이 요구되는 때 crunch time 미국식  영국식   단어장추가
 	* 우리 모두는 엄마의 수술 때문에 굉장히 긴장되는 날을 보냈다. ex) We all had a nerve-racking day because of mom's surgery.
 	* 긴장을 풀다; #unwind, #relax, #uptight, loosen up my mind
 	* 1) 폭탄을 터뜨릴 때 불을 붙이는 뇌관을 fuse 라고 하는데요. 그것을 제거하는걸 defuse 라고 합니다. 이렇게 긴장된 상황에서 원인을 제거하니, [긴장/위기를 해소하다] 라는 의미로 쓰이는데요.

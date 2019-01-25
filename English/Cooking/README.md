@@ -37,6 +37,7 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 	* 그것이 튀어나올 때 까지 기다려야 했다; i had to wait for it to pop up
 	* 빵이 다 됐을 때 버터를 발라 먹었다; when the bread was done, i spread lots of butter
 * (전자레인지) 핑ㅇ소리가 들린 것 같으니까; i think i just heard a ping
+* 참고로 우리말로 ‘집게’라고 통칭해서 말하는 모든 기구를 tongs라고 하지는 않습니다. 공구용 펜치를 뜻하는 pincers, pliers, 눈썹 정리할 때 쓰는 족집게는 tweezers, 의료용 집게는 forceps 등 다양하니 쓰임에 주의해 주세요. 
 
 # 고기
 * 안심; filet mignon; filet mignon
@@ -51,6 +52,8 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 # Kitchen
 * #앞접시; please give me a #small plate
 * 두 그릇으로 나눠 주세요; Could we have this in two plates
+* 여기서는 음식을 내보인다(present)는 의미로 플레이팅(food plating)을 presentation이라고 하였습니다. 정확히 말하면 food plating은 어떤 식기에 음식을 어떻게 담는지이고, presentation은 음식을 내보이는 방법에 대한 더 넓고 전체적인 개념입니다. 그치만 호환해서 사용하셔도 큰 무리는 없습니다.
+	* 플레이팅은 음식의 맛 만큼 중요하다. The presentation of food is also as important as its taste.
 
 # Ingredient
 * 강낭콩; kidney beans
@@ -150,6 +153,8 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 * 설탕 조금만 넣어주세요; Easy on sugar please
 * 그리고 저는 기름을 한 방울 넣을건데; i'm going to add a splash of oil
 * 양파에 푹 담가서요. Smothered in onions
+* 저어주면서 익히다; stir-fry each of the ingredients separately
+	* 굽다; 볶은 커피/땅콩: roasted coffee beans
 
 # Restaurant
 * 고급 식당; an #upmarket restaurant 
