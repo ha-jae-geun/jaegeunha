@@ -1,3 +1,7 @@
+# 경찰
+* 'the boys in blue'는 경찰을 재밌게 표현하는 방식이랍니다. 푸른 제복 때문일텐데요~ 이처럼 'blue'가 경찰의 상징으로 사용되는 경우가 종종 있습니다. "Black lives matter"가 피부색 때문에 과잉진압되는 흑인들을 위한 구호라면, "Blue lives matter"는 경찰이 스스로를 보호할 권리를 보장하라는 구호랍니다.
+
+
 # 나쁜짓
 * 출동 준비해; suit up
 * 달려들다; 공격; come at someone with knife: ~에게 공격적으로 달려들다

@@ -121,6 +121,8 @@
 * #추월; He pulled out to overtake a truck. 그가 옆으로 끼어들며 그 트럭을 추월했다
 * #bullet lane; 추월 차선 -> slang: 될대로 되라 
 	* 차선 바꿔요 ;Change lanes
+	* carpool lane은 '다인승 전용차로'로, 교통체증이 발생하는 시간에 2명 이상이 승차한 차량만 주행할 수 있는 전용 차로를 말해요. 우리의 버스전용차로를 생각하면 쉬운데요, 차이점은 버스만이 아닌 모든 차량에 해당되며, 카풀이나 친환경차량 이용을 독려한다는 점이랍니다;) 정식명칭은 HOV(High-Occupancy Vehicle) lane 입니다.
+		* 카풀 레인을 불법 주행하는 운전자들을 많이 I saw many drivers illegally running the carpool lane.
 * #후진; reversing / backing up
   * #좌회전; #turning left
 * #교통 규정 #traffic regulation

@@ -1,5 +1,8 @@
 정전# 기타
 * 눈과 귀를 막고; we cover our eyes and ears
+	* '손에 머리를 묻고'를 나타내는 영어 표현이 바로 with one's head (buried) in one's hands입니다. 이건 손에 머리를 묻고 있는 상태를 나타내며, 동사로 손에 머리를 묻는다고 할 때는 bury/put one’s face/head in one’s hands라고 말합니다. 화나거나 울 때 등 묘사를 하면서 사용하기 좋은 표현이죠~
+		* 너무 속이 상해서 잠시 얼굴을 손에 묻고 울었다.  I was so upset; I put my head in my hands and cried for a while.
+	* 그는 머리를 손에 파묻고서는 조금 흐느꼈어. With his head in his hands, he sobbed a little.
 * 정전기 피할수 있죠? How can i avoid static electricity
 
 
@@ -360,6 +363,7 @@ Don’t cross your legs bc when you put one knee over the other, it sends blood 
 	* bulb(전구)의 형용사 입니다. 코와 같은 신체부위를 표현할 때 자주 쓰는데요, 주먹코처럼 크고 둥글 납작한 모양을 의미합니다. 주먹코를 좋아할 사람은 많지 않으니, 부정적인 어감으로 쓰이겠죠? He has a huge, bulbous nose.
 * #보조개	dimple [‘dɪmpl]; have nice dimple
 * 팔자주름	smile lines, i've got smile lines
+	* = 이 미간 주름을 어떻게 없애지? – 인상을 쓰지 마. How could I get rid of my frown lines? – Just stop # frowning.
 * 왜 사람의 입냄새가 심할 때 kicking이라고 할까요? 사람의 입냄새는 공기중으로 스멀스멀 퍼지는 것이 아니라 갑자기 훅 들어오는 기분이죠? 그래서 뭔가 강하게 치는 느낌이라서 kicking이라고 표현하는 겁니다. 혹은 have a bad breath라고도 합니다! Seriously, your breath is kicking. Go brush your teeth.
 * 두꺼운 #입술 ##입 fuller lips full lips
 	* 입술은 탱탱해; my gloss is popping

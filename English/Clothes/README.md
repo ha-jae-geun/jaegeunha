@@ -11,6 +11,8 @@
  * attire; 옷을 얼마나 갖춰입었는지
    * formal attire, casual attire, business attire
 
+* 미국영어로 실핀은 'bobby pin'이라고 부르는 것이 보편적이랍니다.
+  * 실핀들을 이용해서 머리 위의 땋은 부분을 고정하세요. [ex] Use bobby pins to secure the braid on top of the head.
 * 꾸미다; primp 와 preen 모두 [몸치장을 하다] 의 의미를 가져요. primp 의 경우엔 머리나 메이크업을 약간 고치기 위해 시간을 쓰는 것을 의미하고, preen 의 경우엔 좀 더 매력적으로 보이기 위해 단장하는 것을 의미하는데요. 보통 영상에서처럼 함께 쓰입니다.
   * groom은 사람이나 동물의 외모를 가꾸고 손질한다는 뜻이고 feature는 어떤 것의 특징, 특색, 혹은 사람의 이목구비를 지칭하기도 합니다. 그래서 발레리 본 소벨은 메이크업은 단지 꾸미는 일이 아니라 당신이 가진 최고의 특징을 강조하는 일이라는 자신의 신념을 말하고 있습니다. 
     * 외적으로 보이는 디자인이나, 어떤 일을 하는 방식이 절제되고 심플한 것을 말합니다. 영상에서는 '겸손하다'라고 번역하였습니다. * understated = (스타일, 색상, 장식 등) 절제된, 꾸밈이 과하지 않은
@@ -238,6 +240,8 @@
 * 오늘 아주 근사하네 						 You’re looking fly today son!
 * 나 자켓 후다닥 대충 걸쳐입었어						 I just threw on a jacket 
 * 오 정말 잘 차려입었네요 어디 가냐? #get dressed You all dressed up (in). Are you going somewhere???
+  * ‘가장 최상의 수준의’란 뜻의 to the nines는 보통 ‘차려입다’라는 동사와 함께 잘 쓰입니다. 노래에서 You got fixed up to the nines라고 했는데 get fixed up은 쫙 빼입다란 뜻이고 to the nines와 합치면 “너 꽤 멋지게 빼입었네”라는 뜻이 됩니다. 
+    * 학생들은 프롬파티를 위해 최고로 꾸몄다. (be dressed up : 차려입다) Students were dressed up to the nines for the prom.
 * 나가기 전에 두껍께 껴입고 나가라~			 Bundle up before you go out.
 * #layer up; You should layer up
 * 따뜻하게 입어 			 	 Bundle up, Be sure to dress warm.

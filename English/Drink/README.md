@@ -57,6 +57,7 @@
 	* #한잔 할까?	wanna get a drink?
 	* 혼자 술 마시다	drink with the flies(#flies)
 	* #위스키 한 잔 주세요	a #shot of whiskey please
+		* 위스키는 다양한 칵테일의 베이스가 되곤 하여 여러 가지 음료와 섞어서 먹는데요. 아무것도 섞지 않은 채로 먹는 위스키를 neat whisky 라고 합니다. 우리말로는 보통 '스트레이트' 하게 먹는다고 하는데요. neat 하게 먹는다도 많이 쓰입니다.
 	* #데낄라	술 -> 손목에 있는 소금 -> 라임
 	* #보드카	독한 술이기에 샷으로 먹지 않는다.
 	* #증류주	#spirit
@@ -111,6 +112,7 @@
 	* #turnt; i'm so turnt
 * #reel; 비틀 거리다; 취하다
 	* #get drunk; 취하다; I get drunk on very little alcohol
+	* 요전번에 너 정말 장난 아니게 취했더라. The other day, you were totally off your face. off one's face
 	* 마시고 취하자; Let's get drunk on wine
 	* he has #one too many
 	* i’m sobering up(동사), you must sober up

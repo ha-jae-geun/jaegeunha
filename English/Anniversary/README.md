@@ -103,6 +103,7 @@
 * [명사] 민스파이(mincemeat을 넣어 작게 만든 동그란 파이. 특히 영국에서 전통적으로 크리스마스 때 먹는 음식); #mince pie 
 
 # 기념일 #국경일 기념일: #red-letter day; #national holiday
+* 흥미로운 점은 전국적인/미연방에서 지정하는 Federal Holiday가 있고 주마다 쉬는 날이 다른 State Holiday가 있다는 사실~!! 여기서는 미국 전역에 걸쳐 쉬는 Federal Holiday를 살펴보겠습니다.
 * #centenary [sen|tenəri]
 * #wedding anniversary, #school anniversary, 100days, #1주년; #first anniversary
 * Celebrate #anniversary yearly

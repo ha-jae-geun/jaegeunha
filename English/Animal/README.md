@@ -81,6 +81,8 @@
 * #야생 야생 고양이, 살쾡이					a feral cat; dangerous[feral] animal
 
 # 개
+* 동물을 # 중성화 하는 것을 'neuter'라고 해요. neuter는 '중성의'라는 의미를 가지기도 합니다. 본래 암컷, 수컷 모두에게 사용할 수 있는 표현인데요, 주로 수컷에게 사용해요. 암컷 동물의 난소를 적출해 중성화시키는 것은 'spay'라 한답니다.
+	* 우리 개 어제 중성화수술 받았어. My dog got neutered yesterday.  [ˈnuːtə(r)] 
 * 새벽판 신문; Bulldog edition
 * 엉망진창; be a dog's breakfast / dog's dinner
 * 겁이많고 비굴하면서 쓰레기같은/보수 성격의; Yellow dog / Blue dog

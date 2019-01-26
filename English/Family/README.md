@@ -217,7 +217,7 @@
 * #번식 #reproduce #reproduction #수정 fertilize 미국식 [|f3:rtəlaɪz] 
 * 제 아내가 #임신했어요! 	 	 My wife is pregnant! I‘m expecting, she gets pregnant
 	* 와아프; missus 미국·영국 [ˈmɪsɪz]
-	* *How many months have you been pregnant
+	* How many months have you been pregnant
 * #baby fever; An urgent desire to have a baby or grandchild.
 * #진통중에 내가 한 말이네; that's what I told you; when you were #in labor
 * 제가 집에서 진통 중일 때, when i was laboring at home
@@ -311,6 +311,7 @@
 * #고조 할아버지; #great-great grandfather
 * #할머니 #할아버지 #노파
 * #adopt, #take in, #raise - (남의 아이를) 키우다, 입양하다 <-> abandon - 버리다, 유기하다
+	* 1) foster 는 [아이를 맡아 기르다] 라는 의미와, 형용사로 쓰였을 경우엔 [수양의, 양~, 위탁의] 정도의 의미가 있습니다. Foster care 는 여러가지 종류의 보육원을 의미하는 상위 개념의 단어이고요.  2) 이렇게 실제 부모는 아니지만 아이들을 돌봐주는 수양 부모를 foster parent(s) 라고 하기도 해요. 입양 부모는 adoptive parent(s)라고 해요. 입양의 경우엔 법적으로 호적에도 올라가고 실제 부모가 되는 것이지만 foster parent 의 경우엔 입양할 사람이나 실제 부모가 나오면 보내주어야 한다는 점에서 다릅니다. 3) 애완동물의 경우에도, 보호소에서 데리고 나와, 입양하는 사람이 나올 때까지 돌보는 장소를 foster home 이라고 한답니다. 4) aged out of foster care는, 보육원에 있을 수 있는 최대 나이인 21세까지 보육원에서 살았고, 21세가 되자 보육원에서 나와야만 했다는 뜻입니다.
 * #유기; #abandon; #abandonment, #desertion, #forsaking - 떠남, 유기 
 * #foster system; #foster parents에게 양육을 맡기는 제도; 좀 사는 가정이 국가에 신청하면 보조금 나옴
 * #양자: ~'s #foster kids

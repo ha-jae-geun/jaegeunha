@@ -30,6 +30,8 @@
 	* 존은 한때 부자였는데, 지금은 빈털터리가 되었다. Once wealthy, John is now down for the count. 
 	*  당신은 부자가 될 거에요.  You’ll be farting through silk; 비단 속옷은 부자만 입음
 	* 원래 filthy 는 [더러운, 추잡한] 이라는 의미가 있는 단어예요. 종종 rich 와 함께 쓰여 filthy rich 라는 단어를 쓰는데, 돈이 굉장히 많은 것을 의미합니다. ex) We'll be filthy rich with this new menu!
+	* 공주가 아주 가난했던 것은 옛날 이야기. 그녀는 지금은 확실히 초라함에서 우아함으로 변신한 것이다. 자수성가; The princess used to be quite poor. She certainly moved from rags to riches.
+* 겨우겨우 먹고살다; make ends meet; live from hand to mouth; keep boddy and soul together 
 * 어마가 돈줄을 쥐고있다; Mom holds the purse string in my family
 * 집게사장이 돈을 긁어모으고 있어; Krabs is raking it in; rake
 * : 가치를 ‘지니다’라고 할 때 동사 hold 혹은 have를 써주세요. 그리고 금전적 가치(monetary value)라는 것은 화폐로서의 가치를 지니고 있다는 말입니다. 그 만큼 향신료가 귀한 대접을 받았던 것이죠.

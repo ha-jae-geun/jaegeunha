@@ -1943,6 +1943,7 @@ I am always overlooked(간과), never discount the contributions, put someone do
 	* 실망스러운 일이다; That's a real downer
 	* 꽤나 실망하죠; She is pretty gutted
 	* 새로운 언어를 배우는 것은 정말 답답해. 		 It’s so frustrating to learn a new language. 
+	* : (비격식 숙어) 꽉 막힌 것 같이 답답하다, 무기력하고 당혹스럽다 #climb the walls
 	* 늦어서 미안해. 								 I’m sorry I’m late. 
 	* 방해해서 미안해. 							 I’m sorry to interrupt. 
 	* 해를 끼치려던 건 아니었어. 						 I meant no harm. 

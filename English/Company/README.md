@@ -98,6 +98,7 @@
 * 프로젝트 마감일을 맞추기 위해서 제 휴가를 반납하기로 했어요.; I'm giving up my holidays to meet the deadline for the project.
 * 제 교대 근무가 공휴일에 있어요.; My shifts fall on a public holiday.
 * 재택 근무제를 도입하다 / introduce a telecommuting system (for 2 days) 
+	* '집에서 일하다'는 work at home이라고 표현해도 무방하지만, work at home은 공식적으로 재택근무가 아니라, 그냥 집에서 일하는 거라는 뉘앙스입니다. 재택근무하다'는 work from home이라고 하는 게 좀 더 명확한 의미전달이 될 것 같습니다. ^^
 * 그들에게 2일간 휴가를 주다 / give them a vacation for 2 days
 * 임시 사무실을 임대하다 / rent a temporary office (for 2 days) 
 * A를 임시 사무실로 사용하다 / use our storage room as a temporary office﻿

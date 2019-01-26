@@ -1,8 +1,10 @@
+
 * 우정; ‘이성간의 우정’을 cross-sex friendship이라고 하였습니다. 이 외에 male female friendship, friendship with the opposite sex 라고 표현할 수도 있습니다.  반대로 ‘동성간의 우정’은 그냥 friendship이라고 하거나, 이성간의 우정에 반대되는 개념으로 설명하려면 same-sex friendship 이라고 하시면 됩니다.
 	* 이성간의 우정에 대해서 믿니? Do you believe in cross-sex friendship?
 * 친구 만나; 1. 친구한테 친구 말할 때 i will meet up a friend / some friends(my xx) 2. 친구 소개; This is my friend Oliver
 * 우리 흩어져서 가야할것 같아; I think we should split up
 * 친구 Old/good sport, homies
+	* homie는 '친구'를 뜻하는 슬랭으로, 주로 흑인들, 힙합문화권에서 동네 친구, 가까운 친구를 말할 때 사용해요. homeboy, homegirl, homey라고도 쓰이며, 복수형은 homies입니다.
 	* 진정한 친구; fast/loyal/true friends; 
 	* 2) '친구는 또 다른 나의 모습' 이라는 말 한번쯤 들어보셨나요? alter ego 는 '절친' 을 의미하기도 합니다.
 	* 어울리지 않은 친구; They are so; unlikely friends

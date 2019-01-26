@@ -51,6 +51,8 @@ I have a big crush on you / I have a thing for you, i'm into you
 * 우리 소원해졌어; we have grown apart
 * 난 생각할 시간이 필요해 i need space
 * 헤어지다; break up; we're not seeing each other anymore; we're not an item/a couple anymore
+	* 문자 그대로 보면 관계(relationship)에서 나온 것(get out of)이기 때문에 남녀가 더 이상 만나지 않는, 관계를 맺지 않는다는 뜻입니다. 그리고 long-term(장기의) relationship은 ‘오랫동안 사귄 연인과의 관계’를 지칭합니다. 
+		* 그녀는 드디어 그와의 관계를 끝내고 앞으로 나아갔다.  She finally got out of the relationship with him and moved on.
 	* 헤어졌다 사구이ㅓㅆ다 반복; on and off couple
 	* 우리 사이를 돌이킬 수 없게 햇어; All of our bridges burned down
 	* 너를 포기하다; quit on 사람

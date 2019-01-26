@@ -1,6 +1,8 @@
 # 시장
 * big-box retailer, superstore, megastore, supercenter 등으로 불리기도 하는데요, 저가로 많은 양의 물건을 판매하는 대형 할인 매장을 의미합니다. 대용량으로 제품을 팔다보니 제품 상자가 큰 편이기 때문에 붙여진 이름이겠죠. 미국의 경우로 보면 Wal-Mart, Target, Kmart 등이 그 예입니다. 
 	* 대형할인점은 전국적인 체인점을 갖추고 있다. The big-box retailer has a nation-wide chain of stores.
+* one stop shop은 그 상점에 가면 없는 게 없다는 걸 의미합니다. 그래서 다른 곳 안 둘러봐도 한 곳 (one stop)에서 쇼핑/ 필요한 건 다 할 수 있다는 거죠. 이걸 사람에게 빗대면 못하는 게 없는, 필요한 건 다 갖춘 사람이라는 뜻이에요~
+  * 이 새로 생긴 뷰티 센터는 마사지에서 몸매 관리 강좌까지 당신이 필요한 건 모든 것 다 제공하는 원 스톱 센터랍니다. This new beauty center is a one stop shop that offers you everything you need from massage to fitness classes.
 * 아빠나 엄마를 나타내는 단어는 전세계적으로 봐도 발음이 약간 비슷한다는 걸 알 수가 있어요. 아빠, baba, dada, papa 등으로 말이죠. 이유는 신생아가 6-8개월 사이에 반복적으로 옹알이를 하는 단계에서 가장 많이 사용하는 말이기 때문인데요. 
    이렇게 아기들이 하는 말이라, 영어에서의 father 는 원래는 발음의 용이성 때문에 fader 라고 쓰였다고 해요. dad 와 daddy 라는 단어는 16세기에 처음 기록되어 있다고 하고요. pops 는 아빠를 애정 어린 말투로 부를 때 쓰는 단어로 미국에서 주로 쓰이며 19세기 초에 나왔다고 합니다. 아마도 papa 와 연관이 되어있겠죠? 참고로, '소상공인 상점', 프랜차이즈가 아닌 '작은 상점'을 mom and pop store 라고 합니다. 동네 엄마 아빠들이 운영하는 작은 사업이라는 뜻에서 유래했죠!
 * #잡화점; #general store
@@ -173,35 +175,6 @@
  * 맞춤 제작한 제품; bespoke shoes/tailor
 * 버거는 베트남에서는 잘 팔리기가 힘듭니다; Burgers have a tough sell in Vietnam
 * 최고급의; 내 물건 사는데 보통 돈을 많이 쓰지는 않지만, 컴퓨터는 최고급이어야만 해. ex) I don't usually spend a lot of money on my own stuff, but my computer must be a high-end computer. <> low-end
-
-## 유명 브랜드
-* sharpie는 잘 지워지지 않는 유성마커를 뜻합니다. 원래 브랜드 이름이지만 보통명사처럼 널리 쓰이고 있죠. 우리도 유성매직이라고 부르는 것과 같은 거라고 보면 되습니다. 이 외에 보통명사가 된 다른 브랜드 이름도 살펴보겠습니다.
-* (n) duck tape : 덕트테이프 (박스를 포장용과 같이 폭이 넓은 테이프)
-* (n) popsicle : 막대아이스크림
-* (n) band-aid : 반창고, 대일밴드 (대일밴드도 제품명이죠!)
-* toyota; toy-Yoh-duh
-* Honda; Hon-duh
-* Subaru; SUE-buh-roo
-* Chrysler; KRISE-ler
-* Volkswagen; VOLKS-wag-in = VW
-* Chevrolet; SHEV-ruh/ Shev-ee
-* 소화제; Pepto Bismol; Alka-Seltzer
-* DD; Dunkin donuts
-* 맥도날드; Mickey D's
-	* Macdonald's; s를 붙이지 않으면 굉장히 어색하다; Let's go eat McDonald's
-* Chevrolet; chevy
-* BMW; Bimmer / beamer / beemer
-* 타겟; Tar-zhay; et보다는 불어 느낌 나게 
-* 에르메스 Hermes
-* 샤넬
-* Supreme; 수'프림
-* Costco; t 묵음; 
-* Diesel; 디즐
-
-## 외국 브랜드
-* Kool-Aid나 Root Beer; 뻔한 음료수
-* Dickies 브랜드: CEO 이름에서 따옴
-* Glade; 방향제
 -------
 「쇼핑」 #쇼핑 #백화점 #슈퍼 #시장(shopping center, mall, 'su:pərmɑ:rkət supermarket)
 * 사이즈/색상/스타일이 다양하게 나오다; come in style/color/size

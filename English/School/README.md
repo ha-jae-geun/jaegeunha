@@ -26,6 +26,7 @@
 	* = 가입하시고 경품으로 현금도 받아가세요! Join us now and get cash prizes! 
 * 학년; - be in (one's) first/second/third/fourth year
 * 인문 대학교를 가다; i went to a small liberal arts college in 
+	* attend school 는 문어체로 ‘재학하다, 통학하다’의 느낌에 가깝습니다. 보통 학교에 다닌다고 할 때는 동사 go를 쓰면 됩니다. wen to 는 과거형이니까 ‘~출신이다 / ~다녔다’가 되겠네요.
 * 학생회관 책임자입니다; I'm director of the Student Center
 * 책을 넘기다; flip the pages; i've turned to the first page
 * 수업을 잘 따라가나요? follow one's school well

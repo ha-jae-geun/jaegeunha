@@ -19,6 +19,7 @@
 	* flat 은 아래의 [참고] 부분에 있는 것처럼 굉장히 많은 뜻을 가지고 있고 많이 쓰이지만, 영상에서처럼 [시간+flat] 을 쓰게 되면 형용사로 '딱 ~ 밖에' 시간이 걸리지 않았을 때, 그만큼 무언가가 놀랍게 빨리 발생했고, 단지 그 시간 밖에 걸리지 않았다는 것을 강조해 주기 위해서 쓰입니다.
 		* 집에 5분만에 도착할 거예요, 엄마. ex) I will be home in 5 minutes flat, mom.
 	* 곧 봐; 곧 만난다는 의미가, 오늘 저녁일 수도 있고, 그냥 인사치례로 곧 보자고 하는  의미 일 수도 있습니다. 즉 'Soon' 의 곧 이런 의미로 쓰일 수 있습니다. I'll see you soon.
+	* 1. any second (now) = any minute (now) soon 보다도 더 촉박함을 표현하는 단어에요. '이제 언제라도', '이제 금방이라도'라는 뜻입니다. [ex] My kids will be home any minute.
 	* 그런데 'Shortly'와 'Soon' 끼리도 의미의 차이가 있는데요, 'Shortly'는 '시간적으로 아주 짧은 시간'을 의미합니다. '몇초, 몇분, 길어야 몇 십분 정도'의 '곧' 이라는 의미 입니다. Soon'은 'Shortly' 보다는 긴 시간을 의미하며, 또한 그 상황이나 행위가 이루어지는 것이 막연하게 곧 이루어질것이다 라는 것을 의미합니다.
 		* : 입찰이 곧 시작될 것입니다. The bidding will commence shortly
 	* = 지금은 그 부분을 다루지 않도록 합시다. Let's leave that out for the moment. 2) for the moment 나 for now 는 [현재로썬, 일단은, 일단 지금은]을 의미하고 있어요.

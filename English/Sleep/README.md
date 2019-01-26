@@ -4,6 +4,10 @@
 	* 걔 깨우지 마. 세상 모르고 자고 있어. ex) Don't wake him up. He's dead asleep. =  he ' s dead to the world
 
 # 기타
+* 엄만 날 노래로 재워주곤 했어. [ex] My mom used to sing me to sleep.
+	* 그 사람 연설 (너무 지루해서) 잠 오더라. [ex] His speech put me to sleep. (1) A를 재우다, 잠이 오게 하다/돕다
+	* 나 사랑니 제거술 때문에 마취 했었어. [ex] I was put to sleep for my wisdom teeth removal. (2) A를 잠에 들도록 마취시키다
+	* 1년 전 오늘 우리집 개가 안락사 당했어. [ex] My dog was put to sleep a year ago today. ㅍ(3) (안락사나 살인을 완곡하게 이르는 표현으로) ~를 잠들게 하다
 * mmorning people <> night owls/late nighters
 * go off to bed = #slumber = #catch so me Z's #잠자기; a #slumber party
 * 난 잘 잤어요; Did you slep well -> Did you get a good night's sleep / Sleep tight / Have a good night's sleep

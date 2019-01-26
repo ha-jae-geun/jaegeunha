@@ -129,23 +129,24 @@
 * #정면돌파하다; #take the bull by the horns(#horn)
 * #정면승부; #head to head; beat anyone head to head
 * 알렉스는 그녀에게 데이트신청하기 위해 용기를 냈다 Alex is working up the nerve to ask her out. 
-* 배짱 좋네				You've got guts!! You're got a lot of guts/#nerve!! 
-* 쫄보 								 		 [púsi] pussy
-* 넌 용기가 없어 			 	 "You don't have a backbone" "You're spineless"
-* 전 사람들 앞에 나타날 용기가 없었어요. 			 I didn't have the nerve to show up. 
-* 겁쟁이 					Chicken, #coward, #yellow, has no #backbone
-* 덜컥 겁이 났다. 							 I lost my nerve. 
-* 계집애같이 쫄았니? 					 You chickened out like a little bitch.
-* 겁먹지 말라고요!! 							 Don't get cold feet!
-* #겁에 질리게 만들다; #petrify
-* be #scared stiff; 겁에 질려 몸이 굳은
-* 겁줘서 쫒아내다; #scare off; the big guy scared the kids off
-* 비겁한 							 cowardly 미국·영국 [káuərdli]
-* 비겁하네 								 below the belt 비겁한
-* #반칙; #foul play
-* 약골 약골 wimp
-* *travel sometimes require a lot of/great courage
-* #용감 #배짱 #용기 <> #겁 #겁쟁이 #졸보 #비겁 #약골
+	*  있다면 brave가 '(상대에 대해서) 두려움 없는 용감한'이라는 의미라면 bold는 좀더 대담하고 과감하게 용감하다는는 뉘앙스가 강해요.
+	* 배짱 좋네				You've got guts!! You're got a lot of guts/#nerve!! 
+	* 쫄보 								 		 [púsi] pussy
+	* 넌 용기가 없어 			 	 "You don't have a backbone" "You're spineless"
+	* 전 사람들 앞에 나타날 용기가 없었어요. 			 I didn't have the nerve to show up. 
+	* 겁쟁이 					Chicken, #coward, #yellow, has no #backbone
+	* 덜컥 겁이 났다. 							 I lost my nerve. 
+	* 계집애같이 쫄았니? 					 You chickened out like a little bitch.
+	* 겁먹지 말라고요!! 							 Don't get cold feet!
+	* #겁에 질리게 만들다; #petrify
+	* be #scared stiff; 겁에 질려 몸이 굳은
+	* 겁줘서 쫒아내다; #scare off; the big guy scared the kids off
+	* 비겁한 							 cowardly 미국·영국 [káuərdli]
+	* 비겁하네 								 below the belt 비겁한
+	* #반칙; #foul play
+	* 약골 약골 wimp
+	* travel sometimes require a lot of/great courage
+	* #용감 #배짱 #용기 <> #겁 #겁쟁이 #졸보 #비겁 #약골
 * 성격 어때?	What kind of person(character) is he? 
 * What is he like?
 * not very good with/bad with/terrible with
@@ -175,6 +176,7 @@
 * (연애에서) 밀어붙이다 #pushy; I don't want to be pushy
 * ##순진 #순수	innocent
 * He's childlike. 그 친구 #순수해.
+	* content incomprehension 은 어린 시절 세상 물정을 몰라 순수했던 상태를 말합니다. 세상을 이해하지 못했는데(incomprehension) 그것이 오히려 행복하고 좋았다(content)는 뜻이죠. ㄴ mend what’s left of my content incomprehension 은 직역하면 ‘자신에게 남아있는(what’s left of) 그 순수했던 부분을 다시 되살리고(mend) 싶다’ 인데요, 세상을 알수록 복잡하고 부정적인 면을 많이 보게 되는데, 차라리 어릴 때처럼 모르고 살고 싶다는 마음을 노래하고 있습니다. 
 	* [순진한] 이라는 뜻은 아마도 innocent 를 생각하실텐데요. innocent 의 경우엔 사람이 [악하지 않아서 순진한, 순수한] 을 의미합니다. 반면 naive 같은 경우엔 [경험이나 지식이 부족하여 순진한] 을 의미해요. 예를 들어, A라는 사람이 B를 등쳐먹으려고 의도적으로 접근을 할 때, 주변 사람들 다 아는데 B만 모르고 "야, A 그런 사람 아니야. 그 사람이 나한테 얼마나 잘해주는데-" 라고 말해서 답답할 때 있죠? 그럴 때 B 를 naive 하다고 합니다.
 		* = 브랜든은 너무 순진하고 주변 사람들 모두를 믿어. Brandon is so naive and believes everyone around him.
 * #이해심 있는	#considerate = #understanding = #Thoughtful

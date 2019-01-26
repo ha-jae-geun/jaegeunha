@@ -123,6 +123,8 @@
 * 한톡 https://m.post.naver.com/my.nhn?memberNo=37585159
 * 포포 https://m.blog.naver.com/PostList.nhn?blogId=suri0367&currentPage=1
 * GEE https://m.blog.naver.com/PostList.nhn?blogId=blessgee
+* 꾸르꿀 https://m.post.naver.com/my.nhn?memberNo=43677109
+* 영어 약장수 https://m.blog.naver.com/PostList.nhn?blogId=pcmi4easy_english
 * 한국번역연구소 https://blog.naver.com/ktri8888
 * The Red https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 -----------------------------------------------------------------------------

@@ -82,19 +82,20 @@
 
 # 공항 #jet/ #G6 비행: flight, aviation èiviéiʃən,
 * 비행은 평탄치 안ㅇ핫고 음식도 최악이었어; the flight was bumpy, the food was awful
-* 실례지만 지나가도 될까요?  Excuse me. May I go through? 
-* 좌석을 뒤로 눕혀도 될까요?  May I recline my seat? 
-* 기내식은 언제 나오나요?  When is the in-flight meal served? 
-* [명사] (기차의) 승무원실caboose 미국식 [kəˈbuːs]  
-* 마일리지를 사용하고 싶어요; I would ike to use my frequent flyer miles
-* I want to fly business one day. I alwayd fly coach.﻿
-* still water or sparkling
-* 기내식을 채식으로 요청하려고요; i wanna request a vegetarian meal
-* 환승 승객인데요; i'm a transit passenger
-* #transit: 중간 경유지에서 내린 후 다시 같은 여객기에 다시 탐; 수하물 챙겨 대기
-* #transfer
-* #stopover; 24시간 경유지
-* #layover; 24시간 이내 경유지; 짐도 보내줌
+  * 나 여기로 (비행기 타고) 날아왔어. [ex] I flew here.
+  * 실례지만 지나가도 될까요?  Excuse me. May I go through? 
+  * 좌석을 뒤로 눕혀도 될까요?  May I recline my seat? 
+  * 기내식은 언제 나오나요?  When is the in-flight meal served? 
+  * [명사] (기차의) 승무원실caboose 미국식 [kəˈbuːs]  
+  * 마일리지를 사용하고 싶어요; I would ike to use my frequent flyer miles
+  * I want to fly business one day. I alwayd fly coach.﻿
+  * still water or sparkling
+  * 기내식을 채식으로 요청하려고요; i wanna request a vegetarian meal
+  * 환승 승객인데요; i'm a transit passenger
+  * #transit: 중간 경유지에서 내린 후 다시 같은 여객기에 다시 탐; 수하물 챙겨 대기
+  * #transfer
+  * #stopover; 24시간 경유지
+  * #layover; 24시간 이내 경유지; 짐도 보내줌
 * -----
 * #airplane: 사물, 소유물; is that airplane you are gonna take;  #flight; 교통수단, 비행
   * Is your flight ready?, is that your flight

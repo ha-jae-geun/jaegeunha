@@ -50,6 +50,9 @@
 	* 홍보 투어; #press tour
 	* #투어; The band is #on tour in France. 그 밴드는 프랑스에서 순회공연 중이다.
 * 소녀팬이 된 기분이야; i'm like fangirling
+	* diehard stans (fans) = 광적인 팬들, 극성팬들
+		* 몇몇 극성팬들은 미친 사람들처럼 소리지르기 시작했다. ex) Some of the diehard fans started screaming like crazy people.
+		* 2) stan 은 비격식 표현으로 단순히 fan 보다 한단계 더 나아간 거의 사생팬 수준으로 특정 유명인물에 꽂혀서 병적으로 집착하는 팬들을 stan 이라고 합니다.
 	* 엄청난 팬층을 갖고 ㅣㅆ잖아; Artists have like huge follwings
 	* 팬의 마음으로 잔뜩 흥분한 사람들로 가드겼어요; a ton of fanboying and fangirling going on
 	* 스타를 보고 심쿵하다; i was a starstuck teenager; She got starstruck when she met Justin Bibier

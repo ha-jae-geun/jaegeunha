@@ -71,6 +71,7 @@
 * Ella Mai - Trip - 엘라 마이
 * Still with you - Eric Benet - 에릭 베네이
 	* real Love
+	* sometime i cry
 * Shape of You - Ed Sheeran - 에드 시어런
 * Worth It (Feat. Kid Ink) - Fifth Harmony
 * Fitz and the Tantrums - HandClap -  피츠 앤드 더 탠트럼스 

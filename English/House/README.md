@@ -143,31 +143,9 @@
 * ○ Are you truly worried about wrinkles? (진심으로 주름이 걱정되세요?) 
 * ○ anti-wrinkle 주름방지의
 * ○ fine wrinkle 잔주름
-* #곰팡이[진균] 감염 				 [|fʌŋgl] a fungal infection, #mold; moldly
-* had a mold infestation
-* #미세먼지 								 fine dust = 미세 먼지 #dust bunnies; 뭉치 = #dust kitten, #dust kitty, #dust mouse
-* #황사 Yellow dust = Asian dust
-* 여름에 곰팡이 생길것 같아; i think it's going to get moldy in the summer
-* #청소부; #charwomen
-* #대청소: #spring cleaning day
-* #방청소; can you do the room?, can you make up the room?
-* 집 앞 통로 쓸어줄래?				 can you sweep the path in front of the house?
-* 걸레질하다 #mop the floor
-* 카페트 청소기로 청소했어? 				Have you vacuumed the carpets?
-* 청소해야겠네 We need to #hoover(영국 후버 진공 청소기)
-* 창문을 닦았어 						I wiped the dust off the window
-* #털다 (먼지 등을) 		dust (off/down), brush (off) dust the snow from[off] one's clothes
-* #낙엽 쓸어드릴ᄁᆞ요? Can I #rake your leaves?
-* 너 정리를 잘하잖아 					 Your'e such an organized person.
-* 책들이 선반에 크기별로 정리되어 있었다.The books were organized on the shelves according to size
-* #정렬하다; #form up
-* #tidy something up
-* #선반에 정리된; #arranged on shelves
-* 바닥에 #펼쳐진; #laid out on the ground
-* #정리 #청소 #정렬 | #곰팡이 #털다 #먼지
 * King, #queen, #double, #single bed
-* #침대 #아기 침대 cot, crib
-* #바구니 침대; #bassinet
+	* #침대 #아기 침대 cot, crib
+	* #바구니 침대; #bassinet
 	* #휴대용 침상 #cot = #camp bed
 	* 말 그대로 2층 침대인데요. 한가지 알아두시면 좋은 점은 온라인 상에서 숙소 예약할 때 bunk bed style 이라고 적혀져 있는 경우가 있어요. 그때는 2층 침대를 다 가지는게 아니라, 1층, 2층 둘 중에 하나에서 머물게 되는 것이기 때문에 있다면 "요청사항" 같은 부분에 1층은 bottom bunk bed, 2층은 top bunk bed 이라고 예문과 같이 적어주셔야 합니다.
 * #해먹; #hammock
@@ -521,33 +499,7 @@
 
 
 
-# 쓰레기
-* 세척력을 갖다  have washing capacity
-* 쓰레기를 쓰레기통에 버렸어 			 I threw away the garbage in the trash can
-* 청소부가 바다에 떠다니는 스레기를 모았어; A chinese dustman collects floating rubbish from the river/net
-* 쓰레기통에 버렸잖아; you tossed it in the trash
-* 그들은 쓰레기를 꾹꾹 누르고 있다; They were compacting the trash
-* 쓰레기들을 갖다 버려야해; Throw out junk all up in this place
-* 어떤 것이든 ㅐ다 버려; chuck anything out
-* 쓰레기가 모이는; Where trash accumulates
-* 해양 쓰렉; flotsam and jetsam
-* 아수라장; It's complete mess; it is just mayhem  [ˈmeɪhem] out her
-	* This was a total dsaster; 엉망진창이 되어가고 있어요; It's becoming a train wreck
-	* It gets out of control; Things are still in quite a bit of disarray
-* 하수, 오물; 미처리 하수 해양 투기 금지법 a ban on the dumping of raw sewage at sea 
 
-## 청소
-* 작업자는 먼지를 안정되게 하기 위해 물을 뿌렸다; A worker sprays water over a house to settle dust
-* (청소 또는 페인트) 너 저기 놓쳤어; YOu missed a spot
-* clutter 는 명사로 [잡동사니, 어수선함] 을 의미해요. 여기에 [없앰, 줄임] 의 뉘앙스를 가진 접두사 de- 를 붙여서 어수선하게 하는 것을 싹 정돈하는 의미의 단어입니다. 단지 사물뿐만이 아니라, 오래된 아이디어, 인간관계, 나쁜 습관 등을 정리해서 없앨 때도 쓸 수 있는 굉장히 유용한 단어입니다.
-	* 이사 가기 전에 집에서 쓸모없는 것 좀 다 정리하자. ex) Let's declutter the house before we move out.
-* 여기 닳아 헤진 셔츠들은 다 버려야 해. ex) You should throw out all these worn-out shirts.
-* 이것저것 당장에 쓸모 없는 것들을 넣어두는 잡동사니 서랍을 junk drawer 라고 합니다.
-* polish는 광나게 닦는걸 뜻해요. 광나게 닦아놓은 걸 비유적으로 '정돈된', '세련된'이라는 뜻으로 쓴답니다. 반대격으로 볼 수 있는 표현이 gritty예요. 지저분하고 정돈 안 되고 불쾌한 현실을 사실적으로 보여주는 걸 gritty하다고 해요. TV 드라마를 묘사할 때도 많이 쓰는 표현인데 '왕좌의 게임'이나 '더 와이어' 같이 보기 불쾌하지만 현실을 잘 반영하고 사실적인 드라마를 gritty하다고 표현해요.
-	* 좀 사실적인 드라마 추천해주세요. [ex] Can you recommend me some gritty TV shows?
- * #단정한 #neat, #tidy, #groomed
- * 정리 정돈 i’m #straightening up = #arrange = #shelving goods
- * 눈을 치우다; #plow; let's plow the road
 
 # 살다
 # 인생
