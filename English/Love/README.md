@@ -59,6 +59,7 @@ I have a big crush on you / I have a thing for you, i'm into you
 	* 오해; misread는 '잘못 읽다', '오해하다', '잘못 해석하다'라는 뜻이에요. 신호signal을 잘못 읽는 건 보통 남녀 사이에서의 신호를 오해한다는 뜻으로 쓰여요. 가령 상대방의 행동을 보고 나를 좋아하는 줄 알았는데 알고 보니 그냥 친절하게 구는 거였다든가 하는 상황에서 쓰는 표현이죠.
 	* company 는 '회사'라는 뜻 외에도 [함께 있음]을 의미하기도 해요. 그러다보니 '동료, 친구들'의 의미를 갖기도 하는데요. part 는 전체가 아니라 '부분'을 의미하는 단어니, 동사로 쓰이게 되면 [헤어지다, 갈라지다, 갈라놓다] 등의 의미를 가집니다. 이 표현들이 함께 쓰인 part company 는 1) 두 명 이상의 사람들이 헤어지다, 다른 방향으로 향하다, 또는 2) 동의하지 않아서 갈라지는 걸 의미하는 숙어입니다. 구어보다는 격식체, 문예체로 많이 쓰입니다.
 		* = 김연아는 브라이언 오서 코치와 2010년에 결별하였습니다. Kim Yuna parted company with Brian Orser in 2010. 
+	* 헤어졌다 다시 만나게 되면; If you got together
 * 화해하다; make up sex; a lot of couples breakup just because they want to have make up sex; 미국농담
 * 차다; i dumped him; i was/got dumped
 * 점점 멀어지다; we've grown apart; we grew apart

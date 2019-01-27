@@ -159,6 +159,11 @@
 * 3. [spoken/구어체] 기꺼이 하려는
 	* 에단이 한다고 하면, 맨몸수영하러 가고 싶어. [ex] I want to go skinny-dipping if Ethan is up for it.
 
+### up for
+* 내 집을 팔려고 내놨다. [ex] My house is up for sale. 1. (팔기 위해) 내놓은
+* 세 사람이 운영직 후보로 고려되고 있다. [ex] Three people are up for a managing post. 2. 어떤 직책에 후보로 고려되는
+* 우리 나가서 좀 달리려는데 너도 같이 할래? [ex] We're going out for a run. Are you up for it? 3. (비격식) (어떤 활동에) 준비된, 기꺼이 하려고 하는
+
 ## on
 * 표면에 접촉한 그림
 
@@ -167,6 +172,10 @@
 * come out; the tap doesn't come out
 * 여기서 out of ~는 '~때문에'라는 뜻입니다. 이유나 동기를 나타내죠.
 	* 동정심에 그 낯선 사람을 도와줬다. I helped the stranger out of pity.
+
+### out
+*     에피도 밖으로 나온 상태기 때문에 out here라고 했어요. 에피가 안에 있고 나오미가 밖에 있는 상황이라면 "What are you doing out there?"라고 했을 거예요. "What are you doing outside?"는 두 가지 경우 모두에 쓸 수 있어요. 상대방과 전혀 다른 공간에서 전화로 물어볼 때도 outside 혹은 out there를 써주세요.
+
 
 ## with
 * 가까이 가는, 다가간의 느낌
@@ -1363,6 +1372,10 @@
 * 그는 그 소문들을 귀담아듣지 않았다. He turned a deaf ear to the rumours. 
 * 그들은 내가 하는 모든 말을 그냥 한쪽 귀로 듣고 한쪽 귀로 흘려버려. Everything I tell them just goes in one ear and out the other. 
 
+## earth
+* Earth to OO: ~보고 정신차리라고 말할 때, 멍 때리고 있는 사람을 부를 때 하는 관용어구로, 마치 상대가 우주선이나 지구 밖에 있는 것처럼 가정하여 '지구에서 OO에게 말한다, 오버'같은 느낌으로 사용하는 표현입니다~^^
+  * 제시카는 응답하라, 제시카는 응답하라, 지금 뭐 하는 거니? Earth to Jessica, Earth to Jessica, what are you doing?
+
 ## earn
 * earn 은 아시겠지만 기본적으론 돈을 [벌다] 라는 뜻이 있어요. 하지만 단순히 돈을 버는 걸 말하고 싶을 땐 make money 라고 하는데요. earn 의 속뜻은 [열심히 일하여 벌다] 라는 의미를 가집니다. 그래서 돈 뿐만이 아니라, 신뢰, 명예, 평판, 누군가의 지지 등 그냥 얻을 수 있는 게 아니라, 열심히 '노력해서 얻어야 하는 것'들은 earn 이라는 동사로 표현하셔야 해요!
   * = 그들의 신뢰를 잃고 나면 다시 얻기는 굉장히 어려워. It's really hard to earn their trust back once you lose it.
@@ -2448,6 +2461,8 @@
 ## level
 * 솔직히 말할게; i'll level with you
 * above one's level은 '~의 수준 이상인'이라는 뜻이고 반대로 below one's level은 '~의 수준 이하인'이라는 뜻이에요.
+* level out은 '평평해지다', '안정화되다'라는 뜻이에요. (형용사 level은 '평평한'이란 뜻) 이 영상에서는 에피가 주가가 폭락하는 그래프를 보면서 말했는데요, "하락세 그래프가 다시 좀 평평해지겠죠?", 즉 "주가가 다시 오르겠죠?" 또는 "주가가 안정이 되겠죠?"라는 뜻으로 한 말이랍니다!
+  * 다시 안정화 되겠죠? It will level out, right?
 
 ## least
 * to say the least = 좋게 말해서, 과장하지 않고 말해도
@@ -2510,6 +2525,10 @@
 * : 하지만 그것은 탐 때문만은 아니죠. But I don't lay that at Tom's feet.  Lay something at one's feet' : ~를 ~의 탓으로 돌리다
 * : 있잖아, 알렉스가 널 때리려고 하면, 나 한테 말해. 내가 해결해 줄게  You know what, Alex tries to lay a hand on you. Just tell me,  I'll take care of it. 'Lay a hand on someone' : 때리다. 폭행하다.
 * : 도박을 하러 갔었어요. I went to lay a bet 'Lay a bet' : 도박하다. 돈을 걸다.
+* 'lie down (on the job)'이라고 하면 '고의적으로 역할에 소홀히하다' '역할을 수행하지 못하다'라는 의미입니다. 'on the job'을 명시할
+  * 론은 게으름을 피우다가 직장에서 잘렸어. Ron was fired because he was lying down on the job.
+* 반면, 한글표현 '가만히 앉아서 당하[지 않]다'와 정말 유사한 뜻으로 '[not] take sth lying down'이 있습니다.
+  * 저런 모욕을 가만히 앉아서 듣고 있지 않겠어. I refuse to take that insult lying down.
 
 ## mug
 * 여러분이 아시는 [머그잔] 을 의미하는 그 mug 가 맞습니다! 그런데 비격식 표현으로 쓰이면 영상에서처럼 [얼굴] (표정) 으로 해석이 되고요. 조금 안 좋게 쓰일 경우엔 [낯짝] 의 의미를 갖기도 해요. 경찰에 체포되면 찍는 사진은 mug shot(머그샷)이라고 합니다! 또한 동사로 쓰일 땐 주로 카메라나 무대 앞에서 [과장된/우스꽝스러운 표정을 짓다] 이라는 뜻이 있기 때문에, 영상에서 주인공이 상황에 맞게 이 단어를 쓴 것을 알 수 있습니다.
@@ -2654,6 +2673,9 @@
 
 ## miss
 * 너 놓치고 있는 거야; You're missing it out
+* go missing는 '실종되다', '사라지다'라는 뜻이고 missing은 '행방불명된 상태'를 뜻해요. 또한, missing은 '제자리에서 없어진 상태'도 뜻합니다. 예시로 비교해보죠.
+  * 4살 여아는 어제 실종되었습니다. The 4-year-old girl went missing last night.
+  * 어, 내 립스틱이 없네. 네가 가져갔니? Hey, my lipstick is missing. Did you take it?
 
 ## moon
 * 내 아들은 새 자전거를 받고 매우 행복해 했다. My son was over the moon with her new bike.
@@ -3007,6 +3029,7 @@
 
 ## piss
 * = 을 놀리다, 을 가지고 농담 따먹기 하다 take the piss out of somebody 비속어 표현이고요, make fun of 보다 농담 수위가 높고, 기분 나쁜 농담일 때 쓰는 표현이에요.
+* 2. piss oneself : 오줌을 지리다; It looks like you've pissed yourself
 
 ## pin
 * 2. pin [목적어] down: 무언가를 정확히 이해하거나 묘사하다
@@ -3322,6 +3345,9 @@
 ## quality
 * 'quality time'은 서로에게 완전히 집중하고 모든 관심을 쏟아서 '관계가 증진될 수 있도록 보내는 시간'을 가리킵니다. 주로 서로가 좋아하는 것을 하며 스트레스로부터 완전히 벗어나는, 그런 시간이요^^
   * 너무 늦기 전에 가족과 의미있는 시간을 보내세요. [ex] Spend quality time with your family before it's too late.
+
+## quick
+* 미안. 얘한테 문자 좀 잽싸게 하고. ex) Sorry. Let me just text him real quick.
 
 ## quirk
 * 무슨 기이한 운명의 장난인지 그들이 같은 호텔에 예약을 했던 것이다. By a strange quirk of fate they had booked into the same hotel. 
@@ -3767,6 +3793,10 @@
 ## sew
 * sew의 발음은 영어 내에서도 매우 드문 케이스입니다. 보통 dew (이슬), few (조금), curfew (통행금지/ 귀가시간)처럼 '-ew'로 끝나는 단어는 보통 '듀, 퓨, 커퓨'와 같이 발음하기 때문이죠. sew의 발음은 미국식으로는 써우, 영국식으로는 쏘우입니다. (미국식) 진행형 sewing은 써우잉, 과거 sewed는 써우드, 과거분사 sewn은 써운, 이라고 발음해요~
 
+## secret
+* secret stash은 비격식 표현으로 '(비밀스럽게 몰래) 숨겨둔 것'을 의미해요. 여기서 his secret stash는 아빠가 몰래 숨겨둔 비상금이 되겠네요. 
+  * 여동생이 내가 내방에 몰래 숨겨둔 현금을 찾아냈다. My sister found my secret stash of cash
+
 ## second
 * do you have a second? 동의하다
   * #간접 흡연 #secondhand smoking
@@ -4138,6 +4168,8 @@
 * 1) you ain't got shit on me 는 넌 나에게 적수가 안된다, 대적할 가능성이 아예 없다, 라는 의미로 쓰였습니다.
 * : [살면서] 이런저런 일 좀 봤다, 또는 못 볼 걸 좀 봤다 - have seen some shit
 	* 눈도 깜빡이질 않더라고. 살면서 못 볼 거 좀 본 것 같아. [ex] She didn't even blink an eye. I think she's seen some shit in her life.
+* # 대우; # 취급; take shit from someone : 누군가로부터 나쁜 대우를 받다(그렇게 하게 '둔다'라는 뉘앙스 있음)  시 주의해주세요. 또, take a shit은 화장실에서 '큰 일을 보다'라는 뜻이니 헷갈리지 않도록 잘 기억해요!
+  * 절대 그 누구도 널 나쁘게 대하도록 두면 안돼. Don't ever take shit from anyone.
 
 ## stuff
 * 내 책이나 뭐 그런 것들은 다 지하실에 쌓여있어요. (my books and stuff ‘are’)
@@ -4252,6 +4284,8 @@
 ## tie
 * 'tie' 는 기본적으로 '끈'이라는 뜻인데, 이렇게 사람 간의 '유대', '유대 관계'를 말할 때도 쓸 수 있습니다. 두 대상이 끈으로 이어져있는 걸 상상해보세요!
 	* 난 내 공동체와 강한 유대가 있어. [ex] I have a strong tie to my community.
+* : 원래 tie up은 무언갈 '묶어버리다'라는 뜻이죠. 그래서 be tied up은 '묶여지다'라는 1차적이 뜻이 있는데  '다른 일에 얽매여 있다', '바빠서 다른 일을 할 여유가 없다'라는 관용적 의미도 있습니다!
+  * 내가 요새 좀 바빠. I'm sort of tied up these days.
 * 묶어놓다; i tied the dog up outside
   * 연관되다; These two incidents are closely tied up together
   * 돈 등을 묶어두다; All money is all tied up in this investment
@@ -4523,6 +4557,12 @@
   * How do you travel to school? 학교 어떻게 다녀?
 * business trip
 * 허리에 있떤 통증이 목까지 올라갔어요; THe pain in my lower back travels up to my neck
+
+## tell
+* 1. 정말이야, 진짜야, 처럼 다음 오는 말의 진정성을 강조하는 표현
+  * 정말이야, 그 사람 거짓말 하고 있어! [ex] I'm telling you, he's a liar!
+* 2. 있잖아, 정말이지, 처럼 어떤 말의 도입부에 쓰이는 표현. 1번처럼 진정성에 대한 강조가 있지는 않습니다.
+  * 정말이지, 너 기운 좀 차려야 해. [ex] I'm telling you. You gotta pull yourself together.
 
 ## tear
 * 필터 뜯어                   tear off the fiters;

@@ -272,6 +272,7 @@ I get off work at three today because of shortened working hours.
 * 저희는 ~라는 조건 하에 ~를 받아 들이겠습니다. We’ll accept the proposal on the conditon that
 * ○ Finally I got a job in a trading company (드디어 무역회사에 취업했어요)
 * ○ I've been looking for a job for 10 months (10개월동안 일자리를 찾아다녔거든요)
+	* 우리 부서에 일자리 생겼어. (= 우리 부서에서 사람 뽑고 있어) A position came up in our department. 여기서 come up은 '일자리/빈자리가 생기다'라는 뜻이에요. position(일자리), 공석(vacancy)와 함께 쓰는 경우가 많답니다.
 * ○ I'll be joining the company next Monday (담주 월욜 입사합니다)
 * ○ I hear you got promoted(=got the/a promotion) recently (최근에 승진했다며~)
 * ○ He quit the job one month after he joined the company (입사 한달만에 관뒀대)
@@ -419,6 +420,8 @@ run a store, manage a team, operate a factory
 * ○ I feel bored at work (회사에서 일하는게 지루해요)
 * ○ I play with my dog every night when I get home from work (나는 퇴근하고 집에 왔을 때, 저녁 내내 강아지랑 논다)
 * ○ I'm off to work (나 출근해)
+	* '퇴근 시간'은 영어로 'quitting time'! 비슷하게 어떤 가게나 시설의 문 닫는 시간은 'closing time' 이라고 해요.
+		* 퇴근 시간까지 2시간 남았다! [ex] Two more hours until quitting time!
 	* arrive at work = 근무지에 도착하다; 여러분! 영어로 ‘근무지, 직장’은 그냥 work 입니다. company, office 라고 하지 마세요. - I just got to work. 방금 출근했어. - I just got to the office. 방금 사무실 도착했어.; I travel to work by subway each day.
 * ○ This is my day off = I'm off duty today (오늘 난 비번이야)
 * ○ This printer doesn't work (이 프린터 #작동을 안해)

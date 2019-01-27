@@ -187,6 +187,7 @@
 * #고소득 #저소득 #well-paying - #high-paying
 * 자동차 보험 가입했어? did you take out a car insurance?
 * 세금 걷는 사람 								 Tax collector
+	* do one's taxes : 세금 정산하다 (엄밀히 말하면 '소득세 확정신고 및 공제를 위한 서류작업을 하다') 이 표현은 우리나라로 치면 '연말정산을 하다'인데요, 미국에서는 매년 4월 15일까지 세금 보고 및 소득신고를 하게되어 있고, 우리나라와 달리 회사에서 해주지 않기 때문에 이게 좀 부담이 되는 일이에요. 그래서 이 영상에서처럼 날을 잡고 하거나, 세무사를 고용해서 하기도 해요! 연말정산을 하고 돌려받는 돈은 tax return이라고 해요.
 	* 이용자 참여  다시 이렇게 말씀드리겠습니다 : 이 세금감면은 2007년에 없어진다고. Let me say this again : this tax break disappears in 2007. 듣기
 	* #납세자 #tax-payers
 	* 세액 tax amount, tax liability, an assessment; 결정 세액: the settled tax amount

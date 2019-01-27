@@ -18,6 +18,13 @@
 	* 세차 비용이 따로 드나요? DO you charge for cleaning; What is your cleaning fee policy?
 ------------
 
+# 교육
+* Ed는 Education의 줄임말인데요, Driver's Ed가 공식명칭으로 통합니다. 청소년과 초보 운전자들이 면허 따기 전에 필수로 받아야하는 교육과정입니다. 
+	* 방어 운전: defensive driving  교통 법규: traffic laws  보행자: pedestrian(s)  운전면허 갱신: driver's license renewal
+	* ※ 운전면허 영어 표기법은 국가, 주마다 조금 달라요. 미국에서는 driver's license 또는 driver license라고 하고 영국에서는 driving license라고 합니다.
+                                
+
+
 # 일상
 * 차가 뺴곡하더라구요; the traffic is chock-a-block
 * 엔진이 고장났다고 말했잖아; i told you my engine seized up

@@ -242,6 +242,8 @@
 * #재학 증명서; certificate of registration
 * #성적 증명서; #transcript
 	* 4.0은 [ four point oh ]라고 읽습니다. 숫자 '0'을 zero라고 읽기도 하지만, 전화번호나 성적을 말할때는 거의 oh라고 합니다.
+	* 계란을 잃어버리면 자동으로(또는 '무조건') F학점을 받습니다. If you lose your egg, that's an automatic F.
+	* 출석률이 50% 미만인 경우 자동으로 F학점을 받게 됩니다. Below 50% attendance will result in an automatic F.
 * #졸업 증명서; #diploma; I need a (certified) copy of my diploma.
 	* 꼭 '수석 졸업생' 만을 의미하는 것은 아니고, 졸업식에 고별사 (=the valedictory) 를 낭독하는 학생을 의미하는데요. 보통은 그 해의 수석 졸업생이나, 여의치 않을 경우 차석 졸업생이 졸업생 대표로 고별사를 합니다. 그 사람을 지칭하여 valedictorian 이라고 합니다.
 	* 졸업자 Graduate #졸업식 Graduation Ceremony

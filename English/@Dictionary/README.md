@@ -1458,6 +1458,7 @@
 * 내가 20대일때 넌 날 늙게 보곤했다. You used to put years on me when I was in my 20s.  put years on somebody
   * people my age: 내 나이대 사람들  men his age: 그 사람 나이대 남자들
     * 그 나이대 남자애들은 바보같은 일들을 하기마련이다. Boys his age would do stupid things.
+  * 나이 속였어요; i faked my age
   * 어느새 18살이 됐어; Fast forward to 18
   * 7살 짜리 애들을 앉혀놓고; they sit dkis down at the age of 7
 * # 갱년기; 2. hot flash: 갱년기 때 느껴지는 열감
@@ -1833,6 +1834,10 @@
  * # 다루다 # 키우다 | # 능숙 # 노련
 * # 소중; 저희가 신중히 고른 스킨케어 제품들로 당신을 소중히 가꾸세요. ex) Pamper yourself with our carefully chosen skincare products.
   * 귀중품이 들어있으니 조심해 주세요; Please be careful because it contains valuable stuff
+
+# 다어
+* 너 답다; So typical of you
+* that's very Jessica라고 하면, '그건 아주 제시카가 할 만한 일이야, 제시카다운 행동이야'라는 뜻이죠! 그 사람의 이름이 그 사람의 특징을 대변하는 의미로 사용된 거랍니다.
 
 # 다음
 * # 직후에; #In the wake of; trump's election,
@@ -3328,6 +3333,8 @@
  * who won the life-time achievement awwa
  * 인정하다; #admit, #confess, #own up - (사실을) 인정하다 
  * #깨달음 a #glimpse into something
+* # 대우; # 취급; take shit from someone : 누군가로부터 나쁜 대우를 받다(그렇게 하게 '둔다'라는 뉘앙스 있음)  시 주의해주세요. 또, take a shit은 화장실에서 '큰 일을 보다'라는 뜻이니 헷갈리지 않도록 잘 기억해요!
+  * 절대 그 누구도 널 나쁘게 대하도록 두면 안돼. Don't ever take shit from anyone.
 
 # 발견
 * # 목격; - witness firsthand
@@ -4403,6 +4410,7 @@ retaliate
 
 # 속이다
 * 속아 넘어갈 뻔했어; I would fall for this; I would have been ver easily fooled
+  * 장난에 속아 넘어갔다는 걸 깨닫고, "야 나 진짜 믿었어 ㅋㅋ"라고 말할 때 쓰는 표현이에요! You had me there! You had me going there!
   * 몰래 무언가를 하다가 갑자기 누가 나타났을 때 그 사람이 눈치채지 못하게 막 횡설수설 하는 경우가 있죠? 그렇게 자신의 행동을 숨기거나 남을 속이기 위해 하는 말, 속임수 등을 의미하는 비격식 표현입니다. hocus pocus 라고 하기도 합니다.
     * 실제 데이터 없이는 그거 전부 다 속이려는 것처럼 들려. ex) Without actual data, it all just sounds hocky pokey.
   * 속임수에 넘어간 기분이었어요; i felt tricked into it
@@ -4542,6 +4550,8 @@ retaliate
 
 # 숨다
 * #cover, #conceal, #hide, hide out(잠복);#mask; try to mask something - 감추다, 숨기다 <-> reveal - 
+ * secret stash은 비격식 표현으로 '(비밀스럽게 몰래) 숨겨둔 것'을 의미해요. 여기서 his secret stash는 아빠가 몰래 숨겨둔 비상금이 되겠네요. 
+  * 여동생이 내가 내방에 몰래 숨겨둔 현금을 찾아냈다. My sister found my secret stash of cash
  * #cover one's tracks; you did a good job covering your tracks
  * #hole up; just hole up
  * my money is #burn a hole in my pocket = i'll spend whatever money I have
@@ -4926,6 +4936,8 @@ retaliate
 * 안전해; Coast is clear; 전쟁에서 해안가는 깨끗하다에서 시작
  * 무사히 돌아왔군요             You're back #safe and sound.
 * # 안심해; #rest assured
+* level out은 '평평해지다', '# 안정화되다'라는 뜻이에요. (형용사 level은 '평평한'이란 뜻) 이 영상에서는 에피가 주가가 폭락하는 그래프를 보면서 말했는데요, "하락세 그래프가 다시 좀 평평해지겠죠?", 즉 "주가가 다시 오르겠죠?" 또는 "주가가 안정이 되겠죠?"라는 뜻으로 한 말이랍니다!
+  * 다시 안정화 되겠죠? It will level out, right?
 
 # 안하다
 * 안해; i'm out of here; i'm done with this
@@ -5097,6 +5109,8 @@ retaliate
  
 # 역할
 * 중요한 역할을 하다; be #instrumental in
+ * 'lie down (on the job)'이라고 하면 '고의적으로 역할에 소홀히하다' '역할을 수행하지 못하다'라는 의미입니다. 'on the job'을 명시할
+  * 론은 게으름을 피우다가 직장에서 잘렸어. Ron was fired because he was lying down on the job.
  * 역할을 하다; play a #role
  * #비중있는 역할을 맡은 기분은? How does it feel to have a b igger part in this one?
  * How did you ge the role?
@@ -5987,6 +6001,12 @@ retaliate
 * #ponce 1. #기둥서방 2. 계집같은 사내
 * # 혼혈; mixed-race son/daughter 라고 하면 부모가 한 명은 흑인, 한 명은 백인이라 혼혈인 경우인데요. mixed-race couple 은 [서로 인종이 다른 커플] 이기에 비슷하지만, 조금 다른 의미로 쓰입니다.
   * = 혼혈 커플이 되는 게 뭐 어때서? What's wrong with being a mixed-race couple?
+  * 혼혈에 대해 말하는 것은 매우 조심해야 할 필요가 있습니다. 한국, 중국, 일본에서는 '혼혈'이라는 단어 자체가 널리 사용되지만 엄연히 따지면 이는 순수한 혈통과 다른 혈통이 '섞였다'는 의미를 담고 있기 때문에 이를 자칫 영어로 잘못 번역하면 굉장히 모욕적인 표현이 될 수 있기 때문이죠. 그 예 중 하나가 half-blood입니다. 해리 포터에서도 half-blood (혼혈), pure-blood (순수 혈통)이라는 단어가 모욕적인 의미로 사용되죠? 섞이지 말아야 할 피, 순수해야 할 혈통이 있다는 뉘앙스가 들어있기에 사용을 삼가야 하는 말입니다. 이밖에도 half/ mixed-breed, half/mixed caste도 같은 맥락에서 절대 사용해서는 안 되는 표현이에요. 다인종의 배경을 가졌을 경우, bi-racial (인종이 둘 일 경우), multi-racial (다인종), mixed race라는 말이 자주 쓰이는 표현입니다.  race는 백인, 흑인, 아시아인, 등 피부색이나, 머리카락, 눈동자 색이나 생김새에서 확연히 두드러진 차이를 가지고 있는 어떤 인종을 나타내는 경우에 사용되는 말이죠. 비교적 중립적인 표현임에도 race를 들먹거리며 말하는 것 자체에도 불편함을 느끼는 사람들도 있긴 하답니다. 좀 더 설명투에, 덜 민감하게 받아들여질 수 있는 표현 중 자주 접할 수 있는 것으로 다음과 같은 예가 있습니다:
+    * 난 반은 아일랜드, 반은 프랑스계야. [ex] I'm half Irish, half French.
+    * 아빠는 일본 사람이고, 엄마는 프랑스와 오스트리아 배경을 가지고 있어. [ex] My dad is from Japan, and my mom comes from a French and Austrian background.
+    * 난 혼혈이야. [ex] I'm mixed.
+    * 난 일부 중국계야. (조상 중에 중국인이 있어) [ex] I'm part Chinese.
+
 # 인터뷰
 * #인터뷰; have a #interview with ~
   * Interview is carried out / conducted/done
@@ -6445,6 +6465,8 @@ retaliate
 # 정신차려
 * Stay sharp; Pull yourself together, Snap out of it; You're going to pull your act together
   * ‘#정신차려                                snap out of it, #get a grip on yourself, Get with the program
+  * Earth to OO: ~보고 정신차리라고 말할 때, 멍 때리고 있는 사람을 부를 때 하는 관용어구로, 마치 상대가 우주선이나 지구 밖에 있는 것처럼 가정하여 '지구에서 OO에게 말한다, 오버'같은 느낌으로 사용하는 표현입니다~^^
+  * 제시카는 응답하라, 제시카는 응답하라, 지금 뭐 하는 거니? Earth to Jessica, Earth to Jessica, what are you doing?
 * 정신이 막 여기저기 흩어져 있는 듯 할 때, 그래서 무언가에 집중을 할 수 없을 때 쓰는 표현으로 [한데 모으다] 라는 get together 를 쓸 수가 있어요. 그래서 집중을 필요로 하는 상황일 때, 무언가를 더 효율적으로 해야 해서 집중해야 할 때 자주 쓰이는 비격식 표현입니다.
   * 정부는 정말 정신 차려야 해. ex) The government really should get its act together.
 * 정신이 팔려있다; - was too preoccupied
@@ -6649,6 +6671,7 @@ retaliate
 # 조작
 * #조작; #cook #fabricate #manipulate
 * 선거는 조작된 거였어. The election was rigged.
+* # 지어내다; 침대 밑에 괴물 안 살거든? 그거 지어낸 얘기야. Monsters don't live under your bed. That's make-believe.
 
 # 조치
 * 게이 탐지기가 반응하고 있어          My faggot dector is off the charts
@@ -6930,6 +6953,7 @@ retaliate
 * 결과가 말해주잖아. 넌 충분히 열심히 한 게 아냐. The result speaks for itself. You didn't work hard enough. 자명한 사실 보여주다/증명하다
 * prove someone wrong : 가 틀렸음을 증명하다
   * 네가 틀렸다는 걸 증명해주지. 두고 보라고. I'll prove you wrong. Just wait and see.
+  * 네가 틀렸단 걸 증명할거야; I'll prove you wrong
   * 1) 두 다리로 선다고 하여 ‘자립하다, 혼자 힘으로 일어서다’의 의미로 쓰였습니다. 사실 이 뜻으로 표현하려면 stand on one’s own legs 처럼 복수형 legs가 되어야 하는데요, 본 영상에서는 단수형으로 a leg to stand on이라고 하였습니다.  2) a leg to stand on는 원래 [not have a leg to stand on : 증거, 근거 부족으로 해명/주장 할 수 없다]로 쓰이는 말입니다. 어느 경우든 leg가 자신을 지탱하는 무언가를 의미합니다. 그것이 영상과 같이 돈을 벌어서 삶을 이어나갈 기반일 수도 있고, 이 표현처럼 증거, 근거일 수도 있는거죠. 
     * 이제 자립할 때도 되지 않았니? Isn’t it time that you stood on your own legs?
     * 계약서에 서명하지 않으셨으면, 법적으로 증명할 수 없습니다. If you didn’t sign a contract, you won’t have a leg to stand on.
