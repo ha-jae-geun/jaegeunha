@@ -26,6 +26,7 @@
 * 척골 후려치기; it's called whacking your funny bone
 * 어제 난리였어; i was a hot mess
 * 이제 회복중인거죠? Now you're in remission right?
+  * be on the mend: (건강 상태, 상황 등이) 나아지고 있다, 회복 중이다
 * 항암치료 시작했어요; i immediately started chemo  [ˈkiːməʊ]
 * 이온음료도 챙겨 마셔요; Drinking a lot of electrolytes [ɪˈlektrəlaɪt]
 * 나트륨 부족이에요; i'm low on sodium
@@ -159,6 +160,8 @@
 * #의료 서비스 medical/health care
 * #수명 #평균 수명 life span, life expectancy
 * #수술; it doesn't need #surgery / to be #operated on immediately
+  * 1) 동사 scrub 은 [문질러 씻다] 라는 뜻이 있는데요. 실제로 의사들이 수술에 들어가기 전에는 솔 같은 것들로 손을 벅벅 문질러 씻기도 합니다. 그래서 scrub in 은 의사가 수술에 들어가기 전에 손을 문질러 씻는 행동을 의미해요. 영상에서는 [수술 곧 들어가야해] 라는 뜻으로 쓰였어요.
+  * 수술 준비 지금 바로 좀 해주세요. ex) Please scrub in right now.
   * to go under the knive = to have surgery = to have an operation
   * 성형수술; have cosmetic surgery = go under the knife
   * 두 표현 모두 ‘성형수술’입니다. 하지만 엄밀히 말하면 cosmetic surgery는 미용을 위한 성형수술을 말하고, plastic surgery는 화상이나 장애 등으로 인해 망가진 신체 부분을 재건하는 성형수술을 가리킵니다.  하지만 회화 상에서는 그렇게 엄격하게 구별할 필요는 없습니다. 일반 원어민들도 구별없이 사용하는 경우도 많습니다. 

@@ -7,6 +7,7 @@
 * 패배 직전에서 승리하다; we #snatch victory from the jawsof defeat
 	* 연승, 연패; be on a winning/losing streak; five straight/consecutive wins/victories; win fifth straight; won three times in a row
 	* 완패당했어; We got creamed
+	* 원정승;  Spurs’ Gregg Popovich earns most road wins by an NBA coach ever
 * 상황이 역전되다; the shoe is on other foot, #역전 시키다; #Turn the tables
 * #역전; #inversion;
 * 결승에 진출하다; make it to the finals
@@ -49,6 +50,7 @@
 * 근육 자랑 좀 해봤어용; I was flexing; 근육, 힘을 과시하다
 * 운동 겸 걷는게 좋지 않나? Don't you think we better walk for exercise?
 * 나 살쪘어; i gain/put on weight
+	* Are you sure you're not just getting fat; get fat
 * 어떤 운동 주로 하세요; what kind of exercise do you do
 * 뛰다 설사 마렵지만 않앗으면; i don't want to get runner's diarrhea
 * 크런치하다; do crunches; do sit-ups;; i only do crunches for my abs

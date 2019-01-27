@@ -576,6 +576,7 @@
  * #칼로리가 #소모된다; you can #burn out a lot of calory at once
 * burn through 는 무언가를 빠른 속도로 다 써버릴 때 쓰는 표현이에요. 가사에서도 '시간이 가는 줄도 모른 채 수다 떠는 데 시간을 다 써버렸다' 는 뜻으로 시간이 매우 빨리 지나갔다라는 것을 강조하기 위해 쓰였네요! 
   * 그 회사는 투자자들로부터 얻은 돈을 빠르게 소비하고 있다. The company is burning through the money they got from the investors.  
+  * '상처받다, 속다'라는 뜻으로 '데인다'고 표현하죠? 영어도 똑같아요! be burned의 1차적인 뜻은 '데이다'인데, 더 나아가 '상처받다, 속다, 배신당하다'라는 뜻으로 쓰인답니다. I've been burned too many times
 
 ## burden
 * 잭. 너의 짐을 함께 들어줄게. 혼자서 모든 걸 다 하려고 하지 마. ex) Hey, Jack. I can share your burden. Don't try to do everything by yourself.
@@ -721,6 +722,8 @@
  * #드라이기 #blow dryer  ; can you blow dry it?
  * #blew me away; #끝내줬따
  * #blow smoke; #허풍을 떨다
+* # 잠잠; # 사그라들다; : 폭풍이 지나가면서 점차 사그라들듯, 어떤 사건에 대한 관심과 논란이 '잠잠해지다, 사그라들다' 라는 뜻이에요!
+    * 이 사건 하루면 잠잠해질걸. [ex] This whole incident will blow over in a day.
 
 ### blow up
 * 'Blow up' 의 뜻은 '(바람을 불어넣어) 부풀리다, 부풀어 오르다' 라는 뜻과, '(폭발물 등을 사용하여) 폭파시키다, 날려버리다' 라는 뜻이 있고,
@@ -754,12 +757,22 @@
 * 2. cause: 여기서는 '원인, 이유, 근거'가 아닌 '목적, 대의'를 의미합니다.
   * 우린 더 큰 대의를 위해서 협력해야 한다. [ex] We have to cooperate for a larger cause.
 
+## cash
+* : 무언가를 이용해 돈을 벌거나 이득을 취하다 * cash in (on + 무언가) (다른 사람의 명성, 연예인의 불행 등을 이용해 돈을 번다는 뜻으로 많이 쓰입니다)
+  * 지역 사업체들은 드라마의 인기에 편승해서 돈을 벌고 있다. ex) Local businesses cashed in on the show's popularity.
+
 ## case
+* 명사 'case'는 크게 세 가지 정도 맥락에서 사용됩니다. 첫 째는 우리말로도 '케이스'라고 자주 부르는 '용기, 통, 상자'죠.
+  * [ex] a pencil case = 필통
+  * 내 경우에는 두번 째 해가 제일 힘들었어. [ex] In my case, the second year was the hardest. 둘 째는 '경우, 사례' 등을 가리킬 때 씁니다.
+  * 사건(수사)이 종결되었다. [ex] The case is closed. 마지막으로, 예문에서와 같이 수사·법정물에서 자주 등장하는 의미가 있죠. 바로 '사건'이나 '소송건, (재판)논거'입니다.
 * 그러면 in that case, | in case 문장, 문장: 만약의 경우에
   * ^^in the case of 보다는 in my granfather's case처럼 소유격
   * be the case: 사실이다
   * #케바케 it depends (on)
   * #on a case; #일 때문에; i'm here on a case
+  * 여기서 plead는 ‘변호하다’라는 뜻입니다. 그래서 plead a case는 ‘사건을 변호하다’고, 영상에서는 흐름상 '내 편이 되어주다'라고 번역하였습니다. 내 편이 되어 변호를 해 주었으니까요. 
+    * 그는 그의 사건을 변호해 줄 변호사를 고용했다. (plead: 변호하다) He hired a lawyer to plead his case. 
 
 ## cast
 * * cast out = 몰아내다, 없애다 cast 는 기본적으로 [던지다]라는 뜻을 가지고 있어요. 감독이 배우를 캐스팅하는 것도 배역을 던져주는 것이고, 또한 투표를 할 때 표를 던지는 것도 cast 라고 합니다.  여기에 out 이 붙어서 밖으로 던져 없애는 모습의 단어인데요. 자신이 좋아하지 않거나 필요 없는 것, 또는 가지고 있다가 책임질 상황이 싫어서 없애는 것을 의미합니다.
@@ -899,6 +912,11 @@
 ## chop
 * 얘기나 하자; chop it up
 
+## chin
+* chin은 '턱', wag는 '흔들다, 계속 움직이다'이라는 의미로, 턱을 계속 움직이는 걸 수다 떠는 것에 비유한 표현이에요^^
+    * 그들은 거실에서 수다를 떨고 있었다. ex) They were having a chin wag in the living room.
+    * 우리는 하루종일 수다를 떨었다. ex) We were wagging our chins all day.
+    * 그들이 물가에서 수다떨고 있는 걸 봤어. ex) I saw them chinwagging by the water.
 
 ## child
 * childish, juvenile, still #immature
@@ -1008,7 +1026,8 @@
 
 ## crack
 * 누가 일렀어: Who cracked
-
+* crack a joke: 농담을 하다
+                                
 ## cram
 * = 10명의 사람이 작은 승합차에 꾸역꾸역 들어갔다. 10 people crammed into a small van.
   * (학생들이 / 잔뜩 들어갔다 / 그 조그만 교실로 ) The students / crammed into / the tiny classroom.
@@ -1091,6 +1110,9 @@
 * 가까워지는 느낌
 * come out; the tap doesn't come out
 * come true
+
+## cancel
+* 커피의 쌉쌀한 맛과 케이크의 느끼함이 서로 상쇄된다.[ex] The bitter taste of coffee and the greasiness of cake cancel each other out; cancel out
 
 ## canned
 * 통조림에 들어가 있는 음식들을 canned food 이라고 하는데요. 안 열어봐도 안에 뭐가 들어있는지 뻔히 알 수 있는 것처럼 뻔한 답변을 의미할 때 쓰는 표현입니다. 참고로 시트콤들이 사용하는 가짜 웃음 소리는 canned laughter라고 합니다.
@@ -1369,6 +1391,12 @@
  * I have free time (a xxx)
  * #free ticket을                 'day pass/ticket’
 
+## face
+* 이거나 먹어라!; In your face
+
+## fault
+* 이 책은 잘못된 논리를 토대로 하고 있습니다. [ex] The book is based on faulty logic. fault는 잘못, 흠, 결점을 가리키는 명사죠. 이것을 형용사화한 표현이 faulty입니다~
+
 ## fast
 * live fast는 하고 싶은 걸 후회 없이 막 사는 걸 의미하는데 주로 별 깊은 생각 없이 위험하고 방탕한 일을 하고 지내는 라이프 스타일을 일컫습니다. (fast에는 '행실이 좋지 않은, 방탕한'이라는 뜻도 있어요!) 젊은이들의 슬로건처럼 'live fast, die young'이라는 말로도 자주 등장하죠~ 별 생각 없이 즐기기만 하며 살다 보면 이른 죽음을 맞이 할 수도 있지만 그에 대한 두려움이 없는 사람들의 마음이 담겨 있는 표현이에요. 화려하게 살다가 세상을 일찍 뜬 유명한 스타들을 묘사하는 말이기도 하지요~
 
@@ -1508,6 +1536,10 @@
 * '나의 의지와 상관없이', '어쩌다보니' 그런 생각을 하게 되었다는 뜻이에요.  I found myself having thoughts...
 	* 정신차려 보니 다시 그녀 문앞에 내가 있더라고. (진짜 정신을 잃은 건 아니고, 무언가에 홀린듯 거기로 갔다는 뉘앙스) ex) I found myself back at her doorstep.
 * -하는 나를 발견했따; i found myself feeling -
+
+## flash
+* # 갱년기; 2. hot flash: 갱년기 때 느껴지는 열감
+
 
 ## flat
 * flat 은 아래의 [참고] 부분에 있는 것처럼 굉장히 많은 뜻을 가지고 있고 많이 쓰이지만, 영상에서처럼 [시간+flat] 을 쓰게 되면 형용사로 '딱 ~ 밖에' 시간이 걸리지 않았을 때, 그만큼 무언가가 놀랍게 빨리 발생했고, 단지 그 시간 밖에 걸리지 않았다는 것을 강조해 주기 위해서 쓰입니다.
@@ -2028,6 +2060,10 @@
 *  ((국제 금융 시장에서 높은 수익을 노리고 유동하는 단기 자금)) hot money
 * 내가 그에게 하루 종일 어디 있었었냐고 묻자 그는 몹시 당황스러워 했다. He got very hot under the collar when I asked him where he’d been all day. 
 
+## hash
+* 1) hash 는 원래 [고기를 잘게 썰다] 또는 [잘게 썬 고기 요리] 를 의미해요. 그런데 고기를 잘게 써는 동작을 잘 생각해보시면, 계속 '반복' 하고 '철저하게' 써는 동작이거든요. 2) 그래서 비유적으로 사용되어 무언가를 [철저하게 논의하다, 말하다, 반복하다] 라는 뜻을 가지게 됩니다. 영상에서도 이렇게 쓰였고요. 전치사 over 와 주로 함께 쓰입니다. hash over. 영상에서는 over 를 다 말하지 못하고 남자 배우에 의해 끊긴 것으로 보여요. 3) rehash 라는 단어도 많이 쓰이는데요. 이 단어는 hash 를 한 번 더 하는 느낌이니까, 무언가를 크게 바꾸는 것 없이 [다시 말하다, 다시 만들다, 재탕하다] 라는 의미를 가진답니다.
+  * 최종 결정을 하기 전에 돌아가서 와이프랑 다시 한 번 얘기해 봐야겠어요. ex) I gotta go back and hash it over with my wife before making a final decision.
+
 ## hassle
 * 우리 부모님은 내#가 늦게 다니는 것에 대해 항상 잔소리한다.
 * My parents always hassle me about staying out too late.
@@ -2176,6 +2212,9 @@
 ### hang on
 * : 잠깐만요. Hang on; Hang on a second.
 
+## idea
+* '그건 내가 의도한 거야', '그게 목적이야', '그것도 내 계획의 일부야'라는 뜻이에요. "That's the idea."
+
 ## identify
  * “너는 성을 사람들이 너를 부르는 것과 동일시 한다.” “You identify gender with that people call you.”; identify sth with sth = –와 –를 동일시 하다, 관련이 있다고 보다
  * 그가 바로 그 살인자임이 밝혀졌다.  He was identified as the murderer. 그 사람이 누군지를 as 다음의 명사라고 본다는 것으로 여기에 oneself 를 넣으면 ‘스스로를 ~라고 생각하다, ~라고 여기다’라고 해석됩니다. 
@@ -2207,6 +2246,10 @@
 ## intense
 * intense 는 사전적 의미로는 [강렬한, 치열한] 등의 의미가 있어요. 무언가의 강도, 정도가 굉장할 때 쓰이는 단어인데요. 비슷한 뉘앙스의 extreme 은 부정적인 뉘앙스인 반면, intense 는 주로 긍정적인 뉘앙스로 쓰입니다. 영상에서는 [장난이 아닌] 이라고 해석이 되어 있는데요. 정말로 멋진 경험을 표현할 때 [쩌는] [정말 인상적인] 등의 의미로 쓰이기도 해요.
 	* 그 공연 내내 한 경험은 정말 장난이 아니었어. (굉장히 강렬했다, 감동적이었다 등을 의미) ex) The whole experience throughout the show was really intense.
+
+## joke
+* : 직역에 가깝게 옮기면 '우리/나/너만 우습게 됐다'인데요. 놀리려던 쪽이 오히려 놀림거리가 됐을 때, 혹은 상황이 반전돼서 본인 꾀에 본인이 넘어졌을 때, 본인이 의도한 대로 되지 않았을 때 쓸 수 있는 표현이에요!
+  * 우리가 우리 발등을 찍었네. Guess the joke's on us. [ 관용구 ] The joke's on us/me/you/…
 
 ## job
 * 'nut job'은 '미친 사람'이란 뜻이에요. 하지만 욕설의 느낌보단 '맛이 갔어' 정도의 뉘앙스의 구어체 표현이죠. 'sb is nuts'라든가 'sb is batty'라고 해도 돼요!
@@ -2338,6 +2381,10 @@
   * 직원들은 그 문제에 주목했다; Members have latched on to the issue
   * 트렌드에 열중해왔따; have latched on to the trend of using consultants
 
+## lock
+* lock something down : 확실히하다 lock 이 무언가를 '걸어잠그다' 라는 뜻이 있어요. 따라서 무언가를 변화되지 않고, 되돌릴 수 없도록 [확실히 하는 것] 을 의미하는 단어입니다.
+  * 마음 좀 그만 바꿔! 그 결정으로 확실히 하자고. ex) Stop changing your mind! Let's lock the decision down.
+
 ## lose
  * 작년 #마지막 #분기 때 애플은 삼성보다 불리해졌다.
  * Apple lost some ground to Samsung in the final quarter last year. #lose some ground
@@ -2392,6 +2439,11 @@
 	* 사기꾼들 조심해. [ex] Look out for scam artists.
 3. 있나 없나 인지하다/찾아보다
 	* 이따가 무대에 나 나오는 거 봐봐. 뒤쪽에 있을 거야. [ex] Look out for me on stage later. I'll be in the back.
+
+## leg
+* 1) 두 다리로 선다고 하여 ‘자립하다, 혼자 힘으로 일어서다’의 의미로 쓰였습니다. 사실 이 뜻으로 표현하려면 stand on one’s own legs 처럼 복수형 legs가 되어야 하는데요, 본 영상에서는 단수형으로 a leg to stand on이라고 하였습니다.  2) a leg to stand on는 원래 [not have a leg to stand on : 증거, 근거 부족으로 해명/주장 할 수 없다]로 쓰이는 말입니다. 어느 경우든 leg가 자신을 지탱하는 무언가를 의미합니다. 그것이 영상과 같이 돈을 벌어서 삶을 이어나갈 기반일 수도 있고, 이 표현처럼 증거, 근거일 수도 있는거죠. 
+  * 이제 자립할 때도 되지 않았니? Isn’t it time that you stood on your own legs?
+  * 계약서에 서명하지 않으셨으면, 법적으로 증명할 수 없습니다. If you didn’t sign a contract, you won’t have a leg to stand on.
 
 ## level
 * 솔직히 말할게; i'll level with you
@@ -2519,6 +2571,9 @@
 	* 술 몇 잔 하더니, 그는 엄청 부드러워졌다. After a few drinks, he became very mellow.
 * 3. ⓥ 연륜이 쌓여서 성격이 온화해 지다
 	* 그녀는 참을성이 없는 편이었는데, 시간이 지나면서 유순해 졌다. v
+
+## mend
+* be on the mend: (건강 상태, 상황 등이) 나아지고 있다, 회복 중이다
 
 ## menu
 * 메뉴가 뭐야? What's on the menu? (the 중요); What's for lunch? Wht's for dinner? WHat are we having tonight?
@@ -2676,6 +2731,9 @@
 
 ## nasty
 * nasty; 1. 더럽다 2. 맛이 없다 3. 형편없다; nasty watch 4. 악취; nasty smell
+* 끔찍한 주거환경 [ex] nasty living conditions 1. 불쾌한, 끔찍한 (맛/향/모양/기분)
+* Harry가 그에 대해 굉장히 고약한 얘기들을 퍼뜨렸어. [ex] Harry spread some very nasty things about him. 2. 불친절한, 공격적인
+* 위험천만한 추락 [ex] a nasty fall 3. 심각한, 위험한
 
 ## name
 * 난 유명해지는 것 이외에는 다른 건 신경 안 써. ex) I don't care about anything else other than making a name for myself. = make a name for oneself
@@ -2947,6 +3005,9 @@
 * 잡아당겨서 (pull) 부분을 떼어내는 (apart) 느낌의 단어입니다. 특히나 음식을 떼어줄 때 많이 쓰는 표현이고, 사람들이 싸워 뒤엉켜 있을 때 떼어놓는 것도 의미해요.
 	* 그 둘은 교실에서 싸우는 중이어서 우리가 떼어내야만 했어. ex) The two were fighting in class and we had to pull them apart.
 
+## piss
+* = 을 놀리다, 을 가지고 농담 따먹기 하다 take the piss out of somebody 비속어 표현이고요, make fun of 보다 농담 수위가 높고, 기분 나쁜 농담일 때 쓰는 표현이에요.
+
 ## pin
 * 2. pin [목적어] down: 무언가를 정확히 이해하거나 묘사하다
   * 경찰이 범죄의 동기를 파악하려고 노력 중이다. [ex] The police are trying to pin down the motive of the crime.
@@ -3095,6 +3156,12 @@
 * 약속하면 해야하는 그림; 맹세의 느낌
 * i have a promise(가질수 없다) -> i'm meeting my friend; i have a plan with my friend
 * i made a promise to my friend that i'm going to keep it secret
+
+## plead
+* 여기서 plead는 ‘변호하다’라는 뜻입니다. 그래서 plead a case는 ‘사건을 변호하다’고, 영상에서는 흐름상 '내 편이 되어주다'라고 번역하였습니다. 내 편이 되어 변호를 해 주었으니까요. 
+    * 그는 그의 사건을 변호해 줄 변호사를 고용했다. (plead: 변호하다) He hired a lawyer to plead his case. 
+  * 그녀는 그에게 마음을 바꾸라고 애원했지만 그는 듣기를 거부했다. (plead with~: ~에게 애원하다) She pleaded with him to change his mind, but he refused to listen.
+  * 그들은 아직도 절도에 대해 죄를 인정하지 않고 있다. (plead guilty: 유죄를 인정하다) They still haven’t pleaded guilty to robbery.
 
 ## plug
 * 플러그는 꽃혀 있어?              Is it plugged in? #plug in
@@ -3534,6 +3601,10 @@
 * pseudo-science : 유사과학, 사이비과학; 과학적이지 않지만 과학적인 방법에 근거했다고 여겨지는 믿음이나 관행을 의미합니다. 
   * 점성술은 유사과학의 일반적인 예이다. ex) Astrology is a typical example of pseudo-science.
 
+## scrub
+* 1) 동사 scrub 은 [문질러 씻다] 라는 뜻이 있는데요. 실제로 의사들이 수술에 들어가기 전에는 솔 같은 것들로 손을 벅벅 문질러 씻기도 합니다. 그래서 scrub in 은 의사가 수술에 들어가기 전에 손을 문질러 씻는 행동을 의미해요. 영상에서는 [수술 곧 들어가야해] 라는 뜻으로 쓰였어요.
+  * 수술 준비 지금 바로 좀 해주세요. ex) Please scrub in right now.
+
 ## screw
 * 그녀는 태양 때문에 눈을 찡그렸어요. She screwed up her eyes because of the sun.
 
@@ -3575,6 +3646,9 @@
 ## sake
 * for God's sake와 같은 뜻입니다.; Peter 가 성경에서 베드로이며 God's 대신에 Pete's 쓰이기도 합니다 ^^
 
+## sight
+* 그녀를 한눈에 알아봤다. I recognized her on sight. on sight: 보자마자, 발견 즉시, 한눈에
+
 ## sign
 * 1. 신청하다 ; 수강신청하다  register for/sign up for courses
   * 2. 원했던건 이게 아닌데  I didn't sign up for this
@@ -3598,7 +3672,9 @@
   * 느긋하게 앉아있다 #sit back; they didn't take the time to sit back
   * #sit behind; sit behind the desk; #손 떼다
   * Let it sit; 그대로 둬
-  * * 걔 토요일 경기에 못 나갔어. (경기엔 못 나가고 벤치에 앉아서 끝까지 지켜봤다는 뉘앙스) He had to sit out the game on Saturday. 1. ~에 안 끼고 빠지다 2. ~가 끝나길 기다리다 (그 일에 끼지 않고)
+
+### sit out
+* * 걔 토요일 경기에 못 나갔어. (경기엔 못 나가고 벤치에 앉아서 끝까지 지켜봤다는 뉘앙스) He had to sit out the game on Saturday. 1. ~에 안 끼고 빠지다 2. ~가 끝나길 기다리다 (그 일에 끼지 않고)
 
 ## single
 * 그녀가 지목되어 비판을 받았다. She was singled out for criticism.  (을 위해/~으로) ~을 선발[지목]하다
@@ -3643,6 +3719,10 @@
 
 ## swing
 * 가능할 것 같아; i think i could swing that; swing: 잘 해내다
+
+## spin
+* 정신적으로 굉장히 힘들고 스트레스를 받아서 멘붕이 온 것 같은 모습을 보여주는 표현입니다. 마약 같은 걸 하고 헤롱거리며 주변에 무슨 일이 일어나고 있는지 이해하지 못할 때 쓰는 표현이기도 해요.
+  * 이번 주에 해야 할 발표가 3개야. 미쳐버리겠네! ex) I have three presentations this week. I'm spinning out!
 
 ## spiral
 * -ward는 방향을 나타내주는 접미사로 downward는 ‘아래로’입니다. upward(위로), backward(뒤로), forward(앞으로) 처럼요. 그리고 spiral은 ‘소용돌이, 나선형’을 뜻합니다. 꾸불꾸불 꼬아져 있는 나선형 계단도 spiral stairs라고 합니다.  그래서 downward spiral은 나선형 모양으로 아래로 한 없이 추락하는 이미지가 연상되는데요, 이표현은 조절하기 힘들 정도로 상황이 악화되는 것을 의미합니다. 영상에서처럼 우울했던 감정이 더 심해지는 걸 말할수도 있고, 이 외에 어떤 분야든 상황이 한없이 나빠질 때 downward spiral 라고 비유할 수 있습니다. 
@@ -3935,6 +4015,11 @@
 ## shove
 * ~에게 ~을 억지로 강요하다 = shove something down someone's throat 별로 관심도 없는데 반복적으로 말하고, 무언가를 보여줌으로써 강요하는 것을 의미하는 표현입니다.  shove 가 [떠밀다] 라는 뜻이 있으니 목구멍(throat) 속으로 무언가를 억지로 떠먹여서 어쩔 수 없이 받아들이도록 하는 뉘앙스의 표현이에요.
 	* 네 신념을 나한테 강요하지 좀 마! ex) Stop shoving your beliefs down my throat!
+
+## squat
+* squat: (미국, 슬랭) diddly-squat의 약어로서  부정문에서 사용되며 '아무 것도'라는 의미를  가집니다.
+  * 아무 의미도 아니다. It doesn't mean squat.
+  * 그는 춤에 대해 아무 것도 몰라. He doesn't know squat about dancing.
 
 ## square
 * square 가 가장 기본적인 의미로는 [정사각형] 을 의미하는데요. 정사각형은 모든 변이 같잖아요? 그래서 이 단어가 동사로 쓰일 땐 A square with B 처럼 쓰여서 [A와 B가 일치하다] 라는 의미를 가집니다.  영상에서는 이미 with 의 의미를 내포하고 있는 together 가 쓰였기에 with 는 쓰지 않았습니다.
@@ -4467,6 +4552,12 @@
 ## visit
 * 어렵지 않은 표현이지만 visit 자체를 명사로 많이 쓰는 연습이 되어 있지 않다면 쉽게 떠오르지 않는 표현일 수도 있어요! visit 이 명사로 쓰이는 또다른 유용한 표현으로는 [방문하다] 라는 의미의 pay a visit 도 있답니다.
 
+## wag
+* chin은 '턱', wag는 '흔들다, 계속 움직이다'이라는 의미로, 턱을 계속 움직이는 걸 수다 떠는 것에 비유한 표현이에요^^
+    * 그들은 거실에서 수다를 떨고 있었다. ex) They were having a chin wag in the living room.
+    * 우리는 하루종일 수다를 떨었다. ex) We were wagging our chins all day.
+    * 그들이 물가에서 수다떨고 있는 걸 봤어. ex) I saw them chinwagging by the water. 
+
 ## warm
 * 1. 데우다 스프 좀 데워줄래? [ex] Would you warm up some soup for me?
   * 2. 따뜻해지다 지구가 따뜻해지고 있어.  [ex] The Earth is warming up.
@@ -4508,6 +4599,9 @@
 * work in + 근무 장소(place; school/department; HR) / work for + company(직장명)
 * 1. 되다(does it work) 2. that works for me(그 시간 괜찮아) 3. 말이 안돼 that doesn't work
 * work on ; 일하다; I worked hard on the presentation
+* 1. 꽉 찬 일정에 시간을 내줄 때 내 PT 트레이너가 이번 주말에 예약이 꽉 찼대. 근데 나도 스케줄에 넣을 수 있도록 노력해보겠대. My personal trainer is fully booked for this weekend. But she said she'll try to work me in.
+  * work something in은 뭔가를 '삽입하다', '끼워 넣다', '포함시키다'라는 뜻이에요. 또 어떻게 쓰이나 두 가지 예시를 살펴볼게요.
+  * 제안해줘서 고마워. 그 내용을 발표에 포함시켜보도록 할게. Thanks for the suggestion. I'll try to work that in my presentation. 2. 문서나 연설에 어떤 내용을 포함할 때
 
 ### work out
 * : 결국에는 잘 안됐어요. Didn't work out in the end.
@@ -4553,6 +4647,8 @@
 * 붕대 좀 돌려주시겠어요? Can i have my wrappings back?
 * = wrap one's brain/head/mind around 머리를 꽁꽁 싸매듯이 이해하려 하는 것을 의미해요. 조금 어렵고, 혼란스럽고, 생소한 것을 이해하려는 모습의 단어입니다.
 	* 방금 일어난 일을 이해할 수가 없어. ex) I just can't wrap my head around what's just happened.
+* : 조종하거나 통제하다, 자기 마음대로 주무르다  wrap around one's little finger
+  * 그녀는 그 남자를 완전히 잡고 있다. She has him wrapped around her little finger.
 
 ## wheel
 * take the wheel은 직역하면 운전대를 붙잡다는 의미로, 어떤 일의 지배권을 장악하다는 비유로 많이 쓰이는 표현이죠.  take over는 다른 사람이 가지고 있던 것을 넘겨 받는다는지, 자신이 영향력을 더 키워 회사나 사업, 장소 등을 장악/인수하는 걸 의미합니다. 지배권의 변화를 암시해요. 여기서는 이 두가지 표현이 복합적으로 사용되었네요~ 가볍게 어떤 일을 리드한다는 뜻으로도 말할 수도 있겠죠.

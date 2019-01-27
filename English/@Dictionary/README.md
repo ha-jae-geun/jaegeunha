@@ -169,6 +169,8 @@
  * The doctor said I have to cut back on sugar and carbs carbohydrate
  * #glucose
  * # 감축, # 규모 # 축소 company #downsizing
+ * 여기서 축소를 한다는 것은, 어떤 것의 중요성이나 크기, 의미를 실재보다 ‘더 낮게 치부하다, 깎아내리다’라는 것입니다. 잭슨은 피해자들이 겪은 트라우마(trauma: 정신적 외상)를 실재보다 낮게 보려는게 아니라고 항변하고 있습니다.   diminish + the trauma 처럼 타동사(동사+목적어)로 쓸 수 있는데요, 목적어는 주로 추상적인 것이 옵니다. 예를 들면 인기(popularity), 가치(value), 가격(price), 성취(achievements), 고통(pain), 가능성(chances), 입맛(appetite) 등 입니다. 아니면 사람을 목적어로 해서 그 사람을 ‘폄하하다, 깔보다’의 의미도 있습니다. 혹은 ‘약화되다, 줄어들다’처럼 자동사(목적어 없이 동사만)의 기능도 있습니다. 이 때는 over time(시간이 지나면서), gradually(서서히), rapidly(빠르게), sharply(급격하게) 등등 속도나 시간의 흐름을 나타내는 부사를 함께 쓸 수 있습니다. 
+  * 그녀가 이룬 것을 폄하할 생각은 없는데, 주변에서 도움을 많이 받은 건 사실이잖아. I don't want to diminish her achievements, but she did have a lot of help.
 * # 규모; * of epic proportions : 엄청난 규모의
   * 우린 엄청난 규모의 재정적 문제가 있어. ex) We have financial problems of epic proportions.
   * 그는 아직도 문제의 심각성을 이해하지 못하고 있는 것 같아. He still doesn’t grasp the magnitude of the problem.
@@ -911,6 +913,8 @@
 * ＊ It doesn't really do it for me. = 나는 별로 안끌려. / 나한테는 감흥이 없어.
 * 그 영화는 한국에선 그리 관심을 끌지 못했다. ex) The movie didn't really make a splash in Korea.
 * # 무관심해지고 버릇없어지죠; You become callous, you become crude ˈkæləs] 
+  * # 잠잠; # 사그라들다; : 폭풍이 지나가면서 점차 사그라들듯, 어떤 사건에 대한 관심과 논란이 '잠잠해지다, 사그라들다' 라는 뜻이에요!
+    * 이 사건 하루면 잠잠해질걸. [ex] This whole incident will blow over in a day.
 
 # 관점
 * standpoint는 직역하면 '서있는 지점, 장소'를 가리킵니다. 어떤 문제나 상황을 살필 때의 '관점, 입장'을 의미하죠.
@@ -1452,8 +1456,11 @@
 
 # 나이
 * 내가 20대일때 넌 날 늙게 보곤했다. You used to put years on me when I was in my 20s.  put years on somebody
+  * people my age: 내 나이대 사람들  men his age: 그 사람 나이대 남자들
+    * 그 나이대 남자애들은 바보같은 일들을 하기마련이다. Boys his age would do stupid things.
   * 어느새 18살이 됐어; Fast forward to 18
   * 7살 짜리 애들을 앉혀놓고; they sit dkis down at the age of 7
+* # 갱년기; 2. hot flash: 갱년기 때 느껴지는 열감
 * 30대쯤으로 보여; She looks somewhere in ther thirties
 * Do you mind if I ask your age?
 * #동갑이야 She is your age #또래인 of my age 한 살 #차이: ~ and I are one year apart
@@ -2459,6 +2466,8 @@
   
 # 말
 * [표현하다] 라는 뜻의 단어는 express 도 있는데요. express 는 좀 더 일반적인 단어이며, 표현을 잘하든, 잘하지 못하든 express 라고 할 수가 있습니다.  반면에 articulate 는 express clearly 라고 생각하시면 되는데요. 생각, 감정 등을 '분명하고 능숙하게' 표현해내는 행위를 의미해요. 또한 형용사로도 쓰여 [잘 표현하는/또렷한] 의 의미를 갖기도 합니다.
+  * gob는 입을 가리키는 속된 영국식 표현으로 '아가리' 정도로 이해하면 될 것 같습니다. 좀 더 순화시켜 gob 대신 mouth를 쓸 수 있겠지요. 하지만 'mouth off'도 마찬가지로 비격식 표현이랍니다~
+    * 마이크가 자기 여친에 대해 막 떠들어 대는 걸 들어줬다. I listened to Mike gobbing off about his girlfriend.
   * # 표명하다; #vocal in/ #vocal about
   * 전 당신의 회사에 레베카를 정말로 추천합니다. 그녀는 굉장히 밝고 표현을 잘해요. I highly recommend Rebecca for your company. She's very bright and articulate.
 * = 간접적인 방식으로 (얘기하면), 완곡하게, 에둘러서 in a roundabout way 
@@ -3612,6 +3621,7 @@
  * # 관전 #spectating
  * # 불침번 # 보다 # 지켜보다 # 주시 # 훑어보다 | # 노려 # 째려 # 관점 # 방관 #see ##look #watch
 * #spot; 1. # 찾아내다, # 발견하다; spot ~
+ * 그녀를 # 한눈에 알아봤다. I recognized her on sight. on sight: 보자마자, 발견 즉시, 한눈에
  * That's not what i'm looking for
  * 그냥 보고있어요 I'm just looking around = i'm just browsing
  * 나 여기있는건 어떻게 알았어? How’d you find me here?
@@ -4098,6 +4108,7 @@ retaliate
   * 다행히도 상황은 더 크게 나빠지지 않았다. Fortunately, the situation didn’t escalate into anything big.
   * 실제로 소금을 뿌리라는 의미라기보다는, 상처가 난 곳에 소금을 뿌리면 더 아프게 되는 모습에서, 이미 어려운 상황을 [더 힘들게 만들다] 라는 의미가 있어요. = pour(rub) salt in/into a wound 영상에서는 into the wound 가 나오진 않았지만, 이별을 하려는 연인들은 이미 그 상황 자체가 상처일 수가 있겠죠. 헤어지는 상황에서, 이왕 헤어질 거면 아예 존재한 적이 없었던 것처럼 주인공의 마음을 더 힘들게 만들면서 질척거림 없이 단칼에 헤어지려고 하는 마음을 비유적으로 표현한 내용이라고 볼 수 있습니다.
     * 서로 더 상처 주는 일은 하지 말자. ex) Let's stop pouring salt into each other's wounds.
+  * # 호전; 나와 아빠 사이의 관계가 나아지고 있다. My relationship with my dad is looking up. 
 * 우리는 상황을 알아 보았다  Dipping our toes in the water
 * [상황, 사정] 을 의미하는 circumstances 앞에 다양한 형용사를 써서 어떤 상황인지 나타낼 수 있는, 굉장히 유용하고 자주 쓰이는 표현입니다. 형용사 없이 under the circumstances 라고 하면 [그러한 상황에선, 상황을 고려하면] 정도로 해석이 되고요.
 	* = 이 기술적 문제는 특정 상황에서 발생합니다. This technical issue occurs under specific circumstances.
@@ -4488,6 +4499,10 @@ retaliate
 # 수다
 * '별로 중요하지 않은 것들에 대해 담소를 나누는 것'을 informal(비격식)하게 'chit-chat'이라고 하죠^^ 'small talk'을 더 가볍게 이르는 말이에요.
   * 아무 얘기도 아니었어, 그냥 잡담. B: Nothing really, just chit-chat.
+  * chin은 '턱', wag는 '흔들다, 계속 움직이다'이라는 의미로, 턱을 계속 움직이는 걸 수다 떠는 것에 비유한 표현이에요^^
+    * 그들은 거실에서 수다를 떨고 있었다. ex) They were having a chin wag in the living room.
+    * 우리는 하루종일 수다를 떨었다. ex) We were wagging our chins all day.
+    * 그들이 물가에서 수다떨고 있는 걸 봤어. ex) I saw them chinwagging by the water.
 
 # 수리
 * locksmith 열쇠공  gas meter 가스계량기  repairperson 수리공
@@ -4763,6 +4778,7 @@ retaliate
 
 # 신경
 * : (~에 대해) 신경을 안 쓰다 not give a shit/damn/fuck (about ~)
+  *  자주 쓰이는 구어체로서 'don't give a damn' 급의 무례한(?) 표현이에요. 가까운 사람들과는 사용할 수 있겠지만 공식적인 자리에서는 유의하며 사용하시길!!! give a toss
   * 그 사람들이 어떻게 생각하든 난 신경 X도 안 써. [ex] I don't give a shit/damn/fuck about what they think.
 * 신경쓰지마; Never mind
 * 동사 turn off 의 가장 잘 알려진 의미는 TV 나 라디오 등을 [끄다] 라는 뜻인데요. 비슷하게 [관심을 끄게 만들다] 라고 할 때도 이 표현을 씁니다. 영상에서는 수동태로 쓰였는데요. 문법적으로는 turned off to meat 이라고 쓰는 게 맞지만, 말하다 보니 그냥 빼먹고 쓴 경우입니다.
@@ -4775,6 +4791,8 @@ retaliate
 # 실수
 * bad > mistake >= fault
  * 요즘엔 다수의 행동에 깔려 있는 기본적인 오류가 있다. ex) There is a basic fallacy underlying the majority's actions these days.  [ˈfæləsi]  [명사] (많은 사람들이 옳다고 믿는) 틀린 생각
+ * 이 책은 잘못된 논리를 토대로 하고 있습니다. [ex] The book is based on faulty logic. fault는 잘못, 흠, 결점을 가리키는 명사죠. 이것을 형용사화한 표현이 faulty입니다~
+ * = make a misstep 지시사항을 따르면 실수를 덜 할 거야. ex) You will make fewer missteps if you follow the instruction.
  * #faux pas 미국식 [|foʊ|pɑ:]; create/make a faux pas
  * #op#; it was my op
  * 실수로 #by mistake; make a big/huge mistake | #same 
@@ -5053,6 +5071,7 @@ retaliate
 # 없다
 * 동사 die는 ‘죽다, 사라지다’지만 여기에 부사 off를 붙이면 ‘서서히, 차츰차츰 죽어나가다, 소멸되다’란 뜻이 됩니다. 사람이나 동물군이 서서히 없어진다거나, 어떠한 현상이나 소리, 냄새 등이 사라진다고 할 때도 die off라고 할 수 있습니다.
   * 하루하루 전쟁범죄의 생존자들이 죽어가고 있다. The survivors of war crimes are dying off daily.
+  * 커피의 쌉쌀한 맛과 케이크의 느끼함이 서로 # 상쇄된다.[ex] The bitter taste of coffee and the greasiness of cake cancel each other out; cancel out
   * 그 영화는 산업계 전체에 의해 영속된 잘못된 사실을 벗겨내려고 노력합니다. ex) The movie tries to strip away myths perpetuated by the entire industry.
     * 얇은 막 등을 한꺼풀씩 벗겨내는 것을 의미하는 표현인데요. 오랫동안 존재해온 중요한 무언가를 조금씩 없애서 결국엔 완전히 없애려는 것을 의미하는 단어입니다. strip away
   * cease 는 [멈추다 또는 끝내다] 라는 의미로 직역하면 [존재하는 것을 멈추다] 라는 의미의 단어입니다. 하지만 꼭 [죽다] 라고 쓰이는 것은 아니며, 무언가가 사라져서 마치 존재하지 않는 것처럼 찾을 수가 없을 때도 쓰는 표현이에요.
@@ -5098,6 +5117,8 @@ retaliate
  * 연쇄 효과                   knock-on effect
    * # 연쇄살인법                    serial killer
 * ☆#continue to / keep -ing / been -ing
+ * 어떤 특정한 기간 동안 [계속] 을 의미하며, 바로 앞에 기간을 나타내는 단위와 함께 쓰입니다. (weeks, months, years, hours 등등); on end
+  * 쟤들은 비디오 게임을 몇 시간 동안 계속 해오는 중이야. ex) They've been playing video games for hours on end.
  * #consecutive·ly, #constantly
  * 5연속                     death in a row
  * 2틀 연속                   2 days #straight 
@@ -5410,6 +5431,7 @@ retaliate
 * as fate/luck would have it = 운명처럼, 하필이면
 * seal은 대개 '봉인하다, 밀봉하다'로 쓰이는데요, fate(운명)등과 함께 쓰일 경우 결정하다, 확정하다의 의미가 됩니다. 즉 fate is sealed는 운명이 결정되다, 정해졌다라는 뜻이에요.
 * 운이 좋구나; You're in luck
+  * star-crossed: 불운한, 이루어질 수 없는; It was very star-crosed
   * 한번 해보죠 뭐(모험 삼아, 운에 맡기고) I will roll the dice
   * #운도 없구나; #tough luck
   * 순전히 운이 좋아 맞추다; if you guess by pure luck / pure chance / pure coincidence
@@ -5814,6 +5836,10 @@ retaliate
 * # 게으르다; ‘일어나서 무언가를 하다, 움직이다’라는 의미의 표현입니다. 대고 있던 엉덩이(ass)를 떼라는(get off) 거죠. 그래서 게으르게 누워서 아무것도 하지 않은 사람에게 Get off your ass! 라고 말할 수 있습니다. 물론 비격식 표현이니까 상대를 봐가면서 사용해 주세요!
   * 게으름 그만 피우고 가서 일 좀 해야하지 않겠냐.   It's time you got off your butt and got to work.
 
+# 이득
+* : 무언가를 이용해 돈을 벌거나 이득을 취하다 * cash in (on + 무언가) (다른 사람의 명성, 연예인의 불행 등을 이용해 돈을 번다는 뜻으로 많이 쓰입니다)
+  * 지역 사업체들은 드라마의 인기에 편승해서 돈을 벌고 있다. ex) Local businesses cashed in on the show's popularity.
+
 # 이름
 * 이름 잘 못외워요              I'm terrible with names
   * 이름에 a: Is there a Michale here?  I think he looks like a Tom; Yes i know a Michael
@@ -6207,6 +6233,7 @@ retaliate
 * 말장난해본 겁니다; Pun intended
   * : have time for something이라고 하면 '~할 시간이 있다'는 뜻으로 사용하죠? (시간을 투자할 만큼) 무엇을 좋아한다는 의미로 사용하기도 하는데요, 여기서 do not have time for something은 '~할 시간 없어, ~하지 마!'라는 의미로 쓰였어요.
     * 그런 개소리 들어줄 시간 없어. (그 따위 개소리 집어 쳐.) [ex] I have no time for such bullshit.
+    * = 을 놀리다, 을 가지고 농담 따먹기 하다 take the piss out of somebody 비속어 표현이고요, make fun of 보다 농담 수위가 높고, 기분 나쁜 농담일 때 쓰는 표현이에요.
   * 살짝 끼얹어본 농담인데요; a little tongue-in-cheek; idea
   * # 농담을 하다; crac/make/tell a joke
     * a running joke = 그룹 내에서 계속해서 등장하는 농담  an inside joke = 특정 그룹 사람들만이 이해할 수 있는 농담
@@ -6903,6 +6930,9 @@ retaliate
 * 결과가 말해주잖아. 넌 충분히 열심히 한 게 아냐. The result speaks for itself. You didn't work hard enough. 자명한 사실 보여주다/증명하다
 * prove someone wrong : 가 틀렸음을 증명하다
   * 네가 틀렸다는 걸 증명해주지. 두고 보라고. I'll prove you wrong. Just wait and see.
+  * 1) 두 다리로 선다고 하여 ‘자립하다, 혼자 힘으로 일어서다’의 의미로 쓰였습니다. 사실 이 뜻으로 표현하려면 stand on one’s own legs 처럼 복수형 legs가 되어야 하는데요, 본 영상에서는 단수형으로 a leg to stand on이라고 하였습니다.  2) a leg to stand on는 원래 [not have a leg to stand on : 증거, 근거 부족으로 해명/주장 할 수 없다]로 쓰이는 말입니다. 어느 경우든 leg가 자신을 지탱하는 무언가를 의미합니다. 그것이 영상과 같이 돈을 벌어서 삶을 이어나갈 기반일 수도 있고, 이 표현처럼 증거, 근거일 수도 있는거죠. 
+    * 이제 자립할 때도 되지 않았니? Isn’t it time that you stood on your own legs?
+    * 계약서에 서명하지 않으셨으면, 법적으로 증명할 수 없습니다. If you didn’t sign a contract, you won’t have a leg to stand on.
 * 내 # 능력을 증명해 냈어; i earned my stripes
 * 이러한 사실을 좀 더 # 밝혀줄; shed more light on this
 * # 밝다; 하늘이 불꽃놀이로 환해졌다. ex) The sky was lit up by the firework.
@@ -6971,7 +7001,9 @@ retaliate
  * 내가 그걸 봤어. #정말이야!              I saw it—straight up! 
  * ^^#vow; 종교, 결혼; wedding vow #pledge; 공식적인 약속; goverment's pledge
  * #swear; 법정; I swear to tell the truth / the whole truth / nothing but the truth
- * #진심이야, #장담해, #맹세해 I mean it, i'm dead serious, I bet, I swear, make/take a vow | cross my heart
+ * #진심이야, # 장담해, #맹세해 I mean it, i'm dead serious, I bet, I swear, make/take a vow | cross my heart
+ * ~라고 누가 장담할 수 있겠니?, ~라는 걸 누가 알겠어? = Who's to say~?
+  * 그가 같은 실수를 하지 않을 거라는 걸 누가 알겠어? ex) Who's to say he won't make the same mistake?
  * I #sweat to #god, I bet my own life on that, #scout’s honor(보이 스카우트의 명예 건다)
  * #assurance, #promise, #guarantee - 확언, 장담 
  * 맹세하다; #cross one's heart = make/take/swear on oaths
@@ -7545,6 +7577,8 @@ retaliate
 
 # 통제
 * ☆#get out of hand; 통제가 안돼; everytime he drinks, he gets out of hand; out of my hand
+ * : 조종하거나 통제하다, 자기 마음대로 주무르다  wrap around one's little finger
+  * 그녀는 그 남자를 완전히 잡고 있다. She has him wrapped around her little finger.
  * short/tight leash 은 ‘속박하는 것, 엄격한 통제’를 비유합니다. 목줄(leash)이 짧으니 자유롭게 움직일 수 없으니까요. 
   * 캐런의 부모님은 그녀를 매우 엄격하게 통제하신다. Caren’s parents keep her on quite a short leash.
  * things got a little out of hand
@@ -8128,6 +8162,9 @@ retaliate
 
 # 해외
 * travel abroad; live aborad; go abroad
+* 1년 동안 해외에 있었다. ex) I've been abroad for a year. 
+  * I've been # out of the country: 해외에
+  * 나는 해외에서 일하는 게 힘들었다. ex) For me, it was hard working overseas.
 
 # 핵심
 * #meat and potatoes, marrow of ~
@@ -8308,6 +8345,7 @@ retaliate
 # 화장실
 * 거의 # 토할것 같다; gag; ㄱretch; heave; 토하다: vomit puke, throw up
   * barf 외에도 vomit, throw up, puke 도 토한다는 듯이에요. vomit은 가장 의학 용어적인 느낌, throw up은 가장 일상적으로 쓰이고, puke와 barf는 구어체에 가까워요.
+  * 1. 토 나올 것 같다, 구역질 난다 sick to one's stomach
   * 우리집 개가 방금 사방에 토했어. [ex] My dog just upchucked everywhere.
 * 상황에 따라 soap 이 비누 그 자체를 말할 수도 있고, 영상과 같이 ‘비눗기, 비눗물’을 지칭할 수도 있습니다. makeup 도 마찬가지인데요, 화장품, 화장하기, 화장기 등 다양하게 해석하는데, 영상에서는 ‘지저분한 화장기’를 nasty makeup 라고 표현하였습니다. 1) squeeze all the soap out = 비눗물을 모두 짜내다
   * 비눗물을 꼼꼼하게 헹궈주세요. Please rinse the soap thoroughly.

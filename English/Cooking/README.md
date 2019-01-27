@@ -127,6 +127,7 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 * 양념이 잘 밴게 정말 마음에 들어; I like the way they soak up your sauce
 * 조합이 아주 좋다; ~ is winning combination
 * 게걸스럽게 먹다; gobble up; He gobbled down his breakfast
+	* "I am a bulimic" 처럼 관사 a가 붙으면 명사로 쓰인 거고, "I'm bulimic"처럼 관사가 없으면 형용사로 쓰인 거예요. 뜻은 똑같이 "나 폭식증 있어"고요!  [bju:límik] 
 	* 잘 먹겠습니다! 원어민의 표현! LET'S DIG IN ! DIVE IN ! FEAST !
 	* 실컷먹다;g orge on; gorge oneself on; 탐욕스럽게 보일 정도로 목구멍으로 쳐넣기
 		* I could spend the entire day gorging myself on fried chicken

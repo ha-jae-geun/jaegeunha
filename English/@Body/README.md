@@ -122,7 +122,8 @@
 * 적색	red hair
 * 회색 머리	white hair나 silver hair, gray hair
 * 염색하다	dye daɪ
-* 부분 염색 	highlight, purple highlights
+	* 부분 염색 	highlight, purple highlights
+	* 빨리 뿌리 염색 해야겠는걸. I need to do my roots really bad. '뿌리 염색을 하다', 영어로 'do one's roots' 라고 표현할 수 있어요!
 * 탈색	bleach
 * 굉장히 곱슬거리는 머리	frízi Frizzy hair
 * 뻣뻣해서 다루기 힘든 머리	ʌn‘ru:li unruly hair.
