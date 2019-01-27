@@ -413,7 +413,8 @@
 * 뭐라고 감사해야 할지 모르겠네요. 						 I can't thank you enough.
 * 고맙지만 사양할게							 Thanks but no thanks
 * #감사장; #citation
-* #보답; I don’t know if I’ll be able to #reciprocate. 내가 보답할 수 있을지 모르겠어요. 
+* # 보답; I don’t know if I’ll be able to #reciprocate. 내가 보답할 수 있을지 모르겠어요. 
+* # 은혜; 앞에 I'm을 생략했어요. return the favor = 호의, 은혜를 갚다는 뜻!
 * #고맙 #감사 #appreciate #사양
 * my pleasue(제일 흔함), I'm always happy to help
 * Your'e most/so/very/more than #welcome
@@ -424,9 +425,9 @@
 * 도와드려서 기쁜걸요 T						 he pleasure was mine
 * #not at all, oh please it's nothing
 * thanks, that's really nice of you(칭찬 받고 칭찬해줌)
-* *no problem, you got it, no sweat, no worries, not at all, my pleasure, glad to be of help
+* no problem, you got it, no sweat, no worries, not at all, my pleasure, glad to be of help
   * #never mind: 됏어 느낌
-* *thank You; 오히려 제가 감사하죠
+* thank You; 오히려 제가 감사하죠
 * 계산할 때 thank you -> thanks
 * #천만 #별말씀을요
 * 만족시키다 satisfy, gratify, be content with/by (the result)

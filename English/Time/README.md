@@ -32,12 +32,14 @@
 * 해가 뜰 떄; WWHen the sun's coming up
 	* 해가 갑자기 사라진다면 어떻게 될까요? What would happen if our sun suddenly went out
 	* 햇빛이 많이 들어옵니다. we have a lot of ##light during the day
- * 햇빛이 쨍쩅 내리고 있어도 						 the sun is blasting
- * 해가 서쪽에서 뜬다면 								 When pigs fly 
- * 해가 중천에 떴어.							 The sun was high in the sky.
- * 태양아래 새로운 것은 없다. 				 There is nothing new under the sun. 
- * 내일은 내일의 해가 뜬다 						 Tomorrow is another day.
+	 * 햇빛이 쨍쩅 내리고 있어도 						 the sun is blasting
+	 * 해가 서쪽에서 뜬다면 								 When pigs fly 
+	 * 해가 중천에 떴어.							 The sun was high in the sky.
+	 * 태양아래 새로운 것은 없다. 				 There is nothing new under the sun. 
+	 * 내일은 내일의 해가 뜬다 						 Tomorrow is another day.
  * 빨리 가자 해 ᄄᅠᆯ어진다 Let’s go, we’re losing daylight
+* 쉽게 사람들이 하는 말로는 여기서처럼 The moon is getting full. (달이 차오른다.)라는 표현을 사용합니다. 좀 더 구체적으로 들어가자면, 달이 차고 기운다는 표현은 the moon waxes and wanes라고 말합니다. wax와 wane의 차고 기움을 빗대어 어떤 일의 흥망성쇠를 문학적으로 나타내기도 해요~ a waxing moon은 차가고 있는 달을, a waning moon은 기울어가는 달을 가리키죠.
+	* - waxing crescent: 초승달  - first quarter: 상현 (오른쪽 반달)  - waxing gibbous: 만월에 가까운 달 (볼록한 달)  - full moon: 보름달 (만월)  - waning gibbous: 만월에서 기우는 달 (볼록한 달)  - last quarter: 하현 (왼쪽 반달)  - waning crescent: 그믐달
 * 나무 그늘에서 쉬다 take a rest in the #shade of a tree 예문 발음듣기
  * 부모의 그늘에서 벗어나다 achieve[establish; gain] independence from one's parents 
  * 그녀의 얼굴에 그늘이 드리워졌다 A shadow fell across her face. 예문 발음듣기

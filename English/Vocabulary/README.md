@@ -213,6 +213,7 @@
 * 일탈하다; i've been acting out
 * = 를 행동으로 옮기다, ~대로 행동하다, ~를 따르다  1) act on +명사
   * 나는 내 변호사들이 조언해 준대로 따르고 있어. I’m acting on the advice of my lawyers.
+* get in on the act: (다른 사람들이 이미 하고 있는 어떤 행동에) '동참하다, 참여하다' 라는 뜻이에요. 주로 이미 인기 있거나 성공적인 무언가에 편승한다는 의미로 사용합니다; be getting in on the act
 
 ## awkward
 * 절친 A 와 그냥 그런 친구 B 와 함께 밥을 먹다가, 갑자기 절친 A 가 화장실 간다고 가버렸을 때! 그냥 그런 친구 B 와 할 말도 없고, 왠지 말을 꺼내자니 무슨 말을 해야할지도 모르겠고, 그냥 밥을 먹자니 좀 그래서 말 한마디 던졌는데 반응이 미적지근하고! 그래서 기분이 굉장히 불편하고 빨리 절친 A 가 돌아오기만을 기다리고! 그런걸 표현하는 단어가 바로 awkward silence 에요. awkward 자체에 [(불편하게) 어색한] 이라는 의미가 있거든요. awkward silence 는 대화 중에 불편하게 이어지는 침묵을 의미하는데요. 아무도 말을 안하니 조금 불안하고, 불편하고, 왠지 말을 해야 할 것 같은 압박은 있는데 무슨 말을 해야할지 모르는 상황을 의미하는 단어입니다.
@@ -313,6 +314,9 @@
 * 여기서 병을 터뜨린다 (pop bottles) 는 건 샴페인을 따는 것을 말해요. 파티에서 비싼 술을 보란듯 마셔대는 것이 연상되기도 하는 표현이에요.
     * 걔들 밤새도록 술마셨어. They were poppin bottles all night.
 * 감정을 드러내지 않고) 억누르다[묻어 두다] 감정을 꼭꼭 묻어 두지 않도록 해라. Try not to bottle up your emotions. 
+
+## bonker
+* 1. 제정신이 아니다 2. 굉장히 화나거나 속상하다 3. (에 대해) 극도로 흥분하다 과 같은 의미로 사용할 수 있어요^^ 다른 말로는 'go nuts, flip out'라고 표현할 수 있답니다.
 
 ## bone
 * 뼛속까지 추워. (정말 정말 추워.) [ex] I'm chilled to the bone.
@@ -824,6 +828,10 @@
 * 영국 경찰은 테러리스트를 잡기 위해 이탈리아 정보국과 협업하였다. (collaborate in –ing : 하는 것에 협업하다) The British police collaborated with the Italian Intelligence in catching the terrorists.
   * 그는 그의 동료들과 협업하여 그 책을 집필했다. (in collaboration with : 와 협업하여) He wrote the book in collaboration with his colleagues. 
   * 그 두 가수는 크리스마스 앨범을 함께 공동작업하였다. (collaborate on : 에 대해 협업하다) The two singers collaborated with each other on their Christmas album.
+
+## coast
+* coast는 명사로 '연안'이라는 뜻 외에도 '활강,' 즉, 비탈진 곳을 미끄러져 내려오는 것을 의미하기도 합니다~ 이와 연장선으로 동사에서는 미끄러지듯 '별 어려움 없이 성공하다, 잘 나간다'는 뜻을 갖습니다!
+  * 내 팀은 순탄하게 승리했다. My team coasted to victory.
 
 ## coarse
 * 1) 질감이 거칠 때 쓰는 표현입니다. 보통 동물이나 실, 정제가 조금 덜 된 곡물의 질감에 쓰이는 단어입니다. 또한 어떤 사람이나 그 사람의 발언이 무례하고 저속할 때도 이 단어를 사용합니다.
@@ -1410,6 +1418,10 @@
 * 이건 맘모스의 실물 크기 모형입니다. [ex] This is a # full-scale model of a mammoth. 1. 실물 크기의
   * 2. 총력을 기울인, 완전한, 철저한; 총력을 기울인 수사 2. 총력을 기울인, 완전한, 철저한
 
+## fun
+* : 여기서 funny 는 '웃긴' 이 아니라, '수상한, 의심스런'이라는 뜻! 그래서 '웃긴 일'이 아니라, '수상한 짓', '허튼 수작'을 말해요.
+  * 허튼 수작 부리지 마, 알겠어? [ex] No funny business, you hear?
+
 ## function
 * 1) 명사로 쓰이면 [기능] 이라는 뜻도 있는 단어인데요. 동사로 쓰일 땐 주로 기계나 시스템 등과 함께 쓰여서 [정상적으로 작동하다, 기능하다] 라는 의미를 가집니다. 2) 하지만 영상에서처럼 사람이 function 과 함께 쓰일 땐, 그 사람이 [정상적으로 지내다/생활하다] 라는 의미를 가진답니다. 3) 참고로 [사람 + function as + 직책] 으로도 자주 쓰이는데 [~가 ~한 역할/구실/직책을 다하다] 라는 의미를 가진답니다.
 	* 그 비극 후에도 그가 잘 지내는 건 놀라워. ex) It's amazing that he still functions after the tragedy.
@@ -1792,6 +1804,7 @@
 	* : 자 이제, 이것이 익숙해지면, Now, you get this down,
 
 ### get back
+* get back at 사람 = ~에게 앙갚음하다, get back to 사람: ~에게 나중에 연락하다
 * 'Get back' 의 첫 번째 의미는 '떠났다가 원래 있었던 장소(일터)로 돌아가다' 라는 의미입니다. 즉, 어떤 일로 인해서 어떤 장소를 떠나 있다가 다시 그 장소로 돌아가는 것을 말합니다. 예컨대, 'We have to get back to the classroom after the lunch break(우리는 점심시간이  끝나면 교실로 돌아가야 한다)' 처럼 사용할 수 있습니다.
 	* I have to get back to work. : 나 일하러 다시 가봐야 해.
 * : 다시 돌아가서 시합을 해야 해요.  I've got a race to get back to. 위의 문장을 직역하면 '나는 돌아가야할 시함을 가지고 있다' 가 되는데요, 'Get back' 이 'Race'를 수식하는 구조 입니다.
@@ -2195,6 +2208,9 @@
 * intense 는 사전적 의미로는 [강렬한, 치열한] 등의 의미가 있어요. 무언가의 강도, 정도가 굉장할 때 쓰이는 단어인데요. 비슷한 뉘앙스의 extreme 은 부정적인 뉘앙스인 반면, intense 는 주로 긍정적인 뉘앙스로 쓰입니다. 영상에서는 [장난이 아닌] 이라고 해석이 되어 있는데요. 정말로 멋진 경험을 표현할 때 [쩌는] [정말 인상적인] 등의 의미로 쓰이기도 해요.
 	* 그 공연 내내 한 경험은 정말 장난이 아니었어. (굉장히 강렬했다, 감동적이었다 등을 의미) ex) The whole experience throughout the show was really intense.
 
+## job
+* 'nut job'은 '미친 사람'이란 뜻이에요. 하지만 욕설의 느낌보단 '맛이 갔어' 정도의 뉘앙스의 구어체 표현이죠. 'sb is nuts'라든가 'sb is batty'라고 해도 돼요!
+
 ## jam
 * 1. (한 곳에 사람/사물을 잔뜩) 밀어넣다. 2. 가득 채우다. 3. (비격식) 즉흥 연주를 하다.
   * 난 지역 밴드와 한번 연주할 기회를 가졌어. ex) I had a chance to jam with a local band.
@@ -2379,7 +2395,7 @@
 
 ## level
 * 솔직히 말할게; i'll level with you
-
+* above one's level은 '~의 수준 이상인'이라는 뜻이고 반대로 below one's level은 '~의 수준 이하인'이라는 뜻이에요.
 
 ## least
 * to say the least = 좋게 말해서, 과장하지 않고 말해도
@@ -2465,6 +2481,8 @@
 ## mean
 * 1) mean 은 [의미하다] 이지만, [mean to 동사원형] 은 [~을 의도하다] 라고 해석이 됩니다. without 은 [~없이] 의 의미를 가지니 [의도한 것은 아니지만] 이라고 해석이 되었습니다.
   * 너한테 거짓말하려던 건 아니야. ex) I didn't mean to lie to you.
+* 2. (책임을 갖고) ~해야 한다
+  * 집을 더 어지르지 말고 치웠어야지. [ex] You were meant to clean the house, not spoil it.
 
 ## measure
 * 너 허리 치수가 어떻게 돼? What's your waist measurement? - take measurements: 의 치수를 재다
@@ -2477,6 +2495,12 @@
  * #mess with; don't mess with me; 까불지 마, 엉기지 마, (친분있는 경우) 놀리지 마
  * i'm just messing with you; 그냥 장난친거야
  * #get into mess; #엉망이 되다; how did I get into this mess
+
+### mess with
+* 오늘 나 건들지 마. 이미 안 좋은 날을 보내고 있어서 너한테 불똥 튈지 몰라. [ex] You don't want to mess with me today. I'm having a bad day already, and you could take the heat. 1. ~를 괴롭히다/놀리다/걱정시키다, ~에게 (분노할/폭력을 부를) 문젯거리를 주다
+* 그 사람이 한 말이 나를 혼란에 빠뜨렸어. [ex] What he said really messed with my head. 2. ~을 속이다/혼란스럽게 하다
+* 나 이제 약에서 손 뗐어. [ex] I'm not messing with drugs anymore. 3. (주로 위험한 것) ~에 연루되다
+* 자리배열 망가뜨리지 마! [ex] Don't mess with the seating arrangement! 4. (좋지 않은 쪽으로) ~을 바꾸다
 
 ## meet
 * meet (with) approval = 동의를 얻다, 용인되는 범위에 충족되다
@@ -2502,7 +2526,13 @@
 ## mention
 * 에 대하여 언급하다 = mention (o) / mention about (x)
 
-## mainnteance
+## magic
+* 'work one's magic'은 직역하면 '마술을 걸다'라는 뜻인데,  1. 뛰어난 능력을 발휘하다 2. 원하는/좋은 결과를 가져오다 두 가지 의미를 복합적으로 가지고 있어요. '원하는 결과를 얻을 수 있게 자신의 재능을 발휘하는' 상황에서 사용할 수 있는 표현이에요.
+  * 약이 제대로 약효를 발휘하려면 30분 정도 걸린다. It takes about 30 minutes for the pill to work its magic.
+* 친구들끼리나 선생님, 집안 어른이 상대에게 공손하게 please라고 붙여 말하라는 의미로 자주 들을 수 있는 표현이 바로 'what's the magic word (마법의 말이 뭐지)?'입니다. word 대신 여기서처럼 password (암호)라고도 말해도 좋고요~ 상대가 마법의 단어인 please라고 말해야 부탁한 일을 해주겠다는 뜻이에요. 선생님과 집안 어른들은 주로 아이에게 상대한테 어떤 부탁을 하려면 공손하게 말하는 법을 가르쳐주기 위해 이 말을 많이 하고요, 친구들 사이에서는 괜히 장난처럼 (나에게 비굴하게 부탁하거라! 하고) 이 표현을 쓸 때가 종종 있어요~ 그나저나 영어로는 please 하나만 붙이면 어느 정도 공손한 표현이 된다는 사실이 참 신기하기도 하죠?  답할 때는 장난스럽게 pretty, pretty please~ (정말 진짜 제발요)하고 말하기도 합니다. 슈렉의 장화신은 고양이 표정을 짓고 말하면 효과 백 배겠습니다!!^^
+                                
+
+## maintenance
 * 2) 친구가 “자신은 손이 많이 안 가는 타입이다”라는 말을 I’m low-maintenance 라고 하였네요. low-maintenance는 ‘손이 많이 안 가는 타입, 신경을 계속 써주지 않아도 되는 타입’을 의미합니다. 그 반대의 경우는 high-maintenance 겠죠. 예를 들어 high-maintenance girlfriend는 연락도 자주 해줘야 하고, 기분도 잘 맞춰줘야 하고, 돈도 많이 써야 하는, 까다로운 스타일의 여자친구를 말합니다. 3) maintenance의 발음에 유의해 주세요. 원래는 [메인터넌스]인데, 미국식 영어에서는 -te-를 약하게 해서 [메인-넌스]처럼 발음하기도 합니다.
   * 이 식물은 손이 많이 안가요. 그냥 한 달에 한 두번 물만 주세요. These plants are low-maintenance. Just water them once or twice a month.
 
@@ -2731,6 +2761,14 @@
 * ☆인정하다; #own up to; you don't want to own up to it
 * : (신조어) 자신감을 갖다, 자신이 가지고 있는 성질 등에 대해 있는 그대로 자랑스러워 하다 own it
   * 굉장히 다양한 어감을 가지고 있는 이 표현은 own it이라는 두 단어만으로도 캐치프레이즈처럼 자주 접할 수 있답니다. 자신이 가지고 있는 좋은 점도, 부족하게 느껴지는 점도 직시하고 기꺼이 받아들인다는 뉘앙스의 말이죠. 일종의 삶의 태도라고 볼 수 있습니다.
+
+## phobia
+* phobic은 ~을 무서워하는 (~에 공포증/ 혐오증이 있는) 것을 의미하고 그러한 병이나 증상을 phobia라고 부릅니다. 이 앞에 어떤 성질을 가져다 붙이면서 새로운 말을 만들 수 있는데, 
+  * homophobic: 동성애를 혐오하는 (homophobia: 동성애 혐오증) 
+  * xenophobic: 외국인을 혐오하는
+  * acrophobic: 높은 곳을 무서워하는
+  * agoraphobic: 넓은 장소에 혼자 있으면 두려움을 느끼는  [ˌæɡərəˈfəʊbɪk]  
+  * 동물을 무서워한다면 I'm animal/ zoo phobic 또는 I have animal/ zoo phobia라고 말할 수 있고 고양이가 무섭다면 ailurophobia   [ailùərəfóubiə,ei- (고양이 공포증)이라고 말하지 않더라도 간단하게 cat phobia라고 말할 수 있답니다^^
 
 ## phase
 * [단계] 라는 의미가 있는 phase 로부터 나온 표현이에요. phase-out 으로 쓰면 명사로 [단계적 폐지] 를 의미합니다. 마찬가지로 [단계적 도입]은 phase in 을 쓰면 되겠죠?
@@ -3017,6 +3055,7 @@
   * 불쌍하다는 주로 위치가 봐낌; Oh, poor me/you/him/baby
     * 두가지 의미가 있기에 헷갈리지 않도록 ;pitful pitibale[ˈpɪtiəbl], unfortunate를 쓰면 된다.
     * i'm poor at English 보다 bad at; not good at이 더 자주 쓰인다.
+* 1. "I grew up poor"는 어릴 때 가난했다, 가난한 집에서 자랐다는 뜻이고 반대로 부유한 가정에서 자랐다는 건 "I grew up rich"라고 해요. 2.dirt poor는 '찢어지게 가난한'이라는 관용 표현이에요. dirt는 '흙'이라는 뜻입니다. '엄청나게 부유한'은 filthy rich고, filthy는 '더러운'이른 뜻입니다.
 
 ## pour
 * 그의 변호사들이 그 계약서의 작은 글자들을 세세히 읽고 있다.; His lawyers are poring over the small print in the contract.  <> pour over
@@ -3283,6 +3322,10 @@
 * 1) root이 ‘뿌리’입니다. 그래서 be rooted in~ 은 ~에 원인이 있다 / ~에 뿌리박고 있다’가 됩니다. 반대로 root out 은 ‘뿌리뽑다, 근절시키다’를 의미합니다. 
   * 유교문화는 한국 사회에 깊게 뿌리박혀 있다. Confucianism is deeply rooted in Korean society.
 * 현재 체계의 뿌리가 깊게 박혀있기 떄문입니다; the roots of our current system run deep
+
+## rule
+* 이 문장의 rule은 명사 rule(규칙)이 아니고 비격식 표현 to rule입니다. 무언가 혹은 누가 rule한다는 것은 '가  최고다, 짱이다'라는 뜻입니다!
+  * 제퍼슨 고등학교가 짱이다! (high school을 high 로 줄여 말하기도 함. 단, 앞에 학교 이름이 나올 때에만  가능) Jefferson High rules!
 
 ## rub
 * 원래 rub 은 동사로 [문지르다], 명사로 [문지르기, 비비기] 라는 뜻이 있는데요. the rub 이 [문제] 라는 의미로 쓰인 것은 셰익스피어의 유명한 작품인 '햄릿' 에서 유래했다고 해요. 하지만 주의해야 하실 점은 the rub 만 혼자서 [문제] 라고 쓰이지는 않고, 영상에서처럼 Here's the rub. 또는 There's the rub. 이라고 써야만 되는 그런 표현입니다.
@@ -3555,6 +3598,7 @@
   * 느긋하게 앉아있다 #sit back; they didn't take the time to sit back
   * #sit behind; sit behind the desk; #손 떼다
   * Let it sit; 그대로 둬
+  * * 걔 토요일 경기에 못 나갔어. (경기엔 못 나가고 벤치에 앉아서 끝까지 지켜봤다는 뉘앙스) He had to sit out the game on Saturday. 1. ~에 안 끼고 빠지다 2. ~가 끝나길 기다리다 (그 일에 끼지 않고)
 
 ## single
 * 그녀가 지목되어 비판을 받았다. She was singled out for criticism.  (을 위해/~으로) ~을 선발[지목]하다
@@ -3794,6 +3838,7 @@
 ## statement
 * statement lip은 입술을 강조한 메이크업을 말해요. 입술을 제외한 부분을 최소한으로 정돈하고, 과감한 컬러의 립으로 스타일을 결정짓는 메이크업이죠. 'statement'는 '진술/성명서'로 잘 알려져있는데요, 이런 경우 자기 의견에 대한 '주장/표출'을 의미합니다. 즉 makeup 혹은 fashion에서 statement란 과감한 시도로 'make a statement', 확실한 자기 주장, 어필, 개성을 표현하는 거예요.
   * 입술을 강조할 때 가장 중요한 건 밸런스라고 생각해요. For me, wearing a statement lip is all about balance.
+* # understatement; 직 : 들떴다고 말하는 건 절제된 표현이지. [ex] To say I'm excited is an understatement!
 
 ## stand
 * 영상에서처럼 뒤에 전치사 for 를 써서 무엇을 대신하는 것인지 나타낼 수 있어요. stand in = [대신하다] 라는 동사로도 쓰인답니다.
@@ -3850,6 +3895,8 @@
 * 그들은 이웃 간의 정이 돈독하다 The neighbors share a close bond with one another . 듣기 출처:능률교육
 * 가장 좋은 부분을 갖다 take[win, keep] the lion's share 
 * 우리 생일 같애; we share the same birthday
+* : 직역하면 '내 몫은 다 얻었다' 로, '할 만큼 했다' 는 뜻의 관용구예요! have had one's share of
+  * 나도 실패는 할 만큼 해봤어. I've had my share of failures.
 
 ## shake
 * shake-up : 변화, 재편성, 개편
@@ -3994,7 +4041,9 @@
   * = 이 프로젝트의 목표는 거짓말을 벗겨내는 것이고 모든 사람들에게 그들의 진정한 정체성을 보여주는 거야. The goal of this project is to strip away the lies and show everyone their true identity.
   * = 우린 가식을 정말로 떨쳐 없애야 해. We really should strip away the pretence.
 * stripped down : 불필요한 것을 모두 뺀, 기본적인 것만 남긴 strip down 이 [벗겨내다] 라는 뜻이 있어요. 한겹 한겹. 벽지 같은 것을 말이죠. 형용사 형으로 stripped down 을 직역하면 [벗겨진] 이기 때문에, [불필요한 것은 다 벗겨지고 딱 필요한 것만 남은] 이라는 뉘앙스의 형용사로, 명사 앞에서만 쓰입니다.
-  * 우린 이번달에 불필요한 건 다 뺀 예산이 있어야 해. 돈이 충분치 않아. ex) We need to strip down our budget for this month. We don't have enough money.
+  * 우린 이번달에 불필요한 건 다 뺀 예산이 있어야 해. 돈이 충분치 않아. ex) We need to strip down our budget for this month. We don't have enough money
+* strip of는 (처벌의 의미로 권리, 재산, 명예 등) 을 빼앗다'는 뜻을 갖는데 수동형태로 바꾸면 을 빼앗기다, 즉 '박탈당하다'는 의미가 됩니다. . 동사 strip이 기본적으로 '옷을 벗기다, 어떤 장소에 있던 물건들을 다 뜯어내다'는 의미를 가지므로 빼앗다는 의미로 확장이
+  * 무하마드 알리는 헤비급챔피언 타이틀을 박탈당했다. Muhammad Ali was stripped of his heavyweight title.
 
 ## ship
 * The ship 대신 That ship 이라고도 많이 씁니다. 직역하면 [그 배는 이미 항해를 떠났다]인데요. 특정한 기회가 사라졌을 때 쓰는 표현입니다. 우리 말에선 보통 [이미 엎질러진 물이다, 이미 버스는 떠났다]라는 말과 같다고 보시면 되겠죠.
@@ -4139,6 +4188,7 @@
 ## thick
 * thick 은 [빽빽한/두꺼운] 의 의미를 가지는 단어에요. 뭔가 빽빽하게 가득차있는 것 안에 들어가 있는 뉘앙스의 표현입니다.  = in the thick of; ~이 한창일 때, ~의 중심에 있는
   * 제이슨은 논쟁의 중심에 있는 것을 즐긴다. ex) Jason enjoys being in the thick of controversies.
+  * 뚱뚱하다; Yoou're thick as heck
 * # 둔감; (비판/모욕 등에) 둔감한/무뎌진 편이에요. = have a thick skin. 피부가 두꺼우면 쿡쿡 찔러도 잘 느끼지 못할 것 같죠? 그래서 아무리 날선 비판과 모욕이 파고 들어도 잘 느끼지 못하는 것을 표현한 것이랍니다.
     * 상담원으로 3년 일하고 나니 둔감해졌어요. 까다로운 손님들을 매일 대하거든요. ex) I have a thick skin after working as a customer service rep for 3 years. I deal with touch customers every day.
     * 넌 뻔뻔해질 필요가 있어. ex) You need to develop a thick skin.
@@ -4164,6 +4214,8 @@
 ## treat
 * 원래 treat 은 [대접하다, 한턱내다] 라는 의미를 가집니다. 예를 들어, [난 그녀에게 점심을 대접했다] 라는 문장은 I treated her to lunch. 라는 식으로 쓰는데요. 여기에 her 대신 oneself 를 쓰면 자기 자신에게 대접한다는 말이 되니, 큰 맘먹고 스스로에게 선물하듯이 무언가를 살 때 쓰는 표현이 됩니다.
   * 큰맘 먹고 이 새 노트북 컴퓨터를 샀어. ex) I treated myself to this new laptop.
+* # 효과; 'work a treat'은 '효과적, 성공적으로 되다'라는 구어체 표현입니다.
+  * 이 드릴은 단단한 금속에 잘 든다. This drill works a treat on hard metals.
 
 ## trump
 * 카드게임에서 trump 를 ‘으뜸패’라고 하죠. trump 는 동사로도 쓰이는데요, 다른 어떤 것보다 항상 좋다, 우수하다는 의미입니다. 가장 좋은 것이 주어가 됩니다.
@@ -4362,6 +4414,7 @@
 * 내가 알아서 할 수 있어. 괜찮아.I can take care of myself, just fine. 다음으로 '(어떠한 일을)처리하다' 라는 뜻이 있습니다. 
 * Take care of' 다음에 '꽃 이나 나무' 또는 '정원' 같은 단어들이 오면, 이때는 '꽃 이나 나무, 정원 등을 가꾸다' 라는 뜻으로 사용됩니다.
 	* : 고무나무 손 봤어? Did you take care of the ficus yet?
+* 제가 등록금 내게 해주세요. [ex] Please let me take care of the tuition. ※'돈'을 직접 언급하지 않는 완곡어법으로 3. 을 지불하다
 
 ### take off
 * Take off' 의 세 번째 뜻은 '떠나다' 즉 'Leave'의 의미 입니다. '어떤 장소에서 떠나다, 이탈하다' 라는 뜻으로 'Take off' 가 정말 많이 쓰이는데요, 여러분도 'Leave'를 쓸 때, 'Take off'를 자주 써보세요.
@@ -4497,6 +4550,7 @@
 ## wrap
 * wrap는 '포장하다', '싸매다' 라는 뜻이에요. get wrapped up in sth을 직역하면 '무언가에 꽁꽁 싸매이다' 인데요, '다른 모든 것은 무시할 정도로 몰두해버리다' 라는 뜻입니다.
 	* 네 아이들에게만 너무 몰두하지는 마. 너와 네 아이들에게 안 좋아. ex) Don't get too wrapped up in your children. It's bad for you and your children.
+* 붕대 좀 돌려주시겠어요? Can i have my wrappings back?
 * = wrap one's brain/head/mind around 머리를 꽁꽁 싸매듯이 이해하려 하는 것을 의미해요. 조금 어렵고, 혼란스럽고, 생소한 것을 이해하려는 모습의 단어입니다.
 	* 방금 일어난 일을 이해할 수가 없어. ex) I just can't wrap my head around what's just happened.
 

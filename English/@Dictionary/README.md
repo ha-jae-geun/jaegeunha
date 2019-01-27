@@ -1214,6 +1214,8 @@
 
 # 기절
 * #pass out = #faint = #lose consciousness = #stun
+ * out for the count 또는 down out for the count는 count(카운트)를 세다에서 발전된 비유적인 표현이에요. 링위에 한 선수가 쓰러지면 10초 카운트를 세는데 10초를 넘어버렸으니(out) '완전히 쓰러지다'는 의미가 되겠네요. 주로 너무 피곤해서 녹초가 될경우, '(피곤해서) 쓰러졌다, 기절했다'는 뜻으로 많이 쓰입니다.
+  * 너무 피곤해서 그냥 골아떨어졌어. I was so tired and I was out for the count.
  * 이러다 기절하겠어. 넘 배고파.           I might pass out. I'm so hungry. 
  * I got blacked out, I passed out
  * 기절초풍; lose ones senses = #go nuts = #flip out = #freakout
@@ -1636,6 +1638,8 @@
 # 노력하다
 * ‘힘을 쓰다, 힘줘서 쎄게 하다, 노력을 기울이다’를 의미합니다. 고정표현이니 통으로 외워주세요. muscle 은 ‘근육’ 뿐만아니라 ‘힘, 근력’을 말하기도 합니다.  put some muscle into it = 힘 좀 쓰다
   * 어서! 힘 좀 써봐.  Come on! Put some muscle into it. 
+  * : 하기 위해 굉장히 애를 쓰다/고생하다/고생도 마다하지 않다 go to great lengths to + 동사
+    * 사람들은 SNS에서 행복해보이기 위해 굉장히 애를 쓴다. (또는 '별 짓을 다한다') People go to great lengths to look happy on social media.
   * 노력: #endeavor, #exert(#strain) oneself, work hard, try hard, mare efforts, #strive
   * make every effort/ endeavor, endeavor to do one's duty
 * 1) 보통 [열심히 일하다] 라는 의미로 go into overdrive 라는 표현을 많이 쓰곤 하는데요. 여기선 어떤 상황들 (things) 를 차 넣는 (kick) 것을 연상하시면 됩니다. 
@@ -2224,6 +2228,8 @@
  * 경찰이 그 홀에서 많은 과격한 시위자들을 쫓아냈다.
  * Police ejected a number of violent protesters from the hall.예문 발음듣기 
  * 쫒고 쫒기다; #play this cat and mouse
+  * 고양이 저리 쫓아내. [ex] Shoo the cat away.
+  * 훠이! 저리 가. [ex] Shoo! Go away.
  * # 뒤를 이어 # 따라가다 # 따라잡다 # 쫒아가다 | # 쫒아내다
 
 # 떠나다
@@ -2641,6 +2647,9 @@
 * through ignorance 는 ‘무지해서’이고, out of ignorance, because of ignorance, from ignorance 등으로 바꿔 표현할 수도 있습니다. 
   * 이게 다 우리가 무지해서 생긴 일이야. It all happened because of our ignorance. 
 * 전혀 모르게쓴데; Beats me = i have no ideas
+* squat: (미국, 슬랭) diddly-squat의 약어로서  부정문에서 사용되며 '아무 것도'라는 의미를  가집니다.
+  * 아무 의미도 아니다. It doesn't mean squat.
+  * 그는 춤에 대해 아무 것도 몰라. He doesn't know squat about dancing.
 * 나도 몰라; your guess is as good as mind
 * 절대로 ~ 일리가 없다. = (I'll be/I'm) damned if 편의를 위해 굳이 해석을 하자면 해설과 같이 해석이 되지만, 부정적인 발언을 강하게 말할 때 쓰는 구어체 패턴이에요. damn 가 [지옥에 떨어뜨리다] 라는 사전적 의미가 있기에, 영상의 말을 직역하면 [제가 못생겼다고 생각안했다면 지옥에 떨어지겠죠] = [제가 못생겼다고 생각했어요.] 라고 해석이 됩니다. 
   * 걔가 어딨는지 정말 몰라. ex) I'll be damned if knew where he is.
@@ -3835,6 +3844,7 @@ retaliate
 * rant는 감정적으로 격앙되어서 큰 소리로 소리지르거나 주저리 주저리 불평하는 것을 의미합니다. 몰래카메라에서 나온 남자는 아이들에게 흡연의 폐해에 대해 아이들에게 이러쿵 저러쿵 쉬지 않고 떠들고 있기 때문에 ‘설교’라고 해석한 것입니다.  한 단계 더 강조해서 rant and rave 라고 하기도 하는데요, 계속 큰 소리로 고함지르고 불평한다는 뜻입니다. 
 	* 그녀는 항상 정부가 불공평하다며 불평을 해댄다. She is always ranting about the unfairness about the government.
   * 불평 없이 무언가를 열심히 하는 사람: trooper
+  * 둘 다 불평으로 투덜거린다는 의미를 갖기는 하지만 다른 점이 있다면 moan에는 아픔과 고통 때문에 신음한다는 뜻도 있기 때문에 이것과 연관된 의미가 더해집니다. 한편 whine은 좀 더 앵앵 거리는 높은 소리로 듣는 사람을 괴롭힌다면 moan은 속에서 우러나오는 목소리에 가깝습니다~^^
 * First World problem = 배부른 불평, 불만; 부유한 선진국들을 First World 라고 하는데요. 딱히 의식주 걱정이 없는 상황에서 생기는 사소한 문제, 불평들을 지칭하게 된 속어입니다.
   * = 그게 배부른 소리라는 건 알지만 문제는 문제잖아. I know it's a First World problem, but it's still a problem.
 * feel unsettled = #불편한 감정이 들다.
@@ -4305,6 +4315,8 @@ retaliate
 
 # 소문
 * 오명; 이제 더 이상 이혼한 것에 대한 부정적 인식은 없다고 생각해. I think there is no longer any stigma to being divorced. (stigma to~ : ~에 대한 부정적 인식)
+  * 'tidings'는 'news(소식)'의 옛날식 표현이라고 생각하시면 돼요^^ 평소에는 별로 들을 일이 없는데 크리스마스 시즌에는 자주 사용된답니다.
+    * 당신과 당신의 가족에게 좋은 소식을 전합니다. 기쁜 성탄절과 행복한 새해를 기원드려요. [ex] "Good tidings we bring to you and your kin. We wish you a merry Christmas and a happy new year."
   * 우리는 에이즈에 감염된 사람들을 부정적으로 인식해선 안 된다. We shouldn’t stigmatize people with AIDS. (stigmatize: 낙인 찍다, 부정적으로 보다)
   * By all accounts; Rumor has it that; A story goes that
   * 그들이 소문을 내자 그 소문이 온 동네에 퍼졌다. As they started a rumor, the rumor have spread over their village. 
@@ -4457,6 +4469,7 @@ retaliate
 
 # 솔직
 * brutally honest 를 직역하면 [잔인하게 솔직한] 정도로 해석이 되는데요. 누군가 듣기에 잔인할 정도로 상대방의 감정을 배려하는 것 없이 솔직한, 즉 팩트 폭격을 날릴 때 쓰는 표현이에요. 기본적이며 가장 흔하게 쓰이는 관련 표현으로는 to be honest with you 또는 honestly = [솔직히 말하면] 이 있으니 함께 알아두세요.
+  * 솔직히; Not gonna lie, -
 * 솔직히 말해서 - 실은 - i think; Actually  swimming goggles: 물안경  
   * 마음 속 깊은 곳 아래, 즉 속마음은 ~하다, 마음 깊은 곳에서는 ~하다, 겉으로 보이는 것이 아닌 진짜 본심, 천성은 ~하다는 이야기를 할 때 사용해요. deep down : 마음 속으로는, 내심, 사실은
     * 그는 자신이 틀렸다는 것을 속으로는 알고 있었다. He knew deep down that he was in the wrong. 
@@ -4495,6 +4508,7 @@ retaliate
 
 # 수준
 * 네 수준으로는 나조차 못이길거야; YOu can't even defeat me in your current state
+  * above one's level은 '~의 수준 이상인'이라는 뜻이고 반대로 below one's level은 '~의 수준 이하인'이라는 뜻이에요.
 * 여기서 bar는 ‘수준’을 의미하기 때문에 high bar는 ‘높은 수준, 높은 경지’가 됩니다. 이성에 대한 기준이 너무 높거나, 직업을 고를 때 너무 눈높이가 높을 때도 쓸 수 있습니다. 반대로 low bar는 ‘낮은 수준, 낮은 눈높이’를 뜻합니다. 
 	* 대학 졸업 후 구직할 때, 너무 눈높이를 높게 잡지 마.  When you try to get a job after college, don’t set the bar too high.
 * -의 상태가 어느 지점까지 간다; it gets to the point where 
@@ -4755,6 +4769,9 @@ retaliate
   * 발목이 꺾이고 난 뒤에는 이번 주말에 축구하는 거 완전 신경 껐어. ex) I was totally turned off to playing soccer this weekend after my ankle got twisted.
 * #신경 쓰지 않다; #blow games out of proportion
 
+# 신분증
+* 신분증 있으세요? Do you have any identification?
+
 # 실수
 * bad > mistake >= fault
  * 요즘엔 다수의 행동에 깔려 있는 기본적인 오류가 있다. ex) There is a basic fallacy underlying the majority's actions these days.  [ˈfæləsi]  [명사] (많은 사람들이 옳다고 믿는) 틀린 생각
@@ -4898,6 +4915,7 @@ retaliate
 # 알다
 * : (OO에 대해) 좀 잘 알다 [ 숙어 ] know a thing or two (about OO) a thing or two는 정말로 한 ,두 개를 의미한다기보다는 '어느 정도', 강조의 '좀'을 뜻한다고 볼 수 있어요^^
 	* 제가 와인에 대해 좀 일가견이 있죠. I know a thing or two about wine. 
+  * 나도 뭐가 뭔지 알아; i know/see what's what
 * ☆##know 알고 있다 ##find out 알게되다 ##figure out 알아내다
 * ##notice 알아채다(시각적, 감각적) ##realize 깨닫다(추론) ##recognize 알아보다
 * be aware of 인지하다 be #familiar with 잘 알고 있다 #tell 판단하다
@@ -4923,6 +4941,7 @@ retaliate
   * ★ know what’s what (in) ~ 에 환하다(즉, 전문적 지식을 갖춘)  
   - He knows what’s what in fishing. 낚시에 관해서는 훤하다 (즉, 도가 텄다)
   * Know sth backwards and forwards. 어떤 주제에 대해 훤히 알다
+  * I know my way around this industry
   - Mary knows computers backwards and forwards. 메리가 컴퓨터에는 도가 트였다.
   * Know sth or sb inside out : 사물 또는 사람을 속속들이 알다
   - He knows the movie inside out and he can tell us what the next scene will be every 10 seconds.  
@@ -5533,6 +5552,8 @@ retaliate
     * 인도에서 우리 패스트푸드 체인점이 잘 될 거라 아무도 생각지 않았지만, 우리는 인기를 얻기 시작했습니다! No one thought our fast food chain would do well in a country like India, but we've started making ground!
 * strike 는 원래 무언가를 [치다] 라는 뜻이 있는데요. 금이나 자원을 캐기 위해 땅을 파 내려가다 보면 금이 있는 부분을 칠 수가 있듯이, 금, 석유, 자원 등을 [발견하다] 라는 의미로도 많이 쓰입니다. = strike gold                 
 * 내가 뭘하든 성공하겠단 걸 넌지시 비추더니까; She was majorly hinting that i could go places; go place: 성공하다
+* # 효과; 'work a treat'은 '효과적, 성공적으로 되다'라는 구어체 표현입니다.
+  * 이 드릴은 단단한 금속에 잘 든다. This drill works a treat on hard metals.
 
 # 유용하다
 * = 어떤 종류의 음식을 요리하더라도 그 도구는 꽤 쓸만해. The tool is pretty nifty when you cook any kind of food.
@@ -5627,6 +5648,7 @@ retaliate
 * # 의미; 무엇에 '너무 의미를 두지 마, 의미를 너무 많이 부여하지 마~'고 할 때 "Don't put too much meaning in/to OO"이라고 말해요~ 응용해 볼까요?
   * 사람의 말을 하는 분위기, 즉 어조 (tone) 밑에 깔려서 (under) 잘 알아차리기 힘든 [함의, 숨은 뜻] 을 undertone 이라고 합니다.
     * = 넌 그의 부드러운 말속에 경고의 뜻이 있었던 걸 알아차리지 못했니? You didn't notice that his soft words had an undertone of warning?
+* # 메시지; 어떤 메시지를 얻었나요? what did you take away from it?
 
 # 의성어
 * 귀여울 때, 불쌍, 동정, 고마울 때: Awwww
@@ -5720,6 +5742,8 @@ retaliate
 
 # 의식
 * consciousness  [ˈkɑːn-]  영국식 [ˈkɒnʃəsnəs]  는 ‘의식, 정신, 자각’입니다. 기절하다, 정신을 잃다라고 할 때, 그리고 어떤 사실에 관한 관심과 자각이 있다고 할 때 모두 쓸 수 있습니다. 영상에서 말하는 consciousness 는 특별히 ‘사회 문제에 대해 의식하는 것’을 지칭합니다.  consciousness 와 비슷하게 생긴 단어가 conscience  [ˈkɑːn-]  영국식 [ˈkɒnʃəns]  인데요, 이건 ‘양심’이니 헷갈리지 마시기 바랍니다. (conscious: 의식있는, 자각하는 / conscientious:  [ˌkɒnʃiˈenʃəs]  양심적인, 근면한)
+  * unconscious는 ‘의식이 없는’이란 뜻으로 be unconscious는 의식이 없는 상태가 되다, 쓰러지다 라는 의미가 됩니다. 그 외에 lose consciousness, collapse, pass out, faint 도 ‘쓰러지다, 기절하다’입니다.
+    * 길가에 누워있던 남자는 의식이 없어 보였다. The guy lying on the street seemed unconscious.
   * subconscious는 무의식, 잠재의식을 나타내는 데 정신/의식이 있는 상태지만 자신도 모르게 (자신의 의식이 깨닫지 못하게), 의도치 않게 무언가를 하고 있는 걸 가리키죠. 저 밑에 깔려 있는 (sub) 의식이라 생각하면 더 쉽죠? 한편 unconscious는 말 그대로 의식이 부재(un, 無)하는 상태를 말합니다. 그래서 의식이 부재하는 상태에 무언가를 한다는 의미에서는 subconscious와 거의 뜻이 비슷한 점도 있지만 또 다른 경우엔 정말 의식이 없다, 정신을 잃다는 의학적인 뜻도 있기 때문에 만약에 후자의 의미로 말하고 싶다면 subconscious를 사용하면 아니아니 아니돼요~!^^ unconscious만 사용할 수 있는 예를 들어보겠습니다.
     * 엄마는 정신을 잃었어. My mom is unconscious.
   * 인지하지 못한 사이에 [영향을 끼친다] 는 것이 포인트입니다. 단순히 무의식에(unconscious, unaware) 내재되어 있는 것이 아니라 특정 방향으로 행동, 사고하도록 만든다는 것입니다. 1) subliminal = 인지하지 못하는 사이에 영향을 미치는
@@ -5792,6 +5816,8 @@ retaliate
 
 # 이름
 * 이름 잘 못외워요              I'm terrible with names
+  * 이름에 a: Is there a Michale here?  I think he looks like a Tom; Yes i know a Michael
+    * 아니 그 마이클 말고 폴란드에서 온 마이클; the Michael from Poland
   * * take on your partner’s surname = 배우자의 성을 따르다 take on 은 다양한 뜻으로 쓰이기 때문에 문맥을 보고 이해해야 합니다. 여기서는 ‘취하다, 떠맡다, 받아들이다’를 뜻하는데, on 없이 take 만 써도 됩니다.  참고로 결혼하기 전의 성씨, 즉 자신이 원래 갖고 있던 성씨를 (한국의 경우에는 대부분 아버지의 성씨겠죠) 영어로 a maiden name 이라고 합니다.
     * 한국 여성들은 결혼할 때 배우자의 성을 따르지 않는다. Korean women don’t take (on) their partners’ surnames when they marry. 
   * * 이름을 지어주다; i haven't named my puppet
@@ -6599,6 +6625,7 @@ retaliate
 
 # 조치
 * 게이 탐지기가 반응하고 있어          My faggot dector is off the charts
+  * 반응이 미지근했어요; The response was lukewarm
   * 조치를 취하다: take actions/steps/#measures
   * #극단적인, #과감한 조치; #drastic action 
   * 과감하게 행동하다; #throw caution to the wind
@@ -6838,6 +6865,8 @@ retaliate
 
 # 중요
 * 중요한 것은; All that matter is
+  * : crux 는 '요점, 난제' 를 뜻하는 명사로, 어떤 문제나 상황의 가장 중요한, 핵심적인 지점을 말해요!
+    * 문제의 핵심이 바로 그거야. That's the crux of the matter. 
 * 우리말에서도 무언가 중요한 것에 [비중을 두다] 라는 말을 쓰듯이, 영어에서도 똑같이 [무게] 를 의미하는 weight 를 씁니다. due 는 형용사로 명사 앞에서만 쓰일 경우엔 [적절한] 이라는 의미를 가져요. 영상에서는 조금 더 자연스러운 의미 전달을 위해 [적절하게 살펴보지 못했다] 라고 해석이 되었습니다.
   * 그녀는 엄마의 의견을 더욱더 중요시하는 경향이 있다. ex) She tends to give greater weight to her mom's opinions.
 
@@ -7021,6 +7050,7 @@ retaliate
 # 진행
 * 강가에서 사금을 채취할 때 모래 등을 걸러내는 도구를 pan 이라고 하는데요. 자신이 원하는대로 pan 을 이용하여 사금채취를 전개/진행 한다는 점에서 유래된 비격식 표현입니다. 
   * 깜짝 파티를 위한 우리 계획이 잘 진행되었으면 좋겠다. ex) I hope our plan for the surprise party pans out well.
+  * 몇 년 동안의 이의 제기가 있고서 마침내 어느 [ex] After years of protest, we're finally getting somewhere. : 보통 진행형으로 사용하며, 일의 진척이 있다는 의미로 쓰입니다.
 * 생소하실 수도 있지만, 일상에서 정말 많이 쓰이는 표현입니다. 특히나 회사 같은 조직에서 정말 많이 쓰이는데요. 좋은 기세를 쭉 몰아나가고 싶을 때, 지금까지 해오던 일, 능력 등의 탄력을 잃고 싶지 않을 때 쓰는 표현이에요. 많이 쓰이는 표현 중 하나는 [기세를 몰다] 라는 의미의 keep the momentum (going) 있습니다. 물리학에서의 움직이는 물체의 [운동량] 을 의미하기도 합니다.
   * 이 캠페인은 정말로 탄력이 붙는 중입니다. ex) This campaign is really gaining momentum. 
  * 처음부터 나는 이게 미친 밤이 될거라고 짐작할 수 있었다.    Right off the bat, I could tell this was ~
@@ -7122,6 +7152,7 @@ retaliate
    * 너는 이 이벤트에 #참여하기 앞서서 도착해야 해.
    * You should arrive here ahead of time to take part in the event.
    * 아마도 조브리스트는 기자 회견에 참가할 것이다. perhaps Zobrist will be on hand for a news conference
+  * get in on the act: (다른 사람들이 이미 하고 있는 어떤 행동에) '동참하다, 참여하다' 라는 뜻이에요. 주로 이미 인기 있거나 성공적인 무언가에 편승한다는 의미로 사용합니다; be getting in on the act
 
 # 참견
 * buttinsky (←buttinski) 미국·영국 [bʌtínski]  busybody 미국식 [-bɑːdi]  영국식 [ˈbɪzibɒdi]  meddler 미국식 [ˈmedlə(r)]
@@ -7402,6 +7433,7 @@ retaliate
  * #대박 #거물
  * # 죽인다 # 끝내준다 # 쩔어 # 간지 # 쩐다 # 쩔다 # 짱 # 굉장 # 훌륭 # 대단 # 멋진 # 멋지다 # 최고 # 그 누구 # 최상급
  * 볼장 다 봤어; the #jig is up
+ * # 무엇보다도; before anything else
 
 # 최신
 * cutting edge 는 칼날 부분을 의미하는 단어에요. 무언가를 자를 때 칼날이 자르는 면과 닿는 '선두' 이기 때문에, 남들보다 앞서 나가는 뉘앙스의 [최첨단의] 이라는 의미로도 쓰입니다. 영상에서는 형용사로 쓰였고, 명사로 쓰이기도 하는데요. at the cutting edge of 이라는 패턴으로 [~의 최첨단에 있는, 최일선에 있는] 의 의미를 가집니다.
@@ -7773,6 +7805,7 @@ retaliate
 
 # 포장
 * Here or to go = Take away or to stay?
+ * 포장해주시겠어요? Could i have this gift wrapped
  * 포장은 이렇게 생겼습니다.            Packaging looks like this
  * 포장해주세요 Can I take this to-go = Wrap it up
  * #선물포장해주세요; #please #gift-wrap it; would you like it gift-wraped
@@ -7797,7 +7830,8 @@ retaliate
 
 # 피하다
 * ☆피하다 모면하다: get away with | (물리적 장소, 논란이 될만한 언급을) steer clear of, avoid=shun
-* dodge = shrink from; never one to shrink from an honest challenge, #stave off
+  * 그가 이제는 우리의 합의를 회피하려 하고 있다. He’s now trying to weasel out of our agreement.   [ˈwiːzl]: 족제비
+  * dodge = shrink from; never one to shrink from an honest challenge, #stave off
   * ☆피하다 모면하다: get away with | (물리적 장소, 논란이 될만한 언급을) steer clear of, avoid=shun
  * dodge = shrink from; never one to shrink from an honest challenge, #stave off 
  * 잘 피한다; he's good at #dodging
@@ -7947,6 +7981,7 @@ retaliate
  * 그녀는 대화에 끼어들고 싶지가 않았다.       She didn't want to engage in conversation
  * 끼었다                   It's stuck in my teeth
  * 문에 끼어서 못나갈까봐 걱정이네         i'm not sure i'll #fit through the door
+ * 걔 토요일 경기에 못 나갔어. (경기엔 못 나가고 벤치에 앉아서 끝까지 지켜봤다는 뉘앙스) He had to sit out the game on Saturday.
  * # 빠진다 # 빠질래 # 껴줘 ## 끼다 # 꼽사리 # 낄래 # 빼다 # 빼줘 # 빠지다 # 하다 # 안하다
 * # 빼다; 내 시간을 너무 많이 뺏겨            This is taking too much of time.
  * 너 시간 많이 안뺏을게       I'm not gonna take up much of time.
@@ -8266,12 +8301,14 @@ retaliate
  * 그 회사는 이번 신기술을 독자적으로 개발했다
  * The company developed this new technology independently[on its own].
  * 혼자 힘으로; #single-handedly; he single-handedly took care of the problem
+ * solo: 나 혼자서; 나 파티 혼자서 갈 거에요; i'm going to the party solo
  * # 셀프 # 혼자서 # 알아서
  * 제가 스스로 찾았어요; i found it all on my own
 
 # 화장실
 * 거의 # 토할것 같다; gag; ㄱretch; heave; 토하다: vomit puke, throw up
   * barf 외에도 vomit, throw up, puke 도 토한다는 듯이에요. vomit은 가장 의학 용어적인 느낌, throw up은 가장 일상적으로 쓰이고, puke와 barf는 구어체에 가까워요.
+  * 우리집 개가 방금 사방에 토했어. [ex] My dog just upchucked everywhere.
 * 상황에 따라 soap 이 비누 그 자체를 말할 수도 있고, 영상과 같이 ‘비눗기, 비눗물’을 지칭할 수도 있습니다. makeup 도 마찬가지인데요, 화장품, 화장하기, 화장기 등 다양하게 해석하는데, 영상에서는 ‘지저분한 화장기’를 nasty makeup 라고 표현하였습니다. 1) squeeze all the soap out = 비눗물을 모두 짜내다
   * 비눗물을 꼼꼼하게 헹궈주세요. Please rinse the soap thoroughly.
   * lather는 (명)비누거품, (동)비누거품을 내다 라는 뜻입니다. bubble은 일반적은 모든 거품을 통칭하고 lather는 비누가 물에 닿았을 때 나는 거품만 특정합니다. 그리고 명사 lather는 셀수 없는 명사처럼 느껴지지만 습관적으로 a를 붙이기도 합니다. 

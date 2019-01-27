@@ -83,6 +83,7 @@
 # 개
 * 동물을 # 중성화 하는 것을 'neuter'라고 해요. neuter는 '중성의'라는 의미를 가지기도 합니다. 본래 암컷, 수컷 모두에게 사용할 수 있는 표현인데요, 주로 수컷에게 사용해요. 암컷 동물의 난소를 적출해 중성화시키는 것은 'spay'라 한답니다.
 	* 우리 개 어제 중성화수술 받았어. My dog got neutered yesterday.  [ˈnuːtə(r)] 
+* 애완동물, 특히 개한테 자주 쓰는 표현이에요. 'down'은 '진정해', '가만히 있어'라는 뜻이고 강아지가 수컷이면 boy, 암컷이면 girl이라고 애정을 담아 부른답니다.
 * 새벽판 신문; Bulldog edition
 * 엉망진창; be a dog's breakfast / dog's dinner
 * 겁이많고 비굴하면서 쓰레기같은/보수 성격의; Yellow dog / Blue dog

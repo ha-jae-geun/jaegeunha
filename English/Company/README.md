@@ -343,6 +343,7 @@ run a store, manage a team, operate a factory
 * 회사 동료: #coworker = #colleague = associate = Business partner = friend = acquaintance 
 #assosiates
 적, 라이벌, 동맹, 파트너, 동료 				 enemy, rival, ally, patner, colleague
+	* 동료애가 있따; there is camaraderie 미국식 [ˌkɑːməˈrɑːdəri] amongst entrepreneur  [ˌɑːn-]  영국식 [ˌɒntrəprəˈnɜː(r)] 
 * back‐up 후원자, 대체인
 * 졸업 무도회에 갈 파트너가 없다 					I don't have a date for the prom
 * 상대; #opponent(보드게임 같은), the other person = person you talking to

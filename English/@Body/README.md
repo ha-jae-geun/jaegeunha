@@ -324,6 +324,8 @@ how dare you say such a thing #to my face
   * 목에 뭔가 걸린 느낌이야; "I feel a lump in my throat."
   * 목이 칼칼해; "My throat feels scratchy."
   * '몇 시간 동안 쉬지 않고 말했더니 목소리가 거칠게 들렸어. "My voice sounded raspy after speaking for hours nonstop.
+  * 그는 우렁찬 목소리로 노래 부른다. He sings in a loud voice. '~한 목소리로 말하다'라고 말할 때 전치사 in을 써요.
+  	* 인후염이 있어서 쉰 목소리로 말했다. Since I had a sore throat, I spoke in a husky voice. 
   * 그녀는 감기 때문에 목소리가 낮게 나오더라구. "She sounded muffled because of her cold."
 
 

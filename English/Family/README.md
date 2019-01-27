@@ -292,7 +292,8 @@
 * 제부(남자 형제 모두): brother in law
 * 사위 son in law
 * 여#조카 남조카 niece, nephew < nephew
-* #사촌 #cousin
+* #사촌 #cousin; cuz(2. 친구나 아는 사람; brother 같은 느낌)
+	*  - (first) cousin: 나와 상대가 공통의 조부모를 가지고 있음을 말합니다. 말 그대로 '사촌'이죠. - second cousin: 나와 공통의 증조부모 가진  사람 (= 육촌) - third cousin: 나와 공통의 고조부를 가진 사람 - sixth cousin: 나와 공통의 잉조부를 가진 사람
 * 며느리: daughter in law
 * 손자 손녀 granddaugher grandson
 * 이모: aunt

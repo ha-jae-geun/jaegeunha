@@ -4,6 +4,7 @@
 * 친구 만나; 1. 친구한테 친구 말할 때 i will meet up a friend / some friends(my xx) 2. 친구 소개; This is my friend Oliver
 * 우리 흩어져서 가야할것 같아; I think we should split up
 * 친구 Old/good sport, homies
+	* #사촌 #cousin; cuz(2. 친구나 아는 사람; brother 같은 느낌)
 	* homie는 '친구'를 뜻하는 슬랭으로, 주로 흑인들, 힙합문화권에서 동네 친구, 가까운 친구를 말할 때 사용해요. homeboy, homegirl, homey라고도 쓰이며, 복수형은 homies입니다.
 	* 진정한 친구; fast/loyal/true friends; 
 	* 2) '친구는 또 다른 나의 모습' 이라는 말 한번쯤 들어보셨나요? alter ego 는 '절친' 을 의미하기도 합니다.

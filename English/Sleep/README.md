@@ -132,6 +132,7 @@ waking dream: 환상같은
 * 원동력, 추진력; a driver behind; 동사 drive 의 뜻에는 [운전하다] 외에도 무언가를 특정한 방향으로 [몰고 가다, 추진하다, 이끌다] 등의 의미가 있어요. 그래서 driver 는 무언가가 발생하게 하는 강력한 요인을 의미하고요. 비슷한 단어로는 driving factor, driving force 라고 쓰기도 합니다. 
 	* ex) 제 생각에, 저희 성공의 가장 큰 원동력은 많은 디테일을 가진 신중한 계획이라고 할 수 있습니다.; The biggest driver behind our success, I would say, is a careful planning with a lot of details.
 * 꿈을 꾸다 chase rainbows, quit chasing rainbows(허항된 꿈을 꾸지 마)
+	* dreamt는 다른 영어권보다는 영국에서 더 쓰이긴 하고요, 말 그대로 잠을 자며 꿈을 꿀 때는 dreamed를, 좀 더 문학적인 표현을 할 때는 dreamt를 사용하는 경향이 있다고는 해도 정답이 있는 것은 아녜요~^^
 	* * have hallucinations: 헛것을 보다, 환상을 보다
 	* 꿈도 꾸지마; #perish the thought
 	* 꿈이 무너지고 있어; The dream's collapsing
