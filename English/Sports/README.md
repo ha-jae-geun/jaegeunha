@@ -375,6 +375,8 @@
 * 어느 팀이 이길 것 같아요? 	Which team do you think will win? 
 * 우리 내기할래요? 	Do you want to make a bet? 
 * 이 팀이 작년에 우승했죠. 	This team won last year. 
+	* pennant는 '우승기'로, 본래 길다란 삼각형 모양의 깃발을 의미해요. 특히 야구 경기에서 우승팀에게 주는 우승깃발을 의미해서, 'win the pennant'는 우승기를 따내다, 즉 '우승하다'라는 뜻이에요.
+		* 시카고 컵스가 리그 우승을 한지 오래되었다. It's been a long time since the Chicago Cubs won the pennant.
 	* 트로피를 들어올르다; i can't wait the day we hoist the championship trophy over our heads
 	* 1) the favorite 은 ‘우승후보’를 말하는데요, ‘강력한 우승후보’는 heavy favorite 혹은 hot favorite 라고 하시면 됩니다. 2) 1-0는 영상처럼 “one zero”라고 하거나, “one to zero”라고 읽을 수 있습니다. 반대로 1-0으로 진것은 lose the game 1-0 입니다. 
 * 어림도 없네, 이 사람아. 난 차가 필요해! bNo dice , dude . Need my car ! 예문 발음듣기 출처:능률교육

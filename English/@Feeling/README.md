@@ -5,6 +5,8 @@
 		* headspace: 원래 이 표현은 어떤 병에 음료나 내용물이 없는 빈, 공기만 있는 공간을 의미했는데요, 근래 들어 사람의 정신 상태, 기분 또는 정신적 압박이 없는 자유로운 상태를 의미하는 표현으로도 자주 사용되기 시작했습니다.
 			* 기분이 좀 이상해. I'm in a strange headspace.
 * 감정 기복; 큰 감정 기복을 겪다; = be/ride on an emotional roller coaster; ex) She's been on an emotional roller coaster since she arrived.
+	* 동사 repress 와 suppress 뒤에 –ant 를 붙여 ‘를 해주는 물질, 물건’으로 표현한 것입니다. 예를 들어 ‘항우울제’도 antidepressant 라고 하는 것과 같습니다. 심리학적으로는 suppress 는 의도적으로 감정을 꾹꾹 누르는 것이고, repress 는 무의식적으로 마음속 깊이 묻어두는 것을 가리키는데요, 일반 회화에서는 구별없이 repress/suppress feelings, emotions(감정을 억누르다)로 혼용해서 쓰기도 합니다. 
+		* 그 아이는 자신의 감정을 억누르고 그 일에 대해 아무말도 하지 않았다. The girl repressed her feelings and didn’t say anything about that.
 	* 감정 조절하다; There are some people who are sensitive and easily upset. They have to be careful in terms of adjusting and controlling their moods and feelings
 	* * 감전 기복; i'm tired of my mood swings
 	* 기분을 상하게하다; bring someone down
@@ -1088,6 +1090,9 @@
 
 # 스트레스
 * 누군가는 스트레스를 좀 풀 필요가 있었어 Someone needed to let off some steam!
+	* 그녀는 몸무게에 아주 # 예민해. 하루에 몸무게를 5번이나 재. She is neurotic about her weight. She weighs herself five times a day.
+	* 그리고 영상에서 ‘스트레스를 먹다(eat the stress)’라고 했는데요, 문맥상 ‘스트레스 때문에 먹다’라고 이해할 수 있습니다. 보통은 I eat a lot when I’m stressed. 라고 풀어서 설명해도 됩니다. 참고로 스트레스 때문에 먹는 것을 emotional eating, stress eating, stress eater 라고 표현합니다. 
+		* 나는 스트레스 받으면 엄청 먹어. 스트레스 받는다고 막 먹으면 안되는데. I’m such a stress eater. I don’t know how to stop stress eating.
 	* 2) distress는 ‘정신적 고통, 괴로움’으로 stress(스트레스, 압박) 보다 훨씬 더 강하고 고통스러운 것을 말합니다. 
 		* 그녀는 친구의 사망 소식을 듣고 매우 고통스러워 했다. She was deeply distressed by the news of the death of her friend.
 	* 1. be stressed.

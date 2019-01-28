@@ -192,6 +192,8 @@
 * #내복	#long-johns
 * #속옷	panty: 여자 속옷 | wearing underwear(공용) } 
   * 속옷이 엉덩이에 끼는것; wedgie; get a wedgie; give someone a wedgie [ˈwedʒi]
+  * commando : 속옷 을 안 입은, 노팬티; 민망하지만 알아두셔야 하는 단어가 있어요! free-balling 이 [속옷을 안 입다] 라고 해석이 되었는데요, ball 또한 속어로 남성의 '고환' 을 의미합니다. 따라서 free-balling 속옷을 입지 않은 남성의 아래쪽 모습을 형상화한 표현인데요. 남성과 대화할 때 가끔 ball 이라는 단어가 의도치 않게 해석이 될 수가 있으니 참고하세요!
+    * 하루종일 노팬티로 다닐거야? 사각팬티 한 장 사던지 어쩌든지 해. ex) Are you going to go commando all day long? Get yourself a cheap pair of boxers or something. 
 * briefs(하얀 삼각 팬티), boxers(사각)
 * #보조 후크	#브라끈 #bra strap
 * 브라는 위로 잘ㅈ ㅏㅂ아주면서도 부해보이지 않는다; this bra can keeps you buoyant without adding bulk  [ˈbuːjənt]

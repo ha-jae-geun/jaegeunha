@@ -521,6 +521,9 @@
 * 내 인생에서 떠나버리다; to walk out my life
 	* walk out of/on something; 하기로 한 일을 그만두다, 떠나버리다;; He walked out on his job
 * 네 앞날이 창창하다는 거야; You got your whole life ahead of you
+	* 동사 live를 써서 live (one's) life to the fullest(최선을 다해 살다, 충만하게 살다)라고 표현하기도 합니다.
+		* 나는 매우 충실한 삶을 살고 싶다. I want to live a very full life. 
+		* 당신은 최선을 다해 살고 있습니까? Are you living your life to the fullest?
 	* 사치스러운 생활을 하다 live a(n) luxurious[extravagant] life <> poor life
 	* 내 인생에서 최고의 일이야; A is the best thing that ever happened to me. 
 	* * 그들은 매우 사치스러운 집에서 호강한다. They eat high off the hog in a very luxurious house. 

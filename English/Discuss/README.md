@@ -9,6 +9,8 @@
 * 반박의 여지가 없는 사실들 undisputed facts   [ˌʌndɪˈspjuːtɪd] 
 * 예를 들어 토론이나 대화 중에, 대부분의 사람들이 동의하는 사항에 일부러 반대입장을 취하는 사람을 devil’s advocate이라고 하는데요, 그 주제에 대해서 더 열띤 논의가 이루어질 수 있도록 하기 위함이어서 ‘선의의 비판자’라고 표현하기도 합니다. 
   * 제니는 반대되는 의견을 내놓으면서 논의가 이어질 수 있도록 선의의 비판자 노릇을 하였다. Jenny played devil’s advocate in order to get the discussion going.
+* 이 표현은 어떤 일을 자연스럽게 잘 이끌어 나간다는 뜻으로, 지금 이 두 사람의 대화에서 그 일이란 ‘토크쇼의 분위기를 이끄는 것’을 의미합니다. 그리고 「keep several balls in the air」처럼 “여러가지 일(=several balls)을 한 번에 하다”라는 표현도 있으니 함께 알아두세요! : (토론, 분위기 등) 이끌어 나가다 [keep the ball in the air]
+  * 그 정치인은 토론을 잘 이끌어가는 탁월한 능력을 갖고 있다. The politician is very skilled at keeping the ball in the air. 
 
 # 구조
 1.  참고: 뉴스, 책, 논문

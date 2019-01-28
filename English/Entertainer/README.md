@@ -235,6 +235,7 @@
 * #유명인사
 * #Gloria #steinem; #여권 운동가
 * #연예인 What is your favorite #celebrity
+	* 연예계로 뛰어들다; get into show business: 연예계    
 * #heartthrobs; 영화계를 장학할 준비가 되었다 heartthrobs ready to #dominate screen; #동경 ; #연예인
 * #entertainer; 여러 분야, #comedian
 * #스타를 낳다; #launched a new star
@@ -290,6 +291,7 @@
 * #말풍선; #speech bubble / balloon
 * #대본을 따르다 follow a script
 * #대사 #lines; (대화) #dialogue; (긴) #speech
+	* 다음주까지 대사를 다 외워야 해. You have to learn all your lines by next week.
 * #채널좀 바꿔줘 Can you switch over to Channel 10? 
   * #change #flip the channel
 * #출연 #star in; gonna star in

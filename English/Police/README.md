@@ -56,10 +56,11 @@
   * 사기꾼: fraud; fraud, con, dupe, scam; He was jailed for three years for fraud and tax evasion
 * 작용하는 규칙들; rules at play; there are some rules at play affecting this
   * #규범 #norms; #room; the last room
- * 규칙 #따르다; #obey all park rules
- * #순응하다; #conform to = #comply with
- * 규칙을 정하다 #establish a rule
- * 규칙을 적용하다; #invoke
+   * 규칙 #따르다; #obey all park rules
+   * 법, 규칙, 약속 등에 'stick to'한다고 하면, 그것들을 '지키고 고수한다'라는 의미이죠?
+   * #순응하다; #conform to = #comply with
+   * 규칙을 정하다 #establish a rule
+   * 규칙을 적용하다; #invoke
  * #적용하지 않다;#ㅈ먚ㄷ
  * 엄격한 규칙을 부과하다 #impose strict rules
  * Mr.Lee는 항상 규칙대로 일을 한다.        Mr.Lee always goes by the book.

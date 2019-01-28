@@ -107,6 +107,8 @@
 * #가발	wig, 부분 가발: toupee[tuːpéi] = hairpiece
 * #부분 가발	#hairpiece
 * 붙임 머리	hair weave
+	* 동사 [extend = 길게 만들다/연장하다] 의 명사형이 extension 입니다. 참고로 길게 뻗은 멀티 어댑터 또는 길게 뻗은 LAN 선을 extension cord 라고 합니다.
+		* 너 붙임머리 어디서 했니? ex) Where did you get your hair extensions done?
 * 영국 의원 머리	periwig périwìg
 * 모발 이식	hair transplant surgery
 	* 하지만 ‘모발 이식’의 보편적인 명칭은 hair transplant / hair implant 입니다. hair plug 는 엄밀히 말하면 hair transplant 의 한 종류인데요, 비전문가인 보통 사람들은 혼용해서 씁니다. 
@@ -601,6 +603,7 @@ His sudden smile made her go #weak at the knees. ; 2. 약한
 * #사타구니	#groin
 * ##엉덩이	hip(허리꼐 허리 옆 골반), butt, booty, 'bʌtək buttock
 	* 골반이라고 하면 엉덩이부터 떠오르는데요. 엉덩이부터 척추와 양쪽 다리를 이어주는 큰 골격을 골반, 영어로는 pelvis 라고 합니다. 그 주변 부위를 pelvic region 이라고 하는데요. 영상에서처럼 배꼽에서 한 뼘 정도 내려간 부위를 의미해요.
+	* cheek은 얼굴에 있는 볼, 뺨을 의미하기도 하지만 엉덩이 살 있는 부위를 뜻하기도 해요. 비격식 표현이지요. '볼(cheek)'과 헷갈리지 안헤 butt cheek라고 명확히 말해도 돼요. 여기서 crack 또는 butt crack을 엉덩이 골이라고 하는데요, 반면 우리가 파인 옷 밖으로 드러나는 (여성의) 가슴골은 뭐라고 할까요? 이는 cleavage(클리비지)라고 한답니다~ 같은 몸의 골이라도 표현하는 단어는 다르죠?
 	* 짱구 엉덩이 내미는 것; Why did you moon them?; Mooning can be very offensive
 	* junk in the trunk = 엉덩이에 살이 두둑히 찐; I like a curvy woman, one with a little junk in the trunk.
 * #bum, #fanny(2. 여자 거기), #bum

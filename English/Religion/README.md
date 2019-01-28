@@ -15,6 +15,8 @@
 	* 말 조심해! 날려버린다. ex) Watch your mouth! I will blow you to kingdom come.
 	* bound 가 어디로 향하는 '~행' 이라는 뜻이 있어요. 예를 들어, '부산행 기차' 는 Busan bound train 이 되겠죠. 따라서 hell bound 는 [지옥행,지옥에 떨어질, 저주받은] 의 의미를 가집니다.
 		* 야, 돈이 모자라는 건 알지만, 지옥행 열차는 타지마. (=그렇게 안 좋은 일은 하지 마.) ex) Man, I know you lack of money, but don't take that hell-bound train.
+* 은총; #saving grace 는 기본적으로 '구원의 은혜, 은총'이라는 뜻인데요. 어떤 안 좋은 상황이 그래도 최악은 아니었던 유일한 이유, 또는 어떤 사람을 그나마 낫게 만드는 딱 한 가지 장점을 말할 때도 비유적으로 쓸 수 있답니다.
+	* 그 영화는 그게 유일한 장점이었지. That was the one saving grace of the film.
 * 종교적 목적으로 성유나 성수를 바르는 것을 anoint라고 합니다. 혹은 종교적 의식을 통해 ‘왕이나 왕비로 추대하다’라는 뜻도 있습니다.
 	* 신부가 그녀에게 성수를 발라주었다. The priest anointed her with oil.
 * ward off는 어떤 것이 자신에게 가까이 오지 못하게 쫓아내는 것을 뜻합니다. 그래서 ward off 다음에는 evil, danger, disease 등과 같이 부정적인 명사가 옵니다.	* 그들은 악령을 쫓아내는 것으로 그 의식을 시작하였다. They started the ritual by warding off evil spirits.
@@ -46,6 +48,7 @@ In Florence, a perspective was introduced in religiosity.
 * [명사] (특히 성경의 십계명(the Ten Commandments) 중 한) 계명 commandment 미국식 [-ˈmæn-]  영국식 [kəˈmɑːndmənt]   단어장추가  중요
 * 감사기도 드리니 Say grace; Let's say grace 2. 유예기간
 	* 타임 스톤을 목숨 걸고 지키기로 맹세했어요; We swore an oath to protect the Time stone with our lives [oʊθ]
+	* :신께 맹세코 hand to god
 	* 유제품을 끊기로 했었는데; And i swore off dairy
 * 대부분의 종교는 사랑을 구원하는 힘을 가지고 있따; Most religions have the redemptive power of love [rɪˈdemptɪv] 
 
