@@ -6,7 +6,10 @@
 * 1등; I'm the first; The first place.; I'm the winner! Winner!
 * top the list; topped the list of something; 설문 조사 결관
 * # 2등; Our kid got the second-best grade in the class
+  * number two는 말그대로 '2인자,' 혹은 여기서처럼 '이류'라는 뜻을 갖고 있습니다. number two detective
 * # 대회; 과학 경진대회; if i don't win  the science fair
+* 1# 순위 혹은 1지망을 first choice라고 해요.  '가장 선호하는 옵션'이라는 넓은 뜻으로도 쓰이고요! 2순위 혹은 2지망은 second choice. 
+  * 1지망 전공과 2지망 전공을 둘 다 선택하시오. [ex] Select both a first-choice major and a second-choice major.
 
 # 가능성
 * be in line for  : 을 받을 가능성이 크다; be in line은 '줄 서다'라는 뜻도 있어요. 줄서서 뭔가 받으려고 기다리는 모습을 연상하시면 기억이 잘 나겠죠?
@@ -904,6 +907,7 @@
 # 관심
 * 옛날에 극장에서 인물을 집중적으로 조명할 때 쓰던 강한 백색광을 말하는데요, 조명 기술에 석회(lime)이 들어가서 생긴 이름입니다. 비유적으로는 [세상의 이목, 각광, 스포트라이트] 를 의미합니다. 
   * = 레이첼은 좋은 엄마가 되는 것에만 관심이 있어. Rachel is all about being a nice mom.
+  * take an interest in은 '~에 관심을 갖다'라는 뜻으로 be interested in과 거의 같은 뜻인데, 전자가 좀 더 행동으로까지 이어진다는 어감이 있고 좀 더 격식있는 표현입니다.
   * = 그녀는 사람들의 이목을 즐긴다. She likes being in the limelight.
   * #관심을 뺐다; #steal the show = #steal the scene/spotlight
   * 에 관심을 갖다. = concern oneself with(about) 
@@ -1645,6 +1649,7 @@
 
 # 노력하다
 * ‘힘을 쓰다, 힘줘서 쎄게 하다, 노력을 기울이다’를 의미합니다. 고정표현이니 통으로 외워주세요. muscle 은 ‘근육’ 뿐만아니라 ‘힘, 근력’을 말하기도 합니다.  put some muscle into it = 힘 좀 쓰다
+  * : ~ 기 위해 엄청난 # 공을 들이다 take great pains to + 동사원형
   * 어서! 힘 좀 써봐.  Come on! Put some muscle into it. 
   * : 하기 위해 굉장히 애를 쓰다/고생하다/고생도 마다하지 않다 go to great lengths to + 동사
     * 사람들은 SNS에서 행복해보이기 위해 굉장히 애를 쓴다. (또는 '별 짓을 다한다') People go to great lengths to look happy on social media.
@@ -1715,6 +1720,10 @@
  * 클리블랜드 인디언스가 에드윈 엔카나시온 영입에 전력을 다하다
  * Cleveland Indians double down with Edwin Encarnacion..."
  * 최선의 일은 무엇일까; what’s the #boldest thing I could do
+
+# 눈독
+* # 탐내다; : 에 눈을 떼지 않고 바라보다, ~을 탐내다, ~에 눈독 들이다  [ 숙어 ] set/ fix (one's) eye(s) on ~
+  * 내 개가 샌드위치에 눈독을 들이고 있어. My dog has set its eye on my sandwich.
 
 # 눈치
 * 전혀 모르고 있어요; blind as a bat
@@ -1793,6 +1802,7 @@
 # 능력
 * 의 #능력 밖이다; #out of depth
   * 내 # 능력을 증명해 냈어; i earned my stripes
+  * 넌 공감 능력이 전혀 없어. You have no capacity for empathy.
   * 제 능력 밖이에요; this work is #beyond my ability
    * ~에 능력이 있다: be skilled in/at
    * # 발휘; 어떤 일에 자신의 능력, 힘이 최대치로 발휘되는 것을 play out이라고 하며 strength가 주어로 잘 쓰입니다.
@@ -3539,6 +3549,8 @@
 
 # 변명
 * 그들은 그 지역의 일자리 부족에 대해 똑같은 낡은 변명을 내놓았다. They trotted out the same old excuses for the lack of jobs in the area. 
+* - make an excuse: 변명을 하다, 핑계를 대다 - find/look for an excuse : 구실을 찾다, 핑계거리를 찾다
+  * 그는 항상 수업 빼먹을 구실을 찾는다. ex) He's always looking for an excuse to skip class.
 
 # 변신
 * 널 (외모를) 완전히 변신시켜줄게. [ex] I'm going to give you a makeover.
@@ -3932,6 +3944,8 @@ retaliate
 # 비난
 * bash 는 '세게 후려치다, 들이받다'라는 뜻인데요! 물리적으로 강타하는 걸 말하기도 하고, 이렇게 '비난하다'라는 뜻으로 쓰기도 합니다.
   * 매체에서는 예전부터 트럼프를 맹비난해왔습니다. [ex] The media has been bashing Trump.
+  * lash는 명사로 채찍입니다. 그래서 동사로 lash out 이라고 하면 ①때리다, 후려치다 ②엄청난 비난을 하다를 의미합니다. ‘~를 때리다 / ~에게 비난하다’라고 하려면 「at+사람」을 넣으면 됩니다.
+    * 시위 진압 경찰이 곤봉으로 시위참가자들을 후려갈겼다. The riot police lashed out with clubs at the demonstrators.
 * 누군가의 행동을 비난하고 나선다는 뜻으로 좀 더 목소리를 내거나 공개적으로 비난한다는 뉘앙스가 있습니다.  * call 사람 out on 행동 = ~에 대해 비난하다
   * = 사람들 앞에서 공개적으로 그녀를 비난하고 나서는 것은 타당하지 않았어. Calling her out in front of everyone wasn’t exactly fair.
   * = 너같은 초급자를 위한 손쉬운 방법 하나를 알려주지. I will teach a quick hack for beginners like you.
@@ -4166,7 +4180,8 @@ retaliate
 
 # 색깔
 * 무척 기쁜; tickled pink 
-	* 몹시 질투하는; green with envy 
+	* 모든 일이 잘 풀리고 있다; Everything in my life is totally peachy; 2. 좋은, 훌륭한, 분홍빛
+  * 몹시 질투하는; green with envy 
   * rich는 부유한 뿐만 아니라, 다채롭고 풍부한 것을 말하기도 해요. 특히 맛과 향, 색이 강렬하고 짙다는 의미를 가지고 있어요.  vibrant와 saturated역시 (색이) 강렬하다는 의미로, saturated는 원래 '흠뻑 젖은, 포화된'의 뜻이지만 color의 앞에 쓰여 '채도가 높은, 짙은'의 뜻으로 쓰였습니다.
 * 전체를 이루는 색 중에서 눈에 띄게 밝은 색의 부분 보고 pop 한다고 해요. pop은 튀어오른다는 뜻도 있거든요. 여기서 pop of color는 '포인트 색'이라는 뜻입니다.
 	* 내 방에 포인트 색상을 추가하고 싶어. ex) I want to add a pop of color to my room.
@@ -4676,10 +4691,13 @@ retaliate
     * 내 핸드폰 찾는 거 좀 도와줄래? 음...여기있다, 테이블 밑에 있네. [ex] Can you help me find my cellphone? ...hmm... here we go, it's under the table.
     * 3. '또 시작이네'처럼 못마땅한 것이 되풀이 될 때 하는 말. again을 붙여 써요!
       * 또 시작이네요! 평생 그 얘기 들었잖아요. [ex] Here we go again!  I've been hearing the same thing all my life.
+* break ground는 관용적인 의미로 '(한번도 해보지 않았던 새로운 일/분야) 를 시도하다, 개척하다'는 뜻을 가져요. 여기 영상에선 왕좌의 게임 제작진이 지금까지 단 한번도 시도해본적 없는 규모의 전투신을 찍는 순간을 앞두고 있다고 말하고 있죠.
+  * 그들은 비즈니스 영역에서 새로운 장을 # 개척해왔어. They have gone on to break new ground in business.
 * 이거 새로운 장르의 여명/시작이네. [ex] This is the dawn of a new genre.
 * # 처음부터; from scratch = square one
   * * #처음부터 #애초에 from scratch, from square one. right off the bat, from the beginning, from the first #in the first place, from commencement
 * # 순조로운 / 쾌조의 출발을 보이다; #hit the ground running
+  * 순조롭게 짐을 풀고 있어요. ; The unpacking process is going well
   * 순조롭게; by leaps and bounds
   * #순조롭게 잘 돌아가다; #fire / #hit / #click on all cylinders
     * 모든 것이 순조로웠어요            The whole thing was a terrific ride.
@@ -4920,6 +4938,10 @@ retaliate
 * 머리를 쓰다듬다                 stroke her hair
   * #stroke the puppy
   * #pat; She patted the dog on the head
+
+# 쓰여있다
+* "The website's front page reads." 여기 문장에서 동사 read는 '(글귀 등이)라고 적혀있다/쓰여있다'는 뜻을 가져요. 여기에 read대신 say도 쓰는게 가능한데 조금의 차이가 있어요. 편지를 예로 들면, read는 편지의 내용을 그대로 읽는 반면, say는 편지의 내용을 요약해 간략하게 표현합니다.
+  * 메리가 삼성에서 일하기 시작했다고 적혀있어.  - It reads "Mary started working for Samsung."
 
 # 썰렁
 * 썰렁해; are so #lame / #corny / #boring / terrible
@@ -5269,6 +5291,8 @@ retaliate
 
 # 예의
 * 예의바르게 행동해 mind your Ps and Qs 
+  * decency는 체면, 품위, 예절이라는 뜻이에요. [have the decency to + 동사]는 '~할 예의를 갖추다', '~함으로써 최소한의 도리를 하다'라는 뜻. 부정문으로 말할 때는 상대방이 해야 마땅한 일을 안 했음을 비판하는 투가 되어요.
+    * 걔한테 사실대로 말해야 하지 않겠어? ('그 정도 도리는 갖춰야 하지 않겠어?') You should have the decency to tell her the truth. [ˈdiːsnsi]
   * #예의바르게 행동해 Be #polite = good #mannered/behaved = #show some respect
   * * ##courteous <> ##brash; #경솔한, #건방진 = #flippant
   * 더 공손하게 말해 What's the magic word
@@ -5847,6 +5871,8 @@ retaliate
 * = 그녀는 군중을 뚫고 조금씩 움직였다. She edged her way through the crowd. 동사로 edge 는 [약간 움직이다, 조금씩 이동하다] 라는 뜻이 있는데요, 그것의 명사라고 보시면 됩니다. 남보다 한 발 앞선 것으로 [유리함, 우위, 경쟁력] 을 말하죠. 
   * sidle은 조용하고 조심스럽게 슬쩍 다가가는 걸 의미합니다. 새엄마는 영화를 보고 계신 아버지를 보고 신이 났고 조심스럽게 그의 옆으로 살짝 다가갔다는 의미로 sidle up next to my dad라고 하였습니다. 
     * 그 수줍어하던 소년은 내 옆으로 슬쩍오더니 나의 이름을 물었다. The shy boy sidled up to me and asked me my name.
+  * 그는 계단을 빨리 내려오고는 넘어졌다. ex) He barreled down the stairs and fell down. 1) 거의 통제할 수 없을 정도로 빨리 움직이는 것을 의미합니다. 2) 좀 더 흔하게 쓰이는 표현으로는 명사로 포도주 담는 [큰 통], 그리고 동사로 [~을 통에 담다] 라는 뜻으로도 쓰입니다.
+  * 그녀는 그가 자기 옆에 앉을 수 있도록 조금 # 움직여 주었다. She scooched over so that he could sit down next to her. 
 * # 게으르다; ‘일어나서 무언가를 하다, 움직이다’라는 의미의 표현입니다. 대고 있던 엉덩이(ass)를 떼라는(get off) 거죠. 그래서 게으르게 누워서 아무것도 하지 않은 사람에게 Get off your ass! 라고 말할 수 있습니다. 물론 비격식 표현이니까 상대를 봐가면서 사용해 주세요!
   * 게으름 그만 피우고 가서 일 좀 해야하지 않겠냐.   It's time you got off your butt and got to work.
 
@@ -5880,6 +5906,7 @@ retaliate
   * I’m moving in upstairs, moved from seoul
   * on your feet
   * #relocate
+  * 순조롭게 짐을 풀고 있어요. ; The unpacking process is going well
 * 동사처럼 보이진 않지만 동사입니다. 'stick' 이 아니라 복수형인 'sticks' 를 써야한다는 점 꼭 숙지해 두시고, 과거형으로 쓰고 싶을 땐 'upped sticks' 라고 하시면 되는 비격식 표현입니다.
   * = 이렇게 갑자기 이사를 가야 하는 게 그닥 좋진 않네요. I don't enjoy having to up sticks out of blue like this.
 * # 동거; = A와 동거를 시작하다 (연인 혹은 룸메이트, 가족 등) move in with A
@@ -5891,7 +5918,9 @@ retaliate
 
 # 이해
 * = wrap one's brain/head/mind around 머리를 꽁꽁 싸매듯이 이해하려 하는 것을 의미해요. 조금 어렵고, 혼란스럽고, 생소한 것을 이해하려는 모습의 단어입니다.
-	* 2. pin [목적어] down: 무언가를 정확히 이해하거나 묘사하다
+	* 여러분은 점들을 이어서 그림을 완성하는 점잇기 놀이를 해본 적이 있나요? 점들만 있을 때는 모르지만 점들을 연결하면(connect the dots) 비로소 어떤 그림인지 알수 있게 되죠. 이처럼 connect the dots라는 표현은 ‘(여러 정황을 살핀 후) 이해하다, 파악하다’라는 의미입니다.
+    * 아직 모르겠어? 내가 널 위해 이해를 시켜줘야 하니? Don’t you get it? Should I connect the dots for you?
+  * 2. pin [목적어] down: 무언가를 정확히 이해하거나 묘사하다
     * 경찰이 범죄의 동기를 파악하려고 노력 중이다. [ex] The police are trying to pin down the motive of the crime.
   * 방금 일어난 일을 이해할 수가 없어. ex) I just can't wrap my head around what's just happened.
   * 이 단어를 쉽게 풀어쓰면 “impossible to understand”입니다. fathom이 ‘이해하다, 헤아리다’라는 동사이기 때문이죠. 영상에서 데미는 팬이 자신에게 해 준 말들은 전부 헤아리기 힘들 정도(unfathomable)로 의미있고 소중하다고 말하고 있습니다.
@@ -6318,6 +6347,7 @@ retaliate
 # 재미
 * 재미로; Just for kicks
    * ◇amusing은 사람을 재미있게 하는 것뿐만 아니라 즐거운 생각, 사건, 활동, 일 등도 묘사하므로, 이 단어들 중에서 가장 보편적으로 쓰인다:
+   * 그는 파티 내내 재치있는 말 하는 것을 멈추지 않았다. ex) He never stopped making quips throughout the party.  * quip : 재밌는 말
  * an amusing party / game / evening
  * 즐거운 파티 / 게임 / 저녁
  * a funny / humorous / comic party / game / evening.
@@ -6375,6 +6405,9 @@ retaliate
 * ^^#save; 구하다; I save the file; 파일을 날라가지 않게 구하는 느낌
   * #store; 담는다; I store the file on my computer; 파일을 컴퓨터에 담는 느낌
   * #곡물 저장소; ##granary granaries(#granaries)
+
+# 적다
+* - write down VS jot down; : 'jot down' 은 주로 간단히, 짧게 적어두는 걸 말합니다. 반면 'write down' 은 길게 적어두는 것도 말할 수 있죠!
 
 # 적어도
 * #기껏해야 has the least amount of ~ = 동사 + as little as I can = #at most
@@ -7126,12 +7159,15 @@ retaliate
  * #가속화; is accelerating #gradually = is getting faster = #pick up; picking up speed
  * #계획대로 잘 #진행되고 있어; it goes like #clockwork
  * #pan out; 일이 진행되다; it didn't pan out well
+* # 실행; 'put (sth) into practice'는 우리말 '[무엇을] 실행에 옮기다' '실천하다'를 잘 나타낼 수 있는 영어표현이에요! 쓸모가 많겠죠?
+  * 이게 내 아이디어들을 실행에 옮길 기회야. [ex] This is my chance to put my ideas into practice.
 
 # 징조
 * 좋은 징조는 아니에요            That’s not a good sign = bad omen
  * [hάːrbindʒǝr] 격식 It was a harbinger of things to come
  * 그는 아무런 징조도 보여주지 않았다     He shows absolutely no signs of slowing down
  * 어떤 일이 일어날 것 같은 징조           the writing on the wall
+ * 다소 격식 있는 표현으로 쉽게 풀자면 be a good/ bad sign이라고 말할 수 있어요. bode well/ ill (for OO)  [bóud]
  * #premonition; I had a premonition that my girlfriend would dump me
  * #whiff; 조짐; = [hάːrbindʒǝr] #harbinger
   * 국내 경기가 #회복의 조짐을 보이고 있다; domestic business shows clear #sings of recovery
@@ -7328,6 +7364,8 @@ retaliate
  * He's a #seasoned professional. 그는 베테랑이야.
  * 자신이나 챙겨; #Save yourself 
  * #신인; get (the) #Rookie of the Year award
+* gather는 '모으다'라는 뜻이에요. 사람들이 모인다는 뜻으로도, 여기저기 흩어진 소지품을 모은다는 뜻으로도 쓰인답니다. 여기서 '짐'은 things(물건들)이라고 표현했는데요, 좀 더 비격식 표현으로 stuff라고도 할 수 있고, 좀 더 격식 있게는 belongings(소지품)이라고 합니다.
+  * 자 여러분, 모두 소지품 챙기세요. 10분 후에 떠납니다. Okay everyone, gather your belongings. We're leaving in 10.
 
 # 청소
 # 쓰레기
@@ -7876,6 +7914,7 @@ retaliate
 # 폭력
 * : 자해, 스스에게 가한 폭력 [self-inflicted violence]
   * 그는 스스로 쏜 총상 때문에 죽었다.  He died of a self-inflicted gunshot wound.
+  * 폭력적인 집안이었어요. It was an abusive household; 폭력적인 상황: abusive situation
 
 # 표준
 * 표준어; Standard american English
@@ -7978,6 +8017,8 @@ retaliate
 # 한계
 * 그는 끊임없이 TV 코미디의 한계를 초월하는 연예인이다. e is a performer who consistently pushes the envelope of TV comedy. 
   * 이제 한계야; i've just about reached my limit
+  * there's only so much/many는 '~에 한계가 있다'라는 뜻인데요, '많이 없다'는 것을 강조하거나 더 색깔있게 표현할 때 쓰는 표현이에요. 이 장면에서는 '힘이 남아있긴 한데, 그래봤자 얼마 없다'라는 어감이에요.
+    * 내가 할 수 있는 것엔 한계가 있다. 내가 할 수 있는 것엔 한계가 있다.
   * push somebody to the/ one's limit : 상대가 최대한 기량을 발휘할 수 있도록 만든다는 긍정적인 의미와 극단으로 내몬다는 부정적인 의미 모두 사용될 수 있습니다.
     * 내 학생들이 경기에서 이길 수 있도록 그들을 한계점으로 밀어붙이려 노력했어. I tried to push my pupils to the limits, so that they can win the game.
 * * push the boundaries = 한계에 도전하다
@@ -8171,6 +8212,8 @@ retaliate
  * #무혐의; #unsuspectedness; be acquitted; emphasize innocence; appeal for no-suspension
  * 타협점을 찾자                Let's find a happy medium
  * # 타협하다; #meet halfway = #compromise with = meet in the middle
+  * middle ground는 '중간 지점', '타협안', '절충안'을 뜻해요.
+    * 타협안을 찾을 수 있도록 노력하자. We should try to reach a middle ground.
  * #의논하다; #take A up with B
  * #compromise; 어느정도 포기하면서 현실과 타협; we didn't compromise our values
  * ##처리량                 throughput

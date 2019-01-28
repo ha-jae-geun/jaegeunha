@@ -1,3 +1,7 @@
+# 문장 시작할 때 피해야 할 단어
+* For, And, Nor, But, or, Yet, So, because
+	* 대신: However, Therefore, Due to, As a result, Thus, In addition
+
 # 책
 * 책 한장이 찢어저 나갔어요; One page has been torn out of the book
 * 산만한[통일성이 없는] 에세이 a scrappy essay 

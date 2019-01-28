@@ -578,7 +578,8 @@ I have a big crush on you / I have a thing for you, i'm into you
 	 * 널 위해서라면 모든지 할 수 있어 			 I would give everything to be with you.
 	 * 너 때문에 심쿵이야 						You make my heart skip a boat
 	 * 너에게 푹 빠져버렸어(고백)					 I'm head over heels for you
-	 * *언제 고백할거야 					 When are you gonna ask me out?
+	 * 언제 고백할거야 					 When are you gonna ask me out?
+	 * make a confession; 거절 당하면 어떡하지; What if she rejects me
 	 * 너 없이는 못살아 							 I can't live without you
 	 * 나 너한테 미쳤어							 I'm crazy about you
 	 * 넌 내 세상의 전부야						 You mean the world to me 

@@ -13,6 +13,7 @@
 * 연극해보자; Let's put on a play
 * 새로운 시즌으로 돌아올 경우 [renew A] 'A의 방영을 연장하다'는 표현을 쓸수 있어요. 반대로 연장되지 않고 취소될 경우는 cancel를 쓰고, 전 시즌 주인공들이 다시 돌아올 경우는 return을 쓰시면 돼요~
 	* - pilot episode : 파일럿 에피소드  - ratings : 순위, 시청률
+		* 시청률은 viewer ratings라고도 하면 라디오 같은 경우(청취율)를 포함하면 audience ratings/ figures라고 말합니다; the highest viewing figures
 	* 그 TV프로그램 방영이 취소됐어 아니면 연장됐어? [ex] Has the TV show been cancelled or renewed for a third season?
 	* 셜록 주인공들이 시즌4로 돌아올 것이다. [ex] Sherlock characters will be returning for a fourth season. 
 

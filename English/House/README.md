@@ -11,6 +11,7 @@
 * 투박하게 살다; 편안한집, 전기, 난방시설 등 호화로운 시설 없이 불편하게 살거나 캠핑하다; I'm roughingg it(제대로 된 캠핑을 할거야)
 * 즐거운 우리 집; home sweet home
 	* 잘곳이 없잔ㅇ하; we have a roof over our heads; a roof over one's head
+	* 위층 아파트를 리모델링 하고 있어요; They're renovating the apartment upstairs
 * 우린 집세를 낼 돈이 없어. We ain't got our rent money.
 * 계약금 없이; with no money down
   * 계약금을 걸다; make/put a down payment; with some money down

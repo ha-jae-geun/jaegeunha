@@ -185,6 +185,10 @@
 
 # 동사
 
+## axe
+* -ax(e) : 인원 ·지원금 등을 대폭 삭감하거나 해고하는 것을  말해요. '도끼로 자르다'할 때 그 도끼 맞습니다!
+  * 그 법인은 200 명의 노동자들을 한꺼번에 해고했다. The corporation axed 200 employees all at once.
+
 ## avail
 * 1. (부정 구문에서) 소용이 되다.; talk will not avail without work
   * 2. avail + 명사: ~에게 소용이 되다.; it will avail you little or nothing
@@ -460,6 +464,7 @@
 ## budget
 * 나는 한정된 예산으로 이번 휴가를 보내야 한다. I have to spend this vacation on a budget. 
 * 예산을 늘리다; stretch a budget
+* - have a big budget: 예산을 많이 갖고 있다  - have a tight budget: 예산이 빠듯하다
 
 ## bus
 *   나는 널 절대 배반하지 않을거야. 나는 신념을 저버리지 않아. I wouldn' t throw you under the bus . I don ' t sell out . 
@@ -489,6 +494,9 @@
   * 비격식 표현으로 상대방을 짜증나게 하거나 화나게 하려는 의도로 그 사람의 민감한 부분을 건드리는 말 또는 행동을 하는 것을 의미해요. 콕 하고 누르면 확 터지는 그런 부분 말이죠. 영상에서는 특정 인물의 민감한 부분이 아니기 때문에 복수로 buttons 가 쓰였습니다.
     * 몇몇 정치인들은 표를 더 얻기 위해 의도적으로 민감한 부분을 건드린다. ex) Some politicians deliberately press buttons to get more votes.
 
+
+## barrel
+* 그는 계단을 빨리 내려오고는 넘어졌다. ex) He barreled down the stairs and fell down. 1) 거의 통제할 수 없을 정도로 빨리 움직이는 것을 의미합니다. 2) 좀 더 흔하게 쓰이는 표현으로는 명사로 포도주 담는 [큰 통], 그리고 동사로 [을 통에 담다] 라는 뜻으로도 쓰입니다.
 
 ## bang
 * 내 차 완전 #망가졌어           My car got completely #banged up.
@@ -1263,6 +1271,10 @@
 * develop 은 기본적으론 [개발하다] 라는 뜻이지만, 없던걸 만들어내는 뉘앙스이기 때문에 뒤에 병명이나 어떤 문제가 목적어로 오게 되면 1) 없던 병에 걸리거나 2) 문제가 생길 때도 쓰이는 단어입니다.
 	* 아이들에게 발진이 생기면 병원에 데리고 가세요. ex) Take your kids to hospital if they develop a rash.
 
+## dot
+* 여러분은 점들을 이어서 그림을 완성하는 점잇기 놀이를 해본 적이 있나요? 점들만 있을 때는 모르지만 점들을 연결하면(connect the dots) 비로소 어떤 그림인지 알수 있게 되죠. 이처럼 connect the dots라는 표현은 ‘(여러 정황을 살핀 후) 이해하다, 파악하다’라는 의미입니다.
+    * 아직 모르겠어? 내가 널 위해 이해를 시켜줘야 하니? Don’t you get it? Should I connect the dots for you?
+
 ## doozy
 * 1) 비격식의 단어로 좋은 의미, 나쁜 의미 모두 가지는 단어입니다. 무언가가 굉장히 크거나, 큰 놀라움, 또는 위험한 상황 등, 기억에 남을 만한 경험을 표현할 때 쓰는 단어에요. 따라서 문맥에 따라 조금 다양하게 해석이 될 수 있습니다. 2) 영상의 주인공은 이야기가 시작되기도 전에 우는 자신의 모습에 [크게 놀라서] doozy 라는 단어를 썼을거에요. that 은 자신이 눈물 흘린 상황을 의미하구요. 그래서 지나고 생각해보니 [더 크게 울었을까봐 놀란 상황] 이니 [큰일 날 뻔했네.] 정도로 해석이 된 것이랍니다.
   * 난 그의 다음 행동이 굉장히 특별한 것이라는 걸 확신해. ex) I am sure his next move will be a doozy.
@@ -1313,6 +1325,9 @@
 	* - fruit drops는 과일맛 사탕 
 	* - cough drop: 기침 (멎게 하는) 캔디 (같은 약) (감기 걸렸을 때 이걸 찾는 사람들이 참 많습니다!)
 *  배려 1도 없어. Not a single drop.
+
+## egg
+* 오늘 기분이 좀 좋지 않네. I'm feeling a bit eggy today.
 
 ## embrace
 * 그들은 울면서 서로를 껴안았어. [ex] They cried and embraced each other. 1. 껴안다 = hug
@@ -1390,6 +1405,9 @@
  * 식은죽 먹기다      #shooting fish in a barrel(#barrel), It's as easy as pie. That's nothing. 
  * So easy. Dead easy. It's a piece of cake. It's a breeze. It's a snap. It's easy.
  * ☆쉬운 일 a ##snap = a ##breeze(2. 산들바람) #cinch
+
+## fruit
+* 그녀는 넘봐서는 안될 존재야; She's forbidden fruit
 
 ## frown
 * = 이 미간 주름을 어떻게 없애지? – 인상을 쓰지 마. How could I get rid of my frown lines? – Just stop # frowning.
@@ -1593,6 +1611,10 @@
 * follow in someone's footsteps 는 직역하면 [누군가의 발자취 속에서 따라가다] 라는 의미인데요. 즉, 다른 사람 (특히 가족 구성원)이 이전에 했던 일을 본받아 하는 것을 의미합니다. 특히 '직업/경력' 을 따라가는 것을 의미하는데요. 
 	* 형의 발자취를 따라, 나는 대학에서 공학을 공부 중이다. ex) Following in my brother's footsteps, I am studying engineering at college.
 
+## gather
+* gather는 '모으다'라는 뜻이에요. 사람들이 모인다는 뜻으로도, 여기저기 흩어진 소지품을 모은다는 뜻으로도 쓰인답니다. 여기서 '짐'은 things(물건들)이라고 표현했는데요, 좀 더 비격식 표현으로 stuff라고도 할 수 있고, 좀 더 격식 있게는 belongings(소지품)이라고 합니다.
+  * 자 여러분, 모두 소지품 챙기세요. 10분 후에 떠납니다. Okay everyone, gather your belongings. We're leaving in 10.
+
 ## gain
 * -에 가까워지다; gain on; They're gaining on us
 
@@ -1753,6 +1775,8 @@
     * 인도에서 우리 패스트푸드 체인점이 잘 될 거라 아무도 생각지 않았지만, 우리는 인기를 얻기 시작했습니다! No one thought our fast food chain would do well in a country like India, but we've started making ground!
   * 협상은 어떤 절충안을 수립하는 것에도 실패했다. [ex] Negotiations have failed to establish any middle ground.
   * 여기서 'They keep you grounded.' 는 현실감을 유지하게 해준다는 의미로 쓰였습니다. 유명인들이 유명세를 얻기 전부터 친구였던 사람들을 만남으로써 자신이 연예인이기도 하지만 평범한 사람이기도 하다는 느낌을 유지하게 해준다는 뜻이죠. 그래서 짧게 말해 '지켜준다'라고 표현한 거랍니다.  사실 grounded 는 '외출금지' 라는 뜻으로 더 많이 쓰이는데요. 드라마나 영화에서 잘못한 10대 자녀에게 부모님이 'You are grounded!(너 외출금지야!)' 라고 소리지르는 장면을 자주 볼 수 있답니다. 외출 하지 말고 집에만 콕 박혀있으라는 얘기랍니다!
+* break ground는 관용적인 의미로 '(한번도 해보지 않았던 새로운 일/분야) 를 시도하다, 개척하다'는 뜻을 가져요. 여기 영상에선 왕좌의 게임 제작진이 지금까지 단 한번도 시도해본적 없는 규모의 전투신을 찍는 순간을 앞두고 있다고 말하고 있죠.
+  * 그들은 비즈니스 영역에서 새로운 장을 개척해왔어. They have gone on to break new ground in business.
 * #겸손하게 만들다; #keep someone grounded
 * # 순조로운 / 쾌조의 출발을 보이다; #hit the ground running
 * #따라 잡다; #gain ground on
@@ -2022,6 +2046,8 @@
 * 동사 hook 은 단순히 갈고리로 거는 것 뿐만 아니라, 장치에 무언가를 연결한다고 할 때도 씁니다. 실생활에 자주 쓰이니 예문과 함께 잘 학습해 주세요!
   * 그녀는 링거를 꽂고 있었다. (IV: 링거주사) She was hooked up to an IV.
 * # 무조건; 무슨 수를 써서라도 우리가 이 게임을 이겨야 한다는 거 너도 알지? You know we must win this game by hook or crook. 
+* 2) 그러니 hook up with 는 누군가에게 걸려있는거에요. 그래서 만나기 시작하고, 함께 일하기 시작하는거죠.
+  * 이 발표가 잘 이뤄진다면 우리는 백악관이랑 일을 하기 시작할지도 몰라. ex) We might be able to hook up with the White House if this presentation goes well.
 
 ## horizon
 * 이 작은 마을에서 나와서 시야를 넓힐 시간이야. ex) It's time to get out of this small town and broaden my horizons.
@@ -2101,7 +2127,8 @@
 * 헌옷 She got all the hand-me-downs
 * have time on one's hands: 시간이 남는다, 시간이 있다. had a little time on my hands                  
 * 첫 번째 뜻은 '한 줌', '한 움큼'이라는뜻. 손(hand)가 가득(full) 찼다는 느낌이죠~ 말 그대로 '한 움큼'을 뜻할 수도 있고 '몇 안 되는'이라는 뜻도 있어요. 두 번째 뜻은 '말쌩정이', '다루기 힘든 사람/동물'입니다! 뭔가 양손 가득 물건을 겨우겨우 들고 있는 모습이 연상되지 않나요? ㅎㅎ
-                                
+* 2. handsy는 신조어인데요, '손'을 뜻하는 hand에 -sy를 붙인 말이에요. 옆에 있는 사람을 자꾸 만지는 사람을 가리키는 형용사예요.
+  * 네 상사는 왜 그렇게 사람을 만질라 그래? [ex] Why is your boss so handsy?                         
 
 ## have
 * 소유하고 있다; 소유욕이 낮은 느낌ㄴ
@@ -2239,6 +2266,10 @@
 ## ice
 * 보석이 얼음처럼 투명해서 일까요? 이 표현은 다이아몬드처럼 반짝이는 것들로 휘황찬란하게 꾸민다는 뜻입니다. 영상에서는 수동형으로 써서 “그들이 휘황찬란하게 꾸며졌다”라고 했습니다. 
 	* = 팔에 그 시계 뭐야! 번쩍번쩍 하는데! (비싼 시계를 찬 사람을 보고 하는 말) Look at your wrist! It’s so iced out!
+
+## invite
+* invite to~는 ‘로 초대하다’라는 뜻이지만 여기에 along이 붙으면 제안한 사람과 함께 가자고 초대한다는 의미가 됩니다. along이 주는 뉘앙스가 ‘함께, ~를 따라서’가 있기 때문입니다. 따라서 추후에 나올 부분 sing along도 ‘다른 사람들과 함께, 따라서 부르다’라는 의미가 됩니다. 
+  * 제니도 너랑 같이 파티에 가자고 초대하는 건 어때? Why don’t you invite Jenny along to the party?
 
 ## invalid
 * # 근거; 어떤 의견(opinion)이나 주장(argument)이 invalid라고 하면 논리성이나 정확한 근거가 없다는 걸 의미합니다. 흑인사회에서 일어나는 일들을 백인들은 겪어본 적이 없기 때문에 그들의 주장이 근거 없이 들릴 수 있다고 말하고 있네요. 또한 invalid는 문서, 절차 행위 등에 쓰여 ‘법적으로 효력이 없는, 무효한, 잘못된’이란 뜻도 갖습니다. 두 가지 뜻 예문에서 살펴보겠습니다.
@@ -2778,6 +2809,8 @@
   * 그는 단순히 얼간이일 뿐이야; He is nothing but a jerk
   * 치맥보다 #좋은건 없지.           #Nothing beats beer with chicken.
   * ~만한게 없어                  There’s nothing like ~
+* nothing 바로 옆에 (next to) 있는거니 거의 없는거를 의미합니다. 대사를 조금 풀어서 보면 미스터 엑션 씨가 기꺼이 (be willing to) 그것을 가도록 (let it go) 했습니다. 거의 공짜루요. (next to nothing).
+  * 난 거의 아무것도 먹지 못했어. ex) I had next to nothing to eat.
 
 ## notice
 * 사전 공지; prior(advance) noie; 추후 공지: further notice; 촉박한 홍보; SHort notice; 그 기간을 두고 하는 공지: 기간's notice
@@ -2861,6 +2894,9 @@
   * #update sth; update in the sth; update to your social applications; #update information for 
 * 새로운 규제방안은 향후 2년에 걸쳐 단계적으로 도입될 것이다. The new regulations will be phased in over the next two years.
   * phase in은 법이나 제도 등을 단계적으로 도입하다라는 뜻입니다. 뒤에 「over+기간」를 넣어 ‘한 기간에 걸쳐’라고 표현해 줄 수도 있습니다.
+
+## pain
+* : ~ 기 위해 엄청난 # 공을 들이다 take great pains to + 동사원형
 
 ## pace
 * 전개가 느렸어; The pacing was too slow
@@ -2981,6 +3017,11 @@
   * : 그냥 너에게 알려주는 것 뿐이야.  I'm just putting you on notice
   * : 샌드위치 몇 개도 추가해줘요. 그것은 내 계산으로 해 주고. A couple of sandwiches, too. Put it on my tab
 
+### put aside
+* 우리 의견 차이는 제쳐둡시다. ('협력을 위해'라는 뉘앙스) [ex] Let's put aside our differences. 1. (감정, 의견 차이 등을) 제쳐두다, 무시하다, 뒤로하다 (주로 '대의를 위해 개인적인 감정에 휘둘리지 않는다'는 어감으로 쓰이죠)
+* 난 내 취미를 위해 매 달 100달러를 따로 모으고 있다. [ex] I'm putting aside $100 every month for my hobby. 2. (나중에 쓸 수 있도록) 따로 모아두다, 보관하다, 남겨두다
+* 잡지는 옆에다 두고 좀 들어봐. [ex] Put the magazine aside and listen. 3. 옆으로 치우다, 미뤄두다
+
 ## pull
 * : 에릭슨은 틀림없이 머리를 쥐어짜고(고민하고) 있을거야. Ericson must be pulling his hair out; Pull out someone's hair' 는 '의 머리카락을 뽑다'
   * 트로이는 날 골탕 먹이려 했다. [ex] Troy tried to pull a trick on me.
@@ -3071,6 +3112,8 @@
 ## practice
 * 여기서 practice는 ‘실행, 실천’이란 뜻이고 실행에 두는 것(put into)이니까 “행하다, 실천하다, 실재로 하다”란 의미가 됩니다. ‘무엇을’ 실행에 옮기는지 표현하려면 put과 into사이에 명사를 넣어주세요.
   * 그거 실재로 해보자.  Let’s put that into practice. 
+* # 실행; 'put (sth) into practice'는 우리말 '[무엇을] 실행에 옮기다' '실천하다'를 잘 나타낼 수 있는 영어표현이에요! 쓸모가 많겠죠?
+  * 이게 내 아이디어들을 실행에 옮길 기회야. [ex] This is my chance to put my ideas into practice.
 
 ## pro
 * "프로처럼"을 영어로도 "like a pro"라고 해요. 원어민들 사이에서 말장난으로 예를들면 "Eating like a pro" "프로먹방러처럼 먹기"와 같은 뉘앙스로 쓰기도 한답니다. [ex] I'm gonna show you how to make
@@ -3285,6 +3328,8 @@
 ## present
 * 만약 Thanks for being present 를 회의실에서 했다면 “참석해 주셔서 감사합니다”가 되겠지만, 여기서는 ‘도움이 되다, 옆에 있어주다’를 뜻합니다. 옆에 있으면서(be present) 도움이 되어 주거나, 얘기를 들어주거나, 아니면 함께 있어주는 것만으로도 고맙다는 걸 의미하죠.  성탄절이나 추수감사절에도 be present 라는 말이 종종 나오는데요, 단순히 명절에 참석하라는 말이 아니라, 그 시간을 온전히 가족을 위해 쓰고, 가족들 옆에 있어주라는 의미가 포함되어 있습니다. 
 	* 애들이 금방 크는 건 막을 수 없겠지만, 애들이 자랄 때 옆에 함께 해줄 순 있어요. We can’t stop our children growing up so fast, but we can be present. 
+* 형용사 ‘존재하는’의 present에서 명사로 presence가 된 것입니다. 우리말로는 ‘존재함, 있음’인데 문맥에 따라 보이지는 않지만 존재한다고 느껴지는 것, 즉 ‘귀신, 영혼, 신비한 존재’를 뜻하기도 합니다. 이 외에 귀신, 영혼을 뜻하는 단어로는 ghost, spirit, phantom 등이 있습니다.
+  * 미친 소리처럼 들리는 거 아는데, 전 이 집에 뭔가 있는 게 느껴졌어요. I know it sounds crazy but I felt a presence in this house.
 
 ## power
 * have power over their lives: 그들의 삶의 주도권을 가지다. 자신의 삶을 결정할 수 있는 힘을 가지다.                                
@@ -3384,6 +3429,7 @@
 ## routine
 * routine은 우리말로는 대표되는 한 가지 명사는 없고, 늘 규칙적으로 하는 것을 뜻합니다. 그래서 nighttime beauty routine은 ‘밤 시간에 미용을 위해서 늘 규칙적으로 따르는 과정’을 말합니다.
   * 이게 내가 하루에 늘 하는 운동이야. This is my daily workout routine.
+* 루틴이 생기는게 좋긴 하죠; It's nice to get into a routine
 
 ## round
 * 한장소, 한장소 돌면서 일하는 것을 do rounds / go on rounds / make rounds / be on rounds 라고 표현합니다. 영상속 주인공의 아버지는 내과 보조 의사이기 때문에 이 경우에는 ‘회진’을 말하는 거겠네요.
@@ -3510,6 +3556,8 @@
 ## reel
 * reel은 ‘얼레’입니다. 동사로는 감겨있던 것이 풀린다 하여 ‘빙글빙글 돌다, 비틀거리다’란 뜻이죠. 그리고 영상에서처럼 reel 뒤에 전치사 from, with, at 등을 붙이면 ‘~으로 인해 마음이 어지럽다, ~때문에 충격으로 어찌할 바를 모르다’라는 표현이 됩니다.
   * 그들은 로또에 당첨되었다는 소식을 듣고 충격으로 휘청거렸다. They were reeling from the news that they had won the lottery. 
+* reel은 ‘실패, 얼레’란 뜻입니다. 그리고 reel in 이라고 하면 마치 낚싯대로 물고기를 감아올리는 것 같이 당기거나 끌어올리는 걸 의미합니다. 그래서 클레어가 말한 I’m reeling in the wine은 와인을 끌어 당기겠다, 즉 “와인을 많이 마실 거다”라는 것입니다.
+  * 그들은 어제 엄청 큰 생선을 감아올렸다. They reeled in the giant fish yesterday.
 
 ## remind
 * 여기 모든 사진은 그날의 추억을 떠올리게 해줘. ex) Every picture here is a reminder of that day.
@@ -3745,6 +3793,9 @@
 
 ## swing
 * 가능할 것 같아; i think i could swing that; swing: 잘 해내다
+
+## splash
+* 야 소리 그만 지르고 가서 얼굴에 물 좀 끼얹어(=진정하고 와). [ex] Hey, stop yelling and go splash some water on your face. 'splash water on one's face'는, '세수'의 의미보다, 졸리거나 정신이 없거나 진정이 안 된 때 '물 좀 끼얹'는 걸 가리켜요.
 
 ## spin
 * 정신적으로 굉장히 힘들고 스트레스를 받아서 멘붕이 온 것 같은 모습을 보여주는 표현입니다. 마약 같은 걸 하고 헤롱거리며 주변에 무슨 일이 일어나고 있는지 이해하지 못할 때 쓰는 표현이기도 해요.
@@ -4058,6 +4109,11 @@
 * 정답을 맞췄어요; get the square
 * [슬랭] 형용사 square는 '얌전한', '보수적인' 이라는 뜻! 명사 square는 '얌전하고 보수적인 사람' 혹은 '샌님'이라는 뜻이고요. ※ 원래대로면 "He is too square"라고 해야 하는데, is를 생략했어요. 일종의 슬랭인데, 래퍼들이 즐겨 사용하는 말투죠.
 
+## speed
+* [ 숙어 be/ get up to speed (on/ with) 1. 기대 속도/ 수준에 따라 (일하는, 작동하는) 2. 어떤 활동이나 주제에 대해 최신 소식까지 다 따라잡는 , 최신 정보를 갖춘 여기서는 두 가지 의미가 어느 정도 다 들어간 경우로, 드라마에 대한 최신 소식을 다 챙기지 못했다든가 최근 에피소드까지 다 따라잡지 못했다는 뜻입니다.
+  * 조나단은 일을 따라잡느라 고생했다. Jonathan had a hard time getting up to speed.
+  * 이 부분에 대해서 최신 정보는 잘 모른다. I'm not up to speed on this matter.
+
 ## spell
 * ＊ spell disaster = 재앙과도 같다
   * = 가뭄은 농부들에게는 재앙과도 같을 수 있다. (spell disaster/trouble for 피해를 입는 대상) The lack of rain could spell disaster for farmers.
@@ -4343,6 +4399,7 @@
 ## throw
 * 수동태인 be thrown(던져지다)라고 하였습니다. 자신의 의지와 상관없이 어떤 상태(state)에 빠지게 된다는 어감입니다.  1) be thrown into a state ~ = ~의 상태에 빠지다
   * 나라 전체가 완전한 혼돈 상태에 빠졌다. The whole country was thrown into a state of complete chaos.
+* 그 방해가 나를 헷갈리게 해서, 말하던 부분을 잊어버렸어. [ex] The interruption threw me off, and I lost my place in the speech. 'throw sb off (of sth)'은 '[무엇]으로부터 [누구를] 교란시키다' '[무엇]으로부터 멀어지게끔
 *  'throw sb under the bus'는 자기자신을 보호하거나 이익을 얻으려고 친구나 동지를 배신하는 행위를 가리킵니다. (직역하면 '누군가를 버스 아래로 던져버리다'입니다)
   * 맷이 앤을 팔아먹는 바람에 앤은 자기 쇼에서 잘렸다. [ex] Matt threw Ann under the bus and Ann was released from her own show.
 * : 'throw off balance, 평정을 잃게 하다' 라는 말처럼, '~를 혼란스럽게 하다, 당황스럽게 하다' 라는 뜻!
@@ -4406,6 +4463,7 @@
 ## track
 * track 은 말 그대로 사람들이 따라가도록 나있는 [길] 을 의미하는데요. 무언가를 함에 있어서 목표를 향한 길에서 벗어나지 않고 잘 따라갈 때 on track 이라고 합니다. 제대로 된 방향으로 나아갈 때는 on the right track, 잘못된 방향일 때는 on the wrong track 이라고 하고요. 잠시 잘못된 방향으로 갔다가 다시 돌아왔을 때는 get back on track 이라고 할 수 있어요.
 	* 데이빗. 넌 정말 잘 하고 있으니까 너 자신을 의심할 필요가 없어. ex) David. You're definitely on the right track, so no need to doubt yourself.
+* 우린 지금 논점에서 벗어나면 안돼. 이 팀 프로젝트 끝낼 시간이 많이 남지 않았어. ex) We should not get off track now because we don't have much time left to finish this team project. track 은 [길] 이라는 뜻이 있는데요, 말 그대로 [길에서 벗어나다] 라는 뜻과, 영상에서처럼 [논점에서 벗어나다] 라는 비유적 표현으로도 쓰인답니다. * get off track : 논점에서 벗어나다.
 
 ## tone
 * 동사로 주로 tone up 이라고 쓰여요. 몸매뿐만 아니라 소리라든지, 색상 등을 한 단계 높여서 세게하는 것을 의미하는데요. 영상에서처럼 toned 라고 쓰이면 몸이 [탄력 있는, 탄탄한] 이라는 의미를 갖게 됩니다.
@@ -4689,10 +4747,14 @@
 	* 방금 일어난 일을 이해할 수가 없어. ex) I just can't wrap my head around what's just happened.
 * : 조종하거나 통제하다, 자기 마음대로 주무르다  wrap around one's little finger
   * 그녀는 그 남자를 완전히 잡고 있다. She has him wrapped around her little finger.
+* 주로 당분간 비밀로 하기 위해 꽁꽁 싸매놓은 것을 의미합니다. 주로 keep something under wraps 라고 쓰여요.
+  * 계획을 당분간은 비밀로 해두자, 알겠지? ex) Let's keep the plan under wraps for a while, okay?
 
 ## wheel
 * take the wheel은 직역하면 운전대를 붙잡다는 의미로, 어떤 일의 지배권을 장악하다는 비유로 많이 쓰이는 표현이죠.  take over는 다른 사람이 가지고 있던 것을 넘겨 받는다는지, 자신이 영향력을 더 키워 회사나 사업, 장소 등을 장악/인수하는 걸 의미합니다. 지배권의 변화를 암시해요. 여기서는 이 두가지 표현이 복합적으로 사용되었네요~ 가볍게 어떤 일을 리드한다는 뜻으로도 말할 수도 있겠죠.
   * 에드워드가 사업을 책임지게 된 후 매출액은 계속 늘고 있다. Ever since Edward took over the wheel, our sales have been on the rise.
+* : 요 표현에는 나름의 역사가 있어요! 원래는 'a fifth wheel' 이라는 표현이 있었죠. 바퀴가 네 개만 있으면 되는 탈것의 '다섯 번째 바퀴' 라는 뜻으로, '필요 없는 존재'나 '쓰임새가 별로 없는 것'을 의미해요. 여기서 현대에 더 널리 쓰이는 'a third wheel' 이란 표현이 파생했어요. 보통 두 사람 옆에 어색하게 꼽사리 낀 세 번째 사람을 말해요. 바로 요 표현에서 'a fourth wheel' 이라는 표현까지 나왔다고 볼 수 있답니다. 세 사람 옆에 어색하게 꼽사리 낀 네 번째 사람을 뜻해요!
+                                
 
 ## where
 * 지경에 이르러써요; It got to the point where i couldn't sleep at night
@@ -4716,6 +4778,10 @@
 ## win
 * 동사 win 은 이처럼 승리해서 상을 타듯 뭔가를 노력해서 '얻다, 쟁취하다' 라는 뜻으로 쓸 수 있답니다! 예문을 보면서 더 익혀보세요. ※ win over는 이전에 나를 지지하거나 신뢰하지 않았던 사람의 지지 또는 신뢰를 얻어내는 등 성공적으로 마음을 바꿨다는 어감이 좀 더 살아있는 표현입니다.
   * 그는 대중의 엄청난 지지를 얻었습니다. [ex] He has won huge public support.
+
+## window
+* : '창문 밖으로 나가다, 던져지다'라는 말 그대로의 뜻이 시사하듯, '사라지다', '아무 소용 없게 되어버리다' 라는 말이에요! 예문을 보면서 뉘앙스를 더 익혀보세요. [ 관용구 ] go (right) out the window
+  * 예술가로서 그 사람을 존경했었는데. 이젠 그런 존경 따위 다 사라졌지. I used to respect her as an artist. Now all that has went out the window.
 
 ## wind
  * 지금은 상처를 물에 닿지 않게 하렴     Keep the wound away from water for now 

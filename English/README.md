@@ -125,6 +125,10 @@
 * GEE https://m.blog.naver.com/PostList.nhn?blogId=blessgee
 * 꾸르꿀 https://m.post.naver.com/my.nhn?memberNo=43677109
 * 영어 약장수 https://m.blog.naver.com/PostList.nhn?blogId=pcmi4easy_english
+* YBM https://m.post.naver.com/my.nhn?memberNo=3503094
+* 지니샘 https://m.blog.naver.com/PostList.nhn?blogId=33yujin
+* 4EverYoung https://m.blog.naver.com/PostList.nhn?blogId=ireneyoung96
+* 영어놀이터 https://m.blog.naver.com/PostList.nhn?blogId=epg8307
 * 한국번역연구소 https://blog.naver.com/ktri8888
 * The Red https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 -----------------------------------------------------------------------------

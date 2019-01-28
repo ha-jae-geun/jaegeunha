@@ -2,6 +2,8 @@
 * out of 는 뜻이 다양한데요, 어떤 일의 동기, 원인을 나타내기도 합니다. 여기서도 후회(regret)에서 나온 것(out of) 이니까 ‘후회 때문에, 후회의 마음으로 인해’가 됩니다. 또 어떤 것들이 있을까요?
 	* out of /fear/cuiousity/interst/spie/respeect/ignorance/anger
 		* = 그는 회개의 심정으로 장애인들을 돕고 있다. He’s been helping handicapped people out of regret.
+		* headspace: 원래 이 표현은 어떤 병에 음료나 내용물이 없는 빈, 공기만 있는 공간을 의미했는데요, 근래 들어 사람의 정신 상태, 기분 또는 정신적 압박이 없는 자유로운 상태를 의미하는 표현으로도 자주 사용되기 시작했습니다.
+			* 기분이 좀 이상해. I'm in a strange headspace.
 * 감정 기복; 큰 감정 기복을 겪다; = be/ride on an emotional roller coaster; ex) She's been on an emotional roller coaster since she arrived.
 	* 감정 조절하다; There are some people who are sensitive and easily upset. They have to be careful in terms of adjusting and controlling their moods and feelings
 	* * 감전 기복; i'm tired of my mood swings
@@ -750,6 +752,7 @@
 	* #전조 #predictor = #bellwether
 	* #bewildered [biwíldǝr]
 * 처음엔 정말 #당황스러웠다. 		 At first I was embrasssed/overwhelmed/alarmed
+	* 비트코인 가격의 급속한 상승이 소위 비즈니스 전문가들을 당황시켰습니다. ex) The rapid increase in Bitcoin price has confounded so-called business experts. 누군가의 예상과는 다른 방식으로 혼란스럽고 놀라게 하는 것을 의미합니다. 보통 그 결과로 놀란 이들이 그 상황에 대처하지 못하게 하기 위해서요-
 	* 무언가를 이해할 수도, 왜 그런 건지 설명할 수도 없어서 당황스러울 때 쓰는 단어입니다. 비슷한 의미의 단어로 embarrass 가 있는데요. embarrass 는 '사람들이 많은 곳'에서 ''누군가의 행동 때문에 '부끄러워' 당황스러운 뉘앙스인 반면, baffle 은 혼자 있거나 다른 사람들과 함께 있거나 상관없이 '이해가 안 돼서' 당황스러운 것이라는 점에서 차이가 있습니다.
 	* to throw off: 뜬금 없음에 당황; The student's comment threw me off
 	* to catch off guard: 기대하지 못한 상황에 당황; The qeustion caught the president off guard
@@ -1681,6 +1684,8 @@ I am always overlooked(간과), never discount the contributions, put someone do
 	* 'our thoughts and prayers are with you'는 위로와 격려의 마음을 전하는 상투적인 표현입니다. 우리가 '심심한 위로를 전합니다'라는 말을 쓰는 것처럼요.
 		* [ex] Out thoughts and prayers are with all
 		* [ex] You are in my thoughts.; [ex] Our hearts/thoughts/prayers go out to you.
+	* : 안쓰러운 심정이나 위로를 전할 때 쓸 수 있는 말이에요! my heart goes out to
+		* 지진 피해를 입은 모든 분들께 위로의 말을 전합니다. My heart goes out to everyone affected by the earthquake.
 	* #달래다; #soothe, #calm, #comfort #placate
 	* [kən|sɪliətɔ:ri] #conciliatory; #회유하기 위한; a conciliatory approach/attitude/gesture/move 
 	* #구슬리다; [koʊks]; She #coaxed the horse into coming a little closer.
