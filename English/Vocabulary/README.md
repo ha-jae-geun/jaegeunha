@@ -344,6 +344,8 @@
 ## bone
 * 뼛속까지 추워. (정말 정말 추워.) [ex] I'm chilled to the bone.
   * 그는 정말 뼛속까지 아일랜드 사람이야. (제대로된 아일랜드 사람이야.) [ex] He's Irish to the bone.
+* 여기서처럼 stinking (고약한), fucking, freaking (빌어먹을), 등의 형용사로 guts를 꾸밀 수 있고요~ 반대로, love one's guts (완전히 좋아하다)라는 표현이 있는데, 이건 너무나 좋아해서 누군가를 속까지 좋아한다는 걸 나타내죠~^^ 비슷한 해부학적인 느낌(?)의 표현으로 love/ hate someone to the bone이라는 말도 있어요. 말 그대로 '뼛속까지 사랑한다/싫어한다'는 뜻!
+  * 배리가 내가 얼마나 그를 싫어하는지 몰라서 다행이라 생각해. I'm glad that Barry doesn't realize how I hate his guts.
 
 ## boat
  * 나는 기회를 놓쳤다.               I missed the boat.
@@ -1049,6 +1051,9 @@
 ## cross
 * 리스트에서 그건 뺴자; Crossing that one off the list; cross off: 줄을 그어 지우다.
 
+## credit
+* 외상으로 살 수 있을까요? Can I buy it on credit?
+
 ## creep
 * 소오름 ㅎㅎ 돋게 하는 걸 creep out 이라고 해요. creep 이라는 단어는 [살살 기다] 라는 뜻이 있는데요. 벌레가 피부 위에서 살살 기어다니면 오싹하고, 소름 돋는 느낌이 들잖아요? 그런 모습에서 비격식 표현으로 쓰이는 단어이고요. 형용사인 creepy [소름 돋는 굉장히 많이 쓰이기 때문에 함께 알아두세요~
   * 그 남자의 모습이 방 안에 있던 모든 사람들을 소름 돋게 했다. ex) The guy's look crept out everyone in the room.
@@ -1117,6 +1122,10 @@
 * # 깨끗; '티끌 하나 없이 아주 깨끗하다'고 할 때 (as) clean as a whistle이라는 표현을 사용합니다. 사람들이 호각 소리가 '맑고 깨끗하다'고 생각하여 그걸 비유해서 나타낸 표현이죠. 청각적인 이미지에서 비롯된 말이지만 시각적으로 깔끔하고 깨끗하거나 어떤 일이 말끔하게 처리되었다든지, 사람이 결백하다고 할 때도 사용한답니다!
   * 네 셔츠가 아주 말끔하구나. Your shirt is clean as a whistle.
 * a clean fight: 반칙이 없는 깨끗한 시합; 공정하게 하자; Let's make it clean
+
+## clinch
+* 'clinch sth'이라 하면, 무언가 결정적인 기여를 통해 '~을 성취/승리하도록 만들다'라는 뜻이 됩니다. 목적어에 들어가는 말에 따라 '결말짓다' '마무리짓다' '대승하다' '차지하다' 등 다양하게 해석할 수 있겠죠.
+  * 황 선수는 경기의 승리를 결정 짓는 골을 기록했다. [ex] Hwang scored the goal that clinched the game.
 
 ## climb
 * : (비격식 숙어) 꽉 막힌 것 같이 답답하다, 무기력하고 당혹스럽다 #climb the walls
@@ -1380,6 +1389,9 @@
 	* - cough drop: 기침 (멎게 하는) 캔디 (같은 약) (감기 걸렸을 때 이걸 찾는 사람들이 참 많습니다!)
 *  배려 1도 없어. Not a single drop.
 
+## exclaim
+* 'exclamation point(미국식)' 또는 'exclamation mark(영국식)'는 '느낌표'를 가리킵니다. exclamatory sentence = 감탄문
+
 ## egg
 * 오늘 기분이 좀 좋지 않네. I'm feeling a bit eggy today.
 
@@ -1484,6 +1496,8 @@
 
 ## face
 * 이거나 먹어라!; In your face
+* 주로 좋지 않은, 불편한 이야기를 당사자가 있는 상황에서 직접 대놓고 말하는 것을 가리킬 때 사용하는 표현이에요~ to one's face: 면전에서, 누군가가 있는 상황에서
+  * 나에 대해 뭔가 말하고 싶으면 내 앞에서 말해. If you want to say something about me, say it to my face.
 
 ## fault
 * 이 책은 잘못된 논리를 토대로 하고 있습니다. [ex] The book is based on faulty logic. fault는 잘못, 흠, 결점을 가리키는 명사죠. 이것을 형용사화한 표현이 faulty입니다~
@@ -1532,6 +1546,8 @@
 
 ## feature
 * 내가 특집기사가 될거라고 생각하는거야; You mean i'd make a great feature
+* 장편 영화를 feature film 이라고 합니다. 줄여서 feature 라고 하기도 하고요. 그래서 feature-length 는  주로 장편 영화 길이와 비슷한 길이를 의미할 때 feature-length 라고 해요. 형용사이기 때문에 명사와 함께 써야 하지만 영상에서는 뒤에 version 이 생략되었다고 생각하시면 됩니다. 영화 산업에서 많이 쓰이는 단어인데요. 단편 영화는 단순히 short film 이라고 합니다.
+                                
 
 ## full
 * 만개하다, 활짝 피다 be in #full #bloom, 싹이 트다: sprout
@@ -1815,6 +1831,8 @@
 ## gut
 * gut feeling (직감), gut reaction (본능적 반응)이라는 표현으로도 쓰이고요, 여기서처럼 go with somebody's gut이라면 (생각이나 도덕, 논리 등이 아닌) 본인의 직감에 따라 무엇을 선택한다는 뜻으로도 많이 써요!
   * 서울에 이사갈 생각을 했는데 본능적으로 그냥 사는 곳에 머물러야 함을 느꼈다. I thought of moving to Seoul, but my gut told me to stay where I live.
+* 여기서처럼 stinking (고약한), fucking, freaking (빌어먹을), 등의 형용사로 guts를 꾸밀 수 있고요~ 반대로, love one's guts (완전히 좋아하다)라는 표현이 있는데, 이건 너무나 좋아해서 누군가를 속까지 좋아한다는 걸 나타내죠~^^ 비슷한 해부학적인 느낌(?)의 표현으로 love/ hate someone to the bone이라는 말도 있어요. 말 그대로 '뼛속까지 사랑한다/싫어한다'는 뜻!
+  * 배리가 내가 얼마나 그를 싫어하는지 몰라서 다행이라 생각해. I'm glad that Barry doesn't realize how I hate his guts.
 
 ## guard
 * : 경계를 한 상태다/ 경계를 푼 상태다 - one's guard is up/ down 
@@ -2364,6 +2382,9 @@
 * 보석이 얼음처럼 투명해서 일까요? 이 표현은 다이아몬드처럼 반짝이는 것들로 휘황찬란하게 꾸민다는 뜻입니다. 영상에서는 수동형으로 써서 “그들이 휘황찬란하게 꾸며졌다”라고 했습니다. 
 	* = 팔에 그 시계 뭐야! 번쩍번쩍 하는데! (비싼 시계를 찬 사람을 보고 하는 말) Look at your wrist! It’s so iced out!
 
+## ingratiate
+* 존의 환심을 사기 위해 그런 행동은 하지 않겠어. ex) I'd never do that to ingratiate myself with John. = ingratiate oneself with
+
 ## invite
 * invite to~는 ‘로 초대하다’라는 뜻이지만 여기에 along이 붙으면 제안한 사람과 함께 가자고 초대한다는 의미가 됩니다. along이 주는 뉘앙스가 ‘함께, ~를 따라서’가 있기 때문입니다. 따라서 추후에 나올 부분 sing along도 ‘다른 사람들과 함께, 따라서 부르다’라는 의미가 됩니다. 
   * 제니도 너랑 같이 파티에 가자고 초대하는 건 어때? Why don’t you invite Jenny along to the party?
@@ -2764,6 +2785,9 @@
 ## market
 * 'off the market'은 임자있다는 비유적인 표현입니다. 비슷한 뜻으로, 'taken', 'in a relationship'도 자주 사용하죠^^?
 
+## man
+* a man's man은 직역하자면 '남자의 남자'로, 남자들이 좋아하는 이미지를 지니고 있는 남자를 가리킵니다. 일반적으로 말하는 '남자다움'을 가지고 있어 남자들 사이에서 인기가 많은 사람을 뜻하죠. 반면 ladies' man, a man's woman이라는 표현은 각각 여자들에게 인기 많은 남자 (혹은 여자들이랑 잘 어울려 다니는 남자), 남자들에게 인기 많은 여자를 가리키는 표현입니다.
+
 ## manner
 *  떤 면으로 보면 이 모든 관점들이 관련이 있다.
  All these points of view are related, in a manner of speaking. 
@@ -3060,6 +3084,10 @@
  * 그렇게 일정을 잡아 둘게요.         I'll pencil it in. Let me pencil it in.
 
 
+## percent
+*  원래는 give a hundred percent라고 하지만 본인의 100% 최선, 그 이상을 노력했음을 강조해서 나타내기 위해 110% 또는 100% 이상의 랜덤한 수치를 넣어 사용하게 되었지요~
+  * 최선을 다했어요. 하나도 후회하지 않습니다. I gave my hundred percent. I don't regret a thing.
+
 ## per
 * 일일 경비 a per diem allowance 
 
@@ -3334,6 +3362,9 @@
 * - miss one's point : 의 요점, 주장을 놓치다
 * - get to the point : 본론, 핵심으로 들어가다
 * 핵심; the point is; 본론으로 가다; get to the point; 요지, 주장을 알겠따; see one's point; 요점을 파악 못하다; miss one's point
+* 삶에 대해 이야기할 때 'high points' 란 아주 행복하고 기뻤던 순간들을 뜻해요. 어떤 경험에 대해 이야기할 땐 가장 신나고 즐거웠던 순간을 뜻하기도 합니다.
+  * 그게 우리 여행의 하이라이트였어 그게 우리 여행의 하이라이트였어.
+
 
 ## press
 * 1) 영상 초반부에도 자주 나온 표현인데요. press into 는 [배치하다] 라는 뜻이 있습니다. press 가 [누르다] 라는 뜻이 있으니, 상대방이 원하든 원하지 않든 어딘가에 눌러 집어 넣는다는 느낌의 표현이구요. 2) service 와 함께 쓰이게 되면, 어떤 특정한  역할을 하도록 강제로 동원하고, 이용할 때 쓰는 표현입니다.
@@ -4125,6 +4156,10 @@
 
 ## slouch
 * #slouch 1. 모을 #구부정하다 ; #똑바로 #앉아; don't slouch 2. #무능한사람;; he's no sloutch
+
+## slash
+* 2. slash (쓸 때는 '/'로 쓰고 발음은 '슬래쉬): and, or, also 등을 의미하는 기호로, 한 사람의 직업을 나열할 때, 어떤 일렬의 비슷한 사람들을 열거할 때, 등 다양한 경우에 사용할 수 있습니다. 말로 할 경우 slash라고 하는 건 and나 or를 사용하는 것보다 더 비격식적인 표현입니다.
+  * 맨디 무어는 가수이자 배우다. [ex] Mandy Moore is a singer slash actor.
 
 ## slack
 * 요즘 일거리가 뜸해졌어요. Business has slacked off lately.
@@ -4968,6 +5003,9 @@
 * whip 이 계란이나 거품을 내기 위해서 빠르게 [휘젓다] 를 의미하는데요. 그렇게 휙휙 휘저어서 무언가를 만들어내는 모습의 비격식 표현이에요. 특히나 식사 같은 것을 빨리 만들어 낼 때 자주 쓰이는 단어입니다. 1) whip up something / whip something up = ~을 만들다.
   * 토스트랑 계란 금방 만들어 줄게. ex) I will whip up some toast and egg for you.
 
+## wish
+* # 어림없다; 어림없는 소리하네. B: Don't you wish.
+
 ## wimp
 * 약골 wimp
 * 자기야,나 내빼지 않았어.       ‘hʌni wɪmp Honey, I did not wimp out.
@@ -5026,6 +5064,10 @@
 ## wear
 * 목적어 없이 자동사로 쓰일 때는 [~이 마모되다, 닳아 헤지다], 그리고 2) 목적어와 함께 쓰일 때는 무언가를 많이 써서 [닳게 하다/마모시키다] 라는 의미를 가져요. 영상에서처럼 사람을 목적어로 가질 때에는 그 사람을 정말 [지치게 하다/소모시키다] 라는 의미를 가집니다.
   * 그 일 후에 완전히 녹초가 된 기분이야. ex) I feel completely worn out after the incident.
+
+### wear on
+* 날이 지나갈 수록 난 그 직업에 대해 자신감이 없어졌어. I felt less confident about the job as the day wore on.
+* 저녁이 깊어가면서 두통이 악화됐어. My headache grew worse as the evening went by.
 
 ## weigh
 * 사물의 무게를 물어볼 때 How heavy is it?라고 묻는 것은 괜찮지만 사람에게 How heavy are you?라고 하지 않는 것이 좋습니다. 예의에 어긋나게 들릴 수도 있거든요. 그 대신 How much do you weigh? What is your weight? 라고 해야 합니다. 물론 민감한 주제일 수도 있으니 웬만해선 몸무게를 묻지 않는 것이 낫겠죠?

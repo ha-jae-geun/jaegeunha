@@ -464,8 +464,9 @@ I have a big crush on you / I have a thing for you, i'm into you
  * 혼전 합의서; prenup prí:nʌp]; Doing a prenup forces the couple to have a conversationl pre prenup: 동거, 연애 할 때 만드는 합의서
  	* i don't wanna sing a prenup
  * #혼전 순결 #platonic love
- * 결혼을 하지 않는, 순결을 지키는; #celibate
- * 순결을 #더럽히다; #defile
+	 * 결혼을 하지 않는, 순결을 지키는; #celibate
+	 * 순결을 #더럽히다; #defile
+	 * 비슷한 표현으로 chastity가 있는데 성적 금욕 또는 순결을 의미합니다. take a vow of chastity는 '순결서약을 하다'는 뜻으로 종교적 의미에서 자주 사용됩니다. [ˈtʃæstəti]
  * #촉수 변태 #tentacle #hentai
  	* 그는 변태적인 속옷을 입고 있었다. He was wearing kinky underwear.
  * #오르가즘; get #rocks off

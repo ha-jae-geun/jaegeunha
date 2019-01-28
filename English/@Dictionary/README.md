@@ -15,6 +15,8 @@
 * be in line for  : 을 받을 가능성이 크다; be in line은 '줄 서다'라는 뜻도 있어요. 줄서서 뭔가 받으려고 기다리는 모습을 연상하시면 기억이 잘 나겠죠?
 	* 승진후보로 제리가 유력하대. I hear Jerry is in line for promotion.
   * There is a good chance
+  * # 가망; stand a chance: (성공 또는 생존 등)의 가망이 있다.
+    * 그가 올해 그래미상을 수상할 가망성이 없다고 봐. 그가 올해 그래미상을 수상할 가망성이 없다고 봐.ㄴㄴ
   * 가능할 것 같아; i think i could swing that; swing: 잘 해내다
   * 낮은 가능성, #무리수                                                                     #long shot = #fat/#slim chance
   * 우승할 가능성                                                                                            #The championship window
@@ -657,6 +659,7 @@
 # 고민
 * 무슨 고민 있으세요? What's eating you?
 * 고민중이야; i'm trying to figure out
+  * 난 다른 사람들의 반응을 너무 깊이 생각해. I tend to overthink other people's reaction.
   * 두 가지 선택사항 중에 어느 것을 골라야 할 지 모르겠는 상태에 처한 것을 'torn (between)'이라고 표현한답니다. "I'm torn"은 "진짜 고민 돼", "어떡할지 진짜 모르겠어", "못 고르겠어" 이런 뜻입니다.
   * i'm trying to decide whether or not
   * i'll think about it
@@ -1670,6 +1673,8 @@
 # 노력하다
 * ‘힘을 쓰다, 힘줘서 쎄게 하다, 노력을 기울이다’를 의미합니다. 고정표현이니 통으로 외워주세요. muscle 은 ‘근육’ 뿐만아니라 ‘힘, 근력’을 말하기도 합니다.  put some muscle into it = 힘 좀 쓰다
   * : ~ 기 위해 엄청난 # 공을 들이다 take great pains to + 동사원형
+  * an A for effort : 결과는 좋지 않지만 노력은 가상할 때 쓸 수 있는 표현이에요!
+    * 그래도 노력은 높이 살게. But I'll give you an A for effort.
   * 어서! 힘 좀 써봐.  Come on! Put some muscle into it. 
   * : 하기 위해 굉장히 애를 쓰다/고생하다/고생도 마다하지 않다 go to great lengths to + 동사
     * 사람들은 SNS에서 행복해보이기 위해 굉장히 애를 쓴다. (또는 '별 짓을 다한다') People go to great lengths to look happy on social media.
@@ -2090,6 +2095,7 @@
  * #보조 배터리              External battery, #auxilary batter
  * #조력자; The teacher acts as a #facilitator of learning. 교사는 학습을 도와주는 역할을 한다.
  * # 구제 # 도움 # 도와 # 돕다 | # 소용 | # 자선 # 기부 | # 보조 # 봉사
+* # 어림없다; 어림없는 소리하네. B: Don't you wish.
 
 # 도입
 * 새로운 규제방안은 향후 2년에 걸쳐 단계적으로 도입될 것이다. The new regulations will be phased in over the next two years.
@@ -3369,6 +3375,8 @@
  * 잘 받아들였어요                  He took it well
  * 더 이상 저항하지 말고 받아들여요    Stop trying to fight it and just embrace it 
  * # 인정합시다 Let's #face it
+ * 'come clean'은 informal(비격식)하게 '# 털어놓다' '아무것도 숨기지 않다' '# 실토하다' 같은 의미를 표현하는 말입니다.
+  * 은행은 결국 자신들이 실수했다는 것을 인정하고 실토했다. [ex] The bank eventually came clean and admitted they had made a mistake.
  * ##acknowledge = #admit
  * #give recognition to; #recognition
  * ☆#own up to; you don't want to own up to it
@@ -4240,7 +4248,8 @@ retaliate
 * yellow; 겁이 많은 2. 사랑하는 사대를 향한 아름다움(콜드플레이 - Yellow
 * 누가 나의 우울함에서 살아을 찾는걸까? Whho tripped the red wire out of the blue? red: 사랑
 * 'the boys in blue'는 경찰을 재밌게 표현하는 방식이랍니다. 푸른 제복 때문일텐데요~ 이처럼 'blue'가 경찰의 상징으로 사용되는 경우가 종종 있습니다. "Black lives matter"가 피부색 때문에 과잉진압되는 흑인들을 위한 구호라면, "Blue lives matter"는 경찰이 스스로를 보호할 권리를 보장하라는 구호랍니다.
-                                
+* : '회색 지대, 애매한 영역'을 뜻해요! 흑백 논리로 나눌 수 없는 애매한 중간이라 생각하면 기억하기 쉽겠죠?
+    * 회색 지대는 항상 있기 마련이야. There's always a grey area.                           
 
 # 생각
 * ‘속으로 생각하다’를 영어로 어떻게 말할까요? 많은 분들이 think inside my mind라고 하는 경우가 있는데요, 이건 원어민들이 의미는 대강 유추할지 몰라도 너무 한국어스럽게 번역한 말이라 매우 어색하다고 느낄거에요.  바로 「think to oneself」가 ‘속으로 생각하다’입니다. to oneself는 ‘혼자서’란 뜻으로 혼자서 생각했다는 거니까 마음속으로 생각한다는 것과 같은 말입니다. 같은 원리로 talk to oneself는 ‘혼잣말하다, 독백하다’를 의미합니다. 
@@ -4906,6 +4915,7 @@ retaliate
  * 틀렸다 wrong -> Really?/ Are you sure?, I heard that, I though that,
  * -> I think you might be mistaken, to #go south(#south)
  * 완전히 틀렸어             You couldn’t be more wrong
+ * 직역하면 "제가 틀렸으면 정정해주세요"인데요, 우리말로 치면 "제가 잘못 알았을 수도 있는데"와 비슷한 어감이라고 볼 수 있겠네요. 무슨 말을 하려는데 100% 확실치 않을 때 쓰는 표현이고요, 진짜로 정정해달라는 뜻으로 쓸 때도 있고, 예의상 하는 말이기도 해요. 특히, 다른 사람의 의견에 반대할 때 공손함을 더하기 위해 관용적으로 쓴답니다! "Correct me if I'm wrong, but + [내가 하고싶은 말]" 요 패턴으로 쓰시면 됩니다.
  * 틀리면 말해줘              Correct me if I“m wrong
  * 틀린 말은 아니지만          Neither of those things are necessarily untrue
  * 실수가 있다면               mistakes are spotted
@@ -5092,7 +5102,8 @@ retaliate
 * 괴상하고 어중간산 상태였어요; i was in this weird limbo zone
   * 모호한 개념 a nebulous concept [ˈnebjələs]
   * 애매한; borderline; borderline human; In borderline cases
-
+  * : '회색 지대, 애매한 영역'을 뜻해요! 흑백 논리로 나눌 수 없는 애매한 중간이라 생각하면 기억하기 쉽겠죠?
+    * 회색 지대는 항상 있기 마련이야. There's always a grey area.
 
 # 액체
 * 본인의 의지와는 상관없이 액체나 소리, 말 등이 세차게 흘러나올 때, 솟구쳐 나올 때 쓰는 단어입니다. 영상에서도 기름을 막으려 해도 콸콸 나왔기 때문에 이 단어를 썼어요. 명사로도 쓰이는 단어입니다.
@@ -5284,6 +5295,7 @@ retaliate
 # 영향
 * a sphere of influence = 영향권; sphere 는 원래 동그란 모양의 [구] 또는 구처럼 무언가를 둘러싸고 있는 [영역] 을 의미하는데요. a sphere of influence 는 [영향권] 을 의미하며 sphere 라는 단어가 가장 흔하게 쓰이는 표현 중에 하나입니다. 통째로 숙지해 두시길 바라고요.
   * = 많은 단체들이 세력권을 위해 다투고 있습니다. Plenty of groups are fighting for spheres of influence.
+  * 제임스한테 도움을 요청해보는 게 어때? 그는 거기에 손 쓸 만한 영향력이 있어. ex) Why don't you ask James for help? He has the clout to do something about it. 비격식 표현으로 특히나 정치나 사업에서의 영향력을 의미합니다.  [klaʊt]
 * a ton of 은 무언가가 [굉장히 많은] 을 의미하는 비격식 표현인데요. 실제로 벽돌 (brick) 이 1톤 정도 자기 주변에 있다고 생각하면 아주 무겁고 답답하고, 힘들고 그럴 거예요. 그래서 la ton of bricks 는 [갑작스럽고 중요한 영향] 정도로 해석이 됩니다. 영상에서는 동사 [go over = 특정한 반응을 이끌어내다] 와 함께 쓰여서 직역하면 [용돈을 줄인 건 엄청난 영향을 이끌어냈다] 정도로 해석이 되지만 의역하여 [딸은 충격에 휩싸였죠] 로 해석이 되었습니다.
 	* 그 진실이 내겐 큰 충격으로 다가왔다. ex) The truth hit me like a ton of bricks.
 * =[ 숙어 ] rub off on somebody : (다른 사람의 특징, 습관, 견해 등이) 에게 옮다, 물들다, 영향을 주다
@@ -5393,6 +5405,8 @@ retaliate
 2. loner는 혼자 있기를 좋아하는 사람으로 outcast가 사회적인 규범에 따라 본인의 의지와는 상관 없이 혼자가 된 사람을 가리킨다면 loner는 자발적으로 혼자가 된 사람을 의미해요. 이들은 굳이 다른 사람들과 엮여 드는 걸 원치 않는답니다.
 *  #따돌림; People with the disease were often treated as social #outcasts. 
 * 자기 의견을 밝혔다고 해서 특정 한 사람을 왕따시키는 건 공정하지 못하다. It's not fair to blackball one particular person for voicing his opinion. 어떤 그룹에 누군가를 받아들일지 투표하는 과정에서 '검은 공'을 던져 반대한 것에서 유래했다고 해요. 어떤 단체나 사회에서 누군가를 배척하고, 따돌린다는 의미입니다. 
+* inept은 ‘서투른, 미숙한’이란 의미여서 socially inept라고 하면 ‘사회성이 부족한, 사회 생활이 미숙한, 사회적으로 서툰’이라고 해석할 수 있습니다. : 사회 부적응의, 사회생활이 미숙한’
+      * 그는 서투른 상황 처리로 비난을 받았다. He was criticized for his inept handling of the situation.  [ɪˈnept] 
 
 # 오래
 * # 늙은, # 노후한, # 노쇠한; #decrepit
@@ -5940,6 +5954,8 @@ retaliate
 * 그들이 # 우세하게 될거야; They will come out on top
 * : (경기 등에서) 를 납작하게 누르다, 완패시키다  [wipe the floor with]
   * 난 너를 5초 안에 납작하게 해줄 수 있어. 난 너를 5초 안에 납작하게 해줄 수 있어.
+* 'clinch sth'이라 하면, 무언가 결정적인 기여를 통해 '~을 성취/승리하도록 만들다'라는 뜻이 됩니다. 목적어에 들어가는 말에 따라 '결말짓다' '마무리짓다' '대승하다' '차지하다' 등 다양하게 해석할 수 있겠죠.
+  * 황 선수는 경기의 승리를 결정 짓는 골을 기록했다. [ex] Hwang scored the goal that clinched the game.
 
 # 이끌다
 * initiative는 '계획'이라는 뜻으로 많이 쓰이지만 앞에 the를 붙여서 the initiative라고 쓸 경우 '주도권'을 의미하는데 많이 쓰이기도 합니다. 다양한 동사와 함께 쓰이는데요. [gain/seize/lose the initiative = 주도권을 얻다/잡다/잃다] 쓰이니 함께 알아두세요!
@@ -5962,6 +5978,8 @@ retaliate
 
 # 이름
 * 이름 잘 못외워요              I'm terrible with names
+  * 직업이나 그 사람의 특징을 가볍게 호칭으로 부를 때 사용하는 방법입니다. 유머나 친근감으로 이런 표현을 사용합니다. 이런 방식을 활용해 예명을 짓는 가수도 있죠~ 'Tyler, the creator'처럼요.
+    * 너 가수 맨디 기억나지? You remember Mandy the singer, right?
   * 이름에 a: Is there a Michale here?  I think he looks like a Tom; Yes i know a Michael
     * 아니 그 마이클 말고 폴란드에서 온 마이클; the Michael from Poland
   * * take on your partner’s surname = 배우자의 성을 따르다 take on 은 다양한 뜻으로 쓰이기 때문에 문맥을 보고 이해해야 합니다. 여기서는 ‘취하다, 떠맡다, 받아들이다’를 뜻하는데, on 없이 take 만 써도 됩니다.  참고로 결혼하기 전의 성씨, 즉 자신이 원래 갖고 있던 성씨를 (한국의 경우에는 대부분 아버지의 성씨겠죠) 영어로 a maiden name 이라고 합니다.
@@ -6526,6 +6544,12 @@ retaliate
 # 정리
 * 너희들 상황 다 정리 했어? Did you guys get everything straightened out?
 
+# 정면
+* head on은 '정면에 놓인/정면으로'라는 뜻으로 머리를 정면으로 계속 향한다는 의미로 동사 meet/face 등과 함께 쓰여  어떤 일에 피하지 않고 정면으로 마주해 해결하고 처리하겠다는 의미로 쓰입니다.
+  * : 정면으로 마주하다/다루다 meet something head on
+  * : 정면으로 마주하다/맞서다 face something head on
+    * 당장에 놓인 사안(정면에 놓인 사안)에 대해서 다뤄봅시다. Let's meet the issue head-on.
+
 # 정보
 * 'get the memo'는 표면적으로는 '정보를 전달받다'라는 의미이지만, informal(비격식)한 상황에서 '일이 돌아가는 형편을 인식하다'라는 말로 자주 사용된답니다. 부정형으로 써서, 사람들이 다 알고 있는 상황을 "잘 몰랐을 때"를 표현하곤 하죠^^
   * 기름값이 어떤지 못 들었어? [ex] Didn't you get the memo about gasoline prices?
@@ -6617,6 +6641,8 @@ retaliate
 * acclimation은 '새 환경에 대한 순응, 적응'이라는 뜻입니다.
 	* dry age : 건조 숙성하다.
     * 파마산 치즈는 적어도 10달은 숙성되어야 한다. ex) Parmesan cheese must be aged for at least 10 months.
+    * inept은 ‘서투른, 미숙한’이란 의미여서 socially inept라고 하면 ‘사회성이 부족한, 사회 생활이 미숙한, 사회적으로 서툰’이라고 해석할 수 있습니다. : 사회 부적응의, 사회생활이 미숙한’
+      * 그는 서투른 상황 처리로 비난을 받았다. He was criticized for his inept handling of the situation.  [ɪˈnept] 
   * 1) 여기서 'roll with something'은 어떤 일에 크게 저항하거나 당황하지 않고, 그냥 자연스럽게 함께 굴러가는 이미지예요. 특히 예상치 못한 상황, 어려운 상황이 벌어졌을 때 상황이 흘러가는 대로 따라가는 자세를 말합니다.
     * 직업을 잃는다는 건 매우 힘들었지만 힘든 상황에 적응하려고 노력중이야. Losing my job was very tough but I’m trying to roll with the punches. [roll with the punches]
   * 우리 가족은 최근 몇 년 어려운 시기를 보냈는데, 긍정적인 신호들을 보기 시작했어요. ex) Our family's had a few bumpy years recently, but we are starting to see positive signs.  [æ̀kləméiʃən,-lai-] 
@@ -7458,6 +7484,7 @@ retaliate
 * 원래는 [hold 사람 accountable for] 의 패턴으로 쓰여서 [~에게 ~의 책임을 지우다] 라는 의미로 쓰이지만, 영상에서처럼 수동태로도 자주 쓰여요. responsible 이랑 비슷한 단어인 [책임이 있는] 이란 의미의 accountable 은 무언가가 잘못되었을 때 자신의 행동에 대해 "설명을 제공해야 하는" 의무를 포함하는 책임입니다. 그래서 무언가를 "끝내야" 하는 responsible 과는 조금은 다릅니다.
 	* 너 자신의 행동에 책임을 져야만 해.  ex) You should be accountable for your own actions.
 * # 담당; 연극이나 영화 등에 쓰이는 소품을 prop 이라고 합니다. 영상에서처럼 [소품 담당하는 사람] 를 의미하기 위해 prop guy 라고 하지만, 그냥 [소품] 이라고 할 때는 주로 복수형인 props 라고 합니다.  '담당하는 사람' 라고 할 땐 IT guy, marketing guy, accounting guy, ticket guy 등으로 캐주얼하게 표현할 수 있어요.
+  * take care of/ be in charge of
 
 
 # 챙기다
@@ -8121,6 +8148,11 @@ retaliate
 # 하락
 * 하락세이다; be going south
 
+# 하이라이트
+* 삶에 대해 이야기할 때 'high points' 란 아주 행복하고 기뻤던 순간들을 뜻해요. 어떤 경험에 대해 이야기할 땐 가장 신나고 즐거웠던 순간을 뜻하기도 합니다.
+  * 그게 우리 여행의 하이라이트였어 그게 우리 여행의 하이라이트였어.
+                                
+
 # 하찮은
 * [가장자리], 또는 주류에 포함되지 않는 [주변] 을 margin 이라고 합니다. 이 단어의 형용사형인 marginal 입니다.
 	* 이 변화가 지금은 별 거 아닌 것처럼 보일 수도 있지만, 나중에 우리에게 큰 도움이 될거야. ex) This change may look marginal for now, but I'm sure it will help us a lot later.
@@ -8490,6 +8522,8 @@ retaliate
 * 보통은 [굉장히 질책하다]의 의미인 give someone a tongue-lashing 또는 [굉장히 질책 받다]인 get a tongue-lashing 이라고 쓰는 게 일반적인데요. 영상에서는 그냥 앞 부분 없이 썼어요. 상대방의 잘못된 행동에 대해서 화나서 소리 지르며 뭐라고 하는 것을 의미합니다.
   * = 우리가 패배자처럼 경기를 한 후에 감독은 우리를 엄청나게 심하게 꾸짖었다. The coach gave us a severe tongue-lashing after we played like losers.
   * 혼나다; you seem #ticked off #scolded
+* ※ 'come down on sb'도 비슷하게 '[누구]를 몹시 나무라다, 벌하다'라는 의미지만, 'tell sb off'와 달리 언어적인 것에 국한되지 않습니다.
+  * 너를 너무 심하게 나무라지 않었야 돼. [ex] I shouldn't have come down on you so hard.
 
 # 혼란
 * 혼란; fall into confusion[disorder]; onfusion, chaos, mess; (소란) commotion; (무질서) disorder, [형용사] confused, chaotic, mixed up; be in a state of confusion
@@ -8562,6 +8596,7 @@ retaliate
   * 똥좀 싸고; take a dump
   * : 직역하면 '바람을 내보내다' 로, '방귀 뀌다' 를 완곡하게 말한 표현이에요.
     * 너 지금 방귀 뀐 거야? Did you just pass wind?
+      * 방귀: flatulate, fart (이 표현도 flatulate는 좀  더 차린 말 같고 fart를 일반적으로 사용해요.  역시 직접적인 표현이라 break wind처럼 우회적이고 유머러스한 말로 대체하기도 하죠~^^) 
   * 변기시트 열어둘떄 싷어요; i don't like when pelople eave the toilet seats up
 * 욕조를 닦자; Wash that tub
   * 족욕; foot bath

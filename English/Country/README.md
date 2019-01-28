@@ -1,4 +1,7 @@
-
+# 나라
+* "Wales -&gt; Welsh"처럼 원형을 찾기 힘들 정도로, 혹은 비규칙적으로 변화하는 경우를 살펴보도록 해요~ (여러분을 위해 딱 10개만 추렸어요^^)
+* Switzerland(스위스) - Swiss  Scotland(스코틀랜드) - Scottish  Poland(폴란드) - Polish  Thailand(태국) - Thai  Iran(이란) - Iranian/Persian/Irani  Ireland(아일랜드) - Irish  Norway(노르웨이) - Norwegian  Portugal(포르투갈) - Portuguese  Sweden(스웨덴) - Swedish/Swede(Swede는 사람만 지칭)  Finland(핀란드) - Finnish
+                                
 
 # 문화
 * 문화를 흡수하고 싶다면; If you want to imbibe a culture
