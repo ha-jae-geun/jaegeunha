@@ -387,6 +387,7 @@
 * #jury duty; #duty
 * 판사가 배심원들에게 #무죄 평결을 내리라고 지시했다		 .direct (격식) 
   * #acquit, #release, #discharge - 무죄 선고하다 
+  * = 그 수사는 그가 혐의들로부터 무죄임을 밝혔다. The investigation exonerated him from any charges. 1) 한글 뜻만 보면 뉴스 등에서 꽤 많이 쓰일 것 같은데, 영어로는 거의 접하지 못하는 단어입니다. 발음은  [ɪɡˈzɒnəreɪt] - 이그저너레이트 정도로 발음이 됩니다.
   * The jury #acquitted him of murder.TTS 배심원단이 그의 살인 혐의에 대해 무죄를 선언했다.
   * 지시[명령]하다: The judge directed the jury to return a verdict of not guilty.
   * 무죄라고 추정을 해 둘게 #give someone a benefit of the doubt(#benefit)
@@ -469,6 +470,8 @@
 * #1급 살인 first degree murder, #second degree murder
 * #과실치사 #manslaughter 인지: #voluntary manslaughter 비인지: #involuntary manslaughter
 * 형 집행이 유예된 살인범						 a reprieved murderer
+  * 일정 기간 범죄를 저지르지 않으면 형을 집행하지 않게 해주는 걸 집행유예라고 하죠. 무언가를 확실히 하기 전에 임시로 기간을 주는 걸 probation 이라고 하는데요. 학교에서의 '근신 기간', 법률에서의 '보호 관찰', 직장에서의 '수습 기간' 또한 이 단어를 씁니다.
+    * = 그는 12개월 집행유예를 선고받았다. He's been sentenced to a 12-month probation.
 * ☆#homicide; be convicted of homicide 정당한 살인 + 그냥 살인 #murder: 범죄로서의 살인
 * 1. 살인 2. #반칙; #foul play
 * #청부 살인업자 #cleaner = #hitman

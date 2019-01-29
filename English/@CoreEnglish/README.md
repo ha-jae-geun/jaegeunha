@@ -44,7 +44,8 @@
 * orange; or 발음 + 인ge,  Strawberry; 스트로 입술울 모으지 않은 상태에서 '스트로' + bear + 이 
 
 # 기타
-* camaraderie 미국식 [ˌkɑːməˈrɑːdəri] 
+* help; 헤-얼프
+* camaraderie 미국식 [ˌkɑːməˈrɑːdəri]; calm: 입 크게 벌리고 컴; come: 작게 동그랗게 
 * absolutely; 앱 쏘(ㅓ)뤁  (을)리;  definitely; deaf + in  + neat + 리
 * caffein; 캐피-인;  january; Janu + air + 이; 우크라이나: Ukrainian 미국식 [ju:kréiniən,ju:-kráin-] 
 * unwind[언윈드](X)가 아니라 unwind[언와인ㄷ] (O)입니다.

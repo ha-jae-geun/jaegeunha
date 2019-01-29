@@ -4,6 +4,10 @@
 		* 너무 속이 상해서 잠시 얼굴을 손에 묻고 울었다.  I was so upset; I put my head in my hands and cried for a while.
 	* 그는 머리를 손에 파묻고서는 조금 흐느꼈어. With his head in his hands, he sobbed a little.
 * 정전기 피할수 있죠? How can i avoid static electricity
+* # 닮다; 1. 신체부위를 묘사하는데, 다른 생물체나 물체의 신체부위와 닮았을 때는 요 형태를 활용해보세요!
+	* [ have the 신체부위 of a 생물체 ]
+	* 난 손이 애기 손이야.[ex] I have the hands of a toddler.
+	* 내 다리는 웰시코기 다리 같아. [ex] I have the legs of a corgi.  [ˈkɔːrɡi]
 
 
 # 머리
@@ -603,6 +607,8 @@ His sudden smile made her go #weak at the knees. ; 2. 약한
 * #사타구니	#groin
 * ##엉덩이	hip(허리꼐 허리 옆 골반), butt, booty, 'bʌtək buttock
 	* 골반이라고 하면 엉덩이부터 떠오르는데요. 엉덩이부터 척추와 양쪽 다리를 이어주는 큰 골격을 골반, 영어로는 pelvis 라고 합니다. 그 주변 부위를 pelvic region 이라고 하는데요. 영상에서처럼 배꼽에서 한 뼘 정도 내려간 부위를 의미해요.
+	* fanny는 엉덩이란 뜻이고 엉덩이 주변에 차는 가방이라서 fanny pack이라고 부릅니다. 엉덩이의 또 다른 단어인 bum을 사용하여 bum bag이라고도 합니다. 
+		* 힙색 앞으로 차지 마. 이상해 보여. Don’t wear your bum bag on the front. It looks weird. 
 	* cheek은 얼굴에 있는 볼, 뺨을 의미하기도 하지만 엉덩이 살 있는 부위를 뜻하기도 해요. 비격식 표현이지요. '볼(cheek)'과 헷갈리지 안헤 butt cheek라고 명확히 말해도 돼요. 여기서 crack 또는 butt crack을 엉덩이 골이라고 하는데요, 반면 우리가 파인 옷 밖으로 드러나는 (여성의) 가슴골은 뭐라고 할까요? 이는 cleavage(클리비지)라고 한답니다~ 같은 몸의 골이라도 표현하는 단어는 다르죠?
 	* 짱구 엉덩이 내미는 것; Why did you moon them?; Mooning can be very offensive
 	* junk in the trunk = 엉덩이에 살이 두둑히 찐; I like a curvy woman, one with a little junk in the trunk.

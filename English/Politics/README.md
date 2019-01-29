@@ -32,6 +32,9 @@ The best-selling classic of politics is Machiavelli's monarchy.
 	* 사회가 점점 국제화가 되어가고 있기 때문에, 우리는 포용 정책이 그 어느 때보다 필요하다. As society is becoming more and more internationalized, we need inclusivity more than ever.
 
 ## Election
+* 보통 개를 묶는 목줄을 leash라고 합니다. 뭔가를 제어하고 나아가지 못하게 한다는 뜻을 가지고 있죠. 그의 반의어인 unleash는 ‘강한 힘, 감정, 활동 등을 갑자기 개시하다, 퍼뜨리다’를 의미합니다. 그래서 unleash all these efforts를 우리말로 자연스럽게 하면 ‘노력을 전개하다, 노력을 퍼뜨리다’라고 할 수 있습니다.  그리고 electorate은 한 나라의 전체 유권자를 의미합니다. 
+	* 공공장소에서는 강아지를 풀어놓지 말아라. Don’t unleash your dogs in public areas.
+	* 지난 선거에 오직 유권자의 60%만 투표를 하였다. Only 60% of the electorate voted in the last election. [ɪˈlektərət] 
 * win the election
 * 미결정 투표자; undecided voter -> swing voter / floating voter; 경합주: swing states
 * i vote for

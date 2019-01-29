@@ -44,10 +44,11 @@
 * 장난꾸러기, 놈당꾼; jokester; whos the joester out of the group
 * 아이들의 말투; 작은; teeny-tiny / teeny-weeny
 * 사춘기 이전; prepubescent 미국·영국 [prì:pju:bésnt];  Jimmy had a prepubescent daughter,
-* #adolescence, #teens, #youth - 청소년기
-* emo; 질풍노도 시기에 있는 민감한 아이를 이르는 말
-* 구금되어 있는 청소년 							 the youths in detention
-* #사춘기 왔다 I #hit ##puberty [pjúːbǝrti]
+	* #adolescence, #teens, #youth - 청소년기
+	* 또, 사춘기 시절을 awkward phase(직역: 어설픈/어색한 시기)라고 표현하기도 해요. 아직 정체성, 가치관, 취향 등이 자리 잡기 전이고 사회성도 좀 부족하기도 한 시기라 이렇게 부른답니다. 참고로 이 영상의 영어 제목이 Spider-Man Is Going Through An Awkward Phase(스파이더맨이 어설픈 시기를 겪고 있다)랍니다. 그래서 스파이더맨이 변성기를 연상시키는 이상한 목소리로 말하죠. ㅋㅋㅋ
+	* emo; 질풍노도 시기에 있는 민감한 아이를 이르는 말
+	* 구금되어 있는 청소년 							 the youths in detention
+	* #사춘기 왔다 I #hit ##puberty [pjúːbǝrti]
 * ##소년 ##chico(스페인어)
 * 십대가 되다: reach/enter one’s teens
 * 매력적인 10대 초반 애들을 봤어; I noticed some lovely #tweens down by the kid's club

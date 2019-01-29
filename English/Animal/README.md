@@ -1,6 +1,9 @@
 # 동물 속담
 * 큰일 났따; Goose is cooked
 
+# 호칭
+* 우리말에도 개, 강아지를 ‘견(犬)’으로 표현하듯이 영어에도 동물을 의미하는 격식표현이 있습니다. feline [ˈfiːlaɪn] (고양이)외에 canine [ˈkeɪnaɪn]  (=dog) 개, ˈeɪviən] avian (=bird) 새, bovine  [ˈboʊ-]  영국식 [ˈbəʊvaɪn]  (=cattle) 소 등이 그것입니다. 워낙 종류도 많고 어렵기 때문에 다 아실 필요는 없고, 여기 주어진 예문 정도만 알아둬도 됩니다.
+
 # 동물
 * i like crabs; 개수를 세지 않는 경우를 제외하고 복수로 말하면 성병읳 ㅏㄴ 종류
 * i love dogs; 개를 좋아하다; i love dog: 개고기; a dog, dogs: 개; dog: 개고기
@@ -15,7 +18,7 @@
   * 흰 비둘기는 평화의 상징이다. A white dove is a symbol of peace.
 * doe 는 사슴, 토끼 등의 암컷을 말합니다. 그런 눈을 하고 있다고 해서 ‘사슴 같은 눈망울’이라고 해석합니다. 보통 크고 초롱초롱하며 세상의 때가 묻지 않은 천진한 눈망울을 가리킵니다. 명사로는 doe eyes 라고 합니다.
   * 그녀의 크고 초롱초롱한 눈망울을 보고, 나는 도저히 그녀에게 거짓말을 할 수 없었다. Looking at her doe eyes, I couldn’t possibly lie to her.
-  
+ 
 # 동물원
 * 동물원에서 가장 눈에 띄는 동물은? what animal cathes your attention the most at the zoo
 

@@ -294,6 +294,9 @@
 * #신장 결석	it's just a #kidney stone
 * #심기증 건강 #염려증	#hypochondria; 하이포컨드리아
   * 그녀는 장기 기증자 카드에 서명을 하였다. She signed an organ donor card . 듣기
+  * 어려운 단어 입니다. 사람의 신체 장기를 떼어내는 것을 eviscerate이라고 하고, 비유적으로는 중요 부분을 잘라내는 것이기 때문에 ‘약화시키다(weaken), 손상끼치다(damage), 파괴하다(destroy)’의 의미도 갖습니다.  그리고 영상에서 my place라고 한 것은 본인의 성기를 가리켜서 '내 거시기', '내 거기'라고 말한 것입니다. 
+    * 염소는 껍질이 벗겨지고 내장이 깔끔이 발려져 있었다. The goat was skinned and neatly eviscerated. [ɪˈvɪsəreɪt] 
+    * 그 의사는 아이가 태어나자마자 포경수술을 시켰다. The doctor circumcised the baby shortly after birth. [ˈsɜːrk-]  영국식 [ˈsɜːkəmsaɪz] 
 * #디스크						disc, disk 간단히 back pain 허리 아래쪽: lower back
 * #장애	the physically challenged, the differently abled
 * #공황장애 	Panic Disorder 

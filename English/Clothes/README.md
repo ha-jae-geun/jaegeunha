@@ -190,6 +190,8 @@
     * 발까지 감쌈: footsie
 * #slumber party
 * #내복	#long-johns
+  * John 은 사람 이름인데 왜 내복 바지라고 할까요? 19세기 후반에 유명했던 복서 John L. Sullivan 는 항상 등장할 때 딱 달라붙는 바지만 입고 나왔다고 하네요. 달라붙는 바지는 그의 상징이 되었는데요, 그 이후에 그에 대한 헌사로 내복 바지를 long johns 라고 부르게 되었답니다 :)
+    * 중학교 때 이후론 겨울에 내복 바지를 안 입었어요. ex) I haven't worn long johns in winter since my middle school years.
 * #속옷	panty: 여자 속옷 | wearing underwear(공용) } 
   * 속옷이 엉덩이에 끼는것; wedgie; get a wedgie; give someone a wedgie [ˈwedʒi]
   * commando : 속옷 을 안 입은, 노팬티; 민망하지만 알아두셔야 하는 단어가 있어요! free-balling 이 [속옷을 안 입다] 라고 해석이 되었는데요, ball 또한 속어로 남성의 '고환' 을 의미합니다. 따라서 free-balling 속옷을 입지 않은 남성의 아래쪽 모습을 형상화한 표현인데요. 남성과 대화할 때 가끔 ball 이라는 단어가 의도치 않게 해석이 될 수가 있으니 참고하세요!

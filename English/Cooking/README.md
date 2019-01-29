@@ -86,6 +86,7 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 * 건강한 식습관을 갖도록 하겠지; it'd encoourage you guys to eat more naturally
 
 # Sauce
+* condiment는 완성된 요리에 곁들이는 소스, 양념 등을 뜻하는데요. 미국에서는 보통 케찹, 머스타드 등 음식을 찍어 먹는 소스를 condiment라고 분류해요.
 * 소스 전부 뿌려드릴까요? would you like all the sauces?
 * 소스가 많고 느끼한 파스타가 좋아; i like saucy and creamy pasta
 * Sriracha; tabasco와 비슷한 아시아 식재료 중 하ㅏ

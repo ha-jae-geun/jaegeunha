@@ -111,7 +111,8 @@
 	* #배차간격; how often does the bus run?
 * #직행 버스; there's not a #direct bus
 	* 67번 버스 언제와요? When will bus 67 arrive?
-	* *Which bus should I take to get to downtown
+	* 버스 손잡이 잡고 복도에 서있었어; She stands in the aisle, holding on a bus strap
+	* Which bus should I take to get to downtown
 	* *버스 요금 ##얼마죠? What’s the bus fare
 	* 버스카드 잔액이 얼마나 남았나요? 			 How much is left on my bus card?
 	* 버스 벌써 왔니? Has Bus 47 come yet?

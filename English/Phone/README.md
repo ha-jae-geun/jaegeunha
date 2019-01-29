@@ -140,6 +140,9 @@
  		* 사진 찍은 후엔 꼭 이걸 해야지. 뽀샵! ex) This is a must-do after taking a picture. Airbrush!
  
 # 커뮤니티
+* 'be on + SNS 앱'은 크게 다음 두 가지 뜻으로 쓸 수 있어요!
+	* 제가 텔레비전에 나오지 않을 땐 무조건 그라인더 하고 있는 거예요. [ex] Whenever you don't see me on television, I'm on Grindr. 1. [지금 SNS 앱을] 쓰고/하고 있다
+	* 나 스냅챗/인스타 계정도 있어. [ex] I'm also on Snapchat/Instagram/…. 2. [SNS 앱에] 계정이 있다
  * 좋아요 											 #upvote
  * #팔로우 했어 									 I followed him
  * #맞팔했어 								 We followed each other

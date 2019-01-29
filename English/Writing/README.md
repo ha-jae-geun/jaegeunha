@@ -10,6 +10,8 @@
 * 글 길이 막힌 상태로 직장에 갔따; went to work with writer's block
 * 필명; pseudonym suːdənɪm = pen name
   * 상호: legal name
+ * # 필기체; i always write in cursive [ˈkɜːrs-]
+ 	* # 소문자; lowercase <> uppercase, capital letter
 
 # 소설
 * 2) 기본적으로 sympathetic은 ‘동정심을 느끼는, 동정어린’을 의미하는데, 영화나 소설 속 인물이 sympathetic character라고 하면 ‘호감이 가는 인물, 동정심이 생기는 인물’을 가리킵니다. 그래서 이 문장은 영화 감독들이 사회적으로 약자지만 호감이 가는 배역을 미국 배우들에게 주고, 반대로 정 안가는 사회 고위층 역할은 영국 배우에게 주었다는 것입니다.

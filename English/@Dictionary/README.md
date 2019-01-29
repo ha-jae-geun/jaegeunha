@@ -294,6 +294,7 @@
   * 난 그에게 전혀 관심이 없어. [ex] I'm not even remotely interested in him.
  * Ordinary  2. 강조 위해 앞 뒤 똑같이 fun anything but fun
  * # 절대로     #for the world, tʃɔ:k not by a #ong shot/chalk
+ * # 불가능; : 불가능한 건 없다, 일은 어떻게 될지 모르니 하지 않겠다고/ 못 하겠다고 확신하지 말라는 뜻. 쉽게 바꾸면, never say 'never' '절대'라고 절대 말하지 않는다는 거죠~
  * #No way, #No way in the hell, #No way in the hell that that is happening
  * #Over my dead body
  * 어떤ㄱ ᅟᅧᆼ우에도 결코 ~가 아닌; #In no case = #under no circumstances; you should #in no case forget it
@@ -1090,10 +1091,14 @@
 # 근처
 * 부근에는 좋은 학교가 없다. There isn't a good school in the vicinity. 
   * vicinity는 ‘부근, 인근, 주위’인데요, 문어체 같지만 은근히 회화에서도 자주 들리는 단어입니다. 이 표현을 쉽게 바꾸면 someone around us 입니다. 
+* "근처에 왔다가 연락했어~" 이런 식으로 말할 때 쓰는 표현이에요. "동네에 왔다가 연락했어~" 느낌으로 말할 때는 area 대신 neighborhood라고 하면 돼요.
+  * 근처에 왔다가 들를까 해서 왔어. I was in the area and I thought I'd stop by.
 
 # 기계
 * 승용차 운전자들에게 교통 체증을 미리 경고해 주는 새로운 장치가 있다.
  * a device는 특정한 일을 하도록 만들어진 장치를 말한다:
+ * 기계나 엔진 같은 것이 갑자기 작동을 안 하거나 섰을 때 cut out이라는 표현을 사용합니다.
+  * 기계가 갑자기 섰어. 뭐가 문제지? The machine's cut out. What's wrong with it?
  * There is a new device for cars that warns drivers of traffic jams ahead. 
  * 그의 부엌에는 그가 생전 안 쓰는 조리 기구들이 잔뜩 있다.
  * a gadge은 유용하기는 하지만 꼭 필요하지는 않은 어떤 일을 하는 데 쓰이는 작은 물체를 가리킨다:
@@ -1274,6 +1279,8 @@
   * #fussy about what she eats; #fussy eater
   * 까다로운 손님; #demanding customer
   * #퉁명스러운; #curt; curt response
+* 형용사 particular는 '특정한'이라는 뜻으로 더 많이들 알고 계실 것 같은데요, '까다로운'이라는 뜻도 있어요. 무엇에 대해 까다로운지 말할 때는 particular about이라고 하고요.
+  * 그 사람은 위생과 청결에 대해 되게 까다로워. He's very particular about hygiene and cleanliness.
 
 # 꺼내다
 * 다들 얼른 계싼기 꺼내봐; Bust out your calculators everybody
@@ -1673,6 +1680,7 @@
 # 노력하다
 * ‘힘을 쓰다, 힘줘서 쎄게 하다, 노력을 기울이다’를 의미합니다. 고정표현이니 통으로 외워주세요. muscle 은 ‘근육’ 뿐만아니라 ‘힘, 근력’을 말하기도 합니다.  put some muscle into it = 힘 좀 쓰다
   * : ~ 기 위해 엄청난 # 공을 들이다 take great pains to + 동사원형
+  * # 땀; 너무 쉬워서 땀 한 방울도 안 났어. It was so easy I didn't break a sweat; break a sweat 1. 땀 흘리다 2. 노력하다, 힘들이다
   * an A for effort : 결과는 좋지 않지만 노력은 가상할 때 쓸 수 있는 표현이에요!
     * 그래도 노력은 높이 살게. But I'll give you an A for effort.
   * 어서! 힘 좀 써봐.  Come on! Put some muscle into it. 
@@ -1752,6 +1760,7 @@
 
 # 눈치
 * 전혀 모르고 있어요; blind as a bat
+  * 내 주변에서 무슨일이 벌어지는 중인지 전혀 눈치채지 못했다. ex) I had no inkling of what was going on around me. 1) 어떤 일에 대해서 어렴풋이 아는 것을 의미합니다. 
   * 마침 누군가를 만난다든가, 무엇을 발견한다든가, 혹은 어떤 낌새 (거짓말, 험담, 등)를 눈치 챈다고 할 때 사용할 수 있는 단어예요. 
     * 그가 내 험담을 하고 있는 걸 발견했다. I caught him talking behind me.
   * 눈치 빠르다; pick up things quickly
@@ -3171,6 +3180,8 @@
  * ‘그녀는 남편에게 불리한 증언을 하기를 거부했다  .She refused to testify against her husband.
  * #검증; #vertify;vertify a hypothesis, #investigate,
  * #검증 가능성; 검증 가능성(#verifiability)
+ * 'stand to reason'은 '명백하다, 당연하다, 논리적·합리적이다, 이해할만하다'라고 해석할 수 있는 표현이죠. 'be obvious, understandable, logical, reasonable' 등의 표현 대신 쓸 수 있는 말이랍니다.
+  * 뜨거운 날씨가 싫으면 두바이로 이사하면 안 되는 건 당연하지. [ex] It stands to reason that if you don't like hot weather you shouldn't move to Dubai.
  * 분명하게 말하다                  Make a point
  * #분명히 말해두겠는데 #for the record
  * #안전해질 때까지 밖에서 기다리는 게 좋겠어. You'd better stay outside until the coast is clear.
@@ -3423,6 +3434,10 @@
  * 문제를 일으킬 생각은 없습니다.      make #waves; I’m not gonna make waves
  * 불러 일으키다; #engender
 
+# 발음
+* roll off the tongue는 '발음하기 쉽다', '발음이 자연스럽게 잘 된다(입에 붙는다)'라는 뜻입니다. 직역하면 '혀(tongue)를 따라 또르르 굴러간다(roll off)' 이런 느낌이랍니다!
+  * 그녀의 이름이 너무 길어서 발음하기 쉽지가 않아. Her name is so long. It doesn't roll off the tongue.
+
 # 발전
 * 엄청난 비약[변화]. a quantum leap 미국식  영국식 
 * 그의 백악관 입성의 # 길을 닦아준; paved one's way to the White house; # 모범
@@ -3562,6 +3577,8 @@
 
 # 배우다
 * learn은 '경험이나 학습으로 지식을 얻다' 라는 뜻이고, study는 learn보다 더 노력이 요구되고, '전문적이며 특수한 분야를 배우다' 라는 뜻입니다.
+  * 여기서 pick up은 learn과 같이 '배우다', '새로운 기술을 습득하다'라는 뜻으로 쓰였는데, 미세한 차이가 있어요. learn은 좀 더 의도적으로 뭔갈 배운다는 뜻이라면 pick up은 자연스럽게, 혹은 나도 모르게 뭔갈 배운다는 뜻이에요.
+    * 난 애니 보면서 일본어 표현 몇 가지를 자연스레 배웠다. I've picked up a few Japanese phrases watching anime.
   * She studied composition in college.  그녀는 대학에서 작곡을 공부했다.      I'll study tonight for the exam.
   * I just watch and learn. Learning English takes time.
   * #learn - #acquire - #acquainted with
@@ -3865,6 +3882,7 @@ retaliate
    * 바닥에 #찧다; his face #smashed of the curb of the pavement
    * # 넘어지다 # 쓰러지다 # 부딪치다
 * # 미끄러지다  * 그의 얼굴은 땀으로 번들거렸어            His face was slick with sweat.
+  * 계단에서 미끄러졌어; i slipeed on the stairs
  * 바닥은 비가와서 미끄러웠어.         The grounds were slick with rain.
  * 미끄러울거야 It’s probably very #slippery
 
@@ -3932,6 +3950,8 @@ retaliate
 
 # 불안
 * # 컴플렉스; hang-up = 마음속 불안, 걱정거리, 콤플렉스; '콤플렉스'는 앞서 설명한 insecurity 이외에 hang-up 라고도 할 수 있습니다.
+  * self-conscious: (자신감이 부족해)남의 시선을 의식하는
+    * 나 피부가 컴플렉스야. I'm self-conscious about my skin.
   * = 아이코는 그녀의 코에 대해 심한 콤플렉스가 있다. Aiko's got a real hang-up about her nose.
   * 영화의 내용에 대해서 설명하고 있습니다. take the throne은 왕위에 오르다, settle the unrest는 (사회, 정치적) 불안, 동요를 잠재우다라는 의미입니다. 
     * 그의 보좌관은 민심을 수습할 아이디어를 떠올렸다. His aide came up with an idea to settle the public unrest.
@@ -3983,6 +4003,8 @@ retaliate
 # 비교
 * 1) 비격식 표현으로 주로 전치사 against 와 함께 쓰여 [와 견줄만하다] 라고 해석이 되요. 주로 의문문이나 부정문에 쓰이는 표현입니다. 2) 영상에서는 뒤에 against humans 가 생략이 된거라고 보시면 되는데요. 직역하면 [전세계의 다른 동물들을 인간과 비교해보면 어떨까요?] 의 의미를 가집니다.
 	* 세상의 어떤 음식도 이것과는 견줄 수 없어. 완전 짱이야! ex) No food in the world can stack up against this. It's amazing!
+  * 새 모델은 구 모델과 비교가 되지 않는다. The new model doesn't stack up against the old one. stack up against A: A에 견줄 만하다
+  * 그는 비할 데 없이 훌륭한 지도자였다. He was a great leader beyond compare. : (너무나 뛰어나서, 강력해서) 비할 데가 없다, 다른 것과 비교할 수 없다 긍정적으로든 부정적으로든 어떤 정도를 강조할 때 사용할 수 있는 표현으로 다소 문학적인 느낌이 들어가 있어요. 
   * A doesn't/can't hold a candle to B : A는 B에 비교도 안되다.
     * 피터는 좋은 발표 능력을 가지고 있지만 신디한텐 비교도 안돼. ex) Peter has good presentation skills, but can't hold a candle to Cindy. 2) 이 표현은 아~주 옛날에, 전기가 없던 시절으로부터 파생된 표현인데요. 예를 들어, 많은  제자를 가지고 있는 스승/장인이 밤에 작업을 하려면 불이 있어야 하잖아요.  그 중에 좀 뛰어난 제자는 스승의 작업을 도와줄테고, 그 다음으로 뛰어난 제자는 조금 덜 중요한 작업을 도와줄테고.. 조금 많이 모자라는 제자는 촛불을 들어 그 사람들이 작업을 할 수 있도록 도와주었을테죠.
 * 막상막하야; Its neck and neck with -
@@ -4022,6 +4044,7 @@ retaliate
 
 # 비밀
 * confide는 ‘비밀, 속마음을 털어놓다’는 뜻입니다. 누구에게 털어놓았는지까지 표현하려면 전치사 in 뒤에 사람을 넣으면 됩니다. 여기서는 with no one to confide in으로 "기댈 사람이 아무도 없는"이라고 하였네요.
+  * 실은 대사관내 # 첩보보안부서에서 일한다  I'm actually in the cloak and dagger division of the embassy
   * : 직역하면 '~이 비밀이 아니다'라는 뜻으로 공공연히 잘 알려진 사실에 대해 말할 때 일반적으로 자주 사용하는 표현입니다. It's a well-known fact that...과 같은 의미라고 볼 수 있어요. 듣는 느낌은 살짝 차이가 있지만요.
   * 난 완전히 외톨이인 기분이야. 내 속마음을 털어 놓을 사람이 없어. It feels like I’m all alone. I have no one that I can confide in. 
 * 비밀 못지켜; She never keeps secrets = SHe's big mouthed = He's got diarrhea of the mouth
@@ -4174,6 +4197,9 @@ retaliate
 # 사양
 * 사양할게; allow that; safe; bare
 
+# 사인
+* 한국에서는 유명인에게 사인 (sign)을 받는다고 하죠? 일반 문서에 서명을 할 때에도 '사인  해주세요'라고 말합니다. 이 때 사용하는 '사인'은 한국어로 정착된 단어지만 영어를 그대로 사용해서 Can I have your sign? 이라고 말하면 전혀 다른 뜻이 됩니다. 또한 위에서 든 두 가지 예에 사용하는 단어도 각각 다른데요, 유명인에게 부탁하는 사인은 autograph이고요, '문서에 서명해주세요'라고 말할 때는 signature를 사용합니다. 간혹 가다 "장난으로" 카드 결제 서명을 autograph 해달라고 하는 경우도 있긴 하답니다^^;;
+
 # 사치
 * indulgence는 '사치', '마음대로 함'을 뜻하는데요, "What's your biggest indulgence?" 물어보면  "가장 사치 하는 아이템이 뭐예요?" 혹은 "어떤 식으로 사치를 하시나요?"라는 뜻이 돼요. 근데 꼭 비싼 물건을 사는 사치만 뜻하는 건 아니에요. 건강에 나쁜 걸 알지만 칵테일을 즐겨 마시는 것, 다이어트에 안 좋은 걸 알지만 단 디저트를 사 먹고 즐기는 것도 indulgence라고 표현해요.
 
@@ -4297,6 +4323,8 @@ retaliate
 
 # 선택
 * 둘 다 선택한다는 의미로 비슷하지만 opt는 여러 옵션 중에 하나를 선택하는 반면, choose는 여러 개를 선택할 수 있습니다. 또한 opt가 choose보다 사회, 공무적인 의미에서 더 많이 활용됩니다.; 다양한 선택지가 있는 상황에서 무언가 하나를 고를 때 쓰는 표현입니다. 주로 무언가에 찬성하여 택할 때는 전치사 for, 또는 to+동사원형을 쓰는데요. 영상에서 on 을 쓴 이유는 side 라는 단어 때문입니다. 어떤 편, 어떤 쪽을 의미할 때는 on the side 라고 쓴답니다.
+  * select는 보통 '선택하다, 선출하다'처럼 동사로 많이들 사용하죠? 이 단어가 형용사로 사용하면 '엄선된, 고급의, (동호회 등이) 들어가기 까다로운'의 의미로 사용된답니다~ 여기서는 '신중한, 취향이 고급인'의 의미로 이 물티슈를 선택한 사람들을 꾸며 주었어요.
+    * 이 클럽은 누구나 들어올 수 있어요. 일부만을 위한 것이 아니랍니다. This club is for everybody, not just for a select few.
   * the way to go : 바람직한 선택 / 좋은 선택
     * 성 차별에 반대하는 법안은 바람직한 선택이에요. ex) A law against the gender discrimination is the way to go.
   * 새로운 시스템을 선택할 사람이 그만 있는 게 아니야. ex) He's not the only one to opt for the new system.
@@ -4397,6 +4425,12 @@ retaliate
  *   새 신발; #Pumped up kings
  * # 기르다 # 길러지다 # 양성하다 | # 길들이다
 
+# 성대모사
+* 1. do/ imitate a person  2. do a OO impression  3. do an impression of someone
+  * 로빈 윌리엄스 성대모사 할 수 있어요. I can do a Robin Williams.
+* impersonate이란 동사는 남을 속일 목적이거나, 아니면 사람들을 즐겁게 해주기 위해서 타인을 # 흉내내는 것을 뜻합니다. 그리고 그런 사람을 impersonator라고 하지요.
+  * 그는 아주 유명한 마이클 잭슨 흉내내는 사람이다. He is a well-known Michael Jackson impersonator.
+
 # 성적
 * 공부 잘하다; He stuides well(xx) - He does well in school; He gets good grades
 
@@ -4412,6 +4446,10 @@ retaliate
 # 소개
 * : 어떤 장소를 돌아다니면서 중요하거나 재미있는 부분을 소개해주는 걸 뜻해요.
   * 내가 도시 구경시켜줄게. I'll take you around the city.
+
+# 소금
+* brine은 명사로 소금물, 동사로 소금물에 절이다란 뜻이고 brined라고 하면 형용사가 되어 ‘소금에 절인’이 됩니다.
+  * 7일 동안 오이를 소금물에 절여주세요. Please brine the cucumbers for 7 days.  
 
 # 소문
 * 오명; 이제 더 이상 이혼한 것에 대한 부정적 인식은 없다고 생각해. I think there is no longer any stigma to being divorced. (stigma to~ : ~에 대한 부정적 인식)
@@ -4458,6 +4496,7 @@ retaliate
 * 소용없는 짓을 하다; beat a dead horse
 * # 헛되니; but to no avail = in vain
   * # 헛수고 했어; #no dice
+  * 그 사람의 모든 노력이 헛수고가 됐어. All his effort went to waste. [ 숙어 ] go to waste : 헛수고가 되다, 버려지다, 낭비되다
    * 다 헛수고야            I did it all in vain. | steve is on a fool’s errand 
  * ☆we wasted the whole day on a #wild goose; we spent the whole day on a wild goose chase looking for it
  * 헛수고하는거야               You’re beating a dead horse
@@ -4494,6 +4533,7 @@ retaliate
 # 속이다
 * 속아 넘어갈 뻔했어; I would fall for this; I would have been ver easily fooled
   * 장난에 속아 넘어갔다는 걸 깨닫고, "야 나 진짜 믿었어 ㅋㅋ"라고 말할 때 쓰는 표현이에요! You had me there! You had me going there!
+  * 꾸미는 일 없어요; we're not plotting anything
   * 몰래 무언가를 하다가 갑자기 누가 나타났을 때 그 사람이 눈치채지 못하게 막 횡설수설 하는 경우가 있죠? 그렇게 자신의 행동을 숨기거나 남을 속이기 위해 하는 말, 속임수 등을 의미하는 비격식 표현입니다. hocus pocus 라고 하기도 합니다.
     * 실제 데이터 없이는 그거 전부 다 속이려는 것처럼 들려. ex) Without actual data, it all just sounds hocky pokey.
   * 속임수에 넘어간 기분이었어요; i felt tricked into it
@@ -4538,6 +4578,8 @@ retaliate
   * 회사에 소속되지 않는 상태로 일허난 것; you might just be a #floater
   * #계열사; #affilation, be affiliated with
   * # 속하다 # 소유 ## 꺼 # 소속 # 일체
+  * 1) 여러 영어 시험에 등장하며 [~에 속하다] 를 의미하는 belong to 에 조금 더 익숙하실 수도 있는데요. belong to 는 '소유권' 을 말하는 반면, 2) belong with 는 어떤 두 가지가 함께 해야만 한다고 믿을 때 쓰는 표현입니다. 영상에서는 인간과 몬스터는 함께 해선 안된다고 믿기에 이 표현을 썼고요. 3) 로맨틱한 관계에서 '넌 내 거야' 라고 말하고 싶을 땐, 소유를 의미하는 you belong to me 라고 말하는 것보단, you belong with me 가 [우린 정말 잘 어울려, 우린 함께 해야 할 운명이야] 이 의미를 가지며 더 자연스럽습니다. 대신 주어를 I 로 하여 I belong to you, [난 네 거야] 라고 할 땐 자기를 낮춰서 말하는 것이기에 괜찮습니다.
+    * = 난 너처럼 정말 괜찮은 사람하곤 어울리지 않아. I don't belong with such a nice person like you.
 * ## 진입 ingress 미국·영국 ; ingress port
   * (일정한 장소에) #entry (into); (침투) penetration, #enter; (침투하다) #penetrate (into)
   * 누가 #초인종 눌렀을 때 확인하러 갈 때 #get the door
@@ -4617,6 +4659,7 @@ retaliate
 # 수준
 * 네 수준으로는 나조차 못이길거야; YOu can't even defeat me in your current state
   * above one's level은 '~의 수준 이상인'이라는 뜻이고 반대로 below one's level은 '~의 수준 이하인'이라는 뜻이에요.
+  * 그래, 나도 그녀가 도와줘서 매우 감사하고 어느 정도까지는 고마워하고 있다구. Yeah, I’m very grateful for her help and appreciate it on some level.  : 어느 정도까지는, 어느 수준은 [on some level]
 * 여기서 bar는 ‘수준’을 의미하기 때문에 high bar는 ‘높은 수준, 높은 경지’가 됩니다. 이성에 대한 기준이 너무 높거나, 직업을 고를 때 너무 눈높이가 높을 때도 쓸 수 있습니다. 반대로 low bar는 ‘낮은 수준, 낮은 눈높이’를 뜻합니다. 
 	* 대학 졸업 후 구직할 때, 너무 눈높이를 높게 잡지 마.  When you try to get a job after college, don’t set the bar too high.
 * -의 상태가 어느 지점까지 간다; it gets to the point where 
@@ -4999,6 +5042,8 @@ retaliate
 * dire consequences 심각한 결과 [ˈdaɪə(r)]
   * 나 아주 심각해; i mean business
   * 그는 아직도 문제의 심각성을 이해하지 못하고 있는 것 같아. He still doesn’t grasp the magnitude of the problem.
+* # 심하다; : 지나칠 정도로, 심하게 [ 숙어 ] to a fault
+  * 수는 지나칠 정도로 정직해. Sue is honest to a fault.
 
 # 심부름
 * 심부름 중이야              'erənd I'm running errands.
@@ -5072,6 +5117,8 @@ retaliate
   * Know sth or sb inside out : 사물 또는 사람을 속속들이 알다
   - He knows the movie inside out and he can tell us what the next scene will be every 10 seconds.  
   그 영화를 속속들이 알고 있어서, 매 10초 마다 다음에 어떤 장면이 나올지를 말할 수 있을 정도이다. 
+  * : 짧게 다시 알려주는 것, 짧게 다시 인지시켜 주는 것 [quick refresher] refresher는 이전에 알려줬던 것을 다시 상기시켜주고 알려주는 것을 말합니다. 그래서 quick refresher는 짧게 다시 알려주는 것, 또는 그 행위를 뜻합니다
+    * 난 그거에 대해서 짧은 리마인드 강의를 들었었어. I took a quick refresher course on that.
 
 # 앞뒤
 * add up 은 '늘어나다'라는 뜻도 있지만, 부정문으로 쓰일 경우에 특히나 무언가 [앞뒤가 맞지 않고 말이 안 된다] 의 의미를 가집니다. It doesn't add up이라고 할 수도 있는데요. 무언가를 쌓아 올리려면 밑에 있는 것들이 잘 들어맞아야 하는데 그렇지 못한 모습을 연상하시면 될 것 같아요!
@@ -5084,11 +5131,15 @@ retaliate
   * 사람들은 야한 베드신 장면이 나오는 동안 숨을 참았다. People held their breath during the steamy love scenes.
   * 성적인 것과 연관되어 보는/듣는 사람으로 하여금 어느 정도의 충격을 주는 걸 나타내요~
     * 몇 장면들은 좀 지나치게 야했던 것 같아. I think some of the scenes were a bit too racy.
+* : pervy는 pervert(변태, 성도착자)에서 나온 형용사로서 ‘변태같은, 이상한’이란 뜻의
+  * 조심해. 이 역쪽에는 치마밑 사진을 찍으려는 변태놈들이 있어.  Be careful. There are pervy guys trying to take pictures under your skirt around this station.
 
 # 약속
 * 왜 항상 약속 취소해; Why do you always cancel on me like that?
   * 금요일에 너랑 노는 거 못 할 것 같애; i don't think i'll be able to hang out with you on Friday.
     * but something came up
+  * 'make/sign a pact'은 '약속을 맺다' '협정을/조약을 체결하다'라는 의미로, 특히 서로의 친분이나 우정을 강화하는 방향의 합의를 가리킵니다. 특히 'make/sign a pact with A to do sth'과 같은 형태로 자주 만나보실 수 있을 거에요^^ '~을 하기로 A와 약속하다'라고 해석하시면 돼요!
+    * 나랑 엘리자베스는 35살 이전에 절대 결혼하지 않겠노라 맹세했어. I made a pact with Elizabeth never to get married before 35.
   * 약속을 #펑크내다; #flake out / on somebody
   * 약속을 깨는; stop calling people who are flaky
 * 선약에 책임을 다해라; COmmit to prior engagements#
@@ -5140,7 +5191,11 @@ retaliate
 # 어울리다
 * 어떤 색만 진하거나, 차이가 격하지 않도록 화장을 잘 블렌딩해주는 걸 'blend in' 이라고 표현했죠! 요 표현은 사람들 속에 '[티나지 않게] 섞이다', 주변과 '어울리다' 라는 뜻으로 쓸 수도 있답니다. 'blend in'은 다른 이의 관심을 끌지 않게 사람들 속에 일부러 '섞여들다'라는 뉘앙스가 강한 반면, 'fit in'은 노력해서 특정 그룹의 사람들과 '잘 어울리려고 하다'라는 뉘앙스가 강해요! 차이를 기억해보세요.
   * 난 그냥 사람들이랑 잘 어울리려는 거야. [ex] I'm just trying to fit in.
+  * 1) 여러 영어 시험에 등장하며 [~에 속하다] 를 의미하는 belong to 에 조금 더 익숙하실 수도 있는데요. belong to 는 '소유권' 을 말하는 반면, 2) belong with 는 어떤 두 가지가 함께 해야만 한다고 믿을 때 쓰는 표현입니다. 영상에서는 인간과 몬스터는 함께 해선 안된다고 믿기에 이 표현을 썼고요. 3) 로맨틱한 관계에서 '넌 내 거야' 라고 말하고 싶을 땐, 소유를 의미하는 you belong to me 라고 말하는 것보단, you belong with me 가 [우린 정말 잘 어울려, 우린 함께 해야 할 운명이야] 이 의미를 가지며 더 자연스럽습니다. 대신 주어를 I 로 하여 I belong to you, [난 네 거야] 라고 할 땐 자기를 낮춰서 말하는 것이기에 괜찮습니다.
+    * = 난 너처럼 정말 괜찮은 사람하곤 어울리지 않아. I don't belong with such a nice person like you.
   *  난 그냥 눈에 안 띄려는 거야. [ex] I'm just trying to blend in.
+  * hobnob 은 비격식 표현으로 특히나 유명인사들, 사회적 지위가 높은 사람들과 [어울려 지내다] 라는 의미를 가집니다.
+    * 좋든 싫든, 처음에는 지역 사업주들과 어울려 지내야 해. ex) Like it or not, we should hobnob with influential local business owners at the beginning.
 * 너한테 잘 어울려; It suits you really well; It fits you; IT matches your dress
 * 저 그림은 안 어울리는데. [ex] That picture looks out of place. 1. 어울리지 않는, 제자리를 벗어난
   * fit: 사이즈, 모양이 맞다; 옷, 물체 <> 
@@ -5176,6 +5231,8 @@ retaliate
 # 얻다
 * -로 진출하다; make one's way into
   * 애교로 -을 얻다; smile one's way into; smiled his way into managerial position
+  * up for grabs : 누구나 얻을 수 있는 
+    * 대선은 누구나 차지할 수 있어. 이번 대선은 완전 혼란스러워. ex) The election is up for grabs. This presidential election is chaos.
   * 돈으로 -을 얻다; You can't buy your way into happiness
   * 거짓말로 그 일을 어드려 해; He's trying to lie his way into the job
 * # 득; : 득보다 실이 많다 do more harm than good; This law will do more harm than good.
@@ -5231,6 +5288,8 @@ retaliate
 
 # 연속
 * # 계속; 괜찮아 계속해; Go on
+ * 어떤 것이 멈추지 않고 계속 이어지는 것을 in succession이라고 합니다. 비슷한 표현으로 in a row가 있습니다. 
+  * 그들은 3번이나 연속해서 경기를 이겼어. They won the games three times in succession.
  * 연쇄 효과                   knock-on effect
    * # 연쇄살인법                    serial killer
 * ☆#continue to / keep -ing / been -ing
@@ -5725,6 +5784,10 @@ retaliate
 # 유행
 * 유행을 의미하는 trend 와 없던 무언가를 만들어 세우는 사람의 setter 의 합성어인 trendsetter 는 패션의 유행뿐만 아니라 다른 사람들이 따라 하게 되는 무언가를 처음으로 하고, 그 추세를 이끄는 사람, 조직을 의미하는 단어입니다.
   * 많은 대세들은 유튜브 출신 입니다. ex) A lot of new trendsetters are from Youtube.
+  * 'fad'는 일시적인 유행을 가리키는 단어예요.
+    * 전통의상을 입는 것이 서울의 최신 유행이다. [ex] Wearing traditional garb is the latest fad in Seoul.
+  * 'craze'도 아주 비슷한 뜻인데요, 'fad'보다 사용빈도가 높답니다.
+    * 최신 유행은 코딩하는 법을 배우는 것이죠. ㅍ[ex] The latest craze is learning how to code.
   * 불행히도 결정을 내리는 사람들이 실제 세상을 모르고 있다.Unfortunately, the people making the decisions are out of touch with the real world. be, become, etc. out of touch (with something) 
   * 유행하는; in vogue
 * 대박 촌스러워               That's so corny, #out of fashion
@@ -5951,6 +6014,8 @@ retaliate
 * 「get the best of 사람」은 그 사람을 능가하다, 이기다 라는 뜻입니다.
 	* 아무도 날 능가할 순 없을거야. No one is going to get the best of me.
   * 너가 이겼어요; YOu got your way
+  * :끝내다/패배를 인정하다 pack it up  :그만두다/끝내다 pack it in
+    * 결국에 우리는 패배를 인정해야 했다. We had to pack it up in the end.
 * 그들이 # 우세하게 될거야; They will come out on top
 * : (경기 등에서) 를 납작하게 누르다, 완패시키다  [wipe the floor with]
   * 난 너를 5초 안에 납작하게 해줄 수 있어. 난 너를 5초 안에 납작하게 해줄 수 있어.
@@ -5960,6 +6025,7 @@ retaliate
 # 이끌다
 * initiative는 '계획'이라는 뜻으로 많이 쓰이지만 앞에 the를 붙여서 the initiative라고 쓸 경우 '주도권'을 의미하는데 많이 쓰이기도 합니다. 다양한 동사와 함께 쓰이는데요. [gain/seize/lose the initiative = 주도권을 얻다/잡다/잃다] 쓰이니 함께 알아두세요!
 	* = 누구도 나서려 하지 않을 때 레이첼이 앞장섰다. Rachel took the initiative when no one else wanted to.
+  * 그가 주모자였어; He was the ringleader
 * 이 표현은 어떤 일을 자연스럽게 잘 이끌어 나간다는 뜻으로, 지금 이 두 사람의 대화에서 그 일이란 ‘토크쇼의 분위기를 이끄는 것’을 의미합니다. 그리고 「keep several balls in the air」처럼 “여러가지 일(=several balls)을 한 번에 하다”라는 표현도 있으니 함께 알아두세요! : (토론, 분위기 등) 이끌어 나가다 [keep the ball in the air]
   * 그 정치인은 토론을 잘 이끌어가는 탁월한 능력을 갖고 있다. The politician is very skilled at keeping the ball in the air. 
 
@@ -6194,6 +6260,8 @@ retaliate
 # 입장
 * 전치사 on 을 써서 [~에 대한 입장을 취하다] 라는 의미로 많이 쓰이기도 하는데요. 중간에 형용사를 넣어서 take a firm/tough/strong stand = [단호한/강경한/강한 입장을 취하다] 처럼 쓸 수도 있습니다.
   * = 낙태할 권리에 대한 입장을 표해야 할 때입니다. It's time for us to take a stand on abortion rights.
+  * : 어떤 주제에 대해서 입장을 분명히 밝히다 make one’s position clear (on OO)
+    * 모두들 이에 대한 자신의 입장을 분명히 하시길 바랍니다. I want everyone to make his or her position clear on this.
 * shoes 는 비유적으로 ‘입장, 상태, 상황’을 말하죠. 그래서 step into their shoes 는 ‘그들의 입장에 서보다, 그들의 입장이 되어보다’입니다. 
 	* 내 입장에 서서 내 기분이 어떨지 이해해줄 수 없어? Can’t you step into my shoes and try to understand how I feel?
 * put yourself in other's shoes
@@ -6450,6 +6518,10 @@ retaliate
    * #아픈데를 건드리다; #salt in a wound
    * # 결점; 제 치명적 결점이에요; It is my fatal flaw as a hero [ˈfeɪtl]
  * # 장단점 # 장점 # 강점 # 이점 # 단점 # 약점 # 급소
+
+# 장황
+* # 길다; 말이나 글의 단어수가 불필요하게 너무 많거나 길 때 wordy라고 합니다. 사람, 연설, 글, 제목 등 모두 사용 가능합니다. 동의어로는 long-winded, verbose, lengthy 등이 있습니다. [vɜːrˈboʊs] 
+  * 그가 말한 것은 너무 장황했고 심지어 질문에 대답도 되지 못했다. What he said was too wordy and didn’t even answer the question.
 
 # 재미
 * 재미로; Just for kicks
@@ -6710,6 +6782,7 @@ retaliate
   * #close enough, That'll work. That'll be fine.
   * 최적의,물가를 적정 수준으로 유지하다, 최적의 상태
   * maintain optimal product prices [ɑ́ptəməl]optimal conditions
+  * # 적임자; * 적임자를 알아. I know just the man for the job.
   * # 적합 # 충분 # 적절 # 최적
 
 # 전기
@@ -6822,6 +6895,9 @@ retaliate
 * #조작; #cook #fabricate #manipulate
 * 선거는 조작된 거였어. The election was rigged.
 * # 지어내다; 침대 밑에 괴물 안 살거든? 그거 지어낸 얘기야. Monsters don't live under your bed. That's make-believe.
+* doctor를 동사로 사용하면 '치료하다'는 뜻외에도 '조작하다, 변조하다'라는 뜻도 있답니다.
+  * 회계사는 수치를 조작했다.  The accountant doctored the numbers.
+  * 이건 나만의 마티니야. 원래 레시피를 살짝 바꿨지. This is my own martini. I doctored the original recipe a bit.
 
 # 조치
 * 게이 탐지기가 반응하고 있어          My faggot dector is off the charts
@@ -7261,6 +7337,8 @@ retaliate
 # 진행
 * 강가에서 사금을 채취할 때 모래 등을 걸러내는 도구를 pan 이라고 하는데요. 자신이 원하는대로 pan 을 이용하여 사금채취를 전개/진행 한다는 점에서 유래된 비격식 표현입니다. 
   * 깜짝 파티를 위한 우리 계획이 잘 진행되었으면 좋겠다. ex) I hope our plan for the surprise party pans out well.
+  * '진전을 보이다' 를 영작하려면 'show progress' 라고 해야 할 것 같은데, 실제로 쓰이는 자연스러운 표현은 'make progress' 예요. 자연스러운 영작을 위해서는 어떤 단어가 어떤 단어와 자주 등장하는지를 아는 게 중요해요! 여기서 명사 'progress', '진척, 진전' 은 동사 'make' 와 정말 자주 등장하니, 묶어서 기억해보세요.
+    * 너 더 나아지고 있어! / 실력이 늘었어! 자랑스럽다. [ex] You're making progress! I'm proud of you.
   * 몇 년 동안의 이의 제기가 있고서 마침내 어느 [ex] After years of protest, we're finally getting somewhere. : 보통 진행형으로 사용하며, 일의 진척이 있다는 의미로 쓰입니다.
 * 생소하실 수도 있지만, 일상에서 정말 많이 쓰이는 표현입니다. 특히나 회사 같은 조직에서 정말 많이 쓰이는데요. 좋은 기세를 쭉 몰아나가고 싶을 때, 지금까지 해오던 일, 능력 등의 탄력을 잃고 싶지 않을 때 쓰는 표현이에요. 많이 쓰이는 표현 중 하나는 [기세를 몰다] 라는 의미의 keep the momentum (going) 있습니다. 물리학에서의 움직이는 물체의 [운동량] 을 의미하기도 합니다.
   * 이 캠페인은 정말로 탄력이 붙는 중입니다. ex) This campaign is really gaining momentum. 
@@ -7418,6 +7496,8 @@ retaliate
 
 # 참다
 * 비가 오기 시작한다! 더 이상 안 되겠다. 피크닉은 취소야! Now it's raining! That's the last straw. The picnic is canceled! 
+  * # 인내; tenacious는 '집요한', '완강한', '끈기있는'이라는 뜻의 형용사랍니다. 명사 형태는 tenacity입니다.
+    * 비즈니스에서는 끈기가 가장 중요한 성공요인이다. Tenacity is the most important success factor in business.
   * : 성경에서 비롯된 표현으로 상대가 내 뺨을 때렸을 때 참고 다른 뺨을 내민다는 말입니다. 상대가 내게 상처를 주었어도 '참고' 이에는 이처럼 (복수로) 상대에게 상처를 주지 않는다는 의미예요.
     * 혹사를 당했을 때 참는 것은 어려운 일이다. It's hard to turn the other cheek when you're mistreated; turn the other cheek
   * wear thin : (인내심등이) 약해지다/참기어려워지다; wear은 입다, 착용하다 외에도 닳다, 해지다 의 뜻을 가지는데요, wear thin 은 무언가 닳아서 얕아지고, 약해지는 것을 연상할 수 있어요. 인내심과 같은 감정이 약해지다 한계를 맞아 받아들이기 힘들어졌거나, 주장이나 설명의 근거가 약해졌을 때 사용해요.
@@ -8122,6 +8202,8 @@ retaliate
 * 아버지의 외도는 내 어린 시절 전체에 굉장히 안 좋은 영향을 끼쳤다. ex) My father's affair took a toll on my entire childhood.
   * do harm은 '해를 끼치다'라는 뜻인데요, do good와 do harm은 이렇게 세트로 쓰이는 경우가 많아요.
     * 알코올이 가져다주는 득보다 실이 많다. Alcohol does more harm than good.
+  * "안 좋을 게 뭐가 있다고 그래?", "손해볼 게 뭐가 있다고 그래?", "해될 거 없잖아?" 라는 뜻의 수사의문문으로 자주 쓰는 표현이에요! 안 좋을 거 없다는 뜻이죠. "What's the harm in 명사/~ing?" 하고 그 행동을 구체적으로 설명해줄 수도 있어요.
+    * 한번 해봐서 해될 거 없잖아? [ex] What's the harm in trying?
   *  wreak havoc 은 ‘엄청난 피혜를 주다, 망가뜨리다’입니다. 뒤에 ‘on/with+피해를 받는 대상’이 따라옵니다. 
   * 비가 와서 우리의 소풍 계획을 완전히 망쳐놓았다. The rainy weather wreaked havoc with our picnic plans.  [riːk] [ˈhævək] 
 * # 타격; 켄싱턴 시장의 폐쇄는 지역 경제에 큰 타격이었습니다. ex) The closure of Kenshington Market was a big blow to the local economy.
@@ -8160,6 +8242,7 @@ retaliate
 # 한계
 * 그는 끊임없이 TV 코미디의 한계를 초월하는 연예인이다. e is a performer who consistently pushes the envelope of TV comedy. 
   * 이제 한계야; i've just about reached my limit
+  * 게임을 이기려는 캐롤의 갈망은 끝이 없다. Carol’s desire to win games knows no bounds.  : 끝이 없다, 한계가 없다: [know no bounds]
   * there's only so much/many는 '~에 한계가 있다'라는 뜻인데요, '많이 없다'는 것을 강조하거나 더 색깔있게 표현할 때 쓰는 표현이에요. 이 장면에서는 '힘이 남아있긴 한데, 그래봤자 얼마 없다'라는 어감이에요.
     * 내가 할 수 있는 것엔 한계가 있다. 내가 할 수 있는 것엔 한계가 있다.
   * push somebody to the/ one's limit : 상대가 최대한 기량을 발휘할 수 있도록 만든다는 긍정적인 의미와 극단으로 내몬다는 부정적인 의미 모두 사용될 수 있습니다.
@@ -8513,6 +8596,13 @@ retaliate
 * commit A to B 라는 패턴이 [A를 B에 헌신하다] 라는 의미로 쓰이는데요. committed 는 [헌신적인/열성적인] 이라는 의미를 갖습니다.
   * 넌 목표에 꾸준히 집중해야 해.ex) You should stay committed to the goal.
 
+# 혹
+* '혹'을 부르는 말로 자주 들을 수 있는 단어에는 'bump, lump, hump'가 있습니다. 예문에서처럼 '부딪쳐서 생긴 혹'은 주로 'bump' 또는 'lump'라고 해요.
+  * 내 아기가 머리에 혹이 생겼어. 내 아기가 머리에 혹이 생겼어.
+  * 장기에 나는 '혹' 즉, '종양'을 가리키는 말로는 'lump'를 흔히 사용합니다.
+    * 자궁에 혹이 있대. [ex] They say I got a lump on my uterus.
+  * "낙타 앨리스는 혹이 다섯 개 있네." [ex] "Alice the camel has five humps." 반면, 낙타의 '혹' 등, 볼록 튀어나온 부분을 이를 때는 'hump'를 자주 쓰죠. 아래 예시는 유명한 동요 가사예요~
+
 # 혹시
 * 혹시나해서 빨리 알려줄께. 오늘 학교에서 3시에 샘 데리고 와야 하는 거 알지? ex) Just a quick reminder. You will need to pick up Sam from his school at 3 o'clock.
 
@@ -8591,6 +8681,7 @@ retaliate
  * She used to be so innocent, but now she's been corrupted by society. 
 * 화장실 갈래; I need to use the restroom
   * 화장실 써도돼? Can i use/go to the bathroom?
+  * # 휴지; 화장실 휴지: toilet paper, bathroom tissue라고 하기도 함; 그래서 tissue 달라고 하기 보다 Can i have some napkins? 요청
 * 배변활동; bowel movents; It's about bowel movement [ˈbaʊəl]
   * 배설; excretion 미국·영국 [ikskrí:ʃən]; produce less excretion
   * 똥좀 싸고; take a dump
@@ -8611,7 +8702,8 @@ retaliate
 
 # 화해
 * 화해하고 싶어요; i would like to bury the hatchet with someone
-
+* : 주로 두 사람이 싸운 상황에서 '한 번 안고 화해하다' 라는 뜻으로 사용해요! 여기서는 앞으로 격렬하게 대결할 테니 미리 안아두라는 뜻으로 쓰였죠.
+  * 안고 화해하자. Let's hug it out.
 
 # 확신
 * 스스로에게 확신이 있을떄만; only when you're full
@@ -8720,7 +8812,8 @@ retaliate
 
 # 힘들다
 * # 빡세다; Today will be intense; tough; I studied intensely
-* 지미를 치과에 데리고 가는 건 정말 힘든 일이었지. aking Jimmy to the dentist was like pulling teeth . 듣기 출처:능률교육
+  * # 부담 주려고한건 아닌데; i don't want to put you on the spot; put somebody on the spot
+  * 지미를 치과에 데리고 가는 건 정말 힘든 일이었지. aking Jimmy to the dentist was like pulling teeth . 듣기 출처:능률교육
 * 마을의 모든 사람들이 필요할 만큼 힘든 일을 뜻하는 표현입니다. 힐러리 클린턴이 쓴 동명의 책 It Takes a Village도 있는데, 아이를 키운다는 것은 지역 사회가 모두 나서야 할 만큼 중요하고 고된일이라는 메시지를 담고 있습니다. 
   * 비격식 표현으로 무언가를 달성하기 어려울 때 쓰는 형용사입니다. 영상에서는 this order is tall 이라고 쓰였는데요. 주로 a tall order 라고 써서 [# 무리한 요구] 라고 하기도 합니다.
     * 미안해, 제이슨. 그건 너무 무리한 요구야. 난 못하겠어. ex) Sorry, Jason. It's a bit too tall an order. I can't do it.

@@ -110,6 +110,8 @@
 * #자동차 구조
 * #속도 #slow down, decrease your speed 
 * #전속력; #속력; #at full speed
+	* throttle  [ˈθrɑːtl] 은 자동차 등의 연료 조절판을 가리키는데 이 조절판으로 속력을 조절할 수 있습니다. full throttle은 조절판을 최고로 조작한 것으로 '전속력으로'라는 뜻을 갖게 됩니다.
+		* 버스를 잡으려고 전속력으로 달렸다. We ran at full throttle to catch the bus.
 * 속도 줄여; #slow down
 * 속도 조절해; #pace yourself
 * 속도를 맞추다; #keep the pace with

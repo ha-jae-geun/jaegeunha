@@ -2,6 +2,11 @@
 * 주니어 개발자 취업 정보: https://github.com/jojoldu/junior-recruit-scheduler/blob/master/README.md
 	* 포트폴리오: https://gmlwjd9405.github.io/2018/05/04/how-to-write-a-resume-for-a-developer.html
 
+# 미국 포털사이트
+* 구글, 유튜브
+* https://www.aol.com/
+* https://www.yahoo.com/
+
 # 북마크
 * 네이버 영어사전 https://endic.naver.com/?sLn=kr
 * 구글 드라이브 https://drive.google.com/drive/u/0/my-drive

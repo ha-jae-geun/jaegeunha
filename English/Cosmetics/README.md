@@ -66,6 +66,7 @@
 * 나는 #사진발이 잘 받는데 오늘 화장일 잘 안받네 I am photogenic but having a bad makeup day today.
 * 화장 하긴 한거야? 						 Did you even put on makeup?
 * #생얼 #bare face #natural face; 약간 성형 안한 느낌
+	* i actually have no makeup on; i'm not wearing any makeup
 * 선크림 안발라서 #화상 입었어 I didn’t {put on, wear} sunscreen/sunblock so that I got a bad sunburn. 
 * #2도 화상 #second-degree burn
 * 윤곽을 그리다; start contouring my cheeks
