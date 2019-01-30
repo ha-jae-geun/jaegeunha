@@ -129,6 +129,8 @@
 * 지니샘 https://m.blog.naver.com/PostList.nhn?blogId=33yujin
 * 4EverYoung https://m.blog.naver.com/PostList.nhn?blogId=ireneyoung96
 * 영어놀이터 https://m.blog.naver.com/PostList.nhn?blogId=epg8307
+* LEX & Language https://m.blog.naver.com/PostList.nhn?blogId=chillaxer
+* 영어에 대해 알고가세요 https://m.blog.naver.com/PostList.nhn?blogId=allinoneedutech
 * 한국번역연구소 https://blog.naver.com/ktri8888
 * The Red https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 -----------------------------------------------------------------------------

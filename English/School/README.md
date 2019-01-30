@@ -416,6 +416,8 @@
 * 교양	liberal arts 
 * 펜을 잡다	holding pens, taking notes, jotting down, writing
 * #학용품	School supplies
+	* Office supplies; 큰 사무용품(프린터, 전자제품) <> Stationeries
+	* 소프트 커피: 디저털 형태의 PDF, 엑셀, 한글
 * 샤프심 		mechanical pencil lead 
 * 컨닝 	'Cunning'교활한, 정교한'으로 'cheating'
 * 컨닝 페이퍼	crib note crib sheet/cheat sheet

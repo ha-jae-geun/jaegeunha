@@ -96,59 +96,13 @@
 	* [가끔] 이라는 의미를 가진 단어로 sometimes 가 조금 더 친숙하실텐데요. sometimes 같은 경우엔 [가끔] 이지만, 무언가를 비교적 정기적으로 가끔 하는 것을 의미하는 반면에 every now and then 같은 경우엔 정해지지 않고 띄엄띄엄 가끔 하는 것을 의미합니다.
 	* every once in a while
 	* ##가끔 ##때때로 sometimes | once in a while | 때때로: from time to time | #now and then
+	* 가끔: from time to tome / once in  while / every now and then  always, usually, often, sometimes, rarely, never
+	* #빈도; 심지어 그것도 특별한 일일때만이에요; but even that is only on special occasions
 
 # 요일
 * 어서 금요일이 되면 좋겠어!; Roll on Friday! 듣기 출처:옥스퍼드
 
 
-* #overcommit; = #overpromise 필요 이상으로 #공언하다
-* be full of it; 누군가가 틀렸거나 진실을 말하지 않다
-* #연막 작전 #blow smoke(smoke)
-* #blow smoke up someone's arse/ass; #빈 말을 하다, #영혼 없는 칭찬을 하다
-* 거짓말; #falsehood
-* 새빨간 거짓마;ㄹ #lie through one's teeth
-* #뻔뻔한 거짓말; barefaced liar; #barefaced cheek; #뻔뻔한 짓; barefaced #impudence; #철면피
-* obvious lie; 뻔한 거짓말; 
-* 거짓말하다 #talk big, #exaggerate
-* 거짓말에 속는 사람 					 푸아송 다브릴 [pwasɔ̃] (Poisson d'avril)
-* #허풍쟁이야 							 loud mouth; he is loud mouth
-* #talk through your hat(#hat)
-* 허풍 중 하나 another one of his #whoppers
-* #고자질쟁이 								 tattletale(수다쟁이)
-* 고자질하다; #snitch(명사도 됨) = #tattle (on)
-* #팔아먹다; sold someone out; #sold out
-* 난 정말 #거짓말은 못해. 				 ‘hoʊpləs I’m pretty hopeless at lying.
-* #hoax
-* #crying wolf; 거짓으로 소동을 부리다; you've been crying wolf
-* 머리에 침바르고 거짓말해라; #Lick your lips before you lie
-* 밥먹듯이 거짓말하네								 lies like a rug
-* 상습적인 거짓말쟁이 #compulsive liar
-* 가끔 헛소리를 지껄여								 talks bullshit
-* #뻥까고 자빠졌네. 							 You're full of shit
-* 너 # 허풍치는거지. 						 You're bluffing. He's a big talker.
-* (뻥치지마 								 stop pulling my leg
-* 거짓말 하는 것을 잡아내다; catch someone in a lie <> got caught in a lie
-* #사기꾼이네 							 He's a #hustler = #charlatan
-* #trickster
-* #협잡꾼; #모리배; racketeer 미국식 [|rӕkə|tɪr] [명사] (못마땅함) (부정한 방법으로 돈을 버는) 
-* #fraudulent advertising [형용사] 사기를 치는[치기 위한]
-* #typosquatting; 유명한 웹사이트의 스펠링만 다르게 하여 하는 사기
-* ‘사기 			#deceit, fraud, swindle, confidence game[trick], (informal) con, (informal) scam
-* #감언이설로 꾀다; #snow job; it's just a snow job
-* #부정행위 #짓궂은 장난, #속임수 						Monkey business
-* #saucy; #성적으로 #짖궃은; do something saucy
-* 우스꽝스럽거나 정직하지 못한 속임수 Shenanigans(슈내니건스)
-* #기만 #부정직한 #deceitful 미국·영국 [dɪ|si:tfl] ; ##deceit (←deceitful) 미국·영국 [dɪ|si:t]
-* 기만적인; #treacherous
-* ‘부정한 #거래가 있었다						 there was some #funny business 
-* ‘부정행위 하다 걸렸어요 								 He got busted
-* 나는 어떠한 속임수가 있다는 것을 알아차렸다. I knew there was going to be some monkey business
-* 우리가 싸울 때 그는 계속해서 반박했다(핑계를 댔다)
-* ‘kɑ:ntrə2dɪkt He kept contradicting himself when we were arguing 
-* 무슨 핑계를 댈건데?						 What's your excuse? 
-* 핑계대지마 								 No buts about it
-* #put on; don't puu it(that) on me
-* #핑계
 * #할로윈 
 * 현관에 불이 켜져있으면 장난을 쳐도 된다는 뜻
 * 호박 조명 									 jack-0'lanten
@@ -251,6 +205,7 @@
 * #주 5일; week days; #five days a week # Monday through Friday
 * 몇 개월: many months 보다 months를 늘어뜨려서 말함으로써 강조
 * #달 ##month: 그달의 직원 employee of the month
+	* 매달 두 번쨰 일요일 어때? How about the second sunday of every month?
 * 작년 8월 July of #last month
 * 몇 달 전에 a couple (of) months ago
 * #연휴 										 long weekend

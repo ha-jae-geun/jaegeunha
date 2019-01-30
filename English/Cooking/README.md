@@ -136,6 +136,8 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 	* 식감만큼은 괜찮아; THey're quite nice in texture
 
 # Cooking
+* (고기, 닭, 생선, 게 등의) 음식 재료를 다듬거나 (뼈 발라내기, 털 뽑기 등), 샐러드에 풍미를 더 하는 소스를 더한다고 할 때 동사 dress를 사용할 수 있습니다. 샐러드 드레싱 (dressing)에서 드레싱이 바로 여기서 온 표현이죠.
+  * 닭 손질하는 것 좀 도와주겠니?Can you help me dress the chicken?
 * 퐁당하고 넣어주세요; And plop it in
 * 이것저것 섞어 조금 특이한 것을 만드는 것을 의미해요. 주로 음식에 많이 쓰이는 단어이고요. 이야기나 사실이 아닌 변명들을 [지어내다] 라는 뜻으로도 쓰입니다.
 	* 남은 음식으로 이 음식을 만들었어. ex) I concocted this meal from leftovers. -ˈkɑːkt] 

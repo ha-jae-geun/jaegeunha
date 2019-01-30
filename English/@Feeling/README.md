@@ -1629,6 +1629,7 @@ I am always overlooked(간과), never discount the contributions, put someone do
 	* 감정적으로 받아들이지 마 #don't take #offense = no offense, but
 	* ‘그 사람 나한테 #악감정 있어. 				 #have it in for He has it in for me.
 	* #원수 #증오 #불화 #악감정 #원한; we've got #bad blood (between); 
+	* = 우리는 너한테 악감정 없어.  We don’t have a beef with you. 
 * 불화를 개선하다. #mend fences
 	* make bad blood between two persons; make[breed, stir up] bad[ill] blood between
 	* '나는 집을 떠나는 것에 대해 불확실(만감)이 교차해	 I #have mixed feelings about leaving home

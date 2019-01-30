@@ -50,6 +50,10 @@
 # 만남
 * 얼굴만 알아; i know someome by sight
 * 친해질 시간이 필요해; we need some bonding time
+	* 이렇듯 누군가 어떤 사람인지 '알게 되다', 누군가와 '가까워지다, 친해지다' 라고 말할 때 get to know someone 라는 표현을 자주 사용해요!
+		* 너에 대해 더 잘 알게 돼서 정말 좋았어. It was really nice getting to know you.
+		* bond over something : 를 계기로 친해지다, 가까워지다, 유대가 생기다
+			* 우린 고양이 좋아하는 걸로 가까워졌어. We bonded over our mutual love for cats.
 * 예고 없이 놀러와; You come over unannounced
 * 노담 괜찮네요; Good one
 * 내 고민거리를 가지고 올게; i'll come with my problems

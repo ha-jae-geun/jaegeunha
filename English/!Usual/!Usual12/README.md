@@ -1,3 +1,260 @@
+# 쓸만한 영어 - 물건을 잃어버렸을 때 꼭 필여한 영어표현 - Lost&Found\영어회화\영어공부
+ * - 내가 여기 20분 전에 점심 먹으러 왔었어요.
+ * - 어떤 문장을 떠올렸을 때 생각이 복잡해진다면 
+ *   짧은 문장으로 나누어 말해보세요.
+ * 
+ * - I was here for lunch.
+ *   1) 내가 점심 먹으러 여기에 있었다.
+ *      
+ *   I left 20 minutes ago.
+ *   2) 그리고 20분 전에 떠났다.
+ * 
+ * - 그런데 내 가방을 두고 간 걸 알았어요.
+ *   "알았다" = 무조건 "know"(X)
+ *     ⇒ realize
+ *    realize는 다음 동사를 살릴 때 따로 다루겠습니다.
+ * 
+ * - I realized that I left my bag behind.
+ *   직역 : 나는 내 가방을 뒤에 남기고 간 것을 깨달았어요???
+ *   의미 : 내 가방을 두고 갔다는 것을 알았어요.
+ * 
+ * - I realized that I left my bag behind. + 거기에
+ *                                                             + 여기에
+ * 내 가방을 두고 갔다는 것을 알았어요.                                                         
+ *   
+ * - I realized that I left my bag behind. + here??
+ *   내 가방을 여기에 두고 갔다는 것을 알았어요.
+ *   I realized that I left my bag behind. + there??
+ *   내 가방을 거기에 두고 갔다는 것을 알았어요.
+ * 
+ * - I realized that I left my bag behind. (O)
+ *   내 가방을 두고 갔다는 것을 알았어요.
+ *   I realized that I left my bag here. (O)
+ *   내 가방을 여기에 두고 간 걸 알았어요.
+ * 
+ * - I had lunch here. = I was here for lunch
+ *   and I left about 20 minutes ago.
+ *   I realized that I left my bag behind.
+ * 
+ * - lose-lost-lost
+ *   잃어버리다
+ *   * 'lost'를 쓸 수 있지만 상황에 맞게 써야합니다.
+ * 
+ * - I lost my purse and I think I left it here.
+ *   제 핸드백을 잃어버렸는데 여기에다 두고 간 것 같아요.
+ * 
+ * lost를 쓸 때 주의할 점
+ *  lost [잃어버렸다 → 없다]
+ *   식당에서 찾았다고 연락을 받고 찾은 물건을 찾으러 간 상황에서 "I lost my purse."는 맞지 않음
+ * 
+ * - I forgot to take my bag.
+ *   내 가방 가져가는 것을 잊었어요.
+ * 
+ * - I forgot my bag here.
+ *   내 가방(가져가는 것)을 잊었어요.
+ * 
+ * 
+ * ▷ 혹시 그거 보셨어요?
+ * 
+ * - Have you seen it?
+ *   그거 보셨어요? 
+ *  (그래서 어디있는지 알아요?)
+ * 
+ * - 내 핸드폰 어디에 있는지 봤어?
+ *   (봐서 어디에 있는지 알아?)
+ *   Have you seen my (cell) phone?
+ * 
+ * 
+ * ▷ 누가 여기에 갖다놓은 것 없나요?
+ *      누가 여기에 맡겨놓은 것 있나요?
+ * 
+ * - turn sth. in
+ * 
+ * - Did anyone turn it in?
+ *   직역 : 그것을 반납한 누군가 있나요???
+ *   의미 : 그거 맡겨둔 사람 없나요?
+ * 
+ * 
+ * ▷ 혹시 다른 직원들 중에 본 사람은 없는지 확인 좀 해줄래요?
+ * 
+ * - Can you check ~ ?
+ *   Can you check + (~인지 아닌지)
+ *   Can you check if ~
+ *   ( ~인지 아닌지 확인 좀 해줄래요?)
+ * 
+ * - Can you check if anyone has my bag?
+ *   누군가 제 가방을 가지고 있는지(아닌지) 확인 좀 해줄래요?
+ * 
+ * - 더 자연스러운 말은?
+ *   분실물 보관소(Lost&Found)에 있는지를 물으면 꼭 분실물 보관소가 따로 없어도 그 의미로 통합니다.
+ * 
+ * - Can you check if my bag is in your lost and found?
+ *   직역 : 제 가방이 분실물 보관소에 있는지 확인해주실래요?
+ *   의미 : 혹시 분실된 가방 맡아놓은 거 있는지 좀 봐주실래요?
+ *   'if'는 문장 속에서 또렷히 들리게 발음되지/하지 않음
+ * 
+ * - Can you check if you have my bag in your lost and found?
+ *   같은 의미의 다른 문장
+ * 
+ * 
+ * ▷ 이미 숙소/집으로 돌아온 후
+ *      나중에 분실된 사실을 알게되어 전화할 때
+ * 
+ * - ~때문에 전화했어요. (+문장을 말하는게 편하면?)
+ *   I'm calling because + (말하고 싶은 문장)
+ * 
+ * - 예시상황
+ *   어제 거기에서 저녁을 먹었는데 재킷을 두고 왔어요.
+ *   Hi, I'm calling because I left my jacket there.
+ *   안녕하세요, 제가 거기에 재킷을 두고와서 전화했어요.
+ *    
+ *   Hi, I'm calling because I left my jacket behind. 
+ *   안녕하세요, 제가 재킷을 두고와서 전화했어요.
+ * 
+ * - 거기에서 저녁 먹었어요.
+ *   (저녁 먹으러 거기에 갔었어요.)
+ * 
+ * - I was there for dinner ( + tonight/last night)
+ *   (+오늘/어제 저녁에) 거기에서 저녁 먹었어요.
+ * 
+ * - Hi, I'm calling because I left my jacket there.
+ *   I was there for dinner.
+ * 
+ * 
+ * ▷ 직원한테 들을 수 있는 말
+ *      : 분실물 보관하는 부서로 전화 돌려드릴게요.
+ * 
+ * - 전화 (어디로/누구한테) 넘겨드릴게요.
+ *   →  get sb. over to sb. 
+ *        transfer sb. (over) to sb.
+ *        put sb. through sb.
+ *       전화 (어디로/누구한테) 넘겨(바꿔/돌려)드릴게요.
+ * 
+ * - 예) I'll get you over to the lost and found.
+ *         분실물 담당부서로 연결해드릴게요.
+ * 
+ * - 혹시 찾으면 저한테 연락 좀 주실래요?
+ *   제 (전화)번호 남기면 (찾았을 때)연락 좀 주실래요?
+ *   
+ * - Please give me a call if you find it.
+ *   혹시 찾으면 저한테 연락 좀 부탁드릴게요.
+ * 
+ * - 제 번호를 드릴테니 (찾으면) 다시 전화주실래요?
+ *   If I leave my number, can you call me back?
+ *   제 번호를 드릴테니 (찾으면) 다시 전화 좀 주세요.
+ * 
+ * 
+ * ▷ (다른 누군가가) 찾아서 맡기면 저한테 연락 좀 주시겠어요?
+ * 
+ * 실제로 찾는 find의 의미(X) < 물건을 찾아서 반납해놓는 뜻(O)
+ *  누군가 찾아서 맡겨놓으면 연락 좀 주시겠어요?
+ * 
+ * - turn in : 물건을 찾아서 반납해놓는 뜻
+ *   누군가 찾아서 맡겨놓으면 연락 좀 주시겠어요?
+ * 
+ * - Can you give me a call if anyone turns it in? 
+ *   누군가 찾아서 맡겨놓으면 연락 좀 주시겠어요?
+ * 
+ * 
+ * ▷ 물건을 찾았다고 연락이 와서 대답할 때
+ * 
+ * - That's great news!
+ *   직역 : 그거 좋은 소식이네요.
+ *   의미 : 듣던 중 반가운 소리네요.
+ *   어떤 새로운 이야기를 듣고 좋아서 호응할 때 하는 말
+ * 
+ * - That's a relief!
+ *   다행이네요!
+ * 
+ * - relieve
+ *   꽉 채워져(/실려) 있던 것이 
+ *   덜어지는(/풀리는) 그림
+ * 
+ * - relieve
+ *   내 마음/정신적인 긴장/부담이 덜어지는 그림
+ * 
+ * - I'm relieved (to hear it.)
+ *   (그 얘기를 들으니)안심이다.
+ * 
+ * - I'm relieved.
+ *   다행이네요.
+ * 
+ * - You saved us!
+ *   직역 : 우리를 구했어요???
+ *   의미 : 정말 너무 다행이에요.
+ *   특히 중요한 귀중품을 찾았을 때
+ * 
+ * - You saved my life!
+ *   직역 : 내 인생을 구했어요??
+ *   의미 : 정말 너무 다행이에요.
+ *   특히 중요한 귀중품을 찾았을 때
+ * 
+ * 
+ * ▷ 찾으러가겠다고 할 때
+ * 
+ * - I'll pick it up as soon as possible.
+ *   찾으러 바로(/최대한 빨리) 갈게요.
+ * 
+ * - I'll be there in 30 minutes.
+ *   30분 안에(/후에) 갈게요.
+ *   완전히 콕 찝은 30분이란 경계가 있다면 
+ *    within 30 minutes
+ * 
+ * - I'm gonna go...(X)
+ *   제가 그거 찾으러 갈게요.
+ *   물건쪽으로 다가가는게 포인트
+ * 
+ * - I'm gonna come pick it up.
+ *   제가 그거 가지러 갈게요.
+ *   물건쪽으로 다가가는게 포인트
+ * 
+ * 
+ * ▷ 물건을 찾으러가서 뭐라고 헤야할지 난감할 때
+ * 
+ * - 우리에게는 뭔가 어색한 첫마디의 시작..
+ * 
+ * - 거기 가면 누구를 찾아야해요?
+ *   거기 가면 누구한테 얘기해야해요?
+ * 
+ * - Who do I look for when I get there?
+ *   거기 가면 누구를 찾아야해요?
+ * 
+ * - 거기 가서 매니저를 찾으면 되나요?
+ *   물리적으로 '찾는' 행동의 그림(X)
+ *   < (누군가를 만나려고 물어보고) 찾는 그림
+ * 
+ * - ask for
+ *   한국어 '찾다' = 무조건 'find/look for'가 아닌 
+ *    문맥과 상황에 맞는 구체적인 동사를 쓰세요.
+ * 
+ * - Can I ask for a manager when I get there?
+ *   거기 가서 매니저 찾으면 되나요?
+ *   한국어 '찾다' = 무조건 'find/look for'가 아닌
+ *    문맥과 상황에 맞는 구체적인 동사를 쓰세요.
+ * 
+ * 
+ * ▷ 여기 제 재킷 찾으러왔어요.
+ *      / 여기에서 제 재킷 찾았다고 전화주셨어요.
+ * 
+ * - 교재의 문법대로 아무때나 일반적인 대상의 주어를 무조건 'you'라고 할 수 있을까요?
+ *   I got a call from you that you found my jacket???
+ *   지금 대화하고 있는 직원이 전화한 것처럼 들림
+ *   I got a call from you that you found my jacket???
+ *   거기에서 일하는 불특정한 직원(누군가)을 가리킬 수 있는 말은?
+ *   
+ * - I got a call from someone who said (내 재킷 찾았다고) (O)
+ *   거기에서 일하는 불특정한 직원(누군가)을 가리킬 수 있는 말은?
+ * 
+ * - I got a call from someone who said you guys found my jacket.
+ *   (직원들이) 제 재킷 찾았다고 전화받았어요.
+ * 
+ * - I'm here to pick up my jacket that I left behind.
+ *   직역 : 두고 간 제 재킷 가지러 왔어요.
+ *   의미 : 잃어버렸던 제 재킷 찾으러 왔어요.
+ *   이 때 '잃어버린'라고해서 'lost'를 쓰면 '지금도 없다'는 뜻이 됨﻿
+ 
+
+
 # 쓸만한 영어 - [ Refer ] 누가 보내서 왔어요! - 누가 소개해서 왔어요! \영어공부\영어회화
  * - send
  *   직접 무엇/누군가를 보내는 그림

@@ -37,6 +37,8 @@
 	* #노점상; #street vendor
 	* #행상; #peddler = #pedlar #잡상인; #solictor
 	* #수강 신청 #class shopping; 수업 마음껏 넣고 정정기간에 빼는 행위
+* : 먼저 'corner the market' 은 '시장을 독점하다, 주식/상품을 매점하다' 라는 뜻이에요! 그래서 표면적인 뜻은 'A를 독점하다, 매점하다'인데, 이 문장처럼 비유적으로 쓰기도 하죠. 
+  * 헛소리는 그쪽이 독점한 것 같은데요.  Sounds like you've got the market cornered on nonsense.
 
 # 거래
 * 현금만 받는 사업이거든요; It is a cash only business

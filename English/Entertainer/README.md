@@ -104,6 +104,9 @@
   * 보통 일반 국민의 세금으로 출장을 빙자해 비싸고 불필요한 여행을 간다거나, 가족들을 데리고 갈 때 그 비용을 전부 돈으로 쓴다거나 할 때 하는 말
 * 현실적인 연기를 바랐어요; i hopedf for a much more grounded performance
 * 개봉일이에요; it's the premiere for ~
+	* hit theaters, release, come out, open 등 다양한 동사를 쓸 수 있어요. 그럼 예문을 통해 확인해 볼까요?
+  * 아이언맨 한 달전에 개봉했어. Spider Man hit theaters a week ago.
+  * 아이언맨은 전세계 동시 개봉을 할 예정이다. Iron Man will simultaneously open worldwide. 
 * 장편 영화; feature film
 * 좋은 영화에요; Such a good movie
 	* 평점 낮던데; The movie has a low rating

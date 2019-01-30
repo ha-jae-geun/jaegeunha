@@ -1,4 +1,6 @@
 ## 우주
+* space 와 기본적으로는 같은 의미로 쓰여요. 하지만 space 는 [공간] 이라는 의미로도 쓰이기에 헷갈림을 방지하기 위해, 우주를 의미할 땐 일부러 outer space 라고 쓰기도 한답니다. universe 도 [우주] 라고 배우는데요. 정확한 정의를 보자면 universe 는 빅뱅에 의해 생성된 모든 에너지, 공간, 자기장, 행성 등을 의미해요. 그리고 outer space 는 universe 에 속하는 하위 개념으로 [지구 밖의 공간] 을 의미합니다. 따라서 지구는 universe 의 일부지만 outer space 는 절대로 될 수가 없는 거죠.
+	* = 넌 우주에서 온 것처럼 행동하는구나. You act like you're from outer space.
 * 고유명사: earth, Mars, Moon; 지구 일때는 the 안붙임
 	* 반면 일반명사로서의 지구일 때 the earth; The earth rotates around the sun
 	* #mercury, #venus, #earth, #mars, #jupiter, #saturn, #uranus, #neptune, #pluto

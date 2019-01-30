@@ -1,3 +1,43 @@
+# 2019년 NEW 연습가이드 체험해보세요! [ 하드코어 ]
+* 사실은 영어를 배우고 싶어 하는 사람들을 많이 보게 된다고 하는 것이 맞을 것 같아요.
+  * Actually, i feel more incined to say that i come across a lot of people who want to learn English;  be inclined to: 어떠한 경향으로 어떤 일이 발생하기 마련이거나 행동하고 싶은 충동;  be 대신 feel: 어떤 정해진 것보다 지금 그렇게 느낀다라는 우발적인 요소를 강조
+* 실질적으로 배우는 과정을 거치기 보다 영어를 배우는 방법론에 집착하는 사람들이 많기 떄문이에요. that's because a lot of people obsess over the methodology  of learning English instead of going through the actual learning process, 
+  * go through a process: 과정 따위를 거치다;  A를 한다 instead of B: 원래는 B를 해야 정상이지만 A를 해버린다.
+* 이 주제에 대해서 제가 사람들에게 조언을 해줄 때 항상 하는 얘기가 있어요. 영어를 배우는 것을 악기나 운전하는 것을 배우는 것과 전혀 다르게 생ㅇ가갛지 말라고요. There's something that I never forget to say when I'm advising some people on this topic, and that's Don't think of learning English any differently from learning to play a musical instrument and learning to drive
+  * i never forget to say: i always say와 같은 의미이지만 꼭 반드시 챙겨서 하는 얘기라는 것을 더 강조하기 위해 쓰임
+* 그리고 그게 비유를 해서 하는 말이 아니라, 말 그대로 사실이에요. and you know what? that's not an analogy. and that's just stright up true
+  * You know what: 상대방을 주목시키기 위해 쓰임, 그 내용이 의외이거나 놀라울 수 있다는 것을 암시;  straight up: 아무런 꾸밈이나 과장이 없이 있는 그대로 어떻다는 것을 나타낼 때 흔히 사용되는 수식 표현
+* 언어를 배우는 것은 우리가 살면서 배우는 그 어떤 것과도 다를게 없어ㅛ. learning a language isn't any different from anything else that we learn to do in life
+  * in life: 살면서; as we live 라는 말은 안씀
+ * 저는 사람들이 영어에 대해 두려움을 가지고 있다는 것과 어떻게 극복해야 하는지를 많이 질문받아요. I get a lot of people who say that they have this fear of English and asking how they could overcome it
+  * how they could: 그것이 가능한 것인지에 대한 문제가 아직 확립이 안된 상태, 미지수
+* 근데 생각해봐요, 운전하는 것읆 ㅜ서워 하는 사람에게 우리가 보통 무슨 말을 해주나요? 그냥 해야돼요, 한번 익숙해지고 나면 별거 아니에요. but think about it, what do you usually have to say to people who are scared of driving? you just have to do it, it's not a big deal once you get used to it
+* 이렇게 밖에 얘기를 못해주는 것은 운전에 대한 두령뭉르 극복하기 위한 확실한 방법이 실력을 높이는 것 외에는 없다는 것이에요. and the reason that this is all we can say is because there really is no sure way to overcome the fear of driving other than to get better at it
+  * the reason that.. is because (that); 앞서 말한 내용에 대한 이유를 설명할 때 흔히 쓰이는 문맥/문장 구성; 
+  * a sure way to: -을 하기 위한 확실한 방법
+* 두려움을 느끼는게 잘못됐나요? 아니죠! 그리고 마음 속 깊이, 우리는 모두 이걸 알고 있고 받아들이고 있어요.is it wrong to feel scared? No, and deep inside we all know this and we accept it
+  * 마음 속 깊이: deep inside
+* 영어를 배우는 것도 다를게 없는데 한국에서의 영어 교육은 심하게 상업화가 이루어졌고 우리로 하여금 빠르고 쉬운 방법을 돈 주고 살수 있다는 것을 믿게 하는 데에 성공했다.  learning Egnlish is no different but English education in Korea has become extremely commercialized and it has succeeded in having us believe that we can purchase a quick and easy way
+  * has become.../has succeed; 상업화가 이루어지고 어떤 부분에 있어 성공을 이루어낸 일이 어떤 한순간이 아닌 시간에 걸쳐 이루어졌고 현재에 와서 어떤 상태로 완성 돼 있는 모습을 설명하기 때문에 완료시제가 사용
+  * succeed in + -ing: 성공하다
+* 그렇다고 해서 우리의 시간과 돈을 낭비시켰다고 그들을 비난해야 될까요? 아니죠! 비즈니스잖아요! so does that mean we should blame them for wasting our time and money? No! it's business
+  * Does that mean we shoud-?   blame 사람 for -ing
+* 그들이 상품을 만들고 그 상품을 마케팅하면 소비자인 우리가 스스로 결정을 내리잖아요. 늘 그래왔어요, 그렇죠? they come up with their products and they market their products and we the consumers make the decisions for ourselves, that's how it's always been, am I right? 
+  * make the decision for (one)self: 무엇에 대해서 다른사람의 도움이나 영향 없이 자기 스스로 결정을 내린다는 의미로 흔히 사용되는 표현
+* 우리가 꼭 명심해야 되는 것은 그들이 제공하는 것ㅇ느 배우기 위한 도구와 가이드라인이라는 것이다 what we must not forget is that what they provide are tools and guidelines to learn
+* 우리가 더 쉽게 배울 수 있게 해줄까요? 더 쉽게는 아니더라도 더 편리하게 해줄수는 있어요
+, will they make it easier for us to learn? maybe not easier but maybe more convenient, 
+  * make it easire for 사람 to
+* 그 도구와 가이드라인이 내 영어 실력을 높여줄까요? 그것은 전적으로 당신한테 달렸어요! will those tools and guidelines improve my English? that's completely up to you. 
+* 이건 우리한테 안좋은 물건을 파는 회사에 대한 얘기가 아니에요, 지금 그게 중요한 게  아니에요. this is not about companies and businesses trying to tell us bad products, no, it's not about that
+  * be (not) about: 핵심 내용, 요점이 무엇인지에 대한 얘기를 할 때 아주 흔히 쓰이는 표현  
+* 이건 우리가 이미 잘 알고 있는 사실을 받아들이는 것에 대한 문제에요. 뭔가를 배울 때는, 어떤 것도, 어떤 누구도 우리에게 배워줄 수가 없어요. this is about coming to terms with what we already know that when it comes to learning something, nothing and no one can learn it for us
+  * come to terms with: 어떤 상황이나 사실을 받아들이고 그것에 익숙해진다는 의미로 흔히 사용되는 표현
+* 우리 스스로 노력을 들여야 해요. 우리 스스로 고통스러운 배움의 과정을 거쳐야 해요. we have to put in the work, we have to go through the painful process of learning
+* 분명하게 해두자고요, 이건 단순히 물건을 사서 손에 넣는 것과는 달라요. let's be clear this is not like buying a product and putting it in our hands 
+* 그래서 우리가 누구를 위해서 뭉서을 사줄수는 있어도, 누구를 위해서 무엇ㅇ르 배워줄 수는 없는거에요. that's why we can buy something for someone, but we can never learn something for someone.﻿
+ 
+
 # "I find it hard to...." -- 원어민이 자주 쓰는 표현을 배워보자
 * 면 년 전에 프라하에 있었을 때, 현지인들과 친해지기 어렵더라고요
   * When i was (staying) in prague a few years ago, i found it difficult to socialize with the locals

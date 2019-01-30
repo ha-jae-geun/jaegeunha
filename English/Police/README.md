@@ -35,6 +35,7 @@
   * 수상한걸 느꼈어요; i started noticing some sketchness
   * 기만적인 정치가 a devious politician 
 * 쟤가 스파이야; he's the rat
+  * - double agent = 이중간첩 - undercover agent = 비밀요원, 비밀 수사관(일반인 또는 범죄자 행세를 하고 잠입수사하는 경찰관) - sleeper agent = 고정간첩, 위장간첩 sleeper agent는 스파이로 특정 국가나 조직의 일원으로 위장 잠입은 하되, 당장 미션을 수행하지 않고 지시가 내려지길 기다리는 간첩을 뜻해요. 하나의 조직이 이렇게 하는 건 sleeper cell이라고 해요.
   * 흘깃 엿보거나 엉큼하게 쳐다보는 것을 의미합니다. 조금 더 몰래 '훔쳐보는' 느낌을 표현하고 싶을 땐 sneak a peek 이라고 합니다. 무언가가 정식으로 발매되기 전에 살짝 볼 수 있는 것을 sneak peek 이라고도 합니다. ex) Did you sneak a peek at my files?
   * 몰래 관찰하는게 기대된다; i can't wait to be a fly-on-the-wall
   * 스토킹; 네가 스토킹을 당하고 있었다고 했잖아. You said you were being stalked.
@@ -42,6 +43,8 @@
       * 시위대들은 잔인한 폭력을 겪었다. ex) Protesters were subjected to cruel violence.
     * cheap shot은 ‘비열한 수단, 치사한 짓’을 의미합니다. 비열한 수단을 ‘쓰다’라고 할 때는 주로 동사 take를 쓰고, ‘at/on+사람’을 넣어 누구에게 쓰는지 구체적으로 표현할 수도 있죠. 
       * 사람들 앞에서 그를 놀리는 것은 비열한 짓이었어.  It was a cheap shot to make fun of him in front of everyone. 
+    * #dip around; #캐고 다니다; #snoop around; 훔쳐보며 두런두런; #sniff around; 킁킁
+      *   #poke around; 뭘 찾아 내려고 묻고 다니다
 * 우리는 책임이 있을 법한 용의자들을 체포해ㄸ싸; we've rounded up the only criminals
 * 독심술 기술을 사용할거야; most advanced mind reading technology
 * 그는 좀 악당 같은 데가 있지만 아주 매력적이다. He’s a bit of a rogue, but very charming. 
@@ -404,6 +407,8 @@
 * 체포합니다 You’re under arrest
   * 감춰뒀던 신분이 탄로난다는 표현입니다. 감싸던 커버(cover)를 날려버려서(blow) 본 모습이 드러나게 만든다는 거죠. 이와 반대되는 단어가 undercover 입니다. 덮개(cover) 아래(under)에 있다하여 ‘위장의, 비밀리에 하는, 첩보의’를 뜻합니다.
     * 스파이는 그의 신분이 노출됐다는 것을 알아채고는 도주하였다. The spy fled when he realized that someone had blown his cover.
+  * hide는 단순히 숨는 것이지만 skulk는 몰래, 들키지 않게 숨어 다닌다는 것으로 좀 더 ‘은밀함’이 느껴지는 단어입니다. 비슷한 표현으로는 sneak around 가 있습니다. skulk가 좀 더 문어체, 격식있는 어투 느낌입니다.
+    * 뒷뜰에서 누군가가 몰래 돌아다니는 걸 본 것 같아. 경찰 불러야 하나? I think I saw someone skulking in the backyard. Should we call the police? 
   * 최근에 생겨난 신조어인데요. sleeper 는 평소엔 자는 듯 조용히 있다가, 일이 일어나면 활동하는 스파이를 의미하고요. cell 은 [조직] 이라는 뜻이 있어서, 두 단어가 함께 쓰여 [잠복 조직] 이라는 의미를 가지게 되었습니다.
     * 나라 안에 얼마나 많은 사람들이 잠복 조직에 속했는지는 절대 알 수가 없지. ex) You never know how many people in this country actually belong to sleeper cells.
   * 우리가 제압할 수 있을 것 같애; we can take them

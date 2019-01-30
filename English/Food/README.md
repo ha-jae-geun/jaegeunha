@@ -7,9 +7,12 @@
 * nut cracker
 * cherry picker
 * 이 배는 안쪽까지 썩었어; THe pear is rotten to the core
+* 털 복숭아; #peaches <> 천도 복숭아; #nectarines; [|nektəri:n]
+
 
 ## 귤
 * 북한에는 오렌지는 있어도 귤은 없다;
+
 
 # 스테비아
 * 당뇨 환자가 먹을 수 있는 설탕보다 몇 배로 단 것; 흡수가 안되고 그냥 배설이 되어서 당요 환자 들이 즐겨 먹는 것
