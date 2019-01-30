@@ -76,6 +76,8 @@
 # 가르쳐주다
 * 여기서 primer는 안내서, 입문서를 의미해요. 동사로서의 prime은 어떤 특정 목적을 위해 준비시키다, 미리 가르쳐주다, 또는 벽 등에 밑칠을 하다라는 뜻이 있죠. 바로 여기서 발전된 단어가 primer지요~
   * 이게 생화학 입문서야. This is the primer of biochemistry.
+* * spoon-feed : 하나하나 다 알려주다. 1) 숟가락으로 일일이 떠먹여 주는 걸 의미하지만, 이 말은 스스로 뭔가를 하도록 놔두는게 아니라, 하나하나 다 알려주는 것을 의미합니다.
+  * 교수님은 기말 고사를 위해 우리가 알아야 하는 것을 하나하나 다 알려주셨어. ex) The professor spoon-fed us with what we need to know for the final exams.
 
 # 가만
 * #가만히 있다; #stand pat
@@ -920,6 +922,8 @@
 * # 절차가 많아; there are too many red tapes
 * baby step은 어떤 일이나 과정에 있어서 아주 조금 나아가는 행동 또는 단계를 빗대는 표현입니다. a baby step처럼 단수로 사용하는 경우는 주로 어렵고 긴 과정에서의 '첫 한 걸음'을 의미해요.
   * 새로운 기술을 조금씩 배워 나아가고 있어요. I'm taking baby steps in learning new techniques.
+* red tape : (불필요하게) 형식적인 절차
+  * 지원금이 형식적인 절차에 묶여있어. ex) The grant is now tied up with red tape.
 
 # 과학
 * pseudo-science : 유사과학, 사이비과학; 과학적이지 않지만 과학적인 방법에 근거했다고 여겨지는 믿음이나 관행을 의미합니다. 
@@ -1110,6 +1114,10 @@
  * # 낙천적 사람 #happy-go-lucky.
  * #낙관적인; #upbeat; I wasn't upbeat anymore
  * 긍정적인 시각을 유지하다 #maintain a positive outlook
+
+# 금지
+* outlaw는 ‘법으로 금지하다’라는 의미로 동의어는 illegalize, 반의어는 legalize가 입니다. outlaw가 명사로 쓰일 때는 ‘범법자, 무법자’를 뜻 합니다. 
+  * 모든 종류의 도박은 법으로 금지해야 한다고 생각해. I think all kinds of gambling should be outlawed. 
 
 # 균형
 * 그들은 실업률과 인플레이션 사이의 균형을 유지하고자 했다. They were attempting to trade off inflation against unemployment. 
@@ -2077,6 +2085,10 @@
   * 덩어리 안 지게 하는 비법; that is the secret to no #lumps
   * #cluster; it's got these clusters in it
 
+# 도덕
+* 도덕적 잣대, 윤리적 기준 = moral compass 나침반은 사람들이 길을 잃었을 때 가야할 방향을 알려주는 도구잖아요? 따라서 윤리적으로 가야할 길을 알려주는 [윤리적 기준] 이라는 의미를 가지게 된 재밌는 표현이에요!
+  * 너희들은 도덕적 기준 같은 것도 없니? ex) Don't you guys have a moral compass or something?
+
 # 도망
 * 도망중이야; Two supects are on the run
   * run away; on the lam; get away
@@ -2580,6 +2592,12 @@
 * [만연하다] 라는 뜻의 동사 pervade 에서 온 단어인데요. 주로 탐탁치않은 영향력 등이 곳곳에 퍼지는 것을 의미하는 단어입니다.
   * 일에서오는 만성적인 스트레스가 사회 전체에 만연해있다. ex) Chronic stress from work is pervasive throughout the entire society.
 
+
+# 만화
+* 애니메이션 animation을 짧게 줄인 말인데요, 애니메이션 중에서도 일본 애니를 일컫는 말입니다! 미국에서는 꼭 구분해서 쓴답니다. 추가로, 미국 만화는 cartoon이라고 하고 '토이 스토리' 같은 애니메이션 영화는 animated movie 혹은 animated (feature) film이라고 합니다!
+  * 하지만 이렇게 말하면 매우 어색해요. Toy Story is my favorite animated film.
+* 또, 영화 제작사로 구분하는 경우도 많아요.
+  * 토이 스토리는 내가 제일 좋아하는 픽사 영화야. Toy Story is my favorite Pixar movie.
   
 # 말
 * [표현하다] 라는 뜻의 단어는 express 도 있는데요. express 는 좀 더 일반적인 단어이며, 표현을 잘하든, 잘하지 못하든 express 라고 할 수가 있습니다.  반면에 articulate 는 express clearly 라고 생각하시면 되는데요. 생각, 감정 등을 '분명하고 능숙하게' 표현해내는 행위를 의미해요. 또한 형용사로도 쓰여 [잘 표현하는/또렷한] 의 의미를 갖기도 합니다.
@@ -2658,12 +2676,15 @@
   * 레이첼은 직장의 여자들과 어울리기를 꺼려 했어.  ex) Rachel was reluctant to hang out with the girls in her office.
 
 # 망했다
-* 망했따; be washed up
+* 영국에서 자주 쓰는 비격식 표현이고, 듣는 사람이 조금 무례하다고 느낄 수도 있는 단어에요. 원래는 중간에 하이픈을 빼고 cock up [~을 망치다/형편없게 하다] 라는 동사로도 많이 쓰여요. 영상의 주인공이 영국 총리이기 때문에 [정치를 엉망으로 해서 죄송합니다] 라고 해석이 되었습니다.
+    * 네가 완전히 망쳐버렸어. 이걸 어떻게 만회할거야? ex) You've made a real cock-up. How are you going to make it up?
+    * 살면서 내가 했던 모든 일은 다 망쳐버린 듯한 기분이 들어. ex) I feel like I've cocked up every job I've had in my life.
+    * 망했따; be washed up
   * 주식 시장이 폭삭 망했다. The stock market tanked.
   * 망했어; i'm screwed / i blew it / i'm doomed / i'm in trobule / i ruined everything
   * flunk a test; 시험 망하다, flunk a subject; 과목 망치다, flunk out of school: 퇴학당하다
-* CEO 의 스캔들 때문에 회사가 망해가는 것 같아. ex) It looks like our company is going belly up because of the CEO's scandal.
-* 망치다: drop the ball
+  * CEO 의 스캔들 때문에 회사가 망해가는 것 같아. ex) It looks like our company is going belly up because of the CEO's scandal.
+  * 망치다: drop the ball
  * 시간표 망했어; my timetable is doomed
  * #go downhill(#downhill); 쇠퇴하다; the relationship goes downhill
  * 퇴보하는 거에요 go #backward; staying the same means going backwards
@@ -2737,6 +2758,8 @@
 
 # 명령
  * 그 편지에는 그에게 본부에 즉시 보고하라는 지시가 적혀 있었다.
+   * Orders are orders. [명령은 명령이다] 그러니 좋든 싫든 지켜야 한다- 라는 의미로 쓰여진 표현이에요. restrain 은 [막다, 저지하다] 라는 의미가 있기에 a restraining order 는 [접근 금지 명령] 을 의미합니다.
+    * 왜 아무도 이 일을 안하려는지는 이해하지만, 명령은 명령이니까 시작하자. ex) I understand why no one wants to do this, but orders are orders, so let's get it started.
    * : '결정하다, 지휘하다' 라는 뜻의 관용구! 교관이 훈련병들에게 사격 명령을 내리는 말로 쓴 데에서 유래했다고 해요.  call the shots
    * instruct (비교적 격식)(특히 격식을 차려ㆍ공식적으로) 지시하다:
    * The letter instructed him to report to headquarters immediately.
@@ -3617,6 +3640,10 @@
  * - 그거라면 내가 전문이에요~!           That's right up my alley ~! 
  * 나 빠삭해               I know what I'm doing.
  * English experts/specialist in a field of English
+
+# 방향
+* 갑자기 방향을 바꾸는 것을 의미하는 단어인데요. 영어에서 chicken 은 속어로 [겁쟁이] 를 의미합니다. 앞서 나온 a game of chicken 은 누가 더 겁쟁이인지 알아내기 위한 게임으로, 예를 들면 차가 서로를 향해 직선으로 돌진하다가 충돌의 위험으로 먼저 방향을 바꾸는 사람이 겁쟁이가 되는 건데요. 영상에서는 서로 사사건건 부딪히는 둘 중에 누가 먼저 꼬리를 내리고 물러설지를 치킨게임에 비유하였기 때문에 swerve 라는 단어를 써서 서로를 향해 오던 [방향을 바꾸다 = 도망가다] 로 해석이 되었습니다.
+  * = 차가 방향을 바꿔 트랙에서 벗어났지만, 다행히 아무도 다치지 않았다. The car swerved off the track, but luckily no one got hurt.
 
 # 방해
 * 프랑스어에서 온 단어로, 중세 농민들이 탐욕스러운 영주의 부당한 처사에 대한 항의로 곡식을 나막신 (sabot) 으로 짓밟은 것에서 나온 표현이에요. 우리말로 된 뉴스나 신문에서도 가끔 노동 관련 뉴스에서는 '사보타주' 라고 그대로 쓰기도 하는데요. 노동자들이 시설이나 원자재 등을 파괴하여 생산이나 사무 활동을 방해하는 것을 의미해요. 그 모습의 연장선 상에서 영상에서처럼 무언가를 [고의로 방해하다] 의 의미를 가집니다.
@@ -4610,6 +4637,8 @@ retaliate
 # 속도
 * 너 속도에 맞추다; YOu keep up the pace
 * #속도를 줄이다; #dial back the speed
+  * take your foot off the gas[pedal]  : 가속 페달에서 발을 떼다, 속도를 늦추다 gas는 차의 가속 페달을 의미하기도 합니다. 즉, 가속 페달에서 발을 떼어 속도를 늦춘다는 뜻으로, 말 그대로의 차의 속도를 줄인다는 의미로도 쓰이고, 비유적으로 긴장을 늦추고, 여유롭게 한다는 뜻으로도 쓰입니다.
+    * 페달에서 발 떼고 천천히 브레이크를 밟으세요. Take your foot off the gas and brake gently.
 * 더 속도를 올려주시겠어요?     Could you step on it? ,Could you go a bit faster?
  * let's #pick up the pace
  * #가속도; #탄력, #동기 #momentum; #serve as a momentum; lose momentum
@@ -4848,7 +4877,7 @@ retaliate
 
 # 소란
 * 소란피우다; cause a scene/fuss/ruckus
-
+* 그 소문은 사무실 내에서 큰 소란을 일으켰다. ex) The rumor caused such a ruckus in the office.
 
 # 습관
 * 좋은 습관 만드는법; how to build good study habitss
@@ -5032,6 +5061,8 @@ retaliate
 
 # 신분증
 * 신분증 있으세요? Do you have any identification?
+* 1. 신분증, 자격증 2. 자격 항상 끝에 -s 를 붙여서 써야해요. 영상에서는 1번으로 쓰였으나, 2번의 의미로도 굉장히 많이 쓰이며, 무언가를 함에 있어서 누군가의 업적, 성격, 배경, 자격 등이 그것에 적합한지 아닌지를 얘기할 때 쓰는 단어입니다.
+  * 회의에 언론사 신분증 꼭 들고가. ex) Make sure to bring your press credentials to the conference.
 
 # 실수
 * bad > mistake >= fault
@@ -5632,7 +5663,7 @@ retaliate
 # 요구
 * 반복적으로 어떤 일을 요구하거나 계속 같은 말을 반복하게 사람을 성가시게 하는 것을 pester라고 합니다. 
 	* 그는 에밀리에게 데이트 하자고 계속 끈질기게 요구하고 있다. He has been pestering Emily to go out with him.
-  * 큰 부탁이라는 거 아는데, ~해줄 수 있나요/~해서요. = I know it's a lot to ask, but + 부탁/사정 - I know it's a big ask, but + 부탁/사정
+  * 큰 # 부탁이라는 거 아는데, ~해줄 수 있나요/~해서요. = I know it's a lot to ask, but + 부탁/사정 - I know it's a big ask, but + 부탁/사정
 * 많은 고용주들은 구직자들의 사진을 보는 것을 #요구했다. 
  * 'ӕplɪkənt Many employees insist on seeing a photo of job applicant.
  * 요구가 많다: #demanding; 요구 많은 사람 demanding 사람ㄴ
@@ -5641,6 +5672,8 @@ retaliate
  * #요청 #call for = #put in for
  * #application, #request, #claim - 요청, 신청 
  * #의뢰; She has been #commissioned to write a new national anthem. 
+* hit someone for something = sth을 달라고 sb에게 부탁하다 영상에서는 ‘더 달라고(for more)’라고 하였지만 주로 for 뒤에는 돈과 관련된 표현이 오는 경우가 많습니다. 그리고 for something 없이 hit you up, hit me up 이라고도 자주 쓰는데요, ‘연락하다’를 의미합니다. 
+  * 그녀는 내게 현금을 달라고 부탁했다. She hit me up for some cash.
 
 # 요약
 * ☆#요약: #To sum up/ In summary = #for short = #for brevity's sake(#sake)
@@ -6207,7 +6240,9 @@ retaliate
 
 # 이해
 * = wrap one's brain/head/mind around 머리를 꽁꽁 싸매듯이 이해하려 하는 것을 의미해요. 조금 어렵고, 혼란스럽고, 생소한 것을 이해하려는 모습의 단어입니다.
-	* 여러분은 점들을 이어서 그림을 완성하는 점잇기 놀이를 해본 적이 있나요? 점들만 있을 때는 모르지만 점들을 연결하면(connect the dots) 비로소 어떤 그림인지 알수 있게 되죠. 이처럼 connect the dots라는 표현은 ‘(여러 정황을 살핀 후) 이해하다, 파악하다’라는 의미입니다.
+	* 쉽게 understand 라는 단어는 다들 아실 텐데요. comprehend 에서 파생된 단어 중에 comprehensive 라는 형용사가 있습니다. 뜻은 [포괄적인, 종합적인] 인데요. 그만큼 무언가를 포괄적이고 좀 더 깊게 이해할 때 comprehend 라는 단어를 써요. 단, 'I understand English.' 대신 'I comprehend English.' 라는 말은 쓰지 않는데요. comprehend 는 무언가를 파악하기 위해 좀 더 노력해야 이해할 수 있는 것들에 쓰여요. 예를 들면, '물리학' 을 이해한다고 할 때는 'I comprehend physics.' 라고 하겠죠.
+    * = 방금 무슨 일이 있었는지 정확히 이해하지 못했어. I didn't fully comprehend what had just happened.
+  * 여러분은 점들을 이어서 그림을 완성하는 점잇기 놀이를 해본 적이 있나요? 점들만 있을 때는 모르지만 점들을 연결하면(connect the dots) 비로소 어떤 그림인지 알수 있게 되죠. 이처럼 connect the dots라는 표현은 ‘(여러 정황을 살핀 후) 이해하다, 파악하다’라는 의미입니다.
     * 아직 모르겠어? 내가 널 위해 이해를 시켜줘야 하니? Don’t you get it? Should I connect the dots for you?
   * 2. pin [목적어] down: 무언가를 정확히 이해하거나 묘사하다
     * 경찰이 범죄의 동기를 파악하려고 노력 중이다. [ex] The police are trying to pin down the motive of the crime.
@@ -6296,6 +6331,8 @@ retaliate
   * '모범적 소수인종(model minority)'은 소수인종, 이민자들에 대해 갖는 하나의 편견입니다. 특정 이민자 집단이 그들이 이민 온 국가의 평균치보다 높은 사회경제적 성공을 거두는 걸 보고 '모범적이다'라고 표현한 거죠. 미국에서는 아시아계 이민자들이 특히 모범적 소수인종으로 여겨집니다. 한국 이민자들을 포함한 많은 아시아계 이민자들은 굉장히 근면성실하고 자녀 교육을 잘 시켜서 자녀가 좋은 대학, 좋은 직장에 간다는 이미지를 갖고 있는 거죠. 얼핏 보면 "그럼 좋은 거 아냐?"하고 생각할 수 도 있지만, 아시아계 이민자를 모범적 소수인종의 틀에 가두어 버리는 족쇄가 되는 경우도 더러 있답니다. 또, 하나의 민족이나 인종을 하나의 이미로 묶어 보는 것 자체가 그들을 '우리 중 하나'가 아니라 '그들'로 본다는 뜻이기도 하지요.
 * race 는 백인, 흑인, 황인과 같이 주로 ‘생김새’를 말하고, ethnicity  [eθˈnɪsəti]  는 언어, 종교, 생활 방식 등과 같이 ‘공통된 문화’에 기초하여 구별하는 말로 범위가 더 넓습니다. 예를 들어 아시아계 미국인은, 한국인과 race는 같지만 ethnicity는 같지 않다고 볼 수 있습니다.  영상 제목에도 multiethnic couples 라고 나와있는데요, 각자 다른 나라, 다른 문화권에서 온 커플들이라는 뜻입니다. 
   * 중국에는 많은 민족 집단이 있다. (ethnic: ⓐ민족의) There are many ethnic groups in China.
+* apartheid : 인종 차별정책  [əˈpɑːrtaɪt;-eɪt]  영국식 [əˈpɑːtaɪt;-eɪt]
+  * 1990년대에 전세계에서 거대한 반 인종차별정책 운동이 있었다. ex) There was a huge anti-apartheid movement around the world in the 1990s.
 * #4인조; #foursome
 * black guy/black dude/ #homes
 #hurl at; 욕설을 퍼붓다; a woman hurled racist insults at him
@@ -6708,6 +6745,9 @@ retaliate
   * #store; 담는다; I store the file on my computer; 파일을 컴퓨터에 담는 느낌
   * #곡물 저장소; ##granary granaries(#granaries)
 
+# 저주
+* 누군가가 나에게 저주를 한게 틀림없어. Somebody must have put a hex on me. 
+
 # 적다
 * - write down VS jot down; : 'jot down' 은 주로 간단히, 짧게 적어두는 걸 말합니다. 반면 'write down' 은 길게 적어두는 것도 말할 수 있죠!
 
@@ -6768,6 +6808,10 @@ retaliate
 * 종료, # 멈추다; stop: 종료, pause: 잠시 멈추다
   * 원래는 자동차 경주 중에 타이어를 갈거나 차를 빠르게 정비하기 위해 멈춰 서는 곳을 pit stop 이라고 해요. 실생활에선 여행 중에 차를 오래 타고 가다가 우리가 휴게소에 잠시 멈추는 것처럼 잠시 쉬어가는 정차를 의미하는데요. 미국에서 주로 쓰이는 표현입니다.  영상에서는 진정한 사랑을 찾아가는 과정을 여정이라고 본다면, 그중에 잠깐 만나고 헤어지는 걸 비유적으로 썼어요.
     * = 어디서 잠깐 쉬어가야 할 것 같은데. 화장실 가야 해. We will have to make a pit stop somewhere. Must pee.
+  * showstopper는 직역하면 '쇼를 멈추는 것'을 의미하는데 어떤 쇼나 연극에서 연주, 연기들이 너무 훌륭해 사람들이 막 환호하고 박수를 치느라 쇼가 멈추게 된다는 의미를 담고 있습니다. 그만큼 훌륭한 명연주, 명연기, 혹은 이목을 끄는 무엇, 누군가를 가리켜 showstopper라고 합니다. 다른 형태의 표현, showstopping은 형용사로서 다른 명사를 꾸며줄 수도 있답니다~
+    * 그 곡은 정말 명곡이에요. That number sure is a showstopper.
+  * '과거'에 하다가 중단한 것을 표현할 때 쓰는 단어입니다. 거의 항상 영상에서처럼 지난 번에 어디서 멈췄는지, 과거를 얘기하기 때문에 과거형인 left off 으로 많이 쓰입니다.
+    * 지난 번에 중단한 곳에서부터 다시 시작해봅시다. ex) Let's start again from where we left off last time.
   * * ☆멈춰서; I kind of #pause
   * #abort; 중단
   * ^^#stop; 동작의 멈춤, #quit; 끊다; quit school/exercise/smoking, 
@@ -6806,6 +6850,8 @@ retaliate
 # 정신차려
 * Stay sharp; Pull yourself together, Snap out of it; You're going to pull your act together
   * ‘#정신차려                                snap out of it, #get a grip on yourself, Get with the program
+  * [ pound/knock/talk/… ] + sense into + 사람 : ~에게 [ 동사 ] 해서 정신 좀 차리게 하다 누군가가 이성을 되찾거나 정신을 차리도록 어떤 행동을 하는 걸 말해요. 수단이 폭력일 땐 동사 자리에 'pound/knock', 폭력이 아니더라도 과정이 거리낌 없거나 모질다면 'knock', 수단이 말일 땐 'talk' 를 써준답니다.
+    * 정신 차리게 말 좀 해볼게.  [ex] I'll try to talk some sense into him.
   * Earth to OO: ~보고 정신차리라고 말할 때, 멍 때리고 있는 사람을 부를 때 하는 관용어구로, 마치 상대가 우주선이나 지구 밖에 있는 것처럼 가정하여 '지구에서 OO에게 말한다, 오버'같은 느낌으로 사용하는 표현입니다~^^
   * 제시카는 응답하라, 제시카는 응답하라, 지금 뭐 하는 거니? Earth to Jessica, Earth to Jessica, what are you doing?
 * 정신이 막 여기저기 흩어져 있는 듯 할 때, 그래서 무언가에 집중을 할 수 없을 때 쓰는 표현으로 [한데 모으다] 라는 get together 를 쓸 수가 있어요. 그래서 집중을 필요로 하는 상황일 때, 무언가를 더 효율적으로 해야 해서 집중해야 할 때 자주 쓰이는 비격식 표현입니다.
@@ -6831,6 +6877,8 @@ retaliate
    * My hands are #sweaty
    * #perspire; 땀을 흘리다; #perspiration; #땀
    * #땀 냄새; you have bad body odor, #발냄새 your feet smell, #입냄새 you have bad breath
+* drenched 는 [흠뻑 젖은] 이라는 뜻이 있어요. 비슷한 표현으로 또는 soaking wet 이라고도 하는데요. 거의 비슷하게 사용되지만, soaked 는 오랫동안 물 안에 있어서 안쪽까지 다 흡수된 상태를 떠올리면 되고, drenched 는 갑자기 물 같은 것으로 다 뒤덮이게 된 상태를 생각하시면 됩니다. [비에 흠뻑 젖으셨네요] 라고 말할 땐, You're drenched 또는 You're soaking wet 이라고 둘 중에 편한 걸 쓰시면 됩니다.
+  * 왜 이렇게 흠뻑 젖은 거야? 우산 들고 가지 않았니? ex) How come you're so drenched? Didn't you bring an umbrella?
 
 # 적응
 * acclimation은 '새 환경에 대한 순응, 적응'이라는 뜻입니다.
@@ -7461,6 +7509,8 @@ retaliate
   * 질척대다; He was kind of clingy; Why are you obsessed with me?; Don't act needy
     * 강압적이다; He is very controlling
     * # 집착이 심하다; She's posessive
+* 2) be fixated on = ~에 집착하다.
+  * 네가 왜 이렇게 절차에 집착하는지 이해가 안돼. ex) I don't understand why you are so fixated on the procedure.
 
 # 진행
 * 강가에서 사금을 채취할 때 모래 등을 걸러내는 도구를 pan 이라고 하는데요. 자신이 원하는대로 pan 을 이용하여 사금채취를 전개/진행 한다는 점에서 유래된 비격식 표현입니다. 
@@ -7925,6 +7975,8 @@ retaliate
 # 취소
 * 취소하다     she cancelled on me, called off the plan | that bitch bitched out on me
  * 예정된 일을 취소한다고 할 때 간단히 cancel이라고 표현하시면 돼요. 직전에 취소하는 것은 cancel at the last minute/second.
+ * 1) 여기서 scratch는 ‘취소하다, 없애다’를 의미합니다. 그래서 scratch the idea altogether 은 ‘그 생각(the idea) 자체(altogether)를 없애버리다’입니다. 비슷한 표현으로는 drop the idea 가 있습니다.
+  * 내가 실직해서 우리는 계획을 취소해야만 했다. We had to scratch our plans when I lost my job.
  * 당신의 발언을 주워담을 기회를 드리겠어요. ex) We'll give you a chance to walk your remarks back.
  * #abolish, #do away with, #cancel - (규칙 등을) 폐지하다, 취소하다 
  * #undo; 취소하다
@@ -8199,6 +8251,8 @@ retaliate
 # 평범
 * 웬만한 사람은; If you're anything like me
 * 지극히 평범한; run-of-the-mill
+* 참고로 영어로 평범한 직장을 nine to five job라고 합니다. 근무 시간이 보통 월-금 오전 9시부터 오후 5시이고, 그게 계속 반복된다는 뜻이지요. 특히, nine to five job는 주말만 바라보고 살게 만드는 성취감 없는 직장이라는 뜻으로 쓰이는 경우가 많습니다. 우리말로 치면 '월급쟁이 인생'이라는 말과 유사합니다.
+  * 난 맨날 똑같이 반복되는 내 직장이 싫다. 일 가는 게 정말 싫고 내 상사도 싫다. 나는 주말만 바라보고 산다. [ex] I hate my nine to five job. I dread going to work and I hate my boss. I live for the weekend.
 
 # 평생
 * 평생동안 for #life, #for good, #for ever| over the full #span of a lifetime
@@ -8409,6 +8463,10 @@ retaliate
  * #결탁; #collusion; they acted in collusion
  * 그냥 거기 있었어               it was just sittin there
 
+# 함정
+* 보험 광고를 보면 묻지도 따지지도 말고 가입하라고 하면서 정작 소비자가 알아야할 중요한 항목은 매우 작은 글씨로 구석탱이에 적어놓죠.  이처럼 매우 작은 글씨를 fine print 라고 하는데요, 보통 남이 발견하지 않았으면 해서 일부러 작게 써놓은 경우를 말하기도 합니다. 그 만큼 자세히 읽지 않으면 자신이 몰랐던 함정에 빠질 수도 있기 때문에 여기서는 ‘이게 함정이군’으로 번역되었습니다.
+  * 밑에 작은 글씨로 써진 약관을 잘 읽었어야지. You should’ve read the fine print. 
+
 # 한번쯤은
 * at one point or another
 
@@ -8581,6 +8639,8 @@ retaliate
  * #devil is in the details; 세부사항이 무서운 법이지
  * In #excruciating detail; 듣기 싫을 정도로 디테일
  * # 잘하다 ### # 조율 # 처리 # 해결하다 # 해결책 # 대책 | # 풀리다 # 풀렸다 | # 조율 # 세부사항을 정리 | # 타협
+* attention to detail = # 세밀함, # 꼼꼼함
+  * 저는 굉장히 꼼꼼합니다. 저는 굉장히 꼼꼼합니다.
 
 # 해명
 * 해명할 필요 없어; YOu don't owe me an explanation
@@ -8746,6 +8806,8 @@ retaliate
   * 혼나다; you seem #ticked off #scolded
 * ※ 'come down on sb'도 비슷하게 '[누구]를 몹시 나무라다, 벌하다'라는 의미지만, 'tell sb off'와 달리 언어적인 것에 국한되지 않습니다.
   * 너를 너무 심하게 나무라지 않었야 돼. [ex] I shouldn't have come down on you so hard.
+* : (구어) ~를 격렬하게 비난하다, 꾸짖다, 야단치다 [ 숙어 ] jump (all) over somebody
+  * 엄마는 내가 늦은 것에 대해 엄청나게 뭐라 했다. My mom jumped all over me for being late.
 
 # 혼란
 * 혼란; fall into confusion[disorder]; onfusion, chaos, mess; (소란) commotion; (무질서) disorder, [형용사] confused, chaotic, mixed up; be in a state of confusion

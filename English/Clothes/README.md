@@ -135,6 +135,8 @@
 
 ##옷 #의복 wear <> put, try on: 관사에 주의 attire=outfit [ə|taɪə(r)]
 * 누드; birthday suit; 한 남자가 발가벗고 돌아다니고 있다.; A man is going about in his birthday suit.; 생일 날 장난
+  * not/without a stitch on him. = 실오라기 하나 걸치지 않다 옷을 하나도 입지 않은 것을 우리말로도 ‘실오라기’ 하나 걸치지 않다고 하는 것처럼, 영어에서도 바늘땀(stitch)하나 입지 않았다고 표현하는 겁니다.  동의 표현으로는 stark naked / with nothing on / buck naked / in birthday suit / in the altogether 등이 있습니다. 
+    * 그는 실오라기 하나 걸치지 않고 티비를 보고 있었다. He was watching TV without a stitch on.
 * 나시; camisole; 끈나시, 캐미솔; cami
 * 민소매; tank undershirt / vest
 * #재봉 기술; #sartorial 미국식 [sɑ:r|tɔ:riəl] art

@@ -185,6 +185,8 @@
 * 정찰; #recon; I'm just gonna do a quick recon; reconnaissance [rɪ|kɑ:nɪsns]
 * 칼; 'stab'은 칼 같은 것로 찌르다, 혹은 찔러 죽이는 것으로, 'stabbing'은 구체적으로 사람을 칼로 찌른 사건을 말합니다. stabbing은 형용사로 '칼로 찌르는 듯한'이라는 뜻이 있어서, 통증을 설명할 때 쓰이기도 합니다.
   * 그 칼부림 사건은 지역 신문에 보도되었다. The stabbing was reported in the local press. 
+  * shank의 기본 뜻은 ‘어떤 물체의 자루, 몸체, 대’이지만 영상에서 말하는 것은 prison shank, 즉 감옥에서 죄수들이 물건의 자루를 갈아서 만든 뾰족한 무기를 말합니다. 슈레이더는 칫솔 자루로 (prison) shank를 만들겠다고 말하고 있습니다. 
+    * 그는 숟가락으로 감옥에서 칼을 만들었다. He crafted a prison shank out of a spoon.
 * #미국 #강도 #도둑 #theft #brigand
   * 1) 비격식표현으로 총을 든 강도짓 하는 것을 의미하는데, 예전에는 총이 권총보다는 장총이 더 흔했거든요. 그래서 영상에서 보실 수 있듯이 장총을 들고 있으면, 마치 막대기를 들고 있는 것 처럼 보이기 때문에, 그런 모습을 연상하시면 좋을 것 같아요. 
     * 아무도 움직이지마! 강도다!ex) Nobody moves! This is a stick-up!
@@ -428,6 +430,8 @@
 * #처벌; #솜방망이 처벌 a slap on the wrist
   * 2) plea bargain을 ‘사전형량조정제도’라고 하였는데요, 더 쉬운 용어로 ‘양형 거래’입니다. 피고가 유죄를 인정(a plea of guilty)하는 대신 형량을 감형해 준다는 일종의 합의(bargain)를 나타냅니다. 
     * 그녀는 양형 거래를 제안 받았지만, 유죄 인정을 하지 않았다.  She was offered a plea bargain but she didn’t plead guilty.   [pliː]
+    * : ~에게 혐의를 뒤집어 씌우다, ~가 유죄인 것 처럼 보이게 하다 “incriminate+사람”으로 표현해서 그 사람에게 죄가 있는 것처럼 보이게 만든다는 뜻입니다. 
+      * 수상한 말 같은 건 하지마. 너 스스로 죄가 있는 Don’t say anything suspicious. It might incriminate yourself.
   * #징계처분 #응징 #punitive measures(#measure)
   * #retribution; suffered retribution
   * 징계 조치를 내리다; #take a #disciplinary action

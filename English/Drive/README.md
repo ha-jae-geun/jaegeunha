@@ -168,20 +168,21 @@
 * #속도 #위반하셨어요 you were speeding
 * ##도로: #road: 이동 가능한 길 #street: 길 양쪽에 상점, 집들이 즐비한 곳 ; road, street 비슷한 느낌
 * #일반도로 #고속도로; #city street  #freeway/#expressway
-* #막힌 도로; #blocked road
-* #avenue: street 보다 더 큰 느낌, 상점도 더 많음 ##alley: #골목길; 좁은 뒷골목 느낌; #alleyway
-* #뒷골목; #back alley; we've come to a back alley
-* ##alley;; a dark alley;; 후미진 곳; a dead-end alley 골목으로 빠지다; go through an alley, 
-* 히치 하이킹; thumb; 무임 승차하자; Let's thumb a ride
-* #back-alley; #은밀히 이뤄지는
-* #Boulevard = Blvd; #가로수길 느낌; 넓은 도로 + 주변에 많은 나무 그 사이에 #median: 
-* ##path: #오솔길; 아스팔트 없는 길
-* #bottleneck (차량 흐름이 느려지는) 좁은[번잡한] 도로, 병목 지역
-* #pavement; #보도; a #concrete pavement; #spit on the pavement
-* #장래에 #down the road(#road)
-* #고속도로 #freeway
-* #소방 도로 #fire lane
-* #일반 도로 #surface street
+	* 2. 고속도로를 부르는 표현이 여럿 있는데요, highway, freeway, expressway는 주로 미국에서 사용하는 말이고 motorway는 영국에서 쓰입니다. highway는 일반적으로 도시나 도시를 있거나 많은 차량이 통행할 수 있고 교통 신호등이나 교차로와 같은 제약이 적은 큰 도로를 의미합니다. freeway와 expressway는 highway인데 차량을 통제하느냐 마느냐에 차이가 있는데요, expressway는 통행료 (toll)를 받고 freeway는 안 받는 것으로 흔히 구분합니다.	
+	* #막힌 도로; #blocked road
+	* #avenue: street 보다 더 큰 느낌, 상점도 더 많음 ##alley: #골목길; 좁은 뒷골목 느낌; #alleyway
+	* #뒷골목; #back alley; we've come to a back alley
+	* ##alley;; a dark alley;; 후미진 곳; a dead-end alley 골목으로 빠지다; go through an alley, 
+	* 히치 하이킹; thumb; 무임 승차하자; Let's thumb a ride
+	* #back-alley; #은밀히 이뤄지는
+	* #Boulevard = Blvd; #가로수길 느낌; 넓은 도로 + 주변에 많은 나무 그 사이에 #median: 
+	* ##path: #오솔길; 아스팔트 없는 길
+	* #bottleneck (차량 흐름이 느려지는) 좁은[번잡한] 도로, 병목 지역
+	* #pavement; #보도; a #concrete pavement; #spit on the pavement
+	* #장래에 #down the road(#road)
+	* #고속도로 #freeway
+	* #소방 도로 #fire lane
+	* #일반 도로 #surface street
 * 후진하다. back up the car
 * drive past; when you drive past
 * 차 돌려 #turn around

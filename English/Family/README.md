@@ -187,7 +187,8 @@
 * 타고난; He;s a born leader. He was born to dance. ( 타고난 무용수예요)
 * #금수저 #born with a #silver spoon in one's moutth = born in a #well-off family
 * 나는 #부양해야할 가족이 있어요 					 I have a family to support
-* #provide for family
+	* support one's family는 관용어로 '가족을 먹여 살리다'  = provide for one’s family
+	* #provide for family
 * 우리 가족 대가족이에요 						 I came from a large family
 	* extend 가 [연장하다, 확대하다] 라는 뜻이 있으니, 두 가족 이상이 한 집에 사는 걸 의미하죠. 요즘 시대에 가장 흔한 핵가족은 nuclear family 라고 합니다. 직계가족은 immediate family라고 하고요. * extended family = 대가족
 * we are a #family of four
@@ -305,7 +306,8 @@
 * ##고모 #이모
 * 아기 말
 * #grandma; #외할머니 my mom's mom #친할머니 my dad's mom
-* 그냥 할머니: #elderly lady / someone
+	* 그냥 할머니: #elderly lady / someone
+	* - 할아버지 : grandfather &gt; grandpa &gt; gramps  - 할머니 : grandmother &gt; grandma &gt; granny/gran
   * #abuela; 스페인어
 * 무도 저 퉁명스러운 노파에게 말을 못 붙이지. ‘krʌsti hӕg ; (모욕적) 쭈그렁 할망구 , 늪 ; 핵늙음
 * No one can talk to that crusty old hag. 

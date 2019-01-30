@@ -737,7 +737,9 @@
  * 의도치 않은 말을하다, 후회될 말 							 foot in mouth
  * 나는 오늘 진실하면 내일 후회하게 된다고 한들 어떠하리 If i'm sincere today, what does it matter?
  * 후회하지마 never #regret
- * #repent
+ 	* 요즘 '이불킥' 이라는 말 많이 쓰잖아요 ㅎ 뭔가 한 일에 대해서 집에 가서 이불 덮어 쓰고 후회하는 말인데요. 영어도 마찬가지에요! 과거의 행동에 대해 자기 자신을 걷어 차는거죠. 후회하며.. 뒤에 for 를 쓰면 '~에 대해 후회하다' 로 해석됩니다. kick oneself 
+      * 아.. 그녀의 전화번호를 묻지도 않고 보내준 게 정말 후회돼. ex) Ah.. I'm kicking myself for letting her go without asking her phone number.
+ 	* #repent
 	* #굴욕; #eat #humble pies
 	* 그가 사람들 앞에서 내 아이디어를 비난했을 때 정말 굴욕적이었어. ex) I was so mortified when he bashed my idea in front of everyone.
 	* 쪽팔려 they make me cringe
@@ -1279,6 +1281,8 @@
 	* 글썽거리다; well up; 소리없이 눈물만 흘리다; weep; 흐느끼다: sob
 * #조울증; 양극성 우울증 [|baɪ|poʊlər] bipolar depression 
 	* 우울증 주다; give someone depression
+	* fall into a depression, get into a depression = 우울증이 빠지다/걸리다 (좀 더 캐주얼 한 표현은 become depressed); 우을증을 앓다 = suffer from depression 심한 우울증 = bad depression 혹은 severe depression
+		* 어머니가 돌아가시고 그녀는 심한 우울증에 빠졌다. She fell into a severe depression after her mother died.
 * #감상적인 #maudlin
 	* 너 나 슬프게 만들었어 							 you get me frustrated
 	* #blub; #blubbing

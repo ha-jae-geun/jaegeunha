@@ -210,6 +210,7 @@ the best ever, #ravishing, #peaches
 * 옷차림 멋있을 때							 You look sharp today
 * 왕년에 한인물 했겠네 						 He was kind of a #baby
 * #잘생겼다 ##멋있다
+	* 초등학교 때 [잘생긴] 이라는 뜻으로 배우고 한 번도 배우지 않은 형용사!! handsome 에 대하며 조금 더 자세하기 배워보아요. 남자의 외모를 말할 때 handsome 은 [잘생긴]이란 뜻인데, hot이나 cute보다 좀 객관적인 느낌의 표현이에요. hot은 섹시함, 남자로서의 매력이 있다는 뜻을 내포하고 cute은 우리가 생각하는 [귀엽다]는 아니고 [잘생겼다]를 뜻합니다. handsome에 cute이 좀 더 비격식 느낌이고, cute은 또 보통 여자들이 관심 가는 남자 보고 잘생겼다 할 때 쓰는 표현이에요. 어린 남자 아이에게 cute하다고 하면 진짜 [귀엽다]라는 뜻으로 이해하시면 되고요, 어린 아이에게 [잘생겼다] 말할 때는 handsome 을 많이 써요. 특히, young man이라는 표현과 같이 쓰는 경우가 많은데 young man은 '꼬마 신사' 이런 어감입니다.
 * 늠름한 젊은 장교						 a dashing young officer
 * 우람한 남자들/팔/허벅지			#beefy men/arms/thighs
 * #늠름 #우람

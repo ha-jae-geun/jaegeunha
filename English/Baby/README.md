@@ -20,6 +20,9 @@
 * 수건돌리기; #duck, Duck, GOose
 * 무궁화 꽃이 피었습니다; #green light! Red light!
 * 술래: IT
+* 의회는 그 제안에 대해 논의하기 시작했다. [ex] The House began debating the proposal.
+* 1) play house 는 어린 아이들이 성인 흉내를 내며 각종 가사를 하며 노는 [소꿉놀이를 하다, 엄마 아빠 놀이를 하다]라는 의미를 가져요. 
+  * 우리 엄마 아빠 놀이하자! ex) Let's play house!
 
 # 청소년 #아이
 * 아기 쉼터; baby shelter(피난처 느낌) = baby lounge
@@ -35,13 +38,14 @@
 	* 믿을만한 손에 맡겨져서 잘 관리받고 보살핌 받는 경우에 굉장히 자주 쓰이는 표현이에요. 사람뿐만이 아니라 동물, 사업체, 작업 등이 잘 다뤄질 때 광범위하게 쓰인답니다.
 		* 고양이 걱정은 하지마. 잘 보살핌을 받고 있으니 여행이나 즐겨! ex) Don't worry about your cat. She's in good hands, so enjoy your trip!
 	* 1) 여자인데 일반적인 사람들의 기준에서 여자들이 좋아하는 쇼핑이나 남자들에 대해 수다를 떠는 것 대신에, 남자들이 좋아할 법한 운동, 게임, 그런 활동을 좋아하고 왈가닥 하는 말괄량이를 tomboy 라고 합니다.
+* 간단히 따지면 이 세 부류의 사람들은 비슷한 일을 합니다. 아이를 돌보는 일이죠. 하지만 자세히 들어가 보면 조금씩 차이가 있는데요, babysitter는 주로 시간제로 근무하며 기본적인 아이 돌보기를 합니다. 동네 사람이나 친척 집에 가서 아이를 봐주는 걸 babysit somebody라고 해요.  반면 nanny는 좀 더 시간을 많이 투자하게 되죠. 장기간 그 가족과 아이를 위해 일하기에 더 구체적인 근무 내역과 급여 방법이 기제된 서류도 작성합니다. 집에서 함께 사는 경우도 있습니다 (이 경우 live-in nanny라고 부릅니다). 베이비시터처럼 아이를 돌보는 일 외에 음식을 만든다거나 청소 및 설거지 등 집안일도 하는 경우가 적지 않아요. au pair는 외국에 가서 외국어 공부도 하며 가정에 입주하여 아이를 봐주는 젊은 여성을 의미해요. 시간을 많이 투자하고 집안일도 함께 한다는 점에서 nanny와 비슷하다고 볼 수 있지만 nanny보다는 스킬이나 경력, 그리고 외국인이기에 언어소통 능력이 상대적으로 떨어진다는 것이 차이점입니다.
 * 비행 십대들 delinquent teenagers [dɪˈlɪŋkwənt]]
 * 3세 이상이라고; Ages 3 and upㅈ
 * 날 야단치지 마. 	Don't bite my head off
 * 제비뽑기를 하다; draw straws; 과거에는 지푸라기로 제비뽑기; 재수없게 걸리다; draw the short draw
 * 어릴 때 처음 쓰기 시작했죠; i cut my teeth on those
 	* 처음 이가 나기 시작하면; When babies begin to cut their first teeth
-* 장난꾸러기, 놈당꾼; jokester; whos the joester out of the group
+* 장난꾸러기, 놈당꾼; jokester; whos the joestfer out of the group
 * 아이들의 말투; 작은; teeny-tiny / teeny-weeny
 * 사춘기 이전; prepubescent 미국·영국 [prì:pju:bésnt];  Jimmy had a prepubescent daughter,
 	* #adolescence, #teens, #youth - 청소년기

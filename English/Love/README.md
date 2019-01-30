@@ -401,6 +401,8 @@ I have a big crush on you / I have a thing for you, i'm into you
  * #생식기 the genitals = private parts = #female/#male sex #organs
  	* - reproductive organs 생식기관 - reproductive years 임신 가능 기간 - reproductively challenged 난임인 특히 마지막 reproductively challenged는 ‘생식적으로 장애가 있는’을 뜻하는 말로 아예 아이를 가질 수 없는 ‘불임’보다 부드러운 어감을 가지고 있고 좀 더 수준 높게 표현하는 방법이니 알아두시면 좋겠네요. 
  		* 우리는 불임이 아니야. 단지 좀 생식적으로 약간 문제가 있는 것 뿐이라고. We're not barren, we're just reproductively challenged.
+ 	* 불임(난임)을 야기하는 많은 다른 요인들이 있다. ex) There are many different factors that cause infertility.
+ 	* 불임 클리닉을 3년째 다니고 있는데, 와이프가 드디어 임신했어요! ex) We've been seeing a fertility specialist for 3 years and finally my wife got pregnant!
  * 여자 성기 virginia; clits #twat slang: coochie ; coochie melt: 젖다 | 
  	* 민감하다; very sensitive organ
  	* Have you experienced any unusual vagianl bleeding or discharge
