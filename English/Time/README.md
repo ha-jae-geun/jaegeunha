@@ -177,6 +177,7 @@
 * 날짜를 ##정하자 								Let’s set a date
 * 시간 언제 괜찮아; when is the good time for you?
 * 시간아 빨리가라 						I hope time goes by by fast
+	* 시간이 빨리간다; Time is going by so fast
 * 시간 잘못봤어 I got the time wrong
 * 걱정 마 딱 여덟 시 정각 맞춰서 도착했어 Don't worry I arrived at eight on the dot
 * #며칠 전; #the other day; I had dinner

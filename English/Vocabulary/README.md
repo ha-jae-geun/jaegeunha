@@ -170,6 +170,13 @@
 * 세 사람이 운영직 후보로 고려되고 있다. [ex] Three people are up for a managing post. 2. 어떤 직책에 후보로 고려되는
 * 우리 나가서 좀 달리려는데 너도 같이 할래? [ex] We're going out for a run. Are you up for it? 3. (비격식) (어떤 활동에) 준비된, 기꺼이 하려고 하는
 
+### upright
+* 보트를 세우려고 노력하다; Me try to upright their boat
+
+### upside
+* my whole world turns upside down은 직역하면 내 온 세상이 뒤집혀 버렸다, 즉 엉망이 되어 버렸다는 의미인데요, 그만큼 정신적으로 혼란스럽다, 멘붕이 왔다는 걸 뜻하죠. 혼란스러움을 한 개인의 세상이 뒤집혔다는 방식으로도 빗대어 표현할 수 있다는 점~ 알아두시면 좋을 것 같네요! ^^
+  * 아빠가 돌아가셨다는 소식을 들었을 때 모든 게 뒤집혀 버린 듯 충격을 받았다.My world turned upside down when I heard the news my dad passed away.
+
 ## on
 * 표면에 접촉한 그림
 
@@ -205,6 +212,11 @@
 ## amend
 * : amend라고 쓰면 보통 개선, 교정, 법을 개정, 수정한다는 동사로 사용합니다. amends라고 사용하면 (단수, 복수 동사와 함께 모두 사용 가능한) 명사로 손실, 손상에 대한 '보상'이라는 의미를 갖습니다. make amends는 '보상하다'는 뜻으로 물질적, 정신적 보상 모두 가능하기에, 만회하다, 사과하다는 의미로도 해석할 수 있어요. - make amends for (doing) something: ~을/ ~에 대한 보상하다 - make amends to somebody: ~에게 보상하다
   * 네가 상처를 준 사람들에게 사과를 해야 한다. [ex] You must make amends to the people you've hurt.
+
+## alley
+* 1) alley creeper = 뒷골목을 살금살금 다니는 사람
+  * = 그는 볼링장에서 일하고 있어요. She works at the bowling alley.
+  * = 그는 길에서 강도를 만났다.  He met a thug in the alley.
 
 ## alpha
 * 1. alpha male: 다양한 동물군에서 가장 힘이 센 우두머리를 가리키는 표현으로 일반적으로 사회나 특정 분야의 집단에서 지배적인 위치를 점하고 있는 남자 우두머리, 최고 권력자를 의미합니다.  alpha female은 이에 반대되는 경우이지만 조금은 다른 맥락에서 사용되곤 합니다. alpha male은 전체 집단에 있어 우두머리를 의미하지만 alpha female은 주로 뭐든 잘하는 강한 여자를 뜻하는 경우가 많습니다. 젊은 여성의 경우는 alpha girl라고 부르기도 하죠. alpha male에서 시작된 이 표현은 beta male, gamma male, omega male까지 확장하게 되는데요, beta는 그리스 알파벳에서 alpha 다음에 오는 두 번째 글자이고, gamma는 세  번째, omega는 마지막 글자입니다. 이 순서만 보더라도 대충 감이 잡히겠지만 간략히 말하면 beta male은 alpha male의 오른팔 같은 사람, gamma male 또는 omega male은 집단 내에서 별 위치가 없는 남자입니다. 오히려 gamma/omega male은 다른 사람들의 인정을 굳이 찾지 않고 스스로 삶을 개척하는 남자를 뜻하기도 합니다. 아웃사이더 같은 느낌도 있고요.
@@ -372,6 +384,8 @@
 
 ## angle
 * 무슨 속셈이야; What's your angle? 
+* at an angle = 비스듬히; angle 이 [각도] 라는 뜻이니, 각도가 없는 정면이나 수직이 되는 것이 아닌, [비스듬히] 를 의미하게 됩니다. 형용사를 써서 [at a slight/steep angle = 약간/매우 비스듬한] 을 의미할 수도 있어요.
+  * = 이것 좀 이렇게 비스듬히 들어줄래? Can you hold it at an angle like this?
 
 ## best
 * : (어떤 상황을) 최대한 즐긴다, (가진 게 부족해도) 최대한 활용하다 make the best of (a situation)
@@ -424,6 +438,9 @@
     * 걔들 밤새도록 술마셨어. They were poppin bottles all night.
 * 감정을 드러내지 않고) 억누르다[묻어 두다] 감정을 꼭꼭 묻어 두지 않도록 해라. Try not to bottle up your emotions. 
 
+## bond
+* 제 아이들과 더 가까워지기 위해 뭘 해야 할까요? What should I do to bond with my kids?
+
 ## bonker
 * 비격식 형용사로 명사 앞에는 쓰지 않아요. 명사 bonk 가 어딘가에 [머리를 찧다] 라는 뜻인데 머리를 자꾸 부딪히면 제정신이 아닌 듯한 모습에서 나온 표현입니다.
   * 계속 귀찮게 하면 나 완전히 미쳐버릴 거야. ex) I'll go totally bonkers if you keep bugging me.
@@ -439,6 +456,10 @@
 * shook(shake) me to the bone에서 shake는 ‘충격, 공포를 주다’이므로 문장이 의미하는 것은 “뼛속까지 공포심이 들게 만들었다”가 됩니다.
   * 나는 버스를 오래 기다려서 뼛속까지 얼어붙었다. I was frozen to the bone after waiting so long for the bus.
   * 그는 그녀를 뼈저리게 사랑하고 있어요. He loves her to the bone.
+
+## board
+* 보통 대기업의 경우엔 상무나 이사를 director 라고 많이들 합니다. board 는 [위원회] 를 의미하기도 하는데요. 그래서 board of directors 는 [이사회] 라고 하고, 줄여서 [the board] 라고 하기도 해요.
+  * = 이사회는 이 수치들에 대해 그리 좋아하진 않아. The boards is not really happy about these numbers.
 
 ## boat
  * 나는 기회를 놓쳤다.               I missed the boat.
@@ -545,6 +566,11 @@
 * bitchy 의 경우엔 'x년' 을 의미하는 bitch 에서 나온 형용사라 원래는 나쁜 의미를 가지는데요. 친한 사이에서는 반어적 의미로 '도도하게 멋진' 을 의미하기도 해요.
 * bitch; 2. 임마; 3. he's such a bitch; 징징된다 4. Stop bitching; at me 싫은 소리 그만해라
   * 일방적으로 갈구다; bitch someone out
+
+## bunch
+* 1. 명사 bunch: 무리, 뭉치, 다발  the bunch of coriander: 고수 (한) 뭉치
+* a bunch of coriander: 고수 잔뜩 2. 명사 bunch: 많음
+* bunch them up together: 고수를 잘 뭉쳐주세요 (동사  bunch) 3. 동사 bunch: 뭉치다, 무리를 짓다
 
 ## bunk
 * 비격식 표현으로 조금 불편한 곳에서 자는 것을 의미합니다. 특히나 집이 아닌 곳에서 하룻밤만 머물 때 이 표현을 많이 써요. 집만큼 편한 곳은 없으니까요!
@@ -745,6 +771,11 @@
 * 위로 쌓여 높아지는 그림
 * 'build a life together' 는 '인생을 함께 꾸려나가다', '함께하는 인생을 꾸려나가다' 라는 뜻이에요. 동사 build 를 요런 식으로도 쓸 수 있다는 것 이 표현으로 기억해보세요. 또 다음과 같은 목적어도 받을 수 있답니다.
   * 너랑 함께 인생을 꾸려나가고 싶어. I want to build a life with you.
+
+## brass
+* brass는 명사로 ‘놋쇠’입니다. 영상에서는 낯짝이 놋쇠처럼 두껍다하여 성격이 ‘뻔뻔한, 철면피의’라는 의미로 사용하였습니다. 보통 「have the brass (neck) to~: 뻔뻔스럽게 ~하다」 혹은 「bold as brass: 얼굴에 철판을 깐」이라고 표현하죠.
+  * 걔는 봉급인상을 어떻게 그렇게 뻔뻔스럽게 요구하는지 정말 믿기지가 않아. (a raise: 봉급인상) I can’t believe she has the brass neck to ask for a raise?
+  * 있지, 그 사람은 창피한줄 모르고 낮짝이 아주 두꺼운 사람이야.  You know, he’s shameless and bold as brass.
 
 ## brownie
 * 윗사람의 신임; Brownie pointss
@@ -971,6 +1002,10 @@
 * 보통 곡식, 작물 등을 [경작하다, 재배하다] 라는 의미로 많이 쓰이는 단어인데요. 시간과 노력이 많이 들어가는 일이죠. 그래서 쉽게 바뀌지 않는 자신만의 분위기나, 태도, 이미지 등을 더 나은 상태로 향상시키는 일 또한 cultivate 라고 합니다. 시간과 노력이 굉장히 많이 드니까요.
 	* 내 자신을 가꾸기 위해 (수련하기 위해) 일주일에 세번 요가하러 갑니다. ex) I go to yoga class three times a week to cultivate my mind.
 
+## camera
+* ※ in front of the camera도 '카메라 앞에서'라는 뜻이긴 한데요, 이건 촬영 여부와 관계 없이 카메라 앞에 서있는 모습이 좀 더 연상되는 표현이에요. "Please go stand in front of the camera.(저기 카메라 앞에 가서 서주세요.)" 이 문장처럼요. 반면, on camera는 '촬영 중일 때' 뉘앙스가 더 강한 표현이에요. off camera는 반대로 '촬영 중이 아닐 때', '카메라 안 돌아갈 때'입니다. 예시 몇 가지 살펴볼게요.
+  * 나는 카메라 앞에만 서면 긴장 해. ("카메라로 촬영 할 때"라는 뉘앙스) I get really nervous on camera.
+
 ## cause
 * 2. cause: 여기서는 '원인, 이유, 근거'가 아닌 '목적, 대의'를 의미합니다.
   * 우린 더 큰 대의를 위해서 협력해야 한다. [ex] We have to cooperate for a larger cause.
@@ -1182,6 +1217,11 @@
 * 곰곰이 생각해야 할 문제가 있다.           Here's a question to chew on
   * 그의 감독은 짐을 혼내고 있다.            "His manager is chewing out Jim." 
 
+## cheek
+* 여기서 cheek은 ‘뻔뻔함, 무례’를 의미합니다. 주로 영국에서 자주 쓰이는 표현으로 상대의 언행이 뻔뻔할 때 하는 말입니다. 뻔뻔함의 의미로 cheek이 들어간 표현을 예문에서 더 살펴보겠습니다.
+  * 걘 나한테 거짓말을 했어! 뻔뻔스럽게! She lied to me! The cheek of it!
+  * 뻔뻔하네! 나한테 어떻게 그렇게 말할 수 있어? What a cheek! How can you talk to me like that? 
+
 ## cheese
 * 꺼져.                      Cheese off!
 * 그 친구들 나를 성가시게 해.             They cheese me off.
@@ -1213,6 +1253,10 @@
 * : 위험 요소가 있지만 ~을 믿다 (믿고 무엇을 하다), 운에 맡기고 해보다 [ 숙어 ] take a chance on/ with OO
   * 내가 당신이었더라면, 그를 믿진 않았을 거예요. If I were you, I wouldn't take a chance on him.
 
+## charity
+* 형용사 charitable 은 [자선의,자선단체의,자선을 베푸는] 등의 의미를 가집니다. 따라서 자선단체는 charity 라고도 하고,  charitable institute  charitable organization  charitable group   이라고도 합니다. 관련 단어로 '비영리단체' 는 non-profit organization/group 이라고 씁니다.
+  * 우린 그 자선단체를 위해 약 2천달러 정도를 모금했어. ex) We have raised about $2,000 for the charity.
+
 ## chart
 * #뛰어난; ~ is #off the charts
 
@@ -1224,6 +1268,7 @@
 ## coordinate
 * 2. uncoordinated : 신체가 균형잡히지 못하고, 잘 통제되지 않는 상태를 말해요. 보통 누군가 uncoordinated하다면 몸이 마음대로 잘 따라오지 않는, 몸놀림이 둔하고 뻣뻣한, 몸치라는 말이에요.
   * 난 롤러스케이트를 신은 낙타처럼 몸을 가누지 못했다. ex) I was as uncoordinated as a camel wearing roller skates.
+* 눈과 손의 협응 능력; 농구; Hany-eye coordination
 
 ## cook
 * What's cooking? 의 의미 세가지!
@@ -1266,6 +1311,15 @@
 
 ## cross
 * 리스트에서 그건 뺴자; Crossing that one off the list; cross off: 줄을 그어 지우다.
+
+## crew
+* '촬영 스태프'라는 표현 들어보셨죠? 영어로는 보통 filming staff가 아니고 filming 
+crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아볼게요!
+  * 1. 촬영 스태프 = filming crew
+  * 2. 비행기, 여객선 등 교통수단의 직원. 예를 들어, 항공기 기내 직원은 '캐빈 크루(cabin crew)'라고 칭하죠.
+* staff는 '직원 일동'과 같은 뜻으로 쓰여요. 예시를 몇 가지 살펴볼게요.
+  * 1. 간호진 = nursing staff  2. 전사 미팅 = staff meeting  3. 대학교의 교직원 = faculty and staff (faculty는 교수진을 뜻하고, staff는 교수진을 제외한 임직원을 뜻함)  ※ crew와 staff 둘 다 여러 사람으로 구성된 집단을 뜻해요. '크루/스태프 직원 한 명'이라고 말할 때는 crew member, staff member라고 해야 해요.
+
 
 ## credential
 * 1. 신분증, 자격증 2. 자격 항상 끝에 -s 를 붙여서 써야해요. 영상에서는 1번으로 쓰였으나, 2번의 의미로도 굉장히 많이 쓰이며, 무언가를 함에 있어서 누군가의 업적, 성격, 배경, 자격 등이 그것에 적합한지 아닌지를 얘기할 때 쓰는 단어입니다.
@@ -1526,6 +1580,11 @@
 ## devil
 * 논의가 이어지게 하려면 흔히 인터뷰 진행자가 선의의 비판자 노릇을 할 필요가 있다. Often the interviewer will need to play devil’s advocate in order to get a discussion going. 
 
+
+## dapper
+* : (남자가) 말쑥한, 깔끔한, 멋부린 [2] dapper 주로 남자를 꾸며주는 형용사로 a dapper man이라고 하면 외모가 깔끔하고 패션 스타일이 좋은 사람을 의미합니다.
+  * 그는 새 정장을 입은 모습이 매우 멋져보였다. He looked dapper in his new suit.
+
 ## dark
 * No, I was in the dark. 아니 몰랐어.
   * Don't keep me in the dark. 나한테 비밀로 하지 말라고.
@@ -1625,6 +1684,10 @@
 ## dot
 * 여러분은 점들을 이어서 그림을 완성하는 점잇기 놀이를 해본 적이 있나요? 점들만 있을 때는 모르지만 점들을 연결하면(connect the dots) 비로소 어떤 그림인지 알수 있게 되죠. 이처럼 connect the dots라는 표현은 ‘(여러 정황을 살핀 후) 이해하다, 파악하다’라는 의미입니다.
     * 아직 모르겠어? 내가 널 위해 이해를 시켜줘야 하니? Don’t you get it? Should I connect the dots for you?
+
+## door
+* side door는 샛문, 쪽문을 의미하며 간접적인 접근법을 비유하는 표현입니다.
+  * 그런 문제들을 접근할 때 사용하는 방법이에요. [ex] This is a side door to approach such matters.
 
 ## doozy
 * 1) 비격식의 단어로 좋은 의미, 나쁜 의미 모두 가지는 단어입니다. 무언가가 굉장히 크거나, 큰 놀라움, 또는 위험한 상황 등, 기억에 남을 만한 경험을 표현할 때 쓰는 단어에요. 따라서 문맥에 따라 조금 다양하게 해석이 될 수 있습니다. 2) 영상의 주인공은 이야기가 시작되기도 전에 우는 자신의 모습에 [크게 놀라서] doozy 라는 단어를 썼을거에요. that 은 자신이 눈물 흘린 상황을 의미하구요. 그래서 지나고 생각해보니 [더 크게 울었을까봐 놀란 상황] 이니 [큰일 날 뻔했네.] 정도로 해석이 된 것이랍니다.
@@ -1931,6 +1994,9 @@
   * : 눈물을 참다, 눈물을 삼키다 1. fight back tears
     * 나는 가족들 앞에서 눈물을 삼켜야 했다. I had to fight back tears in front of my family.
 
+## film
+* 지금 녹화중이에요. I'm filming
+
 ## fill
 * fill it up with gas please
  * 나는 그 게임 티켓을 사는데 2000달러 #썼다
@@ -2056,6 +2122,8 @@
 * '플래시백[과거 회상]'이라는 단어 들어보셨나요? 이 문장 속 'flash'도 머릿속에 떠오르는 무언가를 표현한다는 점에서 비슷해요. '불현듯 떠오르는, 섬광처럼 스쳐지나가는 상상/생각/감정/기억'을 말할 때 쓸 수 있답니다.
   * 나 방금 갑자기 번쩍이는 영감을 받았어. [ex] I just had a flash of inspiration.
 * 차에 치일 뻔 했어. 내 인생이 주마등처럼 스쳐지나가더라고. I almost got hit by a car. My life flashed before my eyes. [ex: 목숨의 위협을 느끼는 순간] 
+* flash 가 [섬광/반짝임] 등의 뜻이 있어요. 그런데 사람이 금이나 은, 다이아몬드로 치장하면 반짝이잖아요. 그래서 호화로운 사람을 표현할 때 flashy 라고 쓴답니다.
+  * 그녀는 여행할 때 항상 호화스러운 호텔 방에 머물길 원한다. ex) She always likes to stay at a flashy hotel when travelling.
 
 ## flat
 * flat 은 아래의 [참고] 부분에 있는 것처럼 굉장히 많은 뜻을 가지고 있고 많이 쓰이지만, 영상에서처럼 [시간+flat] 을 쓰게 되면 형용사로 '딱 ~ 밖에' 시간이 걸리지 않았을 때, 그만큼 무언가가 놀랍게 빨리 발생했고, 단지 그 시간 밖에 걸리지 않았다는 것을 강조해 주기 위해서 쓰입니다.
@@ -2072,6 +2140,8 @@
 ## foot
 * 발을 들이다, 들어가다  = set foot on (in)
   * 누구도 아직 화성에 발을 들인 사람은 없다. ex) No man has set foot on Mars yet.
+* 2) light on feet = 발걸음이 가벼운, 날렵한
+  * = 그녀는 매우 민첩하고 발이 빠르다. She’s very agile and light on her feet.
 * 어떤 비용을 지불하고, 부담한다는 뜻으로, 대개 누군가가 다른 사람을 대신해 큰 비용을 다 부담하고, 내야하는 경우에 사용해요. 여기에서 'foot'은 'pay'에 가까운 의미예요. 
 	* Who's going to foot the bill for all the repairs? 
 * 앉아서 쉬세요; Put your feet up
@@ -2302,6 +2372,8 @@
 * outgrow: 하기엔 너무 큼
 * 성장하면서 (grow) 무언가의 밖으로 (out of) 벗어나게 되는 뉘앙스에요. 특정 행동, 성격, 관심사 등이 성장하거나 철이 들면서 없어지는 것을 의미합니다.
   * 언제 그런 철없는 행동에서 벗어날래? ex) When are you going to grow out of that childish behavior?
+* grow into it에서 it은 패션 감각을 가리키며, grow into something은 여기서는 어떤 상황, 역할, 분야에 대해 시간이 지남에 따라 점점 잘 알게 되어 경험이 쌓인다, 잘 다룬다는 의미로 사용되었습니다.
+  * 난 총지배인이라는 역할에 점점 숙달하게 되었어요. [ex] I've grown into my new role as a general manager.
 
 ## group
 * : 본래는 떼 지어 다니는 '팬 무리', 속칭 '덕후'를 이르는 말인데요. 여기서는 본인 주관 없이 이리저리 유행이나 대세, 유명한 것 등에 휩쓸리는 사람이라는 확장된 뜻이에요. 폄하하는 뉘앙스가 다소 있습니다.
@@ -2536,6 +2608,10 @@
 	* : 이 말은 꼭 해야겠어. Let me try to get this out.
 
 
+## gig
+* gig는 뮤지션이나 코미디언 등이 하는 라이브 공연 (live performance)를 가리킵니다. 큰 공연장에서부터 작은 클럽까지 규모는 상관이 없이 사용할 수 있죠. 
+  * 어렸을 때 갔던 롤링 스톤즈 공연이 잊을 수 없어. I can't forget the Rolling Stones gig I went to when I was young.
+
 ## give
 ### give out
 * : 여기서는 목적어를 받지 않는 자동사로, 신체 일부나 기계 등을 주어로 받아 '제기능을 하지 못하다', '녹초가 되다', '힘이 다되다', '다운되다' 라는 뜻으로 씁니다. 여기서는 다리를 주어로 받아 '풀리다'라는 뜻이죠!
@@ -2688,6 +2764,10 @@
 *  ((국제 금융 시장에서 높은 수익을 노리고 유동하는 단기 자금)) hot money
 * 내가 그에게 하루 종일 어디 있었었냐고 묻자 그는 몹시 당황스러워 했다. He got very hot under the collar when I asked him where he’d been all day. 
 
+## half
+* : 적당히 하는 조치, 어중간한 수단, 철저하지 못한 방안 [halfway measures]; halfway는 ‘중간쯤’이란 뜻이기 때문에 뭔가 확실하지 않고 어중간한 것을 가리키기도 합니다. 그리고 ‘수단, 방안, 조치’의 뜻으로 measure를 사용할 때는 보통 복수형으로 표현합니다. 
+  * 우리는 테러에 대해서는 어중간한 조치를 취해서는 안된다. We shouldn’t take halfway measures with terrorism.
+
 ## hackle
 * hackles는 동물 (특히 개)의 목 뒤에 난 털을 가리키는 말로 이 부분은 싸우려고 몸이 흥분하거나 화가 났을 때 곧추섭니다. 누군가의 그 털을 세웠다는 말은 그 사람을 화나게 만들었다는 걸 의미하죠~
   * 그 이야기는 항상 날 열 받게 만든다. 그 이야기는 항상 날 열 받게 만든다.
@@ -2741,7 +2821,9 @@
 ## hand
 * 승리의 패; winning hand; He held the winning hand in the card game
 * 헌옷 She got all the hand-me-downs
-* have time on one's hands: 시간이 남는다, 시간이 있다. had a little time on my hands                  
+* have time on one's hands: 시간이 남는다, 시간이 있다. had a little time on my hands
+* hands-off (형용사) : 말 그대로 손(hands)을 떼고(off) 간섭하지 않는다는 뜻!           
+  * 자유방임 양육법 hands-off parenting
 * 첫 번째 뜻은 '한 줌', '한 움큼'이라는뜻. 손(hand)가 가득(full) 찼다는 느낌이죠~ 말 그대로 '한 움큼'을 뜻할 수도 있고 '몇 안 되는'이라는 뜻도 있어요. 두 번째 뜻은 '말쌩정이', '다루기 힘든 사람/동물'입니다! 뭔가 양손 가득 물건을 겨우겨우 들고 있는 모습이 연상되지 않나요? ㅎㅎ
 * 2. handsy는 신조어인데요, '손'을 뜻하는 hand에 -sy를 붙인 말이에요. 옆에 있는 사람을 자꾸 만지는 사람을 가리키는 형용사예요.
   * 네 상사는 왜 그렇게 사람을 만질라 그래? [ex] Why is your boss so handsy?
@@ -2881,6 +2963,10 @@
 ### hang on
 * : 잠깐만요. Hang on; Hang on a second.
 
+## instill
+* instill in somebody something = instill something in somebody : ~에게 ~를 깊이 심어주다, 불어넣다
+  * 그건 저에게 자신감을 깊이 불어넣어줬죠. [ex] It instilled a sense of confidence in me.
+ 
 ## infinite
 * : 왜인지 모르겠지만 [in one's infinite wisdom] 누군가의 결정이나 행동을 이해하지 못하겠다는 부정적인 뉘앙스를 가진 표현입니다. 영상에서는 MacArthur Foundation이라는 기관이기 때문에 its라고 하였는데, 누구의 결정인지에 따라 다른 소유격(her, his, their…)이 올 수 있습니다. 그리고 infinite는 생략 가능합니다. 
   * 정부 기관들에서, 왜 그런지는 당최 모르겠지만, 시민 문화 회관을 닫기로 결정했어. The authorities, in their infinite wisdom, decided to close the community center.
@@ -2964,6 +3050,10 @@
   * #아무것도; #Nothing; #jack shit; didn't know jack shit about chickens
   * Jacked up              제대로, 의도했던 대로 되지 않음
   * #jack off #자위
+
+## judge
+* : 누군가가 어떤 일에 옳고 그름 등을 잘(못) 판단하다 [ 숙어 ] be a good(bad) judge of something 여기서는 good의 비교급 better가 사용되었어요~ 그건 당신보단 내가 더 잘 안다는 뜻이죠. good, bad 외에 excellent, poor처럼 다른 형용사들이 들어갈 수도 있답니다.
+  * 나는 사람들이 정직한지 안 한지를 잘 파악하지. I'm a good judge of people's honesty.
 
 ## justice
 * justice 는 [정의/타당성/정당성] 등을 나타내며 한 쪽으로 치우치지 않는 것을 의미하는 단어인데요. do justice 라는 표현은 원래의 무언가를 너무 이상하게도, 또는 너무 과장되지도 않게 제대로 표현할 때 쓰는 말입니다. 원어민들이 정말 많이 쓰고 유용한 표현이에요. 주로 부정문으로 많이 쓰여 실물이 더 낫다는 걸 강조해 줍니다.
@@ -3170,6 +3260,9 @@
 ## lyric
 * lyric는 단수로는 거의 안씀; lyrics are
 
+## loot
+* 그 전리품을 나눌 때이다. It's time to divide the loot.
+
 ## loop
 * 소외감을 느끼다(정보나 지식의 부족으로 인해)          feel out of the loop
   * 내가 휴가를 갔다온 이후로 현재 상황에 대해 통보받고 있지 않다.
@@ -3219,6 +3312,14 @@
 
 ## left
 * left-wing 좌익 단체들left-wing groups 
+
+## light
+* 2) light on feet = 발걸음이 가벼운, 날렵한
+  * = 그녀는 매우 민첩하고 발이 빠르다. She’s very agile and light on her feet.
+
+## linger
+* linger around = 어슬렁거리다, 꾸물대다, 머무르다; linger은 '(예상보다 오래) 남다, 머무르다'라는 뜻이고 around는 전치사로 쓰일 때 '주위에'라는 뜻이므로 linger around는 주위에 머무르다, 즉 주위를 어슬렁거린다고 할 때 사용하는 표현이에요.  '머무르다'의 뜻을 가진 stay는 단순히 특정 장소에 머무르는 행위를 일컫는 반면 linger은 예상 시간보다 오래 한 장소에 머무른다는 어감이 있는 단어예요. 영상에서 코트니가 stay가 아닌 linger around를 사용한 이유도 본인 스케줄이 바쁘니 촬영장에서 어슬렁대기 싫다는 뜻을 표현하기 위함이라고 볼 수 있어요!
+  * 약 20명의 사람들이 자정이 지나고도 가지 않고 서성거렸다. ex) About 20 people lingered around past midnight.
 
 ## line
 * 일반 전화, 휴대 전화 대비 유선 전화: #landline
@@ -3313,6 +3414,8 @@
 ## measure
 * 너 허리 치수가 어떻게 돼? What's your waist measurement? - take measurements: 의 치수를 재다
   * 침대 고르기 전에 방 치수를 재어보자. Let's take measurements of the room before we pick a bed.
+* : 적당히 하는 조치, 어중간한 수단, 철저하지 못한 방안 [halfway measures]; halfway는 ‘중간쯤’이란 뜻이기 때문에 뭔가 확실하지 않고 어중간한 것을 가리키기도 합니다. 그리고 ‘수단, 방안, 조치’의 뜻으로 measure를 사용할 때는 보통 복수형으로 표현합니다. 
+  * 우리는 테러에 대해서는 어중간한 조치를 취해서는 안된다. We shouldn’t take halfway measures with terrorism.
 
 ## mess
 * #mess up #mess-up I mess up my room.(목적어), be mess-up 사회적이나 도덕적 통념에서 벗어난 
@@ -3453,6 +3556,10 @@
 * 조금 성가시거나 어려운 상황을 빠져나가는 것을 의미하는 표현이에요. through 뒤에 목적어를 쓰는 경우가 많은데 영상에서는 신호등을 통과하는 명백한 상황이기에 굳이 쓰지 않았습니다. 누군가 죽어가는 상황에서는 make it through the night/the day/this week 등으로 쓸 수가 있는데 [밤을 넘기다, 하루를 잘 넘기다, 일주일을 넘기다] 등의 의미로도 많이 쓰입니다.
 	* 적어도 우리가 첫 라운드 통과는 했으면 좋겠다. ex) I hope we can make it through the first round at least.
 
+## middle
+* middle man은 중개인, 중간 유통업자를 뜻해요. 직역하면 '중간에 있는 사람'이니 말이 되죠? ㅎㅎ cut out the middle man은 중개인을 건너뛰다, 중개인을 없앤다는 뜻입니다.
+  * 중간 유통업자를 건너뛰면 돈을 절약할 수 있을 것이다. Cutting out the middle man will save you money.
+
 ## mix
 * : 기본적으로 '새로운 것을 섞어 흥미롭게 만들다' 라는 뜻이에요! 평소와 다른 것, 새로운 것을 시도해본다, 혹은 뭔가를 좀 더 흥미진진하게 만든다는 뜻으로 자주 쓴답니다.
   * 새로운 것 좀 해보자. 이번엔 뭔가 다른 것 좀 해보자고. 새로운 것 좀 해보자. 이번엔 뭔가 다른 것 좀 해보자고.
@@ -3489,6 +3596,8 @@
 * 내 아들은 새 자전거를 받고 매우 행복해 했다. My son was over the moon with her new bike.
 
 ## move
+* move는 '수를 두다' 할 때 그 '수'예요. 따라서 smart move는 '현명한 결정/판단/수', '훌륭한 조치'라는 뜻이랍니다. bad move는 반대로 '섣부른/서투른 판단', '안 좋은 결정', '나쁜 조치'라는 뜻입니다. 
+  * 좋은 결정이야. 그렇게 하면 사람들은 네 편이 될 거야. B: Smart move. That'll win them over.
 * move on은 보통 새로운 일을 시작하거나, 다른 단계, 주제로 넘어간다고 할 때 사용하는 표현이죠. 맥락에 따라서는 '서둘러 무엇을 한다'는 의미도 가지고 있습니다. 여기서 get a move on with my life라고 말하는 것은 내 인생에 있어 한 단계 더 나아가야 한다, 진일보해야 한다는 의지를 담고 있는 표현이에요. * 참고로 사람들이 get a move on!이라고 말할 때는 '서둘러라! 빨리 움직여~ 무빗 무빗!' 처럼 말하는 명령형 표현입니다. 자주 들었던 표현이죠?
   * 우리 어서 다음 단계로 넘어가야 돼. 이 일 시작한 지도 벌써 일주일이 되었잖아. We should get a move on with this. It's already been a week since we started.
   * 안무중에 진짜 멋진 동작이 있어요. There's a really cool move in the choreography. move는 기본적으로 동작, 움직임이라는 뜻을 가지고 있는데요, 여기서는 춤의 동작, 부분적인 안무를 의미해요. 
@@ -3551,6 +3660,10 @@
 * ‘가장 최상의 수준의’란 뜻의 to the nines는 보통 ‘차려입다’라는 동사와 함께 잘 쓰입니다. 노래에서 You got fixed up to the nines라고 했는데 get fixed up은 쫙 빼입다란 뜻이고 to the nines와 합치면 “너 꽤 멋지게 빼입었네”라는 뜻이 됩니다. 
   * 학생들은 프롬파티를 위해 최고로 꾸몄다. (be dressed up : 차려입다) Students were dressed up to the nines for the prom.
 
+## nerve
+* ※ There is a lot of nerves. / There are a lot of nerves. 회화에서는 둘 다 옳은 것으로 사용됩니다.
+  * 긴장이 많이 되서 어떨 때는 내 심장이 심하게 뛰는 게 들릴 정도야. There are a lot of nerves and sometimes I can hear my heart pounding so hard.
+
 ## neat
 * 위스키는 다양한 칵테일의 베이스가 되곤 하여 여러 가지 음료와 섞어서 먹는데요. 아무것도 섞지 않은 채로 먹는 위스키를 neat whisky 라고 합니다. 우리말로는 보통 '스트레이트' 하게 먹는다고 하는데요. neat 하게 먹는다도 많이 쓰입니다.
 
@@ -3564,7 +3677,8 @@
 
 ## nail
 *  #확정하다 #실토하게; #nail down;She says she'll come, but I can't nail her down to a specific time.
-
+* [nail down] : 결정적으로 밝혀내다, 확실히 알아내다
+  * 그 기자는 모든 사실을 확인함으로써 그 이야기를 결정적으로 밝혀냈다. The reporter nailed down the story by checking all the facts.
 
 ## nasty
 * nasty; 1. 더럽다 2. 맛이 없다 3. 형편없다; nasty watch 4. 악취; nasty smell
@@ -3704,6 +3818,10 @@
 * 새로운 규제방안은 향후 2년에 걸쳐 단계적으로 도입될 것이다. The new regulations will be phased in over the next two years.
   * phase in은 법이나 제도 등을 단계적으로 도입하다라는 뜻입니다. 뒤에 「over+기간」를 넣어 ‘한 기간에 걸쳐’라고 표현해 줄 수도 있습니다.
 
+## page
+* : 본보기로 삼다, 본받다 take a page out of one's book; 한권의 책에는 글쓴이 한사람의 인생과 지혜가 담겨 있죠. 책의 한 페이지를 취하겠다(take)를 다른 말로 그 사람을 본받겠다는 의미가 됩니다. take a page out of one's book  = take a leaf out of one's book
+  * 우리는 자연에서 배울점이 많다. We need to take a leaf out of nature’s book.
+
 ## paper
 * 서류상의 흔적 = paper trail 서류상의 흔적 = paper trail
   * 어떤 흔적도 남기고 싶지 않아서 현금 결제 했어. ex) I didn't wanna leave any paper trails so I paid in cash.
@@ -3742,6 +3860,10 @@
 * * pat down  1. 몸 수색을 하다. 2. 가볍게 두드리다. 불법적인 무기나 마약 등을 소지하고 있는지 몸을 훑어가며 수색하는 것을 의미합니다. 보통 공항 보안 검색대에서 출국할 때 하는 검사를 생각하시면 됩니다!
   * 공항 보안이 내 몸수색을 했는데 그의 손길이 ex) The airport security guy patted me down and I felt a bit uncomfortable with his touch.
 * pat on the back: 격려하다, 칭찬하다, 축복하다.
+
+## pare
+* pared-down = 축소된, 군더더기 없는; 동사 pare 은 ‘(과일, 야채 등) 겉껍질을 벗기다’, 혹은 ‘(크기, 양) 줄이다, 삭감하다’ 입니다. 뒤에 전치사는 의미에 따라 off, down, back 등을 붙입니다.  형용사 pared-down 은 꼭 필요한 것만 놔두고 나머지는 줄였다는 의미를 갖고 있는데요, ‘절감된, 긴축한, 군더더기 없는, 간결한’ 정도로 해석합니다.
+  * = 감자에 좀 이상해 보이는 부분은 벗겨내 주세요. Please pare off any bits of potatoes that don’t look very nice.
 
 ## pardon
 * 1) pardon 은 상대방의 말을 잘 듣지 못한 상황에서 [한 번 더 말씀해주시겠어요?]라고 말할 때 Pardon? / Pardon me?/ I beg your pardon? 이라고 쓰이죠.  2) 하지만 pardon 은 [사면, 용서]라는 뜻이 있어서 위의 말은 사실 [제가 당신 말을 잘 못 들었는데, 용서해주세요. 다시 한 번 말씀해주시겠어요?]라는 의미의 단어입니다. 3) 비슷한 의미로 영상에서의 pardon 은 법률적 용어로 [사면하다]라는 동사로 쓰였고요. 명사로 쓰일 땐 [사면]을 의미해요.  4) 사면해주는 입장인 경우는 그리 많지 않기에 보통 수동태인 [be/get pardoned = 사면 받다]로 많이 쓰이고요. 명사로 쓰일 경우엔 [ask for/grant/receive a pardon = 사면을 요청하다/해주다/받다]의 형태로 쓰입니다.
@@ -3816,6 +3938,10 @@
 ## pale
 * 원래 형용사로 안색이 [창백한] 을 의미로 가장 많이 쓰입니다만, 동사로는 무언가가 덜 중요하게 보이거나 덜 인상적으로 보일 때 많이 쓰이며 [별것 아니게 느껴지다] 정도로 해석이 됩니다. pale into insignificance라는 숙어도 함께 알아두시면 좋은데요. [빛이 바래다, 중요성을 잃다]를 의미합니다.
 	* = 건강을 잃으면 다른 모든 것들은 중요하지 않게 되지. All else pales into insignificance when you lose your health.
+
+## public
+* 대중의 관심을 한몸에 받는 연예인, 정치인 등을 우리는 '공인'이라고 부르죠. in the public eyes는 '대중에게 관심을 받는, 공개적으로 널리 알려진'이라는 뜻이에요. 대중의 눈속에 있으니 있으니 관심을 받는다는 의미가 되겠죠. 
+  * 그녀는 대중에게 알려지는 것을 좋아하지 않는다.   She doesn't want to be in the public eye.  
 
 ## punch
 * 직업을 잃는다는 건 매우 힘들었지만 힘든 상황에 적응하려고 노력중이야. Losing my job was very tough but I’m trying to roll with the punches. [roll with the punches]
@@ -4444,6 +4570,9 @@
 * 데인 곳을 진정시키려면 이 로션을 부드럽게 발라주세요. ex) Gently rub this lotion in to soothe the burn. rub in 을 쓰면, 크림이나 오일 등이 안으로 '스며들게끔' (in) 표면에 [바르는] 것을 의미합니다.
   * in 대신에 into 를 쓰면 뒤에 '신체 부위' 를 쓸 수 있습니다.
     * 이 크림을 얼굴에 바르세요. ex) Rub this cream into your face.
+* rub A the wrong way = A의 심기를 건드리다, A를 화나게 하다; 이 표현을 직역해보면 rub(문지르다) + the wrong way(잘못된 방향으로) = 잘못된 방향으로 문지르다 라는 뜻으로 해석할 수 있는데요. 동물의 털을 만질 때 털이 난 방향대로 만지지 않고 결을 거슬러 잘못된 방향으로 만지면 동물을 화나게 한다는 말에서 파생된 표현이에요. 그래서 rub(문지르다) 대신에 stroke(쓰다듬다)라고 하기도 한답니다. 정확한 표현은 rub A's fur to the wrong way 이지만 간결하게 rub A the wrong way라고 쓰기도 해요. 한 단어로 '짜증나게 하다/화나게 하다'를 표현하고 싶다면 annoy나 irritate를 쓰면 된답니다!
+  * 그를 화나게 하지마. ex) Don't stroke him the wrong way.
+  * Mark는 진짜 나를 화나게 만들어. ex) Mark really rubs me the wrong way.
 
 ## run
 * 예행 연습을 하다. do a dry run; # dry run
@@ -4509,6 +4638,10 @@
 * rap은 다양한 의미가 있지만 여기서는 '(부정적인) 평가, 명성'이라는 뜻으로 사용했어요. reputation(명성)의 슬랭이랍니다.
   * 히스는 애들 때리는 걸로 학교에서 안 좋은 명성이 자자하다. Heath has a bad rap in his school for beating up kids.
 
+## rain
+* 'make it rain'은 공연이나 사람들이 있는 곳에서 돈을 말 그대로 뿌리는 것을 의미해요. 자신의 재력을 과시하기 위한 행위로 볼 수 있는데요, 힙합 뮤지션들이 자주 쓰는 표현이기도 합니다.
+
+
 ## rail
 * 을 비난하다, 격렬히 반대하다. = rail against 동사로 rail 은 [격분하다] 라는 뜻이 있어요. 주로 전치사 against 나 at 과 함께 쓰입니다.
     * 그의 제안을 왜 그렇게 비난했어? 뭐 잘못된 거라도 있니? ex) Why did you rail against his suggestion? Anything wrong with it?
@@ -4530,6 +4663,9 @@
 ## range
 * = 범위가 A에서 B에 이르다 * range from A to B  여러 가지 상황에서 정말 많이 쓰이는 표현이고요. 범위가 좀 더 다양할 경우엔 뒤에 to C to D 등으로 더 붙여서 쓸 수도 있습니다.
 	* = 선택하는 방의 종류에 따라 가격은 50달러에서 500달러로 다양합니다. The prices from 50 dollars to 500 dollars, depending on the type of room you choose.
+
+## reckless
+* 그는 자기 자신의 안전을 무모할 정도로 무시했다. He showed a reckless disregard for his own safety.   [ˈrekləs] 
 
 ## record
 * 공식적으로 이야기하다 = go on record 자신의 입장, 견해 등을 이야기할 때 무언가를 공식적으로 표명하여 기록에 남기고 싶을 때 쓰는 표현입니다. 영상에서는 남녀가 티격태격하며 자기가 무엇을 수리했는지 조목조목 따지려고 하기에 의도적으로 쓴 표현이라고 볼 수 있습니다.
@@ -4605,6 +4741,9 @@
   * -에게 연락하다; Reach out to 사람;
   * 관심을 가지고 다가가ㅏㄷ; reach out to 사람;
 * 는 #무리다, #멀다; it’s a #reach;   말도 안되는 소리: you’re reaching = it’s a stretch
+
+### overreach
+* 도를 넘었지; we overreached a little
 
 ## redress
 * 1. (잘못된 것을) 바로잡다. 해결하다. 2. 보상, 배상, 해결책 잘못되었다고 여겨지는 부당한 상황, 바람직하지 않은 상황을 바로잡거나 해결하는 것을 의미합니다. 
@@ -4750,6 +4889,7 @@
 
 ## screw
 * 그녀는 태양 때문에 눈을 찡그렸어요. She screwed up her eyes because of the sun.
+* 저기 딱 나사로 조여져있네요. it's screwed in right there
 
 ## scrape
 * 적은 급여로 간신히 버티고 있어. I'm barely scraping by on my small salary. scrape by : 로 간신히 버티다
@@ -4779,6 +4919,10 @@
 
 ## score
 * * 묵은 원한을 갚다. pay off an old score 듣기 출처:프렌딕
+
+## say
+* : 최종 결정권이 있다, 칼자루를 쥐다 [have/get the last say] 어떤 사항에서 최종 결정권을 갖는 것을 have/get the last say라고 합니다. last say 대신 final say라고 하셔도 됩니다.
+  * 편집장으로서, 그녀는 레이아웃 설계에 대한 최종 결정권을 갖고 있다. As the editor in chief, she has the last say on the layout design.
 
 ## salt
 * Salt; salary: 예전에 귀했던 salt에서 온 말; 
@@ -4870,6 +5014,8 @@
   * 내 와이프는 살 빼는데 요가의 효능을 믿는데, 저녁에 자기 전에 많이 먹어. ex) My wife swears by yoga to lose her weight, but eats a lot before she goes to bead at night.
 * swear by 사물 = ~가 효과가 있다고 믿다
   * = 우리 엄마는 이 비타민이 효능이 있다며 맹신하고 계셔. My mom swears by these vitamin pills. 
+* : (비격식 구어) ~하지 않겠다고/ 끊겠다고 맹세하다 [ 숙어 ] swear off something
+  * 금주, 금연 하기로 맹세했어요. I've sworn off drinking and smoking.
 
 ## sweet
 * sweet spot은 ‘최상의 결과를 내는 범위나 부분’입니다. 스포츠에서는 라켓이나 베트, 클럽 등으로 공을 치기 가장 효율적인 부분을 뜻하고, 비즈니스에서는 최상의 수익성 혹은 효율성을 만들어내는 범위를 가리킵니다. 또는 가수의 최상의 음역대, 가장 좋아하는 스킨쉽 위치 등 분야는 다르더라도 모두 ‘가장 좋은 결과를 내는 위치’를 의미합니다. 
@@ -4952,6 +5098,9 @@
 * 남이 어떤 나쁜 일을 겪지 않도록 해주는 것을 spare라고 합니다. 사용시 어순은 「spare 사람 (from) 불쾌한 일」입니다. 영상속 대사를 살펴보면 spare(받지 않게 해주다) / others(다른 사람들) / the anguish of the disease(이 병으로부터의 고통)이 되겠습니다.
 	* 그녀는 그녀의 어머니에게 어떤 걱정도 끼치지 않길 바랬다. She wanted to spare her mother from any anxiety.
 
+## sever
+* #연을 끊다; #server ties with
+
 ## segue
 * : segue 는 이탈리어 혹은 음악 언어 [세구에: 중단 없이 계속해서 연주] 에서 차용된 단어로 '이어지다, 따르다'라는 말! 이 표현은 '~로 넘어가다' 라는 뜻이죠. 특히 이렇게 다른 화제로 넘어갈 때 자주 사용해요. 발음이 비슷한 'segway' 로 철자 오류를 내는 경우가 많으니 유의하세요!
   * 이제 ~ 얘기로 넘어가자면요. [ex] Now to segue into ~  [ˈseɡweɪ] 
@@ -5026,6 +5175,8 @@
 ## stomach
 * stomach는 명사로는 위, 복부를 의미하지만 동사로는 '참다, 견디다'는 뜻을 갖고 있죠~ 어떤 걸 '먹고 넘길 수 있다'는 의미에서 발전한 의미로 볼 수 있어요. 주로 부정문, 의문문으로 사용됩니다.
   * 자기 가족에 대한 모욕적인 말을 견딜 수 있는 사람이 어디 있어? Who can stomach insulting remarks on their family?
+* 사람 몸의 간은 실제로 liver 라고 하지만, 영어에선 stomach (위) 라는 단어를 써서 [간 떨어지는 기분이 들다] 라는 의미로 씁니다.
+  * 30분 동안 그녀의 딸을 찾을 수 없었을 때 그녀는 간 떨어지는 기분이 들었다. ex) Her stomach dropped when she couldn't find her daughter for 30 minutes.
 
 ## stop
 * stop at nothing = 무엇이든 하다 (직역하면 "아무것도 멈출 수 없다")
@@ -5127,6 +5278,10 @@
 * 현재 진행형은 진행되는 동작을 의미할 뿐만이 아니라 "평소에 하지 않는 행동을 특정한 기간/상황에만 할 때" 쓰기도 합니다. 사람들이 얘기할 때 항상 serious 하게 얘기하는 것은 아니기에, [다른 때는 모르겠는데, 지금은 진심으로 말하는거야] 라는 뉘앙스로 I'm being serious. 라고 말을 했어요.  
   * 사라가 여기 있어서 그냥 공손하게 있는거야. ex) He's just being polite now because Sarah is here.
 
+## service
+* get service는 휴대폰 신호가 잡힌다는 뜻!
+  * 너 신호 잡혀? 난 안 잡혀. [ex] Are you getting service? I'm not.
+
 ## serve
 * 자신의 생각을 일기장에 써본다면 도움이 된다고 말하면서 you serve yourself 라고 하였습니다. 이 표현은, 자신에게 도움이 되는 행위를 하다라는 뜻입니다. 여기에 if+문장을 넣어서 if 뒤를 할 경우, 너에게 도움이 될 것이다라고 구체적으로 표현해 주면 됩니다.
 	* 자기 전에 물 한잔 마시면 너에게 아주 좋을 거야. You would serve yourself if you drink a cup of water before going to bed.
@@ -5157,6 +5312,14 @@
   * 우린 내일 서울로 여행 갈 거야. ex) We will set off for Seoul tomorrow.
 * set someone off : (웃음/울음/이야기/분노 등을) 터뜨리게하다. 유발하다. 1) set off 자체가 무언가를 [터뜨리다/유발하다] 라는 뜻이 있는데, 중간에 사람을 목적어로 쓰게 되면 [그 사람의 어떤 행동/감정을 유발하다] 라는 의미로 쓰입니다. 여기선 [발작을 일으키다] 로 해석이 되었습니다.
   * 그의 예전 사진들은 그녀의 웃음이 빵 터지게했다. ex) His throwbacks set her off laughing out loud.
+
+## staff
+* '촬영 스태프'라는 표현 들어보셨죠? 영어로는 보통 filming staff가 아니고 filming 
+crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아볼게요!
+  * 1. 촬영 스태프 = filming crew
+  * 2. 비행기, 여객선 등 교통수단의 직원. 예를 들어, 항공기 기내 직원은 '캐빈 크루(cabin crew)'라고 칭하죠.
+* staff는 '직원 일동'과 같은 뜻으로 쓰여요. 예시를 몇 가지 살펴볼게요.
+  * 1. 간호진 = nursing staff  2. 전사 미팅 = staff meeting  3. 대학교의 교직원 = faculty and staff (faculty는 교수진을 뜻하고, staff는 교수진을 제외한 임직원을 뜻함)  ※ crew와 staff 둘 다 여러 사람으로 구성된 집단을 뜻해요. '크루/스태프 직원 한 명'이라고 말할 때는 crew member, staff member라고 해야 해요.
 
 ## stack
 * 새 모델은 구 모델과 비교가 되지 않는다. The new model doesn't stack up against the old one. stack up against A: A에 견줄 만하다
@@ -5196,6 +5359,11 @@
   * #stand up to; #맞서다; stood up to the bullies
 
 ### stand by
+* 비행기, 기차 등을 탈 때 대기자 명단에 승객을 받아주기도 하죠! 그럴 땐 'on standby' 를 써보세요. 동사와 함께 익혀봅시다. - be on standby
+  * 대기자 명단에 있었어. 거의 여덟 시간 정도 기다렸지. [ex] I was on standby. I waited for like eight hours.
+  * : 를 대기자 명단에 넣어주다 - put someone on standby
+    * 내가 늦어서 [항공사 쪽에서] 다음 비행기 대기자 명단에 넣어줬어. [ex] I was late, so they put me on standby for the next flight.
+  * : 공석 대기로/대기자표로 비행기를 타다 - fly standby
 * 타샤가 나 대신 잘못을 덮어쓰는 걸 나는 그냥 가만히 놔뒀다. [ex] I just stood by and let Tasha take the blame for me. 1. 방관·좌시하다, 그냥 가만히 있다
 * 조종사는 이륙대기를 지시받았다. [ex] The pilot was instructed to stand by for take-off. 2. 대기하다
 * 무슨 일이 생겨도 네가 내 곁을 지켜줄 거란 걸 알아. [ex] I know that you'll stand by me no matter what. 3. ~의 곁을 지키다, ~을 변함없이 지지하다
@@ -5213,6 +5381,9 @@
 * 'staple'은 본래 '주요 상품/주요 요소/주된' 등의 뜻으로, 패션계에서 'staple'이란 주된 것, 즉 옷장에 꼭 가지고 있어야하는 기본템, 필수템을 의미한답니다.
   * 카고 바지는 남자들의 여름 옷장 필수템이다. Cargo shorts are a staple in mens' summer wardrobes.
 
+## star
+* -가 주연이다; It stars 사람
+
 ## start
 * - start off by ~ing : ~하면서 시작하다
 * - start off with : 로 시작하다
@@ -5224,9 +5395,18 @@
 * # 시비; 1) start with는 ‘시비걸다, 건드리다’라는 뜻이 있어요. 그리고 stuff는 여러가지를 지칭할 수 있는데, 여기서는 ‘주제, 이야기, 말’을 가리킵니다. 그래서 don’t start with the family stuff는 ‘가족은 건드리지 마’라는 뜻입니다.
   * 오늘은 나 제발 건드리지 마. Please don’t start with me today.
 
+## short
+* 여기서 short는 키가 작다는게 아니라 성격이나 말투가 퉁명스럽고 무뚝뚝하다는 뜻입니다. 단, 명사를 꾸며주는 기능은 없어서 a short man이라고 하면 키 작은 남자이지 무뚝뚝한 남자는 될 수 없다는 점 주의해 주세요.
+  * 오늘 아침에 너한테 좀 퉁명스럽게 대해서 미안해. I’m sorry I was short with you this morning.
+* 부족하다; you're 23$ short
+  * be/run short on; be short of 명사; be running short on money
+
 ## shy
 * shy 가 [부끄러워하는] 의 의미 외에도 미국에선 비격식 표현으로 필요한 만큼의 양에서 [~이 부족한] 의 의미를 갖기도 합니다. 
   * = 그는 90세가 되기 2주 전에 죽었다. He died two weeks shy of his 90th birthday.
+
+## shape
+* in shape : 몸매가 좋은/몸 상태가 좋은/건강한; out of shape : 몸매가 망가진  get in shape : 몸매를 만들다,  keep[stay] in shape : 몸매를 유지하다
 
 ## shallow
 * shallow는 수심 등이 얉다는 뜻인데, 사람에게 사용되면 뭔가 깊이가 없고, 천박하고, 사람의 내면보다는 외모를 더 중시하는 성격을 나타냅니다. 영상 속의 여자도 “I’m pretty shallow”라고 말하면서 자신 또한 남들처럼 사람의 외모를 엄청 따지는 편이라고 말하고 있습니다. 
@@ -5363,6 +5543,8 @@
 
 ## speak
 * * 모두가 그녀를 아주 좋게 이야기한다. Everyone speaks very well of her. 
+* : 설명이 필요 없다, 명백하다 1. speak(s) for itself/themselves 직역에 가깝게 옮기면 '그 자체가 스스로 이야기해준다'죠? 따로 설명하지 않아도 '그 자체로 명백하다', '딱 봐도 분명하다/명백하다'라는 뜻이에요!
+  * 수치/사실만 봐도 명백해. [ex] The numbers/facts speak for themselves.
 
 ## stethoscope
 * #청진기; stethoscope; put / apply / examine with / has a
@@ -5397,6 +5579,10 @@
   * - succeed 사람 : ~의 뒤를 잇다, - succeed to 지위, 재산 : ~를 물려받다
   * = 누가 대통령으로 아브라함 링컨의 뒤를 이었지? Who succeeded Abraham Lincoln as President?
   * = 세종대왕은 스물두살의 나이에 왕위를 물려받았다.  King Sejong the Great succeeded to the throne at the age of 22.
+
+## side
+* side door는 샛문, 쪽문을 의미하며 간접적인 접근법을 비유하는 표현입니다.
+  * 그런 문제들을 접근할 때 사용하는 방법이에요. [ex] This is a side door to approach such matters.
 
 ## sideline
 * sideline 은 이외에 ‘부업’ 이란 뜻으로도 잘 쓰이고, 운동경기에서 부상으로 인해 출전하지 못하게 한다는 의미도 있습니다. 
@@ -5608,7 +5794,7 @@
   * 결혼하다; #tie the knot(#knot)
   * #정박 #장착 #dock(2. #정박); dock USB = #port = #harbor = be tied
   * 신발끈 lace나 shoestring, shoelace; #tie the strings <> #untie
-  * #연을 끊다; #server ties
+  * #연을 끊다; #server ties with
 
 ## thank
 * ~에게 개인적인 감사의 말을 전하고 싶네요. I'd like to say a few personal thank-yous to ~ 마지막에 감사의 말을 덧붙일 때 요 표현 아주 유용하겠죠? 여기서 'thank-you'는 셀 수 있는 명사라 '-s'가 붙었어요!
@@ -5768,6 +5954,8 @@
 * track 은 말 그대로 사람들이 따라가도록 나있는 [길] 을 의미하는데요. 무언가를 함에 있어서 목표를 향한 길에서 벗어나지 않고 잘 따라갈 때 on track 이라고 합니다. 제대로 된 방향으로 나아갈 때는 on the right track, 잘못된 방향일 때는 on the wrong track 이라고 하고요. 잠시 잘못된 방향으로 갔다가 다시 돌아왔을 때는 get back on track 이라고 할 수 있어요.
 	* 데이빗. 넌 정말 잘 하고 있으니까 너 자신을 의심할 필요가 없어. ex) David. You're definitely on the right track, so no need to doubt yourself.
 * 우린 지금 논점에서 벗어나면 안돼. 이 팀 프로젝트 끝낼 시간이 많이 남지 않았어. ex) We should not get off track now because we don't have much time left to finish this team project. track 은 [길] 이라는 뜻이 있는데요, 말 그대로 [길에서 벗어나다] 라는 뜻과, 영상에서처럼 [논점에서 벗어나다] 라는 비유적 표현으로도 쓰인답니다. * get off track : 논점에서 벗어나다.
+* a one track mind = 한 가지만 생각함; 오직 단 하나의 생각에 몰두해 있다는 뜻으로 성적인 것을 지칭할 때도 많습니다. ‘그것(=섹스)’만 밝힌다는 느낌으로요. 
+  * 섹스 얘기를 한 게 아니었는데. 너는 그것만 생각하는구나.  I wasn’t talking about sex. You have a one-track mind.
 
 ## tone
 * 동사로 주로 tone up 이라고 쓰여요. 몸매뿐만 아니라 소리라든지, 색상 등을 한 단계 높여서 세게하는 것을 의미하는데요. 영상에서처럼 toned 라고 쓰이면 몸이 [탄력 있는, 탄탄한] 이라는 의미를 갖게 됩니다.
@@ -6002,6 +6190,10 @@
 ## visit
 * 어렵지 않은 표현이지만 visit 자체를 명사로 많이 쓰는 연습이 되어 있지 않다면 쉽게 떠오르지 않는 표현일 수도 있어요! visit 이 명사로 쓰이는 또다른 유용한 표현으로는 [방문하다] 라는 의미의 pay a visit 도 있답니다.
 
+## want
+* 이렇게 예정된 일을 '취소하고 싶냐', 또는 함께하는 일에서 '빠지고 싶냐' 하고 물을 때 쓸 수 있는 의문문이에요! 여기서 'want in/out' 은 '들어오고 싶어하다/나가고 싶어하다'라는 뜻으로, 물리적인 공간으로 들어오거나 거기서부터 나가고 싶은 걸 말할 때 쓰기도 한답니다.
+  * 나갈래. / 빠질래. / 관둘래. / 취소할래. [ex] I want out.
+
 ## wank
 * wanker는 영국에서 쓰이는 상당히 수위 높은 욕설이긴 합니다;;ㅎㅎ 원래 의미는 '자위를 하는 사람'을 가리키는데  동사 wank (off)가 자위를 한다 (masturbate/남녀, jerk off/남)에서 나온 표현입니다. 그런데 이걸 비하하는 욕으로 널리 사용하게 된 거죠.  모자란 사람, 재수 없는 사람, 짜증 나는 사람을 일컫는데, wank (off)가 남자에 한정되는 말인 만큼, wanker도 주로 남자에게 쓰이는 표현이죠. 친한 친구들 사이 애정(?!) 장난(?) 섞인 호칭으로 사용되기도 합니다. 영국권 영화/드라마에서 나름 많이 접할 수 있어요~ 하지만 직접 입에 올리는 건 조심하셔야겠죠?!  [wæŋk]
 
@@ -6050,6 +6242,10 @@
 * 그는 새로운 일을 아주 자연스럽게 익힌다. She takes to new works like a duck to water . 
 * 난 내 아들에게 뭘 하라고 말을 할 수가 없어요. 내 말은 귓등으로도 안 들으니. I can’t tell my son what to do; it’s water off a duck’s back with him. ; water off a duck's back; 오리의 궁둥이에는 오리 기름이 분비되어 물이 닿아도 젖지 않음; 부정적인 상황에서 쓰임
 * 너 양수 터진 것 같아. I think your water broke.
+
+## wonder
+* 어쩐지; No wonder!
+  * That's why -
 
 ## wood
 * neck of the woods : 지역, 가까운 지역, 이웃; 1) 비격식 표현이며 특정 지역, 또는 그 지역과 가까운 곳을 의미합니다. 2) 영상에서 처럼 앞에 소유격을 붙이면 '~가 살고있는 지역' 을 의미합니다.

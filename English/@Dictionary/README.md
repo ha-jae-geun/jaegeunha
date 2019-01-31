@@ -478,6 +478,8 @@
 * 결정하는 데 있어서 좀 더 영향력을 미치거나 주도적으로 결정하는 것을 call the shots 이라고 합니다.	
 	* 나는 그에게 프랑스로 가지 말라고 얘기했지만, 그는 기필코 가려고 한다. (dead set on~ : ~하기로 단단히 마음 먹다) I've been trying to talk him out of moving to France, but he's dead set on going.
   * 당신은 여기서 결정을 할 권리가 없는 것 같은데요. ex) I don't think you have a right to call the shots here.
+* : 최종 결정권이 있다, 칼자루를 쥐다 [have/get the last say] 어떤 사항에서 최종 결정권을 갖는 것을 have/get the last say라고 합니다. last say 대신 final say라고 하셔도 됩니다.
+  * 편집장으로서, 그녀는 레이아웃 설계에 대한 최종 결정권을 갖고 있다. As the editor in chief, she has the last say on the layout design.
 * 결정하다; decide; make a decision
   * 형용사를 받아준다; it's not your desicion to make/ i've ever had to make
   * 잘라서 앞/뒤 위치를 바꿀 수 있다; It's very hard decision to make
@@ -554,6 +556,8 @@
    * 자신이 경험한 바를 토대로 얘기할 때 speak from experience 라고 하시면 됩니다. 동사를 바꿔서 write from experience(경험한 바를 쓰다), draw from experience(경험한 바를 그리다) 와 같이 쓸 수도 있습니다.
     * 너가 마치 경험한 것 처럼 얘기하는구나.  Sounds like you speak from experience.
    * 내 경험상; Based on my experience~
+ * # 당했다; sustain: '부상을 입었다, 안 좋은 일을 당했다'고 할 때 get, suffer, experience보다 좀 더 격식있게, 전문적으로 표현하는 동사가 바로 sustain입니다.
+  * 에밀리는 가벼운 부상을 당했다. Emily sustained a mild injury.
  * 너 어제 그 파티 왔어야 했는데 You missed out on that party last night. #miss out (on 대상)
  * 휘청거리다 발목을 삐었다           I stumbled and sprained my ankle. 
  * #reel; 비틀 거리다; 취하다
@@ -1237,6 +1241,8 @@
   * 2) 영상에서처럼 이후에 발전시킬 무언가의 개념, 이론, 사실, 정책 등의 기반을 놓는 것을 의미하기도 합니다 - 전치사 for
   * 테일러는 내가 이 조직의 기반을 쌓는데 정말 많이 도와줬어. ex) Taylor definitely helped me lay the foundation for our organization.
   * 그 정의는 일본인들은 특별하다는 미신에 기반하고 있어요; It's built on a myth; A is built on B
+  * be predicated on/upon = ~에 기반하다, 근거를 두다 be based on 과 거의 같은 의미를 가지지만, 조금 더 격식체 표현입니다.
+    * = 그 보고서는 사실과 수치에 근거한 것입니다. The report is predicated on facts and numbers.
 * 의 기반을 쌓다, # 기초를 놓다. 대비하다 = lay the groundwork for
   * 지금 시간이 더 있을 때 미래의 커리어를 위한 기반을 쌓아두는 게 좋을거야. ex) You'd better lay the groundwork for your future career when you have extra time now.
 * 미국의 대학 교육과정에서 강좌번호를 적을 때, 입문용 수업에는 101을 붙이는데요, 예를 들어 정치학개론은 Politics 101, 화학 입문은 Chemistry 101... 가 됩니다. 이렇게 입문, 또는 개론을 나타내던 101이 그 뜻이 발전해서 어떤 주제에 대한 가장 기본적인 내용, 기초 상식이라는 의미로 널리 사용되고 있는 것이죠.
@@ -1561,6 +1567,7 @@
 * Do you mind if I ask your age?
 * #동갑이야 She is your age #또래인 of my age 한 살 #차이: ~ and I are one year apart
   * 이자벨이 또래 아이들이랑 놀아야 한다고 생각하지 않나요? Don't you think Isabelle should play with kids her age?; people (of) one's age
+  * 내 또래에ㅔ; For my age, 
 * ~ is of the same age
 * 몇 살처럼 보여요? How old do I look?
 * #노안 she said I look old for my age #동안 you look good/great for your age = she has a #baby face
@@ -1946,9 +1953,10 @@
 * # 소중; 저희가 신중히 고른 스킨케어 제품들로 당신을 소중히 가꾸세요. ex) Pamper yourself with our carefully chosen skincare products.
   * 귀중품이 들어있으니 조심해 주세요; Please be careful because it contains valuable stuff
 
-# 다어
-* 너 답다; So typical of you
+# 다워
+* 너 # 답다; So typical of you
 * that's very Jessica라고 하면, '그건 아주 제시카가 할 만한 일이야, 제시카다운 행동이야'라는 뜻이죠! 그 사람의 이름이 그 사람의 특징을 대변하는 의미로 사용된 거랍니다.
+* "You're not yourself" 는 '너답지 않다', '네 자신이 아니다'라는 뜻인데요. 여기서 'be not oneself'는 감정적/정신적/신체적으로 안 좋아서 평소와 다른 행동을 보이는 걸 말해요. 그래서 이 말은 '지금 행동을 보니 너 지금 어디 안 좋은 것 같아' 라는 뉘앙스예요.
 
 # 다음
 * # 직후에; #In the wake of; trump's election,
@@ -1995,6 +2003,11 @@
 
 # 대기
 * 그래서 대기명단에 이름을 올리고 차에서 기다렸어요. So we put our name on the waiting list and we waited in the car
+* 비행기, 기차 등을 탈 때 대기자 명단에 승객을 받아주기도 하죠! 그럴 땐 'on standby' 를 써보세요. 동사와 함께 익혀봅시다. - be on standby
+  * 대기자 명단에 있었어. 거의 여덟 시간 정도 기다렸지. [ex] I was on standby. I waited for like eight hours.
+  * : 를 대기자 명단에 넣어주다 - put someone on standby
+    * 내가 늦어서 [항공사 쪽에서] 다음 비행기 대기자 명단에 넣어줬어. [ex] I was late, so they put me on standby for the next flight.
+  * : 공석 대기로/대기자표로 비행기를 타다 - fly standby
 
 # 대답
 * 상반되는 대답이네요. we got conflicting answers
@@ -3175,6 +3188,8 @@
  * 확실해         I know it for sure <> I don’t know it for sure
  * #once and for all
  * 확실해 진 것 강타              make a lot more sense
+ * 설명이 필요 없다, 명백하다 1. speak(s) for itself/themselves 직역에 가깝게 옮기면 '그 자체가 스스로 이야기해준다'죠? 따로 설명하지 않아도 '그 자체로 명백하다', '딱 봐도 분명하다/명백하다'라는 뜻이에요!
+  * 수치/사실만 봐도 명백해. [ex] The numbers/facts speak for themselves.
  * 세금과 죽음만큼 확실 #certain #as death and taxes
  * ##의심의 여지 없이             Hands down, without doubt
  * 의심할 여지가 없다; there is no #room for doubt
@@ -4563,6 +4578,9 @@ retaliate
 * #blimey = #oh my god
   * For crying out loud : 세상에나, 제발 좀!, 이럴수가, 맙소사
 
+# 세우다
+* 보트를 세우려고 노력하다; Me try to upright their boat
+
 # 소개
 * : 어떤 장소를 돌아다니면서 중요하거나 재미있는 부분을 소개해주는 걸 뜻해요.
   * 내가 도시 구경시켜줄게. I'll take you around the city.
@@ -4949,6 +4967,7 @@ retaliate
     * 모든 것이 순조로웠어요            The whole thing was a terrific ride.
   * 순조롭게 되어가다; #run smooth - 순조롭게 되어가다; #smooth
   * #without a hitch; #순조롭게
+  * # 순종; insubordinate 미국·영국 [ìnsəbɔ́:rdənit]; an insubordinate soldier 
 * 대강 # 순서는 맞춴쎄; we got the general order
    * 처음 듣는 소식이네요, #금시초문  This is the first i’m hearing of it, That’s news to me
    * In the right/wrong order/
@@ -5285,6 +5304,7 @@ retaliate
 # 애매
 * 괴상하고 어중간산 상태였어요; i was in this weird limbo zone
   * 모호한 개념 a nebulous concept [ˈnebjələs]
+  * it's kind of a grey area.; That was really iffy; That is so vague [veɪɡ]
   * 애매한; borderline; borderline human; In borderline cases
   * : '회색 지대, 애매한 영역'을 뜻해요! 흑백 논리로 나눌 수 없는 애매한 중간이라 생각하면 기억하기 쉽겠죠?
     * 회색 지대는 항상 있기 마련이야. There's always a grey area.
@@ -5360,6 +5380,10 @@ retaliate
   * 티나 it #shows = everything shows = it's too obvious = you can't hide it
   * #티나?
   * ☆Don't be hard on yourself = don't blame yourself for this
+
+# 어쩐지
+* 어쩐지; No wonder!
+  * That's why -
 
 # 얻다
 * -로 진출하다; make one's way into
@@ -5932,6 +5956,7 @@ retaliate
 * 생선마다 보존기간이 다 다르다. Each fish has its own shelf life . 듣기 출처:능률교육
 
 # 유행
+* 저거 요즘 트렌드야.  That's in.  저거 유행 지났어. That's out.
 * 유행을 의미하는 trend 와 없던 무언가를 만들어 세우는 사람의 setter 의 합성어인 trendsetter 는 패션의 유행뿐만 아니라 다른 사람들이 따라 하게 되는 무언가를 처음으로 하고, 그 추세를 이끄는 사람, 조직을 의미하는 단어입니다.
   * 많은 대세들은 유튜브 출신 입니다. ex) A lot of new trendsetters are from Youtube.
   * 'fad'는 일시적인 유행을 가리키는 단어예요.
@@ -7020,6 +7045,8 @@ retaliate
 # 조건
 * string 은 원래 [줄] 이라는 뜻이 있는데요. 영상에서처럼 무언가를 계약하거나 제안할 때 줄이 주렁주렁 달린 것처럼 조건이 붙어있을 때 쓰기도 해요. [조건, 단서 조항]등을 의미하고요. 영상에서처럼 have strings attached 를 써도 되고, with strings attached 를 쓸 수도 있습니다.
   * 조건이 있는 게 분명해. 계약서 다시 읽어봐. ex) There must be some strings attached. Read the contract again.
+* what it takes는 재력이나 재능 등 자질이나 조건을 나타내요. 보통 'have(got) what it takes to~ = ~하는 데 필요한 자질이 있다.'라고 잘 쓰이니 숙어 표현을 통째로 외워두시는 게 좋아요! to 부정사 없이 단순히 You have(got) what it takes. 라고 한다면 '넌 성공하는 데 필요한 자질을 갖추고 있어.' 정도의 칭찬으로 보시면 된답니다.
+  * 난 어떻게 해서든 이걸 얻고 말거야! ex) I'm going to get it no matter what it takes!
 
 # 조금
 * 자선을 위한 수표가 아주 조금씩 들어오고 있다. The checks for the charity are coming in dribs and drabs. 
@@ -7977,6 +8004,8 @@ retaliate
  * 예정된 일을 취소한다고 할 때 간단히 cancel이라고 표현하시면 돼요. 직전에 취소하는 것은 cancel at the last minute/second.
  * 1) 여기서 scratch는 ‘취소하다, 없애다’를 의미합니다. 그래서 scratch the idea altogether 은 ‘그 생각(the idea) 자체(altogether)를 없애버리다’입니다. 비슷한 표현으로는 drop the idea 가 있습니다.
   * 내가 실직해서 우리는 계획을 취소해야만 했다. We had to scratch our plans when I lost my job.
+ * 이렇게 예정된 일을 '취소하고 싶냐', 또는 함께하는 일에서 '빠지고 싶냐' 하고 물을 때 쓸 수 있는 의문문이에요! 여기서 'want in/out' 은 '들어오고 싶어하다/나가고 싶어하다'라는 뜻으로, 물리적인 공간으로 들어오거나 거기서부터 나가고 싶은 걸 말할 때 쓰기도 한답니다.
+    * 나갈래. / 빠질래. / 관둘래. / 취소할래. [ex] I want out.
  * 당신의 발언을 주워담을 기회를 드리겠어요. ex) We'll give you a chance to walk your remarks back.
  * #abolish, #do away with, #cancel - (규칙 등을) 폐지하다, 취소하다 
  * #undo; 취소하다
@@ -8197,7 +8226,12 @@ retaliate
  * = 그녀가 자기 가족에 관한 (비판적인) 의견을 말할 것 같진 않아. I don't think she will pass judgement on her own family. * pass judgement = 판단을 내리다, 의견을 말하다
  * # 판단 # 달려 # 맡겨요 # 맡기다 | # 독단
 * 섣불리 판단하지마; don't #pigeonhole us
-
+* : 누군가가 어떤 일에 옳고 그름 등을 잘(못) 판단하다 [ 숙어 ] be a good(bad) judge of something 여기서는 good의 비교급 better가 사용되었어요~ 그건 당신보단 내가 더 잘 안다는 뜻이죠. good, bad 외에 excellent, poor처럼 다른 형용사들이 들어갈 수도 있답니다.
+  * 나는 사람들이 정직한지 안 한지를 잘 파악하지. I'm a good judge of people's honesty.
+* # 달려; 둘 다 '~에 달려 있다'는 의미로 사용되는 표현인데요, 자세히 살펴보면 미묘한 차이가 있습니다. be up to에는 up이 가지고 있는 의미로 인해 '전적으로, 완전히'라는 뉘앙스가 가해집니다. 또한 depend on OO에 비해 up to OO에서의 OO이 책임, 결정권에 대해 더 절대적인 행사를 하고 있음을 나타내죠. 반면 depend on OO에서 OO은 상황적인/부수적인 측면으로 사용되는 경우가 많습니다.  때문에 up to 이후엔 보통 사람이 나오는 데 반하여 depend on 뒤에는 상황이 이어 나오는 경우가 잦습니다. depend on what, how, why, 등에서처럼 관계부사를 이끌 때도 적지 않죠~
+  * 네게 달려 있어. (네가 선택하는 대로 결정 돼.) [ex] It's totally up to you.
+    * 네가 이것에 대해 어떻게 생각하느냐에 따라 달려 있어. [ex] It depends on how you feel about it.
+    * [ex] It depends on the weather. (O)  It's up to the weather. (X)
 
 # 편
 * #side with; Who’s the court’s gonna side with
@@ -8748,6 +8782,8 @@ retaliate
 # 허가
 * 2) license는 ‘허가, 허가증’이죠. 여기서도 허락하는 것이긴 한데, 나쁜 행위를 맘대로 하도록 허용해 주는 것을 뜻합니다. 예를 들어 ‘시적허용’을 영어로 poetry license 라고 하는데요, 여기서도 문법을 틀리는 것은 부정적인 행위이지만, 시적인 효과를 표현하기 위해서 허용해 준다는 의미에서 license가 들어간 것입니다.
   * 처벌을 제대로 하지 않으면 학생들이 규칙을 어겨도 괜찮은 것처럼 보일 수도 있다. Lack of punishment seems to give students licence to break the rules.
+* 이전에는 반대하고 거부하던 것에 [마침내 동의하다, 허락하다] 라는 뜻의 단어로, 상대방이 특정 행동을 하도록 허락할 때 쓰는 표현입니다.
+  * = 그녀가 결국 허락할 수도 있지만, 지금은 아니야. She might relent, but not now.
 *  ㅎㅎ green light는 어떤 것에 대한 허가, 승인을 의미합니다. 그래서 get a green light라고 하면 ‘허가를 받다’가 되죠. 동사로도 쓸 수 있는데, ‘허가를 했다’라고 하려면 light(불을 켜다)의 과거형 lit으로 바꾸시면 됩니다.
   * 내 생각엔 이 아이디어를 허가해 주지 않을 것 같은데. I don’t think they will green light this idea.
 * 허락하다; she game me the green light

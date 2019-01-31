@@ -350,6 +350,7 @@
 * #배우 #같이 출연한 배우 #co-stars
 * #주연 								 lead role, starring role
 	* 오드리 햅번이 주연했던 명작이다; is a classic which starred Audry Hepburn
+	* -가 주연이다; It stars 사람
 	* who's the #lead
 * 여자 주인공, 조연 				 leading actress/heroine | supporting role
 * 감독, 작가, 제작사 						 dircector, writer, producer

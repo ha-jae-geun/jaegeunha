@@ -1627,6 +1627,8 @@ I am always overlooked(간과), never discount the contributions, put someone do
 	* 경시하다 #비하						 degrade, belittle; i'm not belittling girls
 	* 셀프디스, #self-deprecating = #selfdiss #diss; disrespect
 	* #비꼬다 #비하
+	* (It) sounds like a back-handed compliment. 우리 간혹 칭찬을 들었는데 돌아서 생각해보니 '이거 욕이야 칭찬이야?'라는 느낌들 때 있죠? a back-handed compliment는 말그대로 손등으로 하는 칭찬, 즉 '비꼬는 듯한 칭찬'을 의미해요. 비슷하게 sarcastic도 '비꼬다, 빈정대다'의 의미를 가져요.(발음: 썰케스틱)
+		* 나중에 돌아보니 칭찬을 가장해 비꼬는 거였어요. [ex] I later realized that it was a backhanded compliment.
 * 그는 감정에 휩쓸리지 않는다. 			 He just doesn't get caught up in the moment 
 	* 감정에 휩쓸리다 									 get carried away
 	* #나쁜 감정 없어요						 I have nothing against them. 

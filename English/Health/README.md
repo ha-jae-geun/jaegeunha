@@ -169,6 +169,8 @@
   * 두 표현 모두 ‘성형수술’입니다. 하지만 엄밀히 말하면 cosmetic surgery는 미용을 위한 성형수술을 말하고, plastic surgery는 화상이나 장애 등으로 인해 망가진 신체 부분을 재건하는 성형수술을 가리킵니다.  하지만 회화 상에서는 그렇게 엄격하게 구별할 필요는 없습니다. 일반 원어민들도 구별없이 사용하는 경우도 많습니다. 
     * 그녀는 코가 마음에 안들어서 성형수술에 대해 생각하고 있다. She’s thinking about a cosmetic surgery because she doesn’t like her nose. 
     * 이처럼 성형수술을 job으로 표현하는 경우가 있는데요, nose job, boob job(유방 확대 수술)이 가장대표적입니다. 
+    * 성형 수술 또는 시술을 '받았다'라는 뜻으로 have OOO done이라는 표현을 써요.
+      * 눈 성형(시술) 받았어. I had my eyes done.
 * #정관 정제 수술; #vasectomy; 버섹터미; let's get you a vasectomy
 * (생물의) [명사] dissection; (부검) autopsy, postmortem (examination), necropsy, [동사] dissect, [ǝnǽtǝmàiz] anatomize; (부검하다) 
 * #검시; carry out a postmortem, perform[carry out] an autopsy 
@@ -346,10 +348,12 @@
 * #복통	stomachache, bellyache, tummy pain, abdominal pain
 * I have a severe pain in my belly
 * #부상 그(하퍼)는 전력을 다하는 선수로 부상이 잦은 것으로 유명하다.	|dɪŋ He's a pedal-to-the-metal player who has been known동작:  to get dinged up
-* #타박	
-* #전치	전치 2주의 부상
-* an injury which will take two weeks to heal completely 
-* #치명적인 부상	fatality
+  * # 당했다; sustain: '부상을 입었다, 안 좋은 일을 당했다'고 할 때 get, suffer, experience보다 좀 더 격식있게, 전문적으로 표현하는 동사가 바로 sustain입니다.
+    * 에밀리는 가벼운 부상을 당했다. Emily sustained a mild injury.
+  * #타박	
+  * #전치	전치 2주의 부상
+  * an injury which will take two weeks to heal completely 
+  * #치명적인 부상	fatality
 * #재앙; #catastrophic 미국식 [kæ̀təstrɑ́fik(əl)] injury
 * 명사 + #pocalypse
 * 부상을 입지 않은	#unscathed
