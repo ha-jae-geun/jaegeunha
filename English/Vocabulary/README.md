@@ -702,6 +702,10 @@
  * sweat like a pig | # sweatin balls; 봉알만한 땀을 흘리다
  * #play the ball; 다루다; I know how to play the ball; play baseball; 모두에게 익숙
 
+## base
+* : 모든 경우에 대비하다, 모든 걸 다루다 [ 숙어 ] cover all the bases 야구에서 모든 베이스 (1루, 2루, 3루)를 커버한다는 뜻에서 비롯된 표현이죠~
+  * 우리는 모든 경우에 다 대비한 것 같아요. I think we've covered all the bases.
+
 ## bash
 * bash는 규모가 큰 파티를 의미하며 pool bash (수영장/ 풀 파티 ), birthday bash (생일 파티) 처럼 쓰이는 표현입니다.
   * 그녀에게 큰 생일 파티를 열어줄 거야. We're throwing her a birthday bash.
@@ -1095,6 +1099,9 @@
   5. 좀 이따 보자; I'll catch up with you later
   6. 발목잡다; The past will find a way to catch up to us
 
+## color
+* woman/man/person of color 이라는 표현은 꼭 알아두는 것이 좋아요! 유색인종을 의미하는 비차별적 용어랍니다!
+
 ## collar
 * collar 는 명사로 쓰일 때도 [개 목걸이] 를 의미하는데요. 영상에서처럼 1) 목적어를 dog 라고 쓰게 되면 [개에 목줄을 채우다] 2) 목적어를 '사람' 으로 쓰게 되면 무언가를 잘못한 사람을 도망치지 못하도록 [잡아두다] 라는 의미로 쓰인답니다. collar 는 [개 목걸이], leash 가 [개 줄] 을 의미하는데요, leash the dog 또한 [개에 목줄을 채우다.] 라는 뜻을 가진답니다.
   * 밖에선 꼭 개에 목줄 채우고 다녀. ex) Make sure to collar(leash) your dog when outside.
@@ -1244,6 +1251,11 @@
 * : ⓐ를 ⓑ때문으로 여기다 [chalk ⓐ up to ⓑ] 이 표현은 ⓐ가 ⓑ의 결과로 인해 발생했다는 표현입니다. 쉽게 말하면 ⓐ happens because of ⓑ입니다.
   * 우리가 경험이 부족했다고 여기고 그냥 넘어가자. Let’s chalk it up to our lack of experience and just move on.
 
+## change
+* : change to 가 상대적으로 간단히 바꾸는 걸 말한다면, change into 는 '형태, 모양을 바꾸다, 변신하다' 혹은 좀 더 총체적으로 '뒤바꾸다' 라는 뜻이에요! '갈아입다' 라는 뜻으로도 자주 쓴답니다.
+  * 금요일로 바꿨어요. [ex] We changed it to Friday.
+  * 그 사람이 나를 더 나은 사람으로 만들어줬어. [ex] She has changed me into a better person.
+
 ## channel
 * 다른 사람에 빙의한다는 걸 channel someone이라고 말합니다. 원래 '빙의'라는 한국말이 어떤 영혼에 접하는 것을 의미하듯, channel도 영혼과 교신하는 뭔가 종교적 의미를 가지고 있어요. 물론 일반적으로 이 단어를 사용할 때는 그만큼 '유명한 사람의 스타일이나 특징을 잘 살려 따라한다는 것'을 의미하죠~ 유명한 사람 중 이미 죽은 사람을 가리키는 경우가 많습니다.
   * 그는 유명한 사람들 잘 따라하는 걸로 유명해. He's known for channeling famous people.
@@ -1387,6 +1399,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * crash an audition = 불쑥 찾아가 오디션을 보다; crash the party라는 표현이 있습니다. 초대받지 않았는데 불쑥 파티 장소에 가는 것을 뜻하죠. 같은 의미로 crash an audition도 원래 캐스팅 관계자로부터 사전에 오디션에 오라고 연락받지 않았는데, 불쑥 찾아가서 오디션을 보는 것을 말합니다.  찰스 마티넷도 사전에 오디션에 오라는 통지를 받고 간 것이 아니라, 현장에서 면접관들을 붙잡고(catching them) 대본을 읽어볼 기회를 달라고 한 것입니다.
 
 ## cut
+* 1) 고기는 셀 수 없는 명사로 취급되기 때문에 수량을 나타내는 단어와 함께 쓰여야 하는데요, 바로 cut 이 '덩어리/조각' 을 의미합니다. 고기가 큰 덩어리에서 작은 덩어리로 잘려지기 때문이겠죠? 2) 영상에서는 two cuts of steak 이기 때문에 '스테이크 두 덩어리' 라기 보다는 '두 종류' 라고 보시는 것이 맞고, 문맥에 따라서 '부위' 라고 해석이 되기도 합니다.
+  * 고급 와규 소고기 부위들이 이 도시락을 채웁니다. ex) Premium cuts of wagyu beef fills this bento lunch box.
+
 ### cut off
 * Cut off 의 기본적인 뜻은 무엇인가에 붙어 있던 것이나, 연결되어 있던 것  또는 연속적으로 지속지속 오던 것이 떨어지거나 끊어지는 것을 의미합니다. 예컨대, ‘The Serial killer cut off the victims’ ear’ 라고 하면, ‘그 연쇄 살인범은  피해자들의 귀를 잘랐다’ 되는데요, 이렇게 ‘사람의 신체의 일부분을 잘라내다’ 라고 할 때, ‘Cut off’ 가 많이 쓰이고요, ‘My pension was cut off 3 years ago(내 연금은 3년에 끊겼다)’ 처럼,  ‘연금처럼 지속적으로 받아 오던 어떤 것이 끊겼을 때’ 사용이 되고, 돈을 안내서 전기나 수도, 또는 핸드폰 등이 끊겼다 라고 할 때도 ‘Cut off’ 가 쓰입니다.
 * : 그 사람의 피부까지 떼어 가겠다는 말이세요? You want to cut off his skin?
@@ -1422,6 +1437,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## climb
 * : (비격식 숙어) 꽉 막힌 것 같이 답답하다, 무기력하고 당혹스럽다 #climb the walls
+
+## clown
+* 여기서 clown thing은 clown phobia(광대 공포증)을 뜻한다고 볼 수 있어요. thing은 '무언가', '그런거'와 같이 정확한 용어를 대체하는 말로 쓰인답니다.
+  * 나 광대 싫고 무서워. 소름 끼쳐. [ex] I have a thing about clowns. They creep me out.
 
 ## closet
 * come out of the closet = 커밍아웃 하다 자신이 동성애자(혹은 양성애자)라는 사실을 남들에게 커밍아웃 한다는 표현입니다. 혹은 성정체성 말고도 대중에게 숨겨왔던 사실을 밝힌다는 의미도 있습니다.
@@ -1648,12 +1667,17 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## dip
 * 이용자 참여  우리는 상황을 알아 보았다  Dipping our toes in the water . 듣기
+* dip은 과자나 먹을 것을 찍어먹는 소스라는 뜻도 있지만, 잠깐 물에 들어갔다 나오는 수영이라는 의미도 있어요. take a dip은 (가볍게) 수영하다라는 표현!
+  * 바다에서 수영하자. Let's take a dip in the sea.
 
 ## die
 * diehard / die-hard = ⓐ완고한, 골수파인, 보수적인
 	* 그녀는 키아누 리브스의 골수팬이야. She’s a diehard fan of Keanu Reeves.
 * 동사 die는 ‘죽다, 사라지다’지만 여기에 부사 off를 붙이면 ‘서서히, 차츰차츰 죽어나가다, 소멸되다’란 뜻이 됩니다. 사람이나 동물군이 서서히 없어진다거나, 어떠한 현상이나 소리, 냄새 등이 사라진다고 할 때도 die off라고 할 수 있습니다.
   * 하루하루 전쟁범죄의 생존자들이 죽어가고 있다. The survivors of war crimes are dying off daily.
+* 내가 죽을 수도 있을 만큼(die for) 어떤 것이 좋다, 그만큼 휼륭하다, 끝내준다는 의미를 가진 표현입니다. 패턴은 주로 「명사+to die for」 혹은 「be동사+to die for」로 씁니다.
+  * 그녀는 몸매가 끝내줘. She has a figure to die for.
+  * 그는 매우 멋진 차를 소유하고 있다. He owns a car to die for. 
 
 ## dig
 * 듣는 사람의 가슴을 후벼파는 (dig) 말을 하는 뉘앙스 입니다. 그 사람에 대해 부정적인 말을 하며 빈정대고, 놀려대고, 귀에 거슬리는 말을 하는 것으로 take/have a dig at 이라고 표현하기도 해요. = dig at
@@ -1688,6 +1712,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## door
 * side door는 샛문, 쪽문을 의미하며 간접적인 접근법을 비유하는 표현입니다.
   * 그런 문제들을 접근할 때 사용하는 방법이에요. [ex] This is a side door to approach such matters.
+* 이 표현은 원래 클럽이나, 레스토랑, 행사장 같은 곳에 들어가기 전에 코트를 맡기는 데서 비롯된 표현이에요. check your coat at the door. (입구에서 코트를 맡기세요.) 이처럼 어디를 들어가거나, 어떤 일을 하기에 앞서 일종의 마음가짐을 갖는다는 것을 나타낼 때 check OO at the door라고 말하는 거죠.
+  * 자존심은 밖에 두고 오세요. 우린 너무 감정적으로 치닫지 않길 바라요. Check your ego at the door. We don't want to get too emotional.
 
 ## doozy
 * 1) 비격식의 단어로 좋은 의미, 나쁜 의미 모두 가지는 단어입니다. 무언가가 굉장히 크거나, 큰 놀라움, 또는 위험한 상황 등, 기억에 남을 만한 경험을 표현할 때 쓰는 단어에요. 따라서 문맥에 따라 조금 다양하게 해석이 될 수 있습니다. 2) 영상의 주인공은 이야기가 시작되기도 전에 우는 자신의 모습에 [크게 놀라서] doozy 라는 단어를 썼을거에요. that 은 자신이 눈물 흘린 상황을 의미하구요. 그래서 지나고 생각해보니 [더 크게 울었을까봐 놀란 상황] 이니 [큰일 날 뻔했네.] 정도로 해석이 된 것이랍니다.
@@ -1703,6 +1729,15 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * down 대신에 along the line 또는 down the road 이라고 쓸 수도 있는 표현으로 정해진 시간은 아닌, 나중에 언젠가를 의미하는 표현입니다. 대략적으로 언제인지를 나타내고 싶을 땐 three years down the line, four years down the line 처럼 써주셔도 좋습니다. = down the line
 	* 지금은 쉬울지 몰라도, 나중에 숨겨진 비용이 있을 수도 있어. ex) It is easy now, but there might be some hidden costs down the line.
 * 하나 처리했고/끝냈고 두 개 남았어. [ex] One down, two to go.
+* '(특정 양) 이 남았다' 라는 뜻으로 'be down to' 이라는 표현을 쓸 수 있답니다!
+  * 돈이 거덜나려고 해. (조금밖에 남지 않았어) I'm down to my last dollar.
+* down day는 꼭 주말이나 공휴일이 아니더라도 개인적으로 좀 쉬고 조용한 개인 시간 갖는 날을 뜻해요. down time은 '혼자서 갖는 휴식 시간'이라는 뜻이에요.
+  * 나만의 휴식 시간이 필요해. I need some down time.
+
+### downfall
+* '치즈 때문에 다이어트를 못한다', '치즈는 참을 수 없다'는 말을 재미있게 표현했네요. ㅎㅎ '치즈가 제 약점이에요'라고 의역했습니다. ^^
+  * 성추문이 결국 그를 몰락으로 이끌었다. The sex scandal finally led to his downfall.
+  * 결국엔, 지속적인 음주가 그의 몰락의 원인이 되었다. In the end, it was the continual drinking that was his downfall.
 
 ## drive
 * drive somebody/something out (of something) 
@@ -1728,6 +1763,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 이별은 굉장히 진빠지는 경험이야. [ex] Breaking up is such a draining experience.
 * 동사 'drain'은 원래 액체를 '빼내다, 따라내다, 흘리다, 비우다'라는 뜻을 가진 단어입니다. 액체가 세어나가는 모양이죠?
   * 대니가 마개를 뽑아서 물이 빠져나갔다. [ex] Danny pulled out the plug and the water drained away.
+* 중국이나 한국, 인도, 등에서의 인재들이 미국에서 공부하고 계속 잔류하거나,  회사의 전문가들이 다른 회사로 이동할 경우를 가리켜 brain drain (인재 유출)이라고 하죠~!
+  * 야채에서 물 빼. Drain the water out of the veggies.
 
 ## drama
 * drama는 '극적인 일, 사건'을 뜻하는데요, 연예인 관련 drama라서 '가십거리'라고 번역했어요. 북미권에서 참  많이 쓰이는 표현인데, 또 어떻게 쓰이는지 살펴볼게요. 1) 사건사고, 특히 관련자들이 감정적으로 반응하게 되는 사건사고를 뜻해요. 편갈라서 싸우고, 배신하고, 뒷담화하고 그런 것들을 뜻하죠. "I try to stay away from drama"라는 표현을 종종 들을 수 있는데, 그런 일들에 최대한 개입하지 않고 피해 있어려 한다는 뜻입니다.
@@ -1894,6 +1931,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그 여자는 멍 때릴 때 화나 보여.(성깔 있어 보여) She has a resting bitch face.
 * to one's face : 면전에 대고, 직접
   * 할 말 있으면 나한테 직접 말해. If you have something to say, say it to my face.
+* : 많이 먹다, 엄청나게 과식하다 [stuff one’s face]
+  * 우리는 추수감사절에 엄청나게 먹고 아무것도 안 한다. We usually stuff our faces on Thanksgiving and do nothing.
 
 ## fault
 * 이 책은 잘못된 논리를 토대로 하고 있습니다. [ex] The book is based on faulty logic. fault는 잘못, 흠, 결점을 가리키는 명사죠. 이것을 형용사화한 표현이 faulty입니다~
@@ -1927,6 +1966,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 1. 옛날 방식 beautiful 2. pale; 하얀;  3. 동등한
 * have one's fair share of OO는 OO를 충분히 겪었다, 충분히 가졌다는 뜻입니다. 보통은 좀 부정적인 의미로 사용하죠.
   * 난 이미 올해 겪을 어려움 다 겪었으니 날 좀 내버려둬. [ex] I've already had my fair share of troubles this year. So leave me alone.
+
+## fellow
+* 1. a fellow OO: OO에 직업, 어디 학교 학생,  국가 이름 등을 넣어 '동료, 같은 학교 또래 학생, 같은 국가 사람 등을 나타낼 수 있습니다.
+  * a fellow teacher: 동료 교사  a fellow designer: 동료 디자이너 (같은 디자인 분야에서 일하는 동료)  a fellow Japanese: (본인처럼) 일본 사람  a fellow Harvard student: 같이 하버드를 다닌/ 다니는 학생
 
 ## fender bender
 * 그리고 get into는 ‘어떤 상황에 휘말리다, 처하다’란 뜻으로 “He got into (like) a fender bender.”는 영상속 흑인여성의 남자친구가 가벼운 접촉사고(같은 것)가 났다는걸 의미합니다.
@@ -1993,6 +2036,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * fight back tears = 울음을 참다 (fight back는 '맞서 싸우다'라는 뜻!)
   * : 눈물을 참다, 눈물을 삼키다 1. fight back tears
     * 나는 가족들 앞에서 눈물을 삼켜야 했다. I had to fight back tears in front of my family.
+* fight about VS fight over : ~문제로 싸우다 VS ~를 두고 싸우다!
+  * 걔들은 아직도 엄청 예전 일 때문에 싸워. They still fight about something that happened years ago.
+  * 우린 서로 리모컨 갖겠다고 싸우곤 했지. We used to fight over the TV remote.
 
 ## film
 * 지금 녹화중이에요. I'm filming
@@ -2075,6 +2121,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * ※ 어떤 생각이 '갑작스럽게' 떠올랐다는 점을 강조하고 싶을 때는 'pop into'를 써보세요!
   * 방금 엄청 멋진 생각/아이디어가 떠올랐어. [ex] An awesome idea just popped into my head.
 
+### afloat
+* afloat는 '물에 떠있는'으로 잘 알려져 있는데요, 사업이 afloat라는 것은 빚을 지지 않을 정도의 상태임을 의미해요. keep(유지하다)와 함께 사업 등을 파산하지 않을 정도로 유지한다, 재정적으로 근근히 버틴다는 뜻이 됩니다. : 파산하지 않을 정도로 유지하다 keep the business afloat
+  * 회사의 파산을 막기 위해 많은 노력이 이루어지고 있었다. A lot of effort is being made to keep the company afloat.
+
 ## floor
 * floor 는 '바닥' 을 의미하죠. 가속 페달이 바닥에 닿을 만큼 세게 밟아서 전속력으로 차를 모는 것을 의미합니다.
 	* = 저 차 도망간다. 빨리 밟아! That car is running away. Floor it!
@@ -2112,6 +2162,13 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * '나의 의지와 상관없이', '어쩌다보니' 그런 생각을 하게 되었다는 뜻이에요.  I found myself having thoughts...
 	* 정신차려 보니 다시 그녀 문앞에 내가 있더라고. (진짜 정신을 잃은 건 아니고, 무언가에 홀린듯 거기로 갔다는 뉘앙스) ex) I found myself back at her doorstep.
 * -하는 나를 발견했따; i found myself feeling -
+
+## flak
+* 'flak'은 원래 비행기를 격추시키는 '대공포'인데요, 비유적으로 '맹비난, 공격'을 의미한답니다. 대공포를 맞는다고 직역되는 'get/take/catch (the) flak'은, 따라서 '격렬한 비난/공격, 혹평을 받다'가 되겠죠?
+  * : ~로부터 맹렬히 비난받다 1. get/take/catch (the) flak + from ~ 
+    * MBS는 화난 언론인들의 힐난을 받았다. [ex] MBS took a lot of flak from angry journalists.
+  * 애나는 아이들을 유기한 것으로 심한 비난을 받았다. [ex]  Anna got a lot of flak for deserting her children. : ~ 한 것에 대해 맹렬히 비난받다 2. get/take/catch (the) flak + for ~
+* get flack (for something): 로 인해 비난을 받다. (아주 심한 비난을 받다); i get a little bit of flak for                                
 
 ## flag
 * (지나가는 누군가를/차를) 멈춰 세우다. = flag down 오래 전에 깃발을 흔들어 멀리 있는 누군가의 이목을 끌어서 멈춰 세운 모습에서 온 표현이에요. 손을 막 휘저어서 멀리서 오는 차나 사람에게 멈춰 달라고 신호를 보내는 것을 의미합니다.영상에서는 flag somebody down 이라고 쓰여서 [누군가를 멈춰 세우려고 하다] 라고 직역이 되지만, 외딴 지역이 배경이기 때문에 여기서의 somebody 는 [차를 모는 운전자] 여서 [지나가는 차를 세우다] 정도로 해석이 되었습니다.
@@ -2177,6 +2234,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 	* 형의 발자취를 따라, 나는 대학에서 공학을 공부 중이다. ex) Following in my brother's footsteps, I am studying engineering at college.
 * # 이행; '~을 완수하다, ~을 이행하다'라는 의미로, (중간에 어려움을 만날지라도) 끝까지 지켜나간다는 뉘앙스를 가진답니다~
     * 크리스는 계약을 이행하는 데 실패해서 법정에 서게 되었다. Chris was taken to court because he failed to follow through with his contract. [구동사] # follow through on/with sth
+
+## glam
+* glam은 glamorous(매력적인), glamour(매력)의 줄인말로도 사용하고 동사로 glam (up)라고 하면 ‘예뻐보이게 꾸미다’라는 의미가 됩니다. 영상에서는 같은 의미로서 do glam이라고 하였습니다.
+  * 우리는 항상 스스로 코디해요. (스스로 꾸며요) We do our own glam all the time.
+  * 너 그 드레스 입으니까 정말 예쁘다. You look so glam(=glamorous) in that dress. 
 
 ## glutton
 * a glutton for punishment는 '사서 고생하는 사람, 힘든 일을 굳이 맡으려는 사람'을 가리키는 표현입니다. punishment 대신 다른 단어를 넣을 수도 있는데, a glutton for books는 책 욕심이 많은 사람, 책벌레, a glutton for work는 일을 정말 좋아하는 사람, 일벌레를 의미하죠. glutton은 원래 대식가, 무엇에 대한 욕심이 많은 사람이라는 뜻을 갖습니다.
@@ -2326,6 +2388,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## go
 * 멀어지는 느낌 == from 
 
+## guide
+* : ~에게 ~를 알려주다, 설명해주다, 안내해주다 [ 숙어 ] guide someone through
+  * 그분이 번잡한 길 사이로 절 안내해줬어요. He guided me through the busy streets.
+
 ## gut
 * gut feeling (직감), gut reaction (본능적 반응)이라는 표현으로도 쓰이고요, 여기서처럼 go with somebody's gut이라면 (생각이나 도덕, 논리 등이 아닌) 본인의 직감에 따라 무엇을 선택한다는 뜻으로도 많이 써요!
   * 서울에 이사갈 생각을 했는데 본능적으로 그냥 사는 곳에 머물러야 함을 느꼈다. I thought of moving to Seoul, but my gut told me to stay where I live.
@@ -2343,6 +2409,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : 직역하면 '총을 연달아 발포하며'라는 뜻으로 어떤 일을 전력을 다해, 공격적으로 하는 모양을 묘사하는 데 사용합니다.
 	* 사람들이 결의를 불태우며 모여들었다. People gathered up with guns blazing.
 
+## gram
+* 기분 나쁜 어조로 적힌 쪽지, 이메일 등을 nastygram이라고 합니다. 「단어+gram」으로 표현할 경우 ‘적혀 있는 것, 그려져 있는 것’ 혹은 ‘통신, 통지, 속보’ 등을 의미하는데, 그 내용이 나쁘기(nasty) 때문에 합쳐진 단어이지요. -gram이 붙은 단어의 예는 많습니다. telegram(전보, 전문), diagram(도표, 도해)도 그렇고, 요새 사람들이 자주 사용하는 SNS인 인스타그램(Instagram)도 있습니다.
+  * 제프는 나한테 감히 대놓고 말 못하니까 대신 모욕적 이메일을 보냈다. Jeff couldn’t dare to talk to me directly so instead he sent me a nasty gram.
+
 ## grab
 * up for grabs : 누구나 얻을 수 있는 
     * 대선은 누구나 차지할 수 있어. 이번 대선은 완전 혼란스러워. ex) The election is up for grabs. This presidential election is chaos.
@@ -2356,6 +2426,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 열심히 살다                   let's grind
   * #grind away; #파고들다; spend the evening grinding away on it
   * #grind down; #학대하다; don't let them grind you down
+* grind는 기본적으로 '갈다'는 뜻으로 무엇인가를 갈때 가루가 되게 문지르죠. 그래서 다른말로 몸을 비비적 대며 춤을추다(부비부비)라는 뜻도 가져요.  여기서는 부비적댄다기 보단 그 노래에 맞춰서 잘 춰보라는 의미로 해석할 수 있겠네요.
+  * 나는 모르는 사람들과 부비적대며 춤추기 싫어. I don't like grinding with strangers.
 
 ## gross
 * gross가 역겹다, 징그럽다는 뜻의 형용사인데요, gross out이라고 사용하면 대상으로 하여금 역겨워지게 만드는 동사 (disgust와 비슷!)로서 사용할 수 있습니다.
@@ -3042,6 +3114,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 난 지역 밴드와 한번 연주할 기회를 가졌어. ex) I had a chance to jam with a local band.
 * 1) 좋아하는 노래를 들으며 혼자서 또는 다 함께 마음껏 흔드고 즐기는 것을 jamming 이라고 합니다. 
   * 노래가 시작되었을 때, 모든 사람들이 미친 듯이 흔들기 시작했다. ex) When the song started to play, everyone was jamming like crazy.
+* [ 슬랭 ] jam : (신나는, 좋은) 곡, 노래
+  * 이 곡 완전 좋은데! This is a freaking JAM!
 
 ## jack
 * You are jacked; 마약했다라는 뜻인데 그만큼 몸이 좋다는 것이기 때문에 칭찬
@@ -3176,6 +3250,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## land
 * land + (사람) + (직위/직장 등) 의 패턴으로 자주 사용합니다. 영상에의 a pretty good collar 는 '상당한 성과를 낼 때 받을 수 있는' [꽤 좋은 훈장] 을 의미합니다.
   * 그의 믿을 수 없는 재능 덕분에 그는 27살의 나이로 관리직을 꿰찼다. ex) His incredible talent landed him a director's role at the age of 27.
+
+## laugh
+* through는 무언가 힘든 일을 헤쳐나가는 뉘앙스가 있습니다. 예를 들어 go through(힘든 읽을 겪다), win through(성취해내다), pull through(병을 헤쳐나가다) 처럼 말이죠. 여기서 laugh through도 어두운 세상을 웃음으로 해쳐나간다는 의미입니다. 혹은 through 대신 off를 넣어 laugh something off라고 하면 “웃어 넘기다”라는 표현이 됩니다. 
+  * 항암치료는 매우 힘들었지만, 그녀는 항상 웃음으로 이겨나갔다.  The chemotherapy was very hard, but she always laughed through it. 
 
 ## laundry
 * [세탁 목록]이라고 직역이 되는 단어인데요. 세탁기가 처음 생기고 나서 미국 전역에 굉장히 많은 세탁소가 생겼다고 해요. (그중 다수가 한인 이민자 분들이었다는.. 지금도 세탁소 가면 한인 분들이 많이 하고 계세요.)  그래서 사람들이 비싼 돈 주고 세탁기를 사지 않아도 되니 세탁소를 애용했는데요. 이때 세탁물을 돌려받았을 때 빠진 옷은 없는지, 계산은 제대로 되었는지 확인하기 위해서 laundry list 를 작성했다고 해요. 당연하게도 세탁물 목록은 굉장히 길었겠죠! 그래서 그런 모습에서 나온 의미가 여기저기서 쓰이게 되어 현재에는 [긴 목록] 을 의미한답니다.
@@ -3416,6 +3494,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 침대 고르기 전에 방 치수를 재어보자. Let's take measurements of the room before we pick a bed.
 * : 적당히 하는 조치, 어중간한 수단, 철저하지 못한 방안 [halfway measures]; halfway는 ‘중간쯤’이란 뜻이기 때문에 뭔가 확실하지 않고 어중간한 것을 가리키기도 합니다. 그리고 ‘수단, 방안, 조치’의 뜻으로 measure를 사용할 때는 보통 복수형으로 표현합니다. 
   * 우리는 테러에 대해서는 어중간한 조치를 취해서는 안된다. We shouldn’t take halfway measures with terrorism.
+* 'measure up'은 '~에 부응하다' '~에 부합하다'를 표현하는 말이죠? 물가 비싼 런던에서도 최고수준의 값이니, 그에 부합하는 수준의 음식이기를 기대한다는 말이겠습니다. 
+  * 마리아는 어머니의 기대를 절대 충족시키지 못했다. [ex] Maria could never measure up to her mother's expectations.
 
 ## mess
 * #mess up #mess-up I mess up my room.(목적어), be mess-up 사회적이나 도덕적 통념에서 벗어난 
@@ -3555,6 +3635,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ### make through
 * 조금 성가시거나 어려운 상황을 빠져나가는 것을 의미하는 표현이에요. through 뒤에 목적어를 쓰는 경우가 많은데 영상에서는 신호등을 통과하는 명백한 상황이기에 굳이 쓰지 않았습니다. 누군가 죽어가는 상황에서는 make it through the night/the day/this week 등으로 쓸 수가 있는데 [밤을 넘기다, 하루를 잘 넘기다, 일주일을 넘기다] 등의 의미로도 많이 쓰입니다.
 	* 적어도 우리가 첫 라운드 통과는 했으면 좋겠다. ex) I hope we can make it through the first round at least.
+
+## might
+* with all one's might: 혼신의 힘을 다해서, 힘껏
+
 
 ## middle
 * middle man은 중개인, 중간 유통업자를 뜻해요. 직역하면 '중간에 있는 사람'이니 말이 되죠? ㅎㅎ cut out the middle man은 중개인을 건너뛰다, 중개인을 없앤다는 뜻입니다.
@@ -3838,6 +3922,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## paint
 * ~이 ~와 같은 부류일 거라고 단정 짓다 = paint ~ with the same brush 각각의 단체나 사람들은 다들 각기 다른 성격을 가지고 있잖아요. 그런데 '하나' 의 색으로 다 칠해버리면 다 똑같아 보이겠죠? 그런 모습에서 나온 의미 [똑같은 부류로 단정 지어 판단하다] 입니다. 
   * 그 사람을 그 사람 상사랑 똑같다고 단정 짓지 마. 잘 알지도 못하잖아. ex) You shouldn't paint him with the same brush as his boss. You barely know him.
+* '네일을 하다'는 뜻으로 직접 네일을 칠한다는 의미에요. 만약 네일샵에 가서 네일을 받을 경우 동사 get을 써서 get one's nails done이라고 하셔야 합니다. 
+  * 심심할 때 네일 바르는거 좋아해. I love painting my nails when I'm bored.
+* ~을 묘사하다. ~을 그리다. = paint a picture of 실제로 그림을 그린다는 의미도 있지만, 마치 눈 앞에 그림이 보이듯이 무언가를 묘사하는 걸 의미하는 표현입니다. 영상에서는 제이지가 레터맨에게 지금 이 이야기를 왜 하는지 이유를 말하려고 이 표현을 썼습니다.
+  * 당신과 함께 하는 내 미래를 장밋빛으로 그려봤어. (=생각했어.) ex) I painted a rosy picture of my future with you.
 
 ## pain
 * : ~ 기 위해 엄청난 # 공을 들이다 take great pains to + 동사원형
@@ -3845,6 +3933,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## pack
 * :끝내다/패배를 인정하다 pack it up  :그만두다/끝내다 pack it in
     * 결국에 우리는 패배를 인정해야 했다. We had to pack it up in the end.
+* 보통 일(job)을 그만둔다고 할 때 사용되는데요, 상대가 안 좋은 행동을 계속 하는 경우 그만두라고 말할 때도 'pack it in'이라는 형식으로 사용한답니다.
+  * 흡연은 좋지 않으니 끊으렴. Smoking's bad for you, you have to pack it in.
+* pack a punch: (마치 주먹을 날리듯) '강력한 영향을 미치다' 라는 뜻의 관용어구예요.
+  * 이 음료수 진짜 효과가 강력해요. 카페인이 엄청 많이 들었거든요. This drink really packs a punch. It contains so much caffeine.
+
 
 ## pace
 * 전개가 느렸어; The pacing was too slow
@@ -3877,6 +3970,12 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 막상 100달러짜리를 쓰려니 마음이 아픈가 보네요. 이처럼 주기 싫은데 마지못해 내놓거나 누군가와 헤어지는 것을 [part with 사물/사람] 이라고 합니다.  동사로 part 는 [갈라놓다, 가르다, 헤어지다] 를 의미해요. 그래서 가르마를 타는 것도 part hair 라고 하죠.
 	* 나는 아직 내 오래된 차를 처분하지 못하겠어. 내 자식과도 같아서. I don’t think I’m ready to part with my old car. It’s my baby.s
 * 부디 여러분도 여러분 몫만큼 기부를 해주세요. [ex] Please do your part and donate, too. : 어떤 일을 위해서 크든 작든 상관없이 '의 몫을 하다' 라는 뜻이에요!
+* 상대적인 비율을 말할 때 part라는 말을 써요.
+  *  = 쌀 1 대 물 1.5 비율을 뜻하죠. one part rice to one and half part water
+  * 여기서 1 part은 한 컵일 수도, 500 ml일 수도400 그람일 수도 있는데 무엇이 됐든 하나의 기준을 정해서 쓰는 거랍니다. 
+    * 물 1과 사과주스 2 비율로 섞으시오. Mix one part water with two parts apple juice.
+* 이처럼 어떤 일에 대해 본인 생각, 마음의 '한 측면'을 이야기할 때 "part of me" 라는 표현을 쓸 수 있어요!
+  * 한편으론 그러고 싶기도 한데, 한편으론 그러기 싫어. Part of me wants to, but part of me doesn't.
 
 ## pass
 * ＊ pass off ⓐ as ⓑ = ⓐ를 ⓑ라고 속이다, 행세하다 가짜 물건을 진짜라고 속이거나, 신분을 속이고 다른 사람 행세를 한다는 뜻의 숙어입니다. 참고로 누구를 속이는지 당하는 사람까지 표현하려면 [on+사람] 을 붙이면 됩니다. 
@@ -3945,6 +4044,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## punch
 * 직업을 잃는다는 건 매우 힘들었지만 힘든 상황에 적응하려고 노력중이야. Losing my job was very tough but I’m trying to roll with the punches. [roll with the punches]
+* pack a punch: (마치 주먹을 날리듯) '강력한 영향을 미치다' 라는 뜻의 관용어구예요.
+  * 이 음료수 진짜 효과가 강력해요. 카페인이 엄청 많이 들었거든요. This drink really packs a punch. It contains so much caffeine.
 
 ## put
 * put somebody down은 '를 깎아내리다', '~를 무시하다'라는 뜻이에요. 참고로 put down은 '~을 내려놓다', '~을 쓰다'라는 뜻이죠. 
@@ -4064,6 +4165,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 2. piss oneself : 오줌을 지리다; It looks like you've pissed yourself
 * [ 숙어 ] piss about/around : (비격식, 영국 표현) 멍청하게 시간을 보내다, 빈둥대다
   * 낭비할 시간이 없어. There is no time to piss about.
+* [ 숙어 ] piss around/ about (무례한 표현)
+  * 1. 엉뚱한 짓을 하며/ 장난 치며 시간을 낭비하다 2.  다른 사람들을 짜증나게 하고 엿먹이는 방식으로 행동하다. 여기서는 이 두 가지 의미가 모두 통할 수 있을 것 같아요. 제임스와 레지는 엉뚱한 짓을 하며 고든 램지를 열 받게 만들고 있으니까요!
+    * 우리에겐 낭비할 시간 없어.  There's no time to piss around.
 
 ## pink
 * 결막염의 공식 명칭은 conjunctivitis인데요, 결막염에 걸리면 눈이 충혈되어 분홍색이 되기 때문에 pink eye라고도 합니다. 외우기 훨씬 쉽죠? 다래끼는 stye(스타이)라고 합니다. 좀 더 어려운 이름은 hordeolum이구요! 그냥 '눈이 감염 됐다'고 말한 때는 "I got(have) an eye infection"라고 심플하게 말합니다.
@@ -4223,6 +4327,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 삶에 대해 이야기할 때 'high points' 란 아주 행복하고 기뻤던 순간들을 뜻해요. 어떤 경험에 대해 이야기할 땐 가장 신나고 즐거웠던 순간을 뜻하기도 합니다.
   * 그게 우리 여행의 하이라이트였어 그게 우리 여행의 하이라이트였어.
 
+## pretty
+* : 'please, 제발'의 강조형으로 '제발 부탁이야', '제발, 응?' 정도예요. 더 간곡히 부탁할 때는 'pretty please with sugar/a cherry on top' 이라 말하기도 해요! 최대한 공손하게 조를 때 쓸 수 있어요. 사람에 따라 애교를 섞어서 쓰기도 해요. 모두 다소 비격식적인 표현으로 격식 있는 자리에서는 부적절할 수 있으니 주의하세요!
 
 ## prey
 * 본래 동물·새가 '~을 잡아먹다'라고 하는 데 사용하는 'prey on'을 사람들에게 비유적으로 사용해서 '~를 등쳐먹다, 괴롭히다'의 의미로 쓰기도 해요.
@@ -4262,10 +4368,19 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * Can you plop the ice in at the end
 * 퐁당하고 넣어주세요; And plop it in
 
+## plastic
+* 여기에서 'plastic'은 '플라스틱'이라는 우리가 잘 알고 있는 뜻이 아닌, '인공적인, 가짜의, 진실되지 못한'이라는 뜻으로 사용되었어요.
+  * 그 사람들의 꾸며낸 쾌활함과 인위적인 웃음이 너무 싫어. [ex] I hate their false cheerfulness and plastic smiles.
+
+## plate
+* : 어떤 일을 '책임지고 본격적으로 하다, 혹은 그럴 준비를 하다' 라는 뜻이에요! 야구에서 타자가 공을 치기 위해 본루 'home plate' 에 오르는 것에서 유래했다는 말이 있답니다.
+
 ## place
 * 저 그림은 안 어울리는데. [ex] That picture looks out of place. 1. 어울리지 않는, 제자리를 벗어난
 * 그 사람의 언사는 아주 부적절했어. [ex] His remarks were very out of place. 2. 부적절한, 무례한
 * 여기서 나만 백인 아니야. 어휴, 너무 어색하다. [ex] I'm the only non-white person here. God, I feel out of place.
+* = 누군가의 자리를 빼앗다 take one's place; 이 장면처럼 앉을 자리를 뺏는걸 의미할 수도 있고, 누군가의 '직위'나 '일'을 뺏는 걸 의미할 수도 있어요.
+  * 그 누구도 널 대신할 수 없을 거야. ex) No one could ever take your place.
 
 ## play
 * 욕망에 가득찬 재미난 '하다'의 뜻
@@ -4357,6 +4472,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * have power over their lives: 그들의 삶의 주도권을 가지다. 자신의 삶을 결정할 수 있는 힘을 가지다.                                
 * 이 표현은 누군가를 응원하는 말로 ‘지금 당신이 하고 있는 일이 멋지다고 생각하고 앞으로도 그 일이 잘 되기를 바란다’는 것입니다. 우리말로는 “잘하고 있네. 응원할게”, “건투를 빌어”, “멋지다. 계속 잘 해봐!” 등으로 생각할 수 있습니다.
   * 페루에 혼자 여행하고 싶다니, 건투를 빌어! If you want to go to Peru alone, more power to you!
+
+## picture
+* ~을 묘사하다. ~을 그리다. = paint a picture of 실제로 그림을 그린다는 의미도 있지만, 마치 눈 앞에 그림이 보이듯이 무언가를 묘사하는 걸 의미하는 표현입니다. 영상에서는 제이지가 레터맨에게 지금 이 이야기를 왜 하는지 이유를 말하려고 이 표현을 썼습니다.
+  * 당신과 함께 하는 내 미래를 장밋빛으로 그려봤어. (=생각했어.) ex) I painted a rosy picture of my future with you.
 
 ## pickle
 * pickle은 대개 절인 채소인 피클을 의미하는데요, 곤란한 상황을 가리키는 비격식 표현이기도 해요.
@@ -4629,6 +4748,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 우리 한 번만 더 잠깐 스케줄 검토해요. [ex] Let's run through the schedule just one more time. 2. 을 빨리 살펴보다
 * 자, 파트 2 다시 가 봅시다. [ex] Let's run through part 2 again. 3. 을 연습하다
 * 티오도르는 자신의 재산을 2년 안에 탕진했다. [ex] Theodore ran through his money within two years. 4. (돈을) 다 써버리다
+
+## rage
+* 동사 'rage'는 본래 '격렬히 화를 내다' '(폭풍, 전투, 언쟁 등) 맹렬히 계속되다' '(질병, 화재 등) 급속히 번지다'의 뜻을 가집니다. 무언가 몰아치는 심상이죠? 그래서 slang으로는 '걷잡을 수 없게 놀다'라는 의미를 가지게 되었어요. 'let's get/go wild'도 유사한 의미랍니다.
+  * 숨막히는 회사 때문에 죽겠어. 가서 달리자! This stuffy office is killing me. Let's go rage!
 
 ## race
 * race는 '경주하다'라는 뜻 외에 '빠르게 이동하다'라는 뜻도 있어요.
@@ -5383,6 +5506,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## star
 * -가 주연이다; It stars 사람
+* wish upon[on] a star : 별에 소원을 빌다
+  * 소원 빌 준비 됐니? Ready to wish upon a star?
 
 ## start
 * - start off by ~ing : ~하면서 시작하다
@@ -5501,6 +5626,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## spell
 * ＊ spell disaster = 재앙과도 같다
   * = 가뭄은 농부들에게는 재앙과도 같을 수 있다. (spell disaster/trouble for 피해를 입는 대상) The lack of rain could spell disaster for farmers.
+* spell은 명사로 '주문, 마법'을 뜻하는데 under one's spell '(어떤 사람)의 마법에 빠졌다'는 의미는, 즉 그 사람의 강한 매력에 흠뻑 빠졌다는 의미로도 의역할 수 있어요.
+  * be under one's spell   = fall under a spell 
+  * 그의 예술작품의 매력에 빠졌어. I'm under the spell of his artwork.
+  * 그의 콘서트를 보고 GD에게 완전 빠졌어. I fell under the spell of GD after his concert.
 
 ## spew
 * 1. 뿜어내다, 분출하다  2. 뿜어져 나오다, 분출되다  3. (비격식) 토하다  spew out 이라고 많이 쓰이는데요. 발음은 '스퓨' 정도로 해요. 많은 양의 무언가를 빠르고 힘 있게 뿜어내는 것을 의미합니다. 
@@ -5514,6 +5643,12 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * skin deep 은 직역하면 [피부만큼 깊은] 인데요. 피부가 깊어봐야 얼마나 깊겠어요. 딱 눈에 보이는 만큼이기 때문에, 눈에 보이는 피상적인 것을 의미할 때 skin deep 이라고 합니다. 그래서 more than skin deep 은 관용적 표현으로 [눈에 보이는 것보다 더 중요한, 외모 이상의] 이라는 의미로 많이 쓰이고요. 비슷한 표현으로 more than meets the eye 가 있으니 함께 알아두세요!
 	* 진정한 미는 외모 이상의 것입니다. ex) True beauty is more than skin deep.
 * 허울 뿐인; be only skin deep; 피부가 깊어봤자 얼마나 깊을까
+
+## south
+* [ 숙어 ] go/head south (비격식) 1. 사라지다, 숨다
+  * 가족 모두가 사라졌다. 우린 어디서도 그들을 찾지 못했다. [ex] The whole family members went south. We couldn't find them anywhere. 1. 사라지다, 숨다
+* 일 년이 지나자 우리의 관계는 나빠지기 시작했다. [ex] After a year, our relationship began to go south. 2. (주가 등이) 하락하다, (좋았던 상황이) 나빠지다
+  * 내 운빨이 떨어져서 돈을 다 잃었다. [ex] My luck went south and I lost all my money.
 
 ## soul
 * : 여기서 'a soul'은 '한 사람'을 뜻해요. 'not a soul'은 영혼 하나조차도 없음, 즉, 아무도 없음을 말해요. 'no one', 'nobody' 보다 더 강한 표현을 찾는다면 요 표현이 제격! 다음 활용 예시를 보면서 익혀봐요.
@@ -6114,6 +6249,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 다방면에 재능있는 사람을 'Jack of all trades'라고 해요. Jack은 흔한 이름이라 누구나 대입할 수 있게 쓰는 이름입니다. (철수나 홍길동처럼)
   * 다방면에 재능있는 사람은 그 어느 것에도 숙달되지 못한다. A jack of all trades is a master of none. 어느 하나 제대로 한다는 게 없다는 뜻 같죠? 하지만 진짜 속담은 다음과 같습니다. 원어민들도 잘못 알고 있는 경우가 많더라고요. ㅎㅎ
 * 다방면에 재능있는 사람은 그 어느 것에도 숙달되지 못한다. 그러나 많은 경우, 한 가지만 잘하는 사람보다 훨씬 낫다. A jack of all trades is a master of none, but oftentimes better than a master of one.
+* 1. 보통 무역이라는 의미로 사용되는 trade는 여기서 1) 일하는 데 필요한 특별한 기술, 혹은 2) 특별한 기술이 필요한 일 자체를 가리킵니다.
+  * 타미의 직업은 배관공이다. [ex] Tommy is a plumber by trade.
+* * 참고로 이 두 단어를 엮어 만든 숙어 표현 'trick of the trade'가 있는데 '전문가의 비결'라는 뜻입니다.
+  * 내가 일을 좀 빠르게 처리할 수 있는 비결을 몇 개 안다. [ex] I know a few tricks of the trade to make things faster.
 
 ## travel, trip
 * travel: 움직이고 이동하는 그림
@@ -6122,6 +6261,13 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * business trip
 * 허리에 있떤 통증이 목까지 올라갔어요; THe pain in my lower back travels up to my neck
 
+## test
+* : 테스트를 받게 되다, 시험대에 오르다 수동형으로 표현되어 놓여진(be put) 것이고, 시험에 놓여졌기 때문에 시험대에 오르다라고 생각할 수 있습니다.
+  * 인턴 교육생들은 인턴과정 마지막에 테스트를 받을 것이다. The interns will be put to the test at the end of their internship.
+* take a test :시험을 치다  pass a test : 시험에 통과하다  fail a test : 시험에서 떨어지다  cheat on a test : 부정행위를 하다
+                                
+
+
 ## temporary
 * 2. 비정규직은 temporary employment, 계약직은 fixed-term employment, 정규직은 full-time employment라고 해요. 보험 등 각종 혜택도 포함된다는 걸 말할 때는 full-time employment with benefits라고 하고요.
 
@@ -6129,6 +6275,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## temperature
 * What's the temperature like today / i'm going to take your temperature
 
+## ten
+* : (구어) 여기서 ten이란 마치 10점 만점에 10점인 사람처럼 매우 매력적이고 멋진 대상을 나타냅니다. "I'm feeling like a ten"은 "내가 10점짜리 사람처럼 느껴진다"로 해석할 수 있는데요, "오늘 나 정말 멋진 것 같아", "나 오늘 자신감 최고야" 등으로도 해석 할 수 있습니다. 하지만 사람의 외모에 점수를 매기는 행위는 좋지 않으니 다른 이에게 이런 표현을 쓰는 건 조심하도록 해요!
+  * 나 완전 잘생긴/에쁜 사람들 만날 정도로 섹시하거든? I’m sexy enough to date tens, you know?
 
 ## tense
 * 오늘 왜 이리 날카로워? Why are you so tense today?
@@ -6149,6 +6298,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 단지 독후감 숙제를 하기 위해서 그 책을 굉장히 빨리 읽고 지나갔다. ex) I tore through the book just to do my book report homework.
 * : 눈물을 참다, 눈물을 삼키다 1. fight back tears
   * 나는 가족들 앞에서 눈물을 삼켜야 했다. I had to fight back tears in front of my family.
+
+### torn
+* 두 가지 중 어떤 것을 선택할지 몰라 망설이고 힘들어 하는 것을 be torn이라고 합니다. 프란시아 어머니는 신장 기증 수술을 받겠다는 자식이 걱정되는 마음과 셀레나를 좋아하고 살리고 싶은 마음 사이에서 심적 갈등을 느꼈다는 것입니다.
+  * 정말 어쩔 줄 몰랐었어. 한 편으론 떠나고 싶었고 다른 한편으로는 남고 싶었고. I was torn. Part of me wanted to leave, and part of me wanted to stay.
 
 ## term
 * 조금 문제가 되는 사람, 사물, 상황 등을 이해하고, 받아들이고, 처리하려고 노력하는 것을 의미하는 표현이에요.  = come to terms with
@@ -6179,6 +6332,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 그리고  used to는 (현재는 아니지만) 과거에 (늘상, 툭하면) 그랬다는 거구요. 고맙습니다﻿
   i used to be slim when i was in my 20's
   would는 시간이 나중에; we would always; we always used to; we would often
+
+## voice
+* 여기서 voice는 ‘발언권’을 뜻하는데, 좀 풀어 설명하자면, “공개적인 곳에서 자신의 의견을 말할 권리, 자격”을 의미합니다. 그래서 girls who don’t feel like they have a voice는 자신들의 목소리를 높여서 대중에게 그들의 의견을 펼칠 권리가 있는데, 그렇지 못하다고 느끼는 여자들을 가리킵니다. 
+  * 시민들은 지방 정부에서 발언권을 갖길 원한다. (have a voice in : 에 발언권을 갖다) Citizens want to have a voice in their local government.
 
 ## vest
 * : 비밀스럽고 신중한, 혼자서 비밀을 지키는 [close to the vest]; 어떤 것을 다른 사람에게 내보이지 않고 신중하고 비밀스러운 자세를 취하다는 표현입니다. 카드게임에서 자신의 패를 가슴에 바짝대고 신중하게 플레이한다는 것에서 유래되었습니다. 동사는 play, keep 그리고 vest대신 chest를 써도 됩니다.
@@ -6299,7 +6456,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * #walk out: 밖으로 나가다, #집단파업(#파업)
   * #walk out on somebody; he walked out on his wife
   * 그자식이 날 떠나버렸어             He #walked out on me
-  * walk off 1. '화난 감정을 걸어서 누그러뜨리게 하다' 2. 남자답게 굴어 3. 배를 걸어서 꺼지게 하다
+  * walk off 1. '화난 감정을 걸어서 누그러뜨리게  하다' 2. 남자답게 굴어 3. 배를 걸어서 꺼지게 하다
   * 남자답게 굴어.                   Walk it off. : 
   * '부른 배를 걸어서 꺼지게 하다' 'Let's walk it off because we had too much at Jane's birthday party
   * #소화되다; #배가 꺼지다; we can #walk it off tomorrow
@@ -6309,6 +6466,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 거리를 두는; I don't want to walk away
 * 누구나, 모든 사람들 = anyone from any walk of life walk of life 는 사회 계층이나 직업이 주는 사회적 위치를 의미할 때 쓰는 표현이에요. 영상에서처럼 [모든 계층] 으로부터의 사람들이라는 의미를 강조해주기 위해 자주 쓰이는 표현입니다.
   * 어떤 계층에서 왔든 누구든지 언제든 참여하실 수 있습니다. ex) Anyone from any walk of life is more than welcome to join us.
+
+### walk away
+* 가족을 떠나지 마. [ex] Don't walk away from your family. 1. (힘든 상황을 외면하고) 떠나다
+* 올리버는 쉽게 챔피언을 따냈다. [ex] Oliver walked away with the championship. 2. (walk away with 의 형식) 쉽게 이기다, 쉽게 ~을 차지하다, 쉽게 ~을 갖고 달아나다
+* 그 사고에서 별로 다치지 않아 정말 다행이야. [ex] I was very fortunate to walk away from that accident. 3. 사고를 당했지만 별 크게 다친 데가 없다
 
 ## write
 * in writing은 '문서로', '서면으로'라는 뜻이에요. put something in writing은 '~을 공식화하기 위해 문서화하다'라는 뜻이고요!
@@ -6373,6 +6535,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## wild
 * 개발되지 않고 정돈되지 않은 [야생] 을 뜻하는 wild 는, 정제되지 않거나 이성에 근거하지 않은 생각이나 추측 등을 의미할 때도 쓰여요.
   * a wild guess = 억측 a wild dream = 무모한 꿈 a wild rumor = 터무니없는 루머 wild speculation = 터무니없는 추측
+* 동사 'rage'는 본래 '격렬히 화를 내다' '(폭풍, 전투, 언쟁 등) 맹렬히 계속되다' '(질병, 화재 등) 급속히 번지다'의 뜻을 가집니다. 무언가 몰아치는 심상이죠? 그래서 slang으로는 '걷잡을 수 없게 놀다'라는 의미를 가지게 되었어요. 'let's get/go wild'도 유사한 의미랍니다.
+  * 숨막히는 회사 때문에 죽겠어. 가서 달리자! This stuffy office is killing me. Let's go rage!
+  * 네 총각파티에서 너무 달리지 마. Don't get too wild at your bachelor's party.
 
 ## win
 * 동사 win 은 이처럼 승리해서 상을 타듯 뭔가를 노력해서 '얻다, 쟁취하다' 라는 뜻으로 쓸 수 있답니다! 예문을 보면서 더 익혀보세요. ※ win over는 이전에 나를 지지하거나 신뢰하지 않았던 사람의 지지 또는 신뢰를 얻어내는 등 성공적으로 마음을 바꿨다는 어감이 좀 더 살아있는 표현입니다.
@@ -6413,6 +6578,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * wall-to-wall 은 ‘공간, 바닥을 가득 메우는 / 계속되는, 끊이지 않는’을 뜻하는 형용사 입니다. 여기서는 두 번째 뜻으로 쓰였습니다. 여기에 대중 매체의 ‘보도, 취재, 중계’를 뜻하는  coverage가 합쳐서 ‘끝도 없는 보도’가 되었습니다.  참고로, 바닥에 까는 카페트가 한쪽 벽(wall)부터 다른 쪽 벽까지 가득 메운다는 뜻에서 유래했습니다.
 	* 나는 처음으로 달착륙했던 TV생중계를 기억하고 있어. 그런거 보면 나도 참 늙었네. (date: 나이가 들었음을 보여주다) I can remember watching live TV coverage of the first lunar landing, so that dates me.
 * : (비격식 숙어) 꽉 막힌 것 같이 답답하다, 무기력하고 당혹스럽다 #climb the walls
+* 1) 벽만 바라보고 있는 여성, 즉 파티나 사교 모임에서 누구도 춤추자고 하지 않아서 [소외된 여성]을 의미하는 단어입니다. 2) 요즘엔 굳이 '여성' 만 의미하지는 않으며, [소외된 사람/존재감 없는 사람/은따] 를 의미하는 단어로 쓰이고 있어요.
+  * 그녀는 처음에는 존재감 없는 사람처럼 보였지만 실제론 매우 활발하고 인기 있어. ex) She seemed to be a wallflower at first, but she is actually very active and popular.
 
 ## weep
 * 친구 토마스를 잃은 베이다는 자신의 아픔을 마치 버드나무가 느끼는 아픔처럼 빗대어 시로 표현하고 있습니다. 여기서 버드나무가 울고 있다는 것을  weeping과 tears running down 두 가지가 중복해서 나오는데요, weep은 ‘흐느껴 울다’, tears running down은 ‘눈물이 주르륵 흐르다’입니다.  그리고 with your tears running down에서 with는 ‘~한 채로, ~하면서’라고 해석하셔야 합니다. 직역하면 “너의 눈물(your tears)을 흘리(running down) 면서(with)”인데, 이를 문법에서는 〈with 분사구문〉이라고 합니다. 깊게 들어가진 않고 해석을 위한 간단한 예문만 살펴보겠습니다.

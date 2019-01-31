@@ -31,6 +31,9 @@
 ## 오타ㅣ
 * Otani gained weight to 100 kg
 
+## 리베라
+* 포스트시즌 브론세이브 5번중 1번은 빗맞은 안타, 3번은 파나마로 감전사로 죽은 친척의 장례식 갔따오고 난 후
+
 ## 류현진
 * 세로와 가로의 움직임이 잘 조화된 류현진은 커브와 슬라이더 모두 강하다 Ryu Hyun-jin is well-coordinated with both vertical and horizontal movements, and both curves and sliders are strong
 * 사이드 스탭으로 인해서 도루를 잘 당하지 않는다.
@@ -477,8 +480,9 @@ Below Average  25.0% : Poor  27.5% : Awful
 
 
 # 명예의 전장
-* BBWAA와 시대 위원회의 투표료 결정; 리그에서 10년이상 활약하고 은퇴한지 5년이 넘은 선수들 가운데 10년간 투표 자격이 주어지고 75%를 넘어야 명예의 전당에 입성할 수 있다.
+* BBWAA와 시대 위원회의 투표료 결정; 리그에서 10년이상 활약하고 은퇴한지 5년이 넘은 선수들 가운데 10년간 투표 자격이 주어지고 75%를 넘어야 명예의 전당에 입성할 수 있다.(예전엔 15년)
 	* 5%이상의 지지율을 얻지 못하거나 10년이 지나면 후보에서 탈락한다.
+	* * Hall of fame; 원래 명예의 영어는 honor; fame은 명성
 
 # 야구
 * twoseam drops to 4 direcon; two seam is faster than sinker; sinker fall in 5 clock direction(); shoot: 3'o clock

@@ -882,6 +882,8 @@ I have a big crush on you / I have a thing for you, i'm into you
 	 * 임신 시키다; knocked-up 속어; i didn't knock someone up
 	 * 유산시키다; have a miscarriage; miscarry
 	 * 낙태; 1) 임신 중절에 대한 표현은 여러가가지가 있는데요, 우선 영상에서 나온 terminate the pregnancy가 있습니다. terminate은 ‘제거하다, 없애버리다, 종료하다’라는 뜻으로 임신을 끝내버린다는 거죠. terminate 대신 쉽게 end the pregnancy라고 할 수도 있습니다. 혹은 get/have an abortion도 ‘낙태하다’라는 의미로 terminate the pregnancy보다는 덜 문어체적인 표현입니다. 
+	 * 제왕절개; caesarean section 의 줄임말인데요. 발음의 용이함 때문에 거의 모든 병원에서 c-section 이라고 합니다.  caesarean section 이라는 단어는 기원전 7세기 경에 로마제국에서 [임산부가 죽었을 때는 아기는 자궁에서 꺼내져야 한다] 는 법으로부터 왔습니다. 그 법의 이름이 Lex Caesariia 였거든요. '왔노라, 보았노라, 이겼노라' 라는 명언을 남긴 '줄리어스 카이사르 시저' 또한 제왕절개로 출생하여 '시저' (Caesar) 라는 이름을 갖게 되었다는 '설' 도 있습니다.
+	 	* 제왕절개 대신에 자연분만 하고 싶어.  ex) I want to have a natural birth instead of a c-section.
  * 출산 예정일이 언제에요; When's Jenny due?
  * 육아 휴직 기간입니다. 							 I'm on maternity leave. 
  * 아내는 가정적이에요? 						 Is your wife helpful at home? 

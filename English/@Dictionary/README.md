@@ -117,7 +117,7 @@
  * 당신이 지불하는 만큼의 가치를 얻을 수 있다.     it is definitely a #bang for your buck.
  * 이 제품은 충분히 자랑스러워 할 만한 가치가 있다.This product is good enough to be a feather in his cap.
  * #쌤통이다 #그럴줄 알았어 #you deserve it
- * ~어치의 ` ~ worth of ~; 3 thousand dollars' worth of clothes
+ * ~어치의   worth of ~; 3 thousand dollars' worth of clothes
 
 # 가짜
 * 보통 bogus note (위조 지폐), bogus contract (가짜 계약서)등으로 많이 쓰이는데요. 영상에선 나이를 먹음에 따라 시간을 느끼는 속도를 공식으로 할 수 있다는 과학이 터무니 없는 [가짜 과학이다 = 말도 안 된다] 로 해석이 되었습니다.
@@ -130,6 +130,8 @@
   * 정통 프랑스 요리            authentic French cooking
   * #짜가 #imitation #짝퉁; #fake
   * #허위 정보; #정보; #misleading information
+* 여기에서 'plastic'은 '플라스틱'이라는 우리가 잘 알고 있는 뜻이 아닌, '인공적인, 가짜의, 진실되지 못한'이라는 뜻으로 사용되었어요.
+  * 그 사람들의 꾸며낸 쾌활함과 인위적인 웃음이 너무 싫어. [ex] I hate their false cheerfulness and plastic smiles.
 
 # 각오
 * 마음 단단히들 먹어라. 겨울이 오고 있다. "Brace yourselves. Winter is coming."; Buckle up
@@ -1653,6 +1655,8 @@
 # 남다
 * 이 #남은 음식들 어떻게 하죠?        What should we do with these leftovers 
  * #잔재; #holdover, #debris
+ * '(특정 양) 이 남았다' 라는 뜻으로 'be down to' 이라는 표현을 쓸 수 있답니다!
+    * 돈이 거덜나려고 해. (조금밖에 남지 않았어) I'm down to my last dollar.
  * #잔여물; #residue; [rézidjùː]; it there's any residue
  * 남은 음식 데우는데 10분 걸렸어요   It took me 10 minutes to reheat the leftovers 
  * 당신 쇼핑목록이 으깬 감자 남은 것 안에 들어가 있네요
@@ -1808,6 +1812,8 @@
  * Give it your best shot
  * # 최선 다해봐 L          eave no stone unturned! ; #구석구석 찾다
 * try to #go the extra mile; #extra mile
+ * : 내 최선의 능력을 다 해서, 내 능력의 최대치로 [to the best of my ability]; 내 능력 안에서 최선을 다한다는 의미입니다. 상황에 따라 my 대신 her, his, our 등 다른 소유격을 쓰셔도 됩니다.
+  * 우리의 능력이 되는 한 최선을 다해 당신을 도울게요. We will help you to the best of our ability.
  * 저는 새로운 마케팅 전략을 배우는 데 늘 #열심히입니다. 
  * 'strӕtədƷi I'm always eager to learn new marketing strategies. 
  * 평균보다 #열심히 했다.               I went #the extra mile 
@@ -2090,6 +2096,12 @@
  * your room is very ##mess
  * #어질럽히다; leave a big ##mess
  * #messy, #dirty        물건이 정리 안되어있는건 messy, 먼지나 더러운건 dirty
+
+# 더미
+* 'pile(s) of ~'는 '~더미' '많은 ~'라고 해석할 수 있어요. 가산명사(셀수 있는 명사)든 불가산명사(셀수 없는 명사)든, 혹은 추상명사든 구체명사든 다 받을 수 있답니다!
+  * 들여다봐야 할 책들이 한 무더기 있어요. I have a pile of books to sort through.
+  * 'stack'과 'heap'은 'pile'과 아주 비슷한 의미인데, 전자는 주로 깔끔하게 정돈된 것을, 후자는 주로 크고 많은 것을 가리켜요~
+                                
 
 # 덩어리
 * 유용한 정보 한 가지          a useful nugget of information
@@ -4392,6 +4404,7 @@ retaliate
   * = “그렇게 하면 안되지” 그녀가 말참견하고 나섰다. “That’s a bad idea,” she interjected.
 
 # 색깔
+* woman/man/person of color 이라는 표현은 꼭 알아두는 것이 좋아요! 유색인종을 의미하는 비차별적 용어랍니다!
 * 무척 기쁜; tickled pink 
 	* 모든 일이 잘 풀리고 있다; Everything in my life is totally peachy; 2. 좋은, 훌륭한, 분홍빛
   * 몹시 질투하는; green with envy 
@@ -4471,6 +4484,7 @@ retaliate
 	* = 그게 일반적 통념이라는 건 알지만, 그게 모든 상황에서 항상 옳다는 걸 의미하진 않아. I know that's conventional wisdom, but it doesn't mean that it's always right in every situation.
 
 # 설명
+* : '에게 단계별로 하나하나 설명하다'라는 뜻이에요. talk someone through; explain the process는 '절차를 설명하다'라는 뜻으로, 말로 한번에 모든 설명을 하는듯한 느낌이에요. 반면 talk someone through the process는 '절차를 하나씩 보여주면서 설명하다'라는 느낌!
 * 대략 알려주다, 설명해주다. = give a rundown rundown 은 요점별로 하는 대략적인 설명을 의미해요. 바로 뒤에 이어서 나오는 영상을 보시면 시간 별로 일론 머스크가 무슨 일을 하는지 대략적인 설명이 나옵니다. 뒤에 전치사 on 과 함께 쓰여서 [~에 대한 대략적인 설명] 이라고 표현할 수 있어요.
   * 내일 있을 회의에 대해서 간단히 설명 좀 해주시겠어요? ex) Can you give me a rundown on the meeting tomorrow?
   * Can you give me a demonstration? = can you demonstrate it for me?
@@ -5511,6 +5525,8 @@ retaliate
   * What are opening hours?
 
 # 영향
+* pack a punch: (마치 주먹을 날리듯) '강력한 영향을 미치다' 라는 뜻의 관용어구예요.
+  * 이 음료수 진짜 효과가 강력해요. 카페인이 엄청 많이 들었거든요. This drink really packs a punch. It contains so much caffeine.
 * a sphere of influence = 영향권; sphere 는 원래 동그란 모양의 [구] 또는 구처럼 무언가를 둘러싸고 있는 [영역] 을 의미하는데요. a sphere of influence 는 [영향권] 을 의미하며 sphere 라는 단어가 가장 흔하게 쓰이는 표현 중에 하나입니다. 통째로 숙지해 두시길 바라고요.
   * = 많은 단체들이 세력권을 위해 다투고 있습니다. Plenty of groups are fighting for spheres of influence.
   * 제임스한테 도움을 요청해보는 게 어때? 그는 거기에 손 쓸 만한 영향력이 있어. ex) Why don't you ask James for help? He has the clout to do something about it. 비격식 표현으로 특히나 정치나 사업에서의 영향력을 의미합니다.  [klaʊt]
@@ -5670,6 +5686,10 @@ retaliate
   * #소원하다; #alienate; Many people feel alienated in new places; ali(다른)+en(형접미사)+ate(동접미사)
   * #leave out; I feel a little bit left out
 
+# 외모
+* [the way I look]
+  * 고등학교 때 나는 정말 뚱뚱했어서 내 외모가 정말 싫었어. Back in high school, I was very fat, so I didn’t like the way I looked.
+
 # 외우다
 * by heart는 ‘외워서, 기억하여’란 뜻으로 깊게 생각하지 않아도 바로 입에서 나올 정도로 알고 있는 것을 know by heart라고 합니다. 
   * 난 그 번호로 하도 많이 전화를 걸어서 이미 외워버린 상태야. I’ve dialed the number so many times that I know it by heart.
@@ -5698,6 +5718,7 @@ retaliate
  * #의뢰; She has been #commissioned to write a new national anthem. 
 * hit someone for something = sth을 달라고 sb에게 부탁하다 영상에서는 ‘더 달라고(for more)’라고 하였지만 주로 for 뒤에는 돈과 관련된 표현이 오는 경우가 많습니다. 그리고 for something 없이 hit you up, hit me up 이라고도 자주 쓰는데요, ‘연락하다’를 의미합니다. 
   * 그녀는 내게 현금을 달라고 부탁했다. She hit me up for some cash.
+* # 제발; : 'please, 제발'의 강조형으로 '제발 부탁이야', '제발, 응?' 정도예요. 더 간곡히 부탁할 때는 'pretty please with sugar/a cherry on top' 이라 말하기도 해요! 최대한 공손하게 조를 때 쓸 수 있어요. 사람에 따라 애교를 섞어서 쓰기도 해요. 모두 다소 비격식적인 표현으로 격식 있는 자리에서는 부적절할 수 있으니 주의하세요!
 
 # 요약
 * ☆#요약: #To sum up/ In summary = #for short = #for brevity's sake(#sake)
@@ -5890,6 +5911,10 @@ retaliate
 * 유리하다; youtube channel gives me an huge edge over the people who are learning English from textbooks
 
 # 유명
+* '유명하다'를 뜻하는 대표적인 단어로 'famous' 'well-known' 'renowned'를 들 수 있겠는데요~ 우리말로는 모두 '유명하다'라고 번역하지만 미세한 차이가 있답니다. 먼저, 'famous'는 '많은 사람들이 아는'이라는 뜻이 강하죠. 'well-known'도 'famous'와 유사하지만, '특정 집단이나 장소에서 잘 알려졌다'는 의미가 강해서 'famous'보다 다소 지엽적인 명성을  표현한다고 합니다. 'better-known'과 'best-known'과 같이 비교급, 최상급으로 사용할 수 있다는 점도 특이하죠^^ 마지막으로 'renowned'는 '특별한 특징·능력이나 업적 따위로 유명한'이라는 좀 더 구체적인 의미가 있어요.
+  * 조세핀은 유명한 교수이다. [ex] Josephine is a famous professor.
+  * 강박사는 국내에서 가장 유명한 신경외과 의사지. [ex] Dr. Kang is the best-known neurosurgeon in the country.
+  * 명성이 높은 발레단의 공연 [ex] a performance by a highly renowned ballet company  [rɪˈnaʊnd] 
 * : 강세를 보이다, 더 나아가다, 성공하다, 더 # 인기를 얻고 있다  [ 숙어 ] gain ground
   * ~에게 잘 알려져 있다; #be well known among 사람 = #familar to 사람 = #well known to
   * #renowned
@@ -6038,6 +6063,8 @@ retaliate
 * # 메시지; 어떤 메시지를 얻었나요? what did you take away from it?
   * # 메모; : 주로 실제 종이 따위에 '적어두다, 메모해두다' 라는 뜻! [ 숙어 ] make a note of something
     * : 대개 머릿속으로 '기억하다, 주목하다' 라는 [ 관련 표현 ] take note of something
+  * 기분 나쁜 어조로 적힌 쪽지, 이메일 등을 nastygram이라고 합니다. 「단어+gram」으로 표현할 경우 ‘적혀 있는 것, 그려져 있는 것’ 혹은 ‘통신, 통지, 속보’ 등을 의미하는데, 그 내용이 나쁘기(nasty) 때문에 합쳐진 단어이지요. -gram이 붙은 단어의 예는 많습니다. telegram(전보, 전문), diagram(도표, 도해)도 그렇고, 요새 사람들이 자주 사용하는 SNS인 인스타그램(Instagram)도 있습니다.
+    * 제프는 나한테 감히 대놓고 말 못하니까 대신 모욕적 이메일을 보냈다. Jeff couldn’t dare to talk to me directly so instead he sent me a nasty gram.
 
 # 의성어
 * 귀여울 때, 불쌍, 동정, 고마울 때: Awwww
@@ -6216,6 +6243,8 @@ retaliate
   * 그녀는 그가 자기 옆에 앉을 수 있도록 조금 # 움직여 주었다. She scooched over so that he could sit down next to her. 
 * # 게으르다; ‘일어나서 무언가를 하다, 움직이다’라는 의미의 표현입니다. 대고 있던 엉덩이(ass)를 떼라는(get off) 거죠. 그래서 게으르게 누워서 아무것도 하지 않은 사람에게 Get off your ass! 라고 말할 수 있습니다. 물론 비격식 표현이니까 상대를 봐가면서 사용해 주세요!
   * 게으름 그만 피우고 가서 일 좀 해야하지 않겠냐.   It's time you got off your butt and got to work.
+  * get off one's ass : 게으름 피우는 걸 멈추다. 
+    * 게으름 그만 피우고 숙제 좀 해, 존! ex) Get off your ass and do your homework, John!
 
 # 이득
 * : 무언가를 이용해 돈을 벌거나 이득을 취하다 * cash in (on + 무언가) (다른 사람의 명성, 연예인의 불행 등을 이용해 돈을 번다는 뜻으로 많이 쓰입니다)
@@ -6351,6 +6380,11 @@ retaliate
 * 인정해주자; to give her credit
 
 # 인종
+* # 차별; 
+  * 성차별: sexism, gender discrimination  외국인 차별: discrimination against foreigners   학력 차별: discrimination based on educational level
+  * 인종차별: racism, racial discrimination  이성애주의 (동성애자, 양성애자 등에 대한 차별): heterosexism  고정관념: stereotype  편견: prejudice
+  * 연령차별: ageism, age discrimination  반유대주의: anti-Semitism
+* woman/man/person of color 이라는 표현은 꼭 알아두는 것이 좋아요! 유색인종을 의미하는 비차별적 용어랍니다!
 * 단순한 차별은 discrimination 이라고 할 수 있지만, segregation 은 특정 인종을 '분리' 시키는 형태의 차별을 의미합니다. 예를 들면 영상에서처럼 흑인들은 수영장에 못 들어온다든지, 버스의 특정 자리에만 앉아야 한다든지 하는 걸 의미하는데요. 정책적으로나 사회적 분위기에 의해 생겨날 수 있어요. 
   * = 지금도 여전히 어떤 형태의 인종 분리(차별)를 볼 수 있다는 사실이 정말 싫어. I hate the fact that we can still see some form of racial segregation now.
   * '모범적 소수인종(model minority)'은 소수인종, 이민자들에 대해 갖는 하나의 편견입니다. 특정 이민자 집단이 그들이 이민 온 국가의 평균치보다 높은 사회경제적 성공을 거두는 걸 보고 '모범적이다'라고 표현한 거죠. 미국에서는 아시아계 이민자들이 특히 모범적 소수인종으로 여겨집니다. 한국 이민자들을 포함한 많은 아시아계 이민자들은 굉장히 근면성실하고 자녀 교육을 잘 시켜서 자녀가 좋은 대학, 좋은 직장에 간다는 이미지를 갖고 있는 거죠. 얼핏 보면 "그럼 좋은 거 아냐?"하고 생각할 수 도 있지만, 아시아계 이민자를 모범적 소수인종의 틀에 가두어 버리는 족쇄가 되는 경우도 더러 있답니다. 또, 하나의 민족이나 인종을 하나의 이미로 묶어 보는 것 자체가 그들을 '우리 중 하나'가 아니라 '그들'로 본다는 뜻이기도 하지요.
@@ -8285,6 +8319,7 @@ retaliate
 # 평범
 * 웬만한 사람은; If you're anything like me
 * 지극히 평범한; run-of-the-mill
+  * low-key
 * 참고로 영어로 평범한 직장을 nine to five job라고 합니다. 근무 시간이 보통 월-금 오전 9시부터 오후 5시이고, 그게 계속 반복된다는 뜻이지요. 특히, nine to five job는 주말만 바라보고 살게 만드는 성취감 없는 직장이라는 뜻으로 쓰이는 경우가 많습니다. 우리말로 치면 '월급쟁이 인생'이라는 말과 유사합니다.
   * 난 맨날 똑같이 반복되는 내 직장이 싫다. 일 가는 게 정말 싫고 내 상사도 싫다. 나는 주말만 바라보고 산다. [ex] I hate my nine to five job. I dread going to work and I hate my boss. I live for the weekend.
 
@@ -8459,6 +8494,13 @@ retaliate
 * [가장자리], 또는 주류에 포함되지 않는 [주변] 을 margin 이라고 합니다. 이 단어의 형용사형인 marginal 입니다.
 	* 이 변화가 지금은 별 거 아닌 것처럼 보일 수도 있지만, 나중에 우리에게 큰 도움이 될거야. ex) This change may look marginal for now, but I'm sure it will help us a lot later.
 
+# 학원
+* 미국에는 '학원'의 개념이 우리나라처럼 있지 않기 때문에 무언갈 '배우러 다니다', '학원을 다니다' 말할 때 go to academy... 이런식으로 표현하지 않고 take lessons, take classes 이렇게 표현해요.
+  * 요가 학원 다닐까 하고 있어. ex) I'm thinking about taking yoga class.
+  * 나 주말마다 사진 수업 받으러 다녀. ex) I'm taking a photography class every weekend.
+  * 난 어릴 때 한 번도 피아노를 배운적이 없어. (피아노 학원 다닌적이 없어) ex) I never took piano lessons as a kid.
+                                
+
 # 한계
 * 그는 끊임없이 TV 코미디의 한계를 초월하는 연예인이다. e is a performer who consistently pushes the envelope of TV comedy. 
   * 이제 한계야; i've just about reached my limit
@@ -8503,6 +8545,8 @@ retaliate
 
 # 한번쯤은
 * at one point or another
+* # 한번에; 1. in one go 는 '한 번에'인데요. 좀 더 풀어서 설명하면 '(중간에 쉬거나 끊지 않고) 한 번의 시도만에'라는 뜻이에요. 
+  * 그가 음료를 한 번에 다 마셨다. He downed his drink in one go. 
 
 # 합격
 * : 후보자 · 합격 대기자 명단에 오르다 I'm waitlisted at 대학교
@@ -8916,6 +8960,10 @@ retaliate
   * 배설; excretion 미국·영국 [ikskrí:ʃən]; produce less excretion
   * 똥좀 싸고; take a dump
   * : 직역하면 '바람을 내보내다' 로, '방귀 뀌다' 를 완곡하게 말한 표현이에요.
+    * 'urinal'은 '남성용 소변기' 또는 '(소변기가 있는) 화장실'을 가리킵니다.
+      * "샘"은 도기 소변기로 만든 예술 작품입니다. [ex] "Fountain" is an art piece made out of a porcelain urinal.
+    * 일반 좌변기는 'toilet'이라고 하죠? A: The toilet is clogged.
+      * 가서 뚫어! B: Go unclog it!
     * 너 지금 방귀 뀐 거야? Did you just pass wind?
       * 방귀: flatulate, fart (이 표현도 flatulate는 좀  더 차린 말 같고 fart를 일반적으로 사용해요.  역시 직접적인 표현이라 break wind처럼 우회적이고 유머러스한 말로 대체하기도 하죠~^^) 
   * 변기시트 열어둘떄 싷어요; i don't like when pelople eave the toilet seats up
@@ -9019,6 +9067,8 @@ retaliate
  * #희망사항; it's just my #wishful thinking
 * # 활기; rev는 ‘엔진따위의 속도와 힘이 올라가다’는 뜻입니다. 그래서 rev up이라고 하면 어떤 것이 활기가 띠고 불이 붙는다는 의미이지요.
   * 그 리조트는 바쁜 여름시즌을 맞아 활기를 띠고 있다. The resort is revving up for the busy summer season.
+  * 동의어로는 lively, cheerful, full of energy, bright 등이 있습니다.
+    * 너 오늘 아침 되게 생기 넘쳐보인다. 어제 잠 잘 잤니? You look very perky this morning. Sleep well last night?
 
 # 희생
 * 무언가에 공격을 받거나, 죽임을 당할 경우에도 쓰고, 어떤 상황에 의해 굉장히 안좋은 영향을 받는 경우에 쓰는 표현이에요.

@@ -596,6 +596,8 @@
     * 아프고나서 뼈만 남았네요.         He's all skin and bones after his illness.
     * #골수                  a bone marrow transplant
     * 그 생선 뼈 거의 없어             That fish has few bones. 
+    * : 목에 골절상을 입다, 목뼈를 다치다 [get/have whiplash; whiplash injury, 혹은 whiplash라고 하면 자동차 사고 등으로 인해 생긴 목뼈 손상을 지칭하고 동사는 get/have를 씁니다.
+      * 그는 자동차 사고로 목에 골절상을 입었다. He had whiplash from a car accident.
   * knee joint, 관절을 삐다: have a joins #dislocated; hurt one's joints
   * #마디마디가 쑤신다; i'm aching in the #joints
   * #삐다; #twisted = #strained

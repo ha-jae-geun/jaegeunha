@@ -56,6 +56,10 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 	* 플레이팅은 음식의 맛 만큼 중요하다. The presentation of food is also as important as its taste.
 
 # Ingredient
+* 상대적인 비율을 말할 때 part라는 말을 써요.
+  *  = 쌀 1 대 물 1.5 비율을 뜻하죠. one part rice to one and half part water
+  * 여기서 1 part은 한 컵일 수도, 500 ml일 수도400 그람일 수도 있는데 무엇이 됐든 하나의 기준을 정해서 쓰는 거랍니다. 
+    * 물 1과 사과주스 2 비율로 섞으시오. Mix one part water with two parts apple juice.
 * 강낭콩; kidney beans
 * 후추 한 꼬집을 넣었어; i put a pinch of pepper in her mouth
 * 과하게 -하지 말고; 스프링클 너무 많이 뿌리지 말고; Don't go nuts with the sprinkles
@@ -136,6 +140,7 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 	* 식감만큼은 괜찮아; THey're quite nice in texture
 
 # Cooking
+* a dash/ pinch/ hint/ touch of OO; 여기서 dash는 소금 약간을 나타내기 위해  쓰였지만 주로 액체를 나타낼 때 사용합니다.  어디에 소량의 액체를 더할 때, 음식이나 칵테일, 소스 같은 데 레몬 주스 소량을 넣는다든지의 경우 말이죠. 팬에다가 식용유를 한번 살짝 두를 때도 사용하는 표현입니다. pinch는 가루의 한 꼬집 (엄지와 집게 손가락으로 집을 수 있는 정도) 분량, hint 또는 touch는 대개 재료가 향이 강하기 때문에 미량을 넣는 경우 등장하는 단어죠. 
 * (고기, 닭, 생선, 게 등의) 음식 재료를 다듬거나 (뼈 발라내기, 털 뽑기 등), 샐러드에 풍미를 더 하는 소스를 더한다고 할 때 동사 dress를 사용할 수 있습니다. 샐러드 드레싱 (dressing)에서 드레싱이 바로 여기서 온 표현이죠.
   * 닭 손질하는 것 좀 도와주겠니?Can you help me dress the chicken?
 * 퐁당하고 넣어주세요; And plop it in
