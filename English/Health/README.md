@@ -416,9 +416,10 @@
 * #재활병원 hospital - = #Rehabilitation center = #rehap center
 * #rehabitation programme
 * #정신과 의사 [saikáiǝtǝr] psychiatrist = #shrink
-* #정신 병원 #asylum, [ǝsáilǝm] #mental hospital, #psychiatric hospital -sàikiǽtrik 정신병원 rehabilitation 
-* #정신병원; #nuthouse
-* 나도 정신 상담을 받아야 겠어요 I should see a shrink(psychiatrist [saikáiǝtǝr] 속어)
+  * madhouse은 예전에는 정신 병원을 하대하듯 부르던 말이었는데 이제는 주로 난리법석, 소란스러운 곳을 가리키는 비격식 표현으로 사용합니다. 물론 일부 사람들은 여전히 정신 병원을 일컫는 단어로 사용하긴 하지만 바람직하진 않으므로 사용에 특히 유의하셔야 됩니다~! 정신병원은 psychiatric/ mental hospital이라고 부르도록 합니다~
+  * #정신 병원 #asylum, [ǝsáilǝm] #mental hospital, #psychiatric hospital -sàikiǽtrik 정신병원 rehabilitation 
+  * #정신병원; #nuthouse
+  * 나도 정신 상담을 받아야 겠어요 I should see a shrink(psychiatrist [saikáiǝtǝr] 속어)
 * #진찰; #consultation
 * 누구 상태 확인해봐; CHeck on someone; Go check on her
   * #정신상태 You’re in no state of mind to talk; #state of mind

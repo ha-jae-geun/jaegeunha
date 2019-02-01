@@ -168,6 +168,7 @@
 * #속도 #위반하셨어요 you were speeding
 * ##도로: #road: 이동 가능한 길 #street: 길 양쪽에 상점, 집들이 즐비한 곳 ; road, street 비슷한 느낌
 * #일반도로 #고속도로; #city street  #freeway/#expressway
+	* - dirt road 혹은 unpaved road: 비포장도로 - paved road: 포장도로(구체적으로 아스팔트 도로 asphalt road, 콘크리트 도로 concrete road라고 부르기도 하죠) 이 문장에서 this dirt road는 '이 비포장도로'가 아니라 '어떤 비포장도로입니다. 여기서 this는 부정관사 a를 대신해서 쓰였는데요, dirt road를 강조해주는 역할을 하고 있답니다. 어떤 얘기를 풀어나갈 때 상대방이 주목했으면 하는 부분을 강조하는 수단이죠. 우리말로는 '어떤' 혹은 '무슨' 이라고 번역하는 게 자연스러운 것 같아요. ※ 영상 더 앞에 나온 대사 "I was wearing a school uniform and these really ugly shoes.(교복과 정말 못난 신발을 신고 있었죠.)"의 these도 같은 케이스입니다.
 	* 2. 고속도로를 부르는 표현이 여럿 있는데요, highway, freeway, expressway는 주로 미국에서 사용하는 말이고 motorway는 영국에서 쓰입니다. highway는 일반적으로 도시나 도시를 있거나 많은 차량이 통행할 수 있고 교통 신호등이나 교차로와 같은 제약이 적은 큰 도로를 의미합니다. freeway와 expressway는 highway인데 차량을 통제하느냐 마느냐에 차이가 있는데요, expressway는 통행료 (toll)를 받고 freeway는 안 받는 것으로 흔히 구분합니다.	
 	* #막힌 도로; #blocked road
 	* #avenue: street 보다 더 큰 느낌, 상점도 더 많음 ##alley: #골목길; 좁은 뒷골목 느낌; #alleyway

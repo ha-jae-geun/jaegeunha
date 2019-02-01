@@ -72,6 +72,11 @@
 * 최애를 뽑은 개 아니에요; i'm not picking favorites; play favorites: 편애하다
 
 # 영화
+* - sequel: 영화의 다음 이야기를 다루는 속편; ex) There will be another sequel for &lt;50 Shades of Grey&gt;.
+	* - prequel: 영화 시리즈 이야기의 '전'에 있던 일을 다루는 속편; ex) The Star Wars Prequel, The X-Men Prequel
+	* ex) The God Father Trilogy, The Lord of the Rings Trilogy - trilogy: 삼부작 시리즈
+	* ex) the Harry Potter series, the James Bond series
+	* - spin off: 번외편(주된 이야기에서 동 떨어진 특정 캐릭터 혹은 이야기에 대한 작품)
 * 자동차 극장; Drive-in theater
 * 드라마, 영화 대본은 상황에 맞는 최적의 표현을 사용하기 위해 수차례 어학 전문가의 수정을 거쳐 만들어진다.
 * flick: (비격식) 영화 2. chick flick: 여자들 취향의 영햐; 주로 로맨스/로맨틱 코미디

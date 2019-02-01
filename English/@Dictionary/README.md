@@ -261,6 +261,8 @@
  * # 비슷; * '한 끗 차이', '종이 한 장 차이' 라는 표현이 있죠? 그 뉘앙스에 딱 맞는 표현이 바로 'a thin line' 예요. '가느다란 선' 이라는 뜻이 시사하듯, 두 가지가 아주 비슷하지만 아주 달라서 구분하기 힘들 때 요 표현을 쓸 수 있어요. 'a thin line between' 형태로 자주 쓴답니다.
   * 보호와 통제는 한 끗 차이야. There's a thin line between protection and control.
   * : B와 불가사의할 정도로 비슷한 것 an uncanny resemblance to B
+  * much of a muchness : 비슷비슷하다, 거기서 거기다
+    * 내 생각엔 다 거기서 거기야. Much of a muchness, if you ask me.
 
 # 개소리
 * #개소리하지마      bə‘loʊni That's baloney.(볼로냐 소세지 잡것들 모아 만듬), bullshit,
@@ -2096,6 +2098,8 @@
 
 
 # 대신
+* : ~를 대신해 나서다, ~의 대타를 뛰다; 업무, 일 등과 같은 일을 남을 대신해 나서는 것을 뜻합니다. 〔step in for+사람〕으로 표현합니다.
+  * 어제 내가 런던으로 급히 가봐야 해서 데이비드가 나 대신 업무를 맡아주었다. David stepped in for me last night as I had to fly to London urgently.
 * replace: 직책 등에서 물러난 자리를 다른 사람이 대신 하는것; John was replaced with a younger new recruit
   * substitue for sb; 휴가나 병등으로 잠시 자리를 비운사이 다른 사람이 그일을 대신하는것; Marki will substitute for me
 
@@ -2383,6 +2387,10 @@
 * 잘 안됐지. 처음부터 다시 시작하자. Back to the drawing board . 듣기 출처:YBM
 * : 'stock taking', '재고 조사'에서 온 표현인데요. 재고를 철저히 조사하듯, '신중하게 살펴보다' 또는 과거의 일을 '천천히 되짚어보다' 라는 뜻이에요!  [ 숙어 ] take stock of
   * 오늘 차 한 잔 내놓고 앉아서 내 인생을 천천히 되짚어봤어. [ex] Today I sat by myself over a cup of tea and took stock of my life.
+
+# 둘러싸다
+* 'mob'는 명사로 '무리, 떼'를 가리키고, 동사로는 '떼 지어 몰려들다'라는 의미를 가집니다. 특히 폭력성이나 말썽의 여지가 있는 듯한 (사람, 동물)집단에 사용한답니다.
+  * 코난은 흥분한 팬들에게 둘러싸였다. 코난은 흥분한 팬들에게 둘러싸였다.
 
 # 뒤집다
 * 전을 뒤집다; turn[flip] the fried food
@@ -2734,6 +2742,8 @@
   * 레이첼은 직장의 여자들과 어울리기를 꺼려 했어.  ex) Rachel was reluctant to hang out with the girls in her office.
 
 # 망했다
+* torpedo는 어뢰, 또는 어뢰로 공격한다는 말인데 어떤 것을 완전히 망친다고 할 때, 혹은 제도나 정책 등을 무효화시킨다고 할 때도 사용할 수 있는 표현이죠.
+  * 민주당원들은 그 계획을 다 무효화시켰다. The Democrats torpedoed the whole plan.
 * 영국에서 자주 쓰는 비격식 표현이고, 듣는 사람이 조금 무례하다고 느낄 수도 있는 단어에요. 원래는 중간에 하이픈을 빼고 cock up [~을 망치다/형편없게 하다] 라는 동사로도 많이 쓰여요. 영상의 주인공이 영국 총리이기 때문에 [정치를 엉망으로 해서 죄송합니다] 라고 해석이 되었습니다.
     * 네가 완전히 망쳐버렸어. 이걸 어떻게 만회할거야? ex) You've made a real cock-up. How are you going to make it up?
     * 살면서 내가 했던 모든 일은 다 망쳐버린 듯한 기분이 들어. ex) I feel like I've cocked up every job I've had in my life.
@@ -3658,7 +3668,8 @@
     * 핸드폰은 사람들의 삶에 어떻게든 많은 영향을 미칩니다. ex) Your phone affects your life a lot in one way or another.
  * gimmick(기믹)는 '어떠한 제품이나 사람에 대한 언론이나 대중의 관심을 끌기 위해 사용하는 수법, 술책'을 뜻합니다. 부정적인 의미를 내포하는 말이기 때문에 상황에 따라 '사기수법', '속임수', '꼼수' 등으로 해석할 수 있습니다.
   * sales gimmick: 판매 수법 publicity gimmick: (언론을 이용한) 홍보 수법 weight-loss gimmick: 다이어트 수법(예시: 원푸드 다이어트나 디톡스워터 등과 같은 수법들)
-                                
+  * '~에 반하는 음모를 꾸미다'를 'plot against sb/sth'이라고 한답니다. 'plot'이 '책략, 계획, 음모'니까요^^  'plot' 자리에 'scheme' 'conspire' 등 비슷한 뜻을 가진 단어들을 넣어도 다 동일하게 음모를 꾸민다는 뜻이 되죠.
+    * 그들은 현 최고경영자에 대항해 회사를 차지하려는 계획을 꾸미고 있다. They're plotting to take over the company against the current CEO.
  * 마지막 수단으로 at a last #resort
  * 무슨 수단을 동원해서라도 #by all means
  * 가능한 수단을 모두 쓰다; #leave no stone unturned to
@@ -3714,6 +3725,8 @@
 # 방향
 * 갑자기 방향을 바꾸는 것을 의미하는 단어인데요. 영어에서 chicken 은 속어로 [겁쟁이] 를 의미합니다. 앞서 나온 a game of chicken 은 누가 더 겁쟁이인지 알아내기 위한 게임으로, 예를 들면 차가 서로를 향해 직선으로 돌진하다가 충돌의 위험으로 먼저 방향을 바꾸는 사람이 겁쟁이가 되는 건데요. 영상에서는 서로 사사건건 부딪히는 둘 중에 누가 먼저 꼬리를 내리고 물러설지를 치킨게임에 비유하였기 때문에 swerve 라는 단어를 써서 서로를 향해 오던 [방향을 바꾸다 = 도망가다] 로 해석이 되었습니다.
   * = 차가 방향을 바꿔 트랙에서 벗어났지만, 다행히 아무도 다치지 않았다. The car swerved off the track, but luckily no one got hurt.
+* 갑자기 방향을 바꾸어 옆 길로 새는 걸 의미합니다. 길을 이탈할 때 쓰기도 합니다. 영상에서는 엘르가 가족들이 이사할 때 혼자 나가 사는 상황에서 나온 말이기에 '자신만의 길을 가는 것' 을 에둘러 표현한 거네요! * veer off
+  * 차가 갑자기 옆 길로 새서 거의 누군갈 칠 뻔 했어.  ex) Our car suddenly veered off the road and we almost hit someone.
 
 # 방해
 * 프랑스어에서 온 단어로, 중세 농민들이 탐욕스러운 영주의 부당한 처사에 대한 항의로 곡식을 나막신 (sabot) 으로 짓밟은 것에서 나온 표현이에요. 우리말로 된 뉴스나 신문에서도 가끔 노동 관련 뉴스에서는 '사보타주' 라고 그대로 쓰기도 하는데요. 노동자들이 시설이나 원자재 등을 파괴하여 생산이나 사무 활동을 방해하는 것을 의미해요. 그 모습의 연장선 상에서 영상에서처럼 무언가를 [고의로 방해하다] 의 의미를 가집니다.
@@ -5048,6 +5061,7 @@ retaliate
    * In the right/wrong order/
  * #chronological order 시간적 순서
  * # 차례로; 시장은 각각의 손님들에게 차례로 말을 걸었다. ex) The mayor spoke to each guest in turn.
+  * 네 차례야; You're up next.
  * 순서에 맞지 않게      put the cart before the horse. = #Out of order
  * #sequence
  * #교차로; #alternate, #every other, #sequential - 번갈아 나오는, 번갈아 생기는 
@@ -7167,6 +7181,8 @@ retaliate
  * ## 억제 ## 규제 ## 제한 #restriction# #constraint# #restraint# #moral#
 
 # 조건
+* deal breaker = (계약 조건 중) 절대 용납할 수 없는 조건; 연애에 대해 말할 때도 많이 쓰는 말인데요, 연애 deal breaker는 "다른 조건이 아무리 좋아도 참을 수 없는 성향이나 조건"을 뜻해요. "깨는 조건"이라고도 할 수 있겠네요.
+  * 넌 연애할 때(또는 연애 상대를 볼 때) 제일 깨는 조건이 뭐야? What's your relationship deal breaker?
 * string 은 원래 [줄] 이라는 뜻이 있는데요. 영상에서처럼 무언가를 계약하거나 제안할 때 줄이 주렁주렁 달린 것처럼 조건이 붙어있을 때 쓰기도 해요. [조건, 단서 조항]등을 의미하고요. 영상에서처럼 have strings attached 를 써도 되고, with strings attached 를 쓸 수도 있습니다.
   * 조건이 있는 게 분명해. 계약서 다시 읽어봐. ex) There must be some strings attached. Read the contract again.
 * what it takes는 재력이나 재능 등 자질이나 조건을 나타내요. 보통 'have(got) what it takes to~ = ~하는 데 필요한 자질이 있다.'라고 잘 쓰이니 숙어 표현을 통째로 외워두시는 게 좋아요! to 부정사 없이 단순히 You have(got) what it takes. 라고 한다면 '넌 성공하는 데 필요한 자질을 갖추고 있어.' 정도의 칭찬으로 보시면 된답니다.
@@ -7988,6 +8004,8 @@ retaliate
 * 초급 수준으로 가르쳐주실 수 있나요? Could you teach me something very elementary
 
 # 최고
+* (at) full blast: # 최대치로#  (속도, 음량, 성능 등)
+  * 라디오 최대치로 켜 봐. Put the radio on at full blast.
 * 우리는 연중 최고치를 기록했어요. "We hit a record high for the year."
 * # 멋지다; 야 이거봐. 엄청 끝내주는 신상 게임이야. Check this out. It’s a rad new game. radical의 준말로 기막히게 좋은, 끝내주게 멋진이란 뜻입니다.
 * best - ever; best day/present ever
@@ -8422,6 +8440,8 @@ retaliate
   * #기술 점수, #예술 점수; he got high marks for artistry, his technical scores were low
 
 # 평범
+* a regular Joe, an average Joe는 일반 사람, 평범한 사람을 가리키는 표현입니다. 철이, 철수 같은 느낌이죠~ 여자는 an average Jane, an ordinary Jane, a plain Jane이라고 합니다. 순이, 영수 같이 교과서에 나올 법한 여자 이름을 대며 일반적인 여자를 나타내는 거랍니다. 또, John Doe와 Jane Doe가 있는데요. 신원이 확인되지 않은 사람 혹은 사람의 시신에 임의로 붙이는 이름입니다. 남자면 John Doe, 여자면 Jane Doe라고 하죠. * 참고로 joe는 커피를 가리키는 표현이기도 합니다.
+  * 그냥 내 인생에 평범한 남자 한 명 있으면 해. I just want a regular Joe in my life.
 * 웬만한 사람은; If you're anything like me
 * 지극히 평범한; run-of-the-mill
   * low-key
