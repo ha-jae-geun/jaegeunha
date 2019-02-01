@@ -62,6 +62,8 @@
  	* "자선단체에 기부하기"; donate/give to charity
  	* 자선 단체에서 자원봉사 하기" volunteer in a charity organizaiton
  	* 팔레스타인 난민을 봅다; i visited Palestinian refugees
+ 	* : 기아 구조 단체 [hunger relief organization] relief의 동사인 relieve는 ‘고통, 불쾌감, 문제 등을 완화시키다’는 의미를 갖고 있습니다. 그래서 relief는 ‘완화, 경감, 구호’ 혹은 문제를 완화시켜주는 물건인 ‘구호품, 구호물자, 재정지원, 보조금’ 등을 뜻합니다. 그래서 배고픔(hunger)을 달래주는(relief) 단체(organization)라고 하여 ‘기아 구조 단체’가 되는 것이죠.
+ 		* 그녀는 10년 동안 기아 구조 단체에서 봉사해오고 있다. She’s been volunteering in a hunger relief organization for 10 years.
 * 안락사 반대 단체들이 그들을 막기 위해 집결하며; an euthanasia opposition groups mobilized to stop them [ˈmoʊ-]  영국식 [ˈməʊbəlaɪz]
 * 단식투쟁을 하다; go on hunger strike; 파업 참가자: striker, hunger striker
 

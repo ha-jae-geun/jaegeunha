@@ -135,6 +135,7 @@
 
 ##옷 #의복 wear <> put, try on: 관사에 주의 attire=outfit [ə|taɪə(r)]
 * 누드; birthday suit; 한 남자가 발가벗고 돌아다니고 있다.; A man is going about in his birthday suit.; 생일 날 장난
+  * 1. 우선 nude는 옷이라든지 무언가가 걸쳐지거나 가리지 않은 상태를 가리킵니다. naked는 이와 비슷한 의미 외에도 naked truth(적나라한 진실), naked eye(육안, 나안) 등에서 알 2. 알몸을 가리킬 때 있어서 naked는 nude에 비해 좀 더 불안정한 느낌이 있습니다. nude는 있는 그대로의 완전한 모습을 띠는데 비해 naked는 옷을 입어야 할 것만 같은 어떤 결핍이 느껴지는 단어입니다. 또한 nude는 누드화에서처럼 예술적 용어로서도 통용되기 때문에 naked보다 더 고상한 분위기를 함포하고 있어요.
   * not/without a stitch on him. = 실오라기 하나 걸치지 않다 옷을 하나도 입지 않은 것을 우리말로도 ‘실오라기’ 하나 걸치지 않다고 하는 것처럼, 영어에서도 바늘땀(stitch)하나 입지 않았다고 표현하는 겁니다.  동의 표현으로는 stark naked / with nothing on / buck naked / in birthday suit / in the altogether 등이 있습니다. 
     * 그는 실오라기 하나 걸치지 않고 티비를 보고 있었다. He was watching TV without a stitch on.
 * 나시; camisole; 끈나시, 캐미솔; cami
@@ -305,8 +306,9 @@ are you afraid of heights? your zipper is
 * 스포츠 자켓	‘bleɪzə(r)] blazer나 sports jacket 
 * 겉옷, 잠바, 재킷	jacket
 * 머리부터 넣는 스웨터나 두꺼운 셔츠, 또는 #소매가 없는 원피스	jumper
-* ‘소매를 올리다	roll up sleeves
-* 소매가 길어요; the sleeves are long
+  *  ※ wife beater: 흰색 민소매 티; 이 명칭은 1947년 아내를 때려서(beats his wife) 숨지게 한 남자가 언론에 사진으로 다수 노출이 되었는데 그가 흰색 민소매 티를 입었던 것에서 유래된 표현입니다~  셔츠 이름 치고 너무 가혹한 표현이죠?;;;
+  * ‘소매를 올리다	roll up sleeves
+  * 소매가 길어요; the sleeves are long
 * #roll-up-your-sleeves attitude
 * 반정장의, 반예장하는	sèmifɔ́:rməl semiformal
 * #길거리 패션	streetwear 
@@ -394,3 +396,7 @@ are you afraid of heights? your zipper is
  * 다림질하지 마세요 - do not iron
  * 섬유 유연제 넣는거 까먹었어? Did you foget the fabric softener a
  * 지금 빨래방에 왔어요; We're at the laundromat laundromat
+
+ # 악세사리
+ * 손목시계: Wrist
+ * 목걸이: neck; necklace

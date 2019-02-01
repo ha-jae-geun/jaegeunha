@@ -59,6 +59,7 @@
 	* 여기서 fair는 ‘(피부, 머리카락) 옅은 색의’란 뜻이고 complexion은 ‘안색, 낯빛’이란 뜻입니다. 그래서 fair complexion이라고 하면 희고 밝은 살결을 뜻하는데 무조건 백인을 말하는 건 아니고 밝은 톤의 건강하고 깨끗한 피부를 통틀어 지칭합니다. 
 	* 나는 모든 색조의 초록색을 좋아해. I love all shades of green.
 * #painted; 진하게 화장한, 얼굴에 #먹칠한
+* touch-up은 '# 수정 화장', '(그림 그리기 등을 할 때) 마지막 마무리'라는 뜻이에요.
 * 보습제를 사용하는 것이 이런 부작용들을 감소시키는 데 도움을 줄거에요. |
 * ‘mɔɪstʃəraɪze dɪ’kri:s Using a moisturizer may help decrease these side effects. 
 * 향수를 뿌리고, 아이 섀도를 바르고, 파운데이션과 볼터치를 해라.
@@ -81,6 +82,8 @@
 	* 세안으로 닦을 때; Then you wash it off thoroughly ˈθɜːr-]  영국식 [ˈθʌrəli]
 * 선크림	Sunblock, Sun Screen
 * #건조; my skin is dry and combination
+	* 입술이 # 텄다; # 트다; chapstick; My lips are chapped; have chapped lips
+	* 손이 트다; i have dried-out hands; have cracked hands; My hands are chapped
 * #여드름이 잘 나는 피부에요; my skin is #acne prone = I have a lot of acne
 * 피부가 매끄럽지 못해요; my skin is uneven  #breakout / acne / rash
 * #기미가 생겨요; I have been getting #blemished on my cheeks

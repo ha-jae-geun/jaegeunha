@@ -39,6 +39,8 @@
 * 혼인 신고; they signed the register
 * 정약 결혼은 순조롭게 진행되지 않아요; THis arranged marriage to Sansa doesnt go very well
 * 결혼여부: 미혼, 결혼, 별거, 이혼, 사별로 혼자가 됨; marital[ˈmærɪtl]  status; single, married, separated, divorced, widowed
+* '결혼식 준비하다'를 직역해서 'prepare (for) a wedding'이라고 하면 좀 어색해요. 보통 plan a wedding이라고 합니다. '웨딩 플래너'라는 말을 생각하면 기억하기 쉽겠죠?
+	* 결혼식은 어떻게 준비하죠? How do you plan a wedding?
 ------
 * ☆당신에게 완전 반했습니다. / 관심이 있습니다.
 I have a big crush on you / I have a thing for you, i'm into you
@@ -786,6 +788,8 @@ I have a big crush on you / I have a thing for you, i'm into you
  * 전 제 이상형을 기다리고 있어요.					 I'm waiting for my Mr. Right.
  	* 그는 그가 꿈꾸던 사람과 결혼했다. He married to the woman of his dreams. [사람 of one’s dreams]
  	* 이상적인 남친이 아니에요; He's not boyfriend/girlfriend material
+ 	* type은 '이상형'이에요. ideal type, ideal man/woman이라고도 하고요!
+ 		* 너 이상형 있어? Do you have a type?
  * 너 누구 만나고(사귀고) 있니?						 Are you seeing her?
  * Nobody special. 이라는 뜻은 만나긴 하는데 특별한 사이는 아니라는 뜻
  * noʊbədi ‘speʃl

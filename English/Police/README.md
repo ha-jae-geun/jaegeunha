@@ -295,6 +295,8 @@
   * 나일강 살인사건은 모든 면에서 정통 추리소설이다. Death on the Nile is a classic whodunnit in every sense.
 * #범인 #공범 confederate 미국·영국 [kən|fedərət]
   * 경찰은 마침내 진범을 체포했다. * #culprit; we could find the culprit
+  * '현행범으로 체포되다, 현장에서 잡히다'라는 뜻이에요. 'red-handed'는 직역하면 '손이 빨간, 피투성이인 상태를 말하는데요. 살인을 저지른 범죄자가 현장에서 잡힌다면 손이 피투성이겠죠? 그래서 요 표현은 '현행범으로 붙잡히다'라는 뜻이에요.  실제 범죄를 말할 때뿐만 아니라, 일상에서도 바람직하지 않은 행동을 하다가 현장에서 '딱 걸렸다'고 말할 때 쓸 수 있어요! 스티븐의 아내가 루크 에반스와 대화하다가 딱 걸렸던 요 상황으로 기억해보세요.
+    * 그 사람은 바람 피다가 현장에서 딱 걸렸어. [ex] He was caught red-handed cheating on his wife.
   * 동사로 perpetrate 는 '(나쁜짓을) 저지르다/범하다' 라는 뜻이 있습니다. 불법적이고, 비윤리적이고, 해를 가하는 행동을 하는 사람을 perpetrator 라고 합니다.
     * 이런 짓을 한 나쁜놈은 정의를 마주할 준비가 되어 있어야 할 거야. ex) The perpetrator of this act has to be prepared to face justice.
   * ǝkάmplis/ǝkɔ́m- #accomplice

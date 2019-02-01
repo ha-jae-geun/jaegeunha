@@ -48,6 +48,10 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 * 곱창; entrails -> beef/pork intestines
 * 육식 meat diet; 육식을 하다 eat meat
 * (닭고기) 가슴살로만 주세요; Whit meat only
+* 안심; tenderloin dərl-]  영국식 [ˈtendəlɔɪn] 
+	* 등심: loin
+	* 목살: Boston Butt
+	* 갈비; Spareribs / Rib
 
 # Kitchen
 * #앞접시; please give me a #small plate

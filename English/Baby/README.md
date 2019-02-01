@@ -7,9 +7,14 @@
 	* 아기 침대 사주자; Let's get her a crib for her baby shower
 * 버릇없는 아이; spoined kid
 	* 행동거지 나쁜 아이; brat
+* 'run wild'는 '제멋대로 날뛰다, 자라다'라는 의미죠. 아이들이나 동물 등에게 자주 사용하는 표현입니다.
+  * 자녀가 제멋대로 자라게 두지 마라. [ex] You'd better not let your children run wild.
+  * 하지만, 예문에서처럼 '살아있지 않은 주체(예: imagination)'에 대해 사용하는 경우에는, 비유적으로 '제멋대로 전개되다'의 뜻으로 사용한 거에요.
+    * 네 감정이 주체못하게 흘러가기 전에 알았으면 좋겠는 건, 네가 들은 건 단지 가설일 뿐이라는 거야. [ex] Before your emotions run wild, I want you to know that what you heard is merely a hypothesis.
 * #alligator arms #용변 연습용 팬티; 
 	* #training pants #배변 훈련; #potty training 
 * 둘쨰를 가지고 난 이후에 ;After my second child
+
 
 # 놀이
 * 일반 가정집에서 아기방으로 꾸며 놓은 방은 nursery 라고 해요. 아기가 커서 놀이방이 필요할 때 놀이방은 playroom 이라고 하고요. 참고로 동요, 자장가 등 아기들이 듣는 음악을 nursery rhymes 라고 하기도 합니다. 주로 누군가를 돌보는 장소에 nurse 관련 단어가 붙는 경우가 많은데요. 아이들이 가는 어린이집은 보통 daycare (0-5살) 라고 하지만 nursery school 이라고 주로 3살부터 6살까지 주로 학습보다는 놀이를 통한 보육을 하는 곳이고요. 줄여서 그냥 nursery 라고 하기도 해요. 노인분들을 위한 양로원은 nursing home 이라고 합니다.

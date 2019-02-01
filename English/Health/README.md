@@ -396,6 +396,7 @@
 * 나 ##암진단 받았어요 		 (with)힘든쪽 1daɪəg2noʊs 	
   * I was diagnosed with cancer. 
 * #암 의사 #oncologist(#종양학자)
+  * # 양성; - test positive for ~ :  ~에 대해 양성 판정을 받다 - test negative for ~: ~에 대해 # 음성 판정을 받다
 * #1기 2기 3기 4기 #stage 4
 * #갑상선 #thyroid
 * #항암 #kimo
