@@ -575,6 +575,7 @@
 * 넌 걱정이 많은 사람이야 #worry wart You’re such a worry #wart(사마귀)
 	* 굉장히 걱정하다; be worried sick
 	* 고민이 많아요; i have a lot on my mind = i have many worries
+	* 잠도 못자고 걱정하다 i lost sleep over that.; worry a great deal about that
 * #진정제 #sedative(쎄디티브)
 * #진정제 주세요; #sedate him
 * it's #soothing and #calm
@@ -1895,6 +1896,7 @@ I am always overlooked(간과), never discount the contributions, put someone do
 * 이 사람이 제가 하지 않은 말을 했다고 하는군요. 		 He's putting words in my mouth. 
 * 오해하지 마세요. 							 Don't get me wrong. 
 	* 아, 그래요. 우리가 오해한 것 같아요. Oh , yeah . I think we got our wires crossed .
+	* 오해를 풀어야 해; You have to set her straight by yourself; put/set somebody staright about/on something
 	* 내가 널 잘못봤군; I was wrong about you
 	* 오해를 풀고 싶어요. 					 I want to clear up the misunderstanding. 
 	* 오해가 있는 것 같애; There seems to be a misunderstanding

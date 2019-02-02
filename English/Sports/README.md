@@ -1,5 +1,6 @@
 
 -------------
+* 할리우드 액션이에요; It's a grandstand play
 * 반사신경 좋아요; He is very athletic; have good reflexes; have quick reflexes
 	* #운동 신경; I have good #motor skills / #motor nerve = be #athletic
 * 스포츠 해설자 a sports commentator

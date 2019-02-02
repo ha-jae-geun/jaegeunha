@@ -13,7 +13,7 @@
 
 
 ##영어
-0118
+0130
 * 테드 https://www.ted.com/
 -------------
 *   MLB http://post.naver.com/my/series/detail.nhn?seriesNo=46475&memberNo=449115
@@ -123,14 +123,11 @@
 * 한톡 https://m.post.naver.com/my.nhn?memberNo=37585159
 * 포포 https://m.blog.naver.com/PostList.nhn?blogId=suri0367&currentPage=1
 * GEE https://m.blog.naver.com/PostList.nhn?blogId=blessgee
-* 꾸르꿀 https://m.post.naver.com/my.nhn?memberNo=43677109
-* 영어 약장수 https://m.blog.naver.com/PostList.nhn?blogId=pcmi4easy_english
 * YBM https://m.post.naver.com/my.nhn?memberNo=3503094
 * 지니샘 https://m.blog.naver.com/PostList.nhn?blogId=33yujin
 * 4EverYoung https://m.blog.naver.com/PostList.nhn?blogId=ireneyoung96
 * 영어놀이터 https://m.blog.naver.com/PostList.nhn?blogId=epg8307
 * LEX & Language https://m.blog.naver.com/PostList.nhn?blogId=chillaxer
-* 영어에 대해 알고가세요 https://m.blog.naver.com/PostList.nhn?blogId=allinoneedutech
 * Eat Love Create https://m.blog.naver.com/PostList.nhn?blogId=countmonte7&currentPage=1
 * 멀리맘 https://m.blog.naver.com/PostList.nhn?blogId=morleymom
 * 한국번역연구소 https://blog.naver.com/ktri8888

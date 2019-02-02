@@ -12,6 +12,7 @@
 * 이거 전문가가 만든 것 같은 맛이야; This tatstes like a professional made it  
 * 하루 종일 걸은 것 같아; It feels like i walked all day
   * 아직도 걷고 있거나 걷는 걸 방금 멈췄을 때; It feels like i've been walking all day
+* 비가 올것 같아; It looks like it's going to rain
 
 # 감각동사 - PART 1 (기본개념) - look, sound, smell, taste, feel
 * 생긴게 저렴해보여요; This looks cheap

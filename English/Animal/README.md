@@ -1,3 +1,13 @@
+# 동물 진화
+* 소: 수소: bull, 암소: cow, 송아지: calf [kæf]
+* 수오리: drake, 암오리: duck, 아기오리:duckling
+* 수사자: lion, 암사자: lioness, 아기사자: lion cub
+* 수호랑이: tiger, 암호랑이: tigress, ˈtaɪɡrəs] 아기 호랑이: tiger club
+* 수사슴: deer, 암사슴: doe, 아기사슴: fawn
+* 수양: ram, 암양: ewe [juː]  , 아기양: lamb
+* 수말: stallionˈstæliən] , 암말: mare, [mer] 아기말: foal [foʊl]
+* 수고양이: tom, 암고양이: queen, 아기고양이: kitten
+
 # 동물 속담
 * 큰일 났따; Goose is cooked
 

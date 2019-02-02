@@ -107,7 +107,9 @@
 * #죽다
 * Memorial ceremony = Ancestral memorial ceremony = Ancestral rite/ritual
 * ##제사
-* 성묘를 가다 visit graves of our ancestors
+	* 성묘를 가다 visit graves of our ancestor
+	* ancestral rite" 라고도 하거나  아님 그냥 '의식'이라는 의미의 'ritual' 을 써서 제사를 표현할 수 있답니다.  '의식을 행한다' 에서 '행한다' 를 표현하기 위해 "practice" 라는 동사를 사용하시면 돼요!
+		* "My famliy used to practice all the rituals on Seollal."
 * #무덤 #grave, #tomb
 * 무덤을 팠네; #ask for; he #asked for it
 * 자기 무덤을 파다; #shoot youself in your foot

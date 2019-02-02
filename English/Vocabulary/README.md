@@ -209,6 +209,9 @@
 ## afraid 
 * 유감이지만 그런 것 같아. = (I'm) Afraid so.
 
+## affair
+* 지금 현상황은 더 이상 용납되지 않을 거야. The present state of affairs can't be allowed to continue; state of affair: 현상태
+
 ## ahead
 * get ahead in 다음에 어떤 특정 '분야'를 넣으면 '그 분야에서 출세하다, 성공하다'는 의미가 됩니다.
   * 사업이 잘 나가기 위해선 때때로 이기적이어야 할 필요가 있다. Sometimes you need to be selfish to get ahead in business.
@@ -232,6 +235,9 @@
 ## against
 * [hold … against ~] : …때문에 ~를 안 좋게 보다, 원망하다 과거의 어떤 일로 그 사람에 대해서 계속 화가 나거나 기분나빠 하는 상태로 있는 것을 뜻하는 표현입니다. 어순은 〔hold 사건 against 사람〕 입니다.
   * 미안하다고 말 했잖아! 도대체 얼마나 오래 날 원망할 생각이야? I said I’m sorry! How long do you plan to hold it against me?
+
+## aisle
+* ('통로를 걸어 내려가다') "walk down the aisle" 
 
 ## air
 * 아무것도 없는 상태로부터, 무에서 = out of thin air 1) air 는 눈에 보이지 않는 것인데, 심지어 thin 한 공기는 거의 느껴지지도 않겠죠? 없는 거예요. 무언가를 만들 때 [out of + 재료] 를 써서 [을 사용하여] 라는 의미를 가지기 때문에 out of thin air 는 영상에서처럼 무에서 유를 만들어낼 때 쓰는 표현이에요.
@@ -401,6 +407,7 @@
 
 ## best
 * : (어떤 상황을) 최대한 즐긴다, (가진 게 부족해도) 최대한 활용하다 make the best of (a situation)
+* 당신이 해안과 시골 지역을 즐긴다면 이번 걷기 여행이 당신에게는 일거양득의 기회가 될 겁니다. If you enjoy the coast and the country, you’ll get the best of both worlds on this walk; 일거양득 the best of both/all possible worlds
 
 ## bet
 * : 원래 뜻은 '니 엉덩일 걸어도 될 정도로 정말/진짜/확실히/당연히 ~야!' 에 가까운데요. 뉘앙스를 담아 우리말 슬랭으로 옮기면 "당근 빠따로 ~지!" 정도예요. "당연하지!"라는 말을 좀 더 유쾌하게, 강하게 하고 싶을 때 써보세요! 
@@ -607,6 +614,7 @@
   * 일방적으로 갈구다; bitch someone out
 
 ## bubble
+* 생각 풍선; thought bubble
 * someone's bubble 은 [잘못된 믿음/생각] 을 의미하는 단어에요. 주로 burst someone's bubble 이라는 표현을 많이 쓰는데요. [희망/잘못된 믿음/생각 등을 없애다] = [현실을 깨닫게 해주다] 의 의미를 가집니다. 영상에서는 제니퍼가 팁에 대해서 그간 잘못 생각해왔다는 것을 말하기 위해 bubble 이라는 단어를 썼어요. 또, '자기만의 세상'에서 살고 다른 사람들의 삶이 어떤지 잘 모르는 사람 보고 "They're living in a bubble." "버블 속, 방울 속에서 살고 있다"고 해요. 특히 부잣집에서 자라 세상 물정을 잘 모르는 사람을 두고 하는 말입니다.
   * 제임스는 사라가 자기를 좋아한다고 생각해. 있는 그대로 알려줘야 해야 할지 모르겠네. ex) James thinks Sarah likes him. I don't know if I have to burst his bubble or not.
 
@@ -1330,6 +1338,9 @@
 ## chest
 * 하도 많이 들어서 새로울 게 없는 이야기, 케케묵은 이야기를 의미하는 단어입니다. 영상에서는 사람들이 자주 이런 일을 겪고 그런 이야기를 자주 듣기 때문에 썼고, 의역하여 [그럴 때 있죠 / 자주들 그러죠] 의 의미로 해석이 되었습니다. = That(An) old chestnut.
   * "너 제임스가 구여친 로즈랑 다시 사귄다는 거 들었어?" "걔들 맨날 그래." ex) "Did you hear that James's back with his ex Rose?" "That old chestnut."
+
+## cheap
+* 치사하게 굴지 마; Don't be so cheap
 
 ## cheat
 * cheat는 말 그대로 '속여서 어떤 이득을 얻는 것'을 가리키는데, 계속 싱겁고 팍팍한 것들만 먹다보면 질려서 포기하는 경우가 많기 때문에, 일주일에 한 번은 먹고 싶은 것을 먹게 식단을 짜는 경우가 많습니다. 그때 먹는 음식을 바로 'cheat meal'이라고 하는 거죠~ 하루 동안 '아무 거나 먹는 날'이라고 하면 cheat day라고 하고요!
@@ -2082,6 +2093,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 조기 진단은 생존 확률을 높일 수 있습니다. [ex] Early diagnosis can increase chances of survival.
 
 ## ear
+* 귀가 간지러; My ears are burning
 * 'for one's ears (eyes) only'는 말 그대로 '그 사람만 들어야(봐야) 한다'는 의미도 있지만 기밀사항을 나타낼 때 자주 이용하는 표현이기도 해요!
   * 알았어. 보여줄게. 근데 이건 너만 봐야 해. Okay I'll show you. But this is for your eyes only.
 * 상황을 보아가며 결정하다; play it by ear
@@ -2325,6 +2337,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 담배꽁초가 화재를 일으킨 것으로 보입니다. It is believed that a cigarette butt started the fire.
   * 누가 이거에 불 붙였어? Who set this on fire?
 
+## fly
+* 이용자 참여  많은 소문들이 나돌고 있다.  There are a lot of rumors flying around. 듣기
+* (귀찮게 하지 말고) 좀 사라져 줘 (go) fly a/your kite 미국식  영국식   단어장추가
+* 버럭 화를 내다 fly off the handle 미국식  영국식   단어장추가
+
 ## flush
 * 1) flush 는 [물로 을 씻어내다] 라는 뜻이 있어요. out 과 함께 쓰이면 액체를 가지고 뭔가를 밖으로 배출시키는 것입니다. 2) flush 와 out 사이에 목적어가 들어갈 수 있는데요, 여기선 you, 즉 일반적인 사람이 들어갔기 때문에 [사람을 씻어 배출해 내다 = 독소를 빼내다] 라는 의미로 쓰였답니다.
   * 이것이 바이러스들을 당신 몸 밖으로 배출시키는 것을 도와줄거에요. ex) This will help you flush viruses out of your body.
@@ -2546,6 +2563,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 포커 게임 하는 데 있어 상대를 심리적으로 잘 조종하는 것이 중요해. [ex] When playing poker, it's all about playing mind games.
 * game은 '할 의지가 있다'라는 뜻. 제안에 응할 때 쓰기 좋은 캐주얼한 표현이에요!
   * 응, 나야 좋지. B: Sure, I'm game.
+
+## goal
+* 결승점에 도달하다 to make[reach, hit] the goal 미국식  영국식   단어장추가
 
 ## god
 * 'God forbid'는 '어떤 것이 일어나지 않기를 바라는 강렬한 소망을 표현'하는 방식이랍니다.
@@ -3083,6 +3103,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## horizon
 * 이 작은 마을에서 나와서 시야를 넓힐 시간이야. ex) It's time to get out of this small town and broaden my horizons.
 
+## hole
+* 맛집; hole in the wall
+
 ## holla
 * hollaback girl 이 어떤 느낌의 단어인지 알기 위해서는 hollaback 의 의미를 아는 게 필요한데요. 속어로 holla back 은 누군가가 자신에게 부정적인 말을 뱉어내면 똑같이 말로 갚아주는 걸 의미해요. 어떻게 보면 나쁘지 않은 의미인데, 그 이면에는 '말로만' 갚아주고 본때는 보여주지 않는 의미를 가지고 있기도 합니다. 영상에서 나오는 노래인 Hollaback Gril 은 스테파니 그웬의 노래인데요. 영화배우인 코트니 러브가 한 잡지와 한 인터뷰에서 스테파니 그웬을 씹는 듯한 발언을 하자 스테파니가 발표한 곡으로 [난 말로만 되받는 여자가 아니니까 제대로 보여줄게] 라는 의미를 가지고 있답니다.
   * 걔들이 내 험담을 하고 있어서 말로 갚아줘야 했어. ex) They were talking trash about me, so I had to holla back.
@@ -3192,6 +3215,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * hat은 ‘직책, 역할’을 의미하기도 합니다. 그래서 wear도 ‘직책을 맡다’가 되겠네요. 그리고 “50 hats”는 진짜로 세보니 직책이 50가지라는 것이 아니라 그 만큼 많은 일을 맡아서 한다는 얘기겠죠?
   * 이 영화에서 그녀는 감독과 여배우라는 역할을 맡고 있다. For this movie, she is wearing the hats of director and actress.
 
+## handle
+* 버럭 화를 내다 fly off the handle 미국식  영국식   단어장추가
+
 ## handy
 * 이 도구는 물건들 고치는 데 아주 유용하다. [ex] It's a very handy tool for fixing things. 1. 편리한, 유용한
 * 휴대폰 가까이에 둬. 내가 나중에 전화할게. [ex] Keep your mobile handy. I'll call you later. 2. 가까이, 즉시 이용하기 편한 곳에 있는
@@ -3199,6 +3225,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 이것저것 수리를 잘 하고 만들기도 잘하는 손재주 좋은 사람을 뜻해요. 진짜 '수리공'을 뜻하는 말로 쓰기도 하고요. 4. handyman
 
 ## hand
+* 우리들은 손이 모자란다. We work shorthanded. 미국식  영국식   단어장추가
 * 승리의 패; winning hand; He held the winning hand in the card game
 * 헌옷 She got all the hand-me-downs
 * have time on one's hands: 시간이 남는다, 시간이 있다. had a little time on my hands
@@ -3216,6 +3243,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * <>take
 * have an operation
 * i can have you arrested; 대상을 소유한다 = 행동한다
+
+### have to
+* 정말이지 -했다고; i have to say, 
 
 ## hypothe
 * theoretical 과 차이를 두고 의미를 알아두시면 좋을 것 같아요. theory 가 [이론] 이라는 뜻이 있어서 theoretical 은 [이론적으론, 이론적으론 가능한] 이라는 의미를 가지는데요. 아직 해 본 적은 없지만 타당한 논리와 증거를 가지고 말할 때 쓰는 반면, hypothetical 은 말 그대로 가상의 무언가 이기 때문에 증거가 없는 가설에 근거하여 말할 때 쓰는 단어입니다. [만약에 ~라면 말이야] 라고 말할 때 Hypothetically 라고 해주시면 됩니다.
@@ -3310,6 +3340,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 	* 의회는 그 제안에 대해 논의하기 시작했다. [ex] The House began debating the proposal.
 * 1) play house 는 어린 아이들이 성인 흉내를 내며 각종 가사를 하며 노는 [소꿉놀이를 하다, 엄마 아빠 놀이를 하다]라는 의미를 가져요. 
   * 우리 엄마 아빠 놀이하자! ex) Let's play house!
+
+### household
+* 5G 이동통신에 대해 영어로 말하기|작성자 knowhereman has become a household name in Korea 한국에서는 아주 익숙한 용어가 되었다
 
 ## hang
  * hang out = #hang
@@ -3690,6 +3723,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 그 전리품을 나눌 때이다. It's time to divide the loot.
 
 ## loop
+* 회사 그만둬서 전혀 몰랐네. 걔네 사귀고 있는 거 전혀 몰랐어. I've been out of the loop since I quit working. I didn't realize they are going out.
 * 소외감을 느끼다(정보나 지식의 부족으로 인해)          feel out of the loop
   * 내가 휴가를 갔다온 이후로 현재 상황에 대해 통보받고 있지 않다.
   * I have been out of the loop since I went on holiday.
@@ -4450,6 +4484,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 만약 회사에서 보너스(=perk)를 받는다면, 매우 신나서 없던 기운도 살아나겠죠? ^^ 동사로 perk 은 병이나 피로, 우울감 등 부정적인 상태를 극복하고 몸과 마음이 밝아진다는 뜻이에요. 영상에서는 커피가 아침에 기운을 차리게 해주기 때문에 ‘아침용 자양강장제’라고 표현하였습니다. 
   * 따뜻한 핫초코 한 잔 마실래? 마시고 나면 기운이 좀 날거야.How about a cup of hot chocolate? It might perk you up. 
 
+## palate
+* 입가심; 입가심용으로 좋다고 할 때는  it’s a good palate cleanser. 
+
 ## pale
 * 원래 형용사로 안색이 [창백한] 을 의미로 가장 많이 쓰입니다만, 동사로는 무언가가 덜 중요하게 보이거나 덜 인상적으로 보일 때 많이 쓰이며 [별것 아니게 느껴지다] 정도로 해석이 됩니다. pale into insignificance라는 숙어도 함께 알아두시면 좋은데요. [빛이 바래다, 중요성을 잃다]를 의미합니다.
 	* = 건강을 잃으면 다른 모든 것들은 중요하지 않게 되지. All else pales into insignificance when you lose your health.
@@ -4648,6 +4685,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 밑에 작은 글씨로 써진 약관을 잘 읽었어야지. You should’ve read the fine print. 
 
 ## practice
+* ancestral rite" 라고도 하거나  아님 그냥 '의식'이라는 의미의 'ritual' 을 써서 제사를 표현할 수 있답니다.  '의식을 행한다' 에서 '행한다' 를 표현하기 위해 "practice" 라는 동사를 사용하시면 돼요!
+    * "My famliy used to practice all the rituals on Seollal."
 * 여기서 practice는 ‘실행, 실천’이란 뜻이고 실행에 두는 것(put into)이니까 “행하다, 실천하다, 실재로 하다”란 의미가 됩니다. ‘무엇을’ 실행에 옮기는지 표현하려면 put과 into사이에 명사를 넣어주세요.
   * 그거 실재로 해보자.  Let’s put that into practice. 
 * # 실행; 'put (sth) into practice'는 우리말 '[무엇을] 실행에 옮기다' '실천하다'를 잘 나타낼 수 있는 영어표현이에요! 쓸모가 많겠죠?
@@ -4919,6 +4958,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
  * #Wordplay (언어 유희)
 
 ## present
+* : 로나가 참석하겠다고 우겼었습니다. Launa insisted on being present
 * 만약 Thanks for being present 를 회의실에서 했다면 “참석해 주셔서 감사합니다”가 되겠지만, 여기서는 ‘도움이 되다, 옆에 있어주다’를 뜻합니다. 옆에 있으면서(be present) 도움이 되어 주거나, 얘기를 들어주거나, 아니면 함께 있어주는 것만으로도 고맙다는 걸 의미하죠.  성탄절이나 추수감사절에도 be present 라는 말이 종종 나오는데요, 단순히 명절에 참석하라는 말이 아니라, 그 시간을 온전히 가족을 위해 쓰고, 가족들 옆에 있어주라는 의미가 포함되어 있습니다. 
 	* 애들이 금방 크는 건 막을 수 없겠지만, 애들이 자랄 때 옆에 함께 해줄 순 있어요. We can’t stop our children growing up so fast, but we can be present. 
 * 형용사 ‘존재하는’의 present에서 명사로 presence가 된 것입니다. 우리말로는 ‘존재함, 있음’인데 문맥에 따라 보이지는 않지만 존재한다고 느껴지는 것, 즉 ‘귀신, 영혼, 신비한 존재’를 뜻하기도 합니다. 이 외에 귀신, 영혼을 뜻하는 단어로는 ghost, spirit, phantom 등이 있습니다.
@@ -5106,6 +5146,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * #round off; #마무리 짓다; round something off with something
 
 ## roll
+* 소매 올려 / 바지 단 접어 Roll up your sleeves / Roll up your pants
 * 걱정마. 우리의 계획은 완벽하게 먹힐 테니까. (roll out: 먹히다, 굴러가다) Don’t worry. Our plan will roll out perfectly.
 * roll off the tongue는 '발음하기 쉽다', '발음이 자연스럽게 잘 된다(입에 붙는다)'라는 뜻입니다. 직역하면 '혀(tongue)를 따라 또르르 굴러간다(roll off)' 이런 느낌이랍니다!
   * 그녀의 이름이 너무 길어서 발음하기 쉽지가 않아. Her name is so long. It doesn't roll off the tongue.
@@ -5821,6 +5862,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그 사람이 날 오두막에 두고 가버렸어. (여기서 '나'는 오두막을 떠날 방법이 없음을 내포) He left me stranded in the cabin.
 
 ## straight
+* 오해를 풀어야 해; You have to set her straight by yourself; put/set somebody staright about/on something
 * straight up : 맞아, 정말로? 2) 영상에서처럼 다른 사람의 말 뒤에, "정말이니?" 라고 물어볼 때 쓰는 경우가 있습니다. 
   * 걱정마, 널 다치게 하진 않을거야. 정말이야. ex) Don't worry. I won't hurt you. Straight up.
 * straight: 이성애자; straighten out: 바로잡다; straighten up your back: 정돈하다 
@@ -5981,6 +6023,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   *  저는 B로 정합니다. [ex]  I'm settling on plan B.
 
 ## set
+* 오해를 풀어야 해; You have to set her straight by yourself; put/set somebody staright about/on something
 * 비가 하루 종일 내릴 기세로 시작한 것 같았다. The rain seemed to have set in for the day. 
 * 그들이 기계에 시동을 걸었다. They set the machinery in motion. 
 	* 움직이게끔(in motion) 시작시키는(set) 모습의 단어이기에 무언가 작동하지 않는 것을 작동하게 하고, 움직이게 하는 것을 의미합니다. 또한 이어지는 일들에 시동을 걸고 시작하는 것을 의미하기도 해요. 목적어를 중간에 쓰기도 하고, [set in motion + 목적어]로 쓰기도 합니다. 참고로 set the wheels in motion 이란 표현도 종종 쓰는데요, 바퀴가 굴러가게끔 하는 모습에서 나온 표현으로 [절차를 시작하다] 라는 의미를 가집니다.
@@ -6021,6 +6064,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * stage는 '무대, 연극'이라는 의미가 있는데 이 뜻에서 '(공연, 행사를) 무대에 올리다, 개최하다' 그리고 '(어떤 목적을 위해 무엇을) 꾀하다, 연출하다'라는 동사의 의미로 발전했습니다.
   * 그 이벤트를 오랫동안 기획했다. They've staged the event for a long time.
 * 무대 공포증 있다. I have stage fright.
+
+## state
+* 지금 현상황은 더 이상 용납되지 않을 거야. The present state of affairs can't be allowed to continue.
 
 ## statement
 * statement lip은 입술을 강조한 메이크업을 말해요. 입술을 제외한 부분을 최소한으로 정돈하고, 과감한 컬러의 립으로 스타일을 결정짓는 메이크업이죠. 'statement'는 '진술/성명서'로 잘 알려져있는데요, 이런 경우 자기 의견에 대한 '주장/표출'을 의미합니다. 즉 makeup 혹은 fashion에서 statement란 과감한 시도로 'make a statement', 확실한 자기 주장, 어필, 개성을 표현하는 거예요.
@@ -6134,6 +6180,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 전혀 기회가 없을 것 같은데. ex) I don't think there's a shot in hell.
 
 ## short
+* 우리들은 손이 모자란다. We work shorthanded. 미국식  영국식   단어장추가
 * sell OOO short : ~을 과소평가하다
   * 스스로를 과소평가하지 마. 너 굉장히 재능 있어. Don't sell yourself short. You're very talented.
 * short에는 '부족한, 모자란'의 의미가 있어요~ short on OO은 '무엇이 부족하다, 모자라다'는 뜻이지요. short of 뒤에는 구체적인 사물이 오는 경우가  많은 반면 short on 뒤에는 주로 추상적인 것이 오는 경우가 많습니다.  
@@ -6186,6 +6233,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그는 춤에 대해 아무 것도 몰라. He doesn't know squat about dancing.
 
 ## square
+* 아재처럼 보이고 싶진 않을 거 아냐 You don't want to look like a square
 * square 가 가장 기본적인 의미로는 [정사각형] 을 의미하는데요. 정사각형은 모든 변이 같잖아요? 그래서 이 단어가 동사로 쓰일 땐 A square with B 처럼 쓰여서 [A와 B가 일치하다] 라는 의미를 가집니다.  영상에서는 이미 with 의 의미를 내포하고 있는 together 가 쓰였기에 with 는 쓰지 않았습니다.
 	* = 이 데이터는 그가 오늘 아침에 우리한테 설명한 거랑 맞지가 않는데. This data don't square with what he explained to us this morning.
 * 이 제안이 받아들여지지 않으면 우리는 원점으로 되돌아가게 될 것이다. If this suggestion isn’t accepted, we’ll be back to square one. 
@@ -6276,6 +6324,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 	* 그의 심각한 모습에도 불구하고, 그는 굉장히 마음이 따뜻한 사람이야. ex) Despite his stern look, he is a very warm-hearted person.
 
 ## sugar
+* 유리당  free sugar 설탕 덩어리 <> free sugar
 * 'give sb some sugar'는 '~에게 애정표현(주로 뽀뽀)을 하다'라는 뜻이죠^^ 구어체의 informal(비격식)한 관용어입니다.
   * 아가, 이리와서 뽀뽀 좀 해주련. Come here sweetie, and give me some sugar.
                                 
@@ -6488,12 +6537,16 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * #천년 주기 #millennium; around the #turn of the millenium
 
 ## tuck
+* 셔츠 넣어서 입어. 와이셔츠 빼 입지 마. Don’t wear dress shirts untucked. 
 * 셔츠 자락이 나와 있어. 바지에 집어넣어. Your shirt is hanging out. Tuck it in.
 * 아이들은 스튜를 정말 게걸스럽게 먹었다. The kids really tucked into the stew.
 * 내가 재워줄게; I'll be happy to tuck you in 2. 집어 넣다; he tucked in his shirt 3. 열심히 먹다; he was tucking in a large pizza
 * 1) tuck away 는 무언가를 잘 보이지 않는 곳에 위치시키다-라는 뉘앙스의 뜻으로 장소의 경우엔 영상에서처럼 수동태로 쓰여서 [한적한 곳에 위치하다] 라는 의미를 가져요. 건물뿐만이 아니라 '사람' 에도 쓰일 수 있습니다.
   * 우리 아버지 별장은 산속 조용한 곳에 위치하고 있어요. ex) My father's cottage is tucked away in a forest.
 * 테드는 저녁을 실컷 먹었어. 내 생각엔 그가 배고팠던것 같아. ex) Ted tucked into dinner. I think he was hungry.
+
+## tip
+* 어떤 익명의 기자가 JTBC에 제보했어. An anonymous reporter tipped off about JTBC; tip off; 1. 제보  2. 귀띔
 
 ## time
 * : 'do time' 은 기본적으로 '징역을 살다'라는 뜻인데, 이렇게 '할 만큼 하다, 충분히 하다', 또는 '값을 치르다'라는 비유적인 뜻으로 쓰기도 한답니다.
@@ -6541,6 +6594,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 경험에 바탕을 준 법칙; a handy rule of thumb; 2. 어림 짐작햇; as a rule of thumb
 
 ## thick
+* 공기가 먼지로 자욱해요; "The air is thick with dust."
 * thick 은 [빽빽한/두꺼운] 의 의미를 가지는 단어에요. 뭔가 빽빽하게 가득차있는 것 안에 들어가 있는 뉘앙스의 표현입니다.  = in the thick of; ~이 한창일 때, ~의 중심에 있는
   * 제이슨은 논쟁의 중심에 있는 것을 즐긴다. ex) Jason enjoys being in the thick of controversies.
   * 뚱뚱하다; Yoou're thick as heck
@@ -6990,6 +7044,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## visit
 * 어렵지 않은 표현이지만 visit 자체를 명사로 많이 쓰는 연습이 되어 있지 않다면 쉽게 떠오르지 않는 표현일 수도 있어요! visit 이 명사로 쓰이는 또다른 유용한 표현으로는 [방문하다] 라는 의미의 pay a visit 도 있답니다.
 
+## wave
+* 아버지와 의기투합하여 제이콥은 그 일을 해결키로 했다. Jacob decided to take on the issue on the same wavelength as his dad. 
+
 ## way
 * 쌍방 관계, 상호 노력이 필요한 관계; 일방 통행길을 one-way street 라고 양방향 다 갈 수 있는 길을 two-way street 라고 하는데서 나온 표현이에요.  당연히 일방적인 관계는 one-way street 라고 하겠죠? two-way 는 형용사로써 서로 함께 노력하고, 서로 상대방으로부터 배우는 것을 나타내는 형용사 입니다.  또한 대표적으로 [two-way communication = 상호 의사소통 / two-way process = 양방향의 과정] 으로도 많이 쓰인답니다.
   * 우정은 둘 다 노력이 필요한 관계야, 일방적인게 아니라. ex) Friendships are a two-way street, not a one-way street.
@@ -7107,6 +7164,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그는 항상 아침 9:30에나 당당하게 들어와서는 사장님이 어떻게 생각할지 전혀 신경도 안써. He waltzes in every morning at 9:30 and doesn't care what his boss thinks.
 
 ## walk
+* 그는 항상 말한 것을 실행한다. He always walks the talk. 
 * 비격식 표현으로 상대방의 감정이나 입장 등을 고려하지 않고 굉장히 못된 태도로 대하는 것을 의미해요. 누군가를 밟고 지나가는 느낌의 단어들이죠? = walk over someone
 	* 걔가 널 함부로 대하게 놔두지 마. 이런 취급을 받을 필요가 없잖아. ex) Don't let him walk over you. You don't deserve this.
 * (고통, 창피를 신경쓰지 말고) 남자 답게 행동해라. walk it off 미국식  영국식 
@@ -7126,6 +7184,12 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 어떤 계층에서 왔든 누구든지 언제든 참여하실 수 있습니다. ex) Anyone from any walk of life is more than welcome to join us.
 * a walk in the park는 관용어로 '(어떤 일이) 아주 쉽다' 또는 우리나라 속담 '누워서 떡 먹기'와 같은 의미를 가져요. 요 표현을 그대로 풀어보면 '공원에서 산책'이잖아요. 공원에서 느긋하게 걷는 것은 아주 쉬운 일이죠. 비슷한 표현으로 "It's a piece of cake."  "그건 식은 죽 먹기야(아주 쉬운 일이야)" 도 함께 기억해주세요.
   * 그 시험은 누워서 떡 먹기었어. The test was a walk in the park.
+
+### walk over
+* 그녀는 언제나 그가 자기를 # 함부로 대하도록 내버려둘 것이다. She’ll always let him walk all over her. 
+
+### walk down
+* ('통로를 걸어 내려가다') "walk down the aisle" 
 
 ### walk away
 * 가족을 떠나지 마. [ex] Don't walk away from your family. 1. (힘든 상황을 외면하고) 떠나다

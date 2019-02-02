@@ -114,9 +114,10 @@ I have a big crush on you / I have a thing for you, i'm into you
 * *have been married; they have been married for 3 years 
 * *√ They plan to ##wed(=marry) 결혼할 예정이다
 * *√ 신혼부부 >>> newly wed couple
-* *√ He's wedded to his job 일이랑 결혼했어
-* *√ 결혼생활 >>> a wedded life 
-* *√ 신혼의 >>> newly wedded 
+	* *√ He's wedded to his job 일이랑 결혼했어
+	* *√ 결혼생활 >>> a wedded life 
+	* *√ 신혼의 >>> newly wedded 
+	* '우리 방금 결혼했어요' "just married" 라는 사인을 달곤 하는데
 * *√ 결혼 10주년 기념일 >>> the 10th anniversary of wedding 
 * *#결혼관; a mistaken idea[notion, concept] of marriage
 * *#미국 결혼

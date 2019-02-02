@@ -1538,6 +1538,7 @@
  * All the books must be sorted by alphabetical order.
  * 일단 빨래에서 흰색 옷을 분류하세요 sort sb/sth out from
  * First sort the white things out from the laundry.
+ * 빨래통에 있었어; he was in your hamper
  * #선별하다; #cherry pick
  * #segregate
  * #sort into; sort socks into various sizes
@@ -2870,6 +2871,7 @@
 
 
 # 모르다
+* 회사 그만둬서 전혀 몰랐네. 걔네 사귀고 있는 거 전혀 몰랐어. I've been out of the loop since I quit working. I didn't realize they are going out.
 * 몰라; I don't know why; There is no reason. It just happens
 * through ignorance 는 ‘무지해서’이고, out of ignorance, because of ignorance, from ignorance 등으로 바꿔 표현할 수도 있습니다. 
   * 이게 다 우리가 무지해서 생긴 일이야. It all happened because of our ignorance. 
@@ -2936,6 +2938,7 @@
  * hrow down the gauntlet:: 결투를 신청하다 = ‘gɔ:ntlət pick up the gauntlet
 
 # 목표
+* 결승점에 도달하다 to make[reach, hit] the goal 미국식  영국식   단어장추가
 * :  여기서 "sights"는 이루고자 하는 것, 목표를 말해요. '목표를 너무 높게 잡다, 야망이 과하다, 기대하는 것이 너무 많다' 라는 뜻이죠!
   * 목표를 너무 높게/낮게 잡은 것 같은데? [ex] It sounds like you're setting your sights too high/low.
   * : 말 그대로는 '판돈을 높이다'인데요. 대결 구도에서 '목표치를 높이다, 경쟁의 판도/레벨을 한 수 높이다' 라는 뜻으로 쓸 수 있어요! 
@@ -3741,6 +3744,7 @@
 * 저를 # 괴롭히는 것이 한 가지 있는데; There's one thing tha treally bugs me
   * [괴롭히다] 라는 의미의 단어는 bully, tease 등 종류에 따라 다른 단어들이 있지만, torment 는 명사로 쓰였을 땐 육체적, 정신적인 [고통, 고뇌, 고민거리] 의 의미가 있는데요. 동사로 쓰였을 땐 이런 종류의 고통을 안겨주는 것을 의미합니다.
     * 넌 질투로 고통 받아선 안 돼. 폴은 그 직위를 위해 정말 열심히 노력했고 자격이 있어. ex) You should not be tormented by jealousy. Paul worked really hard for the position and deserves it.
+    * 그녀는 언제나 그가 자기를 # 함부로 대하도록 내버려둘 것이다. She’ll always let him walk all over her. 
 
 # 배경
 * 장면은 파리로 설정되어있따; The scene is set in Paris
@@ -5157,6 +5161,11 @@ retaliate
  * 그것은 #금시초문인데요.               That is news to me. 
 
 
+# 시제
+* 과거 진행시제; Past continuous
+* 현재 완료; Present perfect
+* 단순 과거시제; SImple Past
+
 # 시차
 * 시차 적응하려고 노력중이야; Just fighting off some jet lag
 
@@ -6154,6 +6163,7 @@ retaliate
   * ~에 의지로 인한; #out of one's will; that's not out of your will
   * #will of steel; #steel = #strong determination(굳건한 의지)
 * # 의미; 무엇에 '너무 의미를 두지 마, 의미를 너무 많이 부여하지 마~'고 할 때 "Don't put too much meaning in/to OO"이라고 말해요~ 응용해 볼까요?
+  * 그곳에 갈 의미가 없다; There is no point in going There
   * 사람의 말을 하는 분위기, 즉 어조 (tone) 밑에 깔려서 (under) 잘 알아차리기 힘든 [함의, 숨은 뜻] 을 undertone 이라고 합니다.
     * = 넌 그의 부드러운 말속에 경고의 뜻이 있었던 걸 알아차리지 못했니? You didn't notice that his soft words had an undertone of warning?
 * # 메시지; 어떤 메시지를 얻었나요? what did you take away from it?
@@ -7639,6 +7649,7 @@ retaliate
  * 아버지가 이 선물을 안좋아하시면 내 손에 ##장을 지진다. I'll eat my hat if my father doesn't like this present.
  * 정이 안가는; I find his manner very #off-putting. 나는 그의 태도가 정말 정이 안 가.
  * # 진짜 # 정말 # 진심 ## 장 ## 정
+ * 정말이지 -했다고; i have to say, 
 
 # 집중
 * 어떤 일에 완전히 주의 집중을 한다는 뜻으로 rapt attention(완전히 집중함), rapt expression(몰입한 얼굴), rapt audience(몰입한 청중) 처럼 표현할 수 있습니다. 
@@ -7859,6 +7870,7 @@ retaliate
   * # 적당 # 정도 # 중도
 
 # 참고
+* 참고로; Just so you know,
 * 1) 반드시 알아야 할 정보는 아니지만, 알아두면 나중에 유용할 수도 있는 정보 등을 알려주고자 할 때 쓰는 표현입니다. for your reference, 또는 for future reference 라고도 많이 씁니다.  2) 비슷한 기능의 표현으로 for your information 이라는 말도 있는데요. for reference 보다 훨씬 비격식이며, 의미 또한 [네가 궁금해할까봐 알려주는데] / [혹시 몰라 알려주는데]
 * 여담이지만, 저 영계들이 카렐을 좋아하는 것같네요.  On a side note though , the chicks seem to love Carell. 듣기
 
@@ -7967,6 +7979,7 @@ retaliate
 * 하수, 오물; 미처리 하수 해양 투기 금지법 a ban on the dumping of raw sewage at sea 
 
 ## 청소
+* 결벽증; a neat freak
 * 작업자는 먼지를 안정되게 하기 위해 물을 뿌렸다; A worker sprays water over a house to settle dust
   * 그거 수년째 구석에서 먼지만 쌓이고 있어. It's been sitting there collecting dust for years.
 * (청소 또는 페인트) 너 저기 놓쳤어; YOu missed a spot
@@ -8657,6 +8670,7 @@ retaliate
 * 한계에 도전하다; push the limits/boundaries = move out of your comfort zone
 
 # 함께
+* 아버지와 의기투합하여 제이콥은 그 일을 해결키로 했다. Jacob decided to take on the issue on the same wavelength as his dad. 
 * 내가 매니저에게 무례한 웨이터에 대해서 항의하는데 다른 손님들도 동참했다. ex) Other customers joined me in complaining to the manager about the rude waiter.
   * = join someone in ~ing 2) ~을 ~와 함께하다 / ~하는 것에 동참하다.
 * 너랑 함께 할수 있게 말이야; I could keep you company
@@ -8952,6 +8966,7 @@ retaliate
   * begin in earnest 본격적으로 시작하다 speak in earnest 진지하게 말하다; take it in earnest 진심으로 받아들이다; be in earnest 진지하다, 진심이다
 
 # 행동
+* 그는 항상 말한 것을 실행한다. He always walks the talk; # 언행일치
 * 행동 조심해                   watch yourself
  * 점잖게 행동해라                You need to behave yourself!
  * #처신 잘해 you'd better #clean up your act
@@ -9076,6 +9091,14 @@ retaliate
  * 제가 스스로 찾았어요; i found it all on my own
 
 # 화장실
+* # 세탁; 세탁기를 돌릴 때, gentle cycle을 사용하세요  When you run the washer, use the gentle cycle. 
+  * 세제를 너무 많이 넣지 마세요  Don’t put in too much detergent. 
+  * 청바지를 건조기에 넣지 (돌리지) 마십시오 / 널어서 말리는 게 좋아요  You don't put your jeans in the dryer. You should hang-dry them. 
+  * 빨래대에 널기 전에 청바지를 짜주세요  Wring your jeans out before you hang them on the laundry rack
+  * 빨래집개 clothes pin; 주걱: rice paddle; spatula  [ˈspætʃələ] 
+  * 일단 빨래에서 흰색 옷을 분류하세요 sort sb/sth out from
+ * First sort the white things out from the laundry.
+ * 빨래통에 있었어; he was in your hamper
 * 거의 # 토할것 같다; gag; ㄱretch; heave; 토하다: vomit puke, throw up
   * barf 외에도 vomit, throw up, puke 도 토한다는 듯이에요. vomit은 가장 의학 용어적인 느낌, throw up은 가장 일상적으로 쓰이고, puke와 barf는 구어체에 가까워요.
   * 1. 토 나올 것 같다, 구역질 난다 sick to one's stomach

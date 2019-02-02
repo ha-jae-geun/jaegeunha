@@ -20,6 +20,7 @@
 	* 내가 널 곤경에서 구해낼 거야 I ' ll save your bacon . 예문 발음듣기
 	* 우리 팀이 궁지에 빠졌다 Our team was behind the eightball. 
 * 위기의식 危機意識  단어장추가 (철학) consciousness of crisis
+	* 서울특별시청에서 보낸 긴급 경보를 받으셨나요? Did you receive emergency alert messages from the Seoul Metropolitan Governments?
 	* 상황을 고조시켜요; It all gets ramped up
 	* 그의 상황은 위태로웠다. His situation was haing by a hair. 
 	* 실 한 가닥에 매달려 있는 모습은 매우 위태해 보이겠죠. 현재 처한 상황이 매우 위험스럽다는 뜻의 표현입니다. 주어는 사람, 사물 모두 올 수 있고, on 은 생략 가능합니다.

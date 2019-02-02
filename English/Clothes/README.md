@@ -1,3 +1,9 @@
+# 콩글리시
+* 난닝구; under shirt
+* 속옷; inner wear
+* 니트: knit wear
+* 롱패딩; long padded jacket
+
 # 옷 종류
 * clothes; 
   * 옷 한장 한장; a cloth -> a piece of / an item of / an article of clothing
