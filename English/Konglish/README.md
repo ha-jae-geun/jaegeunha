@@ -1,4 +1,5 @@
 # 기타
+* 난닝구; under shirt
 * 원플러스원; get two for the price of one은 말그대로 '한개의 가격으로 두개'라는 뜻으로 편의점에 가면 자주 보이는 2+1이나 1+1과 비슷한 개념입니다. 참고로 영어로 1+1(원플러스원)은 buy-one-get-one-free라고 표현해요. (원플러스원은 콩글리쉬!)
 * 뷔페식의							 all-you-can-eat
 * 빨래집개 clothes pin; 주걱: rice paddle; spatula  [ˈspætʃələ] 

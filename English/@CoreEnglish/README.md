@@ -44,6 +44,8 @@
 * orange; or 발음 + 인ge,  Strawberry; 스트로 입술울 모으지 않은 상태에서 '스트로' + bear + 이 
 
 # 기타
+* literally; 1. litter early  2. 리덜얼리
+* february; 1. [fe-bru=ar-이] 2. [fe-byu-ar-이]
 * help; 헤-얼프;  r발음을 받침 보다는 before; 비포-얼
 * camaraderie 미국식 [ˌkɑːməˈrɑːdəri]; calm: 입 크게 벌리고 컴; come: 작게 동그랗게 
 * absolutely; 앱 쏘(ㅓ)뤁  (을)리;  definitely; deaf + in  + neat + 리

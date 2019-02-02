@@ -38,6 +38,8 @@
 * 분위기나 #흥을 깨다; #rain on someone's #parade
   2. He rained on me that he was so tired; 불평, rain on somebody’s parade
 * 분위기 깨는 데는 역시 올 리가 한몫해요 				 trust him to lower the tone
+	* 그 소식이 우리 경제에 찬물을 끼얹었다 The news put a damper on our economy. 
+		* throw a wet blanket on
 	* 분위기 깨려고 한게 아니야; he doesn't meant to be a killjoy
 	* #찬물을 끼얹다, #김새게 하다; #put a damper on something; #damper
 	* #buzzkill; 분위기 죽이는 사람; he's such a buzzkil every time

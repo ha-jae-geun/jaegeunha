@@ -1,3 +1,33 @@
+# 감각동사 - PART 2 - look like + 명사 / sound like + 완성형 문장
+* 좋아; That sounds great
+* 뭔가 좀 수상한데? Something smells a little fishy
+* 이거 정말 부드럽다; This feels really soft
+* it looks/sounds/smells + like + 명사
+* 이거 진짜 가죽같다; This looks like real leather
+* 이거 진짜같다; THis looks real
+* 이거 희한하게 생겼따; This looks weird 약간 시가처럼 생겼는데; It (kind 0f) looks like a cigar / It looks a little (bit) like a cigar 앞에서 This 했기에 It으로 지칭
+* 오 그게 되게 편리하겠다; That looks really convenient; 내가 직접 본것을 말함
+* 정말 심각한 문제 가더라; IT sounded like it was a really serious problem; sound like + 완성 문장
+* 집안에 죽은 동물이 있는 것 같은 냄새가 났어; It smelled like ther was a dead animal in the house
+* 이거 전문가가 만든 것 같은 맛이야; This tatstes like a professional made it  
+* 하루 종일 걸은 것 같아; It feels like i walked all day
+  * 아직도 걷고 있거나 걷는 걸 방금 멈췄을 때; It feels like i've been walking all day
+
+# 감각동사 - PART 1 (기본개념) - look, sound, smell, taste, feel
+* 생긴게 저렴해보여요; This looks cheap
+* 이거 소리가 좀 이상하다; That sounds a little strange
+* 그거 좀 이상한데?; That sounds a little strange; 1차원적인 촉감 뿐만 아니라 감각을 통해 느낀 것
+* 이거 무거어 보인다; This feels really heavy
+* 냄새가 나쁘지는 않았는데 맛이 좀 이상했어; It didn't smell bad but it tasted  a little strange
+* 되게 심각한 것 같더라고; It looked really serious
+* 촉감이 엄청 부드랍다; This feels really smooth; This feels really nice
+* 엄청 어색했어; It was really awkward; It felt really awkward
+  * 우리 형이 우는걸 처음 봤는데 기분이 너무 어색했어; i saw my brother cry for the first tiem and it felt so awkward and weird
+
+# 영어회화 TIP #02 - 주어로 여러명을 묶어서 말할 때
+* 엄마랑 누나랑 누나 남자친구랑 나랑, 넷이서; My mom, my sister and her boyfriend and i, the four of us, we went to see a musical together
+  * My mom and my sister and her boyfriend, the three of them, they went to see a musical together
+
 # 2019년 NEW 연습가이드 체험해보세요! [ 하드코어 ]
 * 사실은 영어를 배우고 싶어 하는 사람들을 많이 보게 된다고 하는 것이 맞을 것 같아요.
   * Actually, i feel more incined to say that i come across a lot of people who want to learn English;  be inclined to: 어떠한 경향으로 어떤 일이 발생하기 마련이거나 행동하고 싶은 충동;  be 대신 feel: 어떤 정해진 것보다 지금 그렇게 느낀다라는 우발적인 요소를 강조

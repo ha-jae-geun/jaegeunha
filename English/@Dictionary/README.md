@@ -450,6 +450,7 @@
 * 네 계획은 너무 거창해. 조금 줄여보자. ex) Your plan is too grandiose. Let's narrow it down a bit. [-oʊs]  영국식 [ˈɡrændiəʊs] 
 
 # 걷다
+* on foot은 너무 교과서적인 표현; i walk to school
 * stride 는 [성큼성큼 걷다/성큼성큼 걷는 걸음] 을 의미해요. 그냥 단순히 걷는 게 아니라 보폭을 크게 앞으로 '나아가는' 의미이기 때문에 [진전, 발전] 이라는 의미로도 쓰입니다. make strides 로 많이 쓰이기에 함께 알아두세요!
   * 내가 제대로 된 방향으로 발전을 하는 거였으면 좋겠어. ex) Hopefully I'm making strides in the right direction.
   * walk something off = walk off weight = walk weight off; to walk if off
@@ -2143,6 +2144,8 @@
   * 너희들은 도덕적 기준 같은 것도 없니? ex) Don't you guys have a moral compass or something?
 
 # 도망
+* coop 은 '닭장 / 동물 우리' 를 의미하는 단어인데요. 마치 닭장에서 닭이 떠나가듯이 도망치는 모습을 연상하시면 되는 비격식 표현입니다. move on 은 진행되는 일이 '넘어가다, 계속하다' 의 의미를 갖는데요. 영상에서는 '계속해서 성장하다' 의 의미를 가집니다.
+  * = 강의가 가끔 너무 지루해서 몰래 도망 치곤 했었다. Lectures were sometimes too boring, so used to fly the coop.
 * 도망중이야; Two supects are on the run
   * run away; on the lam; get away
   * 그 죄수는 높은 교도소의 벽을 넘어 도망쳤다. The prisoner scaled the high prison wall and ran off.
@@ -2483,6 +2486,7 @@
  * 그 일로 그의 권위는 바닥까지 추락했다 His authority has hit rock bottom 
 
 # 떨어지다
+* 너가 몇번이나 머리로 떨어졌는지 알아? Do you know how many times you fell on your head
 * break the(one's) fall : 넘어지는 것을 막다. 덜 심하게 넘어지다. 누군가가 넘어지는 것을 (fall) 깨부수는 것이기 때문에 (break), 추락을 방해하여 안 넘어지게 하거나, 조금 살살 넘어지게끔 하는 것을 의미합니다.
   * 옆을 잡아서 그녀는 넘어지는 것을 가까스로 막았다. ex) She managed to break her fall by grabbing the side.
   * 나무들이 그 작은 아이가 창문에서 떨어지는 것을 막았다. ex) Trees broke the little boy's fall from the window.
@@ -2514,6 +2518,7 @@
   * 라면좀 뜯어줄래? Can you #open this ramen?
 
 # 라틴어
+* [감탄사] 메아 쿨파, 내 탓이로소이다 mea culpa 미국식 [ˌmeɪəˈkʊlpə]
 * 영어는 사실상 세계 공용어이다. English is the de facto global language. 라틴어에서 기원한 말로서 영어에서 자주 쓰이는 격식 표현으로 주로 명사 앞을 꾸며주는 형용사나 부사로 사용합니다.
 * 현재 상황을 유지하는 것이 중요하다. ex) It’s important to maintain the status quo. ① status quo : 현재의 상황, 현황
 * 어떤 문제든 그때그때 해결될 것이다. ex) Any problems will be dealt with on an ad hoc basis. ② ad hoc : 즉석의
@@ -3692,6 +3697,7 @@
  * #음모; #conspiracy theory
  * #내 방식대로 할거야; i'll do it #my way
  * #전략가; a military #strategist
+ * 방도가 없다면, if push comes to shove, 
  * # 수단 # 방법 # 방식 # 길 # 전략 # 전술 # 음모
  * # 편법이란 없지         You can't bribe the door on your way to the sky
 * 너 # 유능해? 상황 대처               Are you on the ball? 
@@ -4011,6 +4017,9 @@ retaliate
 # 본색
 * 본색을 드러내다. 진면목을 보여주다. = show one's true colors
   * 매니저가 된 후 그는 마침내 본색을 드러냈다. ex) He finally showed his true colors after becoming a manager.
+
+# 본전
+* 본전을 찾다; We just need to earn a little more to break evenㅂ
 
 # 봐주다
 * pass 가 [합격] 또는 [통행증]을 의미하는데요. 걸리는 것 없이 그냥 지나가는 모습에서 나온 표현입니다. 어떤 잘못을 했는데 한소리 듣거나 처벌 없이 넘어갈 때 쓰는 표현이에요. [이번엔 봐줄게]라고 말하고 싶을 땐 I'll give you a pass. 라고 할 수도 있어요.
@@ -4472,10 +4481,11 @@ retaliate
 
 # 색깔
 * woman/man/person of color 이라는 표현은 꼭 알아두는 것이 좋아요! 유색인종을 의미하는 비차별적 용어랍니다!
-* 무척 기쁜; tickled pink 
+* 무척 기쁜; tickled pink; 간지럽 피거나 기쁠 때 얼굴이 분홍색으로 변하는 것 
 	* 모든 일이 잘 풀리고 있다; Everything in my life is totally peachy; 2. 좋은, 훌륭한, 분홍빛
-  * 몹시 질투하는; green with envy 
+  * 정말 부럽다; i'm green with envy; green: 창백; 안색이 변할 정도로 질투가 난다.
   * rich는 부유한 뿐만 아니라, 다채롭고 풍부한 것을 말하기도 해요. 특히 맛과 향, 색이 강렬하고 짙다는 의미를 가지고 있어요.  vibrant와 saturated역시 (색이) 강렬하다는 의미로, saturated는 원래 '흠뻑 젖은, 포화된'의 뜻이지만 color의 앞에 쓰여 '채도가 높은, 짙은'의 뜻으로 쓰였습니다.
+  * 적자가 얼마나 난 상태에요? How in the red are you?
 * 전체를 이루는 색 중에서 눈에 띄게 밝은 색의 부분 보고 pop 한다고 해요. pop은 튀어오른다는 뜻도 있거든요. 여기서 pop of color는 '포인트 색'이라는 뜻입니다.
 	* 내 방에 포인트 색상을 추가하고 싶어. ex) I want to add a pop of color to my room.
 * yellow; 겁이 많은 2. 사랑하는 사대를 향한 아름다움(콜드플레이 - Yellow
@@ -5210,6 +5220,7 @@ retaliate
  * 나 #실수로 했어  I did it by (on) accident/by mistake. 'ӕksɪdənt Sorry, it was an accident.
  * 그건 내 실수였어요.          That was my fault., #fauld
  * 내 실수야; it was #careless of me
+ * [감탄사] 메아 쿨파, 내 탓이로소이다 mea culpa 미국식 [ˌmeɪəˈkʊlpə]  영국식   단어장추가
  * 너 실수 한거야.               You're dropping the ball. 
  * 누구나 실수는 하지  Everyone makes mistakes. It happens all the time. These things happen.
  * Nobody is perfect
@@ -6382,6 +6393,7 @@ retaliate
 * # 동거; = A와 동거를 시작하다 (연인 혹은 룸메이트, 가족 등) move in with A
   * = 동거를 시작하다 move in together
 * # 독립; '독립하다'를 영어로는 move out of one's parents' house(부모님 집에서 나가다)라고 표현합니다. one's parents' house는 자식의 입장에서 쓰는 표현이므로 베컴은 온가족이 살고 있는 집을 the family home라고 표현했습니다. get one's own place라고도 할 수 있는데, 이는 '혼자 살 집/방을 얻다'라고 직역할 수 있고 '독립하다'로 번역하는 게 자연스럽습니다.
+  * 독립했어; i moved out
   * 난 졸업하고 나면 나 혼자 살 집을 구할 거야. (혹은 '집 구해서 독립 할 거야') I'm getting my own place after I graduate.
 
 # 이상한
@@ -7142,6 +7154,9 @@ retaliate
   * ○ But I use an electric toothbrush (하지만 저는 전동칫솔을 사용하는걸요)
   * ##electric
 
+# 전문가
+* 이거 전문가가 만든 것 같은 맛이야; This tatstes like a professional made it
+
 # 전반적으로
 * 전반적으로; by and large = more often than not
 
@@ -7665,6 +7680,7 @@ retaliate
  * #suck something into something; ~을 ~로 #빨아들이다; suck your reader into your stories
  * #immerse int; immerse ourselves in the culture
  * I’m a #sucker for the way that  you move
+ * 최근에 가장 빠져 있는게 뭔가요? What's your latest obsession
  * # 몰입 # 빠지다 # 몰두 # 집중 # 삼매경 | # 한가지 생각
  * # 헤어나오지 못하다; 그녀는 과거속에서 헤어나오지 못했다. - She was lost in the past. * be lost in 명사 = ~에 빠져 헤어나오지 못하다
  * 내 생각에 탐 크루즈는 자기 명성에 푹 빠져있는 것 같아. ex) I think Tom Cruise wallowed in his fame.  자기에게 즐거움을 주는 상황이나 행동에 푹 빠져있음을 표현할 때 쓰는 단어 입니다. [ˈwɑːloʊ] 
@@ -7760,6 +7776,7 @@ retaliate
  - # 공감대 # 공통점 # 차이점 # 코드
 * ☆make a difference[discrimination] / put price difference
 * ☆there is no real difference between ; I can't tell difference#
+* = 건방짐과 자신감은 백지장 차이다. There's a fine line between cockiness and confidence.
 * ~라면 다릅니다. = It make a difference if + 문장
   * 네가 그의 친부라면 굉장한 차이가 있지. ex) It makes a huge difference if you are his biological father.
 * : A와 B의 차이를 구별하다, 알다 [ex] tell the difference between A and B

@@ -406,6 +406,11 @@
 * : 원래 뜻은 '니 엉덩일 걸어도 될 정도로 정말/진짜/확실히/당연히 ~야!' 에 가까운데요. 뉘앙스를 담아 우리말 슬랭으로 옮기면 "당근 빠따로 ~지!" 정도예요. "당연하지!"라는 말을 좀 더 유쾌하게, 강하게 하고 싶을 때 써보세요! 
   * 어쨌거나 두 개 다 샀냐고? 당근 빠따지! Did I get them both anyway? You bet your ass I did!
 
+## bell
+* hear a bell ring = 떠오르다, 들어본 적이 있다; 2) 영상에서처럼 주어가 사람일 경우엔 hear a bell ring 이라고 쓰겠지만, 예를 들어 사람의 이름이거나 어떤 내용, 어디선가 들어본 무언가가 주어로 올 경우엔 그것이 듣는 사람의 머리에서 벨을 울리게 하는 것이기 때문에 ring a bell 이라고 쓰시면 됩니다.
+  * = 목록에서 그 이름을 보자마자, 본 적이 있는 것 같았다. Right after I saw the name on the list, I could hear a bell ring.
+  * = 토니 잭슨을 만나본 것 같지 않지만 그의 이름은 들어본 적이 있는 것 같아. I don't think I've met Tony Jackson, but his name rings a bell.
+
 ## belong
 * 1) 여러 영어 시험에 등장하며 [~에 속하다] 를 의미하는 belong to 에 조금 더 익숙하실 수도 있는데요. belong to 는 '소유권' 을 말하는 반면, 2) belong with 는 어떤 두 가지가 함께 해야만 한다고 믿을 때 쓰는 표현입니다. 영상에서는 인간과 몬스터는 함께 해선 안된다고 믿기에 이 표현을 썼고요. 3) 로맨틱한 관계에서 '넌 내 거야' 라고 말하고 싶을 땐, 소유를 의미하는 you belong to me 라고 말하는 것보단, you belong with me 가 [우린 정말 잘 어울려, 우린 함께 해야 할 운명이야] 이 의미를 가지며 더 자연스럽습니다. 대신 주어를 I 로 하여 I belong to you, [난 네 거야] 라고 할 땐 자기를 낮춰서 말하는 것이기에 괜찮습니다.
   * = 난 너처럼 정말 괜찮은 사람하곤 어울리지 않아. I don't belong with such a nice person like you.
@@ -1394,6 +1399,10 @@
 	* 이건 내 행운의 부적이야. 내 할머니가 주셨어.  This is my lucky charm. My grandma gave it to me.
 * charm = 장식물, 부적
 
+## coop
+* coop 은 '닭장 / 동물 우리' 를 의미하는 단어인데요. 마치 닭장에서 닭이 떠나가듯이 도망치는 모습을 연상하시면 되는 비격식 표현입니다. move on 은 진행되는 일이 '넘어가다, 계속하다' 의 의미를 갖는데요. 영상에서는 '계속해서 성장하다' 의 의미를 가집니다.
+  * = 강의가 가끔 너무 지루해서 몰래 도망 치곤 했었다. Lectures were sometimes too boring, so used to fly the coop.
+
 ## coordinate
 * 2. uncoordinated : 신체가 균형잡히지 못하고, 잘 통제되지 않는 상태를 말해요. 보통 누군가 uncoordinated하다면 몸이 마음대로 잘 따라오지 않는, 몸놀림이 둔하고 뻣뻣한, 몸치라는 말이에요.
   * 난 롤러스케이트를 신은 낙타처럼 몸을 가누지 못했다. ex) I was as uncoordinated as a camel wearing roller skates.
@@ -1775,6 +1784,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * Don't keep me in the dark. 나한테 비밀로 하지 말라고.
   * The owl can seel well int the dark. 부엉이는 어둠속에서 잘 봐요.
 
+## damper
+* 소리를 죽이는 소음기; 찬물을 끼얹다; put a damper on something 
+  * 그 소식이 우리 경제에 찬물을 끼얹었다 The news put a damper on our economy. 
+
 ## damn
 * damn 이 [저주하다] 라는 뜻을 가집니다. 보통 이 뜻 그대로 쓰이기 보다는 화가 났을 때 Damn you! Damn this car! 이런 식으로 쓰여 우리말로는 [빌어먹을 자식! 빌어먹을 차!] 정도로 해석이 되는데요. I'll be damned if 는 직역하면 [만약 ~ 한다면 전 저주받을 거예요] 로 해석이 됩니다. 따라서, 이런 짓을 하면 저주받을 테니 [절대로 하지 않겠다] 라는 뉘앙스가 강한 표현이지만, 영상에서는 직역한 문장이 좀 더 자연스러워 직역되었습니다.
   * 그녀를 절대로 다신 만나지 않을 거야. ex) I'll be damned if I see her again.
@@ -1820,6 +1833,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## dizzy
 * dizzy는 머리가 어지로운 걸 뜻해요. "나 어지러워"는 "I'm dizzy" 혹은 "I feel dizzy"라고 표현해요. 잠깐 현기증이 나고 사라지는 건 dizzy spell 이라고 해요.
   * 나 요즘 들어 현기증이 가끔씩 나고 그래. I've been having dizzy spells lately.
+
+## disturb
+* 형용사 disturbing 은 풀어 설명하면 끔찍한 장면이나 충격적인 사실로 인해 심적으로 굉장히 불안하고 불편한 상태를 말합니다. 
+  * = 그 영화는 성적인 장면이 있는데 보기에 매우 불편했다. The movie contained some sexual scenes and I found it quite disturbing.
 
 ## disguise
 * : ~로 위장/변장하다 [disguise oneself as~] disguise는 ‘남을 위장시키다’입니다. 따라서 자기 스스로 위장했다고 하려면 disguise oneself as~라고 하셔야 합니다.  
@@ -2038,6 +2055,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 
 ## even
+* 본전을 찾다; We just need to earn a little more to break even
 * : (차이가 적게) 균일하게 만들다, 무엇을 똑같이 나누다 even something out
   * 파운데이션은 당신 피부의 색과 결을 고르게 만들어 줍니다. Foundation evens out the tone and texture of your skin.
 * 피부 톤을 정돈하다; even out the skin tone
@@ -2179,6 +2197,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 1. 옛날 방식 beautiful 2. pale; 하얀;  3. 동등한
 * have one's fair share of OO는 OO를 충분히 겪었다, 충분히 가졌다는 뜻입니다. 보통은 좀 부정적인 의미로 사용하죠.
   * 난 이미 올해 겪을 어려움 다 겪었으니 날 좀 내버려둬. [ex] I've already had my fair share of troubles this year. So leave me alone.
+
+## fever
+* 그의 장래에 대한 추측이 극에 달해 있었다[그의 장래를 두고 온갖 추측이 난무하고 있었다]. Speculation about his future had reached fever pitch. 
 
 ## female
 * female-heavy는 '여성으로 치우쳐진', '여성의 비중이 큰'이라는 뜻! 남성에 비해 여성 방청객이 많다는 뜻이죠. :)                                
@@ -2376,6 +2397,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그는 설명서의 모든 세부사항을 잘 알고 있어. ex) He has every detail of the manual at his fingertips.
 
 ## fine
+* = 건방짐과 자신감은 백지장 차이다. There's a fine line between cockiness and confidence.
 *  난 네 가는 금발이 너무 좋아. [ex] I love your fine blond hair. 1. 아주 가는, 촘촘한
 * 이 작업에는 더 고운 사포가 필요해. [ex] We need a finer piece of sandpaper for this. 2. 알갱이가 고운 (※예문에서 사용한 의미)
 * [ex] fine gold = 순금 3. 순도 높은
@@ -2417,6 +2439,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## flat
 * flat 은 아래의 [참고] 부분에 있는 것처럼 굉장히 많은 뜻을 가지고 있고 많이 쓰이지만, 영상에서처럼 [시간+flat] 을 쓰게 되면 형용사로 '딱 ~ 밖에' 시간이 걸리지 않았을 때, 그만큼 무언가가 놀랍게 빨리 발생했고, 단지 그 시간 밖에 걸리지 않았다는 것을 강조해 주기 위해서 쓰입니다.
 	* 집에 5분만에 도착할 거예요, 엄마. ex) I will be home in 5 minutes flat, mom.
+
+## foster
+* 동사로 foster 는 '아이를 맡아 기르다, 위탁 양육하다' 의 의미를 가지고, 형용사로는 양아버지, 양어머니라고 할 때의 양- 을 의미해요. 입양이랑은 조금 다른 개념이라 foster parents 의 경우엔 부모로서의 권리는 행사할 수가 없는데요. 이 단어가 동물과 함께 쓰일 때는 개나 고양이가 입양되기 전에 잠시 머물러 지내는 걸 의미합니다. 외국에서는 이런 개념과 시스템이 굉장히 잘 되어 있기에 알아두시면 좋은 단어입니다.
+  * = 수지는 내가 잠깐 돌보는 고양이인데, 거의 3개월 동안 함께 해서 사실 입양할까 생각 중이야. Suzzie is my foster cat, but she's been with me almost 3 months, so I'm actually thinking of adopting her.
 
 ## forge
 * ① (금속 등) 열을 가해 형태를 만들다  ② (여권, 지폐, 문서 등) 위조하다  ③ (관계, 합의 등) 형성하다, 맺다
@@ -2669,6 +2695,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : 직역하면 '총을 연달아 발포하며'라는 뜻으로 어떤 일을 전력을 다해, 공격적으로 하는 모양을 묘사하는 데 사용합니다.
 	* 사람들이 결의를 불태우며 모여들었다. People gathered up with guns blazing.
 
+## green
+* 정말 부럽다; i'm green with envy; green: 창백; 안색이 변할 정도로 질투가 난다.
+
 ## gram
 * 기분 나쁜 어조로 적힌 쪽지, 이메일 등을 nastygram이라고 합니다. 「단어+gram」으로 표현할 경우 ‘적혀 있는 것, 그려져 있는 것’ 혹은 ‘통신, 통지, 속보’ 등을 의미하는데, 그 내용이 나쁘기(nasty) 때문에 합쳐진 단어이지요. -gram이 붙은 단어의 예는 많습니다. telegram(전보, 전문), diagram(도표, 도해)도 그렇고, 요새 사람들이 자주 사용하는 SNS인 인스타그램(Instagram)도 있습니다.
   * 제프는 나한테 감히 대놓고 말 못하니까 대신 모욕적 이메일을 보냈다. Jeff couldn’t dare to talk to me directly so instead he sent me a nasty gram.
@@ -2758,6 +2787,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 첫 번째로, 'Get around' 에 대해서 살펴보면,
 
 ### get to
+* 해봐!; 책임/권유
 * 얼마가 지나자 옛날영화를 좋아하게 됐어. [ex] I got to like old movies after a while. 1. 점차 특정한 태도/감정을 갖게 되다
 * 나이가 들면서 부모님을 점점 이해하게 됐어. [ex] I got to understand my parents more as I grew older. 2. 점차 깨닫게/알게 되다
 * 우리는 만날 기회가 자주 없다. [ex] We don't get to see each other very often. 3. 을 할 기회가 생기다
@@ -4079,6 +4109,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 아이뿐만이 아니라 작은 식물이 잘 성장 및 발달하도록 키우는 것을 nurture 라고 하는데요. 물리적으로 키우는 것 외에도 계획이나, 아이디어, 또는 영상에서처럼 관계를 키우는 것 또한 nurture 라고 합니다.  속뜻으로 성장하는데 필요한 [영양분을 공급하다] 라는 의미도 가지기 때문에 영상에서는 [소홀해진 관계에 영양분을 주어서 회복시키다] 라는 뉘앙스로 쓰였습니다!
 * 널 위해 책을 좀 샀는데. 이거 잃으면 마음의 양식이 될 거야. ex) I've got a book for you. I'm sure reading this will nurture your mind.
 
+## night
+* The night is young = 밤은 아직 일러.
+
 ## nine
 * ‘가장 최상의 수준의’란 뜻의 to the nines는 보통 ‘차려입다’라는 동사와 함께 잘 쓰입니다. 노래에서 You got fixed up to the nines라고 했는데 get fixed up은 쫙 빼입다란 뜻이고 to the nines와 합치면 “너 꽤 멋지게 빼입었네”라는 뜻이 됩니다. 
   * 학생들은 프롬파티를 위해 최고로 꾸몄다. (be dressed up : 차려입다) Students were dressed up to the nines for the prom.
@@ -4176,6 +4209,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 와 상관없다, 알 바 아닌 no skin off someone's nose 그건 나와 상관 없는 일이다. It's no skin off my nose.
 * : 실수를 들춰내다, 난처하게 하다  rub in one's nose  You kept rubbing in my nose all day.
 	* 1900년대 중반 미국에서 유래한 이 표현은 주택에 침입한 개의 코에 똥을 비비게 하여 혼구멍을 내준다는 의미에서 시작된 것으로 개에게는 몹시 불쾌한 기억이 될 텐데요.
+
+## obsess
+* 최근에 가장 빠져 있는게 뭔가요? What's your latest obsession
 
 ## ometer
 * -ometer는 접미사로 을 측정하는 기구를 의미합니다. 
@@ -4275,6 +4311,13 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## paw
 * paws 는 발톱이 달린 동물의 발을 의미하죠. 개나 고양이가 무언가를 원할 때 발톱을 드러내고 만지려는 것처럼, 누군가가 무언가를 만지려고 할 때 '단호한 어조'로 [만지지 마! / 손대지 마!] 라고 말할 때 쓸 수 있는 표현입니다.  paw 대신 hand를 쓸 수도 있습니다.
   * 내 일기장 손대지 마! ex) Paws off my diary!
+
+## pay
+* 난 내 앞가림은 하도록 자랐다. I was raised to pay my own way. 듣기
+* 선불 결제하다; pay upfront; 선불 수수료: upfront fee;
+  * Can you pay for everything up front?
+* 빚을 다 갚다; pay off deby
+  * 학자금을 갚아나가는 동안 부모님 집에 머물려고요; i'm going to stay at my parent's place while i pay down the student loan; pay down: 갚아 나가다
 
 ## payback
 * 저희는 단기 자금 회수를 기대하고 있습니다. [ex] We're looking for a short-term payback. 본래 'payback'은 투자에 따르는 '자금[원금] 회수'를 이르는 말입니다.
@@ -4529,6 +4572,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 	* 그 둘은 교실에서 싸우는 중이어서 우리가 떼어내야만 했어. ex) The two were fighting in class and we had to pull them apart.
 
 ## pitch
+* 그의 장래에 대한 추측이 극에 달해 있었다[그의 장래를 두고 온갖 추측이 난무하고 있었다]. Speculation about his future had reached fever pitch. 
 * pitch는 제품을 판매하거나 투자를 받는 등 설득하기 위한 발표, 멘트, 혹은 유사 행위를 뜻해요. 영업원이 판촉할 때는 sales pitch를 하고 기업이 투자자한테 투자 받기 위해서 찾아가 사업계획을 설명하는 것도 pitch라고 합니다. 여기서는 투자를 받기 위해 각자의 앱 아이디어를 소개한다는 뜻으로 pitch라고 했답니다. 한국어로 번역할 만한 말이 마땅치 않아 비즈니스 업계에서는 '피치'라고 많이들 한답니다. 명사도 pitch, 동사도 pitch입니다.
   * 네가 할 일은 이 제품의 세일즈 피치를 구상하는 거야. (혹은 '판매할 때 사용할 멘트') You have to come up with a sales pitch for this product.
 
@@ -4590,6 +4634,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## piggyback
 * piggyback 은 등에 업는 것, 어부바 입니다. 그리고 piggyback off (of) 는 비유적으로 ‘남에게 기대다, 다른 것에 기대어 이득을 취하다’를 의미합니다. piggyback on something 이라고도 합니다. 
   * 나는 내 이웃이 내 인터넷을 몇 달동안 몰래 사용해왔다는 걸 알게됐다. I got to notice that my neighbor has been piggybacking on my Internet for months.
+
+## primary
+* primary objective / aim / concern / 
+* 초등학교: primary school
 
 ## prime
 * : ~의 전성기가 지나가다 [pass one’s prime (time)]; prime time은 가장 좋은 시간을 뜻합니다. 우리말로 ‘전성기, 황금 시간대, 최상의 순간’ 등이 되겠습니다. 그래서 pass prime time이라고 하면 좋은 시간은 다 갔다, 이제 전성기는 한 물 갔다는 뜻이 됩니다.
@@ -4928,6 +4976,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 
 ## push
+* 방도가 없다면, if push comes to shove, 
 * #밀고 나가다 #push through; motivated to push through
 * ~를 옆으로 밀다 push over; push the tables over to the other side
   * #pushover, #spinless  줏대없는 사람
@@ -4971,6 +5020,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## RSVP
 * RSVP는 불어로 "Répondez s'il vous plaît(답장 부탁드립니다)"의 약자예요. 파티나 결혼식 초대를 하고 "RSVP 해주세요"라고 하면 "참석 여부 알려주세요"라는 뜻이랍니다.
 
+## risk
+* 위험을 무릎쓰고; at the risk of -ing
+
 ## ride
 * rough ride (명사): 힘든 시기
   * 많은 보험 회사들이 힘든 시기를 보내고 있다. Many insurance companies are having a rough ride.
@@ -4982,6 +5034,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## ring
 * 그가 주모자였어; He was the ringleader
 * 여기서 ring up 은 (가게 계산대에서 구매한 물건의 가격을) '금전 등록기에 입력하다' 라는 뜻이에요. 치즈버거 하나 계산해드릴게요; Let me just ring up a cheese burger
+* hear a bell ring = 떠오르다, 들어본 적이 있다; 2) 영상에서처럼 주어가 사람일 경우엔 hear a bell ring 이라고 쓰겠지만, 예를 들어 사람의 이름이거나 어떤 내용, 어디선가 들어본 무언가가 주어로 올 경우엔 그것이 듣는 사람의 머리에서 벨을 울리게 하는 것이기 때문에 ring a bell 이라고 쓰시면 됩니다.
+  * = 목록에서 그 이름을 보자마자, 본 적이 있는 것 같았다. Right after I saw the name on the list, I could hear a bell ring.
+  * = 토니 잭슨을 만나본 것 같지 않지만 그의 이름은 들어본 적이 있는 것 같아. I don't think I've met Tony Jackson, but his name rings a bell.
 
 ## ringer
 * 원래 경마에서 나온 표현인데요. 원하는 결과를 얻기 위해 누군가가 일부러 비슷한 생김새의 말로 원래의 말을 대체하는 걸 ring in 이라고 했어요. 그런 표현이 발전해서 지금은 본인의 신분을 속이고 경연 등에 참가하는 [부정 참가자] 를 의미하는데요. 영상을 직역하면 [제 생각엔 부정 참가자가 여기 있는 것 같아요] 정도로 해석이 됩니다. 초보라고 했지만 꽤 잘하는 모습이라 위트 있게 표현을 했고요. 의역하여 [초보가 아니신 것 같은데요.] 라고 해석이 되었어요. ringer 는 [꼭 빼닮은 사람] 을 의미하기도 합니다.
@@ -5009,6 +5064,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : '만개한 상태가 장미를 떠나다'로, 활짝 폈던 꽃이 시드는 것처럼 뭔가가 '전성기를 지나다, 예전의 활기를 잃다'라는 뜻이에요! 여기서는 사랑/애정이 식었다는 뜻으로 쓰였죠. 1. [ 관용구 ] the bloom is off the rose
 
 ## roast
+* 내 얼굴을 평가해주세요; Roase me; 일반적인 얼평보다는 자신의 얼굴을 유머러스하게 평가헤 달라고
 * 굽다; 볶은 커피/땅콩: roasted coffee beans
 
 ## rope
@@ -5227,6 +5283,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 공식적으로 이야기하다 = go on record 자신의 입장, 견해 등을 이야기할 때 무언가를 공식적으로 표명하여 기록에 남기고 싶을 때 쓰는 표현입니다. 영상에서는 남녀가 티격태격하며 자기가 무엇을 수리했는지 조목조목 따지려고 하기에 의도적으로 쓴 표현이라고 볼 수 있습니다.
   * 공식적으로 이야기하기 전에, 시간을 들여 정말로 그렇게 하고 싶은지 생각해 보세요. ex) Before going on record, take your time and think if you really want to do that.
  
+## reburbish
+* 여러분 ‘리퍼폰’이라고 들어보셨나요? 초기 불량품이나 중고 제품을 신상품 수준으로 정비하여 다시 내놓은 제품이죠. 여기서 '리퍼'가 바로 refurbish 에서 딴 말입니다.  refurbish 는 성능을 개선하거나 외관을 꾸민다는 것으로 [이미지를 쇄신하다, 집을 개조하다, 새단장하다] 등등 다양하게 해석됩니다.  refurb : 리퍼제품 / 새단장, 수리 (=refurbishment)
+  * = 그랜드 호텔은 최근 완전히 새단장 되었다. The Grand Hotel has been completely refurbished.
 
 ## refresh
 * : 짧게 다시 알려주는 것, 짧게 다시 인지시켜 주는 것 [quick refresher] refresher는 이전에 알려줬던 것을 다시 상기시켜주고 알려주는 것을 말합니다. 그래서 quick refresher는 짧게 다시 알려주는 것, 또는 그 행위를 뜻합니다
@@ -6113,6 +6172,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
     * = 너무 성급히 판단하기 전에 그들의 입장에서 생각을 해봐야 해. We should try walking a mile in their shoes before judging them too quickly.
 
 ## shove
+* 방도가 없다면, if push comes to shove, 
 * ~에게 ~을 억지로 강요하다 = shove something down someone's throat 별로 관심도 없는데 반복적으로 말하고, 무언가를 보여줌으로써 강요하는 것을 의미하는 표현입니다.  shove 가 [떠밀다] 라는 뜻이 있으니 목구멍(throat) 속으로 무언가를 억지로 떠먹여서 어쩔 수 없이 받아들이도록 하는 뉘앙스의 표현이에요.
 	* 네 신념을 나한테 강요하지 좀 마! ex) Stop shoving your beliefs down my throat!
 
@@ -7092,7 +7152,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 	* 네 아이들에게만 너무 몰두하지는 마. 너와 네 아이들에게 안 좋아. ex) Don't get too wrapped up in your children. It's bad for you and your children.
 * 붕대 좀 돌려주시겠어요? Can i have my wrappings back?
 * = wrap one's brain/head/mind around 머리를 꽁꽁 싸매듯이 이해하려 하는 것을 의미해요. 조금 어렵고, 혼란스럽고, 생소한 것을 이해하려는 모습의 단어입니다.
-	* 방금 일어난 일을 이해할 수가 없어. ex) I just can't wrap my head around what's just happened.
+	* 방금 일어난 일을 이해할 수가 없어. ex) I just can't wrap my head around what's just happened. 
 * : 조종하거나 통제하다, 자기 마음대로 주무르다  wrap around one's little finger
   * 그녀는 그 남자를 완전히 잡고 있다. She has him wrapped around her little finger.
 * 주로 당분간 비밀로 하기 위해 꽁꽁 싸매놓은 것을 의미합니다. 주로 keep something under wraps 라고 쓰여요.
@@ -7101,6 +7161,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## whoop
 * 'a can of whoop ass'는 엉덩이(ass)를 때리는 것(whoop)인데요, kick ass가 그렇듯 누군가를 '후려치고, 두들겨 패고, 박살내주는' 걸 말해요. 흔히 'open up a can of whoop ass'라고 '본떼를 보여주겠다, 혼쭐을 내주겠다'고 말하곤 해요.
   * 그가 또 그딴 짓을 하면 본떼를 보여줄거야. If he screws with me again, I'm gonna open a can of whoop ass on him.
+
+## wheeze
+* 그는 밤새 기침을 하고 쌕쌕거렸다. He was coughing and wheezing all night. 
 
 ## wheel
 * take the wheel은 직역하면 운전대를 붙잡다는 의미로, 어떤 일의 지배권을 장악하다는 비유로 많이 쓰이는 표현이죠.  take over는 다른 사람이 가지고 있던 것을 넘겨 받는다는지, 자신이 영향력을 더 키워 회사나 사업, 장소 등을 장악/인수하는 걸 의미합니다. 지배권의 변화를 암시해요. 여기서는 이 두가지 표현이 복합적으로 사용되었네요~ 가볍게 어떤 일을 리드한다는 뜻으로도 말할 수도 있겠죠.
@@ -7228,3 +7291,6 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## whack
 * out of whack = 제대로 안 돌아가는; 기계, 시스템 등이 제대로 작동되지 않거나, 엉망진창이고 혼란스러운 상태를 가리켜 out of whack 이라고 합니다. whack 은 세게 후려 치는 것을 말하는데요, 내려 쳐도(whack) 말을 듣지 않는다(out of)는 의미입니다. 예를 들어 움직이지 않으려는 노새를 채찍으로 내려치거나, 고장난 기계를 탕탕 내려 쳐도 작동하는 않는 것 처럼요.
 	* = 내 컴퓨터 완전히 맛탱이가 갔어. 뭐가 문젠지 모르겠네. My computer is totally out of whack. I don’t know what’s wrong with it.  [wæk]
+
+## young
+* The night is young = 밤은 아직 일러.

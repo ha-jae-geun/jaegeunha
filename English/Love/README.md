@@ -66,6 +66,7 @@ I have a big crush on you / I have a thing for you, i'm into you
 * 차다; i dumped him; i was/got dumped
 * 점점 멀어지다; we've grown apart; we grew apart
 * 바람피다; cheat on someone
+	* 여러 사람 난나니? Are you dating around?
 	* the other woman은 직역하면 '다른 여자'인데요, '아내 말고 다른 여자', 즉 불륜을 저지르는 상대 여성을 뜻합니다. 불륜녀, 상간녀 이렇게 해석하면 되겠죠? 남성의 경우 the other man이라고 하시면 됩니다. i am not going to be the other woman
 	* 연인 관계에서 'commitment'는, 그 사람에게 정착해서 진지하게 만나는 것을 말해요. 오랜 기간 한 사람만 사귀면서 전념하는 이러한 commitment를 두려워하는 'fear of commitment' 혹은 'commitment phobia'라는 표현도 있답니다.
 		* 자기를 사랑해. 하지만 누군가에게 정착할 준비가 안됐어. I love you. but I'm just not ready for this kind of commitment.

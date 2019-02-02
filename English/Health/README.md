@@ -533,6 +533,7 @@
   * æ̀ntihàipərténsiv
 * 여기에 소변을 담아 오세요. 	Fill this cup with urine. 
   * 혈액 검사실이 어디예요? 	Where is the blood test lab? 
+  * 혈액순환 되게요; get the blood pumping
   * #혈액형 blood type
   * #별자리; He likes observing #constellations.
   * 미국은 자기 혈액형을 평생 모르는 경우가 많음 차라리 #별자리를 더 믿음

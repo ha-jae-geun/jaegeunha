@@ -136,6 +136,10 @@ we expect to #land
 * 입국 심사대 어디있나요? Where is the #immigration desk? = #customs / #passport control
 * #금속 탐지기(#탐지기) #metal detector; #detector
 * 체크인할 가방 있나요? 						 Are you checking (in) any bags?
+  * 체크아웃 연장
+    * Can i stay one more night?; I'd like to stay one/two/three more night
+    * Can i have a late check out?
+  * 체크아웃 언제에요? What time is check out?
 * #탑승 시간 언제인가요? When is boarding time?
 * 탑승권을 보여주세요 					 Please show me your boarding pass
 * #관계가 어떻게 되세요? What's your relationship?
