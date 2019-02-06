@@ -240,6 +240,8 @@
 * ('통로를 걸어 내려가다') "walk down the aisle" 
 
 ## air
+* in the air 자체에는 두 가지 뜻이 있습니다. 공기 중에 어떤 기운이 떠다니듯 1) 기운이 감돌다, 또는 어떤 사안이 자리 잡지 못하고 붕 떠있듯이 2) 해결되지 않다- 의 의미를 갖는데요. 영상에서처럼 동사 hang 과 함께 쓰여 마치 공중에 걸려있는 모습으로도 종종 쓰여요.
+  * = 의심의 기운이 감돌고 있어. There's suspicion hanging in the air.
 * 아무것도 없는 상태로부터, 무에서 = out of thin air 1) air 는 눈에 보이지 않는 것인데, 심지어 thin 한 공기는 거의 느껴지지도 않겠죠? 없는 거예요. 무언가를 만들 때 [out of + 재료] 를 써서 [을 사용하여] 라는 의미를 가지기 때문에 out of thin air 는 영상에서처럼 무에서 유를 만들어낼 때 쓰는 표현이에요.
     * 그가 갑자기 나타났다. ex) He showed up out of thin air.
 * 직역하면 [신선한 공기의 들이마심] 입니다. 어떤 상황이 지속되는데, 그 상황에서 신선한공기를 들여마시는 것이니 굉장히 [새롭고, 다르고, 활기를 주는 것]을 의미해요. 어떤 상황이나 주제를 좀 더 흥미롭고 신나게 만드는 것을 의미합니다.
@@ -1197,6 +1199,11 @@
   4. 따라가다; i'll catch up in a minute
   5. 좀 이따 보자; I'll catch up with you later
   6. 발목잡다; The past will find a way to catch up to us
+
+## cold
+* = 차분히 생각해보면, 현실적으로 생각해보면 in the cold light of the day
+  * 밤에는 사람이 너무 감성적이라, 밤에 쓴 러브레터는 낮에 읽어보면 너무 오글거리기에 읽어보는 게 아니라고 하는데요.  이 표현은 직역하면 [낮의 차가운 빛 속에서] 라는 뜻이니, 아침에 일어났을 때의 차가운 공기와 햇빛을 의미한 말로, 어떤 일이 일어났을 때 느꼈던 감정이 아니라, 나중에 시간이 지나 아침의 현실적으로 차분한 생각을 하는 걸 의미합니다.
+  * = 우리 여기서 중단하고 내일 다시 차분히 생각해 보는 게 어떨까? Why don't we stop here and think about it again tomorrow in the cold light of the day?
 
 ## color
 * woman/man/person of color 이라는 표현은 꼭 알아두는 것이 좋아요! 유색인종을 의미하는 비차별적 용어랍니다!
@@ -2377,6 +2384,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * flip someone off : 빡치게하다. 가운데 손가락을 들어 욕하다; 영상에서 제니퍼 로렌스는 flip 과 flick 이 헷갈려서 flick 이라고 했지만 사실 flip 이 맞는 표현입니다. 설명이 불편하시다면 죄송해요! 하지만 이게 가장 정확한 표현이라서요 ㅎ [누군가에게 뻐큐를 날리다] 가 가장 정확한 flip off 의 의미입니다. 당연히 속어겠지요~
   * 난 여동생이랑 얘기 중이었는데, 갑자기 걔가 나한테 뻐큐를 날리더라고. ex) I was talking to my sister, and she suddenly flipped me off.
 
+## flower
+* flower power = 사랑과 평화의 가치 
+  * 1) 조금 어려운 표현이기에 아, 이런 내용도 있구나- 정도로 아시고 가면 좋을 것 같아요. 1960년, 70년대 미국에서 전쟁에 반대하고 사랑과 평화를 부르짖던 청년들을 히피족(hippies) 라고 했는데요. 2) 히피족들이 전쟁에 반대하는 평화적 시위의 방식으로 꽃을 나눠주고, 꽃으로 몸을 치장하는 모습에서 그들을 flower child (children) 이라고 부르게 되었습니다. 그 당시를 배경으로 하는 영화들을 보게 되면 남자들은 머리를 치렁치렁 기르고, 여자들은 긴 옷에 꽃무늬가 들어간 옷을 입고, 모두가 자유분방한 모습으로 많이 등장하는데요. 3) flower power 는 그들이 내세운 가치와 개념을 의미하는 단어로, 세상을 변화시킬 수단으로서의 사랑, 평화를 의미하는 단어입니다.
+                                
+
 ## flourish
 * flourish 는 [장식] 이라는 뜻이 있어요. final flourish 가 함께 쓰이면 [마무리 장식, 마무리 터치] 등을 의미합니다. 비유적으로 쓰여서 커리어의 화려한 마무리를 의미하기도 합니다.
   * 마무리 장식으로 이 빨간 리본을 사자. ex) Let's get this red ribbon as the final flourish.
@@ -2544,6 +2556,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## glutton
 * a glutton for punishment는 '사서 고생하는 사람, 힘든 일을 굳이 맡으려는 사람'을 가리키는 표현입니다. punishment 대신 다른 단어를 넣을 수도 있는데, a glutton for books는 책 욕심이 많은 사람, 책벌레, a glutton for work는 일을 정말 좋아하는 사람, 일벌레를 의미하죠. glutton은 원래 대식가, 무엇에 대한 욕심이 많은 사람이라는 뜻을 갖습니다.
+
+## gap
+* gap 은 공간적 '틈' 또는 '차이' 를 의미하는 단어인데요. 보통 사람의 앞니가 벌어졌을 경우 gap tooth 라고 합니다. 풀어서 말하면 He/She has a gap between his/her teeth 정도로 말할 수도 있어요.
+  * = 많은 사람들이 그의 벌어진 앞니가 그를 웃기게 보이게 한다고 하는데, 난 그게 약간 섹시하다고 생각해.Many people say that his gap tooth makes him look silly, but I find it kinda sexy.
 
 ## gang
 * : (미국식 관용어) 대성공하다, 크게 히트하다 [go gangbusters]
@@ -3016,8 +3032,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 40마일을 계속 걷고 나서 다리가 완전히 풀려버렸어. [ex] My legs completely gave out after 40 miles of non-stop walking.
 
 ### give away
+* give away 는 [내어주다] 의 의미를 가지는데요. 결혼식 중에 신부의 아버지가 신랑에게 신부를 내어주는 행위를 give away 로 표현을 합니다.
+  * = 폴이 그의 딸의 손을 잡고 들어오는 건 정말 아름다운 순간이었어. It was such a beautiful moment when Paul gave his daughter away.
 * : 선물로 주는 펜이 있는지 봐 봐. See if they've got those pens they give away.
 * : 내 만삭의 아내를 보면 모르겠어? Was it my very pregnant wife that give it away?  'give away' 는 나의 만삭의 아내를 보는 것 자체가 '어떤 사실을 말해주는 것' 이라는 의미를 가지고 있습니다.  
+
 ### give back
 * : 그거 돌려 줄래? Could you give that back? 돌려주다;  I can come and give it back to you.
 
@@ -4168,6 +4187,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * nice and flexible은 '좋고 유연하게'가 아니라 '충분히 유연한', '유연하게 딱 좋은 상태'를 뜻해요. nice and [형용사] = 충분히 혹은 딱 좋을 만큼 [형용사] 하다 라는 뜻이에요. 예시로 살펴볼게요.
   * 여기 따뜻하고 딱 좋아. It's nice and warm in here.
 
+## netflix
+* ① Netflix and chill = 라면 먹고 갈래?; → 문자 그대로는 집에 들어가서 넷플릭스 보며 쉬자는 거지만, 속 뜻은 함께 성관계를 갖자는 의미에요. Netflix and Chill 이 적힌 콘돔도 있다고 하네요!
+* ② get Netflixed = 넷플릭스 당하다; → 지나 키팅의 책 「Netflixed The Epic Battle for America's Eyeball」 에서 나온 말로 이전의 성공적 비즈니스 모델이 붕괴된다는 뜻입니다. 그만큼 넷플릭스가 업계에 큰 변화를 가져왔다는 의미겠죠.
+  * = 당신의 회사를 넷플릭스 당하게 만들지 마세요. 시장 변화에 빠르게 대응해야 합니다. Don’t let your company get Netflixed. You should quickly react to market changes.
+
 ## nerve
 * ※ There is a lot of nerves. / There are a lot of nerves. 회화에서는 둘 다 옳은 것으로 사용됩니다.
   * 긴장이 많이 되서 어떨 때는 내 심장이 심하게 뛰는 게 들릴 정도야. There are a lot of nerves and sometimes I can hear my heart pounding so hard.
@@ -4432,6 +4456,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그 사람은 위생과 청결에 대해 되게 까다로워. He's very particular about hygiene and cleanliness.
 
 ## part
+* not want any part of this = 이 일에 끼어들고 싶지 않다; 어떤 일에 말려들기 싫다는 것을 “그 일의 일부분도 원하지 않는다”라고 표현한 것입니다. this 대신 that 이나 일반명사로 의미에 맞게 바꿔주세요.
+  * = 물러서. 넌 이 일에 끼지 마. Step back. You don't want any part of this.
 * 막상 100달러짜리를 쓰려니 마음이 아픈가 보네요. 이처럼 주기 싫은데 마지못해 내놓거나 누군가와 헤어지는 것을 [part with 사물/사람] 이라고 합니다.  동사로 part 는 [갈라놓다, 가르다, 헤어지다] 를 의미해요. 그래서 가르마를 타는 것도 part hair 라고 하죠.
 	* 나는 아직 내 오래된 차를 처분하지 못하겠어. 내 자식과도 같아서. I don’t think I’m ready to part with my old car. It’s my baby.s
 * 부디 여러분도 여러분 몫만큼 기부를 해주세요. [ex] Please do your part and donate, too. : 어떤 일을 위해서 크든 작든 상관없이 '의 몫을 하다' 라는 뜻이에요!
@@ -5959,6 +5985,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 너 헤어오일 있니? 나 머리 뒤로 넘겨 빗고 싶은데. Do you have hair oil? I want to slick back my hair. 
 
 ## slip
+* = 손가락 사이로 빠져나가다 slip through one's fingers; slip 은 '미끄러지다, 빠져나가다' 의 의미를 가지는 동사입니다. 마치 물이나 모래 같은 것이 손에서 빠져나가듯이, 기회나 돈 등이 자기의 의도와는 상관없이 사라져버릴 때 쓰이는 표현입니다.
+  * = 그녀는 인생에 한 번 있을까 말까 한 기회를 그냥 떠나보내버렸어. She let the chance of a lifetime slip through her fingers.
  * 말이 #헛나왔어요             It was a #slip of the tongue.
   * 완전히 까먹었어.             I completely spaced it, It slipped my mind.  
   * 계단에서 미끄러졌어; i slipeed on the stairs

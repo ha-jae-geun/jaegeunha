@@ -111,6 +111,8 @@
 * diet regime: 따로 정해진 식단, 다이어트 식단, 다이어트 요법 등을 의미해요.
 
 # 치과 dentist's office(영국: dentist's surgery)
+* gap 은 공간적 '틈' 또는 '차이' 를 의미하는 단어인데요. 보통 사람의 앞니가 벌어졌을 경우 gap tooth 라고 합니다. 풀어서 말하면 He/She has a gap between his/her teeth 정도로 말할 수도 있어요.
+  * = 많은 사람들이 그의 벌어진 앞니가 그를 웃기게 보이게 한다고 하는데, 난 그게 약간 섹시하다고 생각해.Many people say that his gap tooth makes him look silly, but I find it kinda sexy.
 * 치과 치료중이다; i had dental work done
 * 어금니: molar; 
 * 신경치료를 받야 될 것 가요; i think i'm gonna to need a root canal
