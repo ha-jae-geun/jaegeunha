@@ -1,3 +1,6 @@
+# 토익
+* https://www.hackers.co.kr/?c=s_toeic/toeic_study/dlc&front=dailytoeic&category=LC&uid=5624
+
 # 오늘 단어
 * collector/sample/donation
 ------------------------

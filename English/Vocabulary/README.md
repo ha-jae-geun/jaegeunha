@@ -1223,6 +1223,7 @@
 ## cover
 * cover story는 신분을 감추거나 진실을 드러내지 않기 위해 알리바이처럼 꾸며낸 가짜 이야기를 일컫습니다. 또는 잡지의 커버에 나오는 표지 기사를 뜻하기도 하죠.
   * 경찰은 그들의 거짓 이야기를 믿지 않았다. The police didn't believe their cover story.
+* 여권 앞표지에 넣어두세요; into the front cover of your passport
 
 ## corner
 * 바늘 허리에 실 매어 쓰랴            You can''t cut corners.
@@ -1725,6 +1726,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 3) 영상을 직역하면 [500불에 최대 한도를 두겠어요] 정도이지만 좀 더 자연스럽게 [최대 500 달러 정도요] 라고 해석이 되었습니다.
 	* = 최선의 해결책은 봉급에 상한선을 두는 것이죠. The best solution now is to place a cap on the wage.
 
+## drum
+* 드럼소리; Drumroll
+
 ## dress
 * (고기, 닭, 생선, 게 등의) 음식 재료를 다듬거나 (뼈 발라내기, 털 뽑기 등), 샐러드에 풍미를 더 하는 소스를 더한다고 할 때 동사 dress를 사용할 수 있습니다. 샐러드 드레싱 (dressing)에서 드레싱이 바로 여기서 온 표현이죠.
   * 닭 손질하는 것 좀 도와주겠니?Can you help me dress the chicken?
@@ -1732,6 +1736,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## dry
 * # 막막; high and dry는 어려운 상황, 막막한 상황을 뜻합니다. 보통 leave someone high and dry라고 표현하여 ‘어떤 도움도 없이 혼자 남겨두다’라고 표현합니다.
     * 모두들 나를 혼자 힘든 상황에 내버려 두었지. Everyone just left me high and dry. 
+
+## definitely
+* 당분간 계속 못 할거에요; We're clsed indefinitely
 
 ## deep
 * 이 영화 진짜 심오하다. This movie is so deep.
@@ -1807,6 +1814,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## dance
 * 어떤 문제나 주제에 대해 명확히 이야기 하지 않고, 이야기 하는 것을 피하다 = dance around an issue/subject 직역하면 '~ 주변을 돌며 춤추다' 인데요, 어떤 특정 얘기를 안 하려고 피하는 몸짓이 춤동작 같다고 상상하면 기억하기 쉬울 것 같아요!
+
+## date
+* 티켓의 날짜가 잘못되었다; The date on the ticket was wrong
 
 ## data
 * 그리고 data 는 복수형이기 때문에 (단수형은 datum) 동사도 그에 맞춰야 하지만 일반적으로는 혼합해서 쓰는 편입니다. - The data is not accurate. (문법적으로 틀리지만 일반적으로 쓰는 말)
@@ -2126,6 +2136,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## frown
 * = 이 미간 주름을 어떻게 없애지? – 인상을 쓰지 마. How could I get rid of my frown lines? – Just stop # frowning.
+
+## freak
+* 결벽증; a neat freak
 
 ## free
  * 마음대로 ~해                   feel free to V
@@ -3485,6 +3498,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * Jacked up              제대로, 의도했던 대로 되지 않음
   * #jack off #자위
 
+## junk
+* 뒷 자리에 물건 좀 치울게; Let me get htat junk out of the back seat
+
 ## judge
 * : 누군가가 어떤 일에 옳고 그름 등을 잘(못) 판단하다 [ 숙어 ] be a good(bad) judge of something 여기서는 good의 비교급 better가 사용되었어요~ 그건 당신보단 내가 더 잘 안다는 뜻이죠. good, bad 외에 excellent, poor처럼 다른 형용사들이 들어갈 수도 있답니다.
   * 나는 사람들이 정직한지 안 한지를 잘 파악하지. I'm a good judge of people's honesty.
@@ -4158,6 +4174,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## neat
 * 위스키는 다양한 칵테일의 베이스가 되곤 하여 여러 가지 음료와 섞어서 먹는데요. 아무것도 섞지 않은 채로 먹는 위스키를 neat whisky 라고 합니다. 우리말로는 보통 '스트레이트' 하게 먹는다고 하는데요. neat 하게 먹는다도 많이 쓰입니다.
+* 결벽증; a neat freak
 
 ## neither
 * 명사 앞에서만 수식하는 이 형용사는 ‘아랫부분의’란 뜻을 가지고 있습니다. 특히 nether regions라고 하면 생식기를 지칭하는 ‘아랫도리’를 나타내기도 합니다.
@@ -4714,6 +4731,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 전 잘 알려진 친구들이 많아요. I have a lot of high-profile friends.
   * 보세요! 전 정말 옆모습이 아름다워요! I have such a fine profile!
 
+## poll
+* 투표로 했었따; He put to a poll, what we should call our subscriber
+
 ## polar
 * 북극곰이 영어로 polar bear 인 것 아시나요? polar 는 '양극의' 또는 '극과 극' 을 의미합니다. 남극은 South Pole, 북극은 North Pole 이라고도 하죠.  따라서 polarize (극단화하다) 에 ~ing 가 붙음으로써 "극단화하는" 정도로 해석이 됩니다. 좋아하는 사람들은 완전 좋아하고, 싫어하는 사람은 완전 싫어하는 거죠. feature 는 '특징' 이라는 뜻이기 때문에 짙은 눈썹이 '극단화하는 특징' 즉, '호불호가 갈릴만 한 부분' 이라는 뜻이죠!
   * 두리안은 냄새 때문에 가장 호불호가 갈리는 과일들 중 하나입니다.  ex) Durian fruit is one of the most polarizing fruits in the world because of its smell.
@@ -4804,6 +4824,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 핵심; the point is; 본론으로 가다; get to the point; 요지, 주장을 알겠따; see one's point; 요점을 파악 못하다; miss one's point
 * 삶에 대해 이야기할 때 'high points' 란 아주 행복하고 기뻤던 순간들을 뜻해요. 어떤 경험에 대해 이야기할 땐 가장 신나고 즐거웠던 순간을 뜻하기도 합니다.
   * 그게 우리 여행의 하이라이트였어 그게 우리 여행의 하이라이트였어.
+
+## prepare
+* # prep; 자동사로도 쓸 수 있고, 타동사로도 쓸 수 있다.
+* 명사 앞에도 쓰이기도 한다; 입시 학원: a prep school
 
 ## pretty
 * : 'please, 제발'의 강조형으로 '제발 부탁이야', '제발, 응?' 정도예요. 더 간곡히 부탁할 때는 'pretty please with sugar/a cherry on top' 이라 말하기도 해요! 최대한 공손하게 조를 때 쓸 수 있어요. 사람에 따라 애교를 섞어서 쓰기도 해요. 모두 다소 비격식적인 표현으로 격식 있는 자리에서는 부적절할 수 있으니 주의하세요!
@@ -6200,6 +6224,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그 곡은 정말 명곡이에요. That number sure is a showstopper.
 
 ## shoot
+* (특히 잇속을 차리려다가) 자기 무덤을 파다 shoot yourself in the foot 미국식  영국식   단어장추가
 * "금액을 제시해 보세요."  "Shoot me an offer" 여기서 shoot me는 날 쏘라는게 아니고, ‘주다, 건내주다’입니다. 그래서 바꿔 말하면 give me an offer 입니다. 
 		* 빵 좀 줘. Shoot me some bread.  Don’t forget to shoot me an email! 
 * #shoot: 1. 쏘다 2. #새싹; eat shoots and leaves
@@ -6545,6 +6570,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 우리 아버지 별장은 산속 조용한 곳에 위치하고 있어요. ex) My father's cottage is tucked away in a forest.
 * 테드는 저녁을 실컷 먹었어. 내 생각엔 그가 배고팠던것 같아. ex) Ted tucked into dinner. I think he was hungry.
 
+## tilt
+* 그녀는 고개를 갸우뜽했다; She tilted her head
+
 ## tip
 * 어떤 익명의 기자가 JTBC에 제보했어. An anonymous reporter tipped off about JTBC; tip off; 1. 제보  2. 귀띔
 
@@ -6553,6 +6581,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 왜 아직도 숙취가 있지? 숙취 고생살이 충분히 했다고! [ex] Why am I still hungover? I've done my time!
 
 ## ticket
+* 매표기; People are lined up at a ticket kiosk 
 * ○ Can we buy the tickets online? (표를 온라인에서 살 수 있나요?)
   * ○ This train ticket is very confusing (이 기차표 너무 헷갈린다)\
   * ○ Can we share the ticket? (우리가 그 티켓을 같이 사용할 수 있나요?)
@@ -6590,10 +6619,14 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## thank
 * ~에게 개인적인 감사의 말을 전하고 싶네요. I'd like to say a few personal thank-yous to ~ 마지막에 감사의 말을 덧붙일 때 요 표현 아주 유용하겠죠? 여기서 'thank-you'는 셀 수 있는 명사라 '-s'가 붙었어요!
 
+## thug
+* [명사] (비속어) 어려움에 굴복하지 않고 성공을 지향하는 삶((흑인 힙합 문화에서 나온 말)) 어려운 환경에 굴하지 않고 성공하려 노력하는 그의 삶을 존경한다. I respect his thug life. 
+
 ## thumb
 * 경험에 바탕을 준 법칙; a handy rule of thumb; 2. 어림 짐작햇; as a rule of thumb
 
 ## thick
+* 가끔 둔할때가 있따니까; can be so thick sometimes
 * 공기가 먼지로 자욱해요; "The air is thick with dust."
 * thick 은 [빽빽한/두꺼운] 의 의미를 가지는 단어에요. 뭔가 빽빽하게 가득차있는 것 안에 들어가 있는 뉘앙스의 표현입니다.  = in the thick of; ~이 한창일 때, ~의 중심에 있는
   * 제이슨은 논쟁의 중심에 있는 것을 즐긴다. ex) Jason enjoys being in the thick of controversies.
@@ -6754,6 +6787,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 섹스 얘기를 한 게 아니었는데. 너는 그것만 생각하는구나.  I wasn’t talking about sex. You have a one-track mind.
 
 ## town
+* 비틀스가 온거랑 비슷하네요; It's like the Beatles are in town; in town: 와 있다.
 * : (비격식) OO을 열심히/제대로 하다, 신나게 즐기다  [ 숙어 ] go to town (on OO) 어떤 일을 하는 데 있어 정말 열심히 하는 걸 의미하는데, 한편으로는 돈 같은 걸 흥청망청 써서 즐기는 것, 무언가를 절제 없이 엄청 많이 하는 걸을 의미하기도 합니다. 성적인 의미에서 '격렬하게' 한다는 뜻으로도 사용해요^^
   * 재닛이 파티를 열면 정말 제대로 한다. When Janet throws a party, she really goes to town.
 
@@ -7012,6 +7046,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : (두 사람 이상이) 동시에 말을 하다 [talk in unison] 영상에서처럼 같은 말을 동시에 말하는 걸 뜻합니다. in unison이 ‘함께, 동시에, 조화를 이루어’란 뜻이므로 sing in unison이라고 하면 ‘동시에 같이 노래부르다’, work in unison은 ‘함께 조화를 이루어 일하다’란 의미가 됩니다.
   * 일란성 쌍둥이들이 동시에 말할 때 정말 귀여워. It's really cute when identical twins talk in unison.
 
+### union
+* 노동조합에 가입된 노동 인구 a unionized workforce 
+
 ## universal
 * [a universal language] 를 직역하면 [만국 공통어] 입니다. 하지만 예를 들어 [Music is a universal language.] 라고 말하면 그 음악이 말 그대로 언어- 라기 보다는, 음악은 어디서든 어떤 감정을 불러일으키기 때문에 쓰인 표현이라고 볼 수 있는데요.  영상에서도 직역하면 [전쟁은 어디에나 존재하는 언어이다] 이지만, 전쟁을 하는 이유가 어디서든 명백하기 때문에 [전쟁은 (똑같은 목적으로/모두가 이해가능한 목적으로) 어디서나 일어난다] 로 의역이 되었습니다.
   * = 감정은 만국 공통어야. 네가 숨기려고 해도 모두가 알 거야. Emotion is a universal language. Everyone will notice it even if you try to hide it.
@@ -7123,7 +7160,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
       
 
 ## word
-* 말장난할 시간이 없어요.  [ex] I don't have time for word play. 2. word play = 말장난                           
+* 말장난할 시간이 없어요.  [ex] I don't have time for word play. 2. word play = 말장난
+* 한 마디도 하지 마; Don't say a word                    
 
 ## worry
 * i worry about you: 항상 걱정한다.  i'm worried about you: 말하는 그 시점에 걱정한다.
@@ -7279,6 +7317,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그는 대중의 엄청난 지지를 얻었습니다. [ex] He has won huge public support.
 
 ## window
+* 창문을 내리고 제 타이어를 가르켰다; He put down the window and pointed a finger at my tire
 * : '창문 밖으로 나가다, 던져지다'라는 말 그대로의 뜻이 시사하듯, '사라지다', '아무 소용 없게 되어버리다' 라는 말이에요! 예문을 보면서 뉘앙스를 더 익혀보세요. [ 관용구 ] go (right) out the window
   * 예술가로서 그 사람을 존경했었는데. 이젠 그런 존경 따위 다 사라졌지. I used to respect her as an artist. Now all that has went out the window.
 * : 쓸 데 없게 되다, 사라지다 [ 숙어 ] go out (of) the window

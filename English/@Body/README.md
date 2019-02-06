@@ -376,6 +376,7 @@ Don’t cross your legs bc when you put one knee over the other, it sends blood 
 	* = 이 미간 주름을 어떻게 없애지? – 인상을 쓰지 마. How could I get rid of my frown lines? – Just stop # frowning.
 * 왜 사람의 입냄새가 심할 때 kicking이라고 할까요? 사람의 입냄새는 공기중으로 스멀스멀 퍼지는 것이 아니라 갑자기 훅 들어오는 기분이죠? 그래서 뭔가 강하게 치는 느낌이라서 kicking이라고 표현하는 겁니다. 혹은 have a bad breath라고도 합니다! Seriously, your breath is kicking. Go brush your teeth.
 * 두꺼운 #입술 ##입 fuller lips full lips
+	* 두꺼운 입술은 fat lips라고 하지 않는다. fat lips: 부은 입술
 	* 입술은 탱탱해; my gloss is popping
 	* 입숭를 더 오므려봐; Purse your lips more.
 	* 입술에 물집 I got blisters on my lip
@@ -712,7 +713,8 @@ My first cellphone was quite #bulky and heavy. 나의 첫 핸드폰은 꾀나 �
 멍: 										 Black-eyed
 #멍
 * 눈 돌리다 									 roll my eyes
-* #곁눈질 out of the #corner of my eye, in my #periphery
+	* 눈은 아래로 쳐저있다; someone's eyes are upward/downward slanting
+	* #곁눈질 out of the #corner of my eye, in my #periphery
 * 360도 시야 360 degree peripheral vision
 * #binocular; #두 눈으로 보는; binocular vision; binocular telescope
 * 눈이 부었네. 		 		 ''pʌfi Your eyes are puffy. You got puffy eyes

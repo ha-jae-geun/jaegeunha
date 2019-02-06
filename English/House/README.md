@@ -115,6 +115,7 @@
 	* 맞춤 붙박이 가구에요; All custom built-ins
 	* 가구: furniture; 조립식 가구; DIY furniture(Do it yourself)
 * 찬장 열어서; open up my cupboard; 
+	* 미국에서는 closet이라고 하는 걸 영국에선 cupboard이라고 많이 말하기 때문에 특정하게 부엌 찬장을 말하고 싱플 땐 kitchen cupboard라고 많이 말해야 한다.
 * 냉장고에 넣을 공간이 없어요; i have no more room in the refrigerator
 	* refrigerate = fridge; 냉장고: fridge 냉동고: freezer; 영국: fridge-freezer
 * 그는 거울에서 자기를 확인한다; He checked himself in the mirror

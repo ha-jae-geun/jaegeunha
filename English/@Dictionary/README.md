@@ -1969,6 +1969,7 @@
 
 
 # 능숙
+* 너 이거 엄청 잘하네; YOu're a pro at this
 * old hand; she’s an old hand, skillful in everything, be skilled in
  * 이런 일에는 당신이 노련합니다. 
  * ‘si:znd : 노련한, 양념이 된 You are seasoned with this kind of thing. 
@@ -4495,6 +4496,7 @@ retaliate
 * yellow; 겁이 많은 2. 사랑하는 사대를 향한 아름다움(콜드플레이 - Yellow
 * 누가 나의 우울함에서 살아을 찾는걸까? Whho tripped the red wire out of the blue? red: 사랑
 * 'the boys in blue'는 경찰을 재밌게 표현하는 방식이랍니다. 푸른 제복 때문일텐데요~ 이처럼 'blue'가 경찰의 상징으로 사용되는 경우가 종종 있습니다. "Black lives matter"가 피부색 때문에 과잉진압되는 흑인들을 위한 구호라면, "Blue lives matter"는 경찰이 스스로를 보호할 권리를 보장하라는 구호랍니다.
+    * 귀족의; blue bloodS
 * : '회색 지대, 애매한 영역'을 뜻해요! 흑백 논리로 나눌 수 없는 애매한 중간이라 생각하면 기억하기 쉽겠죠?
     * 회색 지대는 항상 있기 마련이야. There's always a grey area.                           
 
@@ -5048,6 +5050,7 @@ retaliate
   * 인도 여행은 내 시야를 확 넓혀주었지. My trip to India was quite an eye opener.
 
 # 시작
+* 처음부터; Out of the gates
 * ground-breakers = 개척자, 창시자, 독창적인 것; 땅을 깨부수고 천지를 개벽할 만큼 놀랍고도 획기적인 일을 하는 사람을 groundbreaker 라고 합니다. 혹은 groundbreaking 처럼 형용사로도 쓰는데요, ‘획기적인, 독창적인’을 의미해요.
 * 1. 시작할 준비가 되었다, 이제 막 시작하겠다 
   * 자, 시작해보겠습니다! [ex] Okay, here we go!
@@ -5711,6 +5714,7 @@ retaliate
 * 뭐처럼? Like what/who/where?
 
 # 예의
+* [명사] 상식적인 예절. common decency 미국식  영국식   단어장추가
 * 예의바르게 행동해 mind your Ps and Qs 
   * decency는 체면, 품위, 예절이라는 뜻이에요. [have the decency to + 동사]는 '~할 예의를 갖추다', '~함으로써 최소한의 도리를 하다'라는 뜻. 부정문으로 말할 때는 상대방이 해야 마땅한 일을 안 했음을 비판하는 투가 되어요.
     * 걔한테 사실대로 말해야 하지 않겠어? ('그 정도 도리는 갖춰야 하지 않겠어?') You should have the decency to tell her the truth. [ˈdiːsnsi]
@@ -7231,6 +7235,7 @@ retaliate
   * 그녀는 오랜 시간을 들여서 단서를 찾기 위해 지문을 면밀히 읽었다. She spent hours poring over the text to search for a clue.
 
 # 조심
+* 조심해; Okay, caution
 * keep one's head down: 그대로 풀이하면 '고개를 숙인 채로 있다'인데요, 위험을 피하기 위해 몸을 낮추듯, 괜히 다른 사람의 주의를 끌어 곤란한 지경에 빠지지 않도록 '눈에 띄지 않게 조용히, 신중히, 얌전히 행동하는 것'을 말해요. 
   * 시킨대로만 얌전히 행동해. Do what you’re told and keep your head down.
 * 차 조심해; Watch out for the cars
@@ -7277,6 +7282,7 @@ retaliate
   * 아무런 # 반응을 보이지 않았어; I didn’t #respond
   * 둘 다 ‘반응’이란 뜻으로 쓰이는데요, 굳이 나누자면 reaction은 어떤 일에 대해 ‘어떻게 반응하는지’에 가깝고 reception은 ‘어떻게 받아들이는지’에 가깝습니다.  그래서 이 문장은 우울증 약을 복용하고 있다는 영상을 올린 후에 친구들이 이상하게 받아들였다는 것입니다. 물론 여기서 reception을 reaction으로 대체해도 의미는 같습니다.
     * 그는 그의 팬들로부터 냉대를 얻었다. He had a cold reception from his fans.
+  * 무릎 반사, (비유) 뻔한[예상대로의] 반응 an instinctive[knee-jerk] reaction 미국식  영국식   단어장추가
 
 # 존경
 * look up to = #respect = #admire
@@ -7875,6 +7881,7 @@ retaliate
 * 여담이지만, 저 영계들이 카렐을 좋아하는 것같네요.  On a side note though , the chicks seem to love Carell. 듣기
 
 # 참다
+* 더는 못참아; i can't take it anymore; i'm fed up; i've had enough; i'm sick of this
 * 비가 오기 시작한다! 더 이상 안 되겠다. 피크닉은 취소야! Now it's raining! That's the last straw. The picnic is canceled! 
   * # 인내; tenacious는 '집요한', '완강한', '끈기있는'이라는 뜻의 형용사랍니다. 명사 형태는 tenacity입니다.
     * 비즈니스에서는 끈기가 가장 중요한 성공요인이다. Tenacity is the most important success factor in business.

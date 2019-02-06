@@ -15,6 +15,7 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 * 야식 먹으려고? Are you going to eat a midnight snack?
 
 # tool
+* 취사도구: cookware 미국식 [-wer]  영국식 [ˈkʊkweə(r)] 
 * 주전자; 이걸 주전자에 넣고; we're gonna put this into our pitcher
 	* 우유/물 주전자[병] a milk / water jug 
 		* 이 커피 한통이면 몇 명이나 마실수 잇나요? How many people does a jug serve?

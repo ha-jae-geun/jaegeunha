@@ -259,8 +259,8 @@
 * say (to 사람)that절 ~에게 을 이야기하다.(explain announce)
 
 # 관용어
-* go -ing
-* have difficulty -ing
+* go -ing; 블
+* have difficulty -ing; 블
 * be worth -ing = be worthy of -ing = be worth while -ing = be worth while to v
 * on -ing ~하자마자 온하(화)
 * in -ing ~할 때 인태
@@ -302,7 +302,7 @@
 * #자동사
 * 수동태 안 되는 대표 자동사: occur, break out(전치사 더해져도 자동사인 케이스), happen take place(일어나다 1형식) arrive consist of(on of with 다 안됨) work participate emerge become(어울리다) fit suit reach belong to possess remain in stay look seem happen decline rise result from result in lack reach compete(with in for against 다안됨)
 
-* *예외 
+* 예외 
 * 1.수동태 되는 자동사(전치사랑 합쳐서 숙어라고 할 수 있는 단어들)
 * (전치사와 by 겹침 ex( be laughed at by)
 * account for add to agree with(to,on) apologize to arrive at graduate from
@@ -418,9 +418,9 @@
 * be+cognizant of : ~을 인식하다. 
 * be+appreciate of: ~에 대해 감사하다.
 * be+aware of : ~에 대해 알고 있다.
-* be+compatible with : ~와 호환이 가능하다.
+* be+compatible with : ~와 호환이 가능하다; 블
 * be+subject to 명사 : (명사)해야 한다, (명사)하기 쉽다. You are subject to fine.
-* be+commensurate with: ~와 비례하다.
+* be+commensurate with: ~와 비례하다; 블
 * be+critical to 명사 : ~에 있어서 중요하다
 * be+critical of 명사 : ~에 대해 비판하다.
 * be+eligible for 명사 : ~할 자격이 있다.
@@ -670,7 +670,7 @@ save write design
 * is thinking: 진지하게 생각하다
 
 * 동명사로 혼동하지 말아야할 -ing명사
-* seating(좌석 배치), dining(식사), opening(공석), widening(확장), pricing(가격 책정), staffing(직원 채용)
+* seating(좌석 배치), dining(식사), opening(공석; 블), widening(확장), pricing(가격 책정), staffing(직원 채용)
 
 * building setting(장소) training(교육) an opening(공석) processing(처리,가공) ticketing (발권) advertising spending downsizing(간축 조정) urging(촉구 funding(자금 지원) financing(융자) testing(검사) restructuring(구조 조정) lending(대출) accounting(회계) pacakaging(포장) housing(주택)
 * #과거 시제#
@@ -847,7 +847,7 @@ save write design
 * 2.that절
 * ① 명사+that절(불안전) : 관계대명사절
 
-* ② 4형식 동사(타동사)+간목+ that절 : tell remind assure advise inform instruct notify convince
+* ② 4형식 동사(타동사)+간목+ that절 : tell remind assure advise inform instruct(블) notify convince
 * ③ 추상적 사실+ that(완전절): 동격의 that
 the [fact ,concept,idea,opinion,news,rumor] that
 
@@ -1028,7 +1028,7 @@ the [fact ,concept,idea,opinion,news,rumor] that
 * lively 활기찬
 * deadly 치명적인
 * likely 일어날 듯한
-* cowardly 겁많은
+* cowardly 겁많은; 블
 * daily 일간의
 
 * 형용사,부사 다 되는 시간 명사+ly

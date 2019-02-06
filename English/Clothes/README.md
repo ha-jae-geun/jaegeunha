@@ -17,6 +17,7 @@
  * attire; 옷을 얼마나 갖춰입었는지
    * formal attire, casual attire, business attire
 
+* 시스루; 다 비치눈 가운을 입었죠; Her dress for the evening was a sheer gown
 * 미국영어로 실핀은 'bobby pin'이라고 부르는 것이 보편적이랍니다.
   * 실핀들을 이용해서 머리 위의 땋은 부분을 고정하세요. [ex] Use bobby pins to secure the braid on top of the head.
 * 꾸미다; primp 와 preen 모두 [몸치장을 하다] 의 의미를 가져요. primp 의 경우엔 머리나 메이크업을 약간 고치기 위해 시간을 쓰는 것을 의미하고, preen 의 경우엔 좀 더 매력적으로 보이기 위해 단장하는 것을 의미하는데요. 보통 영상에서처럼 함께 쓰입니다.
@@ -247,6 +248,8 @@
   * #Gown; 1. 목욕탕 가운 2. 특별한 날 입는 긴 옷 a party #frock; 드레스
   * 1) bathrobe 의 줄인말로 목욕이나 샤워 후에 따뜻함을 주고 남은 물기를 없애주기 위해 입는 가운을 의미합니다. 보통 잠옷 위에 입는 가운은 gown 이라고 합니다.
   * fill out; 양식을 채우다; 2. 살찌다 3. 풍만하다; 진정한 바다 여신은 풍만해야해; a true ocean goddess must fill out her bodice; bodice: 여성 드레스의 허리위에서 어깨까지 즉 가슴부분 [ˈbɑːdɪs] 
+  * 실제 가운은 robe라고 부른다.
+    * 샤워 가운: bath robe; 수면 가운: sleep robe / night robe
 * #재벌 2세 같다. 							 You look like a million bucks.
 * 여자 재벌 2세 ; #heiress (특히 상당한 재산의) 여자 상속인
 * #황태자 #crown prince(#prince)
@@ -269,6 +272,7 @@ sportwear ; sweaet suit, jogging suit
 * 트랙을 달리기 위한 tracksuit, 상의 : sweatshirt/jersy 하의: sweatpants/running shorts
 * 등산복: hiking clothes, 유니폼: (태권도)uniform
 * 수영복 swimwear/swimsuit/beachwear | 남자: swimming trunks, 삼각: speedo, 전시: full body swimsuit
+  * 하나로 된 원피스 수영복: one-piece swimsuit
 * 여성: one-piece swimsuit, 비키니+하의: tankini, 끈으로 된 수영복: thong/G-string
 * #승마복: riding habit, equestrain uniform,
 * #체조복: leotard, body suit
