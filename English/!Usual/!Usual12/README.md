@@ -1,3 +1,202 @@
+# 쓸만한 영어 - 대중교통 이용시 - 이 버스 어디 가나요? - 길 건너 타야 하나요? \영어회화\영어공부
+ *  in a circle
+ *   직역 : 원으로
+ *   의미 : (문맥상)한바퀴 돌아서 
+ * 
+ * - Does this bus
+ *   이 버스가 
+ * 
+ * - Does this bus go in a circle?
+ *   직역 : 이 버스가 원(의 방법)으로 가나요?
+ *   의미 : 이 버스가 돌아가나요?
+ * 
+ * - Loop
+ *   고리
+ * 
+ * - make a loop
+ *   직역 : 고리를 만들다
+ *   의미 : (문맥상) 고리를 그리는 모양새로 돌다
+ * 
+ * - Does this bus make a loop?
+ *   직역 : 이 버스가 고리를 만드나요???
+ *   의미 : 이 버스가 순환노선인가요?
+ * 
+ * - 길을 물을 땐 한 사람에게만 묻기보다는 
+ *   여러 사람의 말을 듣고 찾아가는게 더 좋습니다~^^
+ * 
+ * 
+ * - 알아두면 좋은 Tip 1.
+ *   한국어로는 버스와 지하철 상관없이 같은 "길 건너"이지만 
+ *   영어로 말할 때는 구체적인 상황에 맞추어
+ *   버스를 탈 때와 지하철을 탈 때 "길 건너" 차이가 있어요.
+ * 
+ * - on the other side of the street
+ *   길에서 버스를 탈 때에는
+ *   길의 다른 한 쪽/ 맞은(반대)편의 그림
+ * 
+ * 
+ * - on the other side
+ *   길에서 버스를 탈 때에는
+ *   길의 다른 한 쪽/ 맞은(반대)편의 그림
+ * 
+ * - on the opposite side (of the street)
+ *   길에서 버스를 탈 때에는 
+ *   길의 다른 한 쪽/ 맞은(반대)편의 그림
+ * 
+ * - on the other side (of the street)
+ *   on the opposite side (of the street)
+ * 
+ * the other(/opposite) side라고 해도 이해할 수 있지만 
+ *  "전철이 가는 방향"에 더 초점이 맞춰져서 direction을 사용
+ * 
+ * - 예) "좋은 길(방향으)로 이끌어주셔서 감사합니다."
+ *   길(way)에 공간이 보이시나요?
+ *   그래서 in이 way/ direction과 잘 맞음
+ * 
+ * - in the opposite direction
+ *   반대 방향(길)으로
+ * 
+ * - 예시상황 1.
+ *   (저 헐리우드 가는데요) 이 버스 헐리우드 가는 거 맞나요? 아니면 길 건너에서 타야하나요?
+ * 
+ * - Excuse me, I'm going to Hollywood.
+ *   저기요, 제가 헐리우드 가는데요..
+ * 
+ * - Are you going to Hollywood?
+ *   (기사님) 헐리우드 가나요?
+ * 
+ * - I'm going to Hollywood.
+ *   (저는) 헐리우드 가는데요.
+ * 
+ * - Is this the right bus?
+ *   여기에서 타는게 맞나요?
+ *  
+ * - 아니면 길 건너에서 타야하나요?
+ *   Or should I take it on the other side of the street?
+ *   아니면 길 건너에서 타야하나요?
+ * 
+ * - Excuse me, I'm going to Hollywood. 
+ *   Is this the right bus?
+ *   Or should I take it on the other side of the street?
+ * 
+ * - 상대방에게 항상 친절한 대답을 기대할 수 없더라도 
+ *   질문을 할 때는 더 크고 자신있는 소리로 물어보세요~
+ * 
+ * - 예시상황 2. (버스를 탔을 때)
+ *   LA 다운타운 (시내)를 가려고해요.
+ *   반대쪽에서 타야하나요?
+ * 
+ * - Excuse me, I'm going downtown.
+ *   Should I take it on the other side?
+ *   LA 다운타운 (시내)를 가려고해요.
+ *   반대쪽에서 타야하나요?
+ * 
+ * - 알아두면 좋은 Tip 2.
+ *   문법보다는 용법이 중요한 경우
+ *   'downtown' + (도시 이름)을 꼭 같이 말해야할까?
+ *   예) 현재 LA에 있는 사람이 'LA 시내를 간다'고해서 
+ *         "I'm going downtown LA."라고 하지 않음
+ * 
+ * - San Francisco에 있는 사람이
+ *   "I'm going downtown San Francisco."??? (X)
+ * 
+ * - 말과 글은 차이가 있음
+ * 
+ * - 예시상황 3. (지하철을 탔을 때)
+ *   전 Farmers Market(파머스마켓)을 가요.
+ *   반대편에서 타야하나요?
+ * 
+ * - Excuse me, I'm going to the Farmers' Market. 
+ *   전 Farmers Market(파머스마켓)을 가요.
+ *   반대편에서 타야하나요?
+ * 
+ * - Should I take it going in the opposite direction?
+ *   직역 : 반대방향으로 가는 것을 타야하나요?
+ *   의미 : 반대방향에서 타야해요?
+ *   going은 it(그 버스)를 꾸며주는 말로 보세요~ 
+ * 
+ * - Excuse me, I'm going to the Farmers' Market.
+ *   Should I take it (going) in the opposite direction?
+ *   going을 빼면 it (그 버스)를 반대편에서 타는지를 묻는 말
+ *     비슷한 의미의 다른 문장으로 보세요.﻿
+
+# 쓸만한 영어 - 전화를 건 상대방의 이름을 물을때 쓸만한 영어 / 지금 어디서 전화 하시는거죠? / 영어회화/영어공부
+ * - Can I have your name, please?
+ *   성함이 어떻게 되세요?
+ *   다짜고짜 What's your name? 보다 알맞고 정중함
+ * 
+ * - Who am I talking to?!??? (X)
+ *   지금 내가 말하고 있는게 누구야?!???
+ * 
+ * 
+ * 
+ * 
+ * <보충수업>
+ * 
+ * - 전화를 건 상대방이 누구인지 궁금할 때
+ * 
+ *   누구세요?
+ *   전화거신 분이 누구시죠?
+ *   어디에서 전화하시는거죠?
+ * 
+ * - Who am I speaking to, please? / 
+ *   (또는)
+ *   With whom am I speaking? / 
+ *   (또는)
+ *   Can I ask who is calling, please?
+ *   직역 : 내가 지금 누구와 말하고 있나요?
+ * 
+ * 
+ * Q 1. (전화통화시) 상대방의 이름을 정확히 듣지 못해서 
+ *   '죄송한데..이름을 잘 못 들었어요.'
+ *   (힌트 : 이름을 잡지 못했다는 뜻)
+ * 
+ * A 1. I'm sorry, 
+ *        죄송한데요.
+ *       I didn't catch your name.
+ *        이름을 못 들었어요.
+ *      Can you say that again, please?
+ *      다시 한 번 말씀해주실래요?
+ * 
+ * catch : 콱 잡았다가 놓는 그림
+ * 
+ * 중요한 것은 상대방이 누구인지 궁금하다고 Who are you? (X), Who am I talking to? (X)
+ *     꼭. 기억해두세요.
+ * 
+ *     하.지.만. 예외상황이 있긴합니다.
+ * 
+ * ==========
+ * 
+ * - Can I have your name, please?
+ *   성함이 어떻게 되세요?
+ * 
+ * - Can I have your last name, please?
+ *   (이름)성이 어떻게 되세요?
+ * 
+ * - 스펠링을 좀 불러주시겠어요?
+ *   이름 스펠링이 어떻게 되나요?
+ * 
+ * - Can you spell your last name for me, please?
+ *   이름 성 스펠링을 좀 불러주시겠어요?
+ *   이름 성 스펠링이 어떻게 되나요?
+ * 
+ * 
+ * [복습]
+ * 
+ * - 이름이 어떻게 되나요?
+ *   Can I have your name, please?
+ * 
+ * - (이름)성 철자를 불러주실래요?
+ *   Can you spell your last name for me, please?
+ * 
+ * - (전화통화시) 누구세요?
+ *   Can I ask who is calling, please?
+ * 
+ * - 죄송한데, 이름을 미처 못 들었어요.
+ *   다시 한 번 말씀해주실래요?
+ *   I'm sorry, I didn't catch your name.
+ *   Can you say that again, please?﻿
+
 # 쓸만한 영어 - 물건을 잃어버렸을 때 꼭 필여한 영어표현 - Lost&Found\영어회화\영어공부
  * - 내가 여기 20분 전에 점심 먹으러 왔었어요.
  * - 어떤 문장을 떠올렸을 때 생각이 복잡해진다면 

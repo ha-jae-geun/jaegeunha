@@ -8,6 +8,8 @@ Michelangelo is a piece of Lewis Sans who shows talent in sculpture, sculpture, 
     The shape is in the stone from the beginning. I just shaved off unnecessary parts.
 
 # 그림
+* 입체감을 주세요; give them dimension
+* 졸라맨 밖에 못그린댔잔ㅇ하; YOu said you could only draw stick figures
 * 2) stylized는 글이나 미술, 음악이 정형화된 예술적 양식을 따른다는 뜻으로 그렇기 때문에 자연스럽지 못하다는 뉘앙스를 갖고 있습니다. 당시의 많은 백설공주의 음악은 1930년대 소프라노 성악가의 목소리로 불러졌기 때문에 예술적으로 기교는 있지만 우리가 자연스럽게 듣기에는 어색한 점이 있다고 하네요.
   * 그의 노래들은 진부하고 시대에 뒤떨어졌다. (여기서 stylized는 정해진 틀에 맞춰졌기 때문에 진부하다는 뜻) His songs are stylized and out of date.
 * 정부 후원; government patronage of this arts

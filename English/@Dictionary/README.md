@@ -4567,6 +4567,7 @@ retaliate
 	* = 그게 일반적 통념이라는 건 알지만, 그게 모든 상황에서 항상 옳다는 걸 의미하진 않아. I know that's conventional wisdom, but it doesn't mean that it's always right in every situation.
 
 # 설명
+* 진짜 설명해야 돼요? Do i really need to spell it out for you?
 * : '에게 단계별로 하나하나 설명하다'라는 뜻이에요. talk someone through; explain the process는 '절차를 설명하다'라는 뜻으로, 말로 한번에 모든 설명을 하는듯한 느낌이에요. 반면 talk someone through the process는 '절차를 하나씩 보여주면서 설명하다'라는 느낌!
 * 대략 알려주다, 설명해주다. = give a rundown rundown 은 요점별로 하는 대략적인 설명을 의미해요. 바로 뒤에 이어서 나오는 영상을 보시면 시간 별로 일론 머스크가 무슨 일을 하는지 대략적인 설명이 나옵니다. 뒤에 전치사 on 과 함께 쓰여서 [~에 대한 대략적인 설명] 이라고 표현할 수 있어요.
   * 내일 있을 회의에 대해서 간단히 설명 좀 해주시겠어요? ex) Can you give me a rundown on the meeting tomorrow?
@@ -8331,6 +8332,7 @@ retaliate
 * 수학은 제 강점이 아니에요. Mathematics is not my forte. 1. strong point (강점) 2. strength (장점) 3. strong suit [soot] (특기, 장점, 장기)
  * 밝은 색상은 그의 # 특징이다.       ‘sɪgnətʃə(r) Bright colours are his signature
  * Police said the explosion bore all the #hallmarks of a terrorist attack.
+ * 그게 특징이에요; That's one of the specialities of korean beef
 
 # 특별
 * 특별한 날: special #occasion
@@ -8454,6 +8456,8 @@ retaliate
  * #hassle free
 
 # 평가
+* 평가를 내리신 거군요; You sized him up
+* # 기준; 빈정거림은 가능성을 측정할 수 있는 기준이 된다고들 하잖아; You know they say sarcasm is a metric for potential
 * 동사 hype 은 대대적으로 과장된 광고, 마케팅, 언론보도를 하는 것을 말합니다. 그래서 overhyped brand 는 실제보다 더 가치가 뻥튀기 된 브랜드를 의미하는 거죠. 
   * 1. 동사 vet은 '면밀히 심사하다, 평가하다'라는 뜻이에요. 보통 어떠한 직책을 맡을 후보에 대해 말할 때 쓰는 표현이죠. vetting은 vet의 명사 형태구요. this is the first round of vetting
   * 나는 그가 좋은 선수라고 생각하지 않아. 그는 과대평가되고 있어.  I don’t think he is a good player. He’s being overhyped/overrated

@@ -53,6 +53,7 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 	* 등심: loin
 	* 목살: Boston Butt
 	* 갈비; Spareribs / Rib
+* 네 가지 부위를 먹어볼거에요; They have like four different cuts of beef
 
 # Kitchen
 * #앞접시; please give me a #small plate

@@ -1,3 +1,17 @@
+# 감각동사 PART 3 - 응용연습
+* 글쎄, 좀 위험할 것 같은데; i don't know, it seems/sounds a little risky
+  * seem은 look보다는 feel에 가까운 느낌; 전반적인 느낌, 인상
+* 완벽한 계획 같지 않다는 것은 아는데 시간을 생각하면 다른 방법이 없는 것 같아
+  * i know it doesn't sound like a perfect plan but with the time we have, it doesn't look like we have any other option
+    * with the time we have: 우리한테 주어진 시간을 감안하면
+
+# 영어회화 Tip #03 - "한 적 없어."의 두 가지 유형
+* 나는 사과한적 없어; i have never apologized; 살면서 한번도
+  * i never apologized; 살면서가 아니라 특정 상환 한정해서
+* 나 뭐라 한적 없어; i never said anything
+* 나 걔 이름 말한적 없어; i nver mentioned his name
+
+
 # 감각동사 - PART 2 - look like + 명사 / sound like + 완성형 문장
 * 좋아; That sounds great
 * 뭔가 좀 수상한데? Something smells a little fishy

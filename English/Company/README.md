@@ -77,6 +77,8 @@
 * #effective date; 유효기일, 발효일
 * Biz card = Business card
 * 연차: Annual leave; 반차: Half day leave; 병가: sick leave
+	* 나 내일 연차야; I'm off tomorrow; i'll be back in the office by Thursday
+		* i'm not in tomorrow but i'll help you when i get back
 
 # 문장
 * 사업이 비로소 정상궤도에 올라섰다; The business finally got back on track
@@ -420,8 +422,10 @@ run a store, manage a team, operate a factory
 * ○ I feel bored at work (회사에서 일하는게 지루해요)
 * ○ I play with my dog every night when I get home from work (나는 퇴근하고 집에 왔을 때, 저녁 내내 강아지랑 논다)
 * ○ I'm off to work (나 출근해)
+	* 나는 8시 30분에 사무실에 도착해; i'm getting into the office for 8:30am
 	* '퇴근 시간'은 영어로 'quitting time'! 비슷하게 어떤 가게나 시설의 문 닫는 시간은 'closing time' 이라고 해요.
 		* 퇴근 시간까지 2시간 남았다! [ex] Two more hours until quitting time!
+	* 6시 30분에 퇴근해; i usually get off at 6 = i'm leaving the office at 6
 	* arrive at work = 근무지에 도착하다; 여러분! 영어로 ‘근무지, 직장’은 그냥 work 입니다. company, office 라고 하지 마세요. - I just got to work. 방금 출근했어. - I just got to the office. 방금 사무실 도착했어.; I travel to work by subway each day.
 * ○ This is my day off = I'm off duty today (오늘 난 비번이야)
 * ○ This printer doesn't work (이 프린터 #작동을 안해)

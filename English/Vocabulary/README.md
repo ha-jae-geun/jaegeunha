@@ -1078,6 +1078,7 @@
 * 쿠거는 다른 말로 '퓨마'라고도 불리는 동물이지만, 신조어로 '젊은 남자와의 연애나 성관계를 원하는 중년여성'을 가리킵니다. 그래서 코난이 'save LA cougars'라는 캠페인 이름을 듣고 그런 여성을 돕는 단체로 생각했다는거죠^^;
 
 ## circle
+* *   의미 : 이 버스가 돌아가나요? - Does this bus go in a circle?
 * go in a circle = 원 모양을 그리며 돌다; 얘랑 생긴 게 비슷한 관용어 go (around) in circles도 있는데요, a circle이 아니라 복수 in circles이라는 것 확인해주시고요. 뜻은, '제자리걸음 하다', '뭔가 열심히 하는데 진전이 없다'입니다.
   * 회의는 계속 진행되었지만 진전이 없었다. [ex] The meeting kept going around in circles.
 
@@ -1193,6 +1194,7 @@
   * 주가 하락으로 많은 투자자들이 곤란에 처해졌다.
 
 ### catch up
+* 나 지금 이렇게 수다 떠느라고 까먹었어. I forgot to do this because I got so caught up on chatting
 * catch up; 1. I'd like to catch up; 오랜만에 이야기하다 
   2. 밀린(일, 잠, 독서, 기부, 회포); i have some work to catch up on
   3. 따라잡다; We have to catch up; Waiting for me to catch up?
@@ -1852,6 +1854,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## due
 * 당신의 요구 사항은 적절한 때에 처리하겠습니다. Your request will be dealt with in due course. 
 * 열심히 한 거슬 인정해주세요; Give him his due; to give - one's due
+
+## dimension
+* 입체감을 주세요; give them dimension
 
 ## dick
 * dick는 남성의 성기를 뜻하는 속어인데요, 사람을 dick이라고 부를 땐 '싸가지 없는 사람', '비열하고 건방진 사람'을 뜻해요. move는 '행동'이라는 뜻이고요. dick move는 진짜 악한 행동은 아니지만, 비열하고 사회 통념상 눈살 찌푸리게 하는 행동을 뜻해요. ※ 방송에 나온걸 보시면 아시겠지만, dick은 그리 심한 욕이 아니에요. 물론 격식있는 자리에서는 쓰면 안되는 말이지만요!
@@ -2812,6 +2817,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## gear
 * get in/into gear는 어떤 일을 하기 위해 준비하고 정비하다라는 뜻입니다. 영상에서 Get your fur and feathers in gear라고 한 것 처럼 get과 in사이에 무엇을 정비할지 명사를 쓸 수도 있습니다. 
   * 얼른 준비해서 오늘 끝내자! 내일이 마감일이야. Let’s get in gear and finish it today! It’s due tomorrow.
+* = 기지를 발휘하다, 잘 돌아가다 snap/click/get into gear; 1) 자동차를 움직이게 하려면 자동차 기어가 작동을 해야 하듯이, snap/click/get into gear 는 멈춰있던 1) 뇌가 작동하기 시작하고 2) 일을 효과적으로 3) 에너지 넘치게 하는 모습을 의미합니다. 2) snap 은 똑딱하고 소리가 나며 빨리 움직이는 걸 의미하며, click 도 비슷하게 '찰칵하는 소리를 내다' 의 의미를 가지니, 그전까지는 머리가 잘 맞물려서 돌아가지 않았는데, '똑딱'하고 잘 맞아들어가는 모습을 그려낸 재치 있는 표현이네요. 3) snap/click/get 뒤에 목적어를 써서 [~을 잘 돌아가게 하다] 정도의 의미로도 쓰입니다.
+  * = 정말로 효과적으로 일을 하고 싶다면, 먼저 좀 쉬고 나서 다시 시작해. To really snap into gear, take a rest first and then start it again.
+  * = 갑자기 머리가 잘 돌아가서 문제를 풀 수 있었다. Suddenly I was able to get myself into gear and solve the problem.
 
 ## geek
 * 유독 어떤 한 분야에 열성적이고 그 분야에 대해서 남들보다 더 깊이 아는 수준의 경지에 이른 사람들을 표현할 때 쓰는 비격식 표현입니다. 상황에 따라 '덕질하다'로 번역해도 되겠네요.
@@ -3124,6 +3132,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
  * 그는 완강한 입장을 보였다.           he dug his heels in deeper 
  * 굽이 높은 편안한 신발                  wedge heel
  * cool one's heel; 오래 #기다리다; somebody cooled his heels
+
+## hop
+* 비행기 한 번 타는 건데요, 뭐; It's just a hop on a plane
 
 ## hook
 * 동사 hook 은 단순히 갈고리로 거는 것 뿐만 아니라, 장치에 무언가를 연결한다고 할 때도 씁니다. 실생활에 자주 쓰이니 예문과 함께 잘 학습해 주세요!
@@ -4106,6 +4117,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 너희들은 도덕적 기준 같은 것도 없니? ex) Don't you guys have a moral compass or something?
 
 ## moment
+* 행복해? Are you having a moment there?
 * : 중대한 전환점/분수령에 와있다 - be at a watershed moment; watershed 는 '[명] 분수계, [형] 분수계를 이루는'이란 뜻으로, 쉽게 말하면 물이 갈라져 흐르는 경계를 말합니다. 이렇게 현실, 상황, 사태가 물 갈라지듯 변하는 중대한 '전환점'을 비유적으로 이를 때 쓸 수 있어요. 이 문장도 여태껏 업계 내에서 다양한 이유로 성추행, 성폭행 등이 묵인됐지만, 이제부터는 많이 바뀔 거라는 말이죠! 실제로 큰 전환점이 될 하비 와인스타인 사건과 연결지어 기억해보세요.
   * 지금이 영국 정치의 분수령을 이루는 순간이에요. [ex] We're at a watershed moment in British politics.
 * 1. take a moment은 '잠시 시간을 내다'라는 뜻으로 take a moment and ...또는 take a moment to do something이라는 형식으로 사용합니다. '잠시 (시간을 내서) ~을 하다'라는 의미지요.
@@ -5261,6 +5273,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * Mark는 진짜 나를 화나게 만들어. ex) Mark really rubs me the wrong way.
 
 ## run
+* 나 일찍 도착할 것 같아; i'm running early
 * 예행 연습을 하다. do a dry run; # dry run
 * ‘흐르는 물, 수돗물’을 running water 라고 하죠. 이처럼 물이 흐르는 것과 관련해서는 동사 run 을 씁니다. 액체를 흐르게 하다, 액체가 흐르다, 흐르는 물에 물체를 두다, 액체를 붓다, 물을 받다, 액체가 번지다 등 액체가 흐르는 것과 관련해서는 거의 run 으로 표현합니다.
   * 물이 화장실 바닥 전체에 흐르고 있었다.  Water was running all over the bathroom floor.
@@ -5566,6 +5579,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 바람이 파도를 일게 했다. [ex] The wind stirred up waves. 3. (바람, 물결 등을) 일게 하다
 
 ## stick
+* 졸라맨 밖에 못그린댔잔ㅇ하; YOu said you could only draw stick figures
 * 기다리고 있을게 I'll stick around.
 * 우리가 함께 뭉친다면 괜찮을 것이다. If we all stick together, we ought to be okay. 듣기 출처:Collins
 * 동사처럼 보이진 않지만 동사입니다. 'stick' 이 아니라 복수형인 'sticks' 를 써야한다는 점 꼭 숙지해 두시고, 과거형으로 쓰고 싶을 땐 'upped sticks' 라고 하시면 되는 비격식 표현입니다.
@@ -5665,6 +5679,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## sake
 * for God's sake와 같은 뜻입니다.; Peter 가 성경에서 베드로이며 God's 대신에 Pete's 쓰이기도 합니다 ^^
+
+## size
+* 평가를 내리신 거군요; You sized him up
 
 ## silo
 * silo (off) : 격리시키다. 분리시키다; 명사로 silo 는 곡식을 따로 저장해 놓는 [보관 창고] 또는 지하에 미사일을 저장해 놓는 [미사일 발사 기지] 를 의미해요; 이렇게 무언가를 따로 떼어놓는다는 의미로 동사로 쓰였을 때는 [격리시키다/분리시키다] 고 쓰이며, off 를 붙이게 되면 조금 더 '멀리' 격리시켜놓는 것을 의미합니다. 회사나 조직 내에서 다른 부서와 의사소통이나 정보의 공유를 하지 않고 일을 진행하는 부서를 silo 라고 하기도 합니다.
@@ -6117,6 +6134,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그 이벤트를 오랫동안 기획했다. They've staged the event for a long time.
 * 무대 공포증 있다. I have stage fright.
 
+### outstage
+* 소한테 지다니; outstaged by beef
+
 ## state
 * 지금 현상황은 더 이상 용납되지 않을 거야. The present state of affairs can't be allowed to continue.
 
@@ -6303,6 +6323,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 이 부분에 대해서 최신 정보는 잘 모른다. I'm not up to speed on this matter.
 
 ## spell
+* 진짜 설명해야 돼요? Do i really need to spell it out for you?
 * ＊ spell disaster = 재앙과도 같다
   * = 가뭄은 농부들에게는 재앙과도 같을 수 있다. (spell disaster/trouble for 피해를 입는 대상) The lack of rain could spell disaster for farmers.
 * spell은 명사로 '주문, 마법'을 뜻하는데 under one's spell '(어떤 사람)의 마법에 빠졌다'는 의미는, 즉 그 사람의 강한 매력에 흠뻑 빠졌다는 의미로도 의역할 수 있어요.
@@ -6833,6 +6854,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * silver tongue; He is silver tongue; 말주변이 좋다
   * #on the tip of my tongue; 입 앞에서 맨돌 뿐 기억 날 듯 말듯
 
+## tough
+* 1) tough it out = 잘 견뎌내다, 참아내다; tough 단독으로는 형용사로만 쓰이는 단어인데요. 사람의 성격이 [강인한, 굳센, 튼튼한]   등을 의미하고, 고기의 식감이 [질긴] 을 의미하기도 해요.  out 과 함께 쓰이면 동사로 쓰여 터프하게 어렵고 불편한 상황을 잘 견뎌내는 걸 의미하는데요. 거의 항상 목적어 it 과 함께 쓰여요. 여기서 it 은 견뎌야 하는 상황을 의미합니다.
+  * = 그는 직장에서 정말 어려운 시기를 겪고 있지만, 이번에 잘 견뎌내면 상황이 분명 좋아질 거야. He's having a really hard time at work, but if he can tough it out this time, things are bound to get better.
+
 ## touch
 * touch-up은 '수정 화장', '(그림 그리기 등을 할 때) 마지막 마무리'라는 뜻이에요.
 * 1. get in touch with... : ~와 연락하다  2. keep in touch with... : ~와 계속 연락하다  3. be out of touch with... : ~와 더 이상 연락하지 않다, 연락이 끊기다
@@ -7346,6 +7371,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## window
 * 창문을 내리고 제 타이어를 가르켰다; He put down the window and pointed a finger at my tire
+  * 창문을 내리고; rolled the window down
 * : '창문 밖으로 나가다, 던져지다'라는 말 그대로의 뜻이 시사하듯, '사라지다', '아무 소용 없게 되어버리다' 라는 말이에요! 예문을 보면서 뉘앙스를 더 익혀보세요. [ 관용구 ] go (right) out the window
   * 예술가로서 그 사람을 존경했었는데. 이젠 그런 존경 따위 다 사라졌지. I used to respect her as an artist. Now all that has went out the window.
 * : 쓸 데 없게 되다, 사라지다 [ 숙어 ] go out (of) the window
