@@ -101,7 +101,7 @@
  * 나무 앞에 서서 사진 찍자 We'll #pop a #shot off
  * 카메라 앞에서 부끄러움을 탄다 				camera shy; she was just so camera shy
  * 사진광이에요 								He’s a real shutterbug
- * #포즈 취하다: 								 make/#strike a pose,
+ * #포즈 취하다: 								 do/make/#strike a pose,
  * 초점을 맞추다								 focus the lense
  * 김치 하세요 									 say cheese
  * 사진좀 찍어주실래요? 					 Could you take a picture on us?
@@ -466,6 +466,7 @@
 * #발신만 됩니다; 
 * 어떻게 발신음이 없지: how can ther not be a dial tone?
 * #신호 간다; it's #ringing
+	* 신호도 안잡혀; There's no reception in here anyway
 * my cellular only makes #outgoing calls = my cellular only #dial out = can't take incoming calls
 * #액정; #강화유리; I think #tempered glass screen protectors are better than plastic
 * #아이콘 눌러; #Tap the icon

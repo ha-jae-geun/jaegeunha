@@ -108,6 +108,7 @@ The best-selling classic of politics is Machiavelli's monarchy.
 	 * #유권자; #electorate
 	 * # 선거 # 투표 # 여론 | # 만장일치
 
+
 ## 정치
 * 영사관; consulate 미국식 [ˈkɑːnsəl-]  영국식 [ˈkɒnsjələt]   
 	* [명사] [보통 E~] 각하 ((장관·대사 등에 대한 존칭)); excellency 미국식 [éksələnsi]
@@ -200,11 +201,14 @@ The best-selling classic of politics is Machiavelli's monarchy.
 * #국회의원; #member of the national assembly
 * 국회의 승인 #parliamentary approval;
 * #내각; #cabinet
-* #선관위 #election watchdog(#watchdog)
-* #유엔사무총장 United nations secretary general; #secretary #general
-* UN #안보리; UN Security council
-* #장관 #minister; #국무 장관 #Secretary of defense(#defense) = Mr.Secretary, Madam Secre
-* #농림부; #ministry of Agriculture
-* #농침축산식품부 #food and Rural affairs(#affair)
-* #재무부; #treasury department
-* #법무장관 #attorney general(#general)
+	* 입법부; Legislative branch
+	* 사법부; judicial branch dʒuˈdɪʃl] 
+	* 행정부; adminisration
+	* #선관위 #election watchdog(#watchdog)
+	* #유엔사무총장 United nations secretary general; #secretary #general
+	* UN #안보리; UN Security council
+	* #장관 #minister; #국무 장관 #Secretary of defense(#defense) = Mr.Secretary, Madam Secre
+	* #농림부; #ministry of Agriculture
+	* #농침축산식품부 #food and Rural affairs(#affair)
+	* #재무부; #treasury department
+	* #법무장관 #attorney general(#general)

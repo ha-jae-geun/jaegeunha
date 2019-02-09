@@ -41,6 +41,7 @@
 * 기르다; 동물을 기르다[길들이다] keep[domesticate] animals; tame a wild animal
 * 송곳니; fang 미국식 [fæŋ]  영국식   단어장추가
 * 고양이 털에 알레르기 있어요; i was allegic to cat hair
+	* 고양이, 쥐 등의 수염; whisker 미국·영국 [ˈwɪskə(r)] 
 * 육식성의; carnivore 미국식 [ˈkɑːrn-]  영국식 [ˈkɑːnɪvɔː(r)]; carnivorous
 	* 초식성의; herbivorous 미국식 [hə:rbívərəs] 
 * 토끼가 탈출한 적도 있니? SO Tammy, have any of your rabbits ever gotten loose?
@@ -79,6 +80,7 @@
 
 
 # 곤충
+* 귀뚜라미; cricket
 * 기생충; wormy parasites / parasitic worms
 	* 숙주; The parasites hatched eggs in the flesh of the host animal
 * 벌에 쏘이는 것보다는 괜찮았어요; Not as bad as a bee sting

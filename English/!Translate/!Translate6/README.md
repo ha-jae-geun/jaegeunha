@@ -1,3 +1,16 @@
+# 영어 연습가이드 #42 (PART 1) - But then, / As much as
+* 우리 동네에도 이런데가 있었으면 좋겠다.
+  * I wish we had a place like this in our neightborhood; 현실적으로 불가능하다는 것을 화자가 아는 상태에서 가정하의 소망을 말할 때는 were, 실현 가능성은 있지만 기약이 없는 상태에서는 was를 주로 사용
+  * our을 r로 발음
+* 그러면 진짜 좋긴 하겠다. That would be really nice; would에 강세
+* 근데 그러면 또 여기가 찾아오는 재미가 없어지잖아
+  * But then, we wouldn't have the fun of amking the trip to get here
+  * the fun of --ing; - 하는 재미
+* 나도 여기가 정말 좋긴 한데, 바로 근처에 있어서 언제든지 올 수 있으면, * 지금만큼 여기 오는 것이 재미있을 것 같진 않아.
+  * I mean, as muuch as i love this place, i don't think i would enjoy coming here as much if it was right around the corner and i knew i could come anytime
+  * i really love this place but-; 뒤의 내용이 더 중요하다
+  * As much as i love this place; 앞에 내용과 뒤의 내용이 동등하게 중요해서 결정하기 어렵다. 
+
 # 감각동사 PART 3 - 응용연습
 * 글쎄, 좀 위험할 것 같은데; i don't know, it seems/sounds a little risky
   * seem은 look보다는 feel에 가까운 느낌; 전반적인 느낌, 인상

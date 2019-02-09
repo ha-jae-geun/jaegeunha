@@ -179,6 +179,7 @@
 * 우리 집안 #내력이야. 					It runs in my family. = ~ is in one's blood
 	* 가보 It's a family heirloom.  [ˈerl-]  영국식 [ˈeəluːm] 
 	* #족보; #계도 #pedigree;  
+		* 좋은 혈통의 개 dogs with good pedigrees 
 	* #genealogy 미국·영국 [|dƷi:ni|ӕlədƷi]; #draw/#trace#compile
 	* 가족 #병력; #family history	
 	* 한국에서 나고 자란거야? 						 Born and raised in korea?

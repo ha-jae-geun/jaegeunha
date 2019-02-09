@@ -95,6 +95,7 @@
 * #얼굴색이 밝다; my complexion is light and have yellow undertones
 * #화장품
 * 화장 진하게 하신 분; painted lady
+	* 힘준 메이크업 완성했어요; we are all done with our bumped up makeup look
 	* 두껍게 메이크업하다; cake on the makeup; i decided to cake on the makeup
 	* 참고로, 화장이 너무 두껍게 돼서 떡지고 뜨는 걸 cakey하다고 표현해요. 또, '두꺼운 화장'을 thick makeup 혹은 heavy makeup이라고 해요. 한듯, 안 한듯한 화장은 minimal makeup 혹은 natural makeup이라고 합니다
 * statement lip은 입술을 강조한 메이크업을 말해요. 입술을 제외한 부분을 최소한으로 정돈하고, 과감한 컬러의 립으로 스타일을 결정짓는 메이크업이죠. 'statement'는 '진술/성명서'로 잘 알려져있는데요, 이런 경우 자기 의견에 대한 '주장/표출'을 의미합니다. 즉 makeup 혹은 fashion에서 statement란 과감한 시도로 'make a statement', 확실한 자기 주장, 어필, 개성을 표현하는 거예요.

@@ -133,6 +133,10 @@
 * # 시비; 1) start with는 ‘시비걸다, 건드리다’라는 뜻이 있어요. 그리고 stuff는 여러가지를 지칭할 수 있는데, 여기서는 ‘주제, 이야기, 말’을 가리킵니다. 그래서 don’t start with the family stuff는 ‘가족은 건드리지 마’라는 뜻입니다.
 	* 오늘은 나 제발 건드리지 마. Please don’t start with me today.
 * 오케스트라의 연주가 엉망이거나, 시끄러운 생활소음이 뒤섞여있는 것을 의미하기도 하고, 비유적으로는 의견이 일치하지 않는 상태, 갈등, 충돌을 가리키기도 합니다. 예를 들어 자신이 가졌던 신념과 반대되는 현실을 맞이했을 때 겪는 정신적 스트레스인 ‘인지부조화’도 cognitive dissonance 라고 하죠.  참고로 ‘불협화음’은 cacophony(발음: 카카퍼니) 라고도 하는데요, dissonance 처럼 의견의 불일치, 시끄러운 소리의 뒤섞임을 뜻하는 건 같지만 음악 연주에는 잘 쓰지 않는다는 차이점이 있습니다.
+	* fight someone; 주로 physical confrontation
+	* challenge도 싸운다는 읨이ㅣㅆ음; 도전은 challenge myself to + V
+	* fight with someone; 1. 언쟁하다, 말다툼하다 2. 싸우다
+	* get into a fight with someone; 말, 몸싸움 둘다 가능
 	* get into a fight : 싸우다/싸우게 되다
 	* have a go at : (공격하려고) 달려들다. 공격하다. 비판하다.
 		* 이 개에 너무 가까이 오지마. 널 공격할거야. ex) Don't get too close to this dog. I will have a go at you.

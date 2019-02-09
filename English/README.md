@@ -1,5 +1,14 @@
+# 영어 IT
+* https://techcrunch.com/
+* https://www.techworm.net/
+* https://www.theverge.com/
+* https://www.wired.com/
+* https://www.engadget.com/
+* https://gigaom.com/
+
 # 토익
 * https://www.hackers.co.kr/?c=s_toeic/toeic_study/dlc&front=dailytoeic&category=LC&uid=5624
+* https://www.hackers.co.kr/?c=s_speak/speak_special/936
 
 # 오늘 단어
 * collector/sample/donation
@@ -11,6 +20,9 @@
 * https://www.urbandictionary.com/
 * 어원; https://www.etymonline.com/
 * 예문; http://youglish.com/
+	* https://getyarn.io/
+	* https://www.playphrase.me/
+	* http://www.quodb.com/
 * 영어 약어 사전 http://www.abbreviations.com/
 * 일상 회화 http://e4u.ybmnet.co.kr/EngPhone/community/commu_search.asp?mode=S&category_code=&U122003=1546927473023154459.1547189319178.2.0.1544596UO44IXAZB0B0.0.0.0.....
 

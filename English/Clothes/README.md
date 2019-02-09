@@ -281,6 +281,8 @@ sportwear ; sweaet suit, jogging suit
 * #panst 고급진 표현: #trousers
 * to be all mouth and no trousers = to talk a lot but not do anything
 * #청바지, #면바지, #반바지, #정장바지 jeans, khaki pants, shorts, dress pants
+  * 찢어진 청바지; distressed jeans
+  * 어두운색; dark-washed
 * #양복점; #tailor's shop
 * burgundy #dinner jacket
 * 운동복 바지: sweat pants

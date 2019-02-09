@@ -1,3 +1,195 @@
+# 쓸만한 영어 - 외모 칭찬할 때 쓸만한 영어표현 2 - 피부가 정말 고와요/그 옷 정말 잘 어울려요/어려보여요/영어회화/영어공부
+ * - You look great today!
+ *   너 오늘 진짜 괜찮다~(멋있다)
+ * 
+ * - You look gorgeous today!
+ *   너 정말 정말 예쁘다!(멋있다!)
+ * 
+ * - 오늘 너가 입은 옷 정말 좋다~!
+ *   옷 = clothes??
+ *             cloth??
+ *             clothing??
+ *   밖에 입는 옷 = outfit
+ * 
+ * - I love your outfit!
+ *   오늘 너가 입은 옷 정말 좋다~!
+ * 
+ * - It's perfect for you!
+ *   너랑 딱이야!
+ *   너랑 정말 잘 어울려!
+ *           
+ * - I love your outfit.
+ *   It's perfect for you!
+ * 
+ * - I love your shirt!
+ *   It fits you well.
+ *   너 셔츠 정말 마음에 든다!
+ *   너한테 딱 맞아!
+ * 
+ *  color에 대해 fit을 쓰진 않음
+ * - The color of this shirt fits you..??
+ *   이 셔츠 색깔이 너랑 잘 어울려.
+ * 
+ * [구체적으로 어떤 오스의 색깔이 잘 어울린다고 칭찬할 때 일반적으로 자주 하는 말]
+ * 1) The color of your shirt looks good on you.
+ *      너 셔츠 색깔이 잘 어울려.
+ * 2) That(/this) color shirt looks good on you.
+ *     그 셔츠 색이 너한테 잘 받아.
+ * 
+ * - 또는 간단하게 
+ *   The shirt looks good on you!
+ *   이 셔츠 색깔이 너랑 잘 어울려.
+ * 
+ * - 예시상황
+ *   친구/동료가 새옷을 입고 왔을 때
+ * 
+ * - 오늘 같은 날씨에 딱이네~!
+ * 
+ * - It's a perfect match with today's weather??? (X)
+ *   오늘 같은 날씨에 딱이네~!
+ * 
+ * - It's perfect for today's weather.
+ *   직역 : 오늘 날씨에 완벽해.
+ *   의미 : 오늘 날씨에 딱이야!
+ *   날씨에 맞는 음식을 먹을 때도 쓸 수 있음
+ *     예) 감기에 걸릴 것 같은 추운 겨울날 뜨거운 삼계탕
+ * 
+ * 
+ * 2. 상대방의 머리스타일을 칭찬할 때
+ * 
+ * - Have you done your hair??? (X)
+ *   머리스타일 바꿨어?
+ *   머리 새로 했어?
+ * 
+ * - Did you get your hair done?
+ *   머리스타일 바꿨어?
+ *   머리 새로 했어?
+ * 
+ * - sophisticated
+ *    세련된
+ * 
+ * - DId you change your hair?
+ *   머리스타일 바꿨어?
+ * 
+ * - Did you change your hairstyle?
+ *   머리스타일 바꿨어?
+ * 
+ * - I love your new hair(style)!
+ *   새로운 머리 정말 마음에 든다. (예뻐!)
+ * 
+ * - 더 어려보이고, 생기있어 보여~
+ *   더 어려보이고 : look yougner
+ *    생기있어 : vivid? energetic??
+ *    생기있어 : vibrant
+ *    energetic 은 왜 안되나요?
+ *     에너지(힘)이 넘쳐서 주체를 못하는 그림
+ *   you look energetic! 라고 하면 어색한 그림... 느낌오시죠?^^
+ *    더 어려보이고, 생기있어 보여~
+ * 
+ * - You look younger and more vibrant!
+ *   더 젋고 생기있어보여!
+ *   이 문장에서는 more vibrant 가 더 잘 맞습니다. ^^
+ * 
+ * - You look professional!
+ *   프로페셔널해보여!
+ * 
+ * - You look neat!
+ *   깔끔해보여!
+ * 
+ * - 머리스타일/옷에 따라 신체특징을 더 예쁘게 살려줄 때
+ *   이 때 "살리다"를 영어로?
+ *   sth. BRING(S) OUT
+ *   그 특징을 "가지고 나와서 도드라지게 하는 그림"
+ * 
+ * ==========
+ * ▷ 준비되는대로 하나씩 갖다주세요.
+ * 
+ * - bring                                      과  take
+ *   come(다가오는/가까워지는) 과   go(멀어가는/멀어지는)의 그림과 비슷하게 볼 수 있어요.
+ * 
+ * - bring them out
+ *   직역 : 그것들을 가지고 나와주세요??
+ *   의미 : 그걸 갖다주세요.
+ *   them은 여러개 주문한 음식(dishes)
+ * 
+ * - bring them out
+ *   갖다주세요.
+ * 
+ * - Bring them out when they are ready
+ *   음식(들)이 준비되면 갖다주세요.
+ * 
+ * - Bring them out as they are ready
+ *   음식(들)이 준비되는대로 (그 순간) 갖다주세요.
+ * 
+ * - Can you bring them out as they are ready?
+ *   음식(들)이 준비되는대로 갖다주세요.
+ * 
+ * - Can you bring them out when they are ready?
+ *   음식(들)이 준비되면 갖다주세요.
+ * ==========
+ * 
+ * - bring + out
+ *   기본 의미를 문맥에 맞게 응용해서 바꿔주세요.
+ * 
+ * - It brings out the color of your eyes.
+ *   직역 : 그게 너의 눈색깔을 가지고 나와??
+ *   의미 : 그거하니깐 너 눈이 살아~
+ * 
+ * - It brings out the color of you hair.
+ *   직역 : 그게 너의 머리 색깔을 가지고 나와??
+ *   의미 : 그거하니깐 머리 색이 살아~
+ * 
+ * - It brings out the color of your eyes and hair.
+ *   그게 너 눈이랑 머리색을 살려.
+ * 
+ * 
+ * [알아두면 좋은 문화와 생활의 차이]
+ * 칭찬의 말
+ * 
+ * - 눈이 예뻐요.
+ * - 눈동자 색이 옷(/머리색)과 잘 어울려요.
+ * 
+ * 칭찬에 속하지 않는 별뜻 없는 말
+ *   
+ * - 눈이 참 크네요. 눈이 커서 좋겠어요.
+ * - 눈에 쌍커풀이 있네요.
+ * 
+ * 
+ * 3. (관리받은) 예쁜 손톱을 칭찬할 때
+ * 
+ * - Your (finger) nails are so cute (/pretty/nice)/
+ *   손톱이 정말 예쁘네요.
+ *   보통 여성들끼리 많이 주고받는 칭찬
+ * 
+ * 
+ * 4. 좋은 피부를 칭찬할 때
+ * 
+ * - 어쩜~ 피부가 이렇게 고와요~?!
+ *   어떻게 피부가 이렇게 촉촉해요?
+ *   어쩜 잡티 하나가 없어요?
+ *   어떻게 관리하세요?
+ * 
+ * - Your skin is glowing!
+ *   직역 : 당신의 피부가 빛이나요?!
+ *   의미 : 피부가 정말 건강하고 좋네요~
+ *   glowing 자체에 bright/healthy의 뜻이 담겨있음
+ * 
+ * - 어떻게 관리하세요?
+ *   manage?????
+ *   한국어 단어말고 < 내용의 포.인.트.
+ * 
+ * - What's your secret?
+ *   직역 : 비결이 뭐예요?
+ *   의미 : 어떻게 관리하길래 그렇게 좋아요?
+ * 
+ * - Your skin is glowing. What's your secret?
+ *   피부가 정말 좋은데.. 비결이 뭐예요?
+ * 
+ * - '말 한마디로 천냥빚을 갚는다'고 하죠~^^
+ *   새해에는 서로 힘이나는 좋은 말을 더 많이 했으면 좋겠습니다.
+
+
+
 # 쓸만한 영어 - 대중교통 이용시 - 이 버스 어디 가나요? - 길 건너 타야 하나요? \영어회화\영어공부
  *  in a circle
  *   직역 : 원으로

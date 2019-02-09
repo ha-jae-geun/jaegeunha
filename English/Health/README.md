@@ -492,6 +492,7 @@
   * 칼에 찔렸어요. 	He was stabbed with a knife.
   * #멍이 많다; I have a few bruises = to be black and blue = to be very bruised
 * 언제부터 아프셨어요? 	When did it start hurting? 
+  * 소화불량 같은 질병이나 일반적 명사는 관사 쓰지 않지만 # ache같은 특정한 통증을 말할때만 가산명사 사용
   * 어디가 아프세요? 	Where does it hurt? 
   * 전보다 더 아프다; to take a turn for the worse(better: 잘 쓰지 않는다.) 
   * 그들의 결혼 생활은 첫 아이 출산 후 내리막길로 접어들었다. Their marriage went downhill after the first child was born. 

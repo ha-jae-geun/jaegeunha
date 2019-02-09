@@ -10,6 +10,7 @@
 * # 대회; 과학 경진대회; if i don't win  the science fair
 * 1# 순위 혹은 1지망을 first choice라고 해요.  '가장 선호하는 옵션'이라는 넓은 뜻으로도 쓰이고요! 2순위 혹은 2지망은 second choice. 
   * 1지망 전공과 2지망 전공을 둘 다 선택하시오. [ex] Select both a first-choice major and a second-choice major.
+* 이 영화 두번쨰 보는거야; THis is my second time watching the movie
 
 # 가능성
 * be in line for  : 을 받을 가능성이 크다; be in line은 '줄 서다'라는 뜻도 있어요. 줄서서 뭔가 받으려고 기다리는 모습을 연상하시면 기억이 잘 나겠죠?
@@ -1588,6 +1589,7 @@
     * 그 나이대 남자애들은 바보같은 일들을 하기마련이다. Boys his age would do stupid things.
   * 나이 속였어요; i faked my age
   * 어느새 18살이 됐어; Fast forward to 18
+  * 곧 열일곱이 되는 열여섯; i am sixteen going on seventeen
   * 7살 짜리 애들을 앉혀놓고; they sit dkis down at the age of 7
 * # 갱년기; 2. hot flash: 갱년기 때 느껴지는 열감
 * 30대쯤으로 보여; She looks somewhere in ther thirties
@@ -2144,6 +2146,7 @@
 # 도덕
 * 도덕적 잣대, 윤리적 기준 = moral compass 나침반은 사람들이 길을 잃었을 때 가야할 방향을 알려주는 도구잖아요? 따라서 윤리적으로 가야할 길을 알려주는 [윤리적 기준] 이라는 의미를 가지게 된 재밌는 표현이에요!
   * 너희들은 도덕적 기준 같은 것도 없니? ex) Don't you guys have a moral compass or something?
+* 그의 비도덕적인 과거에 대한 진실을 알게 된 것은 충격이었다. It was a shock to discover the truth about his sordid past. 
 
 # 도망
 * coop 은 '닭장 / 동물 우리' 를 의미하는 단어인데요. 마치 닭장에서 닭이 떠나가듯이 도망치는 모습을 연상하시면 되는 비격식 표현입니다. move on 은 진행되는 일이 '넘어가다, 계속하다' 의 의미를 갖는데요. 영상에서는 '계속해서 성장하다' 의 의미를 가집니다.
@@ -2273,6 +2276,7 @@
 # 돌아다니다
 * loiter는 별 목적없이 어슬렁 걸어다니는 것을 의미합니다. loiter around라고 하기도 합니다.
 	* 몇 십대들이 거리에서 어슬렁거리고 있었다. Some teenagers were loitering around in the street.  [ˈlɔɪtə(r)] 
+* 나비가 나풀나풀 이 꽃 저 꽃으로 날아다녔다. Butterflies flitted from flower to flower. 
 
 # 돌파
 * 'power through (sth)'은 '어려운 상황에 부딪혔을 때, 강하고 단호하게 계속해서 끝을 보다'를 의미합니다. '돌파하다' '이겨내다' 등으로 번역할 수 있겠죠.
@@ -2293,6 +2297,7 @@
 	* = 소리랑 화면이 안 맞아. The soundtrack is not in sync with the picture. (=out of sync)
 
 # 동의
+* 수술 동의서; informed consent
 * # 찬성; rubber stamp는 고무도장인데요, 서류에 고무로 된 도장을 대충 찍어내듯, 어떤 사안을 깊게 생각하지도 않고 기계적으로 찬성하고, 형식적으로 승인하고, 무턱대고 도장 찍는 것을 말해요. 흔히 의회정치에서 당의 정책에 덮어놓고 지지를 보내는 거수기 노릇을 하는 것을 말할 때 사용해요.  rubber stamp는 명사로 덮어놓고 찬성하는 사람 혹은 단체를 말하기도 하며, 동사로는 대개 하이픈(-)을 넣어 rubber-stamp로 씁니다.
   * 윗분이 결정 내리면 위원회는 그냥 도장만 찍는 거야. The boss makes the decisions and the committee just rubber-stamps them.
   * #동의 하지 않아; 1. You are way off there 2. ~ #get to me 3. #detest 4. I’m not keen on 5. #bother me 5. ~ is not my thing
@@ -2830,6 +2835,10 @@
 
 # 멀미
 * 멀미 안하지/ You don't suffer from motion sickness? 
+
+# 멍 띠라다
+* i was daydreaming; what was i saying?; i zone out for maybe 30 seconds; i blanked out; He is spaing out
+  * i had a brain fart
 
 # 명령
  * 그 편지에는 그에게 본부에 즉시 보고하라는 지시가 적혀 있었다.
@@ -4688,6 +4697,7 @@ retaliate
   * 7일 동안 오이를 소금물에 절여주세요. Please brine the cucumbers for 7 days.  
 
 # 소문
+* 그녀는 장안의 화제가 되었다. She became the talk of the town
 * 오명; 이제 더 이상 이혼한 것에 대한 부정적 인식은 없다고 생각해. I think there is no longer any stigma to being divorced. (stigma to~ : ~에 대한 부정적 인식)
   * 'tidings'는 'news(소식)'의 옛날식 표현이라고 생각하시면 돼요^^ 평소에는 별로 들을 일이 없는데 크리스마스 시즌에는 자주 사용된답니다.
     * 당신과 당신의 가족에게 좋은 소식을 전합니다. 기쁜 성탄절과 행복한 새해를 기원드려요. [ex] "Good tidings we bring to you and your kin. We wish you a merry Christmas and a happy new year."
@@ -5693,6 +5703,9 @@ retaliate
  * jealous: 질투(3인 이상), 잃어버림의 질투
  * envy: 내가 없는 것에 대한 부러움(2인); 소유; 질, 물건
 
+# 예문
+* example sentence, examples
+
 # 예약
 * i made a reservation with/under -
 
@@ -6315,6 +6328,7 @@ retaliate
 
 # 의견
 * : 직역하면 '목소리가 들리게끔 하다'로, 어떤 문제에 대해 '(능동적으로 강력히) 목소리를 내다, 의견을 표명하다' 라는 뜻이에요!  make one's voice heard
+  * I would say
   * #의견 양식; #feedback form
   * for my money: (비격식) 내 생각엔, 내 의견으로는
     * 내 생각엔 오아시스가 우주 최강 록밴드야. For my money, Oasis is the best rock band in the universe.
@@ -7576,6 +7590,7 @@ retaliate
   * 내 지갑 빵빵해 my wallet is fat
 
 # 지다
+* 소한테 지다니; outstaged by beef
 * beat는 ‘이기다, 능가하다’라는 동사로 과거분사는 beaten입니다. 그래서 엄밀히 말하면 be beaten이라고 해야 하지만, 회화나 광고, 음악 등에서 be beat이라고 하는 경우가 종종 있습니다. We can’t be beat은 우리는 능가될 수 없다, 즉 “우릴 이길 사람은 없다”라는 의미입니다. 혹은 beat는 ‘녹초가 된, 엄청 지친’이란 의미도 있어서 “우린 절대 지치지 않아”로 생각할 수도 있습니다. 
 * 본인이 잘 한다고 생각했던 분야에서 오히려 상대에게 당한다는 뜻입니다. 예를 들면, 내가 덩치가 좋고 싸움을 잘 해서 한판 붙어보자고 했는데, 오히려 약해보이던 상대가 나를 때려눕혔을 때 He beat me at my own game 이라고 하는거죠. 
   * beat 사람 at one’s own game = (본인의 수법, 강한 분야에서) 오히려 상대에게 당하다
@@ -8360,6 +8375,8 @@ retaliate
  * 수염이 난 독특한 우완 투수는 조용히 등장했다.              # 독특한
  * The bearded, one-of-a-kind right-hander has quietly emerged 
  * a bit #off the beaten #track/#path = #out of the beaten track
+* # 신기하네; That's a first, That's weird
+  * 놀라고 멋진 것에 대한 신기함; That's crazy/incredible/amazing
 
 # 튀다
 * 무언가가 튀어나왔을 때 stick out 이라고 합니다. 예를 들어 앞니가 돌출이거나, 발이 이불 밖으로 삐져나온 것 처럼요. 튀어나오면 이목을 끌기 때문에 ‘잘 보이다, 눈에 띄다’를 의미하기도 합니다.
@@ -8751,6 +8768,7 @@ retaliate
  * #탈환; #reclaim, #recapture, #retake, #win back
  * #환수; #redmpt
  * 자기야,나 내빼지 않았어.        ‘hʌni wɪmp Honey, I did not wimp out.
+  * 내뺴려고 하는 그런사람 아니다; I'm not the kind of person who backs out
  * #wuss out; #빼다; why are you wussing out?
  * 왜 빼고 이야기해       Why did you leave out the part where you got drunk
  * 피클좀 빼주세요 please hold the pickles
@@ -9274,6 +9292,7 @@ retaliate
 	* 더 힘을 내! 난 네가 더 잘 할 수 있다는 걸 알아. ex) Dig deep! I know you can do better.
 
 # 힘들다
+* # 고비; 고비를 넘기다; he and i have turned a corner
 * # 빡세다; Today will be intense; tough; I studied intensely
   * # 부담 주려고한건 아닌데; i don't want to put you on the spot; put somebody on the spot
   * 지미를 치과에 데리고 가는 건 정말 힘든 일이었지. aking Jimmy to the dentist was like pulling teeth . 듣기 출처:능률교육
