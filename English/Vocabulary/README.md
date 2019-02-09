@@ -37,6 +37,10 @@
 * 도화선에 불을 붙이는 느낌; 시작이 될수도 있고, 원인이 될 수도 있다;
 * 이후로
 
+# 관사
+* 유럽의 상업 문화의 영향으로 숫자와 서로 아는 내용을 빨리 확인 생략 하는 것이 중요
+  * a, an | the | some | no
+
 # 전치사
 * 전치사는 방향성이 있따
 
@@ -180,6 +184,9 @@
 ### upside
 * my whole world turns upside down은 직역하면 내 온 세상이 뒤집혀 버렸다, 즉 엉망이 되어 버렸다는 의미인데요, 그만큼 정신적으로 혼란스럽다, 멘붕이 왔다는 걸 뜻하죠. 혼란스러움을 한 개인의 세상이 뒤집혔다는 방식으로도 빗대어 표현할 수 있다는 점~ 알아두시면 좋을 것 같네요! ^^
   * 아빠가 돌아가셨다는 소식을 들었을 때 모든 게 뒤집혀 버린 듯 충격을 받았다.My world turned upside down when I heard the news my dad passed away.
+
+## onion
+* know one's onions; 잘 알다
 
 ## on
 * 표면에 접촉한 그림
@@ -622,7 +629,7 @@
   * 일방적으로 갈구다; bitch someone out
 
 ## bubble
-* 생각 풍선; thought bubble
+* 생각 풍선; thought bubble; 말풍선: speech bubble
 * someone's bubble 은 [잘못된 믿음/생각] 을 의미하는 단어에요. 주로 burst someone's bubble 이라는 표현을 많이 쓰는데요. [희망/잘못된 믿음/생각 등을 없애다] = [현실을 깨닫게 해주다] 의 의미를 가집니다. 영상에서는 제니퍼가 팁에 대해서 그간 잘못 생각해왔다는 것을 말하기 위해 bubble 이라는 단어를 썼어요. 또, '자기만의 세상'에서 살고 다른 사람들의 삶이 어떤지 잘 모르는 사람 보고 "They're living in a bubble." "버블 속, 방울 속에서 살고 있다"고 해요. 특히 부잣집에서 자라 세상 물정을 잘 모르는 사람을 두고 하는 말입니다.
   * 제임스는 사라가 자기를 좋아한다고 생각해. 있는 그대로 알려줘야 해야 할지 모르겠네. ex) James thinks Sarah likes him. I don't know if I have to burst his bubble or not.
 
@@ -776,6 +783,7 @@
  * #play the ball; 다루다; I know how to play the ball; play baseball; 모두에게 익숙
 
 ## base
+* 만루; bases are loaded
 * 계속 연ㄺ하자; Let's touch base
 * 한참 멀엇떠; off the base
 * : 모든 경우에 대비하다, 모든 걸 다루다 [ 숙어 ] cover all the bases 야구에서 모든 베이스 (1루, 2루, 3루)를 커버한다는 뜻에서 비롯된 표현이죠~
@@ -1550,6 +1558,12 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 	* 그들은 큰 나무통을 파내서 카누를 만들었다. They made canoes by carving out big logs.
 * 연기파 배우로서의 입지를 다지기 전까지 오랜 시간이 걸렸다. It took a long time before I was able to carve out a career as a character actor.
 
+## crank
+*  '소리를 높이다', '일을 시작하다/노력을 쏟아 붇다'
+  * 모두가 들을 수 있게 볼륨 좀 높여! Crank up the volume so everyone can hear!
+  * 제 시간에 끝내려면 이 프로젝트 지금 바로 시작해야 돼. You need to crank up this project now in order to finish it on time.
+  * 보통 한 편의 영화 촬영이 시작될 때 '크랭크 인'이라는 표현을 많이 쓰죠?
+
 ## cradle
 * 1. cradle-snatcher 또는 cradle-robber는슬랭 표현으로 문자 그대로 해석하면 '요람을 훔친 자'라는 뜻인데, 그만큼 나이가 자신보다 훨씬 어린 상대와 결혼을 하거나 성적 관계를 맺는 사람을 다소 폄하하며 부르는 말입니다. 뒷담화에서나 오르는 말로 농담조긴 해도 조금 무례한 표현이랍니다.
   * 그는 완전 도둑놈이야. 자기 나이 반인 여자애랑 결혼한대. [ex] He's a cradle-snatcher. He's marrying a girl half his age.
@@ -1758,7 +1772,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## cry
 * cry with laughter: 눈물나게 웃기다, 정말 웃기다고 말하고 싶을 때 쓰는 표현이에요; This video makes me cry with laughter.
-
+* 도와 달라고 소란을 피우다(도움이 꼭 필요하지도 않으면서 소란을 피워 정작 도움이 필요할 때는 사람들이 믿지 않게 됨을 나타냄); cry wolf; give false alarm
 
 ## crystal
 * [결정체, 수정] 을 crystal 이라고 하죠. 그것의 동사형입니다. 원래 액체인 꿀이 냉장고에 넣으면 딱딱해져 결정이 생긴다는 의미입니다. 
@@ -1814,6 +1828,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 네 폰의 통화 내역이 바로 네가 잭이랑 데이트한다는 결정적 증거지. The call history on your phone is a dead giveaway that you are dating Jack.
 
 ## deal
+* 내 말 잘들어; Here is the deal
 * deal breaker = (계약 조건 중) 절대 용납할 수 없는 조건; 연애에 대해 말할 때도 많이 쓰는 말인데요, 연애 deal breaker는 "다른 조건이 아무리 좋아도 참을 수 없는 성향이나 조건"을 뜻해요. "깨는 조건"이라고도 할 수 있겠네요.
   * 넌 연애할 때(또는 연애 상대를 볼 때) 제일 깨는 조건이 뭐야? What's your relationship deal breaker?
  * go deal with, deal with 사물: ~를 다루다, 처리하다, 감당하다, deal with 사람: 상대하다
@@ -1905,6 +1920,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## due
 * 당신의 요구 사항은 적절한 때에 처리하겠습니다. Your request will be dealt with in due course. 
 * 열심히 한 거슬 인정해주세요; Give him his due; to give - one's due
+* 언제 출산예정일이야; When are you due?
+  * 집세 언제까지야; When is the rent due
 
 ## dimension
 * 입체감을 주세요; give them dimension
@@ -3621,6 +3638,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
                                 
 
 ## jump
+* jump the shark; [동사] (신조어) 텔레비전 쇼에 상식을 벗어난 장면을 집어넣거나 이야기의 전개를 바꿔서 결국 프로그램의 질을 떨어뜨리거나 시청률 하락세를 만회하고자 하다 (JTS로도 표기함) (jump-the-shark는 형용사형, jumping the shark는 분사형)
 * : 시동이 걸리지 않는 차를 직접 밀거나, 다른 차의 배터리에 연결해 시동거는 걸 말해요! 이 상황에 비유해서, 상황이 안 좋을 때 특별히 노력해서 '되살아나게 하다', '활력/활기를 불어넣다' 또는 단순히 활기차게 효과적으로 '시작하다, 시동걸다' 라는 뜻으로 쓸 수 있답니다. 
 	* 아침에 하는 운동은 언제나 내 하루의 시작에 시동을 걸어줘. [ex] Morning workouts always jump start my day.
 * 누군가가 너무 초초하면 가만 못있고 총총 점프하듯 계속 움직이잖아요? 그런 모습에서 온 비격식 표현입니다.
@@ -6327,6 +6345,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * shy 가 [부끄러워하는] 의 의미 외에도 미국에선 비격식 표현으로 필요한 만큼의 양에서 [~이 부족한] 의 의미를 갖기도 합니다. 
   * = 그는 90세가 되기 2주 전에 죽었다. He died two weeks shy of his 90th birthday.
 
+## shame
+* 부끄렁누줄 아세요; Shame on you
+* 아쉽네요; That's a shame
+
 ## shadow
 * : 더 나은 누군가의 그림자에 가려져 주목과 관심을 받지 못하다 be in someone's shadow
   * 그 사람은 항상 형의 명성에 가려진 채 살아왔어. He's always been in her brother's shadow.
@@ -6338,6 +6360,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * shallow는 수심 등이 얉다는 뜻인데, 사람에게 사용되면 뭔가 깊이가 없고, 천박하고, 사람의 내면보다는 외모를 더 중시하는 성격을 나타냅니다. 영상 속의 여자도 “I’m pretty shallow”라고 말하면서 자신 또한 남들처럼 사람의 외모를 엄청 따지는 편이라고 말하고 있습니다. 
   * 이 물고기들은 보통 수심이 얉은 해역에서 발견된다. These fish are usually found in shallow waters.
   * 나보고 천박하다고 할 수 있지만, 어느 누가 섹시한 여자를 좋아하지 않겠어? You might say I’m shallow but who wouldn’t like a hottie?
+
+## shark
+* jump the shark; [동사] (신조어) 텔레비전 쇼에 상식을 벗어난 장면을 집어넣거나 이야기의 전개를 바꿔서 결국 프로그램의 질을 떨어뜨리거나 시청률 하락세를 만회하고자 하다 (JTS로도 표기함) (jump-the-shark는 형용사형, jumping the shark는 분사형)
 
 ## share
 * : 안 좋은 일을 충분히 겪다 [ 숙어 ] have one's share (of something)
@@ -6481,6 +6506,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * solid는 '단단한, 고체의'의 의미 외에도 속어로 '훌륭한' 이라는 뜻도 있습니다. 이런 의미로도 자주 쓰이니 외워 두세요^^
 * SOlid 9
 * 라는 것에 대한 제대로된/확실한 증거가 없어. There is no solid evidence that 절 ~
+* 얼마나 확신을 가지나요? How solid do you feel your case is?
 
 ## soldier
 * 나아가다; She soldiers on
@@ -6492,6 +6518,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * * 모두가 그녀를 아주 좋게 이야기한다. Everyone speaks very well of her. 
 * : 설명이 필요 없다, 명백하다 1. speak(s) for itself/themselves 직역에 가깝게 옮기면 '그 자체가 스스로 이야기해준다'죠? 따로 설명하지 않아도 '그 자체로 명백하다', '딱 봐도 분명하다/명백하다'라는 뜻이에요!
   * 수치/사실만 봐도 명백해. [ex] The numbers/facts speak for themselves.
+
+## stem
+* 1. 줄기 2. 대 3. 사람으로 치면 목
+  * 목 부위에 금속 파편이 박혀있는 것이 발견됐어요; THey found the stem, the metal embedded
 
 ## stethoscope
 * #청진기; stethoscope; put / apply / examine with / has a
@@ -6924,6 +6954,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * I agree. "To throw at" has the meaning of throwing something with the intention of hitting something.
 
 
+## twofer
+* 극장 등의) 반액 할인권; 한 개의 요금으로 두 개를 살 수 있는 쿠폰[품목]
+
 ## twist
 * # 상처; : 일부러 상처주는 말/행동 을 하다. * twist the knife (in the wound) 1) 칼을 그냥 찌르는 것도 아니고, 찔러서 비틀면 더 아프겠죠?
   * 매기는 일부러 상처주기 위해 그를 비웃었어. ex) Maggie laughed at him to twist the knife.
@@ -7324,9 +7357,15 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## water
 * : 중대한 전환점/분수령에 와있다 - be at a watershed moment; watershed 는 '[명] 분수계, [형] 분수계를 이루는'이란 뜻으로, 쉽게 말하면 물이 갈라져 흐르는 경계를 말합니다. 이렇게 현실, 상황, 사태가 물 갈라지듯 변하는 중대한 '전환점'을 비유적으로 이를 때 쓸 수 있어요. 이 문장도 여태껏 업계 내에서 다양한 이유로 성추행, 성폭행 등이 묵인됐지만, 이제부터는 많이 바뀔 거라는 말이죠! 실제로 큰 전환점이 될 하비 와인스타인 사건과 연결지어 기억해보세요.
   * 지금이 영국 정치의 분수령을 이루는 순간이에요. [ex] We're at a watershed moment in British politics.
-* 그는 새로운 일을 아주 자연스럽게 익힌다. She takes to new works like a duck to water . 
+* 그는 새로운 일을 아주 자연스럽게 익힌다. She takes to new works like a duck to water .
 * 난 내 아들에게 뭘 하라고 말을 할 수가 없어요. 내 말은 귓등으로도 안 들으니. I can’t tell my son what to do; it’s water off a duck’s back with him. ; water off a duck's back; 오리의 궁둥이에는 오리 기름이 분비되어 물이 닿아도 젖지 않음; 부정적인 상황에서 쓰임
 * 너 양수 터진 것 같아. I think your water broke.
+* 그녀는 아주 수월하게 교직에 익숙해졌다. She has taken to teaching like a duck to water. 
+* 피는 물보다 진하다; blood is thicker than water 
+
+
+## wolf
+* 도와 달라고 소란을 피우다(도움이 꼭 필요하지도 않으면서 소란을 피워 정작 도움이 필요할 때는 사람들이 믿지 않게 됨을 나타냄); cry wolf; give false alarm
 
 ## wonder
 * 어쩐지; No wonder!

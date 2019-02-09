@@ -3,6 +3,9 @@
 * 모국어; first language, native language, mother language, mother language
 * 3국어; third language
 
+* 로터리; traffic circle; roundabout
+* 주류 판매 면허접; liquor store; off license
+* 공휴일; national holiday; bank holiday
 * 맨투맨; sweat shirt, crew neck
 * 오므라이스; omelette (rice)
 * 함박스테이크; hamburger steak

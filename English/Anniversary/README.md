@@ -85,6 +85,8 @@
 * #신년을 맞이하다; #ring in the new year!
 	* 신년을 어떻게 맞이할거야? How are you gonna be ringing in the New Year?
 	* 여러분의 #새해 각오는 무엇인가요? 			 What are your new year’s resolutions?
+	* "Happy Lunar New Year" 라고 하시면 된답니다! :) "lunar" 는 '달의' 라는 의미로 음력으로 새해 첫날을 기린다는 의미가 된답니다!  :D 
+	* '세배'는 한국의 특징적인 풍습이라서 "New Year Bowing" 이라고 하면 되시고요. '세뱃돈'은 영어로 "cash gift" "kneel on the ground"  ('바닥에 무릎 꿇고') "bow your head to -"  ('~께 고개를 숙인다') "pay respect to -"  ('~께 경의를 표하다')
 	* 연말 분위기를 만끽할 준비가 돼있어요; I am ready to get into the holiday spirit
 	* #craft a new year's resolution
 	* Are you #sticking to your New Year's resolution? Are you abiding by your word = are you keeping your oath

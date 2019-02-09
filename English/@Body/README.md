@@ -44,6 +44,7 @@
 * #잡아뜯다; #pluck; pluck out
 * ○ clumps of hair in the shower (샤워실에 머리카락 한 웅큼)
 * #고데기 #매직기 #straightener
+	* Do you use a curling iron?
 * #머리 끄댕이 잡다 #grab her hair
 * 머리가 #눌리다; you were concerned with #hat head
 * #빨간머리; #red

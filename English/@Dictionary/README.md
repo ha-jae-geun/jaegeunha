@@ -3247,6 +3247,7 @@
  * # 미루다 # 연기# 끌다 # 지연 # 급함 # 서둘러 # 꾸물 # 빨리 # 빠르게 | # 재촉 # 연장 # 보류
 
 # 믿다
+* # 정확; "I arrived at 7 sharp!" "precisely" [pri-sahys-lee] "exactly" [ig-zakt-lee] "on the button" ('버튼에 딱 맞춰서'); "on the nose" ('코(=목표점)에 딱 맞게')
 * 신뢰를 쌓다 #build up trust
  * 그들의 아들은 집을 뛰쳐나가서 종교 집단에 가입했다. Their son ran away from home and joined a religious cult;  1) cult 는 어려워 보일 수 있지만 꽤 자주 쓰이는 단어입니다. 예찬, 숭배, 어떤 것을 광적으로 추종하는 집단 등을 의미합니다. 
  * swear by 사물 = ~가 효과가 있다고 믿다
@@ -5054,6 +5055,7 @@ retaliate
   * 'kɑ:tɪdƷ The cottage had a delightful sea view.
 
 # 시야
+* 더 좁은 시야를 가지고 있다. have a narrower field of vision. 
 * 이 작은 마을에서 나와서 시야를 넓힐 시간이야. ex) It's time to get out of this small town and broaden my horizons.
 * 우리는 핸드릭스 선생님의 시야에서 벗어나려고 했다. We tried to keep out of Mr. Hendricks line of sight.;  [line of sight]
 * 시야 한 켠에서 그가 다가오는 것이 보였다. I saw him coming out the corner of my eye.  훤히 보이는 정면에서 일어나는 일이 아니라, 잘 보이지 않는 좌측이나 우측에서 일어나는 일을 말할 때 자주 쓰는 표현이에요. '시야 한 켠/구석에서'라는 뜻! 
@@ -6964,6 +6966,11 @@ retaliate
 * 직역하면 누군가를 바다의 '만' 에 둔다는 의미이니, 무언가 불쾌하거나 해로운 것을 멀리 떼어놓듯이 접근을 못하게 하는 것을 의미합니다. = keep someone/something at bay
   * 비타민 C는 감기와 독감이 못 오게 막는다. ex) Vitamin C helps to keep colds and flu at bay.
 
+# 접다
+* 종이 접기; i like origami; [ˌɔːr-]  영국식 [ˌɒrɪˈɡɑːmi]
+  * i made origami flowers / i made paper flowers; paper을 붙여서 자주 말함
+  * i'm making a paper airplane; 학 두루미: crane
+
 # 정도
 * - to a certain/some extent : 어느 정도(까지)는
   * 어느 정도는 동의해. [ex] I agree with you to some extent.
@@ -7161,6 +7168,7 @@ retaliate
   * 개리는 정말 교수역에 적격이다. [ex] Garry really looks the part of a professor.
 
 # 전기
+* 콘센트: outlet, 멀티탭: power strip
 * 전구가 식어서 해체했따; The old bulb was cooled dow so he unscrewed it
 	* 전구를 연결했다; He screwed the new bulb into the socket
 * 전기가 갑자기 나갔다; The light went out all of a sudden
@@ -8348,6 +8356,7 @@ retaliate
  * 밝은 색상은 그의 # 특징이다.       ‘sɪgnətʃə(r) Bright colours are his signature
  * Police said the explosion bore all the #hallmarks of a terrorist attack.
  * 그게 특징이에요; That's one of the specialities of korean beef
+ * 중요한 특징은 The key feature 
 
 # 특별
 * 특별한 날: special #occasion
@@ -9183,6 +9192,7 @@ retaliate
   * 안고 화해하자. Let's hug it out.
 
 # 확신
+* 얼마나 확신을 가지나요? How solid do you feel your case is?
 * 스스로에게 확신이 있을떄만; only when you're full
   * 얼마나 확신하세요? How much do you (stand behind) today's results?
 * 1) 전적으로 확신할 때, 확신이 차고 넘칠 때 : I'm convinced (that ~)

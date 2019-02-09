@@ -145,6 +145,7 @@
 * 극심한 #교통량; #heavy traffic; drive in heavy traffic
 * #Reduce traffic, slow down traffic
 * #교통사고; traffic accident / #접촉 사고; I had a #fender-bender
+	* 문콕; they argued over a door ding
 * 뒤에서 박다; SOMEONE #rear-ended my car / from the side / from behind
 * #교통 체증; #commuter traffic = #rush-our traffic
 * #hold up traffic; #통행을 막다, 교통을 #차단하다

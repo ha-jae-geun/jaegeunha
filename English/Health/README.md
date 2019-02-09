@@ -100,6 +100,7 @@
 * lung cancer = 폐암
 * : 신조어로, 증기를 가리키는 vapor에서 만들어진 동사입니다. 증기를 마시고 뱉는 걸 가리키는데, 최근 전기담배(electronic cigarette 혹은 짧게 e-cigarette)를 즐기는 인구가 늘어나면서 이 표현도 더 자주 접할 수 있게 되었죠~
   * 전자담배의 좋은 점은 실내에서 필 수 있다는 점이야. [ex] The good thing about e-cigarettes is that I can vape indoors.
+  * 전자 담배 상가; in the parking ot of a vape shop
 
 
 # 다이어트
