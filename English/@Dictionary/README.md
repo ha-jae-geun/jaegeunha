@@ -332,6 +332,7 @@
 
 
 # 거리
+* 멀리서 보고 있었어요; I was watching you from a distance; you are atching from far away
 * 가까운 거리; spitting distance = The Stephansdom is a stone's throw from the bus stop
 * 거리감 느껴지다         distant from you, distancing yourself from me: 멀어지다
  * 그녀와 거리를 두세요 give her some space
@@ -500,6 +501,7 @@
   * 잘라서 앞/뒤 위치를 바꿀 수 있다; It's very hard decision to make
 * 결정장애; indecisive = on the fence
    #attitude, #view, #perspective - 견해, 사고방식 
+   * * 실은 결정을 못 내리겠어. Actually, I'm in two minds. 
  * decide to do sth | decide that 절 | decide whether 절
  * #feedback
  * #drown out; Don't le the noise of other's opinions drown out your own inner voice
@@ -6519,6 +6521,9 @@ retaliate
 
 # 인정
 * 인정해주자; to give her credit
+* 인정해, 누구도 완벽할 순 없지. 근데 내가 하려는 말은 ~라는 거야. [ex] Granted, nobody's perfect, but my point here is that ~
+* 알겠다고!; i concede
+
 
 # 인종
 * # 차별; 
@@ -6618,6 +6623,7 @@ retaliate
   * #가독성; legibility, (typographic) readability
 
 # 입장
+* 당신 입장에서 말해주세요; You tell your version
 * 전치사 on 을 써서 [~에 대한 입장을 취하다] 라는 의미로 많이 쓰이기도 하는데요. 중간에 형용사를 넣어서 take a firm/tough/strong stand = [단호한/강경한/강한 입장을 취하다] 처럼 쓸 수도 있습니다.
   * = 낙태할 권리에 대한 입장을 표해야 할 때입니다. It's time for us to take a stand on abortion rights.
   * : 어떤 주제에 대해서 입장을 분명히 밝히다 make one’s position clear (on OO)
@@ -6970,6 +6976,7 @@ retaliate
 * 종이 접기; i like origami; [ˌɔːr-]  영국식 [ˌɒrɪˈɡɑːmi]
   * i made origami flowers / i made paper flowers; paper을 붙여서 자주 말함
   * i'm making a paper airplane; 학 두루미: crane
+  * 까치; magpie; 악어새: crocodile bird
 
 # 정도
 * - to a certain/some extent : 어느 정도(까지)는
@@ -8842,6 +8849,7 @@ retaliate
  * 정신 차리고 현실을 #직시해; #wake up and smell the thorns(#thorn)
  * 뭔가 비현실적이지 않나요?            It's quite surreal [sǝríːǝl] 
  * 비현실적 소리                 otherworldy sound 
+  * 비현실적이다;  The whole story sounds very far-fetched. 
  * 무리한 요구야               You're asking for the moon.
  * #현실적 #비현실 | #무리
 * # 현대; 형용사와 명사로 쓰일 수 있는 단어입니다. [현대적인] 이라는 의미로도 쓰여 contemporary music/dance [현대 음악/현대 무용] 이라는 뜻으로도 많이 쓰여요.

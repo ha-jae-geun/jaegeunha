@@ -616,7 +616,7 @@ it을 붙여줘야 한다.
 # 1. 내가 알기로는
 * #As far as I know, #based on what I know, #according to what I know, #to my knowledge.
 * As far as I know(understand), that movie is releasing this week.
-* *To my knowledge 격식을 갖출때
+* To my knowledge 격식을 갖출때
 * 2.내가 듣기로는
 * #From what I hear/heard
 * From what I've heard, as far as I've heard.

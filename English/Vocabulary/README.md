@@ -512,6 +512,8 @@
 ## board
 * 보통 대기업의 경우엔 상무나 이사를 director 라고 많이들 합니다. board 는 [위원회] 를 의미하기도 하는데요. 그래서 board of directors 는 [이사회] 라고 하고, 줄여서 [the board] 라고 하기도 해요.
   * = 이사회는 이 수치들에 대해 그리 좋아하진 않아. The boards is not really happy about these numbers.
+* 잘 안됐지. 처음부터 다시 시작하자. Back to the drawing board . 듣기 출처:YBM
+
 
 ## boat
  * 나는 기회를 놓쳤다.               I missed the boat.
@@ -674,6 +676,9 @@
 ## bullet
 * 만화 캐릭터들이 긴장했을 때 흘리는 땀방울, 총알처럼 생겼다고 생각해본 적 있나요? 이렇게 총알(bullets)같은 땀을 흘릴(sweat)것만 같은, 긴장하고 두려운, 식은땀 나는 상태를 'sweat bullets'라고 한답니다. sweat bullets : 겁나다/진땀 빼다/긴장하다
   * 나 오늘 너무 떨려. I am sweating bullets today. 
+
+## bud
+* 싹이 나다; [일반] The trees will begin to bud, too.  We'd better hurry or the mushrooms will be sprouting! 
 
 ## budget
 * 나는 한정된 예산으로 이번 휴가를 보내야 한다. I have to spend this vacation on a budget. 
@@ -1268,6 +1273,8 @@
 * cover story는 신분을 감추거나 진실을 드러내지 않기 위해 알리바이처럼 꾸며낸 가짜 이야기를 일컫습니다. 또는 잡지의 커버에 나오는 표지 기사를 뜻하기도 하죠.
   * 경찰은 그들의 거짓 이야기를 믿지 않았다. The police didn't believe their cover story.
 * 여권 앞표지에 넣어두세요; into the front cover of your passport
+* = 저는 8시간 교대 근무를 해요. I work on eight-hour shift.
+  * = 내일 나 대신 근무해 줄 수 있어? Can you cover my shift tomorrow?
 
 ## corner
 * # 고비; 고비를 넘기다; he and i have turned a corner
@@ -1411,6 +1418,12 @@
 * 그 친구 그 하는 일에 완전 빡돌았죠.      He absolutely cheesed off with his job.
 * 치즈랑 밥이 어째서 [오마나 세상에] 라고 해석이 되냐고요? ㅎㅎ 사실 이 표현은 Jesus Christ 의 발음을 조금 다르게 하여 말한 거예요. [세상에, 이럴수가] 라고 할 때 그냥 Jesus 라고 하기도 하는데요, 발음을 다르게 대표적인 예로는 Gees 도 있죠.
   * 이런 이런. 너희 둘이 서로 죽이려는 거야 뭐야? ex) Cheese and rice. Are you guys trying to kill each other or what?
+
+### cheesy
+* ＊ cheesy = 싸구려의, 오글거리는
+  * - a cheesy hotel : 싸구려 호텔
+  * - a cheesy song : 오글거리게 하는 노래
+  * = 이거 치즈맛 난다. It has a cheesy flavor.
 
 ## check
 * #check in on; 어떻게 지내는지 확인하는 그림, #check in with; 결정을 내리기 전 확인
@@ -1638,6 +1651,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 이 악물고 버텨. 넌 할 수 있어. Clench your teeth. You can do it.
 
 ## clear
+* 1) clear the ground = 땅을 닿지 않고 날라가다; 문맥에 따라 ‘땅을 정리하다’가 될 수도 있지만 이 문장에서 clear 는 [닿지 않고 넘어가다] 라는 의미로 쓰였어요. 즉 fly 대신 표현한 말이죠. 
+  * = 그들은 땅을 정리하고 그 곳에 집을 하나 지었다. They cleared the ground and built a house.
 * 그래서 재고 정리나 떨이 세일을 clearance sale 이라고 하고, 거기서 판매하는 물품들을 clearance item 이라고 한답니다 ^^ 저도 clearance sale 참 좋아하는데 슈퍼팬 분들은 어떠세요? ㅎ
   * 핀치 거리에 있는 나이키 매장에서 내일 재고 정리 세일 한다는 거 들었어? 난 거기 갈 거야! ex) Did you hear that the Nike store on Finch Avenue will have a clearance sale tomorrow? I'm going!
 
@@ -1802,6 +1817,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * # 막막; high and dry는 어려운 상황, 막막한 상황을 뜻합니다. 보통 leave someone high and dry라고 표현하여 ‘어떤 도움도 없이 혼자 남겨두다’라고 표현합니다.
     * 모두들 나를 혼자 힘든 상황에 내버려 두었지. Everyone just left me high and dry. 
 
+## desing
+* 고의로; by design
+
 ## dent
 * 움푹 들어간거 보여? See that dent there?
 
@@ -1847,6 +1865,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 돈 많이 모았어; Make big deposits
 
 ## deliver
+* 넌 그냥 제 할 일만 해주면 돼.  You need to deliver the goods simply . 
 * deliver on a promise은 '약속을 이행하다', '(어려움에도 불구하고) 약속한 대로 ~을 해내다'라는 뜻인데요, 이 맥락에서 promise는 '영화처럼 몰입감이 있을 거라는 기대치'기 때문에 '기대치를 충족하다'라고 해석했어요. deliver는 '배달하다'라는 뜻으로 많이들 알고 계시죠? 비즈니스 영어에서는 '(성과 등을) 내다', '충족하다'라는 뜻으로 많이 쓰이는 동사예요. 예시로 살펴볼게요.
   * 좋은 성과를 내다 deliver good results
   * 좋은 제품은 고객에게 가치를 제공해야 합니다. A good product delivers value to customers.
@@ -2880,6 +2899,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 원디렉션 팬 무리/덕후 [ex] One direction groupies
 
 ## ground
+* 1) clear the ground = 땅을 닿지 않고 날라가다; 문맥에 따라 ‘땅을 정리하다’가 될 수도 있지만 이 문장에서 clear 는 [닿지 않고 넘어가다] 라는 의미로 쓰였어요. 즉 fly 대신 표현한 말이죠. 
+  * = 그들은 땅을 정리하고 그 곳에 집을 하나 지었다. They cleared the ground and built a house.
 * 서로의 공통점을 발견할 기회이기도 하고; FInd some common ground
 * 'ground'는 '땅, 토양' 뿐 아니라 '분야, 영역, 화제'와 같은 추상적인 것도 지칭할 수 있는 단어입니다. 거기에서 'common ground'의 '타협점'이라는 의미가 나왔죠. 주로 대부분의 것에 반대하는 사람들이 이해관계·입장등을 공유하게 되었을 때 사용한답니다. 'middle ground'로도 호환해서 사용할 수 있어요.
   * 다른 사람에 비해 더 성공하고, 사람들 사이에서 유명해지고 인기를 얻는다 라는 의미예요. make ground: 앞서 나가다, 성공하다, 인정받다
@@ -3638,6 +3659,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
                                 
 
 ## jump
+* 군인들은 명령을 따라야만 한다. Soldiers have to jump through a hoop. 
 * jump the shark; [동사] (신조어) 텔레비전 쇼에 상식을 벗어난 장면을 집어넣거나 이야기의 전개를 바꿔서 결국 프로그램의 질을 떨어뜨리거나 시청률 하락세를 만회하고자 하다 (JTS로도 표기함) (jump-the-shark는 형용사형, jumping the shark는 분사형)
 * : 시동이 걸리지 않는 차를 직접 밀거나, 다른 차의 배터리에 연결해 시동거는 걸 말해요! 이 상황에 비유해서, 상황이 안 좋을 때 특별히 노력해서 '되살아나게 하다', '활력/활기를 불어넣다' 또는 단순히 활기차게 효과적으로 '시작하다, 시동걸다' 라는 뜻으로 쓸 수 있답니다. 
 	* 아침에 하는 운동은 언제나 내 하루의 시작에 시동을 걸어줘. [ex] Morning workouts always jump start my day.
@@ -3713,6 +3735,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : 그것을 모두 한 데 모으는 것은 현명하지 못한 일이야. sIt's not smart to keep it all together
 * 어떤 물건을 가리킬 때 keeper라고 하는 것은 it’s worth keeping이라는 의미로 직역하면 ‘소유할 만한 가치가 있는 것’을 뜻하죠. 여기선 좋은 물건이네! 정도로 해석할 수 있습니다.  사람에게도 keeper라고 말하기도 하는데요, ‘(결혼할 만한) 좋은 사람이네’를 he’s/ she’s a keeper라고 하죠^^
                                 
+### keep out
+*  1) keep out = 들어가지 않게 하다
+  * 직역하면 바깥쪽에(out) 있도록 유지시킨다(keep)는 것으로 [못들어가게 막는다] 는 것입니다. 
+  * 저 개좀 내 방에서 내보내! Keep that dog out of my room!
 
 ## know
 * 여기서 'know better than ~'는 직역하면 '~보다 더 잘 안다'인데요. '~보단 현명하다, ~보단 분별력이 있다'는 뜻! 크게 다음 두 형태로 쓴답니다.
@@ -4126,6 +4152,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 헛소리는 그쪽이 독점한 것 같은데요.  Sounds like you've got the market cornered on nonsense.
 
 ## man
+* 너가 최고야; you're the man
 * a man's man은 직역하자면 '남자의 남자'로, 남자들이 좋아하는 이미지를 지니고 있는 남자를 가리킵니다. 일반적으로 말하는 '남자다움'을 가지고 있어 남자들 사이에서 인기가 많은 사람을 뜻하죠. 반면 ladies' man, a man's woman이라는 표현은 각각 여자들에게 인기 많은 남자 (혹은 여자들이랑 잘 어울려 다니는 남자), 남자들에게 인기 많은 여자를 가리키는 표현입니다.
 * 'a man of his word' 'a woman of her word'는 '한 말을 지키는 사람'이라는 액면 그대로의 뜻입니다^^ 믿을 수 있고 신뢰가 간다는 말이죠~
   * 걔가 도와주겠다고 했으면 도와줄거야. 한 말은 꼭 지키는 사람이거든. [ex] If he said he'd help you, he will. He's a man of his word.
@@ -4402,6 +4429,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 와 상관없다, 알 바 아닌 no skin off someone's nose 그건 나와 상관 없는 일이다. It's no skin off my nose.
 * : 실수를 들춰내다, 난처하게 하다  rub in one's nose  You kept rubbing in my nose all day.
 	* 1900년대 중반 미국에서 유래한 이 표현은 주택에 침입한 개의 코에 똥을 비비게 하여 혼구멍을 내준다는 의미에서 시작된 것으로 개에게는 몹시 불쾌한 기억이 될 텐데요.
+
+## old
+* 오래된 이야기다; Tale as old as time
 
 ## other
 * other + 복수 명사/불가산 명사
@@ -5600,6 +5630,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * red tape : (불필요하게) 형식적인 절차
   * 지원금이 형식적인 절차에 묶여있어. ex) The grant is now tied up with red tape.
 
+## shift
+* = 저는 8시간 교대 근무를 해요. I work on eight-hour shift.
+  * = 내일 나 대신 근무해 줄 수 있어? Can you cover my shift tomorrow?
+
 ## soap
 * : 일장 연설, 즉흥 설교 [soapbox]; 옛날에 거리를 다니면서 임시방편으로 비누 상자위에 올라가 즉흥적으로 설교를 하던 것에 유래한 표현으로, 특정 주제에 대해 자신의 의견을 내세우다, 즉흥적으로 긴 설교를 하다는 의미의 표현입니다. 상자에 올라가는 건 get on, 내려가는 건 get off가 되어 각각 ‘설교하다’, ‘설교를 멈추다’가 되는 것이죠. 
   * 제발 이제 일장연설 좀 그만해. Please get off your soapbox.
@@ -5630,6 +5664,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## snow
 * 눈; 눈에 갇히다; be snowed in; 일이 산더미; be snowed under(with) = up to my neck/eyeball
 * # snowflake: special snowflake의 줄임말로써, 미국 정치에서 특권의식에 사로잡힌 사람을 경멸하는 은어 2. 손대면 녹아버리는 예민한 사람
+  * 이 불편러야; YOu freaking snowflake
+
 
 ## snag
 * 1. 걸리다, 찢다, 찢기다. 2. 잡다 3. (예상 밖의) 문제, 난관 1) 영상에서는 1번의 의미로 쓰였습니다. 전치사 on 을 써서 어디에 걸리는지를 표현할 수 있어요. '올 풀리다', '스타킹 올 나가다'도 snag 라고 표현하다.
@@ -5849,6 +5885,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## sit on
 * 아무것도 안하다; sit on - ass; That guy over there sits on his ass all day long
+* 우린 아빠 등에 앉곤 했죠; We'd be sitting on his back
+
 
 ### sit out
 * * 걔 토요일 경기에 못 나갔어. (경기엔 못 나가고 벤치에 앉아서 끝까지 지켜봤다는 뉘앙스) He had to sit out the game on Saturday. 1. ~에 안 끼고 빠지다 2. ~가 끝나길 기다리다 (그 일에 끼지 않고)
@@ -6085,6 +6123,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 가끔씩은 자기 자랑 할 줄도 알아야 해. 좋은 결과물을 얻고 싶다면 말야.  sell yourself if you wanna have a good outcome.
 
 ## sense
+* 결국 정신을 차릴거야; Eventually, he'll come to his senses
 * in all senses of the word = 어느 모로 봐도 / 어느 점으로 봐도; sense 는 감각뿐만 아니라 ‘점, 면, 의미’를 뜻하기도 합니다. 그래서 이 표현은 ‘그 단어가 의미하는 어떤 부분을 보아도’를 말하고 주로 문장 안에 그 단어를 지칭하는 구체적인 말이 따라옵니다. 
 	* 그는 어떤 면으로 봐도, ‘훌륭한 사람’ 그 단어 자체야. He is a fine man, in every sense of the word.
 * 동사로서의 sense는 '감지하다, 탐지하다, 느끼다'를 의미합니다.
@@ -6132,6 +6171,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 너 헤어오일 있니? 나 머리 뒤로 넘겨 빗고 싶은데. Do you have hair oil? I want to slick back my hair. 
 
 ## slip
+* 그 사람하테 돈 좀 찔러줄거야; I'll sip the guy a few bucks
 * = 손가락 사이로 빠져나가다 slip through one's fingers; slip 은 '미끄러지다, 빠져나가다' 의 의미를 가지는 동사입니다. 마치 물이나 모래 같은 것이 손에서 빠져나가듯이, 기회나 돈 등이 자기의 의도와는 상관없이 사라져버릴 때 쓰이는 표현입니다.
   * = 그녀는 인생에 한 번 있을까 말까 한 기회를 그냥 떠나보내버렸어. She let the chance of a lifetime slip through her fingers.
  * 말이 #헛나왔어요             It was a #slip of the tongue.
@@ -7041,6 +7081,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## tackle
 * tackle은 보통 축구 경기에서 공을 뺏는 태클로 많이 접하셨을 거예요. 또 다르게는 힘든 문제나 상황과 씨름하다, 또는 그런 문제를 따진다는 의미가 있습니다.
   * 배관 문제 때문에 다섯 시간을 보냈다. I've spent five hours tackling this plumbing problem.
+* 한달에 한개씩 도전해보기로 결정했어요; i'm gonna tackle them month-by-month
+
 
 ## tail
 * #뒤를 밟다; you got a #tail on me
@@ -7372,6 +7414,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * That's why -
 
 ## wood
+* w를 살짝 살려주면서 발음; woods: 숲
 * neck of the woods : 지역, 가까운 지역, 이웃; 1) 비격식 표현이며 특정 지역, 또는 그 지역과 가까운 곳을 의미합니다. 2) 영상에서 처럼 앞에 소유격을 붙이면 '~가 살고있는 지역' 을 의미합니다.
   * 널 내가 사는 지역(우리 동네) 에서 볼 거라곤 예상하지 못했어! ex) I didn't expect to see you in my neck of the woods!
     * 그 차 사고는 이 조용한 지역에선 꽤 큰일로 여겨졌다. ex) The car accident was considered quite big in this quiet neck of the woods.
@@ -7531,6 +7574,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 하지만, 예문에서처럼 '살아있지 않은 주체(예: imagination)'에 대해 사용하는 경우에는, 비유적으로 '제멋대로 전개되다'의 뜻으로 사용한 거에요.
     * 네 감정이 주체못하게 흘러가기 전에 알았으면 좋겠는 건, 네가 들은 건 단지 가설일 뿐이라는 거야. [ex] Before your emotions run wild, I want you to know that what you heard is merely a hypothesis.
 
+## wing
+* 2) on wings = 날개를 달고
+  * = 나도 새처럼 날개를 달고 날고 싶어. I like to fly on wings, just like birds.
+
 ## win
 * 동사 win 은 이처럼 승리해서 상을 타듯 뭔가를 노력해서 '얻다, 쟁취하다' 라는 뜻으로 쓸 수 있답니다! 예문을 보면서 더 익혀보세요. ※ win over는 이전에 나를 지지하거나 신뢰하지 않았던 사람의 지지 또는 신뢰를 얻어내는 등 성공적으로 마음을 바꿨다는 어감이 좀 더 살아있는 표현입니다.
   * 그는 대중의 엄청난 지지를 얻었습니다. [ex] He has won huge public support.
@@ -7544,6 +7591,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 현실에서는 그런 것들이 쓸모 없어진다. In real life, such things go out the window.
 
 ## wind
+* 행방이 묘연합니다; he's in the wind
  * 지금은 상처를 물에 닿지 않게 하렴     Keep the wound away from water for now 
  * 벽시계가 느려지더니 결국 멈췄어     The clock wound down and finally stopped 
  * 이 파티 분위기를 누그러뜨리고 사람들을 집으로 돌려 보냅시다
