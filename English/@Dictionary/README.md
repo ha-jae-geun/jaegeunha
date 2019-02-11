@@ -334,6 +334,7 @@
 # 거리
 * 멀리서 보고 있었어요; I was watching you from a distance; you are atching from far away
   * 멀리에는 in the (far) distance
+  * # 멀다; * (통화할 때) 멀리서 들려. ; → You sound distant.  I can't hear you. The connection is bad.  → I'm losing you.
 * 가까운 거리; spitting distance = The Stephansdom is a stone's throw from the bus stop
 * 거리감 느껴지다         distant from you, distancing yourself from me: 멀어지다
  * 그녀와 거리를 두세요 give her some space
@@ -3428,6 +3429,7 @@
 # 바꾸다
 * # 번복; change, turning over, reversal, upsetting, 번복하다 change, turn, reverse, upset; 결심을 번복하다; change one´s mind 
 * # 수정; 새로운 이민 정책은 입법 수정안을 필요로 합니다.
+* # 개정안; revised bill/plan; approve a revision/ amendment announcement
 * 이제 # 변화를 줘보자; Let's spice things up now
   * make an about-turn : 180도 변화시키다 / 바꾸다.
     * 트럼프 대통령은 북한에 대한 그의 태도를 180도 바꾸었다. ex) President Trump made a big about-turn on his attitude towards North Korea.
@@ -4797,6 +4799,7 @@ retaliate
 * 무슨 속셈이야; What's your angle? 
 
 # 속이다
+* 그는 속이기 쉬워; he is an easy mark
 * 속아 넘어갈 뻔했어; I would fall for this; I would have been ver easily fooled
   * 장난에 속아 넘어갔다는 걸 깨닫고, "야 나 진짜 믿었어 ㅋㅋ"라고 말할 때 쓰는 표현이에요! You had me there! You had me going there!
   * # 꾸미는 일 없어요; we're not plotting anything

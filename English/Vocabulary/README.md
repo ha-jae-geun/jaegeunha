@@ -419,6 +419,7 @@
 
 
 ## angle
+* 세상의 쓴맛 단맛을 다 안다; he knows all the angles
 * 무슨 속셈이야; What's your angle? 
 * at an angle = 비스듬히; angle 이 [각도] 라는 뜻이니, 각도가 없는 정면이나 수직이 되는 것이 아닌, [비스듬히] 를 의미하게 됩니다. 형용사를 써서 [at a slight/steep angle = 약간/매우 비스듬한] 을 의미할 수도 있어요.
   * = 이것 좀 이렇게 비스듬히 들어줄래? Can you hold it at an angle like this?
@@ -550,6 +551,7 @@
   * = 그 사건은 배심원단이 그를 믿는지 안 믿는지가 관건이야. The case will boil down to whether the jury believes him or not.
 
 ## boot
+* 최소한의 자원으로 해야한다; i'll have to bootstrap
 * 트렁크 열어줘; open the boot(영국)
 * 1) [가 도가 좀 지나치네.] / [자기 분수도 모르고 행동하네.] 를 표현할 수 있는 패턴입니다. 주어 + get(s) too big for (one's) boots
     * 밥은 도가 지나치게 행동하는 중이야. 걔가 승진하게 될 거라서 그런가? ex) Bob is getting too big for his boots. Do you think it's because he will get promoted?
@@ -903,6 +905,10 @@
 
 ## brother
 * bro는 brother(형제)의 줄임말로, '형제처럼 친한 친구'라는 뜻, 혹은 '형씨, 친구'와 같이 남자를 칭하는 호칭으로 쓰입니다. bro code는 친한 남자 친구들 사이에서 지켜야 하는 원칙들을 뜻합니다. '서로의 전 애인에게는 대시하지 않는다' 뭐 이런 것들이죠. bro는 '남자인 친구'고 ho는 '창녀'라는 뜻입니다. 원래 창녀는 whore인데 스펠링을 단순화한 슬랭 표현이죠. "Bros before hoes"는 "여자보다 친구가 먼저"라는 뜻의 슬랭 관용어구인데요, bro와 라임을 맞추기 위해 여자를 ho라고 표현했죠. 그렇기 때문에 이 표현을 굉장히 저급하게 보는 사람도 있답니다. 하지만 이 영상에서 보듯이 드라마 등에도 꽤나 자주 등장하는 표현이라 악의 없이 말하면 괜찮다고 생각하는 사람들도 있죠. 이 드라마에서는 바니가 워낙 개념 없는 플레이보이 캐릭터라 저런 대사를 넣었을 겁니다.
+
+## brew
+* 한바탕 소동이 일어나갔네; A strom is brewing
+
 
 ## breach
 * breach는 틈, 균열, 또는 파괴를 의미하기도 하는데요, 여기서는 위반, 침해를 뜻합니다. 약속이나 계약, 법 등 다양한 경우에 사용할 수 있죠.
@@ -1417,11 +1423,13 @@
       * 우리는 그날 저녁 대부분 잡담이나 하면서 바에 앉아있었다. We sat in a bar most of the evening just chewing the fat.
 
 ## cheek
+* 너무 뻔뻔해; he has cool cheek
 * 여기서 cheek은 ‘뻔뻔함, 무례’를 의미합니다. 주로 영국에서 자주 쓰이는 표현으로 상대의 언행이 뻔뻔할 때 하는 말입니다. 뻔뻔함의 의미로 cheek이 들어간 표현을 예문에서 더 살펴보겠습니다.
   * 걘 나한테 거짓말을 했어! 뻔뻔스럽게! She lied to me! The cheek of it!
   * 뻔뻔하네! 나한테 어떻게 그렇게 말할 수 있어? What a cheek! How can you talk to me like that? 
 
 ## cheese
+* 서로 완전히 다른것; Chalk and Cheese
 * 꺼져.                      Cheese off!
 * 그 친구들 나를 성가시게 해.             They cheese me off.
 * 그 친구 그 하는 일에 완전 빡돌았죠.      He absolutely cheesed off with his job.
@@ -1538,6 +1546,10 @@
 ## cross
 * 리스트에서 그건 뺴자; Crossing that one off the list; cross off: 줄을 그어 지우다.
 
+## cream
+* 최고중 ㅊ ㅚ고; to be the cream of the crop
+
+
 ## crew
 * '촬영 스태프'라는 표현 들어보셨죠? 영어로는 보통 filming staff가 아니고 filming 
 crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아볼게요!
@@ -1598,6 +1610,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 가끔 이상한 생각들이 나를 엄습하고 나는 완전 끔찍해서 어찌할 바를 모른다. Sometimes crazy thoughts overwhelm me and I just want to crawl out of my skin.
 
 ## crack
+* 당신과 논의할 게 있어요; i have a nut to crack with you
 * : (비격식) 서둘러 시작하다
   * 서두르자. Let's get cracking.
 * 누가 일렀어: Who cracked
@@ -1766,6 +1779,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 영국식 영어와 미국식 영어는 발음도 발음이지만 사용하는 단어, 단어의 철자도 다를 때가 종종 있습니다. cancel의 경우 진행형, 과거형이 원래는 영국식처럼 cancelling, cancelled라고 쓰는 것이 맞았지만 이것이 미국으로 넘어오면서 canceling, canceled가 되었습니다. (다만, 명사형 cancellation(취소)은 항상 '-ll-'로 표기!!) 비슷한 경우로 travel, level, quarrel, 등이 있습니다. (간혹 가다 예외가 있으니 꼭 검색해보세요!)  이렇게 쓰고 저렇게 쓴다고 큰일 나는 것은 아니지만, 영어로 글을 쓸 때 본인이 1. 영국식 영어권을 대상으로 하는지, 미국식 영어권을 대상으로 하는지 2. 어느 하나의 언어권 표현으로 일관하여 사용하는지, 이 두 가지에 따라 일관성 있게 사용한다면 더 좋겠죠?!
 
 * 커피의 쌉쌀한 맛과 케이크의 느끼함이 서로 상쇄된다.[ex] The bitter taste of coffee and the greasiness of cake cancel each other out; cancel out
+
+## cannon
+* 언제 터질지 모르는 폭탄 또는 그처럼 예측할 수 없는 사람을 지칭; loose canon 미국식  영국식 
 
 ## canned
 * 통조림에 들어가 있는 음식들을 canned food 이라고 하는데요. 안 열어봐도 안에 뭐가 들어있는지 뻔히 알 수 있는 것처럼 뻔한 답변을 의미할 때 쓰는 표현입니다. 참고로 시트콤들이 사용하는 가짜 웃음 소리는 canned laughter라고 합니다.
@@ -2111,6 +2127,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 용을 죽이다; slay a ragon; 유럽에서 용은 파괴의 힘, 인간과 대적하는 존재, 용은 물리쳐야 하는 존재로 
 
 ## drop
+* 아무것도 아니다; not a drop
 * drop은 '떨어지다'라는 의미 외에도, (물)방울, 소량의 뜻이 있습니다. 여기서 조금 다른 의미에서 사탕, 물약이라는 뜻도 있죠. 
 	* - fruit drops는 과일맛 사탕 
 	* - cough drop: 기침 (멎게 하는) 캔디 (같은 약) (감기 걸렸을 때 이걸 찾는 사람들이 참 많습니다!)
@@ -2142,6 +2159,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 이 수업은 두 가지 핵심 주제를 아우릅니다. [ex] This course embraces two major topics. 3. 아우르다, 포함하다
 
 ## escalate
+* (김 부장님께 이 일을 보고 해야 해).; "I need to escalate it to Mr. Kim."
 * escalate the situation = 상황을 더 악화시키다; 에스컬레이터(escalator)는 위로 올려주는 장치죠. 여기서 상황을 올린다는 것은 나쁜 쪽으로 악화시킨다는 것을 말합니다. 주어는 악화시키는 사람, 혹은 악화되는 상황, 문제점 등이 옵니다. 
   * 다행히도 상황은 더 크게 나빠지지 않았다. Fortunately, the situation didn’t escalate into anything big.
 ( 그 다음주, 대립은 순식간에 확대되었다. The confrontation escalated quickly in the following week. 듣기 출처:능률교육
@@ -2316,6 +2334,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 몇 개월 차세요? How far along are you? 2. 임신 몇 개월인지 물을 때
 
 ## fall
+* "덜컥 임신하다"를 영어로?▶ fall pregnant
 * break the(one's) fall : 넘어지는 것을 막다. 덜 심하게 넘어지다. 누군가가 넘어지는 것을 (fall) 깨부수는 것이기 때문에 (break), 추락을 방해하여 안 넘어지게 하거나, 조금 살살 넘어지게끔 하는 것을 의미합니다.
   * 옆을 잡아서 그녀는 넘어지는 것을 가까스로 막았다. ex) She managed to break her fall by grabbing the side.
   * 나무들이 그 작은 아이가 창문에서 떨어지는 것을 막았다. ex) Trees broke the little boy's fall from the window.
@@ -3561,6 +3580,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : 왜인지 모르겠지만 [in one's infinite wisdom] 누군가의 결정이나 행동을 이해하지 못하겠다는 부정적인 뉘앙스를 가진 표현입니다. 영상에서는 MacArthur Foundation이라는 기관이기 때문에 its라고 하였는데, 누구의 결정인지에 따라 다른 소유격(her, his, their…)이 올 수 있습니다. 그리고 infinite는 생략 가능합니다. 
   * 정부 기관들에서, 왜 그런지는 당최 모르겠지만, 시민 문화 회관을 닫기로 결정했어. The authorities, in their infinite wisdom, decided to close the community center.
 
+## iron
+* 그 여자애는 심지가 강하구나.; That girl has an iron backbone. 듣기
+
+
 ## ironic
 * 어떤 말이나 행동의 앞뒤가 맞지 않은 경우를 우리는 아이러니하다고 하죠. ironic와 irony는 비슷하게 보이지만 품사에 차이를 가져요. 품사에 주의해 단어를 잘 활용해보세요.
   * 아이러니한게 예전에 애들을 싫어했는데 지금은 좋아. It's ironic that I used to hate kids, but now I love them.
@@ -3894,6 +3917,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## loose
 * all hell breaks loose : 난장판으로 만들다. 대혼란이 일어나다; 비격식 표현으로 갑자기 소리지르거나 싸우면서 상황이 시끄럽거나 폭력적으로 변하는 것을 의미합니다.
   * 모든 사람들이 끝났다고 생각했을 때, 대혼란이 일어났다. ex) When everyone thought it was over, all hell broke loose.
+* 언제 터질지 모르는 폭탄 또는 그처럼 예측할 수 없는 사람을 지칭; loose canon 미국식  영국식 
 
 ### loosen
 * : 'loosen'은 '느슨하게 하다'라는 뜻으로, 'up'과 함께 쓰이면 '긴장을 풀다', '몸의 근육을 풀다', '분위기를 풀다/느긋하게 하다' 라는 뜻으로 쓸 수 있답니다.  베드씬 때문에 긴장한 배우들을 'loosen up' 해주려고 음악을 틀었다 했죠? 요 문맥 속에서 기억해보세요.
@@ -4169,6 +4193,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## mark
 * Hilfenhaus는 이해가 빠르다.  Hilfenhaus is quickly off the mark; 상황 판단이 빨라
+* 그는 속이기 쉬워; he is an easy mark
+
 
 ## market
 * 'off the market'은 임자있다는 비유적인 표현입니다. 비슷한 뜻으로, 'taken', 'in a relationship'도 자주 사용하죠^^?
@@ -4264,6 +4290,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * go missing는 '실종되다', '사라지다'라는 뜻이고 missing은 '행방불명된 상태'를 뜻해요. 또한, missing은 '제자리에서 없어진 상태'도 뜻합니다. 예시로 비교해보죠.
   * 4살 여아는 어제 실종되었습니다. The 4-year-old girl went missing last night.
   * 어, 내 립스틱이 없네. 네가 가져갔니? Hey, my lipstick is missing. Did you take it?
+
+## money
+* #old money; 상속받은 돈; new money: 번 돈 / 굴러들어온 돈
+
 
 ## mob
 * 'mob'는 명사로 '무리, 떼'를 가리키고, 동사로는 '떼 지어 몰려들다'라는 의미를 가집니다. 특히 폭력성이나 말썽의 여지가 있는 듯한 (사람, 동물)집단에 사용한답니다.
@@ -4380,6 +4410,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 스티븐을 가까이 하지 마. 걔는 나쁜 일을 몰고다녀. [ex] Stay away from Steven, he’s bad news.
 
 ## nail
+* 핵심을 찌르다; hit the nail on the head
 *  #확정하다 #실토하게; #nail down;She says she'll come, but I can't nail her down to a specific time.
 * [nail down] : 결정적으로 밝혀내다, 확실히 알아내다
   * 그 기자는 모든 사실을 확인함으로써 그 이야기를 결정적으로 밝혀냈다. The reporter nailed down the story by checking all the facts.
@@ -4460,6 +4491,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## other
 * other + 복수 명사/불가산 명사
   * the other/another + 단수 명사
+
+## object
+* 돈은 문제가 안된다; money is no object
 
 ## obsess
 * 최근에 가장 빠져 있는게 뭔가요? What's your latest obsession
@@ -4940,6 +4974,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## polar
 * 북극곰이 영어로 polar bear 인 것 아시나요? polar 는 '양극의' 또는 '극과 극' 을 의미합니다. 남극은 South Pole, 북극은 North Pole 이라고도 하죠.  따라서 polarize (극단화하다) 에 ~ing 가 붙음으로써 "극단화하는" 정도로 해석이 됩니다. 좋아하는 사람들은 완전 좋아하고, 싫어하는 사람은 완전 싫어하는 거죠. feature 는 '특징' 이라는 뜻이기 때문에 짙은 눈썹이 '극단화하는 특징' 즉, '호불호가 갈릴만 한 부분' 이라는 뜻이죠!
   * 두리안은 냄새 때문에 가장 호불호가 갈리는 과일들 중 하나입니다.  ex) Durian fruit is one of the most polarizing fruits in the world because of its smell.
+
+## potential
+* 잠재력을 발휘가기 위해 노력하다; strive to reach their full potential
+
 
 ## potato
 * 핵심 #meat and #potatoes
@@ -5502,6 +5540,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 자, 파트 2 다시 가 봅시다. [ex] Let's run through part 2 again. 3. 을 연습하다
 * 티오도르는 자신의 재산을 2년 안에 탕진했다. [ex] Theodore ran through his money within two years. 4. (돈을) 다 써버리다
 
+## ramble
+* 두서없이 말하다; Sorry, i am rambling / i get carried away
+
+
 ## rare
 * [rare bird] : 희귀한 것, 독특한 사람 문자 그대로는 희귀새지만 흔하지 않으면서도 독특한 것을 지칭할 때 rare bird라고 합니다.
   * 그는 바텐더인데, 술을 마시지 않는 아주 독특한 사람이야. He is a rare bird as he’s a bartender that doesn’t drink alcohol.
@@ -5948,6 +5990,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그들은 땀을 뻘뻘 흘리며 일하고 있었다. They were working in a real sweat. 
 
 ## swallow
+* 믿기 어려운; hard to swallow
 * swallow는 음식이나 침을 '삼키다'고 할 때 주로 쓰이는 표현인데요, 어떤 감정을 '억누르다, 참다'고 할 때도 사용할 수 있답니다. 주로 함께 사용되는 감정 표현은 pride, grief, insult, anger 등이 있어요.
 
 ## swarm
@@ -6064,6 +6107,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 1. spasm: 경련, 발작   - muscle spasm: 근육 경련  - stomach spasm: 위경련  - coughing spasm: 발작적 기침  [ˈspæzəm] 
 
 ## spare
+* 머리가 듬성하고 곱슬; his hair was spare and frizzy
 * 남이 어떤 나쁜 일을 겪지 않도록 해주는 것을 spare라고 합니다. 사용시 어순은 「spare 사람 (from) 불쾌한 일」입니다. 영상속 대사를 살펴보면 spare(받지 않게 해주다) / others(다른 사람들) / the anguish of the disease(이 병으로부터의 고통)이 되겠습니다.
 	* 그녀는 그녀의 어머니에게 어떤 걱정도 끼치지 않길 바랬다. She wanted to spare her mother from any anxiety.
 
@@ -6202,7 +6246,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 너 헤어오일 있니? 나 머리 뒤로 넘겨 빗고 싶은데. Do you have hair oil? I want to slick back my hair. 
 
 ## slip
-* 그 사람하테 돈 좀 찔러줄거야; I'll sip the guy a few bucks
+* 식곤증에 빠지다; i'm slipping into food foma
+* 그 사람하테 돈 좀 찔러줄거야; I'll slip the guy a few bucks
 * = 손가락 사이로 빠져나가다 slip through one's fingers; slip 은 '미끄러지다, 빠져나가다' 의 의미를 가지는 동사입니다. 마치 물이나 모래 같은 것이 손에서 빠져나가듯이, 기회나 돈 등이 자기의 의도와는 상관없이 사라져버릴 때 쓰이는 표현입니다.
   * = 그녀는 인생에 한 번 있을까 말까 한 기회를 그냥 떠나보내버렸어. She let the chance of a lifetime slip through her fingers.
  * 말이 #헛나왔어요             It was a #slip of the tongue.
@@ -6279,6 +6324,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 사라가 여기 있어서 그냥 공손하게 있는거야. ex) He's just being polite now because Sarah is here.
 
 ## service
+* 방을 정돈해주세요; Please service room
 * get service는 휴대폰 신호가 잡힌다는 뜻!
   * 너 신호 잡혀? 난 안 잡혀. [ex] Are you getting service? I'm not.
 
@@ -6739,6 +6785,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 노래하는 법을 배운 적은 없는데 어쩌다 보니 이 그룹에 속하게 되었어. ex) I've never been taught how to sing, but somehow I tumbled into this group.
 
 ## tune
+* 태도를 바꾸다; change one's tune
 * 악기의 음을 맞추거나 라디오 채널을 맞추는 것을 tune 이라고 하죠. 둘 다 소리를 듣는 행위입니다. (옛날에 라디오는 지직거리지 않을 때까지 손을 돌려서 채널을 맞췄죠!) 그의 반대인 tune out은 ‘소리를 듣지 않다, 무시하다’를 의미합니다. 뭐라고 떠들든 귀를 탁 닫아 버리는 겁니다.
   * 엄마가 집이 더럽다고 잔소리 할 때 아빠가 귀를 닫고 안 듣고 있었다는 걸 알 수 있었다. I could tell my dad was tuning out when mom was nagging about the dirty house.
 * 기타를 치기 전에 기타 줄을 맞추는 것을 '튜닝' 이라고 하는데요. 이렇게 무언가를 서로 잘 맞추는 것을 tune 이라고 합니다. 반의어로는 out of tune 이라고 표현할 수 있어요.
@@ -6939,6 +6986,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * ○ The last hotel I stayed at had a neat trick to save water. (전에 내가 묵었던 호텔에서 물을 아끼는 아주 좋은 방법을 쓰더라고) ---> neat trick (깔끔한 트릭 ---> 쌈박한 아이디어)
   * ○ Maybe your eyes are just playing tricks on you. (아마도 당신 눈에 그렇게 보이는 것 같은데요) ---> play tricks on ~ (에게 장난을 치다)
 
+## trend
+* trandsetter = trand leader / follwer <> trend stealer
+
+
 ## treat
 * 원래 treat 은 [대접하다, 한턱내다] 라는 의미를 가집니다. 예를 들어, [난 그녀에게 점심을 대접했다] 라는 문장은 I treated her to lunch. 라는 식으로 쓰는데요. 여기에 her 대신 oneself 를 쓰면 자기 자신에게 대접한다는 말이 되니, 큰 맘먹고 스스로에게 선물하듯이 무언가를 살 때 쓰는 표현이 됩니다.
   * 큰맘 먹고 이 새 노트북 컴퓨터를 샀어. ex) I treated myself to this new laptop.
@@ -7132,6 +7183,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
     * 켄은 좋은 제안을 많이 함으로써 기여했다. [ex] Ken brought good suggestions to the table.
 
 ## tall
+* 무리한 요구; be a tall order
 * 비격식 표현으로 무언가를 달성하기 어려울 때 쓰는 형용사입니다. 영상에서는 this order is tall 이라고 쓰였는데요. 주로 a tall order 라고 써서 [# 무리한 요구] 라고 하기도 합니다.
     * 미안해, 제이슨. 그건 너무 무리한 요구야. 난 못하겠어. ex) Sorry, Jason. It's a bit too tall an order. I can't do it.
 
@@ -7318,6 +7370,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## toe
 * 우리는 상황을 알아 보았다  Dipping our toes in the water
 
+## ugly
+*  get ugly의 의미는 1) 취하다  혹은 2) 찐-하게 놀아보자는 뜻입니다. 
+* 몹시 추하게 생긴; she's as ugly as sin
+
+
 ## umbrella
 * umbrella : 상부/상위, 보호; 우산이 우리를 위에서 덮고 있듯이, 하부 개념들을 덮고 있는 상부 개념의 무언가를 umbrella 라고 합니다. 또는 우리를 비로부터 보호하듯 [보호] 라는 의미로도 쓰여요.  따라서 under the umbrella 라는 의미는
   * 저희 조직은 IOC 산하에 있습니다. ex) Our organization is under the umbrella of IOC.
@@ -7371,6 +7428,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## wave
 * 아버지와 의기투합하여 제이콥은 그 일을 해결키로 했다. Jacob decided to take on the issue on the same wavelength as his dad. 
+* 어떤 말썽도 안 일으킬게; i will not make any waves this time
+
 
 ## way
 * 쌍방 관계, 상호 노력이 필요한 관계; 일방 통행길을 one-way street 라고 양방향 다 갈 수 있는 길을 two-way street 라고 하는데서 나온 표현이에요.  당연히 일방적인 관계는 one-way street 라고 하겠죠? two-way 는 형용사로써 서로 함께 노력하고, 서로 상대방으로부터 배우는 것을 나타내는 형용사 입니다.  또한 대표적으로 [two-way communication = 상호 의사소통 / two-way process = 양방향의 과정] 으로도 많이 쓰인답니다.
@@ -7450,6 +7509,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * That's why -
 
 ## wood
+* 난 아직도 위기에 처해있다. I am still not out of woods. 듣기 출처:YBM
 * w를 살짝 살려주면서 발음; woods: 숲
 * neck of the woods : 지역, 가까운 지역, 이웃; 1) 비격식 표현이며 특정 지역, 또는 그 지역과 가까운 곳을 의미합니다. 2) 영상에서 처럼 앞에 소유격을 붙이면 '~가 살고있는 지역' 을 의미합니다.
   * 널 내가 사는 지역(우리 동네) 에서 볼 거라곤 예상하지 못했어! ex) I didn't expect to see you in my neck of the woods!
@@ -7457,6 +7517,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
       
 
 ## word
+* 잠깐 얘기좀 할까? A word?
 * 말장난할 시간이 없어요.  [ex] I don't have time for word play. 2. word play = 말장난
 * 한 마디도 하지 마; Don't say a word                    
 
@@ -7547,6 +7608,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 2) [에게 복수를 가하다] 라는 뜻으로 쓰일때도 wreak vengeance on 이라는 형태로 쓰입니다.
 
 ## wrap
+* ㅍ나 내 여자친구한테(그녀한테) 잡혀 살아.; I'm wrapped around her finger. 
 * 타월을 둘러쓰고; he's like wrapped up in his towel
 * wrap는 '포장하다', '싸매다' 라는 뜻이에요. get wrapped up in sth을 직역하면 '무언가에 꽁꽁 싸매이다' 인데요, '다른 모든 것은 무시할 정도로 몰두해버리다' 라는 뜻입니다.
 	* 네 아이들에게만 너무 몰두하지는 마. 너와 네 아이들에게 안 좋아. ex) Don't get too wrapped up in your children. It's bad for you and your children.

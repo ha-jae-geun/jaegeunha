@@ -267,6 +267,7 @@ Put A before B: A를 B보다 우선시하다;  put A on the front burner: A를 �
 * 우리 한 번 폭식해보자/거덜내보자/제대로 먹어보자! Let's pig out! 
 * 솔깃한데요; it sounds tempting
 
+
 # 필수
 * 신경도 안썼어; Never gave an eff
 * get to; get(a chance) to do something; i got to look around and take pictures
@@ -915,7 +916,7 @@ Put A before B: A를 B보다 우선시하다;  put A on the front burner: A를 �
 * 돼지고기 냄새가 심해; the smell is strong
 * 냄새가 비리다; fishy 2. 수상하다; sounds so fishy
 * 화상전화걸다; make a video call
-* 논문을 쓰는ㄱ ㅓㅅ; writing a dissertation;  [ˌdɪsəˈteɪʃn]
+* 논문을 쓰는 것; writing a dissertation;  [ˌdɪsəˈteɪʃn]
 * 집값이 다시 서서히 오르고 있다.; House prices are creeping up again. 
 * 향수병 ㄱㄹ리다; be homesick
 * 꿈 깨; Dream on
