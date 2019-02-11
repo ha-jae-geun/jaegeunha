@@ -14,13 +14,46 @@
 		* in the middle of the picture
 		* in the top right corner
 		* in the background of the picture
+		* in the right/left corner of the picture
+		* 멀리에는 in the (far) distance
 	- 특징
 		* Two people are talking to each other
 5. 마무리
 	- 추측
 		* It eems like S+V
 
+# 옷
+* wear casual/formal clothes
+* wear a striped/dotted/checked/ivory/colorful
 
+# 동작
+* with her legs/arms crossed
+* with his hands in the pocet
+* 턱을 괴고; with her chin on her hand
+
+# 사물 묘사
+* A is placed/arranged/displayed/stacked/piled/scattered on B; 
+* A is covered with B; A is surrounded by B
+* A가 길가에 주차되어 있다; A is parked along the street
+* A is lined up
+* A is posted / attached on B
+* A 가 B에 떠있다; A is floating in B
+
+# 행동
+* sitting at/around the table
+* 주문하다: make an order;  주문 받다: take an order
+* reaching for an item; putting items in the platic bag;
+* 돈을 내려고 기다리다; waiting to pay
+* 논의하다: discussing something = having a discussion
+* 개를 쓰다듬다: petting a dog
+* 드라이하다: blow-drying customer's hair
+* 선풍기가 거울에 비친다; a fan is reflected in the mirror
+* 거리에서 공연하다; performing on the street = showing a performance
+* 유모차를 끌다; carrying a baby stroller; 신호를 기다리다; wating for a signal
+* 해안을 따라 걷다; walking along the beach; 태닝하다: getting a tan
+* 모래로 성을 만들다: making a castle with sand; 노를 들고 있따; holding a paddle
+* 보트가 물에 떠있따; a boat is floating in the water; 물이 잔잔하다; water is calm
+* 쇼핑 카트를 밀다; pushing a shopping cart
 
 ## 단어
 * long-sleeve / short-sleeve / sleeveless

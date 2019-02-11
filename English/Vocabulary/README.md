@@ -3937,6 +3937,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 그래, 나도 그녀가 도와줘서 매우 감사하고 어느 정도까지는 고마워하고 있다구. Yeah, I’m very grateful for her help and appreciate it on some level.  : 어느 정도까지는, 어느 수준은 [on some level]
 
 
+## leak
+* leak in the boat = 배의 누수
+  * = 지붕에 세는 곳이 있네. There’s a leak in the roof.
+
 ## leap
 * leap off ~ : 로부터 튀어나오다 / 시선을 끌다. 1) 동사 leap 에는 [뛰다/뛰어오르다] 라는 뜻이 있고, off 은 from 과 비슷한 의미로 [~로부터] 라는 의미가 있습니다. 2) 원래는 leap off the page 라는 표현이 더 자주 쓰이는데요, 책에서 뚫고 나오듯 생생한 장면, 독자의 시선을 끄는 장면을 의미합니다. 3) the page 대신 the screen 이 나왔으니, [스크린을 뚫고 나올만큼 생생한 장면] 을 의미하겠지만, 앞에 literally (말 그대로) 라는 단어가 붙어서 배우들이 실제로 스크린 밖으로 나오는 장면이 나중에 나와요!
   * 그 배우는 스크린을 뚫고 나오는 것 같았다. ex) The actor seemed to leap off the screen.
@@ -7427,6 +7431,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 혈색이 안좋고 피곤해 보이는; looking washed out
 
 ## water
+* 모래로 성을 만들다: making a castle with sand; 노를 들고 있따; holding a paddle
+  * 보트가 물에 떠있따; a boat is floating in the water; 물이 잔잔하다; water is calm
 * : 중대한 전환점/분수령에 와있다 - be at a watershed moment; watershed 는 '[명] 분수계, [형] 분수계를 이루는'이란 뜻으로, 쉽게 말하면 물이 갈라져 흐르는 경계를 말합니다. 이렇게 현실, 상황, 사태가 물 갈라지듯 변하는 중대한 '전환점'을 비유적으로 이를 때 쓸 수 있어요. 이 문장도 여태껏 업계 내에서 다양한 이유로 성추행, 성폭행 등이 묵인됐지만, 이제부터는 많이 바뀔 거라는 말이죠! 실제로 큰 전환점이 될 하비 와인스타인 사건과 연결지어 기억해보세요.
   * 지금이 영국 정치의 분수령을 이루는 순간이에요. [ex] We're at a watershed moment in British politics.
 * 그는 새로운 일을 아주 자연스럽게 익힌다. She takes to new works like a duck to water .

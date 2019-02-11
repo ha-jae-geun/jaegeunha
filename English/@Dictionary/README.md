@@ -333,6 +333,7 @@
 
 # 거리
 * 멀리서 보고 있었어요; I was watching you from a distance; you are atching from far away
+  * 멀리에는 in the (far) distance
 * 가까운 거리; spitting distance = The Stephansdom is a stone's throw from the bus stop
 * 거리감 느껴지다         distant from you, distancing yourself from me: 멀어지다
  * 그녀와 거리를 두세요 give her some space
@@ -363,6 +364,8 @@
 
 # 거울
 * 거울을 똑바로 맞추다; adjust the mirror
+* 선풍기가 거울에 비친다; a fan is reflected in the mirror
+
 
 # 거의
 * 거의        #all but, virtually(가상), almost, nearly, effectively, #just about
@@ -874,6 +877,9 @@
  * #kiss and tell ; I don't kiss and tell
  * #최초 공개; Revealed for the first time! First time ever?! | #First ever! - First ever
  * ##public #공개 #공적
+
+# 공연
+* 거리에서 공연하다; performing on the street = showing a performance
 
 # 공정
 * a clean fight: 반칙이 없는 깨끗한 시합; 공정하게 하자; Let's make it clean
