@@ -242,6 +242,7 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 * #당면; #glass noodle
 * #부추; #chives; chinese chive
 * #쪽파 #chive 미국·영국 [tʃáiv] 
+	* 그리고 ‘파’를 나타내는 단어는 많은데요, 기본적으로 green onion, scallion skǽliən]  이 있고, 크기가 좀 더 큰 leek(대파) 그리고 작은 spring onion(쪽파)가 있습니다. 
 * #무; #radish, 절인 무: pickled radish, #단무지; yellow pickled radish
 * #고수; cilantro 미국식 [sɪ|lӕntroʊ] 
 * #줄기 채소									 leafy vegetable

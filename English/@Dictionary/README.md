@@ -1991,6 +1991,9 @@
 * # 소중; 저희가 신중히 고른 스킨케어 제품들로 당신을 소중히 가꾸세요. ex) Pamper yourself with our carefully chosen skincare products.
   * 귀중품이 들어있으니 조심해 주세요; Please be careful because it contains valuable stuff
 
+# 다양하다
+* - are more varied in 
+
 # 다워
 * 너 # 답다; So typical of you
 * that's very Jessica라고 하면, '그건 아주 제시카가 할 만한 일이야, 제시카다운 행동이야'라는 뜻이죠! 그 사람의 이름이 그 사람의 특징을 대변하는 의미로 사용된 거랍니다.
@@ -2285,6 +2288,7 @@
   * 그 단계를 돌파해야 돼(=계속 달려서 그 단계를 넘어서야 돼). B: You have to power through that stage.
 
 # 동기
+* 의욕을 잃지 않는법; How to stay motivated
 * 비격식 표현으로 사람을 흥분시키거나 감정을 유발하는 것을 의미해요. 또한 무언가를 좀 더 강력하고 신나게 만드는 것도 의미하는데요. 영상에서는 수동태인 be amped up 으로 쓰여 [의욕에 불타게 되다] 의 뉘앙스로 쓰였습니다.
 	* 다음 프로젝트를 할 의욕에 불타고 있어. 언제 시작해? ex) I'm so amped up for our next project. When do we start?
 * 2) 강력한 동기부여 = a kick in the butt 엉덩이를 걷어차면 화들짝 놀라 깨어나는 모습이겠죠? 그런 모습에서 유래된 표현으로, 조금 동기부여가 되지 않는 사람에게 동기부여를 해주는 다소 강한 말이나 행동을 의미하는 표현이에요.
@@ -3751,6 +3755,7 @@
   * 차가 갑자기 옆 길로 새서 거의 누군갈 칠 뻔 했어.  ex) Our car suddenly veered off the road and we almost hit someone.
 
 # 방해
+* 방해해서 죄송합니다; Sorry to bother you
 * 프랑스어에서 온 단어로, 중세 농민들이 탐욕스러운 영주의 부당한 처사에 대한 항의로 곡식을 나막신 (sabot) 으로 짓밟은 것에서 나온 표현이에요. 우리말로 된 뉴스나 신문에서도 가끔 노동 관련 뉴스에서는 '사보타주' 라고 그대로 쓰기도 하는데요. 노동자들이 시설이나 원자재 등을 파괴하여 생산이나 사무 활동을 방해하는 것을 의미해요. 그 모습의 연장선 상에서 영상에서처럼 무언가를 [고의로 방해하다] 의 의미를 가집니다.
   * 제니퍼는 항상 우리의 관계를 방해하려고 해. 왜지? ex) Jennifer is always trying to sabotage our relationship. Why? 국 [ˈsæbətɑːʒ] 
 * 벽을 치는 것 같이 느끼셨다면; If it seemed like stonewalling(연락, 질문 등을 방해하다.)
@@ -7689,6 +7694,7 @@ retaliate
  * 정말이지 -했다고; i have to say, 
 
 # 집중
+* 그냥 여기 집중하면 안돼? Why don't we just concentrate on this?
 * 어떤 일에 완전히 주의 집중을 한다는 뜻으로 rapt attention(완전히 집중함), rapt expression(몰입한 얼굴), rapt audience(몰입한 청중) 처럼 표현할 수 있습니다. 
   * They're not with me.  They're just not paying attention, i get distracted
     * 집중 기간; People have a short attenion span

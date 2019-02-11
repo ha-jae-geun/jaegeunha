@@ -6,6 +6,7 @@
 -----
 
 # 연음
+* Chocolate is still the most popluar gift for the Valentine's Day; choclolate; 중앙 o 발음 안함; most가 자음 셋의 연속 사이에 끼어 있어 t 무음;  Valentine; 밸; 애 발음 길게
 * 우리 동네에도 이런데가 있었으면 좋겠다. I wish we had a place like this in our neightborhood; our을 r로 발음
 * read in English; 리리닝글리쉬;   the use of electronic cigarettes; 벨렉ㄳ
 * pocket; pa-낏,         opportunity; 아뻐투너티; 아 크게;      bad idea; 배-라이디어(bed와 구분)

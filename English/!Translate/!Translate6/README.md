@@ -1,3 +1,12 @@
+# 감각동사 - PART 4 - "내가 보기에는 괜찮은데." , "너가 듣기에는 어때?"
+* 내가 보기에는 괜찮아; It looks good/okay to me; THis looks good/okay (to me)
+  * 다른 사람 이야기 하다가 나의 이야기를 말할 때; To me, it looks OK/good
+* 내가 듣기에는 괜찮은데; It sounds OK/good to me.
+* 너가 보기에는 괜찮아? Does it look OK/good (to you)?
+* 너가 보기에는 어때? How does it look to you?
+* 너가 듣기에는 괜찮아? Does it sound good to you?
+* 너가 듣기에는 어떄? how does it sound (to you)?
+
 # 영어 연습가이드 #42 (PART 1) - But then, / As much as
 * 우리 동네에도 이런데가 있었으면 좋겠다.
   * I wish we had a place like this in our neightborhood; 현실적으로 불가능하다는 것을 화자가 아는 상태에서 가정하의 소망을 말할 때는 were, 실현 가능성은 있지만 기약이 없는 상태에서는 was를 주로 사용

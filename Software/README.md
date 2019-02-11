@@ -76,6 +76,7 @@
 * #chocolatey.org; 윈도우 다운
 * Monosnap; 스크린샷
 * TeamViewer; 공유
+	* Chrome Remote desktop; 같은 G메일 아이디면 공유 가능
 * 모비즌
 
 #스포이드 색 추출: colorcop | #그림판/#파워포인트

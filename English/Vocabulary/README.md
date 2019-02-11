@@ -169,6 +169,10 @@
 * 3. [spoken/구어체] 기꺼이 하려는
 	* 에단이 한다고 하면, 맨몸수영하러 가고 싶어. [ex] I want to go skinny-dipping if Ethan is up for it.
 
+### upon
+* 전치사 upon 은 on 이랑 비슷하게 쓰이지만 그 본연의 뜻인 '위에' 라는 뜻 자체로 쓰이는 경우는 거의 없는 것 같아요. 보통 숙어에서 on 대신에 upon 을 쓸 수 있는 경우가 많은데요.
+  * on/upon ~ing = ~하자마자  based on/upon = ~에 근거하여  depend on/upon = ~에 의존하다 영상에서처럼 [upon + 사람]으로 쓰면 마치 그 사람 바로 위에 무언가가 닥치듯, 발생하기 직전을 의미합니다.
+
 ### up on
 * be up on : ~를 잘 알다; 무언가를 잘 알 때 쓰는 비격식의 표현입니다. 영상에서는 엘렌이 목적어를 말하다가 멈추고, 뒷문장을 달아서 be up on 이라는 표현을  모를 수도 있는 사람들을 위해 문장을 바꿔 he knows what's going on. 이라고 말한걸로 보입니다. 
   * 난 요즘 리얼리티 TV 프로그램들을 그리 잘 알지는 않아. ex) I'm not really up on current reality TV shows.
@@ -321,6 +325,9 @@
   * 동사; physically abuse = 신체적 학대를 가하다 sexually abuse = 성폭행하다
   * 2) [학대] 뿐만이 아니라, [남용, 오용(하다)] 라는 의미로도 많이 쓰이는 단어입니다.
     * 사적인 이익을 위해 권력 남용을 하지 마시오. ex) Don't abuse your power for your personal benefit.
+
+## across
+* 반대편에 있다; it's across the road from -
 
 ## action
 * slang(속어)으로 'action'은 '성적 접촉·활동'을 가리킬 수 있습니다. 문맥에 따라 스킨십에서부터 섹스까지를 모두 나타낼 수 있죠.
@@ -543,6 +550,7 @@
   * = 그 사건은 배심원단이 그를 믿는지 안 믿는지가 관건이야. The case will boil down to whether the jury believes him or not.
 
 ## boot
+* 트렁크 열어줘; open the boot(영국)
 * 1) [가 도가 좀 지나치네.] / [자기 분수도 모르고 행동하네.] 를 표현할 수 있는 패턴입니다. 주어 + get(s) too big for (one's) boots
     * 밥은 도가 지나치게 행동하는 중이야. 걔가 승진하게 될 거라서 그런가? ex) Bob is getting too big for his boots. Do you think it's because he will get promoted?
 * 2) 우리 말에서 누군가의 '능력' 을 의미하는 [분수/그릇] 을 영어에서는 boots 라고 생각하시면 됩니다. 조금 거만하게 행동하고, 자기가 굉장히 잘난것 같고, 중요한 것 같이 행동하는 사람들을 표현할 때 쓸 수 있어요. 호주에서는 boots 대신 britches (또는 breeches,
@@ -654,6 +662,7 @@
  * 이 매트리스에 #빈대가 있는 것 같아    I'm afraid there are bedbugs in this matress 
 
 ## buy
+* 내가 시간 끌게; I'm gonna go buy you some time
 * 그는 되게 잘속아         Thay guy {bought it, fell for it, is so gullible. 'gʌləbl}
   * #buy off; #buy someone off; #매수하다; they had to buy ~ off to stop him from talking
   * #buy into; 곧이곧대로 믿다; she had never bought into the idea that to be attractive 
@@ -3220,6 +3229,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 비격식 표현으로 누군가가 "나 ~ 이야, ~할거야." 라고 말할 때, 그 사람이 말한 것을 믿지 않을 때 쓰는 표현이에요. 앞 사람이 be 동사를 얘기했으면 be 동사로, 일반동사로 얘기했으면 do/does/did, 조동사면 조동사로 쓰시면 되요!
   * "내가 브래드 피트보다 더 잘생긴 것 같아." "웃기고 있네." ex) "I think I'm more handsome than Brad Pitt." "The hell you are."
 
+## heap
+* 그는 자기 팀을 극구 칭찬했다. He heaped praise on his team. 
+* 그는 자기 팀을 극구 칭찬했다 He heaped his team with praise. 
+
+
 ## heavy
 * heavyweight는 원래 권투, 레슬링 등의 헤비급 (보통 체중보다 많이 나가는 급) 선수를 가리키는 표현인데요, 구어에서 영향력 있는 인물, 중요 인사, 유력자를 가리키는 말로 사용합니다.
   * 저 파란 나비넥타이 한 사람이 정계 유력자야. That man with a blue bow tie is a political heavyweight.
@@ -3659,6 +3673,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
                                 
 
 ## jump
+* 그냥 스웨터야; i mean jumper(영국)
 * 군인들은 명령을 따라야만 한다. Soldiers have to jump through a hoop. 
 * jump the shark; [동사] (신조어) 텔레비전 쇼에 상식을 벗어난 장면을 집어넣거나 이야기의 전개를 바꿔서 결국 프로그램의 질을 떨어뜨리거나 시청률 하락세를 만회하고자 하다 (JTS로도 표기함) (jump-the-shark는 형용사형, jumping the shark는 분사형)
 * : 시동이 걸리지 않는 차를 직접 밀거나, 다른 차의 배터리에 연결해 시동거는 걸 말해요! 이 상황에 비유해서, 상황이 안 좋을 때 특별히 노력해서 '되살아나게 하다', '활력/활기를 불어넣다' 또는 단순히 활기차게 효과적으로 '시작하다, 시동걸다' 라는 뜻으로 쓸 수 있답니다. 
@@ -3897,6 +3912,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 껴줘 #keep someone in the #loop <> out of the loop
 
 ## look
+* by the looks of … = 보아하니
+  * = 쟤 옷 입은거 보면 한국사람은 아니야. By the looks of her outfit, she isn’t Korean.
+
 ### look out
 1. 보살피다
 	* 내가 없는 동안 네 동생 돌봐주렴. [ex] Look out for your brother while I'm gone.
@@ -3938,6 +3956,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## left
 * left-wing 좌익 단체들left-wing groups 
+* go left: 왼쪽으로 걲어 가세요; on the left: 왼쪽에 위치하고 있다.
 
 ## lick
 * lick 은 원래 '핥다' 라는 뜻이기에 직역하면 '깨끗하게 핥아먹다' 의 의미를 갖습니다. 그만큼 무언가를 싹싹 긁어먹는 모습을 비유적으로 나타낸 표현이에요.
@@ -4116,6 +4135,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 최고의 팀이 이기기를. [ex] May the best team win.
 
 ## magic
+* 그녀의 할아버지가 그녀에게 마술을 가르쳤다. [V] Her grandfather taught her to # conjure. 
 * 'work one's magic'은 직역하면 '마술을 걸다'라는 뜻인데,  1. 뛰어난 능력을 발휘하다 2. 원하는/좋은 결과를 가져오다 두 가지 의미를 복합적으로 가지고 있어요. '원하는 결과를 얻을 수 있게 자신의 재능을 발휘하는' 상황에서 사용할 수 있는 표현이에요.
   * 약이 제대로 약효를 발휘하려면 30분 정도 걸린다. It takes about 30 minutes for the pill to work its magic.
 * 친구들끼리나 선생님, 집안 어른이 상대에게 공손하게 please라고 붙여 말하라는 의미로 자주 들을 수 있는 표현이 바로 'what's the magic word (마법의 말이 뭐지)?'입니다. word 대신 여기서처럼 password (암호)라고도 말해도 좋고요~ 상대가 마법의 단어인 please라고 말해야 부탁한 일을 해주겠다는 뜻이에요. 선생님과 집안 어른들은 주로 아이에게 상대한테 어떤 부탁을 하려면 공손하게 말하는 법을 가르쳐주기 위해 이 말을 많이 하고요, 친구들 사이에서는 괜히 장난처럼 (나에게 비굴하게 부탁하거라! 하고) 이 표현을 쓸 때가 종종 있어요~ 그나저나 영어로는 please 하나만 붙이면 어느 정도 공손한 표현이 된다는 사실이 참 신기하기도 하죠?  답할 때는 장난스럽게 pretty, pretty please~ (정말 진짜 제발요)하고 말하기도 합니다. 슈렉의 장화신은 고양이 표정을 짓고 말하면 효과 백 배겠습니다!!^^
@@ -5630,6 +5650,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * red tape : (불필요하게) 형식적인 절차
   * 지원금이 형식적인 절차에 묶여있어. ex) The grant is now tied up with red tape.
 
+## sheer
+* 속이 다 비칠 정도로 얇은 나일론 sheer nylon 
+* 얼마나 얇게 발리는지 보이시죠; How sheer it is on my skin
+
 ## shift
 * = 저는 8시간 교대 근무를 해요. I work on eight-hour shift.
   * = 내일 나 대신 근무해 줄 수 있어? Can you cover my shift tomorrow?
@@ -5647,6 +5671,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 네가 날 아빠한테 일러바친거라고 생각했어. ex) I thought you snitched on me to my dad.
 
 ## sneak
+* sneak a taste = 몰래 맛보다; sneak 이라는 동사 자체가 무언가를 [몰래 하다]의 의미를 가집니다. 특히 어떤 장소에서 몰래 나가고 들어가고 할 때 sneak in, sneak out, sneak away 등으로 표현을 많이 하는데요. 영상에서처럼 뒤에 목적어를 쓰게 될 경우엔 그 목적어를 허락 없이 몰래 하거나 몰래 가져가는 걸 의미합니다. 
+  * = 아빠가 돌아오실 때까지 몰래 맛보면 안 돼. Don't sneak a taste until daddy comes back.
 * 언니 일기장을 몰래 봤다. [ex] I sneaked a look at my sister's diary.
   * 내가 톰한테 몰래 쪽지 전할게. [ex] I'll sneak Tom a note.
   * 우리는 데비한테 살금살금 다가갔어. [ex] We sneaked up on Debbie.
@@ -5884,6 +5910,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 내 생각도 그래요. 면접 볼 때 데이브도 함께 참석하는 게 좋을 것 같아요. 그가 언제 시간이 되는지 알아볼게요. I agree. I also think Dave should sit in on the interview. I'll find out when he's available. 
 
 ## sit on
+* 이 제품들은 피부에 밀착이 정말 잘대요; These products sit on the skin beautifully
 * 아무것도 안하다; sit on - ass; That guy over there sits on his ass all day long
 * 우린 아빠 등에 앉곤 했죠; We'd be sitting on his back
 
@@ -6303,6 +6330,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * stage는 '무대, 연극'이라는 의미가 있는데 이 뜻에서 '(공연, 행사를) 무대에 올리다, 개최하다' 그리고 '(어떤 목적을 위해 무엇을) 꾀하다, 연출하다'라는 동사의 의미로 발전했습니다.
   * 그 이벤트를 오랫동안 기획했다. They've staged the event for a long time.
 * 무대 공포증 있다. I have stage fright.
+
+## outshine
+* 많이 계시니까 제가 1등하고 싶어요. - 1등을 하고 싶다? - 네. So I want to beat everyone. - You want to outshine them? - Yeah
 
 ### outstage
 * 소한테 지다니; outstaged by beef
