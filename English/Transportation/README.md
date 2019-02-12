@@ -75,6 +75,7 @@
 	* 3호선 양재역 방향을 타라 take line three going to 양재 station
 	* 양재역에서 내려서 10번출구로 나가라 #get off at 양재 station and go to exit 10
 * #택시 정보 #uber
+	* 저 여기서 내려요; This is me
 	* #법인택시; #corporationowned taxi
 	* #개인택시; #privately owned taxi
 	* #미터기; #taximeter

@@ -55,6 +55,8 @@
 	* 홍보 투어; #press tour
 	* #투어; The band is #on tour in France. 그 밴드는 프랑스에서 순회공연 중이다.
 * 소녀팬이 된 기분이야; i'm like fangirling
+	* stan (for) = ~의 광팬이다. / 광팬; 21세기 들어서 새로 생긴 속어 중에 하나입니다. 현존하는 래퍼 중에 전 세계적으로 가장 앨범을 많이 판매한 에미넴 (Eminem) 의 노래 중에 Stan 이 있는데요. 이 노래에 등장하는 Stan 이라는 사람은 Slim 이라는 가수의 광팬입니다. 혹시나 뮤직비디오를 보시면 얼마나 미쳐있는지 보실 수 있을 텐데요. 이 노래가 초대박 히트를 치면서 사람들이 stan 이라는 단어를 [~의 광팬이다] 또는 명사로 [광팬] 의 의미로 사용하기 시작하며 속어로 굳어졌어요. 동사로 stan 이라고 하기도 하고 stan for 라고 하기도 합니다.
+		* = 네가 그의 플레이를 본다면, 내가 왜 그의 광팬인지 이해하게 될 거야. If you see him play, you will understand why I stan him.
 	* diehard stans (fans) = 광적인 팬들, 극성팬들; 열성적인 팬: fervent fan
 		* 몇몇 극성팬들은 미친 사람들처럼 소리지르기 시작했다. ex) Some of the diehard fans started screaming like crazy people.
 		* 2) stan 은 비격식 표현으로 단순히 fan 보다 한단계 더 나아간 거의 사생팬 수준으로 특정 유명인물에 꽂혀서 병적으로 집착하는 팬들을 stan 이라고 합니다.

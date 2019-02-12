@@ -332,6 +332,7 @@
 
 
 # 거리
+* # 가까이에서 봐도; Up close and personal
 * 멀리서 보고 있었어요; I was watching you from a distance; you are atching from far away
   * 멀리에는 in the (far) distance
   * # 멀다; * (통화할 때) 멀리서 들려. ; → You sound distant.  I can't hear you. The connection is bad.  → I'm losing you.
@@ -2119,6 +2120,9 @@
   * 어제 내가 런던으로 급히 가봐야 해서 데이비드가 나 대신 업무를 맡아주었다. David stepped in for me last night as I had to fly to London urgently.
 * replace: 직책 등에서 물러난 자리를 다른 사람이 대신 하는것; John was replaced with a younger new recruit
   * substitue for sb; 휴가나 병등으로 잠시 자리를 비운사이 다른 사람이 그일을 대신하는것; Marki will substitute for me
+
+# 대안
+* 대단을 생각해야돼; i must think about alternatives
 
 # 대의
 * for the greater good : 대의를 위해서 / 공익을 위해서
@@ -4417,6 +4421,7 @@ retaliate
 # 사기
 * [사기, 의욕] 은 영어로 morale 이라고 합니다. 그래서 사기를 높이는 것, 즉 [사기 진작]은 morale-boosting 이라고 하죠. [사기를 높이다] 라고 할 때 동사는 boost 뿐만 아니라 bolster, raise, improve 등을 쓰기도 합니다. 
   * = 코치는 선수들의 의욕을 높이고자 하였다. The coach tried to bolster up their morale.
+* # 사기꾼; 다른 사람 행세를 하는) 사기꾼; imposter
 
 # 사명감
 * 저는 여기 있어야 한다는 사명감을 느껴요; i feel a calling to be here
@@ -4510,6 +4515,7 @@ retaliate
   * = “그렇게 하면 안되지” 그녀가 말참견하고 나섰다. “That’s a bad idea,” she interjected.
 
 # 색깔
+* 너는 걔랑 그 애매한 관계 끝내고 싶지 않니? DOn't you wanna get out of this weird grey ara with him
 * woman/man/person of color 이라는 표현은 꼭 알아두는 것이 좋아요! 유색인종을 의미하는 비차별적 용어랍니다!
 * 무척 기쁜; tickled pink; 간지럽 피거나 기쁠 때 얼굴이 분홍색으로 변하는 것 
 	* 모든 일이 잘 풀리고 있다; Everything in my life is totally peachy; 2. 좋은, 훌륭한, 분홍빛
@@ -4526,6 +4532,7 @@ retaliate
     * 회색 지대는 항상 있기 마련이야. There's always a grey area.                           
 
 # 생각
+* # 상상; * 상상하지 못한; not even on the horizon
 * ‘속으로 생각하다’를 영어로 어떻게 말할까요? 많은 분들이 think inside my mind라고 하는 경우가 있는데요, 이건 원어민들이 의미는 대강 유추할지 몰라도 너무 한국어스럽게 번역한 말이라 매우 어색하다고 느낄거에요.  바로 「think to oneself」가 ‘속으로 생각하다’입니다. to oneself는 ‘혼자서’란 뜻으로 혼자서 생각했다는 거니까 마음속으로 생각한다는 것과 같은 말입니다. 같은 원리로 talk to oneself는 ‘혼잣말하다, 독백하다’를 의미합니다. 
   * 나는 속으로 “또 시작이네”라고 생각했다. I thought to myself, “Here we are again!”
 * 생각 안나; It doesn't ring a bell; i can't remember; i don't know; i'm not sure
@@ -4664,7 +4671,8 @@ retaliate
  * 사실을 과대 포장; #exaggerate the facts
  * <마이크는 늘 돌직구를 던진다.>    [mɪns]: 고기 갈다, 고상한척 걸음 "Mike never minces his words.“
 
-
+# 설치
+* 설치하고 있따; be setting up a projector
 
 # 성장
 * #성장 #발전; I’ve made a lot of progress / improvement
@@ -5305,6 +5313,7 @@ retaliate
    * #결함; #glitch; flaw, fault, defect; (제도 등의) deficiency
 
 # 실험
+* 실험 장비를 사용하고 있따; They're using laboratory equipment
 * : 말 그대로는 '~로 실험을 해보다'라는 뜻인데, 이렇게 '(이전과 다른) 새로운 것을 시험 삼아 시도해보다'라는 뜻으로도 쓸 수 있어요!
   * 머리에 새로운 머리 스타일/색을 더 자주 시도해봐야겠어. [ex] I need to experiment more with my hair.
   * 아직 (시험삼아) 이런저런 사람 만나보고 있어. [ex] I'm still experimenting.
@@ -5924,6 +5933,7 @@ retaliate
 # 위치
 * 그냥 얼핏 들으면 where about 정도로 들릴 수도 있고, 명사로 생각하기 힘들지만 명사인 단어입니다. 단어 속에서 보이는 모습 그대로 어디(where) 쯤에(about) 있는지를 의미합니다.
 	* = 그녀가 그 돈의 소재를 밝히진 않을 거야. She wouldn't reveal the whereabouts of the money.
+* 첫번째줄에 위치행ㅆ다; He stands second from left in the top row with the crew
 
 # 위해서
 * 난 그 친구를 위해서 그러는거라고!          I'm just doing it #for his sake
@@ -7266,6 +7276,8 @@ retaliate
 * 조금만요; Just a tad; You look a tad tired
 
 # 조사
+* do one's homework = 철저히 조사하다, 준비하다; 숙제를 하는 것이 꼭 해야 하는 일을 하는 것이라는 점에서 비유적으로 쓰이게 된 속어로, 무언가에 대해서 철저하게 학습하고 조사하여 그것에 대해서 잘 알고, 잘 다룰 수 있는 것을 의미하는 표현입니다.
+  * = 제대로 조사해 온 사람은 저 밖에 없어 보이네요. It looks like I'm the only one who did my homework.
 * #조사관 #inspector 면밀이 조사하다 #inspect [skrúːtənàiz] #scrutinize
   * 그들이 날 정말 좋아한다고 방금 막 들었어. 그 사람들이 내 신원 조회하고 나면, 공식적으로 채용될 거야! ex) I've been just told that they really like me, so once they background check me, I'll be officially hired! &lt;동사처럼 쓰일 때&gt;
   * 만일을 위해 모든 사람들의 신원 조회를 할 예정입니다. ex) We'll conduct a background check on everyone just in case. &lt;명사로 쓰일 때&gt;
@@ -8283,6 +8295,9 @@ retaliate
 * 영국에서 좀 더 자주 쓰이는 단어로 대중적으로 받는 칭찬을 의미합니다. 같은 의미로는 praise 나 renown 도 많이 쓰입니다.
   * 제인은 항상 돈 보다는 칭찬을 원하지. ex) Jane always looks for kudos rather than money.
 
+# 카운트
+* 셋하면; on count of three
+
 # 코팅
 * 종이를 코팅한다고 할 때는 laminate 라고 합니다. 일반적인 상황에서 Paper coating 이라고 하면 알아듣지 못할 수 있습니다. 
   * 그녀는 나뭇잎을 코팅해서 책깔피로 썼다. She used laminated leaves as a bookmark.
@@ -8473,6 +8488,9 @@ retaliate
     * 네가 이것에 대해 어떻게 생각하느냐에 따라 달려 있어. [ex] It depends on how you feel about it.
     * [ex] It depends on the weather. (O)  It's up to the weather. (X)
 
+# 팔짱
+* 팔짱끼고 걸어가고있따; They're walking arm in arm
+
 # 편
 * #side with; Who’s the court’s gonna side with
  * #favor; in one's favor; the data is not in our favor
@@ -8542,6 +8560,9 @@ retaliate
  * 영원한 사랑                    eternal love
  * 걔 완전히 떠날거래            She says she's leaving him for good.
  * 평생 생각날 것 같애; I'm scarred for life
+
+# 평소
+* 평소처럼; As usual
 
 # 포기
 * 포기 하는 것을 배운다; we learn to quit

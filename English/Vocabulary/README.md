@@ -589,6 +589,7 @@
 ## border
 * 그녀는 히스테리에 가까운 불안을 느꼈다. She felt an anxiety bordering on hysteria. 
 * 하지만 난 많은 사람들이 경계선에 있다고 생각합니다. But I think a lot of people are on the borderline. 듣기
+* 미국으로 밀입국 하려고 했다고? sneak across the border; he was sneaking across borders
 
 ## behave
 * * behave badly = 못되게 굴다 * behave yourself! = 말썽 피우지 마!
@@ -881,6 +882,7 @@
   * 갑자기 웃음을 빵터지다; Helen suddenly burst into laughter
 
 ## build
+* 덧바를 수 있고; it's pretty buildable
 * 위로 쌓여 높아지는 그림
 * 'build a life together' 는 '인생을 함께 꾸려나가다', '함께하는 인생을 꾸려나가다' 라는 뜻이에요. 동사 build 를 요런 식으로도 쓸 수 있다는 것 이 표현으로 기억해보세요. 또 다음과 같은 목적어도 받을 수 있답니다.
   * 너랑 함께 인생을 꾸려나가고 싶어. I want to build a life with you.
@@ -1318,6 +1320,9 @@
   * 그는 각혈을 하고 있따; He's been coughing up blood
   * 빨리 말해; Cough up
 
+## construct
+* A wall is being constructed out of bricks
+
 ## consent
 * 수술 동의서; informed consent
 
@@ -1448,6 +1453,9 @@
   * i'm keeping her in check
 * 수표 종류엔 personal check 와 cashier's check 가 있는데요. 개인 수표 같은 경우엔 수표를 주는 사람이 그 밑에 자기가 원하는 금액을 써서 상대방에게 줍니다. 그런데 수표를 받은 사람이 현금화 하려고 할 때, 수표 발행자의 통장에 잔고가 부족하면 현금으로 바꿀 수가 없거든요. 하지만 cashier's check 같은 경우엔, 수표를 건네는 사람이 미리 은행에 가서 자기 계좌에서 돈을 뽑아서 은행이 발행하는 수표이기 때문에 무조건 현금으로 바꿀 수 있는 수표입니다. 따라서 돈을 받는 사람의 입장에선 더 선호하고 신뢰하는 수표인거죠. [참고] endorse = 수표 등에 서명하다.
   * 개인 수표를 줘도 되지만, 자기앞 수표가 더 낫겠네요. ex) You can give me a personal check, but a cashier's check would be better.
+
+## chat
+* be cahtting with each other; be chatting in small groups
 
 ## chaos
 *  throw A into chaos: A를 혼란에 빠트리다
@@ -1871,6 +1879,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 네 폰의 통화 내역이 바로 네가 잭이랑 데이트한다는 결정적 증거지. The call history on your phone is a dead giveaway that you are dating Jack.
 
 ## deal
+* 이거 진짜야; this is the real deal guys
 * 내 말 잘들어; Here is the deal
 * deal breaker = (계약 조건 중) 절대 용납할 수 없는 조건; 연애에 대해 말할 때도 많이 쓰는 말인데요, 연애 deal breaker는 "다른 조건이 아무리 좋아도 참을 수 없는 성향이나 조건"을 뜻해요. "깨는 조건"이라고도 할 수 있겠네요.
   * 넌 연애할 때(또는 연애 상대를 볼 때) 제일 깨는 조건이 뭐야? What's your relationship deal breaker?
@@ -1996,6 +2005,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## disclaim
 * disclaim은 '~에 대해 모르거나 책임이 없다고 말하다'라는 뜻인데요. give a disclaimer 이 형태로 쓰이는 경우가 많아요. '미리 경고를 할 테니 나한테 책임을 묻지 말라' 이런 뜻이고요, 이게 일상에서도 은근히 자주 쓰이는 말이라 '미리 경고하다', '고지를 하다' 이렇게 일상적인 어투로 번역해도 된답니다.
   * 주의/경고: 저는 그 어떤 종류의 무단침입을 용납하거나 권장하지 않습니다. Disclaimer: I do not condone or encourage trespassing of any kind.
+
+## display
+* 진열되어 있따; be on display
 
 ## dispense
 * 어떤 설치된 기계에서 (정수기, 자판기, 현금지급기 등) 물건이 나오는 것을 dispense라고 하고, 그 기계들을 dispenser라고 통칭합니다. 
@@ -2385,6 +2397,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 2. 'feel like'는 '~인 것 같다', '~처럼 느껴진다', '~같은 느낌이다'라는 뜻으로, 구어적 표현 중에서도 필수적으로 꼭 알아둬야 할 표현이에요! 익혀두면 정말 유용하고요. 다음 두 형태로 자주 쓴답니다.
   * [ ex1: feel like + 명사 ] I feel like such an asshole.
   * [ ex2: feel like + 주어, 동사가 포함된 절 ] Sometimes I feel like I'm going to be single forever.
+
+### feel out
+* 떠보지마; DOn't feel her out
 
 ## frame
 * frame 의 기본적 의미는 무언가를 둘러싸고 있는 [틀] 을 의미해요. 안경테, 액자틀, 모두 frame 이라고 하는데요. 말을 할 때는 어떤 특정한 틀 속에서 이야기를 하는 것이기 때문에, 영상에서는 특정한 방식으로 '포장하다' 해석이 되었습니다.
@@ -2879,6 +2894,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : 직역하면 '총을 연달아 발포하며'라는 뜻으로 어떤 일을 전력을 다해, 공격적으로 하는 모양을 묘사하는 데 사용합니다.
 	* 사람들이 결의를 불태우며 모여들었다. People gathered up with guns blazing.
 
+## grey
+* 너는 걔랑 그 애매한 관계 끝내고 싶지 않니? DOn't you wanna get out of this weird grey ara with him
+
 ## green
 * 정말 부럽다; i'm green with envy; green: 창백; 안색이 변할 정도로 질투가 난다.
 
@@ -3287,6 +3305,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## horizon
 * 이 작은 마을에서 나와서 시야를 넓힐 시간이야. ex) It's time to get out of this small town and expand/broaden my horizons.
+* 상상하지 못한; not even on the horizon
 
 ## hole
 * 맛집; hole in the wall
@@ -3448,6 +3467,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * house party가 그래서 맞음
 * home party는 장소가 불분명해짐
 
+## homework
+* do one's homework = 철저히 조사하다, 준비하다; 숙제를 하는 것이 꼭 해야 하는 일을 하는 것이라는 점에서 비유적으로 쓰이게 된 속어로, 무언가에 대해서 철저하게 학습하고 조사하여 그것에 대해서 잘 알고, 잘 다룰 수 있는 것을 의미하는 표현입니다.
+  * = 제대로 조사해 온 사람은 저 밖에 없어 보이네요. It looks like I'm the only one who did my homework.
+
 ## hair
 * (화가 난 상대방에게 하는 말로) 진정해라 keep your hair on 미국식  영국식   단어장추가
 
@@ -3574,6 +3597,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 내 부모님께서는 나에게 책 읽는 즐거움을 심어 주셨다. (instill / in / 사람 / 주입시킬 것) My parents instilled in me a love of reading. 
 
 ## inform
+* = 현명한 결정, 사실에 입각한 결정 informed decision; '정보'라는 뜻을 가진 단어인 information에서 보이듯이 inform 은 어떤 정보를 '알려주다'라는 뜻이 있어요. 그렇다면 과거 분사형인 informed는 '정보를 받은'을 의미할 텐데요. 돌려 말하면 정보가 많아서 무언가를 [잘 아는] 을 의미합니다. informed decision 은 함께 굉장히 많이 쓰이는 단어인데요. 결정을 내릴 때 많은 정보를 가지고, 사실에 입각하여 무언가를 잘 알고 내리는 결정이니 [현명한 결정] 을 의미합니다. 
+  * = 인터넷은 유권자들이 전보다 더 현명한 결정을 할 수 있게끔 도와줍니다. The internet helps voters to make more informed decisions than ever.
 * 수술 동의서; informed consent
 
 ## infinite
@@ -3690,6 +3715,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 사진이 너무 못 나왔다. / 실물이 훨씬 낫다. ex) This picture doesn't do him justice.
 
 ## juice
+* 내가 생각했던것 보다 강력하네; THis guy's got a little more juice than i realize
 * 고기를 뜨거운 기름에 빨리 튀겨서 육즙이 나오지 않게 하세요. Fry the meat quickly in hot oil to seal in the juices.
 * 난 그럴 자격 있어; i got the juice
 * juicy라는 단어를 딱 들으면, 오렌지 주스, 사과 주스의 juice가 생각이 나죠~ juicy는 즙이 많다는 뜻인데 고기의 육즙이 풍부하다고 할 때도 juicy!, 이야기가 흥미롭거나 외설적일 때도  juicy!라는 표현을 사용합니다.  juicy gossip은 흥미로운 가십거리, juicy details은 구미 당기는 정보, 얘기를 의미해요! 육감적인 매력이 있는 사람한테 juicy라고도 말하는 경우를 들을 수도 있는데 좀 변태스럽고 적절하지 못한 표현이므로 주의하도록 합니다~
@@ -3711,6 +3737,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : (구어) ~를 격렬하게 비난하다, 꾸짖다, 야단치다 [ 숙어 ] jump (all) over somebody
   * 엄마는 내가 늦은 것에 대해 엄청나게 뭐라 했다. My mom jumped all over me for being late.
 * jump seat = 자동차나 항공기에 달려있는 접이식 보조 좌석
+
+## kink
+* 애로사항을 해결하다; work out the kinks
 
 ## kill
 * 불 다 꺼.[ex] Kill the lights. 1) 끄다
@@ -3961,6 +3990,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 그래, 나도 그녀가 도와줘서 매우 감사하고 어느 정도까지는 고마워하고 있다구. Yeah, I’m very grateful for her help and appreciate it on some level.  : 어느 정도까지는, 어느 수준은 [on some level]
 
 
+## lean
+* 그녀는 창밖으로 몸을 내밀고 있따. SHe's leaning out a window
+* 남자는 울타리에 기대고 있따; The man is leaning over the fence
+* - is leaning against the door
+
 ## leak
 * leak in the boat = 배의 누수
   * = 지붕에 세는 곳이 있네. There’s a leak in the roof.
@@ -3991,6 +4025,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 난 내 남친을 위해 요리하는 걸 좋아해. 왜냐면 내가 무엇을 요리하든지 깨끗이 비우거든. I enjoy cooking for my boyfriend because he licks the dish clean no matter what I cook.
 
 ## lid
+* 뚜껑을 제거하고 있따; be removing the lid
 * 뚜껑 닫아 놓고 칠까, 열고 칠까? DO we hit it with the lid on it, or do we hit it with the lid off?
 
 ## little
@@ -4547,6 +4582,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## off
 * OO-off = OO대결; curse-off : 욕대결 dance-off : 춤배틀
+* Off: 관계가 끊어져 떨여저 나올 때; A train tan off the rails
+  * A helicopter took off
 
 
 ## offense
@@ -4623,6 +4660,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : ~ 기 위해 엄청난 # 공을 들이다 take great pains to + 동사원형
 
 ## pack
+* 그녀는 물품들을 상자안에 채워놓고 있따; She's packing items into a carton
 * :끝내다/패배를 인정하다 pack it up  :그만두다/끝내다 pack it in
     * 결국에 우리는 패배를 인정해야 했다. We had to pack it up in the end.
 * 보통 일(job)을 그만둔다고 할 때 사용되는데요, 상대가 안 좋은 행동을 계속 하는 경우 그만두라고 말할 때도 'pack it in'이라는 형식으로 사용한답니다.
@@ -4639,7 +4677,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 넌 정말 한심한 찌질이야. ex) You're such a pathetic loser.
 
 ## patch
+* 화장이 뜨는 부분; i do get the patches
 * rough patch = 순탄치 못한 시기, 힘든 시기; patch는 '구역'을 뜻하고 rough는 '거칠다'라는 뜻이에요. 이게 배 항해할 때 물살 거친 구역을 칭하는 데서 유래했다는 설이 있네요~ 지금도 항해사들이 쓰는 표현이기도 하다고요!
+* 고르게 발려요; it doesn't get patchy
 
 ## pat
 * * pat down  1. 몸 수색을 하다. 2. 가볍게 두드리다. 불법적인 무기나 마약 등을 소지하고 있는지 몸을 훑어가며 수색하는 것을 의미합니다. 보통 공항 보안 검색대에서 출국할 때 하는 검사를 생각하시면 됩니다!
@@ -4652,6 +4692,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * blow it out of the (ball)park : 정말 대단하다. 엄청나다. 초대박!
   * 2) 야구에서는 홈런을 때리는 것이 최고로 여겨지는데요. 야구장 밖으로 공을 보내는 장외 홈런은 엄청나게 잘 친 것이기 때문에, 그런 모습에서 나온 표현이에요. 무언가가 엄청 대단하거나 만족스러울 때 쓰는 표현입니다.
   * 비록 그게 너의 첫 프리젠테이션이었지만, 정말로 대단했어. ex) Although it was your first presentation, you really blew it out of the ballpark!
+
+## parallel
+* 나란히 달리고 있따; a cyclist is riding parallel to a truck
 
 ## pare
 * pared-down = 축소된, 군더더기 없는; 동사 pare 은 ‘(과일, 야채 등) 겉껍질을 벗기다’, 혹은 ‘(크기, 양) 줄이다, 삭감하다’ 입니다. 뒤에 전치사는 의미에 따라 off, down, back 등을 붙입니다.  형용사 pared-down 은 꼭 필요한 것만 놔두고 나머지는 줄였다는 의미를 갖고 있는데요, ‘절감된, 긴축한, 군더더기 없는, 간결한’ 정도로 해석합니다.
@@ -4861,6 +4904,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 잡아당겨서 (pull) 부분을 떼어내는 (apart) 느낌의 단어입니다. 특히나 음식을 떼어줄 때 많이 쓰는 표현이고, 사람들이 싸워 뒤엉켜 있을 때 떼어놓는 것도 의미해요.
 	* 그 둘은 교실에서 싸우는 중이어서 우리가 떼어내야만 했어. ex) The two were fighting in class and we had to pull them apart.
 
+## pile
+* 사무원이 서류들을 더미로 쌓고 있따; a clerk is putting some papers into a pile
+
 ## pitch
 * 그의 장래에 대한 추측이 극에 달해 있었다[그의 장래를 두고 온갖 추측이 난무하고 있었다]. Speculation about his future had reached fever pitch. 
 * pitch는 제품을 판매하거나 투자를 받는 등 설득하기 위한 발표, 멘트, 혹은 유사 행위를 뜻해요. 영업원이 판촉할 때는 sales pitch를 하고 기업이 투자자한테 투자 받기 위해서 찾아가 사업계획을 설명하는 것도 pitch라고 합니다. 여기서는 투자를 받기 위해 각자의 앱 아이디어를 소개한다는 뜻으로 pitch라고 했답니다. 한국어로 번역할 만한 말이 마땅치 않아 비즈니스 업계에서는 '피치'라고 많이들 한답니다. 명사도 pitch, 동사도 pitch입니다.
@@ -5037,6 +5083,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 유기견 보고소; We got this at the pound
 
 ## pour
+* 유리관에 액체를 붓고 있따; be pouring liquid into a glass
 * 그의 변호사들이 그 계약서의 작은 글자들을 세세히 읽고 있다.; His lawyers are poring over the small print in the contract.  <> pour over
 * : 직역하면 [~에게] '마음을 쏟다' 인데, 속뜻은 마음속 깊은 곳의 걱정, 생각, 감정, 고민거리 등을 '털어놓다' 예요! 특히 베네딕트처럼 정신없이 쏟아낼 때를 말해요.
   * 방금 동생/언니/누나한테 마음을 다 털어놓고 내 두려움/걱정을 거의 다 말해버렸어. [ex] I just poured my heart out to my sister and told her pretty much all of my fears.
@@ -5553,11 +5600,15 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 숨막히는 회사 때문에 죽겠어. 가서 달리자! This stuffy office is killing me. Let's go rage!
 
 ## race
+* # racey; 짜릿한
 * race는 '경주하다'라는 뜻 외에 '빠르게 이동하다'라는 뜻도 있어요.
   * 남성은 거리를 따라 빠르게 달려갔다. The man raced down the street.
 * 2. race는 인종, (동식물의) 품종을 의미하는 것 외에 경기, 경주, 특히 여기서 같은 경우 '경쟁'에 가까운 의미로 사용되었죠~ 정권을 잡거나 무언가를 쟁취하기 위한 '경쟁'으로도 많이 접할 수 있습니다.  근본적으로는 같은 의미지만 presidential race (대권 경쟁)은 presidential election (대통령 선거)보다는 좀 더 대결 구도와 치열함에 강세가 들어간 표현이죠. 자주 쓰이는 사회과학적 용어에도 등장합니다.
   * - rat race: 극심한 생존 경쟁
   * - arms race: 군비 경쟁 (냉전 시대 때 대두한 용어로 미국과 소련이 군 장비에 천문학적인 비용을 쓰며 서로의 힘을 과시했었죠)
+
+## raunchy
+* 선정적인
 
 ## rap
 * rap은 다양한 의미가 있지만 여기서는 '(부정적인) 평가, 명성'이라는 뜻으로 사용했어요. reputation(명성)의 슬랭이랍니다.
@@ -5629,6 +5680,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 2) Just a reminder 라는 표현 자체가 자주 쓰인답니다. 상대방이 잊어버릴 수도 있을법한 것을 다시 알려줄 때 쓰는 표현인데요. [잊지 마] 또는 [혹시나 해서 알려주는데] 정도의 의미를 갖습니다. 3) 또한 reminder 는 독촉장, 무언가를 알려주는 메모, 노트, 편지 등을 의미하기도 합니다.
   * 혹시나해서 빨리 알려줄께. 오늘 학교에서 3시에 샘 데리고 와야 하는 거 알지? ex) Just a quick reminder. You will need to pick up Sam from his school at 3 o'clock.
 
+## reflect
+* 보통 여러분쪽으로 반사되잖아요; it usually kind of reclects back towards you guys
+* 산이 호수에 비치고 있따; the mountains are reflected in the lake
+
 ## relate
 * 너희들 가족 관계니? ex) Are you guys related?
 
@@ -5664,6 +5719,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 쟤가 하는 말에 너무 의미를 두지 마. Don't read too much into what she says.
 
 ## reach
+* 점원이 금전 등록기에 손을 뻗고 있다; A clerk is reaching into a cash register
 * = 이 제품은 6세 이하의 아이들 손이 닿지 않는 곳에 두세요. Keep this out of reach of children under 6.
 * reach out to someone은 크게 두 가지 뜻이 있어요.
 	* 1. 사람이나 단체에 연락을 취하다 (특히 도움을 요청하거나, 참여를 촉구하기 위해) 
@@ -5700,6 +5756,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 속이 다 비칠 정도로 얇은 나일론 sheer nylon 
 * 얼마나 얇게 발리는지 보이시죠; How sheer it is on my skin
 
+## shuttle
+* run a shuttle service; 셔틀 서비스를 준비시키다: arrange for a shuttle bus
+
 ## shift
 * = 저는 8시간 교대 근무를 해요. I work on eight-hour shift.
   * = 내일 나 대신 근무해 줄 수 있어? Can you cover my shift tomorrow?
@@ -5717,6 +5776,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 네가 날 아빠한테 일러바친거라고 생각했어. ex) I thought you snitched on me to my dad.
 
 ## sneak
+* 미국으로 밀입국 하려고 했다고? sneak across the border; he was sneaking across borders
 * sneak a taste = 몰래 맛보다; sneak 이라는 동사 자체가 무언가를 [몰래 하다]의 의미를 가집니다. 특히 어떤 장소에서 몰래 나가고 들어가고 할 때 sneak in, sneak out, sneak away 등으로 표현을 많이 하는데요. 영상에서처럼 뒤에 목적어를 쓰게 될 경우엔 그 목적어를 허락 없이 몰래 하거나 몰래 가져가는 걸 의미합니다. 
   * = 아빠가 돌아오실 때까지 몰래 맛보면 안 돼. Don't sneak a taste until daddy comes back.
 * 언니 일기장을 몰래 봤다. [ex] I sneaked a look at my sister's diary.
@@ -5901,6 +5961,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## sauce
 * 소스가 많은; i like saucy and creamy pasta
   * 야한 잡지를 발ㄹ겼했따; found a saucy magazine
+
+### saucy
+* saucy: 짓궃은
 
 ## sake
 * for God's sake와 같은 뜻입니다.; Peter 가 성경에서 베드로이며 God's 대신에 Pete's 쓰이기도 합니다 ^^
@@ -6601,6 +6664,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 	* 진정한 미는 외모 이상의 것입니다. ex) True beauty is more than skin deep.
 * 허울 뿐인; be only skin deep; 피부가 깊어봤자 얼마나 깊을까
 
+## source
+* 나는 내 소스가 있지; i have my sources
+
 ## south
 * [ 숙어 ] go/head south (비격식) 1. 사라지다, 숨다
   * 가족 모두가 사라졌다. 우린 어디서도 그들을 찾지 못했다. [ex] The whole family members went south. We couldn't find them anywhere. 1. 사라지다, 숨다
@@ -6648,6 +6714,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 
 ## step
+* 기차에서 내리고 있따; the women are stepping down from the train
 * : ~를 대신해 나서다, ~의 대타를 뛰다; 업무, 일 등과 같은 일을 남을 대신해 나서는 것을 뜻합니다. 〔step in for+사람〕으로 표현합니다.
   * 어제 내가 런던으로 급히 가봐야 해서 데이비드가 나 대신 업무를 맡아주었다. David stepped in for me last night as I had to fly to London urgently.
 * step on one’s toes = 화나게 하다, 감정을 상하게 하다
@@ -7004,6 +7071,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## trump
 * 카드게임에서 trump 를 ‘으뜸패’라고 하죠. trump 는 동사로도 쓰이는데요, 다른 어떤 것보다 항상 좋다, 우수하다는 의미입니다. 가장 좋은 것이 주어가 됩니다.
   * 돈이면 다 된다. (돈이 모든 것을 이기기 때문에)  Money trumps everything.
+* 누명을 씌우다; trump up
 
 ## thrive
 * 보통 동식물이 (무럭무럭) 자라나다, 상업이 번창하다, 잘된다고 할 때 사용되는 thrive가 thrive on OO에서처럼 사용되면
@@ -7379,6 +7447,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * umbrella : 상부/상위, 보호; 우산이 우리를 위에서 덮고 있듯이, 하부 개념들을 덮고 있는 상부 개념의 무언가를 umbrella 라고 합니다. 또는 우리를 비로부터 보호하듯 [보호] 라는 의미로도 쓰여요.  따라서 under the umbrella 라는 의미는
   * 저희 조직은 IOC 산하에 있습니다. ex) Our organization is under the umbrella of IOC.
 
+## unfold
+* 여자들이 침대보들을 펼치고 있따; The women are unfolding some bed sheets
+
 ## undo
 * 옷이나 매듭 등 잠겨있는 것을 푸는 것을 undo라고 합니다. 동사 변화는 undo-undid-undone 입니다.
   * 여기 단추 좀 풀어줄래? 내 손이 더러워서. Will you undo my buttons here? My hands are dirty.
@@ -7429,6 +7500,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## wave
 * 아버지와 의기투합하여 제이콥은 그 일을 해결키로 했다. Jacob decided to take on the issue on the same wavelength as his dad. 
 * 어떤 말썽도 안 일으킬게; i will not make any waves this time
+* 물가에 파도 치고 있따; waves are crashing on the shore
 
 
 ## way
