@@ -686,6 +686,7 @@
   * 그들은 둘러 앉아 잡담을 즐기고 있는 중이었다.  They were sitting around enjoying a bull session. 
 
 ## bullet
+* 핵심만 말해줘; Give me the bullet points
 * 만화 캐릭터들이 긴장했을 때 흘리는 땀방울, 총알처럼 생겼다고 생각해본 적 있나요? 이렇게 총알(bullets)같은 땀을 흘릴(sweat)것만 같은, 긴장하고 두려운, 식은땀 나는 상태를 'sweat bullets'라고 한답니다. sweat bullets : 겁나다/진땀 빼다/긴장하다
   * 나 오늘 너무 떨려. I am sweating bullets today. 
 
@@ -1373,6 +1374,7 @@
   * 대부분의 영업직원들은 판매 수수료를 받고 일한다. Most sales people work on commission.
 
 ## commit
+* 복무가 12개월 후에 끝나요; My commitment's up in 12 months
 * : 잘못된 일을 '저지르다' 라는 뜻 외에도, '헌신하다, 전념하다' 라는 뜻이 있답니다! 그래서 committed 도 '헌신적인, 모든 열정을 쏟는, 전념하는' 이라는 뜻이 되죠. 비슷하게 commitment 도 '헌신, 전념' 이라는 뜻!
   * 그 사람은 헌신적인 기독교인이야. He's a committed Christian.
 
@@ -1499,9 +1501,14 @@
 * #뛰어난; ~ is #off the charts
 
 ## charm
+* 삼 세번의 행운; Third time is a charm
 * ‘매력’으로 잘 알고 계실텐데요, 영상에 나오는 것처럼 악세서리 장식물이나 상징물, 부적 등도 charm 이라고 합니다. 
 	* 이건 내 행운의 부적이야. 내 할머니가 주셨어.  This is my lucky charm. My grandma gave it to me.
 * charm = 장식물, 부적
+
+## cool
+* 쿨한척하다; to play it cool
+
 
 ## coop
 * coop 은 '닭장 / 동물 우리' 를 의미하는 단어인데요. 마치 닭장에서 닭이 떠나가듯이 도망치는 모습을 연상하시면 되는 비격식 표현입니다. move on 은 진행되는 일이 '넘어가다, 계속하다' 의 의미를 갖는데요. 영상에서는 '계속해서 성장하다' 의 의미를 가집니다.
@@ -1575,6 +1582,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 외상으로 살 수 있을까요? Can I buy it on credit?
 
 ## creep
+* 또라이들로 갇ㄱ 차잇죠; filled with creeps
 * 소오름 ㅎㅎ 돋게 하는 걸 creep out 이라고 해요. creep 이라는 단어는 [살살 기다] 라는 뜻이 있는데요. 벌레가 피부 위에서 살살 기어다니면 오싹하고, 소름 돋는 느낌이 들잖아요? 그런 모습에서 비격식 표현으로 쓰이는 단어이고요. 형용사인 creepy [소름 돋는 굉장히 많이 쓰이기 때문에 함께 알아두세요~
   * 그 남자의 모습이 방 안에 있던 모든 사람들을 소름 돋게 했다. ex) The guy's look crept out everyone in the room.
 * 동사 creep 은 [살금살금 움직이다/기어가다] 라는 뜻이 있는데요. 뒤에 up 이 붙으면 기어가듯 [서서히 오르다] 라는 의미를 가지게 됩니다. 영상에서는 [서서히 오르는 잠재의식 입니다] 정도로 직역이 돼요.
@@ -1849,6 +1857,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## dry
 * # 막막; high and dry는 어려운 상황, 막막한 상황을 뜻합니다. 보통 leave someone high and dry라고 표현하여 ‘어떤 도움도 없이 혼자 남겨두다’라고 표현합니다.
     * 모두들 나를 혼자 힘든 상황에 내버려 두었지. Everyone just left me high and dry. 
+*  입 닥쳐. Dry up.
+
 
 ## desing
 * 고의로; by design
@@ -1951,6 +1961,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## dump
 * 여기는 쓰레기야; the place is a dump
+* 땅이 꺼질듯이 우울해; i'm just down in the dumps
+
 
 ### dump on
 * 네가 하기 싫은 잡일마다 나한테 떠넘기는 건 너무해. [ex] It's not cool to dump every chore you don't want to do on me. 1. ~에게 떠넘기다, 떠맡기다
@@ -2119,6 +2131,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * #adrift, #afloat, #unmoored - 표류하는 
 
 ## drain
+* 진빠지는 일이에요; it's really draining
 * 명사로 쓰이면 [배수관] 이라는 뜻이 있듯이, 무언가가 쑥 빠져나가듯이 소모시키는 것을 의미합니다. 영상에선 away 와 함께 써서 소모시켜 [없애다] 라는 의미를 강조해 주었는데요. 직역하면 [당신은 의지력을 소모 시켜 없애는 중입니다] = [의지력이 소모 된다] 로 해석이 되었습니다.
   * 그 회사는 재정 자원을 다 써버린 것처럼 보입니다. ex) It seems that the company has drained its financial resources.
   * : 관용구로, 배수구(drain)로 흘려버리듯 '낭비된, 허비된' 이라는 뜻! 예시를 보며 익혀보세요.
@@ -2293,6 +2306,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
  * ##freeloader
  * I have free time (a xxx)
  * #free ticket을                 'day pass/ticket’
+
+## faff
+* 농땡이 부리지마; stop faffing;
+* 주말 내내 집에서 쉬었어; I just faffed around
 
 ## fat
 * chew the fat, 직역하면 지방을 씹다인데요, 편한 주제로 오래동안 잡담하고, 수다떠는 것을 말해요. chew the rag 이라고도 합니다.
@@ -2606,6 +2623,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## flame
 * old flame : 직역하면 '오래된 불씨'로, '옛 애인'을 말하는 관용어예요!
   * 오늘 옛 애인이랑 마주쳤어. 오늘 옛 애인이랑 마주쳤어.
+
+## flake
+* 약속을 파토낼 줄 알았어요; she was going to flake out on us
+
 
 ## flak
 * 'flak'은 원래 비행기를 격추시키는 '대공포'인데요, 비유적으로 '맹비난, 공격'을 의미한답니다. 대공포를 맞는다고 직역되는 'get/take/catch (the) flak'은, 따라서 '격렬한 비난/공격, 혹평을 받다'가 되겠죠?
@@ -3707,6 +3728,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 뒷 자리에 물건 좀 치울게; Let me get htat junk out of the back seat
 
 ## judge
+* 나 비난하는거 아니야; i'm not judging
 * : 누군가가 어떤 일에 옳고 그름 등을 잘(못) 판단하다 [ 숙어 ] be a good(bad) judge of something 여기서는 good의 비교급 better가 사용되었어요~ 그건 당신보단 내가 더 잘 안다는 뜻이죠. good, bad 외에 excellent, poor처럼 다른 형용사들이 들어갈 수도 있답니다.
   * 나는 사람들이 정직한지 안 한지를 잘 파악하지. I'm a good judge of people's honesty.
 
@@ -3894,6 +3916,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## low
 * on the low는 '비밀로 하는'이라는 뜻입니다. 'keep something on the (down) low'와 같은 형식에서 흔하게 접할 수 있는데요, '무엇을 비밀로 하다'라는 의미를 갖습니다.
   * 아무한테도 말하지 말고, 비밀로 해. Don't tell anyone, keep it on the low.
+* 침대에서 조용히 쉬고있어; she is laying low today
+
 
 ## lodge
 * lodge는 동사로 ‘머무르게 하다’라는 뜻이 있습니다. dislodge는 이와 반대이기 때문에 어떤 장소에서 몰아내다, 축출하다라는 뜻이 됩니다. 독재자들이 핵무기를 갖는 이유가 그들의 자리를 보존하기 위해서, 즉 쫓겨나지 않기 위해서(never be dislodged)라고 빌 클린턴은 설명하고 있습니다.
@@ -4025,6 +4049,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 난 내 남친을 위해 요리하는 걸 좋아해. 왜냐면 내가 무엇을 요리하든지 깨끗이 비우거든. I enjoy cooking for my boyfriend because he licks the dish clean no matter what I cook.
 
 ## lid
+* 억제하다; want to put a lid on immigration
 * 뚜껑을 제거하고 있따; be removing the lid
 * 뚜껑 닫아 놓고 칠까, 열고 칠까? DO we hit it with the lid on it, or do we hit it with the lid off?
 
@@ -4427,6 +4452,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 당신의 회사를 넷플릭스 당하게 만들지 마세요. 시장 변화에 빠르게 대응해야 합니다. Don’t let your company get Netflixed. You should quickly react to market changes.
 
 ## nerve
+* 네가 신경 거슬렸잖아; you struck a nerve
 * ※ There is a lot of nerves. / There are a lot of nerves. 회화에서는 둘 다 옳은 것으로 사용됩니다.
   * 긴장이 많이 되서 어떨 때는 내 심장이 심하게 뛰는 게 들릴 정도야. There are a lot of nerves and sometimes I can hear my heart pounding so hard.
 
@@ -4593,6 +4619,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## office
 * : 'office'를 일반적인 '사무실'이나 '근무처' 말고도 '정권, 공직'을 가리키는 말로 사용하는 경우를 드물지 않게 찾아볼 수 있어요^^ 그런  의미인 경우에는 앞에 a나 the, 소유격이 잘 붙지 않습니다.
 	* 공직에 있은 지/취임한 지 얼마나 됐어? [ex] How long has she been in office?
+
+## owe
+* 해명할 필요 없어; YOu don't owe me an explanation
+
 
 ## own
 * in one's own right: 직역하면 '자신의 정당한 자격으로' 라는 뜻으로 남의 도움 없이 자기 스스로 자격이 있다는 의미의 표현이에요.
@@ -5081,6 +5111,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## pound
 * 유기견 보고소; We got this at the pound
+* 주먹 하이파이브 해줘; Pound it
+
 
 ## pour
 * 유리관에 액체를 붓고 있따; be pouring liquid into a glass
@@ -5390,6 +5422,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 아이들은 얌전히 뜯기에는 너무 신이나서 사탕 봉지를 갈기갈기 찢어버렸다. The kids ripped into the bag of candy, too excited to do it carefully.
 
 ## ring
+* 경찰이 우연히 거대한 마약 조직을 적발했다.; Police have stumbled across a huge drugs ring. 
 * 그가 주모자였어; He was the ringleader
 * 여기서 ring up 은 (가게 계산대에서 구매한 물건의 가격을) '금전 등록기에 입력하다' 라는 뜻이에요. 치즈버거 하나 계산해드릴게요; Let me just ring up a cheese burger
 * hear a bell ring = 떠오르다, 들어본 적이 있다; 2) 영상에서처럼 주어가 사람일 경우엔 hear a bell ring 이라고 쓰겠지만, 예를 들어 사람의 이름이거나 어떤 내용, 어디선가 들어본 무언가가 주어로 올 경우엔 그것이 듣는 사람의 머리에서 벨을 울리게 하는 것이기 때문에 ring a bell 이라고 쓰시면 됩니다.
@@ -5838,6 +5871,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
  * 얽메이지마                   Don't stuck.
  * 이빨에 꼈어                  It's stuck in my teeth
  * 계속 그 생각 나 it stuck in my head
+
+## smooth
+* 그녀가 치마에 생긴 주름을 폈다.; She smoothed the creases out of her skirt. 
+
 
 ## smell
 * 냄새를 딱 맡았죠. "I can smell it on you." 이처럼 '낌새를 맡다, 알아차리다'라는 뜻으로 동사 smell을 쓰기도 해요.
@@ -6591,6 +6628,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * showstopper는 직역하면 '쇼를 멈추는 것'을 의미하는데 어떤 쇼나 연극에서 연주, 연기들이 너무 훌륭해 사람들이 막 환호하고 박수를 치느라 쇼가 멈추게 된다는 의미를 담고 있습니다. 그만큼 훌륭한 명연주, 명연기, 혹은 이목을 끄는 무엇, 누군가를 가리켜 showstopper라고 합니다. 다른 형태의 표현, showstopping은 형용사로서 다른 명사를 꾸며줄 수도 있답니다~
   * 그 곡은 정말 명곡이에요. That number sure is a showstopper.
 
+## shower
+* 친구 많이 사주자; Let's shower her with gifts
+
 ## shoot
 * (특히 잇속을 차리려다가) 자기 무덤을 파다 shoot yourself in the foot 미국식  영국식   단어장추가
 * "금액을 제시해 보세요."  "Shoot me an offer" 여기서 shoot me는 날 쏘라는게 아니고, ‘주다, 건내주다’입니다. 그래서 바꿔 말하면 give me an offer 입니다. 
@@ -6784,8 +6824,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 1) sucker는 낙지, 오징어 등의 ‘빨판’입니다. 혹은 속어로 ‘잘 속는 사람’을 의미합니다. 마치 단물 빨아먹기(suck) 좋은 사람처럼요.
 
 ## spring
+* 갑작스러웠어; it was sprung on me; [sprʌŋ]
 * 여기서 spring은 용수철이 팍 튀기듯이, '갑자기, 예상치 못하게 ~을 하다, ~이 되다'라는 뜻으로 사용되었어요.
   * 켈리 클락슨은 아메리칸 아이돌로 일약 유명해졌다. Kelly Clarkson sprang into fame after American Idol.
+* 갑자기 생각나다; spring to one's mind
+
 
 ## spritz
 * spritz : (물방울 등을) ~에 뿌리다. 많은 양의 물을 뿌리는 것이 아니라, 물줄기를 찍 하고 짧게 쏘거나, 작은 물방울이나 화장품의 미스트, 향수 등을 칙칙 하고 뿌리는 것을 의미합니다.
@@ -7034,6 +7077,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 	* 제가 와인에 대해 좀 일가견이 있죠. I know a thing or two about wine. 
 
 ## trip
+* 신기하지 않아요? Isn't that trippy?
 * take a trip 이라는 표현이 "여행하다"라면 make a trip 이라고 하면 한 곳에서 다른 곳으로 이동을 한다는 더욱 1차원적인 표현으로서 "(어떤 볼일을 위해) 어디에 다녀오다"라는 의미로도 자주 사용됩니다.
 영상에서는 make the trip 라고 관사 the를 쓴 이유는 to get here라고 함으로써 어떤 이동인디에 대해서 구체화시켜주고 있기 때문입니다.
 * 근데 그러면 또 여기가 찾아오는 재미가 없어지잖아
@@ -7232,6 +7276,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 	* 지금 바로 머리속에 생각나는게 없어. [ex] I can't think of anything off the top of my head.
 
 ## tackle
+* 세탁물 아홉 더미를 처리하력고 해요; i'm trying to tackle nine loads of laundry
 * tackle은 보통 축구 경기에서 공을 뺏는 태클로 많이 접하셨을 거예요. 또 다르게는 힘든 문제나 상황과 씨름하다, 또는 그런 문제를 따진다는 의미가 있습니다.
   * 배관 문제 때문에 다섯 시간을 보냈다. I've spent five hours tackling this plumbing problem.
 * 한달에 한개씩 도전해보기로 결정했어요; i'm gonna tackle them month-by-month
@@ -7761,6 +7806,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 현실에서는 그런 것들이 쓸모 없어진다. In real life, such things go out the window.
 
 ## wind
+* 구불구불한 도로에요; it's a windy road
 * 행방이 묘연합니다; he's in the wind
  * 지금은 상처를 물에 닿지 않게 하렴     Keep the wound away from water for now 
  * 벽시계가 느려지더니 결국 멈췄어     The clock wound down and finally stopped 
@@ -7773,6 +7819,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
  * Luckily, the boss still hasn’t gotten wind of it. 다행히 아직 사장님 귀에는 안 들어갔어요
 
 ## wipe
+* 차 지붕에다 코딱지 묻현싸? did you just wipe a booger on my roof?
 * wipe는 무언가를 '닦다, 지우다'는 의미로 익숙하죠? 명사 wipe는 무얼 닦는데 사용하는 천조각을 의미하기도 하는데요, wet wipe는 흔히 우리가 일상적으로 사용하는 물티슈라는 뜻이고, baby wipe(아기 물티슈)도 더불어 자주 쓰는 단어입니다.
 * : (경기 등에서) 를 납작하게 누르다, 완패시키다  [wipe the floor with]
   * 난 너를 5초 안에 납작하게 해줄 수 있어. 난 너를 5초 안에 납작하게 해줄 수 있어.

@@ -403,6 +403,7 @@
  * 나는 파티 초대를 사양해야 했다
 
 # 거짓말
+* 또 거짓말한다; you are lying through your teeth
 *  전판 거짓말이다 t is a downright lie from start to finish 
 * # 시치미 뗴지마                                                       Don’t play dumb with me. = don't you try to lie
 * 악의에 찬 거짓말; a #pernicious lie  [pərˈn-]   [pəˈnɪʃəs] 
@@ -571,6 +572,7 @@
   *  이런 문제들은 주로 잘 풀리곤 해. [ex] These problems usually have a way of working out.
 
 # 경험
+* 이전의 경험으로 알다; know from past[previous] experience 
 * 인생 경험이다; be one for the books
    * : 처음 경험하다, 어떤 분야 혹은 경력에 경험을 쌓기 사작하다 ㅍ원래는 아기의 이가 처음 나는 것을 의미하는데, 이를 비유적으로 위와 같은 의미로 사용합니다.
     * 아버지가 돌아가시고 어른으로서의 경험을 처음하게 되었다. I cut my teeth as a grownup after my father passed away.
@@ -963,6 +965,7 @@
   * 점성술은 유사과학의 일반적인 예이다. ex) Astrology is a typical example of pseudo-science.
 
 # 관계
+* 관계를 끊다; sever one´s connections; break off[sever] diplomatic relations; cut off all relations
 * 우리는 그 회사가 규정에 맞지 않게 행동했기 때문에, 관계를 끊기로 결심했다.     관계를 끊다.
  * We decided to sever ties with the company because they didn't stick to the regulations.
  * #break off from; ~ broke off from ~
@@ -4552,6 +4555,9 @@ retaliate
 * suppose는 ‘생각하다, 추정하다’이란 뜻이기 때문에, supposed라고 하면 ‘추정된, ~라고 생각되는’이란 의미가 됩니다. 마리 앙투아네트가 "Let them eat cake."라고 말했다고 알려져 있긴 하지만 기록으로 남은 완벽한 사실은 아니기 때문에 영상에서는 “그렇게 말했다고 추정되는 답변”인 supposed response라고 말한 것입니다. 
   * 추정컨데, 그녀가 그것을 혼자서 했었을 수도 있어.  Supposedly, she might have done it alone herself. 
 
+# 생산
+* 대량 생산되었다; be mass-produced
+
 # 생생
 * 그는 전투기 조종사로서 보낸 자기 삶에 대해 생생한 이야기를 들려주었다.
   * He gave a vivid account of his life as a fighter pilot.
@@ -5069,6 +5075,7 @@ retaliate
  * # 히터 # 건조 # 가습기 # 습기
 
 # 시골
+* 시골길을 이용할거에요; we will be taking the back roads to get there
 * 그것은 기분 좋은 시골 풍경이었다.              scene 풍경
              dɪ'laɪtfl It was a delightful rural scene.
   * 머리 없는 유령이 말을 타고 그 시골길에 나타난다. A headless rider haunts the country lanes.
@@ -5531,6 +5538,7 @@ retaliate
  *  cut out for 2번째:           cut out for the gate: 내달리다
  * ‘그 모자 나한테 안 맞아              The cap doesn't fit me
 * # 티나? Can you tell?
+  * * 진짜 화난거 티나요; she's really angry and it shows; don't let it show
   * 그렇죠. 그게 보여? 결국, 그게 티나?         It shows? Is that so obvious?
   * 외로운거 티나?                 do I give off lonely
   * 티나 it #shows = everything shows = it's too obvious = you can't hide it
@@ -5961,6 +5969,7 @@ retaliate
   * 한번 해보죠 뭐(모험 삼아, 운에 맡기고) I will roll the dice
   * #운도 없구나; #tough luck
   * 순전히 운이 좋아 맞추다; if you guess by pure luck / pure chance / pure coincidence
+  * 삼 세번의 행운; Third time is a charm
 * #fluke; 요행, 운, 행운, 우연, luck of the draw(#draw; #제비 뽑기)
   * # 점#을 치다; I had my #fortune told
   * # 손금을 보았다; I had my palm read
@@ -6892,6 +6901,7 @@ retaliate
    * You gotta #weigh up all the pros and cons before you make a decision.
    * 제 #강점 중 하나는 #압박감 속에서도 일을 잘해낼 수 있다는 것입니다. 
    * One of my strengths is that I can perform well under pressure.
+   * 제 장점들에 대해서 말해주세요; tell tem about my good qualities
    * 장점이 뭐라고 생각하세요? what do you consider your #best quality?
    * 이게 당신에게 이런 이점이 있어요.       Here's what this means for you 
    * # 묘미; 직역하면 '이것이 그것의 아름다움이다'로, the beauty of~는 '그런 점이 묘미다, 좋은 점이다, 그 맛에 하는 거다'등의 뉘앙스를 가져요. 
@@ -7341,6 +7351,7 @@ retaliate
   * 무릎 반사, (비유) 뻔한[예상대로의] 반응 an instinctive[knee-jerk] reaction 미국식  영국식   단어장추가
 
 # 존경
+* 존경받는 동료입니다; i am her esteemed colleague
 * look up to = #respect = #admire
  * give props = proper respect/ proper recognition
  * #triute to someone
@@ -8737,6 +8748,7 @@ retaliate
                                 
 
 # 한계
+* 모든 사람은 버틸 수 있는 한계가 있따; every man has his breaking point
 * 그는 끊임없이 TV 코미디의 한계를 초월하는 연예인이다. e is a performer who consistently pushes the envelope of TV comedy. 
   * 이제 한계야; i've just about reached my limit
   * 게임을 이기려는 캐롤의 갈망은 끝이 없다. Carol’s desire to win games knows no bounds.  : 끝이 없다, 한계가 없다: [know no bounds]

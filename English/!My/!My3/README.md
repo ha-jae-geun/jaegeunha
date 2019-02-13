@@ -398,7 +398,7 @@
 * 나한테 작업거는 거에요? are you flirting with me?
 * 너무 부담스러워요; too demanding
 * 더 특별한 사람 만날 자격이 있어; you deserve someone better and special
-* 다시 기운 차릴게 도와줄게ㅔ; we'll help you get back on your feet
+* 다시 기운 차릴게 도와줄게; we'll help you get back on your feet
 * 대학교 수업계획서; graduate syllabus 
 * 언제 데이트할래? you wanna go out sometime
 * 만나고 있는 사람 있어? are you seeing anyone?
@@ -1239,7 +1239,7 @@ sticky situation.
 * 내 힘으론 역부족이야; It's too big of a job for me
 * 정치적으로 순진해 빠졌다[모자라다]; to be politically naive; [naɪˈiːv] 
 * 내 경험상; From my experience
-* 예상밖이네요; that's random
+* 예상 밖이네요; that's random
 * 감금; the lock-up
 * 모든 사람은 버틸 수 있는 한계가 있따; every man has his breaking point
 * 작은 친구야; ittle halfling
