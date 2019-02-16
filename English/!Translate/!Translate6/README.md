@@ -1,3 +1,77 @@
+# 영어 연습가이드 #004 - (어디에서) 메일이 왔어 / 연락을 안하고 지냈었어 / 통화를 몇 번했어 / 자주 연락하고 있어
+* "1주일 전쯤에 예전에 알고 지냈던 친구한테서 메일이 하나 왔어요.  
+  * About a week ago, i got an email from an old friend
+* 몇 년 연락을 안하고 지냈었는데 서로 전화번호를 주고 받고 통화도 몇 번 했고요 
+  * We hadn't been in touch for a couple of years
+  * 현대까지 연락을 안했으면; we haven't been in touch
+  * 서로 라는 말은 영어에서 'we' 안에 내포
+* 문자로 꽤 자주 연락을 주고 받고 있어요."
+  * we exchanged phone numbers and we spoke(talked) on the phone a couple of times and we've been texting quite frequently
+- about a week ago : 1주일 전쯤에
+- get an email from .. : 누구로부터 이메일이 오다
+- get a call from .. : 누구로부터 전화가 오다
+- get a text from .. : 누구로부터 문자가 오다
+- "We haven't been in touch for a couple of years."
+(몇 년째 연락을 안하고 있어)
+- "We hadn't been in touch for a couple of years."
+(몇 년째 연락을 안하고 있었어)
+- exchange .. : 무엇을 주고 받다
+- talk/speak on the phone : 통화를 하다
+
+
+# 영어 연습가이드 #42 - PART 3 [ 하드코어 ] - 추가예문으로 응용연습
+ * "저희 아버지가 지금 일을 그만두고 다른 직종으로 전환한다고 하신지 이제 거의 2년이 되어가요. 
+  * For almost 2 years no,w my fater has been talking about leaving his job and pursuing a different career
+ * 지금 위치까지 오시기 위해 공을 많이 들인 것은 사실이에요, 
+  * It's true, he has put in a lot of effort to get to where he is now
+ * 그래서 큰 결정이고 위험부담이 없는 것도 아니에요.  
+  * SO it's a huge decision and it's certianly not without its risks
+ * 게다가 어머니가 자꾸 그런 얘기를 하세요, 그 것이 우리한테 미칠 영향도 생각하셔야 된다고요. 
+  * And my mother keeps saying that he needs to think about how it could affect us
+ * 물론 그것도 중요하죠.  
+  * ANd ture that's important, too
+ * 근데 아버지가 우리를 위해서 평생 희생해야 된다고 누가 그래요?  
+  * But then, who says that we deserve his endless sacrifice?
+  * who says: 정해 놓은 것이 없다
+ * (아니,) 가족을 먹여 살려야 하는 책임이 있긴 하지만, 지금까지 이미 충분히 하셨고 이제는 위험하더라도 다른 것을 해볼 자격이 있으시다고 생각해요. 
+  * I mean, as much as he's responsible for providing for the family, i think he has done mor than enough all these years, and he deserves to take a chance at soomething different
+  * has done more than enough: 충분히 했다. 
+ * 그리고 비록 일이 잘 풀리지 않을 수도 있어도 가족이 그것을 지지할 준비가 돼 있어야 해요.
+  * And even though things might not go well the rest of the family should be willing to support that
+  * things might not go well; 일이 잘 풀리지 않을 수도 있다.
+  * should be willing to: - 할 의지가 있어야 한다.
+ * 우리가 최소한 그 정도는 해드려야 한다고 봐요."
+  * i think that's the least we can do
+
+# 영어 연습가이드 #42 (PART 2) [ 하드코어 ] - "Working From Home"
+* "제가 재택근무를 이제 1년도 훨씬 넘게 하고 있는데요 비록 제가 오랫동안 원하던 것이었지만 힘든 점이 물론 없지는 않아요. 
+  *  I've been working from home for well over a year now and although it's something that I'd been wanting to do for a long time, it's certainly not without its challenges. 
+  * i'd been wanting to -: 오랫동안 - 하고싶었따.
+  * It's certainly without + 단점/challenge; 강점도 나오긴 하지만 일반적으로 단점
+* 제 마음대로 스케쥴을 짤 수 있다는 것은 사실이에요,  
+  * It's true, I can be as flexible as I want with my schedule but as great as that sounds, 
+  * It's true; 상대방이 할 만한 생각을 인정하면서 말하는 화법
+* 근데 그게 엄청 좋을 것 같지만 일을 규칙적으로 하기 위한 통제력을 유지하는 것이 엄청 스트레스가 되기도 해요.  
+  * it can get extremely stressful to maintain the discipline that it takes to make sure that I'm working regularly. 
+  * it can get; 항사 그렇다는 게 아니라 그렇게 될 수도 있다
+  * take: 필요하다; cost와 비슷한 느낌
+* 제 친구들은 제가 집에서 일을 할 수 있어서 엄청 편리하겠다고 말을 하는데, 물론 편리하죠,
+  * My friends tell me that it must be really convenient to be able to work in my own home and sure it's convenient, 
+* 근데 평소에 일과 개인생활을 구분하려고 항상 어려워하고 있어요. 
+  * but then, I'm constantly struggling to draw the line between work and personal life 
+* 왜냐면, 저는 자는 곳에서 일을 하고 일하는 곳에서 잠을 자는 것이나 다름이 없거든요. 
+  * because I'm practically working where I sleep and sleeping where I work. 
+* 그리고 일을 하는 동시에 개인적으로 볼 일을 보고 있는 경우가 다반사거든요."
+  * And more often than not, I'm trying to take care of personal errands and trying to get work done at the same time.﻿ 
+  * and more often than not: 다반수이다
+- work from home : 재택근무를 하다
+- (do something) for well over a year : 1년 훨씬 넘게 무엇을 하다
+- "It's something that I'd been wanting to do for a long time." : 오랫동안 꼭 하고 싶었던 것이다(이미 하고 난 시점에서)
+- "It's not without its challenges" - 어려운 부분이 없는 것은 아니다
+- be flexible with (something) - (무엇)을 하는 데에 있어 유동적이다/유연하다
+- "As great as that sounds, it can get stressful.." - 좋은 것 같지만 스트레스가 되기도 한다/될 때도 있다
+- draw the line between A and B - A 와 B 를 구분하다 / 사이의 경계를 두다
+
 # 감각동사 - PART 4 - "내가 보기에는 괜찮은데." , "너가 듣기에는 어때?"
 * 내가 보기에는 괜찮아; It looks good/okay to me; THis looks good/okay (to me)
   * 다른 사람 이야기 하다가 나의 이야기를 말할 때; To me, it looks OK/good
@@ -97,7 +171,7 @@
   * make it easire for 사람 to
 * 그 도구와 가이드라인이 내 영어 실력을 높여줄까요? 그것은 전적으로 당신한테 달렸어요! will those tools and guidelines improve my English? that's completely up to you. 
 * 이건 우리한테 안좋은 물건을 파는 회사에 대한 얘기가 아니에요, 지금 그게 중요한 게  아니에요. this is not about companies and businesses trying to tell us bad products, no, it's not about that
-  * be (not) about: 핵심 내용, 요점이 무엇인지에 대한 얘기를 할 때 아주 흔히 쓰이는 표현  
+  * be (not) about: 핵심 내용, 요점이 무엇인지에 대한 얘기를 할 때 아주 흔히 쓰이는 표현 
 * 이건 우리가 이미 잘 알고 있는 사실을 받아들이는 것에 대한 문제에요. 뭔가를 배울 때는, 어떤 것도, 어떤 누구도 우리에게 배워줄 수가 없어요. this is about coming to terms with what we already know that when it comes to learning something, nothing and no one can learn it for us
   * come to terms with: 어떤 상황이나 사실을 받아들이고 그것에 익숙해진다는 의미로 흔히 사용되는 표현
 * 우리 스스로 노력을 들여야 해요. 우리 스스로 고통스러운 배움의 과정을 거쳐야 해요. we have to put in the work, we have to go through the painful process of learning
@@ -554,7 +628,7 @@ This is actually Brodi’s first Winter as an adult.  So he’d never worn a coa
   * SO i just decided to stay home
 
 # 스케줄 맞춰주다;
-* 언제가 ㅈ호은데; What time works best for you?
+* 언제가 좋은데; What time works best for you?
 * 당신 스케줄에 맞출 수 있습니다; I can work around your schedule
 * 당신의 스케줄에 제 스케줄 맞출 수 있어요; i can arrange my schedule around yours
 

@@ -53,6 +53,9 @@ I have a big crush on you / I have a thing for you, i'm into you
 * 우리 소원해졌어; we have grown apart
 * 난 생각할 시간이 필요해 i need space
 * 헤어지다; break up; we're not seeing each other anymore; we're not an item/a couple anymore
+	* 관계가 흐지부지 끝나다; frizzle out
+		* 친구 관계로 돌아가다; we are back in the friend zone
+		* 관계가 무너지기 싲가하다; the relationship started to fall/grow apart
 	* 문자 그대로 보면 관계(relationship)에서 나온 것(get out of)이기 때문에 남녀가 더 이상 만나지 않는, 관계를 맺지 않는다는 뜻입니다. 그리고 long-term(장기의) relationship은 ‘오랫동안 사귄 연인과의 관계’를 지칭합니다. 
 		* 그녀는 드디어 그와의 관계를 끝내고 앞으로 나아갔다.  She finally got out of the relationship with him and moved on.
 	* 헤어졌다 사구이ㅓㅆ다 반복; on and off couple
@@ -524,6 +527,7 @@ I have a big crush on you / I have a thing for you, i'm into you
 	 * #애인 있으세요? 						 Are you in a relationship?
 	 * 1. move on ~주제 2. move on i’m happy that Penny’s moving on(새로운 사람 만나다)
 	 * 데이트 신청하려고, #데이트 중이야 	 I'll ask her out. i'm dating 명사. I’m going out with her.
+	 	* 나랑 데이트 할래? Do you want to go on a date? Would you want to go out with me?; Are you free today at lunch?  Can i take out sometime?
 	 * #shut down; she shut me down
 	 * 그건 데이트로 안쳐 						 That doesn't count as a date.	
 	 * Will you go out with me?, would you go on a date with me?, Can I take you out on a date

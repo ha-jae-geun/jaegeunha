@@ -1,3 +1,290 @@
+# 쓸만한 영어 - 생활속 통역 - 그러다간 크게 다쳐, 침대에서 떨어졌어요 \영어회화\영어공부
+ * - bunk bed
+ *   2층 침대
+ * 
+ * - first floor??? (X)
+ *   second floor??? (X)
+ * 
+ * - upstairs??? (X)
+ *   downstairs??? (X)
+ * 
+ * - the top bunk (O)
+ *   the bottom bunk (O)
+ * 
+ * - sb. is on the top bunk
+ *    sb. is on the bottom bunk
+ * 
+ * - trip over
+ *   ~에 걸려 넘어지다 
+ * 
+ * ▷ 영어식 사고 1.
+ * 
+ *   이불에 걸리면 넘어져.
+ *   이불이 내 발을 감싼 그림
+ *   내 발이 이불에 잡힌 그림
+ * 
+ * - get your feet caught in the blanket
+ *   직역 : 네 벌이 이불에 잡히게 되다?
+ *   의미 : 발이 걸림(내가 원해서 한 게 아님)
+ * 
+ * - trip (over)
+ *   사전의 뜻풀이가 비슷하더라도 
+ *   실제 trip over blanket라고 하면 어색해요.
+ * 
+ * - Be careful not to get your feet caught in the blanket.
+ *   이불에 걸려서 넘어지지 않게 조심해.
+ * ▷ 영어식 사고 2.
+ *    
+ * - 까딱하다간/ 잘못하면 큰일나! (까딱하다간 = 균형을 잃으면 / 큰일나 = 위험해)
+ *   구체적인 문맥의 포인트를 먼저 찾으세요.
+ * 
+ * - If you lose your balance, it's really dangerous.
+ *   균형을 잃으면 위험해.
+ *   까딱하다간/ 잘못하면 큰일나!
+ * 
+ * - dangerous
+ *   [데인져뤄ㅅ]
+ *   [덴져러ㅅ] (X)
+ * 
+ * - 영어식 사고 2.
+ *   까딱하다간/ 잘못하면 큰일나! (까딱하다간 = 떨어지면/ 큰일나 = 후회해)
+ *   구체적인 문맥의 포인트를 먼저 찾으세요.
+ * 
+ * - Once you fall, you'll regret it.
+ *   직역 : 떨어지면 후회할거야.
+ *   의미 : 떨어지면 다쳐.
+ *   안좋은 일이 생겨서 '그러지 말껄..'라고 생각할거야.
+ * 
+ * - Quiz 1. "너 2층에서 떨어지면 팔 부러져."
+ * 
+ *   Answer 1.
+ * 
+ * If you fall from the top bunk, 
+ * 1) off : (팍!) 분리/떨어지는 그림
+ * 2) from : ~에서 시작된(출처/원천/원인)의 그림
+ * 
+ * possibility(가능성)에 대한 내용이 와야함
+ * If you fall from the top bunk, + .. could ..
+ * 너 2층에서 떨어지면 팔 부러져.
+ *                                                            possibility(가능성)
+ * ⇒ If you fall from the top bunk, you could break your arm.
+ *     너 2층에서 떨어지면 팔 부러져.
+ *     조동사의 뜨소가 뉘앙스를 무조건 퍼센티지로 외우지 마세요.
+ * 
+ * ==========
+ * 
+ * 6. 현재 이야기인데 can을 could로 쓸 때
+ * 
+ * - 'can'을 무조건 '~할 수 있다'로 접근하면 
+ *   차이가 안보이지만 중요한 차이가 있음
+ * 
+ * - 현재 이야기이니 can을 써도 문법적으로 문제가 없어보이지만
+ *   내용이 완전히 달라집니다.
+ * 
+ * - 물론 'can'으로 해도 말은 돼요~
+ * 
+ * - 미드/ 영화를 볼 때,
+ *   원어민들이 조동사를 말하는 순간을 눈여겨 보는 습관을 들이세요.
+ * 
+ * - can → ability(능력)쪽
+ *   현재 이야기인데 can의 과거형
+ *     could → possibility(가능성)쪽
+ * 
+ * - 슈퍼카우는 이미 구조요청을 
+ *   들을 수 있는 능력이 있어요. → can
+ *  
+ *   그런 능력이 있어도
+ *   누군가 구조를 요청하는 것을
+ *   들을 가능성도 있다는 뜻이기 때문에 → could
+ * 
+ * ==========
+ * 
+ * 큰일나! = 심각한 문제가 생길 수 있다 / 능력이 아닌 가능성
+ * 
+ * If you fall from the top bunk, you could have a serious problem.
+ *   직역 : (침대)2층에서 떨어지면 심각한 문제를 갖을 수 있어.
+ *   의미 : 2층에서 떨어지면 큰일나.
+ * 
+ * If you fall from the top bunk, you could have a serious(/real) problem.
+ *   2층에서 떨어지면 진짜 골치아파져.
+ *   real problem : 진짜 문제 < 문제같은 문제 < 골치아픈 일
+ * 
+ * 
+ * ▷ 영어식 사고 3.
+ * 
+ *   구체적인 상황의 포인트를 담으세요. 
+ * - 잠깐 기절했다가 바로 깨어났어요.
+ *   떨어진 충격으로 정신을 잃은 그림
+ *   Knock Out 됐어..
+ * 
+ * - He was knocked out for (about) a minute.
+ *   (얘/걔)가 잠깐 정신을 잃었어요.
+ *   충격을 받고 정신을 잃은 그림
+ * 
+ * - sb. came to (정신이 돌아온 상태)
+ *   잠깐 기절했다가 바로 깨어났어요/정신을 차렸어요.
+ *   의식이 돌아온 그림
+ * 
+ * - He was knocked out for about a minute and he came to. 
+ *   잠깐 정신을 잃었다가 깨어났어요.
+ * 
+ * - 의식이 있게 되었다??
+ *   = became consious?? (X)
+ * 
+ * - regain cosciousness
+ *   잃은 의식을 다시 되찾아 온 그림
+ * 
+ * - regain consciousness quickly  [ˈkɑːn-]  영국식 [ˈkɒnʃəsnəs] 
+ *   바로(빨리) 정신을 차렸어요.
+ * 
+ * - He regained his(X) consciousness quickly
+ *   (아들)아이가 바로 의식이 돌아왔어요.
+ *   '그의 의식'라고해서 his(소유격)을 쓰지 않음
+ * 
+ * ▷ 영어식 사고 4.
+ *     
+ * - 검사했어요. / 검사받았어요.
+ *   무조건 examine ???
+ * 
+ * - TEST
+ *   (전문적인) 검사/검진
+ * 
+ * - examine의 예
+ *   lab에서 전문 분석/조사가 필요없음
+ *   따라서 의사입장에서 examin라고 하는 것이 적절
+ * 
+ * go through different tests
+ *  환자입장에서 여러 검사 절차를 걸쳐 받았다면
+ *  하나 하나 거쳐서 뚫고가는 그림
+ * 
+ * sb. is given different tests
+ *  환자입장에서는 검사를 받는 쪽이기 때문에
+ * 
+ * - My son was given different tests.
+ *   우리 애(아들)는 여러가지 (종류가 다른) 검사를 받았어요.
+ * 
+ * - My son went through different tests.
+ *   우리 애(아들)는 여러가지 (다른 종류의) 검사를 받았어요.
+ * 
+ * - 잘 알지만 실수하기 쉬운 영어
+ *   1) 엑스레이를 찍다 = an X-ray
+ *   2) CT를 찍다
+ *       예) CT 찍었어.
+ *             CT라고 글로 쓸 때는 괜찮지만 
+ *             말로 할 때는 풀어서 CAT scan라고 함.
+ *             Computerized Axial Tomographic SCAN
+ *               이런 약자 영어를 풀어서 외우지마세요^^
+ *   3) MRI를 찍다
+ *   
+ * 
+ * - He got an X-ray.
+ *   (환자 'He'를 주어로) 엑스레이 찍었어요.
+ * 
+ * - His doctor gave him an X-ray.
+ *   (의사 'He'를 주어로) 엑스레이 찍었어요.
+ * 
+ *  ▷ 영어식 사고 5. 
+ *      
+ * - 또 다른 검사를 더 받아야하나요?
+ *   또 = again?? / 다른 = different?? / 더 = more???
+ * 
+ * - Does he need to get other tests?
+ *   different는 서로 다른 차이의 그림
+ *   other은 현재의 것을 뺀 나머지 다른 것들의 그림
+ *    따라서 '더'에 해당하는 more도 붙일 필요가 없음
+ * 
+ * ▷ 영어식 사고 6.
+ *   
+ * - 결과는 괜찮은데 좀 더 지켜봐야한대요.
+ *   The doctor said, "Everything was fine."
+ *   "결과는 괜찮다"고 했어요.
+ * 
+ * - The doctor said, "The results of the tests were fine."
+ *   "결과는 괜찮다"고 했어요.
+ * 
+ * - The doctor said, "The results of the tests looked fine."
+ *   "결과는 괜찮다"고 했어요.
+ * 
+ * - The doctor said, "The results of the tests looked normal."
+ *   "결과는 정상이다"라고 했어요.
+ * 
+ * - It still remains to be seen 
+ *   [그 상태가 여전히 계속 남아(유지된)있는 그림] + [(내 의지로 보는게 아닌) 보여지게 되는 그림]
+ *   그래도 좀 지켜봐야한다고 했어요.
+ * 
+ * - It still remains to be seen if(/whether) he will have problems later.
+ *   그래도 좀 (아이가 나중에 문제가 생기는지) 지켜봐야한다고 했어요.
+ * 
+ * - It still remains to be seen whether he will have problems in the future.
+ *   그래도 좀 (아이가 추후에 문제가 생기는지) 지켜봐야한다고 했어요.
+ * 
+ * - The doctor said that the results of the tests were fine.
+ *   But it still remains to be seen whether he will have problems later.﻿
+
+# 쓸만한 영어 - 내가 태워다 줄게, 나좀 데려다 줄래?, 나좀 공항까지 데려다줄수 있어? 영어표현들/영어회화/영어공부
+ * - Do you want a ride(/ a lift)?
+ *   태워다줄까/(차로)데려다줄까?
+ * 
+ * - Do you want a ride + (목적지) ?
+ *   (목적지)~까지 데려다줄까?
+ * 
+ * - 예시상황 1.
+ *   누군가 공항에 데려다 줄 사람이 필요한지 물을 때
+ *   → Do you need a ride to the airport?
+ *      공항까지 데려다 줄 사람 필요해?
+ *      공항까지 데려다줄까?
+ *      주의하세요
+ *       공항 the airport
+ *       특정 공항의 약자 앞에는 [the]를 붙이지 않음
+ *        예) LA 공항 → LAX (O)
+ *                                  the LAX (X)
+ * 
+ * - Do you need a ride to LAX?
+ *   LAX까지 데려다줄까?
+ * 
+ * the airport를 써서 연습
+ *  "공항까지 데려다줄까?"
+ * 
+ * - Do you need a ride to the airport?
+ *   공항까지 데려다줄까?
+ *  
+ * - (직역) 나를 공항까지 태워다 줄 필요가 있어.
+ *    (의미) 나 좀 공항까지 태워다줘.
+ *   I need a ride to the airport.
+ *   공항까지 좀 태워줘.
+ * 
+ * - 예시상황 2.
+ *   내 아이의 친구들까지 차로 다 태워다 줄 때
+ *   give a ride와 비슷한 말이지만 더 간단하고 유용한 다른 표현
+ *   → drive
+ *       drive + 태워다주는 대상(목적어)
+ * 
+ * - I can drive you to work.
+ *   내가 너 회사까지 태워다 줄 수 있어.
+ * 
+ * **꼭 알아두세요!**
+ * 한국어로 "너(희) 회사에 태워다줄게."라고해서 
+ * I can drive you to your work.라고 하지 않음. (X)
+ * 
+ * - 틀리기 쉬운 예시
+ *   내가 매일 아침마다 회사에 태워다 줄 수 있어.
+ *   매일 아침마다 : every morning
+ *     태워다 줄 : give you a ride
+ *     같이 쓸 수 있다? 없다?
+ *     → 같이 쓸 수 없음 (X) 
+ *   태워다 줄 : give you a ride (O)
+ *   일회성 의미를 담고있는 "a"ride와 every(매번)이 맞지 않음
+ * 
+ * - 예시상황 3.
+ *   (스쿨버스가 오지않아 학교에 전화해서)
+ *   "지금 내가 애들 다 태우고 (학교로)가고 있어요."
+ *   → I'm driving the kids to (the) school.
+ *       지금 내가 애들 다 태우고 가고 있어요.
+ *       the school의 [the]는 꼭 넣을 필요는 없지만 있어도 틀린 것은 아님
+ * 
+ * - I'm driving sb. to + 장소
+ *   (~로/~에) 태워서 가고 있는 중이에요.﻿
+
 # 쓸만한 영어 - 외모 칭찬할 때 쓸만한 영어표현 2 - 피부가 정말 고와요/그 옷 정말 잘 어울려요/어려보여요/영어회화/영어공부
  * - You look great today!
  *   너 오늘 진짜 괜찮다~(멋있다)

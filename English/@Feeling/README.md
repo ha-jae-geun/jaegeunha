@@ -574,6 +574,7 @@
 * 평점심 찾아야해 								I need to get my #zen on
 * 넌 걱정이 많은 사람이야 #worry wart You’re such a worry #wart(사마귀)
 	* 굉장히 걱정하다; be worried sick
+	* 걱정을 누그러뜨랃; assuage;  [əˈsweɪdʒ]  +  걱정: worry, concern; 슬픔: grief, sadness
 	* 고민이 많아요; i have a lot on my mind = i have many worries
 	* 잠도 못자고 걱정하다 i lost sleep over that.; worry a great deal about that
 * #진정제 #sedative(쎄디티브)
@@ -733,6 +734,7 @@
 * ☆#panic #dumbfounded -> #shocked #surprised #speechless be confused
 * 부끄럽다 ^^get #embarrassed | #ashamed 잘 안씀(나쁜 실수를 후회할 때)
 	* #hindsight is 20/20; 후호돼
+	* embrrassed는 뭔가를 잘못해서 쑥스럽고 부끄러운 경우에 shy는 무언가를 하는 것이 부끄러울 때 ashamed는 창피하고 수치스러울 때 humiliated는 더 굴욕적이게 창피할 때 사용하시면 됩니다!!
  * ##regretful; #후회하는; look, goodbye
  * ##regrettable; #유감인; 주로 사물이 주어; regrettable affair
  * 의도치 않은 말을하다, 후회될 말 							 foot in mouth

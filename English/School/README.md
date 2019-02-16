@@ -579,6 +579,7 @@
 * 조금씩 익숙해지고 있어요. 	I'm settling in. 
 * 네, 열정적이세요. 	Yes, he's really passionate. 
 * 좀 도와 주시겠어요?	Could you give me a hand
+* # 복습; * 우리 복습한거야; We were revising
 * 밤늦게까지 불을 밝히다(공부,일 하느라)	‘mɪdnaɪt burn the midnight oil
 	* 공부 잘하다; He stuides well(xx) - He does well in school; He gets good grades
 	* 벼락치기 공부를 하다	mʌg mug something up, crash course

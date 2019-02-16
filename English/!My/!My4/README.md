@@ -621,11 +621,6 @@ you
 * For: 아직 닿지 않은 미래, 과거와 미래의 상관 관계, 대신에, 목적, 누군가를 지지하고 누군가를 위해서 희망 about; 구체적이지 않은 ~에 대하여; 
   on: 구체적인 ~에 대하여
 * Deposit: 보증금 / 계약을 해지하고 반환받는 돈
-* Damage / Damages: 손해 배상금
-* 마스크팩: mask pack > facial mask
-* 핀셋: Pincette > Tweezer
-* 매니큐어; Manicure > Nail polish
-* 물 꿀 > aqua, mel > Water, Honey
 * ~어땠어; ~어때? How was / How is
 * 선진국; advanced country, developed country <> developing country
 * 솔직히 말할게; ill level with you / honest / come clean
@@ -642,7 +637,6 @@ you
 * 걸리다; caught doing something; be busted;
 * clap: 박수치는 동작에 중독; give it up for someone 
 * cold/ache 는 a/an을 추가
-* 새벽; at dawn은 시간과 섞어쓰지 않음; 4 in the morning
 * 스태프; staff: 스태프 단체; staff member
 * 맞지 않다; it doesn't fit me; (fit to xx)
 * i'm a police officer; police: 경찰 단체
@@ -676,17 +670,6 @@ you
   believe in: 1. 존재한다는 것에 대한 믿음 2. 능력이 있다, ~가 맞다는 것에 자신이 있다; believe in God
 * i love you; 3개 강조 할 수 있음
 * 문 밖에 사람이 있어요; human xxx(외계인 느낌: alien) - there is a person / people at the door
-*  버스나 비행기에서 “의자좀 너무 많이 눕히지 말아주시겠어요?” 라고 공손히 얘기할 때는 동사 move를 쓰고요, 등받이 의자는 seat back을 씁니다. 
-- Could you please move your seat back up just a little bit?
-(의자 등받이를 살짝만 이동해 주시겠습니까?)
-그렇기 하지 말라는 식으로 얘기할때는 동사 recline(기대다/눕히다)를 쓰면 돼요.
-- Could you please not recline like that? (그렇게 안 눕히면 안되겠습니까?)
-1-1. 여기서 동사 move를 쓰는게 일반적이긴 한데요. 원위치로 당겨야 할 경우엔 push back을 쓰시면 됩니다.
-- Could you push your seat back please? (등받이 의자좀 원 위치로 해주시겠어요?)
-* Do you mind if 구문은 참 많이 쓰이는데요.. 줄여서 Mind if가 훨씬 더 많이 쓰입니다.
-대답은 (꺼리지 않을 경우) 반대로 해 주시면 돼요. 
-외국인을 만나다 보면 그 사람의 출신지가 궁금할 경우가 왕왕 있는데요. 그거 물어보는건 딱히 실례는 아닙니다.
-- Do you mind if I ask your ethnic background? (당신 어디 인종적 배경을 갖고 있는지 물어봐도 될까요? ==> 어머니나 할아버지 등등이 어느나라 출신인지 등)
 * get a life; 인생을 즐기다; <> i have no life; 시간, 인생을 즐길 시간이 없음
 * #pull over; 세우다; #pull into: 주차; pulled into the empty parking lot; #pull through after the surgerys; #pull yourself together: 진정시키다; #pull an all night; #pull a muscle; pull a ligament
 * 애매하다: #tricky; iffy; 음식이 상한것 같기도; smells iffy
@@ -780,7 +763,7 @@ you
 * 우리말에도 ‘공개행사, 진열장’의 의미로 showcase 라는 단어를 자주 쓰죠. 하지만 그런 상업적인 의미뿐만 아니라 일반적인 상황에서도 [가장 멋진 면을 드러내다, 뽐내다] 라는 동사로도 자주 쓰입니다.
   * 나는 귀걸이를 돋보이게 하기 위해 머리를 높이 묵는 것을 좋아해. I like to tie up my hair up so I can showcase my earrings. 
 * ＊ Don’t knock it until you try it. = 해보지도 않고 비판하다 동사 knock 는 [노크하다] 뿐만 아니라 [트집잡다, 비판하다] 라는 뜻도 가지고 있는데요, 영상 속 주인공은 이런 이중 의미를 갖고 농담을 하는 것이죠. 여기서 until you try it 은 생략하기도 하는데요, 그럴 때는 “트집잡지마 / 함부러 비판하지마” 정도가 되겠네요.
-  * 해보기도 전에 비판하지 마, 얘들아. (*have tried 처럼 시제는 바꿀 수 있습니다) Don’t knock it until you’ve tried it, guys.
+  * 해보기도 전에 비판하지 마, 얘들아. (have tried 처럼 시제는 바꿀 수 있습니다) Don’t knock it until you’ve tried it, guys.
 * 차지하다; Is she hogging the shower; 2. hog: 돼지
 * 망고 아이스티는 나의 크립토나이트야. Mango iced tea is my kryptonite; 슈퍼맨의 약점
 * 성질을 긁다; get under one's skin(옷 속에 개미가 들어간 것 같은)
@@ -855,11 +838,7 @@ you
 * Thank you; 동사; Thanks; 감탄사: 감사합니다 / 명사: 감사
   * Thank you - 더 정중함, Thanks: 캐주얼함
 * You're the shit: 최고다; 교촌 is the shit
-* 잠시만요; Could you give me a sec? 5분만 더주세요; I just need five
-  * 10분이면 도ㅚ요; With you in ten; 잠시 기다려 주시겠어요? Could you spare a minute?
-  * 안돼요; No can do  잠시만요; in/just a minute;  제한 시간 내에 끝내세요: I can beat the clock = Work against clock
-  * 끄떡 없다고; I'm still standing = I remain on my feet;  바로 해줄게요; COnsider it done = i'll do it immediately
-  * 뻔한 일이죠; Nothing to it = There is no hard work  누구나 아는 얘기야; It's on the/a wire
+* 뻔한 일이죠; Nothing to it = There is no hard work  누구나 아는 얘기야; It's on the/a wire
   * 세상에 공짜는 없죠; There's no free lunch/thing in the world  한건 했어요; I hit it big = i earned big money success
   * 어디 두고보자; Se what happens  할 일이 태산이야; i'm up to my elbows/neck = i've got a plenty of work to do
   * 기대 이상이었어; i outdid my self = i performed beyond my own expectations
@@ -894,37 +873,19 @@ you
   * 모두가 합의해서 내린 결정이에요. ex) It was a collective decision. 
 * turn on 은 ‘불을 켜다’죠. 영상처럼 성적인 것과 관련해서는 ‘성욕을 오르게하다, 흥분시키다’를 의미합니다. 마치 내 몸의 모든 센서에 불이 켜지고 욕망이 끌어오르게 되는 것처럼요. 사람이 주어가 될 때는 수동형인 be turned on 으로 해주세요.
   * 2) be turned on by porn = 포르노를 보고 흥분하다
-* 1. provision은 단수로 표기하면 제공, 공급, 대책, 준비, 혹은 법률의 조항, 규정 같은 걸 의미합니다. 뜻의 폭이 참 넓죠~?! 이 단어를 복수 (provisions)로 사용하면 식량, 양식을 의미하는데, 주로 장기간 여정 또는 저장을 위한 식료품을 의미하죠.  우리가 음식이라고 말할 때와 식량이라고 말할 때와의 어감 차이가 비슷해요~^^ 특히 여기 맥락에서 보면 두 시간 영화를 관람하기 위해 든든히 준비하는 '식량!' 요 느낌을 주기 위해 사용한 거죠~
-  * 이 식량으로 한 달은 갈 것이다. [ex] The provisions will be enough for a month.
 * break one's leg/arm 이나 fracture one's leg/arm 이나 비슷하게 [~가 부러지다] 라는 의미를 가집니다. fracture가 break보다는 좀 더 의학적인 느낌이 나는 단어인데요.  뼈에 금이 갔을 때도 쓸 수 있는 단어입니다. 금이라는 게 사실 머리카락만큼만 부러진 것이라 hairline fracture 라고도 할 수 있고, 그냥 crack 이라고 할 수도 있어요.영상에서처럼 두개골 골절은 다른 단어 말고 보통 skull fracture 라고 씁니다.
-* 판타지 소설이나 영화, 게임을 좋아하시는 분들은 알만한 단어입니다. dwarf. 명사로는 신화 속에 나오는 '난쟁이' 를 의미하는데요. 지금도 왜소증 환자를 dwarf 라고 합니다. 때론 모욕적으로 들릴 수도 있으니 조심하셔야 해요.
-  * 그 농구 선수는 말 그대로 그의 옆에 선 모두를 왜소해 보이게 만들었다. ex) The basketball player dwarfed literally everyone standing next to him.
 * 중세 시대까지만 해도 주요 무기는 팔에 끼고 다니는 방패나 창, 칼 등이었을 거예요. 그런 모습을 떠올리면 arms 가 복수형으로 쓰여서 [무기] 를 의미하는 걸 기억하기는 어렵지 않을 텐데요. 참고로 동사 arm 또한 [무장하다, 무장시키다] 라는 의미를 가집니다. 따라서 [국군, 군대]를 armed forces 라고도 합니다. arms race 는 국가 등이 레이스 하듯이 군비 확장 경쟁을 의미해요.
   * 국가 간 군비 경쟁은 오래전에 끝난 것 같아. ex) The arms race between nations was over a long ago, I think. 
-* nurse 는 [간호사] 라는 뜻 외에도 동사로도 쓰여 [간호하다/보살피다/젖을 먹이다] 등의 뜻이 있어요. 전반적으로 누군가를 돌보고 관심을 쏟는 행위와 관련이 있는데요. nursery 는 nurse 에서 나온 형용사이기 때문에 그런 행위를 하는 장소를 의미하게 되었습니다.  영상에서는 nursery site 로 쓰여 [얕은 바다를 새끼를 키우는 장소로 사용했습니다] 로 직역이 되지만, [새끼를 키웠다] 정도로 의역이 되었어요.
-  * 우리 회사는 직원들의 자녀를 위해 보육원을 제공해요. ex) My company provides a nursery school for its employees' kids.
-* 'condemn'은 '유죄를 선고하다'라는 뜻으로, 'the condemned'는 유죄 선고를 받은 사람, 흔히 사형수를 의미해요. condemn은 '비난하다/규탄하다'의 뜻으로도 많이 사용됩니다. 비슷한 단어로 convict(유죄를 선고하다)가 있어요.
-  * 그 사형수는 푸짐한 아침 식사를 먹었다.  ex) The condemned man ate a hearty breakfast.
 * 1) 단순히 관료들로 이루어진 국가 체계나 조직의 체계를 의미하기도 하지만, 영상에서는 '지나치게 복잡한 행정적인 절차' 를 의미하는 [관료주의] 를 나타내는 1번의 의미로 쓰였습니다. 2) 비슷한 의미의 속어로 red tape 이라는 단어를 쓰기도 하는데요. 무언가를 안된다고 할 때 빨간 딱지를 붙여놓는 것 처럼, 이것도 안돼, 저것도 안돼, 안돼 안돼 하니까 정말 일이 진행되지 않는 시스템, 정책등을 red tape 이라고 해요.  [bjʊˈrɑːk-]  영국식 [bjʊəˈrɒkrəsi] 
 * 1) string 은 명사로 무언가를 엮어놓는 [줄/실], attached 는 [붙여진] 이라는 의미가 있어요. 그러니 조건/의무가 실에 주렁주렁 달려서 무언가에 붙어 있는 것을 연상하시면 되겠죠?  2) 따라서 영상의 말을 직역하면 [종종 많은 조건들이 달린채 함께 옵니다] 정도의 의미를 가집니다.
   * 이 제안을 받아들이셔도 됩니다. 다른 조건은 없어요. ex) You can take this offer. No strings attached.
 * 1) 직역하면 [자리 안에 있는] 정도가 될텐데요. 어떤 정책, 계획, 규칙 등이 만들어진 후에 자기 자리를 꿰차고 있는 것을 의미합니다. 그러니 작동중이거나, 작동할 준비가 된 것이라고 생각하시면 되겠죠? 2) 보통 동사 put 과 함께 많이 쓰입니다. 
   * 3월 이후로 새로운 시스템이 시행되어지고 있다. ex) The new system was put in place since March.
-* 1) 축구나 럭비에서 태클을 한다고 하면, 공을 들고 가는 선수를 걸어 넘어뜨려 공을 빼앗는 행위를 의미합니다. 2) 근데 이게 본인도 넘어지고 힘든 일이기 때문에 태클하기 전에 공을 빼앗을거라는 마음을 단단히 먹고 하거든요. 3) 마찬가지로, 어떤 힘든 문제나 상황을 마음 먹고 해결하려고 하는 것을 tackle 이라고 합니다.
-  * 정부는 증가하는 아동학대 문제들을 다루기로 결심했습니다. ex) The government has decided to tackle rising child-abuse issues.
 * cup of tea... 차 한 잔? 20세기 초 영국에서 탄생한 표현인데요, one's cup of tea는 '~의 기호에 맞는 것'이라는 뜻이랍니다. 본인의 취향에 대해 말할 때 요긴하게 쓸 수 있는 표현이겠죠? 특히나 상대방이 기분 나쁘지 않게 불호를 나타내기 딱 좋은 표현입니다~ everyone's cup of tea는 '누구나 좋아할 만한 것', '호불호가 갈리지 않는 것'을 뜻해요. 이런 말도 있죠 "I'm not everyone's cup of tea, and that's okay(모두가 날 좋아하진 않지만, 그래도 괜찮아)". 이 세상 모든이에게 나를 맞추는 건 불가능하기도 하고, 그렇게 모두에게 맞추는 게 좋은 것만은 아니라는 뜻입니다. 
-* 1) be conditioned 는 경험, 환경에 의해 길들여지거나 학습하게 되는 것을 말합니다. 뒤에는 [to+동사], [by 명사], [into 동명사] 등 다양하게 표현합니다. 
-  * 내 생각엔 여자들은 으레 집안일을 하도록 길들여지는 것 같아. I think women are just conditioned into doing housework.
 * hear 은 가만히 있어도 들리는 소리를 들을 때 쓰는 표현인 반면, be told 의 경우엔 누군가가 알려주듯이 말해서 들었을 때 가장 일반적으로 쓰이는 표현 중에 하나입니다. [~라고 들었어요.] 라는 표현은 I've been told that ~ 이라고 쓰는데요. 영상에서는 특정 상황을 가정하여 현재형으로 계속해서 말하고 있기 때문에 they're told 라고 쓰였어요. 콤마와 함께 쓰이는 [,which] 는 [그리고 그것은] 정도로 해석을 하면 가장 자연스러운데요. 여기서 [그것=약] 이기 때문에 [그리고 그 약이 진짜라고] 로 해석이 되었습니다.
   * 오늘 흰색 셔츠를 입어야 한다고 들었는데요. ex) I've been told I should wear a white shirt today.
 * 직역하면 [죽은 끝] 이니까, 더 이상 길이 이어지지 않는 길의 끝, 즉 막다른 길을 의미해요. 실제 길뿐만이 아니라 더 이상 발전을 이룰 수 없는 상황이거나 막다른 상황을 의미하기도 합니다. 참고로 형용사로 쓰여서 dead-end job 이라는 단어가 많이 쓰이는데요. [밑바닥 일] 을 의미합니다.
   * 막다른 상황에 다다른 것 같고 빠져나갈 길이 없는 기분이야. ex) I feel like we've reached a dead end and there's no way out.
-* 동사로 groom 은 주로 동물을 [손질하다/솔질하다/다듬다] 등의 의미를 가지는데요. 고양이가 혀로 자기 자신을 핥으면서 털을 깨끗이 하는 행위를 그루밍이라고도 하죠. 사람의 경우엔 groomed 를 써서 [~하게 차려입은] 이라는 의미를 가지며 well-groomed, 또는 badly-groomed 라고 표현할 수 있습니다.
-  * 우리 삼촌은 잘생겼고 항상 말쑥한 모습이셔. ex) My uncle is handsome and always well-groomed.
-* agenda 는 ‘의제, 안건’인데요, 다른 안건이 없다는 건 현재 안건에 동의한다는 것이기 때문에 ‘이견이 없다, 동의하다’를 뜻하는 것입니다. 혹은 agenda 는 ‘숨은 의도’라는 뜻으로도 자주 쓰이는데, hidden agenda 라고도 표현합니다. 
-  * 우리는 다른 의제 / 다른 할 말 / 다른 의견이 없습니다. We have no agenda here.
-* 여기서 what it takes 는 돈, 재능, 미모 등과 같이 ‘성공하는데 들어가는 것’을 가리키고 그걸 가지고 있으니까 ‘자질이 있다, 능력을 갖추다’를 의미하는 것입니다.
-  * 사람들은 종종 리더가 되려면 무엇이 필요한지 묻는다. People often ask what it takes to be a leader.
 * 꼭 in 을 써주세요. follow footsteps 는 ‘발소리를 듣고 뒤따르다’라는 뜻입니다. 
   * 나는 그녀의 뒤를 따라 의사가 되었다. I followed in her footsteps and became a doctor.
 * 합의했다; We have an understanding
@@ -938,8 +899,6 @@ you
   * = 그는 사람들이 격식을 차리지 않고 그를 대할 때면 화를 내. He sometimes gets angry if people treat him without formality.
   * casual = 격식을 차리지 않은, 평상시의 informal = 격식에 얽매이지 않은, 편안한
 * come into play = 작용하다, 영향을 미치다 특정한 상황에서 어떤 요소가 들어와서(come into) 활동하기(play) 시작하여 영향을 미치는 것을 의미합니다.
-* 게임을 지배하려면 능력이 있어야 하는데요. 일반적인 능력, 재능, 기술을 갖추고 있을 때 또는 스포츠 경기를 잘할 때 쓰는 비격식 표현입니다. 영상의 대사를 직역하면 [제대로 된 능력을 갖추면 돌아와라]인데요. 조금 의역하여 해석되었습니다.
-  * = 쟤 움직임 좀 봐. 제대로 된 능력을 가졌어. Look at his moves. He got real game.
 * * variations on the theme (of 명사) = ~의 다양하고 독특한 방법들 목적이나 목표 등은 동일한데, 그것을 행하는 방식이 독특하고 다양할 때 쓰는 표현입니다. 몸, 지느러미, 꼬리로 이루어진 어류는 생존이라는 공통된 목적을 갖고 있지만, 각기 다른 서식지에 맞춰서 변화했다는 것이 이번 영상의 주제입니다.
   * 이 이야기들은 모두 사랑과 결혼이라는 공통된 주제를 다양하게 엮은 것들이다. The stories are all about variations on the theme of love and marriage.
 * * play a stabilizing and steering role = 균형을 잡아주고 방향을 조종하는 역할을 하다
@@ -963,13 +922,9 @@ you
   * 전 그를 정말로 좋아해요. ex) I'm fond of him ever so much.
 * 직역하면 누군가의 [마음에 가까운] 이라는 뜻인데요. 그만큼 마음 속에 자주 생각하며 아끼는 것을 의미할 때 쓰는 표현이랍니다. 주로 사람에는 잘 쓰이지 않습니다. benefit 은 [~에 이익을 주다] 라는 뜻인데 여기서는 [기부됩니다] 라고 해석이 되었습니다.
   * 이 지갑은 저에게 정말 소중합니다. ex) This wallet is really close to my heart.
-* : 'A가 [주로 불쾌한 것] B를 면하게 해주다, 피하게 해주다', 또는 'A에게 B를 내주다/할애하다' 라는 뜻이에요! 다음 예문으로 기억해보세요.
-  * 더 이상 얘기하지 마.  Spare me the details.
 * [ 숙어 ] walk out on ~: ~을 떠나다, 버리다
   * 난 직장을 그만뒀어. I walked out on my job.
 * 1) 무언가 말을 꺼내기 전에 [그런데 말이죠] 라고 말을 꺼내며 상대방에게 '내가 이것 좀 설명하게 해달라' 라는 의미를 내포한 표현입니다. Here's the thing : 그런데 말이죠. 문제는 말이죠.
-* muck around 또는 muck about 이라고 하는 표현은 조금 유치하고 엉뚱한 방식으로 종종 해야할 일을 안하고 시간 낭비하며 노는 것을 의미합니다. 비격식 표현입니다.
-  * 내가 잭을 볼 때마다 그는 핸드폰을 가지고 빈둥대고 있다. ex) Whenever I see Jack, he's mucking around with his phone.
 * [ 숙어 ] do somebody: 성대모사 하다 ※ '성대모사'는 impression이라고도 해요.
   * 랜디는 클린트 이스트우드 성대모사를 정말 잘해! Randy does Clint Eastwood very well!
 * 1. 원래 있었던 곳/ 집으로 다시 바래다 주다
@@ -991,16 +946,12 @@ you
   * 과정 속에서 많이 배워야 할 거야. You'll have to learn a lot along the way.
 * : '뜻을 알 수 없는 말'을 말해요. 보통 해당 분야에 지식이 없어서 말을 못 알아듣겠을 때 사용한답니다!
   * 난 1도 못 알아듣겠어.It's all mumbo jumbo to me.
-* : 무게를 잴 수 없을 만큼 '굉장하다' 혹은 '심하다' 라는 뜻의 슬랭이에요!
-  * 완전 쩔어줄 거야! It's going to be off the scale!
 * : 'congeniality'는 '친화성'이라는 뜻인데요. 미스 아메리카 대회에서 참가자들의 투표로 가장 친화력이 좋은 참가자에게 주는 상 "Miss Congeniality" 에서 유래한 표현으로, 친절하거나 사근사근해서 친화력이 아주 좋은 사람을 이렇게 말할 수도 있답니다. 반대로 별로 친절하지 않은 사람을 말할 때도 부정어와 함께 쓸 수 있죠.  [kəndƷì:niǽləti
 * What are the chances?는 '말도 안되는 우연한 일이다!'라는 감탄의 표현으로 쓰이거나 말 그대로 '~할 확률이 어떻게 되?'라는 의문형으로도 쓰여요. 같은 표현으로는 What are the odds?가 있어요.
 * 카드 게임 포커에는 총 네 가지의 문양이 있습니다. 하트, 클럽, 다이아몬드, 스페이드. 예를 들어 7이라는 숫자를 가진 카드가 총 4장이 있는 거죠. 그래서 그 4장으로 이뤄진 한 세트를 suit 라고 하는데요. follow suit 는 앞 사람이 낸 카드의 패의 숫자를 그다음 사람이 그대로 따라 내는 것을 의미합니다. 그런 모습에서 따온 의미로 follow suit 는 남이 한 것을 그대로 [따라 하다] 라는 의미를 가지는데요. 영상에서는 [본받다] 라고 해석이 되었어요.
   * 내 생각에 우리가 그걸 먼저 하면, 다른 애들도 따라올 것 같아. ex) I think if we do it first, others will follow suit.
 * 어떤 요소가 그 효과를 나타내는 것을 의미하며, 영상을 직역하면 [제 생각엔 작동 중인 더 깊은 무언가가 있었던 것 같아요] 입니다.
   * 우리가 볼 수 없는 많은 요인들이 작용 중이었던 게 분명해. ex) There must've been so many other invisible factors at play.
-* 정확히 무엇인지는 모르겠지만 이상한 기분이 들고, 왜 그런 기분이 드는지 정확히 설명하지 못할 때가 가끔 있으시죠? 그런 상태를 설명하는 단어 uncanny 입니다. 그래서 종종 [초자연적인, 초인적인] 이라는 의미로 쓰이기도 한답니다. 부사의 형태인 uncannily 도 [신기하게도, 신비하게도, 묘하게도] 라는 의미로 많이 쓰인답니다.
-  * 당신이 절 설득하는 방법이 묘하네요. ex) The way you convince me is uncanny.
 * 1) 영상에서처럼 정신병의 일종으로 자아가 많은 것과 또한 평소의 모습과 다르게 행동하는 자신의 모습을 나타낼 때도 alter ego 라는 말을 씁니다. 예를 들어, 배트맨에게는 브루스 웨인, 슈퍼맨에겐 클라크 켄트가 alter ego 가 되겠죠.
   * 2) '친구는 또 다른 나의 모습' 이라는 말 한번쯤 들어보셨나요? alter ego 는 '절친' 을 의미하기도 합니다.
 * 원래 visceral 은 [내장의]라는 의미가 있는데요, 문예체로 [본능적인, 강한 감정에 의한]을 뜻하기도 합니다.  또한 부정적인 것에도 쓸 수 있는데요, 예를 들어 visceral dislike 는 [깊게 생각하지 않고 그냥 본능적으로 매우 싫은 것]을 의미합니다.
@@ -1022,8 +973,6 @@ you
 * 그는 체면을 구겨서 밖에 나가고 싶지 않았다. He didn't want to go out because he had egg on his face. 
 * 초월과 횡단을 뜻하는 'tran(s)-' 와 보냄을 뜻하는 'scend'가 결합된 동사로, 무언가를 '초월하다'라는 뜻이에요! 외교부 장관 강경화의 목소리로 기억해보세요.
   * 사랑은 문화, 인종과 종교를 초월합니다. [ex] Love transcends culture, race and religion.
-* summit 은 [산 정상] 을 의미하기도 하지만 [정상 회담] 을 의미하기도 해요. summit conference 라고도 합니다. 함께 알아두시면 좋은 단어는 [6자 회담] 인데요. 과거에는 남북대화 이후에 미국,중국.일본,러시아,한국,북한 이렇게 6자 회담을 진행해왔죠. 6자 회담은 six-party talks 라고 하고요. 아마 이번에는 4자 회담이 진행될 것 같은데, 이때는 four-party talks 라고 하면 되겠죠?
-  * 6월달에 싱가포르에 트럼프와 김정은 간의 정상회담이 있을 예정입니다. ex) There will be a summit between President Trump and Kim in Singapore in June. 
 * 영국 프로축구를 즐겨 보시는 분들은 아실 수도 있는 단어 arsenal 인데요. 모아둔 무기 또는 무기 저장고를 의미합니다. weapon (무기) 들을 모아 놓은 것을 arsenal 이라고 보시면 됩니다. 축구팀 아스널의 엠블럼도 잘 들여다보면 대포가 있어요! heart는 원래 '심장'이라는 뜻 외에, '핵심 내용', 도시의 '중심부'라는 뜻도 있답니다!
   * 미국은 세상에서 가장 큰 규모의 핵무기를 가지고 있다. ex) The US possesses the largest nuclear arsenal in the world.
 * 너의 조언을 있는 그대로 받아들이지 않을거야. ex) I will never take your advice at its face value. face value: 액면가 그대로, 있는 그대로
@@ -1032,14 +981,10 @@ you
 * 난 정말 사라한테 그 소식을 전하고 싶지 않아. ex) I really don't want to break the news to Sarah.; break it to: -에게 알려주다
 * 나 자신을 위한 생일 대접으로 샀어. [ex] I bought it as a birthday treat for myself.
 * 세 시간 전에 시작해는데 지금까지 진전이 하나도 없어. I started 3 hours ago, but I've made zero progress so far; I'm not done yet, but I'm making progress.
-* head는 어느 방향으로 '향한다'는 뜻이에요. 향하는 그곳은 꼭 목적지가 아닐 수 있죠. go는 보통 가고자 하는 목적지를 명확히 말할 때 쓰는 표현이에요. 예를 들어 "I'm going home"이라고 하면 집으로 바로 가는 느낌인 반면, "I'm heading home"은 집으로 갈 계획이되, 중간에 어딜 들를 수도 있다는 어감이 살짝 더 느껴져죠. 가능성이 좀 더 열려있는 느낌이죠.
 * 구동사 make out은 '키스하다, 스킨십하다'는 뜻도 가지고 있어요. make out은 가벼운 입맞춤보다는 조금더 진한키스를 의미해요. 조금 진한 애정행각 정도로 보시면 될것 같아요. 참고로 '스킨십하다'는 콩글리쉬니까 절대 쓰지 마세요~ 
-* 그래서 북한을 가리켜 country, government 라고 할 수도 있지만 김정은의 독재가 장악한 비정상적인 국가라는 것을 강조하기 위해 계속 regime 이라고 하는 것입니다.  이외에도 [잠깐 방문하다 / 이름을 불러 지목하다]라는 의미도 있습니다. 
 * [홍보하다]라는 뜻을 가진 가장 대표적인 단어는 promote 일 텐데요. promote 는 홍보의 대상이 한정되지 않지만 plug 의 경우엔 주로 새로 나온 책이나 영화에 대해서 칭찬하고 홍보하는 걸 의미합니다. 대가를 받고 홍보하는 것이 아니라, 그것이 잘 되는 것에 관심이 있어서 하는 홍보를 할 때 쓰여요. 명사로도 쓰일 수 있습니다.
 * grid 는 [격자무늬]라는 뜻으로 가장 많이 쓰이는데요. 선들이 촘촘하게 이어져있는 모습이 전기나 가스를 공급하는 [배전관]과 비슷하게 생겨서 배전관이라는 의미로도 사용됩니다. off 는 [떨어져 있는]의 뉘앙스를 가진 단어이기에 함께 쓰이면 전기, 상하수도 등 공공 설비나 민간 업체에 의해 제공되는 서비스들을 사용하지 않고 필요한 건 자기가 스스로 구해서 살아가는 사람, 단체, 가족 등을 의미해요. 예를 들어, 전기는 태양광으로, 물을 빗물을 정수해서 쓴다든지 하는 거죠.
-* 나 걔네한테 (그분들한테) 찍힌 것 같아. [출처] 영어주유소가 알려드리는 오늘의 영어표현 - get on bad side 찍히다, 미움받다 get on good side 이쁨받다, 점수를 따다|작성자 영어주유소 I think I'm on their bad side.
 * 난 첫 눈에 그녀와 사랑에 빠졌지. I fell in love with her from day 1.
   * 애초에 제대로 돌아간 적이 한번도 없어. It's never worked from day 1. 
-* embrrassed는 뭔가를 잘못해서 쑥스럽고 부끄러운 경우에 shy는 무언가를 하는 것이 부끄러울 때 ashamed는 창피하고 수치스러울 때 humiliated는 더 굴욕적이게 창피할 때 사용하시면 됩니다!!
 * ~에 관해서, ~에 대해서라고 하면 about, regarding등을 쓸 수도 있지만, when it comes to라는 표현이 어떤 대상이나 목표에 대한 화제거리를 삼을 때 조금 더 구체적이고 더 적절한 표현입니다. 문장의 예를 보시죠.
   * 너의 계획에 관해서라면 난 할 말이 없어. ■ When it comes to your plan, I have nothing to say. 

@@ -70,7 +70,7 @@
 	* (역삼 #방향으로 가는 전철을 타시고)	Take the train that goes toward Yeoksam station
 	* #서다	서서 가야겠네 I'll just #stand
 	* 센트럴 파크로 가는 건 몇 #호선인가요? 			Which #track is for Central Park
-	* *몇 호선 타야합니까? 			Which #line do I have to take to go to Central Park
+	* 몇 호선 타야합니까? 			Which #line do I have to take to go to Central Park
 	* 약수역에서 3호선으로 갈아타 Transfer to line three at 약수 station
 	* 3호선 양재역 방향을 타라 take line three going to 양재 station
 	* 양재역에서 내려서 10번출구로 나가라 #get off at 양재 station and go to exit 10
@@ -127,75 +127,76 @@
 	* #대형 버스; #juggernaut
 	* ##교통 카드 #버스카드
 * #내리다; #stop over = #drop off;
-* 종암동 가는거 맞아요? 					do you stop at 종암동?
-* 여기 앉으세요 							you can sit here, have a seat
-* #에어컨좀 틀어주세요 						 sir please turn on the AC
-* 스탠드형 에어컨 free-standing air conditioner
-* 벨좀 눌러주세요 						 Can you hit the bell please
-* 나는 버스에 있어	i'm in the cab/ my car / truck 
-* i'm on the bus
-* 7번 #버스를 타면 됩니다.	‘nʌmbə(r)] You can take the No. 7 bus.
-* #셔틀버스를 타다;	#hop on the #shuttle
-* 버스 중앙 #차로	#median bus lane
-* *	take the bus, took the bus, taking the bus
-* 버스에 있을 때 버스에서 앉아가다	when I’m on a bus, it’s hard to sit/stand on the bus
-* 버스는 떠났어요	That ship has sailed
-* 버스를 타다	take(get on) the bus
-* 버스 정류소 					bus stop. bus station: 터미널 느낌 bus terminal: 종점
-* 버스 정류장까지 멀어요?	Is the bus stop far?
-* #아니나 다를까 버스 늦게 왔어요. 		Sure enough, the bus was so late. 
-* 이 버스 시내로 가나요?	Does this bus go downtown?
-* 버스 #타고 왔어 	we came by tube
-* 5#정거장 뒤에 내려	You get off 5 after stops
-* 몇 정거장 더 가야해요?	How many more stops before I get off
-* 버스가 #급정거사다	The bus suddenly stopped
-* 버스 전용 차로입니다;	this is a bus-only lane = this lane is for buses only
-* only buses are allowed to use this lane
-* #버스
-* 매 15분 마다 출발합니다.	It leaves every fifteen minute
-* 면허증 보여주세요	Show me your driver's license, please
-* 방금 왔어요	I just got here
-* 보호해 줄게	I'll protect you prə'tekt
-* 이 길이 뉴욕으로 가는 길이에요?	Does this road go to New York?
-* 미국 #대사관에 어떻게 가요?	'embəsi How do I get to the American embassy.
+	* 종암동 가는거 맞아요? 					do you stop at 종암동?
+	* 여기 앉으세요 							you can sit here, have a seat
+	* #에어컨좀 틀어주세요 						 sir please turn on the AC
+	* 스탠드형 에어컨 free-standing air conditioner
+	* 벨좀 눌러주세요 						 Can you hit the bell please
+	* 나는 버스에 있어	i'm in the cab/ my car / truck 
+	* i'm on the bus
+	* 7번 #버스를 타면 됩니다.	‘nʌmbə(r)] You can take the No. 7 bus.
+	* #셔틀버스를 타다;	#hop on the #shuttle
+	* 버스 중앙 #차로	#median bus lane
+	* *	take the bus, took the bus, taking the bus
+	* 버스에 있을 때 버스에서 앉아가다	when I’m on a bus, it’s hard to sit/stand on the bus
+	* 버스는 떠났어요	That ship has sailed
+	* 버스를 타다	take(get on) the bus
+	* 버스 정류소 					bus stop. bus station: 터미널 느낌 bus terminal: 종점
+	* 버스 정류장까지 멀어요?	Is the bus stop far?
+	* #아니나 다를까 버스 늦게 왔어요. 		Sure enough, the bus was so late. 
+	* 이 버스 시내로 가나요?	Does this bus go downtown?
+	* 버스 #타고 왔어 	we came by tube
+	* 5#정거장 뒤에 내려	You get off 5 after stops
+	* 몇 정거장 더 가야해요?	How many more stops before I get off
+	* 버스가 #급정거사다	The bus suddenly stopped
+	* 버스 전용 차로입니다;	this is a bus-only lane = this lane is for buses only
+	* only buses are allowed to use this lane
+	* #버스
+	* 매 15분 마다 출발합니다.	It leaves every fifteen minute
+	* 면허증 보여주세요	Show me your driver's license, please
+	* 방금 왔어요	I just got here
+	* 보호해 줄게	I'll protect you prə'tekt
+	* 이 길이 뉴욕으로 가는 길이에요?	Does this road go to New York?
+	* 미국 #대사관에 어떻게 가요?	'embəsi How do I get to the American embassy.
 * 조지아까지 얼마나 걸려요?	How long does it take to get to Georgia?
-* 지하철이 5시 반에 떠나요	The subway departs at 5:30
-* 어디서 이걸 부칠수 있어요?	Where can I mail this?
-* 발 밑 조심해라	Mind the step
-* 지하철에서 #내리다	#disembarking from a train. = get off = get out of = exit = #alight = #embark
-* 지하철 노선도를 주세요. 	I'd like a map of the subway, please. 
-* 개찰수	turnstile
-* 몇 호선이 시청역 가요? 	What line goes to City Hall? 
-* 맨해튼 역까지 몇 정거장 남았어요? 	How many stops are left to Manhattan? 
-* 시장으로 가려면 몇 번 출구로 나가야 해요? 	Which exit will lead me to the market? 
-* 매표소가 어디 있어요? 	Where is the ticket office? 
-* #기차 #탈선 The train derailed and plunged into the river. 
-* 그 기차는 탈선하여 강물 속으로 추락했다.
-* 기차로 여행하난 것; travel by #railroad
-* #철도; (train) track, (Am) railroad (line/track), (Brit) railway (line)
-* #construct[build; lay; make] a railroad 
-* #폭주 #화물	#runaway(2. #도망자) #freight train
-* 센프란시스코 기차	#cable car
-* ~#행 #열차	train for/headed for 장소
-* 몇 시 기차야?	what time is your train?
-* #식당칸이 어디에요?	Where is the dining car?
-* #지하철 노선도를 주세요. 	I'd like a map of the subway, please. 
-* 지하철 노선	subway line
-* 지하철이 너무 늦게 왔어요	the subway comes so late
-* 내가 버스 시간표 다운받을게			I'll download the bus timetable.
-* 바꿔 타야 해요? 	Should I transfer?
-* 다음 역은 어디예요? 	What is the next station? 
-* 여기는 혼잡하네요. 	It's very crowded here. 
-* 네, 다음 칸으로 가요. 	Yes, let's go to the next car. 
-* 저기 빈자리가 있네요. 	There is an empty seat. 
-* 안전선 뒤로 물러나 주세요. 	Please stay behind the safety line. 
-* 문에 기대지 마세요. 	Don't lean on the doors. 
-* 삼 번 출구로 나가세요. 	Go to exit number three. 
-* 이 표를 취소할 수 있을까요? 	Can I cancel this ticket? 
-* 뉴욕행은 몇 번 홈에서 출발해요? 	Which platform do I need to board for the train to
-New York?
-* 식당 칸은 어디예요? 	Where is the dining car? 
-* 표가 다 매진되었어요. 	The tickets are sold out. 
-* 시청행 두 장 주세요. 	Two tickets to City Hall, please. 
-* 학생 할인 돼요? 	Can I get a student discount? 
+	* 잘못 내렸나봐요; looks like i accidentally left on the wrong stop
+	* 지하철이 5시 반에 떠나요	The subway departs at 5:30
+	* 어디서 이걸 부칠수 있어요?	Where can I mail this?
+	* 발 밑 조심해라	Mind the step
+	* 지하철에서 #내리다	#disembarking from a train. = get off = get out of = exit = #alight = #embark
+		* You get on and off a train / bus / plane / whatever mode of transportation.
+	* 지하철 노선도를 주세요. 	I'd like a map of the subway, please. 
+	* 개찰수	turnstile
+	* 몇 호선이 시청역 가요? 	What line goes to City Hall? 
+	* 맨해튼 역까지 몇 정거장 남았어요? 	How many stops are left to Manhattan? 
+	* 시장으로 가려면 몇 번 출구로 나가야 해요? 	Which exit will lead me to the market? 
+	* 매표소가 어디 있어요? 	Where is the ticket office? 
+	* #기차 #탈선 The train derailed and plunged into the river. 
+	* 그 기차는 탈선하여 강물 속으로 추락했다.
+	* 기차로 여행하난 것; travel by #railroad
+	* #철도; (train) track, (Am) railroad (line/track), (Brit) railway (line)
+	* #construct[build; lay; make] a railroad 
+	* #폭주 #화물	#runaway(2. #도망자) #freight train
+	* 센프란시스코 기차	#cable car
+	* ~#행 #열차	train for/headed for 장소
+	* 몇 시 기차야?	what time is your train?
+	* #식당칸이 어디에요?	Where is the dining car?
+	* #지하철 노선도를 주세요. 	I'd like a map of the subway, please. 
+	* 지하철 노선	subway line
+	* 지하철이 너무 늦게 왔어요	the subway comes so late
+	* 내가 버스 시간표 다운받을게			I'll download the bus timetable.
+	* 바꿔 타야 해요? 	Should I transfer?
+	* 다음 역은 어디예요? 	What is the next station? 
+	* 여기는 혼잡하네요. 	It's very crowded here. 
+	* 네, 다음 칸으로 가요. 	Yes, let's go to the next car. 
+	* 저기 빈자리가 있네요. 	There is an empty seat. 
+	* 안전선 뒤로 물러나 주세요. 	Please stay behind the safety line. 
+	* 문에 기대지 마세요. 	Don't lean on the doors. 
+	* 삼 번 출구로 나가세요. 	Go to exit number three. 
+	* 이 표를 취소할 수 있을까요? 	Can I cancel this ticket? 
+	* 뉴욕행은 몇 번 홈에서 출발해요? 	Which platform do I need to board for the train to
+	New York?
+	* 표가 다 매진되었어요. 	The tickets are sold out. 
+	* 시청행 두 장 주세요. 	Two tickets to City Hall, please. 
+	* 학생 할인 돼요? 	Can I get a student discount? 
 
