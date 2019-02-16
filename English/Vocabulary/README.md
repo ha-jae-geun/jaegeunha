@@ -185,6 +185,9 @@
 ### upright
 * 보트를 세우려고 노력하다; Me try to upright their boat
 
+### upset
+* 예상밖의 패배; We had our first major upset
+
 ### upside
 * my whole world turns upside down은 직역하면 내 온 세상이 뒤집혀 버렸다, 즉 엉망이 되어 버렸다는 의미인데요, 그만큼 정신적으로 혼란스럽다, 멘붕이 왔다는 걸 뜻하죠. 혼란스러움을 한 개인의 세상이 뒤집혔다는 방식으로도 빗대어 표현할 수 있다는 점~ 알아두시면 좋을 것 같네요! ^^
   * 아빠가 돌아가셨다는 소식을 들었을 때 모든 게 뒤집혀 버린 듯 충격을 받았다.My world turned upside down when I heard the news my dad passed away.
@@ -785,6 +788,7 @@
   * 세부 사항들에 발목 잡혀선 안 돼. ex) We shouldn't get bogged down in details.
 
 ## ball
+* 돌아가는 사정을 잘 꿰고 계셔야 해요; Make sure you are on the ball
 * ball 은 [공] 이 아니라 [무도회] 라는 뜻으로도 쓰여요. 한마디로 파티니까, 파티를 할 때 즐거운 모습에서 나온 속어 입니다. = have a ball
 	* 한 시간 정도 더 머물러도 될 것 같아. 애들이 진짜 재밌게 노네. ex) Maybe we can stay here one more hour. The kids are having a ball.
   *  즐겁고 재밌는 시간을 보내다, 즉 '재밌다'라는 의미가 되요. 영화속 주인공들이 둥글게 생긴 파티장에서 즐겁게 춤추는 모습을 떠올려 보시면 될거에요. 여기서 I'm a ball은 "저 재미있는 사람이예요" 라고 해석해볼 수 있어요. 마지막에  Really, I am라고 강조하면서 "저 진짜루요 재밌어요~" 라고 어필하고 있네요.
@@ -2767,6 +2771,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * (내) 돈이 정말 많이 들었어. It cost me a fortune. 여기서 fortune 은 '거금'을 뜻해요! cost 다음에 지불의 주체를 넣어서 쓸 수도 있습니다.
 
 ## foot
+* 긴장을 풀다; put one's feet up
 * 제가 한턱 낼게요; i'll foot the bill
 * 발을 들이다, 들어가다  = set foot on (in)
   * 누구도 아직 화성에 발을 들인 사람은 없다. ex) No man has set foot on Mars yet.
@@ -3100,6 +3105,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## geek
 * 유독 어떤 한 분야에 열성적이고 그 분야에 대해서 남들보다 더 깊이 아는 수준의 경지에 이른 사람들을 표현할 때 쓰는 비격식 표현입니다. 상황에 따라 '덕질하다'로 번역해도 되겠네요.
   * 나랑 우리 형은 그 게임에 완전히 열성적으로 빠져있다. [ex] My brother and I are geeking out over the game so hard. 
+* 오늘 만날 생각에 가장 설레는 사람은 누군가요? who are you most geeking out about meeting tonight?
 
 ## general
 * #잡화점; #general store
@@ -3491,7 +3497,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## hover
 * 그가 문간에서 초조하게 서성였다. He hovered nervously in the doorway. 
 
-## hot 
+## hot
+* 어떤 상황을 처리하기 힘든; 사태가 처리하기 힘든 지경에 이르자; When things got too hot 
 * 뜨거운 감자; Iraq is a hot potato to the Unitied States
 * 온상; 그 지역은 범죄의 온상이었다. The area was a hotbed of crime. 
 *  ((국제 금융 시장에서 높은 수익을 노리고 유동하는 단기 자금)) hot money
@@ -4092,6 +4099,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * all hell breaks loose : 난장판으로 만들다. 대혼란이 일어나다; 비격식 표현으로 갑자기 소리지르거나 싸우면서 상황이 시끄럽거나 폭력적으로 변하는 것을 의미합니다.
   * 모든 사람들이 끝났다고 생각했을 때, 대혼란이 일어났다. ex) When everyone thought it was over, all hell broke loose.
 * 언제 터질지 모르는 폭탄 또는 그처럼 예측할 수 없는 사람을 지칭; loose canon 미국식  영국식 
+* 음악을 연주함에 있어서 빠르면 빠르게. 느리면 느리게 일정한 속도로 연주를 해야 하지만, 빠르고 느리게 (fast and loose) 연주를 하게 되면 자기 마음대로 연주를 하는 것과 마찬가지죠.  = (에) 무책임하게 굴다, 마음대로 행동하다  play fast and loose (with) 표현 자체에 상대방에 대한 못마땅함을 품고 있는데요. 행동이 무책임하거나 비도덕적일 경우에 쓰는 표현으로, 뒤에 전치사 with 를 붙여서 함께 쓸 수 있습니다.
+  * = 규칙을 제멋대로 생각하는 사람들에 불편함을 느낍니다. I feel uncomfortable with those who play fast and loose with the rules.
 
 ### loosen
 * : 'loosen'은 '느슨하게 하다'라는 뜻으로, 'up'과 함께 쓰이면 '긴장을 풀다', '몸의 근육을 풀다', '분위기를 풀다/느긋하게 하다' 라는 뜻으로 쓸 수 있답니다.  베드씬 때문에 긴장한 배우들을 'loosen up' 해주려고 음악을 틀었다 했죠? 요 문맥 속에서 기억해보세요.
@@ -4275,6 +4284,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 초고만 있으면 되니까 필요 이상으로 시간 들여 작업하지 마. ex) I just need a rough draft. Don't make a meal out of it.
 
 ## mean
+* 비범한, 솜씨가 뛰어난; 그녀는 뛰어난 테니ㅣ스 선수다; She is a mean game of tennis
 * 1) mean 은 [의미하다] 이지만, [mean to 동사원형] 은 [~을 의도하다] 라고 해석이 됩니다. without 은 [~없이] 의 의미를 가지니 [의도한 것은 아니지만] 이라고 해석이 되었습니다.
   * 너한테 거짓말하려던 건 아니야. ex) I didn't mean to lie to you.
 * 2. (책임을 갖고) ~해야 한다
@@ -5606,6 +5616,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 난 새로운 매니저를 견딜 수가 없어. 그는 너무 독선적이야. ex) I can't stand the new manager. He's a bit too self-righteous.
 
 ## rich
+* 어처구니 없다; THat's rich
 * 흔히 too rich for my blood라고 하는데요, 나한테는 너무 비싸, 예산초과야, 과분해 라는 뜻이랍니다. 어떤 음식이 칼로리가 너무 높다고 할 때도 사용해요.
   * 이 호텔은 나한텐 너무 비싸. This hotel is too rich for my blood. 
 
@@ -6052,6 +6063,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 이 짜증 나는 마을 정말 싫어. [ex] I hate this stupid town. 
 
 ## stuck
+* 당신 곁에 있겠어요. = 당신 곁에서 떨어질 수 없어요. "I'm stuck with you."
 * limbo 는 [불확실한/어중간한 상태] 를 의미하는 단어입니다. 그래서 in limbo 의 경우엔 중간에 끼여서 이러지도 못하고 저러지도 못해서 불확실한 상황 속에 있는 것을 의미하는데요. 영상에서처럼 어딘가에 '끼인' 이라는 뜻의 stuck 과 함께 자주 쓰입니다.
 	* = 우린 7월 이후로 이러지도 저러지도 못하고 있잖아. 도움이 좀 필요한 것 같아. We've been stuck in limbo since July. I guess we need some help.
  * ‘메이슨 건방진 것 같아. 콧대가 높아  I think Mason is #stuck up.
@@ -6734,6 +6746,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * #stand up for; #옹호하다
   * #stand up to; #맞서다; stood up to the bullies
 
+### stand up to
+* 맞서 싸우다; stand up to; 걔는 왕따에 맞서 싸울수 없었어; He couldn't stand up to bullying
+
 ### stand by
 * 비행기, 기차 등을 탈 때 대기자 명단에 승객을 받아주기도 하죠! 그럴 땐 'on standby' 를 써보세요. 동사와 함께 익혀봅시다. - be on standby
   * 대기자 명단에 있었어. 거의 여덟 시간 정도 기다렸지. [ex] I was on standby. I waited for like eight hours.
@@ -6783,6 +6798,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## shy
 * shy 가 [부끄러워하는] 의 의미 외에도 미국에선 비격식 표현으로 필요한 만큼의 양에서 [~이 부족한] 의 의미를 갖기도 합니다. 
   * = 그는 90세가 되기 2주 전에 죽었다. He died two weeks shy of his 90th birthday.
+
+## shambles
+* 이 방은 난장판이네; This room is shambles
 
 ## shame
 * 부끄렁누줄 아세요; Shame on you
@@ -7054,6 +7072,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## suck
 * sucks to be you : 쌤통이다. / 고것 참 안됐다.
 * 참아; Suck it up
+* 내 상사는 새로운 보스한테 항상 아부떨어; My boss always sucks up to the new CEO; suck up to
 
 ## sucker
 * 1) sucker는 낙지, 오징어 등의 ‘빨판’입니다. 혹은 속어로 ‘잘 속는 사람’을 의미합니다. 마치 단물 빨아먹기(suck) 좋은 사람처럼요.
@@ -7506,6 +7525,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 그는 직장에서 정말 어려운 시기를 겪고 있지만, 이번에 잘 견뎌내면 상황이 분명 좋아질 거야. He's having a really hard time at work, but if he can tough it out this time, things are bound to get better.
 
 ## touch
+* # out of touch; 걔 잠수탔어; She's out of touch
 * touch-up은 '수정 화장', '(그림 그리기 등을 할 때) 마지막 마무리'라는 뜻이에요.
 * 1. get in touch with... : ~와 연락하다  2. keep in touch with... : ~와 계속 연락하다  3. be out of touch with... : ~와 더 이상 연락하지 않다, 연락이 끊기다
 * 현재 세상이 어떻게 돌아가는지 정보가 없는 것을 의미하는 표현이에요. [너 정말 뭘 모르는구나!] 라고 말할 때, You're so out of touch! 라고 하시면 되겠죠?
@@ -8075,6 +8095,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 나도 새처럼 날개를 달고 날고 싶어. I like to fly on wings, just like birds.
 
 ## win
+* 사람의 마음을 끄는, 애교있는; She has a winning smile
 * 동사 win 은 이처럼 승리해서 상을 타듯 뭔가를 노력해서 '얻다, 쟁취하다' 라는 뜻으로 쓸 수 있답니다! 예문을 보면서 더 익혀보세요. ※ win over는 이전에 나를 지지하거나 신뢰하지 않았던 사람의 지지 또는 신뢰를 얻어내는 등 성공적으로 마음을 바꿨다는 어감이 좀 더 살아있는 표현입니다.
   * 그는 대중의 엄청난 지지를 얻었습니다. [ex] He has won huge public support.
 
@@ -8130,6 +8151,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## weep
 * 친구 토마스를 잃은 베이다는 자신의 아픔을 마치 버드나무가 느끼는 아픔처럼 빗대어 시로 표현하고 있습니다. 여기서 버드나무가 울고 있다는 것을  weeping과 tears running down 두 가지가 중복해서 나오는데요, weep은 ‘흐느껴 울다’, tears running down은 ‘눈물이 주르륵 흐르다’입니다.  그리고 with your tears running down에서 with는 ‘~한 채로, ~하면서’라고 해석하셔야 합니다. 직역하면 “너의 눈물(your tears)을 흘리(running down) 면서(with)”인데, 이를 문법에서는 〈with 분사구문〉이라고 합니다. 깊게 들어가진 않고 해석을 위한 간단한 예문만 살펴보겠습니다.
   * 그는 소파에 다리를 꼰 채 앉아 있었다. (다리 입장에선 꼬여졌기 때문에 crossed) He was sitting at the sofa with his legs crossed. 
+
+## wed
+* 집착하다 be wedded to -
 
 ## wedge
 * 한쪽 끝이 뾰족하고 반대쪽은 넓은 V자 모양, 좀 더 정확하게는 쐐기 모양, 혹은 쐐기 자체를 wedge라고 해요. 음식에서 wedge는 쐐기 모양의 조각을 말해요. 우리가 사랑하는 웨지감자의 모양처럼요!

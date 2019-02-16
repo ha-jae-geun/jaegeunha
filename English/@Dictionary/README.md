@@ -2160,6 +2160,7 @@
 
 
 # 더럽다
+* 이 방은 난장판이네; This room is shambles
 * 먼지나 기름기 등으로 덮여있어서 지저분한 것을 의미하는 단어입니다. 혐오스럽고 불쾌한 느낌의 비격식 단어에요.
 	* 왜 이렇게 더러운 재킷이 필요하다는 거야? ex) Why do you need this cruddy jacket?
 * #dirty = #filthy = #nasty = #shitshow
@@ -7718,6 +7719,7 @@ retaliate
   * 내 지갑 빵빵해 my wallet is fat
 
 # 지다
+* 예상밖의 패배; We had our first major upset
 * 소한테 지다니; outstaged by beef
 * beat는 ‘이기다, 능가하다’라는 동사로 과거분사는 beaten입니다. 그래서 엄밀히 말하면 be beaten이라고 해야 하지만, 회화나 광고, 음악 등에서 be beat이라고 하는 경우가 종종 있습니다. We can’t be beat은 우리는 능가될 수 없다, 즉 “우릴 이길 사람은 없다”라는 의미입니다. 혹은 beat는 ‘녹초가 된, 엄청 지친’이란 의미도 있어서 “우린 절대 지치지 않아”로 생각할 수도 있습니다. 
 * 본인이 잘 한다고 생각했던 분야에서 오히려 상대에게 당한다는 뜻입니다. 예를 들면, 내가 덩치가 좋고 싸움을 잘 해서 한판 붙어보자고 했는데, 오히려 약해보이던 상대가 나를 때려눕혔을 때 He beat me at my own game 이라고 하는거죠. 
@@ -7860,6 +7862,7 @@ retaliate
   * 질척대다; He was kind of clingy; Why are you obsessed with me?; Don't act needy
     * 강압적이다; He is very controlling
     * # 집착이 심하다; She's posessive
+    * be wedded to -
 * 2) be fixated on = ~에 집착하다.
   * 네가 왜 이렇게 절차에 집착하는지 이해가 안돼. ex) I don't understand why you are so fixated on the procedure.
 
@@ -8863,6 +8866,7 @@ retaliate
  * #응집; #cohesion; the cohesion of the nuclear family예문 발음듣기
  * 내 곁에 네가 필요하다          Know I need you #'round with me
  * 곁에 있어줘서 고마워 Thanks for #being with me  
+  * * 당신 # 곁에 있겠어요. = 당신 곁에서 떨어질 수 없어요. "I'm stuck with you."
  * 물론이지. 같이 있어줄게.        Sure! I'll keep you company. I'll be with you. 
  * #품 너의 품에서                 in your arms
  * 합석해도 되요?                  #mind if I join you?

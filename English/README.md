@@ -28,7 +28,7 @@
 
 
 ##영어
-0208
+0215
 * 테드 https://www.ted.com/
 -------------
 *   MLB http://post.naver.com/my/series/detail.nhn?seriesNo=46475&memberNo=449115
@@ -67,6 +67,7 @@
 *  소미영어 https://blog.naver.com/somienglish 
 *  영어랑 커피 한잔 https://post.naver.com/my.nhn?memberNo=576800
 *  해피제이드 해피라이프J https://blog.naver.com/jadekim925 
+* 땀 https://m.blog.naver.com/PostList.nhn?blogId=byswoo
 *  쎄듀와 함께 쎄쎄쎄 https://blog.naver.com/cedubook
 *  뇌순’s 영어극복 https://blog.naver.com/rmeoqhek38/221011569917
 *  엔구 화상영어 https://blog.naver.com/dmm_korea/221267185883

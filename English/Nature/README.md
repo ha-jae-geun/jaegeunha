@@ -36,6 +36,7 @@
 * 지금 당장 수익이 줄어 살기 힘들다
 
 # 환경
+* 민드레 꽃; blowing a dandelion 미국식 [ˈdændɪlaɪən
 * 꽃 구경가요; Let's go to view the flowers
 	* 아름다운 산맥이 있어요; You have gorgeous mountain ranges
 	* 꽃가루가 너무 날려; There's like a ton of pollen in here  [ˈpɑːlən]
