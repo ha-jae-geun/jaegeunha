@@ -83,7 +83,7 @@
 * 눈이 #쌓이다; #settle; the snow will settle;
 * #slush; #진창이 된 눈
 * #snow angel = #sand angels
-* snow flurries; *가끔씩 흩뿌리는 ##눈; There have been flurries of snow since early in the morning.
+* snow flurries; 가끔씩 흩뿌리는 ##눈; There have been flurries of snow since early in the morning.
 * #snowblower;; #제설차
 * #눈이불; #blanket of snow
 * #성에 제거기; #ice scraper
@@ -143,7 +143,7 @@
 * 그거 땀띠야 									 It’s a heat rash.
 * 땀띠약						 talcum powder 미국·영국 [|tӕlkəmpaʊdə(r)]
 * 땀에 흠뻑 젖다 								I'm drenched in sweat
-* *노력하다 							 put efforts, perspire: 땀을 흘리다
+* 노력하다 							 put efforts, perspire: 땀을 흘리다
 * i'm dripping with sweat; 땀흘리다
 * #식은땀; #night sweats
 * ##땀
@@ -162,9 +162,9 @@
 * wer were #stifled bt the beat, #stifling heat, #sweltering (heat), 
 * 더위를 피하다; #beat the heat
 * #폭염주의보 					There was a warning of a #heatwave
-* *폭염이라고? We’ve got a heat wave?
+* 폭염이라고? We’ve got a heat wave?
 * #기상이변 									Extreme Weather 
-* *#기상청 weather agency
+* #기상청 weather agency
 * 극지(極地)에서 천지가 온통 백색이 되어 방향 감각이 없어지는 상태 			Whiteout
 * #열대 저기압 								 Tropical low pressure 
 * #열대야 현상 tropical night phenomenon
@@ -173,7 +173,7 @@
   fine-dust #watch / ultrafine dust
   	* combat toxic haze blanketing its cites / s air pollution / fine particulate matter
 * #안개 #fog #haze: 아지랑이
-* *먼지를 털다 나는 먼지떨이로 블라인드의 먼지를 턴다. I use a feather duster to dust my blinds.
+* 먼지를 털다 나는 먼지떨이로 블라인드의 먼지를 턴다. I use a feather duster to dust my blinds.
 * 
 * i'm dying / burning / melting / boiling
 * 여름의 마지막 #자락; last #throws of summer
@@ -203,11 +203,11 @@
 * #가을 #단풍
 --------------------------------------------------------------------------------------------------------------------
 * #흐린, #탁한; #murky; = #dismal = #dark = #cloudy
-* #구름 위를 걷는 느낌이다 					 Your feet can't feel the ground
-* 구름이 지다; #cloud up; it's clouding up
-* 구름이 뒤덮인; #Overcast
-* 내가 장학금을 받았다는 소식을 들었을 때, #기분이 날아갈 것 같았어! 구름을 9가지 층증 꼭대기
-* I was on cloud nine when I heard I got a scholarship! 
+	* #구름 위를 걷는 느낌이다 					 Your feet can't feel the ground
+	* 구름이 지다; #cloud up; it's clouding up
+	* 구름이 뒤덮인; #Overcast
+	* 내가 장학금을 받았다는 소식을 들었을 때, #기분이 날아갈 것 같았어! 구름을 9가지 층증 꼭대기
+	* I was on cloud nine when I heard I got a scholarship! 
 * 혹시 게임이 시작하기 전에 비가 그칠지 아닌지 알고 있니		 (비, 구름 등이) 개다, 걷히다
 * Do you know if the storm is supposed to let up before the games start?
 * 비가 약해지고 있어 								The rain is easing
@@ -249,7 +249,7 @@
 * It rained like crazy yesterday
 * 비가 약해지고 있어 								The rain is easing
 * 비가 밤새 ##그치지 않았어요.				 The rain never let up all night.
-* *비가오나 눈이오나 진행된다 		 the invitation says it’s going on rain or shine.
+* 비가오나 눈이오나 진행된다 		 the invitation says it’s going on rain or shine.
 * #강수 #precipitation 미국·영국 [prɪ|sɪpɪ|teɪʃn] 
 * 가늘게 조금씩 내리는 비로 #이슬비, #가랑비, #보슬비에 해당한다. 		 rain #drizzle
 * 는 잠깐 내리는 #소나기이다.								shower
@@ -262,7 +262,7 @@
 * 은 아주 강한 바람을 동반하는 거센 열대성 폭풍의 종류들이다. 		 cyclone과 typhoon
 * 은 아주 강력한 바람으로 보통 바다에서 일어난다.				 cyclone과 typhoon
 * 은 특정 국가들에서 비가 아주 많이 내리는 시기(장마)를 가리키기도 하고, 이런 비를 몰고 오는 바람을 가리키기도 한다. 					 1mɑ:n2su:n monsoon, rainy days
-* *이제 본격적인 장마철이에요 				 The rainy season has come in earnest
+* 이제 본격적인 장마철이에요 				 The rainy season has come in earnest
 * It's the start of the rainy season
 * 은 보통 폭풍우나 눈보라가 몰아치는 가운데 갑자기 거세게 부는 #강풍이다.	 	 skwɔ:l squall
 * (또는 twister 비격식)는 흔히 좁다란 구름을 몰고 다니며 나선형으로 강력하게 휘몰아치는

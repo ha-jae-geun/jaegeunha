@@ -332,7 +332,7 @@
 
 # 개최
 * 전시회가 매년 1월에 한번씩 열려요; The exhibition is held once every year in january.
-
+  * - will take place; There will be a session of 행사; Will be held
 
 # 거리
 * # 가까이에서 봐도; Up close and personal
@@ -555,6 +555,7 @@
   * 나이아가라 폭포는 경외심을 불러일으키는 곳이야.ex) Niagara Falls is such an awe-inspiring sight.
 
 # 경쟁
+* 경쟁 붙이다; hold a competition and give them a chance to show their work performance
 * # 다투다; 다들 자리에 앉으려고 앞다투고 있었지. [ex] They were all scrambling for a seat.
 * # 후보군에 속해 있다, #경쟁에서 Be #in the mix
    * 후보군에 포함되어 있었다.            were in the mix for Shields.
@@ -657,6 +658,11 @@
    * #지위; I want a #position with more #responsibility
    * #간부; #brass; #cadet 미국·영국 [kə|det]
 
+# 계단
+* 계단을 쓸다; sweeping the staircase;
+  * - is being swept with a broom
+* 계단 내려가다; walking down the stairs
+
 # 계발
 * 자기계발 책; self-help books
 
@@ -724,6 +730,8 @@
   * 비평가들은 ‘햄릿’에서의 그의 연기를 극찬했다.The critics raved about his performance in ‘Hamlet'.
 
 # 고려
+* 고려하다는 뜻으로 좀 더 흔한 단어가 consider 가 있는데요. contemplate 의 경우엔 어떤 선택 사항의 좋은 점, 나쁜 점을 분석하며 할까 말까 고려하는 의미인 반면, consider 의 경우엔 좀 더 긍정적인 뉘앙스로 어떤 선택을 할 가능성이 높은 경우에 쓰는 표현입니다. 따라서 영상의 경우엔 아예 생각에도 없던 임신 중절 수술의 장단점에 대해서 이야기를 해보고, '우리가 실제로 이걸 해야 할까 말아야 할까?' 정도의 대화를 나눈 반면, We actually did consider the abortion 의 문장으로 바뀌게 된다면 '임신 중절 수술을 실제로 할 생각도 했었다' 의 뜻으로 바뀌게 됩니다.
+  * = "결혼하는 걸 고려할 시기야." 라고 말하는 사람들이 정말 싫어. 그들이 신경 쓸 일 아니잖아! I hate people saying "It's time to contemplate your marriage, Jane.". None of their business!
 * considering은 '~를 고려해보면'이라는 의미의 전치사, 접속사로 쓰이는데
  * considering / given(전/접)
  * 감안하고 들어; you should #take it with a grain of salt; 
@@ -958,6 +966,7 @@
 * # 너무; too 와 so 둘 다 형용사나 부사 앞에 쓰여 '너무,정말' 이라는 의미로 쓰이는데요. too 는 부정적인 뉘앙스를 가지고 있습니다. 그래서 영상에서처럼 you're too nice 라고 하면 [필요 이상으로 너무 나이스한 이미지이다. / 사람들한테 당할 정도로 나이스한 이미지이다.] 정도의 뉘앙스를 가지고 있어요.
 
 # 과정
+* 과정을 점검하다; look over/check a process
 * # 절차가 많아; there are too many red tapes
 * baby step은 어떤 일이나 과정에 있어서 아주 조금 나아가는 행동 또는 단계를 빗대는 표현입니다. a baby step처럼 단수로 사용하는 경우는 주로 어렵고 긴 과정에서의 '첫 한 걸음'을 의미해요.
   * 새로운 기술을 조금씩 배워 나아가고 있어요. I'm taking baby steps in learning new techniques.
@@ -2600,7 +2609,9 @@
   * 마감 임박 the #last chance(#chance)
   * #납부기한; this bill is #overdue
 * # 마지막;그는 막판에 도착해서 차를 타는데 성공했어요.  He arrived at the eleventh hour and managed to get in the car.
-
+  * at the eleventh hour
+  * 나는 이것을 내일 제출하지 않으면 안 된다. 그래서 마지막까지 일해야 해. I have to turn this in tomorrow, and I'll be working down to the wire; down to the wire
+  
 # 마음대로
 * 음악을 연주함에 있어서 빠르면 빠르게. 느리면 느리게 일정한 속도로 연주를 해야 하지만, 빠르고 느리게 (fast and loose) 연주를 하게 되면 자기 마음대로 연주를 하는 것과 마찬가지죠.  = (에) 무책임하게 굴다, 마음대로 행동하다  play fast and loose (with) 표현 자체에 상대방에 대한 못마땅함을 품고 있는데요. 행동이 무책임하거나 비도덕적일 경우에 쓰는 표현으로, 뒤에 전치사 with 를 붙여서 함께 쓸 수 있습니다.
   * = 규칙을 제멋대로 생각하는 사람들에 불편함을 느낍니다. I feel uncomfortable with those who play fast and loose with the rules.
@@ -5415,6 +5426,7 @@ retaliate
 * 썰렁해; are so #lame / #corny / #boring / terrible
 
 # 안경
+* 언제 안경썼어? When did you get the glasses?
 * 안경은 spectacles 라고도 하는데요, specs 는 그것의 줄임말입니다. 그리고 shades 는 선글라스(sunglasses)를 말합니다. 눈에 그늘(shade)을 생기게 해 주는 물건이란 뜻에서요. 꼭 –s를 붙여서 복수형을 표현해 주세요. 
   * 나 새 안경을 맞춰야 할 것 같아. – 시력이 얼마나 나쁜데? I guess I need a new pair of specs. – How bad is your eyesight?
   * * prescription lenses = 도수가 들어간 렌즈 사용자에 맞게 렌즈에 도수가 들어간 렌즈를 말합니다. prescription 은 ‘안경 도수’를 의미합니다. 그래서 도수가 없는 안경을 non-prescription glasses 라고 하죠. 
@@ -5692,6 +5704,7 @@ retaliate
  * #3연속; three times a row
 
 # 연습
+* train은 practice 보다 진지하고 강도높은 훈련; i leaned martial arts for the film
 * 여기서 practice는 ‘실행, 실천’이란 뜻이고 실행에 두는 것(put into)이니까 “행하다, 실천하다, 실재로 하다”란 의미가 됩니다. ‘무엇을’ 실행에 옮기는지 표현하려면 put과 into사이에 명사를 넣어주세요.
   * 그거 실재로 해보자.  Let’s put that into practice. 
   * 실제가 아니라 모의로, 연습으로 하는 재판으로 법대생들이 재판을 실제처럼 해보는 것입니다. 이 외에 mock debate(모의토론), mock UN conference(모의유엔회의), mock test(모의고사) 등도 있습니다. 
@@ -6416,6 +6429,7 @@ retaliate
  * am I #out of left field; #별난 것처럼 행동하다
 
 # 의자
+* 의자를 한쪽으로 치우; set aside the chairs
 *  버스나 비행기에서 “의자좀 너무 많이 눕히지 말아주시겠어요?” 라고 공손히 얘기할 때는 동사 move를 쓰고요, 등받이 의자는 seat back을 씁니다. 
 - Could you please move your seat back up just a little bit?
 (의자 등받이를 살짝만 이동해 주시겠습니까?)
@@ -6427,6 +6441,7 @@ retaliate
 * 의자를 # 뒤집다 overthrow a chair 단어장추가
 * # 나란히; 아이들이 나란히 앉았다. The kids sat side by side. 
 * # 앉다; 찡겨앉아봐; Scooch in
+* 로빈새 한 마리가 울타리 위에 앉아 있었다. A robin was perching on the fence. 
 
 # 의견
 * : 직역하면 '목소리가 들리게끔 하다'로, 어떤 문제에 대해 '(능동적으로 강력히) 목소리를 내다, 의견을 표명하다' 라는 뜻이에요!  make one's voice heard
@@ -6865,6 +6880,9 @@ retaliate
  * ○ Can you fill me in on the details? (자세하게 알려줄래요?)
  * ○ Do you remember what I told you? I'll fill you in on the details. (내가 말한거 기억나지? 자세하게 얘기해 줄게)
  * ○ I'm going to email you the details (자세한 것을 이메일로 보내드릴게요)
+
+# 자연
+* 부자연스러운; The situations was artificial
 
 # 자존감
 * feel low : 자존감이 낮게 느끼다 / 우울하다 / 무기력하다. 참고로 '낮은 자존감' 을 명사로 표현할 때도 low self-esteem 이라고 표현합니다.
@@ -7313,8 +7331,29 @@ retaliate
 # 전반적으로
 * 전반적으로; by and large = more often than not
 
+# 전시
+* 전시되어있따; 여러 줄로 배열; be arranged in rows; be displayed in -
+  * be being displayed; be on display; be displayed
+  * 일자로 놓여있다; be arranged in a line
+  * 일렬로 늘어선 파라솔들이 해변을 따라 펼쳐져 있다; A row of umbrellas stretches along the beach
+* # 놓여있다; 치워져 있다; have been set to the side
+  * 원으로 놓여있다; have been placed in a circle
+* 개어져 있다; have been folded in a store
+* 길이 호수를 둘러싸고있따; A pathway encircles a lake
+  * 길이 숲을 지나고 있다; A path runs/passes through the woods
+  * 나무들이 오솔길 양쪽으로 늘어서 있따; Tress line both sides of the trail
+  * 깃발들이 기둥에 올려져있다; Flags have been raised on poles
+  * 신호등이 모퉁이에 위치해 있다; A traffic light is situated on the coner
+  * 베ㅔㄴ치들이 길을 향하고 있다; Benchs are facing the street
+  * 길이 숲으로 이어져있다; A pathway leads down to the forest
+  * 음악가들이 한줄로 행진하고 있다; Musicians are marching in a line
+* 그림자가 땅위에 그리워지고 있따; Shadows are being cast on the ground
+  * 야영장이 텅 비었다; The camping area is deserted
+  * 나뭇잎들이 잔디 위에 흩어져있다; Some leaves are scattered on the lawn
+
 
 # 제외
+* -을 제외하고; aside from = arpart from = other than
 * A 를 고려 사항에서 빼다. 제외하다. = take(leave) A out of the equation.
   * 지금은 그걸 제외해서 생각하는 게 좋을 것 같아. ex) I think we'd better take it out of the equation for now.
 * # 제거; = 그룹에서 태만한 사람들을 쳐내야 할 때야. It's time to weed out slackers from the group.
@@ -8138,6 +8177,7 @@ retaliate
 * 결벽증; a neat freak
 * 작업자는 먼지를 안정되게 하기 위해 물을 뿌렸다; A worker sprays water over a house to settle dust
   * 그거 수년째 구석에서 먼지만 쌓이고 있어. It's been sitting there collecting dust for years.
+  * 청소기 밀다; He's pushing a vaccum cleaner
 * (청소 또는 페인트) 너 저기 놓쳤어; YOu missed a spot
 * clutter 는 명사로 [잡동사니, 어수선함] 을 의미해요. 여기에 [없앰, 줄임] 의 뉘앙스를 가진 접두사 de- 를 붙여서 어수선하게 하는 것을 싹 정돈하는 의미의 단어입니다. 단지 사물뿐만이 아니라, 오래된 아이디어, 인간관계, 나쁜 습관 등을 정리해서 없앨 때도 쓸 수 있는 굉장히 유용한 단어입니다.
   * 이사 가기 전에 집에서 쓸모없는 것 좀 다 정리하자. ex) Let's declutter the house before we move out.
@@ -8723,6 +8763,10 @@ retaliate
 
 # 표준
 * 표준어; Standard american English
+
+# 표지판
+* 표지판을 내리다; take down the signs;
+* 설치하다; putting up a sign
 
 # 풍경
 * Scenery; 한 지역의 전체 풍경; 한 눈에 바라볼 수 있는 풍경: Landscape; 풍경화: #Landscape lapinting; 도시 경관: cityscape/townscape; 아름다운 전망: #sight

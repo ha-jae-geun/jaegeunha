@@ -46,6 +46,7 @@
 *   체니 http://m.post.naver.com/my.nhn?memberNo=2562700
 -----------------------------------------------------------------------------
 *  영어 주유소 http://blog.naver.com/tnwlwldu
+* 민병철 어학원 https://m.blog.naver.com/PostList.nhn?blogId=jyp1818&currentPage=1
 *  파고다 오늘의 회화 http://post.naver.com/my.nhn?memberNo=4550737&navigationType=push
 *  #skybel http://blog.naver.com/skybels/221137138009
 *  영단:http://m.post.naver.com/my.nhn?memberNo=25662548&navigationType=push

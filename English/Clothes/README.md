@@ -4,6 +4,10 @@
 * 니트: knit wear
 * 롱패딩; long padded jacket
 
+# 보석
+* VVS: 다이아몬드의 투명도 등급
+
+
 # 옷 종류
 * clothes; 
   * 옷 한장 한장; a cloth -> a piece of / an item of / an article of clothing

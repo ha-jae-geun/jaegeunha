@@ -1,3 +1,9 @@
+# 부사; 동사와 덩어리로 외우자
+* 분형이 알고있다; assuredly know;
+* 성공적으로 완수하다; successfuly complete
+* 특별히 사치스러운; particularly luxurious
+* 반복해서 말하다; repeatedly speak
+
 # 파트 4
 ## 이메일
 * 회람, 편지, 공지문: i am writing to, this letter is to, i am pleased, inform

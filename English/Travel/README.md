@@ -29,7 +29,7 @@
 * 구경ㅇ하는 사람; #rubbernecker
 * #look on; #구경하다
 * #look on = be a #spectator = #regard
-* *구경만 하는 거에요 I’m just browsing
+* 구경만 하는 거에요 I’m just browsing
 * 집구경 시켜주다; get a tour(2. 구경하다)
 * #가이드가 동반하나요?							 Will a guide join us?
 * #show around; #show round;

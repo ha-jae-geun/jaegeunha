@@ -158,7 +158,7 @@
 * An avid reader 
 * An avid comic book reader 
 
-* #Connoisseur 
+* #Connoisseur  [ˌkɑːnəˈsɜːr;-ˈsʊr]
 * Film ~ 
 * Wine ~ 
 * Cigar ~ 
@@ -181,7 +181,7 @@
 -----
 * ##팬 저 당신 열혈팬입니다					 I am a big fan of yours
 * <> 'I'm not #fond of ~ 
-* #광팬 #fanatic; be fanatic about sports/shoes
+* #광팬 #fanatic; be fanatic about sports/shoes  [fəˈnætɪk] 
 * #goer; movie goer
 * #die-hard seafood fan
 * #gung-ho; thanks for beiing so gung-ho about it
@@ -191,8 +191,8 @@
 * ##개 나 개 좋아해 								 I like dogs
 * '그는 열심히 일해 							 He works like a dog
 * ‘조직에서 그 남자가 리더야 				 He's the top dog in his organization
-* *나 개 피곤해 								 I'm dog tired today
-* *나 엄청 아파 									I'm sick as a dog
+* 나 개 피곤해 								 I'm dog tired today
+* 나 엄청 아파 									I'm sick as a dog
 * -------------------------------------------------------------------------------------------------------------------
 * #place #spot
 * to x
@@ -299,7 +299,7 @@
 * #막혀있다 #막히다#갇히다 #구속 ##끼다
 * 감정이 답답할 땐; frustrated
 * #답답하다. 		 	 I am so frustrating. stuffy라는 말 X it‘s so stuffy/sticky(날씨)
-* *방이 좀 답답해요 						 This room is a little #cramped
+* 방이 좀 답답해요 						 This room is a little #cramped
 * ventilation, 환기 시키다; air out, 환기 장치; ventilator, ventilator, 환기가 잘 되다 be well ventilated
 * #각성; #arousal 미국식 [əráuzəl] 
 * #환기 시켜야 해. 						 I need to vent.
