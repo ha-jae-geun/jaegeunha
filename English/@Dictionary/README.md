@@ -978,6 +978,7 @@
   * 점성술은 유사과학의 일반적인 예이다. ex) Astrology is a typical example of pseudo-science.
 
 # 관계
+* 편지의 위쪽에는 ’관계자 제위에게’라고 쓰여 있다. On the top of the letter, it says 'To whom it may concern'. 
 * 관계를 끊다; sever one´s connections; break off[sever] diplomatic relations; cut off all relations
 * 우리는 그 회사가 규정에 맞지 않게 행동했기 때문에, 관계를 끊기로 결심했다.     관계를 끊다.
  * We decided to sever ties with the company because they didn't stick to the regulations.
@@ -1073,6 +1074,7 @@
  * ~에 살을 붙이다[~을 더 구체화하다] These points were fleshed out in the later parts of the speech.
 
 # 구하다
+* 특별히 중요한 물건을 구해다 주면 돼; I need you to procure an item of particular importance; procure: 어렵게 구하다
 * 어딘가에 잠시 '들르다' 라는 의미로도 굉장히 많이 쓰이는 표현인데요. 영상에서처럼 무언가를 노력하여 [구하다]의 의미로도 많이 쓰입니다. 
   * = 한정판을 어디서 구했니? How did you come by the limited edition?
 
@@ -9002,6 +9004,8 @@ retaliate
   * 결속력 있는 집단; #tight-knit; we are a tight-knit family
   * 그 수프는 최고 열두 가지나 되는 여러 종류의 생선들을 ##섞어 만든 것이었다. [kən|kɑ:kt] The soup was concocted from up to a dozen different kinds of fish.ㄴ
   * # 결합도; the degree of #coupling
+  * 단순히 무언가를 합칠 땐 combine, 섞을 땐 mix 를 쓰는데요. consolidate 는 '좀 더 효율적이고 좀 더 온전한 전체'를 이루기 위해 통합하는 것을 의미합니다.  단어 안에 solid 라는 단어가 보이실텐데요. solid 는 명사로는 '고체' 라는 뜻이지만 형용사로는 '견고한, 알찬, 확실한' 이라는 의미도 가집니다. solid 를 통해 좀 더 견고하고, 알차고, 확실하게 만들려는 행위인 consolidate 가 가지는 성격을 좀 더 알 수 있어요.
+    * = 몇몇 부서를 통합할 예정인데, 일부 직원들을 해고하는 건 불가피해. We'll be consolidating some departments, which means it will be inevitable to cut some staff.
   * ## 섞다 # 융합 # 합치다 # 통합 # 합체 # 합쳐지다 # 재결합
     * * spike의 기본 뜻은 ‘못이나 침처럼 뾰족한 것’ 혹은 ‘뾰족한 것으로 찌르다’입니다. 하지만 음료와 관련해서 ‘강한 술이나 향을 타다’라는 의미도 있지요. 뒤에 전치사 with를 써서 ‘로 섞다’라고 하시면 됩니다.
   * 그는 그의 음료에 위스키를 탔다. He spiked his drink with whiskey.

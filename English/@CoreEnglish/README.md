@@ -46,7 +46,8 @@
 * orange; or 발음 + 인ge,  Strawberry; 스트로 입술울 모으지 않은 상태에서 '스트로' + bear + 이 
 
 # 기타
-* 1음절 강세; author, comfortable, beverage, recognize, detour [-tʊr]  영국식 [ˈdiːtʊə(r)], temperature, passenger, consequently, purchase, possible, lcal, photograph
+* instead; s 다음의 t는 된소리이다; instead
+* 1음절 강세; author, comfortable, beverage, recognize, detour [-tʊr]  영국식 [ˈdiːtʊə(r)], temperature, passenger, consequently, purchase, possible, local, photograph
 * 2음절 강세: performance
 * 3음절 강세; individual, inconvenience, engineer, understand
 * Argentina;  [ɑ̀:rdƷəntí:nə], afghanistan [æfɡǽnəstæ̀n], Africa  [ǽfrikə], 칠레; [tʃíli], Hungary  [hʌ́ŋɡəri]

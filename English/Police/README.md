@@ -28,6 +28,8 @@
 * 누가 훔쳐갔나봐; somebody jacked us
   * 그녀는 도벽이 있다 She is a kleptomaniac [ˌkleptəˈmeɪniə] 
   * 걔 완전히 절도광이야. She's completely klepto. kleptomaniac의 줄임말로, 계속 물건을 훔치는, 도벽 있는 사람을 말해요. [klèptəméiniæ̀k] 
+  * 1) 같은 뜻으로 rob라는 단어가 조금 더 익숙하게 다가올 수도 있으실 텐데요. (robbery = 강도). rob 은 실제로 무언가를 빼앗는 걸 의미하는데, mug는 rob 을 좀 더 쉽게 하기 위한 공격, 또는 위협적인 행동을 하는 걸 의미합니다. 넓게 봤을 땐 강도 짓의 일환이기에 [강도 짓을 하다]로 해석이 되고요. 2) 그렇기에 rob의 대상은 사람뿐만이 아니라 장소도 될 수가 있지만 mug는 사람에게만 해당하고요. 또한 공개적인 장소에서의 강도 짓을 의미합니다.
+    * = 한 번은 공중 화장실에서 강도 당한 적이 있어. I was once mugged in a public toilet.
 * 오늘 바바리맨 봤어; i saw a flasher today
 	* 바바리맨에게 당했어요; i've been flashed so many times on the train
 * 수상한 남자를 데리고 있다; they've got this creeper guy

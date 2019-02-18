@@ -182,6 +182,7 @@
 	* 몇 시 기차야?	what time is your train?
 	* #식당칸이 어디에요?	Where is the dining car?
 	* #지하철 노선도를 주세요. 	I'd like a map of the subway, please. 
+	* 몇 번 라인을 타야 하나요? Which line do i take to get to Notting Hill
 	* 지하철 노선	subway line
 	* 지하철이 너무 늦게 왔어요	the subway comes so late
 	* 내가 버스 시간표 다운받을게			I'll download the bus timetable.

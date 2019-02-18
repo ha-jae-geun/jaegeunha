@@ -358,6 +358,9 @@
 * 또, 사춘기 시절을 awkward phase(직역: 어설픈/어색한 시기)라고 표현하기도 해요. 아직 정체성, 가치관, 취향 등이 자리 잡기 전이고 사회성도 좀 부족하기도 한 시기라 이렇게 부른답니다. 참고로 이 영상의 영어 제목이 Spider-Man Is Going Through An Awkward Phase(스파이더맨이 어설픈 시기를 겪고 있다)랍니다. 그래서 스파이더맨이 변성기를 연상시키는 이상한 목소리로 말하죠. ㅋㅋㅋ
                                 
 
+## advice
+* 고민상담 칼럼; Just reading advice columns
+
 ## adjust
 * 현미경을 조정하고 있다; They'er adjusting a microscope
 
@@ -466,6 +469,8 @@
   * = 난 너처럼 정말 괜찮은 사람하곤 어울리지 않아. I don't belong with such a nice person like you.
 
 ## belt
+* under one's belt는 벨트 아래에 있는 배를 의미하니, 뱃속에 무언가를 가지고 있는 모습의 표현이죠. 뱃속에는 먹은 음식이 들어가 있을 텐데, 본인 입으로 들어와서 온전히 자기 것이 된 음식의 모습을 비유적으로 보여주며, 이미 해 본 적이 있거나 성공한 경험을 가지고 있음을 의미합니다.
+  * = 샘은 보조 와인메이커로서 5년간 일한 경험을 가지고 있어요. Sam has 5 years of working experience as an assistance winemaker under his belt.
 * 비겁한 행동하다; It was definitely hitting below the belt
 * : 큰 소리로 노래부르다; belt out
   * 사람들이 영화 주제가를 큰 소리로 부르기 시작했다. People started to belt out the theme song of the movie.
@@ -1084,6 +1089,10 @@
 * = 좁은 견해를 가지다, 주변 사정에 어둡다 put blinders (blinkers) on; 미국에서는 blinders, 영국에서는 blinkers 라고 하는데요. 이는 말을 타고 갈 때 말이 주변의 사물에 주의를 잃지 않도록 눈가에 붙여두는 가죽을 의미합니다. put on 은 '입다, 쓰다' 라는 의미가 있으니, 눈가리개 가죽을 써서 다른 것을 못 보는 것을 의미하는데요.  비유적인 표현으로 쓰여, 주변에서 발생하는 일이나, 남의 의견을 인식하지 못하고, 하나에만 집중하고 자기 의견만 생각하는 모습을 의미해요. 영상에서는 문맥상 '주변에 다른 이성들을 잘 알지 못한다' 의 의미를 갖지만 좀 더 자연스럽게 '한 사람에게만 집중하지 않다' 로 해석이 되었습니다.
   * = 그녀와 사귈 때 그녀에게만 너무 집중했어. 모든 친구들이랑 연락이 끊겨버렸어. I put blinders on while being with her. I've lost contact with all of my friends.
 
+## blank
+* mind goes blank = 아무 생각도 나지 않는다
+  * = 그녀를 볼 때마다 머리가 하얘져. My mind goes blank whenever I see her.
+
 ## blast
 * (at) full blast: 최대치로 (속도, 음량, 성능 등)
   * 라디오 최대치로 켜 봐. Put the radio on at full blast.
@@ -1170,6 +1179,8 @@
 ## cylinder
   * #순조롭게 잘 돌아가다; #fire / #hit / #click on all cylinders
 
+## copy
+* 나한테 참조로 보냈잖아; You copied me in
 
 ## cozy
 * cozy in bed = 침대에서 편안하게 있는; cute and cozy in your bed 에서 귀여운 얼굴을 베개에 묻고 새근새근 자는 모습이 떠오르네요; 또한 I feel cozy / I am cozy / You look cozy 처럼 그런 편안함을 느끼는 사람이 주어가 될 수도 있습니다. cozy 미국식 철자 cosy 영국식 철자
@@ -1198,6 +1209,9 @@
   * 알루미늄을 재활용하기란 정말 쉽다. ex) Aluminum is a cinch to recycle. 
 * cinch는 원래 말에 안장이나 짐을 묶는 끈을 의미하는데 이 끈으로 단단히 묶은 모습을 빗대어 '확실한 일, 쉬운 일, 따 놓은 당상'을 일컫게 되었습니다. lead-pipe를 강세어로 사용하여 "That's a lead-pipe cinch!" (완전 쉬워!)라고 말하기도 해요~
   * 그녀가 틀림 없이 일빠로 끝낼 거야. She's a cinch to finish first. sɪntʃ]
+
+## cubicle
+* 칸막이 한 사무실; cubicle
 
 ## cue
 * : cue는 원래 연극이나 영화에서 배우의 연기 시작을 알리는 큐 (신호)를 뜻하는데, 이 표현에서 의미가 확장되어 '다른 사람의 행동을 본보기로 삼다, 배우다, 영향을 받다'라는 뜻으로 사용합니다.
@@ -1339,6 +1353,9 @@
 * 영국 경찰은 테러리스트를 잡기 위해 이탈리아 정보국과 협업하였다. (collaborate in –ing : 하는 것에 협업하다) The British police collaborated with the Italian Intelligence in catching the terrorists.
   * 그는 그의 동료들과 협업하여 그 책을 집필했다. (in collaboration with : 와 협업하여) He wrote the book in collaboration with his colleagues. 
   * 그 두 가수는 크리스마스 앨범을 함께 공동작업하였다. (collaborate on : 에 대해 협업하다) The two singers collaborated with each other on their Christmas album.
+
+### collab
+* 콜라보? collab?
 
 ## coast
 * coast는 명사로 '연안'이라는 뜻 외에도 '활강,' 즉, 비탈진 곳을 미끄러져 내려오는 것을 의미하기도 합니다~ 이와 연장선으로 동사에서는 미끄러지듯 '별 어려움 없이 성공하다, 잘 나간다'는 뜻을 갖습니다!
@@ -1629,6 +1646,9 @@
 ## crib
 * 1. 작은 (창고같은) 집; 2; 유아용 침대
 
+## crappy
+* 형편없다; i was crappy at my job
+
 ## cramp
 * 방이 좀 답답해요              This room is a little #cramped
 
@@ -1780,6 +1800,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 이 악물고 버텨. 넌 할 수 있어. Clench your teeth. You can do it.
 
 ## clear
+* 다 해치웠다(먹었따;); cleared it!
 * 1) clear the ground = 땅을 닿지 않고 날라가다; 문맥에 따라 ‘땅을 정리하다’가 될 수도 있지만 이 문장에서 clear 는 [닿지 않고 넘어가다] 라는 의미로 쓰였어요. 즉 fly 대신 표현한 말이죠. 
   * = 그들은 땅을 정리하고 그 곳에 집을 하나 지었다. They cleared the ground and built a house.
 * 그래서 재고 정리나 떨이 세일을 clearance sale 이라고 하고, 거기서 판매하는 물품들을 clearance item 이라고 한답니다 ^^ 저도 clearance sale 참 좋아하는데 슈퍼팬 분들은 어떠세요? ㅎ
@@ -2655,6 +2676,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * # fit through; : 아무도 거기에 들어갈 수 없어요. No one could fit through there. Fit through'는 '로 들어갈 수 있을 정도로 딱 맞다, 적절하다'
 
 ## fire
+* come under fire = 비판/비난받다
+  * = 그 회사는 비윤리적인 관행으로 맹비난을 받았다. The company came under fire for its unethical practices.
 * 보건부 장관이 사방에서 맹비난을 받게 되었다. The health minister has come/be under fire from all sides. 
 * “제가 몇 가지 질문이 있어요.” “좋아요, 그럼. 물어 보세요.” ‘I’ve got a few questions.’ ‘OK then, fire away.’ 
 * start a fire은 '불을 피우다'라는 초반의 행동에 중점이 가 있는 반면, set a fire는 누군가 '의도적으로 불을 지른다'는 데에 더 포커스가 맞춰 있습니다. 때문에 우연적인 요소로 불이 나거나, 요리나 보온 등 필요에 위해 불을 피우는 건 start를 사용하고, 누가 고의로 화재를 일으키는 경우에는 set을 사용하는 경우가 더 많죠. (물론 일반적인 경우 불을 피우는 것에 set을 쓰기도 해요.) 이처럼 비슷해 보이는 동사가 경우에 따라서 다르게 쓰이기도 한답니다~
@@ -2871,6 +2894,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 	* 형의 발자취를 따라, 나는 대학에서 공학을 공부 중이다. ex) Following in my brother's footsteps, I am studying engineering at college.
 * # 이행; '~을 완수하다, ~을 이행하다'라는 의미로, (중간에 어려움을 만날지라도) 끝까지 지켜나간다는 뉘앙스를 가진답니다~
     * 크리스는 계약을 이행하는 데 실패해서 법정에 서게 되었다. Chris was taken to court because he failed to follow through with his contract. [구동사] # follow through on/with sth
+
+### follow up
+* 다른 영업사원이 작업해 놓은 일을 사후관리해야 할까요? Will I have to follow up on other salesperson's leads? 듣기 출처:능률교육
 
 ## gnarly
 * gnarly는 원래 gnarled처럼 나무나 손이 울퉁불퉁하고 뒤틀린 모습을 표현하는 말인데 점차 젊은 층 사이에서 '불쾌한, 형편없는'이라는 부정적인 뜻과 '대단한, 끝내주는, 훌륭한'이라는 긍정적인 어감을 지닌 뜻, 두 가지 상반된 의미 모두 다 표현할 수 있어요~ 강조하거나 극적인 느낌으로 말하고 싶을 때 사용해요.  * 발음은 '그날리'가 아닌 '날리'랍니다~^^ 프로도의 발음으로 다시 들어보시죠!
@@ -3135,6 +3161,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 원디렉션 팬 무리/덕후 [ex] One direction groupies
 
 ## ground
+* 일주일 외출금지야; You are grounded one week
 * 1) clear the ground = 땅을 닿지 않고 날라가다; 문맥에 따라 ‘땅을 정리하다’가 될 수도 있지만 이 문장에서 clear 는 [닿지 않고 넘어가다] 라는 의미로 쓰였어요. 즉 fly 대신 표현한 말이죠. 
   * = 그들은 땅을 정리하고 그 곳에 집을 하나 지었다. They cleared the ground and built a house.
 * 서로의 공통점을 발견할 기회이기도 하고; FInd some common ground
@@ -3676,6 +3703,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * do one's homework = 철저히 조사하다, 준비하다; 숙제를 하는 것이 꼭 해야 하는 일을 하는 것이라는 점에서 비유적으로 쓰이게 된 속어로, 무언가에 대해서 철저하게 학습하고 조사하여 그것에 대해서 잘 알고, 잘 다룰 수 있는 것을 의미하는 표현입니다.
   * = 제대로 조사해 온 사람은 저 밖에 없어 보이네요. It looks like I'm the only one who did my homework.
 
+## hail
+* 그는 택시를 잡고 있따; HE is trying to hail down a cab
+
 ## hair
 * (화가 난 상대방에게 하는 말로) 진정해라 keep your hair on 미국식  영국식   단어장추가
 
@@ -3792,6 +3822,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ### hang on
 * : 잠깐만요. Hang on; Hang on a second.
+
+## inmate
+* 정신적으로 불안한 재소자 an inmate who is mentally disturbed. 듣기 출처:Collins
 
 ## inclement
 * #궂은 날씨 in·clem·ent ; inclement weather conditions
@@ -4322,6 +4355,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## muck
 * muck around 또는 muck about 이라고 하는 표현은 조금 유치하고 엉뚱한 방식으로 종종 해야할 일을 안하고 시간 낭비하며 노는 것을 의미합니다. 비격식 표현입니다.
   * 내가 잭을 볼 때마다 그는 핸드폰을 가지고 빈둥대고 있다. ex) Whenever I see Jack, he's mucking around with his phone.
+
+## mull
+* 내가 결정을 내리기 전에 그것에 대해 숙고할 시간이 좀 필요하다. I need some time to mull it over before making a decision. 
 
 ## mulligan
 * mulligan: 첫 번째 시도가 좋지 않아 다시 받게되는 두 번째 시도 골프에서 유래한 표현으로, 원래는 Mulligan이라는 성을 가진 사람이 친구들과 골프를 치고 있는데 첫 번째 샷이 실패해서 새로 샷을 하려고 하자, 친구들이 뭐하는 거냐고 물었더니 'Mulligan이야,' 라고 말했던 일화에서 나온 표현입니다. 이제는 대문자가 아닌 소문자로 사용하는 흔히 접할 수 있는 단어가 되었죠! take/get a mulligan: 두 번째 기회를 갖다 
@@ -5272,6 +5308,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * # 실행; 'put (sth) into practice'는 우리말 '[무엇을] 실행에 옮기다' '실천하다'를 잘 나타낼 수 있는 영어표현이에요! 쓸모가 많겠죠?
   * 이게 내 아이디어들을 실행에 옮길 기회야. [ex] This is my chance to put my ideas into practice.
 
+## procure
+* 특별히 중요한 물건을 구해다 주면 돼; I need you to procure an item of particular importance; procure: 어렵게 구하다
+
 ## proof
 * 방음벽; install soundproof walls
 
@@ -5909,6 +5948,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## rage
 * 동사 'rage'는 본래 '격렬히 화를 내다' '(폭풍, 전투, 언쟁 등) 맹렬히 계속되다' '(질병, 화재 등) 급속히 번지다'의 뜻을 가집니다. 무언가 몰아치는 심상이죠? 그래서 slang으로는 '걷잡을 수 없게 놀다'라는 의미를 가지게 되었어요. 'let's get/go wild'도 유사한 의미랍니다.
   * 숨막히는 회사 때문에 죽겠어. 가서 달리자! This stuffy office is killing me. Let's go rage!
+
+## rack
+* (사업상의 수익·손실을) 보다[얻다], (시합에서 점수를) 쌓아올리다; 그 회사는 2년 만에 2억 달러의 손실을 보았다. The company racked up $200 million in losses in two years; rack up something
 
 ## race
 * # racey; 짜릿한
@@ -6667,6 +6709,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## storm
 * '폭풍' 으로 가장 잘 알려진 storm 은 무언가가 빠르고 강렬할 때 비유적으로도 많이 쓰입니다. take ~ by storm 도 마찬가지로 누군가의 마음을 단번에 사로잡거나, 순식간에 성공을 거두는 것을 의미할 때 많이 쓰이는 표현입니다.
 	* = 2018년에 BTS 는 그들의 음악과 공연으로 전 세계를 단번에 사로잡았다. In 2018, BTS took the world by storm with their music and performance.
+
+## sleep
+* talk in one’s sleep = 잠꼬대를 하다; 영어로 ‘잠꼬대’는 간단해요. 의미대로 풀어서 “자는 도중에(in sleep) 말하다(talk)” 라고 하면 됩니다.  그렇다면 ‘몽유병’은 무엇일까요? 역시 같은 원리로 walk in sleep 혹은 sleepwalk 이라고 하면 됩니다. 
+  * = 그녀는 잠꼬대를 하는 버릇이 있어. She talks in her sleep.
 
 ## sleeve
 * 이 표현은 비밀스런 계획이나 생각, 정보 등을 아무에게도 말하지 않고 나중을 위해 숨겨둔다는 뜻입니다. 우리말로는 ‘꿍꿍이가 있다’ 정도가 될텐데요, 직역을 해봐도 소매(sleeve)에 무언가를(something) 갖고있다(have)는 것으로 몰래 숨겨둔다는 뉘앙스가 느껴집니다. [have something up your sleeve]

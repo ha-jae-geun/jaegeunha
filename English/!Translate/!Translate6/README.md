@@ -1,3 +1,47 @@
+# 영어 연습가이드 #43 - I think that, I figured that, I assume that, I guess that, I feel like
+* 와, 너 진짜 모아둔 돈 여기에 다 쓸거야?
+  * Wow, are you really going to spend all your savings on this?
+* 음, 이왕 이걸 할거면 할 수 있는 것은 다 해봐야겠다 싶더라고.
+  * Well, I figured (that) if I'm going to do this, I might as well try everything I can; 계산하다: figure
+* 그게 유일하게 후회하지 않는 방법인거 같아. 
+  * I think (that) that's the only way I won't have any regrets.
+* 돈이야 나중에 얼마든지 벌 수 있겠지.
+  * And I'm assuming (that) I can always make more money later on, you know?
+    * 기존에 가지고 있던 경험으로 예상: assume; 일반적인 추측; 있겟죠.
+* 약간은 무모한 것 같긴 한데 이건 흔한 기회는 아닌 것 같아.
+  * I guess I'm being a little reckless but this seems like a rare opportunity and 
+    * guess: 전에는 이것에 대해 생각해본적은 없지만 지금 생각해보니 -겠다 추측
+* 나한테 정말 좋은 경험이 될 수 있을 것 같아.
+  * I feel like it can be a really good experience for me.
+  * i think: 내 의견; i feel like: 나의 직관적인 느낌
+ * I figured that  (생각하는 과정) 계산하다.
+ * That figures.
+ *  아 그렇구나. 어쩐지. (계산이 들어맞다.)
+ * 
+ * I think that  내 관점, 내 생각이야.
+ * I assume that (기존에 가지고 있는 경험을 토대로 예상할 수 있는 것을 바탕으로)  예상이나, 기대, 추측하다.
+ * I guess that 추측하다. 전에는 깊에 생각해보지 않았지만, 지금 생각해보니, 이런거겠지... 이런거라고 추측하다.
+ * I feel like 직관적인 느낌. (내 느낌에)...
+ *  인 것 같아.
+ * 
+ * spend money, time on N 돈이나 시간 따위를 ---에 쓰다.
+ * spend money, time V-ing
+ *  돈이나 시간 따위를 ---를 하는 데에 쓰다.
+ * one's savings 누가 모아둔 돈
+ * 
+ * might as well 이왕 ---하는 거, ---하는 게 낫다.
+ * 이 표현이 쓰이는 문장 이전의 문장과 묶어서 생각해야 함.
+ * 
+ * can always 언제나 – 항상보다는 '언제나'가 더 가까운 어감.
+ * later / later on
+ * later on은 later 보다 더 긴 시기를 전제로 하는 이야기임.
+ * 
+ * Be + 형용사
+ * 특정 태도나 성질을 동반한 행동을 나타낼 때 자주 사용되는 표현 방식.
+ * Stop being so negative.
+ * 자꾸 그렇게 부정적으로 굴지 좀 마.﻿
+
+
 # 영어 연습가이드 #004 - (어디에서) 메일이 왔어 / 연락을 안하고 지냈었어 / 통화를 몇 번했어 / 자주 연락하고 있어
 * "1주일 전쯤에 예전에 알고 지냈던 친구한테서 메일이 하나 왔어요.  
   * About a week ago, i got an email from an old friend
