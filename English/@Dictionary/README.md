@@ -1794,6 +1794,9 @@
 * 내숭 떤다 #coy; be/act coy = #prim = prudish
 * 내숭 떨지마 don’t play innocent
 
+# 냉소적인
+* wry 미국·영국 [raɪ]; dry; sardonic; 그리스 로마신화[sɑːrˈdɑːnɪk] ; sarcastic
+
 # 넘어가다
 * 무언가 문제가 있거나, 실수를 했다거나, 좀 당황스러운 상황일 때 대충 얼버무리고 빨리 지나가려는 걸 의미하는 표현입니다.
 	* = 이건 대충 얼버무리고 넘어갈 문제가 아니에요. 저희는 당신의 확실한 답변을 원합니다. This is not an issue you can gloss over. We want a definite answer from you.
@@ -1947,6 +1950,7 @@
 
 # 뉴스
 * # 소식을 알리다; break the nws; 파편이 퍼지는 모습에서 유래; 소식을 알리기 위해 부모님을 찾았다. i went my parents to break the news
+  * 최근 소식좀 공유해주시겠어요? Could you give us the latest on the Square project?
   * #소식, #뉴스; #tiding
   * #속보; #news flash; #flash
   * 1) break the news (to some one) : 누군가한테 중요한 뉴스(일반적으로 나쁜 소식)를 전하다. 
@@ -1975,6 +1979,10 @@
 # 느낌
 * 명사 aesthetic은 미 혹은 미술과 관련된 일련의 원칙을 뜻하는데요, 요즘 젊은 사람들은 이 말을 '분위기', '톤', '테마' 혹은 '보기 좋은 것', '예쁜 것'이란 뜻으로 사용하고 있어요. 특히 블로그 SNS 텀블러에서 많이 유행을 탄 말이죠. 이 장면에서 소피가 말하는 aesthetic은 '왕좌의 게임' 극중 인물 산사가 사는 북쪽 지방의 분위기, 느낌을 뜻해요. 북쪽이라 날씨가 춥고 우중충하거든요. 그래서 그쪽 분위기랑 선글라스랑 어차피 어울리지도 않을 거란 뜻입니다.
   * 이런 느낌 너무 좋다! [ex] I love this aesthetic!
+* # 꺼끌하다; It feels so prickly
+* # 물렁하다; How squishy they are
+  * # 미끄럽다; # slimy
+  * # 부드럽다; This is silky
 
 # 능력
 * 여기서 what it takes 는 돈, 재능, 미모 등과 같이 ‘성공하는데 들어가는 것’을 가리키고 그걸 가지고 있으니까 ‘자질이 있다, 능력을 갖추다’를 의미하는 것입니다.
@@ -4464,7 +4472,7 @@ retaliate
 # 사기
 * [사기, 의욕] 은 영어로 morale 이라고 합니다. 그래서 사기를 높이는 것, 즉 [사기 진작]은 morale-boosting 이라고 하죠. [사기를 높이다] 라고 할 때 동사는 boost 뿐만 아니라 bolster, raise, improve 등을 쓰기도 합니다. 
   * = 코치는 선수들의 의욕을 높이고자 하였다. The coach tried to bolster up their morale.
-* # 사기꾼; 다른 사람 행세를 하는) 사기꾼; imposter
+* # 사기꾼; 다른 사람 행세를 하는) 사기꾼; imposter; scam artist
 
 # 사명감
 * 저는 여기 있어야 한다는 사명감을 느껴요; i feel a calling to be here
@@ -5059,6 +5067,7 @@ retaliate
   * #breath: 명사, #breathe: 동사;, #호흡 ##숨 ##breath
 
 # 쉬다
+* 목이 쉬다; hoarse; 원래 목소리가 허스키: husky; Her voice was husky with anger
 * 컴퓨터가 갑자기 작동이 안 되고 멈췄을 때 우리말로도 컴퓨터 '다운됐다'라고 하는데요. 컴퓨터 등이 작동을 하다가 멈춰서 쓸 수 없는 동안의 시간을 downtime이라고 하기도 합니다. 비슷하게 누군가 한창 일을 하다가 안 하고 쉬는 시간을 downtime이라고 한답니다.
 	* = 모두가 긴장을 풀 쉬는 시간이 필요해요. Everyone needs downtime to unwind.
 * ^^#winddown; 스트레스 마음을 쉬게 해줄 때 사용 <> rest: 몸을 쉬게 해주는 것
@@ -5094,6 +5103,9 @@ retaliate
 # 소란
 * 소란피우다; cause a scene/fuss/ruckus
 * 그 소문은 사무실 내에서 큰 소란을 일으켰다. ex) The rumor caused such a ruckus in the office.
+
+# 스페인어
+* 멕시코 만세; so viva Mexico
 
 # 습관
 * 좋은 습관 만드는법; how to build good study habitss

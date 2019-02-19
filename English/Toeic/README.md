@@ -18,6 +18,10 @@
 * enclosed/attached/included
 * be provided / be sent with / come with / along with 
 
+# 돈 가만명사
+* fund, refund, discount, cost, expense, price, rate, toll, fare, fee
+	* Store doesn't issure refunds for 
+
 # 단어
 * 이력서; Curriculum vitae
 * 배우와 제작진; with the cast and crew; 토익 어플
@@ -760,6 +764,7 @@ save write design
 *  the/소유격 + 최상급 표현 + (명사 생략 가능)
 *  최상급 강조 부사: yet, ever, until now: 지금까지
   * available, possible
+
 
 * 최상급의 쓰임
 * 최상급+possible 가능한 ~한

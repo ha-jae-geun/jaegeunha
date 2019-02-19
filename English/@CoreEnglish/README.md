@@ -106,6 +106,17 @@
 * need you to do; 니쥬쥬쥬 something for me; 섬닝
 * i need you to talk to your sister; to talk 투턱 리듬
 * age, cage, beige; e를 모음으로 읽지 않고 자음만 발음; biology, allergy; gy발음; allergic; 강세 뒤
+- 스티븐이 회으를 소집했는데, 뭔가 큰게 터진거 같아; Stevens called a meeting, and I think something big might be up. 
+* Stevens 공기 많이; called: 공기가 탁 트이듣이 + 입안 깁숙한 '어' 발음, and i thing something: 호흡 끊기, big: 입술 빡, might be up: 소리 자르기(숨 참긴)
+* I'm really looking forward to; really: 복식; looking; 루끈; 숨참고; forward: 입술 모으고 풀면서; to it: 호흡 뱉으면서
+* 네가 계속 원하던 거잖아; THis is what you always wanted; wanted: 입안 안에서 발음; wanted: 아주 작은 d 발음
+* 그 어색한 기운을 풀려고 노력해요; i try to get rid of that awkward feeling
+* 안전을 위해서 각자 차를 운전해어요; we each drove our-self for sfety reasons
+
+
+## 강세
+* mistake; 뒤 강세
+* campaign; 뒤 강세
 
 # th
 * 혀를 앞니 뒤에 넣고 떨어뜨려도 비슷한 발음이 난다
@@ -150,30 +161,30 @@
 * ⦁#missle 미쓸
 * ⦁#lingerie 란저뤠이
 * ⦁#mascot 매스껏
-* ⦁#buffets 버페이
-* ⦁#cocoa 코코
-* ⦁#boomerang 부머뤵
+* ⦁#buffets 버페이  [bəˈfeɪ]
+* ⦁#cocoa 코코  [ˈkoʊkoʊ] 
+* ⦁#boomerang 부머뤵  [ˈbuːməræŋ]
 * ⦁#whip cream 윕크림
-* ⦁#careml 캐러멜
+* ⦁#careml 캐러멜  [ˈkærəmel]
 * ⦁#theme 띠임
 * ⦁#mobile 모블
-* ⦁#encore 앙코얼
-* ⦁#valet 발레이
-* ⦁#bouqet 보케이
-* ⦁#camera 캐므롸
+* ⦁#encore 앙코얼 [ˈɑːŋ-]  영국식 [ˈɒŋkɔː(r)]
+* ⦁#valet 발레이  [ˈvæleɪ;ˈvælɪt;美또한væˈleɪ] 
+* ⦁#bouqet 보케이 [buˈkeɪ]
+* ⦁#camera 캐므롸 [ˈkæmərə]
 * ⦁genre 미국식 [|Ʒɑ:nrə] 좐롸
 * ⦁#Olympic [ə|lɪmpɪk]: 올림픽의 (참고: Olympics [əlímpiks]: 올림픽) 2번째 강세
 * #횃불; #Torchbearer; the flame for the 2018 winter
 * ⦁#Brazil [brə|zɪl]: 브라질; 2번째 강세
 * ⦁#bald[bɔ:ld] #bold [boʊld]
 * ⦁#cook #kook(괴짜)
-* ⦁omnipotent; 전능한 impotent; 발기 불가능한
+* ⦁omnipotent; 전능한 ɑːm-]  영국식 [ɒmˈnɪpətənt]  impotent; 발기 불가능한  [ˈɪmpətənt]
 * ⦁#thing 띈
 * ⦁#bus #boss boss 보오스 턱이 더 많이 내려감
 * ⦁##poor #pour 곰돌이 푸 가난하다
 * ⦁##man #men man: 장음 매엔 men: 단음 맨
 * ⦁#feel[feel]; 더 긴 발음 #fill [fil]
-* ⦁#cooperate ⦁corporate [koh-op-uh-reyt] [kawr-per-it, -prit] 레잇은 동사
+* ⦁#cooperate ⦁corporate [koh-op-uh-reyt] [kawr-per-it, -prit] 레잇은 동사   [ˈkɔːrp-]  영국식 [ˈkɔːpərət] 
 * ⦁#bed #bad #dead #dad [dӕd]; 더 발음이 길다
 * ⦁#cloth [klɔ:θ] #clothes [kloʊðz;kloʊz]
 * ⦁stationaries ['steiʃənəri]: 움직이지 않은 sta·tio·nery [stéiʃənèri]: 문구류
@@ -210,21 +221,21 @@
 
 # 기타
 * Salmon; 새먼; l 묵음
-* almond; l 묵음
-* mature; 머추럴; a가 어 사운드
+* almond; l 묵음  [ˈɑːmənd] 
+* mature; 머추럴; a가 어 사운드 -ˈtʃʊr;-ˈtʊr]  영국식 [məˈtʃʊə(r);-ˈtjʊə(r)] 
 * vegetable; e발음 없다; 베g터블
-* infamous; 인퍼머스
+* infamous; 인퍼머스  [ˈɪnfəməs] 
 * ⦁#go to hell; 고러헤엘
 * ⦁#hermione; 헤르미온느; 헐마‘이어니
 * ⦁#stingy; 스팅이; 톡쏘는 스띈쥐; 인색한 사람, 검소한 사람
-* ⦁#calcium 캘쉬움
+* ⦁#calcium 캘쉬움 [ˈkælsiəm]
 * ⦁#vietnam 비엣남
 * ⦁#Bodyguad; 바디가드
 * ⦁#specifically; s는 무성음 p가 성대 울려서 p부터 발음; 페시피컬리
 * ⦁mature 미국식 [mə|tʃʊr;mə|tʊr]; 머춸
 * ⦁salmon 미국·영국 [|sӕmən]; l이 묵음
 * ⦁#finish [|fɪnɪʃ] #finished [|fɪnɪʃt] 3음절 아니라 2음절 쉬드 xx
-* ⦁#Renaissance ‘레너산스
+* ⦁#Renaissance ‘레너산스  [ˈrenəsɑːns]
 * ⦁#wheelchair 우윌 췌얼
 * ⦁#eiffel top 아이펄 타월
 * ⦁#satan ‘세이튼
@@ -259,7 +270,7 @@
 * ⦁leopard [|lepərd]
 * ⦁basic [|beɪsɪk]
 * ⦁#genre: [|Ʒɑ:nrə]
-* ⦁#collagen: [|kɑ:lədƷən]
+* ⦁#collagen: [|kɑ:lədƷən]  콜라겐
 * ⦁#eraser [iréisər]
 * ⦁#Aloe [|ӕloʊ]
 * ⦁#profile [|proʊfaɪl]
@@ -407,24 +418,13 @@
 * Bon Voyage [ˌbɑːn vɔɪˈɑːʒ] 여행 잘 다녀오세요 (여행을 떠나는 사람에게 하는 인사말)(거리개념)﻿
 
 
-## 문장
-- 스티븐이 회으를 소집했는데, 뭔가 큰게 터진거 같아; Stevens called a meeting, and I think something big might be up. 
-* Stevens 공기 많이; called: 공기가 탁 트이듣이 + 입안 깁숙한 '어' 발음, and i thing something: 호흡 끊기, big: 입술 빡, might be up: 소리 자르기(숨 참긴)
-* I'm really looking forward to; really: 복식; looking; 루끈; 숨참고; forward: 입술 모으고 풀면서; to it: 호흡 뱉으면서
-* 네가 계속 원하던 거잖아; THis is what you always wanted; wanted: 입안 안에서 발음; wanted: 아주 작은 d 발음
-* 그 어색한 기운을 풀려고 노력해요; i try to get rid of that awkward feeling
-* 안전을 위해서 각자 차를 운전해어요; we each drove our-self for sfety reasons
-
-## 강세
-* mistake; 뒤 강세
-* campaign; 뒤 강세
-
 # heteronym
 * heteronym 미국·영국 [ˈhetərənɪm]; 동철 이음 이의어(철자는 같으나 음과 뜻이 다른 단어). 예를 들어 ‘찢다’는 뜻의 tear와 ‘눈물’이라는 뜻의 tear
 
 ## st
 * 츠츠; We became like ghosts
 * Distinguished guests, Ghosts; BTS 연설 발음
+
 ## ed
 * 과거형 동사발음; launch; 동사 발음을 정확하게 하고 뒤에 ed를 넣는 느낌
 * 드는 돈; cost; It costs 5000won; 코씉쓰; st발음은 모음만 뺀 발음이 ㅏ야한다
@@ -477,7 +477,7 @@
 * 유성자음
 ---------------
 
-* 복수 s: *parents(윗니에 츠하고 바람 내뱉어주기)
+* 복수 s: parents(윗니에 츠하고 바람 내뱉어주기)
 * 모음 앞의 #S
 * 뒤에 say도 /세이/가 아닌 /쎄이/로 모음 앞의 s는 ‘쎈언니’ 발음 해 줍니다. 
 * I can't say. 그래서 /아이 캐앤~ 쎄이/ 이구요, 영국식 /아이 카~안 쎄이/
@@ -485,26 +485,26 @@
 * #sh; 입을 쭉 내밀고 쉬; shy, shine, wash
 
 
-* #ss
+# ss
 * pressure, 'preʃə(r) : 1음절 강세이고 중간에 ss발음이 쉬발음이 된다.
 
-* #tion
+# tion
 * tution free tu'ɪʃn fri, 수업,등록금 : tion이 S발음이다.
 
-* ##u; u 발음을 튕겨준다 = 이유; bus, duty, cute, united
+## u; u 발음을 튕겨준다 = 이유; bus, duty, cute, united
 
 
-* ##v: 준비동작 ‘으’; very, vow, visa, voice
+## v: 준비동작 ‘으’; very, vow, visa, voice
 
-* #w
+# w
 * w발음은 한국어에 없는 발음이므로 주의한다.
 * w의 발음은 소리는 없이 입술을 둥글게 모아서 발음할수록 정확한 발음이다
 * wonderful , 'wʌndərfl 
 * #we're 월
 
-* ##x 이를 앙 물과 진동소리(Z발음)을 내준다); xerox, #xylitol, #xylophone
-* ##y: ‘이’라는 소리를 작게 내준다.
-* ##z; 앙 다물고 -> 혀끝을 앞니에 살짝 대고 진동소리를 내준다; zoo, zip, zero
+## x 이를 앙 물과 진동소리(Z발음)을 내준다); xerox, #xylitol, #xylophone
+## y: ‘이’라는 소리를 작게 내준다.
+## z; 앙 다물고 -> 혀끝을 앞니에 살짝 대고 진동소리를 내준다; zoo, zip, zero
 
 * #19
 * ‘naɪn’‘ti:n 2음절에 강세
@@ -530,10 +530,10 @@
 * ##Repect
 * ##sensible; #지각있는, 현명한; sensible man
 * #sensitive; #민감한, #예민한; sensitive skin
-* #sensual; #육감적인; sensual lips/voice
+* #sensual; #육감적인; sensual lips/voice ˈsenʃuəl]
 * ##sensi
 * #historic remains; 사적 유물
-* #historical; 역사에 관한; historical novel; historical documents
+* #historical; 역사에 관한; historical novel; historical documents -ˈstɔːr-;-ˈstɑːr-]  영국식 [hɪˈstɒrɪkl]
 * #historic
 * [krédǝbəl] ##credible: 믿을만한; credible witness/evidence
 * [krédʒǝlǝs] ##credulous; 쉽게 믿는; credulous person
@@ -578,21 +578,21 @@
 * ##personal;[pə́ːrsənəl #개인의; takes a personal interest
 * ##personnel; [pə̀ːrsǝnél] #직원, #인력(명사형); military personnel
 
-* ##precise; #정확한; precise moment
+* ##precise; #정확한; precise moment  [prɪˈsaɪs]
 * ##precious; #귀중한; precious commodity
-* ##previous; #이전의; previous experience
+* ##previous; #이전의; previous experience  [ˈpriːviəs] 
 
-* ##memorable; #잊지 못할; memorable event
-* ##memorial; #기념의; the war memorial was dedicated to; 전쟁 기념비; #memorial service; #추도식
+* ##memorable; #잊지 못할; memorable event  [ˈmemərəbl]
+* ##memorial; #기념의; the war memorial was dedicated to; 전쟁 기념비; #memorial service; #추도식 [məˈmɔːriəl]
 
-* ##desirable; #바람직한; ~ is desirable aim
+* ##desirable; #바람직한; ~ is desirable aim  [dɪˈzaɪərəbl
 * ##desirous; [dizáiərǝs]; #원하는; the duke is desirous of meeting you
 
 * ##eminent; [émǝnǝnt]] #유명한; eminent historian; #역사학자
 * ##imminent; [ímǝnǝnt] #긴급한; imminent arrival
 
 * ##favorite; 좋아한ᅟᅳᆫ
-* ##favorable; 호의적인; receive favorable reviews
+* ##favorable; 호의적인; receive favorable reviews 국 [féivərəbl]
 
 * ##ingenious; [indʒíːnjǝs]] #기발한; 사람 is ingenious
 * ##ingenuous [[indʒénjuːǝs]; ingenuous solution
@@ -610,18 +610,18 @@
 * ##royal; [rɔ́iǝ] #왕실의; #royal family
 
 * ##proper; proper documentation
-* ##prosper; companies prospered at that time
+* ##prosper; companies prospered at that time  [ˈprɑːs-]  영국식 [ˈprɒspə(r)]
 
 * ##sacred; #성스러운; sacred temples
 * ##scared; #무서워하는; scared of spiders
 * ##scarce; [skεǝrs]; #부족한, #드문; food is often scarce
 
-* ##periodic; #주기적인; suffer periodic mental breakdowns
-* ##periodical; #정기간행물; 명사; sent a contribution to a periodical
-* #정기권; #monthly pass = #season ticket
+* ##periodic; #주기적인; suffer periodic mental breakdowns  [ˌpɪriˈɑːdɪk] 
+* ##periodical; #정기간행물; 명사; sent a contribution to a periodical  [ˌpɪriˈɑːd-]  영국식 [ˌpɪəriˈɒdɪkl]
+* #정기권; #monthly pass = #season ticket 
 
-* ##persuadable; #설득할 수 있는; more persuadable than
-* ##persuasive; #설득력있는; #persuasive arguments
+* ##persuadable; #설득할 수 있는; more persuadable than  [pərswéidəbl] 
+* ##persuasive; #설득력있는; #persuasive arguments  [pərˈs-]  영국식 [pəˈsweɪsɪv] 
 
 * ##conscious; [kάnʃǝs/kɔ́n- #의식하는; conscious of his body
 * ##conscience; [kάnʃəns/kɔ́n-; #양심; guilty conscience
@@ -631,30 +631,30 @@
 * #sanative 미국·영국 [sǽnətiv] 
 * ##healthy; #건강한; health child
 
-* ##luxurious; #호화로운; #luxurious house
+* ##luxurious; #호화로운; #luxurious house [-ˈʒʊr-]  영국식 [lʌɡˈʒʊəriəs] 
 * a #swanky hotel 호화로운 호텔
-* ##luxuriant #풍부한; luxuriant plants
+* ##luxuriant #풍부한; luxuriant plants   영국식 [lʌɡˈʒʊəriənt] 
 * ##luxury; 사치품; 사치; a luxury cruise
 
-* ##objective; #객관적인; objective test
+* ##objective; #객관적인; objective test  [əbˈdʒektɪv]
 * ##objection; #반대; his objection against the plan
 
-* ##advisable; #타당한; #바람직한; it is not advisable
-* ##advisory; #조언하는; #advisory committe; #자문 위원회
+* ##advisable; #타당한; #바람직한; it is not advisable [ədˈvaɪzəbl] 
+* ##advisory; #조언하는; #advisory committe; #자문 위원회  [ədˈvaɪzəri]
 * ##general 일반적인; #general concern
-* ##generous; #관대한' jane has been very generous
+* ##generous; #관대한' jane has been very generous ˈdʒenərəs] 
 
-* ##literary; #문학의; literary critic; #literary style; #문어체
+* ##literary; #문학의; literary critic; #literary style; #문어체 [-reri]  영국식 [ˈlɪtərəri]
 * ##literacy; [lítərǝsi] 읽고 쓸 수 있느 능력; improve adult literacy; [lítərǝsi]
-* ##literate; 읽고 쓸 수 있는; computer literate
-* ##literal; #문자 그대로의; literal translation; #직역
+* ##literate; 읽고 쓸 수 있는; computer literate [ˈlɪtərət] 
+* ##literal; #문자 그대로의; literal translation; #직역 [ˈlɪtərəl]
 
-* ##moral; #도덕적인; moral woman
-* ##morality; #도덕; public morality
-* ##mortal; 치명적인; mortal injury
-* ##mortality; 죽어야 할 운명; mortality rate; #사망률
-* #비도덕적인; #sordid
-* #high moral = #ethical
+* ##moral; #도덕적인; moral woman   [ˈmɔːr-;ˈmɑːr-] 
+* ##morality; #도덕; public morality  [məˈræləti] 
+* ##mortal; 치명적인; mortal injury ˈmɔːrtl]
+* ##mortality; 죽어야 할 운명; mortality rate; #사망률  [mɔːrˈt-]  영국식 [mɔːˈtæləti]
+* #비도덕적인; #sordid [ˈsɔːrdɪd]
+* #high moral = #ethical [ˈeθɪkl]
 
 * ##natural [nǽtʃərǝl]; natural substance
 * ##neutral [njúːtrǝl]; country remained neutral
@@ -662,14 +662,14 @@
 * ##major; major cause
 * ##majority; majority of ~
 
-* ##preventive; #예방적인; pollution-preventive; preventive measures; #예방책
+* ##preventive; #예방적인; pollution-preventive; preventive measures; #예방책  [prɪˈventɪv]
 * ##preventable; #예방할 수 있는; ~ are #preventable
 
-* ##argumentative; #논쟁을 좋아하는‘ argumentative writing
-* ##arguable; #주장할만한, 논쟁할 여지가 있는; it is arbuable whether it's true or not
+* ##argumentative; #논쟁을 좋아하는‘ argumentative writing  [ˌɑːrɡ-]  영국식 [ˌɑːɡjuˈmentətɪv]
+* ##arguable; #주장할만한, 논쟁할 여지가 있는; it is arbuable whether it's true or not  [ˈɑːrɡ-]  영국식 [ˈɑːɡjuəbl]
 
-* ##confidential; remain confidential
-* ##confident; be a more confident
+* ##confidential; remain confidential [ˌkɑːn-]  영국식 [ˌkɒnfɪˈdenʃl]
+* ##confident; be a more confident ˈkɑːn-]  영국식 [ˈkɒnfɪdənt]
 * #confide in; 비밀을 털어놓다
 
 * ##exciting; 흥미진진한

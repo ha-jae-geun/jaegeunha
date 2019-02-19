@@ -9,6 +9,7 @@
                                 
 
 # 배
+* 부두; being docked at a pier
 * #선장 #captain #선원 #crew
 * #선박의; #nautical; #해상의
 * #선회 #급선회 #sharp turn(#turn)

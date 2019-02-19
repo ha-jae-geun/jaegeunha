@@ -153,6 +153,9 @@
 * 10 to 11 o'clock
 * come with me: 함께 움직이는 느낌;  come to me; 나한테 오는 느낌; 일방 통행
 
+## those
+* -하는 사람들 those (who)
+
 ## though
 * 놀라움; it's good though; 문장 끝에 붙이기; 발음할 때 위로 올려서
 
@@ -440,6 +443,12 @@
  * If you have any questions, feel free to ask. 
  * ##any# #some#
 
+### something
+* ☆Something about ⓝ makes ⓝ so ⓐ ☆; = Something about / his shoulders / makes / him / so unique.
+  * = 그는 목소리 때문에 되게 섹시한 것 같아. ①Something about (___) makes (___) so (___).  ① his voice / him / sexy  
+  * = 그녀는 머릿결은 진짜 매력적인 것 같아. ②Something about (___) makes (___) so (___). ② her hair / her / attractive
+  * == 난 그녀의 눈을 보면 뭔가 좀 불안해져. ③Something about  makes (___) so (___). ③ her eyes / me / nervous
+                                
 
 ## angle
 * 세상의 쓴맛 단맛을 다 안다; he knows all the angles
@@ -1492,6 +1501,9 @@
     * 우리는 하루종일 수다를 떨었다. ex) We were wagging our chins all day.
     * 그들이 물가에서 수다떨고 있는 걸 봤어. ex) I saw them chinwagging by the water.
 
+## chill
+* 엄청 쿨해요; Everybody's super chill
+
 ## child
 * childish, juvenile, still #immature
   * He's childish/cheesy. 그 친구 참 #유치해 뭔가 성숙하지 못한 모습이 childish입니다.
@@ -1982,6 +1994,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 *  입 닥쳐. Dry up.
 
 
+## deduct
+* (보험) 급여공제 deduct from the salary 미국식  영국식   단어장추가
+
 ## degree
 * pursue a degree; 
   * 그리고 저는 저에게 가장 실용적인 것을 택했어요. 그래서 저는 콜라보 피아노 전공을 택했어요 And I decided that the most practical thing for me to do would be to pursue a degree in Collaborative Piano. 
@@ -2304,6 +2319,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ### drop top
 * 차 지붕을 헝겊이나 비닐 같은 재료로 만들어 승용차 지붕을 접었다 폈다 할 수 있는 승용차 [본문으로]
 
+## effect
+* effect on; eccectives of; effective
+
 ## extra
 * 부사 'extra'는 다른 형용사나 부사를 꾸며 '각별히' '특별히'라는 뜻을 부여합니다.
   * 이 건 각별히 조심해서 다뤄. [ex] Be extra careful with this.
@@ -2618,11 +2636,13 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * the fun of --ing; - 하는 재미
 
 ## function
+* 주로 동사로 쓰일 때 1형식; function = work (properly); be functional
 * 1) 명사로 쓰이면 [기능] 이라는 뜻도 있는 단어인데요. 동사로 쓰일 땐 주로 기계나 시스템 등과 함께 쓰여서 [정상적으로 작동하다, 기능하다] 라는 의미를 가집니다. 2) 하지만 영상에서처럼 사람이 function 과 함께 쓰일 땐, 그 사람이 [정상적으로 지내다/생활하다] 라는 의미를 가진답니다. 3) 참고로 [사람 + function as + 직책] 으로도 자주 쓰이는데 [~가 ~한 역할/구실/직책을 다하다] 라는 의미를 가진답니다.
 	* 그 비극 후에도 그가 잘 지내는 건 놀라워. ex) It's amazing that he still functions after the tragedy.
 
 ## further
 * 멀리 갈 것 없다, 더 알아볼 필요 없다 (= 여기 당신이 찾는 게 있습니다)  "Look no further."
+* 더 이상 자세히 들어가지는 않겠습니다. We shall refrain from entering into further detail. 듣기 출처:프렌딕
 
 ## fight
 * fight someone; 주로 physical confrontation; fight over something
@@ -3431,6 +3451,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : 네 자신에 집중하기나 해 Just give yourself up; Give oneself up' : 자기자신에 집중하다.
 * : 난 그 사람과 헤어지고 싶지 않아요. I don't want to give up on him. Give up on someone' : 와 관계를 끊내다. 종료하다.
 
+## humor
+* 상대가 화나지 않도록 비위를 맞춰주는 것을 humor 라고 해요.; 좀 전에 나왔던 honor(존중하다)에서는 h- 가 묵음이지만 humor 는 아닙니다.  [휴] 라고 정확히 발음해 주세요.
+  * = 제이콥하고 지내려면 그의 비위를 맞춰주는 수 밖에 없어.  The only way to get along with Jacob is to humor him.
+
 ## hug
 * : 주로 두 사람이 싸운 상황에서 '한 번 안고 화해하다' 라는 뜻으로 사용해요! 여기서는 앞으로 격렬하게 대결할 테니 미리 안아두라는 뜻으로 쓰였죠.
   * 안고 화해하자. Let's hug it out.
@@ -3590,6 +3614,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 그가 문간에서 초조하게 서성였다. He hovered nervously in the doorway. 
 
 ## hot
+* 성격이 급하다; i'm a hothead
 * 어떤 상황을 처리하기 힘든; 사태가 처리하기 힘든 지경에 이르자; When things got too hot 
 * 뜨거운 감자; Iraq is a hot potato to the Unitied States
 * 온상; 그 지역은 범죄의 온상이었다. The area was a hotbed of crime. 
@@ -3698,6 +3723,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * home party는 장소가 불분명해짐
 * nothing to write home about = 별것 없는, 그럭저럭인, 평범한; 타지에 있을 때 자신이 잘 지내는지, 별다른 일은 없는지 집에 편지를 쓰겠죠? 그런데 그 편지에 쓸 말이 별로 없을 정도로 특별한 일이 없다는 의미입니다. 
       * = 걔네 공연은 뭐 별거 없던데. Their performance was nothing to write home about.
+* 나에 대해서 특별히 내세울 것이 없다. There's nothing to write home about myself; …에 대해 특별히 내세워 언급하다; …을 자랑하다
 
 ## homework
 * do one's homework = 철저히 조사하다, 준비하다; 숙제를 하는 것이 꼭 해야 하는 일을 하는 것이라는 점에서 비유적으로 쓰이게 된 속어로, 무언가에 대해서 철저하게 학습하고 조사하여 그것에 대해서 잘 알고, 잘 다룰 수 있는 것을 의미하는 표현입니다.
@@ -4788,6 +4814,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : notice는 어떤 일이 있음을, 해고 같은 계약의 취소 등이 있을 예정임을 알리는 통보입니다. 그 앞에 시간의 소유격 (one hour's notice, two hours' notice)을 붙이는 것은 그만큼의 시간 전에, 그 기간을 두고, 라는 의미를 갖게 되죠.  그래서 'He gave me three days' notice to go on a business trip.'은 '그는 출장 3일 전에 내게 출장을 가라고 알려주었다.'는 뜻이 됩니다. 사람이 아닌 시간에 소유격 of가 아닌 apostrophe가 붙는 경우는 조금 의아하게 느껴질 수 있지만 'I spent my two weeks' wage on this trip. (이번 여행에 2주일치 급여를 사용했어.)'와 같은 표현에서도 이미 접하신 적 있을 거예요~^^ 앞에 apostrophe를 붙이지 않는 three days notice, 24 hours notice 같은 표현도 자주 보실 수 있을 텐데요, 엄밀히 따지면 틀린 표현이니 기억해 두세요~ 또한 24-hour notice와 같이 표기하는 경우도 있는데 이는 24시간 동안 지속되는 (계속 알려주는) notice라는 의미를 가지고 있으므로 '하루 전에 알리는 통보'를 말하고 싶다면 24 hours' notice가 맞습니다!
 
 ## note
+* 긍정적인 분위기로 끝내고 싶어요; We end on a positive note
 * 비슷한 관용어구로는 "end on a high note" 가 있어요. 절정의 순간에 멋지게 마무리했다는 뜻이죠.
 * ~한 식으로, ~한 상태로 = on a ~ note; 중간에 형용사를 넣어서 어떤 상태인지 설명해 줄 수 있어요. 영상에서는 positive note 로 써서 [긍정적인 방식] 이라고 사용이 되었고요. 주로 연설이나 회의를 끝낼 때 많이 쓰이는 표현입니다. 단순히, on that note 라고 말할 수가 있는데요. [그런 점에서, 그런 의미로, 그런 측면에서](회의를 마치도록 하겠습니다.) 라고 끝맺을 수가 있습니다.
   * 이야기 마무리는 좀 더 긍정적으로 해보죠; Let's end on a slightly more positive note
@@ -5665,6 +5692,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 
 ## push
+* = ~을 밀어 넣다. ~을 강요하다 push something down one's throat; 문장 모습 그대로 먹기 싫은 무언가를 목구멍으로 억지로 집어넣을 때도 쓰이는 패턴인데요. ; 억지로 무언가를 주입하는 모습에서, 꼭 목으로 넘어가지 않더라도 억지로 무언가를 강요받을 때 쓰이는 표현입니다.  push 대신 force, ram, shove 등을 쓸 수도 있고요. 영상에서는 수동태로 쓰여서 '영상을 억지로 보게 되다' (they = 영상들) 을 의미합니다.
+  * = 아빤 그의 생각을 내게 강요하곤 했었어. My dad used to push his ideas down my throat. 
 * 방도가 없다면, if push comes to shove, 
 * #밀고 나가다 #push through; motivated to push through
 * ~를 옆으로 밀다 push over; push the tables over to the other side
@@ -5838,6 +5867,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## roof
 * 레니의 자신감은 지붕을 뚫을 정도야. Lenny's confidence is through the roof.
+* [명사] (건축) (피라미드 모양의) 방형(方形) 지붕. pavilion roof
 
 ## room
 * # 공간; 1) 물리적으로 자유로운 공간과 2) 다른 사람의 방해없는 자유로움 둘 다를 의미합니다. elbow 가 팔꿈치 잖아요. 뭔가에 묶여서 움직일 수 없으면 갑갑한데 움직이면 자유롭겠죠?
@@ -6043,6 +6073,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## relate
 * 너희들 가족 관계니? ex) Are you guys related?
+
+## resent
+* = ~가 ~을 한 것에 대해 분개하다, 화내다 resent 사람 for ~; 1) resent 의 사전적 의미는 [분하게 여기다, 분개하다] 인데요. angry 보다 약간 더 강한 뉘앙스를 가집니다. 보통 불공평한 대접을 받거나 존중 없는 행동으로 맘이 상했을 때 쓰는 표현이에요. 2) 영상에서의 it 은 앞에서 이름에 대한 발음을 교정해주는 행위를 의미하는데요. 그렇게 얄밉게 행동을 하니 참 밉상이다- 라는 뉘앙스로 말했습니다.
+  * = 잭은 네가 말도 없이 그의 노트북을 사용해서 화났어. Jack resents you for using his laptop without telling him.
 
 ## resign
 * 사표 수리; accept my resignation
@@ -6275,6 +6309,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## scale
 * : 무게를 잴 수 없을 만큼 '굉장하다' 혹은 '심하다' 라는 뜻의 슬랭이에요!
   * 완전 쩔어줄 거야! It's going to be off the scale!
+
+## schedule
+* 그래야만 한다면 그렇게 해야겠지요. 우리로선 예정보다 뒤떨어지면 안 될 입장이니까요. Do what you have to do. We can't afford to fall behind schedule. 
 
 ## school
 * : '한 수 배우다, 굴욕적으로 지다' 라는 뜻의 슬랭이에요! 경기나 게임, 대결을 펼치는 상황에서 활용할 수 있겠죠? get schooled 
@@ -7586,6 +7623,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 아이언맨 한 달전에 개봉했어. Spider Man hit theaters a week ago.
   * 아이언맨은 전세계 동시 개봉을 할 예정이다. Iron Man will simultaneously open worldwide. 
 
+## throat
+* * = ~을 밀어 넣다. ~을 강요하다 push something down one's throat; 문장 모습 그대로 먹기 싫은 무언가를 목구멍으로 억지로 집어넣을 때도 쓰이는 패턴인데요. ; 억지로 무언가를 주입하는 모습에서, 꼭 목으로 넘어가지 않더라도 억지로 무언가를 강요받을 때 쓰이는 표현입니다.  push 대신 force, ram, shove 등을 쓸 수도 있고요. 영상에서는 수동태로 쓰여서 '영상을 억지로 보게 되다' (they = 영상들) 을 의미합니다.
+  * = 아빤 그의 생각을 내게 강요하곤 했었어. My dad used to push his ideas down my throat. 
+
 ## throw
 * 수동태인 be thrown(던져지다)라고 하였습니다. 자신의 의지와 상관없이 어떤 상태(state)에 빠지게 된다는 어감입니다.  1) be thrown into a state ~ = ~의 상태에 빠지다
   * 나라 전체가 완전한 혼돈 상태에 빠졌다. The whole country was thrown into a state of complete chaos.
@@ -7669,6 +7710,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 그 영화는 비평가들에게 악평을 받았다. [ex] The film was trashed by the critics. 2. 맹비난하다
 
 ## trace
+* 밑그림도 안그리고; i don't trace it out
 * trace 1. 1. A를 B까지 추적하다.  2. (기원을) 추적하다. 
   * 물리적으로 누군가를 따라가 추적하여 찾거나, 영상에서처럼 기원을 추적하여 밝혀낼 때 쓰는 패턴입니다. trace 가 명사로 쓰이면 [자취/흔적] 이라는 뜻을 가지기도 하는 건 우연이 아니겠죠!
   * 의사들은 그녀의 문제 일부를 가혹한 어린 시절의 트라우마로 추적하여 발견해냈다. ex) Doctors successfully traced some of her problems to severe childhood traumas.
@@ -7763,6 +7805,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
     * 미안해, 제이슨. 그건 너무 무리한 요구야. 난 못하겠어. ex) Sorry, Jason. It's a bit too tall an order. I can't do it.
 
 ## talk
+* ＊ talk oneself out of 상황/상태 = ~에서 벗어나려 애쓰다
+  * 말로써 자신에게 불리하거나 불쾌한 상황에서 벗어난다는 뜻이에요. 코난은 조던이 궁색한 말을 내뱉으며 충격의 상태에서 벗어나려 할 거라며 놀리고 있습니다. 참고로 재귀대명사(oneself)가 아닌 일반 명사가 올 경우에는 “를 못하도록 말로 설득시키다”라는 것으로 의미가 약간 달라져요.
+    * = 그녀는 곤란한 상황에서 벗어나려 했다. She tried to talk herself out of trouble.
+    * = 너는 그가 차를 사는 걸 말리지 못 해. You can’t talk him out of buying a car.
 * 그녀는 장안의 화제가 되었다. She became the talk of the town
 * 소소한 대화, 담소, 잡담, 이런저런 이야기 = small talk
 	* 사라 기다리면서 그냥 이런저런 이야기 하고 있었어. ex) We were just making small talk, waiting for Sarah.
@@ -8012,6 +8058,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## vanilla
 * 1. vanilla는 '바닐라 아이스크림, 바닐라 라떼'처럼 맛을 의미하기도 하지만 '평범한, 흔하고 별 특색 없는'이라는 뜻도 가지고 있어요.  2. 앞서 아이스크림에 대해 이야기 하고 있었기 때문에 vanilla라는 표현을 사용한 것은 딱 말장난을 노린 거겠죠~ pun은 동음이의어, 다의어, 소리가 비슷한 말 등을 이용해서 하는 말장난을 가리켜요. vanilla는 '바닐라'와, '평범한'라는 여러 뜻이 한 단어에 있는 다의어죠.
+
+## viva
+* 멕시코 만세; so viva Mexico
 
 ## vicariously
 * 대리 만족을 얻다 get vicarious satisfaction 미국식  영국식   단어장추가

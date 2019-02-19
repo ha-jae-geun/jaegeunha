@@ -2,7 +2,8 @@
 	* 1. on my way home 2. on my way to 장소
 	* 3. on my way to v
 	* #curb; my dad is sitting out on the curb	
-* #전봇대; #Telephone pole
+* # 전봇대; #Telephone pole
+	* # 가로등; lamppost 
 * #갈 길이 멀었어 There is a long way to go = we've still got a long way to go
 * #긴 여정(#여정)이었지; it’s been a #long road
 * 여기서부터 #고불거리기 시작한다 #지그재그 #꾸불 brʊk The brook begins to zigzag from here.

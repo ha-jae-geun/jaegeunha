@@ -82,11 +82,22 @@
 
 
 
-## IP
+# IP
 * 네트워크 구조를 유지시키는 역할  
     ^to stay the network structure
 * IP 부여 -> 내가 원하는 곳으로 루트 선정  
-    ^Give ip address > set route to node that i want
+    * Give ip address > set route to node that i want
+    * 1988년 IANA; Internet Assigned Numbers Authority; 현재 ICANN(미국 LA)이 요청에 따라 APNIC에게 나눠줌 ->  한국의 국가기관(KRNIC)에서 발급 -> SK/KT/LG -> 가정집에 1개 부여 -> 공유기에 따라 분배(외부에서 안보이는 나만 보이는; 192.168.0. 가상 IP; 밖에서 봤을 땐 하나의 IP)
+      * 대륙마다 기관이 다름: APNIC(호주에 위치; 한국 포함), RIPE(NCC), AFRINIC(아프리카), LACNIC(남미), ARIN(북미)
+      * 홈페이지: KRNIC 홈페이지에서 확인 가능
+
+
+## 내 IP 확인 방법
+* 구글에서 MY IP 검색
+
+## IP Tracker
+* 추적 가능: 도시, 동 + 대략적 위치 좌표, 인터넷 가입 회사, 인터넷 속도, 인터넷 브라우저, 시간
+
 
 
 

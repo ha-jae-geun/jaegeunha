@@ -55,7 +55,8 @@
 * 조류/야생 동물 보호구역; a bird/wildlife sanctuary; sanctuary 미국식 [-ueri]  영국식 [ˈsæŋktʃuəri
 * #수의사; #veteran; #veterinarian; #vet#; #동물병원
 * #짐승; #animal, #creature, #beast - 짐승, 동물 
-* #애완 동물 키우세요? Do you have any pets? ##종이 뭐에요? what is the breed?
+* #애완 동물 키우세요? Do you have any pets? 
+	* ##종이 뭐에요? what is the breed?
 * 싫어하는 것 ##pet peeve(#peeve); 치약 중간부터 짜는 거, 손 안씻는 거
 * #부화; #hatch out; ten chicks hatched out this morning
 * #알#에서 #깨어나다; #break out of shells; #crack one open
@@ -74,6 +75,7 @@
 * #오징어; #갑오징어; #cuttlefish; cuttlefish tentacle
 * #먹물; #squid ink
 * #설치류 #rodent
+* 잡종; mongrel 미국식 [ˈmʌŋɡrəl]; 잡종 견주: mongrel wrangler 미국식 [ˈræŋɡlə(r)]
 
 # 소리
 * (고양이가, 특히 기분이 좋아서) 가르랑거리다; cat purrs
