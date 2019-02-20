@@ -406,6 +406,7 @@
  * 나는 파티 초대를 사양해야 했다
 
 # 거짓말
+* …에게 교묘히 거짓말을 하다. give somebody a snow job 미국식  영국식   단어장추가
 * 또 거짓말한다; you are lying through your teeth
 *  전판 거짓말이다 t is a downright lie from start to finish 
 * # 시치미 뗴지마                                                       Don’t play dumb with me. = don't you try to lie
@@ -2179,6 +2180,7 @@
 
 
 # 더럽다
+* # 위생; [명사] (요식 업소의 위생 상태를 점검하는) 위생 검사관. health inspector 미국식  영국식   단어장추가
 * 이 방은 난장판이네; This room is shambles
 * 먼지나 기름기 등으로 덮여있어서 지저분한 것을 의미하는 단어입니다. 혐오스럽고 불쾌한 느낌의 비격식 단어에요.
 	* 왜 이렇게 더러운 재킷이 필요하다는 거야? ex) Why do you need this cruddy jacket?
@@ -2698,6 +2700,7 @@
  * i'm #counting the days, i'm #looking forward to -ing/명사, be #anxious to V
 
 # 막다
+* 그 경찰관은 시위 진압용 방패로 그 타격들을 막았다. The police officer fended off the blows with his riot shield. 
 * 배관이나 호스가 막히거나, 화장실이 막혔을 때 사용하는 단어는 요 clog라는 동사입니다! 관 같은 것이 막힐 때 쓸 수있는데요, 때문에 코나 혈관이 막혔을 때도 사용할 수 있답니다.
   * [ex] This pipe clogs up at least twice in a month. 
 * jam은 서랍이나 문이 껴서 움직이지 않을 때, 도로가 막힐 때 사용할 수 있습니다. 손가락이나 발가락이 어디 사이에 끼었을 때도 사용할 수 있고요!
@@ -4105,6 +4108,7 @@ retaliate
 * 본전을 찾다; We just need to earn a little more to break evenㅂ
 
 # 봐주다
+* go easy on; let it slide; i'll let it go this time; i'll let you off the hook on that
 * pass 가 [합격] 또는 [통행증]을 의미하는데요. 걸리는 것 없이 그냥 지나가는 모습에서 나온 표현입니다. 어떤 잘못을 했는데 한소리 듣거나 처벌 없이 넘어갈 때 쓰는 표현이에요. [이번엔 봐줄게]라고 말하고 싶을 땐 I'll give you a pass. 라고 할 수도 있어요.
   * = 사장이 그녀의 아빠라는 이유만으로 또다시 그냥 넘어갔어. She got a pass again just because the boss is her father. 
 * 안봐준다; the gloves are (coming) off
@@ -5108,6 +5112,7 @@ retaliate
 * 멕시코 만세; so viva Mexico
 
 # 습관
+* 나쁜 습관; * [명사] (섹스·마약이 관련된) 범죄 vice 미국·영국 [vaɪs]  영국식   단어장추가  중요
 * 좋은 습관 만드는법; how to build good study habitss
   * ‘습관을 버리다’라고 할 때는 kick / drop / break a habit 이고, 반대로 ‘습관을 기르다’는 make it a habit, develop a habit, form a habit 입니다. 
   * : 나쁜 습관들을 버리고 새사람이 되다, 개과천선하다 [ 숙어 ] turn over a new leaf
@@ -8937,6 +8942,7 @@ retaliate
  * 그냥 거기 있었어               it was just sittin there
 
 # 함정
+* [명사] 부비트랩(건드리면 터지는 위장 폭탄) booby trap 미국식  영국식   단어장추가
 * 보험 광고를 보면 묻지도 따지지도 말고 가입하라고 하면서 정작 소비자가 알아야할 중요한 항목은 매우 작은 글씨로 구석탱이에 적어놓죠.  이처럼 매우 작은 글씨를 fine print 라고 하는데요, 보통 남이 발견하지 않았으면 해서 일부러 작게 써놓은 경우를 말하기도 합니다. 그 만큼 자세히 읽지 않으면 자신이 몰랐던 함정에 빠질 수도 있기 때문에 여기서는 ‘이게 함정이군’으로 번역되었습니다.
   * 밑에 작은 글씨로 써진 약관을 잘 읽었어야지. You should’ve read the fine print. 
 

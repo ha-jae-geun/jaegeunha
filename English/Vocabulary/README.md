@@ -499,6 +499,8 @@
   * 집에 돌아오자마자, 그는 방으로 직진했어. ex) Right after he came back, he made a beeline for his room.
 
 ## beef
+* ＊ beefy = 우람한, 거대한 / 소고기의; 이 영화는 음식을 의인화한 장면이 많이 나오죠. 그래서 cheesy, beefy 처럼 음식 명칭이 들어간 중의적 표현도 자주 등장하네요.  beefy(육중한)해 보여서 무서운 줄 알았는데 실제로는 착한 beefy burger(소고기 버거) 였네요!
+  * = 제프리는 좀 덩치가 큰 편이지. (on the ~ side: 사람의 체형이 ~한) Jeffrey is a little on the beefy side.
 * beef는 '싸움, 말다툼, 불평'이라는 뜻도 가지고 있어요. 주로 비격식적인 표현으로 사용되죠. - beef about something: (동사 beef) 무엇에 대해 불평하다
   * 그는 요새 애들이 옷을 얼마나 이상하게 입고 다니는지에 대해 불만을 토로했다. [ex] He was beefing about how kids dress so weird these days.
   * - have a beef with someone: (명사 beef) 누군가와 싸우다, 언쟁하다, 에 불만을 갖는다
@@ -2196,6 +2198,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 이용자 참여  우리는 상황을 알아 보았다  Dipping our toes in the water . 듣기
 * dip은 과자나 먹을 것을 찍어먹는 소스라는 뜻도 있지만, 잠깐 물에 들어갔다 나오는 수영이라는 의미도 있어요. take a dip은 (가볍게) 수영하다라는 표현!
   * 바다에서 수영하자. Let's take a dip in the sea.
+* 여럿이서 소스 먹을 떄 한번 베었떤 음식 다시 넣기: double dipping
 
 ## die
 * diehard / die-hard = ⓐ완고한, 골수파인, 보수적인
@@ -2249,6 +2252,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 난 그의 다음 행동이 굉장히 특별한 것이라는 걸 확신해. ex) I am sure his next move will be a doozy.
 
 ## double
+* 여럿이서 소스 먹을 떄 한번 베었떤 음식 다시 넣기: double dipping
 * double fist는 신조어로 술을 두 손에 쥐는 것, 혹은 두 손에 쥐고 동시에 마시는 걸 가리킵니다. 애주가라면 한번쯤 사용해 봄직한 표현이겠죠?ㅎ 그 행위를 나타내는 명사는 double-fisting~!
   * 주문하는 데 시간 너무 오래 걸린다. 난 두 잔 동시에 마실 거야.  It takes so much time to order. I'm double
 * whammy는 '재수 없는 일'을 의미해요. 이게 double 이니 엎친 데 덮친 격으로 안 좋은 일이 동시에 발생할 때 쓰는 비격식 단어입니다. [이중고를 겪다]라고 말하고 싶을 땐 face/suffer/be hit by + a(the) double whammy라고 쓰실 수 있어요.
@@ -2563,6 +2567,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## fellow
 * 1. a fellow OO: OO에 직업, 어디 학교 학생,  국가 이름 등을 넣어 '동료, 같은 학교 또래 학생, 같은 국가 사람 등을 나타낼 수 있습니다.
   * a fellow teacher: 동료 교사  a fellow designer: 동료 디자이너 (같은 디자인 분야에서 일하는 동료)  a fellow Japanese: (본인처럼) 일본 사람  a fellow Harvard student: 같이 하버드를 다닌/ 다니는 학생
+
+## fend
+* 그 경찰관은 시위 진압용 방패로 그 타격들을 막았다. The police officer fended off the blows with his riot shield. 
 
 ## fender bender
 * 그리고 get into는 ‘어떤 상황에 휘말리다, 처하다’란 뜻으로 “He got into (like) a fender bender.”는 영상속 흑인여성의 남자친구가 가벼운 접촉사고(같은 것)가 났다는걸 의미합니다.
@@ -3451,6 +3458,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : 네 자신에 집중하기나 해 Just give yourself up; Give oneself up' : 자기자신에 집중하다.
 * : 난 그 사람과 헤어지고 싶지 않아요. I don't want to give up on him. Give up on someone' : 와 관계를 끊내다. 종료하다.
 
+## henpeck
+* henpecked 미국식 [ˈhenpekt]; 공처가의
+
 ## humor
 * 상대가 화나지 않도록 비위를 맞춰주는 것을 humor 라고 해요.; 좀 전에 나왔던 honor(존중하다)에서는 h- 가 묵음이지만 humor 는 아닙니다.  [휴] 라고 정확히 발음해 주세요.
   * = 제이콥하고 지내려면 그의 비위를 맞춰주는 수 밖에 없어.  The only way to get along with Jacob is to humor him.
@@ -3462,6 +3472,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## hunk
 * 원래 hunk는 빵이나 고기같은 것의 큰 덩어리리라는 뜻인데요, '근육질의 아주 섹시한 남자'를 말하기도 한답니다.
   * 그는 정말 섹시해. He’s a real hunk.
+
+## hike
+* 가볍게 산 오르기 <> climb
 
 ## high
 * # 막막; high and dry는 어려운 상황, 막막한 상황을 뜻합니다. 보통 leave someone high and dry라고 표현하여 ‘어떤 도움도 없이 혼자 남겨두다’라고 표현합니다.
@@ -3536,6 +3549,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
  * 그는 완강한 입장을 보였다.           he dug his heels in deeper 
  * 굽이 높은 편안한 신발                  wedge heel
  * cool one's heel; 오래 #기다리다; somebody cooled his heels
+
+## hork
+* 빨리 먹다; hork; DOn'ts just hork it down
 
 ## hop
 * 비행기 한 번 타는 건데요, 뭐; It's just a hop on a plane
@@ -4083,6 +4099,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 직역하면 바깥쪽에(out) 있도록 유지시킨다(keep)는 것으로 [못들어가게 막는다] 는 것입니다. 
   * 저 개좀 내 방에서 내보내! Keep that dog out of my room!
 
+## knee
+* [명사] (英, 비격식) 시끄러운 댄스파티 knees-up 미국식  영국식   단어장추가
+
 ## know
 * 여기서 'know better than ~'는 직역하면 '~보다 더 잘 안다'인데요. '~보단 현명하다, ~보단 분별력이 있다'는 뜻! 크게 다음 두 형태로 쓴답니다.
   * 야, 그러면 안 되는 거 알잖아. [ex] Come on. You know better than that. ⇒ "그러지 마"를 부드럽게 말할 때 자주 쓰는 표현이에요! 상대를 혼내거나 나무라는듯한 뉘앙스가 있어요. 상대가 부도덕한, 잘못된 행동을 하려 하거나 이미 저질렀을 때, 어리석은, 현명하지 않은 행동을 하려 하거나 이미 저질렀을 때 등 다양한 상황에서 쓸 수 있겠죠?
@@ -4287,6 +4306,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * leap off ~ : 로부터 튀어나오다 / 시선을 끌다. 1) 동사 leap 에는 [뛰다/뛰어오르다] 라는 뜻이 있고, off 은 from 과 비슷한 의미로 [~로부터] 라는 의미가 있습니다. 2) 원래는 leap off the page 라는 표현이 더 자주 쓰이는데요, 책에서 뚫고 나오듯 생생한 장면, 독자의 시선을 끄는 장면을 의미합니다. 3) the page 대신 the screen 이 나왔으니, [스크린을 뚫고 나올만큼 생생한 장면] 을 의미하겠지만, 앞에 literally (말 그대로) 라는 단어가 붙어서 배우들이 실제로 스크린 밖으로 나오는 장면이 나중에 나와요!
   * 그 배우는 스크린을 뚫고 나오는 것 같았다. ex) The actor seemed to leap off the screen.
   * 그의 사진이 페이지로부터 튀어나왔다. [내 시선을 끓었다] ex) His photo leaped off the page.
+
+## leash
+* leash 라는 단어는 개 등을 묶어 놓는 단단한 가죽끈을 의미해요. 반의어인 unleash 는 목줄에 묶인 동물을 풀어주는 걸 의미하기도 하지만, 꾹 눌러둔 감정이나 반응을 묶어둔 줄을 풀어주는 듯한 모습의 단어인데요. 강력한 반응, 감정, 활동 등을 갑자기 시작하고 표출하는 것을 의미합니다.
+  * = 그의 진술은 전례 없는 분노를 불러일으켰다. The unprecedented fury was unleashed by his statement.
 
 ## least
 * to say the least = 좋게 말해서, 과장하지 않고 말해도
@@ -4925,6 +4948,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : (신조어) 자신감을 갖다, 자신이 가지고 있는 성질 등에 대해 있는 그대로 자랑스러워 하다 own it
   * 굉장히 다양한 어감을 가지고 있는 이 표현은 own it이라는 두 단어만으로도 캐치프레이즈처럼 자주 접할 수 있답니다. 자신이 가지고 있는 좋은 점도, 부족하게 느껴지는 점도 직시하고 기꺼이 받아들인다는 뉘앙스의 말이죠. 일종의 삶의 태도라고 볼 수 있습니다.
 
+### owner
+* 관장: owner
+
 ## phone
 * 거짓이다; YOu're just beig phony
 
@@ -5476,6 +5502,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * be prepared to v;
 * # prep; 자동사로도 쓸 수 있고, 타동사로도 쓸 수 있다.
 * 명사 앞에도 쓰이기도 한다; 입시 학원: a prep school
+* [명사] (영국에서 7~13세의 아동이 다니는) 사립 초등학교 참조 public school preparatory school 미국식  영국식   단어장추가
 
 ## pretty
 * : 'please, 제발'의 강조형으로 '제발 부탁이야', '제발, 응?' 정도예요. 더 간곡히 부탁할 때는 'pretty please with sugar/a cherry on top' 이라 말하기도 해요! 최대한 공손하게 조를 때 쓸 수 있어요. 사람에 따라 애교를 섞어서 쓰기도 해요. 모두 다소 비격식적인 표현으로 격식 있는 자리에서는 부적절할 수 있으니 주의하세요!
@@ -6201,9 +6228,13 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 내 아들은 한살쯤이었을 때 정말 품으로 파고들었어. 나한테 정말 많이 파고들어 왔다니까. ex) My son was so snuggly when he was about a year old. He snuggled into me so
 
 ## snow
+* 제설 작업이 3시간 걸렸다ㅏ; the snow removal took almost three hours to complete
 * 눈; 눈에 갇히다; be snowed in; 일이 산더미; be snowed under(with) = up to my neck/eyeball
 * # snowflake: special snowflake의 줄임말로써, 미국 정치에서 특권의식에 사로잡힌 사람을 경멸하는 은어 2. 손대면 녹아버리는 예민한 사람
   * 이 불편러야; YOu freaking snowflake
+* …에게 교묘히 거짓말을 하다. give somebody a snow job 미국식  영국식   단어장추가
+* -에 갇히다; be snowed in / stuck in snow
+* 같이 눌싸움 할래? YOu wanna be in a snowball fight with us?
 
 ## snake
 * 역사는 엉터리 물건을 파는 돌팔이들로 넘쳐난다.  History is full of quacks selling snake oil. 예문 발음듣기
@@ -6654,6 +6685,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 자책하다; Don't #second guess yourself, 
   * 중고품 가게 #seecond hand / used store
   * ##secondary
+
+## seal
+* -가 폐쇄되었습니다; had to be sealed off
 
 ## sea
 * i was sea; 1. 항해중인 2. 어쩔 줄 모른다;
@@ -7693,6 +7727,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * # 상처; : 일부러 상처주는 말/행동 을 하다. * twist the knife (in the wound) 1) 칼을 그냥 찌르는 것도 아니고, 찔러서 비틀면 더 아프겠죠?
   * 매기는 일부러 상처주기 위해 그를 비웃었어. ex) Maggie laughed at him to twist the knife.
 
+## trap
+* 눈에 갇히다; trapped because of too much snow
+* [명사] 부비트랩(건드리면 터지는 위장 폭탄) booby trap 미국식  영국식   단어장추가
+
 ## trail
 * 서류상의 흔적 = paper trail 서류상의 흔적 = paper trail
   * 어떤 흔적도 남기고 싶지 않아서 현금 결제 했어. ex) I didn't wanna leave any paper trails so I paid in cash.
@@ -8061,6 +8099,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## viva
 * 멕시코 만세; so viva Mexico
+
+## vice
+* [명사] (섹스·마약이 관련된) 범죄 vice 미국·영국 [vaɪs]  영국식   단어장추가  중요
 
 ## vicariously
 * 대리 만족을 얻다 get vicarious satisfaction 미국식  영국식   단어장추가

@@ -538,7 +538,7 @@
 * [krédǝbəl] ##credible: 믿을만한; credible witness/evidence
 * [krédʒǝlǝs] ##credulous; 쉽게 믿는; credulous person
 
-* [ǝpríːʃiǝbəl ##appreciable; #뚜렷한, #주목할만한; appreciable change
+* [ǝpríːʃiǝbəl ##appreciable(블); #뚜렷한, #주목할만한; appreciable change
 * ǝpríːʃǝtiv, -ʃièi-] #appreciative; #감사하고 있는; appreciativa of my efforts
 
 * [kὰmprihénsǝbəl/kɔ̀m-] [kὰmprihénsiv/kɔ̀m-]
