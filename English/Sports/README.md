@@ -248,6 +248,7 @@
  * 골키퍼 : goalkeeper , goalie
  * 교체선수 : substitute
  * 팀의 주장 : team captain
+ 	* 주장 완장을 차야한다; wear the captains armband
  * 골을 넣다 : score
  * 골키퍼를 제치고 강슛을 쏘아 넣다 fire past the goalkeeper
  * 패스를 살짝 밀어넣다: tip in a pass from

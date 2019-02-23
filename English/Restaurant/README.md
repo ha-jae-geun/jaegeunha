@@ -267,13 +267,16 @@
 * 접시에 돌리기(가능) 						 twǝːrl Use the dish to twirl 
 * ##면 #스파게티
 * #샌드위치 Chicken/ham sandwitch / roasted beef sandwidch(얇게 구운) > #소고기; #hamburger
-* 햄버거집; #Fuddruckers; 체인점
-* #big boy; 햄버거 전문 레스토랑
-* drive up window; = 맥도날드의 drive thru; 차에서 업무 볼 수 있음
-* 햄버거 세트 ->								 combo, meal
-* 우리는 햄버거 전문점이다. 		 We know burgers.(패티, 굽는법 모든 것에 능통하다)
-* 1eksp3:r2ti:z Our expertise is burgers.
-* #패스트푸드 #햄버거 #피자
+	* 버거 재료 꽉 채워드릴까요? WOuld you like your burgers all the way?
+		* Could you make mine all the way please?
+		* I'd like everything on it.
+	* 햄버거집; #Fuddruckers; 체인점
+	* #big boy; 햄버거 전문 레스토랑
+	* drive up window; = 맥도날드의 drive thru; 차에서 업무 볼 수 있음
+	* 햄버거 세트 ->								 combo, meal
+	* 우리는 햄버거 전문점이다. 		 We know burgers.(패티, 굽는법 모든 것에 능통하다)
+	* 1eksp3:r2ti:z Our expertise is burgers.
+	* #패스트푸드 #햄버거 #피자
 * ^^#customer; 물건 사는 손님 
 * #client; 서비스 손님; 변호사, 보험
 * #guest; 호텔에 투숙을 하거나 집에 방문을 하는 분들

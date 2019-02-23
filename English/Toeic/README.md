@@ -4,6 +4,9 @@
 * 특별히 사치스러운; particularly luxurious
 * 반복해서 말하다; repeatedly speak
 
+# 접속사
+* A라는 시간 이후로 쭉; from A onwards [ˈɑːnwərd;ˈɔːn-]  영국식 [ˈɒnwəd]
+
 # 파트 4
 ## 이메일
 * 회람, 편지, 공지문: i am writing to, this letter is to, i am pleased, inform
@@ -22,7 +25,13 @@
 * fund, refund, discount, cost, expense, price, rate, toll, fare, fee
 	* Store doesn't issure refunds for 
 
+# 문제
+* No one can be sure __ the stock price will end up at the end of the game; where; end up: reach or come to a particular place or situation; place가 영영사전
+
 # 단어
+* * 잘 작동하다; work especially well
+* 타동사 상세히 알리다, 열거하다; detail how to use
+* 즉시; shortly/soon/immediately/promptly + before/prior to/ahead of + N
 * 이력서; Curriculum vitae
 * 배우와 제작진; with the cast and crew; 토익 어플
 * 해군 방위대에 관련된 문제들 matters pertaining to naval district defense . 듣기 출처:Collins

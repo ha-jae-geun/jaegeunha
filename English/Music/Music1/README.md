@@ -43,6 +43,7 @@
 * Finesse (Remix) (Feat. Cardi B) - Bruno Mars - 브루노 마즈
 	* Runaway baby
 	* Lost
+	* Please me
 * Love on top - Beyonce - 비욘세
 * On bended knee - Boyz ll Men - 보이즈 투 멘
 * Britney Spears - 3 - 브리트니 스피어스
@@ -59,6 +60,9 @@
 * bye bye i finally - chicken - 치킨
 * Beautiful - Christina Aguilera - 크리스티나 아기렐라
 * Ciara - Body Party - 시애라
+* cardi B, Bruno mars; Please me
+* Clean Bandit - Rather Be ft. Jess Glynne [Official Video]; 클린 벤딧
+
 
 # D
 * Demi Lovato - Sorry not sorry - 데미 로바토 

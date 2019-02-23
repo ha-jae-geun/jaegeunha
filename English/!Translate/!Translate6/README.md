@@ -1,3 +1,40 @@
+# IF 가정법 1시간 연습 - 구독자 90여명이 제출한 예문을 교정합니다
+
+
+# 관계절 - PART 1 - 기본개념과 기본 구성 이해하기
+* "This is the channel that I have been watching for the last four months ago."
+ * 설명 :
+ * 작성하신 것처럼 'the'라고 하면 두 가지를 내포하고 있습니다.
+ * 1. 지난 4달 동안 봐온 채널이 유일하게 이것 뿐이라는 것
+ * 2. 지금 이 대화가 이루어지기 전에 너한테 "지난 4달 동안 봐온 채널이 있다"는 사실을 이미 전달한 적이 있는데 그것이 바로 이것이라는 것.
+ * 위의 두 조건 중 하나라도 만족하거나 둘 다 사실인 경우에 'the channel'가 맞고 그렇지 않다면 'a channel'라고 해야 합니다
+ * ========
+ * "This is a smartphone that i use when i watch YouTube."
+ * "This is a bag that i carry when i go to the school."
+ * 설명 :
+ * 첫 번째 문장에서 a smartphone 말고 the smartphone 이라고 하는 것이 더 자연스럽습니다.  이유는 두 가지가 있다고 볼 수가 있는데, 
+ * 1. 사람들이 사용하는 스마트폰은 보통 하나이기 때문이며
+ * 2. 작성하신 예문에서는 '유튜브를 볼 때 사용하는 스마트폰'은 더욱 더 하나일 것이기 때문에 특정한 대상을 지정하는 것임으로 'the smartphone that ..." 이라고 하는 것이 자연스럽습니다.
+ * 두 번째 예문에서, This is a bag that I +often+ carry when I go to school.(school 앞에 관사 the 빼야함) -- 이렇게 often 이라는 말을 추가하는 것이 좋습니다.
+ * "a bag"이라고 한 만큼 학교에 가지고 다니는 가방이 유일한 하나가 아니기 때문인데 그렇다면 예문에서 언급되고 있는 'a bag'도 항상 가지고 다니는 것이 아니기 때문에 "자주/often"이라는 말이 같이 쓰이면 더 자연스럽습니다
+ * =========
+ * "You are the person that I respect in that your professionality and passion inspire a lot of people!"
+ * 설명:
+ * 'the person'이라고 하려면 뒤에 이어지는 내용이 특정한, 유일한 것을 나타내는 내용이어야 합니다.
+ * 그렇기 때문에 "You are the +kind of+ person that I respect ..... 혹은 "You are one of the people that I respect..." 이라고 하는 것이 훨씬 자연스럽습니다
+ * =========
+ * "This is the lipstick that I only wear when I go to important meetings."
+ * 설명:
+ * the lipstick 이라고 하면 특별한 모임에 나갈 때 사용하는 립스틱이 그것 하나라는 의미가 됩니다.  만약에 특별한 모임에만 사용하는 립스틱이 두 개 혹은 그 이상이면 a lipstick 으로 말을 해야 맞습니다.
+ * =========
+ * 1. This is the book that I was impressed by. ( I was impressed this book 이라고 할 수 없고 I was impressed by this book 이라고 해야 맞는 것처럼 관계절에서도 'by'가 살아있어야 합니다.)
+ * 또한, the book 이라고 하면 이 말을 듣는 사람이 내가 어떤 책으로부터 강한 인상을 받은 적이 있다는 사실에 대해서 들은 적이 있는 상태여야 합니다.  "그랬던 그 책이 바로 이 책이다"라고 말을 하는 상황에서는 지금처럼 the book 이라고 하는 것이 맞지만, 그렇지가 않고 내가 인상깊게 읽은 책이라는 것을 처음 소개하는 상황이면 "This is a book that I was impressed by."라고 해야 합니다.
+ * 2. This is the bottle that I have been using for the +last+ three months.
+ * 여기서도 the bottle, 관사 the의 활용이 위에서 설명한 것과 같습니다.  지난 3개월 동안 사용해온 병이 이것 하나 뿐이라면 맞지만 그렇지 않다면 a bottle라고 해야 합니다.
+ * =========
+ * This is the knife that I use when I cook.(cookingX) 
+ * (여기서 the knife 라고 하면 요리할 때 사용하는 칼이 이것이 유일한 것, 즉, 요리할 때는 이 칼 하나만 사용한다는 의미가 됩니다.  그렇지 않다면 'a knife'라고 하는 것이 맞습니다)
+
 # 영어 연습가이드 #43 - I think that, I figured that, I assume that, I guess that, I feel like
 * 와, 너 진짜 모아둔 돈 여기에 다 쓸거야?
   * Wow, are you really going to spend all your savings on this?

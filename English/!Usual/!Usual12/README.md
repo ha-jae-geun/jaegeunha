@@ -1,3 +1,119 @@
+# 쓸만한 영어 - 인싸??아싸?? - 영어표현\영어회화\영어공부
+ * ▷ 사교성이 좋아서 쉽게 잘 친해지고 다른 사람들과 어울리는 사람
+ * 
+ * - social butterfly
+ *   사교성이 좋고 다른 사람과 잘 어울리는 사람
+ * 
+ * - I'm a social butterfly. = a people person
+ *   난 사람들하고 잘 어울려서 놀아요.
+ * 
+ * ==========
+ * 
+ * - 인싸/아싸를 영어로?
+ * 
+ * - I'm an insider.
+ *   나 인싸야.
+ * 
+ * - You are an outsider.
+ *   넌 아싸야.
+ * 
+ * - 그.런.데.
+ *   an insider 인싸 / an outsider 아싸는
+ *   물리적인 기준에 의해서 나뉠 때가 더 많습니다.
+ * 
+ * - 예 1) 서울사람이 부산에 갔을 때?
+ *            an outsider
+ * 
+ * - 예 2) 시카고 출신으로 시카고를 잘 아는 내가
+ *             같은 시카고에 있는 친구 가족들과 같이 지낼 때?
+ *              an outsider
+ * 
+ * - 왜 그 지역과 문화에 대해 이미 잘 알고있어도 
+ *   '아싸'가 될 수도 있는지 그림이 들어왔죠?
+ * 
+ *   그럼 이제
+ *   '아싸'지만 '인싸'가 될 수도 있는 상황을 보겠습니다.
+ * 
+ * - outsider를 표현하는 이디엄?
+ *   꼭 그럴까?
+ *   an outsider = a fish out of water??? (X)
+ * 
+ * - a fish out of water
+ *   그림을 그려보세요.
+ *   water : 내가 편하게 노는 물/내 영역 떠올려보세요.
+ *                 문화/생활/배경/정보에 대한 이해와 접근성이 있어야함
+ * 
+ * - 왜 an outsider 와 a fish out of water 가
+ *   꼭 같은 의미로만 쓰일 수 없는지 보이시나요?
+ * 
+ * - 예 3) 다른 사람들과 어울려 지내는 것을 좋아하고, 잘 어울리는 A씨.
+ *            미국에 온지 열흘밖에 안됐는데 미국인 친구 파티에 갔다면?
+ *             an insider일까? an outsider일까? a fish out of water일까?
+ * 
+ * - an outsider 이지만 a fish out of water은 아님
+ * 
+ * - information 장버략/잘 알고 있음
+ *   access(ability) 접근성/다가갈 수 있는 힘
+ *   culturally comfortable 문화적으로 편안함(어느 그룹의 사고/행동에 익숙함)
+ *   natural comfort 원래 내 것과 맞아 편안함
+ * 
+ * - 예 4) 이미 영화에 관한 모든 것을 잘 아는 B씨.
+ *             미국 헐리우드에 입성한지 한 달여밖에 안됐지만
+ *              그 관계자들 사이에 있다면?
+ *              an insider일까? an outsider일까? a fish out of water일까?
+ * 
+ *   an outsider
+ *   하.지.만. 관계자들의 대화 문맥과 상황을 모두 이해하는 정보력과 접근성이 있기 때문에
+ *   a fish out of water은 아님
+
+
+# 쓸만한 영어 - 외국인 친구/이웃을 집에 초대하고 싶을 때 쓸만한 영어표현/영어회화/영어공부
+ * ▷ 외국인 친구/이웃을 가볍게 (집에) 초대하고 싶을 때
+ * 
+ * - I would like to have you over for coffee.
+ *   커피 한잔하러 (우리집에) 오세요.
+ * 
+ * - I would like to have you over for dinner.
+ *   저녁 먹으러 (우리집으로)오세요.
+ * 
+ * - I would like to have you over for drinks.
+ *   뭐 마시러 우리집에 와~
+ *   drinks 차, 커피, 음료, 술 등
+ * 
+ * - I'd like to have you over for coffee.
+ *   커피 한잔하러 우리집에 오세요.
+ * 
+ * - Quiz 1.  저녁 식사하러 우리집에 오세요.
+ *                (우리집에서 밥 한 번 같이 먹어요.)
+ * 
+ *   Answer 2. I'd like to have you over for dinner. 
+ *                    저녁 식사하러 우리집에 오세요.
+ *                   (우리집에서 밥 한 번 같이 먹어요.)
+ * 
+ *                  I'd like to have you over for drinks.
+ *                  (차/음료/술) 한 잔하러 오세요.
+ * 
+ *                  실제로 꼭 같이 밥/음료를 먹기 위해서라기보다
+ *                  좀 더 친해지고 싶을 때 쓸 수 있겠지요?
+ * 
+ * - Quiz 2. 우리집에서 커피 한잔하면서 수다떨자.
+ * 
+ *   Answer 2. Let's have a chat over coffee.
+ *                   (우리) 커피 마시면서 수다떨자~
+ *                   참고 : have a talk over dinner 저녁 먹으면서 이야기하다
+ * 
+ * 
+ * <복습>
+ * 
+ * - 커피 한 잔 하러 오세요.
+ *   I'd like to have you over for coffee.
+ * 
+ * - 저녁 먹으러 한 번 오세요.
+ *   I'd like to have you over for dinner.
+ * 
+ * - 커피 마시면서 수다 떨자.
+ *   Let's have a chat over coffee.﻿
+
 # 쓸만한 영어 - 생활속 통역 - 그러다간 크게 다쳐, 침대에서 떨어졌어요 \영어회화\영어공부
  * - bunk bed
  *   2층 침대

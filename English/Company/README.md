@@ -59,6 +59,7 @@
 * 물건이나 서비스를 판매하기 위한 전화 또는 자발적이 ㄴ전화; #cold call
 * 조직 내 새로 합류한 사람이 빠르게 조직의 문화를 익히고 적응하도록 돕느 ㄴ과정; #onboarding = OJT(on the job training)
 * 월급 급여; #payroll, 총 급여 대상자 명단: #Gross payroll
+	* 너무 빠른 월급인상인것 같구나; Such a quick pay-bumping for my son
 	* 첫 월급 받았어; i got my first paycheck
 	* "저 월급 쥐꼬리만큼 받아요." "I'm paid peanuts." "I get paid peanuts."
 	* 월급 잘 줘? Do they pay alright? What's the pay like for 직업 these days?; How's the pay?

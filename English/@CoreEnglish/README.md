@@ -46,6 +46,8 @@
 * orange; or 발음 + 인ge,  Strawberry; 스트로 입술울 모으지 않은 상태에서 '스트로' + bear + 이 
 
 # 기타
+* basic  [ˈbeɪsɪk]  beige 미국식 [beɪʒ] 
+* courageous 미국식 [kəˈreɪdʒəs]  courage 미국식 [ˈkɜːr-]  영국식 [ˈkʌrɪdʒ]
 * instead; s 다음의 t는 된소리이다; instead
 * 1음절 강세; author, comfortable, beverage, recognize, detour [-tʊr]  영국식 [ˈdiːtʊə(r)], temperature, passenger, consequently, purchase, possible, local, photograph
 * 2음절 강세: performance
