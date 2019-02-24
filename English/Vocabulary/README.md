@@ -1885,6 +1885,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 2) contribute to 가 붙어서 나오면 무언가가 발생하는데 도움이 되는 것을 의미하니, 문맥에 따라서 [기여하다] 또는 [원인이 되다] 라는 의미를 가집니다.
 	* 심각한 경제 불황이 높은 실업률의 원인이 되었다. ex) The serious economic recession contributed to the high unemployment rate.
 
+## class
+* * # 극비 문서; The most # highly classified documents
+
 ## claim
 * : 누군가를 흥미롭게 또는 주목할 만하게 해주는 일화나 사실을 뜻해요! claim은 '~의 소유권을 주장하다'라는 뜻이고 fame은 '유명세'인데요, 직역하면 '유명세를 주장할 수 있게 해주는 근거'라고나 할까요? 뜻보다는 claim(클레임)과 fame(페임)의 운이 맞다는 게 더 포인트인 표현이랍니다.
   * 게리의 흥미로운 점 하나는 작년에 술 빨리 마시기 대회에서 우승했다는 거다. Gary's claim to fame is that he won a drinking contest last year.
@@ -3037,6 +3040,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * gnarly는 원래 gnarled처럼 나무나 손이 울퉁불퉁하고 뒤틀린 모습을 표현하는 말인데 점차 젊은 층 사이에서 '불쾌한, 형편없는'이라는 부정적인 뜻과 '대단한, 끝내주는, 훌륭한'이라는 긍정적인 어감을 지닌 뜻, 두 가지 상반된 의미 모두 다 표현할 수 있어요~ 강조하거나 극적인 느낌으로 말하고 싶을 때 사용해요.  * 발음은 '그날리'가 아닌 '날리'랍니다~^^ 프로도의 발음으로 다시 들어보시죠!
   * 그는 끝내주는 기술을 가졌어. He's got some gnarly skills.
 
+## glass
+* 사물을 낙관적으로 보다 see things through rose-colored spectacles[glasses] 
+
 ## glam
 * glam은 glamorous(매력적인), glamour(매력)의 줄인말로도 사용하고 동사로 glam (up)라고 하면 ‘예뻐보이게 꾸미다’라는 의미가 됩니다. 영상에서는 같은 의미로서 do glam이라고 하였습니다.
   * 우리는 항상 스스로 코디해요. (스스로 꾸며요) We do our own glam all the time.
@@ -3606,6 +3612,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 가볍게 산 오르기 <> climb
 
 ## high
+* # 극비 문서; The most # highly classified documents
 * # 막막; high and dry는 어려운 상황, 막막한 상황을 뜻합니다. 보통 leave someone high and dry라고 표현하여 ‘어떤 도움도 없이 혼자 남겨두다’라고 표현합니다.
     * 모두들 나를 혼자 힘든 상황에 내버려 두었지. Everyone just left me high and dry. 
 
@@ -5472,6 +5479,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 1. 엉뚱한 짓을 하며/ 장난 치며 시간을 낭비하다 2.  다른 사람들을 짜증나게 하고 엿먹이는 방식으로 행동하다. 여기서는 이 두 가지 의미가 모두 통할 수 있을 것 같아요. 제임스와 레지는 엉뚱한 짓을 하며 고든 램지를 열 받게 만들고 있으니까요!
     * 우리에겐 낭비할 시간 없어.  There's no time to piss around.
 
+## pinch
+* 당신은 그녀가 말하는 것을 반신반의로 받아들이지 않으면 안 된다. You must take anything she says with a pinch of salt. 
+* 그녀는 항아리를 어렵지 않게 잡았다. She dropped a pinch of salt on the tail of a jug; …을 어렵지 않게 잡다: drop[cast, put] a pinch of salt on the tail of  
+
 ## pink
 * 결막염의 공식 명칭은 conjunctivitis인데요, 결막염에 걸리면 눈이 충혈되어 분홍색이 되기 때문에 pink eye라고도 합니다. 외우기 훨씬 쉽죠? 다래끼는 stye(스타이)라고 합니다. 좀 더 어려운 이름은 hordeolum이구요! 그냥 '눈이 감염 됐다'고 말한 때는 "I got(have) an eye infection"라고 심플하게 말합니다.
 
@@ -5986,6 +5997,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 난 새로운 매니저를 견딜 수가 없어. 그는 너무 독선적이야. ex) I can't stand the new manager. He's a bit too self-righteous.
 
 ## rich
+* 만일 내가 갑자기 부자가 된다면, 더 이상 일하지 않아도 되는 거야. If I could # strike it rich, I wouldn't have to work anymore. 듣기 출처:YBM
 * 어처구니 없다; THat's rich
 * 흔히 too rich for my blood라고 하는데요, 나한테는 너무 비싸, 예산초과야, 과분해 라는 뜻이랍니다. 어떤 음식이 칼로리가 너무 높다고 할 때도 사용해요.
   * 이 호텔은 나한텐 너무 비싸. This hotel is too rich for my blood. 
@@ -5999,6 +6011,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그는 형편 없는 요리사야. [ex] He's a rotten chef.
 
 ## rose
+* 사물을 낙관적으로 보다 see things through rose-colored spectacles[glasses] 
 * : '만개한 상태가 장미를 떠나다'로, 활짝 폈던 꽃이 시드는 것처럼 뭔가가 '전성기를 지나다, 예전의 활기를 잃다'라는 뜻이에요! 여기서는 사랑/애정이 식었다는 뜻으로 쓰였죠. 1. [ 관용구 ] the bloom is off the rose
 
 ## roast
@@ -6481,6 +6494,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## smooth
 * 그녀가 치마에 생긴 주름을 폈다.; She smoothed the creases out of her skirt. 
 
+## smoke
+* 담배를 피우기 시작하다; take up smoking;  간접흡연: passive smoking
+
 
 ## smell
 * 냄새를 딱 맡았죠. "I can smell it on you." 이처럼 '낌새를 맡다, 알아차리다'라는 뜻으로 동사 smell을 쓰기도 해요.
@@ -6615,6 +6631,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   돈을 알뜰힘 ㅗ으다; has been able to saly away quite a lot of money
   이해하다; take such s story with a grain of salt
   에누리해서 듣다; I take everything he says with a grain of salt
+  * 당신은 그녀가 말하는 것을 반신반의로 받아들이지 않으면 안 된다. You must take anything she says with a pinch of salt. 
 * 실제로 소금을 뿌리라는 의미라기보다는, 상처가 난 곳에 소금을 뿌리면 더 아프게 되는 모습에서, 이미 어려운 상황을 [더 힘들게 만들다] 라는 의미가 있어요. = pour(rub) salt in/into a wound 영상에서는 into the wound 가 나오진 않았지만, 이별을 하려는 연인들은 이미 그 상황 자체가 상처일 수가 있겠죠. 헤어지는 상황에서, 이왕 헤어질 거면 아예 존재한 적이 없었던 것처럼 주인공의 마음을 더 힘들게 만들면서 질척거림 없이 단칼에 헤어지려고 하는 마음을 비유적으로 표현한 내용이라고 볼 수 있습니다.
   * 서로 더 상처 주는 일은 하지 말자. ex) Let's stop pouring salt into each other's wounds.
 
@@ -7554,6 +7571,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그 여성인 걸음을 늦추고 뒤를 돌아봤다. The lady broke stride and spun around.
 
 ## strike
+* 만일 내가 갑자기 부자가 된다면, 더 이상 일하지 않아도 되는 거야. If I could # strike it rich, I wouldn't have to work anymore. 듣기 출처:YBM
 * strike는 '때리다, 찌르다, 맞추다, 인상을 주다, 파업을 하다'등 정말 다양한 의미를 가지고 있는 단어입니다. 여기서는 (자세를) 취하다는 의미로 사용되었어요. strike a pose와 비슷한 용례로 '어떤 태도를 취한다'고 할 때는 strike an attitude라고 합니다.
   * 모델은 포즈를 취할 준비가 되었다. The model is ready to strike a pose.
 * 1) strike up a conversation = 대화를 시작하다, 말을 붙이다 : strike up은 ‘시작하다’입니다. 영상과 같이 대화를 시작한다거나, 연주, 노래, 혹은 인연/관계를 맺는다고 할 때도 씁니다. 

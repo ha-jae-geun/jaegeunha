@@ -46,6 +46,8 @@
 * orange; or 발음 + 인ge,  Strawberry; 스트로 입술울 모으지 않은 상태에서 '스트로' + bear + 이 
 
 # 기타
+* recital 미국·영국 [rɪˈsaɪtl] 
+* lingerie [ˌlɑːndʒəˈreɪ] 레이까지 아니면 loundry와 헷갈림 [ˈlɔːndri] 
 * basic  [ˈbeɪsɪk]  beige 미국식 [beɪʒ] 
 * courageous 미국식 [kəˈreɪdʒəs]  courage 미국식 [ˈkɜːr-]  영국식 [ˈkʌrɪdʒ]
 * instead; s 다음의 t는 된소리이다; instead

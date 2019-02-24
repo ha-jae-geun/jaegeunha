@@ -90,6 +90,9 @@
 	* = 미래 에너지를 위해 두 가지 시나리오를 가정해 보았습니다. We have postulated two scenarios for the future of energy.
 * i'm gusssing; It must've 
 
+# 가정법
+* # 어땠을까? 좀더 일찍 알았다면 어땠을까 생각하게 돼; If i had known you ealier, what would have happend to us i ask 
+
 # 가져오다
 * 데려와, 가져와; fetch 사람 + 사물 / fetch 사물 for 사람; fetch me the book; 상대방이 책을 가지고있지 않은 상황에서 무리해서 가지고 오라는 뜻
     * bring me the book은 책을 손에가지고 있ㄱ거나 다른곳에 와서 가져와야 하는지 중요하지 않고 가져와달라는 뜻
@@ -1168,6 +1171,7 @@
  * #leave someone for someone
 
 # 긍정적
+* 사물을 낙관적으로 보다 see things through rose-colored spectacles[glasses] 
 * #긍정적 #optimistic # 비관적 optimistic
  * : 컵에 물이 반이 차 있을 때, 반이나 있네, 하고 긍정적으로 바라보는 타입과, 반 밖에 없네, 라고 부정적으로 바라보는 타입을 이렇게 표현한답니다~ 단순히 optimistic 긍정적, pessimistic 비관적, 이라고 말하는 것보다 더 그럴 듯한 방법이죠~!?^^
   * respond in the affirmative는 무조건 "긍정문으로 답하다"라는 뜻이에요. 비슷하지만 살짝 다른 표현 respond positively는 "긍정적으로 대응하다/답하다"랍니다.
@@ -4366,6 +4370,7 @@ retaliate
     * 상담원으로 3년 일하고 나니 둔감해졌어요. 까다로운 손님들을 매일 대하거든요. ex) I have a thick skin after working as a customer service rep for 3 years. I deal with touch customers every day.
 
 # 비밀
+* # 극비 문서; The most # highly classified documents
 * confide는 ‘비밀, 속마음을 털어놓다’는 뜻입니다. 누구에게 털어놓았는지까지 표현하려면 전치사 in 뒤에 사람을 넣으면 됩니다. 여기서는 with no one to confide in으로 "기댈 사람이 아무도 없는"이라고 하였네요.
   * 실은 대사관내 # 첩보보안부서에서 일한다  I'm actually in the cloak and dagger division of the embassy
   * : 직역하면 '~이 비밀이 아니다'라는 뜻으로 공공연히 잘 알려진 사실에 대해 말할 때 일반적으로 자주 사용하는 표현입니다. It's a well-known fact that...과 같은 의미라고 볼 수 있어요. 듣는 느낌은 살짝 차이가 있지만요.
@@ -5588,6 +5593,9 @@ retaliate
  * 너 어디 가고있다고 생각해?         Where do you think you are going?
  * 어디 #다른데 꼭 가야할 데가 있는 겁니까? Is there somewhere else you have to be
  * 내가 그들이 너 어디로 데려갔는지 정확하게 알아낼게 I want to try to find out exactly where they took
+
+# 어때
+* # 어땠을까? 좀더 일찍 알았다면 어땠을까 생각하게 돼; If i had known you ealier, what would have happend to us i ask 
 
 # 어렵다
 * 기술 용어로 쓰일 때는 '하드웨어에 내장된 (그래서 유저가 손대기 어려운)'이라는 뜻인데요. 이렇게 어떤 반응/사고/행동/태도 따위를 얘기할 때는 인간의 본성에 '내장되어 있는, 본능적인, (그래서 어쩔 수 없고, 바꾸기 힘든)' 이라는 뜻을 지닙니다.
