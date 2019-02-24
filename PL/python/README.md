@@ -14,9 +14,19 @@ Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
 * have garbage collector and support unicode
 
 
----
+# 파이썬 자료형
+ * 원시 자료형: 직접 접근
+ * 수치 타입
+ * 정수타입: byte, short, int, long, char(자판기; 쓰면 아스키코드로 바뀜)
+ * 기본형은 int 형
+ * 부동 소수점: float, double
+ * 기본이 double이라 float형은 f 붙여 주어야 함.
+ * 불리언 타입
+ * 원시 자료형은 크기가 작고 고정적이기 때문에 메모리의 스택에 저장이 된다.
+ * 자바에서는 원시 타입을 제외하고는 다 참조다. 하지만 파이썬, R은 다 참조다.(원시타입이 존재하지 않는다.)
+ * 2진수, 8진수, 10진수(올림형), 16진수로 표현 가능하고, 정수형 중 음수는 보수를 사용한다.
+ *   -  3.6버전에 신경망 알고리즘 등 대다수 존재, 3.7부터는 _ 공백 문자 등이 등장했지만 알고리즘 지원 안함
 
----
 
 # Development Environment
 * window: python, Mac¤ýUbuntu: python3
