@@ -46,7 +46,8 @@
 * orange; or 발음 + 인ge,  Strawberry; 스트로 입술울 모으지 않은 상태에서 '스트로' + bear + 이 
 
 # 기타
-* recital 미국·영국 [rɪˈsaɪtl] 
+nuance 미국식 [ˈnuː-]  영국식 [ˈnjuːɑːns] 
+* recital 미국·영국 [rɪˈsaɪtl]    cord, chord [kɔːrd]  (dress) code 미국식 [koʊd]
 * lingerie [ˌlɑːndʒəˈreɪ] 레이까지 아니면 loundry와 헷갈림 [ˈlɔːndri] 
 * basic  [ˈbeɪsɪk]  beige 미국식 [beɪʒ] 
 * courageous 미국식 [kəˈreɪdʒəs]  courage 미국식 [ˈkɜːr-]  영국식 [ˈkʌrɪdʒ]

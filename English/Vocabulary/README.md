@@ -385,7 +385,13 @@
 ## across
 * 반대편에 있다; it's across the road from -
 
-## action
+## act
+* act의 명사형 2가지;
+  * 액션물: action-packed movies
+  * 말보다 행동; Action speaks louder than words
+  * 연기: acting
+
+### action
 * slang(속어)으로 'action'은 '성적 접촉·활동'을 가리킬 수 있습니다. 문맥에 따라 스킨십에서부터 섹스까지를 모두 나타낼 수 있죠.
   * 어제 (스킨십·섹스) 좀 했냐? [ex] Did you get some action last night?
   * 왜 쟤네만 애정표현을 다 받는 거야? [ex] How come only they get all the action?
@@ -698,6 +704,9 @@
 
 ## behave
 * * behave badly = 못되게 굴다 * behave yourself! = 말썽 피우지 마!
+
+## bin
+* 골포스트; top bins; 골포스터에 골을 넣을 거에요; i'm calling top bins
 
 ## biased
 * 이때 사용할 수 있는 것이 OO-biased (OO 멤버를 가장 좋아하는), OO bias (OO 멤버를 가장 좋아함)이라는 표현입니다.  
@@ -1142,6 +1151,7 @@
                                  
 
 ## bump
+* 오버 부킹됐어." I got bumped.
 * 너무 빠른 월급인상인것 같구나; Such a quick pay-bumping for my son
 * 힘준 메이크업 완성했어요; we are all done with our bumped up makeup look
 * 임신한 배를 보이다; show off the bump
@@ -1154,9 +1164,16 @@
 * 돈을 좀 더 벌려고 주말에는 식당에서 일하고 있어. ex) I'm working at a restaurant on the weekends to make an extra buck.
 * 1. buck 은 [1달러] 또는 [돈] 을 의미하는 비격식 표현입니다.
 
+## brim
+* Do you want me to fill it to the brim?” 가득 따라 줄까(요)?
+
 ## brick
 * a ton of 은 무언가가 [굉장히 많은] 을 의미하는 비격식 표현인데요. 실제로 벽돌 (brick) 이 1톤 정도 자기 주변에 있다고 생각하면 아주 무겁고 답답하고, 힘들고 그럴 거예요. 그래서 la ton of bricks 는 [갑작스럽고 중요한 영향] 정도로 해석이 됩니다. 영상에서는 동사 [go over = 특정한 반응을 이끌어내다] 와 함께 쓰여서 직역하면 [용돈을 줄인 건 엄청난 영향을 이끌어냈다] 정도로 해석이 되지만 의역하여 [딸은 충격에 휩싸였죠] 로 해석이 되었습니다.
 	* 그 진실이 내겐 큰 충격으로 다가왔다. ex) The truth hit me like a ton of bricks.
+
+## blue
+* 정부가 정치, 외교, 경제 등의 복잡한 이슈나 문제에 대해서 간결 명료하게 설명해놓은 보고서나 어려운 결정을 내릴 때 참고할 수 있는 지침서를 백서라고 합니다. 정부 외에도 민간 분야, 특히 기술 분야의 백서는 현재 개발 중인 기술과 전반적인 계획에 대해 써 놓은 보고서를 의미해요. 이외에도 생활 백서, 국방 백서 등이 있습니다. 영국 정부에서 조금 더 자세하고 방대한 버전인 보고서/지침서를 blue book 이라고 했는데요. 커버가 파란색이라서 붙은 이름이라고 해요. white paper 또는 white book 은 커버가 흰색이기에 붙은 이름입니다. 미국에서는 blue book 은 &lt;중고차 가격표&gt; 를 의미합니다.
+  * = 정부 백서가 다음 주에 발간될 예정입니다. The government's white paper is to be published next week.
 
 ## blind
 * = 좁은 견해를 가지다, 주변 사정에 어둡다 put blinders (blinkers) on; 미국에서는 blinders, 영국에서는 blinkers 라고 하는데요. 이는 말을 타고 갈 때 말이 주변의 사물에 주의를 잃지 않도록 눈가에 붙여두는 가죽을 의미합니다. put on 은 '입다, 쓰다' 라는 의미가 있으니, 눈가리개 가죽을 써서 다른 것을 못 보는 것을 의미하는데요.  비유적인 표현으로 쓰여, 주변에서 발생하는 일이나, 남의 의견을 인식하지 못하고, 하나에만 집중하고 자기 의견만 생각하는 모습을 의미해요. 영상에서는 문맥상 '주변에 다른 이성들을 잘 알지 못한다' 의 의미를 갖지만 좀 더 자연스럽게 '한 사람에게만 집중하지 않다' 로 해석이 되었습니다.
@@ -1207,6 +1224,8 @@
   * = 저 두 집안은 원한 관계야. There's a lot of bad blood between those two families.
 
 ## blow
+* ＊ blow cover = 신분이 노출되다; 썼던 커버(cover)를 날려(blow)버리면, 자신의 신분이 노출되겠죠? 감추려던 자신의 정체나 목적이 다른 사람들에게 탄로났을 때 blow cover 라고 합니다.
+  * = 그녀가 내 이름을 크게 불러서 내 정체가 탄로났다. She blew my cover by calling out my name.
 * 규모가 크고 신나는 파티나 식사 자리를 갖는 것을 have a blowout이라고 합니다.
  * 내가 계산할게, 내가 알아서 할게, 내가 해결할게
  * #blow up; 화내다; he blew up at me
@@ -1450,6 +1469,8 @@
 * 1) 질감이 거칠 때 쓰는 표현입니다. 보통 동물이나 실, 정제가 조금 덜 된 곡물의 질감에 쓰이는 단어입니다. 또한 어떤 사람이나 그 사람의 발언이 무례하고 저속할 때도 이 단어를 사용합니다.
 
 ## cover
+* ＊ blow cover = 신분이 노출되다; 썼던 커버(cover)를 날려(blow)버리면, 자신의 신분이 노출되겠죠? 감추려던 자신의 정체나 목적이 다른 사람들에게 탄로났을 때 blow cover 라고 합니다.
+  * = 그녀가 내 이름을 크게 불러서 내 정체가 탄로났다. She blew my cover by calling out my name.
 * cover story는 신분을 감추거나 진실을 드러내지 않기 위해 알리바이처럼 꾸며낸 가짜 이야기를 일컫습니다. 또는 잡지의 커버에 나오는 표지 기사를 뜻하기도 하죠.
   * 경찰은 그들의 거짓 이야기를 믿지 않았다. The police didn't believe their cover story.
 * 여권 앞표지에 넣어두세요; into the front cover of your passport
@@ -1471,6 +1492,10 @@
 ## core
 * 내 깉은 상ㅇ처는 아직 회복 중이야; Hurt me to the core
   * 이 배는 안쪽까지 썩었어; THe pear is rotten to the core
+
+## counterfeit
+* fake 라는 단어는 fake 제품을 만든 사람이 남을 속이려는 의도가 있든 없든 다 쓸 수 있는 단어에요. 딱 보기에 진품과 구별이 힘든 것도 fake, 너무 티 나게 가짜도 fake 인 반면 counterfeit 는 남을 속이기 위한 의도가 듬뿍 담겨, 진품과 완전히 똑같이 만든 제품을 의미합니다.
+  * = 중국에서 수백만 달러치의 위조지폐가 발견되었습니다. Counterfeit bills worth million dollars were found in China.
 
 ## count
 * 이게 네 마지막 기회야, 그러니 확실히 해. This is your last chance, so make it count.
@@ -1865,6 +1890,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 할 게 너무 많아서 책상 위에서 잠을 잤어. I had so much to do that I crashed on the desk.
 
 ## cute
+* You are cute i guess; 호감도 많진 않음.
 * cutesy는 cute에서 비롯된 말이지만 그냥 귀여운 것보다는 지나치게 귀여워서 오히려 사람들이 거부감을 좀 느낄 정도의 귀여움을 의미합니다. 유치한 느낌, 인위적으로 과한 느낌의 귀여움이죠.
   * 여자애들이 과하게 애교부리며 말하는 거 좋아하지 않아. I don't like it when girls talk all cutesy. [ˈkjuːtsi] 
 
@@ -1966,6 +1992,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 	* 에디트는 드디어 사진작가로서 인정받았다. [ex] Edith finally came into her own as a photographer.
 * as 가 엄밀히 따지면 전치사이기 때문에 뒤에 명사가 나와야 하지만, 영상에서처럼 사람의 성격을 나타내는 형용사가 혼자 오기도 합니다. = come across as ~ as 가 엄밀히 따지면 전치사이기 때문에 뒤에 명사가 나와야 하지만, 영상에서처럼 사람의 성격을 나타내는 형용사가 혼자 오기도 합니다.
 	* 그가 처음엔 진짜 똑똑한 사람 같은 인상을 줬어. ex) He came across as a really smart person at first.
+
+### come up
+* ＊ coming right up = 곧 나옵니다
 
 ### come around
 * come around는 방문하다, 의식을 찾다, 피하다 등 다양한 뜻이 있는데 여기서는 ‘의견을 바꾸다’로 쓰였습니다. 어느쪽으로 의견을 바꿨는지까지 표현하려면 뒤에 전치사 to를 넣으시면 됩니다.
@@ -2114,6 +2143,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 당분간 계속 못 할거에요; We're clsed indefinitely
 
 ## deep
+* 좀 더 저음으로 말할까? SHould i say deeper?
 * 이 영화 진짜 심오하다. This movie is so deep.
   * deep analysis: 심층 분석  deep movie: 심오한 영화(편하고 가벼운 영화는 lighthearted movie)  deep meaning: 깊은 의미, 심오한 의미  동의어로 profound(심오한, 깊은, 엄청난)가 있어요.
 * 마음 속 깊은 곳 아래, 즉 속마음은 ~하다, 마음 깊은 곳에서는 ~하다, 겉으로 보이는 것이 아닌 진짜 본심, 천성은 하다는 이야기를 할 때 사용해요. deep down : 마음 속으로는, 내심, 사실은
@@ -2326,6 +2356,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * #자료를 찾아보다 #dig up research(#research)
 
 ## develop
+* 특히나 뉴스에서 많이 볼 수 있는 단어인데요. 원래 development 가 '발전, 개발' 이라는 뜻으로 좀 더 잘 알려져 있지만, 발전이든 개발이든 기본적으론 앞으로 나아가는 뉘앙스의 의미이기에, 어떤 사건이 앞으로 나아가 [새롭게 전개된 사실]을 의미합니다.
+  * = 월요일 이후로 새롭게 전개된 내용은 없습니다. There have been no new developments since Monday.
 * develop 은 기본적으론 [개발하다] 라는 뜻이지만, 없던걸 만들어내는 뉘앙스이기 때문에 뒤에 병명이나 어떤 문제가 목적어로 오게 되면 1) 없던 병에 걸리거나 2) 문제가 생길 때도 쓰이는 단어입니다.
 	* 아이들에게 발진이 생기면 병원에 데리고 가세요. ex) Take your kids to hospital if they develop a rash.
 
@@ -2588,6 +2620,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
  * ##freeloader
  * I have free time (a xxx)
  * #free ticket을                 'day pass/ticket’
+
+## fake
+* 이 가짜들을 모조리 없앨거야; we're shutting this fakery down
+* fake 라는 단어는 fake 제품을 만든 사람이 남을 속이려는 의도가 있든 없든 다 쓸 수 있는 단어에요. 딱 보기에 진품과 구별이 힘든 것도 fake, 너무 티 나게 가짜도 fake 인 반면 counterfeit 는 남을 속이기 위한 의도가 듬뿍 담겨, 진품과 완전히 똑같이 만든 제품을 의미합니다.
+  * = 중국에서 수백만 달러치의 위조지폐가 발견되었습니다. Counterfeit bills worth million dollars were found in China.
 
 ## faff
 * 농땡이 부리지마; stop faffing;
@@ -3259,6 +3296,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## green
 * 정말 부럽다; i'm green with envy; green: 창백; 안색이 변할 정도로 질투가 난다.
+
+## grand
+* 헐리우드 액션; grandstand play
 
 ## gray
 * 흰머리 감추려고 갈색으로 염색했어; She dyed her hair brown to hider her gray hair
@@ -4587,6 +4627,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 너만 알고 있어. 알았지? 아무에게도 말하지 마. The word is mum. Ok? Don't tell anyone. 
 	* i'll keep it mum's the word
 
+## meme
+* Internet meme의 줄임말
+* 제작자; memer; 미머
+
 ## mercy
 * # 휘둘리다; : 그대로 해석하면 누군가/무언가의 '자비'에 있다는 뜻인데요. 누군가/무언가의 자비에 따라 운명이 좌우되듯, '에 휘둘리다/달려 있다', '통제/지배를 받다' 라는 뜻이에요! 이 문장의 전체 뜻과 함께 기억해보세요. 내용과 연관 지으면 기억이 더 오래 갈 거예요!  at the mercy of someone/something
   * 난 내 감정에 휘둘리고 싶지 않다. I don't want to be at the mercy of my emotions.
@@ -4775,6 +4819,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 심지어는 우리도 그일로 그를 우롱했다  Even we take the mickey out of him for that. take the Mickey out of …
 
 ## mind
+* top of mind = 가장 먼저 떠오르는, 가장 신경쓰는
+  * = 차를 살 때 나는 연비가 가장 중요해.When buying a car, fuel efficiency is top of mind for me.
 * Do you mind if 구문은 참 많이 쓰이는데요.. 줄여서 Mind if가 훨씬 더 많이 쓰입니다.
 대답은 (꺼리지 않을 경우) 반대로 해 주시면 돼요. 
 외국인을 만나다 보면 그 사람의 출신지가 궁금할 경우가 왕왕 있는데요. 그거 물어보는건 딱히 실례는 아닙니다.
@@ -4795,6 +4841,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 'mixer'는 북미권에서 '새로운 사람들을 알기 위한 친목회·사교의 장'을 가리키는 informal(비격식)한 말입니다.
   * 학교는 항상 9월 둘째 수요일에 친목회를 주최한다. [ex] The school always holds a mixer on the second Wednesday of September.
   * 사교성이 좋은[나쁜] 사람 [ex] a good[bad] mixer
+
+## mile
+* try to walk a mile in one's shoes
 
 ## milk
 * 돈 뜯어가려고 이용했어; has been #milking Denny dry
@@ -5155,6 +5204,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 우리는 자연에서 배울점이 많다. We need to take a leaf out of nature’s book.
 
 ## paper
+* 정부가 정치, 외교, 경제 등의 복잡한 이슈나 문제에 대해서 간결 명료하게 설명해놓은 보고서나 어려운 결정을 내릴 때 참고할 수 있는 지침서를 백서라고 합니다. 정부 외에도 민간 분야, 특히 기술 분야의 백서는 현재 개발 중인 기술과 전반적인 계획에 대해 써 놓은 보고서를 의미해요. 이외에도 생활 백서, 국방 백서 등이 있습니다. 영국 정부에서 조금 더 자세하고 방대한 버전인 보고서/지침서를 blue book 이라고 했는데요. 커버가 파란색이라서 붙은 이름이라고 해요. white paper 또는 white book 은 커버가 흰색이기에 붙은 이름입니다. 미국에서는 blue book 은 &lt;중고차 가격표&gt; 를 의미합니다.
+  * = 정부 백서가 다음 주에 발간될 예정입니다. The government's white paper is to be published next week.
 * 서류상의 흔적 = paper trail 서류상의 흔적 = paper trail
   * 어떤 흔적도 남기고 싶지 않아서 현금 결제 했어. ex) I didn't wanna leave any paper trails so I paid in cash.
 
@@ -5192,6 +5243,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : ~ 기 위해 엄청난 # 공을 들이다 take great pains to + 동사원형
 
 ## pack
+* 6팩의 맥주; a six-pack of beer
 * 그녀는 물품들을 상자안에 채워놓고 있따; She's packing items into a carton
 * :끝내다/패배를 인정하다 pack it up  :그만두다/끝내다 pack it in
     * 결국에 우리는 패배를 인정해야 했다. We had to pack it up in the end.
@@ -5321,6 +5373,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 어른이어서 좋은 점이 뭐야? What are the perks of being an adult?
 * 만약 회사에서 보너스(=perk)를 받는다면, 매우 신나서 없던 기운도 살아나겠죠? ^^ 동사로 perk 은 병이나 피로, 우울감 등 부정적인 상태를 극복하고 몸과 마음이 밝아진다는 뜻이에요. 영상에서는 커피가 아침에 기운을 차리게 해주기 때문에 ‘아침용 자양강장제’라고 표현하였습니다. 
   * 따뜻한 핫초코 한 잔 마실래? 마시고 나면 기운이 좀 날거야.How about a cup of hot chocolate? It might perk you up. 
+
+## palm
+* 군중들은 그의 손바닥 안에 있었다. The crowd was eating out of the palm of his hand. 듣기  [pɑːm]
 
 ## palate
 * 입가심; 입가심용으로 좋다고 할 때는  it’s a good palate cleanser. 
@@ -5549,6 +5604,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ### practically
 * 실질적으로; 이건 사용할수나 없어; It's practically unusuable
 
+## progress
+* * # 미완성; a work in progress  = It's just a rough draft
+
 ## procure
 * 특별히 중요한 물건을 구해다 주면 돼; I need you to procure an item of particular importance; procure: 어렵게 구하다
 
@@ -5747,6 +5805,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 사무실에 앉혀놨죠; Plop them into the Cambridge office
   * Can you plop the ice in at the end
 * 퐁당하고 넣어주세요; And plop it in
+
+## plain
+* 마트에 가시면 떠먹는 요구르트 중에 아무것도 첨가 안 된 건 '플레인 요거트' 라고 적혀져 있어요. plain 은 형용사로 [분명한, 숨김없는, 솔직한, 있는 그대로의] 등의 의미를 갖는 단어인데요. sight 는 [시야] 를 의미하기에 분명하게 눈에 들어오는 곳을 in plain sight 라고 표현합니다.  hide in plain sight 라는 표현으로도 많이 쓰여 직역하면 [잘 보이는 곳에 숨다] 인데요. 우리말 속담에 '등잔 밑이 어둡다' 와 비슷한 뉘앙스로, 뻔히 보이는 곳이지만, 그렇기에 더 잘 알아차리지 못하는 걸 의미할 때 쓰는 표현이에요.
+  * = 잘 보이는 곳에 숨어 있는 걸 찾는 게 어려워. It's hard to find something hiding in plain sight.
 
 ## plastic
 * 여기에서 'plastic'은 '플라스틱'이라는 우리가 잘 알고 있는 뜻이 아닌, '인공적인, 가짜의, 진실되지 못한'이라는 뜻으로 사용되었어요.
@@ -6382,6 +6444,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * red tape : (불필요하게) 형식적인 절차
   * 지원금이 형식적인 절차에 묶여있어. ex) The grant is now tied up with red tape.
 
+## shroud
+* 그 도시는 엷은 안개에 뒤덮여 있었다. The city was shrouded in mist.   (어둠구름천 등이) 뒤덮다, 가리다  [ʃraʊd] 
+* 그의 집안 배경은 미스터리 속에 가려져 있다. His family background is shrouded in mystery.  [타동사] (정보 등을) 감추다[가리다]
+
 ## shrewd
 * 잔머리가 좋아서 애가... He's a shrewd guy.
 
@@ -6567,6 +6633,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * pseudo-science : 유사과학, 사이비과학; 과학적이지 않지만 과학적인 방법에 근거했다고 여겨지는 믿음이나 관행을 의미합니다. 
   * 점성술은 유사과학의 일반적인 예이다. ex) Astrology is a typical example of pseudo-science.
 
+## scroll
+* = 나는 그의 이름을 찾으려고 명단을 스크롤했다. I scrolled through the list to find his name.
+
 ## scrub
 * 1) 동사 scrub 은 [문질러 씻다] 라는 뜻이 있는데요. 실제로 의사들이 수술에 들어가기 전에는 솔 같은 것들로 손을 벅벅 문질러 씻기도 합니다. 그래서 scrub in 은 의사가 수술에 들어가기 전에 손을 문질러 씻는 행동을 의미해요. 영상에서는 [수술 곧 들어가야해] 라는 뜻으로 쓰였어요.
   * 수술 준비 지금 바로 좀 해주세요. ex) Please scrub in right now.
@@ -6656,7 +6725,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 그 비서는 5년에 걸쳐 수십억을 빼돌려 고발당했다. ex) The secretary was accused of siphoning millions of dollars over the course of 5 years. 영상에서는 동사 1번의 의미로 쓰여서 돈을 [빼돌리다] 의 의미를 가집니다. 비격식 표현이며, 종종 위법으로 빼내는 것을 의미합니다. 1. (돈을) 빼돌리다. 끌어내다. 2. 사이펀으로 옮기다/뽑아내다.
 
 ## sight
+* sighted people = 앞을 보는 사람들; blind 는 많이 아시는데, 그 반대말은 잘 모르는 경우가 많은 것 같아요. 시력이 정상인 것은 아주 간단하게, sighted 라고 합니다. - far/long-sighted: 원시의 - near/short-sighted: 근시의 - clear-sighted: 판단력이 있는 - weak-sighted: 시력이 약한  - dim-sighted: 시력이 흐린, 침침한
+  * = 그는 완전 시력을 잃은 건 아니고, 부분적으로 볼 순 있어. He’s not totally blind. He is partially sighted.
 * 그녀를 한눈에 알아봤다. I recognized her on sight. on sight: 보자마자, 발견 즉시, 한눈에
+* 마트에 가시면 떠먹는 요구르트 중에 아무것도 첨가 안 된 건 '플레인 요거트' 라고 적혀져 있어요. plain 은 형용사로 [분명한, 숨김없는, 솔직한, 있는 그대로의] 등의 의미를 갖는 단어인데요. sight 는 [시야] 를 의미하기에 분명하게 눈에 들어오는 곳을 in plain sight 라고 표현합니다.  hide in plain sight 라는 표현으로도 많이 쓰여 직역하면 [잘 보이는 곳에 숨다] 인데요. 우리말 속담에 '등잔 밑이 어둡다' 와 비슷한 뉘앙스로, 뻔히 보이는 곳이지만, 그렇기에 더 잘 알아차리지 못하는 걸 의미할 때 쓰는 표현이에요.
+  * = 잘 보이는 곳에 숨어 있는 걸 찾는 게 어려워. It's hard to find something hiding in plain sight.
 
 ## significant
 * significant other는 그대로 해석하면 '중요한 다른 한 사람'을 의미하죠. 남편, 아내, 애인 (남친, 여친), 파트너를 지칭하며 그만큼 자신의 삶에 지대한 영향력을 끼치는 사람이에요.  (결혼 여부, 상대의 성을 드러내지 않는 표현이기에) 구체적으로 상대가 남편이다, 애인이다라고 말하지 않고 싶거나 유머적인 효과를 쓰는 경우도 있답니다. 인터넷상에서는 앞글자를 따서 SO라고도 합니다.
@@ -8040,6 +8113,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 저게 내가 말했던 그 사람이야. 저 여자가 건드는 일마다 대박 나. [ex] That's the person I was telling you about. Everything she touches turns into gold.
 
 ## top
+* top of mind = 가장 먼저 떠오르는, 가장 신경쓰는
+  * = 차를 살 때 나는 연비가 가장 중요해.When buying a car, fuel efficiency is top of mind for me.
+* 골포스트; top bins; 골포스터에 골을 넣을 거에요; i'm calling top bins
 * 토핑이 있어; as a nice topper; topper
 * 난 휘핑크림 얹혀진 음료들 사랑해. [ex] I love drinks topped (off) with whipped cream. 1. 위에 얹다 (주로 수동태로)
 * 리모델링 값이 이백만 달러보다 더 들 것이다. [ex] The costs for the renovation may top 2 million dollars. 2. ~보다 (값이) 크다
@@ -8209,6 +8285,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 허리에 있떤 통증이 목까지 올라갔어요; THe pain in my lower back travels up to my neck
 
 ## test
+* run a test = 테스트검사하다; 병원에서 검사를 한다고 할 때는 동사 run 을 써요. 주어는 의사와 같이 검사를 실시하는 사람이 옵니다.; - 의사 / run a test / on 환자
+  * = 맨날 검사만 받았어. They ran tests on me every day.
 * : 테스트를 받게 되다, 시험대에 오르다 수동형으로 표현되어 놓여진(be put) 것이고, 시험에 놓여졌기 때문에 시험대에 오르다라고 생각할 수 있습니다.
   * 인턴 교육생들은 인턴과정 마지막에 테스트를 받을 것이다. The interns will be put to the test at the end of their internship.
 * take a test :시험을 치다  pass a test : 시험에 통과하다  fail a test : 시험에서 떨어지다  cheat on a test : 부정행위를 하다
@@ -8507,6 +8585,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그는 항상 아침 9:30에나 당당하게 들어와서는 사장님이 어떻게 생각할지 전혀 신경도 안써. He waltzes in every morning at 9:30 and doesn't care what his boss thinks.
 
 ## walk
+* try to walk a mile in one's shoes
 * 그는 항상 말한 것을 실행한다. He always walks the talk. 
 * 비격식 표현으로 상대방의 감정이나 입장 등을 고려하지 않고 굉장히 못된 태도로 대하는 것을 의미해요. 누군가를 밟고 지나가는 느낌의 단어들이죠? = walk over someone
 	* 걔가 널 함부로 대하게 놔두지 마. 이런 취급을 받을 필요가 없잖아. ex) Don't let him walk over you. You don't deserve this.
@@ -8593,6 +8672,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : 요 표현에는 나름의 역사가 있어요! 원래는 'a fifth wheel' 이라는 표현이 있었죠. 바퀴가 네 개만 있으면 되는 탈것의 '다섯 번째 바퀴' 라는 뜻으로, '필요 없는 존재'나 '쓰임새가 별로 없는 것'을 의미해요. 여기서 현대에 더 널리 쓰이는 'a third wheel' 이란 표현이 파생했어요. 보통 두 사람 옆에 어색하게 꼽사리 낀 세 번째 사람을 말해요. 바로 요 표현에서 'a fourth wheel' 이라는 표현까지 나왔다고 볼 수 있답니다. 세 사람 옆에 어색하게 꼽사리 낀 네 번째 사람을 뜻해요!
                                 
 
+## white
+* 정부가 정치, 외교, 경제 등의 복잡한 이슈나 문제에 대해서 간결 명료하게 설명해놓은 보고서나 어려운 결정을 내릴 때 참고할 수 있는 지침서를 백서라고 합니다. 정부 외에도 민간 분야, 특히 기술 분야의 백서는 현재 개발 중인 기술과 전반적인 계획에 대해 써 놓은 보고서를 의미해요. 이외에도 생활 백서, 국방 백서 등이 있습니다. 영국 정부에서 조금 더 자세하고 방대한 버전인 보고서/지침서를 blue book 이라고 했는데요. 커버가 파란색이라서 붙은 이름이라고 해요. white paper 또는 white book 은 커버가 흰색이기에 붙은 이름입니다. 미국에서는 blue book 은 &lt;중고차 가격표&gt; 를 의미합니다.
+  * = 정부 백서가 다음 주에 발간될 예정입니다. The government's white paper is to be published next week.
+                                
+
 ## where
 * 지경에 이르러써요; It got to the point where i couldn't sleep at night
 
@@ -8672,6 +8756,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
  * 서서히 끝나다 #wind down
  * #wind around; slam your body down and wind it all around; #감다; 감아 올려
  * Luckily, the boss still hasn’t gotten wind of it. 다행히 아직 사장님 귀에는 안 들어갔어요
+
+### wound
+* wound up 미국·영국 [waʊndʌp]; 결국엔 내가 돈을 냈다. I wound up paying for it myself. 듣기 출처:YBM
 
 ### windbag
 * windbag이라는 단어를 보면 바람으로 가득 찬 가방이 자연스레 연상이 되는데요. 가방 안에 바람 말곤 없는 것처럼 비격식 표현으로 말을 길게 하지만 실속 없는 사람을 의미해요. 영상에서는 old windbags라고 쓰여서 [늙은 수다쟁이 = 말 많은 꼰대]로 해석이 되었습니다.

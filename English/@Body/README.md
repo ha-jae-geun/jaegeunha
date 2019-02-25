@@ -103,6 +103,7 @@
 * #bob cut
 * #숏커트; #pixie cut
 * 대머리	bald bɔ:ld 
+	* tonsure = 삭발, 삭발례 [ˈtɑːn-]  영국식 [ˈtɒnʃə(r)]; 이번 영상의 주제어입니다. 종교적인 이유로 삭발하는 것을 말해요. 일반적으로는 shave head 라고 하면 됩니다. 
 * 머리 밀다	shave one's head.
 * #삭발	shaved head나 tonsure tάnʃǝr
 * 적은 머맅술 넘기는 스타일	comb over
@@ -580,6 +581,7 @@ build your core muscles
 	I hurt my back, I #throw out my back; threw his back out rock climbing
 	* 잘록 들어간 옆부분: waist, 아래 부분; back, lower back
 * 단수형으로 vertebra, [ˈvɜːrt-]  영국식 [ˈvɜːtɪbrə]  복수형으로 vertebrae 입니다. 좀 더 간단한 표현으로 backbone(등뼈), spine(척추)라고 하셔도 됩니다.
+	* 사람의 등뼈, 척추를 backbone 이라고 하는데요. 등뼈가 몸의 중심에서 사람의 균형을 잡아주고 지탱해주는 모습에서 무언가의 근간이 되는 것을 backbone 이라고 하기도 합니다. 물론 등뼈를 spine 이라고도 하지만, spine 은 좀 더 격식 있는 단어이며 backbone 처럼 비유적으로 쓰이진 않습니다.
 	* [2] paraplegic : 하반신 마비의 / 하반신마비환자 paraplegia(하반신마비증)의 형용사이자 명사로 ‘하반신마비환자를 의미합니다. 그리고 ’하반신불완전마비(incomplete paraplegic)는 하반신완전마비(complete paraplegic)과는 다르게 뇌에서 보내는 신호를 하반신이 어느 정도는 인지할 수 있다고 합니다. [ˌpærəˈpliːdʒə] 
 	* 데이비드는 차사고에서 척추뼈가 부숴졌다. David crushed his vertebrae in a car accident. 
 * #뚱뚱한 여자; the #roll of waisteline flesh

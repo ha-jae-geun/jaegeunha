@@ -1,5 +1,6 @@
 
 -------------
+* 골포스트; top bins; 골포스터에 골을 넣을 거에요; i'm calling top bins
 * 할리우드 액션이에요; It's a grandstand play
 * 반사신경 좋아요; He is very athletic; have good reflexes; have quick reflexes
 	* #운동 신경; I have good #motor skills / #motor nerve = be #athletic

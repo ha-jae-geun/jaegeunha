@@ -1048,8 +1048,8 @@
 ## 쓸만한 영어 - 선글라스/안경 살 때 쓸만한 영어표현/영어공부/영어회화
 * 1. 선글라스 구입시
 * -I'm looking for a pair of sunglasses.
-* -opto^metrist 검안사
-* -eye doctor / ophthalmo^logist 안과의사 
+* -opto^metrist 검안사  [ɑptɑ́mətrist] 
+* -eye doctor / ophthalmo^logist 안과의사  ˌɑːfθælˈmɑːl-]
 * 2.안경태 크기 설명
 * -I'm looking for frames that (are big enough to cover my cheek bones.) 원하는 구체적인 테의 상태 설명
 * -I'm looking for gold wire rim frames 금테안경

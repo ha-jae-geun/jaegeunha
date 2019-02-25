@@ -125,6 +125,8 @@
  * ~어치의   worth of ~; 3 thousand dollars' worth of clothes
 
 # 가짜
+* fake 라는 단어는 fake 제품을 만든 사람이 남을 속이려는 의도가 있든 없든 다 쓸 수 있는 단어에요. 딱 보기에 진품과 구별이 힘든 것도 fake, 너무 티 나게 가짜도 fake 인 반면 counterfeit 는 남을 속이기 위한 의도가 듬뿍 담겨, 진품과 완전히 똑같이 만든 제품을 의미합니다.
+  * = 중국에서 수백만 달러치의 위조지폐가 발견되었습니다. Counterfeit bills worth million dollars were found in China.
 * 거짓이다; YOu're just beig phony
 * 진짜 오리지널이 아닌 가짜를 의미하는 속어입니다. fugazi 라고 쓰기도 하고요. 이 단어의 유래는 정확하지 않지만 1980년대 후반부터 인기를 얻어 쓰이게 된 단어입니다. 보석, 장신구 등이 짝퉁일 때 많이 쓰이는데요.
   * = 야. 이 신분증은 완전 짝퉁처럼 보이는데. 새 거 하나 해야겠다. Man. This ID looks so fugazy. You should get a new one.
@@ -955,6 +957,7 @@
   * 이 호텔은 나한텐 너무 비싸. This hotel is too rich for my blood. 
 * # 오바; glitz 는 ‘반짝거림, 화려함, 현란함’이고, over the top 은 ‘너무 지나친, 오바하는’을 의미합니다. 그리고 over the top 은 “야, 오바하지마”라고 할 때도 쓸 수 있어요. * over-the-top glitz = 과장된 화려함
   * 이건 너무 오바같은데. This goes way over the top.
+  * # 헐리우드 액션; * 헐리우드 액션; grandstand play
   * 1) [~가 도가 좀 지나치네.] / [자기 분수도 모르고 행동하네.] 를 표현할 수 있는 패턴입니다. 주어 + get(s) too big for (one's) boots
     * 밥은 도가 지나치게 행동하는 중이야. 걔가 승진하게 될 거라서 그런가? ex) Bob is getting too big for his boots. Do you think it's because he will get promoted?
   * ☆##도를 지나치다 take it too far, #cross a line, #over the top(#top)
@@ -3406,6 +3409,7 @@
  * #확실한 증거가 필요해요.      hɑ:rd 'pɑ:zətɪv kən'klu:sɪv 'evɪdəns pru:f
  * I need some hard/positive/conclusive evidence/proof 
  * 이 노래 # 완벽하다         The songs they play here are #on fleek
+ * * # 미완성; a work in progress  = It's just a rough draft
  * 그 분석은 완벽하게 정확하다         analysis of the company is #spot on.
   * 알고보면 어렵지 않은 단어예요! 99.999% 를 의미하는 단어로, 9가 5번 있어서 five-nine 또는 five nines 라고 합니다. 최상급 급의 순도가 99.999%인 것 처럼 더 이상 좋아질 수 없는 최고의 상태를 의미하는 단어죠.
     * 그녀의 작업 품질은 완벽에 가까워. ex) The quality of her work is five-nine.
@@ -4880,6 +4884,7 @@ retaliate
 * 소외감을 느끼다; i feel left out; My friends ditched me; Don't bully lots of people
 
 # 소음
+* 그는 그 끊임없는 소음을 견딜 수 없었다. He couldn't put up with the ceaseless racket. 듣기 출처:YBM
 * 듣기 불쾌한 소음을 의미하며 noise처럼 make a racket이라고 주로 표현합니다.
   * = 그는 정말 시끄럽게 해서 건물 안 모든 사람들을 깨웠다. He made such a racket and woke everyone up in the building.
 
@@ -5691,6 +5696,9 @@ retaliate
  * #go fly a kite(#kite); 눈앞에서 없어지다
  * #삭제하다; #ex# 외부; #efface
  * #x out; don't forget to x out all the mistakes
+
+# 엎드리다
+* 책상에 없드리다; i slept with my head down on the desk
 
 # 역사
 * 이 근처에 유적지가 있나요? Is there a histoical spot near here?
@@ -6809,6 +6817,7 @@ retaliate
 * shoes 는 비유적으로 ‘입장, 상태, 상황’을 말하죠. 그래서 step into their shoes 는 ‘그들의 입장에 서보다, 그들의 입장이 되어보다’입니다. 
 	* 내 입장에 서서 내 기분이 어떨지 이해해줄 수 없어? Can’t you step into my shoes and try to understand how I feel?
 * put yourself in other's shoes
+  * try to walk a mile in one's
 * 비슷한 표현으로 dig one's heel 이라는 표현도 있는데요. 두 표현 모두 발을 땅에 꾹 대고 움직이지 않으려는 모습의 의미를 가지고 있습니다. 그래서 비유적인 의미로 자신의 입장이나 결정을 포기하지 않고 단호한 입장을 취하는 걸 의미해요.
 	* = 다른 사람들이 불평을 많이 할지라도, 가끔 단호한 입장을 취할 필요가 있다. Sometimes you need to put your foot down even if others complain a lot.
 
@@ -8522,6 +8531,8 @@ retaliate
   * 그녀는 나뭇잎을 코팅해서 책깔피로 썼다. She used laminated leaves as a bookmark.
 
 # 타이밍
+* come at a bad time = 좋지 않은 때에 오다; 전치사 유의해서 외워주세요. come AT a bad time 입니다! 
+  * = 미안해요. 제가 타이밍 잘못 맞춰 왔죠?I’m sorry. Did I come at a bad time?
 * 타이밍이 좋았어; i was in the right place at the right time = Our timing was really/just good/right
   * 타이밍이 중요한거야; It's all in the timing
   * 그의 사진은 완벽한 타이밍에 멋진 순간을 잡았다. His shot is a wonderful moment caught with perfect timing . 듣기 출처:잉글리시히든카드
