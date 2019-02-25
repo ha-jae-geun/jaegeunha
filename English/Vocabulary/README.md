@@ -6168,6 +6168,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 현재 체계의 뿌리가 깊게 박혀있기 떄문입니다; the roots of our current system run deep
 
 ## rush
+* 스릴을 즐기는 거지; i enjoy the rush
 * rush 는 주로 [급하게 움직여야 하는 상황] 을 나타낼 때 많이 쓰이지만, 영상에서처럼 [기쁨/흥분/떨림] 의 감정을 나타내는데 쓰이기도 합니다. 강렬한 무언가를 경험할 때 확 들어오듯이 느껴지는 감정을 의미할 때 많이 쓰이는 단어입니다.
   * 경기 중에 골을 넣을 때 마다 급격한 흥분을 느껴.ex) I always experience a strong rush whenever I score a goal during a match.
 
@@ -6271,6 +6272,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## rack
 * (사업상의 수익·손실을) 보다[얻다], (시합에서 점수를) 쌓아올리다; 그 회사는 2년 만에 2억 달러의 손실을 보았다. The company racked up $200 million in losses in two years; rack up something
+
+## racket
+* 그는 그 끊임없는 소음을 견딜 수 없었다. He couldn't put up with the ceaseless racket. 듣기 출처:YBM
 
 ## race
 * # racey; 짜릿한
