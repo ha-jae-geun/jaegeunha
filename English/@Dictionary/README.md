@@ -91,7 +91,13 @@
 * i'm gusssing; It must've 
 
 # 가정법
+* # 일찍 알았떠라면; If i had know an English teacher like you earlier
+* 결혼이 뭔지 알았떠라면 결혼을 하지 않았을텐데; If i had known what it would be like to be married, i wouldn't have gotten married at all
 * # 어땠을까? 좀더 일찍 알았다면 어땠을까 생각하게 돼; If i had known you ealier, what would have happend to us i ask 
+* 내 강아지가 그렇게 빨리 죽을줄 알았더라면 더 잘 돌봐줬을 텐데
+  * If i had know my dog would die so early, i would've taken better care of; 그렇게 될줄 알았으면; would die
+* 사고가 난줄 알았더라면 다른 길로 갔을텐데; If i had known that there was a car accident, i would have taken another route
+* - 하지 못할거란거 알았떠라면; if i knew i wouldn't be able to see him again = If i knew that i wouldn't get to see him again; get to
 
 # 가져오다
 * 데려와, 가져와; fetch 사람 + 사물 / fetch 사물 for 사람; fetch me the book; 상대방이 책을 가지고있지 않은 상황에서 무리해서 가지고 오라는 뜻
@@ -1405,6 +1411,7 @@
  * 기절초풍; lose ones senses = #go nuts = #flip out = #freakout
 
 # 기회
+* - 하지 못할거란거 알았떠라면; if i knew i wouldn't be able to see him again = If i knew that i wouldn't get to see him again; get to
 * ㅍchance를 잡았을 때는 결과를 장담할 수 없습니다. 득이 될지 실이 될지는 해 보기 전까지 모릅니다. 운이 따르는 가능성에 가깝죠. opportunity는 우리가 흔히 떠올리는 긍정적, 진취적 의미의 기회를 뜻합니다.
   * 학교는 모두에게 공평한 기회를 줘야 한다. The school must give everyone an equal opportunity.
 * 배우로서, 그는 20대 때 그의 첫번째 결정적 기회를 얻었다. As an actor, he got his first big break in his 20s.
@@ -1937,7 +1944,7 @@
   * 냄새를 딱 맡았죠. "I can smell it on you." 이처럼 '# 낌새를 맡다, 알아차리다'라는 뜻으로 동사 smell을 쓰기도 해요.
   * 마침 누군가를 만난다든가, 무엇을 발견한다든가, 혹은 어떤 낌새 (거짓말, 험담, 등)를 눈치 챈다고 할 때 사용할 수 있는 단어예요. 
     * 그가 내 험담을 하고 있는 걸 발견했다. I caught him talking behind me.
-  * 눈치 빠르다; pick up things quickly
+  * 눈치 빠르다; pick up things quickly = catch on quickly
   * * * 눈치 있는/빠른 : #perceptive, #tactful, #observant, #considerate, #sensitive to the needs of others.
   * 왜이렇게 눈치가 없어 We have no common #sense, = you don't take a #hint
   * ~ is #cluelesss
@@ -3286,6 +3293,7 @@
   * 미련 없어                I have no feelings for her
 
 # 미루다
+* 영어에서 게으르다로 돌려 표현하기도 함; I wouldn't have been lazy about -
 * 학교 다닐 때 보통 put off 과 delay 가 같다고 배우는데요. procrastinate 와 함께 차이점을 알아보아요!
 * 1) delay : 가장 격식을 갖춘 단어로 [연기하다] 라는 뜻인데요. 하기로 정해져 있던 것을 '정당한 이유가 있어서 의도적으로' 나중으로 연기하는 것을 의미합니다.
 	* 문제가 해결될 때까지 회의를 연기해야겠어요. ex) We have to delay the meeting until this issue is settled.
@@ -3343,6 +3351,10 @@
  * 재촉하지마 don't be so #Pushy
  * 왜이렇게 급해                 What's the rush
  * # 미루다 # 연기# 끌다 # 지연 # 급함 # 서둘러 # 꾸물 # 빨리 # 빠르게 | # 재촉 # 연장 # 보류
+
+# 미리
+* 미리 집을 샀을텐데; i would've bought a house a head of time / early on; before 보다는
+* # 일찍 알았떠라면; If i had know an English teacher like you earlier
 
 # 믿다
 * # 정확; "I arrived at 7 sharp!" "precisely" [pri-sahys-lee] "exactly" [ig-zakt-lee] "on the button" ('버튼에 딱 맞춰서'); "on the nose" ('코(=목표점)에 딱 맞게')
@@ -4062,7 +4074,7 @@
  * #trinkets; 값싼 장신구
  * #다이아몬드 투명도 등급; #VVS#
  * ## 장신구 # 악세사리 # 금상첨화 | ## 금
-
+* # 장비; [명사] (개인의) 의복, 장신구(trappings);  accouterment (←accoutrement) 미국·영국 [əkú:tərmənt]  영국식   단어장추가
 
 # 보조금
 * 보조금; subsidy; subsidize; 세금 감면이나 원래 내야 할 돈을 어느정도 감면해 주는 혀애의 돈 [ˈsʌbsədi]  [ˈsʌbsɪdaɪz]
@@ -4509,6 +4521,7 @@ retaliate
 * [사기, 의욕] 은 영어로 morale 이라고 합니다. 그래서 사기를 높이는 것, 즉 [사기 진작]은 morale-boosting 이라고 하죠. [사기를 높이다] 라고 할 때 동사는 boost 뿐만 아니라 bolster, raise, improve 등을 쓰기도 합니다. 
   * = 코치는 선수들의 의욕을 높이고자 하였다. The coach tried to bolster up their morale.
 * # 사기꾼; 다른 사람 행세를 하는) 사기꾼; imposter; scam artist
+  * If i had known he was a conman
 
 # 사명감
 * 저는 여기 있어야 한다는 사명감을 느껴요; i feel a calling to be here
@@ -4665,6 +4678,9 @@ retaliate
 * B 에 대해 A 의 선고를 받다. = be condemned to A for B
   * 동사 condemn 은 1) 규탄하다,비난하다 2) 선고를 내리다, 라는 의미를 가지고 있어요. 2번의 의미로 쓰이면 영상에서처럼 주로 수동태로 쓰이고요. A 자리에는 '명사 또는 동사원형' 이 형량을 나타내고, B에는 어떤 잘못을 했는지가 들어갈 수가 있습니다.
   * 그 남자는 텍사스에서 있었던 총기 난사로 사형 선고를 받았습니다. ex) The man was condemned to death for the shooting spree in Texas.
+
+# 선물
+* 여자들한테 선물 뭐가 좋을까? what would be a good gift for women
 
 # 선배
 * senior, superior 같은 표현을 쓰면 상하체계가 확실히 잡혀있는 군대를 더올리게 된다.
@@ -5505,6 +5521,7 @@ retaliate
 * 안해; i'm out of here; i'm done with this
 
 # 알다
+* 내가 그를 전에 알았떠라면 -> If i had met him ealier
 * 사물에 대해 알다는 know 보다는 know about
 * be up on : ~를 잘 알다; 무언가를 잘 알 때 쓰는 비격식의 표현입니다. 영상에서는 엘렌이 목적어를 말하다가 멈추고, 뒷문장을 달아서 be up on 이라는 표현을  모를 수도 있는 사람들을 위해 문장을 바꿔 he knows what's going on. 이라고 말한걸로 보입니다. 
   * 난 요즘 리얼리티 TV 프로그램들을 그리 잘 알지는 않아. ex) I'm not really up on current reality TV shows.
@@ -5770,6 +5787,7 @@ retaliate
  * #3연속; three times a row
 
 # 연습
+* 일상적으로 연습하다; practiced routinely to improve my English
 * train은 practice 보다 진지하고 강도높은 훈련; i leaned martial arts for the film
 * 여기서 practice는 ‘실행, 실천’이란 뜻이고 실행에 두는 것(put into)이니까 “행하다, 실천하다, 실재로 하다”란 의미가 됩니다. ‘무엇을’ 실행에 옮기는지 표현하려면 put과 into사이에 명사를 넣어주세요.
   * 그거 실재로 해보자.  Let’s put that into practice. 
@@ -5953,6 +5971,10 @@ retaliate
  * the poverty and #squalor of the slums 빈민가의 가난과 불결함; live in squalor : 불결한 생활하다
  * ## 누추 # 허름
 
+# 오염
+* 독성이 있거나 오염원에 노출되어 오염시키는 것을 의미하는 단어입니다. 좀 더 익숙한 단어 pollute 의 경우엔 좀 더 넓은 범위의 '공해' 에 조금 더 가까운 뉘앙스로 쓰이기에 음식에는 쓰이지 않아요.
+  * = 이 모든 아이들은 오염된 지하수를 마셨고 즉시 치료가 필요합니다. All these kids drank contaminated groundwater and need to be treated immediately.
+
 # 온도
 * 상온 (가열하거나 냉각하지 않은 있는 그대로의 온도)은 영어로 room temperature라고 해요. temperature를 줄여서 temp라고도 말하죠~
   * 상온에 보관하세요. Keep it at room temperature.
@@ -6058,6 +6080,10 @@ retaliate
 
 # 원
 * 칫솔로 원을 그리듯 이를 닦으세요; Brush your teeth in a circular motion
+
+# 원어민
+* 요리 잘한다(cook really well) -> Such a good cook
+* 영어에서 게으르다로 돌려 표현하기도 함; I wouldn't have been lazy about -
 
 # 원인
 * 그의 비행으로 인해 사내 심각한 자금문제를 야기했다. His misconduct gave rise to a serious financial problem in the company; give rise to;  수면 위로 올라오다
@@ -7400,6 +7426,7 @@ retaliate
 
 # 전문가
 * 이거 전문가가 만든 것 같은 맛이야; This tatstes like a professional made it
+* 전문가에 맡겼을 거고 혼자서 처리하려고 하지 않았을거야; I would've gone to a professional ad wouldn't have tried to take care of it myself; 전문가에가 가다에서 전문가에게 맡기다의 의미가 내포
 
 # 전반적으로
 * 전반적으로; by and large = more often than not

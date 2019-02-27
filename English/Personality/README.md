@@ -4,6 +4,7 @@
 
 
 # 성격
+* 내가 그녀가 어떤 사람인지 잘 알았떠라면 친구하지 않았으렌데; if i had known exactly what kind of person she was, i wouldn't have made friends with her
 * 엄청 쿨해요; Everybody's super chill
 * ㅂ드럽다; * 2. ⓐ (분위기, 성격 등) 부드럽다, 온화하다
 	* 오바마 전대통령은 자신이 ‘온화한 사람’이라며 a mellow guy이라고 하였습니다. 여기에 sort of를 붙여 ‘온화한 그런 사람’, ‘일종의 온화한 타입의 사람’을 의미하게 됩니다.

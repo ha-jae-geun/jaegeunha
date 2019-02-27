@@ -8,7 +8,7 @@
 * cherry picker
 * 이 배는 안쪽까지 썩었어; THe pear is rotten to the core
 * 털 복숭아; #peaches <> 천도 복숭아; #nectarines; [|nektəri:n]
-
+* 석류; pomegranate 미국식 [ˈpɑːm-]  영국식 [ˈpɒmɪɡrænɪt]
 
 ## 귤
 * 북한에는 오렌지는 있어도 귤은 없다;

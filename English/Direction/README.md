@@ -7,6 +7,7 @@
 * #갈 길이 멀었어 There is a long way to go = we've still got a long way to go
 * #긴 여정(#여정)이었지; it’s been a #long road
 * 여기서부터 #고불거리기 시작한다 #지그재그 #꾸불 brʊk The brook begins to zigzag from here.
+* 사고가 난줄 알았더라면 다른 길로 갔을텐데; If i had known that there was a car accident, i would have taken another route
 * ##route; route to -ing; route to doing well
 * #막다른 길 #dead-end street
 * #난국 #사면초가; #reach an impasse; #impasse

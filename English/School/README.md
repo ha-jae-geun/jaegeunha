@@ -433,6 +433,7 @@
 * #scribble down; 대충 적다 a few ideas
 * ##핀 #옷핀	a safety pin 
 * 앗... 스테이플러 심이 다 떨어졌네	Oops, the staple stick ran out
+	* 스테이플러 뗴다; de-taple; 동사
 * 내가 채워올게	I will go get it refilled
 * #색종이	con·fetti [kən|feti]
 * throw confetti 색종이 조각을 뿌리다.

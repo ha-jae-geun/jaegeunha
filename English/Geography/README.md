@@ -44,6 +44,10 @@
 ## 광화문
 * 광화문 광장의 세종대왕과 이순신 장군, 어떤 의미일까? What does King Sejong and General Yi Sun-shin of Gwanghwamun Square mean?
 * 이순신 장군, 세종대왕, 경복궁, 청와대가 일렬로 위치해있다. In Gwanghwamun, there are a row of Yi Sun-sin, King Sejong, Gyeongbok Palace, and Cheong Wa Dae.
+* 지부상소: 최익현이 강화도 조약 이후 받아들이지 않으려면 머리를 쳐달라는 뜻으로 도끼를 지니고 올리는 상소를 올림
+* 6조: 예조, 병조, 형조, 공조, 이조, 호조가 위치한 자리
+* 조선총독부가 위치해 있기도 했음.
+* 광화문 거리에서 시작된 3.1운동, 4.19 혁명부터 6월 항쟁까지 민주화의 성지가 된 광화문 거리
 
 ## Gangnam
 * 고교 평준화 이후로, 대부분의 강북의 고등학교들을 정부는 강남으로 이동시켰다. Since the high school leveling, most governments ordered the high schools to move in Gangbuk to Gangnam.

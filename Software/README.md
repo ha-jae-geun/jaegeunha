@@ -1,3 +1,9 @@
+# 소프트웨어
+ * C:\temp // 영어 폴더 파일에 관리자 권한으로 실행
+ * 폴더 사이 공백 없게
+ * zip 파일은 똑똑하게 알집 풀기
+
+
 # 깃
 * 주니어 개발자 취업 정보: https://github.com/jojoldu/junior-recruit-scheduler/blob/master/README.md
 	* 포트폴리오: https://gmlwjd9405.github.io/2018/05/04/how-to-write-a-resume-for-a-developer.html

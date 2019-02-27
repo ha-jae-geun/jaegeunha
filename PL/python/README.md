@@ -3,7 +3,30 @@ Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
   [Ruby](https://www.jetbrains.com/ruby)
   [python common mistake](http://hamait.tistory.com/851?category=79136)
 
- 
+# 파이썬 설치
+ * 아직까지 3.6버전까지 머신러닝 지원
+ * Windows x86-64 web-based installer // 나중에 웹에서 다운받아야 함
+ * Windows x86-64 executable installer
+ * Windows x86-64 embeddable zip file // 나중에 환경변수 지정 필요
+- Add Python 3.6 to Path: 환경 변수 자동 설정해줌
+- Advanced Options: 전부 체크
+
+# 정확도와 속도 차이
+## 논리 연산자
+- 자바에서는 속도 때문에 &&   ||  등 2개 짜리를 권장한다.
+- &&는 앞이 거짓이면 뒤 검증 안함, || 도 앞이 참이면 뒤 검증 안함.
+
+## switch 문
+* 비순차적 문장
+ * 머신러닝 같이 데이터 검출을 목표로 할 때는 if 문을 쓰는 것이 맞다. 순차적으로 모두 확인해야 한다.
+ * :(영역 변경) 뒤에 {} 생략 가능; 파이썬 방식
+
+
+# 파이썬 논리연산자
+- (a==10) & (b==5)  // ()는 강제 형변환; 잘 사용 안함
+- and, or, not 을 논리 연산자로 쓰고  &는 보통 비트 연산자로 사용한다.
+
+
 # strength(Guido van Rossum)
 * simple syntax
 * have a lot of libraries
