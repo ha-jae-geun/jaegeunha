@@ -205,7 +205,7 @@ expenditure(지출 어떻게 할거니) 							 cash, credit card
 * 국제선 international flight
 * 연결편 connecting flight
 * 전세기편 chartered flight
-* 직항편 direct flight
+* 직항편 direct flight; nonstop flight; getting off from the direct flight
 * 기내 좌석	1등석 first class
 * 2등석/비즈니스석 business class
 * 3등석/일반석 economy class

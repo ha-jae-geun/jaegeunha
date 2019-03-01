@@ -264,6 +264,9 @@
 * break off with
 
 # 동사
+## arm
+* 난 그들과 함께 거기 있을 수 있다면 기꺼이 내 오른팔도 내주었을 것이다. I’d have given my right arm to have been there with them. 
+
 ## architect
 * 조경사: landscape architect 
 
@@ -287,9 +290,12 @@
 ## alter
 * alternative: 대안, 대안의; alternation: 교대, 교체
 
+## all
+* 그건 나에게 가장 중요한 것은 아니다. It's not the be all and end all for me. 듣기
+
 ## allow
 * - allow (명사) to 동사 : (~가) ~하도록 허용하다
-  * - allow for 명사 : ~를 감안하다, 고려하다, 가능케하다 문장에서 allow for captivity and breeding 은 포획과 사육한테 허가해줬다는 것이 아니라 [포획과 사육이 지속되도록 허용했다] 는 것입니다. 
+  * - allow for 명사 : -를 감안하다, 고려하다, 가능케하다 문장에서 allow for captivity and breeding 은 포획과 사육한테 허가해줬다는 것이 아니라 [포획과 사육이 지속되도록 허용했다] 는 것입니다. 
 
 ## alley
 * 1) alley creeper = 뒷골목을 살금살금 다니는 사람
@@ -1135,6 +1141,9 @@
   * 2) beg + (목적어) + for 명사 [ex] I begged her for a second chance.
   * 제발 부탁이야. / 이렇게 애원할게. [ex] I'm begging you.
 
+## bench
+* 후보로 두지마; don't bench me
+
 ## benign
 * 온순하고 사람들에게 해를 끼치지 않는 사람을 표현할 때 쓰는 형용사입니다. 그래서 해가 없는 약물이나, 심각한 해가 없는 종양을 말할 때도 benign medicine, benign tumor 라고 합니다.
   * 레베카는 정말 상냥하고 친절한데, 일을 할 때는 완전 전문가처럼 행동해. ex) Rebecca is so benign and kind, but when she works, she's a real expert.  [bɪˈnaɪn] 
@@ -1228,6 +1237,9 @@
 ## blank
 * mind goes blank = 아무 생각도 나지 않는다
   * = 그녀를 볼 때마다 머리가 하얘져. My mind goes blank whenever I see her.
+
+## blanket
+* 두루뭉술한 사과; blanket apology
 
 ## blast
 * (at) full blast: 최대치로 (속도, 음량, 성능 등)
@@ -1612,6 +1624,7 @@
 ## convenience
 * 가급적 빨리 전화해 주세요. Please telephone at your earliest convenience. 
 * 그들은 편의상 신용 카드를 사용할 수도 있다. They may use a credit card for convenience . 듣기 출처:Collins
+* 편할 떄 와; COme at your convenience; Lets arrange a meeting at your convenience
 
 ## contain
 * 1) contain 은 무언가를 [담고 있다, 함유하다] 라는 의미로 가장 흔하게 쓰이는데요. 그 박스엔 물 50병이 들어있어. ex) The box contains fifty bottles of water.
@@ -1723,6 +1736,9 @@
   * i'm keeping her in check
 * 수표 종류엔 personal check 와 cashier's check 가 있는데요. 개인 수표 같은 경우엔 수표를 주는 사람이 그 밑에 자기가 원하는 금액을 써서 상대방에게 줍니다. 그런데 수표를 받은 사람이 현금화 하려고 할 때, 수표 발행자의 통장에 잔고가 부족하면 현금으로 바꿀 수가 없거든요. 하지만 cashier's check 같은 경우엔, 수표를 건네는 사람이 미리 은행에 가서 자기 계좌에서 돈을 뽑아서 은행이 발행하는 수표이기 때문에 무조건 현금으로 바꿀 수 있는 수표입니다. 따라서 돈을 받는 사람의 입장에선 더 선호하고 신뢰하는 수표인거죠. [참고] endorse = 수표 등에 서명하다.
   * 개인 수표를 줘도 되지만, 자기앞 수표가 더 낫겠네요. ex) You can give me a personal check, but a cashier's check would be better.
+
+## chase
+* chase a rainbow Wiktionary;[Verb] (idiomatic) To pursue something illusory, impractical, or impossible.
 
 ## champ
 * 정말 멋지네; What a champ
@@ -2305,6 +2321,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 그리고 data 는 복수형이기 때문에 (단수형은 datum) 동사도 그에 맞춰야 하지만 일반적으로는 혼합해서 쓰는 편입니다. - The data is not accurate. (문법적으로 틀리지만 일반적으로 쓰는 말)
 * collect data on you = 당신의 정보를 수집하다
 
+## dumb
+* 저는 CBS뉴스가 뉴스를 꾸미고 지나치게 단순화하려 노력했다고 생각합니다. I think CBS News did try to dumb down and tart up the news. 듣기
+
 ## dump
 * 여기는 쓰레기야; the place is a dump
 * 땅이 꺼질듯이 우울해; i'm just down in the dumps
@@ -2597,6 +2616,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 예능 보는 것을 좋아핟; i like to watch entertainment programs
 
 ## end
+* 모든 사람들은 경제침체가 곧 끝나길 바랐어. Everyone hoped that the economic recession would come to an end soon.
 * [ 숙어 ] end up ing 일상에서 정말 자주 쓰는 표현이니 꼭 익혀두세요~! '[본의 아니게, 우연히, 결과적으로] ~하게 되다' 라는 뜻!
 * ※ end up in + 장소 / here / there … : 행동이 아닌 '어떤 장소에 우연히 도달하다'라고 말하고 싶다면, 요렇게 표현해보세요!
 	* 내가 어쩌다 여기까지 오게 됐지? [ex] How did I end up here?; [ex] He ended up in jail.
@@ -3155,6 +3175,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * # 이행; '~을 완수하다, ~을 이행하다'라는 의미로, (중간에 어려움을 만날지라도) 끝까지 지켜나간다는 뉘앙스를 가진답니다~
     * 크리스는 계약을 이행하는 데 실패해서 법정에 서게 되었다. Chris was taken to court because he failed to follow through with his contract. [구동사] # follow through on/with sth
 
+### follow by
+* 행진 다음에 연설이 있었어요; The march was followed by a speech
+
 ### follow up
 * 다른 영업사원이 작업해 놓은 일을 사후관리해야 할까요? Will I have to follow up on other salesperson's leads? 듣기 출처:능률교육
 
@@ -3400,6 +3423,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
     * 대선은 누구나 차지할 수 있어. 이번 대선은 완전 혼란스러워. ex) The election is up for grabs. This presidential election is chaos.
 * i'm gonna go grab a beer; i'm gonna (go) grab myself a sandwitch
   * go grab yourself a hamburger
+
+
 
 ## grip
 * ＊ vise-like grip = 손을 꽉 쥐는 것; 물체가 움직이지 않게 꽉 잡아주는 바이스(vise/vice)라는 공구가 있습니다. 바로 그 기계처럼 손을 꽉 움켜쥐는 것을 viselike(美) 혹은 vicelike(英) 이라고 불러요.
@@ -3753,6 +3778,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 가볍게 산 오르기 <> climb
 
 ## high
+* 나는 지갑을 찾아 온 데를 뒤졌다. I’ve searched high and low for my purse. 
 * # 극비 문서; The most # highly classified documents
 * # 막막; high and dry는 어려운 상황, 막막한 상황을 뜻합니다. 보통 leave someone high and dry라고 표현하여 ‘어떤 도움도 없이 혼자 남겨두다’라고 표현합니다.
     * 모두들 나를 혼자 힘든 상황에 내버려 두었지. Everyone just left me high and dry. 
@@ -4165,6 +4191,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * [instill in~]; 감정, 사상, 의식 등을 어떤 사람에게 서서히 주입시키거나 가르치는 것을 instill이라고 합니다. 짧은 시간에 급하게 전달하는 것이 아닌 천천히 받아들일 수 있도록 조금씩 알려준다는 뉘앙스를 갖습니다.
   * 내 부모님께서는 나에게 책 읽는 즐거움을 심어 주셨다. (instill / in / 사람 / 주입시킬 것) My parents instilled in me a love of reading. 
 
+## infancy
+* 그 정책은 아직도 초기 단계에 있어요. "The policy is still in its infancy."  [ˈɪnfənsi] 
+
 ## inform
 * informed decision = 관련 내용을 잘 알고 내린 결정 informed consent = 관련 내용을 잘 알고 한 동의
 * = 현명한 결정, 사실에 입각한 결정 informed decision; '정보'라는 뜻을 가진 단어인 information에서 보이듯이 inform 은 어떤 정보를 '알려주다'라는 뜻이 있어요. 그렇다면 과거 분사형인 informed는 '정보를 받은'을 의미할 텐데요. 돌려 말하면 정보가 많아서 무언가를 [잘 아는] 을 의미합니다. informed decision 은 함께 굉장히 많이 쓰이는 단어인데요. 결정을 내릴 때 많은 정보를 가지고, 사실에 입각하여 무언가를 잘 알고 내리는 결정이니 [현명한 결정] 을 의미합니다. 
@@ -4329,6 +4358,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 회사에서 프로젝트를 중단시켜서 난 이제 실직자야.  회사에서 프로젝트를 중단시켜서 난 이제 실직자야.  5) 중단시키다
 
 ## kid
+* 말도 안돼; 나한테 그러면 안돼; You gotta be kidding me
 * 1. No kidding은 직역하면 '장난 아니다'인데요, "진심이야"라고 해석하는 게 자연스러운 경우가 많아요.
 
 ## kitchen
@@ -4485,6 +4515,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 트렌드에 열중해왔따; have latched on to the trend of using consultants
 
 ## low
+* 나는 지갑을 찾아 온 데를 뒤졌다. I’ve searched high and low for my purse. 
 * on the low는 '비밀로 하는'이라는 뜻입니다. 'keep something on the (down) low'와 같은 형식에서 흔하게 접할 수 있는데요, '무엇을 비밀로 하다'라는 의미를 갖습니다.
   * 아무한테도 말하지 말고, 비밀로 해. Don't tell anyone, keep it on the low.
 * 침대에서 조용히 쉬고있어; she is laying low today
@@ -4726,6 +4757,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 모든 아이들이 카메라에 웃긴 표정을 지었다. ex) All the kids were mugging for the camera.
 
 ## music
+* 비난을 받아들이다; face the music
 * 다른 사람들은 모두 달아나 버렸다. 나 혼자 다 당하게 놔두고. The others all ran off, leaving me to face the music.  (자신의 행동에 대해) 비난[벌]을 받다
 
 ## mushy
@@ -4957,6 +4989,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 중간 유통업자를 건너뛰면 돈을 절약할 수 있을 것이다. Cutting out the middle man will save you money.
 
 ## mix
+* 'A에 대해 엇갈린 반응이 있다.' "There are mixed reactions to A"
 * >mix it up이 이 상황에서는 shuffle과 같은 의미로 쓰였어요; 그떄 그떄 달라요
 * : 기본적으로 '새로운 것을 섞어 흥미롭게 만들다' 라는 뜻이에요! 평소와 다른 것, 새로운 것을 시도해본다, 혹은 뭔가를 좀 더 흥미진진하게 만든다는 뜻으로 자주 쓴답니다.
   * 새로운 것 좀 해보자. 이번엔 뭔가 다른 것 좀 해보자고. 새로운 것 좀 해보자. 이번엔 뭔가 다른 것 좀 해보자고.
@@ -5434,6 +5467,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 개리는 정말 교수역에 적격이다. [ex] Garry really looks the part of a professor.
 
 ## pass
+* 저러다 말겠지; It will pass; SHe's gonna outgrow it
 * 새로운 법안이 통과되면 if a new bill passes into law.
 * ＊ pass off ⓐ as ⓑ = ⓐ를 ⓑ라고 속이다, 행세하다 가짜 물건을 진짜라고 속이거나, 신분을 속이고 다른 사람 행세를 한다는 뜻의 숙어입니다. 참고로 누구를 속이는지 당하는 사람까지 표현하려면 [on+사람] 을 붙이면 됩니다. 
 	* 그는 가짜 롤렉스 시계를 진짜라고 속였다. (pass off ⓝ) He passed off the fake Rolexes as genuine ones.
@@ -5758,6 +5792,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그는 캔맥주가 병맥주보다 부드럽고, 맛이 약하다고 말했다. He said canned beer tasted more mellow and less pronounced than bottled beer.
 
 ## project
+* 스크린에 영사되다; be projected on a screen
 * 여기서 동사 project 는 특정한 의도를 갖고 어떤 이미지나 모습을 '보여주다' 라는 뜻이에요!
   * 그 사람은 강한 지도자의 이미지를 보여줄 줄 알죠. [ex] She knows how to project herself as a strong leader.
 
@@ -6190,6 +6225,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 
 ## right
+* 난 그들과 함께 거기 있을 수 있다면 기꺼이 내 오른팔도 내주었을 것이다. I’d have given my right arm to have been there with them. 
 * 퍽이나   "Yeah, right."
 * 형용사 righteous 는 [도덕적으로 옳은] 이라는 뜻이 있어요. 그런데 self-righteous 는 자기만 옳다고 주장을 내세우는 느낌의 단어이니, 남들의 의견이나 행동을 잘 용인하지 못하는 [독선적인] 이라는 의미를 가집니다.
   * 난 새로운 매니저를 견딜 수가 없어. 그는 너무 독선적이야. ex) I can't stand the new manager. He's a bit too self-righteous.
@@ -6432,6 +6468,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## rain
 * 'make it rain'은 공연이나 사람들이 있는 곳에서 돈을 말 그대로 뿌리는 것을 의미해요. 자신의 재력을 과시하기 위한 행위로 볼 수 있는데요, 힙합 뮤지션들이 자주 쓰는 표현이기도 합니다.
 
+### rainbow
+* chase a rainbow Wiktionary;[Verb] (idiomatic) To pursue something illusory, impractical, or impossible.
 
 ## rail
 * 을 비난하다, 격렬히 반대하다. = rail against 동사로 rail 은 [격분하다] 라는 뜻이 있어요. 주로 전치사 against 나 at 과 함께 쓰입니다.
@@ -6622,6 +6660,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : 일장 연설, 즉흥 설교 [soapbox]; 옛날에 거리를 다니면서 임시방편으로 비누 상자위에 올라가 즉흥적으로 설교를 하던 것에 유래한 표현으로, 특정 주제에 대해 자신의 의견을 내세우다, 즉흥적으로 긴 설교를 하다는 의미의 표현입니다. 상자에 올라가는 건 get on, 내려가는 건 get off가 되어 각각 ‘설교하다’, ‘설교를 멈추다’가 되는 것이죠. 
   * 제발 이제 일장연설 좀 그만해. Please get off your soapbox.
   * 갑자기 그녀는 정치개혁에 대해서 의견을 내세웠다. All of sudden she got on her soapbox about political reform.
+
+## synonym
+* '대명사다', '상징이다', '-와 같다고 볼 수 있다'; 동의어' 라는 의미의 "synonym" 의 형용사 형태인 "synonmous" 를 "with" 와 함께 사용하여 "synonmous with" 라고 하면 ​ ˈsɪnənɪm]
 
 ## system
 * system은 제도, 체계, 조직 등의 의미로 많이 쓰이는데 여기서는 조금 다른 뜻으로 쓰였죠? 제임스가 말하는 시스템은 '몸'을 나타내요. 흔히 호흡 체계 (respiratory system), 소화 기관 조직 (digestive system) 등 몸의 체계를 지칭할 때도 등장하는 system이 여기서 어떤 체계로서의 '몸'을 의미하는 거죠. ˈrespərətɔːri]    [daɪˈdʒestɪv;dɪ-] 
@@ -7395,6 +7436,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * stage는 '무대, 연극'이라는 의미가 있는데 이 뜻에서 '(공연, 행사를) 무대에 올리다, 개최하다' 그리고 '(어떤 목적을 위해 무엇을) 꾀하다, 연출하다'라는 동사의 의미로 발전했습니다.
   * 그 이벤트를 오랫동안 기획했다. They've staged the event for a long time.
 * 무대 공포증 있다. I have stage fright.
+
+## outgrow
+* 저러다 말겠지; It will pass; SHe's gonna outgrow it
 
 ## outshine
 * 많이 계시니까 제가 1등하고 싶어요. - 1등을 하고 싶다? - 네. So I want to beat everyone. - You want to outshine them? - Yeah
@@ -8637,6 +8681,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 내가 어떻게 해서 대학에 가게 됐군. (정석적으로는 못 갈 사람인데) [ex] So, I managed to wangle my way into university. : 용케 ~하다 (~에 들어가게 되다)
 
 ## want
+* 안하는게 좋아; YOu' don't want to;
 * 이렇게 예정된 일을 '취소하고 싶냐', 또는 함께하는 일에서 '빠지고 싶냐' 하고 물을 때 쓸 수 있는 의문문이에요! 여기서 'want in/out' 은 '들어오고 싶어하다/나가고 싶어하다'라는 뜻으로, 물리적인 공간으로 들어오거나 거기서부터 나가고 싶은 걸 말할 때 쓰기도 한답니다.
   * 나갈래. / 빠질래. / 관둘래. / 취소할래. [ex] I want out.
 
@@ -8839,6 +8884,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그녀는 그 남자를 완전히 잡고 있다. She has him wrapped around her little finger.
 * 주로 당분간 비밀로 하기 위해 꽁꽁 싸매놓은 것을 의미합니다. 주로 keep something under wraps 라고 쓰여요.
   * 계획을 당분간은 비밀로 해두자, 알겠지? ex) Let's keep the plan under wraps for a while, okay?
+
+## whole
+* 그 영화 대체적으로 괜찮았던 거 같아. I think the movie was pretty good on the whole.
 
 ## whoop
 * 'a can of whoop ass'는 엉덩이(ass)를 때리는 것(whoop)인데요, kick ass가 그렇듯 누군가를 '후려치고, 두들겨 패고, 박살내주는' 걸 말해요. 흔히 'open up a can of whoop ass'라고 '본떼를 보여주겠다, 혼쭐을 내주겠다'고 말하곤 해요.

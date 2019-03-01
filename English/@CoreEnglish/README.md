@@ -46,6 +46,7 @@
 * orange; or 발음 + 인ge,  Strawberry; 스트로 입술울 모으지 않은 상태에서 '스트로' + bear + 이 
 
 # 기타
+* 미국식[-ˈnɑːs-]발음듣기 영국식[raɪˈnɒsərəs] rhinoceros   Vietnam 미국식 [viètnɑ́:m,-nǽm,vjèt-,vì:ət-]
 * sit: s + 이에 + T  seat: S + 이 + T
 *  [ˌɑːn-]  영국식 [ˌɒntrəprəˈnɜː(r)]: 보통 자기의 사업, 자신의 회사를 차린 사람을 의미 businessman: 회사에서 근무하는 회사원
 * nuance 미국식 [ˈnuː-]  영국식 [ˈnjuːɑːns] 

@@ -89,6 +89,8 @@
 * 이론을 설명하거나, 믿음을 가지거나, 토론 등을 시작할 때 조금 더 발전시키기 위해서 꼭 필요한 무언가를 가정하는 걸 의미하는 단어입니다. 
 	* = 미래 에너지를 위해 두 가지 시나리오를 가정해 보았습니다. We have postulated two scenarios for the future of energy.
 * i'm gusssing; It must've 
+* - 라고 치자; LEt's say
+
 
 # 가정법
 * # 일찍 알았떠라면; If i had know an English teacher like you earlier
@@ -173,6 +175,13 @@
  * 나는 직감이 있었다.             gʌt: 내장 I had the gut feeling.
  * 직감을 믿어라             Go with/Trust/Follow your gut feeling.
  * 이런 결과들은 직관에 반대되는 것 같다.      These results seem counter-intuitive.
+
+# 감각동사
+# 지각동사
+* look, smell, taste, feel: 감각(상태), 지각동사(동작) 모두 가능
+* sound는 상태만 가능, smell: 냄새나다(상태) 냄새맡다(지각동사)
+  * The voice sounded good; 좋게 들렸다; 상태 감각동사
+  * The voice sounded well; 부사; 그 목소리는 쇼핑몰에서 조차 잘 들렸다.
 
 # 감소
 * be on the decline/#wane / 
@@ -5136,6 +5145,7 @@ retaliate
   * #breath: 명사, #breathe: 동사;, #호흡 ##숨 ##breath
 
 # 쉬다
+* 휴식 시간이 필요해; i need a little downtime
 * 목이 쉬다; hoarse; 원래 목소리가 허스키: husky; Her voice was husky with anger
 * 컴퓨터가 갑자기 작동이 안 되고 멈췄을 때 우리말로도 컴퓨터 '다운됐다'라고 하는데요. 컴퓨터 등이 작동을 하다가 멈춰서 쓸 수 없는 동안의 시간을 downtime이라고 하기도 합니다. 비슷하게 누군가 한창 일을 하다가 안 하고 쉬는 시간을 downtime이라고 한답니다.
 	* = 모두가 긴장을 풀 쉬는 시간이 필요해요. Everyone needs downtime to unwind.
@@ -5240,6 +5250,7 @@ retaliate
   * 그들은 비즈니스 영역에서 새로운 장을 # 개척해왔어. They have gone on to break new ground in business.
 * 이거 새로운 장르의 여명/시작이네. [ex] This is the dawn of a new genre.
 * # 처음부터; from scratch = square one
+  * 그 정책은 아직도 초기 단계에 있어요. "The policy is still in its infancy."  [ˈɪnfənsi] 
   * * #처음부터 #애초에 from scratch, from square one. right off the bat, from the beginning, from the first #in the first place, from commencement
 * # 순조로운 / 쾌조의 출발을 보이다; #hit the ground running
   * 순조롭게 짐을 풀고 있어요. ; The unpacking process is going well
@@ -6822,6 +6833,7 @@ retaliate
   * #대체로 #All in all, #across the board
   * #at large; #사회 전반(#전반) the society at large | the public at large
   * # 지배하다 # 일반적인 # 대체적인 # 만연한
+  * 그 영화 대체적으로 괜찮았던 거 같아. I think the movie was pretty good on the whole.
   * take the wheel은 직역하면 운전대를 붙잡다는 의미로, 어떤 일의 지배권을 # 장악하다는 비유로 많이 쓰이는 표현이죠.  take over는 다른 사람이 가지고 있던 것을 넘겨 받는다는지, 자신이 영향력을 더 키워 회사나 사업, 장소 등을 장악/인수하는 걸 의미합니다. 지배권의 변화를 암시해요. 여기서는 이 두가지 표현이 복합적으로 사용되었네요~ 가볍게 어떤 일을 리드한다는 뜻으로도 말할 수도 있겠죠.
   * 에드워드가 사업을 책임지게 된 후 매출액은 계속 늘고 있다. Ever since Edward took over the wheel, our sales have been on the rise.
 
@@ -7063,7 +7075,8 @@ retaliate
   * 끄떡 없다고; I'm still standing = I remain on my feet;  바로 해줄게요; COnsider it done = i'll do it immediately
 
 # 장난
-* 말장난해본 겁니다; Pun intended
+* (거짓 화재 신고 따위) 장난전화 hoax call (경찰 따위에의) 장난전화 frivolous call [ˈfrɪvələs]  
+* 말장난해본 겁니다; Pun intended 
   * * 말장난할 시간이 없어요.  [ex] I don't have time for word play. 2. word play = 말장난
   * : have time for something이라고 하면 '~할 시간이 있다'는 뜻으로 사용하죠? (시간을 투자할 만큼) 무엇을 좋아한다는 의미로 사용하기도 하는데요, 여기서 do not have time for something은 '~할 시간 없어, ~하지 마!'라는 의미로 쓰였어요.
     * 그런 개소리 들어줄 시간 없어. (그 따위 개소리 집어 쳐.) [ex] I have no time for such bullshit.
@@ -7302,6 +7315,7 @@ retaliate
   * I think i'm in a slump
 
 # 정하다
+* 너무 많다. 정하지 못하겠어. There are so many. I can't make up my mind. 듣기 출처:능률교육
 * 2) “뇌를 어딘가에 세팅한다?” 의미가 대강 파악되실 텐데요, 그 일에 온전히 내 정신을 담아 집중한다는 뜻으로 쓰였습니다. 비슷한 표현으로 set mind on 이 있는데요, 어떤 일에 내 마음을 두는 것이니까 ‘간절히 바라다, 하기로 마음먹다’를 의미합니다. 
 	* 그는 연기를 하기로 마음을 먹었다. He has set his mind on acting.
  * 우리는 아직 그의 승진에 대해서 # 미정이다.     We are still up in the ##air about his promotion.
@@ -7707,6 +7721,9 @@ retaliate
    * 주머니에 손 넣은채로 with your hands in your pocket; you can't climb the ladder of success
    * #자금이 많다 #deep pockets; friends with deep pockets
    * #주머니 #손 빼
+
+# 주문
+* 조금 있다가 주문할게요; can you give me a few more minutes; i'm expecting company
 
 # 주의
 * #금욕 #stoicism 미국식 [|stoʊɪsɪzəm] 
@@ -8277,6 +8294,7 @@ retaliate
 	* 너 자신의 행동에 책임을 져야만 해.  ex) You should be accountable for your own actions.
 * # 담당; 연극이나 영화 등에 쓰이는 소품을 prop 이라고 합니다. 영상에서처럼 [소품 담당하는 사람] 를 의미하기 위해 prop guy 라고 하지만, 그냥 [소품] 이라고 할 때는 주로 복수형인 props 라고 합니다.  '담당하는 사람' 라고 할 땐 IT guy, marketing guy, accounting guy, ticket guy 등으로 캐주얼하게 표현할 수 있어요.
   * take care of/ be in charge of
+  * 담당자; the person in charge of
 
 
 # 챙기다
@@ -8514,6 +8532,7 @@ retaliate
 * 2시간 전에 출발했어; She left 2 hours ago
 
 # 충고
+* 안하는게 좋아; YOu' don't want to;
 * 먼저 묻지도 않았는데, 사사건건 나서서 충고를 하려는 사람들이 있죠. 바로 그런 충고를 unsolicited advice 라고 합니다.  참고로 advice 는 셀 수 없는 명사기 때문에 an 은 붙이지 않는데요, 굳이 개수를 표현하려면 a piece of advice / two pieces of advice 처럼 말하면 됩니다.
 
 # 취미
