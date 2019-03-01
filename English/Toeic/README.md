@@ -1,8 +1,13 @@
+# 빈도부사
+* generally, regulary, typically, normally가 답이 되려면 단순 현재
+
 # 부사; 동사와 덩어리로 외우자
 * 분형이 알고있다; assuredly know;
 * 성공적으로 완수하다; successfuly complete
 * 특별히 사치스러운; particularly luxurious
 * 반복해서 말하다; repeatedly speak
+* # shortly; 곧; 미래시제와 함께 쓰임
+* # wisely compared prices of various
 
 # 접속사
 * A라는 시간 이후로 쭉; from A onwards [ˈɑːnwərd;ˈɔːn-]  영국식 [ˈɒnwəd]

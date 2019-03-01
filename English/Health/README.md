@@ -1,4 +1,6 @@
 ## 기타
+* # 긁혔따; It's just a scratch; 무릎 까졌어요; i scraped my knee; I have a scar on my foot
+  * 두피에 생긴 # 딱지를 발견했어요. i found a scab on my head
 * 면역 체제를 약화시키다; can weaken your immune system; lower your immunity to colds
   * compromise the immune system = 면역 체계를 약화시키다
     * 무리한 다이어트는 면역 체계를 약화시킬 수 있습니다.  Excessive dieting can compromise your immune system.

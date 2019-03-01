@@ -46,7 +46,9 @@
 * orange; or 발음 + 인ge,  Strawberry; 스트로 입술울 모으지 않은 상태에서 '스트로' + bear + 이 
 
 # 기타
-nuance 미국식 [ˈnuː-]  영국식 [ˈnjuːɑːns] 
+* sit: s + 이에 + T  seat: S + 이 + T
+*  [ˌɑːn-]  영국식 [ˌɒntrəprəˈnɜː(r)]: 보통 자기의 사업, 자신의 회사를 차린 사람을 의미 businessman: 회사에서 근무하는 회사원
+* nuance 미국식 [ˈnuː-]  영국식 [ˈnjuːɑːns] 
 * recital 미국·영국 [rɪˈsaɪtl]    cord, chord [kɔːrd]  (dress) code 미국식 [koʊd]
 * lingerie [ˌlɑːndʒəˈreɪ] 레이까지 아니면 loundry와 헷갈림 [ˈlɔːndri] 
 * basic  [ˈbeɪsɪk]  beige 미국식 [beɪʒ] 

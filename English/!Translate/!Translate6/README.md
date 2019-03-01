@@ -1,4 +1,33 @@
-# IF 가정법 1시간 연습 - 구독자 90여명이 제출한 예문을 교정합니다
+# 영어 대화가이드 #17 - PART 1(사람편) - 위치, 의상, 행동으로 사람 식별하기
+ * A: 뭘 그렇게 계속 쳐다봐?
+  * What do you keep looking at?  그렇게 라는 말은 영어에서 크게 없음; What are you 워르유
+ * B: 아, 아니야 . 저 사람 낯이 좀 익어서.  아는 사람인 것 같아.
+  * Oh its nothing. It's just that.. that guy looks kind of familiar. i think i know him
+ * A: 저기 버스 정류장에 앉아 있는 저 사람?
+  * The guy over there (who is) siting at the bus stop?
+ * B: 아니, 그 옆에, 안경 쓰고 자기 핸드폰 보고 있는 사람
+  * No, the guy(one) next to him, with glasses, looking at his phone
+ * A: 가서 말 걸어봐.
+  * Why don't you go (and) talk to him?
+ * B: (에이) 아니야, 됐어.
+  * Nah- It's okay, forget it
+
+
+# 관계절 PART 2 - 내가 듣는 음악, 내가 찾던 디자인, 새로 이사한 집
+* 여기가 제가 지난 10년동안 살아온 아파트에요.
+  * This is the apartment that i've been living for the last 10 years; 내가 살아온 아파트는 1개이니 the
+* 저는 이 아파트에서 10년 살았어요; i've lived in this aprartment for 10 years
+  * in apartment를  where로 흡수; This is where i've been living for the lst 10 years
+* 여기가 내가 취직하려고 하고 있었을 때 정보를 많이 얻은 웹사이트야;
+  * This is website that i got a lot of information from when i was looking for a job; from이 있어야 자연스럽고 의미전달 됨
+  * i got a lot of information from this website
+* 이게 제가 지난 몇 달 동안 공부해온 책이에요; 
+  * THis is the book that i've been studiny with for the last few months
+  * the의 의미: 1개의 책으로만 공부 2. 듣는 사람이 내가 몇 달 동안 책으로 공부해왔다는 사실을 알고 있음
+  * study with this book
+* 걔가 너랑 고등학교 같이 다녔다던 그 친구야?
+  * Is that/he/she/those/ the friend that yo uwent to high school with?
+  * the friend: 전에 들은 이야기와 연결
 
 
 # 관계절 - PART 1 - 기본개념과 기본 구성 이해하기

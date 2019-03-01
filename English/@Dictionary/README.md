@@ -912,6 +912,12 @@
  * #최초 공개; Revealed for the first time! First time ever?! | #First ever! - First ever
  * ##public #공개 #공적
 
+# 공부
+* 이게 제가 지난 몇 달 동안 공부해온 책이에요; 
+  * THis is the book that i've been studiny with for the last few months
+  * the의 의미: 1개의 책으로만 공부 2. 듣는 사람이 내가 몇 달 동안 책으로 공부해왔다는 사실을 알고 있음
+  * study with this book
+
 # 공연
 * 거리에서 공연하다; performing on the street = showing a performance
 
@@ -1163,6 +1169,9 @@
  * #get on someone's nerves
  * #get to someone
  * #get in one's hair <> #get (the hell) out of one's hair; 그만좀 괴롭혀
+
+# 그냥
+* # 아니야; Oh its nothing. It's just that..
 
 # 그만
 * ☆#작작해       	 #Tell that to the onion rings, #knock it off, enough with the drink, #enough is enough
@@ -2744,6 +2753,9 @@
   * [ex] The door is jammed.
   * 손가락이 문에 끼였다. [ex] I jammed my finger in the door.
 
+# 막판
+* # 간신히 #껴우 기차에 탔다; I caught the train at the eleventh hour; at the last minute
+
 # 만나다
 * 지금 보고 계시는 프렌즈는 미국 시트콤이기에 미국식 표현이 대부분인데요. 영국에서는 meet with 나 meet up with 를 많이 쓰지는 않습니다. 참고하시고..
 	* 1) meet 은 누군가와 '처음 만날 때' 또는 만난 사람이 '모르는 사람' 일 때 씁니다. I met a bunch of people at the party.
@@ -3641,6 +3653,7 @@
 * 반납 위치; drop off location
 
 # 반복
+* 무한 반복; endless loop
 * # 되풀이; 'the same old'는 '흔히 있는, 여전한, 늘 하는, 되풀이 되는'의 뜻이랍니다. 지겹다는 뉘앙스를 가지고 있죠.
   * 이제 맨날 하는 그 변명들 좀 그만 둬! [ex] Enough with the same old excuses!
 
@@ -4426,6 +4439,9 @@ retaliate
  * #to #slate a book / play / writer 책/연극/작가를 혹평하다
  * #왈가왈부 #비판
  * 새 경영진에 대한 통렬한 공격      [|skeɪðɪŋ] a scathing attack on the new management
+
+# 빈도부사
+* generally, regulary, typically, normally가 답이 되려면 단순 현재
 
 # 빈둥거리다
 * 비격식 표현으로 딱히 하는 일 없이 시간을 낭비한다던지, 그다지 중요하지 않은 일을 하느라 시간을 보낸다던지, 남이 보기에 좀 멍청하게 행동을 하며 시간을 보낼 때 쓰는 단어입니다. 주의하실 점은 [성적으로 문란하게 놀다] 라는 뜻도 가지고 있기 때문에 오해를 살만한 내용일 경우엔 조금 조심해서 쓰셔야 해요. = screw around
@@ -5496,6 +5512,8 @@ retaliate
 * 썰렁해; are so #lame / #corny / #boring / terrible
 
 # 안경
+* B: 아니, 그 옆에, 안경 쓰고 자기 핸드폰 보고 있는 사람
+  * No, the guy(one) next to him, with glasses
 * 안경 닦이; glasses/cleaning cloth
 * 그녀의 경쾌한 발걸음은 그녀가 행복하다는 것을 보여준다. Her spring in her step shows me that she is happy. a spring in one's step: 발걸음의 경쾌함
 * 언제 안경썼어? When did you get the glasses?
@@ -5615,6 +5633,9 @@ retaliate
  * 너 어디 가고있다고 생각해?         Where do you think you are going?
  * 어디 #다른데 꼭 가야할 데가 있는 겁니까? Is there somewhere else you have to be
  * 내가 그들이 너 어디로 데려갔는지 정확하게 알아낼게 I want to try to find out exactly where they took
+
+# 어릴 떄
+* * 더 어렸을 떄; When i was younger; 5-18살: WHen i was a kid; 10살 아래: When i was little
 
 # 어때
 * # 어땠을까? 좀더 일찍 알았다면 어땠을까 생각하게 돼; If i had known you ealier, what would have happend to us i ask 
@@ -7127,6 +7148,9 @@ retaliate
   * 그녀는 뭔가 특별한 점이 없어. 정말 재미없는 사람이야. There’s nothing unique about her. She’s so basic.
 * # 따분하고 무미건조한 사람을 'beige, 베이지색 같다' 라고 말하기도 해요! 성격을 색에 비유한 재미있는 표현이죠. 후플푸프를 향한 편견과 연관 지어 기억해보세요!
 
+# 재능
+* skill; flair(재능)
+
 # 재생
 * on replay 는 어떤 곡이나 영화 등을 '반복 재생'으로 설정해두고 계속 듣거나 보는 걸 말할 때 쓸 수 있는 표현이에요! 요 가사에서는 '반복해서, 계속해서'라는 뜻으로 쓰였답니다.
   * "Love Myself" 반복 재생으로 듣고 있어. [ex] I've got "Love Myself" on replay.
@@ -8176,10 +8200,11 @@ retaliate
 * 여담이지만, 저 영계들이 카렐을 좋아하는 것같네요.  On a side note though , the chicks seem to love Carell. 듣기
 
 # 참다
+* 잘 참고 있네; You're being tough
 * 더는 못참아; i can't take it anymore; i'm fed up; i've had enough; i'm sick of this
   * I take offense to that; i'll not toleratate that
 * 비가 오기 시작한다! 더 이상 안 되겠다. 피크닉은 취소야! Now it's raining! That's the last straw. The picnic is canceled! 
-  * # 인내; tenacious는 '집요한', '완강한', '끈기있는'이라는 뜻의 형용사랍니다. 명사 형태는 tenacity입니다.
+  * # 인내; tenacious는 '집요한', '완강한', '끈기있는'이라는 뜻의 형용사랍니다. 명사 형태는 tenacity입니다.  [təˈneɪʃəs] 
     * 비즈니스에서는 끈기가 가장 중요한 성공요인이다. Tenacity is the most important success factor in business.
   * : 성경에서 비롯된 표현으로 상대가 내 뺨을 때렸을 때 참고 다른 뺨을 내민다는 말입니다. 상대가 내게 상처를 주었어도 '참고' 이에는 이처럼 (복수로) 상대에게 상처를 주지 않는다는 의미예요.
     * 혹사를 당했을 때 참는 것은 어려운 일이다. It's hard to turn the other cheek when you're mistreated; turn the other cheek
@@ -8237,6 +8262,7 @@ retaliate
   * 오늘 밤 와줘서 고마워. I'm glad you turned up tonight.
 
 # 책임
+* 너가 책임질 꺼 없어; You're not to blame for that
 * 이게 실패하면 그건 네 책임인 거야. If this fails, it's on you; It's on (사람) = (사람) 탓이다, 책임이다
 * 주요 책임; whose primary/main responsibility will be document
   * 주어진 책임을 회피하려는 행위, 해야할 일을 하지 않기 위한 변명과 핑계, 혹은 그런 행동을 하는 사람을 cop-out이라고 해요.  cop out은 동사로도 책임을 회피하다, 약속을 어긴다는 뜻을 가지고 있어요. objective은 '객관적인'이라는 뜻인데요, objective cop-out은 '객관적인 책임회피', 즉 '누가 봐도 책임회피'라는 뜻으로 볼 수 있습니다.
@@ -8556,6 +8582,9 @@ retaliate
 # 코팅
 * 종이를 코팅한다고 할 때는 laminate 라고 합니다. 일반적인 상황에서 Paper coating 이라고 하면 알아듣지 못할 수 있습니다. 
   * 그녀는 나뭇잎을 코팅해서 책깔피로 썼다. She used laminated leaves as a bookmark.
+
+# 타다
+* 6명이 탈 수 있는 큰 차가 좋겠어요; i'd like a big car that can hold six people
 
 # 타이밍
 * come at a bad time = 좋지 않은 때에 오다; 전치사 유의해서 외워주세요. come AT a bad time 입니다! 

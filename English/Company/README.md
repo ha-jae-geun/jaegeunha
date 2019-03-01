@@ -19,6 +19,7 @@
 * 밀린 일이 조금 있어; i've got a backlog of some cases
 * 구체화 되다; Taking shpae
 * 계약 파기하다; THe deal is off
+*  [ˌɑːn-]  영국식 [ˌɒntrəprəˈnɜː(r)]: 보통 자기의 사업, 자신의 회사를 차린 사람을 의미 businessman: 회사에서 근무하는 회사원
 
 # 미팅
 * 단도직입적으로 물어봤습니다; I asked her point-blank
