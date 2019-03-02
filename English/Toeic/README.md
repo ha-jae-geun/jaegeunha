@@ -1,5 +1,14 @@
+# 단수명사 앞에 오는 형용사
+* one, each, either, neither, another, every, this/that(불가산 앞에도 가능) + 단수명사
+	* every twi years = every second year(2년에 한번), another two years(추가로 2년더) 는 예외; two years를 하나의 묶음으로 보기 때문에 가능한 표현이니 조심한다.
+
 # 빈도부사
-* generally, regulary, typically, normally가 답이 되려면 단순 현재
+* always, frequently, usually, often, routinely, periodically, normarlly, occasionally, customarily, generally, regulary, typically, normally, once in a week, every/each + 기간 명사:  단순 현재
+* recently, previously, once: 현재완료, 과거
+* since, lately, already: 현재완료
+* soon, shortly, in a moment: 미래 시제
+* currently, presently, at the momeny: 현재 진행
+
 
 # 부사; 동사와 덩어리로 외우자
 * 분형이 알고있다; assuredly know;
@@ -8,6 +17,9 @@
 * 반복해서 말하다; repeatedly speak
 * # shortly; 곧; 미래시제와 함께 쓰임
 * # wisely compared prices of various
+
+## p.p 와 어울리는 정도 부사
+* highly recommended, well organized, uncommonly found, highly recognized, well received, highly regarded(높이 평가되는), well attended(참석률이 높은)
 
 # 접속사
 * A라는 시간 이후로 쭉; from A onwards [ˈɑːnwərd;ˈɔːn-]  영국식 [ˈɒnwəd]

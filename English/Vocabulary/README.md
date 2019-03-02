@@ -494,6 +494,10 @@
   * 누구도 그 성공을 쉽게 설명하지 못해요; No one can easily account for the success
   * 그게 이유가 되겠네; THat accounts for it
 
+## another
+* one, each, either, neither, another, every, this/that(불가산 앞에도 가능) + 단수명사
+  * every twi years = every second year(2년에 한번), another two years(추가로 2년더) 는 예외; two years를 하나의 묶음으로 보기 때문에 가능한 표현이니 조심한다.
+
 ## any
 * 어떨 때는 뛰어 쓰고, 어떨 때는 한 단어가 되는 걸까요? 먼저 원래 영어에 있었던 표현은 any more로 두 단어로 이루어져 있었습니다. 1) 한정사 (determiner)로 사용될 때는 '어떤 정해지지 않은 양'을 뜻하는데 긍정문에서의 some more (좀 더)라고 보시면 됩니다.
   * 그들은 책이 더 없다. [ex} They don't have any more books.
@@ -1390,6 +1394,10 @@
 * ※ in front of the camera도 '카메라 앞에서'라는 뜻이긴 한데요, 이건 촬영 여부와 관계 없이 카메라 앞에 서있는 모습이 좀 더 연상되는 표현이에요. "Please go stand in front of the camera.(저기 카메라 앞에 가서 서주세요.)" 이 문장처럼요. 반면, on camera는 '촬영 중일 때' 뉘앙스가 더 강한 표현이에요. off camera는 반대로 '촬영 중이 아닐 때', '카메라 안 돌아갈 때'입니다. 예시 몇 가지 살펴볼게요.
   * 나는 카메라 앞에만 서면 긴장 해. ("카메라로 촬영 할 때"라는 뉘앙스) I get really nervous on camera.
 
+## caution
+* caution 은 '경고' 를 의미하는 명사인데요. 그것의 형용사형인 cautionary 와 '이야기, 소설' 을 의미하는 tale 이 함께 쓰여 사람들에게 위험을 경고하기 위한 역할을 하는 이야기를 뜻합니다.  비슷하게 [cautionary note/lesson/message = 주의사항/경계심을 주는 교훈/주의 메시지] 처럼 쓸 수도 있습니다.
+  * = 네 이야기가 수업 중에 교훈을 주는 이야기로 쓰일 수 있을 것 같아. I think your story could serve as a cautionary tale in class. [-neri]  영국식 [ˈkɔːʃənəri] 
+
 ## cause
 * 2. cause: 여기서는 '원인, 이유, 근거'가 아닌 '목적, 대의'를 의미합니다.
   * 우린 더 큰 대의를 위해서 협력해야 한다. [ex] We have to cooperate for a larger cause.
@@ -1489,6 +1497,7 @@
   6. 발목잡다; The past will find a way to catch up to us
 
 ## cold
+* 냉정한데요; Not that's cold
 * knock out cold = 때려서 기절시키다; out cold 에는 ‘완전히 실신한(completely unconscious)’ 이란 뜻이 있습니다. 여기에 knock(때리다)가 붙은 것이죠. 
   * = 그는 2라운드에서 완전 의식을 잃고 나가 떨어졌다. He was knocked out cold in the second round.
 * = 차분히 생각해보면, 현실적으로 생각해보면 in the cold light of the day
@@ -1606,6 +1615,9 @@
 * B 에 대해 A 의 선고를 받다. = be condemned to A for B
   * 동사 condemn 은 1) 규탄하다,비난하다 2) 선고를 내리다, 라는 의미를 가지고 있어요. 2번의 의미로 쓰이면 영상에서처럼 주로 수동태로 쓰이고요. A 자리에는 '명사 또는 동사원형' 이 형량을 나타내고, B에는 어떤 잘못을 했는지가 들어갈 수가 있습니다.
   * 그 남자는 텍사스에서 있었던 총기 난사로 사형 선고를 받았습니다. ex) The man was condemned to death for the shooting spree in Texas.
+
+## contradict
+* 저녁 내내 그녀의 남편은 그녀가 하는 모든 말을 반박했다. [VN] All evening her husband contradicted everything she said. 
 
 ## contract
 * make/sign a contract; 상황에 따라 the contract라고 해야 할 떄가 잇음.
@@ -2586,6 +2598,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 다행히도 상황은 더 크게 나빠지지 않았다. Fortunately, the situation didn’t escalate into anything big.
 ( 그 다음주, 대립은 순식간에 확대되었다. The confrontation escalated quickly in the following week. 듣기 출처:능률교육
 
+## elasic
+* 신축성이 늘어난데요; It becomes elastic
+
 ## element
 * 비 바람을 맞으며 앉아있따; i'm a shepherd, sitting here in the elements
 * : (자신의 영역인듯) 편안해 하다, 잘 하다, 자신감 넘치다 be in one’s element
@@ -2638,6 +2653,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 파운데이션은 당신 피부의 색과 결을 고르게 만들어 줍니다. Foundation evens out the tone and texture of your skin.
 * 피부 톤을 정돈하다; even out the skin tone
 * 나는 고른 이를 가지고 있다. I have even teeth.
+
+## every
+* one, each, either, neither, another, every, this/that(불가산 앞에도 가능) + 단수명사
+  * every twi years = every second year(2년에 한번), another two years(추가로 2년더) 는 예외; two years를 하나의 묶음으로 보기 때문에 가능한 표현이니 조심한다.
 
 ## ever
 * ever가 접두사처럼 단어 앞에 붙으면 '언제나, 항상'이라는 의미가 더해지게 됩니다.
@@ -3979,6 +3998,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * I wanted to go to the game but it was too much of a hassle so I stayed home.
 * 내 고물차는 고장이 많이 나서 큰 골칫덩어리이다. 나는 새 차를 사고 싶다.
 * My old car breaks down a lot and it's a big hassle. I want to buy a new car.
+
+## hardcore
+* 음악 장르 때문에 ‘하드코어’라는 단어는 많이들 알고 계시죠. 일상적으로도 ‘골수, 강경’이란 뜻으로 자주 씁니다. 
+  * = 그는 방탄소년단 골수팬이야. She’s a hardcore fan of BTS. 
 
 ## harm
 * "안 좋을 게 뭐가 있다고 그래?", "손해볼 게 뭐가 있다고 그래?", "해될 거 없잖아?" 라는 뜻의 수사의문문으로 자주 쓰는 표현이에요! 안 좋을 거 없다는 뜻이죠. "What's the harm in 명사/~ing?" 하고 그 행동을 구체적으로 설명해줄 수도 있어요.
@@ -6368,6 +6391,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 가서 구경할 기회가 없었다.  Haven't had a chance to walk over and rubberneck. 듣기
 
 ## run
+* up and running = 잘 작동하는, 실행되는, 제대로 시작된
+  * 보통 영상에서처럼 get something up and running으로 써서 [~을 작동하게끔 하다, 실행되게 하다]의 의미를 가집니다. up이라는 단어 자체가 축 처진 느낌과는 반대로 무언가가 제대로 서 있는 느낌의 단어이고, 동사 run에 [~이 작동하다, ~을 작동시키다]라는 뜻이 있죠. 그래서 '잘' 작동한다는 느낌을 잘 살리기 위해 함께 쓰인 표현이라고 보시면 됩니다.
+  * = 왜 이 복사기가 또 고장이지? 몇 시간 전엔 잘 작동 중이었는데. Why is this copier machine out of order again? It was up and running a few hours ago.
 * 나 일찍 도착할 것 같아; i'm running early
 * 예행 연습을 하다. do a dry run; # dry run
 * ‘흐르는 물, 수돗물’을 running water 라고 하죠. 이처럼 물이 흐르는 것과 관련해서는 동사 run 을 씁니다. 액체를 흐르게 하다, 액체가 흐르다, 흐르는 물에 물체를 두다, 액체를 붓다, 물을 받다, 액체가 번지다 등 액체가 흐르는 것과 관련해서는 거의 run 으로 표현합니다.
@@ -6496,6 +6522,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ### ranger
 * 우리나라에는 잘 없지만, 미국이나 캐나다처럼 국립공원이 굉장히 큰 곳에는 그곳에 매일 출근하여 관리하는 사람들이 있어요. 돌아다니면서 화재가 있는지 보고, 방문객들에게 그 지역의 동식물에 대해 설명하는 일에서 부터 법을 어겨 공원에 해를 입히는 사람들을 체포하는 일까지 다양한 일을 합니다.
   * 10명의 경비원이 이 전체 구역을 관리하는 책임을 가집니다. ex) 10 rangers are responsible for covering this whole area.
+
+## reinstate
+* 그러나, 나는 아직 복직할 필요가 없다. But I still don't have to reinstate. 듣기
+* 그들은 회사를 회복시키길 원한다.  They want to reinstate the company.   
 
 ## revise
 * 우리 복습한거야; We were revising
@@ -6721,6 +6751,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * snap back = 을 회복시키다, 제자리로 돌아오게 하다, 정신 차리게 하다; 참고로 snap 은 '딸깍, 툭, 찰칵' 등을 의미하기도 하는데요. 영상에서 해당 유튜버가 손가락으로 소리를 내려는 모습을 볼 수가 있어요. 마치 정신이 잠깐 나가 있을 때 손가락으로 소리를 내서 정신이 들게끔 하려는 모습을 나타낸 것으로 보시면 됩니다.
   * = 그 노래가 정신을 차리게끔 했다. The song snapped me right back.
 
+## stub
+* 몽땅연필; pencil stub; stub: 나머지
+
 ## study
 * 이게 제가 지난 몇 달 동안 공부해온 책이에요; 
   * THis is the book that i've been studiny with for the last few months
@@ -6799,6 +6832,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * #포스트잇(#post-it) -> #sticky notes
   * #찹쌀 sticky rice
   * 스티커 메모 sticky note
+
+## sting
+* 저 상처받았어요; i feel stung by that
 
 ## stink
 * stinking thinking = 지독한 생각, 구린 생각; 동사 stink 는 '악취를 풍기다, 구린내가 나다' 의 의미를 가져요. 유추가 그리 어렵지 않으시겠지만 stinking thinking 비격식 표현으로 자기가 항상 실패할 거라 생각하고, 나쁜 일이 일어날 것만 같고, 내가 그리 좋은 사람이 아닌 것 같다고 자꾸 생각하는 걸 의미합니다.
@@ -7267,6 +7303,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 네가 깜짝 놀랄 일이 준비되어 있어. I have a big surprise in store for you.
 
 ## storm
+* 1) '폭풍' 으로 가장 잘 알려진 storm 은 무언가가 빠르고 강렬할 때 비유적으로도 많이 쓰입니다. storm 이 동사로 쓰일 경우엔 [급습/기습하다] 의 의미로도 쓰이는데요. 그런 기습이 범인들에겐 마치 폭풍과도 같겠죠.
+  * = 경찰이 그 집을 급습하여 마약 밀매상들을 체포했습니다. Police stormed the house and arrested drug smugglers.
 * '폭풍' 으로 가장 잘 알려진 storm 은 무언가가 빠르고 강렬할 때 비유적으로도 많이 쓰입니다. take ~ by storm 도 마찬가지로 누군가의 마음을 단번에 사로잡거나, 순식간에 성공을 거두는 것을 의미할 때 많이 쓰이는 표현입니다.
 	* = 2018년에 BTS 는 그들의 음악과 공연으로 전 세계를 단번에 사로잡았다. In 2018, BTS took the world by storm with their music and performance.
 

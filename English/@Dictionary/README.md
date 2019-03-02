@@ -959,6 +959,8 @@
 	* 내 초콜렛이랑 네 쿠키랑 바꾸자.  I'll trade you some of my chocolate for some of your cookies.
 
 # 교훈
+* caution 은 '경고' 를 의미하는 명사인데요. 그것의 형용사형인 cautionary 와 '이야기, 소설' 을 의미하는 tale 이 함께 쓰여 사람들에게 위험을 경고하기 위한 역할을 하는 이야기를 뜻합니다.  비슷하게 [cautionary note/lesson/message = 주의사항/경계심을 주는 교훈/주의 메시지] 처럼 쓸 수도 있습니다.
+  * = 네 이야기가 수업 중에 교훈을 주는 이야기로 쓰일 수 있을 것 같아. I think your story could serve as a cautionary tale in class. [-neri]  영국식 [ˈkɔːʃənəri] 
 * 안 좋은 일을 배움으로 생각하라는 것, 그리고 세상이 호락호락하지 않다는 걸 자신이 주먹(?)으로 가르쳐준다고 하면서 lesson 이라고 하였는데요, 이처럼 명사 lesson 은 ‘나쁜 경험으로 인해 얻는 교훈’을 말합니다.  이 곡에서는 시간이 지났으니 이제 좀 깨달았어야 했는데 아직 그러지 못했다고 말하고 있습니다. should have taught 가 그랬어야 했는지 그러지 못했다는 뜻을 전달합니다. 
   * = 그 사고는 나에게 평생 잊지 못할 교훈을 남겼다. That accident taught me a lesson that I’ll never forget. 
 
@@ -1501,6 +1503,8 @@
 # 끔찍
 * 그 죄수들은 끔찍한 환경에서 생활하고 있었다. The prisoners were living in appalling conditions.  [əˈpɔːlɪŋ] 
 
+# 끈적
+* [형용사] (비격식) 부드럽고 끈적[쫄깃]거리는 ooey gooey 미국식 [ˈɡuːi]; sticky
 
 # 끌어내리다
  * 쟤 #끌어내야 해.                We should #drag him out.
@@ -3546,6 +3550,12 @@
   * 회사가 버틸 수 있을지 확실치 않은 상황이었습니다. [ex2] It was touch-and-go whether the company would pull through.
 
 # 바꾸다
+* ▶ change : 바꾸다  가장 광범위하게 쓰이며 보통의 경우엔 예전의 것을 버리고 새로운 것으로 바뀌는 경우.
+  * ▶ transform : 변형시키다  change 보다 더 강한 느낌의 단어로 조금 더 급진적으고 확실히 바뀌는 경우.
+  * ▶ modify : 수정하다 기존의 무언가가 목적에 조금 더 알맞도록 수정하는 경우.
+  * ▶ alter : 바꾸다, 고치다 convert 와 비슷한 의미의 단어이지만 '일부'를 바꾸는 느낌의 단어로, 특히나 옷을 수선하는 경우에 주로 쓰입니다.
+  * ▶ convert 의 경우엔 기존에 있는 것의 '틀'은 유지하되 형태, 특징, 성질, 기능 등을 일련의 '과정'을 통해 전환시키는 것을 의미하는데요.  예를 들어, 기존의 양로원을 호텔로 바꿀 경우에 건물은 그대로 두면서 '전반적'으로 수리 후 기능만 바꾸는 것이기에 이 단어가 어울린다고 볼 수 있어요. 또한 환전을 할 때도 쓰고요. 영상에서 탄소를 산소로 전환하는 것도 '과정'을 거쳐서 기체라는 모습은 그대로이지만 성질이 변화하는 것이기에 convert 를 썼다고 볼 수 있습니다.
+  * = 우린 서재를 작은 침실로 개조할 겁니다. We'll convert the den into a small bedroom.
 * # 번복; change, turning over, reversal, upsetting, 번복하다 change, turn, reverse, upset; 결심을 번복하다; change one´s mind 
 * # 수정; 새로운 이민 정책은 입법 수정안을 필요로 합니다.
 * # 개정안; revised bill/plan; approve a revision/ amendment announcement
@@ -7069,6 +7079,7 @@ retaliate
 * 잠수타다; go MIA
 
 # 잠시
+* wait a minute은 반말 느낌 ->  we need another minute; Can i get another minute?; I think we're still looking at the menu
 * 잠시만요; Could you give me a sec? 5분만 더주세요; I just need five
   * 10분이면 도ㅚ요; With you in ten; 잠시 기다려 주시겠어요? Could you spare a minute?
   * 안돼요; No can do  잠시만요; in/just a minute;  제한 시간 내에 끝내세요: I can beat the clock = Work against clock

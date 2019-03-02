@@ -134,6 +134,7 @@
 
 
 # 병원; doctor's office: 개인 병원(영국; doctor's surgery)
+* 병원가다; go to the hospital: 수술, 응급 상황;  go see a doctor: 감기, 잔병
 * 잠복기간이 길다; That disease has a long incubation(latent) period
 * 퇴원하다; i was discharged from hospitals
 * 검역소; put in quarantine agency
