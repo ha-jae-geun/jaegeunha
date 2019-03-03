@@ -2958,6 +2958,8 @@
 # 매우
 * # 존나; mad/hellas fun
 
+# 맥도날드
+* Golden Arches [ɑːrtʃ]  = Mickey D's
 
 # 맹세
 * 너와 나, 우리는 맹세했었지; We made a vow
@@ -4639,6 +4641,8 @@ retaliate
   * # 전개가 느리다; Pacing was slow
 
 # 새치기
+* No cutting! = 새치기하지 마세요!
+  * ‘새치기하다’는 cut in line 으로 여기서는 in line 을 빼고 간단하게 말했어요. 속어로는 butt in line 이라고도 하는데요, 엉덩이(butt)를 들이민다는 뜻입니다. 이처럼 일렬로 줄지어 가는데 중간에 끼어든다고 할 때 동사 cut 을 써요. 운전하다가 앞차가 끼어드는 것 역시 마찬가지죠.
 * 새치기; I was here first; No butting in line; He just cut in line; She cut me off
   * 줄은 저 뒤부터 시작해요; The line starts back there; 
 * 왜 끼어들어; Why did you butt in like that; We tend not to be quit so meddlesome

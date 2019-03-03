@@ -197,6 +197,10 @@
 ## though
 * 놀라움; it's good though; 문장 끝에 붙이기; 발음할 때 위로 올려서
 
+## thought
+* hold that thought = 잠시만 기다려. 생각 좀 하고 있어봐.
+  * hold는 '쥐다, 가지다, 잡다' 등의 뜻이 있기에 직역하면 '그 생각을 잡고 있어' 정도로 되는데요. 대화를 나누는 도중에 영상에서처럼 다른 무언가를 해야 할 때, '야, 나 잠깐 갔다 올 테니까 그 생각 버리지 말고 있어'의 뉘앙스로 쓰여서 [잠시만 기다려. 생각 좀 하고 있어] 정도로 해석이 됩니다.
+
 ## until
 * '직전까지'의 그림
 * closed until monday; 일요일 까지 닫는다
@@ -1333,6 +1337,10 @@
 ## cylinder
   * #순조롭게 잘 돌아가다; #fire / #hit / #click on all cylinders
 
+## copper
+* copper 미국식 [ˈkɑːp-]  영국식 [ˈkɒpə(r)]: 동전, 잔돈
+  * 2. 경찰의 급습을 받았다. The gansters were taken by surprise by coppers in the bar
+
 ## copy
 * 나한테 참조로 보냈잖아; You copied me in
 
@@ -1985,6 +1993,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 여자애들이 과하게 애교부리며 말하는 거 좋아하지 않아. I don't like it when girls talk all cutesy. [ˈkjuːtsi] 
 
 ## cut
+* No cutting! = 새치기하지 마세요!
+  * ‘새치기하다’는 cut in line 으로 여기서는 in line 을 빼고 간단하게 말했어요. 속어로는 butt in line 이라고도 하는데요, 엉덩이(butt)를 들이민다는 뜻입니다. 이처럼 일렬로 줄지어 가는데 중간에 끼어든다고 할 때 동사 cut 을 써요. 운전하다가 앞차가 끼어드는 것 역시 마찬가지죠.
 * 1) 고기는 셀 수 없는 명사로 취급되기 때문에 수량을 나타내는 단어와 함께 쓰여야 하는데요, 바로 cut 이 '덩어리/조각' 을 의미합니다. 고기가 큰 덩어리에서 작은 덩어리로 잘려지기 때문이겠죠? 2) 영상에서는 two cuts of steak 이기 때문에 '스테이크 두 덩어리' 라기 보다는 '두 종류' 라고 보시는 것이 맞고, 문맥에 따라서 '부위' 라고 해석이 되기도 합니다.
   * 고급 와규 소고기 부위들이 이 도시락을 채웁니다. ex) Premium cuts of wagyu beef fills this bento lunch box.
 
@@ -4488,6 +4498,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * - lucky that 절 : ~라니 행운이야
    - lucky to 부정사 : 하다니 행운이야
 
+## lace
+* 마약이 섞여있잖아; It's laced with drugs; lace: 음식, 음료에 마약, 술, 약 등을 타다
+
 ## lawyer
 * lawyer up = 변호사를 고용하다
   * = 사업을 할 때는 자신을 지키기 위해 변호사를 고용해야 해. You should lawyer up to protect yourself when doing business.
@@ -5792,6 +5805,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## progress
 * * # 미완성; a work in progress  = It's just a rough draft
+* progress; 명사는 앞에 강세; 동사는 뒤에 강세
+  * 진전이 있어요; We are making progress
 
 ## procure
 * 특별히 중요한 물건을 구해다 주면 돼; I need you to procure an item of particular importance; procure: 어렵게 구하다
@@ -7882,6 +7897,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## string
 * 쭉쭉 늘어나는 치즈; stringy cheese
 * 남은 시즌을 떼우다; #play out the string
+* (사랑한다든지 도와주겠다든지 하는 말을) 거짓으로 ~로 하여금 믿게 하다: string along
+  * 그녀가 당신과 이혼을 할 의사는 없어요. 그녀는 그냥 당신에게 거짓으로 그러는 것뿐이에요. She has no intention of giving you a divorce; she’s just stringing you along. 
 
 ## style
 * #멋지게; #in style
@@ -8378,6 +8395,13 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : 목청껏, 있는 힘껏 큰소리로 응용 예시1. at the top of my lungs; [ex] We were screaming at the top of our lungs.
 * : 지금 머리속에서 막 생각나는건 응용 예시2. off the top of my head
 	* 지금 바로 머리속에 생각나는게 없어. [ex] I can't think of anything off the top of my head.
+
+## tax
+* Tax vs. Tax dollars; 여기서 Have some tax dollars! 는 말이 되지만, Have some taxes! 는 말이 안됩니다.  왜냐면, 둘 다 ‘세금’이라고 해석되지만, 사실 가리키는 바가 다르기 때문이죠!
+  * - tax: 세금으로 내야하는 돈  - tax dollars: 세금으로 모아둔 돈; tax 는 예를 들면 취득세, 소득세처럼 ‘납세자가 내야하는 세금’이지만, tax dollars 는 ‘세금으로 거둔 돈’으로 정부의 지출을 가리킵니다.
+    * = 그런 일에 내 세금이 쓰이다니 믿을 수가 없네. I can’t believe my tax dollars are being used for that.
+  * (tax dollars at work: 세금이 쓰인, 세금이 들어간)
+    * = 그 고속도로는 우리의 세금을 들인 거라고.   Those highways are our tax dollars at work.
 
 ## tackle
 * 1) 축구나 럭비에서 태클을 한다고 하면, 공을 들고 가는 선수를 걸어 넘어뜨려 공을 빼앗는 행위를 의미합니다. 2) 근데 이게 본인도 넘어지고 힘든 일이기 때문에 태클하기 전에 공을 빼앗을거라는 마음을 단단히 먹고 하거든요. 3) 마찬가지로, 어떤 힘든 문제나 상황을 마음 먹고 해결하려고 하는 것을 tackle 이라고 합니다.
