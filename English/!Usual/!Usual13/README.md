@@ -1,3 +1,14 @@
+# 쓸만한 영어 - 그 맛집 가봤니? 그 식당 신장개업 행사중이야
+* 나 멕시칸 식당 잘하는데 아는데
+	* I know a good Mexcican place that just opened. (a week ago); place 표현
+* 이제 막 신장개업했어; They had a Grand Opening a week ago.
+* 그거 완전 새거야; That is a brand new.
+* 너 그거 먹어봤어? ? Have you ever tried the guacamole at King Taco?; 
+	* did you go to 라고 안함
+* 가봤어? Have you ever been to-?
+* 신장 개업해서 행사중이야
+	* They're having a promotion for their Grand Opening.﻿
+
 # 쓸만한 영어 - 동사를 살려주세요! - trade - #영어공부#영어회화#영어유튜브
  *  off 
  *   순간 떨어져나가는 그림

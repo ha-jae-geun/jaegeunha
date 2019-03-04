@@ -6130,6 +6130,8 @@ retaliate
 # 원어민
 * 요리 잘한다(cook really well) -> Such a good cook
 * 영어에서 게으르다로 돌려 표현하기도 함; I wouldn't have been lazy about -
+* 너 그거 먹어봤어? ? Have you ever tried the guacamole at King Taco?; 
+  * did you go to 라고 안함
 
 # 원인
 * 그의 비행으로 인해 사내 심각한 자금문제를 야기했다. His misconduct gave rise to a serious financial problem in the company; give rise to;  수면 위로 올라오다
@@ -9613,8 +9615,11 @@ retaliate
  * Be welcome to V
 
 # 획기적인
+* moonshot 은 문자그대로는 달에 탐사선을 쏘는 걸 말하지만, 비유적으로는 ‘획기적인’을 의미해요. 인류에게 있어 달에 착륙은 그만큼 혁신적인 일이었으니까요.; a moonshot alternative = 획기적인 대안책; 참고로 구글의 기업가 정신으로도 유명한 Moonshot Thinking(문샷싱킹)이란 표현이 있는데요, 전에는 없었던 창의적이고 새로운 일에 도전하는 사고를 가리킵니다.
+  * = 그들은 혁신적인 대체 의약품을 개발했다. They developed a moonshot alternative medicine.
 * 전례없이 획기적인 무언가를 표현할 때 쓰는 단어입니다. 우워워워 하며 땅을 (ground) 뚫고 (break) 나올만큼 획기적인거죠 ㅎㅎ 형용사이지만 단독으로는 못 쓰고 항상 명사 앞에만 쓰일 수 있습니다.
   * 저희 팀은 몇가지 획기적인 발견을 했다고 강하게 믿습니다. ex) Our team strongly believes that we have found a couple of groundbreaking discoveries.
+* 혁신적인 기술을 개발하다 develop innovative technology 미국식  영국식   단어장추가
 
 # 휩쓸다
 * 한류가 전 세계를 휩쓸었죠. The Korean Wave swept over the world.

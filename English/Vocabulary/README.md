@@ -294,6 +294,10 @@
 ## alter
 * alternative: 대안, 대안의; alternation: 교대, 교체
 
+### alternative
+* moonshot 은 문자그대로는 달에 탐사선을 쏘는 걸 말하지만, 비유적으로는 ‘획기적인’을 의미해요. 인류에게 있어 달에 착륙은 그만큼 혁신적인 일이었으니까요.; a moonshot alternative = 획기적인 대안책; 참고로 구글의 기업가 정신으로도 유명한 Moonshot Thinking(문샷싱킹)이란 표현이 있는데요, 전에는 없었던 창의적이고 새로운 일에 도전하는 사고를 가리킵니다.
+  * = 그들은 혁신적인 대체 의약품을 개발했다. They developed a moonshot alternative medicine.
+
 ## all
 * 그건 나에게 가장 중요한 것은 아니다. It's not the be all and end all for me. 듣기
 
@@ -2034,6 +2038,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 핀치 거리에 있는 나이키 매장에서 내일 재고 정리 세일 한다는 거 들었어? 난 거기 갈 거야! ex) Did you hear that the Nike store on Finch Avenue will have a clearance sale tomorrow? I'm going!
 
 ## clean
+* 사람 죽여봤어요? You clean anyone
 * #clean out: 지저분한 공간의 안; clean out my close; clean away some broken glasses;(물건); clean up your room;(깔끔히 청소); clean this sticky table off; 표면 등을 치우다;
 * # 깨끗; '티끌 하나 없이 아주 깨끗하다'고 할 때 (as) clean as a whistle이라는 표현을 사용합니다. 사람들이 호각 소리가 '맑고 깨끗하다'고 생각하여 그걸 비유해서 나타낸 표현이죠. 청각적인 이미지에서 비롯된 말이지만 시각적으로 깔끔하고 깨끗하거나 어떤 일이 말끔하게 처리되었다든지, 사람이 결백하다고 할 때도 사용한답니다!
   * 네 셔츠가 아주 말끔하구나. Your shirt is clean as a whistle.
@@ -2223,7 +2228,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 *  입 닥쳐. Dry up.
 
 
-## decision
+## decide
+* I was deciding = 고민중이었어요; 결정을 내리는 건 한 순간의 액션이니까 보통 진행형으로 쓰지 않겠죠. 여기서 deciding 은 결정하고 있다는 것이 아니라, 어떤 결정을 내릴지 ‘고민/생각하고 있다’를 말해요. 
+
+### decision
 * a decidion to make/ make a decision
 
 ## deduct
@@ -2370,6 +2378,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 또 하나의 전설이 한 줌의 재가 되네요. OO, 고인의 명복을 빕니다. Another legend bites the dust. Rest in peace, OO.
 
 ## due
+* 금요일 까지야; It's due on Friday
 * 당신의 요구 사항은 적절한 때에 처리하겠습니다. Your request will be dealt with in due course. 
 * 열심히 한 거슬 인정해주세요; Give him his due; to give - one's due
 * 언제 출산예정일이야; When are you due?
@@ -3214,6 +3223,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * gnarly는 원래 gnarled처럼 나무나 손이 울퉁불퉁하고 뒤틀린 모습을 표현하는 말인데 점차 젊은 층 사이에서 '불쾌한, 형편없는'이라는 부정적인 뜻과 '대단한, 끝내주는, 훌륭한'이라는 긍정적인 어감을 지닌 뜻, 두 가지 상반된 의미 모두 다 표현할 수 있어요~ 강조하거나 극적인 느낌으로 말하고 싶을 때 사용해요.  * 발음은 '그날리'가 아닌 '날리'랍니다~^^ 프로도의 발음으로 다시 들어보시죠!
   * 그는 끝내주는 기술을 가졌어. He's got some gnarly skills.
 
+## glitter
+* 반짝이 가루? glitter?  
+
 ## glass
 * 사물을 낙관적으로 보다 see things through rose-colored spectacles[glasses] 
 
@@ -3975,6 +3987,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 *  ((국제 금융 시장에서 높은 수익을 노리고 유동하는 단기 자금)) hot money
 * 내가 그에게 하루 종일 어디 있었었냐고 묻자 그는 몹시 당황스러워 했다. He got very hot under the collar when I asked him where he’d been all day. 
 
+## hall
+* 그래서 오늘은 그냥 자습 시간을 가질게; We'll just have a study hall
+
 ## half
 * : 적당히 하는 조치, 어중간한 수단, 철저하지 못한 방안 [halfway measures]; halfway는 ‘중간쯤’이란 뜻이기 때문에 뭔가 확실하지 않고 어중간한 것을 가리키기도 합니다. 그리고 ‘수단, 방안, 조치’의 뜻으로 measure를 사용할 때는 보통 복수형으로 표현합니다. 
   * 우리는 테러에 대해서는 어중간한 조치를 취해서는 안된다. We shouldn’t take halfway measures with terrorism.
@@ -4206,6 +4221,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ### hang on
 * : 잠깐만요. Hang on; Hang on a second.
+
+## initiative
+* 저는 주도적입니다; i take initiative
 
 ## inmate
 * 정신적으로 불안한 재소자 an inmate who is mentally disturbed. 듣기 출처:Collins
@@ -5078,6 +5096,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 'They had the momentum after the first goal and controlled the game.' 그들은 첫 골 이후에 추진력을 얻었고 게임을 지배했다.; momentum이 추진력이라는 뜻이 있습니다.
 
 ## moon
+* moonshot 은 문자그대로는 달에 탐사선을 쏘는 걸 말하지만, 비유적으로는 ‘획기적인’을 의미해요. 인류에게 있어 달에 착륙은 그만큼 혁신적인 일이었으니까요.; a moonshot alternative = 획기적인 대안책; 참고로 구글의 기업가 정신으로도 유명한 Moonshot Thinking(문샷싱킹)이란 표현이 있는데요, 전에는 없었던 창의적이고 새로운 일에 도전하는 사고를 가리킵니다.
+  * = 그들은 혁신적인 대체 의약품을 개발했다. They developed a moonshot alternative medicine.
 * 내 아들은 새 자전거를 받고 매우 행복해 했다. My son was over the moon with her new bike.
 * 하늘만큼 땅만큼 생각해; i love you to the moon and back
 
@@ -7250,6 +7270,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * "짝없는 양말"을 영어로?▶ stray sock
 * 정해진 그룹이나 제한 등에서 벗어나거나, 따라야 하는 코스에서 이탈을 하는 걸 동사로 stray라고 하는데요. 영상에서처럼 away 와 함께 쓰여 벗어나는 모습을 조금 더 강조해 줄 수 있습니다. 참고로 stray 가 형용사로 쓰일 경우엔 동물이 '길을 잃은'을 의미하기도 합니다.
   * = 평생 부모님께서 벗어나려고 노력했는데, 지금은 너무나 보고 싶어. My whole life, I've tried to stray away from my parents, but now I miss them so much.
+
+## strange
+* 포장음식을 많이 먹는다는 말을 이렇게도 표현해 봐도 좋겠네요. 반대로 [be a stranger to ⓝ] 는 ‘많이 안 겪어보다, 잘 모르다’가 됩니다. 참고로 Don’t be a stranger 라는 표현이 있는데요, 연락이 뜸한 친구에게 “얼굴 잊어먹겠다 / 연락 좀 하고 지내”라고 하는 말이에요. 
+  * = 괜찮아. 나도 매운 음식은 많이 먹어봤어. Don’t worry. I’m no stranger to spicy food.
 
 ## strand
 * 형용사 stranded는 이동수단 혹은 돈이 없어 오도가도 못하는 상황을 뜻해요.

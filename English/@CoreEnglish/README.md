@@ -46,6 +46,7 @@
 * orange; or 발음 + 인ge,  Strawberry; 스트로 입술울 모으지 않은 상태에서 '스트로' + bear + 이 
 
 # 기타
+* adequate (←adequately) 미국식 [ˈædɪkwət] 
 * 미국식[-ˈnɑːs-]발음듣기 영국식[raɪˈnɒsərəs] rhinoceros   Vietnam 미국식 [viètnɑ́:m,-nǽm,vjèt-,vì:ət-]
 * sit: s + 이에 + T  seat: S + 이 + T
 *  [ˌɑːn-]  영국식 [ˌɒntrəprəˈnɜː(r)]: 보통 자기의 사업, 자신의 회사를 차린 사람을 의미 businessman: 회사에서 근무하는 회사원
@@ -83,7 +84,7 @@
 * 한 선수가 경기동안, 상대편 선수들로 부터 압박을 받고 ㅣㅆ으면서 패스하려고 보고있다. A player looks to pass under pressure from opposing player during the game; 방향 생각
 * Mom; 음-마-음; i don't; 도운; 동그라미; want; 워-언 입술 모으고 콧소리; another' (어)나더r; lecture; 렉-셜
 * debris;   [dəˈbriː] s ㅁㄱ음
-* Ashma; 애스마, Pizza; 피-쯔아, iron; 아이얼ㄴ; banquet; 뱅쿠엩; rural; 룰얼; discretion; 디스크래션; epitome; 에피트미;  [ɪˈpɪtəmi] 완벽한 본보기
+* Ashma; 애스마, Pizza; 피-쯔아, iron; 아이얼ㄴ; banquet; 국 [ˈbæŋkwɪt]  뱅쿠엩; rural; 룰얼; discretion; 디스크래션; epitome; 에피트미;  [ɪˈpɪtəmi] 완벽한 본보기
 * you; 유우; do; 두우
 * comfortable; 컴프fr터블
 * you won't talk to me; won't; 입술 모으고 오우 발음으로 진동 만들기; talk to; 턱을 세게 내리다; you; 유우; that; 입을크게 턱을 세게 내리기
@@ -96,7 +97,7 @@
   Have a great day sweet-heart
 * Listen to this craziness; 리슨 투드's; cra강세
 * I just wanted to say hello; 워닛
-* You are uptight with this kind of thing; 카이너 띠잉(여운)
+* You are uptight  [ˌʌpˈtaɪt]  with this kind of thing; 카이너 띠잉(여운) 
 * 맨하튼; 맨햍(혀천장붙이기 + 호흡 끊기)은(콧소리) = button
 * admirable 미국식 [ˈædmərəbl]
 * bathroom: ba에서 숨 참고 th까지 발음하면서 숨을 뱉고 멈추며 바람을 불듯 room 발음
@@ -110,7 +111,7 @@
 * we're - were 발음
 * clothes; close와 같은 발음
 * year <> ear; ear이 '이'발음이 조금 더 뚜렷
-* Mayo; Mayonnaise; 메이어네이즈
+* Mayo; Mayonnaise; 메이어네이즈  [ˈmeɪəneɪz] 
 * need you to do; 니쥬쥬쥬 something for me; 섬닝
 * i need you to talk to your sister; to talk 투턱 리듬
 * age, cage, beige; e를 모음으로 읽지 않고 자음만 발음; biology, allergy; gy발음; allergic; 강세 뒤
