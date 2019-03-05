@@ -2561,6 +2561,9 @@
   * 훠이! 저리 가. [ex] Shoo! Go away.
  * # 뒤를 이어 # 따라가다 # 따라잡다 # 쫒아가다 | # 쫒아내다
 
+# 때
+* 때가 되었어요;; It's about time
+
 # 떠나다
 * 나는 그 회의 끝에 급히 떠나야 했다. I had to shoot off at the end of the meeting. 
 * #headed(미국) #heading(영국) ; head (over) to
@@ -4562,7 +4565,7 @@ retaliate
 
 # 사명감
 * 저는 여기 있어야 한다는 사명감을 느껴요; i feel a calling to be here
-
+* -하는 사명을 띄고 있어; be on my mission; i'm on my mission to find it
 
 # 사소
 * 원래 콤플렉스라는 것이 남에게는 별 것 아닌 것처럼 보이지만 자신에게는 그렇지 않죠! petty / trivial은 둘 다 사물에 쓸 경우 ‘하찮은, 시시한, 사소한’을 의미합니다. 
@@ -5928,6 +5931,7 @@ retaliate
 * example sentence, examples
 
 # 예약
+* 예약 없이 가도 돼요? DO you take walk-ins?
 * i made a reservation with/under -
 
 # 예언
@@ -6128,6 +6132,9 @@ retaliate
 * 칫솔로 원을 그리듯 이를 닦으세요; Brush your teeth in a circular motion
 
 # 원어민
+* 저희는 정말 좋은 수영장이 있는 호텔에서 묵었어요;
+  * We stayed at a hotel that has a really good swimming pool; 가지고 있다를 have로
+* 아이들이 너무 떠들어요; Kids are too loud; 코 시끄럽게 골다; snoring so loud
 * 요리 잘한다(cook really well) -> Such a good cook
 * 영어에서 게으르다로 돌려 표현하기도 함; I wouldn't have been lazy about -
 * 너 그거 먹어봤어? ? Have you ever tried the guacamole at King Taco?; 
@@ -8229,9 +8236,11 @@ retaliate
   * # 적당 # 정도 # 중도
 
 # 참고
-* 참고로; Just so you know,
+* 참고로; Just so you know, Just so you're prepared;
 * 1) 반드시 알아야 할 정보는 아니지만, 알아두면 나중에 유용할 수도 있는 정보 등을 알려주고자 할 때 쓰는 표현입니다. for your reference, 또는 for future reference 라고도 많이 씁니다.  2) 비슷한 기능의 표현으로 for your information 이라는 말도 있는데요. for reference 보다 훨씬 비격식이며, 의미 또한 [네가 궁금해할까봐 알려주는데] / [혹시 몰라 알려주는데]
-* 여담이지만, 저 영계들이 카렐을 좋아하는 것같네요.  On a side note though , the chicks seem to love Carell. 듣기
+* 여담이지만, 저 영계들이 카렐을 좋아하는 것같네요.  On a side note though , the chicks seem to love Carell. 핵심 내용과 더불어 알고 있어야 하는 참고사항
+* 한가지 더 말하자면 ;One another thing
+* 그나저나; By the way
 
 # 참다
 * 잘 참고 있네; You're being tough

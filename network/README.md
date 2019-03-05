@@ -1,6 +1,46 @@
 # 네트워크
 *   네트워크는 미리 정의된 규약인 프로토콜로 정보를 주고받는 하드웨어와 소프트웨어 기반의 시스템을 의미한다.
 
+## 프로토콜 설명
+
+## OSI 7계층 
+
+## IP 주소 설명, 종료
+
+# TCP, UDP 차이
+## TCP
+[TCP]('https://www.youtube.com/watch?v=8Ql1l048MD8&list=PLVsNizTWUw7GZy4UA9pntGRC9IIXIYiHm&index=3')
+*  TCP is on IP
+* physical -> internet -> transport -> application
+* Ethernet Protocol <> IP Protocol <> TCp Protocol <> HTTP Protocol
+* 소켓은 전송 레이어에 있음  
+  ^Socket is on the transport  
+  - Kernel - driver - network card - network card - kernel
+  - BSD socket 
+  - 소프트웨어 연결
+  - Create socket -> give port > connect ip/port
+  - Socket server: socket() > bind > listen > accept > send > recv
+  - Socket client: socket() >                connect > recv > send > close
+* ethernet ->     ip   ->    TCP    ->    Web server
+* 프로세스 사이에서 소통을 도와줌  
+    ^It provides communication function between processes
+* 3웨이 핸드쉐이크 사용  
+  ^Threeway handshake, based on flow
+* 장점: 신뢰성
+* 단점: 낮은 성능, 데이터 연속성 유지 힘듬  
+    ^cons: low performance, hard to stay data continuity -> reliability is more important
+* segment
+
+
+## UDP
+* 연속성이 신뢰성보다 중요함; 스타크래프트 UDP 서버  
+  ^continuity is more important than reliability -> fast(ex: starcraft)
+  - 손실에 신경쓰지 않는다.  
+    ^don't care about loss
+* 높은 성능  
+    ^High performance
+* socket() -> connect() -> sentto()/recvfrom () -> close()
+
 
 # 토렌트
 * 장점
@@ -25,51 +65,16 @@
 * DNS 값을 IP로 변환 -> Socket(IP, Port) -> IP가 맥주소로 변환 
 
 
-## NAT
+# NAT
 * 자신의 네트워크를 만듭니다. Nat는 내부 및 외부와 통신하는 도구입니다.  
     ^it makes it own network. Nat is a tool to make communicate with inside and outside 
 
-## Bridge
+# Bridge
 * 개인 IP 주소를 제공합니다. 그래서 많은 IP 주소가 필요하다.  
     ^it gives personal IP address. So i need a lot of ip addresses
 
-## TCP/IP
-[TCP]('https://www.youtube.com/watch?v=8Ql1l048MD8&list=PLVsNizTWUw7GZy4UA9pntGRC9IIXIYiHm&index=3')
-*  TCP is on IP
-* physical -> internet -> transport -> application
-* Ethernet Protocol <> IP Protocol <> TCp Protocol <> HTTP Protocol
-* 소켓은 전송 레이어에 있음  
-  ^Socket is on the transport  
-  - Kernel - driver - network card - network card - kernel
-  - BSD socket 
-  - 소프트웨어 연결
-  - Create socket -> give port > connect ip/port
-  - Socket server: socket() > bind > listen > accept > send > recv
-  - Socket client: socket() >                connect > recv > send > close
-* ethernet ->     ip   ->    TCP    ->    Web server
-* 프로세스 사이에서 소통을 도와줌  
-    ^It provides communication function between processes
-* 3웨이 핸드쉐이크 사용  
-  ^Threeway handshake, based on flow
-* 장점: 신뢰성
-* 단점: 낮은 성능, 데이터 연속성 유지 힘듬  
-    ^cons: low performance, hard to stay data continuity -> reliability is more important
-* segment
 
-
-
-
-## UDP
-* 연속성이 신뢰성보다 중요함; 스타크래프트 UDP 서버  
-  ^continuity is more important than reliability -> fast(ex: starcraft)
-  - 손실에 신경쓰지 않는다.  
-    ^don't care about loss
-* 높은 성능  
-    ^High performance
-* socket() -> connect() -> sentto()/recvfrom () -> close()
- 
-
-## router
+# router
 * DHCP, DNS
 
 ## wifi

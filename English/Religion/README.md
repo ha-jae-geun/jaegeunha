@@ -1,3 +1,8 @@
+# 종교
+* 종교적인 질문은 실례다;
+	* 너 보통 일요일에 뭐해? What do you normally do on Sundays?
+	* 일요일에 영화보러 갈래? Do you want to watch a movie with me on Sunday?
+
 # 천주교
 * - priest (사제, 신부) : 한 성당을 대표하는 신부님
 	* - cardinal (추기경) : 교황을 보좌하는 고위 성직자

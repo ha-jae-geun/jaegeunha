@@ -8,6 +8,10 @@
 * 주니어 개발자 취업 정보: https://github.com/jojoldu/junior-recruit-scheduler/blob/master/README.md
 	* 포트폴리오: https://gmlwjd9405.github.io/2018/05/04/how-to-write-a-resume-for-a-developer.html
 
+# 단축키
+* 텝 닫기 되돌리기: Ctrl + Shift + T
+* 캡처: 윈도우 + Shift + S
+
 # 미국 포털사이트
 * 구글, 유튜브
 * https://www.aol.com/

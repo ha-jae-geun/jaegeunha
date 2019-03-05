@@ -1,5 +1,7 @@
 # 기타
 * 마스크팩: mask pack > facial mask
+* 선크림; 사실 SPF 는 sun protection factor 의 줄인말이기에 '자외선 차단 지수' 가 맞는데요. 자외선 차단 기능이 있는 화장품에서만 이 표현이 쓰이기에 간편하게 아예 SPF 자체를 '자외선 차단제' 를 의미하는 것으로 사용합니다. 주의하실 점은 SPF 는 셀 수 있는 명사이기에 단수일 경우엔 an SPF 라고 써주셔야 해요.
+	* = 밖에 나가기 30분 전에 자외선 차단제를 바르는 것이 가장 좋습니다. It's best to put your SPF on 30 minutes before you go out.
 * 핀셋: Pincette > Tweezer
 * 매니큐어; Manicure > Nail polish
 * 물 꿀 > aqua, mel > Water, Honey

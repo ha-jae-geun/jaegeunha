@@ -30,7 +30,9 @@
 ##영어
 03.1
 * 테드 https://www.ted.com/
+* 발음 https://m.blog.naver.com/telleileen/221280989989
 -------------
+* 라이블리 https://m.blog.naver.com/PostList.nhn?blogId=liyu_thirtytwo&currentPage=1
 *   MLB http://post.naver.com/my/series/detail.nhn?seriesNo=46475&memberNo=449115
 *   김형제 http://m.post.naver.com/my.nhn?memberNo=11764317
 *  하루 10분 http://post.naver.com/my.nhn?memberNo=904209&navigationType=push

@@ -77,7 +77,7 @@
 * purple; 혀를 꽈야 한다보다 입안에 닿지 않게 하기 위해서 입술을 내민다. people의 힘이 빠진 쁠
 * McDonald's 맥; 호흡을 세게 하면서 참는 느낌 맼; 도가 아닌 '다' 발음; d 발음 안하고 s 붙여서 널스;
 * secretary 미국식 [-teri]  영국식 [ˈsekrətri] 
-* france;  [frǽns]  Jordan dƷɔ́:rdn]  japan 미국·영국 [dƷəpǽn]
+* france;  [frǽns]; 블  Jordan dƷɔ́:rdn]  japan 미국·영국 [dƷəpǽn]
 * 수제자; pupil; i keep trying to be your star pupil; pupil: (초, 중,생같은 어린 학생); 퓨플발음
 * It's on the table; 미국 '언' 발음; 영국, 호주: '온'에 가까운 발음
 * the southeaster U.S state of Florida; U 강조, Florida; 플로+르다(약하게)
@@ -111,7 +111,7 @@
 * we're - were 발음
 * clothes; close와 같은 발음
 * year <> ear; ear이 '이'발음이 조금 더 뚜렷
-* Mayo; Mayonnaise; 메이어네이즈  [ˈmeɪəneɪz] 
+* Mayo; Mayonnaise; 메이어네이즈  [ˈmeɪəneɪz]; 블
 * need you to do; 니쥬쥬쥬 something for me; 섬닝
 * i need you to talk to your sister; to talk 투턱 리듬
 * age, cage, beige; e를 모음으로 읽지 않고 자음만 발음; biology, allergy; gy발음; allergic; 강세 뒤
@@ -171,7 +171,7 @@
 * ⦁#lingerie 란저뤠이
 * ⦁#mascot 매스껏
 * ⦁#buffets 버페이  [bəˈfeɪ]
-* ⦁#cocoa 코코  [ˈkoʊkoʊ] 
+* ⦁#cocoa 코코  [ˈkoʊkoʊ]; 블
 * ⦁#boomerang 부머뤵  [ˈbuːməræŋ]
 * ⦁#whip cream 윕크림
 * ⦁#careml 캐러멜  [ˈkærəmel]

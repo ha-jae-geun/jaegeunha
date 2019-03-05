@@ -1,3 +1,27 @@
+# "오늘같은 날 바깥에서 일해야 하는 사람들은 안됐어요." - 영어로
+* 오늘같은 날 바깥에서 일해야 하는 사람들은 안됐어요.
+  * I feel really bad for ... ; 안타깝다의 정도가 sorry 보다는 좀 약한 느낌
+  * i feel really bad for peoplhe who have to work outside on a day like this
+
+# 관계절 - PART 3 - 미국에 사는 친구 / 수영장이 있는 호텔 / 개봉하지 않은 영화
+* 이거 내가 슬플 때 듣는 음악이야;
+  * This is the (kind of) music that i (like to) listen to when i'm sad; 음악 종류라는 kind of 도 자연스럽게 하는 것에 한몫 함
+* 이건 내가 찾던 디자인 아니야; This is not the design that i was looking for
+* 이게 내가 너한테 말했던 그 영화야
+  * This is the movie that i told you about
+* 여기가 너가 (새로) 이사한 그 집이야? 여기는 here 이 아니라 this 라고 지칭해 주어야 함; Is this the new house that you moved to? 
+  * move in with 사람: 이미 누가 살고 있을 때 들어가는 그림
+* 미국에 사는 친구한테 들었어요;
+  * i heard it from a friend who lives/is living in the U.S
+* 저는 의사인 친구가 있어요; 
+  * i have a friend who is a doctor; 소개하는 느낌이기에 the가 아닌 a
+* 저희는 정말 좋은 수영장이 있는 호텔에서 묵었어요;
+  * We stayed at a hotel that has a really good swimming pool
+* 어제, 한국에는 아직 개봉하지 않은 영화를 봤어요;
+  * Yesterday i saw a movie that isnt' released yet in korea.
+* 아무런 그림이나 문구가 없는 티셔츠를 좀 사고 싶어요;
+  * I want to buy some T-shirts that don't have any pictures or writing
+
 # 영어 대화가이드 #17 - PART 1(사람편) - 위치, 의상, 행동으로 사람 식별하기
  * A: 뭘 그렇게 계속 쳐다봐?
   * What do you keep looking at?  그렇게 라는 말은 영어에서 크게 없음; What are you 워르유

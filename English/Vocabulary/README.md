@@ -346,6 +346,9 @@
 * 직역하면 [신선한 공기의 들이마심] 입니다. 어떤 상황이 지속되는데, 그 상황에서 신선한공기를 들여마시는 것이니 굉장히 [새롭고, 다르고, 활기를 주는 것]을 의미해요. 어떤 상황이나 주제를 좀 더 흥미롭고 신나게 만드는 것을 의미합니다.
   * 뉴스의 그 새로운 형식은 정말로 신선했다. ex) The new format of the news was a breath of fresh air.
 
+## assign
+* 저희한테 숙제로 내준 적 없으세요; You never assigned it to us
+
 ## assemble
 * 라이플총을 조립하다 [ex] assemble a rifle
 * 전시 내각을 소집하다 [ex] assemble a war cabinet
@@ -691,6 +694,9 @@
   * 반드시 일어날 일이라면, 일어날 거예요. ex) If it's bound to happen, it will happen.
 
 ## bounce
+* bounce 가장 기본적인 의미는 '튀다'입니다. 보통 공이 어딘가에 부딪혀서 튀어나올 때의 모습을 떠올리시면 되고요. 여기서 파생된 의미로 영상에서는 [튀어나가다]의 의미로 쓰였어요. 에너지 넘치고, 행복하고, 열정적인 모습으로 움직이는 걸 의미합니다. 참고로 부도난 수표를 예금하려고 했다가 튕겨 나오는 것, 또는 이메일을 보냈다가 튕겨서 반송되는 것도 다 bounce로 표현할 수 있습니다.
+  * = 내 주변에서 막 뛰듯이 다니는 걸 보니 확실히 행복해 보이네. He does seem happy as he bounces around me.
+  * = 죄송합니다, 손님. 이건 부도 수표예요. Sorry, sir. This is a bounced check.
 * 그 총알은 벽에 맞고 튕겨나와 총 쏜 사람 자신을 맞췄다. ex) The bullet bounced off the wall and hit the shooter himself. 1) bounce 가 동사로 [튀다] 라는 뜻이 있어요. 전치사 off 과 함께 쓰이면 [에 맞고 튕겨나오다/튀어오르다] 라는 뜻으로 쓰입니다.
 * 내 생각에 그는 부상으로부터 꽤 빨리 회복할 것 같아. ex) I think he will bounce back from from the injury quite soon. 3) bounce back 이라는 표현도 많이 쓰이는데요. 이것은 다시 돌아오는 것 (back) 이기 때문에 [회복하다/반등하다] 라는 뜻이 있습니다.
 
@@ -787,6 +793,7 @@
   * 대금·요금을 치르다  to pay a bill   대금·요금 지불이 늦어지다 to fall behind with/on bills
 
 ## bit
+* 이런저런 것들[잡동사니들]; bits and pieces/bobs; 그녀는 가방에 이런저런 자기 물건들을 모두 집어넣더니 떠났다. She stuffed all her bits and pieces into a bag and left. 
 * bits and pieces : 이런저런 것들, 소소한 일들/사물들,  bit 과 piece 자체가 [작은 조각] 을 의미하는데요. 복수로 써서 [작은 것들] 을 전반적으로 의미해요. 크게 중요하지 않은 소소한 일들이나 사물들을 의미합니다.
   * 한 30분 뒤에 만날 수 있을까? 간단한 집안 ex) Can we meet about 30 minutes later? I just have a few bits and pieces to do at home.
 
@@ -1174,6 +1181,9 @@
 
 ## bridge
 * 불가능한 일, 무리한 일 = a bridge too far
+* 차이를 메웠다; bridges the gap
+* 안경의 코걸이; wide/narrow nose bridge
+* 콧날; the bridge of someone's nose
 
 ## bring
 * bring it on은 우리말로 ‘덤벼’로 번역되는데, 풀어 설명하면 ‘너가 가진 것이 무엇인지 내놔봐라’라는 의미입니다. 너가 가진 것, 즉 너의 능력/배짱/힘 등이 얼마나 되는지 한 번 볼 테니 꺼내 보이라는 겁니다. 혹은 특정한 대결 상대가 없이, 힘든 상황이나 도전적인 일을 맞이할 준비가 되었다고 할 때도 Bring it on!이라고 합니다. 그 힘든 상황이 나에게 무엇을 가져다 주던 간에, 나는 준비가 되었다는 뜻입니다. 
@@ -1735,6 +1745,7 @@
       * 우리는 그날 저녁 대부분 잡담이나 하면서 바에 앉아있었다. We sat in a bar most of the evening just chewing the fat.
 
 ## cheek
+* 까불지 마; DOn't be cheeky
 * 너무 뻔뻔해; he has cool cheek
 * 여기서 cheek은 ‘뻔뻔함, 무례’를 의미합니다. 주로 영국에서 자주 쓰이는 표현으로 상대의 언행이 뻔뻔할 때 하는 말입니다. 뻔뻔함의 의미로 cheek이 들어간 표현을 예문에서 더 살펴보겠습니다.
   * 걘 나한테 거짓말을 했어! 뻔뻔스럽게! She lied to me! The cheek of it!
@@ -2402,6 +2413,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## dizzy
 * dizzy는 머리가 어지로운 걸 뜻해요. "나 어지러워"는 "I'm dizzy" 혹은 "I feel dizzy"라고 표현해요. 잠깐 현기증이 나고 사라지는 건 dizzy spell 이라고 해요.
   * 나 요즘 들어 현기증이 가끔씩 나고 그래. I've been having dizzy spells lately.
+
+## dismiss
+* 수업 끝났습니다; Class dismissed
 
 ## distress
 * 찢어진 청바지; distressed jeans
@@ -3422,6 +3436,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 여기서처럼 stinking (고약한), fucking, freaking (빌어먹을), 등의 형용사로 guts를 꾸밀 수 있고요~ 반대로, love one's guts (완전히 좋아하다)라는 표현이 있는데, 이건 너무나 좋아해서 누군가를 속까지 좋아한다는 걸 나타내죠~^^ 비슷한 해부학적인 느낌(?)의 표현으로 love/ hate someone to the bone이라는 말도 있어요. 말 그대로 '뼛속까지 사랑한다/싫어한다'는 뜻!
   * 배리가 내가 얼마나 그를 싫어하는지 몰라서 다행이라 생각해. I'm glad that Barry doesn't realize how I hate his guts.
 
+### gutsy
+* 이용자 참여  그 중 대부분은 배짱 있고 직접적인 것이었다.  Much of it is gutsy and direct. 듣기
+
 ## guard
 * : 경계를 한 상태다/ 경계를 푼 상태다 - one's guard is up/ down 
   * : 경계를 하다/ 풀다 - put one's guard up/ down 
@@ -4302,6 +4319,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 란제리를 intimates라고 표현하기도 합니다.
                                 
 
+## interview
+* 취업 면접을 보러 왔습니다; i came here to attend the job interview
+
 ## intercourse
 * social intercourse 는 우리말로 ‘사귐, 교류, 친교’라는 의미가 있는데요. 사실 intercourse 는 ‘성교’라는 뜻으로 자주 쓰인답니다! (vaginal intercourse 질내 성교 / anal intercourse 항문 성교)
   * = 다른 연령대의 사람들 사이에 사회적 교류가 별로 없다. There isn’t much social intercourse between different age groups.
@@ -4311,6 +4331,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 	* 그 공연 내내 한 경험은 정말 장난이 아니었어. (굉장히 강렬했다, 감동적이었다 등을 의미) ex) The whole experience throughout the show was really intense.
 
 ## jerk
+* ＊ get jerked around = 괴롭힘 당하다, 속다; 바보, 얼간이(jerk)처럼 남에게 이리저리 치이며 괴롭힘을 당하는 것을 말해요. 반대로 괴롭히는 것은 jerk around 가 되겠네요.
+  * = 다시는 바보처럼 당하지 마. 맞서 싸우라고! Don’t let yourself get jerked around again. Fight them back!
 * 미드/영드 등을 많이 접하신 분들은 아마도 jerk 를 비속어 비슷하게 [얼간이/멍청이/또라이] 정도로 알고 계실 텐데요. 동사 jerk 는 [홱 움직이다] 라는 의미를 가집니다. 전치사 away 는 [멀어진, 떨어진] 과 함께 쓰여 영상에서는 [빠르게 벗어나다] 로 해석이 되었습니다. 이 경우엔 주어가 스스로 빠르게 벗어나는 것이기 때문에 따로 목적어가 필요 없는 자동사로 쓰이고요. 목적어와 함께 타동사로 쓰일 경우는 무언가를 잽싸게 낚아채는 걸 의미하기도 합니다.
   * 내 여자친구가 내가 폰을 쓰고 있는데 갑자기 낚아챘어. ex) My girlfriend suddenly jerked my phone off while I was using it.
 
@@ -4663,6 +4685,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 3. 있나 없나 인지하다/찾아보다
 	* 이따가 무대에 나 나오는 거 봐봐. 뒤쪽에 있을 거야. [ex] Look out for me on stage later. I'll be in the back.
 
+## ledge
+
+### ledge
+* 넌 짱이야; You're on the ledge
+
 ## leg
 * 1) 두 다리로 선다고 하여 ‘자립하다, 혼자 힘으로 일어서다’의 의미로 쓰였습니다. 사실 이 뜻으로 표현하려면 stand on one’s own legs 처럼 복수형 legs가 되어야 하는데요, 본 영상에서는 단수형으로 a leg to stand on이라고 하였습니다.  2) a leg to stand on는 원래 [not have a leg to stand on : 증거, 근거 부족으로 해명/주장 할 수 없다]로 쓰이는 말입니다. 어느 경우든 leg가 자신을 지탱하는 무언가를 의미합니다. 그것이 영상과 같이 돈을 벌어서 삶을 이어나갈 기반일 수도 있고, 이 표현처럼 증거, 근거일 수도 있는거죠. 
   * 이제 자립할 때도 되지 않았니? Isn’t it time that you stood on your own legs?
@@ -4705,6 +4732,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * = 지금은 그 부분을 다루지 않도록 합시다. Let's leave that out for the moment. 2) for the moment 나 for now 는 [현재로썬, 일단은, 일단 지금은]을 의미하고 있어요.  3) 토의를 시작하기 전이나 토의 중에 언급되는 것에 대해 일단 포함시키지 않고 나중에 얘기하자- 라는 뉘앙스로 말할 때 정말 많이 쓰이는 표현이니 전체적으로 알아두시는 것이 좋습니다.
 * 1. 를 앞지르다 (be left behind = 뒤쳐지다); 브렉시트 때문에 영국은 외자유치 경쟁에서 뒤쳐지고 있다. [ex] Because of Brexit, UK is being left behind in the race for attracting foreign capital.
 	* 2. 를 뒤로 하다, 두고 가다; 올리비아는 과거를 뒤로하려 노력하고 있어. [ex] Olivia is trying to leave the past behind.
+
+### leave off
+* leave off: 중단 하다, 멈추다
+  * 이제 아무나 진도 어디까지 나갔는지 말해주겠니 Tell me weher you left off in your textbooks
 
 ## lead
 * 연필; lead pencil
@@ -5067,6 +5098,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * mischief 라는 단어는 [장난, 장난기] 를 의미하는 단어입니다. full of mischief 라는 표현 자체가 종종 쓰이기 때문에 함께 알아두시면 좋을 것 같고요. 그 외에 get into mischief = [장난치다] 라는 표현도 함께 알아두시면 좋을 것 같아요!
   * 탐이 뭔가 심술궂은 짓을 하려는 걸 알 수 있어. 눈이 장난기로 가득 차있잖아. ex) You can tell Tom is ready to do something nasty. His eyes are full of mischief.
 
+## mission
+* -하는 사명을 띄고 있어; be on my mission; i'm on my mission to find it
+
 ## miss
 * 너 놓치고 있는 거야; You're missing it out
 * go missing는 '실종되다', '사라지다'라는 뜻이고 missing은 '행방불명된 상태'를 뜻해요. 또한, missing은 '제자리에서 없어진 상태'도 뜻합니다. 예시로 비교해보죠.
@@ -5157,6 +5191,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## mourn
 * mourn = (누군가의 죽음으로) 애도하다. mourning = 애도, 상복 in mourning = 상복을 입은, 상 중인, 애도중인
 	* 그의 가족은 아버지의 죽음으로 상 중이야. ex) His family is in mourning for their father.  [mɔːrn]  <> [ˈmɔːrnɪŋ]
+
+## number
+* = -에게 해를 끼치다, 가혹하게 대하다; 2) 그래서 1번 쇼를 하는 걸 do number one, 2번 쇼는 do number two 이런 식으로 말을 했을 텐데요. 
+  * = 난 그의 부모가 그를 정말 가혹하게 대한 걸 믿을 수가 없어.  I can't believe his own parents did a real number on him.
 
 ## nugget
 * the nuggets of stuff = 이것 저것들; 너겟(nugget)은 작은 덩어리를 말합니다. 닭고기를 으깨서 작은 덩어리로 만든 치킨 너겟(chicken nuggets)처럼요.  뿐만 아니라 좋은 정보, 사실, 지혜 등을 셀 때도 씁니다. 영상에서도 자신이 알게 된 “이것 저것들” 이란 뜻에서 the nuggets of stuff 라고 하였네요.
@@ -5546,6 +5584,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
  * #local stores
  * 이 또한 지나가리라            This, too, shall pass away 
  * #pass off as; 인양 행세하다; #pass off as; pass them off as the little lords
+
+## pet
+* petting zoo = 체험 동물원; '애완동물'의 뜻으로 가장 잘 알려진 pet 이라는 단어는 동사로 쓰일 경우 애완동물이나 아이를 애정을 담아 [어루만지다, 쓰다듬다]라는 의미로도 많이 쓰여요. 한걸음 더 나아가 비격식 표현으로는 [애무하다]라는 의미도 갖는데요. 영상에서의 petting zoo 는 동물들을 쓰다듬을 수 있는 동물원이기에 [체험 동물원]을 의미합니다.
+  * = 지난 토요일에 내 남자 조카, 여자 조카들이 체험 동물원에서 정말 즐거운 시간을 보냈어. My nephew and niece had a blast at a petting zoo last Saturday.
 
 ## peach
 * peach : 정말 좋은 사람
@@ -6352,6 +6394,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * #round off; #마무리 짓다; round something off with something
 
 ## roll
+* 출석 부를게요; Let's take a roll
 * 소매 올려 / 바지 단 접어 Roll up your sleeves / Roll up your pants
 * 걱정마. 우리의 계획은 완벽하게 먹힐 테니까. (roll out: 먹히다, 굴러가다) Don’t worry. Our plan will roll out perfectly.
 * roll off the tongue는 '발음하기 쉽다', '발음이 자연스럽게 잘 된다(입에 붙는다)'라는 뜻입니다. 직역하면 '혀(tongue)를 따라 또르르 굴러간다(roll off)' 이런 느낌이랍니다!
@@ -6665,6 +6708,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * -에게 연락하다; Reach out to 사람;
   * 관심을 가지고 다가가ㅏㄷ; reach out to 사람;
 * 는 #무리다, #멀다; it’s a #reach;   말도 안되는 소리: you’re reaching = it’s a stretch
+
+### overtake
+* 일본인들이 우리를 뛰어넘는 거야; Japs are overtaking us
 
 ### overstep
 * overstep = 선을 넘다, 도를 넘다, 주제넘게 굴다; 무언가를 건너(over) 발을 딛는(step)의 모습의 단어에요! 뒤에 목적어로 주로 범위, 경계를  의미하는 bounds/boundaries/limits, 또는 권한 authority 등의 단어를 목적어로 쓰는데요. 영상에서는 문맥상 my bounds 가 생략이 된 것처럼 보입니다. 어느 정도로 무술을 해야 하는지 몰라서 선을 넘고 싶지 않았다-  정도의 의미로 쓰였습니다.
@@ -7114,6 +7160,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## spur
 * spur = 박차를 가하다, 본격적으로 을 하다; 명사로 spur 는 '자극제, 원동력', 동사로는 '원동력이 되다, 자극하다'의 의미가 있습니다. 보통 '원동력이 되다' 라고 쓰일 경우엔 목적어로 사람이 오지만, 영상에서처럼 사물이 올 경우엔 그것에 [박차를 가하다] 라는 의미로 쓰여요.
   * = 수요에 박차를 가하기 위해서 정부를 이자율을 낮춰야 한다. Government should cut interest rates to spur demand.
+
+## split
+* 저는 사소한 것에 신경 쓰고 매 순간을 분석하려 하지는 않을 겁니다.  KELLY: I'm not trying to split hairs and parse moments. 듣기
 
 ## splinter
 * get a splinter : 가시가 박히다
@@ -7601,6 +7650,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 오늘 아침에 너한테 좀 퉁명스럽게 대해서 미안해. I’m sorry I was short with you this morning.
 * 부족하다; you're 23$ short
   * be/run short on; be short of 명사; be running short on money
+* 그것의 줄임말이야; It's short for that
 
 ### shortly
 * # shortly; 곧; 미래시제와 함께 쓰임
@@ -7783,6 +7833,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 
 ## soft
+* -의 순한 모습; SOfter side of someone
 * ~에 약하다, ~을 매우 좋아하다 = have a soft spot for
   * 그런 문제아를 왜 그리 좋아하는지 나도 잘 모르겠어. ex) I don't know why I have a soft spot for such a trouble maker.
 * Soft: 미국에서는 부정적 의미로 인지됨으로 사용하지 마셈 처맞기 싫으면 
@@ -8096,6 +8147,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## tire
 * 미리 알아보다 #검토하다; #Kick the tires (on)
 
+## tiger
+* tiger parents = 엄한 부모님; 매우 엄격하고 강압적이며 교육열이 높은 부모를 가리키는데요, 특히 아시아계 부모를 지칭하는 경우가 많습니다.
+  * = 호랑이 부모들은 보통 엄하고 권위주의적이다. Tiger parents are usually strict and authoritarian.
 
 ## tight
 * tight ship은 직역하면 '밧줄이 타이트하게 잘 묶여진 배'로, 질서정연하고 규율이 엄격해 순항하는 배처럼 '조직이 잘 정비되고 통제되어 효율적으로 운영되는 기관이나 회사'를 의미해요.  여기서 run은 운영한다는 뜻으로, 회사의 운영이 느슨하지 않고 잘 통제되고 있고, 일하는 사람들의 기강도 좋아 어떻게 보면 좀 빡빡하긴 하지만 잘 운영되고 있는 것을 말해요.
@@ -8660,6 +8714,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## toe
 * 우리는 상황을 알아 보았다  Dipping our toes in the water
 
+## unsolicit
+* 애드웨어: 불필요한 광고를 표시하는 프로그램입니다. Adware: Programs that display unsolicited advertisements. 듣기 출처:한샘EUG
+
 ## urban
 * 우리 도시분위기를 대표하는 분이세요; - is the key to our urban vibe
 
@@ -8946,6 +9003,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ### write off
 * a. ~을 가치없는 것으로 보다. 폄하하다. b. (부채를) 탕감해주다. 영상에서는 a 의 의미로 쓰였습니다. 중간에 하이픈을 넣어서 (write-off) [무가치한 것/사람] 이라는 뜻으로도 사용됩니다.
   * 그의 놀라운 재능에도 불구하고, 사람들은 종종 그의 나이 때문에 그를 폄하해. ex) Despite his outstanding talent, people often write him off because of his age.
+
+### write up
+1. 보고서를 작성하다
+  * 너네 다 보고할거야; i'm gonna write up the entire class
 
 ## wrack
 * nerve-wracking 혹은 nerve-racking이라고 씁니다. nerve는 ‘신경’이고 rack은 ‘괴롭히다, 시달리게 하다’입니다. 내 신경 하나하나를 괴롭히는 듯한 느낌으로, 어떤 상황이 사람을 매우 긴장하게 하거나, 안절부절 못하게 할 때 사용합니다.
