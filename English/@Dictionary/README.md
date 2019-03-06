@@ -5401,6 +5401,9 @@ retaliate
   * 회의에 언론사 신분증 꼭 들고가. ex) Make sure to bring your press credentials to the conference.
 
 # 실수
+* blooper: embarassing mistake;  boo-boo: silly mistake;  slip up: careless error
+  * boner; clumsy blunder; screw up: to mess up;  flub: clumsy mistake; 
+  * goof up: careless mistake
 * bad > mistake >= fault
  * #실수하다; #slip up = #geek out = #whip up
  * 요즘엔 다수의 행동에 깔려 있는 기본적인 오류가 있다. ex) There is a basic fallacy underlying the majority's actions these days.  [ˈfæləsi]  [명사] (많은 사람들이 옳다고 믿는) 틀린 생각

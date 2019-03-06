@@ -2592,6 +2592,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## errand
 * errand to run / run an errand; i've got an errand to run
+* 간단한 일; 일 보러 가는 중; i'm headed to 시청 to run an errand
+  * 하루 종일 업무보고 있어; i've been running errand all day
 
 ## effect
 * effect on; eccectives of; effective
@@ -2800,6 +2802,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 테스는 재능이 뛰어나. 그런 미지의 매력이 있다고. [ex] Tess is a fantastic talent. She has that X factor.
 
 ## face
+* on the face of it = 겉보기엔, 얼핏 보기엔; 겉으로 드러난 면, 표면을 face 라고도 하기에 on the face of it 은 무언가의 겉만 보고 판단할 때 쓰는 표현이에요.
+  * = 얼핏 보기에 그는 그 직업에 최고의 후보자처럼 보였다. On the face of it, he appeared to be the best candidate for the job.
 * 표를 액면가의 두 배로 팔고 있었다. Tickets were selling at twice their face value. 듣기 출처:Collins
   * 있는 그대로 받아들이지마; DOn't take media at facce value
 * # shitface; : (속어) 술에 쩔은, 고주망태가 된; shitfaced는 술에 취해서 고주망태가 된 상태를 주로 뜻하고, ‘화가나서 심술궃은 얼굴을 한’이란 용법도 있습니다. 
@@ -3017,7 +3021,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## fluff
 * ##슛이 #막히다            He completely fluffed an easy shot.
-
+* 깃털; 옷 등의) 보풀; fluff
 
 ## flush
 * 우리 태현 씨 약간 술톤에 가까운! You have the Asian flush tone
@@ -3039,6 +3043,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 에밀리는 동료와 잠깐 사귀었어. Emily had a fling with her co-worker.
 
 ## flip
+* on the flip side = 반면에, 다른 한편으론; flip 이 동사로는 [뒤집다, 확 젖히다] 의 의미를 가지는데요. 뒤집으면 정반대의 측면을 보게 되는 것이기에 on the flip side 는 [반면에, 다른 한편으론] 의 의미를 가집니다.
+  * = 그 식당에서 일한 건 굉장히 지치는 일이었지만, 다른 한편으론 거기서 좋은 친구들을 많이 사귀었어. Working at the restaurant was exhausting, but on the flip side, I made a lot of good friends there.
 * 1) 모든게 다 정해져있는 대본(script) 를 뒤집는 (flip) 다는건, 예상치 못한 행동을 하여 상황을 역전시키는 것을 의미해요.  2) 때로는 상대방이 주로 이야기하는 대화에서, 자기가 주도권을 가져와 대화의 흐름을 바꾸는 것을 의미하기도 합니다. 3) 영상에서는 이전 팁까지는 본인이 이야기 할 때 어떻게 해야한다- 라는 내용이 주를 이루었는데,  4) flip the script는 '말을 갑자기 바꿔버리다'라는 뜻도 있어요.
   *  프랭크가 매니저한테 더 이상 일하지 않겠다고 말하고 한방 먹여버렸어. ex) Frank flipped the script when he told the manager that he would no longer work for her.
   * 나한테는 그렇게 말 안 했는데. 말을 그렇게 바꾸다니 어이가 없다! ex) That's not what he told me. I can't believe he would flip the script like that!
@@ -3179,6 +3185,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 그 길은 세 방향으로 나뉘어졌다. The road forked in three directions.
 
 ## fortune
+* = ~가 돈을 꽤 쓰다, 돈이 꽤 들다 cost someone a fortune; fortune 은 누군가의 '운'을 의미하는 것 외에도 '재산, 부, 거금' 을 의미합니다. 그래서 무언가에 돈을 꽤 많이 쓸 때 cost a fortune 이라고 하는데요. 영상에서처럼 중간에 사람을 넣어서 누가 그 돈을 쓰는지 표현할 수 있습니다.
+  * = 집 전체를 빌리는 데는 그에게 꽤 많은 돈이 들 거야. It'll cost him a fortune to rent the entire house.
 * 우리가 흔히 아는 fortune 은 [운, 행운] 의 뜻을 가지고 있는데요. 영상에서처럼 [큰돈] 을 의미하기도 해요. 가끔 헷갈리는 부분이 small fortune 이라고 하면 적은 양의 돈이라고 생각하실 수 있는데, 꽤 큰돈의 일부이기 때문에 여전히 어느 정도 많은 돈을 의미를 합니다.  영상에서처럼 [큰돈을 벌다, 재산을 모으다] 라고 할 땐 make a fortune 이라고 말할 수 있어요.
 	* = 거기에 그렇게 제법 큰돈을 들일 필요는 없어. You don't really have to spend a small fortune on it.
 * (내) 돈이 정말 많이 들었어. It cost me a fortune. 여기서 fortune 은 '거금'을 뜻해요! cost 다음에 지불의 주체를 넣어서 쓸 수도 있습니다.
@@ -4232,6 +4240,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : 온 종일 여기 계시지 않아도 되요. You don't have to hang around all day; 어떤 목적 없이 '빈둥대거나, 시간을 보내거나, 서성거리고, 돌아다니는 것'을 의미 합니다. 
 
 ### hang out
+* hangout = 집합소, 아지트; hang out 이라고 띄어서 쓰면 동사로 [밖에서 어울려 놀다, 시간을 보내다] 의 의미를 가집니다. 영상에서처럼 붙여서 쓰게 되면 명사로 쓰이지만, 본연의 의미를 잃지 않기에 사람들이 모여서 어울릴 수 있는 장소를 의미하는 비격식 표현입니다.
+  * = 그 창고는 우리가 아직 십대였을 때 비밀 아지트였어. The garage  was our secret hangout when we were still teens.
 * : 드디어 내가 정말로 같이 시간을 보내고 싶은 남자를 만났네요. I finally met a man I actually want to hang out with.
 * : 근데, 내 차 뒷자석에서 그렇게 죽치고 있는 뭐 특별한 이유라도 있는 거야? So any particular reason why you're hanging out in the back of my car? '(어떤 장소에서) 긴 시간을 보내다' 
 * 천을 내걸다; hang out the sheets
@@ -4694,6 +4704,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 1) 두 다리로 선다고 하여 ‘자립하다, 혼자 힘으로 일어서다’의 의미로 쓰였습니다. 사실 이 뜻으로 표현하려면 stand on one’s own legs 처럼 복수형 legs가 되어야 하는데요, 본 영상에서는 단수형으로 a leg to stand on이라고 하였습니다.  2) a leg to stand on는 원래 [not have a leg to stand on : 증거, 근거 부족으로 해명/주장 할 수 없다]로 쓰이는 말입니다. 어느 경우든 leg가 자신을 지탱하는 무언가를 의미합니다. 그것이 영상과 같이 돈을 벌어서 삶을 이어나갈 기반일 수도 있고, 이 표현처럼 증거, 근거일 수도 있는거죠. 
   * 이제 자립할 때도 되지 않았니? Isn’t it time that you stood on your own legs?
   * 계약서에 서명하지 않으셨으면, 법적으로 증명할 수 없습니다. If you didn’t sign a contract, you won’t have a leg to stand on.
+
+### legless; 
+* 그는 곤드레만드레 취했어  He's legless; Let's get legless
 
 ## level
 * : '한층 업그레이드 되다, 발전하다', '이전과는 차원/급이 달라지다' 라고 할 때 요 표현을 쓸 수 있어요! ※ 대화 상황까지 기억해보세요! go to another level
@@ -5176,6 +5189,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 12. #move over; 옆으로 이동; would you mind moving over
   * 13. be #move to tears; #감동
   * 14. #move mountains; for someone; 대단한 #노력하다
+
+### move against
+* 난 -에 맞설 수 없다; i cannot move against -
 
 ## money
 * Money : 1. Cool; Of unusually high quality : very good; excellent; 쩐다(정말1:1 의역); 퀄리티가 높은 물건(다이아 롤렉스, AP, 롤스로이스 등)
@@ -7529,6 +7545,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * #set down; 적어두다, 내려두다; set down the load; 짐을 내리다
   * #set off; #출발하다, #터뜨리다
 
+### set to
+* - 할 예정이다
+
 ### set off
 *  1) (폭탄, 폭죽 등을) 터뜨리다 2) (경보 장치를) 울리다 3) (사건, 효과를) 유발하다 이 3가지 뜻 모두 가만히 놔두면 조용할 무언가를 실행시킨다는 점에서 비슷한 뉘앙스의 단어들 입니다. 영상에서는 3번의 의미로 쓰였는데요. 직역하면 [TV 가 너를 유발할 거야] 이지만 굉장히 이상하죠? 여기서의 you 는 남자 주인공의 [시간 여행자의 능력] 을 의미하고 있습니다.
   * 그 거짓 정보는 주식 시작에서의 공포감을 불러 일으켰다. ex) The false information set off panic on the stock market.
@@ -7741,6 +7760,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 다음 면접으로 급히 가야 했었어. ex) I had to shoot off to my next interview.
 
 ## shoe
+* 내가 너였더라도; In your shoes
 * * 겁내지 마라. No need to shake/tremble in your shoes/boots
 * 어꺠가 무겁겠네요; big shoes to fill; have gib shoes to fill; 
   * 대신하다; fill 사람's shoes
@@ -9116,6 +9136,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 자녀가 제멋대로 자라게 두지 마라. [ex] You'd better not let your children run wild.
   * 하지만, 예문에서처럼 '살아있지 않은 주체(예: imagination)'에 대해 사용하는 경우에는, 비유적으로 '제멋대로 전개되다'의 뜻으로 사용한 거에요.
     * 네 감정이 주체못하게 흘러가기 전에 알았으면 좋겠는 건, 네가 들은 건 단지 가설일 뿐이라는 거야. [ex] Before your emotions run wild, I want you to know that what you heard is merely a hypothesis.
+
+### wildfire
+* catch on like wildfire = 순식간에 인기를 얻다; catch on 은 [인기를 얻다] 라는 뜻을 가지고 있어요. wildlife 는 한번 붙으면 확 퍼지는 [들불]을 의미하는데요. 직역하면 '들불과 같은 인기를 얻다' 이기에 [순식간에 인기를 얻다, 대유행하기 시작하다] 의 의미를 가집니다.
+  * = 유튜브는 서비스를 시작한 이후로 순식간에 인기를 얻었습니다. Youtube caught on like wildfire since it launched its service.
 
 ## wing
 * 2) on wings = 날개를 달고
