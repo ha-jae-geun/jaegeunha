@@ -139,6 +139,7 @@
 * is made by Apple; 옆에서 만들더진다
 
 ## from
+* 나 여기 출신 아니야; YOu're not from here
 * 대상에서 멀어져가는 느낌; 그래서 가깝다는 near이나 close와 어울리지 않고 to와 어울린다 == go
 * this place is near to my place
 * collocation: far from; 둘다 멀어져가는 느낌
@@ -268,6 +269,9 @@
 * break off with
 
 # 동사
+## atm
+* 현금 인출기가 어디에 있나요? Where is the cash machine
+
 ## arm
 * 난 그들과 함께 거기 있을 수 있다면 기꺼이 내 오른팔도 내주었을 것이다. I’d have given my right arm to have been there with them. 
 
@@ -426,6 +430,8 @@
   * 액션물: action-packed movies
   * 말보다 행동; Action speaks louder than words
   * 연기: acting
+* act the maggot = 까불다; 주로 아일랜드에서 쓰이는 속어로 [까불다] 정도로 해석이 되는데요. 적절하지 않은 상황에서 유치한 장난을 치거나 남이 보기에 바보처럼 행동하며 성가시게 까부는 것을 의미합니다. 조금 더 보편적인 표현으론 fool around 가 있습니다.
+  * = 여긴 너희가 까불만한 장소가 아니야. This is not the right place for you kids to act the maggot.
 
 ### action
 * slang(속어)으로 'action'은 '성적 접촉·활동'을 가리킬 수 있습니다. 문맥에 따라 스킨십에서부터 섹스까지를 모두 나타낼 수 있죠.
@@ -452,6 +458,9 @@
 
 ## adjust
 * 현미경을 조정하고 있다; They'er adjusting a microscope
+
+## address
+* 명사일 때는 상관 없고 동사일 때는 항상 뒤쪽에 강세가 붙어야 한다.
 
 ## add
 * 한마디 덧붙이자면; Let me add a few words
@@ -757,6 +766,9 @@
 * 그녀는 히스테리에 가까운 불안을 느꼈다. She felt an anxiety bordering on hysteria. 
 * 하지만 난 많은 사람들이 경계선에 있다고 생각합니다. But I think a lot of people are on the borderline. 듣기
 * 미국으로 밀입국 하려고 했다고? sneak across the border; he was sneaking across borders
+
+## behind
+* (자전거로) 지나가요; behind you
 
 ## behave
 * * behave badly = 못되게 굴다 * behave yourself! = 말썽 피우지 마!
@@ -1351,6 +1363,10 @@
 ## cylinder
   * #순조롭게 잘 돌아가다; #fire / #hit / #click on all cylinders
 
+## courteous
+* courteous; [ˈkɜːrt-]  영국식 [ˈkɜːtiəs] 
+* 도와 주셔서 정말 고맙습니다. It is very courteous of you to help me. 듣기 출처:동아 출판
+
 ## copper
 * copper 미국식 [ˈkɑːp-]  영국식 [ˈkɒpə(r)]: 동전, 잔돈
   * 2. 경찰의 급습을 받았다. The gansters were taken by surprise by coppers in the bar
@@ -1479,6 +1495,9 @@
     * 그는 이따금씩 들른다. He just calls in occasionally.
   * 2. 일하는 곳에 전화하다
     * 다니엘이 늦을 것 같다고 전화했다. Daniel called in to say that he was going to be late.
+
+## cat
+* 고양이를 봐주다; someone has been cat sitting for me
 
 ## catch
 * 전체적으로는 좋은데 문제시 되는 것, 겉으로 드러나지 않았던 숨은 문제를 명사로 a catch 라고 합니다. 
@@ -1744,6 +1763,9 @@
 * chew the fat, 직역하면 지방을 씹다인데요, 편한 주제로 오래동안 잡담하고, 수다떠는 것을 말해요. chew the rag 이라고도 합니다.
       * 우리는 그날 저녁 대부분 잡담이나 하면서 바에 앉아있었다. We sat in a bar most of the evening just chewing the fat.
 
+## cheer
+* 치어리딩 연습이 있고; got cheer in just a few minutes
+
 ## cheek
 * 까불지 마; DOn't be cheeky
 * 너무 뻔뻔해; he has cool cheek
@@ -1892,6 +1914,10 @@
 ## crush
 * 어떤 안 좋은 일의 정도가 매우 크고, 심각할 때 쓰이는 단어 입니다. 사람이 주어가 될 때는 crushed라고 합니다.
   * 나는 참담한 기분을 느꼈다. ex) I felt crushed.
+
+## crown
+* = 가장 매력적인 부분, 사람, 화룡점정 the jewel in the crown; 직역하면 '왕관의 보석' 이라는 뜻인데요. 예전 왕관에 보면 중앙에 큰 보석이 박혀있는 걸 볼 수 있습니다. 자칫 밋밋할 수도 있는 왕관에 보석이 들어가면 왕관을 좀 더 매력적으로 보이게 해주고, 그렇기에 그 보석이 가장 소중한 부분으로 여겨지는데요. 사자성어로 &lt;화룡점정&gt; 과 비슷한 의미로 쓰여요.
+  * = 세인트 루이스 시장은 이 구역에서 가장 매력적인 곳입니다. St. Luis market is the jewel in the crown of this district.
 
 ## crop
 * 그 어린이들은 머리가 아주 좋다. 그들은 최고다. The kids are very bright. They are the cream of the crop. ; 제일 좋은 것, 알짜(인 사람)
@@ -2321,6 +2347,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 논의가 이어지게 하려면 흔히 인터뷰 진행자가 선의의 비판자 노릇을 할 필요가 있다. Often the interviewer will need to play devil’s advocate in order to get a discussion going. 
 
 
+## daisy
+* [감탄사] 영차, 으차 ((사람을 오르도록 밀어주며)) oops-a-daisy 미국·영국 [ú:psədèizi]  영국식   단어장추가
+* 이용자 참여  그게 옛날에나 모이던 동창회이지, 얼마 안가서 곧 없어질 거야. It is an ex-Union and it is pushing up the Daisies. 듣기
+
 ## day
 * day one은 어떤 일을 시작하는 첫날을 가리키는데요, 어떤 일을 '첫날부터' 했다, 무엇이 '처음부터' 그랬다, 라고 할 때 사용합니다.
   * 첫날부터 비가 내렸다. It was raining from day one.
@@ -2383,6 +2413,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 흐린 날이야. [ex] It's a dull day. 3. 날씨: 흐린, 구름이 많은
 * 둔통 [ex] a dull pain 4. 통증: 둔탁한
 * (이해·반응 등이) 느린 아이 [ex] a dull child 5. 사람: 둔한, 느린
+
+## dusk
+* 해 질 무렵이네요; It's dusk  [dʌsk]
 
 ## dust
 * : 죽으면 툭 쓰러져 먼지를 입에 물게 되는 것처럼, 죽음을 완곡하게 이르는 표현이에요. 비슷한 우리말 관용구로는 '한 줌의 흙/재가 되다' 가 있죠. '(사람이) 죽다', '(기계가) 수명을 다하다', '무너지다/실패하다'라는 뜻으로 쓸 수 있답니다.
@@ -4001,6 +4034,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * [hold … against ~] : …때문에 ~를 안 좋게 보다, 원망하다 과거의 어떤 일로 그 사람에 대해서 계속 화가 나거나 기분나빠 하는 상태로 있는 것을 뜻하는 표현입니다. 어순은 〔hold 사건 against 사람〕 입니다.
   * 미안하다고 말 했잖아! 도대체 얼마나 오래 날 원망할 생각이야? I said I’m sorry! How long do you plan to hold it against me?
 
+### hold up
+* 당신 줄을 막고 있잖아요; YOu're holding up the line
+
 ## hover
 * 그가 문간에서 초조하게 서성였다. He hovered nervously in the doorway. 
 
@@ -4290,6 +4326,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 어떤 말이나 행동의 앞뒤가 맞지 않은 경우를 우리는 아이러니하다고 하죠. ironic와 irony는 비슷하게 보이지만 품사에 차이를 가져요. 품사에 주의해 단어를 잘 활용해보세요.
   * 아이러니한게 예전에 애들을 싫어했는데 지금은 좋아. It's ironic that I used to hate kids, but now I love them.
 
+## impede
+* 너의 가짜 수사를 지연시킬리가 없잔항; i would never impede your pretend investigation; pretend: 가짜  impede [ɪmˈpiːd]: 지연시키다.
+
 ## impression
 * : "일 거라고 생각했는데"를 격식있고 완곡하게 표현하는 방법입니다. 자신이 생각했던 것과 실제 상황과 다른 때, 서로 뭔가 착각 또는 오해가 있는 것 같다며 조심스럽게 말할 때 주로 사용하죠. 비즈니스에서 특히 유용하게 쓰일 수 있는 표현입니다. 
   * 전 당신이 총괄이라고 생각을 했습니다만. I was under the impression that you were in charge.
@@ -4312,6 +4351,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## ingratiate
 * 존의 환심을 사기 위해 그런 행동은 하지 않겠어. ex) I'd never do that to ingratiate myself with John. = ingratiate oneself with
+
+## investigation
+* 너의 가짜 수사를 지연시킬리가 없잔항; i would never impede your pretend investigation; pretend: 가짜  impede [ɪmˈpiːd]: 지연시키다.
 
 ## invite
 * invite to~는 ‘로 초대하다’라는 뜻이지만 여기에 along이 붙으면 제안한 사람과 함께 가자고 초대한다는 의미가 됩니다. along이 주는 뉘앙스가 ‘함께, ~를 따라서’가 있기 때문입니다. 따라서 추후에 나올 부분 sing along도 ‘다른 사람들과 함께, 따라서 부르다’라는 의미가 됩니다. 
@@ -4876,6 +4918,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 제작자; memer; 미머
 
 ## mercy
+* have mercy on = ~에게 자비를 베풀다, ; 1) mercy 는 명사로 '자비'를 의미합니다. 이 표현이 가장 많이 쓰이는 경우는 기도를 할 때 "신이시여, ~에게 자비를 베푸소서." 라는 구절로 많이 쓰이는데요. 그렇기에 영상에서도 Jesus 를 한 번 외치고 시작합니다.
+  * = 걔 좀 봐줘. 일부러 그런 게 아냐. Please have some mercy on him. He didn't do that on purpose.
 * # 휘둘리다; : 그대로 해석하면 누군가/무언가의 '자비'에 있다는 뜻인데요. 누군가/무언가의 자비에 따라 운명이 좌우되듯, '에 휘둘리다/달려 있다', '통제/지배를 받다' 라는 뜻이에요! 이 문장의 전체 뜻과 함께 기억해보세요. 내용과 연관 지으면 기억이 더 오래 갈 거예요!  at the mercy of someone/something
   * 난 내 감정에 휘둘리고 싶지 않다. I don't want to be at the mercy of my emotions.
 
@@ -5856,6 +5900,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * piggyback 은 등에 업는 것, 어부바 입니다. 그리고 piggyback off (of) 는 비유적으로 ‘남에게 기대다, 다른 것에 기대어 이득을 취하다’를 의미합니다. piggyback on something 이라고도 합니다. 
   * 나는 내 이웃이 내 인터넷을 몇 달동안 몰래 사용해왔다는 걸 알게됐다. I got to notice that my neighbor has been piggybacking on my Internet for months.
 
+## praise
+* 주님꼐 찬송드립니다; Praise the Lord
+
 ## primary
 * 매우 중요한; primary responsibility/concern/school
 * primary objective / aim / concern / 
@@ -6034,6 +6081,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * # prep; 자동사로도 쓸 수 있고, 타동사로도 쓸 수 있다.
 * 명사 앞에도 쓰이기도 한다; 입시 학원: a prep school
 * [명사] (영국에서 7~13세의 아동이 다니는) 사립 초등학교 참조 public school preparatory school 미국식  영국식   단어장추가
+
+## pretend
+* 너의 가짜 수사를 지연시킬리가 없잔항; i would never impede your pretend investigation; pretend: 가짜  impede [ɪmˈpiːd]: 지연시키다.
 
 ## pretty
 * : 'please, 제발'의 강조형으로 '제발 부탁이야', '제발, 응?' 정도예요. 더 간곡히 부탁할 때는 'pretty please with sugar/a cherry on top' 이라 말하기도 해요! 최대한 공손하게 조를 때 쓸 수 있어요. 사람에 따라 애교를 섞어서 쓰기도 해요. 모두 다소 비격식적인 표현으로 격식 있는 자리에서는 부적절할 수 있으니 주의하세요!
@@ -6361,6 +6411,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그는 형편 없는 요리사야. [ex] He's a rotten chef.
 
 ## rose
+* 탄광에서 일하는 것은 편하지 않다. Working in a coal mine is no bed of roses; no bed of roses; difficult/not easy
 * 사물을 낙관적으로 보다 see things through rose-colored spectacles[glasses] 
 * : '만개한 상태가 장미를 떠나다'로, 활짝 폈던 꽃이 시드는 것처럼 뭔가가 '전성기를 지나다, 예전의 활기를 잃다'라는 뜻이에요! 여기서는 사랑/애정이 식었다는 뜻으로 쓰였죠. 1. [ 관용구 ] the bloom is off the rose
 
@@ -6725,6 +6776,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 관심을 가지고 다가가ㅏㄷ; reach out to 사람;
 * 는 #무리다, #멀다; it’s a #reach;   말도 안되는 소리: you’re reaching = it’s a stretch
 
+### overnight
+* 익일 배송을 시킬 수는 없었어요; SHe couldn't overnight it
+
 ### overtake
 * 일본인들이 우리를 뛰어넘는 거야; Japs are overtaking us
 
@@ -6755,6 +6809,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 나를 특별하게 대우할 필요는 없습니다. There's no need to roll out the red carpet for me.  
 * red tape : (불필요하게) 형식적인 절차
   * 지원금이 형식적인 절차에 묶여있어. ex) The grant is now tied up with red tape.
+
+## shrink
+* (구어) 수줍어하는[내성적인] 사람 shrínking víolet  
 
 ## shroud
 * 그 도시는 엷은 안개에 뒤덮여 있었다. The city was shrouded in mist.   (어둠구름천 등이) 뒤덮다, 가리다  [ʃraʊd] 
@@ -8031,6 +8088,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 네게 또 다른 기회가 있을 거라곤 생각하지 않아. 이미 엎질러진 물이야. I don't think you will have another shot. The ship has sailed.
 
 ## shit
+* piece of shit: 질이 나쁜 사람이나 물건
 * # shitface; : (속어) 술에 쩔은, 고주망태가 된; shitfaced는 술에 취해서 고주망태가 된 상태를 주로 뜻하고, ‘화가나서 심술궃은 얼굴을 한’이란 용법도 있습니다. 
   * 매기는 항상 술에 쩔어있었고 그녀의 아이들조차 돌보지 않았다. Maggie was shitfaced all the time and didn’t even look after her own children.
 * 1) you ain't got shit on me 는 넌 나에게 적수가 안된다, 대적할 가능성이 아예 없다, 라는 의미로 쓰였습니다.
@@ -8303,6 +8361,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## truth
 * 일반적인 사실을 말할 때는 to tell you the truth; s 안붙임
+* 사실을 말하자면; (if the) truth be told
 
 ## trump
 * 카드게임에서 trump 를 ‘으뜸패’라고 하죠. trump 는 동사로도 쓰이는데요, 다른 어떤 것보다 항상 좋다, 우수하다는 의미입니다. 가장 좋은 것이 주어가 됩니다.
@@ -8804,6 +8863,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## vanilla
 * 1. vanilla는 '바닐라 아이스크림, 바닐라 라떼'처럼 맛을 의미하기도 하지만 '평범한, 흔하고 별 특색 없는'이라는 뜻도 가지고 있어요.  2. 앞서 아이스크림에 대해 이야기 하고 있었기 때문에 vanilla라는 표현을 사용한 것은 딱 말장난을 노린 거겠죠~ pun은 동음이의어, 다의어, 소리가 비슷한 말 등을 이용해서 하는 말장난을 가리켜요. vanilla는 '바닐라'와, '평범한'라는 여러 뜻이 한 단어에 있는 다의어죠.
+
+## violet
+* (구어) 수줍어하는[내성적인] 사람 shrínking víolet  
 
 ## view
 * point of view 는 '관점' 이라는 뜻으로 viewpoint 라고 하기도 하는데요. from ~ point of view 는 정말 많이 쓰는 표현입니다. point 앞에 다양한 단어를 넣어 어떤 관점에서 보는지 표현할 수 있어요.

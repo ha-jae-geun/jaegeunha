@@ -1673,6 +1673,8 @@
  * #나오다 ##쏟아져 나오다 #솟구치다
 
 # 나이
+* # 어르신; old man / old lady;
+  * 어르신들을 위한 혜택이 있나요? Are there any perks for senior citizens?
 * 내가 20대일때 넌 날 늙게 보곤했다. You used to put years on me when I was in my 20s.  put years on somebody
   * 나이에 비해 젊어보인다고 할 때 쓰는 표현입니다. 직역하면 ‘그 나이보다 단 하루라도 넘어 보이지 않는다’인데요, 즉 그 나이 이상은 절대로 보이지 않는다는 강조의 표현입니다.  * not look a day over (나이) = –살 이상으로는 보이지 않는다
     * 75세시라구요? 와, 50세 이상으로는 절대로 보이지 않으신데. ex) She’s 75 years old? Wow, she doesn’t look a day over 50. 
@@ -7937,6 +7939,7 @@ retaliate
   * 이런 남성 중심의 사회에서는, 우리가 남성들의 수법을 써서 그들을 능가하는 법을 배워야 해. In this male-dominated society, we have to know how to beat men at their own game.
 
 # 지나가다
+* (자전거로) 지나가요; behind you
 * 영상에서는 (I) hope / that's just a phase. 로 쓰여 [그냥 지나가는 단계이길 바래] 로 직역이 될 수 있습니다.
 	* 그냥 지나가는 단계라고 말하지마. 넌 임신하는게 어떤지 몰라. ex) Don't say it's just a phase. You don't know what it's like to be pregnant.
 	* Let it slide; Cut someone slack
@@ -8559,6 +8562,9 @@ retaliate
 
 # 출발
 * 2시간 전에 출발했어; She left 2 hours ago
+
+# 출신
+* 나 여기 출신 아니야; YOu're not from here
 
 # 충고
 * 안하는게 좋아; YOu' don't want to;
@@ -9417,6 +9423,9 @@ retaliate
  * #내면의 아름다움은 친절함 혹은 좋은 행실을 보여줍니다.           di:d
  * The inner beauty represents kindness and #good deeds.
  * #내면의 목소리; follow the #inward voice
+
+# 행사
+& have various events and festivals
 
 # 허가
 * 2) license는 ‘허가, 허가증’이죠. 여기서도 허락하는 것이긴 한데, 나쁜 행위를 맘대로 하도록 허용해 주는 것을 뜻합니다. 예를 들어 ‘시적허용’을 영어로 poetry license 라고 하는데요, 여기서도 문법을 틀리는 것은 부정적인 행위이지만, 시적인 효과를 표현하기 위해서 허용해 준다는 의미에서 license가 들어간 것입니다.
