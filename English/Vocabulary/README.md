@@ -636,6 +636,7 @@
   * the sun is beaming down on you
 
 ## beat
+* (구어) 모르겠는데요 Beats me! 미국식  영국식   단어장추가
 * 어떻게 시간 전에 마쳤니? "How did you beat the clock?"
 * beat는 ‘이기다, 능가하다’라는 동사로 과거분사는 beaten입니다. 그래서 엄밀히 말하면 be beaten이라고 해야 하지만, 회화나 광고, 음악 등에서 be beat이라고 하는 경우가 종종 있습니다. We can’t be beat은 우리는 능가될 수 없다, 즉 “우릴 이길 사람은 없다”라는 의미입니다. 혹은 beat는 ‘녹초가 된, 엄청 지친’이란 의미도 있어서 “우린 절대 지치지 않아”로 생각할 수도 있습니다. 
 * #beat; 통제; beat the other women
@@ -1276,6 +1277,7 @@
 * = 좁은 견해를 가지다, 주변 사정에 어둡다 put blinders (blinkers) on; 미국에서는 blinders, 영국에서는 blinkers 라고 하는데요. 이는 말을 타고 갈 때 말이 주변의 사물에 주의를 잃지 않도록 눈가에 붙여두는 가죽을 의미합니다. put on 은 '입다, 쓰다' 라는 의미가 있으니, 눈가리개 가죽을 써서 다른 것을 못 보는 것을 의미하는데요.  비유적인 표현으로 쓰여, 주변에서 발생하는 일이나, 남의 의견을 인식하지 못하고, 하나에만 집중하고 자기 의견만 생각하는 모습을 의미해요. 영상에서는 문맥상 '주변에 다른 이성들을 잘 알지 못한다' 의 의미를 갖지만 좀 더 자연스럽게 '한 사람에게만 집중하지 않다' 로 해석이 되었습니다.
   * = 그녀와 사귈 때 그녀에게만 너무 집중했어. 모든 친구들이랑 연락이 끊겨버렸어. I put blinders on while being with her. I've lost contact with all of my friends.
 * 눈가리게를 다시 썼는데; i was reputting on my blindfold
+* 너는 어떻게 저 굶주린 아이들을 보고도 못 본 척 할 수 있겠는가? How can you turn a blind eye to all those starving children? 
 
 ## blinker
 * = 좁은 견해를 가지다, 주변 사정에 어둡다 put blinders (blinkers) on; 미국에서는 blinders, 영국에서는 blinkers 라고 하는데요. 이는 말을 타고 갈 때 말이 주변의 사물에 주의를 잃지 않도록 눈가에 붙여두는 가죽을 의미합니다. put on 은 '입다, 쓰다' 라는 의미가 있으니, 눈가리개 가죽을 써서 다른 것을 못 보는 것을 의미하는데요.  비유적인 표현으로 쓰여, 주변에서 발생하는 일이나, 남의 의견을 인식하지 못하고, 하나에만 집중하고 자기 의견만 생각하는 모습을 의미해요. 영상에서는 문맥상 '주변에 다른 이성들을 잘 알지 못한다' 의 의미를 갖지만 좀 더 자연스럽게 '한 사람에게만 집중하지 않다' 로 해석이 되었습니다.
@@ -2377,6 +2379,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 이용자 참여  그게 옛날에나 모이던 동창회이지, 얼마 안가서 곧 없어질 거야. It is an ex-Union and it is pushing up the Daisies. 듣기
 
 ## day
+* 필요한 게 그날에 따라 달라질 수 있지. Your needs can differ from day to day.
 * day one은 어떤 일을 시작하는 첫날을 가리키는데요, 어떤 일을 '첫날부터' 했다, 무엇이 '처음부터' 그랬다, 라고 할 때 사용합니다.
   * 첫날부터 비가 내렸다. It was raining from day one.
 * day and night = 밤낮으로, 종일; She's been working hard day and night for the presentation.
@@ -2461,6 +2464,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## diverse
 * diverse cultures; diverse interest; diverse backgrounds
 
+## dirt
+* (특히 남의 사생활에 대해) 험담하다 dish the dirt (on somebody) 미국식  영국식   단어장추가
+
 ## direction
 * 길 좀 알려주세요; Point 사람 in the right direction; Just point me in the right direction
 * 길을 물어보다; ask 사람 for directions; ㅗㄷ ㅁ낟ㅇ ㅡㄷ 랙 약ㄷㅊ샤ㅐㅜㄴ
@@ -2476,6 +2482,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## dizzy
 * dizzy는 머리가 어지로운 걸 뜻해요. "나 어지러워"는 "I'm dizzy" 혹은 "I feel dizzy"라고 표현해요. 잠깐 현기증이 나고 사라지는 건 dizzy spell 이라고 해요.
   * 나 요즘 들어 현기증이 가끔씩 나고 그래. I've been having dizzy spells lately.
+
+## dish
+* (특히 남의 사생활에 대해) 험담하다 dish the dirt (on somebody) 미국식  영국식   단어장추가
 
 ## dismiss
 * 수업 끝났습니다; Class dismissed
@@ -5196,6 +5205,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 학교는 항상 9월 둘째 수요일에 친목회를 주최한다. [ex] The school always holds a mixer on the second Wednesday of September.
   * 사교성이 좋은[나쁜] 사람 [ex] a good[bad] mixer
 
+## million
+* "그거 아주 중요한 질문입니다" That's the million-dollar question
+
 ## mile
 * try to walk a mile in one's shoes
 
@@ -6048,7 +6060,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## potential
 * 잠재력을 발휘가기 위해 노력하다; strive to reach their full potential
-
+  * I see a young man with potential
 
 ## potato
 * 핵심 #meat and #potatoes
@@ -7152,6 +7164,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## say
 * : 최종 결정권이 있다, 칼자루를 쥐다 [have/get the last say] 어떤 사항에서 최종 결정권을 갖는 것을 have/get the last say라고 합니다. last say 대신 final say라고 하셔도 됩니다.
   * 편집장으로서, 그녀는 레이아웃 설계에 대한 최종 결정권을 갖고 있다. As the editor in chief, she has the last say on the layout design.
+
+## salad
+* 누군가 애타게 친구가 되고 싶어서 노력할때 비꼬는 듯이 쓰이는 표현입니다.
+직역을 하자면 Salad로 친구를 살순 없다 라는 뜻입니다. You don't win friends with salad.
 
 ## salt
 * Salt; salary: 예전에 귀했던 salt에서 온 말; 
@@ -8878,6 +8894,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## urban
 * 우리 도시분위기를 대표하는 분이세요; - is the key to our urban vibe
+
+## underway
+* 경영변화가 이미 시작됐어. Management changes areunderway now
+* 봄이 다가오네! Spring gets underway!
 
 ## uncoordinate
 * 운동신경도 없는 네게; Uncoordinated kid

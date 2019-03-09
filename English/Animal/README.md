@@ -82,6 +82,7 @@
 
 
 # 곤충
+* 숙주 벌이 모으고 있는 being gathered by the host bee 
 * 귀뚜라미; cricket
 * 기생충; wormy parasites / parasitic worms
 	* 숙주; The parasites hatched eggs in the flesh of the host animal
