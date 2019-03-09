@@ -56,6 +56,18 @@
 - 영어 단어인 의 사전적 의미는 동질 이상 등이 있으며 여기에서는 다형성이라는 polymorphism 의미가 된다. 화학에서 동질 이상은 화학 조성이 같은 물질이지만 다른 결정 구조를 갖는 것을 의미하는 것과 같이 프로그래밍에서의 다형성은 오브젝트들이 같은 메소드를 정의하지만 구현하는 방법이 다른 것을 말한다. 
 - 상속에 의해서 이루어짐.
 
+# java beans
+- 자바빈즈(JavaBeans)는 자바로 작성된 소프트웨어 컴포넌트이다.
+- 자바빈즈의 사양은 썬 마이크로시스템즈에서 다음과 같이 정의되었다. "빌더 형식의 개발도구에서 가시적으로 조작이 가능하고 또한 재사용이 가능한 소프트웨어 컴포넌트이다."
+- 많은 측면에서 유사성을 보임에도 불구하고 자바빈즈는 엔터프라이즈 자바빈즈(EJB)와 혼동하지 말아야 한다. EJB는 자바 플랫폼, 엔터프라이즈 에디션(Java EE)의 일부로서 서버 계열의 컴포넌트이다.
+- set-get
+
+### 조건
+- 클래스는 직렬화되어야 한다.(클래스의 상태를 지속적으로 저장 혹은 복원 시키기 위해)
+- 클래스는 기본 생성자를 가지고 있어야 한다.
+- 클래스의 속성들은 get, set 혹은 표준 명명법을 따르는 메서드들을 사용해 접근할 수 있어야 한다.
+- 클래스는 필요한 이벤트 처리 메서드들을 포함하고 있어야 한다.
+
 
 # OOP
 * [OOP]('http://woowabros.github.io/study/2016/07/07/think_object_oriented.html')
@@ -207,6 +219,163 @@
 ## java.lang
 - import 쓰고 있지 않아도 가지고 있는 패키지
 - lang의 조상은 Object^
+
+
+## java.util
+
+# StringTokenizer 
+- StringTokenizer 클래스는 지정한 문자열을 특정 구분자로 분리하여 분리된 문자열들을 토큰으로 반환한다. 
+- StringTokenizer 클래스는 특정 데이터들이 특정 구분자로 해당 데이터들을 구분자로 분리하여 데이터들을 추출할 수 있다. 
+- StringTokenizer 클래스는 문자열에서 단어를 분리하는 기능을 가지고 있으며 각각의 단어는 구분 기호인 delimiter . 에 의해 토큰으로 분리된다 
+- 다음은 어깨동무 자바는 자바 강의의 혁명이다. 라는 문자열을 공백 문자를 구분 기호로 사용하여 토큰으로 분리하므로 5 . 개의 토큰이 생긴다
+
+## 주요 메소드
+- ① countTokens 메소드 countTokens 메소드는 StringTokenizer 클래스에 저장되어 있는 전체 토큰 개수를 반환한다. 
+- ② hasMoreTokens 메소드 hasMoreTokens 메소드는 작업을 할 수 있는 토큰이 더 있는지를 판단한다. 
+- ③ nextToken 메소드 nextToken 메소드는 다음 토큰을 반환한다
+
+## split 과의 차이
+- 이번에는 StringTokenizer 클래스에 대해 알아보려고 하는데요. split과 둘의 차이점이라고 한다면 split은 String클래스의 메소드로 추출한 문자를 배열로 저장하고, StringTokenizer는 메소드가 아니라 java.util에 포함되어 있는 자체 클래스입니다. 그렇기 때문에 사용하는 방법이 다르고 StringTokenizer클래스는 내부에 꼭 넣어야 하는 메소드가 존재합니다.
+
+
+
+
+# random
+- 1. Math 밑에 random 2. Random Class; 보통 이것 사용
+- 이메일 검증할 때 사용;
+- seed 값: 시간에 따라서
+난수에 대한 필요성은 빈번히 발생하는데 특히 보안코드를 생성할 때 난수를 사용한다. 
+- Random 클래스는 임의의 값을 발생시켜 주는 의사난수 발생기이다. Random 클래스는 일정 범위의 값들에서 한 개의 수를 임의로 선택한다. 
+- Random 클래스의 인스턴스를 호출시 생성되는 난수들이 달라지는 seed 값으로 임의의 난수값을 얻는다. 
+- seed . 값을 인자로 사용하여 매번 다르게 주어 매번 다른 의사난수를 추출하여 사용한다 seed . 
+- 값은 일반적으로 현재 시간을 이용한다 매 순간 현재 시간이 바뀌며 한 번 지나간 시간은 다시 돌아오지 않는다는 특성은 이전에 발생했던 의사난수를 다시 재연 불가능하게 만들며 시간이 밀리초 단위로 섬세하게 표현된다면 사람에 의한 임의적 조작도 사실상 불가능해진다. 
+- int 형의 정수 랜덤값을 추출하기 위해서는 Random 클래스의 인스턴스에 nextInt 메소드를 호출하면 된다. 
+- nextInt 메소드 호출시에 매개변수를 넣어 주지 않으면 int 타입의 전체 범위에서 랜덤값을 추출한다.
+
+## 차이점
+- Math.random()과 Random의 차이점 : 종자값(seed)을 설정할 수 있다는 것이다. 종자값(seed)는 쉽게 생각해서 "기준점"이라고 생각하면 되겠다. 같은 종자값(1)을 사용하기 때문에 같은 실행결과를 얻는다.
+
+# 랜덤 예제
+ * package a.b.c;
+ * 
+ * import java.util.Random;
+ * 
+ * public class A {
+ *   static String string = "java";
+ * 
+ *   public static void main(String[] args) {
+ * 
+ *     Random random = new Random(10);
+ *     for (int i = 0; i < 2; i++) {
+ *       System.out.println("random 값" + random.nextInt());
+ *     }
+ * 
+ *     Random random2 = new Random(10);  // 객체를 두개 만들고 seed 값을 같게 하면 같은 결과 출력;  한개의 객체에 두번 출력하면 다른 값출력; 절차적인 언어인 C언어와 달리 객체는 동시에 실행되니 두개의 객체를 만들면 같은 시간에 실행된다고 생각.
+ *     for (int i = 0; i < 2; i++) {
+ *       System.out.println("random 값" + random2.nextInt());
+ *     }
+ *   }
+ * }
+
+
+## Random 메소드
+- ① next 메소드
+= next 메소드는 다음의 의사 난수를 생성한다.
+- ② nextFloat 메소드
+- nextFloat 메소드는 0.0에서 1.0의 범위에서 float 자료형으로 의사 난수를 반환한다.
+- ③ nextInt 메소드
+- nextInt 메소드는 int 자료형의 의사 난수를 반환한다.
+
+# Date
+- Date 클래스는 날짜와 시간에 관한 정보 클래스이다.
+-  Date 클래스는 JDK가 버전업되면서 많은 메소드가 더 이상 사용되지 않고 앞으로는 사라지게 되었다. 
+- Date 클래스는 toString 메소드가 재 정의되어 있어 인스턴스를 직접 출력하면 날짜 및 시간이 출력된다. 
+- Date 클래스 보다는 가능하면 Calendar 추상 클래스를 사용하는 것을 권장한다
+
+
+## Date 메소드
+- ① after 메소드 after 메소드는 날짜가 현재 날짜 이후면 true로 아니면 false를 반환한다. 
+- ② before 메소드 before 메소드는 날짜가 현재 날짜 이전이면 true로 아니면 false를 반환한다.
+- ③ compareTo 메소드 compareTo 메소드는 다른 날짜 오브젝트와 비교하여 음수, , 양수 0의 결과를 반환한다. 
+- ④ equals 메소드 equals 메소드는 날짜의 값을 비교하여 그 결과를 반환한다. 
+- ⑤ getTime 메소드 getTime 메소드는 1970년 1월 1일 0시 0분 0초로부터의 시간을 1/1000초 단위로 반환한다. 
+- ⑥ setTime 메소드 setTime 메소드는 1970년 1월 1일 0시 0분 0초로부터의 시간을 1/1000초 단위로 설정한다.
+
+## Calendar
+- Calendar 추상 클래스는 Date 클래스처럼 날짜와 시간에 관한 정보를 표현할 때 사용한다. 
+- Date 클래스에서 사라진 메소드 중에 같은 기능의 메소드가 Calendar 추상 클래스에서 제공된다. 
+- Calendar 추상 클래스는 getInstance 스태틱 메소드를 이용하여 인스턴스를 생성한다. 
+- Calendar 추상 클래스의 주요 상수는 다음과 같다. 
+- ① YEAR : 현재 년도 
+- ② MONTH : 현재 월 
+- ③ DATE : 현재 월의 날짜 
+- ④ WEEK_OF_YEAR : 현재 년도의 주 
+- ⑤ WEEK_OF_MONTH : 현재 월의 주 
+- ⑥ DAY_OF_YEAR : 현재 년도의 날짜 
+- ⑦ DAY_OF_MONTH : 현재 월의 날짜 
+- ⑧ DAY_OF_WEEK : 현재 요일로 일요일은 1, 토요일은 7이다. 
+- ⑨ HOUR : 12시간제의 현재 시간 
+- ⑩ HOUR_OF_DAY : 24시간제의 현재 시간 
+- ⑪ MINUTE : 현재 분 
+- ⑫ SECOND : 현재 초 
+
+## Calendar 예제
+ * package min.f.dateclass;
+ * import java.util.Calendar;
+ * public class CalendarCall {
+ * public static void main(String[ ] args) {
+ * //인스턴스를 생성한다.
+ * Calendar calendar = Calendar.getInstance( );
+ * //년을 구한다.
+ * int year = calendar.get(Calendar.YEAR);
+ * // 1 . 을 더해서 현재의 월을 구한다
+ * int month = calendar.get(Calendar.MONTH) + 1;
+ * //현재의 일을 구한다.
+ * int day = calendar.get(Calendar.DAY_OF_MONTH);
+ * System.out.print(year + " " 년 );
+ * System.out.print(month + " " 월 );
+ * System.out.print(day + " " 일 );
+ * }
+ * }
+
+ - Calendar calendar = Calendar.getInstance( ); ⎼Calendar 클래스는 추상 클래스이므로 new 키워드로 인스턴스를 생성할 수 없으므로 getInstance 메소드로 현재 시스템의 날짜를 통해 인스턴스를 생성한다. 
+- ✍ int year = calendar.get(Calendar.YEAR); ⎼Calendar 추상 클래스의 YEAR 상수로 년도를 가져온다. 
+- ✍ int month = calendar.get(Calendar.MONTH) + 1; ⎼Calendar 추상 클래스의 MONTH 상수로 월의 가져온다. ⎼월의 인덱스의 범위가 0에서 11이므로 실제 월을 출력하기 위해서는 1를 더해 주어야 한다. 
+- ✍ int day = calendar.get(Calendar.DAY_OF_MONTH); ⎼Calendar 추상 클래스의 DAY_OF_MONTH 상수로 날짜를 가져온다.
+
+
+### 기준일로부터의 경과일 
+ * package a.b.c;
+ * 
+ * import java.util.Calendar;
+ * import java.util.Date;
+ * 
+ * public class A {
+ * 
+ *   public static void main(String[] args) {
+ *     Date date = new Date();
+ *     Calendar calendar = Calendar.getInstance();
+ *     // 현재 날짜를 지정한다.
+ *     calendar.setTime(date);
+ *     Calendar calendar2 = Calendar.getInstance();
+ *     calendar2.set(2016, 12 - 1, 12);
+ *     int count = 0;
+ *     // 현재 날짜를 비교한다.
+ *     while (!calendar2.after(calendar)) {
+ *       count++;
+ *       // 설정된 날짜에서 지정된 숫자만큼 가산하여 다음날로 바꾼다.
+ *       calendar2.add(Calendar.DATE, 1);
+ *     }
+ *     System.out.println("기준일로부터 " + count + "일이 지났습니다  .");
+ *   }
+ * }
+
+
+- ✍ calendar.setTime(date); ⎼calendar 인스턴스의 setTime 메소드로 인자값인 Date 클래스의 date 인스턴스로 현재의 날짜를 지정한다. 
+- ✍ calendar2.set(2016, 12-1, 12); ⎼calendar2 인스턴스의 set 메소드로 현재 인스턴스의 특정 날짜를 설정한다. ⎼현재 월을 출력하기 위해 월의 기본 정보다 1이 많도록 조건을 설정했으므로 -1을 한다. 
+- ✍ calendar2.add(Calendar.DATE, 1); ⎼calendar2 인스턴스의 add 메소드에 설정된 날짜에 지정된 숫자만큼 가산하여 다음날로 바뀐다. 
+
+
 
 
 # class
@@ -443,6 +612,11 @@ export -> java -> JAR file
  * import 보다 먼저 선언되어야 한다.
  * java.으로 시작하면 안된다.(sun에서 독점); javax는 외부개발자들의 패키지를 같이 배포해주는 패키지 명이기에 사용 가능. 하지만 안쓰는게 좋다.
  * 보통 자기 이니셜을 1번에 놓는다. jg.begin.start
+- implement java.io.Serializable; 이렇게 쓰면 import 안하고 쓸 수 있지만 줄이 길어지는 단점
+- 충돌 방지
+- import 키워드를 사용하지 않는 경우에는 클래스의 실제 이름으로 지정한다. 
+- ☞예시 java.util.Scanner scanner = new java.util.Scanner(System.in);
+
 
 # 진수
  * 2진수: 0 b숫자
@@ -471,8 +645,178 @@ export -> java -> JAR file
 - “ “ 안에 데이터가 들어가지만 사실상 문자열 하나씩 나열되어서 들어간다.
 
 
-# 클래스
-클래스형 타입; 클래스도 자료형(타입)이 될 수 있다; string; 
+## String 클래스
+- 3가지의 동사로 이루어짐
+- Sequence Character; 문자가 순차적으로 들어온다.
+- Serializable, Comparable<String>, CharSequence 인퍼페이스
+- toString 메소드는 CharSequence 인터페이스에만 해당
+
+### String 메소드
+- ① length 메소드 length 메소드는 문자열의 길이를 반환한다.
+- ② equals 메소드 equals 메소드는 문자열이 일치하는지를 검사한다. 
+- ③ substring 메소드 substring 메소드는 부분열을 구한다.  // 경로에 관련된 내용; 중복되는 것을 놔두고 추가 되는 것을 추가해줌
+- ④ replace 메소드 replace 메소드는 문자열을 대치한다.  // 양끝 공백을 제거해서 가운데 공백을 없앨 수 없는  trim과 다르게 공백 문자열 없애는 중요 메소드
+- ⑤ toUpperCase 메소드 toUpperCase 메소드는 문자열을 대문자로 바꾼다. 
+- ⑥ toLowerCase 메소드 toLowerCase 메소드는 문자열을 소문자로 바꾼다. 
+- ⑦ charAt 메소드 charAt 메소드는 특정 문자를 반환한다. 
+- ⑧ trim 메소드 trim 메소드는 양끝의 공백문자를 제거한다.  // replace와 다르게 양끝의 공백만 가능; 가운데 공백을 지우지 못한다.
+- ⑨ concat 메소드 concat 메소드는 문자열을 연결한다. 
+- ⑩ endsWith 메소드 endsWith 메소드는 문자열에 지정된 접미사로 끝날지 어떨지를 판단한다. 
+- ⑪ indexOf 메소드 indexOf 메소드는 문자열 내에서 지정된 문자가 최초로 출현하는 위치의 인덱스를 반환한다. 
+- ⑫ isEmpty 메소드 isEmpty 메소드는 길이가 0인 경우에 한해 true 를 반환한다. // 참조 타입은 Null인 경우; 자주 사용됨.
+
+
+## String 생성자
+-  public String() {
+        this.value = "".value;  // 다른언어에서는 몰라도 자바에서는 “” 가 기본것
+    }
+
+
+
+## toString
+- toString 메소드는 CharSequence 인터페이스에만 해당
+- 주소값을 문자열로 변환시켜주는 기능 = 주소값을 실제값으로 변환. 대화체로 변경시켜줌
+  - <> Integer.toString(); 값 자체가 실제로 바뀜
+
+
+## Comparable
+- toString의 123은 오라클에서 문자로 인식, string의 123은 오라클에서 숫자로 인식
+
+## Serializable
+ * - 받는 데이터가 
+ * 
+ * package d.e.f;
+ * 
+ * public class A {
+ * 
+ *   public static void main(String[] args) {
+ * 
+ *     String s = "홍길동";
+ *     System.out.println(System.identityHashCode(s));
+ *   }
+ * }
+ * 
+ * package a.b.c;
+ * 
+ * public class A {
+ * 
+ *   public static void main(String[] args) {
+ * 
+ *     String s = "홍길동";
+ * 
+ *     System.out.println("다른 패키지" + System.identityHashCode(s));
+ * 
+ *   }
+ * }
+ * 
+ * 
+ * - 값만 같드면 서로 다른 패키지인데도 같은 주소를 가지고 있음.
+
+
+### toString 예제
+ * package jg.begin.start.jae_0308;
+ * 
+ * public class A {
+ * 
+ *   private String name;
+ *   private int age;
+ * 
+ *   public A(String name, int age) {
+ *     this.name = name;
+ *     this.age = age;
+ *   }
+ * 
+ *   // 주소값을 실제값으로 반환한다.
+ *   @Override
+ *   public String toString() {
+ *     return "ToStringPersonCommand [name=" + name + ", age=" + age + "]";
+ *   }
+ * 
+ * }
+ * 
+ * 
+ * package jg.begin.start.jae_0308;
+ * 
+ * public class B {
+ * 
+ *   public static void main(String[] args) {
+ *     // 인스턴스를 생성한다.
+ *     A command = new A("홍길동", 44);
+ *     // 실제값을 호출한다.
+ *     System.out.println(command); 
+ * -  //메소드로 인스턴스를 참조하는 참조 변수를 출력할 때에 인스턴스의 실제값을 문자열로 변경시키기 위해서 자동으로 호출된다. Command 호출할 때 아니면 출력 안됨
+ *   }
+ * }
+
+
+## StringBuffer
+- 대용량으로 데이터 받을 때; 동기화가 이루어진다. 일반적으로 사용된다.
+- println과 동일
+- 외부 데이터(xml) 에서 데이터를 받을 때는 StringBuffer로 받는 게 좋다.
+
+## StringBuilder
+- print와 동일; 빅데이터에서 데이터를 받을 때 문제가 생김
+- 데이터를 끊김없이 받을 때 사용된다.
+
+
+
+
+## String, StringBuffer, StringBuilder의 장단점 및 차이점
+- String과 (StringBuffer, StringBuilder)의 차이점은 String은 immutable(불변)하고 StringBuffer, StringBuilder는 mutable(가변)하다는 점이다.
+- 쉽게 말해서 String은 new 연산을 통해 생성되면 그 인스턴스의 메모리 공간은 절대 변하지 않는다.
+- 그래서 + 연산이나 concat을 이용해서 문자열에 변화를 줘도 메모리 공간이 변하는 것이 아니라 새로운 String객체를 new로 만들어서 새로운 메모리 공간을 만드는 것이다.
+- 이렇게 새로운 문자열이 만들어지면 기존의 문자열은 가비지 콜렉터에 의해 제거되야 하는 단점(언제 제거될지 모름)이 있다.
+- 또한 이러한 문자열 연산이 많아질 때 계속해서 객체를 만드는 오버헤드가 발생하므로 성능이 떨어질 수 밖에 없는 단점이 있다. (+연산에 내부적으로 char배열을 사용함)
+- 대신 String 클래스의 객체는 불변하기 때문에 단순하게 읽어가는 조회연산에서는 타 클래스보다 빠르게 읽을 수 있는 장점이 있다. (+불변하기 때문에 멀티쓰레드환경에서 동기화를 신경쓸 필요가 없음(장점))
+- JDK1.5이상부터 String에서 +연산으로 작성하더라도 StringBuilder로 컴파일하게 만들어 놨다지만 여전히 String클래스의 객체 생성하는 부분을 동일하므로 StringBuffer,StringBuilder 사용이 필요함.
+- + StringBuffer, StringBuilder의 경우 buffer size를 초기에 설정해야하는데 이런 생성, 확장 오버로드가 걸려 버퍼사이즈를 잘못 초기화할 경우 성능이 좋지 않을 수 있음.
+- + String클래스가 컴파일러분석단계에서 최적화될 가능성이 있기때문에 간혹 성능이 잘나오는 경우도 있음. 문자열 연산이 많지 않은 경우는 그냥 사용해도 무방.
+- 런타임에서 문자열조합이 많아질 경우 String은 여전히 성능이 아주 안좋기 때문에! +, concat을 사용하는 사고(?)를 치면 안된다. 특히 현업에서....
+
+
+
+## StringBuffer와 StringBuilder의 차이
+- 즉 문자열 연산에 있어서 클래스를 한번만 만들고(new), 연산이 필요할 때 크기를 변경시켜서 문자열을 변경한다.
+- 그러므로 문자열 연산이 자주 있을 때 사용하면 성능이 좋다!
+- 심지어 StringBuffer와 StringBuilder 클래스의 메서드들이 같으므로 호환(?)이 가능하다.
+- 차이점은 StringBuffer는 멀티쓰레드환경에서 synchronized키워드가 가능하므로 동기화가 가능하다. 즉, thread-safe하다.
+- StringBuilder는 동기화를 지원하지 않기 때문에 멀티쓰레드환경에서는 적합하지 않다.
+- 대신 StringBuilder가 동기화를 고려하지 않기 때문에 싱글쓰레드 환경에서 StringBuffer에 비해 연산처리가 빠르다.
+- 결론 => String 클래스는 문자열 연산이 적고 조회가 많을 때 멀티쓰레드 환경에서 사용하면 좋음.
+- 문자열 연산이 많을 때 멀티쓰레드환경에서는 StringBuffer, 싱글쓰레드또는 쓰레드를 신경쓰지 않아도 되는 환경에서는 StringBuilder를 사용하는 것이 적절하다.
+
+
+# Object 클래스
+
+
+## Math
+- 사사오입: 자바, python 2.7 이전
+- 오사오입: 과학이나 데이터에 사용; python 2.7 이후
+
+## Number 클래스
+
+### Wrapper 클래스
+- Object 클래스 밑에 Number 밑에 Byte, Double, Float, Integer, Long, Short
+
+## Class
+- Class: 외래어 만드는 것; 외래어 만드는 것: # 로드했다.
+
+
+## Process
+
+## String 
+- 객체지향의 꽃
+- 1. 문자 나열 2. 문자 비교 3. 외부로 문자가 적힌 형태 그대로 변동하지 않고 전송하는 기능
+
+### string 자료형
+- 자바에서는 문자와 문자열이 다르다. 문자(character)는 글자 하나를 의미하고, 문자열은 글자들의 집합을 의미한다. 그럼 문자열은 메모리를 얼마나 사용할까? 문자열은 문자의 집합이라고 했다. 문자는 char 형이고, char는 2byte의 메모리를 사용한다. 따라서 6글자를 담고 있는 String 타입의 변수는 12바이트의 공간을 차지하게 된다. 
+
+
+### String과 ==, equals
+String str1 = new String("java");   불변성 때문에 고유 주소값(참조 주소값)은 일치하지 않는다. 
+String str2 = new String("java");  
+String str3 = "java";  문자열은 컴파일하면 자동으로 고유 주소값과 주소값이 일치한다.
+String str4 = "java"; 
 
 
 # 예약어 = 키워드
@@ -567,6 +911,10 @@ export -> java -> JAR file
 - number = new int 힙  // number는 참조 변수
 - 3차원 배열 [면; 엑셀의 시트] [행] [열]
 - 동적 배열: 행은 무조건 있어야 함, 열은 생략 가능
+
+
+## 초기화
+- 초기화: 영역의 밖이라는 것을 강조하기 위해
 
 
 ## 배열 기호
@@ -847,6 +1195,43 @@ export -> java -> JAR file
   * System.in.skip(2); 를 하면 System.in.read()를 2번 넘어간 것과 같은현상
 
 
+### nextInt 단점
+- 우리에게 이러한 문제점이 생긴 이유는, nextInt 메소드가 라인을 소모하지 않기 때문이었습니다.  그렇다면 입력 이후에 추가로 라인을 소모해주면 되지 않을까요.
+
+### 권장, 변환하기
+ *  Scanner scanner = new Scanner(System.in);
+ * 
+ *       ArrayList<String> list = new ArrayList<>();
+ * 
+ *       int k = Integer.parseInt(scanner.nextLine());
+ * 
+ *       for(int i = 0; i < k; i++) {
+ * 
+ *         list.add(scanner.nextLine());
+ * 
+ *       }
+ * 
+ *  scanner.close();
+
+
+### 추가로 라인 변경
+ * Scanner scanner = new Scanner(System.in);
+ * 
+ *       ArrayList<String> list = new ArrayList<>();
+ * 
+ *       int k = scanner.nextInt();
+ * 
+ *       scanner.nextLine();  // 추가로 라인 변경해주는 것; 
+ * 
+ *       for(int i = 0; i < k; i++) {
+ * 
+ *         list.add(scanner.nextLine());
+ * 
+ *       }
+ * 
+ *       scanner.close();
+
+
 ## CharAt
 - c = input.next().charAt(0); // 0인덱스의 값 가져옴
 
@@ -1110,10 +1495,17 @@ Space Enter를 모두 경계로 인식하기에 입력받은 데이터를 가공
 # equals
  * string.equals("DF")
  * string.equalsIgnoreCase("GK") // 대소문자 구분 없이
+- String형은 Serialzable 인퍼페이스를 상속해서 주소값이 같다.
+- 무조건 참조 자료형이라고 해서 equals를 사용할 필요는 없다.
+- equals 메소드는 인스턴스의 값에 대한 동등 비교할 때 사용한다. equals 메소드는 두 개의 인스턴스를 비교해서 값이 같으면 true로 다르면 false를 리턴한다. 원시 자료형은 ==( ) 더블 이퀄 연산자로 동등 비교를 하지만 참조 자료형은 equals 메소드를 사용한다.
+
 
 ## equals 와 ==의 차이
  * equals () 는 메소드 입니다. 객체끼리 내용을 비교할 수 있도록 합니다. == 은 비교를 위한 연산자 입니다.
  * equals 메소드는 비교하고자 하는 대상의 내용 자체를 비교하지만, == 연산자는 비교하고자 하는 대상의 주소값을 비교합니다.
+- 주소값만 비교(@)
+- == 연산자의 경우 메모리에 저장되에 있는 값의 비교로 equals 메소드는 메모리에서 참조하고 있는 주소값의 비교로 보셔도 되겠네요...
+- 외부에서 받아오는 값은 equals 사용한다.
 
 
 # 가비지 컬렉터
@@ -1152,6 +1544,12 @@ Space Enter를 모두 경계로 인식하기에 입력받은 데이터를 가공
  *  su1 = Integer.parseInt(bufferedReader.readLine( )); ⎼Integer 클래스의 parseInt 메소드의 인자인 bufferedReader 인스턴스의 readLine 메소드로 자료를 문자열로 읽어오고 정수로 강제로 변환한다. 
  * su1 = Integer.parseInt(bufferedReader.readLine( )) // buffer에서 받은 문자열을 숫자로
  * su1 = Integer.parseInt(scanner.next()); // scanner에서 받은 문자열을 숫자로
+
+
+## toString과의 차이점
+- toString 메소드는 주소값을 문자열로 변환시켜주는 기능 = 주소값을 실제값으로 변환. 대화체로 변경시켜줌
+  - <> Integer.toString(); 값 자체가 실제로 바뀜
+
 
 # try-catch
  * 자원해제 방지
@@ -1392,6 +1790,9 @@ Space Enter를 모두 경계로 인식하기에 입력받은 데이터를 가공
 - 나. 비슷한 클래스 간의 관계 비슷한 속성과 동작을 가진 클래스들 간의 관계이다. 비슷한 속성 및 동작을 가지고 있는 클래스들은 공통점들이 중복되어 있으므로 공통점들을 추출해서 상위 개념의 클래스를 만들 수 있다. 하위 클래스들에게 상위 개념의 클래스를 상속받아서 사용한다면 중복이 제거되고 재사용성도 향상 될 수 있다.
 - 집합 관계는 컬렉션과 보관할 개체의 생성과 소멸은 독립적입니다. 참고로 구성 관계는 사람과 눈처럼 소유 개체를 생성할 때 피 소유 개체가 만들어지고 소유 개체가 소멸할 때 피 소유 개체도 같이 해제하는 특징을 갖습니다. 다음은 집합 관계에 있는 Pencil과 PencilCase를 구현한 예제 코드입니다.
 
+
+## 집합관계
+- 상속하면 자식입장에서는 집합관계, 부모입장에서는 다른 클래스와 구성관계
 
 
 # 중첩 클래스
@@ -1857,6 +2258,32 @@ B클래스
  *     System.out.println("아파트 가격을 확인합니다.");
  *   }  // 기본 생성자가 항상 있어야 한다.
  * 
+
+## hashCode
+- 일반적으로 해시 코드는 해시 함수를 적용하여 나온 고정된 길이의 값이다. 해시 함수는 임의의 길이를 갖는 임의의 자료에 대해 고정된 길이의 자료로 매핑한다. 객체 지향 프로그래밍에서의 해시는 해시 테이블을 이용하여 자료를 저장한다. 자료를 저장할 때에는 특별한 알고리즘을 이용하여 자료의 고유한 숫자값을 만들어 인덱스로 사용한다. 
+- 알고리즘을 구현한 메소드를 해시 메소드라고 하며 해시 메소드에 의해 반환된 자료에 대한 고유의 숫자값을 해시 코드라고 한다. 자바에서는 hashCode 메소드를 모든 객체의 해시 코드를 쉽게 구할 수 있다. 해시 코드를 통하여 인스턴스에 대한 고유한 주소값을 설정하는데 인스턴스의 메모리 주소를 숫자로 바꾼 고유한 주소라고 할 수 있다.
+- hashCode 메소드는 인스턴스를 구별하기 위해 고유한 정수값으로 출력시켜 주는 메소드이다. 인스턴스 참조 변수를 출력할 때 출력되는 참조 주소는 인스턴스의 내부 주소를 정수값으로 변환하는 형태로 구현되는데 형식은 16진수이다. 주소값은 메모리에서 해당 인스턴스들을 구분할 수 있는 유일한 값이므로 인스턴스의 고유한 주소를 가진다. 인스턴스가 고유한 주소를 가진다는 것은 인스턴스가 고유한 ID를 가진다는 의미로 풀이할 수 있다. .
+
+### 주소
+ * package jg.begin.start.jae_0308;
+ * 
+ * public class A {
+ * 
+ *   String name = "홍길동";
+ * 
+ *   public static void main(String[] args) {
+ * 
+ *     Object object = new Object();
+ *     System.out.println(object.hashCode());
+ *     System.out.println(System.identityHashCode(object));
+ *   }
+ * 
+ * }
+
+- Object 해시 코드와 System의 Hash코드가 같은 값이면 관리하기 쉽다.
+- 얕은복사: 주소값(object의 해시코드) 만 복사
+- 깊은 복사: object의 해시코드와 System의 해시코드 모두 복사
+
 
 -------------------
 # 스트림

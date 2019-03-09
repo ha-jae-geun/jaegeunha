@@ -1,10 +1,338 @@
+# 쓸만한 영어 - 영어식 사고 훈련 " 따갑다" #영어식사고#영어회화#영어공부
+ * 1. 가시같은 것에 찔린 느낌
+ * 
+ * - prick  [prɪk] 
+ *   (날카롭고 뾰족한 것으로) 찌르다
+ *   예 : 선인장/장미 가시
+ * 
+ * - poke  [poʊk] 
+ *   (조금 더 뭉툭한 것으로) 찌르다
+ *   예 : 포크/막대기
+ * 
+ * - 날카롭게 뾰족한 것으로 찌른 만큼 피가 났다고 생각할 수도 있음
+ * 
+ * - scratchy
+ *   스웨터가 따갑고 간지러워.
+ *   (천이 따갑고 간지러운 그림)
+ * 
+ * ==========
+ * 
+ * <쓸만한 영어 2017년 4월 18일 - 피곤할 때 쓸만한 영어>
+ * 
+ * - gritty  [ˈɡrɪti
+ *   먼지가 들어간 것
+ *   (작은 모래 먼지가 들어간 것처럼) 거친/꺼끌꺼끌한 느낌
+ * 
+ * - scratchy [ˈskrætʃi]
+ *   간지러워서 불편한 느낌
+ * 
+ * - My eyes are scratchy.
+ *   눈이 가려워요.
+ *   scrathcy는 여러 다른 뜻이 있지만 여기에서는 itchy(가려운)과 같습니다.
+ *   (이렇게 말하면 알러지가 있다고도 생각할 수 있습니다)
+ * 
+ * ==========
+ * 
+ * - It feels scrathcy. / It feels prickly.
+ *   스웨터가 따갑고 간지러워.
+ * 
+ * 
+ * 2. 불편한 눈치에 대한 비유
+ * 
+ * - stare
+ *   '보다'에 해당하는 영어도 
+ *   보는 모습/상황에 따라 다 다른 동사를 씁니다.
+ * 
+ * - give sb. a dirty look
+ * 
+ * - I feel his stare.
+ *   내가 그 사람이 쏘아보는 걸 느꼈어.
+ * 
+ * - I feel like he is staring at me.
+ *   내가 그 사람이 쏘아보는 걸 느꼈어.
+ * 
+ * - I feel somebody's stare.
+ *   누군가 날 째려보는 걸 느꼈어.
+ *   stare (동사/명사) 뚫어지게 쳐다보는 모습
+ * 
+ * - I feel somebody's (dirty) look??? (X)
+ *   누군가 날 (째려)보는 걸 느꼈어.
+ *   look (동사) 쳐다보다 / (명사) 겉에 옷입은 스타일
+ * 
+ * - I feel his eyes on me.
+ *   직역 : 나는 그의 눈이 나에게 붙어있는 것을 느꼈어??
+ *   의미 : 그 사람이 날 계속 (뚫어져라)보고 있는 걸 느꼈어.
+ * 
+ * - His hands on me..
+ *   여러분이 그림을 그려보세요~^^
+ * 
+ * - 죽일듯이 쏘아보다
+ *   He is shooting daggers at me.(with his eye(s))
+ *   걔가 날 매섭게 째려(쏘아)봐.
+ * 
+ * - I feel he's shooting daggers at me from behind.
+ *   (걔가)뒤에서 막 째려보는게 느껴져. < 뒤통수가 따가웠어.
+ * 
+ * - Your scream is bursting my eardrum.
+ *   직역 : 너의 비명이 내 고막을 터뜨리고 있어??
+ *   의미 : 니가 너무 소리를 크게 질러서 귀가 찢어질 것 같이 따가워!
+ * 
+ * - It bursts my eardrum.
+ *   (그 큰소리 때문에) 
+ *   고막이 터지는 줄 알았어. < 귀가 찢어지는 줄 알았어.
+ * 
+ * - Somebody is on the hot seat.
+ *   주의 불편한 모든 자리에서 사용하는 것이 아님
+ *   주의 내가 대답하기 불편한 질문을 자꾸 받는 자리 
+ *               청문회 그림을 그려보세요.
+ * 
+ * - I felt I was (sitting) on the hot seat.
+ *   (대답하기 난감한 것을 계속 물어봐서) 자리가 너무 불편했어.
+ * 
+ * - I felt I was on theh hot seat.
+ *   상대는 화자가 불편할 질문을 많이 받는 자리에 있었다는 것을 느낌
+ * 
+ * - 이러지도 저러지도 못하는 불편한 상황
+ *   빼도 박도 못하는 상황
+ *   진퇴양난..
+ *   a rock
+ *   a hard place
+ * 
+ * - I am between a rock and a hard place.
+ *   이러지도 저러지도 못하는 힘든(불편한) 상황이야.
+ * 
+ * - I feel like I'm between a rock and a hard place.
+ *   이러지도 저러지도 못하는 힘든 상황이야.
+ * 
+ * - 어울리기 힘든 낯선 자리에서 어색하고 불편할 때
+ * 
+ *   더 많은 정보는 인싸? 아싸? 영어 표현 영상 참고해주세요.
+ *   ↪ 인싸??아싸?? : https://youtu.be/Pi1y_V5PbFw
+ *  
+ *   I felt like I was a fish out of water.
+ *   완전 나만 모르는 분위기라 정말 어색하고 불편했어.
+ * 
+ *   I feel like a fish out of water.
+ *   (어울리기 힘들어서) 정말 어색하고 불편해.
+ * 
+ * - 한국어에 대한 이해가 영어식 사고의 기본이라는 것을 꼭 기억하세요~^^
+
+
+# 쓸만한 영어 - 사진 좀 찍어주실래요? 몇장만 더 찍어주세요! 사진 찍을때 쓸만한 영어표현 #영어회화#영어공부#영어유튜브
+ * ▷ 사진 좀 찍어주실래요?
+ * 
+ * - Would you mind taking a picture of us?
+ *   사진 좀 찍어주실래요?
+ *   mind + -ing
+ *     누군가 Do you mind~라고 나한테 물을 때에는 대답을 주의하세요.
+ * 
+ * ==========
+ * 
+ * <쓸만한 영어 2016년 6월 9일 방송 - 많이 헷갈리는 YES/NO question에 대한 대답>
+ * 
+ * L : Liz / Sophie : S
+ * 
+ * L : Excuse me, would you mind taking a picture of me?
+ *   
+ * S : Yes, of course! (X)
+ * 
+ * L : But you said you "mind" taking a picture.
+ * 
+ * Would/Do you mind + 동사ing? 에 대한 답으로 Yes는 싫다는 뜻
+ *   Would/Do you mind + 동사?는 "No"로 답을 해야 "꺼려하지 않는다"는 뜻이 됨
+ * 
+ * L : Excuse me, would you mind taking a picture of me?
+ * 
+ * S : Of course not! (O)
+ * 
+ * ==========
+ * 
+ * - Would you mind taking our picture?
+ *   우리 사진 좀 찍어주실래요?
+ * 
+ * 
+ * ▷ (딱 한장이 아니라) 여러장 찍어주세요.
+ * 
+ * + a few또는 + a couple of
+ * 
+ * - a few pictures of us / a couple of pictures of us
+ *   우리 사진 몇장(여러개지만 많지 않은)
+ * 
+ * - Would you mind taking a few pictures of us?
+ *   우리 사진 좀 몇장 찍어주실래요?
+ * 
+ * 
+ * ▷ (여럿이 같이 사진을 찍을 때) 좀 더 붙어!
+ * 
+ * - Squeeze in!
+ *   가까이 붙어!
+ *   (내용물이 다 나오도록)꽉 쥐어짜는 그림
+ * 
+ * 
+ * ▷ (단체 사진을 찍을 때) 앞뒤로 두 줄로 서.
+ * 
+ * - Get in(to) two lines.
+ *   두줄로 서.
+ * 
+ * - 그.런.데.
+ *   One line in (the) front, one line in (the) back.
+ *   한줄은 앞, 한줄은 뒤.
+ *   이런 상황에서 너무 문법에 딱딱 맞춘 긴 문장을 말하면 
+ *     오히려 국어책을 읽는 느낌을 줄 수도 있어요.
+ *   이 때 정관사 the는 optional
+ * 
+ * 
+ * ▷ (단체 사진을 찍을 때)키가 큰 사람은 뒤에 서.
+ * 
+ * - (The) taller people should stand in (the) back.
+ *   키가 (더) 큰 사람들은 뒤에 서. (그게 더 나아)
+ *   이 때 정관사 the도 optional
+ *   should는 suggestion이 담겨 있음/ ~해야한다는 의무가 아님
+ * 
+ * - Can (the) taller people stand in (the) back?
+ *   키가 (더) 큰 사람들은 뒤에 서줄래요?
+ *   이 때 정관사 the도 optional
+ * 
+ * 
+ * ▷ (단체 사진을 찍을 때)맨 앞줄은 앉으세요.
+ * 
+ * - 앉으세요 = 무조건 sit down???
+ *   sit down : 엉덩이를 붙이고 앉는 그림
+ * 
+ * - 영어식 사고의 기본은 
+ *   어떤 상황/ 그 행동/ 해당 모습/ 사건의 시간 흐름까지 구체적으로 말한다는 것을 꼭 기억해야해요.
+ * 
+ * - kneel down
+ *   무릎을 구부리고 앉는 그림
+ *   (바닥에 엉덩이는 대지 않음)
+ * 
+ * - get down / lower
+ *   몸을 숙여서 키를 낮추는/ 내리는 그림
+ * 
+ * - squat
+ *   (엉거주춤) 쭈구리고 앉는 그림
+ * 
+ * - People in (the) front should get down.
+ *   앞에 있는 사람들은 앉아주세요.(앉는게 나아)
+ * 
+ * - Can people in (the) front get down?
+ *   앞에 있는 사람들은 앉아줄래요?
+ * 
+ * - Can people in (the) front kneel down?
+ *   앞에 있는 사람들은 무릎을 구부려 앉아줄래요?
+ * 
+ * 
+ * ▷ 눈 감았어. 다시 찍어야돼!
+ * 
+ * - blink
+ *   눈을 깜빡거리는 그림
+ *   한국어로 '눈을 감다'라고 했지만 구체적 상황은 '눈을 깜빡'인 그림
+ * 
+ * - You blinked.
+ *   너 눈 깜빡였어. (눈 감았어)
+ *   한국어로 '눈을 감다'라고 했지만 구체적 상황은 '눈을 깜빡'인 그림
+ * 
+ * - We  need to take a picture of us again??
+ *   이렇게 문장을 다 말할 수도 있지만 
+ *    이미 정황이 깔려있기 때문에 it으로 받는게 좋음.
+ * 
+ * - We need to take it again!
+ *   다시 찍어야돼!
+ * 
+ * - I blinked. We need to take it again!
+ *   난 눈 깜빡였어. 다시 찍어야돼!
+ * 
+ * 
+ * ▷ 활짝 웃어! / 환하게 웃어! 
+ *      치~즈! / 김~치!
+ * 
+ * - Smile brightly??
+ *   활짝 웃어!
+ *   환하게 웃어!
+ * 
+ * - Show your teeth??
+ *   (이가 보이게) 활짝 웃어!
+ *   환하게 웃어!
+ * 
+ * - Give me a big smile!
+ *   (이가 보이게) 활짝 웃어!
+ *   환하게 웃어!
+ * 
+ * - Say cheese! / Say Kimchi !
+ *   치~즈! / 김~치~ (라고 해)
+ * 
+ * 
+ * ▷ 눈이 빨갛게 나왔어.
+ * 
+ * - You have red eye(s).
+ *   눈이 빨갛게 나왔어.
+ *   red eye는 사진에서 눈이 빨갛게 나온 상태를 나타내는 명사로 단수를 표시하기 위해서 "a"를 붙이지 않음
+ * 
+ * 
+ * ▷ 역광이야.. 얼굴에 그림자 생겨.(어둡게 나와) 
+ *      그림자 없는 빛 좋은 곳으로 가자.
+ * 
+ * - light - lit - lit
+ *   (동사로 쓰일 때)
+ *  
+ * - 역광 < 뒤에 빛이 빛나고 있는 모습 < 빛을 등진 모습
+ * 
+ * - backlit
+ *   직역 : 너의 뒤에 빛이 빛나..
+ *   의미 : 너가 빛을 등지고 섰어.(역광이야)
+ *   backlight(동사/명사) / backlit (형용사)
+ * 
+ * - 이런 단어를 몰라도 이미 내가 가지고 있는 단어를 활용해서 쉬운 문장으로 뜻을 전달할 수 있는 것이 정말 잘하는 거예요.
+ * 
+ * - You are in shadow.
+ *   너한테 그림자가 있어.
+ * 
+ * - shade : (자리가 있는) 그늘의 그림
+ *   shadow : (물체에 의해) 그림자가 생긴 그림
+ * 
+ * - face
+ *   '얼굴'하면 떠오르는 단어
+ * 
+ * - face
+ *   (어느 방향으로)얼굴을 향하고 있는 그림
+ *   따라서 (어떤 상황)을 정면으로 마주하는 그림도 가능
+ * 
+ * - It's better to turn to face the light.
+ *   직역 : 빛을 향해 서도록 돌리는게 나아??
+ *   의미 : 빛 쪽으로 서는게 나아
+ * 
+ * - Let's turn to face the light.
+ *   빛이 비추는 쪽으로 봐.
+ * 
+ * - 가자! 니깐 무조건 Let's go??
+ *   그림자가 없는 쪽으로 가자!
+ *   빛이 있는데로 가자!
+ * 
+ * - Let's find a spot where we don't have shadow.
+ *   그림자가 없는 쪽으로 가자!
+ *   빛이 있는데로 가자!
+ * 
+ * [카메라 속 뒷 이야기]
+ * 
+ * - 미국인들은 입을 가리고 잘 웃지 않아요.
+ *   개인 성격마다 차이는 있겠지만 입을 가리고 웃는 문화가 아니에요.
+ * 
+ *   closed mouth smile라고 말은 할 수 있지만
+ *   문장으로 말하기가 부자연스러워요.
+ *   그래서, "이가 보이지 않게 웃으세요~"를 영어로 하면?
+ *   Don't show me your teeth.
+ * 
+ * - Smile! But don't show me your teeth..
+ *   웃어! 그런데 이는 보이지 않게.
+ * 
+
 # 쓸만한 영어 - 그 맛집 가봤니? 그 식당 신장개업 행사중이야
-* 나 멕시칸 식당 잘하는데 아는데
-	* I know a good Mexcican place that just opened. (a week ago); place 표현
-* 이제 막 신장개업했어; They had a Grand Opening a week ago.
-* 그거 완전 새거야; That is a brand new.
-* 너 그거 먹어봤어? ? Have you ever tried the guacamole at King Taco?; 
-	* did you go to 라고 안함
+ * 나 멕시칸 식당 잘하는데 아는데
+ * I know a good Mexcican place that just opened. (a week ago); place 표현
+ * 이제 막 신장개업했어; They had a Grand Opening a week ago.
+ * 그거 완전 새거야; That is a brand new.
+ * 너 그거 먹어봤어? ? Have you ever tried the guacamole at King Taco?; 
+* did you go to 라고 안함
 * 가봤어? Have you ever been to-?
 * 신장 개업해서 행사중이야
 	* They're having a promotion for their Grand Opening.﻿

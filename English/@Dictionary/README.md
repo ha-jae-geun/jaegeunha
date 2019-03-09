@@ -250,6 +250,7 @@
 * 갖다; cop=get; I just copped new padded coat / pair of shades!﻿
 
 # 같다
+* # 닮다; remind someone of somoene; he reminds me of Harry potter
 * ☆~ and ~ are #about the same in quality
  * “너는 성을 사람들이 너를 부르는 것과 동일시 한다.” “You identify gender with that people call you.”; identify sth with sth = –와 –를 동일시 하다, 관련이 있다고 보다
  * ☆~ #equally adj
@@ -4735,6 +4736,7 @@ retaliate
   * ##씹선비 #선비
 
 # 선택
+* 마음대로 고르게 하면 안되죠; YOu can't just let her cherry-pick; 체리나무에서 체리를 고르는 사람들은 최고의 상태인 체릳르만 고르려고 노력한다.
 * 둘 다 선택한다는 의미로 비슷하지만 opt는 여러 옵션 중에 하나를 선택하는 반면, choose는 여러 개를 선택할 수 있습니다. 또한 opt가 choose보다 사회, 공무적인 의미에서 더 많이 활용됩니다.; 다양한 선택지가 있는 상황에서 무언가 하나를 고를 때 쓰는 표현입니다. 주로 무언가에 찬성하여 택할 때는 전치사 for, 또는 to+동사원형을 쓰는데요. 영상에서 on 을 쓴 이유는 side 라는 단어 때문입니다. 어떤 편, 어떤 쪽을 의미할 때는 on the side 라고 쓴답니다.
   * select는 보통 '선택하다, 선출하다'처럼 동사로 많이들 사용하죠? 이 단어가 형용사로 사용하면 '엄선된, 고급의, (동호회 등이) 들어가기 까다로운'의 의미로 사용된답니다~ 여기서는 '신중한, 취향이 고급인'의 의미로 이 물티슈를 선택한 사람들을 꾸며 주었어요.
     * 이 클럽은 누구나 들어올 수 있어요. 일부만을 위한 것이 아니랍니다. This club is for everybody, not just for a select few.
@@ -5022,6 +5024,7 @@ retaliate
   * 1) 여러 영어 시험에 등장하며 [~에 속하다] 를 의미하는 belong to 에 조금 더 익숙하실 수도 있는데요. belong to 는 '소유권' 을 말하는 반면, 2) belong with 는 어떤 두 가지가 함께 해야만 한다고 믿을 때 쓰는 표현입니다. 영상에서는 인간과 몬스터는 함께 해선 안된다고 믿기에 이 표현을 썼고요. 3) 로맨틱한 관계에서 '넌 내 거야' 라고 말하고 싶을 땐, 소유를 의미하는 you belong to me 라고 말하는 것보단, you belong with me 가 [우린 정말 잘 어울려, 우린 함께 해야 할 운명이야] 이 의미를 가지며 더 자연스럽습니다. 대신 주어를 I 로 하여 I belong to you, [난 네 거야] 라고 할 땐 자기를 낮춰서 말하는 것이기에 괜찮습니다.
     * = 난 너처럼 정말 괜찮은 사람하곤 어울리지 않아. I don't belong with such a nice person like you.
 * ## 진입 ingress 미국·영국 ; ingress port
+  * 여기서 진입하거에요; we're gonna make point of entry here; point of entry: 진입점
   * (일정한 장소에) #entry (into); (침투) penetration, #enter; (침투하다) #penetrate (into)
   * 누가 #초인종 눌렀을 때 확인하러 갈 때 #get the door
   * 들어오라고 해 #buzz him in(<> drop by: 잠깐 들어가는 느낌) = let him in
@@ -7555,6 +7558,8 @@ retaliate
  * ## 억제 ## 규제 ## 제한 #restriction# #constraint# #restraint# #moral#
 
 # 조건
+* deal 은 '거래'라는 뜻도 있지만, 상점에서 무언가를 팔 때, 특히 광고를 할 때, 특정 상품에 대해서 a good deal이라고 하면 무언가를 좋은 가격에 판매한다는 뜻입니다. 영상에서는 [조건]이라고 해석이 되었는데요. 가격을 깎아줄 수 없을 땐 구성품을 몇 개 더 챙겨 준다든지 할 때 쓰는 단어이기에 [조건]이라고 해석이 되었습니다.
+  * = 이거 살 때 현금 계산하면 얼마나 좋은 조건으로 파실 수 있나요? What's the best deal you can give me on this if I pay in cash?
 * deal breaker = (계약 조건 중) 절대 용납할 수 없는 조건; 연애에 대해 말할 때도 많이 쓰는 말인데요, 연애 deal breaker는 "다른 조건이 아무리 좋아도 참을 수 없는 성향이나 조건"을 뜻해요. "깨는 조건"이라고도 할 수 있겠네요.
   * 넌 연애할 때(또는 연애 상대를 볼 때) 제일 깨는 조건이 뭐야? What's your relationship deal breaker?
 * string 은 원래 [줄] 이라는 뜻이 있는데요. 영상에서처럼 무언가를 계약하거나 제안할 때 줄이 주렁주렁 달린 것처럼 조건이 붙어있을 때 쓰기도 해요. [조건, 단서 조항]등을 의미하고요. 영상에서처럼 have strings attached 를 써도 되고, with strings attached 를 쓸 수도 있습니다.

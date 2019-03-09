@@ -563,6 +563,7 @@
 * 삶을 완전히 뒤바꿔놓다 = turn one's life/world upside down
 * 사실, 걔 L.A.에서 완전 호화롭게 잘 살고 있어. Actually, he's been living it up in L.A. live it up: 사치스럽게 즐기다
 	* 인생을 즐겨; Live a little
+	* 오늘 하루도 빡세게 한 번 살아보자!;  UP AND AT'EM!﻿
 * 그럴 리가 없다; That'll be the day
 * 덤	벼봐, 할 테면 해봐; Make my day = give me a cchance to back at you
 * 참고로 집에 생활비를 가져다주는 가장은 breadwinner라고 합니다. 

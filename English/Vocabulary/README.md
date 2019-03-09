@@ -195,6 +195,10 @@
 ## those
 * -하는 사람들 those (who)
 
+## thousand
+* I’m batting a thousand: 나 계속 성공하고 있어; bat a thousand 는 ‘승승장구하다, 계속 잘 풀리다’를 의미해요. 야구에서 유래한 표현으로 타구(batting)를 하는데 백이면 백, 천이면 천 계속 성공적으로 공을 친다는 겁니다.
+  * = 나 기말시험 계속 잘 보고 있어. 현재 A가 3개야. I’m batting a thousand on the finals. I’ve got 3 As so far.
+
 ## though
 * 놀라움; it's good though; 문장 끝에 붙이기; 발음할 때 위로 올려서
 
@@ -295,6 +299,9 @@
 * : amend라고 쓰면 보통 개선, 교정, 법을 개정, 수정한다는 동사로 사용합니다. amends라고 사용하면 (단수, 복수 동사와 함께 모두 사용 가능한) 명사로 손실, 손상에 대한 '보상'이라는 의미를 갖습니다. make amends는 '보상하다'는 뜻으로 물질적, 정신적 보상 모두 가능하기에, 만회하다, 사과하다는 의미로도 해석할 수 있어요. - make amends for (doing) something: ~을/ ~에 대한 보상하다 - make amends to somebody: ~에게 보상하다
   * 네가 상처를 준 사람들에게 사과를 해야 한다. [ex] You must make amends to the people you've hurt.
 
+## along
+** 가는 길에 맥주 한캔 사갈게; i'll grab some beer along the way
+
 ## alter
 * alternative: 대안, 대안의; alternation: 교대, 교체
 
@@ -394,6 +401,7 @@
   * 지난 밤 파티에 얼굴 잠깐 비췄어.[ex] I made an appearance at the party last night.
 
 ## apple
+* 앞광대에요; the apples of her cheeks
 * : 이건 어때? 쌤통이다! / 어떻게 생각해? How do you like them apples?
   * 1) 이 표현의 정확한 기원은 나와 있지 않지만, 세계1차 대전 당시에 적군들에게 날리던 폭탄을 apple 이라고 했다는 점에서, 상대방에게 폭탄을 날리듯이 "이건 어때? 쌤통이지!" 라는 의미로 쓰였다는 설이 가장 유력합니다. 2) 이 대사는 맷 데이먼의 대표작 '굿 윌 헌팅' 에서 같은 여자를 좋아하는 라이벌에게 맷 데이먼이 자신이 따낸 여자의 전화 번호를 보여주면서 (네가 그렇게 잘났는데) "그럼 이건 어때?" 라고 외치는 장면에서 쓰인 대사입니다. 보통 상대방에게 약 올리듯이 말하며, 받아들이기 싫은 사실을 받아들이라는 속뜻을 가지고 있어요.
 * Bad apple: 타인에게 폐를 끼치는 사람; to compare apples to oranges: 비교할 수 없는 것; the big apple: 뉴욕; apple of someone's eye; top banana: 중요한 인물
@@ -561,6 +569,9 @@
 * at an angle = 비스듬히; angle 이 [각도] 라는 뜻이니, 각도가 없는 정면이나 수직이 되는 것이 아닌, [비스듬히] 를 의미하게 됩니다. 형용사를 써서 [at a slight/steep angle = 약간/매우 비스듬한] 을 의미할 수도 있어요.
   * = 이것 좀 이렇게 비스듬히 들어줄래? Can you hold it at an angle like this?
 
+## beyond
+* 망가진 전화기가 수리할 수 없는 정도라서 우리는 새것 하나를 사야 한다. The broken telephone is beyond repair, so we should buy a new one. 
+
 ## beside
 * : 너무 ~해서 어쩔 줄 모르다, 제정신이 아니다 beside oneself with + 감정
   * 너무 기뻐서 어쩔 줄을 모르더라고. She was beside herself with joy.
@@ -618,7 +629,7 @@
   * (우리 지금 네 첫 (가짜)여친 얘기 중이야.) We are talking about your first beard. 
 
 ## bean
-* 어린이들은 할머니를 지치게 한다. 그들은 언제나 원기가 왕성하니까. The children tire their granny out. They're always so full of beans. 
+* 어린이들은 할머니를 지치게 한다. 그들은 언제나 원기가 왕성하니까. The children tire their granny out. They're always so full of beans.; 19세기 중반에 경주하기 전에 말에게 콩을 먹이면 에너지가 넘쳤다는 것에서 유래
 
 ## beam
 * 무대 위로 한 줄기 빛이 비쳤다 A beam of light shone down onto the stage . 듣기 출처:능률교육
@@ -914,6 +925,10 @@
   * 비격식 표현으로 상대방을 짜증나게 하거나 화나게 하려는 의도로 그 사람의 민감한 부분을 건드리는 말 또는 행동을 하는 것을 의미해요. 콕 하고 누르면 확 터지는 그런 부분 말이죠. 영상에서는 특정 인물의 민감한 부분이 아니기 때문에 복수로 buttons 가 쓰였습니다.
     * 몇몇 정치인들은 표를 더 얻기 위해 의도적으로 민감한 부분을 건드린다. ex) Some politicians deliberately press buttons to get more votes.
 
+## bat
+* I’m batting a thousand: 나 계속 성공하고 있어; bat a thousand 는 ‘승승장구하다, 계속 잘 풀리다’를 의미해요. 야구에서 유래한 표현으로 타구(batting)를 하는데 백이면 백, 천이면 천 계속 성공적으로 공을 친다는 겁니다.
+  * = 나 기말시험 계속 잘 보고 있어. 현재 A가 3개야. I’m batting a thousand on the finals. I’ve got 3 As so far.
+
 ## baby
 * food baby; 배부름. 음식으로 배가 너무 불러서 애기를 가진거 같을때 쓰는말.(slang, humorous)
 
@@ -1074,6 +1089,7 @@
   * '상처받다, 속다'라는 뜻으로 '데인다'고 표현하죠? 영어도 똑같아요! be burned의 1차적인 뜻은 '데이다'인데, 더 나아가 '상처받다, 속다, 배신당하다'라는 뜻으로 쓰인답니다. I've been burned too many times
 
 ## burden
+* 부담되지 않아요; It's no burden
 * 잭. 너의 짐을 함께 들어줄게. 혼자서 모든 걸 다 하려고 하지 마. ex) Hey, Jack. I can share your burden. Don't try to do everything by yourself.
   * 힘든 일이지만 조금만 참아. 곧 지나갈거야. ex) Bear the burden for a while. It will pass soon.
 
@@ -1628,6 +1644,9 @@
 ## construct
 * A wall is being constructed out of bricks
 
+## consequence
+* consequence 미국식 [ˈkɑːnsəkwens]; face the consequence
+
 ## consent
 * 수술 동의서; informed consent
 
@@ -1767,6 +1786,7 @@
 * 치어리딩 연습이 있고; got cheer in just a few minutes
 
 ## cheek
+* 앞광대에요; the apples of her cheeks
 * 까불지 마; DOn't be cheeky
 * 너무 뻔뻔해; he has cool cheek
 * 여기서 cheek은 ‘뻔뻔함, 무례’를 의미합니다. 주로 영국에서 자주 쓰이는 표현으로 상대의 언행이 뻔뻔할 때 하는 말입니다. 뻔뻔함의 의미로 cheek이 들어간 표현을 예문에서 더 살펴보겠습니다.
@@ -2265,6 +2285,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 *  입 닥쳐. Dry up.
 
 
+## debt
+* -에게 빚을 지다; be in one's debt
+
 ## decide
 * I was deciding = 고민중이었어요; 결정을 내리는 건 한 순간의 액션이니까 보통 진행형으로 쓰지 않겠죠. 여기서 deciding 은 결정하고 있다는 것이 아니라, 어떤 결정을 내릴지 ‘고민/생각하고 있다’를 말해요. 
 
@@ -2308,6 +2331,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 네 폰의 통화 내역이 바로 네가 잭이랑 데이트한다는 결정적 증거지. The call history on your phone is a dead giveaway that you are dating Jack.
 
 ## deal
+* deal 은 '거래'라는 뜻도 있지만, 상점에서 무언가를 팔 때, 특히 광고를 할 때, 특정 상품에 대해서 a good deal이라고 하면 무언가를 좋은 가격에 판매한다는 뜻입니다. 영상에서는 [조건]이라고 해석이 되었는데요. 가격을 깎아줄 수 없을 땐 구성품을 몇 개 더 챙겨 준다든지 할 때 쓰는 단어이기에 [조건]이라고 해석이 되었습니다.
+  * = 이거 살 때 현금 계산하면 얼마나 좋은 조건으로 파실 수 있나요? What's the best deal you can give me on this if I pay in cash?
 * 사회에서는ㄱ ㅓㄹ림돌입니다; This is a deal breaker in a community
 * 이거 진짜야; this is the real deal guys
 * 내 말 잘들어; Here is the deal
@@ -2428,6 +2453,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 언제 출산예정일이야; When are you due?
   * 집세 언제까지야; When is the rent due
 
+
+## diva
+* diva = 여왕인듯 까다롭게 구는 사람; 드라마에 보면 탑여배우를 까다롭고 공주병처럼 묘사하곤 하죠? 그런 이미지와 비슷하다고 보면 됩니다. 
+  * = 폴라는 엄청 까다롭기로 유명해. Paula has a reputation for being a diva.
+
 ## diverse
 * diverse cultures; diverse interest; diverse backgrounds
 
@@ -2526,6 +2556,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * develop 은 기본적으론 [개발하다] 라는 뜻이지만, 없던걸 만들어내는 뉘앙스이기 때문에 뒤에 병명이나 어떤 문제가 목적어로 오게 되면 1) 없던 병에 걸리거나 2) 문제가 생길 때도 쓰이는 단어입니다.
 	* 아이들에게 발진이 생기면 병원에 데리고 가세요. ex) Take your kids to hospital if they develop a rash.
 
+## dog
+* 그는 상사의 미움을 사고 있다 He is in the doghouse with the boss. 듣기 출처:능률교육
+
 ## doctor
 * doctor를 동사로 사용하면 '치료하다'는 뜻외에도 '조작하다, 변조하다'라는 뜻도 있답니다.
   * 회계사는 수치를 조작했다.  The accountant doctored the numbers.
@@ -2622,6 +2655,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ### drop top
 * 차 지붕을 헝겊이나 비닐 같은 재료로 만들어 승용차 지붕을 접었다 폈다 할 수 있는 승용차 [본문으로]
+
+## equal
+* 저만큼 노력하셨고; YOu are my equals
 
 ## errand
 * errand to run / run an errand; i've got an errand to run
@@ -2891,6 +2927,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * have one's fair share of OO는 OO를 충분히 겪었다, 충분히 가졌다는 뜻입니다. 보통은 좀 부정적인 의미로 사용하죠.
   * 난 이미 올해 겪을 어려움 다 겪었으니 날 좀 내버려둬. [ex] I've already had my fair share of troubles this year. So leave me alone.
 
+## ferocious
+* ferocious 미국식 [-ˈroʊ-]  영국식 [fəˈrəʊʃəs
+  * 그는 사나운 짐승이나 다름없다. He is no better than a ferocious beast. 듣기 출처:YBM
+
 ## fever
 * 그의 장래에 대한 추측이 극에 달해 있었다[그의 장래를 두고 온갖 추측이 난무하고 있었다]. Speculation about his future had reached fever pitch. 
 
@@ -2922,6 +2962,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 모든 의견이 중요하며, 저희의 계획에 반영될 것입니다. Every opinion counts, and it will feed into our plan.
 
 ## feel
+* F 이에 ll <> feel; f 이이 l
 * 2. 'feel like'는 '~인 것 같다', '~처럼 느껴진다', '~같은 느낌이다'라는 뜻으로, 구어적 표현 중에서도 필수적으로 꼭 알아둬야 할 표현이에요! 익혀두면 정말 유용하고요. 다음 두 형태로 자주 쓴답니다.
   * [ ex1: feel like + 명사 ] I feel like such an asshole.
   * [ ex2: feel like + 주어, 동사가 포함된 절 ] Sometimes I feel like I'm going to be single forever.
@@ -2957,6 +2998,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 이 미래 소설은 2100년의 중국을 배경으로 한다. This futuristic novel is set in China, in 2100.                                 
 
 ## full
+* 다 찼어? - 응, 다 찼어. Was it full house? - Yes, it was full house.
 * 만개하다, 활짝 피다 be in #full #bloom, 싹이 트다: sprout
   * 다 내 책임이야 I take full responsibility
   * be full of it; 누군가가 틀렸거나 진실을 말하지 않다
@@ -3003,6 +3045,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 지금 녹화중이에요. I'm filming
 
 ## fill
+* F 이에 ll <> feel; f 이이 l
 * fill it up with gas please
  * 나는 그 게임 티켓을 사는데 2000달러 #썼다
  * I {spent / put in $2000} to just get a ticket for the game.
@@ -4048,6 +4091,12 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 *  ((국제 금융 시장에서 높은 수익을 노리고 유동하는 단기 자금)) hot money
 * 내가 그에게 하루 종일 어디 있었었냐고 묻자 그는 몹시 당황스러워 했다. He got very hot under the collar when I asked him where he’d been all day. 
 
+## haul
+* 가끔 유튜브 보면 음식, 옷, 화장품가 같은 물건을 잔뜩 쇼핑하고 그것을 소개하는 영상이 있죠. 그것을 haul 이라고 해요. 가서 쓸어 담아 왔다는 거죠. 
+* - haul ⓥ힘들여 끌다 / ⓝ어획량, 득점, 많은 양, 여정
+  * = 나 그 장갑 유튜브 소개 영상에서 봤어. I saw those gloves in a haul video.
+  * = 그는 물가에서 배를 힘겹게 끌어 올렸다. They hauled the boat out of the water.  [hɔːl
+
 ## hall
 * 그래서 오늘은 그냥 자습 시간을 가질게; We'll just have a study hall
 
@@ -4240,6 +4289,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 첫째는 괜찮은데, 작은 아이가 좀 다루기 힘들어요.  My older son is fine but the little one is a bit of a handful.
 
 ## house
+* 다 찼어? - 응, 다 찼어. Was it full house? - Yes, it was full house.
 * : '집'을 가리키는 'house'도, 정치얘기를 할  때는 '의회'나 '미국의 하원' '영국의 상원'으로 해석해주셔야 합니다. 또한, 반드시 그런 것은 아니지만 'h'를 대문자로 표기하는 경우가 많아요!
 	* 의회는 그 제안에 대해 논의하기 시작했다. [ex] The House began debating the proposal.
 * 1) play house 는 어린 아이들이 성인 흉내를 내며 각종 가사를 하며 노는 [소꿉놀이를 하다, 엄마 아빠 놀이를 하다]라는 의미를 가져요. 
@@ -4452,6 +4502,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
                                 
 
 ## jump
+* 내가 널 놀라게 했니? did it make you jump there?
 * : '기회를 빠르게 낚아채다' 라는 뜻의 관용적 표현! 불현듯 나타난 기회에 바로 뛰어드는 걸 상상하면 기억하기 쉽겠죠? jump at the opportunity
   * 기회를 바로 낚아채서 그 사람 자리를 대신하게 됐지. I jumped at the opportunity to replace her.
 * = (시키는 대로) 어려운 일을 하다, 시키는 대로 하다  jump through a hoop; 훌라후프의 후프가 바로 hoop 인데요. 이 표현은 서커스에서 동물들이 링(hoop)을 점프하여  통과하는 모습에서 나온 표현이에요. 그런 동물들은 조련사가 시키는 대로 해야 그들이 원하는 음식이나 간식을 얻을 수 있듯이, 이 표현은 본인이 원하는 걸 얻기 위해서 누군가 시키는 어렵고, 지루하고, 때로는 불필요하다고 여겨지는 일들을 하는 걸 의미합니다. 영상에서는 조금 변형되어 직역하면 [어떤 종류의 어려움을 겪어내야 할리우드에서 아기를 캐스팅할 수 있을까?] 로 해석이 되었는데요. 그 어려움이란 게 묘수를 짜내서 행하는 것이니 의역하여 [도대체 어떤 묘수를 써야 하나요?] 의 의미로 해석이 되었습니다.
@@ -4654,6 +4705,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 반정부 인사들은 국무총리를 끌어내리는 데 실패했다. The government opponents failed to dislodge the Prime Minister. 
 
 ## lock
+* 열쇠를 방안에 두고 문을 잠궜어요; i've locked myself out, and my key is in the room
 * lock something down : 확실히하다 lock 이 무언가를 '걸어잠그다' 라는 뜻이 있어요. 따라서 무언가를 변화되지 않고, 되돌릴 수 없도록 [확실히 하는 것] 을 의미하는 단어입니다.
   * 마음 좀 그만 바꿔! 그 결정으로 확실히 하자고. ex) Stop changing your mind! Let's lock the decision down.
 
@@ -4741,6 +4793,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ### ledge
 * 넌 짱이야; You're on the ledge
+
+## legend
+* 전설에 따르면; Legend has it
 
 ## leg
 * 1) 두 다리로 선다고 하여 ‘자립하다, 혼자 힘으로 일어서다’의 의미로 쓰였습니다. 사실 이 뜻으로 표현하려면 stand on one’s own legs 처럼 복수형 legs가 되어야 하는데요, 본 영상에서는 단수형으로 a leg to stand on이라고 하였습니다.  2) a leg to stand on는 원래 [not have a leg to stand on : 증거, 근거 부족으로 해명/주장 할 수 없다]로 쓰이는 말입니다. 어느 경우든 leg가 자신을 지탱하는 무언가를 의미합니다. 그것이 영상과 같이 돈을 벌어서 삶을 이어나갈 기반일 수도 있고, 이 표현처럼 증거, 근거일 수도 있는거죠. 
@@ -4863,6 +4918,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * would like to be an English teacher
 
 ## lie
+* 눕다가 lay down이지만 laid down이라고 표현함
+  * lie: 자동사; lay: 놓다; 타동사
 * easily lie는 어색; Hee's a liar 더 자연스러운 표현; 거짓말 하는것 자체가 쉽게 거짓말 한다는 느낌
 * 눕다; You can lie down.
 	* 등 대고 눕다; Lie back; Lie back. Lift up your shirt.
@@ -5680,6 +5737,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * pernicious 미국식 [pərˈn-]  영국식 [pəˈnɪʃəs]; 치명적인
 
 ## percent
+* small percentage of something 미국식 [pərˈs-]  영국식 [pəˈsentɪdʒ] 
 *  원래는 give a hundred percent라고 하지만 본인의 100% 최선, 그 이상을 노력했음을 강조해서 나타내기 위해 110% 또는 100% 이상의 랜덤한 수치를 넣어 사용하게 되었지요~
   * 최선을 다했어요. 하나도 후회하지 않습니다. I gave my hundred percent. I don't regret a thing.
 
@@ -5826,6 +5884,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 잡아당겨서 (pull) 부분을 떼어내는 (apart) 느낌의 단어입니다. 특히나 음식을 떼어줄 때 많이 쓰는 표현이고, 사람들이 싸워 뒤엉켜 있을 때 떼어놓는 것도 의미해요.
 	* 그 둘은 교실에서 싸우는 중이어서 우리가 떼어내야만 했어. ex) The two were fighting in class and we had to pull them apart.
 
+### pull together
+* 정신없고 화가 난 상황에서 떠다니는 정신줄을 모두 모아 자신에게 당겨오는 듯한 (pull) 모습의 표현이에요. 누군가에게 진정하고 적절한 생각이 나 행동을 하라고 할 때 쓰는 표현입니다. 
+  * = 정신 차리고 차분해지려고 해봐. 별거 아냐. Pull it together and try to calm down. It's nothing.
+
 ## pile
 * 사무원이 서류들을 더미로 쌓고 있따; a clerk is putting some papers into a pile
 * - is raking leaves into a pile
@@ -5902,6 +5964,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## praise
 * 주님꼐 찬송드립니다; Praise the Lord
+
+## privilege
+* privilege 미국·영국 [ˈprɪvəlɪdʒ]
+  * 생일 그 특권이 있어 특권! There's a privilege on birthdays!
+  * 기밀정보: privilege information
 
 ## primary
 * 매우 중요한; primary responsibility/concern/school
@@ -6268,6 +6335,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 난 아주 힘겨운 상황에 처했어. 내일까지 마쳐야 할 프로젝트가 두 개야. I'm in a pickle - I have two projects due tomorrow.
 
 ## pick
+* 마음대로 고르게 하면 안되죠; YOu can't just let her cherry-pick; 체리나무에서 체리를 고르는 사람들은 최고의 상태인 체릳르만 고르려고 노력한다.
 * 이용자 참여  어쩌면 그 연기를 조목조목 비판하는 것은 공평하지 않은 것 같다. It's not fair , perhaps , to pick apart the acting . 듣기
 	* pick apart: 조목조목 검토하고 분석하다
 * #pick apples, 새가 모이를 쪼다; birds pick #결점을 지적하다; #pick at flaws
@@ -6374,6 +6442,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 아이들은 얌전히 뜯기에는 너무 신이나서 사탕 봉지를 갈기갈기 찢어버렸다. The kids ripped into the bag of candy, too excited to do it carefully.
 
 ## ring
+* 동그란 모양의 고추도 좀 넣어주시고요; And we'll add some little rings of chillies
 * 경찰이 우연히 거대한 마약 조직을 적발했다.; Police have stumbled across a huge drugs ring. 
 * 그가 주모자였어; He was the ringleader
 * 여기서 ring up 은 (가게 계산대에서 구매한 물건의 가격을) '금전 등록기에 입력하다' 라는 뜻이에요. 치즈버거 하나 계산해드릴게요; Let me just ring up a cheese burger
@@ -6646,6 +6715,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 을 비난하다, 격렬히 반대하다. = rail against 동사로 rail 은 [격분하다] 라는 뜻이 있어요. 주로 전치사 against 나 at 과 함께 쓰입니다.
     * 그의 제안을 왜 그렇게 비난했어? 뭐 잘못된 거라도 있니? ex) Why did you rail against his suggestion? Anything wrong with it?
 
+## rattle
+* 달가닥거리는게 들렸어요; i heard it rattling
+
 ## ratchet
 * - ratchet 은 '역회전이 안 되도록 고안된 톱니바퀴', 또는 '톱니바퀴 역회전을 방지하기 위한 장치' 를 말하는데요. 'up'과 함께 동사로 쓰이면 이런 뜻이 됩니다. 톱니 바퀴를 조이듯 정도를 점차 높이는 이미지를 떠올려보세요! - 'pressure, tensions', '압박, 긴장' 같은 단어들과 자주 함께 쓰여요.
   * 유럽 연합은 영국에 압박을 높이려고 협상을 늦추고 있는 거야. [ex] EU is dragging out the negotiations to ratchet up the pressure on the UK.  [ˈrætʃɪt]
@@ -6837,6 +6909,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * offer shuttle service
 
 ## shift
+* 저는 주로 마감시간에 일했어요; i usually worked at the closing shift
 * = 저는 8시간 교대 근무를 해요. I work on eight-hour shift.
   * = 내일 나 대신 근무해 줄 수 있어? Can you cover my shift tomorrow?
 
@@ -7352,6 +7425,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 안전한; a secure job
 * 얻다; secure a contract
 * 고정시키다; secure a ladder
+
+## secretary
+* 미국에서 장관: secretary; [-teri]  영국식 [ˈsekrətri]  차관 undersecretary  [ˌʌndərˈsekrəteri] 
+  * 외무 장관: foreign secretary; 교육부: education; 국방: defense; 재무: treaury
 
 ## secret
 * secret stash은 비격식 표현으로 '(비밀스럽게 몰래) 숨겨둔 것'을 의미해요. 여기서 his secret stash는 아빠가 몰래 숨겨둔 비상금이 되겠네요. 
@@ -8359,6 +8436,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * "your'e in for a treat"는 어떤 일을 앞두고 혹은 어떤 상품을 광고할 때 사용하는데요, treat(좋은 일, 아주 기쁜 일)을 맞이할 것이다, 즉, '아주 좋은 경험을 하게 될 것이다, 무척 마음에 들 거다'라는 의미예요.
   * 증오를 전에 읽어보지 않으셨다면, 너무나 멋진 경험을 하게 될겁니다. If you've never read this before, you're in for a treat. 
 
+## trust
+* trusted: 신뢰 받는; trustful: 남을 잘 믿는
+
 ## truth
 * 일반적인 사실을 말할 때는 to tell you the truth; s 안붙임
 * 사실을 말하자면; (if the) truth be told
@@ -9282,6 +9362,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * A와 B 사이를 이간질하다 drive a wedge between A and B
 
 ## wear
+* 옆집에 사는 여자는 종종 남편을 깔고 뭉갠다. The woman who lives next door often wears the pants; 아내가) 남편을 깔고 뭉개다, 내주장하다
 * 목적어 없이 자동사로 쓰일 때는 [~이 마모되다, 닳아 헤지다], 그리고 2) 목적어와 함께 쓰일 때는 무언가를 많이 써서 [닳게 하다/마모시키다] 라는 의미를 가져요. 영상에서처럼 사람을 목적어로 가질 때에는 그 사람을 정말 [지치게 하다/소모시키다] 라는 의미를 가집니다.
   * 그 일 후에 완전히 녹초가 된 기분이야. ex) I feel completely worn out after the incident.
 
