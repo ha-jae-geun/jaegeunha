@@ -443,6 +443,7 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 
 * #찍먹 #부먹 
 * Do you want sauce on top or separate; I want to dip it in the sauce, pour the sacuue on the top
+		* 찍먹파, 부먹파; dipper, pourer
 * 케이크 위에 당의를 뿌려라. Dredge the top of the cake with icing sugar.  2. 빵가루 입히다
 * 2,3단 센드위치 									 club sandwich
 * #토핑 put the toppings on it

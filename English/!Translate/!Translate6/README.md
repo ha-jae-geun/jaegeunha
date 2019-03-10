@@ -1,3 +1,29 @@
+# 영어 연습가이드 #44 - PART 1 - mainly because / that’s partly the reason / it has to do with the fact that
+* 저 누나랑 별로 안친해요
+ * "My sister and I aren't very close."
+ * 사람 간의 친한 사이에 대해서 얘기할 때 'close'라는 단어로 표현하고 가능하면
+ * 거론되고 있는 사람들을 주어에 group으로 모두 등장시키는 것이 좋아.
+* 라이프 스타일이 서로 많이 달라서 공통점이 별로 없다는 것이 가장 큰 것 같아요.
+    * i think it's mainly because we just have very different lifestyles, so we simply don't  have very much in common
+ * ".. so we don't have very much in common.":
+ * 공통점이 있고 / 많고 / 없다는 얘기를 할 때 "have ------ in common"으로 표현
+* 어렸을때 누나는 싱가포르에 있는 삼촌이랑 오래 지내면서 거기서 학교를 다녔어요.
+    * When we were growing up, she stayed with our uncle in Singapore for mny years and she did most of her scholling there.
+ * "When we were growing up..."
+ * 어린 시절에 대해서 얘기할 때 "When we were young/little,..."라고도 하지만, 이렇게 "우리가 성장하고 있었을때", "크고 있었을 때"로 표현을 자주 함.
+ * "She did most of her schooling there"
+ * '학교를 다니다'라는 의미로 'school'라는 단어를 이렇게 동사로 쓸 수 있다
+ * (문맥에 따라 어색할 수도 있음)
+* 그래서 저희가 친해질 기회가 없었는데, 그런 이유도 있는 것 같애요;
+    * So we never really got a chance to know each other and i think that's partly the reason(why)
+ * "We never really had a chance to ...."
+ * 무엇을 할 기회가 전혀 없었거나 좋은 기회가 없었다는 얘기를 할 때 많이 쓰는 표현
+* 그리고 저는 남자고 누나는 여자라는 부분도 있어요. 서로 통하는 데에 한계가 있으니까요
+    * And i guess some of it simply has to do with the fact that i'm a man and she's a woman, you know? We can only share and communicate so much.
+* 특히, 애초에 남매로서의 유대감 없으니까 남남이나 다름이 없어요
+    * Esepecially without that initial bond as brother and sister, we're practically strangers.
+ * "can only + so much" (우리나라 사람들이 공감하기 어려워하는 표현 중 하나) 아주 흔히 사용되는 표현방식으로 "------에는 한계가 있다"는 의미로 쓰인다
+
 # "오늘같은 날 바깥에서 일해야 하는 사람들은 안됐어요." - 영어로
 * 오늘같은 날 바깥에서 일해야 하는 사람들은 안됐어요.
   * I feel really bad for ... ; 안타깝다의 정도가 sorry 보다는 좀 약한 느낌

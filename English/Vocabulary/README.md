@@ -121,6 +121,16 @@
 * i was sleeping as the train was passing by; 잠과 열차가 지나치는게 동등함
 * i failed an exam i didn't study hard; 때문에
 
+## above
+
+### over와 차이
+1. 양쪽 가장자리를 지나가면서 덮는 것은 over, 물체와 물체 사이에 반드시 공간이 있어야 하는 건 above
+    * 이불이 자는 개의 양쪽 옆으로 모두 덮다; The blanket is over the dog
+2. 물체에 움직이 있으면 over
+    * 구름이 도시를 지나가고있따; The clouds go over the city
+    * 구름이 도시 위에 머물러 있따; The clouds linger above the city
+3. 다리가 강 위에 있따; The bridge is over the river; 물론 다리가 강에 닿지 않고 떠 있지만, 저 옆의 땅에서부터 다른쪽의 땅으로 다리가 박혀 있다.
+
 ## about
 * 무엇이든 근처, 주변에 느낌
 * there are about 300 people
@@ -2847,6 +2857,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
  * I have free time (a xxx)
  * #free ticket을                 'day pass/ticket’
 
+## fabric
+* 원래 fabric 은 '직물, 천'을 의미하는 단어로 보통 의류 관련해서 많이 쓰입니다. 직물이란 게 실이 촘촘하게 짜여 만들어진 좀 더 큰 천이라는 점에서, 여러 가지가 모여 만든 [사회, 문화, 조직 등의 구조]를 의미하기도 하는 격식 단어입니다.
+  * = 이것은 우리나라의 다문화적 구성을 잘 보여줍니다. This represents the multicultural fabric of our nation.
+
 ## fake
 * 이 가짜들을 모조리 없앨거야; we're shutting this fakery down
 * fake 라는 단어는 fake 제품을 만든 사람이 남을 속이려는 의도가 있든 없든 다 쓸 수 있는 단어에요. 딱 보기에 진품과 구별이 힘든 것도 fake, 너무 티 나게 가짜도 fake 인 반면 counterfeit 는 남을 속이기 위한 의도가 듬뿍 담겨, 진품과 완전히 똑같이 만든 제품을 의미합니다.
@@ -4142,6 +4156,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * I wanted to go to the game but it was too much of a hassle so I stayed home.
 * 내 고물차는 고장이 많이 나서 큰 골칫덩어리이다. 나는 새 차를 사고 싶다.
 * My old car breaks down a lot and it's a big hassle. I want to buy a new car.
+
+## hard
+* 직역하면 '딱딱한 줄' 정도로 해석이 되는데요. 마치 넘을 수 없는 기준과 같은 느낌의 단어로, 정책이나 입장에 있어서 [타협 없이 깐깐한 태도]를 의미하는 명사입니다.주로 [강경한 태도/입장을 취하다] 라고 말할 땐 take a hard line 라고 쓰기도 해요.  하지만 영상에서는 마치 동사처럼 쓰여서 [강경한/깐깐한 태도를 취하다] 의 의미로 쓰였어요. hard-line 이라고 쓸 경우엔 형용사로 쓰여 [강경한 태도를 가진] 의 의미를 갖습니다.
+    * = 선생님은 십중팔구 우리에게 강경한 자세로 나오실 거야. The teacher is most likely to take a hard line with us.
 
 ## hardcore
 * 음악 장르 때문에 ‘하드코어’라는 단어는 많이들 알고 계시죠. 일상적으로도 ‘골수, 강경’이란 뜻으로 자주 씁니다. 
@@ -5625,6 +5643,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 통증을 0에서 10까지 측정한다면; If ouy describe your pain from 0 to 10
 
 ## pack
+* 도시락 싸다; i packed my lunch; a packed lunch
 * 6팩의 맥주; a six-pack of beer
 * 그녀는 물품들을 상자안에 채워놓고 있따; She's packing items into a carton
 * :끝내다/패배를 인정하다 pack it up  :그만두다/끝내다 pack it in
@@ -6450,6 +6469,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 많은 보험 회사들이 힘든 시기를 보내고 있다. Many insurance companies are having a rough ride.
 
 ## rip
+* let it rip = 거침없이 막 하다; 그래서 let it rip as a kid 도 아이들이 신나서 발광하듯 뛰노는 상태를 말합니다.
+  * = 와, 발차기 봤어? 그냥 막 질러대네. Wow, did you see that kick? He really let it rip. 
 * ＊ rip into = 맹비난하다 문자 그대로는 [갈기갈기 찢다] 인데요, 비유적으로는 누군가를 혹은 어떤 일을 [매우 공격적으로 헐뜯는 것] 을 의미합니다. 
   * = 아이들은 얌전히 뜯기에는 너무 신이나서 사탕 봉지를 갈기갈기 찢어버렸다. The kids ripped into the bag of candy, too excited to do it carefully.
 
@@ -6810,6 +6831,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## resent
 * = ~가 ~을 한 것에 대해 분개하다, 화내다 resent 사람 for ~; 1) resent 의 사전적 의미는 [분하게 여기다, 분개하다] 인데요. angry 보다 약간 더 강한 뉘앙스를 가집니다. 보통 불공평한 대접을 받거나 존중 없는 행동으로 맘이 상했을 때 쓰는 표현이에요. 2) 영상에서의 it 은 앞에서 이름에 대한 발음을 교정해주는 행위를 의미하는데요. 그렇게 얄밉게 행동을 하니 참 밉상이다- 라는 뉘앙스로 말했습니다.
   * = 잭은 네가 말도 없이 그의 노트북을 사용해서 화났어. Jack resents you for using his laptop without telling him.
+
+## residue
+* residual 미국식 [-dʒu-]  영국식 [rɪˈzɪdjuəl]
+  * residual tension = 여전히 남은 긴장감; 따라서 residual tension 은 일련의 과정이 지난 후에 [여전히 남아있는 긴장]을 의미하는 단어입니다.
+  * = 방 안에 여전히 긴장감이 남아있었고, 그로 인해 우리가 대화를 이어나가는 것이 어려웠다. There still remained residual tension in the room, which made it hard for us to continue the conversation.
 
 ## resign
 * 사표 수리; accept my resignation
@@ -7669,6 +7695,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 너 신호 잡혀? 난 안 잡혀. [ex] Are you getting service? I'm not.
 
 ## serve
+* * ready-to-serve food = 즉석 음식; 1) 음식을 [내어주다, 차려내다]의 의미를 가진 단어 serve 와 함께 쓰는 형용사인 ready-to-serve는 직역하면 [음식을 차려낼 준비가 된]의 의미를 가집니다. ready-to-eat이라고도 하는데요. 두 단어 사이에 큰 차이는 없습니다.
+  * = 이런 즉석 음식 먹는 게 지겨워. 우리 다른 거 없어? I'm tired of eating this ready-to-serve food. Anything else we have?
 * 자신의 생각을 일기장에 써본다면 도움이 된다고 말하면서 you serve yourself 라고 하였습니다. 이 표현은, 자신에게 도움이 되는 행위를 하다라는 뜻입니다. 여기에 if+문장을 넣어서 if 뒤를 할 경우, 너에게 도움이 될 것이다라고 구체적으로 표현해 주면 됩니다.
 	* 자기 전에 물 한잔 마시면 너에게 아주 좋을 거야. You would serve yourself if you drink a cup of water before going to bed.
 
@@ -8637,6 +8665,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 저게 내가 말했던 그 사람이야. 저 여자가 건드는 일마다 대박 나. [ex] That's the person I was telling you about. Everything she touches turns into gold.
 
 ## top
+* tippy top = 맨 꼭대기 / 최상의, 최고의; 원래 tip-top 인데, tippy 로 바꿔 속어적으로 표현한 말이에요. ; tip-top 은 ‘끝부분’을 의미하는 tip 과, ‘꼭대기’를 의미하는 top 이 합쳐져 [맨 꼭대기, 최고점] 을 의미합니다.  이 외에도 굽이 가늘고 뾰족한 하이힐이나 ‘동서남북’이라고 불리던 종이접기 역시 tippy top 이라고 합니다. 끝이 뾰족한 것이 공통점이네요!
+  * = 이 엘리베이터 타면 꼭대기층에 갈 수 있어. You can go up to the tippy top by this elevator.
 * top of mind = 가장 먼저 떠오르는, 가장 신경쓰는
   * = 차를 살 때 나는 연비가 가장 중요해.When buying a car, fuel efficiency is top of mind for me.
 * 골포스트; top bins; 골포스터에 골을 넣을 거에요; i'm calling top bins
@@ -8777,6 +8807,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 제가 등록금 내게 해주세요. [ex] Please let me take care of the tuition. ※'돈'을 직접 언급하지 않는 완곡어법으로 3. 을 지불하다
 
 ### take off
+* take off 은 비행기가 '이륙하다' 의 의미로 가장 많이 쓰이는데요. 제품이나, 특정 활동, 누군가의 커리어가 주어로 올 경우엔 마치 비행기가 하늘로 솟아 오르듯 갑자기 매우 성공적이 되는 걸 의미합니다.
+  * = 그 유튜버가 우리 제품을 지난주에 언급한 후로 판매량이 정말로 늘었어. Sales really took off after the YouTuber mentioned our product last week.
 * 승객 여러분. 우리는 곧 이륙할 것이니, 안전벨트를 매 주십시오. Ladies and gentlemen. We’re going to take off soon, so please fasten your seat belts.
   * 수업 시간에 신발을 벗지 마세요. Don’t take your shoes off during class.
   * 그녀의 사업이 아주 잘 풀렸다. Her business has really taken off.

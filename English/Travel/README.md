@@ -69,7 +69,7 @@
 * 여기는 출입 # 금지 구역이에요. 	This area is off limits. 
 * 차량 통행금지 구역입니다. 	This area is "closed to all vehicles". 
 * 외부 음식 반입 금지					 No outside food or drinks allowed
-* *못갈거 같아. 나 주말 외출금지야.				 I can't. I'm grounded for the weekend.
+* 못갈거 같아. 나 주말 외출금지야.				 I can't. I'm grounded for the weekend.
 * 여기 불조심이라고 쓰여 있어요. 	This says "Beware of fire". 
 * 휴지를 버리지 마세요.라는 팻말이 붙어 있어요. 	Here's a sign saying "Don't litter".
 * 쓰레기를 버리지 마세요.라고 쓰였어요. 	This says "Don't throw away trash". 
@@ -157,7 +157,7 @@ we expect to #land
 * 어디서 머물거니? 							 Whre are you staying
 * 직업이 뭐니? 							 what do you do for a living?
 expenditure(지출 어떻게 할거니) 							 cash, credit card
-* 여행하려고요								 I'm just raveling
+* 여행하려고요								 I'm just traveling
 * 가족 만나러 왔어요 	//					I'm gonna meet my family
 * 귀국 항공권은 있나요? 					 Do you have a retrun ticket to korea?
 * #귀국 날짜; #returning date

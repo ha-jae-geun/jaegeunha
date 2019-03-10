@@ -1674,6 +1674,11 @@
  * #나오다 ##쏟아져 나오다 #솟구치다
 
 # 나이
+* # 어릴때
+* 어렸을때 누나는 싱가포르에 있는 삼촌이랑 오래 지내면서 거기서 학교를 다녔어요.
+    * When we were growing up, she stayed with our uncle in Singapore for mny years and she did most of her scholling there.
+ * "When we were growing up..."
+ * 어린 시절에 대해서 얘기할 때 "When we were young/little,..."라고도 하지만, 이렇게 "우리가 성장하고 있었을때", "크고 있었을 때"로 표현을 자주 함.
 * # 어르신; old man / old lady;
   * 어르신들을 위한 혜택이 있나요? Are there any perks for senior citizens?
 * 내가 20대일때 넌 날 늙게 보곤했다. You used to put years on me when I was in my 20s.  put years on somebody
@@ -5563,6 +5568,8 @@ retaliate
   * 난 시력이 좋아.  I have good eyesight.
   * 그의 시력은 안 좋아. He has poor vision.
                                 
+# 안다
+* give me a hug;  Come cuddle me; Come spoone me: 키스까지 갈 수 있는 로멘틱한 ㅇ나기
 
 # 안전
 * 안전해; Coast is clear; 전쟁에서 해안가는 깨끗하다에서 시작
@@ -9090,6 +9097,9 @@ retaliate
                                 
 
 # 한계
+* 그리고 저는 남자고 누나는 여자라는 부분도 있어요. 서로 통하는 데에 한계가 있으니까요
+    * And i guess some of it simply has to do with the fact that i'm a man and she's a woman, you know? We can only share and communicate so much.
+ * "can only + so much" (우리나라 사람들이 공감하기 어려워하는 표현 중 하나) 아주 흔히 사용되는 표현방식으로 "------에는 한계가 있다"는 의미로 쓰인다
 * 모든 사람은 버틸 수 있는 한계가 있따; every man has his breaking point
 * 그는 끊임없이 TV 코미디의 한계를 초월하는 연예인이다. e is a performer who consistently pushes the envelope of TV comedy. 
   * 이제 한계야; i've just about reached my limit
