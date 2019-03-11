@@ -6633,6 +6633,7 @@ retaliate
   * 난 뭔가 조금 이국적인걸 입는 걸 좋아해. ex) I like to wear something a bit outlandish.
 
 # 이기다
+* 부전승으로 결승전에 진출했다; Our team went onto the finals by a default win
 * first to two points wins: 먼저 2점에 도달하는 사람이 이긴다
 * 「get the best of 사람」은 그 사람을 능가하다, 이기다 라는 뜻입니다.
 	* 아무도 날 능가할 순 없을거야. No one is going to get the best of me.

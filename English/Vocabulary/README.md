@@ -1669,6 +1669,7 @@
 
 ## confess
 * make a confession; a confession to make
+* 교회 같은 곳에서 쓰는 무게감 있는 고백; 연인 사이에서는 ask her/him out
 
 ## conflict
 * resolve conflict
@@ -3894,6 +3895,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## give
 * Give it to him! = 혼내줘! / 본때를 보여줘!
+1. give something to someone / give someone something
+  * 둘다 대명사일 떄 to 를 사용; i gave it to them;
 
 ### give out
 * : 여기서는 목적어를 받지 않는 자동사로, 신체 일부나 기계 등을 주어로 받아 '제기능을 하지 못하다', '녹초가 되다', '힘이 다되다', '다운되다' 라는 뜻으로 씁니다. 여기서는 다리를 주어로 받아 '풀리다'라는 뜻이죠!
@@ -8879,6 +8882,18 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 2. 있잖아, 정말이지, 처럼 어떤 말의 도입부에 쓰이는 표현. 1번처럼 진정성에 대한 강조가 있지는 않습니다.
   * 정말이지, 너 기운 좀 차려야 해. [ex] I'm telling you. You gotta pull yourself together.
 
+## tea
+ * Early tea (Bed tea)
+ * 아침에 잠자리에서 마시는 차; 영국에서는 남편이 부인에게 만들어 주는 것으로 되어있고; 이것으로 애정의 정도를 가늠한다고 한다.
+ * Breakfast;아침식사와 같이 마시는 차; 영국식 아침식사는 홍차와 토스트, 달걀, 베이컨, 과일등
+ * Elevenses; 오전 동안에 바쁘게 일하는 도중에 잠시 쉬면서 마시는 차 간단하게 15분 정도로 마친다. 옛날에는 회사에 이를 전문으로 하는 tea lady가 있어서 왜건으로 차 서비스를 받았다.
+ * Middy tea break; 오후에 간식을 먹으면서 마시는 차
+* Afternoon tea; 사교를 목적으로 하는 특별한 Middy tea break이며 주로 휴일 오후 4시 경에 한다. 멋있게 자리를 마련하고 샌드위치, 스콘, 케이크 등을 준비한다
+ * High tea(Meat tea); 원래는 영국의 노동자들이 일을 마치고 집에 돌아와서 오후 6시경에 고기나 샌드위치등의 식사와 같이 마시는 차를 가리킨다.
+ * Low tea; 상류계층에서 이른 오후에 이야기를 나누면서 차와 가벼운 음식을 드는 것을 가리킨다.
+ * After dinner tea; 저녁식사를 마치고 느긋할 때 마시는 차. 초콜릿등 단 과자와 같이 마시는 경우가 많고 위스키나 브랜디를 타서 마시기도 한다.
+ * Night tea; 잠자리에 들기 전에 마시는 차
+
 ## tease
 * 내 기분을 좋게 해줘; 애타게 해줘; Please me baby; And just tease me
 
@@ -9298,6 +9313,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## wide
 * 2) far and wide = 널리, 넓은 지역에 걸쳐
   * 그는 전세계의 여러 지역을 여행하곤 했다. He used to travel far and wide through the world.
+* 입을 크게 벌려주세요; Open wide, please
 
 ## wire
 * 나는 이것을 내일 제출하지 않으면 안 된다. 그래서 마지막까지 일해야 해. I have to turn this in tomorrow, and I'll be working down to the wire; down to the wire

@@ -47,6 +47,7 @@
 *   미드 표현 http://blog.naver.com/pjc425/220983107635
 *   체니 http://m.post.naver.com/my.nhn?memberNo=2562700
 -----------------------------------------------------------------------------
+* 종로 정철어 학원 https://m.blog.naver.com/PostList.nhn?blogId=victors87
 * you can do English https://m.blog.naver.com/PostList.nhn?blogId=doeng-official
 *  영어 주유소 http://blog.naver.com/tnwlwldu
 * 신혼영어 https://m.blog.naver.com/PostList.nhn?blogId=sola811
