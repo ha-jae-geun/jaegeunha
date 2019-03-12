@@ -7209,6 +7209,8 @@ retaliate
   * "Love Myself" 반복 재생으로 듣고 있어. [ex] I've got "Love Myself" on replay.
 
 # 재앙
+* 1) disaster 와 비슷한 단어지만 차이가 있으니 조금 조심해서 사용하셔야 하는 단어입니다.  2) disaster 는 잘못된 판단, 실수, 부주의함 등에 일어난 상황인 경우에 사용하는데요. &lt;원인&gt;에 중점을 두는 단어입니다. 또한 &lt;자연 재해&gt;도 natural disaster 라고 하는데요. 3) catastrophe 는 어떤 상황의 &lt;비극적인 결과&gt;에 중점을 두는 단어로, 결과가 대재앙적이고 대참사일 때 쓰는 표현이에요.
+  * = 우리가 몇 개월 동안이나 무시해온 경고를 계속해서 무시한다면 경제적 재앙을 마주하게 될 겁니다.We'll be facing economic catastrophe if we keep ignoring the warning that we've ignored for months. [kəˈtæstrəfi] 
 * ＊ spell disaster = 재앙과도 같다
   * 급작스럽고 매우 큰 데미지를 가져다 주는 것을 의미하는 단어죠. 비슷한 단어로 disaster 가 있는데요. disaster 는 예상치 못한 재앙을 의미합니다. 예를 들면 심각한 철도 사고, 난파 사고 등을 의미하고요. catastrophe 도 거의 같지만, 조금 더 결과를 의미할 때 많이 쓰여요. 예를 들어서, 별 거 아닌 사건이 일어났지만, 그 결과는 참혹할 때 disaster 보다는 catastrophe 를 쓰는 경향이 있습니다.
     * 계속해서 재앙을 예방하는 것에는 모든 이의 노력이 필요합니다. ex) Everyone's effort is needed to keep on working to prevent a catastrophe.
@@ -7933,6 +7935,10 @@ retaliate
 * 이러한 사실을 좀 더 # 밝혀줄; shed more light on this
 * # 밝다; 하늘이 불꽃놀이로 환해졌다. ex) The sky was lit up by the firework.
   * 빛으로 무언가를 환하게 하는 것을 의미하는 동사에요. [얼굴빛 또는 눈이 환해지다] 라는 의미로도 쓰입니다. light-lit-lit 의 형태로 쓰여집니다.
+
+# 증발
+* vapor 도 '증기화하다' 라는 말은 없지만 [증발하다, 증발시키다] 의 뜻으로 액체를 증기로 만드는 의미를 갖는데요. 2) 같은 뜻의 단어로 evaporate 가 있는데요. 차이는 vaporize  ˈveɪpəraɪz] 는 열이 가해져서 증발되는 경우에 쓰이지만, evaporate 는 아무것도 안해도 시간이 지나며 증발하는 걸 의미합니다. ɪˈvæpəreɪt]
+  * = 레이저의 강도는 그 물질을 기화시킬 만큼 충분했다. The intensity of the laser was enough to vaporize the substance.
 
 # 지각
 * 시간 꼭 지키세요; # 늦지마

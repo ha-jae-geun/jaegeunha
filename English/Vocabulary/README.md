@@ -583,6 +583,10 @@
 * 망가진 전화기가 수리할 수 없는 정도라서 우리는 새것 하나를 사야 한다. The broken telephone is beyond repair, so we should buy a new one. 
 
 ## beside
+* other colors besides pink = 분홍색 외에 다른 색상; 여러분은 besides 와 except 의 차이를 알고 계시나요? 한국어로는 둘 다 ‘빼고/외에’ 등으로 해석돼서 헷갈리는 경우가 있는데요, 사실 이 둘의 의미는 전혀 다릅니다; 
+    * ⓐ I wear every color besides pink. (분홍색 외에도)
+    * ⓑ I wear every color except pink. (분홍색만 빼고)
+    * 여기서 ⓐ는 분홍색 뿐만 아니라 모든 색상을 입는다는 뜻인 반면, ⓑ는 분홍색만 제외하고 다 입는다는 겁니다. 즉 [besides+명사] 는 ‘명사 포함’이고, [except+명사] 는 ‘명사 불포함’ 인거죠. 참고로 –s 는 꼭 제대로 발음해 주세요. beside 는 “~옆에”로 아예 다른 단어거든요!
 * : 너무 ~해서 어쩔 줄 모르다, 제정신이 아니다 beside oneself with + 감정
   * 너무 기뻐서 어쩔 줄을 모르더라고. She was beside herself with joy.
 
@@ -1124,6 +1128,7 @@
   * 제니는 그녀의 발명품인 노인들을 위한 기저귀를 팔기 시작했어. ex) Jenny started to sell her brainchild, a diaper for the elderly.
 * 멍 때리다; i had a brain fart
 * (속어) 너의 그 작은 뇌속 어딘가에는; SOmewhere in that peebrain of yours
+* 이용자 참여  그들이 너를 세뇌시키려고 하고 있니?  Are they trying to brainwash you?! 듣기
 
 ## brass
 * brass는 명사로 ‘놋쇠’입니다. 영상에서는 낯짝이 놋쇠처럼 두껍다하여 성격이 ‘뻔뻔한, 철면피의’라는 의미로 사용하였습니다. 보통 「have the brass (neck) to~: 뻔뻔스럽게 ~하다」 혹은 「bold as brass: 얼굴에 철판을 깐」이라고 표현하죠.
@@ -1981,6 +1986,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## credit
 * 외상으로 살 수 있을까요? Can I buy it on credit?
+* 그 사람은 신용이 좋다. He has a good credit rating. 듣기 출처:능률교육
+    * This will also help you to improve your credit rating.
 
 ## creep
 * 또라이들로 갇ㄱ 차잇죠; filled with creeps
@@ -2286,6 +2293,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그 농구 선수는 말 그대로 그의 옆에 선 모두를 왜소해 보이게 만들었다. ex) The basketball player dwarfed literally everyone standing next to him.
 
 ## drum
+* drum up business = 사업을 활성화/홍보하다; 앞에서 나왔던 blow the whistle 이라는 표현과 비슷하게, 누군가 북을 치게 되면 사람들의 관심을 받는 모습에서 나온 표현이에요. 다만 북의 쓰임은 호루라기와는 다르게 무언가를 홍보하려고 할 때 쓰거나 응원에 쓰이는 도구이기 때문에 1) 사업을 홍보하거나 2) 무언가에 지지를 얻으려고 노력하다- 라는 의미로 쓰이는 표현입니다.
+    * = 그 지역 사업주들은 그들의 사업 홍보를 위해 지역 신문에 광고를 내기로 결정했다. The business owners in the area decided to put up some ads on the local newspaper in order to drum up their business.
 * 드럼소리; Drumroll
 
 ## dress
@@ -2431,6 +2440,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 그리고 data 는 복수형이기 때문에 (단수형은 datum) 동사도 그에 맞춰야 하지만 일반적으로는 혼합해서 쓰는 편입니다. - The data is not accurate. (문법적으로 틀리지만 일반적으로 쓰는 말)
 * collect data on you = 당신의 정보를 수집하다
 
+## dunk
+* get dunked on = 한 방 먹다
+  * = 한 방 먹어라! 하하하! 미안, 봐줬어야 했는데. Get dunked on! Ha-ha-ha! Sorry, I was supposed to spare you.
+
 ## dumb
 * 저는 CBS뉴스가 뉴스를 꾸미고 지나치게 단순화하려 노력했다고 생각합니다. I think CBS News did try to dumb down and tart up the news. 듣기
 
@@ -2507,6 +2520,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## disturb
 * 형용사 disturbing 은 풀어 설명하면 끔찍한 장면이나 충격적인 사실로 인해 심적으로 굉장히 불안하고 불편한 상태를 말합니다. 
   * = 그 영화는 성적인 장면이 있는데 보기에 매우 불편했다. The movie contained some sexual scenes and I found it quite disturbing.
+
+## disgrace
+* = 넌 가문의 커다란 수치야. You're such a big disgrace to our family.
 
 ## disguise
 * : ~로 위장/변장하다 [disguise oneself as~] disguise는 ‘남을 위장시키다’입니다. 따라서 자기 스스로 위장했다고 하려면 disguise oneself as~라고 하셔야 합니다.  
@@ -2691,6 +2707,12 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * - 추가요; relish extra
 * 부사 'extra'는 다른 형용사나 부사를 꾸며 '각별히' '특별히'라는 뜻을 부여합니다.
   * 이 건 각별히 조심해서 다뤄. [ex] Be extra careful with this.
+
+## except
+* other colors besides pink = 분홍색 외에 다른 색상; 여러분은 besides 와 except 의 차이를 알고 계시나요? 한국어로는 둘 다 ‘빼고/외에’ 등으로 해석돼서 헷갈리는 경우가 있는데요, 사실 이 둘의 의미는 전혀 다릅니다; 
+    * ⓐ I wear every color besides pink. (분홍색 외에도)
+    * ⓑ I wear every color except pink. (분홍색만 빼고)
+    * 여기서 ⓐ는 분홍색 뿐만 아니라 모든 색상을 입는다는 뜻인 반면, ⓑ는 분홍색만 제외하고 다 입는다는 겁니다. 즉 [besides+명사] 는 ‘명사 포함’이고, [except+명사] 는 ‘명사 불포함’ 인거죠. 참고로 –s 는 꼭 제대로 발음해 주세요. beside 는 “-옆에”로 아예 다른 단어거든요!
 
 ## excuse
 * excuse oneself는 자리를 뜨겠다고 양해를 구하는 표현이에요. 굉장히 예의있는 표현입니다.
@@ -3052,6 +3074,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## further
 * 멀리 갈 것 없다, 더 알아볼 필요 없다 (= 여기 당신이 찾는 게 있습니다)  "Look no further."
 * 더 이상 자세히 들어가지는 않겠습니다. We shall refrain from entering into further detail. 듣기 출처:프렌딕
+
+## field
+* play the field = 동시에 여러명을 만나다; 한 사람을 진지하게 사귀지 않고, 여러명을 동시에 만난다는 뜻이에요. 이 표현은 경마장에서 한 말이 아닌 여러 말에 베팅하는 것에서 유래했습니다.
+    * = 그는 대학 때 잠깐 가벼운 연애를 하고 다녔었지만, 지금은 한 사람만 사귀고 있어. He played the field a bit during college, but he’s having a steady relationship now.
 
 ## fight
 * fight someone; 주로 physical confrontation; fight over something
@@ -4901,6 +4927,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 2) light on feet = 발걸음이 가벼운, 날렵한
   * = 그녀는 매우 민첩하고 발이 빠르다. She’s very agile and light on her feet.
 
+### lighten
+* 친구가 농담을 너무 진지하게 받아들일 때 Lighten up! 이라고 해요. 너무 그렇게 팍팍하게 굴지 말고 느슨하게 풀라(lighten)는 겁니다. 
+  * = 야, 뭘 그렇게 그래! 농담이었잖아! Oh, lighten up! I was only joking!
+
 ## linger
 * linger around = 어슬렁거리다, 꾸물대다, 머무르다; linger은 '(예상보다 오래) 남다, 머무르다'라는 뜻이고 around는 전치사로 쓰일 때 '주위에'라는 뜻이므로 linger around는 주위에 머무르다, 즉 주위를 어슬렁거린다고 할 때 사용하는 표현이에요.  '머무르다'의 뜻을 가진 stay는 단순히 특정 장소에 머무르는 행위를 일컫는 반면 linger은 예상 시간보다 오래 한 장소에 머무른다는 어감이 있는 단어예요. 영상에서 코트니가 stay가 아닌 linger around를 사용한 이유도 본인 스케줄이 바쁘니 촬영장에서 어슬렁대기 싫다는 뜻을 표현하기 위함이라고 볼 수 있어요!
   * 약 20명의 사람들이 자정이 지나고도 가지 않고 서성거렸다. ex) About 20 people lingered around past midnight.
@@ -5395,6 +5425,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 많은 관광객들은 월스트리트의 황금소의 아랫도리를 만지는 것을 좋아한다. Many tourists love to rub the nether regions of Charging Bull on Wall Street.
 
 ## new
+* bad news = 문제아, 위험한 사람, 골치아픈 녀석; 비유적으로 bad news 는 ‘문제아, 질이 좋지 않은 사람’을 의미해요. 그래서 주변에서 함께하기 꺼려한다는 어감이 내포되어 있습니다.  참고로 news 는 셀 수 없는 단어에요. 종종 a news 라고 하는 경우가 있는데 잘못된 표현입니다. 
+  * = 쟤랑 가까이 하지 마. 위험한 애야! Stay away from him. He's bad news!
 * : 안 좋은 상황 속에서 좋은 소식 전할 때, 좋은 쪽을 말할 때 유용하게 쓸 수 있는 표현이에요! GOOD 에 들어간 강세까지 기억해보세요. the good news is ~
 * : 어떤 소식이나 정보를 받아들이다, 반응하다 [take the news]
   * 그가 어떻게 반응했어? How did he take the news?
@@ -5596,6 +5628,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * #update sth; update in the sth; update to your social applications; #update information for 
 * 새로운 규제방안은 향후 2년에 걸쳐 단계적으로 도입될 것이다. The new regulations will be phased in over the next two years.
   * phase in은 법이나 제도 등을 단계적으로 도입하다라는 뜻입니다. 뒤에 「over+기간」를 넣어 ‘한 기간에 걸쳐’라고 표현해 줄 수도 있습니다.
+
+## pan
+* pan out: 예전에 널찍한 팬에 물과 모래를 담아 흔들며 가벼운 모래를 날아가게 하고 무거운 침전물만 남아있게 했던; 팬에 금이 남게 되면 그 근처에 금광이 있는 것으로 판별
+    * 나는 여태까지 일이 진행되어 온 것에 만족한다. I’m happy with the way things have panned out. 
 
 ## pant
 * 꼼짝없이 당하다; You guys were caught with your pants down
@@ -6028,6 +6064,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ### practically
 * 실질적으로; 이건 사용할수나 없어; It's practically unusuable
+
+## problem
+* 불만 없어; i got no problems;; 불만 많아; He's got problems with everything
 
 ## progress
 * * # 미완성; a work in progress  = It's just a rough draft
@@ -6954,6 +6993,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * = 저는 8시간 교대 근무를 해요. I work on eight-hour shift.
   * = 내일 나 대신 근무해 줄 수 있어? Can you cover my shift tomorrow?
 
+## sow
+* sow wild oats = 방탕하게 놀아나다; 나가서 방탕하게 놀아나는 걸 말하는데, 주로 어린 나이에 여러 이성을 만나거나 술마시고 날라리처럼 다니는 걸 의미해요. 옛날에 야생귀리는 상품성이 없어 골칫거리였다고 해요. 그런 야생귀리를 뿌리고 다닌다는 건 쓸모없는 헛짓거리를 하고 다닌다 뜻이 되었죠. 
+    * = 너 그렇게 헛짓거리하며 다니기에는 너무 나이가 많잖아. You are too old to be sowing your wild oats. [oʊt]
+
 ## soap
 * : 일장 연설, 즉흥 설교 [soapbox]; 옛날에 거리를 다니면서 임시방편으로 비누 상자위에 올라가 즉흥적으로 설교를 하던 것에 유래한 표현으로, 특정 주제에 대해 자신의 의견을 내세우다, 즉흥적으로 긴 설교를 하다는 의미의 표현입니다. 상자에 올라가는 건 get on, 내려가는 건 get off가 되어 각각 ‘설교하다’, ‘설교를 멈추다’가 되는 것이죠. 
   * 제발 이제 일장연설 좀 그만해. Please get off your soapbox.
@@ -7158,6 +7201,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그는 절벽을 기어오르려 했다. He tried to scramble up the cliff.
 
 ## scratch
+* scratch the surface = 수박 겉핥다
+  * = 우리는 문제의 겉부분만 살펴본 것 같아요. I think we have only scratched the surface of this problem.
 * 그말 취소할게요; scratch that; take it back
   * 1) 여기서 scratch는 ‘취소하다, 없애다’를 의미합니다. 그래서 scratch the idea altogether 은 ‘그 생각(the idea) 자체(altogether)를 없애버리다’입니다. 비슷한 표현으로는 drop the idea 가 있습니다.
     * 내가 실직해서 우리는 계획을 취소해야만 했다. We had to scratch our plans when I lost my job.
@@ -7763,6 +7808,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그 이벤트를 오랫동안 기획했다. They've staged the event for a long time.
 * 무대 공포증 있다. I have stage fright.
 
+## oat
+* sow wild oats = 방탕하게 놀아나다; 나가서 방탕하게 놀아나는 걸 말하는데, 주로 어린 나이에 여러 이성을 만나거나 술마시고 날라리처럼 다니는 걸 의미해요. 옛날에 야생귀리는 상품성이 없어 골칫거리였다고 해요. 그런 야생귀리를 뿌리고 다닌다는 건 쓸모없는 헛짓거리를 하고 다닌다 뜻이 되었죠. 
+    * = 너 그렇게 헛짓거리하며 다니기에는 너무 나이가 많잖아. You are too old to be sowing your wild oats. [oʊt]
+
 ## outgrow
 * 저러다 말겠지; It will pass; SHe's gonna outgrow it
 
@@ -8053,6 +8102,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * ☆#soggy; #질척한; soggy apple;(눅눅) soggy/#sodden ramen; 라면 불었다
 
 ## speak
+* 경영진은 네 근면함을 극구 칭찬했다. The management spoke highly of your hard work. 
 * * 모두가 그녀를 아주 좋게 이야기한다. Everyone speaks very well of her. 
 * : 설명이 필요 없다, 명백하다 1. speak(s) for itself/themselves 직역에 가깝게 옮기면 '그 자체가 스스로 이야기해준다'죠? 따로 설명하지 않아도 '그 자체로 명백하다', '딱 봐도 분명하다/명백하다'라는 뜻이에요!
   * 수치/사실만 봐도 명백해. [ex] The numbers/facts speak for themselves.
@@ -8151,6 +8201,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## spring
 * 춘곤증; spring fever
+* 갑자기 행동[작동]하기 시작하다; spring into action;    “갑시다!” 그가 갑자기 행동을 개시하며 말했다. ‘Let’s go!’ he said, springing into action. 
+* 존은 이제 풋내기가 아니지만 지금도 주2회는 테니스를 한다. Even though John is no spring chicken, he still plays tennis twice a week; no spring chicken: 풋내기
 * 존은 이제 풋내기가 아니지만 지금도 주2회는 테니스를 한다. Even though John is no spring chicken, he still plays tennis twice a week; 풋내기가 아닌; 철없는 애가 아닌; 이제 젊지는 않은
 * 갑작스러웠어; it was sprung on me; [sprʌŋ]
 * 여기서 spring은 용수철이 팍 튀기듯이, '갑자기, 예상치 못하게 ~을 하다, ~이 되다'라는 뜻으로 사용되었어요.
@@ -9102,10 +9154,13 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 혈색이 안좋고 피곤해 보이는; looking washed out
 
 ## watch
+* on one's watch = ~의 재임 기간 중
+  * = 대부분의 주요 문제들이 내 재임 기간 중에 해결되었다는 것이 자랑스러워.I'm proud that most of the major issues have been solved on my watch.
 * watchdog = 감시 단체, 감시인; watch 는 '보다' 외에도 '감시하다' 의 의미를 가집니다. 그래서 watchdog 는 [감시견, 경비견]을 의미하기도 하는데요. 사실 그 의미보다는 무언가를 감시하는 사람이나 단체로 많이 쓰인답니다. 실제 경비견을 말할 때는 guard dog 가 조금 더 흔하게 쓰입니다.
   * = 몇몇 소비자 감시 단체는 그 회사가 최근에 제기된 안전 문제에 대해 충분한 조치를 취하지 않는다고 비난했다. Several  consumer watchdogs have blamed the company for not taking enough actions for the safety issue addressed recently.
 
 ## water
+* 워터게이트 (사건) ((1972년 Washington, D.C.에 있는 민주당 본부 건물에 도청 장치를 한 정보 활동; 1974년 Nixon 대통령 사임의 직접적 원인이 됨)); [때로 w~] ((일반적으로)) 정치적 부정 행위[추문]
 * 모래로 성을 만들다: making a castle with sand; 노를 들고 있따; holding a paddle
   * 보트가 물에 떠있따; a boat is floating in the water; 물이 잔잔하다; water is calm
 * : 중대한 전환점/분수령에 와있다 - be at a watershed moment; watershed 는 '[명] 분수계, [형] 분수계를 이루는'이란 뜻으로, 쉽게 말하면 물이 갈라져 흐르는 경계를 말합니다. 이렇게 현실, 상황, 사태가 물 갈라지듯 변하는 중대한 '전환점'을 비유적으로 이를 때 쓸 수 있어요. 이 문장도 여태껏 업계 내에서 다양한 이유로 성추행, 성폭행 등이 묵인됐지만, 이제부터는 많이 바뀔 거라는 말이죠! 실제로 큰 전환점이 될 하비 와인스타인 사건과 연결지어 기억해보세요.
@@ -9296,6 +9351,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 우리가 다음 달에 해고될 거라는 소문을 들었어. I've heard whispers that we would be laid off next month.
 
 ## whistle
+* 폭로하다, 고발하다, 멈추다, 경각심을 일깨우다 blow the whistle; 1) 직역하면 '호루라기를 불다' 의 의미를 가지는데요. 각을 부는 행위 자체가 주의를 집중시키고, 경찰이 도둑이나 강도를 잡으러 가며 나쁜 짓을 멈추게 하거나, 스포츠에서도 경기를 중단시키는 기능을 하죠.  2) 그래서 이 표현은 무언가 일어나서는 안되는 일이 일어날 때 그것을 멈추기 위해 상급자나 상급 기관에 신고, 고발 등의 행위를 하는 것을 의미합니다. (재판과는 다른 개념)3) 행위의 목적이 나쁜 일을 멈추게 하고 경각심을 일깨우는 것이기에 [멈추다, 경각심을 일깨우다] 로 해석이 되기도 하고요. 참고로 [내부 고발자] 를 whistle-blower 라고 하기도 합니다.
+  * = 누구도 내부 고발자에 대해서 밀고해선 안 돼. No one should ever whistle the blow on the whistle-blower.
 * # 깨끗; '티끌 하나 없이 아주 깨끗하다'고 할 때 (as) clean as a whistle이라는 표현을 사용합니다. 사람들이 호각 소리가 '맑고 깨끗하다'고 생각하여 그걸 비유해서 나타낸 표현이죠. 청각적인 이미지에서 비롯된 말이지만 시각적으로 깔끔하고 깨끗하거나 어떤 일이 말끔하게 처리되었다든지, 사람이 결백하다고 할 때도 사용한답니다!
   * 네 셔츠가 아주 말끔하구나. Your shirt is clean as a whistle.
 
