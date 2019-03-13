@@ -1680,6 +1680,36 @@ Space Enter를 모두 경계로 인식하기에 입력받은 데이터를 가공
 
 # 내부 클래스
 
+## InnerClass
+- inner Class : 클래스 내부의 클래스
+- innerClass를 이용하는 이유 : 바깥을 감싸고 있는 필드나 메소드를 얼마든지 참조할 수 있다.
+- local inner Class : 메소드 안의 클래스
+
+1. Member
+https://donggeuri0320.tistory.com/entry/%EC%9E%90%EB%B0%94java-%EB%82%B4%EB%B6%80-%ED%81%B4%EB%9E%98%EC%8A%A4Inner-class
+-  멤버 변수나 멤버 메서드들과 같이 클래스가 정의된 경우에 사용한다;  잘 쓰임
+- 객체를 생성해야만 사용할 수 있는 멤버들과 같은 위치에 정의되는 클래스를 말한다.
+-  MemberInner.Inner inner = new MemberInner().new Inner();
+
+2.  Local 
+- 특정한 메서드 내에 클래스가 정의된 경우에 사용한다. 잘 안쓰임
+
+3. Static
+-  static 변수(클래스 변수)와 같이 클래스가 static으로 선언된 경우에 사용한다;  잘 안쓰임; 내부 클래스 객체 생성 안하고 직접 접근
+
+
+4. Anonymous 
+- 참조할 수 있는 이름이 없는 경우에 사용한다; 잘 쓰임
+ * Test t1 = new Test(){ 
+ * public int num = 10; 
+ * @Override 
+ * public int getNum(){
+ *  return this.num; } 
+ * }; 
+- 인스턴스 옆에 블럭이 있다는 점이겠다. 언뜻 보면 new Test()라는 소스코드 때문에 이 인스턴스는 Test의 이름을 가질 것 같지만, 결코 아니다. 이 인스턴스야 말로 정말 어떠한 이름도 없는 인스턴스 인 것이다. 해당 주장이 맞는 주장인지 근거를 제시해보겠다.
+- 먼저, 해당 인스턴스의 블럭안에는 @Override 어노테이션 주석이 존재한다. 즉, 원래의 Test 클래스에 존재하던 getNum 메서드가 아닌 재정의된 메서드 인점, 또한, 이 인스턴스의 this.num을 출력했을 경우 10이 나온다는 점이다.  오히려 이 인스턴스는 Test 클래스를 상속받은 클래스라고 바꿔 말해도 될 것이다.  평소에 자바언어를 사용하는 사용자라면, 상속을 어떻게 쓰는지 알 것이다. 클래스명 extends 상속받을 클래스     구조로 사용하는데 위의 소스 코드는 클래스명이 존재 하지 않고 무명의 어떠한 클래스가 부모클래스로 부터(Test) 상속을 받은 인스턴스 인 것이다. 즉 이름이 없으므로 생성자를 선언 할 수도 없는것이다.
+
+
 ## 내부 클래스 예제
  * package jg.begin.start.jae_0307;
  * 
@@ -2673,6 +2703,86 @@ public @interface Override {
 - 예외(수행 안멈춤; 정상 종료) -> 에러(수행 멈춤; 비정상 종료) -> 오류
 - 비정상종료하지 말고 정상종료시켜서 에러 이유를 알려줘라.
 
+## 예외처리
+- finally가 아니면 try catch를 개별적으로 잘 안쓰게됨
+
+## try catch 특징
+1. catch문은 예외가 발생될때만 실행 되므로 읽을땐 없다고 봐도 무방함!(가독성이 증가한다!!!)
+2. catch문은 오로지 throw 로만 이동이 가능하고, goto문으로도 불가능.
+3. catch문은 여러개 만들수 있다.(오버로딩과 비슷?!?! 하다.) 
+4. 예외가 발생할만한 코드가 try안에 있어야되는데 없으면 throw시 catch문을 못찾아 에러남
+5. 또한, throw했는데 객체타입을 catch문에서 받아줄 수 없을때 에러남
+
+
+## 스택 되감기
+ * try-catch 문에서 try{}블럭안에서 함수가 불리고 그 함수에서 throw를 한다고 가정해보자.
+ * 그럼 throw 를 하게 되면 어떻게될까?
+ * 그냥 goto문처럼 이동하는것일까?
+ * ex) 
+ * void Func()
+ * {
+ *      //어쩌구저쩌구~
+ *      int a;
+ *      throw a; 
+ * }
+ * 
+ * try{
+ *     Func();
+ * }catch( int i ){
+ *      //어쩌구저쩌구~
+ * } 
+ *  
+ * => 답은 X 아니다이다!
+ * 스택프레임에 쌓여있던 try{}안에서 함수를 호출한 호출원을 찾아 자기 자신의 스택을 정리한다.
+ * 이것을 스택 되감기(Stack Unwiding) 이라고 한다.
+
+
+## try-catch문의 단점
+1. 프로그램의 성능이 눈에 띄게 느려진다(스택되감기 기능만 생각해도 알만함~)
+2. try-catch를 쓰게 되면서 프로그램 용량이 커지게된다.( 소스길이가 증가함 )
+3. 전통적인 if-else 문을 모조리 바꿀 수 없다( 못바꾸는 예가 있다 )
+4. 동적할당한 메모리가 해제안될 수 있다.( throw때문에 )
+5. 템플릿에는 쓸 수 없다.( 예외 객체에 어디에 받아야 하는지 모르기때문!! )
+
+## Checked Exception과 Unchecked Exception의 가장 명확한 구분 기준
+- 은 ‘꼭 처리를 해야 하느냐’이다. Checked Exception이 발생할 가능성이 있는 메소드라면 반드시 로직을 try/catch로 감싸거나 throw로 던져서 처리해야 한다. 반면에 Unchecked Exception은 명시적인 예외처리를 하지 않아도 된다. 이 예외는 피할 수 있지만 개발자가 부주의해서 발생하는 경우가 대부분이고, 미리 예측하지 못했던 상황에서 발생하는 예외가 아니기 때문에 굳이 로직으로 처리를 할 필요가 없도록 만들어져 있다.
+- 또한 예외를 확인할 수 있는 시점에서도 구분할 수 있다. 일반적으로 컴파일 단계에서 명확하게 Exception 체크가 가능한 것을 Checked Exception이라 하며, 실행과정 중 어떠한 특정 논리에 의해 발견되는 Exception을 Unchecked Exception이라 한다. 따라서 컴파일 단계에서 확인할 수 없는 예외라 하여 Unchecked Exception이며, 실행과정 중 발견된다 하여서 Runtime Exception이라 하는 것이다.
+- 그리고 한 가지 더 인지하고 있으면 좋은 것이 있다. 바로 예외발생시 트랜잭션의 roll-back 여부이다. 기본적으로 Checked Exception은 예외가 발생하면 트랜잭션을 roll-back하지 않고 예외를 던져준다. 하지만 Unchecked Exception은 예외 발생 시 트랜잭션을 roll-back한다는 점에서 차이가 있다. 트랜잭션의 전파방식 즉, 어떻게 묶어놓느냐에 따라서 Checked Exception이냐 Unchecked Exception이냐의 영향도가 크다. roll-back이 되는 범위가 달라지기 때문에 개발자가 이를 인지하지 못하면, 실행결과가 맞지 않거나 예상치 못한 예외가 발생할 수 있다. 그러므로 이를 인지하고 트랜잭션을 적용시킬 때 전파방식(propagation behavior)과 롤백규칙 등을 적절히 사용하면 더욱 효율적인 애플리케이션을 구현할 수 있을 것이다.
+
+
+## 예외 복구
+ * int maxretry = MAX_RETRY;  
+ * while(maxretry -- > 0) {  
+ *     try {
+ *         // 예외가 발생할 가능성이 있는 시도
+ *         return; // 작업성공시 리턴
+ *     }
+ *     catch (SomeException e) {
+ *         // 로그 출력. 정해진 시간만큼 대기
+ *     } 
+ *     finally {
+ *         // 리소스 반납 및 정리 작업
+ *     }
+ * }
+ * throw new RetryFailedException(); // 최대 재시도 횟수를 넘기면 직접 예외 발생 
+ * - 예외복구의 핵심은 예외가 발생하여도 애플리케이션은 정상적인 흐름으로 진행된다는 것이다. 위 [리스트 1]은 재시도를 통해 예외를 복구하는 코드이다. 이 예제는 네트워크가 환경이 좋지 않아서 서버에 접속이 안되는 상황의 시스템에 적용하면 효율 적이다. 예외가 발생하면 그 예외를 잡아서 일정 시간만큼 대기하고 다시 재시도를 반복한다. 그리고 최대 재시도 횟수를 넘기면 예외를 발생시킨다. 재시도를 통해 정상적인 흐름을 타게 한다거나, 예외가 발생하면 이를 미리 예측하여 다른 흐름으로 유도시키도록 구현하면 비록 예외가 발생하였어도 정상적으로 작업을 종료할 수 있을 것이다.
+
+## 예외처리 회피
+ * public void add() throws SQLException {  
+ *     ... // 구현 로직
+ * }
+ * - 위 [리스트 2]는 간단해 보이지만 아주 신중해야하는 로직이다. 예외가 발생하면 throws를 통해 호출한쪽으로 예외를 던지고 그 처리를 회피하는 것이다. 하지만 무책임하게 던지는 것은 위험하다. 호출한 쪽에서 다시 예외를 받아 처리하도록 하거나, 해당 메소드에서 이 예외를 던지는 것이 최선의 방법이라는 확신이 있을 때만 사용해야 한다.
+
+## 예외 전환
+ * catch(SQLException e) {  
+ *    ...
+ *    throw DuplicateUserIdException();
+ * }
+
+- 예외 전환은 위 [리스트 3]에서 처럼 예외를 잡아서 다른 예외를 던지는 것이다. 호출한 쪽에서 예외를 받아서 처리할 때 좀 더 명확하게 인지할 수 있도록 돕기 위한 방법이다. 어떤 예외인지 분명해야 처리가 수월해지기 때문이다. 예를 들어 Checked Exception 중 복구가 불가능한 예외가 잡혔다면 이를 Unchecked Exception으로 전환하여서 다른 계층에서 일일이 예외를 선언할 필요가 없도록 할 수도 있다.
+- 이상으로 예외를 처리하는 3가지 방법을 알아봤다. 하지만 예외를 처리하는 방법보다도 초급 개발자가 가장 잊지 말아야 할 것은 예외를 잡고 아무런 처리도 하지 않는 것은 정말 위험한 행위라는 것이다. try/catch문으로 예외를 잡아놓고 catch를 비워두면 물론 컴파일 오류는 나지 않겠지만, 예외가 발생했을 때 그 원인을 파악하기가 어려워 개발은 물론 유지보수에 아주 치명적인 민폐를 끼치는 일이라고 생각한다. 따라서 어떤 처리를 해야 하는지 모르더라도 무작정 catch하고 무시하거나, throw해버리는 행위를 할 때는 더욱 신중해야 할 것이다
+
+
 ## 에러 발생 원인
 1. 사용자의 잘못 입력 => 방지: # 유효성 검사 / 레이아웃 지정
 - 1. 자바스크립트가 유효성 검사함. 2. HTML5에서는 자체적으로 유효성 검사
@@ -3047,6 +3157,387 @@ public @interface Override {
  * 비동기로직의 사용처 * 프레임에 너무 많은 명령을 적재하면 최초 1프레임의 렌더링이 늦어져 유저가 화면을 볼 수 있는 대기 시간이 길어진다. * 애니메이션 처럼 시간자체를 지연하고 싶어 지연한다. * 시스템이 수신하는 데이터(이벤트)는 시스템만 루프를 돌며 대기하고 스크립트는 발생한 후 통보를 받는 식으로 하여 부하를 줄일 수 있다. * 한 프레임에서 실행되는 명령에는 시간 제약이 있으므로 무거운 로직은 여러 프레임에 걸쳐 처리하도록 해야한다.
  * Promise
  * - 콜백 함수가 난무하게 되면 개발자가 코드를 알아보기 힘들뿐더러 디버깅, 유지보수 하기 매우 힘들어진다. 아래의 예시 사진은 callbackhell이라는 사이트에서 사용되는 한 이미지다. 콜백이 정말 많아서 한눈에 읽기 굉장히 불편하다.
+
+# 데이터 입출력
+- 데이터 입력출력은 클래스로 인해 이루어지고 데이터 흐름은 스트림으로 이뤄진다.
+- 데이터흐름(스트림) -> 데이터 전송(저장) -> 연속성(데이터베이스)
+- 입력  -  파이프  - 컴퓨터  - 저장 방법
+- 메모리: 배열
+- 파일, 데이터베이스(메모리에 연속성 부여 위해)
+- 외부 자원: - 원격 네트워크, 키보드/모니터, 파일, DMBS
+
+## 직렬화: 
+- (컴퓨터 - 파일) 사이에서 이루어지는 것
+- 자바에서는 인터페이스로 이루어짐
+- 직렬화(直列化) 또는 시리얼라이제이션(serialization)은 컴퓨터 과학의 데이터 스토리지 문맥에서 데이터 구조나 오브젝트 상태를 동일하거나 다른 컴퓨터 환경에 저장(이를테면 파일이나 메모리 버퍼에서, 또는 네트워크 연결 링크 간 전송)하고 나중에 재구성할 수 있는 포맷으로 변환하는 과정이다.[1]
+- 오브젝트를 직렬화하는 과정은 오브젝트를 마샬링한다고도 한다.[2] 반대로, 일련의 바이트로부터 데이터 구조를 추출하는 일은 역직렬화 또는 디시리얼라이제이션(deserialization)이라고 한다.
+
+
+
+# 텍스트, 바이너리
+- 자바에서 추상클래스로 이루어짐
+
+## 텍스트
+- 텍스트 파일을 보내고 나면 자원 해제를 꼭 해주어야 한다.
+
+
+# 스트림의 특징
+1. 파이프 구조 
+- 스트림은 먼저 보내진 데이터가 먼저 도착한다. 
+- 스트림은 데이터 발생지와 데이터 도착지에서 데이터의 순서가 바뀌지 않는다. 
+
+2. 일방통행 구조 
+- 출력 스트림은 출력 용도로만 사용되고 입력 스트림은 입력 용도로만 사용된다. 
+- 양방향으로 데이터가 움직이기 위해서는 데이터를 내보내는 출력 스트림과 데이터를 가져오는 입력 스트림 두 개가 필요하다
+
+3. 데이터 흐름의 추상화 
+- 데이터를 보내는 측과 데이터를 받는 측의 형태가 어떠한 것이든 간에 그들 간의 데이터 흐름을 스트림을 통해서 추상화 할 수 있다
+
+
+# 바이너리
+
+# 입출력 계열
+1. Node 계열 
+- Node 계열은 입출력의 기본 처리를 가공되지 않은 데이터인 원시 데이터를 직접 처리하는 클래스 계열로 상위 클래스인 추상 클래스들이다. 
+- FileInputStream, FileOutputStream: byte, 그림 등
+- FilreReader, FileWriter: Char 계열(문자 등)
+2. Filter 계열 
+- Node Filter 계열만 사용해서는 비효율적으로 처리가 되기 때문에 계열로 데이터를 효율적으로 처리한다
+## InputStream
+- FileInputStream
+- FilterInputStream
+-  BufferedInputStream
+- DataInputStream
+- ObjectInputStream
+## OutputStream
+- FileoutputStream
+- FilteroutptStream
+- BufferedOutputStream
+- DataoutputStream
+- PrintStream
+- ObjectoutputStream
+
+
+## DataInputStream
+- FileInputStream / FileOutputStream 과의 차이점은 자바 기본 자료형 데이터를 입/출력 할 수 있다는 것이다.
+- FileInputStream / FileOutputStream 은 byte[] 단위의 데이터만 입/출력을 할 수 있었다.  하지만 DataStream Filter를 적용함으로써, 자바 기본 자료형(char, int, long, ...) 으로 데이터를 입력하고 출력할 수 있다
+- 하지만 만약에 숫자 데이터를 읽어야 하는데 이 숫자 데이터를 읽기만 하면 문자나, 데이터 형식으로 읽을 수 밖에 없습니다. 그래서 코드상에서 읽고 쓸때 마다 항상 숫자 데이터로 변환을 해주야 하죠. 이렇게 데이터를 변환까지 해주어서 파일을 읽고 쓰는 클래스가 "DataInputStream", "DataOutputStream" 입니다.
+- 왜냐하면 "DataOutputStream" 클래스는 스스로 파일과 연동할수 없기 때문에 "FileOutputStream" 클래스의 도움을 받습니다.  한가지 팁이라고 할것도 없지만 클래스 이름에 "File"이라고 붙어있어야 직접적으로 파일에 읽고 쓰는게 가능합니다. 즉, 이번에 배울 "DataInputStream"과 "DataOutputStream"은 직적접으로 파일에 읽고 쓸 수는 없습니다.
+"readLine" 메소드도 있는데 이 메소드들은 원래는 한 라인씩 읽어 오는 메소드 인데, 자바에서는 사용하지 않기를 권장하고 있습니다.
+
+# Buffered
+1. 버퍼를 사용하는 이유는 빈번한 하드 디스크 접근을 막아 속도를 향상시킵니다.
+2. "BufferedInputStream", "BufferedOutputStream"는 바이트 단위로 읽고 쓰고,                       "BufferedReader","BufferedWriter"는 문자를 읽고 씁니다. 
+
+## BufferedInputStream
+- 예를 들어서 CPU 랑 메모리의 성능이 아무리 좋다고 해도 하드 디스크의 입출력 늦다면 프로그램의 실행 성능은 하드 디스크의 처리 속도에 따라 맞춰갑니다. 네트워크도 느린 네트워크 환경이라면 컴퓨터의 성능이 좋더라도 메신저 또는 게임의 속도가 느려집니다. 이에 대한 완전한 해결책은 없는데요, 프로그램이 입출력 소스와 직접 작업하는 대신에 중간에 메모리 버퍼와 작업함으로써 실행 성능을 어느 정도 향상 시킬 수는 있습니다. BufferedInputStream 과 BufferedOutputStream은 바이트 기반의 성능 향상 보조 스트림이고, BufferedReader 와 BufferedWriter는 문자 기반 성능 향상 스트림입니다. BufferedInputStream과 BufferedReader :  BufferedInputStream은 바이트 입력 스트림에 연결되어서 버퍼를 제공해주는 보조 스트림입니다. BufferedReader는 문자 입력 스트림에 연결되어서 버퍼를 제공해주는 스트림입니다. 위의 스트림은 둘 다 입력 소스로부터 자신의 내부 버퍼 크기만큼 데이터를 미리 읽고 버퍼에 저장합니다. 생성자 매개값으로 준 입력 스트림과 연결되어 8918 내부 버퍼 사이즈를 갖습니다. BufferedInputStream bis = new BufferedInputStream(바이트 입력 스트림); //  최대 8912 바이트 BufferedReader br = new BufferedReader(문자 입력 스트림); // 최대 8912 문자
+
+
+
+### BufferedInputStream 크기
+- public BufferedInputStream(InputStream in) 주어진 바이트 입력 스트림에 대한 BufferedInputStream 객체를 생성하고, 내부 버퍼의 크기인 512 바이트로 설정합니다.
+- public BufferedInputStream(InputStream in, int size) 주어진 바이트 입력 스트림에 대한 BufferedInputStream 객체를 생성하고, 내부 버퍼의 크기를 주어진 크기로 설정합니다.
+- public BufferedOutputStream(OutputStream out) 주어진 바이트 출력 스트림에 대한 BufferedOutputStream 객체를 생성하고, 내부 버퍼의 크기인 512 바이트로 설정합니다.
+- public BufferedOutputStream(OutputStream out, int size) 주어진 바이트 출력 스트림에 대한 BufferedOutputStream 객체를 생성하고, 내부 버퍼의 크기를 주어진 크기로 설정합니다
+
+# Object
+## Reader
+  - BufferedReader
+  - InputStreamReader
+    - FileReader
+
+# Object
+## writer
+- BufferedWriter
+- OutputStreamWriter 
+- FileWrite
+  - PrintWriter 
+
+
+
+## (1) File 클래스의 개요
+- File 클래스는 시스템에 존재하는 자원에 접근하여 프로그램에서 오브젝트로 이용할 수 있는 클래스이다.
+- File 클래스는 파일과 디렉토리에 관련된 메타데이터인 파일 생성, , , 파일명 읽기와 쓰기 모드, 파일 크기 등과 같은 처리 작업을 담당한다.
+
+
+## (2) File 클래스의 주요 메소드 
+- 가. createNewFile 메소드 createNewFile 메소드는 해당 파일을 생성해 주고 파일이 생성되면 true 를 반환한다. 
+- 나. delete 메소드 delete 메소드는 해당 파일을 삭제한다. 
+- 다. exists 메소드 exists 메소드는 해당 파일이 존재하는지를 판단한다. 
+- 라. getParent 메소드 getParent 메소드는 해당 파일의 상위 디렉토리 이름을 반환한다. 
+- 마. getName 메소드 getName 메소드는 해당 파일의 이름을 반환한다. 
+- 바. getPath 메소드 getPath 메소드는 해당 파일의 경로를 반환한다. 
+- 사. isFile 메소드 isFile 메소드는 파일인지를 판단한다. 
+- 아. length 메소드 length 메소드는 파일의 크기를 바이트 값으로 반환한다. 
+- 자. list 메소드 list 메소드는 파일 이름들을 반환한다. 
+- 차. lastModified 메소드 lastModified 메소드는 파일이 마지막에 변경된 시각을 반환한다. 
+- 카. mkdir 메소드 mkdir 메소드는 해당 이름의 디렉토리를 생성한다. 
+
+# 경로 구분자
+- \\ : 자바 내부적으로 돌아갈 때
+- /: 웹쪽으로 연동한다는 느낌
+
+# 바이너리 입출력
+## FileInputStream
+- 파일을 생성하지 못한다. 이미 있는 파일만 생성 가능하다.
+
+### FileInputStream 클래스의 주요 메소드 
+- A. finalize 메소드 finalize 메소드는 더 이상 참조하는 것이 없을 경우에 close 메소드를 호출한다.
+- B. getChannel 메소드 getChannel 메소드는 FileChannel 클래스 인스턴스를 반환한다. 
+
+## ByteArraylnputStream 클래스
+- A. mark 메소드 mark 메소드는 스트림의 현재 표시된 위치를 설정한다. 
+- B. reset 메소드 reset 메소드는 버퍼를 표시된 위치로 재설정한다
+
+
+## SequencelnputStream 클래스
+- SequencelnputStream 클래스는 여러 개의 입력 스트림을 하나의 입력 스트림으로 연결해서 데이터를 읽어온다. 
+- SequencelnputStream 클래스는 각 입력 스트림의 끝에 도달할 때까지 읽는다. 
+- SequencelnputStream 클래스는 해당 스트림을 닫고 자동으로 다음 입력 스트림으로 전환한다. 
+
+### SequencelnputStream 클래스의 주요 메소드 
+- A. read 메소드 read 메소드는 입력 스트림에서 다음 데이터의 바이너리를 읽는다. 
+- B. close 메소드 close 메소드는 입력 스트림을 닫고 스트림과 연관된 시스템 자원을 해제한다.
+
+## FileOutputStream
+- FileOutputStream 클래스를 생성할 때에 지정한 경로에 파일이 없으면 자동으로 생성해 준다. (디렉토리는 제외하고)
+- OutputStream 추상 클래스는 바이너리 출력 스트림의 최상위 클래스이다. 
+- OutputStream 추상 클래스의 서브 클래스를 정의해야 하는 프로그램은 항상 바이너리의 출력을 기록하는 메소드를 최소한 하나는 제공해야 한다.
+
+### OutputStream 추상 클래스의 주요 메소드 
+- 가. write 메소드 write 메소드는 내용을 기록한다. 
+- 나. flush 메소드 flush 메소드는 버퍼에 담겨 있는 데이터들을 호출한다. 
+- 다. close 메소드 close 메소드는 스트림을 해제한다
+
+### OutputStream 추상 클래스의 하위 클래스
+### FileOutputStream 클래스
+- ① FileOutputStream 클래스의 개요 FileOutputStream 클래스는 특정한 대상 파일로 바이너리 단위로 내용을 출력한다. 
+- FileOutputStream 클래스를 생성할 때에 지정한 경로에 파일이 없으면 자동으로 생성해 준다. 
+- FileOutputStream 클래스는 추가 처리를 위한 인자로 가지고 있으며 true로 설정되면 기존에 존재하고 있는 파일의 가장 뒷부분에 연결하여 출력된다. 
+
+### 주요 메소드
+- A. getChannel 메소드 getChannel 메소드는 OutputStream 추상 클래스와 연관된 FileChannel 클래스의 인스턴스를 반환한다. 
+- B. getFD 메소드 getFD 메소드는 OutputStream 추상 클래스와 연관된 FileDescriptor 클래스의 인스턴스를 반환한다.
+
+# 파일 만들기 예제
+ * package jg.begin.start.jae_0313;
+ * 
+ * import java.io.File;
+ * import java.io.IOException;
+ * 
+ * public class A {
+ * 
+ *   public static void main(String[] args) throws IOException {
+ *     // 외부자원으로 연결하는 인스턴스는 무조건 로컬변수로 지정한다.
+ * 
+ *     File file = null;
+ * 
+ * //    file = new File("C:\\javaio\\jaetest11.txt");  // 둘다 가능
+ *     file = new File("C:\\javaio", "jaetest11.txt"); // 둘다 가능
+ *     file.createNewFile();
+ *   }
+ * 
+ * }
+
+
+## 파일 클래스 구현 후 파일 메소드 연습하기
+ * package jg.begin.start.jae_0313;
+ * 
+ * import java.io.File;
+ * import java.io.IOException;
+ * import java.util.Date;
+ * 
+ * public class A {
+ * 
+ *   public static void main(String[] args) throws IOException {
+ *     // 외부자원으로 연결하는 인스턴스는 무조건 로컬변수로 지정한다.
+ * 
+ *     File file = null;
+ * 
+ * //    file = new File("C:\\javaio\\jaetest11.txt");  // C:\\javaio 경로에 jaetest11.txt 파일 생성
+ *     file = new File("C:\\javaio", "jaetest11.txt"); // C:\\javaio 경로에 jaetest11.txt 파일 생성; 위의 메소드와 동일
+ *     file.createNewFile(); // 해당 파일을 생성해 주고 파일이 생성되면 true 를 반환
+ *     // file.delete(); // 해당 파일을 삭제한다.
+ * 
+ *     System.out.println(file.getParent()); // 해당 파일의 상위 디렉토리 이름을 반환
+ *     System.out.println(file.getPath()); // 해당 파일의 경로를 반환
+ *     System.out.println(new Date(file.lastModified())); // 파일이 마지막에 변경된 시각을 반환한다
+ * 
+ *     if (file.exists()) { // 해당 파일이 존재하는지를 판단
+ *       System.out.println("있다.");
+ *     } else {
+ * 
+ *     }
+ *   }
+ * 
+ * }
+
+## 파일의 리스트 확인
+ * package jg.begin.start.jae_0313;
+ * 
+ * import java.io.File;
+ * import java.io.IOException;
+ * import java.util.Date;
+ * 
+ * public class A {
+ * 
+ *   public static void main(String[] args) throws IOException {
+ *     // 외부자원으로 연결하는 인스턴스는 무조건 로컬변수로 지정한다.
+ * 
+ *     File file = null;
+ * 
+ *     file = new File("C:\\javaio"); // C:\\javaio 경로에 jaetest11.txt 파일 생성; 위의 메소드와 동일
+ * 
+ *     // 파일의 리스트를 호출하고 1차원 배열에 저장한다.
+ *     File[] files = file.listFiles();
+ * 
+ *     // 파일의 리스트를 반복한다.
+ *     for (int i = 0, j = 0; i < files.length; i++) {
+ * 
+ *       // 파일의 마지막 글자 형태를 확인한다.
+ *       if (files[i].getName().endsWith(".txt")) {
+ *         System.out.println(j++ + 1 + " : " + files[i].getName());
+ *       }
+ * 
+ *     }
+ * 
+ *   }
+ * 
+ * }
+
+
+## inputstream 값 받기
+ * package jg.begin.start.jae_0313;
+ * 
+ * import java.io.IOException;
+ * import java.io.InputStream;
+ * 
+ * public class B {
+ * 
+ *   public static void main(String[] args) throws IOException {
+ * 
+ *     InputStream inputStream = System.in; // bufferedInputStream 출력됨.
+ *     int num = inputStream.read() - 48;
+ * //    char num = (char) inputStream.read();  // 타입을 입력과 출력 때 변경하는 것은 비효율적
+ * 
+ *     System.out.println(num);
+ *     System.out.println(inputStream.read());  // 캐리지 리턴 13 출력
+ *     System.out.println(inputStream.read());  // 캐리지 리턴 10 출력
+ * 
+ *   }
+ * 
+ * }
+ * 
+
+# 텍스트
+- 자원해제를 반드시 해주어야 한다.
+- Reader와 Writer는 장소를 기억한다.
+
+## FileWriter
+- AutoClose 기능 가지고 있음.
+
+## Printwriter
+- 서블릿에서 사용; Printwriter out
+-  인코딩 성격도 같이 보내주기 때문에 좋음
+- PrintWriter를 쓰기 위해선 close 필수, 메모리에서 해제되기 전에 값 저장 안됨.
+- AutoClose기능을 가지고 있지만 반드시 close로 닫아줘야 한다는게 명시되어 있음.
+- PrintWriter 클래스는 데이터를 포맷해서 파일로 기록하므로 설정된 인코딩로 함께 기록한다. 
+- PrintWriter 클래스는 텍스트 출력 스트림에 대한 인스턴스의 인쇄 형식으로 표현하며 서블릿에서 사용한다. 
+- PrintWriter 클래스의 메소드는 입출력 예외를 던지지 않으며 클라이언트 코드는 예외가 발생할 경우에는 checkError 메소드를 호출하여 조회할 수 있다.
+
+### 주요 메소드
+#### A. checkError 메소드 
+- checkError 메소드는 스트림을 출력하고 오류 상황을 점검한다. 
+#### B. print 메소드 
+- print 메소드는 매개변수에 지정한 데이터를 출력한다. 
+
+
+#### C. println 메소드 
+- println 메소드는 행의 단락 캐릭터 라인을 기입하고 현재의 행을 종료시킨다. println 메소드는 Object 클래스의 인스턴스 동기화를 이루고 print 메소드와 println 메소드를 반환한다. println 메소드는 print 메소드와 같이 매개변수에 지정한 데이터를 출력한다. 
+
+
+### D. write 메소드 
+- write 메소드는 문자와 문자의 배열 그리고 캐릭터 라인을 기록한다.
+
+
+
+## PrintWriter 예제
+ * package jg.begin.start.jae_0313;
+ * 
+ * import java.io.BufferedWriter;
+ * import java.io.File;
+ * import java.io.FileWriter;
+ * import java.io.IOException;
+ * import java.io.PrintWriter;
+ * 
+ * public class C {
+ * 
+ *   public static void main(String[] args) throws IOException {
+ *     File file = new File("C:\\javaio\\jae.html");
+ * 
+ *     FileWriter fileWriter = new FileWriter(file);
+ *     // 버퍼링
+ * 
+ *     BufferedWriter bufferedWriter = new BufferedWriter(fileWriter);
+ *     PrintWriter out = new PrintWriter(bufferedWriter);  // 인코딩 성격도 같이 보내주기 때문에 좋음
+ *     out.println("<marquee> 자바 정복 </marquee>");
+ *     out.close(); // PrintWriter를 쓰기 위해선 close 필수, 메모리에서 해제되기 전에 값 저장 안됨.
+ *   }
+ * }
+
+
+# Buffered
+1. 버퍼를 사용하는 이유는 빈번한 하드 디스크 접근을 막아 속도를 향상시킵니다.
+2. "BufferedInputStream", "BufferedOutputStream"는 바이트 단위로 읽고 쓰고,                       "BufferedReader","BufferedWriter"는 문자를 읽고 씁니다. 
+- BufferedReader b_reader = new BufferedReader(f_reader, 1024)
+
+## BufferedReader
+- BufferedReader 클래스는 Reader 추상 클래스의 스트림에 버퍼 기능을 추가한다. 
+- BufferedReader 클래스는 버퍼로부터 데이터를 차례대로 읽어 들이기 때문에 성능이 좋아진다. 
+- BufferedReader 클래스는 문자행을 효율적으로 읽기위해서 문자를 버퍼링하며 버퍼 크기를 지정하거나 기본 크기를 사용할 수 있다. 
+- 여기서 특이한 점은 "readLIne"이라는 메소드가 눈에 보입니다. "FileReader"에서는 볼수 없었던 메소드인데요. 의미는 한 라인씩 읽어 오는 메소드 입니다. 개행문자 "\n"을(줄바꿈 문자) 기준으로 읽어 온다고 생각하시면 됩니다.
+
+
+
+## Scanner와의 차이
+- Java를 처음 접하시는 분들이 주로 받는 입력방식은 Scanner입니다. Scanner를 통해 입력을 받을경우 Space Enter를 모두 경계로 인식하기에 입력받은 데이터를 가공하기 매우 편리합니다. 하지만 그에비해 BufferedReader는 Enter만 경계로 인식하고 받은 데이터가 String으로 고정되기때문에 입력받은 데이터를 가공하는 작업이 필요할경우가 많습니다. Scanner에 비해 다소 사용하기 불편하죠. 하지만 많은 양의 데이터를 입력받을경우 BufferedReader를 통해 입력받는 것이 효율면에서 훨씬 낫습니다. 입력시 Buffer 메모리줌으로써 작업속도 차이가 많이납니다.
+
+## 선언법
+ * BufferedReader bf = new BufferedReader(new InputStreamReader(System.in)); //선언
+ * String s = bf.readLine(); //String
+ * int i = Integer.parseInt(bf.readLine()); //Int
+ * - 선언은 위에 있는 예제와 같이 하시면 됩니다. 입력은 readLine();이라는 메서드를 활용하시면 되는데요. 여기서 주의할점이 두가지가 있습니다. 첫번째는 readLine()시 리턴값을 String으로 고정되기에 String이 아닌 다른타입으로 입력을 받을려면 형변환을 꼭 해주어야한다는 점입니다. 두번째는 예외처리를 꼭 해주어야한다는 점입니다. readLine을 할때마다 try & catch를 활용하여 예외처리를 해주어도 되지만 대개 throws IOException을 통하여 작업합니다.
+
+
+
+
+## Read 데이터 가공
+ * - StringTokenizer st = new StringTokenizer(s); //StringTokenizer인자값에 입력 문자열 넣음
+ * int a = Integer.parseInt(st.nextToken()); //첫번째 호출
+ * int b = Integer.parseInt(st.nextToken()); //두번째 호출
+ * 
+ * 
+ * String array[] = s.split(" "); //공백마다 데이터 끊어서 배열에 넣음
+ * -  Read한 데이터는 Line단위로만 나눠지기에 공백단위로 데이터를 가공하려면 따로 작업을 해주어야하는데요. 위의 두가지 방법이 대표적입니다. 첫번째 방법으로는 StringTokenizer에 nextToken()함수를 쓰면 readLine()을 통해 입력받은 값을 공백단위로 구분하여 순서대로 호출할 수 있습니다. 두번째방법으로는 String.split()함수를 활용하여 배열에 공백단위로 끊어서 데이터를 넣고 사용하는 방식입니다.
+ * 
+ * 
+
+
+## BufferedWriter
+- BufferedWriter 클래스에는 플래시 기능이 구현되어 있기 때문에 플래시를 해주어야 데이터들이 최종적으로 대상으로 출력된다. BufferedWriter 클래스는 버퍼의 사이즈 보다 데이터를 더 많이 출력하면 플러시를 하지 않아도 자동으로 플러시 처리가 되면서 출력 스트림에 출력된 내용들이 대상으로 출력된
+- 일반적으로 출력을할때 System.out.println(""); 방식을 사용하고는 합니다. 적은양의 출력일 경우 성능차이가 미미하겠지만 많은 양의 출력에서는 입력과 마찬가지로 Buffer를 활용해주시는것이 좋습니다.
+### BufferedWriter 사용법
+- BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));//선언
+String s = "abcdefg";//출력할 문자열
+bw.write(s+"\n");//출력
+bw.flush();//남아있는 데이터를 모두 출력시킴
+bw.close();//스트림을 닫음
+
+- BufferedWriter 의 경우 버퍼를 잡아 놓았기 때문에 반드시 flush() / close() 를 반드시 호출해 주어 뒤처리를 해주어야합니다. 그리고 bw.write에는 System.out.println();과 같이 자동개행기능이 없기때문에 개행을 해주어야할 경우에는 \n를 통해 따로 처리해주어야합니다.
+
+
+## 바이너리
+- 초기값 0(공간이 비어있다.), 1 공간이 있음이 아닌 -1로 한다.
 
 
 -------------------
