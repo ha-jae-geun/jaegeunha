@@ -111,6 +111,7 @@
 	* add; I just wanna add more data, you can add money to it
 	* #배차간격; how often does the bus run?
 * #직행 버스; there's not a #direct bus
+	* 버스 타다; take a wrong bus 잘 안쓰고; get on the bus 사용
 	* 67번 버스 언제와요? When will bus 67 arrive?
 	* 버스 손잡이 잡고 복도에 서있었어; She stands in the aisle, holding on a bus strap
 	* Which bus should I take to get to downtown

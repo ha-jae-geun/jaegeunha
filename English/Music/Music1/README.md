@@ -236,6 +236,7 @@
  * 러브홀릭스: Butterfly, Raining
  * 로맨틱 펀치: 토요일은 밤이 좋아
  * 로이킴: 사랑은 늘 도망가
+ * 로만티코 (Romantico) - Close To You (Feat. 대니엘)
  * 로코: 나타나줘, 지나쳐, 주지마, 우연히 봄, Respect
  * 를(Lel)- 어쩌면
  * 리쌍: 사랑은

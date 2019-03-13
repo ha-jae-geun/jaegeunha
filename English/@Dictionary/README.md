@@ -4323,6 +4323,7 @@ retaliate
 * 우리 집 근처 도로는 고르지 않고 울퉁불퉁해.  ex) The road near my house is uneven and bumpy.
 
 # 불만
+* 불만 없어; i got no problems;; 불만 많아; He's got problems with everything
 * rant는 감정적으로 격앙되어서 큰 소리로 소리지르거나 주저리 주저리 불평하는 것을 의미합니다. 몰래카메라에서 나온 남자는 아이들에게 흡연의 폐해에 대해 아이들에게 이러쿵 저러쿵 쉬지 않고 떠들고 있기 때문에 ‘설교’라고 해석한 것입니다.  한 단계 더 강조해서 rant and rave 라고 하기도 하는데요, 계속 큰 소리로 고함지르고 불평한다는 뜻입니다. 
 	* 그녀는 항상 정부가 불공평하다며 불평을 해댄다. She is always ranting about the unfairness about the government.
   * 불평 없이 무언가를 열심히 하는 사람: trooper
@@ -7533,6 +7534,10 @@ retaliate
 
 
 # 제외
+* other colors besides pink = 분홍색 외에 다른 색상; 여러분은 besides 와 except 의 차이를 알고 계시나요? 한국어로는 둘 다 ‘빼고/외에’ 등으로 해석돼서 헷갈리는 경우가 있는데요, 사실 이 둘의 의미는 전혀 다릅니다; 
+    * ⓐ I wear every color besides pink. (분홍색 외에도)
+    * ⓑ I wear every color except pink. (분홍색만 빼고)
+    * 여기서 ⓐ는 분홍색 뿐만 아니라 모든 색상을 입는다는 뜻인 반면, ⓑ는 분홍색만 제외하고 다 입는다는 겁니다. 즉 [besides+명사] 는 ‘명사 포함’이고, [except+명사] 는 ‘명사 불포함’ 인거죠. 참고로 –s 는 꼭 제대로 발음해 주세요. beside 는 “~옆에”로 아예 다른 단어거든요!
 * -을 제외하고; aside from = arpart from = other than
 * A 를 고려 사항에서 빼다. 제외하다. = take(leave) A out of the equation.
   * 지금은 그걸 제외해서 생각하는 게 좋을 것 같아. ex) I think we'd better take it out of the equation for now.

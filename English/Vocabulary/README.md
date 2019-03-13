@@ -76,6 +76,9 @@
 # 전치사
 * 전치사는 방향성이 있따
 
+## to 부정사
+* all he ever does is study;  do/does 뒤에는 to가 와서는 안된다.
+
 ## to, for
 * to: 주어의 실체가(몸이)도착하는 지점; i just went to your building
 * for: 주어의 몸 이외의 것이 도착하는 지점, 방향; ARe we waiting for ~
@@ -3971,7 +3974,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## hike
 * 가볍게 산 오르기 <> climb
 
+## hiatus
+* 쉬다; hiatus 미국·영국 [haɪˈeɪtəs]; 공백기를 가지다; It will be a one week hiatus
+
 ## high
+* [Noun] (US) A student at a high school highschooler Wiktionary 미국식  영국식 
 * 나는 지갑을 찾아 온 데를 뒤졌다. I’ve searched high and low for my purse. 
 * # 극비 문서; The most # highly classified documents
 * # 막막; high and dry는 어려운 상황, 막막한 상황을 뜻합니다. 보통 leave someone high and dry라고 표현하여 ‘어떤 도움도 없이 혼자 남겨두다’라고 표현합니다.
@@ -5230,6 +5237,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## mine
 * 내 친구; a buddy/friend of mine
+* minefield = 잠재적 위험이 포진한 곳; mine 이 '지뢰'를 뜻하기 때문에 minefield는 '지뢰밭'의 의미를 가집니다. 땅에 묻혀있어서 보이지 않지만 굉장히 위험한 곳이기에 비유적 표현으로 [잠재적 위험이 포진해 있는 곳/분야]를 의미합니다.
+  * = 그는 이게 법적으로 보이지 않는 위험이 도사리는 곳이라고 말했고, 그가 옳았어. I said it would be a legal minefield and he was right about that.
 
 ## mind
 * top of mind = 가장 먼저 떠오르는, 가장 신경쓰는
@@ -5695,6 +5704,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## pace
 * 전개가 느렸어; The pacing was too slow
+
+## patience
+* 인내심이 메말라간다; My patience is wearing thin
 
 ## pathetic
 * 1. 불쌍한, 애처로운 2. 한심한, 무기력한 상대방의 한심하고 무기력한 모습에 짜증난 상태로 강하게 말할 땐 영상에서처럼 2번의 의미를 가집니다. 2번의 의미로 쓰일때는 비격식 표현입니다. 일상 영어에서는 1번 의미로 쓰이는 경우가 잘 없고, 2번의 의미에 부정적이고 냉소적인 늬앙스까지 더해져 쓰이는 경우가 대부분이니 사용에 주의해주세요. (좀 심한 말이라 남한테 쓰는 말로 잘 안 쓰이고 자책할 때 많이 쓰입니다)
@@ -7002,6 +7014,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 제발 이제 일장연설 좀 그만해. Please get off your soapbox.
   * 갑자기 그녀는 정치개혁에 대해서 의견을 내세웠다. All of sudden she got on her soapbox about political reform.
 
+## syllabi
+* [명사] SYLLABUS [ˈsɪləbəs] 의 복수 syllabi 미국·영국 [síləbài]  영국식   단어장추가
+
 ## synonym
 * '대명사다', '상징이다', '-와 같다고 볼 수 있다'; 동의어' 라는 의미의 "synonym" 의 형용사 형태인 "synonmous" 를 "with" 와 함께 사용하여 "synonmous with" 라고 하면 ​ ˈsɪnənɪm]
 
@@ -7671,6 +7686,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 너와 함께 보낸 모든 시간들이 정말 빨리 지나갔네. ex) All those years that I spent with you together have slipped away.
   * 강의에서 몰래 빠져나왔어. ex) I slipped away from the lecture. &lt;소리없이 사라지다&gt;
   * 할아버지께서 어제밤에 자는 도중 돌아가셨어. ex) My grandfather slipped away in his sleep last night. &lt;잠들다, 돌아가시다&gt;
+
+### slip away
+* slip 은 '미끄러지다'라는 의미의 동사인데요. '멀리, 멀어지는, 사라지는'의 의미를 가진 away 와 함께 쓰여 1) 누군가가 인사도 없이 떠나거나, 2) 무언가가 천천히 사라질 때, 그리고 3) 비유적 표현으로 누군가가 작별 인사 없이 편안히 돌아가신 모습을 표현하는 단어입니다.
+  * = 결국 모든 건 서서히 사라지게 돼있어. Everything is slipping away in the end.
 
 ## slight
 * slight 는 형용사로는 [관심을 기울이지 않아도 될 만큼 가벼운], 명사로는 [무시, 모욕], 동사로는 [무시하다] 라는 의미를 가져요. 누군가를 가볍게 여기고 리스펙 하는 것 없이 행동하는 것인데요. 그래서 주로 수동태로 쓰이면서 [무시당하다] 라는 의미를 가집니다. = be(feel) slighted
@@ -8920,6 +8939,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## temperature
 * What's the temperature like today / i'm going to take your temperature
 
+## tender
+* 내 급소; My tenders
+
 ## ten
 * : (구어) 여기서 ten이란 마치 10점 만점에 10점인 사람처럼 매우 매력적이고 멋진 대상을 나타냅니다. "I'm feeling like a ten"은 "내가 10점짜리 사람처럼 느껴진다"로 해석할 수 있는데요, "오늘 나 정말 멋진 것 같아", "나 오늘 자신감 최고야" 등으로도 해석 할 수 있습니다. 하지만 사람의 외모에 점수를 매기는 행위는 좋지 않으니 다른 이에게 이런 표현을 쓰는 건 조심하도록 해요!
   * 나 완전 잘생긴/에쁜 사람들 만날 정도로 섹시하거든? I’m sexy enough to date tens, you know?
@@ -9368,6 +9390,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 5분만 주면 국수 금방 만들어줄게. ex) Give me five minutes, and I will whip up some noodles for you.
 
 ## wide
+* 단어와 뜻을 보면 전혀 어려운 것 같지 않은 단어이지만 의외로 많은 분들이 widely open 또는 open widely 라고 잘못 알고 계신 표현이에요. wide open 은 한 단어처럼 많이 쓰이니 함께 알아두세요.
+  * = 들어와도 돼. 문은 활짝 열려있어. You can come in. The door's wide open.
 * 2) far and wide = 널리, 넓은 지역에 걸쳐
   * 그는 전세계의 여러 지역을 여행하곤 했다. He used to travel far and wide through the world.
 * 입을 크게 벌려주세요; Open wide, please
@@ -9507,6 +9531,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그들은 그녀를 고발하기 전에 모든 증거를 면밀히 조사했다. They weighed (up) all the evidence before they filed charges against her
 * 우리말에서도 무언가 중요한 것에 [비중을 두다] 라는 말을 쓰듯이, 영어에서도 똑같이 [무게] 를 의미하는 weight 를 씁니다. due 는 형용사로 명사 앞에서만 쓰일 경우엔 [적절한] 이라는 의미를 가져요. 영상에서는 조금 더 자연스러운 의미 전달을 위해 [적절하게 살펴보지 못했다] 라고 해석이 되었습니다.
   * 그녀는 엄마의 의견을 더욱더 중요시하는 경향이 있다. ex) She tends to give greater weight to her mom's opinions.
+
+### weigh on
+* weigh on 사람 = -를 짓누르다, 부담을 주다
+  * = 프로젝트가 마침내 끝나서 너무 좋아! 진짜 부담됐거든. I'm just so happy that the project is finally over! It was heavily weighing on me.
 
 ## whammy
 * 이 표현이 유명하게 된 경로는, 1950년대 한 만화책의 캐릭터가 사람을 눈으로 쳐다보면 마비를 시키는 능력이 있었는데, 한 눈으로 쳐다보는 걸 'single whammy', 두 눈으로 쳐다보는 것을 'double whammy'라고 했죠. 하나보다는 두 눈으로 쳐다보는 위력이 더 강했겠죠? 이 이야기에서 응용하여, 누가 불행을 겪는다든가, 누군가에 저주를 건다든가, 큰 타격을 받았을 경우를 'whammy'를 빗대어 말하게 되었습니다. 
