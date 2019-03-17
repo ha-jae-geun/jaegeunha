@@ -8876,6 +8876,7 @@ retaliate
 
 # 팔짱
 * 팔짱끼고 걸어가고있따; They're walking arm in arm
+  * 미국은 with my arms crossed; 영국은 folded; cross your arms; link arms
 
 # 편
 * 전 당신편이에요; i'm in your corner
@@ -9586,6 +9587,7 @@ retaliate
   * 청바지를 건조기에 넣지 (돌리지) 마십시오 / 널어서 말리는 게 좋아요  You don't put your jeans in the dryer. You should hang-dry them. 
   * 빨래대에 널기 전에 청바지를 짜주세요  Wring your jeans out before you hang them on the laundry rack
   * 빨래집개 clothes pin; 주걱: rice paddle; spatula  [ˈspætʃələ] 
+  * 빨랫대; clothesline; 건조대: drying rack; be hanging clothes on the clothesline
   * 일단 빨래에서 흰색 옷을 분류하세요 sort sb/sth out from
  * First sort the white things out from the laundry.
  * 빨래통에 있었어; he was in your hamper

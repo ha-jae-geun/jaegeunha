@@ -2136,6 +2136,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 이 악물고 버텨. 넌 할 수 있어. Clench your teeth. You can do it.
 
 ## clear
+* [동사] 아무개의 결백을 증명하다, 오명을 씻다. clear one's name 미국식  영국식   단어장추가
 * 다 해치웠다(먹었따;); cleared it!
 * 1) clear the ground = 땅을 닿지 않고 날라가다; 문맥에 따라 ‘땅을 정리하다’가 될 수도 있지만 이 문장에서 clear 는 [닿지 않고 넘어가다] 라는 의미로 쓰였어요. 즉 fly 대신 표현한 말이죠. 
   * = 그들은 땅을 정리하고 그 곳에 집을 하나 지었다. They cleared the ground and built a house.
@@ -2942,6 +2943,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * chew the fat, 직역하면 지방을 씹다인데요, 편한 주제로 오래동안 잡담하고, 수다떠는 것을 말해요. chew the rag 이라고도 합니다.
       * 우리는 그날 저녁 대부분 잡담이나 하면서 바에 앉아있었다. We sat in a bar most of the evening just chewing the fat.
 
+## fancy
+* 마음에 들다 catch[take] one's fancy 미국식  영국식   단어장추가
+
 ## fanny
 * fanny는 엉덩이란 뜻이고 엉덩이 주변에 차는 가방이라서 fanny pack이라고 부릅니다. 엉덩이의 또 다른 단어인 bum을 사용하여 bum bag이라고도 합니다. 
     * 힙색 앞으로 차지 마. 이상해 보여. Don’t wear your bum bag on the front. It looks weird. 
@@ -3712,6 +3716,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 원디렉션 팬 무리/덕후 [ex] One direction groupies
 
 ## ground
+* (미식축구) 쿼턱백이 부상으로 뛰지 못하게 되었다 The quarterback was grounded by an injury.
+* 운항 중지 당하다. (여기서 are grounded는 수동태 - 운항이 중단되다, 운항중지 당하다)
 * 일주일 외출금지야; You are grounded one week
 * 1) clear the ground = 땅을 닿지 않고 날라가다; 문맥에 따라 ‘땅을 정리하다’가 될 수도 있지만 이 문장에서 clear 는 [닿지 않고 넘어가다] 라는 의미로 쓰였어요. 즉 fly 대신 표현한 말이죠. 
   * = 그들은 땅을 정리하고 그 곳에 집을 하나 지었다. They cleared the ground and built a house.
@@ -4200,6 +4206,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 온상; 그 지역은 범죄의 온상이었다. The area was a hotbed of crime. 
 *  ((국제 금융 시장에서 높은 수익을 노리고 유동하는 단기 자금)) hot money
 * 내가 그에게 하루 종일 어디 있었었냐고 묻자 그는 몹시 당황스러워 했다. He got very hot under the collar when I asked him where he’d been all day. 
+
+## had better
+* 경고나 위험의 의미가 있ㅇ어 should보다 강하고 have to 보다 약함
 
 ## haul
 * 가끔 유튜브 보면 음식, 옷, 화장품가 같은 물건을 잔뜩 쇼핑하고 그것을 소개하는 영상이 있죠. 그것을 haul 이라고 해요. 가서 쓸어 담아 왔다는 거죠. 
@@ -4745,6 +4754,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * ○ 노벨 문학상을 받은 밥 딜런의 Knockin' on Heaven's Door 노래가 생각납니다^^
   * #knock out; 쓰러지다; I was knocked out
   * #knock up; 임신시키다 knock someone up; long enough to knock her up
+
+### knock on 
+* 너 머리 엄청 세게 박았네.ㅋㅋ You had a nasty knock on the head.​
 
 ## luggage
 ## baggage
@@ -5519,6 +5531,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 위험천만한 추락 [ex] a nasty fall 3. 심각한, 위험한
 
 ## name
+* [동사] 아무개의 결백을 증명하다, 오명을 씻다. clear one's name 미국식  영국식   단어장추가
 * 난 유명해지는 것 이외에는 다른 건 신경 안 써. ex) I don't care about anything else other than making a name for myself. = make a name for oneself
 * 연예계에서 이름을 알리다; he already made a big name in the entertainment industry
 
@@ -5711,6 +5724,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 꼼짝없이 당하다; You guys were caught with your pants down
 
 ## page
+* [명사] (비격식) (책장 넘기기가 바쁠 정도로) 흥미진진한 책 page-turner 미국식  영국식   단어장추가 2. 악보 넘겨주는 사람
 * : 본보기로 삼다, 본받다 take a page out of one's book; 한권의 책에는 글쓴이 한사람의 인생과 지혜가 담겨 있죠. 책의 한 페이지를 취하겠다(take)를 다른 말로 그 사람을 본받겠다는 의미가 됩니다. take a page out of one's book  = take a leaf out of one's book
   * 우리는 자연에서 배울점이 많다. We need to take a leaf out of nature’s book.
 
@@ -5772,6 +5786,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## patience
 * 인내심이 메말라간다; My patience is wearing thin
+
+
+## path
+* 우린 약간 인적이 드문 곳에 있는 휴양지를 찾고 싶었어요. We wanted to find a vacation spot that was a little bit off the beaten path.
+  * "beaten path" 은  사람들이 자주 다녀 '다져진 길' 을 뜻하는데 "off the beaten path" 는
 
 ## pathetic
 * 1. 불쌍한, 애처로운 2. 한심한, 무기력한 상대방의 한심하고 무기력한 모습에 짜증난 상태로 강하게 말할 땐 영상에서처럼 2번의 의미를 가집니다. 2번의 의미로 쓰일때는 비격식 표현입니다. 일상 영어에서는 1번 의미로 쓰이는 경우가 잘 없고, 2번의 의미에 부정적이고 냉소적인 늬앙스까지 더해져 쓰이는 경우가 대부분이니 사용에 주의해주세요. (좀 심한 말이라 남한테 쓰는 말로 잘 안 쓰이고 자책할 때 많이 쓰입니다)
@@ -6541,6 +6560,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * #push aside; 제쳐두고; they will not be pushed aside and turned
   * #push button; . You really know how to push my buttons!; 나를 화나게 만드는 방법을 잘 아네요
   * #push off; #떠나가다
+
+### push forward
+* 회의 시간 당겨줄 수 있어요; Can yoyu push the 9:30 meeting forward to 7?
 
 ### push back
 * 변화에 대한 반발을 pushback 이라고 합니다. 무언가가 나아가려고 하는데 뒤로(back) 밀어버린다(push)는 거죠. 
@@ -8096,6 +8118,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * #활력소; a #shot in the arm
 * 다음 면접으로 급히 가야 했었어. ex) I had to shoot off to my next interview.
 
+### shoot off
+* 입을 함부로놀리기 시작했다; start shooting his mouth off at the boss
+
 ## shoe
 * 내가 너였더라도; In your shoes
 * * 겁내지 마라. No need to shake/tremble in your shoes/boots
@@ -8417,6 +8442,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## turn 
 * 8월이면 난 18살이 돼. I'm turning 18 in August.
   * 내 아들은 올해 일곱 살이 되었어. My son (has) turned seven this year.
+* [명사] (비격식) (책장 넘기기가 바쁠 정도로) 흥미진진한 책 page-turner 미국식  영국식   단어장추가 2. 악보 넘겨주는 사람
 
 ### turnout
 * 투표율이 20년 만에 가장 낮을 것으로 예상된다. Voter turnout_ is expected to be the lowest in twenty years. 참가자수

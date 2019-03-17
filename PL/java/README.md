@@ -1607,6 +1607,13 @@ Space Enter를 모두 경계로 인식하기에 입력받은 데이터를 가공
  * 원상태의 공간으로
 - 초기화가 되면 접근과 수정이 가능하다.
 
+## 생성자와 setter
+ * 생성자와 setter는 값을 설정한다는 점에서 같은 역할을 담당할 수 있습니다.
+ * 다만, 생성자는 "인스턴스 생성 시"라는 시점에 초점이 더 맞춰져 있다고 볼 수 있고, 세터는 시점과 상관 없이 값을 set하는 메소드라고 볼 수 있습니다.
+ * 그렇기 때문에 생성자의 파라미터로 초기값을 설정하고 후에 세터를 통해서 값을 변경하는 경우도 있을 수 있겠죠:)
+
+
+
 
 # 인덱스
  * switch 문은 case 문의 값은 각각 달라야 하고 값의 크기와 순서는 무관하다.
@@ -3721,6 +3728,154 @@ FileInputStream fileInput = new FileInputStream(file);
 ## 인터넷 소켓 종류
 - UDP 프로토콜을 사용하는 경우
 - TCP 프로토콜을 사용하는 경우
+
+# 컬렉션의 구조
+## Collection: 자바의 주소를 사용; 순서나 집합적인 저장 공간
+- Collection보다 Map의 속도가 더 빠르다
+- 대표적 예: 리스트, 튜플
+
+1. List; 순서가 있는 저장 공간
+  - List와 Set 모두 인덱스로 접근하지만 Set만 중복을 허용 X
+- 순서를 유지하지 않는 데이터의 집합, 데이터의 중복을 허용하
+- 1-1. LinkedList
+- 1-2. Stack
+- 버퍼가 스택구조로 되어있음.
+- 1-3. Vector; 동기화 보장
+- 열거형
+- java 1.0부터 이어져온 List객체, ArrayList가 상위호환(?)이라 잘 안쓴다. 특히 쓰레드의 개수와 상관없이 동기화(synchronize) 처리를 하므로 Thread-safe 하지만 싱글쓰레드 환경이어도 동기화처리를 하므로 성능이 좋지 않아 쓰이지 않는다.
+
+- 1-4. ArrayList; 동기화 보장 안함
+- 대신 내부적으로 배열(array) 구조를 이용하기때문에 데이터 추가/제거를 배열을 복사하는 방법으로 처리하기 때문에 추가/제거가 많을 경우 오버헤드가 많이 발생함. 특히 중간에 삽입될 때 데이터들이 뒤로 밀리면서 성능저하가 큼.
+- 대신! 인덱스를 가지로 있어서 조회할 때 한 번에 접근이 가능하기 때문에 대용량 데이터를 한 번에 가져와서 여러번 참조해 사용할 때 최상의 성능을 내는 객체다. (+크기 조절이 마음대로..)
+
+
+
+
+2. Set; 집합적인 저장 공간
+  - List와 Set 모두 인덱스로 접근하지만 Set만 중복을 허용 X
+- 저장 순서가 없다고 하는건 0부터 차례대로 증가하지 않는다는 뜻이지 저장되고 나면은 그 값이 고정된다. 
+2-1. HashSet
+- 가장 빠른 임의 접근 속도
+- 순서를 전혀 예측할 수 없음
+2-2. SortedSet
+- 2-2-1 TreeSet
+-  정렬된 순서대로 보관하며 정렬 방법을 지정할 수 있음
+
+
+
+## Map: 시스템의 주소를 사용; 키와 값으로 데이터 핸들
+- Collection보다 Map의 속도가 더 빠르다
+- 키(key)와 값(value)의 쌍으로 이루어진 데이터의 집합이다.
+-  순서는 유지되지 않고, 키는 중복을 허용하지 않으며 값의 중복
+- 대표적 예: 딕셔너리
+1. Hashtable; 동기화 보장하는 Map계열의 클래스
+- HashMap 보다는 느리지만 동기화가 지원
+- 키와 값으로 null이 허용되지 않음
+2. HashMap; 동기화 보장하지 않는 Map 계열의 클래스
+- 중복을 허용하지 않고 순서를 보장하지 않음
+- 키와 값으로 null이 허용
+3. SortedMap; 정렬을 위한 Map 계열의 클래스
+- 3-1: TreeMap
+- 이진검색트리의 형태로 키와 값의 쌍으로 이루어진 데이터를 저장
+- 정렬된 순서로 키/값 쌍을 저장하므로 빠른 검색이 가능
+- 저장시 정렬(오름차순)을 하기 때문에 저장시간이 다소 오래 걸림
+ 
+
+## 컬렉션의 특징
+- 컬렉션을 사용하는 이유 중의 하나는 정렬과 같은 자료와 관련된 작업을 하기 위해서이다.
+- 컬렉션은 하나의 컬렉션에 서로 다른 자료형을 저장 할 수 있으며 참조 자료형만 저장 가능하다.
+- Collection 인터페이스 계열은 내부에 포함되는 요소는 순서를 가지는 특징을 가지고 있으며
+- 이와 반대로 포함 요소가 순서에 관계없이 저장되는 것은 Map 인터페이스 계열이다.
+- 원시 자료형은 Wrapper 클래스를 이용하거나 오토박싱으로 저장할 수 있다.
+- 컬렉션은 다양한 형식의 자료구조가 제공되며 컬렉션의 크기는 size 메소드를 사용하여 구한다.
+- 컬렉션으로 자료형을 교체할 때는 해당 컬렉션을 대표하는 인터페이스를 사용하는 것이 좋다.
+- 배열과 컬렉션은 다음과 차이를 가지고 있다
+
+
+## 배열과 컬렉션의 차이
+- 배열은 단 하나의 자료형만 저장한다.  컬렉션은 복수의 자료형을 저장한다. 
+- 하지만 컬렉션에서도 Generic을 사용하게 되면 배열과 비슷해질 수 있는데 <> 사이에 모델 클래스 값을 넣어주기 가능.
+- 배열은 고정된 크기로 크기 변동이 불가능하다. 컬렉션은 가변적 크기로 크기가 정해져 있지 않다.
+
+## 컬렉션 공통 메소드
+- 가. add 메소드 add 메소드는 매개변수로 지정된 요소를 컬렉션에 추가한다. 
+- 나. addAll 메소드 addAll 메소드는 매개변수로 지정된 컬렉션에 존재하는 모든 요소를 컬렉션에 추가한다. 
+- 다. contains 메소드 contains 메소드는 매개변수로 지정된 인스턴스 요소가 컬렉션에 존재하는지를 판단한다. 
+- 라. isEmpty 메소드 isEmpty 메소드는 컬렉션이 비어 있는지를 판단한다. 
+- 마. remove 메소드 remove 메소드는 컬렉션에서 매개변수로 지정된 요소 인스턴스 제거한다. 
+- 바. removeAll 메소드 removeAll 메소드는 매개변수로 지정된 컬렉션에 포함되어 있는 모든 요소들을 제거한다. 
+- 사. size 메소드 size 메소드는 요소의 개수를 반환해 준다
+
+
+## Collection에 Generic을 쓰게된 이유
+ * package jg.begin.start.jae_0315;
+ * 
+ * import java.util.ArrayList;
+ * 
+ * public class A {
+ * 
+ *   public static void main(String[] args) {
+ *     ArrayList arrayList = new ArrayList();
+ * 
+ *     B b = new B("전우치", 22);
+ * 
+ *     arrayList.add("홍길동");
+ *     arrayList.add(33);
+ *     arrayList.add(b);
+ * 
+ *     System.out.println(arrayList);
+ * 
+ *     String string = (String) arrayList.get(2);  // String형이 아니라 오류가 난다.
+ *     System.out.println(string);
+ *   }
+ * }
+
+# ① Iterator 인터페이스의 개요 
+- Iterator 인터페이스는 특정 컬렉션의 요소를 순차적으로 접근할 수 있게 지원한다. 
+- Iterator 인터페이스는 전 방향으로만 이동하면서 요소 작업한다.
+
+# ② Iterator 인터페이스의 주요 메소드 
+- A. hasNext 메소드 hasNext 메소드는 반복 처리로 한층 더 요소가 있는 경우에 true를 반환한다. 
+- B. next 메소드 next 메소드는 반복 처리로 다음의 요소를 반환한다. 
+- C. remove 메소드 remove 메소드는 반복자에 의해 마지막에 반환된 요소를 삭제한다. 
+
+
+# 컬렉션 for문
+for (Iterator 인스턴스 = collection.iterator( ); iterator.hasNext( );) { 
+클래스 자료형 인스턴스 = [(클래스 자료형)] iterator.next( ); 
+}
+
+
+# ① Enumeration 인터페이스 
+- A. Enumeration 인터페이스의 개요 Enumeration 인터페이스는 저장된 컬렉션을 열거하여 순서대로 반복한다. List 인터페이스 계열 중에서 Vector 클래스에서만 사용이 가능한다. 
+- B. Enumeration 인터페이스의 주요 메소드 
+- ㉮ hasMoreElements 메소드 hasMoreElements 메소드를 이용해서 데이터가 있는지를 검사하고 존재하면 true이고 없으면 false이다. 
+- ㉯ nextElement 메소드 nextElement 메소드는 열거에 한개 이상의 요소가 남아 있는 경우에는 다음의 요소를 반환한다 
+
+# 열거 While문
+- while(Enumeration 인스턴스.hasMoreElements( )) { 
+클래스 자료형 인스턴스 = [(클래스 자료형)] en.nextElement( ); }
+
+## HashTable
+-  키의 값은 무조건 “” 사이에 넣는다; hashtable.put("name", name); 
+- Hashtable<String, String> hashtable = new Hashtable<String, String>();
+  -   hashtable.put("name", "홍길동");  // 앞에있는 name은 매개변수이고 '홍길동'은 매개변수의 값이 된다.
+
+## HashMap 수정
+-   ArrayList<HashMap<String, String>> arrayList = new ArrayList<HashMap<String, String>>(); // 인덱스 없는 Hashmap과 키검색이 없는 ArrayList 상호보완
+- HashMap<String, String> hashMap = new HashMap<String, String>();
+- hashMap = arrayList.get(i);
+- hashMap.replace("email", "2");  // hashmap 전체로 해서 앞에는 key값 뒤에는 value로 수정
+- arrayList.set(i, hashMap); // set으로 해당 인덱스에 hasmMap 넣어주기
+
+
+
+## 딕셔너리
+- ‘’나 “” 둘다 가능하다. 하지만 일반적으로 ‘’를 많이 사용한다.
+- 딕셔너리는 json방식과 유사하다. 하지만 json은 무조건 “”을 사용한다.
+
+## json
+- 딕셔너리는 json방식과 유사하다. 하지만 json은 무조건 “”을 사용한다.
 
 
 -------------------
