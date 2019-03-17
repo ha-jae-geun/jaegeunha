@@ -519,7 +519,7 @@
 - 버전 안맞으면 Build path - Configure Path
 
 ## export
-export -> java -> JAR file
+- export -> java -> JAR file
 
 
 
@@ -688,6 +688,25 @@ export -> java -> JAR file
 - toString 메소드는 CharSequence 인터페이스에만 해당
 - 주소값을 문자열로 변환시켜주는 기능 = 주소값을 실제값으로 변환. 대화체로 변경시켜줌
   - <> Integer.toString(); 값 자체가 실제로 바뀜
+
+### toString 생활코딩 설명
+- Object 클래스에 있는 메소드를 오버라이드해서 사용하는 것
+- (자바와 같은) 객체지향 언어들은 객체에 toString이라는 메소드를 기본적으로 제공한다.
+- 일반적으로 toString은 그 객체를 설명해주는 문자열을 리턴한다.
+- 그리고 객체의 toString을 덮어쓰기(overriding)하면 다른 형식의 문자열을 리턴할 수 있다.
+- 문자열이 기대되는 곳에서 문자열이 아닌 객체를 사용하면 시스템은 암시적으로 toString을 호출한다.
+- 예를들어 alert는 인자로 문자열이 기대되는데, alert([1,2])와 같이 배열을 전달하면 시스템은 [1,2].toString()을 호출한다. 그 결과는 1,2가 된다.
+자바스크립트에서는 prototype을 이용해 객체의 메소드를 덮어쓰기(override)할 수 있다.
+
+### 예제
+- 컬렉션의 자료 구조의 종류
+- var value = flag.toString();
+- alert(value); // string, true
+
+### 예제2
+- 자바에서는
+- Card c=new Card();
+- System.out.println(c)와 System.out.println(c.toString())과 같다.
 
 
 ## Comparable
@@ -3228,6 +3247,8 @@ public @interface Override {
 # Buffered
 1. 버퍼를 사용하는 이유는 빈번한 하드 디스크 접근을 막아 속도를 향상시킵니다.
 2. "BufferedInputStream", "BufferedOutputStream"는 바이트 단위로 읽고 쓰고,                       "BufferedReader","BufferedWriter"는 문자를 읽고 씁니다. 
+- 버퍼의 장점은 라인 단위로 스트링을 읽어들일 수 있고, 속도면에서 빠르다.
+
 
 ## BufferedInputStream
 - 예를 들어서 CPU 랑 메모리의 성능이 아무리 좋다고 해도 하드 디스크의 입출력 늦다면 프로그램의 실행 성능은 하드 디스크의 처리 속도에 따라 맞춰갑니다. 네트워크도 느린 네트워크 환경이라면 컴퓨터의 성능이 좋더라도 메신저 또는 게임의 속도가 느려집니다. 이에 대한 완전한 해결책은 없는데요, 프로그램이 입출력 소스와 직접 작업하는 대신에 중간에 메모리 버퍼와 작업함으로써 실행 성능을 어느 정도 향상 시킬 수는 있습니다. BufferedInputStream 과 BufferedOutputStream은 바이트 기반의 성능 향상 보조 스트림이고, BufferedReader 와 BufferedWriter는 문자 기반 성능 향상 스트림입니다. BufferedInputStream과 BufferedReader :  BufferedInputStream은 바이트 입력 스트림에 연결되어서 버퍼를 제공해주는 보조 스트림입니다. BufferedReader는 문자 입력 스트림에 연결되어서 버퍼를 제공해주는 스트림입니다. 위의 스트림은 둘 다 입력 소스로부터 자신의 내부 버퍼 크기만큼 데이터를 미리 읽고 버퍼에 저장합니다. 생성자 매개값으로 준 입력 스트림과 연결되어 8918 내부 버퍼 사이즈를 갖습니다. BufferedInputStream bis = new BufferedInputStream(바이트 입력 스트림); //  최대 8912 바이트 BufferedReader br = new BufferedReader(문자 입력 스트림); // 최대 8912 문자
@@ -3538,6 +3559,168 @@ bw.close();//스트림을 닫음
 
 ## 바이너리
 - 초기값 0(공간이 비어있다.), 1 공간이 있음이 아닌 -1로 한다.
+
+# 객체 입출력 클래스
+- 객체 입출력 클래스는 인스턴스의 전달하는 클래스들이다. 
+- (2) 객체 입출력 클래스의 특징 인스턴스 자체를 특정 대상에 입출력하기 위해서는 인스턴스를 파일이나 네트워크상으로 출력하면 인스턴스를 연속되는 바이트로 변경하여야 하며 이런 작업을 직렬화라고 하고 반대로 파일에 바이트로 저장되어 있는 자료를 읽어서 인스턴스로 변환하는 작업을 역직렬화라고 한다.
+- 객체 스트림은 프로그램 메모리상에 존재하는 객체를 직접 입출력해 줄 수 있는 스트림으로 현재 상태를 보존하기 위한 영속성을 지원할 수 있다.
+- 자바에서 객체 안에 저장되어 있는 내용을 파일로 저장하거나 네트워크를 통하여 다른 곳으로 전송하려면 객체를 바이트 형태로 일일이 분해해야 한다. 이를 위하여 객체를 직접 입출력 할 수 있도록 해주는 객체 스트림이다.
+
+
+# 직렬화
+- 자바 시스템간 객체나 데이터를 전달하기 위해 바이트로 바꿨다가 다시 객체로 바꾸는 기술입니다.
+- 주의해야 할 점은 serialVersionUID는 자바 시스템간에 동일해야 하는데, 만약 따로 설정을 하지 않으면, 클래스의 기본 해쉬값을 사용합니다. ** 직접 세팅하지 않아도 자동으로 생성이 된다. 설정을 해주지 않게 되면 나중에 위의 클래스의 멤버변수의 변경이 일어나면 에러가 발생하기 때문에 직접 설정을 해주는 것이 좋습니다.
+- 일반적으로 메모리에 생성된 오브젝트의 인스턴스는 비 지속성을가지므로 파일이나 데이터베이스에 저장된 자료처럼 지속성을 가지기 위해서 객체 직렬화 기능을 제공한다. 객체에 직렬화를 적용하면 메모리에 생성된 인스턴스 정보를 파일 등을 통해서 지속성을 유지할 수 있다. 지속성은 프로그램 내에 생성된 각종 객체들을 해당 프로그램 종료 이후에도 존재하게 만들어서 프로그램에서 계속 사용할 수가 있다.
+- 객체 - 바이트배열 - 파일/메모리/데이터베이스
+- Serializable 인터페이스로 구현한 클래스 파일은 객체 직렬화가 가능하다. 일반적으로 인터페이스에는 추상 메소드가 있어서 구현한 클래스 파일에서 반드시 메소드를 구현해야 하지만 Serializable 인터페이스는 추상 메소드가 없는 인터페이스로 단지 마킹 기능을 가지는 용도로 사용하는 마커 인터페이스이다. 
+- Serializable 인터페이스를 구현한 클래스는 클래스의 인스턴스 변수에 저장된 데이터의 영속성을 위해서 파일이나 네트워크로 전송할 수 있다. 대부분의 는 모두 직렬화가 가능한 클래스들이다 
+- API . Serializable 인터페이스 구현한 클래스에 존재하는 모든 변수들은 직렬화 대상이 된다. String 클래스는 Serializable 인터페이스를 구현하고 있기 때문에 문자열 직렬화가 기능하다. 
+- Serializable 인터페이스에서 특정 인스턴스를 직렬화 대상에서 제외하고 싶으면 인스턴스 앞에 transient 키워드를 지정하면 된다.
+
+## 직렬화 형태
+- //바이너리 단위로 데이터를 출력하고 파일을 생성한다. FileOutputStream fileOutput = new FileOutputStream(file);
+- //인스턴스를 객체 직렬화로 출력한다. ObjectOutputStream objectOutput = new ObjectOutputStream(fileOutput);
+
+# 역직렬화
+- Serializable 인터페이스에서 상속받은 Externalizable 인터페이스를 구현한다. 
+- ② 인터페이스의 개요 Externalizable Externalizable 인터페이스로 구현한 클래스에서는 readExternal 메소드와 writeExternal 메소드에서 정의한 인스턴스만이 역직렬화의 대상이 된다. 
+- ③ 인터페이스의 구현 Externalizable 객체를 역직렬화하고 생성된 객체를 호출한다.
+
+
+
+
+
+## File 예제
+1. fileOutputStream = new FileOutputStream("D:\\javaio\\menber.dat"); 
+  - 이런식으로 쓰거나
+2. File file = new File("D:\\javaio\\serialization", "serialization.dat");
+//데이터를 입력하고 파일을 생성한다. 
+FileInputStream fileInput = new FileInputStream(file);
+- 파일을 미리 만들어놓고 넣어주기 가능.
+
+
+
+##  역직렬화 메소드
+ * public void readExternal(ObjectInput in) throws IOException,ClassNotFoundException{ 
+ * name = in.readUTF( ); 
+ * age = in.readInt( ); 
+ * }  // 이렇게 메소드 안에 역직렬화 내용을 넣어주어야 함; get-set 사용 불가
+ * 
+ * public void writeExternal(ObjectOutput out) throws IOException { 
+ * out.writeUTF(name); 
+ * out.writeInt(age); 
+ * } 
+
+# ObjectInputStream, ObjectOutputStream 예제
+
+1
+1. 반드시 모델에 담아둬라
+2. try/catch 문은 각각 하나씩 만들어 둬라.(나중에 close 대비)
+
+ * package jg.begin.start.jae_0314;
+ * 
+ * import java.io.File;
+ * import java.io.FileInputStream;
+ * import java.io.FileNotFoundException;
+ * import java.io.IOException;
+ * import java.io.ObjectInputStream;
+ * import java.io.ObjectOutputStream;
+ * 
+ * public class MemberSelect {
+ *   public static void main(String[] args) {
+ * 
+ *     File file = null;
+ *     file = new File("C:\\javaio", "membertable1.dat");
+ * 
+ *     try {
+ *       FileInputStream fileInputStream = new FileInputStream(file);
+ *       try {
+ *         ObjectInputStream objectInputStream = new ObjectInputStream(fileInputStream);
+ *         try {
+ *           MemberDTO memberDTO = (MemberDTO)  objectInputStream.readObject();  // 1. 반드시 모델에 담아둬라
+ *           System.out.println(memberDTO.getAge());
+ *         } catch (ClassNotFoundException e) {
+ *           // TODO Auto-generated catch block
+ *           e.printStackTrace();
+ *         }
+ *       } catch (IOException e) {
+ *         // TODO Auto-generated catch block
+ *         e.printStackTrace();
+ *       }
+ * 
+ *     } catch (FileNotFoundException e) {
+ *       // TODO Auto-generated catch block
+ *       e.printStackTrace();
+ *     }
+ *   }
+ * 
+ * }
+
+ * 2 모델
+ * package jg.begin.start.jae_0314;
+ * 
+ * import java.io.Serializable;
+ * 
+ * public class MemberDTO implements Serializable {
+ *   /**
+ *    * 
+ *    */
+ *   private static final long serialVersionUID = 1L;
+ *   private String name;
+ *   private int age;
+ * 
+ *   public MemberDTO(String name, int age) {
+ *     super();
+ *     this.name = name;
+ *     this.age = age;
+ *   }
+ * 
+ *   @Override
+ *   public String toString() {
+ *     return "MemberDTO [name=" + name + ", age=" + age + "]";
+ *   }
+ * 
+ *   public String getName() {
+ *     return name;
+ *   }
+ * 
+ *   public void setName(String name) {
+ *     this.name = name;
+ *   }
+ * 
+ *   public int getAge() {
+ *     return age;
+ *   }
+ * 
+ *   public void setAge(int age) {
+ *     this.age = age;
+ *   }
+ * 
+ * }
+
+
+# 서버-클라이언트
+- 가. 서버 클라이언트에서 작업의 요청이 들어오면 요청을 처리하고(응답) 결과를 클라이언트에게 알려 준다.(서버가 클라이언트에게 요청)
+- 나. 클라이언트 서버에게 작업을 요청하고 그 작업의 결과를 받아서 보여준다
+- 서버의 응답: 404, 202 등등; 한번 서버가 응답하고 나서는 이후는 클라이언트의 요청만 계속 이뤄진다.
+
+# 소켓
+- 네트워크 소켓(network socket)은 컴퓨터 네트워크를 경유하는 프로세스 간 통신의 종착점이다. 오늘날 컴퓨터 간 통신의 대부분은 인터넷 프로토콜을 기반으로 하고 있으므로, 대부분의 네트워크 소켓은 인터넷 소켓이다. 네트워크 통신을 위한 프로그램들은 소켓을 생성하고, 이 소켓을 통해서 서로 데이터를 교환한다. 소켓은 RFC 147에 기술사항이 정의되어 있다.
+- 포트를 이용하기 위해 사용하는 것
+- 소켓은 서버가 로컬 IP를 가지고 Port를 열고(Bind) 클라이언트 접속을 기다립니다. (Listen) 그리고 클라이언트는 서버의 IP주소와 Port로 접속(Connection)해서 연결되면, 서버와 클라이언트는 Send, Recieve형태로 패킷을 주고받습니다. 서로의 통신이 끝나면 close로 접속을 끊습니다.
+ - 저, 서버는 소켓(Socket)을 생성하여 포트(Port)와 연결하며 이를 Bind(묶다)라 한다. 그리고 포트에서 클라이언트의 접속을 기다리는데 이를 Listen(듣다)이라 한다. 서버는 클라이언트가 소켓을 붙이려하면 이를 Accept(수용하다)하여 접속을 허가한다. 이때부터 클라이언트의 요청(Send)을 서버는 받아(Receive)주며 통신이 성사된다.
+
+
+## 인터넷 소켓 요소
+- 인터넷 프로토콜 (TCP, UDP, raw IP)
+- 로컬 IP 주소
+- 로컬 포트
+- 원격 IP 주소
+- 원격 포트
+
+## 인터넷 소켓 종류
+- UDP 프로토콜을 사용하는 경우
+- TCP 프로토콜을 사용하는 경우
 
 
 -------------------

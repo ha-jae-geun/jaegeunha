@@ -1,3 +1,84 @@
+# 일상을 영어로 #003 - 오랜만에 친구를 만났어. 별거 한건 없고 그냥 술 한잔 하고 얘기했어
+* "어제 오랜만에 친구를 만났어요. 
+  * I hung out with a friend yesterday. 
+  * hang out: 1. 놀다 2. 만나다  <> meet 처음 본 만남
+* 별거 한 것은 없고 그냥 같이 술 한 잔 하고 몇 시간 동안 얘기했어요."
+  * We hadn’t seen each other in a while. We didn’t do much. We just went out for some drinks and talked for a couple of hours.﻿ 
+  * we just had some drinks 해도 되지만 어디 나가서 먹었다 라는 읨이에서 go out for a drink/ some drink
+* 추가설명:
+ * "We hadn't seen each other in a while."에서 in a while - "동안"이라는 전치사를 for가 아니라 in을 쓰는 이유는 앞 문맥이 부정형이기 때문입니다.
+ * 부정문의 문맥에서는 'for a while'보다 'in a while'가 더 잘 어울리는 경우가 대부분입니다.(예외는 있음)
+
+누구를 보고 "오랜만이야."라고 인사하는 것과 "오랜만에"라는 표현을 문장에 넣어서 사용하는 것과는 다릅니다.
+"오랜만이야."라는 인사는 "Long time no see." 혹은 "I haven't seen you in a while." 혹은 "It's been a while."라고 할 수 있지만
+"오랜만에"라는 표현은 영상에서도 설명하고 있듯이, 문맥을 만들어서 표현하는 것이 좋습니다.﻿
+
+
+# 일상을 영어로 말하기 #002 - "돌아오는 길에 (무엇)이 생각나서 잠깐 어디에 좀 들렀어."
+* 오늘 강아지들을 공원에 데리고 갔었어요
+ * I took my dogs out to the park today.
+ * 단순히 나갔따는 말을 하기 위해 'out' 사용
+* 거기에 한시간정도 있었어요
+ * We were there for about an hour. 
+* 돌아오는 길에 강아지 사료가 거의 떨어졌다는게 생각나서 가게에 들러서 강아지 사료랑 간식을 좀 샀어요
+ * On our way back, I remembered that we were almost out of dog food. 
+ * So we stopped by the store to pick up some dog food and some snacks.﻿
+ * 생각나다: thought 보다 remembered that로 표현
+ * 가게에 들르다; stop by the store; 통째로 외우기
+
+# 일상 속에서 하는 말과 생각을 영어로 - #001
+* "아까 친구한테 전화가 왔었는데 내가 뭘 좀 하고 있어서 못받았어. 이따 밤에 내가 다시 전화하려고."
+* Earlier today, I got a phone call from my friend, but I couldn’t get it because I was in the middle of something at that time. I will call him back sooner or later tonight.﻿
+  * later tonight: 지금이 밤이여도 나중에라는 말로 사용할 수 있음
+
+# 관계절 - PART 4 - 자연스러운 대화 속에서 관계절을 연습하고 감잡기
+* A: 야, 너 혹시 주변에 자기 차 판다는 사람 있어?
+ * A : Do you know anyone who is selling their car?
+ * sells: 현재형으로 이야기하면 현재 판다는 느낌이 어색하다;
+ * 아니, 없는거 같은데, 왜? 차 필요해?
+ * B : NO, I don't think so. Why? Do you need a car?
+ *  응, 그냥 매일 출퇴근하면서 가지고 다닐게 필요해서.
+ * A : I just need something that I can drive to work every day
+ * 가지고 다니다 -> i can drive
+ * 사실, 중고차 딜러인 사람을 하나 알긴 해. 내 친구 Kaley 알지?
+ * B : Actually, I know a guy who is a used car dealer. You know my friend Kaley right?
+ * 아, 걔 네 생일파티에서 인사했던 그 여자인가?
+ * A : Oh, Is she the one who I said hello to (her) at your birthday party?
+ * 인사하다: meet
+ * is she; 이쉬 연음;  at your; at: at 목에서 잘라줌
+ * 응, 걔 맞아.  걔 남자친구가 중고차 딜러야.
+ * B : Yesh, that's her. Her boyfriend is a used car dealer﻿
+
+# 영어 대화가이드 #18 - 왜 ~~할 수는 없었던걸까? 그랬으면 ~~ 하지 않아도 됐을텐데."
+ * A: "야, 이거 봤어?"
+  * Hey, did you hear that?
+ * B: "음... 헐! 이게 크리스찬 베일이야?!"
+  * What? That's  about Cristian Bale?
+ * A: "응.  이 역을 맡으려고 40 파운드를 찌웠대."
+  * Yeah...they say he lost like 30 pounds to play that role.
+ * B: "장난 아니다.  정말 훌륭한 배우이고 그렇다는건 알겠는데 사실 가장 먼저 계속 드는 생각은, 왜 그냥 늙은 배우를 캐스팅할 수 없었던걸까? 그랬으면 분장 가지고 그런 수고를 하지 않아도 됐을텐데."
+  * That's unbelievable....i get that he's really great actor and everything. But, i've got to say , the first thing that's going through my mind right now is ; 
+  * "Why couldn't they have just cast an older and thin actor?"
+  * That way , they wouldn't have had to go through all that trouble with the makeup and he wouldn't have had to work hard to lose his real weigh.
+  * get something and everything: 잘 알다;
+ * A: "감독이 처음부터 그 배우를 생각에 두고 있었다나봐.  그리고 크리스찬 베일이잖아.  배우로서 도전하는걸 좋아하잖아."
+  * "Well, apparently, the director specifically had him in mind for the role.
+And, you know, it's Cristain Bale. As an actor , he enjoys the challenge.﻿
+ *  추가설명(관사):
+ * 처음에는 the makeup 이라고 했다고 뒤로 가서는 the 를 생략하고 그냥 'makeup'이라고만 하고 있는데 각각의 어감이 다릅니다.
+ * 1. 관사 the 없이 말하면 : '분장에 그런 수고를 들이지 않아도 됐을텐데" ('분장'을 일반화시켜서 언급)
+ * 2. 관사 the를 포함시키면 : '그 분장을 위해 그런 수고를 들이지 않아도 됐을텐데" (특정 '분장'을 가리키며 언급)
+
+# 구동사 - put together [ 영어회화 / 구동사 ]
+* put together: 기존에 있는 곳을 모아 새로운 것을 만드는 것
+* 회사에서 솔루션을 생각해내기 위해서 똑똑한 사람들로 굿어된 팀을 구성했따;
+  * The company put together/organize a team consisting of some of their smartest people to comeup with a solution
+* 그들은 긴급 회의를 소집했따; They put together/set up/organized/arranged/scheduled/called an urgent meeting
+* 그들은 새로운 가이드라인을 만들었다; They were able to put together/come up with a new set of guidelines
+* 레포트를 작성하다; put together a report/resume/proposal; 기존에 있는 것으로 하나의 형식을 만드는 것이기 때문에
+* 그녀는 컴퓨터에 대해 아주 잘알아; SHe knows the computers like the back of her hand
+* 그녀는 우리 나머지를 합친거보다 더 똑똑하다; She is much smarter than the rest of us put together(combined); 분사형
+
 # 영어 연습가이드 #44 - PART 1 - mainly because / that’s partly the reason / it has to do with the fact that
 * 저 누나랑 별로 안친해요
  * "My sister and I aren't very close."

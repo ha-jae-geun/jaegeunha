@@ -43,6 +43,7 @@
 *  텔라 http://blog.naver.com/PostList.nhn?blogId=tellakor&categoryNo=0&from=postList
 -----------------------------------------------------------------------------
 *   이상민 영어 http://blog.naver.com/minga2015
+* 보카 콘서트 https://m.post.naver.com/viewer/postView.nhn?volumeNo=3949189&memberNo=468879&searchKeyword=영어
 *   ECIK http://blog.naver.com/eckedu
 *   미드 표현 http://blog.naver.com/pjc425/220983107635
 *   체니 http://m.post.naver.com/my.nhn?memberNo=2562700

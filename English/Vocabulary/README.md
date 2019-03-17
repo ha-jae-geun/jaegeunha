@@ -160,6 +160,9 @@
 * 다른 나라에서 설명할 때: i am from south korea; 멀어져 온것
 * ~ is acroos from the river; 강 건너편에 있다
 
+## fog
+* 안개가 너무 심해; The fog is too heavy
+
 ## formula
 * 그 제조법을 손에 넣으셨는 지를; how the mother got the formula
 
@@ -324,6 +327,10 @@
 
 ## all
 * 그건 나에게 가장 중요한 것은 아니다. It's not the be all and end all for me. 듣기
+* all the way = 완전히, 꽉, 내내, 곧장; 우리말로는 다양하게 해석되지만 기본적으로 all the way 는 ‘멈추지 않고 계속’을 의미해요. 시간이나 거리상 쭉 이어진다거나, 어떤 것의 정도가 최고조/끝까지 올라간다는 겁니다.
+  * = 여기까지 이렇게 한걸음에 와줘서 고마워.  Thanks for coming all the way over here.
+  * = 그는 쉬지 않고 쭉 재잘거렸다. He chattered non-stop all the way.
+
 
 ## allow
 * - allow (명사) to 동사 : (~가) ~하도록 허용하다
@@ -369,6 +376,9 @@
     * 그가 갑자기 나타났다. ex) He showed up out of thin air.
 * 직역하면 [신선한 공기의 들이마심] 입니다. 어떤 상황이 지속되는데, 그 상황에서 신선한공기를 들여마시는 것이니 굉장히 [새롭고, 다르고, 활기를 주는 것]을 의미해요. 어떤 상황이나 주제를 좀 더 흥미롭고 신나게 만드는 것을 의미합니다.
   * 뉴스의 그 새로운 형식은 정말로 신선했다. ex) The new format of the news was a breath of fresh air.
+
+## assosiate
+* 나쁘고 정직하지 못한 아이들과 사귀지 말아라. Don't associate with bad and dishonest boys. 듣기 출처:능률교육
 
 ## assign
 * 저희한테 숙제로 내준 적 없으세요; You never assigned it to us
@@ -667,6 +677,11 @@
   * 불리함을 극복하다; #odds; 극복하다; #beat the odds
   * ##beat
 
+## boggle
+* boggle ~’s mind = 놀래키다, 혼란케하다, 압도하다
+  * 너무 특이하거나 이상해서 마음을 혼란케 만든다는 뜻이에요. 특히 mind-boggling(놀라운, 상상이 안되는)처럼 형용사 형태로도 잘 씁니다.영상속 주인공은 태어날 때부터 앞이 보이지 않았기 때문에 인간을 색으로 구별한다는 것 자체가 혼란스럽게 느껴질수 있겠네요. The mind boggles  = 이해/상상하기 힘들다
+    * = 그 집이 얼마나 큰지 그는 매우 놀랐다.The size of the house boggled his mind.
+
 ## box
 * 마치 박스 안에 갇힌 것처럼 이러지도 저러지도 못하는 어려운 상황, 제한적인 상황, 딜레마를 겪는 상황 등에 쓰일 수 있는 표현입니다. outside the box 를 자칫 반의어로 생각하실 수도 있는데요. 이 표현은 think outside the box 로 자주 쓰여서 기존의 틀에서 벗어난 [완전히 새로운 사고를 하다] 의 의미로 쓰인답니다. 어려운 상황에 처한, 꼼짝 못 하는, 궁지에 빠진 = in a box
   * 오늘은 사람들 앞에서 난처하게 하지 말아 줘. ex) Don't put me in a box in front of people today, please.
@@ -839,6 +854,8 @@
   * 한 30분 뒤에 만날 수 있을까? 간단한 집안 ex) Can we meet about 30 minutes later? I just have a few bits and pieces to do at home.
 
 ## bite
+* ＊ You need a bite of this = 한 입 먹어봐
+  * = 이거 진짜 맛있다. 너 이거 한 입 먹어봐. This tastes really good. You need a bite of this.
 * bite one's tongue; 말을 안하고 참다
  * 과한 욕심을 부려 분에 넘치는 일을 하다; #bite off; 욕심부린다; you bite off more than you can chew
  * 가서 뭐좀 먹자                Let's go #grab a bite 
@@ -1563,6 +1580,10 @@
   * #catch out Many investors were caught out by the fall in share prices. 
   * 주가 하락으로 많은 투자자들이 곤란에 처해졌다.
 
+### caught
+* I wouldn’t be caught dead/seen (ⓥing) = 진짜 하기 싫어; 정말 죽어도 하기 싫은 일이 있죠. 이 표현은 개인적으로 너무 싫거나 창피한 일이어서 극도로 하기 싫다는 뜻이에요. 
+  * = 저 신발을 신느니 차리라 죽어버리겠어. 무슨 우리 할머니것 같잖아. I wouldn’t be caught dead wearing those shoes. They are like my granny’s.
+
 ### catch up
 * 나 지금 이렇게 수다 떠느라고 까먹었어. I forgot to do this because I got so caught up on chatting
   * 딴 생각 하느라 못들었어; got caught up in the moement
@@ -1621,6 +1642,7 @@
   * = 내일 나 대신 근무해 줄 수 있어? Can you cover my shift tomorrow?
 
 ## corner
+* 전 당신편이에요; i'm in your corner
 * # 고비; 고비를 넘기다; he and i have turned a corner
 * 바늘 허리에 실 매어 쓰랴            You can''t cut corners.
  * 난 일을 대충 대충 하지. 지름길로 가다, 잔머리       I'm cutting too many corners. 
@@ -2071,6 +2093,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * crash는 보통 자는 곳이 아닌 다른 곳에서 잠을 잔다는 뜻이랍니다!
   * 할 게 너무 많아서 책상 위에서 잠을 잤어. I had so much to do that I crashed on the desk.
 
+## curtain
+* 5분 뒤에 시작합니다. five minutes to curtains
+
 ## cute
 * You are cute i guess; 호감도 많진 않음.
 * cutesy는 cute에서 비롯된 말이지만 그냥 귀여운 것보다는 지나치게 귀여워서 오히려 사람들이 거부감을 좀 느낄 정도의 귀여움을 의미합니다. 유치한 느낌, 인위적으로 과한 느낌의 귀여움이죠.
@@ -2142,7 +2167,19 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 몽상가는 공상에 잠겼다. The dreamer had his head in the clouds. 
   * 2.  (하고 있는 일과 관련 없는) 엉뚱한 생각을 하다
 
-
+## cloth
+* 1.  Cloth - 천(가산 명사)/옷감(불가산 명사)
+   - Cloth가 셀 수 있는(가산) 명사로 쓰인 경우 행주나 걸레처럼 무엇을 닦거나 말리기 위해 쓰는 가벼운 천을 뜻합니다.  하나(단수) 일 때는 부정관사 a를 함께 사용해 a cloth로, 하나 이상(복수) 일 때는 cloths로 씁니다. 
+   - 문>  She covered the table with a  cloth. 그 여자는 탁자를 천으로 덮었다.
+* Cloth가 셀 수 없는(불가산) 명사로 쓰인 경우 면직물, 모직물 등과 같은 옷감이나 직물을 뜻합니다. 
+  - 옷감은 material 또는 fabric이라는 단어를 사용할 수도 있습니다. 하지만, 커튼이나 보를 만드는데 쓰이는 직물은 cloth를 쓸 수 없고, material 또는 fabric이라는 단어를 써야 합니다. 
+  - 이런 옷감은 질기지 않다  예문>  This kind of cloth does not wear long.
+* 2.  Clothes - 옷 주의: 항상 복수형 명사로 쓰임 
+  - Clothes는 cloth의 복수 형태처럼 보이지만, 앞서 설명한 것처럼 cloth의 복수는 cloths입니다. Clothes는 옷 또는 의복이라는 뜻인데요. 항상 복수로만 쓰이고, 단수형이 없는 명사입니다. 그래서 단수 명사 앞에 오는 부정관사 a [an]과는 절대 같이 쓸 수 없는 명사입니다. 셔츠, 드레스, 바지 같은 구체적인 옷을 의미합니다.  
+  - 예문>  The clothes contracted a lot the first time I washed it 그 옷은 처음 빨았을 때 많이 줄어들었어.
+* 3. Clothing - 의류/특정 용도의 옷; Clothing은 옷을 입히다는 뜻의 동사 clothe의 동명사 형태가 명사로 굳어진 경우로 의류(전체) 또는 특정한 용도로 쓰이는 옷을 의미합니다. 
+  - 인간생활의 세 가지 기본 요소를 뜻하는 의식주는 영어로 food, clothing, and shelter가 됩니다. ‘의’가 포괄적 개념의 의류를 나타내기 때문에 Clothing을 사용합니다. 
+  - 예문> I spend a great deal of money on clothing. 나는 의복비로 돈을 많이 씁니다.
 
 ## clone
 * 여기서 clone은 동사로 쓰여서 ‘복제하다’이고, ⓐ를 ⓑ처럼 닮게 만든다는 뜻입니다. 영상에서의 질문은 beautiful daughter가 you처럼 복제됐다, 즉 쏙 빼닮았다, 판박이다라고 말하면서 비결을 묻고 있습니다. 참고로 회화에서 엄청 똑같이 생기거나 똑같이 행동하는 사람을 가리켜 clone같다고 표현하기도 합니다.
@@ -2242,7 +2279,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 언제 터질지 모르는 폭탄 또는 그처럼 예측할 수 없는 사람을 지칭; loose canon 미국식  영국식 
 
 ## canned
-* 통조림에 들어가 있는 음식들을 canned food 이라고 하는데요. 안 열어봐도 안에 뭐가 들어있는지 뻔히 알 수 있는 것처럼 뻔한 답변을 의미할 때 쓰는 표현입니다. 참고로 시트콤들이 사용하는 가짜 웃음 소리는 canned laughter라고 합니다.
+* 통조림에 들어가 있는 음식들을 canned food/goods 이라고 하는데요. 안 열어봐도 안에 뭐가 들어있는지 뻔히 알 수 있는 것처럼 뻔한 답변을 의미할 때 쓰는 표현입니다. 참고로 시트콤들이 사용하는 가짜 웃음 소리는 canned laughter라고 합니다.
   * 왜 매번 내게 뻔한 답변만 하는 거야? 난 네가 진짜 무슨 생각을 하는지 알기를 원해. ex) Why do you always give me canned responses? I want to know what you really think.
 
 ## candle
@@ -2309,6 +2346,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
     * 모두들 나를 혼자 힘든 상황에 내버려 두었지. Everyone just left me high and dry. 
 *  입 닥쳐. Dry up.
 
+
+## debut
+* make a/one's debut
+* 그녀가 데뷔했어요; She made her debut
+  * will make her debut next month
 
 ## debt
 * -에게 빚을 지다; be in one's debt
@@ -2954,6 +2996,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그는 전세계의 여러 지역을 여행하곤 했다. He used to travel far and wide through the world.
 
 ## fall
+* 사망자중에는 선생님들도 있었습니다; Among the fallen were also teachers
 * "덜컥 임신하다"를 영어로?▶ fall pregnant
 * break the(one's) fall : 넘어지는 것을 막다. 덜 심하게 넘어지다. 누군가가 넘어지는 것을 (fall) 깨부수는 것이기 때문에 (break), 추락을 방해하여 안 넘어지게 하거나, 조금 살살 넘어지게끔 하는 것을 의미합니다.
   * 옆을 잡아서 그녀는 넘어지는 것을 가까스로 막았다. ex) She managed to break her fall by grabbing the side.
@@ -4035,6 +4078,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 
 ## heavy
+* 안개가 너무 심해; The fog is too heavy
 * heavyweight는 원래 권투, 레슬링 등의 헤비급 (보통 체중보다 많이 나가는 급) 선수를 가리키는 표현인데요, 구어에서 영향력 있는 인물, 중요 인사, 유력자를 가리키는 말로 사용합니다.
   * 저 파란 나비넥타이 한 사람이 정계 유력자야. That man with a blue bow tie is a political heavyweight.
 * female-heavy는 '여성으로 치우쳐진', '여성의 비중이 큰'이라는 뜻! 남성에 비해 여성 방청객이 많다는 뜻이죠. :)
@@ -4056,6 +4100,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
  * 굽이 높은 편안한 신발                  wedge heel
  * cool one's heel; 오래 #기다리다; somebody cooled his heels
 
+## horse
+*  ▶ 오만하게 행동하다 = be on the high horse   ▶ 거만하게 굴지 마 = get off your high horse
+
 ## hork
 * 빨리 먹다; hork; DOn'ts just hork it down
 
@@ -4074,6 +4121,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * # 무조건; 무슨 수를 써서라도 우리가 이 게임을 이겨야 한다는 거 너도 알지? You know we must win this game by hook or crook. 
 * 2) 그러니 hook up with 는 누군가에게 걸려있는거에요. 그래서 만나기 시작하고, 함께 일하기 시작하는거죠.
   * 이 발표가 잘 이뤄진다면 우리는 백악관이랑 일을 하기 시작할지도 몰라. ex) We might be able to hook up with the White House if this presentation goes well.
+
+### off the hook
+1. 책임이 없다(봐주다 눈감아주다) 2. 인기가 짱이다 3. 전화가 많이 오다.
+* 도움을 주겠다는 제의들로 전화통이 쉴 새 없이 울렸다. The phone has been ringing off the hook with offers of help. 
 
 ## horizon
 * 이 작은 마을에서 나와서 시야를 넓힐 시간이야. ex) It's time to get out of this small town and expand/broaden my horizons.
@@ -4695,6 +4746,12 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * #knock out; 쓰러지다; I was knocked out
   * #knock up; 임신시키다 knock someone up; long enough to knock her up
 
+## luggage
+## baggage
+* luggage 는 ‘가방’이 아니에요. ‘짐/짐짝’을 의미하는 셀 수 없는 단어입니다. 그래서 영상에 가방이 여러 개여도 -s 를 붙이지 않은거에요. baggage 도 역시 마찬가지에요. bags 는 맞지만 baggages 는 틀린 표현입니다. 대신 짐의 개수를 표현할 때는 piece of luggage/baggage 라고 하면 됩니다.
+  * How much luggage do you have? (O)
+  * I just have two pieces of luggage.
+
 ## lump
 * lump는 덩어리, 혹이라는 명사 외에도 동사로 '여러 가지를 한 데 묶다, 일괄하여 다루다'는 뜻을 가지고 있습니다.
   * A와 B를 하나로 합치다 - lump A with/ and B
@@ -4716,6 +4773,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그의 믿을 수 없는 재능 덕분에 그는 27살의 나이로 관리직을 꿰찼다. ex) His incredible talent landed him a director's role at the age of 27.
 
 ## laugh
+* laugh(웃다)에 off 를 붙이면 ‘웃어넘기다’가 돼요. off 는 붙어있다가 떨어지는 걸 의미하니까 웃음으로 안 좋은 일을 떼버린다고 연상해보세요.  참고로 laugh through it 은 ‘웃음으로 이겨나가다’를 뜻하는데, 이처럼 전치사를 붙이면 뉘앙스가 달라집니다.
+  * = 심각하게 받아들이지 말고, 그냥 웃어넘겨. Don’t take it seriously. Just laugh it off.
 * through는 무언가 힘든 일을 헤쳐나가는 뉘앙스가 있습니다. 예를 들어 go through(힘든 읽을 겪다), win through(성취해내다), pull through(병을 헤쳐나가다) 처럼 말이죠. 여기서 laugh through도 어두운 세상을 웃음으로 해쳐나간다는 의미입니다. 혹은 through 대신 off를 넣어 laugh something off라고 하면 “웃어 넘기다”라는 표현이 됩니다. 
   * 항암치료는 매우 힘들었지만, 그녀는 항상 웃음으로 이겨나갔다.  The chemotherapy was very hard, but she always laughed through it. 
 
@@ -4814,6 +4873,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * lyric는 단수로는 거의 안씀; lyrics are
 
 ## loose
+* get loose = 격렬히 즐기다; loose 가 '느슨한' 이라는 뜻이 있어서 원래는 잡혀있는 상태에서 느슨한 틈을 놓치지 않고 [달아나다] 의 뜻을 가집니다. 하지만 영상에서처럼 파티를 하는 경우엔 자기를 얽매고 있는 걸 다 털어버리고 격렬히 즐기는 것을 의미하는데요. 비슷한 표현으로 cut loose 가 [정신줄 놓고 놀다] 의 의미로 쓰입니다.
+  * = 모두들 오늘 밤 제대로 놀아봅시다! Let's get loose everybody tonight!
+* 선박에서 물건이 날라가지 않도록 밧줄을 단단히 묶던 것에서 유래한 표현이에요. loose ends 는 제대로 묶이지 않아 헐거운 끝부분으로 ‘미비한 부분, 설명되지 않는 부분’을 비유합니다.  be at loose ends: 빈둥거리다 (아예 다른 뜻)
+  * = 우리 거의 다 됐는데 아직 마무리 해야 할 부분 조금 남았어.We’ve nearly finished, but there are still a few loose ends to be tied up.
 * all hell breaks loose : 난장판으로 만들다. 대혼란이 일어나다; 비격식 표현으로 갑자기 소리지르거나 싸우면서 상황이 시끄럽거나 폭력적으로 변하는 것을 의미합니다.
   * 모든 사람들이 끝났다고 생각했을 때, 대혼란이 일어났다. ex) When everyone thought it was over, all hell broke loose.
 * 언제 터질지 모르는 폭탄 또는 그처럼 예측할 수 없는 사람을 지칭; loose canon 미국식  영국식 
@@ -5437,6 +5500,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * bad news = 문제아, 위험한 사람, 골치아픈 녀석; 비유적으로 bad news 는 ‘문제아, 질이 좋지 않은 사람’을 의미해요. 그래서 주변에서 함께하기 꺼려한다는 어감이 내포되어 있습니다.  참고로 news 는 셀 수 없는 단어에요. 종종 a news 라고 하는 경우가 있는데 잘못된 표현입니다. 
   * = 쟤랑 가까이 하지 마. 위험한 애야! Stay away from him. He's bad news!
 * : 안 좋은 상황 속에서 좋은 소식 전할 때, 좋은 쪽을 말할 때 유용하게 쓸 수 있는 표현이에요! GOOD 에 들어간 강세까지 기억해보세요. the good news is ~
+* 안좋은 뉴스를 알리다; break the news to somoene
 * : 어떤 소식이나 정보를 받아들이다, 반응하다 [take the news]
   * 그가 어떻게 반응했어? How did he take the news?
 * 'bad news'는 말 그대로 '나쁜 소식'입니다. 따라서 어떤 사물이나 사람이 'bad news'라고 하면, '불길하고 불쾌하고 달갑지 않은 대상'이라는 의미입니다. 특히, 사람의 경우에는 '문제를 일으킬 소지가 있어보이는 사람'을 말합니다.
@@ -5526,6 +5590,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## old
 * 오래된 이야기다; Tale as old as time
+* * It never gets old. = 질리지가 않아요.; 무언가에 '질리다' 라는 뜻의 표현은 be tired of, be fed up with 도 흔하게 쓰이는데요. 더 쉬운 표현이면서 실생활에서 많이 쓰이는 표현. 바로 It never gets old 입니다.
 
 ## other
 * other + 복수 명사/불가산 명사
@@ -6229,6 +6294,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그게 우리 여행의 하이라이트였어 그게 우리 여행의 하이라이트였어.
 
 ## prepare
+* prepare for: 철저히 준비하다
 * be prepared to v;
 * # prep; 자동사로도 쓸 수 있고, 타동사로도 쓸 수 있다.
 * 명사 앞에도 쓰이기도 한다; 입시 학원: a prep school
@@ -6403,6 +6469,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 	* 애들이 금방 크는 건 막을 수 없겠지만, 애들이 자랄 때 옆에 함께 해줄 순 있어요. We can’t stop our children growing up so fast, but we can be present. 
 * 형용사 ‘존재하는’의 present에서 명사로 presence가 된 것입니다. 우리말로는 ‘존재함, 있음’인데 문맥에 따라 보이지는 않지만 존재한다고 느껴지는 것, 즉 ‘귀신, 영혼, 신비한 존재’를 뜻하기도 합니다. 이 외에 귀신, 영혼을 뜻하는 단어로는 ghost, spirit, phantom 등이 있습니다.
   * 미친 소리처럼 들리는 거 아는데, 전 이 집에 뭔가 있는 게 느껴졌어요. I know it sounds crazy but I felt a presence in this house.
+
+### presence
+* 무대 장악력이 환상적이었어; The stage presence
 
 ## power
 * 'power through (sth)'은 '어려운 상황에 부딪혔을 때, 강하고 단호하게 계속해서 끝을 보다'를 의미합니다. '돌파하다' '이겨내다' 등으로 번역할 수 있겠죠.
@@ -6744,6 +6813,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 'run sth by sb'는 '[무엇]에 대한 [누구]의 의견을 구하기 위해 보여주다/말해주다'라는 의미죠^^? informal(비격식)한 표현이라고 하네요.
   * 당신께 검토받고 싶은 아이디어가 몇 개 있어요. [ex] I've got a few ideas I'd like to run by you.
 
+### run down
+* tears/sweat/blood run down one's face = 눈물/땀/피가 얼굴(뺨)을 타고 흐르다.; 동사 run 에 '흐르다' 라는 뜻이 있는데요. run down one's face 의 경우엔 무언가가 뺨을 타고 내리는 것을 의미합니다. 문장 전체로 익혀두시는 것이 좋은 표현이에요.
+  * = 눈물이 그녀의 뺨을 타고 흘렀고, 난 어떻게 해야 할지 몰랐다. Tears were running down her face, and I didn't know what to do.
+
 ### run on
 * 토의는 예상보다 길게 늘어졌다. The discussion ran on for hours; : (말을) 계속하다, (필요 이상으로) 길게 끌다
 
@@ -6865,6 +6938,12 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그들은 로또에 당첨되었다는 소식을 듣고 충격으로 휘청거렸다. They were reeling from the news that they had won the lottery. 
 * reel은 ‘실패, 얼레’란 뜻입니다. 그리고 reel in 이라고 하면 마치 낚싯대로 물고기를 감아올리는 것 같이 당기거나 끌어올리는 걸 의미합니다. 그래서 클레어가 말한 I’m reeling in the wine은 와인을 끌어 당기겠다, 즉 “와인을 많이 마실 거다”라는 것입니다.
   * 그들은 어제 엄청 큰 생선을 감아올렸다. They reeled in the giant fish yesterday.
+
+## remember
+* 돌아오는 길에 강아지 사료가 거의 떨어졌다는게 생각나서 가게에 들러서 강아지 사료랑 간식을 좀 샀어요
+ * On our way back, I remembered that we were almost out of dog food. 
+ * So we stopped by the store to pick up some dog food and some snacks.﻿
+ * 생각나다: thought 보다 remembered that로 표현
 
 ## remind
 * 여기 모든 사진은 그날의 추억을 떠올리게 해줘. ex) Every picture here is a reminder of that day.
@@ -6988,6 +7067,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## summit
 * summit 은 [산 정상] 을 의미하기도 하지만 [정상 회담] 을 의미하기도 해요. summit conference 라고도 합니다. 함께 알아두시면 좋은 단어는 [6자 회담] 인데요. 과거에는 남북대화 이후에 미국,중국.일본,러시아,한국,북한 이렇게 6자 회담을 진행해왔죠. 6자 회담은 six-party talks 라고 하고요. 아마 이번에는 4자 회담이 진행될 것 같은데, 이때는 four-party talks 라고 하면 되겠죠?
   * 6월달에 싱가포르에 트럼프와 김정은 간의 정상회담이 있을 예정입니다. ex) There will be a summit between President Trump and Kim in Singapore in June. 
+
+## shed
+* 이 모든것을 벗어버려야 해요; you literally have to shed that
 
 ## sheer
 * 속이 다 비칠 정도로 얇은 나일론 sheer nylon 
@@ -7289,6 +7371,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 그 비서는 5년에 걸쳐 수십억을 빼돌려 고발당했다. ex) The secretary was accused of siphoning millions of dollars over the course of 5 years. 영상에서는 동사 1번의 의미로 쓰여서 돈을 [빼돌리다] 의 의미를 가집니다. 비격식 표현이며, 종종 위법으로 빼내는 것을 의미합니다. 1. (돈을) 빼돌리다. 끌어내다. 2. 사이펀으로 옮기다/뽑아내다.
 
 ## sight
+* on sight = 단숨에, 첫눈에
+  * = 그들은 보이는 즉시 널 체포할 거야. They will arrest you on sight.
 * sighted people = 앞을 보는 사람들; blind 는 많이 아시는데, 그 반대말은 잘 모르는 경우가 많은 것 같아요. 시력이 정상인 것은 아주 간단하게, sighted 라고 합니다. - far/long-sighted: 원시의 - near/short-sighted: 근시의 - clear-sighted: 판단력이 있는 - weak-sighted: 시력이 약한  - dim-sighted: 시력이 흐린, 침침한
   * = 그는 완전 시력을 잃은 건 아니고, 부분적으로 볼 순 있어. He’s not totally blind. He is partially sighted.
 * 그녀를 한눈에 알아봤다. I recognized her on sight. on sight: 보자마자, 발견 즉시, 한눈에
@@ -7484,6 +7568,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
     * 크리스티는 친구들에게 다이아몬드 반지를 뽐내고 있었다. Christy was sporting a diamond ring to her friends.
 
 ## spoil
+* 스포하지마; Don't spoil the ending
 * spoil somebody는 누군가를 '잘 챙겨줘서 즐겁게 해준'다는 뜻이에요~ 아이를 spoil하는 건, 사달라는 걸 다 사주고, 오냐오냐한다는 뜻이랍니다!
   * 걔가 내 생일 때 정말 잘해줬어. She really spoiled me on my birthday.
 * 스포일러 주의; Spoiler alert
@@ -7639,11 +7724,13 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 오늘 차 한 잔 내놓고 앉아서 내 인생을 천천히 되짚어봤어. [ex] Today I sat by myself over a cup of tea and took stock of my life.
 * 조롱의 대상, 즉 웃음거리라는 뜻이에요. stock은 아주 옛날에 공개 모욕을 형벌로 내리던 시절 사용하던 도구로, 목과 속목이 판자에 난 구멍에 통과하는 그런 거랍니다.
   * 그 사건 이후로 그녀는 위원회에서 웃음거리가 되었다. [ex] After that incident, she became the laughing stock of the committee.
-* stock answer: 상투적이고 형식적인 답변                                
+* stock answer: 상투적이고 형식적인 답변  
+* 창고에 없어; We don't have it in stock                              
 
 ## store
 * be in store for: ~가 기다리고 있다, ~가 준비되어 있다
   * 네가 깜짝 놀랄 일이 준비되어 있어. I have a big surprise in store for you.
+* 가게에 들르다; stop by the store; 통째로 외우기
 
 ## storm
 * 1) '폭풍' 으로 가장 잘 알려진 storm 은 무언가가 빠르고 강렬할 때 비유적으로도 많이 쓰입니다. storm 이 동사로 쓰일 경우엔 [급습/기습하다] 의 의미로도 쓰이는데요. 그런 기습이 범인들에겐 마치 폭풍과도 같겠죠.
@@ -7998,6 +8085,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 친구 많이 사주자; Let's shower her with gifts
 
 ## shoot
+* 저 영화 촬영지가 어디지? Where did they shoot that drama?
 * 나는 그 회의 끝에 급히 떠나야 했다. I had to shoot off at the end of the meeting. 
 * (특히 잇속을 차리려다가) 자기 무덤을 파다 shoot yourself in the foot 미국식  영국식   단어장추가
 * "금액을 제시해 보세요."  "Shoot me an offer" 여기서 shoot me는 날 쏘라는게 아니고, ‘주다, 건내주다’입니다. 그래서 바꿔 말하면 give me an offer 입니다. 
@@ -8566,6 +8654,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 돈이면 다 된다. (돈이 모든 것을 이기기 때문에)  Money trumps everything.
 * 누명을 씌우다; trump up
 
+## thrift
+* thrift = 중고매장에서 물건을 구경하다; 원래 thrift 는 ‘근검, 검소’를 말하는데요, 요새는 의미를 확장시켜 ‘중고매장(thrift store)에서 알뜰 구매하다’라는 뜻으로 씁니다. 
+  * = 너 그 자켓 입으니까 멋지다. – 고마워. 중고매장에서 건졌어. (fly: 멋진)You look fly in that jacket. – Thanks. I found it while thrifting.
+
 ## thrive
 * 보통 동식물이 (무럭무럭) 자라나다, 상업이 번창하다, 잘된다고 할 때 사용되는 thrive가 thrive on OO에서처럼 사용되면
   * 1. ~을 먹고 자라다 2. (보통 사람들이 즐기지 않는 일에서) 성공하거나 즐거움을 느끼다
@@ -8752,6 +8844,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : 목청껏, 있는 힘껏 큰소리로 응용 예시1. at the top of my lungs; [ex] We were screaming at the top of our lungs.
 * : 지금 머리속에서 막 생각나는건 응용 예시2. off the top of my head
 	* 지금 바로 머리속에 생각나는게 없어. [ex] I can't think of anything off the top of my head.
+
+## tap
+* tap into = 다가가다 / 활용하다, 가져다 쓰다; 우리가 멀티탭(multi-tap)에 플러그를 꽂으면 전기를 가져다 쓸 수 있는 것처럼 tap into 는 ‘활용하다, 가져다 쓰다, 연결하다’라는 뜻이 있어요. 
+  * = 그는 회사의 데이터베이스에 접촉했다. He managed to tap into the company's database.
 
 ## tax
 * Tax vs. Tax dollars; 여기서 Have some tax dollars! 는 말이 되지만, Have some taxes! 는 말이 안됩니다.  왜냐면, 둘 다 ‘세금’이라고 해석되지만, 사실 가리키는 바가 다르기 때문이죠!
@@ -9094,6 +9190,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## viva
 * 멕시코 만세; so viva Mexico
+
+## victim
+* ＊ play the victim = 피해자인 척 하다
+  * = 그녀는 항상 자신이 피해자인냥 행동하며 이야기를 왜곡시킨다. She always plays the victim and twists the story.  [ˈvɪktɪm]
 
 ## vice
 * [명사] (섹스·마약이 관련된) 범죄 vice 미국·영국 [vaɪs]  영국식   단어장추가  중요
@@ -9442,6 +9542,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그는 대중의 엄청난 지지를 얻었습니다. [ex] He has won huge public support.
 
 ## window
+* 우리는많은 겉치례 일을 한다  We do a lot of window dressing. 듣기
 * #기회의 창; have a small #window
   * 우승 가능성; the championship window
 * 창문을 내리고 제 타이어를 가르켰다; He put down the window and pointed a finger at my tire
@@ -9452,6 +9553,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 현실에서는 그런 것들이 쓸모 없어진다. In real life, such things go out the window.
 
 ## wind
+* 손가락에 붕대를 감으세요; WInd the bandage around your finger
 * 구불구불한 도로에요; it's a windy road
 * 행방이 묘연합니다; he's in the wind
  * 지금은 상처를 물에 닿지 않게 하렴     Keep the wound away from water for now 

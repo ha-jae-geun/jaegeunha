@@ -1185,6 +1185,9 @@
 # 그냥
 * # 아니야; Oh its nothing. It's just that..
 
+# 그랬으면
+* That way,
+
 # 그만
 * ☆#작작해       	 #Tell that to the onion rings, #knock it off, enough with the drink, #enough is enough
 * 아 꺼져요; Come off it
@@ -1762,6 +1765,11 @@
   * She's seeing someone five years her junior.
   * when I was #around ~
 * #연륜‘ ears of experience 연륜 있는 작가 a(n) veteran[experienced] writer 
+
+# 나중
+* "아까 친구한테 전화가 왔었는데 내가 뭘 좀 하고 있어서 못받았어. 이따 밤에 내가 다시 전화하려고."
+* Earlier today, I got a phone call from my friend, but I couldn’t get it because I was in the middle of something at that time. I will call him back sooner or later tonight.﻿
+  * later tonight: 지금이 밤이여도 나중에라는 말로 사용할 수 있음
 
 # 나타나다
 * 인류가 떨어뜨린 씨앗에서 곡물(crop)이 자란 것을 우연히 발견하게 되었죠. 같은 맥락일까요? 예기치 않게 무언가가 갑자기 출현하는 것을 crop up 이라고 합니다. 혹은 특정 주제가 말 속에서 계속 언급되는 것는 것도 crop up 입니다.
@@ -2781,6 +2789,7 @@
 * # 간신히 #껴우 기차에 탔다; I caught the train at the eleventh hour; at the last minute
 
 # 만나다
+* hang out: 1. 놀다 2. 만나다  <> meet 처음 본 만남; hung out with a friend
 * 지금 보고 계시는 프렌즈는 미국 시트콤이기에 미국식 표현이 대부분인데요. 영국에서는 meet with 나 meet up with 를 많이 쓰지는 않습니다. 참고하시고..
 	* 1) meet 은 누군가와 '처음 만날 때' 또는 만난 사람이 '모르는 사람' 일 때 씁니다. I met a bunch of people at the party.
 	* 2) meet with 는 나름 격식을 차리고 만나야 하는 사람을 만날 때 쓰는데요. 약속을 정하고 변호사, 은행원, 의사 등을 만날 때 이 표현을 씁니다. 영상에서도 처음 만나긴 하지만, 약속을 정하고 직업에 관해 이야기하려고 만난 것이기 때문에 이 표현을 썼어요. I will meet with my accountant at noon.
@@ -5398,6 +5407,9 @@ retaliate
   * 왜 매번 내게 뻔한 답변만 하는 거야? 난 네가 진짜 무슨 생각을 하는지 알기를 원해. ex) Why do you always give me canned responses? I want to know what you really think.
 
 # 신경
+* 신경쓰지마; Don't care about me; care: 소중하게 여기다;
+  * 나 때문에 방해가 될 때는; DOn't mind me
+  * 상대방의 염려를 거절할 때; Don't worry about me
 * : (~에 대해) 신경을 안 쓰다 not give a shit/damn/fuck (about ~)
   *  자주 쓰이는 구어체로서 'don't give a damn' 급의 무례한(?) 표현이에요. 가까운 사람들과는 사용할 수 있겠지만 공식적인 자리에서는 유의하며 사용하시길!!! give a toss
   * 그 사람들이 어떻게 생각하든 난 신경 X도 안 써. [ex] I don't give a shit/damn/fuck about what they think.
@@ -6035,6 +6047,8 @@ retaliate
   * 돈을 장기간 투자하고 싶습니다. ex) I want to invest my money for the long haul.
  * 아무리 누추하더라도            Be it ever so humble; home is home
  * the poverty and #squalor of the slums 빈민가의 가난과 불결함; live in squalor : 불결한 생활하다
+ * # 오랜만에;  * "We hadn't seen each other in a while."에서 in a while - "동안"이라는 전치사를 for가 아니라 in을 쓰는 이유는 앞 문맥이 부정형이기 때문입니다.
+ * 부정문의 문맥에서는 'for a while'보다 'in a while'가 더 잘 어울리는 경우가 대부분입니다.(예외는 있음)ㄹ
  * ## 누추 # 허름
 
 # 오염
@@ -6795,6 +6809,9 @@ retaliate
   * 인구 밀도가 낮은                thinly, sparsely
 
 # 인사
+* 아, 걔 네 생일파티에서 인사했던 그 여자인가?
+ * A : Oh, Is she the one who I said hello to (her) at your birthday party?
+ * 인사하다: meet
 * curtsy 는 여성이 상체를 숙이며 무릎을 굽히고 인사하는 것을 의미해요.  영화에서 백작 부인이나 공주, 왕비에게 사람들이 치마를 살짝 들어올리며 한쪽 발은 뒤로 빼고 인사하는 걸 보신 적 있으실거에요. 그런 인사를 의미합니다. 명사로 쓰이기도 합니다.
   * 앞 줄의 몇몇 여성들은 왕비에게 품위있게 인사했다. ex) Some of the women in the front line curtsied to to the Queen.  [ˈkɜːrtsi]
 * # 안부; : 주로 문제 없는지 확인하기 위해서, 혹은 안부를 전하기 위해서 통화를 하거나 잠깐 얼굴을 비추는 등 '~와 연락을 하다, ~를 확인하다' 라는 뜻이랍니다. 
@@ -6874,8 +6891,10 @@ retaliate
   * #at large; #사회 전반(#전반) the society at large | the public at large
   * # 지배하다 # 일반적인 # 대체적인 # 만연한
   * 그 영화 대체적으로 괜찮았던 거 같아. I think the movie was pretty good on the whole.
-  * take the wheel은 직역하면 운전대를 붙잡다는 의미로, 어떤 일의 지배권을 # 장악하다는 비유로 많이 쓰이는 표현이죠.  take over는 다른 사람이 가지고 있던 것을 넘겨 받는다는지, 자신이 영향력을 더 키워 회사나 사업, 장소 등을 장악/인수하는 걸 의미합니다. 지배권의 변화를 암시해요. 여기서는 이 두가지 표현이 복합적으로 사용되었네요~ 가볍게 어떤 일을 리드한다는 뜻으로도 말할 수도 있겠죠.
+  * take the wheel은 직역하면 운전대를 붙잡다는 의미로, 어떤 일의 지배권을 # 장악하다는 비유로 많이 쓰이는 표현이죠.  take over는 다른 사람이 가지고 있던 것을 넘겨 
+  받는다는지, 자신이 영향력을 더 키워 회사나 사업, 장소 등을 장악/인수하는 걸 의미합니다. 지배권의 변화를 암시해요. 여기서는 이 두가지 표현이 복합적으로 사용되었네요~ 가볍게 어떤 일을 리드한다는 뜻으로도 말할 수도 있겠죠.
   * 에드워드가 사업을 책임지게 된 후 매출액은 계속 늘고 있다. Ever since Edward took over the wheel, our sales have been on the rise.
+    * * 무대 장악력이 환상적이었어; The stage presence
 
 # 일어나다
 * #재기하다 get back on one's feet; I'm trying to get back on my feet
@@ -8859,6 +8878,7 @@ retaliate
 * 팔짱끼고 걸어가고있따; They're walking arm in arm
 
 # 편
+* 전 당신편이에요; i'm in your corner
 * #side with; Who’s the court’s gonna side with
  * #favor; in one's favor; the data is not in our favor
  * 나는 항상 중립된 자세를 유지하려하며, 누군가의 편을 들지 않으려고 노력한다        편들다
