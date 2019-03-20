@@ -562,6 +562,8 @@
 * 좋으신대로 어떻게든 하세요. [ex] You do it anyway you like. 4. 어떻게든지, 아무렇게나
 
 ## some
+* That was some party! = 진짜 끝내주는 파티였어!; some 이 '약간' 이라는 뜻으로 가장 많이 쓰이긴 하지만, 비격식 표현으로 무언가를 강조해주듯 쓰일 땐 [대단한, 상당한, 멋진] 등의 의미를 가집니다. 때로는 누구를 비꼬듯 말하며 반어적인 의미로 쓰이기도 해요.
+  * = 어젯밤에 진짜 끝내주는 공연이었어! It was some performance last night!
  * 부정문 any: 1. any friends(복수명사), any water(셀수 없는 명사), any children(특정한 무리)
  * 2. 평서문: 아무거나: i'll have anything
  * 3. 일반적인 의문문 Do you have any sibling?
@@ -1970,6 +1972,10 @@
 * 방이 좀 답답해요              This room is a little #cramped
 
 
+## cruel
+* cruelty free = 동물 실험을 하지 않은; 동물 실험(animal testing)은 비윤리적이고 잔인(cruelty)하다는 인식이 점차 확산되고 있죠. 그런 실험을 하지 않은(free) 제품을 cruelty free 라고 부릅니다.
+  * = 나는 동물 실험을 하지 않은 제품만 사용해. I only use cruelty free products.
+
 ## crumble
 *  1) 여기서 crumble은 ‘흔들리다, 무너지다’인데요, 조직체나 제국, 시스템, 관계, 희망 등이 막을 내린다는 의미입니다. 혹은 쿠키, 벽 등이 ‘바스러지다, 부숴지다’라는 뜻으로도 쓰입니다. 이와 관련해서 재미있는 표현이 있는데요, 바로 “That’s the way the cookie crumbles!” 입니다. ‘인간 세상사가 다 그런거지! / 인생이 다 그런거지!’라는 뜻의 속담으로 영화 대사에서도 종종 나오는 말이에요. 
   * 사회주의가 몰락한 원인이 뭐라고 생각하세요? What do you think caused socialism to crumble?
@@ -2020,6 +2026,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그 남자의 모습이 방 안에 있던 모든 사람들을 소름 돋게 했다. ex) The guy's look crept out everyone in the room.
 * 동사 creep 은 [살금살금 움직이다/기어가다] 라는 뜻이 있는데요. 뒤에 up 이 붙으면 기어가듯 [서서히 오르다] 라는 의미를 가지게 됩니다. 영상에서는 [서서히 오르는 잠재의식 입니다] 정도로 직역이 돼요.
   * 저번 달 매상이 별로였지만, 지금 조금씩 오르고 있어요. 모두들 쭉 열심히 합시다. ex) I know the sales last month were down, but they are creeping up now. Keep it up, guys.
+
+## concoct
+* 그 수프는 최고 열두 가지나 되는 여러 종류의 생선들을 섞어 만든 것이었다. The soup was concocted from up to a dozen different kinds of fish. 
 
 ## conceal
 * 여성분들은 아마 이 단어를 쉽게 아실지도 모르겠어요! 화장품 중에 컨실러 (concealer) 라고 있는데, 피부에 난 여드름, 주근깨, 기미 등의 결점 등을 숨기기 위해 쓰거든요. hide 와 거의 같은 단어이지만, conceal 이 조금 더 격식있는 단어이며, 의도치 않게 무언가가 숨겨질 때는 hide 를 쓸 수 있지만, conceal 은 무언가를 '의도적으로' 숨기는 뉘앙스가 강한 단어입니다. 컨실러처럼요.
@@ -2092,6 +2101,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * crash an audition = 불쑥 찾아가 오디션을 보다; crash the party라는 표현이 있습니다. 초대받지 않았는데 불쑥 파티 장소에 가는 것을 뜻하죠. 같은 의미로 crash an audition도 원래 캐스팅 관계자로부터 사전에 오디션에 오라고 연락받지 않았는데, 불쑥 찾아가서 오디션을 보는 것을 말합니다.  찰스 마티넷도 사전에 오디션에 오라는 통지를 받고 간 것이 아니라, 현장에서 면접관들을 붙잡고(catching them) 대본을 읽어볼 기회를 달라고 한 것입니다.
 * crash는 보통 자는 곳이 아닌 다른 곳에서 잠을 잔다는 뜻이랍니다!
   * 할 게 너무 많아서 책상 위에서 잠을 잤어. I had so much to do that I crashed on the desk.
+
+## custody
+* 아이들의 양육권은 누가 가지고 있어요? Who has custody of the children? 듣기 출처:능률교육
 
 ## curtain
 * 5분 뒤에 시작합니다. five minutes to curtains
@@ -2638,6 +2650,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * develop 은 기본적으론 [개발하다] 라는 뜻이지만, 없던걸 만들어내는 뉘앙스이기 때문에 뒤에 병명이나 어떤 문제가 목적어로 오게 되면 1) 없던 병에 걸리거나 2) 문제가 생길 때도 쓰이는 단어입니다.
 	* 아이들에게 발진이 생기면 병원에 데리고 가세요. ex) Take your kids to hospital if they develop a rash.
 
+## done
+* done 은 무언가가 다 끝났을 때 쓰는 단어인데요. 이게 다시 undone 된다는 말은 완전했던 무언가가 해체되고, 분해되는 걸 의미합니다. 보통 끈, 실, 포장지 등이 풀리는 것을 의미하는데요. 비유적 표현으로 계획이나 예상한 일이 수포로 돌아가고, 예상치 못한 방향으로 흘러가는 걸 의미하기도 해요.
+  * = 너 신발 끈 풀렸어. 묶는 게 어때? 넘어질지도 몰라.Your shoelace has come undone. Why don't you tie it up? It might fall.
+
 ## dog
 * 그는 상사의 미움을 사고 있다 He is in the doghouse with the boss. 듣기 출처:능률교육
 
@@ -2748,6 +2764,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## effect
 * effect on; eccectives of; effective
+
+## expire
+* 이게 유통기한이 2015까지였어요; THis expired in 2015
 
 ## extra
 * - 추가요; relish extra
@@ -3074,6 +3093,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 얼음 길에서 미끄러져서 왼쪽 발이 골절되었어. I slipped on an icy road and fractures my left foot.
 
 ## frame
+* 대략적인 시기라도 알 수 있을까? Can we get a time frame?
 * frame 의 기본적 의미는 무언가를 둘러싸고 있는 [틀] 을 의미해요. 안경테, 액자틀, 모두 frame 이라고 하는데요. 말을 할 때는 어떤 특정한 틀 속에서 이야기를 하는 것이기 때문에, 영상에서는 특정한 방식으로 '포장하다' 해석이 되었습니다.
 	* 이걸 어떻게 포장해서 걔들한테 말할까 생각중이야. ex) I'm thinking about how I should frame this to them.
 * 누명; i'm framed
@@ -3140,6 +3160,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * fight about VS fight over : ~문제로 싸우다 VS ~를 두고 싸우다!
   * 걔들은 아직도 엄청 예전 일 때문에 싸워. They still fight about something that happened years ago.
   * 우린 서로 리모컨 갖겠다고 싸우곤 했지. We used to fight over the TV remote.
+
+## file
+* file nails = 손톱을 매끄럽게 손질하다; 동사 file 은 ‘매끄럽게 문대서 다듬다’라는 의외의 뜻이 있어요. 손톱관리에 관심있는 분들은 잘 아실텐데요, 영상에 보이는 긴 막대는 손톱의 울퉁불퉁한 부분을 다듬는데 쓰는 도구입니다.  표면에 사포가 붙어있어서 sandpaper nail file 이라고 불러요.
+  * = 그녀는 앉아서 손톱손질을 하고 있었다. She sat filing her nails.
 
 ## film
 * 지금 녹화중이에요. I'm filming
@@ -4317,6 +4341,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 넌 그 모든 가상의 위험들은 걱정 안 해도 돼. 진짜가 아니잖아. ex) You don't have to worry about all those hypothetical dangers. They are not real.  [ˌhaɪpəˈθetɪkl] 
 
 ## hype
+* What is the hype all about? = 왜 그렇게들 난리야?
+  * = 왜들 그렇게 난리야? 그냥 모바일 게임일 뿐이잖아.  What’s the hype all about? It’s nothing but a mobile game!
 * 2) hype 는 무언가의 중요성이나 이점을 부풀리면서 대대적으로 홍보하는 것을 hype 라고 합니다. 영상에서는 소셜미디어가 실제 가지는 영향력보다 좀 더 과장되게 홍보가 되어 있다는 점을 hype 라고 표현을 했고요. 그런걸 오해로 보고, 위기 상황으로 보는 발표자의 인식을 나타내는 표현입니다.
 	* 이건 과장광고일 뿐이야. 난 저딴거 안 믿어. ex) It's nothing more than a hype. I don't believe that shit.
 * hype 는 슈퍼팬에서도 여러 번 다뤘던 단어인데요, 미디어에서 대대적으로 떠드는 것, 사람들이 열광하는 것을 말합니다. 문장을 통째로 외워서 “도대체 …가 뭐길래 그렇게 난리들이야?” 라고 말하고 싶을 때 활용해 보세요!
@@ -4342,6 +4368,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * (화가 난 상대방에게 하는 말로) 진정해라 keep your hair on 미국식  영국식   단어장추가
 
 ## head
+* 나대지마; Keep your head down
 * head는 어느 방향으로 '향한다'는 뜻이에요. 향하는 그곳은 꼭 목적지가 아닐 수 있죠. go는 보통 가고자 하는 목적지를 명확히 말할 때 쓰는 표현이에요. 예를 들어 "I'm going home"이라고 하면 집으로 바로 가는 느낌인 반면, "I'm heading home"은 집으로 갈 계획이되, 중간에 어딜 들를 수도 있다는 어감이 살짝 더 느껴져죠. 가능성이 좀 더 열려있는 느낌이죠.
 * keep one's head down: 그대로 풀이하면 '고개를 숙인 채로 있다'인데요, 위험을 피하기 위해 몸을 낮추듯, 괜히 다른 사람의 주의를 끌어 곤란한 지경에 빠지지 않도록 '눈에 띄지 않게 조용히, 신중히, 얌전히 행동하는 것'을 말해요. 
   * 시킨대로만 얌전히 행동해. Do what you’re told and keep your head down.
@@ -4458,11 +4485,17 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ### hang on
 * : 잠깐만요. Hang on; Hang on a second.
 
+## inkling
+* have an inkling = 짐작하다, 알아차리다; 명사 inkling 은 우리말의 ‘눈치, 짐작, 낌새’에 해당하는 말로 hint 와 의미가 비슷합니다. 동사는 보통 give/have 등을 씁니다.
+  * = 그녀가 한국인이라는 걸 전혀 눈치 못챘어! I didn't have the slightest inkling that she was Korean!
+
 ## initiative
 * 저는 주도적입니다; i take initiative
 
 ## inmate
 * 정신적으로 불안한 재소자 an inmate who is mentally disturbed. 듣기 출처:Collins
+* 1) inmates = 수감자, 재소자 / 정신병원 환자; ‘갇혀 있다’라는 어감이 많이 느껴지는 단어에요. 동의어로는 prisoner 가 있는데요, prisoner 는 [포로] 라는 뜻도 있습니다.
+  * = 두 명의 수감자가 폭동 중에 탈출했다. Two inmates escaped during the riot. [ˈɪnmeɪt] 
 
 ## inclement
 * #궂은 날씨 in·clem·ent ; inclement weather conditions
@@ -5893,6 +5926,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
  * 그렇게 일정을 잡아 둘게요.         I'll pencil it in. Let me pencil it in.
 * 8순 잔치에 돈이 얼마나 들어갈 건지 액수를 대략적으로 한번 잡아보자; Let's pencil out the cost for Mom's eightieth birthday party
 
+## personal
+* 거리를 지키려는 거구나; Personal space.
+
 ## performance
 * show high/good work performance
 
@@ -6345,6 +6381,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * i made a promise to my friend that i'm going to keep it secret
 
 ## plead
+* 어떻게 답변하시겠습니까? How do you plead?
 * 여기서 plead는 ‘변호하다’라는 뜻입니다. 그래서 plead a case는 ‘사건을 변호하다’고, 영상에서는 흐름상 '내 편이 되어주다'라고 번역하였습니다. 내 편이 되어 변호를 해 주었으니까요. 
     * 그는 그의 사건을 변호해 줄 변호사를 고용했다. (plead: 변호하다) He hired a lawyer to plead his case. 
   * 그녀는 그에게 마음을 바꾸라고 애원했지만 그는 듣기를 거부했다. (plead with~: ~에게 애원하다) She pleaded with him to change his mind, but he refused to listen.
@@ -6889,6 +6926,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## rain
 * 'make it rain'은 공연이나 사람들이 있는 곳에서 돈을 말 그대로 뿌리는 것을 의미해요. 자신의 재력을 과시하기 위한 행위로 볼 수 있는데요, 힙합 뮤지션들이 자주 쓰는 표현이기도 합니다.
+* i'm gonna need a rain check
+  * Can i take a rain check?
+
 
 ### rainbow
 * chase a rainbow Wiktionary;[Verb] (idiomatic) To pursue something illusory, impractical, or impossible.
@@ -6922,6 +6962,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 우리나라에는 잘 없지만, 미국이나 캐나다처럼 국립공원이 굉장히 큰 곳에는 그곳에 매일 출근하여 관리하는 사람들이 있어요. 돌아다니면서 화재가 있는지 보고, 방문객들에게 그 지역의 동식물에 대해 설명하는 일에서 부터 법을 어겨 공원에 해를 입히는 사람들을 체포하는 일까지 다양한 일을 합니다.
   * 10명의 경비원이 이 전체 구역을 관리하는 책임을 가집니다. ex) 10 rangers are responsible for covering this whole area.
 
+## rein
+* 고삐를 당기고있따; pulling reins back  [reɪn] 
+  * 고삐를 매다; i put a bridle on the camel [ˈbraɪdl]
+
 ## reinstate
 * 그러나, 나는 아직 복직할 필요가 없다. But I still don't have to reinstate. 듣기
 * 그들은 회사를 회복시키길 원한다.  They want to reinstate the company.   
@@ -6937,9 +6981,17 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 공식적으로 이야기하다 = go on record 자신의 입장, 견해 등을 이야기할 때 무언가를 공식적으로 표명하여 기록에 남기고 싶을 때 쓰는 표현입니다. 영상에서는 남녀가 티격태격하며 자기가 무엇을 수리했는지 조목조목 따지려고 하기에 의도적으로 쓴 표현이라고 볼 수 있습니다.
   * 공식적으로 이야기하기 전에, 시간을 들여 정말로 그렇게 하고 싶은지 생각해 보세요. ex) Before going on record, take your time and think if you really want to do that.
  
+## rebound
+* rebound = 헤어진 연인을 잊기 위해 만나는 사람; 이별의 아픔을 잊으려고, 혹은 실연 후 홧김에 만나는 사람이 rebound 에요. 사람뿐만 아니라 그런 관계나 상태 모두 rebound 를 넣어 표현합니다. - rebound relationship: 실연의 상처를 극복하려 다른 사람을 만나는 것 - on the rebound: 극복 못 한 / 잊으려는 반발심에
+  * = 저 여자는 그냥 만나는거야. 걘 아직 맨디를 잊지 못했어. She’s just a rebound. He hasn’t got over Mandy, yet.
+  * = 내가 마크와 깨지고 아직 잊지 못한 상태에서 그는 나를 처음 만났다. He first met me when I was on the rebound, after splitting up with Mark.
+
 ## reburbish
 * 여러분 ‘리퍼폰’이라고 들어보셨나요? 초기 불량품이나 중고 제품을 신상품 수준으로 정비하여 다시 내놓은 제품이죠. 여기서 '리퍼'가 바로 refurbish 에서 딴 말입니다.  refurbish 는 성능을 개선하거나 외관을 꾸민다는 것으로 [이미지를 쇄신하다, 집을 개조하다, 새단장하다] 등등 다양하게 해석됩니다.  refurb : 리퍼제품 / 새단장, 수리 (=refurbishment)
   * = 그랜드 호텔은 최근 완전히 새단장 되었다. The Grand Hotel has been completely refurbished.
+
+## refute
+* 무언가가 잘못되었다고 말하거나 입증하는 걸 의미하는 단어죠. 목적어로 사람, 이론, 주장 등을 쓸 수가 있습니다. (refute a person/theory/claim 등)  [rɪˈfjuːt
 
 ## refresh
 * : 짧게 다시 알려주는 것, 짧게 다시 인지시켜 주는 것 [quick refresher] refresher는 이전에 알려줬던 것을 다시 상기시켜주고 알려주는 것을 말합니다. 그래서 quick refresher는 짧게 다시 알려주는 것, 또는 그 행위를 뜻합니다
@@ -7089,6 +7141,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## summit
 * summit 은 [산 정상] 을 의미하기도 하지만 [정상 회담] 을 의미하기도 해요. summit conference 라고도 합니다. 함께 알아두시면 좋은 단어는 [6자 회담] 인데요. 과거에는 남북대화 이후에 미국,중국.일본,러시아,한국,북한 이렇게 6자 회담을 진행해왔죠. 6자 회담은 six-party talks 라고 하고요. 아마 이번에는 4자 회담이 진행될 것 같은데, 이때는 four-party talks 라고 하면 되겠죠?
   * 6월달에 싱가포르에 트럼프와 김정은 간의 정상회담이 있을 예정입니다. ex) There will be a summit between President Trump and Kim in Singapore in June. 
+
+## shelve
+* 비슷하게 생긴 단어로 '선반'을 의미하는 shelf 가 있는데요. shelve라는 동사는 무언가를 '선반에 넣다'라는 뜻도 있지만, 계획이나 프로젝트 등을 [보류하다]라는 뜻으로도 쓰인답니다.
+  * = 예산이 부족해서 경영진은 그 프로젝트를 보류하기로 결정했습니다. The management has decided to shelve the project as the budget is tight.
 
 ## shed
 * 이 모든것을 벗어버려야 해요; you literally have to shed that
@@ -7345,6 +7401,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## score
 * * 묵은 원한을 갚다. pay off an old score 듣기 출처:프렌딕
+
+## sarcastic
+* 지금 비꼬는거야? ARe you being sarcastic?
 
 ## sash
 * ＊ sash = 몸에 두르는 띠 / 샤시; 영상에서 보이는 몸에 두르는 띠 있죠? 그걸 영어로 sash 라고 합니다.; 혹은 창문의 유리판과 그것을 두르는 틀, 즉 ‘창문샤시, 베란다샤시’라고 할 때 샤시가 영어식으로는 sash 에요.  한국에서 ‘샤시’라고 부르는 건 일본에서 건너왔는데요, ‘유리창, 유리문’을 뜻하는 불어의 châssis 에서 유래했다고 합니다.
@@ -7951,6 +8010,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## state
 * 지금 현상황은 더 이상 용납되지 않을 거야. The present state of affairs can't be allowed to continue.
+* state-owned company = 공기업; 1) state는 '국가, 나라'를 의미하니, 직역하면 [국가에 의해 소유된 기업] 이니 바로 [공기업]이죠. state-owned는 국가가 운영하는 [국영의] 뜻을 가지기에 state-owned bank/industry/airline 등으로 쓰기도 합니다; 2) 흔히 공기업을 영어로 떠올리실 때 public company라고 생각하실 수도 있는데요. public 은 '대중에게 공개된'이라는 뜻을 가진 형용사이기에 public company는 삼성, 엘지처럼 대중들이 주식을 거래할 수 있는 [주식 공개 기업] 을 의미합니다. 3) 반대로 private company는 주식을 대중에게 공개하지 않는 기업으로 [주식 비공개 기업 / 유한회사]라고 해요.
+  * = 넌 얼마나 많은 사람들이 공기업에서 일하고 싶어 하는지 모를 거야. You have no idea how many people want to work for state-owned companies.
 
 ## statement
 * statement lip은 입술을 강조한 메이크업을 말해요. 입술을 제외한 부분을 최소한으로 정돈하고, 과감한 컬러의 립으로 스타일을 결정짓는 메이크업이죠. 'statement'는 '진술/성명서'로 잘 알려져있는데요, 이런 경우 자기 의견에 대한 '주장/표출'을 의미합니다. 즉 makeup 혹은 fashion에서 statement란 과감한 시도로 'make a statement', 확실한 자기 주장, 어필, 개성을 표현하는 거예요.
@@ -9632,6 +9693,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## wed
 * 집착하다 be wedded to -
+* 1) 우리가 흔히 쓰는 '웨딩' 이라는 말이 바로 동사 wed 에서 나왔어요. '결혼시키다'라는 뜻인데요. 구식 용어로 여겨져서 지금은 그 본연의 의미로는 잘 쓰이지 않습니다.  2) 현재는 영상에서처럼 수동태로 흔히 쓰여서 무언가와 마치 결혼하듯 [애착을 갖다, 전념하다] 의 의미로 쓰이고요.
+  * = 우리 사장님은 마케팅에 전념해서 광고에 2백만 달러의 예산을 할당했어. Our boss is wedded to the new marketing plan and has budgeted $2 million for advertising.
 
 ## wedge
 * 한쪽 끝이 뾰족하고 반대쪽은 넓은 V자 모양, 좀 더 정확하게는 쐐기 모양, 혹은 쐐기 자체를 wedge라고 해요. 음식에서 wedge는 쐐기 모양의 조각을 말해요. 우리가 사랑하는 웨지감자의 모양처럼요!

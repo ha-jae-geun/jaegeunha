@@ -3709,7 +3709,7 @@
 
 # 반칙
 * 반칙이야; That's a cop-out
-
+  * 반칙이야; That's cheating against the rules = You're cheater = That's got to be a foul
 
 # 받아들이다
 * 누군가의 사상, 의견, 태도 등을 받아들여서 자신의 사고방식으로 만든다는 뜻입니다. 이 외에 자신의 감정이나 기분을 겉으로 드러내지 않고 속으로 삭인다는 뜻도 있습니다.
@@ -6162,6 +6162,7 @@ retaliate
 * 칫솔로 원을 그리듯 이를 닦으세요; Brush your teeth in a circular motion
 
 # 원어민
+* 급하거나 그런거 아니에요; i'm not in a hurry or anything
 * 저희는 정말 좋은 수영장이 있는 호텔에서 묵었어요;
   * We stayed at a hotel that has a really good swimming pool; 가지고 있다를 have로
 * 아이들이 너무 떠들어요; Kids are too loud; 코 시끄럽게 골다; snoring so loud

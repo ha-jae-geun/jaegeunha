@@ -3,6 +3,9 @@
   ^There is no performance difference because it can be directly accessed by hardware without splitting.
 
 
+# thin client
+ CPU, 메모리 등 필수적인 하드웨어 장치만 탑재해 네트워크로 연결된 중앙서버에서 모든 업무를 관리하도록 설계된 업무용 PC를 일컫는다.
+
 ## vm
 
 
