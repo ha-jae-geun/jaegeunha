@@ -28,7 +28,7 @@
 
 
 ##영어
-03.17
+03.23
 * 테드 https://www.ted.com/
 * 발음 https://m.blog.naver.com/telleileen/221280989989
 -------------

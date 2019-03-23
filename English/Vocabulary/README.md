@@ -858,6 +858,7 @@ We need food and water.
   * 대금·요금을 치르다  to pay a bill   대금·요금 지불이 늦어지다 to fall behind with/on bills
 
 ## bit
+* 그녀는 약간 동떨어져 있어요. She is a bit off.
 * 이런저런 것들[잡동사니들]; bits and pieces/bobs; 그녀는 가방에 이런저런 자기 물건들을 모두 집어넣더니 떠났다. She stuffed all her bits and pieces into a bag and left. 
 * bits and pieces : 이런저런 것들, 소소한 일들/사물들,  bit 과 piece 자체가 [작은 조각] 을 의미하는데요. 복수로 써서 [작은 것들] 을 전반적으로 의미해요. 크게 중요하지 않은 소소한 일들이나 사물들을 의미합니다.
   * 한 30분 뒤에 만날 수 있을까? 간단한 집안 ex) Can we meet about 30 minutes later? I just have a few bits and pieces to do at home.
@@ -4422,6 +4423,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * nothing to write home about = 별것 없는, 그럭저럭인, 평범한; 타지에 있을 때 자신이 잘 지내는지, 별다른 일은 없는지 집에 편지를 쓰겠죠? 그런데 그 편지에 쓸 말이 별로 없을 정도로 특별한 일이 없다는 의미입니다. 
       * = 걔네 공연은 뭐 별거 없던데. Their performance was nothing to write home about.
 * 나에 대해서 특별히 내세울 것이 없다. There's nothing to write home about myself; …에 대해 특별히 내세워 언급하다; …을 자랑하다
+* 방금 집에 왔어; i just got back home; 날라리 데이브
 
 ## homework
 * do one's homework = 철저히 조사하다, 준비하다; 숙제를 하는 것이 꼭 해야 하는 일을 하는 것이라는 점에서 비유적으로 쓰이게 된 속어로, 무언가에 대해서 철저하게 학습하고 조사하여 그것에 대해서 잘 알고, 잘 다룰 수 있는 것을 의미하는 표현입니다.
@@ -5785,6 +5787,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그들은 마지막까지 계획을 부드럽게 이행해 나갔다.  They seamlessly carried out the plan till the end.
 
 ## odd
+* - oddball: 괴짜 You are an oddball. 
 * * odds 는 [가능성] 을 의미하는데요. What are the odds ~? 는 가능성, 확률을 물어볼 때 가장 흔하게 쓰이는 표현이에요. [확률] 을 의미하는 단어로는 probability 라는 단어가 있지만, 실제 수치를 의미하는 뉘앙스가 짙기 때문에 실제 수치를 요구하는 것이 아니라면 odds 대신에 probability  라는 단어는 잘 쓰지는 않아요. 
   * * What are the odds ? of 
 
@@ -6368,6 +6371,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * ##pocket
 
 ## pop
+* popped collar = 세운 옷깃 'popped collar'는 무슨 뜻일까요? 피터쌤이 옷깃을 세우며 직접 시범을 보이시네요.  popped collar는 저렇게 세운 옷깃을 의미한답니다.
+* = 갑자기 생겨 일시적으로 운영하는 상점  pop-up store
 * 아이의 왼팔 정맥이 튀어나오고 있어요; THe veins in the boy's left arm are popping
 * 뚜껑을 닫가; Pop on our lid
   * pop one's cherry : 처녀딱지를 떼다. 첫 경험을 하다.
@@ -6655,6 +6660,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 동생은 나한테 시비를 걸었어요.      My sister always tried to #pick a fight with me.
   * pick out; just pick out anything
   * pick up; The sensor picks up any form of body heat : 센서는 어떤 형태의 체열도 잡아냅니다.
+
+### pick at
+* 왜 그렇게 깨작대며 먹는 거야? Why are you picking at your food like that?
 
 ### pick up
 * : 전화 받는게 얼마나 어렵다고. How hard is it to pick up the phone; Jennifer,pick up.
@@ -8013,6 +8021,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 그는 시간 잘 지키는 걸 못하지. Punctuality is definitely not his strong suit.
 
 ## stroke
+* 이용자 참여  그건 천재의 솜씨 아니니?  Isn't it a stroke of genius? 듣기
 * stoke은 ‘불에 연료를 더 넣다’라는 뜻의 동사인데, 사람의 감정, 생각, 현상 등에 쓰이면 그것이 더 활활 타오르게 만들다, 즉 부추기다, 돋우다라는 의미가 됩니다. 
 	* 그는 불을 더 때려 하고 있다. He’s trying to stoke up the fire.
 	* 그것은 젊은이들 사이에서 큰 열정을 부추겼다. It has stoked great passions among young people.
@@ -8183,6 +8192,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ### start with
 * # 시비; 1) start with는 ‘시비걸다, 건드리다’라는 뜻이 있어요. 그리고 stuff는 여러가지를 지칭할 수 있는데, 여기서는 ‘주제, 이야기, 말’을 가리킵니다. 그래서 don’t start with the family stuff는 ‘가족은 건드리지 마’라는 뜻입니다.
   * 오늘은 나 제발 건드리지 마. Please don’t start with me today.
+
+## shore 
+* 은 공격라인을 강화하기 위해 스타 플레이어를 영입했어 The team recruited a start   [ʃɔː(r)] player; [출처] 모든 영어에서 기본이 되는 구동사 표현 - shore up 강화하다|작성자 영어주유소
 
 ## short
 * 여기서 short는 키가 작다는게 아니라 성격이나 말투가 퉁명스럽고 무뚝뚝하다는 뜻입니다. 단, 명사를 꾸며주는 기능은 없어서 a short man이라고 하면 키 작은 남자이지 무뚝뚝한 남자는 될 수 없다는 점 주의해 주세요.
@@ -8977,6 +8989,25 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * a one track mind = 한 가지만 생각함; 오직 단 하나의 생각에 몰두해 있다는 뜻으로 성적인 것을 지칭할 때도 많습니다. ‘그것(=섹스)’만 밝힌다는 느낌으로요. 
   * 섹스 얘기를 한 게 아니었는데. 너는 그것만 생각하는구나.  I wasn’t talking about sex. You have a one-track mind.
 
+## too
+* Me too. = I agree with you.
+ * 곧, 상대가 말 한 내용에 동의할 때 쓰는 말이에요.
+ * A: "Nice to meet you." 당신을 만나서 반갑습니다.
+ * B: "Me too." (그 말에 동의합니다) 그렇겠죠. 날 만나서 반갑겠죠.
+*  A: "Nice to meet you."
+ * B: "Nice to meet you too." 나도 널 만나서 기뻐
+ *      "You too." 너도 나에겐 그래 (= 당신을 만난 것도 기뻐요.)
+ *      "For me too" 나에게도 그래
+ *      "Same here." 나도 그래.
+ * 만약 "Me too." 라고 했다면, "나도 좋은 하루 보낼거야."라고 되겠죠.
+* 그럼 "Me too."는 언제쓰냐구요?
+ * A: "I like a dog."
+ * B: "Me too."
+ * A: "I really want to travel around the world."
+ * B: "Me too."
+
+      나도. (앞에서 말한 의견에 동의)
+
 ## token
 * 요새는 찾아 볼 수 없지만, 예전에는 버스를 탈 때 동그란 모양의 토큰(token)을 사용했었죠. 버스비를 지불했다는 ‘표시, 징표’의 역할을 했습니다. 이처럼 토큰은 실물이 아닌 표시에 불과하다고 해서 ‘명목상인, 시늉에 불과한, 형식적인’이라는 형용사적 의미를 가지고 있어요. 영상에서도 사회에 기여를 하고 싶다면 별 의미없고(meaningless) 형식에 불과한 방식으로 해야 우리가 더 불행에 가까워질 수 있다고 조언해주고 있습니다. (실재로는 그 반대로 해야 하겠죠?^^) * in meaningless token ways = 의미없고 허울뿐인 방식으로
   * 정부는 전쟁 피해자들을 돕겠다는 형식적인 제스처만 취해왔다. The government has only made a token gesture towards helping the war victims.
@@ -9753,6 +9784,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 현실에서는 그런 것들이 쓸모 없어진다. In real life, such things go out the window.
 
 ## wind
+* 우리 뒤에서 부는 바람에 밀려서 길 아래로 쭉 내려갔어  We took off down the road, pushed along by a tailwind.
+* 레이스 동안 맞바람 때문에 기록이 3초 뒤쳐졌어. The record was behind 3 seconds due to the headwind during the race.
 * 손가락에 붕대를 감으세요; WInd the bandage around your finger
 * 구불구불한 도로에요; it's a windy road
 * 행방이 묘연합니다; he's in the wind
