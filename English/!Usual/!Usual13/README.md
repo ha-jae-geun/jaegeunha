@@ -1,3 +1,85 @@
+# 쓸만한 영어 - 왜 아직 반영이 안됐나요?\제대로 처리 됐나요?\왜 그런건가요?#영어회화#영어공부#영어유튜브
+ *  Leah and Ari went to Saturday Academy three times.
+ *   리아와 아리는 결석 일수를 채우기 위해 토요 보충 수업을 3번 모두 갔어요.
+ * 
+ * - Leah and Ari made up three classes.
+ *   리아와 아리는 결석 일수를 채우기 위해 보충 수업을 3번 갔어요.
+ * 
+ * 
+ * 1. 내가 ~했는데 반영이 안됐어요.
+ * 
+ * - 어떤 결정을 내리거나 행동을 하기 전에 다른 사항들과 같이 생각해보는 그림
+ * 
+ * - 떠오르는 동사(구)는?
+ *   take it(/something) into account
+ * 
+ * - 예1) I already sent you a note about this issue.
+ *           제가 이미 이 문제에 대해 쓴 노트를 보냈어요.
+ * 
+ *           (but) You didn't take it into account.
+ *           직역 : (그런데) 그것을 감안/고려하지 않았네요.    
+ *           의미 : 그런데 그게 반영이/처리가 안됐어요.
+ * 
+ * - They didn't take it into account.
+ *   (회사의 ~부서가) 그것을 생각(/반영)하지 않았어.
+ * 
+ * - It seems that you didn't take it into account.
+ *   (상대방에게) 그것을 생각(/반영)하지 않은 것 같아요.
+ * 
+ * 
+ * 2. 왜 이렇게 된 것인지 설명해주시겠어요?
+ *    < 왜 그런거예요?
+ * 
+ * - 다짜고짜 Why? / How? 보다는 
+ *   Could(/Can) you explain how it happened?
+ *   어떻게해서 이렇게 됐는지 설명해주시겠어요?
+ * 
+ * - Could(/Can) you explain why this happened?
+ *   왜 이렇게 됐는지 설명해주시겠어요?
+ *   여러 다른 종류의 일들에 대한 설명을 요구할 땐
+ *     Can you explain how / why  these things happened? 가능
+ * 
+ * - Can you explain how this happened?
+ *   어떻게 이런 일이 일어났는지 설명해주시겠어요?
+ *   어떻게 하다가 이렇게 된 거예요?
+ * 
+ * 
+ * 3. 이게 제대로 처리됐는지 확인하고 싶어요.
+ * 
+ * - 일이 처리된 것과 확인받고 싶은 게 포.인.트.
+ * 
+ * - I want to confirm
+ *   co(n) : 나와 상대 양쪽 같이 , firm : 단단히/확실히하는 그림
+ *     꼭 양쪽이 같이 확인/확정해야 함
+ * 
+ * - I want to confrim + 이 일이 다뤄져서 마무리가 됐는지
+ * 
+ * - I want to confrim that this has been taken care of.
+ *   내가 확인하고 싶은 것은 이 일이 다뤄져서 마무리가 됐는지
+ *   
+ *   이 일이 다뤄져서 마무리가 됐는지 다시 확인하고 싶어요.
+ * 
+ *   이 일이 제대로 (처리)됐는지 다시 확인하고 싶어요.
+ * 
+ *   현재완료 수동태 : has been taken care of. (처리)됐는지
+ * 
+ * 
+ * <복습>
+ * 
+ * - 그걸 반영하지 않았어요.
+ *   You didn't take it into account.
+ *   
+ * - 그것을 반영하지 않은 것 같아요.
+ *   확신이 좀 약한 뉘앙스
+ *   It seems that you didn't take it into account.
+ * 
+ * - 왜 이렇게 됐는지 설명해주시겠어요?
+ *   Can you explain why this happened?
+ * 
+ * - 확실히 처리됐는지 다시 확인하고 싶어요.
+ *   I want to confirm that this has been taken care of.﻿
+
+
 # 쓸만한 영어 - 그림으로 배우는 단어 - 좀 당해도싸! vs 복 받을꺼야! #영어회화#영어공부#영어유튜브
  *  You deserve it!
  *   직역 : 넌 그걸 받을만해.

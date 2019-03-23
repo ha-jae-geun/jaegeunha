@@ -2,6 +2,7 @@
 * 마스크팩: mask pack > facial mask
 * - 네 노트북 보증기간 아직 안 끝났니? Is your laptop still under warranty? warranty 미국식 [ˈwɔːr-;ˈwɑːr-] 
 * - 물은 셀프인가? Is water self-service?
+* - 그 스키콘도? The Ski resort?; 만약 멤버들만 이용할 수 있는 느낌을 강조하고 싶다면 Membership resort 
 * - 여기는 핫도그가 유명해 This place is famous for its corn dogs.
 	* 위의 사진처럼 빵 사이에 소세지를 넣은 음식이 Hot dog 입니다.
 * - 나 경적 울리고 싶지 않은데. don't want to honk my horn.

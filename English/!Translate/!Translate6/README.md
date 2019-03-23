@@ -1,3 +1,95 @@
+# 영어 연습가이드 - HARDCORE #45 - "Don't Be A Dabbler"
+* 나를 포함한 많은 사람들한테서 자주 보이는 것이 있는데, 다양한 것을 조금씩만 경험하고 깊이 있게 경험하는 것은 없다는거예요.  
+  * Something that i see often happening to a lot of people including myself is we get a taste of so many different things but never go in-depth with anything.  
+* 이미 우리가 너무나도 잘 아는 사실 - 거의 모든 것은 처음에는 재밌고 흥미롭죠. 
+  * Here's something we all already know - Most things are fun and interesting in the beginning.
+* 하지만 얼마 가지 않아 흥미를 잃기 시작하는 경우가 많은데 이때가 바로 복잡해지고 어려워지는 바로 그 시점이라는거예요. 
+  *  But, in a lot of cases, we don't get very far before we start to lose interest. The thing is, this is usually when thing's start to get complicated and difficult.
+* 근데 우리는 본능적으로 그것이 더 이상 재밌지 않다고만 생각해요.  
+  *  But we instinctively tell ourselves that it's just not fun anymore.
+* 그리고 우리도 모르게 이미 다른, 더 재밌어 보이는 것을 찾고 마는데 그 새로운 것이 사실 우리에게 더 잘 맞다는 생각에 너무 쉽게 설득되죠.  
+  * And before we even realize it, we've already found something else what we're really into.
+* 어디서 많이 들어본 얘기 같지 않아요?  그래서 결국 여기 저기에 조금씩 발만 담그는 식이 되버리는거예요. 
+  * Sound familiar? So we end up dabbling in a little bit of this and a little bit of that
+* 생각해봐요, 다양한 식당을 탐방하는데 메인요리를 먹을 때까지 참지 못하고 늘 애피타이저만 먹고 나온다는 것을.. 
+    * . Just imagine, exploring many different restaurants but only trying their appetizers and never having the patience to stay long enough to try their main dishes.
+* 제 말은, 발만 담가보고 "여기는 나를 위한 것이 없다."라고 하면 아무것도 것도 얻을 것이 없어요.
+  * My point is, we'll never get anywhere or find anything just by dipping our feet and saying. "There's nothing in that water for me."﻿
+
+## 설명
+- “something that I often see happening to a lot of people…” (often의 위치가 이렇게 앞으로 와도 됩니다)
+- “..go in depth with..” (with 전치사 대신 in 을 사용해도 됩니다, 어감의 차이가 조금 있을 뿐, 의미의 큰 차이는 없습니다)
+- “..start to lose interest..” 대신 “..start losing interest..” 라고 해도 됩니다.  그 이유는 start + ing 는 언제나 start + to V 를 늘 대신할 수 있음.  반면, start + to V는 제한적입니다.(자세한 내용은 다른 강의에서 두 번 정도 설명한 적 있음)
+- “…things start to get complicated and difficult..” (‘things’는 여기서 대명사로 쓰이고 있습니다.  여러가지의 대상을 가리키고 싶은데 불특정한 다수일 때 자주 사용되는 대명사입니다)
+- “.. we’ve already found something” 대신 “we find something…”이라고 해도 됩니다 (어감의 차이가 있을 뿐 의미의 차이가 크지는 않습니다)
+- “..it’s so easy to convince ourselves that new thing…” (여기서 ‘that’는 지시대명사 “그거/그것이”로 쓰였습니다 - 관계대명사가 아닙니다.  만약 관계대명사를 생략하지만 않는다면 “it’s so easy to convince ourselves that that new thing…” 이라고 해야 되는데 회화체에서는 이렇게 that가 두 번 연속 나와도 괜찮습니다.  단, 두 번째 ‘that’에 강세를 주어 말해야 합니다)
+- “Sound familiar?” — (Does this/that sound familiar? 에서 의문형 부분을 생략한 경우입니다)
+
+# 영어 구동사 - make up (ft. take up, account for, compensate for)
+ 1. make up 지어내다
+ * I just made it (that) up (그거) 내가 지어낸 거야.
+ * Are you (just) making that up? 너 그거 (그냥) 지어낸 거야?
+ * I think she just made that up 걔 그거 그냥 지어낸 거 같은데.
+ * I think she’s just making that up 걔 그거 그냥 지어내는 거 같아.
+ * I’ll just make something up 내가 알아서 그냥 뭐 지어낼게 (대충 둘러댈게)
+ * 
+2. make up 만회하다; 형식적: compensate for
+ * I’ll make up for it next week 다음 주에 만회할게요/채울게요.
+ * * make up for <무엇> 부족했거나 잘못된 일을 만회하다
+ * I know you’re disappointed but I promise I’ll make up for everything. 실망한 거 알지만 내가 다 만회할게
+ * I know I made a lot of mistakes. I’m really going to make up for everything.내가 실수를 많이 한 거 알아요. 정말 다 만회할거에요.
+ * 
+ * * make it up to <누구> 누구에게 보상하다? (돈이 아닌 노력으로 하는 보상)I felt so bad about last time so I want(ed) to make it up to you.
+ * 
+3. make up 특정 비율을 차지하다
+ * Women only make up (take up / account for) about 20% of the entire staff.여성은 전체 직원의 20% 밖에 차지하지 않는다.
+ * * take up 그만큼 차지하는 것이 방해 요소이거나 부담스럽다는 뉘앙스의 맥락일 때 
+ * * account for 좀 더 formal한 느낌﻿
+
+# 관계절 응용, 복습 및 추가 표현 - [영어회화]
+* 현재 해외에서 일을 하고 있는 친구가 있어요. 
+  * "I have a friend who is currently working in another country.
+* 걔가 일을 하고 있는 회사는 한국회사인데 해외 브랜치가 있어서 걔가 거기 사업을 운영하고 있는 것 같아요.  
+  * The company that he’s working for is a Korean company but they have an overseas branch and I think he’s running things there
+* 어쨋든, 걔가 일주일 정도 한국에 들어와 있어서 다른 친구들이랑 이번 주 중으로 모일거예요. 
+  * Anyway, he’s back in Korea for about a week so we’re going to get together with some other friends sometime this week
+* 우리는 그를 거의 1년 동안 못봐서 만나서 그동안 어떻게 지냈는지 소식을 기대하고 있어요."
+  * We haven’t seen him in months, so we’re all really eager to see him and hear about how he has been."
+
+# [ #006 ] 일상을 영어로 말하기 - 자주 가는 고기집, 24시 영업하는 곳, 평소보다 일찍, 생각보다 훨씬 많다
+ * "어제 저녁 먹으로 나갔었어요.  
+  *  went out for dinner yesterday.  
+ * 1주일에 한 번 정도, 자주 가는 고기집에 갔어요. 
+  *  went to a barbecue place that I often go to, about once a week.
+  * -집이라 할때 restaurant 보다 place 사용
+ * 24시간 영업하는 곳이라 주로 밤 늦게, 사람이 없을 때 가는걸 좋아해요.
+  * They’re open 24 hours so I usually like to go late a night when it isn’t crowded.
+ * 근데 이번에는 평소보다 좀 일찍 갔었어요. 
+  * 😊😊 But this time, I went there a little earlier than usual
+* 사람이 좀 더 많을거라고는 예상했는데 생각보다 훨씬 많더라고요."
+  * i was expecting to see some more people but it was much more crowded than i thought
+  * i didn't expect it to be so
+
+# [ #005 ] 일상을 영어로 말하기 - "오늘 비온대, 오후부터 하루종일." -- "어쩐지 어둡더라"
+* A: 오늘 비온대.  오후부터 하루종일.
+  * The forecast says it's going to rain today., starting in the afternoon through out the rest of the day. 
+  * according to the forcast
+  * the rain comes 보다 rain 자체를 동사로 사용 가능
+* B: 아, 어쩐지 어둡더라.  오늘 세차하려고 했는데 비 그치고 나면 해야겠다.
+  * Oh, no wonder it's so dark out side.  I was going to get my car wahsed but i gues i should wait after the rain
+  * 돈을 지불하고 서비스를 받을 때; get 무엇 p.p; get my phone fixed/repaired; get my clothes dry-cleaned
+
+# [ #004 ] 일상을 영어로 말하기 - 겨우 ~했다, ~할 줄은 정말 몰랐다
+ * 어제 스타벅스에 갔었어요, 밤 꽤 늦게, 9시 쯤에요.
+  went to Starbucks yesterday, quite late at night, around 10 o'clock. 
+ * 근데 사람이 엄청 많았어요!  저 앉을 자리 하나 겨우 찾았어요.
+  *  And there were so many people! I barely found a seat for myself.
+  * for myself: 나 하나를 강조하기 위한 것
+ * 꽤 놀라웠어요, 일요일 밤 시간에 그렇게 사람이 많을 줄은 정말 몰랐어요."
+  * It was quite surprising. I really didn't expected it to be so crowded on a Monday night.﻿
+  * on a sunday night: 일반적인 일요일을 강조하기 위한 것
+
+
 # 일상을 영어로 #003 - 오랜만에 친구를 만났어. 별거 한건 없고 그냥 술 한잔 하고 얘기했어
 * "어제 오랜만에 친구를 만났어요. 
   * I hung out with a friend yesterday. 

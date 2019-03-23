@@ -1487,6 +1487,12 @@ We need food and water.
 * : cue는 원래 연극이나 영화에서 배우의 연기 시작을 알리는 큐 (신호)를 뜻하는데, 이 표현에서 의미가 확장되어 '다른 사람의 행동을 본보기로 삼다, 배우다, 영향을 받다'라는 뜻으로 사용합니다.
   * 제프 하는 거 보고 배워. 그 사람 라자냐를 제대로 만들 줄 안다니까. Take your cue from Jeff. He knows how to make lasagna properly.
 
+## current
+* 현재 해외에서 일을 하고 있는 친구가 있어요. 
+  * "I have a friend who is currently working in another country.
+  * 나중에 바뀔수도 있지만 현재는 이것 사용
+
+
 ## curt
 * curt 미국식 [kɜːrt]: 퉁명ㅇ스러운
 
@@ -2483,6 +2489,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 논의가 이어지게 하려면 흔히 인터뷰 진행자가 선의의 비판자 노릇을 할 필요가 있다. Often the interviewer will need to play devil’s advocate in order to get a discussion going. 
 
 
+## dabble
+* 어디서 많이 들어본 얘기 같지 않아요?  그래서 결국 여기 저기에 조금씩 발만 담그는 식이 되버리는거예요. 
+  * Sound familiar? So we end up dabbling in a little bit of this and a little bit of that
+
 ## daisy
 * [감탄사] 영차, 으차 ((사람을 오르도록 밀어주며)) oops-a-daisy 미국·영국 [ú:psədèizi]  영국식   단어장추가
 * 이용자 참여  그게 옛날에나 모이던 동창회이지, 얼마 안가서 곧 없어질 거야. It is an ex-Union and it is pushing up the Daisies. 듣기
@@ -2800,6 +2810,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## effect
 * effect on; eccectives of; effective
 
+## expect
+* 사람이 좀 더 많을거라고는 예상했는데 생각보다 훨씬 많더라고요."
+  * i was expecting to see some more people but it was much more crowded than i thought
+* -라는걸 예쌍 못했다; i didn't expect it to be so
+
 ## experience
 * Experience (불가산명사, 셀 수 없음) : 한 동안 어떤 일을 해서 얻는 익숙함, 지식, 기술  An experience (가산명사, 셀 수 있음) : 나에게 일어난 특별한 이벤트 
   * - 이런 종류의 일에 경험이 있나요? Do you have any experience of this type of work?
@@ -2918,6 +2933,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## envelop
 * 감싸다, 뒤덮다; [봉투] 를 의미하는 envelope 에서 e 하나만 빼면 동사로 [뒤덮다] 라는 의미로 쓰인답니다.
 	* 그녀는 커다란 갈색 수건으로 몸을 감쌌다. ex) She enveloped herself in a huge brown towel.
+
+## eager
+* 우리는 그를 거의 1년 동안 못봐서 만나서 그동안 어떻게 지냈는지 소식을 기대하고 있어요."
+  * We haven’t seen him in months, so we’re all really eager to see him and hear about how he has been."
+  * be eager to = can't wait to
 
 ## each
 * each + 가산 단수만 가능
@@ -4141,6 +4161,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## hex
 * 누군가가 나에게 저주를 한게 틀림없어. Somebody must have put a hex on me. 
 
+## help
+* 구급차/도와줄 사람 오고있어; Help is on the way
+
 ## hell
 * 비격식 표현으로 누군가가 "나 ~ 이야, ~할거야." 라고 말할 때, 그 사람이 말한 것을 믿지 않을 때 쓰는 표현이에요. 앞 사람이 be 동사를 얘기했으면 be 동사로, 일반동사로 얘기했으면 do/does/did, 조동사면 조동사로 쓰시면 되요!
   * "내가 브래드 피트보다 더 잘생긴 것 같아." "웃기고 있네." ex) "I think I'm more handsome than Brad Pitt." "The hell you are."
@@ -5085,6 +5108,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## little
 * 이렇게 열렬한 환영을 받을 줄은 몰랐다 Little did I think of being so warmly welcomed
+* 어디서 많이 들어본 얘기 같지 않아요?  그래서 결국 여기 저기에 조금씩 발만 담그는 식이 되버리는거예요. 
+  * Sound familiar? So we end up dabbling in a little bit of this and a little bit of that
 
 ## light
 * 2) light on feet = 발걸음이 가벼운, 날렵한
@@ -5371,6 +5396,26 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : 그를 웃음거리로 만들어 주자고. Let him make a fool out of himself.
 
 ### make up
+ 1. make up 지어내다
+ * I just made it (that) up (그거) 내가 지어낸 거야.
+ * Are you (just) making that up? 너 그거 (그냥) 지어낸 거야?
+ * I think she just made that up 걔 그거 그냥 지어낸 거 같은데.
+ * I think she’s just making that up 걔 그거 그냥 지어내는 거 같아.
+ * I’ll just make something up 내가 알아서 그냥 뭐 지어낼게 (대충 둘러댈게)
+ * 
+2. make up 만회하다; 형식적: compensate for
+ * I’ll make up for it next week 다음 주에 만회할게요/채울게요.
+ * * make up for <무엇> 부족했거나 잘못된 일을 만회하다
+ * I know you’re disappointed but I promise I’ll make up for everything. 실망한 거 알지만 내가 다 만회할게
+ * I know I made a lot of mistakes. I’m really going to make up for everything.내가 실수를 많이 한 거 알아요. 정말 다 만회할거에요.
+ * 
+ * * make it up to <누구> 누구에게 보상하다? (돈이 아닌 노력으로 하는 보상)I felt so bad about last time so I want(ed) to make it up to you.
+ * 
+3. make up 특정 비율을 차지하다
+ * Women only make up (take up / account for) about 20% of the entire staff.여성은 전체 직원의 20% 밖에 차지하지 않는다.
+ * * take up 그만큼 차지하는 것이 방해 요소이거나 부담스럽다는 뉘앙스의 맥락일 때 
+ * * account for 좀 더 formal한 느낌﻿
+ -----------
 * 조지는 지각한 것에 대해 변명을 지어냈다. [ex] George made up some excuse for being late. 1. 지어내다, 만들어내다
   * 이 책은 아홉 편의 서로 다른 논문들로 구성되어 있습니다. [ex] This book is made up of nine separate articles. 2. 구성하다, 형성하다
   * 잠자리를 마련해줄게. [ex] I'll make up a bed for you. 3. 준비하다, 처리하다
@@ -9023,6 +9068,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## taste
 * 을 알려주자면, 설명해보자면 = to give you a taste of
+* 나를 포함한 많은 사람들한테서 자주 보이는 것이 있는데, 다양한 것을 조금씩만 경험하고 깊이 있게 경험하는 것은 없다는거예요.  
+  * Something that i see often happening to a lot of people including myself is we get a taste of so many different things but never go in-depth with anything. 
 
 ## table
 * 이제 그 안은 고려의 대상이 아니다. Now the option is off the table. 
@@ -9506,6 +9553,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ### work in
 * 오바마 케어에 끼워넣기 안했네요; i didn't work in ObamaCare
+
+### work for
+* 걔가 일을 하고 있는 회사는 한국회사인데 해외 브랜치가 있어서 걔가 거기 사업을 운영하고 있는 것 같아요.  
+  * The company that he’s working for is a Korean company but they have an overseas branch and I think he’s running things there
+  * -에 일한다는 work for라고 많이 말함
 
 ## waltz
 * waltz in/into 장소 = 에 막 들어가다 / 아무렇지 않게 들어가다 동사 waltz에 이런 의미가 있다니 재미있는 표현입니다. 왈츠(waltz)는 움직임이 거침없고 당당한 느낌을 주는 춤이니까 그런 부분을 연상해 볼 수 있겠네요. 그리고 「waltz off with 물건」이라는 패턴도 있는데요, 아무 망설임 없이 유유히 남의 물건을 갖고 가버리는 것을 말합니다.

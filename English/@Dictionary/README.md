@@ -6793,6 +6793,9 @@ retaliate
  * 이해하기 어려운 것들이었다.             It was a head scratcher
 
 # 이후
+* B: 아, 어쩐지 어둡더라.  오늘 세차하려고 했는데 비 그치고 나면 해야겠다.
+  * Oh, no wonder it's so dark out side.  I was going to get my car wahsed but i gues i should wait until after the rain
+  * 이후라고 할 떄 until after 사용;
 * = ~이후로 늘 그래왔어요.  I've been that way ever since ..; way 는 '방식, 방법' 이라는 뜻이 있고, ever since 는 since 를 조금 더 강조해주면서 '그 때 이후로 늘' 이라는 뜻이 있습니다. 그래서 문장 전체를 직역하면 '그 때 이후로 늘 그런 식입니다.' 이지만 사람이 주어일 때는 영상에서처럼 [늘 그래왔어요] 라고 해석하는 것이 좀 더 자연스럽습니다.
   * = "요즘에 폴 왜 그리 재수 없게 행동하는 거야?" "하버드 입학한 뒤로 늘 그래." "Why is Paul acting like a jerk these days?" "He's been that way ever since he entered Harvard."
 
@@ -9118,6 +9121,11 @@ retaliate
 
 # 하락
 * 하락세이다; be going south
+
+# 하루종일
+* * A: 오늘 비온대.  오후부터 하루종일.
+  * The forecast says it's going to rain today., starting in the afternoon through out the rest of the day. 
+  * throughout the week/month/year
 
 # 하이라이트
 * 삶에 대해 이야기할 때 'high points' 란 아주 행복하고 기뻤던 순간들을 뜻해요. 어떤 경험에 대해 이야기할 땐 가장 신나고 즐거웠던 순간을 뜻하기도 합니다.
