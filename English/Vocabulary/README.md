@@ -167,7 +167,13 @@
 * 그 제조법을 손에 넣으셨는 지를; how the mother got the formula
 
 ## food
+* 셀 수 있는, 가산명사로 쓰일때의 Food는 '음식', '식량' 이라고 쓰이는 경우입니다.
+We need food and water.
+   - 우리는 음식과 물이 필요하다.
 * food baby; 배부름. 음식으로 배가 너무 불러서 애기를 가진거 같을때 쓰는말.(slang, humorous)
+  * 3 best foods
+ - 세가지 최고의 음식(종류) A food made from milk
+  * 우유로 만든 음식(종류) 위처럼 음식의 종류를 논할때에는 Food도 셀 수 있게 됩니다.
 
 ## footprint
 * 1) 원래는 '발자국' 이라는 뜻인데요. 환경 오염 문제가 심각해지면서 carbon footprint 라는 개념이 생겨나게 됩니다. '탄소 발자국' 이라고 해석이 되는 이 표현은 자동차, 선박, 공장 등이 뿜어내는 탄소의 양은 마치 누군가가 발자국을 내고 돌아다닌 것처럼 보이게끔 수치화 시켜놓은 것을 의미하는데요. 2) 지금은 환경 오염, 생태계 파괴, 자원 고갈과 관련하여 인간 활동이 환경에 미치는 '영향' 을 의미할 때 많이 쓰여요. 3) 영상에서의 meat footprint 는 직역하면 '고기 발자국' 인데, 실제 의미는 '육류 소비량' 정도가 됩니다.
@@ -337,6 +343,7 @@
   * - allow for 명사 : -를 감안하다, 고려하다, 가능케하다 문장에서 allow for captivity and breeding 은 포획과 사육한테 허가해줬다는 것이 아니라 [포획과 사육이 지속되도록 허용했다] 는 것입니다. 
 
 ## alley
+* 이건 내 전무니지; This is right up my alley; 내 구역이야
 * 1) alley creeper = 뒷골목을 살금살금 다니는 사람
   * = 그는 볼링장에서 일하고 있어요. She works at the bowling alley.
   * = 그는 길에서 강도를 만났다.  He met a thug in the alley.
@@ -1014,6 +1021,8 @@
   * 세부 사항들에 발목 잡혀선 안 돼. ex) We shouldn't get bogged down in details.
 
 ## ball
+* 큰 규모의 격식 있는 무도회를 the ball이라고 합니다. 일반적인 파티는 당연히 party라고 하겠지만, ball 은 격식 있는 복장과 '춤'이 꼭 들어가는 파티에요.  참고로 미국 고교 졸업 예정자들이 갖는 졸업파티를 The Prom이라고 하는데요. 대신 The Ball이라고 하기도 합니다. 사교를 위한 모임이고, 춤추고 즐겁게 논다는 모습에서 [신나게 즐기다]라는 말을 have a ball이라고 할 수도 있습니다.
+  * = 연회에 갈 정장을 사야겠어. I'll have to get myself formal suits for the ball.
 * "keep one's eye on the ball" 이라고 한답니다. 반대로 "take one's eye off the ball" 은 '중요한 것에서 눈을 떼지 마세요.'  "Don't take your eyes off the ball"
   * 돌아가는 사정을 잘 꿰고 계셔야 해요; Make sure you are on the ball
 * ball 은 [공] 이 아니라 [무도회] 라는 뜻으로도 쓰여요. 한마디로 파티니까, 파티를 할 때 즐거운 모습에서 나온 속어 입니다. = have a ball
@@ -1057,6 +1066,7 @@
 ## bash
 * bash는 규모가 큰 파티를 의미하며 pool bash (수영장/ 풀 파티 ), birthday bash (생일 파티) 처럼 쓰이는 표현입니다.
   * 그녀에게 큰 생일 파티를 열어줄 거야. We're throwing her a birthday bash.
+* 쑥쓰러웠어요; it kind of made me abit bashful
 
 ## basic
 * basic은 꾸밈없이 기본적인 것만 갖추고 있다하여 사람의 성격을 형용할 때 “재미없는, 따분한, 특징이 없는”이란 뜻으로 쓰입니다. 
@@ -1418,6 +1428,19 @@
 ## cylinder
   * #순조롭게 잘 돌아가다; #fire / #hit / #click on all cylinders
 
+## coffee
+ * * 나는 커피를 좋아해. (추상적)
+ *  - I like coffee. (O)
+ *  - I like a coffee. (X)
+ * * 여기서 커피는 '음료의 한 종류'로서의 커피로 추상적인 의미를 가지고 있습니다.
+ * 한 잔의 커피, 하나의 커피를 좋아한다는 뜻이 아니죠.
+ * 그래서 셀 수 없는 명사, 단수의 형태로 쓰였습니다. 
+ * 
+ * * 블랙커피 두잔 주세요. (구체적 대상)
+ *  - Two black coffees, please. (O)
+ *  - Two black coffee, please (X)
+ * 여기서는 '두 잔의 커피'를 구체적으로 원하고 있죠. 그러므로 coffee에 s를 붙여서 복수로 사용해줍니다. 
+ 
 ## courteous
 * courteous; [ˈkɜːrt-]  영국식 [ˈkɜːtiəs] 
 * 도와 주셔서 정말 고맙습니다. It is very courteous of you to help me. 듣기 출처:동아 출판
@@ -1585,6 +1608,9 @@
 ### caught
 * I wouldn’t be caught dead/seen (ⓥing) = 진짜 하기 싫어; 정말 죽어도 하기 싫은 일이 있죠. 이 표현은 개인적으로 너무 싫거나 창피한 일이어서 극도로 하기 싫다는 뜻이에요. 
   * = 저 신발을 신느니 차리라 죽어버리겠어. 무슨 우리 할머니것 같잖아. I wouldn’t be caught dead wearing those shoes. They are like my granny’s.
+
+### catch on
+* 인기를 얻기 시작하다; Their latest product is finally starting to catch on
 
 ### catch up
 * 나 지금 이렇게 수다 떠느라고 까먹었어. I forgot to do this because I got so caught up on chatting
@@ -2377,6 +2403,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## deduct
 * (보험) 급여공제 deduct from the salary 미국식  영국식   단어장추가
 
+## degenerate
+* ＊ degenerate = 퇴폐적인, 타락한; 사람의 행동이나 문화, 예술 등이 도덕적으로 저급한 것을 의미합니다. 동사의 기능도 있는데요, 그 때는 “악화되다, 약해지다”를 의미합니다. 
+  * = 그 그림은 퇴폐적이라며 비난을 받았다. The painting was condemned as degenerate.
+
 ## degree
 * pursue a degree; 
   * 그리고 저는 저에게 가장 실용적인 것을 택했어요. 그래서 저는 콜라보 피아노 전공을 택했어요 And I decided that the most practical thing for me to do would be to pursue a degree in Collaborative Piano. 
@@ -2406,6 +2436,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 회색곰을 마주쳤을 때 죽자고 달렸어. [ex] I ran for dear life when I bumped into a grizzly bear.
 
 ## dead
+* 프리킥, 코너킥에 특출난 선수; dead-ball specialist
 * 나는 그에게 프랑스로 가지 말라고 얘기했지만, 그는 기필코 가려고 한다. (dead set on~ : 하기로 단단히 마음 먹다) I've been trying to talk him out of moving to France, but he's dead set on going.
 * dead 는 '죽은' 을 의미하는 것 외에도 '명백한, 확실한' 의 의미를 가지기도 해요. 그럴 땐 명사 앞에서만 쓰이는데요. a dead silence (절대적인 침묵), a dead stop (완전한 멈춤) 등에서 볼 수 있습니다. giveaway 는 말 그대로 내어주는 것이니, 함께 쓰이면 [확실히 내어주는 명백한 증거]를 의미하며, 보통 의도치 않게 내주는 증거를 나타내는 경우가 많습니다.
   * = 네 폰의 통화 내역이 바로 네가 잭이랑 데이트한다는 결정적 증거지. The call history on your phone is a dead giveaway that you are dating Jack.
@@ -2754,6 +2785,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ### drop top
 * 차 지붕을 헝겊이나 비닐 같은 재료로 만들어 승용차 지붕을 접었다 폈다 할 수 있는 승용차 [본문으로]
 
+## echo
+* echoey = (소리가) 울리는; echo(메아리, 울림)의 형용사인데요, 사람의 목소리나 공간의 소리가 웅웅거리는 것을 의미합니다. 
+  * = 그의 목소리는 엄청 중저음이야.  His voice is very low and echoey.
+
 ## equal
 * 저만큼 노력하셨고; YOu are my equals
 
@@ -2765,6 +2800,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## effect
 * effect on; eccectives of; effective
 
+## experience
+* Experience (불가산명사, 셀 수 없음) : 한 동안 어떤 일을 해서 얻는 익숙함, 지식, 기술  An experience (가산명사, 셀 수 있음) : 나에게 일어난 특별한 이벤트 
+  * - 이런 종류의 일에 경험이 있나요? Do you have any experience of this type of work?
+  * - 가장 기억에 남는 경험을 하나 말 해 주실  수 있나요? Can you tell me one of the most memorable experiences?
+
 ## expire
 * 이게 유통기한이 2015까지였어요; THis expired in 2015
 
@@ -2774,6 +2814,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 이 건 각별히 조심해서 다뤄. [ex] Be extra careful with this.
 
 ## except
+* = 한 번만봐주시면 안 될까요? * Can/Can't you make an exception?
 * other colors besides pink = 분홍색 외에 다른 색상; 여러분은 besides 와 except 의 차이를 알고 계시나요? 한국어로는 둘 다 ‘빼고/외에’ 등으로 해석돼서 헷갈리는 경우가 있는데요, 사실 이 둘의 의미는 전혀 다릅니다; 
     * ⓐ I wear every color besides pink. (분홍색 외에도)
     * ⓑ I wear every color except pink. (분홍색만 빼고)
@@ -3693,6 +3734,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 
 ## grip
+* 1) get a grip on oneself = 정신차리다; 흥분, 화 등을 진정시키고 정신을 바짝 차린다는 뜻으로 우리말의 ‘정신줄을 잡다(grip)’와 비슷합니다. 자기 자신을 놔버리지 말고 꽉 붙들고(grip) 있으라는 거죠. 
+  * = 진정해. 화를 가라앉히고 정신 차려. Calm down. You have to get a grip on yourself.
 * ＊ vise-like grip = 손을 꽉 쥐는 것; 물체가 움직이지 않게 꽉 잡아주는 바이스(vise/vice)라는 공구가 있습니다. 바로 그 기계처럼 손을 꽉 움켜쥐는 것을 viselike(美) 혹은 vicelike(英) 이라고 불러요.
   * = 그는 악수할 때 내 손을 꽉 잡았다. He gave me a viselike handshake.
 
@@ -4366,6 +4409,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## hair
 * (화가 난 상대방에게 하는 말로) 진정해라 keep your hair on 미국식  영국식   단어장추가
+* 반면 우리 머리(Head)에 붙어있는 머리카락에 대해 전반적으로 표현 할 때는 머리카락의 갯수가 궅이 중요하지 않죠 . 그럴때는 셀 수 없는 명사로 쓰입니다.
+ I have long hair.
+   - 나는 머리가 길다. I have a long hair.
+   - 나는 긴 머리카락 한 올이 있다. 두 문장의 차이가 느껴지시나요?
 
 ## head
 * 나대지마; Keep your head down
@@ -4896,6 +4943,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
  * #벗다: #undress = #lose #shed = be #shirtless
 
 ## load
+* 만루다; bases loaded
 * 1) load 는 명사로 [짐] 또는 동사로 [짐을 싣다, 사람을 태우다] 의 의미를 가집니다. 보통 운송 수단에 짐이나 사람이 가득 찼을 때 fully loaded 라고 해요. 
   * 미안해, 잭. 차가 5명이랑 짐으로 가득 차서 자리가 없어. 테일러한테 태워달라고 한 번 물어봐. ex) Sorry, Jack. The car is fully loaded with 5 people and their luggage. You might want to ask Taylor for a ride.
 * 그건 # 유도 질문 같은데요? That's kind of a loaded question
@@ -6977,6 +7025,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 그는 자기 자신의 안전을 무모할 정도로 무시했다. He showed a reckless disregard for his own safety.   [ˈrekləs] 
 
 ## record
+* 넌 가장 성적이 좋아; you have the best record
 * 기록을 자시 조회해볼게요; LEt me just pull up your records
 * 공식적으로 이야기하다 = go on record 자신의 입장, 견해 등을 이야기할 때 무언가를 공식적으로 표명하여 기록에 남기고 싶을 때 쓰는 표현입니다. 영상에서는 남녀가 티격태격하며 자기가 무엇을 수리했는지 조목조목 따지려고 하기에 의도적으로 쓴 표현이라고 볼 수 있습니다.
   * 공식적으로 이야기하기 전에, 시간을 들여 정말로 그렇게 하고 싶은지 생각해 보세요. ex) Before going on record, take your time and think if you really want to do that.
@@ -7060,6 +7109,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## retreat
 * 이 단어는 동사로는 [후퇴하다, 물러서다], 명사로는 [후퇴, 철회, 도피] 등의 의미를 가지고 있어요. 모두 뒤로 물러나는 느낌의 단어들인데요. 영상에서 쓰인 [수양회, 피정] 의 의미도 원래의 삶에서 물러나 한적한 곳에서 시간을 보내며 수양하는 것을 의미합니다.  [칩거에 들어가다, 피정에 들어가다] 라는 말은 go into retreat 라고 하면 된답니다.
   * 한동안 피정(칩거)에 들어가기로 결정했어. ex) I've decided to go into retreat for a while.
+
+## representative
+* representative; 대표자, 대리인; 복수 사용 안함
 
 ## replicate
 * 1) 무언가를 똑같은 방식으로 만들거나 따라하는 것을 의미합니다. 과학계에서 실험을 반복하여 검증할 때 replicate 라는 단어를 씁니다. 2) 어떤 제품 중에 replica [레플리카] 제품이라는 걸 보신 적이 있을텐데요, 원제품과 거의 같게 만든 복제품을 의미합니다.
@@ -7155,6 +7207,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## shuffle
 * 뭔가 걸어오ㅗ는 발걸음을 들었어; i heard some shuffling coming in(발을 끌며 걷는)
+
+## shut
+* * shut out = -을 제외하다, 떨쳐 버리다.
+  * = 할 수만 있다면 널 내 삶에서 완전히 없애버리고 싶어. I wanna shut you out of my life if I could.
 
 ## shuttle
 * run a shuttle service; 셔틀 서비스를 준비시키다: arrange for a shuttle bus
@@ -8267,6 +8323,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 내 운빨이 떨어져서 돈을 다 잃었다. [ex] My luck went south and I lost all my money.
 
 ## soul
+* 소울 푸드; soul food: 미국 남동부의 흑인들의 음식 -> comfort food
 * : 여기서 'a soul'은 '한 사람'을 뜻해요. 'not a soul'은 영혼 하나조차도 없음, 즉, 아무도 없음을 말해요. 'no one', 'nobody' 보다 더 강한 표현을 찾는다면 요 표현이 제격! 다음 활용 예시를 보면서 익혀봐요.
   * 나한텐 아무도 없어. 단 한 명도. [ex] I have no one. Not a soul.
 
@@ -8610,6 +8667,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 어떤 익명의 기자가 JTBC에 제보했어. An anonymous reporter tipped off about JTBC; tip off; 1. 제보  2. 귀띔
 
 ## time
+* - 너희들 즐거운 시간을 보냈니? Did you have a good time?
+  * 예문에서 알 수 있듯이 대표적으로 Time을 셀 수 있는 경우는
+   - 특정한 때  ex) how many times, three times
+   - 한 동안의 기간 ex) a good time
 * : 'do time' 은 기본적으로 '징역을 살다'라는 뜻인데, 이렇게 '할 만큼 하다, 충분히 하다', 또는 '값을 치르다'라는 비유적인 뜻으로 쓰기도 한답니다.
   * 왜 아직도 숙취가 있지? 숙취 고생살이 충분히 했다고! [ex] Why am I still hungover? I've done my time!
 

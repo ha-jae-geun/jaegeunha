@@ -1,5 +1,30 @@
 # 기타
 * 마스크팩: mask pack > facial mask
+* - 네 노트북 보증기간 아직 안 끝났니? Is your laptop still under warranty? warranty 미국식 [ˈwɔːr-;ˈwɑːr-] 
+* - 물은 셀프인가? Is water self-service?
+* - 여기는 핫도그가 유명해 This place is famous for its corn dogs.
+	* 위의 사진처럼 빵 사이에 소세지를 넣은 음식이 Hot dog 입니다.
+* - 나 경적 울리고 싶지 않은데. don't want to honk my horn.
+* - 너 카센터 어디 있는지 알아? Do you know where the car repair shop is?
+* 렌트카 (서비스) Rent a car, Car rental You can take a city tour bus or rent a car. - 당신은 투어버스를 타거나 차를 빌릴 수 있어요.
+* 마트; 가장 쉬운 건 그 나라에서 유명한 체인 이름을 대는 것.; 미국 : Wal-mart; 프랑스 : Monoprix, Carrefour' 호주 : Coles
+	* - 모퉁이 돌면 마트가 하나 있어. There is a supermarket around the corner; 이마트, 롯데마트 처럼 식품, 공산품, 의류 등을 파는 큰 규모의 매장
+* - 너 수제 빵 좋아해? Do you like homemade bread?
+* - 그건 구운 파프리카예요. That is a roasted bell pepper; Bell pepper, Sweet pepper, Capsicum
+* - 걱정마, 나는 네 얼굴을 모자이크 할거야. Don't worry, I will pixelate your face.
+* - 나는 네 올백 머리가 좋아. I like your slicked-back hair. 
+* - 오후 6시가 숲에서 나와야 하는 컷트라인 이야. 6 p.m. is the cut-off for being out of woods.
+* - 이것을 코팅하는게 어때? How about laminting ​this?
+* - 내가 책상 스탠드 하나 사줄게. I will buy you a desk lamp.
+* - 나는 그가 안보여. 저 차는 창문을 진하게 썬팅했잖아. I can't see him. That car has heavily tinted windows.
+	* 색을 입히다Tint; 썬팅한 창문 Tinted window; 차창(들)을 썬팅하다 Get the car windows tinted 
+* - 아니, 나는 오직 검정 라운드티만 가지고 있어. B : No, I only have a black crew neck T-shirt​​.Crew neck T-shirt; Round neck T-shirt
+* - 그건 그 이상한 터틀넥 스웨터보다 훨씬 낫다. It's much better than the terrible turtleneck ​sweater; 영국식으로는 Poloneck; 미국식으로는 Turtleneck
+* - 오늘의 메뉴는 어때요?  How about today's special?
+* Knitwear : 뜨개질 한 옷; Knit(ted) top : 스웨터; Knit(ted) cardigan : 가디건; 털실로 짠 앞이 막혀있는 윗옷을 Sweater 로 부릅니다.
+* Wannabe의 본 뜻은 ...가 되기를 원하는 사람 ...를 따라하는 사람 입니다. 마돈나를 따라하는 사람들 (마돈나를 좋아해서) Madonna wannabes  Who is your role model?
+* - 괜찮은 츄리닝 샀어? Did you buy a nice tracksuit?
+* - 나는 그 직업을 위한 스펙이 없는데. I have no qualification for the job
 * 선크림; 사실 SPF 는 sun protection factor 의 줄인말이기에 '자외선 차단 지수' 가 맞는데요. 자외선 차단 기능이 있는 화장품에서만 이 표현이 쓰이기에 간편하게 아예 SPF 자체를 '자외선 차단제' 를 의미하는 것으로 사용합니다. 주의하실 점은 SPF 는 셀 수 있는 명사이기에 단수일 경우엔 an SPF 라고 써주셔야 해요.
 	* = 밖에 나가기 30분 전에 자외선 차단제를 바르는 것이 가장 좋습니다. It's best to put your SPF on 30 minutes before you go out.
 * 핀셋: Pincette > Tweezer

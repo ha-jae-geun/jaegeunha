@@ -42,6 +42,8 @@
 *  러브굿    	http://hi007.tistory.com/
 *  텔라 http://blog.naver.com/PostList.nhn?blogId=tellakor&categoryNo=0&from=postList
 -----------------------------------------------------------------------------
+* 잭팟; https://m.blog.naver.com/PostList.nhn?blogId=jackpot22
+* 나는나; https://m.blog.naver.com/PostList.nhn?blogId=iamanna12
 *   이상민 영어 http://blog.naver.com/minga2015
 * 보카 콘서트 https://m.post.naver.com/viewer/postView.nhn?volumeNo=3949189&memberNo=468879&searchKeyword=영어
 *   ECIK http://blog.naver.com/eckedu

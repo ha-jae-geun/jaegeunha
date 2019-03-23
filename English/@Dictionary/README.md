@@ -2108,6 +2108,9 @@
 * # 소중; 저희가 신중히 고른 스킨케어 제품들로 당신을 소중히 가꾸세요. ex) Pamper yourself with our carefully chosen skincare products.
   * 귀중품이 들어있으니 조심해 주세요; Please be careful because it contains valuable stuff
 
+# 다르다
+* 내가 생각한것이랑 다르다; It's not exactly what i had in mind
+
 # 다양하다
 * - are more varied in 
 
@@ -2432,6 +2435,7 @@
 	* = 소리랑 화면이 안 맞아. The soundtrack is not in sync with the picture. (=out of sync)
 
 # 동의
+* # 알겠다; i'm on it; 받은 명령이나 부탁을 접수했다; you got it
 * 수술 동의서; informed consent
 * # 찬성; rubber stamp는 고무도장인데요, 서류에 고무로 된 도장을 대충 찍어내듯, 어떤 사안을 깊게 생각하지도 않고 기계적으로 찬성하고, 형식적으로 승인하고, 무턱대고 도장 찍는 것을 말해요. 흔히 의회정치에서 당의 정책에 덮어놓고 지지를 보내는 거수기 노릇을 하는 것을 말할 때 사용해요.  rubber stamp는 명사로 덮어놓고 찬성하는 사람 혹은 단체를 말하기도 하며, 동사로는 대개 하이픈(-)을 넣어 rubber-stamp로 씁니다.
   * 윗분이 결정 내리면 위원회는 그냥 도장만 찍는 거야. The boss makes the decisions and the committee just rubber-stamps them.
@@ -7907,6 +7911,7 @@ retaliate
   * 성차별은 남성 위주의 사회에서 아주 만연하다. Sexism is everywhere in the male-oriented society.
 
 # 중요
+* 중요하게 생각하니까; She's pretty strict/serious about doing things by the rules
 * 중요한 것은; All that matter is
   * : crux 는 '요점, 난제' 를 뜻하는 명사로, 어떤 문제나 상황의 가장 중요한, 핵심적인 지점을 말해요!
     * 문제의 핵심이 바로 그거야. That's the crux of the matter. 
