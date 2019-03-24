@@ -601,6 +601,9 @@
   *  이런 문제들은 주로 잘 풀리곤 해. [ex] These problems usually have a way of working out.
 
 # 경험
+* 나를 포함한 많은 사람들한테서 자주 보이는 것이 있는데, 다양한 것을 조금씩만 경험하고 깊이 있게 경험하는 것은 없다는거예요.  
+  * Something that i see often happening to a lot of people including myself is we get a taste of so many different things but never go in-depth with anything. 
+  * 다양한 것을 조금씩 경험한다; get a taste of thing
 * 이전의 경험으로 알다; know from past[previous] experience 
 * 인생 경험이다; be one for the books
    * : 처음 경험하다, 어떤 분야 혹은 경력에 경험을 쌓기 사작하다 ㅍ원래는 아기의 이가 처음 나는 것을 의미하는데, 이를 비유적으로 위와 같은 의미로 사용합니다.

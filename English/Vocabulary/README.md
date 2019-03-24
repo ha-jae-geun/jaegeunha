@@ -2477,6 +2477,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 좋은 성과를 내다 deliver good results
   * 좋은 제품은 고객에게 가치를 제공해야 합니다. A good product delivers value to customers.
 
+### deliver on
+* * deliver on = 을 이행하다; 보통 '약속, 계획, 의무' 등 지켜야 할 것을 [이행하다]의 뜻을 가집니다. 영상을 직역하면 [우리가 블랙 미러의 한 에피소드로부터 기대하게 된 모든 것을 이행합니다] 을 뜻하는데요. 블랙 미러를 쭉 봐왔던 사람들이, 시리즈가 진행되며 '당연히' 보기를 기대하는 특정한 것들을 이 회차에 다 포함했다는 의미로 쓰였기에 [포함하다] 로 의역이 되었습니다.
+  * = 우리가 고객들에게 한 약속은 모두 확실하게 이행해야 합니다. We have to make sure to deliver on every promise we've made to our clients.
+
 ## detail
 * attention to detail = 세밀함, 꼼꼼함
   * 저는 굉장히 꼼꼼합니다. 저는 굉장히 꼼꼼합니다.
@@ -5624,6 +5628,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 당신의 회사를 넷플릭스 당하게 만들지 마세요. 시장 변화에 빠르게 대응해야 합니다. Don’t let your company get Netflixed. You should quickly react to market changes.
 
 ## nerve
+* ＊ The/My nerves are so bad = 엄청 긴장되네요; nerve 는 기본적으로 ‘신경’이지만 복수형일 때는 ‘긴장, 불안’을 가리켜요. 그리고 bad 는 여기서는 나쁘다는 것이 아니라 ‘정도가 심하다’는 걸 의미합니다. 
 * 네가 신경 거슬렸잖아; you struck a nerve
 * ※ There is a lot of nerves. / There are a lot of nerves. 회화에서는 둘 다 옳은 것으로 사용됩니다.
   * 긴장이 많이 되서 어떨 때는 내 심장이 심하게 뛰는 게 들릴 정도야. There are a lot of nerves and sometimes I can hear my heart pounding so hard.

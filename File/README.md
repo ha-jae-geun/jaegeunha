@@ -1,3 +1,6 @@
+# 파일
+* 메모리에 모두 올려놓을 수 없으니 논리적으로 만들어 놓은 구조
+
 # 완전 파일 삭제
 * shift delete나 휴지통 비우기는 invalid bit를 바꾸기만 한 것
 	* Forensic website; 
