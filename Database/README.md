@@ -4,6 +4,7 @@
 
 
 
+
 # 스키마; 서류; 규격화 되어있는 형식
 
 ## (1) 외부 스키마 외부 단계 (external schema, ) 
@@ -551,6 +552,113 @@
 - - 데이터를 추출하는 방법은 ResultSet 에서 한 행씩 이동하면서 getXxx()를 이용해서 원하는 필드 값을 추출하는데, 이때 rs.getString("name") 혹은 rs.getString(1) 을 사용한다.
 - - ResultSet의 첫 번째 필드는 1 부터 시작한다.
 - - 한 행이 처리되고 다음 행으로 이동 시 next() 메소드를 사용한다.
+
+
+# JDBC
+1. ① 데이터베이스와 연결하는 드라이버 파일을 찾아서 인스턴스를 발생시킨다. 
+- 드라이브를 로딩하기 위해서는 반드시 String 클래스 타입으로 지정한다. = 오라클에 클래스를 등록한다. 2. 경로를 지정해준다.(URL은 각 회사들이 지정해 두었다.)
+2. ② 연결을 관리하는 Connection 인터페이스 인스턴스를 생성한다. 
+3. ③ 작업을 처리할 Statement 인터페이스와 PreparedStatement 인터페이스 그리고 을 PL/SQL 지원하는 CallableStatement 인터페이스 인스턴스를 생성한다. 
+- PreparedStatement 인터페이스는 바인드 변수를 사용하고 ‘?’를 사용한다.
+4. ④ 반환되는 결과는 ResultSet 인터페이스 인스턴스에 담는다. 
+5. ⑤ 접속을 종료한다
+
+
+
+
+## forName
+ * 		String driver = "oracle.jdbc.driver.OracleDriver";
+ * 		String url = “jdbc:oracle:thin@127.0.0.1:1521:xe”
+ * 		
+ * 		System.out.println(driver);
+ * 
+ * 		try {
+ * 			Class.forName(driver);
+ * 		} catch (ClassNotFoundException e) {
+ * 			// TODO Auto-generated catch block
+ * 			e.printStackTrace();
+ * 		}
+ * 	}
+ * 
+ * Class.forName(“oracle.jdbc.driver.OracleDriver”) //이렇게 표현해도 됨 
+
+## static을 이용한 forName
+ * 	static {
+ * 		try {
+ * 			Class.forName("oracle.jdbc.driver.Oracle");
+ * 		} catch (ClassNotFoundException e) {
+ * 			// TODO Auto-generated catch block
+ * 			e.printStackTrace();
+ * 		}
+ * 	}
+- OracleDriver 클래스는 초기화 블록에서 드라이버를 로드하므로 로딩하자마자 드라이버를 메모리에 올린다 static . 
+- ⎼읽어 들일 클래스가 존재하지 않을 수 있으므로 ClassNotFoundException 예외를 처리한다. 
+- ⎼클래스의 forName 메서드는 특정 클래스를 읽어서 인스턴스를 메모리에 올리는 역할을 하므로 드라이버 클래스를 읽어서 메모리에 올리는 부분이다. 
+- 
+
+# Statement
+- ⎼Statement 인터페이스는 삽입 수정 삭제 검색을 처리하는 문을 사용한다 , , , DML . - ⎼Statement 인터페이스는 Connection 인터페이스 인스턴스의 연결 정보를 가져와서 에 접근하므로 이 인스턴스를 DB 사용하기 위해서는 접속 상태인 Connection 인터페이스 인스턴스가 먼저 존재해야 한다.
+
+
+## Statement 단점
+ ⎼Statement 인터페이스는 새로운 레코드를 여러 번 저장하는 경우에 동일한 insert 문을 여러 번 작성해야 되며 문자 데이터 및 날짜 데이터인 경우에는 반드시 단일 따옴표 를 지정해야 된다 (‘) . 
+- ⎼Statement 인터페이스는 중복 코드가 많아져서 성능 면에서 떨어지고 단일 따옴표 을 지정하지 않으면 예외가 (‘) 발생되기 때문에 코드 작업이 비효율적이다. 
+
+## Statement 예제
+ * statement = connection.createStatement( ); String sql = "select deptno, dname, loc from dept "; resultSet = statement.executeQuery(sql); while (resultSet.next( )) { int deptno = resultSet.getInt("deptno"); String dname = resultSet.getString("dname"); String loc = resultSet.getString("loc"); System.out.println(deptno + " " + dname + " " + loc); } 
+
+## Statement 예제2
+ * statement = connection.createStatement( ); String sql = "insert into dept(deptno,dname,loc) " + 연구 부산 " values ( 50,' ',' ')"; int i = statement.executeUpdate(sql); System.out.println(i + 개의 레코드가 저장되었습니다 " .");
+
+
+
+# PreparedStatement
+- String sql = "insert into dept (deptno,dname,loc) values (?,?,?)";
+
+
+
+## PreparedStatement 예제
+ * String sql = "insert into dept (deptno,dname,loc) "; 
+ * sql += " values (?, ?, ?) "; preparedStatement = connection.prepareStatement(sql); preparedStatement.setInt(1, 60);  // 1은 1번째 인덱스를 의미, 2는 값
+ * preparedStatement.setString(2, 관리 " "); 
+ * preparedStatement.setString(3, 부산 " "); 
+
+
+## PreparedStatement 메소드
+① 메서드 setInt 
+- ⎼setInt인덱스 매개변수 메서드는 레코드 값을 지정한 ( , ) setter 메서드로 int 자료형으로 수정하고 인덱스는 와일드카 드(? 의 인덱스 값이며 매개변수는 컬럼명이다 ) . 
+
+
+2. ② 메서드 setString 
+- ⎼setString 인덱스 매개변수 메서드는 레코드 값을 지정한 ( , ) setter 메서드로 String 클래스 자료형으로 수정하고 인덱스는 와일드카드(? 의 인덱스 값이며 매개변수는 컬럼명이다 ) . 
+
+
+3. ③ 메서드 setDate 
+- ⎼setDate 인덱스 매개변수 메서드는 레코드 값을 지정한 ( , ) setter 메서드로 Date 클래스 자료형으로 수정하고 인덱스는 와일드카드(? 의 인덱스 값이며 매개변수는 컬럼명이다 
+
+## Statement와 PreparedStatement 차이
+- statement = connection.createStatement();  // Statement 공간 먼저 만들기
+- 				String sql = "";  2. SQL만들기
+- predpared statement는 		PreparedStatement preparedStatement = null; 만 해주면 Statement 공간 만들어 줄 필요 없다.
+
+
+
+# Command
+- 입력 - 모델 - 서비스 - 출력
+
+# DTO
+- 입력 - DTO(데이터베이스 연동) - 서비스 - 출력
+
+# DAO
+- 입력 - 모델 - 서비스 - 출력
+
+## 서비스 메소드
+1. - 기존의 서비스
+2. - DB 연동 서비스: DAO(쿼리문이 들어감)
+
+
+# 와일드카드
+- 특정 문자를 변수처럼 사용
 
 
 # create

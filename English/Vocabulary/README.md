@@ -836,6 +836,8 @@ We need food and water.
   * 내가 온유를 편애하는 걸 인정하지. I admit that I'm biased towards Onew.
 
 ## big
+* big fat = 명백한, 노골적인, 심각한
+  * = 테일러는 새빨간 거짓말쟁이야. Taylor is a big fat liar. 
 * 잘나가다 go big
   * 친절하다 %%It's very #big/nice/sweet/kind of you to 동사 원형
   * #big on; ~을 미치도록 좋아하다 i’m not big on rubbing it in
@@ -3025,6 +3027,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 주말 내내 집에서 쉬었어; I just faffed around
 
 ## fat
+* big fat = 명백한, 노골적인, 심각한
+  * = 테일러는 새빨간 거짓말쟁이야. Taylor is a big fat liar. 
 * chew the fat, 직역하면 지방을 씹다인데요, 편한 주제로 오래동안 잡담하고, 수다떠는 것을 말해요. chew the rag 이라고도 합니다.
       * 우리는 그날 저녁 대부분 잡담이나 하면서 바에 앉아있었다. We sat in a bar most of the evening just chewing the fat.
 
@@ -4301,6 +4305,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 온상; 그 지역은 범죄의 온상이었다. The area was a hotbed of crime. 
 *  ((국제 금융 시장에서 높은 수익을 노리고 유동하는 단기 자금)) hot money
 * 내가 그에게 하루 종일 어디 있었었냐고 묻자 그는 몹시 당황스러워 했다. He got very hot under the collar when I asked him where he’d been all day. 
+
+## happy
+* happy  hour = 할인 중인 시간; 식당이나 바에서 손님이 가장 없는 초저녁 시간 동안 음료 등을 할인 하는 시간을 의미하는 단어입니다.
+  * = 그 가게 특별 할인 시간은 4시에서 6시야. Their happy hour is from 4 to 6.
 
 ## had better
 * 경고나 위험의 의미가 있ㅇ어 should보다 강하고 have to 보다 약함
@@ -5694,6 +5702,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 1) There is nowhere to동사원형  2) There is nowhere for 목적격(의미상주어) to 동사원형  3) There is nowhere that절(주어+동사)
 
 ## nothing
+* have/get nothing on = ~에 비하면 아무것도 아니다; 남과 비교하여 그 능력, 특성이 매우 월등할 때 have nothing on 으로 표현할 수 있어요. 주어가 능력이 더 낮은 사람이고, on 다음이 월등한 사람이 옵니다. 
+  * = 잭도 빠른데, 콜린에 비하면 쨉도 안 돼. Jack is a fast runner, but he has nothing on Colin!
 * all or nothing. 직역하면 '전부 혹은 아무것도 아닌' 이런 느낌인데요, '모 아니면 도', '중도가 없는' 이렇게 번역 할 수 있어요. 하이픈(-)으로 이러 붙이면 형용사 all-or-nothing이 돼요. 
   * 걔는 항식 극단적이야/모 아니면 도야. [ex] It's all or nothing with her.
 * 강조할 때; 좋은일 만 있길 바래; i wish nothing but the best for you; nothing 해석 안하고 very, really, only 같은 강조
@@ -6229,6 +6239,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 
 ## pin
+* Let's put a pin in it. = 다음에 다시 이야기해요.
+  * 왠지 pin 을 보시고 게시판에 종이 붙일 때 쓰는 '핀'을 떠올리신 분들이 많을 것 같아요! 하지만 이 문장은 세계 2차대전에서 유래된 표현으로, 수류탄의 '핀'을 지금 뽑지말고 그대로 두어서 '나중에' 필요할 때 쓰는 걸 put a pin in it 이라고 했다고 해요. 그런 모습에서 발전하여 [나중에 다시 이야기하자] 의 의미를 갖게 되었습니다.
 * 2. pin [목적어] down: 무언가를 정확히 이해하거나 묘사하다
   * 경찰이 범죄의 동기를 파악하려고 노력 중이다. [ex] The police are trying to pin down the motive of the crime.
 * pin down : 짓누르다. 꼼짝 못하게 하다.
@@ -7279,6 +7291,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * = 저는 8시간 교대 근무를 해요. I work on eight-hour shift.
   * = 내일 나 대신 근무해 줄 수 있어? Can you cover my shift tomorrow?
 
+## sock
+* Sock it to me! = 덤벼 봐! / 들어와, 들어와!; [sock it to 사람] 은 남에게 강하게, 직설적으로 표현하는 것을 말해요. 그래서 sock it to me 는 “난 들을/싸울 준비가 됐으니 어디 해봐라”가 되는거죠. 
+
 ## sow
 * sow wild oats = 방탕하게 놀아나다; 나가서 방탕하게 놀아나는 걸 말하는데, 주로 어린 나이에 여러 이성을 만나거나 술마시고 날라리처럼 다니는 걸 의미해요. 옛날에 야생귀리는 상품성이 없어 골칫거리였다고 해요. 그런 야생귀리를 뿌리고 다닌다는 건 쓸모없는 헛짓거리를 하고 다닌다 뜻이 되었죠. 
     * = 너 그렇게 헛짓거리하며 다니기에는 너무 나이가 많잖아. You are too old to be sowing your wild oats. [oʊt]
@@ -7671,6 +7686,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * sweet spot은 ‘최상의 결과를 내는 범위나 부분’입니다. 스포츠에서는 라켓이나 베트, 클럽 등으로 공을 치기 가장 효율적인 부분을 뜻하고, 비즈니스에서는 최상의 수익성 혹은 효율성을 만들어내는 범위를 가리킵니다. 또는 가수의 최상의 음역대, 가장 좋아하는 스킨쉽 위치 등 분야는 다르더라도 모두 ‘가장 좋은 결과를 내는 위치’를 의미합니다. 
 
 ## sweep
+* a sweeping set of = 대대적인, 광범위한, 포괄적인; 동사 sweep 은 '쓸다'라는 의미를 가져요. 스포츠 좋아하시는 분들은 조금 더 익숙하실 텐데요. 야구에서는 한 팀과의 3연전을 싹쓸이하는 걸 스윕이라고 하고, 컬링에서는 앞에서 길 닦는 선수들을 스위퍼라고 합니다. sweeping set 은 무언가를 다 쓸어 담는 세트를 의미하는, 넓은 범위로 무언가를 다 포함하는 걸 의미합니다.
+  * = 그 법안이 통과되면 포괄적인 권리가 세입자에게 주어질 겁니다. A sweeping set of rights will be given to tenants if the bill is passed.
 * 네가 내 마음을 완전 뺏었어. You really swept me off my feet
 * #임시방편; we can't just #sweep this under the rug
 * #sweep something under the rug(#rug)

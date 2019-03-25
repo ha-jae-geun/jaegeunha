@@ -1,4 +1,8 @@
 # JAVA
+## 설계
+* 패키지 -> 클래스 -> DTO -> Control ->  DAO -> Service -> Main
+
+
 ## JAVA 개발을 위한 tool JDK
 
 # 자바
