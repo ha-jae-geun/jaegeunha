@@ -8464,6 +8464,8 @@ retaliate
   * ~인양 행세하다; #pass off as; pass them off as the little lords
   * #phone it in; #하는 척하다; #척하다
   * ## 체 ## 척하다
+  * pose as 사람 = ~인 척하다, ~행세를 하다; 같은 의미의 pretend 는 목적어로 꼭 사람이 아닌 경우도 많고, 좋은 의도, 나쁜 의도가 정해지지 않은 중립적인 단어인데요. pose as 의 경우엔 주로 '사람'을 목적어로 취하며, 남을 속이려는 의도로 타인인 척하는 걸 의미하는 표현입니다.
+    * = 그는 경찰 행세를 하다가 들켰다. He got caught posing as a cop.
 
 # 초급
 * 초급 수준으로 가르쳐주실 수 있나요? Could you teach me something very elementary

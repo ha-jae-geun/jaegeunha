@@ -787,10 +787,12 @@
 - 대용량으로 데이터 받을 때; 동기화가 이루어진다. 일반적으로 사용된다.
 - println과 동일
 - 외부 데이터(xml) 에서 데이터를 받을 때는 StringBuffer로 받는 게 좋다.
+- 대용량 데이터 담을 때는 반드시 StringBuffer로 담아야 한다;(# clob 데이터형); TCP 역할
 
 ## StringBuilder
 - print와 동일; 빅데이터에서 데이터를 받을 때 문제가 생김
 - 데이터를 끊김없이 받을 때 사용된다.
+- UDP 역할; 데이터 손실이 있음
 
 
 
@@ -1231,6 +1233,10 @@ String str4 = "java";
 - 스택에 저장하는 이유: 나중에 값을 int 형 등으로 형 변환 위해
 - 엔터(\n  \r)  탑재 되어있음.
   * System.in.skip(2); 를 하면 System.in.read()를 2번 넘어간 것과 같은현상
+
+
+### buffered와 차이
+=- Scanner는 커서 문제, 예외처리 문제 있음.
 
 
 ### nextInt 단점

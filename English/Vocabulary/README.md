@@ -1309,6 +1309,8 @@ We need food and water.
     * 자궁에 혹이 있대. [ex] They say I got a lump on my uterus.
 
 ## buck
+* 1) the buck 이라고 쓰면 [책임] 을 의미합니다. 예전의 포커 게임 방식은 사람들이 돌아가며 패를 돌렸는데, 패를 돌리는 역할을 하는 사람 앞에 buck 이라는 물건을 놓았다고 해요. 게임에서 패를 돌리는 일은 꽤 중요한 일이기에, 본인이 하기 싫으면 다른 사람에게 넘길 수가 있었는데요. 그런 책임감을 자기가 맡게 되면, buck 이 자기 앞에서 멈추기에 The buck stops here 은 [모든 책임은 제가 집니다] 라는 의미로 발전되었습니다.
+  * The buck stops here. = 모든 책임은 제가 집니다.
 * 돈을 좀 더 벌려고 주말에는 식당에서 일하고 있어. ex) I'm working at a restaurant on the weekends to make an extra buck.
 * 1. buck 은 [1달러] 또는 [돈] 을 의미하는 비격식 표현입니다.
 
@@ -3079,6 +3081,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 내가 너한테 전화한 걸 까먹은건 그녀 잘못이야. ex) It's her fault that I forgot to call you.
 
 ## fast
+* play fast and loose = 무책임하게 행동하다; 연주를 할 때 빠르면 빠르게, 느슨하면 느슨하게 연주를 해야 하는데, play fast and loose는 어울리지 않는 두 개가 함께 일어나는 모습의 단어에요. 일관성 없이 무책임하게 마음대로 행동하는 걸 의미하는 단어입니다.
+  * = 그 여행 경비를 무책임하게 아무렇게나 쓰면 안 돼. You can't play fast and loose with the travel budget.
 * live fast는 하고 싶은 걸 후회 없이 막 사는 걸 의미하는데 주로 별 깊은 생각 없이 위험하고 방탕한 일을 하고 지내는 라이프 스타일을 일컫습니다. (fast에는 '행실이 좋지 않은, 방탕한'이라는 뜻도 있어요!) 젊은이들의 슬로건처럼 'live fast, die young'이라는 말로도 자주 등장하죠~ 별 생각 없이 즐기기만 하며 살다 보면 이른 죽음을 맞이 할 수도 있지만 그에 대한 두려움이 없는 사람들의 마음이 담겨 있는 표현이에요. 화려하게 살다가 세상을 일찍 뜬 유명한 스타들을 묘사하는 말이기도 하지요~
 * fast는 '단식' 혹은 '단식하다'라는 뜻! '단식에 들어가다'는 go on a fast라고 하고, '단식을 중단하다'는 break one's fast라고 하는데요, 이게 아침식사를 뜻하는 breakfast의 어원이에요. 밤에 하는 단식(fast)를 깬다(break)는 뜻!                                
 
@@ -6439,6 +6443,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 서로 더 상처 주는 일은 하지 말자. ex) Let's stop pouring salt into each other's wounds.
 
 ## pose
+* pose as 사람 = ~인 척하다, ~행세를 하다; 같은 의미의 pretend 는 목적어로 꼭 사람이 아닌 경우도 많고, 좋은 의도, 나쁜 의도가 정해지지 않은 중립적인 단어인데요. pose as 의 경우엔 주로 '사람'을 목적어로 취하며, 남을 속이려는 의도로 타인인 척하는 걸 의미하는 표현입니다.
+  * = 그는 경찰 행세를 하다가 들켰다. He got caught posing as a cop.
 * 추가적인 위험은 없다고 it posed no additional danger.  ▪ pose (문제를) 제기하다, 일으키다
 * poser : '포즈'할 때의 pose에 er를 붙여 '~하는 사람'이 된 표현이에요. '~인 척하는 사람'이라는 뜻인데, 이 영상에서는 '매니아인 척하는 사람'이란 뜻이에요. '따라쟁이'라고 해석할 수도 있겠네요.                                
 
