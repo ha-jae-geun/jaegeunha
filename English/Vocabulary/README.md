@@ -440,6 +440,11 @@ We need food and water.
 ## apply
 * 상처에 압력을 가하라. [ex] Apply pressure to the wound.
 
+## approach
+* 동사일 때는 빼고, 명사일 때만 to 를 붙입니다. 매우 흔히 틀리는 문법인데요, 간단하니까 이번에 확실히 기억해 두세요!
+  * = 점심시간 다가온다. It’s approaching lunchtime.
+  * = 우리는 그 일에 매우 조심스럽게 접근했다. They've taken a very cautious approach to it.
+
 ## appropriate
 * appropriate은 형용사로 ‘적절한’이란 뜻이지만 여기서는 동사로 쓰였습니다. 동사로서의appropriate의 두 가지 뜻이 있습니다. ① (돈, 권리 등을) 무단으로 가져다 사용하다 ② (특정 목적을 위한 돈을) 책정, 배정하다
   * 그는 회사돈을 집과 차를 사는 데 무단으로 사용했다. (①번) He appropriated the company’s money to buying a car and a house.
@@ -2405,6 +2410,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## debt
 * -에게 빚을 지다; be in one's debt
 
+## deck
+* 모두 힘을 모아야 합니다;  All hands on deck
+
 ## decide
 * I was deciding = 고민중이었어요; 결정을 내리는 건 한 순간의 액션이니까 보통 진행형으로 쓰지 않겠죠. 여기서 deciding 은 결정하고 있다는 것이 아니라, 어떤 결정을 내릴지 ‘고민/생각하고 있다’를 말해요. 
 
@@ -2700,6 +2708,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * develop 은 기본적으론 [개발하다] 라는 뜻이지만, 없던걸 만들어내는 뉘앙스이기 때문에 뒤에 병명이나 어떤 문제가 목적어로 오게 되면 1) 없던 병에 걸리거나 2) 문제가 생길 때도 쓰이는 단어입니다.
 	* 아이들에게 발진이 생기면 병원에 데리고 가세요. ex) Take your kids to hospital if they develop a rash.
 
+## donkey
+* 오래동안; for donkey's years
+
 ## done
 * done 은 무언가가 다 끝났을 때 쓰는 단어인데요. 이게 다시 undone 된다는 말은 완전했던 무언가가 해체되고, 분해되는 걸 의미합니다. 보통 끈, 실, 포장지 등이 풀리는 것을 의미하는데요. 비유적 표현으로 계획이나 예상한 일이 수포로 돌아가고, 예상치 못한 방향으로 흘러가는 걸 의미하기도 해요.
   * = 너 신발 끈 풀렸어. 묶는 게 어때? 넘어질지도 몰라.Your shoelace has come undone. Why don't you tie it up? It might fall.
@@ -2942,6 +2953,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## envelop
 * 감싸다, 뒤덮다; [봉투] 를 의미하는 envelope 에서 e 하나만 빼면 동사로 [뒤덮다] 라는 의미로 쓰인답니다.
 	* 그녀는 커다란 갈색 수건으로 몸을 감쌌다. ex) She enveloped herself in a huge brown towel.
+
+## eavesdrop
+* 나는 창문을 열었어/ 내가 그 대화에 대해 엿들을 수 있을 만큼 I opened the window/ as much as I can eavesdrop on the conversation.
 
 ## eager
 * 우리는 그를 거의 1년 동안 못봐서 만나서 그동안 어떻게 지냈는지 소식을 기대하고 있어요."
@@ -4240,6 +4254,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 상상하지 못한; not even on the horizon
 
 ## hole
+* 원래는 동물들이 물 마시는 '물웅덩이' 라는 뜻의 단어인데요. 보통 동물들이 물 마시는 곳은 정해져 있고 그 구역에 사는 동물들이 자주 가는 곳이기에, 속어로 술을 파는 '인기 있는' 바, 술집, 나이트 클럽, 식당 등을 의미합니다.
+  * = Lucy's 가 마을에선 술 마시기 가장 좋은 곳이야. Lucy's is the best watering hole in town.
 * 맛집; hole in the wall
 * 문제점이 많아요; It's full of holes
 * 점점 더 이상해지다; go down a rabbit hole
@@ -4431,6 +4447,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * hype 는 슈퍼팬에서도 여러 번 다뤘던 단어인데요, 미디어에서 대대적으로 떠드는 것, 사람들이 열광하는 것을 말합니다. 문장을 통째로 외워서 “도대체 …가 뭐길래 그렇게 난리들이야?” 라고 말하고 싶을 때 활용해 보세요!
 	* = 왜 저렇게 난리들이야?  “What is the hype all about?”
 
+## homicide
+* murder 는 정말 악의를 갖고 사람을 죽이는 불법적 행동이고, homicide 는 실수, 사고, 정당방위 같이 의도하지 않은 살인까지 포함입니다. - vehicular homicide: 차사고를 내서 상대방이 죽은 경우 - justifiable homicide: 정당방위로 사람이 죽은 경우 - accidental homicide: 과실치사 (실수로 사람이 죽은 것)
+  * = 그는 차량 사고로 사람을 죽여 기소되었다. He was indicted for vehicular homicide.
+
 ## home, house
 * house: 말 그대로 집
 * home: 집일 수도 있고 어디든 편안함을 느끼는 장소
@@ -4572,6 +4592,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ### hang on
 * : 잠깐만요. Hang on; Hang on a second.
+
+## indian
+* 보답을 바라고 서비스하는 사람; indian giver
 
 ## inkling
 * have an inkling = 짐작하다, 알아차리다; 명사 inkling 은 우리말의 ‘눈치, 짐작, 낌새’에 해당하는 말로 hint 와 의미가 비슷합니다. 동사는 보통 give/have 등을 씁니다.
@@ -4766,6 +4789,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : (구어) ~를 격렬하게 비난하다, 꾸짖다, 야단치다 [ 숙어 ] jump (all) over somebody
   * 엄마는 내가 늦은 것에 대해 엄청나게 뭐라 했다. My mom jumped all over me for being late.
 * jump seat = 자동차나 항공기에 달려있는 접이식 보조 좌석
+
+### jump down
+* 메리는 그 도둑이 그녀의 가방을 낚아챘을 때, 그 자리에 서서 꼼짝할 수가 없었다. The thief jumped down Mary's throat when he snatched her bag. 
 
 ## kink
 * 애로사항을 해결하다; work out the kinks
@@ -5007,6 +5033,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * lyric는 단수로는 거의 안씀; lyrics are
 
 ## loose
+* = 지금은 내가 가족으로부터 독립해야 할 때야. It's time for me to cut loose myself from my family.
 * get loose = 격렬히 즐기다; loose 가 '느슨한' 이라는 뜻이 있어서 원래는 잡혀있는 상태에서 느슨한 틈을 놓치지 않고 [달아나다] 의 뜻을 가집니다. 하지만 영상에서처럼 파티를 하는 경우엔 자기를 얽매고 있는 걸 다 털어버리고 격렬히 즐기는 것을 의미하는데요. 비슷한 표현으로 cut loose 가 [정신줄 놓고 놀다] 의 의미로 쓰입니다.
   * = 모두들 오늘 밤 제대로 놀아봅시다! Let's get loose everybody tonight!
 * 선박에서 물건이 날라가지 않도록 밧줄을 단단히 묶던 것에서 유래한 표현이에요. loose ends 는 제대로 묶이지 않아 헐거운 끝부분으로 ‘미비한 부분, 설명되지 않는 부분’을 비유합니다.  be at loose ends: 빈둥거리다 (아예 다른 뜻)
@@ -6220,6 +6247,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 그녀와의 결혼생활은 정말 최악이었어. My marriage with her has been the pits. the pits는 불쾌하고 좋지 않은 것을 나타냅니다. 사람, 사물, 상황 등에 모두 쓸 수 있습니다.
 
 ## piece
+* 2) 비격식 표현으로 You want a piece of me? 라고 하는 경우도 있는데요. 여기서는 몸의 일부를 마치 떼어가는 듯한 뉘앙스로 [나랑 한 판 붙어볼래?] 라는 의미로 쓰여요.
+* = 어제 싸울 때 그에게 내 일부를 빼앗긴 느낌이었어. I felt like he took a piece of me while we were arguing yesterday.
 * bits and pieces : 이런저런 것들, 소소한 일들/사물들,  bit 과 piece 자체가 [작은 조각] 을 의미하는데요. 복수로 써서 [작은 것들] 을 전반적으로 의미해요. 크게 중요하지 않은 소소한 일들이나 사물들을 의미합니다.
   * 한 30분 뒤에 만날 수 있을까? 간단한 집안 ex) Can we meet about 30 minutes later? I just have a few bits and pieces to do at home.
 * 1) 갈기갈기 찢어진 게 아니라 팔 다리가 하나로 (one piece) 다 붙어있는 듯한 모습을 보여주는 단어입니다. 무언가 위험한 경험을 한 후에 다치지 않고 육체적/정신적으로 온전한 상태를 나타낼 때 쓰는 표현이에요. 2) 영상에서는 유명세를 타기 시작한 출연자가 엘렌쇼까지 나와서 정신을 못 차리는 걸 다른 출연자가 놀리자 한 말로, [전 지금까지는 멀쩡해요] = [아직은 멘붕이 오지 않았답니다] 라고 해석이 되었습니다.
@@ -7486,6 +7515,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * pseudo-science : 유사과학, 사이비과학; 과학적이지 않지만 과학적인 방법에 근거했다고 여겨지는 믿음이나 관행을 의미합니다. 
   * 점성술은 유사과학의 일반적인 예이다. ex) Astrology is a typical example of pseudo-science.
 
+## script
+* 짜고 치는 고스톱이다; It's scripted
+
 ## scroll
 * = 나는 그의 이름을 찾으려고 명단을 스크롤했다. I scrolled through the list to find his name.
 
@@ -7923,6 +7955,13 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 우리가 알고 있는 단순한 명사들이 동사의 역할을 하기도 해요. 1) water = 물을 주다, 2) plant = 심다 등의 단어들이 있는데요. stone 도 마찬가지라 [돌] 뿐만이 아니라 동사로 [돌을 던지다]라는 의미로 쓰입니다. 비유적으로 [비난하다]라는 의미를 갖기도 해요.
   * = 걔들이 모든 걸 알게 되면 제이슨은 돌에 맞아 죽을지도 몰라. Jason might be stoned to death if they figured out the whole thing.
 
+## stomp
+* 그냥 stomp 라고 해도 무언가를 힘주어 [밟다] 라는 뜻이 있어요. 영상에서는 눌러 밟는 모습을 좀 더 강조해주기 위해 down 과 함께 쓰였는데요. 다양한 모습으로 쓰입니다.
+  * stomp + 목적어 = ~을 세게 밟다, 눌러 밟다
+  * stomp on + 목적어 = ~을 세게 밟다, 눌러 밟다
+  * stomp one's feet = 발을 구르다
+  * = 네가 이런 식으로 내 어릴 적 추억을 짓밟을 순 없어. You can't stomp down my childhood memories like this.
+
 ## stomach
 * stomach는 명사로는 위, 복부를 의미하지만 동사로는 '참다, 견디다'는 뜻을 갖고 있죠~ 어떤 걸 '먹고 넘길 수 있다'는 의미에서 발전한 의미로 볼 수 있어요. 주로 부정문, 의문문으로 사용됩니다.
   * 자기 가족에 대한 모욕적인 말을 견딜 수 있는 사람이 어디 있어? Who can stomach insulting remarks on their family?
@@ -8072,6 +8111,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 이런 즉석 음식 먹는 게 지겨워. 우리 다른 거 없어? I'm tired of eating this ready-to-serve food. Anything else we have?
 * 자신의 생각을 일기장에 써본다면 도움이 된다고 말하면서 you serve yourself 라고 하였습니다. 이 표현은, 자신에게 도움이 되는 행위를 하다라는 뜻입니다. 여기에 if+문장을 넣어서 if 뒤를 할 경우, 너에게 도움이 될 것이다라고 구체적으로 표현해 주면 됩니다.
 	* 자기 전에 물 한잔 마시면 너에게 아주 좋을 거야. You would serve yourself if you drink a cup of water before going to bed.
+
+## setup
+* 이건 모함이야; THis is setup
 
 ## settle
 * settle an argument : 논쟁을 해결하다, 마무리 짓다 우리말로 'OO 배틀'이라고 하죠? 영어에서도 battle이란 표현을 쓰지만 더 자주 쓰는 표현은 'OO-off'랍니다. 
@@ -9536,6 +9578,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 몇몇 소비자 감시 단체는 그 회사가 최근에 제기된 안전 문제에 대해 충분한 조치를 취하지 않는다고 비난했다. Several  consumer watchdogs have blamed the company for not taking enough actions for the safety issue addressed recently.
 
 ## water
+* 공짜물; Water for the table
 * 워터게이트 (사건) ((1972년 Washington, D.C.에 있는 민주당 본부 건물에 도청 장치를 한 정보 활동; 1974년 Nixon 대통령 사임의 직접적 원인이 됨)); [때로 w~] ((일반적으로)) 정치적 부정 행위[추문]
 * 모래로 성을 만들다: making a castle with sand; 노를 들고 있따; holding a paddle
   * 보트가 물에 떠있따; a boat is floating in the water; 물이 잔잔하다; water is calm
@@ -9696,6 +9739,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그녀는 그 남자를 완전히 잡고 있다. She has him wrapped around her little finger.
 * 주로 당분간 비밀로 하기 위해 꽁꽁 싸매놓은 것을 의미합니다. 주로 keep something under wraps 라고 쓰여요.
   * 계획을 당분간은 비밀로 해두자, 알겠지? ex) Let's keep the plan under wraps for a while, okay?
+
+## whatnot
+* 뭐 그런거; i washed the dishes and whatnot
 
 ## whole
 * 그 영화 대체적으로 괜찮았던 거 같아. I think the movie was pretty good on the whole.

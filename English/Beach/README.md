@@ -46,6 +46,9 @@
 	* 해안으로[물가로] 오다/가다  to come/go ashore; 부사] 해안[강안]으로[에], 물가로[에]
 * 물때표; 밀물과 썰물이 들고 나는 떄를 적은 표
 	* 낚싯바늘을 묵을 떄마다 손가락이 베여서; when i'm trying my hooks, i always cut my fingers
+	* rod 는 ‘낚시대’, tackle 은 ‘낚시 기구’로 둘이 고정적으로 합쳐 [낚시 용품] 을 가리킵니다. 
+		* = 그는 항상 차에 낚시 장비를 갖고 다닌다.  He always carries fishing tackle in his car.
+		* = 그는 강 중간에 낚싯줄을 던졌다. He cast the line to the middle of the river.
 * 배가 부두에 도착하면; When the ship docks
 * #river, #creek: 작은 만, #stream: 개울
 * * 부산은 #coastal city

@@ -1,4 +1,8 @@
 # 기타
+* 워커; Combat boots (O); 워커가 군인들의 신발이므로 전투화, 군화 라는 명칭
+* 다이어리; weekly planner; Personal organizer
+* - 어디서 이 헤어핀을 샀어? Where did you get this barrette? [bərét]; 
+	* 집게, 똑딱이 형태로 된 헤어핀 hair clip;  실핀: Bobby pin; 빗 형태로 머리에 꽃는 헤어핀: Hair comb; 머리에 꽃는 형태의 핀: Hair pin
 * 마스크팩: mask pack > facial mask
 * - 네 노트북 보증기간 아직 안 끝났니? Is your laptop still under warranty? warranty 미국식 [ˈwɔːr-;ˈwɑːr-] 
 * - 물은 셀프인가? Is water self-service?

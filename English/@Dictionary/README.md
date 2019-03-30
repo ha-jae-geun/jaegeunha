@@ -2708,6 +2708,9 @@
 * # 마지막;그는 막판에 도착해서 차를 타는데 성공했어요.  He arrived at the eleventh hour and managed to get in the car.
   * at the eleventh hour
   * 나는 이것을 내일 제출하지 않으면 안 된다. 그래서 마지막까지 일해야 해. I have to turn this in tomorrow, and I'll be working down to the wire; down to the wire
+
+# 마법
+* 단신이 간단한 마법이나 저주를 할 수 있는지 볼게요; i need to see you perform a simple charm or jinx
   
 # 마음대로
 * 음악을 연주함에 있어서 빠르면 빠르게. 느리면 느리게 일정한 속도로 연주를 해야 하지만, 빠르고 느리게 (fast and loose) 연주를 하게 되면 자기 마음대로 연주를 하는 것과 마찬가지죠.  = (에) 무책임하게 굴다, 마음대로 행동하다  play fast and loose (with) 표현 자체에 상대방에 대한 못마땅함을 품고 있는데요. 행동이 무책임하거나 비도덕적일 경우에 쓰는 표현으로, 뒤에 전치사 with 를 붙여서 함께 쓸 수 있습니다.
@@ -3405,6 +3408,8 @@
  * 재촉하지마 don't be so #Pushy
  * 왜이렇게 급해                 What's the rush
  * # 미루다 # 연기# 끌다 # 지연 # 급함 # 서둘러 # 꾸물 # 빨리 # 빠르게 | # 재촉 # 연장 # 보류
+ * # 발목 잡다;  * 제 발목을 잡고 있던게 바로 그거였던 것 같아요.  
+  *  I think that was what was holing me back.
 
 # 미리
 * 미리 집을 샀을텐데; i would've bought a house a head of time / early on; before 보다는
@@ -3638,6 +3643,83 @@
  * #변치않는 #불변; #hard and fast
  * #변하지 않는; #incurable disease/optimism/habit
  * 사람이 바뀌다; #go from A to B; went from shy to outgoing
+
+## 변화
+ * GOT RICH 02:10
+ * : 가장 자연스러움
+ * [예문
+ * He GOT working on Wall St
+ * He GOT rich selling real estates
+ * He invested in a startup and GOT rich over night 
+ * He GOT rich playing the stock market]
+ * -BECAME RICH
+ * : 많이 안쓰나 아래 예문처럼 앞의 문장 붙이면 괜찮음
+ * [예문 
+ * Over the years, he BECAME RICH]
+ * 
+ * -TURNED + 형용사 03:35
+ * : 원칙적으로 가능하나 거의 안씀
+ * [자연스러운 예문
+ * The leaves have TURNED colors
+ * The leaves are starting to TURN colors]
+ * [괜찮은 예문
+ * The weather TURNED hot in my absence
+ * The weather is TURNING bad
+ * In its old age, the horse TURNING mean]
+ * [어색한 예문
+ * He TURNED fat]
+ * 
+ * -TURNED INTO 06:40
+ * : 변화 과정을 강조할 때, 사람의 성격이 달라졌을 때 많이 씀
+ * [예문
+ * Night TURNED INTO day, day TURNED INTO night
+ * It TURNED INTO summer while I was away
+ * He really TURNED INTO a monster
+ * That guy TURNED INTO such a jerk]
+ * 
+ * -사람 BECAME 명사 06:48
+ * [예문
+ * He BECAME a teacher later on him life
+ * He is BECOMING a teacher
+ * Ten years after that, he BECAME president
+ * He BECAME CEO of the company]
+ * GOT 쓰면 ‘그가 선생님을 잡았다’같이 의미 바뀜
+ * 
+ * -사람이 느끼는 감정, 기온, 상태 등 08:14
+ * : TURNED 잘 안쓰는데 GREW는 씀
+ * [예문
+ * He GREW angry at the mention his brother
+ * I’m GROWING cold
+ * I’m GROWING tired of this discussion]
+ * 
+ * -사람이 느끼는 기온 08:57
+ * I’m GETTING a little cold
+ * : 이렇게 90% 씀
+ * I’m BECOMING cold
+ * : Cold는 달라지는 과정이 없기 때문에 안맞고 어색함
+ * 
+ * -사람의 성질 등의 변화 10:22
+ * He’s BECOMING more fit by the day
+ * He’s BECOMING quite the ladies man
+ * 
+ * -날씨와 어떤 장소의 기온 10:55
+ * [예문
+ * 오후에 외출한 사이 건물 안이 더워진 상황
+ * It GOT hot/ It started to GET hot/ The weather is GETTING hot
+ * 수도꼭지 온수를 틀어서 욕조가 뜨거워지고 있는 경우
+ * It’s GETTING hot/ It’s starting to GET hot
+ * It’s BECOMING hot-> 어색]
+ * 
+ * -COME+형용사 12:51
+ * Wow, you really CAME prepared
+ * You need to COME prepared tomorrow
+ * 두번째보다는 첫번째 예문처럼 보통 감탄할 때 많이 씀
+ * 
+ * -15:59
+ * Came out/ came off/ came through/ came up
+ * 
+ * 영어공부 관련 영상을 몇백 혹은 천개 이상 봐오면서 이런 정성스런 유튭 댓글은 처음 달아보네요. 
+ * 열심히 공부할만한 가치 있는 훌륭한 강의를 해주시는 마이클샘한테 항상 감사드립니다.﻿
 
 # 바쁘다
 * ☆바쁘다; be snowed under = up to one's necks/ears/eyeballs (in) = up to my neck in
@@ -3934,6 +4016,7 @@
 
 # 배경
 * 장면은 파리로 설정되어있따; The scene is set in Paris
+* 제주도는 로맨틱한 휴가를 위한 완벽한 배경을 제공했어. Jeju provided the perfect backdrop for a romantic holiday.
 
 # 배수
 * 한 배 반, 두 배 반 time and a half. 'Two and a half times'
@@ -5424,6 +5507,7 @@ retaliate
 * 동사 turn off 의 가장 잘 알려진 의미는 TV 나 라디오 등을 [끄다] 라는 뜻인데요. 비슷하게 [관심을 끄게 만들다] 라고 할 때도 이 표현을 씁니다. 영상에서는 수동태로 쓰였는데요. 문법적으로는 turned off to meat 이라고 쓰는 게 맞지만, 말하다 보니 그냥 빼먹고 쓴 경우입니다.
   * 발목이 꺾이고 난 뒤에는 이번 주말에 축구하는 거 완전 신경 껐어. ex) I was totally turned off to playing soccer this weekend after my ankle got twisted.
 * #신경 쓰지 않다; #blow games out of proportion
+* 어그래, 너가 뭘 하든 신경안 써! Fine, I couldn't care less what you do!
 
 # 신분증
 * 신분증 있으세요? Do you have any identification?
@@ -6169,6 +6253,7 @@ retaliate
 * 칫솔로 원을 그리듯 이를 닦으세요; Brush your teeth in a circular motion
 
 # 원어민
+* 뭐 그런거; i washed the dishes and whatnot
 * 급하거나 그런거 아니에요; i'm not in a hurry or anything
 * 저희는 정말 좋은 수영장이 있는 호텔에서 묵었어요;
   * We stayed at a hotel that has a really good swimming pool; 가지고 있다를 have로
@@ -6177,6 +6262,7 @@ retaliate
 * 영어에서 게으르다로 돌려 표현하기도 함; I wouldn't have been lazy about -
 * 너 그거 먹어봤어? ? Have you ever tried the guacamole at King Taco?; 
   * did you go to 라고 안함
+* 코트 벗지마; Keep your coat on; don't take off your coat를 긍정적인 사고로 변경
 
 # 원인
 * 그의 비행으로 인해 사내 심각한 자금문제를 야기했다. His misconduct gave rise to a serious financial problem in the company; give rise to;  수면 위로 올라오다
