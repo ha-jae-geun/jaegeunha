@@ -8414,6 +8414,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 이 부분에 대해서 최신 정보는 잘 모른다. I'm not up to speed on this matter.
 
 ## spell
+* 스펠링 잘못적어써요; I spelled incorrectly
 * 진짜 설명해야 돼요? Do i really need to spell it out for you?
 * ＊ spell disaster = 재앙과도 같다
   * = 가뭄은 농부들에게는 재앙과도 같을 수 있다. (spell disaster/trouble for 피해를 입는 대상) The lack of rain could spell disaster for farmers.
@@ -9473,6 +9474,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## vest
 * : 비밀스럽고 신중한, 혼자서 비밀을 지키는 [close to the vest]; 어떤 것을 다른 사람에게 내보이지 않고 신중하고 비밀스러운 자세를 취하다는 표현입니다. 카드게임에서 자신의 패를 가슴에 바짝대고 신중하게 플레이한다는 것에서 유래되었습니다. 동사는 play, keep 그리고 vest대신 chest를 써도 됩니다.
   * 내가 좀 이유가 있어서 신중하게 행동할 수 밖에 없는 걸 이해해줘. Please understand that I have to play close to my vest for some reason.
+
+## valid
+* 형용사 valid 는 '유효한' 이라는 뜻 외에도 ' 타당한' 이라는 의미를 가져요. 그래서 이 단어를 직역하면 '타당한 걱정거리' 정도가 되겠는데요. '네가 지금 가진 걱정거리는 논리적으로 타당하다' 의 뉘앙스이니, [걱정할 만한 일] 으로 해석이 됩니다. [타당한 이유/주장/비판] 등을 valid reason/argument/criticism 으로 쓰기도 해요.
+  * = 그들은 건강에 대한 약간의 걱정을 하고 있었어. (그리고 그들의 걱정은 걱정할 만한 일이지) They had some valid concerns about their health.
 
 ## vanilla
 * 1. vanilla는 '바닐라 아이스크림, 바닐라 라떼'처럼 맛을 의미하기도 하지만 '평범한, 흔하고 별 특색 없는'이라는 뜻도 가지고 있어요.  2. 앞서 아이스크림에 대해 이야기 하고 있었기 때문에 vanilla라는 표현을 사용한 것은 딱 말장난을 노린 거겠죠~ pun은 동음이의어, 다의어, 소리가 비슷한 말 등을 이용해서 하는 말장난을 가리켜요. vanilla는 '바닐라'와, '평범한'라는 여러 뜻이 한 단어에 있는 다의어죠.
