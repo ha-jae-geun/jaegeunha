@@ -298,6 +298,9 @@ We need food and water.
 ## atm
 * 현금 인출기가 어디에 있나요? Where is the cash machine
 
+## argument
+* 마지막 부부싸움에서 누가 이겼나요? Who won the last argument?
+
 ## arm
 * 난 그들과 함께 거기 있을 수 있다면 기꺼이 내 오른팔도 내주었을 것이다. I’d have given my right arm to have been there with them. 
 
@@ -5139,6 +5142,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 스피드 광; He's got a real lead foot
 
 ## left
+* 원래 ‘왼손잡이’는 left-hander 인데요, 북미에서 비격식적으로 lefty 라고도 해요. 반대로 오른손잡이는 righty 가 되겠죠? 혹은 정치적으로 좌파, 진보파를 lefty, 반대로 우파, 보수파를 righty 라고 합니다. 
+  * = 그는 왼손잡이라서 오른손으로는 글씨를 못 써. He’s a lefty so he can’t write with his right hand.
 * left-wing 좌익 단체들left-wing groups 
 * go left: 왼쪽으로 걲어 가세요; on the left: 왼쪽에 위치하고 있다.
 
@@ -5865,6 +5870,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ### owner
 * 관장: owner
+
+## pwn
+* 지금 보고 계신 영상의 배경이 되는 게임 '워크래프트'에서 나온 신조어입니다. 이 게임에선 각각의 맵(map) 속에서 게임을 진행할 수 있는데요. 만약에 컴퓨터가 플레이어를 이길 경우, 원래는 화면에 &lt;지배당하다&gt; 를 의미하는 "has been owned" 라는 메세지가 떠야하는데, 맵 개발자의 실수로 has been pwned 라는 메세지가 뜨게 되었습니다. 아마도 키보드에 p 와 o 가 붙어 있어서 생긴 오타인 것처럼 보이는데요. 이후로는 pwned 가 온라인 게임 유저들 사이에서 굉장히 많이 쓰이며 하나의 신조어처럼 자리 잡게 되었어요. 요즘 우리말로는 '개발린, 처참히 발린, 완패한' 정도의 의미를 갖습니다.
+  * = 알지도 못하는 놈한테 완전 제대로 발렸어. I got totally pwned by this random guy.
 
 ## phone
 * 거짓이다; YOu're just beig phony
@@ -7304,6 +7313,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 예산이 부족해서 경영진은 그 프로젝트를 보류하기로 결정했습니다. The management has decided to shelve the project as the budget is tight.
 
 ## shed
+* 털이 잘 안 빠지나? - 나는 이제 카페를... It doesn't shed much? 
 * 이 모든것을 벗어버려야 해요; you literally have to shed that
 
 ## sheer
@@ -9402,6 +9412,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## toe
 * 우리는 상황을 알아 보았다  Dipping our toes in the water
+
+## unleash
+* unleash an attack = 공격을 퍼붓다; 최근 공공장소에서 애완견의 목줄 착용이 논란이 됐었죠. 바로 그 목줄이 leash 동사로는 ‘매다, 속박하다’입니다. 
+  * = 최악의 상황에는 핵전쟁이 개시될 수도 있어. At worst, nuclear war could be unleashed.
 
 ## unsolicit
 * 애드웨어: 불필요한 광고를 표시하는 프로그램입니다. Adware: Programs that display unsolicited advertisements. 듣기 출처:한샘EUG
