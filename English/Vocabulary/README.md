@@ -980,6 +980,9 @@ We need food and water.
   * 비격식 표현으로 상대방을 짜증나게 하거나 화나게 하려는 의도로 그 사람의 민감한 부분을 건드리는 말 또는 행동을 하는 것을 의미해요. 콕 하고 누르면 확 터지는 그런 부분 말이죠. 영상에서는 특정 인물의 민감한 부분이 아니기 때문에 복수로 buttons 가 쓰였습니다.
     * 몇몇 정치인들은 표를 더 얻기 위해 의도적으로 민감한 부분을 건드린다. ex) Some politicians deliberately press buttons to get more votes.
 
+## bad
+* 배에아드
+
 ## bat
 * I’m batting a thousand: 나 계속 성공하고 있어; bat a thousand 는 ‘승승장구하다, 계속 잘 풀리다’를 의미해요. 야구에서 유래한 표현으로 타구(batting)를 하는데 백이면 백, 천이면 천 계속 성공적으로 공을 친다는 겁니다.
   * = 나 기말시험 계속 잘 보고 있어. 현재 A가 3개야. I’m batting a thousand on the finals. I’ve got 3 As so far.
@@ -2446,6 +2449,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 당분간 계속 못 할거에요; We're clsed indefinitely
 
 ## deep
+* be/get in too deep = 너무 깊게 연관되다; 원치 않은 일에 너무 깊게 개입된 것을 말해요. 보통 스스로 자초한 상황이란 의미를 담고 있죠. 여기서는 ‘나쁜일에 개입’을 ‘큰 일’로 번역했습니다. 
+  * = 이 일에서 빠지고 싶은데, 이미 너무 깊이 개입됐어. I want to get out of this but I’ve gotten in too deep.
 * 좀 더 저음으로 말할까? SHould i say deeper?
 * 이 영화 진짜 심오하다. This movie is so deep.
   * deep analysis: 심층 분석  deep movie: 심오한 영화(편하고 가벼운 영화는 lighthearted movie)  deep meaning: 깊은 의미, 심오한 의미  동의어로 profound(심오한, 깊은, 엄청난)가 있어요.
@@ -5152,6 +5157,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 난 내 남친을 위해 요리하는 걸 좋아해. 왜냐면 내가 무엇을 요리하든지 깨끗이 비우거든. I enjoy cooking for my boyfriend because he licks the dish clean no matter what I cook.
 
 ## lid
+* 뚜껑을 덥어버리고; Top a lid on
 * 억제하다; want to put a lid on immigration
 * 뚜껑을 제거하고 있따; be removing the lid
 * 뚜껑 닫아 놓고 칠까, 열고 칠까? DO we hit it with the lid on it, or do we hit it with the lid off?
@@ -6771,6 +6777,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 걔는 믿기 힘들 정도로 억지를 부려요; She's pushy beyond belief
 
 ## pump
+* pump into = 쏟아 붓다, 주입하다; 문자 그대로는 액체/기체를 펌프질로 주입한다는 뜻인데요, 비유적으로는 많은 자금, 자원을 들이는 걸 말해요. 
+  * = 우리는 새로운 사업에 모아둔 돈 모두를 쏟아 부었다. We pumped all our savings into the new business.
 * pump the brakes는 직역하면 ‘브레이크를 밟다, 브레이크를 누르다’인데 관용어적으로 보면 “지금 하고 있는 행위를 멈춰라”라는 뜻입니다. 여기에 hate(분노, 증오)를 붙여서 타노스가 지금 하고 있는 행위는 분노에 차서 하는 일이니 그걸 그만 두라고 하는 거죠. 그래서 ‘분노 좀 죽여라, 지금 열받아서 하는 짓을 그만 둬라’ 정도로 이해하시면 됩니다. 
 	* 그만 해라, 얘야. Pump your brakes, kid. 
 * 비격식 표현으로 약물로 가득 채워진 것을 의미합니다. 비타민도 약 처럼 생겼잖아요 ㅎ 마치 펌프질 하듯이 콸콸 무언가를 몸 안에 집어넣은 것을 연상하시면 됩니다.
@@ -7579,6 +7587,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## score
 * * 묵은 원한을 갚다. pay off an old score 듣기 출처:프렌딕
 
+## sack
+* sack 은 ‘부대, 봉지’인데요, 옛날에 짐보따리를 매트리스처럼 깔고 자던것에서 유래하여 ‘침대’라는 뜻도 가지게 되었어요. 그래서 침대로 데려간다하여 ‘섹스하다’를 의미합니다.  get 사람 in(to) the sack = 성관계하다
+  * = 그는 티나와 잤다. He got Tina into the sack.
+
 ## sarcastic
 * 지금 비꼬는거야? ARe you being sarcastic?
 
@@ -8048,6 +8060,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## slight
 * slight 는 형용사로는 [관심을 기울이지 않아도 될 만큼 가벼운], 명사로는 [무시, 모욕], 동사로는 [무시하다] 라는 의미를 가져요. 누군가를 가볍게 여기고 리스펙 하는 것 없이 행동하는 것인데요. 그래서 주로 수동태로 쓰이면서 [무시당하다] 라는 의미를 가집니다. = be(feel) slighted
 
+## strength
+* go from strength to strength = 승승장구하다, 성공을 거듭하다
+  * = 그들의 사업은 몇 해 동안 계속 발전했다. Their business grew from strength to strength for many years.
+
 ## street
 * 쌍방 관계, 상호 노력이 필요한 관계; 일방 통행길을 one-way street 라고 양방향 다 갈 수 있는 길을 two-way street 라고 하는데서 나온 표현이에요.  당연히 일방적인 관계는 one-way street 라고 하겠죠? two-way 는 형용사로써 서로 함께 노력하고, 서로 상대방으로부터 배우는 것을 나타내는 형용사 입니다.  또한 대표적으로 [two-way communication = 상호 의사소통 / two-way process = 양방향의 과정] 으로도 많이 쓰인답니다.
 * 우정은 둘 다 노력이 필요한 관계야, 일방적인게 아니라. ex) Friendships are a two-way street, not a one-way street.
@@ -8080,6 +8096,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## slouch
 * #slouch 1. 모을 #구부정하다 ; #똑바로 #앉아; don't slouch 2. #무능한사람;; he's no sloutch
+
+## slate
+* a clean slate = 깨끗한 이력, 백지; 과거의 범죄기록이 공공연한 서류에 뜨지 않게 해주는 법도 Clean Slate Law 라고 부르죠.
+  * = 우리 다른 도시로 이사가서 새롭게 시작하자. Let’s move to a different city and start with a clean slate.
 
 ## slash
 * 2. slash (쓸 때는 '/'로 쓰고 발음은 '슬래쉬): and, or, also 등을 의미하는 기호로, 한 사람의 직업을 나열할 때, 어떤 일렬의 비슷한 사람들을 열거할 때, 등 다양한 경우에 사용할 수 있습니다. 말로 할 경우 slash라고 하는 건 and나 or를 사용하는 것보다 더 비격식적인 표현입니다.
@@ -8413,6 +8433,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 이 제안이 받아들여지지 않으면 우리는 원점으로 되돌아가게 될 것이다. If this suggestion isn’t accepted, we’ll be back to square one. 
 * 정답을 맞췄어요; get the square
 * [슬랭] 형용사 square는 '얌전한', '보수적인' 이라는 뜻! 명사 square는 '얌전하고 보수적인 사람' 혹은 '샌님'이라는 뜻이고요. ※ 원래대로면 "He is too square"라고 해야 하는데, is를 생략했어요. 일종의 슬랭인데, 래퍼들이 즐겨 사용하는 말투죠.
+
+## special
+* 오늘의 스페셜을 추천해; Make sure you push the special
 
 ## specifically
 * specifically ask for something은 어떤 요구를 특별히/분명히/명확히 한다는 뜻! 상황에 다라 '따로/미리 얘기해뒀다'고 번역해도 자연스러울 것 같아요. specifically tell someone something은 '~에게 ~라고 분명히 말하다/일러두다'라는 뜻!

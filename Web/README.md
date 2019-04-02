@@ -333,3 +333,145 @@ text 내의 특정 부분 스타일 등 간단한 것들은 그냥 inline 쓰시
 
 # Tern
 - 웹 단축키; 매번 configure 가서 설정해 주어야 함.
+
+# 타입
+## 기본 타입
+- 숫자
+- 모든 숫자를 64bit 부동 소수점 형태로 저장하며 정수와 실수의 구분이 없다 
+- 문자열
+- 불린값
+- undefined
+- null
+
+## 참조타입
+- 객체
+- 배열
+- 함수
+- 정규표현식
+
+# 속성값
+- 객체, 함수, 메소드 기능 포함
+
+# 따옴표
+- R: 큰 따옴표
+- 자바 스크립트: 큰 따옴표
+- 파이썬: 작은 따옴표; 
+- 제이슨: 큰 따옴표
+
+## ==
+- ⎼동등 연산자는 1 == "1" 은 두 피연산자의 타입이 다르므로 같은 타입으로 변환해서 두 값이 같다고 판단해서 document 객체의 write 메서드로 true를 출력한다.  
+- ⎼동등 연산자의 비교는 타입변환에 따른 결과를 얻을 수 있으므로 대부분의 자바 스크립트 코딩 가이드에서 동등 연산자로 비교하는 것을 추천하지 않는다. 
+
+## ===  Strict Equal Operator
+- a = 1;  b=”1”;  브라우저에서 같은값으로 인식 가능;  ==으로하면 같은값 인식
+-  10 : document.write(a === b); ⎼일치 연산자는 1 === "1" 은 두 피연산자의 타입이 다르므로 document 객체의 write 메서드로 false를 출력한다.
+- 값과 타입 둘다 비교
+
+### undefined와 null 의 비교 
+- undefined == null => true
+- undefined === null => false
+
+
+## 크롤링
+- R, 자바 스크립트, 제이슨
+
+## typeof
+- typeof는 unary 오퍼레이터이다. unary 오퍼레이터로는 ! 라던가 - 등과 같이 인자를 하나만 받을 수 있는 연산자를 뜻한다. 즉, 함수가 아니고 연산자이기 때문에 괄호를 사용하면 안된다.
+
+### null 확인법
+- 자바 스크립트는 null이라는 객체이다.
+- if(typeof yourVariable === 'object') { /* 오브젝트 처리 */}
+- 하지만 위와 같이 하게 되면 만약 yourVariable이 null이라면 결과가 true로 나타난다. 따라서 null인 경우 false의 결과를 나타내고 싶다면,
+- if(yourVariable != null && typeof yourVariable === 'object') {/*오브젝트 처리*/} 
+- if(!!yourVariable && typeof yourVariable === 'object') {/*오브젝트 처리*/}
+
+
+## instance of
+- : instanceof 는 비교 연산자로 >,<,== 와 같이 두개의 인자를 받는 연산자로 앞의 비교 연산자들을 이용하는 기분으로 사용하면 된다. 하지만 결과로 리턴하는 것은 typeof와는 성질이 조금 다르다. instanceof는 해당하는 변수가 사용하고 있는 prototype의 chain을 2번째 인자와 쭉 비교해서 true/false 값을 리턴한다.
+- 쉬운말로 하자면, 해당하는 변수의 클래스와 비교해서 리턴해주는, java에서 많이 쓰던것과 비슷하다고 볼 수 있다.
+- 자바스크립트는 instanceof 연산자가 존재한다. 이 연산자는 생성된 인스턴스 객체가 어떤 생성자 함수를 사용하여 생성되었는지 확인하고 불리언값으로 반환하여 주는 유용한 연산자이다. 이 연산자를 사용해 생성자 함수를 확인하는 과정을 예제를 통하여 알아보고자 한다.
+
+
+# 연산자
+- 쉬프트연산자는 산술연산자보다 우선순위는 나르지만 계산 속도가 더 빠르다.
+- 비트 연산자도 관계예산자보다 우선순위는 낮지만 속도가 더 빠르다.
+# 객체 표기법
+- 파이썬에서는 딕셔너리, 자바에서는 맵이라고 표현
+- 객체 표기법 - 제이슨
+- 몽고디비, 카산드라는 객체표기법 사용
+
+## 예제
+- var person = 
+- {
+- 		fname : "홍", 
+- 		lname : "길동",
+- 		age : 25
+- };
+
+
+# 배열리스트  []
+- 자바에서는 리스트, 파이썬에서는 리스트라고 함.
+
+
+# for문
+
+## for in 반복문과 for of 반복문의 차이점
+- for in 반복문 : 객체의 모든 열거 가능한 속성에 대해 반복
+- for of 반복문 : [Symbol.iterator] 속성을 가지는 컬렉션 전용; 인덱스로 접근 가능
+- for...in iterates over the enumerable properties of an object
+- for...of iterates over the property values of objects
+- basic for문과 for in은 반복변수에 index를 리턴하지만 forEach 와 for of 는 해당 값을 리턴하기 때문이죠.
+- forEach는 위와같이 callback 함수가 필요합니다. 굳이 이걸 쓸 필요 없이 같은 기능을 하기 위해 나온것이 for of이죠.
+- for ... of 문은 반복가능한 객체(Array, Map, Set, String, TypeArray, arguments 객체등)를 반복하는 문법입니다.
+
+
+
+
+
+## for in
+- for(var i = 0; i < array.length; i++){
+-       alert(array[i]);
+-    }
+
+위와 아래 같은 역할 
+
+- for(var i in array){
+-       alert(array[i]);
+-    }
+
+
+# 함수
+- 반복해서 호출해서 사용할 수가 있다.
+- 메소드는 복제 기능이 없다(= 객체를 통해서 사용하는 것이 없다)
+- 함수는 복제, 메소드는 상속을 통해 재사용성을 가진다.
+- // 변수나 함수는 동급이다. 둘 다 객체다.
+- // 변수는 정적 객체고 함수나 메소드는 동적 객체다.
+- 같은 객체이기 때문에 함수를 변수에 복제 가능(프로토 타입)
+	- 정적 객체지만 속성은 동적 객체를 가질 수 있음.
+
+
+## 변수에 함수 복제
+- 매개변수에 들어가기 위해서 변수에 복제
+- function sot() {
+	
+- document.write("함소 호출");
+- }
+
+- var minsot = sot;
+
+- minsot(); 
+
+## 정적 객체에 동적 객체 바로 할당
+- 매개변수에 들어가기 위해서 변수에 복제
+- var minsot1 = function sot() {
+	
+- document.write("함소 호출");
+- }
+
+## 정적 객체에 동적 객체 바로 할당 2
+- 매개변수에 들어가기 위해서 변수에 복제
+- var sot = function sot() {
+	
+- document.write("함소 호출");
+- }
+- sot(); // 정적 객체와 동적 객체의 래퍼런스가 다르기 때문에 같은 이름 대입 가능
