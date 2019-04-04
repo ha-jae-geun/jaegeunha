@@ -1980,6 +1980,7 @@
   * 내 개가 샌드위치에 눈독을 들이고 있어. My dog has set its eye on my sandwich.
 
 # 눈치
+* 왜 자꾸 힌트를 주는 것 같은 느낌이 들지? Why do i feel like you're hinting at something; hinted that
 * 전혀 모르고 있어요; blind as a bat
   * 내 주변에서 무슨일이 벌어지는 중인지 전혀 눈치채지 못했다. ex) I had no inkling of what was going on around me. 1) 어떤 일에 대해서 어렴풋이 아는 것을 의미합니다. 
   * 냄새를 딱 맡았죠. "I can smell it on you." 이처럼 '# 낌새를 맡다, 알아차리다'라는 뜻으로 동사 smell을 쓰기도 해요.
@@ -4703,6 +4704,9 @@ retaliate
 
 # 상관
 * 상관없어; i'm easy
+
+# 상담받다
+* get counseling; go see a doctor
 
 # 상황
 * the lay of the land = 지형, 지세 / 상황, 형세; 직역하면 땅(the land)의 배치(the lay)로 우리말의 [지형, 지세] 를 말하는데요, 비유적으로는 상황이 어떻게 돌아가는지, 즉 [사태, 형세] 를 뜻합니다. 마치 전투장인 것 마냥 호텔방의 형세를 먼저 파악하러 왔다니, 라지가 거사(?)를 앞두고 엄청 긴장하고 있네요!
@@ -9697,6 +9701,7 @@ retaliate
  * First sort the white things out from the laundry.
  * 빨래통에 있었어; he was in your hamper
 * 거의 # 토할것 같다; gag; ㄱretch; heave; 토하다: vomit puke, throw up
+  * - hurl 토하다 / 던지다  - honk 토하다 / 빵빵거리다  - spew 토하다 / 뿜어내다  - blow chunks 토하다
   * barf 외에도 vomit, throw up, puke 도 토한다는 듯이에요. vomit은 가장 의학 용어적인 느낌, throw up은 가장 일상적으로 쓰이고, puke와 barf는 구어체에 가까워요.
   * 1. 토 나올 것 같다, 구역질 난다 sick to one's stomach
   * 실제 음식 따위가 부패하여 굉장히 역겹고 토나오는 냄새가 나는 걸 의미하는 형용사인데요. 비유적으로 무언가의 퀄리티가 떨어져서 역겨울 지경일 때도 이 단어를 씁니다.

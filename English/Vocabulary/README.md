@@ -727,6 +727,7 @@ We need food and water.
 * 1. 제정신이 아니다 2. 굉장히 화나거나 속상하다 3. (에 대해) 극도로 흥분하다 과 같은 의미로 사용할 수 있어요^^ 다른 말로는 'go nuts, flip out'라고 표현할 수 있답니다.
 
 ## bone
+* 너 정말 끈질기구나. You're just a dog with a bone. 듣기
 * 뼛속까지 추워. (정말 정말 추워.) [ex] I'm chilled to the bone.
   * 그는 정말 뼛속까지 아일랜드 사람이야. (제대로된 아일랜드 사람이야.) [ex] He's Irish to the bone.
 * 여기서처럼 stinking (고약한), fucking, freaking (빌어먹을), 등의 형용사로 guts를 꾸밀 수 있고요~ 반대로, love one's guts (완전히 좋아하다)라는 표현이 있는데, 이건 너무나 좋아해서 누군가를 속까지 좋아한다는 걸 나타내죠~^^ 비슷한 해부학적인 느낌(?)의 표현으로 love/ hate someone to the bone이라는 말도 있어요. 말 그대로 '뼛속까지 사랑한다/싫어한다'는 뜻!
@@ -1128,7 +1129,7 @@ We need food and water.
 * : 남 코러스 따위는 하지 않는편이 낫겠어. I'd better not be singing back up. 여기서 'Back up' 은 메인 가수 뒤에서 보조를 맞추어 도움을 주며 노래를 부른다는 의미로 쓰였습니다.
 
 ## background
-* 뒷조사를 했어; i checked your background
+* 뒷조사를 했어; i checked your background; We do the background check
 * background 가 [배경]을 의미하는 단어이니, 그 사람의 배경, 즉 신원 확인을 하는 걸 background check 라고 합니다. 신원 확인을 요구하는 주체가 누구인지에 따라서 내용도 조금씩 달라질 수 있는데요. 보통은 범죄 경력, 신용 정보 등을 간단하게 조회하는 걸 의미해요. [범죄 경력 조회]는 criminal background check 라고 하기도 합니다.
   * = 저희는 정기적으로 현재 근무 중인 직원들의 신원 조회를 합니다. We conduct background checks on current employees on a regular basis.
 
@@ -1958,7 +1959,12 @@ We need food and water.
   * 우린 그 자선단체를 위해 약 2천달러 정도를 모금했어. ex) We have raised about $2,000 for the charity.
 
 ## chart
+* uncharted territory = 미지의 영역
+  * = 이 새로운 프로젝트는 우리를 미지의 세계로 안내할거야. This new project will take us into uncharted territory.
 * #뛰어난; ~ is #off the charts
+
+## cd
+* 예금 증서에 서명해주면; you do a CD
 
 ## charm
 * 삼 세번의 행운; Third time is a charm
@@ -2724,6 +2730,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 너 신발 끈 풀렸어. 묶는 게 어때? 넘어질지도 몰라.Your shoelace has come undone. Why don't you tie it up? It might fall.
 
 ## dog
+* 너 정말 끈질기구나. You're just a dog with a bone. 듣기
 * 그는 상사의 미움을 사고 있다 He is in the doghouse with the boss. 듣기 출처:능률교육
 
 ## doctor
@@ -4156,7 +4163,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
     * 모두들 나를 혼자 힘든 상황에 내버려 두었지. Everyone just left me high and dry. 
 
 ## hint
-* 왜 자꾸 힌트를 주는 것 같은 느낌이 들지? Why do i feel like you're hinting at something
+* 왜 자꾸 힌트를 주는 것 같은 느낌이 들지? Why do i feel like you're hinting at something; hinted that
 * 쥬스에 술을 아주 약간 넣었어. [ex] I added a hint of alcohol in the juice.
   * a hint of A = A 아주 약간
   * 1. 힌트, 암시 2. 전조, 징후 3. 약간의 기미/흔적
@@ -4477,6 +4484,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 그는 택시를 잡고 있따; HE is trying to hail down a cab
 
 ## hair
+* 걸어가는 것이 당신을 지치게 만들면 벤치에 느긋하게 쉴 수 있습니다. 걸어가는 것이 당신을 지치게 만들면 벤치에 느긋하게 쉴 수 있습니다.You can let your hair down on a bench when walking is exhausting you. 
 * (화가 난 상대방에게 하는 말로) 진정해라 keep your hair on 미국식  영국식   단어장추가
 * 반면 우리 머리(Head)에 붙어있는 머리카락에 대해 전반적으로 표현 할 때는 머리카락의 갯수가 궅이 중요하지 않죠 . 그럴때는 셀 수 없는 명사로 쓰입니다.
  I have long hair.
@@ -4600,6 +4608,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ### hang on
 * : 잠깐만요. Hang on; Hang on a second.
+
+## ikea
+* 아이키아
 
 ## indian
 * 보답을 바라고 서비스하는 사람; indian giver
@@ -7662,6 +7673,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * #sign up; sign up (for something); (강좌에) 등록하다
   * #sign in online; 2. (사무실·클럽 등에) 도착[입실]/출발[퇴실] 시 서명하다/의 이름을 기록하다
 
+
+
 ## situation
 * get a situation = 문제가 생기다 / 어떤 상황에 처하다; 예기치 못한 상황이 발생하거나, 그런 상황에 처한 경우 get a situation이라고 하는데요, 여기서 situation을 문제가 될 수 있는 특정적인 상황을 지칭한다고 보시면 됩니다.  여기서는 “너 상태가 좀 그래”라고 번역되었는데요, 이번 영상에서는 보여주고 있지 않지만, 아무튼 어떤 일이 베서니의 몸에 발생하고 있다는 의미로 you got a situation이라고 하였습니다. 
   * 우리 여기 좀 문제가 생겼어. We’ve got a situation here.
@@ -7681,6 +7694,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 느긋하게 앉아있다 #sit back; they didn't take the time to sit back
   * #sit behind; sit behind the desk; #손 떼다
   * Let it sit; 그대로 둬
+
+### sitter
+* 손쉬운 득점 기회를 놓쳤다; misses sitter
 
 ## sit in
 * 이 밥이 밥솥에 일주일 동안 있었어요; The rice has been sitting in the cooker for a week
@@ -7723,6 +7739,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## sweat
 * in a sweat = 땀을 흘리며, 땀에 젖은 채; 여기서 sweat은 더워서 흘리는 땀도 되고, 공포감으로 인한 식은땀(cold sweat), 당황해서 흘리는진땀 등을 의미합니다. 예문에서 동사를 다양하게 바꾼 문장을 살펴보겠습니다. 
   * 그들은 땀을 뻘뻘 흘리며 일하고 있었다. They were working in a real sweat. 
+
+## sway
+* sway 의 가장 흔한 뜻은 동사로 [흔들리다, 흔들다] 입니다. 보통 팔이 앞뒤로 흔들리거나 누군가의 마음을 흔들 때 쓰는 단어인데요. 그런 상태를 hold 하는 느낌의 단어이니, 사람, 장소, 특정 영역에 굉장히 강한 영향력을 행사하는 걸 의미합니다. 전치사 over 와 함께 쓰여서 어디에 영향력을 발휘하는지 나타낼 수도 있습니다.
+  * = 모르몬교는 유타 주의 많은 지역 사회에 많은 영향력을 행사하고 있습니다. Mormon church holds sway over a lot of local communities in Utah.
 
 ## swallow
 * 믿기 어려운; hard to swallow
@@ -9484,6 +9504,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 노동조합에 가입된 노동 인구 a unionized workforce 
 
 ## universal
+* 유니버설
 * [a universal language] 를 직역하면 [만국 공통어] 입니다. 하지만 예를 들어 [Music is a universal language.] 라고 말하면 그 음악이 말 그대로 언어- 라기 보다는, 음악은 어디서든 어떤 감정을 불러일으키기 때문에 쓰인 표현이라고 볼 수 있는데요.  영상에서도 직역하면 [전쟁은 어디에나 존재하는 언어이다] 이지만, 전쟁을 하는 이유가 어디서든 명백하기 때문에 [전쟁은 (똑같은 목적으로/모두가 이해가능한 목적으로) 어디서나 일어난다] 로 의역이 되었습니다.
   * = 감정은 만국 공통어야. 네가 숨기려고 해도 모두가 알 거야. Emotion is a universal language. Everyone will notice it even if you try to hide it.
 
@@ -9962,6 +9983,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 한쪽 끝이 뾰족하고 반대쪽은 넓은 V자 모양, 좀 더 정확하게는 쐐기 모양, 혹은 쐐기 자체를 wedge라고 해요. 음식에서 wedge는 쐐기 모양의 조각을 말해요. 우리가 사랑하는 웨지감자의 모양처럼요!
   * 라임 한 쪽과 함께 차려 내세요. Serve with a wedge of lime. 
 * A와 B 사이를 이간질하다 drive a wedge between A and B
+
+## wean
+* wean a baby/infant = 아기의 젖을 떼다; 아기가 어느 정도 크면 엄마 젖을 떼는 훈련을 시키죠. 동사 wean 은 젖을 떼다, 우리말 한자어로는 ‘이유(離乳)를 시키다’ 입니다. 그래서 이유식도 weaning food (혹은 solid foods) 라고 불러요.
+  * = 그녀는 13개월 때 아기의 젖을 뗐다. She weaned her baby at 13 months. [wiːn]
 
 ## wear
 * 옆집에 사는 여자는 종종 남편을 깔고 뭉갠다. The woman who lives next door often wears the pants; 아내가) 남편을 깔고 뭉개다, 내주장하다
