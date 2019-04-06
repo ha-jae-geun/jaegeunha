@@ -7,6 +7,7 @@
 # 깃
 * 주니어 개발자 취업 정보: https://github.com/jojoldu/junior-recruit-scheduler/blob/master/README.md
 	* 포트폴리오: https://gmlwjd9405.github.io/2018/05/04/how-to-write-a-resume-for-a-developer.html
+* 깃허브 서치: https://github.com/search 
 
 # 단축키
 * 텝 닫기 되돌리기: Ctrl + Shift + T
@@ -39,6 +40,7 @@
 	* 위키 미디아 https://commons.wikimedia.org/wiki/Main_Page
 
 # 계정
+* 티스토리: qofkdla naver / 
 * 티스토리; qofkdla@naver.com
 * 깃; dhkdndksk@gmail.com
 * 빗썸: 빗  jaegeun / Hj@ / 1597

@@ -894,7 +894,7 @@ We need food and water.
 
 ## bubble
 * 생각 풍선; thought bubble; 말풍선: speech bubble
-* someone's bubble 은 [잘못된 믿음/생각] 을 의미하는 단어에요. 주로 burst someone's bubble 이라는 표현을 많이 쓰는데요. [희망/잘못된 믿음/생각 등을 없애다] = [현실을 깨닫게 해주다] 의 의미를 가집니다. 영상에서는 제니퍼가 팁에 대해서 그간 잘못 생각해왔다는 것을 말하기 위해 bubble 이라는 단어를 썼어요. 또, '자기만의 세상'에서 살고 다른 사람들의 삶이 어떤지 잘 모르는 사람 보고 "They're living in a bubble." "버블 속, 방울 속에서 살고 있다"고 해요. 특히 부잣집에서 자라 세상 물정을 잘 모르는 사람을 두고 하는 말입니다.
+* someone's bubble 은 [잘못된 믿음/생각] 을 의미하는 단어에요. 주로 bust/burst someone's bubble 이라는 표현을 많이 쓰는데요. [희망/잘못된 믿음/생각 등을 없애다] = [현실을 깨닫게 해주다] 의 의미를 가집니다. 영상에서는 제니퍼가 팁에 대해서 그간 잘못 생각해왔다는 것을 말하기 위해 bubble 이라는 단어를 썼어요. 또, '자기만의 세상'에서 살고 다른 사람들의 삶이 어떤지 잘 모르는 사람 보고 "They're living in a bubble." "버블 속, 방울 속에서 살고 있다"고 해요. 특히 부잣집에서 자라 세상 물정을 잘 모르는 사람을 두고 하는 말입니다.
   * 제임스는 사라가 자기를 좋아한다고 생각해. 있는 그대로 알려줘야 해야 할지 모르겠네. ex) James thinks Sarah likes him. I don't know if I have to burst his bubble or not.
 
 ## bunch
@@ -1168,6 +1168,10 @@ We need food and water.
 ## brunt
 * : 가장 안 좋은 것을 떠맡다, 가장 큰 타격을 입다 [take the brunt of~] 영상에서 언급되는 다양한 머리스타일은 보통 사람이 하기에는 꺼려지는 것들로 묘사되고 있는데, 그 중에서도 나이가 어리기 때문에 가장 심각한 스타일의 머리를 떠맡을 수 밖에 없었다는 의미로 take the brunt of라고 하였습니다. 
   * 경제가 악화되면 저소득층이 가장 큰 타격을 받는다. When the economy gets bad, the low-income groups take the brunt of it. 
+
+## brace
+* brace 는 불쾌하거나 안 좋은 상황을 [대비하다, 대비시키다] 의 의미로 쓰여요. 영상에서는 [대비하다]의 뜻을 가지기에 목적어 없이 썼지만, [대비시키다] 의 의미를 가질 땐 목적어를 쓰거나, be braced for 의 모습으로 쓰입니다.
+  * = 다가올 일에 대비하는 게 좋을 거야. You'd better brace for what's to come.
 
 ## brain
 * [명사] 브레인 프리즈(찬 음식을 먹으면 일시적으로 머리가 짜르르 아픈 현상). brain freeze 미국식  영국식   단어장추가
@@ -9782,6 +9786,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## wrack
 * nerve-wracking 혹은 nerve-racking이라고 씁니다. nerve는 ‘신경’이고 rack은 ‘괴롭히다, 시달리게 하다’입니다. 내 신경 하나하나를 괴롭히는 듯한 느낌으로, 어떤 상황이 사람을 매우 긴장하게 하거나, 안절부절 못하게 할 때 사용합니다.
   * 운전면허시험이 내 삶에서 가장 긴장되는 경험이었어. Driving test was the most nerve-racking thing in my life.
+
+## wrench
+* throw a wrench in(to) = -을 막다, 망치다; wrench 는 일명 스패너(spanner) 라고도 하는, 볼트를 잡는 도구를 의미하는데요. 그걸 실제로 사람에게 던지거나 기계에 던져 넣거나 하면, 그 사람들이 앞으로 쉽사리 나오지 못하고, 기계는 고장 나게 되겠죠. 그런 모습에서 의도적으로 반대를 하고, 문제를 야기함으로써 일이 매끄럽게 진행되지 못하게 하는 걸 의미하는 표현입니다. wrench 대신 monkey wrench 라고 하기도 해요.
+  * = 마지막 순간에 난 결정이 작업을 정말로 망쳐놨어. That last-minute decision really threw a wrench into the work.  [rentʃ] 
 
 ## wreck
 * wrecked 는 선박 등이 '난파된' 이라는 기본적이 뜻이 있는데요. 이게 무언가가 완전히 부서지고 고장나서 움직일 수 없는 모습의 단어이기에, 사람에게 비격식 표현으로 쓰일 경우엔 [굉장히 피곤한, 만신창이인] 이라는 의미를 가집니다. 약간의 뉘앙스 차이는 있지만 exhausted 랑 비슷한 단어입니다.

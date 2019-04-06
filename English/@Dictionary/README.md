@@ -7,6 +7,8 @@
 * top the list; topped the list of something; 설문 조사 결관
 * # 2등; Our kid got the second-best grade in the class
   * number two는 말그대로 '2인자,' 혹은 여기서처럼 '이류'라는 뜻을 갖고 있습니다. number two detective
+* [2위를 하다] 라는 표현은 finish(come) in second/second place 정도로 표현을 할 수 있는데요. 비격식 표현으로 [2위 수상자] 를 runner-up 이라고 합니다. 레이스에서 결승전까지 쭉 (up) 달려왔지만 (runner) 딱 한 번 져서 우승 자리를 내준 모습에서 유래된 표현이에요. 때로는 결승에 진출하여 우승자를 제외한 입상자들을 의미하기도 하는데요. 이럴 땐 2등은 first runner up, 3등은 second runner up 이라고 하기도 합니다.
+  * = 크리스틴이 우승자였고 난 2등이었어. Christine was the winner and I was the runner-up.
 * # 대회; 과학 경진대회; if i don't win  the science fair
 * 1# 순위 혹은 1지망을 first choice라고 해요.  '가장 선호하는 옵션'이라는 넓은 뜻으로도 쓰이고요! 2순위 혹은 2지망은 second choice. 
   * 1지망 전공과 2지망 전공을 둘 다 선택하시오. [ex] Select both a first-choice major and a second-choice major.
@@ -1680,6 +1682,8 @@
  * #나오다 ##쏟아져 나오다 #솟구치다
 
 # 나이
+* # 청소년; formative 의 단어엔 [형성하다] 를 뜻하는 동사 form 이 들어가 있어요. formative 는 형용사로써 [형성에 중요한, 형성의, 발달의] 라는 의미를 갖는데요. formative years 는 말 그대로 인격/성격 등이 형성되는 시기를 의미합니다. 보통 청소년기를 의미하기에 해당 영상에서도 그렇게 해석이 되었습니다. 물론 문맥에 따라 [인격이 형성되는 시기]로 해석이 되기도 해요. 참고로 [청소년기]를 의미하는 다른 단어들은 adolescence, puberty 등이 있는데요. adolescence  [ˌædəˈlesns]  는 심리적, 생리적, 사회적 변화에 초점을 둔 단어인 반면, puberty  [-bərti]  영국식 [ˈpjuːbəti]  는 신체적인 변화에 초점을 둔 단어입니다.
+
 * # 어릴때
 * 어렸을때 누나는 싱가포르에 있는 삼촌이랑 오래 지내면서 거기서 학교를 다녔어요.
     * When we were growing up, she stayed with our uncle in Singapore for mny years and she did most of her scholling there.
@@ -7229,6 +7233,7 @@ retaliate
 * 잠수타다; go MIA
 
 # 잠시
+* 잠깐 가게에 갔따올게; i'm going to go to the store real quick
 * wait a minute은 반말 느낌 ->  we need another minute; Can i get another minute?; I think we're still looking at the menu
 * 잠시만요; Could you give me a sec? 5분만 더주세요; I just need five
   * 10분이면 도ㅚ요; With you in ten; 잠시 기다려 주시겠어요? Could you spare a minute?
