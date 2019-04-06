@@ -28,7 +28,7 @@
 
 
 ##영어
-03.30
+0406
 * 테드 https://www.ted.com/
 * 발음 https://m.blog.naver.com/telleileen/221280989989
 -------------

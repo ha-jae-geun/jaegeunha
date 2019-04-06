@@ -1369,6 +1369,7 @@ We need food and water.
 * 돈으로 표를 얻으려는 노골적인 시도 a blatant attempt to buy votes 
 
 ## bleed
+* 귀가 찢어질 것 같아요. "My ears are bleeding."
 * 여기서는 [피흘리다] 와는 관계가 없고, 액체 혹은 영향력, 정신 등이 점차 스며든다는 뜻으로 쓰였습니다. 
   * = 색들이 서로 섞이지 않게 칠한 부분을 잘 말려가면서 해야해. Keep the paint dry so that the colors don't bleed into each other.
   * = 그의 영향력은 그녀의 개인적인 삶까지 번져갔다. His influence even bled into her personal life.
@@ -1963,6 +1964,8 @@ We need food and water.
   * 우린 그 자선단체를 위해 약 2천달러 정도를 모금했어. ex) We have raised about $2,000 for the charity.
 
 ## chart
+* 그 남자 아이돌 그룹은 일주일 만에 한국 차트를 장악했어요. The boyband dominated the Korean charts in a week.
+* 그들은 5주 연속으로 1위를 했어요. "They've topped the charts  for five weeks in a row."
 * uncharted territory = 미지의 영역
   * = 이 새로운 프로젝트는 우리를 미지의 세계로 안내할거야. This new project will take us into uncharted territory.
 * #뛰어난; ~ is #off the charts
@@ -4723,6 +4726,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 	* 그 공연 내내 한 경험은 정말 장난이 아니었어. (굉장히 강렬했다, 감동적이었다 등을 의미) ex) The whole experience throughout the show was really intense.
 
 ## jerk
+* 고개를 홱 들었따; Hse jerked her head up
+* 완전 슬픈 이야기네; it's a real tear-jerker
 * ＊ get jerked around = 괴롭힘 당하다, 속다; 바보, 얼간이(jerk)처럼 남에게 이리저리 치이며 괴롭힘을 당하는 것을 말해요. 반대로 괴롭히는 것은 jerk around 가 되겠네요.
   * = 다시는 바보처럼 당하지 마. 맞서 싸우라고! Don’t let yourself get jerked around again. Fight them back!
 * 미드/영드 등을 많이 접하신 분들은 아마도 jerk 를 비속어 비슷하게 [얼간이/멍청이/또라이] 정도로 알고 계실 텐데요. 동사 jerk 는 [홱 움직이다] 라는 의미를 가집니다. 전치사 away 는 [멀어진, 떨어진] 과 함께 쓰여 영상에서는 [빠르게 벗어나다] 로 해석이 되었습니다. 이 경우엔 주어가 스스로 빠르게 벗어나는 것이기 때문에 따로 목적어가 필요 없는 자동사로 쓰이고요. 목적어와 함께 타동사로 쓰일 경우는 무언가를 잽싸게 낚아채는 걸 의미하기도 합니다.
@@ -7444,6 +7449,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * study with this book
 * study this book은 책의 재질 등등을 연구하다
 
+## stun
+* 도둑이 경비의 머리를 때려 기절시켰어. The robber stunned the guard by banging him on the head.
+
 ## stunt
 * stunt는 동사로 ‘성장/발달을 저해하다’를 뜻합니다. 영상에서는 수동형인 be permanently stunted (영원히 성장하지 못하다)라고 하였습니다.  참고로 stunt는 명사로 ‘어리석은 행동, 위험한 행동’을 의미하기도 하는데요, ‘어리석은 행동을 하다’는 pull a stunt입니다. 장난 하다(pull a prank), 속임수를 쓰다(pull a trick) 등과 같이 부정적인 행위를 한다고 할 때 동사 pull을 쓰기 때문이죠. 
   * 난민촌의 아이들은 발달 지연과 성장 부진으로 고통받는다. Children from refugee camps suffer delayed development and stunted growth.
@@ -7718,6 +7726,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * * 걔 토요일 경기에 못 나갔어. (경기엔 못 나가고 벤치에 앉아서 끝까지 지켜봤다는 뉘앙스) He had to sit out the game on Saturday. 1. ~에 안 끼고 빠지다 2. ~가 끝나길 기다리다 (그 일에 끼지 않고)
 
 ## sink
+* 죽이되든 밥이되든; SInk or swim, i will -
 * 동사 sink 는 물이나 모래 아래로 [가라앉다/빠지다] 라는 의미를 가져요. sink in 은 [스며들다] 의 뉘앙스로 어떤 사실이 몸에 완전히 스며들듯이 '실감이 날 때' 쓰는 표현입니다.
   * 그걸 이해하는 데는 시간이 좀 걸렸어. ex) It took a while for it to sink it.
 
