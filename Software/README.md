@@ -17,6 +17,7 @@
 * 구글, 유튜브
 * https://www.aol.com/
 * https://www.yahoo.com/
+* 리즈코드 https://leetcode.com/problemset/all/
 
 # 형상관리
 - 네이버, 깃허브
@@ -44,6 +45,7 @@
 * 티스토리; qofkdla@naver.com
 * 깃; dhkdndksk@gmail.com
 * 빗썸: 빗  jaegeun / Hj@ / 1597
+* https://www.1040.com: jaegeun@g / Hjg!
 	
 # 블로그
 - 반응형 웹 변환: https://adsensemaster.herokuapp.com/index.php?id=advancedMaker.html 
