@@ -1,3 +1,78 @@
+# 쓸만한 영어 - 8282 "빨리빨리 해주세요!" 영어표현
+ * - Can you put a rush on it?
+ *   (그 일을) 빨리 해줄 수 있나요?
+ * 
+ * - I have to pick up my daughter at 3.
+ *   3시에 딸 아이를 픽업해야해요.
+ * 
+ * - I have to go pick up my daughter at 3.
+ *   3시에 딸 아이를 픽업하러 가야해요.
+ * 
+ * - Would it be possible (to do sth.)
+ *   직역 : ~하는게 가능하실까요?
+ *   의미 : ~해주실 수 있을까요?
+ * 
+ * - Would it be possible to put a rush on it(,please)?
+ *   빨리 서둘러 해주실 수 있을까요?
+ * 
+ * - put on
+ *   무조건 [~을 입다]라고만 외우지 마세요.
+ * 
+ * ==========
+ * 
+ * 2018년 6월 18일 [생활속 통역]
+ * '뜨다'를 영어로
+ * 
+ * - 조용한 분위기에 신나는 음악을 놓으면?
+ *   put on
+ * 
+ * - We need to
+ *   직역 : 우린 ~할 필요가 있어.
+ *   의미 : 분위기 좀 띄우게 음악 좀 틀자.
+ * 
+ * - We need to put on some music
+ *   직역 : 음악을 좀 올려놓을 필요가 있어.
+ *   의미 : 분위기 좀 띄우게 음악 좀 틀자.
+ * 
+ * - Wen need to put on some music for a better vibe.
+ *   직역 : 더 좋은 분위기를 위해 음악을 좀 올려놓을 필요가 있어.
+ *   의미 : 분위기 좀 띄우게 음악 좀 틀자.
+ * 
+ * - We need to put on some music to make a better vibe.
+ *   직역 : 더 좋은 분위기를 위해 음악을 좀 올려놓을 필요가 있어.
+ *   의미 : 분위기 좀 띄우게 음악 좀 틀자.
+
+
+# 쓸만한 영어 - taper off - 투블럭컷 - 돈이 동나다?! #영어회화#영어공부#영어유튜브
+ *  taper off
+ *   조금씩 줄어드는 그림 → 약해지는 그림 → 언젠가 없어지는 그림
+ * 
+ *   연필을 자꾸 깎아쓰면 닳고 줄어들다가 없어지는 그림
+ *   양초를 태우면 닳아서 줄어들다가 없어지는 그림을 그려보세요.
+ *   → 머리 모양을 깎는 모습도 그와 비슷하게 보이지요?
+ * 
+ * - Can you taper off the sides?
+ *   연필을 자꾸 깎아쓰면 닳고 줄어들다가 없어지는 그림
+ *   양초를 태우면 닳아서 줄어들다가 없어지는 그림을 그려보세요.
+ *   → 머리 모양을 깎는 모습도 그와 비슷한게 보이지요?
+ * 
+ * - Can you taper off the sides and leave the top long?
+ *   양 옆을 싹 깎아주시고, 위는 길게 남겨두세요.
+ * 
+ * - 미용실에 관한 더 자세한 표현은 [쓸만한 영어 미용실편]을 참고해주세요.
+ * 
+ * - Can you taper off the sides and trim the top?
+ *   양 옆을 싹 깎아주시고, 위는 다듬어주세요.
+ * 
+ * - 당연히 돈도 자꾸 쓰면 점점 줄어들고 없어지겠죠?
+ *   taper off 되는 그림이 딱! 보이지요?
+ * 
+ * - My income tapers off.
+ *   내가 버는 돈(수입)은 점점 줄어들다가 언젠가는 없어져.(동이나)
+ * 
+ * - The money we have will taper off.
+ *   우리가 가지고 있는 돈은 언젠가 다 동이 날거야.﻿
+
 # 쓸만한 영어 - 영어식 사고 - 수영 수업에 대한 상담할때 #영어회화#영어공부#영어유튜브
  * 1. 물에 대한 공포심을 극복하기 위해 항상 수영을 배우고 싶었어요.
  * 

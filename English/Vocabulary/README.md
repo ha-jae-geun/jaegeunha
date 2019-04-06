@@ -7267,6 +7267,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 뜨거운 날씨가 싫으면 두바이로 이사하면 안 되는 건 당연하지. [ex] It stands to reason that if you don't like hot weather you shouldn't move to Dubai.
 
 ## read
+* 중요한 이슈에 대해서는 따로 읽으려고는 하는데, 요즘은 너무 안좋은 뉴스 뿐인거 같은데 보변 괜히 기분만 안좋아지더라고
+ * I try to read up on important issues but lately it just feels like there's nothing but bad news and all it does is make me feel bad.
 * read는 주어가 사람이 되어 ‘~를 읽다’라는 것 외에 사물을 주어로 하여 다양한 뜻을 가지기도 합니다. 여기서는 ‘어떤 말이나 글이 특정 의미/정보/느낌 등을 나타내다’라는 의미입니다. 영상에서도 코난의 “Yeah”라는 말이 좀 오싹한(creepy)한 느낌을 주었다고 여자가 말하고 있습니다. 
   * 온도계를 보니 섭씨 20도이다. (직역: 온도계가 섭씨 20도라고 나타낸다) The thermometer reads 20 degree Celsius.
   * 그가 윙크하면서 “알겠어, 이쁜이”라고 말했고 그 말은 진짜 느끼한 느낌이 들었어.  He winked and said “Ok, sweetie” and it read really cheesy.
