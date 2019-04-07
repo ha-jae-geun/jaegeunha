@@ -621,6 +621,8 @@ We need food and water.
   * 너무 기뻐서 어쩔 줄을 모르더라고. She was beside herself with joy.
 
 ## best
+* besty = 베프, 절친
+  * = 걔들은 오래 전에 내 절친들이었어. They were my besties back in the days.
 * : (어떤 상황을) 최대한 즐긴다, (가진 게 부족해도) 최대한 활용하다 make the best of (a situation)
 * 당신이 해안과 시골 지역을 즐긴다면 이번 걷기 여행이 당신에게는 일거양득의 기회가 될 겁니다. If you enjoy the coast and the country, you’ll get the best of both worlds on this walk; 일거양득 the best of both/all possible worlds
 
@@ -1822,6 +1824,8 @@ We need food and water.
   * 대부분의 영업직원들은 판매 수수료를 받고 일한다. Most sales people work on commission.
 
 ## commit
+* a full commitment = 완전한 헌신; 가장 간단하게는 “I’m thinking of a full commitment.” 라고 할 수 있지만, 가사와 같이 앞뒤를 바꿔줌으로써 a full commitment 를 더 강조해 주고 있습니다. 
+  * 나는 왜 한 사람만 바라볼 수 없을까? Why can’t I commit to just one person?
 * 복무가 12개월 후에 끝나요; My commitment's up in 12 months
 * : 잘못된 일을 '저지르다' 라는 뜻 외에도, '헌신하다, 전념하다' 라는 뜻이 있답니다! 그래서 committed 도 '헌신적인, 모든 열정을 쏟는, 전념하는' 이라는 뜻이 되죠. 비슷하게 commitment 도 '헌신, 전념' 이라는 뜻!
   * 그 사람은 헌신적인 기독교인이야. He's a committed Christian.
@@ -1870,6 +1874,8 @@ We need food and water.
   * "너 제임스가 구여친 로즈랑 다시 사귄다는 거 들었어?" "걔들 맨날 그래." ex) "Did you hear that James's back with his ex Rose?" "That old chestnut."
 
 ## cheap
+* * cheap shot = 치사한 짓, 비열한 짓
+  * = 완전 치사한 짓이었어! That was a really cheap shot!
 * 치사하게 굴지 마; Don't be so cheap
 
 ## cheat
@@ -5658,6 +5664,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * mourn = (누군가의 죽음으로) 애도하다. mourning = 애도, 상복 in mourning = 상복을 입은, 상 중인, 애도중인
 	* 그의 가족은 아버지의 죽음으로 상 중이야. ex) His family is in mourning for their father.  [mɔːrn]  <> [ˈmɔːrnɪŋ]
 
+## numb
+* 마취 크림을 바르다; put numbing cream on your eyebrow
+
 ## number
 * = -에게 해를 끼치다, 가혹하게 대하다; 2) 그래서 1번 쇼를 하는 걸 do number one, 2번 쇼는 do number two 이런 식으로 말을 했을 텐데요. 
   * = 난 그의 부모가 그를 정말 가혹하게 대한 걸 믿을 수가 없어.  I can't believe his own parents did a real number on him.
@@ -6841,6 +6850,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 많은 보험 회사들이 힘든 시기를 보내고 있다. Many insurance companies are having a rough ride.
 
 ## rip
+* rip on 사람 = ~를 심하게 욕하다, 놀리다, 모욕하다; 1) 동사 rip의 기본적인 뜻은 무언가를 거칠게 [찢다, 떼어내다]의 뜻을 가지고 있습니다. 전치사 on 과 함께 쓰여 rip on 은 마치 누군가에 올라타서 마음을 갈기갈기 찢어내듯 심하게 욕하고 놀리는 것을 의미해요. 2) rip off이라는 표현도 함께 알아두시면 좋은데요. 부사 off 자체에 한 번 더 '끄다, 떼어내다'의 의미가 있기에 누군가를 [뜯어내다, 바가지를 씌우다]의 의미를 가집니다.
+  * = 옛날엔 애들이 내 빨간 머리를 심하게 놀리곤 했었어. Kids used to rip on me for my red hair back in the day.
 * let it rip = 거침없이 막 하다; 그래서 let it rip as a kid 도 아이들이 신나서 발광하듯 뛰노는 상태를 말합니다.
   * = 와, 발차기 봤어? 그냥 막 질러대네. Wow, did you see that kick? He really let it rip. 
 * ＊ rip into = 맹비난하다 문자 그대로는 [갈기갈기 찢다] 인데요, 비유적으로는 누군가를 혹은 어떤 일을 [매우 공격적으로 헐뜯는 것] 을 의미합니다. 

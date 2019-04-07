@@ -1,4 +1,5 @@
 # 기타
+* 로터리; traffic circle; 영국: roundabout
 * - 이 랩 좋다! A : This plastic wrap is amazing!; Plastic wrap, Food wrap
 * 워커; Combat boots (O); 워커가 군인들의 신발이므로 전투화, 군화 라는 명칭
 * 다이어리; weekly planner; Personal organizer
