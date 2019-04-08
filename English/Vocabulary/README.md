@@ -630,6 +630,10 @@ We need food and water.
 * : 원래 뜻은 '니 엉덩일 걸어도 될 정도로 정말/진짜/확실히/당연히 ~야!' 에 가까운데요. 뉘앙스를 담아 우리말 슬랭으로 옮기면 "당근 빠따로 ~지!" 정도예요. "당연하지!"라는 말을 좀 더 유쾌하게, 강하게 하고 싶을 때 써보세요! 
   * 어쨌거나 두 개 다 샀냐고? 당근 빠따지! Did I get them both anyway? You bet your ass I did!
 
+## belief
+* 믿는 행위 자체를 가리킬 때는 –s 를 붙이지 않지만, ‘종교적/정치적/철학적 믿음’처럼 여러가지 이데올로기나 믿음의 종류로 결합된 경우에는 주로 복수로 표현해요. 
+  * = 나는 안락사는 비도덕적이라고 믿어. It is my belief that euthanasia is immoral.
+
 ## bell
 * hear a bell ring = 떠오르다, 들어본 적이 있다; 2) 영상에서처럼 주어가 사람일 경우엔 hear a bell ring 이라고 쓰겠지만, 예를 들어 사람의 이름이거나 어떤 내용, 어디선가 들어본 무언가가 주어로 올 경우엔 그것이 듣는 사람의 머리에서 벨을 울리게 하는 것이기 때문에 ring a bell 이라고 쓰시면 됩니다.
   * = 목록에서 그 이름을 보자마자, 본 적이 있는 것 같았다. Right after I saw the name on the list, I could hear a bell ring.
@@ -1545,10 +1549,16 @@ We need food and water.
   * = 네 이야기가 수업 중에 교훈을 주는 이야기로 쓰일 수 있을 것 같아. I think your story could serve as a cautionary tale in class. [-neri]  영국식 [ˈkɔːʃənəri] 
 
 ## cause
+* cause and effect relation/relationship = 인과관계; 혹은 cause 의 형용사인 causal 자체에 ‘인과관계의’라는 뜻이 있기 때문에 causal relationship 이라고도 합니다.
+  * = 이 두 개 사이에 인과관계가 있는지는 몰랐어. I didn’t know if there was a causal relationship between these two.
 * 2. cause: 여기서는 '원인, 이유, 근거'가 아닌 '목적, 대의'를 의미합니다.
   * 우린 더 큰 대의를 위해서 협력해야 한다. [ex] We have to cooperate for a larger cause.
 * 여기서 a cause를 ‘대의명분’이라고 하였는데, 조금 더 풀어서 설명하자면 자신이 열정을 가지고 지키는 원칙, 목표, 활동 등을 의미합니다. 보통 사회적으로 이로운 것이라고 생각되는 것들입니다.
   * 나는 유명인사들의 그들의 지위를 이용해서 대의명분을 지지하는 건 좋다고 생각해.  I think it’s good for celebrities to use their status to support good causes.
+
+## casual
+* cause and effect relation/relationship = 인과관계; 혹은 cause 의 형용사인 causal 자체에 ‘인과관계의’라는 뜻이 있기 때문에 causal relationship 이라고도 합니다.
+  * = 이 두 개 사이에 인과관계가 있는지는 몰랐어. I didn’t know if there was a causal relationship between these two.
 
 ## cash
 * : 무언가를 이용해 돈을 벌거나 이득을 취하다 * cash in (on + 무언가) (다른 사람의 명성, 연예인의 불행 등을 이용해 돈을 번다는 뜻으로 많이 쓰입니다)
@@ -1673,6 +1683,7 @@ We need food and water.
   * 밖에선 꼭 개에 목줄 채우고 다녀. ex) Make sure to collar(leash) your dog when outside.
 
 ## collect
+* 마이크는 마음을 가라앉혔다. Mike collected himself. 
 * 그거 수년째 구석에서 먼지만 쌓이고 있어. It's been sitting there collecting dust for years.
 
 ## collaborate
@@ -7334,6 +7345,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * red tape : (불필요하게) 형식적인 절차
   * 지원금이 형식적인 절차에 묶여있어. ex) The grant is now tied up with red tape.
 
+## shrimp
+* 새우가 종류가 많은데 손바닥만 한 왕새우는 prawn이라고 하고, 보통 우리가 학교 다닐 때 배우던 shrimp는 손톱보다 조금 더 큰 새우를 의미합니다. 여기에 y를 붙여서 형용사처럼 쓰이며 직역하면 '새우만큼 작은'이지만, 우리말에 조금 더 맞는 해석은 [콩만 한, 염소똥만 한, 개미 코딱지만 한] 정도가 되겠습니다.
+  * = 내가 개미 코딱지만큼 작다는 걸 부인하진 않지만, 내 꿈은 커. I won't deny I'm shrimpy, but my dream is big.
+
 ## shrink
 * (구어) 수줍어하는[내성적인] 사람 shrínking víolet  
 
@@ -8920,6 +8935,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## thank
 * ~에게 개인적인 감사의 말을 전하고 싶네요. I'd like to say a few personal thank-yous to ~ 마지막에 감사의 말을 덧붙일 때 요 표현 아주 유용하겠죠? 여기서 'thank-you'는 셀 수 있는 명사라 '-s'가 붙었어요!
 
+## thus
+* 사실 so far 가 실생활에선 더 흔하게 쓰이는 표현이긴 하지만, thus far 도 의미적으로 같은 표현이에요. 좀 더 격식체이기 때문에 회의나 세미나 등에서 쓰면 좋으니 함께 알아두세요!
+  * = 지금까지 손님 몇 명이 오셨나요? How many guests have shown up thus far?
+
 ## thug
 * [명사] (비속어) 어려움에 굴복하지 않고 성공을 지향하는 삶((흑인 힙합 문화에서 나온 말)) 어려운 환경에 굴하지 않고 성공하려 노력하는 그의 삶을 존경한다. I respect his thug life. 
 
@@ -9565,6 +9584,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## vanilla
 * 1. vanilla는 '바닐라 아이스크림, 바닐라 라떼'처럼 맛을 의미하기도 하지만 '평범한, 흔하고 별 특색 없는'이라는 뜻도 가지고 있어요.  2. 앞서 아이스크림에 대해 이야기 하고 있었기 때문에 vanilla라는 표현을 사용한 것은 딱 말장난을 노린 거겠죠~ pun은 동음이의어, 다의어, 소리가 비슷한 말 등을 이용해서 하는 말장난을 가리켜요. vanilla는 '바닐라'와, '평범한'라는 여러 뜻이 한 단어에 있는 다의어죠.
+
+## video
+* video ho: 뮤직비디오에서 야한 옷을 입고 있는 여자 (ho=whore 매춘부)
 
 ## violet
 * (구어) 수줍어하는[내성적인] 사람 shrínking víolet  
