@@ -933,7 +933,20 @@ get방식: 1. <%@ page import="java.net.URLEncoder" %>
 - 작업을 완료한 후 다음 페이지로 이동할 때 흔히 sendRedirect 메서드를 사용하는데 sendRedirect 메서드는 두 번의 request 객체를 통해 하나의 작업을 완료하는 방식이다.
 - sendRedirect(url) 메서드는 첫번째 요청이 서버에서 처리된 다음 서버는 이동할 다음 페이지의 경로를 클라이언트에 응답하면 클라이언트의 브라우저는 서버에게 새로운 페이지를 다시 요청하여 이동하는 방식이다.
 - sendRedirect(url) 메서드를 이용할 경우에는 String 클래스 타입 밖에 전달 할 수 없으므로 세션을 이용하여 다른 타입을 전달한다.
+
+### 리다에릭트, 포워드
+- 포스트 방식 -> sendredirect 안됨
  
+
+## sendRedirect 메서드와 forward 메서드의 차이점
+- sendRedirect 메서드는 URL 을 웹 브라우저로 보내서 간접적으로 웹 자원을 호출하지만 forward 메서드는 웹서버 쪽에서 직접 호출한다.
+- sendRedirect 메서드를 이용하면 다른 웹 서버에 있는 웹 자원도 호출할 수 있지만 forward 메서드를 이용하면 같은 웹서버나 같은 웹 어플리케이션 디렉토리 내에 있는 웹 자원만 호출할 수 있다.
+- sendRedirect 메서드를 이용하면 텍스트(문자열) 데이터만 전달할 수 있지만 forward 메서드를 이용하면 객체 형태의 모든 데이터를 전달 할 수 있다.
+- sendRedirect 메서드를 통해 한글 데이터를 전달하기 위해서는 URL 인코딩을 해야 하지만 forward 메서드에서는 그런 작업이 필요치 않다.
+
+## get 방식
+- RequestDispatcher dispatcher = request.getRequestDispatcher("./assign/view2.jsp?name=" + name + "&addr=" +addr + "&tel=" + tel + "&hobby=" + hobby);
+
  
 - 첫번째 사례(redirect)
 1. 고객이 고객센터로 상담원에게 123번으로 전화를 건다.
@@ -1056,3 +1069,90 @@ get방식: 1. <%@ page import="java.net.URLEncoder" %>
 ## 형식
 -   <servlet-name>so</servlet-name>; 이름부터 설정 필요;
 -   <servlet-class>a.b.c.Test</servlet-class>; 클래스 이름은 서블릿 이름과 매치
+
+
+## 서블릿의 의미
+- 자바의 클래스 중 오직 서버(http; TCP/IP 프로토콜) 에서만 실행될 수 있는 클래스
+
+# was
+- server.xml -> web.xml
+
+
+## web.xml
+- 자바 -- web.xml -- 웹, 모바일
+- web.xml을 어노테이션으로 구현(코드의 불필요 부분을 줄임)
+- 존슨이 Spring을 이용하여 EJB를 사용하지 않고 구성.
+1. 파일의 성격을 구성
+2. 오류 페이지 구성
+3. http 프로토콜의 영향 설정
+4. 리스너 -> TCP/IP
+5. 공통된 인코딩 설정 가능
+- web.xml 파일은 <web-app> 태그로 시작하고 종료하는 문서로서 web.xml 파일에서는 정의된 Web Application 으로 구성된 임의의 디렉토리는 다음과 같은 것들이 존재한다.
+1.  JSP 와 HTML 파일 그리고 이미지 파일과 같은 정형 데이터 파일 등 클라이언트에서 수행되는 파일
+2. DD(Deployment Desciptor) 파일
+3. 환경 파일
+4. Servlet 과 같은 서버 상에서 수행되는 클래스 파일
+
+
+## 설정파일
+- 자바 -> JDK 필요
+- 웹, 모바일 -> 서블릿(추상클래스; 자바와 웹을 연동)
+- xml: 매핑, 상속
+
+## 실행
+- Servlet이 control 역할을 하면 jsp를 바로 실행 못하고 Servlet을 실행시켜야 한다.
+
+## ajax
+- put, delete는 ajax와 같이 사용
+
+## HttpServlet
+
+## jsp의 서블릿
+- 톰켓 서버의 web.xml 보면 서블릿 이름이 jsp가 있어 동작하게 하는 기본 서블릿이 있다.
+
+
+## 클래스
+- 각 클래스 마다 1개의 서블릿 필요; 입력 서블릿, 수정 서블릿, 삭제 서블릿, 검색 서블릿
+
+## 서블릿 설정
+* xml에서 등록 안해놓으면 자바 코드에서 @servlet 찾음
+-   <!-- 1. aliases 설정 -->
+-     <servlet>
+-         <servlet-name>welcome</servlet-name>
+-         <servlet-class>servlets.WelcomeServlet</servlet-class>
+-     </servlet>
+
+-     <!-- 2. 매핑 -->
+-     <servlet-mapping>
+-         <servlet-name>welcome</servlet-name>
+-         <url-pattern>/welcome</url-pattern>
+-     </servlet-mapping>
+
+### url-pattern
+- *.me 는 모든 걸 동작시킴
+- /클래스 이름; 충돌 방지 위해 클래스와 이름을 매칭함.
+
+### aliases 설정
+- 서블릿 이름을 실제 서블릿 클래스에 연결
+- <servlet-name>welcome</servlet-name>과 아래 매핑 설정에서의 servlet-name은 반드시 같아야 한다.
+- <servlet-class>servlets.WelcomeServlet</servlet-class>은 개발자에 의해 작성된 실제 클래스 이름으로 설정해야 한다.
+- Ex. (패키지 이름).(서블릿 클래스 이름)
+- 매핑
+- URL을 서블릿 이름에 연결
+- <url-pattern>/welcome</url-pattern>은 클라이언트(browser)의 요청 URL에서 앱(프로젝트) 이름 뒤에 오는 부분으로, 슬래시(‘/’)로 시작해야 한다.
+
+## 경로
+- navigator에서 build와 webContent를 같은 위치로 보고 classes와 WEB-INF와 META-INF가 같은 위치라고 본다. classes 안의 패키지는 경로로 보지 않는다.
+
+# http
+## ://
+- http 프로토콜을 하위 디렉토리에 영향을 주겠다.
+
+
+## ASP, PHP, JSP, 서블릿
+- ASP는 IIS라는 웹서버에서 동작하는 언어이며 비베스크립트라고 불리운다.
+- PHP는 APACHE 혹은  PHP용 웹서버가 있는 웹서버에서 동작하는 언어. 가볍다 빠르다.
+IIS에서도 돌릴 수 있다.
+- JSP는 자바에서 나온 웹언어. 자바용 서버인  TOMCAT이나 RESIN, JSERV에서 돌릴수 있다.
+- *APACHE : 공개용 웹서버, 작고 빠르기때문에 중소형 웹서버에 많이 쓰인다. APCHE는 보통 리눅스                  에 많이 설치한다. 무료인데다가 안정성 또한 우수하기 때문이지~
+- 스프링 프레임워크가 서블릿 사용: 서블릿

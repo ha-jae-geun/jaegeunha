@@ -324,6 +324,10 @@ We need food and water.
 * : amend라고 쓰면 보통 개선, 교정, 법을 개정, 수정한다는 동사로 사용합니다. amends라고 사용하면 (단수, 복수 동사와 함께 모두 사용 가능한) 명사로 손실, 손상에 대한 '보상'이라는 의미를 갖습니다. make amends는 '보상하다'는 뜻으로 물질적, 정신적 보상 모두 가능하기에, 만회하다, 사과하다는 의미로도 해석할 수 있어요. - make amends for (doing) something: ~을/ ~에 대한 보상하다 - make amends to somebody: ~에게 보상하다
   * 네가 상처를 준 사람들에게 사과를 해야 한다. [ex] You must make amends to the people you've hurt.
 
+## alone
+* let alone = 말할 것도 없고, 물론이고, 고사하고
+  * = 애슐리는 자전거도 못타는데, 자동차 운전은 말할 것도 없지. Ashely can't ride a bicycle, let alone drive a car.
+
 ## along
 ** 가는 길에 맥주 한캔 사갈게; i'll grab some beer along the way
 
@@ -720,6 +724,7 @@ We need food and water.
 * Don't bother. = 헛수고 마. 동사 bother 에는 [괜히 헛수고를 하다] 라는 뜻이 있습니다. 가능하지도 않을 일에 노력하면서 자기 자신을 괜히 괴롭힌다(bother)는 거죠.  이 외에도 Don’t bother 는 “괜찮아, 염려하지마”란 뜻도 있습니다. 여기서는 내 스스로 할 수 있으니 괜히 날 위해 수고를 하지 않아도 된다는 뜻이겠네요.
 
 ## bottle
+* 병 돌리기 게임; spin the bottle
 * 여기서 병을 터뜨린다 (pop bottles) 는 건 샴페인을 따는 것을 말해요. 파티에서 비싼 술을 보란듯 마셔대는 것이 연상되기도 하는 표현이에요.
     * 걔들 밤새도록 술마셨어. They were poppin bottles all night.
 * 감정을 드러내지 않고) 억누르다[묻어 두다] 감정을 꼭꼭 묻어 두지 않도록 해라. Try not to bottle up your emotions. 
@@ -7011,6 +7016,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 경기 중에 골을 넣을 때 마다 급격한 흥분을 느껴.ex) I always experience a strong rush whenever I score a goal during a match.
 
 ## rule
+* = 그 새로운 게임은 진짜 끝내 줘! That new game rules!
 * 이 문장의 rule은 명사 rule(규칙)이 아니고 비격식 표현 to rule입니다. 무언가 혹은 누가 rule한다는 것은 '가  최고다, 짱이다'라는 뜻입니다!
   * 제퍼슨 고등학교가 짱이다! (high school을 high 로 줄여 말하기도 함. 단, 앞에 학교 이름이 나올 때에만  가능) Jefferson High rules!
 
@@ -7595,6 +7601,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 수술 준비 지금 바로 좀 해주세요. ex) Please scrub in right now.
 
 ## screen
+* i select -- from the screen
 * screener는 screen에서 나온 단어로 screen의 다양한 뜻 중에 '무엇을 가려내거나 확인한다'는 의미로 사용되었습니다. 공항에서 기계로 신체나 짐을 살펴보는 것도 screen이고 그런 기계를 screener라고 하죠. screener는 이렇게 '가려내는 것, 검진하는 테스트, 기계 등'을 가리키는 단어예요~ screen은 어떤 질병이 있는 지 검진한다는 뜻으로도 많이 쓰이죠. 무엇이 있는지 없는지 검사를 받는다면 'screen for'라는 형식을 사용합니다. 여기서처럼 말이에요!
   * 의사는 암이 있나 확인하려고 환자를 검진했다. The doctor screened the patient for cancer.
 

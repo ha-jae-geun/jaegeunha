@@ -7,6 +7,39 @@
 - 자바에서 서버로 다시 보낼 때 http request를 XMLHttpRequest로 바꿔줘야 하는데 이 때 MIME 확장자로 변경해주어야 한다. 변경해 주지 않으면 XMLHTTPREQUEST값이 null 값이 나옴
 
 
+# was
+- server.xml -> web.xml
+
+
+## web.xml
+- jsp -> 서블릿(xml) -> 자바 -> DB -> 자바 -> 서블릿(xml) -> jsp 
+- 자바 -- web.xml -- 웹, 모바일
+- web.xml을 어노테이션으로 구현(코드의 불필요 부분을 줄임)
+- 존슨이 Spring을 이용하여 EJB를 사용하지 않고 구성.
+1. 파일의 성격을 구성
+2. 오류 페이지 구성
+3. http 프로토콜의 영향 설정
+4. 리스너 -> TCP/IP
+5. 공통된 인코딩 설정 가능
+- web.xml 파일은 Web Application 의 환경 파일로 작성 규칙은 XML Schema로 정의되어 있다.
+- web.xml 파일은 <web-app> 태그로 시작하고 종료하는 문서로서 web.xml 파일에서는 정의된 Web Application 으로 구성된 임의의 디렉토리는 다음과 같은 것들이 존재한다.
+1.  JSP 와 HTML 파일 그리고 이미지 파일과 같은 정형 데이터 파일 등 클라이언트에서 수행되는 파일
+2. DD(Deployment Desciptor) 파일
+3. 환경 파일
+4. Servlet 과 같은 서버 상에서 수행되는 클래스 파일
+
+
+## 설정파일
+- 자바 -> JDK 필요
+- 웹, 모바일 -> 서블릿(추상클래스; 자바와 웹을 연동)
+- xml: 매핑, 상속
+
+### web.xml
+- 자바 -- web.xml -- 웹, 모바일
+- web.xml을 어노테이션으로 구현(코드의 불필요 부분을 줄임)
+- 존슨이 Spring을 이용하여 EJB를 사용하지 않고 구성.
+
+
 # 서버 페이지
 - form -> 서버 페이지(자바는 서블릿; jsp) -> 데이터베이스
 - 1. sun에서 개발한 서블릿: JSP 2. 개발자가 개발한 서블릿

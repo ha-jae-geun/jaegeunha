@@ -2,6 +2,7 @@
 
 * 나쁜 날씨: #inclement weather
 * 제철이다; not in seasonn = out of season
+* 날씨가 좋다; It's so gorgeous out; The weather is so fine
 
 # 비 
 * 소나기를 만나다; i was caught in a shower on the way here
