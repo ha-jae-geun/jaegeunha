@@ -40,6 +40,8 @@
 	* 엡마스터 https://webmastertool.naver.com/
 	* 애드핏 https://adfit.biz.daum.net/
 	* 위키 미디아 https://commons.wikimedia.org/wiki/Main_Page
+* 컬러 스크립트: https://colorscripter.com/ 
+* 오라클 라이브러리: https://mvnrepository.com/
 
 # 계정
 * 티스토리: qofkdla naver / 
@@ -47,6 +49,7 @@
 * 깃; dhkdndksk@gmail.com
 * 빗썸: 빗  jaegeun / Hj@ / 1597
 * https://www.1040.com: jaegeun@g / Hjg!
+* ipin: jaegeunha / H1q! / Hjg1q
 	
 # 블로그
 - 반응형 웹 변환: https://adsensemaster.herokuapp.com/index.php?id=advancedMaker.html 
