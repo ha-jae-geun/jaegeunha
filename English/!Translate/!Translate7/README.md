@@ -1,3 +1,58 @@
+# I like + to 부정사 // I like + 동명사 ing
+ *  like 동명사 형식은 "내가 그걸 좋아해서 그렇게 한다"는 의미와 "그렇게 할 수 있는 기회가 왔을 때 그것을 즐겨한다"는 의미를 내포하지만
+ * I like to 부정사 형식은 "내가 그걸 좋아해서 그렇게 한다" + "그래서 의도적으로 그렇게 하곤 한다."의 의미를 내포합니다.
+ * i like getting up early in the morning; 행동의 순간, 경험 자체를 강조
+ * i like to get up early in the morning; 행동의 결과, 효과에 대한 얘기를 강조
+ * 실수하면 지우개로 쉽게 교정할 수 있어서; i can easily make corrections with an eraser
+* 쓸 때 나는 소리가 좋아서; i like the sound that it makes when i write
+
+# [ 현재 가정법 ] → 과거시제의 정확한 활용의 중요성
+1. "날씨가 항상 오늘 같았으면 진짜 좋겠다!"
+	* It would be really great if the weather was always like today
+2. "날씨가 항상 오늘만 같았으면 소원이 없겠다!"
+	* If only the weather was like today all the time
+	* There would be nothing more that i would like than to have wewather like this everyday
+3. "날씨가 항상 오늘만 같으면 얼마나 좋을까?
+	* How great would it be if we could have weather like this all the time
+			* if the weather was like today all the time
+			* if the weather was as good as today every day
+
+# 영어 연습가이드 #047 | 진작 -했어야 하는데
+ * "방금(얼마전에) 공기청정기를 새로 샀어.   I just bought a new air-purifier.
+ * 한번도 사용해 본 적이 없어.   I've never used one before. 
+ 	* one; 영어에서는 앞에서 말한 것을 다시 말하지 않게 대명사 사용
+ * 내꺼를 한번도 소유해 본 적이 없어.  And i've never owned before.
+ * 아마 진작에 하나 샀어야 하지만 그래도 이제라도 산게 어디야, 그렇지?  I probably should've gotten one a long time ago but better late than never, right?
+ 	* 기다리다: wait for something/someone
+ * 아무튼, 아직 도착하지는 않았고 배달되기를 기다리고 있어.   It hasn't arrived yet. I'm still waiting for it to be delivered
+ * 웹사이트에 따르면 앞으로 2, 3일 내로 도착할 예정이야." Acording to the website, it should be arriving in the next couple of days.﻿
+
+
+# [ #009 ] 일상을 영어로 말하기 - 살게 많다 / 30만원어치를 샀다
+ * "오늘 장을 보러 갔었어요.   Today,,, I went Grocery shopping
+ * 너무 오랜만이어서 살게 엄청 많았어요.  
+ 		* It was long overdue  so i had so~many things to buy.
+ * 거의 30만원어치의 장을 본 것 같아요.  시간도 오래 걸렸어요.   
+ 		* I think I bought almost 300 thousand won worth of groceries.  It took a lot of time too.
+ * 보통은 1시간도 안걸리는데 거의 2시간 걸렸어요."
+ 		* Normally/ Usually it takes less than an hour, but  took nearly 2hrs. this time.﻿
+ * 장을 보러 가다 : go grocery shopping
+* (특정 시기에 해야 할 일 하지 않아 늦어진 상황에서)너무 오랜만이다 : be long overdue
+* 살 것이 많다 : have many things to buy (have a lot of things to buy)
+* (영어로 숫자 말하기) 30만 : three-hundred thousand(삼백천)
+* [금액]어치의 + [무엇] : [금액] worth of [무엇]
+ex) 30만원어치의 사과 : 300 thousand won worth of apples
+* 1시간도 안걸린다 : it takes less than an hour.
+
+# [ #008 ] 일상을 영어로 말하기 - 집 바로 근처에 셀프빨래방이 새로 생겼어요!
+ * 거기는 사람들이 엄청 친절해; The people there are really kind.
+* 근무 환경이 별로 좋지 않아; The working conditions here are not very good.
+* 거기는 서비스가 아주 좋았어; The service there was great.﻿
+ * "집 바로 근처에 셀프빨래방이 생겼어요. A new laundromat opend right by my place
+ * 완전 편리해요. 걸어갈 수 있는 거리이고 신용카드로 결제를 할 수 있어서 현금을 챙겨갈 필요가 없어요."
+ 		* It's so convenient. It's within walking distance and you can pay with your credit card so yoou don't have to worry about having cash with you
+ 		* have something with you; 무엇을 소지하다; 챙기다
+
 # 복잡한 인물 묘사 + 멋진(신기한) 것을 본 소감 표현 + "너가 그걸 봤어야 했는데!" [ 영어회화 ]
 * 지난주에 나는 커피숍에 있언쓴데, 구석에 혼자 조용히 앉아서 완전 편하게 그냥 즐기고 있는 어떤 남자가 있었어
  *  Last week, i was at a coffee shop and there was this man quietly sitting in the corner by himself, perfectly relaxed and just having a really great time.

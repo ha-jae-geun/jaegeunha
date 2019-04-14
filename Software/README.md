@@ -24,6 +24,7 @@
 
 
 # 북마크
+* 논문: dbpia / 국회도서관
 * 네이버 영어사전 https://endic.naver.com/?sLn=kr
 * 구글 드라이브 https://drive.google.com/drive/u/0/my-drive
 * 슈퍼맨 PC https://superfan.link/pc

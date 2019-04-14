@@ -95,6 +95,7 @@
 
 
 # 가정법
+* were보다도 was를 점점 자주 사용하는 추세
 * # 일찍 알았떠라면; If i had know an English teacher like you earlier
 * 결혼이 뭔지 알았떠라면 결혼을 하지 않았을텐데; If i had known what it would be like to be married, i wouldn't have gotten married at all
 * # 어땠을까? 좀더 일찍 알았다면 어땠을까 생각하게 돼; If i had known you ealier, what would have happend to us i ask 
@@ -1984,6 +1985,7 @@
   * 내 개가 샌드위치에 눈독을 들이고 있어. My dog has set its eye on my sandwich.
 
 # 눈치
+* 눈치가 없어; you have no tact
 * 왜 자꾸 힌트를 주는 것 같은 느낌이 들지? Why do i feel like you're hinting at something; hinted that
 * 전혀 모르고 있어요; blind as a bat
   * 내 주변에서 무슨일이 벌어지는 중인지 전혀 눈치채지 못했다. ex) I had no inkling of what was going on around me. 1) 어떤 일에 대해서 어렴풋이 아는 것을 의미합니다. 
@@ -5037,6 +5039,10 @@ retaliate
  * burn through 는 무언가를 빠른 속도로 다 써버릴 때 쓰는 표현이에요. 가사에서도 '시간이 가는 줄도 모른 채 수다 떠는 데 시간을 다 써버렸다' 는 뜻으로 시간이 매우 빨리 지나갔다라는 것을 강조하기 위해 쓰였네요! 
   * 그 회사는 투자자들로부터 얻은 돈을 빠르게 소비하고 있다. The company is burning through the money they got from the investors.
 
+# 소원
+2. "날씨가 항상 오늘만 같았으면 소원이 없겠다!"
+  * If only the weather was like today all the time
+
 # 소용
 * 하지만 예술은 실용적인 용도가 없습니다. But art serves no practical purpose.  serves no purpose : 소용이 없다/쓸데없다
 * 소용없는 짓을 하다; beat a dead horse
@@ -6261,6 +6267,7 @@ retaliate
 * 칫솔로 원을 그리듯 이를 닦으세요; Brush your teeth in a circular motion
 
 # 원어민
+ * 아마 진작에 하나 샀어야 하지만 그래도 이제라도 산게 어디야, 그렇지?  I probably should've gotten one a long time ago but better late than never, right?; probably should've 
 * 뭐 그런거; i washed the dishes and whatnot
 * 급하거나 그런거 아니에요; i'm not in a hurry or anything
 * 저희는 정말 좋은 수영장이 있는 호텔에서 묵었어요;

@@ -49,6 +49,8 @@
 * #고인 #the late(#late) ~
 	* 삼가 고인의 명복을 빕니ㅏㄷ; I'm sorry for you loss; RIP
 	* #the deceased
+	* 상심이 크시겠어요; i'm sorry for your loss
+    * my deepest/sinceretst/heartfelt condolences
 * #유골함; #항아리; #urn;
 * #영구차; #hearse
 * #화장핟; #cremate

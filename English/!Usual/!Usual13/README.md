@@ -1,3 +1,69 @@
+# 쓸만한 영어 - 별일 아냐,물타기 - 실생활 영어표현
+ *  He wants me to downplay what happened.
+ *   직역 : 그는 일어난 것을 내가 대수롭지 않게 여기길 원한다.
+ *    의미 : 그는 그걸 별로 중요하지 않게 여겨서 나보고 그냥 넘어가라고해.
+ * 
+ * - The mayor is trying to downplay the crisis.
+ *   시장은 그 위기를 대수롭지 않게 그냥 넘기려고 한다.
+ *   
+ * - Athlets often downplay their injuries.
+ *   운동선수들은 자주 부상을 대수롭지 않게 넘긴다.
+ * 
+ * - water down
+ *   
+ * - 예시상황
+ *   농도가 진한 술, 커피 등에 물타기를 하는 그림
+ *   (사람들이 어떤 사실을 더 잘 받아들일 수 있도록) 그 사실을 그대로 드러내기보다 순화시키는 그림
+ * 
+ * - The report was watered down by the committee.
+ *   그 기사는 위원회에 의해 물타기가 되었다.
+ * 
+ * - 한 단어를 익힌 후에 주어나 동사의 시제를 바꾸어 연습해보세요.
+ * 
+ * - He wanted me to downplay what happened.
+ *   그는 그렇게 된 일을 내가 그냥 대충 넘겼으면 했어.
+
+# 쓸만한 영어 - 생활속 통역 - 한번에 하나씩 해!! 영어표현/영어회화
+ *    < 한꺼번에 여러가지를 (동시에) 하려고 하지마.
+ * 
+ * - Try to focus on one thing at a time.
+ *   한 번에 하나씩 해. < 한 차례에 하나씩 집중해서 해.
+ *  
+ * - -하기 보다는
+ *   행간에 숨어있던 의미
+ * 
+ * - than doing several things at once.
+ *   여러가지를 한 번에 하려고 하지 말고
+ *   < 한꺼번에 여러가지를 (동시에) 하려고 하기보다는
+ * 
+ * - 한 차례에 한 개씩 하는 것에 집중해
+ *   Try to focus on one thing at a time
+ *   than doing several things at once.
+ *   여러가지를 한꺼번에 하는 것보다는
+
+
+# 쓸만한 영어 - 금방 나갈게요 - 지금 바로 내려갈게요. [ 영어표현 ]
+ * - I'll be right out!
+ *   내가 바로 나갈게요!
+ * 
+ *   I will be right out!
+ *    내가 바로 나갈게요!
+ *    문장이 틀린 것은 아니지만 이상하게 들립니다.
+ *  *     내가 반드시!(배달온 거 받으러) 나가고야 말거야!
+ *  *     '배달받는'이 문맥에서 저런 뉘앙스로 말하면 정말 이상하겠죠?
+ *  *     생활 속에서 자연스럽게 '-할게(요)'는 줄여서 말합니다.
+ *       I'll be right out.
+ *      나갈게(요).
+ * 
+ * - I'll be right down.
+ *   곧 내려갈게(요)~
+ * 
+ * - I will 을 줄여 I'll 로 발음할 때
+ *   비행기 복도/통로자리(좌석)? aisle : 가운데 [s]가 묵음
+ *   I'll 
+ *   aisle을 떠올리며 발음해보세요.
+
+
 # 쓸만한 영어 - 8282 "빨리빨리 해주세요!" 영어표현
  * - Can you put a rush on it?
  *   (그 일을) 빨리 해줄 수 있나요?

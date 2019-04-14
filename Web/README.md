@@ -1154,5 +1154,41 @@ get방식: 1. <%@ page import="java.net.URLEncoder" %>
 - PHP는 APACHE 혹은  PHP용 웹서버가 있는 웹서버에서 동작하는 언어. 가볍다 빠르다.
 IIS에서도 돌릴 수 있다.
 - JSP는 자바에서 나온 웹언어. 자바용 서버인  TOMCAT이나 RESIN, JSERV에서 돌릴수 있다.
-- *APACHE : 공개용 웹서버, 작고 빠르기때문에 중소형 웹서버에 많이 쓰인다. APCHE는 보통 리눅스                  에 많이 설치한다. 무료인데다가 안정성 또한 우수하기 때문이지~
+- APACHE : 공개용 웹서버, 작고 빠르기때문에 중소형 웹서버에 많이 쓰인다. APCHE는 보통 리눅스                  에 많이 설치한다. 무료인데다가 안정성 또한 우수하기 때문이지~
 - 스프링 프레임워크가 서블릿 사용: 서블릿
+
+# 커넥터 풀
+## tomcat-dbcp
+-  톰켓을 사용하지 않을수도 있으니 잘 사용 안함.
+
+## response.setContentType("text/html;charset=UTF-8");
+
+
+
+# 액션 태그; 커스텀 테그
+- 서블릿 통합
+
+## 종류
+
+- forward, include 액션 사용 안함, useBean만 액션 사용
+
+## useBean
+-  <jsp:useBean id="com" class="a.b.c.dto.Command" scope="page" ></jsp:useBean>
+- scope=”page”는 이 파일에서만 사용하겠다.
+- <jsp:setProperty property="name" name="com" value="길동홍"/>
+
+
+- 이걸 사용하면 new 선언할 필요 없이 id가 instance 뒤가 클래스
+- Command com = new Command(); 와 동일
+
+## EL
+
+### 널 연산자
+- a. 사용법 : empty
+- b. 내용 : 값이 null 일 경우 true를 반환한다.
+
+## JSP 커스텀 태그; 개발자가 만든 액션 태그; 
+- 표준 액션 태그의 기능을 내장하고 있다.
+
+## taglib 다운 
+- 1.2버전: http://tomcat.apache.org/taglibs/standard/; impl, el, spec, compat 4개 다운

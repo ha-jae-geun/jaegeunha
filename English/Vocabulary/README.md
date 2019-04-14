@@ -429,6 +429,7 @@ We need food and water.
 * attention to detail = 세밀함, 꼼꼼함
   * 저는 굉장히 꼼꼼합니다. 저는 굉장히 꼼꼼합니다.
 * 잠깐 집중해줘; I need your attention
+    * 집중하고 계씬거 맞나요? Do i have your full attention?
 
 ### attentive
 * 주의를 기울이는; attentive audience; be attentive to N
@@ -547,6 +548,10 @@ We need food and water.
     * 물어서 나쁠 건 없어; Never hurts to ask
 * ask around 는 원하는 정보, 도움을 얻기 위해서 사람들에게 이리저리 물어보고 다니는 것을 말해요!
   * 물어보고 다니면서 아는 사람 있는지 확인해볼게. [ex] I'll ask around and see if anyone knows.
+
+## accept
+* accept in his honor = 영광스럽게 (대신) 수상하다; ‘대리 수상’은 accept on behalf of 라고도 하지만, 앞에 상황 설명을 했기 때문에 accept 라고만 했네요. 어차피 다른 사람이 수상하는 걸 다 아니까요. 
+    * = 스미스씨의 아내가 그를 대신해 상을 받았다. Mrs. Smith accepted the award on behalf of him.
 
 ## according
 * according to statistics/the plan / my research
@@ -723,6 +728,9 @@ We need food and water.
 ## bother
 * Don't bother. = 헛수고 마. 동사 bother 에는 [괜히 헛수고를 하다] 라는 뜻이 있습니다. 가능하지도 않을 일에 노력하면서 자기 자신을 괜히 괴롭힌다(bother)는 거죠.  이 외에도 Don’t bother 는 “괜찮아, 염려하지마”란 뜻도 있습니다. 여기서는 내 스스로 할 수 있으니 괜히 날 위해 수고를 하지 않아도 된다는 뜻이겠네요.
 
+## bottom
+* 공공 지출 비용으로 무한정 쏟아 부을 수 있는 돈은 없다. There isn’t a bottomless pit of money for public spending. 
+
 ## bottle
 * 병 돌리기 게임; spin the bottle
 * 여기서 병을 터뜨린다 (pop bottles) 는 건 샴페인을 따는 것을 말해요. 파티에서 비싼 술을 보란듯 마셔대는 것이 연상되기도 하는 표현이에요.
@@ -856,6 +864,7 @@ We need food and water.
   * 내가 온유를 편애하는 걸 인정하지. I admit that I'm biased towards Onew.
 
 ## big
+* 중요한 날; What a big day
 * big fat = 명백한, 노골적인, 심각한
   * = 테일러는 새빨간 거짓말쟁이야. Taylor is a big fat liar. 
 * 잘나가다 go big
@@ -1118,6 +1127,12 @@ We need food and water.
  *    난 늘 차를 차고에 거꾸로 넣는다.
 * 물러서; Move back;  Stay back 아예 현재 앉은 자리에서 움직이지 말고 앞으로 나오지 말라;  Go back: 다시 돌아가
   * Get back: 원래 있던 자리로 돌아가   Fall back: 후퇴해
+
+## back in
+* “고등학생 때”를 영어로 어떻게 말할까요? 아마 When I was in high school / When I was a high school student 라고 하는 분들이 많을 겁니다. 물론 문법도 의미도 정확합니다. 전혀 틀리지 않았어요. 하지만 딱딱하게 느껴질 수도 있고 늘 이 패턴만 사용하면 지루하겠죠? 실제로 원어민들은 과거를 묘사할 때 Back in … 을 참 자주 씁니다. 주의점은 back in 다음에 ‘신분’이 아니라 ‘시절’을 넣어야 한다는 점이에요. 
+    * - back in middle school 중학교 시절에 (O)  - back in a middle school student (X)
+    - back in university 대학 시절에 (O)
+    - back in a university student (X)
 
 ### back and forth
 * back and forth : 앞뒤로, 왔다갔다
@@ -1668,6 +1683,8 @@ We need food and water.
   6. 발목잡다; The past will find a way to catch up to us
 
 ## cold
+* out cold는 정신을 잃고 마치 죽은 사람처럼 차갑게 누워있는 모습을 그대로 묘사한 표현입니다. [의식을 잃고, 기절한, 깊이 잠든] 등의 다양한 의미로 쓰일 수 있습니다.
+    * = 누군가가 술집 앞에서 정말 기절해 있어. Someone's out cold in front of the bar.
 * 냉정한데요; Not that's cold
 * knock out cold = 때려서 기절시키다; out cold 에는 ‘완전히 실신한(completely unconscious)’ 이란 뜻이 있습니다. 여기에 knock(때리다)가 붙은 것이죠. 
   * = 그는 2라운드에서 완전 의식을 잃고 나가 떨어졌다. He was knocked out cold in the second round.
@@ -1714,6 +1731,9 @@ We need food and water.
 * 여권 앞표지에 넣어두세요; into the front cover of your passport
 * = 저는 8시간 교대 근무를 해요. I work on eight-hour shift.
   * = 내일 나 대신 근무해 줄 수 있어? Can you cover my shift tomorrow?
+
+## correct
+ * 실수하면 지우개로 쉽게 교정할 수 있어서; i can easily make corrections with an eraser
 
 ## corner
 * 전 당신편이에요; i'm in your corner
@@ -2018,6 +2038,10 @@ We need food and water.
 * What's cooking? 의 의미 세가지!
   * -> 무슨 일이 일어나고 있는 거지? -> 무슨 일인데? -> 상황을 좀 알려줘
 
+## compel
+* feel compelled to = 필요 의식을 갖다; 어떤 일을 해야겠다는 마음을 강하게 느낀다는 뜻이에요. 그것이 옳은 일이기 때문에 자신이 꼭 해야한다고 생각하는 거죠. 신생기업에서 일한다는 것은 여타 직장보다 불안정한 요소들이 있을 수 있죠. 그럼에도 위워크와 같은 신생 기업에서 일하려는 건 그 일에 대한 진정한 소명 의식을 갖고 있기 때문에 가능할겁니다. 
+    * = 그녀는 자리를 비켜줘야 한다는 느낌이 들었다. She felt compelled to leave.
+
 ## compare
 * 공통점 주로: compare to;  주로 차이점: compared with
 
@@ -2231,6 +2255,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 이 악물고 버텨. 넌 할 수 있어. Clench your teeth. You can do it.
 
 ## clear
+* 머리를 비우다; clear one's head
 * [동사] 아무개의 결백을 증명하다, 오명을 씻다. clear one's name 미국식  영국식   단어장추가
 * 다 해치웠다(먹었따;); cleared it!
 * 1) clear the ground = 땅을 닿지 않고 날라가다; 문맥에 따라 ‘땅을 정리하다’가 될 수도 있지만 이 문장에서 clear 는 [닿지 않고 넘어가다] 라는 의미로 쓰였어요. 즉 fly 대신 표현한 말이죠. 
@@ -2288,6 +2313,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 7학년에 웃긴 애, 켄 기억나니? Remember Ken, the class clown in the 7th grade?
 
 ## close
+* 딱 맞춰 오시네요; You're cutting it close
 * 근접 사진; a close-up picture
 * 상자를 닫아; close up the box
 
@@ -2502,6 +2528,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 나는 그에게 프랑스로 가지 말라고 얘기했지만, 그는 기필코 가려고 한다. (dead set on~ : 하기로 단단히 마음 먹다) I've been trying to talk him out of moving to France, but he's dead set on going.
 * dead 는 '죽은' 을 의미하는 것 외에도 '명백한, 확실한' 의 의미를 가지기도 해요. 그럴 땐 명사 앞에서만 쓰이는데요. a dead silence (절대적인 침묵), a dead stop (완전한 멈춤) 등에서 볼 수 있습니다. giveaway 는 말 그대로 내어주는 것이니, 함께 쓰이면 [확실히 내어주는 명백한 증거]를 의미하며, 보통 의도치 않게 내주는 증거를 나타내는 경우가 많습니다.
   * = 네 폰의 통화 내역이 바로 네가 잭이랑 데이트한다는 결정적 증거지. The call history on your phone is a dead giveaway that you are dating Jack.
+
+### deadline
+* 동사 make 는 무언가를 [해내다] 라는 뉘앙스로도 참 많이 쓰이는데요. 여기서도 deadline 을 지키는 행위를 해내는 것의 의미로 쓰였습니다. make 대신에 meet, keep 정도로 쓸 수도 있어요.
+    * = 미안해요, 사장님. 이번엔 마감일을 지키지 못할 것 같아요. 하루 이틀 더 필요합니다. I'm sorry, boss. I guess I can't make the deadline this time. I need a couple of days more.
 
 ## deal
 * deal 은 '거래'라는 뜻도 있지만, 상점에서 무언가를 팔 때, 특히 광고를 할 때, 특정 상품에 대해서 a good deal이라고 하면 무언가를 좋은 가격에 판매한다는 뜻입니다. 영상에서는 [조건]이라고 해석이 되었는데요. 가격을 깎아줄 수 없을 땐 구성품을 몇 개 더 챙겨 준다든지 할 때 쓰는 단어이기에 [조건]이라고 해석이 되었습니다.
@@ -2978,6 +3008,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * - compelling evidence: 유력한 증거  - falsified evidence: 거짓된 증거  - tamper with evidence: 증거를 조작하다
 
 
+## eventful
+* eventful = 다사다난한, 여러 사건이 많은; happen a lot of interesting things 대신, 형용사 eventful 을 쓰면 같은 의미를 더 간단하게 전달할 수 있어요.
+    * = 우리 여행중에 정말 별의별 일이 있었어. We had quite an eventful journey.
+
 ## even
 * 본전을 찾다; We just need to earn a little more to break even
 * : (차이가 적게) 균일하게 만들다, 무엇을 똑같이 나누다 even something out
@@ -3073,6 +3107,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
  * I have free time (a xxx)
  * #free ticket을                 'day pass/ticket’
 
+## fade
+* 격식 있는 모자들은 약간 유행에서 벗어나기 시작했따; have faded out of fashion
+
 ## fabric
 * 원래 fabric 은 '직물, 천'을 의미하는 단어로 보통 의류 관련해서 많이 쓰입니다. 직물이란 게 실이 촘촘하게 짜여 만들어진 좀 더 큰 천이라는 점에서, 여러 가지가 모여 만든 [사회, 문화, 조직 등의 구조]를 의미하기도 하는 격식 단어입니다.
   * = 이것은 우리나라의 다문화적 구성을 잘 보여줍니다. This represents the multicultural fabric of our nation.
@@ -3164,6 +3201,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 로즈가 완전히 이성을 잃을 것처럼 보여. [ex] Rose looks like she's going to come apart at the seams. 2. 사람: '심하게 흥분해서 일상적 과업을 수행할 수 없는 상태가 되다'
 
 ## fail
+* 아버지가 악화될동안; while my dad was failing
 * fail someone 은 누군가를 '낙제시키다' 라는 뜻도 있지만, '실망시키다, 기대나 신뢰에 부응하지 못하다' 라는 뜻도 있답니다. 여기서는 지팡이가 기대한 것처럼 잘 듣질 않는다는 뜻으로 썼죠!
   * 난 우리 가족을 실망시켰어. I have failed my family.
 
@@ -3382,6 +3420,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 나한테는 그렇게 말 안 했는데. 말을 그렇게 바꾸다니 어이가 없다! ex) That's not what he told me. I can't believe he would flip the script like that!
 * flip someone off : 빡치게하다. 가운데 손가락을 들어 욕하다; 영상에서 제니퍼 로렌스는 flip 과 flick 이 헷갈려서 flick 이라고 했지만 사실 flip 이 맞는 표현입니다. 설명이 불편하시다면 죄송해요! 하지만 이게 가장 정확한 표현이라서요 ㅎ [누군가에게 뻐큐를 날리다] 가 가장 정확한 flip off 의 의미입니다. 당연히 속어겠지요~
   * 난 여동생이랑 얘기 중이었는데, 갑자기 걔가 나한테 뻐큐를 날리더라고. ex) I was talking to my sister, and she suddenly flipped me off.
+
+## flop
+* mega-hits / mega-flops = 대박 / 쪽박
+    * = 공연은 대히트를 쳤다. The show was a smash hit.
 
 ## flower
 * flower power = 사랑과 평화의 가치 
@@ -4254,6 +4296,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * (특히 연설 중에 맞장구치는 말로) 옳소! 옳소! hear! hear! 미국식  영국식   단어장추가
 
 ## heart
+* the heart of the issue = 사안의 핵심
+    * = 받아들이기 어렵겠지만 그게 사안의 핵심이야. This is the heart of the issue although it's hard to accept that.
 * in a heartbeat = 순식간에, 즉시, 바로; 생각할 필요도 없이 무언가를 굉장히 빨리한다는 의미의 비격식 표현입니다. 심장 박동이 뛰는데 걸리는 시간이 매우 짧다는 모습에서 파생된 표현이에요.
   * = 또 다른 기회가 주어진다면 당장 다시 하겠어요. I'd do it again in a heartbeat if another opportunity were given.
 * 그의 사과는 마음에서 우러나오는 것 같지 않았어. His apology didn't seem heartfelt. heartfelt는 '진심 어린, 마음에서 우러나오는' 걸 나타내며 그러한 말이나 행동을 묘사하는 데 사용하죠. 
@@ -5040,6 +5084,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * lock something down : 확실히하다 lock 이 무언가를 '걸어잠그다' 라는 뜻이 있어요. 따라서 무언가를 변화되지 않고, 되돌릴 수 없도록 [확실히 하는 것] 을 의미하는 단어입니다.
   * 마음 좀 그만 바꿔! 그 결정으로 확실히 하자고. ex) Stop changing your mind! Let's lock the decision down.
 
+## loss
+* 상심이 크시겠어요; i'm sorry for your loss
+    * my deepest/sinceretst/heartfelt condolences
+
 ## lose
 * "Lose something" 은 아주 구어적인 표현으로, '~를 없애라' 라는 뜻! 주로 패션과 관련해서 자주 쓴답니다.
   * 모자는 벗어봐. B : Lose the hat.
@@ -5209,6 +5257,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 어디서 많이 들어본 얘기 같지 않아요?  그래서 결국 여기 저기에 조금씩 발만 담그는 식이 되버리는거예요. 
   * Sound familiar? So we end up dabbling in a little bit of this and a little bit of that
 
+## ligament
+* 발목 인대 두개가 끊어졌습니다; had torn two ligaments in her ankle
+
 ## light
 * 2) light on feet = 발걸음이 가벼운, 날렵한
   * = 그녀는 매우 민첩하고 발이 빠르다. She’s very agile and light on her feet.
@@ -5256,7 +5307,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 이 청바지는 사용감이 좀 있어요. These jeans are a bit lived-in.
   * 새것이 아니라 누가 오랜 시간 사용한 흔적, 세월의 흔적이 느껴지는 걸 lived-in이라고 해요. 옷이나 장소와 함께 자주 쓰이는 표현이에요.
 
-## like 
+## like
+*  like 동명사 형식은 "내가 그걸 좋아해서 그렇게 한다"는 의미와 "그렇게 할 수 있는 기회가 왔을 때 그것을 즐겨한다"는 의미를 내포하지만
+ * I like to 부정사 형식은 "내가 그걸 좋아해서 그렇게 한다" + "그래서 의도적으로 그렇게 하곤 한다."의 의미를 내포합니다.
+ * i like getting up early in the morning; 행동의 순간, 경험 자체를 강조
+ * i like to get up early in the morning; 행동의 결과, 효과에 대한 얘기를 강조 
 * 비슷한 느낌의, 거의 같은 느낌 <> as
 * i like you; 나와 비슷해서 좋아하다
 * look like
@@ -7516,7 +7571,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## smoke
 * 담배를 피우기 시작하다; take up smoking;  간접흡연: passive smoking
-
+* blow smoke (in face/eyes) = 허풍떨다, 과장하다; blow smoke 는 상황에 따라 뜻이 약간씩 다를 수 있는데요, 중요한 건 의미나 진정성이 없는 얘기를 늘여놓는다는 겁니다. 
+    * = 날 속일 생각은 하지도 마. 너의 꿍꿍이가 뭔지 알고 있으니까. Don’t try to blow smoke in my eyes. I know what you’re up to.
 
 ## smell
 * 냄새를 딱 맡았죠. "I can smell it on you." 이처럼 '낌새를 맡다, 알아차리다'라는 뜻으로 동사 smell을 쓰기도 해요.
@@ -7525,6 +7581,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## smith
 * Smith 라는 이름이 있습니다. 이 단어는 철과 관련된 일을 하는 사람을 지칭하는 단어인 smitan 에서 유래되었으며, [때리다/치다] 의 의미를 가지는 smite/strike 와도 관련이 있어요. 그래서 철을 쳐야 하는 직업을 가진 사람들 뒤에 보통 smith 가 붙는데요. 아래와 같습니다.
     * goldsmith : 금 세공사  silversmith : 은 세공사  keysmith : 열쇠장이  bladesmith : 칼 대장장이  locksmith : 자물쇠 판매상
+
+## smash
+* mega-hits / mega-flops = 대박 / 쪽박
+    * = 공연은 대히트를 쳤다. The show was a smash hit.
 
 ## smart
 * ##book smart 책 따위로 얻은 지식은 많지만 눈치, 상식 등의 실생활, 경험적인 지식이 부족한 사람
@@ -8337,6 +8397,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 일반 표는 항상 얼마에요; the standard tickets are always
 
 ## stamp
+* stamp out = 근절하다, 밟아 없애다; stamp 는 위에서 아래로 꾹 누르는 동작을 말해요. 그래서 ‘도장’도 stamp 라고 합니다. stamp out 은 아래로 눌러서(stamp) 없애버리는(out)걸 말하는데, 발로 밟아서 불을 끄거나, 비유적으로 근절/퇴치라는 뜻으로 쓰입니다.
+    * = 그는 담뱃불을 발로 끄고 차로 향했다. He stamped out the cigarette and headed to his car.
 * 1) stamp 가 [도장/낙인] 이라는 뜻이 있어요. 그러니 무언가 많이 진행되는 상황에서 나쁜 것들만 '넌 나쁜거야!' 라는 낙인을 찍어서 (stamp) 내보내는 (out) 것을 의미합니다. stamp out : 금지하다, 근절하다. 없애다.
   * 연구자들은 이 새로운 약의 종류를 가지고 암을 없애기를 희망합니다. ex) The researchers hope to stamp cancer out with this new type of medicine.
 
@@ -8447,6 +8509,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## shower
 * 친구 많이 사주자; Let's shower her with gifts
+* shower players with perks = 선수들에게 혜택을 쏟아붓다
+    * = 엘리는 샴페인을 마구 흔들어 우리에게 뿌려댔다. Elli shook the bottle violently and showered us with champagne.
 
 ## shoot
 * 저 영화 촬영지가 어디지? Where did they shoot that drama?
@@ -8655,6 +8719,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * side door는 샛문, 쪽문을 의미하며 간접적인 접근법을 비유하는 표현입니다.
   * 그런 문제들을 접근할 때 사용하는 방법이에요. [ex] This is a side door to approach such matters.
 * 나 걔네한테 (그분들한테) 찍힌 것 같아. [출처] 영어주유소가 알려드리는 오늘의 영어표현 - get on bad side 찍히다, 미움받다 get on good side 이쁨받다, 점수를 따다|작성자 영어주유소 I think I'm on their bad side.
+
+### sidepiece
+* 심심풀이 땅콩; i'm a sidepiece
 
 ### sidebar
 * 부차적인 문제; sidebar; 항상 드는 무성누 생각이에요; scary sidebar
@@ -8982,6 +9049,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 	* 저 남자가 크게 빵 뜰 거라던데. I heard that guy's the next thing.
 * : (OO에 대해) 좀 잘 알다 [ 숙어 ] know a thing or two (about OO) a thing or two는 정말로 한 ,두 개를 의미한다기보다는 '어느 정도', 강조의 '좀'을 뜻한다고 볼 수 있어요^^
 	* 제가 와인에 대해 좀 일가견이 있죠. I know a thing or two about wine. 
+
+## troll
+* Internet/online troll = 악플러, 악성 온라인 괴물
+    * = 그 악명 높은 악플러는 십대 소년으로 밝혀졌다. The infamous Internet troll turned out to be a teenage boy.
 
 ## trivia
 * [명사] 하찮은[사소한] 것들[정보] trivia 미국·영국 [ˈtrɪviə]  영국식   단어장추가
@@ -9420,6 +9491,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * business trip
 * 허리에 있떤 통증이 목까지 올라갔어요; THe pain in my lower back travels up to my neck
 
+## teeth
+* have teeth = 힘을 갖고 있다, 효과적이다; 주로 법률이나 조직체가 매우 강력하고 효과적이어서 사람들이 따르지 않으면 안되는 것을 말해요. 그 강력한 힘을 ‘이빨(teeth)’에 비유한 거죠.l 영상에서 게으르다는 건 정확한 설명 없이 모호한 단어로 대체하는 걸 말하는데요, 대신 뒤에 듣는 사람이 수긍할 수 있는 강력하고 효과적인 무언가를 덧붙이라고 조언하네요. 
+    * = 새로 재정된 금연법은 강제력이 없습니다. The new anti-smoking bill has no teeth.
+
 ## test
 * run a test = 테스트검사하다; 병원에서 검사를 한다고 할 때는 동사 run 을 써요. 주어는 의사와 같이 검사를 실시하는 사람이 옵니다.; - 의사 / run a test / on 환자
   * = 맨날 검사만 받았어. They ran tests on me every day.
@@ -9650,6 +9725,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 
 ## wait
+* 아마 진작에 하나 샀어야 하지만 그래도 이제라도 산게 어디야, 그렇지?  I probably should've gotten one a long time ago but better late than never, right?
+  * 기다리다: wait for something/someone
 * 2. wait on somebody: (특히 음식점, 카페에서) 시중을 들다, 서빙하다
   * 잠시만 기다려 주세요. 저희 직원 한 명이 곧 서빙해 드리겠습니다. [ex] Wait a moment please; one of our clerks will wait on you soon.
 
@@ -9827,6 +9904,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
       * = 걔네 공연은 뭐 별거 없던데. Their performance was nothing to write home about.
 
 ### write off
+* 원래 이 표현은 부채를 탕감한다는 의미에요. 서류에 “능력이 없으니까 빚을 없던 걸로 해주겠음”이라고 써서(write) 채무자 명단에서 뺀다(off)는 거죠. 
+    * = 너무 그렇게 제레미를 얕보지 마. 너가 생각하는 것보다 더 똑똑해. Don't write off Jeremy so fast. He's smarter than you think.
 * a. ~을 가치없는 것으로 보다. 폄하하다. b. (부채를) 탕감해주다. 영상에서는 a 의 의미로 쓰였습니다. 중간에 하이픈을 넣어서 (write-off) [무가치한 것/사람] 이라는 뜻으로도 사용됩니다.
   * 그의 놀라운 재능에도 불구하고, 사람들은 종종 그의 나이 때문에 그를 폄하해. ex) Despite his outstanding talent, people often write him off because of his age.
 
@@ -10042,6 +10121,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 한쪽 끝이 뾰족하고 반대쪽은 넓은 V자 모양, 좀 더 정확하게는 쐐기 모양, 혹은 쐐기 자체를 wedge라고 해요. 음식에서 wedge는 쐐기 모양의 조각을 말해요. 우리가 사랑하는 웨지감자의 모양처럼요!
   * 라임 한 쪽과 함께 차려 내세요. Serve with a wedge of lime. 
 * A와 B 사이를 이간질하다 drive a wedge between A and B
+
+## weather
+* the weather; the 사용 혹은 it으로 표현
+  * 오늘 날씨: the weather today
 
 ## wean
 * wean a baby/infant = 아기의 젖을 떼다; 아기가 어느 정도 크면 엄마 젖을 떼는 훈련을 시키죠. 동사 wean 은 젖을 떼다, 우리말 한자어로는 ‘이유(離乳)를 시키다’ 입니다. 그래서 이유식도 weaning food (혹은 solid foods) 라고 불러요.
