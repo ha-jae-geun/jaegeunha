@@ -3401,6 +3401,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## flunk
   * flunk a test; 시험 망하다, flunk a subject; 과목 망치다, flunk out of school: 퇴학당하다
 
+## flight
+* 야간 비행 편에선 거의 잠을 못 자요. I can hardly sleep  on a red-eye flight.
+
 ## flinch
 * 나 눈하나 깜짝 안했어; i didn't even flinch
 
@@ -5214,6 +5217,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그의 사진이 페이지로부터 튀어나왔다. [내 시선을 끓었다] ex) His photo leaped off the page.
 
 ## leash
+* (반려견)을 줄에 매어 산책하다 walk a dog on a leash
+* (반려견)을 줄에 매어두다  keep (a dog) on a leash
 * leash 라는 단어는 개 등을 묶어 놓는 단단한 가죽끈을 의미해요. 반의어인 unleash 는 목줄에 묶인 동물을 풀어주는 걸 의미하기도 하지만, 꾹 눌러둔 감정이나 반응을 묶어둔 줄을 풀어주는 듯한 모습의 단어인데요. 강력한 반응, 감정, 활동 등을 갑자기 시작하고 표출하는 것을 의미합니다.
   * = 그의 진술은 전례 없는 분노를 불러일으켰다. The unprecedented fury was unleashed by his statement.
 

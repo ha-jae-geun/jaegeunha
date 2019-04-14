@@ -1,4 +1,9 @@
 # 기타
+* 전봇대를 고치고 있따; fixing a utility pole
+* - 그러면 나 킥보드 가질 수 있어요? So can I get the scooter?
+* - 인터폰에 있는 버튼을  두번이나 눌렀어.  I pressed the button on the intercom twice.
+	* intercom 혹은 Door phone, Video door phone 
+* 드라이버; Flathead screwdiver 일자 드라이버; Phillips screwdriver 십자 드라이버
 * 로터리; traffic circle; 영국: roundabout
 * - 이 랩 좋다! A : This plastic wrap is amazing!; Plastic wrap, Food wrap
 * 워커; Combat boots (O); 워커가 군인들의 신발이므로 전투화, 군화 라는 명칭

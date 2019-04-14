@@ -53,8 +53,14 @@
 * javac -version: 으로 확인; 명령 프롬프트를 재실행 해주어야 함.
 * java -version: 자바 안의 프로그램 구조
 
+# jdbc
+## 외부에 있는 오라클 라이브러리로 JDBC 사용하기(가장 안정된 User Library)
+1. C:\oraclexe\app\oracle\product\11.2.0\server\jdbc\lib 복사
+- ojdbc6_g: 개발자 용;  서버에는 ojdbc6만 사용
+2. windows-preference - java - build path - user libraries - new(이름 무작위) - add external jars - ojdbc 추가 - JDBC 프로젝트 마우스 우측해서 build configure - add libray - 추가한 lib 추가
+- 패키지 임포트 -> JDBC 드라이버 Load -> Connection 객체 생성 -> Statement 객체 생성 -> query 수행 -> Result 객체로부터 데이터 추출 -> Resultset Close -> Statement 객체 Close -> Connection 객체 Close
 
-# OJDBC
+## OJDBC
 - 오라클 11은 OJCBC6, 오라클 12는 OJDBC7이 적합
 
 
