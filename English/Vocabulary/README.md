@@ -4314,6 +4314,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
  * 굽이 높은 편안한 신발                  wedge heel
  * cool one's heel; 오래 #기다리다; somebody cooled his heels
 
+## honor
+* 재판장님; YOur honor
+
 ## horse
 *  ▶ 오만하게 행동하다 = be on the high horse   ▶ 거만하게 굴지 마 = get off your high horse
 
@@ -4504,6 +4507,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 이것저것 수리를 잘 하고 만들기도 잘하는 손재주 좋은 사람을 뜻해요. 진짜 '수리공'을 뜻하는 말로 쓰기도 하고요. 4. handyman
 
 ## hand
+* 그녀는 스파이와 관련되어 있다. She goes hand in hand with that spy. 
 * 우리들은 손이 모자란다. We work shorthanded. 미국식  영국식   단어장추가
 * 승리의 패; winning hand; He held the winning hand in the card game
 * 헌옷 She got all the hand-me-downs
@@ -4751,6 +4755,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## identify
  * “너는 성을 사람들이 너를 부르는 것과 동일시 한다.” “You identify gender with that people call you.”; identify sth with sth = –와 –를 동일시 하다, 관련이 있다고 보다
  * 그가 바로 그 살인자임이 밝혀졌다.  He was identified as the murderer. 그 사람이 누군지를 as 다음의 명사라고 본다는 것으로 여기에 oneself 를 넣으면 ‘스스로를 ~라고 생각하다, ~라고 여기다’라고 해석됩니다. 
+
+## itch
+* have/get an itch = (무언가를) 하고 싶어 죽겠다
+  * = 그녀는 그 가방을 보자마자 너무나 사고 싶어 했다. She got an itch to buy the bag right after seeing it.
 
 ## itself
 * 그 이상의 설명이 필요 없죠; It speaks for itself
@@ -10053,6 +10061,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그는 대중의 엄청난 지지를 얻었습니다. [ex] He has won huge public support.
 
 ## window
+* 이적시간; transfer window; mid-season window
 * 우리는많은 겉치례 일을 한다  We do a lot of window dressing. 듣기
 * #기회의 창; have a small #window
   * 우승 가능성; the championship window

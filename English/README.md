@@ -28,12 +28,13 @@
 
 
 ##영어
-0414
+
 * 테드 https://www.ted.com/
 * 발음 https://m.blog.naver.com/telleileen/221280989989
 -------------
 
-# 월
+
+# 월; 0415
 * 라이블리 https://m.blog.naver.com/PostList.nhn?blogId=liyu_thirtytwo&currentPage=1
 *   MLB http://post.naver.com/my/series/detail.nhn?seriesNo=46475&memberNo=449115
 *   김형제 http://m.post.naver.com/my.nhn?memberNo=11764317
@@ -50,7 +51,7 @@
 * 올인원 https://m.blog.naver.com/PostList.nhn?blogId=allinoneedutech
 * 돌핀 https://m.blog.naver.com/PostList.nhn?blogId=frost9001
 
-# 화
+# 화 0414
 * The Red https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 잭팟; https://m.blog.naver.com/PostList.nhn?blogId=jackpot22
 * 나는나; https://m.blog.naver.com/PostList.nhn?blogId=iamanna12
@@ -68,7 +69,7 @@
 * 채원과영어 https://m.blog.naver.com/PostList.nhn?blogId=learnwithchaewon
 
 
-# 수
+# 수 0414
 * 종로 정철어 학원 https://m.blog.naver.com/PostList.nhn?blogId=victors87
 * you can do English https://m.blog.naver.com/PostList.nhn?blogId=doeng-official
 *  영어 주유소 http://blog.naver.com/tnwlwldu
@@ -86,7 +87,7 @@
 * 원스탑에듀 https://m.blog.naver.com/PostList.nhn?blogId=1stopedu
 * 쎄쎄쎄 https://m.blog.naver.com/PostList.nhn?blogId=cedubook
 
-# 목
+# 목 0414
 *  영어 카드 http://blog.naver.com/milgarussem
 *  미드 빅뱅 이론 http://blog.naver.com/yjjy0308/221057882496
 *  다락원 http://post.naver.com/my.nhn?memberNo=4753342&navigationType=push
@@ -106,7 +107,7 @@
 * 와이넛북스 https://m.post.naver.com/my.nhn?memberNo=5039741
 * Sunny https://m.blog.naver.com/PostList.nhn?blogId=pureriver777
 
-# 금
+# 금 0414
 *  해피제이드 해피라이프J https://blog.naver.com/jadekim925 
 * 땀 https://m.blog.naver.com/PostList.nhn?blogId=byswoo
 *  쎄듀와 함께 쎄쎄쎄 https://blog.naver.com/cedubook
@@ -126,7 +127,7 @@
 * 잉글리쉬 에듀몰 https://tomasuper.blog.me/
 * 넥서스 공시미; https://blog.naver.com/0simiii
 
-# 토
+# 토 0414
 * 한국에서 영어잘하기 https://blog.naver.com/joohs86
 * Biggie; https://post.naver.com/my.nhn?memberNo=23132643
 * 약장수 버스터; https://blog.naver.com/pcmi4easy_english
@@ -148,7 +149,7 @@
 * 김일승 https://m.blog.naver.com/PostList.nhn?blogId=kishyun
 
 
-# 일
+# 일 0414
 * remain faithful https://m.blog.naver.com/PostList.nhn?blogId=pureriver777&currentPage=1
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 찰리 잉글리시 https://m.blog.naver.com/PostList.nhn?blogId=charleyenglish&currentPage=1
