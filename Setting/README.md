@@ -63,6 +63,8 @@
 ## OJDBC
 - 오라클 11은 OJCBC6, 오라클 12는 OJDBC7이 적합
 
+## Datasource
+- DataSource: 자바에서 제공, BasicDataSource: 아파치에서 제공하는 커넥션풀
 
 # 이클립스
  * https://www.eclipse.org/downloads/

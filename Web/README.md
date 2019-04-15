@@ -1217,3 +1217,27 @@ IIS에서도 돌릴 수 있다.
 - <%@ page import="java.lang.String" %>
 
 
+# CheckBox 배열 값 받기; pg308
+- paramValues로 배열값 받기
+
+- <c:forEach var="hobby" items="${paramValues.hobby}" varStatus="status">
+- ${hobby}
+- </c:forEach>
+
+
+
+
+
+# XPath 개요
+- xml 소스 트리의 정확한 위치를 지정해주기 위한 경로지정 문법이고 XSLT 와 XPointer 를 위해서 만들어진 것이며 xml 엘리먼트들을 노드(node)로 접근하고 XSLT 언어에 사용될 목적으로 설계되었다.
+- .XML 문서는 트리 구조로 구조화 되어 있기에 XPath 라는 [약속된 경로 표기법]을 사용한다.
+- .XML 문서의 프로그래밍 API 인 DOM(Document Object Mode)에서 노드를 검색할 때 사용한다.
+- XPath 를 사용하려면 xalan.jar 라이브러리가 필수적으로 필요하며 다음과 같은 특성이 있다.
+- ① XPath 는 절대 경로와 상대 경로 사용가능하며 절대경로 /(슬래시) 로 시작하고 상대 경로는 '.'(현재 단계 점1개)'..'(상위단계 점2개)을 사용한다.
+- ② //(쌍 슬래시)로 시작할 경우는 모든 영역에서 해당 엘리먼트를 선택하게 된다.
+- ③ 동일한 엘리먼트들이 있을 경우 [ ] 안에 포함된 숫자는 엘리먼트의 순번이며 조건식이 올 경우 해당하는 것이 선택된다.
+- ④ last 메서드 일 경우는 맨 마지막 엘리먼트를 표시한다.
+- ⑤ 속성은 at 기호(@)로 시작된다.
+- ⑥ normalize-space 함수는 앞뒤 공백을 제거하는 trim 메서드의 역할을 한다.
+
+

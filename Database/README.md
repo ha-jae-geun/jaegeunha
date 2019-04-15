@@ -20,6 +20,26 @@
 - create 계정 -> grant 권한 -> 접속 -> 
 
 
+
+# 데이터베이스 테스트
+- 서블릿
+ * Connection connection = null;
+ * 		try {
+ * 			Context context = new InitialContext();
+ * 			BasicDataSource basicdataSource = (BasicDataSource) context.lookup("java:comp/env/jdbc/db");
+ * 			try {
+ * 				connection = basicdataSource.getConnection();
+ * 				System.out.println(connection);
+ * 			} catch (SQLException e) {
+ * 				// TODO Auto-generated catch block
+ * 				e.printStackTrace();
+ * 			}
+ * 		} catch (NamingException e) {
+ * 			// TODO Auto-generated catch block
+ * 			e.printStackTrace();
+ * 		}
+ * 
+
 # 대용량
 ## StringBuffer
 - 대용량 데이터 담을 때는 반드시 StringBuffer로 담아야 한다;(# clob 데이터형); TCP 역할
