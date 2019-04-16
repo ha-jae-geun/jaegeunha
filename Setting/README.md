@@ -216,7 +216,9 @@
 - 1.2버전: http://tomcat.apache.org/taglibs/standard/; impl, el, spec, compat 4개 다운
 - C:\workspace\jsptest\begin\WebContent\WEB-INF\lib\taglibs-standard-compat-1.2.5.jar 밑의 org.apache.taglibs.standard.tag.compat.core 사용
 
-### fmt
+### JSTL fmt
+#### Properties Editor
+- 프로퍼티 파일을 유니코드 값으로 변환하는 플러그인이다.
 - 이클립스에서 add software
 
 ## fileupload
