@@ -199,11 +199,13 @@
 -  톰켓을 사용하지 않을수도 있으니 잘 사용 안함.
 
 
-## taglib 다운 
+## taglib 다운
+- taglib 1.2
 - 1.2버전: http://tomcat.apache.org/taglibs/standard/; impl, el, spec, compat 4개 다운
 - C:\workspace\jsptest\begin\WebContent\WEB-INF\lib\taglibs-standard-compat-1.2.5.jar 밑의 org.apache.taglibs.standard.tag.compat.core 사용
 
 ## fileupload
+- cos_2008
 1. 자카르타 아파치 http://commons.apache.org/proper/commons-fileupload/download_fileupload.cgi
 2. 혹은 http://www.servlets.com/cos/ 에서 cos-20.08.zip 
 3. https://mvnrepository.com/ 에서 file 검색
