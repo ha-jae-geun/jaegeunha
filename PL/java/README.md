@@ -3509,6 +3509,15 @@ public @interface Override {
 - PrintWriter 클래스는 텍스트 출력 스트림에 대한 인스턴스의 인쇄 형식으로 표현하며 서블릿에서 사용한다. 
 - PrintWriter 클래스의 메소드는 입출력 예외를 던지지 않으며 클라이언트 코드는 예외가 발생할 경우에는 checkError 메소드를 호출하여 조회할 수 있다.
 
+### 웹 response view 생략
+- PintWriter out = response.getWriter();
+- out.println("이름: " + name + "<br/>");
+- out.println("이름: " + subject + "<br/>");
+- String file_name = filename;
+- file_name = URLEncoder.encode(file_name, "UTF-8");
+- out.println("파일명 : " + "<a href='./Download.do?file_name=" + file_name + "'>" + origfilename + "</a>");
+
+
 ### 주요 메소드
 #### A. checkError 메소드 
 - checkError 메소드는 스트림을 출력하고 오류 상황을 점검한다. 
