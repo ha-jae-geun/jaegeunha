@@ -30,6 +30,10 @@
 - 자바에서 서버로 다시 보낼 때 http request를 XMLHttpRequest로 바꿔줘야 하는데 이 때 MIME 확장자로 변경해주어야 한다. 변경해 주지 않으면 XMLHTTPREQUEST값이 null 값이 나옴
 
 
+# MVC 패턴 2
+- 프론트 패턴 + MVC 패턴 = MVC2
+
+
 # was
 - server.xml -> web.xml
 
