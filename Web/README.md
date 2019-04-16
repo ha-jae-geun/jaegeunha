@@ -883,6 +883,7 @@ HTML 문서로 전송해 줄 수 있는 응용 프로그램의 필요성 때문�
 - JSP 클래스 저장:  -    
 - - C:\workspace\jsptest\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\work\Catalina\localhost\begin\org\apache\jsp\begin
 - jsp가 만들어지면 자동으로 서블릿이 만들어진다. 
+- 또 jsp 만들면 web.xml에 sevlet 매핑에 jsp가 있다. jsp도 사실상 서블릿이다.
 	⎼JSP 에서는 서블릿과 달리 위의 코딩을 추가해 주어야 한다.
 	⎼out 객체를 지우고 out 객체를 새로 만들어서 추가한다.
 	⎼jsp 에서 다운로드를 위해 OutputStream 추상 클래스를 받아서 처리할 때 JSP 에서 servlet 으로 변환될 때 내부적으로 out 객체가 생성되므로 response.getOutputStream( ) 메서드 호출 시 생기는 out 객체와 jsp 에서 servlet 으로 변환될 때 생성되는 out 객체와 충돌이 일어나서 예외처리가 발생하므로 추가해 준다.
