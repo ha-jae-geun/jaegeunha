@@ -1,4 +1,6 @@
 # 기타
+* - 너 그의 백넘버를 알아? Do you know his uniform number?
+* - 그리고...크레파스! And..oil pastels; 크레파스는 크레용 + 파스텔  [pæˈstel]
 * 전봇대를 고치고 있따; fixing a utility pole
 * - 그러면 나 킥보드 가질 수 있어요? So can I get the scooter?
 * - 인터폰에 있는 버튼을  두번이나 눌렀어.  I pressed the button on the intercom twice.
