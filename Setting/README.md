@@ -222,7 +222,8 @@
 - 이클립스에서 add software
 
 ## fileupload
-- cos_2008
+## cos_2008
 1. 자카르타 아파치 http://commons.apache.org/proper/commons-fileupload/download_fileupload.cgi
 2. 혹은 http://www.servlets.com/cos/ 에서 cos-20.08.zip 
 3. https://mvnrepository.com/ 에서 file 검색
+- .COS 라이브러리는 현재 자바에서 가장 널리 쓰여 지는 업로드 컴포넌트로 파일 업로드의 원리로 구현하였다.
