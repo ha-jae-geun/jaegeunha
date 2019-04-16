@@ -200,10 +200,24 @@
 -  톰켓을 사용하지 않을수도 있으니 잘 사용 안함.
 
 
-## taglib 다운
+
+
+## jstl 다운
+- JSTL 1.2.3 접속; http://jakarta.apache.org
+- 자카르타에서는 자주 사용하는 커스텀 태그를 JSTL(JSP Standard Tag Library) 형태로 제공해준다.
+- 자바 코드를 최대한 줄이기 위해 거의 모든 자바 코드를 커스텀 태그로 구현하려면 개발이 효율적이기보다는
+오히려 개발 시간이 훨씬 늘어날 것이며 기본 기능까지도 직접 커스텀 태그로 개발할 필요는 없다.
+- JSTL 은 자주 사용되는 필요한 기능들을 모아 놓은 커스텀 태그이므로 태그는 코드를 간결하게 해주고 가독성을
+높이는 장점이 있기 때문에 JSTL 을 잘 사용한다면 효율적인 코딩을 하는 데 많은 도움을 준다.
+- JSTL은 용도에 따라 사용하는 기능이 달라지는데 크게 4 가지로 core, fmt, xml, sql 와 함수로 나누어진다.
+
+### taglib 다운
 - taglib 1.2
 - 1.2버전: http://tomcat.apache.org/taglibs/standard/; impl, el, spec, compat 4개 다운
 - C:\workspace\jsptest\begin\WebContent\WEB-INF\lib\taglibs-standard-compat-1.2.5.jar 밑의 org.apache.taglibs.standard.tag.compat.core 사용
+
+### fmt
+- 이클립스에서 add software
 
 ## fileupload
 - cos_2008
