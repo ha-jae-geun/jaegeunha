@@ -2353,6 +2353,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 4) (명령형) 힘 내, 서둘러 서둘러! 우리 많이 뒤쳐지고 있어. [ex] Come along! We're far behind.
 
 ## charge
+* 나 연체료 내야돼 i've got late charges
 * 짐을 올리는 라틴어 어원 -> 짐을 채우고, 그게 임무/책임를 다하는 느낌; 맞서 싸워라 돌격하라
 * YOu must pay the fine;
 * Could you please charge that fine to my mom?
@@ -6100,6 +6101,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 넌 정말 한심한 찌질이야. ex) You're such a pathetic loser.
 
 ## patch
+* 알록달록하다; my hair is super patchy
 * 화장이 뜨는 부분; i do get the patches
 * rough patch = 순탄치 못한 시기, 힘든 시기; patch는 '구역'을 뜻하고 rough는 '거칠다'라는 뜻이에요. 이게 배 항해할 때 물살 거친 구역을 칭하는 데서 유래했다는 설이 있네요~ 지금도 항해사들이 쓰는 표현이기도 하다고요!
 * 고르게 발려요; it doesn't get patchy
