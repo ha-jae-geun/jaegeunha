@@ -98,7 +98,10 @@
  * Ctrl + Shift + L    단축키 표시
  * Ctrl + Shift + F 줄정렬
  * Ctrl + / 주석처리
- 
+
+# Window Preference
+- General -  font/Syntax/Save
+
 ## JAD 설치
 - 마켓 -> jad install -> 재실행 -> Window preference -> Edi tor -> File Assosiation -> Default
  
@@ -298,3 +301,6 @@
 ## JAD 설치
 - 마켓 -> jad install -> 재실행 -> (Window preference -> general -> Editor -> File Assosiation)-> Decompiler Default -> 
  
+
+# Window Preference
+- General -  font/Syntax/Save
