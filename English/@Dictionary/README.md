@@ -9850,6 +9850,11 @@ retaliate
   * 식상하네요         You sound like a bumper sticker(핀잔주는 말) 
   * #흔하다 #식상
 
+# 흙
+- 잭은 금수저를 물고 태어났어. Jack was born with a silver spoon in his mouth.   
+- 그럼 흙수저는?  A clay spoon 이 아닌 a plastic spoon 이라고 한다. 
+- 도움이 필요한 가족들에게 지원을 제공하다 Provide assistance to the needy families
+
 # 흥미
 * 너무나 흥미로워서 주목을 안 할 수가 없게 만드는 것들을 나타낼 때 쓰는 형용사 입니다. 예를 들어 "너무나 흥미로워서 눈을 뗄 수 없는 공연" 을 a compelling performance 라고 할 수 있겠죠.
 * : 누군가를 흥미롭게 또는 주목할 만하게 해주는 일화나 사실을 뜻해요! claim은 '~의 소유권을 주장하다'라는 뜻이고 fame은 '유명세'인데요, 직역하면 '유명세를 주장할 수 있게 해주는 근거'라고나 할까요? 뜻보다는 claim(클레임)과 fame(페임)의 운이 맞다는 게 더 포인트인 표현이랍니다.
