@@ -281,3 +281,4 @@
 2. PATH 추가: %MAVEN_HOME%\bin
 - 혹은 bin을 바로 PATH에서 추가해주어도 됨
 3. cmd에서 mvn-version으로 확인
+4. windows preference 에서 User setting, Installations 수정하기
