@@ -67,6 +67,7 @@
 	* https://search.google.com/search-console/sitemaps?resource_id=http%3A%2F%2Fjae-jae.tistory.com%2F
 	* http://goodrest.tistory.com/entry/%EA%B5%AC%EA%B8%80-%EC%9B%B9%EB%A7%88%EC%8A%A4%ED%84%B0-%EB%8F%84%EA%B5%AC%EC%97%90-%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A7%B5-%EC%89%BD%EA%B2%8C-%EB%93%B1%EB%A1%9D%ED%95%98%EA%B8%B0-Step2-%EC%82%AC%EC%9D%B4%ED%8A%B8%EB%A7%B5-%EC%83%9D%EC%84%B1-%EB%B0%8F-%EB%93%B1%EB%A1%9D
 4. 구글 애드센트
+5. 다음 애드핏 https://adfit.biz.daum.net/ qofkdla $
 
 # 윈동
 * 한글
