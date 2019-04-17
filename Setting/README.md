@@ -176,6 +176,10 @@
 - ⎼추가 할 요소는 URIEncoding= “UTF-8” 와 useBodyEncodingForURI= “true” 로 두 요소를 모두 추가해주는 것이 인코딩에 효율적이므로 권장한다.
 - <Connector connectionTimeout="20000" port="80" protocol="HTTP/1.1" redirectPort="8443" URIEncoding= “UTF-8” useBodyEncodingForURI= “true” />
 
+## 톰켓 환경변수 
+1. 환경변수 이름: MAVEN_HOME(매번 버전 바뀌면 Path 그때마다 바꿔줘야하기 때문에 해줌)
+2. PATH 추가: %MAVEN_HOME%bin 
+- 혹은 bin을 바로 PATH에서 추가해주어도 됨
 
 # 웹
 ## 커넥션 풀
@@ -246,6 +250,9 @@
 # 스프링; https://spring.io/tools
 - https://spring.io/tools -> tools -> Spring Tools 4 for Eclipse 2. atom 3. Visual Studio Code
 
+## 폴더
+1. pivotal-tc-server: Spring의 내장 톰켓; 사용 안함
+
 ## Spring 3.0
 - 자바 6.0, 7.0 + 톰켓6.0
 
@@ -254,12 +261,22 @@
 ## Spring Tools 4 for 
 - Spring Tool Suite 4부터는 legacy project 없이 spring boot version만 사용하여야 함. 
 
-## - UTF-8 일괄 설정; ini 
-- vmargs 밑에
+## ini 
+1. - UTF-8 일괄 설정: vmargs 밑에
 - -Dfile.encoding=UTF-8
+2. -Xms512m
+3. -Xmx1024m
 
-# 초기 설정
+
+
+## Spring 초기 설정
 1. workspace 설정
 2. Open Perspective
 
+# apache 톰켓
+- http://maven.apache.org/download.cgi -> apache-maven-3.6.1-bin.zip
 
+## 환경변수 설정
+1. 환경변수 이름: MAVEN_HOME(매번 버전 바뀌면 Path 그때마다 바꿔줘야하기 때문에 해줌)
+2. PATH 추가: %MAVEN_HOME%bin 
+- 혹은 bin을 바로 PATH에서 추가해주어도 됨
