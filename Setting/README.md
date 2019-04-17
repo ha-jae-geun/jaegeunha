@@ -246,6 +246,10 @@
 # 스프링; https://spring.io/tools
 - https://spring.io/tools -> tools -> Spring Tools 4 for Eclipse 2. atom 3. 
 
-## - UTF-8 일괄 설정 
+## - UTF-8 일괄 설정; ini 
 - vmargs 밑에
 - -Dfile.encoding=UTF-8
+
+# 초기 설정
+1. workspace 설정
+2. Open Perspective
