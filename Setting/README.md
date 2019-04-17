@@ -72,6 +72,10 @@
  * 자바는 힙 크기 조절해 주어야 함(new 사용이 많음)
  * OpenPerspective 자바 변경
 
+## - UTF-8 일괄 설정 
+- vmargs 밑에
+- -Dfile.encoding=UTF-8
+
 ## delete
 - 쓰지 않는 프로젝트 delete(완전삭제 안하기)  
 
@@ -237,3 +241,11 @@
 ## Classifier4j
 - Maven(https://mvnrepository.com/artifact/com.github.yaraju.Classifier4J/classifier4j) -> Classifier4j
 - 데이터 Teach; 단어 
+
+
+# 스프링; https://spring.io/tools
+- https://spring.io/tools -> tools -> Spring Tools 4 for Eclipse 2. atom 3. 
+
+## - UTF-8 일괄 설정 
+- vmargs 밑에
+- -Dfile.encoding=UTF-8
