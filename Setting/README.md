@@ -280,3 +280,4 @@
 1. 환경변수 이름: MAVEN_HOME(매번 버전 바뀌면 Path 그때마다 바꿔줘야하기 때문에 해줌)
 2. PATH 추가: %MAVEN_HOME%\bin
 - 혹은 bin을 바로 PATH에서 추가해주어도 됨
+3. cmd에서 mvn-version으로 확인
