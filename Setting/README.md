@@ -246,10 +246,9 @@
 # 스프링; https://spring.io/tools
 - https://spring.io/tools -> tools -> Spring Tools 4 for Eclipse 2. atom 3. Visual Studio Code
 
-## Spring Tools 3 
+## Spring Tools 3.9.8
 
 ## Spring Tools 4 for 
-- 
 - Spring Tool Suite 4부터는 legacy project 없이 spring boot version만 사용하여야 함. 
 
 ## - UTF-8 일괄 설정; ini 
@@ -259,3 +258,5 @@
 # 초기 설정
 1. workspace 설정
 2. Open Perspective
+
+
