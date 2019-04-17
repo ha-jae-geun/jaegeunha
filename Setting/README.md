@@ -272,6 +272,8 @@
 ## Spring 초기 설정
 1. workspace 설정
 2. Open Perspective
+3. JRE Library: buildpath -> library 지우기 -> add library -> jre library 추가
+4. Project facets java 버전 
 
 # apache 톰켓
 - http://maven.apache.org/download.cgi -> apache-maven-3.6.1-bin.zip
