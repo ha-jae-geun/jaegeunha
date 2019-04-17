@@ -246,6 +246,9 @@
 # 스프링; https://spring.io/tools
 - https://spring.io/tools -> tools -> Spring Tools 4 for Eclipse 2. atom 3. Visual Studio Code
 
+## Spring 3.0
+- 자바 6.0, 7.0 + 톰켓6.0
+
 ## Spring Tools 3.9.8
 
 ## Spring Tools 4 for 
