@@ -234,3 +234,5 @@
 - MultipartRequest 클래스는 안정성도 다른 파일 업로드 라이브러리보다 뛰어나며 파일 중복 처리의 경우도 파일 중복 처리 인터페이스를 가지고 있기 때문에 쉽게 처리가 가능하고 한글에 관련된 문제 또한 인코딩 방식을 입력하여 쉽게 처리가 가능하다.
 - MultipartRequest 클래스는 여러 가지 장점을 가지고 있으면서 사용법도 쉬워서 파일 업로드에 자주 이용된다.
 
+## Classifier4j
+- Maven(https://mvnrepository.com/artifact/com.github.yaraju.Classifier4J/classifier4j) -> Classifier4j
