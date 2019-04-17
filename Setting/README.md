@@ -181,6 +181,9 @@
 2. PATH 추가: %MAVEN_HOME%\bin
 - 혹은 bin을 바로 PATH에서 추가해주어도 됨
 
+## 톰켓 이클립스 설정
+- window preference - Runtime Envirionment - Add - 톰켓 폴더 설정
+
 # 웹
 ## 커넥션 풀
 - http://jakarta.apache.org/ 
@@ -284,3 +287,6 @@
 - 혹은 bin을 바로 PATH에서 추가해주어도 됨
 3. cmd에서 mvn-version으로 확인
 4. windows preference 에서 User setting, Installations 수정하기
+
+## 톰켓 스프링 툴 
+- window preference - Runtime Envirionment - Add - 톰켓 폴더 설정
