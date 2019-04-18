@@ -49,3 +49,6 @@
 - # /usr/share/tomcat8/bin/./startup.sh
 
 7. localhost:8080 확인
+
+## 톰켓 삭제
+- sudo apt-get pruge --auto-remove tomcat8
