@@ -28,6 +28,9 @@
 - PATH가 제대로 지정되었는지 확인하기 위해서는 아래 명령을 사용합니다.
 - $ echo $JAVA_HOME
 
+##자바 컴파일러
+###jre 
+- windowpreference -> compiler -> 1.8 밑으로 ㅐ리기ㄴ
 
 
 # MySQL
