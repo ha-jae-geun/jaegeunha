@@ -67,6 +67,7 @@
 
 # 자바빈
 - new를 사용안하고 new를 xml에 심는다.
+- <bean class="jae.spring.test.Begin" id="begin"/>; id는 주로 클래스의 
 
 # pom.xml
 1. build 영역
