@@ -295,6 +295,9 @@
 
 ### mvn 레파지토리 직접 설정
 - 1. 터미널에서 mvn install 2. pom.xml에서 dependency 
+- <groupId>org.springframework</groupId>
+	- <artifactId>spring-context</artifactId>
+	- <version>${org.springframework-version}</version>
 
 ### 환경변수 설정
 1. 환경변수 이름: MAVEN_HOME(매번 버전 바뀌면 Path 그때마다 바꿔줘야하기 때문에 해줌)
