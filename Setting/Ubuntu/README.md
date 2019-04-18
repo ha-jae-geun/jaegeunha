@@ -54,5 +54,6 @@
 
 7. localhost:8080 확인
 
+
 ## 톰켓 삭제
 - sudo apt-get purge --auto-remove tomcat8
