@@ -77,15 +77,31 @@
 - Begin begin = context.getBean("begin", Begin.class);
   - 앞에 begin은 bean의 id, 뒤에 .class 붙이면 강제 형변환 할 필요 없다.
 
-## SpringCall
+## SpringCall1
 		- ApplicationContext context = new ClassPathXmlApplicationContext("in/bean.xml");
 		- Parameter parameter = (Parameter) context.getBean("parameter");
 		- System.out.println(parameter);
 
 
-## JavaCall
+## JavaCall1
 		- Parameter parameter = new Parameter("홍길동");
 		- System.out.println(parameter);
+		
+## JavaCall2
+		- Parameter parameter = new Parameter();
+		- ParameterBean parameterBean = new ParameterBean(parameter);
+		- parameterBean.msg();
+		
+## SpringCall2
+- ApplicationContext context = new ClassPathXmlApplicationContext("in/bean.xml");
+- ParameterBean parameterBean = (ParameterBean) context.getBean("parameterBean");
+		parameterBean.msg();
+
+## javabean2
+- <bean class="jae.spring.test.Parameter" id="parameter"></bean>
+- <bean class="jae.spring.test.ParameterBean" id="parameterBean">
+- <constructor-arg ref="parameter"></constructor-arg>
+- </bean>
 
 # pom.xml
 1. build 영역
