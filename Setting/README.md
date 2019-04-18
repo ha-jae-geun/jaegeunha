@@ -120,6 +120,9 @@
 - ① 10g 버전 이하 ⎼영문: 1바이트 ⎼영문 이외의 한글 등: 2바이트 
 - ② 11g 버전 이상 ⎼영문: 1바이트 ⎼영문 이외의 한글 등: 3바이트 
 
+### 오라클 버전 확인
+- OJDBC 알집 풀어서 C:\library\ojdbc6\META-INF 경로에 MANIFEST.MF 
+
 ## 오라클 명령어
 - dba로 접속: 1. sqlplus 2. sys as sysdba | 1234  3. quit / exit(윈도우 빠지기)
 - as: 1. 충돌 방지 2. 
