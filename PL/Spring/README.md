@@ -69,6 +69,21 @@
 - new를 사용안하고 new를 xml에 심는다.
 - <bean class="jae.spring.test.Begin" id="begin"/>; id는 주로 클래스의 
 
+## 자바빈 불러오기
+- ApplicationContext context = new ClassPathXmlApplicationContext("in.bean.xml");
+- Begin begin = context.getBean("begin", Begin.class);
+  - 앞에 begin은 bean의 id, 뒤에 .class 붙이면 강제 형변환 할 필요 없다.
+
+## SpringCall
+		- ApplicationContext context = new ClassPathXmlApplicationContext("in/bean.xml");
+		- Parameter parameter = (Parameter) context.getBean("parameter");
+		- System.out.println(parameter);
+
+
+## JavaCall
+		- Parameter parameter = new Parameter("홍길동");
+		- System.out.println(parameter);
+
 # pom.xml
 1. build 영역
 2. properties 영역
