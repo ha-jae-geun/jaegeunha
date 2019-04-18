@@ -70,7 +70,7 @@
 - <bean class="jae.spring.test.Begin" id="begin"/>; id는 주로 클래스의 
 
 ## 자바빈을 쓰는 이유 = new를 안쓰는 이유
-- 모델에 접근하기 위해서 모두 new를 사용하면 나중에 데이터가 커지면 문제가 생김 -> 객체화 해서 
+- 모델에 접근하기 위해서 모두 new를 사용하면 나중에 데이터가 커지면 문제가 생김 -> 객체화 해서 사용; 충돌 방지, 속도 
 
 ## 자바빈 불러오기
 - ApplicationContext context = new ClassPathXmlApplicationContext("in.bean.xml");
