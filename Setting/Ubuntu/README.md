@@ -27,7 +27,7 @@
 - tar.gz 마우스 우클릭메뉴 -> 링크 주소 복사
 
 3. wget 다운 로드
-- # wget 링크 붙이기
+-  wget 링크 붙이기
 
 4. 압축 해제 / 디렉토리 이동
 - i : # tar xvfz apache-tomcat-8xxxx.tar.gz
