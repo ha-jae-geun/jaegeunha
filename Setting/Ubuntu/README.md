@@ -13,11 +13,11 @@
 5. 상태  	service mysql start/stop/restart/status
 - 출처: https://all-record.tistory.com/183 [세상의 모든 기록]
 
-##사용
+## 사용
 -  로그인: mysql -uroot -p
 
 
-#톰켓 설치
+# 톰켓 설치
 ##수동
 1. Tomcat8 다운로드
 - 다운로드 링크 : http://tomcat.apache.org/download-80.cgi
@@ -45,8 +45,8 @@
 - iii: source /etc/profile
 
 6. tomcat stop / start
-- # /usr/share/tomcat8/bin/./shutdown.sh
-- # /usr/share/tomcat8/bin/./startup.sh
+- /usr/share/tomcat8/bin/./shutdown.sh
+- /usr/share/tomcat8/bin/./startup.sh
 
 7. localhost:8080 확인
 
