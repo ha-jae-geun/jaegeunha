@@ -76,5 +76,16 @@
 7. localhost:8080 확인
 
 
+## apache Tomcat 8 서비스를 부팅시 자동으로 서비스로 등록
+
+- 마지막으로 리눅스 부팅시 자동으로 톰캣 서비스를 시작하도록 설정해 보겠습니다. 톰캣 서버 bin 디렉토리에 catalina.sh 파일이 있는데 이 파일을 /etc/init.d 디렉토리에 tomcat이라는 이름을 가진 파일로 복사 후, vim 에디터로 수정해 시작 스크립트로 만들어 봅시다.
+
+
+- # cp /usr/local/server/tomcat/bin/catalina.sh /etc/init.d/tomcat
+- # vi /etc/init.d/tomcat
+- 톰캣 서버 시작 : /etc/init.d/tomcat start
+- 톰캣 서버 종료 : /etc/init.d/tomcat stop
+
+
 ## 톰켓 삭제
 - sudo apt-get purge --auto-remove tomcat8
