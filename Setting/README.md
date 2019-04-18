@@ -290,6 +290,9 @@
 ## Maven
 - http://maven.apache.org/download.cgi -> apache-maven-3.6.1-bin.zip
 
+## import
+- import - maven - existing maven project
+
 ### mvn 레파지토리 직접 설정
 - 1. 터미널에서 mvn install 2. pom.xml에서 dependency 
 
