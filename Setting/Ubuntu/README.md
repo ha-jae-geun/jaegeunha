@@ -4,6 +4,10 @@
 - $ sudo apt-get install default-jdk 
 - $ sudo apt-get install default-jre (jre만을 원한다면)
 
+## 자바 버전 설정
+-  update-alternatives --config javac
+- update-alternatives --config java
+- 환경변수 설정: vi ~/.bash_profile
 
 # MySQL
 1. MySQL 버전을 확인: sudo apt-cache search mysql-server
