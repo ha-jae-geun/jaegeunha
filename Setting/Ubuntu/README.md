@@ -9,6 +9,11 @@
 - update-alternatives --config java
 - 환경변수 설정: vi ~/.bash_profile
 
+## openjdk 삭제
+1.  sudo apt-get remove openjdk*
+2. sudo apt-get autoremove --purge
+
+
 # MySQL
 1. MySQL 버전을 확인: sudo apt-cache search mysql-server
 2. 설치: sudo apt-get install mysql-server-5.7
