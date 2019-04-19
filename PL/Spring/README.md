@@ -122,6 +122,7 @@
 
 ## 어노테이션
 - @Autowired: 타입 -> 이름; 스프링 지원
+	- 어노테이션, 생성자, 필드, 메소드에 
 - @Inject: 타입 -> 이름; 자바에서 지원
 - @Resource: 이름 -> 타입; 자바에서 지원
 
@@ -137,6 +138,7 @@
 # Component
 - context: component-scan 사용
 - base-package; 저 패키지 안에 있는 패키지는 영향 받지 않아도 되는 패키지 입력.
+- set 생략 가능
 
 ## Controller
 - 프론트에서 사용
