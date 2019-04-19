@@ -90,5 +90,8 @@
 - 톰캣 서버 종료 : /etc/init.d/tomcat stop
 
 
+## Unknown version of Tomcat was specified
+* chmod -R 755 /usr/local/apache-tomcat
+
 ## 톰켓 삭제
 - sudo apt-get purge --auto-remove tomcat8
