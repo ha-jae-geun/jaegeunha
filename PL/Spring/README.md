@@ -134,3 +134,16 @@
 # String
 - Spring에서 STring은 클래스가 아니라 java.lang.String이라고 말해야 한다.
 
+# Component
+- context: component-scan 사용
+- base-package; 저 패키지 안에 있는 패키지는 영향 받지 않아도 되는 패키지 입력.
+
+## Controller
+- 프론트에서 사용
+
+## Service
+- 비즈니스 메소드
+
+## Repository
+- DAO
+
