@@ -115,15 +115,18 @@
 - autowire: byName: 이름 참조;  byTpye: 타입 참조
 
 
-## 네임스페이스
-- beans: 프로퍼티
-- p: 프로퍼티
-- context: 어노테이션
+
 
 ## 어노테이션
 - @Autowired: 타입 -> 이름; 스프링 지원
 - @Inject: 타입 -> 이름; 자바에서 지원
 - @Resource: 이름 -> 타입; 자바에서 지원
+
+# bean.xml
+## 네임스페이스
+- beans: 프로퍼티
+- p: 프로퍼티
+- 1. context: 어노테이션 네임스페이스  2. <context:annotation-config/>
 
 # pom.xml
 1. build 영역
