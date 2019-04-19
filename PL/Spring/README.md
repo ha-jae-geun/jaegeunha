@@ -106,6 +106,9 @@
 - <constructor-arg ref="parameter"></constructor-arg>
 - </bean>
 
+## property
+- Bean을 주입 받을 경우에는 ref속성을 쓰고, 기본 데이터 타입 및 STring 클래스 타입의 경우는 value 속성을 사용한다.
+
 ## autowire
 - autowire: byName: 이름 참조;  byTpye: 타입 참조
 
