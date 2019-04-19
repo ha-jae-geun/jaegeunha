@@ -109,6 +109,11 @@
 ## autowire
 - autowire: byName: 이름 참조;  byTpye: 타입 참조
 
+
+## 네임스페이스
+- p: 프로퍼티
+- context: 어노테이션
+
 # pom.xml
 1. build 영역
 2. properties 영역
