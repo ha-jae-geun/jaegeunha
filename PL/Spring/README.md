@@ -115,6 +115,11 @@
 - p: 프로퍼티
 - context: 어노테이션
 
+## 어노테이션
+- @Autowired: 타입 -> 이름; 스프링 지원
+- @Inject: 타입 -> 이름; 자바에서 지원
+- @Resource: 이름 -> 타입; 자바에서 지원
+
 # pom.xml
 1. build 영역
 2. properties 영역
