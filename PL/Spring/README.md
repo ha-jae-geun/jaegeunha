@@ -145,6 +145,7 @@
 
 ## Service
 - 비즈니스 메소드
+- bean 만들 필요 없다.
 
 ## Repository
 - DAO
