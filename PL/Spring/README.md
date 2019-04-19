@@ -106,6 +106,9 @@
 - <constructor-arg ref="parameter"></constructor-arg>
 - </bean>
 
+## autowire
+- autowire: byName: 이름 참조;  byTpye: 타입 참조
+
 # pom.xml
 1. build 영역
 2. properties 영역
