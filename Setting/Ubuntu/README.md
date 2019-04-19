@@ -89,6 +89,10 @@
 - 톰캣 서버 시작 : /etc/init.d/tomcat start
 - 톰캣 서버 종료 : /etc/init.d/tomcat stop
 
+## 톰켓 프로세스 번호
+- ps -ef |grep java
+- kill 프로세스 번호
+
 
 ## Unknown version of Tomcat was specified
 * chmod -R 755 /usr/local/apache-tomcat
