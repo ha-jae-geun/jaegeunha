@@ -99,3 +99,16 @@
 
 ## 톰켓 삭제
 - sudo apt-get purge --auto-remove tomcat8
+
+
+# Maven
+- maven 확인: mvn -v
+
+## 환경변수
+-  /opt/profile 혹은 ~/.bashrc 나 ~/.bash_profie
+- #vi /etc/profile에서 호나경변수
+- export MAVEN_HOME=[압축푼위치]
+- export PATH=$PATH:$MAVEN_HOME/bin
+
+
+
