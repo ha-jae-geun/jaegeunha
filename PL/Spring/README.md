@@ -77,6 +77,9 @@
 - Begin begin = context.getBean("begin", Begin.class);
   - 앞에 begin은 bean의 id, 뒤에 .class 붙이면 강제 형변환 할 필요 없다.
 
+## 자바빈의 int
+- int형이 없으니 value 값에 "" 넣어주어야 한다.
+
 ## SpringCall1
 		- ApplicationContext context = new ClassPathXmlApplicationContext("in/bean.xml");
 		- Parameter parameter = (Parameter) context.getBean("parameter");
