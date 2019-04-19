@@ -121,6 +121,7 @@
 
 
 ## 어노테이션
+- 사용 위해: <context:annotation-config/>
 - @Autowired: 타입 -> 이름; 스프링 지원
 	- 어노테이션, 생성자, 필드, 메소드에 
 - @Inject: 타입 -> 이름; 자바에서 지원
@@ -136,7 +137,10 @@
 # String
 - Spring에서 STring은 클래스가 아니라 java.lang.String이라고 말해야 한다.
 
-# Component
+# <context:component-scan base-package="jae.ha.spring"/>
+- bean 사용 안하기 
+
+## Component
 - context: component-scan 사용
 - base-package; 저 패키지 안에 있는 패키지는 영향 받지 않아도 되는 패키지 입력.
 - set 생략 가능
