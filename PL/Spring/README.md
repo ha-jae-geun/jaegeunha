@@ -106,7 +106,9 @@
 - <constructor-arg ref="parameter"></constructor-arg>
 - </bean>
 
+## 프로퍼티
 ## property
+- 메소드를 통해 관리되는 데이터를 프로퍼티(property) 라고 부르며 get, set 을 뗀 나머지 부분에서 첫문자를 소문자로 바꾼 이름을 프로퍼티 이름으로 취급한다.
 - Bean을 주입 받을 경우에는 ref속성을 쓰고, 기본 데이터 타입 및 STring 클래스 타입의 경우는 value 속성을 사용한다.
 
 ## autowire
