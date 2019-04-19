@@ -37,6 +37,10 @@
   - Const
   - Method(AOP; 관점 지연 방식)
  
+ # pom.xml
+1. build 영역
+2. properties 영역
+3. dependencies 영역
  
 # 아나콘다
 - 아나콘다에 포함되어 있는 라이브러리들이 불필요한 경우에는 기본 Python만 설치해도 무관합니다. 하지만, 요즘 유행하는 인공지능이나 빅데이터 관련 개발을 할 경우에는 결국 아나콘다에 포함된 라이브러리들을 설치할 가능성이 높기 때문에 애초에 아나콘다를 설치하는 것이 더 유리합니다. 일일이 라이브러리들을 설치하다보면 의존성 문제 등이 발생할 수도 있기 때문입니다.
@@ -116,7 +120,6 @@
 
 
 
-
 ## 어노테이션
 - @Autowired: 타입 -> 이름; 스프링 지원
 - @Inject: 타입 -> 이름; 자바에서 지원
@@ -128,8 +131,6 @@
 - p: 프로퍼티
 - 1. context: 어노테이션 네임스페이스  2. <context:annotation-config/>
 
-# pom.xml
-1. build 영역
-2. properties 영역
-3. dependencies 영역
+# String
+- Spring에서 STring은 클래스가 아니라 java.lang.String이라고 말해야 한다.
 
