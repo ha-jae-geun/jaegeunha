@@ -104,7 +104,9 @@
 
 ## JAD 설치
 - 마켓 -> jad install -> 재실행 -> Window preference -> Edi tor -> File Assosiation -> Default
- 
+- Windows> Preferences > General > Editors > File Associations 클릭하게 되면
+- 모든 확장가가 기본적으로 취하게 되는 프로그램명들을 설정할수 있게 되어있는데 .class 파일을 클릭해서 아래에 jadclipse file view를 기본으로 사용하겠다고 오른쪽 default 클릭해서 셋팅한다
+
 
 # 오라클
 - MySQL과 달리 오라클은 대용량 데이터 베이스라고 하는데, 대용량 데이터 타입(CLOB; 4GB까지 가능) 까지 가질 수 있다.
