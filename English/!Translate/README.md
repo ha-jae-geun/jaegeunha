@@ -1,4 +1,16 @@
-## - "언젠가는" - one day, some day, one of these days, sooner or later
+# [ # 11 ] 일상을 영어로 말하기 - "우리 동네에 새로 생긴 스시집.." , "궁금해서 조만간에 한번 가보고 싶다"
+"우리 동네에 새로 생긴 스시집이 있는데 항상 사람이 많아요.  There's a new sushi place in my neighborhood that is always packed with people
+제가 차로(운전해서) 거기를 항상 지나가서 알아요.  I know because I drive past it almost every day.
+궁금해서 조만간에 한번 가보고 싶어요." I'm really curious to try it one of these days.﻿
+
+# [ #10 ] 일상을 영어로 말하기 - 지저분하다 - 더럽다 / 치우다 - 정리하다 - 씻다 - 닦다
+- 오늘 제 작업공간을 정리할거예요. .   Today, I'm going to clean up my work space. 
+-  너무 지저분해요 It's getting really messy. 
+- 안쓰는 물건(들)이 너무 많은 것 같아요. I think I have too much stuff that I never use. 
+- 최대한 많이 버릴려고요." So, I'm going to try to get rid of as much as I can
+* dirty: 먼지 쌓이고 더러운 것; 너저분: messy
+
+# - "언젠가는" - one day, some day, one of these days, sooner or later
 ## "조만간에" - sometime soon, sometime + @
 * someday: 미래만 가능; 언젠가 될지 모르지만의 강조, oneday: 과거도 가능
 * 언젠가 무엇이던간에 내가 영어로 말하는것을 기대하고 있지만, 금방 그렇게 할 수 있을것 같지 않아. Sometime I'm looking forward to speaking in English whatever I want to, but it doesn't look like it's going to be able to do it anytime soon.
