@@ -7091,6 +7091,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 유교문화는 한국 사회에 깊게 뿌리박혀 있다. Confucianism is deeply rooted in Korean society.
 * 현재 체계의 뿌리가 깊게 박혀있기 떄문입니다; the roots of our current system run deep
 
+## rusty
+* 녹슬다; My English must have been rusty!﻿
+
 ## rush
 * 스릴을 즐기는 거지; i enjoy the rush
 * rush 는 주로 [급하게 움직여야 하는 상황] 을 나타낼 때 많이 쓰이지만, 영상에서처럼 [기쁨/흥분/떨림] 의 감정을 나타내는데 쓰이기도 합니다. 강렬한 무언가를 경험할 때 확 들어오듯이 느껴지는 감정을 의미할 때 많이 쓰이는 단어입니다.
