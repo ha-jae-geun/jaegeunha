@@ -110,6 +110,7 @@
 
 # Maven
 - maven 확인: mvn -v
+- http://maven.apache.org/download.cgi 설치
 
 ## 환경변수
 -  /opt/profile 혹은 ~/.bashrc 나 ~/.bash_profie
