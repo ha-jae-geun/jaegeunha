@@ -1,3 +1,28 @@
+# 쓸만한 영어 - 학교/사무실 영어회화 - 이메일 첨부파일로 보내주세요 - 그 파일 공유해 주세요 - 영어표현
+- 직접의문문 Where did you save them? 너 그것들 어디에 저장했어? 간접의문문 Can you let me know *where *you *saved them? 너가 그것들 어디에 저장했는지 알려줄 수 있어? 
+- [익쓰떠늘] - external hard (X) 외장하드 - external hard drive 또는 external drive 외장하드 
+-  Have you saved all the documents on a USB? 모든 문서(파일)를 USB에 저장했어요? *USB는 철자가 'U'여도 발음이 모음이 아니라서 새로운 하나는 'a', 이미 알고 있는 특정한 것이라면 'the[더]'를 붙임 
+- named 대신 called 도 ok. - It's in the folder named ABC1 and I backed it up on a USB with a different name. 'ABC1'이란 (이름으로 된) 폴더 (안)에 있고, USB에 다른 이름으로 (그것을) 백업해놨어. 
+- a compressed file 압축 파일 - compressed files 압축 파일들 *원하는 포맷을 말해도 돼요. - a zip file 짚파일(압축파일 포맷 중 하나) *원하는 포맷을 말해도 돼요. 
+-  Can you forward it to me with a compressed file attached? 압축파일로 첨부해서 그것을 이메일로 보내(/발송해)주세요. - Can you forward it to me with a zip file attached? zip파일로 첨부해서 그것을 이메일로 보내주세요. 
+-  I've already uploaded them to Google Drive to see together. (X) - I've already uploaded them to Google Drive to share. 이미 그것들을 구글 드라- 이브에 다 같이 볼 수 있도록 올려놨어요. *같이/함께'라고 해서 share together 라고 붙이지 마세요. 
+
+# 쓸만한 영어 - 택시 영어 -빙빙 돌지마세요! - 제가 말한 길로 가주세요! 영어회화/영어표현
+ -  Does this bus go in a circle? 직역 : 이 버스가 원(의 방법)으로 가나요? 의미 : 이 버스가 돌아가나요? 
+ - Can you take the route I told you? 내가 말한 그 (방향)길로 가주실래요? 
+ -  우리가 말하는 '고속도로(프리웨이)를 타다'와 반대개념으로 쓰는 '로컬길을 타다'의 예 I take the surface street option instead of the freeway they would take the surface street you will go further if you take the surface street - 간혹 'take theh surface street'를 들어본 적이 없어서 '쓰지 않는다'라고 하는 분들이 계시지만 실제 많이 씁니다. 'take the surface street' = 우리가 쉽게 말하는 '로컬을 타다' 
+ -  난 차가 안 밀리는 시간(대)에 가." - rush hour : 차가 가장 막히는 시간 - It's outside of rush hour.﻿
+ 
+#  ♣"어떻게 참여할 수 있나요?" 영어 표현♣
+* Do I have to sign up for a membership to join the class? 수업에 참가하려면? 멤버 가입해야해요? 
+* 거절당할 수 있는 여지도 있어요. You can be rejected. 
+ * Can we g* et a discount if we take more than 10 classes? 10회 이상 수업 들으면 할인 받을 수 있나요? 
+*  Do you o* ffer any package deals? 직역 : 일괄 판매??하나요?? 의미 : 묶어서 한꺼번에 사면 할인(혜택) 받는 거 있어요? 
+ - 친구가 어떤 (직장) 일이 괜찮은 것 같아서 나에게 권할 때 1) offer ? 2) suggest ? offer 와 suggest 둘 다 가능 ========== - 
+*  Do you have any package deals? 직역 : 일괄 판매??하나요?? 의미 : 묶어서 한꺼번에 사면 할인(혜택)받는 거 있어요? 
+*  입장료 = 무조건 admission fee? - admission fee (인정을 받고 들어가는 그림) 놀이공원이나 공연 입장료에 적합 - entrance fee 들어가는 것에 대해서만 지불하는 비용 *enter : 동사) ~를 들어가다 [엔터r] entrance fee : 명사) [엔트런ㅅ] ***[엔터런스]가 되지 않도록 주의하세요 
+*   (입장료가) ~이 포함된 가격이에요? The price of (the pottery) is included in (entrance fee)? 그 도자기값에 입장료도 포함되어 있어요? *괄호안은 여러분이 하고 싶은 말로 대체해 넣어 보세요. *Be동사 'is'를 문장 맨 앞에 놓아도 맞습니다. 
+ 
 # 쓸만한 영어 - 별일 아냐,물타기 - 실생활 영어표현
  *  He wants me to downplay what happened.
  *   직역 : 그는 일어난 것을 내가 대수롭지 않게 여기길 원한다.
