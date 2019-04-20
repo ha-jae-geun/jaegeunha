@@ -35,6 +35,7 @@
 
 
 # 월; 0415
+* 슈퍼맨 https://superfan.link/pc
 * 라이블리 https://m.blog.naver.com/PostList.nhn?blogId=liyu_thirtytwo&currentPage=1
 *   MLB http://post.naver.com/my/series/detail.nhn?seriesNo=46475&memberNo=449115
 *   김형제 http://m.post.naver.com/my.nhn?memberNo=11764317
@@ -52,6 +53,7 @@
 * 돌핀 https://m.blog.naver.com/PostList.nhn?blogId=frost9001
 
 # 화 0416
+* 슈퍼맨 https://superfan.link/pc
 * The Red https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 잭팟; https://m.blog.naver.com/PostList.nhn?blogId=jackpot22
 * 나는나; https://m.blog.naver.com/PostList.nhn?blogId=iamanna12
@@ -69,15 +71,13 @@
 * 채원과영어 https://m.blog.naver.com/PostList.nhn?blogId=learnwithchaewon
 
 
-# 수 0414
-* 종로 정철어 학원 https://m.blog.naver.com/PostList.nhn?blogId=victors87
+# 수 0420
+* 슈퍼맨 https://superfan.link/pc
 * you can do English https://m.blog.naver.com/PostList.nhn?blogId=doeng-official
 *  영어 주유소 http://blog.naver.com/tnwlwldu
 * 신혼영어 https://m.blog.naver.com/PostList.nhn?blogId=sola811
 * 민병철 어학원 https://m.blog.naver.com/PostList.nhn?blogId=jyp1818&currentPage=1
 *  파고다 오늘의 회화 http://post.naver.com/my.nhn?memberNo=4550737&navigationType=push
-*  #skybel http://blog.naver.com/skybels/221137138009
-*  영단:http://m.post.naver.com/my.nhn?memberNo=25662548&navigationType=push
 *  오석태 http://m.post.naver.com/my.nhn?memberNo=2798983
 * Bruce Lim https://m.blog.naver.com/PostList.nhn?blogId=brucelimn
 * 한톡 https://m.post.naver.com/my.nhn?memberNo=37585159
@@ -88,6 +88,7 @@
 * 쎄쎄쎄 https://m.blog.naver.com/PostList.nhn?blogId=cedubook
 
 # 목 0414
+* 슈퍼맨 https://superfan.link/pc
 *  영어 카드 http://blog.naver.com/milgarussem
 *  미드 빅뱅 이론 http://blog.naver.com/yjjy0308/221057882496
 *  다락원 http://post.naver.com/my.nhn?memberNo=4753342&navigationType=push
@@ -108,6 +109,7 @@
 * Sunny https://m.blog.naver.com/PostList.nhn?blogId=pureriver777
 
 # 금 0414
+* 슈퍼맨 https://superfan.link/pc
 *  해피제이드 해피라이프J https://blog.naver.com/jadekim925 
 * 땀 https://m.blog.naver.com/PostList.nhn?blogId=byswoo
 *  쎄듀와 함께 쎄쎄쎄 https://blog.naver.com/cedubook
@@ -128,6 +130,7 @@
 * 넥서스 공시미; https://blog.naver.com/0simiii
 
 # 토 0414
+* 슈퍼맨 https://superfan.link/pc
 * 한국에서 영어잘하기 https://blog.naver.com/joohs86
 * Biggie; https://post.naver.com/my.nhn?memberNo=23132643
 * 약장수 버스터; https://blog.naver.com/pcmi4easy_english
@@ -150,6 +153,7 @@
 
 
 # 일 0414
+* 슈퍼맨 https://superfan.link/pc
 * remain faithful https://m.blog.naver.com/PostList.nhn?blogId=pureriver777&currentPage=1
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 찰리 잉글리시 https://m.blog.naver.com/PostList.nhn?blogId=charleyenglish&currentPage=1
