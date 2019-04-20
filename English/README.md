@@ -51,6 +51,7 @@
 * 한국번역연구소 https://blog.naver.com/ktri8888
 * 올인원 https://m.blog.naver.com/PostList.nhn?blogId=allinoneedutech
 * 돌핀 https://m.blog.naver.com/PostList.nhn?blogId=frost9001
+* 어학당 추가 하기
 
 # 화 0416
 * 슈퍼맨 https://superfan.link/pc
@@ -69,7 +70,7 @@
 * 마젠타섹 https://m.blog.naver.com/PostList.nhn?blogId=dkfjsa
 * 영어교육정말어렵다 https://m.blog.naver.com/PostList.nhn?blogId=dgtongbeon
 * 채원과영어 https://m.blog.naver.com/PostList.nhn?blogId=learnwithchaewon
-
+* 어학당 추가 하기
 
 # 수 0420
 * 슈퍼맨 https://superfan.link/pc
@@ -86,6 +87,7 @@
 * EF 코리아 https://m.blog.naver.com/PostList.nhn?blogId=ef_korea
 * 원스탑에듀 https://m.blog.naver.com/PostList.nhn?blogId=1stopedu
 * 쎄쎄쎄 https://m.blog.naver.com/PostList.nhn?blogId=cedubook
+* 어학당 추가 하기
 
 # 목 0420
 * 슈퍼맨 https://superfan.link/pc
@@ -106,6 +108,7 @@
 * 차니쓰 https://m.blog.naver.com/PostList.nhn?blogId=wkosin
 * 와이넛북스 https://m.post.naver.com/my.nhn?memberNo=5039741
 * Sunny https://m.blog.naver.com/PostList.nhn?blogId=pureriver777
+* 어학당 추가 하기
 
 # 금 0420
 * 슈퍼맨 https://superfan.link/pc
@@ -125,6 +128,7 @@
 * 해커스어학원꿀팁 https://blog.naver.com/hacademia
 * 잉글리쉬 에듀몰 https://tomasuper.blog.me/
 * 넥서스 공시미; https://blog.naver.com/0simiii
+* 어학당 추가 하기
 
 # 토 0420
 * 슈퍼맨 https://superfan.link/pc
@@ -145,7 +149,7 @@
 * 토마토 토익 https://m.blog.naver.com/PostList.nhn?blogId=tomato_talk&currentPage=1
 * 브랜든의 캐나다 https://m.blog.naver.com/PostList.nhn?blogId=kidaradio 
 * 김일승 https://m.blog.naver.com/PostList.nhn?blogId=kishyun
-
+* 어학당 추가 하기
 
 # 일 0420
 * 슈퍼맨 https://superfan.link/pc
@@ -166,17 +170,10 @@
 * 엔토 https://m.blog.naver.com/PostList.nhn?blogId=ing4mo&categoryNo=0&listStyle=style1
 * 시언스쿨 https://m.blog.naver.com/siwonschool0
 *  야나두 https://blog.naver.com/yanadooblog/221323042575
+* 어학당 추가 하기
 
 
 
------------------------------------------------------------------------------
-* 빌보드 https://www.billboard.com/charts/hot-100#/charts/hot-100
-* 네이버 톡톡 http://talkie.naver.com/english/room-list.dict?mode=mobile
-* 네이버 퀴즈 http://wquiz.naver.com/main.dict
-* 데인 https://blog.naver.com/danelee
-## 영어
-* 썰설최
-* 드림텔러
 ------------
 
 구독
