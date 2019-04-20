@@ -117,5 +117,7 @@
 - export MAVEN_HOME=[압축푼위치]
 - export PATH=$PATH:$MAVEN_HOME/bin
 
+## pom.xml
+- Maven version, Java 버전 바꾸기
 
 
