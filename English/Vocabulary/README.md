@@ -1265,6 +1265,7 @@ We need food and water.
 ## breath
 * 숨이 너무 가빠서 넘어갈 듯한 것을 out of breath 라고 하는데요. 이렇게 밖으로 나간 듯한 숨을 다시 제대로 쉬게끔 잡아올 때 [숨을 고르다] 라는 의미를 갖게 되는 표현입니다.
 * = 한숨 돌리려고 걷는 것에 잘못된 일은 전혀 없어. There's nothing wrong with walking to catch your breath.
+* 숨이 차곤 했어요; i would lose my breath
 * 하늘에서 그 섬을 처음 보았을 때 난 숨이 멎는 줄 알았다. My first view of the island from the air took my breath away. 
  * 그만, 나 너무 숨차           Stop, I'm running out of breath 
  * (상반된 얘기를) 숨도 안쉬고 바로             in the same breath ; 
@@ -1812,6 +1813,9 @@ We need food and water.
 * B 에 대해 A 의 선고를 받다. = be condemned to A for B
   * 동사 condemn 은 1) 규탄하다,비난하다 2) 선고를 내리다, 라는 의미를 가지고 있어요. 2번의 의미로 쓰이면 영상에서처럼 주로 수동태로 쓰이고요. A 자리에는 '명사 또는 동사원형' 이 형량을 나타내고, B에는 어떤 잘못을 했는지가 들어갈 수가 있습니다.
   * 그 남자는 텍사스에서 있었던 총기 난사로 사형 선고를 받았습니다. ex) The man was condemned to death for the shooting spree in Texas.
+
+## contrive
+* 동사 contrive 는 ‘어떻게든 성사시키려고 낑낑댐’이에요. 힘든 가운데에서 용케 해보려고 계속 노력하는 걸 말하죠.  It doesn’t feel contrived = 인위적인 느낌이 들지 않죠.
 
 ## contradict
 * 저녁 내내 그녀의 남편은 그녀가 하는 모든 말을 반박했다. [VN] All evening her husband contradicted everything she said. 
@@ -2758,6 +2762,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 내가 죽을 수도 있을 만큼(die for) 어떤 것이 좋다, 그만큼 휼륭하다, 끝내준다는 의미를 가진 표현입니다. 패턴은 주로 「명사+to die for」 혹은 「be동사+to die for」로 씁니다.
   * 그녀는 몸매가 끝내줘. She has a figure to die for.
   * 그는 매우 멋진 차를 소유하고 있다. He owns a car to die for. 
+
+### die down
+* 만약 눈이 한 번에 딱 멈춘 거라면 'stopped snowing'이라는 표현을 썼겠죠? 그렇지만 여기에선 눈이 단계적으로 천천히 그치고 있어서 'died down'이라는 표현을 쓴 거예요!
+	* 비 때문에 불이 서서히 잦아들었다. The fire slowly died down in the rain.
 
 ## dig
 * 듣는 사람의 가슴을 후벼파는 (dig) 말을 하는 뉘앙스 입니다. 그 사람에 대해 부정적인 말을 하며 빈정대고, 놀려대고, 귀에 거슬리는 말을 하는 것으로 take/have a dig at 이라고 표현하기도 해요. = dig at
@@ -9681,6 +9689,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## vanilla
 * 1. vanilla는 '바닐라 아이스크림, 바닐라 라떼'처럼 맛을 의미하기도 하지만 '평범한, 흔하고 별 특색 없는'이라는 뜻도 가지고 있어요.  2. 앞서 아이스크림에 대해 이야기 하고 있었기 때문에 vanilla라는 표현을 사용한 것은 딱 말장난을 노린 거겠죠~ pun은 동음이의어, 다의어, 소리가 비슷한 말 등을 이용해서 하는 말장난을 가리켜요. vanilla는 '바닐라'와, '평범한'라는 여러 뜻이 한 단어에 있는 다의어죠.
+
+## vibrant
+* 혈색 좋아졌따; Your skin looks so vibrant/radiant today = Skin is glowing
 
 ## video
 * video ho: 뮤직비디오에서 야한 옷을 입고 있는 여자 (ho=whore 매춘부)
