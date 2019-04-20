@@ -42,14 +42,22 @@
 5. 상태  	service mysql start/stop/restart/status
 - 출처: https://all-record.tistory.com/183 [세상의 모든 기록]
 
-## 사용
+## MYSQL 사용
 -  로그인: mysql -uroot -p
 
+
+## MYSQL삭제
+1. sudo apt-get purge mysql-server
+2. sudo apt-get purge mysql-common
+3. sudo rm -rf /var/log/mysql
+4. sudo rm -rf /var/log/mysql.*
+5. sudo rm -rf /var/lib/mysql
+6. sudo rm -rf /etc/mysql
 
 
 
 # 톰켓 설치
-##수동
+## 톰켓 수동 설치
 1. Tomcat8 다운로드
 - 다운로드 링크 : http://tomcat.apache.org/download-80.cgi
 
@@ -112,16 +120,16 @@
 - maven 확인: mvn -v
 - http://maven.apache.org/download.cgi 설치
 
-## 환경변수
+## Maven 환경변수
 -  /opt/profile 혹은 ~/.bashrc 나 ~/.bash_profie
 - #vi /etc/profile에서 호나경변수 -> 이후 source /etc/profile 해주기
 - export MAVEN_HOME=[압축푼위치]
 - export PATH=$PATH:$MAVEN_HOME/bin
 
-## pom.xml
+## Maven pom.xml
 - Maven version, Java 버전 바꾸기
 
-# settings 바꾸기
+# Maven Repository settings 바꾸기
 1. windowpreference - setting
 2. user setting 경로를 내 maven의 conf 폴더 안에 setting 으로 변경
 3. apply 누르고 open file -> local repository 경로 수정(권한 필요)
