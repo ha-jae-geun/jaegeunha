@@ -121,4 +121,9 @@
 ## pom.xml
 - Maven version, Java 버전 바꾸기
 
+# settings 바꾸기
+1. windowpreference - setting
+2. user setting 경로를 내 maven의 conf 폴더 안에 setting 으로 변경
+3. apply 누르고 open file -> local repository 경로 수정(권한 필요)
+
 
