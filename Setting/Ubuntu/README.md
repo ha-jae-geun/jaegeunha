@@ -33,6 +33,11 @@
 - windowpreference -> compiler -> 1.8 밑으로 ㅐ리기ㄴ
 
 
+
+
+
+
+
 # MySQL
 1. MySQL 버전을 확인: sudo apt-cache search mysql-server
 2. 설치: sudo apt-get install mysql-server-5.7
@@ -43,6 +48,15 @@
 
 ## 사용
 -  로그인: mysql -uroot -p
+
+
+
+
+
+
+
+
+
 
 
 # 톰켓 설치
@@ -99,6 +113,14 @@
 
 ## 톰켓 삭제
 - sudo apt-get purge --auto-remove tomcat8
+
+
+
+
+
+
+
+
 
 
 # Maven
