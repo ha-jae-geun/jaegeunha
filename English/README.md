@@ -87,7 +87,7 @@
 * 원스탑에듀 https://m.blog.naver.com/PostList.nhn?blogId=1stopedu
 * 쎄쎄쎄 https://m.blog.naver.com/PostList.nhn?blogId=cedubook
 
-# 목 0414
+# 목 0420
 * 슈퍼맨 https://superfan.link/pc
 *  영어 카드 http://blog.naver.com/milgarussem
 *  미드 빅뱅 이론 http://blog.naver.com/yjjy0308/221057882496
@@ -103,16 +103,14 @@
 *  출판사 프렉티쿠스  https://blog.naver.com/knowhereman
 *  소미영어 https://blog.naver.com/somienglish 
 *  영어랑 커피 한잔 https://post.naver.com/my.nhn?memberNo=576800
-*  야나두 https://blog.naver.com/yanadooblog/221323042575
 * 차니쓰 https://m.blog.naver.com/PostList.nhn?blogId=wkosin
 * 와이넛북스 https://m.post.naver.com/my.nhn?memberNo=5039741
 * Sunny https://m.blog.naver.com/PostList.nhn?blogId=pureriver777
 
-# 금 0414
+# 금 0420
 * 슈퍼맨 https://superfan.link/pc
 *  해피제이드 해피라이프J https://blog.naver.com/jadekim925 
 * 땀 https://m.blog.naver.com/PostList.nhn?blogId=byswoo
-*  쎄듀와 함께 쎄쎄쎄 https://blog.naver.com/cedubook
 *  뇌순’s 영어극복 https://blog.naver.com/rmeoqhek38/221011569917
 *  엔구 화상영어 https://blog.naver.com/dmm_korea/221267185883
 *  쌤코치의 영어습관 https://blog.naver.com/georage/221320149267
@@ -121,7 +119,6 @@
 * 파이널리스피크 https://blog.naver.com/finallyspeak
 * 사람 in 출판사 https://post.naver.com/my.nhn?memberNo=4760630
 * 데인; https://blog.naver.com/danelee
-* ebse https://m.post.naver.com/my.nhn?memberNo=42107228
 * 캠퍼스잡앤조이; https://m.post.naver.com/my.nhn?memberNo=12244919
 * 바니의 공부방 https://blog.naver.com/iove4080
 * Cage-free https://blog.naver.com/yp2k
@@ -129,7 +126,7 @@
 * 잉글리쉬 에듀몰 https://tomasuper.blog.me/
 * 넥서스 공시미; https://blog.naver.com/0simiii
 
-# 토 0414
+# 토 0420
 * 슈퍼맨 https://superfan.link/pc
 * 한국에서 영어잘하기 https://blog.naver.com/joohs86
 * Biggie; https://post.naver.com/my.nhn?memberNo=23132643
@@ -138,7 +135,6 @@
 * 소다영어 https://blog.naver.com/hyeonahmo/221208654665
 * 윤선생; https://m.post.naver.com/my.nhn?memberNo=2134697
 * Shall we learn https://blog.naver.com/teacherr10
-* Learnwithchaewon https://m.blog.naver.com/PostList.nhn?blogId=learnwithchaewon
 * 런어바웃 https://m.post.naver.com/my.nhn?memberNo=41637875
 * 잉글리시 애비뉴 https://m.blog.naver.com/PostList.nhn?blogId=avenueinstitute&logCode=0&categoryNo=18&currentPage=1
 * 브리센트 https://m.blog.naver.com/PostList.nhn?blogId=britcent&currentPage=1
@@ -147,34 +143,29 @@
 * 능률 https://m.blog.naver.com/PostList.nhn?blogId=neungyule01&currentPage=1
 * 꾸르꿀 https://m.post.naver.com/my.nhn?memberNo=43677109
 * 토마토 토익 https://m.blog.naver.com/PostList.nhn?blogId=tomato_talk&currentPage=1
-* 큐레이트 https://m.tv.naver.com/curate
 * 브랜든의 캐나다 https://m.blog.naver.com/PostList.nhn?blogId=kidaradio 
 * 김일승 https://m.blog.naver.com/PostList.nhn?blogId=kishyun
 
 
-# 일 0414
+# 일 0420
 * 슈퍼맨 https://superfan.link/pc
-* remain faithful https://m.blog.naver.com/PostList.nhn?blogId=pureriver777&currentPage=1
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 찰리 잉글리시 https://m.blog.naver.com/PostList.nhn?blogId=charleyenglish&currentPage=1
 * 즐겁게 써먹는 영문법 https://m.blog.naver.com/PostList.nhn?blogId=tkfnxh&categoryNo=42&logCode=0&categoryName=즐겁게 써먹는 영문법
 * 단 영ㅇ문법 https://m.blog.naver.com/PostList.nhn?blogId=ddanddan84&currentPage=2
 * 공단기 https://m.blog.naver.com/PostList.nhn?blogId=blackyuna0824&currentPage=2
 * 저스틴 https://m.blog.naver.com/PostList.nhn?blogId=ddside
-* 잉글리시 라이프 https://m.blog.naver.com/PostList.nhn?blogId=aldus9834
 * 오픽 https://m.post.naver.com/viewer/postView.nhn?volumeNo=17456490&memberNo=41482462
 * 바른 영어교육 https://m.blog.naver.com/PostList.nhn?blogId=dearest_jubi
 * 만화로 배우는 https://m.blog.naver.com/PostList.nhn?blogId=studio_lime
-* 헬로 밀루 https://m.blog.naver.com/PostList.nhn?blogId=english4evry1
 * 슈퍼데디 https://m.post.naver.com/my.nhn?memberNo=5518579
 * 미드영어 공부 https://m.blog.naver.com/PostList.nhn?blogId=pjc425
-* 공평한 세상 https://studylong.tistory.com/m
-* 시크한 양이 https://m.blog.naver.com/PostList.nhn?blogId=twinkleannie85
 * 오디너리 소피 https://m.blog.naver.com/PostList.nhn?blogId=sofa1015
 * 1stop 코리아 https://m.blog.naver.com/PostList.nhn?blogId=1stopkorea
 * 612 어학원 https://m.blog.naver.com/PostList.nhn?blogId=wlq1052&currentPage=1
 * 엔토 https://m.blog.naver.com/PostList.nhn?blogId=ing4mo&categoryNo=0&listStyle=style1
 * 시언스쿨 https://m.blog.naver.com/siwonschool0
+*  야나두 https://blog.naver.com/yanadooblog/221323042575
 
 
 
