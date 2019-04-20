@@ -3815,6 +3815,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## go
 * 멀어지는 느낌 == from 
 
+## guess
+* 나도 모르겠다; Your guess is as good as mine
+
 ## gucci
 * 전 이 표현을 접하고 충격을 금치 못했습니다…… 무려 OPIC 기출문제에도 등장했다고 하더라고요. 아니 구찌가 웬 말이야? 싶다가 얼른 검색을 시도했습니다. 물론 원어민 친구에게도 SOS를 쳤죠. 아니나 다를까, 요즘 표현이랍니다! 친구들과 안부를 물을 때 흔히 쓰는 ‘what’s up?’의 다른 말이라는데요. ‘what’s good?’이라는 안부 인사의 발음을 흉내 내서 ‘what’s Gucci?’라고 한다고 하네요.
   * (존, 잘 지내냐?) What’s Gucci my John?
