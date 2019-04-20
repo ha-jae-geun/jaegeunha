@@ -34,10 +34,6 @@
 
 
 
-
-
-
-
 # MySQL
 1. MySQL 버전을 확인: sudo apt-cache search mysql-server
 2. 설치: sudo apt-get install mysql-server-5.7
@@ -48,13 +44,6 @@
 
 ## 사용
 -  로그인: mysql -uroot -p
-
-
-
-
-
-
-
 
 
 
@@ -119,16 +108,12 @@
 
 
 
-
-
-
-
 # Maven
 - maven 확인: mvn -v
 
 ## 환경변수
 -  /opt/profile 혹은 ~/.bashrc 나 ~/.bash_profie
-- #vi /etc/profile에서 호나경변수
+- #vi /etc/profile에서 호나경변수 -> 이후 source /etc/profile 해주기
 - export MAVEN_HOME=[압축푼위치]
 - export PATH=$PATH:$MAVEN_HOME/bin
 
