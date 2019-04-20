@@ -4701,6 +4701,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## ikea
 * 아이키아
 
+## influence
+* You need 3 essentials to become a person of influence. 영향력이 있는 사람이 되기 위해서는 세 가지 필수 요소가 필요해.
+
 ## indian
 * 보답을 바라고 서비스하는 사람; indian giver
 
@@ -7665,6 +7668,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## school
 * : '한 수 배우다, 굴욕적으로 지다' 라는 뜻의 슬랭이에요! 경기나 게임, 대결을 펼치는 상황에서 활용할 수 있겠죠? get schooled 
 
+## scope
+* 중간고사 시험범위가 어떻게돼? What's the scope of midterm exam?
+
 ## score
 * 인간관계에서 keep score하는 건 "넌 ~을 몇 번 했고 나는 몇 번 했네" 하면서 따지는 걸 뜻해요. 특히 "네가 이만큼 잘해줬으니 난 이만큼만 해야지" 또는 "너도 저번에 ~ 했으면서 왜 나한테 그래?" 등 부정적인 뜻으로 많이 사용해요.
 
@@ -9605,6 +9611,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## toe
 * 우리는 상황을 알아 보았다  Dipping our toes in the water
+
+## unassume
+* 겸손하며, 젠체하지 않는 사람들에 써줄 수 있습니다. Humble 과 뜻이 유사하며 이런 사람들은 arrogant(오만한) 태도를 보이지 않습니다. 분명히 정말 멋진 사람인데도, 자신들을 끝없이 낮추고, 드러내지 않을 때 우리는 unassuming이라고 합니다!
+
+
 
 ## unleash
 * unleash an attack = 공격을 퍼붓다; 최근 공공장소에서 애완견의 목줄 착용이 논란이 됐었죠. 바로 그 목줄이 leash 동사로는 ‘매다, 속박하다’입니다. 
