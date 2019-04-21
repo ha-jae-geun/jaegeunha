@@ -10,6 +10,7 @@
 	 * #biblical times; #성서 시대
 	 * #전기 the #former part[half, period] (of) #후기; the latter part[half, period] (of)
 	 *    후기; #review
+* 올해 1월; in January this year; 
 * 현재; 목요일을 기준으로; as of thursday
 	* 시간, 기간, 정기적 일 등, 무언가가 정기적으로 돌아오는 (roll around) 경우에 쓸 수 있는 비격식 표현이에요.
   * 금요일이 올 때 쯤이면, 완전히 여행 준비가 되어 있을거야. ex) By the time Friday rolls around, I will be totally ready for the trip.
