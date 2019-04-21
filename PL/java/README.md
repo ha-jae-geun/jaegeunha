@@ -2981,6 +2981,9 @@ public @interface Override {
  *   }
 
 
+# throw
+1. throw 키워드 : 메소드 내에서 상위 { }( 코드 블록 ) 으로 예외처리를 전달한다 .
+2. throws 키워드 : 메소드에서 상위 메소드로 예외처리를 전달한다 .
 
 ## throw 메소드 이용 예외처리
  * package jg.begin.start.jae_0312;
