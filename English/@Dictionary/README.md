@@ -1257,6 +1257,7 @@
  * Stupid advice on how to cope with spending Valentine’s Day alone
  * #job done; 잘했어
 * # 감당;  * 결과를 감당할 수 있으면; #pay the consequence
+	* # 감수하다; That's what you get for -ing
  * 빛이 겉 잡을수 없어졌다.       My debt is uncontrollable / getting out of hands.
  * 난 이 감정을 더 이상 감당할 수 없어       I can't afford this feeling anymore
  * to #get out of hand(#hand); the party is getting out of hand
