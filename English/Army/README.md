@@ -105,6 +105,7 @@
 * 요새 											fortress
 * #본거지, #기지; #compound; to his compound
 * 그는 #병장으로 #전역했다 [sάːrdʒənt] He was a sergeant when he was discharged from the service
+	 전역하다; Expiration of Terms of Service; I will ETS in a week
 * #탄약 am·mu·ni·tion [|ӕmju|nɪʃn] The letter gave her all the ammunition she needed
 * #ammunition, #rounds, #shells - 탄약 
 * #수류탄; throw a hand grenade 수류탄을 투척하다 explode the hand grenade 수류탄을 터뜨리다
