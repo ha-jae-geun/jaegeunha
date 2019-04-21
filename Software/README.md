@@ -155,3 +155,10 @@
 * ppt -> pdi small pdf https://smallpdf.com/
 * 이지지에프 http://software.naver.com/software/summary.nhn?softwareId=GWS_001463
 www.adobecolor.com
+
+
+
+# 우분투
+
+* 어도비: $ sudo apt-get install flashplugin-installer
+
