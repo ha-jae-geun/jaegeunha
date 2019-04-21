@@ -186,3 +186,6 @@
 *  There for I think ~ is better thatn ~
  I come to the conclusion that S+V
  
+ 
+ # 자기소개
+ - 나는 가족이랑 같이산다; i live with my Family members
