@@ -527,6 +527,9 @@
 # 격리하다
 * silo (off) : 격리시키다. 분리시키다; 명사로 silo 는 곡식을 따로 저장해 놓는 [보관 창고] 또는 지하에 미사일을 저장해 놓는 [미사일 발사 기지] 를 의미해요; 이렇게 무언가를 따로 떼어놓는다는 의미로 동사로 쓰였을 때는 [격리시키다/분리시키다] 고 쓰이며, off 를 붙이게 되면 조금 더 '멀리' 격리시켜놓는 것을 의미합니다. 
 
+# 결과
+- 겨롸가 어떻게 나올지는 아무도 몰라; Nobody knows it's going to turn out
+
 # 결정하다
 * 결정하는 데 있어서 좀 더 영향력을 미치거나 주도적으로 결정하는 것을 call the shots 이라고 합니다.	
 	* 나는 그에게 프랑스로 가지 말라고 얘기했지만, 그는 기필코 가려고 한다. (dead set on~ : ~하기로 단단히 마음 먹다) I've been trying to talk him out of moving to France, but he's dead set on going.
