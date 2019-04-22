@@ -854,6 +854,10 @@ We need food and water.
 ## behave
 * * behave badly = 못되게 굴다 * behave yourself! = 말썽 피우지 마!
 
+## birth
+-  be separated at birth = 출생 직후 헤어지다
+	- = 아들 하나가 있었는데, 태어날 때 죽었어요. They had one son, who died at birth.
+
 ## bin
 * 골포스트; top bins; 골포스터에 골을 넣을 거에요; i'm calling top bins
 
@@ -2149,6 +2153,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## concert
 * 둘 이상의 사람/단체/나라 등이 원하는 것을 얻기 위해 무언가를 함께 할 때 쓰는 형용사인데요. 주로 다음과 같은 단어들과 함께 쓰입니다. 참고로, 공연을 뜻하는 '콘서트'도 '여럿이서  협동하다', '여럿이서 하모니를 이룬다'는 뜻에서 나왔습니다.
 	* concerted effort = 단결, 혼신의 노력 concerted action = 담합 concerted campaign = 공동/합작 캠페인
+
+## carbon
+- carbon footprint = (개인/단체) 이산화탄소 배출량; 개인/단체/지역이 직간접적으로 발생시키는 온실 기체의 총량을 의미하는 용어에요. 우리가 일상 생활에서 사용하는 연료, 전기, 제품 등이 모두 포함된 개념이죠. 
+	- = 우리 모두 탄소발자국을 줄이는 방안을 찾아야 해요.  We all need to look for ways to reduce our carbon footprint.
 
 ## card
 * = 계획/의도/생각을 드러내다 throw one's cards on the table; 영미권 문화에서 카드놀이는 어릴 적부터 자연스럽게 접하는 문화인데요. 그렇다 보니 카드 관련한 표현이 종종 있습니다. 본인이 쥐고 있어서 상대방이 볼 수 없는 카드는 보통 숨겨둔 계획, 의도, 생각 등을 의미하는데요. 이걸 테이블에 던지는 모습의 표현이니 자신의 계획/의도/생각을 드러내는 걸 의미해요. throw 대신 show라고 쓸 수도 있습니다.
@@ -6488,6 +6496,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ### practically
 * 실질적으로; 이건 사용할수나 없어; It's practically unusuable
 
+## process
+*  process = 머릿속으로 상황을 파악하다
+	- = 나 이게 뭔지 먼저 파악해야 겠는데. I guess I need time to process it.
+
 ## problem
 * 불만 없어; i got no problems;; 불만 많아; He's got problems with everything
 
@@ -8023,6 +8035,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 머리가 듬성하고 곱슬; his hair was spare and frizzy
 * 남이 어떤 나쁜 일을 겪지 않도록 해주는 것을 spare라고 합니다. 사용시 어순은 「spare 사람 (from) 불쾌한 일」입니다. 영상속 대사를 살펴보면 spare(받지 않게 해주다) / others(다른 사람들) / the anguish of the disease(이 병으로부터의 고통)이 되겠습니다.
 	* 그녀는 그녀의 어머니에게 어떤 걱정도 끼치지 않길 바랬다. She wanted to spare her mother from any anxiety.
+
+## separate
+-  be separated at birth = 출생 직후 헤어지다
+	- = 아들 하나가 있었는데, 태어날 때 죽었어요. They had one son, who died at birth.
 
 ## sequence
 1. 일련의 연속된 사건들 2. (영화 장면)  3. 순서, 차례; THe proper sequence of steps must be followed by
