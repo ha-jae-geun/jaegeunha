@@ -215,6 +215,7 @@
 	
 ## servlet-context.xml
 - 서블릿에서 사용한 bean이 들어간다.
+- 여기서 bean을 사용하려면 <beans:bean /> 이렇게 사용
 
 ## root-context.xml
 - 데이터베이스 연동, DAO 연동에 필요한 bean이 들어간다.
