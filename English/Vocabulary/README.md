@@ -3892,6 +3892,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
     * 난 콘서트 티켓을 위해 거의 500달러나 썼는데, 형편없었어! ex) I spent almost $500 to get the concert ticket, but it was grim!
 
 ## grind
+* 힘들게 일하는걸 즐겨야돼요; have to enjoy the daily grind
 * 지치신게 보였어요; i would just see how she grinded
 * 성행위 연상 춤                  bump and grind
   * 열심히 살다                   let's grind
@@ -8448,6 +8449,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 소원 빌 준비 됐니? Ready to wish upon a star?
 
 ## start
+* 시비걸지마; Don't you start with me
 * - start off by ~ing : ~하면서 시작하다
 * - start off with : 로 시작하다
 	* 쉬운 걸로 시작해보죠. Let's start off with an easy one.
