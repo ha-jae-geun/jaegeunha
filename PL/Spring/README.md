@@ -208,3 +208,15 @@
 - 동적 객체 = 메소드
 
 
+
+# resources 폴더
+- html, js, json, img는 resource 폴더 안에 넣어주어야 한다.
+	- 스프링은 무조건 MVC2 패턴으로 이루어져 있다.
+	
+## servlet-context.xml
+- 서블릿에서 사용한 bean이 들어간다.
+
+## root-context.xml
+- 데이터베이스 연동, DAO 연동에 필요한 bean이 들어간다.
+- ⎼context 방식은 Spring MVC Project의 root-context.xml에서는 지원되지 못하므로 클래스 로드 방식으로 설정해야 한다.
+
