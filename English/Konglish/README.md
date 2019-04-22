@@ -1,4 +1,5 @@
 # 기타
+* 참외: Korean melon
 * - 너 그의 백넘버를 알아? Do you know his uniform number?
 * - 그리고...크레파스! And..oil pastels; 크레파스는 크레용 + 파스텔  [pæˈstel]
 * 전봇대를 고치고 있따; fixing a utility pole
