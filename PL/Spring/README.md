@@ -170,4 +170,6 @@
 - 스프링 aop: 메소드 조정; 스프링 java에서 사용
 	- DTO, DAO
 
+## 프록시 패턴
+- connection pool 같이 담아 놓은 것을 갖다 쓰는 것.
 
