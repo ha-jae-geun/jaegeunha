@@ -254,3 +254,6 @@
 ## 매퍼; 쿼리문
 - CRUD: 기본적인 데이터 처리; Create Read Update Delete
 
+
+# 마이바티스
+- 기본이 PreparedStatement가 기준
