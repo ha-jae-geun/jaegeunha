@@ -316,5 +316,8 @@
 - 마켓 -> jad install -> 재실행 -> (Window preference -> general -> Editor -> File Assosiation)-> Decompiler Default -> 
  
 
-# Window Preference
+## Window Preference
 - General -  font/Syntax/Save
+
+# MyBatis
+- 3.2 이상 버전은 JDK 1.6 이상 버전을 요구한다.
