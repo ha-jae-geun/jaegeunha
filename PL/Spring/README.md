@@ -104,6 +104,8 @@
 - ParameterBean parameterBean = (ParameterBean) context.getBean("parameterBean");
 		parameterBean.msg();
 
+- ApplicationContext context = new GenericXmlApplicationContext("classpath:/context/Template.xml"); classpath 보다 generic을 쓰는 추세; 이때 classpath:를 쓰는 것을 권장한다.
+
 ## javabean2
 - <bean class="jae.spring.test.Parameter" id="parameter"></bean>
 - <bean class="jae.spring.test.ParameterBean" id="parameterBean">
@@ -125,6 +127,7 @@
 - @Autowired: 타입 -> 이름; 스프링 지원
 	- 어노테이션, 생성자, 필드, 메소드에 
 - @Inject: 타입 -> 이름; 자바에서 지원
+	- autowire 보다도 inject를 사용하는 추세; 다른 언어와의 
 - @Resource: 이름 -> 타입; 자바에서 지원
 - @
 
@@ -220,4 +223,5 @@
 ## root-context.xml
 - 데이터베이스 연동, DAO 연동에 필요한 bean이 들어간다.
 - ⎼context 방식은 Spring MVC Project의 root-context.xml에서는 지원되지 못하므로 클래스 로드 방식으로 설정해야 한다.
+
 
