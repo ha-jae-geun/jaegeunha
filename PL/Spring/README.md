@@ -231,9 +231,26 @@
 		- 시퀀스는 점프기능이라는 단점은 있지만 트랜젝션의 발생은 막아준다.
 - 이왕이면 sequence나 script로 방어; 왜냐하면 부하가 많이 일어나기 때문이다. 그리고 Rollback을 많이 주면 나중에 코드가 꼬인다.
 
-# expression
+## expression
 - <aop:config>
 - <aop:pointcut id="txPointCut" expression="execution(* jae.ha.spring.db.ConnectDB..insert*(..))"/>
 	- (..): 매개변수가 1개 이상; 
 - <aop:advisor advice-ref="txAdvice" pointcut-ref="txPointCut" />
 - </aop:config>
+
+
+# ORM
+- insert, update, delete 쿼리문을 xml에 심어주겠다.
+- 바인드 변수를 #{deptno}로 사용
+- 바인드 변수를 DB에 넣으려면 ${deptno} 사용
+
+# ORM 정의
+- ORM은 데이터베이스 연계처리를 위하여 기존의 SQL에 의존하는 것이 아니라 직접 테이블의 컬럼을 자바 클래스에 매핑하거나 XML 형태의 SQL을 실행하여 처리를 수행하는 Persistence Layer를 담당하는 Framework 개발모델로 대표적으로 Hibernate, iBatis, MyBatis, Spring JPA 등이 있다.
+- ORM은 객체타입 데이터인 Java의 Object와 관계형 데이터인 관계형 데이터베이스의 테이블 사이에서 개념적으로 일치하지 않는 부분을 해결하기 위하여 이 둘 사이의 데이터를 매핑(Mapping)하는 것으로 객체타입 데이터와 관계형 데이터의 각 속성들을 매핑할 경우에 관계형 데이터를 객체타입 데이터처럼 사용하는 것이 가능하다.
+- 자바 코드 내에서 SQL문 작성 없이 간단한 매핑 설정으로 데이터베이스의 테이블 데이터를 자바 객체로 전달 받을 수 있는 것이다.
+
+## 데이터베이스 설정
+
+## 매퍼; 쿼리문
+- CRUD: 기본적인 데이터 처리; Create Read Update Delete
+
