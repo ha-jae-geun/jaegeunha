@@ -292,9 +292,16 @@
 ## Maven
 - http://maven.apache.org/download.cgi -> apache-maven-3.6.1-bin.zip
 
+
+### Maven 환경변수 설정
+1. 환경변수 이름: MAVEN_HOME(매번 버전 바뀌면 Path 그때마다 바꿔줘야하기 때문에 해줌)
+2. PATH 추가: %MAVEN_HOME%\bin
+- 혹은 bin을 바로 PATH에서 추가해주어도 됨
+3. cmd에서 mvn-version으로 확인
+4. windows preference 에서 User setting, Installations 수정하기
+
 ## import
 - import - maven - existing maven project
-
 
 
 ### mvn 레파지토리 직접 설정
@@ -328,12 +335,9 @@
 
 ### Maven Ojdbc 혹은 MySQL 라이브러리 설정
 
-### 환경변수 설정
-1. 환경변수 이름: MAVEN_HOME(매번 버전 바뀌면 Path 그때마다 바꿔줘야하기 때문에 해줌)
-2. PATH 추가: %MAVEN_HOME%\bin
-- 혹은 bin을 바로 PATH에서 추가해주어도 됨
-3. cmd에서 mvn-version으로 확인
-4. windows preference 에서 User setting, Installations 수정하기
+### Maven login4j
+- idoctype warning 제거하기
+
 
 ## 톰켓 스프링 툴 
 - window preference - Runtime Envirionment - Add - 톰켓 폴더 설정
