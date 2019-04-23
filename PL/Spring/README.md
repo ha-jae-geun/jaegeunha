@@ -230,3 +230,10 @@
 	- 기본키의 중복(등록); 
 		- 시퀀스는 점프기능이라는 단점은 있지만 트랜젝션의 발생은 막아준다.
 
+
+# expression
+- <aop:config>
+- <aop:pointcut id="txPointCut" expression="execution(* jae.ha.spring.db.ConnectDB..insert*(..))"/>
+	- (..): 매개변수가 1개 이상; 
+- <aop:advisor advice-ref="txAdvice" pointcut-ref="txPointCut" />
+- </aop:config>
