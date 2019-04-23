@@ -303,7 +303,10 @@
 	- <artifactId>spring-context</artifactId>
 	- <version>${org.springframework-version}</version>
 
-### pom.xml
+### Maven pom.xml 수정
+### 버전 수정
+<org.springframework-version>4.1.1.RELEASE</org.springframework-version>
+
 #### plugin 수정
 - Maven 버전 수정
 - <source>1.8</source>  // 자바 버전
@@ -316,6 +319,14 @@
 
 ### Maven project facet
 - build path에서 project facet에서 자바 1.8 변경
+
+
+
+### Maven 없는 repository 추가하기
+1. effective Pom에서 repositories 복사
+2. pom에서 dependencies 밑에
+
+### Maven Ojdbc 혹은 MySQL 라이브러리 설정
 
 ### 환경변수 설정
 1. 환경변수 이름: MAVEN_HOME(매번 버전 바뀌면 Path 그때마다 바꿔줘야하기 때문에 해줌)
