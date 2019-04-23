@@ -324,7 +324,7 @@
 
 ### Maven 없는 repository 추가하기
 1. effective Pom에서 repositories 복사
-2. pom에서 dependencies 밑에
+2. pom에서 dependencies 밑에 추가하고 경로에 maven에서 복사한 repository 
 
 ### Maven Ojdbc 혹은 MySQL 라이브러리 설정
 
