@@ -295,11 +295,27 @@
 ## import
 - import - maven - existing maven project
 
+
+
 ### mvn 레파지토리 직접 설정
 - 1. 터미널에서 mvn install 2. pom.xml에서 dependency 
 - <groupId>org.springframework</groupId>
 	- <artifactId>spring-context</artifactId>
 	- <version>${org.springframework-version}</version>
+
+### pom.xml
+#### plugin 수정
+- Maven 버전 수정
+- <source>1.8</source>  // 자바 버전
+- <target>1.8</target> // 자바 버전
+- <encoding>UTF-8</encoding>
+
+### Maven java library 
+- buildpath에서 jre 지우고 add library해서 수정
+
+
+### Maven project facet
+- build path에서 project facet에서 자바 1.8 변경
 
 ### 환경변수 설정
 1. 환경변수 이름: MAVEN_HOME(매번 버전 바뀌면 Path 그때마다 바꿔줘야하기 때문에 해줌)
