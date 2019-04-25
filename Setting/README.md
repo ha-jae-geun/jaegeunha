@@ -360,3 +360,6 @@
 ## MyBatis 3.4.1
 
 ## MyBatis Spring 1.3.1
+
+## tomcat 경로 설정
+- 톰켓 더블 클릿 -> Modules 메뉴 -> path '/'로 설정
