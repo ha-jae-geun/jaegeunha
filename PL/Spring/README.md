@@ -272,3 +272,6 @@
 
 ## Request 객체
 - http 프로토콜 꺼; 웹으로 돌면 다 http의 request 객체를 
+
+## TCP/IP
+- Request가 아니라 패킷으로 
