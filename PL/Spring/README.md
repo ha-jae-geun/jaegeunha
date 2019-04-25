@@ -269,6 +269,10 @@
 ## AJAX; 클라이언트 서버 사이에 request 별도
 - 클라이언트 -> request 별도(xml json) -> 서버 (포워드) -> 자바
 - 비동기식; 절대 경로 사용
+- 통신이 모두 request 객체만을 이용하여 통신하는 것이 아닌 
+
+## 동기식
+- request 객체로만 이용한 통신
 
 ## Request 객체
 - http 프로토콜 꺼; 웹으로 돌면 다 http의 request 객체를 
