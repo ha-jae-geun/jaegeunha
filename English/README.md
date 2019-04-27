@@ -34,7 +34,7 @@
 -------------
 
 
-# 월; 0415
+# 월; 0422
 * 슈퍼맨 https://superfan.link/pc
 * 라이블리 https://m.blog.naver.com/PostList.nhn?blogId=liyu_thirtytwo&currentPage=1
 *   MLB http://post.naver.com/my/series/detail.nhn?seriesNo=46475&memberNo=449115
@@ -53,7 +53,7 @@
 * 돌핀 https://m.blog.naver.com/PostList.nhn?blogId=frost9001
 * 어학당 추가 하기
 
-# 화 0416
+# 화 0423
 * 슈퍼맨 https://superfan.link/pc
 * The Red https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 잭팟; https://m.blog.naver.com/PostList.nhn?blogId=jackpot22
@@ -72,7 +72,7 @@
 * 채원과영어 https://m.blog.naver.com/PostList.nhn?blogId=learnwithchaewon
 * 어학당 추가 하기
 
-# 수 0420
+# 수 0424
 * 슈퍼맨 https://superfan.link/pc
 * you can do English https://m.blog.naver.com/PostList.nhn?blogId=doeng-official
 *  영어 주유소 http://blog.naver.com/tnwlwldu
@@ -89,7 +89,7 @@
 * 쎄쎄쎄 https://m.blog.naver.com/PostList.nhn?blogId=cedubook
 * 어학당 추가 하기
 
-# 목 0420
+# 목 0425
 * 슈퍼맨 https://superfan.link/pc
 *  영어 카드 http://blog.naver.com/milgarussem
 *  미드 빅뱅 이론 http://blog.naver.com/yjjy0308/221057882496
@@ -110,7 +110,7 @@
 * Sunny https://m.blog.naver.com/PostList.nhn?blogId=pureriver777
 * 어학당 추가 하기
 
-# 금 0420
+# 금 0426
 * 슈퍼맨 https://superfan.link/pc
 *  해피제이드 해피라이프J https://blog.naver.com/jadekim925 
 * 땀 https://m.blog.naver.com/PostList.nhn?blogId=byswoo
