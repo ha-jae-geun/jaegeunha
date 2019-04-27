@@ -40,9 +40,7 @@
 *   MLB http://post.naver.com/my/series/detail.nhn?seriesNo=46475&memberNo=449115
 *   김형제 http://m.post.naver.com/my.nhn?memberNo=11764317
 *  하루 10분 http://post.naver.com/my.nhn?memberNo=904209&navigationType=push
-*  고딸 http://post.naver.com/my.nhn?memberNo=1061586&navigationType=push
 *  겁 없이 잉글리쉬 http://post.naver.com/my.nhn?memberNo=837891&navigationType=push
-*  매일 3분 생활영어 http://m.post.naver.com/my.nhn?memberNo=25246384
 *  러브굿    	http://hi007.tistory.com/
 *  텔라 http://blog.naver.com/PostList.nhn?blogId=tellakor&categoryNo=0&from=postList
 * LEX & Language https://m.blog.naver.com/PostList.nhn?blogId=chillaxer
@@ -52,14 +50,13 @@
 * 올인원 https://m.blog.naver.com/PostList.nhn?blogId=allinoneedutech
 * 돌핀 https://m.blog.naver.com/PostList.nhn?blogId=frost9001
 * 어학당 추가 하기
+* 타이핑
 
 # 화 0423
 * 슈퍼맨 https://superfan.link/pc
 * The Red https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 잭팟; https://m.blog.naver.com/PostList.nhn?blogId=jackpot22
 * 나는나; https://m.blog.naver.com/PostList.nhn?blogId=iamanna12
-*   이상민 영어 http://blog.naver.com/minga2015
-* 보카 콘서트 https://m.post.naver.com/viewer/postView.nhn?volumeNo=3949189&memberNo=468879&searchKeyword=영어
 *   ECIK http://blog.naver.com/eckedu
 *   미드 표현 http://blog.naver.com/pjc425/220983107635
 *   체니 http://m.post.naver.com/my.nhn?memberNo=2562700
@@ -71,6 +68,7 @@
 * 영어교육정말어렵다 https://m.blog.naver.com/PostList.nhn?blogId=dgtongbeon
 * 채원과영어 https://m.blog.naver.com/PostList.nhn?blogId=learnwithchaewon
 * 어학당 추가 하기
+* 타이핑
 
 # 수 0424
 * 슈퍼맨 https://superfan.link/pc
@@ -88,6 +86,7 @@
 * 원스탑에듀 https://m.blog.naver.com/PostList.nhn?blogId=1stopedu
 * 쎄쎄쎄 https://m.blog.naver.com/PostList.nhn?blogId=cedubook
 * 어학당 추가 하기
+* 타이핑
 
 # 목 0425
 * 슈퍼맨 https://superfan.link/pc
@@ -109,6 +108,7 @@
 * 와이넛북스 https://m.post.naver.com/my.nhn?memberNo=5039741
 * Sunny https://m.blog.naver.com/PostList.nhn?blogId=pureriver777
 * 어학당 추가 하기
+* 타이핑
 
 # 금 0426
 * 슈퍼맨 https://superfan.link/pc
@@ -129,6 +129,7 @@
 * 잉글리쉬 에듀몰 https://tomasuper.blog.me/
 * 넥서스 공시미; https://blog.naver.com/0simiii
 * 어학당 추가 하기
+* 타이핑
 
 # 토 0420
 * 슈퍼맨 https://superfan.link/pc
@@ -150,6 +151,7 @@
 * 브랜든의 캐나다 https://m.blog.naver.com/PostList.nhn?blogId=kidaradio 
 * 김일승 https://m.blog.naver.com/PostList.nhn?blogId=kishyun
 * 어학당 추가 하기
+* 타이핑
 
 # 일 0420
 * 슈퍼맨 https://superfan.link/pc
@@ -171,7 +173,7 @@
 * 시언스쿨 https://m.blog.naver.com/siwonschool0
 *  야나두 https://blog.naver.com/yanadooblog/221323042575
 * 어학당 추가 하기
-
+* 타이핑
 
 
 ------------
