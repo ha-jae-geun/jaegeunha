@@ -1,4 +1,5 @@
 # Programming
+* git bash 설치
 * git config --global user.name "이름"
 * git config --global user.email "깃허브 메일주소" // 매번 물어보는 귀찮음을 피하기 위해 설정.
 * mkdir ~/MyProject   // 로컬 디렉토리 만들고
