@@ -4191,7 +4191,7 @@
  * # 불침번 # 보다 # 지켜보다 # 주시 # 훑어보다 | # 노려 # 째려 # 관점 # 방관 #see ##look #watch
 * #spot; 1. # 찾아내다, # 발견하다; spot ~
   * Look for; 찾느 ㄴ과정에 집중; find: 찾는 결과에 집중; search; 특정 장소를 뒤진다는 의미
- * 그녀를 # 한눈에 알아봤다. I recognized her on sight. on sight: 보자마자, 발견 즉시, 한눈에
+ * 그녀를 # 한 눈에 알아봤다. I recognized her on sight. on sight: 보자마자, 발견 즉시, 한눈에
  * That's not what i'm looking for
  * 그냥 보고있어요 I'm just looking around = i'm just browsing
  * 나 여기있는건 어떻게 알았어? How’d you find me here?
@@ -9308,7 +9308,8 @@ retaliate
 # 한번쯤은
 * at one point or another
 * # 한번에; 1. in one go 는 '한 번에'인데요. 좀 더 풀어서 설명하면 '(중간에 쉬거나 끊지 않고) 한 번의 시도만에'라는 뜻이에요. 
-  * 그가 음료를 한 번에 다 마셨다. He downed his drink in one go. 
+  * 그가 음료를 한 번에 다 마셨다. He downed his drink in one go.
+  * 한번에 하나씩; one thing at a time
 
 # 합격
 * : 후보자 · 합격 대기자 명단에 오르다 I'm waitlisted at 대학교

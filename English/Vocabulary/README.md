@@ -328,6 +328,9 @@ We need food and water.
 * let alone = 말할 것도 없고, 물론이고, 고사하고
   * = 애슐리는 자전거도 못타는데, 자동차 운전은 말할 것도 없지. Ashely can't ride a bicycle, let alone drive a car.
 
+## alive
+* 나는 괜찮아; i'm alive kick it
+
 ## along
 ** 가는 길에 맥주 한캔 사갈게; i'll grab some beer along the way
 
@@ -611,6 +614,9 @@ We need food and water.
   * = 그녀는 머릿결은 진짜 매력적인 것 같아. ②Something about (___) makes (___) so (___). ② her hair / her / attractive
   * == 난 그녀의 눈을 보면 뭔가 좀 불안해져. ③Something about  makes (___) so (___). ③ her eyes / me / nervous
                                 
+
+## alive
+
 
 ## angle
 * 세상의 쓴맛 단맛을 다 안다; he knows all the angles
@@ -2467,6 +2473,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 판타지 소설이나 영화, 게임을 좋아하시는 분들은 알만한 단어입니다. dwarf. 명사로는 신화 속에 나오는 '난쟁이' 를 의미하는데요. 지금도 왜소증 환자를 dwarf 라고 합니다. 때론 모욕적으로 들릴 수도 있으니 조심하셔야 해요.
   * 그 농구 선수는 말 그대로 그의 옆에 선 모두를 왜소해 보이게 만들었다. ex) The basketball player dwarfed literally everyone standing next to him.
 
+## devil
+* 대체 이거 뭐야? What the devil is this?
+
 ## drum
 * drum up business = 사업을 활성화/홍보하다; 앞에서 나왔던 blow the whistle 이라는 표현과 비슷하게, 누군가 북을 치게 되면 사람들의 관심을 받는 모습에서 나온 표현이에요. 다만 북의 쓰임은 호루라기와는 다르게 무언가를 홍보하려고 할 때 쓰거나 응원에 쓰이는 도구이기 때문에 1) 사업을 홍보하거나 2) 무언가에 지지를 얻으려고 노력하다- 라는 의미로 쓰이는 표현입니다.
     * = 그 지역 사업주들은 그들의 사업 홍보를 위해 지역 신문에 광고를 내기로 결정했다. The business owners in the area decided to put up some ads on the local newspaper in order to drum up their business.
@@ -2599,6 +2608,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## daisy
 * [감탄사] 영차, 으차 ((사람을 오르도록 밀어주며)) oops-a-daisy 미국·영국 [ú:psədèizi]  영국식   단어장추가
 * 이용자 참여  그게 옛날에나 모이던 동창회이지, 얼마 안가서 곧 없어질 거야. It is an ex-Union and it is pushing up the Daisies. 듣기
+
+## doctor
+* 조작하다, 날조하다
+  * 사진은 쉽게 조작할 수 있어; photographs can be easily doctored
 
 ## day
 * 필요한 게 그날에 따라 달라질 수 있지. Your needs can differ from day to day.
@@ -4484,6 +4497,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 최종 결정을 하기 전에 돌아가서 와이프랑 다시 한 번 얘기해 봐야겠어요. ex) I gotta go back and hash it over with my wife before making a final decision.
 
 ## hassle
+* 정말 번거러워요; can be such a hassle
 * 우리 부모님은 내#가 늦게 다니는 것에 대해 항상 잔소리한다.
 * My parents always hassle me about staying out too late.
 * 나는 그 경기에 가고 싶었지만 너무나 번거로워서 그냥 집에 있었다.
@@ -4941,6 +4955,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 
 ## kick
+* 나는 괜찮아; i'm alive kick it
 * 재미 좀 보겠어; You'll get a kick out of this; 1934년 Cole Porter의 노래에서 유명한 표현; kick: 스릴, 쾌감, 재미
   * 2) 강력한 동기부여 = a kick in the butt 엉덩이를 걷어차면 화들짝 놀라 깨어나는 모습이겠죠? 그런 모습에서 유래된 표현으로, 조금 동기부여가 되지 않는 사람에게 동기부여를 해주는 다소 강한 말이나 행동을 의미하는 표현이에요.
     * 사는 동안 언젠가 우리 모두는 강력한 동기부여가 필요해요. ex) We all need some kind of kick in the butt at some point in our life.
@@ -5003,6 +5018,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## knob
 * 손잡이 돌리면; Once you turn the knob
+
+## keep
+* 소장할 만한 사진이에요; That's a keeper
 
 ## knock
 * knock out cold = 때려서 기절시키다; out cold 에는 ‘완전히 실신한(completely unconscious)’ 이란 뜻이 있습니다. 여기에 knock(때리다)가 붙은 것이죠. 
@@ -5343,6 +5361,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 우리는 무슬림 원칙에 따라 살아야 했다.  ex) We had to live by the Muslim principle. 
 * 이 청바지는 사용감이 좀 있어요. These jeans are a bit lived-in.
   * 새것이 아니라 누가 오랜 시간 사용한 흔적, 세월의 흔적이 느껴지는 걸 lived-in이라고 해요. 옷이나 장소와 함께 자주 쓰이는 표현이에요.
+* live with: 감수하다, 견디다
+  * so i have to live with the choices that i've made
+
 
 ## like
 *  like 동명사 형식은 "내가 그걸 좋아해서 그렇게 한다"는 의미와 "그렇게 할 수 있는 기회가 왔을 때 그것을 즐겨한다"는 의미를 내포하지만
@@ -5796,6 +5817,15 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## nip
   * 살을 에는 듯한 냉기. a nasty nip in the air 듣기 출처:프렌딕
 
+## next
+* 없는 것과 마찬가지인; next to nothing
+* 부정적인 단어 앞에 next to가 붙으면 '거의'라는 뜻이 된다; almost 보다 임펙트 있는 표현
+  * 이 차는 거의 가치가 없어; this car is worth next to nothing
+
+
+## nerd
+1. 뭔가를 굉장히 좁고 깊게 아는사람(공포영화 덕후, 밀덕, 블랙핑크 덕후)
+2. 범생이 패션을 한 사람(안경, 셔츠, 서스팬더, 스웨터 등)
 
 ## night
 * The night is young = 밤은 아직 일러.
@@ -7299,6 +7329,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 기록을 자시 조회해볼게요; LEt me just pull up your records
 * 공식적으로 이야기하다 = go on record 자신의 입장, 견해 등을 이야기할 때 무언가를 공식적으로 표명하여 기록에 남기고 싶을 때 쓰는 표현입니다. 영상에서는 남녀가 티격태격하며 자기가 무엇을 수리했는지 조목조목 따지려고 하기에 의도적으로 쓴 표현이라고 볼 수 있습니다.
   * 공식적으로 이야기하기 전에, 시간을 들여 정말로 그렇게 하고 싶은지 생각해 보세요. ex) Before going on record, take your time and think if you really want to do that.
+
+## rose
+* bed or roses: 장미화단
  
 ## rebound
 * rebound = 헤어진 연인을 잊기 위해 만나는 사람; 이별의 아픔을 잊으려고, 혹은 실연 후 홧김에 만나는 사람이 rebound 에요. 사람뿐만 아니라 그런 관계나 상태 모두 rebound 를 넣어 표현합니다. - rebound relationship: 실연의 상처를 극복하려 다른 사람을 만나는 것 - on the rebound: 극복 못 한 / 잊으려는 반발심에
@@ -7939,9 +7972,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 경기가 한창 진행 중이다   The game is in full swing[blast].
   * 파티나 선거, 경기, 휴가철 등 어떤 행사나 활동이 가장 최고조로 활발하다는 뜻의 표현입니다. 
 * 가능할 것 같아; i think i could swing that; swing: 잘 해내다
-
-## spur
-* spur = 박차를 가하다, 본격적으로 을 하다; 명사로 spur 는 '자극제, 원동력', 동사로는 '원동력이 되다, 자극하다'의 의미가 있습니다. 보통 '원동력이 되다' 라고 쓰일 경우엔 목적어로 사람이 오지만, 영상에서처럼 사물이 올 경우엔 그것에 [박차를 가하다] 라는 의미로 쓰여요.
+* 문은 양쪾으로 열려; The door swings both ways	
   * = 수요에 박차를 가하기 위해서 정부를 이자율을 낮춰야 한다. Government should cut interest rates to spur demand.
 
 ## split
@@ -8137,6 +8168,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 너희들 상황 다 정리 했어? Did you guys get everything straightened out?
 
 ## sell
+* 손해보고 팔다; sell at a loss
 * sell OOO short : ~을 과소평가하다
   * 스스로를 과소평가하지 마. 너 굉장히 재능 있어. Don't sell yourself short. You're very talented.
 * a hard sell: (물건을 사도록) 설득하기 어려운 사람 혹은 그룹.
@@ -10183,6 +10215,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 한쪽 끝이 뾰족하고 반대쪽은 넓은 V자 모양, 좀 더 정확하게는 쐐기 모양, 혹은 쐐기 자체를 wedge라고 해요. 음식에서 wedge는 쐐기 모양의 조각을 말해요. 우리가 사랑하는 웨지감자의 모양처럼요!
   * 라임 한 쪽과 함께 차려 내세요. Serve with a wedge of lime. 
 * A와 B 사이를 이간질하다 drive a wedge between A and B
+
+## weave
+* 얽혀져있다; weave into;
 
 ## weather
 * the weather; the 사용 혹은 it으로 표현
