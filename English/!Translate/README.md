@@ -1,3 +1,36 @@
+# [ #014 ] 일상을 영어로 말하기 - 스마트폰으로 인한 수면장애
+- 저는 밤12시나 새벽1시쯤에는 잠자리에 들려고 하는데요,  "I try to go to bed around midnight or 1AM.
+- 문제는 2시나 3시까지 잠이 들지 않는다는거예요. The problem is, I usually don't fall asleep until 2 or 3AM.
+- 단순히 잠을 못자서 그러는게 아니라 사실 제 핸드폰 때문이에요. It's not because I just have trouble sleeping. It's actually because of my phone.
+- 잠자리에 들 때 핸드폰을 가지고 있거든요.  I usually have my phone with me when I go to bed.
+- 많이들(많은 사람들)그렇게 할걸요? I'm pretty sure a lot of people do the same.
+- 정말 안좋은 습관이에요."  It's really a bad habit.(It's a really bad habit)."
+
+# [ #013 ] 일상을 영어로 말하기 - 아침식사
+- 아니오, 딱히 그렇지는 않아요.  No, not really
+- 예전에 부모님이랑 살았을 때는 그랬는데  I used to when I was living with my parents.
+- 지금은 출근길에 그래놀라바랑 커피 한잔은 먹을 때도 있는데 But now, I might have a granola bar and a cup of coffee on my way to work
+- 집에 앉아서 제대로 된 아침 식사를 하는 정도는 아니에요." but I don't really sit at home and have a proper breakfast meal, if that's what you're asking.
+
+# [ 영어 연습가이드 #49 ] - 직장영어(?)
+* "이미 얘기를 들은 사람도 있겠지만 저는 앞으로 다른 일을 맡게 됐어요.  As some of you may have already heard, I've been ressigned
+* 다음달부로 킴이 공식적으로 이 곳의 책임자가 될건데요  As of next month, Kim will officially be in charge here but from this point on, 
+* 이번 이동을 서서히 준비하기 위해서 지금 이 시점부터 킴이 실질적인 책임자 역할을 하게 될거예요. she will effectively be running things as we slowly prepare for this transition
+* 일단은 크게 바뀌는 것은 없겠지만, For now everything will be pretty much the same but
+* 여러분도 예상은 하고 있듯이, 차차 변화가 좀 있을거니까 궁금한 것이 있는 사람은 언제든지 저를 찾아오세요." as you can imagine, there will be some changes moving forward. So please feel free to come to me with any questions.﻿
+* 여기 운영자요? ARe you running things here?
+
+# 영어 대화가이드 #019 - it's just one of those days -- it's just one of those things
+* 그러게; It;s just one of those days
+* 부럽다 I wish I were you.  
+* 그런거 있잖아; It's just one of those things, you know. 
+
+# [ #012 ] 일상을 영어로 말하기 - "완전 잊고 있었다"
+- 어제, 누구를 데리러 아침 일찍 공항에 가야 했었어. Yesterday, I had to pick up someone at the airport early in the morning. 
+- 왜 그랬는지 모르겠는데, 일요일이라는걸 완전 잊고 너무 일찍 출을 했어.   I totally forgot (that) it was Sunday, for some reason, and I left way too early. 
+- 길에 차가 거의 없었어.  There was almost no traffic on the road.
+- 8시까지 가기로 했었는데 6시 쯤에 도착해버렸어." I was supposed to be there by 8 o'clock but I was there at about 6."
+
 # [ # 11 ] 일상을 영어로 말하기 - "우리 동네에 새로 생긴 스시집.." , "궁금해서 조만간에 한번 가보고 싶다"
 "우리 동네에 새로 생긴 스시집이 있는데 항상 사람이 많아요.  There's a new sushi place in my neighborhood that is always packed with people
 제가 차로(운전해서) 거기를 항상 지나가서 알아요.  I know because I drive past it almost every day.
