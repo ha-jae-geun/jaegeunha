@@ -6306,6 +6306,10 @@ retaliate
   * for the God's/#christ/#heaven/#goodness sake; 부디
   * for the sake of it; #대충; #for its' own sake; 그 자체를 위하여
 
+# 운영
+* 여기 운영자요? ARe you running things here?
+
+
 # 운명
 * 운명을 다시 써보는 건 어때? WHy don't we rewrite the stars
   * - make/write one's own destiny : 운명을 직접 만들다/쓰다
