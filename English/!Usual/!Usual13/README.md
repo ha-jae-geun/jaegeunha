@@ -1,3 +1,9 @@
+ #  ♣본론부터 말해! - 포인트부터 말해!♣
+-  Let's get straight to the point. 본론으로 바로 가자. / 본론을 바로 얘기하자. -
+-  a core issue 회의, 논의, 토론시 핵심사항/논점 - 
+-  Let's get to the core issue! 본론/핵심부터 다루도록 하죠. 
+- Let's get to the heart of the matter. 문제의(논점의) 핵심부터 다루죠. 
+
 # 쓸만한 영어 - 학교/사무실 영어회화 - 이메일 첨부파일로 보내주세요 - 그 파일 공유해 주세요 - 영어표현
 - 직접의문문 Where did you save them? 너 그것들 어디에 저장했어? 간접의문문 Can you let me know *where *you *saved them? 너가 그것들 어디에 저장했는지 알려줄 수 있어? 
 - [익쓰떠늘] - external hard (X) 외장하드 - external hard drive 또는 external drive 외장하드 
