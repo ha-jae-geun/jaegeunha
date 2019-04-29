@@ -275,6 +275,10 @@
 ## Spring Tools 4 for 
 - Spring Tool Suite 4부터는 legacy project 없이 spring boot version만 사용하여야 함. 
 
+## 스프링 4.0버전
+- 서블릿 3.0 
+- ResetController 
+
 ## ini 
 1. - UTF-8 일괄 설정: vmargs 밑에
 - -Dfile.encoding=UTF-8
