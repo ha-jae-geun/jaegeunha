@@ -377,7 +377,10 @@
 - <resources mapping="/img/**" location="/resources/img/" />
 - <resources mapping="/js/**" location="/resources/js/" />
 - <resources location="/resources/" mapping="/resources/**"/>
-	
+
+## 서버
+- 서버 추가, 서버 경로 확인
+
 ## appServlet
 - 경로를 /로 해놓으면 resource안에 js 넣을 필요 없음.
 
