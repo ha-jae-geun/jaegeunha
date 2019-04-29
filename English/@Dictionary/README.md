@@ -4877,6 +4877,9 @@ retaliate
 * conventional 은 [전통적인] 이라는 의미의 형용사인데요. [지혜]를 뜻하는 wisdom 이라는 단어와 함께 쓰이면 전통적으로 행해왔던 행위 등의 기반이 되는 지혜, 즉 [일반적 통념]을 뜻해요. 이 표현은 이 자체로 굉장히 많이 쓰이기 때문에 하나의 단어로써 숙지해 놓는 것이 좋습니다.
 	* = 그게 일반적 통념이라는 건 알지만, 그게 모든 상황에서 항상 옳다는 걸 의미하진 않아. I know that's conventional wisdom, but it doesn't mean that it's always right in every situation.
 
+# 설마
+- don't tell me -
+
 # 설명
 * 진짜 설명해야 돼요? Do i really need to spell it out for you?
 * : '에게 단계별로 하나하나 설명하다'라는 뜻이에요. talk someone through; explain the process는 '절차를 설명하다'라는 뜻으로, 말로 한번에 모든 설명을 하는듯한 느낌이에요. 반면 talk someone through the process는 '절차를 하나씩 보여주면서 설명하다'라는 느낌!
