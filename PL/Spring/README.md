@@ -271,6 +271,9 @@
 - 비동기식; 절대 경로 사용
 - 통신이 모두 request 객체만을 이용하여 통신하는 것이 아닌 
 
+## iframe
+- 두 개 이상의 request 객체를 필요로 함
+
 ## 동기식
 - request 객체로만 이용한 통신
 
@@ -279,3 +282,14 @@
 
 ## TCP/IP
 - Request가 아니라 패킷으로 
+
+## 비동기식 데이터 통신 처리
+- request 객체가 아닌 XML이나 JSON 방식으로 객체를 받아오게 되는 경우를 의미
+- 자바 스크립트 -> XML http request -> 웹서버(요청 받음 -> 요청 처리 -> XML or TEXT 생성 ) -> XML http request > 자바스크립트
+
+## content-type
+- value = "/json"
+- method = RequestMethod.POST;  consumes="application/json"
+- method = RequestMethod.GET;   produces="application/json"
+- 여기서 json 값은 키와 값으로 이루어져 있지만 값은 한번밖에 안들어가기 때문에 라이브러리 사용이 필요시된다.
+
