@@ -369,7 +369,12 @@
 - 톰켓 더블 클릿 -> Modules 메뉴 -> path '/'로 설정
 
 ## 스프링 Resource 설정
+1.  <resources mapping="/js/**" location="/resources/js/"/>
 - <resources mapping="/resources/**" location="/resources/" />
 - <resources mapping="/css/**" location="/resources/css/" />
 - <resources mapping="/img/**" location="/resources/img/" />
 - <resources mapping="/js/**" location="/resources/js/" />
+- <resources location="/resources/" mapping="/resources/**"/>
+	
+## appServlet
+- 경로를 /로 해놓으면 resource안에 js 넣을 필요 없음.
