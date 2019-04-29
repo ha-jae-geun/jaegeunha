@@ -367,3 +367,9 @@
 
 ## tomcat 경로 설정
 - 톰켓 더블 클릿 -> Modules 메뉴 -> path '/'로 설정
+
+## 스프링 Resource 설정
+- <resources mapping="/resources/**" location="/resources/" />
+- <resources mapping="/css/**" location="/resources/css/" />
+- <resources mapping="/img/**" location="/resources/img/" />
+- <resources mapping="/js/**" location="/resources/js/" />
