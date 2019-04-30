@@ -281,7 +281,7 @@
 - 서블릿 3.0 
 - ResetController 
 
-## ini 
+## 스프링 ini 파일 설정
 1. - UTF-8 일괄 설정: vmargs 밑에
 - -Dfile.encoding=UTF-8
 2. -Xms512m
@@ -295,7 +295,11 @@
 3. JRE Library: buildpath -> library 지우기 -> add library -> jre library 추가
 4. Project facets java 버전 
 
-## Maven
+## 스프링 Window preference 서버 설정
+- Runtime Environments 설정
+- Server and Runtime 톰켓 설정
+
+## 스프링 Maven 추가
 - http://maven.apache.org/download.cgi -> apache-maven-3.6.1-bin.zip
 
 
@@ -310,15 +314,9 @@
 - import - maven - existing maven project
 
 
-### mvn 레파지토리 직접 설정
-- 1. 터미널에서 mvn install 2. pom.xml에서 dependency 
-- <groupId>org.springframework</groupId>
-	- <artifactId>spring-context</artifactId>
-	- <version>${org.springframework-version}</version>
-
 ### Maven pom.xml 수정
 ### 버전 수정
-<org.springframework-version>4.1.1.RELEASE</org.springframework-version>
+- <org.springframework-version>4.1.1.RELEASE</org.springframework-version>
 
 #### plugin 수정
 - Maven 버전 수정
@@ -353,7 +351,7 @@
 - 마켓 -> jad install -> 재실행 -> (Window preference -> general -> Editor -> File Assosiation)-> Decompiler Default -> 
  
 
-## Window Preference
+## 스프링 Window Preference
 - General -  font/Syntax/Save
 
 # MyBatis
@@ -377,12 +375,13 @@
 - <resources mapping="/img/**" location="/resources/img/" />
 - <resources mapping="/js/**" location="/resources/js/" />
 - <resources location="/resources/" mapping="/resources/**"/>
-
-## 서버
-- 서버 추가, 서버 경로 확인
-
-## appServlet
 - 경로를 /로 해놓으면 resource안에 js 넣을 필요 없음.
+
+## 스프링 서버
+- window view - 서버 추가
+- 서버에 프로젝트 추가
+- 서버 더블클릭 후 경로 확인
+
 
 ## 주요 테스트 라이브러리
 - (1) JSON.simple 라이브러리
