@@ -4244,6 +4244,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## henpeck
 * henpecked 미국식 [ˈhenpekt]; 공처가의
 
+## hump
+* 위기를 넘기다; be over the hump
+
 ## humble
 * 잘못[실수]을 인정하다 eat humble pie 미국식  영국식   단어장추가
   * 굴욕 humble pie 
@@ -5306,6 +5309,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## lick
 * lick 은 원래 '핥다' 라는 뜻이기에 직역하면 '깨끗하게 핥아먹다' 의 의미를 갖습니다. 그만큼 무언가를 싹싹 긁어먹는 모습을 비유적으로 나타낸 표현이에요.
   * = 난 내 남친을 위해 요리하는 걸 좋아해. 왜냐면 내가 무엇을 요리하든지 깨끗이 비우거든. I enjoy cooking for my boyfriend because he licks the dish clean no matter what I cook.
+* 동물들은 상처를 핥아서 치료하곤 하죠. 그런 모습에서 유래한 숙어예요. lick one's wounds 하면 아픈 곳을 치료하거나, 어려운 일이 있었지만, 상심을 달래는 모습을 의미하죠. 좀 더 넓은 범위에서는 '회복하다'라는 뉘앙스를 가졌다고 이해할 수 있어요.
+	* 아마도 그는 어딘가에서 상심을 달래고 있을 거야. He's probably licking his wounds somewhere.
 
 ## lid
 * 뚜껑을 덥어버리고; Top a lid on
