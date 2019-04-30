@@ -294,10 +294,12 @@
 2. Open Perspective
 3. JRE Library: buildpath -> library 지우기 -> add library -> jre library 추가
 4. Project facets java 버전 
+5. 자바 컴파일러 버전 확인
+5. installed JRES 확인
+6. Runtime Environments 설정
+7. Server and Runtime 톰켓 설정
+- General -  font/Syntax/Save
 
-## 스프링 Window preference 서버 설정
-- Runtime Environments 설정
-- Server and Runtime 톰켓 설정
 
 ## 스프링 Maven 추가
 - http://maven.apache.org/download.cgi -> apache-maven-3.6.1-bin.zip
@@ -308,7 +310,8 @@
 2. PATH 추가: %MAVEN_HOME%\bin
 - 혹은 bin을 바로 PATH에서 추가해주어도 됨
 3. cmd에서 mvn-version으로 확인
-4. windows preference 에서 User setting, Installations 수정하기
+4. windows preference 에서 User setting(conf, usersetting 경로 설정), Installations 수정하기
+	- 사용자 - 사용자 이름 - .m2에서 repositories 
 
 ## import
 - import - maven - existing maven project
@@ -343,17 +346,10 @@
 - idoctype warning 제거하기
 
 
-## 톰켓 스프링 툴 
-- window preference - Runtime Envirionment - Add - 톰켓 폴더 설정
-
 
 ## JAD 설치
 - 마켓 -> jad install -> 재실행 -> (Window preference -> general -> Editor -> File Assosiation)-> Decompiler Default -> 
  
-
-## 스프링 Window Preference
-- General -  font/Syntax/Save
-
 # MyBatis
 - 3.2 이상 버전은 JDK 1.6 이상 버전을 요구한다.
 - 스프링과의 호환성을 보는 것도 중요하다.
