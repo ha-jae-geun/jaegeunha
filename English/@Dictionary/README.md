@@ -1016,6 +1016,7 @@
 * # 너무; too 와 so 둘 다 형용사나 부사 앞에 쓰여 '너무,정말' 이라는 의미로 쓰이는데요. too 는 부정적인 뉘앙스를 가지고 있습니다. 그래서 영상에서처럼 you're too nice 라고 하면 [필요 이상으로 너무 나이스한 이미지이다. / 사람들한테 당할 정도로 나이스한 이미지이다.] 정도의 뉘앙스를 가지고 있어요.
 
 # 과정
+* 절차, 처리과정: process;   (적응, 변화, 발달) 과정: phase
 * 과정을 점검하다; look over/check a process
 * # 절차가 많아; there are too many red tapes
 * baby step은 어떤 일이나 과정에 있어서 아주 조금 나아가는 행동 또는 단계를 빗대는 표현입니다. a baby step처럼 단수로 사용하는 경우는 주로 어렵고 긴 과정에서의 '첫 한 걸음'을 의미해요.
@@ -2594,6 +2595,9 @@
   * 고양이 저리 쫓아내. [ex] Shoo the cat away.
   * 훠이! 저리 가. [ex] Shoo! Go away.
  * # 뒤를 이어 # 따라가다 # 따라잡다 # 쫒아가다 | # 쫒아내다
+
+# 딱히
+- 딱히 문제가 있었다기 보다는; There wasn't particularly a problem
 
 # 때
 * 때가 되었어요;; It's about time
@@ -7544,6 +7548,7 @@ retaliate
   * 왜 이렇게 흠뻑 젖은 거야? 우산 들고 가지 않았니? ex) How come you're so drenched? Didn't you bring an umbrella?
 
 # 적응
+* 환경에 적응하다; i wanted to fit in quickly
 * acclimation은 '새 환경에 대한 순응, 적응'이라는 뜻입니다.
 	* dry age : 건조 숙성하다.
     * 파마산 치즈는 적어도 10달은 숙성되어야 한다. ex) Parmesan cheese must be aged for at least 10 months.
