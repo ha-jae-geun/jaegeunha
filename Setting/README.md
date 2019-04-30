@@ -373,10 +373,21 @@
 
 ## MyBatis Spring 1.3.1
 
+### mybatis config 폴더
+- src/main/resources에서 폴더 생성 -> config.xml(template) 만들기
+- alias만 설정
+
+### mybatis mapper 폴더
+- src/main/resources에서 폴더 생성 -> mapper.xml 만들기
+
 ## tomcat 경로 설정
 - 톰켓 더블 클릿 -> Modules 메뉴 -> path '/'로 설정
 
-## 스프링 라이브러리 Resource 설정
+## web.xml 설정
+1. 필터 설정
+
+## server.xml
+### 스프링 라이브러리 Resource 설정
 1.  <resources mapping="/js/**" location="/resources/js/"/>
 - <resources mapping="/resources/**" location="/resources/" />
 - <resources mapping="/css/**" location="/resources/css/" />
@@ -386,13 +397,19 @@
 - 경로를 /로 해놓으면 resource안에 js 넣을 필요 없음.
 - 이후에 resources 안에 폴더 만들고 서버 돌려서 info에 mapping 
 
+## root-context.xml
+### DB연동(DAO, DTO관련 빈 입력)
+- pg442
+
+## servlet-context.xml
+- 뷰, 서비스 관련 빈 
+
 ## 스프링 서버
 - window view - 서버 추가
 - 서버에 프로젝트 추가
 - 서버 더블클릭 후 경로 확인
 
-## web.xml 설정
-1. 필터 설정
+
 
 ## 주요 테스트 라이브러리
 - (1) JSON.simple 라이브러리
