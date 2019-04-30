@@ -356,8 +356,7 @@
 ### Maven Ojdbc 혹은 MySQL 라이브러리 설정
 
 ### Maven login4j
-- idoctype warning 제거하기
-
+- src/main/resources 경로에 log4j.dtd idoctype warning 제거하기
 
 
 ## JAD 설치
@@ -377,7 +376,7 @@
 ## tomcat 경로 설정
 - 톰켓 더블 클릿 -> Modules 메뉴 -> path '/'로 설정
 
-## 스프링 Resource 설정
+## 스프링 라이브러리 Resource 설정
 1.  <resources mapping="/js/**" location="/resources/js/"/>
 - <resources mapping="/resources/**" location="/resources/" />
 - <resources mapping="/css/**" location="/resources/css/" />
@@ -385,12 +384,15 @@
 - <resources mapping="/js/**" location="/resources/js/" />
 - <resources location="/resources/" mapping="/resources/**"/>
 - 경로를 /로 해놓으면 resource안에 js 넣을 필요 없음.
+- 이후에 resources 안에 폴더 만들고 서버 돌려서 info에 mapping 
 
 ## 스프링 서버
 - window view - 서버 추가
 - 서버에 프로젝트 추가
 - 서버 더블클릭 후 경로 확인
 
+## web.xml 설정
+1. 필터 설정
 
 ## 주요 테스트 라이브러리
 - (1) JSON.simple 라이브러리
