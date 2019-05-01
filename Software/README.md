@@ -55,6 +55,7 @@
 * 빗썸: 빗  jaegeun / Hj@ / 1597
 * https://www.1040.com: jaegeun@g / Hjg!
 * ipin: jaegeunha / H1q! / Hjg1q
+* 오라클: jaegeunha94@gmail.com / Hj1q
 	
 # 블로그
 - 반응형 웹 변환: https://adsensemaster.herokuapp.com/index.php?id=advancedMaker.html 
