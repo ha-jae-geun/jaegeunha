@@ -25,6 +25,9 @@ Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
 ## void
 - -자바와 다르게 파이썬은 함수를 제외하고 모든 메소드는 기본적으로 void 형이다. return을 쓰는 함수, void를 쓰는 메소드 2가지 사용한다.
 
+# 주석
+- #
+- """ """
 
 # _
 ## _식별자
