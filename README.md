@@ -76,3 +76,108 @@ git push origin master // 깃허브로 푸시한다.
 * [git]https://ko.wikipedia.org/wiki/%EA%B9%83_(%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4)
 
 ### Robert Norton Noyce
+
+
+
+-----------
+package algo;
+
+
+class ListNode {
+	  int val;
+	  ListNode next;
+	  ListNode(int x) { val = x; }
+      
+ }
+ 
+
+
+
+public class algo {
+
+	public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+		ListNode resultList = null;
+		int carry = 0;
+		int result = 0;
+		
+		for(int i=0; i<3; i++) {
+			if(i == 0) {
+				result =  (l1.next.next.val) + (l2.next.next.val);	
+				if(result >= 10) {
+					result = result - 10;
+					carry = 1;
+				}else {
+					carry = 0;
+				}
+				resultList = new ListNode(result);
+			}
+			
+			
+			if(i == 1) {
+				result =  (l1.next.val) + (l2.next.val) + carry;	
+				if(result >= 10) {
+					result = result - 10;
+					carry = 1;
+				}else {
+					carry = 0;
+				}
+				resultList.next= new ListNode(result);
+			}
+			
+			if(i == 2) {
+				result =  (l1.val) + (l2.val) + carry;	
+				if(result >= 10) {
+					result = result - 10;
+					carry = 1;
+				}else {
+					carry = 0;
+				}
+				resultList.next.next= new ListNode(result);
+			}
+			
+		}
+		
+		
+		return resultList;
+	    
+	}
+
+	public static void main(String[] args) {
+		
+		ListNode listnode = new ListNode(2);
+//		listnode.next.val = 4;
+//		listnode.next.next.val = 3;
+		listnode.next= new ListNode(4);
+		listnode.next.next = new ListNode(3);
+		
+
+		ListNode listnode2 = new ListNode(5);
+//		listnode2.next.val = 6;
+//		listnode2.next.next.val = 4;
+		listnode2.next= new ListNode(6);
+		listnode2.next.next = new ListNode(4);
+		
+		
+		
+		ListNode listnode3 = addTwoNumbers(listnode, listnode2);
+		System.out.println(listnode3.val);
+		System.out.println(listnode3.next.val);
+		System.out.println(listnode3.next.next.val);
+	
+		
+//		ListNode listnode = new ListNode();
+//		listnode.addFirstNode(2);;
+//		listnode.addLastNode(4);
+//		listnode.addLastNode(3);
+//		listnode.printList();
+//		
+//		ListNode listnode2 = new ListNode();
+//		listnode2.addFirstNode(5);;
+//		listnode2.addLastNode(6);
+//		listnode2.addLastNode(4);
+//		listnode2.printList();
+	
+
+	}
+
+}
