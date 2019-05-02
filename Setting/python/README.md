@@ -1,8 +1,22 @@
+# 윈도우
 
 # 아나콘다; 3.5.2.0
 - https://repo.anaconda.com/archive/
 - 3.5.1.0 은 아나콘다 1.5을 의미
 - conda --version으로 버전 확인
 
+## 우분투 아나콘다
+## 우분투 아나콘다 다운로드
+- wget https://repo.continuum.io/archive/Anaconda3-5.2.0-Linux-x86_64.sh
+
+## 우분투 아나콘다 설치
+- bash Anaconda3-5.2.0-Linux-x86_64.sh
+- 중간에 bashrc 경로 yes
+- 버전 확인: source .bashrc  이후 conda --version
+
 # 파이썬 설치 (콘다 혹은 윈도우 파워쉘에서)
 - conda install python=3.6.8
+
+# 우분투 파이썬 설치
+- conda create -n 가상환경 이름 python=3.6.8
+
