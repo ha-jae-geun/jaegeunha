@@ -27,4 +27,10 @@
 
 
 # 파이참
-- https://www.jetbrains.com/pycharm/?fromMenu 에서 community 다운받기
+- https://www.jetbrains.com/pycharm/?fromMenu 에서 community 다운받기\
+
+## 파이참 설정
+- C:\JetBrains\PyCharm Community Edition 2019.1.1\bin 의 pycharm64.exe 워드 패드로 열기
+- -Xms512m  -Xmx1024m  수정
+- Dfile.encoding=UTF-8 설정
+  - 파이참 setting에서 encoding에 project setting의 인코딩 확인
