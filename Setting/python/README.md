@@ -21,3 +21,6 @@
 - 가상환경 만들기: conda create -n 가상환경 이름 python=3.6.8
 - 가상환경 실행: source activate 가상환경이름; deactivate
 - 파이썬 실행: python 입력
+
+# 주피터 윈도우
+- 경로 맨 뒤를 폴더를 하나 만들어서 "" 사이에 넣기; "C:\noteju"
