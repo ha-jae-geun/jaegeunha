@@ -3651,6 +3651,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ### follow up
 * 다른 영업사원이 작업해 놓은 일을 사후관리해야 할까요? Will I have to follow up on other salesperson's leads? 듣기 출처:능률교육
 
+## grief
+- 맙소사: good grief
+
 ## gnarly
 * gnarly는 원래 gnarled처럼 나무나 손이 울퉁불퉁하고 뒤틀린 모습을 표현하는 말인데 점차 젊은 층 사이에서 '불쾌한, 형편없는'이라는 부정적인 뜻과 '대단한, 끝내주는, 훌륭한'이라는 긍정적인 어감을 지닌 뜻, 두 가지 상반된 의미 모두 다 표현할 수 있어요~ 강조하거나 극적인 느낌으로 말하고 싶을 때 사용해요.  * 발음은 '그날리'가 아닌 '날리'랍니다~^^ 프로도의 발음으로 다시 들어보시죠!
   * 그는 끝내주는 기술을 가졌어. He's got some gnarly skills.
