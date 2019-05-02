@@ -24,3 +24,7 @@
 
 # 주피터 윈도우
 - 경로 맨 뒤를 폴더를 하나 만들어서 "" 사이에 넣기; "C:\noteju"
+
+
+# 파이참
+- https://www.jetbrains.com/pycharm/?fromMenu 에서 community 다운받기
