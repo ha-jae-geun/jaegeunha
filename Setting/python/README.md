@@ -18,5 +18,6 @@
 - conda install python=3.6.8
 
 # 우분투 파이썬 설치
-- conda create -n 가상환경 이름 python=3.6.8
-
+- 가상환경 만들기: conda create -n 가상환경 이름 python=3.6.8
+- 가상환경 실행: source activate 가상환경이름; deactivate
+- 파이썬 실행: python 입력
