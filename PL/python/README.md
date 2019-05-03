@@ -47,6 +47,11 @@ Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
 - and, or, not 을 논리 연산자로 쓰고  &는 보통 비트 연산자로 사용한다.
 
 
+# 객체
+- 공간에 이름을 부여한다: 객체 / 네임 스페이스
+- 사물에 대한 가리킴 -> 공간을 통해서 함수를 수행한다.
+- 메소드: 공간을 통해서 함수를 실행시키는 방법.
+
 # strength(Guido van Rossum)
 * simple syntax
 * have a lot of libraries
@@ -70,6 +75,8 @@ Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
  * 2진수, 8진수, 10진수(올림형), 16진수로 표현 가능하고, 정수형 중 음수는 보수를 사용한다.
  *   -  3.6버전에 신경망 알고리즘 등 대다수 존재, 3.7부터는 _ 공백 문자 등이 등장했지만 알고리즘 지원 안함
 
+# 리스트
+- 파이썬 2는 리스트반환을 기본으로 설정했지만, 파이썬 3은 리스트 반환을 하고자 한다면 반드시 list 함수를 사용해야 한다.
 
 # Development Environment
 * window: python, Mac¤ýUbuntu: python3
