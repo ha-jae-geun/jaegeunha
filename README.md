@@ -93,91 +93,42 @@ class ListNode {
 
 
 
-public class algo {
+int carry = 0;
+int result = 0;
+int cnt = 0;
 
-	public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-		ListNode resultList = null;
-		int carry = 0;
-		int result = 0;
-		
-		for(int i=0; i<3; i++) {
-			if(i == 0) {
-				result =  (l1.next.next.val) + (l2.next.next.val);	
-				if(result >= 10) {
-					result = result - 10;
-					carry = 1;
-				}else {
-					carry = 0;
-				}
-				resultList = new ListNode(result);
-			}
-			
-			
-			if(i == 1) {
-				result =  (l1.next.val) + (l2.next.val) + carry;	
-				if(result >= 10) {
-					result = result - 10;
-					carry = 1;
-				}else {
-					carry = 0;
-				}
-				resultList.next= new ListNode(result);
-			}
-			
-			if(i == 2) {
-				result =  (l1.val) + (l2.val) + carry;	
-				if(result >= 10) {
-					result = result - 10;
-					carry = 1;
-				}else {
-					carry = 0;
-				}
-				resultList.next.next= new ListNode(result);
-			}
-			
-		}
-		
-		
-		return resultList;
-	    
-	}
+while (l1 != null || l2 != null || carry > 0) {
 
-	public static void main(String[] args) {
-		
-		ListNode listnode = new ListNode(2);
-//		listnode.next.val = 4;
-//		listnode.next.next.val = 3;
-		listnode.next= new ListNode(4);
-		listnode.next.next = new ListNode(3);
-		
+result = result + ((l1 != null) ? l1.val : 0);
+result = result + ((l2 != null) ? l2.val : 0) + carry;
 
-		ListNode listnode2 = new ListNode(5);
-//		listnode2.next.val = 6;
-//		listnode2.next.next.val = 4;
-		listnode2.next= new ListNode(6);
-		listnode2.next.next = new ListNode(4);
-		
-		
-		
-		ListNode listnode3 = addTwoNumbers(listnode, listnode2);
-		System.out.println(listnode3.val);
-		System.out.println(listnode3.next.val);
-		System.out.println(listnode3.next.next.val);
-	
-		
-//		ListNode listnode = new ListNode();
-//		listnode.addFirstNode(2);;
-//		listnode.addLastNode(4);
-//		listnode.addLastNode(3);
-//		listnode.printList();
-//		
-//		ListNode listnode2 = new ListNode();
-//		listnode2.addFirstNode(5);;
-//		listnode2.addLastNode(6);
-//		listnode2.addLastNode(4);
-//		listnode2.printList();
-	
+if (cnt == 0) {
 
-	}
+resultList = new ListNode(result % 10);
+
+carry = (result / 10);
+
+p = resultList;
+
+p = p;
+
+cnt++;
+
+} else {
+
+ListNode current = new ListNode(result % 10);
+
+carry = (result / 10);
+
+p.next = current;
+
+p = p.next;
+}
+
+result = 0;
+
+l1 = ((l1 != null) ? l1.next : null);
+l2 = ((l2 != null) ? l2.next : null);
 
 }
+return resultList;
