@@ -17,6 +17,9 @@
 # 파이썬 설치 (콘다 혹은 윈도우 파워쉘에서)
 - conda install python=3.6.8
 
+## 파이썬 버전
+- 2.7 사사오입, 3.0이상 
+
 # 우분투 파이썬 설치
 - 가상환경 만들기: conda create -n 가상환경 이름 python=3.6.8
 - 가상환경 실행: source activate 가상환경이름; deactivate
