@@ -1,3 +1,9 @@
+ # 쓸만한 영어 - 스몰톡 - 봄날 스몰톡 & 맞장구 치기 - Small talk
+ - It's a beautiful day, isn't it? There isn't even one cloud in the sky.☁️ The sky is soooooo blue and we have a nice breeze!🌬 I was dreading coming to work today.일 하러 오기 싫어 죽는 줄 알았어. I just want to go anywhere else but work. 일하러 말고 다른 데 가고 싶어. It's too nice outside to work.일하기에 날씨가 넘 -좋아. 🌸Have you seen the cherry blossom trees on the street? 길 가에 벚꽃핀 것 봤어? Yes, they are so beautiful! The color and the smell are so romantic! Speaking of flowers, there will be a flower festival in Lake Park.﻿
+ 
+ # 쓸만한영어 - 환불/계산할때 쓸만한 영어표현 - "리콜 전화를 받았어요"
+ - I got a (phone) call about a recall on these sausages * I'd like to redeem this and I'll pay with the cash for the rest * I'll give you change * I'd like to return this > Can I get a refund?﻿
+ 
  #  ♣본론부터 말해! - 포인트부터 말해!♣
 -  Let's get straight to the point. 본론으로 바로 가자. / 본론을 바로 얘기하자. -
 -  a core issue 회의, 논의, 토론시 핵심사항/논점 - 
