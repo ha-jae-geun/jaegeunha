@@ -8332,6 +8332,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 맨디 무어는 가수이자 배우다. [ex] Mandy Moore is a singer slash actor.
 
 ## slack
+* 공백을 매꾸다; have to take up the slack
 * 너 스스로에게 여유를 줘; Cut yourself some slack
 * 요즘 일거리가 뜸해졌어요. Business has slacked off lately.
   * 불경기 때 사실 더 열심히일해야죠. We should actually work harder during a slack period.
@@ -10215,6 +10216,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : (비격식 숙어) 꽉 막힌 것 같이 답답하다, 무기력하고 당혹스럽다 #climb the walls
 * 1) 벽만 바라보고 있는 여성, 즉 파티나 사교 모임에서 누구도 춤추자고 하지 않아서 [소외된 여성]을 의미하는 단어입니다. 2) 요즘엔 굳이 '여성' 만 의미하지는 않으며, [소외된 사람/존재감 없는 사람/은따] 를 의미하는 단어로 쓰이고 있어요.
   * 그녀는 처음에는 존재감 없는 사람처럼 보였지만 실제론 매우 활발하고 인기 있어. ex) She seemed to be a wallflower at first, but she is actually very active and popular.
+
+# weight
+* 부모님이 말씀하시는 것은 무엇이든 내게 영향력을 가진다.  Everything my parents say carries weight with me. 예문 TTS 발음듣기
 
 ## weep
 * 친구 토마스를 잃은 베이다는 자신의 아픔을 마치 버드나무가 느끼는 아픔처럼 빗대어 시로 표현하고 있습니다. 여기서 버드나무가 울고 있다는 것을  weeping과 tears running down 두 가지가 중복해서 나오는데요, weep은 ‘흐느껴 울다’, tears running down은 ‘눈물이 주르륵 흐르다’입니다.  그리고 with your tears running down에서 with는 ‘~한 채로, ~하면서’라고 해석하셔야 합니다. 직역하면 “너의 눈물(your tears)을 흘리(running down) 면서(with)”인데, 이를 문법에서는 〈with 분사구문〉이라고 합니다. 깊게 들어가진 않고 해석을 위한 간단한 예문만 살펴보겠습니다.
