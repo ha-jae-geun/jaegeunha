@@ -7453,6 +7453,13 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 쟤가 하는 말에 너무 의미를 두지 마. Don't read too much into what she says.
 
 ## reach
+- 모든 버튼이 한손으로는 다 닿지 ㅇ낳아서; because they can't reach all the buttons with just one hand
+* 정상에 도달하면 잠깐 쉴거야; We'll take a break once we reach the top
+* 좀 너무 많은걸 라는 것 같지 않아? That sounds like a bit of a reach, don't you think?
+* 내가 좀 무리한 기대를 하는 걸 수도 잇지만; I may be reaching but
+* 그녀는 15세라는 나이에 이미 슈퍼스타급에 도달했어; She had already reached superstar status at the age of 15
+* 능력밖이야; It's out of (my) reach
+- each 의 또 다른 활용을 완전히 잊고 빼놓은 것이 있습니다. 바로 '연락하다'라는 의미로 'reach'를 쓰는 것인데요, 예) "Here's my number if you need to reach me." (연락할 일 있으면 이 번호로 하세요) 예) "She's on vacation this week. You won't be able to reach her until next Monday."
 * 점원이 금전 등록기에 손을 뻗고 있다; A clerk is reaching into a cash register
 * = 이 제품은 6세 이하의 아이들 손이 닿지 않는 곳에 두세요. Keep this out of reach of children under 6.
 * reach out to someone은 크게 두 가지 뜻이 있어요.
