@@ -1,3 +1,27 @@
+# 영어 연습가이드 #50 [ HARDCORE - 하드코어 ]
+* "어제 커피숍에 가서 커피나 마시면서 내 할 일 하고 있는데 다른 테이블에서 벌어지는 대화 때문에 집중이 안되는거야. 
+  * Yesterday i was at a coffe shop. I was just having a cup of coffe and minding my own business when i started to get distracted by a conversation that was going on at another table
+* 젊은 남자 무리가 있었어 - 한, 대여섯명이었어. 
+  * THere was a group of you men. Ther emust have been 5 or 6 of them and
+* 내 추측으로는 10대였던 것 같아. 아무튼, 새로 나온 어벤저스 영화를 가지고 열띈 토론을 하고 있는거야! 
+  * If i wer to guess, they were teenagers. Anyway, they were having a very heated discussion about the new Avengers movie
+* 그런 공공장소에서 그 영화의 내용에 대해서는 말을 조심해야 되잖아?! 
+  * You would think they would be careful about describing the details from the movie at a public place like that
+* 근데 걔네들은 그런거 신경쓰기에는 너무 흥분한 상태인 것 같더라고.   but they seemed wy too escited to care
+* 나는 이미 영화를 봤으니까 다행이었지(운이 좋았지), 안그랬으면 완전히 망쳤을거야. 
+  * I mean, i was lucky i had already seen the movie. Otherwise, it would've completely ruined the movie for me
+* 그러니까, (너도) 영화를 볼 계획이 있는데 아직 안봤다면 공공장소에 나가 있을 때 조심하고 혹시라도 새로 나온 어벤저스 영화랑 조금이라도 관련된 얘기가 들린다 싶으면 귀막고 그 자리를 떠야 돼." 
+  * SO if you haven't seen the movie yet and are planning to, just please be careful whe you are you in public and if you happen to hear anything that sounds remotely related to the new Avengers movie, just shut your ears and get out of there.
+
+# [ 영어 연습가이드 #49 ] - 다양하게 쓰이는 영어 단어 - reach
+- 모든 버튼이 한손으로는 다 닿지 ㅇ낳아서; because they can't reach all the buttons with just one hand
+* 정상에 도달하면 잠깐 쉴거야; We'll take a break once we reach the top
+* 좀 너무 많은걸 라는 것 같지 않아? That sounds like a bit of a reach, don't you think?
+* 내가 좀 무리한 기대를 하는 걸 수도 잇지만; I may be reaching but
+* 그녀는 15세라는 나이에 이미 슈퍼스타급에 도달했어; She had already reached superstar status at the age of 15
+* 능력밖이야; It's out of (my) reach
+- each 의 또 다른 활용을 완전히 잊고 빼놓은 것이 있습니다. 바로 '연락하다'라는 의미로 'reach'를 쓰는 것인데요, 예) "Here's my number if you need to reach me." (연락할 일 있으면 이 번호로 하세요) 예) "She's on vacation this week. You won't be able to reach her until next Monday."
+
 # [ #014 ] 일상을 영어로 말하기 - 스마트폰으로 인한 수면장애
 - 저는 밤12시나 새벽1시쯤에는 잠자리에 들려고 하는데요,  "I try to go to bed around midnight or 1AM.
 - 문제는 2시나 3시까지 잠이 들지 않는다는거예요. The problem is, I usually don't fall asleep until 2 or 3AM.
