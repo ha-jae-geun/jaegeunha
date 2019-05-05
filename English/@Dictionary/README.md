@@ -3365,6 +3365,7 @@
   * 미련 없어                I have no feelings for her
 
 # 미루다
+* 나 모든걸 미뤘어; i am hldoing off on everything otehr than -
 * 영어에서 게으르다로 돌려 표현하기도 함; I wouldn't have been lazy about -
 * 학교 다닐 때 보통 put off 과 delay 가 같다고 배우는데요. procrastinate 와 함께 차이점을 알아보아요!
 * 1) delay : 가장 격식을 갖춘 단어로 [연기하다] 라는 뜻인데요. 하기로 정해져 있던 것을 '정당한 이유가 있어서 의도적으로' 나중으로 연기하는 것을 의미합니다.
