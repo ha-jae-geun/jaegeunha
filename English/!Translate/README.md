@@ -8,6 +8,7 @@
  - "여기서(거기서) 오래 일했어요?"  Have you been working here long?
  - "얼마나 오래 일했어요?"  How long have you been working here?
  - "거의 1년, 약 1년 정도, 1년 조금 넘게, 1년도 훨씬 넘게, 1년 반" for almost a year
+ * FOr almost a year / for about a year/ for just over a year / for well over a year 
 
 
 # 영어 연습가이드 #50 [ HARDCORE - 하드코어 ]
