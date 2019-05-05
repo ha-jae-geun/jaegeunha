@@ -4357,6 +4357,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
  * 굽이 높은 편안한 신발                  wedge heel
  * cool one's heel; 오래 #기다리다; somebody cooled his heels
 
+## how long
+ - "여기서(거기서) 오래 일했어요?"  Have you been working here long?
+ - "얼마나 오래 일했어요?"  How long have you been working here?
+
 ## honor
 * 재판장님; YOur honor
 
