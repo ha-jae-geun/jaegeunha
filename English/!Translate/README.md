@@ -1,3 +1,15 @@
+# 직업에 대해서 묻고 답하기 - PART 1 [ 영어회화 ]
+* A:What kind of work do you do? 
+* B:I'm a freelance civil deisgn engineer. 
+* A:What do you do there? 
+* B:I draw some drawings by computer.﻿
+* i work in the finacne department / human resources
+* i'm in charge of sales (department)
+ - "여기서(거기서) 오래 일했어요?"  Have you been working here long?
+ - "얼마나 오래 일했어요?"  How long have you been working here?
+ - "거의 1년, 약 1년 정도, 1년 조금 넘게, 1년도 훨씬 넘게, 1년 반" for almost a year
+
+
 # 영어 연습가이드 #50 [ HARDCORE - 하드코어 ]
 * "어제 커피숍에 가서 커피나 마시면서 내 할 일 하고 있는데 다른 테이블에서 벌어지는 대화 때문에 집중이 안되는거야. 
   * Yesterday i was at a coffe shop. I was just having a cup of coffe and minding my own business when i started to get distracted by a conversation that was going on at another table
