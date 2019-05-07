@@ -990,6 +990,8 @@
   * 이 호텔은 나한텐 너무 비싸. This hotel is too rich for my blood. 
 * # 오바; glitz 는 ‘반짝거림, 화려함, 현란함’이고, over the top 은 ‘너무 지나친, 오바하는’을 의미합니다. 그리고 over the top 은 “야, 오바하지마”라고 할 때도 쓸 수 있어요. * over-the-top glitz = 과장된 화려함
   * 이건 너무 오바같은데. This goes way over the top.
+  * 오바야; - is stretching it
+  * 오바하지마; Don't be so dramatic
   * # 헐리우드 액션; * 헐리우드 액션; grandstand play
   * 1) [~가 도가 좀 지나치네.] / [자기 분수도 모르고 행동하네.] 를 표현할 수 있는 패턴입니다. 주어 + get(s) too big for (one's) boots
     * 밥은 도가 지나치게 행동하는 중이야. 걔가 승진하게 될 거라서 그런가? ex) Bob is getting too big for his boots. Do you think it's because he will get promoted?
@@ -1262,6 +1264,7 @@
  * #job done; 잘했어
 * # 감당;  * 결과를 감당할 수 있으면; #pay the consequence
 	* # 감수하다; That's what you get for -ing
+	* make compromises
  * 빛이 겉 잡을수 없어졌다.       My debt is uncontrollable / getting out of hands.
  * 난 이 감정을 더 이상 감당할 수 없어       I can't afford this feeling anymore
  * to #get out of hand(#hand); the party is getting out of hand
@@ -4519,6 +4522,7 @@ retaliate
  * 비교될수 없어; that's apples and oranges
 
 # 비난
+* blame: 누구를 탓하다; 비난하다는 criticize
 * 우리가 알고 있는 단순한 명사들이 동사의 역할을 하기도 해요. 1) water = 물을 주다, 2) plant = 심다 등의 단어들이 있는데요. stone 도 마찬가지라 [돌] 뿐만이 아니라 동사로 [돌을 던지다]라는 의미로 쓰입니다. 비유적으로 [비난하다]라는 의미를 갖기도 해요.
   * = 걔들이 모든 걸 알게 되면 제이슨은 돌에 맞아 죽을지도 몰라. Jason might be stoned to death if they figured out the whole thing.
 * bash 는 '세게 후려치다, 들이받다'라는 뜻인데요! 물리적으로 강타하는 걸 말하기도 하고, 이렇게 '비난하다'라는 뜻으로 쓰기도 합니다.
@@ -8737,6 +8741,7 @@ retaliate
   * 사람들은 안중근 의사의 서거 100주년을 기념했다.  ex) People commemorated the 100th anniversary of Ahn Jung-geun’s death.
 
 # 출발
+* 몇 시에 출발하냐에 따라서; depending on what time we leave; 대중교통처럼 정시에 출발하는건 depart
 * 2시간 전에 출발했어; She left 2 hours ago
 
 # 출신
