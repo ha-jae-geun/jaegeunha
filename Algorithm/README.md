@@ -62,3 +62,25 @@
 - }
 - return max;
  
+
+# Split 예제
+- import java.util.*;
+- import java.lang.*;
+- import java.io.*;
+
+- class Main {
+    
+-     public static void main(String[] args) throws java.lang.Exception {
+-         BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+-         // int A = Integer.parseInt(in.readLine());
+-         // int B = Integer.parseInt(in.readLine());
+        
+-         String input =in.readLine();
+-         String[] words = input.split(" ");
+-         int A = Integer.parseInt(words[0]);
+-         int B = Integer.parseInt(words[1]);
+        
+        
+-         System.out.println(A+B);
+    }
+}
