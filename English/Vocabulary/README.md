@@ -2344,6 +2344,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그 배우는 마침내 그가 아내를 두고 바람을 폈다는 사실을 시인했다. The actor finally came out of the closet and confirmed he had cheated on his wife.
 
 ## clock
+* 시간이 없어; we are on the clock
 * 심판이 의사가 선수를 살펴볼 수 있도록
 * 잠시 경기를 멈추었어요. "The referee stopped the clock so that a doctor could check  on the player.
 * 영어로​ "watch the clock" 하면 문자 그대로는 '시계를 보다'의역하면 '끝날 때만을 기다리다' 라는 의미가 된답니다.
@@ -4240,6 +4241,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : 일이 힘들다고 해서 그냥 포기해서는 안돼. You don't give up just because things are hard, 
 * : 네 자신에 집중하기나 해 Just give yourself up; Give oneself up' : 자기자신에 집중하다.
 * : 난 그 사람과 헤어지고 싶지 않아요. I don't want to give up on him. Give up on someone' : 와 관계를 끊내다. 종료하다.
+
+## hope
+* i'm realling hoping that = i'm really hoping to
 
 ## here
 * here/there는 명사로 안씀; Here is the 3rd floor -. THis is the third floor
@@ -10089,7 +10093,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
                                 
 
 ## where
-* 지경에 이르러써요; It got to the point where i couldn't sleep at night\
+* 지경에 이르러써요; It got to the point where i couldn't sleep at night# 
 * 저는 이 아파트에서 10년 살았어요; i've lived in this aprartment for 10 years
   * in apartment를  where로 흡수; This is where i've been living for the lst 10 years
 
