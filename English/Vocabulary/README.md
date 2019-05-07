@@ -5287,7 +5287,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그의 사진이 페이지로부터 튀어나왔다. [내 시선을 끓었다] ex) His photo leaped off the page.
 
 ## leash
-* (반려견)을 줄에 매어 산책하다 walk a dog on a leash
+* (반려견)을 줄에 매어 산책하다 walk a dog on a leash; have a dog on leash
 * (반려견)을 줄에 매어두다  keep (a dog) on a leash
 * leash 라는 단어는 개 등을 묶어 놓는 단단한 가죽끈을 의미해요. 반의어인 unleash 는 목줄에 묶인 동물을 풀어주는 걸 의미하기도 하지만, 꾹 눌러둔 감정이나 반응을 묶어둔 줄을 풀어주는 듯한 모습의 단어인데요. 강력한 반응, 감정, 활동 등을 갑자기 시작하고 표출하는 것을 의미합니다.
   * = 그의 진술은 전례 없는 분노를 불러일으켰다. The unprecedented fury was unleashed by his statement.
@@ -6605,6 +6605,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## polar
 * 북극곰이 영어로 polar bear 인 것 아시나요? polar 는 '양극의' 또는 '극과 극' 을 의미합니다. 남극은 South Pole, 북극은 North Pole 이라고도 하죠.  따라서 polarize (극단화하다) 에 ~ing 가 붙음으로써 "극단화하는" 정도로 해석이 됩니다. 좋아하는 사람들은 완전 좋아하고, 싫어하는 사람은 완전 싫어하는 거죠. feature 는 '특징' 이라는 뜻이기 때문에 짙은 눈썹이 '극단화하는 특징' 즉, '호불호가 갈릴만 한 부분' 이라는 뜻이죠!
   * 두리안은 냄새 때문에 가장 호불호가 갈리는 과일들 중 하나입니다.  ex) Durian fruit is one of the most polarizing fruits in the world because of its smell.
+
+## pot
+* 배변 훈련에 도움을 받고 싶어요; we would like some help with potty training
 
 ## potential
 * 잠재력을 발휘가기 위해 노력하다; strive to reach their full potential
@@ -9176,6 +9179,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## trip
 * 신기하지 않아요? Isn't that trippy?
+* 얼마나 쩌는지좀 보세요; Look how trippy this is
 * take a trip 이라는 표현이 "여행하다"라면 make a trip 이라고 하면 한 곳에서 다른 곳으로 이동을 한다는 더욱 1차원적인 표현으로서 "(어떤 볼일을 위해) 어디에 다녀오다"라는 의미로도 자주 사용됩니다.
 영상에서는 make the trip 라고 관사 the를 쓴 이유는 to get here라고 함으로써 어떤 이동인디에 대해서 구체화시켜주고 있기 때문입니다.
 * 근데 그러면 또 여기가 찾아오는 재미가 없어지잖아
