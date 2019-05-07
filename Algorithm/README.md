@@ -46,3 +46,19 @@
  * 그러나 아래 퀵정렬의 경우 피벗을 잡는 전략에 어느 정도의 휴리스틱이 들어가야 최악의 경우를 회피할 수 있으나 힙정렬은 휴리스틱이 필요없이 항상 일정한 성능을 보이는 장점이 있다. 즉 알고리즘에 꼼수를 쓰지 않고, 각종 하드웨어 가속도 전혀 고려하지 않고 알고리즘이 정의하는 최소한만 구현할 경우 힙정렬이 가장 안정적인 성능을 보인다.
  
  
+## 리트코드 Longest Substring
+### 10ms
+-  int i = 0, j = 0, max = 0;
+        
+- Set<Character> set = new HashSet<>();
+
+- while (j < s.length()) {
+- if (!set.contains(s.charAt(j))) {
+- set.add(s.charAt(j++));
+- max = Math.max(max, set.size());
+- } else {
+- set.remove(s.charAt(i++));
+- }
+- }
+- return max;
+ 
