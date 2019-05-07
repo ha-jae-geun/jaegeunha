@@ -80,55 +80,44 @@ git push origin master // 깃허브로 푸시한다.
 
 
 -----------
-class Solution {
-    public int lengthOfLongestSubstring(String s) {
-        HashMap<Integer, Character> hashmap = new HashMap<Integer, Character>();
-        int [] cnt = new int[s.length()];
-        int k = -1;
-        int count = 0;
-        int j = 0;
-        
-        for(int i=0; i < s.length(); i++) {
-             
-            if(hashmap.containsValue(s.charAt(i))) {
-                cnt[j] = count;
-                j = j+1;
-                count = 0;
-                hashmap.clear();
-            }
-            
-            if(!hashmap.containsValue(s.charAt(i))) {
-                hashmap.put(i, s.charAt(i));
-                count = count + 1;
-            }
-            
-                
-        }
-        
-        for(int i = 0; i < cnt.length; i++) {
-            if(k < cnt[i])
-                k = cnt[i];
-        }
-        return k;
-    }
-}
+```java
+import java.io.*;
+import java.util.*;
 
-public class MainClass {
-    public static String stringToString(String input) {
-        return JsonArray.readFrom("[" + input + "]").get(0).asString();
-    }
-    
-    public static void main(String[] args) throws IOException {
-        BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
-        String line;
-        while ((line = in.readLine()) != null) {
-            String s = stringToString(line);
-            
-            int ret = new Solution().lengthOfLongestSubstring(s);
-            
-            String out = String.valueOf(ret);
-            
-            System.out.print(out);
-        }
+
+class Main {
+    public static void main(String[] args) throws java.lang.Exception {
+    	int bag = 0;
+	    int fiveWeight = 0;
+	    int threeWeight = 0;
+	    int result = 0;
+    	
+        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+        int num = Integer.parseInt(bufferedReader.readLine());
+        
+        
+        
+        if( num % 5 == 0)
+			result = num/5;
+	    else if(num % 5 == 3) {
+	        fiveWeight = num/5;
+	        threeWeight = (num - (num*fiveWeight)) / 3;
+	        result = fiveWeight + threeWeight;
+	    }
+	    else {
+	    	int num2 = num - 5*(num/5);
+	    	while(num2 >= 3) {
+	    		num2 = num2 - 5;
+	    		fiveWeight = fiveWeight + 1;
+	    		 if( num2 % 3 == 0) {
+	    			threeWeight = (num - (num*fiveWeight)) / 3;
+					result = fiveWeight + threeWeight;
+	    		 }
+	    	}
+	    }
+	    
+	    System.out.println(result);
+
     }
 }
+```
