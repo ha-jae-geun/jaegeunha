@@ -80,55 +80,55 @@ git push origin master // 깃허브로 푸시한다.
 
 
 -----------
-package algo;
-
-
-class ListNode {
-	  int val;
-	  ListNode next;
-	  ListNode(int x) { val = x; }
-      
- }
- 
-
-
-
-int carry = 0;
-int result = 0;
-int cnt = 0;
-
-while (l1 != null || l2 != null || carry > 0) {
-
-result = result + ((l1 != null) ? l1.val : 0);
-result = result + ((l2 != null) ? l2.val : 0) + carry;
-
-if (cnt == 0) {
-
-resultList = new ListNode(result % 10);
-
-carry = (result / 10);
-
-p = resultList;
-
-p = p;
-
-cnt++;
-
-} else {
-
-ListNode current = new ListNode(result % 10);
-
-carry = (result / 10);
-
-p.next = current;
-
-p = p.next;
+class Solution {
+    public int lengthOfLongestSubstring(String s) {
+        HashMap<Integer, Character> hashmap = new HashMap<Integer, Character>();
+        int [] cnt = new int[s.length()];
+        int k = -1;
+        int count = 0;
+        int j = 0;
+        
+        for(int i=0; i < s.length(); i++) {
+             
+            if(hashmap.containsValue(s.charAt(i))) {
+                cnt[j] = count;
+                j = j+1;
+                count = 0;
+                hashmap.clear();
+            }
+            
+            if(!hashmap.containsValue(s.charAt(i))) {
+                hashmap.put(i, s.charAt(i));
+                count = count + 1;
+            }
+            
+                
+        }
+        
+        for(int i = 0; i < cnt.length; i++) {
+            if(k < cnt[i])
+                k = cnt[i];
+        }
+        return k;
+    }
 }
 
-result = 0;
-
-l1 = ((l1 != null) ? l1.next : null);
-l2 = ((l2 != null) ? l2.next : null);
-
+public class MainClass {
+    public static String stringToString(String input) {
+        return JsonArray.readFrom("[" + input + "]").get(0).asString();
+    }
+    
+    public static void main(String[] args) throws IOException {
+        BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
+        String line;
+        while ((line = in.readLine()) != null) {
+            String s = stringToString(line);
+            
+            int ret = new Solution().lengthOfLongestSubstring(s);
+            
+            String out = String.valueOf(ret);
+            
+            System.out.print(out);
+        }
+    }
 }
-return resultList;
