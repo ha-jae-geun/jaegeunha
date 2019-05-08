@@ -81,43 +81,31 @@ git push origin master // 깃허브로 푸시한다.
 
 -----------
 ```java
-import java.io.*;
+/* package whatever; // don't place package name! */
+
 import java.util.*;
+import java.lang.*;
+import java.io.*;
 
-
-class Main {
-    public static void main(String[] args) throws java.lang.Exception {
-    	int bag = 0;
-	    int fiveWeight = 0;
-	    int threeWeight = 0;
-	    int result = 0;
-    	
-        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
-        int num = Integer.parseInt(bufferedReader.readLine());
-        
-        
-        
-        if( num % 5 == 0)
-			result = num/5;
-	    else if(num % 5 == 3) {
-	        fiveWeight = num/5;
-	        threeWeight = (num - (num*fiveWeight)) / 3;
-	        result = fiveWeight + threeWeight;
-	    }
-	    else {
-	    	int num2 = num - 5*(num/5);
-	    	while(num2 >= 3) {
-	    		num2 = num2 - 5;
-	    		fiveWeight = fiveWeight + 1;
-	    		 if( num2 % 3 == 0) {
-	    			threeWeight = (num - (num*fiveWeight)) / 3;
-					result = fiveWeight + threeWeight;
-	    		 }
-	    	}
-	    }
-	    
-	    System.out.println(result);
-
-    }
+/* Name of the class has to be "Main" only if the class is public. */
+class Main
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		ArrayList<Character> arrayList = new ArrayList<Character>();
+		
+		BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+		String input = bufferedReader.readLine();
+		
+		for(int i = 0; i<input.length(); i++) {
+			arrayList.add(input.charAt(i));
+		}
+		
+		for(int i = 0; i<arrayList.size() ; i++) {
+			if(arrayList.get(i) == '(' || arrayList.get(i) == '{' || arrayList.get(i) == '[')
+				while
+		}
+		
+	}
 }
 ```
