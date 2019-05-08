@@ -1082,6 +1082,11 @@ get방식: 1. <%@ page import="java.net.URLEncoder" %>
 
 
 # 서블릿
+- 서버에서 실행되는 자바 프로그램(HTML in JAVA)
+
+# JSP
+* JAVA in HTML
+
 ## 형식
 -   <servlet-name>so</servlet-name>; 이름부터 설정 필요;
 -   <servlet-class>a.b.c.Test</servlet-class>; 클래스 이름은 서블릿 이름과 매치
