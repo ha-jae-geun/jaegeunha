@@ -88,6 +88,7 @@ git push origin master // 깃허브로 푸시한다.
 
 
 
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
@@ -178,9 +179,9 @@ class Main
 			if(arrayList2.get(i)  == 7)
 				result = result + "3";
 			if(arrayList2.get(i)  == 8)
-				result = result + "+ (";
+				result = result + "+ ";
 			if(arrayList2.get(i)  == 9)
-				result = result + "* (";
+				result = result + "(";
 		}
 		String result2 = result.substring(0, result.length());
 		System.out.println(result2);
@@ -192,6 +193,8 @@ class Main
 		
 	}
 }
+
+
 
 
 
