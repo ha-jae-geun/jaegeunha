@@ -93,6 +93,7 @@ class Main
 	{
 		ArrayList<Character> arrayList = new ArrayList<Character>();
 		ArrayList<Integer> arrayList2 = new ArrayList<Integer>();
+		String result = null;
 		// ArrayList<HashMap<Integer, Character>> arrayList2 = new ArrayList<HashMap<Integer, Character>>();
 		// HashMap<Integer, Character> hashmap = HashMap<Integer, Character>();
 		
@@ -131,13 +132,22 @@ class Main
 		arrayList.add(hashmap);
 		
 		for(int i = 0; i<arrayList2.size() ; i++) {
-			if(arrayList2.get(i).get(i) == 0)
-				
+			if(arrayList2.get(i)  == 3)
+				result = result + ")";
+			if(arrayList2.get(i)  == 1)
+				result = result + "2+";
+			if(arrayList2.get(i)  == 2)
+				result = result + "2*(";
+			if(arrayList2.get(i)  == 4)
+				result = result + "3+";
+			if(arrayList2.get(i)  == 5)
+				result = result + "3*(";
 		}
+		String result2 = result.substring(result.length()-1);
 		
-		ScriptEngineManager mgr = new ScriptEngineManager();
+		ScriptEngineManager result2 = new ScriptEngineManager();
     		ScriptEngine engine = mgr.getEngineByName("JavaScript");
-    		System.out.println(engine.eval(foo));
+    		System.out.println(engine.eval(result2));
 		
 	}
 }
