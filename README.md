@@ -88,11 +88,20 @@ import java.lang.*;
 import java.io.*;
 
 /* Name of the class has to be "Main" only if the class is public. */
+/* package whatever; // don't place package name! */
+
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
 class Main
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		ArrayList<Character> arrayList = new ArrayList<Character>();
+		ArrayList<HashMap<Integer, Character>> arrayList2 = new ArrayList<HashMap<Integer, Character>>();
+		HashMap<Integer, Character> hashmap = HashMap<Integer, Character>();
+		
 		
 		BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 		String input = bufferedReader.readLine();
@@ -102,8 +111,34 @@ class Main
 		}
 		
 		for(int i = 0; i<arrayList.size() ; i++) {
-			if(arrayList.get(i) == '(' || arrayList.get(i) == '{' || arrayList.get(i) == '[')
-				while
+			if(arrayList.get(i).equals('(') {
+				if(i<arrayList.size()-1 && arrayList.get(i+1).equals(')')
+					hashmap.put(2, '+');
+				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(')')
+					hashmap.put(2, '*');
+			}
+			if(arrayList.get(i-1).equals(') {
+				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(')')
+					hashmap.put(0, ')');
+			}
+			
+			if(arrayList.get(i).equals('[') {
+				if(i<arrayList.size()-1 && arrayList.get(i+1).equals(']')
+					hashmap.put(3, '+');
+				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(']')
+					hashmap.put(3, '*');
+			}
+			if(arrayList.get(i-1).equals(']') {
+				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(']')
+					hashmap.put(0, ')');
+			}
+			
+		}
+		arrayList.add(hashmap);
+		
+		for(int i = 0; i<arrayList2.size() ; i++) {
+			if(arrayList2.get(i).get(i) == 0)
+				
 		}
 		
 	}
