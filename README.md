@@ -88,7 +88,6 @@ git push origin master // 깃허브로 푸시한다.
 
 
 
-
 import java.util.*;
 import java.lang.*;
 import java.io.*;
@@ -134,8 +133,8 @@ class Main
 					arrayList2.add(3); // 3번 케이스 )
 				if(i<arrayList.size()-1 && arrayList.get(i+1).equals('('))
 					arrayList2.add(8); // 3번 케이스 )
-				if(i<arrayList.size()-1 && arrayList.get(i+1).equals('['))
-					arrayList2.add(9); // 3번 케이스 )
+				// if(i<arrayList.size()-1 && arrayList.get(i+1).equals('['))
+				// 	arrayList2.add(9); // 3번 케이스 )
 			}
 			
 			if(arrayList.get(i).equals('[')) {
@@ -157,8 +156,8 @@ class Main
 					arrayList2.add(3); // 3번 케이스 )
 				if(i<arrayList.size()-1 && arrayList.get(i+1).equals('('))
 					arrayList2.add(8); // 3번 케이스 )
-				if(i<arrayList.size()-1 && arrayList.get(i+1).equals('['))
-					arrayList2.add(9); // 3번 케이스 )
+				// if(i<arrayList.size()-1 && arrayList.get(i+1).equals('['))
+				// 	arrayList2.add(9); // 3번 케이스 )
 			}
 			
 		}
