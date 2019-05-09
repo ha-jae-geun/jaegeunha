@@ -84,6 +84,7 @@ git push origin master // 깃허브로 푸시한다.
 
 
 
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
@@ -117,22 +118,22 @@ class Main
 					arrayList2.add(2); // 2번 케이스 2 *
 			}
 			if(arrayList.get(i).equals(')')) {
-				if(i<arrayList.size()-1 && !arrayList.get(i-1).equals('('))
+				if(i<arrayList.size()-1 && !(arrayList.get(i-1).equals('(')))
 					arrayList2.add(3); // 3번 케이스 )
-				if(i==arrayList.size()-1)
+				if(i==arrayList.size()-1 && !(arrayList.get(i-1).equals('(')))
 					arrayList2.add(3); // 3번 케이스 )
 			}
 			
 			if(arrayList.get(i).equals('[')) {
 				if(i<arrayList.size()-1 && arrayList.get(i+1).equals(']'))
 					arrayList2.add(4);  // 4번 케이스 3 +
-				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(']'))
+				if(i<arrayList.size()-1 && !(arrayList.get(i+1).equals(']')))
 					arrayList2.add(5); // 5번 케이스 3 *
 			}
 			if(arrayList.get(i).equals(']')) {
-				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals('['))
+				if(i<arrayList.size()-1 && !(arrayList.get(i-1).equals('[')))
 					arrayList2.add(3); // 3번 케이스 )
-				if(i==arrayList.size()-1)
+				if(i==arrayList.size()-1  && !(arrayList.get(i-1).equals('[')))
 					arrayList2.add(3); // 3번 케이스 )
 					
 			}
@@ -161,6 +162,8 @@ class Main
 		
 	}
 }
+
+
 
 
 
