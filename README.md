@@ -82,10 +82,13 @@ git push origin master // 깃허브로 푸시한다.
 -----------
 ```java
 
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
-import javax.script.*;
+import javax.script.ScriptEngineManager;
+import javax.script.ScriptEngine;
+
 
 class Main
 {
@@ -112,8 +115,10 @@ class Main
 				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(')'))
 					arrayList2.add(2); // 2번 케이스 2 *
 			}
-			if(arrayList.get(i-1).equals(')')) {
-				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(')'))
+			if(arrayList.get(i).equals(')')) {
+				if(i<arrayList.size()-1 && !arrayList.get(i-1).equals(')'))
+					arrayList2.add(3); // 3번 케이스 )
+				if(i=arrayList.size()-1)
 					arrayList2.add(3); // 3번 케이스 )
 			}
 			
@@ -123,9 +128,12 @@ class Main
 				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(']'))
 					arrayList2.add(5); // 5번 케이스 3 *
 			}
-			if(arrayList.get(i-1).equals(']')) {
+			if(arrayList.get(i).equals(']')) {
 				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(']'))
 					arrayList2.add(3); // 3번 케이스 )
+				if(i=arrayList.size()-1)
+					arrayList2.add(3); // 3번 케이스 )
+					
 			}
 			
 		}
@@ -142,7 +150,7 @@ class Main
 			if(arrayList2.get(i)  == 5)
 				result = result + "3*(";
 		}
-		String result2 = result.substring(result.length()-1);
+		String result2 = result.substring(0, result.length()-1);
 		
 		ScriptEngineManager mgr= new ScriptEngineManager();
     	ScriptEngine engine = mgr.getEngineByName("JavaScript");
@@ -150,6 +158,8 @@ class Main
 		
 	}
 }
+
+```
 
 
 ```
