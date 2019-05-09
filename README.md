@@ -87,19 +87,12 @@ import java.util.*;
 import java.lang.*;
 import java.io.*;
 
-/* Name of the class has to be "Main" only if the class is public. */
-/* package whatever; // don't place package name! */
-
-import java.util.*;
-import java.lang.*;
-import java.io.*;
-
 class Main
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		ArrayList<Character> arrayList = new ArrayList<Character>();
-		ArrayList<HashMap<Integer, Character>> arrayList2 = new ArrayList<HashMap<Integer, Character>>();
+		// ArrayList<HashMap<Integer, Character>> arrayList2 = new ArrayList<HashMap<Integer, Character>>();
 		HashMap<Integer, Character> hashmap = HashMap<Integer, Character>();
 		
 		
@@ -113,7 +106,7 @@ class Main
 		for(int i = 0; i<arrayList.size() ; i++) {
 			if(arrayList.get(i).equals('(') {
 				if(i<arrayList.size()-1 && arrayList.get(i+1).equals(')')
-					hashmap.put(2, '+');
+					hashmap.put(2, '+');  // 1번 케이스
 				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(')')
 					hashmap.put(2, '*');
 			}
