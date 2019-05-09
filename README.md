@@ -81,11 +81,11 @@ git push origin master // 깃허브로 푸시한다.
 
 -----------
 ```java
-/* package whatever; // don't place package name! */
 
 import java.util.*;
 import java.lang.*;
 import java.io.*;
+import javax.script.*;
 
 class Main
 {
@@ -106,31 +106,30 @@ class Main
 		}
 		
 		for(int i = 0; i<arrayList.size() ; i++) {
-			if(arrayList.get(i).equals('(') {
-				if(i<arrayList.size()-1 && arrayList.get(i+1).equals(')')
+			if(arrayList.get(i).equals('(')) {
+				if(i<arrayList.size()-1 && arrayList.get(i+1).equals(')'))
 					arrayList2.add(1);  // 1번 케이스 2 +
-				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(')')
+				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(')'))
 					arrayList2.add(2); // 2번 케이스 2 *
 			}
-			if(arrayList.get(i-1).equals(') {
-				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(')')
+			if(arrayList.get(i-1).equals(')')) {
+				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(')'))
 					arrayList2.add(3); // 3번 케이스 )
 			}
 			
-			if(arrayList.get(i).equals('[') {
-				if(i<arrayList.size()-1 && arrayList.get(i+1).equals(']')
+			if(arrayList.get(i).equals('[')) {
+				if(i<arrayList.size()-1 && arrayList.get(i+1).equals(']'))
 					arrayList2.add(4);  // 4번 케이스 3 +
-				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(']')
+				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(']'))
 					arrayList2.add(5); // 5번 케이스 3 *
 			}
-			if(arrayList.get(i-1).equals(']') {
-				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(']')
-					hashmap.put(0, ')'); // 3번 케이스 )
+			if(arrayList.get(i-1).equals(']')) {
+				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(']'))
+					arrayList2.add(3); // 3번 케이스 )
 			}
 			
 		}
-		arrayList.add(hashmap);
-		
+
 		for(int i = 0; i<arrayList2.size() ; i++) {
 			if(arrayList2.get(i)  == 3)
 				result = result + ")";
@@ -145,10 +144,12 @@ class Main
 		}
 		String result2 = result.substring(result.length()-1);
 		
-		ScriptEngineManager result2 = new ScriptEngineManager();
-    		ScriptEngine engine = mgr.getEngineByName("JavaScript");
-    		System.out.println(engine.eval(result2));
+		ScriptEngineManager mgr= new ScriptEngineManager();
+    	ScriptEngine engine = mgr.getEngineByName("JavaScript");
+    	System.out.println(engine.eval(result2));
 		
 	}
 }
+
+
 ```
