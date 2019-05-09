@@ -92,8 +92,9 @@ class Main
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		ArrayList<Character> arrayList = new ArrayList<Character>();
+		ArrayList<Integer> arrayList2 = new ArrayList<Integer>();
 		// ArrayList<HashMap<Integer, Character>> arrayList2 = new ArrayList<HashMap<Integer, Character>>();
-		HashMap<Integer, Character> hashmap = HashMap<Integer, Character>();
+		// HashMap<Integer, Character> hashmap = HashMap<Integer, Character>();
 		
 		
 		BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
@@ -106,24 +107,24 @@ class Main
 		for(int i = 0; i<arrayList.size() ; i++) {
 			if(arrayList.get(i).equals('(') {
 				if(i<arrayList.size()-1 && arrayList.get(i+1).equals(')')
-					hashmap.put(2, '+');  // 1번 케이스
+					arrayList2.add(1);  // 1번 케이스 2 +
 				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(')')
-					hashmap.put(2, '*');
+					arrayList2.add(2); // 2번 케이스 2 *
 			}
 			if(arrayList.get(i-1).equals(') {
 				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(')')
-					hashmap.put(0, ')');
+					arrayList2.add(3); // 3번 케이스 )
 			}
 			
 			if(arrayList.get(i).equals('[') {
 				if(i<arrayList.size()-1 && arrayList.get(i+1).equals(']')
-					hashmap.put(3, '+');
+					arrayList2.add(4);  // 4번 케이스 3 +
 				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(']')
-					hashmap.put(3, '*');
+					arrayList2.add(5); // 5번 케이스 3 *
 			}
 			if(arrayList.get(i-1).equals(']') {
 				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(']')
-					hashmap.put(0, ')');
+					hashmap.put(0, ')'); // 3번 케이스 )
 			}
 			
 		}
@@ -133,6 +134,10 @@ class Main
 			if(arrayList2.get(i).get(i) == 0)
 				
 		}
+		
+		ScriptEngineManager mgr = new ScriptEngineManager();
+    		ScriptEngine engine = mgr.getEngineByName("JavaScript");
+    		System.out.println(engine.eval(foo));
 		
 	}
 }
