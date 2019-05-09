@@ -83,6 +83,7 @@ git push origin master // 깃허브로 푸시한다.
 ```java
 
 
+
 import java.util.*;
 import java.lang.*;
 import java.io.*;
@@ -96,7 +97,7 @@ class Main
 	{
 		ArrayList<Character> arrayList = new ArrayList<Character>();
 		ArrayList<Integer> arrayList2 = new ArrayList<Integer>();
-		String result = null;
+		String result = "";
 		// ArrayList<HashMap<Integer, Character>> arrayList2 = new ArrayList<HashMap<Integer, Character>>();
 		// HashMap<Integer, Character> hashmap = HashMap<Integer, Character>();
 		
@@ -116,9 +117,9 @@ class Main
 					arrayList2.add(2); // 2번 케이스 2 *
 			}
 			if(arrayList.get(i).equals(')')) {
-				if(i<arrayList.size()-1 && !arrayList.get(i-1).equals(')'))
+				if(i<arrayList.size()-1 && !arrayList.get(i-1).equals('('))
 					arrayList2.add(3); // 3번 케이스 )
-				if(i=arrayList.size()-1)
+				if(i==arrayList.size()-1)
 					arrayList2.add(3); // 3번 케이스 )
 			}
 			
@@ -129,9 +130,9 @@ class Main
 					arrayList2.add(5); // 5번 케이스 3 *
 			}
 			if(arrayList.get(i).equals(']')) {
-				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(']'))
+				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals('['))
 					arrayList2.add(3); // 3번 케이스 )
-				if(i=arrayList.size()-1)
+				if(i==arrayList.size()-1)
 					arrayList2.add(3); // 3번 케이스 )
 					
 			}
@@ -142,22 +143,26 @@ class Main
 			if(arrayList2.get(i)  == 3)
 				result = result + ")";
 			if(arrayList2.get(i)  == 1)
-				result = result + "2+";
+				result = result + "2 +";
 			if(arrayList2.get(i)  == 2)
-				result = result + "2*(";
+				result = result + "2 *(";
 			if(arrayList2.get(i)  == 4)
-				result = result + "3+";
+				result = result + "3 +";
 			if(arrayList2.get(i)  == 5)
-				result = result + "3*(";
+				result = result + "3 *(";
 		}
-		String result2 = result.substring(0, result.length()-1);
+		String result2 = result.substring(0, result.length());
+		System.out.println(result2);
 		
-		ScriptEngineManager mgr= new ScriptEngineManager();
-    	ScriptEngine engine = mgr.getEngineByName("JavaScript");
-    	System.out.println(engine.eval(result2));
+		
+		// ScriptEngineManager mgr= new ScriptEngineManager();
+  //  	ScriptEngine engine = mgr.getEngineByName("JavaScript");
+  //  	System.out.println(engine.eval(result2));
 		
 	}
 }
+
+
 
 ```
 
