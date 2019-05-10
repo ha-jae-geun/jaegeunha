@@ -1,3 +1,11 @@
+# SQL 순서
+1. FROM clause
+2. WHERE clause
+3. GROUP BY clause
+4. HAVING clause
+5. SELECT clause
+6. ORDER BY clause
+
 1.
 ```
 SELECT SIDO, AVG(OZON)   FROM MICRO_DUST_2017
