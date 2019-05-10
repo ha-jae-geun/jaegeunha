@@ -136,6 +136,41 @@ Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
 ### 아이템
 - 키와 값이 있는 딕셔너리
 
+### 딕셔너리 언패킹 
+```python
+item방식
+if total > 180:
+
+    for sub, val in subject.items():
+        if val < 40:
+            print('{}점이지만 {}과목이 {}점이므로 과락입니다.'.format(total, sub, val))
+            a = 0
+        else:
+            a = 1
+
+    if(a == 1):
+        print('{}점으로 합격입니다.'.format(total))
+else:
+    print('{}점으로 불합격입니다.'.format(total))
+```
+
+### 딕셔너리 밀어넣기
+```python
+a = {}
+a["kor"] = int(input("국어 점수: "))
+a["math"] = int(input("수학 점수: "))
+a["eng"] = int(input("영어 점수: "))
+a["total"] = a.get("kor") + a.get("math") + a.get("eng")
+
+if(a.get("total") > 180):
+  for test in a:
+    if a.get(test) < 40:
+      print("과목 중 하나가 {} 이므로 탈락".format(a.get(test)))
+
+else:
+ print("총점이 {} 여서 탈락".format(a.get("total")))
+
+```
 
 # 객체지향 프로그래밍의 형태
 - 클래스 기반: 
