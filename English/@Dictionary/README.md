@@ -6279,6 +6279,9 @@ retaliate
  * #속죄; #penance; #페넌스; I offer you the penance
  * #죽었어 #가만 안둬 #용서
 
+# 왜
+* 너 왼쪽 눈이 왜그래? What's up with your left eye?
+
 # 왜곡
 * ☆#왜곡하지마; don't twist my words(일부러)
 
