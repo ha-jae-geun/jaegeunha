@@ -7840,6 +7840,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## salad
 * 누군가 애타게 친구가 되고 싶어서 노력할때 비꼬는 듯이 쓰이는 표현입니다.
 직역을 하자면 Salad로 친구를 살순 없다 라는 뜻입니다. You don't win friends with salad.
+* 경험없는 어린시절; someone's salad days
 
 ## salt
 * Salt; salary: 예전에 귀했던 salt에서 온 말; 
