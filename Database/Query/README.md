@@ -80,20 +80,20 @@ GROUP BY SIDO,
 
 6.
 ```SQ;
-SELECT SUBSTR(B.BASE_NAME,0,4) SIDO,
-       REPLACE(A.MEA_DATE, '-', '') MEAS_DATE,
-       ROUND(AVG(A.AVG_TMPRT), 3),
-       ROUND(AVG(A.DAY_PRE), 3),
-       ROUND(AVG(A.AVG_WND_SPD), 3),
-       ROUND(AVG(A.WND_DRCTN), 3),
-       ROUND(AVG(A.TOT_DYL_TM), 3),
-       ROUND(AVG(A.TOT_SOLAR), 3)  
+SELECT SUBSTR(B.BASE_NAME,0,4) 시도,
+       REPLACE(A.MEA_DATE, '-', '') 일자,
+       ROUND(AVG(A.AVG_TMPRT), 6) 평균기온,
+       ROUND(AVG(A.DAY_PRE), 6) 일강수량,
+       ROUND(AVG(A.AVG_WND_SPD), 6) 평균풍량,
+       ROUND(AVG(A.WND_DRCTN), 6) 최다풍향,
+       ROUND(AVG(A.TOT_DYL_TM), 6) 합계일조시간 ,
+       ROUND(AVG(A.TOT_SOLAR), 6) 합계일사  
 FROM   COPY_WEATHER_2015 A,
        TB_BASE_CODE B
 WHERE  B.KIND_CODE    = 1
-AND    A.AREA (+)     = B.BASE_CODE
+AND    A.AREA = B.BASE_CODE
 GROUP BY SUBSTR(B.BASE_NAME,0,4), REPLACE(A.MEA_DATE, '-', '')
-ORDER BY SIDO, MEAS_DATE
+ORDER BY 시도, 일자
 ```
 
 - GROUP BY에 별명 
