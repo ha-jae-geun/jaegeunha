@@ -2560,6 +2560,9 @@
 * 'mob'는 명사로 '무리, 떼'를 가리키고, 동사로는 '떼 지어 몰려들다'라는 의미를 가집니다. 특히 폭력성이나 말썽의 여지가 있는 듯한 (사람, 동물)집단에 사용한답니다.
   * 코난은 흥분한 팬들에게 둘러싸였다. 코난은 흥분한 팬들에게 둘러싸였다.
 
+# 뒤돌아보다
+* look over one's shoulder
+
 # 뒤집다
 * 전을 뒤집다; turn[flip] the fried food
 * 1.(안을 밖으로) turn sth inside out, turn sth wrong side out 2.(위를 아래로) turn sth over, turn sth upside down 3.(말·계획·순서 등을) upset, reverse 4.(판결·학설 등을) overturn, overrule, reverse
