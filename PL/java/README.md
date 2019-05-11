@@ -312,6 +312,9 @@
  * }
 
 
+# System.out.println
+* System.out.println 방식의 출력은 시스템 리소스를 필요 이상으로 잡아먹는다는 한계가 존재합니다. 시간과 리소스를 고려한다는 측면에서 우리는 빠른 입출력 방식인 BufferedWriter를 사용할 수 있습니다.
+
 ## Random 메소드
 - ① next 메소드
 = next 메소드는 다음의 의사 난수를 생성한다.
