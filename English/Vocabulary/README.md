@@ -3431,6 +3431,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 우리 태현 씨 약간 술톤에 가까운! You have the Asian flush tone
 * 1) flush 는 [물로 을 씻어내다] 라는 뜻이 있어요. out 과 함께 쓰이면 액체를 가지고 뭔가를 밖으로 배출시키는 것입니다. 2) flush 와 out 사이에 목적어가 들어갈 수 있는데요, 여기선 you, 즉 일반적인 사람이 들어갔기 때문에 [사람을 씻어 배출해 내다 = 독소를 빼내다] 라는 의미로 쓰였답니다.
   * 이것이 바이러스들을 당신 몸 밖으로 배출시키는 것을 도와줄거에요. ex) This will help you flush viruses out of your body.
+* 언젠가는 너의 인생이 주마등처럼 스쳐 지나갈거야; One day your life will flash before your eyes; flash before one's eyes
 
 ## flunk
   * flunk a test; 시험 망하다, flunk a subject; 과목 망치다, flunk out of school: 퇴학당하다
