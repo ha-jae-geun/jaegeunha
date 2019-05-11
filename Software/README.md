@@ -47,6 +47,7 @@
 	* 위키 미디아 https://commons.wikimedia.org/wiki/Main_Page
 * 컬러 스크립트: https://colorscripter.com/ 
 * 오라클 라이브러리: https://mvnrepository.com/
+* 유튜브 영어; https://youglish.com/
 
 # 계정
 * 티스토리: qofkdla naver / 
@@ -56,7 +57,16 @@
 * https://www.1040.com: jaegeun@g / Hjg!
 * ipin: jaegeunha / H1q! / Hjg1q
 * 오라클: jaegeunha94@gmail.com / Hj1q
-	
+
+# 신한
+1. ㅈㄷ | ㅈㄱ	7 ㅅㄱ  | ㅂㅊ	13 ㅂㅈ | ㅁㅈ	19 ㅇㅇ | ㅅㅂ	25 ㄷㄱ | ㅂㅅ
+2. ㄹㄹ | ㅁㅁ	8 ㅅㅂ | ㅂㅅ	14 ㄴㅇ | ㄱㄴ	20 ㄴㄱ | ㅁㅅ	26 ㄷㄷ | ㅈㄷ
+3. ㅅㄹ | ㄹㅊ	9 ㄴㅊ | ㅇㅊ	15 ㄱㄱ | ㅁㅊ 	21 ㄴㄷ | ㄱㅁ	27 ㄴㅇ | ㅁㅅ
+4. ㅇㅊ | ㅊㄷ	10 ㅇㄱ | ㅁㅇ 	16 ㄹㄴ | ㅁㄱ	22 ㅁㅇ | ㅈㅈ	28 ㅈㄹ | ㅅㅂ
+5. ㅊㅂ | ㅈㄱ	11 ㅈㅇ | ㅈㄱ	17 ㅅㅊ | ㄹㅁ	23 ㅅㅇ | ㅇㅈ	29 ㄱㅁ | ㄷㅁ
+6. ㅇㅊ | ㅈㄴ	12 ㄱㅊ | ㄴㅊ	18 ㅁㅂ | ㄱㅊ	24 ㅈㅅ | ㅅㄴ	30 ㄷㅁ | ㅂㅅ
+
+
 # 블로그
 - 반응형 웹 변환: https://adsensemaster.herokuapp.com/index.php?id=advancedMaker.html 
 0. 웹마스터 도구
@@ -70,11 +80,6 @@
 4. 구글 애드센트
 5. 다음 애드핏 https://adfit.biz.daum.net/ qofkdla $
 
-# 윈동
-* 한글
-* 깃허브: https://github.com/ha-jae-geun
-* 블로그: http://jae-jae.tistory.com/
-* 유튜브 영어; https://youglish.com/
 
 # 한국 IT
 *  레딧, 테크런치, 엔가젯, cnn, ted, 슬래시기어, 와이어드, 매셔블, 씨넷
