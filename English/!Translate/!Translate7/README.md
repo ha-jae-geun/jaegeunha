@@ -1,3 +1,24 @@
+# 영어로 직업에 대해서 묻고 답하기 - PART 3
+* A: 무슨 일 하세요? So, what kind of work do you do?
+* B: 출판사에서 일해요. I work for a publishing company.
+* A: 오, 그래요? 거기서 무슨 일 하세요? Oh, yeah? What do you do there?
+* B: 카피에디터로 구성된 작은 팀을 맡고 있어요. 저희가 하는 일은 글 원본을 가져다가 출판에 적합한 형태로 편집을 하는거예요. I'm in charge of a small group of copy editors. Our job is to take original written material and make sure it's properly edited for publication. 
+* A: 오, 신기하네요. 거기서 오래 일했어요? Wow, that interesting. Have you been working there long?
+* B: (이제) 4년 조금 넘게 일했어요. 일은 꽤 만족해요. 좋은 동료들도 있고 상사들도 저한테 잘해주시고요. 꽤 만족하고 있어요. I've been working there for just over 4 years now. I'm pretty happy with my job.
+I have great coworkers and my superiors treat me very well.
+
+# 관사 리뷰 (연습가이드-50편)
+* Yesterday, I was at a coffee shop.  
+	* at a coffee shop: 일반화
+* I was just having a cup of coffee and minding my own business when I started to get distracted by a * conversation that was going on at another table.
+	* a cup of coffee, a group of young men; 단위/수량
+* There was a group of young men. There must've been 5 or 6 of them and if I were to guess, they were teenagers.
+* They were having a very heated discussion about the new Avengers movie. 
+* You would think they would be careful about describing (the) details from the movie at a public place like that  but they seemed way too excited to care.  
+* I was lucky I'd already seen the movie, otherwise, it would've completely ruined it for me.  
+* So, if you haven't seen the movie yet and are planning to, please, just be careful when you're out in public and if you happen to hear anything that sounds remotely related to the new Avengers movie, just shut your ears and get out of there!"﻿
+
+
 # I like + to 부정사 // I like + 동명사 ing
  *  like 동명사 형식은 "내가 그걸 좋아해서 그렇게 한다"는 의미와 "그렇게 할 수 있는 기회가 왔을 때 그것을 즐겨한다"는 의미를 내포하지만
  * I like to 부정사 형식은 "내가 그걸 좋아해서 그렇게 한다" + "그래서 의도적으로 그렇게 하곤 한다."의 의미를 내포합니다.
