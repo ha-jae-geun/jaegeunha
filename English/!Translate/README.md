@@ -1,3 +1,18 @@
+# 원어민
+* 귀찮았다; It just felt like too much trouble -ing
+* be worried(afraid) + might; i'm afraid that there might be some typos
+ * 아마 진작에 하나 샀어야 하지만 그래도 이제라도 산게 어디야, 그렇지?  I probably should've gotten one a long time ago but better late than never, right?; probably should've 
+* 뭐 그런거; i washed the dishes and whatnot
+* 급하거나 그런거 아니에요; i'm not in a hurry or anything
+* 저희는 정말 좋은 수영장이 있는 호텔에서 묵었어요;
+  * We stayed at a hotel that has a really good swimming pool; 가지고 있다를 have로
+* 아이들이 너무 떠들어요; Kids are too loud; 코 시끄럽게 골다; snoring so loud
+* 요리 잘한다(cook really well) -> Such a good cook
+* 영어에서 게으르다로 돌려 표현하기도 함; I wouldn't have been lazy about -
+* 너 그거 먹어봤어? ? Have you ever tried the guacamole at King Taco?; 
+  * did you go to 라고 안함
+* 코트 벗지마; Keep your coat on; don't take off your coat를 긍정적인 사고로 변경
+
 # 직업에 대해서 묻고 답하기 - PART 1 [ 영어회화 ]
 * A:What kind of work do you do? 
 * B:I'm a freelance civil deisgn engineer. 
