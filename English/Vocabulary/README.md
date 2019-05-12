@@ -9170,6 +9170,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * : (OO에 대해) 좀 잘 알다 [ 숙어 ] know a thing or two (about OO) a thing or two는 정말로 한 ,두 개를 의미한다기보다는 '어느 정도', 강조의 '좀'을 뜻한다고 볼 수 있어요^^
 	* 제가 와인에 대해 좀 일가견이 있죠. I know a thing or two about wine. 
 
+## trouble
+* 귀찮았다; It just felt like too much trouble -ing
+* be worried(afraid) + might; i'm afraid that there might be some typos
+
 ## troll
 * Internet/online troll = 악플러, 악성 온라인 괴물
     * = 그 악명 높은 악플러는 십대 소년으로 밝혀졌다. The infamous Internet troll turned out to be a teenage boy.
@@ -9938,6 +9942,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## worry
 * i worry about you: 항상 걱정한다.  i'm worried about you: 말하는 그 시점에 걱정한다.
+* be worried(afraid) + might; i'm afraid that there might be some typos
 
 ## worth
 * 본인 말이 지금 무슨 도움이 될지 스스로도 확신이 없지만, 그래도 혹시 모르니 심심하게 건넨다는 느낌이에요. 겸손하거나 조심스러운 태도를 담고 싶을 때 쓰기도 하죠. 예문을 보면서 익혀보세요!
