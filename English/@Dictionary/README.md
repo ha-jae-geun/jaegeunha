@@ -9923,6 +9923,7 @@ retaliate
 	* 더 힘을 내! 난 네가 더 잘 할 수 있다는 걸 알아. ex) Dig deep! I know you can do better.
 
 # 힘들다
+* 한번의 일로 힘들었던 일에 대해서 이야기 할 때는 그 일로 인해서 사람이 힘들어진 tired 이야기로 말하는 경우가 많고 지속적/꾸준히/반복적으로 일상적으로 일어나는 힘든 일에 대해서는 그러한 조건이 힘든 tough/difficult/hard의 이야기로 말하는 경우가 많다.
 * # 고비; 고비를 넘기다; he and i have turned a corner
 * # 빡세다; Today will be intense; tough; I studied intensely
   * # 부담 주려고한건 아닌데; i don't want to put you on the spot; put somebody on the spot
