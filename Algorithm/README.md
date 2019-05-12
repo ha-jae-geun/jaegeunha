@@ -114,7 +114,12 @@ public class Ex15552 {
 }
 ```
 
+<<<<<<< HEAD
 ```JAVA
+=======
+# float
+```java
+>>>>>>> 9d36695573700a84269e824e296ddf461851e04c
 import java.util.Scanner;
  
 public class Main {
@@ -148,3 +153,7 @@ public class Main {
     }
 }
 ```
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9d36695573700a84269e824e296ddf461851e04c
