@@ -8,6 +8,9 @@
 * 예) "그 사람 최근에 차사고로 아내를 잃었대. 엄청 슬프겠다."
 * - "He recently lost his wife in car accident.  He must be really sad."﻿
 * 나 다섯시간 연속으로 운전했어; i drove almost 5 hours straight
+* 나 출근하려면 5시에 일어나야돼; i have to get up at 5 o'clock to go to work
+* 엄청 힘들겠다; That must be really tough
+* 한번의 일로 힘들었던 일에 대해서 이야기 할 때는 그 일로 인해서 사람이 힘들어진 tired 이야기로 말하는 경우가 많고 지속적/꾸준히/반복적으로 일상적으로 일어나는 힘든 일에 대해서는 그러한 조건이 힘든 tough/difficult/hard의 이야기로 말하는 경우가 많다.
 
 # 영어로 직업에 대해서 묻고 답하기 - PART 3
 * A: 무슨 일 하세요? So, what kind of work do you do?
