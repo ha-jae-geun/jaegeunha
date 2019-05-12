@@ -1,3 +1,14 @@
+# 영어 대화가이드 #007 - 배고프겠다, 힘들겠다, 배고팠겠다, 힘들었겠다 - must be / must have been
+* 나 하루종일 아무것도 안먹었어; i haven't eaten anythinga ll day today
+* 엄청 배고프겠다; You must be hungry
+* 나 어제 하루종일 아무것도 안먹었어; i didn't eat anything all day yesterday
+* 엄청 배고팠겠다; You must have been hungry; must've 혹은 must'a been
+* "친구가 직장에서 문제가 좀 있어서 새벽 2시까지 붙잡혀 있었대. 엄청 스트레스 받았겠다.
+- "A friend of mine was caught up in some problem at work and couldn't get out until 2 in the morning. It must have been really stressful."
+* 예) "그 사람 최근에 차사고로 아내를 잃었대. 엄청 슬프겠다."
+* - "He recently lost his wife in car accident.  He must be really sad."﻿
+* 나 다섯시간 연속으로 운전했어; i drove almost 5 hours straight
+
 # 영어로 직업에 대해서 묻고 답하기 - PART 3
 * A: 무슨 일 하세요? So, what kind of work do you do?
 * B: 출판사에서 일해요. I work for a publishing company.
