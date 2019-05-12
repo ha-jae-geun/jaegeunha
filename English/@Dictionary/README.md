@@ -6289,6 +6289,8 @@ retaliate
 * 칫솔로 원을 그리듯 이를 닦으세요; Brush your teeth in a circular motion
 
 # 원어민
+* 귀찮았다; It just felt like too much trouble -ing
+* be worried(afraid) + might; i'm afraid that there might be some typos
  * 아마 진작에 하나 샀어야 하지만 그래도 이제라도 산게 어디야, 그렇지?  I probably should've gotten one a long time ago but better late than never, right?; probably should've 
 * 뭐 그런거; i washed the dishes and whatnot
 * 급하거나 그런거 아니에요; i'm not in a hurry or anything
