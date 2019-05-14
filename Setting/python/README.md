@@ -37,3 +37,9 @@
 - -Xms512m  -Xmx1024m  수정
 - Dfile.encoding=UTF-8 설정
   - 파이참 setting에서 encoding에 project setting의 인코딩 확인
+
+
+# 시스템 가상환경
+1. create project
+2. 경로 설정
+3. existing -- -> System
