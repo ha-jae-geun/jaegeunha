@@ -1,4 +1,5 @@
 # 원어민
+* 나쁜 손님;  black consumer: 흑인 비하; i had some bad customers today; deal with horrible/bad/rude/disrepectful customers
 * 귀찮았다; It just felt like too much trouble -ing
 * be worried(afraid) + might; i'm afraid that there might be some typos
  * 아마 진작에 하나 샀어야 하지만 그래도 이제라도 산게 어디야, 그렇지?  I probably should've gotten one a long time ago but better late than never, right?; probably should've 
