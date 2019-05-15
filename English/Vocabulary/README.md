@@ -922,6 +922,9 @@ We need food and water.
 * bitch; 2. 임마; 3. he's such a bitch; 징징된다 4. Stop bitching; at me 싫은 소리 그만해라
   * 일방적으로 갈구다; bitch someone out
 
+## bumper
+* 엄청나게 많은; 많은 수확물 거두었어; we had a bumper crop
+
 ## bubble
 * 생각 풍선; thought bubble; 말풍선: speech bubble
 * someone's bubble 은 [잘못된 믿음/생각] 을 의미하는 단어에요. 주로 bust/burst someone's bubble 이라는 표현을 많이 쓰는데요. [희망/잘못된 믿음/생각 등을 없애다] = [현실을 깨닫게 해주다] 의 의미를 가집니다. 영상에서는 제니퍼가 팁에 대해서 그간 잘못 생각해왔다는 것을 말하기 위해 bubble 이라는 단어를 썼어요. 또, '자기만의 세상'에서 살고 다른 사람들의 삶이 어떤지 잘 모르는 사람 보고 "They're living in a bubble." "버블 속, 방울 속에서 살고 있다"고 해요. 특히 부잣집에서 자라 세상 물정을 잘 모르는 사람을 두고 하는 말입니다.
@@ -7758,7 +7761,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## score
 * 인간관계에서 keep score하는 건 "넌 ~을 몇 번 했고 나는 몇 번 했네" 하면서 따지는 걸 뜻해요. 특히 "네가 이만큼 잘해줬으니 난 이만큼만 해야지" 또는 "너도 저번에 ~ 했으면서 왜 나한테 그래?" 등 부정적인 뜻으로 많이 사용해요.
-
+* 풀어야 할 원한이 있다; have a score to settle
 
 ## science
 * pseudo-science : 유사과학, 사이비과학; 과학적이지 않지만 과학적인 방법에 근거했다고 여겨지는 믿음이나 관행을 의미합니다. 
@@ -8393,6 +8396,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 이건 모함이야; THis is setup
 
 ## settle
+* 풀어야 할 원한이 있다; have a score to settle
 * settle an argument : 논쟁을 해결하다, 마무리 짓다 우리말로 'OO 배틀'이라고 하죠? 영어에서도 battle이란 표현을 쓰지만 더 자주 쓰는 표현은 'OO-off'랍니다. 
 * 장소는 아직 정해지지 않았어요. The venue is not settled yet.
 * 1. settle on OO: OO로 정하다 
