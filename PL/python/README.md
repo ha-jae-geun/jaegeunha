@@ -191,6 +191,13 @@ else:
 # Development Environment
 * window: python, Mac¤ýUbuntu: python3
 * install python -> PC properties -> System settings -> system variable -> edit path -> ;path -> C:\Python34\ -> cmd -> python path
+
+
+# 네임스페이스
+* 빌트인: 내장객체
+* 전역: 글로벌
+* 지역: 로컬
+
 ---
 
 # python, Ruby
