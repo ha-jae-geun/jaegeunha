@@ -83,113 +83,121 @@ git push origin master // 깃허브로 푸시한다.
 ```java
 
 
+package jaegeun;
 
+import java.util.Scanner;
 
+public class Stack2 {
 
+	static {
 
+	}
 
-import java.util.*;
-import java.lang.*;
-import java.io.*;
-import javax.script.ScriptEngineManager;
-import javax.script.ScriptEngine;
-
-
-class Main
-{
-	public static void main (String[] args) throws java.lang.Exception
-	{
-		ArrayList<Character> arrayList = new ArrayList<Character>();
-		ArrayList<Integer> arrayList2 = new ArrayList<Integer>();
-		String result = "";
-		// ArrayList<HashMap<Integer, Character>> arrayList2 = new ArrayList<HashMap<Integer, Character>>();
-		// HashMap<Integer, Character> hashmap = HashMap<Integer, Character>();
-		
-		
-		BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
-		String input = bufferedReader.readLine();
-		
-		for(int i = 0; i<input.length(); i++) {
-			arrayList.add(input.charAt(i));
-		}
-		
-		for(int i = 0; i<arrayList.size() ; i++) {
-			if(arrayList.get(i).equals('(')) {
-				if(i<arrayList.size()-1 && arrayList.get(i+1).equals(')')) {
-					if(i<arrayList.size()-2 && arrayList.get(i+2).equals('('))
-						arrayList2.add(1);  // 1번 케이스 2 +
-					else if(i<arrayList.size()-2 && arrayList.get(i+2).equals('['))
-						arrayList2.add(1);  // 1번 케이스 2 +
-					else 
-						arrayList2.add(6);  // 6번 케이스 2
+	public static String[][] copyStar(String[][] star, String[][] result, int k, int l) {
+		for (int i = 0; i < 3; i++) {
+			for (int j = 0; j < 6; j++) {
+				if (star[i][j] != null) {
+					result[i + k][j + l - 3] = star[i][j];
 				}
-				if(i<arrayList.size()-1 && !arrayList.get(i+1).equals(')'))
-					arrayList2.add(2); // 2번 케이스 2 *
 			}
-			if(arrayList.get(i).equals(')')) {
-				if(i<arrayList.size()-1 && !(arrayList.get(i-1).equals('(')))
-					arrayList2.add(3); // 3번 케이스 )
-				if(i==arrayList.size()-1 && !(arrayList.get(i-1).equals('(')))
-					arrayList2.add(3); // 3번 케이스 )
-				if(i<arrayList.size()-1 && arrayList.get(i+1).equals('('))
-					arrayList2.add(8); // 3번 케이스 )
-				// if(i<arrayList.size()-1 && arrayList.get(i+1).equals('['))
-				// 	arrayList2.add(9); // 3번 케이스 )
+		}
+		return result;
+
+	}
+
+	public static void main(String[] args) throws java.lang.Exception {
+		Scanner scanner = new Scanner(System.in);
+		int input = scanner.nextInt();
+
+		String[][] isResult = new String[input][(input * 2) + 10];
+		String[][] isStar = new String[3][6];
+		int count = 1;
+		int repeat = 0;
+		int[] countArray = new int[] { 2, 1, 1, 1 };
+
+		for (int i = 0; i < 3; i++) {
+			int l = 0;
+			for (int j = 1; j < 3 - i; j++) {
+				l = l + 1;
+				isStar[i][l] = " ";
 			}
-			
-			if(arrayList.get(i).equals('[')) {
-				if(i<arrayList.size()-1 && arrayList.get(i+1).equals(']')) {
-					if(i<arrayList.size() && arrayList.get(i+2).equals('('))
-						arrayList2.add(4);  // 1번 케이스 2 +
-					else if(i<arrayList.size()-2 && arrayList.get(i+2).equals('['))
-						arrayList2.add(4);  // 1번 케이스 2 +
-					else 
-						arrayList2.add(7);  // 6번 케이스 2
-				}
-				if(i<arrayList.size()-1 && !(arrayList.get(i+1).equals(']')))
-					arrayList2.add(5); // 5번 케이스 3 *
+			isStar[1][3] = " ";
+
+			for (int k = 0; k < i * 2 + 1; k++) {
+				l = l + 1;
+				isStar[i][l] = "*";
 			}
-			if(arrayList.get(i).equals(']')) {
-				if(i<arrayList.size()-1 && !(arrayList.get(i-1).equals('[')))
-					arrayList2.add(3); // 3번 케이스 )
-				if(i==arrayList.size()-1  && !(arrayList.get(i-1).equals('[')))
-					arrayList2.add(3); // 3번 케이스 )
-				if(i<arrayList.size()-1 && arrayList.get(i+1).equals('('))
-					arrayList2.add(8); // 3번 케이스 )
-				// if(i<arrayList.size()-1 && arrayList.get(i+1).equals('['))
-				// 	arrayList2.add(9); // 3번 케이스 )
-			}
-			
 		}
 
-		for(int i = 0; i<arrayList2.size() ; i++) {
-			if(arrayList2.get(i)  == 3)
-				result = result + ")";
-			if(arrayList2.get(i)  == 1)
-				result = result + "2 +";
-			if(arrayList2.get(i)  == 2)
-				result = result + "2 *(";
-			if(arrayList2.get(i)  == 4)
-				result = result + "3 +";
-			if(arrayList2.get(i)  == 5)
-				result = result + "3 *(";
-			if(arrayList2.get(i)  == 6)
-				result = result + "2";
-			if(arrayList2.get(i)  == 7)
-				result = result + "3";
-			if(arrayList2.get(i)  == 8)
-				result = result + "+ ";
-			if(arrayList2.get(i)  == 9)
-				result = result + "(";
+		isResult = copyStar(isStar, isResult, 0, input - 1);
+
+//		
+		for (int i = 3; i < input; i = i + 3) {
+			int a = 0;
+
+			if (count % 4 == 0) {
+				for (int k = 0; k < countArray[0]; k++) {
+					isResult = copyStar(isStar, isResult, i, input + i - a - 1);
+					a = a + 24;
+
+				}
+				countArray[0] = countArray[0] + 1;
+			}
+			if (count % 4 == 1) {
+				for (int k = 0; k <= countArray[1] - 1; k++) {
+					isResult = copyStar(isStar, isResult, i, input + i - a - 1);
+					isResult = copyStar(isStar, isResult, i, input - i + a - 1);
+					if(k%2 == 0)
+						a = a + 6;
+					else
+						a = a + 18;
+
+				}
+				countArray[1] = countArray[1] + 1;
+			}
+			if (count % 4 == 2) {
+				for (int k = 0; k <= countArray[2] - 1; k++) {
+					a = a + 6;
+					isResult = copyStar(isStar, isResult, i, input - a - 1);
+					isResult = copyStar(isStar, isResult, i, input + a - 1);
+					a = a + 6;
+
+				}
+				countArray[2] = countArray[2] + 1;
+			}
+			if (count % 4 == 3) {
+				for (int k = 0; k <= countArray[3]; k++) {
+
+					isResult = copyStar(isStar, isResult, i, input + i - a - 1);
+					isResult = copyStar(isStar, isResult, i, input - i + a - 1);
+
+//					isResult = copyStar(isStar, isResult, i, input + i - a -1);
+//					isResult = copyStar(isStar, isResult, i, input - i + a -1);
+					a = a + 6;
+
+//					isResult = copyStar(isStar, isResult, i, input + a -1);
+//					isResult = copyStar(isStar, isResult, i, input - a -1);
+//					isResult = copyStar(isStar, isResult, i, input + a + 6 -1);
+//					isResult = copyStar(isStar, isResult, i, input - a - 6 -1);
+
+				}
+				countArray[3] = countArray[3] + 2;
+			}
+			count = count + 1;
+
 		}
-		String result2 = result.substring(0, result.length());
-		System.out.println(result2);
-		
-		
-		// ScriptEngineManager mgr= new ScriptEngineManager();
-  //  	ScriptEngine engine = mgr.getEngineByName("JavaScript");
-  //  	System.out.println(engine.eval(result2));
-		
+
+		for (int i = 0; i < input; i = i + 1) {
+			for (int j = 0; j < (input * 2) - 1; j++) {
+
+				if (isResult[i][j] != "*")
+					isResult[i][j] = " ";
+				System.out.print(isResult[i][j]);
+
+			}
+			System.out.println();
+		}
+
 	}
 }
 
