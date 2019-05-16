@@ -2800,6 +2800,7 @@ public @interface Override {
 - 인터프리터 방식
 - 예외(수행 안멈춤; 정상 종료) -> 에러(수행 멈춤; 비정상 종료) -> 오류
 - 비정상종료하지 말고 정상종료시켜서 에러 이유를 알려줘라.
+- try, catch; Exception e
 
 ## 예외처리
 - finally가 아니면 try catch를 개별적으로 잘 안쓰게됨
