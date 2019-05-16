@@ -153,7 +153,53 @@ public class Main {
     }
 }
 ```
-<<<<<<< HEAD
-=======
-
->>>>>>> 9d36695573700a84269e824e296ddf461851e04c
+# 큐
+```java
+import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
+import java.util.Queue;
+import java.util.Scanner;
+ 
+public class Main {
+ 
+ 
+    public static void main(String[] args) {
+        Scanner scanner= new Scanner(System.in);
+        Queue queue = new LinkedList();
+        ArrayList<Integer> list = new ArrayList<Integer>();
+        String s = scanner.nextLine();
+        String[] str = s.split(" ");
+        int k = Integer.parseInt(str[0]);
+        int n = Integer.parseInt(str[1]);
+        int cnt = 1;
+        String ans ="";
+        
+        for (int i = 0; i < k; i++) {
+            queue.offer(i+1);
+        }
+        
+        while(true) {
+            if (cnt%n == 0) {
+                list.add((Integer) queue.poll());
+                cnt = 1;
+            } else {
+                queue.offer(queue.poll());
+                cnt++;
+            }
+            
+            if (queue.isEmpty()) {
+                break;
+            }
+        }
+        for (int i = 1; i <= list.size(); i++) {
+            if(i == list.size()) {
+                ans = ans + Integer.toString(list.get(i-1));
+            }else {
+                ans = ans + Integer.toString(list.get(i-1)) + ", ";
+            }
+        }
+        System.out.println("<" + ans + ">");
+    }
+}
+```
