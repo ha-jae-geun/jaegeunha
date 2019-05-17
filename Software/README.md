@@ -53,7 +53,7 @@
 * 티스토리: qofkdla naver / 
 * 티스토리; qofkdla@naver.com
 * 깃; dhkdndksk@gmail.com
-* 코빗: jaegeun@gmail / h1!!
+* 코빗: jaegeun@gmail / H1!!
 * https://www.1040.com: jaegeun@g / Hjg!
 * ipin: jaegeunha / H1q! / Hjg1q
 * 오라클: jaegeunha94@gmail.com / Hj1q
