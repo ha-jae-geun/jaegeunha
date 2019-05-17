@@ -9520,6 +9520,10 @@ retaliate
 * attention to detail = # 세밀함, # 꼼꼼함
   * 저는 굉장히 꼼꼼합니다. 저는 굉장히 꼼꼼합니다.
 
+# 해고
+* fired; 업무성과가 잘 안나왔을 때, 불미스러운
+* laid off: 구조조정, 사업중단, 
+
 # 해명
 * 해명할 필요 없어; YOu don't owe me an explanation
 
