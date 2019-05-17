@@ -1,4 +1,6 @@
 # 원어민
+* 굉장히 지저분해 보였어; it looked really dirty; 몇 달은 못 씻은것처럼 보였어; It looked like it hadn't washed(절)
+ * 보나보나 주인도 없는 개였는데; It was pretty clear it didn't have an owner
 * 나쁜 손님;  black consumer: 흑인 비하; i had some bad customers today; deal with horrible/bad/rude/disrepectful customers
 * 귀찮았다; It just felt like too much trouble -ing
 * be worried(afraid) + might; i'm afraid that there might be some typos
