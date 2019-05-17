@@ -217,12 +217,19 @@ a = Song()
 # 모듈
 - py파일
 
+## import
+1. import A.B.C.mod
+2. from A.B.C import mod;  패키지로 되어있는 것은 from 키워드 
+
 ## 써드파티
 
 ## 표준 모듈
 
 ## 사용자 모듈
 
+
+## __init__.py
+* 서로 다른 경로에 있는 것을 사용할 때 __init__.py 파일이 있어야 한다.
 
 ---
 
