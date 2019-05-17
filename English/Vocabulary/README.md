@@ -1491,6 +1491,10 @@ We need food and water.
 ## cylinder
   * #순조롭게 잘 돌아가다; #fire / #hit / #click on all cylinders
 
+## course
+* 스스로 자연스럽게 전개되는 것을 take/run its course 라고 해요. 영상처럼 let 과 함께 ‘그대로 진행되게 두다’라는 패턴으로 잘 씁니다.  혹은 특정 명사 대신 let nature take its course 라고도 해요. 역시 ‘자연에 맡기다, 그냥 놔두다’라는 뜻입니다.
+	* = 치료약이 없었기 때문에 그는 병이 진행되는대로 놔뒀다. There was no cure for the disease, so he just let it take its course.
+
 ## coffee
  * * 나는 커피를 좋아해. (추상적)
  *  - I like coffee. (O)
@@ -8226,6 +8230,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## stone
 * 우리가 알고 있는 단순한 명사들이 동사의 역할을 하기도 해요. 1) water = 물을 주다, 2) plant = 심다 등의 단어들이 있는데요. stone 도 마찬가지라 [돌] 뿐만이 아니라 동사로 [돌을 던지다]라는 의미로 쓰입니다. 비유적으로 [비난하다]라는 의미를 갖기도 해요.
   * = 걔들이 모든 걸 알게 되면 제이슨은 돌에 맞아 죽을지도 몰라. Jason might be stoned to death if they figured out the whole thing.
+* ＊ stoner = 마약, 마약 중에서도 특히 마리화나를 평소에 즐기는 사람; ＊ get/be stoned = 마약(특히 마리화나)에 취하다; 약, 특히 마리화나에 취해 정신이 몽롱한 것을 stoned 라고 해요. 그리고 그런 사람이 stoner 입니다. 
+	* = 나는 20대 때 마리화나를 엄청 했었어. I was a real stoner when I was in my 20s.
 
 ## stomp
 * 그냥 stomp 라고 해도 무언가를 힘주어 [밟다] 라는 뜻이 있어요. 영상에서는 눌러 밟는 모습을 좀 더 강조해주기 위해 down 과 함께 쓰였는데요. 다양한 모습으로 쓰입니다.
@@ -9712,6 +9718,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## toe
 * 우리는 상황을 알아 보았다  Dipping our toes in the water
+* ＊ be on ~’s toes = 만반의 준비를 하다 / 긴장상태, 집중상태에 있다; 동사는 be, stay, keep 등 다양하게 표현할 수 있어요.
+	* = 2살 짜리 쌍둥이를 키우는 건 늘 신경이 곤두서는 일이야. Having 2-year-old twins keeps me on my toes.
+* = 그녀는 그에게 키스하기 위해 발끝으로 섰다. She stood on her toes to kiss him. (*stand on ~’s toes: 발끝으로 서다)
 
 ## unassume
 * 겸손하며, 젠체하지 않는 사람들에 써줄 수 있습니다. Humble 과 뜻이 유사하며 이런 사람들은 arrogant(오만한) 태도를 보이지 않습니다. 분명히 정말 멋진 사람인데도, 자신들을 끝없이 낮추고, 드러내지 않을 때 우리는 unassuming이라고 합니다!
