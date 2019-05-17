@@ -478,6 +478,7 @@ We need food and water.
 
 ## across
 * 반대편에 있다; it's across the road from -
+* across from; from across the street
 
 ## act
 * act의 명사형 2가지;
