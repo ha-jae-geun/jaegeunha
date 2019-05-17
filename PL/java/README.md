@@ -1762,6 +1762,14 @@ Space Enter를 모두 경계로 인식하기에 입력받은 데이터를 가공
 - inner Class : 클래스 내부의 클래스
 - innerClass를 이용하는 이유 : 바깥을 감싸고 있는 필드나 메소드를 얼마든지 참조할 수 있다.
 - local inner Class : 메소드 안의 클래스
+* GUI 애플리케이션에서 이벤트처리에 주로 ㅏㅅ용된다.
+* 외부클래스$내부클래스로 컴파일된다.
+
+### 장점
+* 내부 클래스에서 외부클래스에 쉽게 접근할 수 있다.
+
+### 단점
+* 코드의 재사용이 어렵다.
 
 1. Member
 https://donggeuri0320.tistory.com/entry/%EC%9E%90%EB%B0%94java-%EB%82%B4%EB%B6%80-%ED%81%B4%EB%9E%98%EC%8A%A4Inner-class
