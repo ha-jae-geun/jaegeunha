@@ -2959,7 +2959,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## expire
 * 이게 유통기한이 2015까지였어요; THis expired in 2015
-
+* 유통기한이 지나다; expire: 이 단어 하나 만으로 유통기한이 지나다를 내포;
+  * i had to throw it away because it had expired
+  
 ## extra
 * - 추가요; relish extra
 * 부사 'extra'는 다른 형용사나 부사를 꾸며 '각별히' '특별히'라는 뜻을 부여합니다.

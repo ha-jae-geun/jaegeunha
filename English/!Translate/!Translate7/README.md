@@ -22,6 +22,10 @@
 * 악기를 잘다뤄; i'm good with instrument -> i play guitar very well
 * 긴 의문형의 관계사; The smartphone that i gave you as a gift, has it been working well?
 * 성격이 잘 맞는다; she just suit me -> They/we are great together
+* 유통기한이 지나다; expire: 이 단어 하나 만으로 유통기한이 지나다를 내포;
+	* i had to throw it away because it had expired
+* 여기까지 오는 내내 물 한모금도 못마셩써; i haven't had any water all the way up here
+* 식나을 투자하다; put in a lot of time to prepare / put a lot time in each lecture; 그냥 put이 아니라 in 붙여줘야 함
 
 # 잘
 * go well; 일이나 상황이 순조롭게 문제없이 진행되다;
@@ -42,6 +46,11 @@
 
 
 # 영어 대화가이드 #007 - 배고프겠다, 힘들겠다, 배고팠겠다, 힘들었겠다 - must be / must have been
+* 현재상황 추측 must be
+ * 지난 완료된 상황 추측 must have been
+ * 사람이 힘들다 be tired.
+ * 상황이 힘들다 be tough.
+ * 방금 말한 상황은 it보다 that으로 받는게 더 적절.﻿
 * 나 하루종일 아무것도 안먹었어; i haven't eaten anythinga ll day today
 * 엄청 배고프겠다; You must be hungry
 * 나 어제 하루종일 아무것도 안먹었어; i didn't eat anything all day yesterday
