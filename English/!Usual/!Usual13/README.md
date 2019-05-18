@@ -1,3 +1,67 @@
+# 쓸만한 영어 - 한국인이 힘들어 하는 미국상점들 이름 영어발음 - Walmart,Ross,Lowes,Vons,
+ * 워우마r트Walmart    앨-버r슨스 Albertson's
+ * 롸스Ross    로우스Lowe's
+ * 뢀f스Ralphs    봔스Vons
+ * 마이끌스Michaels
+ * 스떼이쁠스Staples->unaspirated sound 인가요
+ * 99cent store- ninety(t가 d차는 소리)﻿
+
+# 쓸만한 영어 - 직장 영어표현 - 좀 쉰다고 큰일나진 않아 ! -커피 한 잔 하면서 쉬자!
+ * ▷ 보스가 닦달하는(다그치는)거 싫어.
+ * 
+ * -들들 볶는 그림?
+ *   뜨거운 그릴 위에 놓고 굽는 그림?
+ * 
+ *   grill 사람 about 일
+ *   ~에 대해서 (누구)를 들들볶다(다그치다)
+ * 
+ * - I don't want my boss to grill me about the work.
+ *   직역 : 난 보스가 그 일에 대해 나를 다그치는 것을 원치않아.
+ *   의미 : 사장님한테 들들 볶일까봐 싫어.
+ *   한 직장에서 모두가 아는 보스라면 the boss도 ok
+ * 
+ * 
+ * <오늘의 핵심표현>
+ * 
+ * ▷ 10분 커피 마시면서 쉰다고 크게 잘못되지 않아.                               ~한다고 큰일 나지 않아.
+ * 
+ * - 어떤 말로 시작할지 주어를 먼저 찾으세요.
+ * 
+ * - 10분 커피를 마시면서 쉬는 것이 (주어)
+ *   너한테 해를 끼치지 않는다. (술어)
+ * 
+ * - Ten-minute coffee break
+ *   직역 : 10분의 커피 브레이크가 
+ *   의미 : 10분동안 커피 마시면서 쉬는 것이
+ * 
+ * - Ten-minute coffee break will never hurt you.
+ *   직역 : 10분의 커피 브레이크가 너를 다치게 하지 않을 것이다??
+ *   의미 : 10분동안 커피 마시면서 쉰다고 큰일나지 않아.
+ *   hurt you : hur(t y)ou. [헐츄]로 묶어서 발음
+ * 
+ * - sth. will never hurt sb.
+ *   (무엇이) 절대 (누구한톄)해가되지 않아.
+ *   L과 R이 같이 있는 문장 발음이 편하지 않다면
+ * 
+ * -Ten-minute break won't hurt you.
+ *   좀 더 편한 [워온ㅌ]도 괜찮습니다.
+ * 
+ * 
+ * (떠오르는 생각) + pop(-s/-ed) into my mind
+ *   ~가 갑자기 떠올랐어.
+ * 
+ * 
+ * ▷~한다고 큰일나지 않아.
+ *     ~했다고 세상이 끝난게 아니야/
+ *     ~했다고 죽니? (너무 낙담하지마)
+ * 
+ * - That's not the end of the world.
+ *   직역 : 그게 세상이 끝난게 아니야??
+ *   의미 : 그게 끝이 아니니 너무 낙담하지마.
+ *   그런다고 큰일 안나니깐 괜찮아~
+ *   =한국어로 낙담한 친구를 위로할 때 "괜찮아"에 해당할 수도 있어요.
+
+
  # 쓸만한 영어 - 스몰톡 - 봄날 스몰톡 & 맞장구 치기 - Small talk
  - It's a beautiful day, isn't it? There isn't even one cloud in the sky.☁️ The sky is soooooo blue and we have a nice breeze!🌬 I was dreading coming to work today.일 하러 오기 싫어 죽는 줄 알았어. I just want to go anywhere else but work. 일하러 말고 다른 데 가고 싶어. It's too nice outside to work.일하기에 날씨가 넘 -좋아. 🌸Have you seen the cherry blossom trees on the street? 길 가에 벚꽃핀 것 봤어? Yes, they are so beautiful! The color and the smell are so romantic! Speaking of flowers, there will be a flower festival in Lake Park.﻿
  

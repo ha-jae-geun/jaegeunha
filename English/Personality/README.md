@@ -4,6 +4,7 @@
 
 
 # 성격
+* 성격이 잘 맞는다; she just suit me -> They/we are great together
 * 내가 그녀가 어떤 사람인지 잘 알았떠라면 친구하지 않았으렌데; if i had known exactly what kind of person she was, i wouldn't have made friends with her
 * 엄청 쿨해요; Everybody's super chill
 * ㅂ드럽다; * 2. ⓐ (분위기, 성격 등) 부드럽다, 온화하다

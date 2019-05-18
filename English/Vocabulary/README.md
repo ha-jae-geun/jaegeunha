@@ -3297,6 +3297,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ### feel out
 * 떠보지마; DOn't feel her out
 
+## fragile
+* * 그녀는 너무 여려; she's so fragile
+
 ## fracture
 * break 를 쓸 경우엔 S break O 로 써서 [S 의 O 가 부러졌다] 정도로 해석이 되는데요. fracture 는 조금 더 격식 있는 단어입니다. 동사로도 사용되는데요 이럴 땐 
   * S fracture = S 가 골절되다  S fracture O = S 의 O 가 골절되다 두가지 모습을 쓰일 수가 있습니다. 실금이 간 것을 hairline fracture 라고도 하니 참고하세요.
@@ -6078,6 +6081,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## pwn
 * 지금 보고 계신 영상의 배경이 되는 게임 '워크래프트'에서 나온 신조어입니다. 이 게임에선 각각의 맵(map) 속에서 게임을 진행할 수 있는데요. 만약에 컴퓨터가 플레이어를 이길 경우, 원래는 화면에 &lt;지배당하다&gt; 를 의미하는 "has been owned" 라는 메세지가 떠야하는데, 맵 개발자의 실수로 has been pwned 라는 메세지가 뜨게 되었습니다. 아마도 키보드에 p 와 o 가 붙어 있어서 생긴 오타인 것처럼 보이는데요. 이후로는 pwned 가 온라인 게임 유저들 사이에서 굉장히 많이 쓰이며 하나의 신조어처럼 자리 잡게 되었어요. 요즘 우리말로는 '개발린, 처참히 발린, 완패한' 정도의 의미를 갖습니다.
   * = 알지도 못하는 놈한테 완전 제대로 발렸어. I got totally pwned by this random guy.
+
+## photo
+* 사진 잘나왔다; this photo came out great; Great photo
 
 ## phone
 * 거짓이다; YOu're just beig phony

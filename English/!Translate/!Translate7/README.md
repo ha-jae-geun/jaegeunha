@@ -1,3 +1,46 @@
+# 원어민
+* 언어를 잘하다, 못하다는 능력으로 안보기 때문에; i'm not goot at 보다는 i don't speak English very well 로 표현
+* 에어컨을 사용하기 쉽다; handle은 문제를 말하는 것이고; it's easy to use가 더 좋은 표현
+* 나 잘먹어; i eat a lot; i like eating
+* 잘 생각해봐; Give it some thought; Give it a lot of thought
+* 냉장고가 잘 망가지지 않는다; Refrigerators don't break eailsy; be broken은 이미 부서져있는 상태
+* 그는 얘기를 잘 들어줘; He's a good listener
+* 그는 밥을 잘 쏴; he pays for meals well -> he likes to treat people/others
+* 아이폰은 배터리가 빨리닳아; Iphone battery is dead so easiy => batteris die/drain so quickly
+* 난 멍이 잘들어; i get bruise -> i get bruised easily / i bruise easily
+* 내 컴퓨터는 문제가 많아; my computer have trouble so easily -> my computer causes problems 
+* 내가 잘하고있는지 모르겠어; i'm not sure i'm doing well -> i'm not sure if i'm doing well/ doing it right
+* 그녀는 너무 여려; she's so fragile
+* 사진 잘나왔다; this photo came out great; Great photo
+* 나 추위를 잘타; i get cold so easily -> i'm not very good in cold weather; i don't do well in cold weather; i can't handle the cold very well
+* 어벤저스 시리즈가 효과를 잘내고잉써; is realling doing well; do well: 성과를 내다; go well: 문제없이 잘 흘러가다
+* 어제 집에 잘 들어갔어? did you go home well? -> did  you get back home OK? / Did you get back home safely?
+* 걔는 진상손님을 잘 다뤄; she is very good with bad customers -> handles bad customers very well
+* 기계를 잘 고친다; good with repairing machines -> be good at repairing machines; be good with machines(with 뒤에는 명사)
+* 걔 옷 잘입어; she's a good dresser
+* 걔는 너무 잘 삐져; he sulks so easily -> he's such a baby when he's upset
+* 악기를 잘다뤄; i'm good with instrument -> i play guitar very well
+* 긴 의문형의 관계사; The smartphone that i gave you as a gift, has it been working well?
+* 성격이 잘 맞는다; she just suit me -> They/we are great together
+
+# 잘
+* go well; 일이나 상황이 순조롭게 문제없이 진행되다;
+* work well: 기능이나 작동이 잘 된다.; 문제가 되는 상황이 잘 풀리다.
+* work out well; 잘 해결되다; It worked out very well <> work well 
+* easily: 어떤 일이 쉽게 일어나는 상황
+* 다 잘되고 있어요; Everything is going well; 일이 잘 풀렸어;; Everything is working well
+* 이 스마트폰의 화면은 기스가 너무 잘 나요; The screen on this phone scratches so easily
+* 나 요즘 너무 잘 까먹어; i forget things so easily
+* 걔는 정치에 대해서 잘 알아(아는 것이 많다.)
+* She knows a lot about politics
+* 걔는 이번일이 얼마나 중요한지를 아주 잘 알고있었어(충분한 인지)
+* He knew very well how important this was
+* 글쎼요 잘 모르곘는뎅; i'm not sure/certain
+* 그는 아이들을 잘 다뤄요; He's very good with children
+* 걔는 이런 문제를 잘 다뤄요; She's very good with this kind of problem
+
+
+
 # 영어 대화가이드 #007 - 배고프겠다, 힘들겠다, 배고팠겠다, 힘들었겠다 - must be / must have been
 * 나 하루종일 아무것도 안먹었어; i haven't eaten anythinga ll day today
 * 엄청 배고프겠다; You must be hungry
