@@ -2717,6 +2717,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## dirt
 * (특히 남의 사생활에 대해) 험담하다 dish the dirt (on somebody) 미국식  영국식   단어장추가
+* 껌값이야; dirt cheap
 
 ## direction
 * 길 좀 알려주세요; Point 사람 in the right direction; Just point me in the right direction
@@ -5919,6 +5920,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 난 유명해지는 것 이외에는 다른 건 신경 안 써. ex) I don't care about anything else other than making a name for myself. = make a name for oneself
 * 연예계에서 이름을 알리다; he already made a big name in the entertainment industry
 
+## no-no
+* 그건 안돼; THat's a no-no
+
 ## no-show
 * no-show: (오기로 해 놓고) 나타나지 않는 사람; (오기로 한 사람이) 나타나지 않음. 스포츠카처럼 차 지붕을 덮을 수 있거나 혹은 아예 없는 고급 차를 뜻함
 
@@ -7350,6 +7354,11 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 우리나라에는 잘 없지만, 미국이나 캐나다처럼 국립공원이 굉장히 큰 곳에는 그곳에 매일 출근하여 관리하는 사람들이 있어요. 돌아다니면서 화재가 있는지 보고, 방문객들에게 그 지역의 동식물에 대해 설명하는 일에서 부터 법을 어겨 공원에 해를 입히는 사람들을 체포하는 일까지 다양한 일을 합니다.
   * 10명의 경비원이 이 전체 구역을 관리하는 책임을 가집니다. ex) 10 rangers are responsible for covering this whole area.
 
+## refund
+* issue a refund; 환불해주다;
+* get/receive a refund
+* 환불 신청하다; claim a refund
+
 ## rein
 * 고삐를 당기고있따; pulling reins back  [reɪn] 
   * 고삐를 매다; i put a bridle on the camel [ˈbraɪdl]
@@ -7530,6 +7539,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 나를 특별하게 대우할 필요는 없습니다. There's no need to roll out the red carpet for me.  
 * red tape : (불필요하게) 형식적인 절차
   * 지원금이 형식적인 절차에 묶여있어. ex) The grant is now tied up with red tape.
+
+## skip
+* skipper; 선장; 주장
 
 ## shrimp
 * 새우가 종류가 많은데 손바닥만 한 왕새우는 prawn이라고 하고, 보통 우리가 학교 다닐 때 배우던 shrimp는 손톱보다 조금 더 큰 새우를 의미합니다. 여기에 y를 붙여서 형용사처럼 쓰이며 직역하면 '새우만큼 작은'이지만, 우리말에 조금 더 맞는 해석은 [콩만 한, 염소똥만 한, 개미 코딱지만 한] 정도가 되겠습니다.
