@@ -240,6 +240,17 @@ a = Song()
 ## b모드
 - 인코딩이 지원이 안된다.
 
+## open
+* f = open('test.txt', 'w'); encoding을 설정 안하면 none이 default 설정값이 되어 OS의 default 값을 설정하게 된다.
+
+## 딕셔너리
+```python
+s = {'가':1, '나':2}
+f.write(''.join(s))
+  # 키 값만 들어간다.
+f.close
+```
+
 ---
 
 # python, Ruby
