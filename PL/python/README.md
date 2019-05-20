@@ -251,6 +251,20 @@ f.write(''.join(s))
 f.close
 ```
 
+
+## 리스트
+* 리스트의 내용을 파일에 쓰려고 하면은 write 메소드는 리스트를 지원하지 않으므로 오류가 발생한다.
+* 리스트의 내용을 파일에 쓰기 작업을 하기 위해서는 join 메소드와 같이 사용해야 한다.
+``` python
+s = ['1234', '4567', '89']
+f = open('test.txt', 'w', encoding='utf-8')
+f.write(''.join(s))
+f.close( )
+```
+
+## write
+* ⎼ f 객체의 write 메소드의 인자인 문자열 s의 내용은 a 모드에 의해서 파일의 뒷부분에 추가된다.
+
 ---
 
 # python, Ruby
