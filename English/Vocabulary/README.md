@@ -1484,6 +1484,9 @@ We need food and water.
 * 동사 butt 은 ‘머리로 들이받다, 밀다’를 의미합니다. (엉덩이로 들이받는 것 아니에요!) 그래서 butt heads 는 투우 경기처럼 ‘두 머리로 들이받다, 싸우다’를 말합니다.  주의할 것은 butthead 라고 하면 ‘바보 같은 녀석, 머저리’가 돼버립니다. 머리에 똥 찬것처럼 머리가 엉덩이다 뭐 그런 뉘앙스에서요. 「Beavis and Butthead : 비비스와 버트헤드」 라는 소위 ‘병맛애니’도 있습니다.  그리고 ‘박치기’도 head-butt 이라고 해요. 동사, 명사 둘다 가능합니다.
 	* 주민들은 쇼핑몰 개발업자들과 계속해서 갈등을 빚고 있다. The residents continue to butt heads with the mall developers.
 
+## commute;
+* 차라리 길게 출근하겠어요; i'd rather have long commutes
+
 ## ceiling
 * * 천장에 매달리다; hang from the ceiling
 * 조명 기구들이 천장에 설치되어있다; Light fixtures have ben installed on the ceiling
@@ -2708,6 +2711,12 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 집세 언제까지야; When is the rent due
 
 
+## diaper
+* 연하 킬러; diaper sniper
+
+## diet
+* 다이어트를 시작하다; go on a diet; 다이어트를 하고 있다; be on a diet
+
 ## diva
 * diva = 여왕인듯 까다롭게 구는 사람; 드라마에 보면 탑여배우를 까다롭고 공주병처럼 묘사하곤 하죠? 그런 이미지와 비슷하다고 보면 됩니다. 
   * = 폴라는 엄청 까다롭기로 유명해. Paula has a reputation for being a diva.
@@ -3760,6 +3769,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * * '~와 (여행이나 여정을)함께하다', '~을 따라서 가다' 라는 의미로 쓰이기도 하므로 헷갈리지 않도록 주의해야 해요!  go along with someone/something: 를 지지하다
 	* 나는 그녀의 결정에 따를거야. I will go along with her decision.
 
+## go out
+* You don't go out of your way to; smile to people; 애쓰다.
+
 ### go with
 * : 내 자연스런 입술을 갖기로(같이 하기로) 결정했어요, 알았어요? I have decided to go with my natural own lips, okay? 글자글대로 누군가와 어디를 가는 것은 물론, '어떤 상태에 같이 있다' 라는 의미도 가지고 있습니다.
 * : 이 여자와 함께 그 아파트로 갔나요? Did you go with this woman to the loft.
@@ -4614,6 +4626,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 그는 차량 사고로 사람을 죽여 기소되었다. He was indicted for vehicular homicide.
 
 ## home, house
+* leave home; 집에서 나오다;  get back home: 집으로 돌아가다
 * house: 말 그대로 집
 * home: 집일 수도 있고 어디든 편안함을 느끼는 장소
 * house party가 그래서 맞음
@@ -5389,6 +5402,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
  * #way off line; #잘못되다; your life's been way off line
 
 ## live
+* i'm (currently) living in Seoul; 잠시 살고 있다는 느낌; i live in seoul
 * live for : 가 삶의 이유/낙이다
 	* 내 삶의 이유/낙은 음악이야. Music is what I live for.
 * 'live with sth'은 바꿀 수 없는, 어렵고 불쾌한 [무엇]이 닥쳤을 때 이를 받아들인다는 뜻이랍니다. 우리말로는 '~을 감수하다' '~을 수용하다' 등이 되겠네요.
