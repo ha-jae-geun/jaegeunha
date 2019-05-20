@@ -3,6 +3,11 @@ Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
   [Ruby](https://www.jetbrains.com/ruby)
   [python common mistake](http://hamait.tistory.com/851?category=79136)
 
+# 파이썬 
+- 클래스 방식은 컴파일러 -> pyc파일 -> 인터프리터; 
+- 함수: 인터프리터 방식
+
+
 # 파이썬 설치
  * 아직까지 3.6버전까지 머신러닝 지원
  * Windows x86-64 web-based installer // 나중에 웹에서 다운받아야 함
