@@ -265,7 +265,17 @@ f.close( )
 ## write
 * ⎼ f 객체의 write 메소드의 인자인 문자열 s의 내용은 a 모드에 의해서 파일의 뒷부분에 추가된다.
 
----
+## BOM 제거
+* utf-8로 인코딩된 파일의 BOM을 제거하기 위해서는 open 함수의 encoding 옵션의 옵션값인
+* utf-8에 -sig을 덧붙여 지정하며 sig는 signature의 약자이다
+
+```python
+f = open('test.txt', encoding='utf-8-sig')
+s = f.read( )
+f.close( )
+print(s)
+```
+
 
 # python, Ruby
 
