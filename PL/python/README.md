@@ -317,6 +317,34 @@ f.close( )
 print(s)
 ```
 
+# 특별 메소드
+## __str__
+```python
+class ArgumentClass:
+  def ˍˍinitˍˍ(self, obj):
+    self.obj=obj
+  def ˍˍstrˍˍ(self):
+    return str(self.obj)
+call = ArgumentClass(10)
+print(call)
+```
+* print하려고 하는데 print할 게 없다면 __str__이나 __repr__로 이동하여 return 
+
+## 숫자 연산자 메소드
+```python
+class AddOperator:
+  def ˍˍinitˍˍ(self, obj):
+    self.obj = obj
+  def ˍˍstrˍˍ(self):
+    return str(self.obj)
+  def ˍˍaddˍˍ(self, other):
+    return self.obj+other
+call1 = AddOperator(10)
+call2 = call1+10
+print(call2)
+```
+* 더하면 자동으로 add 함수가 호출되는데 안에있는 매개변수의 수가 같아야 실행됨.
+
 # 클래스
 * 프로그램에서 클래스를 적용하면 중복성을 배제하는 등의 다양한 효과를 얻을 수 있다.
 * 파이썬의 클래스는 하나의 틀이다.
