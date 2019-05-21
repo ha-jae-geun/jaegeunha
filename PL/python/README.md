@@ -10,6 +10,13 @@ Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
 # 파이참 단축키
 * Ctrl+ Q, F4
 
+# 옵션
+* 옵션을 객체로 사용 가능
+``` python
+print(sys.stdout.encoding)
+
+```
+
 # 객체지향 프로그래밍 형태
 * 클래스 기반 | 프로토타입 기반
 * 클래스 |  객체
