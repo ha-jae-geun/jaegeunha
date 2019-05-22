@@ -625,6 +625,9 @@ We need food and water.
 * at an angle = 비스듬히; angle 이 [각도] 라는 뜻이니, 각도가 없는 정면이나 수직이 되는 것이 아닌, [비스듬히] 를 의미하게 됩니다. 형용사를 써서 [at a slight/steep angle = 약간/매우 비스듬한] 을 의미할 수도 있어요.
   * = 이것 좀 이렇게 비스듬히 들어줄래? Can you hold it at an angle like this?
 
+## become
+* 가장 빠른 사람이 되었다; he has become the fastest person in our class
+
 ## beyond
 * 망가진 전화기가 수리할 수 없는 정도라서 우리는 새것 하나를 사야 한다. The broken telephone is beyond repair, so we should buy a new one. 
 
@@ -922,6 +925,9 @@ We need food and water.
 * bitchy 의 경우엔 'x년' 을 의미하는 bitch 에서 나온 형용사라 원래는 나쁜 의미를 가지는데요. 친한 사이에서는 반어적 의미로 '도도하게 멋진' 을 의미하기도 해요.
 * bitch; 2. 임마; 3. he's such a bitch; 징징된다 4. Stop bitching; at me 싫은 소리 그만해라
   * 일방적으로 갈구다; bitch someone out
+
+## buffer
+* 그 약물은 그녀의 고통을 완화해 주엇다; the drug buffered her pain
 
 ## bumper
 * 엄청나게 많은; 많은 수확물 거두었어; we had a bumper crop
@@ -3676,6 +3682,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ### follow up
 * 다른 영업사원이 작업해 놓은 일을 사후관리해야 할까요? Will I have to follow up on other salesperson's leads? 듣기 출처:능률교육
 
+## gum
+* 그게 진짜 내 계획에 차질을 일으키네; That really gums up my plan
+
 ## grief
 - 맙소사: good grief
 
@@ -4541,6 +4550,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 최종 결정을 하기 전에 돌아가서 와이프랑 다시 한 번 얘기해 봐야겠어요. ex) I gotta go back and hash it over with my wife before making a final decision.
 
 ## hassle
+* hassle은 명사이기 때문이 very를 붙이면 안되고 ;too much of a hassle/ real hassle 라고 표현해야 한다.
 * 정말 번거러워요; can be such a hassle
 * 우리 부모님은 내#가 늦게 다니는 것에 대해 항상 잔소리한다.
 * My parents always hassle me about staying out too late.
@@ -5865,6 +5875,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 아이뿐만이 아니라 작은 식물이 잘 성장 및 발달하도록 키우는 것을 nurture 라고 하는데요. 물리적으로 키우는 것 외에도 계획이나, 아이디어, 또는 영상에서처럼 관계를 키우는 것 또한 nurture 라고 합니다.  속뜻으로 성장하는데 필요한 [영양분을 공급하다] 라는 의미도 가지기 때문에 영상에서는 [소홀해진 관계에 영양분을 주어서 회복시키다] 라는 뉘앙스로 쓰였습니다!
 * 널 위해 책을 좀 샀는데. 이거 잃으면 마음의 양식이 될 거야. ex) I've got a book for you. I'm sure reading this will nurture your mind.
 
+## nitty gritty; 
+* 우리가 진짜 핵심에 들어가기도 전에 시간이 다 되었다. Time ran out before we could get down to the real nitty-gritty. 
+
 ## nip
   * 살을 에는 듯한 냉기. a nasty nip in the air 듣기 출처:프렌딕
 
@@ -6823,6 +6836,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * on a plate는 쉽게 얻은 것을 비유적으로 표현하는 말이에요~ '쉬이 내주다/얻다,' '거저 받다/얻다'와 같은 뉘앙스를 나타내고 싶을 때 사용하면 좋겠죠~?!
   * 그는 수월하게 비밀문서를 건네 받았다. He was given the confidential documents on a plate.
 * : 어떤 일을 '책임지고 본격적으로 하다, 혹은 그럴 준비를 하다' 라는 뜻이에요! 야구에서 타자가 공을 치기 위해 본루 'home plate' 에 오르는 것에서 유래했다는 말이 있답니다.
+* 책임을 지다; need to # step up to the plate
 
 ## place
 * "크게 될 사람이야!", "성공할 사람이야!", "뭐라도 해낼 사람이야!" 라는 말이 있죠? 그 뉘앙스에 딱 맞는 영어 표현이 바로 "OO is going places" 예요~! 
