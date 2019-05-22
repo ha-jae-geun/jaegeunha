@@ -1315,6 +1315,7 @@ We need food and water.
 ## benefit
 * = 속는 셈 치고 믿다, 유리하게 해석하다  give someone the benefit of the doubt 2) 그렇지만 단어를 하나하나씩 뜯어본다면, 듣는 사람이 말하는 사람의 말을 완전히 다 믿지는 않기에 의심(doubt) 을 하지만, 그중에서 그럴싸한 내용을 믿는다던가 최대한 긍정적으로 그 말을 해석을 함으로써 말하는 사람에게 혜택(benefit) 을 주는 모습에서 나온 표현입니다.
 	* = 이번엔 그냥 속는 셈 치고 한 번 믿어봐. Just give me the benefit of the doubt this time, please.
+* * 부모님에게 섹파가 있다고 말한다면; told theri parents they had a freind with benefits
 
 ## bristle
 * 'bristle'은 '짧고 뻣뻣한 털' '솔의 짧은 털'을 가리키는 말이에요!
