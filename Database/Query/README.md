@@ -79,7 +79,7 @@ GROUP BY SIDO,
 ```
 
 6.
-```SQ;
+```SQL;
 SELECT SUBSTR(B.BASE_NAME,0,4) 시도,
        REPLACE(A.MEA_DATE, '-', '') 일자,
        ROUND(AVG(A.AVG_TMPRT), 6) 평균기온,
@@ -94,6 +94,25 @@ WHERE  B.KIND_CODE    = 1
 AND    A.AREA = B.BASE_CODE
 GROUP BY SUBSTR(B.BASE_NAME,0,4), REPLACE(A.MEA_DATE, '-', '')
 ORDER BY 시도, 일자
+```
+
+```SQL
+SELECT A.*,
+       B.DATA1
+FROM   WEATHER_2015 A,
+       TEMP B
+WHERE  A.AREA     = B.SIDO
+AND    A.MEA_DATE = B.REG_DATE
+
+
+
+UPDATE WEATHER_2015 A
+SET    AVG_CLOUD =
+       (SELECT DATA1
+       FROM    TEMP B
+       WHERE   A.AREA     = B.SIDO
+       AND     A.MEA_DATE = B.REG_DATE
+       )
 ```
 
 - GROUP BY에 별명 
