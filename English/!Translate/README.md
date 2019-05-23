@@ -15,6 +15,8 @@
 * 너 그거 먹어봤어? ? Have you ever tried the guacamole at King Taco?; 
   * did you go to 라고 안함
 * 코트 벗지마; Keep your coat on; don't take off your coat를 긍정적인 사고로 변경
+* # clout 1. 아이 기저귀 2. 영향력, 파워
+* 난 싱글이야; i'm single; 나 혼자 할거야; i'm going solo
 
 # 직업에 대해서 묻고 답하기 - PART 1 [ 영어회화 ]
 * A:What kind of work do you do? 
