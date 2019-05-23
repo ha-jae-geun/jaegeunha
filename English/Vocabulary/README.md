@@ -2948,6 +2948,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ### drop top
 * 차 지붕을 헝겊이나 비닐 같은 재료로 만들어 승용차 지붕을 접었다 폈다 할 수 있는 승용차 [본문으로]
 
+## education
+* 에쥬케이션; Does korean have a good education system?
+
 ## echo
 * echoey = (소리가) 울리는; echo(메아리, 울림)의 형용사인데요, 사람의 목소리나 공간의 소리가 웅웅거리는 것을 의미합니다. 
   * = 그의 목소리는 엄청 중저음이야.  His voice is very low and echoey.
