@@ -26,6 +26,9 @@ print(sys.stdout.encoding)
 * 아나콘다 프롬프트에서 conda install requests
 
 
+## beautifulsoup
+* BeautifulSoup4 패키지는 lxml 패키지와 html5lib 패키지가 설치된 경우에 더 잘 작동하므로 설치가 되어있지 않을 경우에 설치하는 것을 권장한다.
+
 # 객체지향 프로그래밍 형태
 * 클래스 기반 | 프로토타입 기반
 * 클래스 |  객체
@@ -460,6 +463,10 @@ f.call(5, 6)
 * 요청헤더: 파라미터, MIME
 * 객체헤더: REQUEST
 * 응답헤더
+
+# DOM
+* 요소: 데이터
+* 속성: 프로퍼티
 
 ------------
 
