@@ -29,6 +29,12 @@ print(sys.stdout.encoding)
 ## beautifulsoup
 * BeautifulSoup4 패키지는 lxml 패키지와 html5lib 패키지가 설치된 경우에 더 잘 작동하므로 설치가 되어있지 않을 경우에 설치하는 것을 권장한다.
 
+### BeautifulSOup 분석기 종류
+* 가. Python’s html.parser : 'html.parser'
+* 나. lxml’s HTML parser : 'lxml'
+* 다. lxml’s XML parser : 'lxml-xml', 'xml'
+* 라. html5lib : 'html5lib'
+
 # 객체지향 프로그래밍 형태
 * 클래스 기반 | 프로토타입 기반
 * 클래스 |  객체
@@ -169,6 +175,13 @@ print(list(map(lambda x: x*x, a)))
 
 # 문자
 - 문자나 문자열은 같이 취급한다.
+
+## 긴 문자열
+```python
+html = """
+
+"""
+```
 
 # ''
 - 파이썬은 ''가 기본이다.
