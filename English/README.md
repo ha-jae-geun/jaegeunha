@@ -34,7 +34,7 @@
 -------------
 
 
-# 월; 0506
+# 월; 0520
 * 슈퍼맨 https://superfan.link/pc
 * 라이블리 https://m.blog.naver.com/PostList.nhn?blogId=liyu_thirtytwo&currentPage=1
 *   MLB http://post.naver.com/my/series/detail.nhn?seriesNo=46475&memberNo=449115
@@ -52,7 +52,7 @@
 * 어학당 추가 하기
 * 타이핑
 
-# 화 0507
+# 화 0521
 * 슈퍼맨 https://superfan.link/pc
 * The Red https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 잭팟; https://m.blog.naver.com/PostList.nhn?blogId=jackpot22
@@ -70,7 +70,7 @@
 * 어학당 추가 하기
 * 타이핑
 
-# 수 0508
+# 수 0522
 * 슈퍼맨 https://superfan.link/pc
 * you can do English https://m.blog.naver.com/PostList.nhn?blogId=doeng-official
 *  영어 주유소 http://blog.naver.com/tnwlwldu
@@ -88,7 +88,7 @@
 * 어학당 추가 하기
 * 타이핑
 
-# 목 0502
+# 목 0523
 * 슈퍼맨 https://superfan.link/pc
 *  영어 카드 http://blog.naver.com/milgarussem
 *  미드 빅뱅 이론 http://blog.naver.com/yjjy0308/221057882496
@@ -110,7 +110,7 @@
 * 어학당 추가 하기
 * 타이핑
 
-# 금 0503
+# 금 0524
 * 슈퍼맨 https://superfan.link/pc
 *  해피제이드 해피라이프J https://blog.naver.com/jadekim925 
 * 땀 https://m.blog.naver.com/PostList.nhn?blogId=byswoo
@@ -131,7 +131,7 @@
 * 어학당 추가 하기
 * 타이핑
 
-# 토 0504
+# 토 0525
 * 슈퍼맨 https://superfan.link/pc
 * 한국에서 영어잘하기 https://blog.naver.com/joohs86
 * Biggie; https://post.naver.com/my.nhn?memberNo=23132643
@@ -153,7 +153,7 @@
 * 어학당 추가 하기
 * 타이핑
 
-# 일 0505
+# 일 0526
 * 슈퍼맨 https://superfan.link/pc
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 찰리 잉글리시 https://m.blog.naver.com/PostList.nhn?blogId=charleyenglish&currentPage=1
