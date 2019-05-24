@@ -7,7 +7,11 @@ Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
 - 클래스 방식은 컴파일러 -> pyc파일 -> 인터프리터; 
 - 함수: 인터프리터 방식
 
-# 파이참 단축키
+# 파이참
+## 세팅
+* 모듈 확인: Project Interpreter 혹은 conda prompt 에서 conda list 혹은 conda search request
+
+## 파이참 단축키
 * Ctrl+ Q, F4
 
 # 옵션
@@ -16,6 +20,11 @@ Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
 print(sys.stdout.encoding)
 
 ```
+
+# 모듈
+## requests 모듈
+* 아나콘다 프롬프트에서 conda install requests
+
 
 # 객체지향 프로그래밍 형태
 * 클래스 기반 | 프로토타입 기반
