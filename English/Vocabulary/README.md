@@ -2512,6 +2512,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
     * 모두들 나를 혼자 힘든 상황에 내버려 두었지. Everyone just left me high and dry. 
 *  입 닥쳐. Dry up.
 
+## debate
+* 논란거리다; up for debate / open to debate;
+	* Legalizing marijuana is still up for debate
 
 ## debut
 * make a/one's debut
@@ -5358,6 +5361,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 그는 왼손잡이라서 오른손으로는 글씨를 못 써. He’s a lefty so he can’t write with his right hand.
 * left-wing 좌익 단체들left-wing groups 
 * go left: 왼쪽으로 걲어 가세요; on the left: 왼쪽에 위치하고 있다.
+
+### leftover
+* 먹다 남은걸 먹고 있어요; We're doing leftovers for lunch
 
 ## lick
 * lick 은 원래 '핥다' 라는 뜻이기에 직역하면 '깨끗하게 핥아먹다' 의 의미를 갖습니다. 그만큼 무언가를 싹싹 긁어먹는 모습을 비유적으로 나타낸 표현이에요.
