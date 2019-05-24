@@ -441,6 +441,17 @@ f.call(5, 6)
 # pip
 * 파이썬에서 제공하는 패키지 관리도구
 
+
+# http; hypertext transfer protocol
+* hyper: 정보가 동일선 상에 위치하지 않고 다중으로 연결 상태; text: 목차없이 접근; transfer: 메소드; protocol: 규약
+* naver.com -> 네임 스페이스 -> 디렉터리 정책
+
+## 헤더
+* 일반헤더: 정보  
+* 요청헤더: 파라미터, MIME
+* 객체헤더: REQUEST
+* 응답헤더
+
 ------------
 
 # python, Ruby
