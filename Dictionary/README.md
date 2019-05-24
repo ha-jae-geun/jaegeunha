@@ -105,6 +105,7 @@
 
 # http
  * hyper: 뛰어넘다; text: 무작위로 선택할 수 있는 것; 목차에 관계없이 접근
+* hyper: 정보가 동일선 상에 위치하지 않고 다중으로 연결 상태; text: 목차없이 접근; transfer: 메소드; protocol: 규약
 
 # MVC
  * M(Model): 멤버 변수가 모여 있음
