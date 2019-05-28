@@ -625,6 +625,9 @@ We need food and water.
 * at an angle = 비스듬히; angle 이 [각도] 라는 뜻이니, 각도가 없는 정면이나 수직이 되는 것이 아닌, [비스듬히] 를 의미하게 됩니다. 형용사를 써서 [at a slight/steep angle = 약간/매우 비스듬한] 을 의미할 수도 있어요.
   * = 이것 좀 이렇게 비스듬히 들어줄래? Can you hold it at an angle like this?
 
+## become
+* 가장 빠른 사람이 되었다; he has become the fastest person in our class
+
 ## beyond
 * 망가진 전화기가 수리할 수 없는 정도라서 우리는 새것 하나를 사야 한다. The broken telephone is beyond repair, so we should buy a new one. 
 
@@ -922,6 +925,9 @@ We need food and water.
 * bitchy 의 경우엔 'x년' 을 의미하는 bitch 에서 나온 형용사라 원래는 나쁜 의미를 가지는데요. 친한 사이에서는 반어적 의미로 '도도하게 멋진' 을 의미하기도 해요.
 * bitch; 2. 임마; 3. he's such a bitch; 징징된다 4. Stop bitching; at me 싫은 소리 그만해라
   * 일방적으로 갈구다; bitch someone out
+
+## buffer
+* 그 약물은 그녀의 고통을 완화해 주엇다; the drug buffered her pain
 
 ## bumper
 * 엄청나게 많은; 많은 수확물 거두었어; we had a bumper crop
@@ -1313,6 +1319,7 @@ We need food and water.
 ## benefit
 * = 속는 셈 치고 믿다, 유리하게 해석하다  give someone the benefit of the doubt 2) 그렇지만 단어를 하나하나씩 뜯어본다면, 듣는 사람이 말하는 사람의 말을 완전히 다 믿지는 않기에 의심(doubt) 을 하지만, 그중에서 그럴싸한 내용을 믿는다던가 최대한 긍정적으로 그 말을 해석을 함으로써 말하는 사람에게 혜택(benefit) 을 주는 모습에서 나온 표현입니다.
 	* = 이번엔 그냥 속는 셈 치고 한 번 믿어봐. Just give me the benefit of the doubt this time, please.
+* * 부모님에게 섹파가 있다고 말한다면; told theri parents they had a freind with benefits
 
 ## bristle
 * 'bristle'은 '짧고 뻣뻣한 털' '솔의 짧은 털'을 가리키는 말이에요!
@@ -1490,6 +1497,9 @@ We need food and water.
 		* 내가 사무실에서 방귀를 뀐 이후로, 난 모든 농담의 대상이 되었다. ex) Ever since I farted in the office, I've been the butt of every office joke.
 * 동사 butt 은 ‘머리로 들이받다, 밀다’를 의미합니다. (엉덩이로 들이받는 것 아니에요!) 그래서 butt heads 는 투우 경기처럼 ‘두 머리로 들이받다, 싸우다’를 말합니다.  주의할 것은 butthead 라고 하면 ‘바보 같은 녀석, 머저리’가 돼버립니다. 머리에 똥 찬것처럼 머리가 엉덩이다 뭐 그런 뉘앙스에서요. 「Beavis and Butthead : 비비스와 버트헤드」 라는 소위 ‘병맛애니’도 있습니다.  그리고 ‘박치기’도 head-butt 이라고 해요. 동사, 명사 둘다 가능합니다.
 	* 주민들은 쇼핑몰 개발업자들과 계속해서 갈등을 빚고 있다. The residents continue to butt heads with the mall developers.
+
+## commute;
+* 차라리 길게 출근하겠어요; i'd rather have long commutes
 
 ## ceiling
 * * 천장에 매달리다; hang from the ceiling
@@ -2512,6 +2522,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
     * 모두들 나를 혼자 힘든 상황에 내버려 두었지. Everyone just left me high and dry. 
 *  입 닥쳐. Dry up.
 
+## debate
+* 논란거리다; up for debate / open to debate;
+	* Legalizing marijuana is still up for debate
 
 ## debut
 * make a/one's debut
@@ -2718,6 +2731,12 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 언제 출산예정일이야; When are you due?
   * 집세 언제까지야; When is the rent due
 
+
+## diaper
+* 연하 킬러; diaper sniper
+
+## diet
+* 다이어트를 시작하다; go on a diet; 다이어트를 하고 있다; be on a diet
 
 ## diva
 * diva = 여왕인듯 까다롭게 구는 사람; 드라마에 보면 탑여배우를 까다롭고 공주병처럼 묘사하곤 하죠? 그런 이미지와 비슷하다고 보면 됩니다. 
@@ -2942,6 +2961,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ### drop top
 * 차 지붕을 헝겊이나 비닐 같은 재료로 만들어 승용차 지붕을 접었다 폈다 할 수 있는 승용차 [본문으로]
+
+## education
+* 에쥬케이션; Does korean have a good education system?
 
 ## echo
 * echoey = (소리가) 울리는; echo(메아리, 울림)의 형용사인데요, 사람의 목소리나 공간의 소리가 웅웅거리는 것을 의미합니다. 
@@ -3679,6 +3701,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ### follow up
 * 다른 영업사원이 작업해 놓은 일을 사후관리해야 할까요? Will I have to follow up on other salesperson's leads? 듣기 출처:능률교육
 
+## gum
+* 그게 진짜 내 계획에 차질을 일으키네; That really gums up my plan
+
 ## grief
 - 맙소사: good grief
 
@@ -3771,6 +3796,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ### go along
 * * '~와 (여행이나 여정을)함께하다', '~을 따라서 가다' 라는 의미로 쓰이기도 하므로 헷갈리지 않도록 주의해야 해요!  go along with someone/something: 를 지지하다
 	* 나는 그녀의 결정에 따를거야. I will go along with her decision.
+
+## go out
+* You don't go out of your way to; smile to people; 애쓰다.
 
 ### go with
 * : 내 자연스런 입술을 갖기로(같이 하기로) 결정했어요, 알았어요? I have decided to go with my natural own lips, okay? 글자글대로 누군가와 어디를 가는 것은 물론, '어떤 상태에 같이 있다' 라는 의미도 가지고 있습니다.
@@ -4541,6 +4569,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 최종 결정을 하기 전에 돌아가서 와이프랑 다시 한 번 얘기해 봐야겠어요. ex) I gotta go back and hash it over with my wife before making a final decision.
 
 ## hassle
+* hassle은 명사이기 때문이 very를 붙이면 안되고 ;too much of a hassle/ real hassle 라고 표현해야 한다.
 * 정말 번거러워요; can be such a hassle
 * 우리 부모님은 내#가 늦게 다니는 것에 대해 항상 잔소리한다.
 * My parents always hassle me about staying out too late.
@@ -4626,6 +4655,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * = 그는 차량 사고로 사람을 죽여 기소되었다. He was indicted for vehicular homicide.
 
 ## home, house
+* leave home; 집에서 나오다;  get back home: 집으로 돌아가다
 * house: 말 그대로 집
 * home: 집일 수도 있고 어디든 편안함을 느끼는 장소
 * house party가 그래서 맞음
@@ -5344,8 +5374,13 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * left-wing 좌익 단체들left-wing groups 
 * go left: 왼쪽으로 걲어 가세요; on the left: 왼쪽에 위치하고 있다.
 
+<<<<<<< HEAD
 ## list
 * 몸이 나른해; i fell listless today
+=======
+### leftover
+* 먹다 남은걸 먹고 있어요; We're doing leftovers for lunch
+>>>>>>> cde7b90e976ff3afc5e6b168ba97979c5628726a
 
 ## lick
 * lick 은 원래 '핥다' 라는 뜻이기에 직역하면 '깨끗하게 핥아먹다' 의 의미를 갖습니다. 그만큼 무언가를 싹싹 긁어먹는 모습을 비유적으로 나타낸 표현이에요.
@@ -5404,6 +5439,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
  * #way off line; #잘못되다; your life's been way off line
 
 ## live
+* i'm (currently) living in Seoul; 잠시 살고 있다는 느낌; i live in seoul
 * live for : 가 삶의 이유/낙이다
 	* 내 삶의 이유/낙은 음악이야. Music is what I live for.
 * 'live with sth'은 바꿀 수 없는, 어렵고 불쾌한 [무엇]이 닥쳤을 때 이를 받아들인다는 뜻이랍니다. 우리말로는 '~을 감수하다' '~을 수용하다' 등이 되겠네요.
@@ -5866,6 +5902,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 남성들은 부양자로 여겨지고, 반면에 여성들은 보육자로 여겨집니다. ex) Men are considered as providers, whereas women are considered as nurturers.
 * 아이뿐만이 아니라 작은 식물이 잘 성장 및 발달하도록 키우는 것을 nurture 라고 하는데요. 물리적으로 키우는 것 외에도 계획이나, 아이디어, 또는 영상에서처럼 관계를 키우는 것 또한 nurture 라고 합니다.  속뜻으로 성장하는데 필요한 [영양분을 공급하다] 라는 의미도 가지기 때문에 영상에서는 [소홀해진 관계에 영양분을 주어서 회복시키다] 라는 뉘앙스로 쓰였습니다!
 * 널 위해 책을 좀 샀는데. 이거 잃으면 마음의 양식이 될 거야. ex) I've got a book for you. I'm sure reading this will nurture your mind.
+
+## nitty gritty; 
+* 우리가 진짜 핵심에 들어가기도 전에 시간이 다 되었다. Time ran out before we could get down to the real nitty-gritty. 
 
 ## nip
   * 살을 에는 듯한 냉기. a nasty nip in the air 듣기 출처:프렌딕
@@ -6825,6 +6864,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * on a plate는 쉽게 얻은 것을 비유적으로 표현하는 말이에요~ '쉬이 내주다/얻다,' '거저 받다/얻다'와 같은 뉘앙스를 나타내고 싶을 때 사용하면 좋겠죠~?!
   * 그는 수월하게 비밀문서를 건네 받았다. He was given the confidential documents on a plate.
 * : 어떤 일을 '책임지고 본격적으로 하다, 혹은 그럴 준비를 하다' 라는 뜻이에요! 야구에서 타자가 공을 치기 위해 본루 'home plate' 에 오르는 것에서 유래했다는 말이 있답니다.
+* 책임을 지다; need to # step up to the plate
 
 ## place
 * "크게 될 사람이야!", "성공할 사람이야!", "뭐라도 해낼 사람이야!" 라는 말이 있죠? 그 뉘앙스에 딱 맞는 영어 표현이 바로 "OO is going places" 예요~! 

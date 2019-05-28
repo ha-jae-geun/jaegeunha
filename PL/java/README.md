@@ -1579,6 +1579,7 @@ Space Enter를 모두 경계로 인식하기에 입력받은 데이터를 가공
  * 문자열 비교할 때; string.equals("DF")
 
 # equals
+* 공백을 처리하기 때문에 ==과 차이점
  * string.equals("DF")
  * string.equalsIgnoreCase("GK") // 대소문자 구분 없이
 - String형은 Serialzable 인퍼페이스를 상속해서 주소값이 같다.
@@ -1615,6 +1616,7 @@ Space Enter를 모두 경계로 인식하기에 입력받은 데이터를 가공
 
 
 ## 객체
+* 기본 자료형을 제외한 모든 요소들이 객체로 
  * 인스턴스: Scanner scanner =  // 앞부분은 객체를 생성한 것이 아니라 참조형 변수를 지정해 준 것; 즉 인스턴스화를 의미한다; 객체 생성은 뒷부분만을 의미하는 것임.
  * 확장성을 주기 위한 것
  * 객체생성: new Scanner(System.in) // new 를 통해 객체를 생성했다.

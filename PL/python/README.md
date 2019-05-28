@@ -3,6 +3,65 @@ Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
   [Ruby](https://www.jetbrains.com/ruby)
   [python common mistake](http://hamait.tistory.com/851?category=79136)
 
+# 파이썬 
+- 클래스 방식은 컴파일러 -> pyc파일 -> 인터프리터; 
+- 함수: 인터프리터 방식
+
+# 파이참
+## 세팅
+* 모듈 확인: Project Interpreter 혹은 conda prompt 에서 conda list 혹은 conda search request
+
+## 파이참 단축키
+* Ctrl+ Q, F4
+
+# 옵션
+* 옵션을 객체로 사용 가능
+``` python
+print(sys.stdout.encoding)
+
+```
+
+# 모듈
+## requests 모듈
+* 아나콘다 프롬프트에서 conda install requests
+
+
+## beautifulsoup
+* BeautifulSoup4 패키지는 lxml 패키지와 html5lib 패키지가 설치된 경우에 더 잘 작동하므로 설치가 되어있지 않을 경우에 설치하는 것을 권장한다.
+
+### BeautifulSOup 분석기 종류
+* 가. Python’s html.parser : 'html.parser'
+* 나. lxml’s HTML parser : 'lxml'
+* 다. lxml’s XML parser : 'lxml-xml', 'xml'
+* 라. html5lib : 'html5lib'
+
+# 객체지향 프로그래밍 형태
+* 클래스 기반 | 프로토타입 기반
+* 클래스 |  객체
+* 인스턴스 |  객체
+* 부모 클래스 |  프로토타입
+* 상속 |  복제
+* 클래스 메소드 |   메소드
+* 인스턴스 메소드 |  메소드
+
+# return
+* return 코드영역으로 반환, pass 함수 지정하면 최소 1자리 이상
+
+# hash
+* 해시값은 컴퓨터에서 부여한 주소의 값이라고 생각하면 된다.
+
+# id
+* 파이썬에서 부여한 주소의 값이라고 생각하면 된다; id 사용 권장
+
+# map
+* map 함수를 사용하지 않을 때는 append 메소드로 하나씩 x 인자를 함수에 대응 후에 결과값을 추가한다.
+* map 함수는 쌍을 지어주므로 x 인자가 5개이면 수행 결과의 인자도 5개가 된다. 결과값은 [1, 4, 9, 16, 25] 이다.
+
+```python
+a=[1, 2, 3, 4, 5]
+print(list(map(lambda x: x*x, a)))
+```
+
 # 파이썬 설치
  * 아직까지 3.6버전까지 머신러닝 지원
  * Windows x86-64 web-based installer // 나중에 웹에서 다운받아야 함
@@ -117,6 +176,13 @@ Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
 # 문자
 - 문자나 문자열은 같이 취급한다.
 
+## 긴 문자열
+```python
+html = """
+
+"""
+```
+
 # ''
 - 파이썬은 ''가 기본이다.
 
@@ -208,6 +274,10 @@ class Song
 a = Song()
 ```
 
+# 복사
+* 얕은복사; 레퍼런스까지 복사; 
+* 깊은복사: 완전히 다른 레퍼런스 
+
 # 데이터를 저장시키는 방법
 - 생성자: CPU와 관계를 가진다; 메모리에 저장하는 용도
 - 맴버변수: CPU와 전혀 관계 없다; 데이터베이스 저장 용도
@@ -234,7 +304,184 @@ a = Song()
 * ˍ ˍ initˍ ˍ .py 파일이 없다면 파이썬은 해당 디렉터리의 모듈을 가져오지 못한다.
 * 파이썬 3.3부터는 ˍ ˍ initˍ ˍ .py 파일이 없어도 패키지로 인식하지만 파이썬의 하위 버전에 대한 호환성을 위해서라도 유지하는 것이 필요하다.
 
----
+
+# 파일
+
+## b모드
+- 인코딩이 지원이 안된다.
+
+## open
+* f = open('test.txt', 'w'); encoding을 설정 안하면 none이 default 설정값이 되어 OS의 default 값을 설정하게 된다.
+
+## 딕셔너리
+```python
+s = {'가':1, '나':2}
+f.write(''.join(s))
+  # 키 값만 들어간다.
+f.close
+```
+
+
+## 리스트
+* 리스트의 내용을 파일에 쓰려고 하면은 write 메소드는 리스트를 지원하지 않으므로 오류가 발생한다.
+* 리스트의 내용을 파일에 쓰기 작업을 하기 위해서는 join 메소드와 같이 사용해야 한다.
+``` python
+s = ['1234', '4567', '89']
+f = open('test.txt', 'w', encoding='utf-8')
+f.write(''.join(s))
+f.close( )
+```
+
+## write
+* ⎼ f 객체의 write 메소드의 인자인 문자열 s의 내용은 a 모드에 의해서 파일의 뒷부분에 추가된다.
+
+## BOM 제거
+* utf-8로 인코딩된 파일의 BOM을 제거하기 위해서는 open 함수의 encoding 옵션의 옵션값인
+* utf-8에 -sig을 덧붙여 지정하며 sig는 signature의 약자이다
+
+```python
+f = open('test.txt', encoding='utf-8-sig')
+s = f.read( )
+f.close( )
+print(s)
+```
+
+# 특별 메소드
+## __str__
+```python
+class ArgumentClass:
+  def ˍˍinitˍˍ(self, obj):
+    self.obj=obj
+  def ˍˍstrˍˍ(self):
+    return str(self.obj)
+call = ArgumentClass(10)
+print(call)
+```
+* print하려고 하는데 print할 게 없다면 __str__이나 __repr__로 이동하여 return 
+
+## 숫자 연산자 메소드
+```python
+class AddOperator:
+  def ˍˍinitˍˍ(self, obj):
+    self.obj = obj
+  def ˍˍstrˍˍ(self):
+    return str(self.obj)
+  def ˍˍaddˍˍ(self, other):
+    return self.obj+other
+call1 = AddOperator(10)
+call2 = call1+10
+print(call2)
+```
+* 더하면 자동으로 add 함수가 호출되는데 안에있는 매개변수의 수가 같아야 실행됨.
+
+
+# 데코레이터
+```python
+class MethodClass:
+  @staticmethod
+  def call(x, y):
+    print(x, y)
+f = MethodClass( )
+f.call(5, 6)
+```
+- call 메소드는 @staticmethod 데코레이터로 선언된 메소드이므로 스태틱 메소드가 되고 스태틱 메소드는 첫 번째 인자에 self 인자를 선언하지 않아도 된다.
+
+## 클래스 메소드
+* 클래스 메소드는 첫번째 인자로 클래스 객체를 자동으로 받는 메소드이다.
+* 클래스 메소드는 해당 클래스의 생성자를 할당한 인스턴스를 통해서도 호출이 가능하다.
+* 클래스 메소드는 해당 클래스로 생성된 객체마다 생성이 되지 않는다.
+* 생성된 모든 객체가 동일한 메소드로 접근을 하게 되면은 클래스 메소드는 첫번쨰 인자로 해당 클래스 인자를 받게된다.
+
+```python
+class MethodClass:
+  @classmethod
+  def call(classobject, x, y):
+   print(classobject, x, y)
+MethodClass.call(3, 4)
+f = MethodClass( )
+f.call(5, 6)
+```
+
+# 클래스
+* 프로그램에서 클래스를 적용하면 중복성을 배제하는 등의 다양한 효과를 얻을 수 있다.
+* 파이썬의 클래스는 하나의 틀이다.
+* 틀에 의해서 인스턴스를 생성하며 인스턴스 별로 독립적인 성격을 갖는다.
+* 클래스의 인스턴스는 동적 인스턴스와 정적 인스턴스로 구성되어 진다.
+* 파이썬의 모든 클래스는 메타 클래스에 의해 만들어진다.
+
+# 입출력
+* 출력: 1. 단순 출력 2. 예외 출력
+
+## 표준
+* 현재의 시스템에서 입력의 시작이 되는 장비 또는 파일
+
+
+# 다형성
+* 자료형 선언이 없다는 점에서 파이썬에서는 다형성을 적용하기가 더욱 용이하다.
+* 실시간으로 객체의 자료형이 결정되므로 단 하나의 메소드에 의해 처리될 수 있는 객체의 종류에 제한이 없다.
+* 다양한 객체들에게 유사한 작업을 수행시킬 수 있으며 소스 코드의 가독성을 높혀준다.
+* 다른 언어보다 프로그램 작성시 코드의 양이 더욱 줄어든다.
+
+# 데이터
+
+# 정형 데이터
+* 정형 데이터는 정형화된 자료로 고정된 필드에 저장되는 자료를 의미한다. 정형 데이터는 관계형 데이터베이스가 대표적이다. 데이터베이스에 미리 생성되어 있는 테이블은 고정된 필드들로 구성이 되는데 이렇게 일정한 형식을 갖추고 저장되는 자료가 정형 데이터이다. 정형 데이터는 솔루션을 이용하여 비교적 쉽게 보관하고 분석하여 처리 작업을 진행할 수 있다. 
+* 독립적으로 연산
+
+# 반정형 데이터
+* 반정형 데이터는 고정된 필드로 저장되어 있지는 않지만 XML이나 HTML 같이 메타 데이터나 MS 워드 등으로 작성한 자료 등을 포함하는 자료를 의미한다. 소셜 네트워크 서비스 사용자가 생성하는 자료들이 반정형 데이터에 해당한다.
+* xml
+
+# 비정형 데이터
+* 비정형 데이터는 고정된 필드에 저장되어 있지 않은 자료를 의미한다. 비정형 데이터는 텍스트 분석이 가능한 텍스트 문서, 유튜브에서 업로드하는 동영상 자료, 메신저로 주고 받은 대화 내용, 스마트폰에서 기록되는 위치 정보 등이 비정형 데이터이다.
+* 계산을 독립적으로 못한다.
+
+# 데이터 수집방법
+ ## (1) ETL
+* ETL(Extraction Transformation Loading)은 자료의 추출, 변환, 로드를 의미한다. ETL은 다양한 소스 자료를 취합해 자료를 추출하고 하나의 공통된 형식으로 변환하여 자료를 적재하는 과정을 지원한다. 
+
+## (2) 크롤링
+* 크롤링은 웹 사이트를 정기적으로 돌며 정보를 추출하는 기술이다. 크롤링하는 프로그램을 크롤러 또는 스파이더라고 한다. 
+* 웹에서 자료를 다운받는다.
+
+## (3) 스크레이핑
+* 스크레이핑은 웹 사이트에 있는 특정 정보를 추출하는 기술이다. 스크레이핑은 웹에서 자료를 추출 하는 것 뿐만 아니라 구조도 분석한다. 스크레이핑은 로그인해서 필요한 웹 페이지에 접근 하는 기술이 필요하다. 
+* 웹소스를 분석해서 특정 정보를 추출한다.
+
+## 4) 로그 수집기
+* 로그 수집기는 내부에 있는 서버의 로그를 수집하는데 웹 로그, DB의 로그 데이터 등을 수집한다. 
+
+## (5) 응용프로그램
+* RSS 리더와 오픈 API에서 자료를 수집한다. 
+
+## (6) 센서
+* 각종 센서로 자료를 수집한다
+
+
+
+# 라이브러리
+## 표준 라이브러리
+* https://docs.python.org/3.6/library/index.html
+
+# pip
+* 파이썬에서 제공하는 패키지 관리도구
+
+
+# http; hypertext transfer protocol
+* hyper: 정보가 동일선 상에 위치하지 않고 다중으로 연결 상태; text: 목차없이 접근; transfer: 메소드; protocol: 규약
+* naver.com -> 네임 스페이스 -> 디렉터리 정책
+
+## 헤더
+* 일반헤더: 정보  
+* 요청헤더: 파라미터, MIME
+* 객체헤더: REQUEST
+* 응답헤더
+
+# DOM
+* 요소: 데이터
+* 속성: 프로퍼티
+
+------------
 
 # python, Ruby
 

@@ -19,7 +19,10 @@
  	* No that's too late. See if i can you can move it up
 
 # 원어민
+* 열쇠 구멍에 꿰어서; thread it through the key ring hole; 닷 ㅣ신발끈을 묶으세요; rethread your shoelaces
+* 부모님에게 섹파가 있다고 말한다면; told theri parents they had a freind with benefits
 * 언어를 잘하다, 못하다는 능력으로 안보기 때문에; i'm not goot at 보다는 i don't speak English very well 로 표현
+* 2개; 각각 다르다; they each have their own;  셋 이상: all/none; They all have different personalities
 * 에어컨을 사용하기 쉽다; handle은 문제를 말하는 것이고; it's easy to use가 더 좋은 표현
 * 나 잘먹어; i eat a lot; i like eating
 * 잘 생각해봐; Give it some thought; Give it a lot of thought
