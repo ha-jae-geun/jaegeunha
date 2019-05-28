@@ -1044,6 +1044,9 @@ We need food and water.
 * 이 표현은 ‘매우 쉬운 일’을 의미합니다. 냉장고가 없던 옛날에는 생선을 배럴 통에 보관했고, 배럴 통은 워낙 크기 때문에 거기에 생선을 집어 넣는 일은 매우 흔하고 쉬운 일이라는 것에서 유래했다고 합니다.  : 식은 죽 먹기, 아주 쉬운 일 [be like shooting fish in a barrel]
   * 에밀리는 솜씨 좋은 수리공이야. 타이어 하나 가는 것쯤은 식은 죽 먹기라고. Emily is a good mechanic. Changing a tire is like shooting fish in a barrel.
 
+## banana
+* 실제 크기를 알아보는 것; Here's a banana for scale
+
 ## bang
 * 그만 두들겨; stong banging
 * 'bang against sb/sth'은 '~에 부딪치다'라는 표현이에요.
@@ -1070,6 +1073,7 @@ We need food and water.
   * 세부 사항들에 발목 잡혀선 안 돼. ex) We shouldn't get bogged down in details.
 
 ## ball
+* 내가 처음 시도하는거야; It's a whole new ball game
 * 큰 규모의 격식 있는 무도회를 the ball이라고 합니다. 일반적인 파티는 당연히 party라고 하겠지만, ball 은 격식 있는 복장과 '춤'이 꼭 들어가는 파티에요.  참고로 미국 고교 졸업 예정자들이 갖는 졸업파티를 The Prom이라고 하는데요. 대신 The Ball이라고 하기도 합니다. 사교를 위한 모임이고, 춤추고 즐겁게 논다는 모습에서 [신나게 즐기다]라는 말을 have a ball이라고 할 수도 있습니다.
   * = 연회에 갈 정장을 사야겠어. I'll have to get myself formal suits for the ball.
 * "keep one's eye on the ball" 이라고 한답니다. 반대로 "take one's eye off the ball" 은 '중요한 것에서 눈을 떼지 마세요.'  "Don't take your eyes off the ball"
@@ -1377,6 +1381,9 @@ We need food and water.
 ## brick
 * a ton of 은 무언가가 [굉장히 많은] 을 의미하는 비격식 표현인데요. 실제로 벽돌 (brick) 이 1톤 정도 자기 주변에 있다고 생각하면 아주 무겁고 답답하고, 힘들고 그럴 거예요. 그래서 la ton of bricks 는 [갑작스럽고 중요한 영향] 정도로 해석이 됩니다. 영상에서는 동사 [go over = 특정한 반응을 이끌어내다] 와 함께 쓰여서 직역하면 [용돈을 줄인 건 엄청난 영향을 이끌어냈다] 정도로 해석이 되지만 의역하여 [딸은 충격에 휩싸였죠] 로 해석이 되었습니다.
 	* 그 진실이 내겐 큰 충격으로 다가왔다. ex) The truth hit me like a ton of bricks.
+
+## blush
+* 나 얼굴 빨개졌어; i'm blushing
 
 ## blue
 * 정부가 정치, 외교, 경제 등의 복잡한 이슈나 문제에 대해서 간결 명료하게 설명해놓은 보고서나 어려운 결정을 내릴 때 참고할 수 있는 지침서를 백서라고 합니다. 정부 외에도 민간 분야, 특히 기술 분야의 백서는 현재 개발 중인 기술과 전반적인 계획에 대해 써 놓은 보고서를 의미해요. 이외에도 생활 백서, 국방 백서 등이 있습니다. 영국 정부에서 조금 더 자세하고 방대한 버전인 보고서/지침서를 blue book 이라고 했는데요. 커버가 파란색이라서 붙은 이름이라고 해요. white paper 또는 white book 은 커버가 흰색이기에 붙은 이름입니다. 미국에서는 blue book 은 &lt;중고차 가격표&gt; 를 의미합니다.
@@ -2268,6 +2275,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 2) contribute to 가 붙어서 나오면 무언가가 발생하는데 도움이 되는 것을 의미하니, 문맥에 따라서 [기여하다] 또는 [원인이 되다] 라는 의미를 가집니다.
 	* 심각한 경제 불황이 높은 실업률의 원인이 되었다. ex) The serious economic recession contributed to the high unemployment rate.
 
+## clutter
+* 어수선하지 않은 집; a clutter-free home
+
 ## class
 * * # 극비 문서; The most # highly classified documents
 
@@ -2639,6 +2649,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * No, I was in the dark. 아니 몰랐어.
   * Don't keep me in the dark. 나한테 비밀로 하지 말라고.
   * The owl can seel well int the dark. 부엉이는 어둠속에서 잘 봐요.
+* 연락이 두절되다; she went dark
 
 ## damage
 * Damage / Damages: 손해 배상금
@@ -3465,6 +3476,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 에밀리는 동료와 잠깐 사귀었어. Emily had a fling with her co-worker.
 
 ## flip
+* 그는 갑자기 의견을 완전히 바꿔버렸다; He flipped his opinion/idea on its head
 * on the flip side = 반면에, 다른 한편으론; flip 이 동사로는 [뒤집다, 확 젖히다] 의 의미를 가지는데요. 뒤집으면 정반대의 측면을 보게 되는 것이기에 on the flip side 는 [반면에, 다른 한편으론] 의 의미를 가집니다.
   * = 그 식당에서 일한 건 굉장히 지치는 일이었지만, 다른 한편으론 거기서 좋은 친구들을 많이 사귀었어. Working at the restaurant was exhausting, but on the flip side, I made a lot of good friends there.
 * 1) 모든게 다 정해져있는 대본(script) 를 뒤집는 (flip) 다는건, 예상치 못한 행동을 하여 상황을 역전시키는 것을 의미해요.  2) 때로는 상대방이 주로 이야기하는 대화에서, 자기가 주도권을 가져와 대화의 흐름을 바꾸는 것을 의미하기도 합니다. 3) 영상에서는 이전 팁까지는 본인이 이야기 할 때 어떻게 해야한다- 라는 내용이 주를 이루었는데,  4) flip the script는 '말을 갑자기 바꿔버리다'라는 뜻도 있어요.
@@ -5332,6 +5344,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * left-wing 좌익 단체들left-wing groups 
 * go left: 왼쪽으로 걲어 가세요; on the left: 왼쪽에 위치하고 있다.
 
+## list
+* 몸이 나른해; i fell listless today
+
 ## lick
 * lick 은 원래 '핥다' 라는 뜻이기에 직역하면 '깨끗하게 핥아먹다' 의 의미를 갖습니다. 그만큼 무언가를 싹싹 긁어먹는 모습을 비유적으로 나타낸 표현이에요.
   * = 난 내 남친을 위해 요리하는 걸 좋아해. 왜냐면 내가 무엇을 요리하든지 깨끗이 비우거든. I enjoy cooking for my boyfriend because he licks the dish clean no matter what I cook.
@@ -5594,6 +5609,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## mark
 * Hilfenhaus는 이해가 빠르다.  Hilfenhaus is quickly off the mark; 상황 판단이 빨라
 * 그는 속이기 쉬워; he is an easy mark
+* 그녀의 비판은 매우 정확했어; Her criticism really hit the mark
 
 
 ## market
@@ -7508,6 +7524,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 관심을 가지고 다가가ㅏㄷ; reach out to 사람;
 * 는 #무리다, #멀다; it’s a #reach;   말도 안되는 소리: you’re reaching = it’s a stretch
 
+## overhaul
+* 완전한/대규모 점검 a complete/major overhaul 
+
 ### overnight
 * 익일 배송을 시킬 수는 없었어요; SHe couldn't overnight it
 
@@ -8101,6 +8120,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 부모는 자식에 마음이 약하다. Parents have a soft spot for their children.
 
 ## sport
+* 요가 바지를 입다; sport yora pants
 * 그는 잘 받아준다 / 못 받아준다 / 분위기 망친다.  He is a good sport / bad sport / spoilsport
   * #sport: 영국, sports: 미국; How often do you work out?
   * 측면에서 보면, sport는 운동이나 경기 총체를 의미하고, sports는 경기대회 혹은 경쟁이 따르는 운동을 의미합니다. 미묘한 차이라 생각될 수 있지만, 쉽게 이야기 하면, sport는 큰 의미에서 운동이나 스포츠활동이고, sports는 특정한 대회나 종목들을 의미합니다. 

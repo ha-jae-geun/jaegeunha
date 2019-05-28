@@ -2237,6 +2237,7 @@ https://donggeuri0320.tistory.com/entry/%EC%9E%90%EB%B0%94java-%EB%82%B4%EB%B6%8
 
 
 # 다형성
+* 부모가 자료형, 자식이 new면; 자식 메소드 사용 가능
 1. 인터페이스; 모두 다 강제하겠다.
 2. 어노테이션; 모두 다 강제하지만 반환타입이 존재하는 것만 사용하겠다.
 3. 추상 클래스; 강제성을 가지지만 구상 메소드도 가진다. 다형성이 부분적으로 일어난다.
@@ -3948,6 +3949,9 @@ for (Iterator 인스턴스 = collection.iterator( ); iterator.hasNext( );) {
 # 열거 While문
 - while(Enumeration 인스턴스.hasMoreElements( )) { 
 클래스 자료형 인스턴스 = [(클래스 자료형)] en.nextElement( ); }
+
+## TreeSet
+* 중복값 제거, 자동정렬
 
 ## HashTable
 -  키의 값은 무조건 “” 사이에 넣는다; hashtable.put("name", name); 

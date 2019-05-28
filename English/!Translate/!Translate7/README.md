@@ -1,3 +1,23 @@
+# [ 직장영어 ] "일정을 앞당기다" - "일정이 앞당겨지다"
+* 우리가 회의를 화요일로 앞당겼어요; We moved up the meeting to Tuesday
+* 회의가 화요일로 앞당겨졌어요; The meeting has been moved up to Tuesday
+* 회의를 화요일로 앞당겼어요! We got the meeting moved up to Tuesday
+	* 위의 2문장과 달리 애초에 앞당길려는 의도가 있었거나 시기적으로 앞당기는게 유리한 상황
+* “숙제가 이번 주까지가 기한이야? 다음 주로 미루어진거 아니었어?”
+	* Is the homework due thisweek? Wann't it pushed back/postponed to next week?
+ * “그랬었는데 시험기간이랑 겹쳐서 다시 앞당겨졌어.”
+ 	* It was moved back up because it's test week
+ 	* back 이 '다시'라는 의미
+ * “예약했어?”
+ 	* 시설이용 예약: reservation; 약속: appointment
+ 	* Did you get an appointment?
+ 	* Did you make a reservation
+ * “응, 근데 가장 빠른게 다음 주 월요일이래.”
+ 	* Yest but they said the ealiest is next Mondy
+ 	* they ssaid Monday next week is the ealiest/soonest
+ * “안돼 너무 늦어. 앞당길 수 있는지 알아봐.”
+ 	* No that's too late. See if i can you can move it up
+
 # 원어민
 * 언어를 잘하다, 못하다는 능력으로 안보기 때문에; i'm not goot at 보다는 i don't speak English very well 로 표현
 * 에어컨을 사용하기 쉽다; handle은 문제를 말하는 것이고; it's easy to use가 더 좋은 표현
@@ -26,6 +46,13 @@
 	* i had to throw it away because it had expired
 * 여기까지 오는 내내 물 한모금도 못마셩써; i haven't had any water all the way up here
 * 식나을 투자하다; put in a lot of time to prepare / put a lot time in each lecture; 그냥 put이 아니라 in 붙여줘야 함
+* 크림 파스타; cream-based sauce
+* 저도 잘 몰라요; Your guess is as good as mine
+* 다른 곳; somewhere else/ something esle / someone else / some other way / some other reason / some other time
+* 교수님한테 보내려고 하고 있는데; Just as i was tying to send it to my professor; be about to는 행동하기 바로 전
+* 내가 처음 시도하는거야; It's a whole new ball game 
+* 나 얼굴 빨개졌어; i'm blushing
+* 빠르면; at the earliest
 
 # 잘
 * go well; 일이나 상황이 순조롭게 문제없이 진행되다;
