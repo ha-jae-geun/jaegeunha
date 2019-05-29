@@ -7,6 +7,22 @@ Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
 - 클래스 방식은 컴파일러 -> pyc파일 -> 인터프리터; 
 - 함수: 인터프리터 방식
 
+# 빅데이터 과정
+## 파이썬 수집 -> 기본 파이썬
+- 웹 크롤링 -> 스크래핑
+- 데이터 세트
+
+## 파이썬 분석
+- 판다스
+
+## 머신러닝
+* knn 알고리즘, SVM, 의사결정트리, 나이브베이즈, 신경망 알고리즘
+* 크로스 벨리데이스, 그리드 서치, 형태소 분석
+
+## 딥러닝
+* 신경망: 텐서 플로우, 케라스
+
+
 # 파이참
 ## 세팅
 * 모듈 확인: Project Interpreter 혹은 conda prompt 에서 conda list 혹은 conda search request
