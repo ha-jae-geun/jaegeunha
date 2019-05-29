@@ -6256,6 +6256,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 화장이 뜨는 부분; i do get the patches
 * rough patch = 순탄치 못한 시기, 힘든 시기; patch는 '구역'을 뜻하고 rough는 '거칠다'라는 뜻이에요. 이게 배 항해할 때 물살 거친 구역을 칭하는 데서 유래했다는 설이 있네요~ 지금도 항해사들이 쓰는 표현이기도 하다고요!
 * 고르게 발려요; it doesn't get patchy
+* 우리 엄마가 구멍 낸 티셔츠를 고쳐주셨어; My mom patched up my ripped t-shirt
+* patch something up; 수습하다, 대충 치료하다
+* 차이를 이겨내고 결혼해썽; They manage dto patch up their differences and got married
 
 ## pat
 * * pat down  1. 몸 수색을 하다. 2. 가볍게 두드리다. 불법적인 무기나 마약 등을 소지하고 있는지 몸을 훑어가며 수색하는 것을 의미합니다. 보통 공항 보안 검색대에서 출국할 때 하는 검사를 생각하시면 됩니다!
