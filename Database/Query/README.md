@@ -115,4 +115,28 @@ SET    AVG_CLOUD =
        )
 ```
 
+```SQL
+SELECT CASE WHEN SIDO = '경상남도' THEN '경남'
+						WHEN SIDO = '경상북도' THEN '경북'
+            WHEN SIDO = '충청남도' THEN '충남'
+            WHEN SIDO = '충청북도' THEN '충북'
+            WHEN SIDO = '전라남도' THEN '전남'
+            WHEN SIDO = '전라북도' THEN '전북'
+            ELSE ''
+			 END SIDO,
+       MEA_DATE,
+       AVG_CLOUD
+ FROM(
+SELECT SUBSTR(B.BASE_NAME,0,4)SIDO,
+       REPLACE(A.MEA_DATE, '-', '') MEA_DATE,
+       ROUND(AVG(A.AVG_CLOUD), 6) AVG_CLOUD  
+FROM   WEATHER_2018 A,
+       TB_BASE_CODE B
+WHERE  B.KIND_CODE    = 1
+AND    A.AREA = B.BASE_CODE
+GROUP BY SUBSTR(B.BASE_NAME,0,4), REPLACE(A.MEA_DATE, '-', '')
+ORDER BY SIDO, MEA_DATE)
+WHERE SIDO IN ('경상남도', '경상북도', '충청남도', '충청북도', '전라남도', '전라북도')
+```
+
 - GROUP BY에 별명 
