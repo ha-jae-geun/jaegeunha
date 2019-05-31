@@ -937,6 +937,10 @@ We need food and water.
 * someone's bubble 은 [잘못된 믿음/생각] 을 의미하는 단어에요. 주로 bust/burst someone's bubble 이라는 표현을 많이 쓰는데요. [희망/잘못된 믿음/생각 등을 없애다] = [현실을 깨닫게 해주다] 의 의미를 가집니다. 영상에서는 제니퍼가 팁에 대해서 그간 잘못 생각해왔다는 것을 말하기 위해 bubble 이라는 단어를 썼어요. 또, '자기만의 세상'에서 살고 다른 사람들의 삶이 어떤지 잘 모르는 사람 보고 "They're living in a bubble." "버블 속, 방울 속에서 살고 있다"고 해요. 특히 부잣집에서 자라 세상 물정을 잘 모르는 사람을 두고 하는 말입니다.
   * 제임스는 사라가 자기를 좋아한다고 생각해. 있는 그대로 알려줘야 해야 할지 모르겠네. ex) James thinks Sarah likes him. I don't know if I have to burst his bubble or not.
 
+## bun
+* 쪽머리를 하다; put up in a bun
+	* 그녀는 머리를 올렸다; She put up her hair in a bun
+
 ## bunch
 * 1. 명사 bunch: 무리, 뭉치, 다발  the bunch of coriander: 고수 (한) 뭉치
 * a bunch of coriander: 고수 잔뜩 2. 명사 bunch: 많음
@@ -2504,6 +2508,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ## dwarf
 * 판타지 소설이나 영화, 게임을 좋아하시는 분들은 알만한 단어입니다. dwarf. 명사로는 신화 속에 나오는 '난쟁이' 를 의미하는데요. 지금도 왜소증 환자를 dwarf 라고 합니다. 때론 모욕적으로 들릴 수도 있으니 조심하셔야 해요.
   * 그 농구 선수는 말 그대로 그의 옆에 선 모두를 왜소해 보이게 만들었다. ex) The basketball player dwarfed literally everyone standing next to him.
+
+## decorate
+* 메달/ 훈장을 딴; decorated; They were decorated for saving the child
 
 ## devil
 * 대체 이거 뭐야? What the devil is this?
@@ -5793,6 +5800,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * go missing는 '실종되다', '사라지다'라는 뜻이고 missing은 '행방불명된 상태'를 뜻해요. 또한, missing은 '제자리에서 없어진 상태'도 뜻합니다. 예시로 비교해보죠.
   * 4살 여아는 어제 실종되었습니다. The 4-year-old girl went missing last night.
   * 어, 내 립스틱이 없네. 네가 가져갔니? Hey, my lipstick is missing. Did you take it?
+
+## movie
+* 영화보러갈래? 보는거에 집중; do you want to see a movie with me tonight?
+* 영화본다에 초점; i am watching a movie
 
 ## money
 * #old money; 상속받은 돈; new money: 번 돈 / 굴러들어온 돈
