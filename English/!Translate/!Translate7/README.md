@@ -19,6 +19,9 @@
  	* No that's too late. See if i can you can move it up
 
 # 원어민
+* 건재하다고; i still stand
+* 과제, 숙제, 프로젝트 끝ㄴ내다; finish; 전쟁, 계약, 결혼생활: end
+* 개 버릇 나쁜거 딱봐도 알겠다; i can tell by just looking at him that he's spoiled
 * 열쇠 구멍에 꿰어서; thread it through the key ring hole; 닷 ㅣ신발끈을 묶으세요; rethread your shoelaces
 * 부모님에게 섹파가 있다고 말한다면; told theri parents they had a freind with benefits
 * 언어를 잘하다, 못하다는 능력으로 안보기 때문에; i'm not goot at 보다는 i don't speak English very well 로 표현
