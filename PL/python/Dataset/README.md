@@ -17,3 +17,19 @@
 * 데이터 영역: 바이너리
 * 힙영역
 * 스택 영역
+
+
+# openpyxl
+## 엑셀 시트 변경, 컬럼 
+```python
+from openpyxl import load_workbook
+file = 'grade_xlsx.xlsx'
+wb = load_workbook(filename=file)
+sheet = wb.active
+
+ss_sheet = wb.get_sheet_by_name('Fruit')
+
+ss_sheet.title = 'English'
+ss_sheet.cell(row=1, column=6).value = 'practice'
+wb.save("grade_xlsx.xlsx")
+```
