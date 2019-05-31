@@ -5,6 +5,17 @@
 ## Generic
 * 제네릭은 자바에서 안정성을 맡고 있다고 할 수 있다. 다양한 타입의 객체들을 다루는 메서드나 컬렉션 클래스에서 사용하는 것으로, 컴파일 과정에서 타입체크를 해주는 기능이다. 객체의 타입을 컴파일 시에 체크하기 때문에 객체의 타입 안전성을 높이고 형변환의 번거로움이 줄어든다. 자연스럽게 코드도 더 간결해진다. 예를 들면, Collection에 특정 객체만 추가될 수 있도록, 또는 특정한 클래스의 특징을 갖고 있는 경우에만 추가될 수 있도록 하는 것이 제네릭이다. 이로 인한 장점은 collection 내부에서 들어온 값이 내가 원하는 값인지 별도의 로직처리를 구현할 필요가 없어진다. 또한 api를 설계하는데 있어서 보다 명확한 의사전달이 가능해진다.
 
+## wrapper
+* 기본 자료형(Primitive data type)에 대한 클래스 표현을 Wrapper class라고 한다. Integer, Float, Boolean 등이 Wrapper class의 예이다. int를 Integer라는 객체로 감싸서 저장해야 하는 이유가 있을까? 일단 컬렉션에서 제네릭을 사용하기 위해서는 Wrapper class를 사용해줘야 한다. 또한 null 값을 반환해야만 하는 경우에는 return type을 Wrapper class로 지정하여 null을 반환하도록 할 수 있다. 하지만 이러한 상황을 제외한 일반적인 상황에서는 Wrapper class를 사용해야 하는 이유는 객체지향적인 프로그래밍을 위한 프로그래밍이 아니고서야 없다. 일단 해당 값을 비교할 때, Primitive data type인 경우에는 ==로 바로 비교해줄 수 있다. 하지만 Wrapper class인 경우에는 .intValue() 메소드를 통해 해당 Wrapper class의 값을 가져와 비교해줘야 한다.
+
+## autoboxing
+* JDK 1.5 부터는 AutoBoxing과 AutoUnBoxing을 제공한다. 이 기능은 각 Wrapper class에 상응하는 Primitive data type일 경우에만 가능하다.
+```java
+List<Integer> lists = new ArrayList<>();
+lists.add(1);
+```
+* 우린 Integer라는 Wrapper class로 설정한 collection에 데이터를 add할 때 Integer 객체로 감싸서 넣지 않는다. 자바 내부에서 AutoBoxing해주기 때문이다.
+
 ## JAVA 개발을 위한 tool JDK
 - JDK는 자바 가상 머신(Java Virtual Machine, JVM), 그리고 자바 런타임 환경(Java Runtime Environment, JRE)과 함께 자바 프로그래밍에 사용되는 3대 핵심 기술 패키지 가운데 하나다. 이 3가지 기술이 어떻게 연결되어 있는지, 또한 어떻게 다른지 구별하는 것이 중요하다.
 - 참고로 JRE는 자바언어로 개발된 어떤 SW를 구동시키기 위해 최소한 설치되어야할 것들을 지원하며, JDK는 JRE 이상으로 환경구성 뿐만 아니라 직접 개발까지 가능하게 한다. 
@@ -623,6 +634,9 @@
 # 동기화
  * print 메소드는 동기화가 되지 않고 출력한다.  println . 메소드는 동기화가 되어 출력한다
  * 사람이 소수일 땐 print(속도가 빠름), 많을 땐 println 
+
+* 필드에 Collection이 불가피하게 필요할 때는 어떠한 방법을 사용할까? Java에서는 synchronized 키워드를 사용하여 스레드 간 race condition을 통제한다. 이 키워드를 기반으로 구현된 Collection들도 많이 존재한다. List를 대신하여 Vector를 사용할 수 있고, Map을 대신하여 HashTable을 사용할 수 있다. 하지만 이 Collection들은 제공하는 API가 적고 성능도 좋지 않다.
+* 기본적으로는 Collections라는 util 클래스에서 제공되는 static 메소드를 통해 이를 해결할 수 있다. Collections.synchroziedList(), Collections.synchroziedSet(), Collections.synchroziedMap() 등이 존재한다. JDK 1.7 부터는 concurrent package를 통해 ConcurrentHashMap이라는 구현체를 제공한다. Collections util을 사용하는 것보다 synchronized 키워드가 적용된 범위가 좁아서 보다 좋은 성능을 낼 수 있는 자료구조이다.
 
 # 실수형
  * 고정; 고정 소수점 방식
@@ -1347,6 +1361,21 @@ String str4 = "java";
 - 사용하면 상속 불가하고 set 메소드도 사용할 수 없다.
 - 초기화가 필요함; final int age = 0
 
+## final class
+* 다른 클래스에서 상속하지 못한다.
+
+## final method
+* 다른 메소드에서 오버라이딩하지 못한다.
+
+## final variable
+* 변하지 않는 상수값이 되어 새로 할당할 수 없는 변수가 된다.
+
+
+## finally
+* try-catch or try-catch-resource 구문을 사용할 때, 정상적으로 작업을 한 경우와 에러가 발생했을 경우를 포함하여 마무리 해줘야하는 작업이 존재하는 경우에 해당하는 코드를 작성해주는 코드 블록이다.
+
+## finalize()
+* keyword도 아니고 code block도 아닌 메소드이다. GC에 의해 호출되는 함수로 절대 호출해서는 안 되는 함수이다. Object 클래스에 정의되어 있으며 GC가 발생하는 시점이 불분명하기 때문에 해당 메소드가 실행된다는 보장이 없다. 또한 finalize() 메소드가 오버라이딩 되어 있으면 GC가 이루어질 때 바로 Garbage Collecting 되지 않는다. GC가 지연되면서 OOME(Out of Memory Exception)이 발생할 수 있다.
 
 
 # 생성자
@@ -2699,6 +2728,7 @@ B클래스
 - 상속과 관련없다
 - 한 클래스에서 같은 이름의 메소드를 여러개 정의하는 것
 - 매개변수의 타입이 다르거나 개수가 달라야 한다.
+* 같은 클래스 내에 return value와 메소드명이 동일한 메소드를 매개변수만 다르게 만들어 다양한 상황에 메소드가 호출될 수 있도록 하는 것입니다.
 
 ## Override 어노테이션
 - @Target(ElementType.METHOD); 
@@ -3116,6 +3146,16 @@ public @interface Override {
 - Thread th = new Thread();
 
 1. 스레드 상속   2. run 메소드 오버라이드  3.인스턴스의 start 메소드를 가동
+
+## 스레드 로컬
+* 스레드 사이에 간섭이 없어야 하는 데이터에 사용한다. 멀티스레드 환경에서는 클래스의 필드에 멤버를 추가할 수 없고 매개변수로 넘겨받아야 하기 때문이다. 즉, 스레드 내부의 싱글톤을 사용하기 위해 사용한다. 주로 사용자 인증, 세션 정보, 트랜잭션 컨텍스트에 사용한다.
+* 스레드 풀 환경에서 ThreadLocal을 사용하는 경우 ThreadLocal 변수에 보관된 데이터의 사용이 끝나면 반드시 해당 데이터를 삭제해 주어야 한다. 그렇지 않을 경우 재사용되는 쓰레드가 올바르지 않은 데이터를 참조할 수 있다.
+
+* ThreadLocal을 사용하는 방법은 간단하다.
+* ThreadLocal 객체를 생성한다.
+* ThreadLocal.set() 메서드를 이용해서 현재 스레드의 로컬 변수에 값을 저장한다.
+* ThreadLocal.get() 메서드를 이용해서 현재 스레드의 로컬 변수 값을 읽어온다.
+* ThreadLocal.remove() 메서드를 이용해서 현재 스레드의 로컬 변수 값을 삭제한다.
 
 ## Runnable
 - 싱글 인터페이스 - 메소드 1개; 람다식이 가능하다.
@@ -3832,6 +3872,9 @@ FileInputStream fileInput = new FileInputStream(file);
 ## Collection: 자바의 주소를 사용; 순서나 집합적인 저장 공간
 - Collection보다 Map의 속도가 더 빠르다
 - 대표적 예: 리스트, 튜플
+* 필드에 Collection이 불가피하게 필요할 때는 어떠한 방법을 사용할까? Java에서는 synchronized 키워드를 사용하여 스레드 간 race condition을 통제한다. 이 키워드를 기반으로 구현된 Collection들도 많이 존재한다. List를 대신하여 Vector를 사용할 수 있고, Map을 대신하여 HashTable을 사용할 수 있다. 하지만 이 Collection들은 제공하는 API가 적고 성능도 좋지 않다.
+* 기본적으로는 Collections라는 util 클래스에서 제공되는 static 메소드를 통해 이를 해결할 수 있다. Collections.synchroziedList(), Collections.synchroziedSet(), Collections.synchroziedMap() 등이 존재한다. JDK 1.7 부터는 concurrent package를 통해 ConcurrentHashMap이라는 구현체를 제공한다. Collections util을 사용하는 것보다 synchronized 키워드가 적용된 범위가 좁아서 보다 좋은 성능을 낼 수 있는 자료구조이다.
+
 
 1. List; 순서가 있는 저장 공간
   - List와 Set 모두 인덱스로 접근하지만 Set만 중복을 허용 X
