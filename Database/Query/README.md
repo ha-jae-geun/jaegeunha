@@ -139,4 +139,113 @@ ORDER BY SIDO, MEA_DATE)
 WHERE SIDO IN ('경상남도', '경상북도', '충청남도', '충청북도', '전라남도', '전라북도')
 ```
 
+```SQL
+SELECT CASE
+               WHEN SUBSTR(SIDO,0,3) = '경기도' THEN '경기'
+               WHEN SUBSTR(SIDO,0,3) = '강원도' THEN '강원'
+               WHEN SUBSTR(SIDO,0,3) = '제주도' THEN '제주'
+               ELSE SUBSTR(SIDO,0,3)
+			 END SIDO,
+       MEA_DATE,
+       AVG_CLOUD
+ FROM(
+SELECT SUBSTR(B.BASE_NAME,0,4)SIDO,
+       REPLACE(A.MEA_DATE, '-', '') MEA_DATE,
+       ROUND(AVG(A.AVG_CLOUD), 6) AVG_CLOUD  
+FROM   WEATHER_2016 A,
+       TB_BASE_CODE B
+WHERE  B.KIND_CODE    = 1
+AND SUBSTR(B.BASE_NAME,0,3) IN ('경기도', '강원도', '제주도')
+AND    A.AREA = B.BASE_CODE
+GROUP BY SUBSTR(B.BASE_NAME,0,4), REPLACE(A.MEA_DATE, '-', '')
+ORDER BY SIDO, MEA_DATE)
+```
+
+## Union
+```SQL
+SELECT *
+FROM  ( SELECT  TRADE_DATE,
+                MARKET_NAME,
+                CASE
+                         WHEN SUBSTR(PLACE_NAME,0,4) = '경상남도'
+                         THEN '경남'
+                         WHEN SUBSTR(PLACE_NAME,0,4) = '경상북도'
+                         THEN '경북'
+                         WHEN SUBSTR(PLACE_NAME,0,4) = '전라남도'
+                         THEN '전남'
+                         WHEN SUBSTR(PLACE_NAME,0,4) = '전라북도'
+                         THEN '전북'
+                         WHEN SUBSTR(PLACE_NAME,0,4) = '충청남도'
+                         THEN '충남'
+                         WHEN SUBSTR(PLACE_NAME,0,4) = '충청북도'
+                         THEN '충북'
+                         ELSE SUBSTR(PLACE_NAME,0,4)
+                END PLACE_NAME,
+                MAX(ITEM),
+                MAX(SUBSTR(UNIT,0,2)),
+                ROUND(AVG(AVG_PRICE/CONTAINER),0),
+                ROUND(AVG(MAX_PRICE/CONTAINER),0),
+                ROUND(AVG(MIN_PRICE/CONTAINER),0)
+       FROM     FARM_PRODUCE_2018
+       WHERE    SUBSTR(PLACE_NAME,0,4) IN ('경상남도',
+                                           '경상북도',
+                                           '전라남도',
+                                           '전라북도',
+                                           '충청남도',
+                                           '충청북도')
+       GROUP BY TRADE_DATE,
+                SUBSTR(PLACE_NAME,0,4),
+                MARKET_NAME
+       
+       UNION ALL
+       
+       SELECT   TRADE_DATE,
+                MARKET_NAME,
+                CASE
+                         WHEN SUBSTR(PLACE_NAME,0,3) = '경기도'
+                         THEN '경기'
+                         WHEN SUBSTR(PLACE_NAME,0,3) = '강원도'
+                         THEN '강원'
+                         WHEN SUBSTR(PLACE_NAME,0,3) = '제주도'
+                         THEN '제주'
+                         ELSE SUBSTR(PLACE_NAME,0,3)
+                END PLACE_NAME,
+                MAX(ITEM),
+                MAX(SUBSTR(UNIT,0,2)),
+                ROUND(AVG(AVG_PRICE/CONTAINER),0),
+                ROUND(AVG(MAX_PRICE/CONTAINER),0),
+                ROUND(AVG(MIN_PRICE/CONTAINER),0)
+       FROM     FARM_PRODUCE_2018
+       WHERE    SUBSTR(PLACE_NAME,0,3) IN ('경기도',
+                                           '강원도',
+                                           '제주도')
+       GROUP BY TRADE_DATE,
+                SUBSTR(PLACE_NAME,0,3),
+                MARKET_NAME
+       
+       UNION ALL
+       
+       SELECT   TRADE_DATE,
+                MARKET_NAME,
+                SUBSTR(PLACE_NAME,0,2) PLACE_NAME,
+                MAX(ITEM),
+                MAX(SUBSTR(UNIT,0,2)),
+                ROUND(AVG(AVG_PRICE/CONTAINER),0),
+                ROUND(AVG(MAX_PRICE/CONTAINER),0),
+                ROUND(AVG(MIN_PRICE/CONTAINER),0)
+       FROM     FARM_PRODUCE_2018
+       WHERE    SUBSTR(PLACE_NAME,0,2) IN ('서울',
+                                           '인천',
+                                           '세종',
+                                           '대전',
+                                           '대구',
+                                           '광주',
+                                           '울산',
+                                           '부산')
+       GROUP BY TRADE_DATE,
+                SUBSTR(PLACE_NAME,0,2),
+                MARKET_NAME
+       )
+```
+
 - GROUP BY에 별명 
