@@ -8819,7 +8819,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## sketch
 * 짧은 영상이나 사진 등의 코미디; #comedy sketch(#sketch)
-
+* 위험한 지역이야; That's a sketchy part of town
 
 ## skin
 * have a thick skin = 얼굴에 철판을 깔다; 우리말에 ‘낯짝이 두껍다’고 하죠. 남의 시선이나 비판에 동요하지 않는 철면피를 a thick skin이라고 합니다. 반대로 쉽게 상처받고 남을 의식하는 것은 have a thin skin 이라고 합니다.
@@ -8986,6 +8986,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 내 여동생은 손목에 그녀가 가장 좋아하는 향수를 뿌리는 것을 좋아한다. ex) My sister likes to spritz each wrist with her favorite perfume.  [sprɪts] 
 
 ## spread
+* spread -self too thin; 한꺼먼에 많은 일을 하려 하다; 너무 많은 일을 벌여놨나봐; i've spread myself too thin
 * 2. spread는 '펼치다, 벌리다, 확산되다, 바르다'처럼 동사로 많이 들을 수 있는 단어인데요, 여기선 명사로서 '크게 한껏 차려놓은 음식, 진수성찬, 연회 음식(feast)'을 의미합니다.  침대 시트, 테이블 보나 빵이나 비스킷에 발라먹는 버터, 잼 같은 걸 총칭하여 spread라고도 하죠?
 
 ## spree
