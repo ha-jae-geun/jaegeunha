@@ -4525,6 +4525,7 @@ retaliate
  * 비교될수 없어; that's apples and oranges
 
 # 비난
+* = 그는 동성애자들에 대한 자신의 발언 때문에 빈축을 샀다. He came under fire for his comment on homosexuals; be criticized 비난받다
 * blame: 누구를 탓하다; 비난하다는 criticize
 * 우리가 알고 있는 단순한 명사들이 동사의 역할을 하기도 해요. 1) water = 물을 주다, 2) plant = 심다 등의 단어들이 있는데요. stone 도 마찬가지라 [돌] 뿐만이 아니라 동사로 [돌을 던지다]라는 의미로 쓰입니다. 비유적으로 [비난하다]라는 의미를 갖기도 해요.
   * = 걔들이 모든 걸 알게 되면 제이슨은 돌에 맞아 죽을지도 몰라. Jason might be stoned to death if they figured out the whole thing.
