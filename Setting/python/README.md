@@ -43,3 +43,8 @@
 1. create project
 2. 경로 설정
 3. existing -- -> System
+
+# Interpreter
+* System Interpreter: anaconda -> python.exe
+* COnda Environment: 1. Existing envirionment -> python.exe 2. python version 3.6
+* Virtual: 1. Existing envirionment -> python.exe
