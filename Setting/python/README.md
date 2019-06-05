@@ -46,5 +46,5 @@
 
 # Interpreter
 * System Interpreter: anaconda -> python.exe
-* COnda Environment: 1. Existing envirionment -> python.exe 2. python version 3.6
+* COnda Environment: 1. New Envrionment 2. python version 3.6
 * Virtual: 1. Existing envirionment -> python.exe
