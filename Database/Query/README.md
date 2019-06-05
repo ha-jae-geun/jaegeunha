@@ -318,4 +318,44 @@ AND A.PARTICLE_MATTER_10 IS NOT NULL
 AND A.PARTICLE_MATTER_2 IS NOT NULL
 
 ```
+
+```SQL
+SELECT 
+       CASE
+              WHEN ROUND(A.PARTICLE_MATTER_10, 3)   >= 0
+              AND    ROUND(A.PARTICLE_MATTER_10, 3) <= 30
+              THEN 1
+              WHEN ROUND(A.PARTICLE_MATTER_10, 3)   >= 31
+              AND    ROUND(A.PARTICLE_MATTER_10, 3) <= 80
+              THEN 2
+              WHEN ROUND(A.PARTICLE_MATTER_10, 3)   >= 81
+              AND    ROUND(A.PARTICLE_MATTER_10, 3) <= 150
+              THEN 3
+              ELSE 4
+       END PM10,
+       CASE
+              WHEN ROUND(A.PARTICLE_MATTER_2, 3)   >= 0
+              AND    ROUND(A.PARTICLE_MATTER_2, 3) <= 15
+              THEN 1
+              WHEN ROUND(A.PARTICLE_MATTER_2, 3)   >= 16
+              AND    ROUND(A.PARTICLE_MATTER_2, 3) <= 35
+              THEN 2
+              WHEN ROUND(A.PARTICLE_MATTER_2, 3)   >= 36
+              AND    ROUND(A.PARTICLE_MATTER_2, 3) <= 75
+              THEN 3
+              ELSE 4
+       END PM2,
+       ROUND(B.TOT_SOLAR, 1) SOLAR
+FROM   FINE_DUST_2017 A,
+       WEATHER_DATA_2017 B
+WHERE  A.SIDO                         = B.AREA
+AND    A.MEASURE_DATE                 = B.MEA_DATE
+AND    A.SIDO = '서울'
+AND    B.AVG_CLOUD BETWEEN 0 AND 5
+--AND    A.SIDO                        != '울산'
+AND    B.TOT_SOLAR          IS NOT NULL
+AND    A.PARTICLE_MATTER_10 IS NOT NULL
+AND    A.PARTICLE_MATTER_2  IS NOT NULL
+
+```
 - GROUP BY에 별명 
