@@ -1,3 +1,115 @@
+# 쓸만한 영어 - 사람 성격을 물을 때 영어표현 - 그사람 성격이 어때?
+ * 그 사람이 무슨(어떤)것 같아?
+ *    성격을 물을 때 가장 간단하면서 정확한 표현
+ *     What is sb. like?
+ *     (누구의) 성격이 어때요?
+ * 
+ * - 리아는 성격이 어때요?
+ *   What is Leah like?
+ * 
+ * - What is (해당 인물 이름) like?
+ * 
+ * 
+ * ▷ 매우 활발하고 에너지가 넘쳐요.
+ * 
+ * 우리에게 가장 먼저 떠오르는 말은?
+ *   Sb. is outgoing
+ * 
+ * - sb. is energetic
+ *   에너지가 넘쳐요.씩씩해요.
+ *   에너지가 넘쳐서 분주하게 여기저기 왔다갔다하거나 일을 하는 모습도 있어요.
+ * 
+ * - sb. is spirited.
+ *   정말 활발하고 생기(에너지가)넘쳐요,
+ * 
+ * - She is outgoing and spirited.
+ *   직역 : 그녀는 활발하고 기백이 넘쳐요??
+ *   의미 : 그 사람은 활발/쾌활하고 기운차.
+ * 
+ * ==========
+ * 
+ * - social butterfly
+ *   사교성이 좋고 다른 사람과 잘 어울리는 사람
+ * 
+ * - I'm a social butterfly.
+ *   난 사람들하고 잘 어울려서 놀아요.
+ * 
+ * ==========
+ * 
+ * ▷ (누구는) 친구 사귀는 것을 좋아해.
+ * 
+ * - Sb. like(s) to make friends.
+ * 
+ * 두루 여러 사람을 사귀는 그림이 있기 때문에 복수가 잘 맞음
+ *  She likes to make friends.
+ *  걘 친구 사귀는 것을 좋아해.
+ * 
+ * - She likes to make friends and she is a social butterfly.
+ *   얘는 친구 사귀는 것도 좋아하지만 이 사람 저 사람(아무나) 잘 어울려요.
+ * 
+ * - 스몰톡의 특징은 주거니 받거니하는 대화의 흐름이 자연스럽게 이어져야해요.
+ * 
+ * 
+ * ▷ 같은 주제로 이어지는 대화에서 동일한 질문을 상대에게 할 때
+ * 
+ * - What about sb.?
+ *   예) What about Ari?
+ *         아리는 어때요?
+ * 
+ * 
+ * ▷ 아이들에겐 사람들과 어울리면서 배우는게 중요하죠.
+ * 
+ * - It is important for kids to learn social skills.
+ * 
+ * 
+ * ▷ 아이가 너무 기운이 넘쳐서 그게 힘들 때가 있어요.
+ * 
+ * - energetic 과 spirited 는 둘 다 lively(생기있게 살아있는) 느낌이 있어요.
+ * 
+ * - But sometimes she is so energetic that it makes me tired.
+ *   딸 아이가 너무 기운이 넘쳐서 그게 힘들 때가 있어요.
+ *   * so (형용사/부사) that ~ 너무 ~해서(그 결과)~하다.
+ * 
+ * 
+ * ▷ (누구는) 내성적이에요. / 소심해요.
+ * 
+ * - 예) 버스 갈아타는 곳을 물어봐야하는데 용기가 나지 않아 쭈뼛쭈뼛하는 성격을 그려보세요.
+ * 
+ * - quiet
+ *   조용하고 말이 별로 없는 성격
+ * 
+ * - (누구는) 내성적이에요. < 감정을 안에 품고 잘 드러내지 않는 모습
+ * 
+ * - 안에 담아(저장해)두고 풀지 않는 그림은?
+ *   reserved
+ *   (누구는) 내성적이에요. < 감정을 안에 품고 잘 드러내지 않는 모습
+ *   (나중에 쓰기 위해) 안에 품고 (자리를 맡아놓고) 밖으로 풀어 내보내지 않는 그림
+ *   reservation 예약
+ *   reservoir 저수지
+ *     두 단어에서 reserve의 공통 그림이 보이지요?
+ * 
+ * - She is quiet and reserved.
+ *   그 사람(여자)는 말수가 적고 표현을 잘 안해(내성적이야).
+ * 
+ * 
+ * ▷ (누구는) 너무 예민해.
+ * 
+ * - Sb. is so sensitive.
+ * 
+ * - She is so sensitive. 
+ *  그 사람(여자)은 너무 예민해.
+ * 
+ * 
+ * ▷ 작은 것에 민감해서 감정적인 성격
+ * 
+ * - Sb. is emotional.
+ *   (누구는) 감정적이야.
+ * 
+ * - She is so sensitive and emotional.
+ *   그 사람(여자)는 정말 예민하고 감정적이야.
+
+
+
 # 쓸만한 영어 - 직장 동료/친구를 격려할때 영어표현 - 이거 먹고 힘내!!
  *  I could really use a(n iced) coffee right now.
  *   직역 : 지금 당장 (아이스)커피를 정말 쓸 수 있을 것 같아요.

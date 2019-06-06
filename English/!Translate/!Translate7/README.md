@@ -1,3 +1,43 @@
+# a lot of
+* there is a lot of / there are a lot of
+ * “a lot of”를 “a group of”와 같은 표현법으로 보는 것이 문제입니다. 
+ * “a group of people”는 의미로 보면 복수이지만 “a goup of” 표현 때문에 문장에서는 이를 단수로 취급해서
+ * “There was a group of people.” 이라고 하는 것이 맞지만  “a lot of”는 “many”와 같은 의미를 가진 표현으로서 “a group of”와는 다릅니다. 그래서 “a lot of people”는 “many people”와 똑같이 취급을 해야 하며 “There were a lot of people.”라고 해야 합니다.
+ * 단, 셀 수 없는 명사를 수식할 때는 단수로 취급하는 것은 물론입니다. “There was a lot of disagreement.”
+* a lot of: 한 종류가 많은; lots of; 여러 종류가 많으면서 많은
+
+# [ 기초영어회화 ] - "정말 몰랐어." / "모르고 한 실수야." / "고의가 아니었어."
+ * 정말 모르고 한 실수였어;
+ * It was an honest mistake..
+ * 부정문이 나오기 전에 really 나옴: 정말 몰랐어; 뒤에: 잘 몰랐어;I really didn't know he didn't do that..
+ * I didn't mean to be snippy...
+
+# [ 영어 어휘 ] 일상적으로 사용되는 "thorough", "thoroughly"
+ * 추가설명:
+ * careful(ly)를 thorough(ly(와) 비슷하게 쓰는 경우도 있는데 근본적으로 다른 의미라서 어떤 어감의 차이가 있는지는 알아야 합니다.
+ * thorough(ly)는 무엇을 놓치지 않기 위해, 빠트리는 것이 없도록 완벽하게 하기 위헤 무엇을 한다는 어감이라면 careful(ly)는 어떤 일이 피하기 위해, 안좋은 것을 피하기 위해 조심스러운 태도를 말합니다.
+ * 
+ * "thorough"의 발음은 "throw"와 비슷한데 앞 부분(thr)부분을 더 길게 끌어서 발음을 하는 식이라고 생각할 수 있습니다 (thurow : 약간 이런 식으로)
+
+# 영어 연습가이드 [ HARDCORE ] - Lifestyle Choices
+* 하나의 사회로서, 사람들은 서로에 대해서 갖는 기대치가 있죠. 
+* As a society, we all have certain expectations of one another. . T    
+* 특정 상황에서 특정 행동을 기대하고 때가 되면 특정 분야에 대한 일정 수준의 지식, 경험 그리고 능력을 기대하게 되고요. 
+* We expect people to behave in certain ways in certain situations and, at one point or another, we're all expected to have a certain level of knowledge, experience and skill in certain things
+* act: 겉으로 하는 행동; behave: 어떤 행동을 보이다.
+* 이건 대체적으로 좋은 종류의 압박이에요 왜냐면 사람들로 하여금 스스로 채찍질을 하게 만들고 책임감을 가지게 해주니까요. 
+* his is good kind of pressure, for the most part, because it demands discipline and a sense of responsibility in people.
+* demand: 꼭 사람이 하는 요구가 아닌 상황이 요구하는 상황도 의미
+* 근데 또 다른 종류의 사회적 압박이 있어요. 
+* But there is another kind of social pressure.
+* 저는 그것을 ‘잘못된 종류’ 라고 부르는데 - 
+* I call it "the wrong kind"
+* 특정 종류의 교육을 추구해야 한다거나 특정 직업을 가져야 한다거나 일정 나이가 되기 전에 결혼을 해야 되고, 아이, 무슨 말인지 알거예요 -  - the pressure to pursue a certain kind of education, to have a certain type of job, to be married by a certain age, children, you know what I am talking about.
+*  우리 모두 다 겪어본 일이에요. 이것은 생활방식에 대한 선택이에요. We've all been there.
+* 건전한 사회를 위해서는 인간 능력의 다양성이 필요하듯이 우리가 한 선택들이 더 이상적인 것처럼 느껴지도록 이것을 사회적 소외와 따돌림으로 이어지도록 해서는 안되요.  These are lifestyle choices and just as a healthy society depends on the diversity of human abilities, we can't let this lead ro social rejection and alienation just to make our (own) choices seem more ideal.
+* 사람들의 다른 생활방식을 받아들일 수 있어야 해요." We have to be open to different lifestyle of choices.
+
+
 # [ 직장영어 ] "일정을 앞당기다" - "일정이 앞당겨지다"
 * 우리가 회의를 화요일로 앞당겼어요; We moved up the meeting to Tuesday
 * 회의가 화요일로 앞당겨졌어요; The meeting has been moved up to Tuesday
@@ -19,6 +59,11 @@
  	* No that's too late. See if i can you can move it up
 
 # 원어민
+* smoke와 smoke cigarret를 뒤에 붙여줄 필요가 없음; 그 자체로 흡연; eat과 cook도 뒤에 food를 붙일 필요가 없다.
+* 커피를 좋아하다: drink coffee 보다는 그냥 i like coffee; 이렇게 표현이 낫다; 이렇게 말하면 당연히 drink 의미가 들어온다.
+* 살인사건이 많이 일어나요; there are a lot of murders(murder incidents
+* 건강을 위해 많이 걸으려고 한다; i try to walk a lot to stay in shape
+* 난 자주 게으름을 피게 돼; i easily get lazy; 난 자주 졸음이 와; i feel sleepy a lot
 * 건재하다고; i still stand
 * 과제, 숙제, 프로젝트 끝ㄴ내다; finish; 전쟁, 계약, 결혼생활: end
 * 개 버릇 나쁜거 딱봐도 알겠다; i can tell by just looking at him that he's spoiled
