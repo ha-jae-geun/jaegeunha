@@ -1,3 +1,110 @@
+# 쓸만한 영어 - 기내에서 진상 승객을 만났을때 - 컴플레인 영어표현
+- My neighbor's headphones are too loud.
+  - 옆 승객의 헤드폰 소리가 너무 커요.
+- My neighbor's earphones are too loud.
+  - 옆 승객의 이어폰 소리가 너무 커요.
+- The volume is so high! 그 볼륨이 너무 높아요.
+
+- The volume is so high that it's disturbing me.
+  - 그 볼륨이 너무 높아서 (나한테) 방해돼요.
+  < 소리가 너무 커서(시끄러워서) 거슬려요.
+  * so (+원인) that (+결과) 너무 ~해서 ~해요.
+
+- My neighbor's headphones are too loud (또는) 
+  - The volume is so high that it's disturbing me.
+  - 소리가 너무 시끄러워서 싫어요.
+ - quiet 조용한, 말이 없는 < quieter (비교급) 더 조용한
+  * more quiet 라고 하지 않도록 조심하세요~
+  - 조금 더 조용히 해주시겠어요?
+  - be quieter! 좀 (더) 조용히해!
+
+- Can you keep it down?
+  - 조금 더 조용히 해주시겠어요?
+  * Keep it down = Be quieter
+    - (아무 소리 안나게)조용히해! = shut up'이 아니에요.
+
+- a reading light 독서등
+
+- an air vent 환기용 에어벤트
+
+- 에어벤트 바람이나 독서등이 원하지 않는 나한테 향해 있어서 피하고 싶다면
+  뭐라고 말할 수 있을까요?
+
+- 영어식 사고
+  - point you air vent away from me
+  -  콕(짚어)향해 오는 옆 승객의 바람(에어벤트)가 나한테서 멀어지길 원하는 그림
+
+- Would you mind pointing you air vent away from me?
+  -  : 나를 향해있는 당신의 에어벤트를 나로부터 치워줄래요?
+  - 의미 : 바람이 저한테 오는데 좀 안오게 해주실래요?
+
+- Would you mind pointing your reading light away from me?
+  - (눈이 너무 부셔서 그런데) 저한테 빛이 안오게 해주실래요?
+
+
+▷ 사람에게 참기 힘든 냄새가 날 때
+
+- 짙은 향수 냄새를 포함해서 냄새가 나는 신체 부위를 굳이 말하지 않으면 무난하지만 통할 수 있는 말이 있어요.
+
+- He(/She) smells.
+  그 사람한테서 냄새가 나요.
+
+- 이런 이야기는 승무원에게 조용히 알리는게 좋겠지요?^^
+
+- My neighbor smells.
+  - 제 옆 승객한테 냄새가 나요.
+
+- My neighbor smells bad.
+  - 제 옆에 앉은 분 냄새가 너무 심해요.
+
+
+- ▷ 신체 부위별 좋지 않은 냄새가 날 때 표현
+
+- 입냄새가 날 때
+  - Somebody has bad breath. (누구는) 입냄새가 나.
+ 
+   - He has bad breath. 그 사람은 구취가 나.
+
+- Somebody's hair smells bad.
+  - (누구) 머리에서 냄새 나.
+  - (누구) 머리카락에서 냄새 나.
+  
+- Somebody's feet stink.
+  - (누구의)발에서 냄새가 나.
+
+- His feet stink. 
+  - 그 남자 발냄새 나.
+
+  Her feet stink. 
+  그 여자 발냄새 나.
+
+
+▷ 내가 직접하기 힘든 말을 
+     다른 사람을 통해 부탁할 때
+     ~한테 ~ 해달라고 말해줄 수 있나요?
+
+- Would you mind asking him to put his shoes on?
+  - 그 (남자)분한테 신발 좀 신어달라고 부탁해 줄 수 있을까요?
+
+
+- ▷ 좌석을 바꿔달라고 부탁할 때
+
+- switch : 바꾸다 (동사)
+
+- Can you switch my seat?
+  - 제 자리 좀 바꿔줄 수 있나요?
+  * 만약 누군가와 자리를 바꾼다면 
+   - 두 좌석(복수)이기 때문에 switch seats with sb.로 사용
+
+
+- ▷ 뒤에 앉은 승객이 자꾸 내 좌석 뒤를 발로 찰 때
+
+- 극장에서 영화볼 때 뒤에 앉은 사람이 내 좌석 뒤를 발로 찰 때에도 할 수 있는 말이에요.
+
+- Wou;d you stop kicking?
+  - (내 자리) 뒤 좀 그만 차세요.
+
+
 # 쓸만한 영어 - 사람 성격을 물을 때 영어표현 - 그사람 성격이 어때?
  * 그 사람이 무슨(어떤)것 같아?
  *    성격을 물을 때 가장 간단하면서 정확한 표현
