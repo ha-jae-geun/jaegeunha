@@ -10139,6 +10139,10 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * 그 사고에서 별로 다치지 않아 정말 다행이야. [ex] I was very fortunate to walk away from that accident. 3. 사고를 당했지만 별 크게 다친 데가 없다
 
 ## wrong
+* 잠을 잘못 잔 것 같아; i think i slept wrong last night; 콩글리쉬 같지만 자주 쓰이는 표현
+*  목을 다쳤어; 진짜 아파; i hurt my neck. It really hurts.
+* 주소를 잘못썼어요; i wrote the address wrong.
+* 잘못 썼어요; i wrote it wrong
 * 무슨 일이야? What's wrong?  너 왜그래? What's wrong with you?
 
 ## write
