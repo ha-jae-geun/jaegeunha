@@ -15,12 +15,14 @@
 * 너 그거 먹어봤어? ? Have you ever tried the guacamole at King Taco?; 
   * did you go to 라고 안함
 * 코트 벗지마; Keep your coat on; don't take off your coat를 긍정적인 사고로 변경
-* # clout 1. 아이 기저귀 2. 영향력, 파워
+* clout 1. 아이 기저귀 2. 영향력, 파워
 * 난 싱글이야; i'm single; 나 혼자 할거야; i'm going solo
 * -하지 마세요; YOu don't want to -
 * 내일 저녁 아직 유효한거지? ARe you still on for dinner?
 * 두피에 집중적으로 샴푸를 해주세요; Focus the shampoo on your scalp
 * 당신의 계좌에서 돈이 인출되었습니다; The money was debited from your account
+* 결과만 전달; eventually, end up; finally: 드디어
+* 나는 무슨 일이 발생했다는 걸 알아채기 시작했다; I started to register that something had happened
 
 # 직업에 대해서 묻고 답하기 - PART 1 [ 영어회화 ]
 * A:What kind of work do you do? 
