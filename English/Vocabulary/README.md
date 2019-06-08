@@ -15,7 +15,7 @@
 
 ## the
 * philipines, The United States; 여러개의 섬으로 구성되어있기 땜에 s
-* "This is the channel that I have been watching for the last four months ago."
+* "This is the channel that I have been watcfing for the last four months ago."
    * 설명 :
    * 작성하신 것처럼 'the'라고 하면 두 가지를 내포하고 있습니다.
    * 1. 지난 4달 동안 봐온 채널이 유일하게 이것 뿐이라는 것
@@ -7426,6 +7426,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 ### ranger
 * 우리나라에는 잘 없지만, 미국이나 캐나다처럼 국립공원이 굉장히 큰 곳에는 그곳에 매일 출근하여 관리하는 사람들이 있어요. 돌아다니면서 화재가 있는지 보고, 방문객들에게 그 지역의 동식물에 대해 설명하는 일에서 부터 법을 어겨 공원에 해를 입히는 사람들을 체포하는 일까지 다양한 일을 합니다.
   * 10명의 경비원이 이 전체 구역을 관리하는 책임을 가집니다. ex) 10 rangers are responsible for covering this whole area.
+
+## register
+* 나는 무슨 일이 발생했다는 걸 알아채기 시작했다; I started to register that something had happened
 
 ## refund
 * issue a refund; 환불해주다;
