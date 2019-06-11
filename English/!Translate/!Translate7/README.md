@@ -94,6 +94,9 @@
  	* No that's too late. See if i can you can move it up
 
 # 원어민
+* 딱 한번 세탁한 후에 색이 바랬어요; It faded after only one wash
+* 세탁한 후에 변색되었어요; It was discolored after washing
+* 방이 암흑이었어요; And the room was pitch black
 * 문에 몸을 기대지 마시오; Pelase stand clear of the doors
 * 신발 벗었어; i kice doff my shoes(차면서 벗음); 바지 차면서 벗었어; i kicked off my pants
 * smoke와 smoke cigarret를 뒤에 붙여줄 필요가 없음; 그 자체로 흡연; eat과 cook도 뒤에 food를 붙일 필요가 없다.
