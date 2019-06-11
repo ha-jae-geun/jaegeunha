@@ -48,3 +48,7 @@
 * System Interpreter: anaconda -> python.exe
 * COnda Environment: 1. New Envrionment 2. python version 3.6
 * Virtual: 1. Existing envirionment -> python.exe
+
+
+# tinydb 설치
+* pip install tinydb
