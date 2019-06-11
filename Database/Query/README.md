@@ -698,3 +698,60 @@ GROUP BY SUBSTR(B.BASE_NAME,0,2),
 ORDER BY SIDO,
          MEA_DATE
 ```
+
+# 미세먼지 최종
+```SQL
+INSERT INTO FINE_DUST_2010
+
+SELECT   SIDO,
+         SUBSTR(MEASURE_DATE, 0, 8) MEASURE_DATE,
+         ROUND(AVG(SLFR_DXD), 6) SLFR_DXD,
+         ROUND(AVG(CRBN_MNXD), 6) CRBN_MNXD,
+         ROUND(AVG(NVL(OZON,0)), 6) OZON,
+         ROUND(AVG(NTRGN_DXD), 6) NTRGN_DXD,
+         ROUND(AVG(PARTICLE_MATTER_10), 6) PARTICLE_MATTER_10,
+         ROUND(AVG(PARTICLE_MATTER_2), 6) PARTICLE_MATTER_2,
+         MAX(NETWORK) NETWORK
+FROM     MICRO_DUST_2010
+WHERE    AREA_CODE NOT IN(111122,
+                          111124,
+                          111125,
+                          111143,
+                          111154,
+                          111162,
+                          111202,
+                          111213,
+                          111232,
+                          111242,
+                          111263,
+                          111264,
+                          111275,
+                          111282,
+                          111312,
+                          131116,
+                          131120,
+                          131125,
+                          131198,
+                          131383,
+                          131414,
+                          221131,
+                          221162,
+                          221901,
+                          221902,
+                          238126,
+                          238145,
+                          324123,
+                          324134,
+                          422133,
+                          422202,
+                          525151,
+                          525173,
+                          533116,
+                          534114,
+                          823633,
+                          823634,
+                          823703,
+                          831155 )
+GROUP BY SIDO,
+         SUBSTR(MEASURE_DATE, 0, 8)
+```
