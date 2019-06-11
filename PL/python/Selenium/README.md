@@ -27,3 +27,79 @@ for i in range (1,21):
 print(table.all( ))
 
 ```
+
+```SQL
+# 강남 맛집 검색 및 리뷰 숫자 가져오기
+
+from selenium import webdriver
+from bs4 import  BeautifulSoup
+import  time
+from tinydb import TinyDB
+
+# chromedriver 드라이버 추출하기
+browser = webdriver.Chrome("D:\chromedriver.exe")
+
+# 3초 대기하기
+browser.implicitly_wait(3)
+
+# 네이버 URL
+b_url = "https://www.naver.com"
+browser.get(b_url)
+
+# 검색 단어 입력
+search = browser.find_element_by_name("query")
+search.clear()
+search.send_keys("강남 맛집")
+button = browser.find_element_by_id("search_btn")
+button.submit()
+
+time.sleep(1)
+
+# 가게정보
+title = []
+# 페이지 수
+page = 1
+
+# 데이터 추출하기
+while(True):
+    html = browser.page_source
+
+    # html 분석하기
+    soup = BeautifulSoup(html, 'html.parser')
+
+    # 6개 큰 부분 출력하기
+    data = soup.find_all("div", {"class": "list_item_inner"})
+
+    for i in data:
+        # 데이터 추출하기
+        datadict = {}
+        name = i.select_one("div.tit > span > a > span ").string
+        review_list = i.select("div.etc_area.ellp > span.item")
+        review = review_list[0].text
+        datadict[name] = review
+        title.append(datadict)
+
+    # 페이지 넘기는 버튼 클릭
+    browser.find_element_by_xpath("//*[@id='place_main_ct']/div/div/div[2]/div[4]/div/a[2]").click()
+    #3초 대기
+    time.sleep(3)
+
+
+    if page == 20:
+        break
+    else :
+        # 페이지 증가
+        page = page + 1
+
+
+# DB에 데이터 저장
+db = TinyDB("gangname.json")
+table = db.table('gangnam')
+
+for i in title:
+   for name, view in i.items():
+       table.insert({'title': name, 'review': view})
+
+
+print(table.all())
+```
