@@ -1735,6 +1735,7 @@ We need food and water.
 
 ## color
 * woman/man/person of color 이라는 표현은 꼭 알아두는 것이 좋아요! 유색인종을 의미하는 비차별적 용어랍니다!
+* 세탁한 후에 변색되었어요; It was discolored after washing
 
 ## collateral
 * collateral damage = 부수적/이차적 피해 [kəˈlætərəl]; 특히나 군사 용어로 많이 쓰이는 이 단어는, 목표물 이외의 대상에 가해지는 피해로, 죽음, 부상 등의 피해를 주로 의미합니다.
@@ -3194,6 +3195,8 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## fade
 * 격식 있는 모자들은 약간 유행에서 벗어나기 시작했따; have faded out of fashion
+* 딱 한번 세탁한 후에 색이 바랬어요; It faded after only one wash
+* 세탁한 후에 변색되었어요; It was discolored after washing
 
 ## fabric
 * 원래 fabric 은 '직물, 천'을 의미하는 단어로 보통 의류 관련해서 많이 쓰입니다. 직물이란 게 실이 촘촘하게 짜여 만들어진 좀 더 큰 천이라는 점에서, 여러 가지가 모여 만든 [사회, 문화, 조직 등의 구조]를 의미하기도 하는 격식 단어입니다.
@@ -6534,6 +6537,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * - is raking leaves into a pile
 
 ## pitch
+* 방이 암흑이었어요; And the room was pitch black
 * 지붕이나 배 등의 방수재로 사용되는 검은색의 끈적한 물질을 pitch라고 합니다. 그래서 pitch dark는 그 재료처럼 새까맣다, 어둡다는 것을 의미합니다. dark as pitch, 혹은 as dark as pitch라고도 표현할 수도 있고 dark대신 pitch black(칠흑같이 새까만)라고 할 수도 있습니다.
   * 밖은 칠흑같이 어두워서 우리는 아무것도 볼 수 없었다. We couldn’t see anything because it was pitch dark outside.
 * 그의 장래에 대한 추측이 극에 달해 있었다[그의 장래를 두고 온갖 추측이 난무하고 있었다]. Speculation about his future had reached fever pitch. 
