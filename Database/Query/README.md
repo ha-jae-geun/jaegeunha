@@ -452,3 +452,124 @@ WHERE  SIDO IN ('경기도',
                 '제주도')
 ```
 - GROUP BY에 별명 
+
+```SQL
+SELECT
+       CASE
+              WHEN SIDO = '경상남도'
+              THEN '경남'
+              WHEN SIDO = '경상북도'
+              THEN '경북'
+              WHEN SIDO = '충청남도'
+              THEN '충남'
+              WHEN SIDO = '충청북도'
+              THEN '충북'
+              WHEN SIDO = '전라남도'
+              THEN '전남'
+              WHEN SIDO = '전라북도'
+              THEN '전북'
+              ELSE ''
+       END SIDO,
+       MEA_DATE,
+       AVG_TMPRT,
+       DAY_PRE,
+       WND_SPD,
+       WND_DRCTN,
+       TOT_DYL_TM,
+       TOT_SOLAR,
+       AVG_CLOUD
+FROM   ( SELECT  SUBSTR(B.BASE_NAME,0,4)SIDO,
+                REPLACE(A.MEA_DATE, '-', '') MEA_DATE,
+                ROUND(AVG(A.AVG_TMPRT), 6) AVG_TMPRT,
+                ROUND(AVG(A.DAY_PRE), 6)DAY_PRE,
+                ROUND(AVG(A.AVG_WND_SPD), 6)WND_SPD,
+                ROUND(AVG(A.WND_DRCTN), 6)WND_DRCTN,
+                ROUND(AVG(A.TOT_DYL_TM), 6)TOT_DYL_TM,
+                ROUND(AVG(A.TOT_SOLAR), 6)TOT_SOLAR,
+                ROUND(AVG(A.AVG_CLOUD), 6)AVG_CLOUD
+       FROM     WEATHER_2018 A,
+                TB_BASE_CODE B
+       WHERE    B.KIND_CODE = 1
+       AND      A.AREA      = B.BASE_CODE
+       GROUP BY SUBSTR(B.BASE_NAME,0,4),
+                REPLACE(A.MEA_DATE, '-', '')
+       ORDER BY SIDO,
+                MEA_DATE
+       )
+WHERE  SIDO IN ('경상남도',
+                '경상북도',
+                '충청남도',
+                '충청북도',
+                '전라남도',
+                '전라북도')
+
+UNION ALL
+
+SELECT
+       CASE
+              WHEN SUBSTR(SIDO,0,3) = '경기도'
+              THEN '경기'
+              WHEN SUBSTR(SIDO,0,3) = '강원도'
+              THEN '강원'
+              WHEN SUBSTR(SIDO,0,3) = '제주도'
+              THEN '제주'
+              ELSE SUBSTR(SIDO,0,3)
+       END SIDO,
+       MEA_DATE,
+       AVG_TMPRT,
+       DAY_PRE,
+       WND_SPD,
+       WND_DRCTN,
+       TOT_DYL_TM,
+       TOT_SOLAR,
+       AVG_CLOUD
+FROM   ( SELECT  SUBSTR(B.BASE_NAME,0,3)SIDO,
+                REPLACE(A.MEA_DATE, '-', '') MEA_DATE,
+                ROUND(AVG(A.AVG_TMPRT), 6) AVG_TMPRT,
+                ROUND(AVG(A.DAY_PRE), 6)DAY_PRE,
+                ROUND(AVG(A.AVG_WND_SPD), 6)WND_SPD,
+                ROUND(AVG(A.WND_DRCTN), 6)WND_DRCTN,
+                ROUND(AVG(A.TOT_DYL_TM), 6)TOT_DYL_TM,
+                ROUND(AVG(A.TOT_SOLAR), 6)TOT_SOLAR,
+                ROUND(AVG(A.AVG_CLOUD), 6)AVG_CLOUD
+       FROM     WEATHER_2018 A,
+                TB_BASE_CODE B
+       WHERE    B.KIND_CODE = 1
+       AND      A.AREA      = B.BASE_CODE
+       GROUP BY SUBSTR(B.BASE_NAME,0,3),
+                REPLACE(A.MEA_DATE, '-', '')
+       ORDER BY SIDO,
+                MEA_DATE
+       )
+WHERE  SIDO IN ('경기도',
+                '강원도',
+                '제주도')
+
+UNION ALL
+
+SELECT   SUBSTR(B.BASE_NAME,0,2)SIDO,
+         REPLACE(A.MEA_DATE, '-', '') MEA_DATE,
+         ROUND(AVG(A.AVG_TMPRT), 6) AVG_TMPRT,
+         ROUND(AVG(A.DAY_PRE), 6)DAY_PRE,
+         ROUND(AVG(A.AVG_WND_SPD), 6)WND_SPD,
+         ROUND(AVG(A.WND_DRCTN), 6)WND_DRCTN,
+         ROUND(AVG(A.TOT_DYL_TM), 6)TOT_DYL_TM,
+         ROUND(AVG(A.TOT_SOLAR), 6)TOT_SOLAR,
+         ROUND(AVG(A.AVG_CLOUD), 6)AVG_CLOUD
+FROM     WEATHER_2018 A,
+         TB_BASE_CODE B
+WHERE    B.KIND_CODE = 1
+AND      A.AREA      = B.BASE_CODE
+AND      SUBSTR(B.BASE_NAME,0,2) IN ('서울',
+                                     '인천',
+                                     '세종',
+                                     '대전',
+                                     '대구',
+                                     '광주',
+                                     '울산',
+                                     '부산')
+GROUP BY SUBSTR(B.BASE_NAME,0,2),
+         REPLACE(A.MEA_DATE, '-', '')
+ORDER BY SIDO,
+         MEA_DATE
+```
