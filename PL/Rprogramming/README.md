@@ -1,7 +1,18 @@
-R 설치
+# <-
+* 할당연산자
 
-1. https://www.r-project.org/
-2. CRAN
-3. 0-Cloud -> https://cloud.r-project.org/
-4. WINDOWS 클릭
-5. Download R 3.6.0 for Windows (80 megabytes, 32/64 bit) 설치
+# 기호 차이
+* 데이터 할당: <-
+* 옵션 할당: =
+
+# 스칼라
+* 한개의 요소
+
+# 백터
+* 한개의 타입으로 저장
+
+# 매트릭스
+* 백터를 2차원으로 변형
+
+# 어레이
+* 2차원이상
