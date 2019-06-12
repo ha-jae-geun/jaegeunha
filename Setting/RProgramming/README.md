@@ -13,3 +13,6 @@
 
 ## 옵션
 - CODE - SAVING - TEXT ENCODING - UTF-8
+
+## 단축키
+* 1줄 실행: Ctrl + Enter,  전체 실행: Ctrl + Shift + Enter
