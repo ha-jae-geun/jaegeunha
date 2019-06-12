@@ -3460,6 +3460,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 고칠점이 있다; Your boyfriend's a fixer-upper
 * 동사 fix 는 음식, 마실 것을 목적어로 받아 '~를 준비하다, 마련하다, 내오다'라는 뜻으로 쓰기도 해요!
   * 마실 것 (주로 술 한 잔) 갖다줄게. [ex] Let me fix you a drink.
+* 저녁 당번 누구야; Whose turn is it to fix dinner
 
 ## fit
 * 주변의 모습이나 주변 사람들과 잘 어울리는 모습을 나타내는 단어로 주로 전치사 with 를 뒤에 붙여서 어디에 잘 어울리는지 나타낼 수 있어요. 영상에서 right 는 '제대로' 의 의미로 강조해주기 위해 쓰였습니다.
@@ -6290,6 +6291,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 
 ## parallel
 * 나란히 달리고 있따; a cyclist is riding parallel to a truck
+* 매우 유사성이 있다; draw significant paralles
 
 ## pare
 * pared-down = 축소된, 군더더기 없는; 동사 pare 은 ‘(과일, 야채 등) 겉껍질을 벗기다’, 혹은 ‘(크기, 양) 줄이다, 삭감하다’ 입니다. 뒤에 전치사는 의미에 따라 off, down, back 등을 붙입니다.  형용사 pared-down 은 꼭 필요한 것만 놔두고 나머지는 줄였다는 의미를 갖고 있는데요, ‘절감된, 긴축한, 군더더기 없는, 간결한’ 정도로 해석합니다.
@@ -9004,6 +9006,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * shopping/spending spree = 흥청망청 쇼핑 하기/돈 쓰기
 
 ## string
+* 영향력을 행사하다; know what strings to pull
 * 쭉쭉 늘어나는 치즈; stringy cheese
 * 남은 시즌을 떼우다; #play out the string
 * (사랑한다든지 도와주겠다든지 하는 말을) 거짓으로 ~로 하여금 믿게 하다: string along
