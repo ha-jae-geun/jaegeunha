@@ -4997,6 +4997,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
                                 
 
 ## jump
+* 우리가 쟤네보다 한 발 앞섰어; We've got the jump on them
 * 내가 널 놀라게 했니? did it make you jump there?
 * : '기회를 빠르게 낚아채다' 라는 뜻의 관용적 표현! 불현듯 나타난 기회에 바로 뛰어드는 걸 상상하면 기억하기 쉽겠죠? jump at the opportunity
   * 기회를 바로 낚아채서 그 사람 자리를 대신하게 됐지. I jumped at the opportunity to replace her.
