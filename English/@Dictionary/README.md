@@ -2399,6 +2399,13 @@
 * 새로운 규제방안은 향후 2년에 걸쳐 단계적으로 도입될 것이다. The new regulations will be phased in over the next two years.
   * phase in은 법이나 제도 등을 단계적으로 도입하다라는 뜻입니다. 뒤에 「over+기간」를 넣어 ‘한 기간에 걸쳐’라고 표현해 줄 수도 있습니다.
 
+# 도전
+* - was a major challenge for me
+* i challenged the TOEFL XXX; 결투했다는 느낌; 
+  * CHALLENGE 뒤에 명사는 결투하다
+* I CHALLENGED MYSELF TO; keep up; stick to my diet
+* 그 사람 한 말 사실 아니야;(반론 제기할 때) I challenged his statements
+
 # 도착
 * 항공이 제시간에 #도착했어            The flight arrived on time
  * 곧 도착할 거에요          We are arriving, Won’t be long

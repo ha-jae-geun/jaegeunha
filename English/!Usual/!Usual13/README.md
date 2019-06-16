@@ -1,3 +1,92 @@
+# 쓸만한 영어 - 느끼한 음식을 못 먹을때 - 너무 느끼한 음식을 먹었을 때 쓸만한 영어표현
+ * - Do you have any dietary restrictions?
+ *   직역 : 어떤 식습관 제한이 있어?
+ *   의미 : 먹으면 안되는/못 먹는 거 있어?
+ * 
+ * - 기호, 종교, 알러지, 뭐가 됐든
+ *   먹는데에 제한이 있을 때 다 말할 수 있어요.
+ *   because of choice, religion, allergies, whatever..
+ * 
+ * ==========
+ * 
+ * - 따라서 내가 음식을 먹을 때
+ *   어떠한 이유로 제한을 두고 있는게 있다면?
+ *   I have dietary restrictions. [dáiətèri] 
+ *   난 (~한 이유)때문에 ~는 먹지 않아.
+ * 
+ * - 유제품 알러지가 있어서 우유가 들어간 음식은 못 먹어요.
+ *   I have a dairy allergy.
+ *   유제품 알러지가 있어서 우유/계란이 들어간 음식은 못 먹어요.
+ * 
+ * 
+ * ▷ 혹시 이 음식에 유제품이 들어갔나요?
+ * 
+ * - contain
+ *   제한된 공간 안에 넣어 꽉 잡고 있고,
+ *   뚜껑을 닫아서 새지 않게 막는 그림
+ * 
+ * - Does this contain dairy?
+ *   혹시 이 음식에 유제품이 들어갔나요?
+ * 
+ * 
+ * ▷ 음식의 느끼함을 표현할 때
+ *      구체적 상황을 밝혀주기
+ *        1) 기름진 음식을 먹음
+ *         2) 속이 더부룩한 느낌
+ * 
+ * - heavy
+ *   느낌이 뭔가 질고 무겁죠?
+ *   1) 기름진 음식을 먹음
+ *   2) 속이 더부룩한 느낌
+ * 
+ * - It feels heavy on my stomach.
+ *   직역 : 내 위장에 부담돼.
+ *   의미 : 속이 느끼해.
+ * 
+ * - rich
+ *   뭔가 많고, 풍부하고, 그래서 진한 느낌?
+ *   *생활 속 rich 활용
+ *     문맥에 따라
+ *     √ 커피 향이 진한/맛이 짙은
+ *     √ 재즈 음악의 소리가 짙고 풍부한
+ *         (mp3의 깨끗한 레이저 사운드가 아님)
+ *     √ 돈이 많은
+ * 
+ * - (음식이름) is too rich.
+ *   ~는 너무 맛이 진해.(과해)
+ *   It was too rich.
+ *   그건 너무 느끼했어.
+ * 
+ * 
+ * ▷ 이런 느끼함을 없애고 싶다고 표현할 때
+ * 
+ * - cut the grease / cut the oil
+ *   직역 : 기름기를 자르다??
+ *   의미 : 계속 느껴지는 느끼함을 끊다 (없애다)
+ * 
+ * - I want something to cut the grease in my stomach.
+ *    속이 느끼한 것을 없앨 뭔가 먹었으면 좋겠어.
+ * 
+ * - I want something to cut the oil in my stomach.
+ *   속이 느끼한 것을 없앨 뭔가 먹었으면 좋겠어.
+ * 
+ * - I want something to refresh (me).
+ *   (속이 느끼한 것을 없앨)신선한(상큼한)것을 먹고 싶어.
+ * 
+ * - I feel like I want to eat Kimchi. 
+ *   (속이 느끼한 것을 없앨)
+ *   김치/과일/샐러드 같은 것을 먹고 싶은 기분이 든다는게 포인트
+ *   김치 같은 것을 먹고 싶은 기분이 든다는 의미
+ * 
+ * - I want to eat Kimchi.
+ *   김치 먹고 싶어.
+ * 
+ * - (속이 느끼한 것을 없앨)
+ *   샐러드 같은게 먹고 싶어(그런 기분이 들어)
+ *   I feel like I want to eat salad.
+ *   샐러드 같은 거 먹고 싶은 기분이야.
+
+
 # 쓸만한 영어 - 기내에서 진상 승객을 만났을때 - 컴플레인 영어표현
 - My neighbor's headphones are too loud.
   - 옆 승객의 헤드폰 소리가 너무 커요.
