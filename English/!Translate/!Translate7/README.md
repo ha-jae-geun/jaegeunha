@@ -1,3 +1,43 @@
+# [ 일상을 영어로 말하기 ] "돌아온 후로 계속 바빴다", "아직 기회가 없었다" (완료시제)
+* 저번주에 가족 여행중에 많은 사진을 찍었다
+ * I took a lot of pictures during my family trip last week
+ * 돌ㅇ온 이후로 계속 좀 바뻐서
+ * but I've been pretty busy since I got back
+ * 아직 확인해볼 기회가 없었어
+ * and I haven't had a chance to check them yet
+
+# [ 일상을 영어로 말하기 ] 짧게 여행을 다녀왔다, 금요일에 출발해서 토요일에 돌아왔다, 귀찮아서 집에 있었다
+ * 지난주에 가족이랑 여행을 다녀왔어요;
+ * I went on a trip last week with my family. 
+ * 짧은 여행이었어요;
+ * It was a short trip. 
+ * 금요일에 갔다 토요일에 돌아왔어요
+ * We left on Friday and came back on Saturday. 
+ * 어제, 일요일에는 나가기 귀찮았다;
+ * Yesterday, on Sunday, I didn't feel like going out. 
+ * 그냥 집에 있으면서 컴퓨터로 영화나 몇 개 봤어요
+ * So, I just stayed home and watched a couple of movies on my computer.
+ 	* with my computer; 컴퓨터를 도구로 사용; on my computer: 컴퓨터 상에서(인터넷)은 on
+
+# [ 직장영어 ] 구동사 + 유사표현(들) - run by / bring up / bring to attention / heads up
+* 이거 꽤 중요한 것 같은데; This seems pretty important
+* 상사한테 의견을 받아보고 머라고 하시는지 저한테 알려주세요; Why don't you run it by your boss first and let me know what she says
+	* There's one mor thing that i wanted to run by you
+* 알았어. 오늘 점심 바로 전에 짧게 회의가 있는데 그 때 얘기를 꺼내볼게; Yeah. of course. i have a short meeting with ther just before lunch today. I'll try to bring it up then.
+* bring something to someone's attention
+	* 알려줘서 고마워; Thanks for bringing this to my attention
+	* 귀띔해주다; give someone a heads up; THanks for the heads up
+
+# [ 영어 어휘 ] constantly, consistently
+ * 추가설명:
+ * 강의에서 설명하고 있듯이 의미적으로 봤을 때 ‘consistently’가 ‘regularly’와 비슷하다면 ‘constantly’는 ‘keep + ing’와 비슷하다고 볼 수가 있습니다.
+ * (예) She’s constantly late to work.
+ * (~She keeps coming to work late - 물론 뉘앙스는 많이 다릅니다 😀)
+ * Constant(ly) 와 Consistent(ly) 의 차이점은 일관성의 방향성 입니다. 즉 Constant는 변화 하돼 방향성과 일관성이 없는 변화 입니다. Consistent는 변화하되 일관성과 방향성을 가지고 변화 나 추구 하는 겁니다.
+* 날씨가 수시로 바뀐다; The weather is constantly changing
+* 판매량이 꾸준히 줄어든다; Sales have been dropping quite consistently
+* 판매량이 꾸준히 유지되고있따; Sales have been quite consistent over the past couple of years
+
 # [ 기초영어회화 ] 기분을 풀어주다 / 말이 잘못 나오다 / 마음을 상하게 하다
 * 그녀의 기분을 풀어주려고 했던거였어; I was trying to cheer her up
 	* trying to; 츠라이느; to의 묵음

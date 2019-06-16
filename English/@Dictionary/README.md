@@ -1165,6 +1165,8 @@
   * # 권리 | # 특권 # 특혜 # 특전 | # 주권
 
 # 귀찮
+ * 어제, 일요일에는 나가기 귀찮았다;
+ * Yesterday, on Sunday, I didn't feel like going out. 
 * ☆덜 번거롭다; it's less trouble = it's a less of a hassle = it's less work = less cumbersome = easier
 * 번거롭게 ㅎ기 싫어; i don't want to be an inconvenience; Sorry for the inconvenience
 * 귀찮아; that's a drag

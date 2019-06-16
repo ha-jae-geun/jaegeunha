@@ -2085,6 +2085,11 @@ We need food and water.
 * What's cooking? 의 의미 세가지!
   * -> 무슨 일이 일어나고 있는 거지? -> 무슨 일인데? -> 상황을 좀 알려줘
 
+## computer
+* 그냥 집에 있으면서 컴퓨터로 영화나 몇 개 봤어요
+ * So, I just stayed home and watched a couple of movies on my computer.
+  * with my computer; 컴퓨터를 도구로 사용; on my computer: 컴퓨터 상에서(인터넷)은 on
+
 ## compel
 * feel compelled to = 필요 의식을 갖다; 어떤 일을 해야겠다는 마음을 강하게 느낀다는 뜻이에요. 그것이 옳은 일이기 때문에 자신이 꼭 해야한다고 생각하는 거죠. 신생기업에서 일한다는 것은 여타 직장보다 불안정한 요소들이 있을 수 있죠. 그럼에도 위워크와 같은 신생 기업에서 일하려는 건 그 일에 대한 진정한 소명 의식을 갖고 있기 때문에 가능할겁니다. 
     * = 그녀는 자리를 비켜줘야 한다는 느낌이 들었다. She felt compelled to leave.
