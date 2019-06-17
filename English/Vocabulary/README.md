@@ -589,6 +589,21 @@ We need food and water.
 * 그건 그렇고, 가족들은 어떻게 지내셔? [ex] Anyway, how's your folks? 3. 그건 그렇고
 * 좋으신대로 어떻게든 하세요. [ex] You do it anyway you like. 4. 어떻게든지, 아무렇게나
 
+## so
+1. so + adj / adv
+2. so imporant that S+V
+3. 뒤에 형용사 + 부사로 끝나면 정답
+
+## such; 한정사
+1. such + (a + adj) + N
+2. such importance that S+V; 뒤에 명사
+3. 끝에 명사가 있으면 such가 정답
+	* 단 so + many/much/few 명사
+4. such는 한정사로 반드시 뒤에 명사
+
+## such as
+* activities such as A, B, and C = including, like
+
 ## some
 * That was some party! = 진짜 끝내주는 파티였어!; some 이 '약간' 이라는 뜻으로 가장 많이 쓰이긴 하지만, 비격식 표현으로 무언가를 강조해주듯 쓰일 땐 [대단한, 상당한, 멋진] 등의 의미를 가집니다. 때로는 누구를 비꼬듯 말하며 반어적인 의미로 쓰이기도 해요.
   * = 어젯밤에 진짜 끝내주는 공연이었어! It was some performance last night!
