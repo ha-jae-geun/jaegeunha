@@ -16,3 +16,9 @@
 
 ## 단축키
 * 1줄 실행: Ctrl + Enter,  전체 실행: Ctrl + Shift + Enter
+
+
+# 라이브러리
+* install.packages("readxl")
+* library("readxl")
+  * readxl 패키지를 사용하기 위해서 library 함수로 readxl 패키지를 로딩한다.
