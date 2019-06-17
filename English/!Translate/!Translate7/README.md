@@ -1,3 +1,9 @@
+# 혼수상태
+* '혼수상태에 빠졌다' She / went into / a coma
+* brain death / brain dead): 스스로 호흡할 수 없는 상태입
+* vegetative state) 앞에서 본 뇌사와는 달리 숨을 쉴 수 있다
+	* He has recovered / from being in persistent vegitative state / for 5 years
+
 # [ 일상을 영어로 말하기 ] "돌아온 후로 계속 바빴다", "아직 기회가 없었다" (완료시제)
 * 저번주에 가족 여행중에 많은 사진을 찍었다
  * I took a lot of pictures during my family trip last week
