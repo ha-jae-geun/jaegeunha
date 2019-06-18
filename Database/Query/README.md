@@ -6,6 +6,16 @@
 5. SELECT clause
 6. ORDER BY clause
 
+
+# 테이블
+## 날짜
+* 현재 날짜 기본 
+```sql
+create table memo {
+	post_date date default sysdate/  post_date라는 이름으로 date 타입으로 
+};
+```
+
 1.
 ```
 SELECT SIDO, AVG(OZON)   FROM MICRO_DUST_2017
