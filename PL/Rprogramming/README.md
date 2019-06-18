@@ -34,3 +34,10 @@
 # 결측치
 # NA
 * 분석 오류 -> NA -> 평균값 / 중앙값 / 최빈값
+
+
+# Plot
+## qplot, ggplot 차이
+* 본적으로 qplot과 ggplot는 같은 형태의 그래프를 생성하지만 코드에서 차이가 있다. ggplot은 ggplot(mtcars, aes(x=wt, y=mpg))라고 입력해서는 그래프가 생성되지 않는다. 그래프를 생성하기 위해서는 +geom_point()를 추가로 입력해야 한다. 즉, 레이어 추가를 통해 그래프가 생성된다. mtcars데이터에서, x축은 wt, y축은 mpg인 정보만을 저장하는 것이 ggplot()이고, 여기에 어떤 그래프를 그려라 하는 +geom_point()에 해당한다. 쉽게 생각하면, ggplot()는 추체이고, +geom_**은 행동이 된다. 주체가 어떤 행동을 할지, +geom_** 을 추가하며 분석하는 것이 ggplot에 장점이다.
+
+ 
