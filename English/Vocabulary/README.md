@@ -8816,6 +8816,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 그는 춤에 대해 아무 것도 몰라. He doesn't know squat about dancing.
 
 ## square
+* 티비 가까이서 보며 눈 나빠진다; If you are too close, your eyesight (will get bad / will go square)
 * 아재처럼 보이고 싶진 않을 거 아냐 You don't want to look like a square
 * square 가 가장 기본적인 의미로는 [정사각형] 을 의미하는데요. 정사각형은 모든 변이 같잖아요? 그래서 이 단어가 동사로 쓰일 땐 A square with B 처럼 쓰여서 [A와 B가 일치하다] 라는 의미를 가집니다.  영상에서는 이미 with 의 의미를 내포하고 있는 together 가 쓰였기에 with 는 쓰지 않았습니다.
 	* = 이 데이터는 그가 오늘 아침에 우리한테 설명한 거랑 맞지가 않는데. This data don't square with what he explained to us this morning.
