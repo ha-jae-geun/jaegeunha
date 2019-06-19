@@ -140,6 +140,8 @@
  	* No that's too late. See if i can you can move it up
 
 # 원어민
+* off: 이용하다; 그 친구는 유튜브로 큰 돈 벌었어; She got rich off Youtube; 
+	* 내 적금으로 생활중이야; i'm living off my savings
 * 티비 가까이서 보며 눈 나빠진다; If you are too close, your eyesight (will get bad / will go square)
 * 딱 한번 세탁한 후에 색이 바랬어요; It faded after only one wash
 * 세탁한 후에 변색되었어요; It was discolored after washing
