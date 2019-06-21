@@ -987,3 +987,97 @@ AND MEA_DATE BETWEEN '20180611' AND '20180811'
 AND AREA IN ('충북')
 ORDER BY MEA_DATE, AREA
 ```
+
+# 30일 전 날씨, 농산물 
+```SQL
+SELECT   A.PLACE_NAME,
+         A.MARKET_NAME,
+         SUBSTR(A.TRADE_DATE,0,4)
+                  || '-'
+                  || SUBSTR(A.TRADE_DATE,5,2)
+                  || '-'
+                  || SUBSTR(A.TRADE_DATE,7,2) TRADE_DATE,
+         A.AVG_PRICE,
+         CASE
+                  WHEN ROUND(B.PARTICLE_MATTER_10, 1)     >= 0
+                  AND      ROUND(B.PARTICLE_MATTER_10, 1) <= 30
+                  THEN 1
+                  WHEN ROUND(B.PARTICLE_MATTER_10, 1)     >= 31
+                  AND      ROUND(B.PARTICLE_MATTER_10, 1) <= 80
+                  THEN 2
+                  WHEN ROUND(B.PARTICLE_MATTER_10, 1)     >= 81
+                  AND      ROUND(B.PARTICLE_MATTER_10, 1) <= 150
+                  THEN 3
+                  ELSE 4
+         END G_PM10,
+         CASE
+                  WHEN ROUND(B.PARTICLE_MATTER_2, 1)     >= 0
+                  AND      ROUND(B.PARTICLE_MATTER_2, 1) <= 15
+                  THEN 1
+                  WHEN ROUND(B.PARTICLE_MATTER_2, 1)     >= 16
+                  AND      ROUND(B.PARTICLE_MATTER_2, 1) <= 35
+                  THEN 2
+                  WHEN ROUND(B.PARTICLE_MATTER_2, 1)     >= 36
+                  AND      ROUND(B.PARTICLE_MATTER_2, 1) <= 75
+                  THEN 3
+                  ELSE 4
+         END G_PM2,
+         CASE
+                  WHEN ROUND(A.AVG_PRICE, 0)     >= 0
+                  AND      ROUND(A.AVG_PRICE, 0) <= 642
+                  THEN 1
+                  WHEN ROUND(A.AVG_PRICE, 0)     >= 643
+                  AND      ROUND(A.AVG_PRICE, 0) <= 847
+                  THEN 2
+                  WHEN ROUND(A.AVG_PRICE, 0)     >= 848
+                  AND      ROUND(A.AVG_PRICE, 0) <= 1203
+                  THEN 3
+                  ELSE 4
+         END G_PRICE,
+         CASE
+                  WHEN ROUND(C.AVG_CLOUD, 1)     >= 0
+                  AND      ROUND(C.AVG_CLOUD, 1) <= 2
+                  THEN 1
+                  WHEN ROUND(C.AVG_CLOUD, 1)     >= 3
+                  AND      ROUND(C.AVG_CLOUD, 1) <= 5
+                  THEN 2
+                  WHEN ROUND(C.AVG_CLOUD, 1)     >= 6
+                  AND      ROUND(C.AVG_CLOUD, 1) <= 8
+                  THEN 3
+                  ELSE 4
+         END G_CLOUD,
+         A.MAX_PRICE,
+         A.MIN_PRICE,
+         A.VOLUME,
+         B.SLFR_DXD SO2,
+         B.CRBN_MNXD CO,
+         B.OZON O3,
+         B.NTRGN_DXD NO2,
+         B.PARTICLE_MATTER_10 PM10,
+         B.PARTICLE_MATTER_2 PM2,
+         C.AVG_TMPRT,
+         C.DAY_PRE,
+         C.AVG_WND_SPD,
+         C.WND_DRCTN,
+         C.TOT_DYL_TM,
+         C.AVG_CLOUD,
+         C.TOT_SOLAR
+FROM     AGRICULTURE A,
+         FINE_DUST B,
+         WEATHER_DATA C
+WHERE    (
+                  TO_DATE(A.TRADE_DATE, 'YYYY-MM-DD') - 30
+         )
+                      = TO_DATE(B.MEASURE_DATE(+), 'YYYY-MM-DD')
+AND      A.PLACE_NAME = B.SIDO(+)
+AND
+         (
+                  TO_DATE(A.TRADE_DATE, 'YYYY-MM-DD') - 30
+         )
+                         = TO_DATE(C.MEA_DATE(+), 'YYYY-MM-DD')
+AND      A.PLACE_NAME    = C.AREA(+)
+AND A.TRADE_DATE BETWEEN '20180523' AND '20180623'
+AND      A.PLACE_NAME    = '충북'
+AND      A.MARKET_NAME   = '대구북부도매'
+ORDER BY TRADE_DATE
+```
