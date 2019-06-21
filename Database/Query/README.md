@@ -1081,3 +1081,49 @@ AND      A.PLACE_NAME    = '충북'
 AND      A.MARKET_NAME   = '대구북부도매'
 ORDER BY TRADE_DATE
 ```
+
+
+# 30일전 날짜 
+```SQL
+SELECT   TRADE_DATE,
+         SIDO2,
+         ROUND(AVG(AVG_TMPRT), 1),
+         ROUND(AVG(DAY_PRE), 1),
+         ROUND(AVG(AVG_WND_SPD), 1),
+         ROUND(AVG(WND_DRCTN), 1),
+         ROUND(AVG(TOT_DYL_TM), 1),
+         ROUND(AVG(TOT_SOLAR), 1),
+         ROUND(AVG(AVG_CLOUD), 1),
+         ROUND(AVG(SLFR_DXD), 3),
+         ROUND(AVG(CRBN_MNXD), 1),
+         ROUND(AVG(OZON), 3),
+         ROUND(AVG(NTRGN_DXD), 3),
+         ROUND(AVG(PARTICLE_MATTER_10), 0),
+         ROUND(AVG(PARTICLE_MATTER_2), 0)
+FROM     ( SELECT *
+         FROM    (SELECT MEA_DATE TRADE_DATE,
+                         (TO_DATE(MEA_DATE, 'YYYY-MM-DD') - 30) PREV_MONTH,
+                         (TO_DATE(MEA_DATE, 'YYYY-MM-DD') - 1) PREV_DAY,
+                         AREA SIDO2
+                 FROM    WEATHER_DATA
+                 WHERE   AREA        = '강원'
+                 AND     MEA_DATE LIKE '2018%'
+                 )
+                 A,
+                 (SELECT *
+                 FROM    WEATHER_DATA
+                 )
+                 B,
+                 (SELECT *
+                 FROM    FINE_DUST
+                 )
+                 C
+         WHERE   A.SIDO2 = B.AREA
+         AND     A.SIDO2 = C.SIDO
+         AND     TO_DATE(B.MEA_DATE, 'YYYY-MM-DD') BETWEEN A.PREV_MONTH AND     A.PREV_DAY
+         AND     TO_DATE(C.MEASURE_DATE, 'YYYY-MM-DD') BETWEEN A.PREV_MONTH AND     A.PREV_DAY
+         )
+GROUP BY TRADE_DATE,
+         SIDO2
+ORDER BY TRADE_DATE
+```
