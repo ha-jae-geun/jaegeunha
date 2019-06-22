@@ -1,3 +1,53 @@
+# [ 기초영어회화 ] - 이제 막 시작했다 / 얼마 안됐다 / 이제 막 적응 중이다
+* I just started studying English with Live Academy!
+* It hasn't been very long since I worked here.
+* I'm just getting used to working here.
+
+# 일상을 영어로 말하기 "~할게 있어서 ~해달라고 부탁했다" [ 기초영어회화 ]
+* "며칠 전에 프린트해야 될게 있었는데 내가 집에 프린터가 없거든. 
+	* The other day, i had something that i needed to print out
+* 근데 자기 사무실이 있는 친구가 있어서 걔한테 문서를 첨부해서 이메일을 보내고 프린트해달라고 부탁했어."
+* but i don't have a printer at home. But i have a friend who has his own office and he has a printer. SO i sent him an email with the document and i had him print it out for me.
+
+# [ 기초영어회화 ] 누구를 집으로 초대하다, 누구네 집에 놀러가다
+* 초대해서 왔다라는 의미 내포 i had a friend over at my place last week
+	* i invited a friend to come to my place
+* 놀러간다; A friend is having me over at his place this weekend
+	* = i am going over to my friend's place
+
+# [ 중요한 영어 어휘 ] encourage / encouraging / encouragement
+* 장려하려고 하는거야; RIght, now, i'm encouraging you; i encourage you to use this word more
+
+# Is it the real you
+* 소개팅에 나간다고 가정을 해봐
+* let's say that you are going go on a blind date,-->let's say(가정해보자), on(특별한날 앞 전치사),  blind date(소개팅)
+* 현재 너의 모든 관계에 관계없이
+* regardless of your current relationship status-->regardless of(관계없이), status(지위,상태)
+* 만약 네가 좋은 인상을 주기를 원한면서(원한다면), 가장좋은 옷을 입을거야, assuming that(만약, 생각하면서), put on(걸치다,신다)
+* Assuming that you want to give a good first impression, you would probably put on nicest  clothes.
+* 너는 심지어 새드레스나 슈트를 입을수 있어.
+* You might even pick up a new dress or a suit--> even(심지어,어쩌면), pick up=put on(입다)
+* 이왕 하는 김에(소개팅에 나가는 김에)
+* while you  are at it-->~하는 김에, 이참에
+* 너는 심지어 아침에 머리도 해야하고 화장에도 더 신경쓸지도 몰라
+* You might even go get your hair done in the morning and pay extra attention to your makeup.->go and get(go get), get 사물 pp(하게하다), pay attention to (~신경쓰다)
+* 소개팅 날로 가서보면
+* fast forward to the date-->~ 넘어가서 생각을 해보면,  
+* 최대한 긍정적이고 재밌는 인상을 주기 위해 좀 더 에의를 갖추려고 하고 평소보다 더 웃으려고 하고 약간 지금 내가 하고 있는것처럼 말이야.
+* you would probably be extra polite and smile more than usual, overall trying to be as positive and fun as you can be, kind of like what i am ding right now
+* ->more than usual(평소보다더), overall(결국), try to (노력하다), trying to (노력하면서), as ~as you can be(가능한 ~하게), kin of like(일종의 ~처럼)
+* 이시점에서 계속 궁금해 지는 것은 
+* Now, I can't help wondering at this point, -->at this point(이순간), can't help ~ing(어쩔수없이~하다)
+* 어디까지가 나의 진짜 모습일까? 굳이 의심할 필요는 없겠지, 어쨌든 그게 나니까.
+* how much of that is the real you? I guess there's no reason to really doubt that because, after all, it is you->no reason(이유가 없다=할 필요없다), after all(결국)
+* 근데 그런자리에서 나의 가장 완벽한 모습을 보이기 위해서 그렇게 열심히 노력한다는게 좀 웃기지 않아?
+* But isn't it kind of funny how hard we try to be the perfect version of ourselves in a scenario like that?->isn't it~(~하지않니?), kind of(다소), how hard(얼마나 열심히)
+* 항상 다른사람들에게 잘보이려는 세상속에서
+* In a world where we are always trying so hard to impress others, ->others(다른 사람들에게)
+* 난 오히려 소개팅 상대가 그냥 티셔츠량 쪼리신고 나타나서 자신의 가장 편안한 모습을 보여주는게 더 좋은 수도 있을것 같아
+* I think I might be even more impressed if my date came out wearing just a T-shit and flip flops and just showed me the more comfortable version of  herself.
+* ->even(휠씬), my date(상대가), come out ~ing(한채로 나오다),
+
 # 혼수상태
 * '혼수상태에 빠졌다' She / went into / a coma
 * brain death / brain dead): 스스로 호흡할 수 없는 상태입
