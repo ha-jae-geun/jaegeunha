@@ -190,6 +190,8 @@
  	* No that's too late. See if i can you can move it up
 
 # 원어민
+* 내가 돈 빌려줄 수 있어; i can spot you
+* 수치를 계산하다; 숫자를 빠개버린다; crunch (the) numbers
 * 시간마다 얼마에요? What's the hourly rate for?; WHat's the rate for overseas calls?; How much do i have to pay for?
 * off: 이용하다; 그 친구는 유튜브로 큰 돈 벌었어; She got rich off Youtube; 
 	* 내 적금으로 생활중이야; i'm living off my savings
