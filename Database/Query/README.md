@@ -1127,3 +1127,100 @@ GROUP BY TRADE_DATE,
          SIDO2
 ORDER BY TRADE_DATE
 ```
+
+
+# 30일전 날짜 PART 2
+```SQL
+SELECT A.TRADE_DATE,
+       A.MARKET_NAME,
+       A.PLACE_NAME,
+       A.AVG_PRICE,
+       B.AVG_CLOUD,
+       B.TOT_SOLAR,
+       B.TOT_DYL_TM,
+       B.WND_DRCTN,
+       B.AVG_WND_SPD,
+       B.DAY_PRE,
+       B.AVG_TMPRT,
+       B.PM2,
+       B.PM10,
+       B.NTRGN_DXD,
+       B.OZON,
+       B.CRBN_MNXD,
+       B.SLFR_DXD
+FROM   AGRICULTURE A,
+       (SELECT  MEA_DATE,
+                SIDO2,
+                ROUND(AVG(AVG_TMPRT), 1) AVG_TMPRT,
+                ROUND(AVG(DAY_PRE), 1) DAY_PRE,
+                ROUND(AVG(AVG_WND_SPD), 1) AVG_WND_SPD,
+                ROUND(AVG(WND_DRCTN), 1) WND_DRCTN,
+                ROUND(AVG(TOT_DYL_TM), 1) TOT_DYL_TM,
+                ROUND(AVG(TOT_SOLAR), 1) TOT_SOLAR,
+                ROUND(AVG(AVG_CLOUD), 1) AVG_CLOUD,
+                ROUND(AVG(SLFR_DXD), 3) SLFR_DXD,
+                ROUND(AVG(CRBN_MNXD), 1) CRBN_MNXD,
+                ROUND(AVG(OZON), 3) OZON,
+                ROUND(AVG(NTRGN_DXD), 3) NTRGN_DXD,
+                ROUND(AVG(PARTICLE_MATTER_10), 0) PM10,
+                ROUND(AVG(PARTICLE_MATTER_2), 0) PM2
+       FROM     ( SELECT A.MEA_DATE,
+                        A.SIDO2,
+                        B.AVG_TMPRT,
+                        B.DAY_PRE,
+                        B.AVG_WND_SPD,
+                        B.WND_DRCTN,
+                        B.TOT_DYL_TM,
+                        B.TOT_SOLAR,
+                        B.AVG_CLOUD,
+                        C.SLFR_DXD,
+                        C.CRBN_MNXD,
+                        C.OZON,
+                        C.NTRGN_DXD,
+                        C.PARTICLE_MATTER_10,
+                        C.PARTICLE_MATTER_2
+                FROM    (SELECT MEA_DATE,
+                                (TO_DATE(MEA_DATE, 'YYYY-MM-DD') - 30) PREV_MONTH,
+                                (TO_DATE(MEA_DATE, 'YYYY-MM-DD') - 1) PREV_DAY,
+                                AREA SIDO2
+                        FROM    WEATHER_DATA
+                        WHERE   AREA        = '충북'
+                        AND     MEA_DATE LIKE '2018%'
+                        )
+                        A,
+                        (SELECT AREA,
+                                MEA_DATE,
+                                AVG_TMPRT,
+                                DAY_PRE,
+                                AVG_WND_SPD,
+                                WND_DRCTN,
+                                TOT_DYL_TM,
+                                TOT_SOLAR,
+                                AVG_CLOUD
+                        FROM    WEATHER_DATA
+                        )
+                        B,
+                        (SELECT SIDO,
+                                MEASURE_DATE,
+                                SLFR_DXD,
+                                CRBN_MNXD,
+                                OZON,
+                                NTRGN_DXD,
+                                PARTICLE_MATTER_10,
+                                PARTICLE_MATTER_2
+                        FROM    FINE_DUST
+                        )
+                        C
+                WHERE   A.SIDO2 = B.AREA
+                AND     A.SIDO2 = C.SIDO
+                AND     TO_DATE(B.MEA_DATE, 'YYYY-MM-DD') BETWEEN A.PREV_MONTH AND     A.PREV_DAY
+                AND     TO_DATE(C.MEASURE_DATE, 'YYYY-MM-DD') BETWEEN A.PREV_MONTH AND     A.PREV_DAY
+                )
+       GROUP BY MEA_DATE,
+                SIDO2
+       ORDER BY MEA_DATE
+       )
+       B
+WHERE  A.TRADE_DATE = B.MEA_DATE
+AND    A.PLACE_NAME = B.SIDO2
+```
