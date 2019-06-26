@@ -1201,6 +1201,7 @@ We need food and water.
 * : 남 코러스 따위는 하지 않는편이 낫겠어. I'd better not be singing back up. 여기서 'Back up' 은 메인 가수 뒤에서 보조를 맞추어 도움을 주며 노래를 부른다는 의미로 쓰였습니다.
 
 ## background
+* 폭포를 배경으로 찍어쥇요; Please get the waterfall in the background
 * 뒷조사를 했어; i checked your background; We do the background check
 * background 가 [배경]을 의미하는 단어이니, 그 사람의 배경, 즉 신원 확인을 하는 걸 background check 라고 합니다. 신원 확인을 요구하는 주체가 누구인지에 따라서 내용도 조금씩 달라질 수 있는데요. 보통은 범죄 경력, 신용 정보 등을 간단하게 조회하는 걸 의미해요. [범죄 경력 조회]는 criminal background check 라고 하기도 합니다.
   * = 저희는 정기적으로 현재 근무 중인 직원들의 신원 조회를 합니다. We conduct background checks on current employees on a regular basis.
@@ -2120,6 +2121,7 @@ We need food and water.
   * 너희들은 도덕적 기준 같은 것도 없니? ex) Don't you guys have a moral compass or something?
 
 ## company
+ * 미행이 붙었어; we've got company
  * 일행 있으세요?            Do you have company(관사 불가)
   * - Do you need a company? 회사가 필요하니?
  * 작업 멘트 일행 필요하세요?           Do you have some company?
@@ -5247,6 +5249,7 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
   * 반정부 인사들은 국무총리를 끌어내리는 데 실패했다. The government opponents failed to dislodge the Prime Minister. 
 
 ## lock
+* 그의 검은 머리는 집안 내력이다 His dark locks run in the family
 * 열쇠를 방안에 두고 문을 잠궜어요; i've locked myself out, and my key is in the room
 * lock something down : 확실히하다 lock 이 무언가를 '걸어잠그다' 라는 뜻이 있어요. 따라서 무언가를 변화되지 않고, 되돌릴 수 없도록 [확실히 하는 것] 을 의미하는 단어입니다.
   * 마음 좀 그만 바꿔! 그 결정으로 확실히 하자고. ex) Stop changing your mind! Let's lock the decision down.
@@ -6131,6 +6134,9 @@ crew라고 해요. 비슷하면서도 다른 staff와 crew의 차이를 알아�
 * (에) 참여하지 않기로 하다. 발을 빼다. 손을 떼다.  = opt out (of)
   * 언제든 그룹에서 탈퇴할 수 있습니다. ex) You can opt out of the group at any time.
   * 저녁에 영화 보러 간다고? 난 안 갈래! ex) Going to a movie tonight? I'm opting out!
+
+## original
+* 창의력이 풍부한 사람이야; I'm full of original ideas
 
 ## orientation
 * 여기서 orientation은 사람의 특정한 성향을 가리킵니다. 그 사람의 근본적인 태도, 믿음에 대해 말하는 표현이죠. 대개 정치적, 성적 성향 (political orientation, sexual orientation)과 관련되어 등장하고, orientation으로만 말했을 때 sexual orientation의 의미로 사용하는 경우가 많습니다. 
