@@ -1,3 +1,8 @@
+# 원어민
+* 여름 동안 피부 진짜 까매졌어; My face got really tan over the summer
+* 빠른 체크인을 하ㅏㄷ; do an early check-in, do a late check-out
+* 언제 최그인 빨리 돼? What is the earlies we can check in
+
 # [ 기초영어회화 ] - 이제 막 시작했다 / 얼마 안됐다 / 이제 막 적응 중이다
 * I just started studying English with Live Academy!
 * It hasn't been very long since I worked here.
