@@ -7,6 +7,46 @@
 6. ORDER BY clause
 
 
+# UPDATE
+```SQL
+UPDATE WEATHER_2014 A
+SET    MIN_TMPRT =
+       (SELECT DATA1
+       FROM    TEMP b
+       WHERE   A.AREA        = B.SIDO
+       AND     A.MEA_DATE    =B.REG_DATE
+       )
+       ,
+       MAX_TMPRT =
+       (SELECT DATA2
+       FROM    TEMP b
+       WHERE   A.AREA        = B.SIDO
+       AND     A.MEA_DATE    =B.REG_DATE
+       )
+       ,
+       AVG_HUMID =
+       (SELECT DATA3
+       FROM    TEMP b
+       WHERE   A.AREA        = B.SIDO
+       AND     A.MEA_DATE    =B.REG_DATE
+       )
+       ,
+       TOT_DYL_HR =
+       (SELECT DATA4
+       FROM    TEMP b
+       WHERE   A.AREA        = B.SIDO
+       AND     A.MEA_DATE    =B.REG_DATE
+       )
+       ,
+       AVG_GTMPRT =
+       (SELECT DATA5
+       FROM    TEMP b
+       WHERE   A.AREA        = B.SIDO
+       AND     A.MEA_DATE    =B.REG_DATE
+       )
+COMMIT
+```
+
 # 테이블
 ## 날짜
 * 현재 날짜 기본 
