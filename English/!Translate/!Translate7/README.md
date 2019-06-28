@@ -1,7 +1,10 @@
 # 원어민
 * 여름 동안 피부 진짜 까매졌어; My face got really tan over the summer
 * 빠른 체크인을 하ㅏㄷ; do an early check-in, do a late check-out
-* 언제 최그인 빨리 돼? What is the earlies we can check in
+* 언제 최그인 빨리 돼? What is the earliest time we can check in = when is the earlies we can check in
+* 초록불일 떄 건너야 해요; You should cross the street on the green light
+* 배신당했어; double crossed me = you played me = it completely blindsided me(뒤통수); you are a traitor; you betrayed me
+* 읽씹 당했다; i got left on read
 
 # [ 기초영어회화 ] - 이제 막 시작했다 / 얼마 안됐다 / 이제 막 적응 중이다
 * I just started studying English with Live Academy!
