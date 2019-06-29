@@ -12,6 +12,32 @@
 	* 고통이나 고난을 참다; i couldn't endure the pain any longer
 * coyote; 카이'오우리
 
+# [ 일상을 영어로 말하기 ] 기대하고 있던 영화를 봤어 - 너무 실망했어 - 너무 기대가 컸던 것 같아
+* I went to the movies last night.
+* I saw a movie that i already watched. But it is so impressive that i saw a movie twice.
+* 정말 기대를 많이 하고 있던 영화를 봣다; And i saw a movie that i was really looking forward to
+* 내가 기대를 너무 했나봐; i think i had my hopes up too high; have someone's hopes up
+	* look forward to 와는 달리 too high를 붙임으로써 부정적인 의미를 담을 수 있음.
+
+# [ 기초영어회화 ] 과거완료시제는 언제 어떻게 왜 쓰는걸까?
+* 나 벌써 먹었어; i already ate; 
+	* 나 이미 먹은 상태였어; i had already eaten; [잇은] 혹은 [이튼]; [이른]은 안됨
+* When I  got back home late at night, my son had already gone to bed.
+* I  was running into a bus, it had already left the bus stop.
+* When I  wanted the check in the barbecue place, the waiter said  "she had paid it already. "
+* 무엇을 하기 위해 알아보다; be looking to; 저도 하다 사려고 알아보고 있었거든요; i was actually looking to buy one
+* 근데 전화하니까 벌써 누구한테 팔았떠라고요; When i called her, she had already sold it to someone
+
+# [ 영어 발음 ] Tip ! - sk - st - sp - sc - sq
+* s 발음이 없다; 쓰까이~ 쓰똬일~ 쓰꿀~ 쓰따알~ 땡뀨~❤️
+	* sky; s를 강하게 발음하다보면 까발음
+
+
+# 영어 지문속 관사 a / the의 활용 살펴보기
+* 이벤트 참여하다; go ona a blind date/business trip/picnic
+* a good first impression
+* in a scenario like that  [səˈnærioʊ];  in a world where
+
 # [ 기초영어회화 ] - 이제 막 시작했다 / 얼마 안됐다 / 이제 막 적응 중이다
 * I just started studying English with Live Academy!
 * It hasn't been very long since I worked here.
