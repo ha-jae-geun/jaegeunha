@@ -1,3 +1,8 @@
+# 쓸만한 영어 - 휴가 떠나는 사람에게 쓸 수 있는 영어표현들 - 아무생각 말고 푹 쉬다와~
+* 하루도 못셨잖아;  you haven't even taken a single day off. You haven't even taken any vacations.  You haven't even taken any vacation days.
+* 재충전 시간가져; You need to recharge and refresh yourself.
+
+
 # 쓸만한 영어 - 느끼한 음식을 못 먹을때 - 너무 느끼한 음식을 먹었을 때 쓸만한 영어표현
  * - Do you have any dietary restrictions?
  *   직역 : 어떤 식습관 제한이 있어?
