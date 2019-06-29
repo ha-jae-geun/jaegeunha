@@ -5,6 +5,12 @@
 * 초록불일 떄 건너야 해요; You should cross the street on the green light
 * 배신당했어; double crossed me = you played me = it completely blindsided me(뒤통수); you are a traitor; you betrayed me
 * 읽씹 당했다; i got left on read
+* 참다; i can't bear all this noise
+	* 감정을 억제하다; Suppressing anger can cause stress
+	* 눈물이나 웃음을 참다; She held back her tears
+	* 이 소음 못 참겠다; i can't bear/stand all this noise
+	* 고통이나 고난을 참다; i couldn't endure the pain any longer
+* coyote; 카이'오우리
 
 # [ 기초영어회화 ] - 이제 막 시작했다 / 얼마 안됐다 / 이제 막 적응 중이다
 * I just started studying English with Live Academy!
