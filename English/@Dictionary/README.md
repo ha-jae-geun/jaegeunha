@@ -8445,6 +8445,11 @@ retaliate
 * 그나저나; By the way
 
 # 참다
+* 참다; i can't bear all this noise
+	* 감정을 억제하다; Suppressing anger can cause stress
+	* 눈물이나 웃음을 참다; She held back her tears
+	* 이 소음 못 참겠다; i can't bear/stand all this noise
+	* 고통이나 고난을 참다; i couldn't endure the pain any longer
 * 잘 참고 있네; You're being tough
 * 더는 못참아; i can't take it anymore; i'm fed up; i've had enough; i'm sick of this
   * I take offense to that; i'll not toleratate that
