@@ -11,6 +11,13 @@
 	* 이 소음 못 참겠다; i can't bear/stand all this noise
 	* 고통이나 고난을 참다; i couldn't endure the pain any longer
 * coyote; 카이'오우리
+* 출석 부를게요; Let's take roll
+* 다시 자세히 설명해주겠어요? Could you explain in more detail?
+* 큰 기회였어요; He got his first big break
+* 긍정문, 부정문; positive/negative sentences
+* 이따가 통화하자; later쓰면 이따가 전화하는것;  i'll call you back sometime soon
+* 나만의 시간이 피룡해; i need some me time/us time/you time; them time은 안됨
+	* i need my own time; 순전히 너의 시간이야; It's purely your time
 
 # [ 일상을 영어로 말하기 ] 기대하고 있던 영화를 봤어 - 너무 실망했어 - 너무 기대가 컸던 것 같아
 * I went to the movies last night.
