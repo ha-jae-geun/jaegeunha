@@ -23,21 +23,35 @@ from sklearn import svm, metrics
 from sklearn.model_selection import train_test_split
 import matplotlib.pyplot as plt
 import pandas as pd
+import numpy as np
 
-data = pd.read_excel('강원_대구북부도매_2010_2018_30.xlsx', sheet_name='Sheet1')
+data = pd.read_excel('경남_부산반여_2010_2018_30.xlsx', sheet_name='Sheet1')
 # print(data)
+
+# 경남_부산반여_2010_2018_30 52%
+# dfx = pd.DataFrame(data, columns=["AVG_TMPRT", "TOT_SOLAR", "AVG_WND_SPD", "AVG_HUMID", 'PM10'])
+
+
+# 강원 대구북부도매_2010_2018_30; 66%
+log_price = []
+for i in data['AVG_PRICE']:
+    log_price.append(10*round(np.log10(i),1))
+
+# 로그 가격으로 변경
+data['AVG_PRICE'] = log_price
+
 
 # 경남_부산반여_2010_2018_30
 dfx = pd.DataFrame(data, columns=["AVG_TMPRT", "TOT_SOLAR", "AVG_WND_SPD", "AVG_HUMID", 'PM10'])
 # dfx = pd.DataFrame(data, columns=['G_PM10', "PM2", "VOLUME", 'AVG_TMPRT', 'AVG_WND_SPD']).dropna()
-dfy = pd.DataFrame(data, columns=["LOG"])
+dfy = pd.DataFrame(data, columns=["AVG_PRICE"])
 
 # 학습 전용과 테스트 전용 데이터로 나누기
 data_train, data_test, label_train, label_test = train_test_split(dfx, dfy)
 
 
 # 데이터 학습하기 --- (※4)
-clf = svm.SVC()
+clf = svm.SVC(gamma='scale', kernel='sigmoid', degree=2)
 clf.fit(data_train, label_train)
 # 데이터 예측하기 --- (※5)
 predict = clf.predict(data_test)
