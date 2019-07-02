@@ -1,5 +1,25 @@
 # 원어민
 * 여름 동안 피부 진짜 까매졌어; My face got really tan over the summer
+* 다리찢기; The splits
+* 얼굴 좋아졌다; Her face looks radiant/vibrant [ˈreɪdiənt] 
+* 눈치주다; He hinted that it was time for us to go
+* 신기하다; That's a first
+* 맛집이다; I know this relaly good hole in the wall
+* 외국인 등록증 있으십니까? Do you have your alien registration card?
+* 모태솔로; i'm forever alone
+* 길면; 최대로 1시간 걸려; It'll take an hour at the most
+* 수고했어; Take it easy; 좋은 하루 보내요; Have a good one; Thank you for all your effort
+* 옛날에; In the olden days
+* 길냥이; Stray cat, alley cat
+* 엉덩이에 머 묻었어; YOu have something on your backside
+* 종교가 머에요? What do you normally do on Sundays
+* 그 때; Back then
+* 그떄부터 친구였어요; we've been friends ever since
+* 어이가 없다; That's absurd [əbˈsɜːrd]; Thats' ridiculous; ludicrous 미국식 [ˈluːdɪkrəs]
+* 속이 더부룩해요; i feel bloated
+* 숙취해소제 하나 주세요; Can i get a drink for a hangover
+* 호텔에서 짐 운반 도와주는사람; bellhop; porter; can you arrange a porter for me?
+	* Can you call someone to help me with my bags?
 * 빠른 체크인을 하ㅏㄷ; do an early check-in, do a late check-out
 * 언제 최그인 빨리 돼? What is the earliest time we can check in = when is the earlies we can check in
 * 초록불일 떄 건너야 해요; You should cross the street on the green light
