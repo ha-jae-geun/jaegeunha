@@ -26,6 +26,7 @@ data_train, data_test, label_train, label_test = train_test_split(dfx, dfy)
 
 
 # 데이터 학습시키기
+# entropy 혹은 gini
 clf = RandomForestClassifier(criterion='entropy')
 clf.fit(data_train, label_train.values.ravel())
 #
