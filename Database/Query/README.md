@@ -7,6 +7,135 @@
 6. ORDER BY clause
 
 
+# NVL
+```sql
+SELECT A.MEA_DATE,
+       A.SIDO2,
+       NVL(B.AVG_PRICE,
+          (SELECT AVG_PRICE
+          FROM    AGRICULTURE_SO
+          WHERE   TRADE_DATE =
+                  ( SELECT MAX(TRADE_DATE)
+                  FROM    AGRICULTURE_SO
+                  WHERE   TRADE_DATE          < A.MEA_DATE
+                  AND     PLACE_NAME          = A.SIDO2
+                  AND     AVG_PRICE IS NOT NULL
+                  )
+          )
+          ) AVG_PRICE,
+       A.AVG_CLOUD,
+       A.TOT_SOLAR,
+       A.TOT_DYL_TM,
+       A.WND_DRCTN,
+       A.AVG_WND_SPD,
+       A.DAY_PRE,
+       A.AVG_TMPRT,
+       A.MIN_TMPRT,
+       A.MAX_TMPRT,
+       A.DAILY_TMPRT,
+       A.AVG_HUMID,
+       A.TOT_DYL_HR,
+       A.AVG_GTMPRT,
+       A.PM2,
+       A.PM10,
+       A.NTRGN_DXD,
+       A.OZON,
+       A.CRBN_MNXD,
+       A.SLFR_DXD
+FROM   (SELECT  MEA_DATE,
+                SIDO2,
+                ROUND(AVG(AVG_TMPRT), 1) AVG_TMPRT,
+                ROUND(SUM(DAY_PRE), 1) DAY_PRE,
+                ROUND(AVG(AVG_WND_SPD), 1) AVG_WND_SPD,
+                ROUND(AVG(WND_DRCTN), 1) WND_DRCTN,
+                ROUND(SUM(TOT_DYL_TM), 1) TOT_DYL_TM,
+                ROUND(SUM(TOT_SOLAR), 1) TOT_SOLAR,
+                ROUND(SUM(AVG_CLOUD), 1) AVG_CLOUD,
+                ROUND(AVG(MIN_TMPRT), 1) MIN_TMPRT,
+                ROUND(AVG(MAX_TMPRT), 1) MAX_TMPRT,
+                ROUND(AVG(DAILY_TMPRT), 1) DAILY_TMPRT,
+                ROUND(AVG(AVG_HUMID), 1) AVG_HUMID,
+                ROUND(SUM(TOT_DYL_HR), 1) TOT_DYL_HR,
+                ROUND(AVG(AVG_GTMPRT), 1) AVG_GTMPRT,
+                ROUND(AVG(SLFR_DXD), 3) SLFR_DXD,
+                ROUND(AVG(CRBN_MNXD), 1) CRBN_MNXD,
+                ROUND(AVG(OZON), 3) OZON,
+                ROUND(AVG(NTRGN_DXD), 3) NTRGN_DXD,
+                ROUND(AVG(PARTICLE_MATTER_10), 0) PM10,
+                ROUND(AVG(PARTICLE_MATTER_2), 0) PM2
+       FROM     ( SELECT A.MEA_DATE,
+                        A.SIDO2,
+                        B.AVG_TMPRT,
+                        B.DAY_PRE,
+                        B.AVG_WND_SPD,
+                        B.WND_DRCTN,
+                        B.TOT_DYL_TM,
+                        B.TOT_SOLAR,
+                        B.AVG_CLOUD,
+                        B.MIN_TMPRT,
+                        B.MAX_TMPRT,
+                        B.DAILY_TMPRT,
+                        B.AVG_HUMID,
+                        B.TOT_DYL_HR,
+                        B.AVG_GTMPRT,
+                        B.SLFR_DXD,
+                        B.CRBN_MNXD,
+                        B.OZON,
+                        B.NTRGN_DXD,
+                        B.PARTICLE_MATTER_10,
+                        B.PARTICLE_MATTER_2
+                FROM    (SELECT MEA_DATE,
+                                (TO_DATE(MEA_DATE, 'YYYY-MM-DD') - 30) PREV_MONTH,
+                                (TO_DATE(MEA_DATE, 'YYYY-MM-DD') - 5) PREV_DAY,
+                                AREA SIDO2
+                        FROM    WEATHER_DATA
+                        WHERE   AREA        = '부산'
+                        AND     MEA_DATE LIKE '2010%'
+                        )
+                        A,
+                        (SELECT A.AREA,
+                                A.MEA_DATE,
+                                A.AVG_TMPRT,
+                                A.DAY_PRE,
+                                A.AVG_WND_SPD,
+                                A.WND_DRCTN,
+                                A.TOT_DYL_TM,
+                                A.TOT_SOLAR,
+                                A.AVG_CLOUD,
+                                A.MIN_TMPRT,
+                                A.MAX_TMPRT,
+                                A.DAILY_TMPRT,
+                                A.AVG_HUMID,
+                                A.TOT_DYL_HR,
+                                A.AVG_GTMPRT,
+                                B.SLFR_DXD,
+                                B.CRBN_MNXD,
+                                B.OZON,
+                                B.NTRGN_DXD,
+                                B.PARTICLE_MATTER_10,
+                                B.PARTICLE_MATTER_2
+                        FROM    WEATHER_DATA A,
+                                FINE_DUST B
+                        WHERE   A.AREA     = B.SIDO
+                        AND     A.MEA_DATE = B.MEASURE_DATE
+                        )
+                        B
+                WHERE   A.SIDO2 = B.AREA
+                AND     TO_DATE(B.MEA_DATE, 'YYYY-MM-DD') BETWEEN A.PREV_MONTH AND     A.PREV_DAY
+                )
+       GROUP BY MEA_DATE,
+                SIDO2
+       ORDER BY MEA_DATE
+       ) A,
+			 AGRICULTURE_SO B
+       
+WHERE  A.MEA_DATE  = B.TRADE_DATE(+)
+AND    A.SIDO2  = B.PLACE_NAME(+)
+
+
+
+```
+
 # UPDATE
 ```SQL
 UPDATE WEATHER_2014 A
