@@ -1,4 +1,6 @@
 # 원어민
+* 어른들도 이거 탈 수있나? Do you know if grown-ups can ride this?
+* in my case -> i think; i believe; in my case는 의료 case 말하는 느낌
 * 여름 동안 피부 진짜 까매졌어; My face got really tan over the summer
 * 다리찢기; The splits
 * 얼굴 좋아졌다; Her face looks radiant/vibrant [ˈreɪdiənt] 
