@@ -1,4 +1,9 @@
 # 원어민
+* 오리지널; OG였다; JaeHa Yoo is the OG korean ballad artist
+* 이 영상의 예산이 얼마나 되나요? What's the budget for this video?
+* 여기 룸 -호인데요; Hi. it's room twenty one zero five
+* 모닝콜 해주세요; I'd like a wake-up call at 7
+* TT; 오줌마렵다
 * 굉장히 지저분해 보였어; it looked really dirty; 몇 달은 못 씻은것처럼 보였어; It looked like it hadn't washed(절)
  * 보나보나 주인도 없는 개였는데; It was pretty clear it didn't have an owner
 * 나쁜 손님;  black consumer: 흑인 비하; i had some bad customers today; deal with horrible/bad/rude/disrepectful customers
