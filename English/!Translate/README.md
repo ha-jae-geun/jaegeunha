@@ -4,7 +4,7 @@
 * 너 입에서 카레냄새나; you have curry breath
 * 눈이 높다; He's got such high standards
 * 관심에 감사드립니다; Thank you for your attention/interest
-*& 벽에 사물이 붙어있따; be hianging; be hung; be suspended; bemounted
+* & 벽에 사물이 붙어있따; be hianging; be hung; be suspended; bemounted
 * 걷다; walking; strolling along a body of water
 * 오리지널; OG였다; JaeHa Yoo is the OG korean ballad artist
 * 이 영상의 예산이 얼마나 되나요? What's the budget for this video?
@@ -35,6 +35,57 @@
 * 당신의 계좌에서 돈이 인출되었습니다; The money was debited from your account
 * 결과만 전달; eventually, end up; finally: 드디어
 * 나는 무슨 일이 발생했다는 걸 알아채기 시작했다; I started to register that something had happened
+
+# [ 영어 발음 Tip ] tree / drone / strong
+* try (츠롸이) / trash (츠뢰쉬) / tree (츠뤼) / drone (즈로운) / dry (즈롸이) / strong (스쯔롱) / street (스쯔륏t) / stress (스쯔뢰s) 
+
+# [ 영어 연습가이드 - Hardcore ] A Big Disadvantage Of Being A Woman
+* "남자로서 가지게 되는 꽤 큰 장점 중 하나는 밤 늦게까지, 혹은 그냥 밤 늦게 밖에 있는 것에 대해서 상대적으로 걱정하지 않아도 된다는 것인데 One pretty big advantage of being a guy is not having to worry as much about staying out late at night, or just generally being out late at night and
+* 우리 남자들에게는 자주 드는 그런 생각이 아닌 것 같아요, 너무 일상적인 일이니까요. I think this is something that doesn't occur to us guys very often simply because it's such a routine thing
+* 저는 솔직히 이거에 대해서 처음 듣고 좀 충격이었고 실망스러웠어요 - (But) I was honestly kind of shocked and somewhat disappointed when I first heard about this
+* 여자들이 단순히 밤 늦게 길을 걷는 것만으로 얼마나 큰 두려움과 불안감을 느끼는지에 대해서요." , about how much fear and anxiety that women actually go through just(simply) for walking down the street late at night."
+* occur to-
+* about this about; 어떤 이야기에 대해 구체적으로 2번 이야기 하는것 회화에서 유용
+
+# "잘 모른다"를 영어로 표현하는 3가지의 기본 유형 [ 기초영어회화 ]
+-종교 있어? Is she religious?
+-몰라 I'm not sure; 사실 여부에 대해 확실하지 않은 상태
+-우리 아직 서로 잘 몰라; We don't know each other very well yet.
+-내가 아는건 All I know is that~.
+-나도 그거 잘 몰라 I don't know much about that either; 
+ * 정보, 지식의 부족; 부정문일때는 a lot 보다는 much 사용
+-Like I said,
+
+# left - 시간이 조금 남았다 / 돈이 많이 안남았다 [ 기초영어회화 ]
+선생님 예문
+ * I have some time left.
+  * I don't have any time left.
+ * I have a lot of time left.
+ * I don't have a lot of time left. 
+ * There aren't any tickets left.
+ * There aren't any people left.
+ * There are some tickets left.
+ * There aren't many people left there.
+* i have some money left; i don;t have any money left
+
+# [ 영어회화 연습가이드 - HARDCORE ] - The Most Powerful Force of Nature
+* Technology has made our lives so convenient, hasn’t it?
+* And I’m sure we’ve all heard about the horrible side effects that It’s causing.
+* 근데 저는 개인적으로 그것들을 성장통이라고 생각해요 But, personally, I like to think of them as growing pains.
+* 하지만, 걱정이 되는 부분이 한 가지 있긴 해요.However, there is one thing that concerns me.
+*  기술력은 우리의 일상업무를 최대한 빠르게 처리할 수 있게 해줌으로써, 고로 더 효율적으로 해줌으로써 우리는 돕는 부분이 커요. Much of how technology is helping us is by making our daily tasks as instantaneous as possible and therefore more efficient.
+* So, why is that bad?
+*  그게요, 모든 것이 즉각적으로 일어나길 기대하는 습관을 기른 것 같아요. Well, I feel that we have grown a habit of expecting things to happen immediately.
+* The faster the better, right?
+* Now, I’d like to remind you about one of the most powerful forces of nature,
+* 마침 그게 우리 손 안에 있는 것이기도 한거예요. Which we all happen to have at our disposal.
+* There’s no denying that if you could maintain the discipline of consistent effort over time, you could get and achieve pretty much anything you want in life. 
+* I;m not saying it’s easy, it’s really hard to master this discipline. 
+* But the reward is so great that it’s crazy not to try.
+* I suggest that you start with something small that you can do every single day like drinking 2.5 liters of water or memorizing one difficult English sentence a day.
+* Oh, and if you feeling a little skeptical about this cumulative effective thing, just try eating a bag of potato chips every single night for a month and see what happens to you.
+
+기술력은 우리의 삶을 아주 편하게 해줬어요, 그렇죠? 그리고 그것이 끼치는 끔찍한 부작용에 대해서도 다들 많이 들어봤을거예요. .  그러면 그게 왜 나쁜걸까요? 자 그러면, 자연이 지닌 가장 강력한 힘 중 하나에 대해서 상기시켜드리고 싶은데,  누적효과. 꾸준한 노력을 시간에 걸쳐 하기 위한 자기통제력을 유지할 수만 있다면 세상에 원하는 그 어떤 것도 얻을 수 있고 해낼 수 있을거라는 것은 부인할 수 없는 사실이에요. 이게 쉽다는 얘기는 아니에요, 이런 자기통제력을 마스터하는 것은 상당히 어려워요. 하지만 그것의 보상은 너무 크기 때문에 시도조차 하지 않는 것은 미친 짓이에요. 매일 할 수 있는 작은 것부터 시작하는 것을 추천해요. 예를들어, 하루에 2.5리터의 물을 마신다거나 어려운 영어 문장 하나씩 외운다거나..아, 그리고 이 누적효과에 대해서 좀 의심이 든다고 느껴지면 감자칩 한 봉지를 매일 밤 한 달 동안 먹어보세요, 어떻게 되나.
 
 # 직업에 대해서 묻고 답하기 - PART 1 [ 영어회화 ]
 * A:What kind of work do you do? 
