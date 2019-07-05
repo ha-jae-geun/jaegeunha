@@ -1,4 +1,11 @@
 # 원어민
+* 넌 너무 자의식이 강해; YOu're uptight
+* 목소리 줄여줘: Keep it down; 아예 조용히해: be quiet
+* 너 입에서 카레냄새나; you have curry breath
+* 눈이 높다; He's got such high standards
+* 관심에 감사드립니다; Thank you for your attention/interest
+*& 벽에 사물이 붙어있따; be hianging; be hung; be suspended; bemounted
+* 걷다; walking; strolling along a body of water
 * 오리지널; OG였다; JaeHa Yoo is the OG korean ballad artist
 * 이 영상의 예산이 얼마나 되나요? What's the budget for this video?
 * 여기 룸 -호인데요; Hi. it's room twenty one zero five
