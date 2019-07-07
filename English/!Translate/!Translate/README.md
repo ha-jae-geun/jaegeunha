@@ -1,7 +1,13 @@
 # 원어민
+* 사실은; But deep down,
+* 그렇군요. 그럼 하나 둘 셋 하면 찍을게요. Okay. I'll count to three and press it.
+* 모이세요. 다 안 나와요. Get closer together. You're not fitting in to the photo.
+* shortly; 곧; 미래시제와 함께 쓰임
 * factory = plant, manufacturing facility
 * r\production line = assembly line
 * Printer; machine; an item
+* 좌석을 뒤로 눕혀도 될까요? May I recline my seat?
+* 기내식은 언제 나오나요? When is the in-flight meal served?
 * 맡아두다, 챙겨두다; Set aside
 * reception, banquet, party, ceremony: 상위어: event
 * 평서문의 정답 표현 알기
