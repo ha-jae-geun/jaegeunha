@@ -1,4 +1,6 @@
 # 원어민
+
+
 * 돈 때문에 여자친구를 착취하다; milk A for B; YOu milk your girlfriend for money
 * 딴 소리 하잖아; be on his own page >< be on the same page
 * 일반적인 순진한; innocent; 세상 물정 모르고 사람들에게 이용당할 ㅓㅂ한 사람; naive
