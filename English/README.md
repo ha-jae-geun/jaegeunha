@@ -1,11 +1,3 @@
-# 영어 IT
-* https://techcrunch.com/
-* https://www.techworm.net/
-* https://www.theverge.com/
-* https://www.wired.com/
-* https://www.engadget.com/
-* https://gigaom.com/
-
 # 토익
 * https://www.hackers.co.kr/?c=s_toeic/toeic_study/dlc&front=dailytoeic&category=LC&uid=5624
 * https://www.hackers.co.kr/?c=s_speak/speak_special/936
