@@ -51,6 +51,7 @@
 * 돌핀 https://m.blog.naver.com/PostList.nhn?blogId=frost9001
 * 어학당 추가 하기
 * 타이핑
+* 테크 크런치 https://techcrunch.com/
 
 # 화 0521
 * 슈퍼맨 https://superfan.link/pc
@@ -69,6 +70,7 @@
 * 채원과영어 https://m.blog.naver.com/PostList.nhn?blogId=learnwithchaewon
 * 어학당 추가 하기
 * 타이핑
+* 테크웜; https://www.techworm.net/
 
 # 수 0522
 * 슈퍼맨 https://superfan.link/pc
@@ -87,6 +89,7 @@
 * 쎄쎄쎄 https://m.blog.naver.com/PostList.nhn?blogId=cedubook
 * 어학당 추가 하기
 * 타이핑
+* 더벌지; https://www.theverge.com/
 
 # 목 0523
 * 슈퍼맨 https://superfan.link/pc
@@ -109,6 +112,7 @@
 * Sunny https://m.blog.naver.com/PostList.nhn?blogId=pureriver777
 * 어학당 추가 하기
 * 타이핑
+* 인가젯 https://www.engadget.com/
 
 # 금 0524
 * 슈퍼맨 https://superfan.link/pc
@@ -130,6 +134,7 @@
 * 넥서스 공시미; https://blog.naver.com/0simiii
 * 어학당 추가 하기
 * 타이핑
+* 와이어드 https://www.wired.com/
 
 # 토 0525
 * 슈퍼맨 https://superfan.link/pc
@@ -152,6 +157,7 @@
 * 김일승 https://m.blog.naver.com/PostList.nhn?blogId=kishyun
 * 어학당 추가 하기
 * 타이핑
+* 지디넷 https://www.techrepublic.com/
 
 # 일 0526
 * 슈퍼맨 https://superfan.link/pc
@@ -174,7 +180,7 @@
 *  야나두 https://blog.naver.com/yanadooblog/221323042575
 * 어학당 추가 하기
 * 타이핑
-
+* 테크 크런치 https://techcrunch.com/
 
 ------------
 
