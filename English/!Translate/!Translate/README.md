@@ -100,3 +100,250 @@
 * 저는 잘 지내요; i am fabulous
 * 한국에서 한 평생 살았어요; i've been living my entire life in korea
 * 도저히 적응할 수가 없어; i jst can't get used to this heat
+* 버텨요; resist!
+ * 사과 받을게; apology accepted
+ * 금테요; looking for gold wire rim frames 뿔테요; black horn rimmed sunglasses 얼굴에 맞는걸로 추천해주세요; can you recommend that fits my face shape
+ * 안경다리좀 맞춰주세요; can you adjust (my/the) earpieces?
+ * 더 잘 조절해주세요; can you better adjust the earpieces to my ears?
+ * 코받침좀 낮춰주세요; can you lower the nose pads?
+ * 저는 눈치챘었어요; i could tell
+ * 그분이랑 함께 기도도 했고; we paryed with him
+ * 저 휠체어를 타고 있어요; i'm in a wheelchair
+ * 저 목발짚고 다녀요; i'm on crutches
+ * 어떤 말을 하기에 앞서 뜸을 들이면서 하는 말입니다. '있잖아, 그게 말이야, 그게 있죠...'하는 식의 말투, 다들 아시죠? Here's the thing
+ * 그들은 사람이 동물의 형태로 환생한다고 믿는다. [also V]; They believe humans are reincarnated in animal form.
+ * 흠집이 있습니까? do you see any dents>
+ * 비용을 공제받다; receive deductions
+ * 2차 면접; they want me to come back for a second interview
+ * 동안이다; he bears his age wonderfully well
+ * 회사를 나오다; leave / resign from a company
+ * 퇴직금; severance pay 미국식 영국식 단어장추가
+ * 머리가 훌렁 벗겨진; he started going bald as an egg
+ * 키가 작은; be vertically challenged
+ * 너무 뻔뻔해; he has cool cheek
+ * 이제와서 꽁무니 뺴지마; don't chicken out
+ * 예쁜 아가씨네; she is a chicken
+ * 뭐 힘든 일ㅇ ㅣㅆ어? What's eating you
+ * 풋내기; he has milk on his chin
+ * 응원하는 말; pep talk
+ * 해외직구하다; cross-border shopping
+ * 사기다; be full of fraud
+ * 사래걸리다; went down the wrong pipe
+ * 생리; menstruation; [ˌmenstruˈeɪʃn]; 생리하다; have one's period; 생리주기: menstrual cycle; 통: cramp
+ * 동상걸리다; if you don't want to get frostbite
+ * 수다를 ㄸㄹ다; i usually shoot the breeze at the
+ * 그 맥주는 체코 공화국에서 양조된 것이다.; [VN] The beer is brewed in the Czech Republic.
+ * 수면 부족이야; i'm sleep-deprived
+ * 손 위로 올려; Put your hands in the air
+ * 줄리와 마크, (나이는) 각각 17세와 19세; Julie and Mark, aged 17 and 19 respectively
+ * weaning food; [명사] 이유; [wiːn]
+ * (바구니같이 생긴) 아기 침대; bassinet 미국식 [ˌbæsɪˈnet]
+ *  * 경찰차 3대가 추적중이다; We got three cars in pursuit
+ *  * 나는 약속은 꼭 지키니까; i am a man of my word
+ *  * 연기는 그만해; Drop the act
+ *  * 누가 일렁써: Who cracked
+ *  * 1분당 100회 속도로 압박해야 합니다; we need to pump at a pace of 100 beats per minute
+ *  * 장기 기증 카드가 있나본대; Check for an organ donor card
+ *  * 그 건은 아직 성사시키지 못했어; I didn't close that one yet
+ *  * 자책골; score an own goal
+ *  * Magic words; 1. 주문 2, 애기들에게 이쁜말 하는 것
+ *  * 나 근육 뭉쳤어; i have a knot in my shoulder
+ *  * 면세 허용치는 어떻게 되나요? What's the duty-free allowance
+ *  * 저울 위에 올려주세요; put them on the scale
+ *  * 관심을 가져가다 ; you really stole the show yesterday
+ *  * 2017년도 다 지나간쎄; there goes 2017
+ *  * 한 주만 있으면 2018년이네; 2018 is only a week away
+ *  * 기말고사 끝; i'm done with my finals
+ *  * 제가 의자 뺴 드릴게요; let me pull out the chair for you
+ * 유학생이에요; i am an international students
+ * 핸드폰을 개통하고 싶어요; i like to register my mobile phone
+ * 그 칸은 장애인 화장실이었어요; it had a disabled sign on it
+ * 향수병 ㄱㄹ리다; be homesick
+ * 꿈 깨; Dream on
+ * 나한테 귀띔을 해줬어; she tipped me off
+ * 다리 쥐나다; have leg cramps
+ * 와이파이가 안좋아요; you have bad Wi-Fi here
+ * 화해하다; bury the hatchet with someone / patched things up with someone
+ * 떨어지다; fall by degrees; drop to 21 degrees
+ * 구름 한점 없네; there's not a single could
+ * 가위 눌림; sleep paralysis
+ * 도수가 낮다; which one has #less alchol
+ * 스타덤에 올랐어; she found stardom = she has become famous
+ * 매일 every single day, #day in and day out #on a daily basis
+ * 차량 조회; run a #tag / #license plate
+ * 담당 의사에요; i'm on call today
+ * 살 꽉찬거 봐; look how meaty that is ; hot much meat there is
+ * 입가심해; wash it down
+ * 19금 영화; atch an r-rated movie
+ * 주전부리야; it's just finger food
+ * 전 세계 유도 챔피언입니다; ~ is a #former world judo champion
+ * 스크롤을 내리다; i will be scrolling through
+ * 하나도 안까도뤄; i'm super low-maintenance <> high-maintenance
+ * 그냥 차액만 지불하면 돼; you just have to pay the difference
+ * 중계자야; i'm like a match maker
+ * 물 still water
+ * 불화를 야기하지마; don't rock the boat
+ * 내가 대신 자리를 돌볼게; i'll hold down the fort
+ * 잘 생각해봐; do the math
+ * 네가 잘하는지 확인하고 싶었어; i wanted to check on you
+ * 바로 그 자세야; that's the spirit;
+ * 아몬드 1인분은 160 칼로리이다; a serving of almonds has 160 calories
+ * 무슨 꿍꿍이야? What's the catch
+ * 식곤증에 빠지다; i'm slipping into food foma
+ * 미끼야; it's stool pigeon
+ * 스타킹 기스가 나다; i got a run in my stockings
+ * 뇌 속에 정전기 난 것 같아; It's like static in my head
+ * 전 호락호락하지 않아요; i'm not a pushover
+ * 취업 준비중이에요; i'm putting together my portfolio; i'm job hunting; i'm looking for work / a work;
+ * 전기 충격; Stat! = statics clear
+ * 눈치 채다; feel/sense sth quickly = take a hint quickly
+ * 최근에 임시 면허를 땄어요; just got her learner's permit
+ * 얼음팩 가지고 왔어; i got Boo-Boo bear from the freezer
+ * 벽에 머리를 부딪히거나 한 적ㅇ ㅣㅆ어? Smack their heads into a wall
+ * 너의 오만으로 인해 죽었어; my daughter is gone because of your arrogance
+ * 손잡고 걸어다녔어; we walked on the beach hand in hand
+ * 과속해서 6만원 벌금 나왔어.; "I was fined 60,000KRW for speeding."
+ * 현장 경험ㅇ르 쌓아야해; i need to get some field experiences
+ * 결혼식 아기; flower girl; i was a 3-time ring bearer
+ * 자신감을 흔들 지 몰라; shake one's confidence
+ * 자존감을 낮추다; we lower her self-exteem
+ * 심해 잠수부였지; i was a deep sea diver
+ * 해장술이지; Hair og the dog
+ * 안좋은 일은 계속 일어난다; When it rains, it pours
+ * 세계 신기록을 경신하다; : Lee broke the 5000m speed skating world record!
+ * “편애”를 영어로? (play favorites)
+ * 잘 적응하고 있어요 (be adapting well)
+ * 현실로 돌아올 때야.; It’s time to come down to earth.
+ * (저는 매운 한국음식을 먹으며 자랐어요.); I was raised on spicy Korean food.
+ * 중앙차선 침범 (cross the center lane)
+ * 대리운전; You'd better call a paid designated driver.
+ * "피임 중이다"를 영어로?▶ on the pill
+ * "삐져나온 머리카락"을 영어로?▶stray hair
+ * "짝없는 양말"을 영어로?▶ stray sock
+ * "외람된 말씀이지만"을 영어로?▶ with all due respect
+ * 꿈이 있다; I have a dream that
+ * 깜빡이 안키면; ifyou don't use a signal
+ * 거수로 하자; 이거 할 사람? Show of hands. Who's up for this?
+ * 나는 서울을 우리집처럼 상세히 알고 있어요.; I know Seoul like the back of my hand.
+ * 머리가 듬성하고 곱슬; his hair was spare and frizzy
+ * 강도를 당했어요.I was mugged.
+ * 도난 신고를 하고 싶은데요.; I'd like to report a theft.
+ * 점을 빼다; I had some beauty marks removed last year as well like you. Have a good day !!!﻿; mole: 사마귀; birth mark; spots:
+ * 우린 호흡이 잘 맞았어; we had a good run
+ * 넌 날 기도하게 만들어; you've got me praying
+ * 내 경험상; Based on my experience~
+ * 관세를 물다; to impose tariffs on Samsung ˈtærɪf
+ * 종이 벗기는거 잊지 마세요; don't forget to take the paper off
+ * 저한텐 간식이 있어요; i have treats
+ * 멀티탭 사야겠어; i have to get a power strip 동양철학으로의 초대
+ * 뇌사 상태에 빠지다; have brain death 동양철학으로의 초대
+ * 설화; tale; (우화) fable 동양철학으로의 초대
+ * 인간은 이성적인 동물이다; Man is a rational animal; reasonable 동양철학으로의 초대
+ * 시행착오를 겪다; undergo trial and error 동양철학으로의 초대
+ * (~와 함께 하다) [동사] accompany, go (in company) with, be accompanied by 동양철학으로의 초대
+ * 여지; 의심의 여지가 없다; leave no room[place] for doubt; 비난의 여지가 없다; be above[beyond] reproach; Is there any room left for further negotiation? 동양철학으로의 초대
+ * 냉정하다; 냉정을 유지하다; keep[remain; stay] cool; a cold-hearted[an unfeeling] person 동양철학으로의 초대
+ * 대세를 따르다; go with the flow; go against the general trend 동양철학으로의 초대
+ * 크게 벗어나다; far from; way off from 동양철학으로의 초대
+ * 해소하다; This reorganization helps us do that; There are many ways to relieve stress. 동양철학으로의 초대
+ * 사후세계; an afterlife; the other side; the world after death 동양철학으로의 초대
+ * 중시하다; lay[put] stress on, put[place] emphasis on, regard[consider, look upon] sth as important; be more concerned with the process than the result 동양철학으로의 초대
+ * 본격적으로; he work on the house will begin in earnest on Monday.; Begin for real?; Officially. 동양철학으로의 초대
+ * 공감하다; sympathy, [동사] sympathize (with), identify (with); She can relate to. / agree / Shared! 동양철학으로의 초대
+ * 기체, 고체; Air is composed of various gases; change from a liquid (in)to a solid (state) 동양철학으로의 초대
+ * 들판을 걷다; walking in the huge field of Teotihuacan; he walked around the fields of Barbizon for inspiration; walking these fields; walked on the field 동양철학으로의 초대
+ * 유교, 불교, 도교가 그것들이다. They are Confucianism, Buddhism, and Taoism. [kənˈfjuːʃən]; [ˈbʊdɪzəm]; [ˈdaʊɪzəm;ˈtaʊ-] 동양철학으로의 초대
+ * 씨를 뿌리다; sow seeds in a field 동양철학으로의 초대
+ * 옆모습; a profile, a face in profile, a side face; a face in profile 동양철학으로의 초대
+ * 멘붕; but also overwhelmed; MTBD; My mind is just completely blown; I don't want him causing a panic; I hear you had a meltdown today. 동양철학으로의 초대
+ * 신생아; newborn baby, newborn infant 동양철학으로의 초대
+ * 폐해; harmful effect, harmful consequences; prevent harmful effect from taking place 동양철학으로의 초대
+ * 공존; peaceful coexistence; Are peace and freedom able to coexist in the modern world? 동양철학으로의 초대
+ * 속박; be subject to restraint 동양철학으로의 초대
+ * 반성하다; self-reflection, self-examination, introspection, [동사] reflect (on); Reflect on yourself about your mistake. 동양철학으로의 초대
+ * 거미줄; web, cobweb, (Am) spiderweb, (Brit) spider's web; 거미줄을 치다; spin a web 동양철학으로의 초대
+ * 세계관; a view of the world; My world is getting smaller and smaller. 동양철학으로의 초대
+ * 정체성; 정체성의 혼란을 겪다; suffer an identity crisis; be confused about one's identity; sense of identity 동양철학으로의 초대
+ * 말하자면; so to speak, as it were; as it were; in other words - 동양철학으로의 초대
+ * "I'm making some cushions."라고 하면 본인이 직접 쿠션을 만들고 있다는 뜻입니다. [get/have + 목적어 + 동사-ed] 패턴을 쓰면 "다른 사람으로 하여금 ~하게 한다"라는 뜻으로 바꾸어 줄 수 있어요. 즉 "I'm having/getting some cushions made."는 본인이 직접 쿠션을 만드는 게 아니고, 어딘가에 주문해서 쿠션을 제작한다는 뜻이 됩니다.
+ * 꼭대기 층 부탁해; Top floor, please
+ * 셋을 세고 하는가야 On three
+ * 드라이브하러가다; go for a spin
+ * 처방전 받은 렌즈 사고싶어요; i'd like to get a pair of prescription lenses
+ * 아직 해결 안도ㅒㅆ다; have yet to be resolved
+ * 넌 끝났어; you're toast; 보스베이비
+ * 넌 끝났어; you're toast; 보스베이비
+ * 신진대사도 느려요; very slow metabolism
+ * 초능력이 있다; ~ have a special power
+ * 혈액순환이 이렇게 잘된적 엇ㅂ서; my circulation has never been better
+ * 업ㅇ서지다; ) disappear, be missing, be gone, be lost; has disappeared.; the scar dies away
+ * 사이 좋았죠; we were on good terms이를 갈다; grate one's teeth
+ * 악감정은 없어요; no hard feelings
+ * 승부욕은 강하지만; i am competitive
+ * 모두에게 경계를 세워놨어; i have boundaries for everyone
+ * 난 길을 닦아왔어; you've paved the way
+ * 상항 끝부분만 자르세요;; Just cut the daed ents
+ * 머리 길이는 유지하는데 층은 내주세요; i wnat length and i want layers
+ * 카메라 팀 들어오세요; camera crew in
+ * 모두 바닥에 업드려; everybody down on the ground
+ * 스토킹하면서; i enjoy staling through people's photoes
+ * 광견병 주사 맞을 거에요; she gets some like rabies shots; [ˈreɪbiːz]
+ * 그제서야 눈을 뜬 거죠; i had my eyes opened
+ * 양갈래 머리할거에요; i'm doing pigtails today
+ * 머리끈 좀 빌려줄 수 있어? do you have a hair tie i can borrow?
+ * 너 앞머리 갈라졌어; your bangs wer parted
+ * 하위시스템이 엄청 많아; there's a ton of other subsystems in here
+ * 묵비권 행사할게요; i plead the fifth
+ * 제일 적게 흔들리느 이빨이었는데; it used to be my least wiggliest tooth
+ * 이빨 빠졌어요!; a tooth fell out!
+ * 물어오기 놀이; play fetch
+ * 액체류 비행기에 못가져가요; you cant take liquids on the plane
+ * 되게 직설적이ㅅ시네요; very forward
+ * 너 날 떠나보냈어; you bailed on me
+ * 깍두기 같은 거였어요; he was like a third wheel
+ * 대학교 수업계획서; graduate syllabus [ˈsɪləbəs]
+ * 항생제 먹었어요; i was on antibiotics for months
+ * 월급이 오르면서; he got a raise
+ * 내 첫 월급이야; my first paycheck'
+ * 저는 직무 경력이 많습니다; i've done a lot of work experience
+ * 연극 경험이 있습니다; i have a background in theater
+ * 가석방은 특권이다; parole is a privilege; pəˈroʊl]
+ * 속편이 나와으면 좋겠어요; i hope there's a sequel; [ˈsiːkwəl]
+ * 심장이 두근거려; my heart is racing
+ * 아내한테 점수땄어요; you have won so many brownie points with my wife
+ * 기적이 일어난다면; if you can work some miracles
+ * 나 바빠; my hands are full
+ * 라고 설득했어; he talked me into =ing there
+ * 그게 친구지; that's what friends for
+ * 회사에서 소외감을 느끼는 것 같아; i think i'm feeling a little left out at work
+ * 대세야; be all the rage
+ * 스레기 막 버리는 사람; litterbug
+ * 최고, 최악; take the cake; this burger takes this cake among all the street food that i've tried - 날라리데이베ㅡ
+ * 입소문이 커지다; the word of mouth start snowballing into more and more prospects
+ * 좋았던 적도 있고 나빴던 적도 있어요; i've had my ups and downs
+ * 한 문제 틀렸어요; i got one wrong
+ * 마약 거래가 벌어지고 있잖아; there's a drug deal going down
+ * 대역 돌려보내세요; Send the replacement home
+ * 마이크를 저에게 주시네요; he passed the microphone to me
+ * 저도요!; Likewise!
+ * 일로 던져줘; toss it over here!
+ * 임신한 배를 보이다; show off the bump
+ * 솔직히 말할게; i'll level with you
+ * 프랜드존 당했어요; you got friend zoned
+ * 2층 침대 다 설치했고; bunk bed set up
+ * 정상에 도착했어요; we made it to Summit Peak
+ * 소독제; antiseptic 미국·영국 [ˌæntiˈseptɪk]
+ * 피를 맑게해요; this does thin the blood
+ * 머리카락을 쓸어내리고; i want to run my fingers through your hair
+ * 전율 돋게해; send shivers down my spine
+ * 눈을 멍들게하다; give someone a black eye
+ * 어깨가 넓고; you're really big in the shoulders
+ * 왜 물ㅇ 안내렸어; why didn't yoo flush?
+ * 척 하지마; Stop fronting
+ * 예상 밖이네요; that's random
+ * 사진광이다; he's a real shutterbug
+ * 추석 당일은 사실 10월 4일이에요; Chuseok really falls on October 4th
+ * 국물을 졸여서 나온다; the broth is reduced down
+ * 내가 주의를 돌릴게. ; I'll distract him.
+
+
