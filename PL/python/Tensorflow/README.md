@@ -1,3 +1,21 @@
+# 설치
+1. ① 파이썬 버전 확인
+⎼ tensorflow 라이브러리는 현재 파이썬 3.6 버전이하에서만 지원하고 있다.
+- (base) C:\Windows\system32> python --version
+
+2. ② 가상환경 생성
+⎼ tensorflow라는 이름으로 파이썬 3.6 버전을 사용하는 가상환경을 생성한다.
+- (base) C:\Windows\system32> conda create -n tensorflow python=3.6
+
+3. ③ 가상환경 활성화
+⎼ 생성된 tensorflow 가상환경을 활성화한다.
+- (base) C:\Windows\system32> conda activate tensorflow
+
+4. ④ tensorflow 설치
+⎼ pip 패키지 관리도구를 설치한다.
+- (base) C:\Windows\system32> pip install tensorflow
+⎼ 기존에 설치가 되어있으면 pip install --ignore-installed --upgrade tensorflow 라고
+
 ```python
 import tensorflow as tf
 import numpy as np
