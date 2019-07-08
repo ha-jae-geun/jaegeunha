@@ -1,6 +1,13 @@
 # 원어민
 
-
+* 커피 케이크는 데워서 준비해드릴까요? Did you want the coffee cake warmed up?
+* 사실대로 말씀드릴게요; i'll be blunt
+* 지금 성수기야; - is high(<>low) season; - is in season; not in season; is out of season
+* 그녀는 맞장구를 쳤다; She chimed in  [tʃaɪm] 
+ * 한 번쯤은 맞장구쳐 주는게 좋을 것 같아요; i might as well play along for once
+* 셀리가 주도권을 쥐고있어; wear the pants/trousers
+* 205국가중 12등에 위치 SOuth korea ranked 12th out of 205 countries
+* 유력하지 않아요? Won't it be best for you?; will be the winner; promising member
 * 돈 때문에 여자친구를 착취하다; milk A for B; YOu milk your girlfriend for money
 * 딴 소리 하잖아; be on his own page >< be on the same page
 * 일반적인 순진한; innocent; 세상 물정 모르고 사람들에게 이용당할 ㅓㅂ한 사람; naive
