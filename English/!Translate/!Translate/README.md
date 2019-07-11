@@ -1,5 +1,29 @@
 # 원어민
 
+* 건망증이 심하다; he has become more forgetful; have a bad memory
+* 체크무늬 옷; flannel shirts; plaid shirts
+* 왔다갔다하는데 얼마나 걸려요? How long would it take to get there and back?
+* 나를 긴장하게 만든다; keep me on my toes
+* 기분전환이 필요해; we need to unwind
+* 빠짐없이 매주 머해? How do you do this each and evey week without fail?
+* 썰렁하네; sounds corny
+* A는 C만큼 B에 영향을 준다; A can have just as much impact on B as C
+* 저 그렇게 높겐 노래 못 불러요; i can't sing that high
+* 정원용품은 어디서 사요? Where can i buy some garden supplies?
+* 방충제가 필요해요; i need a insect repellent  [rɪˈpelənt] 
+* 수염; whiskers; 동물들의 코 옆으로 난 수염; 사람에겐 잘 안쓰이지만 단독으로 쓰일 경우 사람의 얼굴에 나느 짧은 털들(턱, 뺨)
+* 할머니께 인사 잘해; Say hi nicely to grandma
+* 온도가 39도에 달했다; The city's temperature hit 39 degrees
+* 허수아비좀 봐; Look at that scarecrow
+* 우릴 이끌 사람은 너 밖에 없어; You are the only person to head us up
+* 난 종종 곯아떨어져; i often doze off
+* 예외를  만들어주지마; Don't make an exception for your friends
+* 최저시급; minimum hourly wage
+* 결혼했어요; i am married; be married: 결혼 상태
+ * was married; 과거에 결혼했다;
+ * get married; 언제/어디서 결혼을 하다(식을 올리ㄷ); 2년전에 결혼했어; She got married 2 years ago
+ * 직장에서 만난 사람과 결혼했어; She married someone that she met at work
+* 제주도만의 분위기가 있는 매장; The store has such a jeju vive
 * 커피 케이크는 데워서 준비해드릴까요? Did you want the coffee cake warmed up?
 * 사실대로 말씀드릴게요; i'll be blunt
 * 지금 성수기야; - is high(<>low) season; - is in season; not in season; is out of season
