@@ -1,5 +1,8 @@
 - http://connoyaro.synology.me:5000/
 
+# 깃
+* working copy ->(add) index/staging area ->(commit) repositories
+
 # Programming
 * git bash 설치
 * git config --global user.name "이름"  // 아이디가 아닌 계정 이름
