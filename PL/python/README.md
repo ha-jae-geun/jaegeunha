@@ -3,6 +3,14 @@ Reference: [Life Coding](https://opentutorials.org/course/1750/9689)
   [Ruby](https://www.jetbrains.com/ruby)
   [python common mistake](http://hamait.tistory.com/851?category=79136)
 
+# 빅데이터
+* 연속형 변수(X): 연속형 반응변수(Y): 선형회귀보델
+* 연속형 변수(X): 연속형 범주변수(Y): 로지스틱 모형
+* 범주 변수(X): 연속형 반응변수(Y): 분산분석
+* 범주 변수(X): 연속형 범주변수(Y): 분할표 분석(하나의 X) 로지스틱 모형 또는 로그 선형 모형(여러개의 Xs)
+* 연속형 변수(X) + 범주 변수(X): 연속형 반응변수(Y): 공분산분석 선형회귀(가변수) 모형
+* 연속형 변수(X) + 범주 변수(X): 연속형 범주변수(Y): 로지스틱 모형
+
 # 파이썬 
 - 클래스 방식은 컴파일러 -> pyc파일 -> 인터프리터; 
 - 함수: 인터프리터 방식
