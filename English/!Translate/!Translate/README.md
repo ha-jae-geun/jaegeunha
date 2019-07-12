@@ -1,5 +1,5 @@
 # 원어민
-
+* 사과의 심은 ㅡㅆ지마; DOn't use the apple core or seeds
 * 건망증이 심하다; he has become more forgetful; have a bad memory
 * 체크무늬 옷; flannel shirts; plaid shirts
 * 왔다갔다하는데 얼마나 걸려요? How long would it take to get there and back?
