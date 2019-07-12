@@ -2,6 +2,8 @@
 - 텐서: 학습 데이터가 저장되는 타입을 가지는 다차원 배열
 
 # 설치
+0. pip install tensorflow
+    - conda activiate tensorflow -> pip install tensorflow
 1. ① 파이썬 버전 확인
 ⎼ tensorflow 라이브러리는 현재 파이썬 3.6 버전이하에서만 지원하고 있다.
 - (base) C:\Windows\system32> python --version
