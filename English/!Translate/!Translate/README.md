@@ -1,4 +1,12 @@
 # 원어민
+* 느끼한 녀석이야; He's such a cheesy guy
+* 올바른 라인 탄거 맞나요? Is this the right bus or should i take it on the other side of the street?
+* 눈 깜박할 사이었어; It happened in a split second
+* 위쪽 짐칸에 가방이 안들어가네요. My bag doesn't fit in the overhead bin
+* mp3 파일로 cd를 만들다; burn a CD
+* 바가지 씌운거야; He tried to rip me off
+* 팬 달궈요; Let the pan warm up
+* 차라리 둘다 안할래요; i'd rather do neither of these
 * 사과의 심은 ㅡㅆ지마; DOn't use the apple core or seeds
 * 건망증이 심하다; he has become more forgetful; have a bad memory
 * 체크무늬 옷; flannel shirts; plaid shirts
