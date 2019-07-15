@@ -18,6 +18,11 @@
 * Komoran 클래스, Mecab 클래스를 지원하며 Mecab 클래스는 윈도우에서는 사용할 수가 없다.
 * KONLP 라이브러리의 형태소 분석기에 대한 설명 웹 페이지에서 확인 할 수 있다.
 
+
+# 국립국어원
+* 데이터베이스 자료 - 말뭉치 - 토지: https://ithub.korean.go.kr/user/total/database/corpusView.do
+* pip install wordcloud
+
 # 형태소 분석
 ```python
 from konlpy.tag import Okt, Kkma, Hannanum, Komoran
@@ -38,3 +43,5 @@ print(oktlist)
 # print("Komoran 클래스의 결과")
 # print(komoranlist)
 ```
+
+
