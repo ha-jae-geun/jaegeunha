@@ -1,5 +1,21 @@
 # 원어민
 * 느끼한 녀석이야; He's such a cheesy guy
+* 무좀이란? What is athlete's foot?
+* 선별하길 원한다; He wants to cherry pick facts
+* 시야가 넓어지는 경험이에요; Traveling abroad is a real eye-opener
+ * 시야를 넓혀주다; Studying abroad has broadened my horizons
+* 바지 노출이 좀 심한것 같네요; Pants are too revealing
+* 가린든 만든한 옷을 입고 계신분이 추워보였어요; The woman looked cold in her scanty/skimpy outfit  [ˈskænti]  ˈskɪmpi
+* 얌전한 스타일의 수영복을 좋아해요; prefers to wear more modest swimsuits
+* 인도에서 자전거 타면 안된다; Riding a bicycle is not allowed on the sidewalk
+* 일상 속 꿀팁; Life hacks
+* 재밌는 이야기; Juicy information
+* 입이 무겁다; I can keep a secret
+* 힘든 상황속에서도 웃음을 잃지 마라; When life gives you lemons, make lemonade
+* 손재주가 좋다; He's good with his hands; he's crafty
+* 우버타고 간다; I'll uber
+* 중학교 + 고등학교; secondary school; 초등학교: primitive school
+* Let me show you ho to(r) use it
 * 올바른 라인 탄거 맞나요? Is this the right bus or should i take it on the other side of the street?
 * 눈 깜박할 사이었어; It happened in a split second
 * 위쪽 짐칸에 가방이 안들어가네요. My bag doesn't fit in the overhead bin
