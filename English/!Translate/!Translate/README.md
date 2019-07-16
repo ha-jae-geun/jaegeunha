@@ -1,4 +1,17 @@
+# 나이에 비해
+* 나이에 비해 성숙하다; His son is very mature for his age; 뉘앙스가 좋지 않음
+ * His son is a lot more mature than what i would normally expect from a child his age
+ * His son is very mature and i don't normally expect children of his age to be that mature -ˈtʃʊr;-ˈtʊr] 
+
 # 원어민
+* 이 손해배상금은 그녀의 유가족들에게 지급될 것이다. The damages will be paid to her surviving relatives. 듣기 출처:능률교육
+* 저희가 하는 일은; our job is 
+* 대 접전] 박빙이에요. [Neck and neck match] It's neck and neck. 
+* 재밌다; It's gas
+* 젠장; sugar honey iced tea; shit 대신 사용
+* 가방 내려주는거 도와주실래요? Can you help me to get my bag down? <> Can you help me to put it up in the bin
+* brother; 브러덜
+* 친자확인검사; do a paternity test; i sent a fork to the paternity test
 * 느끼한 녀석이야; He's such a cheesy guy
 * 무좀이란? What is athlete's foot?
 * 선별하길 원한다; He wants to cherry pick facts
