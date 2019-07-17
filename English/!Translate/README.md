@@ -1,4 +1,10 @@
 # 원어민
+* 놀이터에서 BB탄 쓰고 놀면 안돼; You are not supposed to play with BB guns in the playground
+* 한잔은 이 카드고 나머지는 이걸로 해주세요; I want to use this card for one drink and pay for the rest
+* 저기 세워주세요; Can you pul over to that Seven Eleven on the right?  Drop me off here
+* 통근 시간이 길었어요; I had a long commute
+* 아직도 조금 틀린데? That's still a little off the mark
+* 수면 유도제에요; sleep inducer
 * 넌 너무 자의식이 강해; YOu're uptight
 * 목소리 줄여줘: Keep it down; 아예 조용히해: be quiet
 * 너 입에서 카레냄새나; you have curry breath
