@@ -6,6 +6,9 @@
 5. SELECT clause
 6. ORDER BY clause
 
+# SQL GATE
+* F6: SELECT 상황에서 수정
+* 테이블 수정: 테이블 마우스 우측 -> 테이블 변경
 
 # NVL
 ```sql
