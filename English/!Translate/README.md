@@ -1,4 +1,9 @@
 # 원어민
+* 비시즌에; in the off-season
+* 맥주 한잔 마셨다고 취하네; I'm feeling tipsy from one beer
+* 차 시동걸어; start the car
+* 웅크려 자고 있어요; They're just like cuddling up in there sleeping
+ * 제가 웅크릴 수 있는 정도로 한껏 웅크리고 잘 때가 잠이 가장 잘 오는 것 같아요. It makes me fall asleep well when I crouch as much as I can.
 * 놀이터에서 BB탄 쓰고 놀면 안돼; You are not supposed to play with BB guns in the playground
 * 한잔은 이 카드고 나머지는 이걸로 해주세요; I want to use this card for one drink and pay for the rest
 * 저기 세워주세요; Can you pul over to that Seven Eleven on the right?  Drop me off here
