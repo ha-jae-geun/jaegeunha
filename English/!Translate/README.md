@@ -1,4 +1,25 @@
 # 원어민
+* 그는 26년의 징역형을 받았다. He was sentenced to 26 years to life in prison. 듣기 출처:능률교육
+* -이름으로 회의실 하나 예약해주세요; i want to reserve a conference room under the name of -
+* 대여중인 책을 예약하고 싶어요; i'd like to reserve a book that is currently borrowed
+* 대출 연장은 어떻게 하나요? How can i extend the lending period?
+* -라고 해서 -는 아니야; Just because we're going out doesn't mean you can look at my phone without my permission
+* 집에만 지낸다; She has been housebound since the accident;
+ * 휠채어신세; wheelchair-bound; desk-bound;fog-bound
+* 중요항목; bullet points; 제목은 굵은 글씨에 말머리 기호를 붙여줘; Please use bold type and bullet points for headings
+* (영국식) 너한테 화났지만 여전히 사랑해; i'm cross with you
+* 다시는 그러지마; don't ever do that again
+* 성떼고 말한거잖아; 성은 뭔데? THat's your christian name; WHat's your surname?
+* 반납 전에 기름 채워야하나요? Do i have to fill up the tank when i return it?
+* 하루에 얼마씩 내야돼요? How much do you charge a day?
+* 도로에서 도움 필요할 때 어떻게 해요? WHat should we do if we need roadside assistance
+* bgm 넣고 i love putting in background music
+* 여긴 장마야; It's monsoon here [ˌmɑːn-]; it's pouring outside
+* 입이 텄어여ㅛ; my lips are chapped [tʃæpt]
+* 파데로만 가리기 힘들어; it's hard to conceal them with only foundation
+* 3연패 했어요. - 3연패 했어요. He lost three times in a row. 
+* 진통제 어딨어요? Wheer can i find pain medicine?
+* 높은빌딩 보이시죠? can you see that tall white building over there?
 * 비시즌에; in the off-season
 * 맥주 한잔 마셨다고 취하네; I'm feeling tipsy from one beer
 * 차 시동걸어; start the car
