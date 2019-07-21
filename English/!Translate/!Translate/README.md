@@ -4,6 +4,7 @@
  * His son is very mature and i don't normally expect children of his age to be that mature -ˈtʃʊr;-ˈtʊr] 
 
 # 원어민
+* 바람이 모자를 날렸어; WInd blew off my hat
 * 이 손해배상금은 그녀의 유가족들에게 지급될 것이다. The damages will be paid to her surviving relatives. 듣기 출처:능률교육
 * 저희가 하는 일은; our job is 
 * 대 접전] 박빙이에요. [Neck and neck match] It's neck and neck. 
