@@ -1,4 +1,27 @@
 # 원어민
+* 투명벽; invisible wall; 낫 sickle 미국식[ˈsɪkl]
+* 이사갑니다; we are moving out into a different apartment
+* 물을 선까지 따라주세요; pour the water upto the inner line
+* 자세 교정하다; fix my posture; correct posture
+* 장마철이 찾아왔습니다; monsoon season has arrived; 
+* 평소보다 늦게 찾아왔는데요; Coming later than usual
+* 3개아ㅢ 방과 2개의 화장실이 있는 2000원대의 아파트를 찾습니다; i'm looking for an apartment with three bedrooms and two bathrooms in the price range of $2000 to $22
+* 둘러봐도 되나요? Can i take a tour ot the house?
+* 내용이 산으로 가네; The stor goes nowhere
+* 성취감을 느낄수 있는 것과 가끔 시간 떄우기로 하기도 하는 일들과는 차이가 있다; My point is, there is a difference between things that we can find fulfillment in and things that we somethmes regard as time=killing activities
+* 배꼽 정도까지 오는 it comes right to my belly button
+* 조금 찢어진 느낌이지만 ;it has some rips
+* 내가 1-4챕터까지 했어; i'm covering chapters 1-4
+* 안전바 내려주세요; pleas put down your safety bars
+* 화재는 10붅어도 지나 진압됏지만 The fire was put out in about 10 minutes
+* 가격 최종 확인 부탁드립니다; Please confirm the price
+* 피부가 뒤집어졋어; my skin broke out
+* 요즘은 엄격한 대출 규제가 있어; There is a tight oan regulation; 
+ * 대출이 어려워 it's not easy to make a loan
+ * 주택 가격을ㅇ ㅏㄴ정시키려고해; THe government tries to stabilize the housing price
+* 생리통있어; i had a menstrual pain menstrual 미국식 [ˈmenstruəl]
+* 달달한 호박죽; sweet pumpkin soup
+* 몸이 뻣뻣하다; my bod is not flexible
 * 그는 26년의 징역형을 받았다. He was sentenced to 26 years to life in prison. 듣기 출처:능률교육
 * -이름으로 회의실 하나 예약해주세요; i want to reserve a conference room under the name of -
 * 대여중인 책을 예약하고 싶어요; i'd like to reserve a book that is currently borrowed
