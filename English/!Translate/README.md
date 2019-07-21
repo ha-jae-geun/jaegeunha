@@ -1,4 +1,5 @@
 # 원어민
+* 안에 보호필름이 1개밖에 없어요; There's only going to be 1 screen protector film inside
 * 투명벽; invisible wall; 낫 sickle 미국식[ˈsɪkl]
 * 이사갑니다; we are moving out into a different apartment
 * 물을 선까지 따라주세요; pour the water upto the inner line
