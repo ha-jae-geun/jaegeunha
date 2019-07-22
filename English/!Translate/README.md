@@ -1,4 +1,14 @@
 # 원어민
+* 냄비받침 입니다; THis is a pot stand; pot trivets
+* 안전하게 살빼다; lose weight safely
+* 얼굴팩; face mask
+* 완전히 녹을때까지 기다려요ㅣ wait for it to dissolve completely
+* 설탕이 녹으면 냄비에 넞고 약불로 30분 끓입니다; When sugar is melted, add to a pot and simmer on low heat for 30 minutes
+* 인상적인 말이네; That's a nice sound bite
+* 크림 때문에 얼굴에 뾰루지가 났어; The cream caused breakouts on my skin
+* 생각도 안해보고 바로 관둘거야; He would quit in a heartbeat
+* 산책가자; Let's go for a stroll
+* 다른 페이지로 넘기다; i can flip it to the next page
 * 안에 보호필름이 1개밖에 없어요; There's only going to be 1 screen protector film inside
 * 투명벽; invisible wall; 낫 sickle 미국식[ˈsɪkl]
 * 이사갑니다; we are moving out into a different apartment
