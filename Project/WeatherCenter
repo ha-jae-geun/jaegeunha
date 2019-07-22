@@ -1,0 +1,470 @@
+
+# OLS
+```PYTHON
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+from patsy import dmatrices
+import statsmodels.api as sm
+from statsmodels.stats.outliers_influence import variance_inflation_factor
+from statsmodels.stats.anova import anova_lm
+from statsmodels.formula.api import ols
+
+data = pd.read_excel('2010_2018_서울_2.xlsx', sheet_name='Sheet1').dropna()
+
+
+# 엑셀 데이터에서 원하는 데이터만 추출하기
+# agri_df = pd.DataFrame(data, columns=[ "AVG_PRICE", "AVG_TMPRT", "TOT_SOLAR",  "PM10", "PM2", "DAY_PRE", "TOT_DYL_TM","DAILY_TMPRT", "AVG_HUMID"]).dropna()
+# agri_df = pd.DataFrame(data, columns=[ "AVG_PRICE", "AVG_TMPRT", "TOT_SOLAR", "DAY_PRE", "TOT_DYL_TM", "PM10","DAILY_TMPRT", "AVG_HUMID", "SLFR_DXD", "CRBN_MNXD", "OZON", "NTRGN_DXD" ]).dropna()
+agri_df = pd.DataFrame(data, columns=[ "AVG_PRICE", "AVG_TMPRT", "DAILY_TMPRT", "TOT_DYL_TM", "TOT_SOLAR", "DAY_PRE", "AVG_HUMID", "PM2" ]).dropna()
+# agri_df = pd.DataFrame(data, columns=[ "AVG_PRICE", "AVG_TMPRT", "TOT_SOLAR",  "PM10", "DAY_PRE", "TOT_DYL_TM","DAILY_TMPRT", "AVG_HUMID", "SLFR_DXD", "CRBN_MNXD", "OZON", "NTRGN_DXD" ]).dropna()
+# agri_df = pd.DataFrame(data, columns=[ "AVG_PRICE", "AVG_TMPRT", "TOT_DYL_TM", "TOT_SOLAR",  "PM10", "PM2", "DAY_PRE", "DAILY_TMPRT", "AVG_HUMID"])
+
+# SLFR_DXD: 대구, 서울(0.160)
+# CRBN_MNXD: 대전, 대구
+# OZON: 대전, 대구, 서울(0.119), 부산
+# NTRGN_DXD: 서울, 부산
+
+# 가격을 로그함수 이용하여 적용
+# log_price = []
+# for i in agri_df['AVG_PRICE']:
+#     log_price.append(10*round(np.log10(i),1))
+
+
+# 로그 가격으로 변경
+# print(log_price)
+# agri_df['AVG_PRICE'] = log_price
+
+
+
+# agri_df =  agri_df['COMPARE'] != 0.0
+
+
+# agri_df = agri_df.loc[agri_df['COMPARE'] > 0]
+# print(agri_df)
+
+# agri_df['AVG_PRICE'].hist()
+# agri_df2['AVG_PRICE'].line()
+
+#AVG_PRICE ~ AVG_TMPRT + TOT_SOLAR + PM10 + DAILY_TMPRT
+
+
+# 박스플롯
+# agri_df.boxplot(column='AVG_HUMID')
+# agri_df.boxplot(column='AVG_CLOUD')
+
+# features = "AVG_TMPRT +  PM10 +   DAILY_TMPRT   + AVG_HUMID"
+
+# # 히스토그램 조건 설정
+# # agri_df['AVG_HUMID'].hist()
+# plt.show()
+#
+
+# 상관계수 구하기
+corr = abs(agri_df.corr())
+
+# 상관계수 히트맵 그리기
+cmap = sns.light_palette("darkgray", as_cmap=True)
+sns.heatmap(corr, annot=True, cmap=cmap)
+# plt.show()
+
+
+# P-value check
+print(agri_df.columns)
+
+# 전체
+# "SLFR_DXD", "CRBN_MNXD", "OZON", "NTRGN_DXD"
+# features = "DAY_PRE + TOT_SOLAR + AVG_TMPRT +  SLFR_DXD  "
+
+
+# 대기오염
+# features = "DAY_PRE + TOT_SOLAR + AVG_TMPRT + PM10 + PM2 "
+# features = "PM10 + PM2 + OZON   "
+
+# 대전2
+# features = " DAILY_TMPRT + TOT_SOLAR +    PM2 + AVG_HUMID "
+
+# 미세먼지 예측
+# features = "AVG_PRICE + AVG_TMPRT + DAILY_TMPRT +      AVG_HUMID "
+
+#  15-18년도 대전 pm2
+# 0.575 양호
+# features = "DAY_PRE + TOT_SOLAR + AVG_TMPRT  +   PM2  "
+
+#  15-18년도 대구 pm2
+# 0.606; pvalue: 평균온도: 0.060
+# features = "DAY_PRE + TOT_SOLAR + AVG_TMPRT  +   PM2  "
+
+# 10-18년도 대구
+# # 0.544; P_Value: 일교차; 공산성: 평균온도, 일사량
+# features = "AVG_TMPRT + TOT_SOLAR + DAILY_TMPRT + AVG_HUMID +  PM10  "
+# # 0.518; P_Value: 습도; 공산성: 양호
+# features = "AVG_TMPRT + DAILY_TMPRT + AVG_HUMID +  PM10  "
+# # 0.542; P_Value: 일교차(0.659); 공산성: 양호
+# features = "TOT_SOLAR + DAILY_TMPRT + AVG_HUMID +  PM10  "
+# # 0.544;  P_Value: 평균온도(0.055), 공산성: 평균온도
+# features = "AVG_TMPRT + TOT_SOLAR + AVG_HUMID +   PM10  "
+# 0.539; P_Value: 일교차 불량, 공산성: 양호
+# features = "TOT_SOLAR + AVG_TMPRT + DAILY_TMPRT + PM10"
+# 0.606; 모두 양호
+# features = "DAY_PRE + TOT_SOLAR + AVG_HUMID +   PM10  "
+# 0.606; 모두 양호
+# features = "DAY_PRE + TOT_SOLAR + AVG_TMPRT  +   PM10  "
+# 0.605; P_VALUE: 일교차(0.066)
+# features = "DAY_PRE + TOT_SOLAR + DAILY_TMPRT  +   PM10  "
+
+
+# 10-18년도 대전
+# # 0.516; 온도 PValue: 0.69, 다중공산성: 온도, 일교차, 습도
+# features = "AVG_TMPRT + TOT_SOLAR + DAILY_TMPRT + AVG_HUMID +  PM10  "
+# # 0.481; PValue: 양호; 다중공산성: 양호
+# features = "AVG_TMPRT + DAILY_TMPRT + AVG_HUMID +  PM10  "
+# # 0.516; PValue: 양호; 다중공산성: 양호
+# features = "TOT_SOLAR + DAILY_TMPRT + AVG_HUMID +  PM10  "
+# # 0.493; AVG_TMPRT 공산성 안맞음
+# features = "AVG_TMPRT + TOT_SOLAR + AVG_HUMID +   PM10  "
+# # 0.481; PValue: 양호; 다중공산성: 양호
+# features = "TOT_SOLAR + AVG_TMPRT + DAILY_TMPRT + PM10"
+# 0.540; PValue: 습도 불량(0.349)
+# features = "DAY_PRE + TOT_SOLAR + AVG_HUMID +   PM10  "
+# 0.544; 모두 양호
+# features = "DAY_PRE + TOT_SOLAR + AVG_TMPRT  +   PM10  "
+# 0.549; 모두 양호
+# features = "DAY_PRE + TOT_SOLAR + DAILY_TMPRT  +   PM10  "
+
+# 10-18년도 서울
+# features = "AVG_TMPRT + DAILY_TMPRT + AVG_HUMID +  TOT_SOLAR +  PM10  "
+
+# 10-18년도 부산
+# features = "AVG_TMPRT + TOT_SOLAR + AVG_HUMID +   PM2  "
+
+# 15-18년도 부산
+# features = "AVG_TMPRT + TOT_SOLAR + AVG_HUMID +   PM2  "
+# features = "AVG_TMPRT +  TOT_SOLAR +  TOT_DYL_TM + DAY_PRE +   PM2 + AVG_HUMID "
+
+# 15-18년도 서울
+features = "AVG_TMPRT + TOT_DYL_TM + DAY_PRE  + PM2 "
+
+# 10-18년도 6, 7, 8서울
+# features = "AVG_TMPRT + DAILY_TMPRT + TOT_SOLAR +     PM10  "
+# features = "AVG_TMPRT + AVG_HUMID +   PM10  "
+# features = "PM_1 + PM_2+   PM_3 + PM_4 "
+
+# DAY_PRE + PM10 + DAILY_TMPRT + TOT_SOLAR
+
+# features2 = "AVG_CLOUD + AVG_HUMID:PM10 + DAY_PRE:PM10 + AVG_TMPRT"
+
+y, X = dmatrices("AVG_PRICE ~" + features, data=agri_df, return_type="dataframe")
+# y, X = dmatrices("AVG_PRICE ~" + features, data=agri_df, return_type="dataframe")
+vif = [variance_inflation_factor(X.values, i) for i in range(X.shape[1])]
+result = sm.OLS(y, X).fit()
+# result = sm.GLM(y, X).fit()
+print(result.summary())
+# formula = 'AVG_PRICE ~' + features
+# lm = ols(formula, agri_df).fit()
+# print(anova_lm(lm))
+
+
+# 다중공산성 확인
+vif = pd.DataFrame()
+vif["VIF Factor"] = [variance_inflation_factor(X.values, i) for i in range(X.shape[1])]
+vif["features"] = X.columns
+
+print(vif)
+```
+
+# RANDOMFOREST
+```PYTHON
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import  RandomForestClassifier
+from sklearn import metrics
+import pandas as pd
+import numpy as np
+
+# data = pd.read_excel('서울_서울소매_PM2.xlsx', sheet_name='Sheet1').dropna()
+data = pd.read_excel('서울_서울소매_이동.xlsx', sheet_name='Sheet1').dropna()
+
+
+
+# 강원 대구북부도매_2010_2018_30; 66%
+log_price = []
+# for i in data['AVG_PRICE']:
+#     log_price.append(round(100*round(np.log10(i), 2),0))
+
+# 로그 가격으로 변경
+# data['AVG_PRICE'] = log_price
+# data['AVG_PRICE'] = round(data['AVG_PRICE'], -1)
+# print(log_price)
+
+
+# 미세먼지 예측
+dfx = pd.DataFrame(data, columns=['AVG_PRICE', 'AVG_TMPRT', 'DAILY_TMPRT', 'AVG_HUMID']).dropna()
+dfy = pd.DataFrame(data, columns=["PM10"])
+
+# 가격 예측
+# dfx = pd.DataFrame(data, columns=["AVG_TMPRT",  "AVG_CLOUD", "DAILY_TMPRT", 'PM2', 'PM10']).dropna()
+# dfx = pd.DataFrame(data, columns=["AVG_TMPRT", "TOT_SOLAR", "AVG_HUMID", 'DAY_PRE', 'PM10'])
+# dfx = pd.DataFrame(data, columns=["TOT_SOLAR", "AVG_HUMID", 'PM10', "DAILY_TMPRT"])
+# dfy = pd.DataFrame(data, columns=["AVG_PRICE"])
+
+
+
+
+#features = "AVG_TMPRT + AVG_CLOUD + TOT_SOLAR +  AVG_WND_SPD +  PM10 + DAILY_TMPRT + DAY_PRE" # 첫번째 테스트
+# 학습 전용과 테스트 전용 데이터로 나누기
+data_train, data_test, label_train, label_test = train_test_split(dfx, dfy)
+
+
+# 데이터 학습시키기
+# clf = DecisionTreeClassifier(criterion='gini')
+clf = RandomForestClassifier(criterion='entropy')
+clf.fit(data_train, label_train.values.ravel())
+
+# 데이터 예측하기
+predict = clf.predict(data_test)
+
+# 결과 테스트하기
+# rmse = mean_squared_error(label_test, predict, multioutput='raw_values')
+# print(rmse)
+
+ac_score = metrics.accuracy_score(label_test, predict)
+cl_report = metrics.classification_report(label_test, predict)
+print("정답률 =", ac_score)
+print("리포트 =\n", cl_report)
+```
+
+# TENSORFLOW
+```PYTHON
+import tensorflow as tf
+
+import numpy as np
+
+from pandas.io.parsers import read_csv
+
+import os
+
+# features = "SLFR_DXD + CRBN_MNXD + OZON + PM10 "
+
+os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
+
+model = tf.compat.v1.global_variables_initializer()
+#
+data = read_csv('2010_2018_서울_이상치_1.csv', sep=',', engine='python').dropna()
+
+
+# data = read_csv('price data.csv', sep=',')
+
+xy = np.array(data, dtype=np.float32)
+
+
+
+# 4개의 변인을 입력을 받습니다.
+
+x_data = xy[:, 0:-1]
+
+# print(x_data)
+
+
+# 가격 값을 입력 받습니다.
+
+y_data = xy[:, [-1]]
+# print(y_data)
+
+# 가중치
+# w_data = [-12.6495, 8.4675, -146.2447, -702.2301, -9.6260]
+# print(w_data)
+
+# 플레이스 홀더를 설정합니다.
+
+X = tf.compat.v1.placeholder(tf.float32, shape=[None, 3])
+# print(X)
+
+Y = tf.compat.v1.placeholder(tf.float32, shape=[None, 1])
+# print(Y)
+
+W = tf.Variable(tf.random.normal ([3, 1]), name="weight")
+
+# W = tf.Variable(tf.random_normal([8, 1]), name="weight")
+# print(W)
+
+b = tf.Variable(tf.random.normal ([1]), name="bias")
+# b = tf.Variable(tf.random_normal([1]), name="bias")
+# print(b)
+
+
+# 가설을 설정합니다.
+
+hypothesis = tf.matmul(X, W) + b
+
+
+
+# 비용 함수를 설정합니다.
+
+cost = tf.reduce_mean(tf.square(hypothesis - Y))
+
+
+
+# 최적화 함수를 설정합니다.
+
+optimizer = tf.compat.v1.train.AdamOptimizer(learning_rate=0.9)
+# optimizer = tf.compat.v1.train.MomentumOptimizer(0.000001, 0.000001)
+# optimizer = tf.train.GradientDescentOptimizer(learning_rate=0.0000005)
+# optimizer = tf.train.ProximalGradientDescentOptimizer(learning_rate=0.0000005)
+
+train = optimizer.minimize(cost)
+
+
+
+# 세션을 생성합니다.
+
+sess = tf.compat.v1.Session()
+
+
+
+# 글로벌 변수를 초기화합니다.
+
+sess.run(tf.compat.v1.global_variables_initializer())
+
+
+
+# 학습을 수행합니다.
+for step in range(500000):
+
+    cost_, hypo_, _ = sess.run([cost, hypothesis, train], feed_dict={X: x_data, Y: y_data})
+
+    if step % 1000 == 0:
+
+        print("#", step, " 손실 비용: ", cost_)
+
+        print("- 오이 가격: ", hypo_[0])
+
+
+
+# 학습된 모델을 저장합니다.
+
+saver = tf.train.Saver()
+
+save_path = saver.save(sess, "./saved.cpkt")
+
+print('학습된 모델을 저장했습니다.')
+
+```
+
+# TENSORFLOW PREDICT
+```PYTHON
+import tensorflow as tf
+import pandas as pd
+import numpy as np
+
+
+avg_data = pd.read_excel('2018_서울.xlsx', sheet_name='Sheet1')
+avg_data2 = pd.DataFrame(avg_data, columns=["TOT_DYL_TM", "AVG_TMPRT",  "DAY_PRE"])
+# avg_data2 = pd.DataFrame(avg_data, columns=["TOT_SOLAR", "TOT_DYL_TM","DAILY_TMPRT", "AVG_HUMID", "AVG_TMPRT",  "DAY_PRE", 'PM10','SLFR_DXD', 'CRBN_MNXD', 'PM2']).dropna()
+# 서울
+# avg_data2 = pd.DataFrame(avg_data, columns=["TOT_SOLAR", "AVG_TMPRT",  "DAY_PRE",  'OZON'])
+#부산
+# avg_data2 = pd.DataFrame(avg_data, columns=["AVG_TMPRT",  "TOT_SOLAR",  'AVG_HUMID',  'PM2']).dropna()
+
+
+# 플레이스 홀더를 설정합니다.
+
+X = tf.compat.v1.placeholder(tf.float32, shape=[None, 3])
+
+Y = tf.compat.v1.placeholder(tf.float32, shape=[None, 1])
+
+# 가중치
+# w_data = [-12.6495, 8.4675, -146.2447, -702.2301, -9.6260]
+# print(w_data)
+
+
+# print(Y)
+
+W = tf.Variable(tf.random.normal([3, 1]), name="weight")
+
+# W = tf.Variable(tf.random_normal([8, 1]), name="weight")
+# print(W)
+
+b = tf.Variable(tf.random.normal([1]), name="bias")
+# b = tf.Variable(tf.random_normal([1]), name="bias")
+# print(b)
+
+# 가설을 설정합니다.
+
+hypothesis = tf.matmul(X, W) + b
+
+
+
+# 저장된 모델을 불러오는 객체를 선언합니다.
+
+saver = tf.compat.v1.train.Saver()
+
+model = tf.compat.v1.global_variables_initializer()
+
+price_result = []
+
+for i in range(0, avg_data2['TOT_DYL_TM'].count()):
+    # 가격예측
+    # tot_solar = avg_data2.iloc[i]['TOT_SOLAR']
+    avg_tmprt = avg_data2.iloc[i]['AVG_TMPRT']
+    tot_dyl_tm = avg_data2.iloc[i]['TOT_DYL_TM']
+    # daily_tmprt = avg_data2.iloc[i]['DAILY_TMPRT']
+    # avg_humid = avg_data2.iloc[i]['AVG_HUMID']
+    day_pre = avg_data2.iloc[i]['DAY_PRE']
+    # pm10 = avg_data2.iloc[i]['PM10']
+    # pm10 = avg_data2.iloc[i]['PM10']
+    # pm2 = avg_data2.iloc[i]['SLFR_DXD']
+    # slfr_dxd = avg_data2.iloc[i]['SLFR_DXD']
+    # crbn_mnxd = avg_data2.iloc[i]['CRBN_MNXD']
+    # ozon = avg_data2.iloc[i]['OZON']
+
+    with tf.Session() as sess:
+
+        sess.run(model)
+
+
+
+        # 저장된 학습 모델을 파일로부터 불러옵니다.
+
+        save_path = "./saved.cpkt"
+
+        saver.restore(sess, save_path)
+
+
+
+        # 사용자의 입력 값을 이용해 배열을 만듭니다.
+
+        # data = ((avg_cloud, day_pre, avg_tmprt, daily_tmprt, pm10, pm2), )
+
+        # 가격 예측
+        # data = ((tot_solar, avg_tmprt, day_pre),)
+        # data = ((tot_solar, avg_tmprt, day_pre, pm2),)
+        data = ((avg_tmprt, tot_dyl_tm, day_pre),)
+        # data = ((tot_solar, avg_tmprt, day_pre, ozon),)
+
+
+        # 서울
+        # data = ((avg_tmprt, daily_tmprt, avg_humid, pm10), )
+
+        # 부산
+        # data = ((tot_solar, avg_tmprt, avg_humid, pm2),)
+
+
+        # 서울 678월
+        # data = ((avg_tmprt,  avg_humid, pm10), )
+        arr = np.array(data, dtype=np.float32)
+
+        # 예측을 수행한 뒤에 그 결과를 출력합니다.
+
+        x_data = arr[0:4]
+
+        dict = sess.run(hypothesis, feed_dict={X: x_data})
+
+        print(dict[0])
+
+        price_result.append(dict[0])
+
+
+df_price = pd.DataFrame(price_result)
+df_price.to_excel("test.xlsx")
+```
