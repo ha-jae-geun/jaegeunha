@@ -1,4 +1,6 @@
 # 원어민
+* 빨래 널고 난 다음 제습기를 킵니다; After haning the laundry, i turn on the dehumidifier
+* 빵이 노릇노릇하게 구워졌다 Bread has been baked to a golden brown; 노릇노릇: [Golden brown] 
 * 냄비받침 입니다; THis is a pot stand; pot trivets
 * 안전하게 살빼다; lose weight safely
 * 얼굴팩; face mask
