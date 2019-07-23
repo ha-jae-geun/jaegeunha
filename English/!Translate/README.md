@@ -1,4 +1,14 @@
 # 원어민
+* 해변으로 파도가 치고있다. The waves are crashing onto to the shore
+* 물품들을 진열하다 set out some items
+* 전등들이 천장에 매달려있다. Lights are suspended from the ceilijg
+* 증기가 접시에서 올라온다 steam is rising from the dishes
+* 사람들이 연기자들을 향해 서있다. People are turned toward the performer
+* 커튼이 닫혀있다 the curtains have been pulled shut
+* 자동차들이 한줄로 주차해닜다 a car is parked by a row
+* 교통정리하고잇다. Be directing traffic
+* 기둥 beam pole post column pillar
+* which질문  one 대답
 * 빨래 널고 난 다음 제습기를 킵니다; After haning the laundry, i turn on the dehumidifier
 * 빵이 노릇노릇하게 구워졌다 Bread has been baked to a golden brown; 노릇노릇: [Golden brown] 
 * 냄비받침 입니다; THis is a pot stand; pot trivets
