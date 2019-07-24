@@ -1,5 +1,22 @@
 # 원어민
 * 해변으로 파도가 치고있다. The waves are crashing onto to the shore
+* hold, occupy, fill, obtain + position
+* 성격이 재밌다; humorous보다 funny라고 표현
+* 완전 실패해도; if we crash and burn the next week
+* 손가락에 벤 상처가 있다; i have a cut on my finger
+* 연필 깎다; sharpen a pencil
+* cicada is singing/chiring
+* 우리는 다 알아; we're onto you
+* 가면 딱이겠다; we would be just in time
+* 최소 예산 요구조건; Minimum Budget Requirement 
+* 전기 면도기: electric shavers
+* 으쌰으쌰해서 일하자; Let's get this bread
+* 가슴 확대수술 고려해본적있어? have you ever considered getting breaset implants?
+* 일회용 신발 커버; disposable shoe covers
+* 젊었을 때 when I was younger, when I was little, hen I was a kid, hen I was a child, hen I was growing up, hen I was in school, hen I was a middle school student, hen I was in middle school, n middle school, as I get older, as she gets older, the older I get, the older we get
+ * middle school student 보다 in middle school
+* 이걸로 할게; you should just go with this one
+* 운에 맡길게; i'll take my chances; 너가 운에 맡기고; you take your chances
 * 물품들을 진열하다 set out some items
 * 전등들이 천장에 매달려있다. Lights are suspended from the ceilijg
 * 증기가 접시에서 올라온다 steam is rising from the dishes
