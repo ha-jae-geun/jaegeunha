@@ -88,6 +88,9 @@
 ## - UTF-8 일괄 설정 
 - vmargs 밑에
 - -Dfile.encoding=UTF-8
+	* (ex. Windows에서 개발한 소스를, Linux에서 -Dfile.encoding을 명시하지 않고 실행)
+
+ 
 
 ## delete
 - 쓰지 않는 프로젝트 delete(완전삭제 안하기)  
