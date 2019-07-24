@@ -206,6 +206,7 @@
 1. 환경변수 이름: CATALINA_HOME(매번 버전 바뀌면 Path 그때마다 바꿔줘야하기 때문에 해줌)
 2. PATH 추가: %CATALINA_HOME%\bin
 - 혹은 bin을 바로 PATH에서 추가해주어도 됨
+* 확인방법: cmd에서 bin 안에 있는 startup/tomcat8w 실행 가능
 
 ## 톰켓 이클립스 설정
 - window preference - Runtime Envirionment - Add - 톰켓 폴더 설정
