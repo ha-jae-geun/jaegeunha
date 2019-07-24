@@ -42,6 +42,8 @@
 # was
 - server.xml -> web.xml
 
+# 스프링 실행
+* 톰켓의 server.xml -> web.xml -> 프로젝트 web.xml -> config -> root
 
 ## web.xml
 - jsp -> 서블릿(xml) -> 자바 -> DB -> 자바 -> 서블릿(xml) -> jsp 
