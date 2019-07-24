@@ -210,6 +210,10 @@
 ## 톰켓 이클립스 설정
 - window preference - Runtime Envirionment - Add - 톰켓 폴더 설정
 
+## 포트충돌
+* 오라클과 8080 포트충돌; 
+	* conf -> server.xml -> 포트변경
+
 # 웹
 ## 커넥션 풀
 - http://jakarta.apache.org/ 
