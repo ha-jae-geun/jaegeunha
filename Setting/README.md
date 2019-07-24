@@ -320,7 +320,14 @@
 6. Runtime Environments 설정
 7. Server and Runtime 톰켓 설정
 - General -  font/Syntax/Save
-
+8. jadclipse plugin
+	- jadclipse 는 바이트 코드 (.class) 파일을 .java로 Decopiling 해주는 플러그인으로 자동 설치가 되지 않으면 수동으로
+	설치해야 한다.
+	- class 확장자로 제공되는 라이브러리의 소스를 파악할 수 있다.
+	- 이클립스에서 Java api 로 제공되는 파일들의 소스를 확인 할 때는 System 단어를 선택하고 F3 버튼을 클릭하면
+	단어에 대한 설명이 나오는데 이 설명이 소스 파일이다.
+	- 소스 파일들을 보기 위해서는 제공받는 라이브러리에 있는 소스 파일들을 임포트 해야 하는데 임포트 하지 않고
+	바로 확인하기 위해서 jadClipse를 설치하는 것이다.
 
 ## 스프링 Maven 추가
 - http://maven.apache.org/download.cgi -> apache-maven-3.6.1-bin.zip
@@ -331,8 +338,9 @@
 2. PATH 추가: %MAVEN_HOME%\bin
 - 혹은 bin을 바로 PATH에서 추가해주어도 됨
 3. cmd에서 mvn-version으로 확인
-4. windows preference 에서 User setting(conf, usersetting 경로 설정), Installations 수정하기
-	- 사용자 - 사용자 이름 - .m2에서 repositories 
+4. windows preference 에서 User setting(conf, usersetting로 경로 설정) Installations 수정하기 -> 파일열기 -> 
+	- <localRepository>C:\repositories</localRepository> 추가하기
+
 
 ## import
 - import - maven - existing maven project
@@ -349,7 +357,8 @@
 - <encoding>UTF-8</encoding>
 
 ### Maven java library 
-- buildpath에서 jre 지우고 add library해서 수정
+1. window preference -> java -> user libraries -> external
+2. buildpath에서 jre 지우고 add library해서 수정
 
 
 ### Maven project facet
