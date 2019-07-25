@@ -1,4 +1,132 @@
+# 토익
+* 그와 나의 여가 시간은 일치하지 않는다. free time does not coincide with mine. 듣기 출처:동아 출판
+* …에 노력을 기울이다.direct one’s efforts toward(s)… 듣기 출처:프렌
+ * 집으로 발길을 돌리다.[일반] direct one's steps toward(s) home 듣기 출처:프렌딕
+* 입학신청서 enrollment form 미국식  영국식   단어장추가
+* A라는 시간 이후로 쭉; from A onwards [ˈɑːnwərd;ˈɔːn-] 영국식 [ˈɒnwəd]
+* highly recommended, well organized, uncommonly found, highly recognized, well received, highly regarded(높이 평가되는), well attended(참석률이 높은) * 분형이 알고있다; assuredly know; 성공적으로 완수하다; successfuly complete 특별히 사치스러운; particularly luxurious 반복해서 말하다; repeatedly speak
+### 요청 문제느 주로 ㅎ반부에 답이 있따;
+* please~, you must/should, i would like you to, would you, why don't you ~
+
+### 동봉
+* enclosed/attached/included
+* be provided / be sent with / come with / along with 
+
+# 돈 가만명사
+* fund, refund, discount, cost, expense, price, rate, toll, fare, fee
+	* Store doesn't issure refunds for 
+
+# 문제
+* No one can be sure __ the stock price will end up at the end of the game; where; end up: reach or come to a particular place or situation; place가 영영사전
+
+# 단어
+* * 잘 작동하다; work especially well
+* 타동사 상세히 알리다, 열거하다; detail how to use
+* 즉시; shortly/soon/immediately/promptly + before/prior to/ahead of + N
+* 이력서; Curriculum vitae
+* 배우와 제작진; with the cast and crew; 토익 어플
+* 해군 방위대에 관련된 문제들 matters pertaining to naval district defense . 듣기 출처:Collins
+* 그 정당이 그 나라 역사상 최악의 경제 후퇴 중 하나를 주도했다. The party presided over one of the worst economic declines in the country’s history. 
+* 주의하다; exercise caution = use caution
+* 유지보수 작업; maintenance work
+* 열렬한 찬사를 담은 추천서 a glowing testimonial 
+* nearly 1. 거의 2. 대략+숫자
+* be hopeful that 주어 + 동사 / hope that 주어 + 동사
+* be especially/specifically 동사/형용사; skilled at
+* appoximately는 90% 숫자 아니면 동사
+* 추가비용으로; at additional expenses
+* unless otherwise pp; -하지 않는다면
+* directly + on 장소; 바로 -에; 2. directly + to.from 장소: 바로 -에
+* widely used; 널리 사용된
+* 그녀의 최신 저서는 눈을 떼지 못하고 읽게 만든다. Her latest book makes compelling reading. 
+* 변화; change, modification, transition, revision to
+* In an effort to V, In an attempt to V
+* 투숙객들께서는 출발 당일 정오까지 객실을 비워 주시기 바랍니다. Guests are requested to vacate their rooms by noon on the day of departure. 
+* secretary; 간단히 설명: brief
+* 배너가 걸려있는; banner suspended
+* Bush line one side of the walkway; run along, line, extend, surround
+* Soon / shortly/ immediately / right / promptly + before/after
+* principal: 주요한, 주된, 주연배우, 학장, 총장
+
+ # 접속사
+* or: 그렇지 않으면(명령문 아니여도)
+
+# 시험에 자주 나오는 과거분사
+* revised, detailed, proposed, attached, enclosed, updated; the proposed plan
+
+# 5형식 to부정사
+* urge, ask, require, encourage, allow, enable, cause, expect
+
+# 전치사 to
+* be subject to, commited, devoted, dedicated to, accustomed, addition, look forward + to -ing
+
+# 토익에 잘나오는 궁합
+* after/follwing ~ finally/ eventually
+* even though / although / in spite of ~~ still
+* all / every / nobody / no one  ~ except
+
+# 시제
+* 미래 완료: by next, by the end of, by the time과 같이쓰임
+	* by the time 현재, S + 미래 완료
+
+# 전치사 + ed + that
+* be convinced/delighted/fritened/annoyed that
+
+# 최신 
+* After ~, finally ~
+* 요청하다; ask for <> request
+* over a month ago; 과거를 넘어서; past xxx
+* excel at
+* 5형식; make find, leave, consider, keep, deep + 목적어 + 형용사
+* Provided that = if
+* unless otherwised mentioned / indicated
+* 논의한대로: as discussed / mentioned / indicated / stated
+* ~하는 사람들; those who / -ing / p.p / with | anyone who -ing / p.p / with
+* By the time 현재, S + will have p.p | 과거, 과거 + had p.p
+* S+V, therebyh/thus -ing
+* inform A of B(3형식), inform A about;(3형식) 3. inform A that S+V(4형식)
+* grant permission to him / grant him permission
+* rather than ~를 대신해서 = instead of; 전치사
+* in case: ~의 경우를 대비해서; 접속사 <> in case of; 전치사
+* 1형식; travel, act, decline, emerge, occur, reside, work, speak/talk, comply
+* 자동사, 타동사 모두 가능: expand, return, increase, improve, drive
+* 걸려있다; be haning on the wall / have been hung next to the mirror
+* definitely + 최상급: 틀림없이 최고 2. definitive resource; 중요한 자원
+* disruptive: 방해를 주는; disrupted; 방해 받은
+* Delegations of the task
+* 형용사/부사만 수식하는 부사: relatively, extremely, enough, quite 등; 문장 끝에 오지 못함
+* be equal / equivalent / similar to N
+* scope of 계약서 / 연구
+* terms / conditions / contents of 계약서
+* in addition to -ing / 명사
+* Perhaps; 아마도; Ultimately; 문장 앞에 나온 부사어휘
+* examining a drwing / blueprint / floor plan / building plan / layout
+* 보다: be looking at / facing / viewing / examining / studying
+* put up, set up = install
+* defective / free - is not working properly / broken / out of order / malfunctioning
+
+
 # 원어민
+* 나! 나 여기 있어. 찡그리지 마. 찡그리면 끼어. Me! I do that! Don't make frown face.
+* 그 소도시는 엄청난 포격을 받고 있다. he town is under heavy artillery fire.   [ɑːrˈt-]  영국식 [ɑːˈtɪləri] 
+ * 대포도 만져보고; we've done artillery; 특수부대하고; did the special forces
+* 절차가 복잡해요; There's so much red tape 
+* 제안을 거절당하다; i got shot/turned down
+* 이런 사실은 '물음: 닭이 왜 길을 건넜게? 대답: 반대편 쪽으로 가려고.'와 같은 썰렁한 농담을 들어본 사람에게는 그리 놀라운 일이 아닐지도 모른다. This might not surprise anyone who has heard bad jokes such as 'Q: Why did the chicken cross the road? A: To get to the other side.' 
+* 그 남자 어디가 좋아? WHat do you like about him?
+* 리허설하ㅏㄷ; have/hold/stage a rehearsal
+* 우리 좀 정체되고있어; we've been a little backed up today
+* 등골이 오싹해질지도 몰라; This might get hairy
+* 지금 자리에 안계씹니다; THey are unavailable at the moment
+* 메모 남겨드리겠습니다; i can take a memo for you
+* 오늘 날씨 야간 흐리네요; It's a little overcast today
+* 우리 사이가 멀어졌어요; we've grown apart
+* 인터넷 이전할게요; i'd like to transfer the service
+* 내 말은, 내가 그들과 말을 건넬 정도의 사이는 아니라는거지.  mean, I'm not on speaking terms with them. 듣기
+* 5형식: keep, find, consider, call, deem, name, leave, prove, appoint, vote
+ * 그를 잉글랜드 팀의 주장으로 지명했다. ey appointed him (as) captain of the English team. 
+ * 이사들이 방금 자신들을 위한 엄청난 임금 인상을 가결했다. he directors have just voted themselves a huge pay increase. 
+* 여러분은 우리 문화를 형성하는 창조의 힘입니다.  ou are a creative force, shaping our culture. 듣기
 * 해변으로 파도가 치고있다. The waves are crashing onto to the shore
 * hold, occupy, fill, obtain + position
 * 성격이 재밌다; humorous보다 funny라고 표현
