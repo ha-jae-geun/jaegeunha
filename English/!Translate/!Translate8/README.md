@@ -183,6 +183,7 @@
 * ㆍ모직 생산: fabric production, textile manufacturing
 
 # 원어민
+* partially/fairly biased
 * 오른쪽 가르마 타요  i part my hair on the right side
 * 입만 움직여서 욕했어; he mouthed curse words to me
 * 실밥이 풀렸어요; The seam was unreveled
