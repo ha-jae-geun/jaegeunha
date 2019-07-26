@@ -181,3 +181,24 @@
 * ㆍ서류: document = paper = form = file
 * ㆍ시장 개시: debut, release
 * ㆍ모직 생산: fabric production, textile manufacturing
+
+# 원어민
+* 오른쪽 가르마 타요  i part my hair on the right side
+* 입만 움직여서 욕했어; he mouthed curse words to me
+* 실밥이 풀렸어요; The seam was unreveled
+* 카드 신청하러 왔어요; i'd like to apply for a secured credit card
+* 보증금 호나불해주시나요? Can you refund me the deposit?
+* 항상 껌뻑 죽어요; always knocks 'em dead
+* 화학박피술; chemical peels
+* 걸러들어; take everything with a pinch of salt
+* 호일; hoil -> Aluminum foil, 로맨키스트: romancist, romancer, 아세톤: nail polish remover
+* 에어로빅; aerobics
+* 소문 다났어; words get around
+* 홀닥 반했어; is so smitten with her
+* 고민이다; I'm not sure if I should watch this video for free.
+ * I'm trying to decide if I should join the membership of the Live Academy now or later.
+ * I'm sure that it's worth supporting this channel of Live Academy.
+* 귀에 물이들어강써요; i have swimmer's ear
+ * 귀에 물들어강쓸때 넣는 약 있어요? Do you have drops for swimmer's ear
+ * 경찰서로 연행되었따; ther were taken to the police station
+ * 깁스하다; wear/get a cast
