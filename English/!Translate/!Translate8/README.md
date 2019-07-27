@@ -1,4 +1,8 @@
 # 원어민
+* 팔자주름; 저도 여기 팔자주름 부분이 꼭 갈라졌어요. It always cracks around the nasolabial fold/smile lines/wrinkles around the mouth
+* 관심이 많다; has a interest in ; 이빨이 썩었네요; My teeth are rotten
+* 왜 합격한거죠? Why did he got accepted?
+* 전생 체험을 하다 experience one's past life 미국식  영국식   단어장추가
 * 서버가 예상치 않은 상태에 있습니다. The service is in an unexpected state. 듣기 출처:YBM
 * -가 눈에 들어왔다; something caught her eye/attention
 * 벌칙받을게요. I'll do the penalty.; you will get punished; You're getting punished together. 
