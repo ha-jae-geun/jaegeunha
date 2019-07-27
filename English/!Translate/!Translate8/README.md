@@ -1,4 +1,24 @@
 # 원어민
+* 한국으로 달러 보내고 싶어요; i'd like to wire 1000 U.S. dollars to KOREa; 미국에서 보내는거 아니면 US 붙여주기
+* 20센트 3개 줄 줏 ㅣㅇㅆ나요? Can you give me five twenties
+* 계단으로 뛰어 올라가고 있어; i'm running up the stairs
+* weigh in‘주로 시사적인 문제에 관심을 보이면서 자신의 의견을 개진하다’의 의미로 사용되는 경우가 많다. 조금 달리 얘기하면, 참견하다, 끼어들다 정도 되겠다
+ * “Anyone else wanna weigh in on the biotech side?” (생명 공학 쪽에 대한 의견 낼 사람 또 있나요?)
+* 레스토랑에 돈을 크게쓰는 것을 부끄러워 하지 않아요; im not above splurging a little bit on a nice restaurant
+* 물렁물렁한 햄버거(모형)을 받았어요; i got a squish hamburger
+* 해파리한테 쏘였어요; i got stung by a jellyfish
+* 우리에게 승산이 있따; the odds are in our favor
+* 큰 박수 보내주세요; let's have a big hand
+ * have/give a big hand for
+* 확실히 -인가봐요; i bet my hat -; 예전엔 모자가 비쌌다
+* 바람둥이 womanizer; 여자: man-eater
+* 이 영화를 살렸어요; SHe's carrying this film
+* 이렇게 표현하는게 맞는지 모르지만; For lack of a better word
+* 스킨십이 좋아; i love physical touch
+* 온라인으로 호텔 가격 비교해보자; let's compare prices on online
+* 본전 뽑겠어; i will get my money's worth here
+* 계약 위반; breach of contract; Isn't that bracking the rules
+* 단축키; keyboard shortcut
 * partially/fairly biased
 * 오른쪽 가르마 타요  i part my hair on the right side
 * 입만 움직여서 욕했어; he mouthed curse words to me
