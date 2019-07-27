@@ -68,6 +68,7 @@
 * 한국은 이 대회 전체 순위 2위에 올랐다. South Korea came in second place overall in the tournament; overally in
 * 사실상 그 두 시스템은 동일하다. In effect, the two systems are identical. 
 * adjective 미국식 [ˈædʒɪktɪv]  [-vɜːrb]  영국식 [ˈædvɜːb]   [ˌprepəˈzɪʃn] conjunction 미국·영국 [kənˈdʒʌŋkʃn] 
+* 신용카드 발송비가 최소 금액과 최대 금액 사이에 포함되지 않습니다. Credit Card shipment charges do not fall/be[fall, lie]  within min and max. 듣기 출처:한샘EUG
 
 # 토익
 * 동의한다 I think so, i belive so  That's what i heard  Unless you have a better idea  As long as it's stable enough
