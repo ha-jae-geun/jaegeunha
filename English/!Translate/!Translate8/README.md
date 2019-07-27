@@ -1,4 +1,15 @@
 # 원어민
+* 서버가 예상치 않은 상태에 있습니다. The service is in an unexpected state. 듣기 출처:YBM
+* -가 눈에 들어왔다; something caught her eye/attention
+* 벌칙받을게요. I'll do the penalty.; you will get punished; You're getting punished together. 
+* 그는 죄가 중해 무기징역을 선고받았다 was sentenced to life in prison for his grave sin. 듣기 출처:능률교육; 
+ * Is it a life sentence?
+* 퉤; i spit on you
+* 끌려다닐 것 같은데; He will get dragged around
+* 바지를 왜이리 올려입어? WHy does he pull his pants up?
+ * 바지가 내려간다; His pants go down
+* 수상하다; Something is fishy
+* 머리에 혹만 났어; i just had a bump in my head; You've got a bump on your forehea
 * 한국으로 달러 보내고 싶어요; i'd like to wire 1000 U.S. dollars to KOREa; 미국에서 보내는거 아니면 US 붙여주기
 * 20센트 3개 줄 줏 ㅣㅇㅆ나요? Can you give me five twenties
 * 계단으로 뛰어 올라가고 있어; i'm running up the stairs
