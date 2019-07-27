@@ -6,6 +6,11 @@
  * Is it a life sentence?
 * 퉤; i spit on you
 * 끌려다닐 것 같은데; He will get dragged around
+* 식물인간으로 살다; live in a coma
+* 지금도 꼬였다; it's already messed up 
+* 약물이 효과가 나타나면 훨씬 기분이 좋아질거야; YOu'll feel a lot better when the medication kicks in
+* 돈을 보태다; chip in; 그들 모두 대의를 위해 돈을 보탰어; They all chipped in for the cause
+* 손만 겨우 닿고 가버릴 듯하게 불안한; It was a touch and go with her health 
 * 바지를 왜이리 올려입어? WHy does he pull his pants up?
  * 바지가 내려간다; His pants go down
 * 수상하다; Something is fishy
