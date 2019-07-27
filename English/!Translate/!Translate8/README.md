@@ -1,4 +1,5 @@
 # 원어민
+* 근데 개방감이 있으니까 너무 좋다. It's really great to see openness though; 솔직함
 * 팔자주름; 저도 여기 팔자주름 부분이 꼭 갈라졌어요. It always cracks around the nasolabial fold/smile lines/wrinkles around the mouth
 * 관심이 많다; has a interest in ; 이빨이 썩었네요; My teeth are rotten
 * 왜 합격한거죠? Why did he got accepted?
@@ -61,6 +62,12 @@
  * 깁스하다; wear/get a cast
 * 일본과 한국 사이의 긴장관계가 있다; THere has been tension between two countries
  * 현재 고조가 되었어요; it has been reaching a really pick moment
+* 네. 인생에 있어서 터닝포인트가 됐죠. Yes, it was the turning point of my life
+
+# 토익
+* 한국은 이 대회 전체 순위 2위에 올랐다. South Korea came in second place overall in the tournament; overally in
+* 사실상 그 두 시스템은 동일하다. In effect, the two systems are identical. 
+* adjective 미국식 [ˈædʒɪktɪv]  [-vɜːrb]  영국식 [ˈædvɜːb]   [ˌprepəˈzɪʃn] conjunction 미국·영국 [kənˈdʒʌŋkʃn] 
 
 # 토익
 * 동의한다 I think so, i belive so  That's what i heard  Unless you have a better idea  As long as it's stable enough
