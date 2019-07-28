@@ -69,6 +69,7 @@
 * 사실상 그 두 시스템은 동일하다. In effect, the two systems are identical. 
 * adjective 미국식 [ˈædʒɪktɪv]  [-vɜːrb]  영국식 [ˈædvɜːb]   [ˌprepəˈzɪʃn] conjunction 미국·영국 [kənˈdʒʌŋkʃn] 
 * 신용카드 발송비가 최소 금액과 최대 금액 사이에 포함되지 않습니다. Credit Card shipment charges do not fall/be[fall, lie]  within min and max. 듣기 출처:한샘EUG
+* 저 혹시 메이크업 우선권이 뭔가요? Is this a priority ticket for the makeup?
 
 # 토익
 * 동의한다 I think so, i belive so  That's what i heard  Unless you have a better idea  As long as it's stable enough
