@@ -1,4 +1,31 @@
 # 원어민
+* 얼굴을 때렸따; he hit me in the face
+* 머리를 써라; use your noodle
+* 저녁으로 뭐 먹어? What ar eyou having for your tea?
+* 잠귀가 밝다; i'm a light sleeper
+* 에어컨을 할부로 구입하다; i pay in installments; pay it in installments for 36 months
+* 위험을 무릎쓰고; at the risk of -
+* 최대; in maximum;
+* 변성기 오다; When did i go through puberty; have your voice broken?
+* 협박하다; threaten; blackmail: 범죄 느낌나는 협박
+* 해질녁에 가셔야돼요; Do it at sunset
+* 100 달러; a hundred;  one hundred: 더 강조해서 말하는 느낌
+* 환율이 얼마에요? What is the exchange rate?
+* penny; nickel; dime; quarter
+* 국가의 초석(礎石)이 되다. be a cornerstone of the State 듣기 출처:프렌딕
+* 집에서 만든 샌드위치? Homemade sandwich
+* 머리 잘어울리네; Your new hairstyle looks good
+* 그냥 아프다 해; YOu should call in sick
+* 음식이 상하다; THe food has gone bad
+* queen; 쿠인; quick ;쿠익;  question; 쿠에스천
+* 일이 좀 생겼어; SOmething came up
+* 솔직히 털어놔; Spit it out
+* 제시간에 와라; Make it on time
+* 오리 모양; Duck shaped candy
+* 여러 박스들이 배달되었다; A lot of boxes have been delivered from -
+* 이용자 참여  네 엄마같이 나한테 말대꾸 하지마.  Don't you sass me like your mother. 듣기
+ * 이용자 참여  제발요, 몰래 나간 건 이번이 처음이에요. Please, it's the first time I ever snuck out. 듣기
+* 메뉴에 있느ㅡㄴ 사진 파스타; some pastaa meals pictured on the menu
 * 성큼 걷기: stride; 소금쟁이: water strider
 * 넘어지지 않게 꽉잡아; hold on tight not to trip and fall
 * 누가 방귀꼈어? WHo cut the cheese?
