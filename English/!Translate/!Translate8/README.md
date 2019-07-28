@@ -1,4 +1,9 @@
 # 원어민
+* 성큼 걷기: stride; 소금쟁이: water strider
+* 넘어지지 않게 꽉잡아; hold on tight not to trip and fall
+* 누가 방귀꼈어? WHo cut the cheese?
+* 헛된 꿈; Oh I guess It would be 'a pipe dream' haha
+* t's dark and overcast. It's likely to rain soon. It's probably gonna rain tomorrow.
 * 근데 개방감이 있으니까 너무 좋다. It's really great to see openness though; 솔직함
 * 팔자주름; 저도 여기 팔자주름 부분이 꼭 갈라졌어요. It always cracks around the nasolabial fold/smile lines/wrinkles around the mouth
 * 관심이 많다; has a interest in ; 이빨이 썩었네요; My teeth are rotten
