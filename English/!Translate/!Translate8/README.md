@@ -1,4 +1,25 @@
+# 중요
+* 이미 들은 사람도 있겠지만; As some of you may have already heard
+* 다음달 부로; As of next month
+* 내가 언젠가 영어를 잘해야해; i have to speak English one of these days to live in Canada
+* 사이다; Seven up / SPrite; 스쁘롸잍
+
 # 원어민
+* 모자이크좀 해줘; Please blur me out
+* 타투받았따; i got a tattoe
+* 사실 한동안 해야지 하고 생가하고 있던거야; It's something i'd been meaning to do for a while
+* 큰일이었겠따; That's must've been a pretty big job
+* 이 버스 다운타운 가나요? Is this the right bus for downtown? Is this bus going to Central Park?
+* 근육이 뭉쳤다; MY neck tenses up
+* 어꺠 근육이 뭉쳤다; i got frozen/stiff/tight shoulders
+* 언제 장마 끝나? WHen will the rainy season end?
+* -한테 고맙다; SHout out to -
+* 인기스타한테 반한적 있으세요? Do you ever get starstruck?
+* 많은(넉넉한) 소금이 필요해요; You need a healthy pinch of salt
+* 그리고 잘 섞이게 저어주세요; Then stir these around to combine  [stɜː(r)] 
+* 2층버스 타세요; Take a red double decker bus
+* 이성적으로 생각해; THink rationally
+* 벽돌로 포장되어있어; A street is paved with bricks
 * 얼굴을 때렸따; he hit me in the face
 * 머리를 써라; use your noodle
 * 저녁으로 뭐 먹어? What ar eyou having for your tea?
@@ -104,6 +125,8 @@
 * 저 혹시 메이크업 우선권이 뭔가요? Is this a priority ticket for the makeup?
 
 # 토익
+* repeat order/prescription/customer or new customers
+* -의 요청에 따라; At the request of; 새로운 사람; New hires
 * 동의한다 I think so, i belive so  That's what i heard  Unless you have a better idea  As long as it's stable enough
 * 1. 99%의 현재 1%의 미래 그중 95는 현재 진행형 
 * ※예외※ A man is sitted on the bench. 보통 수동이 쓰이면 ~한 상태이다라고 해석
