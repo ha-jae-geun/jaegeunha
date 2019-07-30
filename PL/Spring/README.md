@@ -1,3 +1,25 @@
+
+# 스프링 역사
+* beean(메소드로 접근) -> EJB(디자인패턴; 팩토리패턴) -> XML에서 빈 생성; new 호출
+
+# POJO
+* 스프링: 자바 라이브러리 + 스프링 라이브러리 + 의존 라이브러리
+	* 스프링 라이브럴리와 의존 라이브러리 사이의 관계를 메이븐으로 관리
+
+# DI
+* 빈 생성 하는 것을 XML에서 가능
+
+# 메소드
+* 스프링에서는 메소드가 객체
+
+	1. DB(DAO): Repository
+	2. AJAX(resetCOntroller)
+	3. 파라미터(리다이렉트, 포워드): controller
+	4. getter, setter: service
+
+# IOC
+* A a = new A(); 제어권이 넘어가 것
+
 ## ini
 
 
