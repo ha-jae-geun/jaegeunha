@@ -3,8 +3,42 @@
 * 다음달 부로; As of next month
 * 내가 언젠가 영어를 잘해야해; i have to speak English one of these days to live in Canada
 * 사이다; Seven up / SPrite; 스쁘롸잍
+* 집에 망가진 곳이 있엉ㅛ; THere's some damage around the house
+* 어떻게 해서든; One way or another; whatever it takes; no matter the cost
+* 10분 남았다; 개인: we only have 20 minutes left; There is only 20 minutes left
+* 참다; 잡아놓는 그림; hold it; 잡고 놓아주는 그림; catch a cold; catch fish
+* 이따가; later today/thismorning/this morning; some time later
+* USB 있따; i have an external hard drive
+* 깊이 경험하는 것은 없다; never go in-depth with anything
+* 중도휴학하다; i took a semester off to give it a try
+* 살면서 절대 안할줄 알았는ㄷ ㅔ해보 ㄴ것;; What is a thing or things that you thought you would never do in life but you did
+* 주문할 게 많다; i have a long order
+* -하는 것이 더 좋다; 그냥 인정하고 사과하는게 좋다it's better to just admit and apologize
+ * 세차나 하러갈까; Maybe i should get my car washed
+ * 기다리는게 나을거야; it would be better to wait until next week
+ * -하는 것이 나을수도 있어; it could/might be better to
+* 아무것도 얻을 수 없어요; we;ll never get anywhere oy find anything just dipping our feet
 
 # 원어민
+* medium; 미디엄; What's the price difference between edium and large?
+* 비가 조금씩 부슬브슬 내리고 있어요; it's sprinkling right now
+* 아깐 많이 왔는데 지금은 부슬비에요; It was pouring rain but now it is drizzling
+* 정확해요; ON the money
+* 쿠폰을 쓰다; can on ly be redeemed
+* 딱 맞늗나; It fits like a glove
+* 신발 끈을 묶자고요; Let's tie those shoelaces
+* 상대팀의 쇄골을 부러뜨리자; Berak someone's clavicle  [ˈklævɪkl]
+* 너네 아ㅏㅃ 엄청 오버해;Your dad's a trip
+* 토하지 않으려고 노력했따; has been keeping down his food
+* 10분의 1 가격으로; about a tenth of the price
+* 무지방 라뗴 톨 사이즈로 한잔 주세요; Can i get a tall skinny latte
+* 아이스요 따뜻한거요? iced or hot?
+* 걸리적 거리지마; you're getting the the way
+* 훓다 리허설하다; I'll just run through the names
+* - 자신있따; - is my middle name
+* 4박 5일 지낼게; i want to stay for 4 nights and 5 days
+* 소비자의 브랜드 인지도를 높이는 것이 새로운 광고 캠페인의 목표입니다. Creating higher consumer brand recognition is the goal of the new advertising campaign. 
+* 
 * 모자이크좀 해줘; Please blur me out
 * 타투받았따; i got a tattoe
 * 사실 한동안 해야지 하고 생가하고 있던거야; It's something i'd been meaning to do for a while
@@ -118,13 +152,17 @@
 * 네. 인생에 있어서 터닝포인트가 됐죠. Yes, it was the turning point of my life
 
 # 토익
+* be supportive of: 지지하다; be supported by: 지지를 받다
+* be replective/representative/indicative of
 * 한국은 이 대회 전체 순위 2위에 올랐다. South Korea came in second place overall in the tournament; overally in
 * 사실상 그 두 시스템은 동일하다. In effect, the two systems are identical. 
 * adjective 미국식 [ˈædʒɪktɪv]  [-vɜːrb]  영국식 [ˈædvɜːb]   [ˌprepəˈzɪʃn] conjunction 미국·영국 [kənˈdʒʌŋkʃn] 
 * 신용카드 발송비가 최소 금액과 최대 금액 사이에 포함되지 않습니다. Credit Card shipment charges do not fall/be[fall, lie]  within min and max. 듣기 출처:한샘EUG
 * 저 혹시 메이크업 우선권이 뭔가요? Is this a priority ticket for the makeup?
+* [명사] 회원 유도를 위한 낮은 이자율 introductory interest rate 미국식  영국식   단어장추가
 
 # 토익
+* some, several, many는 + 숫자와 사용 불가; these six letters 
 * repeat order/prescription/customer or new customers
 * -의 요청에 따라; At the request of; 새로운 사람; New hires
 * 동의한다 I think so, i belive so  That's what i heard  Unless you have a better idea  As long as it's stable enough
