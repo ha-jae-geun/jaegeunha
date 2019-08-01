@@ -1,3 +1,159 @@
+# 코어
+# 끝 단어
+* ⦁##ght #right away #thought about #bought about; 바트 ght발음이 없어지거 자연스래 연음
+* ⦁##oa #load(로우드; 끌어주기) #road(로드)
+* ⦁##pet ##ket ##let ##net 잇/읻으로 끝남; #jacket, #market, #pocket, #ticket, #bucket, #budget
+* ⦁#certainly #Britain #Putin #Mountain #Button #Manhathn 튼이 아니라 마욷은, 맨핻은
+* ⦁##on; 은 발음으로 끝냄 #onion, #opinion, #common, #Washington
+* ⦁##su 수발음 super, consumer
+* ⦁##d ##b ##ㅡ #believe, #before | #deliver, #delay, #design, #delicious, #delay; ‘으’발음
+* ⦁##caf #cafe; 캐쀄이 #caffein #decaf 디카프 #caffein 캐핀 #cafeterial 캐프티리아
+* ⦁##ren #children #parents #conference #currency
+* ⦁##g ##k #back bag #duck #dog k 발음이 더 강함
+* ⦁##et 잇발음
+* ⦁##cana #canada 캐ㅇ나다 #canadian 캐네디언
+* ⦁#aw #claw #saw #law; 러 [klɔ:]
+* ⦁#eel #feel #wheel #meal #peel #steal
+
+# 기타
+* Salmon; 새먼; l 묵음
+* almond; l 묵음  [ˈɑːmənd] 
+* mature; 머추럴; a가 어 사운드 -ˈtʃʊr;-ˈtʊr]  영국식 [məˈtʃʊə(r);-ˈtjʊə(r)] 
+* vegetable; e발음 없다; 베g터블
+* infamous; 인퍼머스  [ˈɪnfəməs] 
+* ⦁#go to hell; 고러헤엘
+* ⦁#hermione; 헤르미온느; 헐마‘이어니
+* ⦁#stingy; 스팅이; 톡쏘는 스띈쥐; 인색한 사람, 검소한 사람
+* ⦁#calcium 캘쉬움 [ˈkælsiəm]
+* ⦁#vietnam 비엣남
+* ⦁#Bodyguad; 바디가드
+* ⦁#specifically; s는 무성음 p가 성대 울려서 p부터 발음; 페시피컬리
+* ⦁mature 미국식 [mə|tʃʊr;mə|tʊr]; 머춸
+* ⦁salmon 미국·영국 [|sӕmən]; l이 묵음
+* ⦁#finish [|fɪnɪʃ] #finished [|fɪnɪʃt] 3음절 아니라 2음절 쉬드 xx
+* ⦁#Renaissance ‘레너산스  [ˈrenəsɑːns]
+* ⦁#wheelchair 우윌 췌얼
+* ⦁#eiffel top 아이펄 타월
+* ⦁#satan ‘세이튼
+* ⦁#santa 센타
+* ⦁#nikon 나이콘
+* ⦁#medicine 매러쓴
+* ⦁#looks 으룩스 #appearance 피어런스
+* ⦁#put on; 뒤 강세
+* ⦁#'ve i've ; 아입, 압
+* ⦁#how about 하ㅇ바웃
+* ⦁#definitely 데이쁴넏리
+* ⦁##did he? 디리
+* ⦁#scared 스깨얼(된소리 발음 남)
+* ⦁#second 쌔컨/쌔껜
+* ⦁#radio 뤠(이) - 디오우
+* ⦁#and it was 애닏워
+* ⦁#towel 타올
+* ⦁#alright 어울롸잇
+* missile 미국식 [ˈmɪsl]  영국식 [ˈmɪsaɪl] 
+* ⦁#completely (커엄플릳()리)
+* ⦁#behind 바하인드
+* ⦁data 데에라
+* ⦁#related 릴레이릳
+* ⦁#why don't you: 와이돈츄
+* ⦁#kakaotalk 크카오톡
+* ⦁jaws 쟈아쓰
+* ⦁##detail 앞, 뒤 강세 모두 가능
+* ⦁#pagoda 퍼고우다
+* ⦁#bigbang 빅배앵
+* ⦁quiz [kwɪz]
+* ⦁diamond [|daɪəmənd
+* ⦁leopard [|lepərd]
+* ⦁basic [|beɪsɪk]
+* ⦁#genre: [|Ʒɑ:nrə]
+* ⦁#collagen: [|kɑ:lədƷən]  콜라겐
+* ⦁#eraser [iréisər]
+* ⦁#Aloe [|ӕloʊ]
+* ⦁#profile [|proʊfaɪl]
+* ⦁#encore [|ɑ:ŋkɔ:(r)] 
+* ⦁#mayonnaise [|meɪəneɪz]
+* ⦁#margarine [|mɑ:rdƷərən]
+* ⦁#centimeter [séntəmì:tər] 
+* ⦁#chaos [|keɪɑ:s]
+* ⦁#salmon 미국·영국 [|sӕmən]
+* ⦁#cocoa [|koʊkoʊ]
+* ⦁#cemetery- sémǝtèri (특히 교회 옆에 있지 않은) #묘지
+* ⦁#learned: learned 'l3:rnɪd
+* ⦁#sorry: 'sɑ:ri 
+* ⦁#evil: ’i:vl
+* ⦁#model: 'mɑ:dl
+* ⦁#realtor: rí:əltər 공인 부동산 중개업자 초성의 R은 분명하게 발음, 종성 R은 약하게
+* = #estate agent ''ɪ|steɪt 'eɪdƷənt
+* ⦁#nuclear 'nu:kliə(r) 누와 뉴의 중간 발음 , 클리어 보다는 끌리어에 가깝다
+* ⦁#jewelry dƷ'ú:əlri w의 발음은 없으며 입술을 둥글게 모아주면 된다. 뒤에 R도 있기 때문에 입술을 두 번 밖으로 둥글게 빼주면 정확한 발음을 할 수 있다.
+* ⦁#suppose to , supposed to: sə'poʊz : d와 t가 연음이라 d발음을 안해서 거의 발음이 동일하다
+* ⦁#sometime, sometimes some time; 어느 정도의 'sʌmtaɪm,언젠가 ‘sʌmtaɪmz 때때로, 가끔 : 다른 단어니 유의해서 발음
+* ⦁#February, febuary 'februeri : 천천히 정확히 R발음까지 발음한다.
+* ⦁#excape, excape '|skeɪp 이와 에는 헷갈리기 쉬운 발음이다.
+* 익스케이프는 (Extreme + Escape = Excape) 익스트림(극한의)과 이스케이프(탈출 )의 합성어 
+* ⦁#dragon, #tree 'drӕgən tri: dr과 tr은 쥬와 츄로 발음한다.
+* ⦁#film, #filum fɪlm 피움 ,영화 필럼 중간에 l의 발음이 얼마나 강한가에 따라 발음이 달라진다.
+* ⦁#lease, #leash li:s 임대차 계약 lí:ʃ 가죽끈 
+* ⦁s는 입을 조금 벌리고 가볍게 바람을 내보내지만 sh는 입술을 더 둥글게 하고 s보다 강한 바람을 냄
+* ⦁#library, libray 'labreri r발음을 정확하게 하지 않으면 안된다.
+* ⦁#prescription, #perscription prɪ'skrɪpʃn 모든 초성을 정확히 발음하지 않으면 뒤 단어처럼 발음됨
+* ⦁#suit, #suite, #sweet su:t 정장 swi:t 스위트룸 swi:t 
+* ⦁#probably 'prɑ:bəbli 프랄리 가운데 ba를 빼먹지 않고 발음한다.
+* #prolly
+* ⦁#start to, #expect to, ik'spektu : 연음이기 때문에 앞에 t 발음 하지 않는다.
+* ⦁#install ɪn'stɔ:l l 발음이 나중에 있기 때문에 혀를 마지막에 붙여준다.
+* ⦁#offices, |ɔ:fɪsis : 제일 마지막음은 약하게 발음하지만 분명하게 발음한다. 
+* ⦁#internet 'ɪntərnet : 첫 번째 음절에 강세가 있기 때문에 유의한다.
+* ⦁#finish 'fɪnɪʃ : f는 분명하게 발음하고 마지막 쉬는 약하지만 분명하게 발음한다.
+* ⦁#new , nu: : 누와 뉴의 중간으로 발음한다.	
+* ⦁#installations, 'ɪnstə '' leɪʃn : 3음절에 강세가 있으며, 마지막 s도 분명하게 발음한다.
+* ⦁#conference, 'kɑ:nfərəns : 1음절에 강세가 있으며, f를 분명하게 발음한다.
+* ⦁#several, 'sevrəl : 1음절에 강세고 r과 l이 연속되어 나오므로 주의한다.
+* ⦁#those, 'ðóuz : 초성발음은 강하게 그리고 분명하게 발음한다.
+* ⦁#locations ,loʊ'keɪʃnz : 마지막 z는 약하되 분명하게 발음한다.
+* ⦁#question , ‘kwestʃən : 첫 q는 입술을 둥글게 빼면서, 휘파람이 날 정도로 연습한다.
+* ⦁#preboarding, pri:-‘bɔ:rdɪŋ ,먼저 탑승 : pre는 접두어니까 강세가 없고 boarding에 강세가 있다.
+* ⦁#announcement, ə'naʊnsmənt : 2음절에 강세가 있고 ment는 접두어로 약하지만 분명하게 발음
+* ⦁#flight, flaɪt 항공편 , 초성 f를 분명하게 발음한다.
+* ⦁#sydney, sídni : 초성 s를 분명하게 발음하고 시보다는 씨다
+* ⦁#invite, ɪn'vaɪt : 2음절에 강세이고 v발음에 조심한다.
+* ⦁#invitation, 'ɪnvɪ '' teɪʃn : 3음절에 강세이고 v발음에 조심한다.
+* ⦁#those, 'ðóuz : 무성음인 th발음이 아닌 유성음 발음이다.
+* ⦁#passenger, 'pӕsɪndƷə(r) : 1음절 강세이고 d3에서는 입술을 앞으로 빼고 강하게 발음한다.⦁#small, smɔ:l : L이 마지막에 있으므로 Dark l발음으로 약하게 발음한다.
+* ⦁#children, tʃíldrən : 초성인 tS를 강하게 발음하고 dr은 한번에 발음한다. (따로 발음하면 안됨)
+* ⦁#assistance , ə'sɪstəns : 2음절에 강세가 있고 강세가 없는 2번째 ə는 발음하지 않아도 된다.
+* ⦁#regular, 'regjələ(r) : 1음절 강세이고 초성 r을 분명히 발음한다.
+* ⦁#approximately, ə''prɑ:ks'mətli 어프락시멧리 : 강세를 지키져 천천히 읽는다.
+* ⦁#simba, simba: 고유명사이므로 분명하게 발음해 주어야 하며 ㅅ보다는 ㅆ발음으로 발음한다.
+* ⦁#restaurant, 'restrɑ:nt : 레스토랑이 아니고 마지막 t발음은 살려준다.
+* ⦁#recommended, ''rekə'mendid : 1음절 강세이고 마지막 ed발음은 약하게 하지만 분명히 발음한다.
+* ⦁#stylish, 'staɪlɪʃ : 마지막 S발음이 사라지는 경향이 있으니 주의한다.
+* ⦁#wonderful , 'wʌndərfl : w의 발음은 소리는 없이 입술을 둥글게 모아서 발음할수록 정확한 발음
+* ⦁#compliment , 'kɑ:mplɪmənt : 1음절에 강세가 있다.
+* ⦁#delicious , dɪ'lɪʃəs :2음절 강세이다.
+* ⦁#weather, ‘weðə(r) : th발음이 ð 유성은 발음이다. 혀를 윗니와 아랫니 사이에 놓고 발음한다.
+* ⦁#forecast, 'fɔ:rkӕst : 1음절 발음이다.
+* ⦁#sailor , ‘seɪlə(r) , 선원 : 1음절 강세이고 or에 억양을 내려 발음한다.
+* ⦁#passage, 'pӕsɪdƷ, 통로, 구절 : 1음절 강세이고 마지막 d3에서 입술을 모으고 바깥쪽으로 빼줘야함
+* ⦁#routing, ráu:tiŋ : ou의 발음이 아우로 된다.
+* ⦁#worldwide, 'w3:rldwaɪd : w발음은 한국어에 없는 발음이므로 주의해서 입술을 앞으로 모아 쭉뺀다.
+* ⦁#surface, 's3:rfɪs : 1음절 강세이고 f발음에 주의한다.
+* ⦁#pressure, 'preʃə(r) : 1음절 강세이고 중간에 ss발음이 쉬발음이 된다.
+* ⦁#visibility , ''vɪzə ' bɪləti : 초성이 v이고 강세가 1음절에 있다. 중간 모음도 생략말고 정확히 발음
+* ⦁#0.5 , zirou point faiv: 숫자는 필수요소에 해당하므로 강조되어야 하고 온도기 때문에 point
+* ⦁#daily , 'deɪli : ai의 발음에 에이가 된다.
+* ⦁#Virginia , vərdƷ'ínjə: 초성인 v발음에 주의, gi 가 d3i이므로 입술을 둥글게 말아 앞으로 빼며 발음
+* ⦁#resident , 'rezɪdənt : 1음절에 강세가 있다.
+* ⦁#tution free tu'ɪʃn fri, 수업,등록금 : tion이 S발음이다.
+* ⦁#through , θru: : th 발음과 r발음에 유의한다.
+* ⦁#seniors , 'si:niə(r)z : 1음절 강세이며 마지막은 s가 아니라 z이다.
+* ⦁#eligible , 'elɪdƷəbl : 1음절 강세이며 gi가 d3i이므로 입술을 둥글게 모아서 발음한다.
+* ⦁#bulletin , 'bʊlətɪn : 1음절 강세인데 신경을 잘 안쓰는데 주의해서 신경쓰자.
+* ⦁#approved , əpr'ú:vd : 2음절 강세이며 마지막 ed를 약하게 발음한다. 약한 발음을 살려주려면 강세를 좀 더 강하게 주면 된다.
+* ⦁#commision , kə‘mɪʃn, 위원회 : 1음절 강세가 아니라 2음절 강세이다. 혼동이 많은 단어다.
+* ⦁#charged , tʃ'ɑ́:rdƷd : 1음절 강세는 잘하나 d3에서 입술을 제대로 모으고 d도 약하게라도 발음
+* ⦁#rebel: 동사 re'bel 명사: rɪ'bel
+
 ## 처음에는, 애초에, 먼저, ~하는게 처음이다
 * 처음에는
    * at first ➪ 문장 처음 or 마지막
