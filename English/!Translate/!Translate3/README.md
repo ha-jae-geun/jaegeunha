@@ -154,6 +154,160 @@
 * ⦁#charged , tʃ'ɑ́:rdƷd : 1음절 강세는 잘하나 d3에서 입술을 제대로 모으고 d도 약하게라도 발음
 * ⦁#rebel: 동사 re'bel 명사: rɪ'bel
 
+## Sophie ban
+* ARIA
+* AMBASSADOR
+* CAESARS
+* MARRIOTT
+* the MGM 
+*  * 관사 the는 처음 철자의 모음 발음에 따라 /더/가 아닌 /디/로 발음이 됩니다.
+* 영어철자 A,E,I,O,U에 따라 관사 “an”을 쓰거나 “the”가 /디/로 발음되는게 아니에요.
+* RENAISSANCE 
+* RITZ CARLTON (=THE RITZ)
+* MONTE CARLO
+* VENETIAN
+* WHYNN
+* 모든 호텔 이름 앞에는 관사 “THE”를 꼭 붙여야해요. 하지만 예외적으로 호텔 “CAESARS”는 예외적으로 붙이지 않습니다.
+* CAESARS 앞에 THE를 붙이지 않는 이유는 원래 호텔이름이 CAESARS‘S PALACE라고 CAESARS‘S (사람이름의) 소유격이기 때문이예요.
+* 만약 말씀하시고 싶으시면 “the palace”라고는 할 수 있어요. PALACE라고 불리는 어떤 호텔이든간에 “the palace”라고 말할 수 있지만, 여전히 “the CAESARS”라고는 말하지 않는 답니다. 
+* 또 다른 한 가지는 사람들이 잘 모르는 유명한 호텔이 아닐 경우에는 호텔 이름 앞에 관사 “THE”를 붙이지 않아요. 왜냐하면 이 호텔 이름들은 사람들이 당연히 알고 있을꺼라고 여기는 곳들이거든요. 예를 들어 “부티끄(BOUTIQUE)”호텔이라고 사람들이 잘 모르는 작은 호텔 이름을 말할 때는 THE를 붙이지 않게 된답니다. 유명한 호텔 앞에만 붙이는 것임.
+* 
+* 4.-1. 외래어를 그대로 영어로 쓸 경우 어색하게 들리는 단어들
+*    2. 쉬운 단어들이지만 의외로 틀리게 발음하는 단어들
+*    3. 프랑스에서 유래된 외래어
+* 
+* Alarm
+* Alcohol
+* Asphalt  [ˈæsfɔːlt] 아스팔트
+* Basic  [ˈbeɪsɪk] 
+* Business / Camera / Family / Opera   ☞  묵음 
+* Cocoa  [ˈkoʊkoʊ]
+* Coke(=Coka Cola)  / Coke(=Cocaine)
+* 문맥에 따라서 Coke가 콜라를 뜻할 수도, 마약류인 코카인을 뜻할 수 있습니다.
+* Cashier  [kæˈʃɪr]
+* Effort(노력)
+* → 두 번째 “O”가 first할 때 IR부분의 발음처럼 되어야합니다.
+* Monitor   [ˈmɑːnɪtə(r)] 명/동사
+* Off / of 
+* Vinyl [ˈvaɪnl]
+* Wall
+* Want / Won’t 
+* 
+* 5.프랑스에서 유래된 외래어
+* Baguette  [bæˈɡet]
+* Buffet   [bəˈfeɪ]
+* Cafe  [kæˈfeɪ]
+* Cafeteria  [ˌkæfəˈtɪriə]  
+* Chandelier  [ˌʃændəˈlɪə(r)]
+* Colongue  * perfume은 영어지만 colongue과의 용례비교
+* ※ perfume와 colongue의 차이 : perfume은 “향수”라는 의미로 많은 분들이 알고 계시지만 
+* 사실 분명한 용례의 차이가 있답니다. 가장 큰 차이점은 남자분들이 쓰는 “향수”를 말씀하실 때는 “colongue”이라고 해야 한답니다. perfume이라고 할때는 여자분들 향수를 말할 때 써요, 때로는 여자분들이 쓰는 향수를 말할 때도 colongue이라고 할 때도 있어요. 하지만 남자분들이 쓰는 향수를 말할 때는 절대로 perfume이라고 하지 않는 답니다.
+* Garage  [ɡəˈrɑːʒ;-ˈrɑːdʒ] 
+* Genre [ˈʒɑːnrə]
+* Guinness 기네스북/ 맥주이름
+* Gourmet  [ˈˈɡʊrmeɪ] → foodie 도 같은 의미로 쓰일 수 있어요. 미식가 / 고급요리 
+* Resume  [rɪˈzuːm]동  [ˈrezəmeɪ] 명→ 
+* 동사와 명사 철자가 같고, 두 가지로 모두 쓸 수 있지만, 동사로 쓰일 때와 명사로 쓰일 때 
+* 발음과 액센트가 달라요.      이력서  / 다시시작하다 
+* Nuance [ˈ [ˈnuː-ɑːns]
+* Via   [ˈvaɪə;ˈviːə]
+* Bon Voyage [ˌbɑːn vɔɪˈɑːʒ] 여행 잘 다녀오세요 (여행을 떠나는 사람에게 하는 인사말)(거리개념)﻿
+
+
+# heteronym
+* heteronym 미국·영국 [ˈhetərənɪm]; 동철 이음 이의어(철자는 같으나 음과 뜻이 다른 단어). 예를 들어 ‘찢다’는 뜻의 tear와 ‘눈물’이라는 뜻의 tear
+
+## st
+* 츠츠; We became like ghosts
+* Distinguished guests, Ghosts; BTS 연설 발음
+
+## ed
+* 과거형 동사발음; launch; 동사 발음을 정확하게 하고 뒤에 ed를 넣는 느낌
+* 드는 돈; cost; It costs 5000won; 코씉쓰; st발음은 모음만 뺀 발음이 ㅏ야한다
+
+
+## 장모음, 단모음
+* i: ee; sleep; ea: heat; ie: piecee, ei: receive; 길게 가로로 발음
+* i: hit, y: gym, ui: build; 입의 움직임이 적음, 이와 에의 중간소리; 입모양은 에 발음은 이
+
+## z발음
+* use; z 발음: 동사; 
+* close
+* excuse
+* abuse
+* house
+
+## O
+* 오우; 우로 끝남
+
+## 강세 앞에 명사
+* increase; 강세
+* decrease
+* present; 선물(프레전트), 증정하다(프리젠트)
+* record; 레'코드; 리코'드 
+* content; 칸텐트; 컨텐'트; 만족
+* contest: '칸테스트; 컨'테스트
+* object; 압직트; 어브'젝트; 목적, 반데
+* permit; 인가서, 허락하다
+* desert; 데절트; 사막, 디절트; 버리다, 포기하다
+
+## 모음 소리의 변화
+* gradutae; 그레줘엇; 졸업생
+* bow; 보우: 활; 바우: 인사하다
+* lead: 리드; 인도하다; 레드: 납
+* resume; 리줌; 재개하다; 레져메이
+* wind; 우아인드: 감다, 구부러지다
+* wound; 우아운드; 감았다; 구부러지다; 운드: 상처
+ ----------
+* rural [ˈrʊrəl] 
+* colonel 미국식 [ˈkɜːrnl]; 대령
+* [명사] 지협(地峽); isthmus 미국식 [ˈɪsməs]  영국식   단어장추
+* choir 미국·영국 [ˈkwaɪə(r)]
+-----------
+* #발음 기본 enunciation 미국·영국 [inʌ̀nsiéiʃən,-ʃi-]; #말투
+* #음성; the International #Phonetic Alphabet 
+* #발성; #diction is #deplorable
+* 이 단어를 어떻게 발음하는 겁니까? How do you #pronounce this word?
+* #또렷이 말하다; #enunciate #articulate
+* #연어; #collocation 미국식 [|kɑ:lə|keɪʃn] 
+* 유성자음
+---------------
+
+* 복수 s: parents(윗니에 츠하고 바람 내뱉어주기)
+* 모음 앞의 #S
+* 뒤에 say도 /세이/가 아닌 /쎄이/로 모음 앞의 s는 ‘쎈언니’ 발음 해 줍니다. 
+* I can't say. 그래서 /아이 캐앤~ 쎄이/ 이구요, 영국식 /아이 카~안 쎄이/
+* s뒤에 tpk 								된소리가 난다. ; spinner
+* #sh; 입을 쭉 내밀고 쉬; shy, shine, wash
+
+
+# ss
+* pressure, 'preʃə(r) : 1음절 강세이고 중간에 ss발음이 쉬발음이 된다.
+
+# tion
+* tution free tu'ɪʃn fri, 수업,등록금 : tion이 S발음이다.
+
+## u; u 발음을 튕겨준다 = 이유; bus, duty, cute, united
+
+
+## v: 준비동작 ‘으’; very, vow, visa, voice
+
+# w
+* w발음은 한국어에 없는 발음이므로 주의한다.
+* w의 발음은 소리는 없이 입술을 둥글게 모아서 발음할수록 정확한 발음이다
+* wonderful , 'wʌndərfl 
+* #we're 월
+
+## x 이를 앙 물과 진동소리(Z발음)을 내준다); xerox, #xylitol, #xylophone
+## y: ‘이’라는 소리를 작게 내준다.
+## z; 앙 다물고 -> 혀끝을 앞니에 살짝 대고 진동소리를 내준다; zoo, zip, zero
+
+* #19
+* ‘naɪn’‘ti:n 2음절에 강세
+
+* #44
+* 'fɔ:rti ''fɔ́:r 뒤 숫자에 더 강세
+
 ## 처음에는, 애초에, 먼저, ~하는게 처음이다
 * 처음에는
    * at first ➪ 문장 처음 or 마지막
