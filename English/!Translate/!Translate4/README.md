@@ -1,3 +1,210 @@
+# 코어
+* Chocolate is still the most popluar gift for the Valentine's Day; choclolate; 중앙 o 발음 안함; most가 자음 셋의 연속 사이에 끼어 있어 t 무음;  Valentine; 밸; 애 발음 길게
+* 우리 동네에도 이런데가 있었으면 좋겠다. I wish we had a place like this in our neightborhood; our을 r로 발음
+* read in English; 리리닝글리쉬;   the use of electronic cigarettes; 벨렉ㄳ
+* pocket; pa-낏,         opportunity; 아뻐투너티; 아 크게;      bad idea; 배-라이디어(bed와 구분)
+* recognition; 뤠컥 충분히 쉬고 니션
+* on our; [on ar]     flowery; flower + 이        advantage [앳 ˈvæn-]
+* certificate of appointment; 러버 pɔɪntmənt]
+* chief executive officer; 취픽 제뀨리 버피썰
+* clothes  [kloʊðz;kloʊz]  cloth 미국식 [klɔːθ] clothing 미국식 [ˈkloʊðɪŋ] 
+* option; 압션; again [əˈɡen;əˈɡeɪn]   easily; 이즐리;      extraordinary 미국식 [ɪkˈstrɔːrdəneri] 
+* agents; ˈeɪdʒənt], wants; t 묵음      pixel; 픽쓸;   launch 장모음 [lɔːntʃ]  ; lunch 단모음 
+* foreign 미국식 [ˈfɔːrən;ˈfɑːrən] 인;   market; 낏
+* worh of items; [ˈaɪtəm];        rocket; 킷    suicide 미국·영국 [ˈsuːɪsaɪd]
+* said it; 셋; 세릿
+* Your; 유얼 안으로 먹는 소리; you'll have to learn how to manage your time well
+* designated 미국·영국 [déziɡnèitid];  잡동사니; odds and ends; and 약하게
+* basically 미국·영국 [ˈbeɪsɪkli], exaclty; 끌리
+* caramel 미국·영국 [ˈkærəmel  macchiato; 에 강세;   americano; 카 강세;  america; 메 강세
+* 경박한 말 a facetious comment/remark   [fəˈsiːʃəs]    exquisitely  [ɪkˈskwɪzɪt;ˈekskwɪzɪt]
+* 아파트 관리인; concierge 미국식 [kɔːnˈsjerz] 
+* 이탈리아 그림 감정가 a connoisseur of Italian painting  [itǽljən] [ˌkɑːnəˈsɜːr;-ˈsʊr] 
+* corridor 미국식 [ˈkɔːr-;ˈkɑːr-]; His room is along the corridor; i 발음 약하게
+* Stockholm 미국식 [stɑ́khoulm] 
+* 에밀리는 변덕스러운 성격 때문에 함께 살기가 힘들었다.	Emily’s mercurial temperament made her difficult to live with. [mɜːrˈkjʊr-]
+* 감지하기 힘든 색깔/향/냄새 등 subtle colours/flavours/smells, etc.  ˈsʌtl] 
+* bold 미국식 [boʊld]; 입 모우기   bald 미국·영국 [bɔːld]; 입 벌리기
+* veteran 미국·영국 [ˈvetərən]   marijuana 미국식 [ˌmærəˈwɑːnə]
+* 그에 대한 처벌이 다른 사람들에 대한 제지 효과를 낳기를 바란다. Hopefully his punishment will act as a deterrent to others.   [-ˈtɜːr-]  영국식 [dɪˈterənt
+* coupon 미국식 [-pɑːn;ˈkjuː-]  영국식 [ˈkuːpɒn]; 쿠, 큐 두개
+* 아주 불쾌한 행동 obnoxious behaviour   [-ˈnɑːk-]  영국식 [əbˈnɒkʃəs] 
+* miracle 미국·영국 [ˈmɪrəkl]    etc 미국·영국 [etsetrə] 
+* 환자를 마취시키다 put a patient under anesthesia; anesthesia 미국식 [æ̀nəsθí:Ʒə] 
+* 성실한 학생/교사/근로자 a conscientious student/teacher/worker   [ˌkɑːn-]  영국식 [ˌkɒnʃiˈenʃəs]
+* 관절염 arthritis 미국식 [ɑːrˈθ-]  영국식 [ɑːˈθraɪtɪs
+* Mediterranean 미국식 [ˌmedɪtəˈreɪniən]; a Mediterranean country
+* popularity 미국식 [ˌpɑːp-]  영국식 [ˌpɒpjuˈlærəti];  격렬: severity 미국·영국 [səvérəti]
+* statistics 미국식 [stətístiks]   artery 미국식 [ˈɑːrt-]  영국식 [ˈɑːtəri]; blocked arteries 
+* orange; or 발음 + 인ge,  Strawberry; 스트로 입술울 모으지 않은 상태에서 '스트로' + bear + 이 
+
+# 기타
+* adequate (←adequately) 미국식 [ˈædɪkwət] 
+* 미국식[-ˈnɑːs-]발음듣기 영국식[raɪˈnɒsərəs] rhinoceros   Vietnam 미국식 [viètnɑ́:m,-nǽm,vjèt-,vì:ət-]
+* sit: s + 이에 + T  seat: S + 이 + T
+*  [ˌɑːn-]  영국식 [ˌɒntrəprəˈnɜː(r)]: 보통 자기의 사업, 자신의 회사를 차린 사람을 의미 businessman: 회사에서 근무하는 회사원
+* nuance 미국식 [ˈnuː-]  영국식 [ˈnjuːɑːns] 
+* recital 미국·영국 [rɪˈsaɪtl]    cord, chord [kɔːrd]  (dress) code 미국식 [koʊd]
+* lingerie [ˌlɑːndʒəˈreɪ] 레이까지 아니면 loundry와 헷갈림 [ˈlɔːndri] 
+* basic  [ˈbeɪsɪk]  beige 미국식 [beɪʒ] 
+* courageous 미국식 [kəˈreɪdʒəs]  courage 미국식 [ˈkɜːr-]  영국식 [ˈkʌrɪdʒ]
+* instead; s 다음의 t는 된소리이다; instead
+* 1음절 강세; author, comfortable, beverage, recognize, detour [-tʊr]  영국식 [ˈdiːtʊə(r)], temperature, passenger, consequently, purchase, possible, local, photograph
+* 2음절 강세: performance
+* 3음절 강세; individual, inconvenience, engineer, understand
+* Argentina;  [ɑ̀:rdƷəntí:nə], afghanistan [æfɡǽnəstæ̀n], Africa  [ǽfrikə], 칠레; [tʃíli], Hungary  [hʌ́ŋɡəri]
+* comfortable; o andma; vegetable; e묵음; almond; l 묵음; jewellery; 뒤 e 묵음
+* literally; 1. litter early  2. 리덜얼리
+* february; 1. [fe-bru=ar-이] 2. [fe-byu-ar-이]
+* help; 헤-얼프;  r발음을 받침 보다는 before; 비포-얼
+* camaraderie 미국식 [ˌkɑːməˈrɑːdəri]; calm: 입 크게 벌리고 컴; come: 작게 동그랗게 
+* absolutely; 앱 쏘(ㅓ)뤁  (을)리;  definitely; deaf + in  + neat + 리
+* caffein; 캐피-인;  january; Janu + air + 이; 우크라이나: Ukrainian 미국식 [ju:kréiniən,ju:-kráin-] 
+* unwind[언윈드](X)가 아니라 unwind[언와인ㄷ] (O)입니다.
+* x: 1. 바람을 빼거나 크스 [ks] 2. 아니면 올려주거나 그즈 [gz]
+* vanilla; 버닐러; perilla leaves; 퍼릴러 
+* 그녀 데려가는데 얼마나 걸려? How long is it gonna take to get her out of there; dad: 데드 혀 땅; How long is it gonna; how에서 빡 짓고  한 호흡에; take to get her: take 빡 찟고 한호흡; take, to 두번 t 소리; 아러데어
+* split; t 강조 필요없이 호흡을 짧고 강하게 소리내면 됨
+* roud; 로우드; choreography choreography 미국식 [ˌkɔːriˈɑːɡ-]; graphy 앞에 강세
+* generic; 제네릭; genetic; 지네릭
+* purple; 혀를 꽈야 한다보다 입안에 닿지 않게 하기 위해서 입술을 내민다. people의 힘이 빠진 쁠
+* McDonald's 맥; 호흡을 세게 하면서 참는 느낌 맼; 도가 아닌 '다' 발음; d 발음 안하고 s 붙여서 널스;
+* secretary 미국식 [-teri]  영국식 [ˈsekrətri] 
+* france;  [frǽns]; 블  Jordan dƷɔ́:rdn]  japan 미국·영국 [dƷəpǽn]
+* 수제자; pupil; i keep trying to be your star pupil; pupil: (초, 중,생같은 어린 학생); 퓨플발음
+* It's on the table; 미국 '언' 발음; 영국, 호주: '온'에 가까운 발음
+* the southeaster U.S state of Florida; U 강조, Florida; 플로+르다(약하게)
+* 한 선수가 경기동안, 상대편 선수들로 부터 압박을 받고 ㅣㅆ으면서 패스하려고 보고있다. A player looks to pass under pressure from opposing player during the game; 방향 생각
+* Mom; 음-마-음; i don't; 도운; 동그라미; want; 워-언 입술 모으고 콧소리; another' (어)나더r; lecture; 렉-셜
+* debris;   [dəˈbriː] s ㅁㄱ음
+* Ashma; 애스마, Pizza; 피-쯔아, iron; 아이얼ㄴ; banquet; 국 [ˈbæŋkwɪt]  뱅쿠엩; rural; 룰얼; discretion; 디스크래션; epitome; 에피트미;  [ɪˈpɪtəmi] 완벽한 본보기
+* you; 유우; do; 두우
+* comfortable; 컴프fr터블
+* you won't talk to me; won't; 입술 모으고 오우 발음으로 진동 만들기; talk to; 턱을 세게 내리다; you; 유우; that; 입을크게 턱을 세게 내리기
+* i've tried to talk to her;  츄라아아이; 라 발음 길게; 투턱 리듬
+* heart [hɑːrt], hurt [hɜːrt]
+* pork, fart; f 1. 2, 3박자 끌면서 발음; 
+* order; 혀가 입안에 어디에서 닿지 않게 오올하다가 그 자리에서 입천장을 살짝 치면서 떨어지는 소리에 덜; i ordered four hamburgers for my family; ham에 강세가 있어 바람을 내뱉음
+* where, what, which, when은 w 사운드; who는 h사운드
+* t로 끝나는 great, sweet, heart는 숨을 막아줘야함
+  Have a great day sweet-heart
+* Listen to this craziness; 리슨 투드's; cra강세
+* I just wanted to say hello; 워닛
+* You are uptight  [ˌʌpˈtaɪt]  with this kind of thing; 카이너 띠잉(여운) 
+* 맨하튼; 맨햍(혀천장붙이기 + 호흡 끊기)은(콧소리) = button
+* admirable 미국식 [ˈædmərəbl]
+* bathroom: ba에서 숨 참고 th까지 발음하면서 숨을 뱉고 멈추며 바람을 불듯 room 발음
+* get some; get과 someone 띄어서 bit someone; Don't hit so hard; I got sick
+* hardly; 할리
+* What is that; 와리잿; 와리즈잿 What does daat; 와리잿; 왓드잿
+* up with; 업뿟; k up with; 깝뿟
+* said she; 쌔치; 쌔취; she said she
+* see what i; 씨와라; i'll see what i can do
+* 뭐 하나만 물어보자; Hey hey; Let me ask you a question; Hey, hey: 호흡; let; question; 호흡; ask: 호흡 많이
+* we're - were 발음
+* clothes; close와 같은 발음
+* year <> ear; ear이 '이'발음이 조금 더 뚜렷
+* Mayo; Mayonnaise; 메이어네이즈  [ˈmeɪəneɪz]; 블
+* need you to do; 니쥬쥬쥬 something for me; 섬닝
+* i need you to talk to your sister; to talk 투턱 리듬
+* age, cage, beige; e를 모음으로 읽지 않고 자음만 발음; biology, allergy; gy발음; allergic; 강세 뒤
+- 스티븐이 회으를 소집했는데, 뭔가 큰게 터진거 같아; Stevens called a meeting, and I think something big might be up. 
+* Stevens 공기 많이; called: 공기가 탁 트이듣이 + 입안 깁숙한 '어' 발음, and i thing something: 호흡 끊기, big: 입술 빡, might be up: 소리 자르기(숨 참긴)
+* I'm really looking forward to; really: 복식; looking; 루끈; 숨참고; forward: 입술 모으고 풀면서; to it: 호흡 뱉으면서
+* 네가 계속 원하던 거잖아; THis is what you always wanted; wanted: 입안 안에서 발음; wanted: 아주 작은 d 발음
+* 그 어색한 기운을 풀려고 노력해요; i try to get rid of that awkward feeling
+* 안전을 위해서 각자 차를 운전해어요; we each drove our-self for sfety reasons
+
+
+## 강세
+* mistake; 뒤 강세
+* campaign; 뒤 강세
+
+# th
+* 혀를 앞니 뒤에 넣고 떨어뜨려도 비슷한 발음이 난다
+
+# won't, want, weren't
+* won't + R
+* want + N / to R / N to R
+* weren't + n / -ing / @ / -ed / 전+N; 명사일때만 겹침; 워:r언
+
+# 슈와발음 schwa; 강세를 받지 못한 발음
+
+* ⦁#march- 행진하다 #match- 성냥, 경기
+* ⦁#bellwether; 미·영 [|belweðə(r)] #전조
+* ⦁#inoculate- 접종하다, 예방 주사를 놓다 [ɪ|nɑːkjuleɪt] 
+* ⦁#위선자; #hypocrite- 위선자 [|hɪpəkrɪt]
+* ⦁#withhold- (…을) 주지 않다
+* ⦁#harass- 괴롭히다, (적을) 반복 공격하다 [|hӕrəs ; hə|rӕs] 
+* ⦁#fluorescent- 형광성의, 화사한 [|flɔː|resnt ; |flʊə|resnt ; 美 또한 |flʊ|resnt]
+* ⦁#hyporcrite; hypocrite- 위선자 [|hɪpəkrɪt]
+* ⦁#연락; #liaison- (조직・부서 간의 정보・의견 교환을 포함한) 연락 [li|eɪzɑːn;|liəzɑːn] 
+  * Ensure liaison between schools and parents
+* ⦁#덮개; #upholstery- (소파 등의) 덮개[커버] [ʌp|hoʊlstəri] 
+
+* ⦁#titivate- (외모를) 매만지다 [|tɪtɪveɪt] #titillate- 자극하다 [|tɪtɪleɪt] 
+* ⦁#averse- ~을 싫어하는 #adverse- 불리한
+* ⦁#torturous- [tɔ́ːrtʃərəs] 고통스러운 #tortuous- [|tɔːrtʃuəs] 길고 복잡한
+* ⦁#draught #drought [drɑːft]; There's a draught in here.; 찬바람; two years of severe drought
+* ⦁#grim#;#엄숙한 a grim face/look/smile #grime; 때; [graɪm]; a face covered with grime and sweat
+* ⦁#appraise; [ə|preɪz] #평가하다; #apprise [ə|praɪz] #알리다
+* ⦁#titillate; (특히 성적으로) #자극하다 #titivate; (외모를) #매만지다
+* ⦁#months th발음 오히려 빼고 먼스
+* ⦁#aunt [ӕnt] 미국식 발음듣기 영국식 [ɑ:nt] 개미: ant 미국·영국 [ӕnt] 
+* ⦁#lose; 루우ㅈ #lost; 러어스트 #loss; 러ㅅ #loose; 루ㅅ #loosen 루슨
+* ⦁#often; 업튼 발음도 됨
+* ⦁#italy 이를리
+* ⦁#salmon 샐먼
+* ⦁#magarine [|mɑ:rdƷərən] 말줘린
+* ⦁#mayonnaise 미국식 [|meɪəneɪz] 메
+* ⦁#orange 미국식 [|ɔ:rɪndƷ;|ɑ:r-]
+* ⦁#charisma 미국·영국 [kə|rɪzmə] 커
+* ⦁mango 미국식 [|mӕŋgoʊ]
+* ⦁#missle 미쓸
+* ⦁#lingerie 란저뤠이
+* ⦁#mascot 매스껏
+* ⦁#buffets 버페이  [bəˈfeɪ]
+* ⦁#cocoa 코코  [ˈkoʊkoʊ]; 블
+* ⦁#boomerang 부머뤵  [ˈbuːməræŋ]
+* ⦁#whip cream 윕크림
+* ⦁#careml 캐러멜  [ˈkærəmel]
+* ⦁#theme 띠임
+* ⦁#mobile 모블
+* ⦁#encore 앙코얼 [ˈɑːŋ-]  영국식 [ˈɒŋkɔː(r)]
+* ⦁#valet 발레이  [ˈvæleɪ;ˈvælɪt;美또한væˈleɪ] 
+* ⦁#bouqet 보케이 [buˈkeɪ]
+* ⦁#camera 캐므롸 [ˈkæmərə]
+* ⦁genre 미국식 [|Ʒɑ:nrə] 좐롸
+* ⦁#Olympic [ə|lɪmpɪk]: 올림픽의 (참고: Olympics [əlímpiks]: 올림픽) 2번째 강세
+* #횃불; #Torchbearer; the flame for the 2018 winter
+* ⦁#Brazil [brə|zɪl]: 브라질; 2번째 강세
+* ⦁#bald[bɔ:ld] #bold [boʊld]
+* ⦁#cook #kook(괴짜)
+* ⦁omnipotent; 전능한 ɑːm-]  영국식 [ɒmˈnɪpətənt]  impotent; 발기 불가능한  [ˈɪmpətənt]
+* ⦁#thing 띈
+* ⦁#bus #boss boss 보오스 턱이 더 많이 내려감
+* ⦁##poor #pour 곰돌이 푸 가난하다
+* ⦁##man #men man: 장음 매엔 men: 단음 맨
+* ⦁#feel[feel]; 더 긴 발음 #fill [fil]
+* ⦁#cooperate ⦁corporate [koh-op-uh-reyt] [kawr-per-it, -prit] 레잇은 동사   [ˈkɔːrp-]  영국식 [ˈkɔːpərət] 
+* ⦁#bed #bad #dead #dad [dӕd]; 더 발음이 길다
+* ⦁#cloth [klɔ:θ] #clothes [kloʊðz;kloʊz]
+* ⦁stationaries ['steiʃənəri]: 움직이지 않은 sta·tio·nery [stéiʃənèri]: 문구류
+* ⦁#erection: #발기 #election: 선거
+* ⦁#flaunt: 과시하다 [flɔːnt] | flout: (법을)어기다 [flaʊt] 
+* ⦁#drawn: 헬쑥한 [drɔːn], 익사하다: #drown- [draun] 익사하다 
+* ⦁#envelop#- 감싸다 [ɪn|veləp] #envelope- 봉투 [|envəloʊp;|ɑːn-] 
+* ⦁#decent: 괜찮은, 적절한 [|diːsnt] | descent: 내려오기 [dɪ|sent]
+* ⦁#diary: [|daɪəri], #dairy: 낙농업 [|deri]
+* ⦁#mitigate [|mɪtɪgeɪt]: 완화시키다, #militate [mílətèit]: 작용하다
+* ⦁#diffuse [dɪ|fjuːs] ; 널리 퍼진, 분산시키다, #defuse: [|diː|fjuːz] ; 진정시키다.
+* ⦁#abroad- 해외로 | #aboard- 탑승한
+* ⦁#complacent- [kəm|pleɪsnt] 현실에 안주하는, #complaisant- [kəm|pleɪzənt] 선뜻 남의 말을 듣는
+* ⦁#censure- 견책, 비난 [|senʃə(r)] #censor- 검열관 [|sensə(r)]
+* ⦁#fashion #passion
+* ⦁##chef(세프) ##chief(대장)
+
+
 ## 자연스러운 대화와 문맥으로 배우는 문법과 어휘, 표현
 * 킴이랑 연락됐어? 20분 밖에 안남았어.
 * 아니, 아침내내 연락해보고 있는데 안받아.
