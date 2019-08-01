@@ -1,4 +1,13 @@
+# 토익
+* 의문문에는 Y/N 불가; why don't, how about, what about
+* 까다로운 시험; demanding test; 저명한 조각가; distinguished sculptor
+* 참석/참석자 수 명사; attendance;
+* Blue mountains's spectaculr view is the reason travelers flock to this area
+* 변기가 안내려가 ;The toilet doesn't flush
+* cheetah; 모음 사이의 't'를 굴려라
+
 # 중요
+* 모르는 척 하지마; DOn't play dumb
 * 이미 들은 사람도 있겠지만; As some of you may have already heard
 * 다음달 부로; As of next month
 * 내가 언젠가 영어를 잘해야해; i have to speak English one of these days to live in Canada
@@ -18,8 +27,48 @@
  * 기다리는게 나을거야; it would be better to wait until next week
  * -하는 것이 나을수도 있어; it could/might be better to
 * 아무것도 얻을 수 없어요; we;ll never get anywhere oy find anything just dipping our feet
+* 스타벅스에 갔었어요; i went to Starbucks yesterday
+* 어제 오랜만에 친구봤어요; I hung out with a friend yesterday
+* 내 머리속에 처음 드느 ㄴ생각은; The first thing that's going through my mind is
+* 친해질 기회가 없었더; She never really got a chance to
+* 약간은 무모한 ㅓㄳ 같긴 한데; i guess i'm being a little reckless
+* 오래동안  연락 안했다; We hadn't been in touch for a couple of years
+* 평소에 일과 개인생활을 구분하려는 것에 어려워 하고 있어요; i'm constantly struggling to draw the line between work and personal life
+* 저는 자는 곳에서 일을 하고 일하는 곳에서 잠을 자는 것이나 마찬가지거든요; i'm practically working where i sleep and sleeping where i work
+* 좀 수상한데; Something smells a little fishy
+* 확실한 방법은 없더; There is no sure way
+* 현지인들과 친해지기 어렵더라고요; i found it difficult to socialize with the locals
+* 최근에 공해가 엄청 심해졌다; The air pollution has gotten really bad lately
+* 두 번쨰가 4년 전쯤이었어요; The second time was about 4 years ago
+* 바닥에 있는 물을 밝고 미끄러졌어요; I slipped on some water on the floor
+* 완전 납작하게 넘어졌는데 충격이 너무 컸어요; i fell flat on my back and the impact was so strong
+* 좋은 징조로 받아들였어요; WE took that as a good sign
+* 언제가 좋은데? What time works best for you?
+* 당신 스케줄에 맞출 수 있어요; i can work around your schedule; i can arrange my schedule around yours
 
 # 원어민
+* 나 머리 탈색했어; I bleached my hair
+* 옷부터 갈아입으시죠; Let's go get you changed first
+* 노른자 툭 까서 먹으면; Mix it with half-boiled egg fried rice
+* 화재는 진압됐어요; The blaze was contained
+* 양파, 흰양파랑 적양파 둘다 넣어주세요; onions, both the white and the purple please
+ * 양상추랑 토마토도 넣어드릴까요? lettuce and tomato?
+* 닭가슴살 두 조각 더 올려주실 수 있으신가요? Can i get twoo more chicken breasts on top?
+* 스티로폼 필요해? do you need styrofoam?
+* 하늘에 맹세할게요; Hand to god
+* 한 법원은 그를 유죄로 판결했어요; I know that a court found him guilty
+* 포장해주세요 ;I'll take this to go
+* 그가 감정 분출해서 빠져나올수 없었어; He was venting; i couldn't break free
+* 부서내 내부이동; Internal mobilty
+* 내말 무시하지마; DOn't tuning me out
+ * 우리는 다른 생각을 가진듯; i think we were on a different wavelength
+ * 이거 아직 안 와닿네요; i'm still trying to process it
+ * FM 105.9; Tune in to FM 105.9
+ * 여기 양이 많아요; THe portions here are huge
+ * 너 분명히 5시라고 했는데; I could've sworn you said 5 o'clock
+ * 그 사람 놓치지마; He's a keeper
+ * 컨테이너가 쌓여서 놓여있따; Containers have been filled for a display
+ * 풀이 깎이고 있따; Grass is being mowed  [moʊ] 
 * medium; 미디엄; What's the price difference between edium and large?
 * 비가 조금씩 부슬브슬 내리고 있어요; it's sprinkling right now
 * 아깐 많이 왔는데 지금은 부슬비에요; It was pouring rain but now it is drizzling
