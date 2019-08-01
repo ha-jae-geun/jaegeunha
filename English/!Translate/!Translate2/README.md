@@ -1,3 +1,182 @@
+# 코어
+# 비슷한 단어
+
+* #mementary; #순간적인; thrill, hesitation
+* mouméntǝs] #momentous; #중요한; decision
+* ##moment
+
+* ##successful ##successive
+* ##imaginable: #상상할 수 있는; imaginable method
+* ##imaginative 상상력 있는; #상상력; imaginative power/policy
+* ##imaginary #가공의 #가상의; imaginary world
+* ##imaginable ##imaginative ##imaginary
+* ##respectful; #공손한; #Respectful bow
+* #respectable; #존경할만한; respectable man
+* #respective; #각각의; respective merits
+* ##Repect
+* ##sensible; #지각있는, 현명한; sensible man
+* #sensitive; #민감한, #예민한; sensitive skin
+* #sensual; #육감적인; sensual lips/voice ˈsenʃuəl]
+* ##sensi
+* #historic remains; 사적 유물
+* #historical; 역사에 관한; historical novel; historical documents -ˈstɔːr-;-ˈstɑːr-]  영국식 [hɪˈstɒrɪkl]
+* #historic
+* [krédǝbəl] ##credible: 믿을만한; credible witness/evidence
+* [krédʒǝlǝs] ##credulous; 쉽게 믿는; credulous person
+
+* [ǝpríːʃiǝbəl ##appreciable(블); #뚜렷한, #주목할만한; appreciable change
+* ǝpríːʃǝtiv, -ʃièi-] #appreciative; #감사하고 있는; appreciativa of my efforts
+
+* [kὰmprihénsǝbəl/kɔ̀m-] [kὰmprihénsiv/kɔ̀m-]
+* ##comprehensible; 이해할 수 있는; comprehensible presentation
+* ##comprehensive; #포괄적인; comprehensive term
+
+* [rispάnsǝbəl/-spɔ́n- ##responsible for; responsible for the cleaning home
+* [rispάnsiv/-spɔ́n- #responsive to; 반응하는; responsive website
+
+* [kὰmplǝméntəri/kɔ̀m-] [kὰmplǝméntəri/kɔ̀mplǝ-]
+* ##complementary; #보충하는; complimentary colors; #보색
+* ##complimentary; 무료의; #complimentary about your peformance
+
+* [kάmpərǝbəl/kɔ́m-] [kǝmpǽrǝtiv]
+* ##comparable to/with; #필적할 만한; comparable ages
+* #comparative; comparative stury; #비교연구; #comparative of "fat"; #비교급
+
+* ##childlike; [tʃáildlàik] #귀여운; childlike innocence
+* ##childish; [tʃáildiʃ] #유치한; childish pranks
+
+* ##industrial; [indʌ́striǝl #산업의; #industrial nation
+* ##industrious; [indʌ́striǝs #부지런한; industrious student
+
+* ##dependable; #신뢰할 수 있는; dependable car
+* ##dependent; #의존적인; #dependent children; 부양 자녀; dependent on his parents
+* #addiction, #dependence, #habit - 의존성, 마약 
+* #의존관계; #dependency relationship
+* ##independent; 
+
+* ##social; [sóuʃəl] #사회의; #social work
+* ##sociable; [sóuʃǝbəl] #사교적인; will not be sociable
+
+* ##principal; [prínsǝpəl] #주요한; principal export; #수출 품목
+* #중심이 되는; #central, #main, #essential - 중심 되는, 주요한 
+* ##principle; prínsǝpəl] the principle of the criminal justice system
+
+* ##personal;[pə́ːrsənəl #개인의; takes a personal interest
+* ##personnel; [pə̀ːrsǝnél] #직원, #인력(명사형); military personnel
+
+* ##precise; #정확한; precise moment  [prɪˈsaɪs]
+* ##precious; #귀중한; precious commodity
+* ##previous; #이전의; previous experience  [ˈpriːviəs] 
+
+* ##memorable; #잊지 못할; memorable event  [ˈmemərəbl]
+* ##memorial; #기념의; the war memorial was dedicated to; 전쟁 기념비; #memorial service; #추도식 [məˈmɔːriəl]
+
+* ##desirable; #바람직한; ~ is desirable aim  [dɪˈzaɪərəbl
+* ##desirous; [dizáiərǝs]; #원하는; the duke is desirous of meeting you
+
+* ##eminent; [émǝnǝnt]] #유명한; eminent historian; #역사학자
+* ##imminent; [ímǝnǝnt] #긴급한; imminent arrival
+
+* ##favorite; 좋아한ᅟᅳᆫ
+* ##favorable; 호의적인; receive favorable reviews 국 [féivərəbl]
+
+* ##ingenious; [indʒíːnjǝs]] #기발한; 사람 is ingenious
+* ##ingenuous [[indʒénjuːǝs]; ingenuous solution
+* ##jealous; 질투하는; [dʒélǝs]
+* ##zealous; #열심힌; [zélǝs]; zealous suppoter
+
+* #inform + of/that절
+* ##inforamtive; #유익한; informative book
+* ##informed; #정통한; #유식한 well-informed; #박식한
+
+* ##intellectual; [ìntǝléktʃuəl] #지적인; intellectual rigour
+* ##intelligent; #총명한; 
+
+* ##loyal; [lɔ́iəl #충실한; #loyal worker
+* ##royal; [rɔ́iǝ] #왕실의; #royal family
+
+* ##proper; proper documentation
+* ##prosper; companies prospered at that time  [ˈprɑːs-]  영국식 [ˈprɒspə(r)]
+
+* ##sacred; #성스러운; sacred temples
+* ##scared; #무서워하는; scared of spiders
+* ##scarce; [skεǝrs]; #부족한, #드문; food is often scarce
+
+* ##periodic; #주기적인; suffer periodic mental breakdowns  [ˌpɪriˈɑːdɪk] 
+* ##periodical; #정기간행물; 명사; sent a contribution to a periodical  [ˌpɪriˈɑːd-]  영국식 [ˌpɪəriˈɒdɪkl]
+* #정기권; #monthly pass = #season ticket 
+
+* ##persuadable; #설득할 수 있는; more persuadable than  [pərswéidəbl] 
+* ##persuasive; #설득력있는; #persuasive arguments  [pərˈs-]  영국식 [pəˈsweɪsɪv] 
+
+* ##conscious; [kάnʃǝs/kɔ́n- #의식하는; conscious of his body
+* ##conscience; [kάnʃəns/kɔ́n-; #양심; guilty conscience
+* #conscientious; kὰnʃiénʃǝs/kɔ̀n-; #양심적인; conscientious student
+
+* ##healthful; #건강에 좋은; healthful exercise
+* #sanative 미국·영국 [sǽnətiv] 
+* ##healthy; #건강한; health child
+
+* ##luxurious; #호화로운; #luxurious house [-ˈʒʊr-]  영국식 [lʌɡˈʒʊəriəs] 
+* a #swanky hotel 호화로운 호텔
+* ##luxuriant #풍부한; luxuriant plants   영국식 [lʌɡˈʒʊəriənt] 
+* ##luxury; 사치품; 사치; a luxury cruise
+
+* ##objective; #객관적인; objective test  [əbˈdʒektɪv]
+* ##objection; #반대; his objection against the plan
+
+* ##advisable; #타당한; #바람직한; it is not advisable [ədˈvaɪzəbl] 
+* ##advisory; #조언하는; #advisory committe; #자문 위원회  [ədˈvaɪzəri]
+* ##general 일반적인; #general concern
+* ##generous; #관대한' jane has been very generous ˈdʒenərəs] 
+
+* ##literary; #문학의; literary critic; #literary style; #문어체 [-reri]  영국식 [ˈlɪtərəri]
+* ##literacy; [lítərǝsi] 읽고 쓸 수 있느 능력; improve adult literacy; [lítərǝsi]
+* ##literate; 읽고 쓸 수 있는; computer literate [ˈlɪtərət] 
+* ##literal; #문자 그대로의; literal translation; #직역 [ˈlɪtərəl]
+
+* ##moral; #도덕적인; moral woman   [ˈmɔːr-;ˈmɑːr-] 
+* ##morality; #도덕; public morality  [məˈræləti] 
+* ##mortal; 치명적인; mortal injury ˈmɔːrtl]
+* ##mortality; 죽어야 할 운명; mortality rate; #사망률  [mɔːrˈt-]  영국식 [mɔːˈtæləti]
+* #비도덕적인; #sordid [ˈsɔːrdɪd]
+* #high moral = #ethical [ˈeθɪkl]
+
+* ##natural [nǽtʃərǝl]; natural substance
+* ##neutral [njúːtrǝl]; country remained neutral
+
+* ##major; major cause
+* ##majority; majority of ~
+
+* ##preventive; #예방적인; pollution-preventive; preventive measures; #예방책  [prɪˈventɪv]
+* ##preventable; #예방할 수 있는; ~ are #preventable
+
+* ##argumentative; #논쟁을 좋아하는‘ argumentative writing  [ˌɑːrɡ-]  영국식 [ˌɑːɡjuˈmentətɪv]
+* ##arguable; #주장할만한, 논쟁할 여지가 있는; it is arbuable whether it's true or not  [ˈɑːrɡ-]  영국식 [ˈɑːɡjuəbl]
+
+* ##confidential; remain confidential [ˌkɑːn-]  영국식 [ˌkɒnfɪˈdenʃl]
+* ##confident; be a more confident ˈkɑːn-]  영국식 [ˈkɒnfɪdənt]
+* #confide in; 비밀을 털어놓다
+
+* ##exciting; 흥미진진한
+* ##excitable; #흥분을 잘하는; excitable child
+
+* ##understanding; #이해심 많은; understanding parents
+* ##understandable; #이해할 만한; ~ is understandable
+* #헷갈리는 발음
+* #alright -> #aight
+
+# 기능어
+* ##at#; 소리의 높낮이라던가 길이의 차이; 사실상 소리 거의 안냄
+* #for#
+* #my#
+* #the#
+* #by#
+* #to the#; 이빨 뒤쪽을 살짝 치는 느낌
+* 위험한 발음 
+* ⦁beach [bitʃ] [bɪtʃ]
+* ⦁sheet: [ʃi:t] shit [ʃɪt]
+* ⦁##cock(콕)(<>##coke 코크)
 
 ## 🥊 영어회화 | 연습가이드 #23 | '빈도'를 더 다양하게 표현하기
 * 저는 부모님이랑은 선물을 주고 받는 일은 거의 없어요. My parents and I hardly ever exchange gifts.
