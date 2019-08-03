@@ -6,7 +6,15 @@
 * 변기가 안내려가 ;The toilet doesn't flush
 * cheetah; 모음 사이의 't'를 굴려라
 
+# 코어
+* arabia penisular 어-뤠이-비아 [-sələ]  영국식 [pəˈnɪnsjələ]
+
 # 중요
+* 판매량이 꾸준히 줄어든다; The sales have been dropping quite consistently
+* 판매량이 꾸준히 유지되고 있다; Sales have been quite consistent voer the past couple of years
+* 우리가 회의를 화요일로 앞당겼어요; We moved up the meeting to Tuesday
+ * 회의가 화요일로 앞당겨졌어요; The meeting has been moveed up to Tuesday 
+* 이거 주인 있으신가요? oes this belong to anyone?
 * 모르는 척 하지마; DOn't play dumb
 * 이미 들은 사람도 있겠지만; As some of you may have already heard
 * 다음달 부로; As of next month
@@ -45,8 +53,34 @@
 * 좋은 징조로 받아들였어요; WE took that as a good sign
 * 언제가 좋은데? What time works best for you?
 * 당신 스케줄에 맞출 수 있어요; i can work around your schedule; i can arrange my schedule around yours
+* 머리카락 부분으로 나눠주세요; Can you part my hair on the right side?
+ * 오른쪽 가마 해주세요; Can you give me a right part?
 
 # 원어민
+* 저는 혼혈이에요; i'm biracial
+* 5파운드면 랍스터 몇마리에요? How many lobsters are in ten pounds?
+* 몇개월 됐엉? How many months is she?
+* 아이들 반 배정은 언제 되나요? When do the kids get their classroom assignment?
+* 딸 아이 부러졌는지 봐주실래요? Can you check whether she has a fracture?
+* 차 안에서 모래털지마; DOn't kick the sand off in the car
+* 차안에서 모래 털지마; Don't shake the snad off in the car
+* 멈추고 싶으면 다리를 내리렴; if you want to stop, put your legs down
+* 정기검진하려고 전화했어요; i'm calling to make an appointment for a regular checkup
+* 아이가 물 설사를 해요; She got the runs
+* 식중독에 걸린것같아요; we think she has food poisioning
+* 다리 오믈려 주실래요? Can you cloes your legs a little bit?
+* 통과해도 돼요; YOu're good; 확인됐어요; Your set
+* 후보로만 두 번 지명됐어요; Two nominations
+* 나 궁지에 몰셧어; i'm put in a tight spot
+* 그 뉴스 들었어? Did you hear the news?
+* 가글로 입을 헹구어주세요; Rinste your mouth out with mouthwash
+* 나 기운있어; i'm full of energy in the morning
+* 오후가 되면 기운이 빠져; It decrease in the afternoon
+* 난 좀 기를 충전해야해; i need to recharge my batteries
+* 나 이제 진짜 기운났어; i'm fully recharged
+* 현재는 이미 좋은 책들이 많이 나와었디ㅏ; There are plenty of really good ones out there
+* 윷이 앞면 혹은 뒥면이 땅에 닿는지에 따라 윷가락의 움직임들은 도, 개로 불린다; The moves are called Do, Gaae depending on whether the Yut sticks land on their frons or backs
+* 1개의 바닥이 뒤집히면 1개읨 ㅏㄹ이 1칸 움직인다; 1 flat side up, 1 piece moves 1 space
 * 나 머리 탈색했어; I bleached my hair
 * 옷부터 갈아입으시죠; Let's go get you changed first
 * 노른자 툭 까서 먹으면; Mix it with half-boiled egg fried rice
