@@ -1,3 +1,29 @@
+# 연결어
+
+## 앞
+* Actually
+* i mean
+* Well
+* Umm
+* You know
+
+## 중간
+* 동사 앞에서 쉬기
+* 동사 뒤에 명사는 끊지 않기
+* Actually
+* kind of
+
+### 나오면
+* and 2번, or 2번
+* really love/like
+
+## 뒤
+* that kind of thing
+* though
+* as well
+
+
+---------
 # 표 설명」
 * 공통사항(시간, 연설자, 내용) 주의
 * 
@@ -151,7 +177,7 @@
 * 한국에 수신자 부담 전화로 하고 싶어요. 			 I'd like to place a collect call to Korea. 
 * please make this a collect call
 * 길 #건너편 편의점에서 팔아요. 		They sell them at the convenience store across the street. 
-* *바로 건너편에 있어 							it’s just across the street
+* 바로 건너편에 있어 							it’s just across the street
 * 삼 분당 십 센트입니다. 					 It costs 10 cents for three minutes. 
 * 한 통화당 얼마나 할 수 있어요? 				 How long can I talk for each call? 
 * 한국에 수신자 부담 전화로 하고 싶어요. 			 I'd like to place a collect call to Korea. 
