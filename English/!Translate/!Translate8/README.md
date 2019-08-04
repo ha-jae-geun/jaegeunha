@@ -1,4 +1,4 @@
-# 토익
+6# 토익
 * 의문문에는 Y/N 불가; why don't, how about, what about
 * 까다로운 시험; demanding test; 저명한 조각가; distinguished sculptor
 * 참석/참석자 수 명사; attendance;
@@ -11,6 +11,13 @@
 * 이러한 수업들은 기간이 1주에서 4주 사이이다. These classes range from one to four weeks in length. 듣기 출처:타임즈코어
 *  permit은 ‘허가서’라는 의미로 [가산 명사]이고, permission은 ‘허가’라는 의미의 [불가산 명사]입니다. 해석 상으로는 허가나 허가서나 문제가 없기 때문에 이는 해석의 문제가 아니라 명사의 용법을 묻는 문제라는 것이 출제 포인트입니다. 
 * 그 영화는 30만 명의 관객을 동원했다 The film drew audiences totaling 300,000 people. 듣기 출처:동아 출판
+* You use interest as an uncountable noun when you talk of a state or feeling of wanting to know about or take part in something. For example, he has (an) interest in politics. I have no interest in science subjects. My interest in basketball and table tennis increases gradually. You use interest as a countable when you refer to it as an activity that you enjoy doing or spend time to learn about. It also refers to something that brings advantage to you. For example, basketball and table tennis are his interests. He looks after his own interests.
+* it is possible for 10 percent of this 
+* 그녀는 그들에게 소리내어 그 이야기를 읽어 주었다. She read the story aloud to them. 듣기 출처:YBM
+* 기쇠된 살인범 재판은 다음 주에 열릴 예정이다. iThe accused murderer's trial is set for next week. 듣기 출처:NE능률
+* 경찰이 세무 직원들과 공조하여 그 수사를 진행하고 있다. The police are working in conjunction with tax officers on the investigation. 
+* at the conference
+* Once he left school, he took a series of positions as a church organists throughout France.
 
 # 코어
 * arabia penisular 어-뤠이-비아 [-sələ]  영국식 [pəˈnɪnsjələ]
@@ -63,6 +70,9 @@
  * 오른쪽 가마 해주세요; Can you give me a right part?
 
 # 원어민
+* 지난 며칠간 짜증을 부렸어요; he has been very testy in the last couple days
+* 외계인과 구분할 떄는 human; 평소엔 person; 문밖에 사람이 있어요; There's a peron at the door
+* 저는 지금 제 고향에 있는데요; i'm here in my motherland
 * 저는 혼혈이에요; i'm biracial
 * 5파운드면 랍스터 몇마리에요? How many lobsters are in ten pounds?
 * 몇개월 됐엉? How many months is she?
