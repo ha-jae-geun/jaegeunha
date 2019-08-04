@@ -43,6 +43,7 @@
 * 돌핀 https://m.blog.naver.com/PostList.nhn?blogId=frost9001
 * 어학당 추가 하기
 * 타이핑
+* 슈퍼맨/토익 문제 http://moonje.in
 * 테크 크런치 https://techcrunch.com/
 
 # 화 0521
@@ -62,6 +63,7 @@
 * 채원과영어 https://m.blog.naver.com/PostList.nhn?blogId=learnwithchaewon
 * 어학당 추가 하기
 * 타이핑
+* 토익 문제 http://moonje.in
 * 테크웜; https://www.techworm.net/
 
 # 수 0522
@@ -81,6 +83,7 @@
 * 쎄쎄쎄 https://m.blog.naver.com/PostList.nhn?blogId=cedubook
 * 어학당 추가 하기
 * 타이핑
+* 토익 문제 http://moonje.in
 * 더벌지; https://www.theverge.com/
 
 # 목 0523
@@ -104,6 +107,7 @@
 * Sunny https://m.blog.naver.com/PostList.nhn?blogId=pureriver777
 * 어학당 추가 하기
 * 타이핑
+* 토익 문제 http://moonje.in
 * 인가젯 https://www.engadget.com/
 
 # 금 0524
@@ -126,6 +130,7 @@
 * 넥서스 공시미; https://blog.naver.com/0simiii
 * 어학당 추가 하기
 * 타이핑
+* 토익 문제 http://moonje.in
 * 와이어드 https://www.wired.com/
 
 # 토 0525
@@ -149,6 +154,7 @@
 * 김일승 https://m.blog.naver.com/PostList.nhn?blogId=kishyun
 * 어학당 추가 하기
 * 타이핑
+* 토익 문제 http://moonje.in
 * 지디넷 https://www.techrepublic.com/
 
 # 일 0526
@@ -172,6 +178,7 @@
 *  야나두 https://blog.naver.com/yanadooblog/221323042575
 * 어학당 추가 하기
 * 타이핑
+* 토익 문제 http://moonje.in
 * 테크 크런치 https://techcrunch.com/
 
 ------------
