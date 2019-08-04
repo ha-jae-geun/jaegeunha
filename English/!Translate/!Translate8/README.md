@@ -5,6 +5,12 @@
 * Blue mountains's spectaculr view is the reason travelers flock to this area
 * 변기가 안내려가 ;The toilet doesn't flush
 * cheetah; 모음 사이의 't'를 굴려라
+*  learned from comparable experiences3
+* 인터넷에 접속하는 법을 가르쳐 줄래? Can you demonstrate how to log onto the Internet? 듣기 출처:NE능률
+* 제 가족 구성원들 모두가 이 보험에 적용이 되나요? Are all the members of my family covered under this policy? 듣기 출처:NE능률
+* 이러한 수업들은 기간이 1주에서 4주 사이이다. These classes range from one to four weeks in length. 듣기 출처:타임즈코어
+*  permit은 ‘허가서’라는 의미로 [가산 명사]이고, permission은 ‘허가’라는 의미의 [불가산 명사]입니다. 해석 상으로는 허가나 허가서나 문제가 없기 때문에 이는 해석의 문제가 아니라 명사의 용법을 묻는 문제라는 것이 출제 포인트입니다. 
+* 그 영화는 30만 명의 관객을 동원했다 The film drew audiences totaling 300,000 people. 듣기 출처:동아 출판
 
 # 코어
 * arabia penisular 어-뤠이-비아 [-sələ]  영국식 [pəˈnɪnsjələ]
