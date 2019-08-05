@@ -1,4 +1,5 @@
-6# 토익
+# 토익
+* 그 담들은 노란색 페인트로 칠해져 있었다. [also VN-n,v] The walls were painted yellow. 
 * 의문문에는 Y/N 불가; why don't, how about, what about
 * 까다로운 시험; demanding test; 저명한 조각가; distinguished sculptor
 * 참석/참석자 수 명사; attendance;
@@ -21,6 +22,7 @@
 * [명사] 법인실체, 기업실체 corporate entity 미국식  영국식   단어장추가
 * 사람들이 보여주는 관심은 기이하면서도 흥미로워요. The interest people are showing is weird yet exciting! 듣기 출처:타임즈코어
 * 나는 미래가 바뀌길 조바심치며 기다린다.  I am impatient for further change. 듣기
+* ...의 인수(引受)를 거절할 권리를 갖다. reserve the right to refuse the acceptance of... 듣기 출처:한국사전연구사
 
 # 코어
 * arabia penisular 어-뤠이-비아 [-sələ]  영국식 [pəˈnɪnsjələ]
