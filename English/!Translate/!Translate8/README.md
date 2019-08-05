@@ -1,4 +1,18 @@
 # 토익
+* (1) neither + 단수명사
+   * ex) Neither answer was correct.
+       * (어느 답도 옳지 않았다)
+* (2) neither of + 복수대명사
+   * ex) Neither of them was correct.
+       * (그 들 중 어느 것도 맞지 않았다)
+* (3) neither of + 한정사 + 복수명사
+    * (neither of + the·these·those·소유격 + 복수명사)
+   * ex) Neither of the answers was correct. (답들 중에 어떤 것도 옳지 않았다)
+ * Neither는 기본적으로 단수 취급이 원칙입니다. 그러나 'neither of' 다음에 복수 명사가 올 때는 복수 취급하기도 합니다. (주로 회화에서)
+ * ex) Neither of the answers was(were) correct.
+* (1) Either answer is correct. (두 답이 모두 맞다)
+* (2) Either of the answers is correct.
+ * either 다음에 복수명사가 바로 올 수는 없습니다.
 * 그 담들은 노란색 페인트로 칠해져 있었다. [also VN-n,v] The walls were painted yellow. 
 * 의문문에는 Y/N 불가; why don't, how about, what about
 * 까다로운 시험; demanding test; 저명한 조각가; distinguished sculptor
