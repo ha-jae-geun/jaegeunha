@@ -18,11 +18,18 @@
 * 경찰이 세무 직원들과 공조하여 그 수사를 진행하고 있다. The police are working in conjunction with tax officers on the investigation. 
 * at the conference
 * Once he left school, he took a series of positions as a church organists throughout France.
+* [명사] 법인실체, 기업실체 corporate entity 미국식  영국식   단어장추가
+* 사람들이 보여주는 관심은 기이하면서도 흥미로워요. The interest people are showing is weird yet exciting! 듣기 출처:타임즈코어
+* 나는 미래가 바뀌길 조바심치며 기다린다.  I am impatient for further change. 듣기
 
 # 코어
 * arabia penisular 어-뤠이-비아 [-sələ]  영국식 [pəˈnɪnsjələ]
 
 # 중요
+* 그녀느 미래에 대한 답이 없음을 느꼈다; SHe felt hopeless about the future
+* 쩔쩔매거나 답이 없다; i'm stumped/stuck/lost; i'm totally lost in our project
+* 우리팀은 승승장구하는 중이야 ;Our team has been on a roll
+* 한숨도 못잤다; I didn't sleep a wink last night
 * 판매량이 꾸준히 줄어든다; The sales have been dropping quite consistently
 * 판매량이 꾸준히 유지되고 있다; Sales have been quite consistent voer the past couple of years
 * 우리가 회의를 화요일로 앞당겼어요; We moved up the meeting to Tuesday
@@ -70,6 +77,11 @@
  * 오른쪽 가마 해주세요; Can you give me a right part?
 
 # 원어민
+* 넥타이 다시 매줄게; Let me fix your tie
+* 혹시 잘하는 수선집 아는 사람? Anybody know a good tailor?
+* 창고에 재고 더 없나요? Do you have any in the back?
+* 저희 모두가 참가자중 한명과 짝이 될 거에요; Each of us is gonna be paired up with one of the 
+* 자존심 있다; have one's pride; hurt one's pride
 * 지난 며칠간 짜증을 부렸어요; he has been very testy in the last couple days
 * 외계인과 구분할 떄는 human; 평소엔 person; 문밖에 사람이 있어요; There's a peron at the door
 * 저는 지금 제 고향에 있는데요; i'm here in my motherland
