@@ -1,11 +1,13 @@
-# 연결어
+# filler
 
 ## 앞
-* Actually
+* Actually/Basically
 * i mean
+* i guess/ i think
 * Well
 * Umm
 * You know
+* All right, Let's see, What else
 
 ## 중간
 * 동사 앞에서 쉬기
@@ -18,7 +20,7 @@
 * really love/like
 
 ## 뒤
-* that kind of thing
+* that kind of thing / and stuff (like that)
 * though
 * as well
 
