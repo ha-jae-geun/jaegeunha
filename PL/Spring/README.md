@@ -1,3 +1,22 @@
+# 팁
+
+## 그림
+* JSP -> (Post, GET) -> Controller ->(Data Parameter) -> DAO/Service -> Model -> DB
+	* DAO: Interface(서비스) + DAO(자바)
+
+## WEB-INF
+```java
+	<beans:bean
+		class="org.springframework.web.servlet.view.InternalResourceViewResolver">
+		<beans:property name="prefix" value="/WEB-INF/views/" />
+		<beans:property name="suffix" value=".jsp" />
+	</beans:bean>
+```
+	* WEB-INF로 접근 불가
+
+## ModelAndView
+* DB, 파라미터, 경로 모두 담는 
+
 
 # 스프링 역사
 * beean(메소드로 접근) -> EJB(디자인패턴; 팩토리패턴) -> XML에서 빈 생성; new 호출
