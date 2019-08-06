@@ -1,3 +1,12 @@
+# [ 일상을 영어로 말하기 ] 때때로, 가끔가다 한번씩, 1년 내내, 24시간 하는 곳
+* 저는 빨래방을 때때로 이용해요. I go to the laundromat from time to time 
+* 제가 가는 곳은 24시간 하는 곳인데요 거기는 모든 것이 자동화 되어 있어서 거기서 일을 하는 직원이 없고  The one I go to is a  24 hour place and everything there is automated so they don't have any staff working there.
+  * 시설을 가지고 있다는 There 보다는 they로 표현
+* 사장님만 다 잘되고 있는지 확인하고 청소하러 가끔가다 한번씩 들르기만 해요 Just the owner comes by every once in a while to check up on things and clean (up).
+* 그래서 저는 거기가 1년 내내 운영한다고 생각했는데 아니었어요 며칠 전에 갔을 때 여름휴가로 닫았더라고요.  So I was under the impression that they were open all year round but I was wrong. When I went there a couple of days ago, they were closed for summer vacation.
+  * 잠정적인 결론을 내리다; i was under the impression
+
+
 # 토익
 * (1) neither + 단수명사
    * ex) Neither answer was correct.
@@ -37,11 +46,23 @@
 * 사람들이 보여주는 관심은 기이하면서도 흥미로워요. The interest people are showing is weird yet exciting! 듣기 출처:타임즈코어
 * 나는 미래가 바뀌길 조바심치며 기다린다.  I am impatient for further change. 듣기
 * ...의 인수(引受)를 거절할 권리를 갖다. reserve the right to refuse the acceptance of... 듣기 출처:한국사전연구사
+* 소프트웨어 라이센스 계약 및 제한 보증 Software License Agreement and Limited Warranty 듣기 출처:한샘EUG
+* 종업원들은 전의 경영진 밑에서는 거의 일을 하지 않았는데, 이젠 좋은 때도 끝났다는 것을 알 것이다. The staff did hardly any work under the old management, but they'll find the party's over now. 
+* 추가 참가자에 대한 준비를 하지 않다 make no provision for extra attendees 
 
 # 코어
 * arabia penisular 어-뤠이-비아 [-sələ]  영국식 [pəˈnɪnsjələ]
+*  [ɔːf;ɑːf]  영국식 [ɒf]  of 미국식 [ʌv] 
 
 # 중요
+* 불매운동; South koreans are boycotting Japanese products
+* 잠이 안올떄는, when you're having a hard time falling asleep
+* 현금을 주는 것이 좋을 것 같아; It would be beetter to just give someone some cash; pay someone cash
+* 되돌리고 싶어; i'd like to put it back
+* 원래 가격인가요, 할인된 가격인가요? It is the original price or the sale price?
+* 구름이 걷히고 있어; The rain clouds are breaking
+* 은행 요원; bank (security) guard
+* Her background is markedly different from her husband’s; markedly 미국·영국 [mɑ́:rkidli]
 * 그녀느 미래에 대한 답이 없음을 느꼈다; SHe felt hopeless about the future
 * 쩔쩔매거나 답이 없다; i'm stumped/stuck/lost; i'm totally lost in our project
 * 우리팀은 승승장구하는 중이야 ;Our team has been on a roll
