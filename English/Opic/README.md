@@ -24,6 +24,23 @@
 * though
 * as well
 
+## 단어
+* 22층의 높은 빌딩에 있다; My hous is on the 22n floor of a tall/high-rise apartment
+* 우리 집같은 경우에는; As for my favorite room
+* 새로운 에어컨; and brand new air conditioner
+* 집에 있는 것보다 신선한 공비 마쉬러 나가늑네 좋다; go out to get some fresh air, instead of staying cooped up inside
+* 2층 쇼핑몰에 있따; It's on the second floor of a huge shopping complex
+* 책 읽기는 내가 좋아하는 것 중 하나다; Reading books is another thing i love to do
+* 나는 카페에서 시간을 보낸다; Sometimes, i would just pass the time in a cafe
+* 노래에 맞춰 노래 부르기; Sing along to my favorite tunes
+* 내 기분에 따라 다르다; It depends (on the mood)
+* 높은 음역대에 감명받아싿; I'm impressed with his vocal range
+* 사람 말고 영화나 물건같이 변하지 않는것: It just never gets old
+* 이 직장에서는 내가 가끔 걱정이 돼요. 그렇긴 해도 일을 하는 건 즐거워요. 해 볼 만해요. I sometimes get worried in this job. Having said that, I enjoy doing it, it’s a challenge. 
+* 특수 효과 보는 것; watch amazing special effects
+* 한국에서 엄청난 흥행작이다; It was a huge box office in korea <> box office flop
+* 사인해주다; He even signed some autographs for some of his fans
+
 
 ---------
 # 표 설명」
