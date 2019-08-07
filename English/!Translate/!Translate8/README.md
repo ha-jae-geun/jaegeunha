@@ -8,6 +8,8 @@
 
 
 # 토익
+* 그 혜택이 직원의 배우자에게까지 제공되는 것은 아니다. The offer does not extend to employees’ partners. 듣기 출처:옥스퍼드
+*  The only time I was marginally successful was while I was using AT&T
 * (1) neither + 단수명사
    * ex) Neither answer was correct.
        * (어느 답도 옳지 않았다)
@@ -55,6 +57,8 @@
 *  [ɔːf;ɑːf]  영국식 [ɒf]  of 미국식 [ʌv] 
 
 # 중요
+* 고민 있어? what's eating you
+* 엄청 쏟아지네(비); It's really coming down; pouring
 * 불매운동; South koreans are boycotting Japanese products
 * 잠이 안올떄는, when you're having a hard time falling asleep
 * 현금을 주는 것이 좋을 것 같아; It would be beetter to just give someone some cash; pay someone cash
@@ -114,6 +118,16 @@
  * 오른쪽 가마 해주세요; Can you give me a right part?
 
 # 원어민
+* 진짜 무서운 영호; It's a hair -raising movie
+* 줄 서세요; Form a queue
+* 이 잔의 반 정도를 채워줄 거예요; we're gonna go into this glass about halfway up
+* 임신 테스트 하다; someone took a pregnancy test
+* 발 치수 재주세요 Can you measure my foot?
+* - 검은색 있어? Do you have these in black and in 6 1/2
+* 지난밤 보일러가 터졌따; The boiler blew up last night
+* 꼭꼭 씹어서 먹어; Chew it up
+* 첨첨하지마; Don't splash around
+* 손이 안닿아; i can't reach
 * 넥타이 다시 매줄게; Let me fix your tie
 * 혹시 잘하는 수선집 아는 사람? Anybody know a good tailor?
 * 창고에 재고 더 없나요? Do you have any in the back?
