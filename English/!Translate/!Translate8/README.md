@@ -55,6 +55,7 @@
 # 코어
 * arabia penisular 어-뤠이-비아 [-sələ]  영국식 [pəˈnɪnsjələ]
 *  [ɔːf;ɑːf]  영국식 [ɒf]  of 미국식 [ʌv] 
+* in and out; 인과 엔 사이 발음
 
 # 오픽
 * 22층의 높은 빌딩에 있다; My hous is on the 22n floor of a tall/high-rise apartment
