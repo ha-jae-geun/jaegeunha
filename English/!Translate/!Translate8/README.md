@@ -8,6 +8,17 @@
 
 
 # 토익
+* 무조건 단수: one, each, every, another, either, neither
+* 불가산단수; much, little, less, an amount of
+* 최대 수용력에 도달하다; reaches full capacity
+* 항상 난 조용히 다니다; He always kept to himself
+* 저 별로 인맥 만들려고 안한다; i don't do a lot of networking
+* 신경 너무 쓰지 마요; don't let it get to you
+* 출처를 꼭 확인해주세요; Please veryfy the source
+* 그는 항상 분위기 메이커에요; he's the life of the party
+* 세상 보는 눈 달라졌어요; it really puts things in perspective
+* 그게 최후의 수단이야; it's my last resort
+* 스캔 오류로 인해 이미지가 최적화되지 않을 수 있습니다. The image may not be optimal due to a scan error. 듣기 출처:한샘EUG
 * 그 혜택이 직원의 배우자에게까지 제공되는 것은 아니다. The offer does not extend to employees’ partners. 듣기 출처:옥스퍼드
 *  The only time I was marginally successful was while I was using AT&T
 * (1) neither + 단수명사
@@ -134,6 +145,15 @@
 * 당신 스케줄에 맞출 수 있어요; i can work around your schedule; i can arrange my schedule around yours
 * 머리카락 부분으로 나눠주세요; Can you part my hair on the right side?
  * 오른쪽 가마 해주세요; Can you give me a right part?
+* 냄새 많이나지 않는 것으로 있나요? Do you have anything with a lighter scent?
+* 잡티를 없애주는 세럼 찾아요; i'm looking for a serum that reduces blemishes
+* 크림형 말고 액체타입 주세요; i don't like the creamy kind, do you have a liquid one?
+* 얼굴색은 밝아요; my complexion is light
+* 밝은 색이 맞아요; lighter color would work best
+* arborist 미국·영국 [ɑ́:rbərist] ; 식목일: Arbor day
+* 콘텍트렌즈를 끼기 시작했어요; i started wearing contacts
+* 수분 보충 잘해; Stay hydrated; keep yourself hydrated
+* 양이 많네요; The portions here are huge
 
 # 원어민
 * 진짜 무서운 영호; It's a hair -raising movie
