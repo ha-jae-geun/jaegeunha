@@ -8,6 +8,10 @@
 
 
 # 토익
+*  Last year, the Daejeon English News ------- the number of readers; increased
+* Sandy Rivers Golf Club boasts an 18-hole golf course, a clubhouse, and a fully ------- golf store; stocked
+* . All staff members should ------- that the meeting this Friday will take place at 11 A.M.; note
+* Questions will be handled by
 * 무조건 단수: one, each, every, another, either, neither
 * 불가산단수; much, little, less, an amount of
 * 최대 수용력에 도달하다; reaches full capacity
