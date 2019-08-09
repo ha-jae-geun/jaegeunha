@@ -5,7 +5,14 @@
 * 사장님만 다 잘되고 있는지 확인하고 청소하러 가끔가다 한번씩 들르기만 해요 Just the owner comes by every once in a while to check up on things and clean (up).
 * 그래서 저는 거기가 1년 내내 운영한다고 생각했는데 아니었어요 며칠 전에 갔을 때 여름휴가로 닫았더라고요.  So I was under the impression that they were open all year round but I was wrong. When I went there a couple of days ago, they were closed for summer vacation.
   * 잠정적인 결론을 내리다; i was under the impression
-
+* 생각해둔것이 있따; have/had something in mind
+* 목표가 이루어졌다; goals are achieved
+* 안번지는 마스카라있어? Which one is the longest lasting and smudge proof mascara?
+* 면봉있어? DO you havea Q tip to remove this?  Do you havea piece of cotton to remove this?
+* 몇 번 버스로 갈아타야 하나요? What bus should i transfer to?
+* 습관은 고치기 힘들어요; old habis die hard
+* 톰은 월요일 아침마다 직원 회의를 주관해 ;Tom runs a staff meeting every morning
+* 
 
 # 토익
 *  Last year, the Daejeon English News ------- the number of readers; increased
