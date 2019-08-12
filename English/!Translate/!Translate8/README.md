@@ -1,5 +1,8 @@
 # [ 일상을 영어로 말하기 ] 때때로, 가끔가다 한번씩, 1년 내내, 24시간 하는 곳
 * 저는 빨래방을 때때로 이용해요. I go to the laundromat from time to time 
+* 내 얼굴에 맞는 것좀 찾아주세요; Can you find something that fits my face shape?
+ * 귀에 거는것좀 맞춰주세요; Can you adjust the ear pieces?
+ * 그것에는 많은 사람들이 처방된 안경을 쓰고 있다  There are a lot of people with prescription glasses. 듣기
 * 제가 가는 곳은 24시간 하는 곳인데요 거기는 모든 것이 자동화 되어 있어서 거기서 일을 하는 직원이 없고  The one I go to is a  24 hour place and everything there is automated so they don't have any staff working there.
   * 시설을 가지고 있다는 There 보다는 they로 표현
 * 사장님만 다 잘되고 있는지 확인하고 청소하러 가끔가다 한번씩 들르기만 해요 Just the owner comes by every once in a while to check up on things and clean (up).
@@ -15,6 +18,7 @@
 * 
 
 # 토익
+* 이용자 참여  아파트를 장만하려고 돈을 모으고 있다고 그녀는 말했다.  She said she plans to put the money toward buying an apartment. 듣기
 *  Last year, the Daejeon English News ------- the number of readers; increased
 * Sandy Rivers Golf Club boasts an 18-hole golf course, a clubhouse, and a fully ------- golf store; stocked
 * . All staff members should ------- that the meeting this Friday will take place at 11 A.M.; note
@@ -97,6 +101,10 @@
 * 사인해주다; He even signed some autographs for some of his fans
 
 # 중요
+* 피부가 당기다; My skin feels tight
+* 하루 전에; 중요한 날 직전에; on the eve of
+* 그녀는 수술 후에 비굦거 빨리 회복했어; SHe bounced back prtty quickly
+* 괜한 걸 물어봤네; That question was too personal
 * 고민 있어? what's eating you
 * 엄청 쏟아지네(비); It's really coming down; pouring
 * 불매운동; South koreans are boycotting Japanese products
@@ -167,6 +175,13 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 높은 광대뼈를 가졌어요; She has high cheekbones
+* 모르곘어; It beats me
+* 별거하다; live aprt from my family
+* 나 때문에 목숨걸지마; You want to risk your life for this?
+* 그는 올해의 우승자로 뽑혔다;
+ * He was crowned winner of the year
+ * 나 이 하나 씌웠어; i had my tooth crowned
 * 진짜 무서운 영호; It's a hair -raising movie
 * 줄 서세요; Form a queue
 * 이 잔의 반 정도를 채워줄 거예요; we're gonna go into this glass about halfway up
@@ -363,6 +378,13 @@
 * 네. 인생에 있어서 터닝포인트가 됐죠. Yes, it was the turning point of my life
 
 # 토익
+* 가산단수/가산명수: None:  가산 복수: a few;  가산단수: nobody, somebody
+* have celebrated in recent years
+* 제안 의문문; why don't you / how about / would yoou care to
+* 조언; 의문사 + SHould i 
+* be even lower;  최상급은 앞에 소유격이나 the 필요
+* -로 전해지는; said to be
+* 언젠가는; at some point/time
 * be supportive of: 지지하다; be supported by: 지지를 받다
 * be replective/representative/indicative of
 * 한국은 이 대회 전체 순위 2위에 올랐다. South Korea came in second place overall in the tournament; overally in
