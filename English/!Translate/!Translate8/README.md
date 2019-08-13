@@ -1,3 +1,19 @@
+# [ 영어 문장 하나 ] - 모르는 사람과 강아지에 대해서 얘기하다가 들린 영어 단어
+"며칠 전에 강아지들이랑 공원에 가서 모르는 사람이랑 얘기를 하게 됐는데  "I was at the(a) park the other day with my dogs  and I got into conversation with this stranger
+ * 갔다보다는 was라는 표현 사용
+* 그 사람이 '간식'이라는 말 대신에 'treat'라는 영어 단어를 쓴게 인상적이었어요(놀라웠어요)   I noticed that he used the English word 'treat' instead of '간식', which immediately caught my attention(which came as quite a surprise to me)
+우리말과 흔히 같이 사용되는 그런 단어가 아니거든요. because it's not one of those English words that is typically used with Korean 
+* 그것만으로도 그 사람이 영어에 대해서 어느 정도 편하게 느끼는 수준이라는 것을 알 수 있었어요." and that alone was a pretty clear indication that the man had(felt) a certain level of comfort with the English language."
+
+ 주목할 내용:
+ - I was at a park .. : 공원에 갔었다를 "있었다" 식으로 표현함
+ - get into conversation with .. : (잘 모르거나 처음 보는) 사람과 대화를 하게 되다
+ - I noticed that.. : 어떤 특이한 점이나 변화한 점을 알아차리다.
+ - (something) caught my attention :  (어떤 것)이 내 주목을 끌었다 * "~~이(가) 인상적이었다"라고 해석할 수 있음. (impressive는 어떤 것이 훌륭한 수준이어서 인상적이라는 어감으로 쓰는 말)
+ - (something) came as a surprise to me : (something) surprised me 와 의미는 같으나 더 조심스러운 묘사법
+ - That alone ... 
+ - (something) is a clear indication that
+
 # [ 일상을 영어로 말하기 ] 때때로, 가끔가다 한번씩, 1년 내내, 24시간 하는 곳
 * 저는 빨래방을 때때로 이용해요. I go to the laundromat from time to time 
 * 내 얼굴에 맞는 것좀 찾아주세요; Can you find something that fits my face shape?
@@ -50,7 +66,6 @@
 * (1) Either answer is correct. (두 답이 모두 맞다)
 * (2) Either of the answers is correct.
  * either 다음에 복수명사가 바로 올 수는 없습니다.
-* 그 담들은 노란색 페인트로 칠해져 있었다. [also VN-n,v] The walls were painted yellow. 
 * 의문문에는 Y/N 불가; why don't, how about, what about
 * 까다로운 시험; demanding test; 저명한 조각가; distinguished sculptor
 * 참석/참석자 수 명사; attendance;
@@ -175,6 +190,17 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 수익 좀 냈어? Have you made a profit?
+* 비스듬히 던져볼거야; i'll throw it at an angle
+* 진짜 재밌었어; i got a real kick out of it
+* 투명인간이 되고싶어요; invisibility
+* 궁금했던적이 있나요? Have you ever wondered?
+* 난 그거 처음 듣는 소리야; that's quite news to me
+* 걔는 남편감이 아니야; he's not husband material
+* 무승부로 끝났어; THe game ended in a tie
+* 너 새 신발을 길들이는 법 아니? DO you know how to break in new shoes?
+* 목소리가 끊어져요; YOu're breaking up
+* 나 노팬티다; i'm going commando
 * 높은 광대뼈를 가졌어요; She has high cheekbones
 * 모르곘어; It beats me
 * 별거하다; live aprt from my family
@@ -378,6 +404,11 @@
 * 네. 인생에 있어서 터닝포인트가 됐죠. Yes, it was the turning point of my life
 
 # 토익
+* rely/count/depend on/uon
+* 요구시에: on/upon request
+* -하자마자; on/upon arriving/receipt
+* - 여부에 달려있는; be contingent on/upon
+* for/in//over the last/past 기간
 * 가산단수/가산명수: None:  가산 복수: a few;  가산단수: nobody, somebody
 * have celebrated in recent years
 * 제안 의문문; why don't you / how about / would yoou care to
