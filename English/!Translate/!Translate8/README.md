@@ -14,6 +14,15 @@
  - That alone ... 
  - (something) is a clear indication that
 
+# [ 기초영어회화 ] "이거 원래 이래?" , "응. 이거 원래 이래." - PART 1
+1. 정상이 아니라는 맥락 : "It's not supposed to be like this/that."
+2. 항상 그렇지/이렇지는 않다는 맥락 : "It's not always like this/that."
+3. 이전에는 안그랬었다는 맥락 : "원래는 이렇지 않았어요" - "It wasn't like this before."(It didn't use to be like this before)."
+* 생각해 둔곳이 면 군데 있어요; I have a few places in mind
+* 어디 갈지 생각해 둔곳이 있어? Where did  you have in mind?
+* 열대 국가에 살고 있는 기분이ㅑㅇ; It feels like/It's like we're living in a tropical country
+* 몸짓으로 표현해 봐야지 ;I put my thing in motion
+
 # [ 일상을 영어로 말하기 ] 때때로, 가끔가다 한번씩, 1년 내내, 24시간 하는 곳
 * 저는 빨래방을 때때로 이용해요. I go to the laundromat from time to time 
 * 내 얼굴에 맞는 것좀 찾아주세요; Can you find something that fits my face shape?
@@ -34,6 +43,8 @@
 * 
 
 # 토익
+* A or B; B에 집중
+* 아니다: not that i can remember
 * 이용자 참여  아파트를 장만하려고 돈을 모으고 있다고 그녀는 말했다.  She said she plans to put the money toward buying an apartment. 듣기
 *  Last year, the Daejeon English News ------- the number of readers; increased
 * Sandy Rivers Golf Club boasts an 18-hole golf course, a clubhouse, and a fully ------- golf store; stocked
@@ -97,6 +108,7 @@
 * arabia penisular 어-뤠이-비아 [-sələ]  영국식 [pəˈnɪnsjələ]
 *  [ɔːf;ɑːf]  영국식 [ɒf]  of 미국식 [ʌv] 
 * in and out; 인과 엔 사이 발음
+* Del Monte; epfahsxl; Hermes; 얼메즈;  Hyundai; 헌다이  Porche; 폴샤;   Huawei; 
 
 # 오픽
 * 22층의 높은 빌딩에 있다; My hous is on the 22n floor of a tall/high-rise apartment
@@ -190,6 +202,17 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 이거 포장해 주실수 있나요? Can i get this wrapped up?
+ * Can i get a to-go box?
+* 계란 살살 읽혀주세요; i want them over easy; i want mine over hard
+* 강아지를 관리하게 줄을 꽉 잡고있어; Hand on to this roope to keep the dog in check
+ * 즐기는건 좋지만 과한건 안좋으니 너 그 넘치는 에너지를 좀 절제하는게 좋아; YOu need to keep your overflowing energy in check
+* 오늘 만나는거 맞지? Are we still on for tonight?
+* 그 제안 아직 유효해요? Does that offer still stand?  still good/valid?
+* SNS에서 나를 모른척했따; She ghosted me on social media
+* 이제 상관없는 일이다; 다 지난 일이다; It's a moot point
+* 가격은 두 배 이상이었따; The price was more that double
+* 그는 이미 시계 읽는 법을 배웠어; He has already learned to tell time
 * 수익 좀 냈어? Have you made a profit?
 * 비스듬히 던져볼거야; i'll throw it at an angle
 * 진짜 재밌었어; i got a real kick out of it
