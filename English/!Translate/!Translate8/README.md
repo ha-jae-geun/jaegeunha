@@ -105,10 +105,11 @@
 * 추가 참가자에 대한 준비를 하지 않다 make no provision for extra attendees 
 
 # 코어
+* cheery Jubilee; 체뤼 쥬블리
 * arabia penisular 어-뤠이-비아 [-sələ]  영국식 [pəˈnɪnsjələ]
 *  [ɔːf;ɑːf]  영국식 [ɒf]  of 미국식 [ʌv] 
 * in and out; 인과 엔 사이 발음
-* Del Monte; epfahsxl; Hermes; 얼메즈;  Hyundai; 헌다이  Porche; 폴샤;   Huawei; 
+* Del Monte; 델모티; Hermes; 얼메즈;  Hyundai; 헌다이  Porche; 폴샤;   Huawei; 
 
 # 오픽
 * 22층의 높은 빌딩에 있다; My hous is on the 22n floor of a tall/high-rise apartment
@@ -128,6 +129,9 @@
 * 사인해주다; He even signed some autographs for some of his fans
 
 # 중요
+* 널 이해시키려면 수백번을 말해야해; I have to tell you hundreds of times for it to sink in
+ * 그녀가 날 떠났다는 사실이 아직 실감나지 않아; the fact that she left me still hasn't sunk in
+* 발목이 너무 두꺼운데 어떡하지 How can i get rid of my canckles; 종아리: calf kæf ankles 
 * 피부가 당기다; My skin feels tight
 * 하루 전에; 중요한 날 직전에; on the eve of
 * 그녀는 수술 후에 비굦거 빨리 회복했어; SHe bounced back prtty quickly
@@ -202,6 +206,13 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 주말 내내 폭염이 이어졌습니ㅏㄷ; It's another weekend of schorching heat
+* 피를 뽑았어요; i got my blood drawn
+ * 혈압을 쟀어요; Nurse took my blood pressure
+ * 중환자실에 있어요; Hse's in the ICu (Intensive Care Unit)
+* 1번 메뉴 피클 추가해서요; Can i get a number 1 with extra pickles?
+* 그렇게 많은 기능을 우너하지 않아; i don't need all that bells and whistles
+*  The target for response to simple requests for information is 20 working days from the date of receipt.
 * 이거 포장해 주실수 있나요? Can i get this wrapped up?
  * Can i get a to-go box?
 * 계란 살살 읽혀주세요; i want them over easy; i want mine over hard
