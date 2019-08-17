@@ -206,6 +206,12 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 야 너 John 이 새로 뽑은 차 봤어? 개 쩔었어/개 고퀄이다... Man did you see John's new car? It was ICYYY!
+ * 이 맨션(엄청 큰 집) 겁나 고퀄이다!! 여기서 파티해야지!! This mansion is ICY! We gotta throw a party here!
+* 애 버릇 잘못들어요; You're spoing her
+* 그분 갈색 머리이셔; SHe's a brunette
+ * 금발이었어요; He was a natural blonde
+* 내 주 수입원은 책 쓰는 일이야; Writing books is my bread and butter
 * 주말 내내 폭염이 이어졌습니ㅏㄷ; It's another weekend of schorching heat
 * 피를 뽑았어요; i got my blood drawn
  * 혈압을 쟀어요; Nurse took my blood pressure
