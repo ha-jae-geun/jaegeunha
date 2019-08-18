@@ -206,6 +206,18 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 영어 많이 늘었어; i got better at Englilsh
+* 그의 상황 평가가 딱 들어맞았다. His assessment of the situation was spot on. 
+* 네 차례야; You;re up
+* 파리채로 떄려잡아; Just swat it with a fly swatter swat 미국식 [swɑːt] 
+ * 방충망도 안쳐놓고 창문을 활짝 열고 나갔어요; SOmeone left the window wide open, no mesh screen either
+ * 모기장을 치다; put a screen; mesh screen; mosquito net
+ * 살충제를 씁니다; bug spray/ insect spray
+ * 모기향이 인간에게 해롭지 않다고 확신하십니까?  Are you sure mosquito coil is not harmful to humans?
+* 그녀느 서른살까지 신분증 검사 당했어; She was getting carded until she was 30
+* 봉제 동물인형들로 가득해; His bed is covered with stuffed animals
+* 우리 권태기인것 같애; i feel like We're stuck
+ * The honeymoon period is over; Our relationship has gone stale; lose the spark
 * 야 너 John 이 새로 뽑은 차 봤어? 개 쩔었어/개 고퀄이다... Man did you see John's new car? It was ICYYY!
  * 이 맨션(엄청 큰 집) 겁나 고퀄이다!! 여기서 파티해야지!! This mansion is ICY! We gotta throw a party here!
 * 애 버릇 잘못들어요; You're spoing her
