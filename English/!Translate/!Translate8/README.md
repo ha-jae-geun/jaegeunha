@@ -1,3 +1,12 @@
+# [ 영어 연습가이드 - HARDCORE ] - "Dig A Hole"
+* 더 주목할 만한 것은  what’s more notable than A is B
+* 그 구멍을 파는 것이 어려운 수감생활을 수년 동안 견디게 해준 요소라는거예요.   A is what gets/got (someone) through..
+* 자신들이 처한 상황을 받아들이고 감옥 안에서의 생활에 편안해지는 사람들도 있어요 “All other inmates who accept the conditions they’re in..”
+* 그러면서, 저는 이 모든게 우리의 현실과 많이 닮았다는 생각을 해요  be reminiscent of; be reminds me of
+* 어떤 사람들은 이런 책임이 너무 막막하게 느껴져서 갇힌 기분이 들기도 할거예요
+ *  take on + responsibilities / challenges; we have responsibilities to fulfill
+ * 피해갈 방법은 없어요  there is no way around (something)
+
 # [ 영어 문장 하나 ] - 모르는 사람과 강아지에 대해서 얘기하다가 들린 영어 단어
 "며칠 전에 강아지들이랑 공원에 가서 모르는 사람이랑 얘기를 하게 됐는데  "I was at the(a) park the other day with my dogs  and I got into conversation with this stranger
  * 갔다보다는 was라는 표현 사용
@@ -206,6 +215,7 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 상상많 ㅐ도 침이 고여; My mouth is watering just by the thought of chicken
 * 영어 많이 늘었어; i got better at Englilsh
 * 그의 상황 평가가 딱 들어맞았다. His assessment of the situation was spot on. 
 * 네 차례야; You;re up
