@@ -23,6 +23,14 @@
  - That alone ... 
  - (something) is a clear indication that
 
+# [ 기초영어회화 ] 이거 엄청 어렵다 + 원래 이래? = 이거 원래 이렇게 어려워?
+* 여기 사람 진짜 많다; It's so crowded here
+* 원래이래? Is it always like this? Is it supposed to be like this?(의도된 바)  Is it normal?
+* 원래 그래요? Is it supposed to do this/that?   뜨거워지다;  like that이라고 하면 안됨
+* 나 원래 안이러는데; I'm normally not like this
+* 이거 원래이렇게 뜨거워져요?  Is it supposed to get this hot?
+* 원래 그렇게 씨끄러워? Is he always like that? -> Is he always that loud?
+
 # [ 기초영어회화 ] "이거 원래 이래?" , "응. 이거 원래 이래." - PART 1
 1. 정상이 아니라는 맥락 : "It's not supposed to be like this/that."
 2. 항상 그렇지/이렇지는 않다는 맥락 : "It's not always like this/that."
@@ -215,6 +223,14 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 아리아나그란데 보이프랜드; 만신창이가 되버리다; i'm a train wreck 미국식 [ˈtreɪnrek] 
+* 그래서 어쩌라고? Bite me!
+* 당연히 아니지! YOu think?
+* 넓은 어깨를 위한 9가지 운동; 9 best exercises for wider shoulders
+* 컵 두를거 주세요; Can you put a sleeve on it?
+* 그녀는 카메라 울렁증이 조금 있어요; SHe's a little camera shy
+* 나는 아무도 뒤쳐지는 것을 원하지 않아; i don't want anyone dropping behind
+* 그 연극은 우리를 배꼽을 잡게 만들었다.The play had us in stitches. 
 * 상상많 ㅐ도 침이 고여; My mouth is watering just by the thought of chicken
 * 영어 많이 늘었어; i got better at Englilsh
 * 그의 상황 평가가 딱 들어맞았다. His assessment of the situation was spot on. 
