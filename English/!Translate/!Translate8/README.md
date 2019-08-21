@@ -154,6 +154,7 @@
 * 사인해주다; He even signed some autographs for some of his fans
 
 # 중요
+* 파란색 좋아요; 질문에 대한 색깔 대답; i like the blue one
 * 널 이해시키려면 수백번을 말해야해; I have to tell you hundreds of times for it to sink in
  * 그녀가 날 떠났다는 사실이 아직 실감나지 않아; the fact that she left me still hasn't sunk in
 * 발목이 너무 두꺼운데 어떡하지 How can i get rid of my canckles; 종아리: calf kæf ankles 
@@ -231,6 +232,9 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 맥주 한 잔 주세요; can we order a pitcher of 맥주이름
+ * 큰 잔은 몇 온스에요? How many ounces are in the bigger glass
+ * 생 맥주 있어요? Can i have a 맥주이름 on tap?
 * 벽의 콘센트 a wall socket 
  * 이용자 참여  누가 한 개짜리 멀티탭을 사용할까? uses a power strip for one plug? 듣기
 * Can you give me(이미 내 소유) 보다는 can i get
