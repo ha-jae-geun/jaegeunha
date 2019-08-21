@@ -1,3 +1,10 @@
+# "다루다"를 영어로? - deal with / handle [ PART 1 ]
+* 오래걸리진 않아; it won't take long
+* 너가 하고싶은대로 해; Whatever you need
+* handle: 통제하다, 감당하다
+* 정치에 대해 잘알아; she knows a lot about politics
+ * 이번 일이 얼마나 중요한지 잘 인지하고 있었어: he knew bery well how important this was
+
 # [ 영어 연습가이드 - HARDCORE ] - "Dig A Hole"
 * 더 주목할 만한 것은  what’s more notable than A is B
 * 그 구멍을 파는 것이 어려운 수감생활을 수년 동안 견디게 해준 요소라는거예요.   A is what gets/got (someone) through..
@@ -122,6 +129,7 @@
 * 추가 참가자에 대한 준비를 하지 않다 make no provision for extra attendees 
 
 # 코어
+* balconey; [ˈbælkəni] 
 * cheery Jubilee; 체뤼 쥬블리
 * arabia penisular 어-뤠이-비아 [-sələ]  영국식 [pəˈnɪnsjələ]
 *  [ɔːf;ɑːf]  영국식 [ɒf]  of 미국식 [ʌv] 
@@ -223,6 +231,21 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 벽의 콘센트 a wall socket 
+ * 이용자 참여  누가 한 개짜리 멀티탭을 사용할까? uses a power strip for one plug? 듣기
+* Can you give me(이미 내 소유) 보다는 can i get
+ * 커피 굵게 갈아줄래요/ Can you give me a fine(coarse) grind?
+ * 카드 있어요? Do you have a loyalty card/reward/stamp card?
+ * 포인트 써도 돼요? Can i claim my points to buy a tall latte
+ * 와이파이 비밀번호 뭐에요? What's the password for the WIFI;  passcode to / password for
+ * 휴게실 가는 키 받을수 있어요/ Can i get a key to the restroom?; 
+* 영화광이에요/ He's a real film buff
+ * 이탈리아 그림 감정가 a connoisseur of Italian painting   [ˌkɑːnəˈsɜːr;-ˈsʊr]
+ * 금시초문이다; That's news to me!
+ * 천재들은 비슷하게 생각한다; Great minds think alike
+ * 나한테 욱했어; He snapped at me
+ * 해외배송 해드릴게요; i will ship it worldwide
+* 그 코치는 팀의 경기력 부진을 대단찮게 생각하고 있다. The coach is downplaying the team’s poor performance. 
 * 아리아나그란데 보이프랜드; 만신창이가 되버리다; i'm a train wreck 미국식 [ˈtreɪnrek] 
 * 그래서 어쩌라고? Bite me!
 * 당연히 아니지! YOu think?
