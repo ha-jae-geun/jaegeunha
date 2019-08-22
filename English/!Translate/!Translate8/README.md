@@ -232,6 +232,15 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 밤새워 공부하지 마세요; Don't do an all-nighter
+* 3도 화상이에요; It's a third-degree burn
+* 귀에 염증 있고 축농증도 잉써서; she has an ear infection and a sinus infection  [ˈsaɪnəs]
+* 목발 짚다; i'm on crutches
+* 난 책읽은 속도 늘려야해(개선); i really need to up my reading speed; up이 동사
+* 머리가 어깨 위로 올라올 정도로 해주세요; i want it above my shoulders
+* 숏컷하고싶어요; i want to get a short cut -> i want it(my hair) short
+ * 머리를 뒤로 넘기면; when i pull my hair back
+ * 차액 받을 수 있나요? Can you refund me the difference?
 * 맥주 한 잔 주세요; can we order a pitcher of 맥주이름
  * 큰 잔은 몇 온스에요? How many ounces are in the bigger glass
  * 생 맥주 있어요? Can i have a 맥주이름 on tap?
