@@ -5,6 +5,11 @@
 * 정치에 대해 잘알아; she knows a lot about politics
  * 이번 일이 얼마나 중요한지 잘 인지하고 있었어: he knew bery well how important this was
 
+# 완료시제
+* 원래 이렇게 비가 많이 왔었나? Does it always rain this much in the SUmmer?
+* 8월 말에 원래 이렇게 춥나? Is it always this coldc in late August?
+* 카페인 음료 줄이려고 노력중; i've been tryingg to cutt down on caffeinated drinks
+
 # [ 영어 연습가이드 - HARDCORE ] - "Dig A Hole"
 * 더 주목할 만한 것은  what’s more notable than A is B
 * 그 구멍을 파는 것이 어려운 수감생활을 수년 동안 견디게 해준 요소라는거예요.   A is what gets/got (someone) through..
@@ -232,6 +237,7 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* tell 은 한명 talk은 두명 이상 말할 
 * 밤새워 공부하지 마세요; Don't do an all-nighter
 * 3도 화상이에요; It's a third-degree burn
 * 귀에 염증 있고 축농증도 잉써서; she has an ear infection and a sinus infection  [ˈsaɪnəs]
