@@ -237,6 +237,14 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 와인 잘 안먹어; i'm not a regular wine drinker
+ * 쌉싸름한 맛이 너무 나지 않는 와인 추천해주세요; i'd like to try a red wine that is not too dry
+  * 뭐가 단맛이 더 덜나; which one is drier?
+  * 이 와인이랑 잘 어울리는 치즈 추천해주세ㅛㅇ; Can you suggest which wine is good with this steak
+* 숨겨왔던 이야기를 터뜨리다; He finally broke the dam; 울움이 왈칵 터지다; She burst into tears as if a dam has broken
+* run n by 사람: =에게 -를 보여주다' 누군가의 의견, 반응, 제안을 듣기 위해 어떤 것을 보여주다
+ * 저한테 다시 설명해주시겠어요? Can you run that by me again?; 
+ * 매니저에게 먼저 상담하는게 좋을거야; YOu'd better run it by your manager first
 * 잠귀가 밝다 어둡다; light<>deep sleeper
 * 저능아, 장애야; Retarded
 * 가치가 있는, 가격대비 좋은; good value
