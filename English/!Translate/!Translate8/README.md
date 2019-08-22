@@ -237,6 +237,9 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 잠귀가 밝다 어둡다; light<>deep sleeper
+* 저능아, 장애야; Retarded
+* 가치가 있는, 가격대비 좋은; good value
 * tell 은 한명 talk은 두명 이상 말할 
 * 밤새워 공부하지 마세요; Don't do an all-nighter
 * 3도 화상이에요; It's a third-degree burn
