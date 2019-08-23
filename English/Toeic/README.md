@@ -1,3 +1,21 @@
+# part 7
+* 165까지 쉬움; 166-175: 기사지문 어려움; 
+
+## 질문의 키워드
+* 숫자, 날짜 등의 기호
+* 고유명사(사람이름, 회사이름, 상품이름)
+* 부정적인 단어(WIthout a pass)
+* 감정동사
+* 최상급, 비교급
+* 극단적인 단어; always, only, solely, exclusively, must, never
+* 중요한 부사; currently, recently, usually
+* 연락처
+
+# Part2
+## 상위단어
+* event
+* item, machine
+
 # 단수명사 앞에 오는 형용사
 * one, each, either, neither, another, every, this/that(불가산 앞에도 가능) + 단수명사
 	* every twi years = every second year(2년에 한번), another two years(추가로 2년더) 는 예외; two years를 하나의 묶음으로 보기 때문에 가능한 표현이니 조심한다.
