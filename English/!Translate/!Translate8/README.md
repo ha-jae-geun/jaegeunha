@@ -5,6 +5,21 @@
 * 정치에 대해 잘알아; she knows a lot about politics
  * 이번 일이 얼마나 중요한지 잘 인지하고 있었어: he knew bery well how important this was
 
+# "다루다"를 영어로 - PART 2 - cover / address / go over
+* "자, 다 오신 것 같네요. 시작하는게 좋겠습니다. "OK, I think everybody is here. I think we should get started. 
+* 오늘 저희가 다룰 내용이 많습니다. We have a lot to cover today.  
+* 다들 새로운 업무 평가 시스템에 대해서 궁금하신 것이 많을 것으로 알고 있고 진행을 하면서 최대한 모두 다루도록 하겠습니다. I know you all have a lot of questions about the new performance evaluation system and we'll try to address as many of them as we can as we go along. 
+* 하지만 그것에 들어서기에 앞서 먼저 확인하고 싶은 것이 몇 가지 있습니다."  But before we get into that, there are a couple of things that I'd like to go over first."
+* Cover : 물리적인 것으로 생각했을 때 “~을 덮는다.” 의미. 내용에 범위가 있다고 보고 어떤 특정 범위을 덮는다는 의미로 쓰임. 포괄적인 개념으로 사용.
+* Address : 다른 표현들은 갖고 있지 않은 요소 갖고 있음.(deal with a question, handle a question, cover a question, go over a question로는 잘 안씀. But address a question 사용.) 그 요소는, 단순히 어떤 것을 해결한다는 의미 말고도, 어떤 문제가 되는 부분이나 이슈에 대해 생각하고 의논을 한다는 의미가 들어있음. (=그걸 바탕으로 해결하기 위한 과정을 받는다.) 
+* Go over : cover은 내용의 범위를 두고 다루는 거지만, go over 은 비교적 ‘일일이 훑어보며 검토한다’는 개념이 드러남.
+* 몰래 나가곤 했어요; i used to sneak out
+* 좀 덜 오글거리죠; It's not as like cringy
+* 가볍게 만나다; I have a fling
+* 여자가 서른 살이 되었을 때도 성욕의 최대치를 찍는 나이: Dirty Thirty; 30대: Dirty Thirties
+* 그냥 잡아 뜯어버려; Just pluck it away
+
+
 # 완료시제
 * 원래 이렇게 비가 많이 왔었나? Does it always rain this much in the SUmmer?
 * 8월 말에 원래 이렇게 춥나? Is it always this coldc in late August?
@@ -159,6 +174,19 @@
 * 사인해주다; He even signed some autographs for some of his fans
 
 # 중요
+* 웃는 모습이 엄마랑 똑같네요; Your daughter has your smile
+* 부모들이 아이들을 같이 놀게하자는 약속; Let's have a playdate
+* 김치 너무 싱겁게 나왔어요; Kimchi came out too bland
+* 협상 가능한가요? Is it negotiable?
+* 물 잘 나오는지 물 좀 틀어봐도 될까요? Can i turn on the faucet to check the water pressue?
+* 길에 세우셔야 해요; It's street parking
+* 벼락치기 하는거 그만해야해; I need to stop cramming
+* 다리를 팍 차고; Kick my legs out
+* 그네 타러가자; Let's go on the swing
+* 예약 없이 가는 사람도 받나요? Do you take walk-ins?
+* 103도 열이 나요; She has had a fever of 103
+* 온도가 떨어졌따 내렸다 반복해요; Her temperature has been going up and down for 3 days
+* 의자 똑바로 세워 주시겠어요? Can you make your seat upright?
 * 파란색 좋아요; 질문에 대한 색깔 대답; i like the blue one
 * 널 이해시키려면 수백번을 말해야해; I have to tell you hundreds of times for it to sink in
  * 그녀가 날 떠났다는 사실이 아직 실감나지 않아; the fact that she left me still hasn't sunk in
@@ -237,6 +265,18 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 옆으로 좀 당겨 앉아주세요; Scoot over please
+* 여기 분실함 있나요? Is there a lost and found?; i need to report the lost and found
+* 그녀는 그를 야단쳤다; SHe told him off
+* 그들은 항상 이유없이 금액을 올리려고 한다; They always jack up the price
+* 거슬리게 하네; He gets on my nerves
+* 침 삼킬때 괴로워; When you drink the juice
+* 제습으로 해주실래요? Can you change it into dehumidification mode?; 강풍모드: strong wind
+* 건강한 식단은 너의 건강을 유지해줄거야; A healthy diet will keep you in the pink
+ * 그녀는 선물들ㅇ르 받고 나서 매우 기뻐했다; She was tickled pink
+ * 그의 이마에 멍이 들었다; His forehead is black and blue
+ * 알고보니 엄청난 오해였다; Turns out it was all just a big musunderstanding
+ * 대가가 클거야; It's gonna cost you
 * 와인 잘 안먹어; i'm not a regular wine drinker
  * 쌉싸름한 맛이 너무 나지 않는 와인 추천해주세요; i'd like to try a red wine that is not too dry
   * 뭐가 단맛이 더 덜나; which one is drier?
