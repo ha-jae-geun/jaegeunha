@@ -265,6 +265,12 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 야외에서 요리할 때; When cooking outdoors
+* 모든 연령을 위한 수업 제공; provide classes for people of all ages
+* 경고를 주다; give a warning to employees; 기사를 위한 데드라인 주다; make a deadline for the articles
+ * 네트워크 서비스해주다; advertise on the social networking service
+ * 대학교 게시판에 포스터올리다; post a poster on college bulletin board
+ * work for 회사; work as a 직책; work in 부서; work on 업무; management
 * 옆으로 좀 당겨 앉아주세요; Scoot over please
 * 여기 분실함 있나요? Is there a lost and found?; i need to report the lost and found
 * 그녀는 그를 야단쳤다; SHe told him off
