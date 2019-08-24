@@ -174,6 +174,23 @@
 * 사인해주다; He even signed some autographs for some of his fans
 
 # 중요
+* 7시 30분 전에ㅔ 상영작 있어요: Do you have any other showings before 7:30?
+* 저는 확실히 다혈질이에요; i'm definitely a hothead
+* 해장술이지; Hair of the dog
+* 폰 못풀겠어 답답해; I can't unlock my phone! it's so frustrating
+* 포장 접시 하나 주세요; Can i just get a plate to go?
+* 내가 좀 버겁다는거 ㅇ라아; i'm a handful\
+* 어떤 승객이 탑승 거부를 당하는지; Which passengers get bumped
+* 제가 비행기 놓쳤으면; if i missed my flight
+* 얼음 한조각 넣어주세요; Can you put a piece of ice cube in it?
+* 무료 주차장 있어요? do you have free parking?
+* 아주 얇게 썰어주세요; Can you slice it paper thin?
+* 부스러기 주워; Pick up the crumbs
+* 제가 내역서를 확인해봤어요; 근데 아직까지 환불이 처리가 안됐어요; I checked my statement but the refund has not been processed
+* 하루 늦었어요; i was one day overdue
+* 무료 주차 없어요; we don't validate
+* 옆으로 갈래; Can you scoot over;  서있는 경우에 자리 낵; Can you step aside?
+* (렌트) 얼마나 쓰실거에요? How long do you want to keep it?
 * 웃는 모습이 엄마랑 똑같네요; Your daughter has your smile
 * 부모들이 아이들을 같이 놀게하자는 약속; Let's have a playdate
 * 김치 너무 싱겁게 나왔어요; Kimchi came out too bland
@@ -265,6 +282,9 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 귀중품을 절대 뒷주머니에 넣지 마세요; Never put valuables in your back pocket
+* 자신만만한 사람이 전화를 걸어왔습니다; There is a tough cookie on the phone
+* 그 여자느 굉장히 똑똑해요; She's as sharp as a tack
 * 야외에서 요리할 때; When cooking outdoors
 * 모든 연령을 위한 수업 제공; provide classes for people of all ages
 * 경고를 주다; give a warning to employees; 기사를 위한 데드라인 주다; make a deadline for the articles
