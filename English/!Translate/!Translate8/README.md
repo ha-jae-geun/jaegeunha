@@ -87,6 +87,8 @@
 * 
 
 # 토익
+* monetary 미국식 [-teri]  영국식 [ˈmʌnɪtri]; monetary policy/growth ; 통화 정책/팽창
+* 그 인터뷰를 글로 옮긴 것 a transcript of the interview 
 * A or B; B에 집중
 * 아니다: not that i can remember
 * 이용자 참여  아파트를 장만하려고 돈을 모으고 있다고 그녀는 말했다.  She said she plans to put the money toward buying an apartment. 듣기
