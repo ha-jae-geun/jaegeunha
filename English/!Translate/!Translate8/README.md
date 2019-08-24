@@ -174,6 +174,11 @@
 * 사인해주다; He even signed some autographs for some of his fans
 
 # 중요
+* 썰좀 풀어봐; What's the tea; spill the tea
+* 열렬한 팬; Stan
+* 너 진짜 깨어있다; You're so woke
+* 썸탄다; They are talking
+* 읽씹한다; They left you on read
 * 7시 30분 전에ㅔ 상영작 있어요: Do you have any other showings before 7:30?
 * 저는 확실히 다혈질이에요; i'm definitely a hothead
 * 해장술이지; Hair of the dog
