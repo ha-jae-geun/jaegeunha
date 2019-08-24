@@ -1,5 +1,33 @@
+# part 1
+## 정답 빈출
+* - are standing in a; 서있다;
+* A railing surrounds; 혹은 border; 둘러싸여있다
+* Some paintins are hanging on a wall; hung; suspend
+* 인물 사진 중심이어도 주변, 사물, 풍경, 묘사가 정답
+* leaning against
+* 팔뻗기: reaching over = reaching for = extending
+* 옆에 서있다; loading / unloading
+* 기둥: columns = pillars
+
+# part6
+* 빈칸 앞뒤 연결: 과거, 미래시제가 정답
+
 # part 7
 * 165까지 쉬움; 166-175: 기사지문 어려움; 
+
+## 단일지문
+* 이메일 관련 질문에 답: According to the email
+
+## 연계지문
+* What item will Mr.Perez
+
+## 구인광고
+* 주제파악: 지문 앞
+* 자격조건: 두, 세번째 달락
+* 지원방법: 마지막 단락
+
+## 일반 상업
+* 주제파악: 지문 앞
 
 ## 질문의 키워드
 * 숫자, 날짜 등의 기호
@@ -11,10 +39,85 @@
 * 중요한 부사; currently, recently, usually
 * 연락처
 
+## 이메일
+* 요청사항: 명령문, if, should, must
+* 첨부사항: enclosed, attached, sent
+
+## 광고
+* 비교구문
+* 구인광고: 자격조건
+
+## 공지
+* 세부사항(미래시제, 날짜, 기간)
+
+## 기사
+* 추론/암시: 고유명사 주변
+* 미래상황: 미래시제동사
+
+
 # Part2
+## 정답 버리기
+* 유사 발음 다의어, 연상, 주관적인 묘사, 시제 불일치
+* 육하 원칙질문에 yes, no, sure, of course
+
+## 평서문 대답
+* yes, but / Yes, and / No, but
+
+## 모르다
+* Let me check
+* 다시 물어보다
+* actually
+
+## why
+* due to something
+
+## suggest
+* why don't you
+
 ## 상위단어
+* allure=  tempty = charm = attrat = enchant
+* 가격이 적당한; competitive = affordable = moderate = reaasonable
+* 모으다: bring together = gather = assemble = collect = converge
+* outstanding = superb = excellenet = exceptional
+* 관하여: over, with regard to, regarding = concerning = in reference to
+* visit = come over = come/drop/stop by
+* discount = special promotion = special deal = price reduction = 00% off
+* purchase = buy = get = pick up
+* intruduce = launch = elease = availabe
+* missing = not included = left out
+* appliance = refrigerator
 * event
 * item, machine
+* talk = lecture
+* property = real estate
+* renovation = remodeling
+* behind schedule = late
+* reimburse = compensate
+* sports event = race
+* tour = show around
+* soldout = out of stock
+* estimate = quote
+* magazine = issue
+* mayor = local politician
+* manager = head
+* clothing = apparel
+* launch = release
+* pass around = hand out; 돌리다
+* take part in = participate
+* contract = aggreement
+* figures = numbers
+* award = prize
+* advertisement = commercial
+* rules = regulations
+* cancel  withdraw
+* procedure = process
+* similar = not too different
+* drink = beverage
+* expand = double the size
+* dissemble = take apart; 분해하다
+* assemble = put together 
+* throw away = dispose of
+* work = assignment
 
 # 단수명사 앞에 오는 형용사
 * one, each, either, neither, another, every, this/that(불가산 앞에도 가능) + 단수명사
@@ -41,6 +144,9 @@
 
 # 접속사
 * A라는 시간 이후로 쭉; from A onwards [ˈɑːnwərd;ˈɔːn-]  영국식 [ˈɒnwəd]
+
+# Part3
+* 주제, 직업, 장소, 신분 정답은 첫 화자의 발화에서 
 
 # 파트 4
 ## 이메일
