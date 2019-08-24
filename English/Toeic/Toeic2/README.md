@@ -423,3 +423,4 @@
 * 제출하다; submit 미국·영국 [səbˈmɪt]
 * 필기하다; transcribe 미국·영국 [trænˈskraɪb] 
 * 이전[이동]하다[시키다] relocate 미국식 [ˌriːˈloʊkeɪt] 
+* 벽화: mural 미국식 [ˈmjʊrəl]
