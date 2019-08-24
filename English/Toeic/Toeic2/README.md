@@ -407,7 +407,7 @@
 
 # 코어
 * monetary 미국식 [-teri]  영국식 [ˈmʌnɪtri]; monetary policy/growth ; 통화 정책/팽창
-* 그 인터뷰를 글로 옮긴 것 a transcript of the interview 
+* 그 인터뷰를 글로 옮긴 것 a transcript of the interview  ˈtrænskrɪpt]
 * [명사] (행사의) 음식 공급자[사] caterer 미국식 [ˈkeɪtərə(r)]  영국식   단어장추가
 * 봉투; envelope 미국식 [ˈenvəloʊp;ˈɑːn-] 
 * 후원: patronage 미국·영국 [ˈpætrənɪdʒ;ˈpeɪt-
@@ -424,3 +424,7 @@
 * 필기하다; transcribe 미국·영국 [trænˈskraɪb] 
 * 이전[이동]하다[시키다] relocate 미국식 [ˌriːˈloʊkeɪt] 
 * 벽화: mural 미국식 [ˈmjʊrəl]
+* 가로등 기둥; lamppost 
+* 화물: cargo  [ˈkɑːrɡoʊ]
+* 부두; wharf 미국식 [wɔːrf]  is under construction
+	* They cleared the freight of cargo. [freɪt]
