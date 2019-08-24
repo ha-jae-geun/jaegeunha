@@ -402,3 +402,24 @@
 * ㆍ서류: document = paper = form = file
 * ㆍ시장 개시: debut, release
 * ㆍ모직 생산: fabric production, textile manufacturing
+
+-----------
+
+# 코어
+* monetary 미국식 [-teri]  영국식 [ˈmʌnɪtri]; monetary policy/growth ; 통화 정책/팽창
+* 그 인터뷰를 글로 옮긴 것 a transcript of the interview 
+* [명사] (행사의) 음식 공급자[사] caterer 미국식 [ˈkeɪtərə(r)]  영국식   단어장추가
+* 봉투; envelope 미국식 [ˈenvəloʊp;ˈɑːn-] 
+* 후원: patronage 미국·영국 [ˈpætrənɪdʒ;ˈpeɪt-
+* 도처에 throughout 미국·영국 [θruːˈaʊt]
+* 골동품인; antique 미국·영국 [ænˈtiːk] 
+* 사업가[기업가] entrepreneur 미국식 [ˌɑːn-]  영국식 [ˌɒntrəprəˈnɜː(r)] 
+* [명사] (격식) (어떤 것을) 받는 사람, 수령[수취]인 recipient 미국식 [rɪˈsɪpiənt]  영국식   단어장추가
+* 노력 endeavor 미국·영국 [indévər,en-] 
+* 기념물; monument 미국식 [ˈmɑːn-]  영국식 [ˈmɒnjumənt]
+* 배당금 dividend 미국·영국 [ˈdɪvɪdend]  영국식   단어장추가  중요
+* 예비의: preliminary 미국식 [-neri]  영국식 [prɪˈlɪmɪnəri] 
+* [명사] (운영) 계획, 제도scheme 미국·영국 [skiːm]  영국식   단어장추가    매우중요
+* 제출하다; submit 미국·영국 [səbˈmɪt]
+* 필기하다; transcribe 미국·영국 [trænˈskraɪb] 
+* 이전[이동]하다[시키다] relocate 미국식 [ˌriːˈloʊkeɪt] 
