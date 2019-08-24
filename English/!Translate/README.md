@@ -107,6 +107,7 @@
 
 
 # 원어민
+* 닥터스트레인지 사이비 종교; it's a cult; 마법사 망토: cape of maiction [keɪp]발음듣기
 * 나! 나 여기 있어. 찡그리지 마. 찡그리면 끼어. Me! I do that! Don't make frown face.
 * 그 소도시는 엄청난 포격을 받고 있다. he town is under heavy artillery fire.   [ɑːrˈt-]  영국식 [ɑːˈtɪləri] 
  * 대포도 만져보고; we've done artillery; 특수부대하고; did the special forces
