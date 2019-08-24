@@ -75,6 +75,14 @@
 * why don't you
 
 ## 상위단어
+* ♣.item(cans watch 등 슈퍼마켓에서 구입 가능한 것), 
+* ♣.merchandise(대량으로 생산 할 수 있는 것 ♣책♣), 
+* ♣.goods,
+* ♣produce(명사로 쓰이면 ♣농산물♣ apple <fruit< produce< food)
+* ♣.pastries(밀가루 반죽한 것)<bread<baked goods<food 
+* ♣악기♣-(musical) instrument ♣모든 장비♣(equipment)
+* ♣.machine<equipment
+* ♣.hammer<tool
 * allure=  tempty = charm = attrat = enchant
 * 가격이 적당한; competitive = affordable = moderate = reaasonable
 * 모으다: bring together = gather = assemble = collect = converge
