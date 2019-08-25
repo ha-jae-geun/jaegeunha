@@ -301,6 +301,14 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 제가 생각하기엔 둘 다 틀렸어; In my book they both are wrong
+* -에 대한 전문가다; writes the book on 
+* 공부하다; hit the books
+* 만만한 사람; soft touch(부탁을 하면 착하거나 속기 쉬워서 거절하지 않고 다 들어주는 사람); pushover(원하지 않아도 분위기에 잘 휩쓸리는)
+* -에 대한 약점이 되다; have a soft spot for; have a soft coner for
+* 독립을 위해 총을 쐈다; shot the man for independence
+* 내가 주인공잊; i'm the main attraction
+* 눈에는 눈; An eye for an eye
 * 돈가스 좋아해요; I like pork cutlet
 * 짜증나게 만들지마; Stop getting in my face!
 * 비틀즈는 미국을 휩쓸었다; The Beatles took the US by storm
