@@ -75,6 +75,54 @@
 * why don't you
 
 ## 상위단어
+### appreciate
+1. understand = 이해하다 
+2. give thanks for = 감사하다 
+3. (높이) 평가하다
+4. (열정을) 인정하다
+
+### assume 
+1. support = 생각하다,추측하다 
+2. bear/undertake (책임등을) 떠맡다
+
+### attract 
+1.(관심,흥미,돈,예치금)을 끌다 = draw, appeal to
+
+### cover 
+1. address, take care of, deal with, handle 다루다
+2. contain, include count 포함하다
+3. discuss =논의하다
+4. pay for = 지불하다
+5. report on = 보도하다
+6. insure = (분실, 임대등을 보상으로) 보장하다
+7. conceal = 감추다, 숨기다
+
+
+### decline 
+1. fall, sink, drop,decrease = 감소하다
+2. reject, refuse, turn down = 거절하다
+
+### keep 
+1. retain, maintain = 계속 유지하다. 보유하다
+
+### reflect
+1. indicate, show, reveal = 반영하다, 나타내다
+2. consider, think, ponder = 고려하다
+
+### renew
+1. extend, lengthen = 연장하다
+2. resume, restart,reopen, recommence = 재게하다(다시 시작하다)
+3.repair,refurbish,renovate,modernize =(오래되고 낡은것, 손상된 것을) 교체하다.
+
+* ex)) renew the subscription / renew the contract / renew the facility
+구독을 연장하다 계약을 연장하다 시설을 교채하다
+
+### stress 
+1. emphasize, focus on, concentrate on, feature, highlight, underline = 강조하다
+2. trouble = 걱정하게 하다
+3. pressure, burden,overburden = 부담을 주다
+
+#### 기타
 * ♣.item(cans watch 등 슈퍼마켓에서 구입 가능한 것), 
 * ♣.merchandise(대량으로 생산 할 수 있는 것 ♣책♣), 
 * ♣.goods,
