@@ -64,7 +64,19 @@
 ## 평서문 대답
 * yes, but / Yes, and / No, but
 
+## 되묻기
+* Why do you want to know? (되묻는 문장)
+
+## 해결책 제시
+* My computer is not connecting to the Internet
+	* We should call a technician
+	* 제 3의 인물 등장; Mike is going to help you
+
 ## 모르다
+* It hasn't been informed / i haven't noticed / i didn't realize that
+* i'm not in charge; i can't decide ' it's not up to me
+* i can't remember
+* Why do you want to know?
 * Let me check
 * 다시 물어보다
 * actually
