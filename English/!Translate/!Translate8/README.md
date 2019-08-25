@@ -176,6 +176,9 @@
 * 사인해주다; He even signed some autographs for some of his fans
 
 # 중요
+* 여기 살아요? Are you from here?
+ * 원주민: native american;  미국인이에요? Are you american? Are you from American?
+  * 영어하는 원어민; Native speaker 혹은; Are you a native English speaker?
 * 머리가 제대로 안돌아가(다 타버림); My brain is fried / my brain is mush
 * 늦게까지 푹 자고싶어; i want to sleep in
 * 배가 많이 아파; It upsets my stomach(심각); It bothers my stomach
