@@ -1,5 +1,6 @@
 # part 1
 ## 정답 빈출
+* flower pot; 꽂꽂이: flower arrangement
 * - are standing in a; 서있다;
 * A railing surrounds; 혹은 border; 둘러싸여있다
 * Some paintins are hanging on a wall; hung; suspend
@@ -88,6 +89,13 @@
 * why don't you
 
 ## 상위단어
+### 옷
+* 운동 유니폼: STrip, Jersey
+* 짧은 자켓: Bolero  [bəˈleroʊ]
+* 면바지: slacks
+* 상하의 한벌: suit
+* 의상: costume; wardrobe  [ˈwɔːrdroʊb]; outfit
+
 ### appreciate
 1. understand = 이해하다 
 2. give thanks for = 감사하다 
