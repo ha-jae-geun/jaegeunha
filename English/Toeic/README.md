@@ -8,6 +8,7 @@
 * 팔뻗기: reaching over = reaching for = extending
 * 옆에 서있다; loading / unloading
 * 기둥: columns = pillars
+* 남자의 기타가 벤치에 기대어져 있다. The man's guitar is propped against a bench. 듣기 출처:YBM
 
 # part6
 * 빈칸 앞뒤 연결: 과거, 미래시제가 정답
@@ -174,6 +175,94 @@
 * assemble = put together 
 * throw away = dispose of
 * work = assignment
+* 홍보하다; publicize = advertise
+* 공장; production facility = manufacturing
+* 여행일정표; itineray = travel plans
+* transfer = relocate; 전근하다
+* confirm (: prove, verify, validate) 확인하다, 승인하다
+* compose (: constitute, comprise, arrange) 구성하다, 만들다, 작곡하다
+ * organization (: association, federation) 조합, 연합
+ * contract (: agreement, covenant) 계약서
+ * finalize (: conclude) 결론을 내리다
+ * relevant party (: concerned group) 관련 단체
+ * nature (: character, disposition) 특성
+ * complication (: difficulty, problem) 어려움
+ * arise (: happen, occur) 일어나다
+ * term (: course, condition) 기간, 학기, 조건
+ * condition (: requirement, provision) 조항, 조건
+ * involved (: associated, connected) 연관된
+ * come up (: arrive, attain) 도달하다
+ * item (: element, particle) 요소
+ * legal counsel (: lawyer) 변호사
+ * outline (: plan, framework) 개요
+ * condition (: provision, requirement) 조항
+ * draft (: sketch, lay out) 초안
+ * correct (: remedy , rectify, amend) 고치다
+ * legal representative (: lawyer) 법적 대리인
+ * implement (: accomplish, achieve) 수행 하다
+ * transaction (: activity, negotiation) 거래
+ * conversation (: talk, discussion, discourse) 대화
+ * decision (: result, judgment, resolution) 결론
+ * presentation (: exhibition, performance) 발표
+ * ignore (: disregard, neglect) 배제하다, 소홀히 하다
+ * resolve (: decide, determine, conclude) 결정하다
+ * specify (: cite, define) 기술 하다
+ * reveal (: disclose, show, announce) 드러내다, 폭로하다, 보이다, 나타내다
+ * complete (: thorough, full, entire) 완료하다, 완성하다, 완전한
+ * accompany (: go together with, come with) 동반하다,수반하다
+ * clerical (: secretarial) 사무원의
+ * designate (: appoint, indicate) 가리키다
+ * diversify (: vary, change, branch out) 다양화 하다, 다각화하다
+ * delegate ( : representative, agent, entrust, appoint) 대표, 파견하다,
+ * 권한을 위임하다
+ * application form 신청서
+ * commerce (: trade) 상업, 무역, 거래
+ * savings account (: deposit account) 저축 계좌
+ * account number 계좌번호
+ * passbook (: bankbook) 은행통장, 예금통장
+ * permanent (: stable, lasting) 영구적인
+ * signature (: sign) 서명
+ * terms and conditions 계약조건
+ * issue (: give out) 발행하다
+ * present (: submit, turn in) 제출하다
+ * deposit (: put in) 예금하다
+ * withdraw (: take out) 인출하다
+ * regulation (: rule) 규정
+ * set (: establish) 세우다, 정하다
+ * currency (: money, medium of exchange) 통화, 화폐
+ * interest rate (: percentage of the sum of the money used) 이자율
+ * per annum (: per year) 연간
+ * computation (: calculation) 계산
+ * based on (: according to) ~에 기초하여, ~에 따라
+ * monthly balance (: monthly account) 월간 잔고
+ * reserve (: keep, maintain) 보유하다
+ * require (: demand, request) 요구하다, 요청하다
+ * advance (: prior) 앞서의, 전의, 사전의
+ * entry (: insertion, listing) 기입, 기재
+ * settle (: resolve) 해결하다
+ * notify (: inform) 통지하다, 알리다
+ * in case (: in the event that) ~의 경우에, ~의 경우에 대비하여
+ * gladly (: happily) 즐거이, 기꺼이
+ * welcome (: receive, appreciate) 환영하다
+ * account (: bank account) 계좌
+ * leading (: foremost, principal) 선도하는
+ * decision (: choice, determination) 결정
+ * guarantee (: assure) 보증하다
+ * quality service (: excellent service) 질 좋은 서비스
+ * commit (: dedicate, devote) 헌신하다, 전념하다
+ * convenient (: expedient) 편리한
+ * meet (: satisfy, fulfill) 충족시키다
+ * need (: want, desire) 필요, 욕구
+ * grateful (: obliged, appreciative) 감사하는
+ * customer (: client) 고객
+ * furthermore (: moreover) 더욱이
+ * freebies (: giveaways) 무료상품, 경품
+ * promotional (: publicity, advertising) : 판촉용의, 선전용의
+ * avail of (: make use of) 얻다, 이용하다
+ * item (: thing, article) 제품, 품목
+ * branch (: local office) 지사, 지점
+ * customerrepresentative (: customer service employee) 고객 지원부 직원
+ * appreciate (: value) 감사히 여기다, 진가를 인정하다
 
 # 단수명사 앞에 오는 형용사
 * one, each, either, neither, another, every, this/that(불가산 앞에도 가능) + 단수명사
