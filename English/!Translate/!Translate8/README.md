@@ -176,6 +176,15 @@
 * 사인해주다; He even signed some autographs for some of his fans
 
 # 중요
+* 머리가 제대로 안돌아가(다 타버림); My brain is fried / my brain is mush
+* 늦게까지 푹 자고싶어; i want to sleep in
+* 배가 많이 아파; It upsets my stomach(심각); It bothers my stomach
+* 내 핸드폰 봤어? Have you seen my cell?
+* 이 100불 좀 바꿔주실래요 Can you give me change for this hundred?
+* 내 마음을 갈기갈기 찢어놨어; He broke my heart into pieces
+* 인터넷 작동 안해요; The Internet doesn't work; stopped working
+* 연결이 됐다 안됐다 해요; The connection goes off and on
+ * 통증ㅇ이 있었다 없다 해요; i have had knee pain on and off
 * 썰좀 풀어봐; What's the tea; spill the tea
 * 열렬한 팬; Stan
 * 너 진짜 깨어있다; You're so woke
@@ -289,6 +298,26 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 돈가스 좋아해요; I like pork cutlet
+* 짜증나게 만들지마; Stop getting in my face!
+* 비틀즈는 미국을 휩쓸었다; The Beatles took the US by storm
+* 달리 어떻게 표현할지 모르곘네; For lack of a better word
+* 멀 해야 하는지 알잖아; YOu know the drill
+* 구렁텅이에 빠졋다; 혼돈의 상태에 빠져다; i was down the rabbit hole
+* 어릴때가 생각난다; This song takes me back to my childhood
+* 책임을 회피하는거야; Declining to vote is a cop-out
+* 그는 날 공격할듯이 달려들었따; He suddenly came at me (with a knife)
+* 안부 인사 전하러 내가 방문했다. I popped in to say hi. 
+* be closed: 휴업; 휴가: on holiday;  망했다; shut down / go out of business
+* 쓰레기토 옆에서 발견됐어; Found this in the dumpster
+* 레귤러 사이즈로 들리까요? Regular or large?
+* 약 먹었냐? Are you on drugs? / Are you high?
+* 내 인생에 있어서 끔찍한 결정을 내리고 있어!; You are making terrible life decision
+* 일회성은 준비 시간을 절약하고 Disposability saves prep time 
+* 주걱; rice paddle; spatula [ˈspætʃələ]
+* 다리 쥐났어. - 사나 방귀 뀌었대요. I have a cramp. 
+ * 그녀는 생리통이 심한 편이다 She has severe cramps during her period. 듣기 출처:NE능률
+* 정치적/재정적 영향력 political/financial clout 
 * 귀중품을 절대 뒷주머니에 넣지 마세요; Never put valuables in your back pocket
 * 자신만만한 사람이 전화를 걸어왔습니다; There is a tough cookie on the phone
 * 그 여자느 굉장히 똑똑해요; She's as sharp as a tack
@@ -608,6 +637,8 @@
 * 네. 인생에 있어서 터닝포인트가 됐죠. Yes, it was the turning point of my life
 
 # 토익
+* 책의 판권을 획득하다. secure the copyright on a book; reserve the right
+* Footnotes are used throught the manual
 * rely/count/depend on/uon
 * 요구시에: on/upon request
 * -하자마자; on/upon arriving/receipt
