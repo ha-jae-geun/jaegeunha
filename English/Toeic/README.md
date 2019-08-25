@@ -368,6 +368,7 @@
 * be convinced/delighted/fritened/annoyed that
 
 # 최신 
+* direction: 방향;  dircetions: 순서/방법
 * After ~, finally ~
 * 요청하다; ask for <> request
 * over a month ago; 과거를 넘어서; past xxx
@@ -400,7 +401,10 @@
 * put up, set up = install
 * defective / free - is not working properly / broken / out of order / malfunctioning
 * --------------------------------------------------------------------------------
-* 
+
+# 2형식
+* run, seem, be, become, remain, prove, stay
+
 * #토익# 「상황」
 * 
 * #부사
