@@ -176,6 +176,23 @@
 * 사인해주다; He even signed some autographs for some of his fans
 
 # 중요
+* 누굴 제일 존경해? Who do you admire the most?  Who is the one you admire the most?
+* 당신의 딸이 고백합니다; YOur daughter is making a shy/belated confession to you
+* 20불 충전해주세요; Can you load/put 20 dollars on this?
+* 기계가 티켓 먹었어요; THe macine ate my ticket
+* 얘들이랑 어울리는거 좋아해요; She loves to mingle with other kids
+* 쿵쿵뛰지마; No stumping
+* 뻉소니 사고를 목격했어요; i witnessed a Hit-and-Run
+* 엄마가 의식잃고 쓰러졌어요; My mother coollapsed
+* 눈이 뒤로 돌아강써요; Her eyes rolled back in the head
+* 7시 30분 이전에 다른 건 없나요? Do you have any other showings after 7:30
+* 좋은 직장을 갖고 싶어; i want to land a great job
+* 오늘 너무 즐거웠어; i had a blast today
+* 시간 언제가 좋아요? when's a good time for you? when's good for you?
+ * When's the best time for you?  When's the best for you?
+ * 서두를 필요 헚어; THere's no rush; 
+ * 너가 시간 될떄 언제나; WHenever you can get to it
+ * 편한 시간에 하지만 가능하면 빠르게 해주세요; At your earlies convenience
 * 여기 살아요? Are you from here?
  * 원주민: native american;  미국인이에요? Are you american? Are you from American?
   * 영어하는 원어민; Native speaker 혹은; Are you a native English speaker?
@@ -301,6 +318,19 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 피부가 쳐젔다; my skin was saggy
+* 식욕이 왕성해; SHe has quite an appetite
+* 과학을 직접 배우기에 좋은 방법이야; It's a great way to learn science, hands-on
+* 그녀는 성격이 명랑했어요; SHe had a bubbly personality
+* 손이 안닿아; i can't reach
+* ㅗ가 조금 막혔어요; I am a little congested
+* 머리 속이 정리가 안돼요; i cannot think straight
+* 불안감에 멘탈이 부서졌어요; i had a nervous breakdown
+* 그 소식은 그녀를 우울하게 만들엇따; the news gave him the blues
+* 누워서 곤히 자고있었다; He as lying on the sofa, fast asleep
+* 아이들은 놀잍터를 깡총 뛰다니고 있었따; THe children were hopping around the playground
+* 저희를 도와 주셔서 정말 고맙습니다. I’m much obliged to you for helping us.  [əˈblaɪdʒd] 
+* 이 은혜를 어떻게 갚아야 할지; ho can i pay this back?
 * 제가 생각하기엔 둘 다 틀렸어; In my book they both are wrong
 * -에 대한 전문가다; writes the book on 
 * 공부하다; hit the books
