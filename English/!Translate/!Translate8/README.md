@@ -318,6 +318,15 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 전반전에 실점했고; WE conceded very cheap goal
+* 임상적이지 못하다; We were not clinical
+* 신기했다; be fasciating
+* 증명서; proof, certificate, certification
+* 공석; unified / open / vacant position
+* 대형 계획, 프로젝트, 프로그램: initiative
+* 명시하다; specify + n / that S + V
+* 저기; Say, Say bro
+* 그들의 결혼은 아주 쉬쉬하는 가운데 치뤄졌다. Their wedding was very hush-hush. 
 * 피부가 쳐젔다; my skin was saggy
 * 식욕이 왕성해; SHe has quite an appetite
 * 과학을 직접 배우기에 좋은 방법이야; It's a great way to learn science, hands-on
