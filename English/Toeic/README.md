@@ -144,6 +144,13 @@
 3. pressure, burden,overburden = 부담을 주다
 
 #### 기타
+* 신기했다; be fasciating
+* 증명서; proof, certificate, certification
+* 공석; unified / open / vacant position
+* sandwich; refreshments
+* feedback / thoughts / ideas / opinions / suggestions
+* details / information
+* 
 * ♣.item(cans watch 등 슈퍼마켓에서 구입 가능한 것), 
 * ♣.merchandise(대량으로 생산 할 수 있는 것 ♣책♣), 
 * ♣.goods,
