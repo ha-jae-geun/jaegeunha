@@ -44,6 +44,7 @@
 * 어학당 추가 하기
 * 타이핑
 * 슈퍼맨/토익 문제 http://moonje.in
+* 트위터: https://twitter.com/home
 * 테크 크런치 https://techcrunch.com/
 
 # 화 0521
@@ -65,6 +66,7 @@
 * 타이핑
 * 토익 문제 http://moonje.in
 * 테크웜; https://www.techworm.net/
+* 트위터: https://twitter.com/home
 
 # 수 0522
 * 슈퍼맨 https://superfan.link/pc
@@ -85,6 +87,7 @@
 * 타이핑
 * 토익 문제 http://moonje.in
 * 더벌지; https://www.theverge.com/
+* 트위터: https://twitter.com/home
 
 # 목 0523
 * 슈퍼맨 https://superfan.link/pc
@@ -109,6 +112,7 @@
 * 타이핑
 * 토익 문제 http://moonje.in
 * 인가젯 https://www.engadget.com/
+* 트위터: https://twitter.com/home
 
 # 금 0524
 * 슈퍼맨 https://superfan.link/pc
@@ -132,6 +136,7 @@
 * 타이핑
 * 토익 문제 http://moonje.in
 * 와이어드 https://www.wired.com/
+* 트위터: https://twitter.com/home
 
 # 토 0525
 * 슈퍼맨 https://superfan.link/pc
@@ -156,6 +161,7 @@
 * 타이핑
 * 토익 문제 http://moonje.in
 * 지디넷 https://www.techrepublic.com/
+* 트위터: https://twitter.com/home
 
 # 일 0526
 * 슈퍼맨 https://superfan.link/pc
@@ -180,6 +186,7 @@
 * 타이핑
 * 토익 문제 http://moonje.in
 * 테크 크런치 https://techcrunch.com/
+* 트위터: https://twitter.com/home
 
 ------------
 
