@@ -151,7 +151,11 @@
 * feedback / thoughts / ideas / opinions / suggestions
 * details / information
 * 
-* ♣.item(cans watch 등 슈퍼마켓에서 구입 가능한 것), 
+* ♣.item(cans watch 등 슈퍼마켓에서 구입 가능한 것)
+* 일: work task, assignment, project
+* comments responses revies ideas suggestion
+* data, record, update
+* share, send, email submit
 * ♣.merchandise(대량으로 생산 할 수 있는 것 ♣책♣), 
 * ♣.goods,
 * ♣produce(명사로 쓰이면 ♣농산물♣ apple <fruit< produce< food)
