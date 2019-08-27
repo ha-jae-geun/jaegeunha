@@ -191,6 +191,9 @@
 * 사인해주다; He even signed some autographs for some of his fans
 
 # 중요
+* 앞머리를 눈썹 위로 내려주세요; Can you make the bangs fall above my eyebrows?
+ * 머리를 검은색으로 해주세요; i want to change my hair black
+ * 옆에 다듬어주세요; Can you just trim the sides
 * 햄버거가 잘못 나온줄 알았다; i was certain i had the wrong burger
 * 거짓 광고는 새롭지 않았어요; False advertising is nothing new
 * 이건 다른 레벨이었어요; This was on another level
