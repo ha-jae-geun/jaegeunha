@@ -3,6 +3,7 @@
 * adequate (←adequately) 미국식 [ˈædɪkwət] 
 * warm 미국식 [wɔːrm]   worm 미국식 [wɜːrm]  werem 발음
 * pronounce 미국·영국 [prəˈnaʊns]
+* tan 뜬 발음; substance; distance; resistant
 
 # [ 기초영어회화 ] "just in case" -- 혹시 몰라서 / .... 할지도 모르니까
 * 혹시 모르니까 조금 일찍 출발하는게좋을것 같애; I thinki we should leave a little earlier just in case
