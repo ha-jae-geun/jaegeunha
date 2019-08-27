@@ -176,6 +176,27 @@
 * 사인해주다; He even signed some autographs for some of his fans
 
 # 중요
+* 식습관 제한잇어? Do you have any dietary restictions?  [rɪˈstrɪkʃn] 
+* 돌아오는 년에; in the upcoming year
+* 모두 복받으시길 바랍니다; May all of you be blessed
+* 대박나는 새해 보내; i wish you a most propserous and healthy New Year!
+* 귀찮다; It's such a hassle; It sounds a ahssle; i don't feel like; I'm too lazy to
+* 백화점 상품권; gift cardl Thank you for the gift card
+* 높은 건물의 백화점 보다는 넓은 부지에 있는 여러 샵을 의미할 때는; mall; shopping mall
+* 퇴근하다; leave work; get off work
+* 끝내다; get something done
+* 제가 올바른 액수를 줬나요? Did i give you the right amount?
+* 계산이 잘못 된 것 같아요; i think there is a mistake on my bill
+* 아직 출근 안했어요; he is not in the office yet
+* at a meeting: 외부회의; in a meeting
+* 부모님중 한명; a parent 사용
+* 애도를 표합니다; Please accept my condolences
+* 아버님께서 평화롭게 잠드시길 빕니다; i hope your father rests in peace
+* 길이랑 통이 하나도 수선이 안됐어요; Length and width are same
+* 연세가 드실수록 외모도 곱고 참 우아하셔; she is aging well and graefully
+* 리스트에서 제거하다; cross if off your list
+* two hundred books; 구체적인 수는 복합명사;  hundres of books; 막연한 수는 of 사용
+* 거봐; told you
 * 누굴 제일 존경해? Who do you admire the most?  Who is the one you admire the most?
 * 당신의 딸이 고백합니다; YOur daughter is making a shy/belated confession to you
 * 20불 충전해주세요; Can you load/put 20 dollars on this?
@@ -318,6 +339,11 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 말랑말랑하기만 해요; just squashy
+* 내 차 고물이야; my car is a lemon/junk
+* 욕하려는 건 아니었고; I wasn't trying to throw shade on him
+* 숨막힐듯한 더위가 성가시게 한다; This stifling heat is really getting to me;  [stáifliŋ]
+* 한 정거장 전에 알려줄 수 있나요? Can you let me know when we are one stop away from my destination?
 * 전반전에 실점했고; WE conceded very cheap goal
 * 임상적이지 못하다; We were not clinical
 * 신기했다; be fasciating
