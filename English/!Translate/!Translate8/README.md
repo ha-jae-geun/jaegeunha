@@ -191,6 +191,7 @@
 * 사인해주다; He even signed some autographs for some of his fans
 
 # 중요
+* 스타일은 유지하되; 머리는 다듬어서 내려주셍; I want to keep the same style. Can you just trim the sides down?
 * 앞머리를 눈썹 위로 내려주세요; Can you make the bangs fall above my eyebrows?
  * 머리를 검은색으로 해주세요; i want to change my hair black
  * 옆에 다듬어주세요; Can you just trim the sides
