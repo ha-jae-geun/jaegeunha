@@ -358,6 +358,14 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 교수님이 나 결석처리했어. (결석으로 표시) My professor marked me down as absent.
+ * 그 장소는 지도에 엑스표로 표시되어 있어. The place is marked on the map with a cross.
+ * 와 사람들(휴양객)좀 봐! Look at those holiday-goers!
+ * 내 최후의 수단이야; YOu're my last resort [rɪˈzɔːrt]
+ * 걱정할 만한 일 아니야; Don't lose any sleep over it
+* 이 문제를 해결할 묘책은 없어요; There is no silver bullet for this problem
+* 겉으로는 쿨/침착 해 보여; Evertthing appeared fine on the surface
+* 침착하게 해; Play it cool
 * 배경에 음악이 실행되고 있었다; There are nice music playing in the background
 * 말랑말랑하기만 해요; just squashy
 * 내 차 고물이야; my car is a lemon/junk
