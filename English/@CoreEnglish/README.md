@@ -46,7 +46,17 @@
 * orange; or 발음 + 인ge,  Strawberry; 스트로 입술울 모으지 않은 상태에서 '스트로' + bear + 이 
 
 # 기타
+* 크로아상; croissant 크러싼t [krwɑːˈsɑː~;krəˈsɑːnt] 
+* balconey; [ˈbælkəni] 
+* cheery Jubilee; 체뤼 쥬블리
+* arabia penisular 어-뤠이-비아 [-sələ]  영국식 [pəˈnɪnsjələ]
+*  [ɔːf;ɑːf]  영국식 [ɒf]  of 미국식 [ʌv] 
+* in and out; 인과 엔 사이 발음
+* Del Monte; 델모티; Hermes; 얼메즈;  Hyundai; 헌다이  Porche; 폴샤;   Huawei; 
+* mirror  [ˈmɪrə(r)]  미이-얼r; 미 밀고 얼 들어오고
 * adequate (←adequately) 미국식 [ˈædɪkwət] 
+* warm 미국식 [wɔːrm]   worm 미국식 [wɜːrm]  werem 발음
+* pronounce 미국·영국 [prəˈnaʊns]
 * 미국식[-ˈnɑːs-]발음듣기 영국식[raɪˈnɒsərəs] rhinoceros   Vietnam 미국식 [viètnɑ́:m,-nǽm,vjèt-,vì:ət-]
 * sit: s + 이에 + T  seat: S + 이 + T
 *  [ˌɑːn-]  영국식 [ˌɒntrəprəˈnɜː(r)]: 보통 자기의 사업, 자신의 회사를 차린 사람을 의미 businessman: 회사에서 근무하는 회사원
@@ -58,7 +68,7 @@
 * instead; s 다음의 t는 된소리이다; instead
 * 1음절 강세; author, comfortable, beverage, recognize, detour [-tʊr]  영국식 [ˈdiːtʊə(r)], temperature, passenger, consequently, purchase, possible, local, photograph
 * 2음절 강세: performance
-* 3음절 강세; individual, inconvenience, engineer, understand
+* 3음절 강세; individual, inconvenience, engineer [-ˈnɪr]  영국식 [ˌendʒɪˈnɪə(r)] , understand
 * Argentina;  [ɑ̀:rdƷəntí:nə], afghanistan [æfɡǽnəstæ̀n], Africa  [ǽfrikə], 칠레; [tʃíli], Hungary  [hʌ́ŋɡəri]
 * comfortable; o andma; vegetable; e묵음; almond; l 묵음; jewellery; 뒤 e 묵음
 * literally; 1. litter early  2. 리덜얼리
@@ -84,7 +94,7 @@
 * 한 선수가 경기동안, 상대편 선수들로 부터 압박을 받고 ㅣㅆ으면서 패스하려고 보고있다. A player looks to pass under pressure from opposing player during the game; 방향 생각
 * Mom; 음-마-음; i don't; 도운; 동그라미; want; 워-언 입술 모으고 콧소리; another' (어)나더r; lecture; 렉-셜
 * debris;   [dəˈbriː] s ㅁㄱ음
-* Ashma; 애스마, Pizza; 피-쯔아, iron; 아이얼ㄴ; banquet; 국 [ˈbæŋkwɪt]  뱅쿠엩; rural; 룰얼; discretion; 디스크래션; epitome; 에피트미;  [ɪˈpɪtəmi] 완벽한 본보기
+* Ashma; 애스마, Pizza; 피-쯔아, iron; 아이얼ㄴ; banquet; 국 [ˈbæŋkwɪt]  뱅쿠엩; rural; 룰얼; discretion;  [dɪˈskreʃn]  디스크래션; epitome; [ɪˈpɪtəmi]  에피트미;  [ɪˈpɪtəmi] 완벽한 본보기
 * you; 유우; do; 두우
 * comfortable; 컴프fr터블
 * you won't talk to me; won't; 입술 모으고 오우 발음으로 진동 만들기; talk to; 턱을 세게 내리다; you; 유우; that; 입을크게 턱을 세게 내리기
