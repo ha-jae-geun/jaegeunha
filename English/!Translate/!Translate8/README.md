@@ -1,3 +1,10 @@
+# [ 기초영어회화 ] "just in case" -- 혹시 몰라서 / .... 할지도 모르니까
+* 혹시 모르니까 조금 일찍 출발하는게좋을것 같애; I thinki we should leave a little earlier just in case
+* 혹시 몰라서 Just in case
+* 차가 막힐지도 모르니까 일찍 출발하는게 좋을 것 같애; i think we should leave a little early in case we run into traffic
+* 여유 현금을 가져갈거야; i'm going to take some extra cash just in case
+* 거기서 신용카드를 안받을 지도 모르니까 여유 현금을 좀 가져갈거야; i'm going to take some extra cash in case they don't take credit cards
+
 # "다루다"를 영어로? - deal with / handle [ PART 1 ]
 * 오래걸리진 않아; it won't take long
 * 너가 하고싶은대로 해; Whatever you need
