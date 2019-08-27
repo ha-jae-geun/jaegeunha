@@ -158,6 +158,7 @@
 * 추가 참가자에 대한 준비를 하지 않다 make no provision for extra attendees 
 
 # 코어
+* 크로아상; croissant 크러싼t [krwɑːˈsɑː~;krəˈsɑːnt] 
 * balconey; [ˈbælkəni] 
 * cheery Jubilee; 체뤼 쥬블리
 * arabia penisular 어-뤠이-비아 [-sələ]  영국식 [pəˈnɪnsjələ]
@@ -183,6 +184,10 @@
 * 사인해주다; He even signed some autographs for some of his fans
 
 # 중요
+* 햄버거가 잘못 나온줄 알았다; i was certain i had the wrong burger
+* 거짓 광고는 새롭지 않았어요; False advertising is nothing new
+* 이건 다른 레벨이었어요; This was on another level
+* 너는 내가 화났을 거라 생각했겠지마;ㄴ YOu'd think thaat i'd be upset about it
 * 식습관 제한잇어? Do you have any dietary restictions?  [rɪˈstrɪkʃn] 
 * 돌아오는 년에; in the upcoming year
 * 모두 복받으시길 바랍니다; May all of you be blessed
@@ -346,6 +351,7 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 배경에 음악이 실행되고 있었다; There are nice music playing in the background
 * 말랑말랑하기만 해요; just squashy
 * 내 차 고물이야; my car is a lemon/junk
 * 욕하려는 건 아니었고; I wasn't trying to throw shade on him
