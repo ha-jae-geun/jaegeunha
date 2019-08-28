@@ -409,6 +409,7 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* dinner와 supper 모두 '저녁식사'라는 의미로 쓸 수 있는데요. 하지만 dinner는 '하루의 주된 식사, 정찬, 만찬'을 뜻하는 반면 supper는 '격식 없이 집에서 먹는 저녁식사'를 가리킬 때 사용됩니다.
 * 교수님이 나 결석처리했어. (결석으로 표시) My professor marked me down as absent.
  * 그 장소는 지도에 엑스표로 표시되어 있어. The place is marked on the map with a cross.
  * 와 사람들(휴양객)좀 봐! Look at those holiday-goers!
