@@ -3,6 +3,8 @@
 * 포괄적 의미; namely; 이름 
 * Golf culb is sold with sturdy case
 * remaining documents; 자동사; 남아있는
+* 역할을 맡다; assume many roles
+* 아직 - 하지 않았다; have yet to do
 
 # 코어
 * mirror  [ˈmɪrə(r)]  미이-얼r; 미 밀고 얼 들어오고
@@ -415,6 +417,8 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 안듣고있었어; Sorry, i wasn't listening
+* 친찬 친구들한테 농담의 느낌을 살려서; 너 나한테 죽었어; You're dead to me
 * 지금 가면 택배 언제 도착해요> if it goes out today, when will it arrive in korea?
 * 뽁뽁이 있나요? Is there a bubble wrap i can use?
 * 뽁뽁이 한 개에 얼마에요? How much is one roll of bubble wrap?
