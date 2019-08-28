@@ -36,6 +36,15 @@
 
 
 ## StringTokenizer
+### 함수
+* countTokens()                            토큰의 갯수를 리턴한다.
+* nextToken()                                다음 토큰을 리턴한다. 이전 토큰은 제거한다.
+* nextToken(String delim)                구획문자(delimiter)를 delim으로 바꾼 후 바뀐 다음 토큰을 리턴한다. 예를들어 this$1is$1string 이라고 하면 생성자에서 구획문자를$1로 설정했다가 nextToken으로 this를 받고 2번째 nextToken은 delim을 $로 받으면(nextToken("$")) 1is를 리턴한다.
+* hasMoreTokens()                        리턴할 다음 토큰이 있으면 true를 다음 토큰이 없으면 false를 리턴한다.
+
+
+
+
 ```java
  BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         N =  Integer.parseInt(br.readLine());
@@ -45,6 +54,21 @@
         for(int i=0; i<N; ++i){
         val[i] = Integer.parseInt(st.nextToken());
         }
+```
+
+```java
+import java.util.StringTokenizer; 
+public class JavaTestMain { 
+	public static void main(String[] args) { 
+		String str = "this is my string"; 
+		StringTokenizer st = new StringTokenizer(str); 
+		System.out.println(st.countTokens()); 
+		while(st1.hasMoreTokens()) { 
+			System.out.println(st.nextToken()); 
+		} 
+		System.out.println(st.countTokens()); 
+	} 
+}
 ```
 
 ## 리트코드 Longest Substring
