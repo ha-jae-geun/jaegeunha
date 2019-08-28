@@ -191,6 +191,31 @@
 * 사인해주다; He even signed some autographs for some of his fans
 
 # 중요
+* 언제 열고 닫아? When do you open and c;pse
+* 다 됐죠? It's all set, right?
+* 공휴일 어떻게 축하해요? How do they celebrate the holidays?
+* 목소리가 완전 갔어요; My voice was totally gone
+* 어디든 가져갈 수 있는 작은 가방 있었어요; i had a small bag of those i carried everywhere
+* 모든 가사는 몰랐지만; i didn't know the words;  혹은 lyrics
+* 현금을 뽑아야 했어요; 근데 카드가 꼈엉; i need to withdraw some cask; But the card actually got stuck
+* 4개의 계절이 있었어요; korea used to have four distince seasons
+* 저는 날씨 전문가가 아니니까; i'm not much of a weather expert
+* 대부분의 가게에서 와이파이를 제공한다; most of places inkorea offer free wifi
+* 모든 노래를 따라부르다; sing along to all the songs
+* 실사 알라딘버전 좋아해싿; i enjoyed Aladdin, the live action version
+* 가족과 나는 집에 있는 대신 신선한 공기를 받으러 나간다; my family and i often go out to get some fresh air, instead of staying cooped up
+* 눈이오든 비가오든 집에 있는 것을 좋아한다; WHen it snows or rains a lot, we prefer to stay home
+* 바닥 청소, 책상 정리, 창문 닦기; i vacuum the floor, tidy up the desk and wipe the windows
+* 집개선에 관심없어; i'm not interested in home improvement
+* 쇼파에서 이상한 소래를 냈어요; i made weird cracking noise
+* 큰 쇼핑센터에서 2층이에요; it's no the second floor of a huge shopping complex
+* 세계에서 수백만개의 앨범을 팔았따; they've sold millions of albums around the world
+* 그의 음역대에 놀랐따; i'm impressed with his vocal range
+* 엄청난 스턴트 장면과 함께 신나는 장면들이 많다; they've got lost of exciting scenes with incredible stunts
+* 영화에서 큰 히트를 쳤따; These were huge box office hits in the theaters
+* 그녀는 내가 좋아하는 영화에 주연이었따; She starred in my all-time favorite movie
+* 팝콘을 산다; get some popcorn at the concession
+* 매우 효과적이다; has effective and well-structured system of something
 * 물리적인 기준에 나뉠때: outsider;  
  * 문화적으로 다름; 너는 말하자면 물을 떠난 물고기와 같은 처지이다. You are, so to speak, a fish out of water. 듣기 출처:동아 출판
  * 2층침대에 있다; is on the top/bottom bunk
