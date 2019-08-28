@@ -1,3 +1,9 @@
+# 토익
+* be experienced in something
+* 포괄적 의미; namely; 이름 
+* Golf culb is sold with sturdy case
+* remaining documents; 자동사; 남아있는
+
 # 코어
 * mirror  [ˈmɪrə(r)]  미이-얼r; 미 밀고 얼 들어오고
 * adequate (←adequately) 미국식 [ˈædɪkwət] 
