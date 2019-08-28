@@ -191,6 +191,28 @@
 * 사인해주다; He even signed some autographs for some of his fans
 
 # 중요
+* 물리적인 기준에 나뉠때: outsider;  
+ * 문화적으로 다름; 너는 말하자면 물을 떠난 물고기와 같은 처지이다. You are, so to speak, a fish out of water. 듣기 출처:동아 출판
+ * 2층침대에 있다; is on the top/bottom bunk
+ * 의식을 되찾아오다; regain consciousness
+ * 엑스레이 찍었다; he got an X-ray
+ * 옷 잘받는다; it's perfect for you; It fits you well; 
+ * 그 셔츠 색깔이 잘 어울려; THe color of your shirt looks good on you
+ * 그 눈이 머리색을 살려; It brings out the color of your eyes and hair
+ * 피부에서 빛이나요; Your skin is glowing
+ * 반대 방향으로 가는 것을 타야하나요? Should i take it going in the opposite direction?
+ * 가방 가져가는 것을 잊었어요; i forgot to take my bag
+ * 분실물 보관소에 가방이 있는지 확인해주실래요? Can you check if my bag is in your lost and found?
+ * -가 가보라고 했어요; i was refferd by XXX; My doctor reffered me to you
+ * 별거 아니야; This is nothing fancy
+ * 밖에서 하는 활동 좋아해요? DO you like to do outdoorsy thing?  [àutdɔ́:rzi] 
+ * 난 산을 더 좋아하는 사람이야; i'm more of a mountain person
+ * 비가 조금씨 내리는걸 느꼈어요; i felt some raindrops
+ * 엄지 싸움을 시작할게요; i declare a thumb war;  물총싸움; it's time for a water fight
+ * 눈싸움 이겻어; you won the staring contest
+ * 제가 먼저 인정할게요; ANd i will be the first to admit
+ * 너 혼자 살아? YOu're living by yourself?
+ * 너무갔어; You went too far
 * 스타일은 유지하되; 머리는 다듬어서 내려주셍; I want to keep the same style. Can you just trim the sides down?
 * 앞머리를 눈썹 위로 내려주세요; Can you make the bangs fall above my eyebrows?
  * 머리를 검은색으로 해주세요; i want to change my hair black
