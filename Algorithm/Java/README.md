@@ -35,6 +35,18 @@
 - }
 
 
+## StringTokenizer
+```java
+ BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        N =  Integer.parseInt(br.readLine());
+        int[] val = new int[N];
+        
+        StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+        for(int i=0; i<N; ++i){
+        val[i] = Integer.parseInt(st.nextToken());
+        }
+```
+
 ## 리트코드 Longest Substring
 ### 10ms
 -  int i = 0, j = 0, max = 0;
