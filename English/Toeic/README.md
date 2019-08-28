@@ -398,6 +398,10 @@
 # 전치사 + ed + that
 * be convinced/delighted/fritened/annoyed that
 
+# 자동사
+* Golf culb is sold with sturdy case
+* remaining documents; 자동사; 남아있는
+
 # 최신 
 * direction: 방향;  dircetions: 순서/방법
 * After ~, finally ~
