@@ -415,6 +415,15 @@
 * 양이 많네요; The portions here are huge
 
 # 원어민
+* 지금 가면 택배 언제 도착해요> if it goes out today, when will it arrive in korea?
+* 뽁뽁이 있나요? Is there a bubble wrap i can use?
+* 뽁뽁이 한 개에 얼마에요? How much is one roll of bubble wrap?
+* 작업 후 식사를 위해 다같이 모입니다; They all gather together for a meal after work
+* 키보드로 타이핑치다; typing on the keyboard
+* 생일축하 노래불러주자; Let's sing Happy Birthday!; 뒤에 song 붙이지 않는다
+* 소원 빌고 촛불 꺼; Make a wish and blow out the candle
+* 약사들은 처방전이 필요 없는 약을 판다; Pharmacists sell over the counter drugs
+* 짧은 시간에 해내는 것이 가능하다; be able to do those skills in a matter of seconds
 * dinner와 supper 모두 '저녁식사'라는 의미로 쓸 수 있는데요. 하지만 dinner는 '하루의 주된 식사, 정찬, 만찬'을 뜻하는 반면 supper는 '격식 없이 집에서 먹는 저녁식사'를 가리킬 때 사용됩니다.
 * 교수님이 나 결석처리했어. (결석으로 표시) My professor marked me down as absent.
  * 그 장소는 지도에 엑스표로 표시되어 있어. The place is marked on the map with a cross.
