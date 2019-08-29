@@ -1,4 +1,6 @@
 # 원어민
+* 습하다; It's 지역 muggy/humid; miami muggy
+	* 땀난다; It's sweltering
 * 어릴 때 부모님의 충고를 무시했어; i tuned out my parents advice when i was young
 * 주인공이 사설 탐정인데; He's a PI, a private investigator
 * 착각하지마; DOn't flatter yourself
