@@ -53,6 +53,7 @@ shep/herd, hap/hazard, peep/hole 처럼 p와 h 사이에 발음을 갈라 f 사�
 * #stress, #style, #star, #stake, #understand, #stop, #story	
 
 # 원어민
+* 어릴 때 부모님의 충고를 무시했어; i tuned out my parents advice when i was young
 * 주인공이 사설 탐정인데; He's a PI, a private investigator
 * 착각하지마; DOn't flatter yourself
 * 막 시작하려고 합니다, 경관님; They're about to start, chief
