@@ -9,6 +9,7 @@
 * 스스로가 할 수 있는 것을 초과할 만큼 해내다; YOu've outdown yourself
 * 경찰은 정보를 누출해선 안돼; The police never released that information
 * 단추가 떨어졌어; a button is off; Buttos are missing; Have them fixed
+* 웃겨 죽겠다; You're killing me
 
 # 토익
 * patio 미국식 [-oʊ]  영국식 [ˈpætiəʊ] ; [명사] pl. -os 파티오(보통 집 뒤쪽에 만드는 테라스)
