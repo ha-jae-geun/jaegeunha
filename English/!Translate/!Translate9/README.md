@@ -1,3 +1,32 @@
+# 원어민
+* 어릴 때 부모님의 충고를 무시했어; i tuned out my parents advice when i was young
+* 주인공이 사설 탐정인데; He's a PI, a private investigator
+* 착각하지마; DOn't flatter yourself
+* 막 시작하려고 합니다, 경관님; They're about to start, chief
+* 네가 나랑 헤어지기로 했잖아; You've decided to dip
+  * 바다에 한번 들어갔다 하는거 좋아해요; i love to take a dip
+ * 이제 너 혼자야/스스로 해결해; YOu are on your own
+* 그럴 기분 아님; i'm in no mood!  i am not in a mood = 그거 할 기분아니다: i'm not in the mood
+* 스스로가 할 수 있는 것을 초과할 만큼 해내다; YOu've outdown yourself
+* 경찰은 정보를 누출해선 안돼; The police never released that information
+* 단추가 떨어졌어; a button is off; Buttos are missing; Have them fixed
+* 웃겨 죽겠다; You're killing me
+* 발바닥: sole2 미국·영국 [sóul], 손바닥  [pɑːm]
+* 충치가 몇 개 있습니다; YOu have several cavities
+ * 신경이 노출된것 같습니다; The nerve seems tobe exposed
+ * 신경치료해서 그 치아를 살릴 수 있습니다; we can save the tooth with root canal  [kəˈnæl]
+ * 치아를 때우기만 하면 됩니다; This tooth just needs a filling
+ * 마취 주사 놓겠습니다; I'm going to numb it up now
+* 입국 신고서 주시겠어요? May ia have another arriva card?
+* 잘못된 날짜로 예약했어요; we made a reservation for the wrong day
+* 왜 자동문이 열리지 않죠? Why isn't the automatic gate opening?
+* 대가를 치르다; You have to pay the price for all mistakes in the past
+* 쉬운 타겟이 되다; be an easy target
+	* 공격받기 쉬운 위치에 있다; be vulnerable position to be attacked
+	* 봉이야; 쉬운 상대야; sitting duck
+* 순서 헷갈리면 어떡하지? WHat if if mix up the order?
+* 보험 되는거에요? Is it insured? Does it include insurance?
+
 # 코어
 # tʃ와 # dʒ
 * tʃ와 dʒ는 ʃ와 ʒ와 달리 윗니 뒤쪽에 혀를 붙여 호흡을 막아서 발음한다. dʒ발음때 성대 울리는 소리
@@ -52,33 +81,7 @@ shep/herd, hap/hazard, peep/hole 처럼 p와 h 사이에 발음을 갈라 f 사�
 * #spaghetti, #sping, #spicy, #speed, #spoon
 * #stress, #style, #star, #stake, #understand, #stop, #story	
 
-# 원어민
-* 어릴 때 부모님의 충고를 무시했어; i tuned out my parents advice when i was young
-* 주인공이 사설 탐정인데; He's a PI, a private investigator
-* 착각하지마; DOn't flatter yourself
-* 막 시작하려고 합니다, 경관님; They're about to start, chief
-* 네가 나랑 헤어지기로 했잖아; You've decided to dip
-  * 바다에 한번 들어갔다 하는거 좋아해요; i love to take a dip
- * 이제 너 혼자야/스스로 해결해; YOu are on your own
-* 그럴 기분 아님; i'm in no mood!  i am not in a mood = 그거 할 기분아니다: i'm not in the mood
-* 스스로가 할 수 있는 것을 초과할 만큼 해내다; YOu've outdown yourself
-* 경찰은 정보를 누출해선 안돼; The police never released that information
-* 단추가 떨어졌어; a button is off; Buttos are missing; Have them fixed
-* 웃겨 죽겠다; You're killing me
-* 발바닥: sole2 미국·영국 [sóul], 손바닥  [pɑːm]
-* 충치가 몇 개 있습니다; YOu have several cavities
- * 신경이 노출된것 같습니다; The nerve seems tobe exposed
- * 신경치료해서 그 치아를 살릴 수 있습니다; we can save the tooth with root canal  [kəˈnæl]
- * 치아를 때우기만 하면 됩니다; This tooth just needs a filling
- * 마취 주사 놓겠습니다; I'm going to numb it up now
-* 입국 신고서 주시겠어요? May ia have another arriva card?
-* 잘못된 날짜로 예약했어요; we made a reservation for the wrong day
-* 왜 자동문이 열리지 않죠? Why isn't the automatic gate opening?
-* 대가를 치르다; You have to pay the price for all mistakes in the past
-* 쉬운 타겟이 되다; be an easy target
-	* 공격받기 쉬운 위치에 있다; be vulnerable position to be attacked
-	* 봉이야; 쉬운 상대야; sitting duck
-* 순서 헷갈리면 어떡하지? WHat if if mix up the order?
+
 
 # 토익
 * patio 미국식 [-oʊ]  영국식 [ˈpætiəʊ] ; [명사] pl. -os 파티오(보통 집 뒤쪽에 만드는 테라스)
