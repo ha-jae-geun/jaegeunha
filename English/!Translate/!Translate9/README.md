@@ -73,6 +73,11 @@ shep/herd, hap/hazard, peep/hole 처럼 p와 h 사이에 발음을 갈라 f 사�
 * 입국 신고서 주시겠어요? May ia have another arriva card?
 * 잘못된 날짜로 예약했어요; we made a reservation for the wrong day
 * 왜 자동문이 열리지 않죠? Why isn't the automatic gate opening?
+* 대가를 치르다; You have to pay the price for all mistakes in the past
+* 쉬운 타겟이 되다; be an easy target
+	* 공격받기 쉬운 위치에 있다; be vulnerable position to be attacked
+	* 봉이야; 쉬운 상대야; sitting duck
+* 순서 헷갈리면 어떡하지? WHat if if mix up the order?
 
 # 토익
 * patio 미국식 [-oʊ]  영국식 [ˈpætiəʊ] ; [명사] pl. -os 파티오(보통 집 뒤쪽에 만드는 테라스)
