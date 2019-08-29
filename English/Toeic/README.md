@@ -1,5 +1,13 @@
+# 질문
+# 토익
+* WHat does the woman offer to do;  답: will do
+* what are listeners instructed to do?  답: you/everyone
+* 둘중 하나 -> 둘중 하나 대답
+* 구체적 대답
+
 # part 1
 ## 정답 빈출
+* patio 미국식 [-oʊ]  영국식 [ˈpætiəʊ] ; [명사] pl. -os 파티오(보통 집 뒤쪽에 만드는 테라스)
 * flower pot; 꽂꽂이: flower arrangement
 * - are standing in a; 서있다;
 * A railing surrounds; 혹은 border; 둘러싸여있다
@@ -373,6 +381,13 @@
 * Bush line one side of the walkway; run along, line, extend, surround
 * Soon / shortly/ immediately / right / promptly + before/after
 * principal: 주요한, 주된, 주연배우, 학장, 총장
+* patio 미국식 [-oʊ]  영국식 [ˈpætiəʊ] ; [명사] pl. -os 파티오(보통 집 뒤쪽에 만드는 테라스)
+* WHat does the woman offer to do;  답: will do
+* what are listeners instructed to do?  답: you/everyone
+* consist of: 이루어져 있다; consist with: 양립하다
+* 단추를 실행하기 전에는 워크플로우의 다음 단계로 진행하지 않습니다. It does not proceed through a Workflow until the Publish button is executed. 듣기 출처:한샘EUG
+* quite + 원급 + a/ad;  much는 비교급과 사용
+* describe A as B
 
  접속사
 * or: 그렇지 않으면(명령문 아니여도)
