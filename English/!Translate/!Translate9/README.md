@@ -1,4 +1,19 @@
 # 원어민
+* = 그는 친구들하고 그냥 빈둥빈둥 놀았다. He spent the day with friends, just messing about.
+	* = 짜증나게 하지 말고 내 말 좀 들아라고! Stop messing around and listen to me!
+* ＊ takeaway = 시사점, 교훈, 중요 포인트 takeaway 는 어떤 것을 듣거나 본 이후에 ‘알아가는 것’을 말해요. 노랫말에 lesson 이 나왔는데 이와 유의어라고 볼 수 있어요. takeaway 포장음식, 테이크아웃 (美 takeout)
+	* = 가장 중요한 시사점은 이거야. The most important takeaway is this.
+	* = 이를 통해 우리는 무엇을 알 수 있을까? What can we take away from this?
+* "나 붙었어" - I got in. - I got into Harvard. (대학까지 쓸 땐 into) - I got accepted (to Harvard).
+	* - I didn't get accepted (to Harvard). - I didn't get into Harvard. - I didn't get in.
+* ＊ STEM-focused = 이과계열에 치중한 STEM 은 [Science 과학 / Technology 기술 / Engineering 공학 / Math 수학] 의 약자에요. 그래서 우리말로는 ‘이과계열’이라고 생각할 수 있죠. 그러면 문과계열은?
+	* = 이건 이과 과목에 치중한 커리큘럼에요. It’s a STEM-focused curriculum.
+* 카드게임에서 유래한 표현으로 여기서 suit 는 ♥, ♠, ◆, ♣ 처럼 ‘카드 문양’을 말해요. 게임할 때 한 문양을 많이 갖고 있거나 높은 수를 가지고 있으면 점수가 많이 나는데 그렇게 자신에게 유리한 문양을 strong suit 라고 지칭하면서 ‘특기’라는 의미로 쓰이게 됐죠. 
+	* = 나는 인내심이 없는 편이야. Patience is not my strong suit.
+* ＊ wiggle room = 여유, 여지, 재량권 wiggle 은 손가락을 까딱하거나, 엉덩이를 씰룩하는 것처럼 조금씩 움직이는 걸 말해요. 그리고 wiggle room 은 그렇게 할 공간이란 뜻으로 '숨쉴 공간, 맘대로 할 자유/권리, 만약을 위한 여지'를 지칭하죠. get a wiggle on : 서두르다
+	* = 그 문제에 대해서 저는 전혀 재량권이 없어요. I have absolutely no wiggle room on this.
+* ＊ come away (with ⓝ) = ⓝ의 인상을 갖고 돌아오다 이 문장에서 come away 의 짝꿍은 뒤의 the same thing 이에요. 사실 with the essay 라고 했는데 from the essay 가 더 정확한 표현입니다.
+	* = 우리는 뭔가 잘못됐다는 인상을 받게 됐다. We came away with the impression that something was wrong.
 * 습하다; It's 지역 muggy/humid; miami muggy
 	* 땀난다; It's sweltering
 * 어릴 때 부모님의 충고를 무시했어; i tuned out my parents advice when i was young
