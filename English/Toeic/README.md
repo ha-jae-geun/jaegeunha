@@ -19,8 +19,13 @@
 * 기둥: columns = pillars
 * 남자의 기타가 벤치에 기대어져 있다. The man's guitar is propped against a bench. 듣기 출처:YBM
 
+
+# part4
+* 수태시; 영어에서는 수가 매우 중요
+
 # part6
 * 빈칸 앞뒤 연결: 과거, 미래시제가 정답
+* 문장삽입: 1. 대명사 중요(this, that, it)  2. 연결어
 
 # part 7
 * 165까지 쉬움; 166-175: 기사지문 어려움; 
