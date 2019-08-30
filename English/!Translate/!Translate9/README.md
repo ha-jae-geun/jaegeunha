@@ -1,4 +1,20 @@
+# 의외로 많이들 모르는 영어표현 "속았다" - PART 1
+* 사진보고 완전히 속았어; i was totally fooled by this image
+	* This image totally fooled me
+	* This image really had me fooled
+* trick: 사람이 아닌 어떤 것이 속이다는 느낌이 아니고, 개인이 계획이나 의도를 가지고 속이는 것
+* deceive: 일반적으로 속다라는 뜻
+* mislead; 
+
 # 원어민
+* 우리 구역이야; You're on our turf  [tɜːrf] 
+	* 현관도 멋지구요; it's got a nice porch
+* 나랑 복도에서 붇지혔어; He bumped into me in the hallway
+	* 우연히 너랑 마주친거야!; i just bumped into you!
+* AJ가 아야했잖아; AJ has a boo-boo
+* 나랑 안ㅁ자았어; hE wasn't a match
+* * at a cost = 대가를 치르는
+	* He got famous, but at a cost. Everyone hated him.
 * = 그는 친구들하고 그냥 빈둥빈둥 놀았다. He spent the day with friends, just messing about.
 	* = 짜증나게 하지 말고 내 말 좀 들아라고! Stop messing around and listen to me!
 * ＊ takeaway = 시사점, 교훈, 중요 포인트 takeaway 는 어떤 것을 듣거나 본 이후에 ‘알아가는 것’을 말해요. 노랫말에 lesson 이 나왔는데 이와 유의어라고 볼 수 있어요. takeaway 포장음식, 테이크아웃 (美 takeout)
