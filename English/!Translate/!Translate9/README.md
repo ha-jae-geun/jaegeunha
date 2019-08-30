@@ -7,6 +7,8 @@
 * mislead; 
 
 # 원어민
+* 새 바지를 빨았더니 줄어들어 버렸어요. My new pants shrank after I washed them. 듣기 출처:YBM  [ʃrɪŋk]
+* 앞에 얼룩만 닦아주세요; Can you just clean the stains on the front?
 * 우리 구역이야; You're on our turf  [tɜːrf] 
 	* 현관도 멋지구요; it's got a nice porch
 * 나랑 복도에서 붇지혔어; He bumped into me in the hallway
@@ -117,6 +119,9 @@ shep/herd, hap/hazard, peep/hole 처럼 p와 h 사이에 발음을 갈라 f 사�
 
 
 # 토익
+* 훨씬; well in advance;   평균 이하에; well below average
+* 수태시; 영어에서는 수가 매우 중요
+* 문제삽입 키: 1. 대명사(this, they, he) 2. 연결어(However, Therefore)
 * patio 미국식 [-oʊ]  영국식 [ˈpætiəʊ] ; [명사] pl. -os 파티오(보통 집 뒤쪽에 만드는 테라스)
 * WHat does the woman offer to do;  답: will do
 * what are listeners instructed to do?  답: you/everyone
