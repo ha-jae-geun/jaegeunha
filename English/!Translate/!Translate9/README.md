@@ -7,6 +7,19 @@
 * mislead; 
 
 # 원어민
+* 이걸 배경으로 찍어주세요; Could we get this in the bacground?
+	* 사진을 세로로 찍어주시겡써요? Could we have a vertical picture?
+	* 어떻게 찍어드릴까요? How would you like the picture to be taken?
+	* 더 찍어드릴까요? WOuld you like me to take a few more?
+	* 세후 이익; after-tax profit/income <> pretax
+* 그는 그 회사의 투자를 중단했어; He pulled the plug on investment in the firm; pull the plug on: 손떼다
+* 전에 낳나테 한 번 수작걸었었어; He made a pass at me once
+* 맨날 약속을 깨; flake;  고객 진짜 멍청해; The client is a flake; 만나기로 해놓고 연락 없이 잠수 타는 사람 2. 단순히 멍청해서 신뢰하기 힘든 사람
+* 그녀를 혼낼까요?(불러서 뭐라고 할까요?) SHould i call her out on it?
+* 네 식습관이 전반적인 건강에 영향을 미쳐; Your diet has a bearing on your general health
+* 도토리 캐재기야; Not much of a difference
+* 역대급이다 - is unbeatable
+* 너희 세 명의 머리를 한꺼번에 박아버릴 거야!” I’m going to knock your three heads together!” 
 * 위층에 있어; THey're upstairs
 * 비상연락처는 냉장고에 붙어있고; The emergency contacts are on the fridge
 * 전 옥상에 와있어요; i'm here at the rooftop
