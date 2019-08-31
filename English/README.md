@@ -41,6 +41,7 @@
 * 한국번역연구소 https://blog.naver.com/ktri8888
 * 올인원 https://m.blog.naver.com/PostList.nhn?blogId=allinoneedutech
 * 돌핀 https://m.blog.naver.com/PostList.nhn?blogId=frost9001
+* 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 어학당 추가 하기
 * 타이핑
 * 슈퍼맨/토익 문제 http://moonje.in
@@ -62,6 +63,7 @@
 * 마젠타섹 https://m.blog.naver.com/PostList.nhn?blogId=dkfjsa
 * 영어교육정말어렵다 https://m.blog.naver.com/PostList.nhn?blogId=dgtongbeon
 * 채원과영어 https://m.blog.naver.com/PostList.nhn?blogId=learnwithchaewon
+* 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 어학당 추가 하기
 * 타이핑
 * 토익 문제 http://moonje.in
@@ -83,6 +85,7 @@
 * EF 코리아 https://m.blog.naver.com/PostList.nhn?blogId=ef_korea
 * 원스탑에듀 https://m.blog.naver.com/PostList.nhn?blogId=1stopedu
 * 쎄쎄쎄 https://m.blog.naver.com/PostList.nhn?blogId=cedubook
+* 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 어학당 추가 하기
 * 타이핑
 * 토익 문제 http://moonje.in
@@ -108,6 +111,7 @@
 * 차니쓰 https://m.blog.naver.com/PostList.nhn?blogId=wkosin
 * 와이넛북스 https://m.post.naver.com/my.nhn?memberNo=5039741
 * Sunny https://m.blog.naver.com/PostList.nhn?blogId=pureriver777
+* 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 어학당 추가 하기
 * 타이핑
 * 토익 문제 http://moonje.in
@@ -132,6 +136,7 @@
 * 해커스어학원꿀팁 https://blog.naver.com/hacademia
 * 잉글리쉬 에듀몰 https://tomasuper.blog.me/
 * 넥서스 공시미; https://blog.naver.com/0simiii
+* 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 어학당 추가 하기
 * 타이핑
 * 토익 문제 http://moonje.in
@@ -157,6 +162,7 @@
 * 토마토 토익 https://m.blog.naver.com/PostList.nhn?blogId=tomato_talk&currentPage=1
 * 브랜든의 캐나다 https://m.blog.naver.com/PostList.nhn?blogId=kidaradio 
 * 김일승 https://m.blog.naver.com/PostList.nhn?blogId=kishyun
+* 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 어학당 추가 하기
 * 타이핑
 * 토익 문제 http://moonje.in
@@ -165,7 +171,6 @@
 
 # 일 0526
 * 슈퍼맨 https://superfan.link/pc
-* 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 찰리 잉글리시 https://m.blog.naver.com/PostList.nhn?blogId=charleyenglish&currentPage=1
 * 즐겁게 써먹는 영문법 https://m.blog.naver.com/PostList.nhn?blogId=tkfnxh&categoryNo=42&logCode=0&categoryName=즐겁게 써먹는 영문법
 * 단 영ㅇ문법 https://m.blog.naver.com/PostList.nhn?blogId=ddanddan84&currentPage=2
@@ -182,316 +187,10 @@
 * 엔토 https://m.blog.naver.com/PostList.nhn?blogId=ing4mo&categoryNo=0&listStyle=style1
 * 시언스쿨 https://m.blog.naver.com/siwonschool0
 *  야나두 https://blog.naver.com/yanadooblog/221323042575
+* 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 어학당 추가 하기
 * 타이핑
 * 토익 문제 http://moonje.in
 * 테크 크런치 https://techcrunch.com/
 * 트위터: https://twitter.com/home
 
-------------
-
-구독
-
-PAGODA파고다
-2
-
-외국어학원 1위 해커스
-
-Fox News
-3
-
-에바EVA
-
-LEE 영어회화
-
-드림텔러(DreamTeller)
-1
-
-Washington Post
-30
-
-우기부기 영어
-
-애로우잉글리시 Arrow English
-
-우기부기TV
-
-이준행
-
-CHEWHEE쥬히
-
-Yoora Jung
-
-fromJUDYJY
-
-Nahyun's Travelogue나현쓰
-
-KoreanBilly
-
-KoreanBilly's English
-
-라이브 아카데미 토들러
-2
-
-Youjin유진
-
-국가비GabieKook
-
-The World of Dave데이브
-
-제이크 토익스피킹
-
-영국남자 Korean Englishman
-
-BBC Learning English
-
-tv Jenny-chang
-
-Summer in Brooklyn썸머썸머
-
-젠토Jento
-
-영어원서 당당하게 읽기! 영서당TV
-
-카일영어 Learn English with Kyle
-
-해커스톡 기초영어회화 공식 유튜브
-
-크리스 쇼
-
-미드 읽어주는 남자방군
-
-The Late Late Show with James Corden
-15
-
-Lenny Jung
-
-조은커플 Joeun Couple
-
-TheTesteeTop50Charts
-
-JAYKEEOUT x VWVB
-
-Bridge TV
-
-ANDY
-
-영어회화 100일의 기적
-
-선민_sunmin
-
-Aloha Language House
-
-VanossGaming
-4
-
-Charisma on Command
-
-YBM Books
-8
-
-SOPHIE BAN
-3
-
-NBA
-37
-
-러닝그라운드
-
-CNN
-86
-
-포크포크
-
-Mindy TV
-
-7-Second Riddles
-35
-
-EBSLanguage (EBS 외국어 학습)
-
-무대뽀 영어
-
-외국인코리아Den and Mandu
-
-영어로토하라
-
-코어소리영어
-
-장현호 짱샘영어왕초보 기초영어 영어회화
-
-ESPN
-22
-
-Sounds American
-
-VOA Learning English
-
-러브굿 영어
-
-The Ringer
-1
-
-Oxford Online English
-
-윤동글
-
-shushu슈쓔
-
-Gooban
-1
-
-룩스 커플Luke and Stacy
-
-스티븐영어
-
-BRIGHT SIDE
-14
-
-MLB
-
-라이브 아카데미
-3
-
-영알남YAN
-
-같영구
-
-JASON ENGLISH
-
-The Tonight Show Starring Jimmy Fallon
-43
-
-TheEllenShow
-22
-
-TED
-5
-
-NBA on TNT
-
-날라리데이브!
-
-Sky Sports Football
-5
-
-Dingo K-Drama
-2
-
-ChessNetwork
-2
-
-ReacttotheK
-
-[서미소랑] Misorang Seo
-
-Don되는 영어
-
-BRITCENT
-
-단앤조엘 Dan and Joel
-
-야나두 영어회화 공식 유튜브
-
-디바제시카DeevaJessica
-
-Splash English [스플래쉬잉글리쉬]
-
-Gyopo TV
-
-개구리알 영어스쿨
-
-에밀튜브 - EmilTUBE
-
-Asian Boss
-
-올리버쌤
-
-메이슨미드영어회화
-
-써니영어 Sunny English
-
-EBSSTORY
-
-미드영어midEnglish
-
-Summer Park
-
-캠블리
-
-Business English Pod - Learn Business English
-
-ESP 랭귀지 스쿨 [ENGLISH SIX PACK]
-
-2쌤영어! (원어민과 한국인이 같이 하는 무료 영어 강의)
-
-진저 Jinger English
-
-하이채드 Hi Chad
-
-DoolDool
-1
-
-DAILY DOSE OF 날라리DAVE (DDD)
-
-HOSUNG
-
-English Speeches
-
-Aran TV
-
-덴뿌라 영어 Denppura English
-
-지니의영어방송국
-1
-
-희철리즘Heechulism
-
-ILBANGBANG
-1
-
-[덩어리영어] 공식 Youtube 채널
-
-오늘의 생활영어
-
-휘트니 whitneybae
-
-헤이민지 heyMinji
-
-유튜브 생활영어
-
-팝송읽어주는여자Jina
-
-와썹맨-Wassup Man
-
-Michael Elliott
-
-What the English
-
-운배영-68거북이 영어교실-Unbaeyoung
-
-EnglishinKorean Plus! (마이클의 온라인 영어 교실)
-
-시원스쿨 기초영어 공식 유튜브
-
-프랭크쌤영어
-
-Jinger Tube 진저 튜브
-
-쏘이Soy The World
-
-하재근
-
-래릿 l Letit
-
-뒹굴신_Let's learn English
-
-Team Coco
-
-열심히 Gillian
-
-Learn English 360
-
-JOLLY
-
-해링TV
