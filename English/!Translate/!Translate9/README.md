@@ -7,6 +7,11 @@
 * mislead; 
 
 # 원어민
+* 한국계 볼리비아인 목사가/ 볼리비아 대통령 선거에 출마한다고 A Korean-Bolivian pastor/ will run for president of Bolivia 
+	* PDC(기독교민주당)는 공식 발표했다고 한다 the PDC made an official announcement 
+	* 정 씨는 후보를 확정했다 Chung has secured his candidacy  [ˈkændɪdəsi]
+	* 그는 1999년에 볼리비아로 귀화해 He was naturalized to Bolivia in 1999  
+* 토론토국제영화제에서 상영될 to be aired at the Toronto International Film Festival 
 * 이걸 배경으로 찍어주세요; Could we get this in the bacground?
 	* 사진을 세로로 찍어주시겡써요? Could we have a vertical picture?
 	* 어떻게 찍어드릴까요? How would you like the picture to be taken?
