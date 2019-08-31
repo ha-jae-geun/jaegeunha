@@ -7,6 +7,14 @@
 * mislead; 
 
 # 원어민
+* 위층에 있어; THey're upstairs
+* 비상연락처는 냉장고에 붙어있고; The emergency contacts are on the fridge
+* 전 옥상에 와있어요; i'm here at the rooftop
+* 뭐 좀 마시자; Let's go get something to drink; drink 자체는 술
+* 내가 여신이다; THat's the goddess in me 식 [ˈɡɑːdəs]
+	* 얼음땡 안해 i don't play tag
+* 바람좀 쐬러 나와있어; i'm out here to take a little breather
+* 슬리퍼를 질질 끌고다니다; go around dragging one's flip-flops
 * 새 바지를 빨았더니 줄어들어 버렸어요. My new pants shrank after I washed them. 듣기 출처:YBM  [ʃrɪŋk]
 * 앞에 얼룩만 닦아주세요; Can you just clean the stains on the front?
 * 우리 구역이야; You're on our turf  [tɜːrf] 
