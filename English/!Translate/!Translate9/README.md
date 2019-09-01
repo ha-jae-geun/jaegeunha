@@ -13,6 +13,12 @@
 * 금방 해결될 것 같진 않아; It doesn't look like it's going to be taken care of anytime soon
 
 # 원어민
+* 나 반성했어; i'm refelcting on myself
+* 완전 놀라운 반전이죠? What a turn of events;  It was a starge turn of events
+* 그녀는 내 전 애인을 비난했어; She threw some shade at her ex
+* 난 내 모든 힘을 짜내 그의 이름을 크게 불렀어; i shouted his name from the top of my lungs  [lʌŋ] 
+* 감질하네 하지마; DOn't tantalize me like that  [ˈtæntəlaɪz] 
+* 날짜를 정확히 정하고 싶어; i'd like to pin down the date
 * 결혼할만한 상대는 안야; He is not marriage material
 * 바로 그 정신이야!; That's the spirit!
 * 난 빠질래; i'm out (of it); <> i'm in
