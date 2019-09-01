@@ -4,9 +4,19 @@
 	* This image really had me fooled
 * trick: 사람이 아닌 어떤 것이 속이다는 느낌이 아니고, 개인이 계획이나 의도를 가지고 속이는 것
 * deceive: 일반적으로 속다라는 뜻
-* mislead; 
+* * mislead; 
+
 
 # 원어민
+* 바로 그거야!; YOu hit the spot!
+* 심쿵해; It makes my heart race
+* 24시간 내내 엘한다; The police office opens around the clock
+* 부동산업자; real estate agent; i bought a new house through the real estate agent
+* 공무원; civil servant; 고위 행적직 느낌으로 일의 방향 결정; public servant; 나라에서 정해진 결정이 원활하겢 ㅏㄱ동하게 하는 사람(경찰, 소방관, 포괄적인 공무원); civil service / public service
+	* 공무언 시험; public service exam
+"음 이런 말은 좀 그렇긴 한데..." "괜찮아요, 저 영업직이라 철판은 잘 깝니다 하하"   "umm... I hesitate telling you this.." "It's okay, I'm in sales,  so I've got thick skin.' 
+* 걔 그냥 무시해, 너가 화나게 할 틈을 주지 마.   Just ignore him.  Don't let him get under your skin. 
+* 그 강아지가 바닥에 오줌을 쌌어요. The puppy relieved itself  in the middle of the floor.
 * 한국계 볼리비아인 목사가/ 볼리비아 대통령 선거에 출마한다고 A Korean-Bolivian pastor/ will run for president of Bolivia 
 	* PDC(기독교민주당)는 공식 발표했다고 한다 the PDC made an official announcement 
 	* 정 씨는 후보를 확정했다 Chung has secured his candidacy  [ˈkændɪdəsi]
