@@ -7,7 +7,17 @@
 * * mislead; 
 
 
+# 중요
+* 달느 사람들에 항상 비판적인 사람들은 이해가 ㅈ라 안가요; i don't understand peoploe who are very critical about some other people
+* 캐나다에서 살기 위해서 내가 언젠가는 영어를 해야만 해; i have to speak English one of these days ot live in canada
+* 금방 해결될 것 같진 않아; It doesn't look like it's going to be taken care of anytime soon
+
 # 원어민
+* 결혼할만한 상대는 안야; He is not marriage material
+* 바로 그 정신이야!; That's the spirit!
+* 난 빠질래; i'm out (of it); <> i'm in
+* 한쪽은 8분동안 고워줄거고; i'm gonna cook the fist side for about eight minutes
+* 앞으론 연락하지 말아줬으면 해; Don't go reaching out
 * 바로 그거야!; YOu hit the spot!
 * 심쿵해; It makes my heart race
 * 24시간 내내 엘한다; The police office opens around the clock
