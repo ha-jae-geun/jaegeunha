@@ -2,6 +2,13 @@
 - ms워드 ^p
 - 한글: ^n
 
+# 구글 검색
+* 사이트: site:사이트이름 검색내용
+* 파일타입: filetype:pdf IT산업 현황'
+* 제목: 'intitle:태블릿PC 추천
+* 무조건 나오기: ""
+* 여러 명령어: site:go.kr filetype:pdf 
+
 
 # 소프트웨어
  * C:\temp // 영어 폴더 파일에 관리자 권한으로 실행
