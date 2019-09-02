@@ -18,6 +18,7 @@
 * 덤탱이; I got ripped of; You got totally ripped off
 
 # 중요
+* house; 지붕있고 주소있는 집;  home: 고향, 집의 느낌, 편한 느낌; hometown: 고향; 향수병: homesick
 * 달느 사람들에 항상 비판적인 사람들은 이해가 ㅈ라 안가요; i don't understand peoploe who are very critical about some other people
 * 캐나다에서 살기 위해서 내가 언젠가는 영어를 해야만 해; i have to speak English one of these days ot live in canada
 * 금방 해결될 것 같진 않아; It doesn't look like it's going to be taken care of anytime soon
