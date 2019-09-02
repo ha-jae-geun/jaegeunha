@@ -6,6 +6,16 @@
 * deceive: 일반적으로 속다라는 뜻
 * * mislead; 
 
+# "속았다"를 영어로 - PART 2 - "속아서 ~을 하다"
+* 속아서 -을 하다: be fooled into -ing
+* 내가 어떻게 이런 고물 덩어리를 속아서 샀지? 
+	* I can't believe i let myself get(be) fooled into buyting this piece of junk
+* 내가 어쩌다가 그 판매우너한테 속아서 이런 고물덩어리를 산거지?
+	* I can't believe i let that sales clerk fool me into buying this piece of junk
+* be fooled into thinking / believing
+	* THe employer fooled everyone into thinking(believing) that they were being paid decently
+* fraud: 법률 사기; 보통 사기: scam; 편한 어조의 사기다: What a scam; This is total scam
+* 덤탱이; I got ripped of; You got totally ripped off
 
 # 중요
 * 달느 사람들에 항상 비판적인 사람들은 이해가 ㅈ라 안가요; i don't understand peoploe who are very critical about some other people
@@ -13,6 +23,27 @@
 * 금방 해결될 것 같진 않아; It doesn't look like it's going to be taken care of anytime soon
 
 # 원어민
+* 그는 우울증으로 고생했어요; He had depression issues
+	* 과거에 외상후 스트레스 장애는; In the past, PTSD
+* 미화시키지 않을거에요; There is no sugarcoating this
+* 레베카로 예약했어요; Yes, under "Rebecca'
+	* 두명이에요; A table for two please
+* 여러분들은 컨퍼런스에 참석하기 위해 오신 것 같군요; Are you folks here for the Burger Conference
+* 다 잘 섞이도록 휘저으세요; Whisk it all together [wɪsk]
+* 약간의 우너시가 있어요; SHe has slight farsightedness
+	* 잘 보여요 흐릿해요? You're still seeing right here? Or is that too blurry?
+	* 약간의 난시도 있어요; She has slight astigmatism astigmatism 미국식 [əˈstɪɡmətɪzəm] 
+* 버블티는 어린 소비자들 사이에서 유행이 도ㅒㅆ어; Bubble tea has caught on with younger consumers
+	* Do you think this will catch on in Korea?
+* 상황을 뒤집을 수 있어; You can shift the tide
+* 쟤는 맨날 지 잘난척이야; He always toots his own horn
+	* 잘난척 하지마; DOn't blow your own trumpet
+* 단기 속성반; a crash course;; 단기속성으로 영어 배웠어; i took a crash course in English
+* 인생은 너가 하기에 달려있어; Life is what you make of it
+* 상황이 좋아졌어요; Thinsg started to look up; Business is looking up at last;  become better; improve
+* 슬슬 움직여보죠; Mosey on over; Mosey on over to my house  [ˈmoʊzi] 
+* 날씬한 체구를 갖고 계시다면; If you have a slim build
+* 햇볕좀 쐬러 가자; let's cach some rays
 * 나 반성했어; i'm refelcting on myself
 * 완전 놀라운 반전이죠? What a turn of events;  It was a starge turn of events
 * 그녀는 내 전 애인을 비난했어; She threw some shade at her ex
