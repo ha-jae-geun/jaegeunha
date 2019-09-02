@@ -24,6 +24,9 @@
 * 금방 해결될 것 같진 않아; It doesn't look like it's going to be taken care of anytime soon
 
 # 원어민
+* 수선해주세요; Can you alter them?
+* 치마의 단을 올리다 to hem a skirt  
+	* 양쪽 발 좀 잘라주시고 단을 올려주세요; Can you cut the bottom of both legs and hem them
 * 적당히 합시도; Give me a break
 * 다래끼 나다; i have a sty in my eye
 * 대조된다; somethinnng contrasts with something
@@ -152,6 +155,7 @@
 * 보험 되는거에요? Is it insured? Does it include insurance?
 
 # 코어
+* shorten 미국식 [ˈʃɔːrtn]; 쑐은
 * there are; th; tear의 발음을 부드럽게; theirs와 발음이 비슷
 	* 하지만 발음이 불편해서 문법상 틀리지만 there is a lot a kids 처럼 발음하기도 함
 # tʃ와 # dʒ
