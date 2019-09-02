@@ -24,6 +24,11 @@
 * 금방 해결될 것 같진 않아; It doesn't look like it's going to be taken care of anytime soon
 
 # 원어민
+* 적당히 합시도; Give me a break
+* 다래끼 나다; i have a sty in my eye
+* 대조된다; somethinnng contrasts with something
+	* Something contrasts in may ways
+* 악플; bad/malicious/mean comments and trolls;   [məˈlɪʃəs]   악플러: troll; 비방글 만들어 내는곳: troll farm
 * 그는 우울증으로 고생했어요; He had depression issues
 	* 과거에 외상후 스트레스 장애는; In the past, PTSD
 * 미화시키지 않을거에요; There is no sugarcoating this
