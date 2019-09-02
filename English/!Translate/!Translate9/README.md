@@ -24,6 +24,7 @@
 * 금방 해결될 것 같진 않아; It doesn't look like it's going to be taken care of anytime soon
 
 # 원어민
+* cuffs: 소매, 팔뚝부위: sleees
 * 수선해주세요; Can you alter them?
 * 치마의 단을 올리다 to hem a skirt  
 	* 양쪽 발 좀 잘라주시고 단을 올려주세요; Can you cut the bottom of both legs and hem them
