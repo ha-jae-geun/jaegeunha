@@ -1,6 +1,11 @@
-# 알고리즘
-* 퀵 소트 알고리즘
+# 기타
+## XML과 JSON 비교
 
+
+# 알고리즘 
+## 퀵 소트 알고리즘 ??
+
+## Hash Index와 Tree Index 비교
 
 # OS
 
@@ -10,11 +15,11 @@
 * 코드는 오픈소스 무료이고 깃허브에서 코드 볼수 있고 파일을 커스터마이징 가능
 * 아마존 서버는 리눅스 서버에서 돌아감
 
-## OS 데드락 문제
+## OS 데드락 문제 ??
 
 
 # 데이터베이스
-## DB Transaction문제
+## DB Transaction문제  ??
 
 
 =
@@ -198,7 +203,7 @@ CloudStack.com은 클라우드 IaaS(Infrastructure as a Service) 플랫폼 솔�
 * 텍스트 인식 기능, 이미지 딥러닝: 
 
 
-# SPRING ?
+# SPRING 
 ## EJB
 
 ## POJO
