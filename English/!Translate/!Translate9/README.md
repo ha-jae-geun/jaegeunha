@@ -33,6 +33,10 @@
 
 
 # 원어민
+* 상처에 바르는 연고를 주세요. I need an ointment for scars.  [ˈɔɪntmənt]
+* 일요일(1일) 또 한 번 망언을 했다. made reckless remarks Sunday yet again. 
+* 8월에 실업률이 8%로 상승했어. The unemployment rate ticked up to 8% in August.
+* 새로운 법안은 저임금 파트타임 노동자들의 권리를 보호해 줄 거야. The new law will safeguard the rights of low-paid part time workers.
 * 압수수색영장 warrant of seizure or of search  [ˈsiːʒə(r)] 
 * 어려운 일 아니거든; It doesn't take a rocket scientist to play this
 * 너 오늘 진짜 흥 꺨려고 작정했구나; YOu're a reall killjoy today
