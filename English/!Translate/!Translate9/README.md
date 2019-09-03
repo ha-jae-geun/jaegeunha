@@ -33,6 +33,8 @@
 
 
 # 원어민
+* 의사 소견서 받을 수 있나요? Can i get a doctor's note?
+* 학교 입학서에 낼 접종 기록좀 받을 수 있나요? Can i get a copy of my immunization records for school admission  [ìmjunizéiʃən,imjù:n- 
 * 연락이 끊길 때쯤 다시 연락하는 데이트 기술
 	* I don't think benching is a good way to build a close relationship with her.  나는 연락이 끊길 때쯤 다시 연락하는 데이트 기술이 그녀와 가까운 관계를 형성하는 좋은 방법은 아니라고 생각해
 	* 고양이 낚시((다른 사람들에게 특별한 인상을 주고 연인을 구하기 위해 온라인상에서 자신에 대해 거짓말을 하는 행위))
