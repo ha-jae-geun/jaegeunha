@@ -33,6 +33,17 @@
 
 
 # 원어민
+* 연락이 끊길 때쯤 다시 연락하는 데이트 기술
+	* I don't think benching is a good way to build a close relationship with her.  나는 연락이 끊길 때쯤 다시 연락하는 데이트 기술이 그녀와 가까운 관계를 형성하는 좋은 방법은 아니라고 생각해
+	* 고양이 낚시((다른 사람들에게 특별한 인상을 주고 연인을 구하기 위해 온라인상에서 자신에 대해 거짓말을 하는 행위))
+		* 어젯밤에 고양이 낚시에 관한 TV 프로그램을 봤는데, 다른 사람을 속이는 사람이 그렇게나 많다니 정말 놀랐어.I saw a TV program on catfishing last night, and it was shocking that there are so many people who delude others. 
+	* 그녀에게 잠수 이별을 당할 줄은 상상도 못 했어! never imagined her ghosting! 
+	* 내가 그녀에 의해 어장 관리당했다는 것을 난 미처 몰랐다.
+ I didn't know that I was cushioned by her. 
+ * 이용자 참여  나는 연인 아닌 친구 사이에 있었다. was in the friend zone. 듣기
+ 	* hook-ups: sex
+	* A: Asian, B: black, W: white, D: divorced, N/S: Non-smoking, N/K: no kids
+	* D+D free!: drug + disease free!, LTR: Long term relationship, FWB: friends with benefits
 * 상처에 바르는 연고를 주세요. I need an ointment for scars.  [ˈɔɪntmənt]
 * 일요일(1일) 또 한 번 망언을 했다. made reckless remarks Sunday yet again. 
 * 8월에 실업률이 8%로 상승했어. The unemployment rate ticked up to 8% in August.
