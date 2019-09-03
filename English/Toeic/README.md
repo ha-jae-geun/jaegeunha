@@ -164,6 +164,18 @@
 3. pressure, burden,overburden = 부담을 주다
 
 #### 기타
+* paper = newspaper business
+* 10 plus years = over a decade
+* movie = film
+* replicas = models
+* malfunctioning = broken
+* rules = guidelines
+* call = contact
+* Emily = colleague
+* sales meeting = business appointment
+* regrigerator = appliance
+* concert = musical performance
+* carrying case = container
 * 신기했다; be fasciating
 * 증명서; proof, certificate, certification
 * 공석; unified / open / vacant position
