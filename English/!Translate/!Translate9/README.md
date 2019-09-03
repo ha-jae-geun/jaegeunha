@@ -33,8 +33,17 @@
 
 
 # 원어민
+* 그냥 해봐; Just git it a crack; give a crack;  -해볼 기호; the first crack at something
+* 파지 시자하자; Let's get this party rolling ;;  let's get the meeting rolling
+* 진심처럼 느껴져; It rings true to me
+* 너 노래방 18번 곡이 뭐여? What's your go-to karaoke song?
+* 최대치로 노력해 봐야해; We should try a full belt; 
+	* 그는 전속력으로 질주해 갔어; He was driving full belt down the road
+* 너 -랑 친구니?(친구 사인지 궁금); Are you friends with James?
+	* 너 제임스의 친구니? 정체를 물음; Are you a friend of James?
+* 이신전심이야; We complete each other's sandwiches
 * 의사 소견서 받을 수 있나요? Can i get a doctor's note?
-* 학교 입학서에 낼 접종 기록좀 받을 수 있나요? Can i get a copy of my immunization records for school admission  [ìmjunizéiʃən,imjù:n- 
+* 학교 입학서에 낼 접종 기록좀 받을 수 있나요? Can i get a copy of my immunization records for school admission  [ìmjunizéiʃən,imjù:n- ]
 * 연락이 끊길 때쯤 다시 연락하는 데이트 기술
 	* I don't think benching is a good way to build a close relationship with her.  나는 연락이 끊길 때쯤 다시 연락하는 데이트 기술이 그녀와 가까운 관계를 형성하는 좋은 방법은 아니라고 생각해
 	* 고양이 낚시((다른 사람들에게 특별한 인상을 주고 연인을 구하기 위해 온라인상에서 자신에 대해 거짓말을 하는 행위))
