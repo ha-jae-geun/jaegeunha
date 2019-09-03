@@ -17,13 +17,29 @@
 * fraud: 법률 사기; 보통 사기: scam; 편한 어조의 사기다: What a scam; This is total scam
 * 덤탱이; I got ripped of; You got totally ripped off
 
+# [ 기초영어회화 ] 연령대 - 30대 초/중/후반, 내 또래, 보통 키와 몸무게
+* 그녀는 20대 중반입니다; SHe's in her mid twenties;  early/late
+* 내 나이 정도 돼' She's about/around my age
+* 그녀는 키가 커; Hse's tall <> short;  Height is tall 사용 xx
+* 색깔 말할떄: It's black;    This color is black(xxx);  선택할 때; i like the blue one
+* 그녀는 평균 몸무게다; She's average height(weight)  [ˈævərɪdʒ] 
+	* 통통한 편이다; He's a little chubby;  He's kind of chubby
+
 # 중요
 * house; 지붕있고 주소있는 집;  home: 고향, 집의 느낌, 편한 느낌; hometown: 고향; 향수병: homesick
 * 달느 사람들에 항상 비판적인 사람들은 이해가 ㅈ라 안가요; i don't understand peoploe who are very critical about some other people
 * 캐나다에서 살기 위해서 내가 언젠가는 영어를 해야만 해; i have to speak English one of these days ot live in canada
 * 금방 해결될 것 같진 않아; It doesn't look like it's going to be taken care of anytime soon
 
+
 # 원어민
+* 압수수색영장 warrant of seizure or of search  [ˈsiːʒə(r)] 
+* 어려운 일 아니거든; It doesn't take a rocket scientist to play this
+* 너 오늘 진짜 흥 꺨려고 작정했구나; YOu're a reall killjoy today
+	* 재미없게 굴지마; DOn't be a wet blanket
+* 너는 내 전부야; You mean the world to me
+* 머리색이 얼룰덜룩해요; My hair is super patchy
+* 무슨 언어부터 배워야ㅏ나; Which Language to learn first?
 * cuffs: 소매, 팔뚝부위: sleees
 * 수선해주세요; Can you alter them?
 * 치마의 단을 올리다 to hem a skirt  
