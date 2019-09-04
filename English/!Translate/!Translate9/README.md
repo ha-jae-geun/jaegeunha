@@ -33,6 +33,8 @@
 
 
 # 원어민
+* 씹어서 먹어; Chew it up
+* 어쩌라구요; DOn't give a hoot
 * 그냥 해봐; Just git it a crack; give a crack;  -해볼 기호; the first crack at something
 * 파지 시자하자; Let's get this party rolling ;;  let's get the meeting rolling
 * 진심처럼 느껴져; It rings true to me
