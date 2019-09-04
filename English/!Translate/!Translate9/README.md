@@ -35,6 +35,13 @@
 	* 안녕 베스! 여기 네가 올지 몰랐어. Hey Beth! I didn't know you'd be here
 
 # 원어민
+* 우리 몸싸움까지 하게 됐엇어; It got to the point where we had a physical fight
+* 추후 통지가 있을때까지 휴업 에정입니다; THe office will be closed util further notice
+* 그는 무료로 변호를 맡기도 해; He takes on some pro bono cases
+* 이 박스에 케이블은 다 넣어놨어; THis box is a catch-all for cables;  catch-all: 잡동ㅇ사니를 넣는 곳
+* 흰트 하나 던져줄게; i'll shot you a hint;  질문해봐: shoot; shoot: 간단하게 말해줘
+* 성대모사 달인이야; i'm a master of impressions
+* 우리는 서로 공통친구가 많아; We have several mutual friends
 * 씹어서 먹어; Chew it up
 * 어쩌라구요; DOn't give a hoot
 * 그냥 해봐; Just git it a crack; give a crack;  -해볼 기호; the first crack at something
