@@ -30,7 +30,9 @@
 * 달느 사람들에 항상 비판적인 사람들은 이해가 ㅈ라 안가요; i don't understand peoploe who are very critical about some other people
 * 캐나다에서 살기 위해서 내가 언젠가는 영어를 해야만 해; i have to speak English one of these days ot live in canada
 * 금방 해결될 것 같진 않아; It doesn't look like it's going to be taken care of anytime soon
-
+* 여기서 뭐해? What are you doing here?(진짜 뭐하냐고 물어보는거 아님)
+	* 여기서 볼줄 몰랐느데; i didn't expect to see you here
+	* 안녕 베스! 여기 네가 올지 몰랐어. Hey Beth! I didn't know you'd be here
 
 # 원어민
 * 씹어서 먹어; Chew it up
