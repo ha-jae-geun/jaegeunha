@@ -23,7 +23,7 @@
 * 그녀는 키가 커; Hse's tall <> short;  Height is tall 사용 xx
 * 색깔 말할떄: It's black;    This color is black(xxx);  선택할 때; i like the blue one
 * 그녀는 평균 몸무게다; She's average height(weight)  [ˈævərɪdʒ] 
-	* 통통한 편이다; He's a little chubby;  He's kind of chubby
+	* 통통한 편이다; He's a little chubby;  He's kind of chubby 
 
 # 중요
 * house; 지붕있고 주소있는 집;  home: 고향, 집의 느낌, 편한 느낌; hometown: 고향; 향수병: homesick
@@ -34,7 +34,14 @@
 	* 여기서 볼줄 몰랐느데; i didn't expect to see you here
 	* 안녕 베스! 여기 네가 올지 몰랐어. Hey Beth! I didn't know you'd be here
 
+# 토익
+* 우수한 인재를 배출하다produce outstanding individuals; 복수
+
 # 원어민
+* 백신 맞으러 왔어요; i'm here to get vaccinated
+	* 약을 먹었는데도 온도가 안내려가요; The fever hasn't gone down even though i took medicine
+	* 설사했어; 언제 멈출까요? i have the runs. How do i stop it?
+* 이미 기분 상해있으니까 거슬리지 마; I'm already feeling upset today. So don't get in my hair
 * 우리 몸싸움까지 하게 됐엇어; It got to the point where we had a physical fight
 * 추후 통지가 있을때까지 휴업 에정입니다; THe office will be closed util further notice
 * 그는 무료로 변호를 맡기도 해; He takes on some pro bono cases
