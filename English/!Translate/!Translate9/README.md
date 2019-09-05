@@ -1,3 +1,22 @@
+# [ 영어 연습가이드 ] - HARDCORE - considering / knowing / thinking + that
+* 이 집으로 이사 왔을 때부터 창문 하나에서 누수 문제를 그동안 겪어왔어요. 
+	* I've been having a leakage problem from one of m windows ever since i moved to this place
+* 다행히 누수에 대해서 알릴 때마다 집주인이 수리공을 보내면서 이 문제에 대해서 꽤 꾸준히 조치를 해왔어요. 
+	* Thankfully my landlady has been fairly resposive on the matter, sending a repairman every time i notify her of a leakage
+* 그 것이 집주인으로서 그녀가 할 일이라는 점을 생각하면 그렇게 놀랄 일은 아니에요, 그렇죠? 
+	* **Considerering that** that's her job as a landlady, it shouldn't really be surprise right?
+	* Considering that: 전에 사실인 것을 고려해보면
+* 하지만 과거에 무책임한 집주인들을 상대해 본 사람으로써 이번에는 정말 운이 좋은 것 같아요. 
+	* But having dealt with very irresponsible landlords and landladies in the past, i actually feel very luck this time -lɔːrd]  영국식 [ˈlændlɔːd] 
+* 아쉽게도 아직 제대로 고치지는 못해서 좀 답답하긴 한데 정말 집주인의 잘못이 아니라는 것도 알고, 
+	* Unfortunately, they still haven't been able to fix it for good and it is a bit frustaring but **knowing that** it's not really the landlay's fault
+	* Knowing that: 내가 알고 있는 지식
+* 어쨋든 노력은 하고 있으니까요, 
+	* because she is trying after all
+* 그리고 먼 미래에 언젠가는 나도 그녀의 입장에 있을지도 모른다는 생각에 그냥 최대한 참으면서 이 모든 것으로부터 뭐라도 배우기라도 하려고 노력하고 있어요."
+	* And also **thinking that** i may be in her position some day in the far future, i'm just tring to be as patient as i can and maybe even learn something from all this
+	* Thinking that: 그렇게 생각하고 있기에
+
 # 의외로 많이들 모르는 영어표현 "속았다" - PART 1
 * 사진보고 완전히 속았어; i was totally fooled by this image
 	* This image totally fooled me
