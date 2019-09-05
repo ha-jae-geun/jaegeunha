@@ -22,7 +22,7 @@ public class ReverseStr {
 }
 ```
 
-# String.join
+# 1-1 String.join
 ```java
 join("추가할 문자", "대상 list")
 
