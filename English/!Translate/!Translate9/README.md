@@ -54,6 +54,13 @@
 	* 안녕 베스! 여기 네가 올지 몰랐어. Hey Beth! I didn't know you'd be here
 
 # 토익
+* exhaustible: 고갈 시킬 수 있는; exhausted: 1. 기진맥진한 2. 다 써버린(카트리지);  exhaustive: 철저한; thorough
+* merge(자동사) + with;  타동사 + A with B;  명사: The merger between/ of A and B
+* direct: 타동사; -에게 -를 보내다; Please direct questions about warranties
+* identify: 1. 알아보다 2. 신원 등을 확인하다; identify details
+* pursuit: 1. (불가산명사) 추구 2. (가산명사) 취미(주로 복수형); outdoor/ pursuits
+* take A into consideration: 고려하다; under consideration: 고려 중에 있따; in consideration of: -에 대한 보답으로
+* access; 타동사(to x);   명사일 때 뒤에 to v 붙음; 단 불가산명사임
 * 우수한 인재를 배출하다produce outstanding individuals; 복수
 
 # 원어민
