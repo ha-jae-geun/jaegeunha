@@ -59,6 +59,14 @@
 	* 여기서 볼줄 몰랐느데; i didn't expect to see you here
 	* 안녕 베스! 여기 네가 올지 몰랐어. Hey Beth! I didn't know you'd be here
 
+# (고급) 원어민들이 입에 달고 사는 10가지 표현! (EiK Plus 구독자 전용)
+* 특별한 날에만; 나를 위해 택시를 탔다; On special occasions, i'll treat myself to a taxi ride
+* 그는 환골탈태하여 완전히 딴사람이 되었다 He turned over a new leaf and became a completely different person.
+* 잠시 저를 내버려두실수 있나요?  I wonder could indulge me for a moment? 듣기
+* 안녕하세요, 4차원 반전 매력 NA YUN입니다. Hello. I'm whimsical NA YUN
+* 우리는 전쟁에 직면했다. We are on the warpath. 
+* gullible 미국식 [ˈɡʌləbl]; 사람을 잘 믿는
+
 # 토익
 * exhaustible: 고갈 시킬 수 있는; exhausted: 1. 기진맥진한 2. 다 써버린(카트리지);  exhaustive: 철저한; thorough
 * merge(자동사) + with;  타동사 + A with B;  명사: The merger between/ of A and B
@@ -70,6 +78,15 @@
 * 우수한 인재를 배출하다produce outstanding individuals; 복수
 
 # 원어민
+* 판단을 보류할게요; i'm reserving judgement
+* 과찬이세요; i'm so flattered
+* 전 곤경에 빠져 있어요; i've been in a rut
+* 그녀와 교대로 운전하고이ㅣㅆ어요; i've been taking turns driving with her
+* 경고사격을 한 것ㅂ니다; It was a warning shot across my bow
+* 일반통행입니다; It's a one-way street
+* 귀에서 윙소리가 들려요; i hear rining in my right ears
+* 오른쪽 손목에 통증이 있어; i have pain in my right wrist
+	* 아마도 오른발이 금 간거같애; i think my right foot is fractured
 * 백신 맞으러 왔어요; i'm here to get vaccinated
 	* 약을 먹었는데도 온도가 안내려가요; The fever hasn't gone down even though i took medicine
 	* 설사했어; 언제 멈출까요? i have the runs. How do i stop it?
