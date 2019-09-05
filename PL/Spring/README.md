@@ -4,6 +4,11 @@
 * JSP -> (Post, GET) -> Controller ->(Data Parameter) -> DAO/Service -> Model -> DB
 	* DAO: Interface(서비스) + DAO(자바)
 
+## MVC 흐름
+![스프링 MVC 흐름](스프링 MVC 동작흐름.PNG)
+
+
+<hr/>
 ## WEB-INF
 ```java
 	<beans:bean
