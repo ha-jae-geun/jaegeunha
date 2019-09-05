@@ -45,6 +45,12 @@
 	* 통통한 편이다; He's a little chubby;  He's kind of chubby 
 
 # 중요
+* 엄청난 기회야; It's flipping/freaking opportunityy; 장난하는거야? Are you flipping kidding me?
+* 걘 그냥 모든 걸 다 훤히 알고싶어해; He's just like to keep on top of everythin
+	* keep on top (of): 훤히 알고 있다.
+* 파티나 무도회에서 세련된 산사가 다른 신사에게 하는 말: Old sport; Having a good time, old sport?
+* 원예에 큰 재능이 있다; have a green thumb
+* 우리 집사람은 세일하는 물건엔 사족을 못써; My wife is a sucker for sale items
 * house; 지붕있고 주소있는 집;  home: 고향, 집의 느낌, 편한 느낌; hometown: 고향; 향수병: homesick
 * 달느 사람들에 항상 비판적인 사람들은 이해가 ㅈ라 안가요; i don't understand peoploe who are very critical about some other people
 * 캐나다에서 살기 위해서 내가 언젠가는 영어를 해야만 해; i have to speak English one of these days ot live in canada
