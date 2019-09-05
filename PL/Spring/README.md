@@ -5,7 +5,7 @@
 	* DAO: Interface(서비스) + DAO(자바)
 
 ## MVC 흐름
-![스프링 MVC 흐름](./스프링 MVC 동작흐름.PNG)
+![스프링 MVC 흐름](./스프링 MVC 동작흐름.png)
 
 
 <hr/>
