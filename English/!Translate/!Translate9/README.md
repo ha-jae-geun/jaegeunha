@@ -76,8 +76,16 @@
 * take A into consideration: 고려하다; under consideration: 고려 중에 있따; in consideration of: -에 대한 보답으로
 * access; 타동사(to x);   명사일 때 뒤에 to v 붙음; 단 불가산명사임
 * 우수한 인재를 배출하다produce outstanding individuals; 복수
+* appear; 1형식: 이 동네에 유령이 나타났따; A ghost appeared in this neighborhood
+	* 그는 부유한것 같다; He appears to be rish  = he seems to be rich
+	* seem은 like도; He seems like an rich man
+	* It seems/appears that(as if); He seems/appears to have a girlfriend
+* come 2형식: The work will come easy; come alikve/easy/loose/true/of age: 성인이 되다
+* [명사] (비격식) (눈물을 흘리게 하는 감상적인) 최루성 영화[이야기 등] tear jerker 미국식 [ˈtɪrdʒɜːrkər]  영국식 [ˈtɪədʒɜːkə(r)]  단어장추가
 
 # 원어민
+* 좀 곤란한 질문이네; THat's a loaded question
+* 제가 도저히 가만히 있을수가 없어요; But i simply cannot contain myself
 * 판단을 보류할게요; i'm reserving judgement
 * 과찬이세요; i'm so flattered
 * 전 곤경에 빠져 있어요; i've been in a rut
