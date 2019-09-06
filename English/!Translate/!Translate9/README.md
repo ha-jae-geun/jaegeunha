@@ -1,3 +1,12 @@
+# [ 일상을 영어로 말하기 ] - "곧 생일인 친구 줄 선물을 샀어요"
+* "곧 생일인 친구가 있어서 
+	* i have a friend whose birthday is coming up
+* 어제 나가서 친구 줄 선물을 샀어요. 
+	* And yesterday i went out and got him a gift
+* 사실 그의 생일은 다음 달인데; Actually his birthday is next month
+* 걔가 곧 해외출장을 나가서 떠나기 전에 주고 싶었어요."
+	* But He's going overseas on business soon so i wanted to give it to him before he left
+
 # [ 영어 연습가이드 ] - HARDCORE - considering / knowing / thinking + that
 * 이 집으로 이사 왔을 때부터 창문 하나에서 누수 문제를 그동안 겪어왔어요. 
 	* I've been having a leakage problem from one of m windows ever since i moved to this place
