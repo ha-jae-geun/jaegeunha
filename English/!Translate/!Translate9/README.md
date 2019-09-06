@@ -93,6 +93,8 @@
 * [명사] (비격식) (눈물을 흘리게 하는 감상적인) 최루성 영화[이야기 등] tear jerker 미국식 [ˈtɪrdʒɜːrkər]  영국식 [ˈtɪədʒɜːkə(r)]  단어장추가
 
 # 원어민
+* 일반상식 퀴즈; trivia 미국·영국 [ˈtrɪviə] quistion
+* 아슬아슬하게; In the nick of time
 * 좀 곤란한 질문이네; THat's a loaded question
 * 제가 도저히 가만히 있을수가 없어요; But i simply cannot contain myself
 * 판단을 보류할게요; i'm reserving judgement
