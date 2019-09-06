@@ -72,7 +72,10 @@ public class JavaTestMain {
 ```
 
 ## 리트코드 Longest Substring
-### 10ms
+### "abcabcbb" 의 부분 문자열은 "abc" 이며, 그 길이는 3이다.  
+"bbbbb" 의 부분 문자열은 "b" 이며, 그 길이는 1이다.  
+"pwwkew" 의 부분 문자열은 "wke" 이며, 그 길이는 3이다. "pwke” 는 부분문자열이 아니다.
+```java
 -  int i = 0, j = 0, max = 0;
         
 - Set<Character> set = new HashSet<>();
@@ -86,7 +89,7 @@ public class JavaTestMain {
 - }
 - }
 - return max;
- 
+ ```
 
 # Split 예제
 ```java
@@ -139,10 +142,8 @@ public class Ex15552 {
 }
 ```
 
-<<<<<<< HEAD
-```JAVA
-=======
 # float
+
 ```java
 >>>>>>> 9d36695573700a84269e824e296ddf461851e04c
 import java.util.Scanner;
