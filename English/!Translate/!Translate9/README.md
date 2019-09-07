@@ -94,10 +94,20 @@
 * [명사] (비격식) (눈물을 흘리게 하는 감상적인) 최루성 영화[이야기 등] tear jerker 미국식 [ˈtɪrdʒɜːrkər]  영국식 [ˈtɪədʒɜːkə(r)]  단어장추가
 
 # 원어민 
+* 신말 몇신니? What size shoe do you wear? What size shoe are you?
+* 망치로 벽에 못을 밖다; hammer a nail in(to) the wall
+* 정말 그렇네; 그러니까; I'll say
+* 놀라 자빠지는 줄 알았어; i was scard out of my pants
+* 가족의 전통을 이어나갔다; is carrying on the family tradition;; 진행하세요; Carry on / Go ahead
+* 이겨낼겅ㅇ;i 'll pull through it;  힘든 시간을 견디다: get through
+* 면접 때 좋은 첫인상을 못 준것 같아; i don't think i came across very well in the interview
 * 간결하게 말할게요; i'll keep it short and simple
 * 분명히 -했네; You were definitely +동사원형-ing
 * 아우 답답해!(어우 짜증 나) I'm so frustrated!
 	* 공기가 답답해; I feel stuffy.
+* 그것은 영국식 영주 주택의 전형이었다. It was the quintessence of an English manor house.   [kwɪnˈtesns]   [kwìntəsénʃəl] 
+* 나 -에서 인기 짱이야; i'm huge in -
+* 지금은 좋아졌어; it got under my skin
 * 우리에게 기회는 더 이상 없어; we don't stand a chance
 * 끼어들지마; TOm is always butting in
 * 뒷맛이 아예 없어; it doesn't have any aftertaste
