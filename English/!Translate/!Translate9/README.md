@@ -93,7 +93,11 @@
 * come 2형식: The work will come easy; come alikve/easy/loose/true/of age: 성인이 되다
 * [명사] (비격식) (눈물을 흘리게 하는 감상적인) 최루성 영화[이야기 등] tear jerker 미국식 [ˈtɪrdʒɜːrkər]  영국식 [ˈtɪədʒɜːkə(r)]  단어장추가
 
-# 원어민
+# 원어민 
+* 간결하게 말할게요; i'll keep it short and simple
+* 분명히 -했네; You were definitely +동사원형-ing
+* 아우 답답해!(어우 짜증 나) I'm so frustrated!
+	* 공기가 답답해; I feel stuffy.
 * 우리에게 기회는 더 이상 없어; we don't stand a chance
 * 끼어들지마; TOm is always butting in
 * 뒷맛이 아예 없어; it doesn't have any aftertaste
