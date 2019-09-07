@@ -54,6 +54,7 @@
 	* 통통한 편이다; He's a little chubby;  He's kind of chubby 
 
 # 중요
+* meat house: 고깃집 대신 정육점으로 오해 가능; 정육점 같은 곳인가요? butcher house
 * 엄청난 기회야; It's flipping/freaking opportunityy; 장난하는거야? Are you flipping kidding me?
 * 걘 그냥 모든 걸 다 훤히 알고싶어해; He's just like to keep on top of everythin
 	* keep on top (of): 훤히 알고 있다.
@@ -93,6 +94,16 @@
 * [명사] (비격식) (눈물을 흘리게 하는 감상적인) 최루성 영화[이야기 등] tear jerker 미국식 [ˈtɪrdʒɜːrkər]  영국식 [ˈtɪədʒɜːkə(r)]  단어장추가
 
 # 원어민
+* 우리에게 기회는 더 이상 없어; we don't stand a chance
+* 끼어들지마; TOm is always butting in
+* 뒷맛이 아예 없어; it doesn't have any aftertaste
+* 웃어 넘겼어요; i just laughed it off
+* 집사를 부를 거에요; we;'re gonna call the butler
+* 천식 흡입기; asthma inhaler
+	* 이거 먹으면 피곤해지나요? Will i get drowsy if i take this?
+* 너 발이 작구나; YOu have a tiny foot
+	* 발볼이 ㄴ럽어요; i have really wide feet
+* 끈이 묶여있는 모양이 좋아요; i love how they lace up
 * 일반상식 퀴즈; trivia 미국·영국 [ˈtrɪviə] quistion
 * 아슬아슬하게; In the nick of time
 * 좀 곤란한 질문이네; THat's a loaded question
