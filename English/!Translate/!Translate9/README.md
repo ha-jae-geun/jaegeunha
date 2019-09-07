@@ -94,6 +94,10 @@
 * [명사] (비격식) (눈물을 흘리게 하는 감상적인) 최루성 영화[이야기 등] tear jerker 미국식 [ˈtɪrdʒɜːrkər]  영국식 [ˈtɪədʒɜːkə(r)]  단어장추가
 
 # 원어민 
+* 제가 저주받았다는 사실을 언제 말해주려고 하셨어요? When are you going to tell me that i'm cursed?
+* 흔들어 드릴까요? 저어 드릴까요? Shaken or Stirred [stɜː(r)] 
+* 내가 그런거에 신경쓸 것 같아 보여요? Do i look like i give a damn?
+* 나는 내가 하는 말ㅇ느 지켜; i always deliver on what i say;  He always keepss his promise
 * 신말 몇신니? What size shoe do you wear? What size shoe are you?
 * 망치로 벽에 못을 밖다; hammer a nail in(to) the wall
 * 정말 그렇네; 그러니까; I'll say
