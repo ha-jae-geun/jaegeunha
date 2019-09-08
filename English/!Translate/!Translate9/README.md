@@ -93,7 +93,23 @@
 * come 2형식: The work will come easy; come alikve/easy/loose/true/of age: 성인이 되다
 * [명사] (비격식) (눈물을 흘리게 하는 감상적인) 최루성 영화[이야기 등] tear jerker 미국식 [ˈtɪrdʒɜːrkər]  영국식 [ˈtɪədʒɜːkə(r)]  단어장추가
 
+# 코어
+* watch 미국식 [wɑːtʃ;wɔːtʃ]
+
 # 원어민 
+* 경기장 안의 심판; refree [ˌrefəˈriː]; 테니스, 야구 등의 심판; umpire 미국·영국 [ˈʌmpaɪə(r)] 
+* 포상금을 걸엇다; set a finder's fee for something
+* 포상금을 늘리기 위해; to increase the reward
+* 장려금이 시행될 때; When incentives come into play
+* 눈 찌르지마; Don't poke her eye
+* 센불에서 볶아야 한다; STir-fry them quickly over high heat
+* 이건 악연이야; It's bad blood
+* 거의 30만원어치의 장을 본것 같아요; i think i bought almost 300 thousand won worth of groceries
+* 그냥 주제를 돌려; Just redirect the conversation
+* 오지랖좀 그만 부려!; STop being so nosy [ˈnoʊzi]
+	* 참겨하는 사람들 앞에서는 못버티겠더라; I can't stand any busybody
+* 바로 직전의 직업; Previous job; 이전 여러개 모두를 일컫는 직업; forrmer company
+* [명사] 하울((특정 브랜드나 특정 분야의 상품을 한꺼번에 많이 구입하는 것. 자신이 산 것을 자랑하고 설명하는 내용의 UCC에서 많이 쓰는 표현)); haul  [hɔːl]; shopping spree
 * 제가 저주받았다는 사실을 언제 말해주려고 하셨어요? When are you going to tell me that i'm cursed?
 * 흔들어 드릴까요? 저어 드릴까요? Shaken or Stirred [stɜː(r)] 
 * 내가 그런거에 신경쓸 것 같아 보여요? Do i look like i give a damn?
