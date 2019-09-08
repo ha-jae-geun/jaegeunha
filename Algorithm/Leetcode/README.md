@@ -161,3 +161,29 @@ public class GetMinMaxString2 {
 1. 문자열 + 숫자: 문자열
 String result = arrayInt[0] + " " + arrayInt[arrayInt.length - 1];
 ```
+
+
+# Longest Substring
+```java
+"abcabcbb" 의 부분 문자열은 "abc" 이며, 그 길이는 3이다.
+"bbbbb" 의 부분 문자열은 "b" 이며, 그 길이는 1이다.
+"pwwkew" 의 부분 문자열은 "wke" 이며, 그 길이는 3이다. "pwke” 는 부분문자열이 아니다.
+```
+
+```java
+public int lengthOfLongestSubstring(String s) {
+    int i = 0, j = 0, max = 0;
+    Set<Character> set = new HashSet<>();
+    
+    while (j < s.length()) {
+        if (!set.contains(s.charAt(j))) {
+            set.add(s.charAt(j++));
+            max = Math.max(max, set.size());
+        } else {
+            set.remove(s.charAt(i++));
+        }
+    }
+    
+    return max;
+}
+```
