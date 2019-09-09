@@ -54,6 +54,11 @@
 	* 통통한 편이다; He's a little chubby;  He's kind of chubby 
 
 # 중요
+* 개발자 영어; * 그렇게 볼 수도 있겠네; THat's another way of looking at it
+	* 당신은 정말로 나를 곤경에 빠트렸었다. You really threw me under the bus. 듣기
+	* 무슨일이 있더라도; Whatever it takes, you stop them
+	* 앞에서 말한 것을 상쇄(반전)시켜주는 접속; THat said; With that said = with that being said
+		* That said, there are a few client concerns. 
 * meat house: 고깃집 대신 정육점으로 오해 가능; 정육점 같은 곳인가요? butcher house
 * 엄청난 기회야; It's flipping/freaking opportunityy; 장난하는거야? Are you flipping kidding me?
 * 걘 그냥 모든 걸 다 훤히 알고싶어해; He's just like to keep on top of everythin
@@ -99,7 +104,25 @@
 * watch 미국식 [wɑːtʃ;wɔːtʃ]
 
 # 원어민 
-* 거식증; anorexia 미국식 [ˌænəˈreksiə] 
+* 너희의 커플 이름을; YOur guy's hip name; -ship: 어떤 상태, 특징을 나타내는데 사용
+* 말 잘 듣고있어; Be good
+* 유치원생들은 아니니까요; SInce we're not kindergartens
+* 그런 표정 짓지말고; Don't give me that look
+* 묘기 몇개만 보여줄 수 있어? Can you show them some tricks?
+* 남은 여생동안 감옥에 갇히게 됐어; Jay's put behind bars for the rest of his life now
+* 실업률이 8%로 사ㅏㅇ승했어; The unemployment rate ticked up to 8% in August
+* 편집증이 있어요; i'm paranoid  [ˈpærənɔɪd] 
+* 거만해졌어요; my head is swollen
+* 잡티 없애주는 세럼 찾아요; i'm looking for a serum that reduces blemishes
+* 그는 프로젝트를 지휘(주도)하는 ㅏ람이야; He's the one spearheading the project; 창 머리
+
+* 그는 다음주에 캠페인을 시작할 계획이래; He plans to roll out the campain next week
+* 그는 사고에 대해 말할 때 마다 늘 목이 메인다/울컥하다; He **chokes up** whenever the tries to talk about hte accident
+* 우리는 빠른 춤에/템포에 맞춰 춤췄다; we danced to the fast music / fast tempo
+	* 선생님을 따라하며 춤췄다; dance along with the teacher
+	* dance with someone
+	* 궁금증이 풀렸어; Mystery solved  [ˈmɪstri]
+* 거식증; anorexia 미국식 [ˌænəˈreksiə]; He had anorexia
 * - 나는 입맛을 돋우기 위해 그것을 봐I watch it to work up an appetite.
 * - 나는 누설하지 않을거야. 약속할게. I will not give it away. I promise.
 	* - 불에서 나는 연기는 그들의 위치를 적에게 드러냈다. The smoke from the fire gave their position away to the enemy.
