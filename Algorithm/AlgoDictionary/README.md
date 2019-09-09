@@ -12,6 +12,13 @@ divArray.get(i).intValue();
 2. Collections.reverse(Arrays.asList(array));
 ```
 
+
+## ArrayList의 숫자 + 문자
+```java
+1. 문자열 + 숫자: 문자열
+String result = arrayInt[0] + " " + arrayInt[arrayInt.length - 1];
+```
+
 <hr/>
 
 
@@ -56,6 +63,28 @@ String.join("", array);
 ```java
 String.join("", array);
 ```
+
+## substring
+```java
+1. substring(앞, 뒤) 는 뒤에 있는 숫자의 위치를 포함하지 않는다.
+```
+
+## ArrayList의 숫자 + 문자
+```java
+1. 문자열 + 숫자: 문자열
+String result = arrayInt[0] + " " + arrayInt[arrayInt.length - 1];
+```
+
+
+# Hashset
+## 
+```java
+Set<Character> set = new HashSet<>();
+if (!set.contains(s.charAt(j))) {
+      set.add(s.charAt(j++));
+```
+
+
 
 <hr/>
 
