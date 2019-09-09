@@ -97,6 +97,15 @@
 * watch 미국식 [wɑːtʃ;wɔːtʃ]
 
 # 원어민 
+* 나무가 공원 벤치를 그늘지게 하고있다; THe tree is shading the park bencehs
+* 마음을 다해 노래부르다; SIng your heart out with all of your love
+* 훈련 되어있어요; 악수; He's trained, shake
+* 월요일이 더 좋아요; Monday works best for me
+* 여러분은 두령뭉르 몰라요; You are fearless
+* 토마토가 목에 걸리다; i've choked on a tomato
+* 현혹되지마; DOn't be mislead
+* 별똥별을 잡았단 그떄를 ;When we caught a shooting star
+* 누가 내 낙서 메모장 여기다가 갖다 놨어? Who moved my doodle pad way over here?
 * 경기장 안의 심판; refree [ˌrefəˈriː]; 테니스, 야구 등의 심판; umpire 미국·영국 [ˈʌmpaɪə(r)] 
 * 포상금을 걸엇다; set a finder's fee for something
 * 포상금을 늘리기 위해; to increase the reward
