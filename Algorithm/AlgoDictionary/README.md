@@ -9,7 +9,7 @@ divArray.get(i).intValue();
 ## ArrayList 순서 뒤집기
 ```java
 1. Collections.sort(temp, Collections.reverseOrder());
-2. Collections.reverse(Arrays.asList(array));
+2. Collections.reverse(리스트)
 ```
 
 
@@ -23,6 +23,11 @@ String result = arrayInt[0] + " " + arrayInt[arrayInt.length - 1];
 
 
 # 배열
+## 배열 순서 뒤집기
+```java
+Collections.reverse(Arrays.asList(array));
+```
+
 ## 스트링 배열을 스트링으로
 ```java
 String.join("", array);
