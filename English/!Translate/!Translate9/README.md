@@ -97,6 +97,10 @@
 * watch 미국식 [wɑːtʃ;wɔːtʃ]
 
 # 원어민 
+* 거식증; anorexia 미국식 [ˌænəˈreksiə] 
+* - 나는 입맛을 돋우기 위해 그것을 봐I watch it to work up an appetite.
+* - 나는 누설하지 않을거야. 약속할게. I will not give it away. I promise.
+	* - 불에서 나는 연기는 그들의 위치를 적에게 드러냈다. The smoke from the fire gave their position away to the enemy.
 * 나무가 공원 벤치를 그늘지게 하고있다; THe tree is shading the park bencehs
 * 마음을 다해 노래부르다; SIng your heart out with all of your love
 * 훈련 되어있어요; 악수; He's trained, shake
