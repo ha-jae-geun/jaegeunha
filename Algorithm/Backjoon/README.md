@@ -1,10 +1,77 @@
 # 완전탐색
 ## 1, 2, 3 더하기(9095)
+```java
+import java.util.Scanner;
+ 
+public class Baekjoon9095 {
+ 
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        
+        int t = scanner.nextInt();
+        int n;
+        
+        int[] output = new int[11]; //동적으로 생성시키니 메모리 초과가 되서 정적으로 선언
+        output[1] = 1; // 1을 넣을 경우 경우의 수 1가지(1)
+        output[2] = 2; // 2를 넣을 경우 경우의 수 2가지(1+1, 2)
+        output[3] = 4; // 3을 넣을 경우 경우의 수 3가지 (1+1+1, 1+2, 2+1, 3)
+        
+        for(int i=0; i<t; i++){
+            n = scanner.nextInt();
+            
+            for(int j=4; j<=n; j++){
+                output[j] = output[j-1] + output[j-2] + output[j-3];
+            }
+            System.out.println(output[n]);
+        }
+        
+ 
+    }
+ 
+}
+
+```
+
 
 ## 리모컨(1107)
 
 
 ## 날짜계산(1476)
+```java
+import java.util.Scanner;
+ 
+public class Main {
+    public static void main(String args[]) {
+        Scanner sc = new Scanner(System.in);
+        final int E = sc.nextInt();
+        final int S = sc.nextInt();
+        final int M = sc.nextInt();
+        int e = 1;
+        int s = 1;
+        int m = 1;
+        for (int i=1 ; ; i++) {
+            if (e == E && s == S && m == M) {
+                System.out.println(i);
+                break;
+            }
+            e++;
+            s++;
+            m++;
+            if (e == 16) {
+                e = 1;
+            }
+            if (s == 29) {
+                s = 1;
+            }
+            if (m == 20) {
+                m = 1;
+            }
+        }
+    }
+}
+
+[출처](https://appree.tistory.com/6)
+```
 
 
 ## 차이를 최대로
