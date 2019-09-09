@@ -94,6 +94,8 @@
 * [명사] (비격식) (눈물을 흘리게 하는 감상적인) 최루성 영화[이야기 등] tear jerker 미국식 [ˈtɪrdʒɜːrkər]  영국식 [ˈtɪədʒɜːkə(r)]  단어장추가
 
 # 코어
+* police[puhㆍlees]; 강세 뒤 [pəˈliːs] please 미국·영국 [pliːz]
+	* The police are here
 * watch 미국식 [wɑːtʃ;wɔːtʃ]
 
 # 원어민 
