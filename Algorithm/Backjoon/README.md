@@ -33,8 +33,6 @@ public class Baekjoon9095 {
 ```
 
 
-## 리모컨(1107)
-
 
 ## 날짜계산(1476)
 ```java
@@ -70,12 +68,14 @@ public class Main {
     }
 }
 
-```
 [출처](https://appree.tistory.com/6)
+```
 
 
-## 차이를 최대로
-* 10819
+
+## 리모컨(1107)
+
+
 
 ## 외판원순회
 * 10971
@@ -87,6 +87,71 @@ public class Main {
 
 <hr/>
 
+# 순열
+## 차이를 최대로(10819)
+```java
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.StringTokenizer;
+
+public class Main { // 순열구하기
+	static int max =0; 
+	public static void perm(int[] a, int depth, int n){
+		if(depth==n){
+			sum(a, n);
+			return;
+		}
+		for(int i=depth; i<n; i++){
+			swap(a, i, depth);
+			perm(a, depth+1, n);
+			swap(a, i, depth);
+		}
+	}
+	
+	
+	static void swap(int[] a, int depth, int n) {
+		int temp = a[depth];
+		a[depth] = a[n]; 
+		a[n] = temp;
+		
+	}
+
+
+	static void sum(int[] a, int k) {
+		int sum =0;
+		for (int i = 2; i <= k; i++) { 
+			sum += Math.abs(a[i-2]-a[i-1]);
+		}
+		if(max<sum){
+			max = sum;
+		}
+
+	}
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		int n = Integer.parseInt(br.readLine());
+		int num[] = new int [n];
+		String number = br.readLine();
+		StringTokenizer st = new StringTokenizer(number, " ");
+		for(int i =0; i<n; i++){
+			num[i] = Integer.parseInt(st.nextToken());
+		}
+		perm(num, 0, n);
+		System.out.println(max);
+
+		
+		
+		
+	}
+}
+
+순열을 구하는 문제는 그냥 perm()함수와 swap()함수 이 두개를 동시에 가져가면 좋습니다. 이 알고리즘은 자리를 perm는 말그대로 순열을 만드는 문제고, swap은 그 배열안의 모든 원소들을 자리 이동하는 함수이므로, 그것을 잘 섞어서 연결해주면 됩니다.
+
+출처: https://sundries-in-myidea.tistory.com/5 [DesiProm]
+```
+
+<hr/>
 
 
 # 큐(BFS)
