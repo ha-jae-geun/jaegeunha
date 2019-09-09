@@ -96,6 +96,10 @@ class Divisible {
 }
 ```
 
+```java
+1. ArrayList 값 가져오기 divArray.get(i).intValue();
+```
+
 # 가운데 글자 가져오기
 ```java
 getMiddle메소드는 하나의 단어를 입력 받습니다.
