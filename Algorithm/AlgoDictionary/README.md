@@ -54,7 +54,9 @@ String.join("", array);
 - }
 ```
 
+
 <hr/>
+
 
 # String
 ## String형 뒤집기
@@ -81,6 +83,9 @@ String result = arrayInt[0] + " " + arrayInt[arrayInt.length - 1];
 ```
 
 
+<hr/>
+
+
 # Hashset
 ## 
 ```java
@@ -92,6 +97,8 @@ if (!set.contains(s.charAt(j))) {
 
 
 <hr/>
+
+
 
 # StringTokenizer
 ## 함수
