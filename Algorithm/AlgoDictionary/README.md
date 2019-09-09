@@ -1,3 +1,23 @@
+# Array
+## copyOf
+```java
+Arrays.copyOf(원본배열, 복사할 길이);
+
+Arrays.copyOfRange(원본 배열, 복사할 시작인덱스, 복사할 끝인덱스) 인덱스는 0부터 시작하는것 기준
+```
+
+# Collections
+## reverse
+```java
+1. Collections.sort(temp, Collections.reverseOrder());
+2. Collections.reverse(리스트)
+```
+
+## 배열 순서 뒤집기
+```java
+Collections.reverse(Arrays.asList(array));
+```
+
 
 # ArrayList
 
@@ -82,12 +102,19 @@ String.join("", array);
 String result = arrayInt[0] + " " + arrayInt[arrayInt.length - 1];
 ```
 
+## charat
+```java
+Set<Character> set = new HashSet<>();
+if (!set.contains(s.charAt(j))) {
+      set.add(s.charAt(j++));
+```
+
 
 <hr/>
 
 
 # Hashset
-## 
+## charat
 ```java
 Set<Character> set = new HashSet<>();
 if (!set.contains(s.charAt(j))) {
