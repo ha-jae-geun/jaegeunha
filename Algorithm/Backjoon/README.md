@@ -70,8 +70,8 @@ public class Main {
     }
 }
 
-[출처](https://appree.tistory.com/6)
 ```
+[출처](https://appree.tistory.com/6)
 
 
 ## 차이를 최대로
