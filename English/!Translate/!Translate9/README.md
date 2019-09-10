@@ -1,3 +1,16 @@
+# [ 영어 연습가이드 - HARDCORE ] How much is your time worth?
+* **많은 것이 그렇듯이**, 우리의 방식과 생각을 더 발전시켜야 하며 단순히 ‘덜 쓰기’수준에서 ‘시간을 더 잘 활용하기'의 방향으로 나아갈 필요가 있다.
+	*  But, as with many things, we need to improve our methods and our thinking beyond the level of simply 'spending less' and more towards 'making better use of our time'.
+* **물론, TV가 나쁘다는 것은 아니지만**
+	* That's not to say that watching TV is all bad but 
+* 단순히 여기저기서 덜 쓰는 것만으로는 부족해 보인다.
+	*  doesn't seem like it's going to cut it; cut it: 부정적 역할
+* 더 좋은 습관과 생활방식에 적응하는 등의 더 정교한 계획이 필요할지도 모른다."
+	*  Perhaps it requires a more sophisticated approach like adjusting to new habits and lifestyles."
+	* approach: 
+
+
+
 # [ 일상을 영어로 말하기 ] - "곧 생일인 친구 줄 선물을 샀어요"
 * "곧 생일인 친구가 있어서 
 	* i have a friend whose birthday is coming up
