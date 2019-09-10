@@ -117,6 +117,8 @@
 * watch 미국식 [wɑːtʃ;wɔːtʃ]
 
 # 원어민 
+* -로 가주세요; 1. - please 2. Can you take me to this address
+	* 조금 빨리 가주시겠어요; Please step on it, <> COuld you slow down?
 * 너희의 커플 이름을; YOur guy's hip name; -ship: 어떤 상태, 특징을 나타내는데 사용
 * 말 잘 듣고있어; Be good
 * 유치원생들은 아니니까요; SInce we're not kindergartens
