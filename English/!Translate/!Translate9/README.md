@@ -1,3 +1,13 @@
+# [ 기초영어회화 - 일상을 영어로 말하기 ] "얘기하는 것을 좋아하는 이웃"
+* "저한테 어떤 이웃이 한 명 있는데요, 여자분이요.  "I have **this** neighbor. A woman.
+	* this; 이야기를 시작하기 전에 관사 대신에 사용
+* 제 나이 쯤 되는 것 같은데,  I think she's around my age
+* 이상하게, 제가 어디 나가는 길일 때 저를 멈춰 세워놓고 그다지 중요하지 않은 이런 저런 얘기를 계속 하세요.  and she has this really weird habbit of stopping me when I'm on my way out to talk about just random things/stuff that aren't really that important. 
+	* have habbit of
+* 바쁘다고 말해봤지만 그냥 얘기하는걸 정말 좋아하시는 것 같아요."  I've tried telling her that I was busy but I think she just really likes to talk."
+
+
+
 # [ 영어 연습가이드 - HARDCORE ] How much is your time worth?
 * **많은 것이 그렇듯이**, 우리의 방식과 생각을 더 발전시켜야 하며 단순히 ‘덜 쓰기’수준에서 ‘시간을 더 잘 활용하기'의 방향으로 나아갈 필요가 있다.
 	*  But, as with many things, we need to improve our methods and our thinking beyond the level of simply 'spending less' and more towards 'making better use of our time'.
