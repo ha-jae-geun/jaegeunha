@@ -127,6 +127,8 @@
 * watch 미국식 [wɑːtʃ;wɔːtʃ]
 
 # 원어민 
+* 감자튀김처럼 생긴 감자칩 과자라고; These are crips that look like chips
+* 최고야; Off the charts
 * 요즘 그녀가 이유없이 비난받고 있어; (어굴한 형별, 실제로 나ㅡ지 않는데 사람들에게 비난)
 	* She has been getting sort of a **bad rap** lately
 * 내가 꼭 휴대전화에 구속된 것 같아; I feel like i'm tied to my phone
