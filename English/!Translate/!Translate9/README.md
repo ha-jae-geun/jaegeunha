@@ -117,6 +117,21 @@
 * watch 미국식 [wɑːtʃ;wɔːtʃ]
 
 # 원어민 
+* 요즘 그녀가 이유없이 비난받고 있어; (어굴한 형별, 실제로 나ㅡ지 않는데 사람들에게 비난)
+	* She has been getting sort of a **bad rap** lately
+* 내가 꼭 휴대전화에 구속된 것 같아; I feel like i'm tied to my phone
+* 당신은 모든 것을 싸움으로 만드려고 하는군요; You are turning everything into a fight
+* 당신들도 어떻게 하는 건지 알고있잖아, 그렇지? You guys know the drill, huh? 듣기
+* -를 받고있는데요; we've been getting submissions
+* 새로운 관점에서 보려고 해봐; Look for a new angle
+* 바퀴가 돌아가면서 동전들은 홈에 빠져요; As the wheel [wiːl] turns, the coins fall in the slots
+* 콘센트; Socket, Outlet, Plug-in
+	* 연견설은 끌어와야겠어요; i'm gonna have to run an extension lead from over there
+* 나 너무 망가졌어; i'm a wreck
+* 나는 모든지 할 수 있어; 야만인; i'm a savage
+* 좀 불편한 질문인가요? Is that a morbid question?
+* 보조개 이쁘네; have nice dimples
+* 다 모이세요; 다 나오지 안하요; Get closer together. you're not fitting in to the photo
 * -로 가주세요; 1. - please 2. Can you take me to this address
 	* 조금 빨리 가주시겠어요; Please step on it, <> COuld you slow down?
 * 너희의 커플 이름을; YOur guy's hip name; -ship: 어떤 상태, 특징을 나타내는데 사용
