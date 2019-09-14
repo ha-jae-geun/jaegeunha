@@ -129,6 +129,25 @@
 * watch 미국식 [wɑːtʃ;wɔːtʃ]
 
 # 원어민
+* ＊ He’s a blokey bloke = 그는 상남자에요
+	* = 나는 상남자 스타일이 좋더라. I like blokey blokes.
+* 사람이 다양한 방면에 경험이나 능력을 갖췄다면 well-rounded 라고 말할 수 있어요. 이 단어는 다양한 면이 있는 매력있는 사람이라는 느낌을 주죠.
+	* =그녀는 다양한 면이 있는 젊은 여성이에요. She's a well-rounded young woman.
+* * speak out = (의견을) 공개적으로 말하다
+	* =넌 지금 제대로 말해야 돼. You should speak out now.
+* * wear one's heart on one's sleeve = 감정을 솔직하게 드러내다 감정을 숨기지 않고 겉으로 다 드러내는 것을 지칭하는 표현이에요. 셰익스피어의 오셀로에 나왔던 말로, 소매에 심장을 달고 다니듯 내 마음을 훤히 내보이는 것을 의미하죠.
+	* =그는 감정을 다 드러내잖아. He wears his heart on his sleeve. 
+* train wreck = 대참사, 만신창이, 엉망진창
+* = 그는 파티 분위기를 더 내기 위해 음악을 틀었다. He turned on some music to juice up the party
+* 처음 만난 사람인데도 죽이 척척 잘 맞을 때가 있죠? 그렇게 서로 잘 맞는 것을 동사 vibe로 표현해요. 요즘 자주 쓰는 단어죠.
+	* =나랑 그녀는 바로 잘 맞았어. Me and her, we just vibed.
+* jump out 은 누군가의 눈에 금방 띈다는 의미로 주어는 눈에 띄는 특징이에요. 영상에서는 on 이라고 들리지만 [jump out at 사람] 가 보통 쓰이는 패턴이에요.
+	* = 그 헤드라인이 내 눈에 확 띄었다. The headline jumped out at me.
+* ＊ channel 인물 = ~가 되다, ~처럼 행동하다; 약간 ‘접신’하고 느낌이 가까워요. 온전히 그 사람이 되어서 그렇게 행동한다는 의미죠. 실제로 귀신에 씌였다거나, 영상처럼 특정 캐릭터가 되어 연기/행동한다고 할 때 써요.
+	* = 내면에 잠든 비욘세를 깨워봐! (비욘세처럼 멋진 모습을 보여주라는 뜻) Channel your inner Beyoncé!
+* ＊ Shut the front door = 웃기지 마, 입닥쳐
+* 연예인 실제로 본 적 있어? Have you seen any movie stars in person?
+* 그들의 관계는 악화되기 시작했다; Their relationship began to go south
 * 가장 멋진 연주자에요; This is the sassiest sax play i've ever seen
 * 그렇다면 고려해 볼게; in that case, I'll consider it
 * 신께 용서를 빌어; Pary to God for forgiveness
