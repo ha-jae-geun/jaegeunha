@@ -122,11 +122,41 @@
 * [명사] (비격식) (눈물을 흘리게 하는 감상적인) 최루성 영화[이야기 등] tear jerker 미국식 [ˈtɪrdʒɜːrkər]  영국식 [ˈtɪədʒɜːkə(r)]  단어장추가
 
 # 코어
+* diamond; a 발음 안하고 다이-먼드; 흙속의 진주; diamond in the rough
+* saxophone 미국식 [-foʊn]  영국식 [ˈsæksəfəʊn]  그냥 sax 발음 가늗
 * police[puhㆍlees]; 강세 뒤 [pəˈliːs] please 미국·영국 [pliːz]
 	* The police are here
 * watch 미국식 [wɑːtʃ;wɔːtʃ]
 
-# 원어민 
+# 원어민
+* 가장 멋진 연주자에요; This is the sassiest sax play i've ever seen
+* 그렇다면 고려해 볼게; in that case, I'll consider it
+* 신께 용서를 빌어; Pary to God for forgiveness
+* 다른 탈북자들은; Other defectors
+* 그 와인은 이름값을 제대로 못했다; Thew ine didn't live up to its name
+* 그는 예전 여자친구를 피하며 일한다. He works around his ex-girl friend. 
+	* work around: …을 피하며 일하다
+* 임신 후기이다; i am now in my third trimester [traɪˈmestə(r)] 
+* 오늘 일찍 퇴근할거야; i'm going to clock out early today
+* 이 버전에 만족해야겠네요; i'll have to settle for this previous version
+* 다인승 차량을 탄쓴데; HOV four lane thing; HOV(High Occupancy Vehicle)
+* 학교 행사에 그거 입고 가줘; Wear it for the assembly
+* 속눈썹; Lashees, 쎈캐/남들이 뭐라 해도 신경 쓰지 않는: savage
+* 음주단속에 안 걸리다; beat a breathalyzer test
+	* 난 무적이 아니에요; i'm not invincible  [ɪnˈvɪnsəbl]
+* 발자국과 추억들; All the traces and reminiscense 
+* 그저 산성비였을뿐; YOu were just acid rain  [ˈæsɪd]
+* 모태솔로 forever alone
+* 영화관 1관; Theater one
+* (과일) 껍질이 질겨서; The skin's a lot harder
+* 내게 편지를 소리 내어 읽어 주겠니?? Could you read the letter out loud for me?
+* 난 그 결정이 괜찮다고 생각해; i'm pretty chill with that decision;
+	* chill with: -를 크게 신경쓰지 않다.
+* 도둑을 잡다; arrest/catch/seize/capture a thief
+* 비눗방울을 불고 있다; blowing bubbles
+* 애타게 하는 법을 알고 있다; know how to tantalize
+* 옆구리 결려오고 있따; i'm having side stitches right now
+* 그들은 자녀들에게 좋은 교육을 시키기 위해 절약해서 저축을 했다. They scrimped and saved to give the children a good education. 
 * 감자튀김처럼 생긴 감자칩 과자라고; These are crips that look like chips
 * 최고야; Off the charts
 * 요즘 그녀가 이유없이 비난받고 있어; (어굴한 형별, 실제로 나ㅡ지 않는데 사람들에게 비난)
