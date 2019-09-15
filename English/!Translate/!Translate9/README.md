@@ -129,6 +129,8 @@
 * watch 미국식 [wɑːtʃ;wɔːtʃ]
 
 # 원어민
+* 셋 하면 뛰어; Jump on three; 도서관이었어요; It used to be a library
+* 위층에 예술 전시회가 있어요; Upstairs, there is usually art exhibit
 * 모둠 빵 요리로 주문할게요; i'll have the bread platter; platter: 서빙용 큰접시
 * 총 얼마에요? what's my total
 * ＊ He’s a blokey bloke = 그는 상남자에요
