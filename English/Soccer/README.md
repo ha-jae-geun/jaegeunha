@@ -1,3 +1,7 @@
+## 영어
+* PTA(Prime Target Area): 축구에서 골이 가장 많이 나는 위치(페널트킥박스 안)
+* brace: 멀티골; hit brace
+
 # 실전
 
 ## 헤딩
