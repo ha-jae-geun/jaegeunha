@@ -129,6 +129,12 @@
 * watch 미국식 [wɑːtʃ;wɔːtʃ]
 
 # 원어민
+* 흑역사; Dark chapter
+* 내숭떤다; She acted coy; coy 미국·영국 [kɔɪ] 
+* 제사지냈어; We had a memorial ritual  [ˈrɪtʃuəl]
+* My French got so rusty these days! I should hit the books right away! 나 프랑스어 감을 완전 잃었어!  지금 당장 공부해야겠어.
+* Oops, I made a terrible mistake..... I think I maxed out all my credit cards.  윽, 나 신용카드 전부 한도 초과된 것 같아... 망했다.
+	* We totally maxed out after four hours of cycling. 우리는 3시간 동안 자전거를 타느라 완전히 진이 다 빠져버렸어요.
 * 셋 하면 뛰어; Jump on three; 도서관이었어요; It used to be a library
 * 위층에 예술 전시회가 있어요; Upstairs, there is usually art exhibit
 * 모둠 빵 요리로 주문할게요; i'll have the bread platter; platter: 서빙용 큰접시
