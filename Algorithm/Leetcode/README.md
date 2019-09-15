@@ -1,3 +1,52 @@
+# 이진검색트리의 기본 성질, LC 530. Minimum Absolute Difference in BST
+```java
+Given a binary search tree with non-negative values, find the minimum absolute difference between values of any two nodes.
+
+Example:
+
+Input:
+
+   1
+    \
+     3
+    /
+   2
+
+Output:
+1
+
+Explanation:
+The minimum absolute difference is 1, which is the difference between 2 and 1 (or between 2 and 3).
+```
+* [홈페이지](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)
+
+## 풀이
+```java
+public class Solution {
+    
+    int minDiff = Integer.MAX_VALUE;
+    TreeNode prev;
+    
+    public int getMinimumDifference(TreeNode root) {
+        inorder(root);
+        return minDiff;
+    }
+    
+    public void inorder(TreeNode root) {
+        if (root == null) return;
+        inorder(root.left);
+        if (prev != null) minDiff = Math.min(minDiff, root.val - prev.val);
+        prev = root;
+        inorder(root.right);
+    }
+
+}
+```
+
+## 팁
+* 이진트리는 inorder 정리하면 오름차순 정리가 된다.
+
+
 # 문자열 내림차순으로 배치하기 (java)
 ```java
 reverseStr 메소드는 String형 변수 str을 매개변수로 입력받습니다. 
