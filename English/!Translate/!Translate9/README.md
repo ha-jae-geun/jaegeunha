@@ -129,6 +129,8 @@
 * watch 미국식 [wɑːtʃ;wɔːtʃ]
 
 # 원어민
+* 모둠 빵 요리로 주문할게요; i'll have the bread platter; platter: 서빙용 큰접시
+* 총 얼마에요? what's my total
 * ＊ He’s a blokey bloke = 그는 상남자에요
 	* = 나는 상남자 스타일이 좋더라. I like blokey blokes.
 * 사람이 다양한 방면에 경험이나 능력을 갖췄다면 well-rounded 라고 말할 수 있어요. 이 단어는 다양한 면이 있는 매력있는 사람이라는 느낌을 주죠.
