@@ -129,6 +129,19 @@
 * watch 미국식 [wɑːtʃ;wɔːtʃ]
 
 # 원어민
+* 두 가지 중 하나를 선택하는 어감이에요. 하나를 안하고 다른 하나를 선택한다는 의미여서 ‘~쪽을 택하다’에 가깝죠.
+	* - opt for ⓝ : ~쪽을 택하다 - opt against ⓝ : ~쪽을 택하지 않다 - opt to ⓥ : ~하기로 택하다
+	* = 난 주황색으로 했어. I opted for the orange one.
+* = 채소는 보통 칼로리 함량이 적어. Vegetables generally are low in calories.
+* 이기다(win)와 이겨버리다(win out)은 다르죠. win out 은 고난 끝에 결국 이긴다는 의미예요. 더 강력하기 때문에 결국 그 쪽이 승리하는 거지요.
+	* = 결국 정직함만이 승리한다. Honesty will win out in the end.
+* ＊ Hygge = 휘게; ‘휘게’를 들어보셨나요? 전 세계적으로 유행하고 있는 휘게는 ‘편안함, 안락함’을 의미해요. 덴마크 사람들의 행복 요소 중 하나죠. 그리고 영어로 발음은 [후거/휴거] 라고 해요. 왠지 우리말의 ‘휴가’처럼 들리는 것이 역시 휴가는 행복입니다..
+	* = 휘게 라이프를 추구하기로 결심했어. I’ve decided to pursue a hygge lifestyle.
+* ＊ see in 사람 = ~의 점을 보다
+	* = 난 항상 사람들의 장점을 볼려고 노력해. I always try to see the good in people.
+* * red letter = 추억, 특별함 기억해야 할 중요한 내용이 있으면 빨간 글자로 표시하곤 하죠? red letter은 특별하고 감동적인 시간을 뜻하는 표현이에요.
+	* =어제는 나에겐 확실히 엄청난 날이였지. Yesterday was a definitely red letter day for me.
+* 참고로 인터넷, 사전 등에서 ‘찾아보다’라고 할 때 look up 을 써주세요. find, search 보다 look up 을 원이민들이 잘 쓰는 구어체에요.
 * 흑역사; Dark chapter
 * 내숭떤다; She acted coy; coy 미국·영국 [kɔɪ] 
 * 제사지냈어; We had a memorial ritual  [ˈrɪtʃuəl]
