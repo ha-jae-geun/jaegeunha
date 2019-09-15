@@ -509,6 +509,19 @@
 * s뒤에 tpk 								된소리가 난다. ; spinner
 * #sh; 입을 쭉 내밀고 쉬; shy, shine, wash
 
+# l
+* light L: 단어 첫 글자 혹은 모음 바로 앞에 L이 있을 때
+  * 혀를 위쪽 앞니 뒤에 놓고 목젖에 떨림; 그리고 혀를 내리면서 소리를 내면 됨; It looks like this
+ * Dark L: 단어 마지막 글자 혹은 자음 바로 앞에 L이 있을 때
+  * 입술을 모으고 혀는 입 안 뒤쪽으로 당기기; 혀는 어디에도 닿지 않는다.
+  * **Tell** me about the **email**
+  * I **told** you i was **bald**
+  * She's got a **cold**
+  * She **pulled** him back
+  * It's a small world
+ 3. Dark L이 Small L로 변함
+  * 만약 뒤에 오는 단어가 모음으로 시작된다면 Light L 발음 사용
+    * fall만 나오면 Dark L; fall over은 small
 
 # s
 * 원래 s: 혀를 이 사이에 위치; 
