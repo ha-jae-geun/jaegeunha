@@ -18,7 +18,7 @@
 * 옆에 서있다; loading / unloading
 * 기둥: columns = pillars
 * 남자의 기타가 벤치에 기대어져 있다. The man's guitar is propped against a bench. 듣기 출처:YBM
-
+* 사다리가 옆으로 놓여있따; A ladder is being held sideways; He's holding a ladder sideways
 
 # part4
 * 수태시; 영어에서는 수가 매우 중요
