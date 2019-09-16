@@ -129,6 +129,19 @@
 * watch 미국식 [wɑːtʃ;wɔːtʃ]
 
 # 원어민
+* 알람이 울리지 않아서 늦잠을 잤다; I overslept because my alarm didn't go off
+* 독학했다; i learned korean on my own
+* 가을 맞이로 쇼핑을 엄청 많이 했기 때문에; i did a huge clothing haul for upcoming autumn
+* 애호박전; pan-fried battered zuccinni
+	* pan-fried: 팬에 구운; battered: 계란물을 입힌 반죽
+* 시간이 다 되었다; TIme is up
+	* 시간이 없다; The clock is ticking; we are running out of time
+* 난 죽지 않아; i'm immortal
+* 좀 비켜봐; Move over
+* 나 간지럼 ㅇ나타; i'm not ticklish
+* 우리 모두 여기 무사히 왔잖아; we're all here together safe and sound
+* 이것이 바로 자연의 섭리지; It's the circle of life
+* 가능성이 없겠죠; OYu didn't stand a chance
 * 두 가지 중 하나를 선택하는 어감이에요. 하나를 안하고 다른 하나를 선택한다는 의미여서 ‘~쪽을 택하다’에 가깝죠.
 	* - opt for ⓝ : ~쪽을 택하다 - opt against ⓝ : ~쪽을 택하지 않다 - opt to ⓥ : ~하기로 택하다
 	* = 난 주황색으로 했어. I opted for the orange one.
