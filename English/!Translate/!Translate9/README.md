@@ -129,6 +129,15 @@
 * watch 미국식 [wɑːtʃ;wɔːtʃ]
 
 # 원어민
+* 과속으로 걸렸어; i was pulled over for - speeding
+* 상황이 악화되기 시작했어; everything started going downhill
+* book smart(s) = 책에서 배운 지식이 많은, 책에서 배운 지식
+	* 가끔 공부는 잘하는데, 실생활에서는 전혀 똑똑하다는 느낌이 들지 않는 사람들이 있죠. 그런 사람들을 보고 'book smart' 하다고 표현해요. 꼭 부정적인 느낌으로만 쓰일 필요는 없지만, 대체로 '공부만 잘한다' 는 말을 하고 싶을 때 자주 쓰는 편이랍니다. 형용사로도, 명사로도 쓰일 수 있으니 알아두세요!
+	* 반대로는 'street smart' 라는 표현이 있어요. 공부를 딱히 잘하진 않더라도 세상 물정에 밝고 센스가 있는 것을 말하죠.
+	* 걘 공부는 잘하는데, 인간관계에 있어선 아무것도 몰라. She's got book smarts, but she's clueless when it comes to relationships.
+* 그래서 I'm positive 라고 하면 '나는 확신한다' 는 의미로, 어떤 사실이 거의 100프로 맞다고 확신할 때 쓸 수 있어요.
+* 그녀는 재능이 있지만, 그렇다고 해서 자수성가했다고 말할 순 없어. She's talented, but that doesn't mean she's self-made.
+* 굴욕적이었어; i was mortified; embarrased 보다 훨씬 강한 뉘앙스
 * 알람이 울리지 않아서 늦잠을 잤다; I overslept because my alarm didn't go off
 * 독학했다; i learned korean on my own
 * 가을 맞이로 쇼핑을 엄청 많이 했기 때문에; i did a huge clothing haul for upcoming autumn
