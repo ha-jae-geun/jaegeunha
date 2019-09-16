@@ -576,6 +576,9 @@ shep/herd, hap/hazard, peep/hole 처럼 p와 h 사이에 발음을 갈라 f 사�
 
 
 # 토익
+* requests from customers;  requests for more information
+* switch career
+* take pride in  ~을 자랑하다; take interest in
 * 훨씬; well in advance;   평균 이하에; well below average
 * 수태시; 영어에서는 수가 매우 중요
 * 문제삽입 키: 1. 대명사(this, they, he) 2. 연결어(However, Therefore)
