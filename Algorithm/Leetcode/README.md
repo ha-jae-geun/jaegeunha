@@ -1,3 +1,35 @@
+# 21. Merge Two Sorted Lists
+
+```java
+Merge two sorted linked lists and return it as a new list. The new list should be made by splicing together the nodes of the first two lists.
+
+Example:
+
+Input: 1->2->4, 1->3->4
+Output: 1->1->2->3->4->4
+```
+
+## 풀이
+```java
+public ListNode mergeTwoLists(ListNode l1, ListNode l2){
+		if(l1 == null) return l2;
+		if(l2 == null) return l1;
+		if(l1.val < l2.val){
+			l1.next = mergeTwoLists(l1.next, l2);
+			return l1;
+		} else{
+			l2.next = mergeTwoLists(l1, l2.next);
+			return l2;
+		}
+}
+```
+
+
+<hr/>
+
+
+
+
 # Binary Tree Level Order Traversal
 ```java
 Given a binary tree, return the bottom-up level order traversal of its nodes' values. (ie, from left to right, level by level from leaf to root).
@@ -40,6 +72,12 @@ public class Solution {
     }
 }
 ```
+
+
+
+<hr/>
+
+
 
 # 이진검색트리의 기본 성질, LC 530. Minimum Absolute Difference in BST
 ```java
@@ -88,6 +126,14 @@ public class Solution {
 
 ## 팁
 * 이진트리는 inorder 정리하면 오름차순 정리가 된다.
+
+
+
+
+
+<hr/>
+
+
 
 
 # 문자열 내림차순으로 배치하기 (java)
@@ -151,6 +197,14 @@ public class ReverseStr {
 ```
 
 
+
+
+
+<hr/>
+
+
+
+
 # 나누어 떨어지는 숫자 배열
 ```java
 divisible 메소드는 int형 배열 array와 int divisor를 매개변수로 받습니다. 
@@ -192,6 +246,14 @@ class Divisible {
 1. ArrayList 값 가져오기 divArray.get(i).intValue();
 ```
 
+
+
+
+<hr/>
+
+
+
+
 # 가운데 글자 가져오기
 ```java
 getMiddle메소드는 하나의 단어를 입력 받습니다.
@@ -216,6 +278,14 @@ class StringExercise{
 ```java
 1. substring(앞, 뒤) 는 뒤에 있는 숫자의 위치를 포함하지 않는다.
 ```
+
+
+
+
+
+<hr/>
+
+
 
 # 최대값과 최소값
 ```java
@@ -257,6 +327,14 @@ public class GetMinMaxString2 {
 1. 문자열 + 숫자: 문자열
 String result = arrayInt[0] + " " + arrayInt[arrayInt.length - 1];
 ```
+
+
+
+
+
+<hr/>
+
+
 
 
 # Longest Substring
