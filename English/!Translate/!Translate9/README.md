@@ -1,3 +1,16 @@
+# [영어 연습가이드 HARDCORE ] - An Interesting Theory
+* 최근에 읽은 어떤 이론에 의하면 가난한 사람은 가난한 상태로 계속 살아가기 마련인데  I recently read about a theory that says poor people tend to stay poor because we're focused on adjusting our lifestyles to fit our income
+	* A theory says
+* 그 이유가 항상 좋은 가격을 찾는 등 현명한 소비를 함으로써 자신의 생활을 자신의 소득에 맞추려는 데에 집중하기 때문이고   by always looking for better deals and generally trying to spend wisely, 
+* 그런 반면 부자가 되는 사람들은 그냥 일단 비싼 것들을 사놓는 대신 추구하는 생활을 유지하기 위해 돈을 많이 벌 수 있는 방법을 찾는 데에 집중을 한다는 것이야. whereas people who become rich are often the ones who just go ahead and buy expensive things and instead focus on figuring out how to make more money to sustain their desired lifestyles
+* 우리가 성장하기 위해서는 한계를 극복해야 된다는 것을 생각하면 사실 꽤 일리 있는 얘기야. When you consider that the way we grow is by pushing our limits, this theory actually makes a lot of sense.
+	* 한계를 극복하다; push one's limits
+* 돈과 부를 놓고 말하자면 생각해야 될 것이 훨씬 많겠지만 난 이런 식으로는 한번도 생각을 해본적이 없어.  Now, I'm sure that there's a lot more to consider when it comes to money and wealth but I never really thought of it this way and 
+	* 그런식으로 생각 안해봤다; i never really thought of it this/that way
+* 꽤 흥미로운 관점인 것 같아.. I thought it was a very interesting perspective.
+
+
+
 # [ 기초영어회화 - 일상을 영어로 말하기 ] "얘기하는 것을 좋아하는 이웃"
 * "저한테 어떤 이웃이 한 명 있는데요, 여자분이요.  "I have **this** neighbor. A woman.
 	* this; 이야기를 시작하기 전에 관사 대신에 사용
