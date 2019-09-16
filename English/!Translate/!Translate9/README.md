@@ -142,6 +142,7 @@
 * watch 미국식 [wɑːtʃ;wɔːtʃ]
 
 # 원어민
+* 통풍이 정말 잘 되었어; It's very well ventilated  [ˈventɪleɪt]
 * 과속으로 걸렸어; i was pulled over for - speeding
 * 상황이 악화되기 시작했어; everything started going downhill
 * book smart(s) = 책에서 배운 지식이 많은, 책에서 배운 지식
