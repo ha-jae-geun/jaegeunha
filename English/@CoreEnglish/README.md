@@ -454,6 +454,11 @@
 * 과거형 동사발음; launch; 동사 발음을 정확하게 하고 뒤에 ed를 넣는 느낌
 * 드는 돈; cost; It costs 5000won; 코씉쓰; st발음은 모음만 뺀 발음이 ㅏ야한다
 
+## g
+* bag
+
+## k
+* back; 강세와 음절 추가하지 않으려면 앞글자를 강하게 발음
 
 ## 장모음, 단모음
 * i: ee; sleep; ea: heat; ie: piecee, ei: receive; 길게 가로로 발음
