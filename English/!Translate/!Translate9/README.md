@@ -1,3 +1,9 @@
+# [ 기초영어회화 - 대화연습 ] A: 오늘 무슨 계획 있어? B: "퇴근하는거 봐서."
+* A: 오늘 밤에 무슨 계획 있어? : Do you have any plans tonight?
+* B: 몇 시에 퇴근하는지 봐서요.  Well, it depends on what time I get off work.
+* 제시간에 퇴근할 수 있으면 친구들  만나서 간단하게 술 한잔 할 수도 있는데 안그러면 아마 너무 피곤해서 곧장 집으로 갈거 같아요. If I can leave on time, I might meet up with some friends for a beer. Otherwise, I'll probably be too tired and go straight back home.
+
+
 # [영어 연습가이드 HARDCORE ] - An Interesting Theory
 * 최근에 읽은 어떤 이론에 의하면 가난한 사람은 가난한 상태로 계속 살아가기 마련인데  I recently read about a theory that says poor people tend to stay poor because we're focused on adjusting our lifestyles to fit our income
 	* A theory says
@@ -140,9 +146,23 @@
 * police[puhㆍlees]; 강세 뒤 [pəˈliːs] please 미국·영국 [pliːz]
 	* The police are here
 * watch 미국식 [wɑːtʃ;wɔːtʃ]
+* it, eat; it이 소리가 더 짧고 혀의 위치도 다르다;
+	* it  [ɪt], eat 미국·영국 [iːt] 
 
 # 원어민
+* 적게 복용하고 싶어요; i want a lower dosage  [ˈdoʊ-]  영국식 [ˈdəʊsɪdʒ] 
 * 통풍이 정말 잘 되었어; It's very well ventilated  [ˈventɪleɪt]
+* 가래를 동반한 기침이 있어요; i've got a bad cough with phlegm [flem] 
+* 10분만 눈 부칠래; i'm gonna sooze for 10 minutes
+	* 비 소리 들으면서 눈 붙이는거 좋아해; i love to snooze with the sound of rain
+* 일어날 시간이야; Rise and shine
+	* 일어나 잠꾸러기야; Wake up, sleepyhead
+* 법규를 지켜야돼; WE have to follow the rule of law
+* 무좀에 걸리다 have[get] athlete's foot 
+* 그 기억을ㅈ ㅣ운거야? You blocked it out?
+* 김 새게 하고 싶지 않아요; I don't want to ruin any surprises
+* 너 입술 좀 수정해야겟다; YOur lips need a little touch-up
+* 너가 내기에서 이기면; If you win a bet
 * 과속으로 걸렸어; i was pulled over for - speeding
 * 상황이 악화되기 시작했어; everything started going downhill
 * book smart(s) = 책에서 배운 지식이 많은, 책에서 배운 지식
