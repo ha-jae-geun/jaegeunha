@@ -150,6 +150,10 @@
 	* it  [ɪt], eat 미국·영국 [iːt] 
 
 # 원어민
+* = 강한 남자들도 자신의 어머니에 대해선 마음이 약해진다. Even tough guys have a soft spot for their mothers.
+* sober는 ‘술에 취하지 않은’이란 뜻 외에 ‘어떤 일에 생각이 깊은, 진지하게 생각하는’이란 뜻도 있습니다. 사람에겐 sober, 사건에겐 sobering을 씁니다. sober 미국식 [ˈsoʊ-]  영국식 [ˈsəʊbə(r)] 
+	* 마크는 정직하고, 사려깊으며 진지한 사람이다. Mark is an honest, considerate and sober person.
+* 필요하시다면 회사로 와주세요. Come to the office if necessary.
 * 눈이 희미한 빛을 더 잘 인식했다면; if our eyes were better at collecting dim light
 * 증조할아버지 역도 맡게 되곗죠; i'll be playing great-grandfater roles
 * 멀티탭; extension cable; Strip; Power strip
