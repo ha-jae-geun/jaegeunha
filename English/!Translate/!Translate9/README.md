@@ -150,6 +150,18 @@
 	* it  [ɪt], eat 미국·영국 [iːt] 
 
 # 원어민
+* 눈이 희미한 빛을 더 잘 인식했다면; if our eyes were better at collecting dim light
+* 증조할아버지 역도 맡게 되곗죠; i'll be playing great-grandfater roles
+* 멀티탭; extension cable; Strip; Power strip
+* 복고풍이다; Look that retro
+* 찡그린 표정으로 서서; Stadnding there with a frown and a cigaratte [fraʊn]
+* 성장하지 못하게 막았기 때문이다; You stunted my  growth; stunt: 성장을 저해당한
+* 융통성이 없을수 있어요; i can be a little rigid
+* 얼굴이 모자이크 되었어; His face was pixelated.
+	* 우리는 그 간판을 흐리게 만들어야돼; W have to blur out the signboard
+* 어떻게 생각하세요? How does that sound?
+* 재택근무하다: work from home; 그냥 집에서 하루 일하다; work at home
+* 안죽어; you'll live
 * 적게 복용하고 싶어요; i want a lower dosage  [ˈdoʊ-]  영국식 [ˈdəʊsɪdʒ] 
 * 통풍이 정말 잘 되었어; It's very well ventilated  [ˈventɪleɪt]
 * 가래를 동반한 기침이 있어요; i've got a bad cough with phlegm [flem] 
