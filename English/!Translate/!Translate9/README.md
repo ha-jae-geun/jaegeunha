@@ -171,6 +171,21 @@
 	* it  [ɪt], eat 미국·영국 [iːt] 
 
 # 원어민
+* 한국인 기준으로 안 매운 거였어요; It's not spicy for korean standards
+* 그가 가장 좋아하는 말은 “나의 지지층”이다. His favorite term is “my base.” 
+* "그들은 그녀에게서 5,000달러를 빼앗았다" ex. They robbed her of $5,000.
+	* (그들은 그녀에게서 5,000달러를 훔쳤다) ex. They stole $5,000 from her.
+* 멍청하다 멍청해; Of all the stupid little idiots
+	* of all the: 정말 -하네, -일게 뭐람(화남)
+* 이용자 참여 장관은 실무회의에 참석하지 않는다. Ministers do not attend working level meetings. 듣기 출처:Hansard
+* 모서리를 잡고 잡아당겨; Grab the edge and pull
+* 무당벌레; They're ladybugs
+* 세상을 차단해버리다; it's easy to shut off in the world
+* 해결책이 남아잇지; Remains the cure
+* 교체되어 들어갑니다; Someone is substitued on/off
+* 미국의 휴게소(rest area)
+	* 휴게소에 들르는 것을 rest stop이라고 한다. 또 pit stop이라고도 하는데 이는 원래 자동차 경주(rac)e에서 주유가 필요하거나 타이어를 갈기 위해 마련된 작은 공간을 부르는 말이다.
+	* Interstate highway라는 단어로 돌아가보자. Interstate은 접두사 inter와 state의 합성어다. 접두사 inter-는 between, among이라는 뜻이므로 interstate highway는 '주 사이를 연결하는 고속도라' 정도의 의미다. 
 * : '힘들게 하다, 애먹이다, 괴롭게 하다' 라는 뜻! 이외에도 문맥에 따라 '놀리다, 잔소리 하다' 등 다양한 뜻을 지닐 수 있어요. 
 	 * give someone a hard time; My parents are giving me a hard time about grades.
 * 원래 'downtime'은 기계나 장비 등에 사용되는 표현이에요. 기계가 작동하지 않는 시간을 의미하죠. 우리도 흔히 사용하는 컴퓨터가 '다운됐다'라는 표현도 여기에서 유래된 거랍니다. 영어에서는 이 'downtime'을 사람에게도 사용하곤 해요. 사람이 '작동하지 않는 시간'은 무슨 뜻일까요? 사람이 일을 하다가 멈춘 시간을 의미하겠죠. 그래서 '쉬는 시간, 한가한 시간'이라는 뜻을 가진답니다.
