@@ -1,3 +1,12 @@
+# [ 영어 발음 ] -- sts / artists, tests, assists, resists
+* 이번 발음 강의에서는 "tests", "artists", "assists", "resists", "desks"처럼 [ S + 자음 + S ] 발음을 자연스럽게 구사하기 위해서 필요한 연습요령을 배워봅니다.
+	* sts: '씉쓰' 에서 ㅡ 발음들을 땐다
+* artists, 
+* tests, 
+* assists, 
+* resists
+* desks: 쓱쓰에서 ㅡ 뻄
+
 # [ 영어 연습가이드 ] - 얼마나 대단한지에 대해서 얘기할 때 쓰는 4가지 영어표현
 * "퀸시 존스 몰라? 와, 너무 대단한 인물이라,  "Quincy Jones. You don't know Quincy Jones?!
 * 어디부터 설명해야 되지...(?). Wow. I can't even begin to explain to you how big he is.
