@@ -1,3 +1,15 @@
+# [ 영어 연습가이드 ] - 얼마나 대단한지에 대해서 얘기할 때 쓰는 4가지 영어표현
+* "퀸시 존스 몰라? 와, 너무 대단한 인물이라,  "Quincy Jones. You don't know Quincy Jones?!
+* 어디부터 설명해야 되지...(?). Wow. I can't even begin to explain to you how big he is.
+* 간단히 말해서, 오늘날 음악 세계에서 가장 중요한 사람 중 하나야.  Simply put, he's one of the most important people in the world of music today.
+	* simply put into words  -> simply put
+* 그런데 그것도 말을 많이 아끼는거야.   But that is putting it very mildly.
+* 단순히 그를 훌륭한 작곡가에 뮤지션이라고 하는 것으로는 한참 부족할거야.   Simply saying that he's a great composer and musician would be a huge understatement.
+* 난 심지어 어떻게까지 보냐면, 요즘 인기있는 아티스트와 그들의 음악은 모두 그 사람으로부터 상당히 많은 영향을 받았다고 생각해."
+  * I would even go so far as to say that all the popular artists and their music nowadays have been heavily influenced by his work."
+	* i would even go so far: 이렇게 까지 주장/생각한다; 자주 쓰이는 문장
+
+
 # [ 기초영어회화 - 대화연습 ] A: 오늘 무슨 계획 있어? B: "퇴근하는거 봐서."
 * A: 오늘 밤에 무슨 계획 있어? : Do you have any plans tonight?
 * B: 몇 시에 퇴근하는지 봐서요.  Well, it depends on what time I get off work.
