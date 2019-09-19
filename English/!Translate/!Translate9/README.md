@@ -150,6 +150,31 @@
 	* it  [ɪt], eat 미국·영국 [iːt] 
 
 # 원어민
+* : '힘들게 하다, 애먹이다, 괴롭게 하다' 라는 뜻! 이외에도 문맥에 따라 '놀리다, 잔소리 하다' 등 다양한 뜻을 지닐 수 있어요. 
+	 * give someone a hard time; My parents are giving me a hard time about grades.
+* 원래 'downtime'은 기계나 장비 등에 사용되는 표현이에요. 기계가 작동하지 않는 시간을 의미하죠. 우리도 흔히 사용하는 컴퓨터가 '다운됐다'라는 표현도 여기에서 유래된 거랍니다. 영어에서는 이 'downtime'을 사람에게도 사용하곤 해요. 사람이 '작동하지 않는 시간'은 무슨 뜻일까요? 사람이 일을 하다가 멈춘 시간을 의미하겠죠. 그래서 '쉬는 시간, 한가한 시간'이라는 뜻을 가진답니다.
+	* 너는 한가한 시간에 뭘 하는 걸 좋아해? What do you like to do in your downtime?
+* 부자들이 선호할 만한, 고급스러운 물건이나 장소를 묘사할 때 쓸 수 있는 형용사입니다. 이 영상에서는 upscaling, 이렇게 동사로도 쓰였는데요, 일반적인 쓰임새는 아니지만 '고급화하다' 라는 의미로 사용되었어요.
+	* 여긴 전형적인 고급 음식점이야. This is a typical **upscale** restaurant.
+* 장기적으로는 좋은 일이 될 것 같아요; it's gonna be a great thing in the long
+* 이용자 참여 도착 예정 시간은 2분 미만입니다.  ETA is less than two minutes. 듣기
+* ＊ nerd out (over ⓝ) = 바보처럼 매우 좋아하다; geek out : 바보같이 매우 좋아하다, 열공하다
+	* = 걔 맨날 찐따처럼 도서관에서 뭘 하고 있어. He’s always nerding out in the library.
+* 너무 뜨거우면 안돼요; It shouldn't be piping hot
+* 기타; etc  [ˌetˈsetərə;ˌɪt] 
+	* 기타 등등; and so on and so forth
+	* and all that (명사); that kind of thing
+* 집착하지마; don't hold on to me
+* TBD 웹수집 웹수집 도움말 미국식  영국식  단어장추가 [약어] 미정, 추후 결정함(To Be Determined) 참조 TBA
+* 자녀 더 낳으실 생각 있으세요? Are you planning to have more kids?
+* 그녀는 숨기지 않고 솔직하게 말하잖아. She wears her heart on her sleeve. 듣기 출처:NE능률
+	* 오늘은 공교롭게 비가 오는 날이야. It's lovely weather for ducks. 
+	* 만일 자네가 일을 그만두고 말면, 자네는 물러설래야 물러설 수 없는 불쾌한 상태에 빠진다. If you get mad and quit your job, you'll be burning your bridges behind you. 
+* 계좌 정지해주세요; Can you put a hold onmy accoount?
+	* 자동결제 정지하고 싶어요; i want to stop auto payments
+* 내 딸 체육 수업에 등록하고 싶엉; i'm interested in putting my daughteres in gymnastics classes
+* 곤란한 상황에 있따; i'm in a pickle
+* 난 그가 죽은 줄 알았는데 신기하게 아니었더라고; i thought he was dead but to my surprise he wasn't
 * = 강한 남자들도 자신의 어머니에 대해선 마음이 약해진다. Even tough guys have a soft spot for their mothers.
 * sober는 ‘술에 취하지 않은’이란 뜻 외에 ‘어떤 일에 생각이 깊은, 진지하게 생각하는’이란 뜻도 있습니다. 사람에겐 sober, 사건에겐 sobering을 씁니다. sober 미국식 [ˈsoʊ-]  영국식 [ˈsəʊbə(r)] 
 	* 마크는 정직하고, 사려깊으며 진지한 사람이다. Mark is an honest, considerate and sober person.
