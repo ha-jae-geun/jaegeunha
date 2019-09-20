@@ -171,6 +171,18 @@
 	* it  [ɪt], eat 미국·영국 [iːt] 
 
 # 원어민
+* 어떤 것을 전형적으로 잘 표현해 준다는 의미입니다. 추상적인 개념을 실체로 구현해낼 때 쓸 수 있는 말이죠. 영상에서는 버킨 백이야말로 호화로움의 상징 그 자체라고 이야기하고 있어요.
+	* 그는 진정한 보수주의자의 전형이다. He embodies the true conservative.
+* * sought after = 선호되는, 인기 있는 동사 seek after는 무언가를 [찾다, 구하다]라는 의미를 가집니다.파생된 과거 분사형 sought after는 사람들에 의해 [많이 찾아진] 이라는 뜻이 되죠. 따라서 사람들이 선호하고 인기 있는 제품 등을 묘사할 때 쓰는 표현입니다.
+	* = 그가 그 업계에서 가장 인기 있는 인물이 되는 것엔 그리 오랜 시간이 걸리지 않았다. It didn't take long for him to be the most sought after figure in the industry.
+* angle 이 [각도] 라는 뜻이니, 각도가 없는 정면이나 수직이 되는 것이 아닌, [비스듬히] 를 의미하게 됩니다. 형용사를 써서 [at a slight/steep angle = 약간/매우 비스듬한] 을 의미할 수도 있어요.
+	* = 이것 좀 이렇게 비스듬히 들어줄래? Can you hold it at an angle like this?
+* 형용사 intact 는 [온전한, 하나도 손상되지 않은]의 의미를 가지는데요. 보통 동사 keep 과 함께 많이 쓰이고 수동태로도 많이 쓰이기에 같이 숙지해두시면 좋을 것 같아요!
+	* = 그 소장품은 완벽하게 손상되지 않게 유지되어야 합니다. The collection should be kept completely intact.
+* 좀 치워주시겠어요? Can you clean it off?
+* 승합차 예약했어요; i made a reservation for a minivan
+	* 4일동안 탈거에요; i'll have it for 4 days
+	* 흡연 방침이 어떻게 되나요? what is your smoking policy?
 * 한국인 기준으로 안 매운 거였어요; It's not spicy for korean standards
 * 그가 가장 좋아하는 말은 “나의 지지층”이다. His favorite term is “my base.” 
 * "그들은 그녀에게서 5,000달러를 빼앗았다" ex. They robbed her of $5,000.
