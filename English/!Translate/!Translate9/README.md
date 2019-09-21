@@ -160,6 +160,12 @@
 	* It seems/appears that(as if); He seems/appears to have a girlfriend
 * come 2형식: The work will come easy; come alikve/easy/loose/true/of age: 성인이 되다
 * [명사] (비격식) (눈물을 흘리게 하는 감상적인) 최루성 영화[이야기 등] tear jerker 미국식 [ˈtɪrdʒɜːrkər]  영국식 [ˈtɪədʒɜːkə(r)]  단어장추가
+* 직속상사; immediate supervisor; 이해성많은: understanding supervisor 까다로운 상사: demanding supervisor
+* distribution: 가산, 불가산 가능; distributor: 가산만 가능
+* relevant to/toward
+* attend; 자동사, 타동사 둘다 가능
+* pose a problem/difficulty/risk
+* inform/notify/remind/tell/assure/convince + 사람 + that + S + V
 
 # 코어
 * diamond; a 발음 안하고 다이-먼드; 흙속의 진주; diamond in the rough
@@ -169,8 +175,13 @@
 * watch 미국식 [wɑːtʃ;wɔːtʃ]
 * it, eat; it이 소리가 더 짧고 혀의 위치도 다르다;
 	* it  [ɪt], eat 미국·영국 [iːt] 
+* Is that it? 전부인가요?  Zhat it
+* genius **of our** strategy; 쓰봐/써봐/씁ㅂ아/즈봐
 
 # 원어민
+* 냄새 엄청난데요; THat's a smell
+* 선구자셨어요; He was a pioneer 미국식 [-ˈnɪr]  영국식 [ˌpaɪəˈnɪə(r)] 
+* 날 거부하지마; DOn't turn me down
 * 샤워실하고 라커룸 있나요? Do you have locker rooms and showers?
 * 어떤 것을 전형적으로 잘 표현해 준다는 의미입니다. 추상적인 개념을 실체로 구현해낼 때 쓸 수 있는 말이죠. 영상에서는 버킨 백이야말로 호화로움의 상징 그 자체라고 이야기하고 있어요.
 	* 그는 진정한 보수주의자의 전형이다. He embodies the true conservative.
