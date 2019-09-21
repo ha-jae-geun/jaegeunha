@@ -1,3 +1,16 @@
+# Generic
+# VALUE
+```java
+System.out.println(Integer.MIN_VALUE);
+    // -2147483648
+
+    System.out.println(Integer.MAX_VALUE);
+    // 2147483647
+    // 이십일억사천칠백사십팔만삼천육백사십칠
+
+```
+* 다 대
+
 # Array
 ## copyOf
 ```java
