@@ -179,6 +179,15 @@
 * genius **of our** strategy; 쓰봐/써봐/씁ㅂ아/즈봐
 
 # 원어민
+* ‘미니멀리즘’하면 꼭 언급되는 단어가 clutter 예요. 너무 많은 걸 어수선하게 채운다는 뜻으로 ‘잡동사니’를 의미하기도 하죠. 
+	* = 나는 집에 잡동사니가 없는게 좋아. I like to have a clutter-free home.
+	* = 나 진짜 집정리 좀 해야겠어. I should really declutter my house.
+* 형용사 true 는 ‘맞다/틀리다’의 경우만 생각하면 안되요. 어떤 것에 ‘매우 해당하다, 매우 그러하다, 딱 그 경우다’라는 의미도 있죠. 
+	* = 이 규칙은 아이들에겐 적용되지 않아. This rule doesn’t play true for kids.
+* 점자를 창안한 루이 뷰라유(Louis Braille)의 이름을 딴 말이에요. 프랑스 이름이지만 영어로 말할 때는 [브레일] 이라고 발음하면 됩니다. 
+	* - a book in braille (O)  - a book in a braille (X)
+* : ~에게 안부를 전하다 * send / give one's love to ~
+	* Send my love to your mom.  Give my love to your little sister.
 * 냄새 엄청난데요; THat's a smell
 * 선구자셨어요; He was a pioneer 미국식 [-ˈnɪr]  영국식 [ˌpaɪəˈnɪə(r)] 
 * 날 거부하지마; DOn't turn me down
