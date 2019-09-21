@@ -179,6 +179,7 @@
 * genius **of our** strategy; 쓰봐/써봐/씁ㅂ아/즈봐
 
 # 원어민
+* 1. 난 전자를 택했어 I DECIDED TO GO WITH THE FORMER! <> 
 * ‘미니멀리즘’하면 꼭 언급되는 단어가 clutter 예요. 너무 많은 걸 어수선하게 채운다는 뜻으로 ‘잡동사니’를 의미하기도 하죠. 
 	* = 나는 집에 잡동사니가 없는게 좋아. I like to have a clutter-free home.
 	* = 나 진짜 집정리 좀 해야겠어. I should really declutter my house.
