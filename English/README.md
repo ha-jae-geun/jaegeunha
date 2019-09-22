@@ -32,6 +32,7 @@
 *  텔라 http://blog.naver.com/PostList.nhn?blogId=tellakor&categoryNo=0&from=postList
 * LEX & Language https://m.blog.naver.com/PostList.nhn?blogId=chillaxer
 * 돌핀 https://m.blog.naver.com/PostList.nhn?blogId=frost9001
+* 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 어학당 추가 하기
 * 타이핑
@@ -47,6 +48,7 @@
 * YBM https://m.post.naver.com/my.nhn?memberNo=3503094
 * 영어놀이터 https://m.blog.naver.com/PostList.nhn?blogId=epg8307
 * 한국번역연구소 https://blog.naver.com/ktri8888
+* 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 어학당 추가 하기
 * 타이핑
@@ -59,6 +61,7 @@
 * 원스탑에듀 https://m.blog.naver.com/PostList.nhn?blogId=1stopedu
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 *  영어 주유소 http://blog.naver.com/tnwlwldu
+* 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
 * 어학당 추가 하기
 * 타이핑
 * 토익 문제 http://moonje.in
@@ -94,6 +97,7 @@
 * Cage-free https://blog.naver.com/yp2k
 * 넥서스 공시미; https://blog.naver.com/0simiii
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
+* 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
 * 어학당 추가 하기
 * 타이핑
 * 토익 문제 http://moonje.in
@@ -108,6 +112,7 @@
 * 런어바웃 https://m.post.naver.com/my.nhn?memberNo=41637875
 * 김일승 https://m.blog.naver.com/PostList.nhn?blogId=kishyun
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
+* 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
 * 어학당 추가 하기
 * 타이핑
 * 토익 문제 http://moonje.in
@@ -121,6 +126,7 @@
 * 미드영어 공부 https://m.blog.naver.com/PostList.nhn?blogId=pjc425
 * 오디너리 소피 https://m.blog.naver.com/PostList.nhn?blogId=sofa1015
 *  야나두 https://blog.naver.com/yanadooblog/221323042575
+* 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 어학당 추가 하기
 * 타이핑
