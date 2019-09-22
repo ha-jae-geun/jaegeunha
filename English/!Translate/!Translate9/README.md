@@ -186,6 +186,20 @@ I'm calling to report Domestic Violence in my neighborhood.
 * genius **of our** strategy; 쓰봐/써봐/씁ㅂ아/즈봐
 
 # 원어민
+* 오늘 경기만 보자면, 정말 못했어요; When it comes to this game, he was poor. He was rubbish
+* ＊ go up in smoke = 연기속으로 사라지다; 실제로 물건이 타서 없어지거나, 계획, 희망 등이 수포로 돌아가는 걸 의미해요; 참고로 ‘연기’는 셀 수 없으니까 a 를 붙이지 않아요. 다만 ‘담배를 피는 행위’를 의미할 때는 a smoke 라고 합니다.
+	* = 화재로 수 백 채의 집들이 연기속으로 사라졌다. Because of the fire, hundreds of houses went up in smoke.
+* whiff는 '훅 끼치는 냄새, 느낌, (담배) 연기, 한 모금'이라는 뜻으로 주로 a whiff of something의 형태로 사용됩니다.
+	* 여기서 문제의 기미가 보이는 걸. I got a whiff of a problem in this.  [wɪf] 
+* 주로 영국에서 많이 쓰이고, 다양한 상황에서 쓰일 수 있는 단어입니다. 혐오, 짜증남, 역겨움, 불편함을 야기할 수 있는 것들에 쓰일 수 있는 형용사에요.
+	* 이 음식 냄새는 진짜 별로다. 먹어보고 싶지도 않아. ex) The smell of this food is off-putting. I don't even want to try it.
+* cling to ~ = ~에 매달리다, 찰싹 달라붙다
+	* = 내 조카는 날 볼 때마다 항상 내 팔에 매달려. My nephew always clings to my arm whenever he sees me.
+* finishing touch = 마무리, 다듬기
+	* 노박 박사는 자신의 프로젝트의 대미를 장식하고 있어요. [ex] Dr. Novak is adding some final touches to his project.
+* 영상에서는 one hell of a 를 사이에 넣었는데요, 이는 ‘엄청나게, 매우’를 의미해요. 속어니까 우리말의 ‘겁나, 미친듯이, 끝내주는’ 정도와 비슷하겠네요.
+	* = 난 살이 잘 안타. 그냥 빨갛게만 돼. I don't tan well. I just get red.
+	* = 너 선탠 이쁘게 됐다! You’ve got a nice tan!
 * 복학할거야; i went back to school this semester
 	* 3년 휴학했어요; i took three yeras off from school
 * 전문 용어; technical jargon  [ˈdʒɑːrɡən]; 지역 용어: local lingo
