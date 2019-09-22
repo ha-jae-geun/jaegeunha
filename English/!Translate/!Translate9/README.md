@@ -179,6 +179,18 @@
 * genius **of our** strategy; 쓰봐/써봐/씁ㅂ아/즈봐
 
 # 원어민
+* 복학할거야; i went back to school this semester
+	* 3년 휴학했어요; i took three yeras off from school
+* 전문 용어; technical jargon  [ˈdʒɑːrɡən]; 지역 용어: local lingo
+* 아기 의자는 갓난아기에게 조금 더 적합하고 유아용 시트는 유아에게 더 유용합니다.
+	* High chairs are more suitable for infants and booster seats are for toddlers  [ˈɪnfənt] 
+	* 보조의자(자동차 카시트 포함); booster seat
+* 세면도구: toiletry bag  [tɔ́ilitri]; 세면도구: toiletry kit
+* 20달러 3개, 10센트 2개, 5달러 2개 주세요; Can you break $100 into three twenties, two tens, two fives, please
+* -의 아류작이다; is a rip-off of a 작품
+* 나도 규칙 하나 생각났어; i have a ground rule
+* 헌혈하러 갈거에요; i am going to go donate blood
+* 페달 조금만 밟아주면; Just ease on the gas
 * 1. 난 전자를 택했어 I DECIDED TO GO WITH THE FORMER! <> 
 * ‘미니멀리즘’하면 꼭 언급되는 단어가 clutter 예요. 너무 많은 걸 어수선하게 채운다는 뜻으로 ‘잡동사니’를 의미하기도 하죠. 
 	* = 나는 집에 잡동사니가 없는게 좋아. I like to have a clutter-free home.
