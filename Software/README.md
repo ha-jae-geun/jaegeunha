@@ -9,6 +9,9 @@
 * 무조건 나오기: ""
 * 여러 명령어: site:go.kr filetype:pdf 
 
+# 크롬
+* 캐쉬삭제: Ctrl + SHift + Delete
+
 
 # 소프트웨어
  * C:\temp // 영어 폴더 파일에 관리자 권한으로 실행
