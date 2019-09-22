@@ -117,6 +117,13 @@
 	* 통통한 편이다; He's a little chubby;  He's kind of chubby 
 
 # 중요
+I'm calling to report Domestic Violence in my neighborhood.
+	* 우리 동네(에서 벌어지고 있는) 가정폭력에 대해 신고하려고 전화했습니다.
+* I'm calling to report child abuse.
+	* 아동학대를 신고하려고 전화했습니다.	
+* I'm calling to report disturbance.
+	* 소란행위를 신고하려고 전화했습니다.
+* 원래 내야할 돈을 좀 못/안내도 잠시 봐주는 시간 I'm just picking someone up. Does the parking lot have a grace period?
 * 개발자 영어; * 그렇게 볼 수도 있겠네; THat's another way of looking at it
 	* 당신은 정말로 나를 곤경에 빠트렸었다. You really threw me under the bus. 듣기
 	* 무슨일이 있더라도; Whatever it takes, you stop them
