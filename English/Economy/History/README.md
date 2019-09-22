@@ -76,33 +76,3 @@
 * 13세기에 하나의 부족으로 시작했다; they began as a tribe in the 13th century
 * 고대 유적을 발굴하다; excavate ancient ruin [ˈekskəveɪt]
 * 위인전기는 불태워버려; burn you biographies
-
-# Greece
-## Why did Greece develop trade?
-* Wheat and rice did not grow because of the rain.
-* Olive and grapes are their only product.
-  - 올리브유는 썩지 않아 환금성이 높았다. Olive oil did not decay. That's why it ensured cashability
-
-## Sophist, Socrates
-* 플라톤이 세운 학교의 이름은 아카데미아다; The name of the school that Plato built was
-* 소피스트는 유료, 소크라테스는 무료로 사람들에게 말을 가르쳤다. Sophists paid, and Socrates taught people to talk for free.
-
-## Greek mythology
-* 인간의 물음에 대한 신의 대답을 신탁이라고 한다 God's answer to human question is called trust.
-
-## Athens
-* 기원전 461년, 페르시아 전쟁 이후 아테네는 성벽을 쌓기 시작한다. In 461 BC, after the Persian War, Athens began to build walls.
-* 중장 보병끼리의 싸움은 항상 우측으로 이동한다. The battle between the chief infantrymen always moves to the right.
-
-# Italy
-
-## Florence
-* 피레우스 항구는 현재 유럽에서 승객이 제일 많은 항구다 Piraeus Port is currently the busiest port in Europe.
-
-
-# 스파르타
-## 스파르타의 멸망 원인
-* 아리스토텔레스: 스파르타 군대의 규모는 1000명을 넘지 못했고, 결국 시민의 인구 감소로 서서히 멸망했다.
-	* 잦은 전쟁과 저출생으로 전성기 대비 인구 약 90% 감소
-	* 아고개: 스파르타의 기숙형 교육제도. 교육과정에서 발생되는 군사훈련비와 공동식사 비용은 개인의 몫으로 부모의 부담이 컸다.
-	* 스파르타의 채찍: 독신남녀에게 세금의 300% 싱글세 부과
