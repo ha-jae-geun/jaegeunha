@@ -29,17 +29,8 @@
 # 월; 0520
 * 슈퍼맨 https://superfan.link/pc
 * 라이블리 https://m.blog.naver.com/PostList.nhn?blogId=liyu_thirtytwo&currentPage=1
-*   MLB http://post.naver.com/my/series/detail.nhn?seriesNo=46475&memberNo=449115
-*   김형제 http://m.post.naver.com/my.nhn?memberNo=11764317
-*  하루 10분 http://post.naver.com/my.nhn?memberNo=904209&navigationType=push
-*  겁 없이 잉글리쉬 http://post.naver.com/my.nhn?memberNo=837891&navigationType=push
-*  러브굿    	http://hi007.tistory.com/
 *  텔라 http://blog.naver.com/PostList.nhn?blogId=tellakor&categoryNo=0&from=postList
 * LEX & Language https://m.blog.naver.com/PostList.nhn?blogId=chillaxer
-* Eat Love Create https://m.blog.naver.com/PostList.nhn?blogId=countmonte7&currentPage=1
-* 멀리맘 https://m.blog.naver.com/PostList.nhn?blogId=morleymom
-* 한국번역연구소 https://blog.naver.com/ktri8888
-* 올인원 https://m.blog.naver.com/PostList.nhn?blogId=allinoneedutech
 * 돌핀 https://m.blog.naver.com/PostList.nhn?blogId=frost9001
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 어학당 추가 하기
@@ -53,16 +44,9 @@
 * The Red https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 잭팟; https://m.blog.naver.com/PostList.nhn?blogId=jackpot22
 * 나는나; https://m.blog.naver.com/PostList.nhn?blogId=iamanna12
-*   ECIK http://blog.naver.com/eckedu
-*   미드 표현 http://blog.naver.com/pjc425/220983107635
-*   체니 http://m.post.naver.com/my.nhn?memberNo=2562700
 * YBM https://m.post.naver.com/my.nhn?memberNo=3503094
-* 지니샘 https://m.blog.naver.com/PostList.nhn?blogId=33yujin
-* 4EverYoung https://m.blog.naver.com/PostList.nhn?blogId=ireneyoung96
 * 영어놀이터 https://m.blog.naver.com/PostList.nhn?blogId=epg8307
-* 마젠타섹 https://m.blog.naver.com/PostList.nhn?blogId=dkfjsa
-* 영어교육정말어렵다 https://m.blog.naver.com/PostList.nhn?blogId=dgtongbeon
-* 채원과영어 https://m.blog.naver.com/PostList.nhn?blogId=learnwithchaewon
+* 한국번역연구소 https://blog.naver.com/ktri8888
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 어학당 추가 하기
 * 타이핑
@@ -72,20 +56,9 @@
 
 # 수 0522
 * 슈퍼맨 https://superfan.link/pc
-* you can do English https://m.blog.naver.com/PostList.nhn?blogId=doeng-official
-*  영어 주유소 http://blog.naver.com/tnwlwldu
-* 신혼영어 https://m.blog.naver.com/PostList.nhn?blogId=sola811
-* 민병철 어학원 https://m.blog.naver.com/PostList.nhn?blogId=jyp1818&currentPage=1
-*  파고다 오늘의 회화 http://post.naver.com/my.nhn?memberNo=4550737&navigationType=push
-*  오석태 http://m.post.naver.com/my.nhn?memberNo=2798983
-* Bruce Lim https://m.blog.naver.com/PostList.nhn?blogId=brucelimn
-* 한톡 https://m.post.naver.com/my.nhn?memberNo=37585159
-* 포포 https://m.blog.naver.com/PostList.nhn?blogId=suri0367&currentPage=1
-* GEE https://m.blog.naver.com/PostList.nhn?blogId=blessgee
-* EF 코리아 https://m.blog.naver.com/PostList.nhn?blogId=ef_korea
 * 원스탑에듀 https://m.blog.naver.com/PostList.nhn?blogId=1stopedu
-* 쎄쎄쎄 https://m.blog.naver.com/PostList.nhn?blogId=cedubook
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
+*  영어 주유소 http://blog.naver.com/tnwlwldu
 * 어학당 추가 하기
 * 타이핑
 * 토익 문제 http://moonje.in
@@ -94,23 +67,15 @@
 
 # 목 0523
 * 슈퍼맨 https://superfan.link/pc
-*  영어 카드 http://blog.naver.com/milgarussem
 *  미드 빅뱅 이론 http://blog.naver.com/yjjy0308/221057882496
 *  다락원 http://post.naver.com/my.nhn?memberNo=4753342&navigationType=push
-*  해커스 http://m.post.naver.com/my.nhn?memberNo=11456415
-* 채원; https://m.blog.naver.com/PostList.nhn?blogId=learnwithchaewon&currentPage=1
 *  쏘피 http://blog.naver.com/sofa1015/220909474533
 *  콜앤톡 http://blog.naver.com/esolution24 
 * 블루링크 http://m.post.naver.com/my.nhn?memberNo=566&navigationType=push
   https://blog.naver.com/bluewater_33/221291032449
 *  데이브 http://blog.naver.com/koreanstyl3
-*  하루하루 이루다 https://blog.naver.com/puretearing
 *  출판사 프렉티쿠스  https://blog.naver.com/knowhereman
-*  소미영어 https://blog.naver.com/somienglish 
-*  영어랑 커피 한잔 https://post.naver.com/my.nhn?memberNo=576800
-* 차니쓰 https://m.blog.naver.com/PostList.nhn?blogId=wkosin
 * 와이넛북스 https://m.post.naver.com/my.nhn?memberNo=5039741
-* Sunny https://m.blog.naver.com/PostList.nhn?blogId=pureriver777
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 어학당 추가 하기
 * 타이핑
@@ -120,21 +85,13 @@
 
 # 금 0524
 * 슈퍼맨 https://superfan.link/pc
-*  해피제이드 해피라이프J https://blog.naver.com/jadekim925 
-* 땀 https://m.blog.naver.com/PostList.nhn?blogId=byswoo
-*  뇌순’s 영어극복 https://blog.naver.com/rmeoqhek38/221011569917
-*  엔구 화상영어 https://blog.naver.com/dmm_korea/221267185883
 *  쌤코치의 영어습관 https://blog.naver.com/georage/221320149267
 *  아미고톡 http://blog.amigotalk.com/
 * dave den https://blog.naver.com/daveenglish 
 * 파이널리스피크 https://blog.naver.com/finallyspeak
 * 사람 in 출판사 https://post.naver.com/my.nhn?memberNo=4760630
 * 데인; https://blog.naver.com/danelee
-* 캠퍼스잡앤조이; https://m.post.naver.com/my.nhn?memberNo=12244919
-* 바니의 공부방 https://blog.naver.com/iove4080
 * Cage-free https://blog.naver.com/yp2k
-* 해커스어학원꿀팁 https://blog.naver.com/hacademia
-* 잉글리쉬 에듀몰 https://tomasuper.blog.me/
 * 넥서스 공시미; https://blog.naver.com/0simiii
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 어학당 추가 하기
@@ -145,22 +102,10 @@
 
 # 토 0525
 * 슈퍼맨 https://superfan.link/pc
-* 한국에서 영어잘하기 https://blog.naver.com/joohs86
-* Biggie; https://post.naver.com/my.nhn?memberNo=23132643
 * 약장수 버스터; https://blog.naver.com/pcmi4easy_english
-* 길벗이지톡; https://post.naver.com/my.nhn?memberNo=33159364
 * 소다영어 https://blog.naver.com/hyeonahmo/221208654665
-* 윤선생; https://m.post.naver.com/my.nhn?memberNo=2134697
 * Shall we learn https://blog.naver.com/teacherr10
 * 런어바웃 https://m.post.naver.com/my.nhn?memberNo=41637875
-* 잉글리시 애비뉴 https://m.blog.naver.com/PostList.nhn?blogId=avenueinstitute&logCode=0&categoryNo=18&currentPage=1
-* 브리센트 https://m.blog.naver.com/PostList.nhn?blogId=britcent&currentPage=1
-* 중국어, 토익, 영어회화 마법 https://m.blog.naver.com/PostList.nhn?blogId=coreakyss2
-* 영어 문화권; https://m.blog.naver.com/britishcouncilkorea/221423415204
-* 능률 https://m.blog.naver.com/PostList.nhn?blogId=neungyule01&currentPage=1
-* 꾸르꿀 https://m.post.naver.com/my.nhn?memberNo=43677109
-* 토마토 토익 https://m.blog.naver.com/PostList.nhn?blogId=tomato_talk&currentPage=1
-* 브랜든의 캐나다 https://m.blog.naver.com/PostList.nhn?blogId=kidaradio 
 * 김일승 https://m.blog.naver.com/PostList.nhn?blogId=kishyun
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 어학당 추가 하기
@@ -171,21 +116,10 @@
 
 # 일 0526
 * 슈퍼맨 https://superfan.link/pc
-* 찰리 잉글리시 https://m.blog.naver.com/PostList.nhn?blogId=charleyenglish&currentPage=1
 * 즐겁게 써먹는 영문법 https://m.blog.naver.com/PostList.nhn?blogId=tkfnxh&categoryNo=42&logCode=0&categoryName=즐겁게 써먹는 영문법
-* 단 영ㅇ문법 https://m.blog.naver.com/PostList.nhn?blogId=ddanddan84&currentPage=2
-* 공단기 https://m.blog.naver.com/PostList.nhn?blogId=blackyuna0824&currentPage=2
-* 저스틴 https://m.blog.naver.com/PostList.nhn?blogId=ddside
-* 오픽 https://m.post.naver.com/viewer/postView.nhn?volumeNo=17456490&memberNo=41482462
 * 바른 영어교육 https://m.blog.naver.com/PostList.nhn?blogId=dearest_jubi
-* 만화로 배우는 https://m.blog.naver.com/PostList.nhn?blogId=studio_lime
-* 슈퍼데디 https://m.post.naver.com/my.nhn?memberNo=5518579
 * 미드영어 공부 https://m.blog.naver.com/PostList.nhn?blogId=pjc425
 * 오디너리 소피 https://m.blog.naver.com/PostList.nhn?blogId=sofa1015
-* 1stop 코리아 https://m.blog.naver.com/PostList.nhn?blogId=1stopkorea
-* 612 어학원 https://m.blog.naver.com/PostList.nhn?blogId=wlq1052&currentPage=1
-* 엔토 https://m.blog.naver.com/PostList.nhn?blogId=ing4mo&categoryNo=0&listStyle=style1
-* 시언스쿨 https://m.blog.naver.com/siwonschool0
 *  야나두 https://blog.naver.com/yanadooblog/221323042575
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 어학당 추가 하기
