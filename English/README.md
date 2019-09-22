@@ -20,7 +20,8 @@
 
 
 ##영어
-
+* 트위터: https://twitter.com/home
+* 슈퍼맨/토익 문제 http://moonje.in
 * 테드 https://www.ted.com/
 * 발음 https://m.blog.naver.com/telleileen/221280989989
 -------------
@@ -34,57 +35,45 @@
 * 돌핀 https://m.blog.naver.com/PostList.nhn?blogId=frost9001
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
-* 어학당 추가 하기
-* 타이핑
-* 슈퍼맨/토익 문제 http://moonje.in
-* 트위터: https://twitter.com/home
 * 테크 크런치 https://techcrunch.com/
+* 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
+
 
 # 화 0521
 * 슈퍼맨 https://superfan.link/pc
-* The Red https://m.blog.naver.com/PostList.nhn?blogId=chjc9
-* 잭팟; https://m.blog.naver.com/PostList.nhn?blogId=jackpot22
 * 나는나; https://m.blog.naver.com/PostList.nhn?blogId=iamanna12
 * YBM https://m.post.naver.com/my.nhn?memberNo=3503094
 * 영어놀이터 https://m.blog.naver.com/PostList.nhn?blogId=epg8307
 * 한국번역연구소 https://blog.naver.com/ktri8888
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
-* 어학당 추가 하기
-* 타이핑
-* 토익 문제 http://moonje.in
 * 테크웜; https://www.techworm.net/
-* 트위터: https://twitter.com/home
+* 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
+
 
 # 수 0522
 * 슈퍼맨 https://superfan.link/pc
 * 원스탑에듀 https://m.blog.naver.com/PostList.nhn?blogId=1stopedu
+* 영어 주유소 http://blog.naver.com/tnwlwldu
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
-*  영어 주유소 http://blog.naver.com/tnwlwldu
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
-* 어학당 추가 하기
-* 타이핑
-* 토익 문제 http://moonje.in
 * 더벌지; https://www.theverge.com/
-* 트위터: https://twitter.com/home
+* 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
+
 
 # 목 0523
 * 슈퍼맨 https://superfan.link/pc
 *  미드 빅뱅 이론 http://blog.naver.com/yjjy0308/221057882496
 *  다락원 http://post.naver.com/my.nhn?memberNo=4753342&navigationType=push
 *  쏘피 http://blog.naver.com/sofa1015/220909474533
-*  콜앤톡 http://blog.naver.com/esolution24 
 * 블루링크 http://m.post.naver.com/my.nhn?memberNo=566&navigationType=push
   https://blog.naver.com/bluewater_33/221291032449
 *  데이브 http://blog.naver.com/koreanstyl3
 *  출판사 프렉티쿠스  https://blog.naver.com/knowhereman
 * 와이넛북스 https://m.post.naver.com/my.nhn?memberNo=5039741
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
-* 어학당 추가 하기
-* 타이핑
-* 토익 문제 http://moonje.in
 * 인가젯 https://www.engadget.com/
-* 트위터: https://twitter.com/home
+* 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
 
 # 금 0524
 * 슈퍼맨 https://superfan.link/pc
@@ -98,11 +87,9 @@
 * 넥서스 공시미; https://blog.naver.com/0simiii
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
-* 어학당 추가 하기
-* 타이핑
-* 토익 문제 http://moonje.in
 * 와이어드 https://www.wired.com/
 * 트위터: https://twitter.com/home
+
 
 # 토 0525
 * 슈퍼맨 https://superfan.link/pc
@@ -113,11 +100,10 @@
 * 김일승 https://m.blog.naver.com/PostList.nhn?blogId=kishyun
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
-* 어학당 추가 하기
-* 타이핑
-* 토익 문제 http://moonje.in
 * 지디넷 https://www.techrepublic.com/
-* 트위터: https://twitter.com/home
+* 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
+
+
 
 # 일 0526
 * 슈퍼맨 https://superfan.link/pc
@@ -125,12 +111,8 @@
 * 바른 영어교육 https://m.blog.naver.com/PostList.nhn?blogId=dearest_jubi
 * 미드영어 공부 https://m.blog.naver.com/PostList.nhn?blogId=pjc425
 * 오디너리 소피 https://m.blog.naver.com/PostList.nhn?blogId=sofa1015
-*  야나두 https://blog.naver.com/yanadooblog/221323042575
+* 야나두 https://blog.naver.com/yanadooblog/221323042575
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
-* 어학당 추가 하기
-* 타이핑
-* 토익 문제 http://moonje.in
 * 테크 크런치 https://techcrunch.com/
-* 트위터: https://twitter.com/home
-
+* 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
