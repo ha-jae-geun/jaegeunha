@@ -185,7 +185,23 @@ I'm calling to report Domestic Violence in my neighborhood.
 * Is that it? 전부인가요?  Zhat it
 * genius **of our** strategy; 쓰봐/써봐/씁ㅂ아/즈봐
 
+# 뉴스
+* 4층 건물에서 뛰어내렸다; THis person jumped off the fourth floor of a building
+* swatting; [명사] 스와팅, 거짓 신고((거짓으로 살인, 인질극, 폭탄 위협 등 심각한 비상 사태를 긴급 센터에 신고하여 대응팀을 엉뚱한 주소로 보내는 것))
+
 # 원어민
+* 어떤 분위기를 풍기나요? What kind of vibes are you giving off?
+	* 산불은 검은 연기를 내뿜었다; The forest gave off thick black somke
+* 20대 초반의 여성까지 girl
+* 내 전화를 피하고있어; She's doding my phone calls
+* 이 물고기는 (합법적으로) 잡아도 되내; I think it's a keeper
+* 그 배역 맡게 됐어; You got the part
+* -할게 1. i'll 2. let me; let me take you there
+* 같은 방향이에요; i'm going in the same direction; 맞은편이에요; It's across from somewhere
+* 이렇게 긴 시간 심란한 적이 없없어요; i neer was that fazed for such a long amount of time
+* 가로로 길게 찍어주세요; Could we have a landscape/horizontal picture? <> 세로: portrait/ vertical picture
+* 갈퀴질좀 해야겠따; someone got some raking to do
+* 명성이 떨어지다; Rep started going down
 * 오늘 경기만 보자면, 정말 못했어요; When it comes to this game, he was poor. He was rubbish
 * ＊ go up in smoke = 연기속으로 사라지다; 실제로 물건이 타서 없어지거나, 계획, 희망 등이 수포로 돌아가는 걸 의미해요; 참고로 ‘연기’는 셀 수 없으니까 a 를 붙이지 않아요. 다만 ‘담배를 피는 행위’를 의미할 때는 a smoke 라고 합니다.
 	* = 화재로 수 백 채의 집들이 연기속으로 사라졌다. Because of the fire, hundreds of houses went up in smoke.
