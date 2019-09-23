@@ -1,3 +1,15 @@
+# [ 영어 연습가이드 ] keep from / prevent (from) / avoid
+* "난 폰케이스나 보호필름 쓰는 것을 안좋아해.  "I don't like to use phone cases or screen protectors.
+* 상처와 다른 파손으로부터 보호하고 수리로 많은 돈을 쓰는걸 피하기 위해서 필수라고 생각하는 사람이 많은 것은 알지만, 
+	*  I know a lot of people consider them as a must to keep the phone from getting scratched and prevent other damages and to avoid paying a lot of money for repairs 
+	* keep something from happening;   prevent something from something/-ing; 내가 예방하는 것
+	* avoid: 내가 그 상황을 피하다; keey myself from something도 가능하기는 하지만 어감상 안어울림
+* 내 경험으로는, 케이스랑 보호필름이 있어도 신기하게 난 항상 폰이 어떻게든 박살나더라고. but, in my experience, even with cases and protectors, I've always managed to get my phones wrecked somehow 
+* 그래서 그냥 노력하는 것도 포기했어." so I've just given up trying."
+
+ 
+
+
 # [ 영어 발음 ] -- sts / artists, tests, assists, resists
 * 이번 발음 강의에서는 "tests", "artists", "assists", "resists", "desks"처럼 [ S + 자음 + S ] 발음을 자연스럽게 구사하기 위해서 필요한 연습요령을 배워봅니다.
 	* sts: '씉쓰' 에서 ㅡ 발음들을 땐다
