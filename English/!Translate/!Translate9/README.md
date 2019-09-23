@@ -110,6 +110,10 @@
 * deceive: 일반적으로 속다라는 뜻
 * * mislead; 
 
+# They를 ‘그들’이라는 뜻으로 알고 계십니까?
+1. 3자를 말할 때 사용; i'd report them; WHat do they want?
+2. 성별을 모를 때; When do they look like?
+
 # "속았다"를 영어로 - PART 2 - "속아서 ~을 하다"
 * 속아서 -을 하다: be fooled into -ing
 * 내가 어떻게 이런 고물 덩어리를 속아서 샀지? 
@@ -205,6 +209,8 @@
 * attend; 자동사, 타동사 둘다 가능
 * pose a problem/difficulty/risk
 * inform/notify/remind/tell/assure/convince + 사람 + that + S + V
+* 현재시제와 잘 어울리는 부사:r egularly, routinely, periodically, generally, typically, customarily, normally, ordinarily, commonly
+* under new management/the supervision of / control / current contract / pressure
 
 # 코어
 * diamond; a 발음 안하고 다이-먼드; 흙속의 진주; diamond in the rough
@@ -225,6 +231,7 @@
 * swatting; [명사] 스와팅, 거짓 신고((거짓으로 살인, 인질극, 폭탄 위협 등 심각한 비상 사태를 긴급 센터에 신고하여 대응팀을 엉뚱한 주소로 보내는 것))
 
 # 원어민
+* 공로를 인정하다; Prize recognizes excellence in
 * = 내가 얼마나 행복했는지 넌 모를거야. You can’t imagine how happy I was.
 * 추상적인 개념과는 반대로 눈에 보이고 확실히 존재하는 걸 표현할 때 쓰는 형용사입니다. 눈에 보이는 물리적인 사물이 아니더라도, 눈에 띄게 느껴지는 변화, 결과, 증거 등을 의미할 때 [실질적인, 명백한] 등의 의미를 가지기도 해요. 반의어는 intangible 을 씁니다.
 	* = 저흰 이 회담에서 실질적 성과를 볼 수 있기를 희망합니다. We hope to see some tangible results from this talk.  [ˈtændʒəbl] 
