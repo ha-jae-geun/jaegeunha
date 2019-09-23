@@ -1,3 +1,92 @@
+# 소수 찾기
+```java
+한자리 숫자가 적힌 종이 조각이 흩어져있습니다. 흩어진 종이 조각을 붙여 소수를 몇 개 만들 수 있는지 알아내려 합니다.
+
+각 종이 조각에 적힌 숫자가 적힌 문자열 numbers가 주어졌을 때, 종이 조각으로 만들 수 있는 소수가 몇 개인지 return 하도록 solution 함수를 완성해주세요.
+
+제한사항
+numbers는 길이 1 이상 7 이하인 문자열입니다.
+numbers는 0~9까지 숫자만으로 이루어져 있습니다.
+013은 0, 1, 3 숫자가 적힌 종이 조각이 흩어져있다는 의미입니다.
+입출력 예
+numbers	return
+17	3
+011	2
+입출력 예 설명
+예제 #1
+[1, 7]으로는 소수 [7, 17, 71]를 만들 수 있습니다.
+
+예제 #2
+[0, 1, 1]으로는 소수 [11, 101]를 만들 수 있습니다.
+
+11과 011은 같은 숫자로 취급합니다.
+
+
+* 식
+class Solution {
+    public int solution(String numbers) {
+        int answer = 0;
+        return answer;
+    }
+}
+````
+
+
+## 해답
+```java
+import java.util.HashSet;
+import java.util.Set;
+
+public class FindSosu {
+    public int solution(String numbers) {
+        char[] list = numbers.toCharArray();
+        int[] combArr = new int[list.length];
+        for (int i = 0; i < list.length; i++) {
+            combArr[i] = Integer.parseInt(String.valueOf(list[i]));
+        }
+        Set<Integer> sosuList = new HashSet<>();
+        for (int i = 1; i <= list.length; i++) {
+            perm(list, 0, i, sosuList);
+        }
+
+        System.out.println("소수 리스트입니다.");
+        System.out.println(sosuList);
+
+        return sosuList.size();
+    }
+    
+   public void perm(char[] arr, int depth, int k, Set sosuList) {
+        if (depth == k) { 
+            // 한번 depth 가 k로 도달하면 사이클이 돌았음. 출력함.
+            print(arr, k, sosuList);
+            return;
+        } else {
+            for (int i = depth; i < arr.length; i++) {
+                swap(arr, i, depth);
+                perm(arr, depth + 1, k, sosuList);
+                swap(arr, i, depth);
+            }
+        }
+    }
+
+    public void swap(char[] arr, int i, int j) {
+        char temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+    }
+
+    public void print(char[] arr, int k, Set sosuList) {
+        StringBuilder a = new StringBuilder();
+        for (int i = 0; i < k; i++) {
+            System.out.print(arr[i]);
+            a.append(arr[i]);
+        }
+        System.out.println();
+        isSosu(sosuList, a);
+    }
+```
+
+
 # 완주하지 못한 선수
 [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
 ```java
