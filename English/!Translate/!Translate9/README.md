@@ -225,6 +225,26 @@
 * swatting; [명사] 스와팅, 거짓 신고((거짓으로 살인, 인질극, 폭탄 위협 등 심각한 비상 사태를 긴급 센터에 신고하여 대응팀을 엉뚱한 주소로 보내는 것))
 
 # 원어민
+* = 내가 얼마나 행복했는지 넌 모를거야. You can’t imagine how happy I was.
+* 추상적인 개념과는 반대로 눈에 보이고 확실히 존재하는 걸 표현할 때 쓰는 형용사입니다. 눈에 보이는 물리적인 사물이 아니더라도, 눈에 띄게 느껴지는 변화, 결과, 증거 등을 의미할 때 [실질적인, 명백한] 등의 의미를 가지기도 해요. 반의어는 intangible 을 씁니다.
+	* = 저흰 이 회담에서 실질적 성과를 볼 수 있기를 희망합니다. We hope to see some tangible results from this talk.  [ˈtændʒəbl] 
+* 의상 스케치가 살아있는 것처럼 구체화되었다고 말하고 있어요! 이렇게 어떤 생각이 살아있는 생명처럼 재미있어지고 생생해질 때 come alive 라고 합니다.
+	* =우리가 이 이야기가 재미있게 들리도록 만들어야 해. We should make this story come alive.
+	* =계획이 구체화되는 걸 보니까 놀랍다. It's amazing to see the plans come alive.
+* 어떤 상황이나 결정에 가장 중요한 요소가 있을 때 come down to 뒤에 그 요소를 붙여 표현하면 돼요! 영상에서는 모든 게 옷 핏에 달려있었다고 말하고 있어요. 
+	* =결국 끝에는 진짜 우정만 남는 거야. It all comes down to real friendship in the end.
+* 직역하면 '~에게는 자리가 없다'라는 뜻이지만, 조금 응용해서 '~는 용납하지 않겠다'는 의미로도 쓰는 표현이에요! 그럴 여지가 없다는 단호한 어조죠.
+	* =우린 나태함은 용납하지 않겠어. We have no room for laziness.
+* 누군가를 혼란스럽게 하는 걸 bemuse 라고 해요. 어리둥절하게 만드는 거죠.   His call bemused us all.  [bɪˈmjuːzd] 
+* 어떤 상황에 붙잡혀 있다는 느낌을 주죠. 상황에 따라 1) 무언가에 정말 몰두했거나 2) 원치 않게 물리적으로 끼이거나 3) 어떤 상황에 휘말려 빠져나올 수 없을 때 쓰는 표현이에요. 영상에서는 환자들이 모든 것의 중간에 끼어 있다, 휘말려 있다고 표현했네요.
+	* 나는 내가 이 상황에 말려들었다는 것을 발견했다. ex) I found myself caught in the situation.
+* 갑자기 방향을 바꾸어 옆 길로 새는 걸 의미합니다. 길을 이탈할 때 쓰기도 합니다. 실제로 길을 걷다가 경로를 이탈하는 것 뿐만 아니라, 추상적인 의미로도 쓸 수 있어요. 영상에서도 미국이 홀로 트렌드를 이탈했다는 의미로 사용되었죠.
+	* 차가 갑자기 옆 길로 새서 거의 누군갈 칠 뻔 했어. ex) Our car suddenly veered off the road and we almost hit someone.
+	* 얘들아, 옆길로 새지말고 주제에 집중하자. ex) Hey guys, let's not veer off and focus on our topic.  [vɪr] 
+* : '팝업창'이라는 단어 아시죠? 팝업창처럼 '툭 튀어나오다', 다시 말하면 불현듯, 갑작스럽게 '나타나다', '보이다'라는 뜻이에요! 그런데 영상에서처럼 ~ing 진행형으로 쓰이는 경우에는 '우후죽순처럼 생겨나다' 라는 의미가 생기니 유의하세요!
+	* 김연아는 어디서든 막 튀어나와. 티비에도 나오고, 잡지에도 나오고. [ex] Yuna Kim pops up everywhere, on TV, in magazines.
+* 굉장히 구어체적인 표현이에요. 좀 더 격식있는 버전은 want to be a part of ~, want to participate in ~ 등이 있어요.
+	* 너도 낄래? [ex] Do you want in?  ; [ex] He wants in on the plan.
 * 산낙지 먹을 수 있을 것 같아? Do you think you can handle eating a live octopus?
 	* handle: 힘든 그림이 있어요. 
 * 크림은 초콜렛인데 안에도 초콜렛 케이크에요? The frosting is chocolate. I am wondering if the cake inside is chocolate too?
