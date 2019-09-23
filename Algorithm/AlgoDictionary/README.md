@@ -11,7 +11,54 @@ System.out.println(Integer.MIN_VALUE);
 ```
 * 다 대
 
+
+
+<hr/>
+
+
+# Stack
+## String을 char 배열로 변환
+```java
+public boolean isValid(String s) {
+	Stack<Character> stack = new Stack<Character>();
+	for (char c : s.toCharArray()) {
+		if (c == '(')
+			stack.push(')');
+		else if (c == '{')
+			stack.push('}');
+		else if (c == '[')
+			stack.push(']');
+		else if (stack.isEmpty() || stack.pop() != c)
+			return false;
+	}
+	return stack.isEmpty();
+}
+```
+
+
+<hr/>
+
+
+
 # Array
+## String을 char 배열로 변환
+```java
+public boolean isValid(String s) {
+	Stack<Character> stack = new Stack<Character>();
+	for (char c : s.toCharArray()) {
+		if (c == '(')
+			stack.push(')');
+		else if (c == '{')
+			stack.push('}');
+		else if (c == '[')
+			stack.push(']');
+		else if (stack.isEmpty() || stack.pop() != c)
+			return false;
+	}
+	return stack.isEmpty();
+}
+```
+
 ## copyOf
 ```java
 Arrays.copyOf(원본배열, 복사할 길이);
@@ -91,7 +138,50 @@ String.join("", array);
 <hr/>
 
 
+
+
+# char
+## String을 char 배열로 변환
+```java
+public boolean isValid(String s) {
+	Stack<Character> stack = new Stack<Character>();
+	for (char c : s.toCharArray()) {
+		if (c == '(')
+			stack.push(')');
+		else if (c == '{')
+			stack.push('}');
+		else if (c == '[')
+			stack.push(']');
+		else if (stack.isEmpty() || stack.pop() != c)
+			return false;
+	}
+	return stack.isEmpty();
+}
+```
+
+
+<hr/>
+
+
 # String
+## String을 char 배열로 변환
+```java
+public boolean isValid(String s) {
+	Stack<Character> stack = new Stack<Character>();
+	for (char c : s.toCharArray()) {
+		if (c == '(')
+			stack.push(')');
+		else if (c == '{')
+			stack.push('}');
+		else if (c == '[')
+			stack.push(']');
+		else if (stack.isEmpty() || stack.pop() != c)
+			return false;
+	}
+	return stack.isEmpty();
+}
+```
+
 ## String형 뒤집기
 ```java
  public static String reverseString(String s){
