@@ -130,7 +130,26 @@
 	* 통통한 편이다; He's a little chubby;  He's kind of chubby 
 
 # 중요
-I'm calling to report Domestic Violence in my neighborhood.
+* 부모님 중 한 분만 돌아가셨을 경우에는 a parent(단수)를 써야됩니다; I can’t imagine to lose a parent.
+* 몸통은 그대로 놔두고 소매와 통만(너무 크니깐)줄여주세요. Can you take them in and leave the torso as it is?; torso 미국식 [ˈtɔːrsoʊ] 
+* 직역: 실내 공기가 썩었어. ☞ We have stale air inside.     [steɪl]
+	*  It's stuffy (in) here. 여기 공기가 답답해요.
+	* 공기 안좋아; ⟹ The air quality is poor today.
+* 새거 나오면 먹을게요; i'll wait for a batch
+* 아침 저녁 일교차가 커. The weather goes back and forth between hot and cold.
+*  That’s why people are getting colds / flus. * cold와 flu 복수표현가능
+그래서 요즘 (사람들이) 감기에 (더) 많이 걸리고 있어. ☞ That’s why people are getting more colds.
+* 차가 밀리는ㄴ 방향이 아닌 반대방향으로 간다; i drive against traffic / i go against traffic
+* 제가 짐을 부쳐야 하나요? Do I need to claim my baggage?
+* 즉, 리스트가 없는 상태에서 한 단어를 삭제하면서 cross off라고 하지 않음. cross it off your list
+* 다른 통화중이예요. I’m on the other line. - another(X)
+* 2불 덜 줬어요.
+	* You owe me 2 dollars. 또는
+	* I was short 2 dollars.
+* 이미 받은 것에 대한 감사함을 표현할 때
+	* I appreciated your help and the thought.
+	* 주로 현재형으로 많이 외우기 때문에 과거로 표현해야 할 때 실수하지 않게 주의하세요.
+* I'm calling to report Domestic Violence in my neighborhood.
 	* 우리 동네(에서 벌어지고 있는) 가정폭력에 대해 신고하려고 전화했습니다.
 * I'm calling to report child abuse.
 	* 아동학대를 신고하려고 전화했습니다.	
@@ -197,12 +216,18 @@ I'm calling to report Domestic Violence in my neighborhood.
 	* it  [ɪt], eat 미국·영국 [iːt] 
 * Is that it? 전부인가요?  Zhat it
 * genius **of our** strategy; 쓰봐/써봐/씁ㅂ아/즈봐
+* Y 발음
+	* 사실 한국어에도 Y발음이 있는데 한글로는 동일하게 ‘ㅇ’표기라 그 차이를 잘 인식 못하는 거 같습니다. 예를 들면, 한글 표기로는 같지만 숫자 ‘일 IL’과 work의 ‘일 YIL’, 숫자 ‘이 YI’와 치아를 말하는 ‘이 I’ 발음의 차이를 생각하면 한국어에도 y라는 자음을 사용하고 있는데 말입니다. 오늘도 잘 보고 갑니다수고하셨어요^^﻿
+	* * 손바닥을 입 가까이에 대고 혀의 앞쪽 양옆이 느껴지면서 혀의 앞쪽으로 바람이 나오는게 느껴짐
 
 # 뉴스
 * 4층 건물에서 뛰어내렸다; THis person jumped off the fourth floor of a building
 * swatting; [명사] 스와팅, 거짓 신고((거짓으로 살인, 인질극, 폭탄 위협 등 심각한 비상 사태를 긴급 센터에 신고하여 대응팀을 엉뚱한 주소로 보내는 것))
 
 # 원어민
+* 산낙지 먹을 수 있을 것 같아? Do you think you can handle eating a live octopus?
+	* handle: 힘든 그림이 있어요. 
+* 크림은 초콜렛인데 안에도 초콜렛 케이크에요? The frosting is chocolate. I am wondering if the cake inside is chocolate too?
 * 어떤 분위기를 풍기나요? What kind of vibes are you giving off?
 	* 산불은 검은 연기를 내뿜었다; The forest gave off thick black somke
 * 20대 초반의 여성까지 girl
