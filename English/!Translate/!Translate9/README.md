@@ -6,6 +6,7 @@
 	* avoid: 내가 그 상황을 피하다; keey myself from something도 가능하기는 하지만 어감상 안어울림
 * 내 경험으로는, 케이스랑 보호필름이 있어도 신기하게 난 항상 폰이 어떻게든 박살나더라고. but, in my experience, even with cases and protectors, I've always managed to get my phones wrecked somehow 
 * 그래서 그냥 노력하는 것도 포기했어." so I've just given up trying."
+	* manage to + somehow; 비꼬는 표현; (신기하게도) 어떤 식으로든 -됐다
 
  
 
