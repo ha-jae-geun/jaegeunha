@@ -1,3 +1,11 @@
+# [ 기초영어회화 - 일상을 영어로 말하기 ] "겨울대비 옷장정리"
+* "갑자기 엄청 추워지지 않았어? "It suddenly got really cold, didn't it? 
+* (갑자기 엄청 추워졌어, 그치?) 특히 아침이랑 저녁에. 낮에는 아직도 꽤 따뜻해지긴 해. Especially in the mornings and evenings. It still gets pretty warm during the day.
+* 그래서 옷장을 정리할 때가 된 것 같아.  So, I'm thinking (that) it's time to rotate my wardrobe.  [ˈwɔːrdroʊb] 
+* 있잖아, 추운 날씨를 대비해서 여름 옷 정리하는거.  You know, switch out my summer clothes and get ready for the cold weather.
+* 이번 주 중으로 그렇게 해야겠다."  I think I'm going to do that sometime this week."
+
+
 # [ 영어 연습가이드 ] keep from / prevent (from) / avoid
 * "난 폰케이스나 보호필름 쓰는 것을 안좋아해.  "I don't like to use phone cases or screen protectors.
 * 상처와 다른 파손으로부터 보호하고 수리로 많은 돈을 쓰는걸 피하기 위해서 필수라고 생각하는 사람이 많은 것은 알지만, 
