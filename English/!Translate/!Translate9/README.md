@@ -239,6 +239,9 @@
 * swatting; [명사] 스와팅, 거짓 신고((거짓으로 살인, 인질극, 폭탄 위협 등 심각한 비상 사태를 긴급 센터에 신고하여 대응팀을 엉뚱한 주소로 보내는 것))
 
 # 원어민
+* 작은 개: lap dog, 집에서 키우는 개: domestic dog, 개 품종: dog breed
+	* What breed is he?
+* 이메일에서 -에 관해서: 1. as for     2. with regards to     3. I nregard to     4. Regarding
 * 경영 변화로 신선한 아이디어들과 정책들이 도입되게 되었다. The change of management ushered in fresh ideas and policies. 
 * 그 코치는 팀의 경기력 부진을 대단찮게 생각하고 있다. The coach is downplaying the team’s poor performance. 
 * 그녀는 차기 당 대표로 계속 장점이 내세워지고 있다. She’s being touted as the next leader of the party. 
