@@ -231,6 +231,21 @@
 * swatting; [명사] 스와팅, 거짓 신고((거짓으로 살인, 인질극, 폭탄 위협 등 심각한 비상 사태를 긴급 센터에 신고하여 대응팀을 엉뚱한 주소로 보내는 것))
 
 # 원어민
+* 경영 변화로 신선한 아이디어들과 정책들이 도입되게 되었다. The change of management ushered in fresh ideas and policies. 
+* 그 코치는 팀의 경기력 부진을 대단찮게 생각하고 있다. The coach is downplaying the team’s poor performance. 
+* 그녀는 차기 당 대표로 계속 장점이 내세워지고 있다. She’s being touted as the next leader of the party. 
+* African swine fever [명사] (수의학) 아프리카 돼지 열병
+* 제가 죽을만큼 아껴요; i love him to death
+* 십대역을 맡았어요; You play a teenager
+* 독수리는 사나운 새다; The eagle is a fierce bird  [fɪrs]
+* 그는 원칙을 무시해왔어; He has cut corners
+	* 저희는 일을 대충 하지 않아요; We don't cut corners
+* 살짝 후텁지근해요; Its a little muggy
+* 너 앞머리 갈라졌었어; Your bangs were parted
+* 머리끈 좀 빌려줄 수 있어? Do you have a hair tie i can borrow
+* 저 내일 출근 안해요; i'm not on tomorrow
+	* 반차에요; I've got the afternoon off today
+* 결정하는 데 있어 성급하지 마; DOn't be so hasty in making decisions
 * 공로를 인정하다; Prize recognizes excellence in
 * = 내가 얼마나 행복했는지 넌 모를거야. You can’t imagine how happy I was.
 * 추상적인 개념과는 반대로 눈에 보이고 확실히 존재하는 걸 표현할 때 쓰는 형용사입니다. 눈에 보이는 물리적인 사물이 아니더라도, 눈에 띄게 느껴지는 변화, 결과, 증거 등을 의미할 때 [실질적인, 명백한] 등의 의미를 가지기도 해요. 반의어는 intangible 을 씁니다.
