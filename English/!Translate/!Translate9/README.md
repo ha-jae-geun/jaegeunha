@@ -239,6 +239,21 @@
 * swatting; [명사] 스와팅, 거짓 신고((거짓으로 살인, 인질극, 폭탄 위협 등 심각한 비상 사태를 긴급 센터에 신고하여 대응팀을 엉뚱한 주소로 보내는 것))
 
 # 원어민
+* 아쉽다; It's a shame he had to leave so soon
+* 마치 어디에 찔린 것 같아; it's like i'm being stabbed
+* 내가 샴푸 다 썼어; I used up all of the shampoo
+* 저 사람들하고 통하기 시작했어; We're really starting to click with these guys
+* 멍떄리고 있었어; i was in a daze then
+	* 혼란스럽다; i was dazed
+* 음식 나오는지 확인좀 해주세요; Can you check if our orders are ready?
+* 짜증나게해; SH'es really getting in my hair
+* 날 두고 먼저 죽지마; Don't die on me
+* 불가침 조약l a non-aggression pact;  (with sb) (to do sth) (사람·단체·국가 간의, 특히 서로 돕기로 하는) 약속[협정/조약]
+* 천천히 해가 떠오르는게 보이지; In slow motion, we see the sun rise 
+* 그는 (어릴 때부터) 엄격한 훈육을 받고 의무감을 익혔었다. He was weaned on a diet of rigid discipline and duty. 
+	* wean somebody on something: (주로 수동태로) (특히 어린 나이 때부터) ~에게 ~을 경험하게 하다[~의 영향을 받게 하다]
+	* 의사는 그녀로 하여금 수면제를 끊게 하려고 했다. The doctor tried to wean her off sleeping pills. 
+* 누구도 내 기분을 망칠 순 없어; Ain't nobody kill my vibe
 * 작은 개: lap dog, 집에서 키우는 개: domestic dog, 개 품종: dog breed
 	* What breed is he?
 * 이메일에서 -에 관해서: 1. as for     2. with regards to     3. I nregard to     4. Regarding
