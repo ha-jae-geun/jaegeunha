@@ -20,6 +20,7 @@
 
 
 ##영어
+* 슈퍼맨 https://superfan.link/pc
 * 트위터: https://twitter.com/home
 * 슈퍼맨/토익 문제 http://moonje.in
 * 테드 https://www.ted.com/
@@ -28,7 +29,6 @@
 
 
 # 월; 0520
-* 슈퍼맨 https://superfan.link/pc
 * 라이블리 https://m.blog.naver.com/PostList.nhn?blogId=liyu_thirtytwo&currentPage=1
 *  텔라 http://blog.naver.com/PostList.nhn?blogId=tellakor&categoryNo=0&from=postList
 * LEX & Language https://m.blog.naver.com/PostList.nhn?blogId=chillaxer
@@ -40,7 +40,6 @@
 
 
 # 화 0521
-* 슈퍼맨 https://superfan.link/pc
 * 나는나; https://m.blog.naver.com/PostList.nhn?blogId=iamanna12
 * YBM https://m.post.naver.com/my.nhn?memberNo=3503094
 * 영어놀이터 https://m.blog.naver.com/PostList.nhn?blogId=epg8307
@@ -52,36 +51,30 @@
 
 
 # 수 0522
-* 슈퍼맨 https://superfan.link/pc
 * 원스탑에듀 https://m.blog.naver.com/PostList.nhn?blogId=1stopedu
 * 영어 주유소 http://blog.naver.com/tnwlwldu
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
 * 더벌지; https://www.theverge.com/
 * 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
-
+*  출판사 프렉티쿠스  https://blog.naver.com/knowhereman
+*  데이브 http://blog.naver.com/koreanstyl3
 
 # 목 0523
-* 슈퍼맨 https://superfan.link/pc
 *  미드 빅뱅 이론 http://blog.naver.com/yjjy0308/221057882496
 *  쏘피 http://blog.naver.com/sofa1015/220909474533
 * 블루링크 http://m.post.naver.com/my.nhn?memberNo=566&navigationType=push
   https://blog.naver.com/bluewater_33/221291032449
-*  데이브 http://blog.naver.com/koreanstyl3
-*  출판사 프렉티쿠스  https://blog.naver.com/knowhereman
 * 와이넛북스 https://m.post.naver.com/my.nhn?memberNo=5039741
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 인가젯 https://www.engadget.com/
 * 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
 
 # 금 0524
-* 슈퍼맨 https://superfan.link/pc
 *  쌤코치의 영어습관 https://blog.naver.com/georage/221320149267
 *  아미고톡 http://blog.amigotalk.com/
 * dave den https://blog.naver.com/daveenglish 
 * 파이널리스피크 https://blog.naver.com/finallyspeak
-* 사람 in 출판사 https://post.naver.com/my.nhn?memberNo=4760630
-* 데인; https://blog.naver.com/danelee
 * Cage-free https://blog.naver.com/yp2k
 * 넥서스 공시미; https://blog.naver.com/0simiii
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
@@ -91,7 +84,6 @@
 
 
 # 토 0525
-* 슈퍼맨 https://superfan.link/pc
 * 약장수 버스터; https://blog.naver.com/pcmi4easy_english
 * 소다영어 https://blog.naver.com/hyeonahmo/221208654665
 * Shall we learn https://blog.naver.com/teacherr10
@@ -105,7 +97,6 @@
 
 
 # 일 0526
-* 슈퍼맨 https://superfan.link/pc
 * 즐겁게 써먹는 영문법 https://m.blog.naver.com/PostList.nhn?blogId=tkfnxh&categoryNo=42&logCode=0&categoryName=즐겁게 써먹는 영문법
 * 바른 영어교육 https://m.blog.naver.com/PostList.nhn?blogId=dearest_jubi
 * 미드영어 공부 https://m.blog.naver.com/PostList.nhn?blogId=pjc425
