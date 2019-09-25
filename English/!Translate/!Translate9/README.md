@@ -1,3 +1,8 @@
+# 쓸만한 영어 - [스몰톡] 청명한 가을 날씨에 쓸 수 있는 영어표현들
+* 긴 여름 끝나서 좋아 좋아; i am so happy because the long and muggy summer is finally over
+* 초가을이 좋아; i love the change of season;  i love when fall begins
+* 가을 단품은 봄에 피는 벚꽃만큼 예뻐; The leaves changing color are as beautiful as cherry blossoms in spring
+
 # [ 기초영어회화 - 일상을 영어로 말하기 ] "겨울대비 옷장정리"
 * "갑자기 엄청 추워지지 않았어? "It suddenly got really cold, didn't it? 
 * (갑자기 엄청 추워졌어, 그치?) 특히 아침이랑 저녁에. 낮에는 아직도 꽤 따뜻해지긴 해. Especially in the mornings and evenings. It still gets pretty warm during the day.
