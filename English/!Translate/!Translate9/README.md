@@ -244,6 +244,10 @@
 * swatting; [명사] 스와팅, 거짓 신고((거짓으로 살인, 인질극, 폭탄 위협 등 심각한 비상 사태를 긴급 센터에 신고하여 대응팀을 엉뚱한 주소로 보내는 것))
 
 # 원어민
+* (핸드폰) 바탕화면 설정하기; Set as wallpaper
+* (사진) 너한테 그림자가 있어; YOu are in shadow
+* 빨리 서둘러서 해주실 수 있을까요? WOuld it be possible to put a rush on it?
+* 대소변을 가린다; He get hoousebroken
 * 영어에서는 멋지고 좋은 것을 복숭아(peach)에 비유하는 경우가 있어요. 
 	* - You’re a peach 너 참 친절해.
 	* - He's a real peach of a guy. 걘 진국이야.
