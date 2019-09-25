@@ -64,7 +64,6 @@
 # 목 0523
 * 슈퍼맨 https://superfan.link/pc
 *  미드 빅뱅 이론 http://blog.naver.com/yjjy0308/221057882496
-*  다락원 http://post.naver.com/my.nhn?memberNo=4753342&navigationType=push
 *  쏘피 http://blog.naver.com/sofa1015/220909474533
 * 블루링크 http://m.post.naver.com/my.nhn?memberNo=566&navigationType=push
   https://blog.naver.com/bluewater_33/221291032449
