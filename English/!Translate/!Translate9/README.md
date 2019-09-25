@@ -239,6 +239,42 @@
 * swatting; [명사] 스와팅, 거짓 신고((거짓으로 살인, 인질극, 폭탄 위협 등 심각한 비상 사태를 긴급 센터에 신고하여 대응팀을 엉뚱한 주소로 보내는 것))
 
 # 원어민
+* 영어에서는 멋지고 좋은 것을 복숭아(peach)에 비유하는 경우가 있어요. 
+	* - You’re a peach 너 참 친절해.
+	* - He's a real peach of a guy. 걘 진국이야.
+	* 그래서 형용사 peachy 도 ‘복숭아의’ 뿐만 아니라 ‘매우 좋은, 대단한’이란 의미를 갖는것이죠. 참고로 알아둘 표현! 얼굴에 난 보송한 솜털을 peach fuzz 라고 해요!  [fʌs]
+	* = 모든 것이 다 좋아.  Everything is just peachy.
+* ＊ anyone’s guess = 그 누구도 모르는 일; 모두 짐작만 할 뿐 확실히 모르는 걸 가리켜요. “아무도 몰라”라는 뜻의 Nobody knows 대신 이렇게 표현해 봐도 좋겠네요.
+	* : 무슨 일이 벌어질 지 아무도 몰라." "Nobody knows what will happen."
+* add to 감정/특징 = 더 극대화하다
+	* = 혼란만 가중시켰어. (add to ⓝ) ① It only added to the confusion.
+* ＊ I’m disoriented = 나 방향 감각을 잃었어
+	* 자신의 현재 방향이 헷갈릴 때가 있죠. 그 때 쓰는 표현이에요.
+	* = 나 진짜 방향이 헷갈려. 어느 출구로 나가야 하지?  I'm so disoriented. Which way out should we take?
+* sugar-coated = 보기 좋게 꾸민, 사탕발림
+	* 난 너의 사탕발림 약속들을 믿지 않아. I don't trust your sugar-coated promises.
+* 자기에게 이득이 되도록 무언가를 이용하는 것을 의미하는 표현인데요. 이 표현은 전화기를 도청할 때 회선에 끼우는 tap 으로부터 온 표현이에요. tap 을 끼우게 되면 도청이 가능해지고, 그렇게 얻은 정보를 자신의 상황에 유리하게 쓸 수 있게된 모습으로부터 나온 표현이랍니다.
+	* 정치인들은 종종 그들의 라이벌을 공격하고 더 많은 표를 얻기 위해 루머와 스캔들을 이용합니다. ex) Politicians often tap into rumors and scandals to attack their rivals and get more votes.
+	* 확실히 연설에 네 이야기를 쓸 수 있겠어. ex) We can definitely tap into your story for the speech.
+* 동사로 쓰이면 주로 전치사 into 와 함께 쓰여서 [~을 하도록 세뇌시키다] 라고 해석이 됩니다.
+	* 많은 가정 폭력 피해자들은 자기 자신이 가치가 없다고 믿도록 일종의 세뇌를 당하기 때문에 폭력적인 배우자를 두고 떠나질 못한다. ex) Many domestic violence victims don't leave their violent partners because they are basically brainwashed into thinking they are worthless.
+* 직역하자면 희망이 없다는 뜻인데요. 실제로 그런 뜻으로 쓰이기도 하지만, 사람을 묘사하는 경우는 조금 다릅니다. 영상에서처럼 무능하고, 서툴며, 구제불능인 것을 말해요. 
+	* 난 과학에는 형편없어. I'm hopeless at science.
+* awkward 는 어색한, 어딘가 서툰 걸 말하는데요. socially awkward, 사회적으로 서툴다는 건 결국 사회성이 조금 부족하다는 뜻이 되겠죠. 
+	* 그는 좋은 사람이지만, 사회성은 조금 부족해. He's a good guy, but he's a bit socially awkward.
+* 진짜 멋있었어; This was so fetch; 신조어
+* 귀신의 집 지을거면 나를 밟고 넘어가야 할거야; The only way for you're building a haunted house in this backyard is over my dead body [ˈhɔːntɪd] 
+	* 딱걸렸어; They're busted
+* 급한일이 생겼어요; SOmething came up
+* 시간이 관건입니ㅏㄷ; Time is of the essence  [ˈesns]
+* 테러에 대한 경계를 강화하는 시기에는; At this time of heightene terrorism alert
+* [명사] ~ (for sth) | ~ (to sth/to do sth) (일의 추진에 필요한) 자극(제)[추동력] 유의어 stimulus; to give (a) new/fresh impetus to sth; …에 새로운/신선한 자극이 되다  [ˈɪmpɪtəs]
+* 송로버섯을 사면; Maybe if i buy some truffles
+* 기대해도 좋습니다; You're ** in for a treat**
+* 내 사전에 없어; be not in my blood
+* 살아서 돌아갈 거란걸 알아; I'll make it out alive
+* 사람들 사이에서도 눈에 띄어; YOu stick out of the crowd
+* 마찬가지에요; the same is true
 * 아쉽다; It's a shame he had to leave so soon
 * 마치 어디에 찔린 것 같아; it's like i'm being stabbed
 * 내가 샴푸 다 썼어; I used up all of the shampoo
