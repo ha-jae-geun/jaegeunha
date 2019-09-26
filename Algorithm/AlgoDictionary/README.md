@@ -204,6 +204,59 @@ public boolean isValid(String s) {
 
 
 # String
+## charAt
+```java
+public static int getStrike(String chk, String num) {
+		int cnt = 0;
+		for(int i = 0; i < 3; i++)
+			cnt += chk.charAt(i) == num.charAt(i) ? 1 : 0;
+		
+		return cnt;
+	}
+```
+
+## valueOf
+```java
+for(int i = 0; i < baseball.length && cnt < baseball.length; i++) {
+            	int strike = getStrike(chNum, String.valueOf(baseball[i][0]));
+            	int ball = getBall(chNum, String.valueOf(baseball[i][0])); 
+        		
+            	if(strike == baseball[i][1] && ball == baseball[i][2])
+            		cnt++;
+            }
+```
+
+## valueOf
+```java
+ String.valueOf()
+
+    - 파라미터가 null 이면 문자열 null을 만들어서 담는다.
+
+- Casting
+
+    - 대상이 null 이면 NullPointerException 발생.
+
+    - Object 값이 String 이 아니면  ClassCastException 발생.
+    
+- "".toString()
+
+    - 당연하게 .  으로 사용하는 만큼 대상 값이 null 이면 NullPointerException 발생.
+
+    - Object 에 담긴 값이 String 이 아니라도 출력.
+
+차이점은 null값이 따른 NullPointException의 발생 유무.
+
+ 
+- 예제
+	String str = null;
+
+	System.out.println((String) str);           // 'null' text return
+
+	System.out.println(String.valueOf(str));    // 'null' text return
+
+	System.out.println(str.toString());         // NullPointException
+```
+
 ## String을 char 배열로 변환
 ```java
 public boolean isValid(String s) {
