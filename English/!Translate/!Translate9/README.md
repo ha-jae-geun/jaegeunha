@@ -210,6 +210,8 @@
 * gullible 미국식 [ˈɡʌləbl]; 사람을 잘 믿는
 
 # 토익
+* exercise due diligence: , 주의하다: exercise caution
+	* 상당한 주의: due diligence
 * exhaustible: 고갈 시킬 수 있는; exhausted: 1. 기진맥진한 2. 다 써버린(카트리지);  exhaustive: 철저한; thorough
 * merge(자동사) + with;  타동사 + A with B;  명사: The merger between/ of A and B
 * direct: 타동사; -에게 -를 보내다; Please direct questions about warranties
