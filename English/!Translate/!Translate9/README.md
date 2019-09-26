@@ -1,3 +1,11 @@
+# [ 직장영어 ] "의견을 조율하다" / "중간에서 타협을 해주다" (+구동사)
+* "새 공급처와의 계약이 거의 성사되려고 하고 있어요.  We're closing in on a contract with a new supplier.
+	* be closing in: 성사되다
+* 아직 몇 가지의 세부사항들을 조율중이에요. We're still in the process of working out a few fine details.
+	* be in the process of: 과정에 있다.
+* 우리가 추가요청을 몇 가지 했는데 그들이 중간에서 타협을 해 줄 의향이 있다면 우리는 빨리 일을 진행시키고 싶어요." "  We've made some additional requests and if they're willing to meet us halfway, we're very anxious to get things moving forward."  [ˈæŋkʃəs]
+	* meet someone halfway: 타협하다
+
 # 쓸만한 영어 - [스몰톡] 청명한 가을 날씨에 쓸 수 있는 영어표현들
 * 긴 여름 끝나서 좋아 좋아; i am so happy because the long and muggy summer is finally over
 * 초가을이 좋아; i love the change of season;  i love when fall begins
@@ -244,6 +252,26 @@
 * swatting; [명사] 스와팅, 거짓 신고((거짓으로 살인, 인질극, 폭탄 위협 등 심각한 비상 사태를 긴급 센터에 신고하여 대응팀을 엉뚱한 주소로 보내는 것))
 
 # 원어민
+* 그리고 사람들이 할인 마트 안에 고립이 되죠. And people are stranded inside the retailer store.
+* 이 문장 좋아해요; i like this quote [kwoʊt]
+* 마스크/옷을 벗다; take off a mask
+* 비슷한 사람을 찾기 위해서; to find a lookalike
+* 방화 및 상해죄 혐의가 철회된다; The arson and mayhem charges will be dropped  [ˈɑːrsn]    [ˈmeɪhem] 
+	* 운동권 단체야? Is this an activist group?
+	* 이 웅덩이도 여기 없었던 거고; That puddle wasn't here
+	* 흐느기기 싲가했어요; She began to sob  [sɑːb] 
+* 어떤 의미에서는; In a sense
+* 게이세요? Are you homosexual?
+*  그 자료는 저작권을 위반하지 않고 복사할 수 있다. The material can be copied without infringing copyright. 
+* 그거 물건너 갔어? That's off the table
+* 고려할 가치가 없다; Your suggestion is out of the question
+	* 새로운 제안들이 상정되어 있다; The new proposals are on the table
+* 화재가 진압됐다; THe fire was contained
+	* 입원시키다; They were hospitalized due to smoke inhalation  [ìnhəléiʃən]
+* 확해새석하지마; DOn't blow this out of proportion
+* 소개할 때; i don't believe we've met before;  Haven't we met before?
+	* 작업: Don't i know you from somewhere?; 관심 있다면: sure
+* 머리카락이 쭈뼜썼다; My hair stood on end
 * (핸드폰) 바탕화면 설정하기; Set as wallpaper
 * (사진) 너한테 그림자가 있어; YOu are in shadow
 * 빨리 서둘러서 해주실 수 있을까요? WOuld it be possible to put a rush on it?
