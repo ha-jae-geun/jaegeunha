@@ -254,6 +254,9 @@
 * swatting; [명사] 스와팅, 거짓 신고((거짓으로 살인, 인질극, 폭탄 위협 등 심각한 비상 사태를 긴급 센터에 신고하여 대응팀을 엉뚱한 주소로 보내는 것))
 
 # 원어민
+* Cut; 역할 바뀌었어요; Roled reversed
+	* 얼굴에 빨래집게를 자기 나이만큼... Clamp clothespin on the face, as many as his age
+	* 거짓말 탐지기 하다; take a lie tetector test
 * 그리고 사람들이 할인 마트 안에 고립이 되죠. And people are stranded inside the retailer store.
 * 이 문장 좋아해요; i like this quote [kwoʊt]
 * 마스크/옷을 벗다; take off a mask
