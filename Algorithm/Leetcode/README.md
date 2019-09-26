@@ -1,3 +1,123 @@
+#  Middle of the Linked List
+```java
+Given a non-empty, singly linked list with head node head, return a middle node of linked list.
+
+If there are two middle nodes, return the second middle node.
+
+ 
+
+Example 1:
+
+Input: [1,2,3,4,5]
+Output: Node 3 from this list (Serialization: [3,4,5])
+The returned node has value 3.  (The judge's serialization of this node is [3,4,5]).
+Note that we returned a ListNode object ans, such that:
+ans.val = 3, ans.next.val = 4, ans.next.next.val = 5, and ans.next.next.next = NULL.
+Example 2:
+
+Input: [1,2,3,4,5,6]
+Output: Node 4 from this list (Serialization: [4,5,6])
+Since the list has two middle nodes with values 3 and 4, we return the second one.
+
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+    public ListNode middleNode(ListNode head) {
+        
+    }
+}
+
+```
+
+## 풀이 1번
+```java
+public ListNode middleNode(ListNode head) {
+        ListNode slow = head, fast = head;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return slow;
+    }
+
+Each time, slow go 1 steps while fast go 2 steps.
+When fast arrives at the end, slow will arrive right in the middle.
+```
+
+## 풀이 2번
+```java
+class Solution {
+    public ListNode middleNode(ListNode head) {
+        if(head == null) return head;
+
+        int len = 0;
+        ListNode current = head;
+        while(current != null) {
+            len++;
+            current = current.next;
+        }
+        
+        len /= 2;
+        current = head;
+        while(len > 0) {
+            current = current.next;
+            len--;
+        }
+        
+        return current;
+    }
+}
+```
+
+#  N-ary Tree Preorder Traversal
+```java
+Given an n-ary tree, return the preorder traversal of its nodes' values.
+
+For example, given a 3-ary tree:
+
+/*
+// Definition for a Node.
+class Node {
+    public int val;
+    public List<Node> children;
+
+    public Node() {}
+
+    public Node(int _val,List<Node> _children) {
+        val = _val;
+        children = _children;
+    }
+};
+*/
+class Solution {
+    public List<Integer> preorder(Node root) {
+        
+    }
+}
+```
+
+```java
+class Solution {
+    public List<Integer> list = new ArrayList<>();
+    public List<Integer> preorder(Node root) {
+        if (root == null)
+            return list;
+        
+        list.add(root.val);
+        for(Node node: root.children)
+            preorder(node);
+                
+        return list;
+    }
+}
+```
+
 # 삼각형 출력하기
 ```java
 printTriangle 메소드는 양의 정수 num을 매개변수로 입력받습니다. 
