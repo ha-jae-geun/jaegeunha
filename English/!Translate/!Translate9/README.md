@@ -254,6 +254,28 @@
 * swatting; [명사] 스와팅, 거짓 신고((거짓으로 살인, 인질극, 폭탄 위협 등 심각한 비상 사태를 긴급 센터에 신고하여 대응팀을 엉뚱한 주소로 보내는 것))
 
 # 원어민
+* kneecap: 무릎 슬개근; 동사: 힘을 못쓰고 아작내려고 하다
+	* Trump seeks to kneecap sonsumer protection; 소비자 보호 기관을 힘을 못쓰게 아작내려고 한다.
+* 프래이밍 전쟁: framing war;  frame이 아님; 침낭이 sleeping bag 느낌; 끊어 읽으면 안됨
+* 쓰다듬었따; Someone patted someone on the head [pæt] 
+* He hit/beat/slap in the face/부위
+* near; by; by는 바로 옆 아주 가까운 느낌
+* 얼음 주머니 대줄게; I'll put this ice pack on it
+* EOW; Every other week
+	* 마지막 판 뒤집기입니다. This last round is going to be a turnaround
+* 마치 컴퓨터 용어와 같은, 딱딱한 느낌의 단어인데요, 생각보다 캐쥬얼하게 쓰일 수 있는 말이에요. 의견이라는 뜻으로, opinion 과 동의어라고 볼 수 있는데요. 조금 다른 점은 아무에게나 들을 수 있는 의견을 말하는 opinion과는 달리, 보통 전문가 등 많은 지식을 가지고 있는 사람에게 듣는 의견이라는 겁니다. '조언' 이라고도 볼 수 있죠.
+	* 조언해 주시면 정말 감사하겠습니다. I'd really appreciate your input.
+* 바람에 날려버리듯, 과감하게 버리는 것을 말합니다. 여기서는 음성이 없는 영화를 찍으며  기존의 형식은 취할 수 없었기에, throw it to the wind, 완전히 잊어버리고 새로운 것을 시도해야 한다고 이야기하죠. 추가적으로 알아두시면 좋은 표현은 'throw caution to the wind' 입니다. 경계심을 완전히 잊는다는 말로, '과감하게 행동한다' 는 뜻이 되죠. 
+	* 우리는 과감하게 백만 달러를 걸었습니다. We threw caution to the wind and bet a million dollars.
+* 안 좋은 일이나 이해하기 어려운 것이 있을 때, 그것을 믿고 충분히 마음에 받아들이는 것을 sink in 이라고 해요. 이렇게 되기까지는 시간이 필요하니까요.
+	* =그가 죽었다는 게 그냥 실감이 안 나. The fact that he died just isn't sinking in.
+* go kaput은 'broken', 'destroyed'와 비슷한 뜻의 단어로, 완전히 망가져서 제 기능을 하지 못한다는 말이에요. 독일어에서 유래한 표현이죠.
+	* =내 휴대폰이 고장나서 사진이 다 날아갔어. My phone went kaput and I lost all my photos.  [kəˈpʊt]
+* 많은 노력을 들여서 뭔가를 하는 것을 toil over something 이라고 해요. 'work hard on'과 비슷한 의미죠.
+	* =그녀는 밤 늦게까지 에세이에 공을 들였어. She toiled over her essay well into the night.
+* 사람들이 모여있는 자리에 나타나는 걸 show up 이라고 하는데요, 주로 코난처럼 예상치 못하게 갑자기 나타나거나 시간을 못 맞추고 지각했을 때 자주 쓰는 표현이에요!
+	* =그는 인터미션 때까지 안 왔어. He didn't show up until the intermission.
+	* =너 이렇게 불쑥 찾아오면 안 돼. You can't just show up like this.
 * Cut; 역할 바뀌었어요; Roled reversed
 	* 얼굴에 빨래집게를 자기 나이만큼... Clamp clothespin on the face, as many as his age
 	* 거짓말 탐지기 하다; take a lie tetector test
