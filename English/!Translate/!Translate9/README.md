@@ -254,6 +254,13 @@
 * swatting; [명사] 스와팅, 거짓 신고((거짓으로 살인, 인질극, 폭탄 위협 등 심각한 비상 사태를 긴급 센터에 신고하여 대응팀을 엉뚱한 주소로 보내는 것))
 
 # 원어민
+* 뇌진탕이 심하지 않다면; Provided my concussion isn't too severe; concussion 미국식 [kənˈkʌʃn] 
+* 성공은 그냥 주어지는 것이 아니다; Success was never a given
+* 멋지다; i like something/somoeone; like가 멋지다
+* 원래부터 머리 그 색이에요? 아니면 염색한거에요? 
+* herky-jerky 미국·영국 [hə́:rkidƷə́:rki]  [형용사] <행위가> 돌연한, 불규칙적인, 발작적으로 움찔하는
+* 혹시 누적조회수 아시는 분? 그렇죠. Does anyone know the number of cumulative views? Yes. [-leɪtɪv]  영국식 [ˈkjuːmjələtɪv]
+* 영화를 자주 바는 사람들을; moviegoer
 * 보통 walk 이나 trip 을 써서 down memory lane 이라고 하면 '기억 도로를 걸어내려가다', 혹은 '기억 도로를 여행해 내려가다' 정도로 직역되는데요. 비슷하게 '오래 전에 일어난 일들이나 기억들을 추억하다' 는 의미로 쓰이는 표현이예요.
 	* 우리 추억들을 되짚어 보자. Let's have a walk down memory lane.
 	* 이건 나에게 추억들을 되짚어 보는 일이야. It's a trip down memory lane for me.
