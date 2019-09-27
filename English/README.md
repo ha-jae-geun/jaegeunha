@@ -102,7 +102,6 @@
 * 미드영어 공부 https://m.blog.naver.com/PostList.nhn?blogId=pjc425
 * 오디너리 소피 https://m.blog.naver.com/PostList.nhn?blogId=sofa1015
 * 야나두 https://blog.naver.com/yanadooblog/221323042575
-* 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 테크 크런치 https://techcrunch.com/
 * 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
