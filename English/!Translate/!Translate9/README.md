@@ -254,6 +254,27 @@
 * swatting; [명사] 스와팅, 거짓 신고((거짓으로 살인, 인질극, 폭탄 위협 등 심각한 비상 사태를 긴급 센터에 신고하여 대응팀을 엉뚱한 주소로 보내는 것))
 
 # 원어민
+* 화가 나서 뭔가에 대해 열심히 이야기하는 걸 rave 라고 해요. 어디가 아프거나 정신이 나가서 지나치게 흥분했다는 느낌이 드는 단어에요!
+	* =그녀는 저녁 내내 해리 스타일스에 대해 열변을 토했어! She spent the whole evening raving about Harry Styles!
+	* =우리 아빠는 항상 정부 욕을 막 해. My father's always raving about the government.
+* raw deal은 불공평한 대우나 푸대접을 뜻해요. 보통 get, have, give 같은 동사들과 함께 쓰이는 표현이죠!
+	* =그 직장에서 나는 진짜 부당한 대우를 받았어. I surely got a raw deal at that job.
+	* =그 가게는 많은 노인들을 푸대접하고 있어. The store is giving a raw deal to many old people.
+	* =이게 무슨 부당한 처사입니까? What kind of a raw deal is this?
+* 경쟁에서 이길 가능성이 충분히 있는 상황에서 쓸 수 있는 표현이에요. 달리기 대회에서 열심히 뛰는 선수를 떠올리면 이해하기 쉽죠?
+	* =난 매니저 직위를 위해 경쟁하고 있어. I'm in the running for the manager position.
+* 너무 화가 나거나 충격을 받아서 돌아버리는 걸 flip out 이라고 해요. 눈이 뒤집혀서 격하게 반응하는 거죠.
+	* =엄마가 알면 까물러치실 거야! Mom will flip out when she finds out!
+* 소설 「이상한 나라의 앨리스」 에서 앨리스가 토끼굴(rabbit hole)로 들어갔다가 이상한 세계에 빠져들죠. 거기서 유래한 표현으로 힘든 상황, 혼돈의 상태에 빠지는 걸 의미해요.  보통 go/fall down the rabbit hole 처럼 표현하는데 가사에서는 rabbit hole 자체를 동사처럼 썼습니다.
+	* = 난 구렁텅이에 빠졌었어. I was down the rabbit hole.
+* 최신의 정보까지 속속들이 잘 이해하고 있는 상태를 up to speed 라고 해요. 그래서 come up to speed는 '이해하게 되다'라는 표현이 되는 거죠!
+	* =새로 온 직원이 잘 배우게 도와줘, 알았지? Help the new guy come up to speed, will you?
+* take a stand = 입장을 취하다
+	* =우리가 입장을 밝힐 때가 됐어. It's time we take a stand.
+* ＊ What are we thinking? = 어떤 것 같으세요?이 표현은 동일한 것을 고민하면서 상대방의 의견을 묻는 어감이 있어요. 뭔가 함께 생각하고 함께 결정내리는 것처럼요. 대답도 We’re thinking… 이라고 해도 됩니다. 비록 그게 대답하는 사람의 의견일지라도요.
+	* What are we thinking? – We’re thinking that it should be changed.
+* 관심을 갖고 보는 걸 말해요. 예를 들어 파티장에 마음에 드는 사람을 발견하고는 그 사람을 이곳 저곳 살펴보는 것처럼요.
+	* = 저기 저 남자가 널 자꾸 보는 것 같아. I think the guy over there is checking you out.
 * 뇌진탕이 심하지 않다면; Provided my concussion isn't too severe; concussion 미국식 [kənˈkʌʃn] 
 * 성공은 그냥 주어지는 것이 아니다; Success was never a given
 * 멋지다; i like something/somoeone; like가 멋지다
