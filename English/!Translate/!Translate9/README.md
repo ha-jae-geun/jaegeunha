@@ -254,6 +254,18 @@
 * swatting; [명사] 스와팅, 거짓 신고((거짓으로 살인, 인질극, 폭탄 위협 등 심각한 비상 사태를 긴급 센터에 신고하여 대응팀을 엉뚱한 주소로 보내는 것))
 
 # 원어민
+* 보통 walk 이나 trip 을 써서 down memory lane 이라고 하면 '기억 도로를 걸어내려가다', 혹은 '기억 도로를 여행해 내려가다' 정도로 직역되는데요. 비슷하게 '오래 전에 일어난 일들이나 기억들을 추억하다' 는 의미로 쓰이는 표현이예요.
+	* 우리 추억들을 되짚어 보자. Let's have a walk down memory lane.
+	* 이건 나에게 추억들을 되짚어 보는 일이야. It's a trip down memory lane for me.
+* overnight 은 동사로도 써요. 어떤 곳에서 하룻밤을 묵는다는 의미죠. 
+	* = 쇼에 참가하기 전에 상해에서 하룻밤 묵었어. (동사) We overnighted in Shanghai before going to the show.
+* random 과 비슷하게 쓸 수 있는 단어인데요. 임의적인, 그러니까 특별히 근거가 없는 것을 말해요. 주로 판단이나 규칙 등에 대해 쓸 수 있죠.
+	* 그 결정은 전혀 근거가 없었어. 도대체 어디서 나온 결정인지 모르겠어. That decision was completely arbitrary. I don't know where it came from. arbitrary 미국식 [ˈɑːrbətreri] 
+* 나 무술하거든; i do martial arts
+* 티가 나네요; It shows
+* 작은 분무기로 체벌하려고요; To discipline on this little spray
+* 색이 있기 때문에(화장품); It's tinted
+* 야외 파티 즐길 준비 됐지: Who's ready for a litle taligating; 시합 전후에 경깆아 밖에서 가지는 야외 파티; tailgate 미국·영국 [ˈteɪlɡeɪt]
 * kneecap: 무릎 슬개근; 동사: 힘을 못쓰고 아작내려고 하다
 	* Trump seeks to kneecap sonsumer protection; 소비자 보호 기관을 힘을 못쓰게 아작내려고 한다.
 * 프래이밍 전쟁: framing war;  frame이 아님; 침낭이 sleeping bag 느낌; 끊어 읽으면 안됨
@@ -903,6 +915,7 @@
 * 보험 되는거에요? Is it insured? Does it include insurance?
 
 # 코어
+* 웨하스: wafer 미국·영국 [ˈweɪfə(r)]    waffle 미국식 [ˈwɑːfl] 
 * shorten 미국식 [ˈʃɔːrtn]; 쑐은
 * there are; th; tear의 발음을 부드럽게; theirs와 발음이 비슷
 	* 하지만 발음이 불편해서 문법상 틀리지만 there is a lot a kids 처럼 발음하기도 함
