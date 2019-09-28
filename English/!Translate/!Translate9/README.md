@@ -1,3 +1,12 @@
+# [ 기초영어회화 - 일상을 영어로 말하기 ] - "끼니를 때우다", "귀찮아서 배달시켜먹다"
+* "오늘 아침에 일어나서 배가 꽤(좀) 고프더라고요. "I got up this morning and I was feeling pretty(a little) hungry. 
+	* i am hugry: 배가 고팠어; 상황 설명
+	* i am feeling hungry; 배가 고프더라고; 발견하는 듯한 어감
+* 보통은 한 주 동안 먹고 남은 음식이 있어서 그걸로 대충 때울텐데, Usually, I would have some leftovers from other stuff (that) I ate throughout the week and I would just scrounge.  [skraʊndʒ] 
+* 오늘 아침에 보니까 아무것도 없더라고요. But this morning(today) when I checked, I had nothing
+* 뭐 해먹기 귀찮아서 그냥 뭐 배달시켜 먹었어요."  and I really didn't feel like cooking anything so I just got something delivered."
+	* soemething: 음식이라는 것이 문맥상 드러났기 때문에 이렇게 표현
+
 # [ 직장영어 ] "의견을 조율하다" / "중간에서 타협을 해주다" (+구동사)
 * "새 공급처와의 계약이 거의 성사되려고 하고 있어요.  We're closing in on a contract with a new supplier.
 	* be closing in: 성사되다
