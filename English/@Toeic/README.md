@@ -1,3 +1,6 @@
+# 기출
+* as well as 다음 -ing 가능
+
 # 질문
 # 토익
 * WHat does the woman offer to do;  답: will do
