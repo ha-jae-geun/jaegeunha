@@ -264,6 +264,41 @@
 * swatting; [명사] 스와팅, 거짓 신고((거짓으로 살인, 인질극, 폭탄 위협 등 심각한 비상 사태를 긴급 센터에 신고하여 대응팀을 엉뚱한 주소로 보내는 것))
 
 # 원어민
+* (전화) 잘 안들리는데요; We're breaking up
+* 제 전문이 아니에요; That's not my bag
+* 어른스러운것 같은데; That soounds adult
+* 살짝 맛본거야요; That's just a glimpse of how the Google Assistant works; glimpse 미국·영국 [ɡlɪmps]
+* 분위기를 확 띄우고 관객들을 흥분시켰을 때 rock the house 라고 해요! 공연장을 완전히 뒤집어 놓은 거죠. 
+	* =트로이가 진짜 무대를 뒤집어 놨어. Troy really rocked the house.
+* 이 노래에서 계속 외치듯 서로 꼭 붙어서 함께하는 걸 stick together 라고 해요. 진짜로 하이 스쿨 뮤지컬 속 친구들은 항상 끈끈하게 단결해 왔죠!
+	* =여자애들이 서로 단결하는 게 중요해. It is important for girls to stick together.
+* 'chat' 과 비슷한 단어이지만, 대화를 통해 사회적인 관계를 만들어간다는 뉘앙스가 있다는 점이 달라요. 내가 원하는 목적을 달성하기 위해 친한 척을 한다는, 약간 부정적인 느낌을 주기도 하죠. 
+	* 걔 저쪽에서 교수님한테 친한 척 하며 수다떠는 거 봤어? Did you see him schmoozing with the professor over there?  [ʃmuːz] 
+* put ~ on blast= ~을 공개적으로 망신을 주다; blast 는 흔히 '폭발' 이라는 뜻으로 인식하는 단어이지만 '비난' 이라는 뜻도 있는데요. 그래서 put ~ on blast 의 형태나 put the blast on ~ 의 형태로 쓰이는 이 표현들은 '~를 맹렬히 비난하다' 라는 의미로 쓰인답니다. 하지만 꼭 '비난하다' 는 의미가 아니라 영상에서처럼 '공개적으로 망신을 주다' 는 의미로도 쓰이니까 알아두면 유용하겠죠!
+* 여기서 control 은 ‘조종 능력’를 말해요. 그래서 [take control of 명사] 는 자기가 하고 싶은대로 조종한다는 뜻이죠. 하지만 문맥에 따라 ‘잘 관리하다, 제어하다’도 되기 때문에 꼭 나쁜 뜻만은 아니에요.
+	* = 여친이 항상 날 조종하려고 들어! She always wants to take control of me!
+	* = 네 감정 제어를 잘 해야 해. You should take control of your emotions.
+* ＊ feel out of place = 장소에 어울리지 않는 느낌을 받다; 장소에 맞지 않는 것이 out of space 예요. 있지 말아야 할 장소에 있는 것이죠.  그래서 feel out of place 그 자리에 어울리지 않는 느낌을 받는단 뜻이예요. 다른 말로 I don’t feel I belong here 이라고도 표현할 수 있겠네요.
+	* = 댄스 파티에서 내가 있을 곳이 아니라는 느낌을 받았어. I felt out of place at the dance party.
+* ＊ a nonstarter = 생각할 가치도 없는 것
+	* = 그가 제안한 건 전혀 성공할 가망이 없어. His proposal is an absolute nonstarter.
+	* = 그녀 같은 사람에겐, 나 같은건 생각할 가치도 없겠지. For someone like her, I’m just a nonstarter.
+* 감탄사로 hello 는 상대방의 주의를 끄는 기능을 하는데요, 여기에 빈정댐, 화남, 놀라움의 감정이 담겨있어요. 영상에서도 “나 잘생겼다고 하는거 들었지?”처럼 상대방이 틀렸음을 비아냥거리는 것이죠.  또한 상대방이 어이없이 굴 때도 쓸 수 있어요. “뭐? 무슨 말도 안되는 말이야?”랑 비슷해요.
+	* = 아, 거 봐! 얘가 방금 말한 것 들었지? Well, hello! Did you hear what she said?
+	* = 제가 여깄는지 몰랐다고요? 이봐요! 한 시간 전부터 있었거든요? You didn’t know I was here? Hello! I’ve been here for an hour!
+* 그리고 skinny, thin 은 삐쩍 마른 것에 가깝고 lean 은 보기 좋게 날씬한 걸 말해요. 또한 살코기라는 뜻도 있어요. 지방질이 없으니까요.
+	* = 난 한국에서 뚱뚱한 편에 속해. I’m thought of as fat in Korea.
+* 책임 전가하지마;  Don't pass the buck to others
+	* 책임질게; The buck stops here
+* 순조롭게 시작하기 위해서; In order to get off on the right foot
+* 회사 밖에서는 업무와 관련된 이야기는 하지 말자; Let's not talk hop on such a nice day
+	* 공사는 구분하자; Don't mix business with pleasure
+* 상사, 부하: SUpervisor, Subordinate  [səˈbɔːdɪnət;美-ˈbɔːrd-] 
+	* 후배: inferior 미국식 [-ˈfɪr-]  영국식 [ɪnˈfɪəriə(r)]; 열등한이라는 뜻으로 기분 불쾌해서 잘 사용 안함
+	* 일반적으로 supervisor, boss
+* 컴퓨터 자격증; Computer literacy  [ˈlɪtərəsi]  / computer skil; He has high computer literacy
+* 피아노 과외를 받고 싶은데요; i could really use some extra piano lessons
+* 넌 나에게 금상첨화야; you are the icing on the cake
 * 화가 나서 뭔가에 대해 열심히 이야기하는 걸 rave 라고 해요. 어디가 아프거나 정신이 나가서 지나치게 흥분했다는 느낌이 드는 단어에요!
 	* =그녀는 저녁 내내 해리 스타일스에 대해 열변을 토했어! She spent the whole evening raving about Harry Styles!
 	* =우리 아빠는 항상 정부 욕을 막 해. My father's always raving about the government.
@@ -953,6 +988,7 @@
 * 보험 되는거에요? Is it insured? Does it include insurance?
 
 # 코어
+* 하이에나; hyena 미국식 [haɪˈiːnə] 
 * 웨하스: wafer 미국·영국 [ˈweɪfə(r)]    waffle 미국식 [ˈwɑːfl] 
 * shorten 미국식 [ˈʃɔːrtn]; 쑐은
 * there are; th; tear의 발음을 부드럽게; theirs와 발음이 비슷
