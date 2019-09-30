@@ -1036,6 +1036,7 @@
 * 보험 되는거에요? Is it insured? Does it include insurance?
 
 # 코어
+* best friend 발음; best에서 t 생략; 강조할 때만 붙여주기
 * northern 미국식 [ˈnɔːrðərn]; 던;  southern 미국식 [-ərn]  영국식 [ˈsʌðən] 
 * 하이에나; hyena 미국식 [haɪˈiːnə] 
 * 웨하스: wafer 미국·영국 [ˈweɪfə(r)]    waffle 미국식 [ˈwɑːfl] 
