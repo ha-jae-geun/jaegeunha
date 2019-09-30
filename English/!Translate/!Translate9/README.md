@@ -264,6 +264,11 @@
 * swatting; [명사] 스와팅, 거짓 신고((거짓으로 살인, 인질극, 폭탄 위협 등 심각한 비상 사태를 긴급 센터에 신고하여 대응팀을 엉뚱한 주소로 보내는 것))
 
 # 원어민
+* 나뭇가지; It was a dry twig  [twɪɡ]
+	* 꽃을 꺾다; I'll pick flowers
+	* 30개의 잎이 달려있었어; There's up to 30 leaves on it
+	* 상록수; 주변을 둘러보고 불타고 있는 푸른 숲을 발견한다.; u look around and find the evergreen forest burning. 듣기 출처:YBM
+	* 솔방울; pine cone 
 * spin 은 '돌다' 는 뜻으로 가장 잘 알려져 있는 단어이지만 put a spin on 이라는 형태로 엄청 자주 쓰이는데요. 이건 보통 어떤 정보를 누군가에게 전달하거나 알릴 때 자신의 의견을 조금 더 보태서 자신에게 유리한 쪽으로 조금 바꿔낼 때, 그 바꾼 '그럴듯한 의견' 정도를 의미하는데요. 그래서 영상에서도 아이리쉬 사람들이 쓰는 표현에서 자신은 '조금 변화를 준다' 고 얘기하면서 have my own spin on it 하고 말하고 있죠.
 * 동사 stumble 은 ‘발에 걸리다, 헛디디다’이지만 stumble upon 은 우연히 알게 되거나, 우연히 발견하거나, 우연히 만나는 걸 말해요.
 	* = 그녀는 발을 헛디뎌 넘어졌다. She stumbled and fell.
