@@ -264,6 +264,49 @@
 * swatting; [명사] 스와팅, 거짓 신고((거짓으로 살인, 인질극, 폭탄 위협 등 심각한 비상 사태를 긴급 센터에 신고하여 대응팀을 엉뚱한 주소로 보내는 것))
 
 # 원어민
+* spin 은 '돌다' 는 뜻으로 가장 잘 알려져 있는 단어이지만 put a spin on 이라는 형태로 엄청 자주 쓰이는데요. 이건 보통 어떤 정보를 누군가에게 전달하거나 알릴 때 자신의 의견을 조금 더 보태서 자신에게 유리한 쪽으로 조금 바꿔낼 때, 그 바꾼 '그럴듯한 의견' 정도를 의미하는데요. 그래서 영상에서도 아이리쉬 사람들이 쓰는 표현에서 자신은 '조금 변화를 준다' 고 얘기하면서 have my own spin on it 하고 말하고 있죠.
+* 동사 stumble 은 ‘발에 걸리다, 헛디디다’이지만 stumble upon 은 우연히 알게 되거나, 우연히 발견하거나, 우연히 만나는 걸 말해요.
+	* = 그녀는 발을 헛디뎌 넘어졌다. She stumbled and fell.
+	* = 나 지난번에 진짜 대박인 작은 카페를 발견했어. I stumbled upon this fantastic little café the other day.
+* 반대로 [be a stranger to ⓝ] 는 ‘많이 안 겪어보다, 잘 모르다’가 됩니다.
+	* = 괜찮아. 나도 매운 음식은 많이 먹어봤어. Don’t worry. I’m no stranger to spicy food.
+* 후추를 요리에 뿌리듯이 무언가를 잔뜩 섞어넣는, 가득 채우는 것을 'pepper with ~ ' 라고 표현하기도 해요.
+	* 그의 연설은 풍자로 가득 차있었다. His speech was peppered with satire.
+* 얼굴 표정 하나 변하지 않고 농담을 던지는 특유의 유머를 dry humor, dry wit  이라고 표현합니다.
+* headspace: 원래 이 표현은 어떤 병에 음료나 내용물이 없는 빈, 공기만 있는 공간을 의미했는데요, 근래 들어 사람의 정신 상태, 기분 또는 정신적 압박이 없는 자유로운 상태를 의미하는 표현으로도 자주 사용되기 시작했습니다.
+	* 기분이 좀 이상해. I'm in a strange headspace.
+* 눈을 걷는 느낌이 들지 않ㅎ나요? Doesn't it feel like you're waling on snow?
+* 세계적인 네임벨류가 있거든; The company has a worldwide reputation
+* 팀은 다음주에 (정적인) 엠티 간다 했어; Tim said he would go on a retreat next Friday
+* 파라솔을 사는게 좋겠어; We'd better rent a beach umbrella
+* 식곤증이네; You're in a food coma
+* 너무 오만했고; He's got too much pride
+* 계약서 책임자; Principal
+	* 사업체의 영업권; Goodwill
+* 오만했어; He's got too much pride
+	* 난 고집이 세; I'm hardheaded
+	* 고집이 아주 셀때ㅐ가 있어; She can be as stubbron as a mule  [mjuːl] 
+	* 내가 만난 사람 중에서 제일 고집이 센 사람이야; You're absoulutely the most obstinate person i've ever met  [ˈɑːb-]  영국식 [ˈɒbstɪnət] 
+* 여기있습니다. Here you go; Here you are; Here it is
+* 잘 못들었어요 뭐라구요? (정중): I'm sorry. I didn't catch that; Could you repeat that please?
+	* 확인하는 것; Do you mean -;   Did you say?
+* 나무 오두막을 너무 좋아해; They love tree house
+* 좀 가파르구나; I'ts a bit steep here
+* 대부분의 사람들에 의해 정상이라고 여겨지는 개념, 사상, 활동이나, 대세를 이루는 예술, 패션 등을 일컫는 말입니다.
+	* 내 생각에 주류 언론은 편파적이야. ex) I think mainstream media is biased.
+* trail 은 '길' 을 말하고, blaze는 '불태운다' 는 뜻인데요. 이 둘을 합치면 '길을 태우다', 그러니까 길이 없는 곳에 새로 길을 만든다는 뜻의 단어가 되죠. 그래서 '개척하다' 라는 의미가 됩니다. 영상에서처럼 trailblazing, 현재분사의 형태로 자주 쓰이는데요, '선구적인' 이라는 형용사가 된답니다.
+	* 선구적인 감독 히치콕은 새로운 세대의 영화감독들의 본보기가 되었다. The trailblazing director Hitchcock became an example for a whole new generation of filmmakers.  [ˈtreɪlbleɪzə(r)] 
+* 형용사로서의 extreme 은 '극단적인', '심각한' 등의 뜻을 가지는데요, 명사로 쓰이면 '양극단' 할때 그 '극단' 을 말해요. 여기서는 가벼운 위장이 한 극단이라면 the other extreme, 정반대편 극단에는 고도 위장이 있다고 설명하죠.
+	* 그는 운동할 때, 극단까지 끌고 가. (갈 데까지 간다는 뜻) When he works out, he takes it to the extreme.
+* oblivious to ~ = ~ 를 알아채지 못하는, ~ 를 감지하지 못하는  [əˈblɪviəs]; 무언가를 전혀 눈치채지 못하고, 영문도 모르고 있다는 뜻이에요. 어렵게 느껴질 수 있는 단어이지만 생각보다 캐쥬얼하게도 자주 쓰이기 때문에 알아두시면 좋아요!
+	* 나는 밖에 비가 줄기차게 내리고 있다는 걸 전혀 눈치채지 못했다. I was completely oblivious to the pouring rain outside.
+* 이 외에도 [play (it) 형용사] 일 경우 [~하게 행동하다] 를 의미하는 경우가 있습니다. 몇 가지 예를 들어볼게요.
+	* - play (it) cool : 쿨하게 굴다, 침착하게 행동하다  - play (it) straight : 정직하게 대하다, 꼼수를 쓰지 않다  - play (it) smart : 똑똑하게 굴다  - play (it) dumb : 시치미 떼다, 바보같이 굴다
+* tantrum 은 '성질 부림' 정도의 뜻을 가진 단어인데요. 그래서 throw a tantrum 하면 '성질을 내다' 라는 의미로, 보통 어린 아이들처럼 '떼를 쓰거나 빼액하고 짜증을 내다' 는 뉘앙스로 쓰인답니다. 영상에서는 pitch a fit 이라는 표현을 설명하기 위해 쓰인 구절이지만 사실 일상생활에서 꽤 자주 쓰이는 표현이니까 알아두면 정말 유용하겠죠!
+	* 내 생각에 쟤는 어릴 때보다 지금 더 자주 떼를 쓰는 것 같아. I think she's throwing a tantrum more often than she did during her childhood. [ˈtæntrəm]
+* at heart 는 '심장' 과는 아무 관련이 없는 표현으로, 겉모습과는 다른 '실체' 를 얘기할 때 굉장히 자주 쓰이는 표현이예요.
+	* 그는 실제로는 좋은 선생님이야. He's a good teacher at heart.
+	* 거짓말은 안 할게, 나 안 그래 보이겠지만 사실은 뉴요커야. nNot going to lie, I'm a New Yorker at heart.
 * (전화) 잘 안들리는데요; We're breaking up
 * 제 전문이 아니에요; That's not my bag
 * 어른스러운것 같은데; That soounds adult
@@ -988,6 +1031,7 @@
 * 보험 되는거에요? Is it insured? Does it include insurance?
 
 # 코어
+* northern 미국식 [ˈnɔːrðərn]; 던;  southern 미국식 [-ərn]  영국식 [ˈsʌðən] 
 * 하이에나; hyena 미국식 [haɪˈiːnə] 
 * 웨하스: wafer 미국·영국 [ˈweɪfə(r)]    waffle 미국식 [ˈwɑːfl] 
 * shorten 미국식 [ˈʃɔːrtn]; 쑐은
