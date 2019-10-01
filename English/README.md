@@ -25,6 +25,16 @@
 * 슈퍼맨/토익 문제 http://moonje.in
 * 테드 https://www.ted.com/
 * 발음 https://m.blog.naver.com/telleileen/221280989989
+
+# It
+* 테크 크런치 https://techcrunch.com/
+* 테크웜; https://www.techworm.net/
+* 더벌지; https://www.theverge.com/
+* 인가젯 https://www.engadget.com/
+* 와이어드 https://www.wired.com/
+* 지디넷 https://www.techrepublic.com/
+* 테크 크런치 https://techcrunch.com/
+
 -------------
 
 
@@ -35,7 +45,6 @@
 * 돌핀 https://m.blog.naver.com/PostList.nhn?blogId=frost9001
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
-* 테크 크런치 https://techcrunch.com/
 * 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
 
 
@@ -46,7 +55,6 @@
 * 한국번역연구소 https://blog.naver.com/ktri8888
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
-* 테크웜; https://www.techworm.net/
 * 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
 
 
@@ -55,10 +63,10 @@
 * 영어 주유소 http://blog.naver.com/tnwlwldu
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
-* 더벌지; https://www.theverge.com/
-* 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
 *  출판사 프렉티쿠스  https://blog.naver.com/knowhereman
 *  데이브 http://blog.naver.com/koreanstyl3
+* 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
+
 
 # 목 0523
 *  미드 빅뱅 이론 http://blog.naver.com/yjjy0308/221057882496
@@ -67,7 +75,6 @@
   https://blog.naver.com/bluewater_33/221291032449
 * 와이넛북스 https://m.post.naver.com/my.nhn?memberNo=5039741
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
-* 인가젯 https://www.engadget.com/
 * 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
 
 # 금 0524
@@ -79,8 +86,6 @@
 * 넥서스 공시미; https://blog.naver.com/0simiii
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
-* 와이어드 https://www.wired.com/
-* 트위터: https://twitter.com/home
 
 
 # 토 0525
@@ -91,7 +96,6 @@
 * 김일승 https://m.blog.naver.com/PostList.nhn?blogId=kishyun
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
-* 지디넷 https://www.techrepublic.com/
 * 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
 
 
@@ -103,5 +107,4 @@
 * 오디너리 소피 https://m.blog.naver.com/PostList.nhn?blogId=sofa1015
 * 야나두 https://blog.naver.com/yanadooblog/221323042575
 * 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
-* 테크 크런치 https://techcrunch.com/
 * 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
