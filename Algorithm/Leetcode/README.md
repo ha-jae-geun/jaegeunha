@@ -1,3 +1,158 @@
+# LC #94 Binary tree inorder traversal
+```java
+Given a binary tree, return the inorder traversal of its nodes' values.
+
+Example:
+
+Input: [1,null,2,3]
+   1
+    \
+     2
+    /
+   3
+
+Output: [1,3,2]
+
+class Solution {
+    public List<Integer> inorderTraversal(TreeNode root) {
+        
+    }
+}
+
+```
+
+## Recursive
+```java
+public List<Integer> inorderTraversal(TreeNode root) {
+    List<Integer> list =new ArrayList();
+    addNode(list,root);
+    return list;
+}
+public void addNode(List<Integer> list,TreeNode root){
+    if(root==null) return;
+    addNode(list,root.left);
+    list.add(root.val);
+    addNode(list,root.right); 
+}
+```
+
+## Non-Recursive
+```java
+ List<Integer> list =new ArrayList();
+    Stack<TreeNode> stack=new Stack();
+    if(root==null) return list;
+    while(root!=null){
+        stack.push(root);
+        root=root.left;
+        while(root==null){
+            if(stack.empty()) return list;
+            root=stack.pop();
+            list.add(root.val);
+            root=root.right;
+        }
+    }
+    return list;
+```
+
+# Binary Tree Level Order Traversal II
+```java
+Given a binary tree, return the bottom-up level order traversal of its nodes' values. (ie, from left to right, level by level from leaf to root).
+
+For example:
+Given binary tree [3,9,20,null,null,15,7],
+    3
+   / \
+  9  20
+    /  \
+   15   7
+return its bottom-up level order traversal as:
+[
+  [15,7],
+  [9,20],
+  [3]
+]
+
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
+ * }
+ */
+class Solution {
+    public List<List<Integer>> levelOrderBottom(TreeNode root) {
+        
+    }
+}
+
+```
+
+## DFS
+```java
+public class Solution {
+    public List<List<Integer>> levelOrderBottom(TreeNode root) {
+        Queue<TreeNode> queue = new LinkedList<TreeNode>();
+        List<List<Integer>> wrapList = new LinkedList<List<Integer>>();
+        
+        if(root == null) return wrapList;
+        
+        queue.offer(root);
+        while(!queue.isEmpty()){
+            int levelNum = queue.size();
+            List<Integer> subList = new LinkedList<Integer>();
+            for(int i=0; i<levelNum; i++) {
+                if(queue.peek().left != null) queue.offer(queue.peek().left);
+                if(queue.peek().right != null) queue.offer(queue.peek().right);
+                subList.add(queue.poll().val);
+            }
+            wrapList.add(0, subList);
+        }
+        return wrapList;
+    }
+}
+```
+
+# Single Number
+```java
+Given a non-empty array of integers, every element appears twice except for one. Find that single one.
+
+Note:
+
+Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory?
+
+Example 1:
+
+Input: [2,2,1]
+Output: 1
+Example 2:
+
+Input: [4,1,2,1,2]
+Output: 4
+
+class Solution {
+    public int singleNumber(int[] nums) {
+        
+    }
+}
+
+```
+
+```java
+public int singleNumber(int[] nums) {
+    int ans =0;
+    
+    int len = nums.length;
+    for(int i=0;i!=len;i++)
+        ans ^= nums[i];
+    
+    return ans;
+    
+}
+```
+
+
 # Two Sum
 ```java
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
