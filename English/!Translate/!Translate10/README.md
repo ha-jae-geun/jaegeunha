@@ -1,4 +1,45 @@
 # 원어민
+* 그의 갑작스런 죽음은 그녀의 세계를 엉망으로 만들어 버렸다. His sudden death turned her world upside down.
+ * 우리가 헤어질때 까지; Til we were upside down
+* 네 곁을 벗어나질 못하겠어; We're running in circles
+* 이용자 참여 나는 지금 기분을 누그러뜨릴 필요가 있다; I just need to take the edge off. 듣기
+* 연중에; Throughout the year
+* 용납하는 게 아니고; It doesn't condone it  [-ˈdoʊn]  영국식 [kənˈdəʊn]
+* 다 덮어버릴 수는 없어요; You can't paper things over
+* 이 정도로 상황이 나쁠 줄은 몰랐어요; i had no idea the situation was so dire  [ˈdaɪə(r)]
+* 찢어진 바지; Rip off pants;  위생 시설; Sanitation
+* 일어서서 날개를 퍼덕거렸어요; SHe stood upp and flapped her wings
+* study: 연구, learn: 
+* 법없이 살아도 될만큼 정직하다; He is nice enough to be honest without being forced by law
+* 이상한 질문 같은데; This may seem like an odd question  [ɑːd]
+* 이 직업에 적합해; He is very wel suited for thie job
+* 진짜 재앙이다; He would be a disaster
+* '적대적인' 이란 뜻으로 많이들 알고 계실 단어인데요. 'hostile environment' 혹은 'hostile conditions' 등 '환경' 을 뜻하는 단어와 쓰이면 '살아남기 힘든 환경' 을 의미하게 돼요.  [ˈhɑːstl;-taɪl]  영국식 [ˈhɒstaɪl] 
+ * 변호사들의 세계란 살아남기 힘든 환경이지. The world of lawyers is a hostile environment. 
+* 'bit' 은 조그만 조각, 혹은 '약간' 을 뜻하는 말이죠. bit by bit 은 그래서 한 조각씩, 조금씩 이라는 의미가 됩니다. 'little by little'이라고 하셔도 동일한 말입니다.
+ * 서서히 데릭이 좋아졌어. [ex] Bit by bit, Derick grew on me.
+ * 난 천천히 나아졌어. [ex] I got better little by little.
+* 미안, 나 가봐야겠어. Sorry, I should take off.
+* 골프에선 총 18홀을 돌았을 때, 가장 타수가 작은 사람이 우승을 해요. 어쨌든, 각 홀에서 평균이 되는 것을 par 라고 하기 때문에 par for the course 는 무언가 평균적인 [당연한, 보통인] 을 의미하는 표현입니다.
+ * 왜 놀랬니? 그건 당연한 거야! ex) Why were you surprised? That's par for the course!
+* break the mold/mould = 틀을 깨다; mould 는 원래 무언가를 만드는 데 쓰이는 거푸집이나 틀을 말해요. 그래서 break the mold 는 기존의 틀을 깼다는 뜻이 되죠.
+ * 그녀는 새로운 전시를 통해 틀을 확실하게 깼어. She really broke the mold with her new show.
+* : 형용사로는 '농담조의', '빈정대는', '조롱조의', 명사로는 '농담', '빈정거림', '조롱'이라는 뜻이에요! 진심이 아니라 농담이니 말 그대로 받아들이지 말라는 뜻에서 자주 쓰는 표현이랍니다.
+ * 그냥 농담으로 낸 아이디어였어. [ex] It was a tongue-in-cheek idea.
+* 직역하면 엔진이 'octane(옥탄가)이 높다'는 뜻인데요, 그렇게 성능이 좋은 연료처럼 활력이 넘치는 분위기를 표현할 때도 쓰는 표현이에요! 뉴욕의 바쁜 거리를 한 번 상상해 보세요.
+ * =아주 활기 넘치는 공연이었어. It was a high-octane performance. [ˈɑːk-]  영국식 [ˈɒkteɪn] 
+* 누군가에게 자신감을 주고 기분을 띄워 주는 걸 buoy up 이라고 해요. 대상이 되는 명사는 buoy와 up 사이에 써도 좋고 아예 뒤에 붙여도 좋아요!
+ * =시험 기간엔 친구들 덕분에 힘이 나. My friends buoy me up during the exam period. [ˈbuːi] 
+* 뭔가를 엄청나게 잘할 때 excel in something 이라고 해요! 'good at' 보다 훨씬 더 잘한다는 느낌을 줘요.
+ * =그녀는 수학을 정말 잘해. She really excels in math.
+* 가진 재능이나 자금 등을 성공을 위해 이용하는 걸 parlay 라고 해요. 경마에서 원금과 상금을 다시 다른 말에 걸던 걸 뜻하던 단어거든요! 내가 가진 자원을 더 큰 수익을 위해 활용하는 개념이죠. 
+ * =나는 내 코딩 능력을 활용해서 돈 잘 버는 직업을 갖고 싶어. I want to parlay my coding skills into a well-paying job. [pɑ́:rlei,-li] 
+* 딱 한 번만 만들어지는 유일무이한 제품을 one off product라고 해요. 일회성으로 일어나는 일을 가리켜서도 쓰는 표현이에요.
+ * =저희는 지금 한정판 일회성 디자인들을 판매 중이에요. We're currently selling one-off designs.
+* 예상치 못한 어려움이 있어도 그냥 받아들이고 빨리 적응하는 걸 roll with it 이라고 해요. 어차피 바꿀 수 없는 상황이라면 받아들이겠다는 느낌이죠.
+ * =그냥 받아들이기로 했더니 데이트가 꽤 재밌었어. I decided to just roll with it, and the date turned out to be fun.
+* 그대로 해석하면 '벽돌과 회반죽'인데요, 이것들은 건물을 구성하는 요소들이죠? 그래서 이 표현은 온라인으로만 사업을 하지 않고 물리적으로 여는 가게를 뜻합니다. 명사로도 쓰고, 형용사로도 활용해요.
+ * =그들은 아직 오프라인 매장에 투자하고 있어. They still invest in brick and mortar stores.  [ˈmɔːrt-]  영국식 [ˈmɔːtə(r)] 
 * Stay low, just like you did; 이용자 참여 네가 했던 것 처럼, 겸손해라.
 * 직장인은 아니지만; No nine to five
 * 자랑스럽게 미화(영광)하고싶지 않아요; I don't like to glorify this
