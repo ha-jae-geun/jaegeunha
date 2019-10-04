@@ -1,4 +1,5 @@
 # 원어민
+* 핸들이 말을 안들었어; THe steering wheel didn't work as i steered
 * 그의 갑작스런 죽음은 그녀의 세계를 엉망으로 만들어 버렸다. His sudden death turned her world upside down.
  * 우리가 헤어질때 까지; Til we were upside down
 * 네 곁을 벗어나질 못하겠어; We're running in circles
