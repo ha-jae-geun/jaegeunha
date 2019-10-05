@@ -1,4 +1,20 @@
 # 원어민
+* 주제파악하자; DOn't overrate yourself
+* 이거 기밀이야; This is confidential
+* 그게 사실일리 없어; It cannot be true
+* 오늘 시사회에요; It's press night
+* 암표상인이야; He's a scalper skǽlpər;
+ * 뒤꿈치 이음 없는 신축성 있는 양말, 던져서 차는 팔찌; tube socks, slap bracelets [ˈbreɪslət] 
+* 내 미소는 전부가 아니야; My smile is just skin deep
+* safe bet 은 성공할 가능성 혹은 발생할 가능성이 큰 것을 말하고 good bet 이라고도 합니다.
+ * = 십대한테 옷 선물은 안전한 선택이지. Clothes are a safe bet as a present for a teenager.
+* 동사 knock 는 [노크하다] 뿐만 아니라 [트집잡다, 비판하다] 라는 뜻도 가지고 있어요. 이 표현에서 until you try it 은 생략하기도 하는데요, 그럴 때는 “트집잡지 마 / 함부러 비판하지 마” 정도가 되겠네요.
+ * 야, 타보지도 않고 뭐라고 하지 마! 이건 세계에서 제일 좋은 경차라고! Hey, don’t knock it until you try it! This is the best compact car in the world!
+* = 네 탓이 아냐. 자책 그만 해. It isn't your fault. Stop beating yourself up.
+* One can never be too careful = 조심해서 나쁜 건 없지; 그래서 too careful 도 적당한 선 이상으로 ‘너무 조심하다’인데, 그럴 수가 없다(never)는 건 아무리 조심해도 지나치지 않는다는 겁니다.
+ * = 조심해서 나쁠 것 없지 않을까요. I guess you can’t be too careful.
+* 누군가의 꿍꿍이, 속셈, 행동 등을 간파하는 걸 [be on to 사람] 이라고 해요.  ＊ I’ll be on to him = 내가 잡을거야
+ * = 거짓말 하지마. 다 알고 있어. Don’t lie to me. I’m on to you.
 * 핸들이 말을 안들었어; THe steering wheel didn't work as i steered
 * 그의 갑작스런 죽음은 그녀의 세계를 엉망으로 만들어 버렸다. His sudden death turned her world upside down.
  * 우리가 헤어질때 까지; Til we were upside down
@@ -89,6 +105,13 @@
 * 한국 밥상에서 어른들보다 먼저 밥먹는 건 사회적으로 안되지; Eating before elders is a social no-no in Korea
 * 그 책은 현재 품절이에요; It looks like wedon't have that one in stock
 * 대화할만한 사이가 아니야; we're not on speaking terms at the moment; 주로 부정적으로 사용
+
+# [ 영어 교정 ] "drama" - 우리가 생각하는 '드라마' 와 약간 다름
+* "저 요즘 드라마를 하나 보고 있어요." 를 영어로 말할 때 "드라마"를 그대로 "drama"라고 하면 안된다. 추가로, "요즘 .... 하고 있다."를 영어로 "These days.... I'm ..ing"라고 하는 것이 의외로 어색하다. 이번 강의를 통해서 어떻게 표현하는 것이 자연스러운지를 배워봅니다.
+ * Lately, i've been watching a (TV) show;  i've been watching Game of Thrones
+ * TV 장르: advertisements, the news, sports games, TV shows(나머지)
+ * drama를 TV 프로그램 장르로 보지 않고 장르 종류임
+* These days는 단순 현재형과 자주 쓰임; 과거와 다른 현재의 모습; These days i'm working with almost 20 other employees
 
 # [ 기초영어회화 ] "30살이 됐다고 멘붕이었던게 어제 같은데.. 내가 벌써 37살이라니.."
 1. 벌써 10월이라니, 새해 계획 세우고 있던게 어제 같은데 
