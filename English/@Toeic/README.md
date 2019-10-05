@@ -447,6 +447,9 @@
 * remaining documents; 자동사; 남아있는
 
 # 최신 
+* 즉시, 당장에, 정각에: promptly/sharply/precisely/exactly at 5.pm
+* review is favorable
+* witness/experience/see an increase
 * direction: 방향;  dircetions: 순서/방법
 * After ~, finally ~
 * 요청하다; ask for <> request
