@@ -7,6 +7,7 @@
 ------------------------
 
 # 사전
+* 예문; https://sentence.yourdictionary.com/
 * 옥스포드 영영사전; https://www.oxfordlearnersdictionaries.com/
 * 캠브리지 영영사전 https://dictionary.cambridge.org/
 * https://www.urbandictionary.com/
