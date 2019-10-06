@@ -1,4 +1,7 @@
 # 원어민
+* 완전히 예약하다. book up solid 미국식  영국식  단어장추가
+* 시간이 변했어, 너 방 더러워; Times have changed; Your room is a mess
+* 2000년대 초반; in early 2000s?
 * 주제파악하자; DOn't overrate yourself
 * 이거 기밀이야; This is confidential
 * 그게 사실일리 없어; It cannot be true
@@ -137,6 +140,10 @@
  * =우린 빨리 그림 작업 계속 해야 돼. We should crack on with the painting.
 * * keep it real = 솔직하게 말(행동)하다; 진실하고 자연스럽게 말이나 행동을 할 때 keep it real이라고 해요. 거짓 없이 솔직해진다는 의미죠.
  * =난 솔직하게 살고 있어. I've been keeping it real.
+
+
+# 토익
+* within city limits; within a month; within the company
 
 # 코어
 * blender: 믹서기  [blend];  단조로운; bland (←blander) 미국·영국 [blænd]   [stɑːk] 
