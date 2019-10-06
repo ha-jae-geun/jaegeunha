@@ -105,6 +105,42 @@
 * 한국 밥상에서 어른들보다 먼저 밥먹는 건 사회적으로 안되지; Eating before elders is a social no-no in Korea
 * 그 책은 현재 품절이에요; It looks like wedon't have that one in stock
 * 대화할만한 사이가 아니야; we're not on speaking terms at the moment; 주로 부정적으로 사용
+* 까치발 들다; walk on tiptoe
+* 주식시장에서 돈을 잃었다; i lost money in the stock market
+* 약간의 손기술을 이용하거나; i just use a slight of hand technique
+* 저에 대해 조사를 다 하셨네요; You've done the research
+* 직역하면 ‘누가 누군지’이죠. 그런데 여기서는 특정 분야에서 매우 중요한 인물들을 의미해요. “누군지(who) 알지?”처럼 굳이 이름을 말 안해도 알 정도로 유명한 사람들이죠.
+ * = 그 행사엔 스포츠 계의 유명 인사들로 가득 찼다. The event was full of a who’s who of sports figures.
+* 회사에도 보면 인사부, 영업부, 회계부처럼 부서(department)에 따라 담당이 다르죠. 그렇듯 자신의 담당, 전문 분야, 책임를 ~’s department 라고 표현해요. 
+ * = 제가 승인할 수 없어요. 제 담당이 아니니까요. I can’t approve it. It’s not my department.
+* 그런데 rank(계급, 지위)라고 해서 꼭 대단한, 좋은 계급에 올라간다는 의미는 아닙니다. 좋지 않은 분류에 속한다는 뜻도 가능해요.
+ * = 그는 세계 최고의 과학자 대열에 들어섰다. He joined the ranks of the world's best scientists.
+* 동사 nominate 은 특정 직책이나 수상자로서 누군가를 ‘추천’하는 걸 말해요. 레이디 가가는 세 번 지명 됐지만 수상(win)한 것은 처음이라고 하네요. 
+ * = 그는 대통령 후보자로 지명되었다. He was nominated as presidential candidate.
+ * = 그 영화는 여러 번 후보에 올랐지만 수상한 적은 없다. The film was nominated for several times but never won any Oscars.
+* 보통 '~할 시간이 없었다' 는 뜻으로 didn't get round to ~ ing 의 형태로 자주 쓰이는데요. 영상에서처럼 쓰이면 '한 번은 짬 내서라도 해봐야할텐데' 정도의 뉘앙스로 받아들이면 된답니다.
+ * 너에게 편지를 쓸 시간이 없었어. I didn't get round to writing to you.
+* 스포일러 하고싶진 않은데; i don't want to spoil anything
+* 우리가 흔히 말하는 '빅픽처' 와 비슷한 뉘앙스로 쓰이는 표현인데요. 직역하면 '게임 계획' 이지만 비슷하게 '전략' 을 뜻한답니다. 영상에서도 영화 감독님이 '한 장면을 찍고 바로 집에 가셨다' 며 '그게 감독님의 전략이었다' 고 말하면서 쓰이고 있는 표현이죠.; game plan
+* 뭔가가 '다가옴' 을 뜻하는 coming of 와 '나이' 를 뜻하는 age 가 합쳐져서 '어린 나이에서 성인이 되어가는 과도기' 를 의미하는 표현이 되는데요. 영상에서도 티모시가 나오는 영화가 '성장기 이야기를 담은 영화' 라고 소개를 하면서 쓰이고 있는 표현이죠.
+ * It's a coming of age story
+ * = 그녀의 힘들었던 십대 시절이 그녀의 자존감을 낮게 만들었다. Her troubled teenage life made her develop low self-esteem.
+ * = 내 코트 오래돼서 다 너덜너덜해졌어. My old coat is falling apart.
+  * = 남편의 외도를 알게되고 우리의 결혼 생활이 산산조각 났어요. Our marriage fell apart when I found out his affair.
+* = 이건 완전히 현실에 기반을 둔 게 아냐. It’s not fully grounded in reality.
+ * = 너 2주 동안 외출 금지야! You’re grounded for two weeks!
+* 마치 물품 검사처럼 통과된 제품(boxes)에 확인 표시(tick)를 한다고 생각하면 됩니다. 영상에선 all the boxes 대신 every box 라고 했네요.
+ * = 그는 나를 매우 만족시켰어. He ticked all my boxes.
+* = 할 일이 매우 많을 거에요 / 쉽지 않은 일이 될 거에요. ＊ I'll have my work cut out for me  여기서 "내 일이 많이 잘려있다"는 것도 내가 처리해야 할 재단 물량이 많다고 이해하면 됩니다.
+ * = 우리 그거 마무리 하기엔 엄청 벅찰거야. We'll have our work cut out for us.
+* 새로 일을 시작하거나 멈췄다가 다시 할 때 let's crack on 이라고 할 수 있어요! 열심히 할 거라는 뉘앙스가 있고, 영국 영어에서 자주 쓰는 말이죠.
+ * =우린 빨리 그림 작업 계속 해야 돼. We should crack on with the painting.
+* * keep it real = 솔직하게 말(행동)하다; 진실하고 자연스럽게 말이나 행동을 할 때 keep it real이라고 해요. 거짓 없이 솔직해진다는 의미죠.
+ * =난 솔직하게 살고 있어. I've been keeping it real.
+
+# 코어
+* blender: 믹서기  [blend];  단조로운; bland (←blander) 미국·영국 [blænd]   [stɑːk] 
+ * 섞다; blend in
 
 # [ 영어 교정 ] "drama" - 우리가 생각하는 '드라마' 와 약간 다름
 * "저 요즘 드라마를 하나 보고 있어요." 를 영어로 말할 때 "드라마"를 그대로 "drama"라고 하면 안된다. 추가로, "요즘 .... 하고 있다."를 영어로 "These days.... I'm ..ing"라고 하는 것이 의외로 어색하다. 이번 강의를 통해서 어떻게 표현하는 것이 자연스러운지를 배워봅니다.
