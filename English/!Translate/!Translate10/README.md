@@ -2,7 +2,7 @@
 * 모음; vowel 미국·영국 [ˈvaʊəl], 자음: consonant 미국식 [ˈkɑːn-]  영국식 [ˈkɒnsənənt] 
  * 초성게임! Initial consonant game; 초성 힌트? An initial consonant hint?
 * 매너좀 지키세요; Mind your manners
- * 그녀는 친근한 태도로 미소지었다; Sme smiled again ina  friendly manner
+ * 그녀는 친근한 태도로 미소지었다; Sme smiled again in a  friendly manner
 * 끝날 때 까지 끝난게 아니야; Not until the fat lady sings
 * 대체 불만이 뭐야? What's the rumpus? [ˈrʌmpəs] 
 * 건강 잘 챙겨; DOn't be going downhill
