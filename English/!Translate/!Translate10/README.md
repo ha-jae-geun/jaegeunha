@@ -1,4 +1,37 @@
 # 원어민
+* 모음; vowel 미국·영국 [ˈvaʊəl], 자음: consonant 미국식 [ˈkɑːn-]  영국식 [ˈkɒnsənənt] 
+ * 초성게임! Initial consonant game; 초성 힌트? An initial consonant hint?
+* 매너좀 지키세요; Mind your manners
+ * 그녀는 친근한 태도로 미소지었다; Sme smiled again ina  friendly manner
+* 끝날 때 까지 끝난게 아니야; Not until the fat lady sings
+* 대체 불만이 뭐야? What's the rumpus? [ˈrʌmpəs] 
+* 건강 잘 챙겨; DOn't be going downhill
+ * 경제가 하락세다; Economy is going downhill
+* 클래식한 것은 결코 유행을 타지 않는 법이지; Classics never go out of style
+* 거미는 거미집을 짓는다; they weve webs  [wiːv] 
+* whistle-blower; [명사] (특히 신문 용어에서) (기업 비리 등의) 내부 고발자
+* 누가 가장 예쁘니? Who is the fairest of them all? fair: 어여뿐
+* 칭찬 세례을 퍼부어주세요; SHower her with compliments
+* 제가 제일 좋아하는 노래에요; i told you it's my jam
+* 조금 모순되게 들릴 수는 있는데; I know this sounds backwards
+* 잘못을 인정하는 게 나은 것 같애; it's better for me to own up to it
+* 동글게 (풍선) 불어; blow it round
+* smother라는 단어, 생소할 수도 있는데요. 알고 보면 여러 가지 의미를 가진 단어에요. 숨 막히게 하다, 억누르다, 끄다의 의미도 있지만, 이 장면에서는 듬뿍 바르다, 퍼붓다의 의미랍니다. 백설 공주가 로건베리가 듬뿍 발려진 크럼펫을 먹고 있었겠다며 현실을 부정하죠. 크럼펫은 잉글랜드에서 유명한 빵이자 케이크에요. 여기에 베리류나 잼류를 올려서 같이 먹죠. smothered with라고 하면 듬뿍 발라진, 퍼부어져 있는 이란 표현이죠.
+ * = 그 음식들은 크림소스나 버터가 듬뿍 들어가진 않아요. They are not smothered with creamy sauces of butter.
+* 직역하면 ‘단추를 채운’이지만 여기선 '매우 격식 차린, 딱딱한, 보수적인'을 의미해요. 편한 자리에선 옷도 풀어헤치고 자유롭게 있겠지만, 격식있는 자리에선 그 반대니까요. 혹은 ‘차분한, 억압하는’이란 뜻도 있어요. 꽉 닫은 단추처럼 자신의 감정/생각을 감춘채 조용히 있는 것이죠.
+ * = 그는 흰 셔츠에 단추를 다 채우니 똑똑해 보였다. He looked smart in a buttoned-up white shirt.
+* connect the dots = 이해하다, 파악하다; 숫자가 적힌 점들을 차례대로 연결하면 그림이 완성되는 놀이 있죠? 거기서 생긴 표현이에요. 점(dots)을 연결하면(connect) 전체 그림이 파악되듯이, 단편적 정보를 통해 어떤 것을 이해하게 된다는 의미입니다.
+ * = 난 마침내 모든 것을 이해하게 됐다. I was finally able to connect the dots.
+* 여기선 함께 놓는 것이 아니라 만든다는 의미로 쓰였어요. 특히 여러가지 아이디어, 요소를 결합하여 만들어 낸다는 뉘앙스죠. 그리고 또 중요한 뜻! put together 는 항상 자기 관리를 잘하고 모범적인 성격도 가리켜요. 이 땐 동사가 아니라 형용사입니다.
+ * = 오전 내내 계획안을 준비했어. It took all morning to put the proposal together.
+* helicopter parents = 헬리콥터 부모
+ * = 일거수일투족 참견 좀 그만해. 자기 스스로 할 수 있게 놔두라고! Stop being a helicopter mom. Just let him do it on his own!
+ * - a tiger parent (호랑이 부모) : 자녀를 혹독하게 교육시키는 부모. 자녀의 성공을 위해 엄격하게 몰아붙임.
+ * - a snowplow parent (제설차 부모) : 자식의 성공에 방해가 되는 것은 모두 없애고자 하는 부모.
+* 달리기를 잘하거나, 움직임이 민첩하다는 뜻이에요. 결단, 반응, 대처 등이 빠르다는 비유적 의미로도 쓸 수 있죠.; 
+ ＊ quick on ~’s feet = 발이 빠르다
+ * - He’s got fast feet. (O)  - He runs really fast. (O)  - He’s a fast runner. (O)  - His feet are fast. (X)
+                                    
 * 완전히 예약하다. book up solid 미국식  영국식  단어장추가
 * 시간이 변했어, 너 방 더러워; Times have changed; Your room is a mess
 * 2000년대 초반; in early 2000s?
