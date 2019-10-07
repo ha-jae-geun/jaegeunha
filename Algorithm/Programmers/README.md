@@ -1,3 +1,50 @@
+# 나누어 떨어지는 수
+```java
+array의 각 element 중 divisor로 나누어 떨어지는 값을 오름차순으로 정렬한 배열을 반환하는 함수, solution을 작성해주세요.
+divisor로 나누어 떨어지는 element가 하나도 없다면 배열에 -1을 담아 반환하세요.
+
+제한사항
+arr은 자연수를 담은 배열입니다.
+정수 i, j에 대해 i ≠ j 이면 arr[i] ≠ arr[j] 입니다.
+divisor는 자연수입니다.
+array는 길이 1 이상인 배열입니다.
+
+class Solution {
+  public int[] solution(int[] arr, int divisor) {
+      int[] answer = {};
+      return answer;
+  }
+}
+```
+
+```java
+import java.util.*;
+ 
+class Divisible {
+    public int[] divisible(int[] array, int divisor) {
+        //ret에 array에 포함된 정수중, divisor로 나누어 떨어지는 숫자를 순서대로 넣으세요.
+        List<Integer> list = new ArrayList<>();
+        for(int i=0; i<array.length; i++){
+            if(array[i]%divisor==0){
+                list.add(array[i]);
+            }
+        } 
+        int[] ret = new int[list.size()];
+        for(int j=0; j<list.size(); j++){
+            ret[j] = list.get(j);
+        }        
+        return ret;
+    }
+    // 아래는 테스트로 출력해 보기 위한 코드입니다.
+    public static void main(String[] args) {
+        Divisible div = new Divisible();
+        int[] array = {5, 9, 7, 10};
+        System.out.println( Arrays.toString( div.divisible(array, 5) ));
+    }
+}
+
+```
+
 # 같은 숫자는 싫어
 ```java
 문제 설명
