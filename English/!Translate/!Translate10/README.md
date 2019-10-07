@@ -1,4 +1,5 @@
 # 원어민
+* that may irritate the skin or cause acne and breakouts.
 * 모음; vowel 미국·영국 [ˈvaʊəl], 자음: consonant 미국식 [ˈkɑːn-]  영국식 [ˈkɒnsənənt] 
  * 초성게임! Initial consonant game; 초성 힌트? An initial consonant hint?
 * 매너좀 지키세요; Mind your manners
