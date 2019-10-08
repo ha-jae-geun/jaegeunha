@@ -186,6 +186,16 @@
  * =난 솔직하게 살고 있어. I've been keeping it real.
 
 
+# [ 기초영어회화 ] "이럴 줄 알았으면 다르게 했을텐데" [ 가정법 ]
+* If i had know something, i would'be / wouldn't ve
+ * 코어: had를 명확하게 발음할 필요가 없다.
+* If i had know there was going to be a rally, (집회), i would've participated / 
+ * I wouldn't have taken the bus; 우드넙
+* 이렇게 차가 많을 줄 알았다면; If i had know there would be this much traffic, i would've left earlier
+ * 추가설명 : If I had known 대신 if I knew 라고 하는 것은 엄밀히 말하자면 틀리지만 실제 회화에서는 사실 괜찮습니다. 아래 링크 중 1시간짜리 영상에서도 예전에 언급을 한 적이 있지만 가정법에서 과거완료의 사용이 점점 줄고 있는 추세입니다 😀
+하지만 상황에 따라서 반드시 과거완료를 써야만 의미전달이 명확히 되는 경우가 있기 때문에 할 줄은 알아야 합니다 😀
+* If i had known about his situation, i wouldn't have talked about money
+
 # 토익
 * within city limits; within a month; within the company
 
