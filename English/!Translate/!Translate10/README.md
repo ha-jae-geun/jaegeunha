@@ -1,4 +1,13 @@
 # 원어민
+* make headlines = 화제가 되다
+ * = 그들의 결혼은 몇 주간 전국에 화제였다. Their marriage made headlines around the nation for weeks.
+* 옷을 다 벗거나, 무언가를 떼내는 게 strip 이죠. 그렇듯 불필요한 것을 제거하고 필수적인 것만 남겨놓은 걸 stripped 라고 합니다.  간결하게 ‘낮췄기’ 때문에 뒤에 down 을 붙이기도 해요.
+ * = 악기를 많이 넣는거 싫어. 간결하게 가자. I don’t want to use many instruments. Let’s just keep it stripped. 
+ * = 이 카메라는 고급 모델에서 필요한 기능만 남긴 버전이에요. This camera is a stripped-down version of the more expensive model.
+* 참고로 deaf 는 청력이 없는 ‘상태’이고 lose hearing 은 청력을 한 번 잃게 되는 ‘행위’란 의미로 약간 다릅니다.  [def] 
+ * = 그녀는 작년에 청력을 잃었어. She lost her hearing last year.
+* keep ⓝ on a need-to-know basis = 알아야 하는 선까지만 말하다; on a need-to-know basis 는 '꼭 필요한 것만 알려주는'을 의미해요. 그래서 꼭 알아야 하는 정보만 밝히라는 조언입니다. 
+ * = 우린 필요한 부분까지만 공개했어요. We kept it on a need-to-know basis.
 * 거짓말 참지기를 하다; take a lie detector test
 * 지도에 표시해줄게요; i'll mark it on the map for you
 * 그들은 동시에 일하곦 하지; THey often work in tandem
