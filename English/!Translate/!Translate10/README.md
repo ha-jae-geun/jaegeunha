@@ -209,6 +209,7 @@
 * within city limits; within a month; within the company
 
 # 코어
+* exam; 익(꽉 잡고 있다가)잼; executive(익'제커티브), significantly; 씩(꽉잡고)'니fi컨(잡기)리
 * blender: 믹서기  [blend];  단조로운; bland (←blander) 미국·영국 [blænd]   [stɑːk] 
  * 섞다; blend in
 
