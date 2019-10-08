@@ -1,4 +1,14 @@
 # 원어민
+* 거짓말 참지기를 하다; take a lie detector test
+* 지도에 표시해줄게요; i'll mark it on the map for you
+* 그들은 동시에 일하곦 하지; THey often work in tandem
+* 위원회는 성과없이 끝났어; The committee just ran in circles
+* 너 지금 의심받고 있어; They're onto you
+* 우리가 금방고쳐줄게; We will fix it on the double
+* 돌파구에 이르기 직전입니다; We're bout to reach a breakthrough
+* 이 말썽꾸러기야, 복도 계단을 내려가서 도망갔지; YOu stinker, sled down the hall stairs and ran
+* 구명조끼에요; It's a life jacket
+* 속도를 내볼게요; Let's speed things up
 * that may irritate the skin or cause acne and breakouts.
 * 모음; vowel 미국·영국 [ˈvaʊəl], 자음: consonant 미국식 [ˈkɑːn-]  영국식 [ˈkɒnsənənt] 
  * 초성게임! Initial consonant game; 초성 힌트? An initial consonant hint?
