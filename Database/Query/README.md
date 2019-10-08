@@ -1,3 +1,73 @@
+```java
+SELECT NAME, DATETIME
+FROM ANIMAL_INS
+ORDER BY ANIMAL_ID DESC
+
+
+SELECT ANIMAL_ID, NAME
+FROM ANIMAL_INS
+WHERE INTAKE_CONDITION = 'Sick'
+ORDER BY ANIMAL_ID
+
+
+
+
+SELECT ANIMAL_ID, NAME
+FROM ANIMAL_INS
+WHERE INTAKE_CONDITION != 'Aged'
+ORDER BY ANIMAL_ID
+
+
+
+
+SELECT ANIMAL_ID
+FROM ANIMAL_INS
+WHERE NAME IS NULL
+
+
+ WHERE 절에서는 집계함수를 사용 할 수 없다.
+- HAVING 절은 집계함수를 가지고 조건비교를 할 때 사용한다.
+- HAVING절은 GROUP BY절과 함께 사용이 된다.
+```
+
+```java
+SELECT A.ANIMAL_ID, A.NAME
+FROM ANIMAL_OUTS A LEFT JOIN ANIMAL_INS B ON A.ANIMAL_ID = B.ANIMAL_ID
+WHERE B.ANIMAL_ID IS NULL
+
+그냥 PK로 조인을 해버리면 INNER JOIN이 되어서 ANIMAL_INS와 ANIMAL_OUTS 둘 다 있는 값만 조인이 됩니다.
+값이 사라진 것까지 불러와서 JOIN을 하려면 LEFT JOIN 또는 RIGHT JOIN을 해야 합니다.
+```
+
+```java
+SELECT B.NAME, B.DATETIME
+FROM ANIMAL_OUTS A RIGHT JOIN ANIMAL_INS B ON A.ANIMAL_ID = B.ANIMAL_ID
+WHERE A.ANIMAL_ID IS NULL
+ORDER BY B.DATETIME
+LIMIT 3;
+
+이렇게 조인하고 ANIMAL_OUTS의 속성 값이 NULL인 조건식을 세우면 되겠죠.
+가장 오래 있었어야 하니 DATETIME의 값이 가장 낮아야 합니다. DATETIME을 오름차순 정렬하면 처음 값들이 가장 오래된 값으로 정렬됩니다.
+LIMIT은 출력되는 레코드 수를 제한할 수 있습니다.
+```
+
+```java
+SELECT ANIMAL_ID, NAME, SEX_UPON_INTAKE
+FROM ANIMAL_INS
+WHERE NAME IN ('Lucy', 'Ella', 'Pickle', 'Rogan', 'Sabrina', 'Mitty')
+특정 이름을 가진 동물을 찾는 문제이므로 IN을 쓴 뒤 문제에서 요구하는 이름을 적으면 됩니다.
+
+SELECT ANIMAL_ID, NAME
+FROM ANIMAL_INS
+WHERE ANIMAL_TYPE = 'DOG'
+AND UPPER(NAME) LIKE '%EL%'
+ORDER BY UPPER(NAME)
+문제에서 중요한 건 이름이 EL이 들어가는 조건이랑 대소문자 구분 없이 정렬을 한다는 것입니다.
+UPPER(NAME)을 통해 NAME을 대문자로 변환해서 el, eL, El, EL 을 모두 EL로 변환하여 검사하도록 하였고,
+ORDER BY 절에서도 보시면 아시겠지만 NAME을 대문자로 변환하여 정렬하도록 하였습니다.
+
+```
+
 # SQL 순서
 1. FROM clause
 2. WHERE clause
