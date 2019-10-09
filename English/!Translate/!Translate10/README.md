@@ -1,4 +1,8 @@
 # 원어민
+* a dog; 개로 분류되는 집단 전체를 지칭하는 의미이기도 하다. 한마리의 개를 통해 그 개가 속해 있는 집단의 속성을 대변하는 것이다.
+* 지느러미와 강력한 꼬리를 갖춘; with fins and a powerful tail
+* 승무원들은 이륙 준비하시길 바랍니다; FLight attendants, prepare for takeoff
+ * 달러스는 그냥 경유지에요; Dalas is just where you make your connection
 * make headlines = 화제가 되다
  * = 그들의 결혼은 몇 주간 전국에 화제였다. Their marriage made headlines around the nation for weeks.
 * 옷을 다 벗거나, 무언가를 떼내는 게 strip 이죠. 그렇듯 불필요한 것을 제거하고 필수적인 것만 남겨놓은 걸 stripped 라고 합니다.  간결하게 ‘낮췄기’ 때문에 뒤에 down 을 붙이기도 해요.
