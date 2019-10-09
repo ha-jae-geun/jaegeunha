@@ -5,6 +5,55 @@
 # 디저트 카페
 * 답: https://developer-pi.tistory.com/35?category=824991
 
+```java
+import java.util.Scanner;
+ 
+public class Solution {
+    static int N, ans;
+    static int[][] map;
+     
+    public static void calc(int x, int y, int a, int b) {
+        int cnt=0;
+        int[] v=new int[101];
+         
+        for(int i=0; i<a*2+b*2; i++) {
+            if(i<a) {x++; y++;}
+            else if(i<a+b) {x++; y--;}
+            else if(i<a*2+b) {x--; y--;}
+            else {x--; y++;}
+            if(x<0||y<0||x>=N||y>=N||v[map[x][y]]==1) return;
+            v[map[x][y]]=1; cnt++;
+        }
+         
+        ans=Math.max(ans, cnt);
+    }
+     
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        int T=sc.nextInt();
+        for(int tc=1; tc<=T; tc++) {
+            N=sc.nextInt(); ans=-1;
+            map=new int[N][N];
+            for(int i=0; i<N; i++) {
+                for(int j=0; j<N; j++) 
+                    map[i][j]=sc.nextInt();
+            }
+             
+            for(int k=N-1; k>=2; k--) {
+                for(int a=1; a<N-1; a++) {
+                    for(int i=0; i<N; i++) {
+                        for(int j=0; j<N; j++) 
+                            calc(i, j, a, k-a);
+                    }
+                }
+            }
+             
+            System.out.println("#"+tc+" "+ans);
+        }
+    }
+}
+```
+
 # 시험감독 수
 ```java
 
