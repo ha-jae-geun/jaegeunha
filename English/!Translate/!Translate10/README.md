@@ -1,9 +1,26 @@
 # 중요
 * 오일 바꾸러 왔다; i am here to get my oil changed = i am here for an oil change
  * i'm here to change my oil 하면 내가 오일 직접 갈러 왔다는 느낌
-* 매연 체크하러 와싸ㄸ; i'm here to get smog checked; my붙이지 않는다. = i'm here for a smog check
+* 매연 체크하러 왔다; i'm here to get smog checked; my붙이지 않는다. = i'm here for a smog check
 
 # 원어민
+* 옥스퍼드 영어사전이 2018년 올해의 단어로 선정한 단어가 바로 toxic이에요. toxic은 원래 '유독성의'란 뜻인데요, 근래에 들어서 많이 쓰이게 된 단어예요. 진짜 독성 물질뿐 아니라, 더 추상적인 의미로도 많이 쓰이게 되었거든요.
+ * toxic behavior 유해한 행동 남을 깎아내리고, 아프게 하고, 이간질 하는 등 부정적이고 좋지 않은 각종 행동을 일컫는 말이에요.
+ * toxic work environment 유해한 근무환경
+* '새로이 시작하다', '새로운 마음가짐으로 시작하다', '새롭게 도전하다' 등의 의미로 쓰이는 관용어예요. 과거는 뒤로하고, 새로운 장을 연다는 뉘앙스죠. start a new chapter 이 표현만 쓰기도 해요!
+ * 새롭게 시작하고 싶어. I want to start a new chapter.
+* 약속할게; You have my word; 
+ * 신께 맹세해; Hand to God; I swear
+* 왜이렇게 까칠해? What mad you so cranky/grumpy?
+ * 짜증이 난 채로 일어나곤 했어요; i would wake up grumpy
+ * 작곡; SOngwriting
+ * 엄청 설레요; i am pumped
+ * 가슴이 조마조마했어요; i was on the edge of my seat
+ * 10점 만점에 몇점을 주겠어? On a scale of 1 to 10, what would you give this
+ * 이게 요즘 난리거든; It is all the rage nowadays
+* 그 놈은 더 처벌을 받아야해; He deserves the punishment
+ * 그 사람이 저지른 범죄에 꼭 맞는 처벌을 받아도 마땅해; He deserves the punishment that fits his crime
+* 그건 어항이에요; That's a fish tank
 * 발을 헛디뎌 바닥으로 넘어지거나 위에서 아래로 떨어지는 걸 fall over 라고 해요. 거기에 flat 이 붙어 완전 납작하게 뻗는다는 어감이 살아나네요.
  * = 그 코메디언은 농담을 몇 개 했는데 대부분 재미가 완전 없었다. The comedian made some jokes but most of them fell completely flat.
  * = 그녀는 땅으로 고꾸라졌다. She fell flat over to the ground.
