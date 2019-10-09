@@ -1,3 +1,8 @@
+# 중요
+* 오일 바꾸러 왔다; i am here to get my oil changed = i am here for an oil change
+ * i'm here to change my oil 하면 내가 오일 직접 갈러 왔다는 느낌
+* 매연 체크하러 와싸ㄸ; i'm here to get smog checked; my붙이지 않는다. = i'm here for a smog check
+
 # 원어민
 * 발을 헛디뎌 바닥으로 넘어지거나 위에서 아래로 떨어지는 걸 fall over 라고 해요. 거기에 flat 이 붙어 완전 납작하게 뻗는다는 어감이 살아나네요.
  * = 그 코메디언은 농담을 몇 개 했는데 대부분 재미가 완전 없었다. The comedian made some jokes but most of them fell completely flat.
@@ -228,6 +233,7 @@
 * within city limits; within a month; within the company
 
 # 코어
+* smog; 스마그
 * exam; 익(꽉 잡고 있다가)잼; executive(익'제커티브), significantly; 씩(꽉잡고)'니fi컨(잡기)리
 * blender: 믹서기  [blend];  단조로운; bland (←blander) 미국·영국 [blænd]   [stɑːk] 
  * 섞다; blend in
