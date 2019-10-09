@@ -1,4 +1,19 @@
 # 원어민
+* 발을 헛디뎌 바닥으로 넘어지거나 위에서 아래로 떨어지는 걸 fall over 라고 해요. 거기에 flat 이 붙어 완전 납작하게 뻗는다는 어감이 살아나네요.
+ * = 그 코메디언은 농담을 몇 개 했는데 대부분 재미가 완전 없었다. The comedian made some jokes but most of them fell completely flat.
+ * = 그녀는 땅으로 고꾸라졌다. She fell flat over to the ground.
+* make the first move = 먼저 행동을 취하다; 기본적으로 먼저 행동을 취하는 걸 말해요. 영상속 상황에선 ‘이성이 먼저 다가오다’에 가깝겠네요. 
+ * = 데이트 신청해! 너가 먼저 들이 대라고! Ask her out! Make the first move!
+* 전자 기기에 속도, 소리, 무게 등등 수치가 표시되는 걸 read out 이라고 해요. 만약 사람이 주어에 read out 이면 ‘낭독하다’가 되겠네요. 이렇게 동사 read 는 ‘사람이 읽다’ 뿐만 아니라 ‘적혀/쓰여 있다’라는 뜻도 된답니다!
+ * = 기기가 경도와 위도를 표시했다. The device read out the longitude and latitude.  [ˈlɑːndʒətuːd]   [-tuːd]  영국식 [ˈlætɪtjuːd] 
+* housebreak = 애완 동물의 대소변을 가리도록 길들이다; 남의 집에 무단 침입한다는 뜻도 있지만 두번째로 애완 동물의 ‘대소변 훈련을 시키다’를 의미하기도 해요. (동의어: housetrain); 참고로 아기에게 대소변 훈련을 시키는 건 potty train 이라고 해요. 애완 동물에도 쓸 수 있지만 아기에게 housebreak / housetrain 이라고는 하지 않아요!  [ˈpɑːti] 
+* 완전히 빛을 차단(block)하지도, 반사(reflect)하지도 않는 것이라고 설명해 주네요. 살이 하얘서 실핏줄이 잘 보이는 피부도 translucent skin 이라고 표현합니다. 식 [trænsˈluːsnt;trænz-]
+ * = 반투명의 플라스틱으로 만들어졌어요. It was made of translucent plastic.
+ * = 유리는 투명한 물질이다. Glass is a transparent material.
+ * - transparent : 투명한 [트렌스페어런트] - opaque : 불투명한 [오페잌]   [oʊ-]  영국식 [əʊˈpeɪk] 
+ * = 이 강아지는 아직 대소변 훈련이 안됐어요. The puppy is still not housetrained.
+ * = 아기들은 보통 몇 살 때 대소변을 가리나요? By what age are children usually potty-trained?
+ * = 우리집 고양이 대소변 훈련시키고 있어. I’m trying to housebreak my cat.
 * a dog; 개로 분류되는 집단 전체를 지칭하는 의미이기도 하다. 한마리의 개를 통해 그 개가 속해 있는 집단의 속성을 대변하는 것이다.
 * 지느러미와 강력한 꼬리를 갖춘; with fins and a powerful tail
 * 승무원들은 이륙 준비하시길 바랍니다; FLight attendants, prepare for takeoff
