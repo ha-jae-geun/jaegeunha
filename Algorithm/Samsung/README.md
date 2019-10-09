@@ -1,3 +1,10 @@
+# 원자소멸
+* https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo
+* 답: https://developer-pi.tistory.com/27?category=824991
+
+# 디저트 카페
+* 답: https://developer-pi.tistory.com/35?category=824991
+
 # 시험감독 수
 ```java
 
