@@ -2,6 +2,76 @@
 * https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo
 * 답: https://developer-pi.tistory.com/27?category=824991
 
+# 무선충전
+```java
+import java.util.Scanner;
+ 
+class BC{
+    int x, y, c, p;
+    BC(int x, int y, int c, int p){
+        this.x=x; this.y=y; this.c=c; this.p=p;
+    }
+}
+ 
+public class Solution { 
+    static int[][] map;
+    static int[] dx= {0, 0, 1, 0, -1};
+    static int[] dy= {0, -1, 0, 1, 0};
+    static BC[] bc;
+    static int A;
+ 
+    public static int solve(int ax, int ay, int bx, int by) {
+        int ans=0;
+        int[] onA=new int[A]; int[] onB=new int[A];
+         
+        for(int i=0; i<A; i++) {
+            if(Math.abs(ax-bc[i].x)+Math.abs(ay-bc[i].y)<=bc[i].c)
+                onA[i]=1;
+            if(Math.abs(bx-bc[i].x)+Math.abs(by-bc[i].y)<=bc[i].c)
+                onB[i]=1;
+        }
+ 
+        for(int i=0; i<A; i++) {
+            for(int j=0; j<A; j++) {
+                int tmp=0;
+                if(i==j) {
+                    if(onA[i]==1||onB[j]==1) tmp=bc[i].p;
+                } else {
+                    if(onA[i]==1) tmp+=bc[i].p;
+                    if(onB[j]==1) tmp+=bc[j].p;
+                }
+                ans= ans > tmp ? ans : tmp;
+            }
+        }
+        return ans;
+    }
+ 
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        int T=sc.nextInt();
+        for(int tc=1; tc<=T; tc++) {
+            int M=sc.nextInt(); A=sc.nextInt();
+            int[] a=new int[M]; int[] b=new int[M];
+            bc=new BC[A];
+            for(int i=0; i<M; i++) a[i]=sc.nextInt();
+            for(int i=0; i<M; i++) b[i]=sc.nextInt();
+            for(int i=0; i<A; i++) 
+                bc[i]=new BC(sc.nextInt(), sc.nextInt(), sc.nextInt(), sc.nextInt());
+ 
+            int ax=1; int ay=1;
+            int bx=10; int by=10;
+            int ans=solve(ax, ay, bx, by);
+            for(int i=0; i<M; i++) {
+                ax+=dx[a[i]]; ay+=dy[a[i]];
+                bx+=dx[b[i]]; by+=dy[b[i]];
+                ans += solve(ax, ay, bx ,by);
+            }
+            System.out.println("#"+tc+" "+ans);
+        }
+    }
+}
+```
+
 # 탈주범 잡기
 ```java
 import java.util.*;
