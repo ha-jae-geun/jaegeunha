@@ -2,6 +2,102 @@
 * https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo
 * 답: https://developer-pi.tistory.com/27?category=824991
 
+# 벽돌깨기
+```java
+import java.util.*;
+public class Solution{
+    static int[][]nmap;
+    static int N,W,H,ans;
+    static int[]dx={-1,1,0,0};
+    static int[]dy={0,0,-1,1};
+    public static void main(String[] args) {
+        Scanner sc=new Scanner(System.in);
+        int T=sc.nextInt();
+        for(int t=1;t<=T;t++){
+            N=sc.nextInt();
+            W=sc.nextInt();
+            H=sc.nextInt();
+            int[][]map=new int[H][W];
+             
+            for(int h=0;h<H;h++){
+                for(int w=0;w<W;w++){
+                    map[h][w]=sc.nextInt();
+                }
+            }
+            ans=H*W;
+            dfs(0,map);
+            System.out.println("#"+t+" "+ans);
+        }
+    }
+    static void dfs(int cnt,int[][]map){
+        if(cnt==N){
+            int block=0;
+            for(int i=0;i<H;i++){
+                for(int j=0;j<W;j++){
+                    if(map[i][j]>0){
+                        block++;
+                    }
+                }
+            }
+            ans=Math.min(ans, block);
+            return;
+        }
+        for(int w=0;w<W;w++){
+            int flag=0;
+            for(int h=0;h<H;h++){
+                if(map[h][w]>0){
+                    flag=1;
+                    nmap=new int[H][W];
+                    copy(map);
+                    boom(h,w,nmap[h][w]);
+                    trans();
+                    dfs(cnt+1,nmap);
+                    break;
+                }
+            }
+            if(flag==0)dfs(cnt+1,map);
+        }
+    }
+    static void trans(){
+        for(int w=0;w<W;w++){
+            LinkedList<Integer>l=new LinkedList<>();
+            for(int h=0;h<H;h++){
+                if(nmap[h][w]>0){
+                    l.add(nmap[h][w]);
+                    nmap[h][w]=0;
+                }
+            }
+            for(int h=0;h<l.size();h++){
+                nmap[H-h-1][w]=l.get(l.size()-1-h);
+            }
+        }
+    }
+    static void boom(int x,int y,int dis){
+        nmap[x][y]=0;
+        for(int d=0;d<4;d++){
+            int nx=x;
+            int ny=y;
+            for(int c=0;c<dis-1;c++){
+                nx+=dx[d];
+                ny+=dy[d];
+                if(0<=nx&&nx<H && 0<=ny&&ny<W){
+                    if(nmap[nx][ny]>=2){
+                        boom(nx,ny,nmap[nx][ny]);
+                    }
+                    nmap[nx][ny]=0;
+                }
+            }
+        }
+    }
+    static void copy(int[][]map){
+        for(int h=0;h<H;h++){
+            for(int w=0;w<W;w++){
+                nmap[h][w]=map[h][w];
+            }
+        }
+    }
+```
+
 # 무선충전
 ```java
 import java.util.Scanner;
