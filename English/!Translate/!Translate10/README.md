@@ -4,6 +4,25 @@
 * 매연 체크하러 왔다; i'm here to get smog checked; my붙이지 않는다. = i'm here for a smog check
 
 # 원어민
+* We won the game by two points. (우리는 2점 차이로 그 게임을 이겼다.)
+ * I am older than my sister by 6 years. (나는 내 여동생보다 6살 많다.)
+ * Housing prices rose by 20 percent.(집값이 20퍼센트 상승했다.
+ * The sales have increased by 10 percent  compared to the 2nd quarter. (2분기와 비교해서 판매가 10퍼센트 증가했다.
+ * [힌트] 비교 구문, rise, increase, decrease,fall, reduce 하고 많이 보임
+* 곱셈, 나눗셈 할 때도 곱하는 숫자와 나누는 숫자를 by뒤에 담는 답니다^^
+ * Multiply 2 by 2, (2에 2를 곱하세요.)
+ * =Two multiplied by two is four. (2곱하기 2는 4이다.) = Two times two is four.[참고] muliplied by = times 로 바꾸어 쓸 수 있답니다^^
+ * Divide 20 by 4. (20을 4로 나누세요.)
+ * 20 divided by 4 is 5. (20나누기 4는 5이다.)
+* 2) made the donation: 기부를 했다; ‘기부하다’는 영어로 표현할 때 많은 분들이 동사인 ‘donate’를 생각하실 겁니다. 이 단어를 쓰셔도 되지만 많은 동사들은 ‘기본 동사+해당 동사의 명사형’으로도 표현이 됩니다. 예를 들어 ‘donate’는 ‘make a donate’으로 해도 되고 ‘speak(연설하다)’는 ‘make(give) a speech’라고 해도 되는 거죠.
+* I kept tripping over all those slippery Italian names.; (미국인인) 내가 그 모든 미끈거리는 이탈리아 사람들의 이름들을 계속해서 잘못 말하는 실수를 저질렀다.
+ * I remember running and tripping over tables, and chairs; 나는 (과거에) 달리다가 탁자와 의자들에 걸려 넘어진 것을 기억한다.
+ * My power trip is stronger than your power trip, and if you don't listen to me, ... 내 "완장"이 네 "완장"보다 더 커. 따라서 내말 안들으면, ...
+ * you know, she was a very powerful, but on a power trip. ... 있잖아요. 그녀는 매우 강력한 사람이었지만 "완장질"을 하더라구요.
+* on은 '표면 접촉' '평면 접촉'의 의미를 담은 전치사로 두 사물이 접촉할 때 쓰는 가장 대표적인 전치사다. 
+ * 테일러가 머리를 앞으로 해 슬라이딩해 들어오면서 다저스가 2점을 더 뽑아냅니다. The Dodgers score 2 more as Talyor comes in on his belly.
+ * · a fly ​on the ceiling; · a fly on the table;  a fly on the wall
+* 1) vaping-related illnesses: 전자담배 관련 질환​ ‘vape’는 ‘불연성 담배에서 나오는 연기를 들이마시다’라는 의미를 가진 신조어입니다. 그래서 전자담배를 피우는 행위를 ‘vaping’이라고 합니다. 전자담배 자체는 뉴스에서 나오는 것처럼 ‘e-cigarette’이라고 하시면 되고요.
 * 진정해; Chill down
  * 백허그하다; hug someone from behind; my mom hugged him from behind
  * 사소한 것에 대해 싸우다; bricker/fight/argue about small tings/ the tinest things
@@ -14,7 +33,13 @@
  * 새롭게 시작하고 싶어. I want to start a new chapter.
 * 약속할게; You have my word; 
  * 신께 맹세해; Hand to God; I swear
-* 왜이렇게 까칠해? What mad you so cranky/grumpy?
+* 실망스러운 일이나 불쾌한 일을 'bummer' 라고 해요! 동사로는 'bum out'이라고 하고요. 기분을 축 쳐지게 하다, 불쾌하게 하다'
+ * 이번 주말 완전 별로였어. This weekend was such a bummer.
+ * 그 일로 너무 실망하지 마. Don't let that bum you out.
+* 간식거리 할 거 살까? Should we get something to snack on?; snack on [동사]: 간식을 먹다
+* 참고로, 독한 술 다음에 먹기 위한 음료를 chaser[체이서]라고 해요.
+ * 뭐 뒤따라 마실 것 줄까? Do you need a chaser?
+* 왜이렇게 까칠해? What made you so cranky/grumpy?
  * 짜증이 난 채로 일어나곤 했어요; i would wake up grumpy
  * 작곡; SOngwriting
  * 엄청 설레요; i am pumped
