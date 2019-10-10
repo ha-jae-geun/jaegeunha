@@ -2,6 +2,91 @@
 * https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo
 * 답: https://developer-pi.tistory.com/27?category=824991
 
+# 탈주범 잡기
+```java
+import java.util.*;
+ 
+public class Solution{
+    static int[][] Pipe = {
+            {0,0,0,0},
+            {1,1,1,1},
+            {1,0,1,0},
+            {0,1,0,1},
+            {1,1,0,0},
+            {0,1,1,0},
+            {0,0,1,1},
+            {1,0,0,1}
+    };
+    static int T,N,M,R,C,L,ans;
+    static int[][] A;
+    static boolean[][] V;
+    static int[] dr = {-1,0,1,0};
+    static int[] dc = {0,1,0,-1};
+     
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        T = sc.nextInt();
+        for (int tc = 1; tc <= T; tc++) {
+            ans=0;
+            N = sc.nextInt();
+            M = sc.nextInt();
+            R = sc.nextInt()+1;
+            C = sc.nextInt()+1;
+            L = sc.nextInt();
+            A = new int[N+1][M+1];
+            V = new boolean[N+1][M+1];
+            for (int i = 1; i <=N; i++) {
+                for (int j = 1; j <= M; j++) {
+                    A[i][j] = sc.nextInt();
+                }
+            }
+            V[R][C] = true;
+            dfs(1,R,C,0);
+             
+            for (int i = 1; i <=N; i++) {
+                for (int j = 1; j <= M; j++) {
+                    if(V[i][j]) ans++;
+                }
+            }
+             
+            System.out.println("#"+tc+" "+ans);
+        }
+         
+    }
+     
+    static void dfs(int dpt, int r, int c, int dir) {
+        //깊이 : 시간
+        int nr=0,nc=0;
+        if(dpt >= L) {
+            //갈수있는 곳 최대개수구하기 (V가 true인거)
+         
+            return;
+        }else {
+            for (int i = 0; i < 4; i++) {
+                nr = r+dr[i]; nc = c+dc[i];
+                if(nr<1||nr>N||nc<1||nc>M ) continue; //범위,V 체크
+                if((i+2)%4 == dir && dpt !=1) continue;
+                if(Pipe[A[r][c]][i] == 1 && Pipe[A[nr][nc]][(i+2)%4]==1) {
+                     
+                    V[nr][nc] = true;
+                     
+                    dfs(dpt+1, nr,nc, i);
+                    //V[nr][nc] = false;
+                     
+                }
+                 
+                 
+            }
+        }
+         
+         
+         
+    }
+     
+     
+
+```
+
 # 디저트 카페
 * 답: https://developer-pi.tistory.com/35?category=824991
 
