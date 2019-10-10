@@ -4,6 +4,9 @@
 * 매연 체크하러 왔다; i'm here to get smog checked; my붙이지 않는다. = i'm here for a smog check
 
 # 원어민
+* 진정해; Chill down
+ * 백허그하다; hug someone from behind; my mom hugged him from behind
+ * 사소한 것에 대해 싸우다; bricker/fight/argue about small tings/ the tinest things
 * 옥스퍼드 영어사전이 2018년 올해의 단어로 선정한 단어가 바로 toxic이에요. toxic은 원래 '유독성의'란 뜻인데요, 근래에 들어서 많이 쓰이게 된 단어예요. 진짜 독성 물질뿐 아니라, 더 추상적인 의미로도 많이 쓰이게 되었거든요.
  * toxic behavior 유해한 행동 남을 깎아내리고, 아프게 하고, 이간질 하는 등 부정적이고 좋지 않은 각종 행동을 일컫는 말이에요.
  * toxic work environment 유해한 근무환경
@@ -234,6 +237,16 @@
  * =우린 빨리 그림 작업 계속 해야 돼. We should crack on with the painting.
 * * keep it real = 솔직하게 말(행동)하다; 진실하고 자연스럽게 말이나 행동을 할 때 keep it real이라고 해요. 거짓 없이 솔직해진다는 의미죠.
  * =난 솔직하게 살고 있어. I've been keeping it real.
+
+# [ 영어 연습가이드 ] as far as—is concerned / the—side of things / in terms of —
+* "친구 몇 명이랑 단편영화를 제작하는 작은 프로젝트를 시작했어요. "Some friends and I have set out on a little project to create a short film.
+* 제 친구 ‘Kenny’가 몇 달 전에 아주 재밌는 이야깃거리를 들려줬는데 그때 시작됐어요.  It all began when my friend Kenny came to me a few months ago with a very interesting idea for a story
+* 그래서 각본에 관해서는 걔가 알아서 할거예요.  So, as far as the writing is concerned, he’s got things covered.
+ * as far as: -에 관해서는; 여러가지 중 한가지에 대해서 말하고 싶을 때
+* 촬영이나 편집과 같은 기술적인 부분은 제가 담당할거고요.  I'll be handling the technical side of things like filming and editing.
+ * technical/finincial/business side of things; -적인 부분; side 앞에 들어갈 단어가 제한적이다.
+* 배우 캐스팅은, 제 친구 한즈한테 다른 친구가 있는데 예전에 영화학교에 다녔어서 그를 통해 배우 지망생들을 만날 수 있을 것 같대요."
+ * In terms of casting actors, my other friend Hans is friends with this other guy who used to go to film school so he thinks he can get in touch with some aspiring actors and actresses through him."
 
 
 # [ 기초영어회화 ] "이럴 줄 알았으면 다르게 했을텐데" [ 가정법 ]
