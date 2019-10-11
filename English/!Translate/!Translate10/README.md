@@ -268,6 +268,14 @@
 * * keep it real = 솔직하게 말(행동)하다; 진실하고 자연스럽게 말이나 행동을 할 때 keep it real이라고 해요. 거짓 없이 솔직해진다는 의미죠.
  * =난 솔직하게 살고 있어. I've been keeping it real.
 
+# [ 기초영어회화 ] -- 하는 사람이 많지 않다
+* 예전만큼 집에서 김치를 만드는 사람들이 많지 않아요.  Not many people make kimchi at home anymore.
+ * anymore: 이전과 달라진 것을 강조한다.
+* 내가 아는 사람들은 대부분이 요즘은 그냥 사먹어요.  Most people that I know, nowadays, just buy kimchi.
+* 앞으로 몇년 후면 사람들이 집에서 김치 만드는 것을 보기가 어려울 것 같아요."
+ * I think, just several years from now, it’s going to be very rare to see people making kimchi at home.
+  * people making Kimch at home: 만드는 현상;  people who make Kimchi at home: 만드는 
+
 # [ 영어 연습가이드 ] as far as—is concerned / the—side of things / in terms of —
 * "친구 몇 명이랑 단편영화를 제작하는 작은 프로젝트를 시작했어요. "Some friends and I have set out on a little project to create a short film.
 * 제 친구 ‘Kenny’가 몇 달 전에 아주 재밌는 이야깃거리를 들려줬는데 그때 시작됐어요.  It all began when my friend Kenny came to me a few months ago with a very interesting idea for a story
