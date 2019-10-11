@@ -4,6 +4,11 @@
 * 매연 체크하러 왔다; i'm here to get smog checked; my붙이지 않는다. = i'm here for a smog check
 
 # 원어민
+* 발 받침대를 만들었어; i made a foot rest
+* 뭔가 불길해; SOmething is off
+* 요새 도는 소문이 뭐야? whats the tea?
+* 중간에서 타협하다; Meet me halfway
+* 자기 관리 하는건 중요해요; It's really important to do self-care
 * We won the game by two points. (우리는 2점 차이로 그 게임을 이겼다.)
  * I am older than my sister by 6 years. (나는 내 여동생보다 6살 많다.)
  * Housing prices rose by 20 percent.(집값이 20퍼센트 상승했다.
