@@ -4,6 +4,15 @@
 * 매연 체크하러 왔다; i'm here to get smog checked; my붙이지 않는다. = i'm here for a smog check
 
 # 원어민
+* 누군가가 불법적이거나 잘못된 일을 했다고 주장하는 것을 allegation 이라고 합니다. 주로 증거가 없거나 충분하지 않은 것이기 때문에 [혐의] 라고 해석이 되고요. 영상에서의 문장을 직역하면 [하비 와인스타인은 혐의들로 둘러싸여져 있습니다.] 라고 해석이 되지만, 이미 이 영상이 나왔을 때에는 그 혐의들 때문에 고발을 당한 상태이기 때문에 [와인스타인을 (성추행과 성폭행으로) 고발했다.] 라고 해석이 되었습니다.
+ * 그는 그 혐의들을 부인해오고 있습니다. ex) He's been denying the allegations.
+* 공식적으로는 비밀이여야 하지만 많은 사람들이 알고 있는 사실을 의미하는 단어입니다. 단어 참 잘 짓지 않았나요? 열린 비밀.. open secret!
+ * 매니저랑 레이첼이 동거하는 것은 공공연한 비밀이다. ex) It's an open secret that the manager and Rachel are living together.
+* 어떤 말을 듣거나 특정 상황 후에 "아, 그게 무슨 의미였을까?" 하고 오래 생각한 후 이해하는 것을 [헤아리다] 라고 하죠. could have p.p 는 [~했을 수도 있다] 로 해석이 되기 때문에 문장을 직역하면 [그녀가 전혀 헤아릴 수 없었을] 의 의미를 가집니다.
+ * 난 그의 발언의 의도를 헤아릴 수가 없어. 넌 어때?ex) I can't fathom the intention of his remark. Can you?  [ˈfæðəm] 
+* '기계' 라는 뜻의 machine 을 잘 생각해보시면, 굉장히 많은 부품들이 제 기능을 하여 하나의 기계가 돌아가는 모습을 떠오르시죠? 하나라도 어긋나면 고장날 수 있는.. 그런 점에서 [조직] 과 비슷하기 때문에, [크고 잘 통제되어지는 조직/기구/세력] 을 machine 이라고 합니다.
+ * 후보자 둘 다 그들을 대통령으로 만드는데 온 힘을 다하는 강력한 정치 조직을 가지고 있습니다. ex) Both candidates have a strong political machine dedicated to making them the President.
+ * 경찰은 여론을 조작하는 비밀 정부 조직을 발견했습니다.  ex) The police has revealed a secret government machine manipulating the public opinion.
 * 발 받침대를 만들었어; i made a foot rest
 * 뭔가 불길해; SOmething is off
 * 요새 도는 소문이 뭐야? whats the tea?
