@@ -304,6 +304,13 @@
 * * keep it real = 솔직하게 말(행동)하다; 진실하고 자연스럽게 말이나 행동을 할 때 keep it real이라고 해요. 거짓 없이 솔직해진다는 의미죠.
  * =난 솔직하게 살고 있어. I've been keeping it real.
 
+# (구독자 질문) 영어 뉘앙스 차이 - "내가 왜 그냥 ... 하지 않았을까?"
+* [KOR] : 내가 왜 그냥 ... 하지 않았을까?
+* [ENG] : Why couldn't I have just ... ? // Why didn't I just .. ?
+* 난 왜 산타페에 가지 않았지? WHy didn't i just go to Santa Fe? 결과에 대한 의문
+ * Why couldn't i have just gone to Santa Fe? 난 왜 그냥 산타페로 갈수는 없었던 걸까? 선택을 했던 당시의 상황과 조건에 대한 의문
+ * i could have just gone to Santa Fe; 산타페에 그냥 갈 수도 있었는데..
+
 # [ 기초영어회화 ] -- 하는 사람이 많지 않다
 * 예전만큼 집에서 김치를 만드는 사람들이 많지 않아요.  Not many people make kimchi at home anymore.
  * anymore: 이전과 달라진 것을 강조한다.
