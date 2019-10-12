@@ -2,8 +2,19 @@
 * 오일 바꾸러 왔다; i am here to get my oil changed = i am here for an oil change
  * i'm here to change my oil 하면 내가 오일 직접 갈러 왔다는 느낌
 * 매연 체크하러 왔다; i'm here to get smog checked; my붙이지 않는다. = i'm here for a smog check
+* 현지 사람이에요? native 보다 나라, 언어를 구별해서; Are you a native English Speaker?
 
 # 원어민
+* 양육 방식이 맘에 들지 않네; I disapprove of your fathering
+* 너 진짜 지독한 냄새난다; YOu stink
+* 네가 쓰는 왕관; this crown i wear
+* 왕에겐 오직 추종자들과 적만 인쎄; a king hass only follwers amd foe  [foʊ]
+* 네 얼굴이 창백해; YOu look ghastly  [ˈɡæstli]
+* 무슨 말인지 모르겠어; You lost me
+* 뒤에서 몰래 일을 꾸밀거잔하; YOu'll sneak behind their back
+* 방금 그의 방안을 몰래 들여다봤어요; I just peeked into his room
+* 웨이터가 쟁반에 음식을 가져왔어요; A robot waiter carried the food on a tray
+* -가 제 강점이에요; - is my middle nmme
 * 누군가가 불법적이거나 잘못된 일을 했다고 주장하는 것을 allegation 이라고 합니다. 주로 증거가 없거나 충분하지 않은 것이기 때문에 [혐의] 라고 해석이 되고요. 영상에서의 문장을 직역하면 [하비 와인스타인은 혐의들로 둘러싸여져 있습니다.] 라고 해석이 되지만, 이미 이 영상이 나왔을 때에는 그 혐의들 때문에 고발을 당한 상태이기 때문에 [와인스타인을 (성추행과 성폭행으로) 고발했다.] 라고 해석이 되었습니다.
  * 그는 그 혐의들을 부인해오고 있습니다. ex) He's been denying the allegations.
 * 공식적으로는 비밀이여야 하지만 많은 사람들이 알고 있는 사실을 의미하는 단어입니다. 단어 참 잘 짓지 않았나요? 열린 비밀.. open secret!
@@ -310,6 +321,7 @@
 * within city limits; within a month; within the company
 
 # 코어
+* just ;Just 뒤에 오는 단어가 자음으로 시작되면 JUS 라고 발음
 * smog; 스마그
 * exam; 익(꽉 잡고 있다가)잼; executive(익'제커티브), significantly; 씩(꽉잡고)'니fi컨(잡기)리
 * blender: 믹서기  [blend];  단조로운; bland (←blander) 미국·영국 [blænd]   [stɑːk] 
