@@ -5,6 +5,10 @@
 * 현지 사람이에요? native 보다 나라, 언어를 구별해서; Are you a native English Speaker?
 
 # 원어민
+* 러닝머신에서 뛰다 run on a treadmill 
+* 'slammed'을 이용해서 주방의 바쁜 모습을 설명하려면
+ - The kitchen is slammed. 주방이 아주 바빠. (= 주방에 할 일이 많아.)
+ - The kitchen was slammed. 주방이 아주 바빴어. ( =주방에 할 일이 많았어.)
 * 직역하면 '무언가를 테이블로 가져오다'라는 뜻인데요, 실제 뜻은 '뭔가 이득이 될 만한 걸 제공하다/기여하다'라는 뜻이에요. 
  * 켄은 좋은 제안을 많이 함으로써 기여했다. Ken brought good suggestions to the table.
 * 특정한 상황에서 어떤 요소가 들어와서(come into) 활동하기(play) 시작하여 영향을 미치는 것을 의미합니다.
