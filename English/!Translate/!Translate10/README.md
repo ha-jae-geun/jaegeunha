@@ -5,6 +5,18 @@
 * 현지 사람이에요? native 보다 나라, 언어를 구별해서; Are you a native English Speaker?
 
 # 원어민
+* '넣다'라는 뜻으로 put in 대신 동사 pop을 썼어요! pop은 뭔가를 빠르게, 간편하게, 잠깐 넣는 느낌을 살릴 때 쓰는 표현이에요. (비격식 구어체 표현이니 일상대화에서만 써주세요!)
+ * 그냥 전자레인지에 (툭) 넣어서 데워. Just pop it into the microwave.
+ * 그는 입 안에 앰앤앰 초콜릿 몇 개를 집어 넣었다. He popped some M&amp;Ms into his mouth.
+* 어떤 일의 완성도를 높이기 위해 마지막으로 다듬거나 보태는 것을 'finishing/final touch'라고 한답니다.
+ * 거의 다 마쳤는데, 여전히 마무리 손질이 필요해. We're almost finished, but we still need some finishing touches.
+* choose 는 가장 일반적이고 포괄적인 [선택하다] 입니다. 반면 opt for 는 [여러 선택사항 중에 하나를 고르다] 에 가깝습니다.
+ * 다섯가지 색상이 있었는데 나는 빨간색으로 골랐어. There were five different colors and I opted for the red one.
+ * 난 로마 대신에 스톡홀름으로의 여행을 선택했어. I opted for a trip to Stockholm instead of Rome.  [ɑːpt]
+* give away는 세 가지 뜻이 있어요! 1. 공짜로 나눠주다 2. 비밀을 누설하다, 속내가 드러나다 3. 저버리다, 포기하다, 내주다
+ * 이건 너무 싸서 마치 거저 주는 것과 다름 없다. This is so cheap that it's almost like they're giving it away.
+ * 난 그걸 포기하지/내주지 않을 거야. I'm not going to give that away.
+ * 그녀의 눈에서 그녀의 진심이 드러났다. Her eyes gave away her true feelings.
 * 양육 방식이 맘에 들지 않네; I disapprove of your fathering
 * 너 진짜 지독한 냄새난다; YOu stink
 * 네가 쓰는 왕관; this crown i wear
