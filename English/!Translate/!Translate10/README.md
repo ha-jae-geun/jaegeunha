@@ -5,6 +5,17 @@
 * 현지 사람이에요? native 보다 나라, 언어를 구별해서; Are you a native English Speaker?
 
 # 원어민
+* 질문하세요; Fire away
+* 시합, 경기, 선거 등에 출전한다는 뜻이에요. 여기서 ring 은 권투의 링 경기장을 말하는데요, 옛날에 경기를 지켜보다가 출전을 희망하면 자신의 모자를 링에 던지던 것에서 유래했어요. 영상에서는 ring 대신 market 을 넣어 미국 시장에 출사표를 던졌다고 표현했습니다.
+ * = 나 반장 선거에 나가볼까 생각 중이야. I'm thinking about throwing my hat in the ring for class president.
+* 어떤 것의 성공 여부를 알아보기 위해 시험적으로 살짝 시작해 보는 것을 의미해요. 발가락(toe) 하나만 살짝 담근다(dip)는 것은 무턱대고 뛰어드는 것이 아니라 조심스럽게 간을 보면서 시작한다는 의미겠죠? 
+ * = 너무 급하게 하지 마. 먼저 좀 재봐야 지.Don’t rush in. You need to dip your toe into it first.
+* foothold 는 ‘발판, 디딜 곳’이에요. 비유적으로 다른 곳으로 진출하기 위하여 이용하는 수단을 의미합니다. get/gain a foothold = 발판을 마련하다
+ * = 우리는 일본 시장에서의 발판을 마련하려 노력하고 있습니다. We are still trying to get a foothold in the Japanese market.
+* 동사 tap 은 스마트폰 때문에 익숙하실 거에요. 무언가를 가볍게 치거나 두드리는 것을 말합니다. 하지만 이외에도 ‘이용하다, 활용하다’라는 뜻도 있어요. tap 혹은 tap into 라고 합니다.
+ * = 누군가가 내 어깨를 툭툭 쳤다. Someone tapped me on the shoulder.
+ * = 그들은 큰 아시아 시장을 활용하려고 했다. They tried to tap the huge market in Asia.
+ * = 새 차를 사기 위해 저금해 놨던 돈에 손대야만 했다. We had to tap into our savings to buy a new car.
 * 러닝머신에서 뛰다 run on a treadmill 
 * 'slammed'을 이용해서 주방의 바쁜 모습을 설명하려면
  - The kitchen is slammed. 주방이 아주 바빠. (= 주방에 할 일이 많아.)
