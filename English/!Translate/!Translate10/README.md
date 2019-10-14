@@ -3,6 +3,7 @@
  * i'm here to change my oil 하면 내가 오일 직접 갈러 왔다는 느낌
 * 매연 체크하러 왔다; i'm here to get smog checked; my붙이지 않는다. = i'm here for a smog check
 * 현지 사람이에요? native 보다 나라, 언어를 구별해서; Are you a native English Speaker?
+* 걔 공주병이야; SHe's such a diva
 
 # 토익
 * 가이드북 전역에; are outlined throughout thhe guidebook
