@@ -4,7 +4,28 @@
 * 매연 체크하러 왔다; i'm here to get smog checked; my붙이지 않는다. = i'm here for a smog check
 * 현지 사람이에요? native 보다 나라, 언어를 구별해서; Are you a native English Speaker?
 
+# 토익
+* 가이드북 전역에; are outlined throughout thhe guidebook
+ 1. 장소 전역에 2. 시간 내내/동안 3. 전편에/전역에
+* formerly + 관사 + 명사: (위치/장소) 이전에 -였던
+ * formerly known as: (명칭/상태) 이전에 -로 알려진
+* resolve issule/dispute/conflict
+ * initiate plan
+* reserve seats/flight
+ * finance(돈을 대주다) + his son / business / equiment purchase
+ * availability(가능성) of car/gun/cheap flights: 물건의 이용 가능성
+ 
+
 # 원어민
+* 얼음 조각들; ice cubes
+* 자리에 앉으시겠어요?(공손); would you like to sit down?
+ * 카드 충전할 때; top it up
+ * 이동수단 탈 때 'by' 보다 'take' 사용; i took the bus to work
+ * 안쪽으로 더 들어가주시겡써요/ COuld you move further in? / COuld yoou move down?
+ * 저 좀 나갈 수 있을까요? Could i get through, please? / Excuse me
+ * 이봐요; DO yoou mind?  하지 말아주시겟어요? COuld you not?
+* 퀵서비스 부를게요; i'll call up a messenger service
+* 회신 기다리겠습니다; i hope to hear back from you
 * 질문하세요; Fire away
 * 시합, 경기, 선거 등에 출전한다는 뜻이에요. 여기서 ring 은 권투의 링 경기장을 말하는데요, 옛날에 경기를 지켜보다가 출전을 희망하면 자신의 모자를 링에 던지던 것에서 유래했어요. 영상에서는 ring 대신 market 을 넣어 미국 시장에 출사표를 던졌다고 표현했습니다.
  * = 나 반장 선거에 나가볼까 생각 중이야. I'm thinking about throwing my hat in the ring for class president.
