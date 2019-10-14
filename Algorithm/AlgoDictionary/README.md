@@ -204,6 +204,19 @@ public boolean isValid(String s) {
 
 
 # String
+## 슬라이싱
+```java
+StringBuilder sb= new StringBuilder();
+            String s= sc.next();
+            int M = N/4;
+            sb.append(s);
+            sb.append(s.substring(0,M));
+            Set<String> set = new HashSet<>();
+            for(int i=0; i<s.length(); i++) {
+                set.add(sb.substring(i,i+M));
+            }
+```
+
 ## charAt
 ```java
 public static int getStrike(String chk, String num) {
