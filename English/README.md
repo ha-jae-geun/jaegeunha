@@ -60,7 +60,6 @@
 # 수 0522
 * 원스탑에듀 https://m.blog.naver.com/PostList.nhn?blogId=1stopedu
 * 영어 주유소 http://blog.naver.com/tnwlwldu
-* 영어 뉴스 https://m.blog.naver.com/PostList.nhn?blogId=chjc9
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
 *  출판사 프렉티쿠스  https://blog.naver.com/knowhereman
 *  데이브 http://blog.naver.com/koreanstyl3
