@@ -411,7 +411,7 @@ public class Solution {
                     bottom = bottom > map[i][j] ? map[i][j] : bottom;
                 }
             } ////// input
- 			//ans 위치 중요
+ 			//depth 역할; 0으로 계속 초기화 해줘야 함
   			ans=-1;
                 
             for (pair p : top) {
