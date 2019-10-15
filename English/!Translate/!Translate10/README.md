@@ -24,6 +24,17 @@
  
 
 # 원어민
+* sit behind the desk = 책상에만 앉아있다
+ * - sit on the desk : 책상 상판 위에 걸터앉음  - sit at the desk : 책상 앞 의자에 앉음  - sit behind the desk : 책상에만 앉아 있음
+ * on 은 표면 위를 가리키기 때문에 의자가 아니라 상판에 앉았다는 의미에요. 가장 기본적인 건 at 으로 책상 앞에 앉는다는 뜻입니다. 반면 behind 도 의미는 같지만 책상 자리만 지킨다는 부정적인 어감으로 잘 쓰여요.
+ * = 내 일 정말 싫어. 하루종일 책상에 앉아서 서류 작업만 하고. I hate my job, sitting behind the desk doing the paperwork.
+ * = 그는 하루종일 책상 앞만 지키고 있었다. He spent all day sitting behind the desk.
+* 스펠링 어떻게 돼요? How do you spell it? 
+* '코에서 피가 나는 것'을 그대로 영어로 바꾸면 돼요. nosebleed. (bleed는 '피'가 아니고 '피나다'입니다!) bloody nose는 '코피'라는 뜻도 있는데, 좀 더 나아가 '작은 부상', '패배'라는 뜻으로도 쓰여요. give someone a bloody nose 직역하면 '누군가로 하여금 코피가 나게 하다'인데, 진짜로 때려서 코피나게 했다는 뜻도 되고, 아니면 일시적으로 누군가를 패배시켰다는 비유적 표현도 된답니다.
+ * 나 코피 나. I have a bloody nose.
+ * 난 가끔 갑자기 코피가 나곤 해. I get random nosebleeds.
+* 동사 creep = 살금살금 움직이다, 천천히 움직이다 creep around는 살금살금 이리저리 움직인가는 듯이에요. 약간 음침하고 어두운 느낌이 드는 표현이에요. - creep in은 살금살금 들어오다라는 뜻에서 출발해 '서서히 생긴다'라는 뜻으로 쓰여요.
+ * 너의 의심과 두려움이 생기게 두지마. ex) Don't let your doubt and fear creep in.
 * 이런데서 만날 줄이야; Fancy seeeing you here
 * 집착이라고 해도 될 것 같아요; It's a safe to say that i'm obsessed
 * 얼음 조각들; ice cubes
