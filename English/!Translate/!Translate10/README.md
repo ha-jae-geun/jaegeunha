@@ -18,6 +18,8 @@
  
 
 # 원어민
+* 이런데서 만날 줄이야; Fancy seeeing you here
+* 집착이라고 해도 될 것 같아요; It's a safe to say that i'm obsessed
 * 얼음 조각들; ice cubes
 * 자리에 앉으시겠어요?(공손); would you like to sit down?
  * 카드 충전할 때; top it up
