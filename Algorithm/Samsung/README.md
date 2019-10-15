@@ -415,7 +415,7 @@ public class Solution {
   			ans=-1;
                 
             for (pair p : top) {
-              //N이 for문 안에서 형성
+              //swap 혹은 visit 관리; swap은 2개
                 visit = new boolean[N][N];
                 dfs(p.y, p.x, 1, false);
  
@@ -433,7 +433,7 @@ public class Solution {
         //depth 처리
         ans = ans < len ? len : ans;
         
-        //swap 혹은 visit 관리
+        //swap 혹은 visit 관리; swap은 2개
         visit[y][x] = true;
  
         
