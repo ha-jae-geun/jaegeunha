@@ -6,6 +6,12 @@
 * 걔 공주병이야; SHe's such a diva
 
 # 토익
+* 실제로 그림을 그린다는 의미도 있지만, 마치 눈 앞에 그림이 보이듯이 무언가를 묘사하는 걸 의미하는 표현입니다. 
+ * = 당신과 함께 하는 내 미래를 장밋빛으로 그려봤어. (=생각했어.) I painted a rosy picture of my future with you.
+* * throw someone (off) = 당혹스럽게 하다, 놀라게 하다; 누군가를 내던지듯 '충격을 주다, 놀라게 하다, 혹은 혼란스럽게 하다' 라는 뜻으로 'throw someone (off)' 이라는 표현을 쓰기도 해요.
+ * = 그 가게 닫은 거 보고 정말 당황했어. 일주일 전에는 손님으로 가득 찼었거든. It really threw us when the store was closed. It was packed just a week before.
+* * in the thick of = ~이 한창일 때, ~의 중심에 있는; thick 은 [빽빽한/두꺼운] 의 의미를 가지는 단어에요. 뭔가 빽빽하게 가득차있는 것 안에 들어가 있는 뉘앙스의 표현입니다.
+ * = 제이슨은 논쟁의 중심에 있는 것을 즐긴다. Jason enjoys being in the thick of controversies.
 * 가이드북 전역에; are outlined throughout thhe guidebook
  1. 장소 전역에 2. 시간 내내/동안 3. 전편에/전역에
 * formerly + 관사 + 명사: (위치/장소) 이전에 -였던
