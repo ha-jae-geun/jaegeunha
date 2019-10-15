@@ -369,6 +369,21 @@
  * In terms of casting actors, my other friend Hans is friends with this other guy who used to go to film school so he thinks he can get in touch with some aspiring actors and actresses through him."
 
 
+# [ 일상을 영어로 말하기 ] 저는 조커 영화를 아직 보기 전입니다
+* 새로 나온 조커 영화를 아직 안봤는데 아주 괜찮다는 것 같아요. 
+ * I haven't seen the new joker movie yet but it sounds like it's really good
+* 얼마나 좋았는지 사람들이 말로 표현을 다 못할 정도인 것 같더라고요. 
+ *  It seems like people are having a hard time expressing how much they love it.
+* 근데 저는 아주 인상적인 또 다른 부분이 뭐냐면 이 훌륭한 영화를 누구의 공으로 생각하는지 대해서 편협한 모습을 보인다는 것이에요 - 
+ * But something else that I've been quite amazed by is how focused we are in terms of who we credit for this great film 
+  * 인상깊다; amazed, impressed
+* 이번 같은 경우에는 주인공을 맡은 배우에 말이죠. 팬으로서, 영화 제작에 얼마 많은 합쳐진 노력이 들어가는지를 생각해야 되는 것 같아요.  
+ *  in this case, the actor who plays the main character. I think, as fans, it's important (for us) to keep in mind how much collective effort goes into creating a film.
+ * collective effort: 여러 사람의 노력
+* 그리고 그렇게 함으로써, 우리 스스로 영화를 더 넓은 수준으로 감상하고 그만큼 더 재밌고 보고 그것에 대해서 이야기할 수 있게 되는 것 같아요.
+ * (And) By doing so, I think we're allowing ourselves to appreciate the movie on a broader level and (just) make it that much more enjoyable to watch and talk about.
+
+
 # [ 기초영어회화 ] "이럴 줄 알았으면 다르게 했을텐데" [ 가정법 ]
 * If i had know something, i would'be / wouldn't ve
  * 코어: had를 명확하게 발음할 필요가 없다.
