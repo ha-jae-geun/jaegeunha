@@ -430,13 +430,19 @@ public class Solution {
     private static void dfs(int y, int x, int len, boolean cut) {
         // cut이 true 면 공사를 했다.
  
+        //depth 처리
+        ans = ans < len ? len : ans;
+        
+        //swap 혹은 visit 관리
         visit[y][x] = true;
  
-        ans = ans < len ? len : ans;
+        
  
         for (int i = 0; i < 4; i++) {
             int ny = y + dy[i];
             int nx = x + dx[i];
+            
+            //
             if (ny < 0 || ny > N - 1 || nx < 0 || nx > N - 1 || visit[ny][nx])
                 continue;
             if (map[ny][nx] < map[y][x]) {
@@ -452,6 +458,7 @@ public class Solution {
                     }
                 }
             }
+            //swap 혹은 visit 관리
             visit[ny][nx] = false;
         }
  
