@@ -71,6 +71,7 @@ public class Solution{
             N=sc.nextInt();
             W=sc.nextInt();
             H=sc.nextInt();
+            ans=H*W;
             int[][]map=new int[H][W];
              
             for(int h=0;h<H;h++){
@@ -78,7 +79,7 @@ public class Solution{
                     map[h][w]=sc.nextInt();
                 }
             }
-            ans=H*W;
+            
             dfs(0,map);
             System.out.println("#"+t+" "+ans);
         }
@@ -150,6 +151,7 @@ public class Solution{
             }
         }
     }
+}
 ```
 
 # 무선충전
@@ -304,7 +306,7 @@ public class Solution{
     }
      
 ```
-* ans -1 초기화
+* 테스트 케이스 for문 안에서 static ans -1 초기화
  * ans 최대값 구하기
 * int[] visit 생성; 위치 상관 없음: O
 * 메인 
@@ -371,7 +373,7 @@ class Main {
     
 }
 ```
-* ans -1 초기화
+* 테스트 케이스 for문 안에서 static ans -1 초기화
  * ans 최대값 구하기
 * int[] visit 생성; 위치 상관 없음: O
 * 메인 
@@ -435,7 +437,7 @@ public class Solution {
     }
 }
 ```
-* ans -1 초기화
+* 테스트 케이스 for문 안에서 static ans -1 초기화
  * ans 최대값 구하기
 * int[] visit 생성; 위치 상관 없음: O
 * 메인 
@@ -470,6 +472,7 @@ public class Solution {
         int T = Integer.parseInt(br.readLine());
  
         for (int tc = 1; tc <= T; tc++) {
+            ans=-1;
             StringTokenizer st = new StringTokenizer(br.readLine(), " ");
             N = Integer.parseInt(st.nextToken());
             K = Integer.parseInt(st.nextToken()); // 최대 K만큼 한 번 지형을 깎는다
@@ -493,7 +496,7 @@ public class Solution {
                 }
             } ////// input
  			//DFS(0,0)에서 depth 역할; 0으로 계속 초기화 해줘야 함
-  			ans=-1;
+  			
                 
             for (pair p : top) {
               //visit DFS일 때 위치 다양
@@ -561,7 +564,7 @@ public class Solution {
 }
 
 ```
-* ans -1 초기화
+* 테스트 케이스 for문 안에서 static ans -1 초기화
  * ans 최대값 구하기
 * int[] visit 생성; 위치 상관 없음: O
 * 메인 
