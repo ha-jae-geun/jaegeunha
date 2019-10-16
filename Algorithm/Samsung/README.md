@@ -305,65 +305,7 @@ public class Solution {
 }
 ```
 
-# 시험감독 수
-```java
 
-```
-* "LONG"으로 만드는 것이 중요합니다. int가 가진 수의 범위를 초과할 수 있으므로, 조심해야합니다. 두번째 요인은 밑에 정답코드를 보고 확인 해보시죠.
-
-* [출처](https://sundries-in-myidea.tistory.com/6 [DesiProm])
-
-
-# 보물상자
-* 문제: https://swexpertacademy.com/main/userpage/code/userProblemBoxDetail.do?probBoxId=AV5Po0AqAPwDFAUq&leftPage=1&curPage=userpage&userId=SWEAC#
-* 답: https://developer-pi.tistory.com/49
-
-```java
-package swea_p;
- 
-import java.util.Arrays;
-import java.util.HashSet;
-import java.util.Scanner;
-import java.util.Set;
- 
-public class Swea5658_R {
- 
-    public static void main(String[] args) {
-        // TODO Auto-generated method stub
-        Scanner sc = new Scanner(System.in);
-        int TC = sc.nextInt();
-        for(int tc=1; tc<=TC; tc++) {
-            int N = sc.nextInt();
-            int K = sc.nextInt();
-            StringBuilder sb= new StringBuilder();
-            String s= sc.next();
-            int M = N/4;
-            sb.append(s);
-            sb.append(s.substring(0,M));
-            Set<String> set = new HashSet<>();
-            for(int i=0; i<s.length(); i++) {
-                set.add(sb.substring(i,i+M));
-            }
-            int[] numSet= new int[set.size()];
-            int index=0;
-            for(String temp : set) {
-                for(int i=0; i<temp.length(); i++) {
-                    char c = temp.charAt(i);
-                    if(c>='A') {
-                        numSet[index]=numSet[index]*16+(c-'A'+10);    
-                    }else {
-                        numSet[index]=numSet[index]*16+(c-'0');
-                    }
-                }
-                index++;
-            }
-            Arrays.sort(numSet);
-            System.out.println("#"+tc+" "+numSet[numSet.length-K]);
-        }
-    }
-}
-
-```
 
 # 등산로 조성
 * https://seungahyoo.tistory.com/64
@@ -478,3 +420,67 @@ public class Solution {
 }
 
 ```
+
+
+
+# 시험감독 수
+```java
+
+```
+* "LONG"으로 만드는 것이 중요합니다. int가 가진 수의 범위를 초과할 수 있으므로, 조심해야합니다. 두번째 요인은 밑에 정답코드를 보고 확인 해보시죠.
+
+* [출처](https://sundries-in-myidea.tistory.com/6 [DesiProm])
+
+
+# 보물상자
+* 문제: https://swexpertacademy.com/main/userpage/code/userProblemBoxDetail.do?probBoxId=AV5Po0AqAPwDFAUq&leftPage=1&curPage=userpage&userId=SWEAC#
+* 답: https://developer-pi.tistory.com/49
+
+```java
+package swea_p;
+ 
+import java.util.Arrays;
+import java.util.HashSet;
+import java.util.Scanner;
+import java.util.Set;
+ 
+public class Swea5658_R {
+ 
+    public static void main(String[] args) {
+        // TODO Auto-generated method stub
+        Scanner sc = new Scanner(System.in);
+        int TC = sc.nextInt();
+        for(int tc=1; tc<=TC; tc++) {
+            int N = sc.nextInt();
+            int K = sc.nextInt();
+            StringBuilder sb= new StringBuilder();
+            String s= sc.next();
+            int M = N/4;
+            sb.append(s);
+            sb.append(s.substring(0,M));
+            Set<String> set = new HashSet<>();
+            for(int i=0; i<s.length(); i++) {
+                set.add(sb.substring(i,i+M));
+            }
+            int[] numSet= new int[set.size()];
+            int index=0;
+            for(String temp : set) {
+                for(int i=0; i<temp.length(); i++) {
+                    char c = temp.charAt(i);
+                    if(c>='A') {
+                        numSet[index]=numSet[index]*16+(c-'A'+10);    
+                    }else {
+                        numSet[index]=numSet[index]*16+(c-'0');
+                    }
+                }
+                index++;
+            }
+            Arrays.sort(numSet);
+            System.out.println("#"+tc+" "+numSet[numSet.length-K]);
+        }
+    }
+}
+
+```
+
+
