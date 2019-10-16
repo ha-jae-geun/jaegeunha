@@ -303,9 +303,16 @@ public class Solution{
          
     }
      
-     
-
 ```
+* ans -1 초기화
+ * ans 최대값 구하기
+* int[] visit 생성; 위치 상관 없음: O
+* 메인 
+ * dfs: O
+* dfs 메소드
+ * 값 변환 전 visit true: O
+ * perm: O
+ * 값 변환 후 visit false: O
 
 
 ## 로또
@@ -364,7 +371,15 @@ class Main {
     
 }
 ```
-
+* ans -1 초기화
+ * ans 최대값 구하기
+* int[] visit 생성; 위치 상관 없음: O
+* 메인 
+ * dfs: O
+* dfs 메소드
+ * 값 변환 전 visit true: O
+ * perm: O
+ * 값 변환 후 visit false: O
 
 
 
@@ -391,7 +406,7 @@ public class Solution {
             if(x<0||y<0||x>=N||y>=N||v[map[x][y]]==1) return;
             v[map[x][y]]=1; cnt++;
         }
-         //depth 처리; perm; 위치 다양
+         
         ans=Math.max(ans, cnt);
     }
      
@@ -420,7 +435,15 @@ public class Solution {
     }
 }
 ```
-
+* ans -1 초기화
+ * ans 최대값 구하기
+* int[] visit 생성; 위치 상관 없음: O
+* 메인 
+ * dfs: O
+* dfs 메소드
+ * 값 변환 전 visit true: O
+ * perm: O
+ * 값 변환 후 visit false: O
 
 
 # 등산로 조성
@@ -538,6 +561,17 @@ public class Solution {
 }
 
 ```
+* ans -1 초기화
+ * ans 최대값 구하기
+* int[] visit 생성; 위치 상관 없음: O
+* 메인 
+ * dfs: O
+* dfs 메소드
+ * 값 변환 전 visit true: O
+ * perm: O
+ * 값 변환 후 visit false: O
+
+
 
 
 
