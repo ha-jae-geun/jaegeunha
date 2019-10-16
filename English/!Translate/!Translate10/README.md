@@ -24,6 +24,16 @@
  
 
 # 원어민
+* 성공을 위해 노력하는 정신을 의미해요. hustle 은 부산하게 움직이는 동작을, 그리고 hustler 는 성공하려는 야심을 품은 사람을 가리키죠. hustle mentality / hustler mindset = 성공을 향한 창의적, 진취적 마음가짐; 그런데 열심히만 하는 것이 아니라 ‘똑똑한 노력’을 한다는 뜻이 내포돼 있어요. work hard 뿐만 아니라 work smart 까지 하는 거죠.
+ * = 비즈니스 하는 사람으로서 진취적인 마음가짐으로 노력해야 해. As a businessperson, you need to have hustle mentality.
+* fill a void = 공허함을 채우다; void 는 ‘비어있는 공간’을 말해요. 그래서 ‘공허함’이란 뜻도 됩니다.; 또한 법적으로 효력이 없다는 의미도 있어요. 그래서 폐기된 여권을 보면 VOID 라고 쓰인 도장이 찍히는 거랍니다.
+ * = 어떤 것도 공허함을 채워주지 못했다. Nothing could fill the void.
+* 영세한 규모의 작은 가게를 부르는 용어에요. 부부(mom and pop)가 매달려서 운영하는 작은 자영업체라는 뜻입니다.
+ * = 그는 서울에서 작은 신발 가게를 하나 운영한다. He owns a mom-and-pop shoe store in Seoul.
+* ＊ no pun intended = 말장난 하려는게 아니고요; 처음 만난 사람과 어색함을 없애주는 것을 ice breaker 라고 해요. 그런데 ice cream 과 발음이 비슷하죠? 이렇게 비슷한 발음으로 말장난을 하는 걸 pun 이라고 해요. 그래서 '말장난이 아니라 진짜로'는 no pun intended, 반면 '말장난이다'는 pun intended 라고 합니다.
+ * = 너희 이모들 바지 때문에 싫어. 말장난임. I hate your aunts because of their pants. Pun intended.
+* taken 은 한마디로 ‘찜’이에요. 누가 이미 선점해 놨다는 것이죠. 사람에게 쓰면 “임자 있어요”가 되고, 좌석에 쓰면 “여기 자리 있어요”가 되겠네요.
+ * = 미안해요. 저 임자 있어요. Sorry. I’m taken.
 * 자기 계발 책; self-help books
 * 분명히 말해두겠는데; For the record
 * 완화시키다; ease one's anxiety/suffering/pain/conscience/minds
