@@ -4,6 +4,8 @@
 * 매연 체크하러 왔다; i'm here to get smog checked; my붙이지 않는다. = i'm here for a smog check
 * 현지 사람이에요? native 보다 나라, 언어를 구별해서; Are you a native English Speaker?
 * 걔 공주병이야; SHe's such a diva
+* elf: 산타클로스 도와주는 난쟁이를 연상시킴
+ * She is a goddess
 
 # 토익
 * 실제로 그림을 그린다는 의미도 있지만, 마치 눈 앞에 그림이 보이듯이 무언가를 묘사하는 걸 의미하는 표현입니다. 
