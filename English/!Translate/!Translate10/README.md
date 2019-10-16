@@ -24,6 +24,22 @@
  
 
 # 원어민
+* 자기 계발 책; self-help books
+* 분명히 말해두겠는데; For the record
+* 완화시키다; ease one's anxiety/suffering/pain/conscience/minds
+* 가짜; dummy something; Do you still have that dummy grenade?
+* 제가 어려웠을 때; When i was in need
+* 내가 장담해; i can assure you
+* 화덕을 사용해 봤다; we've used our fire pit outside
+* 따뜻한 옷을 입고싶은데; i wann put on nice snuggly warm clothes
+* 오후가 되면 너무 덥다; By the afternoon, i'm roasting
+* 제가 어리석었다면; If i didn't know better,  협박인 줄알았겠어요; i'd say you're making a threat
+* 몰락의 원인이 되진 않을거야; she will not be our downfall
+* 의문을 제기했어요; WE posed the question 'Are we all good?'
+* 위대한 캐릭터애요 ;be a larger-than-life character
+* 왕족들, 귀족들, 상류층들, 서민들; Royalty, nobility, the gentry[ˈdʒentri]  and rabble  [ˈræbl]
+* 당신은 이곳에서 환영받지 못해; You weren't wanted
+* 내 아침을 망치지 마; DOn't ruin my morning
 * sit behind the desk = 책상에만 앉아있다
  * - sit on the desk : 책상 상판 위에 걸터앉음  - sit at the desk : 책상 앞 의자에 앉음  - sit behind the desk : 책상에만 앉아 있음
  * on 은 표면 위를 가리키기 때문에 의자가 아니라 상판에 앉았다는 의미에요. 가장 기본적인 건 at 으로 책상 앞에 앉는다는 뜻입니다. 반면 behind 도 의미는 같지만 책상 자리만 지킨다는 부정적인 어감으로 잘 쓰여요.
