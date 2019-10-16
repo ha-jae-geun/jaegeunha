@@ -253,6 +253,67 @@ public class Solution{
 
 ```
 
+
+## 로또
+* [로또](https://www.acmicpc.net/problem/6603)
+
+```java
+import java.io.BufferedReader;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.InputStreamReader;
+import java.util.Arrays;
+ 
+class Main {
+    static int N;
+    static int[] arr;
+    static int[] result;
+    public static void main(String args[]) throws Exception {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+ 
+        while (true) {
+            String[] str = br.readLine().split(" ");
+            N = Integer.parseInt(str[0]);
+            arr = new int[N];
+            result = new int[N];
+ 
+            if (N == 0) {
+                break;
+            }
+            for (int i = 0; i < N; i++) {
+                arr[i] = Integer.parseInt(str[i + 1]);
+            }
+            DFS(0,0);
+            System.out.println();
+        }
+ 
+ 
+    }
+    public static void DFS(int start, int depth){
+        if(depth==6){
+            print();
+        }
+        for(int i=start; i<N; i++){
+        result[i] = 1;
+        DFS(i+1,depth+1);
+        result[i] = 0;
+        }
+        
+    }
+    public static void print(){
+        for(int i=0; i<N; i++){
+            if(result[i]==1)
+            System.out.print(arr[i]+" ");
+        }
+        System.out.println();
+    }
+    
+}
+```
+
+
+
+
 # 디저트 카페
 * 답: https://developer-pi.tistory.com/35?category=824991
 
@@ -353,11 +414,11 @@ public class Solution {
                     bottom = bottom > map[i][j] ? map[i][j] : bottom;
                 }
             } ////// input
- 			//depth 역할; 0으로 계속 초기화 해줘야 함
+ 			//DFS(0,0)에서 depth 역할; 0으로 계속 초기화 해줘야 함
   			ans=-1;
                 
             for (pair p : top) {
-              //swap 혹은 visit 관리; swap은 2개
+              //visit DFS일 때 
                 visit = new boolean[N][N];
                 dfs(p.y, p.x, 1, false);
  
@@ -372,11 +433,13 @@ public class Solution {
     private static void dfs(int y, int x, int len, boolean cut) {
         // cut이 true 면 공사를 했다.
  
-        //depth 처리
-        ans = ans < len ? len : ans;
+        
         
         //swap 혹은 visit 관리; swap은 2개
         visit[y][x] = true;
+        
+        //depth 처리; perm 
+        ans = ans < len ? len : ans;
  
         
  
