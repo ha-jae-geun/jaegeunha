@@ -376,6 +376,20 @@
 * * keep it real = 솔직하게 말(행동)하다; 진실하고 자연스럽게 말이나 행동을 할 때 keep it real이라고 해요. 거짓 없이 솔직해진다는 의미죠.
  * =난 솔직하게 살고 있어. I've been keeping it real.
 
+# [ 일상을 영어로 말하기 ] "선택지를 3개로 좁혔어." ( 기초영어회화 )
+* 내년 7월에 이사 갈거예요, 그때 지금 이 곳 계약이 끝나거든요. 
+ * I'm going to move in July next year because that's when my contract on this place expires.
+ * 월 년도; in july next year; 로도 많이 말한다.
+* 사실은 이미 이사 갈 곳을 찾기 시작했어요. 
+ *  Actually, I've already started looking for a new place.
+ * look for: 찾는 과정
+* 선택지를 3곳으로 좁혔는데요 결정을 내리기 전에 시간을 충분히 가지고 고민을 할거예요 
+ *  I've narrowed my options down to about 3, but I'm really going to take my time before I decide
+- 가장 좋은 결정을 꼭 하고 싶거든요.
+ * because I want to make sure (that) I make the best decision.
+ * make sure: 단순히 내가 어떻게 하고 싶은 내용보다는 어떤 상황이 특정 방식으로 흘러가도록 유도한다는 맥락
+
+
 # (구독자 질문) 영어 뉘앙스 차이 - "내가 왜 그냥 ... 하지 않았을까?"
 * [KOR] : 내가 왜 그냥 ... 하지 않았을까?
 * [ENG] : Why couldn't I have just ... ? // Why didn't I just .. ?
