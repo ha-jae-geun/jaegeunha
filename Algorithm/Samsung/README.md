@@ -318,7 +318,7 @@ public class Solution{
 * dfs 메소드
  * 값 변환 전 visit true: O
  * perm: O
- * 값 변환 후 visit false: O
+ * 값 변환 후 1. 변한값 dfs 전  true 2. 변한 값 visit false: O
 
 
 ## 로또
@@ -385,7 +385,7 @@ class Main {
 * dfs 메소드
  * 값 변환 전 visit true: O
  * perm: O
- * 값 변환 후 visit false: O
+ * 값 변환 후 1. 변한값 dfs 전  true 2. 변한 값 visit false: O
 
 
 
@@ -449,7 +449,7 @@ public class Solution {
 * dfs 메소드
  * 값 변환 전 visit true: O
  * perm: O
- * 값 변환 후 visit false: O
+ * 값 변환 후 1. 변한값 dfs 전  true 2. 변한 값 visit false: O
 
 
 # 등산로 조성
@@ -577,7 +577,7 @@ public class Solution {
 * dfs 메소드
  * 값 변환 전 visit true: O
  * perm: O
- * 값 변환 후 visit false: O
+ * 값 변환 후 1. 변한값 dfs 전  true 2. 변한 값 visit false: O
 
 
 
