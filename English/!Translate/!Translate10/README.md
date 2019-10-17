@@ -26,6 +26,17 @@
  
 
 # 원어민
+* 칼날 끝이 톱니 모양인 칼 knife with a serrated edge
+* 얄밉기로 소문이 났더라고; i have a reputation for being obnoxious  [-ˈnɑːk-]  영국식 [əbˈnɒkʃəs] 
+ * a despicable act/crime  비열한 행동/범행  [dɪˈspɪkəbl;]
+* 모두가 조용해졌어요; Everyone hushed
+* 이제 안전해; Coast is clear
+* 왜 저를 몰아세우(따라잔며 괴롭히다)는 거에요? Why are you hounding me?
+* 그의 마음을 사로잡으려고 나는 비상한 노력을 했다. I bent over backwards to win his heart. 
+* 우리는 매사에 의견이 맞아; We see eye to eye on everything
+* 가식적인 눈물/행동이었다; was just crocodile tears
+* 너 째째하고 비열했잖아; You're usuayllly so stingy and rat-like
+* 시범보여주실 수 있나요? Can you show us a demonstration
 * 성공을 위해 노력하는 정신을 의미해요. hustle 은 부산하게 움직이는 동작을, 그리고 hustler 는 성공하려는 야심을 품은 사람을 가리키죠. hustle mentality / hustler mindset = 성공을 향한 창의적, 진취적 마음가짐; 그런데 열심히만 하는 것이 아니라 ‘똑똑한 노력’을 한다는 뜻이 내포돼 있어요. work hard 뿐만 아니라 work smart 까지 하는 거죠.
  * = 비즈니스 하는 사람으로서 진취적인 마음가짐으로 노력해야 해. As a businessperson, you need to have hustle mentality.
 * fill a void = 공허함을 채우다; void 는 ‘비어있는 공간’을 말해요. 그래서 ‘공허함’이란 뜻도 됩니다.; 또한 법적으로 효력이 없다는 의미도 있어요. 그래서 폐기된 여권을 보면 VOID 라고 쓰인 도장이 찍히는 거랍니다.
