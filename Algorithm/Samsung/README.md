@@ -264,7 +264,6 @@ public class Solution{
                     A[i][j] = sc.nextInt();
                 }
             }
-            V[R][C] = true;
             dfs(1,R,C,0);
              
             for (int i = 1; i <=N; i++) {
@@ -280,6 +279,7 @@ public class Solution{
      
     static void dfs(int dpt, int r, int c, int dir) {
         //깊이 : 시간
+     	V[R][C] = true;
 
         if(dpt >= L) {
             //갈수있는 곳 최대개수구하기 (V가 true인거)
