@@ -229,6 +229,7 @@ public class Solution {
 import java.util.*;
  
 public class Solution{
+    //12시부터 열렸는지 
     static int[][] Pipe = {
             {0,0,0,0},
             {1,1,1,1},
@@ -243,6 +244,7 @@ public class Solution{
     static int[][] A;
     static boolean[][] V;
     static int[] dr = {-1,0,1,0};
+    //dy 거꾸로
     static int[] dc = {0,1,0,-1};
      
     public static void main(String[] args) {
@@ -463,8 +465,9 @@ public class Solution {
     private static int K;
     private static ArrayList<pair> top;
     private static int bottom;
-    static int[] dy = { -1, 1, 0, 0 };
-    static int[] dx = { 0, 0, -1, 1 };
+    static int[] dy = {-1,0,1,0 };
+    //dy 거꾸로
+    static int[] dx = { 0,1,0,-1 };
     static int ans;
     
     public static void main(String[] args) throws Exception {
