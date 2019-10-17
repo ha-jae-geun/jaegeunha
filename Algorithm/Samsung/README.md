@@ -310,16 +310,20 @@ public class Solution{
 }
      
 ```
+# ans
 * 테스트 케이스 for문 안에서 static ans -1 초기화
  * ans 최대값 구하기
-* int[] visit 생성; 위치 상관 없음: O
-* 메인 
- * dfs: O
-* dfs 메소드
+
+
+# dfs 메소드
  * 값 변환 전 visit true: O
  * perm: O
  * 값 변환 후 1. 변한값 dfs 전  true 2. 변한 값 visit false: O
 
+# 값 변환
+ * nr=0,nc=0; 값 초기화
+ * nr<1||nr>N||nc<1||nc>M  혹은 ny < 0 || ny > N - 1 || nx < 0 || nx > N - 1
+ * dfs
 
 ## 로또
 * [로또](https://www.acmicpc.net/problem/6603)
@@ -377,15 +381,20 @@ class Main {
     
 }
 ```
+# ans
 * 테스트 케이스 for문 안에서 static ans -1 초기화
  * ans 최대값 구하기
-* int[] visit 생성; 위치 상관 없음: O
-* 메인 
- * dfs: O
-* dfs 메소드
+
+
+# dfs 메소드
  * 값 변환 전 visit true: O
  * perm: O
  * 값 변환 후 1. 변한값 dfs 전  true 2. 변한 값 visit false: O
+
+# 값 변환
+ * nr=0,nc=0; 값 초기화
+ * nr<1||nr>N||nc<1||nc>M  혹은 ny < 0 || ny > N - 1 || nx < 0 || nx > N - 1
+ * dfs
 
 
 
@@ -441,15 +450,20 @@ public class Solution {
     }
 }
 ```
+# ans
 * 테스트 케이스 for문 안에서 static ans -1 초기화
  * ans 최대값 구하기
-* int[] visit 생성; 위치 상관 없음: O
-* 메인 
- * dfs: O
-* dfs 메소드
+
+
+# dfs 메소드
  * 값 변환 전 visit true: O
  * perm: O
  * 값 변환 후 1. 변한값 dfs 전  true 2. 변한 값 visit false: O
+
+# 값 변환
+ * nr=0,nc=0; 값 초기화
+ * nr<1||nr>N||nc<1||nc>M  혹은 ny < 0 || ny > N - 1 || nx < 0 || nx > N - 1
+ * dfs
 
 
 # 등산로 조성
@@ -569,15 +583,20 @@ public class Solution {
 }
 
 ```
+# ans
 * 테스트 케이스 for문 안에서 static ans -1 초기화
  * ans 최대값 구하기
-* int[] visit 생성; 위치 상관 없음: O
-* 메인 
- * dfs: O
-* dfs 메소드
+
+
+# dfs 메소드
  * 값 변환 전 visit true: O
  * perm: O
  * 값 변환 후 1. 변한값 dfs 전  true 2. 변한 값 visit false: O
+
+# 값 변환
+ * nr=0,nc=0; 값 초기화
+ * nr<1||nr>N||nc<1||nc>M  혹은 ny < 0 || ny > N - 1 || nx < 0 || nx > N - 1
+ * dfs
 
 
 
