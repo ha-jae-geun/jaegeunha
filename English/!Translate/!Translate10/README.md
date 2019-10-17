@@ -26,6 +26,14 @@
  
 
 # 원어민
+* 손을 맞잡고(hand in hand) 간다는 건 함께 움직인다는 의미겠죠? 어떤 두가지 요소가 함께 발생하고 함께 존재한다는 뜻이에요. 
+ * = 권력과 재물은 밀접한 관련이 있다. Power and money go hand in hand.
+* 강가에서 사금을 채취할 때 모래 등을 걸러내는 도구를 pan 이라고 하는데요. 자신이 원하는대로 pan 을 이용하여 사금채취를 전개/진행 한다는 점에서 유래된 비격식 표현입니다.
+ * 이번 시즌 그 팀은 잘 풀리지 않았다. This season did not pan out for that team.
+* on one's radar = ~을 알고 있는 / 인식하는 / 생각해 본 적이 있는; 군대에서나 항해시에 레이더는 우리가 있는지 없는지 모르는 것을 발견하기 위해 사용 되어집니다. 따라서 이 표현도, 직역하면 [~의 레이더에 걸린] 정도인데요, 레이더에 걸렸으니 그것이 있다는 것을 알게 되는 겁니다. 그래서 실제 의미는 [알고 있는/인식하는] 으로 되어져요.
+ * = 셋째 아이를 가질 생각은 전혀 하고 있지 않아. Having a third child is not on my radar.
+* hold on to something = ~을 계속 지키다, 유지하다, (잘) 가지고 있다
+ * = 내가 가진 믿음을 계속 지켜나가려고 많이 노력했어요. I tried hard to hold on to my belief.
 * 칼날 끝이 톱니 모양인 칼 knife with a serrated edge
 * 얄밉기로 소문이 났더라고; i have a reputation for being obnoxious  [-ˈnɑːk-]  영국식 [əbˈnɒkʃəs] 
  * a despicable act/crime  비열한 행동/범행  [dɪˈspɪkəbl;]
