@@ -399,7 +399,7 @@ public class Solution {
      
     public static void calc(int x, int y, int a, int b) {
         int cnt=0;
-        //위치 다양
+        //a,b마다 visit 달리 체크
         int[] v=new int[101];
          
         for(int i=0; i<a*2+b*2; i++) {
@@ -502,7 +502,7 @@ public class Solution {
   			
                 
             for (pair p : top) {
-              //visit DFS일 때 위치 다양
+              //top마다 visit 달리 체크
                 visit = new boolean[N][N];
                 dfs(p.y, p.x, 1, false);
  
