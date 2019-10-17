@@ -280,13 +280,14 @@ public class Solution{
      
     static void dfs(int dpt, int r, int c, int dir) {
         //깊이 : 시간
-        int nr=0,nc=0;
+
         if(dpt >= L) {
             //갈수있는 곳 최대개수구하기 (V가 true인거)
          
             return;
         }else {
             for (int i = 0; i < 4; i++) {
+                int nr=0,nc=0;
                 nr = r+dr[i]; nc = c+dc[i];
                 if(nr<1||nr>N||nc<1||nc>M ) continue; //범위,V 체크
                 if((i+2)%4 == dir && dpt !=1) continue;
@@ -306,6 +307,7 @@ public class Solution{
          
          
     }
+}
      
 ```
 * 테스트 케이스 for문 안에서 static ans -1 초기화
