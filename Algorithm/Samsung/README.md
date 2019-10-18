@@ -410,6 +410,8 @@ import java.util.Scanner;
 public class Solution {
     static int N, ans;
     static int[][] map;
+    //
+    static int[] v;
     
         public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
@@ -437,7 +439,7 @@ public class Solution {
      
     public static void calc(int x, int y, int a, int b) {
         int cnt=0;
-        int[] v=new int[101];
+        v=new int[101];
          
         for(int i=0; i<a*2+b*2; i++) {
             if(i<a) {x++; y++;}
