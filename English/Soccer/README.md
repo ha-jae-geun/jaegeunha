@@ -11,3 +11,8 @@
   * 제공권이 좋다; THat player is great/good in the air
 * 세이브: 슈퍼 세이브 보다 good/great save
 * 영국에서는 슛 보다는 선수 이름을 부름
+* 적은 점수차로 순위를 다루는 팀의 중요한 경기; That was six pointer
+* 키가 큰 사람이 좋은 터치를 했을 때; Good touch for a big man
+* 텐백 수비; Parking the bus
+* 챔스 참가 클럽들이 리그에서 겪는 후유증; European hangover
+* 전반에서는 잘했지만 상대가 후반에 전술 바꾼 후 무너질 때; FOotball is a game of two halves
