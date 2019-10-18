@@ -6,6 +6,11 @@
 * 걔 공주병이야; SHe's such a diva
 * elf: 산타클로스 도와주는 난쟁이를 연상시킴
  * She is a goddess
+* 뒤떨어지다; 역전당하다; Yankess falls behind the Houston
+* 걸레; Mop, cloth
+* 면도기: razor; electric razor/shaver
+* 각자 장단점이 잇죠; Everyone has their advantage and disadvantages
+ * They each have their pros and cons
 
 # 토익
 * 실제로 그림을 그린다는 의미도 있지만, 마치 눈 앞에 그림이 보이듯이 무언가를 묘사하는 걸 의미하는 표현입니다. 
@@ -26,6 +31,11 @@
  
 
 # 원어민
+* 생각, 감정을 풀 수 있는 ‘배출구, 탈출구’가 outlet 이에요; outlet 하면 할인점이 떠오를텐데요, 저렴한 가격에 많은 물건을 ‘내보내는’ 곳이니까 어찌보면 비슷하게 연상할 수 있겠네요; 그리고 콘센트도 전기를 배출하는 곳이죠? 그래서 electrical outlet 이라고 부른답니다. (혹은 wall socket)
+ * 블로그 하는 것이 그녀의 유일한 감정적 배출구였다. Blogging was her only emotional outlet.
+* 직역하면 [거기 가봤어] 의 의미를 가지는데요, 실제로 물리적인 장소에 가봤다기 보다는, 그 상황에 처해본 적이 있다는 뜻이에요! 
+ * 영상에서는 '우리 그 얘기 아까 해서 너도 알잖아'로 해석하면 돼요. 
+ * 아기 두 명 키우는게 얼마나 힘든지 알아요. 저도 그랬거든요. I know how hard it is to raise two babies. I've been there.
 * put in a (good) word = 얘기 좀 잘 해주다; 남을 대신해서 다른 어딘가에 좋은 말을 해주는 걸 의미해요. 
  * = 나 대신 말 좀 잘 해줄래? Will you put in a word for me?
 * 놀릴려면 놀려; Make your jokes
