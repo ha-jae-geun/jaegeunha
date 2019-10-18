@@ -224,6 +224,79 @@ public class Solution {
 }
 ```
 
+## 로또
+* [로또](https://www.acmicpc.net/problem/6603)
+
+```java
+import java.io.BufferedReader;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.InputStreamReader;
+import java.util.Arrays;
+ 
+class Main {
+    static int N;
+    static int[] arr;
+    static int[] result;
+    public static void main(String args[]) throws Exception {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+ 
+        while (true) {
+            String[] str = br.readLine().split(" ");
+            N = Integer.parseInt(str[0]);
+            arr = new int[N];
+            result = new int[N];
+ 
+            if (N == 0) {
+                break;
+            }
+            for (int i = 0; i < N; i++) {
+                arr[i] = Integer.parseInt(str[i + 1]);
+            }
+            DFS(0,0);
+            System.out.println();
+        }
+ 
+ 
+    }
+    public static void DFS(int start, int depth){
+        if(depth==6){
+            print();
+        }
+        for(int i=start; i<N; i++){
+        result[i] = 1;
+        DFS(i+1,depth+1);
+        result[i] = 0;
+        }
+        
+    }
+    public static void print(){
+        for(int i=0; i<N; i++){
+            if(result[i]==1)
+            System.out.print(arr[i]+" ");
+        }
+        System.out.println();
+    }
+    
+}
+```
+# ans
+* 테스트 케이스 for문 안에서 static ans -1 초기화
+ * ans 최대값 구하기
+
+
+# dfs 메소드
+ * 값 변환 전 visit true: O
+ * perm: O
+ * 값 변환 후 1. 변한값 dfs 전  true 2. 변한 값 visit false: O
+
+# 값 변환
+ * nr=0,nc=0; 값 초기화
+ * nr<1||nr>N||nc<1||nc>M  혹은 ny < 0 || ny > N - 1 || nx < 0 || nx > N - 1
+ * dfs
+
+
+
 # 탈주범 잡기
 ```java
 import java.util.*;
@@ -325,76 +398,6 @@ public class Solution{
  * nr<1||nr>N||nc<1||nc>M  혹은 ny < 0 || ny > N - 1 || nx < 0 || nx > N - 1
  * dfs
 
-## 로또
-* [로또](https://www.acmicpc.net/problem/6603)
-
-```java
-import java.io.BufferedReader;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.InputStreamReader;
-import java.util.Arrays;
- 
-class Main {
-    static int N;
-    static int[] arr;
-    static int[] result;
-    public static void main(String args[]) throws Exception {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
- 
-        while (true) {
-            String[] str = br.readLine().split(" ");
-            N = Integer.parseInt(str[0]);
-            arr = new int[N];
-            result = new int[N];
- 
-            if (N == 0) {
-                break;
-            }
-            for (int i = 0; i < N; i++) {
-                arr[i] = Integer.parseInt(str[i + 1]);
-            }
-            DFS(0,0);
-            System.out.println();
-        }
- 
- 
-    }
-    public static void DFS(int start, int depth){
-        if(depth==6){
-            print();
-        }
-        for(int i=start; i<N; i++){
-        result[i] = 1;
-        DFS(i+1,depth+1);
-        result[i] = 0;
-        }
-        
-    }
-    public static void print(){
-        for(int i=0; i<N; i++){
-            if(result[i]==1)
-            System.out.print(arr[i]+" ");
-        }
-        System.out.println();
-    }
-    
-}
-```
-# ans
-* 테스트 케이스 for문 안에서 static ans -1 초기화
- * ans 최대값 구하기
-
-
-# dfs 메소드
- * 값 변환 전 visit true: O
- * perm: O
- * 값 변환 후 1. 변한값 dfs 전  true 2. 변한 값 visit false: O
-
-# 값 변환
- * nr=0,nc=0; 값 초기화
- * nr<1||nr>N||nc<1||nc>M  혹은 ny < 0 || ny > N - 1 || nx < 0 || nx > N - 1
- * dfs
 
 
 
@@ -407,24 +410,8 @@ import java.util.Scanner;
 public class Solution {
     static int N, ans;
     static int[][] map;
-     
-    public static void calc(int x, int y, int a, int b) {
-        int cnt=0;
-        int[] v=new int[101];
-         
-        for(int i=0; i<a*2+b*2; i++) {
-            if(i<a) {x++; y++;}
-            else if(i<a+b) {x++; y--;}
-            else if(i<a*2+b) {x--; y--;}
-            else {x--; y++;}
-            if(x<0||y<0||x>=N||y>=N||v[map[x][y]]==1) return;
-            v[map[x][y]]=1; cnt++;
-        }
-         
-        ans=Math.max(ans, cnt);
-    }
-     
-    public static void main(String[] args) {
+    
+        public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
         int T=sc.nextInt();
         for(int tc=1; tc<=T; tc++) {
@@ -447,6 +434,24 @@ public class Solution {
             System.out.println("#"+tc+" "+ans);
         }
     }
+     
+    public static void calc(int x, int y, int a, int b) {
+        int cnt=0;
+        int[] v=new int[101];
+         
+        for(int i=0; i<a*2+b*2; i++) {
+            if(i<a) {x++; y++;}
+            else if(i<a+b) {x++; y--;}
+            else if(i<a*2+b) {x--; y--;}
+            else {x--; y++;}
+            if(x<0||y<0||x>=N||y>=N||v[map[x][y]]==1) return;
+            v[map[x][y]]=1; cnt++;
+        }
+         
+        ans=Math.max(ans, cnt);
+    }
+     
+
 }
 ```
 # ans
