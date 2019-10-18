@@ -26,6 +26,8 @@
  
 
 # 원어민
+* put in a (good) word = 얘기 좀 잘 해주다; 남을 대신해서 다른 어딘가에 좋은 말을 해주는 걸 의미해요. 
+ * = 나 대신 말 좀 잘 해줄래? Will you put in a word for me?
 * 놀릴려면 놀려; Make your jokes
 * 영어 더빙이 제공되요; ENglish dubs are available
 * 노인에게 결코 자리를 양보하지 않는다; THey never offer their seat to an elderly person
@@ -423,6 +425,11 @@
 - 가장 좋은 결정을 꼭 하고 싶거든요.
  * because I want to make sure (that) I make the best decision.
  * make sure: 단순히 내가 어떻게 하고 싶은 내용보다는 어떤 상황이 특정 방식으로 흘러가도록 유도한다는 맥락
+
+# [ 영화자막 오역 교정 ] ft. "Nightcrawler"
+* Why you pursue something is equally as important as what you pursue
+ * 목표가 무엇인지 아는 것도 중요하지만 왜 그 목표를 세웠는지도 중요하다.
+ * A는 B만큼 중요하다; A가 강조되는 문장
 
 
 # (구독자 질문) 영어 뉘앙스 차이 - "내가 왜 그냥 ... 하지 않았을까?"
