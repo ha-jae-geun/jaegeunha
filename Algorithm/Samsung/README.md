@@ -580,7 +580,6 @@ public class Solution {
         int x;
  
         public pair(int y, int x) {
-            super();
             this.y = y;
             this.x = x;
         }
