@@ -410,7 +410,6 @@ public class Solution {
      
     public static void calc(int x, int y, int a, int b) {
         int cnt=0;
-        //a,b마다 visit 달리 체크
         int[] v=new int[101];
          
         for(int i=0; i<a*2+b*2; i++) {
@@ -436,7 +435,7 @@ public class Solution {
                     map[i][j]=sc.nextInt();
             }
              
-            for(int k=N-1; k>=2; k--) {
+            for(int k=N-1; k>1; k--) {
                 for(int a=1; a<N-1; a++) {
                     for(int i=0; i<N; i++) {
                         for(int j=0; j<N; j++) 
