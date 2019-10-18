@@ -26,6 +26,10 @@
  
 
 # 원어민
+* 놀릴려면 놀려; Make your jokes
+* 영어 더빙이 제공되요; ENglish dubs are available
+* 노인에게 결코 자리를 양보하지 않는다; THey never offer their seat to an elderly person
+* 오늘부로; As of today; 이 시간 부로; As of this moment/mroning/yesterday/today
 * 손을 맞잡고(hand in hand) 간다는 건 함께 움직인다는 의미겠죠? 어떤 두가지 요소가 함께 발생하고 함께 존재한다는 뜻이에요. 
  * = 권력과 재물은 밀접한 관련이 있다. Power and money go hand in hand.
 * 강가에서 사금을 채취할 때 모래 등을 걸러내는 도구를 pan 이라고 하는데요. 자신이 원하는대로 pan 을 이용하여 사금채취를 전개/진행 한다는 점에서 유래된 비격식 표현입니다.
@@ -476,6 +480,7 @@
 * within city limits; within a month; within the company
 
 # 코어
+* asprin;  [ˈæsprɪn;ˈæspərɪn] ; 애스 
 * just ;Just 뒤에 오는 단어가 자음으로 시작되면 JUS 라고 발음
 * smog; 스마그
 * exam; 익(꽉 잡고 있다가)잼; executive(익'제커티브), significantly; 씩(꽉잡고)'니fi컨(잡기)리
