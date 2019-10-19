@@ -37,6 +37,13 @@
  
 
 # 원어민
+* 미운 네 살; the terrible twos
+ * (비격식) 짜증을 내다; throw a fit/(temper) tantrum
+ * 아이를 달래주다; comfort the baby
+ * 모유수유하다; nurse/breastfeed the baby
+ * 아이를 안고 앞뒤로 흔들다; rock the baby back and forth
+ * 자장가를 불러주다; sing a lullaby to the baby; 자장가로 재우다; sing the baby to sleep
+ * 울다 지쳐서 잠에 들다; cry oneself to sleep
 * whip 은 채찍질처럼 강하고 빠른 동작을 말하는데요, 그런 이미지처럼 후다닥 먹을 것을 만들어 낸다는 뜻입니다.
  * 그녀는 맛있는 점심을 15분 만에 후딱 만들었다.She whipped up a delicious lunch for us in 15 minutes.
 * 남들에게 부러움을 받기 위해 일부러 으스대며 뽐내는 것을 의미하는 단어에요. 약간 보기에 재수 없을 정도로.. ㅎㅎ 말하는 사람의 못마땅함이 들어있는 단어입니다..
