@@ -383,6 +383,10 @@ public class Solution{
 }
      
 ```
+## 오답노트
+1. (i+2)%4 2개
+
+
 # ans
 * 테스트 케이스 for문 안에서 static ans -1 초기화
  * ans 최대값 구하기
@@ -588,6 +592,10 @@ public class Solution {
 }
 
 ```
+## 오답노트
+1. for (int k = 1; k <= K; k++) {
+2. static class pair
+
 # ans
 * 테스트 케이스 for문 안에서 static ans -1 초기화
  * ans 최대값 구하기
@@ -666,5 +674,7 @@ public class Swea5658_R {
 }
 
 ```
-
+## 오답노트
+1. String s= sc.next();
+2. numSet[numSet.length-K]
 
