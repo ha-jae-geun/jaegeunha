@@ -28,9 +28,22 @@
 * reserve seats/flight
  * finance(돈을 대주다) + his son / business / equiment purchase
  * availability(가능성) of car/gun/cheap flights: 물건의 이용 가능성
+* 하긴; 다시 생각해보면; Back then;
+ * 하긴 공부 안했으니까; Then again, i never study
+* 최고의 순간은 아직 오지 않았습니다; The best is yet to come
+* 켈리 만나면 이 정보를 전달해줄수 있어? Cna you pass this information on to Kelly when you meet her today?
+ * i'll pass it on
+* 그거 노잼이야; That's lame
  
 
 # 원어민
+* whip 은 채찍질처럼 강하고 빠른 동작을 말하는데요, 그런 이미지처럼 후다닥 먹을 것을 만들어 낸다는 뜻입니다.
+ * 그녀는 맛있는 점심을 15분 만에 후딱 만들었다.She whipped up a delicious lunch for us in 15 minutes.
+* 남들에게 부러움을 받기 위해 일부러 으스대며 뽐내는 것을 의미하는 단어에요. 약간 보기에 재수 없을 정도로.. ㅎㅎ 말하는 사람의 못마땅함이 들어있는 단어입니다..
+ * 난 제레미가 왜 그의 비서와의 불륜을 항상 과시하는지 모르겠어.I don't understand why Jeremy always flaunts his affair with his secretary.  [flɔːnt] 
+* on camera: 카메라 앞에서, 촬영 중일 때l off camera: 카메라 밖에서, 촬영 중이 아닐 때l off camera는 on camera의 반대로, '촬영 중이 아닐 때', '카메라 안 돌아갈 때'입니다. 예시 몇 가지 살펴볼게요.
+ * 나는 카메라 앞에만 서면 긴장 해. (= 카메라로 촬영 할 때) I get really nervous on camera.
+* 이것에 대해 어떻게 생각하세요? What's your take on this?
 * 생각, 감정을 풀 수 있는 ‘배출구, 탈출구’가 outlet 이에요; outlet 하면 할인점이 떠오를텐데요, 저렴한 가격에 많은 물건을 ‘내보내는’ 곳이니까 어찌보면 비슷하게 연상할 수 있겠네요; 그리고 콘센트도 전기를 배출하는 곳이죠? 그래서 electrical outlet 이라고 부른답니다. (혹은 wall socket)
  * 블로그 하는 것이 그녀의 유일한 감정적 배출구였다. Blogging was her only emotional outlet.
 * 직역하면 [거기 가봤어] 의 의미를 가지는데요, 실제로 물리적인 장소에 가봤다기 보다는, 그 상황에 처해본 적이 있다는 뜻이에요! 
