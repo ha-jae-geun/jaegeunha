@@ -37,6 +37,8 @@
  
 
 # 원어민
+* Mac is cagey about how he met Jessica. Mac은 Jessica를 어떻게 만났는지에 대해서 말을 안해.
+ - My parents are cagey about my birthday party. 부모님이 내 생일 파티에 대해 비밀스러워.
 * 미운 네 살; the terrible twos
  * (비격식) 짜증을 내다; throw a fit/(temper) tantrum
  * 아이를 달래주다; comfort the baby
@@ -517,6 +519,7 @@
 * within city limits; within a month; within the company
 
 # 코어
+* jalapeño 미국식 [ˌhɑːləˈpeɪnjoʊ] 
 * asprin;  [ˈæsprɪn;ˈæspərɪn] ; 애스 
 * just ;Just 뒤에 오는 단어가 자음으로 시작되면 JUS 라고 발음
 * smog; 스마그
