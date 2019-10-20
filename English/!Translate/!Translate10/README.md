@@ -37,6 +37,18 @@
  
 
 # 원어민
+* the way to go : 바람직한 선택, 진리; 직역하면 [가야할 길] 인데요. 우리말에서도 올바른 선택을 할 때 [올바른 길을 간다] 라고 하듯이, 이 표현도 비슷한 의미를 가집니다. 무언가를 선택할 때 쓰게 되면 [~가 진리지] 의 의미로 해석이 되기도 해요.
+ * 성 차별에 반대하는 법안은 바람직한 선택이에요. A law against the gender discrimination is the way to go.
+* dramatic은 원래 '연극의, 각본의'처럼 drama와 관련된 의미를 가지고 있는 단어로서, 점차 이것이 발전하여 어떤 사람이 '지나치게 호들갑을 떤다든가, 오버를 하는 것'을 가리키기도 하고 어떤 변화나 사건이 '극적인, 인상적인, 눈에 확연한' 것을 나타내는 표현으로도 자주 쓰이게 되었습니다.
+ * 이번 해 임금이 아주 크게 증가하였다. There was a dramatic increase of wage this year.
+ * 이 지역이 눈에 띄게 개선되자 모두들 정말 좋아했다. Everyone loved the dramatic improvement of the area.
+ * 너무 호들갑 떨지 마! Don't be so dramatic!
+* : 어떤 것을 바라보는 '새로운 시각' 을 뜻해요! 완전히 처음 보는 사람의 시각을 말할 때 쓰기도 하고, 이미 오래 보고 있던 것을 좀 시간을 둔 뒤 새로이 검토할 때 쓰기도 해요.
+ * 내일 아침에 깨끗한 마음으로 검토해보자. Let's look at it with fresh eyes in the morning.
+* dollar 를 비격식으로 buck 이라고도 하는데요. 20세기 전체에 걸쳐서 백만 달러는 부의 상징이자 사람들의 로망이었기에, 그런 모습에서 누군가가 '백만 달러처럼 보인다' 라고 말하는 이 영어 표현은, 그 사람이 정말 멋져 보이고 매력적이라는 걸 비유적으로 말한 표현입니다. 
+ * 너 오늘 정말 멋져 보인다. 무슨 일이야? You look like a million bucks tonight. What's happening?
+* have ~’s mind in the gutter = 음탕한 생각을 하다
+ * = 죄송해요. 저는 야한 쪽으로 생각했어요. Sorry. I guess I had my mind in the gutter.
 * Mac is cagey about how he met Jessica. Mac은 Jessica를 어떻게 만났는지에 대해서 말을 안해.
  - My parents are cagey about my birthday party. 부모님이 내 생일 파티에 대해 비밀스러워.
 * 미운 네 살; the terrible twos
