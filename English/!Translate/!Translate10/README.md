@@ -468,6 +468,14 @@
 * * keep it real = 솔직하게 말(행동)하다; 진실하고 자연스럽게 말이나 행동을 할 때 keep it real이라고 해요. 거짓 없이 솔직해진다는 의미죠.
  * =난 솔직하게 살고 있어. I've been keeping it real.
 
+# [ 기초영어회화 ] "오늘 이걸 못끝내면 주말에 출근해야 될 수도 있어요 😭."
+* 저 이번주 토요일에 출근해야 돼요; i have to go to work this Saturday
+ * on 아니고 this 붙여야 한다.
+* 제가 이것을 노르 못끝내면 이번 주 토요일에 출근해야 돼요; if i don't finish this today, i have to go to work this Saturday
+ * I'm going to have to go to work this Saturday; 자연스럽게 말하려면 going to를 붙여주는게 자연스러움.
+ * I might have to go to work this Saturday
+ * If i finish this today, i won't have to go to work this Saturday
+
 # [ 일상을 영어로 말하기 ] "선택지를 3개로 좁혔어." ( 기초영어회화 )
 * 내년 7월에 이사 갈거예요, 그때 지금 이 곳 계약이 끝나거든요. 
  * I'm going to move in July next year because that's when my contract on this place expires.
