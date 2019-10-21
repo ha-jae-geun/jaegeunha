@@ -1,3 +1,74 @@
+# 다리를 지나는 트럭
+```java
+import java.util.*;
+
+class Solution {
+    public class Truck{
+        int weight;
+        int distance;
+
+        public Truck(int weight, int distance){
+            this.weight=weight;
+            this.distance=distance;
+        }
+    }
+
+    public int solution(int bridge_length, int weight, int[] truck_weights) {
+        int weightLeft = weight;
+        int time=0;
+
+        Queue<Truck> outList = new LinkedList<Truck>();
+        List<Truck> inList = new ArrayList<Truck>();
+
+        for(int t : truck_weights){
+            outList.add(new Truck(t,bridge_length));
+        }
+
+        while(! (outList.isEmpty() && inList.isEmpty())){
+            time++;
+
+            if(!inList.isEmpty() && inList.get(0).distance==0){
+                weightLeft+=inList.get(0).weight;
+                inList.remove(0);
+
+            }
+
+            if(!outList.isEmpty() && outList.peek().weight<=weightLeft){
+                weightLeft-=outList.peek().weight;
+                inList.add(outList.poll());
+            }
+
+            for(int i=0; i<inList.size();i++){
+                inList.get(i).distance--;
+            }
+        }
+
+        return time;
+    }
+```
+
+```java
+트럭 클래스 선언
+
+다리가 버틸 수 있는 남아있는 무게, 시간을 저장할 변수 선언
+
+아직 다리를 지나지 못한 트럭 리스트 = outList
+
+다리를 지나고 있는 트럭 리스트 = inList
+
+outList에 순서대로 트럭들을 저장해주고
+
+outList와 inList가 모두 비어있을 때까지 반복문을 돌려줌
+
+inList의 첫번째 성분(가장 먼저 다리에 들어간 트럭)의 distance가 0일 경우
+
+가용무게를 그만큼 더해주고 요소를 제거해줌
+
+그 다음 트럭이 들어올 수 있는지 체크한 후 가능하면 트럭을 들여보냄
+
+time을 1초 더해줬기 때문에 전체트럭의 남은 거리를 discounting해줌
+```
+
 # 나누어 떨어지는 수
 ```java
 array의 각 element 중 divisor로 나누어 떨어지는 값을 오름차순으로 정렬한 배열을 반환하는 함수, solution을 작성해주세요.
