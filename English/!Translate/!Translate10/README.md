@@ -37,6 +37,17 @@
  
 
 # 원어민
+* 일요병과 월요병에 걸렸어요; i still get the Sunday Scaries and Monday Blues
+* 의미없어요; It's pointless
+* 트럼프 카드 한 벌을 받고 싶어요; i want to get a pack of playing cards
+* 내 뺀찌; My pliers
+* 골든타임이잖아; It's prime time
+* 배고파 죽겠어; i'm famished
+* 소스는 따로 주세요; i'd like to have the sauce on the side
+* 정의가 곧 실현된다; Justivce is about to be served
+* 여러면에서 아닌 것 같애; Htat sounds wrong on so many levels
+* 대역을 할거야; i'll be the stand-in for Jenifer's singing part
+* 줄다리기는 인류 역사상 가장 오래된 게임 중 하나다; Tug of war is one of the most ancient games known to man
 * the way to go : 바람직한 선택, 진리; 직역하면 [가야할 길] 인데요. 우리말에서도 올바른 선택을 할 때 [올바른 길을 간다] 라고 하듯이, 이 표현도 비슷한 의미를 가집니다. 무언가를 선택할 때 쓰게 되면 [~가 진리지] 의 의미로 해석이 되기도 해요.
  * 성 차별에 반대하는 법안은 바람직한 선택이에요. A law against the gender discrimination is the way to go.
 * dramatic은 원래 '연극의, 각본의'처럼 drama와 관련된 의미를 가지고 있는 단어로서, 점차 이것이 발전하여 어떤 사람이 '지나치게 호들갑을 떤다든가, 오버를 하는 것'을 가리키기도 하고 어떤 변화나 사건이 '극적인, 인상적인, 눈에 확연한' 것을 나타내는 표현으로도 자주 쓰이게 되었습니다.
