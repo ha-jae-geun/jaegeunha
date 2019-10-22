@@ -1,4 +1,6 @@
 # 중요
+* 너무 남을 비판파지마; DOn't be so judgemnetal
+* 너도 그럴수 있어; Anyone can find themselves in that situation
 * 오일 바꾸러 왔다; i am here to get my oil changed = i am here for an oil change
  * i'm here to change my oil 하면 내가 오일 직접 갈러 왔다는 느낌
 * 매연 체크하러 왔다; i'm here to get smog checked; my붙이지 않는다. = i'm here for a smog check
