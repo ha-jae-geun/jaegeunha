@@ -41,25 +41,15 @@
 * 
 
 # 북마크
-* 논문: dbpia / 국회도서관
 * 네이버 영어사전 https://endic.naver.com/?sLn=kr
 * 구글 드라이브 https://drive.google.com/drive/u/0/my-drive
-* 슈퍼맨 PC https://superfan.link/pc
-* 블로그 http://jae-jae.tistory.com/
 * 깃허브 https://github.com/ha-jae-geun/jaegeunha/tree/master/English
-* 네이버 캐스트 https://tv.naver.com/
-* 다음 칼럼 https://sports.media.daum.net/sports/column/
-* 네이버 칼럼 https://sports.news.naver.com/index.nhn
-* 빌보드 https://www.billboard.com/charts/hot-100
-* 영사전 https://www.etymonline.com/ https://www.urbandictionary.com/
-* 테드 https://www.ted.com/
+* 
 * 에드센스 https://www.google.com/adsense/new/u/0/pub-6779272287181370/home
 	* 엡마스터 https://webmastertool.naver.com/
 	* 애드핏 https://adfit.biz.daum.net/
 	* 위키 미디아 https://commons.wikimedia.org/wiki/Main_Page
-* 컬러 스크립트: https://colorscripter.com/ 
 * 오라클 라이브러리: https://mvnrepository.com/
-* 유튜브 영어; https://youglish.com/
 
 # 계정
 * 티스토리: qofkdla naver / 
@@ -104,11 +94,11 @@
 * 해커스 https://www.hackersjob.com/edu/sub_menu/test_daily.php/?tab=3&kab=5
 * 토론: https://idebate.org/
 * 로렘 입섬 https://www.lipsum.com/
-* 슈퍼맨 https://superfan.link/pc/login
 * 무료 사진 위키미디아 https://commons.wikimedia.org/wiki/Main_Page
 * 스피드 테스트 https://www.speedtest.net/  https://kdatacenter.speedtest.net/
 
 ## 소프트웨어
+* 보이스 텍스트: '구글 문서'에서 '음성 입력' 기능을 이용하는 방법, 크롬의 확장 프로그램인 'VoiceNote'
 * 붙여넣기 해제; 캡처 - #알툴바
 * 사진 겹치기: 포토 스케이프
 * 컴퓨터 동영상: 반디캠
