@@ -134,6 +134,49 @@ Arrays.copyOfRange(원본 배열, 복사할 시작인덱스, 복사할 끝인덱
 ```
 
 # Collections
+## fill
+```java
+1. 기본 채우기
+import java.util.Arrays;
+public class MyClass {
+    public static void main(String args[]) {
+        int[] arr = new int[] {1, 2, 3, 4, 5};
+        Arrays.fill(arr, 100);
+        System.out.println( Arrays.toString(arr) );
+        // [100, 100, 100, 100, 100]
+    }
+}
+
+2. 구간 지정하여 채우기
+import java.util.Arrays;
+public class MyClass {
+    public static void main(String args[]) {
+        int[] arr = new int[] {1, 2, 3, 4, 5};
+        Arrays.fill(arr, 2, 4, 100);
+        System.out.println( Arrays.toString(arr) );
+        // [1, 2, 100, 100, 5]
+    }
+}
+
+3. 2차원 배열 채우기
+import java.util.Arrays;
+public class MyClass {
+    public static void main(String args[]) {
+        int[][] arr = new int[3][5];
+        for(int[] row: arr) {
+            Arrays.fill(row, 10);
+        }
+        for(int[] row: arr) {
+            System.out.println( Arrays.toString(row) );
+        }
+        // [10, 10, 10, 10, 10]
+        // [10, 10, 10, 10, 10]
+        // [10, 10, 10, 10, 10]
+    }
+}
+```
+
+
 ## reverse
 ```java
 1. Collections.sort(temp, Collections.reverseOrder());
