@@ -1,6 +1,7 @@
 # 가상화와 클라우드의 차이
+* [가상화](https://wnsgml972.github.io/network/network_cloud-computing.html)
+
 ```java
-[가상화]('https://wnsgml972.github.io/network/network_cloud-computing.html')
 정의
 쉽게 정의하면 가상화는 기술이고 클라우드는 방법론 입니다.
 우리가 자주 사용하는 가상 호스팅(VM Hosting)과 비슷하나 처음에 말했다시피, 
