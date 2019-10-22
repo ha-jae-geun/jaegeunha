@@ -491,6 +491,14 @@
  * I might have to go to work this Saturday
  * If i finish this today, i won't have to go to work this Saturday
 
+# [ 영어 어휘 ] apply
+* 같은 원리가 다른 기술이나 직업에 적용될 수 있따;
+ * The same principle can be applied to pretty much any skill or profession
+ * 작은 양을 상처에 바르다; Apply just a samll amount on the wound
+  * 로션을 바르다; Apply plenty of lotion
+ * 이 정책은 모든 직원에게 적용이 된다; THis policy applies to all employees
+ * 예왜는 없다; There are no exceptions
+
 # [ 일상을 영어로 말하기 ] "선택지를 3개로 좁혔어." ( 기초영어회화 )
 * 내년 7월에 이사 갈거예요, 그때 지금 이 곳 계약이 끝나거든요. 
  * I'm going to move in July next year because that's when my contract on this place expires.
