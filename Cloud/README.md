@@ -2,7 +2,7 @@
 
 * [가상화](https://wnsgml972.github.io/network/network_cloud-computing.html)
 
-![Cloud](./Cloud/CLOUD.JPG)
+![Cloud](./image/CLOUD.JPG)
 
 ```java
 정의
