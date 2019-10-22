@@ -1,5 +1,8 @@
 # 가상화와 클라우드의 차이
+
 * [가상화](https://wnsgml972.github.io/network/network_cloud-computing.html)
+
+![Cloud](./CLOUD.JPG)
 
 ```java
 정의
