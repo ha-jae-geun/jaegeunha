@@ -37,6 +37,21 @@
  
 
 # 원어민
+* 전형적인 오류입니다; This is a classic error
+* 포기했어; i threw in the towel
+* 너가 나 집까지 태워다 줘야 하잖아; You're my ride
+* 우리가 견디기엔 너무 힘든 삶이야; It's the hard-knock life for us
+* 번개를 맞은것 처럼 심장이 떨렸어요; It was a bolt to the heart
+* 실패로 돌아가고 말았어요; It has been in vain
+* 눈물이 너의 얼굴에 흐를 때; And the tears come streaming down your face
+* 매우 중요한문제이군요; THat's a million-dollar question;  million-dollar question: 엄청 중요한 문제
+* i take it that: 아마 -인가봐; 추측, 가정;
+ * 넌 동의하지 않는 것 같네; i take it you don't agree
+* delve intl: 파해치다, 깊이 이야기하다, 파고들다, 조사하다
+ * 그녀는 잔돈을 찾으려고 주머니를 깊숙히 뒤졌다; SHe delved into her pocket to find some change
+ * 그들은 그의 과거를 파헤치기 시작했다; They started to delve into his past
+ * 그 주제에 대해 좀 더 깊이 들어가 봅시다; Let's delve deeper into that subject
+* 모든 경비들이 전기 충격기로 무장헀어; Every security guard is armed with a taser
 * 일요병과 월요병에 걸렸어요; i still get the Sunday Scaries and Monday Blues
 * 의미없어요; It's pointless
 * 트럼프 카드 한 벌을 받고 싶어요; i want to get a pack of playing cards
