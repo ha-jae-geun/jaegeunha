@@ -651,5 +651,12 @@
 그렇잖아, 뭔가 굉장히 멋지다는 것은 부인할 수 없어."
  * Come on, you can't deny that there's something really awesome about that."
 
-
-
+# [ 기초영어회화 ] -- 할 기회가 있었다 / 없었다
+* i had a chance to do smoething; 지금은 기회가 없다
+* i got a chance to do something; 기회를 얻었다.
+ * got to do something
+ * i got a see a lot of amazing things during the trip
+* 기회가 많지 않았을 떄; i didn't get (a chance) to do something very often(much)
+* 전혀 없었을 대: i didn't get any chance to do something
+ * 하지만 보통; i didnt really get achance to do any sightseeing; 기회가 전혀 없었어도 이렇게 부드럽게 표현함
+ * 상황에 따라 ;i never got a chance to 도 사능
