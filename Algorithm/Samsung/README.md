@@ -462,6 +462,55 @@ public class Solution {
 
 }
 ```
+
+## 풀이 2
+```java
+import java.util.*;
+ 
+public class Solution {
+    static int N, res;
+    static int[][] arr;
+    static int[] dx = {1, 1, -1, -1}, dy = {1, -1, -1, 1};
+    static HashSet<Integer> hs = new HashSet<>();
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int T = sc.nextInt();
+         
+        for(int test_case = 1; test_case <= T; test_case++)
+        {
+            N = sc.nextInt();
+            arr = new int[N][N];
+            res = -1;
+             
+            for(int i = 0; i < N; i++)
+                for(int j = 0; j < N; j++)
+                    arr[i][j] = sc.nextInt();
+             
+            for(int i = 0; i < N - 1; i++)
+                for(int j = 1; j < N - 1; j++)
+                    solve(i, j, i, j, 0);
+            System.out.println("#" + test_case + " " + res);
+        }
+    }
+    private static void solve(int sx, int sy, int x, int y, int d) {
+        if(d == 4) return;
+        if(d == 3 && sx == x && sy == y)
+        {
+            res = Math.max(res, hs.size());
+            return;
+        }
+        if(hs.contains(arr[x][y])) return;
+        hs.add(arr[x][y]);
+        int nx = x + dx[d], ny = y + dy[d];
+        if(nx >= 0 && ny >= 0 && nx < N && ny < N)
+        {
+            solve(sx, sy, nx, ny, d);
+            solve(sx, sy, nx, ny, d + 1);
+        }
+        hs.remove(arr[x][y]);
+    }
+}
+```
 # ans
 * 테스트 케이스 for문 안에서 static ans -1 초기화
  * ans 최대값 구하기
