@@ -39,6 +39,23 @@
  
 
 # 원어민
+* 언제 가능해? When works for you?
+* 긁어 부스럼만들지 말자; Let sleeping dogs lie
+* 김빠졌어; This soda is flat
+* contain: 막을수 있는 공간 안에 넣어 담아넣는 그림; It contains alchol
+* KPop은 더 세련된 것 같애요; K-pop iis more like pllished and refined
+* 예측할 수 없다; 계획이 무효가 되다, 백지화 되다; ALl bets are off
+* 너의 훌륭한 계획은 실패했어; Your brilian plan has failed
+* 이제 손들어; Now reach for it
+* 계획이 망하다; The plan went awry  [əˈraɪ] 
+ * Plans go astray  [əstréi] 
+* 집안이 좀 어수선한것 같아서; The house has been feeling a bit cluttered lately
+* 이야기의 일부에 불과하다; Itos only half the story; SHe's telling only half the story
+* 두 나라는 외교 관계를 단절했따; The two countries severed all diplomatic links
+* 독선적이야; He's so self righteous [ˈraɪtʃəs] 
+* 언니가 물려준 옷 입는 게 실증나; I'm sick of having to wear my sister's hand-me-downs
+* lay out; 보기 쉽게 하려고  
+ * 그는 탁자 위에 책들을 펼쳐두었다;  He laid his books on the table
 * 전형적인 오류입니다; This is a classic error
 * 포기했어; i threw in the towel
 * 너가 나 집까지 태워다 줘야 하잖아; You're my ride
