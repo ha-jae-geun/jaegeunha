@@ -1,4 +1,8 @@
 # 중요
+* 내가 먼저 갈게 따라와; I'll go first, just follw me
+ * 가까이서 잘 따라와; Try not to lose me. Make sure you keep up
+ * 가까이에 있어; Stay close
+ * 각자 운전하도 같이 그룹으로 가자; Let's caravan  [ˈkærəvæn]
 * 너무 남을 비판파지마; DOn't be so judgemnetal
 * 너도 그럴수 있어; Anyone can find themselves in that situation
 * 오일 바꾸러 왔다; i am here to get my oil changed = i am here for an oil change
