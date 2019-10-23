@@ -506,6 +506,7 @@ public class Solution {
         int nx = x + dx[d], ny = y + dy[d];
         if(nx >= 0 && ny >= 0 && nx < N && ny < N)
         {
+            //5번 회전해도 사각형을 그리며 출발지점으로 돌아올 수 있습니다; 큰 직사각형; 그림 7의 5
             solve(sx, sy, nx, ny, d);
             solve(sx, sy, nx, ny, d + 1);
         }
@@ -563,6 +564,7 @@ public class Solution {
             //같은 디저트 가게에서 먹었는지 확인
             if(food[map[xx][yy]]==false){
                 food[map[xx][yy]]=true;
+                //5번 회전해도 사각형을 그리며 출발지점으로 돌아올 수 있습니다; 큰 직사각형; 그림 7의 5
                 dfs(d,xx,yy,cnt+1);
                 dfs(d+1,xx,yy,cnt+1);
                 food[map[xx][yy]]=false;
