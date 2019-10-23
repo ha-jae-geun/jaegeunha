@@ -1,4 +1,9 @@
 # 자료형
+## char형을 int형으로
+```java
+number.charAt(i) - '0';
+```
+
 ## int형을 String형으로
 ```java
 String.valueOf(c);
