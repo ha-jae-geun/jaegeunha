@@ -494,11 +494,13 @@ public class Solution {
     }
     private static void solve(int sx, int sy, int x, int y, int d) {
         if(d == 4) return;
+        //같은 자리로 돌아왔는지 확인
         if(d == 3 && sx == x && sy == y)
         {
             res = Math.max(res, hs.size());
             return;
         }
+        //같은 디저트 가게에서 먹었는지 확인
         if(hs.contains(arr[x][y])) return;
         hs.add(arr[x][y]);
         int nx = x + dx[d], ny = y + dy[d];
@@ -553,10 +555,12 @@ public class Solution {
         int xx=x+dx[d];
         int yy=y+dy[d];
         if(xx>=0&&xx<N&&yy>=0&&yy<N){
+         //자기 자리에 돌아왔는지 
             if(cnt!=0&&sx==xx&&sy==yy){
                 ans=Math.max(ans, cnt);
                 return;
             }
+            //같은 디저트 가게에서 먹었는지 확인
             if(food[map[xx][yy]]==false){
                 food[map[xx][yy]]=true;
                 dfs(d,xx,yy,cnt+1);
