@@ -1,3 +1,18 @@
+# 자료형
+## int형을 String형으로
+```java
+String.valueOf(c);
+```
+
+## pow
+* pow하면 double형 됨
+```java
+ int형 변환: c = c + (b[i]*(int)Math.pow(10, i));
+```
+
+
+
+
 # BackTracking
 ## Queen N
 * [Queen](https://thd0011.tistory.com/19)
@@ -81,6 +96,18 @@ System.out.println(Integer.MIN_VALUE);
 
 
 <hr/>
+
+
+
+
+# Math
+## pow
+* pow하면 double형 됨
+```java
+ int형 변환: c = c + (b[i]*(int)Math.pow(10, i));
+```
+
+
 
 
 # Stack
