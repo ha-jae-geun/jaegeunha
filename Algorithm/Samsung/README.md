@@ -511,6 +511,62 @@ public class Solution {
     }
 }
 ```
+
+## 풀이 3
+```java
+import java.util.*;
+public class Solution {
+    static int T,N;
+    static int[][]map;
+    static boolean[]food;
+    static int sx,sy;
+    static int[]dx={1,1,-1,-1};
+    static int[]dy={1,-1,-1,1};
+    static int ans;
+    public static void main(String[] args) {
+        // TODO Auto-generated method stub
+        Scanner sc=new Scanner(System.in);
+        T=sc.nextInt();
+        for(int t=1;t<=T;t++){
+            N=sc.nextInt();
+            map=new int[N][N];
+            food=new boolean[101];
+            for(int i=0;i<N;i++){
+                for(int j=0;j<N;j++){
+                    map[i][j]=sc.nextInt();
+                }
+            }
+            ans=-1;
+            for(int i=0;i<N;i++){
+                for(int j=0;j<N;j++){
+                    sx=i;sy=j;
+                    food[map[i][j]]=true;
+                    dfs(0,i,j,1);
+                    food[map[i][j]]=false;
+                }
+            }
+            System.out.println("#"+t+" "+ans);
+        }
+    }
+    static void dfs(int d,int x,int y,int cnt){
+        if(d==4)return;
+        int xx=x+dx[d];
+        int yy=y+dy[d];
+        if(xx>=0&&xx<N&&yy>=0&&yy<N){
+            if(cnt!=0&&sx==xx&&sy==yy){
+                ans=Math.max(ans, cnt);
+                return;
+            }
+            if(food[map[xx][yy]]==false){
+                food[map[xx][yy]]=true;
+                dfs(d,xx,yy,cnt+1);
+                dfs(d+1,xx,yy,cnt+1);
+                food[map[xx][yy]]=false;
+            }
+        }   
+    }
+}
+```
 # ans
 * 테스트 케이스 for문 안에서 static ans -1 초기화
  * ans 최대값 구하기
