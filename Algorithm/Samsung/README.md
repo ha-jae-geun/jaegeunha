@@ -363,7 +363,7 @@ public class Solution{
                 int nr=0,nc=0;
                 nr = r+dr[i]; nc = c+dc[i];
                 if(nr<1||nr>N||nc<1||nc>M ) continue; //범위,V 체크
-                /왔단 걸리 돌아오는 경우
+                //왔단 거리 돌아오는 경우
                 if((i+2)%4 == dir && dpt !=1) continue;
                 //이걸 확인해야 양쪽이 뚫려 있다는 것
                 if(Pipe[A[r][c]][i] == 1 && Pipe[A[nr][nc]][(i+2)%4]==1) {
