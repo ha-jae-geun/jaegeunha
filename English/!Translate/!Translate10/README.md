@@ -43,6 +43,8 @@
  
 
 # 원어민
+* 양면 복사 가능하다; This copy machin can copy on both sides
+* 기름기를 닦다; clean the grease; wipe away the excess oil; remove grease
 * 언제 가능해? When works for you?
 * 긁어 부스럼만들지 말자; Let sleeping dogs lie
 * 김빠졌어; This soda is flat
