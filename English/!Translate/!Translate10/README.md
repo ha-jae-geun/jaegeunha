@@ -627,3 +627,23 @@
 * 그게 왜 갑자기 그렇게 크게 와닿았는지는 모르겠어, 온라인으로 뭐 사는 일은 늘 하는건데 말야. I don't know why it suddenly struck me like that because I buy things online all the time.
 * 근데 무슨 이유에서인지 어제 밤에는 너무 쉽다는 것을 느꼈는데 좀 무섭더라."  But, for some reason last night, it kind of scared me when I realized just how easy it was."
 
+# [ 영어 연습가이드 (HARDCORE) ] I Want To Go With Panache!
+* 예전에 학생들이랑 농담으로 하던 얘기가 있는데, I used to joke around with my students about
+ * joke around: 농담하다
+* 나중에 늙어서 더 이상 살아갈 이유가 없다고 느끼는 시점이 온다면 그냥 편히 자다가 죽는 날을 기다리기 보다는 완전히 미친 짓을 할거라고.
+ * how if I ever found myself at a point later in my life where I feel like I have nothing more to live for, instead of just waiting around and wishing for a peaceful death in my bed,
+  * later in my life: 나중에 늙어서;  where: later in my life 수식
+  * i have nothing more to live for: 살 이유가 없다.
+* 예를 들어, 곰이랑 레슬링을 한다던가, 아니면 어쩌면 좀 더 쓸모 있는 걸로? 
+ *  I would go out and do something really crazy like wrestle a bear or perhaps something a little more useful
+* 예를 들어, 연구를 목적으로 깊은 우주로 편도 비행하는 임무에 자원해서 참여를 한다든지 말야. 
+ * like volunteering to participate in a one-way trip into deep space for research purposes.
+* 황당하고 어쩌면 위험하게까지 들린다는 것은 알지만 생각해봐, 
+ *  I know it sounds ridiculous and maybe even a little dangerous but think about it,
+* 죽음에 이르게 될 정도로 extreme하고 위험한 일을 함으로써 얼마나 많은 지식과 insight 를 얻는 데에 기여할 수 있는지를 상상해봐. 
+ *   imagine the kind of knowledge and insight that you can help bring by doing something so extreme and dangerous that it would most likely get you killed
+그렇잖아, 뭔가 굉장히 멋지다는 것은 부인할 수 없어."
+ * Come on, you can't deny that there's something really awesome about that."
+
+
+
