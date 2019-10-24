@@ -19,6 +19,11 @@
  * They each have their pros and cons
 
 # 토익
+* A table has been set for a meal; A lap top has been placed on the table
+* 증가 감소와 어울리는 부사; considerably, substantially, remarkably, significantly, noticeably, dramatically
+ * rise: increase, go up, cme up, mount, hike, surge, soar, climb
+ * drop: decline, diminish, dwindle, fall, decrease
+ * change: fluctuate, reorganize
 * 자리를 맡다; will assume the position of manager
 * brief A on B; briefed the employees on the history
 * 실제로 그림을 그린다는 의미도 있지만, 마치 눈 앞에 그림이 보이듯이 무언가를 묘사하는 걸 의미하는 표현입니다. 
