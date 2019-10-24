@@ -43,6 +43,20 @@
  
 
 # 원어민
+* 머리 맞대고 생각해보자; Let's put our heads together!
+* 비꼬는 듯한 칭찬; backhanded compliment
+* 그게 그가 나와 공범이 될 수 없는 이유야; That's why he will never be my partner in crime
+* 묵비권 행사할게요; i plead the fifth
+* 하품하며 기지개를 켰어요; She yawned and stretched 
+* 미래에 멸종할거에요; It may go extinct in the future
+* 강요할 수 없어요; You can't impose
+* 잡화점을 둘러봐요; Take a look at the five and ten; five and ten: 5센트와 10센트 물건 파는 싸구려 잡화점
+* 난 절대 침묵하지 않을거야; i' won't go speechless
+* 유통기한 지났어; it has pased the expiration date
+* 그런 말 많이 들어봤어; i get that a lot(나에 대한 주제) i've been told that(무슨 주제든 상관 없음)
+ * 아빠랑 나는 똑같이 생겼다는 말 많이 들어; I've been told that dad and i look exactly the same
+ * throw in: 대화중에 말을 덧붙이다; 
+  * 난 그냥 몇 마디만 덧붙여 말했어; i threw in a few comments occasionally
 * 양면 복사 가능하다; This copy machin can copy on both sides
 * 기름기를 닦다; clean the grease; wipe away the excess oil; remove grease
 * 언제 가능해? When works for you?
