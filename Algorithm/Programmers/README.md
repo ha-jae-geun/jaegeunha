@@ -1,3 +1,19 @@
+# 해시
+## 전화번호 목록
+```java
+class Solution {
+    public boolean solution(String[] phoneBook) {
+       for(int i=0; i<phoneBook.length-1; i++) {
+            for(int j=i+1; j<phoneBook.length; j++) {
+                if(phoneBook[i].startsWith(phoneBook[j])) {return false;}
+                if(phoneBook[j].startsWith(phoneBook[i])) {return false;}
+            }
+        }
+        return true;
+    }
+}
+```
+
 # 다리를 지나는 트럭
 ```java
 import java.util.*;
