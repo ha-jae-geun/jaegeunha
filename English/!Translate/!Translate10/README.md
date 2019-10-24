@@ -43,6 +43,21 @@
  
 
 # 원어민
+* 배짱있는 변호사야; SHe is quite a ballsy lawyer  [ˈbɔːlzi]
+ * 배짱있따; have/get balls; 남자답게 굴어: Grow some balls
+* 취미를 들이다; tkae up a hobby
+ * 한국어 배워보려고; i've decided to take up Krean
+* 첫 시작을 잘하다; get/start off on the right foot
+ * 첫 스타르를 잘 끊었어; he really got of on the right foot with his boss
+* chime in: (의견을 제시하며) 대화에 끼어들다; chime: 초인종 소리; (공손) 대화에 끼어들 순 없을까?
+ * 끼어들어서 미안한데, 잠깐 대화좀 할 수 있을까요? I'm sorry to chime in, but do you have a moment?  [tʃaɪm] 
+* dawn: 새벽; dawn on: 분명해지다, 이해되기 시작하다, 갑자기 깨닫다
+ * 나는 불현듯 내가 직방르 잊었다는 걸 꺠달았다; It dawned on me that i had fogotten my wallet [dɔːn]
+ * 그녀에게 무슨일이 있었는지 말해선 안된다는 게 분명해졌다; It dawn on me that i shoudlnt tell her what had happened
+* pervasive: 환영받은 영향력이나 좋지 않은 현상이 지역이나 사람들 사이에 널리 퍼졌을 때
+ * 군대 문화가 많은 회사에 만연하다; THe militrary culture is peravsive in many companies
+* 한발 늦었어; to be a/one/two step behind
+ * That candidate is always running one step behind the competition
 * 머리 맞대고 생각해보자; Let's put our heads together!
 * 비꼬는 듯한 칭찬; backhanded compliment
 * 그게 그가 나와 공범이 될 수 없는 이유야; That's why he will never be my partner in crime
