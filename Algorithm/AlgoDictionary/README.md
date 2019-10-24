@@ -365,6 +365,26 @@ public boolean isValid(String s) {
 
 
 # String
+## contains 메소드
+* contains 메소드는 문자열 안에 특정한 문자열이 포함 되어있는지 확인 할때, 사용한다.
+```java
+String s = "I have a book";  
+
+s.contains("book");
+//이라고 할때, 위 코드는 true를 반환한다.
+```
+
+## startWith 메소드
+* startWith 메소드는 문자열이 특정 문자열로 시작하는지 확인할때, 사용한다.
+
+```java
+String s = "abcde";
+
+이라고 할때, 위 코드는 true를 반환 한다.
+s.startWith("abc");
+```
+
+
 ## 슬라이싱
 ```java
 StringBuilder sb= new StringBuilder();
