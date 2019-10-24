@@ -709,6 +709,29 @@ GET /document/item/1 1.1
 
 
 
+HTTP 응답코드
+웹 서비스를 개발하면서 자주 접하게 되는 응답 코드입니다.
+
+100대 코드: 정보전달
+200대 코드: 성공응답
+200: OK, 정상
+204: No Content, 보통 특정내용을 삭제시 해당 응답코드를 응답합니다.
+206: Range, 헤더를 지정한 요청을 응답할 때 사용합니다.
+300대 코드: Redirection, request완료를 위해 추가 동작이 필요합니다
+301: Moved Permanently, 영구적으로 URI 변경을 의미
+302: Found, 일시적인 URI 이동을 의미
+304: Not Modified, 변경 없음
+307: Temporary Redirect, 임시적인 redirect
+400대 코드: 클라이언트의 에러
+400: Bad Request, 잘못된 요청
+403: Forbidden, 접근권한없음
+404: Not Found, 요청 내용이 없거나 찾을 수 없음
+408: Request Timeout, 요청 타임아웃
+500번대 코드: 서버의 에러
+500: Internal Server Error, 서버에러, 로직에러 발생시 자주 등장합니다.
+503: Service Unavailable, 서버 한계 초과등 오류
+
+
 TCP/IP(Transmission Control Protocol/Internet Protocol)
 TCP/IP란 TCP규약과 IP규약을 합친 웹 상에서만 사용하는 규칙을 의미합니다.
 TCP는 데이터 전달을 관리하는 규칙입니다. 즉, 데이터를 작게 나누어서 한쪽에서 다른쪽으로 옮기고, 
