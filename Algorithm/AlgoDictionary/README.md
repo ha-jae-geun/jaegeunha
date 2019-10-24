@@ -1,5 +1,6 @@
 # 비트
 ## xor
+* 리트코드 Hamming distance
 ```java
 class Solution {
     public int hammingDistance(int x, int y) {
