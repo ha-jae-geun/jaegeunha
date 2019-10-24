@@ -19,6 +19,8 @@
  * They each have their pros and cons
 
 # 토익
+* 자리를 맡다; will assume the position of manager
+* brief A on B; briefed the employees on the history
 * 실제로 그림을 그린다는 의미도 있지만, 마치 눈 앞에 그림이 보이듯이 무언가를 묘사하는 걸 의미하는 표현입니다. 
  * = 당신과 함께 하는 내 미래를 장밋빛으로 그려봤어. (=생각했어.) I painted a rosy picture of my future with you.
 * * throw someone (off) = 당혹스럽게 하다, 놀라게 하다; 누군가를 내던지듯 '충격을 주다, 놀라게 하다, 혹은 혼란스럽게 하다' 라는 뜻으로 'throw someone (off)' 이라는 표현을 쓰기도 해요.
