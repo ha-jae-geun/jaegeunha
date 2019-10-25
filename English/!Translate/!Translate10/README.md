@@ -710,3 +710,23 @@
 * 전혀 없었을 대: i didn't get any chance to do something
  * 하지만 보통; i didnt really get achance to do any sightseeing; 기회가 전혀 없었어도 이렇게 부드럽게 표현함
  * 상황에 따라 ;i never got a chance to 도 사능
+ 
+ # [ 영어표현 ] under the circumstances / in this situation
+* under the circumstances; 지금 상황에서 여러가지를 고려해보면/생각해보면
+ * 상황을 영향 짓는 구성 요소들을 보고 하는 것
+ * 지금 상황에서는 더 이상 미룰수가 없어요; 그냥 있는 걸로 가야돼요;
+  * Under the circumstances, we can't push it back any further. We just have to go with what we have/got
+* in this situation
+ * 구성 요소 들이 결국 만든 상황에 대한 얘기
+ * 지금 이 상황부터 어떻게 빨리 해결을 해야 돼요; We have to deal with this situation first
+
+# [ 일상을 영어로 말하기 ] "한 달전에 주문해 놓은게 도착했어. 완전 잊고 있었어."
+* 어제 택배를 하나 (배달) 받았어요. 
+ * I got a package delivered yesterday.
+* 거의 한 달전에 주문해 놓은 바지였어요. 
+ * It was a pair of pants that I had ordered almost a month back.
+ * ago는 현재 시점을 기준으로 얼만큼 전에라고 말할 때 씀
+ * back는 과거 시점 기준에서 과거 얘기할 때 back 사용
+* 제가 옷을 자주 사는 편이 아니라서 어제 아침에 도착하기 전까지 완전히 잊고 있었어요.
+ * I don't buy clothes very often so I had totally forgotten about it until it arrived yesterday morning.
+
