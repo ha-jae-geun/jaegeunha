@@ -50,6 +50,20 @@
  
 
 # 원어민
+* 확고하게 밀어붙여 해냈습니다; We've eall powered through group projects
+* 자녀 양육; child rearing 식 [ˈrɪrɪŋ] 
+* 당신에게 폐가 되지 않았기를 바라요; i hope i'm not disturbing you
+* 맞벌이 부부의 장점은 무엇인가요? What's the benefit of having two incomes?
+* 합의하에 헤어진거야; It was a mutual break up
+* 일반적 통념이란거 알아; i know that's conventional wisdom
+* 그는 웃긴 목소리를 냈따; he put on a funny voice
+* 그녀는 값을 깎으려고 판매자에게 강하게 나갔다; she drove a hard bargain with the seller
+* 인증샷 없으면 뻥인거야; Pics or it didn't happen
+* 스케줄을 비워나야 해세요; i gotta clear my shcedule
+* -에서 나왔어요; i'm with the department of labor
+* 어떻게 답변하시겠습니까? How do you plead?
+ * 그는 자신의 죄를 시인했다; He pleaded guilty
+* 안대하나 주실 수 있나요? Can i get a eyemask?
 * 배짱있는 변호사야; SHe is quite a ballsy lawyer  [ˈbɔːlzi]
  * 배짱있따; have/get balls; 남자답게 굴어: Grow some balls
 * 취미를 들이다; tkae up a hobby
