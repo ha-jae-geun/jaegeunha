@@ -968,6 +968,8 @@ Convoy 효과
 * 스택과 힙은 반비례 관계이다.  
     ^Stack and heap are in inverse proportion
 
+## 메모리 관리
+* [블로그](https://dailyheumsi.tistory.com/137?category=855210)
 
 ## Time Sharing
 
