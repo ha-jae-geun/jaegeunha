@@ -621,6 +621,8 @@ EX) HTTP(80), FTP(20,21), Telnet(23), SMTP(25), DNS(53), TFTP(69) 등
 - 한 문서에서 다른 문서로 즉시 접근할 수 있는 텍스트를 하이퍼텍스트라고 하는데 이 텍스트를 전송하는 규약을 말한다.
 * HTTP 통신의 특징은 Connectionless와 Stateless가 있습니다.
 
+### RestAPI
+
 ### 메소드
 * Get: 데이털를 read, 조회하는데 사용
 * Post: 새로운 정보를 추가하는데 사용
