@@ -50,6 +50,8 @@
  
 
 # 원어민
+* 너 잠수탔잖아; You went AWOL this morning; 에이월
+* 나도 같ㅇ
 * 확고하게 밀어붙여 해냈습니다; We've eall powered through group projects
 * 자녀 양육; child rearing 식 [ˈrɪrɪŋ] 
 * 당신에게 폐가 되지 않았기를 바라요; i hope i'm not disturbing you
