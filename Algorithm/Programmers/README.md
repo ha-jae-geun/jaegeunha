@@ -1,3 +1,42 @@
+# bfs
+## 타겟넘버
+```java
+package dfs;
+
+public class target {
+    static int count = 0;
+    
+    public static int solution(int[] numbers, int target) {
+        
+        dfs(0, numbers, 0, target);
+        return count;
+    }
+    
+    public static void dfs(int dept, int[]num, int value, int tar){
+        if(dept >= num.length){
+            if( value== tar){
+                count = count + 1;
+            }
+         return;
+           
+        }else{
+        	int nr=0,nc=0;
+            nr = value + num[dept] * (-1);
+            nc = value + num[dept] * (1);
+            dfs(dept+1, num, nr, tar);
+            dfs(dept+1, num, nc, tar);
+           
+        }
+    }
+  
+  public static void main(String args[]){
+    int []num = {1,1,1,1,1};
+    int target = 3;
+    System.out.println(solution(num, 3));
+  }
+}
+```
+
 # 해시
 ## 전화번호 목록
 ```java
