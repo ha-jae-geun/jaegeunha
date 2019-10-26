@@ -18,3 +18,10 @@
 * 텐백 수비; Parking the bus
 * 챔스 참가 클럽들이 리그에서 겪는 후유증; European hangover
 * 전반에서는 잘했지만 상대가 후반에 전술 바꾼 후 무너질 때; FOotball is a game of two halves
+* 엄청난 시즌을 보냈고; He had a brilliant season last seaon
+* 손흥민이 발롱도르 든 걸 어떻게 생각하세요? How do yoou feel about SOn being nominated?
+* 큰 차이를 만들어 냈죠; He made a really big difference
+* 레알 마드리드에 들어갈 유한 선수; He Could probably get into the Real Madrid
+* 그들은 인정받았다; They get some recognition
+* 챔피언스리그에서 중요한 역할을 했다; He was quite instrumental in our Chanpions League  [ˌɪnstrəˈmentl] 
+* 약간 하락세인것 같아요; might be on the decline a little bit now
