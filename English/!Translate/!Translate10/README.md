@@ -49,7 +49,9 @@
 * 그거 노잼이야; That's lame
  
 
-# 원어민
+# 원 어민
+* (자기 말을 강조하여) 하늘은 알아;
+ * 하늘은 알지, 내가 그녀를 가르쳐 보려고 했다는 걸. Lord knows, I tried to teach her. 
 * 이 음식 맛이 이상해; THis food tastes funny
 * 말 문이 턱 막혔어; You left me at a loss for words
 * 이 불량청손년들 뭐하는 거야? What are you punks doing?
