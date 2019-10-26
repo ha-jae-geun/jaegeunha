@@ -50,6 +50,10 @@
  
 
 # 원어민
+* 이 음식 맛이 이상해; THis food tastes funny
+* 말 문이 턱 막혔어; You left me at a loss for words
+* 이 불량청손년들 뭐하는 거야? What are you punks doing?
+* 제가 내역서를 확인해봤어요; i checked my statement but the refund has not been procecessed
 * 너 잠수탔잖아; You went AWOL this morning; 에이월
 * 나도 같ㅇ
 * 확고하게 밀어붙여 해냈습니다; We've eall powered through group projects
