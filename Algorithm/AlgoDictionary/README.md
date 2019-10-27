@@ -365,6 +365,27 @@ public boolean isValid(String s) {
 
 
 # String
+## compareTo
+```java
+String1.compareTo(String2)
+> String1 과 String2 가 같으면 (결과 == 0)
+
+> String1 이 String2 보다 크면 (결과 > 0)
+
+> String1 이 String2 보다 작으면 (결과 < 0)
+
+ 
+예제)
+> ("2015-05-02").compareTo("2015-05-02") == 0 은 true
+
+> ("2015-05-04").compareTo("2015-05-02") > 0 은 true
+
+> ("2015-04-02").compareTo("2015-05-02") < 0 은 true
+
+> ("abcdef").compareTo("accdef") < 0 은 true
+
+```
+
 ## contains 메소드
 * contains 메소드는 문자열 안에 특정한 문자열이 포함 되어있는지 확인 할때, 사용한다.
 ```java
