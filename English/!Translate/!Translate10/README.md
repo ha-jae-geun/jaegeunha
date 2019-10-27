@@ -50,6 +50,8 @@
  * They each have their pros and cons
 
 # 토익
+* Some plants have been planted;  SOme plants are being planted: 진행형 아님
+ * A Wheelbarrow has been loaded with brickes; 상태
 * A table has been set for a meal; A lap top has been placed on the table
 * 증가 감소와 어울리는 부사; considerably, substantially, remarkably, significantly, noticeably, dramatically
  * rise: increase, go up, cme up, mount, hike, surge, soar, climb
