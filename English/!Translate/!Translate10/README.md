@@ -1,4 +1,11 @@
 # 중요
+* 깁스했다; wear a cast; in a cast/plaster
+ * 병원에 실려갔는데 의사가 다리에 깁스를 해주었따; He was taken to the hospital where the doctors put the leg in a cast
+ * 팔걸이 붕대를 했따; SHe had her arm in a sling  [slɪŋ]
+* 생각도 하지마; Don't even bother
+ * 말도 마; Don't even try it
+* 액체의 농도가 완전 콧물같아; Consistency of the liquid is like mucus  [ˈmjuːkəs]
+* 사이즈 1, 3만 있어요; we only carry sizes 1,, 3 and 5
 * 내가 먼저 갈게 따라와; I'll go first, just follw me
  * 가까이서 잘 따라와; Try not to lose me. Make sure you keep up
  * 가까이에 있어; Stay close
