@@ -1,4 +1,28 @@
 # 중요
+* 농담이나 이야기 할 때 상대방에게 한방 먹이듯이 하는 말: punchline; i didn't understand the punchline of the issue
+* pleade + 명사, pledge to v; We pledge our full supprt for the success of the event
+* sitting: 재직하는, 현직의; A lot of questions on this issure were asked by a lot of sitting members of congress; 국회의원
+* detain: 경찰서, 교도소, 병원 등에 억류; You guys don't have a legal right to detain him
+* 내가 좀 찾아봤어; I did a little research
+* 인식을 높이는 게 목표입니다; The goal is to raise/bring awareness about cancer
+* 결과적으로 -가 되다; add up to; Small erros can add up to big loses
+* 쉴틈없이 일하다; i was working around the clock
+* 건강 어떻게 유지하세요? How do you keep fit?
+* 없애다; do away with; we should away with any sterotypes or bias against ethnic minorities
+* deed: behavior와 큰 차이는 없지만 굉장히 좋거나 나쁜 행위에 주로 씀
+ * 선행: good deed, 용감한 행동: brave deed, 악행: eveil/wicked deed
+* 그녀가 침묵하고 있는 동안 루머는 더 확대되었다; The rumor about her was amplified while she stayed silent
+* 냉담한 살인자/태도/행동 callous killer/attitude/act  [ˈkæləs] 
+* 왜이리 버릇없어; why were you so crude to them?
+* 마지막에 얼음 넣어주세요; Plop the ice in at the end
+* 야단 법석 떨지마; Stop going on the razzle-dazzle
+* 결정적인 역할을 했어요; Cost was the defining/deciding/determining factor in our decision
+* 연출된것도 아니에요; It wasn't staged either
+* 굴복하지 않아; wouldn't bow down
+* 내게 소리를 지르며 달려들었따; SHe came at me screaming
+* 손으로 가능한 많은 동전을 퍼담으세요; Scoop up as many coins as possible with your hands
+ * 그를 들어 올려서 침대에 놓자; Let's scoop up and put him onto the bed
+* responsibility to do something; resposibility for something; responsibility towards: -를 향한 책임감
 * 깁스했다; wear a cast; in a cast/plaster
  * 병원에 실려갔는데 의사가 다리에 깁스를 해주었따; He was taken to the hospital where the doctors put the leg in a cast
  * 팔걸이 붕대를 했따; SHe had her arm in a sling  [slɪŋ]
