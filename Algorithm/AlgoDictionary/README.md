@@ -363,8 +363,16 @@ public boolean isValid(String s) {
 
 <hr/>
 
-
+# 문자열
 # String
+## 문자열 배열 생성 방법
+```java
+String [][] ticket =  {{"ICN", "JFK"}, {"HND", "IAD"}, {"JFK", "HND"}};
+```
+1. "" 를 써줘야 함
+2. {} 안에 써줌
+
+
 ## compareTo
 ```java
 String1.compareTo(String2)
