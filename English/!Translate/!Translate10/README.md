@@ -4,6 +4,7 @@
 * sitting: 재직하는, 현직의; A lot of questions on this issure were asked by a lot of sitting members of congress; 국회의원
 * detain: 경찰서, 교도소, 병원 등에 억류; You guys don't have a legal right to detain him
 * 내가 좀 찾아봤어; I did a little research
+* 토이 스토리 시리즈가 최고다; Toy Story franchise might just take the cake
 * 인식을 높이는 게 목표입니다; The goal is to raise/bring awareness about cancer
 * 결과적으로 -가 되다; add up to; Small erros can add up to big loses
 * 쉴틈없이 일하다; i was working around the clock
@@ -16,6 +17,8 @@
 * 왜이리 버릇없어; why were you so crude to them?
 * 마지막에 얼음 넣어주세요; Plop the ice in at the end
 * 야단 법석 떨지마; Stop going on the razzle-dazzle
+* 선탠하다; get a tan; get tanned
+* 장담할 수 없다; There's no telling; 조쉬가 다음에 뭘 할지 아무도 모른다; There's no telling what Josh will do next
 * 결정적인 역할을 했어요; Cost was the defining/deciding/determining factor in our decision
 * 연출된것도 아니에요; It wasn't staged either
 * 굴복하지 않아; wouldn't bow down
@@ -82,7 +85,12 @@
 * 그거 노잼이야; That's lame
  
 
-# 원 어민
+# 원어민
+* 안색이 안 좋아지고 있어; i'm turning gray
+* strategy
+* almost + 숫자: 거의;  almost finished
+* 여기 동네 조용하고 좋아; This neighborhood is quiet and nice
+* 키친타월 Paper towel
 * (자기 말을 강조하여) 하늘은 알아;
  * 하늘은 알지, 내가 그녀를 가르쳐 보려고 했다는 걸. Lord knows, I tried to teach her. 
 * 이 음식 맛이 이상해; THis food tastes funny
@@ -771,3 +779,8 @@
 * 제가 옷을 자주 사는 편이 아니라서 어제 아침에 도착하기 전까지 완전히 잊고 있었어요.
  * I don't buy clothes very often so I had totally forgotten about it until it arrived yesterday morning.
 
+# [ 기초영어회화 ] 완료시제 연습 - "아직/벌써" + 완료시제
+* 난 이미 그 영화를 두번이나 봤어; ive already seen the movie twice
+* 난 아직 그 영화를 안봤어; i haven't seen the movie yet
+* 그 제품을 아직 공식적으로 발표하지 않았어; THey haven't officially announced the product yet
+* 대부분의 정보가 유출되었어; Most of the information has already been leaked
