@@ -1,4 +1,7 @@
 # 중요
+* 우리 시간 완전 재밌게 보냈어; we had a stupid good time
+ * 음식 맛있었어; The food was stupid good
+ * 완전 대박이야! It was stupid!
 * 농담이나 이야기 할 때 상대방에게 한방 먹이듯이 하는 말: punchline; i didn't understand the punchline of the issue
 * pleade + 명사, pledge to v; We pledge our full supprt for the success of the event
 * sitting: 재직하는, 현직의; A lot of questions on this issure were asked by a lot of sitting members of congress; 국회의원
