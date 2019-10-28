@@ -784,3 +784,116 @@
 * 난 아직 그 영화를 안봤어; i haven't seen the movie yet
 * 그 제품을 아직 공식적으로 발표하지 않았어; THey haven't officially announced the product yet
 * 대부분의 정보가 유출되었어; Most of the information has already been leaked
+
+# Dave's Den English- "The Office Boss" (listening practice)
+```java
+Office worker 1: “I wonder what Dave's doing"
+직장인 1: "데이브는뭐하려나…”
+
+(Phone rings)
+
+Office worker 2: Hey man...How are you doing?"
+직장인 2: “헤이…어떻게지내?”
+
+Office worker 1: “Not bad thanks...How about you?"
+직장인 1: “나쁘지않아…너는어때?”
+
+Office worker 2: “Terrible!”
+직장인 2: "끔찍해!"
+
+Office worker 1: “Really?...why?...what’s up?”
+직장인 1: "정말?....왜?....무슨일이야?"
+
+Office worker 2: “I’ve been working my fingers to the bone*1 all week...and the boss still keeps piling the work ontome!*2”
+직장인 2: "일주일내내 내장이나올것처럼일하고있어...그리고상사가아직도계속해서일을더내게주고있어!"
+
+Office worker 1: “Yeah...she can be a real slave driver*3”
+직장인 1: "응....그녀는정말 악덕상사가될수있을거야언젠가는...."
+ 
+Office worker 2: “You’re not kidding!... she’s always breathing down my neck*4!”
+직장인 2: "완전동감해!....그녀는항상내옆에서 사사건건감시해!"
+
+Office worker 1: “Have you tried talking to her about it?”
+직장인 1: “그녀에게말해봤어?”
+
+Office worker 2: “Yeah….a couple of times but…it’s like talking to a brick wall*5”
+직장인 2: “응…몇번…하지만벽과이야기하는것같아.”
+
+Office worker 1: “Have you thought about going over her head?*6”
+직장인 1: “그녀의상사와말해보는것은생각해봤어?”
+
+
+Office worker 2: “Do you think that’s wise?....I don't want to rock the boat*7”
+직장인 2: “넌그게현명하다고생각해?난문제를일으키는것을원하지않아”
+
+Office worker 1: “Well…desperate times require desperate measures*8…and..you know…you’re not the only one…I’ve heard a few other people in the office complaining about her”
+직장인 1: “음…극단적인상황이니극단적인수단을쓸수밖에없어…그리고너도알듯이...너뿐만이아니야회….사에서몇몇사람들이그녀에대해불평하는것을들었어.
+
+Office worker 2: “Yeah…well…I think I'm going to justmull it over*9 for a few days…”
+직장인2:“응…글쎄…그래…며칠동안생각좀해볼게..”
+
+Office worker 1: “You know…it really shouldn’t be that hard to sort this all out*10…after all…she is your wife”
+직장인 1: “너도알다시피… 이모든것을해결하는건별로어려운문제는아니잖아...결국…그녀는네아내니까!
+
+
+[Expressions]
+
+ 1- “Working my fingers to the bone”
+ 
+ Meaning- Work very hard.
+ 뜻- 우리도너무힘들게일을한후흔히 “뼈빠지게일했어”라고말을하는데요, 마찬가지로일을매우열심히했을때쓸수있는 표현입니다.
+ 
+ 2- “Pile work onto (someone)”
+  
+ Meaning-To give someone a lot of work to do
+ 뜻- 누군가에게할일을많이주는.
+ 
+
+ 3- “A slave driver”
+  
+ Meaning-A person who makes you work to hard.
+ 뜻- 당신에게일을힘들게만드는사람.
+
+
+ 4- “Breath down (someone's) neck”
+  
+ Meaning-To follow someone around and watch everything they do.
+ 뜻- 누군가주위를따라다니면서그들이하는모든것을지켜보는.
+
+
+ 5- “Like talking to a brick wall”
+  
+ Meaning- When you are talking to someone but the person doesn’t listen or seems not to understand.
+ 
+ 뜻: 누군가에게얘기를하고있지만그사람이듣지않거나또는이해를하지못하는것처럼보이는상황입니다.
+ (흔히 “내가지금벽과얘기하는것같아” 또는 “소귀에경읽기” 라고합니다.)
+
+
+ 6- “Go over (someone's) head”
+  
+Meaning- To go to a more important or more powerful person in order to get what you want.
+뜻-당신이원하는것을얻기위해더중요하거나힘이있는사람에게가는.
+
+
+ 7- “Rock the boat”
+  
+Meaning- To say or do something that will cause problems or upset people.
+뜻-문제를일으키거나사람들을화나게하는뭔가를말하거나하는.
+
+
+ 8- “Desperate times require desperate measures”
+  
+Meaning- When you use this expression, it means thatactions that might seem extreme under normal circumstances are appropriate during adversity.
+뜻-당신이이표현을사용할때, 정상적인상황에서극단적인것처럼보일수있는행동이역경을겪는동안에는적절하다는것을의미합니다.
+(절박한상황에는절박한수단이필요하다.)
+
+ 9- “Mull it over”
+  
+ Meaning- Take time to think about/consider something.
+ 뜻- 대해 생각할 시간을 갖는/~를 숙고하다.
+
+
+ 10- “Sort (something) out”
+  
+ Meaning: Arrange, organise or fix something.
+```
