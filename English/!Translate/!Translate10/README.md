@@ -814,6 +814,22 @@
 * 그 제품을 아직 공식적으로 발표하지 않았어; THey haven't officially announced the product yet
 * 대부분의 정보가 유출되었어; Most of the information has already been leaked
 
+# 영어회화 표현 - "내 기억이 맞다면"
+* "이걸 거의 1년 전에 샀어요.
+ * "I got these almost a year ago
+*  제 기억이 맞다면, 200 달러 조금 넘게 줬어요.
+ * (And) If I remember correctly, I paid a little over 200 dollars; 
+ * correctl; t 묵음 발음
+* 근데 제조사에서 단종시킨 걸로 알고 있어요.
+ *  But the last time I checked, they've recently been discontinued by the manufacturer
+ * the last time i checked; 내가 봤을때는(과거)
+*  그렇게 인기가 많지 않았다나봐요.
+ *  From what I heard, they weren't very popular. 
+*   그래서 제가 알기로는 이제 이건 중고로만 구할 수 있어요."
+ * .So, my understanding is (that) you can only get these used now."
+
+
+
 # Dave's Den English- "The Office Boss" (listening practice)
 ```java
 Office worker 1: “I wonder what Dave's doing"
