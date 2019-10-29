@@ -1,4 +1,15 @@
 # 중요
+* 그 셔츠 바지랑 안어울려; THat shirt doesn't go with those pants
+ * 내가 좋아하는 식당이 폐업했어요; My favorite restaurant went out of business
+ * 자세히 설명하고 싶진 않아; i don't want to go into it right now
+ * 같은 말 반복; go on and on; 네 새 차 자랑좀 그만해; Stop going on and on about your new car
+ * 자정에 폭탄이 터졌어요; The bomb went off at midnight
+ * go over: 받아들여지다; 그거 어떻게 받아들여졌어요? How did it go over?
+ * 대새에 역행하다; go against the grain
+  * 벌써 회사 문화에 역행하다; it's not wise to go against the grain
+ * 우수한 성적으로 합격하다; pass with flying colors
+ * 이 사안에 대해 너와 의논해보고 싶었어; i just wanted to touch base with you
+* 4시는 어때; Is 4ish ok for you?
 * 우리 시간 완전 재밌게 보냈어; we had a stupid good time
  * 음식 맛있었어; The food was stupid good
  * 완전 대박이야! It was stupid!
@@ -87,8 +98,10 @@
  * i'll pass it on
 * 그거 노잼이야; That's lame
  
+ 
 
 # 원어민
+* 엿보지마; No peeking
 * 안색이 안 좋아지고 있어; i'm turning gray
 * strategy
 * almost + 숫자: 거의;  almost finished
