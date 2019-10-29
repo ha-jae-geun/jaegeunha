@@ -101,6 +101,19 @@
  
 
 # 원어민
+* hit, push button; 둘다 버튼 누르는 건데 'hit'은 힘차게 빠르게 누르는 느낌
+* 많은 시민들이 그 법안에 반대하는 청원을 했다; A lot of citizens petitioned agianst the bill
+* 인스타에 올리다; put it up on Instagram; post it on Instagram
+* go places; 성공하다; 그가 성공할 걸 알고있었어; i knew he would go places
+* spit and polish: 때 뺴고 광내기; 군대에서 침으로 군화 닦던것에서 유래; 사람 외모, 장소 모두 가능
+ * 조금만 때 뺴고 광내면 좋겠어; With a bit of apit and polish
+* 그건 좋네; 이득이네; That's a plus
+* 타당한 이유: good reason(좋은 이유가 아님); There's no good reason for it
+* 다 필요없고 이것만 해봐; i have one/two word for you
+* 내 노력은 정말 좋은 성과를 냈어; My hard work really paid off at the end
+* 그 선거는 그의 정치 경력의 정점이었다; The election result was the culmination of his political career
+* 저는 추위에 젬병이에요; i'm a hug wuss if it's cold;  [wʊs]
+* 배부른 걱정, 사소한 걱정: First wolrd problem
 * 엿보지마; No peeking
 * 안색이 안 좋아지고 있어; i'm turning gray
 * strategy
