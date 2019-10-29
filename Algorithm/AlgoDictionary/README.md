@@ -18,6 +18,33 @@ class Solution {
 ```
 
 # 자료형
+## long
+* int로 하면 속도 느려짐
+```java
+class Solution {
+    public long solution(int N) {
+        long [] len = new long[N];
+        len[0] = 4;
+        len[1] = 6;
+        
+        if(N == 1)
+            return 4;    
+            
+        if(N == 2)
+            return 6;
+        
+        for(int i=2;i<N; i++ ){
+            len[i] = len[i-2] + len[i-1];
+        }
+        
+        return len[N-1]; 
+        
+    
+        
+    }
+}
+```
+
 ## char형을 int형으로
 ```java
 number.charAt(i) - '0';
