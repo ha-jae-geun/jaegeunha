@@ -1,4 +1,8 @@
 # 중요
+* 컨디션 좋다;나쁘다; i feel good/bad
+* 자전거 마니아야; He's a bike maniac
+* 사진이야; 얼짱 각도야; He doesn't look that good in real life; It was just a flattering angle
+ * 얼짱각도 아니야; That angle doesn't do you justice
 * 그 셔츠 바지랑 안어울려; THat shirt doesn't go with those pants
  * 내가 좋아하는 식당이 폐업했어요; My favorite restaurant went out of business
  * 자세히 설명하고 싶진 않아; i don't want to go into it right now
@@ -101,6 +105,28 @@
  
 
 # 원어민
+* 소화가 잘 안되네; It's just a little indigestion
+* 학교 앨범(졸업 앨범과 비슷하지만 사진을 매년찍어 발행) yearbook
+* 꼽사리였어요; He was like a third wheel
+* 중매쟁이가 너에게 딱맞는 짝을 찾았어; Matchmaker has found you an auspicious match  [ɔːˈspɪʃəs]
+* 너 뚜껑 안닫아놨구나; You left the lid off
+* 네가 무슨 일을 하던; No matter what you do
+* 내 애인과 같이 있을 때 조차; Even when i'm with my boo
+* 공포가 표면 아래 감춰져있다; Fear is lurking beneath the surface
+* (비격식) 격려의 말 고맙다; Thanks for the pep talk
+* 이가 떨리는; teeth chattering; 춥거나 공포스러울 떄 이 덜덜: chatter
+* 어디선가 갑자기 ㅣ불쑥 다시 튀어나왔어; She popped back up from nowhere
+* round: 회진; 회진을 하다 동사: make rounds; 지금 회진 돌고 계십니다; Dr.Lee is out making rounds
+* 정신병원(으스스한 곳 말고); a psychiatric hospital   [ˌsaɪkiˈætrɪk]  / mental hospital
+ * 망명을 신청하다; seek/apply for asylum  [əˈsaɪləm] 
+* 묻지도 않은 의견을 답하다; give/throw/put(in) one's two cents
+ * 자기 주장을 말하려고 고집피더라; He awlasys insists on giving his two cents
+ * it's just my two cents
+* 몸이 피곤하고 늘어지네; i feel groggy
+* 마요네즈는 넣지 말아주세요; Can you hold the mayo?
+* 연결이 됐다 안됐따 해요; The connection goes off and on
+* 가장 빨리 오는 시간이 몇시에요? When is the soonest time they can come?
+* 허리에 있던 통증이 목까지 올라갔어요; The pain in ym lower back travles up to my neck
 * hit, push button; 둘다 버튼 누르는 건데 'hit'은 힘차게 빠르게 누르는 느낌
 * 많은 시민들이 그 법안에 반대하는 청원을 했다; A lot of citizens petitioned agianst the bill
 * 인스타에 올리다; put it up on Instagram; post it on Instagram
