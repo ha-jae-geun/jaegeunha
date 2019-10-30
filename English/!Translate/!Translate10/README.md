@@ -1,4 +1,6 @@
 # 중요
+* 끝까지 돌려; Turn it all the way over
+* 컵 끝까지 쭉 채워줘; FIll the cup all the way up
 * 컨디션 좋다;나쁘다; i feel good/bad
 * 자전거 마니아야; He's a bike maniac
 * 사진이야; 얼짱 각도야; He doesn't look that good in real life; It was just a flattering angle
@@ -854,6 +856,17 @@
 *   그래서 제가 알기로는 이제 이건 중고로만 구할 수 있어요."
  * .So, my understanding is (that) you can only get these used now."
 
+
+# [ 일상을 영어로 말하기 ] "겨울이 싫은 이유"
+* “저는 겨울이 싫은 가장 큰 이유 중 하나가 아침에 일어나기가 너무 힘들다는거예요. 
+ * "One of the things that I hate most about Winter is that it's so hard(difficult) to get out of bed in the morning.
+ * reason을 쓰면 최종적인 감정(결론적으로 겨울은 무조건 싫다);
+ * one of the things: 그냥 겨울이 싫은 이유 중 하나 라고 말하고 싶을 때 사용
+ * 워너더띵스; f 발읍 안함
+* 글쎄요, 저만 그런건지도 모르겠네요.
+ *  I don't know. Maybe it's just me.
+* 뭐, 다른 것도 있겠죠 근데 그게 저는 가장 힘들더라고요"
+ * There are other things too, I guess, but that's what I have trouble with the most."
 
 
 # Dave's Den English- "The Office Boss" (listening practice)
