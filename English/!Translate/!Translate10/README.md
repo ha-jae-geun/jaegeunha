@@ -107,6 +107,36 @@
  
 
 # 원어민
+* 위험을 감수해봐; Tke your chances
+* 운에 맡기자; take/try my luck
+ * 흥망을 걸고 이 사업을 해보겠다; i will try my luck with this business
+* 너 정말 큰 실수를 한거야; You really put your foot in your mouth
+ * 말 실수를 아주 크게하여 손으로 모자라 발로 입을 막는 상황
+* 약속을 한시간만 당길 수 있을까? Can we move it up an hour?
+ * The schedule was moved up to Wednesday
+* 신발 벗어야돼 신어도돼? Do i need to take off my shoes? or can i keep them on?
+* 술을 권할 떄; Would you like to have a drink?
+* 민간인이야; Civilians
+* 끝까지 쭉 익혀주세요; Make sure you cook them all the way through
+ * 센 불 끝까지 쭉 올려; Turn it all the way up to high
+* 내쉬고 혈액순환이 잘 되게끔 앞으로 숙일게요; Exhale,  [eksˈheɪl]  getting the juices flowing we forward fold
+ * 천천히 끝까지 쭉 뻗으세요; Slowly reach it all the way up
+ * 들이쉬고 손가락 끝을 펴세요; Inhale, spread the fingertips
+* 연휴 후유증을 앓고 있습니다; SOme are struggling with post Labor Day Blues
+* 가정 폭력에 대해 신고하려고 전화했습니다; I'm calling to report domestic violence in my neighborhood
+ * 아동 학대를 신고하려고 전화했습니다; i'm calling to report child abuse
+ * 숨을 잘 못쉬어요; He seems to be having trouble breathing
+ * 방송으로 찾아주세요; Can you page her?
+* 세세한 모든 부분: every inch of A
+ * 우리 집 샅사이 찾아봤어; i've looked in every inch of my house
+* 힘 닿는대로 최선을 다하다; do everything in one's power
+* 키스 세례를 받았어; i was showerd with kisses from my dog
+* 남편, 아내, 여자친구, 남자친구; my sisgnificant other will be here any time soon
+* 대수롭지 않게 여길거야; Tom shrugged off the complaints   [ʃrʌɡ]
+* 가루에 물 섞은 반죽; 팬케이크, 케잌용, 튀김옷과 같은 묽은 반죽: batter
+ * 빵이나 피자, 면을 만들떄 쓰는 밀가루 반죽; dough  [doʊ] 
+* skillet: 원래는 스튜 등을 끓이는 냄비를 말했지만 프라이팬과 거의 비슷한 의미로 사용
+* 반반이야; It's a toss-up
 * 소화가 잘 안되네; It's just a little indigestion
 * 학교 앨범(졸업 앨범과 비슷하지만 사진을 매년찍어 발행) yearbook
 * 꼽사리였어요; He was like a third wheel
