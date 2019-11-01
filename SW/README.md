@@ -9,7 +9,24 @@
 - 출력뷰 (입력, 수정, 삭제, 검색 4개)
 
 
-# SW
+# 실무용어
+```java
+SB
+WBS
+as-is, to-be
+needs
+CMS
+PG
+PM 
+PL
+과업지시서
+RFP
+FrontEnd
+BackEnd
+TFT
+구축, 리뉴얼, 고도화, 유지보수
+실무용어를 사용하여 말해보기
+```
 
 
 
