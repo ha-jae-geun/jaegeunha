@@ -107,6 +107,16 @@
  
 
 # 원어민
+* 사랑을 나누는 시간; intimate time; It's time to be intimate(꽁냥)
+* 칼로리를 소모하다; burn 200 calories; count calories; cut calories
+* 안좋은 상황으로 끌어들이다; suck 사람 in
+ * Don't try to suck me in
+* 직업이 뭐에요? WHat's your profession?  What do you do for a living?
+ * 재택근무하다; i work from home most of the time;  at 은 그냥 한번 집에서 일한 것
+ * 좀 더 유연성은 있죠; There is more flexibility
+ * 장단점이 있죠; Everything has pros and cons
+* 최소한 이 ㅈ품은 커서가 자기 맘대로 움직이지는 않아요; The cursor jumps around randomly
+* 머리색이 얼룩덜룩해요; My hair is super patchy
 * 위험을 감수해봐; Tke your chances
 * 운에 맡기자; take/try my luck
  * 흥망을 걸고 이 사업을 해보겠다; i will try my luck with this business
