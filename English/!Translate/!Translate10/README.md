@@ -1,4 +1,16 @@
 # 중요
+* 고자질하다; tattle-tale; tattle teller
+ * 그가 갱단의 나머지 사람들을 배신하고 그 돈을 모두 가지고 사라졌다. He double-crossed the rest of the gang and disappeared with all the money. 
+ * 툭하면 울다; But I do cry at the drop of a hat.
+* 하나도 안 늙엉써; You haven't aged a day
+ * 안에 초콜렛인지 아닌지 궁금해; i am wondering if the cake inside is chocolate too; 
+ * 겉 크림은  초콜렛; THe frosting is chocolate
+ * 속에 든게 뭐에요? What kind of filling is it?
+* 정해진 기한은 없어; There is no fixed deadline
+* 같은 색상 실로 꼬매주실 수 있나요? can you fix it with the same color thread>
+* 통을 줄여 안에 집어넣는 그림; 2 ways to take in the waist of pants
+* i feel stuffy: 내 몸에 답답함; 공기 답답함: its' stuffy here
+* 옷을 후다닥 갈아입어야 했어; i had to scramble to get dressed 
 * 끝까지 돌려; Turn it all the way over
 * 컵 끝까지 쭉 채워줘; FIll the cup all the way up
 * 컨디션 좋다;나쁘다; i feel good/bad
@@ -107,6 +119,17 @@
  
 
 # 원어민
+* 고정관념 갖지 마세요; Stop sterotyping; Think out/outside of the box
+ * 고정관념이 있어; i have a streotype about it
+ * 고정관념 버려; Get rid of/break the sterotype
+* 수도시설이 좋지 않았을 때에는; Back in the day when plumbing wasn't quite as good as it is now [ˈplʌmɪŋ]
+* 필수품들이 필요해; We'll need the essentials
+* 영어로 정확한 동의어는 없는 것 같은데; i don't think there's an equivalent word in English
+* 다 아는척 하고 있네; You are being a know-it-all
+* 분위기 파악해; Reading the room
+* 흑역사를 만들 수 있어; YOu're going to be a circus
+* spring chicken; 영계; 봄에만 먹을 수 있는 닭; 젊은이, 풋내기; i am not a spring chicken any longer
+* 거대한 나무늘보가 아니었다면; if not for the giant sloth sloth 미국식 [sloʊθ] 
 * 사랑을 나누는 시간; intimate time; It's time to be intimate(꽁냥)
 * 칼로리를 소모하다; burn 200 calories; count calories; cut calories
 * 안좋은 상황으로 끌어들이다; suck 사람 in
@@ -239,6 +262,17 @@
  * 아빠랑 나는 똑같이 생겼다는 말 많이 들어; I've been told that dad and i look exactly the same
  * throw in: 대화중에 말을 덧붙이다; 
   * 난 그냥 몇 마디만 덧붙여 말했어; i threw in a few comments occasionally
+* 사촌; cousin / first cousin; 6촌; secound cousin 8촌: third cousin
+ * 사촌의 자녀: first cousin once removed; 6촌 자녀; second cousin once removed
+* 보균자; carrier; B형 간염 보균자; My father is a Hep-B-carrier / He's carrying Her-B
+* 검토중인 게 여러개 있어요; There are several important issues on the table
+* 초콜렛 케익으로는 날 매수 할 수 없어; bribe A into B; You can't bribe me with this chocolate cake
+* 모든 재산은 동등하게 상속될 것입니다; ALl the property will be inhertited equally among all heirs  [er]; 에얼
+ * 아빠는 할아버지께 상당한 돈을 물려받았어; My dad inhertied a fortune from a grandfather
+* 엄청난 충격을 받다; be shocked to the core
+ * 뼛속까지 보수파야; He's a conservated to the core
+ * 우리 사회는 속속들이 썩었다; Our society is rotten to the core
+ * 결국 하버드에 합격 못했어; i ended up not making the cut for Harvard
 * 양면 복사 가능하다; This copy machin can copy on both sides
 * 기름기를 닦다; clean the grease; wipe away the excess oil; remove grease
 * 언제 가능해? When works for you?
