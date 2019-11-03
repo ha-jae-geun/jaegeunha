@@ -1,4 +1,11 @@
 # 중요
+* 발목을 삐었따; i sprained/wrenched/twisted my ankle
+* 인대가 늘어났어요; i streched my ligament
+ * 인대가 찢어졌어요; i tore my ligamnemt
+ * 목근육이 삐끗했어요; i've pulled a muscle in my neck
+ * 등 근육이 결렸어요; i've strained my back muscle
+ * 고열이 있어; i have a high/slight fever all over my body
+ * 열이 있어; i'm running a temperature
 * 고자질하다; tattle-tale; tattle teller
  * 그가 갱단의 나머지 사람들을 배신하고 그 돈을 모두 가지고 사라졌다. He double-crossed the rest of the gang and disappeared with all the money. 
  * 툭하면 울다; But I do cry at the drop of a hat.
@@ -119,6 +126,26 @@
  
 
 # 원어민
+* 머리아프다; i'm dizzy
+* 과거, 현재, 미래 특정 기간 동안에; along the way
+ * 그러는 동안 많이 싸웠어요; We've fought a lot along the way
+ * 미래 동안에; down the road
+* 믿기 힘들죠; it's nuts; 대박이네: It's nuts!
+* 영화사에서 진행하는 행사: junket; 호텔 같이 큰 곳을 빌려서 자기 영화를 홍보하기 위해 영화 기자나 평론가 초청해서 시사회 열고 인터뷰하는 생사; 여기에 드는 비용 전부를 영화사에서 내는 행사를 junket
+* 일반 국민의 세금으로 출장을 빙자해 비싸고 불필요한 여행을 간다거나 가족들을 데려갈 때 그 비용을 전부 정부가 낼 떄: junket
+* 너 지난주에 케이트랑 데이트했다는 말이 있던데; THe word on the street is that you had a date with Katie
+* 억울함을 느끼다; feel cheated; 그녀는 갑자기 억울한 감정이 들었따; SHe suddenlt felt cheated
+* 태동; kicks in belly; he kicks inside me
+* 명성이란 순식간에 사라지는 것이지; Fame is fleeting
+* 철저히 따르다; foollow something to the letter; carry out; obey
+* 세상에 영향, 긍정적 충격을 주다; put a dent in the universe
+* -에 대해 이야기하다; speak to 사물; He could not speak to the details of the new plan
+* 너무 많은 도표를 넣지마; DOn't clutter the page iwht too many diagrams
+ * 지저분해서 죄송해요; SOrry about the clutter in the office
+* buy into something
+ * 그 헛소리들을 진짜로 믿는 건 아니지? You don't really buy into all this nonsense, do you?
+* 2층 침대에서 떨어지면 팔 부러져; If you fall from the top bunk, you could break you arm
+* 바람개비; pinwheel; 풍차: windmill; 영국에서는 바람개비
 * 고정관념 갖지 마세요; Stop sterotyping; Think out/outside of the box
  * 고정관념이 있어; i have a streotype about it
  * 고정관념 버려; Get rid of/break the sterotype
