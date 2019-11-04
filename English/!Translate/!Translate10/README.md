@@ -1,4 +1,32 @@
 # 중요
+* 난 길치야; i'm bad with directions
+* 내 첫 월급이야!; My first paycheck!
+* 나는 피임약을 복욕중이야; i'm on birth control pills
+* 쥐죽은듯이 조용하다; silent as the dead; The entire class became dead silent
+* 그래 그럼; 그래요 그럼; 어쩔수 없이 받아들임; Fair enough
+* 물 없이 삼키다; dry swallow; i don't wanna dry swallow these
+* 증거가 다 있어; i have the receipts
+* 내 콩글리쉬 고쳐줘; i want you to correct my broken English
+* 공인 단체에 의해 공식적으로 승인; acredited; Make sure the school is accredited
+* 얼른 수습해; You just fix it
+* 진지하게 말하자면; In all seriousness
+* -라고 해도 무리는 아니야; It's safe to sya (that)' 
+* 불, 전기 등이 꺼지다; go out; 모닥불은 이미 꺼진 상태였따; BOnfire had already gone out
+* outage: 전기,수돗물 끊김; 정전: power outage
+* 언제 찍힌 거에요?(사진); WHen was it taken?
+* 빨리 서둘러서 해줄 수 있나요? Would it be possible to put a rush on it?
+ * 더 좋은 분위기를 위해 음악을 좀 올려놓을 필요가 있어; We need to put on some music for a better vibe
+ * 내가 버는 수입이 점점 줄아들다; My income tapes off
+ * 양 옆은 깎아주시고 위는 길게 남겨주세요; Can you taper off the sideds and leav e the top long?
+* 그것을 반영하지 안핬어; They didn't take it into account
+* 복발을거야; YOu will have a god karma!; 힌두교의 종교적인 의미였지만 여기선 종교적인 의미는 아님
+ * 업보야; 쌤통이야 Karma is a bitch
+* 나 그 사람이 쏘아보는 걸 느꼈어; i feel his stare; i feel like he is staring at me
+* 걔가 날 매섭게 째려봐; He is shooting daggers at me
+* 고막 터지겠따; Your scream is bursting my eardrum; It burst my eardrum
+* 진퇴양난 상황이야; i am between a rock and a hrad place
+ * i felt i was sitting on the hot seat
+* 가까이 붙어; Squeeze in
 * 발목을 삐었따; i sprained/wrenched/twisted my ankle
 * 인대가 늘어났어요; i streched my ligament
  * 인대가 찢어졌어요; i tore my ligamnemt
@@ -126,6 +154,23 @@
  
 
 # 원어민
+* 믹스 커피 잊지마; DOn't forget the instant coffee
+* 껌을 고를게요; i'll pick chewing gum
+* 바닐라 엑기스 한 티스푼이야; One teaspoon of vanilla extract; 천연 
+ * vanila essence: 다른 물질을 섞어서 향을 증폭시킨 물질
+ * 매실엑기스: plum extract
+* 머그잔에 주세요; Can i get it in a mug
+* 난 홀로윈에 좀비 분장할거야; i'll dress up as a zombie for halloween
+* 한계를 초월하다; push the envelope
+ * 비행 한계 고도: Flight envelope
+* 두유: soymilk
+* 청년 취업 프로그램을 시작하도록 초대받았거든요; i was invited to launch a youth employment program
+* 저희 아빠가 응급실에 실려가셨어요; My dad is rushed to the emergency room
+* 저는 더 이상 제정신이 아니었어요; i just wasn't myslef anymore
+* 완전 아수라장이에요; It is a madhouse
+*  넌 고정되어 있어; YOu're pinned 
+* 네가 조금 정신팔려 있었지; YOu've been a little preoccupied 
+* 뜬그름을 잡고있어요; My head is in the clouds
 * 머리아프다; i'm dizzy
 * 과거, 현재, 미래 특정 기간 동안에; along the way
  * 그러는 동안 많이 싸웠어요; We've fought a lot along the way
