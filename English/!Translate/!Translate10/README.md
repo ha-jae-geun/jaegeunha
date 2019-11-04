@@ -1031,6 +1031,23 @@
  * decide: 결론에 도달하다
  * be in line: 맞아 떨어지다; 같은 선상에 있따.
 
+# [기초영어회화] "주말에는 자는게 아까워요."
+* "저는 평일에는 보통 빨리 퇴근하고 집에 가서 자고 싶어요. 
+ * "On weekdays, I usually can't wait to get back home after work and go to bed
+ * go back home: 집에 돌아가다; get back home: 돌아가 있는 상태; 사실상 거의 차이 없음
+* 근데 주말에는 보통 엄청 늦게까지 안자고 있어요.
+ *  But on weekends, I usually stay up really late.
+* 친구들이랑 늦게까지 밖에서 놀 때도 있는데 집에 있을 때도 그냥 자기에는 아깝더라고요.
+ * Sometimes, I stay out late with friends but even when I'm home,  it feels like a waste to just sleep.
+ * a waste: 시간 낭비
+ * stay out late: 늦게까지 밖에 있는 것.
+* 그래서 주말에는 일찍 일어나기도 해요. 
+ *  And that's why I get up early, too on weekends.
+*  아픈거나 그런게 아닌 이상 최대한 일찍 일어나려고 해요."
+ * Unless I'm sick or something,I try to get up as early as I can."
+
+
+
 
 # Dave's Den English- "The Office Boss" (listening practice)
 ```java
