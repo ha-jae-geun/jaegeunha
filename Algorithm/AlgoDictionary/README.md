@@ -614,6 +614,36 @@ public class WaterMelon {
 
 
 # Hashset
+## replace
+```java
+        for (int i = 0; i < clothes.length; i++) {
+            if (hm.containsKey(clothes[i][1]))
+                hm.replace(clothes[i][1], hm.get(clothes[i][1])+1);
+            else
+                hm.put(clothes[i][1], 1);
+        }
+```
+
+## key값 반복
+```java
+		for (String s : hashMap.keySet()) {
+			for (String s2 : hashMap.keySet()) {
+				if (!s.equals(s2) && hashMap.get(s) > hashMap.get(s2)) {
+					hashMap2.replace(s, hashMap2.get(s), hashMap2.get(s)+1);
+				}
+			}
+		}
+```
+
+## value 반복
+* values라는 것이 있음
+```java
+        for(int value : map.values()){
+            //이 문제의 공식은 (n+1)* (k+1) ... -1
+            answer = answer * (value+1);
+        }
+```
+
 ## charat
 ```java
 Set<Character> set = new HashSet<>();
