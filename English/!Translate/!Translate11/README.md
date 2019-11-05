@@ -1,3 +1,31 @@
+
+# 원어민
+* 우린 지금 진짜 문제에 대해 관심을 두고 지켜보는 중이야; we are zeroing in on the real problem here
+* 넌 빈대 붙는 친구 어떻게 다뤄? How do you deal with a mooching frined?
+* 조깅하는 것이 하루를 신선하게 시작하기에 가장 좋은 방법이다. Jogging is the best way to start the day off fresh
+* 네 강아지가 너의 건강한 삶을 이끄는 구나; Your dog is helping you to lead a healthy life
+* 그런 에너지는 어디서 나오니? Where does your energy come from?
+* 나 완전 헛다리 짚고있는 건가? Am i way off base here?
+ * 터무니없는 추측들이야; Those are wild guesses
+* 겉으론 침착해 보입니다; They are cool on the surface
+* 충분히 생각해보지 않았네; You don't this this plan through
+* 임신하다; 저속한 말; SHe got knocked up again
+* 굳이 뭐하러? Why bother?
+* 그를 그룹에 넣지 마세요; DOn't assign him to a group yet
+* 유산소 운동하다; do cardio for 40 minutes and wiehgt training for anther 40 minutes
+* 근육을 탄탄하게 만들어주다; toen the muscles
+* 라벌려 높이뛰기 하다; do 30 jumping jacks every morning
+* 평범한 영화였어; It was just a run-of-the-mill movie
+* 모든 장비는 살균되어야 합니다; Every equipment must be sterilized 국 [stérəlàizd] 
+* 대신 출산해주는 모: surrogate mother; 입양된 경우엔 아이를 낳아준 친어머니: biological mother; birth mother
+ * surrogate father/son/daughter: 대리모와는 다르게 역할을 대신하는 사람
+* 우린 그 거래를 악수로 확정지었다; we sealed the deal with a simple handshake
+* bind: 계약, 법, 약속에 묶여있다
+ * 나는 어디에도 묶여있지 않아요; i'm ot bound to anything
+ * 법적 구속력이 있지; It's binding;  YOu singed this contract
+* 미세먼지가 심하다; The air is filled with yellow dust and fine dust
+* 황사가 심하다; The yellow dust is really bad today
+* 최악의 황사가 온대; It's going to be the worst yellow dust day
 * 달리기를 잘하거나, 움직임이 민첩하다는 뜻이에요. 결단, 반응, 대처 등이 빠르다는 비유적 의미로도 쓸 수 있죠.; 
  ＊ quick on ~’s feet = 발이 빠르다
  * - He’s got fast feet. (O)  - He runs really fast. (O)  - He’s a fast runner. (O)  - His feet are fast. (X)
