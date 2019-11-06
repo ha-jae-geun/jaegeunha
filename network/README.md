@@ -1015,50 +1015,60 @@ SSL 통신과정을 간단하게 도식화 하면 아래와 같다.
 - TCP와 UDP 모두 소켓 프로그래밍이라는 관점에서 같지만, 서버와 클라이언트간 연결과정에서 차이를 보입니다. 일단 socket() 함수를 통해 socket을 생성하고 ip 와 port 를 socket에 bind 하는 작업을 거칩니다. 이후에 TCP에서 서버는 listen() 함수를 호출하여 클라이언트에서
 
 ## TCP 소켓 생성방법
- * 1. 클라이언트
+ 1. 클라이언트
  * 1. socket() 함수를 통해 socket 을 생성합니다. 반환값으로 소켓 지정 번호가 부여됩니다.
  * socket(domain, type, protocol)
  * domain - 소켓 사용영역 (AF_INET, AF_UNIX)
  * type - 소켓 유형 (SOCKET_STREAM - IPPROTO_TCP, SOCKET_DGRAM - IPPROTO_UDP)
  * protocol - 사용할 프로토콜 (IPPROTO_TCP, IPPROTO_UDP)
- * 2. connect() 함수를 통해 연결할 ip 와 port 번호를 지정합니다. 클라이언트에서 connect() 가 ip주소와 port번호를 binding 하는 역할을 하며 커널에 소켓을 등록함으로서 커널이 외부와 통신할 귀를 열어놓게 됩니다.
+ 
+ 2. connect() 함수를 통해 연결할 ip 와 port 번호를 지정합니다. 클라이언트에서 connect() 가 ip주소와 port번호를 binding 하는 역할을 하며 커널에 소켓을 등록함으로서 커널이 외부와 통신할 귀를 열어놓게 됩니다.
  * connect(sockfd, serv_addr, addrlen
  * sockfd - 소켓 지정 번호
  * serv_addr - 연결할 서버에 대한 소켓 주소 구조체
  * addrlen - 구조체 크기
- * 3. read(), write() 함수를 를 통해서 데이터를 주고 받습니다.
+ 
+ 3. read(), write() 함수를 를 통해서 데이터를 주고 받습니다.
  * read(fd, buf, count), write(fd, buf, count)
  * fd - 소켓 지정 번호
  * buf - 데이터를 담거나 담을 버퍼
  * count - 버퍼의 크기
- * 4. 작업이 끝나면 close() 함수를 통해서 연결을 종료합니다.
+ 
+ 4. 작업이 끝나면 close() 함수를 통해서 연결을 종료합니다.
  * close(sockfd)
  * sockfd - 소켓 지정 번호
- * 2. 서버
- * 1. socket() 함수를 통해 socket 을 생성합니다. 반환값으로 소켓 지정 번호가 부여됩니다.
- * 2. socket 에 지정할 ip 와 port 번호를 bind() 함수를 통해 binding 합니다.
+ 
+ 2. 서버
+ 1. socket() 함수를 통해 socket 을 생성합니다. 반환값으로 소켓 지정 번호가 부여됩니다.
+ 2. socket 에 지정할 ip 와 port 번호를 bind() 함수를 통해 binding 합니다.
  * bind(sockfd, addr, addrlen)
  * socked - 소켓 지정 번호
  * addr - 소켓 주소 구조체 (소켓 유형, 연결할 대상의 ip 주소와 port 번호를 가진다.)
  * addrlen - 구조체의 크기
- * 3. listen() 함수를 통해 수신 대기열을 설정하여 여러 클라이언트 요청 저장합니다.
+ 
+ 3. listen() 함수를 통해 수신 대기열을 설정하여 여러 클라이언트 요청 저장합니다.
  * listen(queue_size)
  * queue_size - 수신 대기열 크기
- * 4. accept() 함수를 통해 수신 대기열에 있는 요청을 가져와 연결합니다. 연결이 성공하면 새로운 소켓인 연결 소켓을 생성합니다. 연결 소켓과 듣기 소켓을 따로 구분하는 이유는 동시에 여러 클라이언트의 요청을 처리하기 위함입니다. 만약 소켓이 하나라면 하나의 클라이언트의 요청만 처리할 수 있을 것이기 때문입니다.
+ 
+ 4. accept() 함수를 통해 수신 대기열에 있는 요청을 가져와 연결합니다. 연결이 성공하면 새로운 소켓인 연결 소켓을 생성합니다. 연결 소켓과 듣기 소켓을 따로 구분하는 이유는 동시에 여러 클라이언트의 요청을 처리하기 위함입니다. 만약 소켓이 하나라면 하나의 클라이언트의 요청만 처리할 수 있을 것이기 때문입니다.
  * accept(sockfd, addr, addrlen)
  * sockfd - 듣기 소켓 지정 번호 (socket()을 통해 처음 생성했던 소켓의 지정번호)
  * addr - 새로운 소켓에 바인드할 소켓 주소 구조체
  * addrlen - 구조체의 크기
- * 5. read(), write() 함수를 통해서 데이터를 주고 받습니다.
- * 6. 작업이 끝나면 close() 함수를 통하여 연결을 종료합니다.
- * ## UDP 소켓 생성방법
- * 1. 송신자
- * 1. socket() 함수를 통하여 연결에 사용할 소켓을 생성합니다.
+ 
+ 5. read(), write() 함수를 통해서 데이터를 주고 받습니다.
+ 
+ 6. 작업이 끝나면 close() 함수를 통하여 연결을 종료합니다.
+ 
+ ## UDP 소켓 생성방법
+ 1. 송신자
+ 1. socket() 함수를 통하여 연결에 사용할 소켓을 생성합니다.
  * socket(AF_INET, SOCK_DGRAM, 0);
- * 2. bind() 함수를 통하여 통신할 서버의 ip 주소와 port 번호를 소켓에 binding 합니다.
- * 3. sendto(), recvfrom() 함수를 통하여 데이터를 주고 받습니다. UDP에서는 read() 나 write() 함수를 쓸 수가 없습니다. TCP처럼 연결을 맺지 않기 때문에 데이터를 읽을때마다 누가 보냈는지 확인해야하기 때문입니다.
+ 2. bind() 함수를 통하여 통신할 서버의 ip 주소와 port 번호를 소켓에 binding 합니다.
+ 3. sendto(), recvfrom() 함수를 통하여 데이터를 주고 받습니다. UDP에서는 read() 나 write() 함수를 쓸 수가 없습니다. TCP처럼 연결을 맺지 않기 때문에 데이터를 읽을때마다 누가 보냈는지 확인해야하기 때문입니다.
  * sendto(s, message, msglen, flags, addr, addrlen)
- * s - 소켓 지정 번호
+ 
+ s - 소켓 지정 번호
  * message - 보낼 데이터
  * msgflen - 데이터 크기
  * flags - 전송을 위한 옵션 (대부분 0)
@@ -1071,8 +1081,10 @@ SSL 통신과정을 간단하게 도식화 하면 아래와 같다.
  * flags - 수신을 위한 옵션
  * fromaddr - 소켓 주소 구조체 (소켓 유형, 연결할 대상의 ip 주소와 port 번호를 가진다.)
  * fromlen - 소켓 주소 구조체의 크기
- * 4. 작업이 끝나면 close() 함수를 통하여 작업을 종료합니다.
- * 2. 수신자
+ 
+ 4. 작업이 끝나면 close() 함수를 통하여 작업을 종료합니다.
+ 
+ 2. 수신자
  * 1. socket() 함수를 통하여 연결에 사용할 소켓을 생성합니다.
  * 2. bind() 함수를 통하여 통신할 서버의 ip 주소와 port 번호를 소켓에 binding 합니다.
  * 3. sendto(), recvfrom() 함수를 통하여 데이터를 주고 받습니다.
