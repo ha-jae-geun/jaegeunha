@@ -1,5 +1,23 @@
 
 # 원어민
+* 당연하지: That's a given
+* dldirldml dywjadl doaogo; THe meat of theory is a little vague [veɪɡ] 
+* 우리는 이 문서들을 날짜 순서대로 정리행써; We sorted these documents chronologically by date
+* 우리는 더 이상 이 상황을 얼버무리고 넘어갈 수 없어; WE can no longer gloss over this situation
+ * 그 다큐멘터리는 몇 가지 중요한 사안들을 대강 다루고 넘어강서; The documentary glossed over some timportant issues;
+* come on to: sexua relationship을 갖고 싶다는 걸 드러내며 말하거나 행동할 때;
+ * Whenever paul comes on to me
+ * flirt: 가벼운 스킨십, 눈웃음 등으로 은근히 꼬시는 것
+ * hit on: 좀 더 노골적으로 너 나한테 고나심있다고 말하며 꼬시는 것
+* 총알이 벽을 맞고 튀어나왔다; THe bullets ricocheted off the wall  [ˈrɪkəʃeɪ] 
+ * 공은 골포스트와 골키퍼를 맞고 튕겨서 골라인을 넘어갔다; The ball ricocheted off the post and then the goalie, and crossed the goal line
+* 가석방됐대; He just got parole [pəˈroʊl]; be released on parole
+ * 보석금을 내고 풀려나다; be released on bail
+* 그녀의 사업은 괴상하게 들렸지만; Her business sounded like a wacky idea  [ˈwæki] 
+* 그녀는 분장을 한 채 밖에 나가는 것을 즐겼다; sHE enjoyed going out in disguise  [dɪsˈɡaɪz] 
+* 왜 여기는 칸막이가 하나밖에 없는거야! Why is there only one stall here?
+* 이거 빌린 정장이야; It's a rented tux
+* 남은 하루도 잘 보내세요; Have a good rest of the day
 * 우린 지금 진짜 문제에 대해 관심을 두고 지켜보는 중이야; we are zeroing in on the real problem here
 * 넌 빈대 붙는 친구 어떻게 다뤄? How do you deal with a mooching frined?
 * 조깅하는 것이 하루를 신선하게 시작하기에 가장 좋은 방법이다. Jogging is the best way to start the day off fresh
