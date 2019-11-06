@@ -46,7 +46,7 @@
 * 돌핀 https://m.blog.naver.com/PostList.nhn?blogId=frost9001
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
 * 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
-
+* 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/tree/master/English/!!Test
 
 # 화 0521
 * 나는나; https://m.blog.naver.com/PostList.nhn?blogId=iamanna12
@@ -55,6 +55,7 @@
 * 한국번역연구소 https://blog.naver.com/ktri8888
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
 * 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
+* 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/tree/master/English/!!Test
 
 
 # 수 0522
@@ -64,15 +65,16 @@
 *  출판사 프렉티쿠스  https://blog.naver.com/knowhereman
 *  데이브 http://blog.naver.com/koreanstyl3
 * 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
+* 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/tree/master/English/!!Test
 
 
 # 목 0523
-*  미드 빅뱅 이론 http://blog.naver.com/yjjy0308/221057882496
-*  쏘피 http://blog.naver.com/sofa1015/220909474533
+* 쏘피 http://blog.naver.com/sofa1015/220909474533
 * 블루링크 http://m.post.naver.com/my.nhn?memberNo=566&navigationType=push
   https://blog.naver.com/bluewater_33/221291032449
 * 와이넛북스 https://m.post.naver.com/my.nhn?memberNo=5039741
 * 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
+* 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/tree/master/English/!!Test
 
 # 금 0524
 *  쌤코치의 영어습관 https://blog.naver.com/georage/221320149267
@@ -82,6 +84,7 @@
 * Cage-free https://blog.naver.com/yp2k
 * 넥서스 공시미; https://blog.naver.com/0simiii
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
+* 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/tree/master/English/!!Test
 
 
 # 토 0525
@@ -92,6 +95,7 @@
 * 김일승 https://m.blog.naver.com/PostList.nhn?blogId=kishyun
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
 * 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
+* 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/tree/master/English/!!Test
 
 
 
@@ -102,3 +106,5 @@
 * 오디너리 소피 https://m.blog.naver.com/PostList.nhn?blogId=sofa1015
 * 야나두 https://blog.naver.com/yanadooblog/221323042575
 * 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
+* 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/tree/master/English/!!Test
+
