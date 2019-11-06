@@ -67,6 +67,12 @@ class Solution {
 }
 ```
 
+## 아스키코드
+### 크기 비교
+```java
+str2[j] >= 'a'&&str2[j] <= 'z'
+```
+
 ## char형을 int형으로
 ```java
 number.charAt(i) - '0';
