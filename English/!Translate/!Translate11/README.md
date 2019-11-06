@@ -285,4 +285,22 @@
 *  아픈거나 그런게 아닌 이상 최대한 일찍 일어나려고 해요."
  * Unless I'm sick or something,I try to get up as early as I can."
 
+# [ 영어연습가이드 ] - 수동태 연습
+* 그게 어떤 식이냐면, 너가 일하고 싶은 날 최소 이틀 전까지 앱을 이용해서 근무 신청을 해야 돼.
+ * "The way (that) it works is, you're required to apply for a job at least 2 days prior to the day you want to work using an app.
+ * 진행방식, 절차, 회사의 운영방식: The way it works
+ * -가 필수다; You're required to
+* 그게 제대로 되고 자리가 있다면 하루 전에 근무 배정을 받을거야.
+ * If it's done right and there's a spot available, you'll be assigned with a job 1 day in advance.
+ * 제대로 절차가 밟아지면; If it's done right
+* 당일에 담당할 지역이랑 배달 수량에 대한 정보를 받고
+ *  On the day, you'll be sent some information about the area that you'll be covering and the number of packages you'll be delivering.
+* 그 정보가 확인되면 그쪽 캠프로 오라고 지시를 받고 거기서 마지막으로 화물을 스캔하고 받을거야
+ *  Once that information is confirmed, you'll be asked to come to their camp where your packages will finally be scanned and issued to you
+  * confirm: 이미 사실이라고 된 사실을 확인하는 것
+  * approve: 권한으로 인한 승인
+* 그 시점부터 모든 화물이 7시간 내로 배달지에 도착해야 돼."
+ * From that point on, all packages must be delivered withing 7 hours."
+
+
 
