@@ -41,7 +41,6 @@
 
 # 월; 0520
 * 라이블리 https://m.blog.naver.com/PostList.nhn?blogId=liyu_thirtytwo&currentPage=1
-*  텔라 http://blog.naver.com/PostList.nhn?blogId=tellakor&categoryNo=0&from=postList
 * LEX & Language https://m.blog.naver.com/PostList.nhn?blogId=chillaxer
 * 돌핀 https://m.blog.naver.com/PostList.nhn?blogId=frost9001
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
@@ -77,12 +76,9 @@
 * 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/tree/master/English/!!Test
 
 # 금 0524
+*  텔라 http://blog.naver.com/PostList.nhn?blogId=tellakor&categoryNo=0&from=postList
 *  쌤코치의 영어습관 https://blog.naver.com/georage/221320149267
 *  아미고톡 http://blog.amigotalk.com/
-* dave den https://blog.naver.com/daveenglish 
-* 파이널리스피크 https://blog.naver.com/finallyspeak
-* Cage-free https://blog.naver.com/yp2k
-* 넥서스 공시미; https://blog.naver.com/0simiii
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
 * 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/tree/master/English/!!Test
 
