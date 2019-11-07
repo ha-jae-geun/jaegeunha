@@ -42,29 +42,27 @@
 # 월; 0520
 * 라이블리 https://m.blog.naver.com/PostList.nhn?blogId=liyu_thirtytwo&currentPage=1
 * LEX & Language https://m.blog.naver.com/PostList.nhn?blogId=chillaxer
-* 돌핀 https://m.blog.naver.com/PostList.nhn?blogId=frost9001
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
 * 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
-* 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/tree/master/English/!!Test
+* 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
+* 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/blob/master/English/!!Test/README.md
 
 # 화 0521
 * 나는나; https://m.blog.naver.com/PostList.nhn?blogId=iamanna12
 * YBM https://m.post.naver.com/my.nhn?memberNo=3503094
-* 영어놀이터 https://m.blog.naver.com/PostList.nhn?blogId=epg8307
 * 한국번역연구소 https://blog.naver.com/ktri8888
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
 * 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
-* 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/tree/master/English/!!Test
+* 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/blob/master/English/!!Test/README.md
 
 
 # 수 0522
 * 원스탑에듀 https://m.blog.naver.com/PostList.nhn?blogId=1stopedu
 * 영어 주유소 http://blog.naver.com/tnwlwldu
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
-*  출판사 프렉티쿠스  https://blog.naver.com/knowhereman
 *  데이브 http://blog.naver.com/koreanstyl3
 * 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
-* 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/tree/master/English/!!Test
+* 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/blob/master/English/!!Test/README.md
 
 
 # 목 0523
@@ -73,34 +71,31 @@
   https://blog.naver.com/bluewater_33/221291032449
 * 와이넛북스 https://m.post.naver.com/my.nhn?memberNo=5039741
 * 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
-* 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/tree/master/English/!!Test
+* 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/blob/master/English/!!Test/README.md
 
 # 금 0524
 *  텔라 http://blog.naver.com/PostList.nhn?blogId=tellakor&categoryNo=0&from=postList
 *  쌤코치의 영어습관 https://blog.naver.com/georage/221320149267
 *  아미고톡 http://blog.amigotalk.com/
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
-* 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/tree/master/English/!!Test
+* 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/blob/master/English/!!Test/README.md
 
 
 # 토 0525
 * 약장수 버스터; https://blog.naver.com/pcmi4easy_english
 * 소다영어 https://blog.naver.com/hyeonahmo/221208654665
 * Shall we learn https://blog.naver.com/teacherr10
-* 런어바웃 https://m.post.naver.com/my.nhn?memberNo=41637875
 * 김일승 https://m.blog.naver.com/PostList.nhn?blogId=kishyun
 * 네이버 영어뉴스 https://news.naver.com/main/hotissue/sectionList.nhn?mid=hot&sid1=104&cid=933879
 * 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
-* 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/tree/master/English/!!Test
+* 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/blob/master/English/!!Test/README.md
 
 
 
 # 일 0526
-* 즐겁게 써먹는 영문법 https://m.blog.naver.com/PostList.nhn?blogId=tkfnxh&categoryNo=42&logCode=0&categoryName=즐겁게 써먹는 영문법
-* 바른 영어교육 https://m.blog.naver.com/PostList.nhn?blogId=dearest_jubi
-* 미드영어 공부 https://m.blog.naver.com/PostList.nhn?blogId=pjc425
+* 런어바웃 https://m.post.naver.com/my.nhn?memberNo=41637875
 * 오디너리 소피 https://m.blog.naver.com/PostList.nhn?blogId=sofa1015
 * 야나두 https://blog.naver.com/yanadooblog/221323042575
 * 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
-* 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/tree/master/English/!!Test
+* 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/blob/master/English/!!Test/README.md
 
