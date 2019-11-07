@@ -1,12 +1,19 @@
-# [ 기초영어회화 ] -- 할 기회가 있었다 / 없었다
-* i had a chance to do smoething; 지금은 기회가 없다
-* i got a chance to do something; 기회를 얻었다.
- * got to do something
- * i got a see a lot of amazing things during the trip
-* 기회가 많지 않았을 떄; i didn't get (a chance) to do something very often(much)
-* 전혀 없었을 대: i didn't get any chance to do something
- * 하지만 보통; i didnt really get achance to do any sightseeing; 기회가 전혀 없었어도 이렇게 부드럽게 표현함
- * 상황에 따라 ;i never got a chance to 도 사능
+# [ 일상을 영어로 말하기 ] - 알고보니, 무엇에 문제가 생기다, 생각지도 못하다
+* "며칠 전에 차에 문제가 생겨서 공업소에 가져갔어요. 
+ * "I had a problem with my car the other day so I took it to the mechanics,
+* 저희 동네에 유일한 공업소에요. 
+ *  the only one in my neighborhood.
+* 근데 문을 닫은거예요. 
+ *  But they were closed! 
+* 제가 먼저 전화를 해서 확인을 해야 했던거겠죠?
+ * I guess I should've called first and checked. 
+* 근데 평일 오후였어요!
+ * But it was a weekday afternoon!
+* 영업을 안할 수도 있다는 것은 생각지도 못했어요.
+ * It never occurred to me that they might be closed. 
+ * It never occured to me that smoething might/would happen: 생각지도 못했다.
+* 근데 알고보니 월요일마다 쉬더라고요."
+ *  But it turns out (that) they close every Monday."
  
  # [ 영어표현 ] under the circumstances / in this situation
 * under the circumstances; 지금 상황에서 여러가지를 고려해보면/생각해보면
