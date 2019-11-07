@@ -1,5 +1,18 @@
 
 # 원어민
+* 반절 드리고; do a half bow
+* 말이 그렇다는 거지; It's just a figure of speech
+* 멋대로 굴지마; DOn't act up again
+* 우리끼리만 아는 얘기야; This is just beween the two of us 
+* -은 고사하고; let alone; It's really hard to raise one chile, let aloen two
+* be onto 사람: 그 사람이 저지른 나쁜 행동에 대해 알고 있따; on to도 됨; The police aren't onto us yet
+* string 사람 along: 거짓 희망을 주며 속이다; 오랫동안 누군가를 속이며 거짓 희망을 품게한다
+ * She is stringing me along
+* teem with: 사람이나 동물이 가득찬 것을 의미하거나 생기 넘치고 여러가지 활동으로 가득찬 것:
+ * THe entire city was teeming with tourists
+ =* 콩에서 싹이 나는데는 며칠 밖에 안 걸려; It only takes a few days for beans to sprout
+ * 이상해 보이지 않아 It doesn't seem off
+ * 전형적인 가짜 이름이야; That's a giveaway name
 * 당연하지: That's a given
 * dldirldml dywjadl doaogo; THe meat of theory is a little vague [veɪɡ] 
 * 우리는 이 문서들을 날짜 순서대로 정리행써; We sorted these documents chronologically by date
