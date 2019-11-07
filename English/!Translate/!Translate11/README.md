@@ -267,6 +267,26 @@
  * There are other things too, I guess, but that's what I have trouble with the most."
 
 
+# [ 일상을 영어로 말하기 ] - 알고보니, 무엇에 문제가 생기다, 생각지도 못하다
+* "며칠 전에 차에 문제가 생겨서 공업소에 가져갔어요. 
+ * "I had a problem with my car the other day so I took it to the mechanics,
+* 저희 동네에 유일한 공업소에요. 
+ *  the only one in my neighborhood.
+* 근데 문을 닫은거예요. 
+ *  But they were closed! 
+* 제가 먼저 전화를 해서 확인을 해야 했던거겠죠?
+ * I guess I should've called first and checked. 
+* 근데 평일 오후였어요!
+ * But it was a weekday afternoon!
+* 영업을 안할 수도 있다는 것은 생각지도 못했어요.
+ * It never occurred to me that they might be closed. 
+ * It never occured to me that smoething might/would happen: 생각지도 못했다.
+* 근데 알고보니 월요일마다 쉬더라고요."
+ *  But it turns out (that) they close every Monday."
+   
+
+
+
 # [ 영어회화 / 영어표현 ] be in line with / going forward
 * 제가 전직장을 그만둔 이유는 나쁘거나 그래서 그랬던 것은 아니에요.
  * The reason I quit my last job wasn't because it was bad or anything
