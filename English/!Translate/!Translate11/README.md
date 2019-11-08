@@ -1,5 +1,34 @@
+# 코어
+* Robert; 롸벌트
+* Robot: 롸밧 [ˈroʊbɑːt] 
+
+
 
 # 원어민
+* 살 날이 얼마 남지 않았어; YOur days are numbered
+* 책상 치워야겠어; You should clean off your desk
+* TV 채널좀 바꿔줄래? Can you switch the channel?
+* 그는 스포츠에만 푹 빠져있어요; He's all about sports
+ * 중요한건 돈이야; It's all about money
+* callous: 냉담한 타인에게 연민이 없는, 감정이 무뎌진 
+ * 냉담한 살인자/태도/행동 a callous killer/attitude/act 
+ * 관심이 없다; He is callous about the safety of his workers
+* go into: 어떤 행동을 하기 시작하다
+ * 성에 눈ㅇ르 뜨다; be/become/fell sexually awakend
+* 남의 눈 신경쓰지마; Don't be so self-conscious
+* 콩이 죽처럼 부드러워질 때까지 조리해; cook the beans until they get mushy
+* 캐런은 그를 유혹하는 눈빛으로 쳐다봤다; Caren gave him a seductive look
+* 나는 그녀가 선생님으로 사는 것이 더 나은 것 같아; i think she's better off as a teacher
+* 무릎 꿇다; be/get on one's knees
+ * get down / drop / fall on one's knees
+ * sit on one's knees
+ * pray on one's knees / beg on one's knees 
+* 지금 삼천포로 빠지고 있네요; we're getting on a tangent here [ˈtændʒənt]
+ * 주제에서 벗어나고 있네요; We're going off topic
+ * 주제에서 벗어나다; i digress
+ * 이렇게 딴소리로 빠지게되죠; This is how we get sidetracked
+* 배고파; i'm feeling peckish
+* 백이면 백; Sure enough; 아니나 다를까
 * 반절 드리고; do a half bow
 * 말이 그렇다는 거지; It's just a figure of speech
 * 멋대로 굴지마; DOn't act up again
