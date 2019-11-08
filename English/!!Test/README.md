@@ -1,3 +1,21 @@
+# [ 영어 표현력 ↑UP ] "잘됐다", "좋겠다", "부럽다"
+* 1. 영상에서 소개하는 표현들과 congratulations는 얼마든지 함께 섞어서 말을 해도 자연스럽습니다.
+ * 예) “That’s fantastic! Congratulations! To be honest, I’m a little jealous but I’m really happy for you!”
+* 2. “부럽다"라는 얘기를 할 때 “I envy you.”라는 표현이 가장 먼저 떠오를 수가 있지만 상대방에게 어떤 좋은 일이 생겼다는 얘기를 전해 들은 상황에서는 어울리는 표현이 아닙니다. I envy you 는 상대방이 지니고 있는 능력이나 성향처럼 과거부터 줄곧 이어져 온 것에 대해서 사용하는 표현입니다.
+* 잘됐다
+ * That's great/fantastic + I'm so happy for you / Good for you
+ * Good for you; 잘됐다 상황 뿐만 아니라 성취를 축하할 때도 사용
+ 
+* 좋겠다
+ * That's great
+ * That must be really/so nice
+ * You must be happy; 활용도는 적음; 전반저긴 행복
+ * You must be so/really excited/psyched
+ * You must be really proud
+  * 답변: I've always been proud/ I'm just happy for him 
+* 부럽다
+ * That's great/fantastic + I'm so jealous but good for you
+
 # [ 일상을 영어로 말하기 ] - 알고보니, 무엇에 문제가 생기다, 생각지도 못하다
 * "며칠 전에 차에 문제가 생겨서 공업소에 가져갔어요. 
  * "I had a problem with my car the other day so I took it to the mechanics,
