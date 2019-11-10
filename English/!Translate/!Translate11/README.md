@@ -5,6 +5,25 @@
 
 
 # 원어민
+* 사람 많은 지하철: jam-packed subway
+* 경찰에 신고해야겠어; i should report it to the police
+* 한시름 덜었어요; iT's just a weight off my shoulders
+ * 훌훌 털어버리니까 좋네; i'm glad i got this off my chest
+ * 마음을 편하게 해줄거에요; it will put your mind at ease
+ * 시원섭섭하네;  was bittersweet
+* 가끔 이럴수도 있죠; It's one of those things
+* 낙태 찬성; pro-abortion이 아니라; pro-choice; 라고 한다
+* 배아; embryo  [-brioʊ]  영국식 [ˈembriəʊ] 
+ * 태아; fetus(임신 10주까지)  [fí:təs]
+ * 수축; contraction
+* 동공이 커져싿; His pupils were dilated with fear
+* 곤란한 상황에 있으면; i can help out in a pinch
+* 뱃살; belly pooch  [puːtʃ] 
+* 뉴스에서 극찬하다; tout Senate wins  [taʊt]
+* 진가를 발휘할 때; When/where the rubber hits/meets the road
+* 공평한 경쟁의 잘; a level playing field; 공평한 경쟁의 장일 뽄이야; is a level playing field
+* 입어봐도 되나요? Can it try these on?
+* 유동적인; be in a flux; 계속 변화하는
 * 살 날이 얼마 남지 않았어; YOur days are numbered
 * 책상 치워야겠어; You should clean off your desk
 * TV 채널좀 바꿔줄래? Can you switch the channel?
