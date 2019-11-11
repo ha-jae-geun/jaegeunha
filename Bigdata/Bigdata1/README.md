@@ -1,55 +1,82 @@
-# 머신러닝, 딥러닝 차이
-* 머신러닝: 기계가 자발적으로 판단하는 것이 아니다
-* 머신러닝은 AI를 달성하기 위한 방법
-  * Supervised: * 인간이 준 레이블을 기준으로 학습
-  * Unsupervised: * 인간은 데이터를 분류하지 않는다. 기계로 하여금 엄청난 프로세싱 파워와 데이터를 토대로 학습시키는 것임
-* 딥러닝: 머신러닝을 달성하기 위한 방법
-  * 뇌처럼 작용하는 알고리즘이 있는 Neural Network를 사용한다는 차이; 
-* AI를 위한 가장 유명한 프레임워크: 텐서플로우 혹은 BrainJS
+1. 데이터
 
-## 범위
-* 딥러닝 < 머신러닝 < AI
+ * 공공데이터 포털
+ * https://www.data.go.kr/
+ * 
+ * 서울 열린 데이터 광장 (데이터뿐 아니라 활용갤러리에 가면 다른 프로젝트/시각화 작품 있음)
+ * http://data.seoul.go.kr/
+ * 
+ * SK 빅데이터 허브
+ * https://www.bigdatahub.co.kr/product/list.do?menu_id=1000142
+ * 
+ * KT Big sight
+ * https://bigsight.kt.com/bdip/components/portal/index.html#/portal
+ * 
+ * 카카오 모빌리티 리포트
+ * https://brunch.co.kr/@kakaomobility/19
+ * 
+ * ODPia (트렌드분석, 시장조사)
+ * https://www.odpia.org/main.odpia#
+ * 
+ * Social Metrics(SNS 트렌드)
+ * http://www.some.co.kr/
+ * 
+ * Big Kinds (뉴스)
+ * https://www.bigkinds.or.kr/
+ * 
+ * 소셜 다임
+ * http://www.socialdigm.com/
+ * 
+ 
+ 2. API활용
+ * 
+ * 네이버 데이터랩
+ * https://developers.naver.com/products/datalab/
+ * 
+ * 카카오 공개 API
+ * https://developers.kakao.com/docs
+ * 
+ * T Developer
+ * https://portal.sktiot.com/
+ * 
+ * KT Open APO
+ * https://apilink.kt.co.kr/
+ * 
+ * 구글 트렌드
+ * https://trends.google.co.kr/trends/?geo=KR
 
-## 머신러닝 종류
-* Supervised: 지도 학습(Supervised Learning)은 데이터에 대한 레이블(Label)-명시적인 정답-이 주어진 상태에서 컴퓨터를 학습시키는 방법이다.
-  * 범주형, 연속형
-  * 인간이 준 레이블을 기준으로 학습
-* Unsupervised: 즉, (데이터(data)) 형태로 학습을 진행하는 방법이다. 예를 들어서, 아래와 데이터가 무작위로 분포되어 있을때, 이 데이터를 비슷한 특성을 가진 세가지 부류로 묶는 클러스터링(Clustering) 알고리즘이 있다.  데이터의 숨겨진(Hidden) 특징(Feature)이나 구조를 발견하는데 사용된다.
-  * 군집화
-  * 인간은 데이터를 분류하지 않는다. 기계로 하여금 엄청난 프로세싱 파워와 데이터를 토대로 학습시키는 것임
-* 강화학습: 앞서 살펴본 알고리즘들이 데이터(data)가 주어진 정적인 상태(static environment)에서 학습을 진행하였다면, 강화 학습(Reinforcement Learning)은 에이전트가 주어진 환경(state)에 대해 어떤 행동(action)을 취하고 이로부터 어떤 보상(reward)을 얻으면서 학습을 진행한다. 이때, 에이전트는 보상(reward)을 최대화(maximize)하도록 학습이 진행된다. 즉, 강화학습은 일종의 동적인 상태(dynamic environment)에서 데이터를 수집하는 과정까지 포함되어 있는 알고리즘이다.
-# 빅데이터
-* 연속형 변수(X): 연속형 반응변수(Y): 선형회귀보델
-* 연속형 변수(X): 범주변수(Y): 로지스틱 모형
-* 범주 변수(X): 연속형 반응변수(Y): 분산분석
-* 범주 변수(X):  범주변수(Y): 분할표 분석(하나의 X) 로지스틱 모형 또는 로그 선형 모형(여러개의 Xs)
-* 연속형 변수(X) + 범주 변수(X): 연속형 반응변수(Y): 공분산분석 선형회귀(가변수) 모형
-* 연속형 변수(X) + 범주 변수(X): 연속형 범주변수(Y): 로지스틱 모형
-
-## 정확도
-* 의사결정: 해석 <> 신경망: 정확성
-
-
-
-# 귀무가설, 대립가설
-* 예를 들어 회귀분석의 경우 귀무가설은 "설명변수(x)는 반응변수(y)에 영향을 주지 않는다." 이고 대립가설은 "설명변수(x)는 반응변수(y)에 영향을 준다." 이다. 그래서 편하게 기억하자면,  귀무가설은 차이가 없다, 영향력이 없다, 연관성이 없다, 효과가 없다. 대립가설은 차이가 있다, 영향력이 있다, 연관성이 있다, 효과가 있다. 라고 기억하는 게 편하다.
-* 대립가설(Alternative Hypothesis)은 통계학에서 귀무가설에 대립하여 '모집단에서 독립변수와 결과변수 간에 관련이 있다'라고 기술하는 명제를 말한다. 연구가설 혹은 유지가설이라고도 하며 어떤 가능성에 대해 확률적인 가설검정을 할 때 귀무가설과 함께 사용된다. 이 가설은 귀무가설처럼 검정을 직접 수행하기는 불가능하며 귀무가설을 기각함으로써 받아들여지는 반증의 과정을 거쳐 받아들여질 수 있다. 대립가설은 양측대립가설과 단측대립가설이 있다.
-
-# 파이썬 
-- 클래스 방식은 컴파일러 -> pyc파일 -> 인터프리터; 
-- 함수: 인터프리터 방식
-
-# 빅데이터 과정
-## 파이썬 수집 -> 기본 파이썬
-- 웹 크롤링 -> 스크래핑
-- 데이터 세트
-
-## 파이썬 분석
-- 판다스
-
-## 머신러닝
-* knn 알고리즘, SVM, 의사결정트리, 나이브베이즈, 신경망 알고리즘
-* 크로스 벨리데이스, 그리드 서치, 형태소 분석
-
-## 딥러닝
-* 신경망: 텐서 플로우, 케라스
+3. 지난 공모전 (날짜 / 수상작 확인가능)
+ * 빅콘테스트
+ * http://www.bigcontest.or.kr/
+ * 
+ * 문화 관광 빅데이터 콘테스트
+ * http://www.tourbigdata.kr/award.asp
+ * 
+ * 교통 데이터 활용 공모전
+ * http://data.ex.co.kr/
+ * 
+ * 행안부 공공 빅데이터 활용 우수 사례집
+ * https://www.mois.go.kr/frt/bbs/type001/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000015&nttId=61876
+ * 
+ * 기상청 날씨빅데이터 콘테스트
+ * http://big.kma.go.kr/contest/main.do#
+ * 
+ * 서울시 빅데이터 캠퍼스
+ * https://bigdata.seoul.go.kr/noti/selectPageListNoti.do?r_id=P440
+ * 
+ * 기타
+ * 
+ * 온오프믹스 (공모전, 강연, 세미나 등 )
+ * https://www.onoffmix.com/
+ * 
+ * 
+ * 인프라
+ * 
+ * K-ICT센터 (분석인프라(GPU)대여 가능)
+ * https://kbig.kr/portal/kbig
+ * 
+ * 구글 빅쿼리
+ * https://cloud.google.com/
+ * 
+ * 아마존 AWS
+ * https://aws.amazon.com/ko/
