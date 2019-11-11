@@ -899,40 +899,7 @@ Convoy 효과
 	aging 혹은 그 반대로 만드는 방법
 	큐 이동 순서
 
-```
-
-## Multi Process
-* time sharing
-* 1. 프로세스 복사(fork function -> exec function) 2. 프로세스 생성  
-    ^copy process(fork function -> exec function) 2. create process
-* 단점: 프로세스 간에 정보 교환이 힘들다.
-    ^cons: it's hard to exchange information among processes
-
-## Thread
-* Parallel
-* 프로그렘의 흐름
-* 코드, 데이터, 힙을 공유하고 자기만의 스택 영역이 있다.  
-    ^it shares code, data and heap area. It has own stack area.
-* 스택을 공유하지 않기 때문에 여러개의 스레드가 붙으면 오류가 날 수 있다.
-* Context Switching이 (프로세스는 필요 없음) 이루어져야 하기 때문에 오류가 난다.
-* CPU의 코어가 많지 않으면 스레드를 만드는 개수에 한계가 있다.  
-    ^If the number of cpu's core is not much, there is a limit to make threads
-  - java thread
-    + 1. interface runnable 2. thread
-    + start method
-
-## Multi Thread
-* Contact and switching context cost is cheap
-* 하나의 스레드가 데이터를 망가뜨리면, 다른 스레드에도 영향을 줄 수 있다.  
-    ^If one thread breaks data space, it could affect the rest of threads
-   + Synchronized 
-    - Critical Section
-      + 두 개 이상의 스레드가 동시에 실행되면 정적 변수에 영향을 줄 수 있습니다.  
-          ^if threads more than two are excuted at the same time, it could affect static variable.
-        * Mutual Exclusion; synchronized
-        * Progress
-        * Bounded Waiting
-
+``
 ## Memory structure
 * Data; initialized
   - static variable, global variable
@@ -967,6 +934,7 @@ Convoy 효과
 * SMA(Static Memory Allocation): data, stack   | DMA(Dynamic Memory Allocation): Heap Area
 * 스택과 힙은 반비례 관계이다.  
     ^Stack and heap are in inverse proportion
+```
 
 # 메모리 관리
 * [블로그](https://dailyheumsi.tistory.com/137?category=855210)
