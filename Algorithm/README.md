@@ -109,6 +109,58 @@ public class BubbleTest {
 * 레코드 수가 많고 레코드 크기가 클 경우에 적합하지 않다.
 * https://gmlwjd9405.github.io/2018/05/06/algorithm-insertion-sort.html
 
+
+```java
+public class InsertionSort {
+
+	public static void main(String[] args) {
+
+		int [] arr = {10, 2, 6, 4, 3, 7, 5};
+
+		
+
+		for (int i = 1; i < arr.length; i++) {
+
+			int standard = arr[i];  // 기준
+
+			int aux = i - 1;   // 비교할 대상
+
+			
+
+			while (aux >= 0 && standard < arr[aux]) {
+
+				arr[aux + 1] = arr[aux];   // 비교대상이 큰 경우 오른쪽으로 밀어냄
+
+				aux--;
+
+			}
+
+			arr[aux + 1] = standard;  // 기준값 저장
+
+		}
+
+		printArr(arr);
+
+	}
+
+
+
+	public static void printArr(int[] arr) {
+
+		for (int i = 0; i < arr.length; i++) {
+
+			System.out.print(arr[i] + " ");
+
+		}
+
+	}
+
+}
+
+
+출처: https://marobiana.tistory.com/85 [Take Action]
+```
+
 ## 선택정렬  n2 n2 n2
  * 제자리 정렬(in-place sorting) 알고리즘의 하나
  * 입력 배열(정렬되지 않은 값들) 이외에 다른 추가 메모리를 요구하지 않는 정렬 방법
