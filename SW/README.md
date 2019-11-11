@@ -9,6 +9,11 @@
 - 출력뷰 (입력, 수정, 삭제, 검색 4개)
 
 
+
+
+
+
+
 # 실무용어
 ```java
 SB
@@ -30,10 +35,23 @@ TFT
 
 
 
-### UML 
+
+
+
+
+
+# UML 
 * Grady Booch, James Rumbaugh,  Ivar Jacobson
 * Grady Booch, James Rumbaugh 모두 자신들만의 방법이 있다.
   Grady Booch and Ivar Jacobson have their own ways
+
+
+
+
+
+
+
+
 
 
 # MVC 패턴 웹
