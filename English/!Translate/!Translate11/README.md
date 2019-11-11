@@ -5,6 +5,16 @@
 
 
 # 원어민
+* do a number on: -를 해치다, 함부로 대하다; 철저히 계산하여 속이고 망신하고 비판하며 정신적으로나 육체적으로 안좋은 영향
+ * did your uncle do a number on you
+* comb through: 철저히 찾다
+ * i combed through the entire house
+* 비법이 뭐야? What's your secret?
+* 김이 다 빠졌어; Ginger ale went flat
+* 입 다물어; Put a sock in it
+ * 조용히 해; Pipe down
+ * 할인해 드릴게요; i'll knock 10% off the price
+ * 계산대에 도착했을 떄; When you reach the till
 * 사람 많은 지하철: jam-packed subway
 * 경찰에 신고해야겠어; i should report it to the police
 * 한시름 덜었어요; iT's just a weight off my shoulders
