@@ -5,6 +5,19 @@
 
 
 # 원어민
+* 취미가 뭐야; What do you usually do for fun?
+* 도자기 수업을 듣고 있는데 너무 좋아; i've been taking a pottery class for about a year
+* 이걸 감수하며 살 수 없을 것 같아요; i don't think i  can't live with it
+* 나때는 폴더폰 들고 다녔지; Everyone had a flip phone in my day
+* nickel-and-dime: 누군가가 가지고 있는 돈을 계속해서 빼먹는 것
+ * 야금야금 우려먹고 싶지 않아; we don't wanna nickel and dime our customers
+* 그녀는 졸업 전에 학자금 대출을 간신히 다 갚게 되었따; She managed to pay off all ehr student loans before graduation
+* 하루종일 앉아서 빈둥거리다; sit around all day doing nothing
+ * don't you sit around doing nothing! Move your ass!
+* 전형적인 한국풍이야; THis is quintessentially korean
+* 이해하다; have/get a handle on / get a grip / get hold of / grasp
+ * 새로운 기기를 파악하기 시자했따; i soon began to handle on the new device
+* 그 거짓 정보는 회사에 큰 피해를 주었따; The false information took a toon on the entire company
 * do a number on: -를 해치다, 함부로 대하다; 철저히 계산하여 속이고 망신하고 비판하며 정신적으로나 육체적으로 안좋은 영향
  * did your uncle do a number on you
 * comb through: 철저히 찾다
