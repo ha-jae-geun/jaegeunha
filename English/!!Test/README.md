@@ -1,46 +1,139 @@
-# [ 영어 표현력 ↑UP ] "잘됐다", "좋겠다", "부럽다"
-* 1. 영상에서 소개하는 표현들과 congratulations는 얼마든지 함께 섞어서 말을 해도 자연스럽습니다.
- * 예) “That’s fantastic! Congratulations! To be honest, I’m a little jealous but I’m really happy for you!”
-* 2. “부럽다"라는 얘기를 할 때 “I envy you.”라는 표현이 가장 먼저 떠오를 수가 있지만 상대방에게 어떤 좋은 일이 생겼다는 얘기를 전해 들은 상황에서는 어울리는 표현이 아닙니다. I envy you 는 상대방이 지니고 있는 능력이나 성향처럼 과거부터 줄곧 이어져 온 것에 대해서 사용하는 표현입니다.
-* 잘됐다
- * That's great/fantastic + I'm so happy for you / Good for you
- * Good for you; 잘됐다 상황 뿐만 아니라 성취를 축하할 때도 사용
- 
-* 좋겠다
- * That's great
- * That must be really/so nice
- * You must be happy; 활용도는 적음; 전반저긴 행복
- * You must be so/really excited/psyched
- * You must be really proud
-  * 답변: I've always been proud/ I'm just happy for him 
-* 부럽다
- * That's great/fantastic + I'm so jealous but good for you
+# [ 영어 어휘 ] apply
+* 같은 원리가 다른 기술이나 직업에 적용될 수 있따;
+ * The same principle can be applied to pretty much any skill or profession
+ * 작은 양을 상처에 바르다; Apply just a samll amount on the wound
+  * 로션을 바르다; Apply plenty of lotion
+ * 이 정책은 모든 직원에게 적용이 된다; THis policy applies to all employees
+ * 예왜는 없다; There are no exceptions
 
-# [ 일상을 영어로 말하기 ] - 알고보니, 무엇에 문제가 생기다, 생각지도 못하다
-* "며칠 전에 차에 문제가 생겨서 공업소에 가져갔어요. 
- * "I had a problem with my car the other day so I took it to the mechanics,
-* 저희 동네에 유일한 공업소에요. 
- *  the only one in my neighborhood.
-* 근데 문을 닫은거예요. 
- *  But they were closed! 
-* 제가 먼저 전화를 해서 확인을 해야 했던거겠죠?
- * I guess I should've called first and checked. 
-* 근데 평일 오후였어요!
- * But it was a weekday afternoon!
-* 영업을 안할 수도 있다는 것은 생각지도 못했어요.
- * It never occurred to me that they might be closed. 
- * It never occured to me that smoething might/would happen: 생각지도 못했다.
-* 근데 알고보니 월요일마다 쉬더라고요."
- *  But it turns out (that) they close every Monday."
- 
- # [ 영어표현 ] under the circumstances / in this situation
-* under the circumstances; 지금 상황에서 여러가지를 고려해보면/생각해보면
- * 상황을 영향 짓는 구성 요소들을 보고 하는 것
- * 지금 상황에서는 더 이상 미룰수가 없어요; 그냥 있는 걸로 가야돼요;
-  * Under the circumstances, we can't push it back any further. We just have to go with what we have/got
-* in this situation
- * 구성 요소 들이 결국 만든 상황에 대한 얘기
- * 지금 이 상황부터 어떻게 빨리 해결을 해야 돼요; We have to deal with this situation first
+# [ 일상을 영어로 말하기 ] "선택지를 3개로 좁혔어." ( 기초영어회화 )
+* 내년 7월에 이사 갈거예요, 그때 지금 이 곳 계약이 끝나거든요. 
+ * I'm going to move in July next year because that's when my contract on this place expires.
+ * 월 년도; in july next year; 로도 많이 말한다.
+* 사실은 이미 이사 갈 곳을 찾기 시작했어요. 
+ *  Actually, I've already started looking for a new place.
+ * look for: 찾는 과정
+* 선택지를 3곳으로 좁혔는데요 결정을 내리기 전에 시간을 충분히 가지고 고민을 할거예요 
+ *  I've narrowed my options down to about 3, but I'm really going to take my time before I decide
+- 가장 좋은 결정을 꼭 하고 싶거든요.
+ * because I want to make sure (that) I make the best decision.
+ * make sure: 단순히 내가 어떻게 하고 싶은 내용보다는 어떤 상황이 특정 방식으로 흘러가도록 유도한다는 맥락
+
+# [ 영화자막 오역 교정 ] ft. "Nightcrawler"
+* Why you pursue something is equally as important as what you pursue
+ * 목표가 무엇인지 아는 것도 중요하지만 왜 그 목표를 세웠는지도 중요하다.
+ * A는 B만큼 중요하다; A가 강조되는 문장
+
+
+# (구독자 질문) 영어 뉘앙스 차이 - "내가 왜 그냥 ... 하지 않았을까?"
+* [KOR] : 내가 왜 그냥 ... 하지 않았을까?
+* [ENG] : Why couldn't I have just ... ? // Why didn't I just .. ?
+* 난 왜 산타페에 가지 않았지? WHy didn't i just go to Santa Fe? 결과에 대한 의문
+ * Why couldn't i have just gone to Santa Fe? 난 왜 그냥 산타페로 갈수는 없었던 걸까? 선택을 했던 당시의 상황과 조건에 대한 의문
+ * i could have just gone to Santa Fe; 산타페에 그냥 갈 수도 있었는데..
+
+# [ 기초영어회화 ] -- 하는 사람이 많지 않다
+* 예전만큼 집에서 김치를 만드는 사람들이 많지 않아요.  Not many people make kimchi at home anymore.
+ * anymore: 이전과 달라진 것을 강조한다.
+* 내가 아는 사람들은 대부분이 요즘은 그냥 사먹어요.  Most people that I know, nowadays, just buy kimchi.
+* 앞으로 몇년 후면 사람들이 집에서 김치 만드는 것을 보기가 어려울 것 같아요."
+ * I think, just several years from now, it’s going to be very rare to see people making kimchi at home.
+  * people making Kimch at home: 만드는 현상;  people who make Kimchi at home: 만드는 
+
+# [ 영어 연습가이드 ] as far as—is concerned / the—side of things / in terms of —
+* "친구 몇 명이랑 단편영화를 제작하는 작은 프로젝트를 시작했어요. "Some friends and I have set out on a little project to create a short film.
+* 제 친구 ‘Kenny’가 몇 달 전에 아주 재밌는 이야깃거리를 들려줬는데 그때 시작됐어요.  It all began when my friend Kenny came to me a few months ago with a very interesting idea for a story
+* 그래서 각본에 관해서는 걔가 알아서 할거예요.  So, as far as the writing is concerned, he’s got things covered.
+ * as far as: -에 관해서는; 여러가지 중 한가지에 대해서 말하고 싶을 때
+* 촬영이나 편집과 같은 기술적인 부분은 제가 담당할거고요.  I'll be handling the technical side of things like filming and editing.
+ * technical/finincial/business side of things; -적인 부분; side 앞에 들어갈 단어가 제한적이다.
+* 배우 캐스팅은, 제 친구 한즈한테 다른 친구가 있는데 예전에 영화학교에 다녔어서 그를 통해 배우 지망생들을 만날 수 있을 것 같대요."
+ * In terms of casting actors, my other friend Hans is friends with this other guy who used to go to film school so he thinks he can get in touch with some aspiring actors and actresses through him."
+
+
+# [ 일상을 영어로 말하기 ] 저는 조커 영화를 아직 보기 전입니다
+* 새로 나온 조커 영화를 아직 안봤는데 아주 괜찮다는 것 같아요. 
+ * I haven't seen the new joker movie yet but it sounds like it's really good
+* 얼마나 좋았는지 사람들이 말로 표현을 다 못할 정도인 것 같더라고요. 
+ *  It seems like people are having a hard time expressing how much they love it.
+* 근데 저는 아주 인상적인 또 다른 부분이 뭐냐면 이 훌륭한 영화를 누구의 공으로 생각하는지 대해서 편협한 모습을 보인다는 것이에요 - 
+ * But something else that I've been quite amazed by is how focused we are in terms of who we credit for this great film 
+  * 인상깊다; amazed, impressed
+* 이번 같은 경우에는 주인공을 맡은 배우에 말이죠. 팬으로서, 영화 제작에 얼마 많은 합쳐진 노력이 들어가는지를 생각해야 되는 것 같아요.  
+ *  in this case, the actor who plays the main character. I think, as fans, it's important (for us) to keep in mind how much collective effort goes into creating a film.
+ * collective effort: 여러 사람의 노력
+* 그리고 그렇게 함으로써, 우리 스스로 영화를 더 넓은 수준으로 감상하고 그만큼 더 재밌고 보고 그것에 대해서 이야기할 수 있게 되는 것 같아요.
+ * (And) By doing so, I think we're allowing ourselves to appreciate the movie on a broader level and (just) make it that much more enjoyable to watch and talk about.
+
+
+# [ 기초영어회화 ] "이럴 줄 알았으면 다르게 했을텐데" [ 가정법 ]
+* If i had know something, i would'be / wouldn't ve
+ * 코어: had를 명확하게 발음할 필요가 없다.
+* If i had know there was going to be a rally, (집회), i would've participated / 
+ * I wouldn't have taken the bus; 우드넙
+* 이렇게 차가 많을 줄 알았다면; If i had know there would be this much traffic, i would've left earlier
+ * 추가설명 : If I had known 대신 if I knew 라고 하는 것은 엄밀히 말하자면 틀리지만 실제 회화에서는 사실 괜찮습니다. 아래 링크 중 1시간짜리 영상에서도 예전에 언급을 한 적이 있지만 가정법에서 과거완료의 사용이 점점 줄고 있는 추세입니다 😀
+하지만 상황에 따라서 반드시 과거완료를 써야만 의미전달이 명확히 되는 경우가 있기 때문에 할 줄은 알아야 합니다 😀
+* If i had known about his situation, i wouldn't have talked about money
+
+# 토익
+* within city limits; within a month; within the company
+
+# 코어
+* jalapeño 미국식 [ˌhɑːləˈpeɪnjoʊ] 
+* asprin;  [ˈæsprɪn;ˈæspərɪn] ; 애스 
+* just ;Just 뒤에 오는 단어가 자음으로 시작되면 JUS 라고 발음
+* smog; 스마그
+* exam; 익(꽉 잡고 있다가)잼; executive(익'제커티브), significantly; 씩(꽉잡고)'니fi컨(잡기)리
+* blender: 믹서기  [blend];  단조로운; bland (←blander) 미국·영국 [blænd]   [stɑːk] 
+ * 섞다; blend in
+
+# [ 영어 교정 ] "drama" - 우리가 생각하는 '드라마' 와 약간 다름
+* "저 요즘 드라마를 하나 보고 있어요." 를 영어로 말할 때 "드라마"를 그대로 "drama"라고 하면 안된다. 추가로, "요즘 .... 하고 있다."를 영어로 "These days.... I'm ..ing"라고 하는 것이 의외로 어색하다. 이번 강의를 통해서 어떻게 표현하는 것이 자연스러운지를 배워봅니다.
+ * Lately, i've been watching a (TV) show;  i've been watching Game of Thrones
+ * TV 장르: advertisements, the news, sports games, TV shows(나머지)
+ * drama를 TV 프로그램 장르로 보지 않고 장르 종류임
+* These days는 단순 현재형과 자주 쓰임; 과거와 다른 현재의 모습; These days i'm working with almost 20 other employees
+
+# [ 기초영어회화 ] "30살이 됐다고 멘붕이었던게 어제 같은데.. 내가 벌써 37살이라니.."
+1. 벌써 10월이라니, 새해 계획 세우고 있던게 어제 같은데 
+  * I can't believe it's already October. It feels like it was  only yesterday that I was making my new year plans .
+2. 내가 벌써 37살이라니, 30살 됐다고 멘붕이었던게 어제 일 같은데
+  * i can't believe i'm already 37 years old. It feels like only yesterday that i was freaking out about turning 30
+3. 여기에 벌써 1년 넘게 살고 있다니, 이사 왔다고 신났던게 어제 같은데
+  * I can't believe i've been living here for over a year. It feels like only yesterday that i was excited about moving in
+4. 내가 벌써 이걸 2년 넘게 하고 있다니, 채널 이름을 생각해내려고 하고 있던게 어제 같은데
+  * I can't believe i've been doing this for over 2 years. It feels like only esterday that i was trying to come up with a name for my channel
+
+
+# [ 영어회화 연습가이드 ] - 온라인 결제가 너무 쉬워져서 문제
+* "어제 밤에 인터넷을 돌아다니다가 우연히 필요한 것을 하나 발견했어.  "Last night, I was browsing the Internet and I came across something that I needed. 
+* 적어도 내가 필요하다고 느끼는 것을 발견하고 구입하기로 했어. Well, at least something that I felt that I needed and I decided to buy it.
+* 컴퓨터 프로그램 같은 건데, 자세한건 말해봤자 지루할거라 생략.  It was a kind of computer program. I don't want to bore you with the details.
+* 어쨋든 구매를 하면서 느낀건데, 그 전체 과정이 얼마나 빠르고 쉬운지 놀랍더라고.  Anyway, as I was making the purchase, I was amazed at how quick and easy the whole process was.
+* 정말 클릭 몇 번만으로 구매를 할 수 있었어.  It literally took just a few mouse clicks to make the purchase. 
+* 그게 왜 갑자기 그렇게 크게 와닿았는지는 모르겠어, 온라인으로 뭐 사는 일은 늘 하는건데 말야. I don't know why it suddenly struck me like that because I buy things online all the time.
+* 근데 무슨 이유에서인지 어제 밤에는 너무 쉽다는 것을 느꼈는데 좀 무섭더라."  But, for some reason last night, it kind of scared me when I realized just how easy it was."
+
+# [ 영어 연습가이드 (HARDCORE) ] I Want To Go With Panache!
+* 예전에 학생들이랑 농담으로 하던 얘기가 있는데, I used to joke around with my students about
+ * joke around: 농담하다
+* 나중에 늙어서 더 이상 살아갈 이유가 없다고 느끼는 시점이 온다면 그냥 편히 자다가 죽는 날을 기다리기 보다는 완전히 미친 짓을 할거라고.
+ * how if I ever found myself at a point later in my life where I feel like I have nothing more to live for, instead of just waiting around and wishing for a peaceful death in my bed,
+  * later in my life: 나중에 늙어서;  where: later in my life 수식
+  * i have nothing more to live for: 살 이유가 없다.
+* 예를 들어, 곰이랑 레슬링을 한다던가, 아니면 어쩌면 좀 더 쓸모 있는 걸로? 
+ *  I would go out and do something really crazy like wrestle a bear or perhaps something a little more useful
+* 예를 들어, 연구를 목적으로 깊은 우주로 편도 비행하는 임무에 자원해서 참여를 한다든지 말야. 
+ * like volunteering to participate in a one-way trip into deep space for research purposes.
+* 황당하고 어쩌면 위험하게까지 들린다는 것은 알지만 생각해봐, 
+ *  I know it sounds ridiculous and maybe even a little dangerous but think about it,
+* 죽음에 이르게 될 정도로 extreme하고 위험한 일을 함으로써 얼마나 많은 지식과 insight 를 얻는 데에 기여할 수 있는지를 상상해봐. 
+ *   imagine the kind of knowledge and insight that you can help bring by doing something so extreme and dangerous that it would most likely get you killed
+그렇잖아, 뭔가 굉장히 멋지다는 것은 부인할 수 없어."
+ * Come on, you can't deny that there's something really awesome about that."
+
+
 
 # [ 일상을 영어로 말하기 ] "한 달전에 주문해 놓은게 도착했어. 완전 잊고 있었어."
 * 어제 택배를 하나 (배달) 받았어요. 
