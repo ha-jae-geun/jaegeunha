@@ -1238,8 +1238,6 @@ DNS 서버는 캐시 서버와 콘텐츠 서버로 크게 나눈다.
 * 2. TeamViewer
 
 
-# DNS
-* DNS 값을 IP로 변환 -> Socket(IP, Port) -> IP가 맥주소로 변환 
 
 
 # NAT
@@ -1251,20 +1249,31 @@ DNS 서버는 캐시 서버와 콘텐츠 서버로 크게 나눈다.
     ^it gives personal IP address. So i need a lot of ip addresses
 
 
-# router
-* DHCP, DNS
-
-## wifi
-* DHCP, DNS, switch
 
 ## UNC Route
-* [Network](http://miniyo78.tistory.com/entry/UNC-%EA%B2%BD%EB%A1%9C)
+* UNC 경로는 네트워크상의 공유자원에 연결할 때 사용하는 규칙이다. UNC 경로는 항상 \\Server_name\Share_name 형태로  \\는 데이터가 네트워크에 있다는 것을 의미한다.
+* Server_name에는 연결할 서버의 컴퓨터 이름을 입력해야 하며 Windows Server 2003에서 컴퓨터 이름은 NetBIOS, DNS, IP 형식 등으로 입력할 수 있다.
+* Share_name에는 서버에서 공유하고 있는 공유 폴더의 이름을 입력해야 한다.
+* UNC 경로는 브라우징 기능을 사용할 수 없는 경우나 네트워크 드라이브 연결을 설정할 때 자주 사용된다.
 
-## Netbios
+
+# Netbios
 * 컴퓨터 속성 -> 이름 변경 -> 자세히에서 확인 가능  
     ^Computer properties -> change name -> detail
 * 윈도우에서만 해당  
     ^Only in Window OS
+-  OSI 모형의 세션 계층에 관련된 서비스들을 제공하여 개개의 컴퓨터의 애플리케이션들이 근거리 통신망을 통해 통신할 수 있게 한다. "세션 지향" 의 통신 서비스를 제공한다. 세션 지향은 먼저 두 컴퓨터 사이에서 통신을 확립하고 서로 통신이 가능한 방식.전화처럼 먼저 전화 해 상대에 연결하고 통신하는 형태의 서비스. 일대일 통신이 가능하다.
+- 일반적으로 TCP / IP 네트워크에서 사용하는 기기에 고유한 "IP 주소"를 부여하면 서로 문제없이 통신을 할 수 있습니다. TCP / IP 네트워크에서는 IP 주소만 있으면 이름이 부여되지 않아도 서로 통신을 할 수 있기 때문입니다. 하지만 Windows OS의 경우는 차이점이 있습니다. Windows 네트워크에서는 "NetBIOS (Network BIOS)"라는 기술이 사용되고 있으며, IP 주소보다 "컴퓨터 이름 (정확하게는 NetBIOS 이름)"이 중요한 역할을 하고 있습니다.
+* 컴퓨터 속성 -> 이름 변경 -> 자세히에서 확인 가능  
+    ^Computer properties -> change name -> detail
+* 윈도우에서만 해당  
+    ^Only in Window OS
+
+## 과정
+- 1. 시스템 시작 시 NetBIOS 이름 등록 기능을 사용하여 네트워크에 참여합니다.
+2. NetBIOS 이름을 사용하여 통신 상대를 식별하고 통신 패킷을 보내는 작업을 반복합니다.
+3. 시스템 종료 시 NetBIOS 이름 등록을 삭제하고 네트워크에서 이탈합니다.
+
 
 # 가상 네트워크
 ## Host-Only
@@ -1570,19 +1579,13 @@ DHCP 서버: IP 주소 및 관련 설정 정보를 보유한 DCHP 서버를 작�
 ## Exterior Gateway Protocol (EGP)
 - AS 간 연결하는 라우팅 프로토콜로서 EGP, BGP 등이 있다.
 
+# router
+* DHCP, DNS
 
-# Netbios
--  OSI 모형의 세션 계층에 관련된 서비스들을 제공하여 개개의 컴퓨터의 애플리케이션들이 근거리 통신망을 통해 통신할 수 있게 한다. "세션 지향" 의 통신 서비스를 제공한다. 세션 지향은 먼저 두 컴퓨터 사이에서 통신을 확립하고 서로 통신이 가능한 방식.전화처럼 먼저 전화 해 상대에 연결하고 통신하는 형태의 서비스. 일대일 통신이 가능하다.
-- 일반적으로 TCP / IP 네트워크에서 사용하는 기기에 고유한 "IP 주소"를 부여하면 서로 문제없이 통신을 할 수 있습니다. TCP / IP 네트워크에서는 IP 주소만 있으면 이름이 부여되지 않아도 서로 통신을 할 수 있기 때문입니다. 하지만 Windows OS의 경우는 차이점이 있습니다. Windows 네트워크에서는 "NetBIOS (Network BIOS)"라는 기술이 사용되고 있으며, IP 주소보다 "컴퓨터 이름 (정확하게는 NetBIOS 이름)"이 중요한 역할을 하고 있습니다.
-* 컴퓨터 속성 -> 이름 변경 -> 자세히에서 확인 가능  
-    ^Computer properties -> change name -> detail
-* 윈도우에서만 해당  
-    ^Only in Window OS
+## wifi
+* DHCP, DNS, switch
 
-## 과정
-- 1. 시스템 시작 시 NetBIOS 이름 등록 기능을 사용하여 네트워크에 참여합니다.
-2. NetBIOS 이름을 사용하여 통신 상대를 식별하고 통신 패킷을 보내는 작업을 반복합니다.
-3. 시스템 종료 시 NetBIOS 이름 등록을 삭제하고 네트워크에서 이탈합니다.
+
 
 
 # 인터넷
