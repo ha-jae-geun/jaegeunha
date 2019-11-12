@@ -170,6 +170,36 @@ public class InsertionSort {
  * 선택 정렬은 첫 번째 자료를 두 번째 자료부터 마지막 자료까지 차례대로 비교하여 가장 작은 값을 찾아 첫 번째에 놓고, 두 번째 자료를 세 번째 자료부터 마지막 자료까지와 차례대로 비교하여 그 중 가장 작은 값을 찾아 두 번째 위치에 놓는 과정을 반복하며 정렬을 수행한다.
 * 1회전을 수행하고 나면 가장 작은 값의 자료가 맨 앞에 오게 되므로 그 다음 회전에서는 두 번째 자료를 가지고 비교한다. 마찬가지로 3회전에서는 세 번째 자료를 정렬한다.
  
+
+```java
+ // 선택정렬 
+    public void selectionSort(int[] array) {
+        int size = array.length;
+        int i, j, min;
+        
+        for(i = 0; i < size-1; i++) {
+            min = i;
+            for(j = i+1; j < size; j++) {
+                if(array[j] < array[min]) {
+                    min = j;
+                }
+            }
+            swap(array, min, i);
+            System.out.printf("\nSelectionSort %d 단계 : ", i+1);
+            for(j = 0; j < size; j++) {
+                System.out.printf("%3d", array[j]);
+            }
+        }
+    }
+    
+    public void swap(int[] array, int i, int j) {
+        int temp = array[i];
+        array[i] = array[j];
+        array[j] = temp;
+    }
+
+```
+ 
 ### 과정 설명
  * 주어진 배열 중에서 최솟값을 찾는다.
  * 그 값을 맨 앞에 위치한 값과 교체한다(패스(pass)).
