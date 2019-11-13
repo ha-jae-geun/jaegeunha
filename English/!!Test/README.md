@@ -145,11 +145,17 @@
 * 제가 옷을 자주 사는 편이 아니라서 어제 아침에 도착하기 전까지 완전히 잊고 있었어요.
  * I don't buy clothes very often so I had totally forgotten about it until it arrived yesterday morning.
 
-# [ 기초영어회화 ] 완료시제 연습 - "아직/벌써" + 완료시제
-* 난 이미 그 영화를 두번이나 봤어; ive already seen the movie twice
-* 난 아직 그 영화를 안봤어; i haven't seen the movie yet
-* 그 제품을 아직 공식적으로 발표하지 않았어; THey haven't officially announced the product yet
-* 대부분의 정보가 유출되었어; Most of the information has already been leaked
+[ 영어 필수 표현 ] "모르는 번호", "잘못 걸려온 전화", "전화 올 데가 없다"
+* "아까 모르는 번호로 전화가 왔는데 전화 올 데도 없었고
+ * "Earlier today, I got a phone call from a number that I didn't recognize.
+*  요즘은 꾸준히 연락 주고 받는 사람도 없어서 모르는 번호는 대부분이 잘못 걸려온 것 아니면
+ *  So I wasn't going to answer it at first because I wasn't expecting any calls and I hardly keep in regular touch with anybody these days
+*  텔레마케팅이라서 처음에는 안받으려고 했다가 이번에는 그냥 받았는데 그러길 잘했어.   
+ *  so most numbers that I don't recognize are usually either wrong numbers or sales calls But I just decided to answer it this time
+* 우체국에서 내 주소를 확인하려고 전화가 온거였어. 
+ *  and I'm really glad that I did because it was the post office calling to confirm my address
+* 나한테 보낼 소포가 있는데 무슨 이유에서인지 주소가 잘못 입력이 됐던 모양이야."
+ * because they had a package for me and, apparently, my address wasn't properly filled out for some reason."
 
 # 영어회화 표현 - "내 기억이 맞다면"
 * "이걸 거의 1년 전에 샀어요.
