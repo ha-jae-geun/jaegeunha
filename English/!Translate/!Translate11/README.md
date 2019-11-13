@@ -2,6 +2,8 @@
 * Robert; 롸벌트
 * Robot: 롸밧 [ˈroʊbɑːt] 
 * cafe 미국식 [kæˈfeɪ]  영국식 [ˈkæfeɪ] 
+* arabic; Arabic 미국·영국 [ˈærəbɪk]; air빅
+* saudi arabia; 사우디 어뤠이비아
 
 
 # 원어민
