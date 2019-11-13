@@ -154,13 +154,18 @@ lists.add(1);
 
 ## hashmap
 * O(1)
+* key 값을 중복이 불가능 하고 value는 중복이 가능. value에 null값도 사용 가능하다.
+
 
 ## Treemap
 * O(logn) 성능을 보인다.
 * TreeMap은 SortedMap 인터페이스를 구현하고 있어 Key 값을 기준으로 정렬이 되어 있는데, 이는 Comparator를 구현하여 정렬 순서를 변경할 수 있다.
 
 
-출처: https://tomining.tistory.com/168 [마이너의 일상]
+## LinkedHashMap
+* doulbly-linked list로 저장됨(linked-list 자료구조로 저장된다는 거군요.)
+* linked-list므로 당연하게도, 넣은 순서대로 빠져나옵니다.
+* HashMap과 마찬가지로 다중쓰레드 사용시에 synchronized가 되지 않습니다.
 
 
 ## OOP 설계 원칙(SOLID)
