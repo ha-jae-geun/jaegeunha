@@ -5,6 +5,15 @@
 
 
 # 원어민
+* sketch: 꽁트; The sketch about celebrity chefs was really funny
+* 걔는 멀리해; 피해; Steer clear of him
+* 짜증나다; i'm cross with you
+* tease out: 숨겨진 정보 알아내기, 점차적으로 어려운 정보 알아내는 것 의미
+ * 기어이 알아냈어; Patrick managed to tease out some details from Sandy
+* write someone off: 무시하다, 제외하다; We will write him off as he usually takes too much risk
+ * write debt off: 빚을 탕감해주다; I'm gonna write off the debt
+* 제 기억력이 그렇게 좋지 않아요; My memory ain't so great
+ * 기억을 되살려 드릴게요; Let me refresh your memory
 * 취미가 뭐야; What do you usually do for fun?
 * 도자기 수업을 듣고 있는데 너무 좋아; i've been taking a pottery class for about a year
 * 이걸 감수하며 살 수 없을 것 같아요; i don't think i  can't live with it
@@ -423,4 +432,16 @@
   * 답변: I've always been proud/ I'm just happy for him 
 * 부럽다
  * That's great/fantastic + I'm so jealous but good for you
+
+[ 영어 필수 표현 ] "모르는 번호", "잘못 걸려온 전화", "전화 올 데가 없다"
+* "아까 모르는 번호로 전화가 왔는데 전화 올 데도 없었고
+ * "Earlier today, I got a phone call from a number that I didn't recognize.
+*  요즘은 꾸준히 연락 주고 받는 사람도 없어서 모르는 번호는 대부분이 잘못 걸려온 것 아니면
+ *  So I wasn't going to answer it at first because I wasn't expecting any calls and I hardly keep in regular touch with anybody these days
+*  텔레마케팅이라서 처음에는 안받으려고 했다가 이번에는 그냥 받았는데 그러길 잘했어.   
+ *  so most numbers that I don't recognize are usually either wrong numbers or sales calls But I just decided to answer it this time
+* 우체국에서 내 주소를 확인하려고 전화가 온거였어. 
+ *  and I'm really glad that I did because it was the post office calling to confirm my address
+* 나한테 보낼 소포가 있는데 무슨 이유에서인지 주소가 잘못 입력이 됐던 모양이야."
+ * because they had a package for me and, apparently, my address wasn't properly filled out for some reason."
 
