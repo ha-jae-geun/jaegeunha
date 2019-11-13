@@ -1,7 +1,7 @@
 # 코어
 * Robert; 롸벌트
 * Robot: 롸밧 [ˈroʊbɑːt] 
-
+* cafe 미국식 [kæˈfeɪ]  영국식 [ˈkæfeɪ] 
 
 
 # 원어민
@@ -365,7 +365,24 @@
  *  But it turns out (that) they close every Monday."
    
 
+# [ 기초영어회화 ] 겨우 / 간신히 / - 할 뻔하다
+```java
+1. barely : 간신히/겨우 
+I barely got up this morning. 
+I barely made it to work on time
+ make it to 어디: 어디에 제시간에 도착하다.
+ 
+두 번쨰 시험에서 겨우 합격했어; i baely paased the exam the second time
 
+2. almost couldn't do sth : 거의 ~ 못할 뻔 했어
+I almost couldn't get up this morning.
+I almost couldn't make it to work on time.
+
+떨어질 뻔했어:: i almost failed the exam the second time
+
+-에 늦다; be late to; i was late to class.
+ 늦을뻔했어; i was almost late to the meeting today. 
+```
 
 # [ 영어회화 / 영어표현 ] be in line with / going forward
 * 제가 전직장을 그만둔 이유는 나쁘거나 그래서 그랬던 것은 아니에요.
