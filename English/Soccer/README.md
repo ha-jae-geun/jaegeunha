@@ -8,6 +8,7 @@
 * 부상: PRICE: Protection, Rest, Ice(냉찜질 10분씩, 이틀 후 온찜질이랑 같이), Compression(심장에서 먼곳부터), Elevate
 
 # 원어민
+* 완전히 봉쇄하다; have somebody in your pocket
 * 크로스: floats in the box / puts in the box
 * 헤딩: header, heads it 
   * 제공권이 좋다; THat player is great/good in the air
