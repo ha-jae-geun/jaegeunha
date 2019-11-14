@@ -216,16 +216,17 @@ public class InsertionSort {
 * 즉, 값이 같은 레코드가 있는 경우에 상대적인 위치가 변경될 수 있다.
 * https://gmlwjd9405.github.io/2018/05/06/algorithm-selection-sort.html
 
-## 퀵 정렬  nlogn, nlogn n2
+# 퀵 정렬  nlogn, nlogn n2
 * 분할 정복 알고리즘의 하나로, 평균적으로 매우 빠른 수행 속도를 자랑하는 정렬 방법
 * 합병 정렬(merge sort)과 달리 퀵 정렬은 리스트를 비균등하게 분할한다.
 
- - 장점
+ ## 장점
  * 속도가 빠르다.
  * 시간 복잡도가 O(nlog₂n)를 가지는 다른 정렬 알고리즘과 비교했을 때도 가장 빠르다.
  * 추가 메모리 공간을 필요로 하지 않는다.
  * 퀵 정렬은 O(log n)만큼의 메모리를 필요로 한다.
- - 단점
+ 
+ ## 단점
  * 정렬된 리스트에 대해서는 퀵 정렬의 불균형 분할에 의해 오히려 수행시간이 더 많이 걸린다.
  * 퀵 정렬의 불균형 분할을 방지하기 위하여 피벗을 선택할 때 더욱 리스트를 균등하게 분할할 수 있는 데이터를 선택한다.
  * EX) 리스트 내의 몇 개의 데이터 중에서 크기순으로 중간 값(medium)을 피벗으로 선택한다.
@@ -245,18 +246,45 @@ public class InsertionSort {
  * 순환 호출이 한번 진행될 때마다 최소한 하나의 원소(피벗)는 최종적으로 위치가 정해지므로, 이 알고리즘은 반드시 끝난다는 것을 보장할 수 있다.
  * https://gmlwjd9405.github.io/2018/05/10/algorithm-quick-sort.html
 
-### 퀵 정렬 단계
+```java
+public class Quick {
+    
+    public void sort(int[] data, int l, int r){
+        int left = l;
+        int right = r;
+        int pivot = data[(l+r)/2];
+        
+        do{
+            while(data[left] < pivot) left++;
+            while(data[right] > pivot) right--;
+            if(left <= right){    
+                int temp = data[left];
+                data[left] = data[right];
+                data[right] = temp;
+                left++;
+                right--;
+            }
+        }while (left <= right);
+        
+        if(l < right) sort(data, l, right);
+        if(r > left) sort(data, left, r);
+    }
+    
+    public static void main(String[] args) {
+        
+        int data[] = {66, 10, 1, 34, 5, -10};
+        
+        Quick quick = new Quick();
+        quick.sort(data, 0, data.length - 1);
+        for(int i=0; i<data.length; i++){
+            System.out.println("data["+i+"] : "+data[i]);
+        }
+    }
+}
 
 
-### 장점
-* 속도가 빠르다.
-* 시간 복잡도가 O(nlog₂n)를 가지는 다른 정렬 알고리즘과 비교했을 때도 가장 빠르다.
-* 추가 메모리 공간을 필요로 하지 않는다.
-* 퀵 정렬은 O(log n)만큼의 메모리를 필요로 한다.
-
-### 단점
-* 정렬된 리스트에 대해서는 퀵 정렬의 불균형 분할에 의해 오히려 수행시간이 더 많이 걸린다.
-* https://gmlwjd9405.github.io/2018/05/10/algorithm-quick-sort.html
+출처: https://hahahoho5915.tistory.com/9 [넌 잘하고 있어]
+```
 
 ## 힙 정렬  nlogn nlogn nlogn
  * - 사실 선택 정렬과 거의 같은 알고리즘으로. 단지 가장 큰 원소를 뒤로 보내는 데에 단순히 매번 쭉 돌면서 알아내느냐 힙을 사용하여 알아내느냐가 유일한 차이점이다.
