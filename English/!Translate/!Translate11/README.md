@@ -7,6 +7,14 @@
 
 
 # 원어민
+* 압박감도 심하고 우울해; i feel overwhelmed and depressed
+* 비통해; He was broken-hearted when my wife died
+* 우리 스케줄이 빡빡해; We're on a tight schedule; we're on a tight budget
+* 맞춤 제작한거야; THis suit was made by a bespoke tailor; bespoke shoes
+ * 보여주다, 나타내다; His polite manners bespoke the gentlema
+* 이 작업 견적은 얼마죠? What's your quote for this work?
+* 복불복이야; is really hit-and-miss
+* 명령하는거야; i'm giving you an order
 * sketch: 꽁트; The sketch about celebrity chefs was really funny
 * 걔는 멀리해; 피해; Steer clear of him
 * 짜증나다; i'm cross with you
