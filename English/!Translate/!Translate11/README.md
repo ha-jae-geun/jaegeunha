@@ -460,7 +460,7 @@ I almost couldn't make it to work on time.
 * 부럽다
  * That's great/fantastic + I'm so jealous but good for you
 
-[ 영어 필수 표현 ] "모르는 번호", "잘못 걸려온 전화", "전화 올 데가 없다"
+# [ 영어 필수 표현 ] "모르는 번호", "잘못 걸려온 전화", "전화 올 데가 없다"
 * "아까 모르는 번호로 전화가 왔는데 전화 올 데도 없었고
  * "Earlier today, I got a phone call from a number that I didn't recognize.
 *  요즘은 꾸준히 연락 주고 받는 사람도 없어서 모르는 번호는 대부분이 잘못 걸려온 것 아니면
@@ -472,3 +472,16 @@ I almost couldn't make it to work on time.
 * 나한테 보낼 소포가 있는데 무슨 이유에서인지 주소가 잘못 입력이 됐던 모양이야."
  * because they had a package for me and, apparently, my address wasn't properly filled out for some reason."
 
+# "take", "involve", "require" - 문맥 속에서 적절한 어휘 활용 배우기
+* 학생들을 가르치는 일에서 책상에서 주로 하는 업무로 가는게 큰 변화였죠
+ * it was a pretty big transition to go from teaching students to working mostly at a desk
+* take : 어떤 일을 할 때 이용되는 것(연료); 소모되는 것
+  *        take time/effort/patience
+  * 적응하는데 시간이 많이 걸렸따; It took a lot of getting used to
+   * It took a lot of effort/passion
+* involve : 어떤 일을 할 때 수반되는 것
+ * 동료들과 협력해야 하는 일이 훨씬 많아서 
+  * It involved so much more collaborative work with coworkes
+* require : 어떤 일을 하기 위해 필요한 것
+ * 사회성을 많이 길러야 했따; 없으면 뭘 하지 못하는
+  * It required me to be a lot more social than what i was used to.
