@@ -1,4 +1,5 @@
 # 중요
+* 10분 차이로 태어나다; be born with just 10 minutes apart
 * 난 길치야; i'm bad with directions
 * 내 첫 월급이야!; My first paycheck!
 * 나는 피임약을 복욕중이야; i'm on birth control pills
@@ -154,6 +155,32 @@
  
 
 # 원어민
+* 허점을 발견했다; He found a loophole in the tax system
+* 수감자가 탈옥하려고 벽을 탔다; An inmate tried to climb the wall to escape the prison [ˈɪnmeɪt] 
+* fade into the background: 사라지다, 희미해지다; Models fade into the background
+* 우리는 항의 편지 폭탄을 맞고 있따; We have been bombarded with letters of compalint [bɑːmˈbɑːrd]
+* 외줄타기를 하다; walk/tread a fine/thin line
+ * He was waling a fine line
+* 재난, 참사를 부르는 행동; a recipe for disaster
+* keep 목적어 at/to a minimum
+ * 저희는 비용을 최소화하고 싶습니다; We want to keep our costs at/to a minimum
+* the dark underbelly: 비판받기 어두운 면
+ * soft underbelly of: 취약점, 급소
+* 여기저기 퍼져있따; be all over the place
+ * 통일성, 일관성이 없어서 엉망이다; This essay is all over the place
+* -가 관건이다; It really comes down to how much time you have you have on your hands
+* rouge; 악당; go rogue: 독단 행동을 하다  [roʊɡ]
+* pump out something: 대량생산하다; crap films
+* blow something out of proportion: 과장하다
+ * 그의 봉급은 실제 일에 비해 높다; Their salary is way out of proportion to the actual work
+ * 부풀려 말한다; He tends to blow everything out of proportion
+* 이해 못하다; get a handle; can't get a handle on this whole thing
+* 죄책감에 휩싸였따; was consumbed by guilt; consumed by envy
+* 생산량을 증가시키다; ramp up production
+* 완전히 망하다; go belly-up; 물고기가 죽으면 배를 깐다; Business went belly-up
+* 괜찮은 농담이네요; Good one;; That wasa good one; 반어법도 가능
+* 잘 못견디고 있어; i'm not coping too well; 목적어 필요 없음
+ * deal with the mess; 목적어 필요
 * 믹스 커피 잊지마; DOn't forget the instant coffee
 * 껌을 고를게요; i'll pick chewing gum
 * 바닐라 엑기스 한 티스푼이야; One teaspoon of vanilla extract; 천연 
@@ -756,6 +783,7 @@
 * within city limits; within a month; within the company
 
 # 코어
+* cook, book; 읔 
 * jalapeño 미국식 [ˌhɑːləˈpeɪnjoʊ] 
 * asprin;  [ˈæsprɪn;ˈæspərɪn] ; 애스 
 * just ;Just 뒤에 오는 단어가 자음으로 시작되면 JUS 라고 발음
