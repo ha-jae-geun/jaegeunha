@@ -4,6 +4,8 @@
 * cafe 미국식 [kæˈfeɪ]  영국식 [ˈkæfeɪ] 
 * arabic; Arabic 미국·영국 [ˈærəbɪk]; air빅
 * saudi arabia; 사우디 어뤠이비아
+* interested in; 인-츄뤄스-띠린
+* politics; 팔러틱스
 
 
 # 원어민
