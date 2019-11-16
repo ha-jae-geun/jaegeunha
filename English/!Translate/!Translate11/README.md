@@ -9,6 +9,7 @@
 
 
 # 원어민
+* 여기 어울리지 않아요; i don't fit in here
 * 압박감도 심하고 우울해; i feel overwhelmed and depressed
 * 비통해; He was broken-hearted when my wife died
 * 우리 스케줄이 빡빡해; We're on a tight schedule; we're on a tight budget
