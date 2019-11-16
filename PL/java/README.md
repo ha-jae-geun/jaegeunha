@@ -1,5 +1,48 @@
 # JAVA
 
+# 인자
+* 5개 이상 인자를 받을 때 오류가 난다는 논문
+
+# Call by Value
+* 결론부터 말하자면 java는 항상 call by value이다. 흔히 java의 오해를 살 수 있는 부분을 살펴보자.
+* call by reference가 아닌 또다른 이유는 자바에서는 객체의 주소를 가져오는 방법이 없다. 만약 call by reference 지원한다면 주소를 가져오는 방법을 지원해야 할 것인데 말이다.
+```java
+public class CallByValue {
+
+  public static void main(String[] args) {
+    Person p = new Person("wonwoo");
+    System.out.println("p.name: " + p.name);
+    callByValue(p);
+    System.out.println("p.name: " + p.name);
+  }
+
+  public static void callByValue(Person p) {
+    p = new Person("kevin");
+  }
+}
+
+class Person  {
+  String name;
+
+  public Person(String name) {
+    this.name = name;
+  }
+}
+
+callByValue 메서드부분만 바뀌었다. callByValue 메서드를 보면 이름을 kevin으로 다시 생성해서 할당한다. 만약 자바가 call by reference라면 아까와 동일하게 출력 되어야만 한다. 하지만 이 코드를 출력해보면 다음과 같다.
+
+p.name: wonwoo
+p.name: wonwoo
+```
+
+# ArrayList, LInkedList 차이
+## 데이터의 검색, 삽입, 삭제시 성능 비교
+### 검색
+* 데이터 검색 시에는 ArrayList는 LinkedList에 비해 굉장히 빠르다. ArrayList는 인덱스 기반의 자료 구조이며 get(int index) 를 통해 O(1) 의 시간 복잡도를 가진다. 그에 비해 LinkedList는 검색 시 모든 요소를 탐색해야 하기 때문에 최악의 경우에는 O(N)의 시간 복잡도를 가진다.
+
+### 삽입, 삭제
+* LinkedList에서의 데이터의 삽입, 삭제 시에는 ArrayList와 비교해 굉장히 빠른데, LinkedList는 이전 노드와 다음 노드를 참조하는 상태만 변경하면 되기 때문이다. 삽입, 삭제가 일어날 때 O(1)의 시작 복잡도를 가진다. 반면 ArrayList의 경우 삽입, 삭제 이후 다른 데이터를 복사해야 하기 때문에 최악의 경우 O(N) 의 성능을 내게 된다.
+
 # Hashmap, Hashtable, TreeMap, LinkedHashmap
 * Hashmap: 키나 값에 null값 가능, thread safe 하지 않음; Hashtable 반대
 
