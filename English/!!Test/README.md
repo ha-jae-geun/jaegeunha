@@ -19,11 +19,6 @@
  * because I want to make sure (that) I make the best decision.
  * make sure: 단순히 내가 어떻게 하고 싶은 내용보다는 어떤 상황이 특정 방식으로 흘러가도록 유도한다는 맥락
 
-# [ 영화자막 오역 교정 ] ft. "Nightcrawler"
-* Why you pursue something is equally as important as what you pursue
- * 목표가 무엇인지 아는 것도 중요하지만 왜 그 목표를 세웠는지도 중요하다.
- * A는 B만큼 중요하다; A가 강조되는 문장
-
 
 # (구독자 질문) 영어 뉘앙스 차이 - "내가 왜 그냥 ... 하지 않았을까?"
 * [KOR] : 내가 왜 그냥 ... 하지 않았을까?
@@ -76,8 +71,6 @@
 하지만 상황에 따라서 반드시 과거완료를 써야만 의미전달이 명확히 되는 경우가 있기 때문에 할 줄은 알아야 합니다 😀
 * If i had known about his situation, i wouldn't have talked about money
 
-# 토익
-* within city limits; within a month; within the company
 
 # 코어
 * jalapeño 미국식 [ˌhɑːləˈpeɪnjoʊ] 
