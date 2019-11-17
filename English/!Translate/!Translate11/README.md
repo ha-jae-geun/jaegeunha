@@ -474,6 +474,10 @@ I almost couldn't make it to work on time.
 * 부럽다
  * That's great/fantastic + I'm so jealous but good for you
 
+# [ 생활 기초 영어어휘 ] carry - 가지고 다니다 / 들고 다니다 / 넣고 다니다
+* i usually carry my phone in my pocket
+* sometimes, i carry it in my hand
+
 # [ 영어 필수 표현 ] "모르는 번호", "잘못 걸려온 전화", "전화 올 데가 없다"
 * "아까 모르는 번호로 전화가 왔는데 전화 올 데도 없었고
  * "Earlier today, I got a phone call from a number that I didn't recognize.
