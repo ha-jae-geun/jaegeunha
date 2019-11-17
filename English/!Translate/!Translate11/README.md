@@ -9,6 +9,17 @@
 
 
 # 원어민
+* 난 살아남을거야; i'll make it out alive
+* 그게 우릴 불안하게 만들었죠; It made us restless
+* take the heat 1. 잘못을 인정하다 2. 반감, 좋지 않은 시선을 감내하다
+ * 우린 부담을 견디지 못했어; We couldn't take the heat
+* 킹스맨의 자질; The makings of a Kingsman
+ * 그 사람은 좋은 리더가 될 자질을 갖췄어; SHe has the makings of a great leader
+* 똑바로 행동해; behave yourself
+* burst into 장소: -에 들이닥치다  burst into: 갑자기 -를 하다
+ * The CEO burst in
+ * 웃음을 터뜨리다; Helen suddenly burst into laughter
+* elevate/life one's spirit
 * 여기 어울리지 않아요; i don't fit in here
 * 압박감도 심하고 우울해; i feel overwhelmed and depressed
 * 비통해; He was broken-hearted when my wife died
