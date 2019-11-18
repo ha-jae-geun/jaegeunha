@@ -9,6 +9,10 @@
 
 
 # 원어민
+* 전형적인; quintessential [kwìntəsénʃəl]  + 명사
+* 뼈밖에 안보인다; skinny; thin 이나 slim 사용
+* 부수적 피해 줄여야 해; we should minimize a collateral damage
+* 어떤 투자든 위험이 따릅니다; Any investment entails certain risks
 * 난 살아남을거야; i'll make it out alive
 * 그게 우릴 불안하게 만들었죠; It made us restless
 * take the heat 1. 잘못을 인정하다 2. 반감, 좋지 않은 시선을 감내하다
