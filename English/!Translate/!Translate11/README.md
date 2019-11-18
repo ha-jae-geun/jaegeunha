@@ -507,3 +507,48 @@ I almost couldn't make it to work on time.
 * require : 어떤 일을 하기 위해 필요한 것
  * 사회성을 많이 길러야 했따; 없으면 뭘 하지 못하는
   * It required me to be a lot more social than what i was used to.
+  
+# 외국인이 자주쓰는 10가지
+```java
+• rip off
+1. 바가지 썼다.
+2. 떼다 detach의 의미
+
+Rip off the band aid. 
+하기 싫은 일을 하다.
+Grin and bear it
+Bite the bullet 울며 겨자먹기
+
+「상표명을 명사로 쓰는 경우
+Band aid(밴드) kleenex(티슈) xerox(복사) google(구글링하다)
+Tupperware(한국식으로 하면 락앤락, 이건 제 추천) 」
+
+• going to live with
+(체념한 투로) 이대로 살아야할듯
+
+• don't get your hopes up 
+기대 ㄴㄴ
+
+• smell sth on one's breath
+그 사람 sth 냄새 남
+
+• you really blew it this time
+이번에 정말 거하게 말아먹었네
+
+• what's gotten into sb?
+쟤 뭐 신들림? → 쟤 왜 저럼?
+Unlike sb와 같아요!
+
+• back sb up/had sb's back
+지지해주다
+
+• look over one's shoulder
+감시하다
+
+• why don't you sleep on it?
+하룻밤 생각 해보는게 어떠실지?
+
+• come to one's senses
+정신 챙기다
+
+```
