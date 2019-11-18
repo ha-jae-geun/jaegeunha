@@ -48,11 +48,78 @@ TFT
 
 
 
+# 프록시 패턴
+* 프록시는 다른 객체에 대한 접근을 제어하는 객체이다
+* 다른 객체를 대상(subject)라고 한다.
+* 프록시와 대상은 동일한 인터페이스를 가지고 있으며 이를 통해 다른 인터페이스와 완전히 호환되도록 바꿀 수 있다.
+* 프록시는 대상에서 실행될 작업의 전부 또는 일부를 가로채서 해당 동작을 행상시키거나 보완한다.
+* 프록시는 각 작업을 대상으로 전달하여 추가적인 전처리 또는 후처리로 동작을 향상 시킨다.
 
 
+## 프록시 사용
+```java
+프록시(Proxy)
+프록시는 아래와 같은 형태로 실전에서 사용이 가능하다.
 
+데이터 유효성 검사
+프록시가 입력을 대상으로 전달하고 유효성을 검사한다.
 
+보안
+프록시는 클라이언트가 작업을 수행할 수 있는 권한이 있는지 확인하고 검사 결과가 긍정적인 경우에만 요청을 대상으로 전달
 
+캐싱
+프록시가 내부 캐시를 유지하여 데이터가 캐시에 아직 존재하지 않는 경우에만 대상에서 작업이 실행되도록 한다,
+
+지연 초기화
+대상의 생성 비용이 비싸다면 프록시는 그것을 필요로할 때까지 연기
+
+로깅
+프록시는 메소드 호출과 상대 매개 변수를 인터셉트하고 이를 기록한다.
+
+원격객체
+프록시는 원격 위치에 있는 객체를 가져와서 로컬처럼 보이게할 수 있다.
+```
+
+## 예제
+```javascript
+function StudentList() {
+  this.students = {
+    'park': 'a company',
+    'kim': 'b company',
+    'su': 'c company'
+  };
+}
+
+StudentList.prototype.get = function(name) {
+  const self = this;
+  setTimeout(function() {
+    console.log(self.students[name]);
+  }, 3000);
+}
+StudentList라는 객체에 Proxy를 생성한 형태를 알아보자. studentListProxy라는 객체를 생성하고, 객체 내부에서는 studentList를 참조하고 있다.
+proxy를 통해서 get 메서드를 실행해서 수강생을 조회하면 log를 남기도록 했다.
+
+프록시는 대상에서 실행될 작업의 전부 또는 일부를 가로채서 해당 동작을 행상시키거나 보완한다.
+
+StudentListPorxy라는 프록시를 통해서 대상(subject)를 참조해서 학생을 읽어오고, 동시에 로그도 남기도록 했다.
+```
+
+```javascript
+function StudentListProxy() {
+  const studentList = new StudentList();
+
+  return {
+    get: function(name) {
+      this.getLog()
+      studentList.get(name);
+    },
+
+    getLog: function() {
+      console.log("get student");
+    }
+  };
+}
+```
 
 # MVC 패턴 웹
 - - 웹 브라우저; http 프로토콜 <->   서블릿(경로 통해서 매개변수 전달)<->   자바 -   모델(DAO, VO, DTO) <-> 오라클
