@@ -9,6 +9,7 @@
 
 
 # 원어민
+* 오래걸렸다
 * 전형적인; quintessential [kwìntəsénʃəl]  + 명사
 * 뼈밖에 안보인다; skinny; thin 이나 slim 사용
 * 부수적 피해 줄여야 해; we should minimize a collateral damage
@@ -481,6 +482,8 @@ I almost couldn't make it to work on time.
 # [ 생활 기초 영어어휘 ] carry - 가지고 다니다 / 들고 다니다 / 넣고 다니다
 * i usually carry my phone in my pocket
 * sometimes, i carry it in my hand
+* It was a pretty big transition to go from teachig studendts to working mostly at a desk
+ * 전환점: pretty big transition to go from A to B
 
 # [ 영어 필수 표현 ] "모르는 번호", "잘못 걸려온 전화", "전화 올 데가 없다"
 * "아까 모르는 번호로 전화가 왔는데 전화 올 데도 없었고
