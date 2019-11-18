@@ -9,7 +9,9 @@
 
 
 # 원어민
-* 오래걸렸다
+* 오래걸렸다; took you ages
+* 또 지각이야; Tardy again
+* 최소한 나는 실용적이라 생각해; i, for one, think it's practical
 * 전형적인; quintessential [kwìntəsénʃəl]  + 명사
 * 뼈밖에 안보인다; skinny; thin 이나 slim 사용
 * 부수적 피해 줄여야 해; we should minimize a collateral damage
