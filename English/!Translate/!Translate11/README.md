@@ -9,6 +9,20 @@
 
 
 # 원어민
+* 스필버그 감독에게 아이디어를 제안했다; He ran an idea past director Steven Spielberg
+* 소문의 시작은 톰이었따; The rumor was traced back to Tom
+* 엉망진창으로 코드화된 메시지; butchered coded messages
+ * 정육점에서 돼지고기를 샀따; She bought some pork at the butcher's
+* a 에서 B로 변화하다; make the crossover form a to b
+ * 그녀는 연기자에서 가수로 전향했다; She made a crossover from an actress to a singer
+* 걸림돌; a deal breaker
+ * 난 내 외모가 걸림돌이라고 생각하지 않아; I don't think my appearance is a deal breaker atall
+* 몸에 비해 머리가 커; He has a really big head in proportion to his body
+* submit: 제출하다; submit to + 명사: -에 따르다
+ * 네 의견에 따를게; I'll submit to your decision
+* 파급효과를 가지고 올지 누가 생각이나 했겠어? Who whould've thoought such a small act could have ripple effects
+* 배우기 시작하다; cut one's teeth on; 
+ * when babies begin to cut their first teeth
 * 오래걸렸다; took you ages
 * 또 지각이야; Tardy again
 * 최소한 나는 실용적이라 생각해; i, for one, think it's practical
