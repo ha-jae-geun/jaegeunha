@@ -543,6 +543,16 @@ I almost couldn't make it to work on time.
 * 그들이 고용하려는 사람에 대해서 얼마나 신경을 쓰고 있었는지가 확실히 느껴졌어요.
  *  It certainly gave me the impression that they really cared about who they were hiring.
 
+# [ 기초영어회화 ] 기초 영어 어휘 "leave"
+1. 출발하다
+ * i left early today
+ * i left a little late this morning
+ * i'm going to leave next week; i'm leaving next week
+ * 자리에서 일어나서 간다; i'm leaving soon; i'm going to leave soon
+ * 누군가를 떠난다; he left her many years ago
+ * 둔다; it's rally difficaut to leave her alone
+ * 맡기다 i left my phonne in my car
+  * Can i leave my bag here for a few minutes?
 
 # 외국인이 자주쓰는 10가지
 ```java
