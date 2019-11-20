@@ -1,3 +1,19 @@
+# [ 영어 연습가이드 | HARDCORE ] 인상 깊었던 면접자리
+* 몇 년 전에 갔던 어떤 면접이 하나 기억이 나요.
+ * I remember going to this one job interview many years ago.
+ * 관사 'a' 대신 'this' 사용
+*  일반적인 면접으로 시작 해서 여러 가지 가상의 근무 상황 속에서 면접자들의 능력을 평가하는 여러 개의 과정으로 이어졌어요.
+ *  It started with a standard interview followed by a series of performance tests where the interviewees were put through a number of simulated work scenarios
+ * where; 대상의 구성에 대해서 풀어서 이야기 할 때 'where' 사용 
+* 다 해서 몇 시간은 걸렸어요.
+ * . The whole thing took several hours
+* 꽤 힘들었지만 동시에 재미도 있었고 정교하게 짜여진 과정이 사실 마음에 들었어요.
+ * It was quite demanding but it was also a lot of fun and I was honestly quite happy with how rigorously the process was designed.
+ * demanding은 'tough', hard 보다 세련된 표현
+* 그들이 고용하려는 사람에 대해서 얼마나 신경을 쓰고 있었는지가 확실히 느껴졌어요.
+ *  It certainly gave me the impression that they really cared about who they were hiring.
+
+
 # [ 기초영어회화 / 일상을 영어로 말하기 ] "해본 사람은 얼마나 힘든지 알아요"
 * ikea; 아이키아
 * 구체적으로 뭐뭐 살지를 미리 정하고 갔는데   I had a specific list of things to buy; list: 사전에 사려고 계획 한 것 정해 놓은 것
