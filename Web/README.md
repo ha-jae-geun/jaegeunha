@@ -1244,6 +1244,7 @@ get방식: 1. <%@ page import="java.net.URLEncoder" %>
 
 
 # 서블릿
+![](./image/servlet.jpg)
 - 서버에서 실행되는 자바 프로그램(HTML in JAVA)
 
 ## 서블릿의 동작 원리
