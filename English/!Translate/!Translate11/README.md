@@ -9,6 +9,12 @@
 
 
 # 원어민
+* 고정되어 있어야 하는데; I'ts not sticking; it's supposed to
+* 24시간동안 입을 텁헙하게 한대; It's going to cause your mouth to pucker for up to 24 hours
+* 덜 익은 감을 먹으면; If you eat an upripe persimmon
+* 날생선이나 덜익은 생선; raw or undercooked fish
+* 배변활동은 어떄요 How's your bowel movement  [ˈbaʊəl] 
+* 자상한; southern; 남부 따뜻한 나라에서는; 캐나다 사람들도 겨울이 되면 미국 남부에 가사 지내오다  [-ərn]  영국식 [ˈsʌðən] 
 * 스필버그 감독에게 아이디어를 제안했다; He ran an idea past director Steven Spielberg
 * 소문의 시작은 톰이었따; The rumor was traced back to Tom
 * 엉망진창으로 코드화된 메시지; butchered coded messages
