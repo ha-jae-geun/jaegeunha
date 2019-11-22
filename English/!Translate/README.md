@@ -20,6 +20,18 @@
 * No one can be sure __ the stock price will end up at the end of the game; where; end up: reach or come to a particular place or situation; place가 영영사전
 
 # 단어
+* Let's sing Happy Birthday to 사람
+* 건강과 무병장수를 위해 축배를 들자; Let's make a toast to Liz's health and longevity  [lɑːn-;lɔːn-]  영국식 [lɒnˈdʒevəti]
+* have - up one's sleeeve; 몰래 준비해 두다, 비장의 무기를 가지다
+	* You must have something up your sleeve
+* 품행이 바르다; Most of my students are well behaved
+* 화제가 되다, 소문이 들다; buzz is building; The buzzing is building for their next product
+* 부담주다; We won't burden you; It is a burden to all of us
+* guru; 전문가, 추종자들이 있는 권위자, 전문가; 힌두교에서 종교적 스승
+* 애교로 -을 얻다; smile one's way into; he smiled his way into the mangerial position
+	* You can't buy your way into happiness
+* 집중 단속하다; crack down on; City officials started to crack down on rule violations
+* 유도질문; loaded question; That sounds like a loaded question
 * * 잘 작동하다; work especially well
 * 타동사 상세히 알리다, 열거하다; detail how to use
 * 즉시; shortly/soon/immediately/promptly + before/prior to/ahead of + N
