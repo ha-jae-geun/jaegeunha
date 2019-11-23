@@ -573,6 +573,9 @@ I almost couldn't make it to work on time.
  * 맡기다 i left my phonne in my car
   * Can i leave my bag here for a few minutes?
 
+# 데이브
+* 개공감: i felt that
+
 # 외국인이 자주쓰는 10가지
 ```java
 • rip off
