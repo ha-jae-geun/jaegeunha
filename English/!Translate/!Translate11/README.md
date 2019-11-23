@@ -9,6 +9,19 @@
 
 
 # 원어민
+* 충고할 때; - 해; You want to change the password
+* 덕후 fanboy, fangirl
+ * Apple fanbyos lined up to buy the new phone
+* 징집되다; be drafted; 병역 기피: draft dodging
+ * Draft dodging is not a new problem in SOuth Korea
+ * 그는 영장을 받고 입대했다; He got his draft notice and went into the army
+* stint: 복무, 재임, 근무
+ * 마크는 군대에서 2년간 복무했다; Mard did a two-year stint in the army
+* 짭짭거리지마; Stop smacking
+* 킥킥 웃다; chuckle, giggle
+* 현실을 직시하세요; She needs to wake up and smell the coffee
+* 이해가 빠르시네요; You catch on quick
+* 잘 모르는 걸 수도 있어요; Maybe i'm really out of touch
 * 고정되어 있어야 하는데; I'ts not sticking; it's supposed to
 * 24시간동안 입을 텁헙하게 한대; It's going to cause your mouth to pucker for up to 24 hours
 * 덜 익은 감을 먹으면; If you eat an upripe persimmon
