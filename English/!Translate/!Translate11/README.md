@@ -9,6 +9,12 @@
 
 
 # 원어민
+* -인거 괜찮겠지? is it chill that 문장
+* 불난데 부채질하지마; Don't tub it in
+* clock in at: -을 기록하다; 시속 150km를 찍었어; Almost every pitch he made clocked in at 150 kilometers per hour
+* 비용과 시간을 줄이기 위해서 전 과정이 간소화되어야 합니다; The entire process should be streamlined to cut the cost and time
+* 준비중인, 곧 드러날 단계에 있는; in the pipeline
+* 사업은 번창했어요; Business was booming
 * 충고할 때; - 해; You want to change the password
 * 덕후 fanboy, fangirl
  * Apple fanbyos lined up to buy the new phone
