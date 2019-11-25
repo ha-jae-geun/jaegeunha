@@ -1,3 +1,45 @@
+# [ 기초영어회화 ] 기초 영어 어휘 "leave"
+1. 출발하다
+ * i left early today
+ * i left a little late this morning
+ * i'm going to leave next week; i'm leaving next week
+ * 자리에서 일어나서 간다; i'm leaving soon; i'm going to leave soon
+ * 누군가를 떠난다; he left her many years ago
+ * 둔다; it's rally difficaut to leave her alone
+ * 맡기다 i left my phonne in my car
+  * Can i leave my bag here for a few minutes?
+
+# [ 영어연습가이드 | HARDCORE ] 다른건 다 참아도 못참는 것은..
+* 내가 세상에서 가장 훌륭한 운전자가 아니라는 것은 알아.
+ * I admit that I'm not the best driver in the world
+*  그리고 솔직하게 말하자면 제한속도를 안지킬 때도 많지만 대체적으로는 최대한 책임감 있게 운전하려고 하고
+ *  and if I'm being totally honest, it's not at all unusual for me to drive above the speed limit.  But, most of the time, I try to drive as responsibly as I can and
+*  무엇보다 다른 운전자를 최대한 방해하지 않으려고 해.
+ *  most importantly, I try my best not to get in the way of other drivers.
+ * get int one's way: 방해하다
+* 그동안 인내심도 많이 길렀어. 
+ *  Over the years, I've developed a lot of patience as well
+ * develop patience: 인내심을 기르다
+* 느린 운전자는 이제 아예 신경 쓰이지도 않고 고속도로 출구에서 끼어드는 것도 참을 수 있고
+ *  Slow drivers don't bother me at all now. I can live with drivers cutting in front of me at highway exits.
+ * live with something: 참다, 감수하다
+*  심지어 길 막힐 때 창문 밖으로 담배 연기 뿜는 운전자도 참을 수 있어.
+ *  I can even put up with drivers who blow cigarette smoke out their windows in heavy traffic.
+* 근데 한 가지 정말 참기 어려운 것이 있는데 그건 바로 지나친 경적의 사용이야.
+ *  But there's something that I really have a hard time with and that's excessive use of car horns.
+ * there is something, that is: 그건 바로
+ * 내가 알기로, 경적은 다른 운전자에게 경고하기 위한 것이지 그들을 혼내기 위한 것이 아니야.
+ * From what I understand, car horns are meant to be used as a way of alerting other drivers and not as a way of punishing them.
+ * something is meant to be used by: -로 인해 만들어졌다.
+ 
+
+
+
+# 데이브
+* 개공감: i felt that
+
+
+
 # [ 영어 연습가이드 | HARDCORE ] 인상 깊었던 면접자리
 * 몇 년 전에 갔던 어떤 면접이 하나 기억이 나요.
  * I remember going to this one job interview many years ago.
