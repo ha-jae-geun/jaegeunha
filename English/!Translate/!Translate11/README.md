@@ -611,6 +611,19 @@ I almost couldn't make it to work on time.
  * something is meant to be used by: -로 인해 만들어졌다.
  
 
+# [ 기초 영어 단어 ] - happen
+* I'm sorry. What happend?
+ * 뭐라고? 무슨 일이 있었다고?
+* WHen did that happen?
+ * 언제 그랬어?
+* 어쩌다가 이랬어?
+ How did that happen?
+* It happend just a few days agp?
+ * 며칠 전에 일어났어?
+* 또 가수가 한 명 자살했때; ANother singer commited suicide
+* 못 들었어? You didn't hear about it?
+ * 평서문으로 억양으로 전달
+* 뉴스에서 다 얘기하고 있어; It's been all over the news
 
 
 # 데이브
