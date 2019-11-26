@@ -9,6 +9,14 @@
 
 
 # 원어민
+* 손에 감각이 없어; i can't feel my hands
+* 애매한 경우에는; iN BORDERLINE CASES
+* 저 사람 고나점에서는 어땠는지도 물어보고싶어; I WANT TO HEAR HER SIDE OF THE STORY AS WELL 
+* 난 어제 악목을 떨쳐낼 수가 없어; i can't shake off the nightmare i had last night
+* 생부; biological dad;  친자매는 아니야; we're not biologically related
+* 다크서클; eye bag; bags under eyes
+* 그는 잠적했어요; he's ghosted the entire word
+* 도저히 이해할 수 없다; it's beyond me
 * -인거 괜찮겠지? is it chill that 문장
 * 불난데 부채질하지마; Don't tub it in
 * clock in at: -을 기록하다; 시속 150km를 찍었어; Almost every pitch he made clocked in at 150 kilometers per hour
