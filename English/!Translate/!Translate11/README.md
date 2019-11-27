@@ -633,6 +633,9 @@ I almost couldn't make it to work on time.
 
 # 데이브
 * 개공감: i felt that
+* 원래 그래;
+ 1. 사람: SHe's always been kind of shy
+ 2. 사물: 주머니 원래 나와있는 거야? Are the pockets supposed to stic out like that
 
 # [ 영어회화 연습가이드 ] 좌측상단 / 우측상단 / 좌측하단 / 우측하단
 * "이 화면에 주목해주시기 바랍니다.
