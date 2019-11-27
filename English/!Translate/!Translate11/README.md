@@ -634,6 +634,20 @@ I almost couldn't make it to work on time.
 # 데이브
 * 개공감: i felt that
 
+# [ 영어회화 연습가이드 ] 좌측상단 / 우측상단 / 좌측하단 / 우측하단
+* "이 화면에 주목해주시기 바랍니다.
+ * OK. Now I would like to draw you attention to this screen here. 
+*  좌측상단에 보면... 우측 상단에 보면... 좌측하단에 보면.. 우측하단에 보면.."
+ * If you look in the top left corner of the screen, you’ll see this little icon that looks like three stacked lines.
+* 사진이나 화면 혹은 파워포인트 슬라이드를 놓고 이런 얘기를 할 때가 있는데 영어로 어떻게 자연스럽게 표현하는지 배워봅니다.
+ * 
+*  It will show you a list of the control options for this app including the settings menu and a link to your Google Drive.
+ * 
+*  If you look in the top right corner of the screen, you’ll see this little folder icon and it brings up a list of your existing folders in your Google Drive.
+ * 
+* If you look in the bottom right corner of the screen, you’ll find this colorful plus icon. It’s a shortcut that allows you to immediately create a new document.
+
+
 # 외국인이 자주쓰는 10가지
 ```java
 • rip off
