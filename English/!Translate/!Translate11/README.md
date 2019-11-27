@@ -9,6 +9,11 @@
 
 
 # 원어민
+* 불리하게 이용하다; use something against someone
+ * Aniyhing You say may be used against you in a court of law
+* 그 정부기관은 여론을 조작하려고 했따..
+ * The government agency tried to manipulate publlic opinion
+* 벚꽃나무에서 떨어지고 있는 꽃잎들은 눈꽃을 연상시켜; The petals falling from the trees remind me of the snowflakes in spring  [ˈpetl] 
 * 손에 감각이 없어; i can't feel my hands
 * 애매한 경우에는; iN BORDERLINE CASES
 * 저 사람 고나점에서는 어땠는지도 물어보고싶어; I WANT TO HEAR HER SIDE OF THE STORY AS WELL 
