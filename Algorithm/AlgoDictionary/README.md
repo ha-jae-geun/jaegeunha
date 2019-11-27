@@ -633,6 +633,15 @@ StringBuilder sb= new StringBuilder();
             }
 ```
 
+### 배열 슬라이싱
+```java
+```java
+Arrays.copyOf(원본배열, 복사할 길이);
+
+Arrays.copyOfRange(원본 배열, 복사할 시작인덱스, 복사할 끝인덱스) 인덱스는 0부터 시작하는것 기준
+```
+```
+
 ## charAt
 ```java
 public static int getStrike(String chk, String num) {
