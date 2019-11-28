@@ -9,6 +9,15 @@
 
 
 # 원어민
+* switch hands: 소유자가 바뀌다; THe company has switched hands
+* 스누즈 버튼을 10번을 눌렀어; i hit the snooze button like 10 times today
+* 이 가수는 온라인에서 엄청 까였어; This singer got completely roasted online
+* 현지인만 아는 식당이야; This is a restaurant only local know
+ * everyone thought i was a local
+* 너무 쉬워; i'm hungry as balls
+* 엄마가 또 시작이네요; Mom is at it again
+* 그녀는 아침에는 보통 기분이 안좋아요; SHe's usually in a bad mood in the morning
+* 그녀는 부모님 판박이에요; SHe's a chip off the old block
 * 불리하게 이용하다; use something against someone
  * Aniyhing You say may be used against you in a court of law
 * 그 정부기관은 여론을 조작하려고 했따..
