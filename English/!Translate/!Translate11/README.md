@@ -646,6 +646,15 @@ I almost couldn't make it to work on time.
  1. 사람: SHe's always been kind of shy
  2. 사물: 주머니 원래 나와있는 거야? Are the pockets supposed to stic out like that
 
+# [ 기초영어회화 ] "-한지 -밖에 안됐다", "아직 --도 못했다", "-하기에는 이르다" [대화가이드]
+* 휴가를 내다; take (some) time off work
+* 휴가를 신청하다; request/ask for a leave; apply for a leave
+* A: 너, 휴가 언제 낼 수 있어?
+* B: 뭐?! 나 거기서 일한지 1주일 밖에 안됐어. 아직 동료들도 다 못만났는데, 휴가신청을 하기에는 좀 이른 것 같아.
+* A: When can you take (some) time off work?
+* B: What? I've been working there for only a week.I haven't even met all of my co-workers yet. I think It's a little too soon to request a leave.
+
+
 # [ 영어회화 연습가이드 ] 좌측상단 / 우측상단 / 좌측하단 / 우측하단
 * "이 화면에 주목해주시기 바랍니다.
  * OK. Now I would like to draw you attention to this screen here. 
