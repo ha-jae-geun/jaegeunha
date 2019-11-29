@@ -1,3 +1,12 @@
+# "요즘 날씨에 맞게 옷입기 너무 힘들지 않나요?" [ 영어대화가이드 ]
+* A: "요즘 날씨에 맞게 옷입기 너무 힘들지 않나요? 저만 그런가요?"
+ * Is it just me, or is it really hard to dress appropriately for the weather these days?
+* B: "맞아요. 그 시기인 것 같아요. 다들 똑같이 겪고 있을거예요."
+ * It's like almost impossible to pick out the right outfit
+* 맞아 1년 중에 딱 그시기인 것 같아; i think it's just that time of the year
+* 다들 겪고 있는 일일거야
+ * i'm pretty sure everybody is going through the same thing
+
 # [ 영어회화 연습가이드 ] 좌측상단 / 우측상단 / 좌측하단 / 우측하단
 * "이 화면에 주목해주시기 바랍니다.
  * OK. Now I would like to draw you attention to this screen here. 
