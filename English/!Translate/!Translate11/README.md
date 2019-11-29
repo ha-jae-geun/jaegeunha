@@ -9,6 +9,8 @@
 
 
 # 원어민
+* 신경외과 의사가 되고 싶어 하죠; She wants to be a neurosurgeon
+* 그들의 의견은 완전히 묵살되었어요; Their idea was shot down
 * switch hands: 소유자가 바뀌다; THe company has switched hands
 * 스누즈 버튼을 10번을 눌렀어; i hit the snooze button like 10 times today
 * 이 가수는 온라인에서 엄청 까였어; This singer got completely roasted online
