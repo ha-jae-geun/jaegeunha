@@ -9,6 +9,14 @@
 
 
 # 원어민
+* 가족을 대변해서 말하자면; i speak for my whole family
+* 봐주지 않을거야; i'm not pulling any punches
+* 저거 두개를 스테이플러로 고정시켜; staple those together
+* 그녀는 대단한 피아노 연주자야; she is a mean piano player
+* 난 랩 음악을 들으면서 춤추는거 좋아해; i like to dance to rap music
+* 그 사람을 그들을 돕겠다고 나섰어요; she steeped up to help them
+* 주방 세제? dish soap?
+* 저 샴푸는 가격이 얼마인가요? How much does that shampoo cost; whwt's the price of something
 * 신경외과 의사가 되고 싶어 하죠; She wants to be a neurosurgeon
 * 그들의 의견은 완전히 묵살되었어요; Their idea was shot down
 * switch hands: 소유자가 바뀌다; THe company has switched hands
