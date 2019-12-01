@@ -9,6 +9,9 @@
 
 
 # 원어민
+* 현기증난다; i feel a bit light-headed
+* 경찰들이 호텔에 잠복하고 있고; Cops are staking out a hotel
+* 변호사 공부했을 떄; when i studied for the bar
 * 가족을 대변해서 말하자면; i speak for my whole family
 * 봐주지 않을거야; i'm not pulling any punches
 * 저거 두개를 스테이플러로 고정시켜; staple those together
