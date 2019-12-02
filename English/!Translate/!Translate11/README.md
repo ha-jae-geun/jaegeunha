@@ -9,6 +9,12 @@
 
 
 # 원어민
+* 후회의 심정으로; out of reret
+ * 그녀는 공포감에 몸을 떨었다; She was shaing out of fear
+* 인형뽑기에서 3개나 뽑았어; i won three prizes from z crane machine
+* 내 신발은 다 헤졌어; You shoes are worn down
+* 썩은 우유 먹고 식중독 걸렸어; i got food poisoing from spoiled milk
+* 하키 경기 언제 시작하지? What times's the puck drop?
 * 현기증난다; i feel a bit light-headed
 * 경찰들이 호텔에 잠복하고 있고; Cops are staking out a hotel
 * 변호사 공부했을 떄; when i studied for the bar
