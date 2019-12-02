@@ -1,6 +1,6 @@
 # 간소
 * 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
-* 라이브/테스트 영어: https://github.com/ha-jae-geun/jaegeunha/blob/master/English/!!Test/README.md
+* 테스트 영어: https://github.com/ha-jae-geun/jaegeunha/blob/master/English/!!Test/README.md
 * 슈퍼맨/영어  https://github.com/ha-jae-geun/jaegeunha/tree/master/English
 
 # 토익
