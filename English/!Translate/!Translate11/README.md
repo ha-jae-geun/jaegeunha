@@ -746,3 +746,19 @@ Unlike sb와 같아요!
 * 맞아 1년 중에 딱 그시기인 것 같아; i think it's just that time of the year
 * 다들 겪고 있는 일일거야
  * i'm pretty sure everybody is going through the same thing
+ 
+ # [ 일상을영어로말하기 ] "지금은 나쁘지 않은데 안좋아지면 병원에 가야돼."
+* "나 좀 아프려고 하는거 같아. 잘 모르겠어. "I think I'm coming down with something. I'm not really sure
+* 그냥 감기인 것 같아서 일단 두고 볼거야.  It feels like it's just a cold so I'm going to wait and see.
+ * wait and see: 두고 보다
+* 지금은 그렇게 나쁘지 않은데 앞으로 며칠 동안 안좋아지면 병원에 가야 될 수도 있어."
+ *  It's not that bad now but if it gets worse in the next couple of days, I might have to go see a doctor."
+
+# [ 영어 대화가이드 ] - be short with / be preoccupied [ 중요한 영어표현 ]
+* 아까 말을 너무 툭 던져버리고 말아서 미안해. 
+ * "Hey, I'm sorry I was so short with you earlier.
+ * be short with something: 말을 너무 짧게 해서 무래하계 느껴질 수 있는 상황
+* 다른거 때문에 정신이 좀 없었어. I was a little preoccupied with something.
+* 근데 지금은 여기에 와 있으니까(?) 아까 너가 묻던 얘기 다시 할 수 있어."
+ *  But I'm here now and I'd love to talk to you more about what you were asking me about before."
+
