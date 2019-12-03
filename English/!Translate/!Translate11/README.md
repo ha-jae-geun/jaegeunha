@@ -9,6 +9,11 @@
 
 
 # 원어민
+* 이 변경사항들을 내일부터 실행할 예정입니다; We'll put the changes into effect as of tomorrow
+* 우린 망했어; wer'e doomed
+ * 그 계획은 애초에 실패할 운명이었어; The plan was doomed to failure from the start
+* 환절기에 감기 걸리지 않게 조심해; Be careful not to catch a cod with change in seasons 
+* TV가 나쁘다는 것은 아니지만; That's not tosay that wacthing TV is all bad but
 * 후회의 심정으로; out of reret
  * 그녀는 공포감에 몸을 떨었다; She was shaing out of fear
 * 인형뽑기에서 3개나 뽑았어; i won three prizes from z crane machine
