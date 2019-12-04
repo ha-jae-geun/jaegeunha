@@ -9,6 +9,13 @@
 
 
 # 원어민
+* 유교 문화는 한국 사회에 깊게 뿌리박혀 있따; Confucianism is deeply rooted in korean society  [kənˈfjuːʃən] 
+* 치실질을 매일 하는것이 중요합니다. It's important to floss everyday  [flɔːs;flɑːs] 
+* 엄청 기분파에요; i'm a very fickle person
+* 올해 첫눈이야; IT's the first snow of the season
+* 식장에서 도망쳣다; i left the guy at the altar  [ˈɔːltə(r)]
+* 그는 변덕쟁이야; he is a flip-flopper 
+* 홍콩에 야간 비행기 타고 갈거야; We will take the red eye to Hong kong
 * 이 변경사항들을 내일부터 실행할 예정입니다; We'll put the changes into effect as of tomorrow
 * 우린 망했어; wer'e doomed
  * 그 계획은 애초에 실패할 운명이었어; The plan was doomed to failure from the start
