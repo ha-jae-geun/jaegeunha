@@ -9,6 +9,12 @@
 
 
 # 원어민
+* 끝내주는 일이에요; It's rally sassy  [ˈsæsi]
+* 저는 짭짜름한 과자를 좋아해요; i like savory snacks
+* 좀 묽게 만들었어요; i made it a little bit soupier  [ˈsuːpi] 
+* 그만한 자제력도 없어? DOn't you have any willpower?
+* 저 의지 박약이에요; i'm weak-minded
+* 소나무로 만든 경주차네; THis is a fantastic pinewood derby car
 * 유교 문화는 한국 사회에 깊게 뿌리박혀 있따; Confucianism is deeply rooted in korean society  [kənˈfjuːʃən] 
 * 치실질을 매일 하는것이 중요합니다. It's important to floss everyday  [flɔːs;flɑːs] 
 * 엄청 기분파에요; i'm a very fickle person
