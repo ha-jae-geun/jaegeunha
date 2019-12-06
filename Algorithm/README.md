@@ -470,6 +470,7 @@ void main() {
       * 노드 분리는 인접노드가 가득찬 ㄱㅇ우에 분열하며, 새로운 노드가 
 
 ## 이진트리
+* [잉구]('https://wangin9.tistory.com/entry/B-tree-B-tree')
 * 이진트리검색의 문제점은 좌우 균형이 맞지 않으면 비효율적이다.
 
 ```java
