@@ -1,4 +1,13 @@
- # [ 일상을영어로말하기 ] "지금은 나쁘지 않은데 안좋아지면 병원에 가야돼."
+# [ 기초영어회화 ] "조용한게 싫은가봐요." - PART 1
+* 너무 조용한게 싫은 것 같애요
+   * i don't like it when it's too quiet
+   * i don't like it when --
+* when i'm eating at a restaurant, i don't like it when the music is too loud
+* 난 백화점 갈 때 직원들이 날 신경 쓰거나 따라다니지 않고 자유롭게 물건을 보게 해줄 때가 좋아.
+   * when i go shoo[iing at a department store, i like it when the store clerks mind their own business and not follw me around and let me freely look around
+
+
+# [ 일상을영어로말하기 ] "지금은 나쁘지 않은데 안좋아지면 병원에 가야돼."
 * "나 좀 아프려고 하는거 같아. 잘 모르겠어. "I think I'm coming down with something. I'm not really sure
 * 그냥 감기인 것 같아서 일단 두고 볼거야.  It feels like it's just a cold so I'm going to wait and see.
  * wait and see: 두고 보다
@@ -238,6 +247,27 @@
  *  I don't know. Maybe it's just me.
 * 뭐, 다른 것도 있겠죠 근데 그게 저는 가장 힘들더라고요"
  * There are other things too, I guess, but that's what I have trouble with the most."
+
+
+
+
+
+
+
+
+
+<hr/>
+<hr/>
+<hr/>
+<hr/>
+<hr/>
+<hr/>
+
+
+
+
+
+
 
 
 # [ 영어회화 / 영어표현 ] be in line with / going forward
