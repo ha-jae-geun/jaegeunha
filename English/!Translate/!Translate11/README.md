@@ -776,6 +776,15 @@ Unlike sb와 같아요!
 * 지금은 그렇게 나쁘지 않은데 앞으로 며칠 동안 안좋아지면 병원에 가야 될 수도 있어."
  *  It's not that bad now but if it gets worse in the next couple of days, I might have to go see a doctor."
 
+
+# [ 기초영어회화 ] "조용한게 싫은가봐요." - PART 1
+* 너무 조용한게 싫은 것 같애요
+   * i don't like it when it's too quiet
+   * i don't like it when --
+* when i'm eating at a restaurant, i don't like it when the music is too loud
+* 난 백화점 갈 때 직원들이 날 신경 쓰거나 따라다니지 않고 자유롭게 물건을 보게 해줄 때가 좋아.
+   * when i go shoo[iing at a department store, i like it when the store clerks mind their own business and not follw me around and let me freely look around
+
 # [ 영어 대화가이드 ] - be short with / be preoccupied [ 중요한 영어표현 ]
 * 아까 말을 너무 툭 던져버리고 말아서 미안해. 
  * "Hey, I'm sorry I was so short with you earlier.
@@ -783,4 +792,5 @@ Unlike sb와 같아요!
 * 다른거 때문에 정신이 좀 없었어. I was a little preoccupied with something.
 * 근데 지금은 여기에 와 있으니까(?) 아까 너가 묻던 얘기 다시 할 수 있어."
  *  But I'm here now and I'd love to talk to you more about what you were asking me about before."
+
 
