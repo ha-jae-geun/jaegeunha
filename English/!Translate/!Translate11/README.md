@@ -9,6 +9,15 @@
 
 
 # 원어민
+* 그가 우리 책을 언급해준다면 굉장한 홍보가 될거야; If he enodrses our book, it will be a great plug
+* 제스퍼 확인해봐; Check on Jasper
+* 그는 그를 계약 위반으로 고소했다. I sued him for breach of contract
+* 특수효과들과 거기서 거기라 싫어; i'm tired of super heroes since all the story lines and special effect are similar
+* 미쳤니? Are you nuts?
+* 참 뻔뻔하시네요; You've got some nerve
+* 고대기를 해볼거에요; i'm going to take my wand
+* 뻔뻔한 거짓말 쟁이에요; YOu're a bald-faced liar
+* 뻔뻔스럽게 은행에 돈을 요구하시나요 YOu have the audacity to ask the bank for money?
 * 끝내주는 일이에요; It's rally sassy  [ˈsæsi]
 * 저는 짭짜름한 과자를 좋아해요; i like savory snacks
 * 좀 묽게 만들었어요; i made it a little bit soupier  [ˈsuːpi] 
