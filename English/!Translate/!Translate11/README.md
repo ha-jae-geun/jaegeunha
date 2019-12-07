@@ -797,3 +797,14 @@ Unlike sb와 같아요!
  *  But I'm here now and I'd love to talk to you more about what you were asking me about before."
 
 
+# [ 영어 연습가이드 ] - "그건 비교가 안돼", "근처에도 못오지", "그에 비하면 한참 부족하지"
+* "드웨인 존슨이랑 아놀드 슈왈제네거? 
+  * Dwayne Johnson and Arnold Schwarzenegger? 
+* 그건 비교가 안되는거 같은데
+  * "I don't think that's a fair comparison. 
+* 물론, 드웨인 존슨도 아주 능력 있고 성공적인 배우인 것은 사실이지만 아놀드랑 비교했을 때는 카리스마가 한참 부족하고
+  * I mean, it's true, Dwayne Johnson is a very talented and accomplished actor but he isn't nearly as charismatic as Arnold and when it comes to their overall impact [ˌkærɪzˈmætɪk] 
+* 허리우드에 주는 전반적인 영향력을 보자면 드웨인은 아놀드가 이룬 것의 근처에도 못오지."
+  *  in Hollywood, Dwayne doesn't even come close to what Arnold has done."
+  * doesn't even come close to
+
