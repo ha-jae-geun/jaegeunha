@@ -9,6 +9,9 @@
 
 
 # 원어민
+* 하나도 못알아들었어; it's all mumbo jumbo to me
+* 걔가 일렀구나; He told on you
+* 그냥 무료 나눔 할까요? Giveaway?
 * 그가 우리 책을 언급해준다면 굉장한 홍보가 될거야; If he enodrses our book, it will be a great plug
 * 제스퍼 확인해봐; Check on Jasper
 * 그는 그를 계약 위반으로 고소했다. I sued him for breach of contract
