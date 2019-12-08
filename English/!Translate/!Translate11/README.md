@@ -9,6 +9,10 @@
 
 
 # 원어민
+* 그녀는 나뭇잎을 코팅해서 책갈피로 썼다; She used lamiated leaves as a bookmark
+* 우리 회사는 직원들의 자녀를 위해 보육원을 제공해요; My company provides a nursery school for it's employeses kids
+* 주유가 다 되면 경적을 울릴거야; As soon as the tank is full, i'm honking the horn
+* Hot스타가 netflix보다 우세한 이유중 하나를 가격을 들 수 있습니다; Pricing might be one reason Hot Star has had an edge on Netflix
 * 하나도 못알아들었어; it's all mumbo jumbo to me
 * 걔가 일렀구나; He told on you
 * 그냥 무료 나눔 할까요? Giveaway?
