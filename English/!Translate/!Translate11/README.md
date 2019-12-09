@@ -9,6 +9,8 @@
 
 
 # 원어민
+* 숨이 막히도록 답답한 적 있었어? Do you ever feel stifled? [ˈstaɪfl]
+* 이 영상의 인기는 훨씬 오래 지속되었습니다; The popularity of this video has lasted much longer
 * 그녀는 나뭇잎을 코팅해서 책갈피로 썼다; She used lamiated leaves as a bookmark
 * 우리 회사는 직원들의 자녀를 위해 보육원을 제공해요; My company provides a nursery school for it's employeses kids
 * 주유가 다 되면 경적을 울릴거야; As soon as the tank is full, i'm honking the horn
@@ -812,3 +814,9 @@ Unlike sb와 같아요!
   *  in Hollywood, Dwayne doesn't even come close to what Arnold has done."
   * doesn't even come close to
 
+# [ 기초영어회화 ] leave on / even when / feel more comfortable with
+* "내가 집에 있을 때는 습관적으로 티뷔를 틀고 보고 있지 않을 때도 그냥 틀어놔요. 
+ * When I'm home, I have a habit of turning on my television and I just leave it on even when I'm not watching it.
+* 조용한게 싫은거 같아요.  I guess I don't like it when it's too quiet.
+* 물론 뭔가에 집중해야 되면 조용한걸 더 좋아할 때도 있지만 보통은 주변에 소리가 좀 있는게 더 좋아요(편해요)."
+ * Of course, sometimes, when I need to really focus on something, I prefer it to be quiet. But, normally, I feel more comfortable with some noise around me."
