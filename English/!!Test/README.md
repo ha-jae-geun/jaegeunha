@@ -1,3 +1,11 @@
+# [ 기초영어회화 ] leave on / even when / feel more comfortable with
+* "내가 집에 있을 때는 습관적으로 티뷔를 틀고 보고 있지 않을 때도 그냥 틀어놔요. 
+ * When I'm home, I have a habit of turning on my television and I just leave it on even when I'm not watching it.
+* 조용한게 싫은거 같아요.  I guess I don't like it when it's too quiet.
+* 물론 뭔가에 집중해야 되면 조용한걸 더 좋아할 때도 있지만 보통은 주변에 소리가 좀 있는게 더 좋아요(편해요)."
+ * Of course, sometimes, when I need to really focus on something, I prefer it to be quiet. But, normally, I feel more comfortable with some noise around me."
+
+
 # [ 기초영어회화 ] "조용한게 싫은가봐요." - PART 1
 * 너무 조용한게 싫은 것 같애요
    * i don't like it when it's too quiet
