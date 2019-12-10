@@ -9,6 +9,8 @@
 
 
 # 원어민
+* 늦었지만 생일 축하해; Happy belated birthday
+* 와이파이 안돼; THe wi-fi is out
 * 숨이 막히도록 답답한 적 있었어? Do you ever feel stifled? [ˈstaɪfl]
 * 이 영상의 인기는 훨씬 오래 지속되었습니다; The popularity of this video has lasted much longer
 * 그녀는 나뭇잎을 코팅해서 책갈피로 썼다; She used lamiated leaves as a bookmark
