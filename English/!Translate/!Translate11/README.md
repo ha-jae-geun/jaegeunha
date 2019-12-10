@@ -822,3 +822,16 @@ Unlike sb와 같아요!
 * 조용한게 싫은거 같아요.  I guess I don't like it when it's too quiet.
 * 물론 뭔가에 집중해야 되면 조용한걸 더 좋아할 때도 있지만 보통은 주변에 소리가 좀 있는게 더 좋아요(편해요)."
  * Of course, sometimes, when I need to really focus on something, I prefer it to be quiet. But, normally, I feel more comfortable with some noise around me."
+
+# [ 영어회화 ] 구동사 X2 - clear up / straighten out - "오해가 좀 있었던 것 같아요"
+* "며칠 전에 나간 공지에 대해서 오해가 좀 있었을 수도 있어요. 
+ * [ENG]
+"It looks like there may have been some misunderstanding about the announcement that was made a few days ago.
+* there may have been; formal하게 표현한 다는건 조심스럽게 표현한다는 것
+* 더 이상의 혼란이 없도록 잠깐 시간을 가지고 정리를 하고 싶고요 
+ *  I just want to take a moment to clear that up just so (that) there is no more confusion.
+* 그걸 일단 바로 잡고 나면 오늘 주제로 넘어갈게요."
+ * Once we get that straightened out, we can move on to our main topic today."
+ * get something starightened out: 바로잡다
+ * sort out something: 문제를 해결하다는 뉘앙스
+ * straighten out: 잘못된 것을 바로잡는다는 뉘앙스
