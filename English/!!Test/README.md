@@ -31,52 +31,6 @@
  *  But I'm here now and I'd love to talk to you more about what you were asking me about before."
 
 
-# 중요
-* 부모님 중 한 분만 돌아가셨을 경우에는 a parent(단수)를 써야됩니다; I can’t imagine to lose a parent.
-* 몸통은 그대로 놔두고 소매와 통만(너무 크니깐)줄여주세요. Can you take them in and leave the torso as it is?; torso 미국식 [ˈtɔːrsoʊ] 
-* 직역: 실내 공기가 썩었어. ☞ We have stale air inside.     [steɪl]
-	*  It's stuffy (in) here. 여기 공기가 답답해요.
-	* 공기 안좋아; ⟹ The air quality is poor today.
-* 새거 나오면 먹을게요; i'll wait for a batch
-* 아침 저녁 일교차가 커. The weather goes back and forth between hot and cold.
-*  That’s why people are getting colds / flus. * cold와 flu 복수표현가능
-그래서 요즘 (사람들이) 감기에 (더) 많이 걸리고 있어. ☞ That’s why people are getting more colds.
-* 차가 밀리는ㄴ 방향이 아닌 반대방향으로 간다; i drive against traffic / i go against traffic
-* 제가 짐을 부쳐야 하나요? Do I need to claim my baggage?
-* 즉, 리스트가 없는 상태에서 한 단어를 삭제하면서 cross off라고 하지 않음. cross it off your list
-* 다른 통화중이예요. I’m on the other line. - another(X)
-* 2불 덜 줬어요.
-	* You owe me 2 dollars. 또는
-	* I was short 2 dollars.
-* 이미 받은 것에 대한 감사함을 표현할 때
-	* I appreciated your help and the thought.
-	* 주로 현재형으로 많이 외우기 때문에 과거로 표현해야 할 때 실수하지 않게 주의하세요.
-* I'm calling to report Domestic Violence in my neighborhood.
-	* 우리 동네(에서 벌어지고 있는) 가정폭력에 대해 신고하려고 전화했습니다.
-* I'm calling to report child abuse.
-	* 아동학대를 신고하려고 전화했습니다.	
-* I'm calling to report disturbance.
-	* 소란행위를 신고하려고 전화했습니다.
-* 원래 내야할 돈을 좀 못/안내도 잠시 봐주는 시간 I'm just picking someone up. Does the parking lot have a grace period?
-* 개발자 영어; * 그렇게 볼 수도 있겠네; THat's another way of looking at it
-	* 당신은 정말로 나를 곤경에 빠트렸었다. You really threw me under the bus. 듣기
-	* 무슨일이 있더라도; Whatever it takes, you stop them
-	* 앞에서 말한 것을 상쇄(반전)시켜주는 접속; THat said; With that said = with that being said
-		* That said, there are a few client concerns. 
-* meat house: 고깃집 대신 정육점으로 오해 가능; 정육점 같은 곳인가요? butcher house
-* 엄청난 기회야; It's flipping/freaking opportunityy; 장난하는거야? Are you flipping kidding me?
-* 걘 그냥 모든 걸 다 훤히 알고싶어해; He's just like to keep on top of everythin
-	* keep on top (of): 훤히 알고 있다.
-* 파티나 무도회에서 세련된 산사가 다른 신사에게 하는 말: Old sport; Having a good time, old sport?
-* 원예에 큰 재능이 있다; have a green thumb
-* 우리 집사람은 세일하는 물건엔 사족을 못써; My wife is a sucker for sale items
-* house; 지붕있고 주소있는 집;  home: 고향, 집의 느낌, 편한 느낌; hometown: 고향; 향수병: homesick
-* 달느 사람들에 항상 비판적인 사람들은 이해가 ㅈ라 안가요; i don't understand peoploe who are very critical about some other people
-* 캐나다에서 살기 위해서 내가 언젠가는 영어를 해야만 해; i have to speak English one of these days ot live in canada
-* 금방 해결될 것 같진 않아; It doesn't look like it's going to be taken care of anytime soon
-* 여기서 뭐해? What are you doing here?(진짜 뭐하냐고 물어보는거 아님)
-	* 여기서 볼줄 몰랐느데; i didn't expect to see you here
-	* 안녕 베스! 여기 네가 올지 몰랐어. Hey Beth! I didn't know you'd be here
 
 # (고급) 원어민들이 입에 달고 사는 10가지 표현! (EiK Plus 구독자 전용)
 * 특별한 날에만; 나를 위해 택시를 탔다; On special occasions, i'll treat myself to a taxi ride
@@ -107,13 +61,7 @@
  * Why couldn't i have just gone to Santa Fe? 난 왜 그냥 산타페로 갈수는 없었던 걸까? 선택을 했던 당시의 상황과 조건에 대한 의문
  * i could have just gone to Santa Fe; 산타페에 그냥 갈 수도 있었는데..
 
-# [ 기초영어회화 ] -- 하는 사람이 많지 않다
-* 예전만큼 집에서 김치를 만드는 사람들이 많지 않아요.  Not many people make kimchi at home anymore.
- * anymore: 이전과 달라진 것을 강조한다.
-* 내가 아는 사람들은 대부분이 요즘은 그냥 사먹어요.  Most people that I know, nowadays, just buy kimchi.
-* 앞으로 몇년 후면 사람들이 집에서 김치 만드는 것을 보기가 어려울 것 같아요."
- * I think, just several years from now, it’s going to be very rare to see people making kimchi at home.
-  * people making Kimch at home: 만드는 현상;  people who make Kimchi at home: 만드는 
+
 
 # [ 영어 연습가이드 ] as far as—is concerned / the—side of things / in terms of —
 * "친구 몇 명이랑 단편영화를 제작하는 작은 프로젝트를 시작했어요. "Some friends and I have set out on a little project to create a short film.
@@ -141,15 +89,6 @@
  * (And) By doing so, I think we're allowing ourselves to appreciate the movie on a broader level and (just) make it that much more enjoyable to watch and talk about.
 
 
-# [ 기초영어회화 ] "이럴 줄 알았으면 다르게 했을텐데" [ 가정법 ]
-* If i had know something, i would'be / wouldn't ve
- * 코어: had를 명확하게 발음할 필요가 없다.
-* If i had know there was going to be a rally, (집회), i would've participated / 
- * I wouldn't have taken the bus; 우드넙
-* 이렇게 차가 많을 줄 알았다면; If i had know there would be this much traffic, i would've left earlier
- * 추가설명 : If I had known 대신 if I knew 라고 하는 것은 엄밀히 말하자면 틀리지만 실제 회화에서는 사실 괜찮습니다. 아래 링크 중 1시간짜리 영상에서도 예전에 언급을 한 적이 있지만 가정법에서 과거완료의 사용이 점점 줄고 있는 추세입니다 😀
-하지만 상황에 따라서 반드시 과거완료를 써야만 의미전달이 명확히 되는 경우가 있기 때문에 할 줄은 알아야 합니다 😀
-* If i had known about his situation, i wouldn't have talked about money
 
 
 # 코어
@@ -273,26 +212,21 @@
 
 
 
+# [ 영어회화 ] 구동사 X2 - clear up / straighten out - "오해가 좀 있었던 것 같아요"
+* "며칠 전에 나간 공지에 대해서 오해가 좀 있었을 수도 있어요. 
+ * [ENG]
+"It looks like there may have been some misunderstanding about the announcement that was made a few days ago.
+* there may have been; formal하게 표현한 다는건 조심스럽게 표현한다는 것
+* 더 이상의 혼란이 없도록 잠깐 시간을 가지고 정리를 하고 싶고요 
+ *  I just want to take a moment to clear that up just so (that) there is no more confusion.
+* 그걸 일단 바로 잡고 나면 오늘 주제로 넘어갈게요."
+ * Once we get that straightened out, we can move on to our main topic today."
+ * get something starightened out: 바로잡다
+ * sort out something: 문제를 해결하다는 뉘앙스
+ * straighten out: 잘못된 것을 바로잡는다는 뉘앙스
 
 
 
-
-
-# [ 영어회화 / 영어표현 ] be in line with / going forward
-* 제가 전직장을 그만둔 이유는 나쁘거나 그래서 그랬던 것은 아니에요.
- * The reason I quit my last job wasn't because it was bad or anything
- * or anything: 그랬던 것들
-*  사실 지금 하는 일도 거의 똑같아요
- *  In fact, what I do now is more or less the same. 
- * 거의 똑같다; more or less the same
-* 심지어 어떤 면에서는 더 어려운 것도 있고 전에 하던 일이 아쉬운게 없는 것이 아니에요
- * It's actually even harder(more difficult) in some ways and there are plenty of things that I miss about my old job.
-* 단지, 특정 목표로 생각해 둔 것들이 있었는데 
- * . It's just that I had certain goals in mind and
-*  거기서 일하는 것은 제가 앞으로 제가 하고 싶은 일과 맞지 않았다는 결론을 내렸을 뿐이에요."
- *  I decided that working there just wasn't in line with what I wanted to do going forward.
- * decide: 결론에 도달하다
- * be in line: 맞아 떨어지다; 같은 선상에 있따.
 
 # [기초영어회화] "주말에는 자는게 아까워요."
 * "저는 평일에는 보통 빨리 퇴근하고 집에 가서 자고 싶어요. 
@@ -371,11 +305,6 @@
  *  It certainly gave me the impression that they really cared about who they were hiring.
 
 
-# [ 기초영어회화 / 일상을 영어로 말하기 ] "해본 사람은 얼마나 힘든지 알아요"
-* ikea; 아이키아
-* 구체적으로 뭐뭐 살지를 미리 정하고 갔는데   I had a specific list of things to buy; list: 사전에 사려고 계획 한 것 정해 놓은 것
-* 딱 계획했던 것만 사는게 얼마나 어려운지, 이케아에 가본 사람이라면 누구나 알거예요.  but anyone who has been to IKEA knows how hard it is to stick to a shopping list
-* 결국 계획에 없던걸 몇 가지 사긴 했는데 그렇게 심하게 하진 않았어요."  I did end up buying a few things that I wasn’t planning to but I didn't get too carried away."
 
 # [ 기초영어회화 - 일상을 영어로 말하기 ] - "끼니를 때우다", "귀찮아서 배달시켜먹다"
 * "오늘 아침에 일어나서 배가 꽤(좀) 고프더라고요. "I got up this morning and I was feeling pretty(a little) hungry. 
@@ -385,12 +314,6 @@
 * 오늘 아침에 보니까 아무것도 없더라고요. But this morning(today) when I checked, I had nothing
 * 뭐 해먹기 귀찮아서 그냥 뭐 배달시켜 먹었어요."  and I really didn't feel like cooking anything so I just got something delivered."
 	* soemething: 음식이라는 것이 문맥상 드러났기 때문에 이렇게 표현
-
-
-# 쓸만한 영어 - [스몰톡] 청명한 가을 날씨에 쓸 수 있는 영어표현들
-* 긴 여름 끝나서 좋아 좋아; i am so happy because the long and muggy summer is finally over
-* 초가을이 좋아; i love the change of season;  i love when fall begins
-* 가을 단품은 봄에 피는 벚꽃만큼 예뻐; The leaves changing color are as beautiful as cherry blossoms in spring
 
 # [ 기초영어회화 - 일상을 영어로 말하기 ] "겨울대비 옷장정리"
 * "갑자기 엄청 추워지지 않았어? "It suddenly got really cold, didn't it? 
@@ -413,31 +336,6 @@
  
 
 
-
-
-# [ 영어 연습가이드 ] - 얼마나 대단한지에 대해서 얘기할 때 쓰는 4가지 영어표현
-* "퀸시 존스 몰라? 와, 너무 대단한 인물이라,  "Quincy Jones. You don't know Quincy Jones?!
-* 어디부터 설명해야 되지...(?). Wow. I can't even begin to explain to you how big he is.
-* 간단히 말해서, 오늘날 음악 세계에서 가장 중요한 사람 중 하나야.  Simply put, he's one of the most important people in the world of music today.
-	* simply put into words  -> simply put
-* 그런데 그것도 말을 많이 아끼는거야.   But that is putting it very mildly.
-* 단순히 그를 훌륭한 작곡가에 뮤지션이라고 하는 것으로는 한참 부족할거야.   Simply saying that he's a great composer and musician would be a huge understatement.
-* 난 심지어 어떻게까지 보냐면, 요즘 인기있는 아티스트와 그들의 음악은 모두 그 사람으로부터 상당히 많은 영향을 받았다고 생각해."
-  * I would even go so far as to say that all the popular artists and their music nowadays have been heavily influenced by his work."
-	* i would even go so far: 이렇게 까지 주장/생각한다; 자주 쓰이는 문장
-
-
-
-# [영어 연습가이드 HARDCORE ] - An Interesting Theory
-* 최근에 읽은 어떤 이론에 의하면 가난한 사람은 가난한 상태로 계속 살아가기 마련인데  I recently read about a theory that says poor people tend to stay poor because we're focused on adjusting our lifestyles to fit our income
-	* A theory says
-* 그 이유가 항상 좋은 가격을 찾는 등 현명한 소비를 함으로써 자신의 생활을 자신의 소득에 맞추려는 데에 집중하기 때문이고   by always looking for better deals and generally trying to spend wisely, 
-* 그런 반면 부자가 되는 사람들은 그냥 일단 비싼 것들을 사놓는 대신 추구하는 생활을 유지하기 위해 돈을 많이 벌 수 있는 방법을 찾는 데에 집중을 한다는 것이야. whereas people who become rich are often the ones who just go ahead and buy expensive things and instead focus on figuring out how to make more money to sustain their desired lifestyles
-* 우리가 성장하기 위해서는 한계를 극복해야 된다는 것을 생각하면 사실 꽤 일리 있는 얘기야. When you consider that the way we grow is by pushing our limits, this theory actually makes a lot of sense.
-	* 한계를 극복하다; push one's limits
-* 돈과 부를 놓고 말하자면 생각해야 될 것이 훨씬 많겠지만 난 이런 식으로는 한번도 생각을 해본적이 없어.  Now, I'm sure that there's a lot more to consider when it comes to money and wealth but I never really thought of it this way and 
-	* 그런식으로 생각 안해봤다; i never really thought of it this/that way
-* 꽤 흥미로운 관점인 것 같아.. I thought it was a very interesting perspective.
 
 
 
@@ -515,11 +413,5 @@
 * fraud: 법률 사기; 보통 사기: scam; 편한 어조의 사기다: What a scam; This is total scam
 * 덤탱이; I got ripped of; You got totally ripped off
 
-# [ 기초영어회화 ] 연령대 - 30대 초/중/후반, 내 또래, 보통 키와 몸무게
-* 그녀는 20대 중반입니다; SHe's in her mid twenties;  early/late
-* 내 나이 정도 돼' She's about/around my age
-* 그녀는 키가 커; Hse's tall <> short;  Height is tall 사용 xx
-* 색깔 말할떄: It's black;    This color is black(xxx);  선택할 때; i like the blue one
-* 그녀는 평균 몸무게다; She's average height(weight)  [ˈævərɪdʒ] 
-	* 통통한 편이다; He's a little chubby;  He's kind of chubby 
+
 
