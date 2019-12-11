@@ -9,6 +9,10 @@
 
 
 # 원어민
+* 그래픽 정말 죽이네; It's got killer graphics
+* 너가 수호천사가 아닐까 싶어; i think you might be my gurdian angel
+* 시원섭섭하죠; It's definitely bittersweet
+* 그것 때문에 약간 상심했어; i'm kind of bummed about that
 * 늦었지만 생일 축하해; Happy belated birthday
 * 와이파이 안돼; THe wi-fi is out
 * 숨이 막히도록 답답한 적 있었어? Do you ever feel stifled? [ˈstaɪfl]
