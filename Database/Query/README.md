@@ -1,3 +1,28 @@
+# 쿼리 추출 개수 설정
+```java
+SELECT a.NAME, a.DATETIME
+
+FROM ANIMAL_INS a left join ANIMAL_OUTS b on a.ANIMAL_ID = b.ANIMAL_ID
+
+WHERE b.ANIMAL_ID is NULL
+
+ORDER BY a.DATETIME
+LIMIT 3
+```
+# INTACT 사이에 두지 않은 값 찾기
+```java
+SELECT a.ANIMAL_ID, a.ANIMAL_TYPE, a.NAME
+
+FROM ANIMAL_INS a join ANIMAL_OUTS b on
+a.ANIMAL_ID = b.ANIMAL_ID
+
+WHERE a.SEX_UPON_INTAKE LIKE "%Intact%" and b.SEX_UPON_OUTCOME NOT LIKE "%Intact%"
+
+ORDER BY a.ANIMAL_ID
+```
+
+```
+
 ```java
 SELECT NAME, DATETIME
 FROM ANIMAL_INS
