@@ -9,6 +9,14 @@
 
 
 # 원어민
+* 남들로부터의 인정을 계속 추구한다; we are constantly seeking for outer/external validation
+* 냄새 맡아봐; Give it a good sniff
+* 몸치에요; i've got two left feet
+* 어떻게 악플을 무시할 수 있을까요? How do you stop caring about hate comments
+* 음치에요; i can't carry a tune
+* speak: 공개되 자리에서 다소 중요한 말을 할 때; talk: 편안하게 말을 할 때, tell: 대상에게 알려주고 일러주는 말을 할 때
+ * i don't want to speak about conclusion
+* 죽여줬어; YOu are killing it
 * 그래픽 정말 죽이네; It's got killer graphics
 * 너가 수호천사가 아닐까 싶어; i think you might be my gurdian angel
 * 시원섭섭하죠; It's definitely bittersweet
