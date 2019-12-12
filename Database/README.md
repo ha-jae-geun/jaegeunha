@@ -1924,3 +1924,7 @@ n   클라이언트 측 : Server -> API(JSON or XML) -> DTO -> View or Local Dat
 - label for 동일시 input name과 같이 해서 
 
 
+# rownum
+* 변경하기 위해 DML을 사용할 수 없다
+* order by 전에 부여되며 order by 는 맨 나중에 실행된다
+* rownumb = 1은 사용 가능하지만 1도다 큰 수는 데이터가 추출되지 않는다.(도달할 수 없는 값)
