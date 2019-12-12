@@ -670,6 +670,14 @@ I almost couldn't make it to work on time.
  * 맡기다 i left my phonne in my car
   * Can i leave my bag here for a few minutes?
 
+# [ 기초영어회화 ] "1시 반에 도착" , "2시까지 점심시간" , "30분을 때우다"
+* "오늘 몸이 좀 안좋아서 병원에 갔었어요. "I went to see a doctor today because I wasn't feeling very well.
+ * not feeling very well: 몸 안좋다 할 때 자주 쓰는 표현
+* 거기에 1시 반에 도착했는데 알고보니 2시까지 점심시간이더라고요. 
+ *  I got there at half past one but it turned out (that) their lunch break was until 2 (o'clock).
+* 그래서 30분 정도 때워야 했는데 그 근처에는 할게 아무것도 없어서 30분 동안 그냥 차에 앉아 있었어요."
+ * So, I had about half an hour to kill but there was nothing to do around there. So, I just sat in my car for 30 minutes."
+
 # [ 영어연습가이드 | HARDCORE ] 다른건 다 참아도 못참는 것은..
 * 내가 세상에서 가장 훌륭한 운전자가 아니라는 것은 알아.
  * I admit that I'm not the best driver in the world
