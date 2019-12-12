@@ -1,6 +1,7 @@
 # 간소
 * 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
 * 테스트 영어/강의: https://github.com/ha-jae-geun/jaegeunha/blob/master/English/!!Test/README.md
+	* 강의: 라이브 아카데미 / 올리버 쌤 / Sophie ban
 
 # 토익
 * https://www.hackers.co.kr/?c=s_toeic/toeic_study/dlc&front=dailytoeic&category=LC&uid=5624
