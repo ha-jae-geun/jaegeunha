@@ -862,3 +862,18 @@ Unlike sb와 같아요!
  * get something starightened out: 바로잡다
  * sort out something: 문제를 해결하다는 뉘앙스
  * straighten out: 잘못된 것을 바로잡는다는 뉘앙스
+
+# [ 생활영어표현 ] - "이제서야", "여태껏", "앞으로/지금부터는" [ 영어표현 ]
+
+* 야. 지도에 보니까, 역까지 가는 훨씬 빠른 길이 있네. 이걸 이제서야 발견하다니.
+ * A: Hey. According to the map, there's actually a much quicker route to the station. I can't believe I'm discovering this just now.
+ * just now: 강조
+* 뭐?  그럼 지금까지 더 오래 걸리는 길로 다녔다는거야?
+ * B: What? (Do) You mean, all this time, we've been taking a longer route?
+ * all this time: 지금까지
+ * all along; you new this all along
+* 그동안 안내 책에 나와 있는 길로 다녔어. 난 그게 제일 빠른 길인 줄 알았지.
+ * A: We've been taking the one shown in the guide book. I assumed it was the quickest one.
+  * assume: 외국인들이 자주 쓰는 것
+* 뭐, 그래도 이젠 알았으니까.  지금부터라도 시간을 좀 절약할 수 있으니까 좋다.
+ * B: Well, at least we know now. It's good that we can save a little more time from now on.
