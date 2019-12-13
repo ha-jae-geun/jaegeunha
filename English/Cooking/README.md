@@ -152,6 +152,12 @@ boil과 다른 점은 특히 약한 불에 천천히 끓이는 것을 의미한�
 	* 식감만큼은 괜찮아; THey're quite nice in texture
 
 # Cooking
+* 팬에 삼겹살을 볶아주세요; stir-fry pork belly in a pan
+* 어슷썰기 해주세요; cut two red peppers diagnoally
+* 대파의 흰대부분만 1cm 길이로 썰어주세요; cut a scallion into 1cm long pieces  [skǽliən] 
+	* cut into 0.5cm thick pieces / cut into finger size
+	* 식용유 cooking oil
+	* 노릇하게 구워주세요; stir-fry until it's golden brown
 * a dash/ pinch/ hint/ touch of OO; 여기서 dash는 소금 약간을 나타내기 위해  쓰였지만 주로 액체를 나타낼 때 사용합니다.  어디에 소량의 액체를 더할 때, 음식이나 칵테일, 소스 같은 데 레몬 주스 소량을 넣는다든지의 경우 말이죠. 팬에다가 식용유를 한번 살짝 두를 때도 사용하는 표현입니다. pinch는 가루의 한 꼬집 (엄지와 집게 손가락으로 집을 수 있는 정도) 분량, hint 또는 touch는 대개 재료가 향이 강하기 때문에 미량을 넣는 경우 등장하는 단어죠. 
 * (고기, 닭, 생선, 게 등의) 음식 재료를 다듬거나 (뼈 발라내기, 털 뽑기 등), 샐러드에 풍미를 더 하는 소스를 더한다고 할 때 동사 dress를 사용할 수 있습니다. 샐러드 드레싱 (dressing)에서 드레싱이 바로 여기서 온 표현이죠.
   * 닭 손질하는 것 좀 도와주겠니?Can you help me dress the chicken?
