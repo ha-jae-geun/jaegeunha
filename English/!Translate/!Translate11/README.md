@@ -9,6 +9,13 @@
 
 
 # 원어민
+* (재산·사회적 성취 등에 있어서) 남에게 뒤지지 않으려 애쓰다 keep up with the Joneses 미국식  영국식  단어장추가
+ * 남들 따라 살려면 힘들어요; it's hard to keep up with Joneses
+* 내가 널 위해 힘을 써볼게; I'll see if i can pull some strings for you
+* 내 여자친구가 빡빡 머리로 밀었어; mY girlfriend got a buzz cut
+* 선택의 기로에 서있어요; i'm in the crossroads
+* 새해가 바로 막 이었던 것 같은데 벌써 연말이네; It seems like it was just new year's day but it's almost the end of the year
+* 정말 잘 나가고 있네요; You're eally moving up in the world
 * 남들로부터의 인정을 계속 추구한다; we are constantly seeking for outer/external validation
 * 냄새 맡아봐; Give it a good sniff
 * 몸치에요; i've got two left feet
