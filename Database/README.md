@@ -1928,3 +1928,9 @@ n   클라이언트 측 : Server -> API(JSON or XML) -> DTO -> View or Local Dat
 * 변경하기 위해 DML을 사용할 수 없다
 * order by 전에 부여되며 order by 는 맨 나중에 실행된다
 * rownumb = 1은 사용 가능하지만 1도다 큰 수는 데이터가 추출되지 않는다.(도달할 수 없는 값)
+
+# rowid
+* 인덱스의 핵심 중 하나는 ROWID다. ROWID는 데이터베이스 내 데이터 공유의 주소로, 이를 통해 데이터에 접근할 수 있어 DBA라면 반드시 이해해야 할 개념이다.
+* select where 전에 사용될 수 있고 insert, update, delete 로 변경할 수는 없다.
+* 유일한 주소값이지만 테이블의 PK처럼 사용할 수 없다
+* 삭제 후 다시 동일한 레코드를 입력한다고 행쓸 때 rowid는 변경되며 레코드를 삭제했다면 삭제된 레코드의 rowid는 나중에 입력되는 다른 코드에 부여도리 ㅅ 있다.
