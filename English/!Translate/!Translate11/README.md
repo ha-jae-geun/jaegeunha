@@ -9,6 +9,8 @@
 
 
 # 원어민
+* 그가 파토냈어; he flaked on me again
+* 동전이 뒷면으로 떨어졌다는 것을, 앞면이야; That the coin anded tails. It was heads
 * (재산·사회적 성취 등에 있어서) 남에게 뒤지지 않으려 애쓰다 keep up with the Joneses 미국식  영국식  단어장추가
  * 남들 따라 살려면 힘들어요; it's hard to keep up with Joneses
 * 내가 널 위해 힘을 써볼게; I'll see if i can pull some strings for you
@@ -877,3 +879,14 @@ Unlike sb와 같아요!
   * assume: 외국인들이 자주 쓰는 것
 * 뭐, 그래도 이젠 알았으니까.  지금부터라도 시간을 좀 절약할 수 있으니까 좋다.
  * B: Well, at least we know now. It's good that we can save a little more time from now on.
+
+# [ 기초영어회화 ] - 구동사 기초 - run out of
+* run out of: 없어지는 action; 진행중;
+* 시간이 다 되가; We're running out of time
+* 최대한 빨리 일했는데 시간이 부족했어; i worked as fast as i could but i ran out of time
+* 돈이 엄청 빨리 떨어져가고있어; i'm running out of money really fast
+* 아이디어가 떨어져가고있어; i'm slowly running out of ideas
+* 음식이 떨어져가고 있어; i ran out of food
+* 핑계거리가 떨어져가고있어; i'm running out of excuses
+* 베터리가 떨어져가고있어; i'm running out of battery
+ * 기계를 주체로 해도 된다; my phone is running out of battery
