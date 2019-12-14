@@ -371,7 +371,7 @@ public class Solution{
                     V[nr][nc] = true;
                      
                     dfs(dpt+1, nr,nc, i);
-                    //V[nr][nc] = false;
+                    //위에서 확인하지 않으니 V[nr][nc] = false;
                      
                 }
                  
