@@ -9,6 +9,7 @@
 
 
 # 원어민
+* 이건 빼주세요; Take this one out
 * 그가 파토냈어; he flaked on me again
 * 동전이 뒷면으로 떨어졌다는 것을, 앞면이야; That the coin anded tails. It was heads
 * (재산·사회적 성취 등에 있어서) 남에게 뒤지지 않으려 애쓰다 keep up with the Joneses 미국식  영국식  단어장추가
