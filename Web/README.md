@@ -98,6 +98,35 @@ https://gmlwjd9405.github.io/2019/02/01/orm.html
 * 방향성이 없다
 
 
+# MyBastis
+1. 객체 지향 언어인 자바의 관계형 데이터 베이스 프로그래밍을 보다 쉽게 도와주는 프레임 워크
+2. 자바에서는 관계형 데이터베이스 프로그래밍을 하기위해 JDBC를 제공
+     * ※JDBC(Java Database Connectivity) : 자바 프로그램이 데이터베이스와 연결되어 데이터를 주고 받을 수 있게 해주는 프           로그래밍 인터페이스이다(DriverClass, Connection, PreparedStatement, ResultSet etc)
+3. JDBC는 다양한 관계형 데이터베이스 프로그래밍을 위해 API 제공.
+* --> 결론 : MyBatis는 JDBC를 보다 편하게 사용하기 위해 개발되었다.
+
+## MyBastis 특징
+1. SQL문이 코드로부터 완전히 분리 : 기존에는 DAO파일에 모든 SQL문을 작성하였다. 하지만 MyBatis에서는 Mapper 파일에 SQL코드를 입력해 놓고 DAO 파일에서 필요할 때마다 가져와서 사용할 수 있다.
+2. 생산성 : 코드가 짧아진다.
+3. 유지보수성 향상 : Mapper 파일에만 SQL 코드를 입력하고 나중에 SQL 코드를 변경할 때 이곳에서 유지보수만 하면, DAO에서는 아무런 영향을 받지 않는다. 왜냐하면 DAO에서는 Mapper파일에서 작성된 SQL 코드를 갖다 쓰기만 하기 때문이다.
+
+
+
+## [MyBatis의 구성]
+1. MyBatis 환경설정 파일(SqlSessionConfig.xml) : MyBatis가 JDBC 코드를 실행하는데 필요한 전반에 걸친 세팅을 한다
+- TypAlias 설정 : 사용할 모델 클래스에 대한 별칭 설정. <typeAlias>
+-  DB 연동을 위한 설정 : DataBase에 어떻게 접속할 것인지에 대한 설정. <enviroment>
+- Mapper 설정 파일 등록 : 매핑 설정이 어디있는지. <mapper>
+
+2. Mapper 설정 파일(member.xml, company.xml) : Sql문과 관련된 설정을 하는 파일로서 MyBatis 설정파일(SqlSessionConfig.xml)에 등록을 하여야 한다.
+- 주요 구성 요소
+         * 1) SQL문 등록 태그
+               - SQL문 태그의 구성 요소 : Parameter, Result, ,SQL문 등록
+               - SQL 태그 : insert, delete, update, select
+               - 공통 SQL문 설정 태그 : <sql>
+          * 2) select 결과 처리 설정
+               - <resultMap>
+
 # Tier
 ## Client Tier
 * 웹 브라우저
