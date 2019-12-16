@@ -129,6 +129,10 @@ HTML 보여주는 웹 스크립팅 언어로 경량 프로그래밍 언어이다
 ## script
 - head나 body 어디든 적어도 되나 특수한 경우엔 어떤 것에만 놓아야 하는 경우가 있음.
 
+## head 태그
+- jQuery 라이브러리(jquery-1.11.2.min.js)를 HTML 문서 내에 포함하는 방법은 일반적으로 head 태그 내에 스타일 시트를 읽어들인 다음 자바스크립트를 읽어 들이는 순서를 따르며 이 때 다른 스크립트를 로드하기 전에 jQuery 스크립트를 우선하여 로드해야 한다.
+- ⎼head 태그에 기술한 jQuery는 적용이 되지 않는데 그 이유는 브라우저 내의 HTML 인터프리터에 의해서 DOM 트리가 생성되기 전에 span 엘리먼트를 검색하려고 시도했기 때문이다. 
+* body 아닌 head에 script를 넣고 function을 실행하려면 페이지를 다 불러오고 실행하라는 window.onload = funcion(){}를 붙여야 함
 
 # document
 ## getElementById
