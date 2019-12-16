@@ -23,6 +23,61 @@ ES6 이상으로 넘어가기 위한 몇 가지 걸림돌이 있다.
 출처: https://sanghaklee.tistory.com/54 [이상학의 개발블로그]
 ```
 
+
+
+
+# CSS
+## 우선순위
+- css가 제일 우선순위가 높다.
+- id가 class보다 우선순위가 높다.
+
+## id 와 class 의 차이점
+
+- id는 한페이지에 하나의 정의(style/css)로 하나의 태그(id="")만 사용할 수 있다. 즉 로고, 상단메뉴, 하단정보 같은 스타일을 정의할 때 id를 사용한다
+- class는 한페이지에 반복적으로 사용되는 스타일을 정의할 수 있다.
+- 반복적으로 사용되는 스타일에는 class를 이용하여 정의하고, 그 내부에 세부 스타일을 정의할 때 id를 사용해주면 효과적이다.
+
+# block과 inline 차이
+## inline
+-  width/height 적용 불가
+- margin/padding-top/bottom 적용 불가
+- line-height 원하는 대로 적용 불가(span에 적용안되고 감싸고 있는 div 전체 크기에만 영향 등)
+
+
+## block
+- 반면 block은 무조건 한줄을 점유하고, 다음 태그는 다음 줄로 가버리죠.
+- width/height 적용 가능
+- margin/padding-top/bottom 적용 가능
+- line-height 적용 가능
+- 다만 고려해야 할 것이 있습니다.
+- inline-block 끼리 공백이 생기게 되는데, 이때는 상위 div에 { font-size: 0; } 를 적용하면 해결이 됩니다.
+- inline-block 끼리 높이가 안맞을시 상위 공백이 생기는데, 이때는 { vertical-align: ---; } 값으로 top 등을 줘서 맞춰주시면 됩니다. 
+- 디테일한 보정이 필요하고 예민하신 분들은 inline-block 쓰시는게 낫고,
+text 내의 특정 부분 스타일 등 간단한 것들은 그냥 inline 쓰시면 됩니다.
+
+
+
+
+# font-family
+- 파이썬 라이브러리에서 이미지의 한글 인식 위한 것.
+
+# form
+## action
+- <form action="#"> </form>; 자기 자신 문서를 의미
+
+
+## 체크박스
+- 1차원 배열; jsp에서 request 객체에서 getParameterValues
+
+## 유효성 검사
+- <input type="text" name="name" required>
+- input 요소의 required 속성으로 입력 필드의 내용에 대한 유효성 검사를 한다.
+
+
+## required
+- required 속성보다 jQuery로 코딩할 것.
+
+
 ## HTML, CSS, 자바스크립트
 ```java
 ① HTML ⎼웹 페이지의 구조를 작성한다. 
