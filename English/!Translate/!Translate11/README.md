@@ -9,7 +9,14 @@
 
 
 # 원어민
+* 꼴찌까지는 아니었던 것 같아요; i don't know if i came in last place
+* 번거로운데; is too much of a hassle for me
+* 알겠습니다; i'm on it
 * 이건 빼주세요; Take this one out
+* 바베큐 소스인가요? is that BBQU sauce?
+* 나 신경쓰지마; don't mind me; don't worry about me(신경쓰지 않아도 돼)
+* 어르신 할인을 받으시더라고; my grandpa always gets the senior citizen discount
+* 피자 먹을 때 사이다랑 같이 먹는거 좋아해; i like to drink Sprite with pizza
 * 그가 파토냈어; he flaked on me again
 * 동전이 뒷면으로 떨어졌다는 것을, 앞면이야; That the coin anded tails. It was heads
 * (재산·사회적 성취 등에 있어서) 남에게 뒤지지 않으려 애쓰다 keep up with the Joneses 미국식  영국식  단어장추가
