@@ -898,3 +898,16 @@ Unlike sb와 같아요!
 * 핑계거리가 떨어져가고있어; i'm running out of excuses
 * 베터리가 떨어져가고있어; i'm running out of battery
  * 기계를 주체로 해도 된다; my phone is running out of battery
+
+
+# [ 영어회화 / 직장영어 ] "빠진 내용이 없는지 확인했으면 좋겠습니다"
+* "이번 주에 우리가 할 일들을 목록으로 만들어봤어요
+ * "OK. I've put together a list of the things we need to do this week. 
+* 오늘 아침에 얘기한 내용을 다 넣으려고 했는데 같이 검토해서 빠진 내용이 없는지 확인했으면 좋겠어요
+ * I tried to include everything we discussed this morning but I'd like it if we could go over it together and make sure nothing has been left out.
+ * include 동사에 익숙해지자
+ * i'd like it if we could V: formal 하게 말하려고 하는 것
+* 시간의 순서대로 최대한 정리하려고 했는데 그것도 수정이 필요하다고 느껴지면 얘기해주세요."
+ * I did my best to put it in chronological order but please let me know if you feel(think) we need to make any changes to that as well."
+ * 변화를 주다 make changes something
+ 
