@@ -7,7 +7,7 @@
 	* 블록의 사이즈는 DB_BLOCK_SIZE 라는 파라미터로 지정을 할 수 있다.(2K, 4K, 8K 처럼 2의 N승으로 지정 가능)
 * EXTENT: 데이터베이스가 공간을 할당하는 가장 작은 단위
 	* 예를 들어 블록이 4K, EXTENT가 32K면 8개의 블록이 하나의 EXTENT를 이룬다.
-* SEGEMENT는 OBJECT라고 생각하면 된다. OBJECT중에서 저장 공간을 사용을 하는 OBJECT다.
+* SEGEMENT는 OBJECT라고 생각하면 된다. OBJECT중에서 저장 공간을 사용을 하는 OBJECT다.1.8
 	* VIEW와 SYNONYM 은 저장 구조를 갖지 않는 OBJECT이다.
 	* HWM-High Water Mark
 * TABLESPACE는 SEGMENT들을 담고있는 거대한 컨테이너다
@@ -1376,17 +1376,6 @@ B* +트리, 해시등의 알고리즘을 사용한다.
 ## 조인과 서브쿼리 차이
 - 조인은 컬럼대 컬럼 대상, 서브쿼리는 값대 값; 값을 통한 조인
 
-# 서브쿼리
-- in을 가장 많이 사용.
-
-## in 과 any 차이
-- in은 비교대상 필요 없고 any는 비교대상 필요
-- any 연산자는 메인 쿼리의 비교 조건이 서브 쿼리의 검색 결과와 하나 이상만 일치하면 참이다.
-- exist: exists 연산자는 서브쿼리에서 적어도 개의 행을 리턴하면 논리식은 참이고 그렇지 않으면 거짓이 되는 연산자이다 1 . ⎼exists 연산자는 서브 쿼리의 결과값이 참이 나오기만 하면 바로 메인 쿼리의 결과값을 리턴한다.
-
-## exist와 in 차이
-- EXISTS는 단지 ROW가 존재하는지만 체크하고 더 이상 수행 되지 않으나, IN은 실제 존재하는 데이터들의 모든 값까지 확인한다. 따라서, EXISTS 연산자가 더 좋은 성능을 보이므로 가능하면 EXISTS를 사용하는 것이 바람직해 보인다. 
-- 또 다른 한가지는, JOIN되는 COLUMN에 NULL을 갖는 ROW가 존재한다면 NOT EXISTS는 TRUE값을, NOT IN은 FALSE값이 리턴된다. 즉, NOT IN을 사용하면 조건에 맞는 데이터가 있다고 하더라도 NULL이 존재하면 "NO ROWS SELECTED"라고 나오게 된다. 따라서 NVL을 이용한 NULL 처리가 꼭 필요하다.
 
 
 
@@ -1938,6 +1927,33 @@ n   클라이언트 측 : Server -> API(JSON or XML) -> DTO -> View or Local Dat
 * select where 전에 사용될 수 있고 insert, update, delete 로 변경할 수는 없다.
 * 유일한 주소값이지만 테이블의 PK처럼 사용할 수 없다
 * 삭제 후 다시 동일한 레코드를 입력한다고 행쓸 때 rowid는 변경되며 레코드를 삭제했다면 삭제된 레코드의 rowid는 나중에 입력되는 다른 코드에 부여도리 ㅅ 있다.
+
+# 서브쿼리
+- in을 가장 많이 사용.
+
+## 서브쿼리 종류
+1. select 절에 존재; scalar subquery
+2. from절: inline view
+3. where절: 중첩 서브쿼리
+
+## Self Join
+* 서브 쿼리 사용 말고 Self Join 사용할 때
+```SQL
+select e1.ename
+from emp e1, emp e2
+where e1.deptno = e2.deptno
+and e2.eanme = 'Smith'
+```
+
+## in 과 any 차이
+- in은 비교대상 필요 없고 any는 비교대상 필요
+- any 연산자는 메인 쿼리의 비교 조건이 서브 쿼리의 검색 결과와 하나 이상만 일치하면 참이다.
+- exist: exists 연산자는 서브쿼리에서 적어도 개의 행을 리턴하면 논리식은 참이고 그렇지 않으면 거짓이 되는 연산자이다 1 . ⎼exists 연산자는 서브 쿼리의 결과값이 참이 나오기만 하면 바로 메인 쿼리의 결과값을 리턴한다.
+
+## exist와 in 차이
+- EXISTS는 단지 ROW가 존재하는지만 체크하고 더 이상 수행 되지 않으나, IN은 실제 존재하는 데이터들의 모든 값까지 확인한다. 따라서, EXISTS 연산자가 더 좋은 성능을 보이므로 가능하면 EXISTS를 사용하는 것이 바람직해 보인다. 
+- 또 다른 한가지는, JOIN되는 COLUMN에 NULL을 갖는 ROW가 존재한다면 NOT EXISTS는 TRUE값을, NOT IN은 FALSE값이 리턴된다. 즉, NOT IN을 사용하면 조건에 맞는 데이터가 있다고 하더라도 NULL이 존재하면 "NO ROWS SELECTED"라고 나오게 된다. 따라서 NVL을 이용한 NULL 처리가 꼭 필요하다.
+
 
 
 # with 구문
