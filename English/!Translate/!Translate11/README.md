@@ -748,6 +748,13 @@ I almost couldn't make it to work on time.
 * A: When can you take (some) time off work?
 * B: What? I've been working there for only a week.I haven't even met all of my co-workers yet. I think It's a little too soon to request a leave.
 
+# 영어 대명사 활용 연습 - they / them / ones / mine [기초영어회화]
+* A: Are those your gloves? - 그거 님 장갑이에요?
+* B: Yeah, they're mine. I got them like a month ago. - 네. 제꺼예요. 한 달 전쯤에 샀어요.
+* A: I actually have similar ones. Can you use your phone wearing them? - 저도 사실 비슷한거 있어요. 착용한 채로 스마트폰 쓸 수 있어요?
+* B: No. It would be really nice if I could. - 아니오. 그럴 수 있다면 진짜 좋긴 하겠네요.
+* A:  I know. That's why I don't wear mine very often. - 맞아요. 그래서 저는 잘 안끼고 다녀요.
+
 
 # [ 영어회화 연습가이드 ] 좌측상단 / 우측상단 / 좌측하단 / 우측하단
 * "이 화면에 주목해주시기 바랍니다.
