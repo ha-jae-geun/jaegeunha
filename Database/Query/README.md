@@ -1,3 +1,9 @@
+# outer join
+```sql
+from emp e right (outer) join dept d
+using(deptno)  /  on e.deptno = d.deptno
+```
+
 # 쿼리 추출 개수 설정
 ```java
 SELECT a.NAME, a.DATETIME
