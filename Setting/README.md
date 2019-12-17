@@ -294,6 +294,7 @@
 - 자바 6.0, 7.0 + 톰켓6.0
 
 ## Spring Tools 3.9.8
+* Spring Bean Configuration File 만들 수 
 
 ## Spring Tools 4 for 
 - Spring Tool Suite 4부터는 legacy project 없이 spring boot version만 사용하여야 함. 
