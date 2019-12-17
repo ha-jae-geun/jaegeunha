@@ -66,6 +66,11 @@ https://gmlwjd9405.github.io/2018/10/29/web-application-structure.html
 # web.xml
 * web application의 설정을 위한 deployment descriptor
 
+1. DispatcherServlet 클래스
+* ⎼DispatcherServlet 클래스는 그 자체가 서블릿이기 때문에 1개 이상의 DispatcherServlet 클래스를 설정하는 것이 가능하며 DispatcherServlet 클래스는 각각 별도의 WebApplicationContext 인터페이스를 생성하게 된다.
+* ⎼DispatcherServlet 클래스는 한 개 이상의 설정 파일을 사용해야 하는 경우나 기본 설정 파일 이름이 아닌 다른 이름의 설정 파일을 사용할 경우에 DispatcherServlet 클래스를 설정할 때 contextConfigLocation 초기화 파라미터에 설정 파일 목록을 지정하면 된다.
+* ① DispatcherServlet 클래스의 다이나믹 웹 프로젝트와 메이븐 웹 프로젝트 서블릿 설정
+
 ## 역할
 * Deploy할 때 Servlet의 정보를 설정해준다.
 * 브라우저가 Java Servlet에 접근하기 위해서는 WAS(Ex. Tomcat)에 필요한 정보를 알려줘야 해당하는 Servlet을 호출할 수 있다.
@@ -237,6 +242,30 @@ ViewResolver
 </bean>
 https://gmlwjd9405.github.io/2018/10/29/web-application-structure.html
 ```
+
+# servlet-context.xml 
+* ⎼ 에서는 뷰와 서비스 지원에 관련한 서블릿 관련 을 설정한다 servlet-context.xm Bean . 
+1. 뷰 설정
+2. Bean 설정
+3. 어노테이션 설정
+4. 리소스 설정
+5. 프로퍼티 파일 데이터 연동
+
+# root-context.xml 
+* 에서는 데이터베이스 등의 을 설정한다 root-context.xml , Repository(DAO), log Bean . 
+1.  데이터베이스 설정
+2.  MyBatis 추가 설정 
+
+
+# Controller 설정
+
+
+# WEB-INF 디렉토리에 뷰 설정 
+
+
+# 자바 관련 파라미터 타입
+
+
 
 # 스프링 실행
 * 톰켓의 server.xml -> web.xml -> 프로젝트 web.xml -> config -> root
