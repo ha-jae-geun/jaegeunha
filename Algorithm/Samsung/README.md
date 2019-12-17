@@ -367,7 +367,7 @@ public class Solution{
                 if((i+2)%4 == dir && dpt !=1) continue;
                 //이걸 확인해야 양쪽이 뚫려 있다는 것
                 if(Pipe[A[r][c]][i] == 1 && Pipe[A[nr][nc]][(i+2)%4]==1) {
-                     
+                    //갈 수 있는 곳 다 잡기  
                     V[nr][nc] = true;
                      
                     dfs(dpt+1, nr,nc, i);
@@ -388,6 +388,143 @@ public class Solution{
 ## 오답노트
 1. (i+2)%4 2개
 
+
+# ans
+* 테스트 케이스 for문 안에서 static ans -1 초기화
+ * ans 최대값 구하기
+
+
+# dfs 메소드
+ * 값 변환 전 visit true: O
+ * perm: O
+ * 값 변환 후 1. 변한값 dfs 전  true 2. 변한 값 visit false: O
+
+# 값 변환
+ * nr=0,nc=0; 값 초기화
+ * nr<1||nr>N||nc<1||nc>M  혹은 ny < 0 || ny > N - 1 || nx < 0 || nx > N - 1
+ * dfs
+
+
+
+# 등산로 조성
+* https://seungahyoo.tistory.com/64
+```java
+import java.io.BufferedReader;
+import java.io.InputStreamReader;
+import java.util.ArrayList;
+import java.util.StringTokenizer;
+
+public class Solution {
+    private static int[][] map;
+    private static boolean[][] visit;
+    private static int N;
+    private static int K;
+    private static ArrayList<pair> top;
+    private static int bottom;
+    static int[] dy = {-1,0,1,0 };
+    //dy 거꾸로
+    static int[] dx = { 0,1,0,-1 };
+    static int ans;
+    
+    public static void main(String[] args) throws Exception {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int T = Integer.parseInt(br.readLine());
+ 
+        for (int tc = 1; tc <= T; tc++) {
+            ans=-1;
+            StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+            N = Integer.parseInt(st.nextToken());
+            K = Integer.parseInt(st.nextToken()); // 최대 K만큼 한 번 지형을 깎는다
+ 
+            map = new int[N][N];
+            top = new ArrayList<>();
+            int max = -1;
+            bottom = 21;
+            for (int i = 0; i < N; i++) {
+                st = new StringTokenizer(br.readLine(), " ");
+                for (int j = 0; j < N; j++) {
+                    map[i][j] = Integer.parseInt(st.nextToken());
+                    if (max < map[i][j]) {
+                        max = map[i][j];
+                        top.clear();
+                        top.add(new pair(i, j));
+                    } else if (max == map[i][j]) {
+                        top.add(new pair(i, j));
+                    }
+                    bottom = bottom > map[i][j] ? map[i][j] : bottom;
+                }
+            } ////// input
+ 			//DFS(0,0)에서 depth 역할; 0으로 계속 초기화 해줘야 함
+  			
+                
+            for (pair p : top) {
+              //top마다 visit 달리 체크
+                visit = new boolean[N][N];
+                dfs(p.y, p.x, 1, false);
+ 
+            }
+ 
+            System.out.println("#" + tc + " " + ans);
+        } // end of tc
+    }// end of main
+ 
+
+ 
+    private static void dfs(int y, int x, int len, boolean cut) {
+        // cut이 true 면 공사를 했다.
+ 
+        
+        
+        //swap 혹은 visit 관리; swap은 2개
+        visit[y][x] = true;
+        
+        //depth 처리; perm; 위치 다양
+        ans = ans < len ? len : ans;
+ 
+        
+ 
+        for (int i = 0; i < 4; i++) {
+            int ny = y + dy[i];
+            int nx = x + dx[i];
+            
+            //
+            if (ny < 0 || ny > N - 1 || nx < 0 || nx > N - 1 || visit[ny][nx])
+                continue;
+            if (map[ny][nx] < map[y][x]) {
+                dfs(ny, nx, len + 1, cut);
+            } else { // 같거나 높으면
+                if (!cut) { // cut이 false면 아직 공사를 안한 상태
+                    for (int k = 1; k <= K; k++) {
+                        int tmp = map[ny][nx];
+                        map[ny][nx] -= k;
+                        if (map[ny][nx] < map[y][x])
+                            dfs(ny, nx, len + 1, true);
+                        map[ny][nx] = tmp;
+                    }
+                }
+            }
+            //swap 혹은 visit 관리
+            visit[ny][nx] = false;
+        }
+ 
+    }
+ 
+    static class pair {
+        int y;
+        int x;
+ 
+        public pair(int y, int x) {
+            this.y = y;
+            this.x = x;
+        }
+ 
+    }
+}
+
+```
+## 오답노트
+1. for (int k = 1; k <= K; k++) {
+2. static class pair
 
 # ans
 * 테스트 케이스 for문 안에서 static ans -1 초기화
@@ -589,140 +726,6 @@ public class Solution {
  * dfs
 
 
-# 등산로 조성
-* https://seungahyoo.tistory.com/64
-```java
-import java.io.BufferedReader;
-import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.StringTokenizer;
-
-public class Solution {
-    private static int[][] map;
-    private static boolean[][] visit;
-    private static int N;
-    private static int K;
-    private static ArrayList<pair> top;
-    private static int bottom;
-    static int[] dy = {-1,0,1,0 };
-    //dy 거꾸로
-    static int[] dx = { 0,1,0,-1 };
-    static int ans;
-    
-    public static void main(String[] args) throws Exception {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int T = Integer.parseInt(br.readLine());
- 
-        for (int tc = 1; tc <= T; tc++) {
-            ans=-1;
-            StringTokenizer st = new StringTokenizer(br.readLine(), " ");
-            N = Integer.parseInt(st.nextToken());
-            K = Integer.parseInt(st.nextToken()); // 최대 K만큼 한 번 지형을 깎는다
- 
-            map = new int[N][N];
-            top = new ArrayList<>();
-            int max = -1;
-            bottom = 21;
-            for (int i = 0; i < N; i++) {
-                st = new StringTokenizer(br.readLine(), " ");
-                for (int j = 0; j < N; j++) {
-                    map[i][j] = Integer.parseInt(st.nextToken());
-                    if (max < map[i][j]) {
-                        max = map[i][j];
-                        top.clear();
-                        top.add(new pair(i, j));
-                    } else if (max == map[i][j]) {
-                        top.add(new pair(i, j));
-                    }
-                    bottom = bottom > map[i][j] ? map[i][j] : bottom;
-                }
-            } ////// input
- 			//DFS(0,0)에서 depth 역할; 0으로 계속 초기화 해줘야 함
-  			
-                
-            for (pair p : top) {
-              //top마다 visit 달리 체크
-                visit = new boolean[N][N];
-                dfs(p.y, p.x, 1, false);
- 
-            }
- 
-            System.out.println("#" + tc + " " + ans);
-        } // end of tc
-    }// end of main
- 
-
- 
-    private static void dfs(int y, int x, int len, boolean cut) {
-        // cut이 true 면 공사를 했다.
- 
-        
-        
-        //swap 혹은 visit 관리; swap은 2개
-        visit[y][x] = true;
-        
-        //depth 처리; perm; 위치 다양
-        ans = ans < len ? len : ans;
- 
-        
- 
-        for (int i = 0; i < 4; i++) {
-            int ny = y + dy[i];
-            int nx = x + dx[i];
-            
-            //
-            if (ny < 0 || ny > N - 1 || nx < 0 || nx > N - 1 || visit[ny][nx])
-                continue;
-            if (map[ny][nx] < map[y][x]) {
-                dfs(ny, nx, len + 1, cut);
-            } else { // 같거나 높으면
-                if (!cut) { // cut이 false면 아직 공사를 안한 상태
-                    for (int k = 1; k <= K; k++) {
-                        int tmp = map[ny][nx];
-                        map[ny][nx] -= k;
-                        if (map[ny][nx] < map[y][x])
-                            dfs(ny, nx, len + 1, true);
-                        map[ny][nx] = tmp;
-                    }
-                }
-            }
-            //swap 혹은 visit 관리
-            visit[ny][nx] = false;
-        }
- 
-    }
- 
-    static class pair {
-        int y;
-        int x;
- 
-        public pair(int y, int x) {
-            this.y = y;
-            this.x = x;
-        }
- 
-    }
-}
-
-```
-## 오답노트
-1. for (int k = 1; k <= K; k++) {
-2. static class pair
-
-# ans
-* 테스트 케이스 for문 안에서 static ans -1 초기화
- * ans 최대값 구하기
-
-
-# dfs 메소드
- * 값 변환 전 visit true: O
- * perm: O
- * 값 변환 후 1. 변한값 dfs 전  true 2. 변한 값 visit false: O
-
-# 값 변환
- * nr=0,nc=0; 값 초기화
- * nr<1||nr>N||nc<1||nc>M  혹은 ny < 0 || ny > N - 1 || nx < 0 || nx > N - 1
- * dfs
 
 
 
