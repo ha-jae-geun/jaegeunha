@@ -9,6 +9,8 @@
 
 
 # 원어민
+* 자동 둔전시스템으로 운전하는 것에 관한 새로운 법에 대해 들어봤어? Have you heard about the new law about driving on autopilot?
+* 믿을만한 사람 아니야; He's not a flake
 * 꼴찌까지는 아니었던 것 같아요; i don't know if i came in last place
 * 번거로운데; is too much of a hassle for me
 * 알겠습니다; i'm on it
