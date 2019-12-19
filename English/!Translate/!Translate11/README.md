@@ -920,3 +920,10 @@ Unlike sb와 같아요!
  * I did my best to put it in chronological order but please let me know if you feel(think) we need to make any changes to that as well."
  * 변화를 주다 make changes something
  
+# "너무 기분 나쁘게 듣지 마 / 함부로 말하다 / 그런거에 흔들리지 마" - 영어로 어떻게 말할까? [ 영어회화 ]
+* "너무 기분 나쁘게 듣지 마. "Don't take it so personally. 
+* 사람들이 SNS 상에서 어떤지 알잖아. You know how people are on social media.
+ * 이 맘떄쯤 어떤지 알잖아; YOu know how people are around this time of the year
+* 누구를 실제로 만날 일이 없다는 이유로 말을 함부로 할 때 있어.  People can get really careless with their words when they know they never have to meet you in person
+* 거기에 흔들리지 마."Don't let it get to you."
+ 
