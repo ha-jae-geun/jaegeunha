@@ -1,6 +1,9 @@
 # 간소
 * 랭킹 뉴스: https://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
 * 테스트 영어: 라이브 아카데미 / 올리버 쌤 / Sophie ban / 날라리데이브 / michael elliot
+
+
+# 말
 * 라이브/뉴 : https://github.com/ha-jae-geun/jaegeunha/blob/master/English/!!Test/README.md
 
 # 토익
