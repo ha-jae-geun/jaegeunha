@@ -9,6 +9,8 @@
 
 
 # 원어민
+* 생활의 활력을 넣고있어; it has boosted my energy
+* 드디어 자리잡았어요; We finally settled on a place
 * 자동 둔전시스템으로 운전하는 것에 관한 새로운 법에 대해 들어봤어? Have you heard about the new law about driving on autopilot?
 * 믿을만한 사람 아니야; He's not a flake
 * 꼴찌까지는 아니었던 것 같아요; i don't know if i came in last place
