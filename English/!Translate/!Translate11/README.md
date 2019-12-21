@@ -929,3 +929,28 @@ Unlike sb와 같아요!
 * 누구를 실제로 만날 일이 없다는 이유로 말을 함부로 할 때 있어.  People can get really careless with their words when they know they never have to meet you in person
 * 거기에 흔들리지 마."Don't let it get to you."
  
+# [ 영어 대화가이드 ] "난 뭐든 상관 없어." , "전 어디든 좋아요."
+```java
+A: 어느거 마실래요?
+Which one do you want? 
+B: 어느 것도 상관없어요.
+(Oh,) Either one is fine.
+ * 선택권이 두 가지일 경우 'Either'사용
+(어느 것이든) 당신이 원하는거 하세요.
+You can have whichever one you want (to have).
+
+A: 뭐 먹을래요? 
+What do you want (to eat)?
+B: 뭐든 상관 없어요.  
+Anything is fine.
+당신이 원하는 뭐든 좋아요. 
+We can have whatever you want (to have).
+
+A: 어디 갈래요? 
+Where do you want to go?
+B: 어디든 상관 없어요.  
+Anywhere is fine.
+당신이 원하는 데로 어디든 좋아요. 
+We can go wherever you want to go.
+
+```
