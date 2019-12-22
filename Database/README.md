@@ -1959,3 +1959,10 @@ and e2.eanme = 'Smith'
 # with 구문
 * 이름이 부여된 서브컬리 블록으로 global temporary tables, virtual table or an inline view 처럼 작동된다.
 2. 복장된 SQL에서 동일 쿼리블록이 반족적으로 사용되는 경우 그 블록에 이름을 부여하여 한곳에서 정의하고 이름 재활용 하 수 있게 함으로 쿼리문 코딩강도 줄이고 성능도 향상시킬 수 있다.
+
+
+# case-when
+* 간단한 case-when은 decode로 대체 가능
+```sql
+decode(gender, 'boy', '남', 'girl', '여', '혼성')
+```
