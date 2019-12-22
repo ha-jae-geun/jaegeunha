@@ -171,6 +171,31 @@ HTML 문서로 전송해 줄 수 있는 응용 프로그램의 필요성 때문�
 ![서블릿](./image/servlet.JPG)
 - 서버에서 실행되는 자바 프로그램(HTML in JAVA)
 
+```java
+1. annotation
+
+2. 
+<web-app>
+
+    <!-- 1. aliases 설정 -->
+    <servlet>
+        <servlet-name>welcome</servlet-name>
+	//매핑할 클래스 파일명을 패키지명을 포함하여 정확하게 입력
+        <servlet-class>servlets.WelcomeServlet</servlet-class>
+    </servlet>
+
+    <!-- 2. 매핑 -->
+    <servlet-mapping>
+    	//입의의 이름 입력
+        <servlet-name>welcome</servlet-name>
+	//  /로 시작해야 한다
+        <url-pattern>/welcome</url-pattern>
+    </servlet-mapping>
+
+</web-app>
+https://gmlwjd9405.github.io/2018/10/29/web-application-structure.html
+
+```
 
 ## JSP가 나온 이유
 *  HTML을 코딩하기 너무 어렵고 불편해서 HTML 내부에 Java코드를 삽입하는 형식이 JSP이다. 다시 말해 서블릿의 단점을 보완하고자 만든 서블릿 기반의 스크립트 기술이다. 서블릿을 이용하게 되면 웹프로그래밍을 할 수 있지만 자바에 대한 지식이 필요하며 화면 인터페이스 구현에 너무 많은 코드를 필요로 하는 등 비효율적인 측면들이 있다. 때문에 서블릿을 작성하지 않고도 간편하게 웹프로그래밍을 구현하게 만든 기술이 JSP(Java Server Pages)이다.
