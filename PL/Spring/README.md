@@ -161,6 +161,79 @@ PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
 ```
 
 
+# log4j.xml
+* ⎼프로그램 개발이나 운영 시 발생하는 문제점을 추적하거나 운영 상태를 모니터링하기 위한 텍스트인 로그(Log)를통해 확인한다.
+* ⎼일반적으로 개발을 하면서 변수에 대한 값을 확인하기 위해서 System.out.println( )로 확인을 하는데 이런 작업들이 로그라고 할 수 있으며 System.out.println( )로 작업을 할 때 문제가 발생할 수 있는데 그 문제는 다음과 같다.
+* ① System.out.println( )를 지워준다면 몰라도 그렇지 않을 경우에는 계속 출력이 되므로 운영 시에 불필요한 로그가 계속 출력된다.
+* ② 모든 로그를 지워버리면 에러가 발생 했을 경우에 그 에러 원인을 찾기가 어려울 수도 있다.
+* ③ System.out.println( )를 많이 호출하면은 성능에 큰 영향을 미치는데 다중 처리를 하는 웹에서는 큰 문제를 만들 수도 있다.
+* ⎼Log4j는 자바기반의 로깅 유틸리티로 Apache에서 만든 오픈소스 라이브러리로 로그를 전담하는 프레임워크로 위와 같은 문제점을 손쉽게 해결할 수 있다.
+* ⎼Logj4는 시스템의 성능에 큰 영향을 미치지 않으면서도 옵션 설정을 통해서 다양한 로깅 방법을 제공한다.
+* ⎼Logj4는 환경설정을 통해서 선택적인 로그를 남긴다거나 특정 파일등에 로그를 생성하는 등 다양한 이점을 가지고 있다.
+* ⎼Logj4는 소스 폴더에 log4j.xml 파일로 설정한다.
+
+
+## 라이브러리
+```java
+⎼log4j 라이브러리를 pom에 등록하여 적용한다.
+
+<dependency>
+<groupId>log4j</groupId>
+<artifactId>log4j</artifactId>
+<version>1.2.17</version>
+</dependency>
+```
+
+## (3) log4j.xml 파일에서의 네임스페이스의 선언
+```java
+⎼Log4j는 다음과 같이 configuration 설정을 위하여 네임스페이스를 선언한다.
+<!DOCTYPE log4j:configuration PUBLIC "-//APACHE//DTD LOG4J 1.2//EN" "log4j.dtd">
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/">
+… 설정 …
+</log4j:configuration>
+```
+
+## logj4의 구성
+```java
+<appender name="console" class="org.apache.log4j.ConsoleAppender">
+	<param name="Target" value="System.out" />
+	<layout class="org.apache.log4j.PatternLayout">
+		<param name="ConversionPattern" value="%-5p: %c - %m%n" />
+	</layout>
+</appender>
+<logger name="min.mybatis.template">
+	<level value="info" />
+</logger>
+<root>
+	<priority value="info" />
+	<appender-ref ref="console" />
+</root>
+```
+
+## ① Logj4의 주요 요소
+```java
+가. Logger 요소
+⎼Logger 요소는 출력할 메시지를 Appender 요소에 전달한다.
+나. Appender 요소
+⎼Appender 요소는 전달된 로그를 콘솔 출력, 파일 기록, DB 저장 등 어디에 출력할 지를 결정한다.
+다. Layout 요소
+⎼Layout 요소는 로그를 어떤 형식으로 출력할 지를 결정한다.
+② Logj4의 주요 로그 레벨
+가. info 로그 레벨
+⎼info 로그 레벨은 어떠한 상태변경과 같은 정보성 메시지를 나타낸다.
+나. debug 로그 레벨
+⎼debug 로그 레벨은 개발 할 때 디버그 용도로 사용하는 메시지를 나타낸다.
+다. fatal 로그 레벨
+⎼fatal 로그 레벨은 아주 심각한 에러가 발생한 상태를 나타낸다.
+라. error 로그 레벨
+⎼error 로그 레벨은 어떠한 요청을 처리하는 중 문제가 발생한 상태를 나타낸다.
+마. warn 로그 레벨
+⎼warn 로그 레벨은 프로그램의 실행에는 문제가 없지만 향후 시스템 에러의 원인이 될 수 있는 경고성 메시지를
+나타낸다.
+바. trace 로그 레벨
+⎼trace 로그 레벨은 디버그 레벨이 너무 광범위한 것을 해결하기 위해서 좀 더 상세한 이벤트를 나타낸다
+```
+
 # web.xml
 * web application의 설정을 위한 deployment descriptor
 
