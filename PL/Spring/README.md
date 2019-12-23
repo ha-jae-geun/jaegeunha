@@ -42,6 +42,20 @@
 
 # Web Application Structure(웹 서비스 기본 설정 구조)
 ```java
+1. src/main/java
+자바 코드
+
+2. src/main/resources
+	config/configuration.xml
+
+	db/mapper.xml
+	
+	log4j.xml
+
+
+----
+
+
 1. src
 개발자가 작성한 Servlet 코드가 저장된다.
 2. Libraries
@@ -50,19 +64,103 @@ jar로 압축한 파일이어야 한다.
 3. WebContent
 Deploy할 때 WebContent 디렉터리 전체가 .war로 묶어서 보내진다.
 WEB-INF
-lib:
-추가한 모든 라이브러리 또는 드라이버가 이곳에 모두 저장된다.
-classes:
-작성한 Java Servlet 파일이 나중에 .class로 이곳에 모두 저장된다.
-web.xml:
-SUN에서 정해놓은 규칙에 맞게 작성해야 하며 모든 WAS에 대하여 작성 방법이 동일하다.
-아래 추가 설명
+	lib:
+	추가한 모든 라이브러리 또는 드라이버가 이곳에 모두 저장된다.
+	classes:
+	작성한 Java Servlet 파일이 나중에 .class로 이곳에 모두 저장된다.
+	spring
+		appServlet
+			servlet-context.xml
+		root-context.xml
+			<bean class="org.mybatis.spring.SqlSessionFactoryBean" id="sqlSessionFactoryBean" >
+				<property name="configLocation" value="classpath:/config/configuration.xml" />
+				<property name="mapperLocations" value="classpath:/db/mapper.xml" />
+				
+			
+	web.xml:
+	SUN에서 정해놓은 규칙에 맞게 작성해야 하며 모든 WAS에 대하여 작성 방법이 동일하다.
+	아래 추가 설명
+
 .html 파일들
 관련된 HTML 소스를 저장한다.
 Ex) WebContent - views Directory - index.html는 http://localhost/helloLogin/views/index.html와 매핑된다.
 https://gmlwjd9405.github.io/2018/10/29/web-application-structure.html
 
 ```
+# configuration.xml
+```java
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+<environments default="development">
+<environment id="development">
+<transactionManager type="JDBC"/>
+<dataSource type="POOLED">
+<property name="driver" value="oracle.jdbc.OracleDriver"/>
+<property name="url" value="jdbc:oracle:thin:@127.0.0.1:1521:orcl"/>
+<property name="username" value="scott"/>
+<property name="password" value="tiger"/>
+</dataSource>
+</environment>
+</environments>
+<mappers>
+<mapper resource="mapper/Mapper.xml" />
+</mappers>
+</configuration>
+```
+
+```java
+5행~20행 : <configuration> ~ </configuration>
+⎽ <configuration> 태그는 중앙 허브 역할을 하며 전역 설정 정보이다.
+ 6행 ~ 16행 : <environments default="development"> ~ </environments>
+⎽ <environments> 태그는 트랜잭션 관리와 커넥션 풀링을 위한 환경적인 설정하며 environments 요소의 default
+속성은 기본 환경의 임의의 식별자를 지정하고 environment 요소의 id 속성의 식별자와 일치해야 하며 공백
+문자열로 지정하거나 environment 요소의 id 속성의 임의의 식별자와 일치하지 않으면 예외가 발생한다.
+ 7행 ~ 15행 : <environment id="development"> ~ </environment>
+⎽ <environment> 태그는 각각의 트랜잭션 관리와 커넥션 풀링을 위한 환경적인 설정하고 environment 요소의
+id 속성은 각각의 환경을 정의한 임의의 식별자를 지정한다.
+ 8행 : <transactionManager type="JDBC" />
+⎽ <transactionManager> 태그는 트랜잭션 관리를 설정한다.
+⎽transactionManager 요소의 type 속성의 JDBC 키워드는 간단하게 JDBC 커밋과 롤백을 처리하고 트랜잭션의
+범위를 관리하기 위해 <dataSource> 태그로 부터 커넥션을 가져온다.
+ 9행~14행 : <dataSource type="POOLED"> ~ </dataSource>
+⎽ <dataSource> 태그는 요소는 데이터베이스의 연결을 설정하고 dataSource 요소의 type 속성의 POOLED 키워드
+는 DataSource 인터페이스에 풀링이 적용된 JDBC 커넥션을 위한 구현체이다.
+ 10행 : <property name="driver" value="oracle.jdbc.OracleDriver"/>
+⎽ property 요소의 name 속성의 값에 driver를 지정하며 템플릿 방식에 지정하는 driverClassName와 주의해야
+한다.
+ 17행~19행 : <mappers> ~ </mappers>
+⎽<mappers> 태그는 SQL 코드와 매핑 정의를 가지는 XML 파일인 mapper의 목록을 지정한다.
+ 18행 : <mapper resource="mapper/Mapper.xml" />
+⎽<mapper> 태그는 sql 구문이 정의된 xml 파일을 위치를 속성으로 설정하며 경로 설정 방식에 주의해야 한다.
+```
+
+# configuration.xml
+```java
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+<typeAliases>
+<typeAlias alias="DeptDTO" type="min.mybatis.template.dto.DeptDTO" />
+</typeAliases>
+</configuration>
+```
+
+```java
+ 5행~9행 : <configuration> ~ </configuration>
+⎽ <configuration> 태그는 중앙 허브 역할을 하며 전역 설정 정보이다.
+ 6행~8행 : <typeAliases> ~ </typeAliases>
+⎽<typeAliases> 태그는 자바 클래스에 대한 좀 더 짧은 이름이며 오직 XML 설정에서만 사용된다.
+ 7행 : <typeAlias alias="DeptDTO" type="min.mybatis.template.DeptDTO" />
+⎽ <typeAliase> 태그로 설정하며 typeAliase 요소의 alias 속성으로 별칭의 이름을 DeptDTO로 명시하고 type
+속성으로 별칭에 사용할 클래스를 min.mybatis.template.DeptDTO로 지정한다.
+```
+
+
 # web.xml
 * web application의 설정을 위한 deployment descriptor
 
@@ -250,6 +348,22 @@ https://gmlwjd9405.github.io/2018/10/29/web-application-structure.html
 3. 어노테이션 설정
 4. 리소스 설정
 5. 프로퍼티 파일 데이터 연동
+
+
+3. 어노테이션 설정
+```java
+⎼ <annotation-driven> 태그는 스프링 컴포넌트들의 MVC 디폴트 설정을 가지고 활성화를 위해서 사용된다.
+⎼ <annotation-driven> 태그는 @Component 어노테이션이 속한 Bean 스캔 어노테이션의 설정을 확인한다.
+⎼ <context:component-scan> 태그를 XML 파일에서 빈을 생성하기 위해 사용하면서 <annotation-driven> 태그를
+포함시키지 않아도 MVC 어플리케이션은 작동한다.
+⎼ <annotation-driven> 태그는 @Controllers 어노테이션에게 요청을 전파하기 위해 요구되는 HandlerMapping
+인터페이스와 HandlerAdapter 인터페이스를 등록한다.
+⎼<annotation-driven> 태그와 <context:component-scan> 태그의 선언에는 어떤 의존성이 없으므로 상호 연관성
+이 없다.
+⎼ <context:component-scan> 태그를 포함해주면 <annotation-driven> 태그를 선언 안 해준 @Controller 어노테
+이션과 @RequestMapping 어노테이션은 이슈 없이 잘 동작한다.
+```
+
 
 # root-context.xml 
 * 에서는 데이터베이스 등의 을 설정한다 root-context.xml , Repository(DAO), log Bean . 
