@@ -1,101 +1,3 @@
-# [ 기초영어회화 ] -- 할 기회가 있었다 / 없었다
-* i had a chance to do smoething; 지금은 기회가 없다
-* i got a chance to do something; 기회를 얻었다.
- * got to do something
- * i got a see a lot of amazing things during the trip
-* 기회가 많지 않았을 떄; i didn't get (a chance) to do something very often(much)
-* 전혀 없었을 대: i didn't get any chance to do something
- * 하지만 보통; i didnt really get achance to do any sightseeing; 기회가 전혀 없었어도 이렇게 부드럽게 표현함
- * 상황에 따라 ;i never got a chance to 도 사능
- 
- # [ 영어표현 ] under the circumstances / in this situation
-* under the circumstances; 지금 상황에서 여러가지를 고려해보면/생각해보면
- * 상황을 영향 짓는 구성 요소들을 보고 하는 것
- * 지금 상황에서는 더 이상 미룰수가 없어요; 그냥 있는 걸로 가야돼요;
-  * Under the circumstances, we can't push it back any further. We just have to go with what we have/got
-* in this situation
- * 구성 요소 들이 결국 만든 상황에 대한 얘기
- * 지금 이 상황부터 어떻게 빨리 해결을 해야 돼요; We have to deal with this situation first
-
-# [ 일상을 영어로 말하기 ] "한 달전에 주문해 놓은게 도착했어. 완전 잊고 있었어."
-* 어제 택배를 하나 (배달) 받았어요. 
- * I got a package delivered yesterday.
-* 거의 한 달전에 주문해 놓은 바지였어요. 
- * It was a pair of pants that I had ordered almost a month back.
- * ago는 현재 시점을 기준으로 얼만큼 전에라고 말할 때 씀
- * back는 과거 시점 기준에서 과거 얘기할 때 back 사용
-* 제가 옷을 자주 사는 편이 아니라서 어제 아침에 도착하기 전까지 완전히 잊고 있었어요.
- * I don't buy clothes very often so I had totally forgotten about it until it arrived yesterday morning.
-
-# [ 기초영어회화 ] 완료시제 연습 - "아직/벌써" + 완료시제
-* 난 이미 그 영화를 두번이나 봤어; ive already seen the movie twice
-* 난 아직 그 영화를 안봤어; i haven't seen the movie yet
-* 그 제품을 아직 공식적으로 발표하지 않았어; THey haven't officially announced the product yet
-* 대부분의 정보가 유출되었어; Most of the information has already been leaked
-
-# 영어회화 표현 - "내 기억이 맞다면"
-* "이걸 거의 1년 전에 샀어요.
- * "I got these almost a year ago
-*  제 기억이 맞다면, 200 달러 조금 넘게 줬어요.
- * (And) If I remember correctly, I paid a little over 200 dollars; 
- * correctl; t 묵음 발음
-* 근데 제조사에서 단종시킨 걸로 알고 있어요.
- *  But the last time I checked, they've recently been discontinued by the manufacturer
- * the last time i checked; 내가 봤을때는(과거)
-*  그렇게 인기가 많지 않았다나봐요.
- *  From what I heard, they weren't very popular. 
-*   그래서 제가 알기로는 이제 이건 중고로만 구할 수 있어요."
- * .So, my understanding is (that) you can only get these used now."
-
-
-# [ 일상을 영어로 말하기 ] "겨울이 싫은 이유"
-* “저는 겨울이 싫은 가장 큰 이유 중 하나가 아침에 일어나기가 너무 힘들다는거예요. 
- * "One of the things that I hate most about Winter is that it's so hard(difficult) to get out of bed in the morning.
- * reason을 쓰면 최종적인 감정(결론적으로 겨울은 무조건 싫다);
- * one of the things: 그냥 겨울이 싫은 이유 중 하나 라고 말하고 싶을 때 사용
- * 워너더띵스; f 발읍 안함
-* 글쎄요, 저만 그런건지도 모르겠네요.
- *  I don't know. Maybe it's just me.
-* 뭐, 다른 것도 있겠죠 근데 그게 저는 가장 힘들더라고요"
- * There are other things too, I guess, but that's what I have trouble with the most."
-
-
-# [ 일상을 영어로 말하기 ] - 알고보니, 무엇에 문제가 생기다, 생각지도 못하다
-* "며칠 전에 차에 문제가 생겨서 공업소에 가져갔어요. 
- * "I had a problem with my car the other day so I took it to the mechanics,
-* 저희 동네에 유일한 공업소에요. 
- *  the only one in my neighborhood.
-* 근데 문을 닫은거예요. 
- *  But they were closed! 
-* 제가 먼저 전화를 해서 확인을 해야 했던거겠죠?
- * I guess I should've called first and checked. 
-* 근데 평일 오후였어요!
- * But it was a weekday afternoon!
-* 영업을 안할 수도 있다는 것은 생각지도 못했어요.
- * It never occurred to me that they might be closed. 
- * It never occured to me that smoething might/would happen: 생각지도 못했다.
-* 근데 알고보니 월요일마다 쉬더라고요."
- *  But it turns out (that) they close every Monday."
-   
-
-# [ 기초영어회화 ] 겨우 / 간신히 / - 할 뻔하다
-```java
-1. barely : 간신히/겨우 
-I barely got up this morning. 
-I barely made it to work on time
- make it to 어디: 어디에 제시간에 도착하다.
- 
-두 번쨰 시험에서 겨우 합격했어; i baely paased the exam the second time
-
-2. almost couldn't do sth : 거의 ~ 못할 뻔 했어
-I almost couldn't get up this morning.
-I almost couldn't make it to work on time.
-
-떨어질 뻔했어:: i almost failed the exam the second time
-
--에 늦다; be late to; i was late to class.
- 늦을뻔했어; i was almost late to the meeting today. 
-```
 
 # [ 영어회화 / 영어표현 ] be in line with / going forward
 * 제가 전직장을 그만둔 이유는 나쁘거나 그래서 그랬던 것은 아니에요.
@@ -113,61 +15,6 @@ I almost couldn't make it to work on time.
  * decide: 결론에 도달하다
  * be in line: 맞아 떨어지다; 같은 선상에 있따.
 
-# [기초영어회화] "주말에는 자는게 아까워요."
-* "저는 평일에는 보통 빨리 퇴근하고 집에 가서 자고 싶어요. 
- * "On weekdays, I usually can't wait to get back home after work and go to bed
- * go back home: 집에 돌아가다; get back home: 돌아가 있는 상태; 사실상 거의 차이 없음
-* 근데 주말에는 보통 엄청 늦게까지 안자고 있어요.
- *  But on weekends, I usually stay up really late.
-* 친구들이랑 늦게까지 밖에서 놀 때도 있는데 집에 있을 때도 그냥 자기에는 아깝더라고요.
- * Sometimes, I stay out late with friends but even when I'm home,  it feels like a waste to just sleep.
- * a waste: 시간 낭비
- * stay out late: 늦게까지 밖에 있는 것.
-* 그래서 주말에는 일찍 일어나기도 해요. 
- *  And that's why I get up early, too on weekends.
-*  아픈거나 그런게 아닌 이상 최대한 일찍 일어나려고 해요."
- * Unless I'm sick or something,I try to get up as early as I can."
-
-# [ 영어연습가이드 ] - 수동태 연습
-* 그게 어떤 식이냐면, 너가 일하고 싶은 날 최소 이틀 전까지 앱을 이용해서 근무 신청을 해야 돼.
- * "The way (that) it works is, you're required to apply for a job at least 2 days prior to the day you want to work using an app.
- * 진행방식, 절차, 회사의 운영방식: The way it works
- * -가 필수다; You're required to
-* 그게 제대로 되고 자리가 있다면 하루 전에 근무 배정을 받을거야.
- * If it's done right and there's a spot available, you'll be assigned with a job 1 day in advance.
- * 제대로 절차가 밟아지면; If it's done right
-* 당일에 담당할 지역이랑 배달 수량에 대한 정보를 받고
- *  On the day, you'll be sent some information about the area that you'll be covering and the number of packages you'll be delivering.
-* 그 정보가 확인되면 그쪽 캠프로 오라고 지시를 받고 거기서 마지막으로 화물을 스캔하고 받을거야
- *  Once that information is confirmed, you'll be asked to come to their camp where your packages will finally be scanned and issued to you
-  * confirm: 이미 사실이라고 된 사실을 확인하는 것
-  * approve: 권한으로 인한 승인
-* 그 시점부터 모든 화물이 7시간 내로 배달지에 도착해야 돼."
- * From that point on, all packages must be delivered withing 7 hours."
-
-# [ 영어 표현력 ↑UP ] "잘됐다", "좋겠다", "부럽다"
-* 1. 영상에서 소개하는 표현들과 congratulations는 얼마든지 함께 섞어서 말을 해도 자연스럽습니다.
- * 예) “That’s fantastic! Congratulations! To be honest, I’m a little jealous but I’m really happy for you!”
-* 2. “부럽다"라는 얘기를 할 때 “I envy you.”라는 표현이 가장 먼저 떠오를 수가 있지만 상대방에게 어떤 좋은 일이 생겼다는 얘기를 전해 들은 상황에서는 어울리는 표현이 아닙니다. I envy you 는 상대방이 지니고 있는 능력이나 성향처럼 과거부터 줄곧 이어져 온 것에 대해서 사용하는 표현입니다.
-* 잘됐다
- * That's great/fantastic + I'm so happy for you / Good for you
- * Good for you; 잘됐다 상황 뿐만 아니라 성취를 축하할 때도 사용
- 
-* 좋겠다
- * That's great
- * That must be really/so nice
- * You must be happy; 활용도는 적음; 전반저긴 행복
- * You must be so/really excited/psyched
- * You must be really proud
-  * 답변: I've always been proud/ I'm just happy for him 
-* 부럽다
- * That's great/fantastic + I'm so jealous but good for you
-
-# [ 생활 기초 영어어휘 ] carry - 가지고 다니다 / 들고 다니다 / 넣고 다니다
-* i usually carry my phone in my pocket
-* sometimes, i carry it in my hand
-* It was a pretty big transition to go from teachig studendts to working mostly at a desk
- * 전환점: pretty big transition to go from A to B
 
 # [ 영어 필수 표현 ] "모르는 번호", "잘못 걸려온 전화", "전화 올 데가 없다"
 * "아까 모르는 번호로 전화가 왔는데 전화 올 데도 없었고
@@ -211,17 +58,6 @@ I almost couldn't make it to work on time.
 * 그들이 고용하려는 사람에 대해서 얼마나 신경을 쓰고 있었는지가 확실히 느껴졌어요.
  *  It certainly gave me the impression that they really cared about who they were hiring.
 
-# [ 기초영어회화 ] 기초 영어 어휘 "leave"
-1. 출발하다
- * i left early today
- * i left a little late this morning
- * i'm going to leave next week; i'm leaving next week
- * 자리에서 일어나서 간다; i'm leaving soon; i'm going to leave soon
- * 누군가를 떠난다; he left her many years ago
- * 둔다; it's rally difficaut to leave her alone
- * 맡기다 i left my phonne in my car
-  * Can i leave my bag here for a few minutes?
-
 # [ 기초영어회화 ] "1시 반에 도착" , "2시까지 점심시간" , "30분을 때우다"
 * "오늘 몸이 좀 안좋아서 병원에 갔었어요. "I went to see a doctor today because I wasn't feeling very well.
  * not feeling very well: 몸 안좋다 할 때 자주 쓰는 표현
@@ -254,19 +90,6 @@ I almost couldn't make it to work on time.
  * something is meant to be used by: -로 인해 만들어졌다.
  
 
-# [ 기초 영어 단어 ] - happen
-* I'm sorry. What happend?
- * 뭐라고? 무슨 일이 있었다고?
-* WHen did that happen?
- * 언제 그랬어?
-* 어쩌다가 이랬어?
- How did that happen?
-* It happend just a few days agp?
- * 며칠 전에 일어났어?
-* 또 가수가 한 명 자살했때; ANother singer commited suicide
-* 못 들었어? You didn't hear about it?
- * 평서문으로 억양으로 전달
-* 뉴스에서 다 얘기하고 있어; It's been all over the news
 
 
 # 데이브
