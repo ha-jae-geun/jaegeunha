@@ -138,6 +138,164 @@ id 속성은 각각의 환경을 정의한 임의의 식별자를 지정한다.
 ```
 
 # configuration.xml
+* Configuration 설정파일은 다양한 세팅과 프로퍼티를 가지며 중앙 허브 역할을 하며 전역 설정 위한 파일이다.
+
+## 네임스페이스의 선언
+* ⎼MyBatis 프레임워크는 다음과 같이 Configuration 설정을 위하여 네임스페이스를 선언한다.
+```java
+<!DOCTYPE configuration
+PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-config.dtd">
+```
+
+```java
+(2) 주요 태그
+① <configuration> 태그
+<configuration>
+… 설정 …
+</configuration>
+⎼<configuration> 태그는 중앙 허브 역할을 하며 전역 설정 정보이다.
+⎼configuration 요소는 MyBatis 프레임워크가 실행되는 데 필요한 트랜잭션 관리정보, DataSource 인터페이스
+객체 생성을 위한 설정 정보, mapper 파일 위치, DB Connection 등 여러 설정들을 한다.
+
+② <properties> 태그
+<properties resource="config/db.properties" />
+⎼<properties> 태그는 외부 자원으로 이동한다.
+⎼properties 요소의 resource 속성으로 이동할 경로를 지정하고 명시된 속성을 가장 먼저 읽는다.
+
+③ <typeAliases> 태그
+<typeAliases>
+<typeAlias alias="DeptDTO" type="min.bean.dto.DeptDTO" />
+</typeAliases>
+⎼<typeAliases> 태그는 자바 클래스에 대한 좀 더 짧은 이름이며 오직 XML 설정에서만 사용된다.
+⎼<typeAliases> 태그의 자식 태그인 <typeAliase> 태그로 설정한다.
+⎼typeAliase 요소의 alias 속성은 별칭의 이름을 명시한다.
+⎼typeAliase 요소의 type 속성은 별칭에 사용할 클래스를 지정한다.
+
+④ <typeHandlers> 태그
+<typeHandlers>
+<typeHandler javaType="String" jdbcType="VARCHAR" handler="min.bean.dto.DeptDTO" />
+</typeHandlers>
+⎼<typeHandlers> 태그는 PreparedStatement 인터페이스에 파라미터를 세팅하고 ResultSet 인터페이스에서
+값을 가져올 때마다 적절한 자바 데이터타입을 가져오기 위해 사용된다.
+⎼지원하지 않거나 비표준인 타입에 대해서는 개발자가 개발을 하고 TypeHandler 인터페이스를 오버라이드 할
+수 있다.
+⎼TypeHandler 인터페이스를 구현하고 자바 데이터타입에 TypeHandler를 매핑하면 된다.
+⎼<typeHandlers> 태그의 자식 태그인 <typeHandler> 태그로 설정한다.
+⎼typeHandler 요소의 javaType 속성은 자바에서 사용할 데이터타입을 지정한다.
+⎼typeHandler 요소의 jdbcType 속성은 데이터베이스에서 적용할 데이터베이스 데이터타입을 지정한다.
+⎼typeHandler 요소의 handler 속성은 자바의 데이터타입이 적용될 클래스를 지정한다.
+- 396 -
+
+⑤ <environments> 태그
+<environments default="development">
+<environment id="development">
+… 설정 …
+</environment>
+⎼<environments> 태그는 다중 환경을 설정할 수 있지만 SqlSessionFactory 인터페이스 인스턴스마다 한개만
+사용할 수 있다.
+⎼<environments> 태그는 파라미터가 없으면 디폴트 환경이 로드된다.
+⎼environments 요소의 default 속성은 디폴트 환경에 대한 기본 식별자를 지정한다.
+⎼<environments> 태그의 자식 태그인 <environment> 태그는 각각의 환경을 정의한 환경을 지정한다.
+⎼environment 요소의 id 속성은 각각의 환경에 대한 식별자로 environments 요소의 default 속성에서 지정한
+기본 식별자와 동일하게 적용한다.
+
+⑥ <transactionManager> 태그
+<transactionManager type="JDBC[MANAGED]" />
+⎼<transactionManager> 태그는 트랜잭션 관리를 설정한다.
+⎼transactionManager 요소의 type 속성은 트랜잭션 관리에 적용한 속성값을 지정한다.
+
+가. JDBC 속성값
+⎼JDBC 속성값은 간단하게 JDBC 커밋과 롤백을 처리하기 위해 사용된다.
+⎼ JDBC 속성값은 트랜잭션의 스코프를 관리하기 위해 <dataSource> 태그로 부터 커넥션을 가져온다.
+
+나. MANAGED 속성값
+⎼ MANAGED 속성값은 어떤 것도 하지 않으며 결코 커밋이나 롤백을 하지 않는 대신에 대신 컨테이너가 트랜잭션의
+모든 생명주기를 관리한다.
+⎼ MANAGED 속성값은 디폴트로 커넥션을 해제 하지만 몇몇 컨테이너는 커넥션을 해제 하는 것을 또한 기대하지
+않기 때문에 커넥션 해제 하는 것으로 멈추고자 한다면 closeConnection 프로퍼티(속성)를 false로 설정해야
+한다.
+
+⑦ <dataSource> 태그
+<dataSource type="POOLED[UNPOOLED/JNDI]">
+<property name="driverClassName" value="${jdbc.driver}" />
+<property name="url" value="${jdbc.url}" />
+<property name="username" value="${jdbc.username}" />
+<property name="password" value="${jdbc.password}" />
+</dataSource>
+<dataSource type="POOLED[UNPOOLED/JNDI]">
+<property name="driverClassName" value="oracle.jdbc.OracleDriver" />
+<property name="url" value="jdbc:oracle:thin:@127.0.0.1:1521:orcl" />
+<property name="username" value="scott" />
+<property name="password" value="tiger" />
+</dataSource>
+⎼<dataSource> 태그는 데이터베이스의 연결을 설정한다.
+⎼dataSource 요소의 type 속성은 데이터베이스의 연결을 설정할 속성값을 지정한다.
+⎼<dataSource> 태그의 하위 태그인 <property> 태그는 dataSource 요소의 type 속성에 지정한 속성값에 대한
+프로퍼티를 지정한다.
+⎼property 요소의 name 속성은 프로퍼티의 이름을 지정한다.
+⎼property 요소의 value 속성은 프로퍼티의 이름에 대한 값을 지정한다.
+- 397 -
+
+가. UNPOOLED 속성값
+⎼ 매번 요청에 대해 커넥션을 열고 닫는 간단한 DataSource 인터페이스로 성능을 크게 필요로 하지 않는 간단한
+어플리케이션에 적합하다.
+
+① driver 프로퍼티
+⎼JDBC 드라이버의 패키지 경로를 포함한 자바 클래스명이다.
+
+② url 프로퍼티
+⎼데이터베이스 인스턴스에 대한 JDBC URL이다.
+
+③ username 프로퍼티
+⎼ 데이터베이스에 로그인 할 때 사용할 사용자명이다.
+
+④ password 프로퍼티
+⎼ 데이터베이스에 로그인 할 때 사용할 패스워드이다.
+
+⑤ defaultTransactionIsolationLevel 프로퍼티
+⎼ 커넥션에 대한 디폴트 트랜잭션 격리 레벨이다.
+
+나. POOLED 속성값
+⎼DataSource 인터페이스에 풀링이 적용된 JDBC 커넥션을 위한 구현체로 새로운 Connection 인터페이스 인스턴스
+를 생성하기 위해 매번 초기화하는 것을 피하게 해 주므로 빠른 응답을 요구하는 웹 어플리케이션에서는
+가장 많이 사용되고 있다.
+
+⎼ POOLED 속성값은 UNPOOLED 속성값에서 제공하는 프로퍼티를 모두 제공하며 그 이외에도 많은 프로퍼티를
+제공한다.
+① poolMaximumActiveConnections 프로퍼티
+⎼주어진 시간에 존재할 수 있는 활성화된 커넥션의 수로 디폴트는 10이다.
+② poolMaximumIdleConnections 프로퍼티
+⎼ 주어진 시간에 존재할 수 있는 유휴 커넥션의 수이다.
+③ poolMaximumCheckoutTime 프로퍼티
+⎼강제로 리턴되기 전에 풀에서 체크아웃 될 수 있는 커넥션의 시간으로 디폴트는 20000ms(20초)이다.
+④ poolTimeToWait 프로퍼티
+⎼pool이 로그 상태를 출력하고 비정상적으로 긴 경우 커넥션을 다시 얻으려고 시도하는 로우 레벨로
+디폴트는 20000ms(20초)이다.
+⑤ poolPingQuery 프로퍼티
+⎼ 커넥션이 작업하기 좋은 상태이고 요청을 받아서 처리할 준비가 되었는지 체크하기 위해 데이터베이
+스에 던지는 핑 쿼리이다.
+⎼ 디폴트는 핑 쿼리가 없음이며 대부분의 데이터베이스로 하여금 에러 메시지를 보게 할 수도 있다.
+⑥ poolPingEnabled 프로퍼티
+⎼ping 쿼리를 사용할지 말지를 결정하고 오류가 없는(그리고 빠른) SQL을 사용하여 poolPingQuery 프
+로퍼티를 세팅해야 하며 디폴트는 false이다.
+⑦ poolPingConnectionsNotUsedFor 프로퍼티
+⎼ poolPingQuery 프로퍼티가 얼마나 자주 사용될지 설정하고 필요이상의 핑을 피하기 위해 데이터베이
+스의 타임아웃 값과 같을 수 있고 디폴트는 0이며 디폴트값은 poolPingQuery 프로퍼티가 true 일 경
+우에만 모든 커넥션이 매번 핑을 던지는 값이다.
+다. JNDI 속성값
+⎼JNDI 속성값은 DataSource 인터페이스 구현체는 컨테이너에 따라 설정이 변경되고 JNDI 컨텍스트를 참조한다.
+⎼ DataSource 인터페이스는 오직 두개의 프로퍼티만 제공한다.
+① initial_context 프로퍼티
+⎼ InitialContext 인터페이스에서 컨텍스트를 찾기 위해 사용된다.
+⎼ initial_context 프로퍼티는 선택적인 값으로 생략하면 data_source 프로퍼티가 InitialContext 인터페이
+스에서 직접 찾는다.
+② data_source 프로퍼티
+⎼ DataSource 인터페이스 인스턴스의 참조를 찾을 수 있는 컨텍스트 경로이다.
+⎼ initial_context 프로퍼티 룩업을 통해 리턴 된 컨텍스트에서 찾으며 initial_context 프로퍼티가 지원
+되지 않는다면 InitialContext 인터페이스에서 직접 찾는다.
+```
+
 ```java
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE configuration
