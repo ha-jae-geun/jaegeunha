@@ -9,6 +9,8 @@
 
 
 # 원어민
+* 그렇게 바로? (right) off the bat?
+* 힘든 싸움이 될거에요; It's going to be an uphill battle
 * 생활의 활력을 넣고있어; it has boosted my energy
 * 드디어 자리잡았어요; We finally settled on a place
 * 자동 둔전시스템으로 운전하는 것에 관한 새로운 법에 대해 들어봤어? Have you heard about the new law about driving on autopilot?
