@@ -1,3 +1,20 @@
+# 영어회화 - "~할 자격이 있다/없다/" - 외 여러가지 표현
+* "처음엔 걔가 나에 대해서 한 얘기가 좀 기분 나빴는데, 
+ * "I was a little upset about what he said about me.
+* 뭐, 걔도 자기만의 의견을 가질 수 있는거고 나라고 걔한테 나에 대해서 이렇게 저렇게만 생각하라고 강요할 수도 없잖아. 
+ * But, you know, he's entitled to his own opinion and I really have no right to tell him what he should or shouldn't think about me. 
+ * have a/the right to
+ * be entitled to 명사/-ing: 주체가 특정 요건을 충족시킴으로서 부여되는 권리
+ * right: 누구나 가지고 있는 권리
+* 나에 대해서 그렇게 섣부르게 판단한다는게 안타까울 뿐이야. 
+ *  It's just a shame that he has to be so quick to judge who I am.
+ * 안타깝다; It's a shame
+* 근데 본인이 그러고 싶으면 뭐 그래도 되지. 
+ * But he's free to do that if he wants to, I guess.
+ * be free to do something
+* 게다가 걔가 전적으로 틀렸다고 할 수도 없는거잖아. 어떤 면에서는 걔 말이 맞을 수도 있어."
+ * Besides, who's to say he's entirely wrong? Maybe he's right on some level."
+
 
 # [ 영어회화 / 영어표현 ] be in line with / going forward
 * 제가 전직장을 그만둔 이유는 나쁘거나 그래서 그랬던 것은 아니에요.
