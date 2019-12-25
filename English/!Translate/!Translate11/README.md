@@ -9,6 +9,7 @@
 
 
 # 원어민
+* 좋은 것들은 작게 포장해서 와요; GOod things come in small packages
 * 그렇게 바로? (right) off the bat?
 * 힘든 싸움이 될거에요; It's going to be an uphill battle
 * 생활의 활력을 넣고있어; it has boosted my energy
