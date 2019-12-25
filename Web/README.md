@@ -171,6 +171,13 @@ HTML 문서로 전송해 줄 수 있는 응용 프로그램의 필요성 때문�
 ![서블릿](./image/servlet.JPG)
 - 서버에서 실행되는 자바 프로그램(HTML in JAVA)
 
+## 실행 순서
+1. 웹 어플리케이션이 실행될 때: ServletContextListner 인터페이스의 contextinitialized 메소드 실행
+2. 어노테이션 생성자 init 실행 
+3. 웹 서블릿 initParam 메소드 실행(1. web.xml에서 설정하거나 2. annotation으로 실행하거나)
+4. 종료 시 서블릿 destroy
+웹 어플리케이션이 종료될 때: ServletContextListner 인터페이스의 contextDestroyed 메소드 실행
+
 ```java
 1. annotation
 
