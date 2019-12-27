@@ -317,6 +317,15 @@ request response ⎼웹 컨테이너는 받은 요청을 처리하기 위해서�
 ⑥ 결과를 클라이언트에게 전달하는데 결과를 타입으로 보내며 웹 브라우저는 이다 MIME text/html . 
 
 
+* service
+service(): 최초 클라이언트의 요청을 받았을때, 컨테이너는 새로운 스레드를 생성하거나 스레드 풀로부터 서블릿을 가져와서 
+서블릿의 service() 메소드를 호출한다. 클라이언트의 HTTP 메소드(GET, POST 등)를 참조하여 doGet() / doPost() 혹은 
+다른 메소드를 호출할지 판단한다. 재정의는 하지 않으며 doGet()/ doPost() 를 재정의하여 HttpServlet의 service()가 이를 실행하도록 한다.
+doGet(), doPost(): service() 메소드가 클라이언트의 HTTP 메소드(GET, POST등) 를 참조하여 doGet()/ doPost()를 호출한다.
+여기서 doGet()/ doPost() 만 언급하는 이유는 이것말고 나머지 메소드는 사용할 경우가 거의 없기 때문이다. 
+이 메소드 안에서 코딩작업을 하면된다. doGet()/ doPost() 둘중 하나는 반드시 재정의 해야 한다.
+
+
 -4. 메서드 호출과 서블릿 클래스 실행 service 
 ⎼스레드가 생성되면 각 스레드에서 service 메서드가 호출된다. 
 ① 요청 방식이 방식일 경우 서블릿 클래스의 HTTP GET : doGet 메서드 
