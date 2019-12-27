@@ -611,6 +611,11 @@ https://gmlwjd9405.github.io/2018/10/29/web-application-structure.html
 # 자바 관련 파라미터 타입
 
 
+# autowire
+1. 자료형으로 인식
+2. id로 구분
+3. @Aulifier("exam") 으로 id를 
+
 
 # 스프링 실행
 * 톰켓의 server.xml -> web.xml -> 프로젝트 web.xml -> config -> root
