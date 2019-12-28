@@ -219,6 +219,17 @@ https://gmlwjd9405.github.io/2018/10/29/web-application-structure.html
 - HTML태그로 문자열("")스크림으로 처리해야 한다.
 - 코드가 수정되면 다시 컴파일하고 배포해야 한다.
 
+### jsp 주석
+* html의 주석은 브라우저에서 코드보기하면 보이지만 JSP는 서버에서 돌아가기 때문에 보이지 않는다.
+
+### JSP 동작원리
+1. 웹브라우저 요청
+2. jsp에서 서블릿으로 변환
+	* helloWorrld.js > helloWorld_jsp.java  로 변환
+3. 웹브라우저 응답(HTML형태로 응답)
+4. 서블릿 -> 클래스
+	* helloWorld_jsp.java -> helloWorld_jsp.class
+
 ### JSP
 - 키워드가 태그화 되어 서블릿에 비해 배우기 쉽다.
 - 자바코드를 <%%>태그 안에 처리해주어야 한다.
