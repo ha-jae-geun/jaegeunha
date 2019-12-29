@@ -487,6 +487,48 @@ EX) HTTP(80), FTP(20,21), Telnet(23), SMTP(25), DNS(53), TFTP(69) 등
   * 지정된 혀식으로 요청, 명령을 받을 수 있는 수단
   * 예를들어 시스템이나 하드웨어에 대한 세세한 지식 없어도 소프트웨어를 짤 수 있는 윈도우 API에 맞게 코드를 짜면 됨
 
+## REST 생긴 과정
+* [강의]('https://www.youtube.com/watch?v=RP_f5dMoHFc')
+1. WEB(1991)
+* 어떻게 인터넷 정보를 공유할 것인가? 
+ * 정보를 하이퍼 텍스트로 연결한다. 
+ * 표현형식: HTML, 식별자: URI, 전송방법: HTTP
+
+2. HTTP/1.0(1994-1996); 로이 필딩
+ * 해결책: HTTP Object Model
+
+3. REST(1998); 로이필딩
+4. REST(2000); 로이 필딩 박사 논문으로 발표
+5. CMIS(2008); CMS를 위한 표준으로 REST 바인딩 지원
+ * 로이 필딩은 REST는 없다고 말함
+6. Microsoft REST API Guidelines(2016)
+ * uri 형식 지정
+ * GET, PUT, DELETE, POST, HEAD, PATCH, OPTIONS를 지원
+ * API 버저닝은 Major,minor로 하고 uri에 버전 정보를 포함시킨다
+ * 로이 필딩은 REST API 아니라고 선언
+7. 로이필딩
+ * REST API는 반드시 하이퍼텍스트 기반이어야 한다.
+ * 최고의 버저닝 전략은 버저닝을 안하는 것이다. 
+ * 분산 하이퍼미디어 시스템(웹)을 위한 아키텍쳐 스타일
+
+## REST를 구성하는 스타일
+* client-server
+* stateless
+* cache
+* uniform interface
+* layered system
+* code-on-demand(optional)
+
+## API
+1. XML-RPC(1998); 마이크로소프트 -> SOAP; api
+2. SalesForce API(2000.2); api
+3. flicer API(2004.8)
+
+
+### SOAP과 REST의 비교
+* SOAP은 복잡하고 규칙 많고 어렵다
+* REST는 단순하고 규칙적고 쉽다
+
 # POST 방식과 GET 방식
 - HTTP 프로토콜을 이용하여 서버에 요청방법 중 하나로서 요청방법에 따라 GET과 POST로 나뉩니다. 이때 필요에 따라 데이터를 보낼수 있는데 이때 데이터는 url 뒤에 쿼리스트링으로 입력하여 보내기에 외부에 쉽게 노출된다는 단점이 있습니다.
 
