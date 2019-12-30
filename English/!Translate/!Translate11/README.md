@@ -958,6 +958,22 @@ We can go wherever you want to go.
 
 ```
 
+# [ 영어로 / 영어회화 ] "우연히"를 영어로 여러가지 방식으로
+* 우연히 누구를 만나다
+ * run(bump) into someone
+* run into trouble: (생각지 못한) 문제를 겪다
+ * if you run into any trouble, let me know
+* 우연이 아니다; This is not a coincidence
+ * 이런 우연이; what a coincidence
+ * DO you think this is a coincidence?
+ * 쓰임이 제한적이다.
+* 우연히 나이가 다 비슷했어; we all happened to be around the same age
+* it just so happened that we were all arund the same age
+* 그냥 어쩌다가 만났어; we just sort(kind) of met
+* 그냥 어쩌다가 그렇게 됐어; It just sort of happened
+* 우연한 발견; come across / stumble on
+ * i came across/stumbled on(upon) this really intersting article
+
 
 # 영어회화 - "~할 자격이 있다/없다/" - 외 여러가지 표현
 * "처음엔 걔가 나에 대해서 한 얘기가 좀 기분 나빴는데, 
