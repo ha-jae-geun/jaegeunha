@@ -914,6 +914,21 @@ Unlike sb와 같아요!
  * 기계를 주체로 해도 된다; my phone is running out of battery
 
 
+# 영어 표현력 업그레이드 - spend time + ing / waste time + ing
+* "어제 하루종일 TV 봤어."를 영어로 
+ * "I watched TV all day yesterday."라고 할 수도 있지만 "I spent all day yesterday watching TV."라고 하는 더 업그레이드 된 표현을 배워봅니다.
+* 어제 집에서 하루종일 잠만잤어; i spent all day yesterday at home wathcing TV
+* 어제 집에서 하루종일 아무것도 안했어;
+ * doing nohting을 강조하기 위함
+ * i spent all day yesterday at home doing nothing
+* 나 주말 내내 집에서 아무것도 안했어
+ * i spent all weekend at home doing nothing
+ * the whole/entire weekend
+* 주말 내내 집에서 잠만 자면서 시간을 낭비했어
+ * i wasted the whole weekend at home sleeping
+* 걱정하느라 시간을 너무 많이 낭비했어
+ *  i wasted too much time worrying 
+
 # [ 영어회화 / 직장영어 ] "빠진 내용이 없는지 확인했으면 좋겠습니다"
 * "이번 주에 우리가 할 일들을 목록으로 만들어봤어요
  * "OK. I've put together a list of the things we need to do this week. 
