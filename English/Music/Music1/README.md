@@ -128,6 +128,7 @@
 
 
 # P
+* Pink Sweat$ - Honesty
 * Psycho ft. Ty Dolla $ign - Post Malone - 포스트 말론
 * Happy - Pharrel williams - 퍼렐 윌리엄스
 * Prince Royce - Extraordinary (Cover Audio) - 프린스 로이스
