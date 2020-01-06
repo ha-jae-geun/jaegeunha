@@ -705,8 +705,19 @@ https://gmlwjd9405.github.io/2018/10/29/web-application-structure.html
 ```
 	* WEB-INF로 접근 불가
 
-## ModelAndView
+# ModelAndView
 * DB, 파라미터, 경로 모두 담는 
+* ● Controller 처리 결과 후 응답할 view와 view에 전달할 값을 저장
+
+## 생성자
+- ModelAndView(String viewName) : 응답할 view 설정
+- ModelAndView(String viewName, Map values) : 응답할 view와 view로 전달할 값들을 저장한
+
+## Map 객체
+
+- ModelAndView(String viewName, String name, Object value) : 응답할 view 이름, view로 넘길 객체의 name-value
+
+
 
 
 # 스프링 역사
