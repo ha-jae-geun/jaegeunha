@@ -39,6 +39,24 @@
 
 12. 결과적으로 DispatcherServlet이 클라이언트에게 렌더링된 View를 응답한다.
 
+```java
+DispatcherServlet
+* 클라이언트의 요청을 전달받는다. 
+* Controller에게 클라이언트의 요청을 전달하고, Controller가 리턴한 결과값을 View에 전달하여 알맞은 응답을 생성하도록 한다.
+
+HandlerMapping
+* 클라이언트의 요청 URL을 어떤 Controller가 처리할지를 결정한다.
+
+Controller
+* 클라이언트의 요청을 처리한 뒤, 그 결과를 DispatcherServlet에 알려준다. 스트러츠의 Action과 동일한 역할을 수행다.
+
+ViewResolver
+* Commander의 처리 결과를 보여줄 View를 결정한다.
+
+View
+Commander의 처리 결과를 보여줄 응답을 생성한다.
+
+```
 
 # Web Application Structure(웹 서비스 기본 설정 구조)
 ```java
