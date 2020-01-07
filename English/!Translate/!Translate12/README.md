@@ -1,3 +1,20 @@
+# [ 영어 연습가이드 / HARDCORE ] "어쩌다가 영어 가르치는 일을 하게 됐나요?"
+```java
+I get asked about how I get into learning English in the first place
+ * people assked me = i got aksed 
+* 어쩌다가 그렇게 됐어
+ * It just sort of  happened. 
+When I had a rough time,  I wanted to focus on something that would allow me to develop a specific set of skills
+One day,  I happened to listen to the " Billie jean" of Michael Jackson on the radio.
+Because of him I decided to give that a try.
+I was lucky enough to come across this channel and I've  found myself really learning English since. 
+ * be lucky enough to
+I gradually found mysellf really caing about te work
+ * found myself: 우연히 -하는 나를 발견했다.
+Thanks a lot. 
+I wish you the best of luck today. .
+```
+
 # 영어 생활 표현 - "옷에 뭐가 묻었어." [ 영어 대화 가이드 ]
 * 너 셔츠에 캐챱 묻었어
   * Hey, you have something/ketchup on your shirt
