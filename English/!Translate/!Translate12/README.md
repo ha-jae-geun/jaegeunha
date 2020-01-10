@@ -1,3 +1,22 @@
+# [ 영어회화 ] "~로 만들어진다" 를 영어로 표현하는 여러가지 방식
+* 요즘, 환경에 기여하는 브랜드들이 많은데 단순히 재활용한 자재로 제품을 만들 뿐만 아니라 
+ * "These days, there are a lot of brands that contribute to the environment not only by making their products from recycled materials
+ * make from, be made from: 만들어지는 과정 / 제작 과정
+* 업사이클링 제품들을 생산해요. 
+ *  but also by manufacturing upcycled products
+* 업사이클링한 제품들은 그냥 일반적인 재료로 만든 것처럼 보이고 느껴질 수 있지만 
+ * Now, upcycled products may look and feel like they’re just made of standard materials
+ * be made of: 현재 만들어져 있는 자재의 종류
+* 중요한 것은 폐기된 다른 제품으로 만들어진다는 것이에요. 
+ *  but what’s important is that they’re actually made out of completely different products that have been discarded.
+ * make out of / be made out of: A의 형태가 바뀌어서 B가 되는 것
+* 예를 들어, 웻슈트로 만들어지는 랩탑 케이스들이 있더라고요. 정말 신기하지 않아요?! 
+ * For example, there are these laptop cases that are made out of wetsuits. Isn’t that amazing?!"
+* be made up of = be consisted of
+* be made with: 음식이 무엇으로 만들어졌는지
+* be made using: 무엇을 만드는 데에 쓰인 도구나 기술
+
+
 # [ 영어 표현 배우기 ] "혼자서 / 스스로 알아서 / 직접"
 * 저 혼자 살아요 i live alone; i live by myself; 교차 사용 가능
 * alone, by oneself; 의미 차이가 작다
