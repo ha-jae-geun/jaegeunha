@@ -353,6 +353,25 @@ public class Combination {
 }
 ```
 
+## 조합2
+```java
+    public static void combination(String[] arr, int index, int n, int r, int target, String arr2) {
+		StringBuilder sb = new StringBuilder();
+    	if(r == 0) {
+    		if(!arr2.equals(""))
+    			primeString.add(arr2);
+    	}
+		else if (target == n) {
+			if(!arr2.equals(""))
+				primeString.add(arr2);
+		}
+		else {
+			combination(arr, index + 1, n, r - 1, target + 1, arr2 + arr[index]);
+			combination(arr, index+1, n, r, target + 1, arr2);
+		}
+	}//end combination()
+```
+
 # 큐(BFS)
 ## 숨박꼭질(1697)
 ```java
