@@ -238,6 +238,72 @@ swap()함수가 내부적으로 외부의 값들을 막 바꾸고 있다. perm()
 
 <hr/>
 
+## 순열2
+```java
+import java.util.*;
+
+class Solution {
+    //중복 없애기 위해 HashSet 사용
+	static HashSet<Integer> primeNum = new HashSet<>();
+
+	public static int solution(String numbers) {
+		int answer = 0;
+		boolean isPrime = false;
+		perm(numbers.toCharArray(), 0, numbers.length());
+        //HashSet 반복 위함
+		Iterator it1 = primeNum.iterator();
+
+		while (it1.hasNext()) {
+			isPrime = false;
+			int next = (int) it1.next();
+			
+			if(next == 1 || next == 0)
+				continue;
+			for (int i = 2; i < next; i++) {
+				// 1과 num 자신 외에 나누어지는 수가 있는지 검사할 조건문
+				if (next % i == 0) {
+					// 나누어지는 수가 있을 경우 isPrime의 값을 true로 바꾼다.
+					isPrime = true;
+					// 한 번이라도 이 조건문이 실행될 경우 num은 소수가 아니므로 반복문을 빠져나온다.
+					break;
+				}
+			}
+			if (!isPrime)
+				answer = answer + 1;
+
+		}
+		return answer;
+	}
+
+	public static void perm(char[] arr, int depth, int n) {
+		int a = 0;
+		if (depth == n) {
+			for (int i = 0; i < arr.length; i++) {
+                //1자리수 일 때 고려
+				primeNum.add((int) ((int) (arr[i] - '0') * Math.pow(10, i)));
+                //2자리 수 이상일 때 고려
+				a = a + (int) ((arr[i] - '0') * Math.pow(10, i));
+				primeNum.add(a);
+			}
+			
+		}
+		for (int i = depth; i < n; i++) {
+            //swap 메소드
+			swap(arr, i, depth);
+            //순열 메소드 다시 실행
+			perm(arr, depth + 1, n);
+            //원래대로 다시 swap
+			swap(arr, i, depth);
+		}
+	}
+
+	public static void swap(char[] arr, int n1, int n2) {
+		char temp = arr[n1];
+		arr[n1] = arr[n2];
+		arr[n2] = temp;
+	}
+}
+```
 
 # 큐(BFS)
 ## 숨박꼭질(1697)
