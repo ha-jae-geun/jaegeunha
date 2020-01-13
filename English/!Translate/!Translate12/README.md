@@ -13,6 +13,14 @@
  * 병원과 관련된 얘기가 이어질거라는 것을 암시
 * i went to a hospital
  * 단순히 병원에 갔던 일일 있었다는 얘기
+ 
+ # 사회생활 필수 영어회화 - 유행하는 질병에 대해 이야기하기 - Scene 043
+* 기온이 갑자기 뚝 떨어졌어; The temperature dropped all of a sudden
+* 동생한테 옮았는데 식구들한테 다 퍼졌어
+ * i got it from my sister and it spread to the whole family one after another
+ 
+# 사회생활 필수 영어회화 - 건강상 안 먹는 음식에 대해 이야기하기 - Scene 044
+* 커피 마실때마다 속이 안좋고 심장이 두근거려; Every time i drink coffee it bothers my stomach and i get heart palpitations
 
 # [ 영어회화 ] "~로 만들어진다" 를 영어로 표현하는 여러가지 방식
 * 요즘, 환경에 기여하는 브랜드들이 많은데 단순히 재활용한 자재로 제품을 만들 뿐만 아니라 
