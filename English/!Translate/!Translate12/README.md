@@ -1,3 +1,11 @@
+# INVEST 가 투자라는 뜻이 아니다? 사랑에 빠졌을 때 쓸 수 있는 INVEST
+* I can tell that you are very much invested in her.
+* 너가 걔한테 완전 빠져있는 거 딱 보여
+* I am so invested in this project these days. I'm on it 24/7.
+* 나 이 프로젝트에 완전 몰입해있어. 그냥 하루 종일 밤낮으로 프로젝트 생각 뿐이야.
+* When you find yourself way more invested in the relationship than your partner, especially in the early stage, you might want to slow down.
+* 특히나 관계 초반에 상대보다 관계에 한참 더 몰입해 있다는 걸 알게 된다면 슬로우 다운 하는 게 좋을 수 있어.
+
 # [ 영어 연습가이드 ] "Upcycling"
 * 요즘, 환경에 기여하는 브랜드들이 많은데
  * "These days, there are a lot of brands that contribute to the environment
