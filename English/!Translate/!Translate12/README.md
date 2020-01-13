@@ -1,3 +1,19 @@
+# [ 영어 연습가이드 ] "Upcycling"
+* 요즘, 환경에 기여하는 브랜드들이 많은데
+ * "These days, there are a lot of brands that contribute to the environment
+* 단순히 재활용한 자재로 제품을 만들 뿐만 아니라 업사이클링 제품들을 생산해요. 
+ *  not only by making their products from recycled materials but also by manufacturing upcycled products
+* 업사이클링한 제품들은 그냥 일반적인 재료로 만든 것처럼 보이고 느껴질 수 있지만 
+ *  Now, upcycled products may look and feel like they’re just made of standard materials 
+* 중요한 것은 폐기된 다른 제품으로 만들어진다는 것이에요. 
+ * but what’s important is that they’re actually made out of completely different products that have been discarded
+* 예를 들어, 웻슈트로 만들어지는 랩탑 케이스들이 있더라고요. 정말 신기하지 않아요?! 
+ * For example, there are these laptop cases that are made out of wetsuits. Isn’t that amazing?!"
+* 내가 병원에 갔었는데; i went to this hospital; 
+ * 병원과 관련된 얘기가 이어질거라는 것을 암시
+* i went to a hospital
+ * 단순히 병원에 갔던 일일 있었다는 얘기
+
 # [ 영어회화 ] "~로 만들어진다" 를 영어로 표현하는 여러가지 방식
 * 요즘, 환경에 기여하는 브랜드들이 많은데 단순히 재활용한 자재로 제품을 만들 뿐만 아니라 
  * "These days, there are a lot of brands that contribute to the environment not only by making their products from recycled materials
