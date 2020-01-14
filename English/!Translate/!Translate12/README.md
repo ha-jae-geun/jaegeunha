@@ -1,3 +1,20 @@
+# [ 영어로 말하기 ] "다들 ~한다", "대부분이 어떻다", "몇몇은 어떻게 한다"
+* 통역이 필요해요; i need an interpreter
+ * She will interpret for us
+* 친구들은 있는데 서로 자주 보지는 못해요. 
+ * I have friends but we don't get to see each other very often
+* 일단, 다들 직업이 있어서 항상 일에 얽매여 있어요. 
+ *  First of all, we all have jobs so we're always tied up at work.
+* 게다가, (우리 중) 대부분이 이제 결혼을 했고 아이가 있는 사람도 많아요. 
+ *  Plus, most of us are married now and many of us have kids
+* 몇몇은 해외에서 일을 하고 있고 심지어 다른 나라도 이민을 간 사람도 있어요. 
+ * Some are working overseas and a few have even moved to other countries.
+* 그래서, 뭐, 시간이 지나면서 연락하면서 지내는게 더 어려워지고 있어요.
+ * So, you know, it's getting harder to keep in touch as time goes by.
+* 미리 축하해; Congratulations in advance
+* 대학 지원한거 어떻게 됐어? Any news on your college applications?
+* 1지망 했던 학교에 전부 합격했어요; i got accepted to all of my first choices
+
 # INVEST 가 투자라는 뜻이 아니다? 사랑에 빠졌을 때 쓸 수 있는 INVEST
 * I can tell that you are very much invested in her.
 * 너가 걔한테 완전 빠져있는 거 딱 보여
