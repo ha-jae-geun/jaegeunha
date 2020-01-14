@@ -92,6 +92,26 @@ class Stack {
 가능한 한 적은 코드로 작성하고자하는 욕구 –> 삽입(INSERTION) 정렬
 ```
 
+## 자바의 정렬
+```java
+Arrays.sort
+T[] arr = new T[N];
+Arrays.sort(arr);
+[]로 표시되는 단순 배열을 정렬하는 메서드.
+
+이 때 타입 T는 반드시 Comparable 인터페이스를 구현한 상태여야 한다. 참고로 Unstable한 Quick Sort를 사용한다고 한다.
+
+
+Collections.sort
+ArrayList<T> arr = new ArrayList<>();
+Collections.sort(arr);
+Collections.sort(arr, new Comparator());
+위의 소트와 사용방법은 거의 비슷하다.
+
+참고할 점은 추가인자로 Comparator를 삽입하여 정렬 순서를 정의할 수 있다는 점, 그리고 MergeSort를 사용하기 때문에 Stable하다는 것 정도이다.
+
+```
+
 ## 내부정렬
 * 주기억 장치에서 이루어짐: 위의 정렬들 모두
 * 외부정렬: 보조기억장치에서 이루어짐; 밸런스 병합 정렬, 캐스케이드 병합 정렬, 폴리파즈 병합 정렬, 오실레이팅 병합 정렬
