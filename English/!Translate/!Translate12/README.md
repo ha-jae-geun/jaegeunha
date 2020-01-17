@@ -1,3 +1,14 @@
+# [ 영어연습가이드 | HARDCORE ] "스마트폰은 커야 좋지만 너무 커도 안돼"
+* "그동안 여러 개의 다른 스마트폰을 써보면서 그 어느 것에 대해서도 큰 불만은 없었지만 
+ * "I've used several different smartphones and while I've never really had any serious complaints about any of them
+* 꾸준히 생기는 작은 불평 하나가 딱 좋은 크기의 폰을 찾을 수가 없다는거야. 
+ *  one small gripe that I've constantly had is not being able to find a phone that is just the right size.
+* 왜 그런거 있잖아 - You know,
+* 오래 보고  있어도 눈이 불편하지 않을 정도로 크면서 들고 다니기 번거롭다고 느낄 정도로는 크지 않은거. 
+ *  something that's big enough that it's comfortable to look at for long periods of time but not so big that it feels like a hassle to carry around.
+* 글쎄, 어쩌면 내가 존재할 수 없는걸 요구하는거일 수도 있겠지."
+ * I don't know. Maybe I'm asking for something that can't exist."
+
 # [ 영어로 말하기 ] "다들 ~한다", "대부분이 어떻다", "몇몇은 어떻게 한다"
 * 통역이 필요해요; i need an interpreter
  * She will interpret for us
