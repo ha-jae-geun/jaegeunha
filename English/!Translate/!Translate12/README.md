@@ -1,3 +1,9 @@
+# [ 영어 연습가이드 ] rely on instincts, make an educated guess, make an informed decision
+* "요즘 학생들은 무엇을 전공할지에 대해서 본능에 의지하거나 짐작으로만 결정을 해야 하는 상황이 더 이상 아니다. 
+  * "Nowadays, students no longer have to rely on their instincts or be limited to making educated guesses about what they should major in.
+* 온라인 상에 이용할 수 있는 정보가 많고 그들이 미래에 대해서 더 확실한 결정을 할 수 있도록 설계된(만들어진) 프로그램들도 마련되어 있다."
+  * There is so much information available online and there are even programs in place that are designed to help them make much more informed decisions about their future."
+
 # [ 영어연습가이드 | HARDCORE ] "스마트폰은 커야 좋지만 너무 커도 안돼"
 * "그동안 여러 개의 다른 스마트폰을 써보면서 그 어느 것에 대해서도 큰 불만은 없었지만 
  * "I've used several different smartphones and while I've never really had any serious complaints about any of them
