@@ -1,3 +1,15 @@
+# [기초영어회화] "완전 신나요", "너무 기대되요"
+```java
+A: Are you going to do something during your vacation?
+휴가 때 뭐(라도) 하실거예요?
+B: Yeah, actually, I'm staying in Paris for 2 weeks.
+ 네, 사실은 2주 동안 빠리에 가 있을거예요.
+A: Wow, that sounds great! You must be (really) excited.
+ 오 ~ 재밌겠다. 신나겠어요 / 좋겠어요 / 기대되겠어요.
+B: Oh, yeah. I'm really excited. Actually, it's my first time going to Europe. So, I'm really looking forward to it.
+오, 그럼요. 완전 신나요. 사실, 유럽을 가는게 처음이라 정말 많이 기대하고 있어요.
+```
+
 # [ 영어 연습가이드 ] rely on instincts, make an educated guess, make an informed decision
 * "요즘 학생들은 무엇을 전공할지에 대해서 본능에 의지하거나 짐작으로만 결정을 해야 하는 상황이 더 이상 아니다. 
   * "Nowadays, students no longer have to rely on their instincts or be limited to making educated guesses about what they should major in.
