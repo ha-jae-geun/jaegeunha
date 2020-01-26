@@ -78,6 +78,8 @@ public class Main {
         System.out.println("##########sort#########");
         System.out.println(list);//Comparator sort
     }
+내림차순 : return (o2+o1).compareTo(o1+o2);
+오름차순 : return (o1+o2).compareTo(o1+o2);
 }
 
 
