@@ -1,3 +1,13 @@
+# [ 영어 연습가이드 ] 예전에는 ~했었는데 / 한동안 ~하다가 / 지금은 ~
+* "예전에는 락음악만 들었었어요. 
+ * "I used to listen to only rock music.
+ * used to; 일반 과거형 보다 예전을 의미
+  * Last week, he was
+* 그러다가 한동안 힙합에 빠져 있었는데 지금은 여러가지 음악을 즐겨 들어요 + 클래식까지요. 
+ *  Then I was into hip-hop for a while.
+* 저는 클래식 음악 너무 좋아요."
+ * But now I enjoy many different kinds of music including classical. I really love classical music."
+
 # [기초영어회화] "완전 신나요", "너무 기대되요"
 ```java
 A: Are you going to do something during your vacation?
