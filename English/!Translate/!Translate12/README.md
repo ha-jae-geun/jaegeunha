@@ -1,3 +1,16 @@
+# [ 영어 연습가이드 ] 충고하기
+* "확실히 어떻다고 말하기 어려워, 왜냐면 너도 알다시피, 사람마다 다르잖아. 
+   * "That's really hard to say because, as you know, everyone is different
+* 누구한테 효과적인 것이 있다고 해서 그게 꼭 다른 사람들에게도 효과적일 것이라는 법은 없어. 
+  * So, what works for some people may not work for others. 
+* 하지만 내가 한 가지 확실히 말할 수 있는 것은 언어에는 여러 요소가 있다는 것이고 
+  * But what I can tell you for sure(certain) is that there are many aspects to a language
+* 몇 개에 불과하는 연습 방식에 의존하지 않는 것이 좋다고 충고하고 싶어. 
+  *  and I would advise against relying on just a few exercises
+  * would advise against; 나라면 -하지 않겠어
+* 그것보단, 할 수 있는 것을 최대한 많이 해보면서 자신에게 뭐가 효과적인지를 알아봐."
+  * Instead, try as many things as you can and see what works for you."
+
 # [ 영어 연습가이드 ] 예전에는 ~했었는데 / 한동안 ~하다가 / 지금은 ~
 * "예전에는 락음악만 들었었어요. 
  * "I used to listen to only rock music.
