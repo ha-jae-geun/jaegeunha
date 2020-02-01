@@ -237,6 +237,25 @@ class Solution {
 str2[j] >= 'a'&&str2[j] <= 'z'
 ```
 
+## char형을 string으로
+```java
+	static HashMap<String, Integer> hashMap = new HashMap<>();
+	
+	public static void main(String[] args) {
+		makeDic();
+		System.out.println(hashMap.get("A"));
+	}
+	
+	public static void makeDic() {
+		char a = 'A';
+		
+		for(int i=0; i<26; i++) {
+			hashMap.put(Character.toString(a), i+1);
+			a = (char) (a + 1);
+		}
+	}
+```
+
 ## char형을 int형으로
 ```java
 number.charAt(i) - '0';
