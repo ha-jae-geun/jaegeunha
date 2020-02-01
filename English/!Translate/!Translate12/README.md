@@ -1,3 +1,22 @@
+# 쓸만한 영어 - 생활속 통역 - 신종 코로나 바이러스에 관해 영어로 대화하기
+* 이 병의 발원지는 중국이야;
+  * Epicenter of the disease is in china
+* 8000명이 넘는 사람이 바이러스에 걸렸다고 확인됑써
+  * Almost 8000 people are confirmed to have the virus
+* 확진 환자 4명 중에서 1명이 우리 동네 병원에 입원했어
+  * Among the 4 confirmed cases, one of them  was admitted to the hospital in my neighborhood
+ * 그 사람이 여기 저기 돌아다녀서 누가 걸렸는지 알 수 없어
+  * He went to a bunch of different places like restaurants, cafes and stores
+ * 누가 걸렸는지 알수 없어
+  Nobody knows whether they were exposed to the germs
+ * 누구라도 바이러스에 걸릴 수 있어
+  * Anyone can get infected with the virus
+ * 이게 더 무서어; That makes people feel more sscared
+* 대중교통에서 재채기 한번에도 눈치보여
+  * we can sense peple's anxiety even if we sneeze or cough once
+ * 예방이 최고야
+  * prevention is the best cure
+
 # [ 영어 연습가이드 ] 충고하기
 * "확실히 어떻다고 말하기 어려워, 왜냐면 너도 알다시피, 사람마다 다르잖아. 
    * "That's really hard to say because, as you know, everyone is different
