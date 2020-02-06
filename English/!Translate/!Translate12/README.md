@@ -1,3 +1,27 @@
+# [ 영어 연습가이드 ] 어떤 상황을 "막다" / "피하다" / "예방하다"
+* "스페인이나 이태리를 여행하면서 소매치기를 당했다는 얘기를 꽤 많은 사람들로부터 들어봤어. 
+ * "I've heard quite a few people talk about how they got pickpocketed while they were traveling in Spain or Italy.
+* 물건을 도난 당하는 것을 막는 완벽한 방법은 아마 없겠지만 
+ *  There's probably no perfect way to keep your stuff from getting stolen but
+* 예방하기 위한 제일 좋은 방법 중 하나로 알려진 것은 그냥 주의를 끌 수 있는 것은 아예 가지고 다니지 않도록 하는거야. 
+ * they say that one of the best ways to prevent it is to simply not carry anything that can attract attention. 
+* 그러니까 그게, 애초에 목표물이 되지 말자는거지."
+ * So the idea is to avoid becoming a target in the first place."
+* is not to
+ * is to not; 무게감 있게 -하지 
+
+# [ 기초영어회화 ] 수염을 없앨 의향이 있습니다
+* -할 계획이다; i'm planning to
+* -할 의향이 있다; i'm willing to
+ * 가격이 맞다면 중고 제품을 살 생각도 있어; 
+  * i'm willing to buy a used one if the price is right
+* 어떻게 할 계획이다
+ * 오늘 밤에는 집에서 요리를 해먹을 생각이야; i'm thinking of cooking at home tonight
+* 나를 놀리지 않는다고 약속하면 내 턱수염을 밀어버릴 의향이 있어요
+ * 'i'm willing to shave off my beard if you promise not to tease me
+* 당신만 괜찮다면 저는 당장 시작할 의향이 있어요;
+ * if it's ok with you, i'm willing to start right away
+
 # 쓸만한 영어 - 생활속 통역 - 신종 코로나 바이러스에 관해 영어로 대화하기
 * 이 병의 발원지는 중국이야;
   * Epicenter of the disease is in china
