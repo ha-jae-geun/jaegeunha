@@ -1,3 +1,18 @@
+# [ 기초영어회화 | 대화가이드 ] 확진자 몇 명? 내가 확인했을 때는 20명, 아마 지금은 더 많을거야.
+- 지금까지 확진자가 몇 명이지?
+* A: How many confirmed cases (are there / have there been) so far?
+* 내가 마지막으로 봤을 때는 20명이었어. 근데 아마 지금은 그것보다 많을거야.
+* B: The last time I checked, it was 20. But it's probably more
+than that now.
+* 얼마나 더 오래 간대?
+* A: How long do they say this will go on?
+ * How long do you think this will go on?
+* 글쎄, 너무 오래는 아니어야 할텐데.
+* B: I don't know. Hopefully not too long.
+* i hope: 개인적인 바램
+* Hopfefully: 공통된 + 개인적인 바램
+
+
 # [ 영어 연습가이드 ] 어떤 상황을 "막다" / "피하다" / "예방하다"
 * "스페인이나 이태리를 여행하면서 소매치기를 당했다는 얘기를 꽤 많은 사람들로부터 들어봤어. 
  * "I've heard quite a few people talk about how they got pickpocketed while they were traveling in Spain or Italy.
