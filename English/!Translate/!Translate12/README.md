@@ -1,3 +1,26 @@
+# [ 영어회화 ] 숙어x1 / 구동사x2
+* A: 준비는 어떻게 돼가?
+ * A: So, how's the preparation going?
+* B: 약간의 차질(문제/지체)이 좀 있긴 했는데 내가 감당 못할건 없어. 
+ * B: Well, I've hit a few bumps in the road but (they're) nothing I can't handle
+ * hit a bump in the road: 무엇을 하는 과정에서 차질이 생기다
+* 하나씩 정리하고 있고 결국 잘 (해결) 될거야.
+ * I'm sorting things out one by one and eventually
+ * sort out: 정렬시키다, 상황 따위를 정리/해결하다
+ * it's going to work out OK.
+
+# [ 영어 연습가이드 ] 신종 코로나바이러스 관련 용어 & 표현
+* 오늘까지, 전세계적으로  코로나바이러스 확진자가 35000명이 조금 안되고 사망자가 약 725명 되는데 
+ * As of today, there are just under 35000 confirmed cases of coronavirus infections worldwide and about 725 deaths,
+* 이것은 약 2%의 치사율을 나타낸다. 
+ *  which gives us a mortality rate of about 2%.
+* 이 표에 따르면, 지난 며칠 동안 증가율이 사실 좀 떨어진 편이지만 
+ *  According to this chart, the increase rate over the past couple of days has actually gone down a bit but
+* 잠복기간이 길게는 2주까지 간다는 것을 고려하면 
+ *  considering that the incubation period can be as long as 2 weeks,
+* 우리가 할 수 있는 것은 다 해서 2차 3차 확산을 예방하는 것이 중요하다.
+ * it's very important that we do everything we can to prevent secondary and tertiary spreads. 
+
 # [ 기초영어회화 | 대화가이드 ] 확진자 몇 명? 내가 확인했을 때는 20명, 아마 지금은 더 많을거야.
 - 지금까지 확진자가 몇 명이지?
 * A: How many confirmed cases (are there / have there been) so far?
