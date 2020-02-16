@@ -1,3 +1,9 @@
+# [ 기초영어회화 ] 저렇게 해야 되나요? 아니면 그냥 이렇게 해도 되나요?
+* A: 전체 주소를 써야 되나요? 아니면 그냥 도시만 써도 되나요?
+* B: 만약, 직접 오셔서 제품을 픽업하실거면 그냥 비워두셔도 되는데 혹시 모르니까 전체 주소를 쓰시는 것을 권장해요.
+* A: Do I have to write my whole address? Or can I just write the city?
+* B: Well, if you're going to come and pick up the product yourself, you can just leave it blank. But I suggest that you write your whole address, just in case.
+
 # [ 영어회화 ] 숙어x1 / 구동사x2
 * A: 준비는 어떻게 돼가?
  * A: So, how's the preparation going?
