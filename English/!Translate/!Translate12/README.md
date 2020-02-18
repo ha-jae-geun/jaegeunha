@@ -1,3 +1,33 @@
+# [기초영어회화] 내 아는 사람들은 다.. / 내가 아는 사람 중에는 없다 / - 하는 사람이 많지 않다
+* 한국에는 텔레그램을 쓰는 사람이 많지 않아요. 
+ * In Korea, not many people use Telegram.
+* 물론, 쓰는 사람도 있겠죠. 
+ *  I'm sure some people do,
+* 하지만 제가 아는 사람들은 다 카카오톡을 써요. 
+ *  but everyone I know uses Kakao Talk.
+ * everyone i know; 내가 아는 모든 사람
+* 그 중에는 둘 다 사용하는 사람도 있겠지만 제가 아는 사람 중에 텔레그램만 쓰는 사람은 없어요.
+ * I guess some of them might use both, but I don't know anybody who uses only Telegram.
+* Everyone i know
+ * nobody i know
+ * no one i know
+* Nobody i know uses only Telegram
+
+# [ 영어회화 ] "고개만 끄덕이면서 그냥 가만히 있었어."
+* 어제 친구들을 몇 명 만났어. 
+ *  I was with some friends yesterday
+* 그 전날 TV에서 본 것에 대해서 다들 얘기하고 있었는데 난 솔직히 뭔소린지 하나도 모르겠더라고. 
+ * and they were all talking about something they had seen on TV the day before.  I honestly had no idea what they were talking about 
+* 근데 다른 사람들 다 그걸 본 것 같더라. 
+ * but everyone else seemed like they had seen 
+* 그래서 난 그냥 고개만 끄덕이면서 가만히 있었어. 
+ * So I (just) didn't say anything and I just nodded along.
+ * nod along: 그냥 흐름에 따라 끄덕였다
+* 걔네들이 사실 신경도 안썼겠지만 내가 분위기를 망치고 싶진 않았어.
+  * Not that they would've cared but I just didn't want to ruin the excitement.
+  * Not that + 수식하는 절
+
+
 # [ 기초영어회화 ] 저렇게 해야 되나요? 아니면 그냥 이렇게 해도 되나요?
 * A: 전체 주소를 써야 되나요? 아니면 그냥 도시만 써도 되나요?
 * B: 만약, 직접 오셔서 제품을 픽업하실거면 그냥 비워두셔도 되는데 혹시 모르니까 전체 주소를 쓰시는 것을 권장해요.
