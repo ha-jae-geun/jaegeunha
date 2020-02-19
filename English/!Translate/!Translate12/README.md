@@ -1,3 +1,21 @@
+# 사회생활 필수 영어회화 - 교활한 사람에 대해 불평하기 - Scene 075
+* J가 또 Max의 공을 가로챘다고 말하지 마
+ * Don't tell me that J took credit for Max's work again
+* 너가 뭘 잘났다고 그렇게 평가질을 하니
+ * You are so snobbish and judgemental(둘 다 센말)
+* 우리가 성급한거라고 느껴질 수 있다는 것은 알아요.
+ * I know that it might feel like we’re rushing into it and, trust me,
+* 급하게 하지 마; DOn't rush into it like that
+* 정말, 저도 위험하게 뭘 하는 것은 정말 싫어하는 사람이에요. 
+ *  no one hates to take risks more than I do
+* 근데 이건 어느 정도의 시행착오 없이는 도저히 방법이 없어요. 
+ * But there’s just no way to go about this without a little trial and error.
+* 게다가, 하다보면 지금은 우리가 상상조차 못하는 변수도 엄청 많을거예요. 
+ *  Besides, there are tons of other factors that we can't even think of right now  that will come into play later down the line.
+ * later down the line
+* 우리는 사전조사와 준비는 할만큼 했어요.
+ * We've done as much research and preparation as we can do.
+
 # [기초영어회화] 내 아는 사람들은 다.. / 내가 아는 사람 중에는 없다 / - 하는 사람이 많지 않다
 * 한국에는 텔레그램을 쓰는 사람이 많지 않아요. 
  * In Korea, not many people use Telegram.
