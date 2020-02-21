@@ -1,3 +1,17 @@
+# [ 기초영어회화 ] 외국인이 김치를 어떻게 만드냐길래...
+* 있잖아요, 제가 김치는 늘 먹는데 실제로 직접 만들어본 적은 없어요. 
+  * You know, I eat Kimchi all the time but I've never actually made any myself.
+  * all the time: 늘 있는 일이다;  always: 의도 있이 항상 하는 일
+* 방법도 몰라요. 어머님을 몇 번 도와드린 적은 있는데 단순한 레시피가 아니에요. 
+  *  I don't even know how. I've helped my mother several times but it's not just a recipe.
+* 전체 과정이 거의 하루 종일 걸리고 일이 엄청 많아요. 
+ *  The whole process takes almost an entire day and it's a lot of work.
+* 요즘은 쉽게 김치를 그냥 살 수 있어요. 
+  *  Nowadays, you can easily just buy Kimchi.
+* 그래서 요즘은 집에서 그 번거로운 과정을 다 거치려는 사람들이 많지 않아요.
+  * So, nowadays, not many people are willing to go through all that trouble at home.
+
+
 # 사회생활 필수 영어회화 - 교활한 사람에 대해 불평하기 - Scene 075
 * J가 또 Max의 공을 가로챘다고 말하지 마
  * Don't tell me that J took credit for Max's work again
