@@ -1,3 +1,24 @@
+# [ 영어 연습가이드 ] "대수롭게 생각하지 않았어요." + 간접화법 + 과거완료 [연습!]
+* 동네 길고양이들을 챙기는 이웃이 있어요.
+ * I have a neighbor who cares for stray cats in our neighborhood. 
+ * care for: 돌보다, 좋아하다
+* 몇 달 전에 한 마리가 다쳤다면서 어떻게 된 일인지 아냐고 저한테 물어서 
+ *  Several months ago, she told me that one of the cats had gotten injured and asked me if I knew anything about it.
+* 전 모른다고 하고 그것에 대해서 대수롭게 생각하지 않았어요. 
+ *  I told her that I didn't and I didn't think much of it.
+* 그냥 잡담이라고 생각했죠. 
+ *  I thought she was just making conversation. 
+* 얼마 후에 한 마리가 없어졌다면서 혹시 봤냐고 그래서 못봤다고 하고 다시 한번 별 일 아니라고 여겼어요.
+ * After some time, she told me that one of the cats was missing and asked me if I had seen it. I told her I hadn't and again,
+* 중요한 일이 아니라고 생각했어요. 
+ *  I shrugged it off I didn't think it was a big deal
+ * shrug off: 대수롭지 
+* 어제 또 이야기를 나눴어요. 
+* 저보고 뒷마당에 나타나는 길고양이를 어떻게 대처하냐고 묻더군요. 
+ *  We spoke again yesterday. She asked me how I dealt with stray cats coming into my back yard.
+* 그 분은 제가 길고양이들을 고문하거나 잡아먹는다고 생각하는게 분명해요.
+ * I'm pretty sure she thinks that I torture and eat stray cats or something.
+
 # [ 기초영어회화 ] 외국인이 김치를 어떻게 만드냐길래...
 * 있잖아요, 제가 김치는 늘 먹는데 실제로 직접 만들어본 적은 없어요. 
   * You know, I eat Kimchi all the time but I've never actually made any myself.
