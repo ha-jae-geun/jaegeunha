@@ -1586,6 +1586,7 @@ A는 최대 10분까지 맛집을 가기위해 기다릴 생각이 있다.
 
 
 ## HTTPS
+* [정아마추어]('https://jeong-pro.tistory.com/m/89?category=793347')
 - 표현계층의 SSL 프로토콜 위에서 응용계층의 HTTP 프로토콜이 실행되는 것을 말하며, HTTP Over SSL 이란 의미입니다.
 * SSL 프로토콜은 테리사(Terrsa)가 개발해 Netscape사가 NetSite의 암호화 중심 프로토콜로 정착시킨 기술로 정보 암호화시 공개키(Pubilc Key)와 개인키(Private Key)라는 두가지 키를 이용하는 방법
 
