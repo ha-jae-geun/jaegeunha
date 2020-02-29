@@ -1,5 +1,199 @@
 # 팁
 
+# MAVEN
+* [메이븐]('https://jeong-pro.tistory.com/m/168?category=793347')
+```JAVA
+제목과 같은 질문에 필자는 제대로 답변할 수 없었다.
+
+단순하게는 maven repository에서 dependency 추가해서 필요한 라이브러리 쓰는 정도?
+
+무엇을 위해 쓰는지, 왜 쓰는지, 어떻게 쓰는지에 대한 구체적으로 알지 못했다. 
+
+사실 지금까지 알 필요도 없었고, 초보 프로그래머의 기준에서는 Maven을 몰라도 대중적이면서도 다양한 라이브러리를 많이 
+접하고 써보면 "장땡"이었기 때문이었다.
+
+사실 지금도 자세히는 모른다.
+
+그러나, 조금 더 나은 프로그래머가 되기 위해서 maven에 대한 이해가 필요하다고 생각해서 정리한 것이다.
+("maven을 빠삭하게 알아야 해!"가 아니라 "maven을 알아가는 길에 한 발자국을 떼보자!"다.)
+
+pom.xml을 분석하기 전 maven 입문
+
+1. Maven은 무엇인가?
+
+Maven은 자바 프로젝트의 빌드(build)를 자동화 해주는 빌드 툴(build tool)이다.
+
+즉, 자바 소스를 compile하고 package해서 deploy하는 일을 자동화 해주는 것이다.
+
+
+
+2. Maven이 참조하는 설정 파일
+
+Maven 전체를 보기보다 프로그래밍에 직접적인 연관이 있는 두 개의 설정파일을 알아보면 된다.
+
+1) settings.xml
+
+settings.xml은 maven tool 자체에 관련된 설정을 담당한다.
+
+MAVEN_HOME/conf/ 아래에 있다. ( * MAVEN_HOME은 환경변수에 설정한 경로)
+
+Maven 자체에 설정 값을 바꾸는 일은 일단 잘 없으므로 넘어가고 기획한대로 pom.xml을 살펴본다.
+
+
+
+2) pom.xml
+
+하나의 자바 프로젝트에 빌드 툴로 maven을 설정했다면, 프로젝트 최상위 디렉토리에 "pom.xml"이라는 파일이 생성되었을 것이다.
+
+pom.xml은 POM(Project Object Model)을 설정하는 부분으로 프로젝트 내 빌드 옵션을 설정하는 부분이다.
+
+꼭 pom.xml이라는 이름을 가진 파일이 아니라 다른 파일로 지정할 수도 있다. (mvn -f ooo.xml test)
+
+그러나 maven의 원칙(습관에 의한 편의성?)으로 다른 개발자들이 헷갈릴 수 있으므로 그냥 pom.xml으로 쓰기를 권장한다.
+
+
+Spring boot에서 프로젝트를 생성했을 때 나오는 pom.xml의 내용이다.
+
+pom.xml은 <project>...</project>로 둘러싸여서 section별로 여러 정보를 나타내며 설정할 수 있다.
+
+1) 프로젝트 정보
+
+제일 위에 태그부터 살펴보도록 한다.
+
+<modelVersion> : 4.0.0이라고 써있는데 이것은 maven의 pom.xml의 모델 버전이다. 형식이 4.0.0 버전이라고 이해하면 된다.
+
+<groupId> : 프로젝트를 생성한 조직 또는 그룹명으로 보통, URL의 역순으로 지정한다.
+
+<artifactId> : 프로젝트에서 생성되는 기본 아티팩트의 고유 이름이다.
+
+메이븐에 의해 생성되는 일반적인 artifact는 <artifact>-<version>.<extention>이다. (ex demo-0.0.1-SNAPSHOT.jar)
+
+<version> : 애플리케이션의 버전. 접미사로 SNAPSHOT이 붙으면 아직 개발단계라는 의미이며, 메이븐에서 라이브러리를 
+관리하는 방식이 다르다고 한다.
+
+<packaging> : jar, war, ear, pom등 패키지 유형을 나타낸다.
+
+<name> : 프로젝트 명
+
+<description> : 프로젝트 설명
+
+<url> : 프로젝트를 찾을 수 있는 URL
+
+위와 같은 태그들은 프로젝트 정보에 관련된 내용이다.
+
+* <properties> : pom.xml에서 중복해서 사용되는 설정(상수) 값들을 지정해놓는 부분. 다른 위치에서 ${...}로 
+표기해서 사용할 수 있다. (java.version에 1.8을 적용하고 다른 위치에서 ${java.version}이라고 쓰면 "1.8"이라고 쓴 것과 같다.
+
+* <profiles> : dev, prod 이런식으로 개발할 때, 릴리즈할 때를 나눠야할 필요가 있는 설정 값은 profiles로 설정할 수 있다.
+
+maven goal 부분에 -P 옵션으로 프로파일을 선택할 수 있다.
+
+mvn compile -P prod 라고 하면 ${java.version}은 1.9가 된다. (예를 이렇게 해서 그렇지 자바 버전을 바꾸는 일은 잘 없다...)
+
+2. 의존성 라이브러리 정보
+
+의존성 라이브러리 정보를 적을 수 있다.
+
+최소한 groupId, artifactId, version 정보가 필요하다.
+
+스프링부트의 spring-boot-starter-*같은 경우에는 부모 pom.xml에서 이미 버전정보가 있어서 version은 따로 지정할 필요가 없다.
+특히 스프링부트는 해당 스프링버전에 잘 맞는 버전으로 이미 설정되어 있기 때문에 오버라이드해서 문제가 생기는 부분은 순전히 
+개발자 탓이다.
+
+그리고 A라는 라이브러리를 사용하는데 B,C,D가 의존성을 가진다면 A를 dependency에 추가하면 자동으로 필요한 B,C,D도 가져오는 기능이 있다.
+
+dependency에 <scope>의 경우 compile, runtime, provided, test등이 올 수 있는데 해당 라이브러리가 언제 필요한지, 
+언제 제외되는지를 나타내는 것으로 따로 검색해보면 알 수 있다.
+
+3. build 정보
+
+build tool : maven의 핵심인 빌드와 관련된 정보를 설정할 수 있는 곳이다.
+
+<build> 부분에서 설정할 수 있는 값들에 대해 설명하기 전에 "라이프 사이클(life-cycle"에 대해서 알 필요가 있다.
+
+객체의 생명주기처럼 maven에는 라이프 사이클이 존재한다.
+
+크게 default, clean, site 라이프 사이클로 나누고 세부적으로 페이즈(phase) 있다. 아래 그림 참조
+
+[출처 : https://www.slideshare.net/ssuser5445b7/ss-56566336?qid=927855f5-7c8a-4f88-a834-d31292324fd2&v=&b=&from_search=4]
+
+메이븐의 모든 기능은 플러그인(plugin)을 기반으로 동작한다.
+
+플러그인에서 실행할 수 있는 각각의 작업을 골(goal)이라하고 하나의 페이즈는 하나의 골과 연결되며, 하나의 플러그인에는
+여러 개의 골이 있을 수 있다.
+
+
+
+* 라이프 사이클
+
+mvn process-resources : resources:resources의 실행으로 resource 디렉토리에 있는 내용을 target/classes로 복사한다.
+
+mvn compile : compiler:compile의 실행으로 src/java 밑의 모든 자바 소스를 컴파일해서 target/classes로 복사
+
+mvn process-testResources, mvn test-compile : 이것은 위의 두 개가 src/java였다면 test/java의 내용을 
+target/test-classes로 복사. (참고로 test만 mvn test 명령을 내리면 라이프사이클상 원본 소스로 컴파일된다.)
+
+mvn test : surefire:test의 실행으로 target/test-classes에 있는 테스트케이스의 단위테스트를 진행한다. 
+결과를 target/surefire-reports에 생성한다.
+
+mvn package : target디렉토리 하위에 jar, war, ear등 패키지파일을 생성하고 이름은 <build>의 <finalName>의 값을 사용한다
+지정되지 않았을 때는 아까 설명한 "artifactId-version.extention" 이름으로 생성
+
+mvn install : 로컬 저장소로 배포
+
+mvn deploy : 원격 저장소로 배포
+
+mvn clean : 빌드 과정에서 생긴 target 디렉토리 내용 삭제
+
+mvn site : target/site에 문서 사이트 생성
+
+mvn site-deploy : 문서 사이트를 서버로 배포
+
+위와 같은 진행 순서로 라이프 사이클이 진행된다.
+
+
+
+이제 <build>에서 설정할 수 있는 값을 확인해보자.
+
+<finalName> : 빌드 결과물(ex .jar) 이름 설정
+
+<resources> : 리소스(각종 설정 파일)의 위치를 지정할 수 있다.
+
+- <resource> : 없으면 기본으로 "src/main/resources"
+
+<testResources> : 테스트 리소스의 위치를 지정할 수 있다.
+
+- <testResource> : 없으면 기본으로 "src/test/resources"
+
+<Repositories> : 빌드할 때 접근할 저장소의 위치를 지정할 수 있다. 기본적으로 메이븐 중앙 저장소인
+http://repo1.maven.org/maven2로 지정되어 있다.
+
+<outputDirectory> : 컴파일한 결과물 위치 값 지정, 기본 "target/classes"
+
+<testOutputDirectory> : 테스트 소스를 컴파일한 결과물 위치 값 지정, 기본 "target/test-classes"
+
+<plugin> : 어떠한 액션 하나를 담당하는 것으로 가장 중요하지만 들어가는 옵션은 제 각각이다. 다행인 것은
+플러그인 형식에 대한 것은 안내가 나와있으니 그것을 참고해서 작성하면 된다.
+
+plugin이 작성되어 있다고 무조건 실행되는 것은 아니다. 명확한 것은 아니지만 따로 실행할 플러그인을 메이븐
+명령어로 실행해야 하는 것으로 알고 있다.
+
+- <executions> : 플러그인 goal과 관련된 실행에 대한 설정
+
+- <configuration> : 플러그인에서 필요한 설정 값 지정
+
+apache CXF를 이용한 code generate 플러그인은 아래에서 소개되고 사용한다.
+
+http://cxf.apache.org/docs/maven-cxf-codegen-plugin-wsdl-to-java.html
+
+번외. <Parent> pom.xml 상속
+
+<Parent> : pom.xml은 상속을 받을 수 있다. 스프링부트의 경우 부모 pom.xml에 자주 사용하는 라이브러리들의 
+버전정보나 dependency들을 이미 가지고 있어서 참조하기 편리하다.
+
+* 참고로 super pom.xml이라는 것이 있다.
+```
+
 ## 그림
 * JSP -> (Post, GET) -> Controller ->(Data Parameter) -> DAO/Service -> Model -> DB
 	* DAO: Interface(서비스) + DAO(자바)
