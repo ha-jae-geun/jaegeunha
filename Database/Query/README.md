@@ -1,3 +1,8 @@
+# 프로그래머스 문제
+* 중복 제거하기
+* 입양시간 구하기
+* 없어진 기록찾기
+
 # outer join
 ```sql
 from emp e right (outer) join dept d
