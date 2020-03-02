@@ -3,6 +3,29 @@
 * 입양시간 구하기
 * 없어진 기록찾기
 
+## 중성화 안된
+```SQL
+-- 코드를 입력하세요
+SELECT B.ANIMAL_ID, B.ANIMAL_TYPE, B.NAME
+FROM
+    (
+    SELECT *
+    FROM ANIMAL_INS A
+    WHERE SEX_UPON_INTAKE LIKE "%Intact%"
+    ) SQ1, ANIMAL_OUTS B
+WHERE SQ1.ANIMAL_ID = B.ANIMAL_ID
+AND B.SEX_UPON_OUTCOME NOT LIKE "%Intact%"
+```
+## 오랜기간 보호
+```SQL
+-- 코드를 입력하세요
+SELECT A.NAME, A.DATETIME
+FROM ANIMAL_INS A LEFT JOIN ANIMAL_OUTS B ON A.ANIMAL_ID = B.ANIMAL_ID
+WHERE B.ANIMAL_ID IS NULL
+ORDER BY A.DATETIME
+LIMIT 3
+```
+
 # outer join
 ```sql
 from emp e right (outer) join dept d
