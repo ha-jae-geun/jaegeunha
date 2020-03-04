@@ -1,3 +1,24 @@
+# [ 영어 대화가이드 ] "걔는 널 형제처럼 생각하는게 있어."
+```java
+[KOR]
+A: 어제 그러고나서 애런이랑 얘기해봤어?
+B: 응 했는데 아직 기분이 안풀린 것 같더라. 
+도대체 뭐 때문에 그렇게 삐진건지 모르겠어. 
+난 그냥 룸메이트를 원하지 않는다고 말한 것 뿐인데.
+A: 글쎄, 난 걔가 왜 그러는지 알 것 같아. 
+걔가 외동이고 널 형제처럼 생각하는게 있어. 넌 못느꼈어?
+
+[ENG]
+A: So, did you talk to Aaron after (what happened) yesterday?
+B: Yeah, I did and he still sounded a little sour. 
+I don't know what it is that got him so upset. 
+All I said was I didn't want a roommate.
+A: Well, I can kind of see where he's coming from. 
+   He's an only child and he kind of thinks of you like a brother. Haven't you noticed?
+```
+* after yesterday 앞에 what happened 생략
+* where he's coming from: 그가 왜 그러는지
+
 # [ 영어 연습가이드 ] 상황이 이렇게까지 나빠질 줄은 몰랐어 / 누가 알았겠어?
 * 이 상황이 시작됐을 때 이렇게까지 나빠질 줄은 정말 몰랐어. 
   * When this whole thing started, I really didn't think it would get this bad.
