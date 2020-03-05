@@ -48,6 +48,7 @@ User userOfId1 = userMapper.findByColumn("id", 1L);
 User userOfNameKid = userMapper.findByColumn("name", "kid");
 User userOfEmail = userMapper.findByColumn("email", "noone@nowhere.com");
 ```
+* 사용자로부터 받은 값을 이 방법으로 변경하지 않고 구문에 전달하는 건 안전하지 않다. 이건 잠재적으로 SQL 주입 공격에 노출된다. 그러므로 사용자 입력값에 대해서는 이 방법을 사용하면 안된다. 사용자 입력값에 대해서는 언제나 자체적으로 이스케이프 처리하고 체크해야 한다.
 
 # MAVEN
 * [메이븐]('https://jeong-pro.tistory.com/m/168?category=793347')
