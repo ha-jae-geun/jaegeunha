@@ -1,5 +1,54 @@
 # 팁
 
+# #과 {}
+```java
+1. #
+<select id="selectPerson" parameterType="int" resultType="hashmap">
+  SELECT * FROM PERSON WHERE ID = #{id}
+</select>
+이 구문의 이름은 selectPerson이고 int타입의 파라미터를 가진다. 그리고 결과 데이터는 HashMap 에 저장된다.
+
+파라미터 표기법을 보자.
+
+#{id}
+이 표기법은 마이바티스에게 PreparedStatement파라미터를 만들도록 지시한다.
+ JDBC를 사용할 때 PreparedStatement에는 “?”형태로 파라미터가 전달된다. 즉 결과적으로 위 설정은 아래와 같이 작동하게 되는 셈이다.
+
+```
+
+## $
+```java
+#{} 문법은 마이바티스로 하여금 PreparedStatement프로퍼티를 만들어서 PreparedStatement파라미터(예를들면 ?)에 값을 셋팅하도록 할 것이다. 이 방법이 안전하기는 하지만 빠른 방법이 선호되기도 한다. 가끔은 SQL 구문에 변하지 않는 값으로 삽입하길 원하기도 한다. 예를들면 ORDER BY와 같은 구문들이다.
+
+ORDER BY ${columnName}
+여기서 마이바티스는 문자열을 변경하거나 이스케이프 처리하지 않는다.
+
+String Substitution can be very useful when the metadata(i.e. table name or column name) 
+in the sql statement is dynamic, for example, if you want to select from a table by any one of its columns, 
+instead of writing code like:
+
+@Select("select * from user where id = #{id}")
+User findById(@Param("id") long id);
+
+@Select("select * from user where name = #{name}")
+User findByName(@Param("name") String name);
+
+@Select("select * from user where email = #{email}")
+User findByEmail(@Param("email") String email);
+
+// and more "findByXxx" method
+you can just write:
+
+@Select("select * from user where ${column} = #{value}")
+User findByColumn(@Param("column") String column, @Param("value") String value);
+in which the ${column} will be substituted directly and the #{value} will be "prepared". 
+Thus you can just do the same work by:
+
+User userOfId1 = userMapper.findByColumn("id", 1L);
+User userOfNameKid = userMapper.findByColumn("name", "kid");
+User userOfEmail = userMapper.findByColumn("email", "noone@nowhere.com");
+```
+
 # MAVEN
 * [메이븐]('https://jeong-pro.tistory.com/m/168?category=793347')
 ```java
