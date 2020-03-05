@@ -1,3 +1,106 @@
+
+# 순서
+0. 클러스터링
+1. CPU, 램, C드라이브
+2. 네트워크 NAT, 브릿지
+3. 액티브 디렉터리
+4. 운영체제 종류
+5. 세션(자동 종료)
+6. 커넥션 풀
+
+# Active Directory
+*  마이크로소프트가 윈도우용 환경에서 사용하기 위해 개발한 LDAP 디렉터리 서비스의 기능이다. 주 목적은 윈도우 기반의 컴퓨터들을 위한 인증 서비스를 제공하는 것이다. 주로 윈도우 환경에서 동일한 데이터베이스를 사용하여 다음을 비롯한 다양한 네트워크 서비스를 제공한다.
+
+```java
+User Service
+
+Active Directory에 사용자에 대한 각종 프로필(계정, 패스워드, 메일주소, 전화번호, 부서, 직급, 등)을 
+등록하여 주소록 서비스, 계정기반 서비스를 제공합니다.
+
+•내 PC에서 로그인 하던 계정을 타 PC에서 계정 생성 없이 로그인이 가능합니다. 로그인할 경우 기존에 사용하던
+PC와 동일한 바탕화면을 제공합니다.
+
+•Windows 기반 Service와 관련된 계정 기반 로그인을 통합하여 사용하고 주소록을 제공합니다.
+
+
+Policy Service
+•Active Directory에 등록된 Windows Server, Client에 대해 각종 정책을 적용할 수 있습니다.
+
+•5분동안 Computer를 사용하지 않을 시 화면보호기를 실행
+
+•Windows Time server를 강제로 지정
+
+•각종 프로그램 자동배포 및 설치
+
+•Windows Server와 Client간의 방화벽 정책 할당
+
+
+
+Connection Service
+•Windows Service에 따른 Replication 설정 시 Server와 Server간의 연결
+
+•Exchange Server 구축 시 Active Directory와 연결하여 사용자 정보 및 사용자 권한 연동
+
+
+ 
+
+
+위와 같이 Active Directory는 Windows 기반 Service에 대하여 다양하게 중앙집중관리를 할 수 있습니다.
+
+
+Active Directory 도입 시 고려사항
+
+Active Directory의 중앙집중관리는 먼저 Windows Server, Client, 각종 Device 들이
+Active Directory Domain에 가입(Join)되어야 할 수 있습니다.
+
+즉, "내 PC"에서 로그인 하던 계정을 "다른 PC"에서 계정생성 없이 기존 사용하던 그대로의 
+환경을 가지고 로그인하고 싶다면 "내 PC"와 "다른 PC" 모두 Active Directory Domain에 가입되어 있어야 합니다.
+
+
+
+Active Directory Domain에 가입하려면 Window Server, Client, 각종 Device들의 DNS 서버를 
+Active Directory 서버로 변경해야합니다.
+
+Active Directory에는 DNS 기능도 같이 포함하고 있습니다. (물론 별도의 DNS 서버도 구축 가능합니다.)
+
+
+
+Device들의 DNS를 변경해야 되는 이유는 Active Directory Server를 찾아 Domain에 가입해야되는 
+부분과 향후 Windows Server들이 가입(Join)되어 Service를 운영할 때 Deivce들이 원활히 Domain내에서 
+제공하는 Windows Service를 찾을 수 있도록 하기 위함입니다.
+
+
+Active Directory에는 무수히 많은 Service가 연결되기 때문에 Active Directory에 장애가 생길 경우 
+그만큼 많은 Service에 대해서 영향을 줄 수 있습니다.
+
+따라서 여러 Active Directory Domain을 구성하여 Service와 역할을 나누어 관리하는 등 다양한 고민과 
+효율적인 사용전략이 필요합니다.
+
+
+
+그 이외에도 생각지 못한 고려사항이 많겠지만 환경과 상황에 따라 달라지므로 여기서 마치겠습니다.
+```
+
+## LDAP
+* 경량 디렉터리 액세스 프로토콜(영어: Lightweight Directory Access Protocol; LDAP)은 TCP/IP 위에서 디렉터리 서비스를 조회하고 수정하는 응용 프로토콜이다.
+* 터리는 논리, 계급 방식 속에서 조직화된, 비슷한 특성을 가진 객체들의 모임이다. 가장 일반적인 예로는 전화 번호부(telephone directory)가 있는데 가나다 순의 일련의 이름을 가지고 있고, 이름마다 전화 번호와 주소가 포함되어 있다. 이러한 기본 설계 때문에 LDAP는 인증을 위한 다른 서비스에 의해 자주 사용된다.
+* LDAP 디렉터리 트리는 선택된 모델에 따라 다양한 정치적, 지질학적, 조직적 경계를 반영하기도 한다. 오늘날 LDAP의 배치는 최상위 수준의 계급을 구조화하기 위해 도메인 이름 서비스의 이름을 사용하는 경향이 있다. 디렉터리 안에 들어가면 들어갈수록 사람들, 조직, 프린터, 문서, 그룹 등을 대표하는 항목들이 나타난다.
+
+## NAT
+* [NAT]('https://sksstar.tistory.com/m/5')
+```java
+이 방식은 A가 VM에게 IP를 주는 방식으로써
+A와 VM끼리 통신이 가능하고 A가 인터넷이 된다면 자동으로 VM도 무리없이 인터넷이 가능하다.
+그러나 B와 C는 VM에게 접속이 불가능하다.
+개인용 노트북에 테스트용으로 설치를 할 때는 이 방식으로 해도 무난하다. (DHCP)
+단, 다른 컴퓨터에서는 해당 VM에 접속을 하지 못한다는 것을 알아두자.
+```
+
+## 브릿지
+* 이 방식은 공유기가 VM에게 IP를 주는 방식으로써
+* VM에게 있어 A는 단지 다리역할 뿐 공유기는 VM도 하나의 딸린 PC로 보기 때문에 개별적으로 IP를 할당 받는다.
+* 따라서 A뿐만 아니라 B, C도 또한 VM과 통신이 가능하다.
+
 # 소켓 채팅 프로그램
 
 # NComputing
