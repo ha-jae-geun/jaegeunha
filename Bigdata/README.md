@@ -18,6 +18,7 @@
   * 군집화
   * 인간은 데이터를 분류하지 않는다. 기계로 하여금 엄청난 프로세싱 파워와 데이터를 토대로 학습시키는 것임
 * 강화학습: 앞서 살펴본 알고리즘들이 데이터(data)가 주어진 정적인 상태(static environment)에서 학습을 진행하였다면, 강화 학습(Reinforcement Learning)은 에이전트가 주어진 환경(state)에 대해 어떤 행동(action)을 취하고 이로부터 어떤 보상(reward)을 얻으면서 학습을 진행한다. 이때, 에이전트는 보상(reward)을 최대화(maximize)하도록 학습이 진행된다. 즉, 강화학습은 일종의 동적인 상태(dynamic environment)에서 데이터를 수집하는 과정까지 포함되어 있는 알고리즘이다.
+
 # 빅데이터
 * 연속형 변수(X): 연속형 반응변수(Y): 선형회귀보델
 * 연속형 변수(X): 범주변수(Y): 로지스틱 모형
@@ -144,3 +145,123 @@
 * 의사결정나무는 데이터를 분석하여 이들 사이에 존재하는 패턴을 예측 가능한 규칙들의 조합으로 나타내며, 그 모양이 ‘나무’와 같다고 해서 의사결정나무라 불립니다. 질문을 던져서 대상을 좁혀나가는 ‘스무고개’ 놀이와 비슷한 개념입니다. 한번 예를 들어볼까요?
 * 의사결정나무는 분류(classification)와 회귀(regression) 모두 가능합니다. 범주나 연속형 수치 모두 예측할 수 있다는 말입니다. 의사결정나무의 범주예측, 즉 분류 과정은 이렇습니다. 새로운 데이터가 특정 terminal node에 속한다는 정보를 확인한 뒤 해당 terminal node에서 가장 빈도가 높은 범주에 새로운 데이터를 분류하게 됩니다. 운동경기 예시를 기준으로 말씀드리면 날씨는 맑은데 습도가 70을 넘는 날은 경기가 열리지 않을 거라고 예측합니다.
 
+
+# 텐서플로우
+```python
+# 랜덤 가중치
+```python
+import tensorflow as tf
+
+import numpy as np
+
+from pandas.io.parsers import read_csv
+
+import os
+
+# os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
+
+model = tf.global_variables_initializer()
+#
+data = read_csv('서울_서울소매_2010_2017(2)_03_2_강수.csv', sep=',', engine='python')
+
+
+# data = read_csv('price data.csv', sep=',')
+
+xy = np.array(data, dtype=np.float32)
+
+
+
+# 4개의 변인을 입력을 받습니다.
+
+x_data = xy[:, 0:-1]
+
+# print(x_data)
+
+
+# 가격 값을 입력 받습니다.
+
+y_data = xy[:, [-1]]
+# print(y_data)
+
+# 가중치
+# w_data = [-12.6495, 8.4675, -146.2447, -702.2301, -9.6260]
+# print(w_data)
+
+# 플레이스 홀더를 설정합니다.
+
+X = tf.placeholder(tf.float32, shape=[None, 4])
+# print(X)
+
+Y = tf.placeholder(tf.float32, shape=[None, 1])
+# print(Y)
+
+W = tf.Variable(tf.random_normal([4, 1]), name="weight")
+
+# W = tf.Variable(tf.random_normal([8, 1]), name="weight")
+# print(W)
+
+b = tf.Variable(tf.random_normal([1]), name="bias")
+# b = tf.Variable(tf.random_normal([1]), name="bias")
+# print(b)
+
+
+# 가설을 설정합니다.
+
+hypothesis = tf.matmul(X, W) + b
+
+
+
+# 비용 함수를 설정합니다.
+
+cost = tf.reduce_mean(tf.square(hypothesis - Y))
+
+
+
+# 최적화 함수를 설정합니다.
+
+optimizer = tf.train.GradientDescentOptimizer(learning_rate=0.00001)
+# optimizer = tf.train.GradientDescentOptimizer(learning_rate=0.0000005)
+# optimizer = tf.train.ProximalGradientDescentOptimizer(learning_rate=0.0000005)
+
+train = optimizer.minimize(cost)
+
+
+
+# 세션을 생성합니다.
+
+sess = tf.Session()
+
+
+
+# 글로벌 변수를 초기화합니다.
+
+sess.run(tf.global_variables_initializer())
+
+
+
+# 학습을 수행합니다.
+for step in range(500000):
+
+    cost_, hypo_, _ = sess.run([cost, hypothesis, train], feed_dict={X: x_data, Y: y_data})
+
+    if step % 1000 == 0:
+
+        print("#", step, " 손실 비용: ", cost_)
+
+        print("- 배추 가격: ", hypo_[0])
+
+
+
+# 학습된 모델을 저장합니다.
+
+saver = tf.train.Saver()
+
+save_path = saver.save(sess, "./saved.cpkt")
+
+print('학습된 모델을 저장했습니다.')
+
+
+
+```
+
+```
