@@ -1,3 +1,21 @@
+# [ 기초영어회화 ] 여기 오래 다녔어요?
+```java
+A: 여기 항상 계시는 것 같아요. 여기 오래 다녔어요?
+B: 1년 반 정도요. 첫 1년은 왔다 안왔다 했는데
+지난 몇 달 동안은 훨씬 더 꾸준히 다니고 있어요.
+
+[ENG]
+A: I see you here all the time.
+Have you been coming here long?
+
+B: About a year and a half.
+I came on and off during the first year but, (for) the last several 
+months, I've been much more consistent.
+```
+* for: 시간의 양만큼 우엇을 한다
+* during: 그 기간 안에 무엇이 일어난다, 일어나지 않는다
+
+
 # [ 영어 대화가이드 ] "걔는 널 형제처럼 생각하는게 있어."
 ```java
 [KOR]
