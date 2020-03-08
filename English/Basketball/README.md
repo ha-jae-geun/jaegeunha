@@ -1,3 +1,24 @@
+# 영어
+* Glass: 백보드
+* Dime: 엄청 멌있는 어시스트
+	* Drop that dime and pick it up
+* lockdown: 수비가 공격자를 잡아버린다
+* Trey ball: 3점슛
+* Backdoor: 베이스라인에서 공을 안가지고 있을 때 커트해서 득점 받아서 성공시킬때
+	* What a pass for a backdoor
+* BBQ Chicken: 샤킬 오닐이 상대 센터를 구워 먹을 수 있다; 덩치 큰 선수가 작은 선수 껌이다 BBQ CHicken
+* Brick: 1. 슛 쏠때 방해 (공이 백보드나 이상한 곳 맞아서 벽돌 맞는 것 같이 날라올 때 유래)
+* Ice in the veins = cold blodded: 냉혈하다
+* Downtown(Parking lot, Locker room): 3점슛을 멀리서 쐈다
+	* Jeremy lin from downtown
+* pick one's pocket: 스틸해서 속공으로 이어갈 때 사용
+	* He picked his pocket
+	* pick Holiday's pocket
+* Hangtime: 체공시간
+	* Look at the hangtime
+* Bunnies: 토끼; 점프력; 
+	* 점프력 장난 아니다 he got bunnies/hops/bounce
+
 # 올스타
 * 래리버드, 던컨은 루키 시즌에 퍼스트팀에 선정되었다.
 
