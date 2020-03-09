@@ -1,3 +1,21 @@
+# [ 직장영어 ] 제안을 자연스러우면서 프로답게 거절하기
+```java
+A: 그래서, 어떻게 생각하세요? 
+필요한거 다 알려줘서 
+오늘 중으로 완전히 준비시켜 드릴 수 있는데.
+B: 아,  너무나도 좋은 제안이고 아마 나중에 후회하겠지만 아쉽게도 패스해야 될 것 같아요. 
+시간을 좀 가지고 다시 생각을 해보길 아마 바라시겠지만 제가 그냥 지체만 시키는 상황이 될 것 같아요.
+[ENG]
+A: So, What do you say? 
+I can fill you in on everything and get you up to speed by the end of the day today.
+B: You know, there's so much that I like about that offer and I'm probably going to regret this (later) 
+but I'm afraid I'm going to have to take a pass on it.
+I know you'll probably want me to take some time to think it over but 
+I feel like I'll just be holding up the process.
+```
+
+
+
 # [ 기초영어회화 ] 여기 오래 다녔어요?
 ```java
 A: 여기 항상 계시는 것 같아요. 여기 오래 다녔어요?
