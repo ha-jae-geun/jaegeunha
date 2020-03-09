@@ -13,8 +13,12 @@ but I'm afraid I'm going to have to take a pass on it.
 I know you'll probably want me to take some time to think it over but 
 I feel like I'll just be holding up the process.
 ```
-
-
+* What do you say? 할거야 말거야; 업무적으로도 적합한 표현
+* get someone up to speed: 같은 업무 효율을 낼 수 있도록 높인다.
+* I'm afraid i'm gonna have to do something
+   * gonna have to: 조심스러운 표현
+   * have to: 좀 강한 표현
+* 지체시키다; hold up the process
 
 # [ 기초영어회화 ] 여기 오래 다녔어요?
 ```java
