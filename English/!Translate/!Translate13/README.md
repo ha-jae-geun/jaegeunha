@@ -1,3 +1,23 @@
+# [기초영어회화] "wait" - 기다리다 / 누구를 기다리다 / 누가 어떻게 하기를 기다리다
+```java
+I'm waiting for my friend 
+I'm waiting for the bus.
+I'm waiting for subway. 
+I'm waiting for right time.
+
+-하기를 기다리다
+I'm waiting for my computer to boot.
+I'm waiting for the bus to come.
+I'm waited for her.
+I'm  waited for something. 
+we decided to wait for the store to open.
+we had to wait long time. 
+
+영어에는 자리와 매칭되는 단어를 찾기 힘들다
+we had to wait over 2 hours for a table. 
+i waited almost  a week for her to give me an answer. 
+```
+
 # [ 직장영어 ] 제안을 자연스러우면서 프로답게 거절하기
 ```java
 A: 그래서, 어떻게 생각하세요? 
