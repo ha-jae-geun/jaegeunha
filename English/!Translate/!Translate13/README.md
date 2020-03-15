@@ -1,3 +1,15 @@
+# [영어대화가이드] "모든게 정상으로 돌아가길 간절히 바라고 있어요." [기초영어회화]
+```java
+A: 잘 버티고 있어? 
+B: 어, 뭐, 알잖아, 모든게 정상으로 돌아가길 간절히 바라면서 기다리고 있을 뿐이지.
+[ENG]
+A: So, how are you holding up?
+B: Oh, you know, (I'm) just waiting eagerly for things to go back to normal.
+```
+* 모두가 기다리고 있으니 i'm을 생략
+* I wonder when things go back to normal
+
+
 # [기초영어회화] "wait" - 기다리다 / 누구를 기다리다 / 누가 어떻게 하기를 기다리다
 ```java
 I'm waiting for my friend 
