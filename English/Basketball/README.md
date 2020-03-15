@@ -18,6 +18,27 @@
 	* Look at the hangtime
 * Bunnies: 토끼; 점프력; 
 	* 점프력 장난 아니다 he got bunnies/hops/bounce
+* Bank/Bank shot: 은행에 돈을 맡겨서 돈을 벌 만큼 쉬운 득점
+	* Bank it in
+* Putㄴ it up: 던지다
+	* Puts it in: 들어가다
+* Dagger in the heart: 비수가 꽂힐 클러치 득점
+	* Dagger
+* Shake & Bake: 크로스 오버로 상대를 요리
+* For the win(승리를 가져올 상황) / For the lead(리드를 가져올 수 있는 상황)
+* SledgeHammer: 망치로 때려 박을 것 같은 덩크
+* Teardrop(Floater): 플로터 = 눈물 떨어지기
+* Charge: 오펜스 파울
+	* have been a charge
+* Kodak moment: 코덱 사진; 인욜페이스 
+* facial: 인욜덩크
+	* a facial
+* Stuff: 쑤셔 넣다
+	* Oh he stuffs, facial
+* wedgie: 바지가 엉덩이 사이에 끼게 하는 장난; 농구 공이 낀 상황
+* Splitting the defense: 상대 수비 가로 질러 드리블
+* Wolf: 상대 수비가 뒤에 있을 때 조심하라고 하는 말
+* Put someone on skates: 크로스오버로 밸런스 잃게 하는 
 
 # 올스타
 * 래리버드, 던컨은 루키 시즌에 퍼스트팀에 선정되었다.
