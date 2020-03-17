@@ -1,3 +1,35 @@
+# 사회생활 필수 영어회화 - 룸메이트와 사이좋게 방 나눠 쓰기 - Scene 094
+* practice: 아는 것을 실제 연습하는 그림
+* 방에서 연습해보고 싶어; i want to rehearse in the room
+
+# 무엇을 + 보여주다/가리키다/말해주다/의미하다/나타내다 [ 영어연습가이드 / HARDCORE ]
+```java
+[KOR]
+이 막대도표는 지난 한 달 동안 한국에서 새로 확진 판정된 사례의 수를 일별로 보여 주고 있다.
+자세히 보면, 지난 며칠 동안 어느정도 안정화 된 숫자를 가리키고 있는데 
+이것이 말해주는 것은 최악의 시기는 이제 지나갔을 가능성이 높다는 것이지만 
+그렇다고 해서 안심할 수 있다는 의미는 절대로 아니다. 
+통제할 수 있는 수준이 됐을지도 모른다는 것을 나타내고 있는 정도일 뿐이다. 
+이런 도표가 보여줄 수 없는 것은 사람들의 삶에 입힌 피해의 양이다. 
+이것은 숫자에 불과한 것이 아니고 모든 숫자 하나하나가 진짜 사람들과 가족들을 말하고 있다는 것을 알고 있자.
+
+설명시작 - 2:05
+
+[ENG]
+This bar chart shows the number of newly-confirmed cases per day in Korea within the last month.
+If you look closely, it's indicating that the numbers have somewhat stabilized in the last several days. 
+What it's telling us is that the worst is likely behind us but 
+that certainly doesn't mean that we're out of the woods yet.
+It merely implies that we might be getting better at keeping things under control.
+What graphs like this can't show us is the amount of damage it has done to people's lives 
+because, let's face it, these aren't just numbers. 
+There are real people and families behind every one of these numbers.
+```
+* indicate that: 가리키다
+* 이것이 말해주는 것은: what it's telling us is that
+* be out of woods: 안심하다
+* 나타내고 있을 정도일 뿐이다; It merely implies that
+
 # [영어대화가이드] "모든게 정상으로 돌아가길 간절히 바라고 있어요." [기초영어회화]
 ```java
 A: 잘 버티고 있어? 
