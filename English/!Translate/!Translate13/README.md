@@ -1,3 +1,19 @@
+# [ 기초영어회화 ] "평소보다 일찍" , "생각보다 훨씬 많이.."
+```java
+
+[KOR]
+오늘은 출근시간을 피하려고 평소보다 일찍 출발했어요(집에서 나왔어요). 
+집에서 6시 전에 나왔는데 생각보다 교통량이 엄청 많았어요.
+ 요즘 이 코로나 때문에 자가용으로 출근하는 사람들이 더 많아진 것 같아요.
+[ENG]
+I left home earlier than usual today because I wanted to beat the traffic. 
+I left before 6 (o'clock) but there was much more traffic than I thought. 
+I think more people are driving to work these days because of this Corona thing.
+```
+* i left home: 집에서 출발하다
+* more people are -ing these days: - 하는 사람들이 많아졌다.
+
+
 # 사회생활 필수 영어회화 - 룸메이트와 사이좋게 방 나눠 쓰기 - Scene 094
 * practice: 아는 것을 실제 연습하는 그림
 * 방에서 연습해보고 싶어; i want to rehearse in the room
