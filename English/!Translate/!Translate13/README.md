@@ -1,3 +1,27 @@
+# [기초영어회화] -하기로 결정하다 / -하지 않기로 결정하다 / -언제/무엇을 하기로 결정하다 [[decide]]
+* choose: 선택지 중에 고르다
+* decide to: 무엇을 어떻게 하기로 결정하다
+ * i decided to move in July this year
+* 아직 결정못했어요
+ * i haven't decided yet
+* -하지 않기로 했다; i decided not to
+* 아직 무엇을 결정해야 한다(결정 앞둠); i still have to decide
+ * i still have to decide where to go / what to do
+```JAVA
+choose도 decide 처럼 쓰일 때가 있습니다.
+“He chose not to tell her.”  그는 그녀에게 말해주지 않기로 했다. 
+이렇게 했을 때는 “누가 선택한 길”의 어감입니다.
+deciede (not) to는 “내린 결정”
+
+영작 연습 문장 :
+1. 그녀는 올해에 대학을 가지 않기로 했어.
+2. 그녀는 1년 더 공부하기로 했어.
+3. 우리는 어디서 만날지 아직 못정했어.
+4. 나는 아직 뭘 사야 할지 고민중이야.
+(*고민중이다 = 결정하기 위해 노력중이다)
+```
+
+
 # [ 기초영어회화 ] "평소보다 일찍" , "생각보다 훨씬 많이.."
 ```java
 
