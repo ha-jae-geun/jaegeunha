@@ -1,3 +1,22 @@
+
+# [ 기초영어회화 ] "검은색이랑 빨간색이랑 고민중이야."
+```java
+A: 어느거 살지 정했어?
+- Have you decided which one to buy ?
+
+B: 거의. 하얀색은 안사기로 했어. 네 말이 맞아. 너무 튀어(과해).
+- Almost. I decided not to buy the white one. You're right. It's too out there.
+그런데 검은색이랑 빨간색이랑 아직 고민중이야.
+- But I'm still trying to decide(choose) between the black one and the red one.
+
+A: Don't you already have a red one? If I were you, I'd pick the black one.
+빨간색은 이미 하나 있지 않아? 나라면 검은색으로 사겠다(고르겠다).
+```
+* 고민중이다; I'm still stuck between A and B
+
+# 사회생활 필수 영어회화 - 좋은 성적에 기뻐하며 이야기하기 - Scene 098
+* 중간고사에서 C 받았어; i got a C on the final in Profesor M's class
+
 # [기초영어회화] -하기로 결정하다 / -하지 않기로 결정하다 / -언제/무엇을 하기로 결정하다 [[decide]]
 * choose: 선택지 중에 고르다
 * decide to: 무엇을 어떻게 하기로 결정하다
