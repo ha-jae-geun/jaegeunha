@@ -1433,6 +1433,20 @@ root block과 branch block, leaf block이 있고 B-tree는 기본적으로 leaf 
 * 사용자가 SELECT쿼리로 index가 사용하는 쿼리를 사용시 해당 table을 검색하는 것이 아니라 빠른 tree로 정리해둔 myi파일의 내용을 검색한다.
 * 만약, index를 사용하지 않은 select쿼리라면 해당 table을 full scan하여 속도가 느리다.
 
+## Unique index
+* UNIQUE INDEX는 중복 값을 허용하지 않는 인덱스입니다.
+* MySQL에서 UNIQUE INDEX를 생성하는 문법은 다음과 같습니다.
+```java
+문법
+CREATE UNIQUE INDEX 인덱스이름
+
+ON 테이블이름 (필드이름1, 필드이름2, ...)
+```
+* 또한, 쉼표(,)를 사용하여 여러 필드에 UNIQUE INDEX를 설정해 줄 수도 있습니다.
+
+ 
+
+
 ## 인덱스 스캔
 1. 풀 스캔
 2. index range scan(특정 부분)
