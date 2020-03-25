@@ -1,3 +1,31 @@
+# [영어 연습가이드 | HARDCORE ] "안그래도 상황이 안좋은데..."
+
+```java
+영화에서 들은 어느 대사에 대해서 최근에 더 많이 생각하게 되더라고요. 
+“우리는 모두가 시험에 들기 마련인데 절대로 우리가 원하는 형태로나 원하는 시기에 찾아오지 않는다.”
+ 최근 몇달 동안 우리가 겪고 있는 것과 비슷하다는 느낌이 들어요. 
+안그래도 이번 코로나 일로 상황이 안좋은데, 
+아주 문제가 많은 한 젊은 남자에 대한 아주 불편한 사실이 드러났거든요. 
+그가 지은 죄가 사람들이 매우 깊게 느끼는 아주 민감한 부분을 건드리고 있거든요. 
+이번 사건이 어떻게 처리되는지 사람들이 아주 관심있게 지켜볼 것 같아요.”
+
+
+Lately, I've been thinking more and more about this line that I heard from a movie.
+"We're all put to the test but it never comes in the form or at the point that we prefer." 
+I feel like it's kind of what we've been going through these last couple of months
+because, as if things weren't bad enough with this Corona thing, 
+we're faced with very disturbing news about a very problematic young man
+whose crime steps on some very sensitive issues that run really deep with people. 
+I think (the) people are very eager to see how this case will be dealt with.
+
+```
+* 영화에서 들은 어느 대사; this line that i heard from a movie
+* 무엇의 능력/그능을 시험하다; put 누구/무엇 to the test
+ * we're all put to the test
+ * as if things werent't bad enough; 마치 -인양; 설상가상
+ * 불편한ㅅ ㅏ실: disturbing news
+ * 민감한 이슈를 건드리다; step on some very sensitive issues
+ * 사람들이 가볍게 여기지 않고 중요한 것으로 생각해서 깊게 느끼는; run deep with people
 
 # [ 기초영어회화 ] "검은색이랑 빨간색이랑 고민중이야."
 ```java
