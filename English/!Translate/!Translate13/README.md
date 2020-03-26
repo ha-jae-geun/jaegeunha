@@ -1,3 +1,18 @@
+# [ 기초영어회화 대화가이드 ] "하나 드릴까요?" → "아니오. 괜찮아요."
+```java
+A: 하나 드릴까요?
+Do you want one?
+
+B: 아니오. 괜찮아요. 저 담배 안펴요. 사실 예전에는 폈었는데 이제 더 이상 안펴요. 끊었어요.
+Oh, no thanks. I don't smoke. Actually, I used to but I don't anymore. I quit.
+
+A: 오, 정말요? 얼마나 됐어요?
+Wow! Really? How long has it been?
+
+B: 몇 년 전에 건강에 문제가 좀 생기기 시작해서 담배랑 술을 끊어야 했어요.
+(Umm) Several years ago, I started having some health problems, so I had to stop(quit) smoking and drinking.
+```
+
 # [영어 연습가이드 | HARDCORE ] "안그래도 상황이 안좋은데..."
 
 ```java
