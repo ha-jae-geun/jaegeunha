@@ -1,3 +1,80 @@
+# 오라클
+- MySQL과 달리 오라클은 대용량 데이터 베이스라고 하는데, 대용량 데이터 타입(CLOB; 4GB까지 가능) 까지 가질 수 있다.
+- 오라클 # 버전; 11g 사용; 12g는 명령어 다 바뀜
+- SQL Developer도 같이 설치
+- 10g: 한글 코드 2바이트로 인식; 11g: 한글 코드 3바이트로 인식
+- 12g: 비정형 데이터 연동 원활하게 함
+- 데이터베이스 11g 엔터프라이즈 / 표준 에디션: 오라클 관리자
+- 데이터베이스 11g Express Edition: 개발자용; exe 파일로 쉽게 지우기 가능.; 개발자용
+
+## 오라클 버전
+### 오라클의 한글 및 기타 언어 지원( ) 영문 제외 
+- ① 10g 버전 이하 ⎼영문: 1바이트 ⎼영문 이외의 한글 등: 2바이트 
+- ② 11g 버전 이상 ⎼영문: 1바이트 ⎼영문 이외의 한글 등: 3바이트 
+
+## 오라클 명령어
+- dba로 접속: 1. sqlplus 2. sys as sysdba | 1234  3. quit / exit(윈도우 빠지기)
+- as: 1. 충돌 방지 2. 
+
+### 오라클 유저
+- 1. 데이터 베이스 추가 2. 이름: sys 3. 롤: SYSDBA 4. 로컬 이름: 127.0.0.1
+- 유저 검색
+- select username from all_users;
+- 연습 계정: scott 추가: 1. app\product\18.0.0\dbhome\rdbms\admin\scott.sql 실행
+- 유저 계정 변경
+	- alter user scott account unlock; // 락 풀기
+	- alter user scott identified by tiger; // tiger로 변경
+	- conn scott/tiger // 접속
+	- 벗어날 때: exit
+
+## 포트 충돌
+- 가. 포트 번호 확인(listener.ora) - - - 
+- ⎼D:\app\s\product\11.2.0\dbhome_1\NETWORK\ADMIN ⎼(ADDRESS = (PROTOCOL = TCP)(HOST = SONG-PC)(PORT = 1521))
+
+## SI 변경; 전역자
+- 나. SID (tnsnames.ora) 확인 
+- ⎼D:\app\s\product\11.2.0\dbhome_1\NETWORK\ADMIN ⎼(SERVICE_NAME = orcl)
+
+### 오라클 서비스
+- OracleServiceXE: 오라클과 직접 연동; 메모리 많이 안잡음
+- Protocol Adapter Error 유발
+- OracleXETNSLISTENER; 디벨로퍼, 이클립스 연동; 메모리 많이 잡음
+- ① OracleServiceORCL ⎼오라클 서버의 인스턴스로서 반드시 필요한 서비스이다. 
+- ② OracleOraDb11g_home1TNSListener ⎼오라클 리스너 서비스이며 원격지에서 오라클 서버에 접속하려면 반드시 필요한 서비스이다. 
+- ③ OracleDBConsoleorcl ⎼오라클 서버를 웹 브라우저에서 관리할 수 있도록 해 주는 일종의 웹 어플리케이션이다. 
+
+## 대소문자
+- 값, 계정은 대소문자 구분, 명령어는 구분하지 않는다.
+- - ⎼문자 리터럴의 경우에는 대소문자를 구별하며 검색시 대문자로 입력한 내용을 소문자로 검색하면 검색이 되지 않는다. ⎼오라클 데이터베이스는 세기, , , , , , 년 월 일 시 분 초를 나타내는 내부 숫자 형식으로 날짜를 저장하며 기본 날짜 표시 형식은 DD-MON-RR . 
+- select empno, ename from emp where ename = 'FORD';
+
+### lower로 대문자 검색하기
+- select * from emp
+- where lower(ename) = 'ford';
+
+### 첫 문자만 대문자 나머지는 소문자로 출력 예제
+- select initcap(dname) from dept;
+
+
+## 관계형 데이터 베이스
+- 관계형 데이터베이스 시스템(Relational DataBase Management System : RDBMS) DBMS 은 다양한 중에서 가장 알려진 소프트웨어이다. 
+- 관계형 데이터베이스는 관계형 모델을 구성하고 다음과 같은 요소를 가진다. 
+- ① 데이터를 저장하는 객체 또는 관계 모음 ② 관계에서 다른 관계를 생성하는 데 사용할 수 있는 연산자 집합 
+- ③ 정확성 및 일관성을 보장하는 데이터 무결성 ⎼관계형 데이터베이스는 관계 또는 2 . 차원 테이블을 사용하여 정보를 저장한다 
+
+
+
+
+### RDBMS
+- ① 오라클(Oracle) 
+- ② MS-SQL 
+- ③ MySQL 
+- ④ 사이베이스(Sybase) 
+- ⑤ 인포믹스(Infomix) 
+- ⑥ DB2 ⎼RDBMS는 정형화된 데이터 항목들의 집합체로서 확장이 용이하다는 장점을 가지는데 처음 데이터베이스를 만든 후 관련되는 응용 프로그램들을 변경하지 않고도 새로운 데이터 항목을 데이터베이스에 추가할 수 있다. 
+- RDBMS 2 (column) (record) 는 차원 테이블 구조로 데이터를 관리하며 열을 컬럼 이라고 하고 행을 레코드 라고 한다. ⎼데이터의 중복 및 무결성을 보장하기 위해서 다양한 제약조건을 지정할 수 있다.
+- SQLite: 파이썬도 지원
+
 
 # 오라클 스토리지 구조
 * Blcok < Extent < Segment < Tablespace
