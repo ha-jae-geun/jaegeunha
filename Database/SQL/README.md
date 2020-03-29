@@ -417,3 +417,54 @@
 - SQL> show serveroutput
 - serveroutput OFF
 - SQL> set serveroutput on
+
+
+# rownum
+* 변경하기 위해 DML을 사용할 수 없다
+* order by 전에 부여되며 order by 는 맨 나중에 실행된다
+* rownumb = 1은 사용 가능하지만 1도다 큰 수는 데이터가 추출되지 않는다.(도달할 수 없는 값)
+
+# rowid
+* 인덱스의 핵심 중 하나는 ROWID다. ROWID는 데이터베이스 내 데이터 공유의 주소로, 이를 통해 데이터에 접근할 수 있어 DBA라면 반드시 이해해야 할 개념이다.
+* select where 전에 사용될 수 있고 insert, update, delete 로 변경할 수는 없다.
+* 유일한 주소값이지만 테이블의 PK처럼 사용할 수 없다
+* 삭제 후 다시 동일한 레코드를 입력한다고 행쓸 때 rowid는 변경되며 레코드를 삭제했다면 삭제된 레코드의 rowid는 나중에 입력되는 다른 코드에 부여도리 ㅅ 있다.
+
+# 서브쿼리
+- in을 가장 많이 사용.
+
+## 서브쿼리 종류
+1. select 절에 존재; scalar subquery
+2. from절: inline view
+3. where절: 중첩 서브쿼리
+
+## Self Join
+* 서브 쿼리 사용 말고 Self Join 사용할 때
+```SQL
+select e1.ename
+from emp e1, emp e2
+where e1.deptno = e2.deptno
+and e2.eanme = 'Smith'
+```
+
+## in 과 any 차이
+- in은 비교대상 필요 없고 any는 비교대상 필요
+- any 연산자는 메인 쿼리의 비교 조건이 서브 쿼리의 검색 결과와 하나 이상만 일치하면 참이다.
+- exist: exists 연산자는 서브쿼리에서 적어도 개의 행을 리턴하면 논리식은 참이고 그렇지 않으면 거짓이 되는 연산자이다 1 . ⎼exists 연산자는 서브 쿼리의 결과값이 참이 나오기만 하면 바로 메인 쿼리의 결과값을 리턴한다.
+
+## exist와 in 차이
+- EXISTS는 단지 ROW가 존재하는지만 체크하고 더 이상 수행 되지 않으나, IN은 실제 존재하는 데이터들의 모든 값까지 확인한다. 따라서, EXISTS 연산자가 더 좋은 성능을 보이므로 가능하면 EXISTS를 사용하는 것이 바람직해 보인다. 
+- 또 다른 한가지는, JOIN되는 COLUMN에 NULL을 갖는 ROW가 존재한다면 NOT EXISTS는 TRUE값을, NOT IN은 FALSE값이 리턴된다. 즉, NOT IN을 사용하면 조건에 맞는 데이터가 있다고 하더라도 NULL이 존재하면 "NO ROWS SELECTED"라고 나오게 된다. 따라서 NVL을 이용한 NULL 처리가 꼭 필요하다.
+
+
+
+# with 구문
+* 이름이 부여된 서브컬리 블록으로 global temporary tables, virtual table or an inline view 처럼 작동된다.
+2. 복장된 SQL에서 동일 쿼리블록이 반족적으로 사용되는 경우 그 블록에 이름을 부여하여 한곳에서 정의하고 이름 재활용 하 수 있게 함으로 쿼리문 코딩강도 줄이고 성능도 향상시킬 수 있다.
+
+
+# case-when
+* 간단한 case-when은 decode로 대체 가능
+```sql
+decode(gender, 'boy', '남', 'girl', '여', '혼성')
+```
