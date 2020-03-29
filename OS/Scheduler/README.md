@@ -1,3 +1,132 @@
+# 스케줄링
+## CPU 스케쥴링 목적
+* [블로그](https://dailyheumsi.tistory.com/131?category=855210)
+```java
+다중 프로그래밍을 함으로써, 항상 실행할 수 있는 프로세스를 있도록 하여,
+CPU 사용 효율을 극대화 하는 것이 목적이다.
+
+* CPU, I/O burst
+프로세스는 계산과 입출력의 반복.
+계산(CPU burst) / 입출력(I/O burst)
+
+* 선점 / 비선점 스케쥴링
+선점은 RUN 중인 프로세스를 갑자기 중단시키고 다른 프로세스가 RUN 할 수 있는 방식
+비선점은 RUN 중인 프로세스를 중간에 갑자기 중단 불가능.
+일단 한 번 할당 받으면, 시간이 다 되거나, 완료 될 때까지 다른 프로세스들이 기다려야함.
+
+* Dispatcher
+스케쥴러가 선택한 프로세스를 CPU에 할당해주는 요소를 가르킴
+Dispatch latency
+	A 프로세스 STOP -> B 프로세스 RUN 하는 동안 소요되는 시간
+
+```
+## 스케쥴링 기준
+```java
+스케쥴링 알고리즘을 선택할 때, 고려되는 기준을 살펴본다.
+
+처리율 (Throughput)
+시간당 완료되는 프로세스의 수
+
+반환시간 (Turnaround time)
+한 프로세스가 큐에 들어간 시점부터 실행완료할 때까지 걸리는 시간
+
+대기시간 (Waiting time)
+한 프로세스가 큐에서 대기한 총 시간
+
+응답시간 (Response time)
+큐에 들어가고, 첫 번째 실행 때까지 걸리는 시간
+처리율은 높이고, 반환, 대기, 응답시간은 낮추는게 가장 이상적인 알고리즘이다.
+
+```
+
+## 3. 스케쥴링 알고리즘
+```java
+3.1. 싱글레벨 큐
+하나의 큐만 사용한다.
+
+* FCFS (First Come First Served)
+비선점 방식
+FIFO 형태. 큐로 쉽게 구현
+Convoy 효과
+하나의 큰 프로세스가 CPU를 양보할 때 까지 다른 모든 프로세스가 기다리는 현상
+
+* SJF (Shortest Job First)
+현재 큐에 들어와있는 프로세스 중, CPU burst 시간이 제일 짧은 프로세스 순으로 스케쥴링
+평균 대기 시간 측면에서는 그나마 최적에 가까움.
+다음 CPU burst 시간 예측의 어려움
+	지수 평균 방법으로 예측
+선점방식일 경우, 다음 방법으로 선점여부 결정
+	새 프로세스가 큐에 도착하면, 이 프로세스의 다음 CPU burst 시간(A) 예측
+	현재 RUN 중인 프로세스의 남은 CPU burst 시간(B) 계산
+	이 두 시간 A, B 를 비교해서 A < B 이면, 새 프로세스가 CPU 선점
+	이 방식은 SRTF (Shortest Remaining Time First) 라고 함.
+	
+* 우선순위 스케쥴링
+	우선순위가 높은 프로세스가 먼저 CPU를 선점함
+	SJF 도 이 스케쥴링의 일종임.
+우선순위는 OS 또는 사용자에 의해 지정될 수 있음
+영구 대기(infinite blocking), 굶주림(starvation) 이 발생할 수 있음.
+즉 우선순위가 낮은 프로세스는 영원히 실행되지 않는 문제
+이를 극복하기 위해 우선순위를 점진적으로 낮춰주는 aging 기법을 사용함
+
+* RR (Round robin)
+시간 조각(time quantum) 을 정의하여, 이 시간이 경과할 때마다 CPU를 선점하는 프로세스를 바꿈.
+예를 들어, 시간 조각 q=4ms 이면, 4ms 동안 프로세스 A가 선점한 후, 다음 4ms 에는 프로세스 B가 선점.
+일반적으로 CPU burst 시간의 80% 는 시간 조각보다 적어야 가장 바람직함.
+
+
+3.2. 다중레벨 큐
+여러 개의 큐를 사용한다.
+
+큐 간 독자적인 스케쥴링 알고리즘을 사용한다.
+프로세스는 여러 개의 큐간 이동하며 수행된다.
+이 스케쥴링의 주 목표는 CPU burst 시간 특성이 다른 프로세스들을 분리하여,
+굶주림과 호위 효과 현상을 제거하는 것이다.
+예를 들어, 입출력 중심의 프로세스는 상위 큐에, CPU 중심의 프로세스는 하위 큐에 할당된다.
+다음과 같은 사항을 고려하여, 다중레벨 큐를 만들 수 있다.
+	큐의 개수
+	각 큐의 스케쥴링 알고리즘
+	aging 혹은 그 반대로 만드는 방법
+	큐 이동 순서
+
+``
+## Memory structure
+* Data; initialized
+  - static variable, global variable
+  - 프로그램이 종료 될 때까지 먼저 호출되고 남아 있습니다.  
+      ^it is called first and remain until programs terminate 
+  - -> it's fixed
+  - BSS (Block Stated Symbol); uninitialized
+* Stack(function): local variable, parameter, return, pointer variable
+  - 모든 프로그램은 스택을 가지고 있다. 나중에 프로그램을 백업시키는데 도움을 준다.  
+      ^ALl programs have stacks. It helps to go back
+  - 밑에서 위로 저장된다.  
+      ^from bottom to top
+  - funcion이 호출되면 스택이 시작됩니다.  
+      ^when the funcion is called, it starts to be stacked. (recursive)
+  - 메모리가 할당되면 스택 영역을 확장해야합니다 (컴파일 시간)  
+      ^when memory is allocated, stack area has to be extended(compile time)
+  - 컴파일 될 때 스택 크기가 결정됩니다.  
+      ^At compile time, stack size has to be decided
+  - 함수가 종료되면 스택도 사라집니다.  
+      ^if the function is terminated, stack is also deleted
+  - -> it's static
+  - 배열의 길이는 일정해야 합니다.  
+      ^Array's length has to be a constant
+  - 스택 사이즈는 고정입니다.  
+      ^stack size is fixed
+* Heap; dynamic(malloc, free)  C++: new()
+  - 위에서 아래로 저장됩니다.  
+      ^from top to bottom
+  - 스택과 다르게 실행 시간에 데이터가 저장됩니다.  
+    <> stack; running time 
+* Text(Code); assembly code about function; function, statement, constant
+* SMA(Static Memory Allocation): data, stack   | DMA(Dynamic Memory Allocation): Heap Area
+* 스택과 힙은 반비례 관계이다.  
+    ^Stack and heap are in inverse proportion
+```
+
+
 # CFS 스케줄러
 * 스케줄러는 CPU 자원을 프로세스들에게 분배하는 OS의 중요한 일부분이다.
 * 2007년 발표 된 리눅스 커널의 스케줄러인 CFS(Completely Fiar Scheduler) RSDL(Rotating Staircase Deadline) 스케줄러를 기초로 한 RB-트리(Red-Black Tree) 데이터 구조를 사용하는 O(logN) 성능을 가지는 스케줄러이다.
