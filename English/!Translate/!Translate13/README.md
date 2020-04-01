@@ -1,3 +1,19 @@
+# [기초영어회화] 날짜, 요일, 주에 대해서 말하기
+```java
+우리는 지난달 월요일에 만났어요
+We met on the 30th (of) last month
+
+지난 주 월요일에 만났어요
+We met last Monday라고 하면 수요일 입장에서 헷갈릴 수 있음
+뒤에 last week을 붙이던가
+We met last week on Monday
+
+저는 금요일에 출발합니다.
+i leave this week on Friday
+i leave on Friday / I leave this Friday
+
+```
+
 # [ 기초영어회화 대화가이드 ] "하나 드릴까요?" → "아니오. 괜찮아요."
 ```java
 A: 하나 드릴까요?
