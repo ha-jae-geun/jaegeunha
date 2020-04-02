@@ -1,3 +1,28 @@
+# [ 영어연습가이드 | HARDCORE ] 많은 사람들의 공감을 얻은 기사
+```java
+그 사건을 다루는 많은 기사를 읽어봤는데, 
+그 중에 특히 주목해서 보게 된게 최근에 하나 있었어요. 
+그게 많이 와닿았던 것이 다른 것들에 비해서 의견이 두드러지게 많이 반영됐었기 때문이에요. 
+그것을 쓴 기자는 팩트만 나열하기보다 그 사건에 대해서 뭔가를 지적하고 싶었던 것이 보였어요. 
+이게 안좋게 끝나는 경우가 많지만 
+이 특정 기사는 많은 사람들의 공감을 얻었던 것 같은게, 
+그동안 사람들의 반응이 대체적으로 아주 긍정적이었어요.
+
+[ENG]
+I've read a lot of articles covering that case 
+and there was one that really caught my attention recently. 
+The reason it stood out to me was because it was noticeably more opinionated than the others.
+So, the journalist who wrote it obviously wanted to make a point about the case rather than just listing the facts. 
+Now, this often doesn't end up very well but this particular article seemed to strike a chord with a lot of people
+because the response has been mostly very positive.
+
+```
+* catch/grab one's attention
+* 와닿았던 이유는; The erason it stood oout to me was because
+* 의견이 두드러지게 많이 반영되었다; it was noticeably more opinionated
+* 안좋게 끝나다; doesn't end up very well
+* 공감을 얻다; strike a chord with a lot of people
+
 # [기초영어회화] 날짜, 요일, 주에 대해서 말하기
 ```java
 우리는 지난달 월요일에 만났어요
