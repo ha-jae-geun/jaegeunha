@@ -1,3 +1,32 @@
+# [기초영어회화] 거기 분위기가 좋아 / 거기는 사람들이 친절해 / 거기 상황이 지금 안좋아
+```java
+거기 상황은 더 안좋아
+The situation there is worse
+
+저는 거기 상황에 대해서는 잘 몰라요
+i don't know much about the situation there
+
+거기 음식이 맛있어
+The food there is good
+거기 분위기가 우울해
+The atmosphere there is a little gloomy
+거기 사람들이 친절해
+The people there are nice
+거기 상황이 지금 여기보다 안좋아
+
+여기 음식 정말 맛있다
+The food here is really great
+여기 서비스 진짜 좋아
+THe service here is amazing
+
+나는 거기 음식이 별로 마음에 안들어
+I don't really like the food there
+ i really don like: 정말 안좋아
+
+거기 사람들이랑 어울리기 힘들어
+It's hard to get along with the people there
+```
+
 # [ 영어연습가이드 | HARDCORE ] 많은 사람들의 공감을 얻은 기사
 ```java
 그 사건을 다루는 많은 기사를 읽어봤는데, 
