@@ -1,3 +1,70 @@
+# [ 영어표현 ] 난 내 역할을 했어 / 난 할만큼 했어 / 난 내 약속을 지켰어
+```java
+- do [ one's ] part
+- hold up [ one's ] end
+- pay [ one's ] dues
+- have done enough
+- have have enough
+
+난 내 역할을 했어. 난 양심에 찔리는거 없어
+I've done my part.
+ My conscience is clean.
+ 
+ 모두가 자기 역할을 하는 한, 아무 문제 없을거야
+ As long as everyone does their part, we shouldn't have any problems
+ 
+ 어떤 거래에 있어서 자신이 한 약속을 지키다
+ hold up one's end (of the deal)
+ 
+ 난 내 약속을 지켰으니 당신도 당신의 약속을 지키길
+  i held up my end of the deal. So i expect you to hold up yours
+  
+  
+  난 알아서 잘 하고 있어. 넌 네 약속지키는거나 신경 써.
+  i know what i'm doing YOu just worry about holding up your end.
+  
+  
+  성공/자격 등을 위해 충분히 할만큼 했다/희생했다/노력했다
+  + 그래서 죄책감 없다
+  희생의 의미가 담겨짐
+  pay one's dues
+  i paid my dues.
+
+뭐야? 이게 뭐 하루아침에 이루어진거라고 생각해?
+What? you think this happend to me overnight?
+
+나 몇년을 고생했어
+i've paid my dues for many years
+
+
+그때 있었던 일에 대해서는 할만큼 한 것 같애
+i feel like i've paid my dues for what happened
+
+할만큼 했어(할만큼 했기 때문에 더 이상 하지 않아도 됨)
+you've done enough
+
+더 이상 못해먹겠다
+I've had enough
+``
+
+
+# [ 기초 영어 대화 가이드 ] "마스크를 식당에 두고 온거 같아" - "주머니에 없는거 확실해?"
+```java
+A: 헐 ~ 마스크를 식당에 두고 온 것 같아.
+Oh no! I think I left my mask back at the restaurant.
+
+B: 저런.. 가방이나 주머니에 없는건 확실해?
+Uh oh.. Are you sure it's not in your bag
+or your pocket?
+
+A: 응. 확인했어. 식당에서 벗어서 옆에 의자 위에
+놓고 온 것 같아. 괜찮아. 혹시 몰라서 여분으로 하나
+가지고 다거든.
+
+Yeah, I checked. I think I took it off at the restaurant
+and left it on the chair beside me. It's OK. I carry an extra just in case.
+```
+
 # [기초영어회화] 거기 분위기가 좋아 / 거기는 사람들이 친절해 / 거기 상황이 지금 안좋아
 ```java
 거기 상황은 더 안좋아
