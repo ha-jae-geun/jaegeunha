@@ -1,24 +1,4 @@
-# Generate Parenthesis
-```java
-public List<String> generateParenthesis(int n) {
-        List<String> list = new ArrayList<String>();
-        backtrack(list, "", 0, 0, n);
-        return list;
-    }
-    
-    public void backtrack(List<String> list, String str, int open, int close, int max){
-        
-        if(str.length() == max*2){
-            list.add(str);
-            return;
-        }
-        
-        if(open < max)
-            backtrack(list, str+"(", open+1, close, max);
-        if(close < open)
-            backtrack(list, str+")", open, close+1, max);
-    }
-```
+
 
 # Next Permutation
 ```java
@@ -190,41 +170,7 @@ public int singleNumber(int[] nums) {
 ```
 
 
-# Two Sum
-```java
-Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
-You may assume that each input would have exactly one solution, and you may not use the same element twice.
-
-Example:
-
-Given nums = [2, 7, 11, 15], target = 9,
-
-Because nums[0] + nums[1] = 2 + 7 = 9,
-return [0, 1].
-
-class Solution {
-    public int[] twoSum(int[] nums, int target) {
-        
-    }
-}
-```
-
-```
-public int[] twoSum(int[] numbers, int target) {
-    int[] result = new int[2];
-    Map<Integer, Integer> map = new HashMap<Integer, Integer>();
-    for (int i = 0; i < numbers.length; i++) {
-        if (map.containsKey(target - numbers[i])) {
-            result[1] = i;
-            result[0] = map.get(target - numbers[i]);
-            return result;
-        }
-        map.put(numbers[i], i + 1);
-    }
-    return result;
-}
-```
 
 
 #  Middle of the Linked List
@@ -433,61 +379,6 @@ for(int i = 3; i<=n; i++) {
 return d[n]
 ```
 
-# 스택, LC #20 Valid Parentheses
-```java
-Given a string containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
-
-An input string is valid if:
-
-Open brackets must be closed by the same type of brackets.
-Open brackets must be closed in the correct order.
-Note that an empty string is also considered valid.
-
-Example 1:
-
-Input: "()"
-Output: true
-Example 2:
-
-Input: "()[]{}"
-Output: true
-Example 3:
-
-Input: "(]"
-Output: false
-Example 4:
-
-Input: "([)]"
-Output: false
-Example 5:
-
-Input: "{[]}"
-Output: true
-
-* 초기식
-class Solution {
-    public boolean isValid(String s) {
-        
-    }
-}
-```
-
-```java
-public boolean isValid(String s) {
-	Stack<Character> stack = new Stack<Character>();
-	for (char c : s.toCharArray()) {
-		if (c == '(')
-			stack.push(')');
-		else if (c == '{')
-			stack.push('}');
-		else if (c == '[')
-			stack.push(']');
-		else if (stack.isEmpty() || stack.pop() != c)
-			return false;
-	}
-	return stack.isEmpty();
-}
-```
 
 
 # 21. Merge Two Sorted Lists
