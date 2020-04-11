@@ -1,3 +1,45 @@
+# ArrayList
+
+## ArrayList 값 가져오기 
+```java
+divArray.get(i).intValue();
+```
+
+## ArrayList 순서 뒤집기
+```java
+1. Collections.sort(temp, Collections.reverseOrder());
+2. Collections.reverse(리스트)
+```
+
+
+## ArrayList의 숫자 + 문자
+### 김서방 찾기
+```java
+public class FindKim {
+	public String findKim(String[] seoul){
+		//x에 김서방의 위치를 저장하세요.
+		int x = 0;
+    for(int i=0; i<seoul.length; i++){
+      if(seoul[i] == "Kim"){
+      	x = i;
+      }
+    }
+
+		return "김서방은 "+ x + "에 있다";
+	}
+
+	// 실행을 위한 테스트코드입니다.
+	public static void main(String[] args) {
+		FindKim kim = new FindKim();
+		String[] names = {"Queen", "Tod","Kim"};
+		System.out.println(kim.findKim(names));
+	}
+}
+```
+
+<hr/>
+
+
 # Array
 ## ArrayList vs. Linked List
 * ArrayList와 LinkedList의 차이를 모를 때 종종 그냥 더 익숙해 보이는 ArrayList를 사용하곤 한다. 하지만, 이 선택은 아주 큰 성능 차이를 불러온다. 간단히 말해서, LinkedList는 임의 접근(Random Access)이 별로 없고 값의 추가/삭제가 많을 때 사용하는 것이 적당하다. 
