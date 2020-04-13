@@ -1,3 +1,20 @@
+# [ 기초영어회화 ] "어느 정도 걸릴 줄은 알았는데 이렇게 오래 걸릴 줄은 몰랐어."
+```java
+A: 생각보다 오래 걸리네
+B: 그러게. 어느 정도 걸릴 줄은 알았지만 이렇게 오래 걸릴 줄은 몰랐어.
+[ cost ]
+A: 생각보다 (돈이) 많이 드네
+B: 그러게. 싸진 않을거라는건 알았지만 돈이 이렇게 많이 들 줄은 몰랐네.
+
+[time]
+A: It's taking (a little / a lot)longer than I thought.
+B: Yeah, I know. I knew it would take some time but I didn't think it would take this long.
+
+[money]
+A: It's costing more than I thought.
+B: Yeah, I know. I knew it wouldn't be cheap but I didn't think it would cost this much.
+```
+
 # [ 영어표현 ] 난 내 역할을 했어 / 난 할만큼 했어 / 난 내 약속을 지켰어
 ```java
 - do [ one's ] part
