@@ -1,3 +1,20 @@
+# [ 영어 대화가이드 ] 총선, 투표율 / "사전투표율이 지난 번의 두배"
+```java
+[KOR]
+A: 흠.. 그거 알어? 전염병이 닥친 후로 총선을 하게 된게 전세계에서 한국이 최초래.
+B: 아, 그래? 투표율도 좀 타격 입겠는데?
+A: 사실 완전 그 반대야.  사전투표율이 지난번 선거 때의 두 배래.
+B: 진짜?
+A: 응. 전염병으로 인해서 사람들이 그 어느 때보다도 리더십에 관심이 많아진 것 같대.
+
+[ENG]
+A: Hmm. Did you know that South Korea is the first country in the world to have a general election since the pandemic hit?
+B: Oh, is that right? I guess the voter turnout rate will take a hit as well.
+A: Actually, it's quite the opposite. The early voting turnout rate is twice as high as it was in the last election.
+B: Really?
+A: Yeah. They're saying that the pandemic seems to have gotten everyone interested in leadership more than ever.
+```
+
 # [ 기초영어회화 ] "어느 정도 걸릴 줄은 알았는데 이렇게 오래 걸릴 줄은 몰랐어."
 ```java
 A: 생각보다 오래 걸리네
