@@ -1,3 +1,35 @@
+# [기초영어 대화가이드] “투표하러 투표소에 갔었어요. 그러고 나서…, 그런 다음에..”
+```java
+[KOR]
+A: 쉬는 날 잘 보냈어?
+B: 응. 나쁘지 않았어.
+A: 뭐했어?
+B: 별거 안했어. 아침에 투표하러 투표소에 갔지. 
+생각보다 오래 걸렸어. 
+사람들이 있을 줄은 알았는데 아침 8시 정도여서 그렇게 사람이 많을 줄은 몰랐어.
+그러고 나서, 커피 한잔 하러 갔었어. 
+친구랑 전화로 30분 정도 수다 떨고 나서 집에 돌아가는 길에 세탁소에 들렀는데 안열었더라고. 
+그게 다야. 집에 있으면서 하루 종일
+다른건 한게 거의 없어.
+
+[ENG]
+A: Did you have a good day off?
+B: Yeah. Not bad.
+A: What did you do?
+
+B: Not much. In the morning, I went to my polling place to cast my vote. 
+It took longer than I thought. I knew there would be people but it was around 8 o'clock in the morning 
+and I didn't think it would be that crowded. 
+And then, I went for a cup of coffee. 
+I chatted with a friend over the phone for about half an hour. 
+After that, I stopped by the dry-cleaners on my way back home but they were closed. 
+And that's it. I stayed home and did pretty much 
+nothing else all day.
+```
+* 투표장소; my polling place
+* did pretty much: -나 다름 없다; did nothing: 진짜 아무것도 안한 느낌
+
+
 # 리아와 함께하는 기초영어 - 불은 라면은 싫어! 영어표현을 알려 줄게요!
 * 꼬들꼬들한 면; undercooked;  overcooked;  불은 면: soggy
 
