@@ -1,3 +1,25 @@
+# [ 영어 연습가이드 ] I've just never met her in person
+```java
+A: I've never actually met my landlady. Is that strange?
+난 우리 집주인을 실제로 만나본 적이 없어. 그게 이상한건가?
+
+B: Really? She didn't come by
+when you moved in?
+정말? 너 이사 들어갈 때 안왔어?
+
+A: No. We did everything through
+a realtor. I've spoken to her on the phone a few times and we 
+exchange texts whenever there's an issue with the apartment
+and she has been very responsive every time so I haven't had 
+any problems. I've just never met her in person. I wonder if 
+she'll come by when I move out.
+응. 다 부동산업자를 통해서 처리했어. 통화는 몇 번 해봤고 집에 문제가 있을 
+때마다 문자도 주고 받고 하는데 답장도 항상 빠르게 잘 해줘서 그동안 아무런 
+문제는 없었어. 그냥 직접 만난 적이 없을 뿐이야. 내가 이사 나갈 때 한번 오려나?
+```
+* 잠깐 들리다: come by
+* she is very reponsive: 좋게 반응하다.
+
 # [기초영어 대화가이드] “투표하러 투표소에 갔었어요. 그러고 나서…, 그런 다음에..”
 ```java
 [KOR]
