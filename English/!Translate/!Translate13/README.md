@@ -1,3 +1,18 @@
+# [ 기초영어회화 ] 전화로 상대방이 하는 말을 잘 못알아들을 때 [ 영어 대화가이드 ]
+```java
+(I'm) Sorry. Could you say that again please?
+미안합니다. 다시 한번 얘기해주시겠어요?
+
+I'm sorry. Could you speak a little slower? I'm getting a lot of noise.
+미안합니다. 좀 천천히 말씀해주시겠어요? 잡음이 많아서요.
+
+So, does that mean I have to wait until the cancellation is approved?
+그럼 취소가 승인될 때까지 기다려야 한다는 얘긴가요?
+
+I see. I'm really sorry to bother you but could you do me a favor and send me an email with that information?
+귀찮게 해드려서 죄송한데 부탁 하나만 할게요 - 그 정보랑 같이 해서 이메일로 보내주시겠어요?
+```
+
 # [ 영어 연습가이드 ] I've just never met her in person
 ```java
 A: I've never actually met my landlady. Is that strange?
