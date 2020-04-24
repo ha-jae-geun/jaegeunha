@@ -1,3 +1,30 @@
+# [ 영어 연습가이드 ] Q: 이 나이에 외국에 1년 다녀오면 영어가 늘까요?
+```java
+[KOR]
+글쎄, 그건 상황에 따라 많이 달라. 두 가지를 동시에 해볼 수 있는게 아닌 한 확실히 알 방법이 없지. 
+한 가지 확실히 말할 수 있는건 어떻게 하기로 결정을 하든 자신의 선택에 대한 의심은 언제나 있을거라는 거야. 
+살면서 내리는 그 어떤 결정도 그런 것처럼. 그걸 다 감안하고, 한 가지 추천하는 것은 그런 결정을 이미 내려본 사람들을 찾아서 
+그들의 경험으로부터 최대한 많이 배우는거야. 그들의 얘기를 듣다보면 나한테 뭐가 맞을지에 대한 감이 잡히는 경우가 많거든. 
+왜냐면 이런건 어떤 절대적인 답이 없거든.
+
+[ENG]
+Well, that depends on a lot of things and unless you can actually do both at the same time, 
+there’s really no way of knowing for sure. One thing that I can say for certain is that whatever you decide to do, 
+you’re always going to have doubts about the choice you’ve made just like any other decisions we make in life.
+With that said, one thing I would suggest is to find people who have already made that decision 
+and learn as much as you can from their experience because, often times, 
+their stories will give you an idea of which is right for you
+because there's really no definitive answer to something like this.
+```
+ * That depends on a lot of things: 결정요소가 여러가지 있어서 확실히 말하기 어렵다
+ * There's a really no way of knowing for sure
+  * to know 라고 할 수 있지만 (in order) to know와 착각할 수 있으므로 구분하는 것이 좋다.
+ * One thing that i can say for certain is that; can에 악센트를 주면서 앞서 표현한 불확실성과 대조되는 맥락을 강조
+* with that said: 앞서 얘기한 내용을 모두 감안하고 다음 얘기를 듣기를 바란다는 뜻
+* One thing that i would suggest is to; i suggest 보다 조심스럽게 추천을 한다는 뜻
+* give 누구 an idea of 무엇; 누구에게 무엇에 대한 기본적인 개념을 심어준다.
+* There is / no answer to 무엇
+
 # [ 기초영어회화 ] 전화로 상대방이 하는 말을 잘 못알아들을 때 [ 영어 대화가이드 ]
 ```java
 (I'm) Sorry. Could you say that again please?
