@@ -20,6 +20,32 @@ Dispatch latency
 	A 프로세스 STOP -> B 프로세스 RUN 하는 동안 소요되는 시간
 
 ```
+
+## 용어정리
+```java
+CPU utilization (이용률)
+
+전체 시간 중에서 CPU가 놀지 않고 일한 시간의 비율
+
+Throughput (처리량)
+
+주어진 시간동안 얼마의 작업을 처리했는가
+
+<프로세스 입장에서의 성능척도>
+
+Turnaround time (소요시간, 반환시간)
+
+CPU를 할당받기 위해 Ready queue에서 대기한 시간부터 모든 프로세스 작업을 마치고 반환하기 까지 걸린 시간
+
+Waiting time (대기 시간)
+
+CPU를 할당받기 위해 Ready queue에서 대기한 시간의 총합
+
+Response time (응답 시간)
+
+Ready queue에 들어와서 첫 번째로 CPU를 할당받기까지 걸린 시간
+```
+
 ## 스케쥴링 기준
 ```java
 스케쥴링 알고리즘을 선택할 때, 고려되는 기준을 살펴본다.
