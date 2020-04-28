@@ -1,3 +1,29 @@
+# 입국심사
+* [입국심사]('https://webfirewood.tistory.com/m/108')
+```java
+   public long solution(int n, int[] times) {
+    	long answer = 0;
+        long start = 0;
+        long end = Long.MAX_VALUE / 2;
+        
+        while (start <= end) {
+        	long mid = (start + end) / 2;
+        	long people = n;
+        	for (int time : times) {
+    			people -= (long) mid / time;
+                if (people < 0) break;
+    		}
+        	if (people > 0) {
+        		start = mid + 1;
+        	} else {
+        		end = mid - 1;
+        		answer = mid;
+        	}
+        }
+        return answer;
+    }
+```
+
 # 징검다리 건너기
 ```java
 package Test;
