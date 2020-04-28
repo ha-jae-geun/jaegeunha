@@ -1,3 +1,23 @@
+# 불량 사용자
+```java
+		// 재귀를 통해 pattern에 맞는 문자들을 선택해 나간다.
+		for(int i=0; i<user_id.length; i++) {
+			String s = banned_id[idx].replace("*", ".");
+			Pattern pattern = Pattern.compile(s);
+			Matcher matcher = pattern.matcher(user_id[i]);
+			
+			// 정규 표힌식에 매칭 되고, 길이가 같은 경우
+			if(matcher.find() && user_id[i].length() == banned_id[idx].length()) {
+				// 제제 아이디로 체크하지 않은 경우 check
+				if(!visited[i]) {
+					visited[i] = true;				
+					dfs(banned_id, user_id, idx+1, n+1, visited);	// 다음 banned_id와 매칭되는 제재 아이디 찾기
+					visited[i] = false;					
+				}
+			}
+		}
+```
+
 # 숫자, 파일 패턴
 ```java
 import java.util.regex.Matcher;
