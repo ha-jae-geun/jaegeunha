@@ -1,3 +1,201 @@
+# N과 M(1)
+```java
+import java.util.*;
+
+public class Main {
+	static int m,n; // N과 M을 입력받는다.
+	static int list[],check[]; // 숫자의 방문여부를 체크 할 방문배열과 결과를 저장 할 배열을 선언
+	
+	static void dfs(int cnt) { // DFS메소드, 반복횟수를 인자로 받는다. 초기 0부터 시작
+			
+		if(cnt == m) { // 0부터 M번까지 반복했으면 하나의 처리가 완성
+        			   // 개인적인 생각으로는 이부분이 백트래킹에 해당한다고 생각한다.
+                       // M보다 큰 횟수는 고려하지 않고 배제한다.
+			for(int i=0;i<m;i++) { // 현재 결과배열을 출력
+				System.out.print(list[i]+" ");
+			}
+			System.out.println("");
+			return; // DFS 종료 
+		}
+		
+		for(int i =1;i<=n;i++) { // 수의 범위는 1부터 N까지이다.
+			
+			if(check[i]==1) continue; // 이미 방문한 배열이면 건너뛴다.
+			check[i]=1; // 방문하지 않았다면, 방문처리 후
+			list[cnt]=i; // 현재 반복횟수에 해당하는 배열에 i값을 넣는다.
+			dfs(cnt+1); // 반복횟수를 증가시킨다.
+			check[i]=0; // dfs가 종료 후에는 다시 방문여부를 0으로 초기화한다.
+			
+			
+		}
+		
+		
+	
+	}
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);	
+		
+		n = sc.nextInt(); 
+		m = sc.nextInt(); 
+		
+		check = new int[9]; // n과 m의 최대범위
+		list = new int [9];
+		dfs(0);
+	}
+	
+}
+
+```
+
+# N과 M(2)
+```java
+import java.util.*;
+
+public class Main {
+	static int m,n; // M과 N변수
+
+	static int list[],check[]; // 결과를 저장 할 list배열과 방문 여부를 체크 할 방문 배열
+	
+	static void dfs(int idx,int cnt) { // DFS메소드, 반복문의 시작부분을 변경해줘야 하므로 인자를 하나 더 추가한다.
+  	
+		if(cnt == m) { // 기존의 종료조건 이었던 수열의 끝에 도달하면 종료하는 부분은 동일하다.
+			for(int i=0;i<m;i++) {
+				System.out.print(list[i]+" ");
+			}
+			System.out.println("");
+			return;
+		}
+		
+		for(int i =idx+1;i<=n;i++) { // 반복문의 시작 부분을 변경해줘야 한다.
+        							 // 초기에 시작할 때는 두번 째 자리는 1부터 N까지 탐색 
+                                     // 2로 시작할 때는 두번 째 자리는 3부터 N까지 탐색
+                                     // 3으로 시작할 때는 두번 째 자리는 4부터 N까지 탐색.. 반복이다.
+			if(check[i]==1) continue; // 동일하다. 이미 방문한 경우는 넘긴다.
+			check[i]=1; // 방문하지 않은 경우는 방문 처리 후
+			list[cnt]=i; // cnt값의 자리는 i로 즉, 초기에는 0번인덱스(첫 번째 자리)는 1이다.
+			dfs(i,cnt+1); // 현재의 i값보다 큰 경우를 탐색해야 하므로 i를 전달 후 반복문 시작부분에서 +1 해주는 것
+			check[i]=0; // 모두 찾은 후에는 다시 방문 여부를 초기화
+	
+		}
+
+	}
+    
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);	
+		
+		n = sc.nextInt(); 
+		m = sc.nextInt(); 
+		
+		check = new int[9];
+		list = new int [9];
+		dfs(0,0); // 초기의 시작은 1부터 N까지 탐색해야 하므로 0을 전달
+	}
+	
+}
+```
+
+# N과 M(3)
+```java
+import java.io.*;
+import java.util.*;
+
+public class Main {
+	static int m,n;
+
+	static int list[]; // 수열을 저장 할 배열
+    //BufferedWriter 객체, static선언을 한 이유는 DFS메소드 내에서 출력을 하기 때문이다.
+	static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out)); 
+    
+	static void dfs(int cnt) throws IOException { //DFS메소드, 
+    		 //출력부가 있기 때문에 bw객체를 사용할 때에는 입출력 예외처리가 필수
+		
+		if(cnt == m) {
+			for(int i=0;i<m;i++) {
+				bw.write(String.valueOf(list[i])+" ");	//bw.write()를 이용한 출력		
+				}
+			bw.newLine(); // 개행
+			return;
+		}
+		
+		for(int i =1;i<=n;i++) { // 중복이 허용되므로 1부터 n까지 계속반복한다.
+			//방문배열을 처리해주는 부분이 사라졌다.
+			list[cnt]=i;		
+			dfs(cnt+1);			
+		}	
+	}
+	
+	public static void main(String[] args) throws IOException {
+    	//마찬가지로 main부에 입력 처리가 있으므로 입출력 예외처리가 필수
+//		Scanner sc = new Scanner(System.in); //기존에 사용한 Scanner클래스
+		
+        //BufferedReader 객체 생성
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        //공백을 기준으로 입력받기 때문에 공백 구분을 위해 StringTokenizer 객체를 함께 사용한다.
+		StringTokenizer st = new StringTokenizer(br.readLine());
+        
+		n = Integer.parseInt(st.nextToken()); // 공백을 구분으로 입력
+		m = Integer.parseInt(st.nextToken()); // 공백을 구분으로 입력
+		
+		
+		list = new int [m];
+		dfs(0);
+        // BufferedWriter클래스의 경우 프로그램이 종료하기 전에 flush()를 수행해주어야
+        // 올바르게 출력값이 나온다고 한다. 왜 그런지는 자세히는 모르겠다..
+        
+		br.close();
+		bw.flush();
+		bw.close();
+	}
+	
+}
+```
+# N과 M (4)
+```java
+import java.io.*;
+import java.util.*;
+
+public class Main {
+	static int m,n;
+	static int list[];
+	static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+	static void dfs(int cnt) throws IOException {
+		
+		
+		if(cnt == m) {
+			for(int i=0;i<m;i++) {
+				bw.write(String.valueOf(list[i])+" ");			
+				}
+			bw.newLine();
+			return;
+		}
+		
+		for(int i =1;i<=n;i++) {
+			if(cnt!=0 && list[cnt-1]>i) continue; //추가 된 조건부
+            //이 부분을 제외하고는 N과 M(3)문제와 동일하다.
+            // cnt!=0인 이유는 자신보다 앞의 숫자가 있는 경우는 2번째 자리 숫자부터이기 때문이다.
+			list[cnt]=i;		
+			dfs(cnt+1);			
+		}	
+	}
+	
+	public static void main(String[] args) throws IOException {
+	
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringTokenizer st = new StringTokenizer(br.readLine());
+		n = Integer.parseInt(st.nextToken());
+		m = Integer.parseInt(st.nextToken());
+		
+		
+		list = new int [m];
+		dfs(0);
+		br.close();
+		bw.flush();
+		bw.close();
+	}
+	
+}
+```
+
 # 순열
 ## 차이를 최대로(10819)
 ```java
