@@ -186,6 +186,26 @@ CPU는 사용하고 있는데(=루프가 돌고 있기 때문에) 락을 얻지 
 
 ### 세마포어(Semaphore)
 * 세마포어 역시 뮤텍스와 비슷한 역할을 하지만 세마포어는 동시 접근 동기화가 아닌 접근 순서 동기화에 더 관련있다.
+* P: Probern: 검사, V: Verhogen(증가)
+* 임의의 s 변수 하나에 ready queue 하나가 할당 됨
+
+### 세마포어 종류
+1. Binary semaphore
+* S가 0과 1 두 종류읙 ㅏㅄ만 갖는 경우
+* 상호배제나 프로세스 동기화의 목적으로 사용
+
+2. Counting semaphore
+* S가 0이상의 정수값을 가질 수 있는 경우
+* Producer-Consumer 문제 등을 해결하기 위해 사용
+	* 생산자 소비 문제
+
+### 세마포어로 해결 가능한 동기화 문제들
+1. 상호배제 문제
+2. 프로세스 동기화 문제
+3. 생산자 소비자 문제
+4. Reader-writer 문제
+5. Dining philosopher 문제
+
 
 ### 모니터(Monitor)
 * Mutex(Lock)와 Condition Variables(Queue라고도 함)을 가지고 있는 Synchronization 메카니즘이다.
