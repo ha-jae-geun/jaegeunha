@@ -1,9 +1,10 @@
 - http://connoyaro.synology.me:5000/
 
 # 깃독서
-* 10.21: goodgid: https://goodgid.github.io/category/#OS
-* 10.21: 조은: https://medium.com/@euncho 
-* 10.21: 에반문: https://evan-moon.github.io/
+* goodgid: https://goodgid.github.io/category/#OS
+* 조은: https://medium.com/@euncho 
+* 에반문: https://evan-moon.github.io/
+* 정아마추어 코딩블로그: https://jeong-pro.tistory.com/
 
 # 깃
 * working copy ->(add) index/staging area ->(commit) repositories
