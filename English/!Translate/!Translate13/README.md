@@ -1,3 +1,22 @@
+# [ 영어회화 ] (내용)을 건너뛰다, 본론으로 바로 들어가다, 실수로 빼놓다, (내용)이 어떤지 보고 나중에 넣자
+```java
+A: 있잖아. 이 부분 전체는 그냥 건너뛰자.
+B: 정말? 그러면 너무 갑작스럽지 않아? 배경에 대한 정보가 어느 정도는 있어야 되겠다고 생각했는데.
+A: 아니야. 그냥 본론으로 바로 들어가는게 나을 것 같아. 게다가 요즘 읽을 내용이 많은걸 좋아하는 사람 없잖아. 
+그 사고에 대한 부분은 어딨어?
+B: 아. 내가 실수로 빼놓은 것 같아.
+A: 아니다. 그 부분은 일단 그냥 빼놓고 어떤지 한번 보고 필요하면 나중에 넣으면 돼.
+
+[ENG]
+A: You know, let's just skip this whole section here.
+B: Really? You don't think that's too abrupt? I figured there should be some background information.
+A: No. I think it would be better to get right(straight) to the point. Besides, 
+nobody likes long reads nowadays. And where's the part about the accident?
+B: Oh, I think I left that out by accident.
+A: You know what? Let's just leave that part out for now and see how it looks and we can add it in later if we have to.
+```
+* 읽을게 많은 것들(명사); long reads
+
 # [ 영어 연습가이드 | HARDCORE ] 사람들은 지금 몸만 아픈 것이 아니다
 ```java
 최근에 어떤 기사를 읽었는데 새로 확산되고 있는 건강 문제에 대해서 우려하는 내용이었어요. 
