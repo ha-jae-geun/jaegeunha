@@ -74,6 +74,78 @@ public class Main {
 출처: https://jeong-pro.tistory.com/173 [기본기를 쌓는 정아마추어 코딩블로그]
 ```
 
+# 프로그래머스 실패율
+```java
+import java.util.*;
+
+class Solution {
+	static double[] participant;
+	static double[] passer;
+
+	
+	static class rank{
+		int index;
+		double fail;
+		public rank(int index, double fail) {
+			this.index = index;
+			this.fail = fail;
+		}
+	}
+	public static int[] solution(int N, int[] stages) {
+		participant = new double[N+1];
+		passer = new double[N+1];
+		int[] answer = new int[N];
+		ArrayList<rank> arrayList = new ArrayList<>();
+		
+		for (int i = 0; i < stages.length; i++) {
+			participate(stages[i]);
+			passTest(stages[i]);
+		}
+		
+		for(int i=0; i<N; i++) {
+			if(passer[i] == 0 || participant[i] == 0) {
+				arrayList.add(new rank(i+1, (double)0));
+                continue;
+			}
+			arrayList.add(new rank(i+1, (double)(passer[i]/participant[i])));
+		}
+		Collections.sort(arrayList, new Comparator<rank>() {
+
+			@Override
+			public int compare(rank o1, rank o2) {
+				if(o1.fail > o2.fail)
+					return -1;
+				else if(o1.fail == o2.fail)
+					if(o1.index > o2.index)
+						return 1;
+					else if(o1.index == o2.index)
+						return 0;
+					else
+						return -1;
+				else 
+					return 1;
+			}
+			
+		});
+		for(int i=0; i<arrayList.size(); i++) {
+			answer[i] = arrayList.get(i).index;
+		}
+		System.out.println();
+		return answer;
+	}
+
+	public static void participate(int stage) {
+		for(int i=0; i<stage; i++) {
+			participant[i] = participant[i] + 1; 
+		}
+	}
+
+	public static void passTest(int stage) {
+		passer[stage-1] = passer[stage-1] + 1; 
+	}
+}
+```
+
 1. 
 ```java
 public String solution(int[] numbers) {
