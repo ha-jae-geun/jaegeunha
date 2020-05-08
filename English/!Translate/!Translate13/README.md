@@ -1,3 +1,20 @@
+# [ 기초 영어 연습가이드 ] "난 왜 이럴 생각을 못했지?" , "진작 너한테 물어볼걸" // if 가정법
+```java
+[KOR]
+아, 네 말이 맞네. 이 방식이 훨씬 빠르다!                          
+왜 내가 이(이럴) 생각은 못했지?
+진작 너한테 물어볼걸(물어봤어야 했는데).
+진작 이렇게 했으면 지금쯤 최소 절반은 끝낼 수 있었겠다.
+
+[ENG]
+Oh, you're right. This way is much faster!                    
+Why didn't I think of this?
+Why couldn't i have thought of this
+I should've(should+have) asked you earlier.
+If I had done this earlier, I could've finished at least half by now.
+```
+* This way: 이 방식
+
 # [ 영어회화 ] (내용)을 건너뛰다, 본론으로 바로 들어가다, 실수로 빼놓다, (내용)이 어떤지 보고 나중에 넣자
 ```java
 A: 있잖아. 이 부분 전체는 그냥 건너뛰자.
