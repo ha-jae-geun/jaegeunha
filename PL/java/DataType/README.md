@@ -237,6 +237,10 @@ cs
 
 
 ## HashCode
+* Key의 hashcode를 통해 Value값을 더 쉽게 찾아낼 수 있다고 합니다.
+[출처] [기초부터자바] hashcode란? hashcode와 equals의 관계(1)|작성자 footprint
+
+
 ```java
 equals만 재정의해서 어떤 두 객체가 같다고 했는데 hash를 사용하는 Collection(HashSet, HashMap, ...)에 
 넣을 때는 같다고 생각하지 않아서 문제가 생길 수 있다. 아래에서 확인해보자.
@@ -293,3 +297,9 @@ hashCode()는 메모리에서 가진 hash주소 값을 기본적으로 반환해
 hash함수를 쓰는 collection같은 객체가 있으므로 함께 사용하는 것으로 이해하도록 한다.
 
 ```
+
+## StringPool
+* [출처]('https://doohong.github.io/2018/03/04/java-string-pool/')
+* [출처]('https://dololak.tistory.com/718')
+* Java에서 가장 많이 사용되는 데이터 타입은 String이 아닐까 싶습니다. 사람이 가장 이해하기 쉬운것이 Text이기 때문이지요. 그런데 Java에서 문자열을 표현하는 String 타입의 객체는 불변성(Immutable)이라는 성질을 가지고 있으며 같은값의 문자열에 대해서는 단 하나의 문자열 객체만을 생성하도록 설계 되어있습니다.
+* Java에서 String이 이러한 성질을 갖는 이유는 몇가지 장점이 있기 때문인데 가장 큰 장점은 성능입니다. 같은 값을 갖는 문자열 객체는 JVM의 객체가 생성되는 공간인 Heap에 매번 새로 생성하게 되면 메모리 공간적 측면에서 비효율적이기 때문이지요. 즉 문자열 객체를 캐싱(Caching) 하는것입니다. 문자열의 불변성에 대한 자세한 내용은 상단의 연관글을 참고해주시기 바랍니다.
