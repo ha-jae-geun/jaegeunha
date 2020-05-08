@@ -15,6 +15,9 @@
 * Semaphore
 * Eventcount/Sequencer
 
+4. Language-Level solution
+* monitor
+
 # 임계영역
 * [블로그](https://dailyheumsi.tistory.com/132?category=855210)
 * 공유되는 자원, 즉 동시접근하려고 하는 그 포커싱된 자원!에서 문제가 발생하지 않게 독점을 보장해줘야 하는 영역을 임계영역이라고 해요
@@ -220,9 +223,25 @@ CPU는 사용하고 있는데(=루프가 돌고 있기 때문에) 락을 얻지 
 5. Dining philosopher 문제
 
 
-### 모니터(Monitor)
+# 모니터(Monitor)
 * Mutex(Lock)와 Condition Variables(Queue라고도 함)을 가지고 있는 Synchronization 메카니즘이다.
 
+## 모니터의 구조
+1. 진입 큐: 모니터 내의 procedure 수만큼 존재
+2. Mutual exclusion: 모니터 내에는 항상 하나의 프로세스만 진입 가능
+3. 정보 은폐: 공유 데이터는 모니터 내의 프로세스만 접근 가능
+4. 조건 큐: 모니터 내의 특정 이벤트를 기다리는 프로세스가 대기
+5. 신호제공자 큐: 모니터에 항상 하나의 신호제공자 큐가 존재
+* signal() 명령을 실행한 프로세스가 임시 대기
+
+## 모니터 장점
+* 사용이 쉽다
+* Deadlock 등 error 발생 가능성이 낮음
+
+## 모니터 단점
+* 지원하는 언어에서만 사용 가능
+* 컴파일러가 OS를 이해하고 있어야 함
+	* Critical section 접근을 위한 코드 생성
 
 ### 전자(뮤텍스,모니터)는 상호 배제를 함으로써 임계구역에 하나의 쓰레드만 들어갈 수 있다.
 * 후자(세마포어)는 하나의 쓰레드(binary semaphore)만 들어가거나
