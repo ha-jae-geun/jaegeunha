@@ -162,3 +162,134 @@ c는 600이라는 임의의 주소값을 할당받았습니다.
 내용은 같지만 c가 다른 주소값을 할당받은 이유는 "aaa" 라는 문자열을 대입한 것이 아니라 
 new String ("aaa") 를 통해 새로운 문자열을 선언하였기 때문입니다. 
 ```
+
+## equals 예외
+* equals()만 재정의해서는 안되고 반드시 equals()와 hashCode()를 함께 재정의해야만 부작용이 없다.
+* [출처]('https://jeong-pro.tistory.com/172')
+```java
+public class Person {
+    private String name;
+    private int age;
+    
+    public String getName() {
+        return name;
+    }
+    public void setName(String name) {
+        this.name = name;
+    }
+    public int getAge() {
+        return age;
+    }
+    public void setAge(int age) {
+        this.age = age;
+    }
+    public Person(String name, int age) {
+        super();
+        this.name = name;
+        this.age = age;
+    }
+    @Override
+    public String toString() {
+        return "Person [name=" + name + ", age=" + age + "]";
+    }
+}
+Colored by Color Scripter
+
+
+임의로 Person이라는 클래스를 만들어보았다.
+
+여기서는 일반적으로 사용하는 getter/setter, 생성자, toString() 메서드만 추가했다.
+
+
+Person person1 = new Person("jeong-pro", 27);
+Person person2 = new Person("jeong-pro", 27);
+System.out.println(person1 == person2);//false
+System.out.println(person1.equals(person2));//false
+
+
+결과는 둘다 false가 나온다.
+
+'==' 연산자를 복습해보면 당연히 두 객체가 각각 다른 주소에 생성되었기 때문에 
+person1과 person2는 '==' 연산에 대해 false를 리턴한다.
+
+그런데 내용이 같으면 true를 준다던 equals()메서드가 false를 리턴했다.
+
+문제는 자바에서 내용이 같은지를 모른다는 것이다.
+
+왜냐하면 개발자의 의도에 따라 name만 같으면 두 객체를 같게 볼 수도 있고 name, age 둘 다 같아야 같다고 볼지 모르기 때문이다.
+
+따라서 equals() 메서드를 오버라이드(재정의)해서 두 객체의 내용이 같은지를 정의해줘야 올바르게(의도한대로) 작동한다.
+
+* equals() 메서드를 재정의하지 않고 아래와 같이 쓸 수도 있다.
+
+1
+System.out.println(person1.getName().equals(person2.getName()) || person1.getAge() == person2.getAge());
+cs
+어떻게 보면 위와 같은 방법이 코드를 따라갈 때에는 더 명확하게 무엇을 비교하는지 알 수 있어서 
+좋을 수도 있을 것이다. (이게 포인트가 아니므로 일단 넘어간다)
+
+ age와 name 모두 같아야 같은 것으로 확인하는 equals()메서드를 만들었다. (IDE가 만들어 주었다.)
+
+
+
+출처: https://jeong-pro.tistory.com/172 [기본기를 쌓는 정아마추어 코딩블로그]
+```
+
+
+## HashCode
+```java
+equals만 재정의해서 어떤 두 객체가 같다고 했는데 hash를 사용하는 Collection(HashSet, HashMap, ...)에 
+넣을 때는 같다고 생각하지 않아서 문제가 생길 수 있다. 아래에서 확인해보자.
+
+
+Set<Person> hset = new HashSet<>();
+Person person1 = new Person("jdk", 27);
+Person person2 = new Person("jdk", 27);
+System.out.println("person1 : "+person1.hashCode());//2018699554
+System.out.println("person2 : "+person2.hashCode());//1311053135
+System.out.println(person1.equals(person2));//true
+hset.add(person1);
+hset.add(person2);
+System.out.println(hset.size());//2
+cs
+person1과 person2의 해시코드가 다른 것을 위에서 확인할 수 있고 그 때문에 중복을 자동으로 없애주는 
+Set에 넣었음에도 불구하고 set의 사이즈는 2가 나와버린 것이다.
+
+이런 문제를 모르고 코딩하다가는 나중에 꼬여버린 탓에 곤란을 겪을 수 있다. 
+따라서 equals와 hashcode는 반드시 함께 재정의해야 한다.
+
+즉, equals로 같은 객체라면 반드시 hashCode도 같은 값이여야만 한다.
+
+하지만 반대로 hashCode가 같은 값이더라도 equals로 같은 객체가 아닐 수 있다는 것을 유의해야 한다.
+
+또한 아주 중요한 점이 같은 파라미터를 이용해야 한다는 것이다.
+
+(* 실제 equals의 파라미터는 반드시 Object 타입이어야 한다. 내부적으로 비교하는 파라미터를 같게 하라는 의미.
+
+파라미터 타입을 Object에서 다른 타입으로 바꿀 경우는 오버로딩으로 인식하여 기존의 equals 메서드가 남아있게 된다.)
+
+예를들어 equals를 판단하는 파라미터에는 name만 이용했는데 hashcode에서는 age를 이용한다든지
+name과 age를 같이 사용해버린다든지 하면 부작용이 많이 일어날 수 있다.
+
+결론적으로 반드시 같은 파라미터를 이용하면 될 것이다.
+
+hashCode
+
+
+@Override
+public int hashCode() {
+    final int prime = 31;
+    int result = 1;
+    result = prime * result + age;
+    result = prime * result + ((name == null) ? 0 : name.hashCode());
+    return result;
+}
+Colored by Color Scripter
+
+
+hashCode()는 메모리에서 가진 hash주소 값을 기본적으로 반환해준다.
+
+기본적으로 hash는 다른 객체여도 같을 '수'가 있기 때문에 비교에 적합하지 않으나
+hash함수를 쓰는 collection같은 객체가 있으므로 함께 사용하는 것으로 이해하도록 한다.
+
+```
