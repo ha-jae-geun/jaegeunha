@@ -41,8 +41,41 @@
 * List Interface 
 * Collection 인터페이스를 확장한 자료형으로 요소들의 순서를 저장하여 색인(Index)를 사용하여 특정 위치에 요소를 삽입하거나 접근할 수 있으며 중복 요소 허용
 
+## Array(배열)
+* 원소에 대해 빠르게 접근할 수 있을 뿐만 아니라, 원소들이 메모리에 연속해 배치해 있어 CPU 캐시 효율도 더욱 높기 때문입니다.
+* 배열의 원소를 삭제할 경우 삭제한 원소보다 큰 인덱스를 가진 원소들을 옮겨줘야(Shift) 하기 때문에 시간 복잡도 O(n)이 걸린다.
+* 삽입의 경우, 새로운 원소를 추가하고 모든 원소들의 인덱스를 1씩 Shift 해줘야 하므로 시간 복잡도 O(n)이 걸린다
+
+## ArrayList
+* ArrayList 는 array 를 이용한 List 구현 방법입니다. 
+* ArrayList 클래스는 내부적으로 배열을 이용하여 요소를 저장한다.
+
 ## LinkedList
 * LinkedList의 경우 인자로 전달된 인덱스의 요소를 가져오기위해서는 항상 첫 노드에서부터 찾아 들어가야하기때문에 get()의 시간복잡도는 O(n)이다. for문과 결합되면 2중 반복문으로 돌아서 O(n^2)이 되는것이다. 
+
+## ArrayList와 LinkedList 차이
+```java
+검색
+데이터 검색 시에는 ArrayList는 LinkedList에 비해 굉장히 빠르다. ArrayList는 인덱스 기반의 자료 구조이며 
+get(int index) 를 통해 O(1) 의 시간 복잡도를 가진다. 그에 비해 LinkedList는 검색 시 모든 요소를 
+탐색해야 하기 때문에 최악의 경우에는 O(N)의 시간 복잡도를 가진다.
+
+삽입, 삭제
+LinkedList에서의 데이터의 삽입, 삭제 시에는 ArrayList와 비교해 굉장히 빠른데, LinkedList는 이전 노드와 
+다음 노드를 참조하는 상태만 변경하면 되기 때문이다. 삽입, 삭제가 일어날 때 O(1)의 시작 복잡도를 가진다. 
+반면 ArrayList의 경우 삽입, 삭제 이후 다른 데이터를 복사해야 하기 때문에 최악의 경우 O(N) 의 성능을 내게 된다.
+```
+
+### LinkedList 삽입 삭제
+```java
+삽입의 경우
+일단, LinkedList는 어느 곳에 삽입하던지 O(n)의 시간복잡도를 갖는다. 
+(만약, 중간 삽입이 없다면 즉 맨 앞과 맨 뒤에만 삽입한다면 -> 시간 복잡도 : O(1))
+
+삭제의 경우
+삭제의 경우도 삽입과 마찬가지이다. 어느 곳에 삽입하던지 O(n)의 시간 복잡도를 갖는다.
+(만약, 중간 삭제가 없고 맨 앞과 뒤에서만 삭제한다면 -> 시간 복잡도 : O(1))
+```
 
 ### List와for-each문
 * [출처](' https://multifrontgarden.tistory.com/130')
@@ -115,4 +148,36 @@ System.out.println(i);
 
 ## Map Interface
 * Key와 Value의 쌍으로 연관지어 저장하는 객체
+
+
+## [firework](https://firework-ham.tistory.com/11)
+1. 먼저 키가 null인지 체크하고 null이면 hashcode는 0이기 때문에 위치 0에 저장됩니다.
+2. hascode를 매소드를 호출하여 hascode를 적용 합니다.
+   배열의 한도 내에서 값을 얻기 위해 key.hashcode()가 호출되고 일부 시프팅 연산을 수행합니다.
+3. indexFor() 매소드는 Entry 객체를 저장할 정확한 위치를 가져올 때 사용합니다.
+4. 만약, 두개의 다른 객체가 같은 hashcode를 가진다면 충돌이 이러나기 때문에 이를 처리하기 위해 next 속성을 가집니다. 같은 haschcode를 가지는 객체들은 서로 옆에 위치하게 됩니다.
+5. 충돌이 나면 next 속성의 값을 체크하고 만약 null 이면 그 위치에 Entry 객체를 넣고 null이 아니면 next 객체의 next를 다시 불러 null일때까지 확인하고 객체를 저장합니다.
+
+## Hashmap 중복
+* HaspMap 내부에서 equals를 사용하고 동일한 것을 사용하다면 값을 대체 합니다.
+* HashMap에서 중복되는 키 값을 막는 방법은? HashMap은 중복되는 키를 허용하지 않습니다.  동일한 키를 넣으면 오버라이드 되며 가장 최근 값이 반환됩니다.
+
+```java
+
+import java.util.HashMap;
+import java.util.Map;
+ 
+public class HashMapEg{
+    public static void main(String[] args) {
+            Map map = new HashMap();
+            map.put(1,"sam");  
+            map.put(1,"Ian");  
+            map.put(1,"Scott");  
+            map.put(null,"asdf");
+ 
+            System.out.println(map); 
+        }
+}
+```
+* 위 예제에서는 null은 "asdf", 1은 "Scott"를 가지게 됩니다.
 
