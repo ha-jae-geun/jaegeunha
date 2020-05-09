@@ -1,5 +1,6 @@
 ### RestAPI
-* [restapi]('https://velopert.com/2318)
+* [restapi](https://velopert.com/231)
+* [정아마추어](https://jeong-pro.tistory.com/180?category=793347)
 * [2]('https://brownbears.tistory.com/450')
 * 개발자들 사이에서 기술이나 제품이 아니라 널리 쓰이는 일종의 형식
   * 무슨 프레임워크를 쓰든 소프트웨어를 만들든 공통적인 형식을 사용하는 것
