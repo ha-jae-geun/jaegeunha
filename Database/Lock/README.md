@@ -1,3 +1,5 @@
+## [정아마추어](https://jeong-pro.tistory.com/94?category=793347)
+
 # LOCK
 ```JAVA
 운영체제에서 잠금(Lock)과 유사하게 데이터베이스에서도 잠금(Lock)이 있다.
