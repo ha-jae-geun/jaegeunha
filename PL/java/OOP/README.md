@@ -1,3 +1,5 @@
+## [정아마추어](https://jeong-pro.tistory.com/95?category=793347)
+
 # OOP
 * [OOP]('http://woowabros.github.io/study/2016/07/07/think_object_oriented.html')
 * 메세지가 객체를 정한다.
