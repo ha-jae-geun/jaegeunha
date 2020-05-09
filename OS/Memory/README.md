@@ -1,5 +1,6 @@
 # 메모리 관리
 * [블로그](https://dailyheumsi.tistory.com/137?category=855210)
+* [정아마추어](https://jeong-pro.tistory.com/91?category=793347)
 
 ```java
 1.1. 주소 바인딩
