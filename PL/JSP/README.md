@@ -1,11 +1,16 @@
 # 언어
 * 표현식, 액션태그, EL(Expression Language; 표현식, 액션 태그를 대신해서 값을 표현하는 언어)  
+* JSTL
 
 ## 언어간 차이
 * 표현식은 코드가 길어지고 번잡해질 수 있다.
 
 ## EL
 * ${ }
+
+## JSTL(JSP standard Tag Library)
+* JSP는 HTML 태그와 같이 사용되어 전체적인 코드의 가독성이 떨어진다.
+
 
 ### EL 내장 객체
 * pageScope
