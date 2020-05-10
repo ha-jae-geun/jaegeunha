@@ -130,6 +130,7 @@ getProperty
 
 ## JSTL(JSP standard Tag Library)
 * JSP는 HTML 태그와 같이 사용되어 전체적인 코드의 가독성이 떨어진다.
+* 반면 JSTL 태그는 JSP 코드와 완전히 분리가 되기 때문에 가독성이 높아진다.
 
 ### Core 라이브러리
 * 출력, 제어문, 반복문 같은 기능이 포함
