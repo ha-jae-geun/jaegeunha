@@ -343,53 +343,6 @@
 - print
 - 외부로 출력이 가능한 변수
 
-# 커서
--  - SQL 커서는 Oracle 서버에서 할당한 전용 메모리 영역에 대한 포인터이다.
- - 질의의 결과로 얻어진 여러 행이 저장된 메모리상의 위치.
- - 커서는 SELECT 문의 결과 집합을 처리하는데 사용된다.
-- 오라클 DB에서 실행되는 모든 SQL문장은 암시적인 커서가 생성되며, 커서 속성을 사용 할 수 있다.
- - 모든 DML과 PL/SQL SELECT문에 대해 선언됨
- - 암시적인 커서는 오라클이나 PL/SQL실행 메커니즘에 의해 처리되는 SQL문장이 처리되는 곳에 대한 익명의 주소이다.
- - Oracle 서버에서 SQL문을 처리하기 위해 내부적으로 생성하고 관리한다.
- - 암시적 커서는 SQL 문이 실행되는 순간 자동으로 OPEN과 CLOSE를 실행 한다.
- - SQL 커서 속성을 사용하면 SQL문의 결과를 테스트할 수 있다.
-
-## 형식
- * DECLARE
- * 	CURSOR [커서이름] IS [SELECT 구문];
- * BEGIN
- * 	OPEN [커서이름];
- * 	FETCH [커서이름] INTO [로컬변수];
- * 	CLOSE [커서이름];
- * END;
-
-
-## OPEN(커서열기)
- - OPEN문을 사용하여 커서를 연다.
- - 커서안의 검색이 실행되며 아무런 데이터행을 추출하지 못해도 에러가 발생하지 않는다
- 
-## FETCH(커서패치)
- - 현재 데이터 행을 OUTPUT변수에 반환한다
- - 커서의 SELECT문의 컬럼의 수와 OUTPUT변수의 수가 동일해야 한다 
- - 커서 컬럼의 변수타입과 OUTPUT변수의 데이터 타입도 역시 동일해야 한다
- - 커서는 한 라인씩 데이터를 FETCH한다
- - 문법 : FETCH cursor_name INTO variable1, variable2;
- 
-## CLOSE(커서닫기)
- - 사용을 마친 커서는 반드시 닫아주어야 한다
- - 필요시 커서를 다시 열 수 있다
- - 커서를 닫은 상태에서 FETCH는 불가능하다
- - 문법 : CLOSE cursor_name;
-
-
-
-# 커서와 패치
-- 대용량 데이터베이스에서 사용.
-
-
-# 트리거
-- 대용량 데이터베이스에서 위험성 때문에 사용하지 않는다.
-- 테이블에 대한 이벤트에 반응하여 자동으로 실행되는 작업을 말합니다. 여기서 이벤트는 특정 행이나 속성 전체에 INSERT, UPDATE, DELETE 가 발생할 때는 말합니다.
 
 
 
@@ -409,14 +362,7 @@
 # 스크립트 실행
 - 인터프리터 방식으로 한줄씩 실행해서 결과를 바로 보여줌.
 
-# on
-## 프로시저 결과를 화면에 출력하고 싶을 때
-- 프로시저 결과를 화면에 출력하고 싶을때 사용
 
-
-- SQL> show serveroutput
-- serveroutput OFF
-- SQL> set serveroutput on
 
 
 # rownum
@@ -430,41 +376,15 @@
 * 유일한 주소값이지만 테이블의 PK처럼 사용할 수 없다
 * 삭제 후 다시 동일한 레코드를 입력한다고 행쓸 때 rowid는 변경되며 레코드를 삭제했다면 삭제된 레코드의 rowid는 나중에 입력되는 다른 코드에 부여도리 ㅅ 있다.
 
-# 서브쿼리
-- in을 가장 많이 사용.
-
-## 서브쿼리 종류
-1. select 절에 존재; scalar subquery
-2. from절: inline view
-3. where절: 중첩 서브쿼리
-
-## Self Join
-* 서브 쿼리 사용 말고 Self Join 사용할 때
-```SQL
-select e1.ename
-from emp e1, emp e2
-where e1.deptno = e2.deptno
-and e2.eanme = 'Smith'
-```
-
-## in 과 any 차이
-- in은 비교대상 필요 없고 any는 비교대상 필요
-- any 연산자는 메인 쿼리의 비교 조건이 서브 쿼리의 검색 결과와 하나 이상만 일치하면 참이다.
-- exist: exists 연산자는 서브쿼리에서 적어도 개의 행을 리턴하면 논리식은 참이고 그렇지 않으면 거짓이 되는 연산자이다 1 . ⎼exists 연산자는 서브 쿼리의 결과값이 참이 나오기만 하면 바로 메인 쿼리의 결과값을 리턴한다.
-
-## exist와 in 차이
-- EXISTS는 단지 ROW가 존재하는지만 체크하고 더 이상 수행 되지 않으나, IN은 실제 존재하는 데이터들의 모든 값까지 확인한다. 따라서, EXISTS 연산자가 더 좋은 성능을 보이므로 가능하면 EXISTS를 사용하는 것이 바람직해 보인다. 
-- 또 다른 한가지는, JOIN되는 COLUMN에 NULL을 갖는 ROW가 존재한다면 NOT EXISTS는 TRUE값을, NOT IN은 FALSE값이 리턴된다. 즉, NOT IN을 사용하면 조건에 맞는 데이터가 있다고 하더라도 NULL이 존재하면 "NO ROWS SELECTED"라고 나오게 된다. 따라서 NVL을 이용한 NULL 처리가 꼭 필요하다.
 
 
 
-# with 구문
-* 이름이 부여된 서브컬리 블록으로 global temporary tables, virtual table or an inline view 처럼 작동된다.
-2. 복장된 SQL에서 동일 쿼리블록이 반족적으로 사용되는 경우 그 블록에 이름을 부여하여 한곳에서 정의하고 이름 재활용 하 수 있게 함으로 쿼리문 코딩강도 줄이고 성능도 향상시킬 수 있다.
 
 
-# case-when
-* 간단한 case-when은 decode로 대체 가능
-```sql
-decode(gender, 'boy', '남', 'girl', '여', '혼성')
-```
+
+
+
+
+
+
+
