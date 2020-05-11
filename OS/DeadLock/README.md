@@ -33,8 +33,11 @@
 	* 한 순간에 한 프로세스만 사용 가능한 자원(Processor, memory, disk drive 등)
 	* shared allocation resource: 여러 프로세스가 동시에 사용 가능한 자원
 
-### 데드락 (Dead lock)의 발생 조건
+##  Deadlock model
+1. Graph Model
+2. State Transition Model
 
+### 데드락 (Dead lock)의 발생 조건
 - 교착 상태는 한 시스템 내에서 다음의 네 가지 조건이 동시에 성립 할 때 발생합니다
 - 따라서, 아래의 네 가지 조건 중 하나라도 성립하지 않도록 만든다면 교착 상태를 해결할 수 있습니다.
 
