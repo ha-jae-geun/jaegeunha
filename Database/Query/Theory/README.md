@@ -74,7 +74,13 @@
 
 
 # Self Join
-* 서브 쿼리 사용 말고 Self Join 사용할 때
+* 자기자신 테이블과 조인을 하는 경우
+* 같은 테이블을 두 번 사용하므로 테이블 별칭을 반드시 사용해야 한다.
+* 특별한 경우로 ㅎ나 테이블의 외래키칼럼이 자기 자신 테이블의 주키를 참조하는 경우 이용하게 된다.
+* emp 테이블의 MGR 칼럼은 외래키로서 자기자신 테이블 EMP의 EMPNO를 참조한다.
+
+
+## 서브 쿼리 사용 말고 Self Join 사용할 때
 ```SQL
 select e1.ename
 from emp e1, emp e2
@@ -176,3 +182,18 @@ decode(gender, 'boy', '남', 'girl', '여', '혼성')
 - ->결과 : A1A2A3A4A5
 - SELECT REPLACE('a1b2c4','a1','BB') FROM DUAL;
 - -> 결과는 a1을 BB로 대체해 'BBb2c4'가 나온다
+
+
+
+# 조인
+## 내부조인
+* 내부조인은 테이블의 값이 일치하지 않는다면 해당 레코드는 출력되지 않는다.
+
+
+
+# HINT
+## result cache
+* 쿼리 결과를 캐싱하라는 힌트이다.
+* 조회 용도의 select되는 데이터 건이 많지 않고 값이 변하지 않는 데이터 즉 과거 매출 데이터 등의 집계/분석하는 쿼리에 RESULT CACHE 힌트를 사용하면 좋다.
+* 고려할 점은 캐시할 데이터의 사이즈가 커서 result_cache_max_size, result_cache_max_result 파라미터 값을 넘어간다면 캐싱 기능을 사용할 수 없다
+* DATA Dictionary 및 Temporary Table에 대한 쿼리 또는 시퀀스에 대한 CURVAL< NEXTVAL에 대한 쿼리는 캐시되지 않는다.
