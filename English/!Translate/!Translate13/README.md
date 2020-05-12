@@ -1,3 +1,35 @@
+# [ 기초영어회화 ] "무슨 이유에서인지", "최근에 더 심해졌어" , "될 때도 있고 안될 때도 있어"
+```java
+A: My phone keeps losing connection for some reason.
+It has gotten worse lately.
+무슨 이유에서인지 스마트폰이 연결이 계속 끊겨. 최근에 더 심해졌어.
+
+B: Have you tried restarting it?
+재시작 시켜봤어?
+
+A: You mean turning it off and on? Yeah, of course.
+Sometimes it works. Sometimes it doesn't.
+껐다가 키는거 말하는거야? 물론이지. 될 때도 있고 안될 때도 있어.
+
+B: Well, maybe it's time for you to get a new phone.
+너가 스마트폰을 바꿀 때가 된건지도 모르겠다.
+
+```
+
+# [ 영어 대화가이드 ] "think through" / "이걸 어쩌지?" / "미리미리 계획을 세우다"
+```java
+[KOR]
+A: 아 ~ 미리 생각을 좀 할 걸. 이걸 다 어떻게 해야 할지도 모르겠네.
+B: 맞아. 미리 계획하고 하지 않으면 원래 그렇게 돼.
+
+[ENG]
+A: Oh man! I should've thought this through. I don't even know what I'm going to do with all this.
+B: Yeah. That's what happens when you don't plan ahead.
+```
+* think through 무엇 or think 대명사 through
+* -하면 -게 된다; That's what happens when -; 공식에 가까운 일반적인 사실
+* That's what you get for; 인과응보다; 너가 이렇게 된 데에는 이유가 있다.
+
 # [ 기초 영어 연습가이드 ] "난 왜 이럴 생각을 못했지?" , "진작 너한테 물어볼걸" // if 가정법
 ```java
 [KOR]
