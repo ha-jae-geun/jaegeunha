@@ -3,7 +3,8 @@
   * 이진트리는 balanced binary tree(높이 1 이하로 균형을 이루는 트리), unbalanced binary tree로 나눠진다.
   * 균형을 먖추기 위해 나온 AVL 트리
     * 회전을 자주하는 AVL을 대신하여 Red-Black tree 등장
-* 이진트리는 하나의 부모노드가 가지는 자식노드가 최대 2개 제한(non binary tree: B-)
+     * 데이터의 양에 따라 비교해야 할 높이가 계속 높아진다. 왜냐하면 이진트리는 하나의 부모노드가 가지는 자식노드가 최대 2개 제한되어있기 때문이다.
+      * 그래서 (non binary tree: B-) 가 등장한다.
 
 # Binary Tree
 
