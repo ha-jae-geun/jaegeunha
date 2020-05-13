@@ -101,6 +101,9 @@ and e2.eanme = 'Smith'
 - serveroutput OFF
 - SQL> set serveroutput on
 
+# exist
+* 서브쿼리가 적어도 하나의 행을 돌려주면 True
+
 # in 과 any 차이
 - in은 비교대상 필요 없고 any는 비교대상 필요
 - any 연산자는 메인 쿼리의 비교 조건이 서브 쿼리의 검색 결과와 하나 이상만 일치하면 참이다.
