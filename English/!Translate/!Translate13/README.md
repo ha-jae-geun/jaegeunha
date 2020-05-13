@@ -1,3 +1,22 @@
+# [ 영어 대화가이드 ] 거기랑 얘기는 어떻게 됐어? / 그게 어디야 / 일정을 조정해볼게 / 내일까지 답을 달래
+```java
+[KOR]
+A: 이사짐 회사랑 얘기는 어떻게 됐어? 날짜 앞당길 수 있대?
+B: 응. 근데 가장 빠른게 22일이래. 너랑 먼저 확인해봐야 된다고 말했어.
+A: 아, 그래, 뭐 그렇게라도 되서 다행이네. 내가 일정을 좀 조정해볼게.
+B: 아, 그리고 내일까지는 답을 달래.
+
+[ENG]
+A: How did it go with the moving company? Can we get our date moved up?
+B: Yeah, but they said the best they can do is the 22nd. I told them I would need to check with you first.
+A: Oh, OK. Well, I guess that's better than nothing. I'll see if I can move things around.
+B: Oh, and they need an answer by tomorrow.
+```
+* How did it go with: 어떻게 됐어?
+* 이삿짐 회사: moving company
+* 날짜 앞당길 수 있대?  Can we get our date moved up?
+* 내가 일정을 좀 조정해볼게. I'll see if I can move things around.
+
 # [ 기초영어회화 ] "무슨 이유에서인지", "최근에 더 심해졌어" , "될 때도 있고 안될 때도 있어"
 ```java
 A: My phone keeps losing connection for some reason.
