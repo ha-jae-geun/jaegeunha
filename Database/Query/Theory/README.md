@@ -200,3 +200,16 @@ decode(gender, 'boy', '남', 'girl', '여', '혼성')
 * 조회 용도의 select되는 데이터 건이 많지 않고 값이 변하지 않는 데이터 즉 과거 매출 데이터 등의 집계/분석하는 쿼리에 RESULT CACHE 힌트를 사용하면 좋다.
 * 고려할 점은 캐시할 데이터의 사이즈가 커서 result_cache_max_size, result_cache_max_result 파라미터 값을 넘어간다면 캐싱 기능을 사용할 수 없다
 * DATA Dictionary 및 Temporary Table에 대한 쿼리 또는 시퀀스에 대한 CURVAL< NEXTVAL에 대한 쿼리는 캐시되지 않는다.
+
+
+
+# Union과 Union ALl 차이
+* Union은 합집합을 구했을 때 교집합이 되는 부분을 Distinct를 해서 하나의 row로 출력해주는 명령어
+* Union All은 말 그대로 교집합 부분도 가감없이 모두 출력해주는 명령어
+
+## Union All를 사용해야 할 때
+* union은 Sort 연산을 발생시키는 명령어이기 때문에 굳이 중복값을 제고하지 않아도 되는 상황 PK 컬럼이 잉써서 row의 유니크함이 보장되는 상황일 떄는 Union ALl을 사용하는 것이 좋다.
+
+## Union 처럼 sort 명령어를 사용하는 명령어
+* 
+
