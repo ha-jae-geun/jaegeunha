@@ -1,3 +1,19 @@
+# [ 기초영어회화 ] 저는 사람 이름을 잘 기억 못해요 😅
+```java
+저는 (사람) 이름을 잘 기억 못해요. 
+어학원에서 학생들을 가르칠 때 학생들의 이름을 자주 혼동했어요. 
+학생들의 이름을 맞게 기억하는 데는 시간이 좀 걸렸어요.
+
+[ENG]
+I'm not very good at remembering names. 
+When I taught students at language institutes, I often got the students' names mixed up. 
+It usually took me a while to remember their names correctly.
+```
+* 저는 (사람) 이름을 잘 기억 못해요.  I'm not very good at remembering names. 
+* 학생들의 이름을 자주 혼동했어요.  I often got the students' names mixed up. 
+ * get something mixed up
+* 날짜를 혼동했어; i got the dates mixed up
+
 # [ 영어 대화가이드 ] 거기랑 얘기는 어떻게 됐어? / 그게 어디야 / 일정을 조정해볼게 / 내일까지 답을 달래
 ```java
 [KOR]
@@ -16,6 +32,10 @@ B: Oh, and they need an answer by tomorrow.
 * 이삿짐 회사: moving company
 * 날짜 앞당길 수 있대?  Can we get our date moved up?
 * 내가 일정을 좀 조정해볼게. I'll see if I can move things around.
+* 사춘기를 겪고있어요; They are going through puberty
+ * 변성기에요 ;Their voices are getting deeper
+ * 갱년기에요; I'm going through menopause
+* 소프트 아이스크림 Soft serve
 
 # [ 기초영어회화 ] "무슨 이유에서인지", "최근에 더 심해졌어" , "될 때도 있고 안될 때도 있어"
 ```java
