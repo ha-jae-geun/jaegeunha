@@ -223,6 +223,125 @@ System.out.println(i);
 }
 ```
 
+## HashMap Iterator
+```java
+Map인터페이스를 구현한 컬렉션 클래스도 iterator()를 사용할 수 있다. 하지만 키(key)와 값(value)을 쌍으로 저장하고 있기
+때문에 iterator()를 직접 호출할 수 없고, 그 대신 keySet(), entrySet()과 같은 메서드를 통해서 
+키와 값을 각각 따로 Set의 형태로 얻어온 후 다시 iterator()를 호출해야만 Iterator를 얻을 수 있다.
+
+Map map = new HashMap();
+Iterator iterator = map.keySet().iterator();
+Java
+Iterator 예제 1
+public class IteratorEx1 {
+    public static void main(String[] args) {
+        ArrayList list = new ArrayList();
+        list.add("1");
+        list.add("2");
+        list.add("3");
+        list.add("4");
+        list.add("5");
+
+        Iterator iterator = list.iterator();
+        while (iterator.hasNext()) {
+            Object obj = iterator.next();
+            System.out.println(obj);
+        }
+    }
+}
+Java
+1
+2
+3
+4
+5
+None
+List클래스들은 저장순서를 유지하기 때문에 Iterator를 이용해서 읽어온 결과 역시 저장순서와 
+동일하지만 Set클래스의 경우는 각 요소간의 순서가 유지되지 않기 때문에 Iterator를 이용해서 
+저장된 요소들을 읽어오더라도 처음 저장한 순서와 동일하지 않다.
+```
+
+## ListIterator
+```java
+3. ListIterator, Enumeration
+Enumeration : Iterator의 구버전
+ListIterator : Iterator에 양방향 조회기능 추가(List인터페이스를 구현한 경우만 사용가능)
+ListIterator 예제 1
+public class ListIteratorEx1 {
+    public static void main(String[] args) {
+        ArrayList list = new ArrayList();
+        list.add("1");
+        list.add("2");
+        list.add("3");
+        list.add("4");
+        list.add("5");
+
+        ListIterator listIterator = list.listIterator();
+
+        while (listIterator.hasNext()) {
+            // 순반향으로 진행하면서 읽어옴
+            System.out.println(listIterator.next());
+        }
+        System.out.println();
+
+        while (listIterator.hasPrevious()) {
+            // 역방향으로 진행하면서 읽어옴
+            System.out.println(listIterator.previous());
+        }
+        System.out.println();
+    }
+}
+
+Iterator는 단방향으로만 이동하기 때문에 컬렉션의 마지막 요소에 다다르면 더이상 사용할 수 없다.
+ListIterator는 양방향으로 이동하기 때문에 각 요소간의 이동이 자유롭다.
+이동하기 전에는 반드시 hasNext()나 hasPrevious()를 호출해서 이동할 수 있는지를 확인해야한다.
+Iterator 예제 2
+public class IteratorEx2 {
+    public static void main(String[] args) {
+        ArrayList original = new ArrayList(10);
+        ArrayList copy1 = new ArrayList(10);
+        ArrayList copy2 = new ArrayList(10);
+
+        for (int i = 0; i < 10; i++)
+            original.add(i +"");
+
+        Iterator iterator = original.iterator();
+
+        while (iterator.hasNext())
+            copy1.add(iterator.next());
+
+        System.out.println("original에서 copy1으로 복사");
+        System.out.println("original : " + original);
+        System.out.println("copy1 : " + copy1);
+        System.out.println();
+
+        // Iterator는 재사용이 안되기 때문에 다시 얻어와야함
+        iterator = original.iterator();
+
+        while (iterator.hasNext()) {
+            copy2.add(iterator.next());
+            iterator.remove();
+        }
+
+        System.out.println("original에서 copy2으로 이동");
+        System.out.println("original : " + original);
+        System.out.println("copy2 : " + copy2);
+    }
+}
+
+original에서 copy1으로 복사
+original : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+copy1 : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+original에서 copy2으로 이동
+original : []
+copy2 : [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+None
+Iterator의 remove()는 단독으로 쓰일 수 없고, next()와 같이 써야한다.
+특정위치의 요소를 삭제하는 것이 아니라 읽어온 것을 삭제한다.
+만약 next()의 호출 없이 remove()를 호출하면 IllegalStateException이 발생한다.
+```
+
 # Set
 * HashSet
 * TreeSet
