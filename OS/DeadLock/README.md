@@ -217,6 +217,11 @@
 	2. 우선 순위가 낮은 프로세스, 수행된 횟수가 적은 프로세스 등을 위주로 프로세스의 자원을 선점한다.
 
 
+## Checkpoint-restart method
+	* 프로세스의 수행 중 특정 지점마다 context를 저장
+	* Rollback을 위해 사용
+		* 프로세스 강제 종료 후, 가장 최근의 checkpoint에서 재시작
+
 ## Avoidance와 Detection의 차이
 ### Deadlock avoidance
 * 최악의 경우를 생각(앞으로 일어날 일을 고려)
