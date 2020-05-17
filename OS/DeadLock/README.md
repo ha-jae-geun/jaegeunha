@@ -160,14 +160,68 @@
 	- 출처: https://jwprogramming.tistory.com/12 [개발자를 꿈꾸는 프로그래머]
 
 
+	* Graph reduction
+		* 주어진 RAG에서 edge를 하나씩 지워가는 방법
+			1. Unblocked process에 연결 된 모든 edge를 제거
+			2. 더 이상 unblocked process가 없을 때 까지 1번 반복
+			3. 최종 그래프에서 모든 edge가 제거되었으면 현재 상태에서 deadlock이 없음
+			3. 일부 edge가 남았으면(irreducible) 현재 deadlock이 존재
+		* Unblocked process
+			* 필요한 자원을 모두 할당 받을 수 있는 프로세스
+		1. Completely reduced
+			* 모든 edge가 제거됨
+			* Deadlock에 빠진 프로세스가 없음
+		2. Irreducible
+			* 지울 수 없는 edge가 존재
+	
+	* Graph Reduction 단점
+		* High overhead
+			* 검사 주기에 영향을 받음
+			* Node의 수가 많은 경우
+* 하나 이상의 프로세스가 deadlock 상태
+
+
 4. < 교착 상태로부터 회복 (Recovery) >
 - 교착 상태를 일으킨 프로세스를 종료하거나, 할당된 자원을 해제함으로써 회복하는 것을 의미한다.
 - 프로세스를 종료하는 방법
 	1. 교착 상태의 프로세스를 모두 중지
 	2. 교착 상태가 제거될 때까지 한 프로세스씩 중지
 
+* Termination cost model
+	* 종료시킬 deadlock 상태의 프로세스 선택
+	* 우선순위, 종류, 총 수행시간, 남은 수행 시간, 종료 비용
+
+	1. Lowest-termination cost process first
+		* 간단하다
+		* low overhead
+		* 불필요한 프로세스들이 종료 될 가능성이 높다
+	2. Minimum cost recovey
+		* 최소 비용으로 deadlock 상태를 해소할 수 있는 process 선택
+			* 모든 경우의 수를 고려해야 한다.
+		* 복잡하다
+		* High overhead
+			* O(2^k)
+* Resource preemption
+	* deadlock 상태 해결을 위해 선점할 자원을 선택한다.
+	* 해당 자원을 가지고 있는 프로세스를 종료시킨다.
+		* Deadlock 상태가 아닌 프로세스가 종료될 수 있다.
+		* 해당 프로세스는 이후 재시작된다.
+	
+	* 서넘할 자원을 선택
+		* preemption cost model이 필요하다.
+		* Minimum cost recovery method 사용
+			* O(r)
 
 - 자원을 선점하는 방법
 	1. 교착 상태의 프로세스가 점유하고 있는 자원을 선점하여 다른 프로세스에게 할당하며, 해당 프로세스를 일시 정지 시키는 방법
 	2. 우선 순위가 낮은 프로세스, 수행된 횟수가 적은 프로세스 등을 위주로 프로세스의 자원을 선점한다.
 
+
+## Avoidance와 Detection의 차이
+### Deadlock avoidance
+* 최악의 경우를 생각(앞으로 일어날 일을 고려)
+* Deadlock이 발생하지 않음
+
+### Deadlock detection
+* 최선의 경우를 생각(현재 상태만 고려)
+* Deadlock 발생 시 Recovery 과정이 필요
