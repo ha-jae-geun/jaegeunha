@@ -1,3 +1,25 @@
+# [ 기초영어회화 ] "결혼했다고요? 전혀 유부(남/녀)으로 안보였어요!"
+```java
+A: 결혼하신 줄 몰랐어요!
+B: 아, 제가 말 안했었나요?
+A: 아니오, 안한 것 같은데.
+B: 네. 결혼한지 거의 8년 됐어요. 와 그렇게 오래 됐나?
+A: 와, 전혀 몰랐어요. 전혀 유부남으로 보이지 않았어요. 물론, 나쁜 의미로 하는 말은 아니고요.
+B: 괜찮아요. 사실 듣기 좋은 얘긴데요.
+
+[ENG]
+A: I didn't know you were married!
+B: Oh, didn't I mention it?
+A: No, I don't think so.
+B: Yeah, I've been married for almost 8 years. Wow, has it been that long?
+A: Wow, I had no idea! You never struck me as a married man. I don't mean that in a bad way, of course.
+B: That's OK. that's actually nice to hear.
+
+```
+* i didn't know; 아이리린 노우
+* 내가 리아한테 그거 사라고 구슬려볼게; i'll talk Leah into buying it; talk into
+* 내가 걔한테 결혼하지 말라고 할게; i'll talk her out of marrying him; talk out of
+
 # [ 기초영어회화 ] 저는 사람 이름을 잘 기억 못해요 😅
 ```java
 저는 (사람) 이름을 잘 기억 못해요. 
