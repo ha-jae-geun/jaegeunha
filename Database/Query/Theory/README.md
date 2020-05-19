@@ -209,12 +209,7 @@ decode(gender, 'boy', '남', 'girl', '여', '혼성')
 
 
 
-# HINT
-## result cache
-* 쿼리 결과를 캐싱하라는 힌트이다.
-* 조회 용도의 select되는 데이터 건이 많지 않고 값이 변하지 않는 데이터 즉 과거 매출 데이터 등의 집계/분석하는 쿼리에 RESULT CACHE 힌트를 사용하면 좋다.
-* 고려할 점은 캐시할 데이터의 사이즈가 커서 result_cache_max_size, result_cache_max_result 파라미터 값을 넘어간다면 캐싱 기능을 사용할 수 없다
-* DATA Dictionary 및 Temporary Table에 대한 쿼리 또는 시퀀스에 대한 CURVAL< NEXTVAL에 대한 쿼리는 캐시되지 않는다.
+
 
 
 
