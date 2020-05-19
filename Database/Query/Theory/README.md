@@ -15,6 +15,37 @@
 - 더블 질의어: 2개의 테이블 이상 통해서 질의(조인을 사용)
 
 
+# 복사하기
+* Create table 테이블명 as select * from 복사할 테이블 이름
+* 이때 테이블 속성값은 복사되지 않는다.
+  * 테이블 속성값: 기본키, 외래키, 인덱스
+
+# delete
+# truncate
+* delete는 로그 남기며 삭제하고 truncate는 로그 단위를 남기지 않고 삭제한다.
+* 로그 단위를 남기지 않고 삭제하면 삭제가 빠르지만 Rollback을 할 수 없다.
+
+# trim
+- 윈도우 특성상 값의 양쪽에
+
+## replace
+- 양쪽의 공백만 없앨 수 있는 trim 말고 가운데 공백 없애기 위해 replace 사용.
+- select replace(loc, ‘ ‘, ‘’) from dept
+
+## translate
+- translate(column1|expression1, string1, string2) 함수는 인자인 컬럼이나 표현식에 특정 문자열을 대체하는 함수로 string1 string2 . 문자열을 문자열로 대체한다
+- select translate(loc, ‘ ‘, ‘’) from dept
+- TRANSLATE의 경우도 대체문자열이 지정되지 않으면 지정된 문자는 삭제되어 리턴됩니다. 이것 역시 대체문자가 null이라고 생각하시면 될것 같습니다. 
+
+### replace와 translate 차이
+- REPLACE와 TRANSLATE의 차이점은 문자열 단위, 문자단위의 차이이다.
+- SELECT TRANSLATE('a1a2a3a4a5','a','A') FROM DUAL;
+- ->결과 : A1A2A3A4A5
+- SELECT REPLACE('a1b2c4','a1','BB') FROM DUAL;
+- -> 결과는 a1을 BB로 대체해 'BBb2c4'가 나온다
+
+
+
 
 # 리터럴
 - ⎼문자와 날짜 리터럴은 반드시 단일 따옴표(‘) . 를 사용하지만 숫자 상수는 단일 따옴표를 사용하지 않아도 된다 
@@ -169,25 +200,6 @@ decode(gender, 'boy', '남', 'girl', '여', '혼성')
 - 대용량 데이터베이스에서 위험성 때문에 사용하지 않는다.
 - 테이블에 대한 이벤트에 반응하여 자동으로 실행되는 작업을 말합니다. 여기서 이벤트는 특정 행이나 속성 전체에 INSERT, UPDATE, DELETE 가 발생할 때는 말합니다.
 
-
-# trim
-- 윈도우 특성상 값의 양쪽에
-
-## replace
-- 양쪽의 공백만 없앨 수 있는 trim 말고 가운데 공백 없애기 위해 replace 사용.
-- select replace(loc, ‘ ‘, ‘’) from dept
-
-## translate
-- translate(column1|expression1, string1, string2) 함수는 인자인 컬럼이나 표현식에 특정 문자열을 대체하는 함수로 string1 string2 . 문자열을 문자열로 대체한다
-- select translate(loc, ‘ ‘, ‘’) from dept
-- TRANSLATE의 경우도 대체문자열이 지정되지 않으면 지정된 문자는 삭제되어 리턴됩니다. 이것 역시 대체문자가 null이라고 생각하시면 될것 같습니다. 
-
-### replace와 translate 차이
-- REPLACE와 TRANSLATE의 차이점은 문자열 단위, 문자단위의 차이이다.
-- SELECT TRANSLATE('a1a2a3a4a5','a','A') FROM DUAL;
-- ->결과 : A1A2A3A4A5
-- SELECT REPLACE('a1b2c4','a1','BB') FROM DUAL;
-- -> 결과는 a1을 BB로 대체해 'BBb2c4'가 나온다
 
 
 
