@@ -7,6 +7,20 @@
 # HASH 
 
 
+# Self Join
+* 자기자신 테이블과 조인을 하는 경우
+* 같은 테이블을 두 번 사용하므로 테이블 별칭을 반드시 사용해야 한다.
+* 특별한 경우로 ㅎ나 테이블의 외래키칼럼이 자기 자신 테이블의 주키를 참조하는 경우 이용하게 된다.
+* emp 테이블의 MGR 칼럼은 외래키로서 자기자신 테이블 EMP의 EMPNO를 참조한다.
+
+
+## 서브 쿼리 사용 말고 Self Join 사용할 때
+```SQL
+select e1.ename
+from emp e1, emp e2
+where e1.deptno = e2.deptno
+and e2.eanme = 'Smith'
+```
 
 
 # Union과 Union ALl 차이
