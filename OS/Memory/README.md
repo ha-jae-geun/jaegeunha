@@ -91,6 +91,7 @@
 ## Uniprogramming 문제점
 1. 프로그램의 크기 > 메모리 크기
 2. 커널 보호
+	* 프로그램을 올릴 때 커널을 침범하여 올리면 안된다.
 3. Low system resource utilization / Low System perfomance
 
 ## 해결법
