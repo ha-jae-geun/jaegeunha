@@ -17,3 +17,16 @@ SqlSessionTemplate은 마이바티스의 디폴트 구현체인 DefaultSqlSessio
 
 SqlSessionTemplate은 생성자 인자로 SqlSessionFactory를 사용해서 생성될 수 있다.
 ```
+
+## SelectList
+```java
+- selectOne
+
+쿼리의 결과가 없으면 null을 반환한다. 또한, 쿼리의 결과로 레코드가 하나만 나와야 한다.
+DB에 하나의 레코드만 있는 경우 사용. 그렇지 않으면 org.mybatis.spring.MyBatisSystemException: nested exception is org.apache.ibatis.exceptions.TooManyResultsException 이 발생한다.
+- selectList
+
+쿼리의 결과를 List<E>로 반환한다. 결과가 없으면, 빈 List를 반환한다.
+selectList()가 null을 반환하지는 않는다.
+
+```
