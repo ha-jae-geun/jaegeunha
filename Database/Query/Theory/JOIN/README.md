@@ -209,6 +209,127 @@ where e1.deptno = e2.deptno
 and e2.eanme = 'Smith'
 ```
 
+# 드라이빙 테이블
+```JAVA
+TABLE에 대한 JOIN시 먼저 ACCESS되서 ACCESS PATH를 주도하는
+
+TABLE을 DRIVING TABLE이라 한다.
+
+DRIVING TABLE로 결정되는 것은 INDEX의 존재 및 우선순위 혹은
+
+FROM절에서의 TABLE지정순서에 영향을 받으며 어느 TABLE이 먼저
+
+ACCESS되느냐에 따라 속도의 차이가 크게 날 수 있으므로 매우
+
+중요하다. 기본적으로 대상 TABLE의 행 중 작업대상이 되는 행의 수 가
+
+적은 쪽이 먼저 ACCESS되어야 전체 일 양이 줄어든다. Driving table의
+
+결정 규칙은 다음과 같다.
+
+
+
+. JOIN 되는 컬럼의 한쪽에만 INDEX가 있는 경우는 INDEX가 지정된
+
+TABLE이 DRIVING TABLE이 된다.
+
+
+
+WHERE emp.deptno = dept.deptno 문장에서 dept.deptno에 index가 있는
+
+경우는 Dept 테이블이드라이빙 테이블이 된다.
+
+WHERE emp.deptno = dept.deptno 문장에서 emp.deptno에 index가 있는
+
+경우는 Emp 테이블이 드라이빙 테이블이 된다.
+
+
+
+WHERE emp.deptno = dept.deptno
+
+AND emp.empno=7788
+
+AND loc like 'Ca%'
+
+
+
+deptno, empno컬럼이 조합해서 인덱스 . loc와 deptno컬럼이 조합해서
+
+인덱스가 이루어져 있는경우 Dept 테이블이 드라이빙 테이블이 되고
+
+만일 인덱스가 empno와deptno컬럼이 조합해서 인덱스,
+
+deptno와loc컬럼이 조합해서 인덱스로 구성되어 있으면 Emp 테이블이
+
+드라이빙 테이블이 된다..조건절에 두 테이블 조인 조건외에 다른 비교
+
+조건이 지정된 경우 INDEX의 우선순위에 따라 먼저 수행된는 테이블이
+
+드라이빙 테이블이 된다.
+
+
+
+WHERE emp.deptno = dept.deptno
+
+AND emp.empno = 1166
+
+AND dept.loc like 'da%'
+
+emp.deptno, dept.deptno, empno,loc에 인덱스가 있는 경우는 empno와
+
+loc중 우선순위가 높은 empno 인덱스를 먼저 사용하여 검색한다. 만일
+
+이때 loc 라는 인덱스를 사용하고 싶으면 emp.empno=1166을
+
+rtrim(empno)=1166 로 바꾸어 사용하면 empno의 인덱스 사용을 억제할수
+
+있다.
+
+
+
+더욱 이해를 돕기위해 다음의 예를 살펴보자.
+
+DEPT.DEPTNO 컬럼에 Unique 인덱스
+
+LOC 컬럼에 Unique 인덱스
+
+EMP.JOB 과 EMP.ENAME 컬럼을 조합한 Unique Index
+
+EMP.DEPTNO 에 인덱스 가 있다고 가정하자
+
+
+
+WHERE d.deptno = e.deptno AND job='PRESIDENT'
+
+AND ename='KING' AND loc='NEW YORK'
+
+AND dname='ACCOUNTING' 의 문장 수행을 위한 내부적인 수행은 다음과 같다.
+
+
+
+만일 DEPT 테이블이 드라이빙 테이블이라면
+
+loc='NEW YORK'
+
+dname = 'ACCOUNTING'
+
+
+
+만일 EMP 테이블이 드라이빙 테이블이라면
+
+job= 'PRESIDENT'
+
+ename =' KING' 이다.
+
+
+
+즉 DEPT 테이블이 unique 인덱스 를 사용하고 EMP 테이블은 컬럼이
+
+조합된 unique 인덱스를 사용하므로 우선순위가 높은 DEPT 테이블이
+
+DRIVING TABLE이 된다.
+```
+
 
 # Union과 Union ALl 차이
 * Union은 합집합을 구했을 때 교집합이 되는 부분을 Distinct를 해서 하나의 row로 출력해주는 명령어
