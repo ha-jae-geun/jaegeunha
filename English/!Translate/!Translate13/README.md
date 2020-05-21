@@ -1,3 +1,18 @@
+# [ 영어 대화가이드 ] 긴장하는 사람 안심 시키기
+```java
+A: 내일 때문에 엄청 긴장되네
+B: 왜? 면접을 보는 것도 아닌데. 게다가 전에도 만나봤잖아.
+A: 응. 근데 저번처럼 내가 또 멍청한 소리를 할까봐 걱정이야.
+B: 긴장하지 마. 그쪽도 그냥 사람들일 뿐이야. 아마 너만큼이나 긴장하고 있을 걸? 그냥 평소 너대로 행동하면 괜찮을거야.
+
+[ENG]
+A: I'm so nervous about tomorrow.
+B: Why? It's not like they're interviewing you. Besides, you've met them before.
+A: Yeah. But I'm afraid I might say something really stupid like last time.
+B: Relax. They're just people. They're probably just as nervous as you. Just be yourself and you'll be fine.
+```
+* -것도 아니잖아; It's not like
+
 # [ 기초영어회화 ] "결혼했다고요? 전혀 유부(남/녀)으로 안보였어요!"
 ```java
 A: 결혼하신 줄 몰랐어요!
