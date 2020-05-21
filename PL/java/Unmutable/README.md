@@ -1,5 +1,6 @@
 # 불변객체
 * [불변객체](https://velog.io/@conatuseus/Java-Immutable-Object불변객체)
+* [변하지 않는 상태를 유지하는 ](https://evan-moon.github.io/2020/01/05/what-is-immutable/)
 ```java
 Immutable Object란?
 객체 지향 프로그래밍에 있어서 불변객체(immutable object)는 생성 후 그 상태를 바꿀 수 없는 객체를 말한다. 
