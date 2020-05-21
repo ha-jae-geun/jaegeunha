@@ -30,3 +30,25 @@ DB에 하나의 레코드만 있는 경우 사용. 그렇지 않으면 org.mybat
 selectList()가 null을 반환하지는 않는다.
 
 ```
+
+
+# XML
+```java
+- XML 파일 안에 명시되어 있는 CDATA Section이라고 불리는! [CDATA […]] 형식은
+
+꺽쇠(<)와 같은 특수기호를 처리한다.
+
+
+
+- jQuery나 그 외의 다른 XML 처리기능에서 CDATA Section을 지정하는 괄호는 
+
+없는 것처럼 인식하기 때문에 CDATA Section을 사용한다고 해서 
+
+jQuery의 XML 핸들러에 추가적인 처리가 요구되는 것은 아니다.
+
+
+
+- CDATA Section은 특수기호 뿐만 아니라 한글을 포함한 문자열 데이터에 사용할 수 있다.
+
+
+```
