@@ -114,6 +114,7 @@
 * Internal/external fragmentation
 
 
+
 # 단편화
 ```JAVA
 메모리 단편화
@@ -208,6 +209,54 @@
 - 사용되던 메모리가 해제되어 메모리 풀로 돌아올 경우 헤더 포인터는 그 블록을 가리키고 
 방금 전까지 헤더 포인터가 가리키던 블록을 돌아온 블록의 다음 포인터가 가리키게 한다.
 ```
+
+
+
+
+# Variable Partition Multipprogramming
+* Continuous Memory Allcation
+* 초기에는 전체가 하나의 영역
+* 프로세스를 처리하는 과정에서 메모리 공간이 동적으로 분할
+* no internal fragmentation
+
+## 배치 전략(Placement strategies)
+## 최초 적합(First-fit)
+* 충분한 크기를 가진 첫 번째 Partition을 선택
+* simple and low overhead
+* 공간 활용률이 떨어질 수 있다.
+
+## 최적 적합(Best-fit)
+* Process가 들어갈 수 있는 partition 중 가장 작은 곳 선택
+* 탐색 시간이 오래 걸림, 모든 partition을 살펴봐야 함
+* 크기가 큰 partition을 유지할 수 있음
+* 작은 크기의 partition이 많이 발생
+	* 활용하기 너무 작다.
+	
+## 최악 적합(Worst-fit)
+* process가 들어갈 수 있는 파지션 중 가장 큰 곳 선택
+* 탐색 시간이 오래 걸림(모든 파티션을 살펴봐야 함)
+* 작은 크기의 파티션 발생을 줄일 수 있음
+* 큰 크기의 파티션 확보가 어려움
+
+## 순차 최초 적합(Next-fit)
+* 최초 적합 전략과 유사
+* Stable table에서 마지막으로 탐색한 위치부터 탐색
+* 메모리 영역의 사용 빈도 균등화
+* Low Overhead
+
+## 공간 통합(Coalescing holes)
+* 인접한 빈 영역을 하나의 파티션으로 통합
+* 프로세스가 메모리를 release하고 나가면 수행
+* low overhaead
+
+## 메모리 압축(Storage Compaction)
+* 모든 빈 공간을 하나로 통합
+* 프로세스 처리에 필요한 적재 공간 확보가 필요할 때 사용(한쪽에 모아둠)
+* High overhead
+	* 모든 프로세스 재배치(이때 프로세스 중지)
+	* 많은 시스템 자원을 
+
+
 
 
 # 비연속할당
