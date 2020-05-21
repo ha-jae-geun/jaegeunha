@@ -54,8 +54,30 @@ UDP - 비 신뢰성, 비 연결지향성 프로토콜, Connection-less(연결을
 * 현재 포트 활성 여부를 나타내는 활성 연결 테이블
 * nentstat -ano
 
+
+
+
+# UDP 프로토콜(User/Universal Datagram Protocol)
+* 사용자 데이터그램 프로토콜은 유니버셜 데이터그램 프로토콜이라고 일컫기도 한다.
+* UDP의 전송 방식은 너무 단순해서 서비스의 신뢰성이 낮고, 데이터그램 도착 순서가 바뀌거나, 중복되거나 심지어는 통보 없이 누락시키기도 한다.
+* UDP는 일반적으로 오류의 검사와 수정이 필요 없는 프로그램에서 수행할 것으로 가정한다.
+* 용량이 큰 파일은 UDP로 전송하지 않는다.
+
+## UDP 프로토콜 구조
+* 소스 포트(2) + Destination Port(2) + Length(2) + CheckSUm(2)
+
+## DNS 서버
+* UDP 프로토콜을 사용하는 대표적인 프로그램
+* 도메인을 물으면 IP를 알려주는 서버
+
+## tftp 서버
+* UDP로 파일을 공유하는 서버
+
+## RIP 프로토콜
+* 라우팅 정보를 공유하는 프로토콜
+
+## HTTP3
+* [Http3.0](https://github.com/ha-jae-geun/jaegeunha/blob/master/network/HTTP/README.md)
+
 # TCP 프로토콜
 * 안전한 연결을 지향하는 프로토콜
-
-
-# UDP 프로토콜
