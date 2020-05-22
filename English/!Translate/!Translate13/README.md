@@ -1,3 +1,13 @@
+# 1일1단어18 - 침대에 누어서 하는 백허그 - 영어표현
+* 누워있는데 백허그해서 안아주다; He spooned me
+ * 서있을 때 백허그; he hug me from behind
+
+# [ 기초영어회화 ] 먹어본 중에 가장 맛있는 피자 / 본 영화 중에 가장 재밌었다
+* I saw a movie yesterday and it was the best movie i've seen
+* This is the best pizza i've ever had
+* THis is the best pizza i've had recently
+* This is the spiciest pizza i've ever had
+
 # [ 영어 대화가이드 ] 긴장하는 사람 안심 시키기
 ```java
 A: 내일 때문에 엄청 긴장되네
