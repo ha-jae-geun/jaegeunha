@@ -40,3 +40,52 @@ HTML언어는 서버로부터 HTML문서를 보여주는 역할만 할 뿐이기
 * 자바스크리비트는 웹 브라우저가 처리하는 언어
 * PHP는 서버쪽에서 실행되는 언어이다.
   * 웹 서버는 PHP 파일을 읽으면 PHP 인터프리터/PHP 엔진에게 파일 처리를 위임한다.
+
+
+* 자바 스크립트: 
+* PHP
+
+# 문자열
+
+## 문자 연결 연산자
+* 자바 스크립트: + 
+* PHP: .
+
+
+# 출력
+* 자바 스크립트: document.write("") 
+* PHP: echo
+
+# 참 거짓
+* 자바 스크립트: 
+* PHP: var_dump(boolean 값)
+
+
+# 변수
+* 자바 스크립트: 변수 
+* PHP: $변수값
+
+# form 값 받기
+* 자바 스크립트: 
+* PHP: $_GET("변수값");
+
+
+# 배열
+* 자바 스크립트: 
+ * list = new Array("one", "two", "three");
+ * list[0]
+* PHP
+ * $list = array("one", "two", "three");
+ * $list[0]
+
+
+## 배열 길이
+* 자바 스크립트
+ * list.length
+* PHP
+ * count($list)
+ 
+ 
+ # 함수
+ * function function_name(){ }
+ * 호출: function_name()
