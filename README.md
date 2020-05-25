@@ -24,7 +24,12 @@
 # 깃 처음 설정
 * git bash 설치
 * git config --global user.name "이름"  // 아이디가 아닌 계정 이름
+	* - git config --global --unset-all user.name // 로그아웃
+	* git config user.name // 확인
 * git config --global user.email "깃허브 메일주소" // 매번 물어보는 귀찮음을 피하기 위해 설정. 
+	*  git config --global --unset-all user.email // 로그아웃
+	* git config user.email 확인
+* - git config --system --unset-all credential.helper
 * mkdir ~/MyProject   // 로컬 디렉토리 만들고
 * cd ~/myproject      // 디렉토리로 들어가서
 * git init            // 깃 명령어를 사용할 수 있는 디렉토리로 만든다.
