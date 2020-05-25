@@ -1,3 +1,19 @@
+# [ 영어 연습가이드 ] "지금은 생각이 많이 달라졌어요."
+```java
+KOR]
+게임 산업이 영화와 음악 산업을 합친 것의 거의 두 배 크기라는 것을 최근에 알게 됐는데 
+그 후로 게임에 대해서 완전히 다른 관점에서 생각을 하게 됐어요. 
+예전에는 게임은 그냥 완전 시간 낭비라고만 생각했었는데
+지금은 생각이 많이 달라졌어요.
+
+[ENG]
+I recently learned that the video game industry is nearly twice the size of the film and music industry combined. 
+And that really got me thinking about video games from a different perspective. 
+I used to think that video games were just a total waste of time
+but I actually feel very differently about it now.
+```
+* 
+
 # 1일1단어18 - 침대에 누어서 하는 백허그 - 영어표현
 * 누워있는데 백허그해서 안아주다; He spooned me
  * 서있을 때 백허그; he hug me from behind
