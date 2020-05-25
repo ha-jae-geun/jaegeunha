@@ -1,4 +1,38 @@
 ## [정아마추어](https://jeong-pro.tistory.com/94?category=793347)
+# 잠금
+```java
+복수의 트랜잭션을 사용하다보면 교착상태가 일어날수 있다. 교착상태란 두 개 이상의 
+트랜잭션이 특정 자원(테이블 또는 행)의 잠금(Lock)을 획득한 채 다른 트랜잭션이 소유하고 
+있는 잠금을 요구하면 아무리 기다려도 상황이 바뀌지 않는 상태가 되는데, 이를 교착상태라고 한다.
+
+교착상태의 예(MySQL)
+MySQL MVCC에 따른 특성 때문에 트랜잭션에서 갱신 연산(Insert, Update, Delete)를 실행하면
+잠금을 획득한다. (기본은 행에 대한 잠금)
+
+classic deadlock 출처: https://darkiri.wordpress.com/tag/sql-server/
+
+트랜잭션 1이 테이블 B의 첫번째 행의 잠금을 얻고 트랜잭션 2도 테이블 A의 첫번째 행의 잠금을 얻었다고 하자.
+
+Transaction 1> create table B (i1 int not null primary key) engine = innodb;
+Transaction 2> create table A (i1 int not null primary key) engine = innodb;
+
+Transaction 1> start transaction; insert into B values(1);
+Transaction 2> start transaction; insert into A values(1);
+트랜잭션을 commit 하지 않은채 서로의 첫번째 행에 대한 잠금을 요청하면
+
+Transaction 1> insert into A values(1);
+Transaction 2> insert into B values(1);
+ERROR 1213 (40001): Deadlock found when trying to get lock; try restarting transaction
+Deadlock 이 발생한다. 일반적인 DBMS는 교착상태를 독자적으로 검출해 보고한다.
+
+교착 상태의 빈도를 낮추는 방법
+트랜잭션을 자주 커밋한다.
+정해진 순서로 테이블에 접근한다. 위에서 트랜잭션 1 이 테이블 B -> A 의 순으로 접근했고, 
+트랜잭션 2 는 테이블 A -> B의 순으로 접근했다. 트랜잭션들이 동일한 테이블 순으로 접근하게 한다.
+읽기 잠금 획득 (SELECT ~ FOR UPDATE)의 사용을 피한다.
+한 테이블의 복수 행을 복수의 연결에서 순서 없이 갱신하면 교착상태가 발생하기 쉽다, 이 경우에는 
+테이블 단위의 잠금을 획득해 갱신을 직렬화 하면 동시성을 떨어지지만 교착상태를 회피할 수 있다.
+```
 
 # LOCK
 ```JAVA
