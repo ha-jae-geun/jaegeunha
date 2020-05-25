@@ -13,7 +13,15 @@
 # 깃
 * working copy ->(add) index/staging area ->(commit) repositories
 
-# Programming
+# 새 프로젝트 만들기
+1. repository 만들기(name, description, readme file, 이니셜라이즈)*
+2. git remote add origin 주소
+3. git pull origin master
+4. git add 
+5. git commit -m "initial"
+6. git push origin master
+
+# 깃 처음 설정
 * git bash 설치
 * git config --global user.name "이름"  // 아이디가 아닌 계정 이름
 * git config --global user.email "깃허브 메일주소" // 매번 물어보는 귀찮음을 피하기 위해 설정. 
