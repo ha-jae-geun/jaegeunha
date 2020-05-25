@@ -89,3 +89,13 @@ HTML언어는 서버로부터 HTML문서를 보여주는 역할만 할 뿐이기
  # 함수
  * function function_name(){ }
  * 호출: function_name()
+
+
+# 내장 객체
+* 파일 읽기
+ * echo file_get_contents(" ")
+ * echo file_get_contents($_GET['id'].".txt");
+* 값 읽기
+  * $_GET("변수값");
+* 값이 비었는지 확인
+ * if(empty($_GET['id]))
