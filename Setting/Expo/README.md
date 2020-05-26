@@ -76,4 +76,5 @@ expo start
 
 # 리액트
 * [react](https://react-native-elements.github.io/react-native-elements/)
-* npm install react-native-elements
+* cmd 내 프로젝트 리엑트 깔기(반드시 내 프로젝트)
+ * npm install react-native-elements
