@@ -32,7 +32,27 @@ expo start
 5. 안드로이드 스튜디오 설치하기
 6. Install Type custom
 7. ANDROID SDK 경로 설정하기  
-  
+ * Configure - Sytem Settings - Android SDK
+8. 빌드 설정
+ * Build - Build Tools - Gradle - C:\ANDROID_Avd_Gradle\gradle
+8. vmoptions 수정하기(직접 수정하면 안된다) 
+ 1. Android - Android Studoi - bin - studio64.exe vmoptions 복사
+ 2. configure - edit custom vm options에 붙여넣기
+9. 메모리 세팅
+ 1. configure - Appearance - System Settings - Memory Settings - 메모리 최대
+10. Properties 복사
+ 1. idea.properties 복사
+ 2. configure - custome properties에 붙여넣기
+11. 인코딩 설정
+ * Editor - File encodings에 UTF-8로 통일
+
+## 플러그인
+* 지니
+ 1. settings - plugins - genymotion - install로 설치
+ 2. view - toolbar에서 띄우기
+
+
+
 # Node JS
 * [expo](https://expo.io/learn)
 1. Download Node JS
@@ -45,3 +65,4 @@ expo start
 안드로이드 스튜디오에서도 기본 에뮬레이터를 제공해주지만,
 속도가 너무 느려서 사용하기 불편해, 지니모션을 많이 사용합니다.  
 ```
+* Settings - SDK 설정
