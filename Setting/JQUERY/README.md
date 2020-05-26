@@ -20,3 +20,9 @@
 
 ## jQuery 설정된지 확인
 - F12 후 js파일 폴더에 들어가있는지 Source에서 
+
+
+# JQUERY 라이브러리
+## Tern
+* 는 사용을 편안하게 하기 위한 플러그인으로 의 자동완성 기능을 지원하기 때문에 
+* Tern Eclipse IDE jQuery jQuery 자바스크립트 소스 개발에 아주 유용하며 를 따로 찾아보지 않아도 된다 API .
