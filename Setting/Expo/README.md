@@ -71,3 +71,9 @@ expo start
 속도가 너무 느려서 사용하기 불편해, 지니모션을 많이 사용합니다.  
 ```
 * Settings - SDK 설정
+
+
+
+# 리액트
+* [react](https://react-native-elements.github.io/react-native-elements/)
+* npm install react-native-elements
