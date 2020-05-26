@@ -32,7 +32,27 @@ selectList()가 null을 반환하지는 않는다.
 ```
 
 
-# XML
+# XML CDAT
+* 일단 CDATA가 무슨 뜻이냐 하면, 그것은 바로 'Character Data'. 즉, '문자 데이터'를 말하는 것입니다. 그런데 이 용어를 좀 더 정확하게 말하면 '(Unparsed) Character Data'. 즉, '파싱하지 않는 문자 데이터'라는 뜻입니다. 반대로, 파싱하는 문자 데이터는 'PCDATA'라고 부릅니다.
+```xml
+<b>, </b>, <strong> 이 세 개가 온데간데없습니다. 왜 그런 것일까요?
+
+이유는 간단합니다. XML 파서가 <description>...</description> 내용도 어김없이 파싱할 
+  대상으로 인식하기 때문입니다. 즉, 안에 있는 <b>와 <string>도 태그로 인식해 버려서 제대로 출력이 되지 않습니다.
+
+그러면, 이를 막으려면 어떻게 하면 될까요? HTML 태그라면 < 대신 &lt;, > 대신 &gt;를 쓰면 되겠지만
+  XML에서는 더 좋은 방법이 있습니다. 당연히 <description> 안의 내용은 파싱할 수 없게 만들면 됩니다.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <term>
+    <entry>볼드</entry>
+    <description><![CDATA[글씨를 굵은 글씨로 강조한다. <b>...</b> 태그를 사용한다. <b> 대신 <strong>을 사용해도 된다.]]></description>
+  </term>
+</dictionary>
+
+```
+
 ```java
 - XML 파일 안에 명시되어 있는 CDATA Section이라고 불리는! [CDATA […]] 형식은
 
@@ -51,4 +71,50 @@ jQuery의 XML 핸들러에 추가적인 처리가 요구되는 것은 아니다.
 - CDATA Section은 특수기호 뿐만 아니라 한글을 포함한 문자열 데이터에 사용할 수 있다.
 
 
+```
+
+```xml
+<select id="getBoardList" parameterType="Hashmap" resultType="hyeon.board.smboard.model.BoardVO">
+
+select * 
+	from (select rownum  rnum,num,name,subject,content, attached_file,answer_num,answer_lev,answer_seq,read_count,write_date
+			from (select * from jboard order by answer_num desc,answer_seq asc))
+<![CDATA[
+
+			where rnum>=${startArticleNum} and rnum<=${endArticleNum}
+
+]]>
+	order by rnum
+
+</select>
+```
+
+```xml
+<select id="getSearchTotalNum" parameterType="Hashmap" resultType="int">
+<![CDATA[
+
+select count(*) from jboard
+
+]]>
+
+<where>
+	<if test ="keyword != null and type.equals('all')">
+	 (subject like '%${keyword}%' ) or ( name like '%${keyword}%') or ( content like '%${keyword}%')
+	</if>
+	
+	<if test ="keyword != null and type.equals('name')">
+	and (name like '%${keyword}%' )
+	</if>
+	
+	<if test ="keyword != null and type.equals('subject')">
+	and (subject like '%${keyword}%' ) 
+	</if>
+	
+	<if test ="keyword != null and type.equals('content')">
+	and (content like '%${keyword}%' ) 
+		</if>
+</where>
+
+
+</select>
 ```
