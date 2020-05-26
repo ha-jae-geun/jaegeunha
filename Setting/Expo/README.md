@@ -1,4 +1,5 @@
 # 순서
+0. 안드로이드 스튜디오
 1.  [expo](https://expo.io/learn)
 2. nodeJS [expo](https://expo.io/learn)
 3. [지니모션](https://park0422.tistory.com/5)
@@ -19,7 +20,20 @@ expo start
 3. 앱을 베포했을 때, 업데이트 하고 있을 때 유저에게 업데이트를 하게끔 유도하는 등 프로세스가 많다.
   * 전체앱을 앱스토어에 올리는 것이 아니라 expo client에게 push한다.
   
-# 설정
+  
+# 안드로이드 스튜디오
+1. 안드로이드 스튜디오 다운로드(Open JDK 사용)
+2. Android SDK 폴더 만들기
+ * 기본으로 하면 숨김파일 APPDATA에 저장됨
+ * C:\Android_SDK에 설치
+3. 환경변수 폴더 만들기
+ * C:\ANDROID_Avd_Gradle
+4. ANDROID_SDK_HOME 환경변수 추가
+5. 안드로이드 스튜디오 설치하기
+6. Install Type custom
+7. ANDROID SDK 경로 설정하기  
+  
+# Node JS
 * [expo](https://expo.io/learn)
 1. Download Node JS
 
