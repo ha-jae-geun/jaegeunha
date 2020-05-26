@@ -10,7 +10,8 @@ expo init myNewProject
 cd myNewProject
 expo start
 ```
-7. expo start
+7. cmd 에서 프로젝트로 이동해서 expo start
+8. 지니모션 단말기 켜기
 
 # expo 장점
 1. 폰으로 코드를 스캔해서 모방리 환경에서 접근 가능
