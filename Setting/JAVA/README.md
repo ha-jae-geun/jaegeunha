@@ -122,3 +122,69 @@
 - 마켓 -> jad install -> 재실행 -> Window preference -> Edi tor -> File Assosiation -> Default
 - Windows> Preferences > General > Editors > File Associations 클릭하게 되면
 - 모든 확장가가 기본적으로 취하게 되는 프로그램명들을 설정할수 있게 되어있는데 .class 파일을 클릭해서 아래에 jadclipse file view를 기본으로 사용하겠다고 오른쪽 default 클릭해서 셋팅한다
+
+
+# 웹
+## 커넥션 풀
+- http://jakarta.apache.org/ 
+- collection, dbcp, pool, logging 다운
+1. ① commons-collections4-4.0.jar ⎼확장 또는 자바 컬렉션 프레임워크를 확장한다. ⎼자바 컬렉션 프레임워크는 추가 되었으며 응용 프로그램의 개발을 가속화 많은 강력한 JDK 1.2 Java 데이터 구조를 추가할 수 있다. 
+2. ② commons-dbcp2-2.0.jar ⎼데이터베이스 연결 풀링 서비스를 제공한다. ⎼연결 풀링 서비스는 관계 데이터베이스에서 새로운 연결을 위한 필요한 데이터베이스 트랜잭션을 수 행 시간에서 걸리는 시간을 최소화 할 수 있다. 
+- 환경설정 -> 클래스; BasicDataSource
+3. ③ commons-pool2-2.2.jar ⎼일반 인스턴스 풀링 구성 요소이다. ⎼아파치 커먼즈 풀 오픈 소스 소프트웨어 라이브러리는 인스턴스 풀링 및 개체 풀 구현을 제공한 API 다. 
+- 커넥션을 담는 것
+4. ④ commons-logging-1.2.jar ⎼로깅 구현의 다양한 클래스로 라이브러리 정보를 기록한다 API . ⎼log 인스턴스를 가져와서 쓰는 창구 역할로 실제 구현체는 의 나 그리고 기타 java logging API log4j 로거 모듈을 가져다 사용한다. ⎼ 은 로깅 요청을 기존에 존재하는 다양한 에 전 Common Logging(JCL) logging API implementations 달하는 역할을 한다. ⎼ 을 사용할 경우에 로깅 요청이 왔을 때 해당 라이브러리를 이용해서 를 출력할 수 있게 해 주 JCL log 며 전달받는 구현체를 바꿀 수 있어서 어떠한 를 사용하던 logging API logging API implementations 지에 상관없이 동일한 방법을 개발을 할 수 있다. 
+- logging 사용하면 sys처럼 실행에 영향주지 않고 결과 확인 가능
+
+## 2-1. DataSource 인터페이스의 기능 
+- connection 풀을 DataSource 안에 담어두기 때문에 close 사용 필요
+- ⎼커넥션 풀은 DataSource 인터페이스를 사용하여 구현할 수 있으며 DataSource 인터페이스는 데이터베이스에 대한 연결을 제공하는 서비스로 다양한 방식의 데이터베이스 연결을 제공하고 이에 대한 추상화 계층을 제공함으로써 업무 로직과 데이터베이스 연결 방식 간의 종속성을 배제한다.
+- DataSource 인터페이스는 close 메서드로 커넥션을 풀로 복귀시킨다.  close 메서드로 반드시 자원을 해제해야 한다.
+1. ① 기본 구현체 ⎼표준 커넥션 인스턴스를 생산한다. 
+2. ② 커넥션 풀링 구현체 ⎼자동으로 커넥션 풀에 참여하는 커넥션 인스턴스를 생산하며 이 구현체는 커넥션 풀링 매니저와 함께 작업한다. 
+3. ③ 분산 트랜잭션 구현체 ⎼분산 트랜잭션을 위한 커넥션 풀에 참여하는 커넥션 인스턴스를 생산하며 이 구현체는 트랜잭션 매니 저와 커넥션 풀링 매니저와 함께 작업하고 패키지의 javax.sql DataSource 인터페이스를 구현한다. 
+- ⎼커넥션 풀을 사용시 주의할 점은 작업이 완료되었으면 기존처럼 Connection 인터페이스 인스턴스의 close 메서드를 사용하여 자원을 반납하지 않고 Connection 인터페이스 인스턴스를 저장소에 복귀시켜야 하는 것은 지금껏 사용했 던 커넥션이며 커넥션 풀링용 커넥션인 DataSource 인터페이스는 close 메서드로 커넥션을 풀로 복귀시킨다. 
+- ⎼DataSource 인터페이스는 close 메서드로 반드시 자원을 해제해야 한다.
+
+## 커넥터 풀
+### tomcat-dbcp
+-  톰켓을 사용하지 않을수도 있으니 잘 사용 안함.
+
+
+
+
+## jstl 다운
+- JSTL 1.2.3 접속; http://jakarta.apache.org
+- 자카르타에서는 자주 사용하는 커스텀 태그를 JSTL(JSP Standard Tag Library) 형태로 제공해준다.
+- 자바 코드를 최대한 줄이기 위해 거의 모든 자바 코드를 커스텀 태그로 구현하려면 개발이 효율적이기보다는
+오히려 개발 시간이 훨씬 늘어날 것이며 기본 기능까지도 직접 커스텀 태그로 개발할 필요는 없다.
+- JSTL 은 자주 사용되는 필요한 기능들을 모아 놓은 커스텀 태그이므로 태그는 코드를 간결하게 해주고 가독성을
+높이는 장점이 있기 때문에 JSTL 을 잘 사용한다면 효율적인 코딩을 하는 데 많은 도움을 준다.
+- JSTL은 용도에 따라 사용하는 기능이 달라지는데 크게 4 가지로 core, fmt, xml, sql 와 함수로 나누어진다.
+
+### taglib 다운
+- taglib 1.2
+- 1.2버전: http://tomcat.apache.org/taglibs/standard/; impl, el, spec, compat 4개 다운
+- C:\workspace\jsptest\begin\WebContent\WEB-INF\lib\taglibs-standard-compat-1.2.5.jar 밑의 org.apache.taglibs.standard.tag.compat.core 사용
+
+### JSTL fmt
+#### Properties Editor
+- 프로퍼티 파일을 유니코드 값으로 변환하는 플러그인이다.
+- 이클립스에서 add software
+
+## fileupload
+## cos_2008
+1. 자카르타 아파치 http://commons.apache.org/proper/commons-fileupload/download_fileupload.cgi
+2. 혹은 http://www.servlets.com/cos/ 에서 cos-20.08.zip 
+3. https://mvnrepository.com/ 에서 file 검색
+- .COS 라이브러리는 현재 자바에서 가장 널리 쓰여 지는 업로드 컴포넌트로 파일 업로드의 원리로 구현하였다.
+
+### Multipart
+- MultipartRequest 클래스는 COS 라이브러리에서 가장 핵심적인 역할을 하는 클래스이다.
+- MultipartRequest 클래스는 파일 업로드를 직접적으로 담당하는 클래스로 파일 업로드를 담당하는 생성자와 여러 가지 메서드를 포함하고 있다.
+- MultipartRequest 클래스는 안정성도 다른 파일 업로드 라이브러리보다 뛰어나며 파일 중복 처리의 경우도 파일 중복 처리 인터페이스를 가지고 있기 때문에 쉽게 처리가 가능하고 한글에 관련된 문제 또한 인코딩 방식을 입력하여 쉽게 처리가 가능하다.
+- MultipartRequest 클래스는 여러 가지 장점을 가지고 있으면서 사용법도 쉬워서 파일 업로드에 자주 이용된다.
+
+## Classifier4j
+- Maven(https://mvnrepository.com/artifact/com.github.yaraju.Classifier4J/classifier4j) -> Classifier4j
+- 데이터 Teach; 단어 
