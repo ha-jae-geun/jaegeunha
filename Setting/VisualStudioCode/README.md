@@ -16,10 +16,10 @@
  
  ## Extensions
  * HTML PREVIEW
-  * html의 preview를 보여줌
+  + html의 preview를 보여줌
  * Live Server
-  * 도메인 영역에서 실행해줌(URL, URI 단위)
-  * 사용법: 마우스 우측 - Open with Live Server
+  + 도메인 영역에서 실행해줌(URL, URI 단위)
+  + 사용법: 마우스 우측 - Open with Live Server
 
 
 # yarn
