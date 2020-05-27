@@ -20,7 +20,23 @@
  * Live Server
    + 도메인 영역에서 실행해줌(URL, URI 단위)
    + 사용법: 마우스 우측 - Open with Live Server
-
+* FTP SIMEPLE
+```JAVA
+[
+	{
+		"name": "project",
+		"host": "49.50.166.21", // 주소
+		"port": 10021, //포트
+		"type": "ftp",
+		"username": "user", // 이름
+		"password": "dbwjdbwj1",  //한글 안됨
+		"path": "/",
+		"autosave": true,
+		"confirm": true
+	}
+]
+```
+  * FTP REMOTE
 
 # yarn
 * npm install -g yarn
