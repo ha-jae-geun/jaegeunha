@@ -1,3 +1,21 @@
+# [ 영어회화 ] I hope / I'm hoping / Hopefully, ...
+```java
+A: 아, 이번 주말에 비 오면 안되는데 (비 안왔으면 좋겠다)
+I hope it doesn't rain this weekend
+B: 왜? 뭐 특별한 계획이라도 있어?
+Why? You got something special planned?
+A: 응. 부모님이 최근에 마당 가구를 좋은걸로 사셔서 사람들 몇명 초대해서 바베큐 하시거든. 그래서 그냥 날씨가 좋길 바라는거지.
+Yeah. My parents just got some really nice patio furniture and they're having some people over for a barbecue
+I'm just hoping we get some good weather
+B: 뭐, 일기예보가 틀릴 때도 많잖아. 이번에도 틀리면 좋겠네.
+Well, yoou know the forecast gets it wrong all the time.
+Hopefully, they're wrong again this time.
+```
+* be hoping: 바라는 마음은 이전에 생겼고 지금도 가지고 있는 마음
+* Hopefully: 말하는 사람과 주변에 있는 사람들 모두 공통적으로 바라는 마음
+* 추가 설명 : "I'm hoping.."이라고 할 수 있는 거의 모든 상황에서 "I was hoping .."이라고도 할 수 있습니다. > "I was hoping we would get some good weather." * 추가로, "I was hoping you could help me with this." 이런 식으로 상대방에서 부탁을 할 때도 "i was hoping..." 많이 사용합니다
+* get something wrong;  be wrong: 그냥 틀리다
+
 # [ 영어 연습가이드 ] "지금은 생각이 많이 달라졌어요."
 ```java
 KOR]
