@@ -1,3 +1,6 @@
+# 보안
+* $mysqli_real_escape_string
+
 # mysql -hlocalhost -uroot -p
 * mysql: mysql 모니터로 접속
 * -hlocalhost: 주소 입력
