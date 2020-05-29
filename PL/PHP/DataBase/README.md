@@ -17,3 +17,13 @@ PHP에서 MySQL에 연결할때 사용하는 함수는 mysql_connect와 mysqli_c
 어떤점이 더 좋은가 하면 속도가 더 빠르고 보안이 더 잘되어 있다고 합니다.
 
 ```
+
+# 세션 id로 닉네임 
+```php
+    $username = $_SESSION['id'];
+
+    $namecheck = "SELECT * FROM member WHERE id = '$username'";
+    $nameresult = mq($namecheck);
+    $row=$nameresult->fetch_array(MYSQLI_ASSOC); //하나의 열을 배열로 가져오기
+    $fullname = $row['name'];
+```
