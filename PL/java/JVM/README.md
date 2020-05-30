@@ -50,3 +50,50 @@ JVM이 내부적으로 locking (thread safe 영역임)
 
 
 ```
+
+# 가비지 컬렉터
+## 가비지 컬렉터 과정(Mark and Sweep)
+1. 가비지 컬렉터가 스택의 모든 변수를 스캔하면서 각각 어떤 객체를 참조하고 있는지 찾아서 마킹한다.
+2. Reachable Object가 참조하고 있는 객체도 찾아서 마킹한다.
+3. 마킹되지 않은 객체를 Heap에서 제거한다.
+
+
+## New Generation
+* Eden  Survival0  Survival1  
+* 새로운 객체는 Eden 영역에 할당된다. 
+
+### Major GC
+* Eden 영역이 다 사용되었으면 GC 발생(Minor) 
+* Eden 영역의 Reachable 객체는 Survival 0으로 옮겨진다.
+      * Eden 영역의 Unreachable 객체는 메모리에서 해제된다.
+* survial0 영역이 다차면 객체는 Survival1 영역으로 이동한다(이동한 객체는 Age 값 증가)
+   * Survival1에 객체가 차면 0은 비어있는 상태여야 한다. 0이 채워져있으면 1이 비워있는 상태 유지
+
+## Old Generation
+* age가 특정 값 이상이 되면 Old Generation 영역으로 옮겨진다.(이 과정을 Promotion 이라고 한다.)
+
+### Major GC
+* Old Generation의 값이 다차면 major gc가 일어난다 
+
+
+
+# Garbage Collector 종류
+## Serial GC
+* GC를 처리하는 스레드가 1개이다.
+* CPU 코어가 1개만 있을 때 사용하는 방식
+* Mark-Compact collection 알고리즘 사용
+
+## Parallel GC
+* GC를 처리하는 스레드가 여러개이다.
+* Serial GC보다 빠르게 객체를 처리할 수 있다.
+* Parallel GC는 메모리가 충분하고 코어의 개수가 많을 때 사용하면 좋다.
+
+## Stop-The-Wolrd
+* GC를 실행하기 위해 JVM이 애플리케이션 실행을 멈추는 것이다.
+* Stop-the-World가 발생하면 GC를 실행하는 스레드를 제외한 나머지 스레드는 모두 작업을 멈춘다.
+* GC 작업을 완료한 이후에 중단한 작업을 다시 시작한다.
+
+
+## Concurrent Mark Sweep GC(CMS GC)
+
+## G1 GC
