@@ -1,5 +1,36 @@
 # 제네릭
 * [정아마추어](https://jeong-pro.tistory.com/100?category=793347)
+* 제네릭은 형변환의 번거로움을 줄이괴, 의도하지 않는 타입이 들어오는 것을 막기 위한 것(강력한 타입 체크)
+
+## 참조변수와 생성자에 대입된 타입이 일치해야 한다
+```java
+Box<Fruit> fruitBox = new Box<Apple>();
+Apple이 Fruit를 상속했어도 불가능하다
+```
+
+## 제네릭 클래스가 상속 관계인 것은 괜찮다
+* Box<Fruit> fruitBox = new FruitBox<Fruit<>()
+  * 제네릭 클래스가 상속 관계이므로 가능하다.
+* Box<Fruit> grapeBox = new FruitBox<Apple>();
+  * 단 여전히 대입되는 타입은 같아야 한다.
+
+## 제네릭 메서드의 타입과 제네릭 클래스의 타입은 사로 다른 것이다
+```java
+public <T> void printParamClass(T time){
+}
+```
+
+## 와일드카드
+* 와일드 카드는 '?' 기호로 표현하고, 와일드 카드는 어떠한 타입도 될 수 있다.
+* 와일드 카드를 사용하여 모든 타입이 들어올 수 있도록 수정할 수 있다.
+
+```java
+public static void printList(List<? extends Object> list) {
+
+for(Objeect elem : list) {
+ System.out.println();
+}
+```
 
 # Generic
 * 제네릭은 자바에서 안정성을 맡고 있다고 할 수 있다. 다양한 타입의 객체들을 다루는 메서드나 컬렉션 클래스에서 사용하는 것으로, 컴파일 과정에서 타입체크를 해주는 기능이다. 객체의 타입을 컴파일 시에 체크하기 때문에 객체의 타입 안전성을 높이고 형변환의 번거로움이 줄어든다. 자연스럽게 코드도 더 간결해진다. 예를 들면, Collection에 특정 객체만 추가될 수 있도록, 또는 특정한 클래스의 특징을 갖고 있는 경우에만 추가될 수 있도록 하는 것이 제네릭이다. 이로 인한 장점은 collection 내부에서 들어온 값이 내가 원하는 값인지 별도의 로직처리를 구현할 필요가 없어진다. 또한 api를 설계하는데 있어서 보다 명확한 의사전달이 가능해진다.
