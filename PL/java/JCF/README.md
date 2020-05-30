@@ -54,6 +54,8 @@
 * List Interface 
 * Collection 인터페이스를 확장한 자료형으로 요소들의 순서를 저장하여 색인(Index)를 사용하여 특정 위치에 요소를 삽입하거나 접근할 수 있으며 중복 요소 허용
 
+
+
 # 스택의 사용 사례
 ```java
 1. 재귀 알고리즘
@@ -95,6 +97,9 @@ https://gmlwjd9405.github.io/2018/08/03/data-structure-stack.html
 윈도 시스템의 메시지 처리기
 프로세스 관리
 ```
+
+# 큐
+* 인터페이스이기 때문에 객체 생성이 불가능하다.
 
 ## 우선순위 큐
 ```java
@@ -158,9 +163,18 @@ https://gmlwjd9405.github.io/2018/08/03/data-structure-stack.html
 ## ArrayList
 * ArrayList 는 array 를 이용한 List 구현 방법입니다. 
 * ArrayList 클래스는 내부적으로 배열을 이용하여 요소를 저장한다.
+* 배열을 구현한 클래스로 논리적 순서와 물리적 순서가 동일할 때 가장 많이 씀
+* 삽입: 기존 크기에서 50%의 크기를 더해서 새로운 크기를 산정하여 새로운 배열에 복사
+* 삭제: 삭제하는 idex의 다음부터 복사하여 삭제되는 index부터 붙여넣기, 마지막 index의 값을 null로 변경
+
 
 ## LinkedList
+* 논리적으로 순차적인 구조지만, 물리적으로 순차적이지 않을 수 있다.
 * LinkedList의 경우 인자로 전달된 인덱스의 요소를 가져오기위해서는 항상 첫 노드에서부터 찾아 들어가야하기때문에 get()의 시간복잡도는 O(n)이다. for문과 결합되면 2중 반복문으로 돌아서 O(n^2)이 되는것이다. 
+* 삽입: 가장 ㅇ파과 뒤는 빠르나 중간 삽입의 경우 index를 찾아내는 시간이 오래 걸림
+* 삭제: 걸리는 시간은 삽입과 같으며 자기 자신을 null로 처리
+
+
 
 ## ArrayList와 LinkedList 차이
 ```java
@@ -193,6 +207,10 @@ LinkedList에서의 데이터의 삽입, 삭제 시에는 ArrayList와 비교해
 * 뭐 특별한 해결법은 없다. 다만 개인적으로 인덱스가 필요한 경우는 메서드 분리나 구조변경을 통해 리팩토링이 가능한 경우가 많았다.
 * List를 반복할때는 꼭 for-each나 Iterator를 사용하고, 인덱스가 필요한 경우는 명시적으로 인덱스를 사용하지않을 수 있게 리팩토링할 수는 없는지 고민해보자.
 
+
+# Vector
+* ArrayList와 같은 구조
+* 동기화된 메소드로 구성되어 있기 때문에 MultiThread가 동시에 메모리를 실행할 
 
 # foreach
 * [출처]('https://namocom.tistory.com/754')
@@ -359,12 +377,26 @@ Iterator의 remove()는 단독으로 쓰일 수 없고, next()와 같이 써야�
 * HashSet
 * TreeSet
 * 순서를 유지하지 않는 데이터의 집합, 데이터의 중복을 허용하지 않는다. 
+ * Object 클래스를 이용하여 중복을 제거한다.
 * List와 Set은 공통적으로 Iterator을 사용할 수 있다. 
   * List, Set => Collection => Iterable의 순서로 implements 하고 있다.
+* List처럼 index로 저장 순서를 유지하지 않기 때문에 Iterator 혹은 stream으로 순회
+* HashMap의 키를 사용하고 Value를 사용하지 않는 것
+ * Present는 Value에 들어가는 Dummy값이다. key만 사용
+* Key는 사용하고 Value는 사용하지 않는다.
+
+## Set의 저장 방식
+* 객체를 저장하기 전에 hashcode()메소드를 호출해서 해시코드를 얻어내며, 이미 저장되어 있는 객체들의 hashcode와 비교
+* 만약 동일한 hashcodee가 있따면 다시 equals 메소드로 객체를 비교해서 true가 나오면 동일한 객체로 판단하고 중복저장을 하지 않는다.
+ * hashcode() 리턴값 -> 같으면 equals 리턴값 -> 같으면 동일 객체로 인식 -> 저장 안함
 
 ## Set Interface
 * 집합을 정의하며 요소의 중복을 허용하지 않음. 상위 메소드만 사용함
 
+## TreeSet
+* 객체의 정렬에 사용
+* 중복을 허용하지 않으면서 오름차순이나 내림차순으로 정렬
+* 내부적으로 이진 탐색 트리로 되어있음
 
 # Map 
 * HashMap
@@ -377,6 +409,18 @@ Iterator의 remove()는 단독으로 쓰일 수 없고, next()와 같이 써야�
 ## Map Interface
 * Key와 Value의 쌍으로 연관지어 저장하는 객체
 
+## 컬렉션 인터페이스를 상속받지 않는 이유
+* Map 인터페이스와 이 구현체들은 컬렉션 프레임워크에 속하지만 Map은 컬렉션이 아니고 컬렉션 역시 Map이 아니다.
+* 엘리먼트들의 그룹이라는 컬렉션 인터페이스 기본 개념과 맞지 않는다.
+* Set, List, Map을 구분한 후에 Set과 List의 공통된 부분이 많아 따로 추출한 인터페이스가 Collection이다.
+
+## HashMap
+* HashSEt과 저장 방식이 같다.
+* LinkedList 배열
+
+## TreeMap
+* 객체의 정렬에 사용
+* 내부 구조는 TreeSet과 같음
 
 ## [firework](https://firework-ham.tistory.com/11)
 1. 먼저 키가 null인지 체크하고 null이면 hashcode는 0이기 때문에 위치 0에 저장됩니다.
