@@ -95,5 +95,15 @@ JVM이 내부적으로 locking (thread safe 영역임)
 
 
 ## Concurrent Mark Sweep GC(CMS GC)
+* Stop-the-world 시간이 짧다
+* 애플리케이션의 응답 시간이 빨라야 할 때 CMS GC를 사용한다.
+* 다른 GC보다 메모리와 CPU를 더 많이 사용한다.
+* Compaction 단계가 제공되지 않는다.
 
 ## G1 GC
+* 각 영역을 Region 영역으로 나눈다
+* GC가 일어날 때, 전체영역(Eden, Survival, Old generation)을 탐색하지 않는다.
+* G1, GC는 바둑판의 각 영역에 객체를 할당하고 GC를 실행한다.
+* 그러다가 해당 영역이 꽉 차면 다른 빈 영역에 객체를 할당하고 GC를 실행한다.
+* 이 GC는 STW 시간이 짧다
+* Compaction을 사용한다.
