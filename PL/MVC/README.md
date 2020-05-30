@@ -75,3 +75,44 @@ C/S(Client - Server)구조로 요청을 하면 그에 맞는 응답을 하는 �
 
 # 비즈니스 로직
 * 비즈니스 로직이란 업무에 필요한 데이터처리를 수행하는 응용프로그램의 일부라고 할 수 있다.
+
+# MVC 5계층
+* 프레젠테이션 레이어 - Control Layer - Business Logic Layer(Service, Domain) - Persistnce Layer
+
+## Controller
+* 파라미터 존재 유무 검증
+ * @PathVariable
+ * @RequestBody
+
+## Model
+* 데이터 검증
+ * @Valid
+* 로직에 대한 검증
+
+## Service Logic
+* 클래스 간의 관계 정리
+* 상태 저장
+* 트랜잭션
+* Control Layer와 Persistance 계층의 연결
+
+## Domain Object
+* 데이터와 행위를 갖는 객체
+* 핵심 비즈니스 로직
+* 주요 검증
+* Persisstance Layer에 영향
+
+## DOMAIN Model Layer
+* 각 계층 사이에서 전달되는 객체
+* DTO 패턴
+* 대부분 도메인 모델을 DTO로 사용
+
+## Persistance Layer
+* 데이터 처리(CRUD)
+* DAO 패턴, ORM
+
+
+## VIEW
+* 간단한 검증
+ * 비어있는 값
+ * 적절하지 안은 타입(정수 등등)
+ 
