@@ -1,5 +1,6 @@
 # 기본기를 쌓는 정아마추어 JVM
 [출처](https://jeong-pro.tistory.com/148?category=793347)
+* 운영체제의 메모리 영역에 접근하여 메모리를 관리하는 프로그램(메모리 관리, Garbage Collector 수행)
 
 # 자바의 구동원리
 1. 컴파일러를 통해 JAVA 코드 검증과 JVM이 이해할 수 있는 바이트코드(.CLASS)로 만듬
