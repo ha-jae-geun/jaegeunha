@@ -3,6 +3,7 @@
 
 
 # 방어하는 법
+* Query String을 절대 사용하지 말아라!
 * Parameter Binding
 
 # Statement와 PreparedStatement
@@ -16,3 +17,7 @@
   
 ## PHP의 $mysqli_real_escape_string
 * escape_String 
+
+## JPA
+* JPA 레파지토리의 save() 메소드 같은 API를 사용한다면 내부적으로 Parameter Binding 을 해주기 때문에 안전하다.
+* 하지만 Query String을 사용하다면 절대 안전하지 않다.
