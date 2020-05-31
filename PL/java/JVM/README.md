@@ -1,6 +1,22 @@
 # 기본기를 쌓는 정아마추어 JVM
 [출처](https://jeong-pro.tistory.com/148?category=793347)
 * 운영체제의 메모리 영역에 접근하여 메모리를 관리하는 프로그램(메모리 관리, Garbage Collector 수행)
+* C, C++는 컴파일 플랫폼과 타겟 플랫폼이 다른 경우 프로그램이 동작하지 않았다(환경 플랫폼 = 운영체제 + CPU 아키텍처)
+      * 개발할 때는 동일한 플랫폼에서 컴파일과 실행을 같이 한다면 프로그램은 아무 문제가 없다
+      * 배포할 때 플랫폼이 달라질 경우 타겟 플랫폼에서 프로그램이 동작하지 않는다.
+* 크로스 컴파일: 타겟 플랫폼에 맞춰 컴파일 하는 것을 '크로스 컴파일'이라 한다.
+* 자바 바이트코드는 타겟 플랫폼에 상관없이 JVM 위에 동작한다. 물론 JVM은 타겟 플랫폼에 의존한다.(해당 운영체제의 JVM만 설치하면 됨)
+* WORA; Write Once Run Anywhere
+
+## JVM이 나온 이유
+* 자바는 네트워크에 연결된 모든 디바이스에서 작동하는 것이 목적이었다
+* 디바이스마다 운영체제나 하드웨어가 다르기 때문에 자연스럽게 플랫폼에 의존하지 않도록 언어를 설계했다. 그 결과가 자바 바이트코드
+
+## 자바 코드 실행되는 과정
+* 컴파일러 프론트엔드: 소스 코드 -> Lexical Analyzer -> Syntax Analyzer -> Semantic Analyzer -> Intermediate Code Generator(자바 바이트 코드)
+      * Java Compiler(javac)가 진행
+* 컴파일러 백엔드: Code Optimizer(JIT Compiler) -> Code Generator -> Target Assembly Program
+      * JVM이 진행
 
 # 자바의 구동원리
 1. 컴파일러를 통해 JAVA 코드 검증과 JVM이 이해할 수 있는 바이트코드(.CLASS)로 만듬
@@ -107,3 +123,35 @@ JVM이 내부적으로 locking (thread safe 영역임)
 * 그러다가 해당 영역이 꽉 차면 다른 빈 영역에 객체를 할당하고 GC를 실행한다.
 * 이 GC는 STW 시간이 짧다
 * Compaction을 사용한다.
+
+
+# JVM 구조
+* 클래스 로더 서브 시스템 <> Runtime Data Areas <> execution engine
+
+# Runtime Data Areas
+## method area
+* 모든 스레드가 공유
+* 클래스 로더가 클래스 파일을 읽어오면 클래스 정보를 파싱해서 저장
+
+## heap
+* 모든 스레드가 공유
+* 프로그램을 실행하면서 생성한 모든 객체를 Heap에 저장
+
+## Java stacks
+* 각 스레드마다 존재
+* 자바 스택은 스레드 별로 1개만 존재하고, 스텍 프레임은 메서드가 호출될 때마다 생성된다
+* 메서드 실행이 끝나면 스택 프레임은 pop되어 스택에서 제거된다.
+
+### Stack Frame
+* Java Stacks 안에 들어있는 스텍 프레임
+* 스택 프레임은 메서드가 호출될 때마다 새로 생겨 스택에 push된다
+* 스택 프레임은 Local variables array, Operand Stack, Frame Data를 갖는다
+* Frame Data는 Constant Pool, 이전 스택 프레임에 대한 정보, 현재 메서드가 속한 클래스/객체에 대한 참조 등의 정보를 갖는다.
+
+## PC registers
+* 각 스레드마다 존재
+* 각 스레드는 메서드를 실행하고 있고, pc는 그 메서드 안에서 몇 번째 줄을 실행해야 하는지를 나타내는 역할
+
+## native method stacks
+* 각 스레드마다 존재
+* 자바 바이트코드가 아닌 다른 언어로 작성된 메소드를 의미한다.
