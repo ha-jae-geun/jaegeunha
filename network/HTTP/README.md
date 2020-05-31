@@ -1,5 +1,22 @@
 ## [정아마추어](https://jeong-pro.tistory.com/89?category=793347)
 
+# HTTP(TCP) 소프트웨어 개발 시 고려사항
+1. TCP handshake 설정
+2. 인터넷 혼잡을 제어하기 위한 TCP Slow Start
+3. 데이터를 한데 모아 한번에 전송하기 위한 네이글 알고리즘
+4. TCp 전송 확인 응답을 위한 확인 응답 지연 알고리즘
+5 Time_WAIT 지연과 포트 고갈
+
+# TCP SLOW START
+* 급작스러운 부하와 혼잡을 막기 위한 목적
+* TCP의 전송할 수 있는 패킷 수는 TCP 커넥션이 만들어진지 얼마나 지났는지에 영향을 받는다
+* 데이터가 성공적으로 전송됨에 따라 패킷 수 늘려감
+
+# TIME_WAIT
+* CLOSE 한 쪽에서 TIME_WAIT이 발생한다
+* IP 주소와 포트 번호를 메모리에 저장한다
+    * 같은 IP주소와 포트 번호를 사용하는 TCP Connection을 일정 시간동안 생성하지 않기 위해서 잘못된 패킷을 받아 오동작을 할 수 있음
+
 # http와 https
 ```java
 통신 상대를 확인하지 않기 때문에 위장이 가능하다.
