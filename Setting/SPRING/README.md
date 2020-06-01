@@ -4,9 +4,12 @@
 # 3점대를 4점대로 업그레이드
 * [블로그](https://offbyone.tistory.com/16)
 
-## 폴더
+# 톰켓
 1. pivotal-tc-server: Spring의 내장 톰켓; 사용 안함
+2. WIndos - server 추가하기
+3. 서버 더블 클릭 - Overview - Path 수정
 
+# 스프링 버전 고르기
 ## Spring 3.0
 - 자바 6.0, 7.0 + 톰켓6.0
 
@@ -47,11 +50,10 @@
 	- 소스 파일들을 보기 위해서는 제공받는 라이브러리에 있는 소스 파일들을 임포트 해야 하는데 임포트 하지 않고
 	바로 확인하기 위해서 jadClipse를 설치하는 것이다.
 
-## 스프링 Maven 추가
+# 스프링 Maven 추가
 - http://maven.apache.org/download.cgi -> apache-maven-3.6.1-bin.zip
 
-
-### Maven 환경변수 설정
+## Maven 환경변수 설정
 1. 환경변수 이름: MAVEN_HOME(매번 버전 바뀌면 Path 그때마다 바꿔줘야하기 때문에 해줌)
 2. PATH 추가: %MAVEN_HOME%\bin
 - 혹은 bin을 바로 PATH에서 추가해주어도 됨
@@ -59,8 +61,7 @@
 4. windows preference 에서 User setting(conf, usersetting로 경로 설정) Installations 수정하기 -> 파일열기 -> 
 	- <localRepository>C:\repositories</localRepository> 추가하기
 
-
-## import
+## Windos에서 import
 - import - maven - existing maven project
 
 
@@ -74,12 +75,14 @@
 - <target>1.8</target> // 자바 버전
 - <encoding>UTF-8</encoding>
 
-# Maven java library 
+# 프로젝트 수정
+
+## Maven java library 추가하기 
 1. window preference -> java -> user libraries -> external
-2. buildpath에서 jre 지우고 add library해서 수정
+2. 프로젝트 buildpath에서 jre 지우고 add library해서 수정
 
 
-# 프로젝트 - 마우스 우측 - properties - Maven project facet
+## 프로젝트 - 마우스 우측 - properties - Maven project facet
 - build path에서 project facet에서 자바 1.8 변경
 
 
@@ -87,13 +90,18 @@
 1. effective Pom에서 repositories 복사
 2. pom에서 dependencies 밑에 추가하고 경로에 maven에서 복사한 repository 
 
-### Maven Ojdbc 혹은 MySQL 라이브러리 설정
+## 메이븐 업데이트
+* 프로젝트명에 마우스 오른쭉 키를 누르고 팝업 메뉴에서 Maven -> Update Project
 
-### Maven login4j
+## Maven Ojdbc 혹은 MySQL 라이브러리 설정
+
+
+
+# Maven login4j
 - src/main/resources 경로에 log4j.dtd idoctype warning 제거하기
 
 
-## JAD 설치
+# JAD 설치
 - 마켓 -> jad install -> 재실행 -> (Window preference -> general -> Editor -> File Assosiation)-> Decompiler Default -> 
  
 # MyBatis
