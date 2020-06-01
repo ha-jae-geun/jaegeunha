@@ -99,8 +99,11 @@
 ## 메이븐 업데이트
 * 프로젝트명에 마우스 오른쭉 키를 누르고 팝업 메뉴에서 Maven -> Update Project
 
-## Maven Ojdbc 혹은 MySQL 라이브러리 설정
-
+## Encoding
+1. General - WorkSpace에서 UTF-8 설정
+2. 프로젝트 우측 클릭 Resource에 들어가서 Text file encoding도 설정 해줍니다. 저랑 똑같이 체크해주시면 됩니다.
+	* 둘 다 inherited from container 클릭
+3. web.xml에서 filter 추가
 
 # 중간 테스트
 * 크롬에 localhost:8080 검색
