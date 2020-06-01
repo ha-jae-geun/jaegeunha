@@ -186,7 +186,11 @@
 
 
 
+# 라이브러리
+* WEB-INF - lib 폴더 생성
 
+## OJDBC
+* product/11.2.0/dbhome_1/jdbc/lib 에 ojdbc6 jar
 
 ## 주요 테스트 라이브러리
 - (1) JSON.simple 라이브러리
