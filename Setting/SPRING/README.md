@@ -99,9 +99,7 @@
 ## 메이븐 업데이트
 * 프로젝트명에 마우스 오른쭉 키를 누르고 팝업 메뉴에서 Maven -> Update Project
 
-## 라이브러리 빌드 패스
-* lib폴더에 ojdbc6.jar을 추가하셨으면 ojdbc6.jar 우클릭후 Build Path > Add to Build Path클릭
-	* Referenced Libraries에 ojdbc6.jar이 추가되었으면 성공한것입니다.
+
 
 ## Encoding
 1. General - WorkSpace에서 UTF-8 설정
@@ -132,6 +130,16 @@
 ```
 4. jsp 인코딩 추가해주기
 * <%@ page language="java" pageEncoding="UTF-8" contentType="text/html; charset=UTF-8" %>
+
+# 빌드 패스
+## 라이브러리 빌드 패스
+* lib폴더에 ojdbc6.jar을 추가하셨으면 ojdbc6.jar 우클릭후 Build Path > Add to Build Path클릭
+	* Referenced Libraries에 ojdbc6.jar이 추가되었으면 성공한것입니다.
+* 유저 라이브러리 추가
+* ADD LIBRARY - JRE SYSTEM LIBRARY
+* Maven Dependency
+* Apache Tomcat
+	* Add Library -> server Runtime
 
 # 중간 테스트
 * 크롬에 localhost:8080 검색
