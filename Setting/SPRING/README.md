@@ -77,9 +77,12 @@
 
 # 프로젝트 수정
 
+## 서버 추가하기
+* 프로젝트 마우스 우측 -> 여기에서 Add Libray.. 클릭 > Server Runtime선택후 Next클릭 > Apache Tomcat선택후 Finish클릭 > Apply and Close클릭
+
 ## Maven java library 추가하기 
 1. window preference -> java -> user libraries -> external
-2. 프로젝트 buildpath에서 jre 지우고 add library해서 수정
+2. 프로젝트 마우스 우측 -> buildpath에서 jre 지우고 add library해서 수정
 
 
 ## 프로젝트 - 마우스 우측 - properties - Maven project facet
@@ -96,6 +99,8 @@
 ## Maven Ojdbc 혹은 MySQL 라이브러리 설정
 
 
+# 중간 테스트
+* 크롬에 localhost:8080 검색
 
 # Maven login4j
 - src/main/resources 경로에 log4j.dtd idoctype warning 제거하기
@@ -122,14 +127,12 @@
 ### mybatis mapper 폴더
 - src/main/resources에서 폴더 생성 -> mapper.xml 만들기
 
-## tomcat 경로 설정
-- 톰켓 더블 클릿 -> Modules 메뉴 -> path '/'로 설정
 
-## web.xml 설정
+# web.xml 설정
 1. 필터 설정
 
-## server.xml
-### 스프링 라이브러리 Resource 설정
+# server.xml
+## 스프링 라이브러리 Resource 설정
 1.  <resources mapping="/js/**" location="/resources/js/"/>
 - <resources mapping="/resources/**" location="/resources/" />
 - <resources mapping="/css/**" location="/resources/css/" />
@@ -139,17 +142,19 @@
 - 경로를 /로 해놓으면 resource안에 js 넣을 필요 없음.
 - 이후에 resources 안에 폴더 만들고 서버 돌려서 info에 mapping 
 
-## root-context.xml
-### DB연동(DAO, DTO관련 빈 입력)
+# root-context.xml
+## DB연동(DAO, DTO관련 빈 입력)
 - pg442
 
-## servlet-context.xml
+# servlet-context.xml
 - 뷰, 서비스 관련 빈 
 
 ## 스프링 서버
 - window view - 서버 추가
 - 서버에 프로젝트 추가
 - 서버 더블클릭 후 경로 확인
+
+
 
 
 
