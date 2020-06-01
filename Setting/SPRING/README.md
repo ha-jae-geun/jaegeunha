@@ -126,6 +126,8 @@
 	</filter-mapping>
 	<!-- 한글 인코딩 End -->
 ```
+4. jsp 인코딩 추가해주기
+* <%@ page language="java" pageEncoding="UTF-8" contentType="text/html; charset=UTF-8" %>
 
 # 중간 테스트
 * 크롬에 localhost:8080 검색
