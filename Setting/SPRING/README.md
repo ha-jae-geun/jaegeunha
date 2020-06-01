@@ -34,6 +34,8 @@
 
 ## Spring 초기 설정
 1. workspace 설정
+	* General 하단 메뉴에 Workspace로 들어갑니다.
+	* 여기서 Text file encoding에 Other을 선택한 후 UTF-8로 바꾸어 줍니다. 그리고 Apply클릭
 2. Open Perspective
 3. JRE Library: buildpath -> library 지우기 -> add library -> jre library 추가
 4. Project facets java 버전 
@@ -76,8 +78,8 @@
 - <target>1.8</target> // 자바 버전
 - <encoding>UTF-8</encoding>
 
-# 프로젝트 수정
 
+# 프로젝트 수정
 ## 서버 추가하기
 * 프로젝트 마우스 우측 -> 여기에서 Add Libray.. 클릭 > Server Runtime선택후 Next클릭 > Apache Tomcat선택후 Finish클릭 > Apply and Close클릭
 
