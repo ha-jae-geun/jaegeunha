@@ -1,3 +1,18 @@
+# [기초영어회화] 준비 잘 돼가? 서류를 준비하다 / 준비 다 끝냈어
+```java
+A: 너 다음 달에 이사 가지? (이사 가는거 맞지?)
+You are moving next month, aren't you?
+B: 응. 맞아.
+Yeah. That's right
+A: 준비는 어떻게 돼가? (잘 돼가?)
+How's the preparation going?
+B: 사실 다 준비 됐어. 서류 몇 개만 준비하면 준비 끝나.
+Actually i'm allset. i just need to get some paperwork ready and i'll be good to go
+```
+* 이미 계획/일정이 잡혀있는 것: 현재형; YOu are moving next month
+* (You) all set?
+* -하기만 하면 돼; i just need to
+
 # [ 영어회화 ] I hope / I'm hoping / Hopefully, ...
 ```java
 A: 아, 이번 주말에 비 오면 안되는데 (비 안왔으면 좋겠다)
