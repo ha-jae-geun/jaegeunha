@@ -104,6 +104,28 @@
 2. 프로젝트 우측 클릭 Resource에 들어가서 Text file encoding도 설정 해줍니다. 저랑 똑같이 체크해주시면 됩니다.
 	* 둘 다 inherited from container 클릭
 3. web.xml에서 filter 추가
+```java
+	<!-- 한글 인코딩 Start -->
+	<filter>
+		<filter-name>encodingFilter</filter-name>
+		<filter-class>
+			org.springframework.web.filter.CharacterEncodingFilter
+		</filter-class>
+		<init-param>
+			<param-name>encoding</param-name>
+			<param-value>UTF-8</param-value>
+		</init-param>
+		<init-param>
+			<param-name>forceEncoding</param-name>
+			<param-value>true</param-value>
+		</init-param>
+	</filter>
+	<filter-mapping>
+		<filter-name>encodingFilter</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
+	<!-- 한글 인코딩 End -->
+```
 
 # 중간 테스트
 * 크롬에 localhost:8080 검색
