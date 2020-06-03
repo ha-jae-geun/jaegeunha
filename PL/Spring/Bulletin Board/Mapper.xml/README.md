@@ -66,3 +66,20 @@ src/main/resources/mappers에 boardMapper.xml에 들어가서 코드를 작성�
    
    </insert>
 ```
+
+# read
+```xml
+WHERE BNO = #{bno}를 보시면 WHERE에 BNO값을 넣어줘서 제목을 클릭했을때 그 번호에 해당하는 게시물을 조회하게끔 쿼리를 BoardMapper.xml에 추가해줍니다. 
+
+ 
+
+	<select id="read" parameterType="int" resultType="kr.co.vo.BoardVO">
+		SELECT	BNO
+			  , TITLE
+			  , CONTENT
+			  , WRITER
+			  , REGDATE
+		 FROM MP_BOARD
+		 WHERE BNO = #{bno}
+	</select>
+```
