@@ -1,3 +1,17 @@
+# 로그 파일
+```java
+src/main/resources에서 우 클릭 > new > Other...클릭
+file을 검색하면 General에 File을 클릭하고 Next
+
+File name에 log4jdbc.log4j2.properties 적어주시고 Finish클릭
+
+그럼 log4jdbc.log4j2.properties파일을 열어줍니다.
+
+파일에 코드를 추가해주고 저장합니다
+log4jdbc.spylogdelegator.name=net.sf.log4jdbc.log.slf4j.Slf4jSpyLogDelegator
+
+ 
+```
 
 # SLF4J를 써야하는 이유
 * [블로그](https://gmlwjd9405.github.io/2019/01/04/logging-with-slf4j.html)
