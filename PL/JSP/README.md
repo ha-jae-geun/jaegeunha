@@ -221,3 +221,4 @@ Time Out이 존재하므로 클라이언트에서 페이지를 요청하고 기�
 실제로 상황에서 POST 방식은 URL에 데이터가 노출되지 않으므로 즐겨찾기나 캐싱이 불가능하지만 
 쿼리스트링(문자열)데이터 뿐만 아니라, 라디오 버튼, 텍스트 박스와 같은 객체들의 값도 전송이 가능합니다.
 ```
+* <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
