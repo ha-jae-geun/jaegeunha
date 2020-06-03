@@ -37,3 +37,15 @@ public class BoardServiceImpl implements BoardService {
 
 }
 ```
+
+# 읽기
+```java
+BoardServiceImpl
+
+// 게시물 목록 조회
+@Override
+public BoardVO read(int bno) throws Exception {
+
+	return dao.read(bno);
+}
+```
