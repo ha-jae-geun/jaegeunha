@@ -68,3 +68,16 @@ service.list()에 담긴 데이터를 "list"라는 이름으로 담을것이다 
 		
 	}
   ```
+
+# 읽기
+```java
+// 게시판 조회
+	@RequestMapping(value = "/readView", method = RequestMethod.GET)
+	public String read(BoardVO boardVO, Model model) throws Exception{
+		logger.info("read");
+		
+		model.addAttribute("read", service.read(boardVO.getBno()));
+		
+		return "board/readView";
+	}
+```
