@@ -1,3 +1,29 @@
+# 초기 폴더 생성
+```java
+src/main/resources에 mappers폴더를 하나만든후 boardMapper.xml파일을 하나만들어주고(아래 아니고 위)
+
+아래 코드를 추가해줍니다.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="boardMapper">
+   
+</mapper>
+
+
+src/main/resources에 mybatis-config.xml 파일을 만들어주고 아래코드를 추가해줍니다.
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+  PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+  
+</configuration>
+```
+
 # select
 ```xml
 	<select id="list" resultType="kr.co.vo.BoardVO">
