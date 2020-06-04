@@ -100,3 +100,24 @@ jsp도 똑같이 ${}를 이용한다.
 Data : ${data}
 
 ```
+
+# 와일드 카드 이용
+```java
+@RequestMapping("/board/*")
+public class BoardController {
+	private static final Logger logger = LoggerFactory.getLogger(BoardController.class);
+
+	@Inject
+	BoardService service;
+
+	@Inject
+	ReplyService replyService;
+
+	// 게시판 글 작성 화면
+	@RequestMapping(value = "/writeView", method = RequestMethod.GET)
+	public void writeView() throws Exception {
+		logger.info("writeView");
+
+	}
+
+```
