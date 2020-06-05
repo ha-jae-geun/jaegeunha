@@ -1,3 +1,27 @@
+# [ 영어 대화가이드 ] “그런건 못들어 본 것 같은데.. 정말 그런게 있나요?” [기초영어회화]
+```java
+A: 와이프는 무슨 일 해?
+B: 우리 와이프? 아보리스트야.
+A: 아보리스트? 그런건 못들어 본 것 같은데. 무슨 공무원 같은거야?
+B: 아니, 나무 전문가 같은거야. 나무를 연구하고 관리도 하고. 나무를 위한 의사 같은 거야.
+A: 와, 진짜 신기하다. 잠깐, 정말 그런게 있는거야 아니면 그냥 식물을 많이 키우는거야?
+B: 진짜 있는거야. 아보리스트 자격증이 있어.
+It's a real thing! She's a certified arborist.
+
+[ENG'
+A: So, what does your wife do?
+B: My wife? She's an arborist.
+A: An arborist? I don't think I've heard of that. Is that some kind of public service work?
+B: No no, it's like a tree specialist. She studies and takes care of tress.
+It's like a doctor for trees.
+A: Wow, that's really interesting. Wait, is that a real thing or does she just have a lot of plants?
+B: It's a real thing. She's a certified arborist.
+```
+* I don't think i've heard of that
+* 공무원: public service work
+* 정말 그런게 있는거야? Is that a real thing?
+
+
 # [기초영어회화] 준비 잘 돼가? 서류를 준비하다 / 준비 다 끝냈어
 ```java
 A: 너 다음 달에 이사 가지? (이사 가는거 맞지?)
