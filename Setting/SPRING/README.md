@@ -99,7 +99,8 @@
 ## 메이븐 초기화
 1. Maven Repository 삭제
 2. Build Path Maven 
-3. 프로젝트명에 마우스 오른쭉 키를 누르고 팝업 메뉴에서 Maven -> Update Project
+3. Run as Maven Install
+4. 프로젝트명에 마우스 오른쭉 키를 누르고 팝업 메뉴에서 Maven -> Update Project
 
 
 
