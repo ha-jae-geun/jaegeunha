@@ -96,8 +96,10 @@
 1. effective Pom에서 repositories 복사
 2. pom에서 dependencies 밑에 추가하고 경로에 maven에서 복사한 repository 
 
-## 메이븐 업데이트
-* 프로젝트명에 마우스 오른쭉 키를 누르고 팝업 메뉴에서 Maven -> Update Project
+## 메이븐 초기화
+1. Maven Repository 삭제
+2. Build Path Maven 
+3. 프로젝트명에 마우스 오른쭉 키를 누르고 팝업 메뉴에서 Maven -> Update Project
 
 
 
