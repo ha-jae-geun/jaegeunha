@@ -158,3 +158,100 @@ public List<Cell> getFlaggedCells() {
     return flaggedCells;
 }
 ```
+
+# 접두어 추가하기
+```java
+의미 있는 맥락 추가
+대다수의 이름은 분명하지 못하다.
+
+그럴 경우엔 접두어를 붙혀보자.
+
+Example
+예를 들어보자.
+firstName, lastName, street, houseNumber, city, state, zipcode
+위와 같은 변수가 선언이 되어 있다면
+
+위 변수들의 사용처는
+
+주소와 관계 되어 있음을 쉽게 파악할 수 있다.
+
+But
+
+state 변수 1개만 본다면
+
+해당 변수가
+
+주소를 의미하는 변수들 중 하나라는 것을
+
+파악하는건 쉽지 않다.
+
+Refactoring
+주소를 나타내는 addr라는 접두어를 추가해보자.
+
+state -> addrState로 변경하면
+
+맥락이 좀 더 분명해진다.
+
+
+
+One More Step
+
+접두어를 사용하는 방법도 좋지만
+
+가능하다면 Address라는 클래스를 생성하면
+
+보다 맥락이 분명해진다.
+```
+
+# 동사와 키워드
+```java
+동사와 키워드
+함수의 의도나
+
+인수의 순서와 의도를 제대로 표현하려면
+
+함수 이름을 좋게 Naming할 필요가 있다.
+
+단항 함수
+단항 함수는 함수와 인수가
+
+동사/명사 쌍을 이뤄야 한다.
+
+
+
+예를 들어
+
+write(name)은 누구나 바로 이해한다.
+
+==> name을 write한다.
+
+
+
+좀 더 명확하게 수정도 가능하다.
+
+write(name) -> writeField(name)
+
+==> Field에 name을 write한다.
+
+이항 함수
+함수 이름에 키워드를 추가한다.
+
+
+예를 들어
+
+함수에서 인수의 순서가 중요하다면
+
+함수 이름에 인수 이름을 넣는다.
+
+
+
+assertEquals(expected, actual) 보다
+
+assertExpectedEqualsActual(expected, actual)이 더 좋다.
+
+
+
+함수명으로 인해
+
+인수의 순서를 기억할 필요는가 없어진다.
+```
