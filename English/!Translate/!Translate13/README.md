@@ -1,3 +1,16 @@
+# [ 영어회화 ] "hook"을 활용한 영어 숙어 + 구동사
+* 낚시 바늘: fish hook
+* be/get hooked on + -에 꽂힌 / 빠진 / 중독된
+  * I was really hooked on European beer for a while but now i'm not really into anything in particular
+* get someone hooked on something: -를 -에 꽂히게 하다
+  * my sister is actually the one who got me hooked on investing in the first place.
+* be/get hooeked on + the idea of
+  * All I remember is being hooked on the idea of being able to reach thousands of learners at the same time
+* hook someone up with; 남녀 사이의 관계
+  * i hooked up with someone
+  * can you hook me up with some (물건)
+    * 물건도 가능
+
 # [ 영어 대화가이드 ] “그런건 못들어 본 것 같은데.. 정말 그런게 있나요?” [기초영어회화]
 ```java
 A: 와이프는 무슨 일 해?
