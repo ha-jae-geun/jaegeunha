@@ -164,3 +164,87 @@ public class MainController {
 }
  객체 정보는 그대로 전송하면 복잡하기 때문에 map 형태로 만들어준 다음 반환하여 전송합니다.
 ```
+
+
+# SerializeArray로 받기
+```java
+	// 패스워드 체크
+	@ResponseBody
+	@RequestMapping(value="/passChk", method = RequestMethod.POST)
+	public int passChk(MemberVO vo) throws Exception {
+		int result = service.passChk(vo);
+		return result;
+	}
+
+회원탈퇴 버튼을 눌렀을때 ajax는 Controller에서 /member/passChk로 요청합니다.
+
+요청을 하면서 $("#delForm").serializeArray()의 값들을 보내줍니다. (Form에 있는 데이터 userId, userPass, userName)
+
+데이터가 보내지고 성공했으면 Controller에서 return한 값 즉 1이 반환이됩니다.
+
+반환한 값은 fucntion의 파라미터 data로 들어가게되며 data가 0이면 패스워드가 틀리고 0이 아니면 회원탈퇴하시겠습니까? 라는 알러트문이 뜨게 됩니다.
+
+
+memberDeleteView.jsp는 약간의 수정사항이 있으니 이전 포스팅에서 작성한것과 비교하여 진행해주세요.
+
+
+	$("#submit").on("click", function(){
+				if($("#userPass").val()==""){
+					alert("비밀번호를 입력해주세요.");
+					$("#userPass").focus();
+					return false;
+				}
+				$.ajax({
+					url : "/member/passChk",
+					type : "POST",
+					dataType : "json",
+					data : $("#delForm").serializeArray(),
+					success: function(data){
+						
+						if(data==0){
+							alert("패스워드가 틀렸습니다.");
+							return;
+						}else{
+							if(confirm("회원탈퇴하시겠습니까?")){
+								$("#delForm").submit();
+							}
+							
+						}
+					}
+				})
+				
+			});
+```
+
+# Serialize
+```java
+Ajax를 사용해서 서버에 데이터를 보낼 때는 Ajax 요청으로 전송할 수 있고 서버가 이해할 수 있는 방식으로 형식을 바꿔야 한다. 
+이때 사용하는 방법이 객체 직렬화 이다. 데이터를 직렬화 하면 하나의 객체로 모을 수 잇고 Ajax 요청에서 데이터를 한 덩어리로 보낼 수 있다.
+Jquery에서 제공하는 직렬화 메서드는 serialize와 serializeArray 두가지가 있다. serialize는 폼에 있는 모든 필드를 문자열 
+하나로 합치는데 문자열을 키/값 쌍을 &문자로 구분한 형태이다. serializeArray 메서드는 키/값 쌍으로 구성된 연고나 배열을 만드는데 
+이 배열은 단 하나의 객체일 뿐이지만 serialize 메서드에서 만드는 단순한 문자열보다는 훨씬 잘 구조화 되어있다.
+
+serialize 예>
+
+<form id="exform">
+      <input type="text" name="a" value="1"/>
+      <input type="text" name="b" value="2"/>
+      <input type="hidden" name="c" value="3"/>
+</form>
+
+$("#exform").serialize();
+
+결과 : a=1&b=2&c=3
+
+serializeArray 예>
+
+<form id="exform">
+      <input type="text" name="a" value="1"/>
+      <input type="text" name="b" value="2"/>
+      <input type="hidden" name="c" value="3"/>
+</form>
+
+$("#exform").serializeArray();
+
+결과 : [{name: "a",value:"1"},{name:"b",value:"2"},{name:"c",value:"}]
+```
