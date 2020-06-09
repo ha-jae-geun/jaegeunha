@@ -1,3 +1,28 @@
+# [기초영어회화] finish up / end / done - 마무리하다 / 마치다 / 끝나다
+```java
+[KOR]
+A: Hey, 아직 일해?
+B: 이제 마무리하고 있어. 너 회의하고 있던거 아니었어?
+A: 응. 일찍 끝났어. 너 끝나면 저녁이나 먹으러 갈래?
+B: 좋아. 몇 분만 기다려줘(기다려 줄래?)
+A: OK.
+
+[ENG]
+A: Hey, are you still working?
+B: I'm just finishing up here. Weren't you in a meeting?
+A: Yeah. It ended early. Do you want to go get some dinner when you're done?
+Sure. Give me just a few minutes(?)
+A: OK.
+```
+* 뒷담하는 거야? Are you taling shit about me?
+* 일찍 끝났어; It ended early
+  * 때가 되어 마친 느낌
+* finish: 뭔가 완성된 느낌
+  * 마무리 하고 있어; i'm just finishing up here
+* 너 끝나면 when you are done
+* Give me just a few minutes(?);
+  * 말꼬리 끝을 올린다.
+
 # [ 영어회화 ] "hook"을 활용한 영어 숙어 + 구동사
 * 낚시 바늘: fish hook
 * be/get hooked on + -에 꽂힌 / 빠진 / 중독된
