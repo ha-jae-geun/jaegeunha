@@ -1,4 +1,147 @@
 # RequestBody
+```java
+@RequestBody
+
+●     요청 본문(body)에 들어있는 데이터를 HttpMessageConveter를 통해 변환한 객체로 받아올 수 있다.
+
+●     @Valid 또는 @Validated를 사용해서 값을 검증 할 수 있다.
+
+●     BindingResult 아규먼트를 사용해 코드로 바인딩 또는 검증 에러를 확인할 수 있다.
+
+ 
+
+HttpMessageConverter
+
+●     스프링 MVC 설정 (WebMvcConfigurer)에서 설정할 수 있다.
+
+        스프링부트에선 기본적으로 jackson Library가 잡혀있다.
+
+●     configureMessageConverters: 기본 메시지 컨버터 대체
+
+●     extendMessageConverters: 메시지 컨버터에 추가
+
+●     기본 컨버터
+
+              WebMvcConfigurationSupport.addDefaultHttpMessageConverters
+
+ 
+
+HttpEntity
+
+●     @RequestBody와 비슷하지만 추가적으로 요청 헤더 정보를 사용할 수 있다.
+
+ 
+
+package com.example.demo;
+
+import javax.validation.Valid;
+
+import org.springframework.http.HttpEntity;
+import org.springframework.validation.BindingResult;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping("/api/events")
+public class EventApi {
+	
+	
+	 @PostMapping
+	 public Event createEvent(@RequestBody @Valid Event event ,BindingResult bindingResult) {
+		
+		 if(bindingResult.hasErrors()) {
+			 bindingResult.getAllErrors().forEach(error->{
+				 System.out.println(error);
+			 });
+		 }
+		 
+		 return event; 
+     }
+	
+	
+	@PostMapping
+	public Event createEvent(@RequestBody HttpEntity<Event> request ) {
+		request.getHeaders();
+		return request.getBody();
+	}
+
+}
+ 
+
+주로 컨트롤러에서 데이터들을 받을때 json 형태로 받게 되는데
+
+json으로 형식을 특정 객체로 변환하게 하려면 @RequestBody를 사용하면 됩니다.
+
+{"name":"hello","limit":"10"} 을 보내게 되면
+
+event.setName("hello") , event.setLimit("10") 을 자동으로 해주는것이다.
+
+ 
+
+HttpEntity는 @RequestBody와 비슷하지만 추가적으로 요청 헤더 정보를 사용할 수 있다.
+
+@RequestBody는 생략가능
+
+ 
+
+<Test Code>
+
+ 
+
+package com.example.demo;
+
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
+import static org.springframework.test.web.servlet.result.MockMvcResultHandlers.print;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
+
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.http.MediaType;
+import org.springframework.test.context.junit4.SpringRunner;
+import org.springframework.test.web.servlet.MockMvc;
+
+import com.fasterxml.jackson.databind.ObjectMapper;
+
+@RunWith(SpringRunner.class)
+@SpringBootTest
+@AutoConfigureMockMvc
+public class EventApiTest {
+
+	@Autowired
+	ObjectMapper objectMapper;
+    	
+	@Autowired
+	MockMvc mockMvc;
+	
+	@Test
+	public void createEvent() throws Exception{
+		
+		Event event = new Event();
+		event.setName("sungwon");
+		event.setLimit(20);
+		
+		String json = objectMapper.writeValueAsString(event);
+		
+		mockMvc.perform(post("/api/events")
+				.contentType(MediaType.APPLICATION_JSON_UTF8)
+				.content(json))
+				.andDo(print())
+				.andExpect(status().isOk())
+				.andExpect(jsonPath("name").value("sungwon"));
+	}
+	
+}
+
+
+출처: https://yoonemong.tistory.com/239 [Sw.Dev]
+```
+
 # ResponseBody
 ```java
  @RequestBody, @ResponseBody 어노테이션을 사용하면 컨트롤러에서 JSON 데이터를 주고받을 수 있습니다.
