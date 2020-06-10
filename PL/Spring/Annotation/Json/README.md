@@ -248,3 +248,57 @@ $("#exform").serializeArray();
 
 결과 : [{name: "a",value:"1"},{name:"b",value:"2"},{name:"c",value:"}]
 ```
+
+# RestController
+```java
+@Controller
+public class BBsController {
+    // HTTP 요청의 내용을 Bbs 객체에 매핑하기위해 @RequestBody 애너테이션을 설정한다.
+  @RequestMapping(value="/bbs/insert", method = RequestMethod.POST)
+ @ResponseBody
+    public ApiResult bbsInsert(@RequestBody BBsVo bbsVo) {
+    ApiResult result = bbsService.insert(bbsVo);
+    return result;
+    }
+}
+- @RestController로 컨트롤러로 생성시 @RestController는 리턴값에 자동으로
+  @ResponseBody를 붙게되어 HTTP 응답데이터(body)에 자바 객체가 매핑되어 전달되기 때문에 @ResponseBody이 생략가능
+
+※ @Controller인 경우에는 @ResponseBody 한다.)
+
+※ RestApi 설계시 @RequestMapping > @PutMapping로 사용가능하다.
+
+BbsVo.java
+@Data 
+public class BbsVo {
+  private String title; 
+  private String contents; 
+  private List<Item> items; 
+}
+ 
+ 
+
+json 서브밋 부분
+var params = { 
+                title: "제목",
+                 contents: "내용",
+                 itmes: [
+                    {id: "1", code: "11"},
+                   {id: "2", code: "22"},
+                   {id: "3", code: "33"}
+                ] 
+            }; 
+ 
+$.ajax({ 
+    url: "http://localhost:8080/bbs/insert", 
+    method: "post",  //put 가능
+    type: "json", 
+    data: params, 
+    success: function(data) { 
+    console.log(data); 
+    } 
+});
+
+
+출처: https://devmg.tistory.com/107 [Dev. MG]
+```
