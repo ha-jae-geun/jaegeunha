@@ -1,3 +1,20 @@
+# 충돌
+```java
+import java.util.*;
+
+import java.sql.*;
+
+두 패키지의 클래스들을 임포트하면 둘다 Date클래스가 있기때문에 충돌을 일으킨다. (컴파일오류)
+
+이럴 때는 특정 클래스를 임포트하면 된다.
+
+import java.util.*;
+
+import java.sql.*;
+
+import java.sql.Date;
+```
+
 # Date의 단점
 ```java
 아직도 Calendar, Date 사용하니?
