@@ -51,7 +51,130 @@ Data Type
 
 ```
 
+# 기본 타입
+```java
+JAVA 실행
 
+JAVA실행은 두단계를 거친다
+
+(1) javac 명령으로 자바 소스를 컴파일해서 클래스 파일에 저장한다. ( .class 파일 생성 )
+
+(2) java 명령으로 가상 머신을 구동하고 클래스파일(.class)을 로딩해서 바이트 코드를 실행한다.
+
+JAVA 기본 타입
+
+(1) 정수 : int, long, short, byte
+
+* int의 범위가 최대 20억정도인데, 연습에서는 아무렇지 않게 int를 쓰더라도 금융쪽에서 개발할 때와 같이 다루는 
+숫자의 규모가 커질 때를 유념하고 이용할 것.
+
+long타입으로도 충분하지 않을 때는 BigInteger 클래스를 사용하도록 한다.
+
+(2) 부동소수점 : float, double
+
+무한대 - Double.POSITIVE_INFINITY , Double.NEGATIVE_INFINITY
+
+NaN (Not a Number) - '숫자가 아닌' Double.isNaN(x)로 검사해야함 x==Double.NaN 은 틀림
+
+(3) 문자 : char
+
+(4) boolean : boolean의 값은 false/true만 가능 * boolean이 숫자타입이 아니다. 0,1과 아무 관련이 없음.
+
+JAVA 연산 이슈
+
+시침 위치를 조정한 후 숫자를 0과 11사이로 정규화하려고 할 때, (position + adjustment) % 12 로 간단하게 얻을 수 있다. 
+하지만 adjustment가 음수로 만들어 버리면 값은 음수로 내려가 버린다. 따라서 branch를 도입하거나 ((position + adjustment) % 12 + 12) % 12를 
+사용해야 한다. 근데 둘다 불편하다.
+
+따라서 Math.floorMod 메소드를 사용하는 방법을 이용한다.
+
+Math.floorMod(position + adjustment, 12)는 언제나 0~11사이 값을 준다.
+
+* floorMod는 나누는 수가 음수면 음수값을 결과로 준다. 하지만 이런 상황은 잘 나오지 않는다.
+
+수학 / 숫자타입변환
+
+10억 곱하기 3은 -1294967296으로 계산된다. int의 범위 2억을 넘기 때문에 오버플로우 된 것이다. 따라서 예외로 잡는 함수를 사용해야한다. Math.multiplyExact(1000000000, 3)을 호출하면 예외로 잡는다.
+
+숫자타입변환의 기본
+
+피연산자중 하나가 double이면 다른 하나를 double로 만들고
+
+피연산자중 하나가 float이면 다른 하나를 float으로 만들고
+
+피연산자중 하나가 long이면 다른 하나를 long으로 만들고
+
+이 외에는 두 피연산자를 int로 변환다.
+
+특히, 작은 타입에서 큰 타입으로 변환은 언제나 합법적이나 큰 타입에서 작은 타입으로 변환할 때는 항상 주의해야한다. 
+소수부가 버려지거나 마지막 바이트만 보존되는 경우가 생긴다.
+
+논리 연산 이슈
+
+&&, || (and, or) 연산를 할 때 신경써야할 부분은 && 앞에 조건이 false면 두 번째 이후 조건을 평가하지 않는다는 것과 
+|| 앞에 조건이 true면 두 번째 이후 조건을 평가하지 않는다는 것을 유념하고 일일이 테스트 해야한다.
+
+큰 숫자
+
+int 나 double의 정밀도로 충분하지 않을 때 java.math 패키지의 BigInteger와 BigDecimal 클래스로 전환하면 된다.
+
+BigInteger n = BigInteger.valueOf( 879464894561511548L );
+
+부동소수점 뺄셈에서 2.0 - 1.1의 결과가 0.899999999999999999999999 로 나오는 이유는
+
+10진수로 1/3을 정확히 표현할 수 없듯, 2진수로 1/10을 정확히 표현할 수 없기 떄문이다.
+
+그래서 이러한 경우에는 BigDecimal클래스로 정확히 계산할 수 있다.
+
+BigDecimal.valueOf(2,0).subtract(BigDecimal.valueOf(11,1)) = 0.9
+
+문자열
+
+문자열은 문자의 시퀀스다.
+
+* String클래스는 절대 변하지 않는다.
+
+문자열 연결은 +로 가능 / 문자열 구분자로 구분해서 결합하려면 join 사용
+
+String names = String.join("," , "Peter", "pro" , "Jeong");
+
+(names은 "Peter,pro,Jeong")
+
+String Builder클래스 이용하면 더 간단하게 문자열 연결 가능 append
+
+substring : 추출할 문자열의 시작위치와 끝위치를 인자로 받아 추출
+
+equals : 문자열 비교 절대로 == 연산자사용하면 안됨. 이런 비교는 메모리에서 같은 객체일 때만 true반환하기 때문에 equals 사용
+
+"" 과 null 은 다르다.
+
+대소문자 구별하지 않고 비교 equalsIgnoreCase()
+
+(parseInt / toString , 문자->숫자 / 숫자->문자)
+
+문자열 API는 찾아보도록 하자
+
+boolean startsWith(String str) / boolean endsWith(String str) / boolean contains(CharSequence str)
+
+ - 문자열이 지정한 문자열로 시작/종료하거나 지정한 문자열을 포함하는지 검사
+
+int indexOf(String str) / int lastIndexOf(String str) / int indexOf(String str, int fromIndex) /
+int lastIndexOf(String str, int fromIndex)
+
+ - 전체 문자열이나 fromIndex에서 시작하는 부분 문자열을 검색해서 str이 처음 또는 마지막으로 나타난 위치를 얻는다
+
+String replace(CharSequence oldString, CharSequence newString)
+
+ - oldString이 나타난 부분을 모두 newString으로 교체한 문자열을 반환
+
+toUpperCase() , toLowerCase()
+
+ - 모두 대문자, 소문자로 변환
+
+trim()
+
+ - 앞뒤 공백 제거
+```
 
 
 # Value 타입과 Reference 타입
