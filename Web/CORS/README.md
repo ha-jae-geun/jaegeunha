@@ -1,3 +1,57 @@
+# CORS
+```java
+프론트엔드 서버와 백엔드 서버를 따로 구성하는 경우가 많다.
+이렇게 출처(origins)가 다른 경우 보안상 문제로 요청을 주고받을 수 없는 것이 웹 브라우저 기본 정책이다. 
+하지만 CORS (Cross Origin Resource Sharing)라는 방식을 통하면 서로 다른 출처라도 요청을 주고받을 것이 가능하다.
+
+SOP (Same Origin Policy)
+웹 애플리케이션 중요한 보안 개념 중 하나가 동일 출처 정책이다.
+동일 출처란 같은 도메인, 프로토콜, 포트를 의미한다.
+같은 도메인, 같은 포트에 있는 리소스를 불러올 때는 문제가 없지만 다른 출처의 리소스를 요청하는 것을 제한하는 보안 방식이다.
+
+
+
+참고자료 - poiemaweb.com
+
+CORS (Cross Origin Resource Sharing)
+서로 다른 출처(origin)로 상호작용을 하기 위해 서버와 클라이언트가 정해진 헤더를 통해 서로 요청이나 응답에 반응할지 결정하는 방식이다.
+
+server
+HTTP 응답 헤더 Access-Control-Allow-Origin : * 혹은 Access-Control-Allow-Origin: 허용하고자 하는 도메인을 설정해 준다.
+
+express
+const express = require('express')
+const cors = require('cors')
+const app = express()
+ app.use(cors())  // cors(*)
+client
+서버에서 서버로 보내는 요청은 CORS 에러가 적용되지 않는다.
+프록시 서버를 추가로 만들어서 클라이언트에서 우리가 새로 만든 프록시 서버로 요청을 보내고 프록시 서버에서 
+원하는 타깃 서버에 요청을 보내면 브라우저가 개입되지 않았기 때문에 CORS 에러를 해결할 수 있다.
+
+프록시 서버 : 브라우저와 서버를 통신하는 과정 중간에서 정보교환을 도와주는 중간 서버이다.
+( 브라우저 - 프록시 서버 - 서버 )
+프록시 서버는 헤더를 추가하거나 요청을 허용/거부하는 역할을 중간에서 해준다. (Access-Control-Allow-Origin :
+*의 헤더를 담아 응답해 준다.)
+
+
+출처 - 위키백과
+
+react
+src/setupProxy.js
+
+const { createProxyMiddleware } = require('http-proxy-middleware');
+
+module.exports = function (app) {
+  app.use(
+    '/api',
+    createProxyMiddleware({
+      target: `${process.env.REACT_APP_FETCHING_SERVER_URL}`,
+      changeOrigin: true,
+    })
+  );
+};
+```
 # 동일 출처 정책(SOP: Same-Origin Policy)
 * 어떤 출처에서 불러온 문서나 스크립트가 다른 출처에서 가져온 리소스와 상호작용 하는 것을 제한하는 중요한 보안 방식
 * 출처가 같다는 것은 두 URL의 프로토콜, 호스트, 포트 세 개가 모두 같다는 것
@@ -5,7 +59,7 @@
 
 ## 크로스 도메인 이슈
 * SOP 때문에 자바스크립트(XMLHttpRequest)로 다른 웹 페이지에 접근할 때 같은 출처의 페이지에만 접근 가능
-* SOP를 우회해서 서로 다른 도메인 간에 통신을 할 수 있게 해줄 뭉너가 필요
+* SOP를 우회해서 서로 다른 도메인 간에 통신을 할 수 있게 해줄 무언가 필요
 * 개발자들이 몇 가지 해결책 만듦
 * 그 중 가장 많이 이용한 방법
     * JSONP
