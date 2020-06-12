@@ -1,3 +1,22 @@
+# [ 영어 대화가이드 ] "궁금하다", "궁금한게 있다"
+```java
+A: 언제쯤이면 좀 진정되고 다시 정상으로 돌아갈까?
+B: 그러기나 할까?
+A: 무슨 말이야?
+B: 뭐, 어떻게든 결국 진정은 되겠지만 다시 예전처럼 되진 않을 것 같아. 난 어떤 변화가 생길지가 더 궁금한데.
+
+[ENG]
+A: I wonder when things will calm down and go back to normal.
+B: I wonder if they will at all.
+A: What do you mean?
+B: Well, I guess things will eventually calm down one way or another but I doubt things will ever be the same. I'm more curious to see how things will change.
+```
+* 상황이 진정될 때; When things will calm down; 
+  * things가 situation보다 자연스러움
+* I wonder if they will at all
+  * I wonder if things will calm down at all 줄인 형태
+* one way or another: 어떤식이든, 
+
 # [기초영어회화] finish up / end / done - 마무리하다 / 마치다 / 끝나다
 ```java
 [KOR]
