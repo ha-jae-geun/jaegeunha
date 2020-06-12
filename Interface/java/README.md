@@ -1,5 +1,45 @@
 # 인터페이스
 ```java
+인터페이스
+
+서비스 공급자와 자신의 객체가 해당 서비스를 사용할 수 있게 하려는 클래스가 있을 때, 이 두 클래스 사이의 계약을 표현하는 매커니즘
+
+* 인터페이스의 모든 메서드는 자동으로 public이 된다.
+
+타입변환
+
+상위 인터페이스 타입의 변수는 하위 인터페이스에서 상위인터페이스를 구현한 어떤 클래스의 객체라도 참조할 수 있다.
+
+가끔 역으로 슈퍼타입에서 서브타입으로 하는 것도 필요하다. 이럴 때는 변환을 해야한다.
+
+IntSequence sequence = ......;
+
+DigitSequence digits = (DigitSequence) sequence;
+
+System.out.println(digits.rest());
+
+여기서 rest()는 IntSequence의 메서드가 아니라 DigitSequence의 메서드다. 따라서 타입변환을 해서 사용했다.
+
+instanceof
+
+instanceof 연산자로 객체의 타입을 검사할 수 있다.
+
+객체 instanceof 타입  => if(sequence instanceof DigitSequence){}
+
+여러인터페이스 구현하기
+
+인터페이스는 몇개든 구현할 수 있다. implements ~~,~~,~~,~~,....{}
+
+인터페이스에서 상수는 자동으로 public static final이다.
+
+* 인터페이스 안에는 인스턴스 변수를 둘 수 없다. 인터페이스는 객체의 상태가 아니라 동작을 명시한다. (**메서드)
+
+
+좋아요공감
+공유하기 글 요소구독하기
+
+```
+```java
 1. 자바 인터페이스 변경점
 자바 8에서 대대적인 변화중 하나인 인터페이스에 변경점이 있습니다.
 
