@@ -39,6 +39,45 @@ instanceof 연산자로 객체의 타입을 검사할 수 있다.
 공유하기 글 요소구독하기
 
 ```
+
+```java
+인터페이스 기본메서드
+
+인터페이스 메서드 중 어느 것이든 기본 구현을 작성할 수 있다. (추상클래스는 안됨)
+
+인터페이스 메서드 충돌
+
+public interface Person{
+
+default int getId(){return 0;}
+
+}
+
+public interface Identified{
+
+default int getId(){return Math.abs(hashCode());}
+
+}
+
+이렇게 두개의 인터페이스가 있을 때 하나의 클래스에서 두 인터페이스를 상속받으면 어떻게 해야할까?
+
+방법은 고유의 getId()를 클래스에서 새로 작성하거나, 명시하는 방법이다.
+
+public class Employee implements Person , Identified{
+
+public int getId() {return Identified.super.getId();}
+
+}
+
+인터페이스 예
+
+Comparable 인터페이스 / Comparator 인터페이스 / Runnable 인터페이스 등...
+
+찾아보고 사용해보도록 하자.
+
+
+```
+
 ```java
 1. 자바 인터페이스 변경점
 자바 8에서 대대적인 변화중 하나인 인터페이스에 변경점이 있습니다.
