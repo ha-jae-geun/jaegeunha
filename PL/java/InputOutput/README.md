@@ -142,3 +142,79 @@ try(Stream<Path> entries = Files.walk(pathToRoot)){...}
 
 //자손 노드를 모두 담고 있으며, 각각을 깊이 우선 순서로 방문한다.
 ```
+
+# URL 커넥션
+
+```java
+URL 객체의 getInputStream메서드를 호출해서 URL을 읽어 올 수 있다. 하지만 웹 리소스에 대한 추가정보 혹은 데이터를 써야 한다면 URLConnection 클래스를 사용하면 된다.
+
+1. URL객체 가져오기
+
+URLConnection connection = url.openConnection();
+
+HTTP URL일때 실제 반환받는 객체는 HttpURLConnection의 인스턴스이다.
+
+2. 필요하면 요청 프로퍼티 설정
+
+connection.setRequestProperty("Accept-Charset", "UTF-8, ISO-8859-1");
+
+키와 연관된 값이 여러개면 각각을 콤마로 구분
+
+3. 서버로 데이터를 보내기
+
+connection.setDoOutput(true);
+
+try(OutputStream out = connection.getOutputStream()){
+
+out에 쓴다.
+
+}
+
+4. 응답 헤더를 읽으려고 하고 getOutputStream을 호출하지 않았다면
+
+Connection.connect();
+
+Map<String, List<String>> headers = connection.getHeaderFields();
+
+키가 같은 헤더 필드가 여러개 있을 수 있으므로 키별로 값의 리스트를 얻는다.
+
+5. 응답 읽기
+
+try(InputStream in = connection.getInputStream()){
+
+in에서 읽는다.
+
+}
+
+흔한 사례 폼 데이터 게시
+
+URL url = ...;
+
+URLConnection connection = url.openConnection();
+
+connection.setDoOutput(true);
+
+try(Writer out = new OutputStreamWriter(connection.getOutputStream(), StandardCharset.UTF_8)){
+
+Map<String,String> postData = ...;
+
+boolean first = true;
+
+for(Map.Entry<String,String> entry : postData.entrySet()){
+
+if(first) first = false;
+
+else out.write("&");
+
+out.write(URLEncoder.encode(entry.getKey(), "UTF-8"));
+
+out.write("=");
+
+out.write(URLEncoder.encode(entry.getValue(), "UTF-8"));
+
+}
+
+}
+
+try(InputStream in = connection.getInputStream()){...}
+```
