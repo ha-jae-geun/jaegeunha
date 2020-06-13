@@ -136,6 +136,104 @@ Error와 Exception은 같다고 생각할 수도 있지만, 사실 큰 차이가
 - Error; 자식들이 존재; 수행이 멈추는 것; 수정이 불가; 새로 짜야함
 - Runtime Exception은 Excpetion이지만 수정이 불가한 것이다.
 
+```java
+예외 (Exception)
+
+메서드가 해야 할 일을 수행할 수 없는 상황에 부딪혔을 때 예외 처리를 해줘야 한다.
+
+자바는 오류 코드를 전파할 때 메서드 호출 연쇄를 사용하지 않는다.
+
+* 적절한 예외 클래스를 고른다. (그냥 Exception 클래스를 잡는건 반드시 피할 것)
+
+모든 예외는 Throwable 클래스의 서브클래스다. **
+
+비검사 예외는 RuntimeException의 서브클래스다.
+
+다른 예외는 모두 검사 예외다. * 개발자는 반드시 검사예외를 잡아내야 한다.
+
+비검사 예외는 개발자가 만든 논리 오류를 나타낸다.
+
+NullPointerException은 검사 대상이 아니다. 거의 모든 메서드가 NullPointerException을 던질 수 있기 때문이다.
+
+따라서 NullPointerException을 잡기보다 null참조를 따라가지 않게 하는 것이 더 중요하다.
+
+Integer.parseInt(str) 호출을 생각해보자
+
+Integer.parseInt(str) 메서드는 str이 유효한 정수를 담고 있지 않으면 비검사 예외인 NumberFormatException을 던진다. 
+
+한편 Class.forName(str)은 str이 유효한 클래스 이름을 담고 있지 않으면 검사 예외인 ClassNotFoundException을 던진다.
+
+NumberFormatException은 Integer.parseInt를 호출하기 전까지는 예외가 나오는지 모르기 때문임.
+
+예외 선언
+
+public void write(Object obj,String filename) throws IOException , ReflectiveOperationException
+
+throws 절을 사용하고 뒤에 메서드가 던질 수 있는 예외를 나열해야 한다.
+
+* 오버라이드하는 메서드에서 그보다 범위가 좁은 예외만 던질 수 있다.
+
+* 슈퍼클래스에서 메서드에 throws 절이 없으면 오버라이드하는 메서드에서는 검사 예외를 던질 수 없다.
+
+예외 잡기
+
+try블록 *****
+
+try{
+
+문장
+
+}catch(예외클래스1 ex){
+
+핸들러
+
+}catch(예외클래스2 ex){
+
+핸들러
+
+}catch(예외클래스3 ex){
+
+핸들러
+
+}
+
+try-with-resources 문
+
+예외 처리의 문제점은 리소스 관리다. (예를들면 file open, close) *****중요
+
+try (리소스타입1 res1 = init1; 리소스타입2 res2 init2; ..){
+
+문장
+
+}
+
+각 리소스는 반드시 AutoCloseable 인터페이스를 구현하는 클래스에 속해야한다. * AutoCloseable 인터페이스에는
+close() 메서드만 선언되어 있다.
+
+* 리소스 초기화순서의 역순으로 닫힌다.
+
+이렇게 하면 예외 발생 여부에 상관없이 자동으로 리소스를 닫는다. 
+
+예외 다시 던지기, 연쇄하기
+
+예외가 일어났을 때 무슨일을 해야하는지 모르더라도 로그로 찍고 싶을때가 있다. 이럴 때는 예외를
+다시 던져서 적합한 예외 핸들러가 처리할 수 있게 해야한다.
+
+try{
+
+작업수행
+
+}catch(Exception ex){
+
+logger.log(level , message, ex);
+
+throw ex;
+
+}
+
+
+```
+
 ## Compiled Checked 클래스 
 - Complile Checked . 계열은 컴파일 시에 예외처리 유무를 검사하는 클래스 계열이다 Complile Checked 계열에서 발생하는 예외처리는 개발자들의 문제라기보다는 사용자의 작업에 의해서 발생하는 경우가 많다. 
 - ① ClassNotFoundException 클래스 ClassNotFoundException 클래스는 클래스 이름을 입력했을 경우에 클래스가 존재하지 않으면 발생한다. 
