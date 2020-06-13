@@ -96,3 +96,285 @@ PC 값은 스레드가 명령어의 어디까지 수행하였는지를 나타나
 * ThreadLocal.set() 메서드를 이용해서 현재 스레드의 로컬 변수에 값을 저장한다.
 * ThreadLocal.get() 메서드를 이용해서 현재 스레드의 로컬 변수 값을 읽어온다.
 * ThreadLocal.remove() 메서드를 이용해서 현재 스레드의 로컬 변수 값을 삭제한다.
+
+```java
+자바 쓰레드 (JAVA Thread)
+
+쓰레드 : 프로세스(실행중인 프로그램)에서 하나의 실행 흐름.
+
+자바는 멀티 쓰레드를 지원하는 언어로 멀티 쓰레드란 말 그대로 하나의 프로그램에서 여러 개의 실행 흐름을 만들고 실행 할 수
+
+있다는 것이다.
+
+멀티쓰레드를 사용 하는 이유 : 외부와의 연계같이 대기 시간이 발생했을 때 기다리는 동안 다른 일을 처리할 수 있게 해서 처리 
+
+속도를 빠르게 하기 위함이다.
+
+* 단, CPU코어 수가 적으면 쓰레드를 그 만큼 만들 수 없기 때문에 드라마틱하게 빨라지지 않고, 처리하는 데이터 양이 적을 
+
+때에도 속도가 많이 빨라지지 않기 때문에 쓰레드를 적절한 경우에 사용하는 것이 좋다.
+
+쓰레드 만드는 법
+
+1. Runnable 인터페이스를 상속(확장)한 클래스를 만든다. (Runnable 인터페이스를 상속받으면 run()메서드를 구현해야 한다.)
+
+2. 1에서 상속한 클래스 객체를 만든다. (Runnable 객체 / 실행가능한 객체)
+
+3. 2에서 만든 객체를 가진 실행흐름(Thread) 객체를 만든다. (자바에서 제공)
+
+4. 쓰레드를 실행시킨다. (필요에 따라 중지도 시킴)
+
+기본 예제
+
+
+package com.tistory.jeongpro;
+ 
+public class MultiThreadSample implements Runnable {
+    private static final String MSG_TEMPLATE = "출력중 [%s][%d회]";
+    private final String threadName;
+    public MultiThreadSample(String threadName){
+        this.threadName = threadName;
+    }
+    public void run(){
+        for(int i =1;i<100;i++){
+            System.out.println(String.format(MSG_TEMPLATE, threadName,i));
+        }
+    }
+    public static void main(String[] args){
+        MultiThreadSample runnable1 = new MultiThreadSample("thread1");
+        MultiThreadSample runnable2 = new MultiThreadSample("thread2");
+        MultiThreadSample runnable3 = new MultiThreadSample("thread3");
+        
+        Thread thread1 = new Thread(runnable1);
+        Thread thread2 = new Thread(runnable2);
+        Thread thread3 = new Thread(runnable3);
+ 
+        thread1.start();
+        thread2.start();
+        thread3.start();
+    }
+}
+ 
+Colored by Color Scripter
+
+
+Runnable 인터페이스를 상속받은 클래스를 작성하였고 run()메서드(1~99회까지 문자열 출력)를 구현했다.
+
+Runnable 객체를 만들었고 그것을 실행시켜줄 쓰레드도 만들었다.
+
+만든 쓰레드를 실행했다.
+
+쓰레드 풀(Thread Pool)
+
+위에서는 3개의 쓰레드를 만들었지만 동적으로 프로그램에 접속한 사람 수 만큼 쓰레드를 생성하게된다면 어떨까?
+
+아마 제한하지 않으면 메모리를 다 잡아먹을 만큼의 쓰레드를 만들어 버릴 것이다.
+
+따라서 쓰레드풀을 이용해서 쓰레드 생성할때 최대 개수를 지정해본다.
+
+
+package com.tistory.jeongpro;
+ 
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.TimeUnit;
+ 
+public class MultiThreadSample implements Runnable {
+    private static final String MSG_TEMPLATE = "출력중 [%s][%d회]";
+    private final String threadName;
+    public MultiThreadSample(String threadName){
+        this.threadName = threadName;
+    }
+    public void run(){
+        for(int i =1;i<100;i++){
+            System.out.println(String.format(MSG_TEMPLATE, threadName,i));
+        }
+    }
+    public static void main(String[] args){
+        MultiThreadSample runnable1 = new MultiThreadSample("thread1");
+        MultiThreadSample runnable2 = new MultiThreadSample("thread2");
+        MultiThreadSample runnable3 = new MultiThreadSample("thread3");
+        
+        ExecutorService executorService = Executors.newFixedThreadPool(3);
+        executorService.execute(runnable1);
+        executorService.execute(runnable2);
+        executorService.execute(runnable3);
+        
+        executorService.shutdown();
+        try{
+            if(!executorService.awaitTermination(5, TimeUnit.MINUTES)){
+                executorService.shutdownNow();
+            }
+        }catch(InterruptedException e){
+            e.printStackTrace();
+            executorService.shutdownNow();
+        }
+    }
+}
+ 
+Colored by Color Scripter
+cs
+아까 예제에서 직접 쓰레드를 생성하지 않고 쓰레드풀을 생성해서 쓰레드개수를 3개로 제한하고 실행시켰다.
+
+* 쓰레드풀을 3개로 제한하고 많은 Runnable객체를 4개 이상 만든다면 앞에서 Runnable객체가 먼저 실행하고 실행이 끝나면 다음
+
+Runnable객체가 들어가게 된다.
+
+* .shutdown() 메서드는 실행중인 작업 뿐만 아니라 작업 큐에 대기하고 있는 모든 작업들을 다 '처리'하고 쓰레드풀을 중지시킨다. 
+
+(shutdownNow()는 인터럽트로 즉시 중지시킨다.)
+
+* .awaitTermination은 shutdown()메서드 호출이후 해당 시간만큼안에 쓰레드풀의 작업이 전부 수행하지 못하면 실행중이던 
+
+쓰레드에 인터럽트를 발생시키고 false 반환한다. (예제에선 5,TimeUnit.MINUTES 즉 5분이다)
+
+쓰레드 세이프 (Thread Safe)
+
+멀티쓰레드로 동작하는 프로그램에서 개발자가 의도한 대로 동작하는 것을 가리킨다.
+
+전혀 다른 일을 처리할 때는 발생상황이 없겠으나 공유자원을 참조할 때라면 개발자는 반드시 처리해야한다.
+
+
+package com.tistory.jeongpro;
+ 
+import java.util.Date;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+ 
+public class UnsafeSample {
+    public static void main(String[] args){
+        //안전하지 않은 객체
+        DateFormat unsafeDateFormat = new SimpleDateFormat("yyyy/MM/dd");
+        Calendar cal1 = Calendar.getInstance();
+        cal1.set(1989,Calendar.MARCH,10);//1989/03/10
+        Date date1 = cal1.getTime();
+        Calendar cal2 = Calendar.getInstance();
+        cal2.set(2020, Calendar.JUNE,20);//2020/06/20
+        Date date2 = cal2.getTime();
+        
+        Thread thread1 = new Thread(() ->{
+            for(int i=0;i<100;i++){
+                try{
+                    String result = unsafeDateFormat.format(date1);
+                    System.out.println("Thread1: " + result);
+                }catch(Exception e){
+                    e.printStackTrace();
+                    break;
+                }
+            }
+        });
+        Thread thread2 = new Thread(() ->{
+            for(int i=0;i<100;i++){
+                try{
+                    String result = unsafeDateFormat.format(date2);
+                    System.out.println("Thread2: " + result);
+                }catch(Exception e){
+                    e.printStackTrace();
+                    break;
+                }
+            }
+        });
+        
+        thread1.start();
+        thread2.start();
+    }
+}
+ 
+Colored by Color Scripter
+
+
+단순히 결과를 예측해보면 Thread1은 1989/03/10 만 100번 나오고 Thread2는 2020/06/20 만 100번 나와야 한다.
+
+그러나 자세히보면 2020/06/10, 1989/03/20 이런 내용이 섞여나온다. 왜일까?
+
+답은 SimpleDateFormat 클래스를 동시에 사용하려고 했기때문이다.
+
+내부적으로 처리 속도가 상당히 빠른데 그 와중에 겹쳐서 date1의 1989/03/까지 찍고 있는데 갑자기 date2도 
+
+SimpleDateFormat클래스를 이용해서 20을 찍어버리는 결과가 나올 수 있기 때문이다.
+
+이렇게되면 개발자가 기대하는 대로 프로그램이 수행되지 않게 되는 것이다.
+
+다양한 많은 해결법중 단순한 방법 하나 - synchronized 사용하기
+
+
+package com.tistory.jeongpro;
+ 
+import java.util.Date;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+ 
+public class SynchronizedSample {
+    public static void main(String[] args){
+        //안전하지 않은 객체
+        DateFormat unsafeDateFormat = new SimpleDateFormat("yyyy/MM/dd");
+        Calendar cal1 = Calendar.getInstance();
+        cal1.set(1989,Calendar.MARCH,10);//1989/03/10
+        Date date1 = cal1.getTime();
+        Calendar cal2 = Calendar.getInstance();
+        cal2.set(2020, Calendar.JUNE,20);//2020/06/20
+        Date date2 = cal2.getTime();
+        
+        Thread thread1 = new Thread(() ->{
+            for(int i=0;i<100;i++){
+                try{
+                    String result;
+                    synchronized (unsafeDateFormat) {
+                        result= unsafeDateFormat.format(date1);
+                    }
+                    System.out.println("Thread1: " + result);
+                }catch(Exception e){
+                    e.printStackTrace();
+                    break;
+                }
+            }
+        });
+        Thread thread2 = new Thread(() ->{
+            for(int i=0;i<100;i++){
+                try{
+                    String result;
+                    synchronized (unsafeDateFormat) {
+                        result= unsafeDateFormat.format(date2);
+                    }
+                    System.out.println("Thread2: " + result);
+                }catch(Exception e){
+                    e.printStackTrace();
+                    break;
+                }
+            }
+        });
+        
+        thread1.start();
+        thread2.start();
+    }
+}
+ 
+Colored by Color Scripter
+
+
+바뀐 것은 딱 각각 한줄이다. unsafeDateFormat을 사용하는 줄.
+
+String result = unsafeDateFormat.format(date1);
+
+위 문장을 
+
+String result;
+                    synchronized (unsafeDateFormat) {
+                        result= unsafeDateFormat.format(date1);
+                    }
+이 문장으로 바꿨다.
+
+synchronized를 통해서 해당 인수(unsafeDateFormat)에 락을 걸어서 쓰레드끼리 동시에 사용하지 못하게 막은 것이다. 
+
+누군가 unsafeDateFormat 객체를 쓰려고하면 쓰고있는지 검사해서 기다리게 하거나 사용하게 해준다.
+
+따라서 기다리는 시간이 있다보니 기존에 멀티쓰레드를 그냥 쓰던 방법보다 속도는 느리게 나오나 개발자가 기대하는대로 
+
+실행되기때문에 적절한 프로그래밍을 한 것이다.
+
+synchronized를 사용하게 되면 그냥 멀티쓰레드를 사용하는것보다 보통 100배정도 속도가 느리게 나온다.
+
+이것을 개선한 방법도 있으니 찾아보고 공부하면 좋겠다.
+```
