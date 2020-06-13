@@ -1,5 +1,69 @@
 # 객체 직렬화
 ```java
+직렬화
+
+객체의 상태 혹은 데이터구조를 기록할 수 있는 포맷으로 변환하는 것.
+
+(객체 -> 문자열)   스트림에 전송   (문자열 -> 객체)
+
+문자열로 받은 것을 객체로 변환하는 것은 역직렬화.
+
+적용 분야
+
+파일저장 : .dat 파일에다가 저장해두고 다시 불러와서 객체로 쓸 때
+
+네트워크통신 : 객체를 패킷에 담아 전송할 때
+
+데이터베이스 : 데이터베이스에 객체를 문자열로 바꿔서 저장해놓고 다시 꺼내쓸 때
+
+웹 : 웹서버에서 브라우저로 구조화된 데이터를 보낼 때 (ex JSON)
+
+직렬화 데이터 타입
+
+Binary : 바이트의 연속된 형태로 저장
+
+JSON : 텍스트 형식으로 널리 다양한 프로그래밍언어에서 읽고 쓸 수 있어 많이 사용됨
+
+XML : JSON에 비해 복잡하나 스키마를 적용할 수 있고 무결성 검사 가능
+
+사용하기
+
+자바의 Serializable 인터페이스를 이용해서 별도의 라이브러리없이 이용할 수 있다.
+
+하지만 제약이 많아 잘 사용 안한다.
+
+Google의 GSON을 더 잘 사용함.
+
+자바 객체를 JSON으로 변환하거나 반대의 작업을 수행하는 자바라이브러리
+
+Class Item {
+
+private String name;
+
+private String address;
+
+public static void main(String[] args){
+
+Item item = new Item();
+
+Gson gson = new GsonBuilder().setVersion(1.0).create();
+
+String json = gson.toJson(item);
+
+}
+
+}
+
+Jackson JSON
+
+고성능 JSON프로세서 자바 라이브러리
+
+BSON for Jackson
+
+바이너리 인코딩된 JSON (몽고디비 데이터 교환 포맷) 등이 있다.
+```
+
+```java
 Java와 객체
 자바는 객체지향 언어이다.
 
