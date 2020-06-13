@@ -97,14 +97,18 @@ Performance의 오버헤드 : Reflection에는 동적으로 해석되는 유형�
 # Class.forName
 ```java
 리플렉션(Reflection)이란?
-자바에서 제공하는 리플렉션(Reflection)은 C, C++과 같은 언어를 비롯한 다른 언어에서는 볼 수 없는 기능입니다. 이미 로딩이 완료된 클래스에서 또 다른 클래스를 동적으로 로딩(Dynamic Loading)하여 생성자(Constructor), 멤버 필드(Member Variables) 그리고 멤버 메서드(Member Method) 등을 사용할 수 있도록 합니다.
+자바에서 제공하는 리플렉션(Reflection)은 C, C++과 같은 언어를 비롯한 다른 언어에서는 볼 수 없는 기능입니다. 이미 로딩이 완료된 
+클래스에서 또 다른 클래스를 동적으로 로딩(Dynamic Loading)하여 생성자(Constructor), 멤버 필드(Member Variables) 그리고 멤버 메서드(Member Method) 
+등을 사용할 수 있도록 합니다.
 
-그러니까, 컴파일 시간(Compile Time)이 아니라 실행 시간(Run Time)에 동적으로 특정 클래스의 정보를 객체화를 통해 분석 및 추출해낼 수 있는 프로그래밍 기법이라고 표현할 수 있습니다.
+그러니까, 컴파일 시간(Compile Time)이 아니라 실행 시간(Run Time)에 동적으로 특정 클래스의 정보를 객체화를 통해 분석 및 추출해낼 수 
+있는 프로그래밍 기법이라고 표현할 수 있습니다.
 
 
 
 어떻게 사용할까?
-리플렉션은 간단하게 Class.forName("클래스이름").newInstance 와 같은 코드처럼 클래스의 이름으로부터 인스턴스를 생성할 수 있고 이를 이용하여 클래스의 정보를 가져올 수 있습니다.
+리플렉션은 간단하게 Class.forName("클래스이름").newInstance 와 같은 코드처럼 클래스의 이름으로부터 인스턴스를 생성할 수 있고 이를 
+이용하여 클래스의 정보를 가져올 수 있습니다.
 
 import java.lang.reflect.Method;
 
@@ -136,7 +140,9 @@ public class MadPlay {
     }
 }
 Java
-13번 라인에서 자바의 벡터(Vector) 클래스의 경로를 Class.forName() 메서드의 인자로 주어 Class 객체를 가져옵니다. 한편 메서드의 내부를 살펴보면 클래스를 찾을 수 없는 경우에 발생하는 ClassNotFoundException이 선언되어 있기 때문에 위의 try-catch 문처럼 예외를 핸들링할 수 있도록 합니다.
+13번 라인에서 자바의 벡터(Vector) 클래스의 경로를 Class.forName() 메서드의 인자로 주어 Class 객체를 가져옵니다. 한편 메서드의 
+내부를 살펴보면 클래스를 찾을 수 없는 경우에 발생하는 ClassNotFoundException이 선언되어 있기 때문에 위의 try-catch 문처럼 예외를 
+핸들링할 수 있도록 합니다.
 
 @CallerSensitive
 public static Class<?> forName(String className)
@@ -291,10 +297,88 @@ Java
 관한 정보를 얻어야할 때 등등이 있겠지요. 물론 리플렉션이 없더라도 완성도 높은 코드를 구현할 수 있지만 사용한다면 조금 더 유연한 코드를 
 만들 수 있습니다.
 
-자바 관련 서적 또는 참고 자료를 인용하자면 자바의 리플렉션으로는 클래스의 패키지 정보, 접근 지정자, 수퍼 클래스, 어노테이션(Annotation) 
-등도 얻을 수 있다고 합니다.
+자바 관련 서적 또는 참고 자료를 인용하자면 자바의 리플렉션으로는 클래스의 패키지 정보, 접근 지정자, 수퍼 클래스, 
+어노테이션(Annotation) 등도 얻을 수 있다고 합니다.
 
 
+```
+
+```java
+열거 enum
+
+public enum Size { SMALL, MEDIUM, LARGE, EXTRA_LARGE };
+
+* 열거 타입 값을 비교할 때는 간단히 ==를 사용하라 equals를 호출해도 결국 ==로 검사함.
+
+* Size notMySize = Size.valueOf("SMALL");
+
+-> notMySize를 Size.SMALL로 설정한다.
+
+* Size[] allValues = Size.values();
+
+-> values() 함수를 쓰면 모든 인스턴스를 배열로 리턴해줌.
+
+Class 클래스
+
+어떤 객체의 참조를 저장하는 Object타입 변수가 있는 상태에서 해당 객체의 더 많은 정보를 얻고 싶다면?
+
+Object obj = ...;
+
+Class<?> cl = obj.getClass(); // <?>를 빠뜨리면 IDE가 경고를 준다.
+
+Class 객체를 얻고 나면 클래스의 이름을 알 수 있다.
+
+Class.forName을 사용해서 Class 객체를 얻는 방법도 있다.
+
+Class.forName 메서드의 용도는 컴파일 시간에 알려지지 않은 클래스의 Class 객체를 생성하는 것이다.
+
+* 자바에서 배열은 클래스지만 인터페이스, 기본타입, void는 클래스가 아니다.
+
+리소스 로드하기
+
+Class 클래스의 유용한 서비스 중 하나는 설정파일이나 이미지처럼 프로그램 리소스를 찾아오는 일이다.
+
+InputStream stream = MyClass.class.getResourceAsStream("config.txt");
+
+Scanner in = new Scanner(stream);
+
+getResource메서드는 해당 리소스에 대응하는 URL을 반환한다.
+
+리소스에는 서브디렉터리가 포함될 수 있으며, 해당 서브디렉터리를 상대경로나 절대경로로 지정할 수 있다.
+
+MyClass.class.getResourceAsStream("/config/menus.txt")는 MyClass가 속한 패키지의 루트를 담고있는 디렉터리에서
+config.menus.txt를 찾아온다.
+
+클래스 로더
+
+자신마의 URLClassLoader 인스턴스를 생성하면 클래스 패스에 없는 디렉터리나 JAR 파일에서 클래스를 로드할 수 있다. (플러그인 로드)
+
+URL[] urls = {
+
+new URL("file:///path/to/directory/");
+
+new URL("file://path/to/jarfile.jar");
+
+};
+
+String className = "com.mycompany.plugin.Entry";
+
+try(URLClassLoader loader = new URLClassLoader(urls)){
+
+Class<?> cl = Class.forName(className,true,loader);
+
+// cl의 인스턴스 생성
+
+}
+
+이름으로 클래스를 로드하는 메서드를 작성할 때는 단순히 해당 메서드가 속한 클래스의 클래스 로더를 사용하면 안된다. 
+메서드를 호출하는 쪽에서 명시적인 클래스 로더를 전달하거나 컨텍스트 클래스 로더를 사용하는 방법 중에서 선택할 수 있게 하는게 좋다.
+
+서비스 로더
+
+ServiceLoader 클래스를 이용하면 공통 인터페이스를 준수하는 플러그인을 손쉽게 로드할 수 있다.
+
+프로그램에서 서비스 로더 초기화는 한번만 수행해야한다.
 ```
 
 # 주의해야할 점
