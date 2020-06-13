@@ -59,6 +59,40 @@ Ex) 올바른 괄호 문자열(VPS, Valid Parenthesis String) 판단하기
 6. 후위 표기법 계산
 https://gmlwjd9405.github.io/2018/08/03/data-structure-stack.html
 
+
+스택
+
+자바 컬렉션 프레임워크에 Stack인터페이스는 없다.
+
+레거시 Stack은 있지만 사용하면 안된다.
+
+스택, 큐, 덱이 필요하지만 스레드 안정성을 신경쓰지 않는 다면 ArrayDeque을 사용해도 된다.
+
+ArrayDeque<String> stack = new ArrayDeque<>();
+
+stack.push("Peter");
+
+stack.push("Paul");
+
+while(!stack.isEmpty())
+
+System.out.println(stack.pop());
+
+큐
+
+Queue<String> queue = new ArrayDeque<>();
+
+queue.add("Peter");
+
+queue.add("Paul");
+
+while(!queue.isEmpty())
+
+System.out.println(queue.remove());
+
+병행프로그램에서는 주로 스레드 안전 큐를 사용한다.
+
+
 ## 큐
 * 큐, 우선순위 큐, 환형 큐, 데큐
 
@@ -399,3 +433,44 @@ public class HashMapEg{
 * 위 예제에서는 null은 "asdf", 1은 "Scott"를 가지게 됩니다.
 
 
+# Properties
+```java
+프로퍼티
+
+Properties 클래스는 텍스트 형식으로 쉽게 저장하고 불러올 수 있는 맵을 구현한다.
+
+Properties settings = new Properties();
+
+settings.put("width", "200");
+
+settings.put("title", "HelloWorld");
+
+try( OutStream out = Files.newOutputStream(path)){
+
+settings.store(out, "Program Properties");
+
+}
+
+실행하면 다음 파일이 생성됨
+
+#Program Properties
+
+#Mon Now 03 20:52:11 CET 2017
+
+width=200
+
+title=HelloWorld
+
+#은 설명문 앞에 붙음
+
+프로퍼티파일 불러오는 방법
+
+try(InputStream in = Files.newInputStream(path)){
+
+settings.load(in);
+
+}
+
+
+
+```
