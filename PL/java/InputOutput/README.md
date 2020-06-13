@@ -86,3 +86,59 @@ Collections.sort(friends);
 
 
 ```
+
+```java
+InputStream in = Files.newInputStream(path);
+
+OutputStream out = Files.newOutputStream(path);
+
+path는 Path클래스의 인스턴스다. // File System에서 경로를 나타낸다.
+
+URL이 있을 때는 입력 스트림에서 해당 URL의 콘텐츠를 읽을 수 있다.
+
+URL url = new URL("http://jeong-pro.com/index.html");
+
+InputStream in = url.openStream();
+
+바이트 배열 읽기
+
+byte[] bytes = ...;
+
+InputStream in = new ByteArrayInputStream(bytes);
+
+바이트 배열 출력
+
+ByteArrayOutputStream out = new ByteArrayOutputStream();
+
+byte[] bytes = out.toByteArray();
+
+경로 (Path)
+
+Path absolute = Paths.get("/", "home", "cay"); // 첫번째인자가 루트구성요소면 절대경로
+
+Path relative = Paths.get("myapp","conf","user.properties"); // 아니면 상대경로
+
+자동으로 유닉스파일시스템은 / , 윈도우는 \를 이용해 결합한다.
+
+파일과 디렉터리 생성하기
+
+Files.createDirectory(path); //새 디렉토리 생성
+
+Files.createDirectories(path);
+
+Files.createFile(path); // 빈 디렉토리 생성
+
+파일 복사, 이동, 삭제
+
+Files.copy(fromPath, toPath); //파일을 다른위치로 복사
+
+Files.move(fromPath, toPath); //파일 이동 (원본을 복사한 후 삭제)
+
+기존에 대상 덮어쓰기 는 인자로 옵션 추가 StandardCopyOption.REPLACE_EXISTING
+
+자식 방문하기
+
+try(Stream<Path> entries = Files.walk(pathToRoot)){...}
+
+//자손 노드를 모두 담고 있으며, 각각을 깊이 우선 순서로 방문한다.
+```
