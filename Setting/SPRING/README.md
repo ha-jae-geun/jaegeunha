@@ -33,6 +33,9 @@
 
 
 ## Spring 초기 설정
+* Preferences에 Encoding 검색 -> Encoding UTF-8로 변경
+	* General - Editors - Text Editors - Spelling - Encoding 
+	0. Getneral - Content Types - Java Class File - Default Encoding: UTF-8	
 1. workspace 설정
 	* General 하단 메뉴에 Workspace로 들어갑니다.
 	* 여기서 Text file encoding에 Other을 선택한 후 UTF-8로 바꾸어 줍니다. 그리고 Apply클릭
