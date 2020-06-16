@@ -1,7 +1,7 @@
 - http://connoyaro.synology.me:5000/
 
 # 깃독서
-* goodgid: https://goodgid.github.io/category/#OS
+* goodgid: https://goodgid.github.io/
 * 조은: https://medium.com/@euncho 
 * 에반문: https://evan-moon.github.io/
 * 개발자 스럽다 https://blog.gaerae.com/
