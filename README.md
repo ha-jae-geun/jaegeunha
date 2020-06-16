@@ -6,7 +6,6 @@
 * 에반문: https://evan-moon.github.io/
 * 개발자 스럽다 https://blog.gaerae.com/
 * 정아마추어 코딩블로그: https://jeong-pro.tistory.com/
-* 신입면접자 https://jeong-pro.tistory.com/m
 * facebook
   *     [] OSSF 개발자 그룹  [] 출퇴근길 개발읽기  [] 그날그날 프로그래밍
 * OKKY https://okky.kr/
