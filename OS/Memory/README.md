@@ -203,6 +203,7 @@ CS 시 오버헤드 증가
 * 새롭게 시작하는 프로세스는 메모리에 적재한다.(Swap-in)
 
 
+
 # 연속 할당(Continuous Memory Allocation)
 * Uni-programming
 * Multi-programming
@@ -210,6 +211,11 @@ CS 시 오버헤드 증가
 		* 고정 분할
 	* Variable partition(VPM)
 		* 가변 분할
+
+## Continous allocation Address Mapping
+* 상대 주소: 프로그램의 시작 주소를 0으로 가정한 주소
+* 재배치: 메모리 할당 후 할당된 주소에 따라 상대 주소들을 조정하는 작업
+
 
 ## 연속 할당 정의
 * 프로세스를 하나의 연속된 공간에 할당하는 정책
@@ -251,6 +257,43 @@ CS 시 오버헤드 증가
 * Internal/external fragmentation
 
 
+# Non-continuous allocation
+* 사용자 프로그램을 여러 개의 block으로 분할
+* 실행 시 필요한 bloeck 들만 메모리에 존재
+	* 나머지 block들은 swap device에 존재
+* 기법들
+	* Paging System
+	* Segmentation System
+	* Hybrid paging/segmentation system
+
+## NonContinous allocation Address Mapping
+* Virtual address(가상주소) = relative address
+	* Logical address(논리 주소
+	* 연속된 메모리 할당을 가정한 주소
+* Real address(실제 주소) = absolute(physical)
+	* 실제 메모리에 적재된 주소
+* Address Mapping
+	* Virtual address를 real address
+
+## Block Mapping
+* 사용자 프로그램을 block 단위로 분할/관리
+	* 각 block에 대한 address mapping 정보 유지
+* Virtual address: v=(b,d)
+	* b = block number
+	* d = displacement(offset) in a block
+* Blcok map table(BMT)
+	* Address mapping 정보 관리
+		* Kernel 공간에 프로세스마다 하나의 BMT를 가짐
+	* Residence bit: 해당 블록이 메모리에 적재되었는지 여부
+
+### Block Mapping 과정
+1. 프로세스의 BMT에 접근
+2. BMT에서 block b에 대한 항목을 찾음
+3. Residence bit 검사
+	3-1. Residence bit = 0경우 swap device에서 해당 블록을 메모리로 가져옴, BTM 업데이트 이후 3-2 단계 수행
+	3-2. REsidence bit=1 경우, BMT에서 b에 대한 real address 값 a 확인
+4. 실제 주소 r계산( r = a + d)
+5. r을 이용하여 메모리에 접근
 
 # 단편화
 ```JAVA
