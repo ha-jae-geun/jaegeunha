@@ -26,6 +26,12 @@
 * F: Fin; 종료 비트
   * 연결을 끊을 때 사용하는 비트
 
+### Three Way handshake
+* SYN > Syn + ACK > ACK
+1. S: 100(처음 S는 랜덤)  A: 0
+2. S: 2000 A: 101(받은 S + 1)
+3. S: 101(받은 ACK)  A: 2001(받은 S + 1)
+
 ## Urgent Pointer
 * 어디서부터가 긴급 비트인지 알려주는 포인터
 
