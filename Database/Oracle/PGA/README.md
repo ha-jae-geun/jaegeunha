@@ -1,3 +1,31 @@
+# 오라클 구조
+* 내부적을 메모리 영역(System Global Area)이랑 데이터베이스 영역이 있다.
+
+# SGA 구조
+* SGA > Shared Pool > Library Cache
+
+# Library Cache
+* 우리가 날리는 SQL이랑 최적화된 실행 계획이 Library Cache 영역에 저장이 되어있다.
+* 오라클이 Library Cache에 정보를 저장할 때 SQL을 Hash 함수를 써서 저장을 하게 된다
+  * SQL 문장 그 자체가 키값이 된다; 그래서 같은 SQL이라도 공백, 줄바꿈이 들어갔거나 대소문자가 다르거나 하면 다른 SQL로 간주해서 Cache를 탈 수 없다
+  
+# 오라클 내부 과정
+1. SQL을 날린다.
+2. 오라클이 내부적으로 SQL 파싱을 먼저 한다 
+    * Syntax 에러 체크
+    * Semantic(권한, 존재 여부) 체크
+    * Library Cache 영역에서 저장되어 있는 정보가 있는지 확인
+            * 예전에 같은 SQL을 실행한 적 있고 거기에 최적화된 실행 계획이 Library Cache에 저장이 되어 있다면 Cache 영역에서 바로 꺼내서 실행하고 끝낸다
+            * 만약 저장되어있는 정보가 없다면 옵티마이저가 수많은 실행계획들을 도출해 낸 다음에 어떤 실행계획이 가장 비용이 적게 드는지 최적화를 거치게 된다. 최적화 이후 SQL 엔진이 해석할 수 있는 언어로 변환을 하는 Row-source generation 과정을 거친다음에이 실행이 되게 된다.
+
+# Hard Parsing
+* 옵티마이저에 의해서 최적화하고 Raw-source generation까지 하고 그 다음 실행되는게 Hard Parsing
+
+# Soft Parsing
+* Library Cache에서 바로 꺼내서 쓰는 것 
+* 동적인 커리에서 Soft Parsing을 사용하려면 바인드 변수를 사용하면 된다
+  * 바인드 변수를 제외한 나머지 쿼리를 파싱한 다음에 마지막에 방니드 변수 적용하는 방식
+
 # PGA
 * SMJ의 Sort Area나 Hash 영역은 PGA에 위치한다, 그래서 처리 속도가 매우 빠르다
 ```java
