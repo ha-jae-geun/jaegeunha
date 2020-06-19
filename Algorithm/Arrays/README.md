@@ -1,4 +1,6 @@
 # 배열
+* 배열이 0부터 시작하는 거는 배열이 첫 칸부터 몇번째 떨어졌는지 묻는 것부터 시작
+
 ## 배열 순서 뒤집기
 ```java
 Collections.reverse(Arrays.asList(array));
