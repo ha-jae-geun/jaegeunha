@@ -111,3 +111,6 @@ jQuery 사용 방법을 배우는 것은 크게 어렵지 않습니다. CSS 선�
 하지만 광범위하게 jQuery를 사용하는 경우에는 웹사이트 속도가 느려질 수 있기 때문에 모든 스크립트를 jQuery로 작성하는 
 것보다는 직접 구현하기 복잡한 스크립트만 jQuery를 활용하여 작성하는 것이 바람직합니다.
 ```
+
+# CDN 서버
+* [CDN](https://github.com/ha-jae-geun/jaegeunha/blob/master/Server/README.md)
