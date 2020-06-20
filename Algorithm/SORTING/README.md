@@ -207,6 +207,8 @@ public class InsertionSort {
 * https://gmlwjd9405.github.io/2018/05/06/algorithm-selection-sort.html
 
 # 퀵 정렬  nlogn, nlogn n2
+* 깊이(log n; 바이너리 트리를 쓰는 이유가 n을 log n으로 만들기 위해 사용) * 다른 값과 전부다 비교(n)
+	* 퀵 정렬은 분할 정렬과 달리 무조건 반으로 쪼개지는 않기 때문에 한쪽으로 쏠리는 트리 형태가 나올 수 있어 최악의 경우 깊이 n
 * 분할 정복 알고리즘의 하나로, 평균적으로 매우 빠른 수행 속도를 자랑하는 정렬 방법
 * 합병 정렬(merge sort)과 달리 퀵 정렬은 리스트를 비균등하게 분할한다.
 
@@ -304,6 +306,8 @@ public class Quick {
 * https://gmlwjd9405.github.io/2018/05/08/algorithm-shell-sort.html
 
 ## 병합정렬  nlogn, nlogn nlogn
+* 깊이(log n; 바이너리 트리를 쓰는 이유가 n을 log n으로 만들기 위해 사용) * 다른 값과 전부다 비교(n)
+	* 병합 정렬은 퀵소트랑 달리 무조건 반으로 나누기 때문에 한쪽으로 쏠리는 트리 형태가 나오지 
 * ‘존 폰 노이만(John von Neumann)’이라는 사람이 제안한 방법
 * 일반적인 방법으로 구현했을 때 이 정렬은 안정 정렬 에 속하며, 분할 정복 알고리즘의 하나 이다.
 * 분할 정복(divide and conquer) 방법
