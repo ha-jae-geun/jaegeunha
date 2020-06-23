@@ -79,6 +79,17 @@ DNS 서버로 호스트 네임을 포함한 UDP 패킷을 보낸다. 이 서버�
 
 ## UDP 프로토콜 구조
 * 소스 포트(2) + Destination Port(2) + Length(2) + CheckSUm(2)
+```java
+1. Source Port Number : 송신 포트번호 (포트번호를 사용해서 상위 단계 프로그램들을 식별한다)
+
+2. Destination Port Number : 수신 포트번호
+
+3. UDP length : UDP헤더와 데이터를 합친 길이
+
+4. UDP checksum : UDP헤더와 데이터를 모두 포함하여 체크한다.
+
+
+```
 
 ## DNS 서버
 * UDP 프로토콜을 사용하는 대표적인 프로그램
