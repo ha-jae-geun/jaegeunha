@@ -22,6 +22,7 @@
 
 
 # ORM(Ojbect-Relational Mapping)
+* [ORM](https://github.com/ha-jae-geun/jaegeunha/blob/master/Web/ORM/README.md)
 * 이전에는 물리적으로 SQL과 JDBC API를 데이터 접근 계층에 숨기는데 성공했을지 몰라도 논리적으로는 엔티티와 아주 강한 의존관계를 가지고 있다.
 * 패러다임의 불일치(연과 관계(객체 참조), 상속)
 
