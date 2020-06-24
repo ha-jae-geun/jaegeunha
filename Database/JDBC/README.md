@@ -1,3 +1,59 @@
+# Persistence
+* 데이터를 생성한 프로그램의 실행이 종료되더라도 사라지지 않는 데이터의 특성(프로세스에서 만들어낸 램에 있는 데이터를 영구히 저장하려 하는 것)
+
+# JDBC API 구조
+* Java Application > JDBC API > JDBC Driver Manager
+* JDBC Driver Manager 아래에
+  * JDBC Driver -> MySQL/Oracle/SQL Server/ODBC Driver
+  * JDBC Driver Manger만 바꿔주면 JDBC API에 맞게 응답할 수 있게 할 수 있음
+* DriverManger를 이용해서 Ceonnection 인스턴스를 얻는다
+  * Connecton을 통해서 Statement를 얻는다
+  * Statement를 이용해 REsultSet을 얻는다
+
+# SQL Mapper
+
+## JDBC SQLMAPPER
+* Application(DAO) > JDBC Interface(Spring JDBC) <- DataSource > JDBC Implements(JDBC Driver) > Database
+
+## MyBastis
+* SQL을 분리하자
+* Query를 Java에서 XML로 옮겨서 작성
+* ResultSet과 같이 결곽밧을 맵핑하는 객체 없음
+
+
+# ORM(Ojbect-Relational Mapping)
+* 이전에는 물리적으로 SQL과 JDBC API를 데이터 접근 계층에 숨기는데 성공했을지 몰라도 논리적으로는 엔티티와 아주 강한 의존관계를 가지고 있다.
+* 패러다임의 불일치(연과 관계(객체 참조), 상속)
+
+## JPA
+* 애플리케이션 -> JPA 표준 인터페이스 -> Hibernate/EclipseLink/DataNucleus
+
+### 엔티티 메니저
+* [어노테이션]((https://dev-troh.tistory.com/151)
+* [전체 설명](https://ultrakain.gitbooks.io/jpa/chapter1/chapter1.1.html)
+* 컨텍스트를 4개로 분리
+  1. Managed
+  2. Transient
+  3. Detached
+  4. Removed
+* Transient (Persist/Save entity) -> Managed (flush)-> DB
+* 영속성 컨텍스트
+* LazyLoading
+* Dirty Checking
+* Caching
+
+## Hibernate
+
+## Spring JPA
+* 엔티티 메니저 대신 Repository 사용
+  * Repository 내부 코드에 엔티티 매니저가 있다.
+* Spring Application -> Spring Data JDBC -> JDBC API > JDBC Driver Manager > JDBC Driver > DBMS
+
+# JDBC 역사
+* 1990년대 중반 인터넷 보급, DB 산업 성장
+  * 온라인 비즈니스의 투자 증가, DB Connector에 대한 니즈
+  * 자바 지녕의 Database 연결 표준 인터페이스
+ 
 # jdbc
 ## 외부에 있는 오라클 라이브러리로 JDBC 사용하기(가장 안정된 User Library)
 1. C:\oraclexe\app\oracle\product\11.2.0\server\jdbc\lib 복사
