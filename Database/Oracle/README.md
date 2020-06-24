@@ -84,9 +84,11 @@
 	* 컬럼 하나를 SELECT 하든 모든 컬럼을 SELECT 하든 IO하는 블록읙 갯수는 동일하다.
 	* 블록의 사이즈는 DB_BLOCK_SIZE 라는 파라미터로 지정을 할 수 있다.(2K, 4K, 8K 처럼 2의 N승으로 지정 가능)
 * EXTENT: 데이터베이스가 공간을 할당하는 가장 작은 단위
+	* 테이블에서 데이터를 쌓다고 공간이 부족해지면 데이터베이스에서 하나의 EXTENT를 할당해준다
 	* 예를 들어 블록이 4K, EXTENT가 32K면 8개의 블록이 하나의 EXTENT를 이룬다.
 * SEGEMENT는 OBJECT라고 생각하면 된다. OBJECT중에서 저장 공간을 사용을 하는 OBJECT다.1.8
 	* VIEW와 SYNONYM 은 저장 구조를 갖지 않는 OBJECT이다.
+	* SEGMENT는 저장 공간을 사용한다
 	* HWM-High Water Mark
 * TABLESPACE는 SEGMENT들을 담고있는 거대한 컨테이너다
 
