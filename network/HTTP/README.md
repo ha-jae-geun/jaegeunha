@@ -1,5 +1,15 @@
 ## [정아마추어](https://jeong-pro.tistory.com/89?category=793347)
 
+# HTTP
+* www에서 쓰이는 핵심 프로토콜로 문서의 전송을 위해 쓰이며, 오늘날 거의 모든 웹 애플리케이션에서 사용되고 있다.
+      * 음성, 화상 등 여러 종류의 데이터를 MIME로 정의하여 전송 가능
+* Request/Response 동작에 기반하여 서비스 제공
+
+## 통신과정
+1. 3Way HandSHake
+2. Http 요청
+3. Http 응답
+
 # HTTP(TCP) 소프트웨어 개발 시 고려사항
 1. TCP handshake 설정
 2. 인터넷 혼잡을 제어하기 위한 TCP Slow Start
