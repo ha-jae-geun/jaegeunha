@@ -1,3 +1,25 @@
+# 역사
+* 웹서버는 정적 데이터 처리에 특화
+* 동적 데이터를 처리하는 CGI는 많은 사용자를 처리하기에는 무리
+	* 왜냐하면 웹서버와 CGI 구현체 1개가 데이터를 주고 받을 때 구현체 1개 당 1개의 프로세스가 할당
+* 서블릿(웹 서버 + 웹 컨테이너)
+	* 개선: 프로세스를 Thread 처리로 바꿈
+	* 많은 instance 생성에서 Singleton으로
+ 	* 웹 컨테이너: 요청이 들어오면 Thread를 생성하고 Servlet을 실행시킨다
+		* Servlet Interface에 따라 Servlet을 관리한다
+	* Servlet Instance
+		* Init
+		* Service: 실제 기능이 수행되는 곳
+			* doGet, doPost, doDelete
+		* Destroy: Servlet Instance가 사라진다
+			* Container가 종료되는 시점에 destroy 된다
+			* 특정 Servlet 로드/언로드 시에 사용
+		* 각 메서드는 Servlet Container에서 호출한다
+	* Web.xml
+		* WAS에서 Servlet 객체 - URL Mapping 정보 알려줌
+* Spring Web MVC
+	* 이전에는 URL마다 Servlet을 생성하여 Web.xml로 서블릿을 관리했지만 Spring MVC는 DisPatcherSevlet 1개로 관리한다
+	
 # 서블릿
 ![서블릿](./image/servlet.JPG)
 - 서버에서 실행되는 자바 프로그램(HTML in JAVA)
