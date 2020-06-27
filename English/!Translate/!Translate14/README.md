@@ -15,6 +15,7 @@ I think I got really lucky.  Otherwise it would've cost well over 100 thousand w
 * 회원권 갱신; renew my membership
 * 누구를 소개하면 추가 할인; additional discount for referrals
 * 마침; It just so happened that
+* get really luck; 1. 운이 좋았다. 2. 
 
 # [ 시사영어 ] 주제 : 남북 공동연락사무소 폭파
 ```java
