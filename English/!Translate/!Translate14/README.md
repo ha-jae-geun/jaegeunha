@@ -1,3 +1,21 @@
+# [ 중요한 영어 표현 복습 ] "운이 좋았던 이야기"
+```java
+A: 아싸! 1년 회원권을 끊었는데 50만원 정도 밖에 안들었어. 그거면 보통 가격의 절반 정도 밖에 안돼.
+B: 뭐? 어떻게?
+A: 딱 회원권 갱신을 하려고 하는데 마침 재등록하는 회원에게 큰 할인을 해주더라고. 
+게다가, 누구 소개하면 추가 할인까지 해주는데 마침 친구 하나가 몇 주째 우리 헬스장에 관심을 갖고 있었거든. 
+그래서 이번에는 운이 좋았어. 안그랬으면 100만원 훨씬 넘게 들었을거야.
+
+Awesome! I paid only about 30 thousand won for a flight ticket to 제주 island. 
+What ? how ?
+Just as I was looking for a ticket ,  travel   agency offered a huge discount   on it .Plus ,
+an additional discount for a  00 credit card promotion and it  just so happened that 00 card is my most used one.
+I think I got really lucky.  Otherwise it would've cost well over 100 thousand won.
+```
+* 회원권 갱신; renew my membership
+* 누구를 소개하면 추가 할인; additional discount for referrals
+* 마침; It just so happened that
+
 # [ 시사영어 ] 주제 : 남북 공동연락사무소 폭파
 ```java
 북한은 2018년에 남북한 간의 소통을 위한 거래의 일부로 설립된 공동연락사무소를 폭파시켰다. 그것은 협력을 확대하고 
