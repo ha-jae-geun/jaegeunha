@@ -2,7 +2,6 @@
 
 # 깃독서
 * goodgid: https://goodgid.github.io/
-* 조은: https://medium.com/@euncho 
 * 에반문: https://evan-moon.github.io/
 * 개발자 스럽다 https://blog.gaerae.com/
 * 정아마추어 코딩블로그: https://jeong-pro.tistory.com/
