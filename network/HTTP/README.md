@@ -10,6 +10,34 @@
 2. Http 요청
 3. Http 응답
 
+# 요청 프로토콜의 구조
+* Request Line
+* Headers
+* 공백
+* Body
+
+## Request Line
+* 요청타입 + 공백 + URI + 공백 + HTTP 버전
+
+## 요청 타입(메소드)
+* Get
+     * Client가 Server로부터 문서를 읽어오려 할 때 사용
+     * 데이터를 보낼 수 도 있음
+* Post
+     * 클라이언트가 서버에게 정보를 전송할 때 사용
+     * 데이터를 읽어올 수 있음
+* PUT
+     * 클라이언트가 서버에 특정 자원을 업로드할 때 사용
+     * 사진 같은 업로드는 JSP, ASP, PHP 같은 CGI가 업로드 해주는 것임(보안상 막아놓음)
+* Delete
+     * 서버에서 문서를 제거하기 위해 사용(보안상 막아놓음)
+
+# URI 구조
+* scheme://host[:port][/path][?query]
+     * ex) http://IP주소:포트/폴더이름/파일이름
+     * ip주소는 도메인 주소가 ip주소로 바뀜
+     * 포트번호는 https의 경우 443 포트가 생략이 됨
+
 # HTTP(TCP) 소프트웨어 개발 시 고려사항
 1. TCP handshake 설정
 2. 인터넷 혼잡을 제어하기 위한 TCP Slow Start
