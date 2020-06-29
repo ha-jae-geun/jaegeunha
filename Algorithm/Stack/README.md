@@ -1,3 +1,6 @@
+# 배열, 연결리스트 차이
+* [차이](https://sycho-lego.tistory.com/23)
+
 # 스택의 사용 사례
 ```java
 1. 재귀 알고리즘
