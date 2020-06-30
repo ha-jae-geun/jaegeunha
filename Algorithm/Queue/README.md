@@ -33,7 +33,8 @@
 * Dequeue 명령시 (f==r)이면 (Queue EMPTY 발생)
 
 
-(rear+1)/arraysize == front면 포화
+넣을 때: (rear+1)/arraysize == front면 포화
+뺄 때: (front+1)/arraysize == rear면 포화
 
 front가 이동하기 때문에 선형큐처럼 메모리를 이동시켜줄 필요가 없다.
 
