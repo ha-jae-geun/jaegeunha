@@ -13,13 +13,15 @@
 
 문제점이 많아 사용되지 않음
 
+배열을 삭제할 때 메모리를 이동시켜줘야 함(원형큐가 나온 이유)
+
 * 초기에 front와 rear는 -1을 가르킴
+
 
 
 2. 원형큐
 
 배열을 원형으로 사용해 큐를 구현
-
 
 
 * 항상 front는 비어있어야 함
@@ -31,9 +33,13 @@
 * Dequeue 명령시 (f==r)이면 (Queue EMPTY 발생)
 
 
+(rear+1)/arraysize == front면 포화
+
+front가 이동하기 때문에 선형큐처럼 메모리를 이동시켜줄 필요가 없다.
 
 
-연결된 큐(linked queue)
+
+3. 연결된 큐(linked queue)
 
 front포인터는 삭제와 관련되며 rear 포인터는 삽입
 
@@ -45,7 +51,7 @@ front는 연결 리스트 맨앞의 요소를 가르키며, rear 포인터는 �
 
 
 
-덱(deque, Double-ended queue)
+4. 덱(deque, Double-ended queue)
 
 큐의 전단(front)와 후단(rear)에서 모두 삽입과 삭제가 가능한 큐
 
