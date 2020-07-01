@@ -1,3 +1,22 @@
+# [ 영어회화 / 연습가이드 ] 일의 진행 상태에 대해서 말하기
+```java
+A: 지금 상황을 봐서는 7일 쯤이면 정상 운영할 수 있다고 기대할 수 있을 것 같은데요. 어떻게 생각해요?
+B: 7일이요? 하루 정도 당겨지거나 늦어질 수는 있지만. 그럼요. 큰 문제가 생기지만  않는다면요.
+A: 물론, 하다보면 조금씩 지체가 되는 일이 생기기 마련이지만 감당 못할 일은 없잖아요.
+
+[ENG]
+A: Well, by the looks of it, I think we can expect to be up and running by the 7th. What do you think?
+B: The 7th? Give or take a day. Sure. Assuming we don't run into any major setbacks.
+A: Well, or course, we're bound to hit a few bumps in the road along the way but there's nothing we can't handle.
+```
+* 지금 상황을 봐서는; By the looks of it
+* 정상 운영할 수 있다; we can expect to be up and running 
+* 하루 정도 당겨지거나 늦어질 수 있다; Give or take a day
+* 큰 문제가 생기지 않는다면; Assuming we don't run into any major setbacks
+     * - 하지 않는 이상; Assuming
+* (크지 않는 사소한) 지체가 되는 일이 생기기 마련이지만; We're bound to hit a few bumps in the road
+     * be bound to: - 하기 마련이다.
+
 # [ 중요한 영어 표현 복습 ] "운이 좋았던 이야기"
 ```java
 A: 아싸! 1년 회원권을 끊었는데 50만원 정도 밖에 안들었어. 그거면 보통 가격의 절반 정도 밖에 안돼.
