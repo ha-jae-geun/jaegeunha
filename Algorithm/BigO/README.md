@@ -126,10 +126,19 @@ doubly Linked List는 lookup, assign, insert, find의 경우 Linked List와 같�
 https://gmlwjd9405.github.io/2018/08/03/data-structure-stack.html
 ```
 
+# 우선순위 큐
+
+```java
+배열 기반 데이터의 삽입의 시간복잡도: O(n)
+배열 기반 데이터의 삭재의 시간복잡도: O(1)
+
+연결리스트 기반 데이터의 삽입의 시간복잡도: O(n)
+연결리스트 기반 데이터의 삭재의 시간복잡도: O(1)
 
 # 힙 정렬
 * [힙 정렬](https://m.blog.naver.com/ndb796/221228342808)
 * 배열을 이용한 힙 정렬 시간복잡도(삽입: log n, 삭제: logn)
+```
 
 # 이진검색트리
 ```java
