@@ -5,6 +5,7 @@
 * 에반문: https://evan-moon.github.io/
 * 개발자 스럽다 https://blog.gaerae.com/
 * 정아마추어 코딩블로그: https://jeong-pro.tistory.com/
+* 정보처리기사 https://www.gunsys.com/q/index.php?midCode=1010
 * facebook
   *     [] OSSF 개발자 그룹  [] 출퇴근길 개발읽기  [] 그날그날 프로그래밍
 * OKKY https://okky.kr/
