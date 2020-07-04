@@ -9,7 +9,12 @@
   *     [] OSSF 개발자 그룹  [] 출퇴근길 개발읽기  [] 그날그날 프로그래밍
 * OKKY https://okky.kr/
 
-# 깃
+# SCM
+```java
+소프트웨어 공학에서 소프트웨어 구성 관리(software configuration management, SCM, S/W CM)[1]는 더 범위가 큰 구성 관리의 학문간 분야의 일부인, 
+소프트웨어의 변경사항을 추적하고 통제하는 작업이다.[2] SCM 행위에는 버전 관리, 베이스라인 확립이 포함된다. 무언가 잘못되는 경우 SCM은 변경사항과 
+변경한 사람을 특정할 수 있다. 구성이 잘 된 경우 SCM은 수많은 호스트에 걸쳐 이를 복제(replicate)하는 방법을 결정한다.
+```
 * working copy ->(add) index/staging area ->(commit) repositories
 
 # 새 프로젝트 만들기
