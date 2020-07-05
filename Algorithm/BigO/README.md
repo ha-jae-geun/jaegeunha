@@ -176,3 +176,12 @@ O(n)의 계산복잡성이 발생합니다. 두 마리 토끼를 잡아보자는
 1. 이진탐색트리(Binary Search Tree), 레드-블랙 트리, AVL- 트리등의 트리에 기반한 구조들
 2. Direct Address Table, 해시 테이블 등
 ```
+
+# AVL 트리
+```java
+	 	평균             최악						
+공간		O(n)		O(n)
+검색		O(logN)         O(logN)
+삽입		O(logN)         O(logN)
+삭제		O(logN)         O(logN)
+```
