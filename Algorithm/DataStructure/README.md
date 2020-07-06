@@ -76,14 +76,28 @@ System.out.println(i);
 * 집합을 정의하며 요소의 중복을 허용하지 않음. 상위 메소드만 사용함
 
 
+
+
 # Map 
-* HashMap
+# HashMap
 * TreeMap
 * HashTable
 * Properties
 * 키(key)와 값(value)의 쌍으로 이루어진 데이터의 집합이다.
 * 순서는 유지되지 않고, 키는 중복을 허용하지 않으며 값의 중복을 허용한다
 
+## Ordered Map
+* map 은 기본적으로(대부분의 STL 컨테이너들이 그렇듯이) 레드블랙 트리(Red-Black Tree 이하 RB Tree) 기반으로 되어있습니다. 때문에 모든 데이터는 정렬되어 저장됩니다.
+
+## Unordered Map(HashMap)
+* 헤시 테이블로 구성되어 있다.
+
 ## Map Interface
 * Key와 Value의 쌍으로 연관지어 저장하는 객체
 
+## Map의 용도
+* 연관있는 두 개의 값을 관리하는 경우
+* 검색을 빠르게 하고 싶은 경우
+
+## BigO
+* map 은 O(logN)의 탐색 속도를, unordered_map은 O(1)의 탐색 속도
