@@ -1,4 +1,5 @@
 # 데이터 타입
+* [Map, Set, List](https://lelumiere.tistory.com/3)
 ```java
 컴퓨터 메모리에는 비트의 패턴이 저장된다. 이것이 무엇을 의미할지는 순전히 어떻게 쓰여질지에 따라 달려있다.
 
