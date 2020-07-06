@@ -1,3 +1,21 @@
+# [기초영어회화] 어쩌면 / 아마도 / 잘하면
+```java
+A: 이 시간에 여는 약국이 있을까요?
+Are there any pharmacies open at this hour?
+B: 아마 없을걸요. 백화점 안에서 하나 찾을 수 있으면, 그러면 어쩌면.. 
+Probably not. If you can find one inside a department store, then maybe.
+안그러면 보통 7시 전에는 닫아요. 아! 잠깐! 갑자기 생각났다!
+Otherwise, they usually close before 7. Oh wait! I jusst remembered!
+길 내려가서 주유소 지나자마자 하나가 있는데 거기 8시쯤에 열려있는걸 본적이 있어요. 
+There's one down the street just past the gas station. I've seen them open around 8
+지금 출발하면 잘하면 닫기 직전일 수도 있어요.
+If you leave now, you might catch them just before they close
+```
+* maybe: 어쩌면, 그럴 수도 있고
+    * 잘하면 닫기 직전일 수도 있어요;  You might catch them just before they close
+    * 잘하면: If you're lucky
+* Probably: 아마도
+
 # [ 영어회화 / 연습가이드 ] 일의 진행 상태에 대해서 말하기
 ```java
 A: 지금 상황을 봐서는 7일 쯤이면 정상 운영할 수 있다고 기대할 수 있을 것 같은데요. 어떻게 생각해요?
