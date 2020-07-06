@@ -185,3 +185,6 @@ O(n)의 계산복잡성이 발생합니다. 두 마리 토끼를 잡아보자는
 삽입		O(logN)         O(logN)
 삭제		O(logN)         O(logN)
 ```
+
+# Map
+* map 은 O(logN)의 탐색 속도를, unordered_map은 O(1)의 탐색 속도
