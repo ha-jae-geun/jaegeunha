@@ -71,6 +71,7 @@ System.out.println(i);
 * 순서를 유지하지 않는 데이터의 집합, 데이터의 중복을 허용하지 않는다. 
 * List와 Set은 공통적으로 Iterator을 사용할 수 있다. 
   * List, Set => Collection => Iterable의 순서로 implements 하고 있다.
+  * [Set](https://brunch.co.kr/@springboot/57)
 
 ## Set Interface
 * 집합을 정의하며 요소의 중복을 허용하지 않음. 상위 메소드만 사용함
