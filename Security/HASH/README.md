@@ -1,3 +1,18 @@
+# 문제
+```java
+4. 해싱함수 중 주어진 키를 여러 부분으로 나누고, 각 부분의
+값을 더하거나 배타적 논리합(XOR : Exclusive OR) 연산을 통하여 나온 결과로 주소를 취하는 방법은? 3번
+① 중간 제곱 방법(Mid-square method)
+② 제산 방법(Division method)
+③ 폴딩 방법(Folding method)
+④ 기수 변환법(Radix conversion method)
+
+
+8. 해싱에서 동일한 홈 주소로 인하여 충돌이 일어난 레코드들 의 집합을 의미하는 것은? 3번
+① Overflow ② Bucket
+③ Synonym ④ Collision
+```
+
 # 배열
 * 원소 하나를 저장하고 검색하는데 O(n)의 시간 소요
 * 트리는 원소 하나를 저장하고 검색하는데 평균 O(log n)의 시간 소요
