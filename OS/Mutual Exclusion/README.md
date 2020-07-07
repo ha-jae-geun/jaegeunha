@@ -215,6 +215,25 @@ MUTual EXclusion으로 상호배제라고도 합니다.
 5. Dining philosopher 문제
 
 
+```java
+P_counting( int count )
+   P( countLock )        // Acquire lock to count: countLock <- 0
+   count--
+   if( count <= 0 )      // If no more threads allowed into critical section
+      P( sectionLock )   // Resource full => Acquire section lock: sectionLock <- 0
+      V( countLock )     // Release lock to count: countLock <- 1
+   else
+      V( countLock)
+
+V_counting( int count )
+   P( countLock )
+   count++
+   if( count > 0)        // Release sectionLock if resource is freed up
+      V(sectionLock)     // countLock released after sectionLock so that waiting
+      V(countLock)       // threads do not jump in when before resource is available
+   else
+      V(countLock)
+```
 
 # 모니터(Monitor)
 * Mutex(Lock)와 Condition Variables(Queue라고도 함)을 가지고 있는 Synchronization 메카니즘이다.
