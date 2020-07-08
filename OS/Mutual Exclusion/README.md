@@ -248,6 +248,7 @@ V_counting( int count )
       V(countLock)
 ```
 
+* [블로그](https://codegym.cc/groups/posts/220-whats-the-difference-between-a-mutex-a-monitor-and-a-semaphore)
 # 모니터(Monitor)
 * Mutex(Lock)와 Condition Variables(Queue라고도 함)을 가지고 있는 Synchronization 메카니즘이다.
 
@@ -267,6 +268,9 @@ V_counting( int count )
 * 지원하는 언어에서만 사용 가능
 * 컴파일러가 OS를 이해하고 있어야 함
 	* Critical section 접근을 위한 코드 생성
+
+## Synchronized
+* Java uses the synchronized keyword to represent a monitor. All the code that appears instead of the synchronized keyword in the last example is the monitor.
 
 ### 전자(뮤텍스,모니터)는 상호 배제를 함으로써 임계구역에 하나의 쓰레드만 들어갈 수 있다.
 * 후자(세마포어)는 하나의 쓰레드(binary semaphore)만 들어가거나
