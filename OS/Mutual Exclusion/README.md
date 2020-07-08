@@ -8,6 +8,9 @@
 수 있다
 ```
 
+# 참고자료
+* [블로그](http://yimoyimo.tk/OS-process-synchronization-2/)
+
 # Mutual Exclusion
 * 자원은 한 번에 한 프로세스만이 사용할 수 있어야 한다.
 
