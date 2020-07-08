@@ -1,5 +1,13 @@
-* [Linux](./Linux/README.md)
-* [Android](./Android/README.md)
+# 문제
+```java
+46. 운영체제의 운용 기법 중 중앙 처리 장치의 시간을 각 사용 자에게 균등하게 분할하여 사용하는 체제로서 
+모든 컴퓨터사용자에게 똑같은 서비스를 제공하는 것을 목표로 삼고 있 으며, 라운드 로빈 스케줄링을 사용하는 것은?  2번
+① Real-Time Processing System
+② Time Sharing System
+③ Batch Processing System
+④ Distributed Processing System
+
+```
 
 # 운영체제
 * 하드웨어를 효율적으로 관리해서 응용 프로그램/사용자에게 효율적으로 서비스 제공
