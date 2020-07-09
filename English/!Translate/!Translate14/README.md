@@ -1,3 +1,22 @@
+# [ 영어 회화 연습 ] "1명씩 돌아가면서" - 순서와 차례에 대해서 말하기
+```java
+저는 부모님이랑 누나 한 명이랑 같이 살아요. 저희 모두 직업이 있어요. 
+저희는 아주 작은 아파트에서 사는데 화장실이 1개 밖에 없어요. 상상이 되세요? 
+우리 넷이서 아침마다 돌아가면서 화장실을 써야 해요. 어떤 특정 순서대로 돌아가진 않아서 일찍 일어날 수록
+일찍 화장실을 쓸 수 있고 늦게 일어나면 자기 차례를 기다려야 해요.
+
+[ENG]
+I live with my parents and one older sister. We all have full time jobs. 
+We live in a very small apartment with just one bathroom. Can you imagine? 
+The four of us have to take turns using the bathroom every morning. 
+We don't go in any particular order so the sooner you get up, the sooner you can use the bathroom. 
+If you get up late, you have to wait for your turn.
+
+```
+* take turns -ing
+* 어느 특정 순서대로; in a/any particular order
+* wait for one's turn
+
 # [기초영어회화] 어쩌면 / 아마도 / 잘하면
 ```java
 A: 이 시간에 여는 약국이 있을까요?
