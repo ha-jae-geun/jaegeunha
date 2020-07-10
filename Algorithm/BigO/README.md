@@ -118,6 +118,11 @@ doubly Linked List는 lookup, assign, insert, find의 경우 Linked List와 같�
 
 # 스택
 ```java
+Insertion: O(1)
+삭제: O(1)
+Search: O(n)
+
+
 문제의 종류에 따라 배열보다 스택에 데이터를 저장하는 것이 더 적합한 방법일 수 있다.
 
 배열과 달리 스택은 상수 시간에 i번째 항목에 접근할 수 없다.
