@@ -5,6 +5,16 @@
 ② 현재 실행 중인 명령의 내용을 기억하는 레지스터
 ③ 기억장치를 출입하는 데이터가 일시적으로 저장되는 레지스터
 ④ 기억장치를 출입하는 데이터의 번지를 기억하는 레지스터
+
+22. 다음 ADD 명령어의 마이크로 오퍼레이션에서 t2시간에 수
+행되어야 할 가장 적합한 동작(A)는? (단, MAR : Memory
+Address Register, MBR : Memory Buffer Register, M(addr)  4
+: Memory, AC : 누산기이다.)
+t₀ : MAR ← MBR(addr)
+t₁ : MBR ← M(MAR)
+t₂ : ( A )
+① AC ⟵ MBR ② MBR ⟵ AC
+③ M(MBR) ⟵ MBR ④ AC ⟵ AC＋MBR
 ```
 
 ## 시스템버스
