@@ -1,3 +1,13 @@
+# 문제
+```java
+29. DMA에 대한 설명으로 가장 옳은 것은?  4번
+① 인코더와 같은 기능을 수행한다.
+② inDirect Memory Acknowledge의 약자이다.
+③ CPU와 메모리 사이의 속도차이를 해결하기 위한 장치이다.
+④ 메모리와 입출력 디바이스 사이에 데이터의 주고받음이 직
+접 행해지는 기법이다.
+```
+
 # DMA
 ```java
 1. DMA(Direct Memory Access)의 개요
