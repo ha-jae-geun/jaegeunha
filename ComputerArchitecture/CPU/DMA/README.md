@@ -8,7 +8,7 @@
 접 행해지는 기법이다.
 ```
 
-# DMA
+# [DMA](https://m.blog.naver.com/PostView.nhn?blogId=sira1026&logNo=20001344940&proxyReferer=https:%2F%2Fwww.google.com%2F)
 ```java
 1. DMA(Direct Memory Access)의 개요
 
