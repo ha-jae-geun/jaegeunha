@@ -8,6 +8,12 @@
 접 행해지는 기법이다.
 ```
 
+```java
+ 메모리 직접 접근 I/O(Direct Memory Access : DMA)    
+   - 인터럽트 방식이 프록램에 의한 입출력 방식보다는 효율적이지만 입출력을 위한 상태정보, 
+   제어정보, 데이터 전송을 위해서는 여전히 CPU의 능동적인 개입이 요구됨
+```
+
 # [DMA](https://m.blog.naver.com/PostView.nhn?blogId=sira1026&logNo=20001344940&proxyReferer=https:%2F%2Fwww.google.com%2F)
 ```java
 1. DMA(Direct Memory Access)의 개요
