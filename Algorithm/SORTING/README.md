@@ -44,7 +44,9 @@ Collections.sort(arr, new Comparator());
 * 주기억 장치에서 이루어짐: 위의 정렬들 모두
 * 외부정렬: 보조기억장치에서 이루어짐; 밸런스 병합 정렬, 캐스케이드 병합 정렬, 폴리파즈 병합 정렬, 오실레이팅 병합 정렬
 
-## 버블 정렬  n2 n2 n2
+## 버블 정렬  n n2 n2
+* 정렬이 되어있는 경우 O(n)
+	* 중간에 빠지는 코드 필요
 * 서로 인접한 두 원소를 검사하여 정렬하는 알고리즘
 * 인접한 2개의 레코드를 비교하여 크기가 순서대로 되어 있지 않으면 서로 교환한다.
 * 서로 인접한 두 원소를 검사하여 정렬하는 알고리즘
@@ -72,6 +74,24 @@ public class BubbleTest {
 			System.out.println(a[i]);
 		}
 	}
+```
+
+## best case
+```java
+    procedure bubbleSort( A : list of sortable items )
+    n = length(A)
+    repeat 
+        swapped = false
+        for i = 1 to n-1 inclusive do
+            /* if this pair is out of order */
+            if A[i-1] > A[i] then
+                /* swap them and remember something changed */
+                swap( A[i-1], A[i] )
+                swapped = true
+            end if
+        end for
+    until not swapped
+end procedure
 ```
 
 ### 장점
