@@ -1,4 +1,4 @@
-# 시간복잡도
+# [시간복잡도](https://roeniss.tistory.com/entry/CC-%EB%8B%A4%EC%96%91%ED%95%9C-%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C-%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84-%ED%81%90Priority-Queue%EB%A5%BC-%EA%B5%AC%ED%98%84%ED%95%B4%EB%B3%B4%EC%9E%90)
 ```java
 
 표현 방법	삽입	삭제
