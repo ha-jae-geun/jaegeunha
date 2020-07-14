@@ -1,3 +1,13 @@
+# 문제
+```java
+스택(Stack)구조의 컴퓨터에서 수식을 계산하기 위해서는 먼
+저 수식을 어떠한 형태로 바꾸어야 하는가?
+① Infix 형태
+② John 형태
+③ Postfix 형태
+④ Prefix 형태
+```
+
 # 배열, 연결리스트 차이
 * [차이](https://sycho-lego.tistory.com/23)
 
