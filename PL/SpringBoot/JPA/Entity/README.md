@@ -1,4 +1,4 @@
-# Entity
+# [Entity](https://jeong-pro.tistory.com/198?category=886199)
 ```java
 위의 그림은 JPA에서 사용하는 타입을 정리한 것이다. JPA를 배울 때 다짜고짜 Entity라는 개념을 배우고 그 객체안에
 
