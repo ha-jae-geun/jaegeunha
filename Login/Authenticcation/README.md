@@ -20,7 +20,7 @@
 * OAuth
 
 
-# OAuth
+# [OAuth](https://jeong-pro.tistory.com/99?category=793347)
 * 다른 웹사이트 상의 자신들의 정보에 대해 접근 권한을 부여할 수 있는 공통적인 수단(개방형 표준)
 * 구글 로그인, 페이스북 로그인, 깃헙 로그인
 ```java
