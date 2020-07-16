@@ -1,4 +1,4 @@
-# CORS
+# [CORS](https://evan-moon.github.io/2020/05/21/about-cors/)
 ```java
 프론트엔드 서버와 백엔드 서버를 따로 구성하는 경우가 많다.
 이렇게 출처(origins)가 다른 경우 보안상 문제로 요청을 주고받을 수 없는 것이 웹 브라우저 기본 정책이다. 
