@@ -1,4 +1,4 @@
-# NTP Server
+# [NTP Server](https://jeong-pro.tistory.com/201?category=822281)
 ```java
 폐쇄망에서 시간 동기화가 하고싶다
 이 포스트를 쓰게 된 배경에는 폐쇄망에 존재하는 PC들 사이에 시간을 동기화 하고 싶은 요구가 있었다.
