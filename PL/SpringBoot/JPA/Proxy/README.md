@@ -1,4 +1,4 @@
-# 프록시
+# [JPA와 프록시](https://jeong-pro.tistory.com/197?category=886199)
 ```java
 "도서 (자바 ORM 표준 JPA 프로그래밍 - 김영한 지음)"를 공부하고 정리한 내용임을 사전에 알려드립니다.
 
