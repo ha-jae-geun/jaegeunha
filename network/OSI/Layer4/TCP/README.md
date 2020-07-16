@@ -1,8 +1,9 @@
 
-
-
 # TCP
 * 이론상 느릴 수 있다지 속도는 UDP와 큰 차이가 
+
+## [TCP Header](https://evan-moon.github.io/2019/11/10/header-of-tcp/)
+
 
 # 구조
 * 소스 포트(2) + 목적지(2) + Sequence Number(4) + Acnowledgement Number(4)
