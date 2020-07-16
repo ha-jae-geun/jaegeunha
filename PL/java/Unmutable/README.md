@@ -1,3 +1,5 @@
+# [Immutable](https://evan-moon.github.io/2020/01/05/what-is-immutable/)
+
 # 불변객체
 * [불변객체](https://velog.io/@conatuseus/Java-Immutable-Object불변객체)
 * [변하지 않는 상태를 유지하는 ](https://evan-moon.github.io/2020/01/05/what-is-immutable/)
