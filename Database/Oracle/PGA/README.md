@@ -1,4 +1,4 @@
-# 오라클 구조
+# [오라클 구조](https://jeong-pro.tistory.com/147?category=816292)
 * 내부적을 메모리 영역(System Global Area)이랑 데이터베이스 영역이 있다.
 
 # SGA 구조
