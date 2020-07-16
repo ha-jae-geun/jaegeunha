@@ -1,3 +1,6 @@
+
+
+
 # TCP
 * 이론상 느릴 수 있다지 속도는 UDP와 큰 차이가 
 
@@ -117,6 +120,7 @@ A: 그럼 수신 측이 처리할 수 있는 양을 송신 측에 알려주고 �
 - 서버가 보낸 FIN 신호를 클라언트가 받지 못 할 경우 클라이언트는 FIN_WAIT_2 상태로 종료가 되지 못한채 계속 기다리게 될 것입니다. 허나 서버는 이미 포트를 닫고 더이상 응답을 안하는 상태이기에 클라이언트는 불필요한 자원을 소모하게 됩니다.
 
 
+# [핸드세이크](https://evan-moon.github.io/2019/11/17/tcp-handshake/)
 ## 3 way HandHsake
 * [3way]('https://evan-moon.github.io/2019/11/17/tcp-handshake/')
 ```java
@@ -306,7 +310,7 @@ TIME_WAIT 상태에서 2 MSL만큼 시간이 지나면 요청자도 CLOSED 상�
 위에서 설명했듯이 이 시간은 커널 파라미터에 고정되어 있고, 필자가 사용하고 있는 OSX의 경우 30초 정도이다.
 ```
 
-# 흐름제어와 혼잡제어
+# [흐름제어와 혼잡제어](https://evan-moon.github.io/2019/11/26/tcp-congestion-control/)
 ```java
 1. Flow control은  (호스트와 호스트 간의 데이터 처리를 효율적으로 하기 위한 기법, End to End)
 
@@ -575,7 +579,7 @@ Slow start란 이름을 사용하지만, 매 전송마다 두 배씩 증가하�
 빠른 회복 정책까지 적용하면 혼잡 상황을 한번 겪고 나서부터는 순수한 합 증가/곱 감소 방식으로 동작하게 된다.
 ```
 
-## 오류 제어
+## [오류 제어](https://evan-moon.github.io/2019/11/22/tcp-flow-control-error-control/)
 ```java
 오류 제어 기법은 오류검출(error detection)과 재전송(retransmisstion)을 포함한다.
 
