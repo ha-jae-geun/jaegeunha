@@ -125,7 +125,7 @@ cf) HTTP 2.0 이 발전되면서 HTTPS 가 HTTP 보다 빠르다는 사실이 �
 
 
 
-## http3
+## [http3](https://evan-moon.github.io/2019/10/08/what-is-http3/)
 * UDP는 User Datagram Protocol이라는 이름에서도 알 수 있듯이 데이터그램 방식을 사용하는 프로토콜이기 때문에 애초에 각각의 패킷 간의 순서가 존재하지 않는 독립적인 패킷을 사용한다. 또한 데이터그램 방식은 패킷의 목적지만 정해져있다면 중간 경로는 어딜 타든 신경쓰지 않기 때문에 종단 간의 연결 설정 또한 하지 않는다. 즉, 핸드쉐이크 과정이 필요없다는 것이다.
 * HTTP/3는 HTTP(Hypertext Transfer Protocol)의 세 번째 메이저 버전으로, 기존의 HTTP/1, HTTP/2와는 다르게 UDP 기반의 프로토콜인 QUIC을 사용하여 통신하는 프로토콜이다. HTTP/3와 기존 HTTP 들과 가장 큰 차이점이라면 TCP가 아닌 UDP 기반의 통신을 한다는 것이다.
 * 사실 HTTP/3는 처음에는 HTTP-over-QUIC이라는 이름을 가지고 있었는데, IETF(Internet Engineering Task Force) 내 HTTP 작업 그룹과 QUIC 작업 그룹의 의장인 마크 노팅엄이 이 프로토콜의 이름을 HTTP/3로 변경할 것을 제안했고, 2018년 11월에 이 제안이 통과되어 HTTP-over-QUIC이라는 이름에서 HTTP/3으로 변경되게 되었다.
