@@ -1,3 +1,5 @@
+# [패턴의 종류](https://jeong-pro.tistory.com/98?category=793347)
+
 # Composition Pattern
 ## 상속의 장점
 * 코드 재사용성
