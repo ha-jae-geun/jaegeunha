@@ -1,3 +1,10 @@
+# 문제
+```java
+82. IPv4에서 IPv6로의 천이 전략 중 캡슐화 및 역캡슐화를 사용 하는 것은?  4번
+① Dual Stack ② Header translation
+③ Map Address ④ Tunneling
+```
+
 ## 네트워크 계층
 - 시스템간 연결성과 경로 선택을 제공하는 역할을 하는 계층입니다. IP address 를 이용하여 라우팅 프로토콜이 연결된 네트워크를 통한 최적경로를 선택합니다.
 * 서로 다른 네트워크 대역(LAN 과 LAN)
