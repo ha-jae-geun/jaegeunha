@@ -4,8 +4,11 @@
 * [OOP]('http://woowabros.github.io/study/2016/07/07/think_object_oriented.html')
 * 메세지가 객체를 정한다.
   ^messages decide to create object // message first
+```java
+객체지향 디자인 원리들을 사용하면 좀 더 유지보수하기 쉽고, 유연하고, 확장이 쉬운 소프트웨어를 만들 수 있습니다. 
+```
 
-## OOP 설계 원칙(SOLID)
+# [OOP 설계 원칙(SOLID)](http://www.nextree.co.kr/p6960/)
 
 ### SRP(The Single Responsibility Principle); 단일 책임 원칙
 * 한 클래스는 하나의 역할만 맡는다. 
