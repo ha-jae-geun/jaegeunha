@@ -1,4 +1,5 @@
 # [IS-A, HAS-A](https://m.blog.naver.com/PostView.nhn?blogId=lunatic918&logNo=156290730&proxyReferer=https:%2F%2Fwww.google.com%2F)
+* [HAS-A](https://funylife.tistory.com/entry/8-2-HAS-A%EC%86%8C%EC%9C%A0-%EA%B4%80%EA%B3%84%EC%97%90-%EC%9D%98%ED%95%9C-%EC%83%81%EC%86%8D-%E2%98%85)
 ```java
 ◈ is a 관계의 객체화 (상속관계의 객체화) 
 
