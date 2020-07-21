@@ -9,6 +9,7 @@
 ```
 
 # [OOP 설계 원칙(SOLID)](http://www.nextree.co.kr/p6960/)
+* [Server-Engnineer](https://server-engineer.tistory.com/228?category=643527)
 
 ### SRP(The Single Responsibility Principle); 단일 책임 원칙
 * 한 클래스는 하나의 역할만 맡는다. 
@@ -44,6 +45,12 @@
 * 로버트 마틴: 클라이언트는 자신이 사용하지 않는 메소드에 의존 관계를 맺으면 안된다.
 
 ### DIP(Dependency Inversion); 의존 관계 역전 원칙
+```java
+상위 클래스일수록, 인터페이스일수록, 추상 클래스일수록 변하지 않을 가능성이 높기에 하위 클래스나 구체 클래스가 아닌 
+상위클래스, 인터페이스, 추상 클래스를 통해 의존하라는 것이 바로 의존 역전 원칙이다.
+
+출처: https://server-engineer.tistory.com/228?category=643527 [HelloWorld]
+```
 * 상위 수준 모듈이 하위 수준 모듈에 의존하면 안 된다.
 * 추상성이 높고 안정적인 고수준의 클래스는 구체적이고 불안정한 저수준의 클래스에 의존해서는 안된다는 원칙
 * 로버트 마틴: 자주 변경되는 구체 클래스에 의존하지 말아야 한다.
