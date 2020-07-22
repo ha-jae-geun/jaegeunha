@@ -1,5 +1,12 @@
 # CallByValue
 * [블로그](https://deveric.tistory.com/92)
+```java
+ call by reference가 아닌 또다른 이유는 자바에서는 객체의 주소를 가져오는 방법이 없다. 
+ 만약 call by reference 지원한다면 주소를 가져오는 방법을 지원해야 할 것인데 말이다.
+
+그럼 우리는 call by reference가 어떤건지 보자. c는 call by reference 를 지원하니 c코드를 보자. 정확히는 c++.. 
+오랜만에 c로 코딩할려니 문법조차 다 까먹었다.. Xcode도 거의 4년? 5년만에 열었..
+```
 
 # [펭귄](https://gmlwjd9405.github.io/2017/10/01/basic-concepts-of-development-java.html)
 ```java
