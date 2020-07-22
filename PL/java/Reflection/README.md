@@ -1,4 +1,4 @@
-# Reflection
+# [Reflection](https://ktko.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%9D%98-%EB%A6%AC%ED%94%8C%EB%A0%89%EC%85%98Reflection-%EA%B0%9C%EB%85%90)
 * 자바 리플렉션(Reflection)이란 컴파일된 자바 코드에서 역으로 클래스를 불러서 메소드(Method) 및 변수(Field)를 구해오는 방법으로 클래스를 동적 로딩하여 사용할때 많이 사용되고 디컴파일할때에도 자주 사용되는 기법이다.
 * 자바에서 제공하는 리플렉션(Reflection)은 C, C++과 같은 언어를 비롯한 다른 언어에서는 볼 수 없는 기능입니다. 이미 로딩이 완료된 클래스에서 또 다른 클래스를 동적으로 로딩(Dynamic Loading)하여 생성자(Constructor), 멤버 필드(Member Variables) 그리고 멤버 메서드(Member Method) 등을 사용할 수 있도록 합니다.
 * 그러니까, 컴파일 시간(Compile Time)이 아니라 실행 시간(Run Time)에 동적으로 특정 클래스의 정보를 객체화를 통해 분석 및 추출해낼 수 있는 프로그래밍 기법이라고 표현할 수 있습니다.
