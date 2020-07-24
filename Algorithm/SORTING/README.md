@@ -408,6 +408,7 @@ https://gmlwjd9405.github.io/2018/05/08/algorithm-merge-sort.html
 
 
 # [기수 정렬](https://parkdream.tistory.com/115)
+	* [코드](https://lktprogrammer.tistory.com/48)
 ```java
 기수정렬?
 
@@ -417,7 +418,10 @@ https://gmlwjd9405.github.io/2018/05/08/algorithm-merge-sort.html
 
 
 복잡도
-가장 큰 숫자의 자리수가 d라고할 때 복잡도는 아래와 같습니다.
+가장 큰 숫자의 자리수가 d라고할 때 복잡도는 아래와 같습니다. O(dn)
+d는 항상 상수 시간이지는 않는다.
+
+
 
 
 기수 정렬은 비교 연산을 하지 않으며, 무엇보다도 전체 시간 복잡도 역시 {\displaystyle O(dn)}{\displaystyle O(dn)}이어서, 
