@@ -1,4 +1,12 @@
-# Abstract_Factory
+# [Abstract_Factory](https://victorydntmd.tistory.com/300)
+```java
+팩토리 메서드 패턴
+조건에 따른 객체 생성을 팩토리 클래스로 위임하여, 팩토르 클래스에서 객체를 생성하는 패턴 ( 링크 )
+
+추상 팩토리 패턴
+서로 관련이 있는 객체들을 통째로 묶어서 팩토리 클래스로 만들고, 이들 팩토리를 조건에 따라 생성하도록 다시 팩토리를 만들어서 객체를 생성하는 패턴
+추상 팩토리 패턴은 어떻게 보면, 팩토리 메서드 패턴을 좀 더 캡슐화한 방식이라고 볼 수 있습니다.
+```
 
 ## 의도
 ```java
@@ -34,3 +42,9 @@ Item을 implements하는 아이템, 예를 들면 Hp포션, Mp포션이 있다�
 그러면 이 것을 받는 extends 하는 하위클래스(PotionCreator)를 만들고 여기서 들어오는 인자(String)로 알맞은 객체를 생성한다. 
 
 ```
+
+## [장단점](https://beomseok95.tistory.com/246)
+
+
+## [팩토리 패턴과의 차이점](https://gyrfalcon.tistory.com/entry/Factory-Method-%ED%8C%A8%ED%84%B4%EA%B3%BC-Abstract-Factory-%ED%8C%A8%ED%84%B4%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
+
