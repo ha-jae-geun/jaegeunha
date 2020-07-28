@@ -1,3 +1,5 @@
+# [상속보다는 Composition](https://www.youtube.com/watch?v=YJ4JJsGy8rY&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=8)
+
 # 상속
 ```java
 슈퍼클래스와 서브클래스
