@@ -1,3 +1,5 @@
+# [테코톡_JDBC, JPA](https://www.youtube.com/watch?v=Ppqc3qN75EE&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=49)
+
 # Persistence
 * 데이터를 생성한 프로그램의 실행이 종료되더라도 사라지지 않는 데이터의 특성(프로세스에서 만들어낸 램에 있는 데이터를 영구히 저장하려 하는 것)
 
