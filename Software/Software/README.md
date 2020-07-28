@@ -1,4 +1,10 @@
 # 블로그
+0. 키워드
+	* [1분](http://www.1min.kr/main/daily.php?date=20200727)
+	* [웨어이즈](http://whereispost.com/keyword/)
+		* PC 1500 문서 이하 찾기
+	* [키워드 시터](https://keywordshitter.com/)
+	* [키워드 플래너](https://ads.google.com/aw/keywordplanner/home?ocid=534721633&euid=426005702&__u=8941950998&uscid=534721633&__c=7822731417&authuser=0&sf=barebones&subid=ALL-ko-et-g-aw-a-tools-kwp_bb-awhp_xin1%21o2)
 1. [키자드](https://keyzard.org/)
 2. 웹마스터 도구
 	* 구글: https://www.google.com/webmasters/tools/home?hl=ko
