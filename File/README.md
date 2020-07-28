@@ -145,7 +145,7 @@ Q. 데이터의 집합을 왜 디스크 파일로 구성하는가?
 
 파일 크기
 ```
-# 파일 압축
+# [파일 압축](https://www.youtube.com/watch?v=v63h5e5wWwc&list=PLLcbGhhl4sQDOYzzB8eNB7m0IdVffIyLM&index=43)
 1. 손실 압축: 데이터 압축 과정에서 원본 데이터 손실; 압축률이 좋음
 
 2. 비손실 압축: 압축 이후에도 원본 데이터 유지
