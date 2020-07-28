@@ -1,3 +1,5 @@
+# [스프링과 스프링 붓 차이](https://www.youtube.com/watch?v=OdpPvdB7qZY&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=2)
+
 # [스프링과 비교하여 장점](https://www.youtube.com/watch?v=6h9qmKWK6Io&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=44)
 1. 간편한 설정
 2. 편리한 의존성 관리: 버전 관리를 권장 버전으로 자동으로 설정되어 코드가 짧아졌다.
