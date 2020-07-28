@@ -1,3 +1,5 @@
+# [테코톡_DTO](https://www.youtube.com/watch?v=EeJnNaiMy3U&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=55)
+
 # DTO(Data Transfer Object)
 * 레이어 간 데이터를 전달하는 객체
 
