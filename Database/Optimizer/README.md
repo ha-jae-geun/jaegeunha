@@ -1,4 +1,4 @@
-# 옵티마이저
+# [옵티마이저](https://www.youtube.com/watch?v=dP0MIgyrqlo&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=22)
 * 우리가 짜놓은 쿼리르 성능에 가장 유리한 방향으로 이끌어주는 역할을 하게 되는 것
 * DB에서 데이터를 조회하고 찾아가는 작업이 거의 대다수! 서버의 70% 이상이 SQL 처리시간
 * 옵티마이저란 인덱스의 유무, 데이터 분산 또는 편향 정도 등의 통계정보를 참고하여 여러 실행계획을 작성하고
