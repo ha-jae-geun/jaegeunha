@@ -1,4 +1,6 @@
-## [정아마추어](https://jeong-pro.tistory.com/84?category=793347)
+# [웹과 WAS 차이[(https://www.youtube.com/watch?v=NyhbNtOq0Bc&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=43)
+# [정아마추어](https://jeong-pro.tistory.com/84?category=793347)
+
 
 # 웹
 * 인터넷을 기반으로 한 정보를 공유, 검색할 수 있게 하는 서비스
