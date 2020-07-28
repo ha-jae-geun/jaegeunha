@@ -2,6 +2,10 @@
 * [restapi](https://velopert.com/231)
 * [정아마추어](https://jeong-pro.tistory.com/180?category=793347)
 * [2]('https://brownbears.tistory.com/450')
+* [테코톡](https://www.youtube.com/watch?v=xY7cpMuWh4w&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=47)
+* [Naverd2](https://www.youtube.com/watch?v=RP_f5dMoHFc)
+
+
 * 개발자들 사이에서 기술이나 제품이 아니라 널리 쓰이는 일종의 형식
   * 무슨 프레임워크를 쓰든 소프트웨어를 만들든 공통적인 형식을 사용하는 것
   * 지정된 혀식으로 요청, 명령을 받을 수 있는 수단
