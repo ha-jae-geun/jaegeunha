@@ -1,3 +1,5 @@
+# [테코톡_인증](https://www.youtube.com/watch?v=JZgD8aPkHSc&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=45)
+
 # 인증(Authentication)
 * 보호된 리소스에 접근하는 것을 허용하기 이전에 등록된 유저의 신원을 입증(validating)하는 과정
 
