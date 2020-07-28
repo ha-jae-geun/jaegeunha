@@ -1,4 +1,5 @@
 # [API, 라이브러리 차이](https://www.youtube.com/watch?v=We8JKbNQeLo&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=39)
+# [차이 2](https://www.youtube.com/watch?v=-ZG8uX7mpuk&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=5)
 
 # 프레임워크
 * 응용 프로그램이나 소프트웨어의 솔류션 개발을 수월하게 하기 위해 제공된 소프트웨어 환경
