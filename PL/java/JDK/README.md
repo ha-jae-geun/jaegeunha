@@ -1,3 +1,5 @@
+# [JDK Proxy](https://www.youtube.com/watch?v=RHxTV7qFV7M&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=16)
+
 # 자바 설치
 ## (1) Java SE; 웹과 연동 안됨
 * Java SE Development Kit 8 Downloads
