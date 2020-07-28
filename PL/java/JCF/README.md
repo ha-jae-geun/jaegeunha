@@ -1,4 +1,4 @@
-# JAVA COLLECTIONS FRAMEWORK
+# [JAVA COLLECTIONS FRAMEWORK](https://www.youtube.com/watch?v=XfYJCpAb2aE&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=13)
 * JAVA에서 COLLECTIONS란 데이터의 집합, 그룹을 의미한다.
 * JCF는 이러한 데이터, 자료구조인 Collection과 이를 구현하는 클래스, 정의하는 인터페이스 등을 제공한다.
 
