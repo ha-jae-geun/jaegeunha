@@ -1,4 +1,4 @@
-# Latency
+# [Latency](https://www.youtube.com/watch?v=mFBIwEhvZUY&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=30)
 *  하나의 데이터 패킷이 한 지점에서 다른 지점으로 전송되어 이에 소요되는 시간
 
 ## 원인
