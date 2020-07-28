@@ -3,6 +3,7 @@
 # [토르 브라우저](https://www.youtube.com/watch?v=A3-moPb-_ls&list=PLLcbGhhl4sQDOYzzB8eNB7m0IdVffIyLM&index=33)
 # [시크릿 모드](https://www.youtube.com/watch?v=f_vO6doXaxQ&list=PLLcbGhhl4sQDOYzzB8eNB7m0IdVffIyLM&index=29)
 # [Forward Proxy](https://www.youtube.com/watch?v=lg-wHikZg0Q&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=32)
+# [Proxy와 LoadBalencer](https://www.youtube.com/watch?v=YxwYhenZ3BE&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=1)
 
 
 # 프록시
