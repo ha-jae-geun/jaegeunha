@@ -1,6 +1,6 @@
 
 
-# 키보드
+# [키보드](https://www.youtube.com/watch?v=xbuLnecp1eI&list=PLLcbGhhl4sQDOYzzB8eNB7m0IdVffIyLM&index=150)
 
 ## 멤브레인
 * 장점: 러버돔 고무; 제조 간단; 단가 저렴; 방수; 가벼운 무게, 저소음
