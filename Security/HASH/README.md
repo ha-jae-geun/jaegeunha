@@ -13,6 +13,8 @@
 ③ Synonym ④ Collision
 ```
 
+# [해시 function](https://www.youtube.com/watch?v=Rpbj6jMYKag&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=38)
+
 # 배열
 * 원소 하나를 저장하고 검색하는데 O(n)의 시간 소요
 * 트리는 원소 하나를 저장하고 검색하는데 평균 O(log n)의 시간 소요
