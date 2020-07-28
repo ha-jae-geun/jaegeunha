@@ -2,6 +2,7 @@
 # [VPN과 프록시](https://www.youtube.com/watch?v=hjRQzHeirw8&list=PLLcbGhhl4sQDOYzzB8eNB7m0IdVffIyLM&index=32)
 # [토르 브라우저](https://www.youtube.com/watch?v=A3-moPb-_ls&list=PLLcbGhhl4sQDOYzzB8eNB7m0IdVffIyLM&index=33)
 # [시크릿 모드](https://www.youtube.com/watch?v=f_vO6doXaxQ&list=PLLcbGhhl4sQDOYzzB8eNB7m0IdVffIyLM&index=29)
+# [Forward Proxy](https://www.youtube.com/watch?v=lg-wHikZg0Q&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=32)
 
 
 # 프록시
