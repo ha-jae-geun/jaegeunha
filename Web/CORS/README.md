@@ -1,4 +1,6 @@
-# [CORS](https://evan-moon.github.io/2020/05/21/about-cors/)
+# [에반문 CORS](https://evan-moon.github.io/2020/05/21/about-cors/)
+# [테코톡 CORS](https://www.youtube.com/watch?v=_sLjXviYivM&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=24)
+
 ```java
 프론트엔드 서버와 백엔드 서버를 따로 구성하는 경우가 많다.
 이렇게 출처(origins)가 다른 경우 보안상 문제로 요청을 주고받을 수 없는 것이 웹 브라우저 기본 정책이다. 
