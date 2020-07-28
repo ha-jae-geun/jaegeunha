@@ -1,3 +1,5 @@
+# [서블릿](https://www.youtube.com/watch?v=cmwmamOQmPc&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=17)
+
 # 역사
 * 웹서버는 정적 데이터 처리에 특화
 * 동적 데이터를 처리하는 CGI는 많은 사용자를 처리하기에는 무리
