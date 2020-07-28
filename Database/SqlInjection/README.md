@@ -1,4 +1,4 @@
-# SqlInjection이란?
+# [SqlInjection이란?](https://www.youtube.com/watch?v=qzas_-u4Nxk&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=21)
 * 데이터 베이스와 연동된 웹 애플리케이션에서 공격자가 입력이 가능한 폼에 조작된 질의문을 삽입하여 웹 서비스의 데이터 베이스 정보를 열람 또는 조작할 수 있는 취약점
 
 
