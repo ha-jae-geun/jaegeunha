@@ -1,3 +1,6 @@
+# [빌드 용어](https://www.youtube.com/watch?v=JgRCaVwkPE8&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=42)
+
+
 # 빌드란
 * 사람이 알아 볼 수 있는 원시 파일을 실제 컴퓨터에서 돌릴 수 있게 하는 것을 빌드라고 함
 * 소스코드를 실행 가능한 소프트웨어 산출물로 만드는 일련의 과정(jar, war)
