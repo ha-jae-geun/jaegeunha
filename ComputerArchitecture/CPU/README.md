@@ -22,6 +22,7 @@
 
 ```
 
+# [안될과학 CPU 역사](https://www.youtube.com/watch?v=SiC74U8aJbM&list=PLPBTs1IJBEyiacgGU4SK2tu9S1u3-ih4g&index=2&t=0s)
 
 # CPU
 * CPU - 캐시(CPU 칩 안의 작은 칩) - 버스(CPU와 메인 메모리 사이에 데이터를 저장하기 위함) - 메인 메모리
