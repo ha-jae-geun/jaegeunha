@@ -1,4 +1,4 @@
-
+# [반도체 업계 시가총액 1위 TSMC](https://www.youtube.com/watch?v=LFIgECK69Mw&list=PLJPjg3It2DXQUdlAocHh5FASozqwtJavv&index=7)
 
 # GPU
 * 논리적으로 수천 개의 코어가 있으며 쉽고 서로 관련 되어있지 않은 독립적인 일을 병렬적으로 하는데 
