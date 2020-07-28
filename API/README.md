@@ -1,3 +1,5 @@
+# [API, 라이브러리 차이](https://www.youtube.com/watch?v=We8JKbNQeLo&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=39)
+
 # 프레임워크
 * 응용 프로그램이나 소프트웨어의 솔류션 개발을 수월하게 하기 위해 제공된 소프트웨어 환경
 * 상호협력하는 클래스와 인터페이스의 집합이다.
