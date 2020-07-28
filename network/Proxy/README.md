@@ -1,5 +1,8 @@
 # IP 가리기
 # [VPN과 프록시](https://www.youtube.com/watch?v=hjRQzHeirw8&list=PLLcbGhhl4sQDOYzzB8eNB7m0IdVffIyLM&index=32)
+# [토르 브라우저](https://www.youtube.com/watch?v=A3-moPb-_ls&list=PLLcbGhhl4sQDOYzzB8eNB7m0IdVffIyLM&index=33)
+# [시크릿 모드](https://www.youtube.com/watch?v=f_vO6doXaxQ&list=PLLcbGhhl4sQDOYzzB8eNB7m0IdVffIyLM&index=29)
+
 
 # 프록시
 * 서버와 클라이언트 사이의 중계기로서 클라이언트 대신 서버와 대리로 통신을 수행
