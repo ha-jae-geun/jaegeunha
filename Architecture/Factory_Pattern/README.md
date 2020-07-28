@@ -1,3 +1,8 @@
+# 생성패턴
+1. 생성 패턴: 생성패턴(Creation Pattern) : 객체의 생성과정에 관여하는 패턴입니다.
+* 추상 팩토리, 빌더, 팩토리 메소드, 프로토타입, 싱글턴
+
+
 # [팩토리 메소드 패턴](https://gmlwjd9405.github.io/2018/08/07/factory-method-pattern.html)
 
 
