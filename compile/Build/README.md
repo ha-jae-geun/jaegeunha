@@ -1,4 +1,5 @@
 # [빌드 용어](https://www.youtube.com/watch?v=JgRCaVwkPE8&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=42)
+# [빌드와 배포](https://www.youtube.com/watch?v=6SvUZqbU37E&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=6)
 
 
 # 빌드란
