@@ -439,7 +439,7 @@ SIGSEGV : 프로세스가 다른 메모리영역을 침범했다.
 ```
 
 
-## 컨텍스트 스위칭
+## [컨텍스트 스위칭](https://www.youtube.com/watch?v=-4HKhwlH3FQ&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=35)
 ```JAVA
 멀티프로세스 환경에서 CPU가 어떤 하나의 프로세스를 실행하고 있는 상태에서 인터럽트 요청에 의해 
 다음 우선 순위의 프로세스가 실행되어야 할 때 기존의 프로세스의 상태 또는 레지스터 값(Context)을 저장하고
