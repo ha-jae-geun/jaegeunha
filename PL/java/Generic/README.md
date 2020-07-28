@@ -1,4 +1,4 @@
-# 제네릭
+# [제네릭](https://www.youtube.com/watch?v=n28M8iryFPw&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=12)
 * [정아마추어](https://jeong-pro.tistory.com/100?category=793347)
 * 제네릭은 형변환의 번거로움을 줄이괴, 의도하지 않는 타입이 들어오는 것을 막기 위한 것(강력한 타입 체크)
 
