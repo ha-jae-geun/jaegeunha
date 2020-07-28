@@ -1,4 +1,4 @@
-# 스프링과 비교하여 장점
+# [스프링과 비교하여 장점](https://www.youtube.com/watch?v=6h9qmKWK6Io&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=44)
 1. 간편한 설정
 2. 편리한 의존성 관리: 버전 관리를 권장 버전으로 자동으로 설정되어 코드가 짧아졌다.
 3. 내장 서버로 인한 간단판 배포 서버 구축
