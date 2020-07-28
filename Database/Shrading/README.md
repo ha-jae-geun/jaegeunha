@@ -1,4 +1,5 @@
 # [Scale up/down, SPOF](https://www.youtube.com/watch?v=_sLjXviYivM&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=24)
+# [Sharding](https://www.youtube.com/watch?v=js4y5VDknfA&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=20)
 
 # Scale up(수직 스케일)
 * 서버 자체를 증강시켜 처리 능력을 향상
