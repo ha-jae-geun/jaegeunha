@@ -1,4 +1,5 @@
 # [서블릿](https://www.youtube.com/watch?v=cmwmamOQmPc&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=17)
+# [서블릿 2](https://www.youtube.com/watch?v=2pBsXI01J6M&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=3)
 
 # 역사
 * 웹서버는 정적 데이터 처리에 특화
