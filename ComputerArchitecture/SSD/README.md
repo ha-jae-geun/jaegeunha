@@ -1,4 +1,4 @@
-# SSD
+# [SSD](https://www.youtube.com/watch?v=0wfOO2DEGZ0&list=PLLcbGhhl4sQDOYzzB8eNB7m0IdVffIyLM&index=27)
 * 우리가 사용하는 메모리카드, USB, SSD 등의 저장매체에는 낸드플래시(NAND Flash) 메모리가 사용됩니다. 그리고 낸드플래시 타입은 최소단위인 셀(Cell)에 몇 비트(bit)를 저장할 수 있느냐에 따라 SLC, MLC, TLC, QLC 방식으로 나뉘는데요. 동일한 용량일지라도 이 네 가지 방식에 따라 성능의 차이가 발생하고 가격 또한 달라지게 됩니다. 오늘 <궁금한 반도체 WHY> 4탄에서는 낸드플래시 메모리의 데이터 저장 방식이 각각 어떻게 다른지 알아보도록 하겠습니다.
 
 ## SSD의 단점
