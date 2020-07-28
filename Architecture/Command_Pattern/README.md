@@ -5,7 +5,7 @@
 하나의 객체들이 모든 것을 처리하는 것이 아니라 관련된 객체들이 같이 처리하는 패턴
 ```
 
-# [커맨드 패턴](https://victorydntmd.tistory.com/295?category=719467
+# [커맨드 패턴](https://victorydntmd.tistory.com/295?category=719467)
 * 커맨드 패턴은 객체의 행위( 메서드 )를 클래스로 만들어 캡슐화 하는 패턴입니다.
 
 ## 사용하는 이유
