@@ -1,3 +1,5 @@
+# [Clustered Index](https://www.youtube.com/watch?v=js4y5VDknfA&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=20)
+
 # 인덱스
 * 데이터베이스의 검색 속도 향승을 위해 유지, 관리하는 자료구조
 
