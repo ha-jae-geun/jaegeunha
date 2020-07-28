@@ -45,6 +45,8 @@ Committed 상태로 전이되고, 만약 오류가 발생하면 Failed 상태가
 
 ```
 
+# [트랜잭션 메카니즘](https://www.youtube.com/watch?v=ImvYNlF_saE&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=18)
+
 ## Transaction
 * 데이터베이스에서 하나의 논리적 기능을 수행하기 위한 일련의 연산 집합으로서 작업의 단위이다.
 * 트랜잭션(Transaction)은 데이터베이스의 완전성을 보장하기 위한 것입니다.
