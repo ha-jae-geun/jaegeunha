@@ -1,3 +1,5 @@
+# [Connection pool](https://www.youtube.com/watch?v=MBgEhSUOlXo&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=33)
+
 # HTTP(TCP) 소프트웨어 개발 시 고려사항
 1. TCP handshake 설정
 2. 인터넷 혼잡을 제어하기 위한 TCP Slow Start
