@@ -16,7 +16,7 @@ alert은 브라우저에서만 되는거군... 좋아 지금 본 것처럼 브�
 우리의 console에서 사용할 수 있게 된거지 가능성이 무한해졌어
 ```
 
-#  Apache MPM vs NGINX vs Node.js
+#  [Apache MPM vs NGINX vs Node.js](https://www.youtube.com/watch?v=QeBqwwbsBbM&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=27)
 
 
  # Apache MPM 
