@@ -1,4 +1,4 @@
-# Synonym
+# [Synonym](https://www.youtube.com/watch?v=pu93XFmra-E&list=PLyQR2NzLKOCb-i7xCOQVU_yomhvHRteDy&index=15&t=0s)
 ```java
 데이터베이스 객체는 각자 고유한 이름이 있습니다. 이 객체들에 대한 동의어를 만드는것이 바로 시노님입니다. 
 한마디로 객체에게 가명을 주는것이라고 생각하면 되며 ALIAS와 비슷합니다. 다만 ALIAS는 1회성인 반면 시노님(Synonym)은 영구적이라고
