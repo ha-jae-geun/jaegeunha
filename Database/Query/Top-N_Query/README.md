@@ -1,4 +1,4 @@
-# TOP-N 알고리즘
+# [TOP-N 알고리즘](https://www.youtube.com/watch?v=rWfFYhoPwG8&list=PLyQR2NzLKOCbOYNJHKpCax4ija38yCqBN&index=6&t=0s)
 * 어떤 데이터 테이블을 소팅해서 일정 개수를 뽑을 때 사용
   * 10개를 뽑는다고 하면 10개의 곡을 읽어 음원의 다운로드 수로 소팅을 해서 10개의 배열에 담아놓는 방식이다
   * 11번째 부터는 10번째의 곡과 비교를 해서 버리거나 기준에 맞는 값이 등장하면 어느 위치에 삽입이 돼야 하는지 정렬을 한 다음에 순위를 조정하는 방식
