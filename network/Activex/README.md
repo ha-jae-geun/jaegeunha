@@ -1,4 +1,6 @@
-# [노마드 코더](https://www.youtube.com/watch?v=meSBtJET9mU&list=PLPBTs1IJBEyiacgGU4SK2tu9S1u3-ih4g&index=17&t=0s)
+# [ActiveX 사라지나](https://www.youtube.com/watch?v=meSBtJET9mU&list=PLPBTs1IJBEyiacgGU4SK2tu9S1u3-ih4g&index=17&t=0s)
+# [플래시 서비스 종료](https://www.youtube.com/watch?v=Ga_7u8IU49E&list=PL7jH19IHhOLMu8dpjb2A6O7BYYlO2gJbN&index=3)
+
 # [거니](https://www.youtube.com/watch?v=uFOjlXg8yU4&list=PLLcbGhhl4sQDOYzzB8eNB7m0IdVffIyLM&index=8&t=0s)
 * 브라우저는 결국 독립된 샌드박스에서 코드를 실행하기 때문에 개발자의 코드는 사용자의 기계(컴퓨터)에 접근할 방법이 없다
     * 파일을 읽거나 삭제하거나 생성하거나 등등을 못함(브라우저가 허락한 범위까지만 할 수 있음)
