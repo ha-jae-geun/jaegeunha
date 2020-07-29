@@ -76,7 +76,7 @@
 - SQLite: 파이썬도 지원
 
 
-# 오라클 스토리지 구조
+# [오라클 스토리지 구조](https://www.youtube.com/watch?v=Z-xgqtUJDes&list=PLyQR2NzLKOCbOYNJHKpCax4ija38yCqBN&index=12)
 * Blcok < Extent < Segment < Tablespace
 * block: 데이터가 저장되는 가장 작은 공간
 	* Select 할 때 IO 해야 하는 가장 기본적인 단위다.
