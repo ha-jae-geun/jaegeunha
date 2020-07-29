@@ -1,3 +1,5 @@
+# [코틀린이 자바를 대체할 수 있을까?](https://www.youtube.com/watch?v=8gseVzeMOzk&list=PL7jH19IHhOLMu8dpjb2A6O7BYYlO2gJbN&index=39)
+
 # 코틀린 특징
 * 코틀린은 Java bytecode로 컴파일되어서 자바와 100% 호환이 된다.
 * null safe하다
