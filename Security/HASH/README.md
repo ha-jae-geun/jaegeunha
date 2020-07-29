@@ -12,7 +12,7 @@
 ① Overflow ② Bucket
 ③ Synonym ④ Collision
 ```
-# [암호화, 해시함수](https://www.youtube.com/watch?v=67UwxR3ts2E&list=PL7jH19IHhOLMu8dpjb2A6O7BYYlO2gJbN&index=50)
+# [비밀번호 털렸다고? 암호화. 해시함수. 5분 설명.](https://www.youtube.com/watch?v=67UwxR3ts2E&list=PL7jH19IHhOLMu8dpjb2A6O7BYYlO2gJbN&index=50)
 # [해시 function](https://www.youtube.com/watch?v=Rpbj6jMYKag&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=38)
 # [해시와 암호화](https://jeong-pro.tistory.com/92?category=793347)
 
