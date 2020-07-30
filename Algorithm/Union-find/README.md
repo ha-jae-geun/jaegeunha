@@ -1,2 +1,17 @@
-# 블로그
-* [블로그](https://gmlwjd9405.github.io/2018/08/31/algorithm-union-find.html)
+# [Union Find](https://gmlwjd9405.github.io/2018/08/31/algorithm-union-find.html)
+* Disjoint Set을 표현할 때 사용하는 알고리즘
+
+## 정의
+```java
+서로 중복되지 않는 부분 집합들 로 나눠진 원소들에 대한 정보를 저장하고 조작하는 자료구조
+
+즉, 공통 원소가 없는, 즉 “상호 배타적” 인 부분 집합들로 나눠진 원소들에 대한 자료구조이다.
+Disjoint Set = 서로소 집합 자료구조
+```
+
+## 효율적인 구조
+```java
+Disjoint Set을 표현할 때 사용하는 알고리즘
+
+집합을 구현하는 데는 비트 벡터, 배열, 연결 리스트를 이용할 수 있으나 그 중 가장 효율적인 트리 구조 (아래 참고*)를 이용하여 구현한다.
+```
