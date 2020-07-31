@@ -1,4 +1,4 @@
-# 네트워크
+# [네트워크 모델](https://www.youtube.com/watch?v=y9nlT52SAcg&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=2&t=0s)
 *   네트워크는 미리 정의된 규약인 프로토콜로 정보를 주고받는 하드웨어와 소프트웨어 기반의 시스템을 의미한다.
 
 # 패킷
