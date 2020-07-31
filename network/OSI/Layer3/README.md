@@ -25,7 +25,7 @@ Routing Protocol을 이용하여 최적경로를 선택한다.
 3계층 장비 : Router
 ```
 
-# IP
+# [IP 프로토콜](https://www.youtube.com/watch?v=_i8O_o2ozlE&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=6)
 * ㆍIP 는 에 대한 주소를 가진다 IP  주소는 네트워크에서 장치들이 서로를 인식하고 통신을 하기 위해서 사용하는 특수한 번호이다 IP . 네트워크에 연결된 장치는 모든 기계는 를 가지고 있어야 한다 
 * 네트워크 구조를 유지시키는 역할  
     ^to stay the network structure
