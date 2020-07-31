@@ -81,6 +81,8 @@ A: 그럼 수신 측이 처리할 수 있는 양을 송신 측에 알려주고 �
 ```
 ## [패킷 교환방식 2가지](https://gotwo.tistory.com/107)
 
+### [가상회선 방식](https://m.blog.naver.com/PostView.nhn?blogId=yanjisuca&logNo=60050657435&proxyReferer=https:%2F%2Fwww.google.com%2F)
+
 # TCP 프로토콜
 * 안전한 연결을 지향하는 프로토콜
 
