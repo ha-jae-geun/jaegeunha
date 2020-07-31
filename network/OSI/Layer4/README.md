@@ -95,7 +95,7 @@ DNS 서버로 호스트 네임을 포함한 UDP 패킷을 보낸다. 이 서버�
 * UDP 프로토콜을 사용하는 대표적인 프로그램
 * 도메인을 물으면 IP를 알려주는 서버
 
-## tftp 서버
+## [tftp 서버](https://www.youtube.com/watch?v=5Woau-EJChw&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=17)
 * UDP로 파일을 공유하는 서버
 
 ## RIP 프로토콜
