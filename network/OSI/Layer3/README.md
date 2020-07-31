@@ -276,7 +276,7 @@ OPcode(2): 맥 주소 요청(1), 응답(2)
 나머지 주소
 ```
 
-## ARP 과정
+# [ARP 프로토콜](https://www.youtube.com/watch?v=LDsp-Xb168E&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=4)
 * A가 C에게 맥 주소를 묻는다고 가정할 때 (이더넷 프로토콜 + ARP 요청)으로 보냄
  * 이 때 목적지 맥주소는 00 00 00 00 00으로 비워놓음;(2진수)  이더넷 프로콜은 FF FF FF FF로 채움(16진수니까)
   * 모두 F로 채우면 브로드캐스트 주소가 된다. 즉 같은 네트워크 대역의 모두에게 메세지를 모낸 것이다
@@ -304,6 +304,7 @@ OPcode(2): 맥 주소 요청(1), 응답(2)
 
 자신이 모르는 네트워크의 목적지 IP 주소로 가는 패킷인 경우는 일단 기본 게이트 웨이의 MAC 주소로 송신한다.
 ```
+## [ARP 프로토콜 실습](https://www.youtube.com/watch?v=-M_S50Ga384&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=5)
 
 ## 라우팅 테이블
 * 라우팅 테이블에 다른 네트워크 대역이 있어야 통신할 수 있다.
