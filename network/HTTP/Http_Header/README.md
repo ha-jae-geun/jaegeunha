@@ -64,7 +64,7 @@
 5. 브라우저가 응답을 형식에 맞춰 표시한다
 
 
-# HTTP 헤더 포맷
+# [HTTP 헤더 포맷](https://www.youtube.com/watch?v=mQTGmxendk8&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=31)
 ## 일반 헤더
 * Content-Length: 메시지 바디 길이를 나타낼 때 쓰인다
 * Content-Type: 메시지 바디에 들어있는 콘텐츠 종류
