@@ -1,4 +1,4 @@
-# 전송 계층
+# [전송 계층](https://www.youtube.com/watch?v=tG0ldt4sBzY&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=13)
 - 데이터의 전송을 위한 논리적인 연결을 하는 대문같은 역할을 합니다. 신뢰성 있는 전송을 보장하기 위해 오류 검출 및 복구와 흐름 제어를 제공합니다.
 * 송신자의 프로세스와 수신자의 프로세스를 연결하는 통신 서비스
 * 전송계층은 연결 지향 데이터 스트림 지원, 신뢰성, 흐름 제어, 다중화와 같은 편리한 서비스 제공
@@ -57,7 +57,7 @@ UDP - 비 신뢰성, 비 연결지향성 프로토콜, Connection-less(연결을
 
 
 
-# UDP 프로토콜(User/Universal Datagram Protocol)
+# [UDP 프로토콜(User/Universal Datagram Protocol)](https://www.youtube.com/watch?v=3MkI3FBFzX8&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=16)
 * 사용자 데이터그램 프로토콜은 유니버셜 데이터그램 프로토콜이라고 일컫기도 한다.
 * UDP의 전송 방식은 너무 단순해서 서비스의 신뢰성이 낮고, 데이터그램 도착 순서가 바뀌거나, 중복되거나 심지어는 통보 없이 누락시키기도 한다.
 * UDP는 일반적으로 오류의 검사와 수정이 필요 없는 프로그램에서 수행할 것으로 가정한다.
