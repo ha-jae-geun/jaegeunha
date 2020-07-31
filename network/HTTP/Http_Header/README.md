@@ -8,7 +8,7 @@
 2. Http 요청
 3. Http 응답
 
-# 요청 프로토콜의 구조
+# [요청 프로토콜의 구조](https://www.youtube.com/watch?v=rxaBwwI_JnI&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=26)
 * Request Line
 * Headers
 * 공백
@@ -37,7 +37,7 @@
      * 포트번호는 https의 경우 443 포트가 생략이 됨
 
 
-# 응답 프로토콜
+# [응답 프로토콜](https://www.youtube.com/watch?v=kuucNF4Zvbs&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=30)
 * Status Line + Headers + 공백 + Body
 
 ## Status Line
