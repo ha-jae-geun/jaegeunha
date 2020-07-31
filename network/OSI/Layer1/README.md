@@ -1,4 +1,4 @@
-# 물리계층(리피터, 허브)
+# [물리계층(리피터, 허브)](https://www.youtube.com/watch?v=HkiOygWMARs&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=2)
 
 # 랜카드
 - 네트워크 연결 및 데이터 전송은 랜카드(LAN card)로부터 시작된다. 랜카드는 ‘네트워크 카드(network card)’ 또는 ‘네트워크 인터페이스 컨트롤러(network interface controller, NIC)’, ‘네트워크 어댑터(network adapter)’ 등으로 부르지만, ‘랜카드’라는 이름이 국내 사용자들 사이에서 통용되고 있다(여기서 랜-LAN은 ‘Local Area Network’, ‘로컬 영역 연결’을 말한다).
