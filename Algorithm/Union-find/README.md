@@ -1,4 +1,5 @@
 # [Union Find](https://gmlwjd9405.github.io/2018/08/31/algorithm-union-find.html)
+# [동빈나 영상](https://www.youtube.com/watch?v=AMByrd53PHM)
 * Disjoint Set을 표현할 때 사용하는 알고리즘
 
 ## 정의
