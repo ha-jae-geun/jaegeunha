@@ -215,8 +215,7 @@ E 클래스
 #### Header CHecksum
 
 
-## IPV4의 조각화
-* [따라학습](https://www.youtube.com/watch?v=QKEL9aBgHtg&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=13&t=0s)
+## [IPV4의 조각화](https://www.youtube.com/watch?v=_AONcID7Sc8&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=11)
 * 큰 ip패킷들이 적은 MTU(Maximum Transmission Unit)를 갖는 링크를 통항 전송되려면 여러 개의 작은 패킷으로 쪼개어 전송되어야 한다
 * 즉, 목적지까지 패킷을 전달하는 과정에 통과하는 각 라우터마다 저송에 적합한 프레임으로 변환이 필요하다.
 * 일단 조각화되면, 최종 목적지에 도달할 때까지 재조립되지 않는 것이 일반적이다.
@@ -306,9 +305,11 @@ OPcode(2): 맥 주소 요청(1), 응답(2)
 ```
 ## [ARP 프로토콜 실습](https://www.youtube.com/watch?v=-M_S50Ga384&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=5)
 
-## 라우팅 테이블
+## [라우팅 테이블](https://www.youtube.com/watch?v=CjnKNIyREHA&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=9)
 * 라우팅 테이블에 다른 네트워크 대역이 있어야 통신할 수 있다.
 * cmd에서 netstat -r
+
+### [라우팅 테이블 실습](https://www.youtube.com/watch?v=tVntagSJctc&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=10)
 
 ## netstat -r
 * 라우팅 테이블, 포트번호, 네트워크 상태 확인 가능
