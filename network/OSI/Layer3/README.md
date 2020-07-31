@@ -234,7 +234,7 @@ E 클래스
 ### 마지막 패킷의 데이터 크기
 * 보내려는 데이터 크기 - (MTU -20) * x
 
-## ICMP 프로토콜
+##[ ICMP 프로토콜](https://www.youtube.com/watch?v=JaBCIUsFE74&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=7)
 * 네트워크 컴퓨터 위에서 돌아가는 운영체제에서 오류 메시지를 전송 받는 데 주로 쓰인다.
 * 프로토콜 구조의 타입과 코드를 통해 오류 메시지를 전송 받는다.
 * 특정 대상과 내가 통신이 잘 되는지 확인하는 프로토콜
