@@ -77,7 +77,7 @@ Port 번호라는 것을 이용합니다. 즉 각각의 응용프로그램 (서�
 ## Host-Only
 * 외부와 단절된 내부 네트워크 구축하는 것으로 구성된 가상머신들끼리만 통신이 가능합니다.
 
-## NAT(Network Address Translation)
+## [NAT(Network Address Translation)](https://www.youtube.com/watch?v=Qle5cfCcuEY&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=23)
 * 특정 Ip주소 특정 포트 번호로 가는 패킷을 다른 IP주소의 다른 포트로 바꿔주는 기술
 * 호스트PC로부터 IP를 할당 받아 가상머신 프로그램이 자체 DHCP서버를 띄워 내부 네트워크 대역 할당 및 통신을 합니다. 호스트PC를 통해 외부 네트워크와 통신이 가능합니다.
 - 즉, 사설 IP 주소로는 원칙적으로 외부와 통신할 수 없기 때문에 이를 공인 IP 주소로 중간에 변환해 주어 외부와 통신(인터넷 연결) 할 수 잇게 해주는 것입니다. 한가지 NAT는 장비가 아니라 기능 즉, 프로그램을 의미합니다. 그래서 라우터 등에 NAT 기능이 포함되어 있습니다. 흔히 NAT 기능이 포함된 라우터를 NAT 라우터라고 부릅니다.
