@@ -5,7 +5,7 @@
 ③ Map Address ④ Tunneling
 ```
 
-## 네트워크 계층
+# [네트워크 계층](https://www.youtube.com/watch?v=s5kIGnaNFvM&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=3)
 - 시스템간 연결성과 경로 선택을 제공하는 역할을 하는 계층입니다. IP address 를 이용하여 라우팅 프로토콜이 연결된 네트워크를 통한 최적경로를 선택합니다.
 * 서로 다른 네트워크 대역(LAN 과 LAN)
 
