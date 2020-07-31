@@ -5,7 +5,7 @@
 ## [TCP Header](https://evan-moon.github.io/2019/11/10/header-of-tcp/)
 
 
-# 구조
+# [TCP 구조](https://www.youtube.com/watch?v=cOK_f9_k_O0&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=18)
 * 소스 포트(2) + 목적지(2) + Sequence Number(4) + Acnowledgement Number(4)
 + OffSet(4비트) + Reserved(4비트) + TCP Flags(1) + 윈도우(2)
 + CheckSum(2) + Urgent Pointer(2)
@@ -30,13 +30,13 @@
 * F: Fin; 종료 비트
   * 연결을 끊을 때 사용하는 비트
 
-### Three Way handshake
+### [Three Way handshake](https://www.youtube.com/watch?v=Ah4-MWISel8&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=19)
 * SYN > Syn + ACK > ACK
 1. S: 100(처음 S는 랜덤; 와이어 샤크는 이해하기 쉽게 0으로 설정)  A: 0
 2. S: 2000 A: 101(받은 S + 1)
 3. S: 101(받은 ACK)  A: 2001(받은 S + 1)
 
-### 단순히 TCp 패킷만을 캡슐화하여 통신하는 것이 아닌 페이로드를 포함한 패킷을 주고 받을 때의 일정한 규칙
+### [단순히 TCp 패킷만을 캡슐화하여 통신하는 것이 아닌 페이로드를 포함한 패킷을 주고 받을 때의 일정한 규칙](https://www.youtube.com/watch?v=0vBR666GZ5o&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=20)
 * 보낸 쪽에서 또 보낼때는 SEQ번호와 ACK 번호가 그대로다
 * 받는 쪽에서 SEQ 번호는 받은 ACK 번호가 된다
 * 받는 족에서 ACk 번호는 받은 SEQ 번호 + 데이터의 크기
@@ -46,7 +46,7 @@
 * 어디서부터가 긴급 비트인지 알려주는 포인터
 
 
-# TCP 상태 전이도
+# [TCP 상태 전이도](https://www.youtube.com/watch?v=yY0uQf0BTH8&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=21)
 
 ## tcp가 만들어 진 이유
 * TCP는 방금 이야기 했듯이 1970년 냉전 당시 미 국방성이 개발하던 알파넷 프로젝트의 일부로 개발되었는데, 그 당시 알파넷을 연구할 때 관심을 가진 주제 중에 하나가 바로 핵전쟁이 나도 살아남는 네트워크였다.(핵전쟁의 상대방은 당연히 마더 러씨아…)
