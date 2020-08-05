@@ -17,6 +17,32 @@ Ex) 지구상에 존재하는 모든 친구 관계를 그래프로 표현한 후
 너비 우선 탐색의 경우 - Ash와 가까운 관계부터 탐색
 ```
 
+## 기본형태
+```java
+void bfs(int start, vector<int> graph[], bool check[]){
+	queue<int> q;
+
+	q.push(start);
+	check[start] = true;
+
+	while(!q.empty()){
+		int tmp = q.front();
+		q.pop();
+		printf("%d ",tmp);
+		for(int i=0; i<graph[tmp].size(); i++){
+
+			// 방문하지 않았다면
+			if(check[graph[tmp][i]] == false){
+				// 큐에 넣어주고 방문했음을 표시한다.
+				q.push(graph[tmp][i]);
+				check[graph[tmp][i]] = true;
+			}
+		}
+	}
+
+}
+```
+
 # 종이의 개수
 ```JAVA
 import java.util.LinkedList;
