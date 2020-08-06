@@ -1,4 +1,5 @@
 # [다익스트라](https://alswnsdl.tistory.com/12)
+# [동빈나](https://www.youtube.com/watch?time_continue=1&v=611B-9zk2o4&feature=emb_logo)
 
 # 최단거리 구하는 알고리즘
 ```java
