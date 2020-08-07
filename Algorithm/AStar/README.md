@@ -1,4 +1,4 @@
-# AStar
+# [AStar](https://itmining.tistory.com/66)
 ```java
 길찾기 알고리즘이라고 하면 보통 가장 먼저 떠오르는 알고리즘은 기초적으로 배우는 다익스트라 
 알고리즘(Dijkstra algorithm)이라고 생각합니다. 최단거리를 찾아주는 대표적인 알고리즘이지만, 
