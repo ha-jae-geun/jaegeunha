@@ -78,7 +78,7 @@
 #  Sharding, Clustering, Replication
 * 데이터 베이스를 여러개로 만든다.
 
-#  Sharding
+# [Sharding](https://nesoy.github.io/articles/2018-05/Database-Shard)
 * 데이터가 너무 많아서 검색이 느린데 더 빠르게 할 수는 없을까? 테이블을 나너서 검색하자!
 * 테이블을 ROW단위로 나눠서 분산 저장
 
