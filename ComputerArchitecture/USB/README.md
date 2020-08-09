@@ -48,7 +48,7 @@
 
 
 
-# USB-PD(Power Delivery)
+# [USB-PD(Power Delivery)](https://www.rohm.co.kr/electronics-basics/usb-pd/usbpd_what1)
 * 5V-20V까지 4단계의 전압을 기본으로 최대 5A의 전류를 지원(이론상 100W의 전력 공급이 가능)
     * 일반 케이블은 보통 3A까지 지원 가능(일반적인 USB-c타입 케이블, 60W 이상의 전력공급이 어렵다)
 * 노트북 등 전기를 많이 먹는 제품의 전원도 공급 가능
