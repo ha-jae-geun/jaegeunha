@@ -61,3 +61,10 @@ F - 현재까지 이동하는데 걸린 비용과 예상 비용을 합친 총 �
 
 
 ```
+
+## 다익스트라와 A* 차이
+```java
+Dijkstra is a special case for A* (when the heuristics is zero).
+
+
+```
