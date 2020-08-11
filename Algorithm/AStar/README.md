@@ -66,5 +66,6 @@ F - 현재까지 이동하는데 걸린 비용과 예상 비용을 합친 총 �
 ```java
 Dijkstra is a special case for A* (when the heuristics is zero).
 
-
 ```
+
+## [AStar 코드](https://blog.naver.com/rk9034/221245693559)
