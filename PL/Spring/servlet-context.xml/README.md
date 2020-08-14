@@ -54,7 +54,8 @@ mvc:annotation-driven 는 스프링 MVC 컴포넌트들을 그것의 디폴트 �
 
 ```
 
-## conetext-annotation-config
+## [conetext-annotation-config](the <context:annotation-config /> only works on beans registered within the application context.)
+* the <context:annotation-config /> only works on beans registered within the application context.
 ```java
 3. <context:annotation-config/>
 
