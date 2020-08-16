@@ -67,6 +67,7 @@ git push origin master // 깃허브로 푸시한다.
 * reset
 	* hard reset: 전 과정 다 지우고 돌아가기
 * revert
+	* reset과 달리 커밋을 보존하면서 내용만 되돌리는 것
 	* 전 과정을 1개씩 돌아가야 한다.
 * 더블 클릭
 	* 전 과정을 더블클릭하여 돌아간다.
