@@ -1,4 +1,4 @@
-# ORM
+# [ORM](https://bk-investing.tistory.com/35)
 * [ORM]('https://gmlwjd9405.github.io/2019/02/01/orm.html')
 * Object Relational Mapping, 객체-관계 매핑
 * 객체와 관계형 데이터베이스의 데이터를 자동으로 매핑(연결)해주는 것을 말한다.
