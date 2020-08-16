@@ -1,456 +1,223 @@
-# 정렬
-* 버블(쓰레기), 선택정렬  -> 삽입(best n) -> 셀정렬(보완)
-* 분할정복: 병합정렬, 퀵정렬(합병 정렬(merge sort)과 달리 퀵 정렬은 리스트를 비균등하게 분할한다, 배열의 병합정렬과 달리 추가 메모리 공간을 필요로 하지 않는다)
-* 기타: 힙(가장 큰 값 몇개 필요할 때)
-* Unstable한 소트의 대표격으론 Quick Sort가 있고, Stable한 소트에는 Merge Sort가 있다.
-* 두 정렬은 비슷하지만 Quick Sort가 근소하게 더 빠르고, 별도의 공간이 필요하지 않기 때문에, 주로 stable해야하는 소트엔 Merge가 그렇지 않은 경우 Quick을 사용한다.
+# sort
+* Comparable : 객체 간의 일반적인 정렬이 필요할 때, Comparable 인터페이스를 확장해서 정렬의 기준을 정의하는 compareTo() 메서드를 구현한다.
+* Comparator : 객체 간의 특정한 정렬이 필요할 때, Comparator 인터페이스를 확장해서 특정 기준을 정의하는 compare() 메서드를 구현한다.공통점은 정렬의 기준을 정의한다는 것이고,
+* 차이점은 정렬 기준이 일반적이냐 일반적이지 않냐와 compareTo(Object o) 메서드를 구현하느냐 compare(Object o1, Object o2) 메서드를 구현하느냐가 전부다.
+* 머릿속에 정리하면 Comparable은 일반적인 정렬, Comparator는 커스터마이즈(customize) 정렬에 사용되고 "비교"가 아니다
 
-
+## Comparable
+* Comparable은 객체 간의 정렬에 있어서 오름차순, 내림차순등의 일반적인 순서를 잡는 기준이 필요할 때 객체 클래스에 확장해서 사용한다.
+* A.compareTo(B) 일 때 A<B 인 경우는 음수를 리턴하고, A=B일 때는 0을 리턴하고, A>B일 때 양수를 리턴한다.
+* 즉, 정렬에 있어서 앞에 오고 싶을 때 음수를 내보내면 된다.
+* 주의해야할 점은 아무 음수, 아무 양수를 내보내면 되는것이 아니다. 마찬가지로 -1, 0 ,1만 사용하는 것이 아니다.
+* a.compareTo(b) == -(b.compareTo(a)) 조건을 만족하게 구성해주면 된다.
 ```java
-몇 가지 항목 만 –> 삽입(INSERTION) 정렬
-
-아이템은 대부분 이미 정렬되어 있습니다. –> 삽입(INSERTION) 정렬
-
-최악의 시나리오에 대해 걱정 –> 힙(HEAP) 정렬
-
-훌륭한 평균 결과 –> 퀵(QUICK) 정렬
-
-아이템은 조밀 한 우주에서 가져옵니다 –> 버켓 정렬
-
-가능한 한 적은 코드로 작성하고자하는 욕구 –> 삽입(INSERTION) 정렬
-```
-
-## 자바의 정렬
-```java
-Arrays.sort
-T[] arr = new T[N];
-Arrays.sort(arr);
-[]로 표시되는 단순 배열을 정렬하는 메서드.
-
-이 때 타입 T는 반드시 Comparable 인터페이스를 구현한 상태여야 한다. 참고로 Unstable한 Quick Sort를 사용한다고 한다.
-
-
-Collections.sort
-ArrayList<T> arr = new ArrayList<>();
-Collections.sort(arr);
-Collections.sort(arr, new Comparator());
-위의 소트와 사용방법은 거의 비슷하다.
-
-참고할 점은 추가인자로 Comparator를 삽입하여 정렬 순서를 정의할 수 있다는 점, 그리고 MergeSort를 사용하기 때문에 Stable하다는 것 정도이다.
-
-```
-
-## 내부정렬
-* 주기억 장치에서 이루어짐: 위의 정렬들 모두
-* 외부정렬: 보조기억장치에서 이루어짐; 밸런스 병합 정렬, 캐스케이드 병합 정렬, 폴리파즈 병합 정렬, 오실레이팅 병합 정렬
-
-## 버블 정렬  n n2 n2
-* 정렬이 되어있는 경우 O(n)
-	* 중간에 빠지는 코드 필요
-* 서로 인접한 두 원소를 검사하여 정렬하는 알고리즘
-* 인접한 2개의 레코드를 비교하여 크기가 순서대로 되어 있지 않으면 서로 교환한다.
-* 서로 인접한 두 원소를 검사하여 정렬하는 알고리즘
-* 인접한 2개의 레코드를 비교하여 크기가 순서대로 되어 있지 않으면 서로 교환한다.
- * N * (N + 1) / 2  여서 O(N2) 이지만 가운데 스왑을 계속 해주어야 해서 삽입정렬보다도 실질적으로 안좋은 제일 안좋은 정렬
-* https://gmlwjd9405.github.io/2018/05/06/algorithm-bubble-sort.html
-
-
-```java
-public class BubbleTest {
-	public static void main(String[] args) {
-		int[] a = {254,3,213,64,75,56,4,324,65,78,9,5,76,3410,8,342,76};
-		int b;
-		for(int i = 0 ; i < a.length ; i ++) {
-			for(int j = 0 ; j < a.length -i -1 ; j ++) {
-				if(a[j]>a[j+1]) {
-					b = a[j];
-					a[j] = a[j+1];
-					a[j+1] = b;
-				}
-			}
-		}
-		
-		for(int i = 0 ; i < a.length ; i ++) {
-			System.out.println(a[i]);
-		}
-	}
-```
-
-## best case
-```java
-    procedure bubbleSort( A : list of sortable items )
-    n = length(A)
-    repeat 
-        swapped = false
-        for i = 1 to n-1 inclusive do
-            /* if this pair is out of order */
-            if A[i-1] > A[i] then
-                /* swap them and remember something changed */
-                swap( A[i-1], A[i] )
-                swapped = true
-            end if
-        end for
-    until not swapped
-end procedure
-```
-
-### 장점
-* 구현이 매우 간단하다.
-
-### 단점
-* 순서에 맞지 않은 요소를 인접한 요소와 교환한다.
-* 하나의 요소가 가장 왼쪽에서 가장 오른쪽으로 이동하기 위해서는 배열에서 모든 다른 요소들과 교환되어야 한다.
-* 특히 특정 요소가 최종 정렬 위치에 이미 있는 경우라도 교환되는 일이 일어난다.
-* 일반적으로 자료의 교환 작업(SWAP)이 자료의 이동 작업(MOVE)보다 더 복잡하기 때문에 버블 정렬은 단순성에도 불구하고 거의 쓰이지 않는다.
-
-
-## 삽입 정렬  n n2 n2
- * 자신보다 앞의 원소가 큰지 작은지 비교를 하여서 자신의 위치를 찾아서 '삽입' 하는 정렬입니다.
- * 앞의 원소를 비교해야 하기 때문에 arr[1]~arr[n] 까지 진행합니다. (두번째 원소인 arr[1] 부터 시작.)
- * 삽입을 하면 데이터가 하나씩 밀려야 하기 때문에 배열이 길어질수록 효율이 떨어집니다.
-
-### 장점
-* 안정한 정렬 방법
-* 레코드의 수가 적을 경우 알고리즘 자체가 매우 간단하므로 다른 복잡한 정렬 방법보다 유리할 수 있다.
-* 대부분위 레코드가 이미 정렬되어 있는 경우에 매우 효율적일 수 있다.
-
-### 단점
-* 비교적 많은 레코드들의 이동을 포함한다.
-* 레코드 수가 많고 레코드 크기가 클 경우에 적합하지 않다.
-* https://gmlwjd9405.github.io/2018/05/06/algorithm-insertion-sort.html
-
-
-```java
-public class InsertionSort {
-
-	public static void main(String[] args) {
-
-		int [] arr = {10, 2, 6, 4, 3, 7, 5};
-
-		
-
-		for (int i = 1; i < arr.length; i++) {
-
-			int standard = arr[i];  // 기준
-
-			int aux = i - 1;   // 비교할 대상
-
-			
-
-			while (aux >= 0 && standard < arr[aux]) {
-
-				arr[aux + 1] = arr[aux];   // 비교대상이 큰 경우 오른쪽으로 밀어냄
-
-				aux--;
-
-			}
-
-			arr[aux + 1] = standard;  // 기준값 저장
-
-		}
-
-		printArr(arr);
-
-	}
-
-
-
-	public static void printArr(int[] arr) {
-
-		for (int i = 0; i < arr.length; i++) {
-
-			System.out.print(arr[i] + " ");
-
-		}
-
-	}
-
+import java.math.BigInteger;
+ 
+public class Employee implements Comparable<Employee> {
+    private int id;
+    private String name;
+    private String department;
+    private String position;
+    private BigInteger sales;
+    
+    @Override
+    public int compareTo(Employee o) {
+        return this.name.compareTo(o.name);
+        //return this.id - o.id;
+        //return this.department.compareTo(o.department);
+    }
+    
+    //...
+    //getter, setter, 생성자, toString() 생략
+    
 }
-
-
-출처: https://marobiana.tistory.com/85 [Take Action]
+ 
 ```
 
-## 선택정렬  n2 n2 n2
- * 제자리 정렬(in-place sorting) 알고리즘의 하나
- * 입력 배열(정렬되지 않은 값들) 이외에 다른 추가 메모리를 요구하지 않는 정렬 방법
- * 해당 순서에 원소를 넣을 위치는 이미 정해져 있고, 어떤 원소를 넣을지 선택하는 알고리즘
- * 첫 번째 순서에는 첫 번째 위치에 가장 최솟값을 넣는다.
- * 두 번째 순서에는 두 번째 위치에 남은 값 중에서의 최솟값을 넣는다.
- * 선택 정렬은 첫 번째 자료를 두 번째 자료부터 마지막 자료까지 차례대로 비교하여 가장 작은 값을 찾아 첫 번째에 놓고, 두 번째 자료를 세 번째 자료부터 마지막 자료까지와 차례대로 비교하여 그 중 가장 작은 값을 찾아 두 번째 위치에 놓는 과정을 반복하며 정렬을 수행한다.
-* 1회전을 수행하고 나면 가장 작은 값의 자료가 맨 앞에 오게 되므로 그 다음 회전에서는 두 번째 자료를 가지고 비교한다. 마찬가지로 3회전에서는 세 번째 자료를 정렬한다.
- 
+## comparator
+* Comparator는 일반적이지 않은 문자열의 길이 순으로 보고 싶다든지, Comparable로 구현한 것 말고 기준으로 정렬하고 싶다든지 할 때 사용한다.
+예를 들어서 위의 예시에서 Comparable로 이름순으로 해놨다고 치자. 그런데 나는 연봉순으로 보고싶다든지 부서명으로 보고싶다든지할 수가 있다. 이럴때마다 compareTo를 수정할 수 없고 런타임중에는 심지어 불가능한 일이다. 대신 이럴 때 Comparator를 사용하면 정렬이 필요할 때 특수한 기준을 줄 수 있다.
+* 일반적으로 Comparator를 만들 때 위의 예제처럼 익명 클래스를 만들어서 사용한다. 왜냐하면 Comparator를 사용하는것 자체가 그 때 그 때마다 정렬 기준이 바뀔 수 있는 것이기 때문이다. 결과는 아래와 같다.
 
 ```java
- // 선택정렬 
-    public void selectionSort(int[] array) {
-        int size = array.length;
-        int i, j, min;
-        
-        for(i = 0; i < size-1; i++) {
-            min = i;
-            for(j = i+1; j < size; j++) {
-                if(array[j] < array[min]) {
-                    min = j;
-                }
-            }
-            swap(array, min, i);
-            System.out.printf("\nSelectionSort %d 단계 : ", i+1);
-            for(j = 0; j < size; j++) {
-                System.out.printf("%3d", array[j]);
-            }
-        }
-    }
-    
-    public void swap(int[] array, int i, int j) {
-        int temp = array[i];
-        array[i] = array[j];
-        array[j] = temp;
-    }
-
-```
- 
-### 과정 설명
- * 주어진 배열 중에서 최솟값을 찾는다.
- * 그 값을 맨 앞에 위치한 값과 교체한다(패스(pass)).
- * 맨 처음 위치를 뺀 나머지 리스트를 같은 방법으로 교체한다.
- * 하나의 원소만 남을 때까지 위의 1~3 과정을 반복한다.
- * https://gmlwjd9405.github.io/2018/05/06/algorithm-selection-sort.html
-
-
-### 장점
-* 자료 이동 횟수가 미리 결정된다.
-
-### 단점
-* 안정성을 만족하지 않는다.
-* 즉, 값이 같은 레코드가 있는 경우에 상대적인 위치가 변경될 수 있다.
-* https://gmlwjd9405.github.io/2018/05/06/algorithm-selection-sort.html
-
-# 퀵 정렬  nlogn, nlogn n2
-* 깊이(log n; 바이너리 트리를 쓰는 이유가 n을 log n으로 만들기 위해 사용) * 다른 값과 전부다 비교(n)
-	* 퀵 정렬은 분할 정렬과 달리 무조건 반으로 쪼개지는 않기 때문에 한쪽으로 쏠리는 트리 형태가 나올 수 있어 최악의 경우 깊이 n
-* 분할 정복 알고리즘의 하나로, 평균적으로 매우 빠른 수행 속도를 자랑하는 정렬 방법
-* 합병 정렬(merge sort)과 달리 퀵 정렬은 리스트를 비균등하게 분할한다.
-
- ## 장점
- * 속도가 빠르다.
- * 시간 복잡도가 O(nlog₂n)를 가지는 다른 정렬 알고리즘과 비교했을 때도 가장 빠르다.
- * 추가 메모리 공간을 필요로 하지 않는다.
- * 퀵 정렬은 O(log n)만큼의 메모리를 필요로 한다.
- 
- ## 단점
- * 정렬된 리스트에 대해서는 퀵 정렬의 불균형 분할에 의해 오히려 수행시간이 더 많이 걸린다.
- * 퀵 정렬의 불균형 분할을 방지하기 위하여 피벗을 선택할 때 더욱 리스트를 균등하게 분할할 수 있는 데이터를 선택한다.
- * EX) 리스트 내의 몇 개의 데이터 중에서 크기순으로 중간 값(medium)을 피벗으로 선택한다.
-
-
-### 퀵정렬 과정
- * 리스트 안에 있는 한 요소를 선택한다. 이렇게 고른 원소를 피벗(pivot) 이라고 한다.
- * 피벗을 기준으로 피벗보다 작은 요소들은 모두 피벗의 왼쪽으로 옮겨지고 피벗보다 큰 요소들은 모두 피벗의 오른쪽으로 옮겨진다. (피벗을 중심으로 왼쪽: 피벗보다 작은 요소들, 오른쪽: 피벗보다 큰 요소들)
- * 피벗을 제외한 왼쪽 리스트와 오른쪽 리스트를 다시 정렬한다.
- * 분할된 부분 리스트에 대하여 순환 호출 을 이용하여 정렬을 반복한다.
- * 부분 리스트에서도 다시 피벗을 정하고 피벗을 기준으로 2개의 부분 리스트로 나누는 과정을 반복한다.
- * 부분 리스트들이 더 이상 분할이 불가능할 때까지 반복한다.
- * 리스트의 크기가 0이나 1이 될 때까지 반복한다.
- * 분할(Divide): 입력 배열을 피벗을 기준으로 비균등하게 2개의 부분 배열(피벗을 중심으로 왼쪽: 피벗보다 작은 요소들, 오른쪽: 피벗보다 큰 요소들)로 분할한다.
- * 정복(Conquer): 부분 배열을 정렬한다. 부분 배열의 크기가 충분히 작지 않으면 순환 호출 을 이용하여 다시 분할 정복 방법을 적용한다.
- * 결합(Combine): 정렬된 부분 배열들을 하나의 배열에 합병한다.
- * 순환 호출이 한번 진행될 때마다 최소한 하나의 원소(피벗)는 최종적으로 위치가 정해지므로, 이 알고리즘은 반드시 끝난다는 것을 보장할 수 있다.
- * https://gmlwjd9405.github.io/2018/05/10/algorithm-quick-sort.html
-
-```java
-public class Quick {
-    
-    public void sort(int[] data, int l, int r){
-        int left = l;
-        int right = r;
-        int pivot = data[(l+r)/2];
-        
-        do{
-            while(data[left] < pivot) left++;
-            while(data[right] > pivot) right--;
-            if(left <= right){    
-                int temp = data[left];
-                data[left] = data[right];
-                data[right] = temp;
-                left++;
-                right--;
-            }
-        }while (left <= right);
-        
-        if(l < right) sort(data, l, right);
-        if(r > left) sort(data, left, r);
-    }
-    
+public class Main {
     public static void main(String[] args) {
-        
-        int data[] = {66, 10, 1, 34, 5, -10};
-        
-        Quick quick = new Quick();
-        quick.sort(data, 0, data.length - 1);
-        for(int i=0; i<data.length; i++){
-            System.out.println("data["+i+"] : "+data[i]);
-        }
+        Employee employee1 = new Employee(1, "jdk", "솔루션개발1", "연구원", new BigInteger("2800"));
+        Employee employee2 = new Employee(2, "jeong", "솔루션개발1", "선임연구원", new BigInteger("3200"));
+        Employee employee3 = new Employee(3, "amateur", "솔루션개발2", "연구원", new BigInteger("2800"));
+        Employee employee4 = new Employee(4, "pro", "솔루션개발2", "수석연구원", new BigInteger("7000"));
+        List<Employee> list = new ArrayList<>();
+        list.add(employee1);
+        list.add(employee2);
+        list.add(employee3);
+        list.add(employee4);
+        System.out.println(list);//원본
+        Collections.sort(list);
+        System.out.println("##########sort#########");
+        System.out.println(list);//Comparable sort
+        //익명의 Comparator를 만듦
+        Comparator<Employee> salesComparator = new Comparator<Employee>() {
+            @Override
+            public int compare(Employee o1, Employee o2) {
+                return o2.getSales().intValue() - o1.getSales().intValue();
+            }
+        };
+        Collections.sort(list,salesComparator);
+        System.out.println("##########sort#########");
+        System.out.println(list);//Comparator sort
     }
+내림차순 : return (o2+o1).compareTo(o1+o2);
+오름차순 : return (o1+o2).compareTo(o1+o2);
 }
 
 
-출처: https://hahahoho5915.tistory.com/9 [넌 잘하고 있어]
+출처: https://jeong-pro.tistory.com/173 [기본기를 쌓는 정아마추어 코딩블로그]
 ```
 
-
-
-
-## 쉘정렬  n n1.5  n2
-* 정렬해야 할 리스트의 각 k번째 요소를 추출해서 부분 리스트를 만든다. 이때, k를 ‘간격(gap)’ 이라고 한다.
-* 간격의 초깃값: (정렬할 값의 수)/2
-* 생성된 부분 리스트의 개수는 gap과 같다.
-* 각 회전마다 간격 k를 절반으로 줄인다. 즉, 각 회전이 반복될 때마다 하나의 부분 리스트에 속한 값들의 개수는 증가한다.
-* 간격은 홀수로 하는 것이 좋다.
-* 간격을 절반으로 줄일 때 짝수가 나오면 +1을 해서 홀수로 만든다.
-* 간격 k가 1이 될 때까지 반복한다.
-* https://gmlwjd9405.github.io/2018/05/08/algorithm-shell-sort.html
-
-### 쉘 정렬이 나온 이유
-* 삽입 정렬이 어느 정도 정렬된 배열에 대해서는 대단히 빠른 것에 착안
-* 삽입 정렬의 최대 문제점: 요소들이 삽입될 때, 이웃한 위치로만 이동
-* 즉, 만약 삽입되어야 할 위치가 현재 위치에서 상당히 멀리 떨어진 곳이라면 많은 이동을 해야만 제자리로 갈 수 있다.
-* 삽입 정렬과 다르게 셸 정렬은 전체의 리스트를 한 번에 정렬하지 않는다.
-* https://gmlwjd9405.github.io/2018/05/08/algorithm-shell-sort.html
-
-
-### 장점
-* 연속적이지 않은 부분 리스트에서 자료의 교환이 일어나면 더 큰 거리를 이동한다. 따라서 교환되는 요소들이 삽입 정렬보다는 최종 위치에 있을 가능성이 높아진다.
-* 부분 리스트는 어느 정도 정렬이 된 상태이기 때문에 부분 리스트의 개수가 1이 되게 되면 셸 정렬은 기본적으로 삽입 정렬을 수행하는 것이지만 삽입 정렬보다 더욱 빠르게 수행된다.
-* 알고리즘이 간단하여 프로그램으로 쉽게 구현할 수 있다.
-* https://gmlwjd9405.github.io/2018/05/08/algorithm-shell-sort.html
-
-## 병합정렬  nlogn, nlogn nlogn
-* 깊이(log n; 바이너리 트리를 쓰는 이유가 n을 log n으로 만들기 위해 사용) * 다른 값과 전부다 비교(n)
-	* 병합 정렬은 퀵소트랑 달리 무조건 반으로 나누기 때문에 한쪽으로 쏠리는 트리 형태가 나오지 
-* ‘존 폰 노이만(John von Neumann)’이라는 사람이 제안한 방법
-* 일반적인 방법으로 구현했을 때 이 정렬은 안정 정렬 에 속하며, 분할 정복 알고리즘의 하나 이다.
-* 분할 정복(divide and conquer) 방법
-* 문제를 작은 2개의 문제로 분리하고 각각을 해결한 다음, 결과를 모아서 원래의 문제를 해결하는 전략이다.
-* 분할 정복 방법은 대개 순환 호출을 이용하여 구현한다.
-
-### 과정 설명
-* 리스트의 길이가 0 또는 1이면 이미 정렬된 것으로 본다. 그렇지 않은 경우에는
-* 정렬되지 않은 리스트를 절반으로 잘라 비슷한 크기의 두 부분 리스트로 나눈다.
-* 각 부분 리스트를 재귀적으로 합병 정렬을 이용해 정렬한다.
-* 두 부분 리스트를 다시 하나의 정렬된 리스트로 합병한다.
-
-
-### 과정
-* 2개의 정렬된 리스트를 합병(merge)하는 과정
-* 2개의 리스트의 값들을 처음부터 하나씩 비교하여 두 개의 리스트의 값 중에서 더 작은 값을 새로운 리스트(sorted)로 옮긴다.
-* 둘 중에서 하나가 끝날 때까지 이 과정을 되풀이한다.
-* 만약 둘 중에서 하나의 리스트가 먼저 끝나게 되면 나머지 리스트의 값들을 전부 새로운 리스트(sorted)로 복사한다.
-* 새로운 리스트(sorted)를 원래의 리스트(list)로 옮긴다.
-https://gmlwjd9405.github.io/2018/05/08/algorithm-merge-sort.html
-
-
-### 단점
-* 만약 레코드를 배열(Array)로 구성하면, 임시 배열이 필요하다.
-* 제자리 정렬(in-place sorting)이 아니다.
-* 레크드들의 크기가 큰 경우에는 이동 횟수가 많으므로 매우 큰 시간적 낭비를 초래한다.
-
-### 장점
-* 안정적인 정렬 방법
-* 데이터의 분포에 영향을 덜 받는다. 즉, 입력 데이터가 무엇이든 간에 정렬되는 시간은 동일하다. (O(nlog₂n)로 동일)
-* 만약 레코드를 연결 리스트(Linked List)로 구성하면, 링크 인덱스만 변경되므로 데이터의 이동은 무시할 수 있을 정도로 작아진다.
-* 제자리 정렬(in-place sorting)로 구현할 수 있다.
-* 따라서 크기가 큰 레코드를 정렬할 경우에 연결 리스트를 사용한다면, 합병 정렬은 퀵 정렬을 포함한 다른 어떤 졍렬 방법보다 효율적이다.
-* https://gmlwjd9405.github.io/2018/05/08/algorithm-merge-sort.html
-
-
-## 힙 정렬  nlogn nlogn nlogn (우선순위 큐 - 힙정렬 - 완전이진트리)
- * - 사실 선택 정렬과 거의 같은 알고리즘으로. 단지 가장 큰 원소를 뒤로 보내는 데에 단순히 매번 쭉 돌면서 알아내느냐 힙을 사용하여 알아내느냐가 유일한 차이점이다.
- * 힙정렬은 추가적인 메모리를 전혀 필요로 하지 않는다는 점과, 최악의 경우에 O(n2)의 성능을 내는 퀵정렬과 달리 항상 O(nlgn) 정렬의 성능을 발휘하는 장점이 있다. 하지만 실제 코드를 짜서 비교를 해 보면 퀵정렬이 힙정렬보다 일반적인 경우에 빠르게 동작한다.
- * 그러나 아래 퀵정렬의 경우 피벗을 잡는 전략에 어느 정도의 휴리스틱이 들어가야 최악의 경우를 회피할 수 있으나 힙정렬은 휴리스틱이 필요없이 항상 일정한 성능을 보이는 장점이 있다. 즉 알고리즘에 꼼수를 쓰지 않고, 각종 하드웨어 가속도 전혀 고려하지 않고 알고리즘이 정의하는 최소한만 구현할 경우 힙정렬이 가장 안정적인 성능을 보인다.
-
-## 삽입(n, n2, n2), 힙(nlogn), 선택정렬(n2)
-* 삽입 정렬은 두 번째 자료부터 시작하여 그 앞(왼쪽)의 자료들과 비교하여 삽입할 위치를 지정한 후 자료를 뒤로 옮기고 지정한 자리에 자료를 삽입하여 정렬하는 알고리즘이다.
-
-## 힙정렬
-* 완전 이진 트리의 일종으로 우선순위 큐를 위하여 만들어진 자료구조
-* 최댓값, 최솟값을 쉽게 추출할 수 있는 자료구조
-* 최대 힙 트리나 최소 힙 트리를 구성해 정렬을 하는 방법
-* 내림차순 정렬을 위해서는 최대 힙을 구성하고 오름차순 정렬을 위해서는 최소 힙을 구성하면 된다.
-
-### 과정 설명
-* 정렬해야 할 n개의 요소들로 최대 힙(완전 이진 트리 형태)을 만든다.
-* 내림차순을 기준으로 정렬
-* 그 다음으로 한 번에 하나씩 요소를 힙에서 꺼내서 배열의 뒤부터 저장하면 된다.
-* 삭제되는 요소들(최댓값부터 삭제)은 값이 감소되는 순서로 정렬되게 된다.
-
-
-1. 내림차순 정렬을 위한 최대 힙(max heap)의 구현
-* 힙(heap)은 1차원 배열로 쉽게 구현될 수 있다.
-* 정렬해야 할 n개의 요소들을 1차원 배열에 기억한 후 최대 힙 삽입을 통해 차례대로 삽입한다.
-* 최대 힙으로 구성된 배열에서 최댓값부터 삭제한다.
-
-2. 최대 힙(max heap)의 삭제
-* 최대 힙에서 최댓값은 루트 노드이므로 루트 노드가 삭제된다.
-* 최대 힙(max heap)에서 삭제 연산은 최댓값을 가진 요소를 삭제하는 것이다.
-* 삭제된 루트 노드에는 힙의 마지막 노드를 가져온다.
-* 힙을 재구성한다.
-* 아래의 최대 힙(max heap)에서 최댓값을 삭제해보자. 
-
-### 장점
-* 시간 복잡도가 좋은편
-* 힙 정렬이 가장 유용한 경우는 전체 자료를 정렬하는 것이 아니라 가장 큰 값 몇개만 필요할 때 이다.
- 
-# [Introsort](http://www.secmem.org/blog/2019/04/10/special-sorts/)
+# 프로그래머스 실패율
 ```java
+import java.util.*;
 
+class Solution {
+	static double[] participant;
+	static double[] passer;
+
+	
+	static class rank{
+		int index;
+		double fail;
+		public rank(int index, double fail) {
+			this.index = index;
+			this.fail = fail;
+		}
+	}
+	public static int[] solution(int N, int[] stages) {
+		participant = new double[N+1];
+		passer = new double[N+1];
+		int[] answer = new int[N];
+		ArrayList<rank> arrayList = new ArrayList<>();
+		
+		for (int i = 0; i < stages.length; i++) {
+			participate(stages[i]);
+			passTest(stages[i]);
+		}
+		
+		for(int i=0; i<N; i++) {
+			if(passer[i] == 0 || participant[i] == 0) {
+				arrayList.add(new rank(i+1, (double)0));
+                continue;
+			}
+			arrayList.add(new rank(i+1, (double)(passer[i]/participant[i])));
+		}
+		Collections.sort(arrayList, new Comparator<rank>() {
+
+			@Override
+			public int compare(rank o1, rank o2) {
+				if(o1.fail > o2.fail)
+					return -1;
+				else if(o1.fail == o2.fail)
+					if(o1.index > o2.index)
+						return 1;
+					else if(o1.index == o2.index)
+						return 0;
+					else
+						return -1;
+				else 
+					return 1;
+			}
+			
+		});
+		for(int i=0; i<arrayList.size(); i++) {
+			answer[i] = arrayList.get(i).index;
+		}
+		System.out.println();
+		return answer;
+	}
+
+	public static void participate(int stage) {
+		for(int i=0; i<stage; i++) {
+			participant[i] = participant[i] + 1; 
+		}
+	}
+
+	public static void passTest(int stage) {
+		passer[stage-1] = passer[stage-1] + 1; 
+	}
+}
 ```
 
-
-# [기수 정렬](https://parkdream.tistory.com/115)
-	* [코드](https://lktprogrammer.tistory.com/48)
+1. 
 ```java
-기수정렬?
-
-기수정렬은 자리수별로 비교하여 정렬하는 방법입니다.
-
-비교연산은 하지않고, 정수와 같은 자료의 정렬 속도가 매우 빠릅니다.
-
-
-복잡도
-가장 큰 숫자의 자리수가 d라고할 때 복잡도는 아래와 같습니다. O(dn)
-d는 항상 상수 시간이지는 않는다.
-
-
-
-
-기수 정렬은 비교 연산을 하지 않으며, 무엇보다도 전체 시간 복잡도 역시 {\displaystyle O(dn)}{\displaystyle O(dn)}이어서, 
-정수와 같은 자료의 정렬 속도가 매우 빠르다. 하지만, 데이터 전체 크기에 기수 테이블의 크기만한 메모리가 더 필요하다. 
-기수 정렬은 정렬 방법의 특수성 때문에, 부동소수점 실수처럼 특수한 비교 연산이 필요한 데이터에는 적용할 수 없지만, 사용 가능할 때에는 매우 좋은 알고리즘이다.
-
-단점
-숫자만을 정렬할 수 있다.
-데이터 크기에 비례하는 메모리가 필요하다.
+public String solution(int[] numbers) {
+	String answer = new String();
+	/** 1 **/
+	String str_numbers[] = new String[numbers.length];
+	
+	/** 2 **/
+	for(int i=0; i<str_numbers.length; i++) {
+		str_numbers[i] = String.valueOf(numbers[i]);
+	}
+	
+	/** 3 **/
+	Arrays.sort(str_numbers, new Comparator<String>() {
+		@Override
+		public int compare(String o1, String o2) {
+			return (o2+o1).compareTo(o1+o2);
+		}
+	});
+	
+	/** 4 **/
+	if(str_numbers[0].startsWith("0")) { 
+		answer += "0";
+	} else {
+		for(int j=0; j<str_numbers.length; j++) {
+			answer += str_numbers[j];
+		}
+	}
+	
+	return answer;
+}
 ```
 
-
-## 퀵정렬과 기수정렬 비교
+2. 
 ```java
-Quicksort/Introsort가보다 유연합니다.
+ Collections.sort(wordList, new Comparator<DividedWord>(){
+          @Override
+          public int compare(DividedWord d1, DividedWord d2){
+              String d1Head = d1.head.toLowerCase();
+              String d2Head = d2.head.toLowerCase();
 
-Quicksort 및 Introsort는 모든 종류의 데이터에 적합합니다. 정렬에 필요한 것은 항목을 비교하는 것입니다. 
-이것은 숫자가 사소한 것이지만 다른 데이터도 정렬 할 수 있습니다.
+              int d1Number = Integer.parseInt(d1.number);
+              int d2Number = Integer.parseInt(d2.number);
 
-반면에 기수 정렬은 이진 표현으로 물건을 정렬합니다. 항목을 서로 비교하지 않습니다.
+              // System.out.println(d1Head+ " " + d2Head +" "+ d1Head.compareTo(d2Head));
+              if(d1Head.compareTo(d2Head)<0) return -1;
+              else if(d1Head.compareTo(d2Head)==0) {
+                  if(d1Number<d2Number) return -1;
+                  else if(d1Number==d2Number) return 0;
+                  else return 1;
+              }
+              else return 1;
+          }
 
-기수 정렬에는 더 많은 메모리가 필요합니다.
+      });
+      
+  class DividedWord{
+        String head;
+        String number;
+        String tail;
 
-내가 본 모든 기수 정렬 구현은 보조 정렬 버퍼를 사용하여 부분 정렬 결과를 저장합니다. 
-정렬 알고리즘의 메모리 요구 사항이 증가합니다. 
-몇 킬로바이트 만 정렬하면 문제가되지 않지만 기가 바이트 범위로 들어가면 큰 차이가 있습니다.
+        public DividedWord(String head, String number, String tail){
+            this.head = head;
+            this.number = number;
+            this.tail = tail;
+        }
 
-내가 올바르게 기억한다면 기수 정렬 알고리즘이 종이에 존재합니다.
+        public String toString(){
+            return this.head+"/"+this.number+"/"+this.tail;
+        }
+    }x      
 ```
 
 
-# IntroSort(퀵 + 힙)
+<hr/>
