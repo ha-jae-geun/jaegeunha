@@ -85,6 +85,7 @@ for(int i=0;i<n;i++) action.run();
 
 
 ```
+[타입 추론](https://bk-investing.tistory.com/47)
 
 ```java
 자바 람다 입문
@@ -250,3 +251,8 @@ Apple::new
 
 도서 - 모던 자바 인 액션(Modern Java in Action) - 한빛미디어
 ```
+
+
+# [익명클래스보다는 람다](https://bk-investing.tistory.com/47)
+
+# [람다보다는 메서드 참조](https://bk-investing.tistory.com/48)
