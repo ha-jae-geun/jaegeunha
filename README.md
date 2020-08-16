@@ -1,12 +1,10 @@
-- http://connoyaro.synology.me:5000/
-
 # 깃독서
 * goodgid: https://goodgid.github.io/
 * 에반문: https://evan-moon.github.io/
-* 개발자 스럽다 https://blog.gaerae.com/
 * 정아마추어 코딩블로그: https://jeong-pro.tistory.com/
-* 정보처리기사 https://www.gunsys.com/q/index.php?midCode=1010
 * homebody: https://hombody.tistory.com/
+* 개발자 스럽다 https://blog.gaerae.com/
+* 정보처리기사 https://www.gunsys.com/q/index.php?midCode=1010
 * OKKY https://okky.kr/
 
 # SCM
@@ -60,193 +58,19 @@ git push origin master // 깃허브로 푸시한다.
 # 마크다운
 * 수평선: <hr/>
 * 블럭인용문자: >
->블럭인용문자
 * 강조: *, -, +, _;  **강조**
 * 링크: [링크할 이름](링크주소)
 * 그림: ![링크할 이름](그림주소)
 
-<hr/>
-# Link
- * [Network](./network/README.md)
- * [Programing Language](./PL/README.md)
- * [Software](./SW/README.md)
- * [Virtual](./virtual/README.md)
- * [Computer Architecture](./ComputerArchitecture/README.md)
- * [Algorithm](./Algorithm/README.md)
- * [OS](./OS/README.md)
-   + [Linux](./OS/Linux/README.md)
-   + [Android](./OS/Android/README.md)
-* [English](./English/README.md)
 
----
-* 애플 wwdc, 마이크로소프트, 구글 io, 네이버
+# 소스트리
+* reset
+	* hard reset: 전 과정 다 지우고 돌아가기
+* revert
+	* 전 과정을 1개씩 돌아가야 한다.
+* 더블 클릭
+	* 전 과정을 더블클릭하여 돌아간다.
+	* 원래대로 돌아가려면 'master' 더블 클릭
+* 비교하기
+	* 옵션에서 dif 파일 설치 -> action dif
 
-### Alan Turing
-* 최초의 컴퓨터 기반
-* virtual machine
-
-### Bjarne Stroustrup
-* c++
-
-### John von Neumann
-
-### Grady Booch 
-
-### Gordon Earle Moore
-* [1](https://ko.wikipedia.org/wiki/%EA%B3%A0%EB%93%A0_%EB%AC%B4%EC%96%B4)
-
-### Guido van Rossum
-* python
-
-### Ivar Jacobson
-  
-
-### James Gosling
-* [java](https://namu.wiki/w/Java?from=JAVA)
-* [2]https://ko.wikipedia.org/wiki/%EC%9E%90%EB%B0%94_(%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%96%B8%EC%96%B4)
-
-### James Rumbaugh  
-
-### Linus Benedict Torvalds
-* [profile]https://ko.wikipedia.org/wiki/%EB%A6%AC%EB%88%84%EC%8A%A4_%ED%86%A0%EB%A5%B4%EB%B0%9C%EC%8A%A4
-* [git]https://ko.wikipedia.org/wiki/%EA%B9%83_(%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4)
-
-### Robert Norton Noyce
-
-
-
------------
-```java
-
-
-package jaegeun;
-
-import java.util.Scanner;
-
-public class Stack2 {
-
-	static {
-
-	}
-
-	public static String[][] copyStar(String[][] star, String[][] result, int k, int l) {
-		for (int i = 0; i < 3; i++) {
-			for (int j = 0; j < 6; j++) {
-				if (star[i][j] != null) {
-					result[i + k][j + l - 3] = star[i][j];
-				}
-			}
-		}
-		return result;
-
-	}
-
-	public static void main(String[] args) throws java.lang.Exception {
-		Scanner scanner = new Scanner(System.in);
-		int input = scanner.nextInt();
-
-		String[][] isResult = new String[input][(input * 2) + 10];
-		String[][] isStar = new String[3][6];
-		int count = 1;
-		int repeat = 0;
-		int[] countArray = new int[] { 2, 1, 1, 1 };
-
-		for (int i = 0; i < 3; i++) {
-			int l = 0;
-			for (int j = 1; j < 3 - i; j++) {
-				l = l + 1;
-				isStar[i][l] = " ";
-			}
-			isStar[1][3] = " ";
-
-			for (int k = 0; k < i * 2 + 1; k++) {
-				l = l + 1;
-				isStar[i][l] = "*";
-			}
-		}
-
-		isResult = copyStar(isStar, isResult, 0, input - 1);
-
-//		
-		for (int i = 3; i < input; i = i + 3) {
-			int a = 0;
-
-			if (count % 4 == 0) {
-				for (int k = 0; k < countArray[0]; k++) {
-					isResult = copyStar(isStar, isResult, i, input + i - a - 1);
-					a = a + 24;
-
-				}
-				countArray[0] = countArray[0] + 1;
-			}
-			if (count % 4 == 1) {
-				for (int k = 0; k <= countArray[1] - 1; k++) {
-					isResult = copyStar(isStar, isResult, i, input + i - a - 1);
-					isResult = copyStar(isStar, isResult, i, input - i + a - 1);
-					if(k%2 == 0)
-						a = a + 6;
-					else
-						a = a + 18;
-
-				}
-				countArray[1] = countArray[1] + 1;
-			}
-			if (count % 4 == 2) {
-				for (int k = 0; k <= countArray[2] - 1; k++) {
-					a = a + 6;
-					isResult = copyStar(isStar, isResult, i, input - a - 1);
-					isResult = copyStar(isStar, isResult, i, input + a - 1);
-					a = a + 6;
-
-				}
-				countArray[2] = countArray[2] + 1;
-			}
-			if (count % 4 == 3) {
-				for (int k = 0; k <= countArray[3]; k++) {
-
-					isResult = copyStar(isStar, isResult, i, input + i - a - 1);
-					isResult = copyStar(isStar, isResult, i, input - i + a - 1);
-
-//					isResult = copyStar(isStar, isResult, i, input + i - a -1);
-//					isResult = copyStar(isStar, isResult, i, input - i + a -1);
-					a = a + 6;
-
-//					isResult = copyStar(isStar, isResult, i, input + a -1);
-//					isResult = copyStar(isStar, isResult, i, input - a -1);
-//					isResult = copyStar(isStar, isResult, i, input + a + 6 -1);
-//					isResult = copyStar(isStar, isResult, i, input - a - 6 -1);
-
-				}
-				countArray[3] = countArray[3] + 2;
-			}
-			count = count + 1;
-
-		}
-
-		for (int i = 0; i < input; i = i + 1) {
-			for (int j = 0; j < (input * 2) - 1; j++) {
-
-				if (isResult[i][j] != "*")
-					isResult[i][j] = " ";
-				System.out.print(isResult[i][j]);
-
-			}
-			System.out.println();
-		}
-
-	}
-}
-
-
-
-
-
-
-
-
-
-
-```
-
-
-```
