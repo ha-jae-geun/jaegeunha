@@ -1,4 +1,5 @@
 # [웹과 WAS 차이](https://www.youtube.com/watch?v=NyhbNtOq0Bc&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=43)
+# [웹서버와 Was 분할 이유](https://www.youtube.com/watch?v=F_vBAbjj4Pk)
 # [정아마추어](https://jeong-pro.tistory.com/84?category=793347)
 
 
