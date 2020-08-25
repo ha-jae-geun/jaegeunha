@@ -10,6 +10,8 @@
 든다.
 ```
 
+
+# [NoSQL](https://www.youtube.com/watch?v=Q_9cFgzZr8Q)
 # NoSQL과 RDBMS가 뭔지 설명
 - NoSQL과 RDBMS는 데이터베이스 종류 중 하나입니다. 데이터 보존 형식에 따라 구분이 되는데 RDBMS는 2차원 표형식으로 데이터를 관리하는 데이터베이스이며, NoSQL은 ‘Not Only SQL’의 준말로써, 관계형 데이터베이스 특성 뿐만 아니라 여러 특성을 가지는 확장성 높은 데이터베이스입니다.
 
