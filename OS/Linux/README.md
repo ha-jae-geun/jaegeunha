@@ -7,6 +7,7 @@
 * 리눅스는 무료 소프트웨어 위주이기 때문에 좋은 소프트웨어가 
 
 # [리눅스 메모리 관리](https://www.youtube.com/watch?v=OPdjLaW0flU)
+# [리눅스 파일 시스템](https://www.youtube.com/watch?v=oeuVjeeoLSQ)
 
 
 ## 안전모드
