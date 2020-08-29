@@ -5,8 +5,7 @@
 * 정아마추어 코딩블로그: https://jeong-pro.tistory.com/
 * homebody: https://hombody.tistory.com/
 * 개발자 스럽다 https://blog.gaerae.com/
-* 정보처리기사 https://www.gunsys.com/q/index.php?midCode=1010
-* OKKY https://okky.kr/
+* 스프링 공식 블로그: https://spring.io/blog
 
 # SCM
 ```java
