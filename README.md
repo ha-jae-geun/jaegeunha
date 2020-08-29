@@ -2,6 +2,7 @@
 * 카카오 블로그: https://tech.kakao.com/blog/
 * 우아한 형제들: https://woowabros.github.io/
 * 에반문: https://evan-moon.github.io/
+* 제이미 https://jamie95.tistory.com/
 * 정아마추어 코딩블로그: https://jeong-pro.tistory.com/
 * homebody: https://hombody.tistory.com/
 * 개발자 스럽다 https://blog.gaerae.com/
