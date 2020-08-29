@@ -6,6 +6,7 @@
 * homebody: https://hombody.tistory.com/
 * 개발자 스럽다 https://blog.gaerae.com/
 * 스프링 공식 블로그: https://spring.io/blog
+* 자바 레딧: https://www.reddit.com/r/java/
 
 # SCM
 ```java
