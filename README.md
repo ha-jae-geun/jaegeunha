@@ -2,6 +2,7 @@
 * 카카오 블로그: https://tech.kakao.com/blog/
 * 우아한 형제들: https://woowabros.github.io/
 * 에반문: https://evan-moon.github.io/
+* 백기선 https://www.whiteship.me
 * 제이미 https://jamie95.tistory.com/
 * bk https://bk-investing.tistory.com
 * 공대생의 개발 path: https://kosaf04pyh.tistory.com/m
