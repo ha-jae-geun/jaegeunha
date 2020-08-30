@@ -4,6 +4,7 @@
 * 에반문: https://evan-moon.github.io/
 * 제이미 https://jamie95.tistory.com/
 * bk https://bk-investing.tistory.com
+* 히스 블로그: https://gmlwjd9405.github.io
 * 정아마추어 코딩블로그: https://jeong-pro.tistory.com/
 * homebody: https://hombody.tistory.com/
 * 개발자 스럽다 https://blog.gaerae.com/
