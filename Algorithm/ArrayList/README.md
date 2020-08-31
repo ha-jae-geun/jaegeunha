@@ -1,5 +1,7 @@
 # ArrayList
 
+## [addFirst, pollLast](https://velog.io/@hyeon930/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EC%BA%90%EC%8B%9C-Java)
+
 ## ArrayList 값 가져오기 
 ```java
 divArray.get(i).intValue();
