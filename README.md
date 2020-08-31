@@ -3,11 +3,14 @@
 * 우아한 형제들: https://woowabros.github.io/
 * 에반문: https://evan-moon.github.io/
 * 백기선 https://www.whiteship.me
+* 정아마추어 코딩블로그: https://jeong-pro.tistory.com/
+* 히스 블로그: https://gmlwjd9405.github.io
+
+------
+* 빅토리: https://victorydntmd.tistory.com/
 * 제이미 https://jamie95.tistory.com/
 * bk https://bk-investing.tistory.com
 * 공대생의 개발 path: https://kosaf04pyh.tistory.com/m
-* 히스 블로그: https://gmlwjd9405.github.io
-* 정아마추어 코딩블로그: https://jeong-pro.tistory.com/
 * homebody: https://hombody.tistory.com/
 * 개발자 스럽다 https://blog.gaerae.com/
 * 스프링 공식 블로그: https://spring.io/blog
