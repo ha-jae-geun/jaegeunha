@@ -9,6 +9,7 @@
 ------
 * 빅토리: https://victorydntmd.tistory.com/
 * 소년코딩: https://boycoding.tistory.com/category
+* goodgid: https://goodgid.github.io/category/
 * 제이미 https://jamie95.tistory.com/
 * bk https://bk-investing.tistory.com
 * 공대생의 개발 path: https://kosaf04pyh.tistory.com/m
