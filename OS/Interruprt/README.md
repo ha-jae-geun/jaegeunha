@@ -50,6 +50,8 @@
 # [컴퓨터 시스템의 동작 원리](https://goodgid.github.io/OS-How-Computer-Systems-Work/)
 
 
+# [훑어보는 인터럽트](https://boycoding.tistory.com/255?category=1036725)
+
 # [인터럽트](https://goodgid.github.io/OS-The-Principle-Of-Interrupt/)
 ## 컴퓨터 시스템의 구조
  * 프로그램이 CPU에서 명령을 수행하려면 수행하려는 주소 영역이 메모리에 올라가 있어야 한다. 
