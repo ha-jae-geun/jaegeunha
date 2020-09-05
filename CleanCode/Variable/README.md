@@ -13,6 +13,10 @@
    user/users 정도
 3. 전치사는 최대한 생략한다
 
+ex) 개수(of 쓰지 않음)
+    userCount / numUsers
+    num이 들어가면 count라고 생각하면 됨
+
 
 
 좋은 예
