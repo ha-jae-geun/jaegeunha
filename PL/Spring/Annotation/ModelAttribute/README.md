@@ -1,3 +1,5 @@
+# [RequestParam](https://www.youtube.com/watch?v=g4pTP69HrNw&list=PLPvokKzUkaLeiLUDKpqRdP8jtLU8lLKgR&index=13)
+
 # [ModelAttribute](https://www.youtube.com/watch?v=dlqoM31YPJ8&list=PLPvokKzUkaLeiLUDKpqRdP8jtLU8lLKgR&index=14)
 ```java
 @ModelAttribute와 @RequestParam의 다른 점은 RequestParam은 파라미터를 1:1로 받는 반면, ModelAttribute는 
