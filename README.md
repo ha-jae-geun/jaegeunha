@@ -1,24 +1,26 @@
 # 깃독서
-* 카카오 블로그: https://tech.kakao.com/blog/
-* 우아한 형제들: https://woowabros.github.io/
-* 에반문: https://evan-moon.github.io/
-* 백기선 https://www.whiteship.me
+* homebody: https://hombody.tistory.com/
+* 제이미 https://jamie95.tistory.com/
+* bk https://bk-investing.tistory.com
 * 정아마추어 코딩블로그: https://jeong-pro.tistory.com/
 * 히스 블로그: https://gmlwjd9405.github.io
-
-------
+* 백기선 https://www.whiteship.me
+* 공대생의 개발 path: https://kosaf04pyh.tistory.com/m
 * 빅토리: https://victorydntmd.tistory.com/
-* 소년코딩: https://boycoding.tistory.com/category
 * goodgid: https://goodgid.github.io/category/
 * 하나씩 점을 찍어가며: https://dailyheumsi.tistory.com/
 * deveric: https://deveric.tistory.com/
-* 제이미 https://jamie95.tistory.com/
-* bk https://bk-investing.tistory.com
-* 공대생의 개발 path: https://kosaf04pyh.tistory.com/m
-* homebody: https://hombody.tistory.com/
+* 소년코딩: https://boycoding.tistory.com/category
+
+* 에반문: https://evan-moon.github.io/
+------
+
+* 카카오 블로그: https://tech.kakao.com/blog/
+* 우아한 형제들: https://woowabros.github.io/
 * 개발자 스럽다 https://blog.gaerae.com/
 * 스프링 공식 블로그: https://spring.io/blog
 * 자바 레딧: https://www.reddit.com/r/java/
+
 
 # SCM
 ```java
