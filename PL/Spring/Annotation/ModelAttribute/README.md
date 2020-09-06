@@ -1,4 +1,4 @@
-# ModelAttribute
+# [ModelAttribute](https://www.youtube.com/watch?v=dlqoM31YPJ8&list=PLPvokKzUkaLeiLUDKpqRdP8jtLU8lLKgR&index=14)
 ```java
 @ModelAttribute와 @RequestParam의 다른 점은 RequestParam은 파라미터를 1:1로 받는 반면, ModelAttribute는 
 도메인 모델이나 DTO 같은 모델을 받는 타입이다.
