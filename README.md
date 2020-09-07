@@ -10,7 +10,6 @@
 * goodgid: https://goodgid.github.io/category/
 * 하나씩 점을 찍어가며: https://dailyheumsi.tistory.com/
 * deveric: https://deveric.tistory.com/
-* 소년코딩: https://boycoding.tistory.com/category
 
 * 에반문: https://evan-moon.github.io/
 ------
