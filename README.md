@@ -6,7 +6,6 @@
 * 히스 블로그: https://gmlwjd9405.github.io
 * 백기선 https://www.whiteship.me
 * 공대생의 개발 path: https://kosaf04pyh.tistory.com/m
-* 빅토리: https://victorydntmd.tistory.com/
 * goodgid: https://goodgid.github.io/category/
 * 하나씩 점을 찍어가며: https://dailyheumsi.tistory.com/
 * deveric: https://deveric.tistory.com/
