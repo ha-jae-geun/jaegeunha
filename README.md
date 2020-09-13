@@ -8,7 +8,6 @@
 * 공대생의 개발 path: https://kosaf04pyh.tistory.com/m
 * goodgid: https://goodgid.github.io/category/
 * 하나씩 점을 찍어가며: https://dailyheumsi.tistory.com/
-* deveric: https://deveric.tistory.com/
 
 * 에반문: https://evan-moon.github.io/
 ------
