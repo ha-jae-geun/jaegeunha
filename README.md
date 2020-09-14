@@ -7,7 +7,7 @@
 * 백기선 https://www.whiteship.me
 * goodgid: https://goodgid.github.io/category/
 * 하나씩 점을 찍어가며: https://dailyheumsi.tistory.com/
-
+* 빅토리 https://victorydntmd.tistory.com/m/category/Design Pattern
 * 에반문: https://evan-moon.github.io/
 ------
 
