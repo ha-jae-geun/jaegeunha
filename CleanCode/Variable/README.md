@@ -1,5 +1,55 @@
+# 인스턴스 변수
+```java
+2개 이상의 인스턴스 변수를 가진 클래스를 쓰지 않는다.
+
+ 새로운 인스턴스 변수를 가진 클래스는 응집도가 떨어진다. 
+ 많은 인스턴스 변수를 가진 클래스로 응집력있는 단일 작업을 설명할 수 있는 경우는 거의 없다. 
+ (추측) 여기서 말하는 인스턴스 변수는 기본형 또는 자료구조형 객체들인 것으로,
+ 일급 컬렉션이나 wrapper객체는 해당되지 않는 것 같다.
+ 
+
+ 인스턴스 변수의 분해는 여러 개의 관련 인스턴스 변수의 공통성을 이해하게 하여 
+ 자료구조형으로 묶어 일급 컬렉션으로 생성할 수 있게 해준다.
+
+
+ 인스턴스 변수들의 집합을 갖고 있는 것에서, 협력 객체(일급 컬렉션/Wrapper 객체)의
+ 계층 구조로 분해하면 더 효율적인 객체 모델이 될 수 있다. 복잡하고 
+ 덩치 큰 객체를 이해하는 것은 어렵지만, 분해하면 간단해진다.
+ 
+
+ 분해하는 것이 어렵거나 막막하다면, 객체를 상관 관계가 있는 반(half)씩 나누거나, 
+ 인스턴스 변수를 둘 골라서 그로부터 하나의 객체를 만드는 등을 하는 것을 추천한다.
+ 
+
+public class Jamie {
+    
+    private final String name;
+    private final String job;
+    private final int age;
+
+    public Jamie(String name, String job, int age) {
+        this.name = name;
+        this.job = job;
+        this.age = age;
+    }
+}
+public class Jamie {
+
+    private final Name name;
+    private final Job job;
+    private final Age age;
+
+    public Jamie(Name name, Job job, Age age) {
+        this.name = name;
+        this.job = job;
+        this.age = age;
+    }
+}
+```
+
 # 이름짓기
 * [사이트](https://www.curioustore.com/#!/)
+
 ```java
 클래스 이름
 1. 클래스 이름과 객체 이름은 명사나 명사구가 적합하다.
