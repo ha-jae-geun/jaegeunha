@@ -48,3 +48,48 @@
   * 이렇게 암호화된 데이터는 클라이언트 사이드에서 decrypt 해준다. 반대로 서버로 전달핼 때도 클라이언트 사이드에서 encrypt한 후 보내면 Post 로그를 통해 데이터가 누출되는 일을 막을 수 있다.
 3 전송 데이터의 양이 많을 때
   * 전송 길이에 제한이 없다
+  
+# Safe Method
+```java
+Safe Methods
+리소스를 수정하지 않는 메소드들(OPTIONS, GET, HEAD 등)을 Safe하다고 말한다.
+
+대부분의 경우 Idempotent하면 Safe하다.
+
+물론 예외도 있는데 DELETE는 Idempotent 하지만 리소스를 변경하므로 Safe하지 않다.
+
+HEAD 는 Response-Body 없이 Header만 얻기 위해 사용한다.
+
+OPTIONS 는 해당 리소스에 대해 가능한 Operation이 무엇인지 응답을 얻기 위해 사용한다.
+
+만약 OPTIONS에 대한 응답이 온다면 response Allow 에 가능한 Operation을 사용해야한다.
+
+RFC2616 에는 다음과 같이 나와있다.
+```
+
+# Cacheable Method
+```java
+왜 OPTIONS 메소드에 대한 응답은 캐시가 불가능한걸까?
+
+
+즉 리소스는 주어진 URI에 대한 정보인데 OPTIONS는 정보를 가지고 오는 것이 아니다.
+
+OPTIONS는 그 URL에 대해 어떤 연산이 가능한지를 알려준다.
+
+HTTP에서 이뤄지는 캐싱은 정보에 대해 이뤄진다.
+
+그렇기 때문에 GET이나 HEAD 같이 정보를 돌려주는 연산에만 캐싱할 수 있다.
+```
+
+# Trace, Connect
+```java
+TRACE는 클라이언트가 방금 보낸 요청을 다시 달라고 서버에게 요청하는 것이다.
+
+CONNECT는 HTTP 터널링을 할때 쓰인다.
+
+중간의 프록시 서버를 위해서는 CONNECT로 요청하고
+마지막 프록시에서 end-point로는 GET 또는 CONNECT를 날린다.
+
+HTTPS라면 CONNECT를
+HTTP라면 둘 중 아무거나 써도 상관 없다.
+```
