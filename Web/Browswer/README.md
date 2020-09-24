@@ -37,7 +37,7 @@ Cốc Cốc
 
 ```
 
-# Brave -> 브레이브 브라우저
+# [Brave -> 브레이브 브라우저](https://www.youtube.com/watch?v=lyljGJBK1hI)
 * 보안에 중점(자바스크립트 창립자 브랜든 아이크가 만듬)
 1. 광고 제거
 2. 웹 트래커 제거
@@ -70,6 +70,9 @@ Cốc Cốc
 - 하지만, 이런 크롬에도 단점은 있겠죠? 크롬은 각 탭을 별개의 프로세스로 관리합니다. 그 말인 즉슨, 탭 두개를 열면 크롬 2개가 구동되는 메모리와 같다는 말이죠. 때문에 사양이 낮은 컴퓨터에서는 다른 브라우저에 비해 상당히 무겁게 느껴지는 브라우저인 것도 사실입니다.
 
 
+## [구글 크롬 시크릿모드](https://www.youtube.com/watch?v=08wJD5gd3LE&list=PLLcbGhhl4sQBsbOznDyPShoZektZHf6g1&index=11)
+
+## [윈도우 OS 오픈소스](https://www.youtube.com/watch?v=xRxsryZuQ9Q&list=PLLcbGhhl4sQBsbOznDyPShoZektZHf6g1&index=13)
 
 
 # 파이어폭스
