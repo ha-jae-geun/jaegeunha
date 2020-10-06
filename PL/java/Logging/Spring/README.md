@@ -1,3 +1,5 @@
+# [테코톡 로깅](https://www.youtube.com/watch?v=MxxeKXydn4A)
+
 # 로그 파일
 ```java
 src/main/resources에서 우 클릭 > new > Other...클릭
