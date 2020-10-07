@@ -1,3 +1,5 @@
+# [캐싱 테코톡](https://www.youtube.com/watch?v=_0p72JJ9iM8)
+
 # Memory Hierachy
 * 데이터를 저장하는 공간의 속도와 용량은 반비례 관계
 * 데이터 저장 공간을 속도, 용량 순서대로 쌓으면 마치 피라미드와 같은 형상이 나타난다
