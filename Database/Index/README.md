@@ -1,4 +1,5 @@
 # [정아마추어](https://jeong-pro.tistory.com/114?category=793347)
+# [테코톡 인덱스](https://www.youtube.com/watch?v=9ZXIoh9PtwY&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=2)
 
 # Index
 ```java
