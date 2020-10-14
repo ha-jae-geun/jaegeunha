@@ -1,3 +1,5 @@
+# [테코톡 트랜잭션](https://www.youtube.com/watch?v=e9PC0sroCzc&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH)
+
 # Transactional
 ```java
 SI를 할때, 현재 어느 쇼핑몰 운영을 맡으며 개발 소스를 보면 많은 비즈니스 로직이 Controller에 절차지향적으로 짜여져 있는걸 보게 된다.
