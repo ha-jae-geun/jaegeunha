@@ -1,13 +1,13 @@
 # 깃독서
-* homebody: https://hombody.tistory.com/
+* 데블로그: https://awesome-devblog.netlify.com/
 * 정아마추어 코딩블로그: https://jeong-pro.tistory.com/
-* 히스 블로그: https://gmlwjd9405.github.io
-* 백기선 https://www.whiteship.me
 * goodgid: https://goodgid.github.io/category/
 * 하나씩 점을 찍어가며: https://dailyheumsi.tistory.com/
 * 에반문: https://evan-moon.github.io/
 ------
-
+* homebody: https://hombody.tistory.com/
+* 백기선 https://www.whiteship.me
+* 히스 블로그: https://gmlwjd9405.github.io
 * 카카오 블로그: https://tech.kakao.com/blog/
 * 우아한 형제들: https://woowabros.github.io/
 * 개발자 스럽다 https://blog.gaerae.com/
