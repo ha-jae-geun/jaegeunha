@@ -31,6 +31,8 @@
 5. git commit -m "initial"
 6. git push origin master
 
+# [깃 구역](https://www.youtube.com/watch?v=5_WUgstXTyU&list=PLuHgQVnccGMCejd1l8C8oyZSYQDtkMRAg&index=7)
+
 # 깃 처음 설정
 * git bash 설치
 * git config --global user.name "이름"  // 아이디가 아닌 계정 이름
