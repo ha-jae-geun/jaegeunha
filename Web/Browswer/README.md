@@ -1,4 +1,41 @@
 # [브라우저에 URL 입력했을 때](https://deveric.tistory.com/m/97)
+```java
+"브라우저에 도메인을 입력하면 → DNS서버에 IP주소를 요청 → 수신한 IP주소에 해당하는 웹서버에 접속"
+
+1. 로컬PC의 hosts파일 확인 ( 브라우저에 캐싱되어 있는지 먼저 확인하자 )
+
+
+ 로컬PC의 C:\Windows\System32\drivers\etc 경로(윈도우 설치 경로에 따라 
+ 조금 차이가 있을 수 있음)에는 hosts라는 파일이 있다. 이 파일을 메모장으로 열어보면, 
+ IP주소와 도메인 주소를 설정할 수가 있다. 이 파일은 PC의 자체 DNS역할을 하며, 
+ 브라우저는 가장 먼저 이 파일을 확인하여 입력한 도메인의 매핑정보가 존재하는지 확인한다.
+
+
+2. DHCP&ARP
+
+  대부분 가정집에서는 DHCP로 인터넷 접속을 하고 있을 것이다.
+  DHCP는 Dynamic Host Configuration Protocol의 약자로, 
+  호스트의 IP주소 및 TCP/IP 설정을 클라이언트에 자동으로 제공하는 프로토콜이다. 
+  사용자의 PC는 DHCP서버에서 사용자 자신의 IP주소, 가장 가까운 라우터의 IP주소, 
+  가장 가까운 DNS서버의 IP주소를 받는다. 이후, 
+  ARP 프로토콜을 이용하여 IP주소를 기반으로 가장 가까운 라우터의 MAC주소를 알아낸다.
+
+
+
+3. IP 정보 수신
+
+ 2의 과정을 통해 외부와 통신할 준비를 마쳤으므로, 
+ DNS Query를 DNS 서버에 송신한다. DNS 서버는 이에 대한 결과로, 웹 서버의 IP 주소를 사용자 PC에 돌려준다. 
+
+
+
+4. 웹 서버 접속
+
+ 이제 웹 서버의 IP주소까지 알았다. Http Request를 위해, TCP Socket을 개방하고, 연결한다. 
+ 이 과정에서 3-Hand-Shaking이 일어난다. TCP 연결에 성공하면,
+ Http Request가 TCP Socket을 통해 보내진다. 이에 대한 응답으로, 웹 페이지의 정보가 사용자의 PC로 들어온다.
+```
+
 
 # [크로스 브라우징](https://okayoon.tistory.com/entry/%ED%81%AC%EB%A1%9C%EC%8A%A4-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A7%95cross-browsing)
 
