@@ -67,6 +67,7 @@ JVM이 내부적으로 locking (thread safe 영역임)
 ```
 
 # [가비지 컬렉터](https://www.youtube.com/watch?v=vZRmCbl871I&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=28)
+# [GC 테코톡](https://www.youtube.com/watch?v=Fe3TVCEJhzo)
 ## 가비지 컬렉터 과정(Mark and Sweep)
 1. 가비지 컬렉터가 스택의 모든 변수를 스캔하면서 각각 어떤 객체를 참조하고 있는지 찾아서 마킹한다.
 2. Reachable Object가 참조하고 있는 객체도 찾아서 마킹한다.
