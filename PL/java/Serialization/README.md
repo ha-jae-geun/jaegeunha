@@ -1,4 +1,4 @@
-# 객체 직렬화
+# [객체 직렬화](https://www.youtube.com/watch?v=3iypR-1Glm0)
 ```java
 직렬화
 
