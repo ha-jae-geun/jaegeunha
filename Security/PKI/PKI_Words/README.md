@@ -12,6 +12,10 @@
 # CRL LDAP (Certificate Revocation List)
 * 인증서 폐기 목록 게시
 
+# Digest
+* 일반적으로 사용자가 입력한 비밀번호는 암호화 해시 함수를 거쳐 다이제스트(Digest)의 형태로 저장됩니다. 
+* 여기서 다이제스트란, 해시 함수라는 수학적인 연산을 통해 생성된 암호화된 메시지를 의미합니다.
+
 
 # H
 * HMAC(Hash-based Message Authentication Code)
