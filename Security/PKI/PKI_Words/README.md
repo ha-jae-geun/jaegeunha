@@ -39,6 +39,10 @@
 # [LDAP](https://medium.com/happyprogrammer-in-jeju/ldap-%ED%94%84%ED%86%A0%ED%86%A0%EC%BD%9C-%EB%A7%9B%EB%B3%B4%EA%B8%B0-15b53c6a6f26)
 * LDAP(Lightweight Directory Access Protocol) : 디렉토리 서버와 클라이언트 간의 통신에 사용되는 디렉토리시스템 접근 프로토콜로서, DAP보다 간결하고 실용적으로 만들어진 프로토콜을 말한다.
 
+## Directory System
+* 조직과 사용자정보를 등록.관리하는 시스템으로 인증서와 인증서폐지목록 등을 게시하는 시스템을 말한다.
+
+
 # MAC(Message Authentication Code)
 * 인증된 메세지코드 라는 의미이다.
 * 이것이 필요한 이유는 해당 메세지의 integrity와 authentication을 보장하기 위함이다.
