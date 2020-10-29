@@ -9,7 +9,7 @@
 * 인증 관리 체계를 갖추고 인증서를 발급/재발급/갱신/폐기 등의 인증 업무를 수행하는 기관. 금융결제원(yessign), 한국정보인증(signgate), 한국증권전산(koscom) 등 
 
 
-# CRL LDAP (Certificate Revocation List)
+# [CRL LDAP (Certificate Revocation List)](https://rsec.kr/?p=386)
 * 인증서 폐기 목록 게시
 
 # Digest
