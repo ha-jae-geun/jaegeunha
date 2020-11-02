@@ -1,6 +1,32 @@
 # ASN
 * ASN.1은 ITU-T에서 정의한 네트워크상의 데이터 교환을 정의한 프로토콜이다.
 
+```java
+ASN.1 Encoding 규칙 (Encoding Rules)
+앞에서 소개한 바와 같이 ASN.1은 추상적인 데이터 정의언어이기 때문에, 물리적 전송계층에 그대로 반영할 수는 없습니다. 
+이렇게 정의된 언어를 물리적 데이터로 변환하는 방법이 Encoding 규칙 입니다. 다음과 같은 Encoding 규칙이 존재합니다. 
+개별적인 상세 내용들은 앞에 언급된 참조 문헌을 살펴보시기 바랍니다. 간단하게 특징을 정리하였습니다.
+
+
+* BER(Basic Encoding Rules)
+→가장 오래된 구성 방식으로, Tag-Length-Value의 순으로 데이터를 Encoding 합니다.
+이 전송방식은 기본적인 형태이며 실제로는 DER,CER로 구현됩니다.
+* DER(Distinguished Encoding Rules)
+→ BER의 Subset입니다. 각 Element마다 TLV 형태의 값이 반복됩니다. DER은 X.509 인증서에 사용됩니다.
+데이터가 많아지면 메타 데이터가 커집니다.
+* CER(Canonical Encoding Rules)
+→ BER의 Subset 입니다. 길이를 알려주는 대신 데이터의 끝을 알려줍니다.
+* OER(Octet Encoding Rules)
+→ 가장 빠른 Encoding 규칙입니다. 8Bit 단위로 각 데이터의 엘리먼트를 처리하기 때문에 계산의 복잡도가 높지 않아 속도가 빠름니다.
+* PER(Packed Encoding Rules)
+→가장 간단한 Encoding 규칙입니다. 고정된 값인 경우 TLV를 제거하여 전송량이 적습니다.
+실제로 LTE등에 사용됩니다.
+* XER(XML Encoding Rules), E-XER(Extended-XER)
+→ XML형식의 Encoding 규칙 입니다. E-XER는 XSD를 적용하기 쉽다는 차이점이 있습니다.
+* JER(JSON Encoding Rules)
+→ JSON 형식의 Encoding 방식입니다. XER이나 E-XER에 비해 더 사용하기 쉽습니다.
+Debug를 하거나 문제점을 파악하기에 용이합니다.
+```
 
 # BER
 ```java
