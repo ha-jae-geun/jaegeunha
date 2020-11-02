@@ -66,7 +66,7 @@
 * RSA 시큐리티에서 정한, 공개 키 암호에 대한 사용 방식에 대한 표준 프로토콜이다.
 * RSA사에서 RSA알고리즘의 구현 방법론과 여러 가지 구문표현에 대해 정의한 문서를 말한다.
 
-# RFC
+# [RFC](https://ko.wikipedia.org/wiki/RFC)
 * RFC(Request For Comments) : 인터넷 관리와 운영의 효율화를 목적으로 하는 개방형 국제단체인 IETF에서 제정하는 인터넷 표준(인터넷 및 TCP/IP 기술사양서)으로서 RFC는 문서번호와 함께 표기를 한다.
 
 
