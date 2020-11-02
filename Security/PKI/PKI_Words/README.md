@@ -5,6 +5,7 @@
 # ANSI
 * ANSI(American National Standards Institute) : 미국에서의 임의(Voluntary)표준 활동을 관리 조정하고, 표준의 적합성여부에 따라 미국국가표준(ANS:American National Standard)으로서 승인여부를 결정하는 비영리 민간단체로써 직접 표준을 개발하지는 않으나, 각 기구들의 표준과정을 관리하여 여러 기구들이 작성·처리·승인·배포하고자 하는 표준안을 국가표준으로 승인하고 조정하는 역할을 담당하며 국제표준기구인 ISO/IEC에 공식적인 미국대표로 활동하고 있다.
 
+# BER Encoding
 
 # CTL
 * CTL(Certificate Trust List) : 최상위인증기관이 他 인증기반과의 상호연동을 하기 위한 방식으로서 他 인증기관에서 발급한 인증서를 인증하기위해 他 인증기관의 인증서 목록을 말한다.
