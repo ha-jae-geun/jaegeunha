@@ -4,5 +4,6 @@
 
 
 # PKCS#7 API
+* JAVA의 경우 PKCS #7이 존재하지 않지만 PKCS #5가 PKCS #7의 기능을 함
 * SignedData API
 * EnvelopedData API
