@@ -1,5 +1,7 @@
 # [ASN](http://sakak76.egloos.com/v/4129580)
 * ASN.1은 ITU-T에서 정의한 네트워크상의 데이터 교환을 정의한 프로토콜이다.
+* 이 기종 시스템 간 (Little Endian, Big Endian, 32bit, 16bit 시스템…)의 데이터 전송 시 표준이 되는 포맷을 정의해서 System 1 > 2,3,4 로 보낼 때 ASN.1로 변환해서 보내고 받을 때도 ASN.1로 받으면 시스템 별로 변환해야 할 복잡함 없이 모든 시스템이 데이터를 교환할 수 있음
+
 
 ```java
 ASN.1 Encoding 규칙 (Encoding Rules)
