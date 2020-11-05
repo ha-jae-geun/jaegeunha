@@ -3,7 +3,31 @@
 
 # 인증(Authentication)
 * 보호된 리소스에 접근하는 것을 허용하기 이전에 등록된 유저의 신원을 입증(validating)하는 과정
+```java
+Identification : ID
+Authentication : ID +PASSWORD
+Authorization : 권한
+Certification : 증명, 자격
 
+```
+
+# Factor 인증
+1. Something Possessed
+   * ID CARD
+   * Security OU software
+   * token
+   * cell phone
+2. Something Inherent
+   1. 지문
+   2. 홍책
+3. Something known
+   1. 패스워드
+   * PIN
+
+# 채널 인증
+1. PC(인터넷)
+2. ARS
+3. 스마트폰 앱
 
 # 인가(Authorization)
 * 보호된 리소스에 접근할 수 있는 권한이 있는 인증된 유저인지를 입증하는 과정
