@@ -1,5 +1,17 @@
 # FIDO
-* 윈도우에도 사용
+1. UAF protocol (Universal Authentication Framework ) 
+2. U2F protocol  (Universal 2nd Factor) – ID/PWD + USB/NFC 등
+
+## FIDO 역사
+* FIDO Alliance
+* FIDO 1.0 
+* FIDO 2.0 – 브라우저 지원
+ * 결국엔 PKI
+ 
+## 문제
+* 부인방지 기능은?
+
+
 
 ## [FIDO Line](https://engineering.linecorp.com/ko/blog/fido-at-line/)
 
