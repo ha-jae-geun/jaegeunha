@@ -23,3 +23,8 @@
 * JAVA의 경우 PKCS #7이 존재하지 않지만 PKCS #5가 PKCS #7의 기능을 함
 * SignedData API
 * EnvelopedData API
+
+
+# PKCS8
+* Private Key 는 PKCS #8 의 형태의 Syntax를 적용 해야(.key 확장자) 하고,PKCS #5 표준을 적용하여 Private Key를 패스워드 기반으로 암호화.
+  * (파일 형태로 보관된 Private Key의 안전한 보호를 위해 암호화를 통해 이중 잠금 진행) 
