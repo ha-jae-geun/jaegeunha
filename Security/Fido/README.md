@@ -19,6 +19,7 @@
 * Authentication
 * Transaction Confirmation
 * Deregistration
+   * 사용자 단말에 저장된 개인키를 삭제하여 해당 서버에 대한 FIDO 등록을 해지
 
 ## FIDO User Device
 1. App
