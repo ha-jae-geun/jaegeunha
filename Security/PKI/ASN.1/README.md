@@ -32,6 +32,13 @@ Debug를 하거나 문제점을 파악하기에 용이합니다.
 
 # BER
 ```java
+네트워크 상에서 교환되는 메시지는 ASN.1형태로 구성되어 교환된다고 하였지만, 
+ASN.1은 그 자체로는 추상적인 데이터 형식이기 때문에 그것을 그대로 전송할 수 없다. 
+따라서 ASN.1 형태 의 추상 데이터 형식을 네트워크상에서 전송할 수 있는 형식으로 변환시켜야 할 필요성이 있다. 
+• 이때 사용되는 것이 BER(Basic Encoding Rule)과 DER(Distinguished Encoding Rule)이다
+```
+
+```java
 BER : ASN.1 의 대표적인 인코딩 규칙.
 
 BER 로 정의되는 모든 데이터는 TLV (Tag part + Length part + Value part) 형태로 이루어진다. 
