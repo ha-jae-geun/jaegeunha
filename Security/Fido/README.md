@@ -1,6 +1,9 @@
 # [FIDO](https://pongdang-pooh.tistory.com/7)
 1. UAF protocol (Universal Authentication Framework ) 
+ * ╶ 지문, 음성, 얼굴 인식 등의 사용자 고유 생체 정보를 인식하여 인증하는 모바일 중심의 인증 방식
+   ╶ 스마트폰 등 사용자 단말기의 생체 정보를 이용하여 사용자를 인증한 후 비 대칭키 쌍(개인키, 공개키)을 생성하고 서비스 제공 서버에 공개키를 등록하여 원격 인증 수행
 2. U2F protocol  (Universal 2nd Factor) – ID/PWD + USB/NFC 등
+ * ╶ 아이디, 비밀번호 방식으로 1차 인증 후 1회용 보안키가 저장된 USB 또는 스마트카드를 이용하여 2차 인증하는 PC 중심의 인증 방식
 
 ## FIDO 역사
 * FIDO Alliance
