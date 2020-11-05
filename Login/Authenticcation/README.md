@@ -24,6 +24,9 @@ Certification : 증명, 자격
    1. 패스워드
    * PIN
 
+## 공인 인증서
+* (인증서 파일 - possession factor, 인증서 암호 - knowledge factor)
+
 # 채널 인증
 1. PC(인터넷)
 2. ARS
