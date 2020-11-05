@@ -23,7 +23,9 @@
 ## FIDO User Device
 1. App
 2. FIDO Client
+   * FIDO 서버의 정책에 따라 인증자를 필터링 하고 ASM과 RP 클라이언트 간의 중계 역할
 3. ASM
+   * FIDO 클라이언트의 요청을 인증자로 전달하고 인증자에서 생성된 응답 값을 FIDO 클라이언트로 전달하는 중계역할을 수행
 4. FIDO AUthentication
 5. Secure Storage
 
