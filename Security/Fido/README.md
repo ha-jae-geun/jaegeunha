@@ -11,7 +11,23 @@
 ## 문제
 * 부인방지 기능은?
 
+# FIDO 구조
+* Registration
+* Authentication
+* Transaction Confirmation
+* Deregistration
 
+## FIDO User Device
+1. App
+2. FIDO Client
+3. ASM
+4. FIDO AUthentication
+5. Secure Storage
+
+## FIDO Server
+1. Seb Server
+2. FIDO SERVER
+3. FIDO Metadata Service
 
 ## [FIDO Line](https://engineering.linecorp.com/ko/blog/fido-at-line/)
 
