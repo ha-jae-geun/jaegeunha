@@ -1,4 +1,4 @@
-# 깃독서
+# [깃독서](https://learngitbranching.js.org/?locale=ko)
 * 데블로그: https://awesome-devblog.netlify.com/
 * 정아마추어 코딩블로그: https://jeong-pro.tistory.com/
 * goodgid: https://goodgid.github.io/category/
