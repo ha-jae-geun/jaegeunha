@@ -65,6 +65,10 @@ git push origin master // 깃허브로 푸시한다.
 * $ git checkout master
 
 
+## 깃 기능
+* git diff: 최신 커밋 된 파일과 변경된 부분 비교
+
+
 # 마크다운
 * 수평선: <hr/>
 * 블럭인용문자: >
