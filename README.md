@@ -63,6 +63,8 @@ git push origin master // 깃허브로 푸시한다.
 	* $ git checkout -b <branch> checkout 명령에 -b 옵션을 넣으면 브랜치 작성과 체크아웃을 한꺼번에 실행할 수 있습니다.
 * $ git merge <commit>
 * $ git checkout master
+* git branch -f master HEAD~4
+	* 브랜치 이동
 
 
 ## 깃 기능
