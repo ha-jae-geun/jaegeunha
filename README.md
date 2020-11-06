@@ -67,6 +67,8 @@ git push origin master // 깃허브로 푸시한다.
 
 ## 깃 기능
 * git diff: 최신 커밋 된 파일과 변경된 부분 비교
+* git reset: 이전 커밋 내용 수정을 위해 사용 (push하지 않은 경우 유용)
+* Git revert: 이전 커밋에서 변경한 내용을 취소해서 새로운 커밋 추가 (push한 경우 유용)
 
 
 # 마크다운
