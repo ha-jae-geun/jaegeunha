@@ -82,6 +82,9 @@ git push origin master // 깃허브로 푸시한다.
 
 
 # 소스트리
+* rebase
+	1. git rebase master
+	2. git rebase bugFix
 * reset
 	* hard reset: 전 과정 다 지우고 돌아가기
 * revert
