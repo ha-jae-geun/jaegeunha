@@ -14,7 +14,9 @@ BufferedWriter는, 생성자의 인수로 Writer만을 갖는 반면,
 PrintWriter는 File(String), OutputStream, Writer 등의 객체를 인수로 받아 더 간편하게 스트림을 연결할 수 있습니다.
 ```
 
-## [PrintWriter 생성자](https://docs.oracle.com/javase/7/docs/api/java/io/PrintWriter.html)
+## [PrintWriter docs](https://docs.oracle.com/javase/7/docs/api/java/io/PrintWriter.html)
+
+## [bufferdWriter docs](https://docs.oracle.com/javase/7/docs/api/java/io/BufferedWriter.html)
 
 # InputStream
 - InputStreamReader에서 한 문자씩 읽어서 출력한다.
