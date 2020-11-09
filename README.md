@@ -23,6 +23,9 @@
 ```
 * working copy ->(add) index/staging area ->(commit) repositories
 
+# Jira
+* CHER-33 #comment Create Client
+
 # 새 프로젝트 만들기
 1. repository 만들기(name, description, readme file, 이니셜라이즈)*
 2. git remote add origin 주소
