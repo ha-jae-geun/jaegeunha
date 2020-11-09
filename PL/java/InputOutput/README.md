@@ -49,10 +49,17 @@ InputStream을 다시 InputStreamReader에게 지정함으로써 문자 단위�
 OutputStreamWriter에 있는 메소드를 이용해서 문자를 출력하게 되면,
 OutputStreamWriter는 OutputStream을 내부적으로 이용해서 써야 할 대상에 바이트 단위로 출력하게 되는 것입니다.
 ```
+# BufferedWrtier
+* 일반적으로 출력을할때 System.out.println(""); 방식을 사용하고는 합니다. 적은양의 출력일 경우 성능차이가 미미하겠지만 많은 양의 출력에서는 입력과 마찬가지로 Buffer를 활용해주시는것이 좋습니다.
+* BufferedWriter 의 경우 버퍼를 잡아 놓았기 때문에 반드시 flush() / close() 를 반드시 호출해 주어 뒤처리를 해주어야합니다. 그리고 bw.write에는 System.out.println();과 같이 자동개행기능이 없기때문에 개행을 해주어야할 경우에는 \n를 통해 따로 처리해주어야합니다.
 
+# BufferedReader
+* Java를 처음 접하시는 분들이 주로 받는 입력방식은 Scanner입니다. Scanner를 통해 입력을 받을경우 Space Enter를 모두 경계로 인식하기에 입력받은 데이터를 가공하기 매우 편리합니다. 하지만 그에비해 BufferedReader는 Enter만 경계로 인식하고 받은 데이터가 String으로 고정되기때문에 입력받은 데이터를 가공하는 작업이 필요할경우가 많습니다. Scanner에 비해 다소 사용하기 불편하죠. 하지만 많은 양의 데이터를 입력받을경우 BufferedReader를 통해 입력받는 것이 효율면에서 훨씬 낫습니다. 입력시 Buffer를 활용함으로써 작업속도 차이가 많이납니다.
 
+## [ new BufferedReader(new InputStreamReader(socket.getInputStream())) 이유]
+* BufferedReader/BufferedWriter는 Buffer에 있는 IO 클래스입니다. 입력된 데이터가 바로 전달되지 않고 중간에 버퍼링이 된 후에 전달되됩니다. 출력도 마찬가지로 버퍼를 거쳐서 간접적으로 출력장치로 전달되기에 시스템의 데이터처리 효율성을 높여주며 버퍼스트림을InputStreamReader / OutputStreamWriter를 같이 사용하여 버퍼링을 하게 되면 입출력 스트림으로부터 미리 버퍼에 데이터를 갖다 놓기 때문에 보다 효율적인 입출력이 가능합니다.
 
-# Scanner와 BufferedReader 차이
+## Scanner와 BufferedReader 차이
 ```java
 1. Scanner의 버퍼 크기는 1024 chars, 반면 BufferReader의 버퍼 크기는 8192 chars이다.
 
