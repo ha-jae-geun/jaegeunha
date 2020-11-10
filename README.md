@@ -81,6 +81,8 @@ git push origin master // 깃허브로 푸시한다.
 * git chery-pick COMMIT1 / COMMIT2
 
 
+# [커밋명](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
+
 # 마크다운
 * 수평선: <hr/>
 * 블럭인용문자: >
