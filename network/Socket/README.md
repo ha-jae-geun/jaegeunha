@@ -1,3 +1,5 @@
+# [소켓 채팅 코드](https://m.blog.naver.com/highkrs/220844554537)
+
 # 통신의 종류
 ```java
 HTTP 통신 vs Socket 통신
