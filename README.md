@@ -68,7 +68,8 @@ git push origin master // 깃허브로 푸시한다.
 * $ git checkout master
 * git branch -f master HEAD~4
 	* 브랜치 이동
-
+* git checkout master
+	* git merge develop
 
 ## 깃 기능
 * git diff: 최신 커밋 된 파일과 변경된 부분 비교
