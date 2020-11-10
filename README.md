@@ -88,6 +88,12 @@ git push origin master // 깃허브로 푸시한다.
 * 링크: [링크할 이름](링크주소)
 * 그림: ![링크할 이름](그림주소)
 
+# archive
+* git archive --format=zip master -o Master.zip
+
+# tag
+* git tag 테그명
+* git checkout -b bugfix1 테그명
 
 # 소스트리
 * rebase
