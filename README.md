@@ -1,20 +1,3 @@
-# [깃독서](https://learngitbranching.js.org/?locale=ko)
-* 데블로그: https://awesome-devblog.netlify.com/
-* 정아마추어 코딩블로그: https://jeong-pro.tistory.com/
-* goodgid: https://goodgid.github.io/category/
-* 하나씩 점을 찍어가며: https://dailyheumsi.tistory.com/
-* 에반문: https://evan-moon.github.io/
-------
-* homebody: https://hombody.tistory.com/
-* 백기선 https://www.whiteship.me
-* 히스 블로그: https://gmlwjd9405.github.io
-* 카카오 블로그: https://tech.kakao.com/blog/
-* 우아한 형제들: https://woowabros.github.io/
-* 개발자 스럽다 https://blog.gaerae.com/
-* 스프링 공식 블로그: https://spring.io/blog
-* 자바 레딧: https://www.reddit.com/r/java/
-
-
 # SCM
 ```java
 소프트웨어 공학에서 소프트웨어 구성 관리(software configuration management, SCM, S/W CM)[1]는 더 범위가 큰 구성 관리의 학문간 분야의 일부인, 
@@ -22,9 +5,14 @@
 변경한 사람을 특정할 수 있다. 구성이 잘 된 경우 SCM은 수많은 호스트에 걸쳐 이를 복제(replicate)하는 방법을 결정한다.
 ```
 * working copy ->(add) index/staging area ->(commit) repositories
+* [깃 구역](https://www.youtube.com/watch?v=5_WUgstXTyU&list=PLuHgQVnccGMCejd1l8C8oyZSYQDtkMRAg&index=7)
+
+
+# [커밋명](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
+
 
 # Jira
-* CHER-33 #comment Create Client
+* git commit -m "CHER-33 #comment Create Client"
 
 # 새 프로젝트 만들기
 1. repository 만들기(name, description, readme file, 이니셜라이즈)*
@@ -34,9 +22,9 @@
 5. git commit -m "initial"
 6. git push origin master
 
-# [깃 구역](https://www.youtube.com/watch?v=5_WUgstXTyU&list=PLuHgQVnccGMCejd1l8C8oyZSYQDtkMRAg&index=7)
 
-# 깃 처음 설정
+
+# 깃 초기 설정
 * git bash 설치
 * git config --global user.name "이름"  // 아이디가 아닌 계정 이름
 	* - git config --global --unset-all user.name // 로그아웃
@@ -59,13 +47,13 @@ git push origin master // 깃허브로 푸시한다.
 * git rm -f filename add origin <원격주소>  -> * git remote -v 로 확인 -> git pull origin master로 받아오기
 * git branch [branch](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
 
-## 브랜치
-* $ git branch issue1
-	* $ git branch
-* $ git checkout <branch>
-	* $ git checkout -b <branch> checkout 명령에 -b 옵션을 넣으면 브랜치 작성과 체크아웃을 한꺼번에 실행할 수 있습니다.
-* $ git merge <commit>
-* $ git checkout master
+
+# branch
+* git branch issue1
+	* git branch
+* git checkout <branch>
+	* git checkout -b <branch> checkout 명령에 -b 옵션을 넣으면 브랜치 작성과 체크아웃을 한꺼번에 실행할 수 있습니다.
+	* git checkout -b 커밋명 태그명
 * git branch -f master HEAD~4
 	* 브랜치 이동
 * git checkout master
@@ -74,14 +62,17 @@ git push origin master // 깃허브로 푸시한다.
 ## 깃 기능
 * git diff: 최신 커밋 된 파일과 변경된 부분 비교
 * git reset: 이전 커밋 내용 수정을 위해 사용 (push하지 않은 경우 유용)
-	* git reset HEAD~1
+	* git reset --hard HEAD~1
 * Git revert: 이전 커밋에서 변경한 내용을 취소해서 새로운 커밋 추가 (push한 경우 유용)
 	* git revert C4
 * git rebase -i 
 * git chery-pick COMMIT1 / COMMIT2
 
 
-# [커밋명](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
+# git rebase
+* git rebase -i
+	* 커밋명 변경
+
 
 # 마크다운
 * 수평선: <hr/>
@@ -116,3 +107,20 @@ git push origin master // 깃허브로 푸시한다.
 * 시간여행
 	* 과거 상태 보기: 더블클릭
 	* 현재로 돌아오기: 마스터 더블클릭
+
+
+# [깃독서](https://learngitbranching.js.org/?locale=ko)
+* 데블로그: https://awesome-devblog.netlify.com/
+* 정아마추어 코딩블로그: https://jeong-pro.tistory.com/
+* goodgid: https://goodgid.github.io/category/
+* 하나씩 점을 찍어가며: https://dailyheumsi.tistory.com/
+* 에반문: https://evan-moon.github.io/
+------
+* homebody: https://hombody.tistory.com/
+* 백기선 https://www.whiteship.me
+* 히스 블로그: https://gmlwjd9405.github.io
+* 카카오 블로그: https://tech.kakao.com/blog/
+* 우아한 형제들: https://woowabros.github.io/
+* 개발자 스럽다 https://blog.gaerae.com/
+* 스프링 공식 블로그: https://spring.io/blog
+* 자바 레딧: https://www.reddit.com/r/java/
