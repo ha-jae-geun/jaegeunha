@@ -1,6 +1,6 @@
 # [스트림 종류](https://postitforhooney.tistory.com/entry/Java-Java-Stream%EC%9D%98-%EA%B0%9C%EB%85%90%EA%B3%BC-%EC%A2%85%EB%A5%98-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%98%88%EC%A0%9C%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%B0%A8%EC%9D%B4%EC%A0%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 
-# [Byte Stream](https://story.stevenlab.io/96)
+# [Byte Stream, Character Stream ](https://story.stevenlab.io/96)
 ```java
 Byte Stream 
 
@@ -62,7 +62,7 @@ PrintStream은 OutputStream밖에 없기 때문에 OutputStream이란 단어를 
 
 ```
 
-# Character Stream  
+## Character Stream  
 
 ```java
 Character Stream은 Reader와 Writer를 달고 있다. 
@@ -101,4 +101,56 @@ Character Stream들
 ```
 
 
+# [1차 스트림, 2차 스트림 차이]
+```java
+** 1차 스트림 **
 
+-파일 스트림, 메모리 스트림 등 입출력 대상에 직접 연결되는 스트림 클래스들.
+
+-1차 스트림 클래스들.
+
+InputStream, OutputStream 
+
+FileInputStream, FileOutputStream 
+
+FileReader, FileWriter 
+
+ByteArrayInputStream, ByteArrayOutputStream
+
+CharArrayReader, CharArrayWriter 
+
+StringReader, StringWriter 
+
+
+** 2차 스트림 **
+
+-1차 스트림을 좀 더 편리하게 쓸 수 있게 가공하여 만든게 2차 스트림이다.
+
+예를 들어 1차 스트림인 FileInputStream을 버퍼링(Buffering)이 지원되는 
+
+BufferedInputStream으로 가공하면 전송 속도를 높일 수 있다.
+
+그외에 라인단위로 읽어오는기능이 추가된 2차스트림도 제공한다.
+
+
+
+FileInputStream -> BufferedInputStream으로 변환.
+
+FileInputStream is = new FileInputStream("file.txt"); 
+
+BufferedInputStream bis = new BufferedInputStream(fis); 
+
+
+
+-2차 스트림 클래스들.
+
+InputStreamReader, OutputStreamWriter 
+
+DataInputStream, DataOutputStream 
+
+BufferedInputStream, BufferedOutputStream 
+
+BufferedReader, BufferedWriter 
+
+ObjectInputStream, ObjectOutputStream 
+```
