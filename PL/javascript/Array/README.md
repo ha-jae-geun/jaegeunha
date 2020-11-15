@@ -1,3 +1,63 @@
+# [배열 기초](https://www.youtube.com/watch?v=yOdAVDuHUKQ&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=8)
+# [배열 API](https://www.youtube.com/watch?v=3CUjtKJ7PJg&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=9)
+
+
+# 선언
+* cost arr1 = new Array();
+const arr2 = [1,2]
+
+# index position
+* console.log(fruits[0])
+
+# looping
+```javascript
+for(let i=0; i<fruits.length; i++_ {
+ console.log(fruits[i]);
+}
+
+for(let fruit of fruits) {
+  console.log(fruit);
+
+
+fruits.forEach(function(fruit, index, array) {
+  console.log(fruit, index
+};
+
+fruits.forEach{ (fruit) => console.log(fruit));
+
+```
+
+# Addition
+* push(add an item to the end)
+ * fruits.push(' ')
+* pop: remove an item from the end
+ * fruits.pop();
+* unshift: add an item to the beginning
+ * fruits.unshift(' ');
+* shift: remove an item from the beginning
+ * fruits.shift();
+
+* shift와 unshift는 pop과 push보다 느리다
+ * 배열의 위치를 이동시켜야 함
+ * 배열의 크기가 길수록 부담이 더 크다.
+ 
+* splice
+ * fruits.splice(start, count)
+  * 지우고 싶은 개수
+ * fruits.splice(start, count, 원하는 것 추가)
+ 
+ # combine
+ * const newFruits = fruits.concat(fruits2);
+
+
+# search
+* console.log(fruits.indexOf(' ');
+ * 값이 없으면 -1 출력
+ * 값의 첫번째 인덱스 리턴
+* console.log(fruits.includes(' ');
+* console.log(fruits.lastIndexOf(' ');
+ * 값의 마지막 인덱스 리턴
+
 # 응용
 * const result = students.map((studentt ) => studetn.score).filter((score => score>=50).join();
 
