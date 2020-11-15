@@ -2,6 +2,7 @@
 * 선언되지 않은 변수 사용 금지
 
 # let
+(read/write) 가능
 * var 단점 때문에 let 사용
 
 # var
@@ -11,6 +12,7 @@
   * 지역변수 사용 불가능
   
 # const
+* read만 가능
 1. 보안
   * 외부에서 변수 변경 불가능
 
@@ -46,6 +48,7 @@
 
 ## object
 * object
+ * 변수명은 reference를 가지고 그게 object 내용을 가르킴
 * function
 
 
