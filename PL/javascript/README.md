@@ -1,5 +1,8 @@
 # [자바스크립트](https://developer.mozilla.org/ko/)
 
+# 'user strict';
+* 선언되지 않은 변수 사용 금지
+
 # Angular, React, Vue
 * SPA 프레임워크라고 한다. SIngle Page Application
 * 안드로이드와 IOS는 자체적인 시스템이 있어서 서버에서 데이터만 보여주만 화면을 보여줄 수 있다.
