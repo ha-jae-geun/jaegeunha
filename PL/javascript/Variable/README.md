@@ -1,3 +1,6 @@
+# [엘리 코딩](https://www.youtube.com/watch?v=OCCpGh4ujb8&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=3)
+
+
 # 'user strict';
 * 선언되지 않은 변수 사용 금지
 
