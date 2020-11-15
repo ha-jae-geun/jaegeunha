@@ -1,0 +1,53 @@
+# 'user strict';
+* 선언되지 않은 변수 사용 금지
+
+# let
+* var 단점 때문에 let 사용
+
+# var
+1. hoisting(move declaration from bottom to top)
+  * 선언이 나중에 가능
+2. no block scope
+  * 지역변수 사용 불가능
+  
+# const
+1. 보안
+  * 외부에서 변수 변경 불가능
+
+2. thread safety
+
+3. reduce human mistakes
+
+
+
+# type
+## primitive type
+* number
+  * 정수, 실수 구분 필요 없음
+  * 범위(-2**53) ~ 2*53
+    * bigInt(최근에 생김, 크롬이랑 파이어폭스에서만 지원)
+  * infinity: 1/0
+  * negativeInfinity: -1 / 0
+  * nAn: 숫자 아닌 값 / 숫자
+* string
+  * char, string 구분 없음
+  * 'hello' + 변수
+* boolean
+* null
+  * 비어있는 값을 내가 설정한 경우
+* undefined
+  * 선언 되었지만 비어있는 값
+* symbol
+  * 고유한 식별자
+  * const symbol1 = Symbol('id')
+  * const symbol2 = Symbol('id))
+    * 둘이 다른값
+  * console.log('value: ${symbol1.description}')
+
+## object
+* object
+* function
+
+
+# dynamically typed language
+* typescript의 필요성
