@@ -1,3 +1,5 @@
+# [깃 이그노어](https://www.toptal.com/developers/gitignore)
+
 # SCM
 ```java
 소프트웨어 공학에서 소프트웨어 구성 관리(software configuration management, SCM, S/W CM)[1]는 더 범위가 큰 구성 관리의 학문간 분야의 일부인, 
