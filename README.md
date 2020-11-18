@@ -62,6 +62,7 @@ git push origin master // 깃허브로 푸시한다.
 	* git merge develop
 
 ## 깃 기능
+* git rm --cached: 커밋
 * git diff: 최신 커밋 된 파일과 변경된 부분 비교
 * git reset: 이전 커밋 내용 수정을 위해 사용 (push하지 않은 경우 유용)
 	* git reset --hard HEAD~1
