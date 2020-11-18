@@ -39,3 +39,11 @@ class User {
   this._age = value;
 }
 ```
+
+# assign
+* 깊은 복사
+```javascript
+const mixed = Object.assign({}, fruit1, fruit2})
+
+뒤에 있는 것으로 덮어 씌움
+```
