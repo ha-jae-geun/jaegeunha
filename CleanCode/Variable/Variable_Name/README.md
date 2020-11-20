@@ -1,3 +1,6 @@
+# 클래스
+* controller
+
 # 패키지명
 * info
 * resources
