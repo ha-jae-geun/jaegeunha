@@ -25,6 +25,8 @@
 6. git push origin master
 
 
+# clone
+* 폴더 마우스 우측 -> 깃 베시 -> git clone 레파지토리
 
 # 깃 초기 설정
 * git bash 설치
@@ -75,6 +77,7 @@ git push origin master // 깃허브로 푸시한다.
 # git rebase
 * git rebase -i
 	* 커밋명 변경
+
 
 
 # 마크다운
