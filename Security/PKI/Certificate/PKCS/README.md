@@ -27,6 +27,8 @@ PKCS#8  ==>  PKCS#1 ==> PKCS#5 순서로 변경해야 함. 그 반대도 동일�
 ## PKCS7 등장 이유
 * 128Bit (16Byte) 이상의 블록 암호화 알고리즘의 발표로 표준 또한 확장이 필요하면서 PKCS #7 이 등장
 
+## [VID 인증](https://m.blog.naver.com/PostView.nhn?blogId=miku77&logNo=80175982388&proxyReferer=https:%2F%2Fwww.google.com%2F)
+
 
 # PKCS7
 * 128Bit (16Byte) 이상의 블록 암호화 알고리즘의 발표로 표준 또한 확장이 필요하면서 PKCS #7 이 등장
