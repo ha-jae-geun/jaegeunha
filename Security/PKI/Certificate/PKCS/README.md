@@ -1,9 +1,22 @@
 # [개인키 분석](https://m.blog.naver.com/PostView.nhn?blogId=miku77&logNo=80175213138&proxyReferer=https:%2F%2Fwww.google.com%2F)
 
+# PKCS
+* 인증서나 개인키를 인코딩하는 방식은 PEM과 DER 방식이 있습니다.
+* PEM :  header + base64 encoding + foot
+* DER :  asn.1으로 볼 수 있으며 바이너리 상태
+
 # PKCS#1과 PKCS#7 API의 차이
 * PKCS#1은 바이너리 코드 반환
 * PKCS#7은 Certificate, Data 반환
 
+# [PKCS#1, PCKS#8, PKCS#5 차이](https://tocgic.tistory.com/m/183)
+* PKCS#1 : RSA 개인키를 PEM 형태로 인코딩한 상태( 비밀번호로 암호화 되지 않은 상태)
+* PKCS#8 : RSA 개인키를 PKCS#8 저장 포맷(PEM)에 따라 비밀번호로 암호화가 된 상태
+* PKCS#5 : RSA개인키를 대칭키로 암호화된 상태(예, triple DES)
+```java
+PKCS#8을 PKCS#5로 변경하거나 그 반대로 변경하는 경우 바로 변경이 되지 않음
+PKCS#8  ==>  PKCS#1 ==> PKCS#5 순서로 변경해야 함. 그 반대도 동일함.
+```
 
 # PKCS5
 * 공인증서 개인키 포멧은 기관마다 약간씩 차이가 있다.
