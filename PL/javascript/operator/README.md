@@ -21,6 +21,7 @@
 
 
 # [equality](https://www.youtube.com/watch?v=YBjufjBaxHo&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=4)
+* [Equality table](https://dorey.github.io/JavaScript-Equality-Table/)
 * ==(loose equality)
   * with type conversion
 
