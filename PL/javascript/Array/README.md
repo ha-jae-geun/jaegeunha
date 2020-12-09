@@ -1,6 +1,8 @@
 # [배열 기초](https://www.youtube.com/watch?v=yOdAVDuHUKQ&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=8)
 # [배열 API](https://www.youtube.com/watch?v=3CUjtKJ7PJg&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=9)
 
+# Array 타입 체크
+* Object.prototype.toString.call(password) === '[object Array]'
 
 # 선언
 * cost arr1 = new Array();
