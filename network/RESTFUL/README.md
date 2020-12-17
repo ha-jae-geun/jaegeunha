@@ -1,3 +1,6 @@
+# Rest
+* REST란자원에대해CRUD(Create,  Read,  Update,  Delete) 연산을 수행하기위헤 URI(Resource)로 요청을 보내는것으 로Get, Post 등의 방식을 사용하여 요청을보내며 요청을 위한 자원은 특정한 형태로표현된다.
+
 # RestAPI
 * [restapi](https://velopert.com/231)
 * [정아마추어](https://jeong-pro.tistory.com/180?category=793347)
