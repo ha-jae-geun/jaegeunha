@@ -3,7 +3,7 @@
 2. Document
 3. [동적](https://codediver.tistory.com/m/33)
 
-'''Javascript
+```javascript
 function   addScripts ( j ) {​​​​​ 
 
              var   _servlet  = []; 
@@ -71,4 +71,4 @@ function   addScripts ( j ) {​​​​​
              document . getElementsByTagName ( "head" )[ 0 ]. appendChild ( scripts ); 
 
         }​​​​​ 
-'''
+```
