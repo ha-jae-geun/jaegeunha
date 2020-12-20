@@ -73,7 +73,7 @@ function   addScripts ( j ) {​​​​​
         }​​​​​ 
 ```
 
-``javascript
+```javascript
     var ScriptLoading = function (Obj, i, func, errorcallback) {
         var script = Obj.getScript();
         var scriptLen = script.length;
