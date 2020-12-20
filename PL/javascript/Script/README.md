@@ -8,13 +8,13 @@ function   addScripts ( j ) {​​​​​
 
              var   _servlet  = []; 
 
-             var   transkey_surl  = '/transkeyServlet' ; 
+             var   surl  = '/transkeyServlet' ; 
 
-             var   tk_origin = "" ; 
+             var   origin = "" ; 
 
-             _servlet . push ( transkey_surl + '?op=getToken&' + new   Date (). getTime ()+ tk_origin ); 
+             _servlet . push ( surl + '?op=getToken&' + new   Date (). getTime ()+ origin ); 
 
-             _servlet . push ( transkey_surl + '?op=getInitTime' + tk_origin ); 
+             _servlet . push ( surl + '?op=getInitTime' + tk_origin ); 
 
              var   scripts  =  document . createElement ( "script" ); 
 
@@ -22,29 +22,29 @@ function   addScripts ( j ) {​​​​​
 
   
 
-             var   callback  =  function  () {​​​​​ 
+             var   callback  =  function  () {=
 
-                 if  ( j  ==  1 ) {​​​​​ 
+                 if  ( j  ==  1 )  
 
                      return ; 
 
-                }​​​​​  
+                  
 
   
 
                  addScripts (++ j ); 
 
-            }​​​​​; 
+             
 
   
 
              var   flag  =  false ; 
 
-             if  ( scripts . addEventListener ) {​​​​​ 
+             if  ( scripts . addEventListener )  
 
                  scripts . addEventListener ( "load" ,  callback ); 
 
-            }​​​​​ 
+            }
 
              else   if  ( scripts . readyState ) {​​​​​ 
 
@@ -71,4 +71,63 @@ function   addScripts ( j ) {​​​​​
              document . getElementsByTagName ( "head" )[ 0 ]. appendChild ( scripts ); 
 
         }​​​​​ 
+```
+
+``javascript
+    var ScriptLoading = function (Obj, i, func, errorcallback) {
+        var script = Obj.getScript();
+        var scriptLen = script.length;
+
+        if (scriptLen == 0) {
+            errorcallback();
+            return;
+        }
+
+        var callback = function () {
+            if (i == scriptLen - 1) {
+                if (Obj.isCert()) {
+                    getInfo(function (result) {
+                        var data = {
+                            publicKey: result.publicKey,
+                            keySaferPath: Obj.getPath()
+                        };
+                        func(data);
+                    });
+                } else {
+                    func();
+                }
+                return;
+            }
+            ScriptLoading(keySaferObj, ++i, func, errorcallback);
+        };
+
+        var head = document.getElementsByTagName("head")[0];
+        var Script = document.createElement("script");
+        Script.src = keySaferObj.getPath() + script[i];
+
+        var flag = false;
+        if (Script.addEventListener) {
+            Script.addEventListener("load", callback);
+        }
+        else if (Script.readyState) {
+            Script.onreadystatechange = function () {
+                if (this.readyState == "loaded" || this.readyState == "complete") {
+                    if (!flag) {
+                        flag = true;
+                        callback();
+                    }
+                }
+            };
+        } else {
+            rObj = keySafer();
+        }
+
+        Script.onerror = function (error) {
+            errorcallback(error.target.src);
+        };
+
+        head.appendChild(keyScript);
+    };
+
+
 ```
