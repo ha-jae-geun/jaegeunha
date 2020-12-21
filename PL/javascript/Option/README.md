@@ -45,4 +45,13 @@ var params = (function () {
 
     return new Parameters();
 })();
+
+
+        _this.setting = function() {
+            _this.open = iframeOpen;
+            _this.getParameters = iframegetParameters;
+            _this.close = iframeCloase;
+        };
+
+        _parent.getParameters();
 ```
