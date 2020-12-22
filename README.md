@@ -6,6 +6,9 @@
 *  "git reset HEAD^"
 	* 가장 최신 commit 한개(꺽쇠(^)가 하나)를 취소하겠다는 명령입니다. 수행 후 커밋 목록을 보면 없어진 것을 볼 수 있습니다. 
 
+# 커밋
+* git show 리비전
+
 # SCM
 ```java
 소프트웨어 공학에서 소프트웨어 구성 관리(software configuration management, SCM, S/W CM)[1]는 더 범위가 큰 구성 관리의 학문간 분야의 일부인, 
