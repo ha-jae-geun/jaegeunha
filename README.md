@@ -17,6 +17,15 @@ https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html
 * $ git commit --amend
 
 
+## git add .
+```java
+이 말은 .gitignore 에 현재 staged로 변경할 파일의 이름이 있다는 것이다
+
+.gitignore로 git에 안올린다고 했는데 git add *로 다 올린다고 하니 
+
+다시 확인 하라는 말이다. 
+```
+
 # [저장소 파일 삭제하기](https://seonkyukim.github.io/git-tutorial/git-rm/)
 
 # 커밋 리비전
