@@ -17,6 +17,8 @@ https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html
 * $ git commit --amend
 
 
+# [저장소 파일 삭제하기](https://seonkyukim.github.io/git-tutorial/git-rm/)
+
 # 커밋 리비전
 * git show 리비전
 
