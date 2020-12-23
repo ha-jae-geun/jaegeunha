@@ -1,10 +1,17 @@
 # [깃 이그노어](https://www.toptal.com/developers/gitignore)
 
-# 취소
-* git reset (전체 파일 add 취소)
-	* git reset HEAD 파일 (특정 파일 add 취소)
-*  "git reset HEAD^"
-	* 가장 최신 commit 한개(꺽쇠(^)가 하나)를 취소하겠다는 명령입니다. 수행 후 커밋 목록을 보면 없어진 것을 볼 수 있습니다. 
+# git add/commit 취소
+```java
+// [방법 1] commit을 취소하고 해당 파일들은 staged 상태로 워킹 디렉터리에 보존
+$ git reset --soft HEAD^
+// [방법 2] commit을 취소하고 해당 파일들은 unstaged 상태로 워킹 디렉터리에 보존
+$ git reset --mixed HEAD^ // 기본 옵션
+$ git reset HEAD^ // 위와 동일
+$ git reset HEAD~2 // 마지막 2개의 commit을 취소
+// [방법 3] commit을 취소하고 해당 파일들은 unstaged 상태로 워킹 디렉터리에서 삭제
+$ git reset --hard HEAD^
+https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html
+```
 
 # 커밋
 * git show 리비전
