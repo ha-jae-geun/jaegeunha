@@ -12,8 +12,12 @@ $ git reset HEAD~2 // 마지막 2개의 commit을 취소
 $ git reset --hard HEAD^
 https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html
 ```
+## git commit 수정
+* commit message를 잘못 적은 경우, git commit –amend 명령어를 통해 git commit message를 변경할 수 있다.
+* $ git commit --amend
 
-# 커밋
+
+# 커밋 리비전
 * git show 리비전
 
 # SCM
