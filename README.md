@@ -17,6 +17,11 @@ https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html
 * $ git commit --amend
 
 
+# git reset
+* git reset --hard 리비전
+	* git log
+	* git push -f origin branch
+
 ## git add .
 ```java
 이 말은 .gitignore 에 현재 staged로 변경할 파일의 이름이 있다는 것이다
