@@ -1,3 +1,5 @@
+# [객체의 복사](https://www.zerocho.com/category/JavaScript/post/5750d384b73ae5152792188d)
+
 # static
 ```javascript
 Class Article {
