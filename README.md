@@ -45,6 +45,11 @@ https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html
 6. 원격 branch 삭제
 	* git push origin :feature-01
 
+# [git tag](https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EA%B8%B0%EC%B4%88-%ED%83%9C%EA%B7%B8)
+2. 테그 원격에 넣기
+	* git push origin v1.5
+	* 한번에 여러 태그 넣기: git push origin --tags
+
 # [저장소 파일 삭제하기](https://seonkyukim.github.io/git-tutorial/git-rm/)
 
 # 커밋 리비전
