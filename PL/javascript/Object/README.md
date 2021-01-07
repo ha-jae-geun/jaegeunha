@@ -1,5 +1,7 @@
 # [객체의 복사](https://www.zerocho.com/category/JavaScript/post/5750d384b73ae5152792188d)
 
+# [Object 객체](https://www.zerocho.com/category/JavaScript/post/573dbc9370ba9c603052cc9a)
+
 # static
 ```javascript
 Class Article {
@@ -49,3 +51,5 @@ const mixed = Object.assign({}, fruit1, fruit2})
 
 뒤에 있는 것으로 덮어 씌움
 ```
+
+
