@@ -31,6 +31,10 @@ https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html
 다시 확인 하라는 말이다. 
 ```
 
+# git branch
+* git branch 브랜치명
+* git push --set-upstream origin develop
+
 # [저장소 파일 삭제하기](https://seonkyukim.github.io/git-tutorial/git-rm/)
 
 # 커밋 리비전
