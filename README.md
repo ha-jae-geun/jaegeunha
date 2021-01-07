@@ -40,6 +40,10 @@ https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html
 	* git push origin feature-01
 4. branch local remote 연동
 	* git branch --set-upstream-to origin/feature-01
+5. branch 삭제
+	* git granch -d 브랜치명
+6. 원격 branch 삭제
+	* git push origin :feature-01
 
 # [저장소 파일 삭제하기](https://seonkyukim.github.io/git-tutorial/git-rm/)
 
