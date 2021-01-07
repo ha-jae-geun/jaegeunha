@@ -17,3 +17,6 @@ document.onmousemove = function(e) {
     }
 }
 ```
+
+
+# [document 객체](https://www.zerocho.com/category/JavaScript/post/573b3235a54b5e8427432947)
