@@ -32,8 +32,14 @@ https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html
 ```
 
 # git branch
-* git branch 브랜치명
-* git push --set-upstream origin develop
+1. 생성 :
+	* git branch [브랜치명]
+2. 생성 후 이동 :
+	* git checkout -b feature-01
+3. Git remote branch 생성
+	* git push origin feature-01
+4. branch local remote 연동
+	* git branch --set-upstream-to origin/feature-01
 
 # [저장소 파일 삭제하기](https://seonkyukim.github.io/git-tutorial/git-rm/)
 
