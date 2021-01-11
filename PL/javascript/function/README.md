@@ -59,4 +59,42 @@ var add = function sum(x, y) {
 
       })(25)
 
+    
+    4. 기명 함수
+    기명 함수 표현 (Named function expression)
+기명 함수 표현의 예를 들어보겠습니다.
+
+var x = function square(y) {
+   return y * y;
+};
+console.log(x(2)); // 4
+기명 함수 표현
+기명 함수 표현
+
+
+
+여기서 저는 궁금한 점이 하나 생겼습니다. 기명 함수 표현으로 함수의 이름이 있다면 함수 이름으로 함수 실행이 가능 할까..?
+
+var x = function square(y) {
+   return y * y;
+};
+square(2);
+기명 함수 표현
+함수이름으로 함수 실행이 되지 않는다
+
+
+
+안됩니다.... 그렇다면, 왜 기명 함수 표현을 사용하는 걸까요?
+
+
+
+One of the benefit of creating a named function expression is that in case we encounted an error,
+
+the stack trace will contain the name of the function, making it easier to find the origin of the error.
+
+
+
+MDS에서는, 장점 하나는 에러가 발생 했을 때, stack trace가 함수의 이름을 포함하여 
+출력하기 때문에 에러를 찾기 쉬운 것이 기명 함수 표현의 장점이라고 이야기 함니다.
 ```
+
