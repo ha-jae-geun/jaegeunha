@@ -13,3 +13,6 @@
 
 # a tag
 * a tag에 title 삽입
+
+# alert
+* 비밀번호 입력/빈값 alert 창
