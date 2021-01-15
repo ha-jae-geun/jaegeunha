@@ -1,4 +1,6 @@
-# [국어 빈출 언어](https://youtu.be/FJfo4-tp2_4)
+# [국어 빈출 띄어쓰기](https://youtu.be/FJfo4-tp2_4)
+# [국어 빈출 어법](https://youtu.be/sG5d0j_JlUc)
+
 # 헷갈리는 단어
 * 언덕배기
 
