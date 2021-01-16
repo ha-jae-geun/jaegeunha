@@ -5,6 +5,8 @@
 # [사이시옷](https://youtu.be/-JucXAJ6rDM)
 # [된소리](https://youtu.be/NFpGpSczFCk)
 
+# [고려가요](https://youtu.be/OVa31O3eQiA)
+
 # 헷갈리는 단어
 * 언덕배기
 
