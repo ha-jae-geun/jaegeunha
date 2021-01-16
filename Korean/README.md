@@ -6,6 +6,7 @@
 # [사이시옷](https://youtu.be/-JucXAJ6rDM)
 # [된소리](https://youtu.be/NFpGpSczFCk)
 # [품사](https://youtu.be/XHlVNhndSvo)
+# [관형어](https://youtu.be/hUyYbOT98F4)
 # [용언의 활용](https://youtu.be/LXkTTQIPIDc)
 # [고려가요](https://youtu.be/OVa31O3eQiA)
 # [구운몽](https://youtu.be/wPGMxQ1jFUE)
