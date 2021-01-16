@@ -1,3 +1,5 @@
+# 해커스 신민숙
+
 # [국어 빈출 띄어쓰기](https://youtu.be/FJfo4-tp2_4)
 # [띄어쓰기 문제](https://youtu.be/wPGMxQ1jFUE)
 # [국어 빈출 어법](https://youtu.be/sG5d0j_JlUc)
@@ -8,6 +10,9 @@
 # [품사](https://youtu.be/XHlVNhndSvo)
 # [관형어](https://youtu.be/hUyYbOT98F4)
 # [용언의 활용](https://youtu.be/LXkTTQIPIDc)
+
+# [한자어](https://youtu.be/2E-BW4Y1TMk)
+
 # [고려가요](https://youtu.be/OVa31O3eQiA)
 # [구운몽](https://youtu.be/wPGMxQ1jFUE)
 
