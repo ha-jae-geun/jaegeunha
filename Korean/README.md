@@ -12,7 +12,7 @@
 # [관형어](https://youtu.be/hUyYbOT98F4)
 # [용언의 활용](https://youtu.be/LXkTTQIPIDc)
 # [표준어](https://youtu.be/EETs4AW2B9I)
-
+# [틀리기쉬운 어휘 ](https://youtu.be/x2j-WOAYr5I)
 # [한자어](https://youtu.be/2E-BW4Y1TMk)
 # [한자 득음](https://youtu.be/KCYtrpojuRs)
 
