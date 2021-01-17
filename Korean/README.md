@@ -11,6 +11,7 @@
 # [품사](https://youtu.be/XHlVNhndSvo)
 # [관형어](https://youtu.be/hUyYbOT98F4)
 # [용언의 활용](https://youtu.be/LXkTTQIPIDc)
+# [표준어](https://youtu.be/EETs4AW2B9I)
 
 # [한자어](https://youtu.be/2E-BW4Y1TMk)
 
