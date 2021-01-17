@@ -14,6 +14,7 @@
 # [표준어](https://youtu.be/EETs4AW2B9I)
 
 # [한자어](https://youtu.be/2E-BW4Y1TMk)
+# [한자 득음](https://youtu.be/KCYtrpojuRs)
 
 # [고려가요](https://youtu.be/OVa31O3eQiA)
 # [구운몽](https://youtu.be/wPGMxQ1jFUE)
