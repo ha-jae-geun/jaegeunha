@@ -13,7 +13,15 @@
 # [용언의 활용](https://youtu.be/LXkTTQIPIDc)
 # [표준어](https://youtu.be/EETs4AW2B9I)
 # [틀리기쉬운 어휘 ](https://youtu.be/x2j-WOAYr5I)
+# [의존명사](https://youtu.be/mHag8vWSXe4)
+# [고유어](https://youtu.be/XY3BtS0mSmE)
+# [고유어2](https://youtu.be/0wwqu6u6Hdc)
+
+# [빈출문제](https://youtu.be/ek8iROBt3w0)
+# [오답노트](https://youtu.be/EH156mujPTU)
+
 # [한자어](https://youtu.be/2E-BW4Y1TMk)
+# [한자어](https://youtu.be/9wDQjNCNRN8)
 # [한자 득음](https://youtu.be/KCYtrpojuRs)
 
 # [고려가요](https://youtu.be/OVa31O3eQiA)
