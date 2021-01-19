@@ -37,6 +37,7 @@
 * [웜 바이러스](https://m.blog.naver.com/skinfosec2000/221327717027)
 * [RAID](http://blog.naver.com/PostView.nhn?blogId=scrolldown&logNo=220981477416)
 * [케시 메모리 접근시간](https://m.cafe.daum.net/pass365/IsnD/107?q=D_wWAvtzWgv.w0&)
+* [디스크 스케줄링](https://limkydev.tistory.com/165)
 
 
 # [해설](https://0gichul.com/y2020/34142234)
