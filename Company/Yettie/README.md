@@ -25,6 +25,7 @@
 
 
 # 네트워크
+* [다중 접속](https://blog.naver.com/PostView.nhn?blogId=wisdom0719&logNo=221375500320&parentCategoryNo=&categoryNo=31&viewDate=&isShowPopularPosts=true&from=search)
 * [OSI 7계층](https://jhnyang.tistory.com/194)
 * [토폴로지](http://www.ktword.co.kr/abbr_view.php?m_temp1=356)
 
