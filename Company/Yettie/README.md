@@ -15,7 +15,6 @@
 13.	작업 만들어 진 후 작업 완료
 
 
-
 # 자료구조
 * [정렬](https://github.com/ha-jae-geun/jaegeunha/tree/master/Algorithm/SORTING/Sorting_Algorhitm)
 
@@ -38,3 +37,7 @@
 * [웜 바이러스](https://m.blog.naver.com/skinfosec2000/221327717027)
 * [RAID](http://blog.naver.com/PostView.nhn?blogId=scrolldown&logNo=220981477416)
 * [케시 메모리 접근시간](https://m.cafe.daum.net/pass365/IsnD/107?q=D_wWAvtzWgv.w0&)
+
+
+# 기
+* [2013](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://0gichul.com/index.php?act=procFileOutput&file_srl=101907&file_key=600667fadgfACt7DfwSxLquvCB-FIf6OnbEYMf4ir8ndKXaQ&force_download=Y)
