@@ -19,20 +19,16 @@
 # 자료구조
 * [정렬](https://github.com/ha-jae-geun/jaegeunha/tree/master/Algorithm/SORTING/Sorting_Algorhitm)
 
+
+
 # 네트워크
-
-## [OSI 7계층](https://jhnyang.tistory.com/194)
-
-## [토폴로지](http://www.ktword.co.kr/abbr_view.php?m_temp1=356)
-
+* [OSI 7계층](https://jhnyang.tistory.com/194)
+* [토폴로지](http://www.ktword.co.kr/abbr_view.php?m_temp1=356)
 
 
 
 # OS
-## [CPU 레지스터](https://technote.kr/310)
-
-## [스레싱](https://faithpac27.tistory.com/entry/%EC%93%B0%EB%A0%88%EC%8B%B1-Thrashing-%EC%9D%B4%EB%9E%80)
-
-## [웜 바이러스](https://m.blog.naver.com/skinfosec2000/221327717027)
-
-## [RAID](http://blog.naver.com/PostView.nhn?blogId=scrolldown&logNo=220981477416)
+* [CPU 레지스터](https://technote.kr/310)
+* [스레싱](https://faithpac27.tistory.com/entry/%EC%93%B0%EB%A0%88%EC%8B%B1-Thrashing-%EC%9D%B4%EB%9E%80)
+* [웜 바이러스](https://m.blog.naver.com/skinfosec2000/221327717027)
+* [RAID](http://blog.naver.com/PostView.nhn?blogId=scrolldown&logNo=220981477416)
