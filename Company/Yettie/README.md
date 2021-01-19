@@ -20,6 +20,9 @@
 * [정렬](https://github.com/ha-jae-geun/jaegeunha/tree/master/Algorithm/SORTING/Sorting_Algorhitm)
 
 
+# 데이터베이스
+* [스키마](https://simsimjae.tistory.com/76)
+
 
 # 네트워크
 * [OSI 7계층](https://jhnyang.tistory.com/194)
@@ -28,6 +31,7 @@
 
 
 # OS
+* [캐시 블럭수](https://king.eduwill.net/board/qustnView?qustnIdx=373)
 * [CPU 레지스터](https://technote.kr/310)
 * [스레싱](https://faithpac27.tistory.com/entry/%EC%93%B0%EB%A0%88%EC%8B%B1-Thrashing-%EC%9D%B4%EB%9E%80)
 * [웜 바이러스](https://m.blog.naver.com/skinfosec2000/221327717027)
