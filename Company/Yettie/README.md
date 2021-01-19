@@ -37,4 +37,4 @@
 * [스레싱](https://faithpac27.tistory.com/entry/%EC%93%B0%EB%A0%88%EC%8B%B1-Thrashing-%EC%9D%B4%EB%9E%80)
 * [웜 바이러스](https://m.blog.naver.com/skinfosec2000/221327717027)
 * [RAID](http://blog.naver.com/PostView.nhn?blogId=scrolldown&logNo=220981477416)
-* [케시 메모리 접근시간](https://m.blog.naver.com/PostView.nhn?blogId=k97b1114&logNo=140160618108&proxyReferer=https:%2F%2Fwww.google.com%2F)
+* [케시 메모리 접근시간](https://m.cafe.daum.net/pass365/IsnD/107?q=D_wWAvtzWgv.w0&)
