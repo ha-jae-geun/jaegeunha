@@ -40,4 +40,4 @@
 
 
 # 기
-* [2013](chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://0gichul.com/index.php?act=procFileOutput&file_srl=101907&file_key=600667fadgfACt7DfwSxLquvCB-FIf6OnbEYMf4ir8ndKXaQ&force_download=Y)
+* [2013](https://www.google.com/search?q=%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84+%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94%EB%8D%B0+%EC%86%8C%EC%9A%94%EB%90%98%EB%8A%94+cpu+%EC%8B%9C%EA%B0%84&rlz=1C1OKWM_koKR924KR924&oq=%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84+%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94%EB%8D%B0+%EC%86%8C%EC%9A%94%EB%90%98%EB%8A%94+cpu+%EC%8B%9C%EA%B0%84&aqs=chrome..69i64.5246j1j4&sourceid=chrome&ie=UTF-8)
