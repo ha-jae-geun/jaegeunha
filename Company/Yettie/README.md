@@ -39,5 +39,5 @@
 * [케시 메모리 접근시간](https://m.cafe.daum.net/pass365/IsnD/107?q=D_wWAvtzWgv.w0&)
 
 
-# 기
+# [해설](https://0gichul.com/y2020/34142234)
 * [2013](https://www.google.com/search?q=%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84+%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94%EB%8D%B0+%EC%86%8C%EC%9A%94%EB%90%98%EB%8A%94+cpu+%EC%8B%9C%EA%B0%84&rlz=1C1OKWM_koKR924KR924&oq=%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%9D%84+%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94%EB%8D%B0+%EC%86%8C%EC%9A%94%EB%90%98%EB%8A%94+cpu+%EC%8B%9C%EA%B0%84&aqs=chrome..69i64.5246j1j4&sourceid=chrome&ie=UTF-8)
