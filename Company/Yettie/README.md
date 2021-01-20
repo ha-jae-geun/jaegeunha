@@ -35,6 +35,7 @@
 * [유스케이스](https://github.com/ha-jae-geun/jaegeunha/tree/master/Architecture/UML/UseCase)
 
 # OS
+* [CPU](https://github.com/ha-jae-geun/jaegeunha/edit/master/ComputerArchitecture/CPU/README.md)
 * [컴퓨터의 발전](https://github.com/ha-jae-geun/jaegeunha/blob/master/Computer/README.md)
 * [페이지 계산](https://github.com/ha-jae-geun/jaegeunha/blob/master/OS/Memory/README.md)
 * [레지스터](https://github.com/ha-jae-geun/jaegeunha/new/master/ComputerArchitecture/CPU)
