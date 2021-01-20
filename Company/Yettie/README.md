@@ -70,6 +70,7 @@
 * [개발 방법론](https://github.com/ha-jae-geun/jaegeunha/edit/master/Software/README.md)
 * [유스케이스](https://github.com/ha-jae-geun/jaegeunha/tree/master/Architecture/UML/UseCase)
 * [포인터](https://github.com/ha-jae-geun/jaegeunha/blob/master/PL/C/Pointer/README.md)
+* [재귀함수 문제](https://github.com/ha-jae-geun/jaegeunha/tree/master/PL/C/Recursive)
 
 
 # OS
