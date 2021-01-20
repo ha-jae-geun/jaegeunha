@@ -43,6 +43,7 @@
 # 소프트웨어
 * [개발 방법론](https://github.com/ha-jae-geun/jaegeunha/edit/master/Software/README.md)
 * [유스케이스](https://github.com/ha-jae-geun/jaegeunha/tree/master/Architecture/UML/UseCase)
+* [포인터](https://github.com/ha-jae-geun/jaegeunha/blob/master/PL/C/Pointer/README.md)
 
 
 # OS
