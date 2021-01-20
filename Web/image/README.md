@@ -1,5 +1,7 @@
 # [이미지 파일 특징](https://philip1994.tistory.com/36)
 
+# [백터와 비트맵의 차이](http://blog.naver.com/PostView.nhn?blogId=hyuni_yun_&logNo=220631334274&redirect=Dlog&widgetTypeCall=true&directAccess=false)
+
 # GIF
 ```java
 다음에서 설명하는 이미지 파일 형식(format)으로 옳은 것은? 4번
