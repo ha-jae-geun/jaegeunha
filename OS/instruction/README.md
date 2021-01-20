@@ -10,6 +10,13 @@
 26. 명령어의 주소(address)부를 유효주소로 이용하는 방법은? 4번
 ① 상대 주소 ② 즉시 주소
 ③ 절대 주소 ④ 직접 주소
+
+
+명령어 파이프라이닝의 4단계에 속하지 않는 것은? 1번
+①	인터럽트	 	②	명령어 실행
+③	명령어 인출		④	명령어 해독
+
+ 명령어 파이프라인의 4단계는 명령어 인출, 명령어 해독, 오퍼랜드 인출, 명령어 실행입니다.
 ```
 
 # [명령어의 구성](http://w3.incom79.com/incom79_view/certif_haeksim_jungri.asp?cart_no=&class_code=45&class_gubun=&open_class_file_no=874)
