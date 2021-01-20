@@ -3,6 +3,18 @@
 82. IPv4에서 IPv6로의 천이 전략 중 캡슐화 및 역캡슐화를 사용 하는 것은?  4번
 ① Dual Stack ② Header translation
 ③ Map Address ④ Tunneling
+
+84. 주소 변환을 위한 ARP(Address Resolution Protocol)에 대한 설명으로 옳지 않은 것은? 1번
+① ARP는 같은 네트워크 상에 있는 상대 호스트나 라우터의 논리 주소인 IP 주소를 획득하기 위해 사용된다.
+② ARP 요청은 해당 네트워크 상의 모든 호스트와 라우터에게 브로드캐스트된다.
+③ ARP 응답은 ARP 요청을 전송한 요청자에게 유니캐스트된다.
+④ ARP 요청과 응답을 통해 획득한 주소 값을 ARP 캐시 테이블에 저장하여 통신 효율성을 높일 수 있다.
+
+∙ ARP(Address Resolution Protocol) : IP 주소를 MAC(Media Access Control) 주소로 변환해 주는 프로토콜
+∙ RARP(Reverse Address Resolution Protocol) : 자료를 전송하려 하는 상대방 혹은 
+  자신의 하드웨어 주소(Mac Address)는 알고, IP 주소는 모르는 경우 사용하는 프로토콜. 즉, 48비트 MAC 주소로부터 그 장비의 32비트 IP 주소를 알아내는 과정
+∙ ARP 요청은 해당 네트워크 상의 모든 호스트와 라우터에게 브로드캐스트
+∙ ARP 응답은 ARP 요청을 전송한 요청자에게 유니캐스트
 ```
 
 # [네트워크 계층](https://www.youtube.com/watch?v=s5kIGnaNFvM&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=3)
