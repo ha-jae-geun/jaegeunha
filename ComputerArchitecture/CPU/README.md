@@ -5,6 +5,33 @@
 
 # 문제
 ```java
+파이프라이닝(pipelining) 기법이 적용된 중앙처리장치(CPU)에서의 파이프라인 해저드(pipeline hazard) 
+종류와 대응 방법을 바르게 짝지은 것만을 모두 고른 것은?  4번
+ㄱ. 데이터 해저드(data hazard)－데이터 전방전달(data forwarding)
+ㄴ. 구조적 해저드(structural hazard)－부족한 자원의 추가
+ㄷ. 제어 해저드(control hazard)－분기 예측(branch prediction)
+①	ㄱ, ㄴ	 	②	ㄱ, ㄷ
+③	ㄴ, ㄷ		④	ㄱ, ㄴ, ㄷ
+
+구조적 해저드(Structural Hazard)
+∙ 자원 충돌(resource conflict)
+∙ 메모리 충돌과 레지스터 충돌 등 자원 충돌
+∙ 부족한 자원의 추가(구성 요소를 중복)
+ 
+데이터 해저드(Data Hazard)
+∙ 데이터 의존성(data dependency)
+∙ 명령어간 충돌로 이전 명령어의 결과에 의존
+∙ Data Forwarding(데이터 전방전달) : ALU1의 결과가 ALU2의 입력에 피드백
+∙ 파이프라인 지연(Pipeline Stall) : 해저드를 감지하여 해결될 때까지 Pipeline Stall
+ 
+제어 해저드(Control Hazard)
+∙ 분기 곤란(branch difficulty)
+∙ 조건, 무조건 분기 또는 명령어 PC를 변경
+∙ 파이프라인 지연(Pipeline Stall) : 해저드를 감지하여 해결될 때까지 Pipeline Stall
+∙ 분기 예측은 과거 실행 내역 및 빈도를 이용하여 확률적으로 예측
+
+
+
 다음 중 나머지 셋과 역할 기능이 다른 하나는? 2번
 ① Array processor, ③ GPU, ④ SIMD는 병렬처리와 관련
 
