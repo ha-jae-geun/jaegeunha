@@ -27,6 +27,7 @@
 * [컴파일러](https://github.com/ha-jae-geun/jaegeunha/blob/master/compile/README.md)
 * [ROM](https://github.com/ha-jae-geun/jaegeunha/blob/master/ComputerArchitecture/ROM/README.md)
 * [이미지](https://github.com/ha-jae-geun/jaegeunha/blob/master/Web/image/README.md)
+# [논리회로](https://github.com/ha-jae-geun/jaegeunha/tree/master/Logic_Gate)
 
 # 가상화
 * [가상화](https://github.com/ha-jae-geun/jaegeunha/blob/master/virtual/README.md)
