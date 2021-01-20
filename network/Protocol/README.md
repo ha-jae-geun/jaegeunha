@@ -1,11 +1,31 @@
 # 프로토콜 문제
 ```JAVA
-통신 프로토콜에 대한 설명으로 옳은 것은?
+통신 프로토콜에 대한 설명으로 옳은 것은? 3번
 ① MIME(Multipurpose Internet Mail Extensions)는 인터넷 상에서 
   디지털 오디오 및 비디오 신호를 실시간으로 전달하기 위한 전송 계층 프로토콜이다.
 ② TFTP(Trivial File Transfer Protocol)는 안전한 파일 전송을 위해 인증과 TCP를 필수 구성 요소로 한다.
 ③ TELNET는 가상 터미널 연결을 위한 응용 계층 프로토콜로 텍스트 기반 양방향 통신 기능을 제공한다.
 ④ DHCP(Dynamic Host Configuration Protocol)는 호스트의 인터넷 도메인 명을 IP 주소로 변환시켜 주는 것이다.
+
+
+① MIME(Multipurpose Internet Mail Extensions)
+∙ 전자우편은 7비트 ASCII 문자를 사용하여 전송되기 때문에, 8비트 이상의 코드를 사용하는 문자나
+  바이너리 파일들은 MIME 포맷으로 변환되어 SMTP로 전송됨
+∙ 실질적으로 SMTP로 전송되는 대부분의 전자우편은 MIME 형식
+② TFTP (Trivial File Transfer Protocol)
+∙ FTP와 마찬가지로 파일을 전송하기 위한 프로토콜이지만, FTP보다 더 단순한 방식으로 전송데이터 
+  파일을 전송하는 과정에서 데이터가 손실될 수 있는 등 불안정하다는 단점을 가지고 있지만 FTP처럼 
+  복잡한 프로토콜을 사용하지 않기 때문에 구현이 간단
+∙ 전송계층으로 UDP를 사용
+③ telnet(Telecommunications Network)
+∙ 특정 지역의 사용자가 지역적으로 떨어진 다른 곳에 위치한 컴퓨터를 온라인으로 연결하여 사용할 수 있도록 지원하는 프로토콜
+∙ 사용자가 원격에 있는 서버에 로그인하도록 TCP 연결을 설정하며, 단말기가 원격 컴퓨터 바로 옆에 있는 것처럼 직접 조작할 수 있게 해줌
+④ DHCP(Dynamic Host Configuration Protocol, 동적 호스트 설정 프로토콜)
+∙ TCP/IP 통신을 실행하기 위해 필요한 설정 정보를 자동적으로 할당, 관리하기 위한 통신규약
+∙ 각각의 네트워크 호스트를 수작업으로 설정하는 것과는 반대로, 서버에서 자동으로 호스트 컴퓨터에 
+  설정값을 지정할 수 있도록 해주는 네트워크 서비스
+④번 설명은 DNS에 해당
+
 ```
 
 ## protocol
