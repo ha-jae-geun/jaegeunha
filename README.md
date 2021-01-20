@@ -1,3 +1,6 @@
+# 깃 
+* tortoisegit
+
 # [깃 이그노어](https://www.toptal.com/developers/gitignore)
 
 # git add/commit 취소
