@@ -31,6 +31,7 @@
 
 
 # OS
+* [레지스터](https://github.com/ha-jae-geun/jaegeunha/new/master/ComputerArchitecture/CPU)
 * [CISC, RISC](https://github.com/ha-jae-geun/jaegeunha/blob/master/ComputerArchitecture/CiscRisc/README.md)
 * [캐시 블럭수](https://king.eduwill.net/board/qustnView?qustnIdx=373)
 * [CPU 레지스터](https://technote.kr/310)
