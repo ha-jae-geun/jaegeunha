@@ -64,6 +64,7 @@
 * [라우팅](https://github.com/ha-jae-geun/jaegeunha/blob/master/network/OSI/Layer3/Router/README.md)
 * [프로토콜](https://github.com/ha-jae-geun/jaegeunha/blob/master/network/Protocol/README.md)
 * [네트워크 구조](https://github.com/ha-jae-geun/jaegeunha/blob/master/network/Network_Structure/README.md)
+* [네트워크 오류 검출](https://github.com/ha-jae-geun/jaegeunha/tree/master/network/Error_Detecting)
 
 # 소프트웨어
 * [개발 방법론](https://github.com/ha-jae-geun/jaegeunha/edit/master/Software/README.md)
