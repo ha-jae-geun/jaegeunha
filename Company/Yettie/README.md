@@ -29,6 +29,7 @@
 * [토폴로지](http://www.ktword.co.kr/abbr_view.php?m_temp1=356)
 * [애드혹](https://github.com/ha-jae-geun/jaegeunha/tree/master/network/Ad-hoc)
 * [IPv6](https://github.com/ha-jae-geun/jaegeunha/edit/master/network/OSI/Layer3/IPv6/README.md)
+* [라우팅](https://github.com/ha-jae-geun/jaegeunha/blob/master/network/OSI/Layer3/Router/README.md)
 
 
 # 소프트웨어
