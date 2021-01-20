@@ -62,6 +62,10 @@
 
 
 # OS
+* [상호배제](https://github.com/ha-jae-geun/jaegeunha/tree/master/OS/Mutual%20Exclusion)
+* [deadlock](https://github.com/ha-jae-geun/jaegeunha/blob/master/OS/DeadLock/README.md)
+* [스케줄러](https://github.com/ha-jae-geun/jaegeunha/tree/master/OS/Scheduler)
+* [프로세스](https://github.com/ha-jae-geun/jaegeunha/tree/master/OS/Process)
 * [버스](https://github.com/ha-jae-geun/jaegeunha/blob/master/OS/SYSTEMBUS/README.md)
 * [인터럽트](https://github.com/ha-jae-geun/jaegeunha/blob/master/OS/Interruprt/README.md)
 * [CPU](https://github.com/ha-jae-geun/jaegeunha/edit/master/ComputerArchitecture/CPU/README.md)
