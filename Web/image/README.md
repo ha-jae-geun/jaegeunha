@@ -1,3 +1,4 @@
+# [이미지 파일 특징](https://philip1994.tistory.com/36)
 
 # GIF
 ```java
