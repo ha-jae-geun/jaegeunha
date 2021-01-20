@@ -3,6 +3,7 @@
 * [정아마추어](https://jeong-pro.tistory.com/91?category=793347)
 
 # 문제
+* [페이지 계산](https://eduon.com/itembank/itemlist/11/1308/#page-2)
 ```java
 42. OS의 가상기억장치 관리에서 프로세스가 일정 시간동안 자  4번
 주 참조하는 페이지들의 집합을 의미하는 것은?
