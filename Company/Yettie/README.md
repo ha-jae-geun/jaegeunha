@@ -27,6 +27,7 @@
 # 데이터베이스
 * [스키마](https://simsimjae.tistory.com/76)
 * [데이터 모델링](https://github.com/ha-jae-geun/jaegeunha/blob/master/Database/Modeling/README.md)
+* [View](https://github.com/ha-jae-geun/jaegeunha/edit/master/Database/View/README.md)
 
 
 # 네트워크
