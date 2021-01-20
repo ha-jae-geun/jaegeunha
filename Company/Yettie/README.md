@@ -31,6 +31,7 @@
 
 
 # OS
+* [CISC, RISC](https://github.com/ha-jae-geun/jaegeunha/blob/master/ComputerArchitecture/CiscRisc/README.md)
 * [캐시 블럭수](https://king.eduwill.net/board/qustnView?qustnIdx=373)
 * [CPU 레지스터](https://technote.kr/310)
 * [스레싱](https://faithpac27.tistory.com/entry/%EC%93%B0%EB%A0%88%EC%8B%B1-Thrashing-%EC%9D%B4%EB%9E%80)
