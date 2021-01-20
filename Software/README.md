@@ -1,5 +1,8 @@
 # 문제
 ```java
+소프트웨어 개발 생명 주기(Software Development Life Cycle)의 순서로 옳은 것은?
+① 계획→분석→설계→구현→테스트→유지보수
+
 71. S/W Project 일정이 지연된다고 해서 Project 말기에 새로운 인원을 추가 투입하면 Project는 더욱 지연되게 된다는 내용
 과 관련되는 법칙은?  3번
 ① Putnam의 법칙
