@@ -62,6 +62,7 @@
 
 
 # OS
+* [버스](https://github.com/ha-jae-geun/jaegeunha/blob/master/OS/SYSTEMBUS/README.md)
 * [인터럽트](https://github.com/ha-jae-geun/jaegeunha/blob/master/OS/Interruprt/README.md)
 * [CPU](https://github.com/ha-jae-geun/jaegeunha/edit/master/ComputerArchitecture/CPU/README.md)
 * [컴퓨터의 발전](https://github.com/ha-jae-geun/jaegeunha/blob/master/Computer/README.md)
