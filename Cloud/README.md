@@ -1,4 +1,23 @@
 # 가상화와 클라우드의 차이
+```java
+보기 중 우리가 흔히 인터넷을 통해 비용을 지불하거나 혹은 무료로 사용하는, 클라우드 저장 서버에 대한 분류로 옳은 것을 모두 고르면? 2번
+ㄱ. Public cloud
+ㄴ. Private cloud
+ㄷ. Software as a service(Saas)
+ㄹ. Platform as a service(Paas)
+ㅁ. Infrastructure as a service(Iaas)
+①	ㄱ, ㄷ	 	②	ㄱ, ㅁ
+③	ㄴ, ㄷ		④	ㄴ, ㄹ
+
+
+IaaS(Infrastructure as a Service)
+∙ 서버, 스토리지, 네트워크를 가상화 환경으로 만들어, 필요에 따라 인프라 자원을 사용할 수 있게 서비스를 제공하는 형태
+∙ 서버, 데스크탑 컴퓨터, 스토리지 같은 IT하드웨어 자원을 클라우드 서비스로 빌려 쓰는 형태
+ 
+공용 클라우드(Public Cloud)
+∙ 서비스 제공업체(벤더)가 구축한 서버, 스토리지 등의 IT 인프라를 기업들이 사용료를 내고 이용하는 방식
+∙ 클라우드 서비스 제공자가 클라우드 서비스를 구축 및 관리하며 서비스 사용자를 대상 가입식 서비스 방식을 사용
+```
 
 * [가상화](https://wnsgml972.github.io/network/network_cloud-computing.html)
 * [리팩토링[('https://codereview.tistory.com/3')
