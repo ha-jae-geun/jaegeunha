@@ -73,6 +73,7 @@
 
 
 # OS
+* [유닉스](https://github.com/ha-jae-geun/jaegeunha/blob/master/OS/UNIX/README.md)
 * [상호배제](https://github.com/ha-jae-geun/jaegeunha/tree/master/OS/Mutual%20Exclusion)
 * [deadlock](https://github.com/ha-jae-geun/jaegeunha/blob/master/OS/DeadLock/README.md)
 * [스케줄러](https://github.com/ha-jae-geun/jaegeunha/tree/master/OS/Scheduler)
