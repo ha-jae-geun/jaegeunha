@@ -38,6 +38,10 @@ TLB(Translation Lookaside Buffer, 변환 색인 버퍼)
 ③ Locality ④ Working Set
 ```
 
+# LRU
+* [LRU Page Fault](https://eduon.com/itembank/itemlist/11/1023/#page-2)
+
+
 # 메모리
 ```java
 
