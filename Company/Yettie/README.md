@@ -17,6 +17,8 @@
 
 
 
+# 보안
+* [QR코드](https://github.com/ha-jae-geun/jaegeunha/blob/master/Security/QR/README.md)
 
 # 컴퓨터
 * [하드디스크](https://github.com/ha-jae-geun/jaegeunha/blob/master/ComputerArchitecture/Harddisk/README.md)
