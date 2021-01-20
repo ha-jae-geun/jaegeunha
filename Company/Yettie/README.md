@@ -17,6 +17,10 @@
 
 
 
+
+# 컴퓨터
+* [하드디스크](https://github.com/ha-jae-geun/jaegeunha/blob/master/ComputerArchitecture/Harddisk/README.md)
+
 # 가상화
 * [가상화](https://github.com/ha-jae-geun/jaegeunha/blob/master/virtual/README.md)
 
