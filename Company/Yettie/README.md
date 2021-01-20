@@ -17,7 +17,6 @@
 
 # 자료구조
 * [정렬](https://github.com/ha-jae-geun/jaegeunha/tree/master/Algorithm/SORTING/Sorting_Algorhitm)
-* [유스케이스](https://github.com/ha-jae-geun/jaegeunha/tree/master/Architecture/UML/UseCase)
 
 # 데이터베이스
 * [스키마](https://simsimjae.tistory.com/76)
@@ -31,6 +30,9 @@
 * [애드혹](https://github.com/ha-jae-geun/jaegeunha/tree/master/network/Ad-hoc)
 
 
+# 소프트웨어
+* [개발 방법론](https://github.com/ha-jae-geun/jaegeunha/edit/master/Software/README.md)
+* [유스케이스](https://github.com/ha-jae-geun/jaegeunha/tree/master/Architecture/UML/UseCase)
 
 # OS
 * [레지스터](https://github.com/ha-jae-geun/jaegeunha/new/master/ComputerArchitecture/CPU)
