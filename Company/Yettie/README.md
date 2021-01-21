@@ -48,6 +48,7 @@
 * [스택](https://github.com/ha-jae-geun/jaegeunha/blob/master/Algorithm/Stack/README.md)
 
 # 데이터베이스
+* [SQL](https://github.com/ha-jae-geun/jaegeunha/blob/master/Database/SQL/README.md)
 * [스키마](https://simsimjae.tistory.com/76)
 * [데이터 모델링](https://github.com/ha-jae-geun/jaegeunha/blob/master/Database/Modeling/README.md)
 * [View](https://github.com/ha-jae-geun/jaegeunha/edit/master/Database/View/README.md)
