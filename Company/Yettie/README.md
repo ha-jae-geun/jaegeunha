@@ -45,6 +45,7 @@
 
 # 자료구조
 * [정렬](https://github.com/ha-jae-geun/jaegeunha/tree/master/Algorithm/SORTING/Sorting_Algorhitm)
+* [스택](https://github.com/ha-jae-geun/jaegeunha/blob/master/Algorithm/Stack/README.md)
 
 # 데이터베이스
 * [스키마](https://simsimjae.tistory.com/76)
