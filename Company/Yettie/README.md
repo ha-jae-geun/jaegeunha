@@ -29,6 +29,7 @@
 * [ROM](https://github.com/ha-jae-geun/jaegeunha/blob/master/ComputerArchitecture/ROM/README.md)
 * [이미지](https://github.com/ha-jae-geun/jaegeunha/blob/master/Web/image/README.md)
 * [패턴의 종류](https://github.com/ha-jae-geun/jaegeunha/tree/master/Architecture)
+* [멀티 미디어](https://github.com/ha-jae-geun/jaegeunha/tree/master/MultiMedia)
 
 
 # [논리회로](https://github.com/ha-jae-geun/jaegeunha/tree/master/Logic_Gate)
