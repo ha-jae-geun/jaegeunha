@@ -1,5 +1,16 @@
 # [데이터 모델링](http://blog.naver.com/PostView.nhn?blogId=qbxlvnf11&logNo=221225469375&parentCategoryNo=&categoryNo=34&viewDate=&isShowPopularPosts=false&from=postView)
 ```java 
+개념 관계 모델(Entity-Relationship model)을 그래프 방식으로 표현한 E-R 다이어그램에서 마름모 모양으로 표현되는 것은? 2번
+① 개체 타입(entity type)
+② 관계 타입(relationship type)
+③ 속성(attribute)
+④ 키 속성(key attribute)
+⑤ 링크(link)
+
+∙ 개체 타입은 직사각형, 관계 타입은 마름모, 속성은 타원, 키 속성은 타원+밑줄, 링크는 선으로 표현됩니다.
+
+
+
 데이터베이스 데이터 모델에 대한 설명으로 옳지 않은 것은? 4번
 ① 계층 데이터 모델은 트리 형태의 데이터 구조를 가진다.
 ② 관계 데이터 모델은 테이블로 데이터베이스를 나타낸다.
