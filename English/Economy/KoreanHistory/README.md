@@ -1,7 +1,7 @@
 # 선사시대
 
 # [유적지](https://parksunny.tistory.com/15)
-# [문화재](https://m.blog.naver.com/leearr/220342061463)
+# [문화재](https://parksunny.tistory.com/87)
 
 # 신석기  @신본성은 부산 동삼동 사는데 개그맨 되려고 서울 암사동으로 이사왔다. 힘드니 양양으로 온천가자 
 ## 지역
