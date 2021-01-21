@@ -1,4 +1,13 @@
 # [페이스북과 쿠키의 상관관계](https://www.youtube.com/watch?v=1emZgLiGE4s&list=PL7jH19IHhOLMu8dpjb2A6O7BYYlO2gJbN&index=66)
+```java
+다음 웹 캐시에 대한 설명 중 옳은 것은?  1번
+① 웹에서 사용자의 상태 정보를 보관하기 위한 것이다.
+② 캐시 정보를 찾기 위한 방법으로 iterative와 recursive 방법이 있다.
+③ 웹 사용자에게 데이터를 더 빠르게 전달할 수 있다.
+④ 인터넷을 이용한 전자상거래에서 쇼핑카트나 추천 등에 사용할 수 있다.
+
+∙ ① 쿠키(cookie)에 대한 설명입니다.
+```
 
 # 쿠키와 세션
 * HTTP 프로토콜의 특징이자 약점을 보완하기 위해서 사용한다.
