@@ -1,5 +1,18 @@
 # [데이터 모델링](http://blog.naver.com/PostView.nhn?blogId=qbxlvnf11&logNo=221225469375&parentCategoryNo=&categoryNo=34&viewDate=&isShowPopularPosts=false&from=postView)
 ```java 
+데이터베이스 설계 단계에서 목표 DBMS에 맞는 스키마 설계와
+트랜잭션 인터페이스 설계에 대한 것은 어떤 단계에서 이루어지는가?  3번
+① 요구 조건 분석 단계
+② 개념적 설계 단계
+③ 논리적 설계 단계
+④ 물리적 설계 단계
+⑤ 구현 단계
+
+∙ 논리적 설계(Logical Design) 단계는 개념적 설계 단계에서 
+만들어진 정보 구조로부터 특정 목표 DBMS가 처리할 수 있는 스키마를 생성하는 단계입니다.
+
+
+
 개념 관계 모델(Entity-Relationship model)을 그래프 방식으로 표현한 E-R 다이어그램에서 마름모 모양으로 표현되는 것은? 2번
 ① 개체 타입(entity type)
 ② 관계 타입(relationship type)
