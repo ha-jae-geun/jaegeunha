@@ -1,5 +1,14 @@
 # SQL; Structured Query Language
 - 언어라기보다는 수학적 기호를 언어로 표시한 것.
+```java
+관계형 데이터베이스의 표준 질의어인 SQL(Structured Query Language)에서 CREATE TABLE문에 대한 설명으로 옳지 않은 것은? 4번
+① CREATE TABLE문은 테이블 이름을 기술하며 해당 테이블에 속하는 칼럼에 대해서 칼럼이름과 데이터타입을 명시한다.
+② PRIMARY KEY절에서는 기본키 속성을 지정한다.
+③ FOREIGN KEY절에서는 참조하고 있는 행이 삭제되거나 변경될 때의 옵션으로 NO ACTION, CASCADE, SET NULL, SET DEFAULT 등을 사용할 수 있다.
+④ CHECK절은 무결성 제약 조건으로 반드시 UPDATE 키워드와 함께 사용한다.
+
+∙ CHECK절에는 조건식이 들어가야 합니다.
+```
 
 ## 날짜
 - where hiredate > '1982-01-01';  '1981/01/01' ;  둘다 가능
