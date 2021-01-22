@@ -60,6 +60,7 @@
 
 
 # 네트워크
+* [블루투스](https://github.com/ha-jae-geun/jaegeunha/blob/master/network/BlueTooth/README.md)
 * [네트워크](https://github.com/ha-jae-geun/jaegeunha/blob/master/network/README.md)
 * [주파수](https://github.com/ha-jae-geun/jaegeunha/tree/master/network/Frequency)
 * [VPN](https://github.com/ha-jae-geun/jaegeunha/blob/master/network/VPN/README.md)
