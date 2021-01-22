@@ -61,6 +61,7 @@
 * [VPN](https://github.com/ha-jae-geun/jaegeunha/blob/master/network/VPN/README.md)
 * [다중 접속](https://blog.naver.com/PostView.nhn?blogId=wisdom0719&logNo=221375500320&parentCategoryNo=&categoryNo=31&viewDate=&isShowPopularPosts=true&from=search)
 * [OSI 7계층](https://jhnyang.tistory.com/194)
+ * [OSI 계층](https://github.com/ha-jae-geun/jaegeunha/blob/master/network/OSI/README.md)
   * [데이터 링크](https://github.com/ha-jae-geun/jaegeunha/edit/master/network/OSI/Layer2/README.md)
   * [네트워크 계층](https://github.com/ha-jae-geun/jaegeunha/blob/master/network/OSI/Layer3/README.md)
    * [전송 계층](https://github.com/ha-jae-geun/jaegeunha/blob/master/network/OSI/Layer4/README.md)
