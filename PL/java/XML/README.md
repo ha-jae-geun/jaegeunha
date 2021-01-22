@@ -1,3 +1,19 @@
+# 문제
+```java
+19. 뉴스, 채용정보, 블로그 같은 웹사이트들에서 자주 갱신되는 콘텐츠 정보를 웹사이트들
+간에 교환하기 위해 만들어진 XML(extensible markup language) 기반 형식으로 옳은
+것은?
+
+1 XSS(cross site scripting)
+2 PICS(platform for internet content selection)
+3 RSS(really simple syndication)
+4 XHTML(extensible HTML)
+RSS(really simple syndication)는 뉴스나 블로그에서 주로 사용하는 콘텐츠 표현 방식
+입니다. 전에는 원하는 정보를 얻기 위해 해당 사이트를 직접 방문하여야 했으나, RSS
+관련 프로그램(혹은 서비스)을 이용하여 자동 수집이 가능해졌기 때문에 사용자는 각각
+의 사이트 방문 없이 최신 정보들만 골라 한 자리에서 볼 수 있습니다.
+```
+
 # XML
 ```java
 XML 약자
