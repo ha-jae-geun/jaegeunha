@@ -57,7 +57,7 @@
 * [SQL](https://github.com/ha-jae-geun/jaegeunha/blob/master/Database/SQL/README.md)
 * [스키마](https://simsimjae.tistory.com/76)
 * [데이터 모델링](https://github.com/ha-jae-geun/jaegeunha/blob/master/Database/Modeling/README.md)
-* [View](https://github.com/ha-jae-geun/jaegeunha/edit/master/Database/View/README.md)
+* [View](https://github.com/ha-jae-geun/jaegeunha/blob/master/Database/View/README.md)
 
 
 # 네트워크
@@ -68,12 +68,12 @@
 * [다중 접속](https://blog.naver.com/PostView.nhn?blogId=wisdom0719&logNo=221375500320&parentCategoryNo=&categoryNo=31&viewDate=&isShowPopularPosts=true&from=search)
 * [OSI 7계층](https://jhnyang.tistory.com/194)
  * [OSI 계층](https://github.com/ha-jae-geun/jaegeunha/blob/master/network/OSI/README.md)
-  * [데이터 링크](https://github.com/ha-jae-geun/jaegeunha/edit/master/network/OSI/Layer2/README.md)
+  * [데이터 링크](https://github.com/ha-jae-geun/jaegeunha/blob/master/network/OSI/Layer2/README.md)
   * [네트워크 계층](https://github.com/ha-jae-geun/jaegeunha/blob/master/network/OSI/Layer3/README.md)
    * [전송 계층](https://github.com/ha-jae-geun/jaegeunha/blob/master/network/OSI/Layer4/README.md)
-* [토폴로지](http://www.ktword.co.kr/abbr_view.php?m_temp1=356)
+* [토폴로지](https://github.com/ha-jae-geun/jaegeunha/tree/master/network/topology)
 * [애드혹](https://github.com/ha-jae-geun/jaegeunha/tree/master/network/Ad-hoc)
-* [IPv6](https://github.com/ha-jae-geun/jaegeunha/edit/master/network/OSI/Layer3/IPv6/README.md)
+* [IPv6](https://github.com/ha-jae-geun/jaegeunha/blob/master/network/OSI/Layer3/IPv6/README.md)
 * [라우팅](https://github.com/ha-jae-geun/jaegeunha/blob/master/network/OSI/Layer3/Router/README.md)
 * [프로토콜](https://github.com/ha-jae-geun/jaegeunha/blob/master/network/Protocol/README.md)
 * [네트워크 구조](https://github.com/ha-jae-geun/jaegeunha/blob/master/network/Network_Structure/README.md)
@@ -81,7 +81,7 @@
 
 
 # 소프트웨어
-* [개발 방법론](https://github.com/ha-jae-geun/jaegeunha/edit/master/Software/README.md)
+* [개발 방법론](https://github.com/ha-jae-geun/jaegeunha/blob/master/Software/README.md)
 * [유스케이스](https://github.com/ha-jae-geun/jaegeunha/tree/master/Architecture/UML/UseCase)
 * [포인터](https://github.com/ha-jae-geun/jaegeunha/blob/master/PL/C/Pointer/README.md)
 * [재귀함수 문제](https://github.com/ha-jae-geun/jaegeunha/tree/master/PL/C/Recursive)
@@ -102,7 +102,7 @@
 * [프로세스](https://github.com/ha-jae-geun/jaegeunha/tree/master/OS/Process)
 * [버스](https://github.com/ha-jae-geun/jaegeunha/blob/master/OS/SYSTEMBUS/README.md)
 * [인터럽트](https://github.com/ha-jae-geun/jaegeunha/blob/master/OS/Interruprt/README.md)
-* [CPU](https://github.com/ha-jae-geun/jaegeunha/edit/master/ComputerArchitecture/CPU/README.md)
+* [CPU](https://github.com/ha-jae-geun/jaegeunha/blob/master/ComputerArchitecture/CPU/README.md)
 * [컴퓨터의 발전](https://github.com/ha-jae-geun/jaegeunha/blob/master/Computer/README.md)
 * [페이지 계산](https://github.com/ha-jae-geun/jaegeunha/blob/master/OS/Memory/README.md)
 * [레지스터](https://github.com/ha-jae-geun/jaegeunha/new/master/ComputerArchitecture/CPU)
