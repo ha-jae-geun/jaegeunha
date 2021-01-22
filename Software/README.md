@@ -1,5 +1,17 @@
 # 문제
 ```java
+[2019년 국가직9급 컴일반]
+문 19. 소프트웨어 규모를 예측하기 위한 기능점수(function point)를 산정할 때 고려하지 않는 것은? 4
+1 내부논리파일(Internal Logical File)
+2 외부입력(External Input)
+3 외부조회(External inQuiry)
+4 원시 코드 라인 수(Line Of Code)
+[해설]
+- 기능점수(function point) 산정 시 고려요소 : 외부입력(External Input: EI), 외부출력(External Output:
+EO), 외부조회(External inQuiry: EQ), 내부논리파일(Internal Logical File : ILF), 외부연계파일
+(External Interface File : EIF)
+
+
 소프트웨어 개발 생명 주기(Software Development Life Cycle)의 순서로 옳은 것은?
 ① 계획→분석→설계→구현→테스트→유지보수
 
