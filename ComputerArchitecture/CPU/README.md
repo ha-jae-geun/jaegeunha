@@ -5,6 +5,21 @@
 
 # 문제
 ```java
+문 5. CPU(중앙처리장치)의 성능 향상을 위해 한 명령어 사이클 동안
+여러 개의 명령어를 동시에 처리할 수 있도록 설계한 CPU구조는?
+1
+1 슈퍼스칼라(Superscalar)
+2 분기 예측(Branch Prediction)
+3 VLIW(Very Long Instruction Word)
+4 SIMD(Single Instruction Multiple Data)
+[해설]
+- 슈퍼스칼라 (superscalar) : CPU 내에 파이프라인을 여러 개 두어 명령
+어를 동시에 실행하는 기술이다. 파이프라인과 병렬 처리의 장점을 모은
+것으로, 여러 개의 파이프라인에서 명령들이병렬로 처리되도록 한 아키텍
+처이다. 여러 명령어들이 대기 상태를 거치지 않고 동시에 실행될 수 있
+으므로 처리속도가 빠르다.
+
+
 ㄱ. 가상(virtual) 메모리
 ㄴ. L1 캐시(Level 1 cache) 메모리
 ㄷ. L2 캐시(Level 2 cache) 메모리
