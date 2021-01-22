@@ -1,5 +1,24 @@
 # [전송 계층](https://www.youtube.com/watch?v=tG0ldt4sBzY&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=13)
 ```java
+문 10. TCP 프로토콜에 대한 설명으로 옳지 않은 것은?
+1 전이중(full duplex) 연결 서비스를 제공한다.
+2 3-way 핸드셰이크(handshake)를 사용하여 연결을
+설정한다.
+3 흐름제어(flow control)와 혼잡제어(congestion
+control)를 제공한다.
+4 TCP 세그먼트(segment)에서 검사합(checksum)의
+포함은 선택 사항이다.
+
+답 4
+4 TCP에서 헤더 체크섬(checksum)은 필수 사항이며,
+UDP에서 헤더 체크섬은 선택 사항이다.
+<오답 체크> 13 TCP는 OSI 4계층 전송계층에서 작동하는 신뢰
+성, 연결 지향형의 프로토콜이다.
+전이중 전송방식/양방향성(full-duplex)의 특성을 가지고 있으며,
+흐름제어, 혼잡제어 등의 기능을 수행한다.
+2 SYN → SYN-ACK
+
+
 [2019년 국가직9급 컴일반]
 문 7. UDP(User Datagram Protocol)에 대한 설명으로 옳은 것만을 모두 고르면? 3
 ᄀ. 연결 설정이 없다.
