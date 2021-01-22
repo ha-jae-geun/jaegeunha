@@ -8,6 +8,41 @@
 ④ CHECK절은 무결성 제약 조건으로 반드시 UPDATE 키워드와 함께 사용한다.
 
 ∙ CHECK절에는 조건식이 들어가야 합니다.
+
+
+문 14. 관계 데이터베이스 스키마 STUDENT( SNO, NAME, AGE )에
+대하여 다음과 같은 SQL 질의 문장을 사용한다고 할 때,
+이 SQL 문장과 동일한 의미의 관계대수식은? (단, STUDENT
+스키마에서 밑줄 친 속성은 기본키 속성을, 관계대수식에서
+사용하는 관계대수 연산자 기호 는 프로젝트 연산자를, 는
+셀렉트 연산자를 나타낸다) 2
+
+
+<SQL 질의문>
+
+SELECT SNO, NAME
+FROM STUDENT
+WHERE AGE > 20;
+
+1 SNONAME
+AGE STUDENT
+
+2 SNONAME
+AGE STUDENT
+
+3 AGE SNONAME
+STUDENT
+
+4 AGE SNONAME
+STUDENT
+
+[해설]
+- 셀렉트(SELECT, σ) : 선택 조건을 만족하는 릴레이션의 수평적 부분
+집합(horizontal subset), 행의 집합
+표기 형식 → σ<선택조건> (테이블 이름)
+- 프로젝트(PROJECT, π) : 수직적 부분 집합(vertical subset), 열
+(column)의 집합
+표기 형식 → π<속성 리스트> (테이블 이름)
 ```
 
 ## 날짜
