@@ -1,6 +1,37 @@
 # SQL; Structured Query Language
 - 언어라기보다는 수학적 기호를 언어로 표시한 것.
 ```java
+문 13. 관계형 데이터베이스 언어인 SQL에 대한 설명으
+로 옳은 것은?
+1 데이터 정의어(DDL)를 이용하여 데이터를 검색한다.
+2 데이터 조작어(DML)를 이용하여 권한을 부여하거나
+취소한다.
+3 DELETE 문은 테이블을 삭제하는 데 사용한다.
+4 SELECT 문에서 FROM 절은 필수 항목이고,
+WHERE 절은 선택 항목이다.
+
+답 4
+4 SELECT 문의 기본적인 형태는 다음과 같은데, 이 때 WHERE
+조건절은 생략이 가능하다.
+SELECT [열] FROM [테이블] WHERE [조건]
+<오답 체크> 12 DDL(Data Definition Language, 데이터 정의어)
+은 스키마나 데이터 구조를 정의, 변경, 삭제하는데 사용되는 명
+령어들이다.
+생성(CREATE), 변경(ALTER), 제거(DROP), 이름 정정(RENAME),
+완전 제거(TRUNCATE) 등
+DML(Data Manipulation Language, 데이터 조작어)은 데이터
+를 입력, 검색, 수정하는 데 사용되는 명령어들이다.
+추가(INSERT), 수정(UPDATE), 검색(SELECT), 삭제(DELETE) 등
+DCL(Data Control Language, 데이터 제어어)은 데이터베이스에
+접근하거나 객체에 권한을 주는 데 사용하는 명령어들이다.
+권한의 부여(GRANT) 및 박탈(REVOKE), 트랜잭션 저장
+(COMMIT) 및 취소(ROLLBACK) 등
+이 중 트랜잭션을 제어하는 COMMIT와 ROLLBACK만을 분리해
+TCL(Transaction Control Language)라고 부르기도 한다.
+3 데이터를 삭제하는 데는 DELETE 문을 쓰지만, 스키마, 도메인,
+뷰, 인덱스를 삭제하는 데는 DROP 문을 쓴다.
+
+
 ▷ 개체 무결성 제약조건(Entity Integrity Constraint)
 릴레이션의 기본 키를 구성하는 어떤 애트리뷰트도 널(NULL)값
 을 가질 수 없고 튜플을 유일하게 식별해야 한다.
