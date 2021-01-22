@@ -24,6 +24,7 @@
 * [QR코드](https://github.com/ha-jae-geun/jaegeunha/blob/master/Security/QR/README.md)
 
 # 컴퓨터
+* [RAM](https://github.com/ha-jae-geun/jaegeunha/blob/master/ComputerArchitecture/RAM/README.md)
 * [하드디스크](https://github.com/ha-jae-geun/jaegeunha/blob/master/ComputerArchitecture/Harddisk/README.md)
 * [컴파일러](https://github.com/ha-jae-geun/jaegeunha/blob/master/compile/README.md)
 * [ROM](https://github.com/ha-jae-geun/jaegeunha/blob/master/ComputerArchitecture/ROM/README.md)
