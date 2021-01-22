@@ -23,6 +23,7 @@
 # 보안
 * [QR코드](https://github.com/ha-jae-geun/jaegeunha/blob/master/Security/QR/README.md)
 * [QA](https://github.com/ha-jae-geun/jaegeunha/blob/master/QA/README.md)
+* [보안](https://github.com/ha-jae-geun/jaegeunha/blob/master/Security/README.md)
 
 # 컴퓨터
 * [RAM](https://github.com/ha-jae-geun/jaegeunha/blob/master/ComputerArchitecture/RAM/README.md)
