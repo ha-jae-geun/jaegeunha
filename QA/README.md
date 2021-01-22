@@ -1,5 +1,16 @@
 # 문제
 ```java
+문 12. 소프트웨어 오류를 찾는 블랙박스 시험의 종류로
+옳지 않은 것은?
+1 비교 시험(comparison testing)
+2 기초 경로 시험(basic path testing)
+3 동치 분할 시험(equivalence partitioning testing)
+4 원인-효과 그래프 시험(cause-effect graph testing)
+
+답 2
+2 기초 경로 검사는 화이트박스 시험이다.
+
+
 문 9. 소프트웨어 테스트에 대한 설명으로 옳지 않은 것은?
 1 베타(beta) 테스트는 고객 사이트에서 사용자에 의
 해서 수행된다.
