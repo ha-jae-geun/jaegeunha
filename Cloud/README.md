@@ -1,5 +1,21 @@
 # 가상화와 클라우드의 차이
 ```java
+[2019년 국가직9급 컴일반]
+문 16. 이메일, ERP, CRM 등 다양한 응용 프로그램을 서비스 형태로 제공하는 클라우드 서비스는? 4
+1 IaaS(Infrastructure as a Service)
+2 NaaS(Network as a Service)
+3 PaaS(Platform as a Service)
+4 SaaS(Software as a Service)
+[해설]
+- SaaS(Software as a Service) : 클라우드 환경에서 운영되는 애플리케이션 서비스를 말한다. 대표적인
+SaaS 서비스는 구글 앱스, 세일즈포스닷컴(CRM), MS오피스 365, 드롭박스와 같은 클라우드 스토리
+지 서비스 등이 있다.
+- IaaS(Infrastructure as a Service) : 인터넷을 통해 서버와 스토리지 등 데이터센터 자원을 빌려 쓸
+수 있는 서비스이다.
+- NaaS(Network as a Service) : 전송 연결 서비스와 인터클라우드 네트워크 연결 서비스를 제공한다.
+- PaaS(Platform as a Service) : 소프트웨어 서비스를 개발할 때 필요한 플랫폼을 제공하는 서비스이다.
+
+
 보기 중 우리가 흔히 인터넷을 통해 비용을 지불하거나 혹은 무료로 사용하는, 클라우드 저장 서버에 대한 분류로 옳은 것을 모두 고르면? 2번
 ㄱ. Public cloud
 ㄴ. Private cloud
