@@ -2,6 +2,33 @@
 # [거니](https://www.youtube.com/watch?v=XazMFe3tAkc&list=PLLcbGhhl4sQDOYzzB8eNB7m0IdVffIyLM&index=42)
 # [하드디스크의 역사](https://www.youtube.com/watch?v=7n71z7KIoXo&list=PLPBTs1IJBEyiacgGU4SK2tu9S1u3-ih4g&index=5)
 
+# 문제
+```java
+문 1. 주기억장치로 사용될 수 없는 기억장치는?
+1 EPROM
+2 블루레이(Blu-ray) 디스크
+3 SRAM
+4 DRAM
+
+답 2
+2 주기억장치는 컴퓨터가 처리할 프로그램이나 데이터를 일
+시적으로 저장하는 기억장치로, 기억된 데이터를 읽을 수
+만 있는 ROM(Read Only Memory)과 읽고 쓸 수 있는
+RAM(Random Access Memory)이 있다.
+블루레이 디스크는 CD와 DVD보다 용량이 큰 휴대용 저장
+매체로, 보조기억장치에 해당한다.
+<오답 체크> 1 EPROM(Erasable PROM)
+ROM의 한 종류로, 자외선을 이용하여 기억된 내용을 지우
+고 다시 기록할 수 있는 롬이다.
+3 SRAM(Static RAM, 정적램)
+전원이 공급되는 한 그 내용이 계속 보존되는 램으로
+DRAM보다 빠르지만, 전력소모가 많고 비싸다.
+4 DRAM(Dynamic RAM, 동적램)
+데이터를 각기 분리된 축전기(Capacitor)에 저장하는 기억
+장치로, 데이터를 유지하기 위해 주기적인 충전이 필요하
+다. SRAM보다 느리지만, 전력소모가 적고 저렴하다.
+```
+
 * 우리가 사용하는 메모리카드, USB, SSD 등의 저장매체에는 낸드플래시(NAND Flash) 메모리가 사용됩니다. 그리고 낸드플래시 타입은 최소단위인 셀(Cell)에 몇 비트(bit)를 저장할 수 있느냐에 따라 SLC, MLC, TLC, QLC 방식으로 나뉘는데요. 동일한 용량일지라도 이 네 가지 방식에 따라 성능의 차이가 발생하고 가격 또한 달라지게 됩니다. 오늘 <궁금한 반도체 WHY> 4탄에서는 낸드플래시 메모리의 데이터 저장 방식이 각각 어떻게 다른지 알아보도록 하겠습니다.
 
 ## SSD의 단점
