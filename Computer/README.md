@@ -1,5 +1,36 @@
 # 컴퓨터의 발전
 ```java
+문 5. 정보량의 크기가 작은 것에서 큰 순서대로 바르게
+나열한 것은?(단, PB, TB, ZB, EB 는 각각 petabyte,
+terabyte, zettabyte, exabyte 이다)
+1 1 PB, 1 TB, 1 ZB, 1 EB
+2 1 PB, 1 TB, 1 EB, 1 ZB
+3 1 TB, 1 PB, 1 ZB, 1 EB
+4 1 TB, 1 PB, 1 EB, 1 ZB
+
+답 4
+◈ 데이터 용량
+10^24 요타 (yotta) 1YB
+10^21 제타 (zetta) 1ZB
+10^18 엑사 (exa) 1EB
+10^15 페타 (peta) 1PB
+10^12 테라 (tera) 1TB
+10^9 기가 (giga) 1GB
+10^6 메가 (mega) 1MB
+10^3 킬로 (kilo) 1KB
+1바이트 1Byte
+◈ 실행시간
+1초 1second
+10^-3 밀리 (milli) 1ms
+10^-6 마이크로 (micro) 1μs
+10^-9 나노 (nano) 1ns
+10^-12 피코 (pico) 1ps
+10^-15 펨토 (femto) 1fs
+10^-18 아토 (atto) 1as
+10^-21 젭토 (zepto) 1zs
+10^-24 욕토 (yocto) 1ys
+
+
 문 2. 비트열(bit string) A 를 2 의 보수로 표현된 부호
 있는(signed) 2 진 정수로 해석한 값은 -5 이다. 비트열
 A 를 1 의 보수로 표현된 부호 있는 2 진 정수로 해석
