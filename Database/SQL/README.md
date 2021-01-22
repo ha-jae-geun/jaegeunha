@@ -1,6 +1,20 @@
 # SQL; Structured Query Language
 - 언어라기보다는 수학적 기호를 언어로 표시한 것.
 ```java
+문 3. 직원 테이블 emp 의 모든 레코드를 근무연수
+wyear 에 대해서는 내림차순으로, 동일 근무연수에 대
+해서는 나이 age 의 오름차순으로 정렬한 결과를 얻기
+위한 SQL 질의문은?
+1 SELECT * FROM emp ORDER BY age, wyear DESC;
+2 SELECT * FROM emp ORDER BY age ASC, wyear;
+3 SELECT * FROM emp ORDER BY wyear DESC, age;
+4 SELECT * FROM emp ORDER BY wyear, age ASC;
+
+답 3
+3 오름차순을 설정할 때는 ASC, 내림차순을 설정할 때는 DESC를
+사용한다. 설정을 하지 않을 때 기본값은 오름차순이다.
+
+
 관계형 데이터베이스의 표준 질의어인 SQL(Structured Query Language)에서 CREATE TABLE문에 대한 설명으로 옳지 않은 것은? 4번
 ① CREATE TABLE문은 테이블 이름을 기술하며 해당 테이블에 속하는 칼럼에 대해서 칼럼이름과 데이터타입을 명시한다.
 ② PRIMARY KEY절에서는 기본키 속성을 지정한다.
