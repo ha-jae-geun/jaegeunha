@@ -6,6 +6,32 @@
 * [페이지 계산](https://eduon.com/itembank/itemlist/11/1308/#page-2)
 
 ```java
+8. 가상 메모리 시스템에서 메모리 부족 시의 페이지 교체
+기법(page replacement algorithm)들에 대한 설명으
+로 옳지 않은 것은?
+1 LRU(Least Recently Used) 기법은 메모리에 적재된
+페이지 중 가장 오랫동안 참조되지 않았던 페이지를
+교체하는 기법이다.
+2 LRU 기법은 실제 그 구현 오버헤드가 커서, 일반적
+으로 오버헤드를 줄인 여러 유형의 LRU 근사 알고
+리즘(LRU approximation algorithm)들이 사용되는
+것이 보통이다.
+3 LRU 기법은 물리적 페이지의 개수를 확장했음에도
+페이지 폴트가 늘어나는 경우가 발생할 수도 있는데,
+이를 Belady’s anomaly라 한다.
+4 이론적으로는 최적의 페이지 교체 기법은 메모리에
+적재된 페이지들 중에서 앞으로 가장 오랫동안 참조
+되지 않을 페이지를 교체하는 것이다.
+5 FIFO(First In First Out) 기법은 메모리에 적재된 페
+이지들 중 가장 먼저 메모리에 적재된 페이지를 교
+체하는 방법이다.
+
+답 3
+3 벨라디의 모순(Belady`s anomaly)이 발생하는 알고리즘은 FIFO
+기법이다.
+
+
+
 6. 가상 메모리(virtual memory)에 대한 설명으로 옳은 것
 은?
 1 세그먼테이션(segmentation) 기법을 적용할 수 없
