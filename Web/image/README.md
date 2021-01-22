@@ -2,6 +2,35 @@
 
 # [백터와 비트맵의 차이](http://blog.naver.com/PostView.nhn?blogId=hyuni_yun_&logNo=220631334274&redirect=Dlog&widgetTypeCall=true&directAccess=false)
 
+# 색상
+```java
+3 HSV 빛의 3속성
+Hue(색상), Saturation(채도), Value(명도)으로 표현
+직관적이고 자연계의 색상을 거의 온전히 표현할 수 있지만, 색
+구성법을 직선으로 표현하지 않고 곡면기하형으로 표현해서 복잡
+하고 난해하다.
+HSB(Hue Saturation Brightness) 또는 HSL(Hue Saturation
+Lightness)라고 쓰기도 한다.
+<오답 체크> 1 CMY(CMYK) 색의 3원색
+Cyan(시안, 청록색과 비슷), Magenta(마젠타, 자주색과 비슷),
+Yellow (노란색)+Key(=Black 검정색)으로 표현
+색의 3원색이며 더할수록 어두워지므로, 감산혼합이라고 한다.
+출판물이나 인쇄시 사용하는 프린터 잉크 구성에 사용된다.
+
+
+2 RGB 빛의 3원색
+Red(빨강), Green(녹색), Blue(파랑)으로 표현
+빛의 3원색이며 더할수록 밝아지므로, 가산혼합이라고 한다.
+모니터나 스마트폰 액정 등 디스플레이에 사용된다.
+4 RGB와 CMY는 서로 변환이 가능하다. 포토샵에서도 메뉴 한 번
+으로 간단히 변환할 수 있다.
+하지만 RGB에 비해 CMY는 색 표현능력이 떨어져 RGB에서
+CMY로 변환시 색감이 조금 탁해진다. 그래서 출판용 그림을 작
+업시에는 처음부터 CMY로 작업하는 것이 유리하다.(출판시
+CMY 방식으로 인쇄하기 때문에)
+반면, CMY에서 RGB로 변환시에는 거의 손실이 없다.
+```
+
 # GIF
 ```java
 다음에서 설명하는 이미지 파일 형식(format)으로 옳은 것은? 4번
