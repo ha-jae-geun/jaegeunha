@@ -1,5 +1,24 @@
 # 문제
 ```java
+12. 20.국가.9급
+IPsec의 ESP(Encapsulating Security Payload)에 대한 설
+명으로 옳지 않은 것은?
+1 인증 기능을 포함한다. 2 ESP는 암호화를 통해 기밀성을 제공한다. 3 전송 모드의 ESP는 IP 헤더를 보호하지 않으며, 전송계
+층으로부터 전달된 정보만을 보호한다. 4 터널 모드의 ESP는 Authentication Data를 생성하기
+위해 해시 함수와 공개키를 사용한다.
+∘ 전송 모드(transport mode)는 호스트와 호스트 간의 전송 경로를 보호
+하는 방법으로서 계층 간의 캡슐화 과정을 통하여 상위 계층의
+TPDU(Transport Protocol Data Unit) 데이터(TCP 및 응용 계층의 데이
+터)에 대하여 암호화 데이터 및 인증용 데이터를 생성하는 방법이다. ∘ Authentication Data : IP패킷에 대한 무결성을 조사하기 위한 값
+(Integrity Check Value)을 포함하는 필드로 MD5, SHA-1 등과 같은 해
+시함수를 사용해 MAC(Message Authentication Code)을 생성하여 포
+함한다. 4 터널 모드의 ESP는 Authentication Data를 생성하기 위해
+해시 함수와 대칭키를 사용한다.(MAC을 생성하기 위해 해시함수와 대칭
+키가 필요함)
+
+4
+
+
 8. 20.국가.9급
 SSL(Secure Socket Layer)의 Handshake 프로토콜에서
 클라이언트와 서버 간에 논리적 연결 수립을 위해 클라이언
