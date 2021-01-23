@@ -1,3 +1,22 @@
+# 문제
+```java
+문 2. AES(Advanced Encryption Standard)에 대한 설명으로 옳은
+것은? 1
+1 DES(Data Encryption Standard)를 대신하여 새로운 표준이
+된 대칭 암호 알고리즘이다.
+2 Feistel 구조로 구성된다.
+3 주로 고성능의 플랫폼에서 동작하도록 복잡한 구조로 고안되었다.
+4 2001년에 국제표준화기구인 IEEE가 공표하였다.
+
+[해설]
+AES(Advanced Encryption Standard)
+- DES가 페이스텔 구조인 반면, AES는 비페이스텔 구조.
+- AES 선정 조건 : 속도가 빠를 것. 단순하고 구현하기 쉬울 것. 스마트
+카드나 8비트 CPU 등의 계산력이 작은 플랫폼에서부터 워크스테이션과
+같은 고성능의 플랫폼에 이르기까지 효율적으로 동작.
+- 2001년에 미국의 표준화기구인 NIST(National Institute of Standard
+and Technology)에 의해 공표.
+```
 
 # 대칭키 암호의 장점
 * 암/복호화 속도가 빠르다.
