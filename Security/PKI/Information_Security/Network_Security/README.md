@@ -1,5 +1,26 @@
 # 문제
 ```java
+23. 19.경간부
+무선 랜 보안과 관련한 설명으로 옳지 않은 것은 모두 몇 개
+인가?
+보기
+가. 무선 랜의 취약점을 보완하기 위해 IEEE 802.1x와
+RADIUS(Remote Authentication Dial-In User Service)
+서버를 이용해 무선 사용자를 인증한다. 나. WPA(Wifi Protected Access)는 WEP(Wired Equivalent
+Privacy) 암호의 약점을 보완한 CCMP(Counter mode
+with CBC-MAC Protocol) 암호화 방식을 사용한다. 다. WPA2는 보안 강화를 위해 RC4 대신 AES 알고리즘을
+사용한다. 라. KRACK(Key Reinstallation Attacks)은 WPA2의 4-way
+핸드셰이크(handshake) 과정에서 메시지를 조작하고 재
+전송하여 정보를 획득하는 공격이다. 1 0개 2 1개
+3 2개 4 3개
+∘ KRACK(Key Reinstallation AttaCK)은 Wi-Fi 클라이언트 디바이스가 보
+안이 설정된 Wi-Fi 네트워크에 접속할 때 수행하는 4-way 인증
+handshake의 세 번째 단계를 대상으로 한다. 세 번째 단계에서 암호화
+키는 여러 번 전송될 수 있는데, 만약 공격자가 이 전송 데이터를 특정한
+방법으로 모아서 재생하면 Wi-Fi 보안 암호화가 깨질 수 있다. 2 나. WPA는 WEP 암호의 약점을 보완한 TKIP 암호화 방
+식을 사용한다. 2
+
+
 22. 19.경간부
 다음에서 설명하는 블루투스(Bluetooth)의 보안 취약점으로
 가장 적절하게 연결된 것은?
