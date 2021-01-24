@@ -1,5 +1,19 @@
 # 문제
 ```java
+20. 19.경간부
+가상사설망(VPN)에 대한 설명으로 가장 옳지 않은 것은 무
+엇인가?
+1 공중 네트워크를 이용하여 사설 네트워크와 같은 효과를
+제공한다. 2 VPN에 사용되는 터널링(Tunneling)은 터미널이 형성되
+는 양 호스트 사이에 전송되는 패킷을 추가 헤더 값으로
+인캡슐화 하는 기술이다. 3 L2F(Layer2 Forwarding)는 PPTP(Point-to-Point
+Tunneling Protocol)와 L2TP(Layer2 Tunneling
+Protocol)를 결합한 방식이다. 4 VPN은 데이터 암호화, 접근제어 등의 보안 서비스를 제
+공한다. 3 L2TP(Layer2 Tunneling Protocol)는 시스코사에서 개발
+한 L2F(Layer2 Forwarding)와 MS사에서 개발한 PPTP(Point-to-Point
+Tunneling Protocol)를 결합한 방식이다. 3
+
+
 방화벽(Firewall)에 대한 다음 설명 중 옳지 않은 것은 모두
 몇 개인가?
 보기
