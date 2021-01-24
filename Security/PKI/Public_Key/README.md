@@ -1,3 +1,5 @@
+# [디프 헬만](https://m.blog.naver.com/PostView.nhn?blogId=pgh7092&logNo=221146735104&proxyReferer=https:%2F%2Fwww.google.com%2F
+
 # 문제
 ```java
 문 4. RSA 암호 알고리즘에서 두 소수, p =17, q =23과 키 값 e =3을
@@ -24,6 +26,9 @@ n = p * q = 17 * 23 = 391
  ×  mod   
 
  mod    mod   
+
+
+
 
 
 
