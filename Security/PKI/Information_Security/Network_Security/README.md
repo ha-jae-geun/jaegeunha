@@ -1,5 +1,29 @@
 # 문제
 ```java
+다음 웹 서비스 공격 기법에 대한 설명으로 바르게 짝지어진
+것은?
+보기
+(가) 공격자가 게시판에 악성 스크립트를 저장하여 피해자가
+해당 글을 읽을 경우 악성 스크립트가 실행되도록 하는
+공격 기법
+(나) 공격자가 입력 폼 및 URL 입력란에 SQL 문을 삽입하여
+정보를 열람하거나 조작하는 공격 기법
+(다) 공격자가 의도한 웹사이트 사용행위를 사용자 자신의 의
+도와는 무관하게 특정 웹사이트에 요청하게 만드는 공격
+기법
+(가) (나) (다)
+1 XSS SQL Injection XXE
+2 XSS SQL Injection CSRF
+3 XXE SQL Injection CSRF
+4 XXE CSRF XSS
+
+∘ XML External Entities(XXE): 오래되거나 설정이 미흡한 XML 프로세서
+는 XML 문서 내에서 외부 개체 참조(external entity references)를 평가
+한다. 외부 개체는 파일 URI 핸들러, 내부 파일 공유, 포트 검색, 원격
+코드 실행 및 서비스 거부 공격을 사용하여 내부 파일을 노출시키는 데
+사용될 수 있다. 2 XSS, SQL Injection, CSRF 공격에 대한 설명이다. 2
+
+
 FTP(File Transfer Protocol)의 보안 대책에 대한 설명으로
 옳은 것을 모두 고른 것은?
 보기
