@@ -3,6 +3,28 @@
 
 # TPM
 ```java
+21. 19.경간부
+다음에서 설명하는 시스템으로 가장 옳은 것은 무엇인가?
+보기·서로 다른 보안장비에서 발생한 로그를 하나의 화면에서
+모니터링 할 수 있는 통합 관리 시스템
+·보안 정책 통합 관리와 적용을 통한 보안 운영 관리의 일
+관성 제공
+
+1 NAC(Network Access Control)
+2 PMS(Patch Management System)
+3 BCM(Business Continuity Management)
+4 ESM(Enterprise Security Management)
+∘ 패치관리 시스템(PMS, Patch Management System): 시스템의 보안 취
+약점을 보완하기 위해 배포되는 보안 패치 파일을 원격에서 자동으로 설
+치, 관리해 주는 시스템. 보안 패치의 미설치로 인해 발생할 수 있는 각
+종 피해를 예방하기 위해 패치 설치를 권고하여 설치를 유도하거나, 필
+요시 강제적으로 설치할 수 있도록 관리해 주는 시스템이다. 웜·바이러
+스 등 사이버 위협에 대한 효과적인 해결책의 하나로 제시되어 공공기관
+을 중심으로 도입이 확산되고 있다. 4 ESM(Enterprise Security Management)은 기업과 기관의
+보안 정책을 반영, 다양한 보안 시스템을 관제・운영・관리함으로써 조직
+의 보안 목적을 효율적으로 실현하는 시스템이다. 4
+
+
 5. 20.국가.9급
 윈도우 운영체제에서 TPM(Trusted Platform Module)에 대
 한 설명으로 옳지 않은 것은?
