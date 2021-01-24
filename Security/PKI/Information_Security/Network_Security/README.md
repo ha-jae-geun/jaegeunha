@@ -1,5 +1,18 @@
 # 문제
 ```java
+다음 중 수동적 공격(Passive Attack)으로 가장 옳은 것은
+무엇인가?
+1 분산 서비스 거부(Distributed Denial of Service)
+2 세션 하이재킹(Session Hijacking)
+3 스머프 공격(Smurf Attack)
+4 스니핑(Sniffing)
+∘ TCP 세션 하이재킹이 스니핑과 다른 점은 명령의 실행이 가능하다는
+것이다. 클라이언트와 똑같은 인터페이스가 제공된다. 따라서 TCP 세션
+하이재킹을 적극적인(active) 공격이라고 한다. 4 분산 서비스 거부(Distributed Denial of Service), 세션 하
+이재킹(Session Hijacking), 스머프 공격(Smurf Attack)은 적극적 공격이
+고 스니핑(Sniffing)은 소극적 공격이다. 4
+
+
 16. 20.국가.9급
 다음 설명에 해당하는 악성코드 분석도구를 옳게 짝 지은 것은?
 보기ᄀ. 가상화 기술 기반으로 악성코드의 비정상 행위를 유발하
