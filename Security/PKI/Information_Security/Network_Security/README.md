@@ -1,5 +1,24 @@
 # 문제
 ```java
+( ᄀ ) 공격은 소스 IP주소와 목적지 IP주소가 동일한 다량의
+패킷을 특정 공격 대상 시스템으로 전송하면, 응답이 자기 자
+신에게 되돌아오도록 하여 시스템의 과부하를 유발한다. ( ᄂ ) 공격은 ICMP Echo 메시지를 큰 패킷으로 만들어, 공
+격대상 시스템에 분할된 많은 양의 패킷을 도달시켜, 패킷 재
+결합으로 인한 시스템 과부하를 유발한다. ( ᄃ ) 공격은 ICMP 프로토콜과 브로드캐스팅 개념을 사용한
+공격으로 공격대상 호스트의 IP 주소를 source 주소로 갖는
+ICMP Echo 요청 패킷을 directed 브로드캐스트 함으로써, 많
+은 양의 ICMP Echo 응답 패킷을 공격대상 호스트에 전송한
+다. 이는 공격대상 시스템의 자원을 고갈시킨다.
+ᄀ ᄂ ᄃ
+1 LAND ICMP Flooding Ping of Death
+2 LAND Ping of Death ICMP Flooding
+3 Ping of Death ICMP Flooding LAND
+4 Ping of Death LAND ICMP Flooding
+2 Land Attack, Ping of Death, ICMP Flooding 공격에 대
+한 설명이다. ICMP Flooding 공격은 스머프 공격(Smurf attack)이라고도
+부르는데 이 공격은 공공 인터넷 상에서 Flood DoS 공격의 한 변종이다.
+
+
 서버가 응용 메시지를 여러 개의 TCP 세그먼트로 나누어 클
 라이언트에게 전송하는 경우, TCP의 동작에 대한 설명으로
 옳은 것은?
