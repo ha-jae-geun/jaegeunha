@@ -1,5 +1,32 @@
 # 문제
 ```java
+다음 설명에 해당하는 DoS 공격을 옳게 짝 지은 것은?
+보기ᄀ. 공격자가 공격대상의 IP 주소로 위장하여 중계 네트워크
+에 다량의 ICMP Echo Request 패킷을 전송하며, 중계
+네트워크에 있는 모든 호스트는 많은 양의 ICMP Echo
+Reply 패킷을 공격 대상으로 전송하여 목표시스템을 다운
+시키는 공격
+ᄂ. 공격자가 송신자 IP 주소를 존재하지 않거나 다른 시스템
+의 IP 주소로 위장하여 목적 시스템으로 SYN 패킷을 연
+속해서 보내는 공격
+ᄃ. 송신자 IP 주소와 수신자 IP 주소, 송신자 포트와 수신자
+포트가 동일하게 조작된 SYN 패킷을 공격 대상에 전송하
+는 공격
+ᄀ ᄂ ᄃ
+
+1 Smurf Attack / Land Attack / SYN Flooding Attack
+2 Smurf Attack / SYN Flooding Attack / Land Attack
+3 SYN Flooding Attack / Smurf Attack / Land Attack
+4 Land Attack / Smurf Attack / SYN Flooding Attack
+∘ Smurf 공격 : IP 위장과 ICMP의 특징을 이용한 공격
+∘ Syn flooding 공격 : 3-Way Handshaking 과정에서 Half-Open 연결
+시도가 가능하다는 취약점을 이용한 공격
+∘ Land attack : 자신의 IP 어드레스와 포트를 대상 서버의 IP 어드레스
+및 포트와 동일하게 하여 전송하는 공격
+2 각각 Smurf Attack, SYN Flooding Attack, Land Attack
+공격에 대한 설명이다. 2
+
+
 다음에서 설명하는 스캔방법은?
 보기
 공격자가 모든 플래그가 세트되지 않은 TCP 패킷을 보내고, 대상 호스트는 해당 포트가 닫혀 있을 경우 RST 패킷을 보
