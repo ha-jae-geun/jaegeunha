@@ -1,5 +1,17 @@
 # 문제
 ```java
+◈ DES(Data Encryption Standard)
+페이스텔(Feistel) 구조 16라운드
+블록 64비트
+키 길이 56비트 + 패리티 8비트 = 64비트
+◈ AES(Advanced Encryption Standard)
+SPN구조
+블록 128비트(16바이트)
+키 길이 128비트 – 10라운드
+키 길이 192비트 – 12라운드
+키 길이 256비트 – 14라운드
+
+
 AES는 각 단계에서 바이트 치환(SubBytes), 행 이동(ShiftRows),
 열 혼합(MixColumns), 키 덧셈(AddRoundKey)의 4단계를 거친
 다.
