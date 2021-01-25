@@ -229,6 +229,8 @@ Stack을 우회하는 것이 가능하다.
 ```
 
 # 윈도우
+
+## [SAM](https://schmidtiana95.tistory.com/entry/%EC%8B%9C%EC%8A%A4%ED%85%9C1-1-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%9D%B8%EC%A6%9D-%EA%B3%BC%EC%A0%95)
 ```java
 ᄀ ~ ᄃ에 들어갈 윈도우 운영체제 보안 컴포넌트를 모두
 바르게 제시한 것은?
