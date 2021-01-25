@@ -1,5 +1,16 @@
 # 문제
 ```java
+무결성을 위협하는 공격이 아닌 것은?
+1 스누핑 공격(Snooping Attack)
+2 메시지 변조 공격(Message Modification Attack)
+3 위장 공격(Masquerading Attack)
+4 재전송 공격(Replay Attack)
+ 보안 목표와 관련된 공격의 분류
+
+- 5 -
+1 스누핑은 기밀성을 위협하는 공격이다. 1
+
+
 다음 중 OSI 7계층 모델에서 동작하는 계층이 다른 것은?
 1 L2TP
 2 SYN 플러딩
