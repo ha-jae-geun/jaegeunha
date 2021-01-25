@@ -197,6 +197,28 @@ in a Multi-vendor Environment) 프로젝트는 Kerberos의 기능을 확장하
 
 # IDS
 ```java
+12. 침입 탐지 시스템의 탐지 단계를 순서대로 바르게
+나열한 것은?
+ᄀ. 데이터 수집(data collection)
+ᄂ. 침입 탐지(intrusion detection)
+ᄃ. 보고 및 대응(reporting and response)
+ᄅ. 데이터 필터링 및 축약(data filtering and reduction)
+1 ᄀ - ᄂ - ᄃ – ᄅ
+2 ᄀ - ᄅ - ᄂ – ᄃ
+3 ᄅ - ᄂ - ᄀ – ᄃ
+4 ᄅ - ᄃ - ᄀ - ᄂ
+
+답 2
+※ 침입 탐지 시스템의 순서
+데이터 수집(data collection)
+↓
+데이터 필터링 및 축약(data filtering and reduction): 수집된 데
+이터를 분석하여 패턴을 생성하여 필터링 설정
+↓
+침입 탐지(intrusion detection): 침입 여부 탐지
+↓
+보고 및 대응(reporting and response)
+
 오용 탐지(Misuse Detection)
 = 시그니처 기반(Signature Base)
 = 지식 기반(Knowledge Base)
