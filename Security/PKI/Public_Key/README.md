@@ -1,4 +1,22 @@
 # [디프 헬만](https://m.blog.naver.com/PostView.nhn?blogId=pgh7092&logNo=221146735104&proxyReferer=https:%2F%2Fwww.google.com%2F
+```java
+Diffie-Hellman 알고리즘은 (Ga mod P)b mod P와
+(Gb mod P)a mod P를 계산한 값이 같다는 대수적인 성
+질을 활용한다. 다음 설명 중 옳지 않은 것은?
+1 a와 b는 비밀값이다.
+2 P는 소수이다.
+3 두 개의 키를 합성하면 새로운 키가 생성된다.
+4 중간자 공격을 방지한다.
+5 암호화와 복호화에 필요한 키를 분배하거나 교환하
+기 위한 것이다.
+
+답 4
+4 디피-헬만 키 교환방식은 통신 상대방을 인증하지 않기 때문에
+중간자 공격에 취약하다.
+<오답 체크> 1 송·수신자 사이에 전송되는 값은 p, g, Ga mod P,
+Gb mod P 값이다. a와 b는 상대방에게 전송하지 않고 본인만 알
+고 있는 비밀값이다.
+```
 
 # [RSA 암호 키 계산](https://www.google.com/search?q=%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4%EC%9D%98+%EC%96%B4%EB%A0%A4%EC%9B%80%EC%9D%84+%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C+%ED%95%9C+RSA+%EC%95%94%ED%98%B8+%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%97%90+%EC%84%9C+%EA%B0%9C%EC%9D%B8%ED%82%A4+d%EB%8A%94+7%2C+%ED%95%A9%EC%84%B1%EC%88%98+n%EC%9D%80+33%2C+%ED%8F%89%EB%AC%B8+%EA%B0%92%EC%9D%B4+5%EC%9D%BC+%EB%95%8C%2C+%EC%9D%B4%EB%A5%BC+%EC%95%94%ED%98%B8%ED%99%94%ED%95%9C+%EC%95%94%ED%98%B8%EB%AC%B8%EC%9D%98+%EA%B0%92%EC%9C%BC%EB%A1%9C+%EA%B0%80%EC%9E%A5+%EC%A0%81%EC%A0%88%ED%95%9C+%EA%B2%83%EC%9D%80%3F&rlz=1C1OKWM_koKR924KR924&oq=%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4%EC%9D%98+%EC%96%B4%EB%A0%A4%EC%9B%80%EC%9D%84+%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C+%ED%95%9C+RSA+%EC%95%94%ED%98%B8+%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%97%90+%EC%84%9C+%EA%B0%9C%EC%9D%B8%ED%82%A4+d%EB%8A%94+7%2C+%ED%95%A9%EC%84%B1%EC%88%98+n%EC%9D%80+33%2C+%ED%8F%89%EB%AC%B8+%EA%B0%92%EC%9D%B4+5%EC%9D%BC+%EB%95%8C%2C+%EC%9D%B4%EB%A5%BC+%EC%95%94%ED%98%B8%ED%99%94%ED%95%9C+%EC%95%94%ED%98%B8%EB%AC%B8%EC%9D%98+%EA%B0%92%EC%9C%BC%EB%A1%9C+%EA%B0%80%EC%9E%A5+%EC%A0%81%EC%A0%88%ED%95%9C+%EA%B2%83%EC%9D%80%3F&aqs=chrome..69i57.395j0j7&sourceid=chrome&ie=UTF-8)
 
