@@ -645,4 +645,18 @@ IEEE 802.11i에서 정의한 무선 랜 데이터 보안 프로토콜로
 WEP와 같은 RC4 키 스트림 암호화 알고리즘을 사용한다. 보안 강화를 위
 해 MIC(또는 Michael)라는 8바이트의 메시지 무결성 코드를 추가했고, IV
 생성에서 새로운 배열 규칙을 적용했다. 4
+
+
+IEEE 802.11i에서 데이터를 보호하기 위해서 AES 알고리즘
+을 사용한 암호화 운영모드와 메시지 인증기법을 가장 적절
+하게 짝지은 것은?
+1 CBC 모드, HMAC 인증
+2 CBC 모드, CBC-MAC 인증
+3 CTR 모드, HMAC 인증
+4 CTR 모드, CBC-MAC 인증
+∘ CCMP는 128bit의 대칭키를 사용하고, 48bit의 초기벡터를 사용한다. AES가 제공하는 여러 모드 중 CCMP는 Counter 모드 기반으로 CBC
+MAC(Cipher Block Chaining Message Authentication Code)을 결합
+
+한 CCM을 기반으로 한다. 4 CCMP는 AES 알고리즘을 사용한 CTR 모드를 사용하고, 인
+증기법으로 CBC-MAC을 사용한다. 4
 ```
