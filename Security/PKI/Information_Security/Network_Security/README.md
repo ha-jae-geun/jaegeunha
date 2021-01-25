@@ -1,5 +1,29 @@
 # 문제
 ```java
+다음 중 <보기>에서 설명하는 것은?
+IETF의 작업 그룹에서 RSADSI(RSA Data Security
+Incorporation) 의 기술을 기반으로 개발한 전자우편
+보안 기술이며, RFC3850, 3851 등에서 정의되어 있
+다. 전자우편에 대한 암호화 및 전자서명을 통하여 메
+시지 기밀성, 메시지 무결성, 사용자 인증, 송신 사실
+부인 방지, 프라이버시 보호 등의 보안 기능을 제공한
+다.
+1 MIME(Multipurpose Internet Mail Extensions)
+2 SMTP(Simple Mail Transfer Protocol)
+3 PGP(Pretty Good Privacy)
+4 PEM(Privacy Enhanced Mail)
+5 S/MIME(Secure/Multipurpose Internet Mail Extensions)
+
+답 5
+5 S/MIME(Secure/Multipurpose Internet Mail Extension)
+MIME를 보호하기 위해 암호화 및 인증을 지원하는 기술로, RSA
+를 이용하고 인증기관 필요로 한다.
+PGP 의 낮은 보안성과 기존 시스템과의 통합이 용이하지 않다
+는 점을 보완하기 위해 IETF 의 작업 그룹에서 RSADSI(RSA
+Data Security Incorporation)의 기술을 기반으로 개발된 전자우
+편 보안 시스템이다.
+
+
 8. 웹 공격의 유형에 대한 설명으로 옳지 않은 것은?
 1 XSS(Cross-Site Scripting) : 저장 XSS 공격, 반사
 XSS 공격, DOM 기반 XSS 공격으로 분류되며, 이
