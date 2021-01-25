@@ -1,5 +1,38 @@
 # 문제
 ```java
+2009년 Moxie Marlinspike가 제안한 공격 방식이며,
+중간자 공격을 통해 사용자와 서버 사이의 HTTPS 통신
+을 HTTP로 변경해서 비밀번호 등을 탈취하는 공격 방식
+으로 가장 옳은 것은?
+1 SSL stripping
+2 BEAST attack
+3 CRIME attack
+4 Heartbleed
+
+답 1
+1 SSL stripping(SSL 스트리핑)
+공격 대상자와 서버가 최초 세션 연결할 때, 중간자 공격을 통해
+HTTPS 통신을 HTTP 통신으로 변경해 트래픽 내용을 훔쳐보는
+공격이다.
+공격 대상자가 서버에 접속을 요청하면, 서버는 HTTPS를 사용하
+는 웹페이지의 링크를 전송한다. 이 때 공격자가 중간에서 응답
+을 가로채어 HTTPS의 링크를 HTTP로 변경한 뒤 공격대상에게
+전송한다. 이렇게 함으로써 공격자는 공격대상과 HTTP 통신을
+맺고, 서버와는 HTTPS 통신을 맺어 중간에서 트래픽을 훔쳐볼
+수 있게 된다.
+<오답 체크> 2 BEAST(Browser Exploit Against SSL/TLS)
+SSL 3.0의 취약점을 공격하는 것으로, HTTPS에서의 세션 쿠키를
+해독하여 타깃의 세션을 하이재킹하는 공격이다.
+3 CRIME(Compression Ration Info-Leak Mass Exploitation)
+HTTPS 상에서 주고받는 데이터의 압축과정에서의 취약점을 이
+용하여 쿠키를 훔치는 공격이다.
+4 HeartBleed(하트블리드) 공격
+2014년 4월 OpenSSL 1.0.1 버전에서 발견된 매우 심각한 버그
+OpenSSL을 구성하고 있는 TLS/DTLS의 HeartBeat 확장규격에
+서 발견된 취약점으로, 해당 취약점을 이용하면 서버와 클라이언
+트 사이에 주고받는 정보들을 탈취할 수 있다.
+
+
 (가) DNS Spoofing(DNS 스푸핑)
 공격 대상자가 접속하려는 URL 주소 이름을 요청할 때, 거짓 IP
 주소를 반환하여 사용자가 의도하지 않은 주소로 접근하게 만드
