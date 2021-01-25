@@ -1,5 +1,49 @@
 # [ISMS-P](https://isms.kisa.or.kr/main/ispims/intro/)
 ```java
+12. 정보통신망의 안전성 확보를 위해 수립하는 기술적, 물
+리적, 관리적 보호 조치 등 종합적인 정보보호 관리 체계
+인증 제도는?
+1 PIMS(Personal Information Management System)
+2 ISMS(Information Security Management System)
+3 ITSEC(Information Technology Security Evaluation
+Criteria)
+4 CMVP(Cryptographic Module Validation Program)
+5 KCMVP(Korea Cryptographic Module Validation
+Program)
+
+답 2
+2 ISMS(정보보호관리체계인증))
+기업이 주요 정보자산을 보호하기 위해 수립ᆞ관리ᆞ운영하는 정
+보보호 관리체계가 인증기준에 적합한지를 심사하여 인증을 부여
+하는 제도
+- ISMS 법적근거
+· 정보통신망 이용촉진 및 정보보호 등에 관한 법률 제 47조
+정보통신망 이용촉진 및 정보보호 등에 관한 법률 시행령 제47조
+~54조
+정보보호 관리체계 인증 등에 관한 고시
+=> 이를 통해 정보통신망을 운영하는 데 있어 보호 조치 등을 수
+행하는 정보보호관리체계 인증제도는 ISMS임을 알 수 있다.
+<오답 체크>
+1 PIMS(개인정보보호 관리체계인증)는 개인정보를 보호하는 것에
+중점을 둔 관리체계 인증제도이다.
+기관 및 기업이 개인정보보호 관리체계를 갖추고 체계적 · 지속
+적으로 보호 업무를 수행하는지에 대해 객관적으로 심사하여 기
+준 만족 시 인증을 부여하는 제도
+- PIMS 법적근거
+· 정보통신망 이용촉진 및 정보보호 등에 관한 법률 제47조의 3
+· 정보통신망 이용촉진 및 정보보호 등에 관한 법률 시행령 제54조
+의 2
+· 개인정보 보호법 제32조의 2
+· 개인정보 보호법 시행령 제 34조의 2~제 34조의 8
+· 개인정보보호 관리체계 인증 등에 관한 고시
+3 ITSEC(Information Technology Security Evaluation Criteria)
+유럽의 정보보호 시스템 평가 제도
+4 CMVP(Cryptographic Module Validation Program) 미국과 캐
+나다에서 공동으로 개발한 암호화 모듈 검증 제도이다.
+5 KCMVP(Korea Cryptographic Module Validation Program,
+한국 암호화 모듈 검증 제도)
+
+
 국내의 기관이나 기업이 정보 및 개인정보를 체계적으로 보
 호할 수 있도록 통합된 관리체계 인증제도는?
 1 PIPL-P
