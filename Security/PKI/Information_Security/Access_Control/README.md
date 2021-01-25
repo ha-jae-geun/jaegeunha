@@ -1,6 +1,28 @@
 # 문제
 * MAC, RBAC, DAC 등의 접근제어 모델와 Biba, Bell-La Padula, Clark-Wilson, Sprial 모델
 ```java
+13. 접근 제어 방식 중, 주체의 관점에서 한 주체가 접근
+가능한 객체와 권한을 명시한 목록으로 안드로이드 플랫
+폼과 분산 시스템 환경에서 많이 사용되는 방식은?
+1 접근 제어 행렬(Access Control Matrix)
+2 접근 가능 목록(Capability List)
+3 접근 제어 목록(Access Control List)
+4 방화벽(Firewall)
+
+답 2
+2 CL(Capability List, 접근가능 목록)
+한 주체의 객체들에 대한 접근 권한을 명시한 리스트
+<오답 체크> 1 ACM(Access Control Matrix, 접근통제 매트릭스)
+은 ACL과 CL의 결합으로, 주체들과 객체들의 접근 권한을 행렬
+(매트릭스) 형태로 작성한 표이다.
+3 ACL(Access Control List, 접근통제 목록)
+한 객체에 대한 주체들의 접근 권한을 명시한 리스트
+4 방화벽(Firewall)
+외부 공격으로부터 내부 시스템을 보호하기 위해 외부 네트워크
+와 내부 네트워크 사이에 설치된 하드웨어나 소프트웨어 장치를
+의미한다.
+
+
 다음과 같은 사례를 방지하기 위한 데이터베이스 보안통제
 로 가장 적절한 것은?
 보기
