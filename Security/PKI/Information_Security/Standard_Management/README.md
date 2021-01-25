@@ -185,6 +185,11 @@ B2는 B1보다 높은 신뢰를 제공하고, C2는 C1보다 높은 신뢰를 �
 - 지원(support) : Plan에 해당
 
 
+
+```
+
+# CC
+```java
 6. CC(Common Criteria) 인증 평가 단계를 순서대로 바르게 나열한
 것은? 1
 가. PP(Protection Profile) 평가
@@ -199,4 +204,26 @@ B2는 B1보다 높은 신뢰를 제공하고, C2는 C1보다 높은 신뢰를 �
 - ST(Security Target) 평가 : ST가 PP의 요구사항을 충족하는지 평가
 - TOE(Target Of Evaluation) 평가 : TOE가 ST의 요구사항을 충족하는
 지 평가
+
+
+4. CC(Common Criteria) 인증 제도에 대한 설명으로 옳
+지 않은 것은?
+1 CC에서 TOE는 Target of Evaluation의 약자로서
+평가 대상을 의미한다.
+2 CC에서 정보보호시스템은 EAL(Evaluation Assurance
+Level)로 보안수준을 평가받는다.
+3 CC는 미국 NIST FIPS PUB 197 자료를 참고해서 만
+들어진 제도이다.
+4 CC에서 PP는 Protection Profile을 의미하는 것으
+로 보안 요구 사항을 정의한다.
+5 CC는 CCRA(Common Criteria Recognition
+Arrangement)라는 국제상호인정협정을 가지며,
+CCRA 수준으로 평가를 수행한다.
+
+답 3
+3 미국 연방 정보 처리 표준 FIPS PUB 197에서는 AES 암호화 알
+고리즘에 대해 규정하고 있다.
+CC는 국가마다 서로 다른 정보보호시스템 평가기준을 연동하고
+평가결과를 상호인증하기 위해 제정된 평가기준으로, AES 암호화
+에 대한 표준 규정과는 관련이 없다.
 ```
