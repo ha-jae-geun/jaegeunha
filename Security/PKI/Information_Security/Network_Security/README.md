@@ -1237,6 +1237,35 @@ SSL 프로토콜에 대한 설명으로 옳지 않은 것은?
 
 # 무선
 ```java
+23. 다음 지문은 무엇에 관한 설명인가?
+무선랜을 통하여 전송되는 패킷의 각 헤더에 덧붙
+여지는 32 바이트 길이의 고유 식별자로서, 무선장
+비가 BSS(Basic Service Set)에 접속할 때 암호처럼 사
+용한다.
+1 SSID(Service Set Identifier)
+2 WEP(Wired Equivalent Privacy)
+3 MAC(Message Authentication Code)
+4 RFID(Radio Frequency Identification)
+
+답 1
+1 SSID(Service Set Identifier, 무선 네트워크 이름) 노트북이
+나 스마트폰 등의 Wi-Fi 무선 장치들을 구분하는 이름이다.
+무선 장치들이 BSS(basic service set)에 접속할 때 사용하는
+텍스트 데이터이다. 하나의 무선랜을 다른 무선랜으로부터
+구별해주는 특징을 갖기 때문에, 특정 무선랜에 접속하려
+는 모든 AP나 무선 장치들은 반드시 일정한 SSID를 사용
+해야 한다. 만약 SSID가 변경되면. 그 BSS에 접속할 수 없
+게 된다.
+<오답 체크> 2 WEP(Wired Equivalent Privacy)
+초창기의 무선랜 보안 프로토콜이며, 암호화를 위해 RC4
+사용하며, 암호화와 인증에 동일한 키를 사용한다.
+3 MAC(Message Authentication Code, 메시지 인증 코드)는
+대칭키를 사용하는 해시값으로, 무결성과 출처 인증(송신자
+에 대한 인증)이 가능하다.
+4 RFID(Radio Frequency Identification)는 주파수를 이용해 원
+격 장비를 식별하는 시스템으로 일명 전자태그로 불린다.
+
+
 무선랜 보안에 대한 설명으로 옳은 것을 <보기>에서
 모두 고른 것은?
 
