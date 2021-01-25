@@ -1330,6 +1330,20 @@ EAP를 통한 사용자 인증
 ○ WPA2 방식
 AES-CCMP 사용
 EAP를 통한 사용자 인증
+
+
+IEEE 802.11i에서 정의된 CCMP(Counter Mode
+with Cipher Block Chaining MAC Protocol)에 대한
+설명으로 옳지 않은 것은?
+1 기존의 WEP(Wired Equivalent Privacy) 보안 구현
+장치에서 소프트웨어적으로 동작할 수 있도록 고안
+되었다.
+2 CBC(Cipher Block Chaining)-MAC를 사용하여 메
+시지 무결성을 제공한다.
+3 AES(Advanced Encryption Standard)의 CTR 블록
+암호 모드를 사용한다.
+4 WPA2(Wi-Fi Protected Access 2)에서 사용하는 보
+안 기술이다.
 ```
 
 # ids
