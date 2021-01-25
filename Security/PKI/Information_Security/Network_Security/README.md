@@ -1,5 +1,17 @@
 # 문제
 ```java
+IPsec의 캡슐화 보안 페이로드(ESP) 헤더에서 암호화되는
+필드가 아닌 것은?
+1 SPI(Security Parameter Index)
+2 Payload Data
+3 Padding
+4 Next Header
+ ESP 헤더 데이터 형식
+
+1 ESP Header 포함된 SPI는 인증 영역에는 포함되지만, 암
+호화 영역에는 포함되지 않는다. 1
+
+
 무결성을 위협하는 공격이 아닌 것은?
 1 스누핑 공격(Snooping Attack)
 2 메시지 변조 공격(Message Modification Attack)
