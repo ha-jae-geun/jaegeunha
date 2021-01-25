@@ -1,6 +1,40 @@
 # 문제
 * MAC, RBAC, DAC 등의 접근제어 모델와 Biba, Bell-La Padula, Clark-Wilson, Sprial 모델
 ```java
+7. 다음 지문에서 설명하는 접근통제모델은 무엇인가?
+접근통제모델 중 효율적인 업무처리(Well-formed
+transactions)와 직무분리(Separation of duties) 두 가지
+원칙을 통해 좀 더 정교하게 무결성을 보장하는 모
+델이다.
+1 벨-라파듈라(Bell-LaPadula)
+2 비바(Biba)
+3 테이크 그랜트(Take Grant)
+4 클락-윌슨(Clark-Wilson)
+
+답 4
+4 클락-윌슨(Clark-Wilson) 모델
+무결성 중심의 상업적 모델
+• 효율적인 업무처리(Well-formed transaction)
+• 직무 분리(Separation of duties)
+• 접근 주체가 권한을 가지고 직접 접근하는 게 아니라 프
+로그램을 통해서 접근
+<오답 체크> 1 벨 라파듈라(BLP, Bell-LaPadula) 모델
+기밀성을 중시한 모델
+따라서 높은 등급의 데이터를 못 읽고, 낮은 등급에 쓸 수
+없다.
+단순 보안 속성 – NRU(No Read Up)
+Star(*) 속성 – NWD(No Write Down)
+2 비바(Biba) 모델
+무결성을 중시한 모델
+높은 등급의 데이터에 쓸 수 없고, 낮은 등급의 데이터를
+읽을 수 없다.
+단순 무결성 속성 – NRD(No Read Up)
+무결성 star(*) 속성 – NWD(No Write Up)
+3 테이크-그랜트(Take Grant) 모델
+Create(생성), Revoke(취소), Take(획득), Grant(승인) 4개의 연
+산으로 접근 권한을 설정하는 모델
+
+
 13. 접근 제어 방식 중, 주체의 관점에서 한 주체가 접근
 가능한 객체와 권한을 명시한 목록으로 안드로이드 플랫
 폼과 분산 시스템 환경에서 많이 사용되는 방식은?
