@@ -1,6 +1,27 @@
 # 문제
 * MAC, RBAC, DAC 등의 접근제어 모델와 Biba, Bell-La Padula, Clark-Wilson, Sprial 모델
 ```java
+다음에서 설명하는 접근 제어 모델은?
+보기
+군사용 보안구조의 요구사항을 충족시키기 위해 개발된 최초
+의 수학적 모델로 알려져 있다. 불법적 파괴나 변조보다는 정
+보의 기밀성 유지에 초점을 두고 있다. ‘상위레벨 읽기금지
+정책(No-Read-Up Policy)’을 통해 인가받은 비밀 등급이 낮
+은 주체는 높은 보안 등급의 정보를 열람할 수 없다. 또한, 인가받은 비밀 등급 이하의 정보 수정을 금지하는 ‘하위레벨
+쓰기금지 정책(No-Write-Down Policy)’을 통해 비밀 정보의
+유출을 차단한다. 1 DAC(Discretionary Access Control) 모델
+
+2 Bell-LaPadula 모델
+3 Biba 모델
+4 RBAC(Role-Based Access Control) 모델
+2 Bell-LaPadula 모델은 높은 보안 등급으로부터 낮은 보
+안 등급으로 정보가 유출되는 것을 방지하는 것으로, 정보의 불법적인 파
+괴나 변조보다는 불법적인 비밀 유출 방지에 중점을 둔 최초의 수학적 모
+델로 알려진 접근통제 모델
+
+2
+
+
 다음 중 강제적 접근 제어(MAC : Mandatory Access
 Control)에 대한 설명으로 옳은 것은 모두 몇 개인가?
 보기
