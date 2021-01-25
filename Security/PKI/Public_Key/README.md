@@ -19,6 +19,24 @@ Gb mod P 값이다. a와 b는 상대방에게 전송하지 않고 본인만 알
 ```
 
 # [RSA 암호 키 계산](https://www.google.com/search?q=%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4%EC%9D%98+%EC%96%B4%EB%A0%A4%EC%9B%80%EC%9D%84+%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C+%ED%95%9C+RSA+%EC%95%94%ED%98%B8+%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%97%90+%EC%84%9C+%EA%B0%9C%EC%9D%B8%ED%82%A4+d%EB%8A%94+7%2C+%ED%95%A9%EC%84%B1%EC%88%98+n%EC%9D%80+33%2C+%ED%8F%89%EB%AC%B8+%EA%B0%92%EC%9D%B4+5%EC%9D%BC+%EB%95%8C%2C+%EC%9D%B4%EB%A5%BC+%EC%95%94%ED%98%B8%ED%99%94%ED%95%9C+%EC%95%94%ED%98%B8%EB%AC%B8%EC%9D%98+%EA%B0%92%EC%9C%BC%EB%A1%9C+%EA%B0%80%EC%9E%A5+%EC%A0%81%EC%A0%88%ED%95%9C+%EA%B2%83%EC%9D%80%3F&rlz=1C1OKWM_koKR924KR924&oq=%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4%EC%9D%98+%EC%96%B4%EB%A0%A4%EC%9B%80%EC%9D%84+%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C+%ED%95%9C+RSA+%EC%95%94%ED%98%B8+%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%97%90+%EC%84%9C+%EA%B0%9C%EC%9D%B8%ED%82%A4+d%EB%8A%94+7%2C+%ED%95%A9%EC%84%B1%EC%88%98+n%EC%9D%80+33%2C+%ED%8F%89%EB%AC%B8+%EA%B0%92%EC%9D%B4+5%EC%9D%BC+%EB%95%8C%2C+%EC%9D%B4%EB%A5%BC+%EC%95%94%ED%98%B8%ED%99%94%ED%95%9C+%EC%95%94%ED%98%B8%EB%AC%B8%EC%9D%98+%EA%B0%92%EC%9C%BC%EB%A1%9C+%EA%B0%80%EC%9E%A5+%EC%A0%81%EC%A0%88%ED%95%9C+%EA%B2%83%EC%9D%80%3F&aqs=chrome..69i57.395j0j7&sourceid=chrome&ie=UTF-8)
+```java
+문 19. RSA 암호 알고리즘에 대한 설명으로 옳지 않은 것
+은?
+1 대표적인 비대칭 암호 알고리즘으로, 널리 사용되고
+있다.
+2 공개키 {e,n}이 주어지면 지수 및 모듈러 연산을 통
+해 n과 무관한 임의 크기의 평문 블록을 하나의 암
+호문 블록으로 암호화할 수 있다.
+3 공개키 {e,n}의 n을 소인수분해할 수 있으면 개인키
+{d,n}의 d를 알아낼 수 있다.
+4 일반적으로 키의 길이가 길수록 안전성은 높아지지
+만 알고리즘 수행시간은 길어진다.
+
+답 2
+2 RSA 암호화시 입력 데이터의 길이가 키의 길이(n)보다 크다면
+예외가 발생한다. 따라서 키의 길이와 같거나 작도록 데이터를
+나누어 암호화를 수행해야 한다.
+```
 
 # 문제
 ```java
