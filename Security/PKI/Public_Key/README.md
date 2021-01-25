@@ -2,6 +2,24 @@
 
 # 문제
 ```java
+공개키 기반 구조(PKI: Public Key Infrastructure)에 대한
+설명으로 가장 적절하지 않은 것은?
+1 공개키 기반 구조의 구성요소로는 사용자(user), 등록기
+관(Registration Authority), 인증기관(Certification
+Authority), 저장소(repository) 등이 있다. 
+2 공개키 인증서를 발행하여 무결성, 인증, 부인방지를 보
+장한다. 
+3 등록기관은 인증서와 인증서 취소 목록(Certificate Revocation
+List)을 발행하고, 공개키 등록 시 본인을 인증한다.
+4 저장소는 인증서를 보관해 두고, PKI의 이용자가 인증서
+를 입수할 수 있도록 구성된 데이터베이스이다.
+
+지안에듀 - 3 - 조현준 선생
+3 인증서와 인증서 취소 목록(Certificate Revocation List)을
+발행하고, 공개키 등록 시 본인을 인증하는 것은 인증기관의 역할이다. 그
+러나 인증기관이 하는 일 가운데는 「공개키의 등록과 본인에 대한 인증」
+
+
 다음 공개키 기반 구조(Public Key Infrastructure)에 대한
 설명 중 가장 옳은 것은 무엇인가?
 1 공개키 기반 구조는 대칭키 암호시스템에 기초하여 디지털
