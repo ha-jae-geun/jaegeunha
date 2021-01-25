@@ -1,5 +1,27 @@
 # 문제
 ```java
+16. 능동적 공격으로 가장 옳지 않은 것은?
+1 재전송
+2 트래픽 분석
+3 신분위장
+4 메시지 변조
+
+답 2
+2 트래픽 분석은 수동적 공격(소극적 공격)에 해당한다.
+
+✠ 소극적 공격(수동적 공격)
+도청(가로채기, interception)
+트래픽 분석(traffic analysis)
+메시지 내용 공개(release of message contents) 등
+◈ 적극적 공격(능동적 공격)
+차단(interruption)
+변조(modification)
+위조(fabrication)
+신분 위장(masquerade)
+서비스 거부 공격(Dos)
+재전송 공격(replay attack) 등
+
+
 7. 분산반사 서비스 거부(DRDoS) 공격의 특징으로 가장
 옳지 않은 것은?
 1 TCP 프로토콜 및 라우팅 테이블 운영상의 취약성을
