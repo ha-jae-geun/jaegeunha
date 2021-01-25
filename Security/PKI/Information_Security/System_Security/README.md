@@ -262,6 +262,28 @@ Stack을 우회하는 것이 가능하다.
 
 ## [SAM](https://schmidtiana95.tistory.com/entry/%EC%8B%9C%EC%8A%A4%ED%85%9C1-1-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%9D%B8%EC%A6%9D-%EA%B3%BC%EC%A0%95)
 ```java
+11. 다음 중 윈도우 레지스트리 키가 아닌 것은 무엇인
+가?
+1 HKEY_CLASSES_ROOT
+2 HKEY_CURRENT_USER
+3 HKEY_MACHINE_SAM
+4 HKEY_USERS
+
+답 3
+3 SAM 파일은 윈도우 사용자 계정 정보와 관리자 비밀번호
+등을 가지고 있는 파일이다. SAM 파일에 대한 레지스트리
+정보는 ‘HKEY_LOCAL_MACHINE\SAM’에 들어있다.
+HKEY_LOCAL_MACHINE은 시스템에 있는 하드웨어, 소프트
+웨어 정보를 갖고 있다.
+<오답 체크> 1 HKEY_CLASSES_ROOT는 시스템에 등록된 파
+일 확장자와 그것을 열 때 사용할 어플리케이션에 대한 맵
+핑 정보 등을 갖고 있다.
+2 HKEY_CURRENT_USER는 현재 로그온되어 있는 사용자에
+대한 구성 정보(사용자 프로필)를 갖고 있다.
+4 HKEY_USERS는 시스템에 있는 모든 계정과 그룹에 관한
+정보를 저장하고 있다.
+
+
 10. 윈도우 파일 시스템 NTFS(New Technology File
 System)에 관한 다음 설명 중 가장 옳지 않은 것은
 무엇인가?
