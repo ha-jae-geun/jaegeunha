@@ -249,6 +249,22 @@ SYN패킷을 보낸 뒤 서버로부터 오는 SYN+ACK패킷을 무시하여,
 법이다.
 
 
+다음 중 취약점 점검 도구가 아닌 것은 무엇인가?
+1 SARA 2 NIKTO
+3 TCP WRAPPER 4 NESSUS
+
+답 3
+3 TCP WRAPPER(TCP 래퍼)는 호스트 기반 네트워킹 ACL(접
+근 제어 목록) 시스템으로서, 리눅스 또는 BSD 같은 운영
+체제의 인터넷 프로토콜 서버에서 네트워크 접근을 필터링
+하는 도구
+<오답 체크> 1 SARA(Security Auditor's Research Assistant)는
+SATAN에 기반을 둔 네트워크 보안 분석 도구
+2 NIKTO는 웹 서버 취약점에 대한 기본적인 점검을 하는 도
+구
+4 NESSUS는 네트워크 취약성 분석 도구
+
+
 문 12. ᄀ, ᄂ에 들어갈 네트워크 보안 공격을 바르게 연결
 한 것은?
 ( ᄀ )은(는) TCP 연결 설정을 위한 3-way handshaking
