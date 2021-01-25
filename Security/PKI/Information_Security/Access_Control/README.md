@@ -206,6 +206,38 @@ Control List)이다. 1 0개 2 1개
 bound를 설정하여 접근을 제어하는 것이다. ∘ 예를 들어, 핵무기와 관련된 임무를 수행하고 있는 사람은 이와 관련된
 상, 하위 정보로만 접근통제한다. 2, 3 MAC에 대한 설명이고, 4 Lattice-Based Model에
 대한 설명이다. 1
+
+
+5. 임의적 접근통제(DAC : Discretionary Access Control)
+에 관한 다음 설명 중 가장 옳지 않은 것은 무엇인가?
+1 객체(데이터)의 소유주에 의하여 접근권한 변경이 가
+능하다.
+2 일반적으로 ACL(Access Control List)을 통해서 이
+루어진다.
+3 민감도 레이블(Sensitivity Label)에 따라 접근을 허
+용할지 결정한다.
+4 ID기반 접근통제이다.
+
+답 3
+3 주체(사용자)의 객체(정보)에 대한 접근이 주체의 비밀 취
+급 인가 레이블(clearance label)과 각 객체에 부여된 민감
+도 레이블 (sensitivity label)에 따라 접근을 허용할지를 결
+정하는 방식은 강제적 접근 제어(MAC, Mandatory Access
+Control)이다.
+<오답 체크>
+1 임의적 접근 제어(DAC, Discretionary Access Control)는 정
+보의 소유자가 보안 등급을 결정하고 이에 대한 정보의 접
+근제어도 설정하는 모델이다.
+2 임의적 접근통제는 각 사용자와 객체의 접근 규칙을 정의
+해놓은 ACL이나 ACM을 통해 접근을 통제한다.
+• 접근가능 목록(CL, Capability List): 한 주체의 객체들에 대한
+접근 권한 명시
+• 접근통제 목록(ACL, Access Control List): 한 객체에 대한 주
+체들의 접근 권한 명시
+• 접근통제 매트릭스(ACM, Access Control Matrix): ACL과 CL의
+결합
+주체들과 객체들의 접근 권한 행렬(매트릭스)
+4 DAC는 사용자 기반, ID 기반 접근 통제이다.
 ```
 
 # [접근제어 모델](https://pracon.tistory.com/m/119)
