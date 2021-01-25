@@ -1,4 +1,16 @@
 # [ISMS-P](https://isms.kisa.or.kr/main/ispims/intro/)
+```java
+국내의 기관이나 기업이 정보 및 개인정보를 체계적으로 보
+호할 수 있도록 통합된 관리체계 인증제도는?
+1 PIPL-P
+2 ISMS-I
+3 PIMS-I
+4 ISMS-P
+4 ISMS-P 인증은 정보보호 및 개인정보보호를 위한 일련의
+조치와 활동이 인증기준에 적합함을 인터넷진흥원 또는 인증기관이 증명
+하는 제도이다. 기존 정보보호 관리체계(ISMS) 인증과 개인정보보호 관리
+체계(PIMS) 인증을 통합하여 2018년 11월 7일부터 시행되었다. 4
+```
 
 # [TCSEC](https://m.blog.naver.com/sujunghan726/220311505807)
 
