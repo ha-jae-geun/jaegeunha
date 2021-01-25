@@ -106,6 +106,36 @@ Program)
 
 # [TCSEC](https://m.blog.naver.com/sujunghan726/220311505807)
 ```java
+3. 다음에서 설명하는 컴퓨터 시스템의 평가 기준은?
+○ 컴퓨터 시스템의 보안성을 평가하기 위해 미국 정
+부의 표준으로 채택된 기준이다.
+○ Rainbow 시리즈라는 미 국방부 문서 중의 하나로
+오렌지 북(Orange Book)으로 불린다.
+○ 안전성과 신뢰성이 입증된 컴퓨터 시스템을 보급하
+기 위해 단계별 보안 평가 등급(D, C1, C2, B1,
+B2, B3, A1)을 분류하여 각 기관별 특성에 맞는 컴
+퓨터 시스템을 도입 및 운영하도록 권고하고 있다.
+1 TCSEC 2 CC
+3 CMVP 4 ITSEC
+
+답 1
+1 TCSEC(Trusted Computer System Evaluation Criteria)
+미국의 정보보호 시스템 평가 제도
+컴퓨터시스템의 구축과 평가 등에 관한 지속적인 연구 결과로 미
+국 국방부 내 NCSC(미국 컴퓨터 보안 센터) 주도하에 1983년에
+제정되었으며, 소위 ‘Orange Book’으로 불린다.
+보안 등급 분류: A1 - B3 - B2 - B1 - C2 - C1 - D
+<오답 체크> 2 CC(Common Criteria, 국제공통평가기준)
+국가마다 서로 다른 정보보호시스템 평가기준을 연동하고 평가결
+과를 상호인증하기 위해 제정된 평가기준
+보안 등급 분류: EAL7 ~ EAL1
+3 CMVP(Cryptographic Module Validation Program)
+미국과 캐나다에서 공동으로 개발한 암호화 모듈 검증 제도이다.
+4 ITSEC(Information Technology Security Evaluation Criteria)
+유럽의 정보보호 시스템 평가 제도
+보안 등급 분류: E6 ~ E1
+
+
 5. 보안 등급 평가 기준인 TCSEC(Trusted Computer
 System Evaluation Criteria)에 대한 설명으로 가장 옳
 은 것은?
