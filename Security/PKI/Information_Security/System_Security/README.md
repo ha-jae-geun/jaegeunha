@@ -141,6 +141,19 @@ rwxr-x-w-이 된다. 즉 user는 읽고, 쓰고, 실행이 가능하고, group�
 
 # 버퍼 오버플로우
 ```java
+3 strcpy()는 오버플로우 공격에 취약한 함수이다.
+그래서 오버플로우 공격에 대비해 strncpy()를 사용하길 권장한
+다.
+
+✠ 버퍼 오버플로우 공격에 취약한 함수
+strcpy(), strcat(), gets(), getw d(), scanf(), fscanf(), sscanf(),
+vscanf(), vsscanf(), realpath(), sprintf(), vsprintf(),
+gethostbyname() 등
+✠ 버퍼 오버플로우 공격에 안전한 함수
+strncpy(), strncat(), fgets(), fscanf(), vfscanf(), snprintf(),
+vsnprintf() 등
+
+
 버퍼 오버플로우(Buffer Overflow) 공격에 대한 대응으로 해
 당하지 않는 것은?
 1 안전한 함수 사용
