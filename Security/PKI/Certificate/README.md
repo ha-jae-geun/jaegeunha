@@ -1,3 +1,28 @@
+# 문제
+```java
+X.509 인증서(버전 3)의 확장(Extensions) 영역에 포함되지
+않는 항목은?
+1 인증서 정책(Certificate Policies)
+2 기관 키 식별자(Authority Key Identifier)
+3 키 용도(Key Usage)
+4 서명 알고리즘 식별자(Signature Algorithm Identifier)
+ 기본 영역
+∘ 버전(Version) ∘ 일련번호(Serial Number)
+
+∘ 알고리즘 식별자(Algorithm Identifier) 
+∘ 발행자(Issuer) ∘ 유효 개시시간(Validity From) ∘ 유효 만기시간(Validity To) ∘ 주체(Subject) 
+주체 공개키 정보(Subject Public-Key Information) ∘ 알고리즘(Algorithm) ∘ 서명(Signature)
+
+ 확장 영역
+∘ 키와 정책 정보(key and policy information) - 기관키 식별자(authority key identifier)
+- 사용자키 식별자(subject key identifier)
+- 키 사용(key usage) - 인증서 정책(certificate policies) ∘ 사용자와 발행자 속성(subject and issuer attribute) 
+- 사용자 대체 이름(subject alternative name) - 발급자 대체 이름(issuer alternative name) 
+∘ 인증 경로 제약조건(certification path constraints) - 기본 제한(basic constraints) 
+- 이름 제한(name constraints) - 정책 제한(policy constraints)
+4 서명 알고리즘 식별자는 기본 영역에 포함된다. 4
+```
+
 # [CRL LDAP(Certificate Revocation List)](https://rsec.kr/?p=386)
 * 기존에는 CRL (Cerficate Revocation List) 를 이용하여 인증서의 무결성 (Validation) 여부를 확인하였습니다. CRL이란 인증서 폐기 목록 입니다. 
 * 다시말해 현재 사용중인 인증서가 만료된건지 정상인지를 판단 할 수 있는 신뢰 할 수 있는 인증서 폐기목록이라는 말이지요.
