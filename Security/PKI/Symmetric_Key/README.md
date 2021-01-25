@@ -1,5 +1,20 @@
 # 문제
 ```java
+3. RFC 2104 인터넷 표준에서 정의한 메시지 인증
+코드를 생성하는 알고리즘은?
+1 Elliptic Curve Cryptography
+2 ElGamal
+3 RC4
+4 HMAC-SHA1
+
+답 4
+4 HMAC(Hash-based Message Authentication Code, 해시 기반
+메시지 인증 코드)
+해시값을 이용한 메시지 인증 코드로, 1997년 RFC2014로 작성
+되었다. 패딩 등을 이용하여 MAC보다 더 복잡하고, SHA1은
+SHA1의 알고리즘을 이용한다는 걸 의미한다.
+
+
 메시지 인증 코드(MAC: Message Authentication
 Code)가 제공하는 기능들로 짝지어진 것은?
 ᄀ. 부인 방지
