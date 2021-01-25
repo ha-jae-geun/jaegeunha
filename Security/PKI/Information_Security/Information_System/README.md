@@ -1,6 +1,28 @@
 
 # 문제
 ```java
+OECD 개인정보보호 8개 원칙 중 다음에서 설명하는 것은?
+보기
+개인정보 침해, 누설, 도용을 방지하기 위한 물리적⋅조직적 ⋅기술적인 안전조치를 확보해야 한다. 
+1 수집 제한의 원칙(Collection Limitation Principle)
+2 이용 제한의 원칙(Use Limitation Principle)
+3 정보 정확성의 원칙(Data Quality Principle)
+4 안전성 확보의 원칙(Security Safeguards Principle)
+
+ 개인정보보호에 관한 OECD 8원칙
+1 수집 제한의 법칙(Collection Limitation Principle) : 개인정보는 적법하
+고 공정한 방법을 통해 수집되어야 한다. 2 정보 정확성의 원칙(Data Quality Principle) : 이용 목적상 필요한 범위
+내에서 개인정보의 정확성, 완전성, 최신성이 확보되어야 한다. 3 목적 명시의 원칙(Purpose Specification Principle) : 개인정보는 수집
+과정에서 수집 목적을 명시하고, 명시된 목적에 적합하게 이용되어야
+한다. 4 이용 제한의 원칙(Security Limitation Principle) : 정보 주체의 동의가
+있거나, 법 규정이 있는 경우를 제외하고 목적 외로 이용되거나 공개될
+수 없다. 5 안전성 확보의 원칙(Security Safeguard Principle) : 개인정보의 침해, 누설, 도용 등을 방지하기 위한 물리적, 조직적, 기술적 안전 조치를 확
+보해야 한다. 6 공개의 원칙(Openness Principle) : 개인정보의 처리 및 보호를 위한
+정책 및 관리자에 대한 정보는 공개되어야 한다. 7 개인 참가의 원칙(Individual Participation Principle) : 정보 주체의 개
+인정보 열람/정정/삭제 청구권은 보장되어야 한다. 8 책임의 원칙(Accountability Principle) : 개인정보 관리자에게 원칙 준
+수 의무 및 책임을 부과해야 한다. 4 안전성 확보의 원칙에 대한 설명이다. 4
+
+
 1. 19.지방.9급
 정보통신망 등의 침해사고에 대응하기 위해 기업이나 기관
 의 업무 관할 지역 내에서 침해사고의 접수 및 처리 지원을
@@ -12,16 +34,22 @@
 ∘ 정보보호 최고 책임자(CISO, Chief Information Security Officer) : 조직
 내에서 보관하고 있는 모든 정보 자산에 대한 보호 업무를 총괄하는 최
 고 임원이다. 고객들에게 안전성과 신뢰성을 보장하기 위해 보안 정책과
-보안 체계 구축에 대한 계획을 수립하고 실행하는 역할을 한다. ∘ 개인정보 관리사(CPPG, Certified Privacy Protection General) : 개인
+보안 체계 구축에 대한 계획을 수립하고 실행하는 역할을 한다. 
+
+∘ 개인정보 관리사(CPPG, Certified Privacy Protection General) : 개인
 정보 보호 정책과 대처 방법론에 대한 지식이나 능력을 갖춘 사람. 개인
 정보 보호와 관련된 보안 정책의 수립, 기업 또는 기관의 개인 정보 보
 호의 이해, 개인 정보 취급자 관리, 관련 법규에 대한 지식이나 적용 같
 은 것에 대한 업무 능력을 보유한 사람으로서 해당 기관에서 주관하는
-자격시험에 응시하여 합격한 자를 말한다. ∘ 개인정보 보호책임자(개인정보보호 최고 책임자, CPO, Chief Privacy
+자격시험에 응시하여 합격한 자를 말한다. 
+
+∘ 개인정보 보호책임자(개인정보보호 최고 책임자, CPO, Chief Privacy
 Officer) : 개인정보를 안전하게 보호 관리하기 위해 개인정보 처리 업무
 를 총괄해서 관리하는 최고 책임자이다. 인터넷의 발달과 전산화로 인해
 보호·관리해야 하는 개인정보 양이 많아져 이를 담당하는 전문 부서
-및 책임자가 필요하게 되었다. 2 침해사고 대응팀(CERT, Computer Emergency Response
+및 책임자가 필요하게 되었다. 2
+
+침해사고 대응팀(CERT, Computer Emergency Response
 Team)은 인터넷의 보안에 관한 문제와 보고를 실시하는 공식적인 비상 대
 응팀. 일종의 파괴 프로그램인 웜(worm)으로부터 급습 사고가 있은 직후인
 1988년 11월에 미국국방부고등연구계획국(DARPA)에서 구성되었으며, 인터
