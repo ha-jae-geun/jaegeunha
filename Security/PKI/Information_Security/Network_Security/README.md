@@ -27,38 +27,6 @@ DRDoS 공격은 악성 봇을 감염시킬 필요가 없다.
 때문에, 공격자를 추적하기가 매우 어렵다.
 
 
-2009년 Moxie Marlinspike가 제안한 공격 방식이며,
-중간자 공격을 통해 사용자와 서버 사이의 HTTPS 통신
-을 HTTP로 변경해서 비밀번호 등을 탈취하는 공격 방식
-으로 가장 옳은 것은?
-1 SSL stripping
-2 BEAST attack
-3 CRIME attack
-4 Heartbleed
-
-답 1
-1 SSL stripping(SSL 스트리핑)
-공격 대상자와 서버가 최초 세션 연결할 때, 중간자 공격을 통해
-HTTPS 통신을 HTTP 통신으로 변경해 트래픽 내용을 훔쳐보는
-공격이다.
-공격 대상자가 서버에 접속을 요청하면, 서버는 HTTPS를 사용하
-는 웹페이지의 링크를 전송한다. 이 때 공격자가 중간에서 응답
-을 가로채어 HTTPS의 링크를 HTTP로 변경한 뒤 공격대상에게
-전송한다. 이렇게 함으로써 공격자는 공격대상과 HTTP 통신을
-맺고, 서버와는 HTTPS 통신을 맺어 중간에서 트래픽을 훔쳐볼
-수 있게 된다.
-<오답 체크> 2 BEAST(Browser Exploit Against SSL/TLS)
-SSL 3.0의 취약점을 공격하는 것으로, HTTPS에서의 세션 쿠키를
-해독하여 타깃의 세션을 하이재킹하는 공격이다.
-3 CRIME(Compression Ration Info-Leak Mass Exploitation)
-HTTPS 상에서 주고받는 데이터의 압축과정에서의 취약점을 이
-용하여 쿠키를 훔치는 공격이다.
-4 HeartBleed(하트블리드) 공격
-2014년 4월 OpenSSL 1.0.1 버전에서 발견된 매우 심각한 버그
-OpenSSL을 구성하고 있는 TLS/DTLS의 HeartBeat 확장규격에
-서 발견된 취약점으로, 해당 취약점을 이용하면 서버와 클라이언
-트 사이에 주고받는 정보들을 탈취할 수 있다.
-
 
 (가) DNS Spoofing(DNS 스푸핑)
 공격 대상자가 접속하려는 URL 주소 이름을 요청할 때, 거짓 IP
@@ -684,6 +652,70 @@ Association)은 양방향으로 통신하는 호스트 쌍에 하나만
 
 # SSL
 ```java
+2009년 Moxie Marlinspike가 제안한 공격 방식이며,
+중간자 공격을 통해 사용자와 서버 사이의 HTTPS 통신
+을 HTTP로 변경해서 비밀번호 등을 탈취하는 공격 방식
+으로 가장 옳은 것은?
+1 SSL stripping
+2 BEAST attack
+3 CRIME attack
+4 Heartbleed
+
+답 1
+1 SSL stripping(SSL 스트리핑)
+공격 대상자와 서버가 최초 세션 연결할 때, 중간자 공격을 통해
+HTTPS 통신을 HTTP 통신으로 변경해 트래픽 내용을 훔쳐보는
+공격이다.
+공격 대상자가 서버에 접속을 요청하면, 서버는 HTTPS를 사용하
+는 웹페이지의 링크를 전송한다. 이 때 공격자가 중간에서 응답
+을 가로채어 HTTPS의 링크를 HTTP로 변경한 뒤 공격대상에게
+전송한다. 이렇게 함으로써 공격자는 공격대상과 HTTP 통신을
+맺고, 서버와는 HTTPS 통신을 맺어 중간에서 트래픽을 훔쳐볼
+수 있게 된다.
+<오답 체크> 2 BEAST(Browser Exploit Against SSL/TLS)
+SSL 3.0의 취약점을 공격하는 것으로, HTTPS에서의 세션 쿠키를
+해독하여 타깃의 세션을 하이재킹하는 공격이다.
+3 CRIME(Compression Ration Info-Leak Mass Exploitation)
+HTTPS 상에서 주고받는 데이터의 압축과정에서의 취약점을 이
+용하여 쿠키를 훔치는 공격이다.
+4 HeartBleed(하트블리드) 공격
+2014년 4월 OpenSSL 1.0.1 버전에서 발견된 매우 심각한 버그
+OpenSSL을 구성하고 있는 TLS/DTLS의 HeartBeat 확장규격에
+서 발견된 취약점으로, 해당 취약점을 이용하면 서버와 클라이언
+트 사이에 주고받는 정보들을 탈취할 수 있다.
+
+
+1) Client Hello ( Client -> Server )
+자신이 사용할 SSL의 버전정보, Cipher suite list, 클라이언트 난
+수를 생성해서 보낸다
+2) Server Hello ( Client <- Server )
+암호화 방법을 선택하고 서버난수를 생성해서 보낸다
+3) Server Certificate ( Client <- Server )
+4) Server Key Exchange ( Client <- Server )
+클라이언트는 클라이언트와 서버의 난수를 각각 사용해
+PMS(Pre-Master Secret) 값을 생성한다
+PMS를 서버의 공개키로 암호화해서 서버에게 보내면 서버는 개
+인키를 사용해 해당 암호문을 복호화한다.
+5) Certificate Request ( Client <- Server )
+클라이언트에게 인증서를 요구한다.
+6) Server Hello Done ( Client <- Server )
+서버가 클라이언트에게 보낼 메시지를 모두 보냈음을 의미한다.
+7) Client Certificate ( Client -> Server )
+8) Certificate Verify ( Client -> Server )
+클라이언트가 인증서를 개인키로 암호화(전자서명)하여 전송하고
+서버는 클라이언트의 공개키를 사용하여 확인한다.
+해당 메시지를 통해서 서버는 클라이언트의 인증서의 공개키가
+유효한지 확인한 후 클라이언트 인증을 마친다
+9) Client Key Exchange ( Client -> Server )
+클라이언트는 PMS, Client 난수, Server 난수 세 값을 이용해 암
+호화 키와 메시지 인증 코드용 공유키를 생성한다
+10) Change Cipher Spec ( Client <-> Server )
+이후에 전송되는 모든 메시지는 서버와 협상된 알고리즘과 키를
+이용해 암호화하겠다고 서버에 알린다
+11) Finished ( Client <-> Server )
+클라이언트와 SSL서버간의 SSL 핸드쉐이크를 종료한다
+
+
 SSL(Secure Socket Layer) 프로토콜에 대한 설명으로 옳
 지 않은 것은?
 1 ChangeCipherSpec - Handshake 프로토콜에 의해 협
