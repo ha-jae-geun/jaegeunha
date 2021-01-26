@@ -1050,6 +1050,40 @@
 
 # OECD
 ```java
+13. 다음 설명에 해당하는 OECD 개인정보보호 8 원
+칙으로 옳은 것은?
+개인정보는 이용 목적상 필요한 범위 내에서 개인
+정보의 정확성, 완전성, 최신성이 확보되어야 한다.
+1 이용 제한의 원칙(Use Limitation Principle)
+2 정보 정확성의 원칙(Data Quality Principle)
+3 안전성 확보의 원칙(Security Safeguards Principle)
+4 목적 명시의 원칙(Purpose Specification Principle)
+
+답 2
+※ OECD 개인정보보호 8 원칙 ※
+1 수집 제한의 법칙(Collection Limitation Principle) : 개인정보
+는 적법하고 공정한 방법을 통해 수집되어야 한다.
+2 정보 정확성의 원칙(Data Quality Principle) : 이용 목적상
+필요한 범위 내에서 개인정보의 정확성, 완전성, 최신성이
+확보되어야 한다.
+3 목적 명시의 원칙(Purpose Specification Principle) : 개인정
+보는 수집 과정에서 수집 목적을 명시하고, 명시된 목적에
+적합하게 이용되어야 한다.
+4 이용 제한의 원칙(Use Limitation Principle) : 정보 주체의
+동의가 있거나, 법규정이 있는 경우를 제외하고 목적 외
+이용되거나 공개될 수 없다.
+5 안전성 확보의 원칙(Security Safeguard Principle) : 개인정
+보의 침해, 누설, 도용 등을 방지하기 위한 물리적, 조직적,
+기술적 안전 조치를 확보해야 한다.
+6 공개의 원칙(Openness Principle) : 개인정보의 처리 및 보
+호를 위한 정책 및 관리자에 대한 정보는 공개되어야 한다.
+7 개인 참가의 원칙(Individual Participation Principle) : 정보
+주체의 개인정보 열람/정정/삭제 청구권은 보장되어야 한
+다.
+8 책임의 원칙(Accountability Principle) : 개인정보 관리자에
+게 원칙 준수 의무 및 책임을 부과해야 한다.
+
+
 OECD 개인정보보안 8원칙에 포함되지 않는 것은
 무엇인가?
 1 이용제한의 원칙
