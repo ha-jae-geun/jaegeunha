@@ -622,6 +622,25 @@ Stack을 우회하는 것이 가능하다.
 
 ## [SAM](https://schmidtiana95.tistory.com/entry/%EC%8B%9C%EC%8A%A4%ED%85%9C1-1-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%9D%B8%EC%A6%9D-%EA%B3%BC%EC%A0%95)
 ```java
+다음에서 설명하는 윈도우 인증의 구성 요소로 가장 옳은 것
+은 무엇인가?
+보기
+­ 사용자의 계정과 패스워드가 일치하는 사용자에게 고유의
+SID(Security Identifier)를 부여한다. 
+­ SID에 기반을 두어 파일이나 디렉터리에 대한 접근의 허
+용 여부를 결정하고 이에 대한 감사 메시지를 생성한다. 
+
+1 LSA(Local Security Authority)
+2 SRM(Security Reference Monitor)
+3 SAM(Security Account Manager)
+4 SSH(Secure Shell)
+∘ SRM은 커널 모드에서 수행되며, 사용자나 프로세스가 어떤 객체를 열려
+고 시도하면 접근 권한을 확인한다. 2 SAM이 사용자의 계정과 패스워드의 일치 여부를 확인하
+여 SRM에 알리면, SRM은 사용자에게 SID(Security Identifier)를 부여한
+다. 또한 SRM은 SID에 기반하여 파일이나 디렉터리에 대한 접근(access)
+을 허용할지를 결정하고, 이에 대한 감사 메시지를 생성한다. 2
+
+
 11. 다음 중 윈도우 레지스트리 키가 아닌 것은 무엇인
 가?
 1 HKEY_CLASSES_ROOT
