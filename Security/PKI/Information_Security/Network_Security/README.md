@@ -1156,6 +1156,24 @@ FTP(File Transfer Protocol)에 대한 설명으로 옳지 않
 FTPS, SSH 프로토콜과 결합한 SFTP를 사용한다.
 
 
+문 17. SSH(Secure SHell)를 구성하고 있는 프로토콜 스
+택으로 옳지 않은 것은?
+1 SSH User Authentication Protocol
+2 SSH Session Layer Protocol
+3 SSH Connection Protocol
+4 SSH Transport Layer Protocol
+
+답 2
+※ SSH 프로토콜 스택구조
+SSH 응용 프로토콜 : TELNET,RLOGIN,SMTP 등
+SSH 인증 프로토콜(User Authentication Protocol) : 사용자 인
+증(User Authentication) 제공
+SSH 연결 프로토콜(Connection Protocol) : 1 개의 암호화된 터
+널을 통해 다수개의 논리채널 다중화
+SSH 전송 프로토콜(Transport Layer Protocol) : 인증, 기밀성,
+무결성, 압축(옵션) 제공
+
+
 27. FTP(File Transfer Protocol)에 관한 다음 설명 중 가
 장 옳지 않은 것은 무엇인가?
 1 네트워크에서 컴퓨터 간 파일 송.수신을 위한 프로
