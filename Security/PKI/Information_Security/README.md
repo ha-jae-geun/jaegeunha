@@ -1,3 +1,5 @@
+# [이론](https://hack-gogumang.tistory.com/category/%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8/%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%EB%A1%A0%28%EB%B0%95%EC%8A%B9%EC%B2%A0%29)
+
 # 업무 연속성
 ```java
 업무연속성(BCP)에 대한 설명으로 옳지 않은 것은?
