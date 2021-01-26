@@ -40,6 +40,24 @@ Gb mod P 값이다. a와 b는 상대방에게 전송하지 않고 본인만 알
 
 # [RSA 암호 키 계산](https://www.google.com/search?q=%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4%EC%9D%98+%EC%96%B4%EB%A0%A4%EC%9B%80%EC%9D%84+%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C+%ED%95%9C+RSA+%EC%95%94%ED%98%B8+%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%97%90+%EC%84%9C+%EA%B0%9C%EC%9D%B8%ED%82%A4+d%EB%8A%94+7%2C+%ED%95%A9%EC%84%B1%EC%88%98+n%EC%9D%80+33%2C+%ED%8F%89%EB%AC%B8+%EA%B0%92%EC%9D%B4+5%EC%9D%BC+%EB%95%8C%2C+%EC%9D%B4%EB%A5%BC+%EC%95%94%ED%98%B8%ED%99%94%ED%95%9C+%EC%95%94%ED%98%B8%EB%AC%B8%EC%9D%98+%EA%B0%92%EC%9C%BC%EB%A1%9C+%EA%B0%80%EC%9E%A5+%EC%A0%81%EC%A0%88%ED%95%9C+%EA%B2%83%EC%9D%80%3F&rlz=1C1OKWM_koKR924KR924&oq=%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4%EC%9D%98+%EC%96%B4%EB%A0%A4%EC%9B%80%EC%9D%84+%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C+%ED%95%9C+RSA+%EC%95%94%ED%98%B8+%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%97%90+%EC%84%9C+%EA%B0%9C%EC%9D%B8%ED%82%A4+d%EB%8A%94+7%2C+%ED%95%A9%EC%84%B1%EC%88%98+n%EC%9D%80+33%2C+%ED%8F%89%EB%AC%B8+%EA%B0%92%EC%9D%B4+5%EC%9D%BC+%EB%95%8C%2C+%EC%9D%B4%EB%A5%BC+%EC%95%94%ED%98%B8%ED%99%94%ED%95%9C+%EC%95%94%ED%98%B8%EB%AC%B8%EC%9D%98+%EA%B0%92%EC%9C%BC%EB%A1%9C+%EA%B0%80%EC%9E%A5+%EC%A0%81%EC%A0%88%ED%95%9C+%EA%B2%83%EC%9D%80%3F&aqs=chrome..69i57.395j0j7&sourceid=chrome&ie=UTF-8)
 ```java
+문 10. 정보보호 시스템에서 사용된 보안 알고리즘 구
+현 과정에서 곱셈에 대한 역원이 사용된다. 잉여류
+Z26에서 법(modular) 26 에 대한 7 의 곱셈의 역원으
+로 옳은 것은?
+1 11 2 13
+3 15 4 17
+
+답 3
+곱셈에 대한 역원 구하는 법은
+7xa mod 26 ≡ 1 이 되는 a를 찾으면 된다.
+26 x 1 + 1 = 26 + 1 = 27
+26 x 2 + 1 = 52 + 1 = 53
+26 x 3 + 1 = 78 + 1 = 79
+26 x 4 + 1 = 104 + 1 = 105(7 의 15 배수)
+7 x 15 mod 26 ≡ 1
+∴ 26 에 대한 7 의 곱셈의 역원은 15 이다.
+
+
 n = p × q 일 때,
 오일러의 Totient 함수는 Φ(n) = ( p – 1 ) × ( q – 1 ) 가 된다.
 따라서 Φ(n)은 ( 11 – 1 ) × ( 13 – 1 ) = 120 이다.
