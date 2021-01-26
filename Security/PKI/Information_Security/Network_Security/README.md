@@ -428,6 +428,31 @@ SYN패킷을 보낸 뒤 서버로부터 오는 SYN+ACK패킷을 무시하여,
 법이다.
 
 
+문 11. 서비스 거부 공격 방법이 아닌 것은?
+1 ARP spoofing 2 Smurf
+3 SYN flooding 4 UDP flooding
+
+답 1
+1 ARP spoofing(ARP 스푸핑)
+공격자가 자신의 MAC 주소를 공격 대상의 MAC 주소로 바꾸어
+마치 자신이 공격 대상인 척 속이는 공격으로, 공격 대상자로 보
+내지는 패킷을 가로채 스니핑을 하는 것이 목적이다.
+시스템 자원을 고갈시켜 정상적으로 이용하지 못하게 만드는 서
+비스 거부 공격(DoS, Denial of Service)과는 상관없다.
+<오답 체크> 2 Smurf(ICMP flooding)
+공격대상 호스트의 IP주소로 위장된 소스 IP주소의 ICMP Echo
+메시지를 브로드캐스트함으로써, 공격대상이 많은 양의 ICMP
+Echo 응답 패킷을 받아 시스템의 자원이 고갈되도록 만드는 공
+격이다.
+3 SYN Flooding(SYN 플러딩)
+TCP 3-way hancshaking을 이용한 DoS공격
+공격 대상 서버에 무수히 많은 SYN패킷을 보낸 뒤, 서버로부터
+오는 SYN+ACK패킷을 무시하여, 서버가 SYN Received 상태로
+끊임없이 기다리게 만드는 공격방법이다.
+4 UDP Flooding(Trinoo)
+UDP 패킷을 이용한 DoS 공격
+
+
 2. 다음 중 성격이 다른 공격 유형은?
 1 Session Hijacking Attack
 2 Targa Attack
