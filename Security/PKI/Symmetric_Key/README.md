@@ -302,6 +302,54 @@ and Technology)에 의해 공표.
 체와 다음 블록의 대응하는 비트에 에러가 발생한다.
 
 
+[암호학] ECB, CBC, CFB, OFB, CTR 모드 차이
+First written by caliber50 on 2016. 3. 6. 01:11
+
+
+ 
+□ ECB(Electronic Code Book) : 전자 장비를 이용한(=Electronic) 암호화 방식(=Code book)
+
+○ 암호화(En) : En(P[i])
+
+○ 복호화(De) : De(C[i])
+
+
+
+□ CTR(CounTeR) : 카운터(=Counter)가 암호화됨
+
+○ 암호화(En→XOR) : XOR(En(CTR[i]), P[i])
+
+○ 복호화(En→XOR) : XOR(En(CTR[i]), C[i])
+
+
+
+□ CBC(Cipher Block Chaining) : 암호문(=Cipher block)이 다음 단계 평문과 XOR(=Chaining)됨
+
+○ 암호화(XOR→En) : En(XOR(P[i], C[i-1]))
+
+○ 복호화(De→XOR) : XOR(De(C[i]), C[i-1])
+
+
+
+□ CFB(Cipher FeedBack) : 암호문(=Cipher)이 다음 단계 암호알고리즘의 입력(=Feedback)이 됨
+
+○ 암호화(En→XOR) : XOR(En(C[i-1]), P[i])
+
+○ 복호화(En→XOR) : XOR(En(C[i-1]), C[i])
+
+
+
+□ OFB(Output FeedBack) : 암호 알고리즘의 결과(=Output)는 다음 암호알고리즘의 입력(=Feedback)이 됨
+
+○ 암호화(En→XOR) : XOR(En(IV)[i], P[i])
+
+○ 복호화(En→XOR) : XOR(En(IV)[i], C[i])
+
+
+
+출처: https://infosecguide.tistory.com/58 [정보보안 지침서]
+
+
 11. 20.국가.9급
 NIST의 AES(Advanced Encryption Standard) 표준에 따
 른 암호화 시 암호키(cipher key) 길이가 256비트일 때 필
