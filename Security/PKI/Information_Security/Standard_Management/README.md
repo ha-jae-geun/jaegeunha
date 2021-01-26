@@ -317,6 +317,38 @@ B2는 B1보다 높은 신뢰를 제공하고, C2는 C1보다 높은 신뢰를 �
 
 # CC
 ```java
+문 11. 보안 공격에 대한 설명으로 옳지 않은 것은? 11.
+공통평가기준(Common Criteria, CC)에 대한 설명 중
+옳지 않은 것은?
+1 보호프로파일(Protection Profile)과 보안목표명세서
+(Security Target) 중 제품군에 대한 요구사항 중심
+으로 기술되어 있는 것은 보안목표명세서(Security
+Target)이다.
+2 평가대상에는 EAL 1에서 EAL 7까지 보증등급을 부
+여할 수 있다.
+3 CC의 개발은 오렌지북이라는 기준서를 근간으로 하
+였다.
+4 CC의 요구사항은 class, family, component로 분류
+한다.
+
+답 1
+1 제품군에 대한 요구사항을 기술한 것은 보호프로파일(PP,
+Protection Profile)이다.
+보안목표명세서(ST, Security Target)은 특정 제품에 대한 보
+안 명세를 정의한 것이다. ST는 PP를 포함한다.
+<오답 체크> 4 CC에서는 보안 요구를 기능과 보증이라는 2
+개의 측면으로 나누어 정의한다.
+각 기능 및 보증 요구는 사용자로 하여금 원하는 보안 요
+구사항을 쉽게 활용할 수 있도록 class family component라
+는 형식의 계층적인 구조를 갖도록 정의되어 있다.
+보안 기능요구는 9개의 class, 76개의 family, 184개의
+component들로 구성
+보증요구는 전체가 7개의 class, 25개의 family, 72개의
+component들로 구성
+PP 및 ST 평가 그림 보안 평가 일반 모델 기준은 2개의
+class, 8개의 family, 8개의 component들로 구성
+
+
 ○ 평가보증등급(EAL)
 국제 공통평가기준(CC)에서 정의한 제품의 보증등급으로, EAL1에
 서 EAL7까지 7단계
