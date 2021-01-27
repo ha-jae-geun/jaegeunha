@@ -2766,6 +2766,25 @@ IPsec의 캡슐화 보안 페이로드(ESP) 헤더에서 암호화되는
 
 # vpn
 ```java
+문 11. 가상사설망에서 사용되는 프로토콜이 아닌 것은?
+1 L2F 2 PPTP
+3 TFTP 4 L2TP
+
+답 3
+계층별 보안 프로토콜
+PPTP - 2 계층
+L2F - 2 계층
+L2TP - 2 계층
+IPSec - 3 계층
+SSL/TLS - 4 계층
+SOCKSv5 - 5 계층
+SSH(Secure Shell) - 7 계층(telnet 이나 FTP 를 암호화)
+3 TFTP(Trivial File Transfer Protocol, 간이 파일 전송 프로토콜)
+파일 전송 프로토콜인 FTP의 간단 버전으로, FTP는 TCP를
+사용하는 반면, TFTP는 UDP를 사용하여 인증 과정이 없어
+보안에 취약하다.
+
+
 20. 19.경간부
 가상사설망(VPN)에 대한 설명으로 가장 옳지 않은 것은 무
 엇인가?
