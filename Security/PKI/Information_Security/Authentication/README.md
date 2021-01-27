@@ -170,6 +170,51 @@ Transaction)에서는 상점이 카드 사용자의 계좌번호
 
 # otp
 ```java
+18. 다음 중 사용자 인증(user authentication)에 대한
+설명으로 옳은 것은?
+1 인터넷 뱅킹에 활용되는 OTP 단말(One Time
+Password Token)은 지식 기반 인증(authentication
+by what the entity knows)의 일종이다.
+2 패스워드에 대한 사전 공격(dictionary attack)을 막
+기 위해 전통적으로 salt가 사용되어 왔다.
+3 통장 비밀번호로 흔히 사용되는 4자리 PIN(Personal
+Identification Number)은 소유 기반 인증
+(authentication by what the entity has)의 일종이
+다.
+4 지식 기반 인증(authentication by what the entity
+knows)의 가장 큰 문제는 오인식(False Acceptance),
+오거부(False Rejection)가 존재한다는 것이다.
+5 건물 출입시 사용되는 ID 카드는 사람의 신체 또는
+행위 특성을 활용하는 바이오 인식(biometric
+verification)의 일종이다.
+
+답 2
+2 보통 사람들이 생각해내는 패스워드에는 일정한 패턴이 존재하는
+데, 이러한 특성을 이용해 미리 사용될 만한 패스워드 리스트를
+사전으로 만들어 놓은 뒤 하나씩 대입해가면서 공격을 사전 공격
+(Dictionary Attack)이라고 한다.
+사람이 정해놓은 일정한 패턴의 패스워드에, 패턴이 없는 무작위
+문자열인 솔트(salt)를 붙이면, 패턴이 제거되는 효과가 생겨 사
+전 공격에 대한 내성을 높일 수 있다.
+<오답 체크> 1 OTP 단말기(OTP 토큰)은 소지 기반 인증이다.
+3 비밀번호, PIN은 지식 기반 인증이다.
+4 오인식과 오거부가 존재하는 것은 생체 기반 인증이다.
+• FAR(False Acceptance Rate, 오인식률): 권한이 없는 사용자가
+인증에 성공할 확률
+• FRR(False Rejection Rate, 오거부율): 정당한 권한이 있는 사용
+자가 인증에 실패할 확률
+5 ID 카드는 소지 기반 인증이다.
+◈ 사용자 인증방법
+• 지식 기반 인증: 패스워드(password), 아이핀(i-pin), 주민등록번
+호, 패스프레이즈(passphrase) 등
+• 소지 기반 인증: 열쇠, 주민등록증, OTP 토큰(보안 토큰), 스마트
+카드 등
+• 생체 기반 인증: 지문, 홍채, 얼굴, 망막, 정맥 등
+• 행동 기반 인증: 음성, 서명 동작, 키보드 동작 등
+(행동 기반 인증을 생체 기반 인증에 포함하기도 하고, 별개로
+나누기도 한다.)
+
+
 13. 19.경간부
 일회용 패스워드(One Time Password)의 생성 및 인증 방
 식 중 시간 동기화 방식에 대한 설명으로 가장 옳지 않은 것
