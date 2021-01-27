@@ -1,5 +1,29 @@
 # 문제
 ```java
+문 2. 공개키기반구조(PKI)에서 관리나 보안상의 문제로
+폐기된 인증서들의 목록은?
+1 Online Certificate Status Protocol
+2 Secure Socket Layer
+3 Certificate Revocation List
+4 Certification Authority
+
+답 3
+3 Certificate Revocation Rist(CRL, 인증서 폐기 목록)
+CA(인증기관)이 발행
+• 인증서 취소 사유
+사용자 개인키가 노출되었거나 훼손된 경우
+CA 가 사용자를 더 이상 인증해줄 수 없는 경우
+CA 의 인증서가 노출되었거나 훼손된 경우
+1 Online Certificate Status Protocol(OCSP, 온라인 인증서 상
+태 프로토콜)
+공개키 인증서의 폐지나 효력 정지 상태를 실시간으로 검
+증할 수 있는 프로토콜
+2 Secure Socket Layer(SSL)
+인터넷 상에서 데이터를 안전하게 전송할 수 있도록 해주
+는 프로토콜이다.
+4 Certification Authority(CA, 인증기관)
+공개키 인증서와 인증서 폐기목록을 생성하고 발급
+
 
 다음 설명을 모두 만족하는 공개키 기반구조 (PKI)의
 구성요소는?
