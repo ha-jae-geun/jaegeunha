@@ -521,6 +521,24 @@ TCP 3-way hancshaking을 이용한 DoS공격
 UDP 패킷을 이용한 DoS 공격
 
 
+
+네트워크 스캐닝 기법 중 TCP 패킷에 FIN, PSH,
+URG 플래그를 설정해서 패킷을 전송하는 것은? (난
+
+이도:3)
+1 TCP SYN 스캐닝
+2 UDP 스캐닝
+3 NULL 스캐닝
+4 X-MAS tree 스캐닝
+
+4 NULL, XMAS 스캔 : NULL과 XMAS 패킷을 보내도
+같은 결과를 얻을 수 있다. NULL은 플래그(flag) 값을 설정하지 않
+고 보낸 패킷이고, XMAS는 ACK, FIN, RST, SYN, URG 플래그 모
+두를 설정하여 보낸 패킷이다.
+
+4
+
+
 2. 다음 중 성격이 다른 공격 유형은?
 1 Session Hijacking Attack
 2 Targa Attack
