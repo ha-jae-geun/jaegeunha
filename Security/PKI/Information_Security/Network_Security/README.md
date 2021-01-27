@@ -1797,19 +1797,6 @@ ftpusers 파일은 접속을 제한할 계정정보를 담고 있는 설정파�
 대한 설명이다. 1
 
 
-20. 19.경간부
-가상사설망(VPN)에 대한 설명으로 가장 옳지 않은 것은 무
-엇인가?
-1 공중 네트워크를 이용하여 사설 네트워크와 같은 효과를
-제공한다. 2 VPN에 사용되는 터널링(Tunneling)은 터미널이 형성되
-는 양 호스트 사이에 전송되는 패킷을 추가 헤더 값으로
-인캡슐화 하는 기술이다. 3 L2F(Layer2 Forwarding)는 PPTP(Point-to-Point
-Tunneling Protocol)와 L2TP(Layer2 Tunneling
-Protocol)를 결합한 방식이다. 4 VPN은 데이터 암호화, 접근제어 등의 보안 서비스를 제
-공한다. 3 L2TP(Layer2 Tunneling Protocol)는 시스코사에서 개발
-한 L2F(Layer2 Forwarding)와 MS사에서 개발한 PPTP(Point-to-Point
-Tunneling Protocol)를 결합한 방식이다. 3
-
 
 방화벽(Firewall)에 대한 다음 설명 중 옳지 않은 것은 모두
 몇 개인가?
@@ -2681,6 +2668,44 @@ IPsec의 캡슐화 보안 페이로드(ESP) 헤더에서 암호화되는
 
 1 ESP Header 포함된 SPI는 인증 영역에는 포함되지만, 암
 호화 영역에는 포함되지 않는다. 1
+
+```
+
+
+# vpn
+```java
+20. 19.경간부
+가상사설망(VPN)에 대한 설명으로 가장 옳지 않은 것은 무
+엇인가?
+1 공중 네트워크를 이용하여 사설 네트워크와 같은 효과를
+제공한다. 
+2 VPN에 사용되는 터널링(Tunneling)은 터미널이 형성되
+는 양 호스트 사이에 전송되는 패킷을 추가 헤더 값으로
+인캡슐화 하는 기술이다. 
+3 L2F(Layer2 Forwarding)는 PPTP(Point-to-Point
+Tunneling Protocol)와 L2TP(Layer2 Tunneling
+Protocol)를 결합한 방식이다.
+4 VPN은 데이터 암호화, 접근제어 등의 보안 서비스를 제
+공한다. 
+
+L2TP(Layer2 Tunneling Protocol)는 시스코사에서 개발
+한 L2F(Layer2 Forwarding)와 MS사에서 개발한 PPTP(Point-to-Point
+Tunneling Protocol)를 결합한 방식이다. 3
+
+
+
+16. 가설사설망(VPN)이 제공하는 보안 서비스에 해당하
+지 않는 것은?
+1 패킷 필터링 2 데이터 암호화
+3 접근제어 4 터널링
+
+답 1
+◈ 가상사설망(VPN, Virtual Private Network)은 공중망을 이용
+하여 사설망과 같은 효과를 얻기 위한 기술로서, 데이터
+암호화, 무결성, 접근 제어, 터널링, 인증 등의 보안 서비스
+를 제공한다.
+1 패킷 필터링(packet filtering) 서비스를 제공하는 건 침입
+차단 시스템, 방화벽(Firewall)이다.
 
 
 문 9. VPN의 터널링 기능을 제공하는 L2TP(Layer 2
