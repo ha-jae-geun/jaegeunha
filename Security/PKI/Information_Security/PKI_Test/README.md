@@ -147,6 +147,25 @@ in a Multi-vendor Environment) 프로젝트는 Kerberos의 기능을 확장하
 
 # IDS
 ```java
+침입 탐지 시스템(Intrusion Detection System)에
+대한 설명으로 옳지 않은 것은? (난이도:3)
+1 호스트 기반과 네트워크 기반으로 나눌 수 있다.
+2 침입 탐지 기법은 크게 오용 탐지(misuse detection) 기
+법과 이상 탐지(anomaly detection) 기법으로 나눌 수
+있다.
+3 데이터의 효과적인 필터링(filtering)과 축약(reduction)
+을 수행해야 한다.
+4 오용 탐지 기법에는 정량적인 분석과 통계적인 분석 등
+이 포함된다.
+
+- 7 - 7
+
+4 Anomaly detection은 사용자의 행동양식을 분석한
+후 정상적인 행동과 비교해 이상한 행동, 급격한 변화가 발견되면 불
+법침입으로 탐지하는 방법으로 정량적인 분석, 통계적 분석을 사용한다.
+4
+
+
 문 6. 침입탐지시스템(IDS)의 탐지 기법 중 하나인 비정
 상행위(anomaly) 탐지 기법의 설명으로 옳지 않은 것
 은?
