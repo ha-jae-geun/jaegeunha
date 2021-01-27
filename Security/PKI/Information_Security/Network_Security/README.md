@@ -1,5 +1,44 @@
 # 해킹
 ```java
+다음의 공격 유형과 그 대응 조치를 올바르게 연결
+한 것은? (난이도:4)
+
+- 6 -
+보기
+<공격유형>
+1. Sendmail Daemon에 대해 알려진 패턴의 원격 버퍼
+오버플로(Buffer Overflow) 공격
+2. 계정 도용(Account Theft)
+3. 해커가 임의로 파일을 삭제
+4. XSS(Cross Site Scripting)
+<대응조치>
+ᄀ. WAF(Web Application Firewall)
+ᄂ. OTP(One Time Password)
+ᄃ. IPS(Intrusion Prevention System)
+ᄅ. 디스크 포렌식(Disk Forensics)에 의한 자료 복원
+1 1 -ᄀ, 2 -ᄂ, 3-ᄅ, 4 -ᄃ
+2 1 -ᄃ, 2 -ᄂ, 3-ᄅ, 4 -ᄀ
+3 1 -ᄂ, 2 -ᄀ, 3-ᄅ, 4 -ᄃ
+4 1 -ᄃ, 2 -ᄀ, 3-ᄂ, 4 -ᄅ
+
+sendmail은 인터넷 전자 메일의 표준규약인 SMTP(Simple Mail
+Transfer Protocol) 프로토콜을 통해서 메일 서비스 기능을 한다.
+즉, sendmail은 메일 서버 간에 메일을 주고받는 역할을 한다.
+∘ 웹 방화벽 (Web firewall)은 웹 해킹을 방어하기 위한 웹 서버에
+특화된 방화벽. 일반 방화벽에서는 탐지하지 못하는 웹 관련 공격
+경로를 감시하고 공격이 웹 서버에 도달하기 전에 차단해 주는
+보안 솔루션이다.
+2 Sendmail Daemon에 대해 알려진 패턴의 원격 버
+퍼 오버플로(Buffer Overflow) 공격은 침입방지시스템으로 효율적으
+로 방어가 가능하고, 계정 도용(Account Theft)은 일회용 패스워드
+로 패스워드를 매번 변경함으로써 방어가 가능하고, 해커가 임의로
+파일을 삭제는 디스크 포렌식으로 자료 복원이 가능하며, XSS은 웹
+공격법으로 웹 방화벽이 효율적인 방어수단이다.
+
+2
+
+
+
 문 4. 시스템 침투를 위한 일반적인 해킹 과정 중 마지
 막 순서에 해당 하는 것은?
 1 공격
