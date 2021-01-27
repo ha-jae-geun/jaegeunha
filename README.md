@@ -50,6 +50,8 @@ https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html
 
 # [git tag](https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EA%B8%B0%EC%B4%88-%ED%83%9C%EA%B7%B8)
 2. 테그 원격에 넣기
+	* tag 없는지 확인
+	* git tag tag번호
 	* git push origin v1.5
 	* 한번에 여러 태그 넣기: git push origin --tags
 
