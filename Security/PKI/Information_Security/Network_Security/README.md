@@ -496,6 +496,27 @@ SYN패킷을 보낸 뒤 서버로부터 오는 SYN+ACK패킷을 무시하여,
 법이다.
 
 
+서비스 거부 공격(DoS: Denial of Service)에 대한
+설명으로 옳지 않은 것은? (난이도:2)
+1 Smurf 공격은 공격 대상의 IP 주소를 근원지로 대량의
+ICMP 응답 패킷을 전송하여, 서비스 거부를 유발시키는
+공격이다.
+2 Syn Flooding 공격은 TCP 3-Way Handshaking 과정
+에서 Half-Open 연결 시도가 가능하다는 취약성을 이
+용한 공격이다.
+3 Land 공격은 출발지와 목적지의 IP 주소를 상이하게 설
+정하여, IP 프로토콜 스택에 장애를 유발하는 공격이다.
+4 Ping of Death 공격은 비정상적인 ICMP 패킷을 전송하
+여, 시스템의 성능을 저하시키는 공격이다.
+
+- 8 -
+3 Land Attack은 공격자가 임의로 자신의 IP 어드레
+스와 포트를 대상 서버의 IP 어드레스 및 포트와 동일하게 하여 서
+버에 접속하는 공격방식이다.
+
+3
+
+
 문 11. 서비스 거부 공격 방법이 아닌 것은?
 1 ARP spoofing 2 Smurf
 3 SYN flooding 4 UDP flooding
