@@ -2610,6 +2610,30 @@ IP 주소와 포트 번호의 규칙을 통해서만 접속 제어만 수행하�
 
 # ipsec
 ```java
+문 7. IPSec 에서 두 컴퓨터 간의 보안 연결 설정을 위해
+사용되는 것은?
+1 Authentication Header
+2 Encapsulating Security Payload
+3 Internet Key Exchange
+4 Extensible Authentication Protocol
+
+답 3
+3 Internet Key Exchange(IKE, 인터넷 키 교환)
+세션키 교환 프로토콜
+RSA 와 디피 헬만 등의 공개키 기술을 기반으로, 암호화에
+사용할 세션키를 관리하고 SA(보안 연계)를 협의하기 위한
+프로토콜이다.
+1 Authentication Header(AH, 인증 헤더)
+메시지 인증을 무결성 제공
+2 Encapsulating Security Payload(ESP, 캡슐화 보안 페이로드)
+대칭키 암호화를 통해, 기밀성과 무결성과 선택적 인증
+제공
+4 Extensible Authentication Protocol
+복수의 인증 프로토콜을 캡슐화시킬 수 있게 하여, 다양한
+인증방식을 선택 가능하게 하는 범용의 인증 프레임워크로,
+무선 네트워크와 점대점 연결에 자주 사용된다.
+
+
 다음 중 IPsec에 대한 설명으로 옳지 않은 것은?
 1 IPsec은 network layer에서 동작한다.
 2 Tunnel mode에서는 기존 패킷 앞에 IPsec 헤더 정
