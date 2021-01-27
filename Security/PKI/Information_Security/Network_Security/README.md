@@ -2129,6 +2129,44 @@ SSL 프로토콜에 대한 설명으로 옳지 않은 것은?
 
 # 무선
 ```java
+다음 <보기>에서 설명하고 있는 무선네트워크의 보
+안 프로토콜은 무엇인가?
+< 보 기 >
+
+AP와 통신해야 할 클라이언트에 암호화키를 기본
+으로 등록해 두고 있다. 그러나 암호화키를 이용해
+128비트인 통신용 암호화키를 새로 생성하고, 이 암
+호화키를 10,000개 패킷마다 바꾼다. 기존보다 훨씬
+더 강화된 암호화 세션을 제공한다.
+1 WEP(Wired Equivalent Privacy)
+2 TKIP(Temporal Key Integrity Protocol)
+3 WPA-PSK(Wi-Fi Protected Access Pre Shared
+Key)
+4 EAP(Extensible Authentication Protocol)
+
+답 3
+3 WPA 방식: RC4-TKIP를 통한 암호화(암호키 주기적인 변경),
+EAP를 통한 사용자 인증
+48비트 길이의 초기벡터(IV) 사용
+WPA2 방식: AES-CCMP 사용, EAP를 통한 사용자 인증
+<오답 체크> 1 WEP 방식: 암호화를 위해 RC4 사용하며(암
+호키 계속 사용), 암호화와 인증에 동일한 키를 사용
+
+2 TKIP(Temporal Key Integrity Protocol, 임시 키 무결성 프로
+토콜)
+WPA와 WPA2에서 사용하는 키 관리 및 암호화 알고리즘
+중 하나이다. RC4 키 스트림 암호화 알고리즘에 보안성을
+강화하였다.
+일반적으로 WPA는 TKIP를 사용하고, WPA2는 AES(CCMP)
+를 사용한다고 말하는데, WPA와 WPA2 모두 TKIP와 AES를
+선택적으로 골라 사용할 수 있다.
+4 EAP(Extensible Authentication Protocol, 확장 가능 인증 프
+로토콜)
+복수의 인증 프로토콜을 캡슐화시킬 수 있게하여, 다양한
+인증방식을 선택가능케하는 범용의 인증 프레임워크
+WPA와 WPA2에서 인증을 위해 사용한다.
+
+
 18. 무선랜에서의 인증 방식에 대한 설명 중 옳지 않은
 것은?
 1 WPA 방식은 48비트 길이의 초기벡터(IV)를 사용한
