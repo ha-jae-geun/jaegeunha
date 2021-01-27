@@ -2129,6 +2129,28 @@ SSL 프로토콜에 대한 설명으로 옳지 않은 것은?
 
 # 무선
 ```java
+14. 무선랜을 보호하기 위한 기술이 아닌 것은?
+1 WiFi Protected Access Enterprise
+2 WiFi Rogue Access Points
+3 WiFi Protected Access
+4 Wired Equivalent Privacy
+
+답 2
+2 WiFi Rogue Access Points(불법 액세스 포인트)
+해커가 악의적인 목적을 가지고 정상적인 AP 인 척 설치한
+불법 액세스 포인트이다.
+1 WiFi Protected Access Enterprise(WPA Enterprise)
+무선랜 인증 및 암호화 기술인 WPA 의 기업 모드
+3 WiFi Protected Access(WPA)
+4 Wired Equivalent Privacy(WEP)
+WEP 방식: 암호화를 위해 RC4 사용하며(암호키 계속 사용),
+암호화와 인증에 동일한 키를 사용
+WPA 방식: RC4-TKIP 를 통한 암호화(암호키 주기적인 변경),
+EAP 를 통한 사용자 인증
+48 비트 길이의 초기벡터(IV) 사용
+WPA2 방식: AES-CCMP 사용, EAP 를 통한 사용자 인증
+
+
 다음 <보기>에서 설명하고 있는 무선네트워크의 보
 안 프로토콜은 무엇인가?
 < 보 기 >
