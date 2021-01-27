@@ -157,6 +157,27 @@ Gb mod P 값이다. a와 b는 상대방에게 전송하지 않고 본인만 알
 
 # [RSA 암호 키 계산](https://www.google.com/search?q=%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4%EC%9D%98+%EC%96%B4%EB%A0%A4%EC%9B%80%EC%9D%84+%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C+%ED%95%9C+RSA+%EC%95%94%ED%98%B8+%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%97%90+%EC%84%9C+%EA%B0%9C%EC%9D%B8%ED%82%A4+d%EB%8A%94+7%2C+%ED%95%A9%EC%84%B1%EC%88%98+n%EC%9D%80+33%2C+%ED%8F%89%EB%AC%B8+%EA%B0%92%EC%9D%B4+5%EC%9D%BC+%EB%95%8C%2C+%EC%9D%B4%EB%A5%BC+%EC%95%94%ED%98%B8%ED%99%94%ED%95%9C+%EC%95%94%ED%98%B8%EB%AC%B8%EC%9D%98+%EA%B0%92%EC%9C%BC%EB%A1%9C+%EA%B0%80%EC%9E%A5+%EC%A0%81%EC%A0%88%ED%95%9C+%EA%B2%83%EC%9D%80%3F&rlz=1C1OKWM_koKR924KR924&oq=%EC%86%8C%EC%9D%B8%EC%88%98%EB%B6%84%ED%95%B4%EC%9D%98+%EC%96%B4%EB%A0%A4%EC%9B%80%EC%9D%84+%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C+%ED%95%9C+RSA+%EC%95%94%ED%98%B8+%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%97%90+%EC%84%9C+%EA%B0%9C%EC%9D%B8%ED%82%A4+d%EB%8A%94+7%2C+%ED%95%A9%EC%84%B1%EC%88%98+n%EC%9D%80+33%2C+%ED%8F%89%EB%AC%B8+%EA%B0%92%EC%9D%B4+5%EC%9D%BC+%EB%95%8C%2C+%EC%9D%B4%EB%A5%BC+%EC%95%94%ED%98%B8%ED%99%94%ED%95%9C+%EC%95%94%ED%98%B8%EB%AC%B8%EC%9D%98+%EA%B0%92%EC%9C%BC%EB%A1%9C+%EA%B0%80%EC%9E%A5+%EC%A0%81%EC%A0%88%ED%95%9C+%EA%B2%83%EC%9D%80%3F&aqs=chrome..69i57.395j0j7&sourceid=chrome&ie=UTF-8)
 ```java
+13. 다음의 지문은 RSA 알고리즘의 키생성 적용 순서를
+설명한 것이다. ( )를 바르게 채운 것은?
+ᄀ. 두 개의 큰 소수, p와 q를 생성한다. (p ≠ q)
+ᄂ. 두 소수를 곱하여, n = p · q를 계산한다.
+ᄃ. ( 가 )을 계산한다.
+ᄅ. 1 < A < ∅(n)이면서 A, ∅(n)이 서로소가 되는 A
+를 선택한다. A · B 를 ∅(n)으로 나눈 나머지가 1
+임을 만족하는 B를 계산한다.
+ᄆ. 공개키로 ( 나 ), 개인키로 ( 다 )를 각각 이용한
+다.
+가 나 다
+1 ∅(n) = (p − 1)(q − 1) (n, A) (n, B)
+2 ∅(n) = (p + 1)(q + 1) (n, B) (n,A)
+3 ∅(n) = (p − 1)(q − 1) (n, B) (n,A)
+4 ∅(n) = (p + 1)(q + 1) (n, A) (n, B)
+
+답 1
+1 먼저 구한 A 를 암호화키로 이용하고, 나중에 구한 B 를 복
+호화키로 이용한다.
+
+
 문 4. RSA 암호 알고리즘에서 두 소수, p =17, q =23과 키 값 e =3을
 선택한 경우, 평문 m = 8에 대한 암호문 c로 옳은 것은? 1
 1 121 2 160
