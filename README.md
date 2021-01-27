@@ -54,6 +54,10 @@ https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html
 	* git tag tag번호
 	* git push origin v1.5
 	* 한번에 여러 태그 넣기: git push origin --tags
+* 태그 지우기
+	* git tag -d 3.2.14
+	* git push origin :3.2.14
+
 
 # [저장소 파일 삭제하기](https://seonkyukim.github.io/git-tutorial/git-rm/)
 
