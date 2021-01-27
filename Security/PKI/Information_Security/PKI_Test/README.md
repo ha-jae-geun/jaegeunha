@@ -169,6 +169,44 @@ in a Multi-vendor Environment) 프로젝트는 Kerberos의 기능을 확장하
 
 # IDS
 ```java
+17. IDS에 관한 다음의 설명 중 옳지 않은 것은?
+1 IDS를 이용하면 공격 시도를 사전에 차단할 수 있
+다.
+2 기존 공격의 패턴을 이용해 공격을 감지하기 위해
+signature 기반 감지 방식을 사용한다.
+3 알려지지 않았지만 비정상적인 공격 행위를 감지해
+서 경고하기 위해 anomaly 기반 감지 방식을 사용
+한다.
+4 DoS 공격, 패킷 조작 등의 공격을 감지하기 위해서
+는 network IDS를 사용한다.
+5 IDS는 방화벽과 상호보완적으로 사용될 수 있다.
+
+답 1
+1 IDS(Intrusion Detection System, 침입 탐지 시스템)는 침입을
+탐지만 할 뿐, 차단 작업은 수행하지 않는다.
+침입을 차단하는 건 IPS(Intrusion Preventing System, 침입 방
+지 시스템)이나 방화벽(Firewall)이다.
+<오답 체크> 2 오용 탐지(Misuse Detection)
+= 시그니처 기반(Signature Base)
+= 지식 기반(Knowledge Base)
+이미 발견되고 정립된 공격 패턴을 미리 입력해 두고 그에 해당
+하는 패턴을 탐지
+3 이상 탐지(Anomaly Detection IDS)
+= 행위 기반(Behavior)
+= 통계적 탐지(Statistical Detection)
+정상 패턴을 DB에 등록해두고, 정상에서 벗어나는 행위를 탐지
+알려지지 않은 공격인 제로 데이 공격(zero day attack) 탐지 가
+능
+4 NIDS(Network IDS, 네트워크 침입 탐지 시스템)
+네트워크 트래픽을 감시하여 서비스 거부 공격(DoS 공격), 포트
+스캔, 컴퓨터를 크랙하려는 시도 등과 같은 악의적인 동작들을
+탐지하는 IDS 시스템
+▶ HIDS(Host IDS, 호스트 기반 침입 탐지 시스템)
+네트워크 트래픽이 아닌, 컴퓨터 시스템의 동작이나 상태 등 컴
+퓨터 시스템의 내부를 감시하고 분석하는 데 더 중점을 두는
+IDS 시스템
+
+
 침입 탐지 시스템(Intrusion Detection System)에
 대한 설명으로 옳지 않은 것은? (난이도:3)
 1 호스트 기반과 네트워크 기반으로 나눌 수 있다.
