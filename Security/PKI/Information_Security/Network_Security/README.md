@@ -1265,6 +1265,31 @@ Persistent Cookie(영구 쿠키)는 사용자가 웹 사이트 방문했을
 나 파일을 지우는 기능을 수행할 수 없다. 2
 
 
+
+보안 프로토콜인 IPSec(IP Security)의 프로토콜 구조로 옳지
+않은 것은?
+1 Change Cipher Spec
+2 Encapsulating Security Payload
+3 Security Association
+4 Authentication Header
+
+∘ ESP(Encapsulation Security Payload) : 데이터 기밀성, 패킷 단위
+의 무결성, 데이터 원본 인증 및 Replay에 대한 보호(SPI 이용)를
+제공한다. AH와 비교해 ESP는 암호화를 제공한다는 점이 다르다.
+ESP의 암호화는 공유된 대칭키를 사용한다.
+∘ SA : IPSec은 공개키 암호화 방식을 사용한다. 통신 할 때 송⋅수신
+측은 공개키를 교환하고, 인증 및 암호화 알고리즘과 암호키에 대한
+정보를 교환해야 한다. 이러한 암호관련 프로파일(Profile)을 SA라고
+한다.
+∘ AH(Authentication Header) : AH는 IP 패킷에 대해서 무결성과 데
+이터 원본인증을 제공한다. 그리고 Replay에 대한 보호를 제공한다.
+1 Change Cipher Spec은 암호사양을 변경하는 SSL
+프로토콜이다.
+
+1
+<문제적중> 이론서 598p~599p, 수업시간에 여러 번 강조한 내용임.
+
+
 문 15. IPSec에 대한 설명으로 옳지 않은 것은?
 1 네트워크 계층에서 패킷에 대한 보안을 제공하기 위
 한 프로토콜이다.
