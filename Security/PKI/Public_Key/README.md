@@ -1,3 +1,26 @@
+# 공개키 종류
+```java
+소인수분해 문제의 어려움에 기초하여 큰 안전성
+을 가지는 전자 서명 알고리즘은?
+1 RSA 2 ElGamal
+3 KCDSA 4 ECDSA
+
+답 1
+• 비대칭키 암호(공개키 암호)
+RSA : 소인수분해
+Rabin : 소인수분해
+ElGamal : 이산대수
+ECC : 타원곡선 상의 이산대수
+Schnorr : 이산대수, ElGamal 에 기반, 짧은 키 길이
+DSA : 이산대수, Schnorr 의 응용
+DSS : 이산대수, 전자서명 전용
+ECDSA : 내부적으로 타원곡선
+Knapsack(배낭 문제) : 부분집합의 합을 구하는 문제
+(NP-complete 문제)
+KCDSA : 국산, 국내표준, 이산대수
+ECKDSA : 국산, 내부적으로 타원곡선, 소규모, 무선
+```
+
 # [디프 헬만](https://m.blog.naver.com/PostView.nhn?blogId=pgh7092&logNo=221146735104&proxyReferer=https:%2F%2Fwww.google.com%2F
 ```java
 10. 20.국가.9급
