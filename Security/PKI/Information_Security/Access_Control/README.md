@@ -288,6 +288,21 @@ Control List)이다. 1 0개 2 1개
 다. 라. DAC의 대표적인 구현 형태는 ACL이다. 2
 
 
+다음 설명에 해당하는 접근제어 정책은? (난이도:3)
+보기
+한 개체(entity)가 자신의 의지로 다른 개체의 자원에 접
+근할 수 있는 권한을 승인받을 수 있다.
+1 MAC(Mandatory Access Control)
+2 DAC(Discretionary Access Control)
+3 ACL(Access Control List)
+4 RBAC(Role Based Access Control)
+
+2 DAC은 중앙 집중화된 환경에서 제어되는 것이 아
+니며 MAC에서의 보다 정적인 역할에 비해 사용자에게 동적으로 정
+보에 접근할 수 있도록 해준다.(분산형 보안관리)
+
+
+
 문 2. 데이터 소유자가 다른 사용자의 식별자에 기초하
 여 자신의 의지대로 데이터에 대한 접근 권한을 부여
 하는 것은?
