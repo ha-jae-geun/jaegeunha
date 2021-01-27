@@ -1877,6 +1877,36 @@ TCP 순서번호를 추적하므로 순서번호를 이용한 세션 하이재�
 수신하는 현상을 갖는 DoS 공격의 사례이다.
 
 
+
+18. 다음 <보기>에서 설명하는 것은 무엇인가?
+< 보 기 >
+
+IP 데이터그램에서 제공하는 선택적 인증과 무결
+성, 기밀성 그리고 재전송 공격 방지 기능을 한다.
+터널 종단 간에 협상된 키와 암호화 알고리즘으로
+데이터그램을 암호화한다.
+1 AH(Authentication Header)
+2 ESP(Encapsulation Security Payload)
+3 MAC(Message Authentication Code)
+4 ISAKMP(Internet Security Association & Key
+Management Protocol)
+
+답 2
+2 ESP(Encapsulating Security Payload, 캡슐화 보안 페이로드)
+대칭키 암호화를 통해, 기밀성과 무결성과 선택적 인증 제
+공
+<오답 체크> 1 AH(Authentication Header, 인증 헤더)
+메시지 인증과 무결성 제공
+3 MAC(Message Authentication Code, 메시지 인증 코드)는
+대칭키를 사용하는 해시값으로, 무결성과 출처 인증(송신자
+에 대한 인증)이 가능하다.
+4 ISAKMP(Internet Security Association and Key Management
+Protocol)
+시스템 사이에 어느 암호화 알고리즘과 해시 알고리즘을
+사용할지 협상하고 키를 만든다.
+
+
+
 12. 20.국가.9급
 IPsec의 ESP(Encapsulating Security Payload)에 대한 설
 명으로 옳지 않은 것은?
