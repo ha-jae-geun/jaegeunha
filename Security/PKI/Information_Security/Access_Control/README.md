@@ -387,6 +387,33 @@ Control List)이다. 1 0개 2 1개
 다. 라. DAC의 대표적인 구현 형태는 ACL이다. 2
 
 
+문 19. 각 주체가 각 객체에 접근할 때마다 관리자에
+의해 사전에 규정된 규칙과 비교하여 그 규칙을 만족
+하는 주체에게만 접근 권한을 부여하는 기법은?
+1 Mandatory Access Control
+2 Discretionary Access Control
+3 Role Based Access Control
+4 Reference Monitor
+
+답 1
+1 Mandatory Access Control(MAC, 강제적 접근 제어)
+오직 관리자만이 객체과 자원들에 대한 접근 권한을 부여
+할 수 있다. 자원에 대한 접근은 주어진 보안레벨에 기반
+한다.
+관리자가 규칙을 작성하기 때문에 규칙 기반 접근 제어
+(Rule Based Access Control)이라고도 한다.
+2 Discretionary Access Control(DAC, 임의적 접근 제어)
+정보의 소유자가 보안 등급을 결정하고 이에 대한 정보의
+접근제어도 설정하는 모델이다.
+3 Role Based Access Control(RBAC, 역할 기반 접근 제어)
+정보에 대한 사용자의 접근을 개별적인 신분이 아니라 조
+직 내 개인 역할에 따라 허용 여부를 결정하는 모델이다.
+4 Reference Monitor(참조 모니터)
+모든 접근 요청이 지나쳐야하는 하나의 구간으로, 보안 커
+널 데이터베이스(SKDB)를 참조하여 객체에 대한 접근허가
+여부를 결정한다.
+
+
 다음 설명에 해당하는 접근제어 정책은? (난이도:3)
 보기
 한 개체(entity)가 자신의 의지로 다른 개체의 자원에 접
