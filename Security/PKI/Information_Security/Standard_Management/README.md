@@ -252,6 +252,24 @@ IT 프로세스와 이들의 관리를 위한 프레임워크이며 기존의
 
 # [ISMS-P](https://isms.kisa.or.kr/main/ispims/intro/)
 ```java
+문 10. ISO 27001의 ISMS(Information Security
+Management System) 요구사항에 대한 내용으로 옳
+지 않은 것은?
+1 자산 관리 : 정보 보호 관련 사건 및 취약점에 대한
+대응
+2 보안 정책 : 보안 정책, 지침, 절차의 문서화
+3 인력 자원 보안: 인력의 고용 전, 고용 중, 고용 만
+료 후 단계별 보안의 중요성 강조
+4 준거성 : 조직이 준수해야 할 정보 보호의 법적 요
+소
+
+답 1
+1 정보보호 관련 사건과 취약점에 대한 대응은 정보보호 사고 관
+리 영역에 대한 설명이다.
+자산 관리 영역은 조직의 자산을 파악하고 정보가 적절히 분류될
+수 있도록 보장하는 단계이다.
+
+
 정보보호 관리체계 인증 등에 관한 고시 에 의거한 정보보호
 관리체계(ISMS)에 대한 설명으로 옳지 않은 것은?
 1 정보보호관리과정은 정보보호정책 수립 및 범위설정, 경
@@ -531,26 +549,8 @@ System Evaluation Criteria)에 대한 설명으로 가장 옳
 ```
 
 
-# ISO 27001
+# [ISO 27001](https://m.blog.naver.com/PostView.nhn?blogId=chl9468&logNo=221268102158&proxyReferer=https:%2F%2Fwww.google.com%2F)
 ```java
-문 10. ISO 27001의 ISMS(Information Security
-Management System) 요구사항에 대한 내용으로 옳
-지 않은 것은?
-1 자산 관리 : 정보 보호 관련 사건 및 취약점에 대한
-대응
-2 보안 정책 : 보안 정책, 지침, 절차의 문서화
-3 인력 자원 보안: 인력의 고용 전, 고용 중, 고용 만
-료 후 단계별 보안의 중요성 강조
-4 준거성 : 조직이 준수해야 할 정보 보호의 법적 요
-소
-
-답 1
-1 정보보호 관련 사건과 취약점에 대한 대응은 정보보호 사고 관
-리 영역에 대한 설명이다.
-자산 관리 영역은 조직의 자산을 파악하고 정보가 적절히 분류될
-수 있도록 보장하는 단계이다.
-
-
 19. 다음 중 ISO 27001의 통제 영역별 주요 내용으로
 옳은 것은?
 1 정보보안 조직: 정보보호에 대한 경영진의 방향성
@@ -670,10 +670,20 @@ management
 ```java
 7. 20.국가.9급
 정보보호 시스템 평가 기준에 대한 설명으로 옳은 것은?
+
 1 ITSEC의 레인보우 시리즈에는 레드 북으로 불리는
-TNI(Trusted Network Interpretation)가 있다. 2 ITSEC은 None부터 B2까지의 평가 등급으로 나눈다. 3 TCSEC의 EAL2 등급은 기능시험 결과를 의미한다. 4 TCSEC의 같은 등급에서는 뒤에 붙는 숫자가 클수록 보
-안 수준이 높다.  TCSEC
-∘ TCSEC은 보증 수준을 계층적으로 나눈 분류 시스템을 제공한다. - A 검증된 보호(Verified protection) - B 강제적 보호(Mandatory protection) - C 임의적 보호(Discretionary protection) - D 최소 보호(Minimal security) ∘ 분류 A는 최고 수준의 보증을 나타내고, D는 최저 수준의 보증을 나타낸다. ∘ 각각의 분류 그룹은 시스템이 특정한 등급을 성취하기 위해 충족해야 하
+TNI(Trusted Network Interpretation)가 있다. 
+2 ITSEC은 None부터 B2까지의 평가 등급으로 나눈다. 
+3 TCSEC의 EAL2 등급은 기능시험 결과를 의미한다. 
+4 TCSEC의 같은 등급에서는 뒤에 붙는 숫자가 클수록 보안 수준이 높다. 
+
+ TCSEC
+∘ TCSEC은 보증 수준을 계층적으로 나눈 분류 시스템을 제공한다.
+- A 검증된 보호(Verified protection
+) - B 강제적 보호(Mandatory protection) 
+- C 임의적 보호(Discretionary protection) 
+- D 최소 보호(Minimal security) 
+∘ 분류 A는 최고 수준의 보증을 나타내고, D는 최저 수준의 보증을 나타낸다. ∘ 각각의 분류 그룹은 시스템이 특정한 등급을 성취하기 위해 충족해야 하
 는 관련된 요구사항을 가지는 숫자로 표기된 등급을 가진다. ∘ 보다 높은 숫자를 가진 등급이 더 훌륭한 신뢰와 보증을 제공한다. 따라서
 B2는 B1보다 높은 신뢰를 제공하고, C2는 C1보다 높은 신뢰를 제공한다. 1 ITSEC이 아닌 TCSEC의 레인보우 시리즈에는 레드 북으
 로 불리는 TNI(Trusted Network Interpretation)가 있다. 2 ITSEC은 E0부
