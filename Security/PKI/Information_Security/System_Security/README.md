@@ -177,6 +177,7 @@ wall이 있다.
 
 ## [리눅스 로그인 로그](https://pearlluck.tistory.com/105)
 ## [리눅스 wmp](https://pearlluck.tistory.com/123?category=856351)
+## [비밀번호 옵션](https://jhnyang.tistory.com/260)
 
 
 ## 문제
