@@ -825,4 +825,27 @@ SID에 기반하여 파일이나 디렉터리에 대한 접근(access)을 허용
 SAM, SRM이다. 보기는 각 구성 요소의 역할에 대한 설명이다. 1
 
 
+@ SAM (Security Account Manager)
+- 사용자/그룹 계정 정보에 대한 데이터베이스를 관리
+- 사용자의 로그인 입력 정보와 SAM 데이터베이스 정보를 비교하여 인증 여부를 결정하도록 해주는 것
+  (%systemroot%/system32/config/sam (열기는 불가능))
+- SAM 파일은 매우 중요하기 때문에 만일을 위하여 복사본이 존재
+  (%systemroot\repair (열기는 가능, 복사 가능))
+하지만 내컴퓨터에는 repair이라는 놈이 없는데... 뭐지... 
+
+
+ @ SRM (Security Reference Monitor)
+- SAM이 사용자의 계정과 패스워드가 일치하는지를 확인하여 SRM (Security Refenrnce Monitor)에게 알려주면,
+ SRM은 사용자에게 고유의 SID(Security Identifier)를 부여
+- SRM은 SID에 기반하여 파일이나 디렉토리에 접근(access)제어를 하게 되고, 이에 대한 감사 메시지를 생성
+- 실질적으로 SAM에서 인증을 거치고 나서 권한을 부여하는 모듈이라고 생각하면 된다. 
+
+
+@ LSA (Local security Authority)
+- 모든 계정의 로그인에 대한 검증
+- 시스템 자원 및 파일 등에 대한 접근 권한을 검사
+- SRM이 생성한 감사 로그를 기록하는 역할
+- 즉, NT 보안의 중심 요소, 보안 서브 시스템(Security subsystem)이라고 부르기도 함
+- lsass.exe 에서 관리 
+
 ```
