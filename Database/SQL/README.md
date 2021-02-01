@@ -114,24 +114,8 @@ wyear 에 대해서는 내림차순으로, 동일 근무연수에 대
 사용하는 관계대수 연산자 기호 는 프로젝트 연산자를, 는
 셀렉트 연산자를 나타낸다) 2
 
-
-<SQL 질의문>
-
-SELECT SNO, NAME
-FROM STUDENT
-WHERE AGE > 20;
-
-1 SNONAME
-AGE STUDENT
-
-2 SNONAME
-AGE STUDENT
-
-3 AGE SNONAME
-STUDENT
-
-4 AGE SNONAME
-STUDENT
+πname, dept σ(year =3 (student))
+나. SELECT name, dept FROM student WHERE year=3
 
 [해설]
 - 셀렉트(SELECT, σ) : 선택 조건을 만족하는 릴레이션의 수평적 부분
