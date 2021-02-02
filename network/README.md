@@ -22,6 +22,8 @@ connnection) 과정이 필요하다.
 # [네트워크 모델](https://www.youtube.com/watch?v=y9nlT52SAcg&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=2&t=0s)
 *   네트워크는 미리 정의된 규약인 프로토콜로 정보를 주고받는 하드웨어와 소프트웨어 기반의 시스템을 의미한다.
 
+# [패킷교환, 회선교환](http://www.jidum.com/jidums/view.do?jidumId=456)
+
 # 패킷
 * 패킷이란 네트워크 상에서 전달되는 데이터를 통칭하는 말
 * 네트워크엣 전달되는 데이터의 형식화된 블록이다
