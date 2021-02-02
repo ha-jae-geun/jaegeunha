@@ -168,7 +168,7 @@ Transaction)에서는 상점이 카드 사용자의 계좌번호
 받아 금융기관에 승인 및 결제를 요청한다.
 ```
 
-# otp
+# [OTP](https://eunguru.tistory.com/197)
 ```java
 18. 다음 중 사용자 인증(user authentication)에 대한
 설명으로 옳은 것은?
