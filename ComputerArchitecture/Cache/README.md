@@ -1,5 +1,7 @@
 # [캐싱 테코톡](https://www.youtube.com/watch?v=_0p72JJ9iM8)
 
+# [캐시 계산](https://eduon.com/itembank/itemlist/11/1569/)
+
 # 캐시 일관성
 ```java
 문 20. 캐시 기억장치에 대한 설명으로 옳지 않은 것은?
