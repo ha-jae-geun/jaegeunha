@@ -8,7 +8,13 @@ IGP(Interior Gateway Protocol)
 
 EGP(Exterior Gateway Protocol)
 ∙ AS(Autonomous System) 외부 라우터 상호간
-∙ EGP, BGP
+
+∙ EGP(Exterior Gateway Protocol)
+  다른 그룹과 라우팅 정보를 교환하는 프로토콜을 EGP 라고 합니다.
+
+ BGP(Border Gateway Protocol)
+ 경계 경로 프로토콜은 인터넷에서 주 경로 지정을 담당하는 프로토콜의 한 종류이다. 
+ 인터넷에서 자율 시스템 중 라우팅 및 도달 가능성 정보를 교환하기 위해 설계된, 표준화된 외부 게이트웨이 프로토콜의 하나이다.
 ```
 
 # 홉
