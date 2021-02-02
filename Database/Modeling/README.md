@@ -1,4 +1,6 @@
 # [데이터 모델링](http://blog.naver.com/PostView.nhn?blogId=qbxlvnf11&logNo=221225469375&parentCategoryNo=&categoryNo=34&viewDate=&isShowPopularPosts=false&from=postView)
+
+# [데이터 모델](https://dreamzelkova.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4%EC%9D%98-%EC%A2%85%EB%A5%98%EC%99%80-%EA%B5%AC%EC%A1%B0)
 ```java 
 데이터베이스 설계 단계에서 목표 DBMS에 맞는 스키마 설계와
 트랜잭션 인터페이스 설계에 대한 것은 어떤 단계에서 이루어지는가?  3번
