@@ -1,3 +1,5 @@
+# [0주소, 1주소](https://syundev.tistory.com/59)
+
 # [문제](http://blog.naver.com/PostView.nhn?blogId=gkenq&logNo=220984956244)
 ```java
 명령레지스터에 호출된 OP 코드를 해독하여 그 명령을 수행시키는데 필요한 각종 제어신호를 만들어 내는 장치는
