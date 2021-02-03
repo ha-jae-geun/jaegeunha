@@ -37,26 +37,26 @@ https://gmlwjd9405.github.io/2018/05/25/git-add-cancle.html
 # git branch
 1. 생성 :
 	* git branch [브랜치명]
-2. 생성 후 이동 :
+1-2. 생성 후 이동 :
 	* git checkout -b feature-01
-3. Git remote branch 생성
+2. Git remote branch 생성
 	* git push origin feature-01
-4. branch local remote 연동
+3. branch local remote 연동
 	* git branch --set-upstream-to origin/feature-01
-5. branch 삭제
+4. branch 삭제
 	* git granch -d 브랜치명
-6. 원격 branch 삭제
+5. 원격 branch 삭제
 	* git push origin :feature-01
 
 # [git tag](https://git-scm.com/book/ko/v2/Git%EC%9D%98-%EA%B8%B0%EC%B4%88-%ED%83%9C%EA%B7%B8)
-2. 테그 원격에 넣기
-	* tag 없는지 확인
-	* git tag tag번호
-	* git push origin v1.5
-	* 한번에 여러 태그 넣기: git push origin --tags
+* 테그 원격에 넣기
+	1. tag 없는지 확인
+	2. git tag tag번호
+	3. git push origin v1.5
+	4. 한번에 여러 태그 넣기: git push origin --tags
 * 태그 지우기
-	* git tag -d 3.2.14
-	* git push origin :3.2.14
+	1. git tag -d 3.2.14
+	2. git push origin :3.2.14
 
 
 # [저장소 파일 삭제하기](https://seonkyukim.github.io/git-tutorial/git-rm/)
