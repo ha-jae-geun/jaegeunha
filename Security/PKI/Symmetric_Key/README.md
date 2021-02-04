@@ -1,3 +1,5 @@
+# [대칭키 개념](https://arang99.tistory.com/5?category=660140)
+
 # [블록 모드](https://yjshin.tistory.com/entry/%EC%95%94%ED%98%B8%ED%95%99-%ED%98%84%EB%8C%80-%EB%8C%80%EC%B9%AD%ED%82%A4-%EC%95%94%ED%98%B8%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%95%94%ED%98%B8%ED%99%94-%EA%B8%B0%EB%B2%95-ECB-CBC-CFB-OFB-CTR-%EB%AA%A8%EB%93%9C)
 
 # 문제
