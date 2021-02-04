@@ -1,3 +1,4 @@
+# [위험 정의](https://arang99.tistory.com/1?category=660140)
 # [위험](https://raisonde.tistory.com/entry/%EC%9C%84%ED%97%98Risk%EA%B3%BC-%EC%9C%84%ED%97%98-%EB%B6%84%EC%84%9DRisk-Analysis-%EC%9C%84%ED%97%98-%EA%B4%80%EB%A6%ACRisk-Management)
 ```java
 문 13. 조직의 정보자산을 보호하기 위하여 정보자산에
