@@ -1,3 +1,5 @@
+# [공개키 개념](https://arang99.tistory.com/6?category=660140)
+
 # set
 ```java
 8. SET(Secure Electronic Transaction)의 설명으로 옳은
