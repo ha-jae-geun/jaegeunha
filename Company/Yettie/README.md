@@ -126,3 +126,4 @@
 * [에듀운 컴기](https://eduon.com/itembank/subjectlist/11)
 * [공철 정보보호론](https://0gichul.com/y2019/13068330)
 * [계산 문제](https://devsungyeon.github.io/9level_computerbasic/Level9-computerbasic-y2019/)
+* [LRU 페이지 부재](https://m.blog.naver.com/PostView.nhn?blogId=xowns4817&logNo=221226671491&proxyReferer=https:%2F%2Fwww.google.com%2F)
