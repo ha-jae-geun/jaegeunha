@@ -1,3 +1,5 @@
+# [개념](https://parksunny.tistory.com/15?category=860754)
+
 # 문제
 ```java
 
