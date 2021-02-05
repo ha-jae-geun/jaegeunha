@@ -1,6 +1,6 @@
 # [유적지](https://parksunny.tistory.com/15)
 # [총정리](https://parksunny.tistory.com/291?category=860754)
-
+# [인물](https://parksunny.tistory.com/113?category=860754)
 
 
 # [공무원 한국사] 설민석 – 공무원 한국사 암기 비법 특강
