@@ -153,7 +153,7 @@
  * 무령왕(무령왕릉, @령22): 일본에서 태어남, 
     * 왕권광화위해 22담로
     * 중국 일본과 교류(무령왕릉 중국식 벽돌무덤)
-    * 양직공도(중국와의 교류 증거)
+    * [양직공도(중국와의 교류 증거)](https://www.google.com/search?ie=UTF-8&client=ms-android-samsung-ss&source=android-browser&q=%EC%96%91%EC%A7%81%EA%B3%B5%EB%8F%84)
  * 성왕(6세기, 22부 마련(담로가 아님)
   * @성에서 (사비)(@ㅂㅂ 부여)로 (남부)럽지않게 사치스럽게 (지불노리)를 하다가 (22)인치 (관)에 들어가셨다
   * 사비 천도
@@ -208,15 +208,15 @@
      * 시장을 감독하는 관청인 동시전을 신설하였다.
      * 순장 금지
 * 법흥왕(@ㅂㅂ)
-  * @불.금.에 신나게 놀다가 골.병.들어 건.강이 상.했다
+  * @법없이 불.금.에 신나게 놀다가 골.병.들어 건.강이 상.했다
   * 불교 수용
   * 금관가야 복속
   * 골품제 정비
   * 병부 설치
   * 연호 건원
   * 상대등 임명
- * 율령 반포
- * 17관등제
+  * 율령 반포
+  * 17관등제
 * 진흥왕(ㅎㅎ) 6세기
   * 화랑도 개편
   * 불교 교단 정단
@@ -226,9 +226,11 @@
   * 관산성에서 백제 성왕 죽이고 배신
   * 연호 개국
   * 국학설치
-* 선덕여왕(@선덕 황자장 대갈통)
+
+* 선덕여왕(@덕선이 황자장 대갈통)
   * 국왕(선덕여왕)에게 황룡사 9층탑 건립을 건의했다는 내용을 통해 이
 를 알 수 있다.
+  * [황룡사](https://m.blog.naver.com/PostView.nhn?blogId=hyung9624&logNo=220911604745&proxyReferer=https:%2F%2Fwww.google.com%2F)
   * 선덕여왕은 당나라에서 귀국한 자장을 대국통에 임명하여 승니의 모든 규범을 위임하여 주관하게 하였다
 ```java
 신인(神人)이 말하기를, “황룡사의 호법룡은 나의 아들로서 
@@ -253,13 +255,17 @@
 ② 미륵사지 석탑에 대한 설명이다. 
 ③ 분황사 모전 석탑에 대한 설명이다
 ```
+* [승탑](https://www.google.com/search?ie=UTF-8&client=ms-android-samsung-ss&source=android-browser&q=%EC%8A%B9%ED%83%91)
+* [미륵사지 석탑](https://www.google.com/search?client=ms-android-samsung-ss&source=android-browser&sxsrf=ALeKk00HL2ciT87dtmhKWZwqJMP4UDg4Pw%3A1612486374002&ei=5ZYcYN7BPNGC-QaRvpqgDA&q=%EB%AF%B8%EB%A5%B5%EC%82%AC%EC%A7%80+%EC%84%9D%ED%83%91&oq=%EB%AF%B8%EB%A5%B5%EC%82%AC%EC%A7%80+%EC%84%9D%ED%83%91&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAMyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMgIIADoECAAQRzoECCMQJzoHCAAQFBCHAjoECAAQQ1C5G1j5IGDfIWgAcAF4AIABkAGIAY8GkgEDMC42mAEAoAEByAEIwAEB&sclient=mobile-gws-wiz-serp)
+* [분황사 모전 석탑](https://www.google.com/search?client=ms-android-samsung-ss&source=android-browser&sxsrf=ALeKk01eYf91Ou-9cXFuQnISkLrfTZXN1Q%3A1612486380040&ei=7JYcYID9AYi7wAOpiKrQDw&q=%EB%B6%84%ED%99%A9%EC%82%AC+%EB%AA%A8%EC%A0%84%EC%84%9D%ED%83%91&oq=%EB%B6%90%ED%99%A9%EC%82%AC+%E3%85%81&gs_lcp=ChNtb2JpbGUtZ3dzLXdpei1zZXJwEAEYADIECAAQDTIECAAQDTIECAAQDTIECAAQDTIHCCEQChCgATIHCCEQChCgATIHCCEQChCgAToHCCMQ6gIQJzoNCAAQsQMQgwEQRhD7AToFCAAQsQM6AggAOggIABCxAxCDAToECAAQClDpkgJYkZ4CYPWnAmgCcAB4AIABmgGIAcQLkgEEMC4xMZgBAKABAbABD8ABAQ&sclient=mobile-gws-wiz-serp)
 
 * 진덕여왕
   * @진드기처럼 당이랑 친해지려고 달라붙음
   * 당나라에게 아부떨려고 의원태평송
 
 ## 문화재
- * #단양 신라 적성비 #진흥왕 순수비
+ * #단양 신라 적성비 
+ * [진흥왕 순수비](https://ko.m.wikipedia.org/wiki/%EB%B6%81%ED%95%9C%EC%82%B0_%EC%8B%A0%EB%9D%BC_%EC%A7%84%ED%9D%A5%EC%99%95_%EC%88%9C%EC%88%98%EB%B9%84)
 
 ## 신라와 당
 * 대야성 전투 패배 이후 고구려가 도움요청 거절하자 당에게 도움요청(대동강 이북 주는 조건)
@@ -270,7 +276,13 @@
 # 가야
 * 이 나라는 삼한의 종족이며, 지금의 고령에 있었다. 건원 원년
 (479)에 그 국왕 하지(荷知)는 사신을 보내 남제에 공물을 바쳤다. 
-남제에서는 국왕 하지에게 “보국장군 본국왕”을 제수하였다. ① 관산성 전투에서 국왕이 전사하였다. ② 울릉도를 정복해서 영토로 편입하였다. ③ 호남 동부 지역까지 세력을 확장하였다. ④ 신라를 도와 낙동강 유역에 진출한 왜를 격파하였다. 9. 대가야의 이해 답 ③
+남제에서는 국왕 하지에게 “보국장군 본국왕”을 제수하였다. 
+① 관산성 전투에서 국왕이 전사하였다. 
+② 울릉도를 정복해서 영토로 편입하였다. 
+③ 호남 동부 지역까지 세력을 확장하였다. 
+④ 신라를 도와 낙동강 유역에 진출한 왜를 격파하였다.
+
+ 9. 대가야의 이해 답 ③
 <정답 찾기> 밑줄 친 ‘이 나라’는 고령의 대가야이다.
 ③ 합천 옥전․번계제 고분군, 산청 중촌리 고분군, 함양 산백리․
 백천리 고분군, 남원 월산리 고분군, 장수 삼고리 고분군 등에서 출
@@ -279,7 +291,8 @@
 산되었음을 유추할 수 있다.
 * 진목항아리와 받침대 ->영향 미침: #스에키 토기(일본)
 * 대가야(고령), 금관가야(김해); 금관가야 -> 대가야
-* 임나일본부설: 일본이 4-6세기 동안가야 일대를 지배했다는 주장 <> 가야에서 일본보다 더 나은 갑옷, 마구, 토기가 발견되었다.
+* 임나일본부설: 일본이 4-6세기 동안가야 일대를 지배했다는 주장 
+  * <> 가야에서 일본보다 더 나은 갑옷, 마구, 토기가 발견되었다.
 
 ## 전기 가야
  * ㆍ성립: 3세기경 김해 금관가야 중심
@@ -316,7 +329,7 @@
 * #조선술; #축제술
 
 ## 불교
-* 고구려는 소수림왕때 전진, 백제는 침류왕때 동진, 신라는 법흥왕때 고구려로부터
+* 고구려는 소수림왕때 전진(@고전), 백제는 침류왕때 동진, 신라는 법흥왕때 고구려로부터
 * 왕즉불 사상(왕이 부처다), 호국적 성격
 * 미륵불사상
 ## 백제가 왜에 노리사치계(6c) -> 불교(@사치다)
