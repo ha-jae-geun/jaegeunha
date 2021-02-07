@@ -30,6 +30,28 @@
 
 ```
 
+# 양계
+# [쌍설총괄부](https://www.google.com/search?q=%EC%8C%8D%EC%84%B1%EC%B4%9D%EA%B4%84%EB%B6%80&tbm=isch&ved=2ahUKEwiw8OGzk9fuAhXLEKYKHbfaBa8Q2-cCegQIABAB&oq=%EC%8C%8D%EC%84%B1%EC%B4%9D%EA%B4%84%EB%B6%80&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzIECAAQDTIECAAQDTIECAAQDTIECAAQDTIICAAQDRAFEB46BAgjECdQuRtYsiNg6CRoAHAAeACAAYkBiAH2BJIBAzAuNZgBAKABAcABAQ&sclient=mobile-gws-wiz-img&ei=aYkfYPCXCMuhmAW3tZf4Cg&bih=626&biw=360&client=ms-android-samsung-ss&prmd=minv)
+```java
+문 4. 다음은 고려 시대의 지방 행정 구역을 나타낸 지도 이
+다. (가) 지역에 대한 설명으로 잘못된 것은?
+① 중앙에서 병마사가 파견되었다. 
+② 군사적 요충지에 진이 설치되었다. 
+③ 묘청 등이 풍수지리설을 내세워 난을 일으켰다. 
+④ 공민왕이 무력으로 공격하여 원으로부터 되찾았다. 
+
+정답 ④
+해설 고려 양계 중 북계(평안도)
+주어진 (가)는 고려의 양계 중 북계이다. 고려는 현종 때 지
+방행정조직을 5도 양계로 정비하고 5도에는 안찰사, 양계에는 
+병마사를 파견하였다. 양계의 군사적 요충지에는 진이 설치되
+었다. 이 지역은 서경은 묘청이 천도운동을 단행한 장소이다. 
+
+④ 공민왕이 무력으로 공격하여 원으로부터 되
+찾은 지역은 화주이북지역인 쌍성총괄부이다.
+
+```
+
 # 나주
 * 강조의 정변을 구실로 삼아 거란이 고려를 침입하였고, 이때 개경이 함락되어 고려의 현종은 
 나주로 피신하였다.
