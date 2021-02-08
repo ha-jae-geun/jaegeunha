@@ -16,6 +16,9 @@
 
 
 
+# 주의
+* [패턴의 종류](https://github.com/ha-jae-geun/jaegeunha/tree/master/Architecture)
+
 
 # 불리언
 * [불리언](https://github.com/ha-jae-geun/jaegeunha/tree/master/Boolean)
