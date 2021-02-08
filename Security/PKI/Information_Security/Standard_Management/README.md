@@ -478,20 +478,20 @@ Program)
 < TCSEC 보안 등급 >
 • A1 Verified Design(검증된 보호)
 수학적으로 완벽한 시스템
-• B3 Security Domains(보안 영역)
+• B3 Security Domains(보안 영역)  @백비삼
 운영체제에서 보안에 불필요한 부분을 모두 제거
 모듈에 따른 분석 및 테스트가 가능
 시스템 파일 및 디렉터리에 대한 접근 방식을 지정하고,
 위험 동작을 하는 사용자의 활동에 대해서는 백업까지 자
 동으로 이루어짐
-• B2 Structured Protection(계층 구조화된 정보보호)
+• B2 Structured Protection(계층 구조화된 정보보호) @구비이
 시스템에 정형화된 보안 정책이 존재
 일부 유닉스 시스템이 B2 인증에 성공
-• B1 Labeled Security(레이블된 정보보호)
+• B1 Labeled Security(레이블된 정보보호)  @일비레
 시스템 내의 보안 정책을 적용할 수 있으며 각 데이터에
 대해 보안 레벨 설정이 가능
 시스템 파일이나 시스템에 대한 권한을 설정
-• C2 Controlled Access Protection(통제된 접근보호)
+• C2 Controlled Access Protection(통제된 접근보호) @시이로
 각 계정별 로그인이 가능하며 그룹 ID 에 따라 통제가 가
 능한 시스템
 보안 감사가 가능하며 특정 사용자의 접근을 거부할 수 있
@@ -499,7 +499,7 @@ Program)
 윈도우 NT 4.0 과 현재 사용되는 대부분의 유닉스 시스템이
 이 등급에 해당
 상용 프로그램을 위한 최소한의 요구 등급
-• C1 Discretionary Security Protection(임의적 접근보호)
+• C1 Discretionary Security Protection(임의적 접근보호) @특시일
 일반적인 로그인 과정이 존재하는 시스템.
 사용자간 침범이 차단되어 있고 모든 사용자가 자신이 생
 성한 파일에 대해 권한을 설정할 수 있으며, 특정 파일에
