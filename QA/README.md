@@ -1,4 +1,5 @@
 # [테스트 종류](https://m.blog.naver.com/tjdus25/221661896783)
+# [테스트 종류2](https://osb0728.tistory.com/27)
 
 # 문제
 ```java
