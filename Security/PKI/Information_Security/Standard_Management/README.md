@@ -741,10 +741,10 @@ B2는 B1보다 높은 신뢰를 제공하고, C2는 C1보다 높은 신뢰를 �
 3 운영(operation)
 4 지원(support)
 [해설]
-- 성과평가(performance evaluation) : Check에 해당
-- 개선(improvement) : Act에 해당
-- 운영(operation) : Do에 해당
-- 지원(support) : Plan에 해당
+- 성과평가(performance evaluation) : Check에 해당 (@체크섬)
+- 개선(improvement) : Act에 해당 @(액괴)
+- 운영(operation) : Do에 해당 (@운도)
+- 지원(support) : Plan에 해당 (@지플랜)
 
 
 
