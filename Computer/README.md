@@ -1,3 +1,5 @@
+# [컴퓨터 고르기](https://www.youtube.com/watch?v=_lW4Oc1AElU&list=PLLcbGhhl4sQDOYzzB8eNB7m0IdVffIyLM&index=5)
+
 # 컴퓨터의 발전
 ```java
 문 5. 10 진수 -11 을 5 비트 2 진수로 표현한 것은? (단,
