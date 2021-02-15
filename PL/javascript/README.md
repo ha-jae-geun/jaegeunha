@@ -1,6 +1,5 @@
 # [자바스크립트](https://developer.mozilla.org/ko/)
 # [caniuse](https://caniuse.com/)
-# [ECMA 호환 테이블](http://kangax.github.io/compat-table/es6/)
 # [zerocho](https://www.zerocho.com/category/JavaScript?page=1)
 
 # 'user strict';
@@ -16,17 +15,6 @@
 	* 라이브러리의 특성을 갖는다.
 * Angular: 구글에서 Typescript라는 자바스크립트를 보완한 언어로 안정적이고 탄탄한 앱을 만들 수 있다. 대신 상대적으로 무겁고 배우기 어렵다. 
 	* 프레임워크의 특성이 뚜렸하다
-
-
-## [ES6](https://sanghaklee.tistory.com/54)
-```java
-ECMAScript5는 2009.12에 나왔다. 
-
-지금은 2017년이고 ECMAScript8이 가장 최신 버전이다. 
-그럼에도, 아직 많은 JavaScript 문법은 ES5로 코딩되고 있다. 
-ES6 이상으로 넘어가기 위한 몇 가지 걸림돌이 있다.
-
-```
 
 
 
