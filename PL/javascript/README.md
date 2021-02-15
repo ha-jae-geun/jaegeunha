@@ -18,7 +18,7 @@
 	* 프레임워크의 특성이 뚜렸하다
 
 
-## ES6
+## [ES6](https://sanghaklee.tistory.com/54)
 ```java
 ECMAScript5는 2009.12에 나왔다. 
 
@@ -26,7 +26,6 @@ ECMAScript5는 2009.12에 나왔다.
 그럼에도, 아직 많은 JavaScript 문법은 ES5로 코딩되고 있다. 
 ES6 이상으로 넘어가기 위한 몇 가지 걸림돌이 있다.
 
-출처: https://sanghaklee.tistory.com/54 [이상학의 개발블로그]
 ```
 
 
