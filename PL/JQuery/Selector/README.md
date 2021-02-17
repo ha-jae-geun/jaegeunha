@@ -1,3 +1,5 @@
+# [Zerocho selector](https://www.zerocho.com/category/jQuery/post/57a9a371e4bc011500624ba3)
+
 # each
 ```javascript
             $('.pastidAgreeList>li>a').each(function(){
