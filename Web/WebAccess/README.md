@@ -61,3 +61,28 @@ a 태그들에게 tabindex="-1"을 설정해주지 않는다면 탭 키를 통�
 
 # tabindex
 * 프로그램 밖으로 tab 벗어나지 않게 적용
+
+
+# tab, shiftTab
+```javascript
+document.getElementById("confirm").addEventListener('keydown', function (key) {
+    if (key.shiftKey && key.keyCode == 9) {
+        elepwd.focus();
+        key.preventDefault();
+    }
+        
+    if (!(key.shiftKey) && key.keyCode == 9) {
+        header_bar.focus();
+        key.preventDefault();
+    }
+});
+
+document.getElementById("ly_header0").addEventListener('keydown', function (key) {
+    if (key.shiftKey && key.keyCode == 9) {
+        confirmButton.focus();
+        key.preventDefault();
+    }
+});
+```
+
+
