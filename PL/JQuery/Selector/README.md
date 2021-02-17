@@ -58,3 +58,41 @@
                 });
             });
 ```
+
+
+# find
+```javascript
+        $(".certificationList>li>a").each(function(){
+            var a = $(this);
+            var img = a.find("img");
+            var src_off = img.attr("src");
+            var src_on = src_off.replace("_off", "_on");
+            a.hover(function(){
+                img.attr("src", src_on);
+                $(this).addClass("listHover");
+
+            },function(){
+                if(!($(this).hasClass("listClick"))){
+                    img.attr("src", src_off);
+                }
+                $(this).removeClass("listHover");
+            });
+
+            a.click(function(){
+                $(".certificationList>li>a").each(function(){
+                    var b = $(this);
+                    var img2 = b.find("img");
+                    var src_off2 = img2.attr("src");
+                    var src_replace = src_off2.replace("_on", "_off");
+
+                    img2.attr("src", src_replace);
+                    $(this).removeClass("listClick");
+                });
+                var selectedImage = $(this).find("img");
+                var onImage = selectedImage.attr("src").replace("_off", "_on");
+                selectedImage.attr("src", onImage);
+                $(this).addClass("listClick");
+
+            });
+        });
+```
