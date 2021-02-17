@@ -19,6 +19,9 @@ connnection) 과정이 필요하다.
 알 수 있다.
 ```
 
+# [광섬유](https://youtu.be/_5_DJcAKis4)
+
+
 # [네트워크 모델](https://www.youtube.com/watch?v=y9nlT52SAcg&list=PL0d8NnikouEWcF1jJueLdjRIC4HsUlULi&index=2&t=0s)
 *   네트워크는 미리 정의된 규약인 프로토콜로 정보를 주고받는 하드웨어와 소프트웨어 기반의 시스템을 의미한다.
 
