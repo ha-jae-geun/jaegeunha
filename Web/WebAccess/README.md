@@ -14,6 +14,31 @@
 * iframe에 title 삽입
 
 
+# Select
+```javascript
+(안1) 레이블을 제거해 주세요.
+
+<select id="bb" name="bb" title="옵션 선택(제목,내용)">
+<option value="title" selected=selected>제목</option>
+<option value="desc" >내용</option>
+</select>
+<input type="text" name="cc" title="검색내용을 입력해주세요" onkeydown="ddd()" value=""/>
+<a href="#a" onclickXXX="eee()"><img src="/imag/img.gif" alt="검색" /></a>
+
+
+
+(안2) 명시적인 레이블을 주시고, 필요에 따라 레이블을 숨겨 주세요.
+
+<label for="bb">옵션 선택(제목, 내용)</label>
+<select id="bb" name="bb">
+<option value="title" selected=selected>제목</option>
+<option value="desc" >내용</option>
+</select>
+<label for="cc">검색어</label>
+<input type="text" id="cc" onkeydown="ddd()" value=""/>
+<a href="#a" onclickXXX="eee()"><img src="/imag/img.gif" alt="검색" /></a>
+```
+
 # input
 * Input에 label/title 삽입
 * 기본적으로  키보드 탭 키로 이동이 가능한 대상
