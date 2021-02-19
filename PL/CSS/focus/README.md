@@ -4,7 +4,16 @@
 ```
 
 
-# focus in/out
+# javascript
+```javascript
+                    _passwordTag[i].addEventListener('focus', function(evt) {
+                        evt.target.blur();
+                        yettie.onKeypad('vikie');
+                        showVikie(evt, this);
+                    });
+```
+
+# JQuery focus in/out 
 ```javascript
             $('#' + leftTabName).focusin(function() {
                 $(this).css({
