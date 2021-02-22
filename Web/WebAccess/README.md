@@ -90,6 +90,8 @@ a 태그들에게 tabindex="-1"을 설정해주지 않는다면 탭 키를 통�
 
 # tab, shiftTab
 ```javascript
+jquery 안에서 this 바뀌는것 조심
+
 document.getElementById("confirm").addEventListener('keydown', function (key) {
     if (key.shiftKey && key.keyCode == 9) {
         elepwd.focus();
