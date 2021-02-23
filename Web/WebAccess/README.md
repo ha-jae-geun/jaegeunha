@@ -11,6 +11,7 @@
 
 ## [센스리더](https://nuli.navercorp.com/community/article/1081603?email=true)
 
+## [센스리더 설정](https://consumer.kiwoom.com/nkw.templateFrameSet.do?m=m1504010000)
 
 # iframe
 * iframe에 title 삽입
