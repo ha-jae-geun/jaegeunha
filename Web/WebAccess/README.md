@@ -9,6 +9,8 @@
 * aos : 보이스어시스턴스
 * ios ; 보이스오버 
 
+## [센스리더 다운로드](http://www.xvtech.com/)
+
 ## [센스리더](https://nuli.navercorp.com/community/article/1081603?email=true)
 
 ## [센스리더 설정](https://consumer.kiwoom.com/nkw.templateFrameSet.do?m=m1504010000)
