@@ -42,3 +42,27 @@
   }
 }
 ```
+
+# jsdoc config 2
+```javascript
+{
+  "plugins": ["node_modules/jsdoc/plugins/markdown"], // Markdown을 사용하기 위해 플러그인을 추가합니다.
+  "recurseDepth": 10, // -r 명령 행 플래그로 재귀가 사용 가능한 경우 JSDoc은 10 레벨 깊이의 파일을 검색합니다.
+  "source": {
+    "include": ["./"], // ./ 이하 js, jsx, jsdoc을 대상으로 합니다.
+    "includePattern": ".+\\.js(x|doc)?$", // js, jsx, jsdoc 이라는 확장자를 가진 것을 Docs로 변환합니다.
+    "excludePattern": "(^|\\/|\\\\)_" // 밑줄로 시작하거나 밑줄로 시작하는 디렉토리에있는 모든 파일은 무시됩니다.
+  },
+  "sourceType": "module", // ES 2015를 지원하기 위해 적용
+  "tags": {
+    "allowUnknownTags": true // JSDoc이 알 수 없는 태그를 지원하도록 설정
+  },
+  "opts": {
+    "encoding": "utf8", // Docs에서 한글을 사용할 수 있도록 설정
+    "destination": "./docs", // 기존에 생성되던 out이라는 폴더를 docs라는 폴더로 생성
+    "readme": "README.md", // README.md를 추가
+    "template": "node_modules/better-docs"
+  }
+}
+
+```
