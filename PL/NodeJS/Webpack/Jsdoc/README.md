@@ -32,7 +32,7 @@
     "cleverLinks": false,
     "monospaceLinks": false,
     "default": {
-      "outputSourceFiles": false
+      "outputSourceFiles": false // view source 없앰
     }
   },
   "opts": {
@@ -64,5 +64,29 @@
     "template": "node_modules/better-docs"
   }
 }
+
+{
+	"plugins": ["node_modules/jsdoc/plugins/markdown"],
+	"recurseDepth": 10, 
+	"source": {
+		"include": ["./src"],
+		"exclude": ["./src/index.js", "./src/jsrose_crypto.min.js"]
+	},
+	"sourceType": "module", 
+	"tags": {
+	  "allowUnknownTags": true 
+	},
+	"opts": {
+	  "encoding": "utf8", 
+	  "destination": "./doc",
+	  "readme": "README.md",
+	  "template": "node_modules/better-docs"
+	},
+	"templates": {
+	  "default": {
+	  	"outputSourceFiles": false
+	  }
+	}
+  }
 
 ```
