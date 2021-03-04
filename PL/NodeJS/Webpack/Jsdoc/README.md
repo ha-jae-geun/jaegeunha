@@ -9,7 +9,8 @@
 
 # [JSDoc 사용 document](https://docs.w3cub.com/jsdoc/tags-class)
 
-
+# JSDoc 생성 명령어
+* ./node_modules/.bin/jsdoc -c ./jsdoc.config.json
 
 # jsdoc config
 ```javascript
