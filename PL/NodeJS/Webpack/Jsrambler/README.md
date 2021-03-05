@@ -1,5 +1,14 @@
 # [document](https://www.npmjs.com/package/jscrambler-webpack-plugin?activeTab=readme)
 
+# webpack config
+```javascript
+        new JscramblerWebpack({
+            enable: true, 
+            params: [], 
+            applicationTypes: {}
+        }),
+```
+
 # config
 * .jscramblerrc
 
