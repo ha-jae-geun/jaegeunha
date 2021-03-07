@@ -1,5 +1,7 @@
 # [블록체인 기술이 꿈꾸는 거래 시스템](https://www.youtube.com/watch?v=W-ZARauLKc8&list=PLJPjg3It2DXQUdlAocHh5FASozqwtJavv&index=120)
 
+# [노마드 블록체인](https://youtu.be/Ca7Meu4z-F4)
+
 # 온톨로지
 
 
