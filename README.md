@@ -3,6 +3,8 @@
 
 # [깃 이그노어](https://www.toptal.com/developers/gitignore)
 
+# [깃 rm](https://gmlwjd9405.github.io/2018/05/17/git-delete-incorrect-files.html)
+
 # git add/commit 취소
 ```java
 // [방법 1] commit을 취소하고 해당 파일들은 staged 상태로 워킹 디렉터리에 보존
