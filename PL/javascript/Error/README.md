@@ -27,9 +27,7 @@
 
 ## errorLang
 ```javascript
-/**
- * Created by nori on 2016. 1. 14..
- */
+
 (function (window, vest, undefined) {
     'use strict';
 
@@ -45,13 +43,9 @@
 
     var language = [
         {
-            // Hibiscus ErrorCode
-            // ChangePin.js
             SERVICE_ERROR_CHANGE_PIN_INVALID_JSON_DATA: "入力した値は正しくありません。",
         },
         {
-            // Hibiscus ErrorCode
-            // ChangePin.js
             SERVICE_ERROR_CHANGE_PIN_INVALID_JSON_DATA: "输入无效"
         }
     ];
@@ -84,4 +78,30 @@
         vest.error.getErrorMessage = getErrorMessage;
     }
 })(window, vest);
+```
+
+## error_code
+```javascript
+
+(function (window, vest, undefined) {
+    'use strict';
+
+
+    var errorCode = {
+        SERVICE_ERROR_CHANGE_PIN_INVALID_JSON_DATA: 3101000,
+
+    };
+
+    if (vest) {
+        vest.error.errorCode = vest.error.errorCode || (vest.error.errorCode = {});
+        vest.extend(vest.error, {
+            'errorCode': errorCode
+        });
+    }
+})(window, vest);
+```
+
+## 사용법
+```javascript
+util.refactoryMsg.convertMsg(error)
 ```
