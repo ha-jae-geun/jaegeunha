@@ -42,6 +42,13 @@
         // plain = [];
         // plain.push(plain2);
         // plain.push(plain3);
+        
+        // // 0-11. 혼합
+        // plain = [];
+        // var test = {"test": "1234567890123", "test1": "test", "test2": "10000"};
+        // plain.push("string");
+        // plain.push(test);
+        // plain.push(true);
 
         // 1. String(VestSign: 그대로 사용, Fincert: 1. JSON.parse 2. exception => binary)
         // plain = "test";
