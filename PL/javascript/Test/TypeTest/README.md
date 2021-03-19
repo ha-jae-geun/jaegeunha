@@ -1,6 +1,6 @@
 # TypeTest
 ```javascript
-        // // 0-1. boolean 값
+            // // 0-1. boolean 값
         // plain = false;
 
         // // 0-2. 숫자
@@ -10,7 +10,7 @@
         // plain = null;
 
         // // 0-4. function
-        plain = function() {1+2};
+        // plain = function() {1+2};
 
         // // 0-5. undefined;
         // var plain2;
@@ -42,7 +42,7 @@
         // plain = [];
         // plain.push(plain2);
         // plain.push(plain3);
-        
+
         // // 0-11. 혼합
         // plain = [];
         // var test = {"test": "1234567890123", "test1": "test", "test2": "10000"};
@@ -50,10 +50,10 @@
         // plain.push(test);
         // plain.push(true);
 
-        // 1. String(VestSign: 그대로 사용, Fincert: 1. JSON.parse 2. exception => binary)
+        // 1-1. String(VestSign: 그대로 사용, Fincert: 1. JSON.parse 2. exception => binary)
         // plain = "test";
 
-        //1-2. String으로 되어있는 JSON
+        // 1-2. String으로 되어있는 JSON
         // plain = '{"test": "1234567890123", "test1": "test", "test2": "10000"}';
 
         // // 2. String Array(VestSign: 그대로 사용, Fincert: 1. JSON.parse Array 2. exception => binary Array)
@@ -62,6 +62,9 @@
         // //3. JSON(VestSign: stringfy, Fincert: 그대로 사용)
         // var test = '{"test": "1234567890123", "test1": "test", "test2": "10000"}';
         // plain = JSON.parse(test);
+
+        // // 3-2 처음부터 JSON
+        // plain = {"test": "1234567890123", "test1": "test", "test2": "10000"};
 
         // // 4. JSON Array(VestSign: JSON.stringify Array => String Array, Fincert: 그대로 사용)
         // var test = '{"test": "1234567890123", "test1": "test", "test2": "10000"}';
