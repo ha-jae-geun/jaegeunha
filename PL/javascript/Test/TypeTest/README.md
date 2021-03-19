@@ -10,7 +10,7 @@
         // plain = null;
 
         // // 0-4. function
-        // plain = function({1+2});
+        plain = function() {1+2};
 
         // // 0-5. undefined;
         // var plain2;
@@ -33,8 +33,8 @@
 
         // // 0-9. function Array
         // plain = [];
-        // plain.push(function({1+2}));
-        // plain.push(function({1+3}));
+        // plain.push(function() {1+2});
+        // plain.push(function() {1+2});
 
         // // 0-10. undefined Array
         // var plain2;
