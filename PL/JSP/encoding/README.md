@@ -24,3 +24,22 @@ JSP페이지를 구현할때는 "EUC-KR"을, 응답결과는 "UTF-8"로 하고�
 
 출처: https://unabated.tistory.com/entry/JSP-pageEncoding속성-케릭터셋charset [랄라라]
 ```
+
+
+# [인코딩 타입](https://codevang.tistory.com/196)
+```java
+* 인코딩 타입이 지정되어 있지 않을 경우
+
+[ IDE / Tomcat에서 처리]
+
+PageEncoding이 없을 경우 : contentType의 charset을 참조함
+contentType의 charset도 없을 경우 : 시스템 디폴트 설정을 참조함
+ 
+
+[ 브라우저에서 처리]
+
+ PageEncoding은 클라이언트(브라우저)와 상관없음
+ contentType의 charset이 없을 경우 : <meta> 태그의 charset 참조
+ <meta> 태그의 charset도 없을 경우 : 브라우저 디폴트 설정을 참조함
+
+```
