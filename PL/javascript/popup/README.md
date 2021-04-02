@@ -1,3 +1,5 @@
+# [크롬, 팝업, alert](https://stackoverflow.com/questions/51618100/in-chrome-alert-doesnt-show-html-until-pop-up-is-executed)
+
 # 팝업 종료 form 전송
 ```java
         $(window).unbind("beforeunload").bind("beforeunload", function() {
