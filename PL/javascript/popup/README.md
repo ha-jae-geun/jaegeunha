@@ -1,4 +1,5 @@
 # [크롬, 팝업, alert](https://stackoverflow.com/questions/51618100/in-chrome-alert-doesnt-show-html-until-pop-up-is-executed)
+* [alert2](https://stackoverflow.com/questions/6165149/javascript-alerts-in-an-onclick-in-a-chrome-extension-popup-immediately-disappea)
 
 # 팝업 종료 form 전송
 ```java
