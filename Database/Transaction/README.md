@@ -9,6 +9,10 @@
 ```
 
 
+# 트랜잭션
+1. read_commited/read_uncommited 체크하기
+2. table lock / row lock 체크하기
+
 # 트랜잭션 메카니즘
 * [매카니즘](https://www.youtube.com/watch?v=ImvYNlF_saE)
 * 쿼리 처리기 -> 데이터 캐시, 로그 캐시
