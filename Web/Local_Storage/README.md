@@ -12,3 +12,6 @@ localStorage is only available on HTTP websites. That hasn't changed in IE9 Dev 
 
 ## 크롬
 * 쿠키 및 기타 사이트 차단
+
+
+## [Unavailable](https://wiki.almworks.com/display/strcloud/Local+Storage+Unavailable)
