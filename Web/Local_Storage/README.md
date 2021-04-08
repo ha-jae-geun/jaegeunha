@@ -9,9 +9,15 @@ localStorage is only available on HTTP websites. That hasn't changed in IE9 Dev 
 # local storage false
 ## ie
 * 인터넷 옵션 -> Dom 사용 불가
+* window.localstorage = null
 
 ## 크롬
 * 쿠키 및 기타 사이트 차단
+* window.localstorage; //에러
+
+
+## edge
+* window.localstorage; //에러
 
 
 ## [Unavailable](https://wiki.almworks.com/display/strcloud/Local+Storage+Unavailable)
