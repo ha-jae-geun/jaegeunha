@@ -20,4 +20,8 @@ localStorage is only available on HTTP websites. That hasn't changed in IE9 Dev 
 * window.localstorage; //에러
 
 
+## firefox
+* window.localstorage; //에러
+
+
 ## [Unavailable](https://wiki.almworks.com/display/strcloud/Local+Storage+Unavailable)
