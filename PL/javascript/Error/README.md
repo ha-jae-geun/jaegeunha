@@ -1,3 +1,5 @@
+# [에러 처리](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Error)
+
 # [에러](https://www.zerocho.com/category/JavaScript/post/5c1913622e014f001e827a89)
 
 
