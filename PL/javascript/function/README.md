@@ -1,3 +1,5 @@
+# [함수의 범위](https://www.zerocho.com/category/JavaScript/post/5740531574288ebc5f2ba97e)
+
 # 익명함수
 ```javascript
 🌟 함수를 작성할 때 언제 (;) 세미콜론을 붙이고 언제 안 붙일까
