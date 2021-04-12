@@ -1,3 +1,5 @@
+# [script 로딩](https://velog.io/@jakeseo_me/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EB%AC%B8%EC%A0%9C-%EB%8B%B5%ED%95%B4%EB%B3%B4%EA%B8%B0-9-script-%ED%83%9C%EA%B7%B8%EC%97%90-%EB%8C%80%ED%95%B4-%EC%96%BC%EB%A7%88%EB%82%98-%EC%95%8C%EA%B3%A0-%EC%9E%88%EB%82%98%EC%9A%94-yhik1pws)
+
 # 동적 
 1. Iframe
 2. Document
