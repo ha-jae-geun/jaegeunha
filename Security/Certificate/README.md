@@ -8,3 +8,6 @@
 ## [금융결제원, 공인인증서](https://namu.wiki/w/%EA%B8%88%EC%9C%B5%EA%B2%B0%EC%A0%9C%EC%9B%90)
 
 ## [공동인증서](https://www.youtube.com/watch?v=XMJuqA5teuM&list=WL&index=2)
+
+
+# [인증서 규격](https://www.rootca.or.kr/kor/standard/standard01A.jsp)
