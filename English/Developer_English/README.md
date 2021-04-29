@@ -1,5 +1,11 @@
 # 개발자 영어
 
+# 차별 IT 용어
+* blacklist -> denylist, blocklist
+* whitelist -> allowlist, passlist
+* master/slave -> leader/follower
+* man hours -> person hours
+
 # create vs generate
 ```java
 -> 한글로 "생성하다" 라는 의미를 가지고 있다, 하지만 영어 단어 의미로는 조금 다른게 사용되고 있다.  
