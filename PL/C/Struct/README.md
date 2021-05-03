@@ -13,10 +13,10 @@ struct SEND_INFO{
 
 struct SEND_INFO info
 
-info.Size_data = sizeof(int)+strlen(nickname)+1;
-
 scanf("%s",p_name);
 strcpy(info.Name,p_name);
+
+info.Size_data = sizeof(int)+strlen(p_name)+1;
 
 send(c_socket,(struct SEND_INFO*)&info,sizeof(int) +strlen(p_name),0) > 0 )
 ```
