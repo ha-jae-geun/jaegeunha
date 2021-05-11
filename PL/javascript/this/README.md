@@ -9,6 +9,8 @@
 
 ```
 
+# [객체의 내부 함수에서 this](https://wormwlrm.github.io/2019/03/04/You-should-know-JavaScript-this.html)
+
 # this와 $(this)의 차이
 ```java
 [this - Javascript]
