@@ -1,5 +1,5 @@
 
-# [eventlistener](https://www.zerocho.com/category/JavaScript/post/57432d2aa48729787807c3fc)
+# [이벤트 등록, 해제](https://www.zerocho.com/category/JavaScript/post/57432d2aa48729787807c3fc)
 
 # keydown
 * key.preventDefault(); // ie에서 필요
@@ -9,4 +9,3 @@
 * 여러 이벤트를 등록할 수 있고, 특정 이벤트를 제거(removeEventListener)할 수도 있거든요.
 
 
-# [이벤트 위임](https://joshua1988.github.io/web-development/javascript/javascript-interview-3questions/)
