@@ -7,6 +7,7 @@
 ## [단일 스레드 루프방식](https://junspapa-itdev.tistory.com/3)
 
 # NPM이란?
+* npm은 node.js로 만들어진 모듈을 관리하는 툴
 
 # ESLint란?
 
