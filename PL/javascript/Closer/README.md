@@ -29,3 +29,25 @@ for (const i=0; i<3; i++) {
     console.log(i);
 }
 ```
+
+# [for in](https://exploringjs.com/es6/ch_variables.html#sec_let-const-loop-heads)
+```javascript
+9.5.2 for-of loop and for-in loop 
+In a for-of loop, var creates a single binding:
+
+const arr = [];
+for (var i of [0, 1, 2]) {
+    arr.push(() => i);
+}
+arr.map(x => x()); // [2,2,2]
+const creates one immutable binding per iteration:
+
+const arr = [];
+for (const i of [0, 1, 2]) {
+    arr.push(() => i);
+}
+arr.map(x => x()); // [0,1,2]
+let also creates one binding per iteration, but the bindings it creates are mutable.
+
+The for-in loop works similarly to the for-of loop.
+```
