@@ -1,4 +1,5 @@
 # [자바스크립트 공식 문서](https://developer.mozilla.org/ko/)
+# [자바스크립트 기본](https://joshua1988.github.io/web-development/javascript/javascript-basic-summary/)
 # [자바스크립트 인터뷰 문제](https://joshua1988.github.io/)
 
 # [caniuse](https://caniuse.com/)
