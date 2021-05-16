@@ -36,6 +36,7 @@
  Http Request가 TCP Socket을 통해 보내진다. 이에 대한 응답으로, 웹 페이지의 정보가 사용자의 PC로 들어온다.
 ```
 
+# [UI 최적화](https://ui.toast.com/fe-guide/ko_PERFORMANCE)
 
 # [크로스 브라우징](https://okayoon.tistory.com/entry/%ED%81%AC%EB%A1%9C%EC%8A%A4-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A7%95cross-browsing)
 
