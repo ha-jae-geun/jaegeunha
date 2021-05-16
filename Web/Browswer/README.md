@@ -1,4 +1,4 @@
-# [브라우저가 웹페이지에 나타나는](https://bearjin90.tistory.com/m/19)
+# [브라우저에서 페이지 나타나는 순서](https://bearjin90.tistory.com/m/19)
 
 # [브라우저에 URL 입력했을 때](https://deveric.tistory.com/m/97)
 ```java
