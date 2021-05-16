@@ -1,6 +1,8 @@
 # 깃 
 * tortoisegit
 
+# [it blog](https://brunch.co.kr/@sicle-official/35)
+
 # [깃 이그노어](https://www.toptal.com/developers/gitignore)
 
 # [깃 rm](https://gmlwjd9405.github.io/2018/05/17/git-delete-incorrect-files.html)
