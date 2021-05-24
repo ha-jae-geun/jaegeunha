@@ -1,3 +1,53 @@
+# modal 예제
+```javascript
+                        $(modalId).dialog({
+                            
+                            autoOpen: true,
+                            scroll: "no",
+                            modal: true,
+                            resizable: false,
+                            open: function (type, data) {
+
+                                $(".ui-dialog-titlebar", $(this).parent()).remove();
+                                $(modalId).dialog({ width: "auto", height: "auto" });
+                                $(modalId).css('overflow', 'hidden');
+
+                                // 닫기 클릭 이벤트
+                                $(".close-reveal-modal").on("click", function () {
+                                    $("#keysafer_loading").remove();
+                                    $(modalId).dialog("close");
+                                    $(modalId).css("display", "none");
+                                });
+
+                                // 취소 클릭 이벤트
+                                $("#modalCloseBtn").on("click", function () {
+                                    $("#keysafer_loading").remove();
+                                    $(modalId).dialog("close");
+                                    $(modalId).css("display", "none");
+                                });
+
+                                $("#modalConfirmBtn").on("click", function() {
+                                    $("#keysafer_loading").remove();
+                                    _param.callback({
+                                        SecureCertificateStorageItem: _certificateList[_selected],
+                                        action: 'REMOVECERTIFICATE',
+                                        option: _param.option,
+                                        msg: '성공'
+                                    });
+                                })
+
+                                // Modal 위치, 크기 조정
+                                $(modalId).css('visibility', 'visible');
+                                $(this).parent().css('top', -(window.innerHeight / 1.2));
+                                document.getElementById("myModal").style.minHeight = '0px';
+                                $(modalId).width((window.innerWidth / 1.8) + 'px');
+
+                                // Modal 떠있는 동안 터치 불가
+                                addLoadingBar();
+                            }
+                        });
+```
+
 # [dialog](https://roqkffhwk.tistory.com/56)
 ```javascript
 agreeCheckBtn.click(function() {
