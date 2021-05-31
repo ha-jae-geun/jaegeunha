@@ -1,3 +1,5 @@
+# [CPU에 최악인 조건문](https://youtu.be/1Qg-dIh2qGQ)
+
 # If Else문
 ```JAVA
 가독성을 높이는 if문 쓰는 방법 
