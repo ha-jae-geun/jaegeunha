@@ -1,5 +1,6 @@
 # [에반문 CORS](https://evan-moon.github.io/2020/05/21/about-cors/)
 # [테코톡 CORS](https://www.youtube.com/watch?v=_sLjXviYivM&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=24)
+# [나봄의 CORS](https://youtu.be/-2TgkKYmJt4)
 
 ```java
 프론트엔드 서버와 백엔드 서버를 따로 구성하는 경우가 많다.
