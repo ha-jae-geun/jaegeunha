@@ -131,3 +131,5 @@ document.getElementById("ly_header0").addEventListener('keydown', function (key)
 ```
 
 # [모바일 접근성](http://www.websoul.co.kr/accessibility/MA_guide.asp)
+
+# [모바일 접근성 테스트 조건](http://www.wa.or.kr/m3/sub3.asp)
