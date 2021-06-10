@@ -142,4 +142,5 @@ document.getElementById("ly_header0").addEventListener('keydown', function (key)
 
 ## [Aria 바르게 사용하기](https://nuli.navercorp.com/community/article/1132937)
 * aria-hidden: 센스 리더 안읽어주기
+    * $("#yettie_iframe").siblings().attr("aria-hidden", "true")
 * aria-modal: 센스리더에 따른 모달에 머무르기
