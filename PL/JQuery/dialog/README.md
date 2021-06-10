@@ -1,3 +1,5 @@
+# [Dialog 옵션](http://blog.naver.com/PostView.nhn?blogId=javaking75&logNo=140197306077)
+
 # modal 예제
 ```javascript
                         $(modalId).dialog({
