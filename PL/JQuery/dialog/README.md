@@ -1,3 +1,5 @@
+# [Dialog API](https://api.jqueryui.com/dialog/)
+
 # [Dialog 옵션](http://blog.naver.com/PostView.nhn?blogId=javaking75&logNo=140197306077)
 
 # modal 예제
