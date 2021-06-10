@@ -135,3 +135,5 @@ document.getElementById("ly_header0").addEventListener('keydown', function (key)
 # [모바일 접근성 테스트 조건](http://www.wa.or.kr/m3/sub3.asp)
 
 # [모바일 모달 포커스](https://d0gf00t.tistory.com/13)
+
+# [모바일 title 대신 aria-label](https://www.tpgi.com/using-the-html-title-attribute-updated/)
