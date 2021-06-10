@@ -141,3 +141,5 @@ document.getElementById("ly_header0").addEventListener('keydown', function (key)
 ## [모바일 title 대신 aria-label](https://www.tpgi.com/using-the-html-title-attribute-updated/)
 
 ## [Aria 바르게 사용하기](https://nuli.navercorp.com/community/article/1132937)
+* aria-hidden: 센스 리더 안읽어주기
+* aria-modal: 센스리더에 따른 모달에 머무르기
