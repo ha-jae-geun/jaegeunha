@@ -1,3 +1,5 @@
+# [얄파한 코딩사전 JVM](https://youtu.be/VvVruEDCSSY)
+
 # [기본기를 쌓는 정아마추어 JVM](https://jeong-pro.tistory.com/148?category=793347)
 * 운영체제의 메모리 영역에 접근하여 메모리를 관리하는 프로그램(메모리 관리, Garbage Collector 수행)
 * C, C++는 컴파일 플랫폼과 타겟 플랫폼이 다른 경우 프로그램이 동작하지 않았다(환경 플랫폼 = 운영체제 + CPU 아키텍처)
