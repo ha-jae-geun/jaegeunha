@@ -1,5 +1,6 @@
 # [TLS(Transport Layer Security, 전공 계층 보안)](https://www.youtube.com/watch?v=EPcQqkqqouk&list=PLgXGHBqgT2TvpJ_p9L_yZKPifgdBOzdVH&index=31)
 # [생활코딩 SSL](https://youtu.be/0cfUVrQW_yg)
+~ [생활코딩 SSL 통신과정](https://youtu.be/8R0FUF_t_zk)
 
 * HTTP 2.0
 * 응용 계층 데이터의 암호화, 암호화된 전송 계층 데이터의 복호화
