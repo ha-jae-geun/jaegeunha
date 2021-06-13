@@ -1,4 +1,5 @@
 # [리베하얀](https://www.youtube.com/watch?v=QQXvASCMp-g)
+# [웹 접근성, 표준](https://youtu.be/xToJhmAJYCE)
 
 # 기본
 * input 요소, a 요소, button 요소 등이 키보드 탭 키로 이동이 가능한 대상
