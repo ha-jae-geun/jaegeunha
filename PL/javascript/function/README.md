@@ -105,4 +105,6 @@ MDS에서는, 장점 하나는 에러가 발생 했을 때, stack trace가 함�
 
 # [즉시 실행 함수를 사용하는 이유](https://beomy.tistory.com/9)
 
+# [iife 4 reasons](https://youtu.be/8GDk8sj0YgQ)
+
 # [iife closure](https://youtu.be/1S8SBDhA7HA)
