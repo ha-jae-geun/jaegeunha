@@ -2,6 +2,7 @@
 
 # [함수 표현식, 선언식](https://joshua1988.github.io/web-development/javascript/function-expressions-vs-declarations/)
 
+
 # 익명함수
 ```javascript
 🌟 함수를 작성할 때 언제 (;) 세미콜론을 붙이고 언제 안 붙일까
@@ -103,3 +104,5 @@ MDS에서는, 장점 하나는 에러가 발생 했을 때, stack trace가 함�
 ```
 
 # [즉시 실행 함수를 사용하는 이유](https://beomy.tistory.com/9)
+
+# [iife closure](https://youtu.be/1S8SBDhA7HA)
