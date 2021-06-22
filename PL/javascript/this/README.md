@@ -9,6 +9,22 @@
 
 ```
 
+# [5가지 상황에서의 this](https://beomy.tistory.com/6)
+```javascript
+this가 만들어지는 경우,
+
+1. 일반 함수에서 this -> window
+
+2. 중첩 함수에서 this -> window
+
+3. 이벤트에서 this -> 이벤트 객체
+
+4. 메소드에서 this -> 메소드 객체
+
+5. 메소드 내부의 중첩 함수에서 this -> window
+
+```
+
 # [객체의 내부 함수에서 this](https://wormwlrm.github.io/2019/03/04/You-should-know-JavaScript-this.html)
 
 # this와 $(this)의 차이
