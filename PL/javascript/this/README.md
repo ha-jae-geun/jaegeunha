@@ -19,3 +19,13 @@ Javascript의 경우에는 이벤트가 발생한 태그 요소가 표시됩니�
 [ $(this) - Jquery]
 Jquery의 경우에는 이벤트가 발생한 요소의 정보들이 Object로 표시됩니다!
 ```
+
+
+# [call, apply 차이](https://velog.io/@chris/front-end-interview-handbook-js-1#foreach-%EB%A3%A8%ED%94%84%EC%99%80-map-%EB%A3%A8%ED%94%84-%EC%82%AC%EC%9D%B4%EC%9D%98-%EC%A3%BC%EC%9A%94-%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%84-%EC%84%A4%EB%AA%85%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94-%EC%99%9C-%EB%91%98-%EC%A4%91-%ED%95%98%EB%82%98%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%95%A0-%EA%B2%83%EC%9D%B8%EA%B0%80%EC%9A%94)
+```javascript
+.call과 .apply의 차이점은 무엇인가요?
+.call과 .apply는 모두 함수를 호출하는데 사용되며, 첫 번째 매개변수는 함수 내에서 this의 값으로 사용됩니다. 
+
+그러나 .call은 쉼표로 구분된 인수를 두 번째 인수로 취하고 .apply는 인수의 배열을 두 번째 인수로 취합니다. 
+call은 C: Comma 로 구분되며, apply는 인수 배열인 A: arguments 라고 기억하면 쉽습니다.
+```
