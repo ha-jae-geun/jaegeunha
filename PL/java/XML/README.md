@@ -14,7 +14,7 @@ RSS(really simple syndication)는 뉴스나 블로그에서 주로 사용하는 
 의 사이트 방문 없이 최신 정보들만 골라 한 자리에서 볼 수 있습니다.
 ```
 
-# XML
+# [XML](http://tcpschool.com/xml/intro)
 ```java
 XML 약자
 'XML'은 'Extensible Markup Language'의 약자로 '확장 가능한 마크업 Language'라고 할 수 있습니다.
