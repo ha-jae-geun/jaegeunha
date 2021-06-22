@@ -1,4 +1,5 @@
 # [html, xhtml 차이](https://www.js2uix.com/frontend/xml-xhtml-diff/)
+# [html을 xhtml로 변경](http://tcpschool.com/html/html_expand_xhtml)
 
 # HTML 태그
 ```java
