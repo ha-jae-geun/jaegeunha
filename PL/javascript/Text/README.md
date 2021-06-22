@@ -3,3 +3,4 @@
 # [<br/> 사용하려면 innerHtml, innerText 구분 필요](https://newline.tistory.com/153)
 
 # [document.write](http://tcpschool.com/javascript/js_intro_output)
+## [document write2](https://velog.io/@chris/front-end-interview-handbook-js-2)
