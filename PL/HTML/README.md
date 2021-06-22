@@ -1,3 +1,5 @@
+# [html, xhtml 차이](https://www.js2uix.com/frontend/xml-xhtml-diff/)
+
 # HTML 태그
 ```java
 HTML이란
