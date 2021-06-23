@@ -1,3 +1,5 @@
+# [oop, 함수형 프로그래밍 차이](https://futurecreator.github.io/2018/10/05/why-functional-programming/)
+
 # OOP
 [evan](https://evan-moon.github.io/2019/08/24/what-is-object-oriented-programming/)
 ```java
