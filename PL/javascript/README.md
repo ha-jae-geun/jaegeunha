@@ -1,4 +1,20 @@
 # [자바스크립트 공식 문서](https://developer.mozilla.org/ko/)
+```javascript
+레퍼런스와 튜토리얼
+프로그래밍을 공부하기 위한 자료는 크게 레퍼런스(reference)와 tutorial(안내서)가 있다. 
+
+통상 튜토리얼은 언어의 문법을 설명하고, 레퍼런스는 명령어의 사전을 의미하다. 
+본 수업은 자바스크립트에 대한 일종의 안내서라고 할 수 있고, 자바스크립트 사전은 레퍼런스라고 할 수 있다. 
+
+자바스크립트의 API
+자바스크립트의 API는 크게 자바스크립트 자체의 API와 자바스크립트가 동작하는 호스트 환경의 API로 구분된다. 
+
+자바스크립트 API 문서
+ECMAScript (표준문서)
+자바스크립트 사전 (생활코딩)
+자바스크립트 레퍼런스 (MDN)
+jscript 레퍼런스 (MSDN)
+```
 
 # [프론트엔드 기본](https://joshua1988.github.io/web-development/javascript/javascript-basic-summary/)
 # [프론트엔드 인터뷰 문제](https://joshua1988.github.io/)
