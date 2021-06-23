@@ -2,3 +2,5 @@
 
 
 # [CSR, SSR](https://goodgid.github.io/Server-Side-Rendering-and-Client-Side-Rendering/)
+
+# [CSR 그림](https://yunzema.tistory.com/103)
