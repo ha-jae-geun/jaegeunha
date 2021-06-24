@@ -1,6 +1,8 @@
 
 # [이벤트 등록, 해제](https://www.zerocho.com/category/JavaScript/post/57432d2aa48729787807c3fc)
 
+# [Event Delegation](https://joshua1988.github.io/web-development/javascript/event-propagation-delegation/)
+
 # keydown
 * key.preventDefault(); // ie에서 필요
 
