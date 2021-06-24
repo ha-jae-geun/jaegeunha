@@ -1,3 +1,5 @@
+# [자바스크립터, ecmascript, ecma 인터네셔널](https://wormwlrm.github.io/2018/10/03/What-is-the-difference-between-javascript-and-ecmascript.html)
+
 # [ECMA 호환 테이블](http://kangax.github.io/compat-table/es6/)
 
 
