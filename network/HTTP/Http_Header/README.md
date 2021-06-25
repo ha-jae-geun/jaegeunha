@@ -1,4 +1,4 @@
-# HTTP
+# [HTTP 헤더](https://www.zerocho.com/category/HTTP/post/5b611b9e33b4636aa8bb1fc4)
 * www에서 쓰이는 핵심 프로토콜로 문서의 전송을 위해 쓰이며, 오늘날 거의 모든 웹 애플리케이션에서 사용되고 있다.
       * 음성, 화상 등 여러 종류의 데이터를 MIME로 정의하여 전송 가능
 * Request/Response 동작에 기반하여 서비스 제공
