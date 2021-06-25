@@ -2,6 +2,13 @@
 
 # [Reflow, Repaint](https://webclub.tistory.com/346)
 
+# [Reflow와 Repaint의 관계](https://boxfoxs.tistory.com/408)
+* 조건 Reflow가 일어나야 Repaint가 일어나는것은 아닙니다. background-color, visibility와 같이 레이아웃에는 영향을 주지 않는 스타일 속성이 변경되었을 때는 Reflow를 수행할 필요가 없기 때문에 Repaint만 수행하게 됩니다.
+
+출처: https://boxfoxs.tistory.com/408 [박스여우 - BoxFox]
+
+출처: https://boxfoxs.tistory.com/408 [박스여우 - BoxFox]
+
 # [브라우저에 URL 입력했을 때](https://deveric.tistory.com/m/97)
 ```java
 "브라우저에 도메인을 입력하면 → DNS서버에 IP주소를 요청 → 수신한 IP주소에 해당하는 웹서버에 접속"
