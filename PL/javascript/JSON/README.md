@@ -45,7 +45,7 @@
 - };
 
 
-## XML과 JSON
+## [XML과 JSON](http://tcpschool.com/json/json_intro_xml)
 ### 공통점
 1. 둘 다 데이터를 저장하고 전달하기 위해 고안되었습니다.
 2. 둘 다 기계뿐만 아니라 사람도 쉽게 읽을 수 있습니다.
