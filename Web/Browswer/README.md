@@ -1,5 +1,7 @@
 # [브라우저에서 페이지 나타나는 순서](https://bearjin90.tistory.com/m/19)
 
+# [Reflow, Repaint](https://webclub.tistory.com/346)
+
 # [브라우저에 URL 입력했을 때](https://deveric.tistory.com/m/97)
 ```java
 "브라우저에 도메인을 입력하면 → DNS서버에 IP주소를 요청 → 수신한 IP주소에 해당하는 웹서버에 접속"
