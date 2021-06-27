@@ -152,12 +152,6 @@ git push origin master // 깃허브로 푸시한다.
 3. github.com 삭제
 	
 
-# 마크다운
-* 수평선: <hr/>
-* 블럭인용문자: >
-* 강조: *, -, +, _;  **강조**
-* 링크: [링크할 이름](링크주소)
-* 그림: ![링크할 이름](그림주소)
 
 # archive
 * git archive --format=zip master -o Master.zip
