@@ -5,6 +5,8 @@
 
 # [hoist](https://gmlwjd9405.github.io/2019/04/22/javascript-hoisting.html)
 
+# [블록레벨 스코프, 함수레벨 스코프](https://eblee-repo.tistory.com/m/37)
+
 # 'user strict';
 * 선언되지 않은 변수 사용 금지
 
