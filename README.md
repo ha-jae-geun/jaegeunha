@@ -146,7 +146,11 @@ git push origin master // 깃허브로 푸시한다.
 * git rebase -i
 	* 커밋명 변경
 
-
+# [윈도우 깃 권한](https://techstock.biz/Git-Github/Git-push-denied/)
+1. 제어판 - 사용자 계정
+2. Windows 자격 증명 관리
+3. github.com 삭제
+	
 
 # 마크다운
 * 수평선: <hr/>
