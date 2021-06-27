@@ -1,9 +1,9 @@
+# [javascript info 변수](https://ko.javascript.info/variables)
 # [엘리 코딩](https://www.youtube.com/watch?v=OCCpGh4ujb8&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=3)
 # [var let const](https://mingcoder.me/2020/02/25/Programming/JavaScript/var-let-const/)
 # [getter, setter, proxy](https://www.zerocho.com/category/JavaScript/post/5a6578a3c994bd001ba0f9d9)
 # [let은 hoist 안되는게 아니라 tdz](https://evan-moon.github.io/2019/06/18/javascript-let-const/)
 # [loop에서 closure, var/let](https://joshua1988.github.io/web-development/javascript/javascript-interview-3questions/)
-
 # [hoist](https://gmlwjd9405.github.io/2019/04/22/javascript-hoisting.html)
 
 # [블록레벨 스코프, 함수레벨 스코프](https://eblee-repo.tistory.com/m/37)
