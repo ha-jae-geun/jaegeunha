@@ -14,6 +14,21 @@ Source:
 - [ ] Sleeping
 
 
+# 표 만들기
+```markdown
+---
+layout: post
+title: "Some articles are just so short that we have to make the footer stick"
+categories: misc
+---
+```
+---
+layout: post
+title: "Some articles are just so short that we have to make the footer stick"
+categories: misc
+---
+
+
 # 마크다운 기보 문법
 ```markdown
 수평선: <hr/>
