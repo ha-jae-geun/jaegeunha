@@ -1,4 +1,5 @@
-# [자바스크립트 공식 문서](https://developer.mozilla.org/ko/)
+# [자바스크립트 MND](https://developer.mozilla.org/ko/)
+# [Javascript info](https://ko.javascript.info/)
 ```javascript
 레퍼런스와 튜토리얼
 프로그래밍을 공부하기 위한 자료는 크게 레퍼런스(reference)와 tutorial(안내서)가 있다. 
