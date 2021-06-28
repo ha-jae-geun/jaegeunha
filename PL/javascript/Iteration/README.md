@@ -4,16 +4,17 @@
 # [loop에서 closure, var/let](https://joshua1988.github.io/web-development/javascript/javascript-interview-3questions/)
 
 # 반복문 실행 순서
-for (let i = 0; i < 3; i++) { // 0, 1, 2가 출력됩니다.
-  alert(i);
-}
-이제 for문의 구성 요소를 하나씩 살펴봅시다.
+  for (let i = 0; i < 3; i++) { // 0, 1, 2가 출력됩니다.
+    alert(i);
+  }
 
-구성 요소		
-begin	i = 0	반복문에 진입할 때 단 한 번 실행됩니다.
-condition	i < 3	반복마다 해당 조건이 확인됩니다. false이면 반복문을 멈춥니다.
-body	alert(i)	condition이 truthy일 동안 계속해서 실행됩니다.
-step	i++	각 반복의 body가 실행된 이후에 실행됩니다.
+  이제 for문의 구성 요소를 하나씩 살펴봅시다.
+
+  구성 요소		
+  begin	i = 0	반복문에 진입할 때 단 한 번 실행됩니다.
+  condition	i < 3	반복마다 해당 조건이 확인됩니다. false이면 반복문을 멈춥니다.
+  body	alert(i)	condition이 truthy일 동안 계속해서 실행됩니다.
+  step	i++	각 반복의 body가 실행된 이후에 실행됩니다.
 
 
 # 인라인 변수 선언
