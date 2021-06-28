@@ -108,3 +108,24 @@ MDS에서는, 장점 하나는 에러가 발생 했을 때, stack trace가 함�
 # [iife 4 reasons](https://youtu.be/8GDk8sj0YgQ)
 
 # [iife closure](https://youtu.be/1S8SBDhA7HA)
+
+
+# return과 값 사이에 절대 줄을 삽입하지 마세요.
+      반환하려는 값이 긴 표현식인 경우, 아래와 같이 지시자 return과 반환하려는 값 사이에 새 줄을 넣어 코드를 작성하고 싶을 수도 있습니다.
+
+      return
+       (some + long + expression + or + whatever * f(a) + f(b))
+      자바스크립트는 return문 끝에 세미콜론을 자동으로 넣기 때문에 이렇게 return문을 작성하면 안 됩니다. 위 코드는 아래 코드처럼 동작합니다.
+
+      return;
+       (some + long + expression + or + whatever * f(a) + f(b))
+      따라서 반환하고자 했던 표현식을 반환하지 못하고 아무것도 반환하지 않는 것처럼 되어버립니다.
+
+      표현식을 여러 줄에 걸쳐 작성하고 싶다면 표현식이 return 지시자가 있는 줄에서 시작하도록 작성해야 합니다. 또는 아래와 같이 여는 괄호를 return 지시자와 같은 줄에 써줘도 괜찮습니다.
+
+      return (
+        some + long + expression
+        + or +
+        whatever * f(a) + f(b)
+        )
+      이렇게 하면 의도한 대로 표현식을 반환할 수 있습니다.
