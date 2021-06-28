@@ -2,6 +2,10 @@
 * 자료구조: 자료를 저장하는 구조
 * 알고리즘: 탐색
 
+# [스택, 큐, 링크드리스트 기술 인터뷰 자료](https://www.notion.so/d3ceaae500eb4164ae46b87c18aea257)
+# [트리 기술 인터뷰 자료](https://www.notion.so/Tree-b5cdac1f2aa04b42be58b1d221f60006)
+# [Heap, Sort, Hash Table 기술인터뷰 자료](https://www.notion.so/Heap-Sort-Hash-Table-333efb4921544a73a27efcdb2a7788d3)
+
 # 함수형 프로그램
 1. 인풋과 아웃풋이 있다.
 2. 외부 환경으로부터 철저히 독립적이다.
