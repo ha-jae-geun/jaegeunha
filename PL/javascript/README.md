@@ -1,5 +1,7 @@
 # [자바스크립트 MND](https://developer.mozilla.org/ko/)
 # [Javascript info](https://ko.javascript.info/)
+# [특정 엔진 지원 여부](https://kangax.github.io/compat-table)
+# [암호화 관련 기능 지원 여부](http://caniuse.com/#feat=cryptography)
 ```javascript
 레퍼런스와 튜토리얼
 프로그래밍을 공부하기 위한 자료는 크게 레퍼런스(reference)와 tutorial(안내서)가 있다. 
