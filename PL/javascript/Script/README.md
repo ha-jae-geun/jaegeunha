@@ -5,6 +5,30 @@
 * 이를 통해 트래픽이 절약되고 웹 페이지의 실제 속도가 빨라집니다.
 
 
+# 속성
+* type 과 language 속성은 필수가 아닙니다.
+* 외부 스크립트 파일은 <script src="path/to/script.js"></script>와 같이 삽입합니다.
+
+## src 속성
+```javascript
+src 속성이 있으면 태그 내부의 코드는 무시됩니다.
+<script> 태그는 src 속성과 내부 코드를 동시에 가지지 못합니다.
+
+다음 코드는 실행되지 않습니다.
+
+<script src="file.js">
+  alert(1); // src 속성이 사용되었으므로 이 코드는 무시됩니다.
+</script>
+따라서 <script src="…">로 외부 파일을 연결할지 아니면 <script> 태그 내에 코드를 작성할지를 선택해야 합니다.
+
+위의 예시는 스크립트 두 개로 분리하면 정상적으로 실행됩니다.
+
+<script src="file.js"></script>
+<script>
+  alert(1);
+</script>
+```
+
 # [호출 스택](https://www.zerocho.com/category/JavaScript/post/597f34bbb428530018e8e6e2)
 
 # [동적 로딩](https://ko.javascript.info/script-async-defer)
