@@ -185,6 +185,29 @@ if (x > 0) alert( '0보다 큽니다!' );
 더 명백히 드러내고, 가독성도 좋습니다. 그러니 if 조건문이 필요하면 if를 사용하고 AND 연산자는 연산자 목적에 맞게 사용합시다.
 ```
 
+# NOT 연산자는 인수를 하나만 받고, 다음 순서대로 연산을 수행합니다.
+```javascript
+피연산자를 불린형(true / false)으로 변환합니다.
+1에서 변환된 값의 역을 반환합니다.
+예시:
+
+alert( !true ); // false
+alert( !0 ); // true
+NOT을 두 개 연달아 사용(!!)하면 값을 불린형으로 변환할 수 있습니다.
+
+alert( !!"non-empty string" ); // true
+alert( !!null ); // false
+이때, 첫 번째 NOT 연산자는 피연산자로 받은 값을 불린형으로 변환한 후 이 값의 역을 반환하고, 
+두 번째 NOT 연산자는 첫 번째 NOT 연산자가 반환한 값의 역을 반환합니다. 
+이렇게 NOT을 연달아 사용하면 특정 값을 불린형으로 변환할 수 있습니다.
+
+참고로, 내장 함수 Boolean을 사용하면 !!을 사용한 것과 같은 결과를 도출할 수 있습니다.
+
+alert( Boolean("non-empty string") ); // true
+alert( Boolean(null) ); // false
+NOT 연산자의 우선순위는 모든 논리 연산자 중에서 가장 높기 때문에 항상 &&나 || 보다 먼저 실행됩니다.
+```
+
 # concentration
 * console.log('string: ${1+2}');
 
