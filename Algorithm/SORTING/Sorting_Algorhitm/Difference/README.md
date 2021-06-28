@@ -1,4 +1,4 @@
-### Quick Sort와 Merge Sort 두 정렬알고리즘 모두 O(nlogn)의 시간복잡도를 갖는다. 그러나 많은 상용 라이브러리에선 내부적으로 QuickSort구현을 채택하고 있다. 이유가 무엇인가?
+### [Quick Sort와 Merge Sort 두 정렬알고리즘 모두 O(nlogn)의 시간복잡도를 갖는다. 그러나 많은 상용 라이브러리에선 내부적으로 QuickSort구현을 채택하고 있다. 이유가 무엇인가?](https://www.notion.so/Heap-Sort-Hash-Table-333efb4921544a73a27efcdb2a7788d3)
 
 - 답변
 
