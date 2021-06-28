@@ -2,6 +2,21 @@
 
 # [함수 표현식, 선언식](https://joshua1988.github.io/web-development/javascript/function-expressions-vs-declarations/)
 
+# 끝에 세미 콜론은 왜 있나요?
+      함수 표현식의 끝에 왜 세미 콜론 ;이 붙는지 의문이 들 수 있습니다. 함수 선언문에는 세미 콜론이 없는데 말이죠.
+
+      function sayHi() {
+        // ...
+      }
+
+      let sayHi = function() {
+        // ...
+      };
+      이유는 간단합니다.
+
+      if { ... }, for { }, function f { } 같이 중괄호로 만든 코드 블록 끝엔 ;이 없어도 됩니다.
+      함수 표현식은 let sayHi = ...;과 같은 구문 안에서 값의 역할을 합니다. 코드 블록이 아니고 값처럼 취급되어 변수에 할당되죠. 모든 구문의 끝엔 세미 콜론 ;을 붙이는 게 좋습니다. 함수 표현식에 쓰인 세미 콜론은 함수 표현식 때문에 붙여진 게 아니라, 구문의 끝이기 때문에 붙여졌습니다.
+
 
 # 익명함수
 ```javascript
