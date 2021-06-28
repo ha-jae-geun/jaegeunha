@@ -208,6 +208,66 @@ alert( Boolean(null) ); // false
 NOT 연산자의 우선순위는 모든 논리 연산자 중에서 가장 높기 때문에 항상 &&나 || 보다 먼저 실행됩니다.
 ```
 
+# [null 병합 연산자](https://ko.javascript.info/nullish-coalescing-operator)
+``` javascript
+null 병합 연산자(nullish coalescing operator) ??를 사용하면 
+짧은 문법으로 여러 피연산자 중 그 값이 ‘확정되어있는’ 변수를 찾을 수 있습니다.
+
+a ?? b의 평가 결과는 다음과 같습니다.
+
+a가 null도 아니고 undefined도 아니면 a
+그 외의 경우는 b
+null 병합 연산자 ??없이 x = a ?? b와 동일한 동작을 하는 코드를 작성하면 다음과 같습니다.
+
+x = (a !== null && a !== undefined) ? a : b;
+비교 연산자와 논리 연산자만으로 null 병합 연산자와 같은 기능을 하는 코드를 
+작성하니 코드 길이가 길어지네요.
+
+또 다른 예시를 살펴봅시다. firstName, lastName, nickName이란 변수에 
+사용자 이름이나 별명을 저장하는데, 사용자가 아무런 정보도 입력하지 않는 케이스도 허용한다고 해보겠습니다.
+
+화면엔 세 변수 중 실제 값이 있는 변수의 값을 출력하는데, 
+세 변수 모두 값이 없다면 '익명의 사용자’가 출력되도록 해보죠.
+
+이럴 때 null 병합 연산자 ??를 사용하면 값이 정해진 변수를 간편하게 찾아낼 수 있습니다.
+
+let firstName = null;
+let lastName = null;
+let nickName = "바이올렛";
+
+// null이나 undefined가 아닌 첫 번째 피연산자
+alert(firstName ?? lastName ?? nickName ?? "익명의 사용자"); // 바이올렛
+'??'와 '||'의 차이
+null 병합 연산자는 OR 연산자 ||와 상당히 유사해 보입니다. 
+실제로 위 예시에서 ??를 ||로 바꿔도 그 결과는 동일하기까지 하죠. 
+관련 내용은 이전 챕터에서 살펴본 바 있습니다.
+
+그런데 두 연산자 사이에는 중요한 차이점이 있습니다.
+
+||는 첫 번째 truthy 값을 반환합니다.
+??는 첫 번째 정의된(defined) 값을 반환합니다.
+null과 undefined, 숫자 0을 구분 지어 다뤄야 할 때 이 차이점은 매우 중요한 역할을 합니다.
+
+예시를 살펴봅시다.
+
+height = height ?? 100;
+height에 값이 정의되지 않은경우 height엔 100이 할당됩니다.
+
+이제 ??와 ||을 비교해봅시다.
+
+let height = 0;
+
+alert(height || 100); // 100
+alert(height ?? 100); // 0
+height || 100은 height에 0을 할당했지만 0을 falsy 한 값으로 취급했기 때문에 
+null이나 undefined를 할당한 것과 동일하게 처리합니다. 따라서 height || 100의 평가 결과는 100입니다.
+
+반면 height ?? 100의 평가 결과는 height가 정확하게 null이나 undefined일 
+경우에만 100이 됩니다. 예시에선 height에 0이라는 값을 할당했기 때문에 얼럿창엔 0이 출력됩니다.
+
+이런 특징 때문에 높이처럼 0이 할당될 수 있는 변수를 사용해 기능을 개발할 땐 ||보다 ??가 적합합니다.
+```
+
 # concentration
 * console.log('string: ${1+2}');
 
