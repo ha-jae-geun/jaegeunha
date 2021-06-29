@@ -45,3 +45,50 @@ Jquery의 경우에는 이벤트가 발생한 요소의 정보들이 Object로 �
 그러나 .call은 쉼표로 구분된 인수를 두 번째 인수로 취하고 .apply는 인수의 배열을 두 번째 인수로 취합니다. 
 call은 C: Comma 로 구분되며, apply는 인수 배열인 A: arguments 라고 기억하면 쉽습니다.
 ```
+
+# 생성자와 return문
+```javascript
+생성자 함수엔 보통 return 문이 없습니다. 
+반환해야 할 것들은 모두 this에 저장되고, 
+this는 자동으로 반환되기 때문에 반환문을 명시적으로 써 줄 필요가 없습니다.
+
+그런데 만약 return 문이 있다면 어떤 일이 벌어질까요? 
+아래와 같은 간단한 규칙이 적용됩니다.
+
+객체를 return 한다면 this 대신 객체가 반환됩니다.
+원시형을 return 한다면 return문이 무시됩니다.
+return 뒤에 객체가 오면 생성자 함수는 해당 객체를 반환해주고, 
+이 외의 경우는 this가 반환되죠.
+
+아래 예시에선 첫 번째 규칙이 적용돼 return은 this를 무시하고 객체를 반환합니다.
+
+function BigUser() {
+
+  this.name = "원숭이";
+
+  return { name: "고릴라" };  // <-- this가 아닌 새로운 객체를 반환함
+}
+
+alert( new BigUser().name );  // 고릴라
+아무것도 return하지 않는 예시를 살펴봅시다. 
+원시형을 반환하는 경우와 마찬가지로 두 번째 규칙이 적용됩니다.
+
+function SmallUser() {
+
+  this.name = "원숭이";
+
+  return; // <-- this를 반환함
+}
+
+alert( new SmallUser().name );  // 원숭이
+return문이 있는 생성자 함수는 거의 없습니다. 
+여기선 튜토리얼의 완성도를 위해 특이 케이스를 소개해보았습니다.
+
+괄호 생략하기
+인수가 없는 생성자 함수는 괄호를 생략해 호출할 수 있습니다.
+
+let user = new User; // <-- 괄호가 없음
+// 아래 코드는 위 코드와 똑같이 동작합니다.
+let user = new User();
+명세서엔 괄호를 생략해도 된다고 정의되어 있지만, '좋은 스타일’은 아닙니다.
+```
