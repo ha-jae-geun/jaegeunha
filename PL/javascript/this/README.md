@@ -46,6 +46,14 @@ Jquery의 경우에는 이벤트가 발생한 요소의 정보들이 Object로 �
 call은 C: Comma 로 구분되며, apply는 인수 배열인 A: arguments 라고 기억하면 쉽습니다.
 ```
 
+# [new 연산자와 생성자](https://ko.javascript.info/constructor-new)
+
+생성자 함수(짧게 줄여서 생성자)는 일반 함수입니다. 
+다만, 일반 함수와 구분하기 위해 함수 이름 첫 글자를 대문자로 씁니다.
+생성자 함수는 반드시 new 연산자와 함께 호출해야 합니다. 
+new와 함께 호출하면 내부에서 this가 암시적으로 만들어지고, 마지막엔 this가 반환됩니다.
+생성자 함수는 유사한 객체를 여러 개 만들 때 유용합니다.
+
 # 생성자와 return문
 ```javascript
 생성자 함수엔 보통 return 문이 없습니다. 
