@@ -20,6 +20,21 @@ ECMAScript (표준문서)
 jscript 레퍼런스 (MSDN)
 ```
 
+# 명세서
+```javascript
+DOM 명세서
+문서 구조, 조작, 이벤트에 관한 설명이 담겨있고, https://dom.spec.whatwg.org에서 볼 수 있습니다.
+CSSOM 명세서
+스타일시트와 스타일 규칙, 이 둘을 어떻게 조작할 수 있는지, 
+이 둘과 문서 사이의 관계를 어떻게 조작할 수 있는지에 대한 설명이 담겨있고, 
+https://www.w3.org/TR/cssom-1/에서 볼 수 있습니다.
+HTML 명세서
+태그 등의 HTML 언어, setTimeout, alert, location 등의 다양한 브라우저 기능을 정의한 BOM에 대한 설명이 담겨있고, 
+https://html.spec.whatwg.org에서 볼 수 있습니다. 
+DOM 명세서에 다양한 프로퍼티와 메서드를 추가해 확장한 명세서입니다.
+몇몇 클래스에 대한 설명은 https://spec.whatwg.org/에서 확인할 수 있습니다.
+```
+
 # [프로그래머스 면접 질문](https://programmers.co.kr/posts/tag/%EA%B8%B0%EC%88%A0%EB%A9%B4%EC%A0%91%EB%8C%80%EB%B9%84)
 # [프론트엔드 기본](https://joshua1988.github.io/web-development/javascript/javascript-basic-summary/)
 # [프론트엔드 인터뷰 문제](https://joshua1988.github.io/)
