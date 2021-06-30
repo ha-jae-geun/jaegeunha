@@ -131,3 +131,32 @@ alert( +apples + +oranges ); // 5
 // alert( Number(apples) + Number(oranges) ); // 5
 ```
 
+
+# String/Number/Boolean를 생성자론 쓰지 맙시다.
+```javascript
+Java 등의 몇몇 언어에선 new Number(1) 또는 new Boolean(false)와 
+같은 문법을 사용해 원하는 타입의 "래퍼 객체"를 직접 만들 수 있습니다.
+
+자바스크립트에서도 하위 호환성을 위해 이 기능을 남겨 두었는데, 
+이런 식으로 래퍼 객체를 만드는 건 추천하지 않습니다. 
+몇몇 상황에서 혼동을 불러일으키기 때문입니다.
+
+예시:
+
+alert( typeof 0 ); // "number"
+
+alert( typeof new Number(0) ); // "object"!
+객체는 논리 평가 시 항상 참을 반환하기 때문에, 아래 예시에서 얼럿창은 무조건 열립니다.
+
+let zero = new Number(0);
+
+if (zero) { // 변수 zero는 객체이므로, 조건문이 참이 됩니다.
+  alert( "그런데 여러분은 zero가 참이라는 것에 동의하시나요!?!" );
+}
+그런데, new를 붙이지 않고 String / Number / Boolean을 사용하는 건 괜찮습니다.
+new 없이 사용하면 상식에 맞게 인수를 원하는 형의 원시값(문자열, 숫자, 불린 값)으로 바꿔줍니다. 아주 유용하죠.
+
+예시:
+
+let num = Number("123"); // 문자열을 숫자로 바꿔줌
+```
