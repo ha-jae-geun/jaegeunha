@@ -6,6 +6,43 @@
 # Array 타입 체크
 * Object.prototype.toString.call(password) === '[object Array]'
 
+# 배열 값 찾기
+```javascript
+배열 탐색하기
+배열 내에서 무언가를 찾고 싶을 때 쓰는 메서드에 대해 알아봅시다.
+
+indexOf, lastIndexOf와 includes
+arr.indexOf와 arr.lastIndexOf, arr.includes는 같은 이름을 가진 문자열 메서드와 문법이 동일합니다. 
+물론 하는 일도 같습니다. 연산 대상이 문자열이 아닌 배열의 요소라는 점만 다릅니다.
+
+arr.indexOf(item, from)는 인덱스 from부터 시작해 item(요소)을 찾습니다. 
+요소를 발견하면 해당 요소의 인덱스를 반환하고, 발견하지 못했으면 -1을 반환합니다.
+arr.lastIndexOf(item, from)는 위 메서드와 동일한 기능을 하는데, 검색을 끝에서부터 시작한다는 점만 다릅니다.
+arr.includes(item, from)는 인덱스 from부터 시작해 item이 있는지를 검색하는데, 해당하는 요소를 발견하면 true를 반환합니다.
+
+예시:
+
+let arr = [1, 0, false];
+
+alert( arr.indexOf(0) ); // 1
+alert( arr.indexOf(false) ); // 2
+alert( arr.indexOf(null) ); // -1
+
+alert( arr.includes(1) ); // true
+위 메서드들은 요소를 찾을 때 완전 항등 연산자 === 을 사용한다는 점에 유의하시기 바랍니다. 
+보시는 바와 같이 false를 검색하면 정확히 false만을 검색하지, 0을 검색하진 않습니다.
+
+요소의 위치를 정확히 알고 싶은게 아니고 
+요소가 배열 내 존재하는지 여부만 확인하고 싶다면 arr.includes를 사용하는 게 좋습니다.
+
+includes는 NaN도 제대로 처리한다는 점에서 
+indexOf/lastIndexOf와 약간의 차이가 있습니다.
+
+const arr = [NaN];
+alert( arr.indexOf(NaN) ); // -1 (완전 항등 비교 === 는 NaN엔 동작하지 않으므로 0이 출력되지 않습니다.)
+alert( arr.includes(NaN) );// true (NaN의 여부를 확인하였습니다.)
+```
+
 # 선언
 * cost arr1 = new Array();
 const arr2 = [1,2]
