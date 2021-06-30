@@ -1,5 +1,6 @@
 # [자바스크립트 MND](https://developer.mozilla.org/ko/)
 # [Javascript info](https://ko.javascript.info/)
+# [Exploring js](https://exploringjs.com/es6/index.html#toc_ch_variables)
 # [특정 엔진 지원 여부](https://kangax.github.io/compat-table)
 # [암호화 관련 기능 지원 여부](http://caniuse.com/#feat=cryptography)
 ```javascript
