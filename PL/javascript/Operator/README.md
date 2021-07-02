@@ -1,5 +1,38 @@
 # [엘리](https://www.youtube.com/watch?v=YBjufjBaxHo&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=4)
 
+# [Object.is](https://gunnkimkr.github.io/posts/javascript-data-types-number/)
+```javascript
+ Object.is
+
+Object.is(NaN, NaN); // true
+Object.is('string', 'string'); // true
+Object.is(window, window); // true
+Object.is(undefined, undefined); // true
+
+Object.is('string', 'Str'); // false
+Object.is({}, {}); // false
+Object.is([], []); // false
+
+var obj = { key: 'value' };
+Object.is(test, test); // true
+Object.is(null, null); // true
+
+Object.is(0, -0); // false
+Object.is(-0, -0); // true
+Object.is(NaN, 0/0); // true
+== 연산은 형 변환 후 값을 비교하고, === 연산은 0과 -0을 같게 여기기 때문에 
+정확한 판별이 어려울 수 있지만 Object.is는 엄격한 규칙을 적용하기 때문에 정확한 판별이 가능하다.
+
+다음 조건 중 하나를 만족하면 ture를 반환한다.
+
+두 값이 undefined 일 때
+두 값이 null 일 때
+두 값이 true 또는 false 일 때
+두 값이 같은 문자에 같은 길이인 문자열 일 때
+두 값이 같은 객체 일 때
+📌 각주
+```
+
 # [null이나 undefined와 비교하기](https://ko.javascript.info/comparison)
 ```javascript
 null이나 undefined를 다른 값과 비교할 땐 예상치 않은 일들이 발생합니다. 
