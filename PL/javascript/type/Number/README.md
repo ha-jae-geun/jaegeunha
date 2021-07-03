@@ -179,7 +179,7 @@ alert( +apples + +oranges ); // 5
 // alert( Number(apples) + Number(oranges) ); // 5
 ```
 
-## 숫자 관련 함수
+## [숫자 관련 함수](https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=dktmrorl&logNo=221735445026)
 ```javascript
 parseInt()
 첫 문자가 숫자라면 10, 8, 16진수를 인식하고 그에 맞게 변환한다. 만약 숫자+문자의 형태라면, 앞의 숫자만 반환한다.
