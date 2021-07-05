@@ -1,4 +1,5 @@
 # [Iterable, Iterator](https://pks2974.medium.com/javascript%EC%99%80-iterator-cdee90b11c0f)
+# [Javascript Info Iterable](https://ko.javascript.info/iterable)
 
 # for in
 ## 배열
