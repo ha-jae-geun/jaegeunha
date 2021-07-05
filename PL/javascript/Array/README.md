@@ -2,6 +2,7 @@
 # [배열 API](https://www.youtube.com/watch?v=3CUjtKJ7PJg&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2&index=9)
 
 # [reduce와 map](https://www.zerocho.com/category/JavaScript/post/5acafb05f24445001b8d796d)
+# [Spread 문법과 apply](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 
 # Array 타입 체크
 * Object.prototype.toString.call(password) === '[object Array]'
