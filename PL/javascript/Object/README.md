@@ -2,6 +2,8 @@
 
 # [Object 객체](https://www.zerocho.com/category/JavaScript/post/573dbc9370ba9c603052cc9a)
 
+# [Iterable, Iterator](https://pks2974.medium.com/javascript%EC%99%80-iterator-cdee90b11c0f)
+
 # static
 ```javascript
 Class Article {
