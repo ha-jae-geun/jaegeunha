@@ -120,12 +120,6 @@ MDS에서는, 장점 하나는 에러가 발생 했을 때, stack trace가 함�
 출력하기 때문에 에러를 찾기 쉬운 것이 기명 함수 표현의 장점이라고 이야기 함니다.
 ```
 
-# [즉시 실행 함수를 사용하는 이유](https://beomy.tistory.com/9)
-
-# [iife 4 reasons](https://youtu.be/8GDk8sj0YgQ)
-
-# [iife closure](https://youtu.be/1S8SBDhA7HA)
-
 
 # return과 값 사이에 절대 줄을 삽입하지 마세요.
       반환하려는 값이 긴 표현식인 경우, 아래와 같이 지시자 return과 반환하려는 값 사이에 새 줄을 넣어 코드를 작성하고 싶을 수도 있습니다.
