@@ -1,6 +1,46 @@
 # [Iterable, Iterator](https://pks2974.medium.com/javascript%EC%99%80-iterator-cdee90b11c0f)
 # [Javascript Info Iterable](https://ko.javascript.info/iterable)
 
+
+
+# 전개문법과 iterable
+```javascript
+let arr = [3, 5, 1];
+let arr2 = [8, 9, 15];
+
+let merged = [0, ...arr, 2, ...arr2];
+
+alert(merged); // 0,3,5,1,2,8,9,15 (0, arr, 2, arr2 순서로 합쳐집니다.)
+앞선 예시들에선 배열을 대상으로 전개 문법이 어떻게 동작하는지 살펴보았습니다. 
+그런데 배열이 아니더라도 이터러블 객체이면 전개 문법을 사용할 수 있습니다.
+
+전개 문법을 사용해 문자열을 문자 배열로 변환 시켜 보겠습니다.
+
+let str = "Hello";
+
+alert( [...str] ); // H,e,l,l,o
+전개 문법은 for..of와 같은 방식으로 내부에서 iterator(반복자)를 사용해 요소를 수집합니다.
+
+문자열에 for..of를 사용하면 문자열을 구성하는 문자가 반환됩니다.
+...str도 "H","e","l","l","o"가 되는데, 
+이 문자 목록은 배열 초기자(array initializer) [...str]로 전달됩니다.
+
+메서드 Array.from은 문자열 같은 이터러블 객체를 배열로 바꿔주기 때문에 
+Array.from을 사용해도 동일한 작업을 할 수 있습니다.
+
+let str = "Hello";
+
+// Array.from은 이터러블을 배열로 바꿔줍니다.
+alert( Array.from(str) ); // H,e,l,l,o
+[...str]와 동일한 결과가 출력되는 것을 확인할 수 있습니다.
+
+그런데 Array.from(obj)와 [...obj]에는 다음과 같은 미묘한 차이가 있습니다.
+
+Array.from은 유사 배열 객체와 이터러블 객체 둘 다에 사용할 수 있습니다.
+전개 문법은 이터러블 객체에만 사용할 수 있습니다.
+이런 이유때문에 무언가를 배열로 바꿀 때는 전개 문법보다 Array.from이 보편적으로 사용됩니다.
+```
+
 # for in
 ## 배열
 ```javascript
