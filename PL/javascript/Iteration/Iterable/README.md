@@ -2,6 +2,24 @@
 # [Javascript Info Iterable](https://ko.javascript.info/iterable)
 
 
+# for of
+```javascript
+const arr = ['a', 'b'];
+for (const [index, element] of arr.entries()) {
+    console.log(`${index}. ${element}`);
+}
+
+// Output:
+// 0. a
+// 1. b
+
+const map = new Map([
+    [false, 'no'],
+    [true, 'yes'],
+]);
+for (const [key, value] of map) {
+    console.log(`${key} => ${value}`);
+```
 
 # 전개문법과 iterable
 ```javascript
