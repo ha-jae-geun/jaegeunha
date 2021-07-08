@@ -19,7 +19,9 @@ const map = new Map([
 ]);
 for (const [key, value] of map) {
     console.log(`${key} => ${value}`);
+}
 ```
+* entries() 메서드는 배열의 각 인덱스에 대한 키/값 쌍을 가지는 새로운 Array Iterator 객체를 반환합니다.
 
 # 전개문법과 iterable
 ```javascript
