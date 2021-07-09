@@ -75,3 +75,5 @@ toUpperCase 메서드가 실행되면 새로운 문자열을 반환하고 래퍼
 
 원시 래퍼 객체는 원시 값의 타입에 따라 종류가 다르며, 상속하는 메서드도 다르다. 
 ```
+
+# [원시 래퍼 객체](https://developer.mozilla.org/ko/docs/Glossary/Primitive)
