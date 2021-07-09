@@ -1,0 +1,42 @@
+# [객체 프로퍼티 접근 표현식](https://medium.com/@wainy254/javascript-%ED%91%9C%ED%98%84%EC%8B%9D-expression-68dd56dddabb)
+* 프로퍼티 접근 표현식은 객체의 프로퍼티나 배열의 원소 값으로 평가된다.
+  * 주의! dot notation vs bracket notation : (표현식.식별자) (표현식[표현식])
+
+
+# [객체 프로퍼티 접근](https://poiemaweb.com/js-object)
+```javascript
+프로퍼티 키는 일반적으로 문자열(빈 문자열 포함)을 지정한다. 
+프로퍼티 키에 문자열이나 symbol 값 이외의 값을 지정하면 암묵적으로 타입이 변환되어 문자열이 된다. 
+또한 문자열 타입의 값으로 수렴될 수 있는 표현식도 가능하다. 
+프로퍼티 키는 문자열이므로 따옴표(‘’ 또는 ““)를 사용한다. 
+하지만 자바스크립트에서 사용 가능한 유효한 이름인 경우, 따옴표를 생략할 수 있다. 
+반대로 말하면 자바스크립트에서 사용 가능한 유효한 이름이 아닌 경우, 반드시 따옴표를 사용하여야 한다.
+
+프로퍼티 값은 모든 값과 표현식이 올 수 있으며 프로퍼티 값이 함수인 경우 이를 메소드라 한다.
+
+var person = {
+  'first-name': 'Ung-mo',
+  'last-name': 'Lee',
+  gender: 'male',
+  1: 10,
+  function: 1 // OK. 하지만 예약어는 사용하지 말아야 한다.
+};
+
+console.log(person);
+프로퍼티 키 first-name에는 반드시 따옴표를 사용해야 하지만 first_name에는 생략 가능하다. 
+first-name은 자바스크립트에서 사용 가능한 유효한 이름이 아니라 ‘-‘ 연산자가 있는 표현식이기 때문이다.
+
+var person = {
+  first-name: 'Ung-mo', // SyntaxError: Unexpected token -
+};
+표현식을 프로퍼티 키로 사용하려면 키로 사용할 표현식을 대괄호로 묶어야 한다. 
+이때 자바스크립트 엔진은 표현식을 평가하기 위해 
+식별자 first를 찾을 것이고 이때 ReferenceError가 발생한다.
+
+var person = {
+  [first-name]: 'Ung-mo', // ReferenceError: first is not defined
+};
+예약어를 프로퍼티 키로 사용하여도 에러가 발생하지는 않는다. 
+하지만 예상치 못한 에러가 발생할 수 있으므로 예약어를 프로퍼티 키로 사용해서는 않된다. 
+자바스크립트 예약어는 아래와 같다.
+```
