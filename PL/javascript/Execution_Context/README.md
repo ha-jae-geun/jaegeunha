@@ -2,6 +2,8 @@
 
 # [제로조 실행 컨텍스트](https://www.zerocho.com/category/JavaScript/post/5741d96d094da4986bc950a0)
 
+# [ui-dev](https://ui.dev/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript/)
+
 
 # 실행 컨텍스트 (Execution Context)란?
 * 자바스크립트의 코드들이 실행되기 위환 환경이다.
