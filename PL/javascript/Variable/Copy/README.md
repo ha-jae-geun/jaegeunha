@@ -1,4 +1,4 @@
-# 값 복사
+# [값 복사](https://gunnkimkr.github.io/posts/javascript-primitive-and-reference-values-copying-values/)
 ```javascript
 값 복사
 값에 의한 값 복사
