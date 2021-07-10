@@ -1,3 +1,5 @@
+# [우테코 파즈 osi](https://youtu.be/Fl_PSiIwtEo)
+
 # [OSI 7계층](https://www.youtube.com/watch?v=1pfTxp25MA8)
 ```java
 3. OSI(Open System Interconnection) 7계층에 대한 설
