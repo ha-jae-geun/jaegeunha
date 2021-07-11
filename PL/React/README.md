@@ -79,3 +79,8 @@ yarn create react-app 프로젝트명
 
 ==============================
 ```
+* 첫 번째 줄의 ‘npx’는 실수가 아니며 npm 5.2+ 버전의 패키지 실행 도구입니다.
+* Create React App는 Babel이나 webpack같은 build 도구를 사용하나, 설정 없이도 동작합니다.
+* 프로덕션을 배포할 준비가 되었을 때, npm run build 를 실행하면 build 폴더 안에 제작한 앱의 최적화된 Build를 생성합니다. README 나 사용자 가이드에서 더 자세한 사항을 볼 수 있습니다.
+
+
