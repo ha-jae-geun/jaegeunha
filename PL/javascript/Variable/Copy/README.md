@@ -104,3 +104,32 @@ function cloneObj(obj) {
   return cloneObject;
 }
 ```
+
+## spraed 객체 복사
+```javascript
+const dog = {name: "치와와", age:2, addr: "서울"};
+
+// 갱신, 수정
+//{...객체복사, 키:값} -> 해당 키 값이 수정
+const dog1 = {...dog, name: "고양이"};
+console.log(dog1);
+```
+
+## spraed 배열 복사
+```javascript
+  const data = [
+    {id: 1, name: '강호동', age: 20},
+    {id: 2 name: '고민지', age: 3},
+    {id: 3 name: '유재석', age: 4},
+    {id: 4 name: '이효리', age: 5},
+    {id: 5 name: '제시', age: 6},
+  ];
+  const data1 = [
+    ...data,
+    {
+      id: 6,
+      name: "김철수",
+      age: 20
+    }
+  ]
+```
