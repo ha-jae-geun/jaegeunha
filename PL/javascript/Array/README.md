@@ -4,6 +4,20 @@
 # [reduce와 map](https://www.zerocho.com/category/JavaScript/post/5acafb05f24445001b8d796d)
 # [Spread 문법과 apply](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 
+# 불변성 유지
+```javascript
+const arr = [10, 20, 30, 40, 50]
+
+// 불변성 유지가 안됨
+arr.push(60)
+
+// 불변성 유지
+const arr1 = [10, 20, 30, 40, 50];
+const arr2 = arr1.concat(60);
+
+
+```
+
 # Array 타입 체크
 * Object.prototype.toString.call(password) === '[object Array]'
 
