@@ -40,3 +40,19 @@ const data = [
 const test = data.filter( item => item.id === 3)
 
 ```
+
+# indexOf
+```javascript
+const data = [
+  {name: '운동을 하다'},
+  {name: '저녁을 하다'},
+  {name: '달리기와 운동'},
+  {name: '친구와 외식'},
+  {name: '김치전을 하다'},
+  {name: '잠을 자다'},
+];
+
+const txt1 = '하다'
+
+const test = data.filter( item => item.name.indexOf(txt2) !== -1)
+```
