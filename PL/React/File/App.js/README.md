@@ -1,4 +1,4 @@
-# App.js
+# App.js 처음
 ```javascript
 import logo from './logo.svg';
 import './App.css';
@@ -28,4 +28,21 @@ function App() {
 
 export default App;
 
+```
+
+
+# App.js 테스트
+```javascript
+import React from 'react'
+
+const App = () => {
+
+  return(
+    <div>
+      테스트
+    </div>
+  )
+}
+
+export default App
 ```
