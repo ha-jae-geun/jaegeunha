@@ -27,3 +27,36 @@
 </body>
 </html>
 ```
+
+# 예제2
+```javascript
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <meta charset="UTF-8" />
+    <title> test </title>
+    <script src="https://unpkg.com/react@16/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@16/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/babel-standalone@6.26.0/babel.js"></script>
+    </head>
+    <body>
+        <!-- 실제 dom-->
+        <div id="root" >실제돔</div>
+        <script type="text/babel">
+            const name = "홍길동";
+            const age = 20;
+            const addr = "서울";
+
+            const el = ( 
+                <div>
+                    <h2> {name} </h2>
+                    <p> 나이: {age} </p>
+                    <p> 주소: {addr} </p>
+                </div>
+            )
+            const dom = document.querySelector('#root');
+            ReactDOM.render( el, dom);
+        </script>
+    </body>
+</html>
+```
