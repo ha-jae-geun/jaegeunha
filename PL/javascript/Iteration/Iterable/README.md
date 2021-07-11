@@ -1,6 +1,6 @@
 # [Iterable, Iterator](https://pks2974.medium.com/javascript%EC%99%80-iterator-cdee90b11c0f)
 # [Javascript Info Iterable](https://ko.javascript.info/iterable)
-
+# [generator 테코톡](https://youtu.be/fsmekO1fQcw)
 
 # for of
 ```javascript
