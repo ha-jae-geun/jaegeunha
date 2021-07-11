@@ -62,7 +62,7 @@ Auto Rename Tag
 
 ​
 
-Reactjs code snippets
+Reactjs code snippets(rsc 명령어)
 ```
 
 # 프로젝트 세팅
