@@ -45,3 +45,18 @@
   
   console.log(data2);
 ```
+
+## id가 3인 사람 수정/갱신
+```javascript
+  const data = [
+    {id: 1, name: '강호동', age: 20},
+    {id: 2, name: '고민지', age: 3},
+    {id: 3, name: '유재석', age: 4},
+    {id: 4, name: '이효리', age: 5},
+    {id: 5, name: '제시', age: 6},
+  ];
+  
+ const data3 = data.map( (item, index) => item.id === 1 ? {...item, name:"이승기", age:20} : item)
+  
+  console.log(data3);
+```
