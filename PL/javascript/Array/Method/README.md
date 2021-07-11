@@ -1,3 +1,18 @@
+# 불변성 유지
+```javascript
+const arr = [10, 20, 30, 40, 50]
+
+// 불변성 유지가 안됨
+arr.push(60)
+
+// 불변성 유지
+const arr1 = [10, 20, 30, 40, 50];
+const arr2 = arr1.concat(60);
+
+```
+
+## [불변성 유지 메서드](https://opentogether.tistory.com/106)
+
 # find
 * 해당하는 1개의 값 찾을때
 ```javascript
