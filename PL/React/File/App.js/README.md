@@ -1,3 +1,6 @@
+# 컴포넌트 단축키
+* rsc
+
 # App.js 처음
 ```javascript
 import logo from './logo.svg';
