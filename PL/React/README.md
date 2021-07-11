@@ -1,3 +1,6 @@
+# 레퍼런스
+* [리액트 org](https://ko.reactjs.org/)
+
 # 세팅
 * [세팅](https://github.com/ha-jae-geun/jaegeunha/blob/master/Setting/Expo/README.md)
 
