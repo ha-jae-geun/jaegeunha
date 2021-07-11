@@ -15,8 +15,9 @@ arr.push(60)
 const arr1 = [10, 20, 30, 40, 50];
 const arr2 = arr1.concat(60);
 
-
 ```
+
+## [불변성 유지 메서드](https://opentogether.tistory.com/106)
 
 # Array 타입 체크
 * Object.prototype.toString.call(password) === '[object Array]'
