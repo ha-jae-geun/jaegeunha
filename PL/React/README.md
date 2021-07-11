@@ -63,7 +63,19 @@ Auto Rename Tag
 ​
 
 Reactjs code snippets
+```
 
+# 프로젝트 세팅
+```javascript
+npx create-react-app 프로젝트명
 
+cd 프로젝트명
 
+npm start or yarn start - 실행
+
+==============================
+
+yarn create react-app 프로젝트명
+
+==============================
 ```
