@@ -1,3 +1,5 @@
+# [poeimaWeb scope](https://poiemaweb.com/js-scope)
+
 # Lexical Scope
 ```javascript
 위 예제의 실행 결과는 함수 bar의 상위 스코프가 무엇인지에 따라 결정된다. 
