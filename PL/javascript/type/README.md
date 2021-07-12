@@ -1,3 +1,5 @@
+# [poeimaWeb type coercion](https://poiemaweb.com/js-type-coercion)
+
 # 자료형
 *    부동 소수점은 메모리를 많이 차지, 자동으로 지수 ->  정수 표현식으로 사용
 *    0과 -0은 부호비트가 다르다
