@@ -1,3 +1,13 @@
+# JQuery 특징
+* 크로스 플랫폼을 지원하는 jQuery는 어떠한 브라우저에서도 동일하게 동작한다. 이것은 브라우저 호환성을 고려하여 대체 코드(Polyfill)를 작성할 필요가 없다는 것을 의미한다.
+* 네이티브 DOM API(DOM Query, Traversing, Manipulation 등)보다 직관적이고 편리한 API를 제공한다. CSS 스타일의 selector를 사용할 수 있으며 조작 또한 강력하며 유연하다.
+* 이벤트 처리, Ajax, Animation 효과를 쉽게 사용할 수 있다.
+* 다양한 플러그인이 존재하며 다른 라이브러리들과 충돌을 일으키지 않는다.
+
+## jQuery의 설치
+* jQuery 1.x과 jQuery 2.x 두가지 버전이 존재한다. 두가지 버전 모두 동일한 API을 제공하지만 jQuery 2.x는 IE 8 이하를 지원하지 않으므로 주의가 필요하다.
+
+
 # [JQuery](https://poiemaweb.com/jquery-basics)
 ```java
 Query(제이쿼리)는 인터넷 개발자가 웹 페이지를 쉽고 빠르게 개발할 수 있도록 해주는 자바스크립트 기반의 프레임워크입니다. 
