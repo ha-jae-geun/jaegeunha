@@ -1,3 +1,40 @@
+# 전역변수 줄이는 2가지 방법
+```javascript
+1. 최소한의 전역변수 사용
+
+전역변수 사용을 최소화하는 방법 중 하나는 애플리케이션에서 전역변수 사용을 위해 
+다음과 같이 전역변수 객체 하나를 만들어 사용하는 것이다. (더글라스 크락포드의 제안)
+
+var MYAPP = {};
+
+MYAPP.student = {
+  name: 'Lee',
+  gender: 'male'
+};
+
+console.log(MYAPP.student.name);
+
+
+
+2. 즉시실행함수를 이용한 전역변수 사용 억제
+전역변수 사용을 억제하기 위해, 즉시 실행 함수(IIFE, Immediately-Invoked Function Expression)를 사용할 수 있다. 
+이 방법을 사용하면 전역변수를 만들지 않으므로 라이브러리 등에 자주 사용된다. 
+즉시 실행 함수는 즉시 실행되고 그 후 전역에서 바로 사라진다.
+
+(function () {
+  var MYAPP = {};
+
+  MYAPP.student = {
+    name: 'Lee',
+    gender: 'male'
+  };
+
+  console.log(MYAPP.student.name);
+}());
+
+console.log(MYAPP.student.name);
+```
+
 # [globalThis](https://ko.javascript.info/global-object)
 ```javascript
 브라우저에서 let이나 const가 아닌 
