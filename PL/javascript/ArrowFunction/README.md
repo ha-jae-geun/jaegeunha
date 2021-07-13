@@ -76,6 +76,9 @@ const Foo = () => {};
 console.log(Foo.hasOwnProperty('prototype')); // false
 
 const foo = new Foo(); // TypeError: Foo is not a constructor
+
+
+
 #4.4 addEventListener 함수의 콜백 함수
 addEventListener 함수의 콜백 함수를 화살표 함수로 정의하면 this가 상위 컨택스트인 전역 객체 window를 가리킨다.
 
